@@ -2,7 +2,7 @@
 title: "Johnson & Johnson"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -27,7 +27,7 @@ federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]]"
 ---
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing

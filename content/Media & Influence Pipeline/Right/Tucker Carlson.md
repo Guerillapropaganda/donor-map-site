@@ -2,12 +2,12 @@
 title: "Tucker Carlson"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]]"
+related: "[[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]]"
 ---
 
 #media-pipeline #right #fox-news #replacement-theory #dark-money #russia #independence-theater

@@ -2,7 +2,7 @@
 title: "Bernie Moreno"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 bioguide-id: "A000383"
@@ -13,7 +13,7 @@ website: "https://www.moreno.senate.gov"
 phone: "202-224-2315"
 total-received: "$1,879,101"
 fec-candidate-id: "S4OH00192"
-donors: "[[David Sacks]]"
+donors: "[[David Sacks]] · [[NORPAC]]"
 ---
 
 #bernie-moreno #senate #ohio #crypto-industry #trump-backed #auto-dealer #class-analysis

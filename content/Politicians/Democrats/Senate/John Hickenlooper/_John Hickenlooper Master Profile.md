@@ -2,7 +2,7 @@
 title: "John Hickenlooper"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -39,6 +39,7 @@ corroboration-count: 3
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+donors: "[[NORPAC]]"
 ---
 
 #politician #democrat #senate #colorado #oil-gas #fracking #tech #brewery #moderate #follow-the-money #class-analysis #2026-election

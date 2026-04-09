@@ -2,7 +2,7 @@
 title: "Kaiser Permanente"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Healthcare"
@@ -25,7 +25,7 @@ last-enriched: "2026-04-08"
 nonprofit-status: "501(c)(5)"
 total-revenue: 23524060
 total-assets: 28875574
-related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Medicare for All - The Policy That Broke the Party]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]]"
+related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Medicare for All - The Policy That Broke the Party]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[Bernie Sanders Master Profile]]"
 ---
 
 

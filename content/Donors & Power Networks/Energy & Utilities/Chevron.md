@@ -2,7 +2,7 @@
 title: "Chevron"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -25,7 +25,7 @@ ein: 510189525
 annual-revenue: "$222K"
 net-assets: "$781K"
 tax-year: "2023"
-related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]]"
+related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]]"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund

@@ -2,12 +2,12 @@
 title: "Laura Ingraham"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Jesse Watters]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]]"
+related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Jesse Watters]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]]"
 donors: "(Fox Corp / Murdoch family — indirect via corporate employment)"
 opposes: "[[Rachel Maddow]]"
 ---

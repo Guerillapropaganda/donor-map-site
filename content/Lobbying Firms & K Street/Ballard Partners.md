@@ -2,14 +2,14 @@
 title: "Ballard Partners"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 annual-revenue: "$88.1M (2025)"
 lobbyist-count: 38
 fara-clients: 14
 revolving-door-pct: "29.7%"
-related: "[[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[K&L Gates]] · [[Brownstein Hyatt Farber Schreck]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Alpine Group]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]]"
+related: "[[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[K&L Gates]] · [[Brownstein Hyatt Farber Schreck]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Alpine Group]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]]"
 court-cases: 33
 last-enriched: "2026-04-07"
 court-jurisdictions:

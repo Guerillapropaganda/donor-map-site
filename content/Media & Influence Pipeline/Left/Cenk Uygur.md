@@ -2,12 +2,12 @@
 title: "Cenk Uygur"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]] · [[Ana Kasparian]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]]"
+related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]] · [[Ana Kasparian]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]]"
 ---
 
 #media-pipeline #left #independence-theater #audience-capture #revolving-door #labor-contradiction #venture-capital

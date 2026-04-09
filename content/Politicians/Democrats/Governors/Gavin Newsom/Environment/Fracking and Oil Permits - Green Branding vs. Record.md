@@ -2,10 +2,10 @@
 title: "Fracking and Oil Permits - Green Branding vs. Record"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Economic Policy - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Healthcare - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]]"
+related: "[[Economic Policy - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Healthcare - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]]"
 ---
 
 

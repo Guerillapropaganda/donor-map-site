@@ -2,7 +2,7 @@
 title: "Third Way"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: centrist
@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
 total-revenue: 60561784
 total-assets: 65953090
-related: "[[Goldman Sachs]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Democracy Alliance]] · [[Brookings Institution]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]]"
+related: "[[Goldman Sachs]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Democracy Alliance]] · [[Brookings Institution]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]]"
 lei: "213800S9PS2GFGFQQB08"
 lei-jurisdiction: "GB"
 ---

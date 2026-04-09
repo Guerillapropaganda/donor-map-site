@@ -2,7 +2,7 @@
 title: "Reed Hastings"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -41,6 +41,13 @@ federal-register-mentions: 2
 regulatory-agencies:
   - "Securities and Exchange Commission"
 related: "[[Silicon Valley Democratic Donor Network]]"
+total-political-spend: "$28,513,162"
+politicians-funded:
+  - "Joe Biden"
+  - "Hakeem Jeffries"
+  - "Kamala Harris"
+  - "Barack Obama"
+  - "CSPOA - The Anti-Government Sheriff Network"
 ---
 
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund
@@ -212,3 +219,28 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Reed%20Hastings%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $28,513,162 |
+| Contributions | 461 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SMP | $10,993,070 | — |
+| REPUBLICAN ACCOUNTABILITY PAC | $6,908,817 | — |
+| HMP | $3,450,000 | — |
+| FF PAC | $1,000,000 | — |
+| HOUSE MAJORITY PAC | $963,500 | — |
+| BIDEN VICTORY FUND | $720,000 | — |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $711,900 | DEM |
+| DCCC | $561,900 | DEM |
+| JEFFRIES VICTORY FUND | $550,000 | — |
+| HILLARY VICTORY FUND | $410,700 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Reed%20Hastings) (Tier 1)
+<!-- auto:fec-donor end -->

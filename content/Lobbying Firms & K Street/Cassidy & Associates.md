@@ -2,13 +2,13 @@
 title: "Cassidy & Associates"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 annual-revenue: "$30.6M"
 lobbyist-count: 34
 revolving-door-pct: "70.6%"
-related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]] · [[Prime Policy Group]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]] · [[Mehlman Consulting]]"
+related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]] · [[Prime Policy Group]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]]"
 court-cases: 7
 last-enriched: "2026-04-07"
 court-jurisdictions:

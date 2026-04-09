@@ -2,7 +2,7 @@
 title: "JPMorgan Chase"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -64,7 +64,7 @@ lei-jurisdiction: "US-DE"
 nonprofit-status: "501(c)(3)"
 total-revenue: 2245488721
 total-assets: 1219377637
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[John Boehner]] · [[The Whiteboard Populism and Legislative Limits]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Melissa Bean's Corporate Background]] · [[The Financial Services Committee and Wall Street Oversight]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[John Boehner]] · [[The Whiteboard Populism and Legislative Limits]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Melissa Bean's Corporate Background]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]]"
 ---
 
 #megabank #wall-street #jamie-dimon #bipartisan #financial-deregulation #revolving-door #too-big-to-fail #both-sides

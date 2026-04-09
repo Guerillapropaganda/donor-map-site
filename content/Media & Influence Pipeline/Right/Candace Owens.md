@@ -2,11 +2,11 @@
 title: "Candace Owens"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: right
-related: "[[Ben Shapiro]] · [[Charlie Kirk]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]]"
+related: "[[Ben Shapiro]] · [[Charlie Kirk]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]]"
 donors: "[[Wilks Brothers]]"
 ---
 

@@ -2,7 +2,7 @@
 title: "ExxonMobil"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -46,7 +46,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "324191"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[John Barrasso]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[John Barrasso]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[PG&E - Pacific Gas and Electric]]"
 ---
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money

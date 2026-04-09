@@ -2,12 +2,12 @@
 title: "Joe Scarborough"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]]"
 ---
 
 #media-pipeline #centrist #cable-news #msnbc #ms-now #republican-turned-independent #revolving-door

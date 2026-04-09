@@ -2,14 +2,14 @@
 title: "Occidental Petroleum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 lei: "IM7X0T3ECJW4C1T7ON55"
 lei-jurisdiction: "US-DE"
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]] · [[Koch Industries]]"
 ---
 
 #occidental #oil #permian-basin #buffett #carbon-capture #lobbying #energy

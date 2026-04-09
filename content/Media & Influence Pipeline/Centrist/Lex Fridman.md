@@ -2,11 +2,11 @@
 title: "Lex Fridman"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 category: centrist
-related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]]"
+related: "[[Joe Rogan]] · [[Bill Maher]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]]"
 donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]"
 ---
 

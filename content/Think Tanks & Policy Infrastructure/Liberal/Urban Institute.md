@@ -2,12 +2,12 @@
 title: "Urban Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]]"
+related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]]"
 lei: "984500C6P0VF15B8E658"
 lei-jurisdiction: "IN"
 ein: "520880375"

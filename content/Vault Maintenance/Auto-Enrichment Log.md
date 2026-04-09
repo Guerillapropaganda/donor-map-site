@@ -1,7 +1,7 @@
 ---
 title: "Auto-Enrichment Log"
 type: reference
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: null
 ---
 
@@ -178,6 +178,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-09 03:13 UTC — 1 profile
+
+**FEC — 1 profile:**
+- Reed Hastings — total political spend $28,513,162
+
+---
 ## 2026-04-08 11:41 UTC — 6 profiles
 
 **committee — 6 profiles:**

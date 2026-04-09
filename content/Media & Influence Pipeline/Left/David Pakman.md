@@ -2,12 +2,12 @@
 title: "David Pakman"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Dave Rubin]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Sean Hannity]] · [[Patrick Bet-David]]"
+related: "[[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Dave Rubin]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]]"
 donors: "[[Sixteen Thirty Fund]] (Chorus Creator Incubator Program, disclosed Aug 2025)"
 ---
 

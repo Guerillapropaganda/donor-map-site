@@ -2,12 +2,12 @@
 title: "Anderson Cooper"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox News - Murdoch Media Empire]] · [[Bari Weiss]] · [[Jake Tapper]] · [[Nicolle Wallace]] · [[Chris Wallace]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[Bari Weiss]] · [[Jake Tapper]] · [[Nicolle Wallace]] · [[Chris Wallace]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Sean Hannity]]"
 ---
 
 #media-pipeline #centrist #CNN #institutional-media #vanderbilt #class-analysis

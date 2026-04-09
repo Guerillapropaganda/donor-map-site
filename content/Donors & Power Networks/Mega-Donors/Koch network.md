@@ -2,7 +2,7 @@
 title: "Koch network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -18,7 +18,7 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
-related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]]"
 ---
 
 #koch #network #dark-money #libertarian #deregulation #afp

@@ -2,7 +2,7 @@
 title: "Northrop Grumman"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -61,7 +61,7 @@ sec-form-types:
 federal-awards-total: 9185964914
 federal-contracts-count: 25
 federal-grants-count: 12
-related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]]"
+related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]]"
 ---
 
 

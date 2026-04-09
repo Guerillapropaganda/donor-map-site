@@ -2,13 +2,13 @@
 title: "Fierce Government Relations"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 annual-revenue: "$4.7M (2025)"
 lobbyist-count: 9
 revolving-door-pct: "77.8%"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]]"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]]"
 ein: "520852291"
 nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-08"

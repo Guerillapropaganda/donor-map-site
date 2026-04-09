@@ -2,7 +2,7 @@
 title: "ActBlue"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -25,7 +25,7 @@ ein: 455097038
 annual-revenue: "$2.0M"
 net-assets: "$8.5M"
 tax-year: "2023"
-related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]]"
+related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Pramila Jayapal]]"
 ---
 
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis

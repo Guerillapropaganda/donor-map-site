@@ -2,12 +2,12 @@
 title: "Andrew Klavan"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Daily Wire - Ben Shapiro|Daily Wire]] · [[Wilks Brothers]] · [[Ben Shapiro]] · [[Matt Walsh]] · [[Jeremy Boreing]] · [[Michael Knowles]] · [[Jordan Peterson]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Laura Ingraham]] · [[Sean Hannity]] · [[Patrick Bet-David]]"
+related: "[[Daily Wire - Ben Shapiro|Daily Wire]] · [[Wilks Brothers]] · [[Ben Shapiro]] · [[Matt Walsh]] · [[Jeremy Boreing]] · [[Michael Knowles]] · [[Jordan Peterson]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Laura Ingraham]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]]"
 ---
 
 #media-pipeline #right #daily-wire #theological-capitalism #literary-conservative #wilks-brothers
