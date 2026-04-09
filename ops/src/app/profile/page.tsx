@@ -820,7 +820,7 @@ export default function ProfilePage() {
                 const res = await fetch("/api/pipelines", {
                   method: "POST",
                   headers: { "Content-Type": "application/json" },
-                  body: JSON.stringify({ pipeline, profile: profileTitle, limit: 1 }),
+                  body: JSON.stringify({ pipeline, profile: profileTitle, limit: 5 }),
                 })
                 const data = await res.json()
                 if (!data.success) {
