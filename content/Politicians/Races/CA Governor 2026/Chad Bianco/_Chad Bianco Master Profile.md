@@ -160,18 +160,18 @@ Bianco is a direct foil to Newsom on several policy areas already documented:
 
 ### Sources
 
-- [NPR: Oath Keepers / Bianco](https://www.npr.org/2021/10/06/1043651361/oath-keepers-california-sheriff-chad-bianco-january-6-us-capitol) (Tier 2)
-- [LAist: Oath Keepers defense, CSPOA affiliation](https://laist.com/news/criminal-justice/riverside-sheriff-chad-bianco-once-was-an-oath-keeper-defends-the-extremist-group) (Tier 2)
-- [Press Enterprise: 95% RSA funding](https://www.pressenterprise.com/2018/05/01/95-of-chad-biancos-campaign-donations-come-from-a-single-public-sector-union/) (Tier 2)
-- [ABC7: Jail deaths, civil rights lawsuits](https://abc7.com/riverside-county-sheriff-chad-bianco-jail-deaths-civil-rights-lawsuits/13007309/) (Tier 2)
-- [Prison Legal News: DOJ investigation](https://www.prisonlegalnews.org/news/2024/aug/15/after-spike-jail-deaths-riverside-county-sheriffs-department-under-california-department-justice-investigation/) (Tier 3)
-- [CBS Los Angeles: Immigration enforcement position](https://www.cbsnews.com/losangeles/news/riverside-county-deputies-wont-make-immigration-related-arrests-sheriff-bianco-says/) (Tier 2)
-- [ICE: 287(g) MOU on file](https://www.ice.gov/doclib/287gMOA/riversidecountysheriffsoffice.pdf) (Tier 1)
-- [Capitol Weekly: Gubernatorial profile](https://capitolweekly.net/better-know-a-ca-gubernatorial-candidate-chad-bianco/) (Tier 2)
-- [The Ballot Book: 2026 donor analysis](https://theballotbook.com/blog/bianco-s-donor-base-in-the-la-media-market-could-signal-a-gop-edge) (Tier 3)
-- [America First Legal: Sanctuary lawsuit](https://aflegal.org/press-release/america-first-legal-adds-riverside-county-sheriff-chad-bianco-as-plaintiff-in-lawsuit-against-gavin-newsom-and-the-state-of-california-to-end-illegal-alien-sanctuary-laws/) (Tier 4 — partisan source, verify independently) (Tier 2)
-- [FPPC: Campaign finance records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-- [Ballotpedia: Chad Bianco](https://ballotpedia.org/Chad_Bianco) (Tier 3)
+- [NPR: Oath Keepers / Bianco](https://www.npr.org/2021/10/06/1043651361/oath-keepers-california-sheriff-chad-bianco-january-6-us-capitol) (Tier 2) (VERIFIED)
+- [LAist: Oath Keepers defense, CSPOA affiliation](https://laist.com/news/criminal-justice/riverside-sheriff-chad-bianco-once-was-an-oath-keeper-defends-the-extremist-group) (Tier 2) (VERIFIED)
+- [Press Enterprise: 95% RSA funding](https://www.pressenterprise.com/2018/05/01/95-of-chad-biancos-campaign-donations-come-from-a-single-public-sector-union/) (Tier 2) (VERIFIED)
+- [ABC7: Jail deaths, civil rights lawsuits](https://abc7.com/riverside-county-sheriff-chad-bianco-jail-deaths-civil-rights-lawsuits/13007309/) (Tier 2) (NEEDS REVIEW: Redirects to https://abc7.com/post/riverside-county-sheriff-chad-bianco-jail-deaths-civil-rights-lawsuits/13007309/?userab=abcn_du_cat_topic_feature_holdout-474*variant_b_redesign-1939%2Cotv_web_content_rec-539*variant_c_trending-2268%2Cotv_search_page_design_unification-546*variant_b_search_redesign-2300  It did work but I went back then didn't)
+- [Prison Legal News: DOJ investigation](https://www.prisonlegalnews.org/news/2024/aug/15/after-spike-jail-deaths-riverside-county-sheriffs-department-under-california-department-justice-investigation/) (Tier 3) (VERIFIED)
+- [CBS Los Angeles: Immigration enforcement position](https://www.cbsnews.com/losangeles/news/riverside-county-deputies-wont-make-immigration-related-arrests-sheriff-bianco-says/) (Tier 2) (VERIFIED)
+- [ICE: 287(g) MOU on file](https://www.ice.gov/doclib/287gMOA/riversidecountysheriffsoffice.pdf) (Tier 1) (VERIFIED)
+- [Capitol Weekly: Gubernatorial profile](https://capitolweekly.net/better-know-a-ca-gubernatorial-candidate-chad-bianco/) (Tier 2) (VERIFIED)
+- [The Ballot Book: 2026 donor analysis](https://theballotbook.com/blog/bianco-s-donor-base-in-the-la-media-market-could-signal-a-gop-edge) (Tier 3) (VERIFIED)
+- [America First Legal: Sanctuary lawsuit](https://aflegal.org/press-release/america-first-legal-adds-riverside-county-sheriff-chad-bianco-as-plaintiff-in-lawsuit-against-gavin-newsom-and-the-state-of-california-to-end-illegal-alien-sanctuary-laws/) (VERIFIED) (Tier 4 — partisan source, verify independently) (Tier 2)
+- ~~[FPPC: Campaign finance records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Ballotpedia: Chad Bianco](https://ballotpedia.org/Chad_Bianco) (Tier 3) (VERIFIED)
 
 profile-status:: ready
 research-status:: ready — Full citation pass complete. Source format standardized (12 sources, Tier 1-4). RSA 95% single-patron model, Oath Keepers/CSPOA affiliation, 18 jail deaths 2022, Prop 50 investigation, donation-to-policy timeline (12 entries). All ### headers, class analysis present. Remaining research: FPPC dollar figures for RSA across all cycles, 2022 donor class positions (Chandi, Matzner, Haagen). Promoted Session 38j.
@@ -188,9 +188,9 @@ Bianco's investigators claim citizen volunteers reviewing public records found 6
 
 **Political context:** Bianco is a declared Republican candidate for California governor. The Prop 50 investigation is widely read as a political move — investigating the ballot measure that gave Democrats a congressional advantage is a base-mobilizing action consistent with Trump-era election skepticism. It also positions Bianco as a culture-war candidate willing to confront Newsom's AG directly.
 
-- [Press Enterprise: Bianco accuses AG of interfering in election probe](https://www.pressenterprise.com/2026/03/20/riverside-county-sheriff-chad-bianco-accuses-attorney-general-of-interfering-in-election-probe/) (Tier 2)
-- [KESQ: Bianco/Bonta clash over 2025 election probe](https://kesq.com/news/2026/03/20/riverside-election-fraud-claims/) (Tier 2)
-- [Press Enterprise: Alleged irregularities in elections probed](https://www.pressenterprise.com/2026/03/17/alleged-irregularities-in-elections-probed-by-riverside-county-sheriffs-office/) (Tier 2)
+- [Press Enterprise: Bianco accuses AG of interfering in election probe](https://www.pressenterprise.com/2026/03/20/riverside-county-sheriff-chad-bianco-accuses-attorney-general-of-interfering-in-election-probe/) (Tier 2) (VERIFIED)
+- [KESQ: Bianco/Bonta clash over 2025 election probe](https://kesq.com/news/2026/03/20/riverside-election-fraud-claims/) (Tier 2) (VERIFIED)
+- [Press Enterprise: Alleged irregularities in elections probed](https://www.pressenterprise.com/2026/03/17/alleged-irregularities-in-elections-probed-by-riverside-county-sheriffs-office/) (Tier 2) (VERIFIED)
 content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
