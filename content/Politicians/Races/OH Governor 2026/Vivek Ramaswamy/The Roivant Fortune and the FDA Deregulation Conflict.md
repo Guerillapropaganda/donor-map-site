@@ -10,6 +10,7 @@ source-types:
   - SEC
 known-gaps:
   - No mapped relationships
+related: '[[Vivek Ramaswamy Master Profile]]'
 ---
 
 
