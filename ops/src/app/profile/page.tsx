@@ -816,7 +816,7 @@ export default function ProfilePage() {
             onRunPipeline={async (pipeline, profileTitle) => {
               setReadinessMsg(`Running ${pipeline} pipeline on ${profileTitle}...`)
               try {
-                const res = await fetch("/api/pipelines/run", {
+                const res = await fetch("/api/pipelines", {
                   method: "POST",
                   headers: { "Content-Type": "application/json" },
                   body: JSON.stringify({ pipeline, profile: profileTitle, limit: 1 }),
