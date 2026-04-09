@@ -855,10 +855,44 @@ a.pw-bs-recip:hover {
   background: rgba(251, 191, 36, 0.1);
 }
 
+/* Default active — fallback yellow */
 .pw-overlay-filter-btn.pw-filter-active {
   color: #fbbf24;
   border-color: #fbbf24;
   background: rgba(251, 191, 36, 0.15);
+}
+
+/* Category-colored active states */
+.pw-overlay-filter-btn[data-node-type="donor"].pw-filter-active,
+.pw-overlay-filter-btn[data-node-type="corporation"].pw-filter-active,
+.pw-overlay-filter-btn[data-node-type="pac"].pw-filter-active {
+  color: #16a34a;
+  border-color: #16a34a;
+  background: rgba(22, 163, 74, 0.15);
+}
+
+.pw-overlay-filter-btn[data-node-type="politician"].pw-filter-active {
+  color: #3b82f6;
+  border-color: #3b82f6;
+  background: rgba(59, 130, 246, 0.15);
+}
+
+.pw-overlay-filter-btn[data-node-type="think-tank"].pw-filter-active {
+  color: #fbbf24;
+  border-color: #fbbf24;
+  background: rgba(251, 191, 36, 0.15);
+}
+
+.pw-overlay-filter-btn[data-node-type="lobbying"].pw-filter-active {
+  color: #999;
+  border-color: #999;
+  background: rgba(153, 153, 153, 0.15);
+}
+
+.pw-overlay-filter-btn[data-node-type="media"].pw-filter-active {
+  color: #a855f7;
+  border-color: #a855f7;
+  background: rgba(168, 85, 247, 0.15);
 }
 
 .pw-overlay-filter-btn.pw-filter-off {
