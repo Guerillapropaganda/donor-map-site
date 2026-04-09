@@ -37,6 +37,10 @@ court-jurisdictions:
 related: "[[Real Estate Industry]]"
 ein: "333183362"
 nonprofit-status: "501(c)(3)"
+lobbying-spend: 4450000
+lobbying-filings: 51
+lei: "549300T4DTSY6511ZQ86"
+lei-jurisdiction: "US-DE"
 ---
 
 #blackstone #real-estate #housing #rents #private-equity #schwarzman #institutional-landlord #institutional-landlords #invitation-homes #breit #landlordism
@@ -252,3 +256,37 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/333183362) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $4.5M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 13 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aviation/Airlines/Airports, Banking, Budget/Appropriations, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Economics/Economic Development, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Housing, Labor Issues/Antitrust/Workplace, Marine/Maritime/Boating/Fisheries, Real Estate/Land Use/Conservation, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** 9TH STREET STRATEGIES, ALPINE GROUP PARTNERS, LLC., AVOQ, LLC, CHECKMATE GOVERNMENT RELATIONS, COLTON STREET GROUP, FORBES-TATE, HARBINGER STRATEGIES, LLC, HOGAN POLICY ADVISORS, MILLER STRATEGIES, LLC, MINDSET ADVOCACY, LLC, NATIONAL GROUP, LLP, S2R, LLC, WASHINGTON ADVOCACY GROUP
+
+**Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Labor, Dept of (DOL), SENATE, Transportation, Dept of (DOT), Treasury, Dept of, U.S. Mint, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Blackstone%20Real%20Estate) (Tier 1)
+<!-- auto:lda-lobbying end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300T4DTSY6511ZQ86](https://search.gleif.org/#/record/549300T4DTSY6511ZQ86) |
+| Legal Name | BLACKSTONE REAL ESTATE INCOME FUND |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T17:20:02Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

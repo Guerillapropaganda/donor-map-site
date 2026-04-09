@@ -36,6 +36,16 @@ fara-countries:
   - "PALAU"
   - "UNITED ARAB EMIRATES"
   - "UZBEKISTAN"
+federal-register-mentions: 7
+last-enriched: "2026-04-09"
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Commerce Department"
+  - "Energy Department"
+  - "Export Administration Bureau"
+  - "Federal Communications Commission"
+  - "Justice Department"
+  - "Nuclear Regulatory Commission"
 ---
 
 #lobbying #k-street #pharma #defense #finance #tech #trade #bipartisan #revolving-door
@@ -314,3 +324,25 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Akin%20Gump%20Strauss%20Hauer%20%26%20Feld) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 7 |
+| Notice | 5 |
+| Rule | 1 |
+| Proposed Rule | 1 |
+| Agencies | Antitrust Division, Commerce Department, Energy Department, Export Administration Bureau, Federal Communications Commission, Justice Department, Nuclear Regulatory Commission |
+
+**Recent regulatory activity:**
+- [Commonwealth Edison Company and MidAmerican Energy Company, Quad Cities Nuclear Power Station, Units 1 and 2; Notice of Consideration of Approval of Application Regarding Proposed Change in Shareholders of MidAmerican Energy Holdings Company Opportunity for a Hearing](https://www.federalregister.gov/documents/1999/12/29/99-33680/commonwealth-edison-company-and-midamerican-energy-company-quad-cities-nuclear-power-station-units-1) (1999-12-29) — Nuclear Regulatory Commission
+- [Re: Aluminum Company of America](https://www.federalregister.gov/documents/1999/08/05/99-19095/re-aluminum-company-of-america) (1999-08-05) — Commerce Department
+- [Cleveland Electric Illuminating Company; Toledo Edison Company; Ohio Edison Company; OES Nuclear, Inc.; Pennsylvania Power Company; Duquesne Light Company and Firstenergy Nuclear Operating Company; Perry Nuclear Power Plant, Unit 1; Notice of Consideration of Approval of Transfer of Facility Operating License and Issuance of Conforming Amendment, and Opportunity for a Hearing](https://www.federalregister.gov/documents/1999/06/14/99-15022/cleveland-electric-illuminating-company-toledo-edison-company-ohio-edison-company-oes-nuclear-inc) (1999-06-14) — Nuclear Regulatory Commission
+- [Proposed Final Judgment and Competitive Impact Statement; United States of America v. Chancellor Media Corporation and Whiteco Industries, Inc.](https://www.federalregister.gov/documents/1999/01/15/99-826/proposed-final-judgment-and-competitive-impact-statement-united-states-of-america-v-chancellor-media) (1999-01-15) — Justice Department
+- [Antiflatulent Drug Products for Over-the-Counter Human use; Amendment of Monograph](https://www.federalregister.gov/documents/1996/03/05/96-5118/antiflatulent-drug-products-for-over-the-counter-human-use-amendment-of-monograph) (1996-03-05)
+- [Dominican Power Partners, LDC, et al.; Electric Rate and Corporate Regulation Filings](https://www.federalregister.gov/documents/1996/02/16/96-3529/dominican-power-partners-ldc-et-al-electric-rate-and-corporate-regulation-filings) (1996-02-16) — Energy Department
+- ... and 1 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Akin%20Gump%20Strauss%20Hauer%20%26%20Feld%22) (Tier 1)
+<!-- auto:federal-register end -->

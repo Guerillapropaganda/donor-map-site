@@ -387,12 +387,13 @@ profile-status:: ready — master profile fully built with inline citations. All
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
+| Donors Who Also Lobby | 2 of 3 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
 - [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
+- [[Peter Thiel]] — $1.7M lobbying spend
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

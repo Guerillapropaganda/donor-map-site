@@ -18,7 +18,7 @@ featured-date: "2026-04-03"
 spotlight-reason: "Largest bipartisan political spender — $121.2M in 2024 including UDP Super PAC. Funds both parties to maintain 97-3 Senate votes on Israel aid."
 shareable-stat: "$121.2M spent in 2024. Both parties. 97-3 vote."
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "BELARUS"
   - "GLOMAG"
@@ -27,6 +27,10 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Michigan 2026 Senate Race]] · [[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Marco Rubio Master Profile]] · [[The University Donor Hearings and Antisemitism Politics]] · [[The Political Evolution - From Moderate to MAGA and the Donor Incentive]] · [[The Harvard Hearings and the Israel Lobby Alignment]] · [[Tom Cotton Master Profile]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[Defense Contractors and the Permanent War Donor Base]] · [[Virginia Foxx]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]]"
 opposes: "[[Katie Halper]] · [[Abby Martin]]"
+ein: "530217164"
+nonprofit-status: "501(c)(4)"
+total-revenue: 191055934
+total-assets: 229573060
 ---
 
 
@@ -509,3 +513,28 @@ content-readiness:: developed — April 2026 merge. Added UNVERIFIED sections: l
 <!-- auto:fec-donor end -->
 
 ### Federal Subawards & Spending Breakdown
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 530217164 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $191.1M |
+| Total Assets | $229.6M |
+| NTEE Code | Q20 |
+| IRS Ruling Date | 1968-01-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530217164) (Tier 1)
+<!-- auto:nonprofit-990 end -->

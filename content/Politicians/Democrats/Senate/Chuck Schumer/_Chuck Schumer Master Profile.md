@@ -259,3 +259,10 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 - New York Times: Schumer-Wall Street relationship, Israel speech analysis (Tier 2)
 research-status:: ready — Full citation pass complete. $10.4M Wall Street career (Goldman $543K, Citi $484K, JPMorgan $365K), $1.73M pro-Israel, dark money mirror ($74M Majority Forward, $230M+ Senate Majority PAC), crypto pivot timeline, floor control analysis, donation-to-policy timeline (9 entries), four analytical patterns. 6 sources, Tier 1-2. All ### headers. Promoted Session 38j.
 conte
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Chuck Schumer](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

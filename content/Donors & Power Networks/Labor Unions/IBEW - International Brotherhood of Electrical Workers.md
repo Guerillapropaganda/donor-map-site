@@ -18,7 +18,7 @@ issues:
   - "Labor & Workers"
   - "Infrastructure"
 federal-register-mentions: 6
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Federal Railroad Administration"
   - "Labor Department"

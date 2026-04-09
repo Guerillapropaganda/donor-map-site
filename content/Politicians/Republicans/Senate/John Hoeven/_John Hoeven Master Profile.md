@@ -2,7 +2,7 @@
 title: "John Hoeven"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -36,6 +36,12 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+last-enriched: "2026-04-09"
+govtrack-id: 412494
+bills-sponsored: 19
+bills-cosponsored: 190
+website: "https://www.hoeven.senate.gov"
+phone: "202-224-2551"
 ---
 
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power
@@ -215,3 +221,35 @@ content-readiness:: ready
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 190 |
+| Total Votes Cast | 5,337 |
+
+**Recent bills sponsored:**
+
+- S. 4040: Dakota Water Resources Act Amendments of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 10, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3908: SOS: Sustaining Outpatient Services Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 1377: Theodore Roosevelt National Park Wild Horses Protection Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on December 17, 2025.*
+- S. 3335: National Coal Council Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3257: Mental Health in Aviation Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 20, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Yea | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Nay | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412494) (Tier 1)
+<!-- auto:govtrack end -->

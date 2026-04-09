@@ -2,7 +2,7 @@
 title: "Jeffrey Epstein Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Jeffrey Epstein Network.md"
@@ -17,6 +17,10 @@ issues:
 lobbying-spend: 1699750
 lobbying-filings: 70
 related: "[[Les Wexner - Wexner Family Enterprises]]"
+court-cases: 1
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "District Court, S.D. New York"
 ---
 
 
@@ -174,3 +178,17 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1 |
+| Courts | District Court, S.D. New York |
+| Case Types | 320 Assault Libel & Slander |
+
+**Notable cases:**
+- Giuffre v. Maxwell (2015) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jeffrey%20Epstein%20Network%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

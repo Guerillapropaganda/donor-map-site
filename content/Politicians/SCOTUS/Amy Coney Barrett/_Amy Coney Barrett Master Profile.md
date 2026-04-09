@@ -180,3 +180,10 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Amy%20Coney%20Barrett%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Amy Coney Barrett](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

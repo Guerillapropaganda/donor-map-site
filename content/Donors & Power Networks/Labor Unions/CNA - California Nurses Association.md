@@ -2,7 +2,7 @@
 title: "CNA - California Nurses Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -17,6 +17,7 @@ sec-filings: 1
 sec-form-types:
   - "EX-10.1"
 related: "[[Tom Steyer Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Medicare for All - The Policy That Broke the Party]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Populist Billionaire Contradiction]]"
+last-enriched: "2026-04-09"
 ---
 
 

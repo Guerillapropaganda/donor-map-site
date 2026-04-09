@@ -146,6 +146,7 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 **Sources**
 
+- [Congress.gov: John McCain](https://www.congress.gov/member/a000383) (Tier 1)
 - [GovTrack: John McCain](https://www.govtrack.us/congress/members/300071) (Tier 1)
 <!-- auto:voting-record end -->
 

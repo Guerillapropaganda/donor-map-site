@@ -268,3 +268,32 @@ content-readiness:: developed
 
 - [GovTrack: John Kennedy](https://www.govtrack.us/congress/members/406274) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-09 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 1960-09-01 | HR. 4384.  KERR MOTION TO TABLE COTTON AMEND. (ABOVE). | **Not Voting** | unknown |
+| 1960-09-01 | HR. 4384.  CLARK AMEND. (ABOVE). | **Not Voting** | unknown |
+| 1960-09-01 | HR. 13062.  EXTEND SUGAR ACT AND AUTHORIZE PRES. TO CUT THE SUGAR QUOTA OF THE DOMINICAN REPUBLIC, PROVIDED THE OAS VOTE | **Not Voting** | unknown |
+| 1960-09-01 | HR. 4384.  JOHNSON MOTION TO RESUME CONSIDERATION OF THE BILL. | **Not Voting** | unknown |
+| 1960-09-01 | HR. 4384.  AMEND THE TARIFF ACT OF 1930 TO PROVIDE FOR THE FREE IMPORTATION OF CERTAIN RELIGIOUS ARTICLES. KEATING MOTIO | **Not Voting** | unknown |
+| 1960-08-29 | HR. 13161.  SECOND SUPPLEMENTAL APPROPRIATION ACT FOR FISCAL 1961.  COMMITTEE AMENDMENTS PROVIDING $190 MILLION FOR THE  | **Yea** | unknown |
+| 1960-08-29 | S.RES. 334.  EXPRESSING THE SENSE OF THE SENATE THAT THE PRES. SHOULD NOT MAKE RECESS APPOINTMENTS TO THE SUPREME COURT, | **Nay** | unknown |
+| 1960-08-29 | HR. 12580.  SOCIAL SECURITY AMENDMENTS OF 1960. ADOPTION OF CONFERENCE REPORT. | **Yea** | unknown |
+| 1960-08-29 | HR. 13161.  SECOND SUPPLEMENTAL APPROPRIATION ACT, PROVIDING $305,042,731 FOR VARIOUS AGENCIES AND PROGRAMS. | **Yea** | unknown |
+| 1960-08-29 | S. 3713 (HR 13053) BILL TO INCREASE SALARIES OF D.C. POLICE, FIREMAN AND U.S. PARK AND WHITE HOUSE POLICE 7 AND 1/2 PERC | **Yea** | unknown |
+| 1960-08-29 | S.RES. 334.  ADOPTION OF THE RESOLUTION. | **Yea** | unknown |
+| 1960-08-26 | HR. 12619.  ADOPTION OF CONFERENCE REPORT. | **Yea** | unknown |
+| 1960-08-24 | HR. 12619.  MUTUAL SECURITY AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL 1961. | **Yea** | unknown |
+| 1960-08-23 | HR. 12580.  ANDERSON AMEND. PROVIDING MEDICAL BENEFITS FOR ALL SOCIAL SECURITY RETIREES 68 AND OVER, TO BE FINANCED BY A | **Yea** | unknown |
+| 1960-08-23 | HR. 12580.  LONG AMEND. TO INCLUDE COVERAGE OF MENTAL AND TUBERCULOSIS PATIENTS IN STATE PROGRAMS FOR THE MEDICAL- LY NE | **Yea** | unknown |
+
+**Sources**
+
+- [Congress.gov: John Kennedy](https://www.congress.gov/member/a000383) (Tier 1)
+- [GovTrack: John Kennedy](https://www.govtrack.us/congress/members/406274) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->

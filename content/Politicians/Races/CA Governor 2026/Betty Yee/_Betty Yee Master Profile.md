@@ -205,3 +205,24 @@ _No committee data found for the 119th Congress._
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Betty%20Yee%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[CalPERS]] — $480K lobbying spend (Budget/Appropriations, Health Issues, Retirement)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Betty Yee](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

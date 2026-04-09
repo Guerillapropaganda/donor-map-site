@@ -2,7 +2,7 @@
 title: "Halliburton"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -68,6 +68,10 @@ court-jurisdictions:
   - "District Court, W.D. Michigan"
   - "District Court, W.D. Tennessee"
   - "District Court, W.D. Texas"
+subawards-issued: 1
+subawards-issued-amount: 54006
+subawards-received: 1
+subawards-received-amount: 54006
 ---
 
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
@@ -239,3 +243,25 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Halliburton%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 1 ($54K sampled) |
+| Subawards Received (as sub) | 1 ($54K sampled) |
+
+**Subcontractors receiving federal money from Halliburton:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| HALLIBURTON SURVEYING & MAPPING, INC. | $54K | 1 |
+
+**Prime contractors funneling federal money to Halliburton:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| BURNS & MCDONNELL ENGINEERING COMPANY, INC. | $54K | 1 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

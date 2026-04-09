@@ -2,7 +2,7 @@
 title: "Organizing for Action"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -34,6 +34,8 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
 related: "[[Barack Obama Master Profile]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Democracy Alliance]]"
+lobbying-spend: 2850000
+lobbying-filings: 44
 ---
 
 #ofa #organizing-for-action #obama #501c4 #dark-money #campaign-infrastructure
@@ -133,3 +135,22 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Organizing%20for%20Action%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.9M |
+| Quarterly Filings | 44 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 6 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Budget/Appropriations, Economics/Economic Development, Environment/Superfund, Foreign Relations, Health Issues, Homeland Security, Labor Issues/Antitrust/Workplace, Medicare/Medicaid, Sports/Athletics, Taxation/Internal Revenue Code, Telecommunications, Transportation, Travel/Tourism, Welfare
+
+**Lobbying firms:** BALLARD PARTNERS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, FOLEY & LARDNER LLP, NORTHERN COMPASS GROUP LLC, PORT SIDE STRATEGIES, LLC, THE NICKLES GROUP, LLC
+
+**Agencies contacted:** Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Citizenship & Immigration Services (BCIS), Energy, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), General Services Administration (GSA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Oceanic & Atmospheric Administration (NOAA), Natl Security Council (NSC) +8 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Organizing%20for%20Action) (Tier 1)
+<!-- auto:lda-lobbying end -->

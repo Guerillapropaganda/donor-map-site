@@ -2,18 +2,20 @@
 title: "Heritage Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
+  - "Jim Risch"
+  - "Donna Miller"
+  - "Stephen Miller"
 issues:
   - "Dark Money & Campaign Finance"
 ein: "237327730"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 147027845
 total-assets: 413819868
 sec-filings: 3784
@@ -49,6 +51,7 @@ sec-form-types:
 lei: "5493006YU7R03XUJSX56"
 lei-jurisdiction: "US-DC"
 related: "[[American Federation for Children]]"
+total-political-spend: "$1,007,158"
 ---
 
 
@@ -280,3 +283,28 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,007,158 |
+| Contributions | 15 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $1,000,000 | REP |
+| JIM RISCH FOR U S SENATE COMMITTEE | $1,350 | REP |
+| PLACER COUNTY DEMOCRATIC CENTRAL COMMITTEE | $1,250 | — |
+| NRCCC - NON FED ACT | $1,000 | — |
+| CHRIS BUBSER FOR CONGRESS | $900 | DEM |
+| RNC REPUBLICAN NATIONAL STATE ELECTIONS COMMITTEE | $700 | — |
+| RNC-REPUBLICAN GOVERNORS ASSOCIATION CONFERENCE | $700 | — |
+| RNC COMMITTEE TO PRESERVE THE DWIGHT D EISENHOWER NATIONAL REPUBLICAN CENTER | $525 | — |
+| HUIZENGA FOR CONGRESS | $283 | REP |
+| RIGHT APPEAL PAC | $250 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Heritage%20Foundation) (Tier 1)
+<!-- auto:fec-donor end -->

@@ -21,6 +21,19 @@ net-assets: "$26.3M"
 tax-year: "2020"
 total-political-spend: "$20,115,751"
 related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]]"
+doj-press-mentions: "264457"
+last-enriched: "2026-04-09"
+doj-components:
+  - "Criminal - Human Rights and Special Prosecution Section"
+  - "Criminal - Office of International Affairs"
+  - "Criminal Division"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - Florida, Middle"
+  - "USAO - Idaho"
+  - "USAO - Massachusetts"
+  - "USAO - Michigan, Western"
+  - "USAO - Minnesota"
+  - "USAO - New Jersey"
 ---
 
 
@@ -189,3 +202,23 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Haim%20Saban%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264457 |
+| DOJ Components | Criminal - Human Rights and Special Prosecution Section, Criminal - Office of International Affairs, Criminal Division, Federal Bureau of Investigation (FBI), USAO - Florida, Middle, USAO - Idaho +9 more |
+
+**Recent press releases:**
+
+- 2026-04-09 — [Rapid City Man Sentenced to 10 Years in Federal Prison  for Conspiring to Distribute Fentanyl and Methamphetamine in Rapid City](https://www.justice.gov/usao-sd/pr/rapid-city-man-sentenced-10-years-federal-prison-conspiring-distribute-fentanyl-and) — USAO - South Dakota
+- 2026-04-09 — [Giles County Man Arrested for Importing Powerful Psychedelic](https://www.justice.gov/usao-wdva/pr/giles-county-man-arrested-importing-powerful-psychedelic) — USAO - Virginia, Western
+- 2026-04-09 — [West Virginia Woman Sentenced to Prison for Lying to Obtain U.S. Citizenship After Committing Torture and War Crimes in Bosnia](https://www.justice.gov/opa/pr/west-virginia-woman-sentenced-prison-lying-obtain-us-citizenship-after-committing-torture) — Criminal Division
+- 2026-04-09 — [U.S. Attorney’s Office Collects More than $1.5 Billion in Criminal and Civil Actions in Fiscal Year 2025, the Most in the Country](https://www.justice.gov/usao-nj/pr/us-attorneys-office-collects-more-15-billion-criminal-and-civil-actions-fiscal-year-2025) — USAO - New Jersey
+- 2026-04-09 — [Leader of Sex Trafficking Ring Pleads Guilty](https://www.justice.gov/usao-ma/pr/leader-sex-trafficking-ring-pleads-guilty) — USAO - Massachusetts
+- 2026-04-09 — [Minneapolis Man Sentenced to 43 Months for Role in Feeding Our Future Fraud Scheme ](https://www.justice.gov/usao-mn/pr/minneapolis-man-sentenced-43-months-role-feeding-our-future-fraud-scheme) — USAO - Minnesota
+- ... and 264,451 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Haim%20Saban%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

@@ -2,7 +2,7 @@
 title: "American Iron and Steel Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -17,7 +17,7 @@ politicians-funded:
   - "Sherrod Brown"
 total-political-spend: "$542,903"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "IRAN-EO13871"
 sec-filings: 984
@@ -52,7 +52,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-ein: 131832448
+ein: "131832448"
 annual-revenue: "$11.7M"
 net-assets: "$11.7M"
 tax-year: "2023"
@@ -68,6 +68,9 @@ court-jurisdictions:
   - "District Court, W.D. Pennsylvania"
   - "United States Court of International Trade"
 related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron Johnson]] · [[Paul Ryan]] · [[Bob Casey]] · [[Sherrod Brown]]"
+nonprofit-status: "501(c)(6)"
+total-revenue: 8044067
+total-assets: 10548735
 ---
 
 
@@ -305,3 +308,27 @@ The "national security" frame is the mechanism that makes the transfer invisible
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Iron%20and%20Steel%20Institute%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 131832448 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $8.0M |
+| Total Assets | $10.5M |
+| IRS Ruling Date | 1943-02-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1)
+<!-- auto:nonprofit-990 end -->

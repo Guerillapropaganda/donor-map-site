@@ -2,7 +2,7 @@
 title: "Bipartisan Policy Center"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: centrist
@@ -34,6 +34,10 @@ court-jurisdictions:
   - "District Court, M.D. Florida"
   - "District Court, N.D. California"
   - "District Court, N.D. Ohio"
+fara-status: "registrant"
+fara-records: 3
+fara-countries:
+  - "NORWAY"
 ---
 
 #think-tank #centrist #bipartisan #energy #healthcare #housing #immigration #governance #class-analysis
@@ -310,3 +314,20 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bipartisan%20Policy%20Center%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 3 |
+| Countries | NORWAY |
+| Foreign Principal Records | 2 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Norwegian Agency for Development Cooperation (Mekong Project) (NORWAY)
+- Norwegian Agency for Development Cooperation (Latin America Project) (NORWAY)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Bipartisan%20Policy%20Center) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

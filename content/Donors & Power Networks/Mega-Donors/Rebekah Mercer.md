@@ -2,14 +2,19 @@
 title: "Rebekah Mercer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
-  - "Steve Bannon"
+  - "Mitt Romney"
+  - "The Gubernatorial Pivot - From Sheriff to Culture War Candidate"
+  - "The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate"
+  - "Ted Cruz"
+  - "Barbara Lee"
+  - "Mike Lee"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 sec-filings: 9
@@ -19,6 +24,8 @@ sec-form-types:
   - "EX-10.9"
   - "PX14A6G"
 related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[Tucker Carlson]] · [[Ben Shapiro]]"
+last-enriched: "2026-04-09"
+total-political-spend: "$1,838,065"
 ---
 
 
@@ -113,3 +120,28 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Rebekah%20Mercer%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,838,065 |
+| Contributions | 252 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TRUMP VICTORY | $449,400 | — |
+| REPUBLICAN NATIONAL COMMITTEE | $364,800 | REP |
+| ROMNEY VICTORY INC | $65,800 | — |
+| CLUB FOR GROWTH PAC | $64,400 | — |
+| PROTECT OHIO VALUES PAC (POV PAC) | $50,000 | — |
+| COALITION FOR AMERICAN VALUES PAC | $50,000 | — |
+| THE FOUNDERS COMMITTEE | $38,000 | — |
+| FOUNDERS COMMITTEE; THE | $29,700 | — |
+| WINRED | $28,200 | — |
+| FOUNDERS SENATE CANDIDATE COMMITTEE | $25,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Rebekah%20Mercer) (Tier 1)
+<!-- auto:fec-donor end -->

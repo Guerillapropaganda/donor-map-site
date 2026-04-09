@@ -140,3 +140,10 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 - [Wikipedia: Gerry Connolly](https://en.wikipedia.org/wiki/Gerry_Connolly) (Tier 3)
 
 content-readiness:: ready
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Gerry Connolly](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

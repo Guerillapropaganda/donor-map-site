@@ -18,17 +18,17 @@ type: reference
 
 | Level | Count |
 |-------|-------|
-| Raw | 30 |
-| Draft | 48 |
-| Developed | 6 |
-| Ready | 1409 |
+| Raw (D-F) | 29 |
+| Draft (C) | 565 |
+| Ready (B) | 899 |
+| Verified (A+) | 0 |
 | Unknown / Not Set | 203 |
 
 ## Verification Status
 
 | Tag | Files |
 |-----|-------|
-| Files with (UNVERIFIED) | 59 |
+| Files with (UNVERIFIED) | 58 |
 | Files with (URL NEEDED) | 22 |
 
 ## Coverage
@@ -37,7 +37,7 @@ type: reference
 |--------|-------|
 | Politicians with top-donors populated | 161 |
 | Politicians missing top-donors | 121 |
-| Donors with politicians-funded populated | 207 |
+| Donors with politicians-funded populated | 210 |
 
 ## Recent Activity
 
@@ -45,16 +45,16 @@ Last 10 profiles updated (by `last-updated` frontmatter):
 
 | Profile | Type | Last Updated |
 |---------|------|--------------|
-| ADM - Archer Daniels Midland | corporation | 2026-04-08 |
-| Agribusiness Donor Bloc | donor | 2026-04-08 |
-| Agricultural Labor Vulnerability Donors | donor | 2026-04-08 |
-| American Farm Bureau Federation | donor | 2026-04-08 |
-| CA Farm Bureau Federation | donor | 2026-04-08 |
-| California Farm Bureau Federation | donor | 2026-04-08 |
-| Cargill | corporation | 2026-04-08 |
-| Fanjul Family - Florida Crystals | donor | 2026-04-08 |
-| John Deere | corporation | 2026-04-08 |
-| Monsanto - Bayer | corporation | 2026-04-08 |
+| ADM - Archer Daniels Midland | corporation | 2026-04-09 |
+| CA Farm Bureau Federation | donor | 2026-04-09 |
+| California Farm Bureau Federation | donor | 2026-04-09 |
+| Cargill | corporation | 2026-04-09 |
+| Fanjul Family - Florida Crystals | donor | 2026-04-09 |
+| John Deere | corporation | 2026-04-09 |
+| Monsanto - Bayer | corporation | 2026-04-09 |
+| National Cattlemen's Beef Association | donor | 2026-04-09 |
+| Tyson Foods | corporation | 2026-04-09 |
+| Aramark | corporation | 2026-04-09 |
 
 ## Stale Profiles
 
@@ -62,4 +62,4 @@ Profiles where `last-updated` is 90+ days ago: **0**
 
 ---
 
-*Generated: 2026-04-08 08:45:33 UTC*
+*Generated: 2026-04-09 08:55:35 UTC*

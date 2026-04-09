@@ -2,7 +2,7 @@
 title: "Silicon Valley Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -15,6 +15,11 @@ issues:
 lobbying-spend: 1258000
 lobbying-filings: 51
 related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]]"
+ein: "330152369"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
+total-revenue: 102333
+total-assets: 12131
 ---
 
 #silicon-valley #tech #donors #democratic #republican #realignment #deregulation #lobbying #crypto #ai #venture-capital #class-analysis #follow-the-money
@@ -173,3 +178,27 @@ content-readiness:: developed
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 330152369 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $102K |
+| Total Assets | $12K |
+| IRS Ruling Date | 1987-09-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2024)
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/330152369/2020)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330152369) (Tier 1)
+<!-- auto:nonprofit-990 end -->

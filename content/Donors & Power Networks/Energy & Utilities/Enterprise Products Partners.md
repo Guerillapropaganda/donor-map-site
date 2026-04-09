@@ -2,7 +2,7 @@
 title: "Enterprise Products Partners"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -36,6 +36,8 @@ corroboration-count: 3
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
+lobbying-spend: 2047000
+lobbying-filings: 118
 ---
 
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money
@@ -179,3 +181,22 @@ content-readiness:: draft
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Enterprise%20Products%20Partners%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.0M |
+| Quarterly Filings | 118 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 56 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Aerospace, Agriculture, Automotive Industry, Aviation/Airlines/Airports, Budget/Appropriations, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Foreign Relations, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Indian/Native American Affairs, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Natural Resources, Real Estate/Land Use/Conservation, Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Utilities, Veterans
+
+**Lobbying firms:** 9TH STREET STRATEGIES, ALBERTINE ENTERPRISES, INC., ALIGNMENT GOVERNMENT STRATEGIES, AMERICAN DEFENSE INTERNATIONAL, INC., BC CONSULTING, LLC, BECKER & POLIAKOFF, P.A., BGR GOVERNMENT AFFAIRS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAESARS ENTERPRISE SERVICES, LLC, CARLOUGH SOLUTIONS, LLC, CHECKMATE GOVERNMENT RELATIONS, CHESAPEAKE ENTERPRISES, DAVIDOFF HUTCHER & CITRON, LLP, DESIMONE CONSULTING, LLC, DUANE MORRIS GOVERNMENT STRATEGIES, ENTERPRISE PRODUCTS PARTNERS LP (FORMERLY KNOWN AS ENTERPRISE PRODUCTS COMPANY O, FARRAGUT PARTNERS LLP, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FORBES-TATE, G2 STRATEGIES, GLASSMAN ENTERPRISES, LLC, HB STRATEGIES, HELENA AGRI-ENTERPRISES, LLC, FORMERLY REPORTED AS HELENA CHEMICAL COMPANY, HOGAN LOVELLS US LLP, HOLLAND & KNIGHT LLP, HORIZONS GLOBAL SOLUTIONS LLC, ICEBREAKER STRATEGIES, LLC, JACOBSON, MAGNUSON, ANDERSON & HALLORAN P.C., JM FAMILY ENTERPRISES, INC, LEAVITT PARTNERS, LLC, LOBBYIT.COM, MCGINLEY LLC, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), MILLER STRATEGIES, LLC, NEALE CREEK, LLC, NEXXUS CONSULTING, LLC, NORTH STAR STRATEGIES, LLC, OSCAR POLICY GROUP, LLC, PHRONESISDC, LLC, POLICY DEVELOPMENT GROUP, POWERS PYLES SUTTER & VERVILLE, P.C., ROBERT ROZEN, RULON & WHITE GOVERNANCE STRATEGIES, SALINAS STRATEGIES LLC, SQUIRE PATTON BOGGS, SUNUNU ENTERPRISES LLC, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), TANAGRA ENTERPRISES LLC, THE NICKLES GROUP, LLC, THE SMITH-FREE GROUP, LLC, THE WASHINGTON TAX & PUBLIC POLICY GROUP, THE WAYFINDER GROUP, TIAHRT ENTERPRISES, LLC, TIBER CREEK GROUP, TIDAL BASIN ADVISORS, INC., VENABLE LLP
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Reclamation, Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Federal Aviation Administration (FAA), Federal Maritime Commission, HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +7 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Enterprise%20Products%20Partners) (Tier 1)
+<!-- auto:lda-lobbying end -->

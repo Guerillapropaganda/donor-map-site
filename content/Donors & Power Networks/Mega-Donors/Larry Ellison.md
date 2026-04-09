@@ -2,13 +2,16 @@
 title: "Larry Ellison"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
+  - "Steve Scalise"
+  - "Kamala Harris"
+  - "Rand Paul"
+  - "Marco Rubio"
 issues:
   - "Technology"
 ein: 943269827
@@ -20,6 +23,8 @@ source-types:
 known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
+last-enriched: "2026-04-09"
+total-political-spend: "$10,212"
 ---
 
 #donor #mega-donor #oracle #tech #republican #government-contracts #class-analysis
@@ -176,3 +181,28 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 943269827](https://projects.propublica.org/nonprofits/organizations/943269827) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $10,212 |
+| Contributions | 348 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| WINRED | $3,469 | — |
+| TEAM SCALISE | $1,715 | — |
+| SCALISE FOR CONGRESS | $1,715 | REP |
+| ELBERT GUILLORY'S AMERICA | $500 | REP |
+| TRISHA 4 COLORADO | $375 | DEM |
+| NRSC | $312 | REP |
+| HMP | $311 | — |
+| NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC) | $250 | — |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $250 | DEM |
+| HARRIS VICTORY FUND | $250 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Larry%20Ellison) (Tier 1)
+<!-- auto:fec-donor end -->

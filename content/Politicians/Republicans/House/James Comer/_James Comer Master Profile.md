@@ -2,7 +2,7 @@
 title: "James Comer"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,6 +20,19 @@ phone: "202-225-3115"
 related: "[[The Oversight Committee and the Anti-Corruption Brand]]"
 total-received: "$1,108,482"
 fec-candidate-id: "H6KY01110"
+doj-press-mentions: "264457"
+last-enriched: "2026-04-09"
+doj-components:
+  - "Criminal - Human Rights and Special Prosecution Section"
+  - "Criminal - Office of International Affairs"
+  - "Criminal Division"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - Florida, Middle"
+  - "USAO - Idaho"
+  - "USAO - Massachusetts"
+  - "USAO - Michigan, Western"
+  - "USAO - Minnesota"
+  - "USAO - New Jersey"
 ---
 
 
@@ -218,3 +231,49 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **Aye** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Yea** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Yea** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Yea** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Yea** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **Aye** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Yea** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Yea** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Yea** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **Aye** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Aye** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Yea** | Passed |
+
+**Sources**
+
+- [Congress.gov: James Comer](https://www.congress.gov/member/a000383) (Tier 1)
+- [GovTrack: James Comer](https://www.govtrack.us/congress/members/412676) (Tier 1)
+<!-- auto:voting-record end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264457 |
+| DOJ Components | Criminal - Human Rights and Special Prosecution Section, Criminal - Office of International Affairs, Criminal Division, Federal Bureau of Investigation (FBI), USAO - Florida, Middle, USAO - Idaho +9 more |
+
+**Recent press releases:**
+
+- 2026-04-09 — [Rapid City Man Sentenced to 10 Years in Federal Prison  for Conspiring to Distribute Fentanyl and Methamphetamine in Rapid City](https://www.justice.gov/usao-sd/pr/rapid-city-man-sentenced-10-years-federal-prison-conspiring-distribute-fentanyl-and) — USAO - South Dakota
+- 2026-04-09 — [Giles County Man Arrested for Importing Powerful Psychedelic](https://www.justice.gov/usao-wdva/pr/giles-county-man-arrested-importing-powerful-psychedelic) — USAO - Virginia, Western
+- 2026-04-09 — [West Virginia Woman Sentenced to Prison for Lying to Obtain U.S. Citizenship After Committing Torture and War Crimes in Bosnia](https://www.justice.gov/opa/pr/west-virginia-woman-sentenced-prison-lying-obtain-us-citizenship-after-committing-torture) — Criminal Division
+- 2026-04-09 — [U.S. Attorney’s Office Collects More than $1.5 Billion in Criminal and Civil Actions in Fiscal Year 2025, the Most in the Country](https://www.justice.gov/usao-nj/pr/us-attorneys-office-collects-more-15-billion-criminal-and-civil-actions-fiscal-year-2025) — USAO - New Jersey
+- 2026-04-09 — [Leader of Sex Trafficking Ring Pleads Guilty](https://www.justice.gov/usao-ma/pr/leader-sex-trafficking-ring-pleads-guilty) — USAO - Massachusetts
+- 2026-04-09 — [Minneapolis Man Sentenced to 43 Months for Role in Feeding Our Future Fraud Scheme ](https://www.justice.gov/usao-mn/pr/minneapolis-man-sentenced-43-months-role-feeding-our-future-fraud-scheme) — USAO - Minnesota
+- ... and 264,451 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22James%20Comer%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

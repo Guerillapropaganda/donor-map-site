@@ -8,7 +8,7 @@ parent: null
 category: centrist
 tax-status: 501c3
 court-cases: 437
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Fifth Circuit"
@@ -40,6 +40,17 @@ sec-form-types:
   - "EX-99.01"
   - "EX-99.1"
   - "EX-99.2"
+federal-register-mentions: 33
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Centers for Disease Control and Prevention"
+  - "Corporation for National and Community Service"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Health and Human Services Department"
+  - "Labor Department"
+  - "Rural Business-Cooperative Service"
+  - "Securities and Exchange Commission"
 ---
 
 #think-tank #centrist #elite-networking #billionaire-consensus #congressional-influence #class-analysis
@@ -311,3 +322,25 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Aspen%20Institute%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 33 |
+| Final Rules | 7 |
+| Proposed Rules | 8 |
+| Notices | 18 |
+| Agencies | Agriculture Department, Centers for Disease Control and Prevention, Corporation for National and Community Service, Education Department, Employee Benefits Security Administration, Health and Human Services Department, Labor Department, Rural Business-Cooperative Service +1 more |
+
+**Recent regulatory activity:**
+- [Financial Value Transparency and Gainful Employment](https://www.federalregister.gov/documents/2023/10/10/2023-20385/financial-value-transparency-and-gainful-employment) (2023-10-10) — Education Department
+- [Final Priorities, Requirements, Definitions, and Selection Criteria-Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/08/14/2023-17227/final-priorities-requirements-definitions-and-selection-criteria-perkins-innovation-and) (2023-08-14) — Education Department
+- [Applications for New Awards; Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/08/14/2023-17226/applications-for-new-awards-perkins-innovation-and-modernization-grant-program) (2023-08-14) — Education Department
+- [Financial Value Transparency and Gainful Employment (GE), Financial Responsibility, Administrative Capability, Certification Procedures, Ability to Benefit (ATB)](https://www.federalregister.gov/documents/2023/05/19/2023-09647/financial-value-transparency-and-gainful-employment-ge-financial-responsibility-administrative) (2023-05-19) — Education Department ★
+- [Proposed Priorities, Requirements, Definitions, and Selection Criteria-Perkins Innovation and Modernization Grant Program](https://www.federalregister.gov/documents/2023/05/16/2023-10220/proposed-priorities-requirements-definitions-and-selection-criteria-perkins-innovation-and) (2023-05-16) — Education Department
+- [Applications for New Awards; Transitioning Gang-Involved Youth to Higher Education Program](https://www.federalregister.gov/documents/2021/10/29/2021-23788/applications-for-new-awards-transitioning-gang-involved-youth-to-higher-education-program) (2021-10-29) — Education Department
+- ... and 27 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Aspen%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->

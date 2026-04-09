@@ -2,7 +2,7 @@
 title: "Brady Campaign"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -21,6 +21,8 @@ annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
 related: "[[Sheldon Whitehouse]]"
+lobbying-spend: 836000
+lobbying-filings: 34
 ---
 
 #gun-violence-prevention #democratic-donor #advocacy-organization #brady-pac
@@ -97,3 +99,37 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 - [Source: ProPublica Nonprofit Explorer — EIN 237321017](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $836K |
+| Quarterly Filings | 34 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 5 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Disaster Planning/Emergencies, District of Columbia, Environment/Superfund, Firearms/Guns/Ammunition, Government Issues, Health Issues, Indian/Native American Affairs, Natural Resources, Real Estate/Land Use/Conservation, Transportation
+
+**Lobbying firms:** BALLARD PARTNERS, BRADY CAMPAIGN TO PREVENT GUN VIOLENCE, QUARLES & BRADY LLP, ROBERT A. BRADY CONSULTING, LLC, TAI GINSBERG & ASSOCIATES, LLC
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Indian Affairs (BIA), Executive Office of the President (EOP), Federal Emergency Management Agency (FEMA), HOUSE OF REPRESENTATIVES, Indian Health Service, Interior, Dept of (DOI), Justice, Dept of (DOJ), SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Brady%20Campaign) (Tier 1)
+<!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Sheldon Whitehouse]] (Environment & Public Works) — lobbying: $836K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

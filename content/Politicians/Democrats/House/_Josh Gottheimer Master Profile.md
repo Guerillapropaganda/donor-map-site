@@ -207,3 +207,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Josh Gottheimer](https://www.congress.gov/member/b001296) (Tier 1)
+<!-- auto:voting-record end -->

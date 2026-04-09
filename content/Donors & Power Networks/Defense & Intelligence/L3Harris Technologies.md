@@ -2,7 +2,7 @@
 title: "L3Harris Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -58,6 +58,8 @@ subawards-received-amount: 9882497978
 top-federal-agency: "Department of Transportation"
 top-naics-code: "336413"
 related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]]"
+lei: "549300UTE50ZMDBG8A20"
+lei-jurisdiction: "US-DE"
 ---
 
 
@@ -390,3 +392,18 @@ content-readiness:: developed
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300UTE50ZMDBG8A20](https://search.gleif.org/#/record/549300UTE50ZMDBG8A20) |
+| Legal Name | L3HARRIS TECHNOLOGIES, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-12-02T15:03:21Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

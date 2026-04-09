@@ -2,7 +2,7 @@
 title: "Bradley Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -36,6 +36,20 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]]"
+sec-filings: 1623
+sec-form-types:
+  - "10-K"
+  - "424A"
+  - "424B4"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "N-CSR"
+  - "PRE 14A"
+  - "S-1"
+  - "S-1/A"
 ---
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
@@ -356,3 +370,21 @@ research-status:: developed — Expanded from 47 to 190+ lines. CMD $86.4M grant
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330771070) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,623 |
+| Form Types | 10-K, 424A, 424B4, DEF 14A, DEFA14A, EX-99, EX-99.1, EX-99.2 +4 more |
+
+**Notable filings:**
+
+- 2019-08-19 — **EX-99.1**: EXHIBIT 99.1
+- 2016-06-16 — **EX-99.1**: EX-99.1
+- 2015-03-10 — **EX-99.1**: EXHIBIT
+- 2017-07-19 — **EX-99.1**: EXHIBIT 99.1
+- 2013-01-11 — **EX-99.1**: PRESS RELEASE
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bradley%20Foundation%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -192,3 +192,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Rick Crawford](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

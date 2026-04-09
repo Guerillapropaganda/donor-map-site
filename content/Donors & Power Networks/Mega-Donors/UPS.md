@@ -18,6 +18,66 @@ cpsc-recalls: 31
 last-enriched: "2026-04-09"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "11-K"
+  - "144"
+  - "3"
+  - "4"
+  - "424B2"
+  - "424B3"
+  - "425"
+  - "497"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.10.(3)"
+  - "EX-10.11"
+  - "EX-10.11.(1)"
+  - "EX-10.12(1)"
+  - "EX-10.15"
+  - "EX-10.16"
+  - "EX-10.17"
+  - "EX-10.19.3"
+  - "EX-10.2"
+  - "EX-10.20"
+  - "EX-10.3"
+  - "EX-10.4"
+  - "EX-10.41"
+  - "EX-10.44"
+  - "EX-10.46"
+  - "EX-10.5"
+  - "EX-10.61"
+  - "EX-10.8"
+  - "EX-10.8(5)"
+  - "EX-10.8(A)"
+  - "EX-10.9(16)"
+  - "EX-19"
+  - "EX-2.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.37"
+  - "PX14A6G"
+  - "S-3D"
+  - "SC 13D"
+  - "SCHEDULE 13G"
+  - "SCHEDULE 13G/A"
+doj-press-mentions: "264414"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
+  - "USAO - New Jersey"
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
@@ -252,3 +312,44 @@ content-readiness:: developed
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=UPS) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 11-K, 144, 3, 4, 424B2, 424B3, 425 +38 more |
+| CIK | 1647639 |
+| Ticker | UPST |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1647639/000212446426000003/0002124464-26-000003-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1647639/000010290926002581/0000102909-26-002581-index.htm)
+- 2026-03-26 — **3**: [3](https://www.sec.gov/Archives/edgar/data/1647639/000212446426000001/0002124464-26-000001-index.htm)
+- 2026-03-10 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1647639/000164763926000036/0001647639-26-000036-index.htm)
+- 2026-03-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1647639/000183281226000002/0001832812-26-000002-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UPS%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264414 |
+| Date Range | 2026-04-08 to 2026-04-09 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Kansas +9 more |
+
+**Recent press releases:**
+
+- 2026-04-09 — [U.S. Attorney, ATF Offer Law Enforcement Training on Firearms Trends](https://www.justice.gov/usao-ndwv/pr/us-attorney-atf-offer-law-enforcement-training-firearms-trends) — USAO - West Virginia, Northern
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- ... and 264,408 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22UPS%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

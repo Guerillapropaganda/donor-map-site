@@ -2,7 +2,7 @@
 title: "National Association of Realtors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -36,7 +36,7 @@ sec-form-types:
   - "SC TO-T"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 lei: "549300HH1QGPI9FI1510"
 lei-jurisdiction: "US-IL"
 ein: "361520690"

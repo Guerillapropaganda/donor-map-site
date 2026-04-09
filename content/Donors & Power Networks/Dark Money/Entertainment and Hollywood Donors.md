@@ -203,15 +203,16 @@ content-readiness:: developed
 | Metric | Value |
 |--------|-------|
 | Politicians Funded | 4 |
+| Active Lobbyist | Yes |
 | Federal Contractor | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Barack Obama]] — contracts: $997K
-- [[Joe Biden]] — contracts: $997K
-- [[Hillary Clinton]] — contracts: $997K
-- [[Jon Ossoff]] — contracts: $997K
+- [[Barack Obama]] — lobbying: $24.9M — contracts: $997K
+- [[Joe Biden]] — lobbying: $24.9M — contracts: $997K
+- [[Hillary Clinton]] — lobbying: $24.9M — contracts: $997K
+- [[Jon Ossoff]] — lobbying: $24.9M — contracts: $997K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

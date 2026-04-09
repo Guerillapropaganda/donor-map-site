@@ -20,6 +20,27 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Texas"
   - "District Court, S.D. New York"
+sec-filings: 233
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "424B2"
+  - "424B3"
+  - "425"
+  - "497"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "N-CSR"
+  - "N-CSRS"
+  - "N-CSRS/A"
+  - "S-1"
+  - "S-1/A"
+  - "S-3"
 ---
 
 #think-tank #liberal #safety-net #anti-poverty #tax-policy #medicaid #SNAP #EITC #class-analysis
@@ -250,3 +271,21 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20on%20Budget%20and%20Policy%20Priorities%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 233 |
+| Form Types | 10-K, 10-Q, 424B2, 424B3, 425, 497, CORRESP, DEF 14A +11 more |
+
+**Notable filings:**
+
+- 2009-05-08 — **DEFA14A**: DEFINITIVE ADDITIONAL MATERIALS
+- 2009-05-28 — **DEFA14A**: DEFINITIVE ADDITIONAL MATERIAL
+- 2010-01-13 — **EX-99.1**: PRESS RELEASE
+- 2009-01-06 — **EX-99.1**: ANALYST CONFERENCE SLIDE PRESENTATION
+- 2010-04-28 — **DEFA14A**: DEFA14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Center%20on%20Budget%20and%20Policy%20Priorities%22) (Tier 1)
+<!-- auto:sec-edgar end -->

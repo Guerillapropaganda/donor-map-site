@@ -2,7 +2,7 @@
 title: "Morgan Stanley"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -18,7 +18,7 @@ net-assets: "$18.6M"
 tax-year: "2023"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Charles Schwab]]"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 10243579
 total-assets: 15848073
 court-cases: 35789
@@ -32,6 +32,18 @@ court-jurisdictions:
   - "District Court, W.D. Texas"
   - "United States Bankruptcy Court, D. Colorado"
   - "United States Bankruptcy Court, S.D. Texas"
+federal-register-mentions: 1494
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Comptroller of the Currency"
+  - "Employee Benefits Security Administration"
+  - "Energy Department"
+  - "Federal Deposit Insurance Corporation"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Reserve System"
+  - "Federal Trade Commission"
+  - "Justice Department"
+  - "Labor Department"
 ---
 
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
@@ -188,3 +200,25 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Morgan%20Stanley%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1,494 |
+| Final Rules | 165 |
+| Proposed Rules | 124 |
+| Notices | 1,205 |
+| Agencies | Antitrust Division, Comptroller of the Currency, Employee Benefits Security Administration, Energy Department, Federal Deposit Insurance Corporation, Federal Energy Regulatory Commission, Federal Reserve System, Federal Trade Commission +5 more |
+
+**Recent regulatory activity:**
+- [Deregistration Under Section 8(f) of the Investment Company Act of 1940](https://www.federalregister.gov/documents/2026/04/01/2026-06234/deregistration-under-section-8f-of-the-investment-company-act-of-1940) (2026-04-01) — Securities and Exchange Commission
+- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (2026-03-31) — Labor Department
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) — Treasury Department ★
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/02/20/2026-03318/combined-notice-of-filings-1) (2026-02-20) — Energy Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [United States et al. v. RealPage, Inc.et al.; Response of the United States to Public Comments](https://www.federalregister.gov/documents/2026/02/09/2026-02483/united-states-et-al-v-realpage-incet-al-response-of-the-united-states-to-public-comments) (2026-02-09) — Justice Department
+- ... and 1,488 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Morgan%20Stanley%22) (Tier 1)
+<!-- auto:federal-register end -->

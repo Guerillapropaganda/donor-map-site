@@ -14,6 +14,14 @@ nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-08"
 total-revenue: 250555
 total-assets: 98413
+fara-status: "registrant"
+fara-records: 8
+fara-countries:
+  - "LIBYA"
+  - "PAKISTAN"
+  - "PANAMA"
+  - "QATAR"
+  - "ROMANIA"
 ---
 
 #lobbying #k-street #republican #bush-white-house #trump-white-house #tech #telecom #healthcare #energy #trade
@@ -240,3 +248,24 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/520852291) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 8 |
+| Countries | LIBYA, PAKISTAN, PANAMA, QATAR, ROMANIA |
+| Foreign Principal Records | 6 |
+| Registrant Records | 2 |
+
+**Foreign principals:**
+- Republic of Panama (PANAMA)
+- Agora Center for Democracy (ROMANIA)
+- AMS Art Media Production (LIBYA)
+- Greystone Investment and Management LLC (PAKISTAN)
+- Panama Maritime Authority (PANAMA)
+- Embassy of the State of Qatar (QATAR)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Fierce%20Government%20Relations) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

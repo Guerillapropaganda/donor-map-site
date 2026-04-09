@@ -29,6 +29,7 @@ related: "[[Katie Britt]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 7267008
 total-assets: 8134872
+total-political-spend: "$11,000"
 ---
 
 #alabama-politics #business-lobby #regulatory-capture #dark-money #state-control
@@ -130,3 +131,19 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/630922835) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $11,000 |
+| Contributions | 2 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| RNC REPUBLICAN NATIONAL STATE ELECTIONS COMMITTEE | $11,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Council%20of%20Alabama) (Tier 1)
+<!-- auto:fec-donor end -->

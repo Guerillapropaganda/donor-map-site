@@ -24,7 +24,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Florida"
   - "District Court, N.D. Illinois"
-ein: 201042419
+ein: "201042419"
 annual-revenue: "$5.0M"
 net-assets: "$162.5M"
 tax-year: "2023"
@@ -78,6 +78,19 @@ doj-components:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Novo Nordisk]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 111952387
+total-assets: 161936520
+federal-register-mentions: 72
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Centers for Medicare & Medicaid Services"
+  - "Commerce Department"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Justice Department"
+  - "National Institutes of Health"
+  - "Patent and Trademark Office"
 ---
 
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
@@ -264,3 +277,50 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Gilead%20Sciences) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 201042419 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $112.0M |
+| Total Assets | $161.9M |
+| NTEE Code | B82 |
+| IRS Ruling Date | 2005-04-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/201042419/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201042419) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 72 |
+| Final Rules | 3 |
+| Proposed Rules | 3 |
+| Notices | 66 |
+| Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Commerce Department, Food and Drug Administration, Health and Human Services Department, Justice Department, National Institutes of Health, Patent and Trademark Office |
+
+**Recent regulatory activity:**
+- [Determination That DEMEROL (Meperidine Hydrochloride) Tablet, 100 Milligrams, and Other Drug Products Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness](https://www.federalregister.gov/documents/2025/12/12/2025-22681/determination-that-demerol-meperidine-hydrochloride-tablet-100-milligrams-and-other-drug-products) (2025-12-12) — Health and Human Services Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; LIVDELZI](https://www.federalregister.gov/documents/2025/07/02/2025-12345/determination-of-regulatory-review-period-for-purposes-of-patent-extension-livdelzi) (2025-07-02) — Health and Human Services Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Subcutaneous Drug Development & Delivery Consortium, Inc.](https://www.federalregister.gov/documents/2025/06/13/2025-10806/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-subcutaneous-drug) (2025-06-13) — Justice Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; SUNLENCA](https://www.federalregister.gov/documents/2025/05/12/2025-08258/determination-of-regulatory-review-period-for-purposes-of-patent-extension-sunlenca) (2025-05-12) — Health and Human Services Department
+- [Teva Branded Pharmaceutical Products R&D, Inc., et al.; Withdrawal of Approval of 12 New Drug Applications](https://www.federalregister.gov/documents/2025/01/15/2025-00743/teva-branded-pharmaceutical-products-randd-inc-et-al-withdrawal-of-approval-of-12-new-drug) (2025-01-15) — Health and Human Services Department
+- [Setting and Adjusting Patent Fees During Fiscal Year 2025](https://www.federalregister.gov/documents/2024/11/20/2024-26821/setting-and-adjusting-patent-fees-during-fiscal-year-2025) (2024-11-20) — Commerce Department
+- ... and 66 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gilead%20Sciences%22) (Tier 1)
+<!-- auto:federal-register end -->

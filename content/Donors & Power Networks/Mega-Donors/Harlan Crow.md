@@ -2,7 +2,7 @@
 title: "Harlan Crow"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -17,6 +17,8 @@ net-assets: "$4K"
 tax-year: "2023"
 total-political-spend: "$4,649,518"
 related: "[[Twenty Years of Financial Disclosure Failures]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Harlan Crow Gift Empire]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Mike Crapo]] · [[John Cornyn]] · [[Federalist Society]] · [[American Enterprise Institute]]"
+lobbying-spend: 400000
+lobbying-filings: 8
 ---
 
 
@@ -177,3 +179,42 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Harlan%20Crow) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $400K |
+| Quarterly Filings | 8 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Financial Institutions/Investments/Securities
+
+**Lobbying firms:** CAPITOL COUNSEL LLC
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Harlan%20Crow) (Tier 1)
+<!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
+
+**Funded politicians:**
+
+- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $400K
+- [[Clarence Thomas]] — lobbying: $400K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

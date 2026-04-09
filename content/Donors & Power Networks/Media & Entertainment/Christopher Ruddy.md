@@ -2,7 +2,7 @@
 title: "Christopher Ruddy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Media & Entertainment"
@@ -45,6 +45,18 @@ sec-form-types:
   - "SB-2/A"
   - "SCHEDULE 13D"
 related: "[[Media and Propaganda - Donors and Backers]]"
+last-enriched: "2026-04-09"
+total-political-spend: "$2,273,803"
+politicians-funded:
+  - "Donald Trump"
+  - "Ted Cruz"
+  - "The Gubernatorial Pivot - From Sheriff to Culture War Candidate"
+  - "The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate"
+  - "John Boehner"
+  - "Mitt Romney"
+  - "Mike Rogers"
+  - "John McCain"
+  - "Marco Rubio"
 ---
 
 #newsmax #trump-media #right-wing-media #trump-confidant #media-proprietor
@@ -113,3 +125,28 @@ Christopher Ruddy exemplifies how media proprietorship can be weaponized as a di
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Christopher%20Ruddy%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $2,273,803 |
+| Contributions | 346 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| REPUBLICAN NATIONAL COMMITTEE | $393,900 | REP |
+| TRUMP VICTORY | $275,000 | — |
+| LEAN FORWARD AMERICA | $200,000 | — |
+| TRUTH AND COURAGE PAC | $100,000 | — |
+| NRSC | $76,300 | REP |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $65,800 | REP |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $60,200 | REP |
+| TED CRUZ VICTORY FUND | $56,300 | — |
+| NRCC | $54,090 | REP |
+| SENATE LEADERSHIP FUND | $50,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Christopher%20Ruddy) (Tier 1)
+<!-- auto:fec-donor end -->

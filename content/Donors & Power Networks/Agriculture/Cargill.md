@@ -25,7 +25,7 @@ federal-contracts-count: 25
 federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
 doj-press-mentions: "264349"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -88,6 +88,18 @@ sec-form-types:
   - "SC 13D"
   - "SC 13D/A"
   - "XML"
+court-cases: 12432
+court-jurisdictions:
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Nebraska"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, M.D. Florida"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, S.D. Iowa"
+  - "United States Bankruptcy Court, N.D. Florida"
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family
@@ -257,3 +269,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cargill%22) (Tier 1) (NEEDS REVIEW: Just a bunch of code. Not sure if this is useful as a source)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 12,432 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Nebraska, District Court, District of Columbia, District Court, E.D. California, District Court, M.D. Florida, District Court, M.D. Pennsylvania +3 more |
+| Case Types | 410 Anti-Trust, 463 Habeas Corpus - Alien Detainee, 830 Patent Infringement (Fed. Qst.), 890 Other Statutory Actions |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- Dennis v. Cargill, Incorporated (2026) — District Court, D. Nebraska
+- Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
+- Strahl v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
+- In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
+- Sue Kim v. Target Corporation (2026) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

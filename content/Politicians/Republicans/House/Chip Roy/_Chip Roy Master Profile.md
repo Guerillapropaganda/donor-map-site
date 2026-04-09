@@ -258,5 +258,6 @@ content-readiness:: developed
 
 **Sources**
 
+- [Congress.gov: Chip Roy](https://www.congress.gov/member/a000383) (Tier 1)
 - [GovTrack: Chip Roy](https://www.govtrack.us/congress/members/412826) (Tier 1)
 <!-- auto:voting-record end -->

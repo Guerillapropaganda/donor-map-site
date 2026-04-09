@@ -13,7 +13,7 @@ politicians-funded:
 issues:
   - "Energy & Climate"
 federal-register-mentions: 12
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
   - "Antitrust Division"
@@ -51,6 +51,17 @@ sec-form-types:
   - "PRE 14C"
   - "PX14A6G"
   - "SC 13G/A"
+court-cases: 857
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. New York"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, S.D. New York"
 ---
 
 
@@ -206,3 +217,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Michael%20Bloomberg%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 857 |
+| Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, E.D. New York, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. New York +1 more |
+| Case Types | 440 Civil Rights: Other, 442 Civil Rights: Jobs, 470 Racketeer/Corrupt Organization, 820 Copyright, 840 Trademark |
+
+**Notable cases:**
+- Hudgens v. Bloomberg LP (2026) — District Court, S.D. New York
+- J.G. Jewelry Pte. Ltd. and Cheong Tan (2026) — United States Bankruptcy Court, S.D. New York
+- NATIONAL RIFLE ASSOCIATION OF AMERICA v. NRA FOUNDATION (2026) — District Court, District of Columbia
+- Moreno Gonzalez v. Noem, Secretary, U.S. Department of Homeland Security (2025) — District Court, N.D. Illinois
+- Nicole Brooke Beninate v. Chief Justice John G. Roberts, Jr. (2025) — District Court, C.D. California
+- Samantha Rutcoskey v. Chief Justice John Roberts (2025) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Michael%20Bloomberg%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

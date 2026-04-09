@@ -2,7 +2,7 @@
 title: "Jan Koum"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
   - "Nikki Haley"
 court-cases: 50
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. Delaware"
   - "District Court, N.D. California"

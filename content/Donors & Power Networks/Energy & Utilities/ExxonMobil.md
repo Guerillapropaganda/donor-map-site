@@ -47,6 +47,20 @@ top-naics-code: "324191"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[John Barrasso]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Environment - Donors and Backers]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[The Science Committee and Texas Petrochemical Pipeline]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Cato Institute]]"
+federal-register-mentions: 563
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Fish and Wildlife Service"
+  - "Interior Department"
+  - "Justice Department"
+  - "Ocean Energy Management Bureau"
+  - "Pipeline and Hazardous Materials Safety Administration"
+lei: "549300QUCKLMUO3B0I31"
+lei-jurisdiction: "BE"
 ---
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money
@@ -543,3 +557,18 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ExxonMobil%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300QUCKLMUO3B0I31](https://search.gleif.org/#/record/549300QUCKLMUO3B0I31) |
+| Legal Name | EXXONMOBIL OFP |
+| Jurisdiction | BE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-07-31T17:11:36Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

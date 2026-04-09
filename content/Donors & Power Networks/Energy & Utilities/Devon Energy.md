@@ -28,13 +28,16 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-ein: 365040938
+ein: "365040938"
 annual-revenue: "$1"
 net-assets: "$1"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Valero Energy]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 1
+total-assets: 1
 ---
 
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas
@@ -200,3 +203,24 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Devon%20Energy) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 365040938 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1 |
+| Total Assets | $1 |
+| NTEE Code | T20 |
+| IRS Ruling Date | 2022-11-01 |
+| Filings on Record | 2 |
+
+**Filing history:** 2023, 2022
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2022)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1)
+<!-- auto:nonprofit-990 end -->

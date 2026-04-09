@@ -34,6 +34,17 @@ court-jurisdictions:
   - "District Court, E.D. Virginia"
   - "District Court, M.D. Alabama"
   - "District Court, N.D. California"
+federal-register-mentions: 549
+regulatory-agencies:
+  - "Comptroller of the Currency"
+  - "Employee Benefits Security Administration"
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Labor Department"
+  - "Securities and Exchange Commission"
+  - "Treasury Department"
+  - "Veterans Employment and Training Service"
 ---
 
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
@@ -208,3 +219,25 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BlackRock%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 549 |
+| Final Rules | 75 |
+| Proposed Rules | 57 |
+| Notices | 417 |
+| Agencies | Comptroller of the Currency, Employee Benefits Security Administration, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Labor Department, Securities and Exchange Commission, Treasury Department +1 more |
+
+**Recent regulatory activity:**
+- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (2026-03-31) — Labor Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- [Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the) (2026-03-02) — Treasury Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [Notice of an Application of the Chicago Mercantile Exchange Inc. for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 and Request for Comment in Connection With the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Securities Exchange Act of 1934 for Certain Cash-Settled Security Futures](https://www.federalregister.gov/documents/2026/02/12/2026-02821/notice-of-an-application-of-the-chicago-mercantile-exchange-inc-for-an-exemption-pursuant-to-section) (2026-02-12) — Securities and Exchange Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/01/21/2026-01081/combined-notice-of-filings-1) (2026-01-21) — Energy Department
+- ... and 543 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BlackRock%22) (Tier 1)
+<!-- auto:federal-register end -->

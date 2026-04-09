@@ -2,7 +2,7 @@
 title: "Instacart"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Labor & Workers"
 federal-register-mentions: 3
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Agriculture Department"
   - "Federal Trade Commission"
@@ -20,6 +20,18 @@ regulatory-agencies:
 related: "[[Airbnb]] · [[Labor - Donors and Backers]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+court-cases: 815
+court-jurisdictions:
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Alaska"
+  - "District Court, D. Massachusetts"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Missouri"
+  - "District Court, E.D. New York"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Texas"
 ---
 
 #instacart #gig-economy #delivery #labor #independent-contractor #prop22
@@ -111,3 +123,22 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Instacart) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 815 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Alaska, District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. Missouri, District Court, E.D. New York, District Court, N.D. California +4 more |
+| Case Types | 370 Other Fraud, 380 Personal Property: Other, 440 Civil Rights: Other, 485 Telephone Consumer Protection Act (TCPA), 530 Habeas Corpus (General) |
+
+**Notable cases:**
+- Ripa v. Restaurant Depot, LLC (2026) — District Court, S.D. New York
+- 5150 Processing LLC v. 101 Tobacco and Vape 8 (2026) — District Court, E.D. Missouri
+- Wonzy v. Maplebear Inc. dba Instacart (2026) — District Court, N.D. California
+- Gomez-Talero v. Maldonado, Jr (2026) — District Court, E.D. New York
+- United States v. Jelks (2026) — District Court, D. Alaska
+- Uncle Nearest, Inc. (2026) — United States Bankruptcy Court, E.D. Tennessee
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Instacart%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

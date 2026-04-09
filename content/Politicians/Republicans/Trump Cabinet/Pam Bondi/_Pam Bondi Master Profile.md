@@ -140,3 +140,10 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 - [Democracy Docket: Judge disqualifies 'triumvirate' leading NJ US attorney's office](https://www.democracydocket.com/news-alerts/judge-disqualifies-new-jersey-us-attorneys-office-trio/) (Tier 2)
 content-readiness:: ready
  
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Pam Bondi](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

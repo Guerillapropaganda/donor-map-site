@@ -2,7 +2,7 @@
 title: "AT&T"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -12,7 +12,7 @@ annual-revenue: "$82K"
 net-assets: "$253K"
 tax-year: "2023"
 cpsc-recalls: 1
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 lei: "81560046090960AF7A65"
 lei-jurisdiction: "IT"
 subawards-issued: 50
@@ -29,6 +29,18 @@ related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 91608
 total-assets: 252342
+court-cases: 109576
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Montana"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Rhode Island"
+  - "District Court, E.D. North Carolina"
+  - "District Court, E.D. Texas"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. New York"
 ---
 
 #att #telecom #media #net-neutrality #lobbying #merger #surveillance #broadband
@@ -233,3 +245,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 109,576 |
+| Courts | District Court, C.D. California, District Court, D. Montana, District Court, D. New Jersey, District Court, D. Rhode Island, District Court, E.D. North Carolina, District Court, E.D. Texas, District Court, M.D. Florida, District Court, N.D. Georgia +3 more |
+| Case Types | 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 751 Labor: Family and Medical Leave Act |
+
+**Notable cases:**
+- Chenault v. AT&T, Inc. (2026) — District Court, D. Montana
+- James v. South Shore Hospital Inc. (2026) — District Court, W.D. North Carolina
+- Sims v. AT&T Mobility Services, LLC (2026) — District Court, M.D. Florida
+- Federal Express Corporation v. Ikhilov Law Group, P.C. (2026) — District Court, S.D. New York
+- Peninsula Technologies, LLC v. AT&T Mobility LLC (2026) — District Court, E.D. Texas
+- Dasilva v. AT&T Corporation (2026) — District Court, D. Rhode Island
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AT%26T%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

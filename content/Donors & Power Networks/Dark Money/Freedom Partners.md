@@ -2,7 +2,7 @@
 title: "Freedom Partners Chamber of Commerce"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 4
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, District of Columbia"
@@ -27,6 +27,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
+total-political-spend: "$807,270"
 ---
 
 #donor #dark-money #koch-network #501c6 #conservative #class-analysis #follow-the-money
@@ -159,3 +160,21 @@ content-readiness:: draft
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $807,270 |
+| Contributions | 29 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| FREEDOM PARTNERS ACTION FUND INC | $693,289 | — |
+| FREEDOM PARTNERS ACTION FUND, INC. | $112,896 | — |
+| FISCAL LEADERSHIP AND KNOWING ECONOMICS PAC | $1,085 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1)
+<!-- auto:fec-donor end -->

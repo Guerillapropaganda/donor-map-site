@@ -38,6 +38,7 @@ regulatory-agencies:
   - "General Services Administration"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cpsc-recalls: 284
 ---
 
 
@@ -403,3 +404,25 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Amazon) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 284 |
+| Most Recent Recall | 2026-04-02 |
+| Earliest Recall | 2012-08-16 |
+| Hazard Types | The recalled spiral tower toy sets violate the mandatory standard for toys because they contain small balls and are intended for children under three years of age, posing a deadly choking hazard., The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death., The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels., The hair serum contains minoxidil, which must be in child-resistant packaging as required by the Poison Prevention Packaging Act. The hair serum's packaging is not child-resistant, posing a risk of serious injury or death from poisoning if the contents are swallowed by young children., The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail, or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels. |
+
+**Recent recalls:**
+
+- [Children's Toys Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violates the Small Ball Ban; Sold on Amazon by Beestech](https://www.cpsc.gov/Recalls/26365) (2026-04-02) — The recalled spiral tower toy sets violate the mandatory standard for toys because they contain small balls and are intended for children under three years of age, posing a deadly choking hazard.
+- [Coluans Christmas Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by BUDI Official](https://www.cpsc.gov/Recalls/26369) (2026-04-02) — The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
+- [ELENKER Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violates Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Fuzhou Shiah...](https://www.cpsc.gov/Recalls/26374) (2026-04-02) — The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
+- [Gavoyeat Halloween Light-Up Rings Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violates Mandatory Standard for Toys; Sold on Amazon by CSZWEICD](https://www.cpsc.gov/Recalls/26368) (2026-04-02) — The recalled light-up rings violate the mandatory safety standard for toys because the battery compartment within the LED light ring contains button cell batteries that can be easily accessed by children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.
+- [Tuymec Minoxidil Hair Growth Spray Bottles Recalled Due to Risk of Serious Injury or Death from Child Poisoning; Violates Mandatory Standard for Child-Resistant Packaging; Sold on Amazon by DrHealB...](https://www.cpsc.gov/Recalls/26381) (2026-04-02) — The hair serum contains minoxidil, which must be in child-resistant packaging as required by the Poison Prevention Packaging Act. The hair serum's packaging is not child-resistant, posing a risk of serious injury or death from poisoning if the contents are swallowed by young children.
+- [MPINOI Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Bioenrrty](https://www.cpsc.gov/Recalls/26350) (2026-03-26) — The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail, or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
+- ... and 278 more
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Amazon) (Tier 1)
+<!-- auto:cpsc-recalls end -->

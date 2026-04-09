@@ -73,6 +73,22 @@ regulatory-agencies:
   - "Food and Drug Administration"
   - "Foreign-Trade Zones Board"
   - "Health and Human Services Department"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+doj-press-mentions: "264414"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
+  - "USAO - New Jersey"
+lobbying-spend: 53270000
+lobbying-filings: 66
 ---
 
 
@@ -359,3 +375,61 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Pfizer%20Inc.%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Pfizer%20Inc.) (Tier 1)
+<!-- auto:nhtsa-recalls end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264414 |
+| Date Range | 2026-04-08 to 2026-04-09 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Kansas +9 more |
+
+**Recent press releases:**
+
+- 2026-04-09 — [U.S. Attorney, ATF Offer Law Enforcement Training on Firearms Trends](https://www.justice.gov/usao-ndwv/pr/us-attorney-atf-offer-law-enforcement-training-firearms-trends) — USAO - West Virginia, Northern
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- ... and 264,408 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Pfizer%20Inc.%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $53.3M |
+| Quarterly Filings | 66 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 16 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Copyright/Patent/Trademark, Defense, Health Issues, Medicare/Medicaid, Pharmacy, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALTRIUS GROUP, LLC, AVOQ, LLC, BGR GOVERNMENT AFFAIRS, CORNERSTONE GOVERNMENT AFFAIRS, INC., ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG), FEDERAL HEALTH POLICY STRATEGIES, MARSHALL & POPP, LLC, MILLER STRATEGIES, LLC, NVG, LLC, PFIZER INC., ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC), SHOOK, HARDY & BACON, LLP, THE DUBERSTEIN GROUP INC., THE WASHINGTON TAX & PUBLIC POLICY GROUP, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Natl Economic Council (NEC), Natl Institutes of Health (NIH), SENATE +4 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Pfizer%20Inc.) (Tier 1)
+<!-- auto:lda-lobbying end -->

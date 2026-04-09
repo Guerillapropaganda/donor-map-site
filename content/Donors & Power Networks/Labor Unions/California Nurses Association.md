@@ -2,7 +2,7 @@
 title: "California Nurses Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -25,7 +25,7 @@ lobbying-spend: 10419974
 lobbying-filings: 105
 total-political-spend: "$19,855,072"
 federal-register-mentions: 2
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "National Labor Relations Board"
 sec-filings: 71

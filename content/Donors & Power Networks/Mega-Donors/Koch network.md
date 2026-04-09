@@ -19,6 +19,8 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
 related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]] · [[The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices]] · [[CalSTRS - California State Teachers' Retirement System]]"
+lei: "391200KFDASVUTIYEP51"
+lei-jurisdiction: "DE"
 ---
 
 #koch #network #dark-money #libertarian #deregulation #afp
@@ -63,3 +65,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Koch%20network%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [391200KFDASVUTIYEP51](https://search.gleif.org/#/record/391200KFDASVUTIYEP51) |
+| Legal Name | Global Asthma and Allergy European Network (GA²LEN) e.V. |
+| Jurisdiction | DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-05-19T09:26:52Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

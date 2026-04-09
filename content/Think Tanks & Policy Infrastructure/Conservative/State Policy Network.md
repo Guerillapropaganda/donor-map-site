@@ -2,10 +2,10 @@
 title: "State Policy Network"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
-ein: 570952531
+ein: "570952531"
 annual-revenue: "$27.1M"
 net-assets: "$20.7M"
 tax-year: "2023"
@@ -21,7 +21,7 @@ subawards-received-amount: 1009778941592127500
 related: "[[Donors Capital Fund]] · [[DonorsTrust]] · [[Freedom Partners]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[Cato Institute]] · [[Freedom Partners Chamber of Commerce]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 source-types:
   - SEC
   - USASpending
@@ -29,6 +29,9 @@ corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+nonprofit-status: "501(c)(3)"
+total-revenue: 33889522
+total-assets: 24576851
 ---
 
 #think-tank #conservative #state-level #deregulation #koch-network #dark-money #class-analysis #follow-the-money
@@ -188,3 +191,28 @@ content-readiness:: draft
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=State%20Policy%20Network) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 570952531 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $33.9M |
+| Total Assets | $24.6M |
+| NTEE Code | R02 |
+| IRS Ruling Date | 1992-09-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1)
+<!-- auto:nonprofit-990 end -->

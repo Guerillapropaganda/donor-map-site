@@ -22,7 +22,7 @@ fara-countries:
 related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]]"
 ein: "311472972"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 2407347
 total-assets: 2689293
 sec-filings: 9195
@@ -45,6 +45,13 @@ sec-form-types:
   - "SC 13D"
   - "SC 14D9"
   - "SC 14D9/A"
+federal-register-mentions: 4
+regulatory-agencies:
+  - "Agricultural Marketing Service"
+  - "Agriculture Department"
+  - "Energy Department"
+  - "Federal Communications Commission"
+  - "Grain Inspection, Packers and Stockyards Administration"
 ---
 
 #lobbying #k-street #chemicals #defense #tech #healthcare #cannabis #trade #real-estate
@@ -338,3 +345,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Holland%20%26%20Knight%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 4 |
+| Notice | 1 |
+| Proposed Rule | 2 |
+| Rule | 1 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Energy Department, Federal Communications Commission, Grain Inspection, Packers and Stockyards Administration |
+
+**Recent regulatory activity:**
+- [Innovative Technologies Loan Guarantee Program; Extension of Comment Period](https://www.federalregister.gov/documents/2022/06/30/2022-13946/innovative-technologies-loan-guarantee-program-extension-of-comment-period) (2022-06-30) — Energy Department
+- [Radio Broadcasting Services; Mt. Juliet and Belle Meade, TN](https://www.federalregister.gov/documents/1997/03/26/97-7708/radio-broadcasting-services-mt-juliet-and-belle-meade-tn) (1997-03-26) — Federal Communications Commission
+- [Radio Broadcasting Services; Georgetown and Garden City, SC](https://www.federalregister.gov/documents/1996/09/30/96-24869/radio-broadcasting-services-georgetown-and-garden-city-sc) (1996-09-30) — Federal Communications Commission
+- [Rules of Practice](https://www.federalregister.gov/documents/1995/02/14/95-3464/rules-of-practice) (1995-02-14) — Agriculture Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Holland%20%26%20Knight%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -171,3 +171,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Roger Marshall](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

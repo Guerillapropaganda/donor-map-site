@@ -19,6 +19,9 @@ tax-year: "2023"
 lobbying-spend: 160000
 lobbying-filings: 8
 related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[Buffy Wicks]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]]"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-09"
 ---
 
 
@@ -146,3 +149,21 @@ research-status:: ready — 310K members, largest CA teachers union, NEA affilia
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CTA%20-%20California%20Teachers%20Association) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

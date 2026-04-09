@@ -20,6 +20,8 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. New Jersey"
   - "United States Bankruptcy Court, S.D. Florida."
+fara-status: "registrant"
+fara-records: 1
 ---
 
 #lobbying #k-street #trump #revolving-door #fara #foreign-government #tech #defense #pharma #energy #crypto
@@ -271,3 +273,14 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ballard%20Partners%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 1 |
+| Registrant Records | 1 |
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ballard%20Partners) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

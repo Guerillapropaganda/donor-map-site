@@ -47,6 +47,8 @@ regulatory-agencies:
   - "Justice Department"
   - "Patent and Trademark Office"
 cpsc-recalls: 43
+lei: "969500UMN0I81FGDFL82"
+lei-jurisdiction: "FR"
 ---
 
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
@@ -253,3 +255,18 @@ content-readiness:: ready
 
 - ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [969500UMN0I81FGDFL82](https://search.gleif.org/#/record/969500UMN0I81FGDFL82) |
+| Legal Name | JOHN DEERE FINANCIAL |
+| Jurisdiction | FR |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-17T21:10:19Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -47,6 +47,18 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+federal-register-mentions: 143
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Centers for Medicare & Medicaid Services"
+  - "Defense Department"
+  - "Employee Benefits Security Administration"
+  - "Executive Office for Immigration Review"
+  - "Federal Election Commission"
+  - "Federal Emergency Management Agency"
+  - "Federal Trade Commission"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
 ---
 
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
@@ -236,3 +248,25 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Humana%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 143 |
+| Final Rules | 27 |
+| Proposed Rules | 14 |
+| Notices | 102 |
+| Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Defense Department, Employee Benefits Security Administration, Executive Office for Immigration Review, Federal Election Commission, Federal Emergency Management Agency, Federal Trade Commission +7 more |
+
+**Recent regulatory activity:**
+- [United States, et al. v. UnitedHealth Group Incorporated, et al.; Proposed Final Judgment and Competitive Impact Statement](https://www.federalregister.gov/documents/2025/08/14/2025-15486/united-states-et-al-v-unitedhealth-group-incorporated-et-al-proposed-final-judgment-and-competitive) (2025-08-14) — Justice Department
+- [Hematology and Pathology Devices; Reclassification of In Situ Hybridization Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product](https://www.federalregister.gov/documents/2025/06/11/2025-10549/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with) (2025-06-11) — Health and Human Services Department
+- [TRICARE: TRICARE Competitive Plans Demonstration (CPD)](https://www.federalregister.gov/documents/2025/04/28/2025-07258/tricare-tricare-competitive-plans-demonstration-cpd) (2025-04-28) — Defense Department
+- [Micro-Captive Listed Transactions and Micro-Captive Transactions of Interest](https://www.federalregister.gov/documents/2025/01/14/2025-00393/micro-captive-listed-transactions-and-micro-captive-transactions-of-interest) (2025-01-14) — Treasury Department
+- [TRICARE: Notice of TRICARE Plan Program Changes for Calendar Year 2025](https://www.federalregister.gov/documents/2024/11/08/2024-26066/tricare-notice-of-tricare-plan-program-changes-for-calendar-year-2025) (2024-11-08) — Defense Department
+- [National Flood Insurance Program Installment Payment Plan](https://www.federalregister.gov/documents/2024/11/01/2024-25213/national-flood-insurance-program-installment-payment-plan) (2024-11-01) — Homeland Security Department
+- ... and 137 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Humana%22) (Tier 1)
+<!-- auto:federal-register end -->

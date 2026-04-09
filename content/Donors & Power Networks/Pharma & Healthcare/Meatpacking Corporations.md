@@ -2,7 +2,7 @@
 title: "Meatpacking Corporations"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -14,6 +14,12 @@ issues:
   - "Antitrust & Monopoly"
   - "Immigration"
 related: "[[The Agribusiness Senator and the Family Farm Myth]]"
+court-cases: 3
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "District Court, D. Maryland"
+  - "District Court, District of Columbia"
+  - "District Court, S.D. Texas"
 ---
 
 #meatpacking #tyson #jbs #cargill #smithfield #labor #osha #antitrust #immigration #child-labor #covid #concentration #class-analysis #follow-the-money
@@ -158,3 +164,19 @@ The COVID-19 crisis proved the model. The industry drafted its own executive ord
 ---
 
 content-readiness:: developed
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 3 |
+| Courts | District Court, D. Maryland, District Court, District of Columbia, District Court, S.D. Texas |
+| Case Types | 410 Anti-Trust, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Administrative Procedure Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- National Chicken Council v. Vilsack (2024) — District Court, S.D. Texas
+- United States v. Cargill Meat Solutions Corporation (2022) — District Court, D. Maryland
+- RANCHERS CATTLEMEN ACTION LEGAL FUND UNITED STOCKGROWERS OF AMERICA v. UNITED STATES DEPARTMENT OF AGRICULTURE (2020) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Meatpacking%20Corporations%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -2,7 +2,7 @@
 title: "Uber"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -60,7 +60,7 @@ sec-form-types:
   - "TEXT-EXTRACT"
 ein: "884207935"
 nonprofit-status: "501(c)(6)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 127381
 total-assets: 272824
 nhtsa-recalls: 0
@@ -92,6 +92,12 @@ federal-awards-total: 1913339677
 federal-contracts-count: 25
 federal-grants-count: 25
 cpsc-recalls: 1
+court-cases: 28822
+court-jurisdictions:
+  - "District Court, D. Maryland"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Florida"
+  - "District Court, W.D. Texas"
 ---
 
 
@@ -456,3 +462,22 @@ content-readiness:: ready
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Uber) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 28,822 |
+| Courts | District Court, D. Maryland, District Court, N.D. California, District Court, S.D. Florida, District Court, W.D. Texas |
+| Case Types | 360 P.I.: Other, 440 Civil Rights: Other, 463 Habeas Corpus - Alien Detainee, 890 Other Statutory Actions |
+
+**Notable cases:**
+- EL-Bey v. Levin (2026) — District Court, D. Maryland
+- Roe CL 304 v. Uber Technologies, Inc. (2026) — District Court, N.D. California
+- Roe CL 303 v. Uber Technologies, Inc. (2026) — District Court, N.D. California
+- Ke.G. v. Uber Technologies Inc. (2026) — District Court, N.D. California
+- P. v. Uber Technologies, Inc. (2026) — District Court, N.D. California
+- H. v. Uber Technologies, Inc. (2026) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Uber%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

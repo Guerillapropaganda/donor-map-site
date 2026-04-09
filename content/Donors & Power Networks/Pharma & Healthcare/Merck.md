@@ -2,7 +2,7 @@
 title: "Merck"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -27,10 +27,21 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "325412"
 related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]]"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 45354708
 total-assets: 328259324
 cpsc-recalls: 1
+federal-register-mentions: 673
+regulatory-agencies:
+  - "Centers for Medicare & Medicaid Services"
+  - "Commerce Department"
+  - "Equal Employment Opportunity Commission"
+  - "Federal Communications Commission"
+  - "Federal Trade Commission"
+  - "Food and Drug Administration"
+  - "Foreign-Trade Zones Board"
+  - "Health and Human Services Department"
+  - "Veterans Affairs Department"
 ---
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
@@ -240,3 +251,25 @@ content-readiness:: ready
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Merck) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 673 |
+| Final Rules | 132 |
+| Proposed Rules | 74 |
+| Notices | 467 |
+| Agencies | Centers for Medicare & Medicaid Services, Commerce Department, Equal Employment Opportunity Commission, Federal Communications Commission, Federal Trade Commission, Food and Drug Administration, Foreign-Trade Zones Board, Health and Human Services Department +1 more |
+
+**Recent regulatory activity:**
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; ENFLONSIA](https://www.federalregister.gov/documents/2026/04/03/2026-06479/determination-of-regulatory-review-period-for-purposes-of-patent-extension-enflonsia) (2026-04-03) — Health and Human Services Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [Foreign-Trade Zone (FTZ) 49; Authorization of Limited Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/11/26/2025-21298/foreign-trade-zone-ftz-49-authorization-of-limited-production-activity-merck-sharp-and-dohme-llc) (2025-11-26) — Commerce Department
+- [Foreign-Trade Zone (FTZ) 49; Authorization of Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/06/27/2025-11910/foreign-trade-zone-ftz-49-authorization-of-production-activity-merck-sharp-and-dohme-llc) (2025-06-27) — Commerce Department
+- [Foreign-Trade Zone (FTZ) 49, Notification of Proposed Production Activity; Merck, Sharp & Dohme LLC; (Pharmaceutical Products for Research and Development); Rahway, New Jersey](https://www.federalregister.gov/documents/2025/04/14/2025-06283/foreign-trade-zone-ftz-49-notification-of-proposed-production-activity-merck-sharp-and-dohme-llc) (2025-04-14) — Commerce Department
+- [Determination That DECADRON (Dexamethasone Sodium Phosphate) Solution/Drops, Equivalent to 0.1 Percent Phosphate, Was Not Withdrawn From Sale for Reasons of Safety or Effectiveness](https://www.federalregister.gov/documents/2025/04/09/2025-06046/determination-that-decadron-dexamethasone-sodium-phosphate-solutiondrops-equivalent-to-01-percent) (2025-04-09) — Health and Human Services Department
+- ... and 667 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Merck%22) (Tier 1)
+<!-- auto:federal-register end -->

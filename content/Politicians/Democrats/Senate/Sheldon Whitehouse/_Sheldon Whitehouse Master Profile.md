@@ -271,13 +271,15 @@ content-readiness:: developed
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 3 of 3 |
+| Donors Who Also Lobby | 5 of 5 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
 - [[League of Conservation Voters]] — $6.2M lobbying spend (Accounting, Agriculture, Arts/Entertainment)
 - [[Ocean Conservancy]] — $5.7M lobbying spend (Aerospace, Agriculture, Animals)
+- [[Environmental Law & Policy Center]] — $3.6M lobbying spend (Agriculture, Alcohol and Drug Abuse, Aviation/Airlines/Airports)
+- [[Brady Campaign]] — $836K lobbying spend (Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality))
 - [[Demand Justice]] — $650K lobbying spend (Aerospace, Aviation/Airlines/Airports, Banking)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*

@@ -2,7 +2,7 @@
 title: "TPUSA - Turning Point USA"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -14,6 +14,11 @@ related: "[[The Insurrection Investment - Who Funded January 6th and What They G
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+ein: "800835023"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
+total-revenue: 86911918
+total-assets: 26269868
 ---
 
 #dark-money #conservative-youth #charlie-kirk #maga #infrastructure
@@ -58,3 +63,28 @@ TPUSA represents a new oligarchic model: dark money youth mobilization disguised
 - [SourceWatch: Turning Point USA — dark money funding, donors, and organizational profile](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA) (Tier 3)
 
 `content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 800835023 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $86.9M |
+| Total Assets | $26.3M |
+| NTEE Code | Z99 |
+| IRS Ruling Date | 2014-07-01 |
+| Filings on Record | 11 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/800835023) (Tier 1)
+<!-- auto:nonprofit-990 end -->

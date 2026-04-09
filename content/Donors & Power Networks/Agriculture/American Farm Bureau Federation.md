@@ -2,7 +2,7 @@
 title: "American Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -20,7 +20,7 @@ net-assets: "$108.4M"
 tax-year: "2023"
 total-political-spend: "$44,294"
 nonprofit-status: "501(c)(5)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 36693260
 total-assets: 125601852
 sec-filings: 519
@@ -71,6 +71,18 @@ court-jurisdictions:
   - "District Court, D. Utah"
   - "District Court, D. Wyoming"
   - "District Court, District of Columbia"
+federal-register-mentions: 210
+regulatory-agencies:
+  - "Agricultural Marketing Service"
+  - "Agriculture Department"
+  - "Commerce Department"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Fish and Wildlife Service"
+  - "Homeland Security Department"
+  - "Interior Department"
 ---
 
 
@@ -364,3 +376,25 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Farm%20Bureau%20Federation%22&type=r) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 210 |
+| Final Rules | 60 |
+| Proposed Rules | 110 |
+| Notices | 40 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Commerce Department, Employment and Training Administration, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Fish and Wildlife Service +6 more |
+
+**Recent regulatory activity:**
+- [Endangered and Threatened Wildlife and Plants; Regulations Pertaining to Endangered and Threatened Wildlife and Plants](https://www.federalregister.gov/documents/2025/11/21/2025-20552/endangered-and-threatened-wildlife-and-plants-regulations-pertaining-to-endangered-and-threatened) (2025-11-21) — Interior Department ★
+- [Endangered and Threatened Wildlife and Plants; Listing Endangered and Threatened Species and Designating Critical Habitat](https://www.federalregister.gov/documents/2025/11/21/2025-20549/endangered-and-threatened-wildlife-and-plants-listing-endangered-and-threatened-species-and) (2025-11-21) — Interior Department ★
+- [Recission of Final Rule: Improving Protections for Workers in Temporary Agricultural Employment in the United States](https://www.federalregister.gov/documents/2025/07/02/2025-12315/recission-of-final-rule-improving-protections-for-workers-in-temporary-agricultural-employment-in) (2025-07-02) — Labor Department ★
+- [Distribution of Continued Dumping and Subsidy Offset to Affected Domestic Producers](https://www.federalregister.gov/documents/2025/05/30/2025-08516/distribution-of-continued-dumping-and-subsidy-offset-to-affected-domestic-producers) (2025-05-30) — Homeland Security Department
+- [Air Plan Approval; Pennsylvania; Redesignation Request and Associated Maintenance Plan for the Liberty-Clairton Area for the 1997 Annual and 2006 24-Hour Fine Particulate Matter Standard and Maintenance Plan for the Allegheny County Area for the 2012 Annual Fine Particulate Matter Standard](https://www.federalregister.gov/documents/2025/04/07/2025-05921/air-plan-approval-pennsylvania-redesignation-request-and-associated-maintenance-plan-for-the) (2025-04-07) — Environmental Protection Agency
+- [Review of the Secondary National Ambient Air Quality Standards for Oxides of Nitrogen, Oxides of Sulfur, and Particulate Matter](https://www.federalregister.gov/documents/2024/12/27/2024-29463/review-of-the-secondary-national-ambient-air-quality-standards-for-oxides-of-nitrogen-oxides-of) (2024-12-27) — Environmental Protection Agency ★
+- ... and 204 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Farm%20Bureau%20Federation%22) (Tier 1)
+<!-- auto:federal-register end -->
