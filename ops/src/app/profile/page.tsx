@@ -815,6 +815,7 @@ export default function ProfilePage() {
             }}
             onRunPipeline={async (pipeline, profileTitle) => {
               setReadinessMsg(`Running ${pipeline} pipeline on ${profileTitle}...`)
+              const triggerTime = new Date().toISOString()
               try {
                 const res = await fetch("/api/pipelines", {
                   method: "POST",
@@ -822,11 +823,60 @@ export default function ProfilePage() {
                   body: JSON.stringify({ pipeline, profile: profileTitle, limit: 1 }),
                 })
                 const data = await res.json()
-                if (data.success) {
-                  setReadinessMsg(`${pipeline} pipeline triggered for ${profileTitle}`)
-                } else {
+                if (!data.success) {
                   setReadinessMsg(`Pipeline error: ${data.error || "GitHub Actions may be disabled"}`)
+                  return
                 }
+                setReadinessMsg(`${pipeline} pipeline triggered — polling for completion...`)
+
+                // Poll for workflow completion
+                const pollInterval = 15000 // 15s
+                const maxPolls = 120 // 30 min max
+                let polls = 0
+                const poll = async () => {
+                  polls++
+                  if (polls > maxPolls) {
+                    setReadinessMsg(`${pipeline} pipeline timed out after 30 min — check GitHub Actions`)
+                    return
+                  }
+                  try {
+                    const statusRes = await fetch(`/api/pipelines/status?after=${encodeURIComponent(triggerTime)}`)
+                    const statusData = await statusRes.json()
+                    if (!statusData.found || statusData.status === "queued" || statusData.status === "in_progress") {
+                      setReadinessMsg(`${pipeline} pipeline running... (${polls * 15}s)`)
+                      setTimeout(poll, pollInterval)
+                      return
+                    }
+                    // Run completed
+                    const success = statusData.conclusion === "success"
+                    const resultMsg = success
+                      ? `${pipeline} pipeline completed successfully`
+                      : `${pipeline} pipeline failed: ${statusData.conclusion}`
+                    setReadinessMsg(success ? `${resultMsg} — pulling changes...` : resultMsg)
+
+                    // Log result in Reviews timeline
+                    const today = new Date().toISOString().split("T")[0]
+                    const logEntry = `[CODE @ ${today}] Pipeline: ${pipeline} ${success ? "completed" : "FAILED"} for ${profileTitle}. Run: ${statusData.url || "N/A"}`
+                    const updatedNotes = internalNotes ? `${internalNotes} | ${logEntry}` : logEntry
+                    await fetch("/api/profile/notes", {
+                      method: "POST",
+                      headers: { "Content-Type": "application/json" },
+                      body: JSON.stringify({ path: profilePath, notes: updatedNotes }),
+                    })
+                    setInternalNotes(updatedNotes)
+
+                    if (success) {
+                      // Auto-pull latest changes
+                      await fetch("/api/pipelines/pull", { method: "POST" })
+                      // Reload profile to refresh checklist
+                      setReadinessMsg(`${pipeline} pipeline done — refreshing profile...`)
+                      window.location.reload()
+                    }
+                  } catch {
+                    setReadinessMsg(`Error checking pipeline status — check GitHub Actions`)
+                  }
+                }
+                setTimeout(poll, pollInterval)
               } catch {
                 setReadinessMsg("Pipeline error: GitHub Actions may be disabled")
               }
