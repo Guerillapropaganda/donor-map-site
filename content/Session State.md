@@ -121,15 +121,28 @@ Known issues remaining:
 - Need to test more profile types (donor, corporation, think tank)
 - Some component colors in the sidebar/right widgets may need fine-tuning after visual testing on live
 
+Done (continued, same session):
+- **Profile page yellow accents** — H2 headers get yellow left border, article title gets yellow underline, active tab yellow indicator, type badge yellow bg, section card yellow borders, callout key findings yellow borders. Profile pages now pop like the homepage.
+- **Both sidebars now light** — David changed from hybrid to full light sidebars. Header also light.
+- **Evidence panel simplified** — shows only: yellow POLITICIAN badge + context (Democrat · House · MO) + UPDATED date + HOW WE VERIFY link. Source counts, tier badges, readiness removed (editorial, not for readers).
+- **Profile header simplified** — removed TIER 1 and READY badges. Shows only: party dot + type badge (POLITICIAN/DONOR).
+- **Sources section fixed** — was dark bg (#14141a missed by bulk replace), now cream with readable links.
+- **Politician blue heavier** — #1e3a5f for text on cream bg (old #5b8dce was too light).
+- **Table text darker** — #0a0a0a for td (was #333, too grey).
+- **29 component files reskinned** — bulk color swap across all TSX components.
+- **Remaining dark colors cleaned** — #1a1a24, #151520, #14141a, #8a8a96, #1a1a22, #10b981 all fixed.
+- **4 Claude Code skills built** — /deploy, /session-save, /design-audit, /preflight. Pushed to both main repo and worktree.
+- **GitHub Actions still disabled** — David contacted support, waiting for re-enablement.
+
 Next session priorities:
-1. **Fix evidence panel dark bg** — find the remaining inline style
-2. **Test all profile types** — politician, donor, corporation, think tank, lobbying firm
-3. **Fine-tune component colors** — right sidebar widgets, mobile nav, search overlay
-4. **Turn off construction mode** when GitHub Actions re-enabled
-5. **State lookup data coverage** — ensure senator profiles have `top-donors` in frontmatter
-6. Continue A+ reviews
-7. Fix congress pipeline (engine)
-8. Fix lda-pipeline.cjs domain (engine)
+1. **Test all profile types** — politician, donor, corporation, think tank. Verify colors/readability across types.
+2. **Fine-tune remaining component colors** — search overlay, mobile nav, network graph on light bg, any remaining dark colors.
+3. **Run /design-audit** — catch any remaining Design System violations.
+4. **Turn off construction mode** when GitHub Actions re-enabled.
+5. **State lookup data coverage** — ensure senator profiles have `top-donors` in frontmatter.
+6. Continue A+ reviews.
+7. Fix congress pipeline (engine).
+8. Fix lda-pipeline.cjs domain (engine).
 
 Design direction approved by David:
 - Brutalist art-direction. **Hybrid light/dark** — not full light, not full dark.
