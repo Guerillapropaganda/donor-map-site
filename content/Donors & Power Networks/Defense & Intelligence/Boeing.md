@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Defense & Military"
 court-cases: 35992
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. Oregon"
   - "District Court, D. South Carolina"
@@ -92,7 +92,7 @@ nhtsa-complaints: 0
 nonprofit-status: "501(c)(6)"
 total-revenue: 1031754
 total-assets: 589361
-related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]]"
+related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]]"
 ---
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor

@@ -26,7 +26,6 @@ court-jurisdictions:
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, S.D. Texas"
 related: "[[Katie Britt]]"
-total-political-spend: "$11,000"
 nonprofit-status: "501(c)(6)"
 total-revenue: 7267008
 total-assets: 8134872
@@ -107,22 +106,6 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Business%20Council%20of%20Alabama%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
-
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $11,000 |
-| Contributions | 2 |
-
-**Top recipients:**
-
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| RNC REPUBLICAN NATIONAL STATE ELECTIONS COMMITTEE | $11,000 | — |
-
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Council%20of%20Alabama) (Tier 1)
-<!-- auto:fec-donor end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

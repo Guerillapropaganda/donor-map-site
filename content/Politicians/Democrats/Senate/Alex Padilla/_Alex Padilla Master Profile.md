@@ -23,6 +23,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+internal-notes: "[URL Check 2026-04-09] 11 checked: 9 ok, 1 broken, 1 slow. | BROKEN: Congress.gov: Alex Padilla | SLOW: Senate.gov: Padilla elected top Democrat on Rules and Administration Committee"
 ---
 
 
@@ -141,18 +142,18 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 ### Sources
 
-- [FEC Candidate: Alex Padilla donor profile](https://www.fec.gov/data/candidate/S2CA00955/) (Tier 1)
-- [Congress.gov: Alex Padilla](https://www.congress.gov/member/alex-padilla/P000145) (Tier 1)
-- [Senate.gov: Alex Padilla](https://www.padilla.senate.gov/about/) (Tier 1)
-- [Senate.gov: Padilla committee assignments](https://www.padilla.senate.gov/about/committee-assignments/) (Tier 1)
-- [Senate.gov: Padilla elected top Democrat on Rules and Administration Committee](https://www.padilla.senate.gov/newsroom/press-releases/padilla-elected-to-serve-as-top-democrat-of-senate-rules-and-administration-committee/) (Tier 1)
-- [Senate.gov: Padilla immigration issues page](https://www.padilla.senate.gov/about/issues/immigration/) (Tier 1)
-- [Senate.gov: Padilla raises AI inclusivity concerns at Judiciary hearing](https://www.padilla.senate.gov/newsroom/press-releases/padilla-raises-inclusivity-concerns-at-committee-hearing-on-artificial-intelligence/) (Tier 1)
-- [FEC: Alex Padilla for Senate committee overview](https://www.fec.gov/data/committee/C00765164/) (Tier 1)
-- ~~[FollowTheMoney: Alex Padilla](https://www.followthemoney.org/tools/election-overview?eid=6468901&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [GovTrack: Alex Padilla](https://www.govtrack.us/congress/members/alejandro_padilla/456856) (Tier 3)
-- [Ballotpedia: Alex Padilla](https://ballotpedia.org/Alex_Padilla) (Tier 3)
-- [Wikipedia: Alex Padilla](https://en.wikipedia.org/wiki/Alex_Padilla) (Tier 3)
+- [FEC Candidate: Alex Padilla donor profile](https://www.fec.gov/data/candidate/S2CA00955/) (Tier 1) (VERIFIED)
+- [Congress.gov: Alex Padilla](https://www.congress.gov/member/alex-padilla/P000145) (Tier 1) (VERIFIED: removed from bad)
+- [Senate.gov: Alex Padilla](https://www.padilla.senate.gov/about/) (Tier 1) (VERIFIED)
+- [Senate.gov: Padilla committee assignments](https://www.padilla.senate.gov/about/committee-assignments/) (Tier 1) (VERIFIED)
+- [Senate.gov: Padilla elected top Democrat on Rules and Administration Committee](https://www.padilla.senate.gov/newsroom/press-releases/padilla-elected-to-serve-as-top-democrat-of-senate-rules-and-administration-committee/) (Tier 1) (VERIFIED: Slow response (5803ms) It works)
+- [Senate.gov: Padilla immigration issues page](https://www.padilla.senate.gov/about/issues/immigration/) (Tier 1) (VERIFIED)
+- [Senate.gov: Padilla raises AI inclusivity concerns at Judiciary hearing](https://www.padilla.senate.gov/newsroom/press-releases/padilla-raises-inclusivity-concerns-at-committee-hearing-on-artificial-intelligence/) (Tier 1) (VERIFIED)
+- [FEC: Alex Padilla for Senate committee overview](https://www.fec.gov/data/committee/C00765164/) (Tier 1) (VERIFIED)
+- [FollowTheMoney: Alex Padilla](https://www.followthemoney.org/tools/election-overview?eid=6468901&default=candidate) (NEEDS REVIEW: Still Works...Maybe we can screenshot and save somehow?) (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
+- [GovTrack: Alex Padilla](https://www.govtrack.us/congress/members/alejandro_padilla/456856) (Tier 3) (VERIFIED)
+- [Ballotpedia: Alex Padilla](https://ballotpedia.org/Alex_Padilla) (Tier 3) (VERIFIED)
+- [Wikipedia: Alex Padilla](https://en.wikipedia.org/wiki/Alex_Padilla) (Tier 3) (VERIFIED)
 
 content-readiness:: ready
 

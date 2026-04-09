@@ -2,7 +2,7 @@
 title: "OpenAI"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -22,6 +22,8 @@ subawards-issued-amount: 19500000
 subawards-received: 1
 subawards-received-amount: 19500000
 related: "[[AI Deregulation Super PAC - Leading the Future]] · [[Crypto vs. Institutional Democrats in Illinois]]"
+lei: "9845004F11A8N695DD79"
+lei-jurisdiction: "IE"
 ---
 
 #openai #ai #chatgpt #altman #microsoft #regulation #nonprofit-conversion
@@ -140,3 +142,18 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [9845004F11A8N695DD79](https://search.gleif.org/#/record/9845004F11A8N695DD79) |
+| Legal Name | OPENAI IRELAND LIMITED |
+| Jurisdiction | IE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-19T17:04:26Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

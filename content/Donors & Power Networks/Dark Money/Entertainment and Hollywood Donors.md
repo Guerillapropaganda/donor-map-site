@@ -2,7 +2,7 @@
 title: "Entertainment and Hollywood Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -26,6 +26,8 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]]"
+lobbying-spend: 24863936
+lobbying-filings: 93
 ---
 
 #hollywood #entertainment #donors #democratic #bundling #cultural-influence #israel-lobby #revolving-door #copyright #mpaa
@@ -233,3 +235,22 @@ content-readiness:: developed
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Entertainment%20and%20Hollywood%20Donors%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $24.9M |
+| Quarterly Filings | 93 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 30 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Arts/Entertainment, Aviation/Airlines/Airports, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Gaming/Gambling/Casino, Government Issues, Homeland Security, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Media (information/publishing), Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALPINE GROUP PARTNERS, LLC., AVOQ, LLC, BALLARD PARTNERS, BGR GOVERNMENT AFFAIRS, BLOOM STRATEGIC COUNSEL, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CARMEN GROUP INCORPORATED, ELEVATE GOVERNMENT AFFAIRS, LLC, ENTERTAINMENT SOFTWARE ASSOCIATION, FARRAGUT PARTNERS LLP, FELD ENTERTAINMENT, FGS GLOBAL (US) LLC (FKA FGH HOLDINGS LLC), FORBES-TATE, HOGAN LOVELLS US LLP, I STREET ADVOCATES, LIVE NATION ENTERTAINMENT, INC., MARK BARNES & ASSOCIATES, MARSHALL & POPP, LLC, MAYER BROWN LLP, NORTH STAR STRATEGIES, LLC, OGR, PLATINUM ADVISORS DC, LLC, PUTALASTRATEGIES, SONY INTERACTIVE ENTERTAINMENT LLC, SONY MUSIC ENTERTAINMENT (FORMERLY KNOWN AS SONY BMG MUSIC ENTERTAINMENT), SONY PICTURES ENTERTAINMENT INC., STEWART STRATEGIES AND SOLUTIONS, LLC, THE FITHIAN GROUP LLC, THE SMITH-FREE GROUP, LLC
+
+**Agencies contacted:** Commerce, Dept of (DOC), Federal Aviation Administration (FAA), Federal Communications Commission (FCC), Federal Trade Commission (FTC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Interior, Dept of (DOI), Office of Science & Technology Policy (OSTP), SENATE, Small Business Administration (SBA) +2 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Entertainment%20and%20Hollywood%20Donors) (Tier 1)
+<!-- auto:lda-lobbying end -->

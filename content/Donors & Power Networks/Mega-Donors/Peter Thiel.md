@@ -19,29 +19,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Federal Trade Commission"
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Hillbilly Elegy and the Class Fraud]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Vivek Ramaswamy Master Profile]]"
-sec-filings: 1956
-sec-form-types:
-  - "13F-HR"
-  - "144"
-  - "3"
-  - "3/A"
-  - "4"
-  - "8-K"
-  - "D"
-  - "D/A"
-  - "EX-10.11"
-  - "EX-10.9"
-  - "EX-24.1"
-  - "EX-4.2"
-  - "EX-99.1"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SCHEDULE 13D/A"
-  - "SCHEDULE 13G"
-  - "SCHEDULE 13G/A"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Hillbilly Elegy and the Class Fraud]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]]"
 ---
 
 

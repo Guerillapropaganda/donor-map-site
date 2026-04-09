@@ -2,7 +2,7 @@
 title: "Brian Schatz Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,7 +14,6 @@ committees:
 top-donors:
   - "Private Equity Industry"
   - "Real Estate Industry"
-bioguide-id: "A000383"
 total-received: "$1,513,132"
 fec-candidate-id: "S4HI00136"
 source-types:
@@ -24,6 +23,11 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+govtrack-id: 412507
+bills-sponsored: 41
+bills-cosponsored: 249
+website: "https://www.schatz.senate.gov"
+phone: "202-224-3934"
 ---
 
 
@@ -190,3 +194,36 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 249 |
+| Total Votes Cast | 4,871 |
+| Leadership | Senate Democratic Conference Deputy Secretary |
+
+**Recent bills sponsored:**
+
+- S.Con.Res. 32: A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4216: GUARDRAILS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4210: A bill to authorize the Secretary of Health and Human Services to award grants to establish or expand programs to implem — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 625: A resolution designating February 2026 as “Hawaiian Language Month” or “Olelo Hawai’i Month”. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3910: ReSCUE Oceans Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Not Voting | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412507) (Tier 1)
+<!-- auto:govtrack end -->

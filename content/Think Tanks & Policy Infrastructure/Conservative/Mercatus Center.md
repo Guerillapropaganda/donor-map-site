@@ -7,9 +7,9 @@ source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]]"
+related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]]"
 court-cases: 146
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the Federal Circuit"
   - "District Court, D. Maryland"
@@ -20,6 +20,18 @@ ein: "541436224"
 nonprofit-status: "501(c)(3)"
 total-revenue: 39392965
 total-assets: 36765270
+federal-register-mentions: 81
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Centers for Medicare & Medicaid Services"
+  - "Children and Families Administration"
+  - "Employee Benefits Security Administration"
+  - "Energy Department"
+  - "Federal Aviation Administration"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Internal Revenue Service"
+  - "Justice Department"
 ---
 
 #think-tank #conservative #libertarian #deregulation #koch #academic-capture #class-analysis
@@ -443,3 +455,25 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 81 |
+| Final Rules | 54 |
+| Proposed Rules | 21 |
+| Notices | 6 |
+| Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Children and Families Administration, Employee Benefits Security Administration, Energy Department, Federal Aviation Administration, Food and Drug Administration, Health and Human Services Department +7 more |
+
+**Recent regulatory activity:**
+- [Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act](https://www.federalregister.gov/documents/2026/02/27/2026-03962/employee-or-independent-contractor-status-under-the-fair-labor-standards-act-family-and-medical) (2026-02-27) — Labor Department ★
+- [Transparency in Coverage](https://www.federalregister.gov/documents/2025/12/23/2025-23693/transparency-in-coverage) (2025-12-23) — Treasury Department ★
+- [United States v. Hewlett Packard Enterprise Co. and Juniper Networks, Inc.; Response of the United States to Public Comments on the Proposed Final Judgments](https://www.federalregister.gov/documents/2025/11/19/2025-20260/united-states-v-hewlett-packard-enterprise-co-and-juniper-networks-inc-response-of-the-united-states) (2025-11-19) — Justice Department
+- [Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend FINRA Rule 2210 (Communications with the Public) To Permit Projections of Performance in Institutional Communications and Specified Communications to Qualified Purchasers and Knowledgeable Employees](https://www.federalregister.gov/documents/2024/07/25/2024-16304/self-regulatory-organizations-financial-industry-regulatory-authority-inc-order-approving-a-proposed) (2024-07-25) — Securities and Exchange Commission
+- [Employee or Independent Contractor Classification Under the Fair Labor Standards Act](https://www.federalregister.gov/documents/2024/01/10/2024-00067/employee-or-independent-contractor-classification-under-the-fair-labor-standards-act) (2024-01-10) — Labor Department
+- [Supplemental Information and Reopening of Comment Period for Amendments Regarding the Definition of “Exchange”](https://www.federalregister.gov/documents/2023/05/05/2023-08544/supplemental-information-and-reopening-of-comment-period-for-amendments-regarding-the-definition-of) (2023-05-05) — Securities and Exchange Commission
+- ... and 75 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Mercatus%20Center%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -49,36 +49,7 @@ doj-components:
 nonprofit-status: "501(c)(3)"
 total-revenue: 3842
 total-assets: 92607
-related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]]"
-sec-filings: 283
-sec-form-types:
-  - "144"
-  - "3"
-  - "4"
-  - "424B7"
-  - "5"
-  - "8-K"
-  - "DEF 14A"
-  - "EX-1"
-  - "EX-1.1"
-  - "EX-1.2"
-  - "EX-1.3"
-  - "EX-10.1"
-  - "EX-10.2"
-  - "EX-10.3"
-  - "EX-2"
-  - "EX-24"
-  - "EX-5.1"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SCHEDULE 13D/A"
-lobbying-spend: 130000
-lobbying-filings: 8
+related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]] · [[Bill Hagerty]]"
 ---
 
 

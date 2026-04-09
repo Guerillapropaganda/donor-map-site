@@ -2,7 +2,7 @@
 title: "Nvidia"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -13,6 +13,8 @@ issues:
 lei: "549300S4KLFTLO7GSQ80"
 lei-jurisdiction: "US-DE"
 related: "[[OpenAI]]"
+cpsc-recalls: 2
+last-enriched: "2026-04-09"
 ---
 
 #nvidia #tech #ai #chips #gpu #defense #data-centers #jensen-huang
@@ -70,3 +72,20 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Product Recalls (CPSC)
+<!-- auto:cpsc-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 2 |
+| Most Recent Recall | 2017-08-08 |
+| Earliest Recall | 2015-07-31 |
+| Hazard Types | The plug heads can break exposing metal prongs, posing an electric shock hazard., The lithium-ion battery in the tablets can overheat, posing a fire hazard. |
+
+**Recent recalls:**
+
+- [NVIDIA Recalls European Plug Heads Sold with Power Adaptors Due to Electric Shock Hazard](https://www.cpsc.gov/Recalls/17201) (2017-08-08) — The plug heads can break exposing metal prongs, posing an electric shock hazard.
+- [NVIDIA Recalls Tablet Computers Due to Fire Hazard](https://www.cpsc.gov/Recalls/15204) (2015-07-31) — The lithium-ion battery in the tablets can overheat, posing a fire hazard.
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Nvidia) (Tier 1)
+<!-- auto:cpsc-recalls end -->

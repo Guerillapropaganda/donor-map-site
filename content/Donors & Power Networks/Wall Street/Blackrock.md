@@ -22,19 +22,18 @@ federal-awards-total: 1387500
 federal-contracts-count: 25
 federal-grants-count: 6
 related: "[[Council on Foreign Relations]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]]"
-federal-register-mentions: 549
-regulatory-agencies:
-  - "Comptroller of the Currency"
-  - "Employee Benefits Security Administration"
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Labor Department"
-  - "Securities and Exchange Commission"
-  - "Treasury Department"
-  - "Veterans Employment and Training Service"
-lei: "984500K407AAD4456952"
-lei-jurisdiction: "IE"
+court-cases: 6120
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Minnesota"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Alabama"
+  - "District Court, N.D. California"
 ---
 
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
@@ -191,39 +190,21 @@ content-readiness:: ready
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/963017a4-7c44-8029-c07b-ea24185fdc8a-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
 
-### Federal Register Activity
-<!-- auto:federal-register start -->
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
 | Metric | Value |
 |--------|-------|
-| Federal Register Mentions | 549 |
-| Final Rules | 75 |
-| Proposed Rules | 57 |
-| Notices | 417 |
-| Agencies | Comptroller of the Currency, Employee Benefits Security Administration, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Labor Department, Securities and Exchange Commission, Treasury Department +1 more |
+| Federal Court Cases | 6,120 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Third Circuit, District Court, C.D. California, District Court, D. Minnesota, District Court, E.D. California, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, E.D. Virginia +7 more |
+| Case Types | 350 P.I.: Motor Vehicle, 380 Personal Property: Other, 410 Anti-Trust, 690 Forfeit/Penalty: Other, 791 Labor: E.R.I.S.A. |
 
-**Recent regulatory activity:**
-- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (2026-03-31) — Labor Department
-- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
-- [Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the) (2026-03-02) — Treasury Department
-- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
-- [Notice of an Application of the Chicago Mercantile Exchange Inc. for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 and Request for Comment in Connection With the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Securities Exchange Act of 1934 for Certain Cash-Settled Security Futures](https://www.federalregister.gov/documents/2026/02/12/2026-02821/notice-of-an-application-of-the-chicago-mercantile-exchange-inc-for-an-exemption-pursuant-to-section) (2026-02-12) — Securities and Exchange Commission
-- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/01/21/2026-01081/combined-notice-of-filings-1) (2026-01-21) — Energy Department
-- ... and 543 more
+**Notable cases:**
+- Rodriguez v. Western Union Financial Services, Inc. (2026) — District Court, S.D. California
+- Hodges v. Washington Regional Medical System and the Pension Committee (2026) — District Court, W.D. Arkansas
+- PDF Solutions, Inc. v. SMIC New Technology Research & Development (Shanghai) Corporation (2026) — District Court, N.D. California
+- United States v. Approximately 1,070,013.93441 Tether (USDT) Cryptocurrency (2026) — District Court, M.D. Alabama
+- Rico v. RBC USA Holdco Corporation (2026) — District Court, D. Minnesota
+- Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BlackRock%22) (Tier 1)
-<!-- auto:federal-register end -->
-
-### Corporate Structure (GLEIF)
-<!-- auto:gleif-lei start -->
-| Field | Value |
-|-------|-------|
-| LEI | [984500K407AAD4456952](https://search.gleif.org/#/record/984500K407AAD4456952) |
-| Legal Name | Blackrock College |
-| Jurisdiction | IE |
-| Entity Status | ACTIVE |
-| Category | GENERAL |
-| Registration | LAPSED |
-| Last Updated | 2025-09-19T14:33:18Z |
-
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
-<!-- auto:gleif-lei end -->
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BlackRock%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

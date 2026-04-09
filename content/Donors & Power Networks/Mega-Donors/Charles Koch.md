@@ -18,19 +18,12 @@ related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Libertarian B
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
-court-cases: 144
+federal-register-mentions: 3
 last-enriched: "2026-04-09"
-court-jurisdictions:
-  - "District Court, D. Delaware"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Texas"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Ohio"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
+regulatory-agencies:
+  - "Civil Rights Commission"
+  - "Interior Department"
+  - "Surface Mining Reclamation and Enforcement Office"
 ---
 
 #koch #mega-donor #libertarian #deregulation #climate-denial #network #dark-money
@@ -100,21 +93,19 @@ content-readiness:: ready
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480918408_202312_990PF_2025011022984232.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
 
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
+### Federal Register Activity
+<!-- auto:federal-register start -->
 | Metric | Value |
 |--------|-------|
-| Federal Court Cases | 144 |
-| Courts | District Court, D. Delaware, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, E.D. Virginia, District Court, M.D. Florida, District Court, N.D. California, District Court, N.D. Ohio +7 more |
-| Case Types | 190 Contract: Other, 320 Assault Libel & Slander, 320 P.I.: Assault Libel & Slander, 423 Bankruptcy Withdrawl, 470 Racketeer/Corrupt Organization |
+| Federal Register Mentions | 3 |
+| Notice | 2 |
+| Proposed Rule | 1 |
+| Agencies | Civil Rights Commission, Interior Department, Surface Mining Reclamation and Enforcement Office |
 
-**Notable cases:**
-- Kennedy v. Exxon Mobil Corporation (2025) — District Court, W.D. Washington
-- Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
-- Crusoe Energy Systems LLC v. Upstream Data Inc. (2025) — District Court, E.D. Texas
-- FLMD Membership Renewal Fees (2025) — District Court, M.D. Florida
-- Grimsley v. Nike, Inc. (2024) — District Court, E.D. New York
-- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+**Recent regulatory activity:**
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2017/05/11/2017-09695/sunshine-act-meeting-notice) (2017-05-11) — Civil Rights Commission
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2016/03/11/2016-05616/sunshine-act-meeting-notice) (2016-03-11) — Civil Rights Commission
+- [Indian and Federal Lands](https://www.federalregister.gov/documents/2007/04/25/E7-7647/indian-and-federal-lands) (2007-04-25) — Interior Department
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Charles%20Koch%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Koch%22) (Tier 1)
+<!-- auto:federal-register end -->

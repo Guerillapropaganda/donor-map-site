@@ -2,7 +2,7 @@
 title: "Citigroup"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -31,6 +31,32 @@ federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 0
 related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]]"
+sec-filings: 10000
+sec-form-types:
+  - "424B2"
+  - "424B3"
+  - "424B4"
+  - "424B8"
+  - "425"
+  - "CORRESP"
+  - "EX-10.1"
+  - "EX-16"
+  - "EX-21.01"
+  - "EX-23.(H)(1)"
+  - "EX-35"
+  - "EX-35.3"
+  - "EX-35.4"
+  - "EX-35.5"
+  - "EX-4.9"
+  - "EX-5.02"
+  - "EX-99.2"
+  - "EX-99.H"
+  - "EX-99.H.1"
+  - "MA"
+  - "NPORT-P"
+  - "POSASR"
+  - "S-3"
+  - "S-3ASR"
 ---
 
 #citigroup #wall-street #banking #too-big-to-fail #derivatives #lobbying #bailout
@@ -266,3 +292,23 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/8aa915fd-d3c6-9128-ff26-48aa35edd9e7-R/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 424B2, 424B3, 424B4, 424B8, 425, CORRESP, EX-10.1, EX-16 +16 more |
+| CIK | 831001 |
+| Ticker | C |
+
+**Notable filings:**
+
+- 2026-04-08 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009619/0001918704-26-009619-index.htm)
+- 2026-04-08 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009617/0001918704-26-009617-index.htm)
+- 2026-04-08 — **424B2**: [PRELIMINARY PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000191870426009616/0001918704-26-009616-index.htm)
+- 2026-04-08 — **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005518/0000950103-26-005518-index.htm)
+- 2026-04-08 — **424B2**: [PRICING SUPPLEMENT](https://www.sec.gov/Archives/edgar/data/831001/000095010326005507/0000950103-26-005507-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citigroup%22) (Tier 1)
+<!-- auto:sec-edgar end -->

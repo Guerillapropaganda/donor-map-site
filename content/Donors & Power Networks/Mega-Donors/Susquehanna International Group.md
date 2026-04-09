@@ -2,7 +2,7 @@
 title: "Susquehanna International Group"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -19,6 +19,27 @@ regulatory-agencies:
 related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
 lei: "549300UHLZVQ1CWNT812"
 lei-jurisdiction: "US-DE"
+sec-filings: 2228
+sec-form-types:
+  - "13F-HR"
+  - "13F-HR/A"
+  - "13F-NT"
+  - "13F-NT/A"
+  - "4"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-99.1"
+  - "EX-99.8"
+  - "N-CEN"
+  - "N-PX"
+  - "NPORT-EX"
+  - "NPORT-P"
+  - "NPORT-P/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money
@@ -206,3 +227,23 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2,228 |
+| Form Types | 13F-HR, 13F-HR/A, 13F-NT, 13F-NT/A, 4, 8-K, ARS, DEF 14A +11 more |
+| CIK | 5272 |
+| Ticker | AIG |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000120537826000006/0001205378-26-000006-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000142572526000005/0001425725-26-000005-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000166598626000005/0001665986-26-000005-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000185181126000005/0001851811-26-000005-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/5272/000165717526000005/0001657175-26-000005-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Susquehanna%20International%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->

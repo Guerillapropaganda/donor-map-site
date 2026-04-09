@@ -2,7 +2,7 @@
 title: "Charles Schwab"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -19,7 +19,7 @@ federal-grants-count: 0
 top-federal-agency: "Department of the Treasury"
 top-naics-code: "523120"
 federal-register-mentions: 298
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Federal Trade Commission"
   - "Securities and Exchange Commission"
@@ -56,6 +56,8 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing
@@ -207,3 +209,21 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Charles%20Schwab%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Charles%20Schwab) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

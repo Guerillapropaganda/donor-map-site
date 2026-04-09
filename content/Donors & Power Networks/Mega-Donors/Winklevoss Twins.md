@@ -2,7 +2,7 @@
 title: "Winklevoss Twins"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -10,6 +10,16 @@ entity-type: "Individual Donor"
 issues:
   - "Technology"
 related: "[[Georgia 2026 Senate Race]] · [[Mike Collins Master Profile]]"
+court-cases: 46
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #winklevoss #crypto #bitcoin #gemini #mega-donor #republican #trump #regulation
@@ -48,3 +58,22 @@ Crypto-friendly regulation (regulatory clarity without restrictive oversight), o
 - [Ballotpedia: Cryptocurrency policy](https://ballotpedia.org/Winklevoss_Twins) (Tier 3)
 
 content-readiness:: ready
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 46 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Fifth Circuit, District Court, D. Delaware, District Court, N.D. California, District Court, N.D. Georgia, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
+| Case Types | 320 Assault Libel & Slander, 370 Other Fraud, 820 Copyright, 830 Patent Infringement (Fed. Qst.), 850 Securities/Commodities |
+
+**Notable cases:**
+- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
+- Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
+- Claire's Holdings LLC (2025) — United States Bankruptcy Court, D. Delaware
+- Securities and Exchange Commission v. Adam (2024) — District Court, N.D. Georgia
+- The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
+- Kadrey v. Meta Platforms, Inc. (2023) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Winklevoss%20Twins%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

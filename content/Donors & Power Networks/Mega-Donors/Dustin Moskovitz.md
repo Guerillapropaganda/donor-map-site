@@ -2,7 +2,7 @@
 title: "Dustin Moskovitz"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -40,6 +40,16 @@ sec-form-types:
   - "SCHEDULE 13D/A"
   - "TEXT-EXTRACT"
 related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
+court-cases: 47
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Arizona"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Nebraska"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #donor #billionaire #democratic #tech #dark-money #effective-altruism
@@ -151,3 +161,22 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Dustin%20Moskovitz%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 47 |
+| Courts | District Court, C.D. California, District Court, D. Arizona, District Court, D. Massachusetts, District Court, D. Nebraska, District Court, N.D. California, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware |
+| Case Types | 12 Recovery of money/property - 547 preference; 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 470 Racketeer/Corrupt Organization, 890 Other Statutes: Other Statutory Actions, 890 Other Statutory Actions, Civil Rights: Other |
+
+**Notable cases:**
+- Curry v. The RealReal, Inc. (2026) — District Court, N.D. California
+- YRC Inc. v. The Uttermost Co. (2025) — United States Bankruptcy Court, D. Delaware
+- Yellow Corporation v. Hightowers Petroleum Company (2025) — United States Bankruptcy Court, D. Delaware
+- YRC Inc. v. AJ Madison Inc (2025) — United States Bankruptcy Court, D. Delaware
+- Dunbar v. Zuckerberg (2025) — District Court, S.D. New York
+- Bussard v. Bryan Health (2024) — District Court, D. Nebraska
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Dustin%20Moskovitz%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

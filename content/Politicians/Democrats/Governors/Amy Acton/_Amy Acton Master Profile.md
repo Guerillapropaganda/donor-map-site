@@ -15,7 +15,6 @@ top-donors:
   - "UAW"
   - "AFGE"
   - "Ohio AFL-CIO"
-bioguide-id: "A000383"
 source-types:
   - Congress
   - DOJ

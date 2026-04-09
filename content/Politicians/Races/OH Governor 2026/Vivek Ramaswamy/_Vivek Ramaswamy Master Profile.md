@@ -18,7 +18,6 @@ top-donors:
   - "Peter Thiel"
 total-received: "$66,197,196"
 fec-candidate-id: "P40011082"
-bioguide-id: "A000383"
 source-types:
   - Congress
   - FEC

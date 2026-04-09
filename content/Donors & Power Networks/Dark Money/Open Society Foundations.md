@@ -2,7 +2,7 @@
 title: "Open Society Foundations"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -17,8 +17,20 @@ annual-revenue: "$0"
 net-assets: "$553"
 tax-year: "2016"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]]"
+court-cases: 138
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. California"
 ---
 
 #donor #donor-node #dark-money #soros #progressive #democracy-infrastructure #international #criminal-justice-reform
@@ -235,3 +247,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 138 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the First Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Maryland, District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. Pennsylvania +3 more |
+| Case Types | 2440 Other Civil Rights, 360 P.I.: Other, 440 Civil Rights: Other, 890 Other Statutes: Other Statutory Actions, 890 Other Statutory Actions |
+
+**Notable cases:**
+- DoorDash, Inc. v. The City of New York (2025) — District Court, S.D. New York
+- PROTECT DEMOCRACY PROJECT v. U.S. DEPARTMENT OF THE TREASURY (2025) — District Court, District of Columbia
+- Media Matters for America v. FTC (2025) — Court of Appeals for the D.C. Circuit
+- Orr v. Trump (2025) — Court of Appeals for the First Circuit
+- Schlacter v. U.S. Department of State (2025) — District Court, D. Maryland
+- Rona v. Trump (2025) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Open%20Society%20Foundations%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

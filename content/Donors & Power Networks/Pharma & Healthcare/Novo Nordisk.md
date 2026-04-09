@@ -35,6 +35,42 @@ court-jurisdictions:
 related: "[[Merck]] · [[Gilead Sciences]]"
 lei: "529900UTAHSVRYZL0380"
 lei-jurisdiction: "DK"
+sec-filings: 10000
+sec-form-types:
+  - "20-F"
+  - "424B3"
+  - "6-K"
+  - "6-K/A"
+  - "DEFM14A"
+  - "EX-1"
+  - "EX-10.1"
+  - "EX-10.11"
+  - "EX-10.12"
+  - "EX-10.15"
+  - "EX-10.17"
+  - "EX-10.2"
+  - "EX-10.22"
+  - "EX-10.26"
+  - "EX-10.27"
+  - "EX-10.29"
+  - "EX-10.33"
+  - "EX-10.41"
+  - "EX-10.6"
+  - "EX-10.63"
+  - "EX-11.1"
+  - "EX-15.1"
+  - "EX-2"
+  - "EX-3"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "PRE 14A"
+  - "PREM14A"
+  - "PRER14A"
+  - "SC 13D/A"
+  - "SC TO-C"
+  - "SC14D9C"
+  - "SCHEDULE 13G/A"
 ---
 
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
@@ -211,3 +247,23 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 20-F, 424B3, 6-K, 6-K/A, DEFM14A, EX-1, EX-10.1, EX-10.11 +26 more |
+| CIK | 353278 |
+| Ticker | NVO |
+
+**Notable filings:**
+
+- 2026-04-07 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326002279/0001171843-26-002279-index.htm)
+- 2026-03-30 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326002013/0001171843-26-002013-index.htm)
+- 2026-03-27 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001967/0001171843-26-001967-index.htm)
+- 2026-03-27 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001959/0001171843-26-001959-index.htm)
+- 2026-03-26 — **6-K**: [FORM 6-K](https://www.sec.gov/Archives/edgar/data/353278/000117184326001932/0001171843-26-001932-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Novo%20Nordisk%22) (Tier 1)
+<!-- auto:sec-edgar end -->

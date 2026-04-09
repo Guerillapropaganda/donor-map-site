@@ -9,7 +9,7 @@ party: "Republican"
 chamber: "Senate"
 state: "Wisconsin"
 state-abbr: "WI"
-fec-candidate-id: "S2PA00513"
+fec-candidate-id: "S0WI00197"
 stock-trades: 2
 donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]]"
 related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]]"

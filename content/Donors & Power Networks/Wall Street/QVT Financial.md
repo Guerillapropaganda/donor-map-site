@@ -2,7 +2,7 @@
 title: "QVT Financial"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -25,6 +25,7 @@ lei: "549300JMMSS9C5S2HO30"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+federal-contracts: "7670"
 ---
 
 #vivek-ramaswamy #hedge-fund #biotech-investments #roivant-sciences #venture-capital
@@ -118,3 +119,27 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=QVT%20Financial) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 7670 |
+| Sample Value (top 25) | $35.6M |
+| Year Range | 2007-2024 |
+| Federal Agencies | 3 |
+
+**Contracting agencies:** DEPT OF DEFENSE, GENERAL SERVICES ADMINISTRATION, TREASURY, DEPARTMENT OF THE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $9K | DEPT OF DEFENSE | 2007-09-21 |
+| $6K | DEPT OF DEFENSE | 2008-03-28 |
+| $5K | DEPT OF DEFENSE | 2007-11-30 |
+| $3K | DEPT OF DEFENSE | 2007-11-19 |
+| $363 | DEPT OF DEFENSE | 2007-02-26 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=QVT%20Financial&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

@@ -43,8 +43,10 @@ export async function POST(request: Request) {
       }
       const existing = match[1].trim().replace(/^["']|["']$/g, "")
       const escaped = target.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+      // Match target as reference name OR as alias: [[target|...]] or [[...|target]] or [[target]]
       let newVal = existing
-        .replace(new RegExp(`\\[\\[${escaped}(\\|[^\\]]+)?\\]\\]`), "")
+        .replace(new RegExp(`\\[\\[[^\\]]*\\|${escaped}\\]\\]`), "")  // [[anything|target]]
+        .replace(new RegExp(`\\[\\[${escaped}(\\|[^\\]]+)?\\]\\]`), "")  // [[target|...]] or [[target]]
         .replace(/\s*·\s*·\s*/g, " · ")
         .replace(/^\s*·\s*/, "")
         .replace(/\s*·\s*$/, "")

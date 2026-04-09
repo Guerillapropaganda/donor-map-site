@@ -2,7 +2,7 @@
 title: "DoorDash"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -17,7 +17,7 @@ lei: "549300NUQ43FGGSK5051"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 federal-register-mentions: 7
 regulatory-agencies:
   - "Antitrust Division"

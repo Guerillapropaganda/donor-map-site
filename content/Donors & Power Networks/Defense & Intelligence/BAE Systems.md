@@ -47,6 +47,7 @@ top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "336992"
 lobbying-spend: 10640000
 lobbying-filings: 50
+federal-contracts: "815648"
 federal-register-mentions: 651
 regulatory-agencies:
   - "Antitrust Division"
@@ -336,6 +337,30 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=BAE%20Systems) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 815648 |
+| Sample Value (top 25) | $1.6B |
+| Year Range | 1988-2018 |
+| Federal Agencies | 2 |
+
+**Contracting agencies:** DEPT OF DEFENSE, NATIONAL AERONAUTICS AND SPACE ADMINISTRATION
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $0 | DEPT OF DEFENSE | 2011-11-30 |
+| $0 | DEPT OF DEFENSE | 2010-08-11 |
+| $0 | DEPT OF DEFENSE | 2009-09-25 |
+| $0 | DEPT OF DEFENSE | 2010-06-28 |
+| $0 | DEPT OF DEFENSE | 2011-11-29 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=BAE%20Systems&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

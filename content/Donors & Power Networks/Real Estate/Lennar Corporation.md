@@ -2,7 +2,7 @@
 title: "Lennar Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -63,6 +63,8 @@ corroboration-count: 4
 known-gaps:
   - "No SEC corporate filings"
   - "No lobbying disclosure data"
+lobbying-spend: 0
+lobbying-filings: 8
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
@@ -304,3 +306,18 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lennar%20Corporation%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $0 |
+| Quarterly Filings | 8 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Lobbying firms:** THE FERGUSON GROUP
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lennar%20Corporation) (Tier 1)
+<!-- auto:lda-lobbying end -->

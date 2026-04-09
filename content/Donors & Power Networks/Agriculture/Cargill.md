@@ -2,7 +2,7 @@
 title: "Cargill"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -37,6 +37,57 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+sec-filings: 10000
+sec-form-types:
+  - "10-Q"
+  - "35-CERT"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.14"
+  - "EX-10.16"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.21"
+  - "EX-10.33"
+  - "EX-10.34"
+  - "EX-10.4"
+  - "EX-10.40"
+  - "EX-10.5"
+  - "EX-10.6"
+  - "EX-10.7"
+  - "EX-10.8"
+  - "EX-10.9"
+  - "EX-10.II.A"
+  - "EX-10.II.D"
+  - "EX-10.II.G"
+  - "EX-10.II.H"
+  - "EX-10.II.HH"
+  - "EX-10.II.JJ"
+  - "EX-10.II.L"
+  - "EX-10.II.P"
+  - "EX-10.II.S"
+  - "EX-2"
+  - "EX-2.(I)"
+  - "EX-2.1"
+  - "EX-2.2"
+  - "EX-2.3"
+  - "EX-99"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX-99.6"
+  - "EX-99.77Q1"
+  - "EX-99.8"
+  - "S-4"
+  - "S-4/A"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "XML"
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family
@@ -91,7 +142,7 @@ content-readiness:: ready
 | Net Assets | $255.2M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 416020221](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1) (VERIFIED: good)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -134,7 +185,7 @@ content-readiness:: ready
 | All Other Specialty Trade Contractors (238990) | $2.6M |
 | Other Animal Food Manufacturing (311119) | $2.1M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -166,7 +217,7 @@ content-readiness:: ready
 | $383K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
 | $340K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a31654c7-f5ff-71fe-90d8-91a59745fb51-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a31654c7-f5ff-71fe-90d8-91a59745fb51-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### DOJ Press Releases
@@ -178,13 +229,31 @@ content-readiness:: ready
 
 **Recent press releases:**
 
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) (VERIFIED) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) (VERIFIED) — USAO - Louisiana, Eastern
 - ... and 264,343 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Cargill%22&sort=date) (Tier 1)
+- ~~[Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Cargill%22&sort=date)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:doj-press end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-Q, 35-CERT, 424B3, 425, 8-K, CORRESP, DEF 14A, DEFA14A +41 more |
+
+**Notable filings:**
+
+- 2009-08-14 — **EX-10.2**: EX-10.2
+- 2007-05-15 — **EX-10.10**: PIONEER TRAIL ENERGY, LLC-CORN SUPPLY AGMNT
+- 2009-08-14 — **EX-10.1**: EX-10.1
+- 2006-08-11 — **EX-10.II.P**: SERVICES AGREEMENT FOR LOGISTICS AND GENERAL SERVICES
+- 2002-05-31 — **EX-99.77Q1**: EXHIBIT A - LIST OF GUARANTEES
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cargill%22) (Tier 1) (NEEDS REVIEW: Just a bunch of code. Not sure if this is useful as a source)
+<!-- auto:sec-edgar end -->

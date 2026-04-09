@@ -8,20 +8,7 @@ parent: null
 annual-revenue: "$18.7M"
 lobbyist-count: 18
 revolving-door-pct: "72.2%"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]]"
-doj-press-mentions: "264413"
-last-enriched: "2026-04-09"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]]"
 ---
 
 #lobbying #k-street #democratic #biden #bundling #tech #finance #crypto #healthcare #clean-energy #chinese-military

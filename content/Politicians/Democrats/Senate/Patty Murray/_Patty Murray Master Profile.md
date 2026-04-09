@@ -19,7 +19,6 @@ top-donors:
   - "Defense Industry Bloc"
   - "Pharmaceutical Industry Bloc"
   - "Microsoft"
-bioguide-id: "A000383"
 stock-trades: 161
 stock-trade-tickers:
   - "WMB"

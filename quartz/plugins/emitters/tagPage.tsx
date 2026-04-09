@@ -5,6 +5,7 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { ProcessedContent, QuartzPluginData, defaultProcessedContent } from "../vfile"
 import { FullPageLayout } from "../../cfg"
+import { isConstructionMode } from "../../constructionMode"
 import { FullSlug, getAllSegmentPrefixes, joinSegments, pathToRoot } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { TagContent } from "../../components"
@@ -122,6 +123,7 @@ export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) 
       ]
     },
     async *emit(ctx, content, resources) {
+      if (isConstructionMode) return
       const allFiles = content.map((c) => c[1].data)
       const cfg = ctx.cfg.configuration
       const [tags, tagDescriptions] = computeTagInfo(allFiles, content, cfg.locale)

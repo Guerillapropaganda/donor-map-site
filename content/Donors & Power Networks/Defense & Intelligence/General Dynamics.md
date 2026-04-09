@@ -18,7 +18,7 @@ net-assets: "$11K"
 tax-year: "2019"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 subawards-issued: 50
 subawards-issued-amount: 5728077424
 subawards-received: 50
@@ -26,8 +26,16 @@ subawards-received-amount: 5728077424
 top-federal-agency: "General Services Administration"
 top-naics-code: "541512"
 related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]]"
-lobbying-spend: 61253910
-lobbying-filings: 109
+federal-register-mentions: 386
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Coast Guard"
+  - "Defense Department"
+  - "Environmental Protection Agency"
+  - "Homeland Security Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "Veterans Employment and Training Service"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
@@ -263,21 +271,24 @@ content-readiness:: ready
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/455555be-773d-eab1-1e6b-7b94400b757e-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
 
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
+### Federal Register Activity
+<!-- auto:federal-register start -->
 | Metric | Value |
 |--------|-------|
-| Total Lobbying Spend | $61.3M |
-| Quarterly Filings | 109 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 50 |
-| Individual Lobbyists | 0 |
+| Federal Register Mentions | 386 |
+| Final Rules | 59 |
+| Proposed Rules | 20 |
+| Notices | 307 |
+| Agencies | Antitrust Division, Coast Guard, Defense Department, Environmental Protection Agency, Homeland Security Department, Justice Department, Labor Department, Veterans Employment and Training Service |
 
-**Issues lobbied:** Aerospace, Agriculture, Animals, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Indian/Native American Affairs, Intelligence, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Railroads, Roads/Highway, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation
+**Recent regulatory activity:**
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/17/2026-05141/arms-sales-notification) (2026-03-17) — Defense Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Undersea Technology Innovation Consortium](https://www.federalregister.gov/documents/2026/02/23/2026-03544/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-undersea-technology) (2026-02-23) — Justice Department
+- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (2026-02-09) — Environmental Protection Agency
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02077/arms-sales-notification) (2026-02-02) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/01/26/2026-01337/arms-sales-notification) (2026-01-26) — Defense Department
+- ... and 380 more
 
-**Lobbying firms:** A1.9 STRATEGIES LLC, ACCELERATE STRATEGIES, AM GENERAL, LLC, AQUIA GROUP, LLC, ASSOCIATED GENERAL CONTRACTORS OF AMERICA, ATLANTIC STRATEGIES GROUP LLC, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BRIAN GLACKIN & ASSOCIATES LLC, C. BAKER CONSULTING, INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., CROSSROADS STRATEGIES, LLC, FBB FEDERAL RELATIONS, FIFESTRATEGIES, LLC, FORBES-TATE, GENERAL ATOMICS, GENERAL AVIATION MANUFACTURERS ASSOCIATION, GENERAL CATALYST GROUP MANAGEMENT, LLC, GENERAL DYNAMICS CORP, GENERAL ELECTRIC COMPANY (INCLUDING SUBSIDIARIES), GENERAL MILLS SERVICES INC. (FKA GENERAL MILLS), GENERAL MOTORS COMPANY, GUIDEPOSTSTRATEGIES, LLC, HALL, RENDER, KILLIAN, HEATH & LYMAN, P.C., KELLER PARTNERS & COMPANY, MASS GENERAL BRIGHAM (FORMERLY KNOWN AS PARTNERS HEALTHCARE), MCALLISTER & QUINN, LLC, MELTSNER STRATEGIES, LLC, MORAN GLOBAL STRATEGIES, INC., OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, OMEGA STRATEGIES, LLC., PARRY, ROMANI, DECONCINI & SYMMS, PENN AVENUE PARTNERS, PORTLAND GENERAL ELECTRIC, PRASAM, PUTALASTRATEGIES, REVERE FEDERAL STRATEGIES, RIDGE PATH STRATEGIES, SALT POINT STRATEGIES, SB STRATEGIC CONSULTING, INC., TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE DIONNE COMPANY, THE GENERAL CONTRACTORS ASSOCIATION OF NEW YORK, THE NICKLES GROUP, LLC, THE VM GROUP, THE WILLIAMS GROUP, TIDAL STRATEGIES, LLC, TIDES GROUP, LLC, VELOS (FORMERLY PINNACLE ENGINEERING AND MANAGEMENT SOLUTIONS), WESTMORELAND160, LLC, WILLIAMS AND JENSEN, PLLC
-
-**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Citizenship & Immigration Services (BCIS), Bureau of Indian Affairs (BIA), Centers For Medicare and Medicaid Services (CMS), Central Intelligence Agency (CIA), Commerce, Dept of (DOC) +60 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=General%20Dynamics) (Tier 1)
-<!-- auto:lda-lobbying end -->
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Dynamics%22) (Tier 1)
+<!-- auto:federal-register end -->

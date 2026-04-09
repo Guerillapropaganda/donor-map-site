@@ -12,7 +12,6 @@ state-abbr: "KY"
 top-donors:
   - "Koch Network - Charles Koch"
   - "Cryptocurrency Industry"
-bioguide-id: "A000383"
 govtrack-id: 412492
 bills-sponsored: 48
 bills-cosponsored: 59

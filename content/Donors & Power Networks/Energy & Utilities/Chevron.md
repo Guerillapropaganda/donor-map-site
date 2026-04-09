@@ -25,7 +25,7 @@ ein: 510189525
 annual-revenue: "$222K"
 net-assets: "$781K"
 tax-year: "2023"
-related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]]"
+related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]]"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
@@ -311,3 +311,60 @@ content-readiness:: developed
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $192.7M |
+| Contracts (recent 3yr) | 25 ($334.2M sampled) |
+| Grants (recent 3yr) | 5 ($28.0M sampled) |
+| Federal Agencies | 3 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $100.7M | Department of Defense | 200212!006174!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060002C5216  !A!N! !N!P00003            |
+| $53.5M | Department of Defense | 8508181558!OCONUS COCO STORAGE SERVICES |
+| $50.3M | Department of Defense | 8509235048!OCONUS COCO STORAGE SERVICES |
+| $28.8M | Department of Defense | 8508180522!OCONUS COCO STORAGE SERVICES |
+| $11.3M | Department of Defense | 8511777583!TURBINE FUEL,AVIATION |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $13.0M | Department of Energy | DE-FE0031944/0000 NEW AWARD
+CHEVRON NATURAL GAS CARBON CAPTURE TECHNOLOGY TESTING PROJECT 
+THE PURPO |
+| $11.9M | Department of Energy | BIL - GEOZONE ENHANCED GEOTHERMAL SYSTEMS (EGS) PILOT PROJECT
+
+THE GOAL OF THIS PROJECT (PROJECT) IS |
+| $3.0M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW (BIL) CHEVRON WESTERN REGIONAL DIRECT AIR CAPTURE HUB 
+
+THE OBJECTIVE  |
+| $158K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
+| $0 | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/deb1d465-49fc-877e-6f83-066c774fb2f5-C/latest) (Tier 1)
+<!-- auto:usaspending end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $21.1M |
+| Quarterly Filings | 52 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 8 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Defense, Disaster Planning/Emergencies, Energy/Nuclear, Environment/Superfund, Foreign Relations, Fuel/Gas/Oil, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Natural Resources, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, BALLARD PARTNERS, CGCN GROUP, LLC, CHEVRON PHILLIPS CHEMICAL COMPANY LP, CHEVRON U.S.A. INC., ENS RESOURCES, INC., KOUNTOUPES DENHAM CARR & REID, LLC, MEHLMAN CONSULTING, INC.
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Aviation Administration (FAA), Federal Energy Regulatory Commission (FERC) +13 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Chevron) (Tier 1)
+<!-- auto:lda-lobbying end -->

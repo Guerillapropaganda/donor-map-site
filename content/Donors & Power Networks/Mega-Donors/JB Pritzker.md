@@ -2,7 +2,7 @@
 title: "JB Pritzker"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -14,12 +14,12 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$4,643,247"
-ein: 300039820
+ein: "300039820"
 annual-revenue: "$4.2M"
 net-assets: "$148.4M"
 tax-year: "2023"
 federal-register-mentions: 3
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Energy Department"
   - "Federal Aviation Administration"
@@ -42,6 +42,9 @@ lobbying-spend: 5422000
 lobbying-filings: 87
 related: "[[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar Self-Funded Governor]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]]"
 donors: "[[Illinois Future PAC]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 216153059
+total-assets: 281327431
 ---
 
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
@@ -301,3 +304,28 @@ content-readiness:: developed
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 300039820 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $216.2M |
+| Total Assets | $281.3M |
+| NTEE Code | T22 |
+| IRS Ruling Date | 2002-06-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1)
+<!-- auto:nonprofit-990 end -->

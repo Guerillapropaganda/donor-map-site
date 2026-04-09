@@ -2,7 +2,7 @@
 title: "TikTok - ByteDance"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -11,6 +11,10 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 related: "[[Mark Zuckerberg]]"
+sec-filings: 2
+sec-form-types:
+  - "253G1"
+  - "PART II AND III"
 ---
 
 #tiktok #bytedance #china #social-media #ban #data #lobbying #foreign
@@ -70,3 +74,18 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=TikTok%20-%20ByteDance) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2 |
+| Form Types | 253G1, PART II AND III |
+
+**Notable filings:**
+
+- 2022-10-03 — **253G1**: 253G1
+- 2022-09-22 — **PART II AND III**: PART II AND III
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22TikTok%20-%20ByteDance%22) (Tier 1)
+<!-- auto:sec-edgar end -->

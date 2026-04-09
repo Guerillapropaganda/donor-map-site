@@ -2,7 +2,7 @@
 title: "Blackstone Real Estate Political Operation"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -31,6 +31,7 @@ corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
+federal-contracts: "22468"
 ---
 
 #blackstone #real-estate #private-equity #schwarzman #housing #rent #carried-interest
@@ -101,3 +102,27 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 22468 |
+| Sample Value (top 25) | $23K |
+| Year Range | 2005-2012 |
+| Federal Agencies | 1 |
+
+**Contracting agencies:** AGRICULTURE, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $650 | AGRICULTURE, DEPARTMENT OF | 2008-03-31 |
+| $550 | AGRICULTURE, DEPARTMENT OF | 2009-08-26 |
+| $350 | AGRICULTURE, DEPARTMENT OF | 2005-12-22 |
+| $0 | AGRICULTURE, DEPARTMENT OF | 2009-06-30 |
+| $0 | AGRICULTURE, DEPARTMENT OF | 2012-03-05 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Blackstone%20Real%20Estate%20Political%20Operation&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->

@@ -18,7 +18,6 @@ top-donors:
   - "Koch Network - Charles Koch"
   - "Leonard Leo"
   - "Timothy Mellon"
-bioguide-id: "A000383"
 govtrack-id: 300072
 bills-sponsored: 12
 bills-cosponsored: 52

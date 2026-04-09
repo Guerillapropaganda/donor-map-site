@@ -15,34 +15,8 @@ last-enriched: "2026-04-07"
 total-revenue: 397265
 total-assets: 358665
 related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]]"
-sec-filings: 363
-sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
-  - "10-Q/A"
-  - "8-K"
-  - "DEF 14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.11"
-  - "EX-10.18"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.3"
-  - "EX-10.34"
-  - "EX-10.4"
-  - "EX-21"
-  - "EX-21.0"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.10"
-  - "EX-99.3"
-  - "EX-99.4"
-  - "EX-99.6"
-  - "N-CSR"
-  - "N-CSRS"
-  - "NPORT-EX"
+lei: "R0KNQ1I1NAJLDR51ER82"
+lei-jurisdiction: "US-CA"
 ---
 
 #pge #pacific-gas-electric #california #utility #wildfire #camp-fire #monopoly #negligence
@@ -101,20 +75,17 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201337481) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
-### SEC Filing Activity
-<!-- auto:sec-edgar start -->
-| Metric | Value |
-|--------|-------|
-| Total Filings | 363 |
-| Form Types | 10-K, 10-K/A, 10-Q, 10-Q/A, 8-K, DEF 14A, EX-10, EX-10.1 +18 more |
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [R0KNQ1I1NAJLDR51ER82](https://search.gleif.org/#/record/R0KNQ1I1NAJLDR51ER82) |
+| Legal Name | Pacific Gas and Electric Company Post-retirement Medical Plan Trust - Management and Non-Bargaining Unit Retirees |
+| Jurisdiction | US-CA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-11-12T07:52:31Z |
 
-**Notable filings:**
-
-- 2012-02-16 — **EX-21**: SUBSIDIARIES OF THE REGISTRANT
-- 2014-02-11 — **EX-21.0**: SUBSIDIARIES OF THE REGISTRANT
-- 2009-02-24 — **EX-21**: SIGNIFICANT SUBSIDIARIES
-- 2009-02-24 — **EX-21**: SIGNIFICANT SUBSIDIARIES
-- 2022-02-10 — **EX-21**: EX-21
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1)
-<!-- auto:sec-edgar end -->
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

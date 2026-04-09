@@ -26,6 +26,17 @@ nonprofit-status: "501(c)(5)"
 total-revenue: 23524060
 total-assets: 28875574
 related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Medicare for All - The Policy That Broke the Party]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[Bernie Sanders Master Profile]]"
+sec-filings: 10000
+sec-form-types:
+  - "EX-10.13"
+  - "EX-99"
+  - "EX-99.1"
+  - "FWP"
+  - "N-MFP"
+  - "N-MFP1"
+  - "N-MFP1/A"
+  - "N-MFP2"
+  - "N-MFP3"
 ---
 
 
@@ -212,3 +223,21 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943382057) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | EX-10.13, EX-99, EX-99.1, FWP, N-MFP, N-MFP1, N-MFP1/A, N-MFP2 +1 more |
+
+**Notable filings:**
+
+- 2018-06-06 — **N-MFP2**: N-MFP2
+- 2001-04-05 — **EX-99**: EXHIBIT 99.1 - PRESS RELEASE
+- 2011-02-16 — **EX-99.1**: EXHIBIT 99.1
+- 2008-07-02 — **EX-10.13**: EXHIBIT 10.13
+- 2022-12-07 — **N-MFP2**: N-MFP2
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kaiser%20Permanente%22) (Tier 1)
+<!-- auto:sec-edgar end -->

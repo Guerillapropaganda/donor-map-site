@@ -13,7 +13,6 @@ top-donors:
   - "CalPERS"
   - "CalSTRS"
   - "SEIU"
-bioguide-id: "A000383"
 source-types:
   - Congress
 known-gaps:

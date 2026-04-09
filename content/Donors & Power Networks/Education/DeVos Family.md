@@ -19,10 +19,18 @@ annual-revenue: "$4.4M"
 net-assets: "$5K"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 10147492
 total-assets: 2950
 related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[American Farm Bureau Federation]] · [[Virginia Foxx]]"
+court-cases: 24
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Montana"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Florida"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
 ---
 
 
@@ -233,3 +241,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/861509286) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 24 |
+| Courts | Court of Appeals for the Ninth Circuit, District Court, D. Montana, District Court, N.D. California, District Court, N.D. Florida, District Court, S.D. New York, District Court, W.D. Texas |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 470 Racketeer/Corrupt Organization, 820 Copyright |
+
+**Notable cases:**
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
+- DOE v. LADAPO (2023) — District Court, N.D. Florida
+- United States v. Ramesh Balwani (2022) — Court of Appeals for the Ninth Circuit
+- United States v. Elizabeth Holmes (2022) — Court of Appeals for the Ninth Circuit
+- v. In Re Subpoena (2022) — District Court, D. Montana
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22DeVos%20Family%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
