@@ -26,7 +26,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-opposes: '[[AMERICAN CROSSROADS]]'
+opposes: '[[AMERICAN CROSSROADS]] · [[SENATE LEADERSHIP FUND]]'
 ---
 
 
