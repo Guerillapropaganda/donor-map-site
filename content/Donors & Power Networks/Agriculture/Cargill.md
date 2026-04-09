@@ -51,7 +51,7 @@ Cargill, Incorporated. The largest privately held company in the United States (
 
 As a private company, Cargill avoids the public disclosure requirements that apply to publicly traded corporations. The company's PAC contributes $1-2 million per cycle, with lobbying spending of $3-5 million annually. Cargill's political influence operates primarily through trade associations (American Farm Bureau Federation, National Grain and Feed Association) and direct lobbying rather than high-profile political contributions.
 
-- [OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241) (Tier 1)
+- ~~[OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
