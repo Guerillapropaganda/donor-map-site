@@ -1,4 +1,5 @@
 import path from "path"
+import { isConstructionMode } from "../../constructionMode"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
 import HeaderConstructor from "../../components/Header"
@@ -83,6 +84,8 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           containsIndex = true
         }
 
+        // Construction mode: only emit the homepage
+        if (isConstructionMode && slug !== "index") continue
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
         // Event drafts are data-only (feed sidebar widgets) — don't emit standalone pages
