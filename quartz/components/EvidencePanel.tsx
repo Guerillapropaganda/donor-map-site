@@ -92,81 +92,34 @@ const EvidencePanel: QuartzComponent = ({
   if (sector && sector !== "undefined") contextParts.push(sector)
   if (entityType && entityType !== "undefined" && entityType !== "Individual Donor") contextParts.push(entityType)
 
+  // Simplified evidence panel: type + verified date only
+  // Source counts, party splits, methodology links are editorial — hidden from readers
   return (
     <div class={classNames(displayClass, "ep-panel")} data-evidence-status={evidenceStatus.toLowerCase()}>
       <div class="ep-row-top">
         <div class="ep-status-group">
-          <span class={`ep-status ${evidenceClass}`}>{evidenceStatus}</span>
-          {tierDisplay && <span class="ep-tier">{tierDisplay}</span>}
+          <span class="ep-type-badge">{typeLabel}</span>
+          {contextParts.length > 0 && (
+            <span class="ep-context">{contextParts.join(" · ")}</span>
+          )}
         </div>
         {lastUpdated && lastUpdated !== "undefined" && (
-          <span class="ep-updated">VERIFIED {lastUpdated}</span>
+          <span class="ep-updated">UPDATED {lastUpdated}</span>
         )}
       </div>
-
-      <div class="ep-row-bottom">
-        <div class="ep-source-counts">
-          {tier1Count > 0 && (
-            <span class="ep-source-badge ep-source-primary">{tier1Count} primary</span>
-          )}
-          {tier2Count > 0 && (
-            <span class="ep-source-badge ep-source-secondary">{tier2Count} investigative</span>
-          )}
-          {tier3Count > 0 && (
-            <span class="ep-source-badge ep-source-tertiary">{tier3Count} secondary</span>
-          )}
-          {totalSources === 0 && urlCount > 0 && (
-            <span class="ep-source-badge ep-source-secondary">{urlCount} sources</span>
-          )}
-          {urlCount === 0 && (
-            <span class="ep-source-badge ep-source-none">NO SOURCES</span>
-          )}
-        </div>
-
-        {contextParts.length > 0 && (
-          <div class="ep-context">{contextParts.join(" · ")}</div>
-        )}
-
-        <a href="/About-The-Donor-Map" class="ep-methodology-link">HOW WE VERIFY →</a>
-      </div>
-
-      {isOrgDonor && (demPct !== null || totalPoliticalSpend) && (
-        <div class="ep-fec-row">
-          {totalPoliticalSpend && totalPoliticalSpend !== "undefined" && (
-            <span class="ep-spend-label">
-              <span class="ep-spend-amount">{totalPoliticalSpend}</span> federal spend
-            </span>
-          )}
-          {demPct !== null && repPct !== null && (
-            <div class="ep-party-split">
-              <span class="ep-split-label">PARTY SPLIT</span>
-              <div class="ep-split-bar">
-                <div class="ep-split-dem" style={`width: ${demPct}%`}>
-                  {demPct >= 15 && <span class="ep-split-pct">{demPct}% D</span>}
-                </div>
-                <div class="ep-split-rep" style={`width: ${repPct}%`}>
-                  {repPct >= 15 && <span class="ep-split-pct">{repPct}% R</span>}
-                </div>
-              </div>
-            </div>
-          )}
-        </div>
-      )}
     </div>
   )
 }
 
 EvidencePanel.css = `
 /* ═══════════════════════════════════════════════
-   EVIDENCE PANEL — Credibility signal on every page
+   EVIDENCE PANEL — Simplified: type + date only
    ═══════════════════════════════════════════════ */
 
 .ep-panel {
-  background: #f5f0eb;
-  border: 1px solid #ddd;
-  border-radius: 0;
-  padding: 12px 16px;
-  margin-bottom: 24px;
+  border-bottom: 1px solid #ddd;
+  padding: 0 0 12px 0;
+  margin-bottom: 20px;
   font-family: 'Space Mono', monospace;
 }
 
@@ -174,64 +127,28 @@ EvidencePanel.css = `
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 8px;
 }
 
 .ep-status-group {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 12px;
 }
 
-.ep-status {
+.ep-type-badge {
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
-  padding: 3px 10px;
-  border-radius: 0;
-}
-
-.ep-verified {
-  color: #fbbf24;
-  background: rgba(251, 191, 36, 0.12);
-  border: 1px solid rgba(251, 191, 36, 0.25);
-}
-
-.ep-sourced {
-  color: #10b981;
-  background: rgba(16, 185, 129, 0.12);
-  border: 1px solid rgba(16, 185, 129, 0.25);
-}
-
-.ep-progress {
+  text-transform: uppercase;
   color: #0a0a0a;
-  background: rgba(91, 141, 206, 0.12);
-  border: 1px solid rgba(91, 141, 206, 0.25);
+  padding: 3px 10px;
+  border: 1px solid #0a0a0a;
 }
 
-.ep-draft {
-  color: #fbbf24;
-  background: rgba(245, 158, 11, 0.12);
-  border: 1px solid rgba(245, 158, 11, 0.25);
-}
-
-.ep-limited {
-  color: #e63946;
-  background: rgba(239, 68, 68, 0.12);
-  border: 1px solid rgba(239, 68, 68, 0.25);
-}
-
-.ep-review {
-  color: #e63946;
-  background: rgba(239, 68, 68, 0.12);
-  border: 1px solid rgba(239, 68, 68, 0.25);
-}
-
-.ep-tier {
+.ep-context {
   font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 1.5px;
-  color: #8a8a96;
+  letter-spacing: 1px;
+  color: #999;
 }
 
 .ep-updated {
