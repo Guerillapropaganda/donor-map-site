@@ -18,7 +18,7 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
-related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]]"
+related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]]"
 ---
 
 #koch #network #dark-money #libertarian #deregulation #afp

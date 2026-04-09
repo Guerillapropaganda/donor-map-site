@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]] · [[TYT Network - The Young Turks]] · [[Cenk Uygur]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Valuetainment]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[Jeffrey Katzenberg]] · [[TYT Network - The Young Turks]] · [[Cenk Uygur]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Valuetainment]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]]"
 ---
 
 #media-pipeline #centrist #youtube #tyt #audience-swap #realignment #valuetainment

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Greg Gutfeld]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Fox News - Murdoch Media Empire]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Greg Gutfeld]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Fox News - Murdoch Media Empire]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
 ---
 
 #media-pipeline #right #fox-news #talk-radio #real-estate #trump-advisor #pharma-ads #january-6
