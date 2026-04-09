@@ -11,7 +11,7 @@ issues:
   - "Technology"
   - "Antitrust & Monopoly"
 doj-press-mentions: "264311"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "USAO - Florida, Middle"
@@ -33,6 +33,7 @@ politicians-funded:
   - "John Boehner"
   - "Katie Porter"
   - "Cory Booker"
+
 ---
 
 #zuckerberg #meta #facebook #tech #mega-donor #trump-realignment #lobbying #antitrust #ai #section-230

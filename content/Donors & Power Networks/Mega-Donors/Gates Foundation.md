@@ -29,7 +29,7 @@ sec-form-types:
   - "XML"
 lei: "335800ELY8A4QWLXQW56"
 lei-jurisdiction: "US-WA"
-ein: 562618866
+ein: "562618866"
 annual-revenue: "$7.8B"
 net-assets: "$77.0B"
 tax-year: "2023"
@@ -59,6 +59,9 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "District Court, N.D. New York"
+nonprofit-status: "501(c)(3)"
+total-revenue: 8186448170
+total-assets: 78673465696
 ---
 
 #donor #mega-donor #gates-foundation #bill-gates #charter-schools #education-policy #pharma-influence #global-health #common-core #class-analysis #follow-the-money
@@ -281,3 +284,28 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Gates%20Foundation%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 562618866 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $8.19B |
+| Total Assets | $78.67B |
+| NTEE Code | T22 |
+| IRS Ruling Date | 2007-01-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/562618866/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1)
+<!-- auto:nonprofit-990 end -->

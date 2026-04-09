@@ -2,7 +2,7 @@
 title: "Riverside Sheriffs Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
@@ -12,14 +12,14 @@ politicians-funded:
 lobbying-spend: 1806000
 lobbying-filings: 73
 court-cases: 12
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, E.D. California"
   - "District Court, N.D. California"
   - "District Court, S.D. California"
   - "United States Bankruptcy Court, D. Delaware"
-ein: 956203844
+ein: "956203844"
 annual-revenue: "$4.8M"
 net-assets: "$5.8M"
 tax-year: "2023"
@@ -27,6 +27,9 @@ related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [
 sec-filings: 23
 sec-form-types:
   - "424B3"
+nonprofit-status: "501(c)(5)"
+total-revenue: 5926651
+total-assets: 5851488
 ---
 
 
@@ -248,3 +251,28 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Riverside%20Sheriffs%20Association%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 956203844 |
+| Tax-Exempt Status | 501(c)(5) |
+| Total Revenue | $5.9M |
+| Total Assets | $5.9M |
+| NTEE Code | J40 |
+| IRS Ruling Date | 2000-09-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1)
+<!-- auto:nonprofit-990 end -->

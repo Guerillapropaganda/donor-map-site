@@ -59,6 +59,8 @@ regulatory-agencies:
   - "Justice Department"
   - "Ocean Energy Management Bureau"
   - "Pipeline and Hazardous Materials Safety Administration"
+lei: "549300QUCKLMUO3B0I31"
+lei-jurisdiction: "BE"
 ---
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money
@@ -555,3 +557,18 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ExxonMobil%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300QUCKLMUO3B0I31](https://search.gleif.org/#/record/549300QUCKLMUO3B0I31) |
+| Legal Name | EXXONMOBIL OFP |
+| Jurisdiction | BE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-07-31T17:11:36Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

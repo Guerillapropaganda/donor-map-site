@@ -2,17 +2,16 @@
 title: "UAW - United Auto Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Debbie Stabenow"
-  - "Sherrod Brown"
-  - "Joe Biden"
-  - "Kamala Harris"
-  - "Donald Trump"
+  - "Frank Pallone"
+  - "Tammy Baldwin"
+  - "Mark Takano"
+  - "Pete Aguilar"
 issues:
   - "Labor & Workers"
 sec-filings: 15
@@ -22,11 +21,14 @@ sec-form-types:
   - "ARS"
   - "EX-99.1"
   - "N-CSR"
-ein: 340200249
+ein: "340200249"
 annual-revenue: "$104K"
 net-assets: "$180K"
 tax-year: "2016"
 related: "[[Michigan 2026 Senate Race]] · [[Gary Peters Master Profile]] · [[Ohio 2026 Special Senate Election]]"
+nonprofit-status: "501(c)(5)"
+last-enriched: "2026-04-09"
+total-political-spend: "$3,283,200"
 ---
 
 #donor #labor #union #auto-industry #working-class #fain #stand-up-strike #ev-transition #corruption #consent-decree
@@ -449,3 +451,49 @@ content-readiness:: developed
 - [Source: ProPublica Nonprofit Explorer — EIN 340200249](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2017_03_EO%2F34-0200249_990EO_201612.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 340200249 |
+| Tax-Exempt Status | 501(c)(5) |
+| Filings on Record | 6 |
+
+**Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
+
+**View 990 filings:**
+- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2016)
+- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2015)
+- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2014)
+- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2013)
+- [2012 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2012)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $3,283,200 |
+| Contributions | 491 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| DEVELOPMENT NOW FOR CHICAGO | $1,500,000 | DEM |
+| DSCC | $210,000 | DEM |
+| DCCC | $105,000 | DEM |
+| KAPTUR FOR CONGRESS | $55,000 | DEM |
+| PALLONE FOR CONGRESS | $50,000 | DEM |
+| CARTWRIGHT FOR CONGRESS | $37,500 | DEM |
+| TAMMY BALDWIN FOR CONGRESS | $37,000 | DEM |
+| COMMITTEE TO ELECT ALAN GRAYSON | $35,000 | DEM |
+| DEFAZIO FOR CONGRESS | $34,000 | DEM |
+| BOUCHER FOR CONGRESS COMMITTEE | $34,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UAW%20-%20United%20Auto%20Workers) (Tier 1)
+<!-- auto:fec-donor end -->

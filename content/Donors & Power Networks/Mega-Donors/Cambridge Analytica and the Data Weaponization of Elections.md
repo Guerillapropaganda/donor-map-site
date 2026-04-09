@@ -2,7 +2,7 @@
 title: "Cambridge Analytica and the Data Weaponization of Elections"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,6 +15,8 @@ related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Con
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+lobbying-spend: 790000
+lobbying-filings: 29
 ---
 
 
@@ -95,3 +97,22 @@ Cambridge Analytica was hired as consultant by Leave.EU and UKIP during the 2016
 
 research-status:: ready — $15-20M Mercer investment, 87M Facebook profiles, psychographic OCEAN model, Cruz→Trump deployment, FEC coordination complaint, $5B Facebook fine, Emerdata successor. 6 sources, Tier 1-3. All ### headers. Promoted Session 38m.
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $790K |
+| Quarterly Filings | 29 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 5 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Defense, Transportation
+
+**Lobbying firms:** A10 ASSOCIATES, LLC, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BOUNDARY STONE PARTNERS, CSS PARTNERS, LLC, NORTH BRIDGE STRATEGIC (FORMERLY KNOWN AS SCISSORTAIL STRATEGIC CONSULTING PARTN
+
+**Agencies contacted:** Defense, Dept of (DOD), Federal Highway Administration (FHA), HOUSE OF REPRESENTATIVES, Natl Highway Traffic Safety Administration (NHTSA), SENATE, Transportation, Dept of (DOT)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cambridge%20Analytica%20and%20the%20Data%20Weaponization%20of%20Elections) (Tier 1)
+<!-- auto:lda-lobbying end -->

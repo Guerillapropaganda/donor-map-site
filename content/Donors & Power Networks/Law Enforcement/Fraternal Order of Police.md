@@ -2,14 +2,14 @@
 title: "Fraternal Order of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
 entity-type: "Individual Donor"
 ein: "933414548"
 nonprofit-status: "501(c)(8)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-cases: 5883
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -58,6 +58,16 @@ regulatory-agencies:
   - "Federal Reserve System"
   - "Federal Trade Commission"
   - "Fish and Wildlife Service"
+total-political-spend: "$454,168"
+politicians-funded:
+  - "Josh Green"
+  - "Mark Green"
+  - "Donald Trump"
+  - "John Cornyn"
+  - "Sherrod Brown"
+  - "Amy Klobuchar"
+  - "Markwayne Mullin"
+  - "Sheldon Whitehouse"
 ---
 
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition
@@ -202,3 +212,28 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Fraternal%20Order%20of%20Police%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $454,168 |
+| Contributions | 212 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| GREEN MOUNTAIN PAC | $72,250 | — |
+| AMERIPAC: THE FUND FOR A GREATER AMERICA | $32,500 | — |
+| HOYER FOR CONGRESS | $32,000 | DEM |
+| LEAHY FOR U.S. SENATOR COMMITTEE | $25,000 | — |
+| TRUMP VICTORY | $25,000 | — |
+| FOLLOW THE NORTH STAR FUND | $15,000 | — |
+| TEXANS FOR SENATOR JOHN CORNYN INC. | $14,000 | REP |
+| ALAN LOWENTHAL FOR CONGRESS | $11,000 | DEM |
+| DEMOCRATIC PARTY OF ILLINOIS | $10,000 | DEM |
+| MIDDLE CLASS PAC | $10,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Fraternal%20Order%20of%20Police) (Tier 1)
+<!-- auto:fec-donor end -->

@@ -9,7 +9,7 @@ sector: "Tech & Crypto"
 entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 ein: "810861541"
 annual-revenue: "$5.4M"
 net-assets: "$22.7M"

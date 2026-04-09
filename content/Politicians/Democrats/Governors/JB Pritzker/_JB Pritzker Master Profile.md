@@ -125,3 +125,10 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 - NBC News: Pritzker gave DGA $24M (Tier 2)
 - CNN: Pritzker 2028 positioning (Tier 2)
 content-readiness:: ready
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: JB Pritzker](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

@@ -29,6 +29,11 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
+govtrack-id: 412261
+bills-sponsored: 3
+bills-cosponsored: 5
+website: "https://scalise.house.gov"
+phone: "202-225-3015"
 ---
 
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power
@@ -214,3 +219,34 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Steve%20Scalise%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 3 |
+| Bills Cosponsored | 5 |
+| Total Votes Cast | 11,086 |
+| Leadership | House Majority Leader |
+
+**Recent bills sponsored:**
+
+- H.R. 4: Rescissions Act of 2025 — *This bill was enacted after being signed by the President on July 24, 2025.*
+- H.Res. 3: Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress. — *This simple resolution was agreed to on January 3, 2025. That is the end of the legislative process for a simple resolution.*
+- H.Res. 2: To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk. — *This simple resolution was agreed to on January 3, 2025. That is the end of the legislative process for a simple resolution.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412261) (Tier 1)
+<!-- auto:govtrack end -->

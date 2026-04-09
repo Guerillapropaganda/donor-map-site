@@ -8,8 +8,7 @@ parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Thom Tillis"
-  - "Susan Collins"
+  - "DOGE - The Billionaires Government"
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 18
@@ -31,6 +30,7 @@ related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] 
 nonprofit-status: "501(c)(4)"
 total-revenue: 284289469
 total-assets: 106501029
+total-political-spend: "$101,443,846"
 ---
 
 #donor-node #dark-money #democrat #arabella #fiscal-sponsorship #class-analysis #donor
@@ -256,3 +256,28 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264486735) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $101,443,846 |
+| Contributions | 209 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| FF PAC | $11,915,274 | — |
+| CHANGE NOW | $9,467,189 | — |
+| VICTORY 2020 | $7,700,000 | — |
+| YOUR COMMUNITY PAC | $7,139,642 | — |
+| LCV VICTORY FUND | $6,787,500 | — |
+| TAKE BACK 2020 | $5,150,000 | — |
+| OPEN DEMOCRACY PAC | $4,721,000 | — |
+| PRIORITIES USA ACTION | $4,500,000 | — |
+| FORWARD MAJORITY ACTION | $4,270,000 | — |
+| AB PAC | $4,250,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sixteen%20Thirty%20Fund) (Tier 1)
+<!-- auto:fec-donor end -->

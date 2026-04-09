@@ -35,6 +35,18 @@ related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Ill
 nonprofit-status: "501(c)(3)"
 total-revenue: 47401657
 total-assets: 690470487
+court-cases: 19319
+court-jurisdictions:
+  - "Court of Appeals for the First Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Massachusetts"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
 ---
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
@@ -339,3 +351,22 @@ research-status:: ready — Full citation pass complete. $39M career political c
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Goldman%20Sachs) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 19,319 |
+| Courts | Court of Appeals for the First Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Connecticut, District Court, D. Massachusetts, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, E.D. Virginia +6 more |
+| Case Types | 190 Contract: Other, 367 P.I.: Health Care/Pharmaceutical Personal Injury Product Liability, 480 Consumer Credit, 850 Securities/Commodities, 890 Other Statutory Actions |
+
+**Notable cases:**
+- SEXTON v. NOVO NORDISK, INC. (2026) — District Court, E.D. Pennsylvania
+- Bassman v. Simplify Asset Management, Inc. (2026) — District Court, C.D. California
+- Harman v. Stellantis N.V. (2026) — District Court, S.D. New York
+- Dunn v. Upstart Holdings, Inc. (2026) — District Court, N.D. California
+- Hilaire v. Trans Union LLC (2026) — District Court, D. Connecticut
+- Hilaire v. Experian Information Solutions Inc. (2026) — District Court, D. Connecticut
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Goldman%20Sachs%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

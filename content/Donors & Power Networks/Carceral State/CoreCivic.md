@@ -42,6 +42,8 @@ total-revenue: 709089
 total-assets: 27969
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+lei: "529900JFA3K6PTLT8B15"
+lei-jurisdiction: "US-MD"
 ---
 
 
@@ -311,3 +313,18 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [529900JFA3K6PTLT8B15](https://search.gleif.org/#/record/529900JFA3K6PTLT8B15) |
+| Legal Name | CORECIVIC, INC. |
+| Jurisdiction | US-MD |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2021-07-16T05:04:45Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

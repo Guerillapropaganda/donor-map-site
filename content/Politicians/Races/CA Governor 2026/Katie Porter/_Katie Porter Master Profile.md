@@ -2,7 +2,7 @@
 title: "Katie Porter Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-03-24
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,6 +18,10 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+last-enriched: "2026-04-09"
+govtrack-id: 412758
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 
@@ -162,3 +166,27 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 - EMILY's List endorsement (Tier 1)
 - Washington Post viral video analysis (Tier 2)
 content-readiness:: ready
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 3,193 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Not Voting | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Not Voting | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Not Voting | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412758) (Tier 1)
+<!-- auto:govtrack end -->

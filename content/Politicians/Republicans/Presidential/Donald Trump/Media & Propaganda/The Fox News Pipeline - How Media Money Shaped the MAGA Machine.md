@@ -2,7 +2,7 @@
 title: "The Fox News Pipeline - How Media Money Shaped the MAGA Machine"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 source-types:
@@ -11,6 +11,19 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+doj-press-mentions: "264457"
+last-enriched: "2026-04-09"
+doj-components:
+  - "Criminal - Human Rights and Special Prosecution Section"
+  - "Criminal - Office of International Affairs"
+  - "Criminal Division"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - Florida, Middle"
+  - "USAO - Idaho"
+  - "USAO - Massachusetts"
+  - "USAO - Michigan, Western"
+  - "USAO - Minnesota"
+  - "USAO - New Jersey"
 ---
 
 
@@ -202,3 +215,23 @@ _No committee data found for the 119th Congress._
 
 - [Congress.gov: The Fox News Pipeline - How Media Money Shaped the MAGA Machine](https://www.congress.gov/member/a000383) (Tier 1)
 <!-- auto:voting-record end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264457 |
+| DOJ Components | Criminal - Human Rights and Special Prosecution Section, Criminal - Office of International Affairs, Criminal Division, Federal Bureau of Investigation (FBI), USAO - Florida, Middle, USAO - Idaho +9 more |
+
+**Recent press releases:**
+
+- 2026-04-09 — [Rapid City Man Sentenced to 10 Years in Federal Prison  for Conspiring to Distribute Fentanyl and Methamphetamine in Rapid City](https://www.justice.gov/usao-sd/pr/rapid-city-man-sentenced-10-years-federal-prison-conspiring-distribute-fentanyl-and) — USAO - South Dakota
+- 2026-04-09 — [Giles County Man Arrested for Importing Powerful Psychedelic](https://www.justice.gov/usao-wdva/pr/giles-county-man-arrested-importing-powerful-psychedelic) — USAO - Virginia, Western
+- 2026-04-09 — [West Virginia Woman Sentenced to Prison for Lying to Obtain U.S. Citizenship After Committing Torture and War Crimes in Bosnia](https://www.justice.gov/opa/pr/west-virginia-woman-sentenced-prison-lying-obtain-us-citizenship-after-committing-torture) — Criminal Division
+- 2026-04-09 — [U.S. Attorney’s Office Collects More than $1.5 Billion in Criminal and Civil Actions in Fiscal Year 2025, the Most in the Country](https://www.justice.gov/usao-nj/pr/us-attorneys-office-collects-more-15-billion-criminal-and-civil-actions-fiscal-year-2025) — USAO - New Jersey
+- 2026-04-09 — [Leader of Sex Trafficking Ring Pleads Guilty](https://www.justice.gov/usao-ma/pr/leader-sex-trafficking-ring-pleads-guilty) — USAO - Massachusetts
+- 2026-04-09 — [Minneapolis Man Sentenced to 43 Months for Role in Feeding Our Future Fraud Scheme ](https://www.justice.gov/usao-mn/pr/minneapolis-man-sentenced-43-months-role-feeding-our-future-fraud-scheme) — USAO - Minnesota
+- ... and 264,451 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22The%20Fox%20News%20Pipeline%20-%20How%20Media%20Money%20Shaped%20the%20MAGA%20Machine%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

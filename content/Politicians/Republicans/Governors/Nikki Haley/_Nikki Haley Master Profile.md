@@ -232,3 +232,10 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Nikki%20Haley%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Nikki Haley](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

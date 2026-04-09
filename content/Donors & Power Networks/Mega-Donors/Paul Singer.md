@@ -2,7 +2,7 @@
 title: "Paul Singer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 aliases: ["Paul Singer", "Elliott Management"]
 source-tier: 1
 parent: null
@@ -16,7 +16,7 @@ annual-revenue: "$53.9M"
 net-assets: "$276.4M"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 227044787
 total-assets: 172417068
 court-cases: 155

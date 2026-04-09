@@ -36,6 +36,7 @@ related: "[[National Association of Manufacturers]]"
 total-political-spend: "$176,798,895"
 politicians-funded:
   - "Gary Peters"
+
 ---
 
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money

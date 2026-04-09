@@ -2,7 +2,7 @@
 title: "JPAC - Jewish Public Affairs Committee of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -12,11 +12,15 @@ politicians-funded:
 issues:
   - "Israel & Foreign Policy"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "BELARUS"
   - "GLOMAG"
 related: "[[Ethnic Studies - Whose History Gets Taught]]"
+ein: "680028695"
+nonprofit-status: "501(c)(4)"
+total-revenue: 841076
+total-assets: 358764
 ---
 
 
@@ -107,3 +111,27 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 680028695 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $841K |
+| Total Assets | $359K |
+| IRS Ruling Date | 1985-02-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/680028695/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/680028695) (Tier 1)
+<!-- auto:nonprofit-990 end -->

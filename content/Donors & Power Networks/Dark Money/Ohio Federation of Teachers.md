@@ -2,7 +2,7 @@
 title: "Ohio Federation of Teachers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -16,6 +16,8 @@ sec-filings: 1
 sec-form-types:
   - "424B3"
 related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]]"
+lobbying-spend: 2868540
+lobbying-filings: 96
 ---
 
 #ohio #teachers #union #labor #education #democratic #oft #aft #afl-cio #vouchers #public-education #collective-bargaining
@@ -156,3 +158,22 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ohio%20Federation%20of%20Teachers%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.9M |
+| Quarterly Filings | 96 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 27 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Aviation/Airlines/Airports, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Government Issues, Health Issues, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Real Estate/Land Use/Conservation, Science/Technology, Sports/Athletics, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** ALIGNMENT GOVERNMENT STRATEGIES, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL67 STRATEGIES, CHW ADVISORS, FORBES-TATE, G2G CONSULTING, HOLLAND & KNIGHT LLP, JOHN MCKECHNIE LLC, KELLER PARTNERS & COMPANY, LNE GROUP, MARK BARNES & ASSOCIATES, MCCAULLEY&COMPANY, NORTHEAST OHIO REGIONAL SEWER DISTRICT, OHIO CHAMBER OF COMMERCE, OHIO FARM BUREAU FEDERATION, OHIO HOSPITAL ASSOCIATION, OHIO MUNICIPAL ELECTRIC ASSOCIATION, OHIO RIVER SOUTH, INC., ROETZEL & ANDRESS, LPA, SHUMAKER ADVISORS, LLC, SMITH GARSON, SQUIRE PATTON BOGGS, SUNDAY CREEK HORIZONS, LLC, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE OHIO STATE UNIVERSITY, VAN SCOYOC ASSOCIATES, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of +23 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ohio%20Federation%20of%20Teachers) (Tier 1)
+<!-- auto:lda-lobbying end -->

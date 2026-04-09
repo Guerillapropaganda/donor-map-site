@@ -87,6 +87,8 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
+lobbying-spend: 53270000
+lobbying-filings: 66
 ---
 
 
@@ -412,3 +414,22 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Pfizer%20Inc.%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $53.3M |
+| Quarterly Filings | 66 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 16 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Copyright/Patent/Trademark, Defense, Health Issues, Medicare/Medicaid, Pharmacy, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, ALTRIUS GROUP, LLC, AVOQ, LLC, BGR GOVERNMENT AFFAIRS, CORNERSTONE GOVERNMENT AFFAIRS, INC., ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG), FEDERAL HEALTH POLICY STRATEGIES, MARSHALL & POPP, LLC, MILLER STRATEGIES, LLC, NVG, LLC, PFIZER INC., ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC), SHOOK, HARDY & BACON, LLP, THE DUBERSTEIN GROUP INC., THE WASHINGTON TAX & PUBLIC POLICY GROUP, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Natl Economic Council (NEC), Natl Institutes of Health (NIH), SENATE +4 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Pfizer%20Inc.) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -131,9 +131,13 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 0 of 1 |
+| Donors Who Also Lobby | 1 of 1 |
 | Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Insurance Industry]] — $25.6M lobbying spend (Accounting, Agriculture, Alcohol and Drug Abuse) + $11K in contracts
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

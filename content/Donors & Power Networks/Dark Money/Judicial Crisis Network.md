@@ -2,7 +2,7 @@
 title: "Judicial Crisis Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -18,7 +18,7 @@ issues:
 lobbying-spend: 248300
 lobbying-filings: 23
 court-cases: 17
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, C.D. California"
@@ -28,6 +28,7 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, S.D. Indiana"
 related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Council for National Policy]] · [[The Dark Money Crusader and Court Reform]] · [[The Dark Money Crusade and Judicial Reform]]"
+total-political-spend: "$75,000"
 ---
 
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga
@@ -241,3 +242,19 @@ research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation 
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Judicial%20Crisis%20Network%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $75,000 |
+| Contributions | 1 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| LIBERTY 2.0 | $75,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Judicial%20Crisis%20Network) (Tier 1)
+<!-- auto:fec-donor end -->

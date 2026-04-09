@@ -2,7 +2,7 @@
 title: "American Federation for Children"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Education"
@@ -17,7 +17,7 @@ tax-year: "2023"
 lobbying-spend: 3142538
 lobbying-filings: 146
 court-cases: 12
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. Louisiana"
@@ -33,6 +33,7 @@ sec-form-types:
   - "EX-99.1"
   - "EX-99.2"
   - "PX14A6G"
+total-political-spend: "$1,465,283"
 ---
 
 
@@ -286,3 +287,21 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Federation%20for%20Children%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,465,283 |
+| Contributions | 40 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| OHIOANS FOR PARENTAL CHOICE | $850,000 | — |
+| AFC VICTORY FUND | $540,283 | — |
+| AMERICAN FED FOR CHILDREN ACTION FUND-GA LEG IE CMTE | $75,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Federation%20for%20Children) (Tier 1)
+<!-- auto:fec-donor end -->

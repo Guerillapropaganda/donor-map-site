@@ -2,7 +2,7 @@
 title: "Wells Fargo"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,7 +13,7 @@ federal-awards-total: 3800000
 federal-contracts-count: 1
 federal-grants-count: 0
 court-cases: 268613
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Maryland"
@@ -74,6 +74,20 @@ subawards-received: 2
 subawards-received-amount: 72000
 top-federal-agency: "Pension Benefit Guaranty Corporation"
 top-naics-code: "523920"
+lei: "984500EB0D67AAL6D588"
+lei-jurisdiction: "GB"
+doj-press-mentions: "264457"
+doj-components:
+  - "Criminal - Human Rights and Special Prosecution Section"
+  - "Criminal - Office of International Affairs"
+  - "Criminal Division"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - Florida, Middle"
+  - "USAO - Idaho"
+  - "USAO - Massachusetts"
+  - "USAO - Michigan, Western"
+  - "USAO - Minnesota"
+  - "USAO - New Jersey"
 ---
 
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte
@@ -268,3 +282,38 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [984500EB0D67AAL6D588](https://search.gleif.org/#/record/984500EB0D67AAL6D588) |
+| Legal Name | WELLS FARGO LTD |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2024-02-01T18:29:56Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264457 |
+| DOJ Components | Criminal - Human Rights and Special Prosecution Section, Criminal - Office of International Affairs, Criminal Division, Federal Bureau of Investigation (FBI), USAO - Florida, Middle, USAO - Idaho +9 more |
+
+**Recent press releases:**
+
+- 2026-04-09 — [Rapid City Man Sentenced to 10 Years in Federal Prison  for Conspiring to Distribute Fentanyl and Methamphetamine in Rapid City](https://www.justice.gov/usao-sd/pr/rapid-city-man-sentenced-10-years-federal-prison-conspiring-distribute-fentanyl-and) — USAO - South Dakota
+- 2026-04-09 — [Giles County Man Arrested for Importing Powerful Psychedelic](https://www.justice.gov/usao-wdva/pr/giles-county-man-arrested-importing-powerful-psychedelic) — USAO - Virginia, Western
+- 2026-04-09 — [West Virginia Woman Sentenced to Prison for Lying to Obtain U.S. Citizenship After Committing Torture and War Crimes in Bosnia](https://www.justice.gov/opa/pr/west-virginia-woman-sentenced-prison-lying-obtain-us-citizenship-after-committing-torture) — Criminal Division
+- 2026-04-09 — [U.S. Attorney’s Office Collects More than $1.5 Billion in Criminal and Civil Actions in Fiscal Year 2025, the Most in the Country](https://www.justice.gov/usao-nj/pr/us-attorneys-office-collects-more-15-billion-criminal-and-civil-actions-fiscal-year-2025) — USAO - New Jersey
+- 2026-04-09 — [Leader of Sex Trafficking Ring Pleads Guilty](https://www.justice.gov/usao-ma/pr/leader-sex-trafficking-ring-pleads-guilty) — USAO - Massachusetts
+- 2026-04-09 — [Minneapolis Man Sentenced to 43 Months for Role in Feeding Our Future Fraud Scheme ](https://www.justice.gov/usao-mn/pr/minneapolis-man-sentenced-43-months-role-feeding-our-future-fraud-scheme) — USAO - Minnesota
+- ... and 264,451 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Wells%20Fargo%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

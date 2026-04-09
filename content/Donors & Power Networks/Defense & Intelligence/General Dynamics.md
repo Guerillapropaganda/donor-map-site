@@ -36,6 +36,26 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Veterans Employment and Training Service"
+sec-filings: 10000
+sec-form-types:
+  - "11-K"
+  - "4"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.9"
+  - "EX-21"
+  - "EX-99.(A)(5)(XXVIII)"
+  - "EX-99.1"
+  - "EX-99.3"
+  - "SC 13D"
+  - "SC 14D9"
+  - "SC 14D9/A"
+  - "SC TO-C"
+  - "SC TO-T/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
@@ -292,3 +312,23 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Dynamics%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 11-K, 4, ARS, DEF 14A, DEFA14A, EX-10.1, EX-10.10, EX-10.9 +10 more |
+| CIK | 40533 |
+| Ticker | GD |
+
+**Notable filings:**
+
+- 2026-03-27 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/40533/000130817926000173/0001308179-26-000173-index.htm)
+- 2026-03-27 — **DEFA14A**: [DEFINITIVE ADDITIONAL PROXY SOLICITING MATERIALS](https://www.sec.gov/Archives/edgar/data/40533/000130817926000170/0001308179-26-000170-index.htm)
+- 2026-03-27 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/40533/000130817926000168/0001308179-26-000168-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/40533/000010290926001320/0000102909-26-001320-index.htm)
+- 2026-03-19 — **4**: [4](https://www.sec.gov/Archives/edgar/data/40533/000138526226000008/0001385262-26-000008-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22General%20Dynamics%22) (Tier 1)
+<!-- auto:sec-edgar end -->

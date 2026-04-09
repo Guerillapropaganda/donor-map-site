@@ -58,6 +58,15 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+total-political-spend: "$1,807,500"
+politicians-funded:
+  - "Steve Scalise"
+  - "Mike Johnson"
+  - "Ron Johnson"
+  - "Kevin McCarthy"
+  - "Adam Smith"
+  - "Jason Smith"
+  - "Bryan Steil"
 ---
 
 #nra-restaurants #food #labor #minimum-wage #tipped-workers #lobbying
@@ -211,3 +220,28 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22National%20Restaurant%20Association%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,807,500 |
+| Contributions | 400 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| NRSC | $120,000 | REP |
+| DSCC | $120,000 | DEM |
+| NRCC | $82,500 | REP |
+| SCALISE LEADERSHIP FUND | $60,000 | — |
+| JOHNSON LEADERSHIP FUND | $60,000 | — |
+| DCCC | $45,000 | DEM |
+| MCCARTHY VICTORY FUND | $30,000 | — |
+| SMITH VICTORY | $25,000 | — |
+| ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS PAC | $20,000 | — |
+| SCALISE FOR CONGRESS | $20,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Restaurant%20Association) (Tier 1)
+<!-- auto:fec-donor end -->

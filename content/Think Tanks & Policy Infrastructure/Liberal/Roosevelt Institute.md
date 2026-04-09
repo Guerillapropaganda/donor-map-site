@@ -25,6 +25,13 @@ ein: "237213592"
 nonprofit-status: "501(c)(3)"
 total-revenue: 36033848
 total-assets: 48635745
+federal-register-mentions: 5
+regulatory-agencies:
+  - "Labor Department"
+  - "Occupational Safety and Health Administration"
+  - "Securities and Exchange Commission"
+lei: "254900O5GENSMFU7HU90"
+lei-jurisdiction: "US-NJ"
 ---
 
 #think-tank #liberal #progressive-economics #antitrust #inequality #industrial-policy #monopoly-power #class-analysis
@@ -270,3 +277,37 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237213592) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 5 |
+| Rule | 3 |
+| Proposed Rule | 2 |
+| Agencies | Labor Department, Occupational Safety and Health Administration, Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Share Repurchase Disclosure Modernization](https://www.federalregister.gov/documents/2023/06/01/2023-09965/share-repurchase-disclosure-modernization) (2023-06-01) — Securities and Exchange Commission
+- [Share Repurchase Disclosure Modernization](https://www.federalregister.gov/documents/2022/02/15/2022-01068/share-repurchase-disclosure-modernization) (2022-02-15) — Securities and Exchange Commission
+- [Occupational Exposure to COVID-19; Emergency Temporary Standard](https://www.federalregister.gov/documents/2021/06/21/2021-12428/occupational-exposure-to-covid-19-emergency-temporary-standard) (2021-06-21) — Labor Department
+- [Asset-Backed Securities Disclosure and Registration](https://www.federalregister.gov/documents/2014/09/24/2014-21375/asset-backed-securities-disclosure-and-registration) (2014-09-24) — Securities and Exchange Commission
+- [Asset-Backed Securities](https://www.federalregister.gov/documents/2010/05/03/2010-8282/asset-backed-securities) (2010-05-03) — Securities and Exchange Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Roosevelt%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900O5GENSMFU7HU90](https://search.gleif.org/#/record/254900O5GENSMFU7HU90) |
+| Legal Name | NEW JERSEY INSTITUTE FOR DISABILITIES, INC. |
+| Jurisdiction | US-NJ |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-07T20:34:37Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

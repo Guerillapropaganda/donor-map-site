@@ -11,12 +11,18 @@ politicians-funded:
   - "Gavin Newsom"
 ein: "201337481"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 397265
 total-assets: 358665
 related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]]"
 lei: "R0KNQ1I1NAJLDR51ER82"
 lei-jurisdiction: "US-CA"
+federal-register-mentions: 5
+regulatory-agencies:
+  - "Energy Department"
+  - "Energy Efficiency and Renewable Energy Office"
+  - "Federal Energy Regulatory Commission"
+  - "Western Area Power Administration"
 ---
 
 #pge #pacific-gas-electric #california #utility #wildfire #camp-fire #monopoly #negligence
@@ -89,3 +95,23 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 5 |
+| Notice | 3 |
+| Rule | 1 |
+| Proposed Rule | 1 |
+| Agencies | Energy Department, Energy Efficiency and Renewable Energy Office, Federal Energy Regulatory Commission, Western Area Power Administration |
+
+**Recent regulatory activity:**
+- [Central Valley Project and California-Oregon Transmission ProjectWAPA-77](https://www.federalregister.gov/documents/1997/09/29/97-25746/central-valley-project-and-california-oregon-transmission-projectwapa-77) (1997-09-29) — Energy Department
+- [Promoting Wholesale Competition Through Open Access Non- Discriminatory Transmission Services by Public Utilities; Recovery of Stranded Costs by Public Utilities and Transmitting Utilities](https://www.federalregister.gov/documents/1996/05/10/96-10694/promoting-wholesale-competition-through-open-access-non--discriminatory-transmission-services-by) (1996-05-10) — Energy Department
+- [Central Valley Project Notice of Rate Order No. WAPA-72](https://www.federalregister.gov/documents/1995/10/10/95-25043/central-valley-project-notice-of-rate-order-no-wapa-72) (1995-10-10) — Energy Department
+- [Notice of Amended Rate Schedule](https://www.federalregister.gov/documents/1995/08/16/95-20284/notice-of-amended-rate-schedule) (1995-08-16) — Energy Department
+- [Energy Conservation Program for Consumer Products: Proposed Rulemaking Regarding Energy Conservation Standards for Refrigerators, Refrigerator-Freezers, and Freezers](https://www.federalregister.gov/documents/1995/07/20/95-17625/energy-conservation-program-for-consumer-products-proposed-rulemaking-regarding-energy-conservation) (1995-07-20) — Energy Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1)
+<!-- auto:federal-register end -->

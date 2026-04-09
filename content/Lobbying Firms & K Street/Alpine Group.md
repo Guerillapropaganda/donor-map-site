@@ -58,6 +58,8 @@ sec-form-types:
   - "SC 13G/A"
   - "SC TO-I"
   - "SC TO-I/A"
+lei: "549300SK16NJD6MI4436"
+lei-jurisdiction: "VI"
 ---
 
 #lobbying #k-street #tax-policy #energy #defense #appropriations #tech #pharma #revolving-door #bipartisan-access

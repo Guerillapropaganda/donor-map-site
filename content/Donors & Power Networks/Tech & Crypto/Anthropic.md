@@ -51,6 +51,9 @@ ein: "920526891"
 nonprofit-status: "501(c)(3)"
 top-federal-agency: "Department of State"
 top-naics-code: "513210"
+federal-register-mentions: 2
+regulatory-agencies:
+  - "Justice Department"
 ---
 
 #anthropic #ai #safety #regulation #frontier-models #google #amazon
@@ -222,3 +225,19 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Rule | 1 |
+| Proposed Rule | 1 |
+| Agencies | Justice Department |
+
+**Recent regulatory activity:**
+- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (2025-01-08) — Justice Department
+- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (2024-10-29) — Justice Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anthropic%22) (Tier 1)
+<!-- auto:federal-register end -->

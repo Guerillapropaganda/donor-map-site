@@ -15,12 +15,12 @@ federal-contracts-count: 25
 federal-grants-count: 20
 lobbying-spend: 61183910
 lobbying-filings: 104
-ein: 383569669
+ein: "383569669"
 annual-revenue: "$25K"
 net-assets: "$130K"
 tax-year: "2023"
 court-cases: 52314
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. Colorado"
   - "District Court, E.D. Michigan"
@@ -38,6 +38,9 @@ top-naics-code: "336111"
 related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]]"
 lei: "6488WGUD2TY76047V783"
 lei-jurisdiction: "IN"
+nonprofit-status: "501(c)(3)"
+total-revenue: 95059
+total-assets: 13703
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
@@ -250,3 +253,28 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 383569669 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $95K |
+| Total Assets | $14K |
+| NTEE Code | P20 |
+| IRS Ruling Date | 2001-12-01 |
+| Filings on Record | 11 |
+
+**Filing history:** 2023, 2022, 2019, 2018, 2017, 2016, 2015, 2014
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2022)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2019)
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2018)
+- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2017)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1)
+<!-- auto:nonprofit-990 end -->

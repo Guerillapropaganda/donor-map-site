@@ -148,3 +148,10 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

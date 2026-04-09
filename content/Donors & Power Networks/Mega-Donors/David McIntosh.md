@@ -8,7 +8,11 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Ron DeSantis"
+  - "Kamala Harris"
+  - "Raphael Warnock"
+  - "Jon Ossoff"
+  - "Roy Cooper"
+  - "Donald Trump"
 related: "[[Club for Growth]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-09"
@@ -31,6 +35,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Occupational Safety and Health Administration"
   - "State Department"
+total-political-spend: "$53,369"
 ---
 
 #mega-donor #republican #primary-kingmaker #club-for-growth
@@ -129,3 +134,28 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22David%20McIntosh%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $53,369 |
+| Contributions | 345 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| WINRED | $9,609 | — |
+| DCCC | $8,000 | DEM |
+| HARRIS FOR PRESIDENT | $4,730 | DEM |
+| PARKINSON FOR SENATE | $3,300 | REP |
+| DSCC | $3,250 | DEM |
+| DEMOCRATS 2024 | $2,000 | — |
+| NEVER SURRENDER, INC. | $1,800 | REP |
+| DEMOCRATIC YOUTH WAVE | $1,500 | — |
+| SENATE CONSERVATIVES FUND | $1,315 | — |
+| HOUSE FREEDOM FUND | $1,280 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20McIntosh) (Tier 1)
+<!-- auto:fec-donor end -->

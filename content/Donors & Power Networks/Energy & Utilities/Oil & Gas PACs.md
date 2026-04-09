@@ -2,7 +2,7 @@
 title: "Oil & Gas PACs"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Energy & Climate"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "SDGT] [NPWMD] [IRGC] [IFSR"
   - "IRAN"
@@ -22,6 +22,9 @@ ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
   - "IRAN-EO13902"
 related: "[[Texas 2026 Senate Race]] · [[Kay Granger Master Profile]] · [[Cathy McMorris Rodgers Master Profile]]"
+court-cases: 1
+court-jurisdictions:
+  - "United States Bankruptcy Court, D. Puerto Rico"
 ---
 
 #oil #gas #pacs #fossil-fuel #republican #bipartisan #energy
@@ -72,3 +75,17 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1 |
+| Courts | United States Bankruptcy Court, D. Puerto Rico |
+| Case Types | PR PROMESA |
+
+**Notable cases:**
+- FINANCIAL OVERSIGHT AND MANAGEMENT BOARD FOR PUERT v. Pierluisi Urrutia (2024) — United States Bankruptcy Court, D. Puerto Rico
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oil%20%26%20Gas%20PACs%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

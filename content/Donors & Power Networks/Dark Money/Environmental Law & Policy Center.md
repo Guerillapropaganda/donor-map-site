@@ -12,7 +12,7 @@ annual-revenue: "$10.9M"
 net-assets: "$38.0M"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 150007
 total-assets: 254525
 related: "[[Sheldon Whitehouse]]"
@@ -22,6 +22,12 @@ fara-countries:
   - "NORWAY"
 lobbying-spend: 3572678
 lobbying-filings: 102
+court-cases: 157
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. North Dakota"
 ---
 
 #environmental-advocacy #clean-energy #midwest #litigation #nonprofit
@@ -156,3 +162,21 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 157 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eighth Circuit, Court of Appeals for the Third Circuit, District Court, D. North Dakota |
+
+**Notable cases:**
+- Air Alliance Houston v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- Sierra Club v. DOE (2026) — Court of Appeals for the D.C. Circuit
+- Natural Resources Defense Council v. FERC (2026) — Court of Appeals for the D.C. Circuit
+- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- State of Minnesota v. Chris Wright (2025) — Court of Appeals for the D.C. Circuit
+- The People of the State of Michigan v. DOE (2025) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Environmental%20Law%20%26%20Policy%20Center%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

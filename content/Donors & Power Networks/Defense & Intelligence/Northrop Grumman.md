@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Defense & Military"
 federal-contracts: "94260"
-ein: 956095343
+ein: "956095343"
 annual-revenue: "$15.1M"
 net-assets: "$31.0M"
 tax-year: "2023"
@@ -70,6 +70,10 @@ subawards-received: 50
 subawards-received-amount: 25770235047
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "541330"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
+total-revenue: 15858568
+total-assets: 20131005
 ---
 
 
@@ -562,3 +566,27 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 956095343 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $15.9M |
+| Total Assets | $20.1M |
+| IRS Ruling Date | 1956-01-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1)
+<!-- auto:nonprofit-990 end -->

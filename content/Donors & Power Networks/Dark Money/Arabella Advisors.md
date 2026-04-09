@@ -2,7 +2,7 @@
 title: "Arabella Advisors"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,6 +14,27 @@ related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+sec-filings: 32
+sec-form-types:
+  - "10-K"
+  - "424B3"
+  - "424B4"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFM14A"
+  - "DRS"
+  - "DRS/A"
+  - "MA-I"
+  - "MA-I/A"
+  - "PREM14A"
+  - "PRER14A"
+  - "S-1"
+  - "S-1/A"
+  - "S-11"
+  - "S-11/A"
+  - "S-4"
+  - "S-4/A"
 ---
 
 #donor-node #dark-money #democrat #fiscal-sponsorship #infrastructure #class-analysis #donor
@@ -164,3 +185,21 @@ The point: some funder identities have leaked through investigative journalism, 
 
 research-status:: ready — Full citation pass complete. $1.7B+ network, seven interconnected 501(c)(4)s mapped, $220M+ management fees, Eric Kessler profile, Leo mirror-image comparison, pop-up model documented, Chorus program collapse, Sunflower Services rebrand, Texas 2026 dark money trail, known donor flows ($125M+ Soros, $100M+ Wyss). 8 sources, Tier 1-3. All ### headers, callout blocks fixed. Promoted Session 38j.
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 32 |
+| Form Types | 10-K, 424B3, 424B4, ARS, DEF 14A, DEFA14A, DEFM14A, DRS +11 more |
+
+**Notable filings:**
+
+- 2024-04-26 — **MA-I/A**: MA-I/A
+- 2021-05-14 — **MA-I**: MA-I
+- 2023-03-17 — **DEFA14A**: DEFA14A
+- 2022-04-05 — **10-K**: FORM 10-K
+- 2023-03-27 — **10-K**: FORM 10-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Arabella%20Advisors%22) (Tier 1)
+<!-- auto:sec-edgar end -->

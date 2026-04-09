@@ -12,7 +12,7 @@ annual-revenue: "$6.4M"
 net-assets: "$4.3M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
 federal-contracts: "10817"
@@ -20,6 +20,7 @@ total-political-spend: "$156,500"
 politicians-funded:
   - "Thom Tillis"
   - "Deb Fischer"
+  - "Wes Moore"
   - "Joe Manchin"
   - "Tammy Baldwin"
   - "Mark Warner"
@@ -275,21 +276,33 @@ content-readiness:: developed
 | Metric | Value |
 |--------|-------|
 | Politicians Funded | 10 |
+| Active Lobbyist | Yes |
 | Federal Contractor | Yes |
-| Committee Overlap Detected | None |
+| Committee Overlap Detected | 3 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Agriculture** → Funds **Deb Fischer** → Sits on **Agriculture**
+- Lobbies on **Defense** → Funds **Deb Fischer** → Sits on **Armed Services**
+- Lobbies on **Government Issues** → Funds **Gary Peters** → Sits on **Homeland Security**
+- Lobbies on **Homeland Security** → Funds **Gary Peters** → Sits on **Homeland Security**
+- Lobbies on **Banking** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **John Cornyn** → Sits on **Judiciary**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Medicare/Medicaid** → Funds **John Cornyn** → Sits on **Finance**
 
 **Funded politicians:**
 
-- [[Thom Tillis]] — contracts: $11K
-- [[Deb Fischer]] (Armed Services, Agriculture) — contracts: $11K
-- [[Joe Manchin]] — contracts: $11K
-- [[Tammy Baldwin]] — contracts: $11K
-- [[Mark Warner]] (Intelligence) — contracts: $11K
-- [[Gary Peters]] (Homeland Security) — contracts: $11K
-- [[Bryan Steil]] — contracts: $11K
-- [[John Cornyn]] (Judiciary, Intelligence, Finance) — contracts: $11K
-- [[Barack Obama]] — contracts: $11K
-- [[John Thune]] — contracts: $11K
+- [[Thom Tillis]] — lobbying: $25.6M — contracts: $11K
+- [[Deb Fischer]] (Armed Services, Agriculture) — lobbying: $25.6M — contracts: $11K
+- [[Joe Manchin]] — lobbying: $25.6M — contracts: $11K
+- [[Tammy Baldwin]] — lobbying: $25.6M — contracts: $11K
+- [[Mark Warner]] (Intelligence) — lobbying: $25.6M — contracts: $11K
+- [[Gary Peters]] (Homeland Security) — lobbying: $25.6M — contracts: $11K
+- [[Bryan Steil]] — lobbying: $25.6M — contracts: $11K
+- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $25.6M — contracts: $11K
+- [[Barack Obama]] — lobbying: $25.6M — contracts: $11K
+- [[John Thune]] — lobbying: $25.6M — contracts: $11K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

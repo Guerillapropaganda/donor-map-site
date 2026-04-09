@@ -2,12 +2,13 @@
 title: "UNITE HERE"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
+  - "Kamala Harris"
   - "Brendan Boyle"
   - "Debbie Wasserman Schultz"
   - "Jamie Raskin"
@@ -16,7 +17,7 @@ issues:
 total-political-spend: "$51,678,221"
 ein: "352455960"
 nonprofit-status: "501(c)(5)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 lei: "54930053JDKWMZI3NN64"
 lei-jurisdiction: "CA"
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]]"

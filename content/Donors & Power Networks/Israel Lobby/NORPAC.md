@@ -21,7 +21,7 @@ politicians-funded:
   - "Gregory Meeks"
   - "John Hickenlooper"
 federal-register-mentions: 42
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Commerce Department"
   - "Employment and Training Administration"
@@ -41,6 +41,18 @@ total-revenue: 2327
 total-assets: 51394
 related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]] · [[Jim Risch]] · [[Bernie Moreno]] · [[Tim Walberg]] · [[Brian Mast]] · [[John Hickenlooper]] · [[Jack Reed]] · [[Gregory Meeks]]"
 total-political-spend: "$1,857,124"
+court-cases: 141
+court-jurisdictions:
+  - "District Court, D. Colorado"
+  - "District Court, D. Hawaii"
+  - "District Court, D. Nevada"
+  - "District Court, D. Oregon"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. Texas"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, D. Utah"
+  - "United States Bankruptcy Court, M.D. Florida"
 ---
 
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money
@@ -280,3 +292,22 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=NORPAC) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 141 |
+| Courts | District Court, D. Colorado, District Court, D. Hawaii, District Court, D. Nevada, District Court, D. Oregon, District Court, N.D. Georgia, District Court, N.D. Illinois, District Court, N.D. Texas, United States Bankruptcy Court, D. Delaware +3 more |
+| Case Types | 950 Constitutional - State Statute, Labor: Labor/Mgt. Relations |
+
+**Notable cases:**
+- Fairhaven Poke, LLC (2026) — United States Bankruptcy Court, W.D. Washington
+- National Association of Wholesaler-Distributors v. Feldon (2025) — District Court, D. Oregon
+- Zen JV, LLC (2025) — United States Bankruptcy Court, D. Delaware
+- PNW Veg Co., LLC v. Roth Premium Foods, LLC (2025) — District Court, D. Colorado
+- Vobev, LLC (2024) — United States Bankruptcy Court, D. Utah
+- Hawaii Carpenters Trust Funds v. NORPAC Walls & Ceilings (2024) — District Court, D. Hawaii
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NORPAC%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

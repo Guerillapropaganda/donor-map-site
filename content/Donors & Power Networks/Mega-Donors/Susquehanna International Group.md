@@ -40,6 +40,10 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "DOMINICAN REPUBLIC"
 ---
 
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money
@@ -247,3 +251,19 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Susquehanna%20International%20Group%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | DOMINICAN REPUBLIC |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Axis Holdings LLC (on behalf of Donald Guerrero, former Finance Minister of the Dominican Republic) through DCI Group AZ, LLC (DOMINICAN REPUBLIC)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Susquehanna%20International%20Group) (Tier 1)
+<!-- auto:fara-foreign-agents end -->
