@@ -2,7 +2,7 @@
 title: "Devon Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -16,7 +16,7 @@ issues:
 lobbying-spend: 810000
 lobbying-filings: 18
 doj-press-mentions: "264342"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -148,7 +148,7 @@ content-readiness:: ready
 - [[Markwayne Mullin]] (Armed Services) — lobbying: $810K
 - [[John Fetterman]] — lobbying: $810K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

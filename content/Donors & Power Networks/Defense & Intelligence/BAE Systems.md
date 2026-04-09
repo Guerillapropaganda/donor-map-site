@@ -2,7 +2,7 @@
 title: "BAE Systems"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -47,6 +47,34 @@ top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "336992"
 lobbying-spend: 10640000
 lobbying-filings: 50
+sec-filings: 10000
+sec-form-types:
+  - "10QSB"
+  - "3"
+  - "4"
+  - "425"
+  - "6-K"
+  - "8-K"
+  - "D"
+  - "DEF 14C"
+  - "DEFA14A"
+  - "DEFM14A"
+  - "EX-10.16"
+  - "EX-10.3"
+  - "EX-10.48"
+  - "EX-10.56"
+  - "EX-10.B"
+  - "EX-4.2"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "F-6 POS"
+  - "F-6EF"
+  - "NPORT-P"
+  - "PRE 14C"
+  - "PREM14A"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -126,17 +154,20 @@ content-readiness:: ready
 | Metric | Value |
 |--------|-------|
 | Politicians Funded | 1 |
+| Active Lobbyist | Yes |
 | Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
 
+- Lobbies on **Defense** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
+- Lobbies on **Intelligence** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
 
 **Funded politicians:**
 
-- [[Jeanne Shaheen]] (Foreign Relations, Armed Services)
+- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — lobbying: $10.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)
@@ -325,3 +356,23 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=BAE%20Systems) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10QSB, 3, 4, 425, 6-K, 8-K, D, DEF 14C +18 more |
+| CIK | 895564 |
+| Ticker | BAESY |
+
+**Notable filings:**
+
+- 2026-04-02 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556426000004/0000895564-26-000004-index.htm)
+- 2025-09-18 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556425000003/0000895564-25-000003-index.htm)
+- 2025-04-04 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556425000001/0000895564-25-000001-index.htm)
+- 2024-09-20 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556424000003/0000895564-24-000003-index.htm)
+- 2024-04-01 — **D**: [D](https://www.sec.gov/Archives/edgar/data/895564/000089556424000001/0000895564-24-000001-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22BAE%20Systems%22) (Tier 1)
+<!-- auto:sec-edgar end -->

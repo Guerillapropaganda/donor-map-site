@@ -10,6 +10,11 @@ tax-status: 501c3
 related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Enterprise Institute]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]]"
 known-gaps:
   - "No FEC contribution data"
+ein: "530196577"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
+total-revenue: 212051581
+total-assets: 550992155
 ---
 
 #think-tank #centrist #wall-street #foreign-funding #revolving-door #hamilton-project #defense #financial-deregulation #qatar #jpmorgan #goldman-sachs #healthcare #housing #labor
@@ -358,3 +363,28 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 ---
 
 content-readiness:: developed
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 530196577 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $212.1M |
+| Total Assets | $551.0M |
+| NTEE Code | V220 |
+| IRS Ruling Date | 1940-03-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/530196577/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530196577) (Tier 1)
+<!-- auto:nonprofit-990 end -->

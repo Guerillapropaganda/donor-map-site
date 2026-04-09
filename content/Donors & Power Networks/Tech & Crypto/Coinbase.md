@@ -2,7 +2,7 @@
 title: "Coinbase"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -35,6 +35,9 @@ lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[From Senate to K Street - The Revolving Door]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Cryptocurrency Industry Bloc — Fairshake PAC Network]]"
+federal-awards-total: 0
+federal-contracts-count: 3
+federal-grants-count: 0
 ---
 
 #coinbase #crypto #lobbying #sec #deregulation #fairshake
@@ -216,3 +219,22 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Coinbase) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 3 ($7.9M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $7.0M | Department of Justice | AFD: CRYPTOCURRENCY MANAGED SERVICES - CLASS 1 BASE YEAR  POP JULY 1, 2024 TO JUNE 30, 32025 |
+| $910K | Department of Homeland Security | COINBASE ANALYTICS LICENSES |
+| $29K | Department of Homeland Security | COINBASE ANALYTICS PLATFORM LICENSES |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/92758004-9797-9b84-aca3-932d2c0322e5-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

@@ -2,7 +2,7 @@
 title: "Sports Betting Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -15,13 +15,17 @@ annual-revenue: "$13.4M"
 net-assets: "$5.8M"
 tax-year: "2023"
 nonprofit-status: "501(c)(6)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 31556683
 total-assets: 15423689
 sec-filings: 1
 sec-form-types:
   - "EX-99.1"
 related: "[[Sports Gambling Industry State Capture]]"
+court-cases: 2
+court-jurisdictions:
+  - "District Court, E.D. Virginia"
+  - "District Court, S.D. New York"
 ---
 
 #sports-betting #dark-money #draftkings-fanduel #gambling-expansion #lobbying
@@ -149,3 +153,17 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sports%20Betting%20Alliance%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2 |
+| Courts | District Court, E.D. Virginia, District Court, S.D. New York |
+| Case Types | 890 Other Statutory Actions |
+
+**Notable cases:**
+- Papaya Gaming, LTD. v. Fair Play For Mobile Games (2025) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sports%20Betting%20Alliance%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

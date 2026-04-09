@@ -2,7 +2,7 @@
 title: "Lennar Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -20,7 +20,7 @@ annual-revenue: "$4.0M"
 net-assets: "$22.6M"
 tax-year: "2023"
 court-cases: 376
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Arizona"
@@ -63,6 +63,8 @@ corroboration-count: 4
 known-gaps:
   - "No SEC corporate filings"
   - "No lobbying disclosure data"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
@@ -304,3 +306,21 @@ content-readiness:: developed
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lennar%20Corporation%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Lennar%20Corporation) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

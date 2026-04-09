@@ -2,7 +2,7 @@
 title: "General Motors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -36,6 +36,8 @@ subawards-received-amount: 68510
 top-federal-agency: "General Services Administration"
 top-naics-code: "336111"
 related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]]"
+lei: "6488WGUD2TY76047V783"
+lei-jurisdiction: "IN"
 ---
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
@@ -151,7 +153,7 @@ content-readiness:: ready
 - [[Joe Biden]] — lobbying: $61.2M
 - [[Barack Obama]] — lobbying: $61.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -233,3 +235,18 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [6488WGUD2TY76047V783](https://search.gleif.org/#/record/6488WGUD2TY76047V783) |
+| Legal Name | GENERAL MOTORS |
+| Jurisdiction | IN |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-05-09T13:27:26Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

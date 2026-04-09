@@ -157,7 +157,7 @@ content-readiness:: ready
 
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (GovTrack)

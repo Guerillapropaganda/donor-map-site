@@ -44,6 +44,19 @@ donors: "[[JB Pritzker]] · [[Mark Zuckerberg]]"
 total-received: "$26,085,174"
 fec-candidate-id: "P00009795"
 internal-notes: "[URL Check 2026-04-09] 17 checked: 11 ok, 5 broken, 1 slow. | BROKEN: Congress.gov: Cory Booker member profile | BROKEN: Congress.gov: First Step Act | BROKEN: The Hill: Booker puts pause on pharma fundraising | BROKEN: Source: Senate Stock Watcher | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us"
+doj-press-mentions: "264413"
+last-enriched: "2026-04-09"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
@@ -214,7 +227,7 @@ content-readiness:: ready
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 - [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -331,3 +344,23 @@ _No committee data found for the 119th Congress._
 
 - [GovTrack: Cory Booker](https://www.govtrack.us/congress/members/412598) (Tier 1)
 <!-- auto:voting-record end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
+
+**Recent press releases:**
+
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Cory%20Booker%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

@@ -2,7 +2,7 @@
 title: "Airbnb"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -33,6 +33,35 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
   - "U.S. Citizenship and Immigration Services"
 related: "[[Lyft]] · [[Instacart]]"
+sec-filings: 10000
+sec-form-types:
+  - "144"
+  - "4"
+  - "424B2"
+  - "424B3"
+  - "8-K"
+  - "CORRESP"
+  - "D"
+  - "DEF 14A"
+  - "DRS"
+  - "DRS/A"
+  - "DRSLTR"
+  - "EX-10.1"
+  - "EX-10.19"
+  - "EX-10.20"
+  - "EX-10.21"
+  - "EX-10.22"
+  - "EX-10.23"
+  - "EX-10.5"
+  - "EX-10.8"
+  - "EX-21.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "FWP"
+  - "NPORT-P"
+  - "PX14A6G"
+  - "SCHEDULE 13G/A"
 ---
 
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
@@ -169,3 +198,23 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Airbnb%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 144, 4, 424B2, 424B3, 8-K, CORRESP, D, DEF 14A +19 more |
+| CIK | 1559720 |
+| Ticker | ABNB |
+
+**Notable filings:**
+
+- 2026-04-08 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1559720/000119312526147937/0001193125-26-147937-index.htm)
+- 2026-04-08 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1559720/000195917326002823/0001959173-26-002823-index.htm)
+- 2026-03-27 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1559720/000195917326002645/0001959173-26-002645-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1559720/000010290926000557/0000102909-26-000557-index.htm)
+- 2026-03-25 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1559720/000119312526124200/0001193125-26-124200-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Airbnb%22) (Tier 1)
+<!-- auto:sec-edgar end -->

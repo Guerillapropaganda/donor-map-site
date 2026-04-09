@@ -144,5 +144,5 @@ research-status:: ready — 310K members, largest CA teachers union, NEA affilia
 - [[Gavin Newsom]] — lobbying: $160K
 - [[Tony Thurmond]] (Education & Labor) — lobbying: $160K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

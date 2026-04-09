@@ -2,7 +2,7 @@
 title: "Cargill"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -37,6 +37,8 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+lei: "549300B5ALGB4HZFWU97"
+lei-jurisdiction: "NL"
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family
@@ -188,3 +190,18 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Cargill%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300B5ALGB4HZFWU97](https://search.gleif.org/#/record/549300B5ALGB4HZFWU97) |
+| Legal Name | CARGILL BIOINDUSTRIAL |
+| Jurisdiction | NL |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-04-15T15:17:13Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

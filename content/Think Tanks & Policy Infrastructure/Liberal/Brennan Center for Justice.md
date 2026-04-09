@@ -10,9 +10,21 @@ tax-status: 501c3
 related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]]"
 ein: "133839293"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 111416912
 total-assets: 313321773
+court-cases: 1043
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Rhode Island"
+  - "District Court, District of Columbia"
 ---
 
 #think-tank #liberal #voting-rights #democracy #criminal-justice #campaign-finance #class-analysis
@@ -220,3 +232,22 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,043 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Federal Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Arizona, District Court, D. Connecticut, District Court, D. Massachusetts +6 more |
+| Case Types | 2441 Civil Rights Voting, 441 Civil Rights: Voting, 463 Habeas Corpus - Alien Detainee, 530 Habeas Corpus (General), 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- State of California v. Trump (2026) — District Court, D. Massachusetts
+- League of United Latin American Citizens v. Executive Office of the President (2026) — Court of Appeals for the D.C. Circuit
+- League of Women Voters of Massachusetts v. Trump (2026) — District Court, D. Massachusetts
+- Castro Espinoza v. Bondi (2026) — District Court, E.D. New York
+- Guarchaj Chox v. Genalo (2026) — District Court, S.D. New York
+- Dorcas International Institute of Rhode Island v. United States Citizenship and Immigration Services (2026) — District Court, D. Rhode Island
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brennan%20Center%20for%20Justice%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

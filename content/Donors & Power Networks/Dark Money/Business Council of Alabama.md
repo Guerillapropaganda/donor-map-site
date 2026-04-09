@@ -2,7 +2,7 @@
 title: "Business Council of Alabama"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -14,7 +14,7 @@ annual-revenue: "$4.8M"
 net-assets: "$7.7M"
 tax-year: "2023"
 court-cases: 30
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eleventh Circuit"
@@ -26,6 +26,9 @@ court-jurisdictions:
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, S.D. Texas"
 related: "[[Katie Britt]]"
+federal-register-mentions: 2
+regulatory-agencies:
+  - "Federal Election Commission"
 ---
 
 #alabama-politics #business-lobby #regulatory-capture #dark-money #state-control
@@ -103,3 +106,18 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Business%20Council%20of%20Alabama%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Notice | 2 |
+| Agencies | Federal Election Commission |
+
+**Recent regulatory activity:**
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/1997/11/07/97-29662/sunshine-act-meeting) (1997-11-07) — Federal Election Commission
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/1996/06/06/96-14461/sunshine-act-meeting) (1996-06-06) — Federal Election Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Business%20Council%20of%20Alabama%22) (Tier 1)
+<!-- auto:federal-register end -->

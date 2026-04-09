@@ -62,6 +62,8 @@ federal-awards-total: 9185964914
 federal-contracts-count: 25
 federal-grants-count: 12
 related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[L3 Technologies]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]]"
+lei: "RIMU48P07456QXSO0R61"
+lei-jurisdiction: "US-DE"
 ---
 
 
@@ -350,7 +352,7 @@ content-readiness:: ready
 - [[Roger Wicker]] (Armed Services) — contracts: $94K
 - [[John Ratcliffe]] (Intelligence) — contracts: $94K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity
@@ -481,3 +483,18 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Northrop%20Grumman%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [RIMU48P07456QXSO0R61](https://search.gleif.org/#/record/RIMU48P07456QXSO0R61) |
+| Legal Name | NORTHROP GRUMMAN CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2024-01-27T13:30:04Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

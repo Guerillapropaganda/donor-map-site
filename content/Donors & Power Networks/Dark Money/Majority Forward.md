@@ -2,7 +2,7 @@
 title: "Majority Forward"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,8 +13,15 @@ issues:
   - "Dark Money & Campaign Finance"
 ein: "833690373"
 nonprofit-status: "501(c)(4)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 related: "[[DSCC - Democratic Senatorial Campaign Committee]]"
+court-cases: 36
+court-jurisdictions:
+  - "Court of Appeals for the Fourth Circuit"
+  - "District Court, E.D. North Carolina"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Georgia"
+  - "District Court, N.D. Georgia"
 ---
 
 #majority-forward #dark-money #democratic #501c4 #senate #schumer #dark-money-symmetry
@@ -142,3 +149,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833690373) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 36 |
+| Courts | Court of Appeals for the Fourth Circuit, District Court, E.D. North Carolina, District Court, E.D. Virginia, District Court, M.D. Georgia, District Court, N.D. Georgia |
+| Case Types | 3441 Civil Rights Voting, 441 Civil Rights: Voting |
+
+**Notable cases:**
+- United States v. North Carolina State Board of Elections (2025) — District Court, E.D. North Carolina
+- Conley v. Hirsch <b><font color="red">Do not docket in this case - all docketing should be in the lead case 5:24-CV-731.</b></font> (2025) — District Court, E.D. North Carolina
+- Jefferson Griffin v. North Carolina Alliance for Retired Americans (2025) — Court of Appeals for the Fourth Circuit
+- Jefferson Griffin v. North Carolina State Board of Elections (2025) — Court of Appeals for the Fourth Circuit
+- Griffin v. North Carolina State Board of Elections (2024) — District Court, E.D. North Carolina
+- North Carolina Democratic Party v. North Carolina State Board of Elections <b><font color="red">Do not docket in this case - all docketing should be in the lead case 5:24-CV-731.</b></font> (2024) — District Court, E.D. North Carolina
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Majority%20Forward%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

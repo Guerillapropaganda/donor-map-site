@@ -2,7 +2,7 @@
 title: "Sam Bankman-Fried"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -14,7 +14,7 @@ politicians-funded:
   - "Joe Biden"
   - "Debbie Stabenow"
 federal-register-mentions: 1
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Commodity Futures Trading Commission"
 source-types:
@@ -26,6 +26,18 @@ corroboration-count: 4
 known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
+court-cases: 334
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, E.D. New York"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Judicial Panel on Multidistrict Litigation"
 ---
 
 #sbf #ftx #crypto #fraud #democratic-donor #bipartisan #effective-altruism
@@ -122,3 +134,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Sam%20Bankman-Fried%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 334 |
+| Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, E.D. New York, District Court, M.D. Florida, District Court, N.D. California, District Court, S.D. Florida, District Court, S.D. New York +2 more |
+| Case Types | 3470 RICO, 360 P.I.: Other, 380 Personal Property: Other, 463 Habeas Corpus - Alien Detainee, 470 Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- Doe v. Kroll Restructuring Administration LLC (2026) — District Court, S.D. New York
+- Zhumi Zhumi v. Tellez (2026) — District Court, E.D. New York
+- Niels Troost v. Gaurav Srivastava (2026) — District Court, C.D. California
+- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
+- United States v. Loftis (2025) — District Court, M.D. Florida
+- United States v. WANDER (2025) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sam%20Bankman-Fried%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

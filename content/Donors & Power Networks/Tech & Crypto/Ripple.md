@@ -2,7 +2,7 @@
 title: "Ripple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
@@ -21,6 +21,19 @@ related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and Tec
 federal-awards-total: 4528360
 federal-contracts-count: 25
 federal-grants-count: 13
+federal-register-mentions: 468
+last-enriched: "2026-04-09"
+regulatory-agencies:
+  - "Education Department"
+  - "Executive Office of the President"
+  - "Federal Highway Administration"
+  - "Federal Motor Carrier Safety Administration"
+  - "Fish and Wildlife Service"
+  - "Homeland Security Department"
+  - "Interior Department"
+  - "National Highway Traffic Safety Administration"
+  - "Securities and Exchange Commission"
+  - "Small Business Administration"
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture
@@ -164,3 +177,26 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/a3c668a9-c6c0-e0f5-3dbd-1d64ec1c9938-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 468 |
+| Final Rules | 183 |
+| Proposed Rules | 144 |
+| Notices | 134 |
+| Presidential Documents | 7 |
+| Agencies | Education Department, Executive Office of the President, Federal Highway Administration, Federal Motor Carrier Safety Administration, Fish and Wildlife Service, Homeland Security Department, Interior Department, National Highway Traffic Safety Administration +4 more |
+
+**Recent regulatory activity:**
+- [Restoring Integrity to the Issuance of Non-Domiciled Commercial Drivers Licenses (CDL)](https://www.federalregister.gov/documents/2026/02/13/2026-02965/restoring-integrity-to-the-issuance-of-non-domiciled-commercial-drivers-licenses-cdl) (2026-02-13) — Transportation Department
+- [Addressing Addiction Through the Great American Recovery Initiative](https://www.federalregister.gov/documents/2026/02/03/2026-02249/addressing-addiction-through-the-great-american-recovery-initiative) (2026-02-03) — Executive Office of the President
+- [Weighted Selection Process for Registrants and Petitioners Seeking To File Cap-Subject H-1B Petitions](https://www.federalregister.gov/documents/2025/12/29/2025-23853/weighted-selection-process-for-registrants-and-petitioners-seeking-to-file-cap-subject-h-1b) (2025-12-29) — Homeland Security Department ★
+- [Request for Information on Expediting Delivery of the American Legion Memorial Bridge](https://www.federalregister.gov/documents/2025/12/11/2025-22506/request-for-information-on-expediting-delivery-of-the-american-legion-memorial-bridge) (2025-12-11) — Transportation Department
+- [The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks](https://www.federalregister.gov/documents/2025/12/05/2025-22014/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger) (2025-12-05) — Transportation Department ★
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing of Proposed Rule Change To List and Trade Shares of the T. Rowe Price Active Crypto ETF Under NYSE Arca Rule 8.201-E (Non-Generic) Commodity-Based Trust Shares](https://www.federalregister.gov/documents/2025/11/28/2025-21402/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-of-proposed-rule-change-to-list-and) (2025-11-28) — Securities and Exchange Commission
+- ... and 462 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Ripple%22) (Tier 1)
+<!-- auto:federal-register end -->

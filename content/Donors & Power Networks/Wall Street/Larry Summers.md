@@ -2,7 +2,7 @@
 title: "Lawrence Summers"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -16,6 +16,11 @@ source-types:
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
+federal-register-mentions: 2
+last-enriched: "2026-04-09"
+regulatory-agencies:
+  - "Commodity Futures Trading Commission"
+  - "State Department"
 ---
 
 #larry-summers #wall-street #treasury #harvard #obama-advisor #economic-policy
@@ -68,3 +73,19 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Lawrence%20Summers) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Proposed Rule | 1 |
+| Notice | 1 |
+| Agencies | Commodity Futures Trading Commission, State Department |
+
+**Recent regulatory activity:**
+- [Public Reporting by Operators of Certain Large Commodity Pools](https://www.federalregister.gov/documents/2000/04/17/00-9463/public-reporting-by-operators-of-certain-large-commodity-pools) (2000-04-17) — Commodity Futures Trading Commission
+- [Office of Protocol; Gifts to Federal Employees From Foreign Government Sources Reported to Employing Agencies in Calendar Year 1994](https://www.federalregister.gov/documents/1995/06/09/95-13832/office-of-protocol-gifts-to-federal-employees-from-foreign-government-sources-reported-to-employing) (1995-06-09) — State Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lawrence%20Summers%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -26,6 +26,8 @@ subawards-received-amount: 5728077424
 top-federal-agency: "General Services Administration"
 top-naics-code: "541512"
 related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]]"
+lei: "9C1X8XOOTYY2FNYTVH06"
+lei-jurisdiction: "US-DE"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
@@ -149,7 +151,7 @@ content-readiness:: ready
 - [[Roger Wicker]] (Armed Services)
 - [[Tammy Duckworth]] (Armed Services)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Vehicle Safety (NHTSA)
@@ -260,3 +262,18 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/455555be-773d-eab1-1e6b-7b94400b757e-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [9C1X8XOOTYY2FNYTVH06](https://search.gleif.org/#/record/9C1X8XOOTYY2FNYTVH06) |
+| Legal Name | GENERAL DYNAMICS CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-10T09:40:59Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

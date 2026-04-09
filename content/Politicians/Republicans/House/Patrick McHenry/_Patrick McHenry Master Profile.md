@@ -2,7 +2,7 @@
 title: "Patrick McHenry Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -41,6 +41,9 @@ corroboration-count: 3
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+govtrack-id: 400644
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 
 
@@ -259,3 +262,27 @@ _No committee data found for the 119th Congress._
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Patrick%20McHenry%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 13,283 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Yea | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400644) (Tier 1)
+<!-- auto:govtrack end -->

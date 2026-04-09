@@ -2,7 +2,7 @@
 title: "ADM - Archer Daniels Midland"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -14,7 +14,7 @@ issues:
 lobbying-spend: 2101600
 lobbying-filings: 96
 doj-press-mentions: "264308"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "USAO - Florida, Middle"
@@ -30,6 +30,11 @@ lei: "549300KDUEM5IEU30490"
 lei-jurisdiction: "VN"
 lei-parent: "ARCHER-DANIELS-MIDLAND COMPANY"
 related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
+federal-register-mentions: 8
+regulatory-agencies:
+  - "Securities and Exchange Commission"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois
@@ -109,7 +114,7 @@ content-readiness:: ready
 
 - [[Dick Durbin]] (Judiciary) — lobbying: $2.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
@@ -151,3 +156,41 @@ content-readiness:: ready
 
 - ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 8 |
+| Notice | 8 |
+| Agencies | Securities and Exchange Commission |
+
+**Recent regulatory activity:**
+- [Self-Regulatory Organizations; NYSE Amex LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19604/self-regulatory-organizations-nyse-amex-llc-notice-of-filing-and-immediate-effectiveness-of-proposed) (2010-08-10) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19603/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (2010-08-10) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NASDAQ OMX BX, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add 75 Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/09/2010-19519/self-regulatory-organizations-nasdaq-omx-bx-inc-notice-of-filing-and-immediate-effectiveness-of-a) (2010-08-09) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NASDAQ OMX PHLX, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19371/self-regulatory-organizations-nasdaq-omx-phlx-inc-notice-of-filing-and-immediate-effectiveness-of) (2010-08-06) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; The NASDAQ Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19334/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate) (2010-08-06) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; Chicago Board Options Exchange, Incorporated; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/04/2010-19222/self-regulatory-organizations-chicago-board-options-exchange-incorporated-notice-of-filing-and) (2010-08-04) — Securities and Exchange Commission
+- ... and 2 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ADM%20-%20Archer%20Daniels%20Midland) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

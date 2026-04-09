@@ -2,7 +2,7 @@
 title: "Nvidia"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -13,6 +13,10 @@ issues:
 lei: "549300S4KLFTLO7GSQ80"
 lei-jurisdiction: "US-DE"
 related: "[[OpenAI]]"
+subawards-issued: 7
+subawards-issued-amount: 5507039
+subawards-received: 7
+subawards-received-amount: 5507039
 ---
 
 #nvidia #tech #ai #chips #gpu #defense #data-centers #jensen-huang
@@ -70,3 +74,26 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 7 ($5.5M sampled) |
+| Subawards Received (as sub) | 7 ($5.5M sampled) |
+
+**Subcontractors receiving federal money from Nvidia:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| NVIDIA CORP | $5.5M | 7 |
+
+**Prime contractors funneling federal money to Nvidia:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| TRIAD NATIONAL SECURITY, LLC | $5.4M | 6 |
+| LOCKHEED MARTIN CORPORATION | $150K | 1 |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

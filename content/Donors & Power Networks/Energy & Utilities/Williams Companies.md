@@ -2,7 +2,7 @@
 title: "Williams Companies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -44,7 +44,7 @@ lei: "5493001M6BTAS56NAL04"
 lei-jurisdiction: "US"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 related: "[[InfluenceMap]]"
 doj-press-mentions: "264349"
 doj-components:
@@ -75,6 +75,18 @@ corroboration-count: 3
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+court-cases: 768
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Colorado"
+  - "District Court, D. Kansas"
+  - "District Court, D. Minnesota"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Louisiana"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, N.D. Ohio"
 ---
 
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money
@@ -275,3 +287,22 @@ content-readiness:: draft
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Williams%20Companies%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 768 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Arizona, District Court, D. Colorado, District Court, D. Kansas, District Court, D. Minnesota, District Court, District of Columbia, District Court, E.D. Louisiana +7 more |
+| Case Types | 190 Contract: Other, 410 Anti-Trust, 410 Other Statutes: Anti-Trust, 470 Racketeer/Corrupt Organization, 850 Securities/Commodities |
+
+**Notable cases:**
+- Sirkis v. Williams Companies, Inc., The (2026) — District Court, N.D. Oklahoma
+- Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
+- WesKan Grain LLC v. Kansas & Oklahoma Railroad, LLC (2026) — District Court, D. Kansas
+- SHAW v. AMERICAN ACADEMY OF PEDIATRICS (2026) — District Court, District of Columbia
+- In re Target Corp. Securities Class Action Litigation (2025) — District Court, D. Minnesota
+- United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Williams%20Companies%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

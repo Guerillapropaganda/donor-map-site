@@ -2,7 +2,7 @@
 title: "National Association of Manufacturers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -23,7 +23,7 @@ net-assets: "$69.6M"
 tax-year: "2023"
 total-political-spend: "$2,129,676"
 nonprofit-status: "501(c)(6)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 3628984
 total-assets: 6552030
 federal-register-mentions: 241
@@ -39,6 +39,18 @@ regulatory-agencies:
   - "Federal Trade Commission"
   - "International Trade Administration"
 related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]]"
+court-cases: 710
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Eleventh Circuit"
+  - "Court of Appeals for the Fourth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, W.D. Texas"
+  - "United States Court of International Trade"
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
@@ -289,3 +301,22 @@ research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 5
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Manufacturers%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 710 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eleventh Circuit, Court of Appeals for the Fourth Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Sixth Circuit, District Court, District of Columbia, District Court, E.D. California, District Court, N.D. Illinois +2 more |
+| Case Types | 3791 Employee Retirement, 410 Anti-Trust, 830 Patent, 890 Other Statutory Actions, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
+- The State of Oregon v. Trump (2026) — United States Court of International Trade
+- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- Coinbase Financial Markets, Inc. v. Raoul (2025) — District Court, N.D. Illinois
+- Bayerische Motoren Werke Aktiengesellschaft v. Onesta IP, LLC (2025) — District Court, W.D. Texas
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Association%20of%20Manufacturers%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

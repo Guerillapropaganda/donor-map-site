@@ -2,7 +2,7 @@
 title: "Gates Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -35,7 +35,7 @@ net-assets: "$77.0B"
 tax-year: "2023"
 related: "[[Michael Bennet]]"
 federal-register-mentions: 18
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Agency for International Development"
   - "Antitrust Division"
@@ -47,6 +47,18 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Housing and Urban Development Department"
   - "Justice Department"
+court-cases: 603
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Delaware"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. New York"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. New York"
 ---
 
 #donor #mega-donor #gates-foundation #bill-gates #charter-schools #education-policy #pharma-influence #global-health #common-core #class-analysis #follow-the-money
@@ -250,3 +262,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gates%20Foundation%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 603 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Arizona, District Court, D. Delaware, District Court, District of Columbia, District Court, E.D. New York, District Court, N.D. Alabama, District Court, N.D. California +7 more |
+| Case Types | 320 Personal Injury: Assault Libel & Slander, 440 Civil Rights: Other, 442 Civil Rights: Jobs, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions |
+
+**Notable cases:**
+- McCullough v. The Gates Foundation (2026) — District Court, W.D. Washington
+- Hwang-Meza v. Gates Foundation (2026) — District Court, W.D. Washington
+- Blackwood-Head v. Head (2026) — District Court, S.D. Texas
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+- Emrit v. Gates, et al. (2026) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Gates%20Foundation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

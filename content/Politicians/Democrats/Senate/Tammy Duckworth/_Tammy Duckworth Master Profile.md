@@ -2,7 +2,7 @@
 title: "Tammy Duckworth"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -36,6 +36,11 @@ stock-trade-tickers:
 total-received: "$385,884"
 fec-candidate-id: "H6IL06141"
 donors: "[[Democracy Alliance]]"
+govtrack-id: 412533
+bills-sponsored: 47
+bills-cosponsored: 423
+website: "https://www.duckworth.senate.gov"
+phone: "202-224-2854"
 ---
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion
@@ -235,3 +240,35 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 47 |
+| Bills Cosponsored | 423 |
+| Total Votes Cast | 6,221 |
+
+**Recent bills sponsored:**
+
+- S. 4247: A bill to establish rights for people being considered for and in protective arrangements, including guardianships and c — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4217: Copay Fairness for Veterans Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4218: VA Appraisal Modernization Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4194: Inspector General Accessibility Reporting Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 657: A resolution commending Taiwan on the 30th anniversary of its first direct presidential election in 1996, and expressing — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 23, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412533) (Tier 1)
+<!-- auto:govtrack end -->

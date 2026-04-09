@@ -18,7 +18,7 @@ sec-form-types:
   - "40-APP/A"
   - "EX-99"
 federal-register-mentions: 9
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Federal Election Commission"
 ein: 455097038
@@ -26,6 +26,16 @@ annual-revenue: "$2.0M"
 net-assets: "$8.5M"
 tax-year: "2023"
 related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Pramila Jayapal]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[The Education Committee and Labor Alignment]]"
+court-cases: 140
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. New Mexico"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "United States Bankruptcy Court, D. Massachusetts"
 ---
 
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis
@@ -184,3 +194,22 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 455097038](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455097038_202312_990O_2025032023237934.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 140 |
+| Courts | District Court, C.D. California, District Court, D. New Mexico, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Illinois, United States Bankruptcy Court, D. Massachusetts |
+| Case Types | 370 Other Fraud, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
+
+**Notable cases:**
+- COMMITTEE TO ELECT YAIDA FORD v. ACTBLUE LLC. (2026) — District Court, District of Columbia
+- JUDICIAL WATCH, INC. v. FEDERAL ELECTION COMMISSION (2026) — District Court, District of Columbia
+- PROTECT DEMOCRACY PROJECT v. U.S. DEPARTMENT OF THE TREASURY (2025) — District Court, District of Columbia
+- Center for Civic Action v. City of Albuquerque Board of Ethics and Campaign Practices (2025) — District Court, D. New Mexico
+- Campbell's Company v. Campbell (2025) — District Court, E.D. Michigan
+- Park 54 Restaurant Group LLC (2025) — United States Bankruptcy Court, D. Massachusetts
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

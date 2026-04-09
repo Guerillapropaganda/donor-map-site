@@ -2,7 +2,7 @@
 title: "Cigna Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Healthcare"
 federal-register-mentions: 1
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Federal Trade Commission"
 lei: "549300VIWYMSIGT1U456"
@@ -18,6 +18,17 @@ lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]]"
+court-cases: 1995
+court-jurisdictions:
+  - "District Court, D. Connecticut"
+  - "District Court, D. Delaware"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Oregon"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Missouri"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
 ---
 
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare
@@ -139,3 +150,22 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Cigna%20Group) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,995 |
+| Courts | District Court, D. Connecticut, District Court, D. Delaware, District Court, D. New Jersey, District Court, D. Oregon, District Court, District of Columbia, District Court, E.D. Missouri, District Court, N.D. Illinois, District Court, S.D. New York +1 more |
+| Case Types | 410 Anti-Trust, 440 Civil Rights: Other, 442 Civil Rights: Jobs, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Texas Medical Association v. MultiPlan Inc (2026) — District Court, N.D. Illinois
+- Waterfront Family Pharmacy LLC v. Optumrx, Inc. (2026) — District Court, E.D. Missouri
+- Keene v. CIGNA Healthcare of Texas, Inc. (2026) — District Court, W.D. Texas
+- Carolina Neurosurgery and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
+- Florida Spine and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
+- Columna, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cigna%20Group%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

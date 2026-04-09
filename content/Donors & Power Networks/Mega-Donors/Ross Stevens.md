@@ -2,7 +2,7 @@
 title: "Ross Stevens"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -44,6 +44,10 @@ sec-form-types:
   - "SC 13G/A"
   - "TEXT-EXTRACT"
 related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Ohio 2026 Governor Race - The Structural Landscape]]"
+lobbying-spend: 925000
+lobbying-filings: 70
+lei: "549300Q6W4JNCJR4LU44"
+lei-jurisdiction: "US-WI"
 ---
 
 #ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel
@@ -212,3 +216,37 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ross%20Stevens%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $925K |
+| Quarterly Filings | 70 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Arts/Entertainment, Budget/Appropriations, Defense, Economics/Economic Development, Education, Energy/Nuclear, Government Issues, Health Issues, Homeland Security, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Natural Resources, Real Estate/Land Use/Conservation, Transportation, Travel/Tourism, Urban Development/Municipalities
+
+**Lobbying firms:** ALSTON & BIRD LLP, HOLLAND & KNIGHT LLP, LNE GROUP, PERRY, WHITE, ROSS & JACOBSON, LLC, ROSS TAYLOR & ASSOCIATES, LLC, ROSSLYN PARTNERS, THE ROSS GROUP, LLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Energy, Dept of, HOUSE OF REPRESENTATIVES, Labor, Dept of (DOL), Office of the Vice President of the United States, SENATE, Small Business Administration (SBA)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ross%20Stevens) (Tier 1)
+<!-- auto:lda-lobbying end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300Q6W4JNCJR4LU44](https://search.gleif.org/#/record/549300Q6W4JNCJR4LU44) |
+| Legal Name | WINFIELD HOLDINGS, LLC |
+| Jurisdiction | US-WI |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-08-04T17:07:01Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

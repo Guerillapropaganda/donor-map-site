@@ -2,7 +2,7 @@
 title: "Aramark"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -90,6 +90,8 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+lei: "875500WT1IY2H60BUN69"
+lei-jurisdiction: "BE"
 ---
 
 
@@ -286,3 +288,23 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Aramark) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [875500WT1IY2H60BUN69](https://search.gleif.org/#/record/875500WT1IY2H60BUN69) |
+| Legal Name | ARAMARK |
+| Jurisdiction | BE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-12-18T16:19:47Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [ARAMARK](https://search.gleif.org/#/record/549300MR6PG2DWZUIL39) (US-DE)
+- ARAMARK (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

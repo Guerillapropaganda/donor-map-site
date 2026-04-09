@@ -180,7 +180,7 @@ content-readiness:: ready
 - [[California Building and Construction Trades Council]] — $10.5M lobbying spend (Accounting, Agriculture, Banking)
 - [[California Apartment Association]] — $10.4M lobbying spend (Accounting, Agriculture, Banking)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Committee Assignments (Congress.gov)

@@ -2,7 +2,7 @@
 title: "National Cattlemen's Beef Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -11,12 +11,12 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Agriculture"
-ein: 840738973
+ein: "840738973"
 annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"
 court-cases: 85
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eighth Circuit"
@@ -55,6 +55,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+nonprofit-status: "501(c)(6)"
+total-revenue: 56531773
+total-assets: 37287895
 ---
 
 
@@ -196,7 +199,7 @@ content-readiness:: ready
 - [[Donald Trump]] — lobbying: $3.1M
 - [[Frank Lucas]] (Agriculture) — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)
@@ -278,3 +281,28 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22National%20Cattlemen's%20Beef%20Association%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 840738973 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $56.5M |
+| Total Assets | $37.3M |
+| NTEE Code | S41 |
+| IRS Ruling Date | 2001-04-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/840738973) (Tier 1)
+<!-- auto:nonprofit-990 end -->

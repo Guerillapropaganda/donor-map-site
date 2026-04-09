@@ -2,7 +2,7 @@
 title: "CA Farm Bureau Federation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Agriculture"
@@ -11,6 +11,9 @@ related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]]
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+ein: "912158769"
+nonprofit-status: "501(c)(5)"
+last-enriched: "2026-04-09"
 ---
 
 #agricultural-lobby #california-politics #farm-interests #worker-opposition #environmental-regulation
@@ -52,3 +55,16 @@ The California Farm Bureau exemplifies how agricultural wealth translates to pol
 - [CalMatters: Newsom relents, signs farmworker union bill after pressure from Biden and labor](https://calmatters.org/california-divide/2022/09/newsom-farmworker-union-bill/) (Tier 2) (VERIFIED)
 
 `content-readiness:: ready
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 912158769 |
+| Tax-Exempt Status | 501(c)(5) |
+| NTEE Code | K28 |
+| IRS Ruling Date | 1965-03-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912158769) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "CalPERS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -48,6 +48,8 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "District Court, S.D. California"
+lobbying-spend: 480000
+lobbying-filings: 14
 ---
 
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money
@@ -277,3 +279,22 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CalPERS%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $480K |
+| Quarterly Filings | 14 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 2 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Health Issues, Retirement
+
+**Lobbying firms:** IMPACT HEALTH POLICY PARTNERS, LEWIS STRATEGIES
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CalPERS) (Tier 1)
+<!-- auto:lda-lobbying end -->

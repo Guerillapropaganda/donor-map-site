@@ -2,15 +2,15 @@
 title: "Jeffrey Katzenberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Joe Biden"
+  - "Nancy Pelosi"
   - "Kamala Harris"
-  - "Barack Obama"
+  - "Joe Biden"
 ein: 954513461
 annual-revenue: "$922K"
 net-assets: "$10.7M"
@@ -18,6 +18,7 @@ tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 related: "[[Adam Schiff]] · [[Ana Kasparian]]"
+total-political-spend: "$13,889,097"
 ---
 
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money
@@ -178,3 +179,28 @@ content-readiness:: ready
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
 ### Federal Subawards & Spending Breakdown
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $13,889,097 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SMP | $3,950,000 | — |
+| DCCC | $1,242,200 | DEM |
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $1,052,300 | DEM |
+| NANCY PELOSI VICTORY FUND | $1,045,000 | — |
+| FF PAC | $1,000,000 | — |
+| HARRIS VICTORY FUND | $919,600 | — |
+| BIDEN VICTORY FUND | $727,800 | — |
+| HARRIS ACTION FUND | $413,000 | — |
+| HMP | $350,000 | — |
+| DSCC | $294,800 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Jeffrey%20Katzenberg) (Tier 1)
+<!-- auto:fec-donor end -->

@@ -2,7 +2,7 @@
 title: "UPS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -16,6 +16,12 @@ federal-grants-count: 25
 related: "[[Brian Kemp]] · [[The Caucus Chair and Inland Empire Logistics Economy]]"
 cpsc-recalls: 31
 last-enriched: "2026-04-08"
+subawards-issued: 50
+subawards-issued-amount: 94226107
+subawards-received: 45
+subawards-received-amount: 80048818
+top-federal-agency: "Department of Homeland Security"
+top-naics-code: "561320"
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
@@ -232,3 +238,59 @@ content-readiness:: developed
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=UPS) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($94.2M sampled) |
+| Subawards Received (as sub) | 45 ($80.0M sampled) |
+| Top Federal Agency | Department of Homeland Security ($624.3M) |
+| Primary NAICS Sector | Temporary Help Services |
+
+**Subcontractors receiving federal money from UPS:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| UPS SUPPLY CHAIN SOLUTIONS, INC. | $76.0M | 41 |
+| JOINT TACTICS AND TECHNOLOGIES, LLC | $14.2M | 5 |
+| ACUMENTRICS RUPS, LLC | $3.3M | 3 |
+| UPSCALE HIM CONSULTING | $760K | 1 |
+
+**Prime contractors funneling federal money to UPS:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $76.3M | 42 |
+| GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC. | $1.7M | 1 |
+| CACI INC FEDERAL | $1.3M | 1 |
+| LIVANTA LLC | $760K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Homeland Security | $624.3M |
+| Department of Defense | $222.2M |
+| Department of Veterans Affairs | $198.0M |
+| Department of Health and Human Services | $40.6M |
+| Small Business Administration | $6.5M |
+| General Services Administration | $6.2M |
+| Department of Agriculture | $4.9M |
+| National Science Foundation | $2.3M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Temporary Help Services (561320) | $591.9M |
+| Offices of Physicians (except Mental Health Specialists) (621111) | $170.2M |
+| Other Heavy and Civil Engineering Construction (237990) | $107.2M |
+| Manufactured Home (Mobile Home) Manufacturing (321991) | $86.3M |
+| Engineering Services (541330) | $50.1M |
+| Medical Laboratories (621511) | $32.6M |
+| Commercial and Institutional Building Construction (236220) | $22.0M |
+| Administrative Management and General Management Consulting Services (541611) | $8.5M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

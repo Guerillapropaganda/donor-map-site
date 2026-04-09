@@ -30,6 +30,8 @@ nonprofit-status: "501(c)(9)"
 last-enriched: "2026-04-08"
 total-revenue: 212200
 total-assets: 1900682
+lobbying-spend: 21285000
+lobbying-filings: 55
 ---
 
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan
@@ -794,3 +796,22 @@ research-status:: developed → ready (2026-04-01) — Merged: KochPAC complete 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/480834445) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $21.3M |
+| Quarterly Filings | 55 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 16 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Banking, Bankruptcy, Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Constitution, Defense, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Immigration, Law Enforcement/Crime/Criminal Justice, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Utilities
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, CAPITOL TAX PARTNERS, LLP, CROSSROADS STRATEGIES, LLC, HOLLAND & KNIGHT LLP, HUNTON ANDREWS KURTH LLP, KOCH GOVERNMENT AFFAIRS, LLC, LONGBOW PUBLIC POLICY GROUP, LLC, MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, MINDSET ADVOCACY, LLC, PHRONESISDC, LLC, RESEARCH SERVICE BUREAU, S-3 GROUP, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE NICKLES GROUP, LLC, VALCOUR LLC
+
+**Agencies contacted:** Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of, U.S. Trade Representative (USTR)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Koch%20Industries) (Tier 1)
+<!-- auto:lda-lobbying end -->

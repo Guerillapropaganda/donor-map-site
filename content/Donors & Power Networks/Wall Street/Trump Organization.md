@@ -2,7 +2,7 @@
 title: "Trump Organization"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,6 +13,41 @@ politicians-funded:
 issues:
   - "Housing"
 related: "[[Housing - Donors and Backers]]"
+sec-filings: 1884
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "10KSB"
+  - "10KSB/A"
+  - "4"
+  - "424B3"
+  - "425"
+  - "497"
+  - "8-K"
+  - "8-K/A"
+  - "DEF 14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.17"
+  - "EX-10.3"
+  - "EX-10.4"
+  - "EX-10.7"
+  - "EX-10.83"
+  - "EX-10.9"
+  - "EX-4.2.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "PRE 14C"
+  - "S-1/A"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G/A"
+  - "SCHEDULE 13D"
+  - "SCHEDULE 13D/A"
 ---
 
 #trump #organization #real-estate #branding #conflicts-of-interest #emoluments
@@ -39,3 +74,21 @@ The Trump Organization's political operation is inseparable from Trump's persona
 - [Ballotpedia: Trump Organization](https://ballotpedia.org/Trump_Organization) (Tier 3)
 
 content-readiness:: ready
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,884 |
+| Form Types | 10-K, 10-K/A, 10-Q, 10KSB, 10KSB/A, 4, 424B3, 425 +25 more |
+
+**Notable filings:**
+
+- 2005-05-26 — **EX-10.9**: RIGHT OF FIRST OFFER AGREEMENT, DATED AS OF  MAY 20, 2005
+- 2024-12-04 — **EX-99.1**: PRESS RELEASE DATED DECEMBER 3, 2024
+- 2006-09-28 — **EX-10**: 10.9
+- 2012-12-06 — **8-K**: FORM 8-K
+- 2024-12-20 — **8-K**: CURRENT REPORT
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%20Organization%22) (Tier 1)
+<!-- auto:sec-edgar end -->

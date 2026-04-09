@@ -362,5 +362,5 @@ content-readiness:: developed
 - [[Dan Crenshaw]] — lobbying: $17.9M
 - [[John Kennedy]] (Judiciary, Banking) — lobbying: $17.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

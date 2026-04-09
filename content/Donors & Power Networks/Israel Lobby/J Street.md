@@ -2,7 +2,7 @@
 title: "J Street"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -20,6 +20,13 @@ related: "[[Entertainment and Hollywood Donors]] · [[Rashida Tlaib]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+federal-register-mentions: 386
+last-enriched: "2026-04-09"
+regulatory-agencies:
+  - "Defense Department"
+  - "Engineers Corps"
+  - "Interior Department"
+  - "National Park Service"
 ---
 
 #donor #israel #pro-israel #lobbying #pac #progressive #two-state #democratic #follow-the-money #class-analysis #foreign-policy
@@ -155,3 +162,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 261507828](https://projects.propublica.org/nonprofits/organizations/261507828) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 386 |
+| Final Rules | 16 |
+| Proposed Rules | 14 |
+| Notices | 356 |
+| Agencies | Defense Department, Engineers Corps, Interior Department, National Park Service |
+
+**Recent regulatory activity:**
+- [Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2026/01/16/2026-00868/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca) (2026-01-16) — Interior Department
+- [Notice of Inventory Completion: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2026/01/16/2026-00867/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca) (2026-01-16) — Interior Department
+- [Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2025/12/17/2025-23029/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca) (2025-12-17) — Interior Department
+- [Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2025/12/17/2025-23028/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca) (2025-12-17) — Interior Department
+- [Notice of Inventory Completion: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2025/12/16/2025-22906/notice-of-inventory-completion-california-state-university-sacramento-sacramento-ca) (2025-12-16) — Interior Department
+- [Notice of Intended Repatriation: California State University, Sacramento, Sacramento, CA](https://www.federalregister.gov/documents/2025/12/16/2025-22876/notice-of-intended-repatriation-california-state-university-sacramento-sacramento-ca) (2025-12-16) — Interior Department
+- ... and 380 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22J%20Street%22) (Tier 1)
+<!-- auto:federal-register end -->
