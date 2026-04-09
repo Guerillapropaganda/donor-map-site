@@ -27,7 +27,7 @@ known-gaps:
 tags: #republican
 
 related:: [[North Carolina 2026 Senate Race]] [[Michael Whatley Oil and Gas Lobbying History]] Michael Whatley RNC Energy Policy
-donors:: [[Consumer Energy Alliance]] [[HBW Resources]] Republican National Committee NRSC [[Susan B. Anthony Pro-Life America PAC]] Trump Endorsement Network · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]]
+donors:: [[Consumer Energy Alliance]] [[HBW Resources]] Republican National Committee NRSC [[Susan B. Anthony Pro-Life America PAC]] Trump Endorsement Network · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[SLF PAC]]
 ---
 
 ### Who They Are
