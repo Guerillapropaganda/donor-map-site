@@ -7,7 +7,7 @@ source-tier: null
 parent: null
 category: centrist
 platform: youtube
-related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]]"
+related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]] · [[The Daily Wire]]"
 ---
 
 #media-pipeline #centrist #media-network #valuetainment #patrick-bet-david #business-media

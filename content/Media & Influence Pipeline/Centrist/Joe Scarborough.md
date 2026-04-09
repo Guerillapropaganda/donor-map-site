@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]]"
 ---
 
 #media-pipeline #centrist #cable-news #msnbc #ms-now #republican-turned-independent #revolving-door
