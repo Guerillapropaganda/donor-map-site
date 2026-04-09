@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-fec-candidate-id: "H2OH13033"
+fec-candidate-id: "S6OH00163"
 govtrack-id: 400050
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -19,17 +19,16 @@ editorial-review-date: "2026-04-08"
 editorial-reviewer: "Research Claude"
 editorial-result: block
 editorial-blockers:
-  - "FEC candidate ID H2OH13033 is HOUSE ID — missing Senate FEC data entirely (Code Claude: find Senate ID S6OH00163)"
-  - "Bills 0/0 wrong — 18-year senator, pipeline pulled wrong data (Code Claude fix)"
+  - "Bills 0/0 wrong — 18-year senator, needs re-enrichment with correct FEC ID"
   - "No source-types computed"
   - "No last-enriched date"
-  - "No committee data — chaired Senate Banking Committee (missing)"
+  - "No committee data — chaired Senate Banking Committee (needs enrichment)"
   - "OpenSecrets URL present — must move to Archived per Vault Rules"
   - "Body has duplicate related:/donors: fields outside frontmatter (cleanup needed)"
 verified-blocks:
   - connections
 known-gaps:
-  - "Senate FEC data missing (wrong candidate ID)"
+  - "Senate FEC data needs re-enrichment (ID fixed to S6OH00163)"
   - "Committee assignments missing (chaired Banking)"
   - "Bills sponsored/cosponsored data wrong (shows 0)"
   - "No source-types detected"
