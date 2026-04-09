@@ -2,7 +2,7 @@
 title: "Josh Green Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-03-24
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,6 +16,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+bioguide-id: "A000383"
 ---
 
 
@@ -216,3 +217,10 @@ The material question: does the brand translate to policy challenging healthcare
 
 content-readiness:: ready
  
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->
