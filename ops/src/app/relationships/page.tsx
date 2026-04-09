@@ -67,6 +67,7 @@ export default function RelationshipsPage() {
   const [suggestions, setSuggestions] = useState<Suggestion[]>([])
   const [newProfiles, setNewProfiles] = useState<NewProfile[]>([])
   const [suggestionsStats, setSuggestionsStats] = useState<{ total: number; high: number; medium: number; low: number }>({ total: 0, high: 0, medium: 0, low: 0 })
+  const [actionStats, setActionStats] = useState<{ approved: number; rejected: number; deferred: number }>({ approved: 0, rejected: 0, deferred: 0 })
   const [suggestionsLoading, setSuggestionsLoading] = useState(false)
   const [suggestionsScanning, setSuggestionsScanning] = useState(false)
   const [suggestionsLastScan, setSuggestionsLastScan] = useState<string | null>(null)
@@ -81,13 +82,16 @@ export default function RelationshipsPage() {
   const [suggestionsOffset, setSuggestionsOffset] = useState(0)
   const [rejectModal, setRejectModal] = useState<{ id: string; source: string; target: string } | null>(null)
   const [rejectReason, setRejectReason] = useState("")
+  const [suggestionsSearch, setSuggestionsSearch] = useState("") // name search
+  const [suggestionsCompact, setSuggestionsCompact] = useState(false) // compact card mode
+  const [selectedSuggestions, setSelectedSuggestions] = useState<Set<string>>(new Set()) // bulk select
 
   const loadSuggestions = async (append = false, offsetOverride?: number) => {
     setSuggestionsLoading(true)
     try {
       const o = offsetOverride ?? (append ? suggestionsOffset + 30 : 0)
       const status = suggestionsStatusFilter
-      const params = new URLSearchParams({ confidence: suggestionsFilter, strategy: suggestionsStratFilter, status, type: suggestionsTypeFilter, partisan: suggestionsPartisan, sort: suggestionsSort, limit: "30", offset: String(o) })
+      const params = new URLSearchParams({ confidence: suggestionsFilter, strategy: suggestionsStratFilter, status, type: suggestionsTypeFilter, partisan: suggestionsPartisan, sort: suggestionsSort, limit: "30", offset: String(o), ...(suggestionsSearch ? { search: suggestionsSearch } : {}) })
       const res = await fetch(`/api/suggestions?${params}`)
       const data = await res.json()
       if (append) {
@@ -97,6 +101,7 @@ export default function RelationshipsPage() {
       }
       setNewProfiles(data.newProfiles || [])
       setSuggestionsStats(data.stats || { total: 0, high: 0, medium: 0, low: 0 })
+      if (data.actionStats) setActionStats(data.actionStats)
       setSuggestionsLastScan(data.scannedAt || null)
       setSuggestionsTotalFiltered(data.totalFiltered || 0)
       setSuggestionsHasMore(data.hasMore || false)
@@ -197,7 +202,29 @@ export default function RelationshipsPage() {
   }
 
   // Load suggestions when switching to tab or changing filters/sort
-  useEffect(() => { if (tab === "suggestions") loadSuggestions() }, [tab, suggestionsFilter, suggestionsStratFilter, suggestionsStatusFilter, suggestionsTypeFilter, suggestionsPartisan, suggestionsSort])
+  // Debounced search
+  const searchTimeout = useRef<ReturnType<typeof setTimeout> | null>(null)
+  const triggerSearchLoad = useCallback((val: string) => {
+    if (searchTimeout.current) clearTimeout(searchTimeout.current)
+    searchTimeout.current = setTimeout(() => { setSuggestionsSearch(val) }, 300)
+  }, [])
+
+  const batchAction = async (action: string) => {
+    if (selectedSuggestions.size === 0) return
+    setSaving(true)
+    let count = 0
+    for (const id of selectedSuggestions) {
+      try {
+        await actOnSuggestion(id, action)
+        count++
+      } catch { /* continue */ }
+    }
+    setSelectedSuggestions(new Set())
+    showToast(`${action === "approve" ? "Approved" : action === "reject" ? "Rejected" : "Deferred"} ${count} suggestions`)
+    setSaving(false)
+  }
+
+  useEffect(() => { if (tab === "suggestions") loadSuggestions() }, [tab, suggestionsFilter, suggestionsStratFilter, suggestionsStatusFilter, suggestionsTypeFilter, suggestionsPartisan, suggestionsSort, suggestionsSearch])
 
   // Node positions for draggable graph
   const [nodePositions, setNodePositions] = useState<Record<string, { x: number; y: number }>>({})
@@ -725,9 +752,19 @@ export default function RelationshipsPage() {
                   <p className="text-[10px] text-[var(--color-text-dim)]">
                     {suggestionsLastScan ? `Last scan: ${new Date(suggestionsLastScan).toLocaleString()}` : "No scan run yet"}
                     {suggestionsStats.total > 0 && ` \u00b7 ${suggestionsStats.total} suggestions`}
+                    {(actionStats.approved > 0 || actionStats.rejected > 0 || actionStats.deferred > 0) && (
+                      <span className="ml-2">
+                        {actionStats.approved > 0 && <span className="text-[var(--color-green)]">{actionStats.approved} approved</span>}
+                        {actionStats.rejected > 0 && <span className="ml-1 text-[var(--color-red)]">{actionStats.rejected} rejected</span>}
+                        {actionStats.deferred > 0 && <span className="ml-1 text-[#f59e0b]">{actionStats.deferred} deferred</span>}
+                      </span>
+                    )}
                   </p>
                 </div>
-                <div className="flex gap-2">
+                <div className="flex gap-2 items-center">
+                  <button onClick={() => setSuggestionsCompact(c => !c)} className={`text-[9px] px-2.5 py-1.5 rounded-lg border transition-all ${suggestionsCompact ? "border-[var(--color-steel)]/50 bg-[var(--color-steel)]/15 text-[var(--color-steel)]" : "border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)]"}`} title="Toggle compact mode">
+                    {suggestionsCompact ? "&#9776; Full" : "&#9776; Compact"}
+                  </button>
                   <button onClick={batchApproveHigh} disabled={saving} className="flex items-center gap-1.5 text-[10px] px-3 py-2 rounded-lg border border-[var(--color-green)]/30 text-[var(--color-green)] hover:bg-[var(--color-green)]/10 disabled:opacity-50">
                     Batch Approve High <span className="px-1.5 py-0.5 rounded bg-[var(--color-green)]/15 text-[8px]">{suggestions.filter(s => s.confidence === "high" && s.autoCreate && (!s.actionState || s.actionState === "pending")).length}</span>
                   </button>
@@ -737,6 +774,26 @@ export default function RelationshipsPage() {
                   </button>
                 </div>
               </div>
+              {/* Search */}
+              <div className="relative mb-3">
+                <input
+                  type="text"
+                  placeholder="Search suggestions by name..."
+                  defaultValue=""
+                  onChange={e => triggerSearchLoad(e.target.value)}
+                  className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded-lg px-3 py-2 text-[10px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)]/50 focus:outline-none focus:border-[var(--color-steel)]"
+                />
+              </div>
+              {/* Bulk action bar */}
+              {selectedSuggestions.size > 0 && (
+                <div className="flex items-center gap-2 mb-3 p-2 bg-[var(--color-steel)]/10 border border-[var(--color-steel)]/20 rounded-lg">
+                  <span className="text-[9px] text-[var(--color-steel)] font-bold">{selectedSuggestions.size} selected</span>
+                  <button onClick={() => batchAction("approve")} disabled={saving} className="text-[8px] px-2 py-1 rounded bg-[var(--color-green)]/15 text-[var(--color-green)] border border-[var(--color-green)]/30 hover:bg-[var(--color-green)]/25 disabled:opacity-50">&#10003; Approve All</button>
+                  <button onClick={() => batchAction("reject")} disabled={saving} className="text-[8px] px-2 py-1 rounded bg-[var(--color-red)]/15 text-[var(--color-red)] border border-[var(--color-red)]/30 hover:bg-[var(--color-red)]/25 disabled:opacity-50">&#10005; Reject All</button>
+                  <button onClick={() => batchAction("defer")} disabled={saving} className="text-[8px] px-2 py-1 rounded text-[var(--color-text-dim)] border border-[var(--color-border)] hover:bg-[var(--color-bg-hover)] disabled:opacity-50">&#9201; Defer All</button>
+                  <button onClick={() => setSelectedSuggestions(new Set())} className="ml-auto text-[8px] text-[var(--color-text-dim)] hover:text-[var(--color-text)]">Clear</button>
+                </div>
+              )}
               {suggestionsStats.total > 0 && (
                 <div className="flex gap-3 mb-3 flex-wrap">
                   {([["all","All","#5b8dce"],["high","High","#ef4444"],["medium","Medium","#f59e0b"],["low","Low","#7a7a86"]] as [string,string,string][]).map(([key,label,color]) => (
@@ -830,6 +887,7 @@ export default function RelationshipsPage() {
                       <div key={s.id} className={`bg-[var(--color-bg-card)] border rounded-lg overflow-hidden ${acted ? "opacity-40" : ""}`} style={{ borderLeftWidth: 3, borderLeftColor: cc, borderColor: "var(--color-border)" }}>
                         <div className="flex items-center justify-between px-4 py-2 border-b border-[var(--color-border)]">
                           <div className="flex items-center gap-2">
+                            {!acted && <input type="checkbox" checked={selectedSuggestions.has(s.id)} onChange={e => { const next = new Set(selectedSuggestions); e.target.checked ? next.add(s.id) : next.delete(s.id); setSelectedSuggestions(next) }} className="rounded accent-[var(--color-steel)]" />}
                             <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: cc }} />
                             <span className="text-[9px] font-bold uppercase" style={{ color: cc }}>{s.confidence}</span>
                             {s.strategies.map((st: string) => <span key={st} className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)]">{st}</span>)}
@@ -849,8 +907,8 @@ export default function RelationshipsPage() {
                             </span>
                             <span className="text-[11px] font-bold text-[var(--color-text)]">{s.target}</span>
                           </div>
-                          {/* Transparency + Partisan + Dollar meters */}
-                          {s.transparency && s.partisan && (
+                          {/* Transparency + Partisan + Dollar meters (hidden in compact) */}
+                          {!suggestionsCompact && s.transparency && s.partisan && (
                             <div className="flex gap-3 mb-3 flex-wrap">
                               <div className="flex-1 min-w-[200px] bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-2.5">
                                 <div className="flex items-center justify-between mb-1.5">
@@ -905,10 +963,12 @@ export default function RelationshipsPage() {
                               )}
                             </div>
                           )}
-                          <div className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-3 mb-3">
-                            <p className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1.5">Why this connection?</p>
-                            <p className="text-[10px] text-[var(--color-text)] leading-relaxed whitespace-pre-wrap">{s.reasoning}</p>
-                          </div>
+                          {!suggestionsCompact && (
+                            <div className="bg-[var(--color-bg)] border border-[var(--color-border)] rounded p-3 mb-3">
+                              <p className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1.5">Why this connection?</p>
+                              <p className="text-[10px] text-[var(--color-text)] leading-relaxed whitespace-pre-wrap">{s.reasoning}</p>
+                            </div>
+                          )}
                           {/* Notepad */}
                           <div className="mb-2" onClick={e => e.stopPropagation()}>
                             <input
@@ -960,19 +1020,30 @@ export default function RelationshipsPage() {
               {newProfiles.length > 0 && (
                 <div className="mt-6 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
                   <h4 className="text-[10px] uppercase tracking-wider text-[#f59e0b] mb-3">New Profiles Needed <span className="px-1.5 py-0.5 rounded bg-[#f59e0b]/15 text-[8px]">{newProfiles.length}</span></h4>
-                  <p className="text-[9px] text-[var(--color-text-dim)] mb-3">Names appearing frequently but without profiles.</p>
-                  <div className="space-y-2 max-h-48 overflow-y-auto">
-                    {newProfiles.slice(0, 20).map(e => (
-                      <div key={e.name} className="flex items-start gap-3 p-2 rounded bg-[var(--color-bg)] border border-[var(--color-border)]">
+                  <p className="text-[9px] text-[var(--color-text-dim)] mb-3">Names appearing frequently but without profiles. Flag for Research Claude to create.</p>
+                  <div className="space-y-2 max-h-64 overflow-y-auto">
+                    {newProfiles.slice(0, 30).map(e => (
+                      <div key={e.name} className="flex items-start gap-3 p-2 rounded bg-[var(--color-bg)] border border-[var(--color-border)] group">
                         <div className="flex-1">
                           <div className="flex items-center gap-2">
                             <span className="text-[10px] font-bold text-[var(--color-text)]">{e.name}</span>
                             <span className="text-[7px] px-1.5 py-0.5 rounded" style={{ color: e.suggestedType === "politician" ? "#5b8dce" : "#22c55e", backgroundColor: (e.suggestedType === "politician" ? "#5b8dce" : "#22c55e") + "15" }}>{e.suggestedType}</span>
                             <span className="text-[8px] text-[var(--color-text-dim)]">{e.mentions} mentions</span>
                             {e.hasDollarContext && <span className="text-[7px] px-1 rounded bg-[var(--color-green)]/10 text-[var(--color-green)]">$</span>}
+                            {e.hasLeakContext && <span className="text-[7px] px-1 rounded bg-[#ef4444]/10 text-[#ef4444]">leak</span>}
                           </div>
                           <p className="text-[8px] text-[var(--color-text-dim)] mt-1">{e.contexts.slice(0, 2).join(" | ")}</p>
-                          <p className="text-[7px] text-[var(--color-text-dim)] mt-0.5">Mentioned by: {e.mentionedBy.slice(0, 4).join(", ")}</p>
+                          <p className="text-[7px] text-[var(--color-text-dim)] mt-0.5">Mentioned by: {e.mentionedBy.slice(0, 4).join(", ")}{e.mentionedBy.length > 4 ? ` +${e.mentionedBy.length - 4} more` : ""}</p>
+                        </div>
+                        <div className="flex gap-1 opacity-0 group-hover:opacity-100 transition-opacity">
+                          <button onClick={async () => {
+                            try {
+                              await fetch("/api/suggestions", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: `new-profile::${e.name}`, action: "investigate", source: e.name, target: e.name, type: e.suggestedType, reasoning: `Unnamed entity with ${e.mentions} mentions across ${e.mentionedBy.length} profiles. Needs profile creation.` }) })
+                              showToast(`Flagged "${e.name}" for Research Claude`)
+                            } catch { showToast("Failed to flag profile") }
+                          }} className="text-[7px] px-2 py-1 rounded bg-[#a855f7]/15 text-[#a855f7] border border-[#a855f7]/30 hover:bg-[#a855f7]/25 whitespace-nowrap">
+                            &#9888; Flag for Research
+                          </button>
                         </div>
                       </div>
                     ))}

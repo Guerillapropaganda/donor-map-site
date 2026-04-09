@@ -74,6 +74,7 @@ export async function GET(request: Request) {
     const type = url.searchParams.get("type") || "all"
     const partisan = url.searchParams.get("partisan") || "all"
     const sort = url.searchParams.get("sort") || "confidence"
+    const search = url.searchParams.get("search") || ""
     const limit = parseInt(url.searchParams.get("limit") || "30")
     const offset = parseInt(url.searchParams.get("offset") || "0")
 
@@ -100,6 +101,12 @@ export async function GET(request: Request) {
         investigateAt: inv?.flaggedAt,
       }
     })
+
+    // Filter by search term (source or target name)
+    if (search) {
+      const q = search.toLowerCase()
+      discovered = discovered.filter(s => s.source.toLowerCase().includes(q) || s.target.toLowerCase().includes(q))
+    }
 
     // Filter by confidence
     if (confidence !== "all") {
@@ -175,9 +182,18 @@ export async function GET(request: Request) {
     // Paginate
     const page = discovered.slice(offset, offset + limit)
 
+    // Compute action stats from full actions file
+    const actionValues = Object.values(actions)
+    const actionStats = {
+      approved: actionValues.filter(a => a.action === "approve").length,
+      rejected: actionValues.filter(a => a.action === "reject").length,
+      deferred: actionValues.filter(a => a.action === "defer").length,
+    }
+
     return NextResponse.json({
       discovered: page,
       stats: raw.stats || { total: 0, high: 0, medium: 0, low: 0 },
+      actionStats,
       newProfiles: offset === 0 ? (raw.newProfiles || []) : [],
       scannedAt: raw.scannedAt,
       totalFiltered,
@@ -379,7 +395,7 @@ function writeInvestigateAdminNote(queue: Record<string, InvestigateItem>) {
 export async function POST(request: Request) {
   try {
     const body = await request.json()
-    const { id, action, reason, note } = body as { id: string; action: string; reason?: string; note?: string }
+    const { id, action, reason, note, source, target, type: overrideType, reasoning } = body as { id: string; action: string; reason?: string; note?: string; source?: string; target?: string; type?: string; reasoning?: string }
 
     if (!id) return NextResponse.json({ error: "id required" }, { status: 400 })
 
@@ -399,7 +415,7 @@ export async function POST(request: Request) {
     const raw = fs.existsSync(SUGGESTIONS_FILE) ? JSON.parse(fs.readFileSync(SUGGESTIONS_FILE, "utf-8")) : { discovered: [] }
     const suggestion = (raw.discovered || []).find((s: Suggestion) => s.id === id)
 
-    if (!suggestion && action !== "undo") {
+    if (!suggestion && action !== "undo" && action !== "investigate" && action !== "uninvestigate") {
       return NextResponse.json({ error: "Suggestion not found" }, { status: 404 })
     }
 
@@ -407,7 +423,9 @@ export async function POST(request: Request) {
 
     // Handle investigate toggle (manual = urgent priority)
     if (action === "investigate") {
-      addToInvestigateQueue(id, suggestion, "urgent")
+      // Support direct source/target/type for new-profile flags
+      const item = suggestion || { source: source || id, target: target || id, type: overrideType || "unknown", reasoning: reasoning || "" } as Suggestion
+      addToInvestigateQueue(id, item, "urgent")
       return NextResponse.json({ success: true })
     }
 
