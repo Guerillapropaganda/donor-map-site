@@ -24,9 +24,8 @@ related: >-
   Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced
   the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson
   Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master
-  Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[The Silicon Valley
-  Billionaire Donor Map]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate
-  Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]]
+  Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell
+  Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]]
 lobbying-spend: 1684850
 lobbying-filings: 106
 stories: >-
