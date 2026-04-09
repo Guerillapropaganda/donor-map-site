@@ -34,6 +34,7 @@ related: >-
   [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]]
 lobbying-spend: 1684850
 lobbying-filings: 106
+stories: '[[The 2024 Tech Billionaire Network]]'
 ---
 
 
