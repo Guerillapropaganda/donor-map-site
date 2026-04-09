@@ -1,33 +1,33 @@
 ---
-title: "Michael Whatley Master Profile"
+title: Michael Whatley Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: '2026-04-09'
 source-tier: 2
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "North Carolina"
-state-abbr: "NC"
+party: Republican
+chamber: Senate
+state: North Carolina
+state-abbr: NC
 top-donors:
-  - "Consumer Energy Alliance"
-  - "HBW Resources"
-  - "Susan B. Anthony Pro-Life America PAC"
-total-received: "$6,273,539"
-fec-candidate-id: "S6NC00415"
+  - Consumer Energy Alliance
+  - HBW Resources
+  - Susan B. Anthony Pro-Life America PAC
+total-received: '$6,273,539'
+fec-candidate-id: S6NC00415
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 ---
 
 #politician #republican #senate #north-carolina #2026-candidate #oil-lobbyist #trump-aligned
 tags: #republican
 
 related:: [[North Carolina 2026 Senate Race]] [[Michael Whatley Oil and Gas Lobbying History]] Michael Whatley RNC Energy Policy
-donors:: [[Consumer Energy Alliance]] [[HBW Resources]] Republican National Committee NRSC [[Susan B. Anthony Pro-Life America PAC]] Trump Endorsement Network
+donors:: [[Consumer Energy Alliance]] [[HBW Resources]] Republican National Committee NRSC [[Susan B. Anthony Pro-Life America PAC]] Trump Endorsement Network · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]]
 ---
 
 ### Who They Are
