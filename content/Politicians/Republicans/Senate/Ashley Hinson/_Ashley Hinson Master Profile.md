@@ -1,30 +1,34 @@
 ---
-title: "Ashley Hinson Master Profile"
+title: Ashley Hinson Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Iowa"
-state-abbr: "IA"
+party: Republican
+chamber: Senate
+state: Iowa
+state-abbr: IA
 top-donors:
-  - "Senate Leadership Fund"
-  - "Winning for Women PAC"
+  - Senate Leadership Fund
+  - Winning for Women PAC
 govtrack-id: 456816
 bills-sponsored: 26
 bills-cosponsored: 196
-website: "https://hinson.house.gov"
-phone: "202-225-2911"
-fec-candidate-id: "S6IA00314"
+website: 'https://hinson.house.gov'
+phone: 202-225-2911
+fec-candidate-id: S6IA00314
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
+opposes: >-
+  [[UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN
+  AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES
+  AND CANADA)]]
 ---
 
 #politician #republican #senate #iowa #2026-candidate
