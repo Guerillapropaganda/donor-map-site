@@ -36,7 +36,7 @@ The industry's party split has oscillated: Wall Street leaned Republican from 19
 
 Wall Street's political network operates through four channels:
 
-**1. Bundler Networks:** Senior executives at major firms organize fundraising events and "bundle" contributions from colleagues. Goldman Sachs, JPMorgan, and Blackstone bundlers have been among the top fundraisers for every presidential campaign from both parties since 2000. The bundling system converts individual $3,300 maxed-out contributions into six- and seven-figure packages delivered by a single bundler who gains direct access to candidates.
+**1. Bundler Networks:** Senior executives at major firms organize fundraising events and "bundle" contributions from colleagues. [[Goldman Sachs]], JPMorgan, and Blackstone bundlers have been among the top fundraisers for every presidential campaign from both parties since 2000. The bundling system converts individual $3,300 maxed-out contributions into six- and seven-figure packages delivered by a single bundler who gains direct access to candidates.
 
 **2. Trade Associations:** The Securities Industry and Financial Markets Association (SIFMA) spent $7.62 million on lobbying in 2024 — the top lobbying client in the sector. The Investment Company Institute ($5.9M), Managed Funds Association ($4.73M), and firm-level lobbying (Morgan Stanley $5.05M, Apollo $4.48M, Blackstone $2.76M) add layers. These associations coordinate industry-wide positions on regulation while individual firms pursue firm-specific deregulation.
 

@@ -209,7 +209,7 @@ Akin Gump has maintained bipartisan access for over three decades, predating the
 | 2024 | Senate Finance Committee / House Ways & Means | ~$9.2M (tax issue lobbying fees across 68 clients) | Tax policy protection for Business Roundtable, KKR, Bain, Visa, Financial Services Forum | Annual cycle |
 | Jan 2025 | Biden Admin / CFIUS / Commerce Dept | $5.5M+ total (Nippon Steel lobbying fees) | Biden blocks Nippon Steel acquisition of US Steel; Akin Gump pivots to Phase 2 lobbying targeting incoming Trump administration | — |
 | Jun 2025 | White House / Trump (via Verhoff bundling + Ballard) | $3.4M Q1 2025 alone (Verhoff-led) | Trump reverses May 2025; deal approved June 13, CLOSED June 18, 2025 — golden share structure, $14B investment pledge, American CEO | 5 months post-Biden block |
-| 2024 | HHS / FDA / Senate HELP Committee | ~$4.2M (pharma health issue lobbying) | Drug pricing negotiation limitations; PhRMA, Amgen, Abbott maintained pricing power in IRA implementation | Ongoing |
+| 2024 | HHS / FDA / Senate HELP Committee | ~$4.2M (pharma health issue lobbying) | Drug pricing negotiation limitations; [[PhRMA]], Amgen, Abbott maintained pricing power in IRA implementation | Ongoing |
 | 2024 | Senate Commerce / relevant AI committees | OpenAI retainer (undisclosed) | OpenAI positioned for favorable AI regulatory framework ahead of federal AI legislation | Ongoing |
 | 2025 | Congress/Executive (all clients) | $65.4M total billed | Full spectrum: tax, pharma, defense, tech, trade policy outcomes pending | Annual |
 

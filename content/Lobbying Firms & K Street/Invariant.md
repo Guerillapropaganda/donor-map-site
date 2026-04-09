@@ -113,7 +113,7 @@ Invariant's core market position: **the lobbying firm for Silicon Valley compani
 
 #### Cross-Sector
 
-- **Business Roundtable** — listed. The primary trade association for Fortune 500 CEOs lobbying on taxes, regulation, and labor policy.
+- **[[Business Roundtable]]** — listed. The primary trade association for Fortune 500 CEOs lobbying on taxes, regulation, and labor policy.
 - **Accenture** — $320,000 + $160,000 subsidiary Accenture Federal Services. Government tech contracting.
 
 > [!money]

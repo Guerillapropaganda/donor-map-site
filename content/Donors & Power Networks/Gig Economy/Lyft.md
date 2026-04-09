@@ -107,7 +107,7 @@ related: [[_Gavin Newsom Master Profile]] | [[AB5 - Gig Worker Classification]] 
 
 **[[_Gavin Newsom Master Profile|Gavin Newsom]]** — No significant direct contributions to Newsom campaigns identified in available public filings. Like Uber, the relationship operates through structural leverage rather than direct payments.
 
-**Flex Association** — Lyft is a co-founding member of the Flex Association (est. 2021), the post-Prop 22 trade association and lobbying group for the gig economy industry, alongside Uber, [[DoorDash|DoorDash]], Grubhub, HopSkipDrive, Instacart, and Shipt. [Source: The Hill — Tier 2]
+**[[Flex Association]]** — Lyft is a co-founding member of the Flex Association (est. 2021), the post-Prop 22 trade association and lobbying group for the gig economy industry, alongside Uber, [[DoorDash|DoorDash]], Grubhub, HopSkipDrive, Instacart, and Shipt. [Source: The Hill — Tier 2]
 
 **Federal PAC:** Lyft Inc PAC raised $22,469 in the 2023-2024 federal cycle — notably small compared to Uber's operation. Lyft's political spending is concentrated at the California state level. [Source: OpenSecrets — Tier 1]
 

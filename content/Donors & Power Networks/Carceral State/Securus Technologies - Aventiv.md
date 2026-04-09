@@ -85,7 +85,7 @@ The $315M California contract is the countervailing force. Even as rates are reg
 
 ### Enemies / Opposition
 
-**Prison Policy Initiative** — primary research organization documenting prison telecom pricing and its impact on families.
+**[[Prison Policy Initiative]]** — primary research organization documenting prison telecom pricing and its impact on families.
 
 **Worth Rises** — advocacy organization mapping the prison industry, including telecom. Led campaigns against Securus's commission structure.
 

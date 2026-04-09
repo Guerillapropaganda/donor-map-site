@@ -75,7 +75,7 @@ AEI has a **0/5 transparency score** — they have never published a public dono
 The AEI board of trustees is itself a directory of the conservative donor class. From IRS 990 filings (2019–2024):
 
 - **Daniel A. D'Aniello** (Chairman) — Co-founder of The Carlyle Group, one of the world's largest private equity firms with $450 billion AUM and major defense industry investments. Gave $20 million in 2014 — the largest single gift in AEI's history. The AEI headquarters bears his name. Currently chairs both AEI and Carlyle simultaneously.
-- **Harlan Crow** — Real estate billionaire at the center of the Supreme Court ethics scandal. ProPublica documented that Crow provided undisclosed luxury travel, tuition payments, and real estate transactions to Justice [[_Clarence Thomas Master Profile|Thomas]] over two decades while Crow maintained his AEI board seat. Crow's presence on both the AEI board and as a patron of SCOTUS justices represents a direct pipeline from the conservative donor class to judicial outcomes.
+- **[[Harlan Crow]]** — Real estate billionaire at the center of the Supreme Court ethics scandal. ProPublica documented that Crow provided undisclosed luxury travel, tuition payments, and real estate transactions to Justice [[_Clarence Thomas Master Profile|Thomas]] over two decades while Crow maintained his AEI board seat. Crow's presence on both the AEI board and as a patron of SCOTUS justices represents a direct pipeline from the conservative donor class to judicial outcomes.
 - **Richard B. Cheney** — Former Vice President of the United States, on the board during his post-VP years. [[_Dick Cheney Master Profile|Cheney]] was an AEI fellow both before and after serving as VP, and his chief of staff, multiple administration officials, and policy aides rotated through AEI.
 - **Kimberly O. Dennis** — Chair of the Searle Freedom Trust and board member of [[DonorsTrust]] — the "dark money ATM of the right." Her simultaneous presence on AEI's board and DonorsTrust's board confirms the institutional linkage between the donor-anonymizing vehicle and the policy shop it funds.
 - **Dick DeVos / Richard DeVos** — DeVos family (Amway fortune), which gave $1 million in 2017. The DeVos family's political network spans school privatization advocacy, which overlaps directly with AEI's education policy research agenda.
@@ -114,7 +114,7 @@ DonorsTrust allows donors to route money to conservative causes without their na
 
 ### 2009 Donor Concentration:
 
-AEI's 2009 tax year disclosure documented extreme donor concentration — its four largest funders were: a **donor-advised fund** ($2 million from Donors Capital Fund), **Paul Singer** ($1.1 million), the **Kern Family Foundation** ($1.07 million), and the **Taipei Economic and Cultural Representative Office** (Taiwan's de facto embassy). The seventh largest was the **US Chamber of Commerce** ($473,000). In 2010, AEI received a single $2.5 million grant from Donors Capital Fund.
+AEI's 2009 tax year disclosure documented extreme donor concentration — its four largest funders were: a **donor-advised fund** ($2 million from Donors Capital Fund), **[[Paul Singer]]** ($1.1 million), the **Kern Family Foundation** ($1.07 million), and the **Taipei Economic and Cultural Representative Office** (Taiwan's de facto embassy). The seventh largest was the **[[US Chamber of Commerce]]** ($473,000). In 2010, AEI received a single $2.5 million grant from Donors Capital Fund.
 
 ### Financial Sector Donors:
 
@@ -240,7 +240,7 @@ The alignment between D'Aniello's Carlyle Group — which directly profits from 
 
 ### Crow Holdings and Political Power:
 
-**Harlan Crow**, the Dallas-based real estate billionaire, serves as a **director at AEI**. Crow is chairman and CEO of **Crow Holdings**, a private family real estate firm managing approximately $29 billion in assets, with holdings in residential real estate, commercial properties, warehouses, and student housing.
+**[[Harlan Crow]]**, the Dallas-based real estate billionaire, serves as a **director at AEI**. Crow is chairman and CEO of **Crow Holdings**, a private family real estate firm managing approximately $29 billion in assets, with holdings in residential real estate, commercial properties, warehouses, and student housing.
 
 ### The Thomas Patronage Network:
 

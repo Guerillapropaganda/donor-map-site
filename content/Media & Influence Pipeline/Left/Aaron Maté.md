@@ -33,7 +33,7 @@ The FEC API returns 0 results for "MATE, AARON" — confirmed no contributions, 
 
 Maté's income sources combine precarity and independence:
 
-1. **The Grayzone** — Patreon-funded outlet; Maté receives salary from Patreon revenue pool (shared among staff: Max Blumenthal, Anya Parampil, Wyatt Reed, Dan Cohen, others)
+1. **[[The Grayzone]]** — Patreon-funded outlet; Maté receives salary from Patreon revenue pool (shared among staff: Max Blumenthal, Anya Parampil, Wyatt Reed, Dan Cohen, others)
 2. **Patreon direct** — Personal Patreon account separate from Grayzone; $1-$100/month tiers from individual subscribers
 3. **Useful Idiots podcast** — Co-hosted with Katie Halper; Patreon-funded ($3,830-$19,150 monthly based on 2020 data); revenue split between co-hosts
 4. **Speaking engagements** — Anti-war conferences, progressive organizations, university events

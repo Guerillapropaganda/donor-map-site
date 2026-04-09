@@ -51,7 +51,7 @@ related: [[The NLRB Gutting and the Biggest Union Bust in American History]] [[_
 
 Amazon is the second-largest private employer in the United States and operates one of the most sophisticated political influence machines in corporate America. The company runs three parallel operations: a bipartisan PAC ($799K to 228 lawmakers in 2024), a $19-21 million annual lobbying machine (top 2-3 corporate spenders nationally), and a $14.2 million annual anti-union consulting operation.
 
-Jeff Bezos — founder, executive chairman, and Washington Post owner — adds a fourth dimension. His personal political activity ($1M to Trump's 2025 inaugural fund), Blue Origin's government contracts ($3.4B NASA Artemis), and his engineering of the Post's 2024 non-endorsement of Harris create a web of conflicts that Bezos himself acknowledged: "When it comes to appearance of conflict, I am not an ideal owner of The Post."
+[[Jeff Bezos]] — founder, executive chairman, and Washington Post owner — adds a fourth dimension. His personal political activity ($1M to Trump's 2025 inaugural fund), Blue Origin's government contracts ($3.4B NASA Artemis), and his engineering of the Post's 2024 non-endorsement of Harris create a web of conflicts that Bezos himself acknowledged: "When it comes to appearance of conflict, I am not an ideal owner of The Post."
 
 Amazon Web Services (AWS) holds some of the most sensitive government contracts in existence — a $600 million CIA cloud contract, a $10 billion secret NSA contract, and a share of the $9 billion Pentagon JWCC cloud deal. The company's political spending isn't about ideology. It's about protecting a business model that depends on government contracts, labor cost suppression, and regulatory forbearance.
 
@@ -291,11 +291,11 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Agriculture** → Funds **Amy Klobuchar** → Sits on **Agriculture**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Amy Klobuchar** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Amy Klobuchar** → Sits on **Judiciary**
-- Lobbies on **Immigration** → Funds **Amy Klobuchar** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Immigration** → Funds **Amy Klobuchar** → Sits on **Judiciary**
+- Lobbies on **Agriculture** → Funds **[[Amy Klobuchar]]** → Sits on **Agriculture**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[Amy Klobuchar]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[Amy Klobuchar]]** → Sits on **Judiciary**
+- Lobbies on **Immigration** → Funds **[[Amy Klobuchar]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Immigration** → Funds **[[Amy Klobuchar]]** → Sits on **Judiciary**
 
 **Funded politicians:**
 

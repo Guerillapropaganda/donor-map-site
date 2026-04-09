@@ -48,7 +48,7 @@ McCaskill attracted $31.6M in outside opposition spending; Hawley attracted $39.
 Hawley ran as an anti-establishment populist fighting for Missouri's working class. His campaign was bankrolled by:
 
 - **McConnell's dark money empire** (SLF + One Nation: Wall Street funded)
-- **Koch network** (fossil fuels, deregulation)
+- **[[Koch network]]** (fossil fuels, deregulation)
 - **NRA** (gun industry)
 - **Corporate PACs** (pre-J6): AT&T, FedEx, Citigroup
 

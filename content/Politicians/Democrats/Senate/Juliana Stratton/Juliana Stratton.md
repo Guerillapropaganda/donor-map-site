@@ -49,7 +49,7 @@ The contradiction: she claims to reject corporate influence while accepting bill
 - **Sports team owners**: Chicago Bulls/White Sox ownership interests (family wealth donors)
 
 ### Third Tier: Super PAC Infrastructure
-- **Illinois Future PAC**: $14.9M spent on ads supporting Stratton and attacking Krishnamoorthi in primary (operated by Pritzker operative Quentin Fulks)
+- **[[Illinois Future PAC]]**: $14.9M spent on ads supporting Stratton and attacking Krishnamoorthi in primary (operated by Pritzker operative Quentin Fulks)
 - **Level Up PAC**: Stratton's personal Super PAC, raised corporate contributions ($46k corporations, $5k corporate PACs)
 - **Unnamed AIPAC-linked Super PAC**: $9.8M spent against Stratton (her opposition)
 

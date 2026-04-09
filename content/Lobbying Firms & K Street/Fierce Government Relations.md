@@ -45,7 +45,7 @@ Fierce's 2025 client roster of 25 entities is concentrated in tech, telecom, hea
 - **American Television Alliance** — $200,000 (media coalition)
 
 #### Healthcare & Pharma
-- **Apollo Global Management** — $240,000 (via hospitals/nursing homes portfolio)
+- **[[Apollo Global Management]]** — $240,000 (via hospitals/nursing homes portfolio)
 - **Association for Accessible Medicines** — $240,000 (generic drug industry)
 - **Campaign for Tobacco-Free Kids** — $200,000 (tobacco policy)
 
@@ -55,7 +55,7 @@ Fierce's 2025 client roster of 25 entities is concentrated in tech, telecom, hea
 - **Cleaner Economy Coalition** — $30,000 (energy/environment)
 
 #### Trade & Industry Associations
-- **Business Roundtable** — $240,000 (Fortune 500 CEO association)
+- **[[Business Roundtable]]** — $240,000 (Fortune 500 CEO association)
 - **American Forest & Paper Assn** — $200,000 (forest products)
 - **American Gaming Assn** — $200,000 (casinos/gambling)
 - **American Hotel & Lodging Assn** — $190,000 (hospitality)
@@ -70,7 +70,7 @@ Fierce's 2025 client roster of 25 entities is concentrated in tech, telecom, hea
 #### Misc
 - **Delta Air Lines** — $320,000 (air transport)
 - **Action Now Initiative** — $160,000 (miscellaneous)
-- **Bipartisan Policy Center** — $50,000 (think tank)
+- **[[Bipartisan Policy Center]]** — $50,000 (think tank)
 - **Cultural Care Au Pair** — $140,000 (education)
 - **Federal City Council** — $80,000 (DC civic organization)
 
@@ -131,7 +131,7 @@ Fierce Government Relations delivers Republican executive branch access and tax/
 
 - **Telecom & Tech:** The Energy and Commerce Committee relationships from Chappell (Pickering's E&C staffer) feed the telecom practice. Charter Communications and Comcast are both major telecom clients, and Apple and Cisco have significant tech policy needs. The American Television Alliance represents the firm's media policy work.
 
-- **AI Policy — The Anthropic-Pentagon Crisis (2025–2026):** Anthropic's $40,000 engagement with Fierce became dramatically more significant in early 2026 when the AI company collided with the Trump Pentagon. Fierce is handling Anthropic's lobbying on America's AI Action Plan, AI safety and governance, national security, export controls, energy generation and permitting, and infrastructure — exactly the issues that exploded in February 2026. On **February 24, 2026**, Defense Secretary **Pete Hegseth** demanded that Anthropic CEO Dario Amodei sign a document granting the military unrestricted access to Anthropic's AI models for "all lawful purposes." Anthropic refused, maintaining two redlines: no autonomous weapons and no mass surveillance of U.S. citizens. On **February 27**, Trump directed federal agencies to cease using Anthropic's products, and Hegseth designated the company a **supply chain risk** — a classification normally reserved for foreign adversaries. Anthropic sued in federal court, and on **March 26, 2026**, U.S. District Judge Rita Lin **blocked the Pentagon's designation**, ruling it "Orwellian" to brand an American company a saboteur for disagreeing with the government. Fierce's Republican insider access — particularly Vreeburg's Trump NSC background and Clifton's Trump White House Operations role — is now the most strategically valuable piece of Anthropic's multi-firm lobbying portfolio. When your client is at war with a Republican Pentagon, you need Republicans who can navigate the internal power structure. That is exactly what Fierce sells.
+- **AI Policy — The Anthropic-Pentagon Crisis (2025–2026):** Anthropic's $40,000 engagement with Fierce became dramatically more significant in early 2026 when the AI company collided with the Trump Pentagon. Fierce is handling Anthropic's lobbying on America's AI Action Plan, AI safety and governance, national security, export controls, energy generation and permitting, and infrastructure — exactly the issues that exploded in February 2026. On **February 24, 2026**, Defense Secretary **[[Pete Hegseth]]** demanded that Anthropic CEO Dario Amodei sign a document granting the military unrestricted access to Anthropic's AI models for "all lawful purposes." Anthropic refused, maintaining two redlines: no autonomous weapons and no mass surveillance of U.S. citizens. On **February 27**, Trump directed federal agencies to cease using Anthropic's products, and Hegseth designated the company a **supply chain risk** — a classification normally reserved for foreign adversaries. Anthropic sued in federal court, and on **March 26, 2026**, U.S. District Judge Rita Lin **blocked the Pentagon's designation**, ruling it "Orwellian" to brand an American company a saboteur for disagreeing with the government. Fierce's Republican insider access — particularly Vreeburg's Trump NSC background and Clifton's Trump White House Operations role — is now the most strategically valuable piece of Anthropic's multi-firm lobbying portfolio. When your client is at war with a Republican Pentagon, you need Republicans who can navigate the internal power structure. That is exactly what Fierce sells.
 
 ### The Anthropic Contradiction
 

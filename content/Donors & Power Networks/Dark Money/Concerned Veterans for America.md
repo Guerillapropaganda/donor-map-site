@@ -46,7 +46,7 @@ related: [[Koch Network - Charles Koch]] [[_Pete Hegseth Master Profile|Hegseth]
 
 ### Who They Are
 
-Concerned Veterans for America (CVA) is the Koch network's purpose-built political operation targeting veterans' healthcare for privatization. Founded in 2011 as "Vets for Economic Freedom Trust" with $2 million in seed funding from Koch-affiliated donors. Rebranded to CVA shortly after formation. Pete Hegseth — now Trump's Secretary of Defense — served as its first CEO and executive director (2011-2016).
+Concerned Veterans for America (CVA) is the Koch network's purpose-built political operation targeting veterans' healthcare for privatization. Founded in 2011 as "Vets for Economic Freedom Trust" with $2 million in seed funding from Koch-affiliated donors. Rebranded to CVA shortly after formation. [[Pete Hegseth]] — now Trump's Secretary of Defense — served as its first CEO and executive director (2011-2016).
 
 **Funding structure:** From 2012-2014, CVA received over $20 million from Freedom Partners Chamber of Commerce — described by Politico as "the Koch brothers' secret bank." In 2015 alone, CVA received nearly $16 million in contributions, with $14 million coming directly from Freedom Partners. By 2016 (Hegseth's final year), the organization raised $15.9 million and spent $16.4 million.
 

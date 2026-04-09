@@ -58,7 +58,7 @@ The Freedom Caucus funding model is distinct from traditional congressional PACs
 
 ### Key funding ecosystem:
 - **House Freedom Fund** (C00552851): The caucus's official PAC. $2.3M raised in 2024 cycle. Top recipients: Scott Perry ($237K), Eli Crane ($200K), Anna Paulina Luna ($188K), Lauren Boebert ($162K), Bob Good ($136K).
-- **Club for Growth**: The conservative anti-tax organization whose PAC endorses Freedom Caucus-aligned candidates and spends heavily in primaries. Largest funders include billionaires Jeff Yass and Richard Uihlein. Club for Growth raised $55M in the 2020 cycle alone and has been a primary funder of candidates who join the caucus after election.
+- **[[Club for Growth]]**: The conservative anti-tax organization whose PAC endorses Freedom Caucus-aligned candidates and spends heavily in primaries. Largest funders include billionaires Jeff Yass and Richard Uihlein. Club for Growth raised $55M in the 2020 cycle alone and has been a primary funder of candidates who join the caucus after election.
 - **Heritage Action for America**: The lobbying arm of the Heritage Foundation, which publishes congressional scorecards rating members on conservative votes. Heritage Action scores function as donor signals — a low score triggers primary challenge funding from the conservative donor network.
 - **Koch-aligned infrastructure**: Americans for Prosperity and Koch-connected donor networks have historically supported Freedom Caucus members, though the relationship has been complicated by disagreements over Ukraine funding and trade policy.
 

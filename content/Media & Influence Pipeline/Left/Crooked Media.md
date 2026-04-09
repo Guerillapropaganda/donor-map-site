@@ -19,7 +19,7 @@ related: "[[Open Society Foundations]] · [[Democratic National Committee]] · [
 
 Crooked Media is a Democratic Party media operation founded in January 2017 by three Obama White House communications veterans: **Jon Favreau** (Director of Speechwriting 2005-2013), **Jon Lovett** (Presidential Speechwriter), and **Tommy Vietor** (NSC Spokesman 2011-2012). **Dan Pfeiffer** (Obama's Senior Advisor for Strategy and Communications) co-hosts. The company was explicitly designed to function as "for Democrats what Fox News is for Republicans" — a 24/7 messaging apparatus for party establishment talking points.
 
-Flagship product: **Pod Save America**, launched Jan 2017, ~1.5M listeners per episode. The network expanded to 25+ podcasts including Pod Save the People, Pod Save the World, Keep It, and Lovett or Leave It. YouTube channel: 1.2M subscribers. Revenue estimated $20-32M annually from podcast advertising, "Friends of the Pod" subscriber base (35K+ paid subscribers at $9.99/month), live touring, and merchandise.
+Flagship product: **[[Pod Save America]]**, launched Jan 2017, ~1.5M listeners per episode. The network expanded to 25+ podcasts including Pod Save the People, Pod Save the World, Keep It, and Lovett or Leave It. YouTube channel: 1.2M subscribers. Revenue estimated $20-32M annually from podcast advertising, "Friends of the Pod" subscriber base (35K+ paid subscribers at $9.99/month), live touring, and merchandise.
 
 Vote Save America, the super PAC affiliate, raised $32M in Q3 2020 directed to Democratic candidates and causes.
 

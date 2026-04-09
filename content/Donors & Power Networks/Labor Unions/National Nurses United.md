@@ -176,7 +176,7 @@ National Nurses United represents class analysis embedded within labor organizin
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Veterans** → Funds **Mark Takano** → Sits on **Veterans' Affairs**
+- Lobbies on **Veterans** → Funds **[[Mark Takano]]** → Sits on **Veterans' Affairs**
 
 **Funded politicians:**
 
@@ -202,7 +202,7 @@ National Nurses United represents class analysis embedded within labor organizin
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Veterans** → Funds **Mark Takano** → Sits on **Veterans' Affairs**
+- Lobbies on **Veterans** → Funds **[[Mark Takano]]** → Sits on **Veterans' Affairs**
 
 **Funded politicians:**
 

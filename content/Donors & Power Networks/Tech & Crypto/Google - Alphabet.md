@@ -134,7 +134,7 @@ Google held 212 total meetings with EU Commission officials during the Juncker a
 Alphabet supports 368 trade associations, social welfare groups, and nonprofits (as of 2022 disclosure) but does not disclose the dollar amounts paid to them. Key members include:
 
 - **U.S. Chamber of Commerce** — spent over $1.2-$2.2 billion on lobbying since 1998
-- **Business Roundtable**
+- **[[Business Roundtable]]**
 - **NetChoice** — Google's primary vehicle for opposing state tech regulation
 - **Computer & Communications Industry Association (CCIA)** — received $7 million from Google in Q3 2024 alone for California lobbying
 - **Competitive Enterprise Institute (CEI)**

@@ -105,7 +105,7 @@ Organized by sector, based on 2024 OpenSecrets lobbying disclosure data:
 - **Front Line Hospital Alliance** — disclosed
 - **Denver Health & Hospital Authority** — disclosed
 - **Lurie Children's Hospital** — disclosed
-- **Novo Nordisk** — disclosed (GLP-1/diabetes drugs)
+- **[[Novo Nordisk]]** — disclosed (GLP-1/diabetes drugs)
 - **Viatris Inc** — disclosed (generic pharmaceuticals)
 - **Alkermes** — disclosed (addiction/psychiatric drugs)
 - **Alliance for Regenerative Medicine** — $120,000
@@ -120,7 +120,7 @@ Organized by sector, based on 2024 OpenSecrets lobbying disclosure data:
 
 #### Energy / Environment
 
-- **Occidental Petroleum** — disclosed (oil and gas)
+- **[[Occidental Petroleum]]** — disclosed (oil and gas)
 - **Advanced Biofuels Assn** — $270,000
 - **Aetherflux Inc** — $100,000 (space-based solar energy)
 - **Gulf Energy Alliance** — disclosed
@@ -149,7 +149,7 @@ Holland & Knight's lobbying practice is built on what the firm openly calls its 
 
 **Nasim Fussell** — Former Senate Finance Committee Chief International Trade Counsel, advising Chairman Chuck Grassley (R-UT) on USMCA, US-Japan Trade Agreement, China Phase One Agreement, and WTO reform. Joined Holland & Knight in September 2020 to lobby on trade, international, and customs policy. Left Holland & Knight in April 2023 for Lot Sixteen (PR/lobbying firm). The 3-year window she spent at H&K directly monetized her committee relationships during the most consequential trade policy period in decades.
 
-**Yasmin Nelson** — Former senior aide to three Senate Democrats: Senate Finance Committee (under Ranking Member Ron Wyden), Sen. Debbie Stabenow, and Sen. Cory Booker. Named top lobbyist in 2022 by The Hill and the National Institute for Lobbying & Ethics. Joined Holland & Knight in September 2023. Provides direct Senate Finance Democratic access — complementing Armstrong's Republican access — allowing H&K to work both sides of tax and healthcare legislation simultaneously.
+**Yasmin Nelson** — Former senior aide to three Senate Democrats: Senate Finance Committee (under Ranking Member Ron Wyden), Sen. [[Debbie Stabenow]], and Sen. Cory Booker. Named top lobbyist in 2022 by The Hill and the National Institute for Lobbying & Ethics. Joined Holland & Knight in September 2023. Provides direct Senate Finance Democratic access — complementing Armstrong's Republican access — allowing H&K to work both sides of tax and healthcare legislation simultaneously.
 
 **Ed Perlmutter** — Former U.S. Representative (D-CO, 7th district, 8 terms, 2007–2023). Original sponsor of the SAFE Banking Act. Joined Holland & Knight in 2023 upon retirement and immediately took the National Cannabis Roundtable as his primary client — lobbying the Senate to pass the SAFER Banking Act, a bill he spent his entire congressional career championing. The revolving door completed: Perlmutter spent 8 terms building the relationships and expertise to pass cannabis banking reform, then monetized that expertise the year he left Congress.
 

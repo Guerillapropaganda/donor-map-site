@@ -150,9 +150,9 @@ This is why BHFS can charge $73.8 million per year: clients are buying bipartisa
 
 The ROI math for BHFS clients:
 
-**Apollo Global Management** pays BHFS for lobbying across multiple subsidiaries — the parent company, Athene Holding (insurance), Lifepoint Health (hospitals), and University of Phoenix (for-profit education). Apollo's total BHFS billing likely exceeds $500K annually across entities. In return, Apollo gets Nadeam Elshami — the former Speaker's Chief of Staff — personally lobbying on its behalf across healthcare, education, and financial regulation.
+**[[Apollo Global Management]]** pays BHFS for lobbying across multiple subsidiaries — the parent company, Athene Holding (insurance), Lifepoint Health (hospitals), and University of Phoenix (for-profit education). Apollo's total BHFS billing likely exceeds $500K annually across entities. In return, Apollo gets Nadeam Elshami — the former Speaker's Chief of Staff — personally lobbying on its behalf across healthcare, education, and financial regulation.
 
-**American Petroleum Institute** pays BHFS alongside its own in-house lobbying operation. API gets access to BHFS's revolving door network at Interior, EPA, and the energy committees — the same offices that Bernhardt and other former government employees used to work in.
+**[[American Petroleum Institute]]** pays BHFS alongside its own in-house lobbying operation. API gets access to BHFS's revolving door network at Interior, EPA, and the energy committees — the same offices that Bernhardt and other former government employees used to work in.
 
 **Saudi Arabia** has paid BHFS more than $4 million since 2016 — $500K (2017), $1.8M (2018), $1.5M (2019), $1.35M (2021) — with ongoing representation at ~$900K/year in 2025. BHFS refused to cut ties after the Khashoggi murder, the Colorado Sun reported, even as other lobbying firms dropped their Saudi accounts. In December 2018, managing partner Marc Lampkin sought and obtained a White House meeting on the Saudi account — two months after the murder. In 2024, BHFS expanded the Saudi relationship by adding NEOM's Tonomus technology subsidiary as a second FARA client ($40K/month). BHFS is now one of five firms registered as agents of the Saudi Public Investment Fund.
 

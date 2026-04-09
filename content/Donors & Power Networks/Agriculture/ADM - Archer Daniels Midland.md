@@ -108,7 +108,7 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Immigration** → Funds **Dick Durbin** → Sits on **Judiciary**
+- Lobbies on **Immigration** → Funds **[[Dick Durbin]]** → Sits on **Judiciary**
 
 **Funded politicians:**
 

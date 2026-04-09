@@ -95,7 +95,7 @@ CAFOs are environmental and animal welfare disasters. They create:
 Small family farm operations do not operate CAFOs. CAFOs are exclusively large-scale industrial agriculture. Ernst's opposition to CAFO regulation serves multinational meatpacking corporations, not family farmers.
 
 ### Agricultural Input Companies:
-John Deere, Bayer/Monsanto, fertilizer manufacturers, and other agricultural input suppliers benefit from Ernst's opposition to regulation and her support for subsidy structures. These are multinational corporations, not family farm allies.
+[[John Deere]], Bayer/Monsanto, fertilizer manufacturers, and other agricultural input suppliers benefit from Ernst's opposition to regulation and her support for subsidy structures. These are multinational corporations, not family farm allies.
 
 ---
 

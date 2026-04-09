@@ -51,18 +51,18 @@ Silicon Valley's political spending operates through four channels: mega-donor i
 
 The 2024 cycle's most significant development was the emergence of tech billionaires as the Republican Party's largest donor class:
 
-- **Elon Musk** — $291M+ to Republican candidates and PACs, primarily through America PAC ($239M). The single largest individual political donor in the 2024 cycle.
+- **[[Elon Musk]]** — $291M+ to Republican candidates and PACs, primarily through America PAC ($239M). The single largest individual political donor in the 2024 cycle.
 - **Marc Andreessen & Ben Horowitz** — $2.5M each to pro-Trump Super PACs, plus $844,600 (federal maximum) to Trump campaign and RNC. Endorsed Trump on their podcast.
-- **David Sacks** — Hosted Trump fundraiser that raised $12M+. Appointed White House AI & Crypto Czar in January 2025.
-- **Peter Thiel** — $15M to Republican PACs in Ohio and Arizona (2022 cycle backing Vance and Masters); claimed to sit out 2024 but his network (Vance, Sacks, Musk) delivered Silicon Valley to Trump.
+- **[[David Sacks]]** — Hosted Trump fundraiser that raised $12M+. Appointed White House AI & Crypto Czar in January 2025.
+- **[[Peter Thiel]]** — $15M to Republican PACs in Ohio and Arizona (2022 cycle backing Vance and Masters); claimed to sit out 2024 but his network (Vance, Sacks, Musk) delivered Silicon Valley to Trump.
 - **Fairshake PAC ecosystem** — $260M raised, the largest corporate-aligned Super PAC of 2024, targeting crypto-skeptical candidates in both parties.
 
 #### The Democratic Establishment
 
-- **Reid Hoffman** — $10M+ to Future Forward PAC (pro-Harris); remained the Democratic Party's largest Silicon Valley donor. Total 2024 outside spending among the top individual donors nationally.
-- **Reed Hastings** — Major Democratic donor through multiple committees.
-- **Laurene Powell Jobs** — Continued Democratic giving through Emerson Collective-aligned vehicles.
-- **Dustin Moskovitz** — Major Democratic donor through Open Philanthropy-aligned giving.
+- **[[Reid Hoffman]]** — $10M+ to Future Forward PAC (pro-Harris); remained the Democratic Party's largest Silicon Valley donor. Total 2024 outside spending among the top individual donors nationally.
+- **[[Reed Hastings]]** — Major Democratic donor through multiple committees.
+- **[[Laurene Powell Jobs]]** — Continued Democratic giving through Emerson Collective-aligned vehicles.
+- **[[Dustin Moskovitz]]** — Major Democratic donor through Open Philanthropy-aligned giving.
 
 #### Corporate Lobbying
 

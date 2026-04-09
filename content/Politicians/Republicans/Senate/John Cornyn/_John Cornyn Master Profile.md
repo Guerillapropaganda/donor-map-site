@@ -232,12 +232,12 @@ content-readiness:: developed
 
 **Donate → Lobby → Committee chains:**
 
-- **US Chamber of Commerce** donates → Lobbies on **Banking** → This member sits on **Finance**
-- **US Chamber of Commerce** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
-- **US Chamber of Commerce** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
-- **US Chamber of Commerce** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
-- **US Chamber of Commerce** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
-- **US Chamber of Commerce** donates → Lobbies on **Medicare/Medicaid** → This member sits on **Finance**
+- **[[US Chamber of Commerce]]** donates → Lobbies on **Banking** → This member sits on **Finance**
+- **[[US Chamber of Commerce]]** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
+- **[[US Chamber of Commerce]]** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
+- **[[US Chamber of Commerce]]** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
+- **[[US Chamber of Commerce]]** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
+- **[[US Chamber of Commerce]]** donates → Lobbies on **Medicare/Medicaid** → This member sits on **Finance**
 
 **Donors who lobby (by spend):**
 

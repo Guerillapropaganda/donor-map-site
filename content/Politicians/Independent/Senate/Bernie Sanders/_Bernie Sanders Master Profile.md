@@ -78,7 +78,7 @@ S.1129 with 16 co-sponsors who all retreated. Harris, Warren, Booker co-sponsore
 $126.9M AIPAC combined 2024 spending. Bowman unseated ($14.5M). Bush unseated ($8.6M). The disciplinary mechanism: spend $23M on two races, self-censorship across the entire caucus. Sanders is safe (Vermont, small-dollar). His allies are not.
 
 **Senate Labor Record and Anti-DOGE Resistance:** [[Senate Labor Record and Anti-DOGE Resistance]]
-Budget Committee: Amazon investigation, Walmart $6.2B taxpayer subsidy, Raise the Wage Act. PRO Act co-sponsorship (dead via filibuster). Koch network $548M funding the senators who block labor reform. Anti-DOGE: 1,400+ "Hands Off!" rallies, 600K+ RSVPs. At 84, still the most effective opposition voice.
+Budget Committee: Amazon investigation, Walmart $6.2B taxpayer subsidy, Raise the Wage Act. PRO Act co-sponsorship (dead via filibuster). [[Koch network]] $548M funding the senators who block labor reform. Anti-DOGE: 1,400+ "Hands Off!" rallies, 600K+ RSVPs. At 84, still the most effective opposition voice.
 
 ---
 

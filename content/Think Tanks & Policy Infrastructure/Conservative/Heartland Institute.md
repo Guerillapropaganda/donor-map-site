@@ -59,7 +59,7 @@ Heartland's funding model is the most exposed in the think tank ecosystem, thank
 
 **Philip Morris / tobacco industry** — Historical funding through the 1990s. A Philip Morris executive, Roy Marden (manager of industrial affairs), served on Heartland's board. Bast solicited Philip Morris in 1999, writing that Heartland does many things that benefit the company's interests.
 
-**Koch network** — Heartland denies being "funded by the Koch Brothers" but acknowledges a $25,000 donation from the Charles G. Koch Charitable Foundation in 2012. The real Koch connection runs through DonorsTrust/Donors Capital Fund, which serves as the Koch network's anonymized giving vehicle.
+**[[Koch network]]** — Heartland denies being "funded by the Koch Brothers" but acknowledges a $25,000 donation from the Charles G. Koch Charitable Foundation in 2012. The real Koch connection runs through DonorsTrust/Donors Capital Fund, which serves as the Koch network's anonymized giving vehicle.
 
 **Anonymous mega-donor** — Per the 2012 leaked documents, a single anonymous donor contributed at least $7.2 million between 2008 and 2011. This donor's identity has never been publicly confirmed but represented a massive share of Heartland's budget during those years.
 

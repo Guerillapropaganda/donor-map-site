@@ -68,7 +68,7 @@ The sequence suggests strategic alignment: Yass's business interests (TikTok Ame
 ---
 
 ### Ross Stevens: The Bitcoin Infrastructure Builder
-Ross Stevens — founder and CEO of Stone Ridge Holdings Group ($20+ billion assets under management) — contributed $5 million to Ramaswamy's super PAC in spring 2025.
+[[Ross Stevens]] — founder and CEO of Stone Ridge Holdings Group ($20+ billion assets under management) — contributed $5 million to Ramaswamy's super PAC in spring 2025.
 
 | Element | Detail |
 |---------|--------|
@@ -92,7 +92,7 @@ Stevens's interest in Ramaswamy is explicit: Ohio governor position could positi
 | Acton | D | $5.3M | 70% Ohio residents, small-dollar | $3.0M | Median $28 |
 | Fundraising ratio | - | **3.7:1 Ramaswamy advantage** | Fundamentally different | - | **2.7:1 difference** |
 
-Amy Acton — former Ohio health director during COVID-19, public health official with media recognition — has built a structurally different campaign:
+[[Amy Acton]] — former Ohio health director during COVID-19, public health official with media recognition — has built a structurally different campaign:
 
 - **Geographic origin:** 70% of contributions from Ohio residents (vs. Ramaswamy's money from PA/NY billionaires)
 - **Donor size:** 96% of contributions $100 or less (vs. Ramaswamy's average $76 concealing massive super PAC dependence)

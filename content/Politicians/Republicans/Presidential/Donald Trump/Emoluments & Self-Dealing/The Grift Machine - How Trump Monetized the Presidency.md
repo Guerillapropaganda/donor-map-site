@@ -59,7 +59,7 @@ The valuation premium is pure extraction: public shareholders buy stock treating
 
 ### The Sacks/WLFI Pipeline and Regulatory Capture
 
-David Sacks, Trump's crypto czar, holds significant cryptocurrency holdings while shaping regulatory policy affecting the entire industry. He left his venture capital role specifically to join the administration with the mandate to eliminate crypto regulation.
+[[David Sacks]], Trump's crypto czar, holds significant cryptocurrency holdings while shaping regulatory policy affecting the entire industry. He left his venture capital role specifically to join the administration with the mandate to eliminate crypto regulation.
 
 World Liberty Financial incorporates Sacks into its structure while he simultaneously holds power to regulate competing ventures. The conflict of interest is total: Sacks profits directly from favorable regulation he implements.
 

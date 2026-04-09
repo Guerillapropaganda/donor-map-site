@@ -17,7 +17,7 @@ donors: [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[Koch Industries]]
 
 ### The Military-Agriculture Dual Brand
 
-Joni Ernst — a retired Iowa National Guard lieutenant colonel — built her Senate career on two identity pillars: combat veteran and Iowa farmer. The military identity gives her credibility on defense and veterans issues. The agricultural identity anchors her to Iowa's dominant economic sector. Together they create a brand nearly immune to donor-class critique: who challenges a war hero who grew up castrating hogs?
+[[Joni Ernst]] — a retired Iowa National Guard lieutenant colonel — built her Senate career on two identity pillars: combat veteran and Iowa farmer. The military identity gives her credibility on defense and veterans issues. The agricultural identity anchors her to Iowa's dominant economic sector. Together they create a brand nearly immune to donor-class critique: who challenges a war hero who grew up castrating hogs?
 
 Ernst serves on both the Armed Services Committee and the Agriculture Committee — the two panels that deliver the most federal resources to Iowa. Her Armed Services seat gives her influence over defense appropriations and military policy, which she uses to advocate for Iowa military installations (Iowa Army Ammunition Plant, Camp Dodge, National Guard infrastructure). Her Agriculture Committee seat gives her direct jurisdiction over the Farm Bill, ethanol mandates, crop insurance, and commodity programs — the subsidy architecture that sustains Iowa's $30B+ agricultural economy.
 

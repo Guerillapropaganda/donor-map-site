@@ -185,8 +185,8 @@ This investigation surfaces entities that need their own vault nodes:
 
 1. **US-Cuba Democracy PAC** — Needs a dedicated donor node. $10.77M over 7 years, 18 documented congressional vote shifts, bipartisan recipient list. Currently referenced but not profiled.
 2. **Cuban American National Foundation (CANF)** — Only exists inside the MasTec file. Deserves standalone node given its AIPAC-model founding, White House policy dictation, and terrorist operation support.
-3. **Third Way** — No vault presence. $30-50M planned spending to marginalize the left. Think Tank node candidate.
-4. **Debbie Wasserman Schultz** — Top US-Cuba Democracy PAC recipient ($10K). No vault profile. Democratic face of bipartisan embargo support.
+3. **[[Third Way]]** — No vault presence. $30-50M planned spending to marginalize the left. Think Tank node candidate.
+4. **[[Debbie Wasserman Schultz]]** — Top US-Cuba Democracy PAC recipient ($10K). No vault profile. Democratic face of bipartisan embargo support.
 5. **Neville Roy Singham Network** — Fox News investigation target ($591M network). Whether FARA accusations hold, the investigation itself is part of the attack infrastructure.
 
 ---

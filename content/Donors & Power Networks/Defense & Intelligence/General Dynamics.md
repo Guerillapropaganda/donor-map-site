@@ -149,9 +149,9 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Jack Reed]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Roger Wicker]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Tammy Duckworth]]** → Sits on **Armed Services**
 
 **Funded politicians:**
 

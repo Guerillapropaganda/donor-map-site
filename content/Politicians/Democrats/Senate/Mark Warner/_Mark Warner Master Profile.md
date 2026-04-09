@@ -233,7 +233,7 @@ content-readiness:: ready
 
 **Donate → Lobby → Committee chains:**
 
-- **Telecom Industry** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
+- **[[Telecom Industry]]** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
 
 **Donors who lobby (by spend):**
 

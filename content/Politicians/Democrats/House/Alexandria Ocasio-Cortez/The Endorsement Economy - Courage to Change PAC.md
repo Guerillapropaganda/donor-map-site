@@ -38,7 +38,7 @@ The 2023-2024 cycle reveals a strategic shift: independent expenditures ($279,60
 - Pat Ryan (D-NY): $10,000
 
 ### Tier recipients ($5,000 each):
-Jamaal Bowman, Cori Bush, Matt Cartwright, Greg Casar, Christopher Deluzio, Summer Lee, Ilhan Omar, Mary Peltola, Ayanna Pressley, Delia Ramirez, Aaron Regunberg, Melanie Stansbury, Rashida Tlaib, Michelle Vallejo, Susan Wild, Bernie Sanders.
+[[Jamaal Bowman]], Cori Bush, Matt Cartwright, Greg Casar, Christopher Deluzio, Summer Lee, Ilhan Omar, Mary Peltola, Ayanna Pressley, Delia Ramirez, Aaron Regunberg, Melanie Stansbury, Rashida Tlaib, Michelle Vallejo, Susan Wild, Bernie Sanders.
 
 **Partisan consistency:** 94.44% of candidate contributions directed to Democrats in 2023-2024 (Tier 1).
 

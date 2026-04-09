@@ -64,7 +64,7 @@ Harris's 2024 presidential campaign was the most expensive losing campaign in Am
 
 **Vinod Khosla** (Silicon Valley billionaire): **$3 million+** (following $3M+ against Trump in 2020).
 
-**Reed Hastings** (Netflix founder): **$1 million** to Future Forward.
+**[[Reed Hastings]]** (Netflix founder): **$1 million** to Future Forward.
 
 **28+ billionaires** contributed $1 million or more to groups backing Harris.
 

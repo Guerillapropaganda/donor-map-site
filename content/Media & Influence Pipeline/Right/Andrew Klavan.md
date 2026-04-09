@@ -29,7 +29,7 @@ A landmark in his public persona: Klavan **converted to Christianity at age 49**
 - X/Twitter: @andrewklavan (280K+ followers)
 - Books: 36+ novels including *A Woman Underground* (2024), *After That, the Dark* (2025); *The Kingdom of Cain: Finding God in the Literature of Darkness* (2025 nonfiction)
 
-**Career lineage:** Radio/newspaper reporting → crime novelist (1977–2015) → PJ Media video satire (*Klavan on the Culture*, 2010s) → TruthRevolt / Blaze Media → **Daily Wire** (2016–present) + New Jerusalem Substack (ongoing)
+**Career lineage:** Radio/newspaper reporting → crime novelist (1977–2015) → PJ Media video satire (*Klavan on the Culture*, 2010s) → TruthRevolt / Blaze Media → **[[Daily Wire]]** (2016–present) + New Jerusalem Substack (ongoing)
 
 ---
 

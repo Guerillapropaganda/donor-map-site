@@ -24,7 +24,7 @@ donors:: Nueterra Capital · NRSC · McKee Foods · Koch Industries
 
 ### The Race
 
-Roger Marshall, the Republican incumbent and former OB-GYN, is running for re-election in a state that has not elected a Democratic senator since 1932. The race shapes up as solidly Republican, with PredictIt assigning an 85% probability to a GOP victory.
+[[Roger Marshall]], the Republican incumbent and former OB-GYN, is running for re-election in a state that has not elected a Democratic senator since 1932. The race shapes up as solidly Republican, with PredictIt assigning an 85% probability to a GOP victory.
 
 The Democratic primary remains crowded and unsettled, with no consensus nominee. Candidates include Christy Davis, Jason Hart, Erik Murray, Anne Parelkar, Patrick Schmidt (state senator), Mike Soetaert, Sandy Spidel Neumann, and Noah Taylor. No major Republican challenger has emerged to challenge Marshall in the primary.
 

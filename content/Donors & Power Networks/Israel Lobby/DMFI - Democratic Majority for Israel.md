@@ -65,7 +65,7 @@ Unlike AIPAC (which is formally bipartisan), DMFI operates exclusively within De
 | Scott M. Sperling (Thomas H. Lee Partners) | $15,000 | 2024 cycle |
 | Lyor Cohen (YouTube music chief) | $10,000 | March 2024 |
 
-Notable: DMFI has funneled at least $500,000 to **Mainstream Democrats PAC**, an organization operating out of the same office, using the same consultants, whose strategic decisions were made by Mellman. Mainstream Democrats PAC is funded by LinkedIn billionaire **Reid Hoffman** through political advisor **Dmitri Mehlhorn**.
+Notable: DMFI has funneled at least $500,000 to **Mainstream Democrats PAC**, an organization operating out of the same office, using the same consultants, whose strategic decisions were made by Mellman. Mainstream Democrats PAC is funded by LinkedIn billionaire **[[Reid Hoffman]]** through political advisor **Dmitri Mehlhorn**.
 
 ---
 

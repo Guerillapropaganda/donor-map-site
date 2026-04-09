@@ -229,7 +229,7 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Budget/Appropriations** → Funds **Chris Murphy** → Sits on **Appropriations**
+- Lobbies on **Budget/Appropriations** → Funds **[[Chris Murphy]]** → Sits on **Appropriations**
 
 **Funded politicians:**
 

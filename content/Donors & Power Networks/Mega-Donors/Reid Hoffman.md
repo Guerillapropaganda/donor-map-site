@@ -139,7 +139,7 @@ The contradiction is amplified by his pro-democracy framing: a donor who present
 
 In the March 3, 2026 Texas Democratic Senate primary, Hoffman donated **$500,000** to **Lone Star Rising PAC**, a super PAC supporting progressive state Rep. **James Talarico** against Rep. Jasmine Crockett. Talarico won 53.1% to 45.6% in a race defined by outside spending saturation.
 
-Lone Star Rising PAC raised **$6.14 million** from January 1 through February 11, 2026 — with $3.75 million of that coming from the Government that Works PAC, which received its entire funding from the **Sixteen Thirty Fund** (Arabella Advisors dark money vehicle). This makes Hoffman's $500K one of the identifiable individual contributions within a larger anonymous-money cascade.
+Lone Star Rising PAC raised **$6.14 million** from January 1 through February 11, 2026 — with $3.75 million of that coming from the Government that Works PAC, which received its entire funding from the **[[Sixteen Thirty Fund]]** (Arabella Advisors dark money vehicle). This makes Hoffman's $500K one of the identifiable individual contributions within a larger anonymous-money cascade.
 
 > [!money] Hoffman plays both levels
 > Hoffman's $500K to Lone Star Rising sits alongside $3.75M in anonymous Sixteen Thirty Fund money — the same dark money architecture Democrats publicly oppose. Hoffman's contribution is FEC-disclosed (identifiable); the majority of Talarico's outside support is not. Together they illustrate the Democratic donor-class playbook: combine named institutional donors (Hoffman, providing legitimacy) with anonymous dark money (Sixteen Thirty, providing scale).

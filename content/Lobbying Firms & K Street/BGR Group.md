@@ -102,9 +102,9 @@ Top clients by sector (2024 data from Senate lobbying disclosures, OpenSecrets):
 
 #### Energy
 
-- **Enterprise Products Partners** — Major oil/gas pipeline operator; pipeline regulation, energy infrastructure.
+- **[[Enterprise Products Partners]]** — Major oil/gas pipeline operator; pipeline regulation, energy infrastructure.
 - **Southern Co** — Large electric utility; energy regulation, coal/gas transition, rate policy.
-- **Valero Energy** — Major petroleum refiner; RFS (Renewable Fuel Standard), refinery regulation.
+- **[[Valero Energy]]** — Major petroleum refiner; RFS (Renewable Fuel Standard), refinery regulation.
 - **CNX Resources** — Natural gas producer; energy policy, methane regulation.
 
 #### Foreign Governments (FARA-registered)

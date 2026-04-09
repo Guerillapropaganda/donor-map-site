@@ -116,7 +116,7 @@ CalPERS's structural power produces policy outcomes without traditional campaign
 
 The most revealing episode in CalPERS history: the placement agent bribery scheme that exposed how Wall Street firms purchased access to CalPERS allocations.
 
-**The players:** Fred Buenrostro, CalPERS CEO (2002-2008). Alfred Villalobos, placement agent and founder of ARVCO Capital Research. Apollo Global Management, private equity firm.
+**The players:** Fred Buenrostro, CalPERS CEO (2002-2008). Alfred Villalobos, placement agent and founder of ARVCO Capital Research. [[Apollo Global Management]], private equity firm.
 
 **The scheme:** Villalobos paid Buenrostro approximately $250,000 in cash (delivered in paper bags and a shoe box), plus gifts, international travel, entertainment, and payment for Buenrostro's wedding. In return, Buenrostro provided Villalobos with official CalPERS documents and influence. Villalobos then used his CalPERS access to earn placement agent fees from private equity firms seeking CalPERS allocations. Apollo Global Management paid ARVCO $14 million in fees after receiving $3 billion in CalPERS investments, facilitated through fraudulent letters created by Buenrostro and Villalobos.
 

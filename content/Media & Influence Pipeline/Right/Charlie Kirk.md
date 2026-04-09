@@ -46,7 +46,7 @@ Kirk operated three interlocking revenue streams that made him simultaneously a 
 
 ### Who Funds Them
 
-**Bradley Impact Fund** — [[Bradley Foundation]]
+**[[Bradley Impact Fund]]** — [[Bradley Foundation]]
 The single largest documented foundation donor to TPUSA: $23.6 million from 2014 to 2023. The Bradley Foundation is a Milwaukee-based conservative foundation with $900M+ in assets that funds the full right-wing policy infrastructure: AEI, Heritage Foundation, Manhattan Institute, and TPUSA. Bradley money flows through its "Impact Fund" vehicle, which routes grants while obscuring ultimate donor identities.
 
 ### Wayne Duddlesten Foundation
@@ -55,10 +55,10 @@ A Texas private foundation that gave TPUSA $13.1 million — a figure that had n
 **DonorsTrust** — [[DonorsTrust]]
 The premier dark money conduit for conservative mega-donors: approximately $4 million to TPUSA from 2020 to 2023. DonorsTrust pools contributions from undisclosed individual donors and routes them to approved conservative nonprofits, breaking the paper trail from individual donor to recipient.
 
-**Bernard Marcus** — [[Bernard Marcus]]
+**[[Bernard Marcus]]** — [[Bernard Marcus]]
 Home Depot co-founder. A significant TPUSA backer whose foundation has been documented supporting the organization. Marcus is a prolific conservative mega-donor who has funded TPUSA, the Republican Jewish Coalition, and a network of anti-"woke" corporate activism efforts.
 
-**Richard and Elizabeth Uihlein** — [[Richard and Elizabeth Uihlein]]
+**[[Richard and Elizabeth Uihlein]]** — [[Richard and Elizabeth Uihlein]]
 Uline packaging billionaires. The Ed Uihlein Family Foundation gave TPUSA $275,000 documented between 2014–2016. Additional amounts are believed to have flowed through intermediary vehicles. Uihlein is among the top five individual conservative mega-donors in the country.
 
 ### Foster Friess (deceased) / Lynn Friess

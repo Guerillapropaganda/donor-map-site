@@ -122,7 +122,7 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Intelligence** → Funds **Mark Warner** → Sits on **Intelligence**
+- Lobbies on **Intelligence** → Funds **[[Mark Warner]]** → Sits on **Intelligence**
 
 **Funded politicians:**
 

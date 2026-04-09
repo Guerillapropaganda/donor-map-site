@@ -110,7 +110,7 @@ Hollywood has historically been the most visible locus of Jewish-American wealth
 ---
 
 ### Layer 5: The Richard Blum / Feinstein Wing
-Richard Blum — investment banker, University of California Regent, husband of the late Sen. Dianne Feinstein — traveled with Newsom on the 2008 Jewish Community Federation Israel trip. Blum represented the Feinstein wing of California Democratic politics: the most powerful, most established, most institutionally embedded pro-Israel donor network in the state for thirty years. Feinstein was herself one of AIPAC's closest Senate allies.
+Richard Blum — investment banker, University of California Regent, husband of the late Sen. [[Dianne Feinstein]] — traveled with Newsom on the 2008 Jewish Community Federation Israel trip. Blum represented the Feinstein wing of California Democratic politics: the most powerful, most established, most institutionally embedded pro-Israel donor network in the state for thirty years. Feinstein was herself one of AIPAC's closest Senate allies.
 
 Blum died in 2022. The Feinstein wing's institutional infrastructure — donors, relationships, institutional access — did not die with him. The network transferred to Newsom as the dominant California Democratic figure of the 2020s.
 

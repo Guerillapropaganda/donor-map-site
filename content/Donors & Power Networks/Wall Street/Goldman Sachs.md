@@ -231,10 +231,10 @@ research-status:: ready — Full citation pass complete. $39M career political c
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
-- Lobbies on **Wall Street & Finance** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Wall Street & Finance** → Funds **Paul Ryan** → Sits on **Finance**
-- Lobbies on **Wall Street & Finance** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **[[French Hill]]** → Sits on **Banking**
+- Lobbies on **Wall Street & Finance** → Funds **[[John Boehner]]** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **[[Paul Ryan]]** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **[[John Cornyn]]** → Sits on **Finance**
 
 **Funded politicians:**
 

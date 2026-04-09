@@ -149,7 +149,7 @@ State and local lobbying dwarfs federal spending — in 2025, GEO's largest stat
 DHS appropriations, ICE funding, Commerce-Justice-Science appropriations, location monitoring technology, alternatives to detention (policy capture), and "public-private partnerships in correctional services."
 
 #### Revolving door lobbyists:
-Of GEO's 13 federal lobbyists in 2024, 10 were "revolvers" — former government officials. Notable examples: former Rep. Martha Roby (R-Ala., House Appropriations), Lionel Aguirre (former staffer to Rep. Henry Cuellar, D-Tex., House Appropriations Homeland Security Subcommittee), and Sarah Beatty Rogers (former Chief of Staff to Rep. Meehan, House Homeland Security Committee). After Trump took office in January 2025, GEO hired three new lobbying firms, including one led by Ches McDowell — identified as Donald Trump Jr.'s "avowed hunting buddy." The revolving door operates in both directions: GEO's lobbying operation shapes DHS appropriations while the agency's officials loop through the company's C-suite.
+Of GEO's 13 federal lobbyists in 2024, 10 were "revolvers" — former government officials. Notable examples: former Rep. Martha Roby (R-Ala., House Appropriations), Lionel Aguirre (former staffer to Rep. [[Henry Cuellar]], D-Tex., House Appropriations Homeland Security Subcommittee), and Sarah Beatty Rogers (former Chief of Staff to Rep. Meehan, House Homeland Security Committee). After Trump took office in January 2025, GEO hired three new lobbying firms, including one led by Ches McDowell — identified as Donald Trump Jr.'s "avowed hunting buddy." The revolving door operates in both directions: GEO's lobbying operation shapes DHS appropriations while the agency's officials loop through the company's C-suite.
 
 #### Cumulative spending summary:
 GEO Group and its employees have donated approximately $4.4 million to federal candidates and PACs since 2004. Combined with [[CoreCivic]], the two largest private prison companies have spent $25 million on lobbying over the past three decades.
@@ -339,7 +339,7 @@ The pipeline operates in both directions: GEO Group hires ICE leadership after t
 
 #### Pam Bondi — Attorney General Conflict of Interest
 
-**Pam Bondi**, now U.S. Attorney General under Trump, has a documented financial and professional relationship with GEO Group:
+**[[Pam Bondi]]**, now U.S. Attorney General under Trump, has a documented financial and professional relationship with GEO Group:
 
 - **2019:** As Florida Attorney General, Bondi left office and immediately (14 days later) joined Ballard Partners, a registered foreign and domestic lobbying firm
 - **2019–2021:** At Ballard Partners, Bondi was paid $60,000 to lobby the White House and DHS on "promoting the use of public-private partnerships in correctional services" — a direct euphemism for private prison expansion

@@ -52,7 +52,7 @@ Georgia's 2026 Senate race is a **Democratic defense** — incumbent [[_Jon Osso
 ### [[_Mike Collins Master Profile|Mike Collins]] (Republican Primary Leader) — Crypto-Billionaire Money:
 - **Total raised (through Q1 2026):** $2.0M+ (far behind Ossoff but accelerating)
 - **Crypto Industry Contributions (Direct):** $746K documented in early 2026
-  - **Winklevoss Twins** (Gemini founders): $14K ($7K each)
+  - **[[Winklevoss Twins]]** (Gemini founders): $14K ($7K each)
   - **[[Elon Musk]]** (Tesla/SpaceX): $6.6K personal donation
   - **SpaceX PAC:** $10K
   - **Andreessen Horowitz (a16z):** $25K (via crypto venture capital bundling)

@@ -58,7 +58,7 @@ Based on institutional pattern analysis: Cooper's peers at CNN with similar prof
 ### Who Funds Them
 
 ### Warner Bros. Discovery → Paramount/Skydance (Larry Ellison):
-WBD has owned CNN since the AT&T/Time Warner acquisition (2018) and subsequent WarnerMedia spin-off (2022). In February 2026, WBD's board accepted Paramount's $110.9 billion acquisition offer, meaning CNN is now transitioning to ownership under **David Ellison** (CEO, Paramount) and **Larry Ellison** (Oracle founder, Trump ally). Larry Ellison sat next to Trump at the post-election White House announcement for the $500B Stargate AI consortium. The editorial implications for CNN are the central structural story of Cooper's 2026 situation.
+WBD has owned CNN since the AT&T/Time Warner acquisition (2018) and subsequent WarnerMedia spin-off (2022). In February 2026, WBD's board accepted Paramount's $110.9 billion acquisition offer, meaning CNN is now transitioning to ownership under **David Ellison** (CEO, Paramount) and **[[Larry Ellison]]** (Oracle founder, Trump ally). Larry Ellison sat next to Trump at the post-election White House announcement for the $500B Stargate AI consortium. The editorial implications for CNN are the central structural story of Cooper's 2026 situation.
 
 ### Previous ownership chain:
 - Turner Broadcasting (founded Ted Turner) → Time Warner (1996) → AT&T (2018) → WarnerMedia → Warner Bros. Discovery (2022) → Paramount/Skydance (2026, pending regulatory approval)

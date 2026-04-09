@@ -110,7 +110,7 @@ CoreCivic's lobbying focuses on maintaining and expanding the congressional "det
 
 ### Immigration Detention Expansion Under Trump 2.0
 
-CoreCivic's most profitable growth area is immigrant detention. ICE detention contracts surged 55% in the first year of Trump's second term, from $140 million per quarter (Q3 2024) to $215 million per quarter (Q3 2025). GEO Group, CoreCivic's chief competitor, projected doubling its ICE bed count to 32,000. The industry-wide expansion is funded through congressional appropriations and the reconciliation process — the same legislation that CoreCivic lobbied for directly.
+CoreCivic's most profitable growth area is immigrant detention. ICE detention contracts surged 55% in the first year of Trump's second term, from $140 million per quarter (Q3 2024) to $215 million per quarter (Q3 2025). [[GEO Group]], CoreCivic's chief competitor, projected doubling its ICE bed count to 32,000. The industry-wide expansion is funded through congressional appropriations and the reconciliation process — the same legislation that CoreCivic lobbied for directly.
 
 ---
 

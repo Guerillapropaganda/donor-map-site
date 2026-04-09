@@ -47,7 +47,7 @@ This spending occurred in a state Democrats control, with no competitive general
 
 **AIPAC's Investment:** Affordable Chicago Now (shell PAC) spent $4.4 million supporting Miller. [Pro-Israel group AIPAC notches its first real 2026 Democratic primary wins in Illinois - Axios](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)
 
-**Result:** Miller won the primary. Daniel Biss, Donna Miller, [[_Melissa Bean Master Profile|Melissa Bean]] win House primaries as Democrats fight over Israel and four Illinois open seats - NBC News](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2)
+**Result:** Miller won the primary. [[Daniel Biss]], Donna Miller, [[_Melissa Bean Master Profile|Melissa Bean]] win House primaries as Democrats fight over Israel and four Illinois open seats - NBC News](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2)
 
 **Class Analysis:** Miller's victory demonstrates AIPAC's ability to determine primary outcomes through massive independent spending. $4.4 million in a House primary is effectively deterministic — it's impossible for grassroots opposition to match. Miller's candidacy did not require opposition to Israel policy; she was simply AIPAC's chosen candidate, and AIPAC's spending made her inevitable.
 

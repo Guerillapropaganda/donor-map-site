@@ -213,7 +213,7 @@ content-readiness:: ready
 
 **Donate → Lobby → Committee chains:**
 
-- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+- **[[Northrop Grumman]]** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

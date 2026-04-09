@@ -129,7 +129,7 @@ content-readiness:: ready
 
 **Notable cases:**
 - REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
-- Yates v. NextEra Energy, Inc. (2026) — District Court, S.D. Florida
+- Yates v. [[NextEra Energy]], Inc. (2026) — District Court, S.D. Florida
 - Cumulus Media Inc. (2026) — United States Bankruptcy Court, S.D. Texas
 - Bromerc Ltd. v. Arthur J. Gallagher & Co. (2026) — District Court, D. Delaware
 - Bromerc Ltd. v. DTE Energy Resources, LLC (2026) — District Court, D. Delaware

@@ -174,7 +174,7 @@ The prediction market schism reveals the limits of trade association governance 
 - **State-level public health agencies** — documented 79-91% increases in addiction helpline calls following sports betting legalization; calling for advertising restrictions
 - **Tribal gaming interests** — ongoing jurisdictional tensions as commercial operators expand into markets tribes have long served; prediction markets fight amplifies this
 - **Prediction market platforms (Kalshi, Polymarket, CME Group)** — directly competing for sports wagering market under CFTC regulation rather than state gaming commissions
-- **Sports Betting Alliance** — new industry coalition formed by DraftKings/FanDuel/Fanatics post-AGA departure; competing lobbying voice for digital-native operators
+- **[[Sports Betting Alliance]]** — new industry coalition formed by DraftKings/FanDuel/Fanatics post-AGA departure; competing lobbying voice for digital-native operators
 
 ---
 

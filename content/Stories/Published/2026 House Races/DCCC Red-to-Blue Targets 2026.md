@@ -102,7 +102,7 @@ Democrats need to flip 4 seats. The clearest flip opportunities are:
 
 ### House Majority PAC's Spending Strategy
 
-House Majority PAC, the Democratic super PAC, will concentrate spending in two categories:
+[[House Majority PAC]], the Democratic super PAC, will concentrate spending in two categories:
 
 **Tier 1 Offensive (Flips):** NY-17 (Lawler), AZ-2 (Crane), CA-6 (Kiley/Democrat), and possibly VA-1 (Wittman). $5-8M per race = $20-32M allocated.
 

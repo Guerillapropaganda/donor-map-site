@@ -92,7 +92,7 @@ Technology companies understood Obama administration patent policy as favorable.
 Despite growing concern about technology sector consolidation, the Obama FTC took no enforcement action against the major technology monopolies:
 
 - **Google** — Search monopoly (>90% market share), advertising dominance, growing vertical integration into maps, shopping, YouTube (acquired 2006)
-- **Amazon** — Retail/cloud dominance, expanding vertically into media, logistics, devices
+- **[[Amazon]]** — Retail/cloud dominance, expanding vertically into media, logistics, devices
 - **Apple** — Operating system/device monopoly in premium market, controlling app distribution
 
 The EU, during the same period, initiated multiple antitrust investigations into Google and other tech companies. The U.S., under Obama, did not follow.

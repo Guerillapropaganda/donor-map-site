@@ -153,7 +153,7 @@ The structure of AIPAC's United Democracy Project created a vehicle for Republic
 
 Key Republican donors who funded the anti-Bowman operation:
 - **Bernie Marcus** (Home Depot co-founder) — $2M to United Democracy Project
-- **Paul Singer** (hedge fund billionaire, longtime Republican megadonor) — $1M to United Democracy Project
+- **[[Paul Singer]]** (hedge fund billionaire, longtime Republican megadonor) — $1M to United Democracy Project
 - Nearly a quarter of Latimer's direct fundraising came from AIPAC bundling, with significant Republican donor composition
 
 This is the Both-Sides Illusion operating in reverse: Republicans publicly condemn progressive Democrats, then fund the super PAC that removes them in Democratic primaries — ensuring the replacement is more aligned with shared donor-class interests on the policy areas that matter most (military aid, Israel, financial regulation). The mechanism allows Republican money to shape Democratic representation without triggering the "outside interference" framing that would accompany direct Republican spending.

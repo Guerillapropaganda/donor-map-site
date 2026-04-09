@@ -27,7 +27,7 @@ While running for SF Mayor, Newsom's campaign gave $500 to AIPAC listed as a "ci
 ---
 
 ### 2008 — The All-Expenses-Paid Israel Trip
-The San Francisco Jewish Community Federation arranged and paid for Newsom's trip to Israel, timed to celebrate the 60th anniversary of Israel's founding. He was the first sitting SF mayor to visit Israel. The trip's explicit goal was to forge connections between Bay Area and Israeli business leaders. Fellow travelers included Richard Blum — investment banker and husband of Sen. Dianne Feinstein, the center of California's most powerful pro-Israel donor network for decades.
+The San Francisco Jewish Community Federation arranged and paid for Newsom's trip to Israel, timed to celebrate the 60th anniversary of Israel's founding. He was the first sitting SF mayor to visit Israel. The trip's explicit goal was to forge connections between Bay Area and Israeli business leaders. Fellow travelers included Richard Blum — investment banker and husband of Sen. [[Dianne Feinstein]], the center of California's most powerful pro-Israel donor network for decades.
 
 While in Tel Aviv, Newsom pledged to "continue the narrative for another 600 years." The same week marked the 60th anniversary of the Nakba — the displacement of roughly 700,000 Palestinians. Newsom made no reference to it. — Jewish Community Federation, 2008; SF Bay View, 2009.
 

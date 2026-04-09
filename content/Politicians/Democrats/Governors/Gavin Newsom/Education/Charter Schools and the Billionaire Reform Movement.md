@@ -50,7 +50,7 @@ The pattern: give CTA something real (AB 1505) to maintain the relationship, whi
 
 **[[Walton Family Foundation|Walton Family Foundation]]** — Walmart heirs; the largest single private funder of charter schools in the United States. Has distributed hundreds of millions to California charter schools and advocacy organizations. Less directly embedded in California Democratic donor networks than Broad, but their funding shapes the movement Newsom navigates.
 
-**Gates Foundation** — Funded California education reform initiatives throughout the 2000s and 2010s, including Common Core implementation and teacher evaluation systems tied to test scores. Has shifted focus since but remains a background institutional influence.
+**[[Gates Foundation]]** — Funded California education reform initiatives throughout the 2000s and 2010s, including Common Core implementation and teacher evaluation systems tied to test scores. Has shifted focus since but remains a background institutional influence.
 
 **Silicon Valley tech money** — Reed Hastings (Netflix), John Doerr (Kleiner Perkins), and other Bay Area tech investors have been major charter school funders and California Democratic donors. This is the overlap that matters most for Newsom's specific donor network — the same people funding charter school advocacy are in his donor base for other reasons.
 

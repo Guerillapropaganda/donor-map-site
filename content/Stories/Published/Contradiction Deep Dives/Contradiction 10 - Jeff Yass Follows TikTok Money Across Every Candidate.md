@@ -55,12 +55,12 @@ The pattern: when Republican candidates position themselves against TikTok bans,
 | Candidate | Recipients | Amount | Date | TikTok Position | Context |
 |-----------|-----------|--------|------|-----------------|---------|
 | **[[_Rand Paul Master Profile|Rand Paul]]** | Multiple Paul PACs | $2.3M | 2015-2016 | Oppose ban (free speech) | Libertarian alignment; Yass 2016 priority |
-| **Rand Paul** | Paul-affiliated super PACs | $8M+ | 2020-2024 | Oppose ban | Ongoing funding for Senate record |
+| **[[Rand Paul]]** | Paul-affiliated super PACs | $8M+ | 2020-2024 | Oppose ban | Ongoing funding for Senate record |
 | **[[Club for Growth]] Action** | CFG donation | $3.8M | 2018 | Libertarian anti-regulation | Yass begins major CFG investment |
 | **[[Club for Growth]] Action** | CFG donation | $20.7M | 2020 | Anti-ban emerging position | Yass increases funding 5x |
 | **[[Club for Growth]] Action** | CFG donation | $16M | 2023 | Explicit anti-TikTok-ban stance | CFG takes official position |
 | **[[Club for Growth]] Action** | CFG donation | $19M | 2024 | Anti-ban (primary weapon) | Yass total to CFG: $61M since 2010 (24% of PAC budget) |
-| **Rand Paul** | Purple PAC, America's Liberty PAC | $2.5M | 2024 | Oppose ban (consistent) | Senate reelection cycle |
+| **[[Rand Paul]]** | Purple PAC, America's Liberty PAC | $2.5M | 2024 | Oppose ban (consistent) | Senate reelection cycle |
 | **[[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]]** | American Exceptionalism PAC | $4.9M | 2023-2024 | Oppose ban | Presidential primary run |
 | **Trump (indirect)** | [[Club for Growth]] / Primary ecosystem | $46M+ | Early 2024 | Ambiguous (but shifting) | Yass major early 2024 donor before Trump reversal |
 | **Trump (direct)** | [[MAGA Inc]]. super PAC | $1M | January 17, 2025 | Pro-TikTok (de facto) | Three days before TikTok enforcement delay #1 |

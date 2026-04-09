@@ -194,10 +194,10 @@ content-readiness:: ready
 
 **Donate → Lobby → Committee chains:**
 
-- **BAE Systems** donates → Lobbies on **Defense** → This member sits on **Armed Services**
-- **BAE Systems** donates → Lobbies on **Intelligence** → This member sits on **Armed Services**
-- **BAE Systems** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
-- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+- **[[BAE Systems]]** donates → Lobbies on **Defense** → This member sits on **Armed Services**
+- **[[BAE Systems]]** donates → Lobbies on **Intelligence** → This member sits on **Armed Services**
+- **[[BAE Systems]]** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+- **[[Northrop Grumman]]** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
 
 **Donors who lobby (by spend):**
 

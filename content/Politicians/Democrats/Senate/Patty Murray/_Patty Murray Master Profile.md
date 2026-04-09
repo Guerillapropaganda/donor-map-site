@@ -168,9 +168,9 @@ content-readiness:: ready
 
 **Donate → Lobby → Committee chains:**
 
-- **Defense Industry Bloc** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
-- **Defense Industry Bloc** donates → Lobbies on **Defense** → This member sits on **Appropriations**
-- **Defense Industry Bloc** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
+- **[[Defense Industry Bloc]]** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **[[Defense Industry Bloc]]** donates → Lobbies on **Defense** → This member sits on **Appropriations**
+- **[[Defense Industry Bloc]]** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
 - **Microsoft** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
 - **Microsoft** donates → Lobbies on **Defense** → This member sits on **Appropriations**
 - **Microsoft** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**

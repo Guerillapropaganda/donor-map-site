@@ -90,7 +90,7 @@ Ten states have no licensure requirements for bail agents. Only 22 states requir
 
 **ACLU / Color of Change** — led the pressure campaign that forced Endeavour Capital's divestment. Ongoing litigation and advocacy for bail reform nationally.
 
-**Brennan Center for Justice** — primary research and policy organization documenting the bail industry's profit structure and political spending.
+**[[Brennan Center for Justice]]** — primary research and policy organization documenting the bail industry's profit structure and political spending.
 
 **John & Laura Arnold Foundation** — $5M to Yes on Prop 25. The largest funder of bail reform efforts nationally through their Pretrial Justice Institute.
 

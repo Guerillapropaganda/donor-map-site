@@ -83,7 +83,7 @@ Charles Koch was a founding funder, original board member, and shareholder. Davi
 - **Schwab Charitable Fund**: $2.5M (estimated from periodic grants)
 - **Scaife Foundations** (Scaife Family Charitable Trusts): $2.4M (2004–2014)
 - **Searle Freedom Trust**: $2.4M (documented gifts, 2004–2014)
-- **Bradley Foundation** (Lynde and Harry Bradley Foundation): $427,000 in documented grants ($325K in 2015 for Center for Monetary and Financial Alternatives and religious freedom conference; $102K via Bradley Impact Fund in 2021)
+- **[[Bradley Foundation]]** (Lynde and Harry Bradley Foundation): $427,000 in documented grants ($325K in 2015 for Center for Monetary and Financial Alternatives and religious freedom conference; $102K via Bradley Impact Fund in 2021)
 - **DonorsTrust / Donors Capital Fund**: $396,000 in 2020
 - **Mercer Family Foundations**: $1.2M (2004–2014)
 - **Carnegie Corporation of New York**: $1.67M (distributed 2004–2014)
@@ -108,7 +108,7 @@ Documented corporate supporters included **Amgen** (biopharmaceutical), **CIGNA 
 ### Board of directors (notable members from 990 filings):
 
 - **David H. Koch** — board director through October 2016
-- **Jeffrey Yass** — board director (multiple years through FY2022). Yass is a billionaire trading firm founder (Susquehanna International Group) and one of the largest donors to libertarian and Republican causes nationally
+- **[[Jeffrey Yass]]** — board director (multiple years through FY2022). Yass is a billionaire trading firm founder (Susquehanna International Group) and one of the largest donors to libertarian and Republican causes nationally
 - **John A. Allison** — Cato President 2012–2015; former CEO of BB&T Bank; advocate for Ayn Rand philosophy in corporate governance
 - **Nancy Pfotenhauer** — board director; also served as Koch Industries VP for Government Affairs, making the Koch-Cato funding relationship explicit through board personnel overlap
 

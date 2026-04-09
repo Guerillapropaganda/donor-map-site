@@ -69,7 +69,7 @@ Joni Ernst rode the Tea Party wave and rural authenticity (farm background, mili
 ### Donor Class Map
 
 ### The Koch Network:
-- [[Koch Network - Charles Koch]] — the single largest political force in Ernst's career. Charles Koch, his wife, his son and daughter-in-law each maxed out contributions ($2,600 each) to Ernst. Koch Industries directly donated $5,000. But Koch Network outside spending was the decisive factor: $12 million+ in 2014 from Koch-aligned super PACs ([[Americans for Prosperity|Americans for Prosperity]], Freedom Partners Action Fund, 60 Plus Association, American Future Fund, National Federation of Independent Business). Ernst acknowledged the Koch Network "started my trajectory." The relationship has been continuous throughout her Senate career.
+- [[Koch Network - Charles Koch]] — the single largest political force in Ernst's career. [[Charles Koch]], his wife, his son and daughter-in-law each maxed out contributions ($2,600 each) to Ernst. Koch Industries directly donated $5,000. But Koch Network outside spending was the decisive factor: $12 million+ in 2014 from Koch-aligned super PACs ([[Americans for Prosperity|Americans for Prosperity]], Freedom Partners Action Fund, 60 Plus Association, American Future Fund, National Federation of Independent Business). Ernst acknowledged the Koch Network "started my trajectory." The relationship has been continuous throughout her Senate career.
 
 ### Agribusiness: Ethanol, Meatpacking, Agricultural Input Companies:
 - [[Ethanol Industry]] — Ernst is a Biofuels Caucus co-chair. She has advocated for Renewable Fuel Standard (RFS) support, E15 year-round fuel access, and tax incentives for ethanol producers. Ethanol companies (Archer Daniels Midland (ADM), Valero Energy, POET LLC) have donated to her campaigns. The ethanol industry is not small family farmers; it's multinational agribusiness. Ethanol subsidies primarily benefit large-scale commodity corn producers and the multinational companies that process corn into ethanol.
@@ -212,7 +212,7 @@ content-readiness:: ready
 
 **Donate → Lobby → Committee chains:**
 
-- **Ethanol Industry** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **[[Ethanol Industry]]** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 
 **Donors who lobby (by spend):**
 

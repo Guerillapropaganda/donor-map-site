@@ -28,7 +28,7 @@ Connolly has become the primary Democratic voice against DOGE (Department of Gov
 
 ### The Government Contracting Economy
 
-Northern Virginia's economy runs on government contracting. Booz Allen Hamilton, Leidos, SAIC, Northrop Grumman, and hundreds of smaller contractors are headquartered or have major operations in Connolly's district. Defense and IT contractors' PACs contribute to Connolly because his Oversight Committee jurisdiction includes federal procurement, IT modernization, and government operations — the regulatory framework that determines their contracts.
+Northern Virginia's economy runs on government contracting. [[Booz Allen Hamilton]], Leidos, SAIC, Northrop Grumman, and hundreds of smaller contractors are headquartered or have major operations in Connolly's district. Defense and IT contractors' PACs contribute to Connolly because his Oversight Committee jurisdiction includes federal procurement, IT modernization, and government operations — the regulatory framework that determines their contracts.
 
 > [!money]
 > Connolly's district is the federal spending economy made flesh. Every dollar cut from federal agencies is a dollar removed from his constituents' paychecks. Every government contract awarded flows through Northern Virginia's contractor ecosystem. Connolly's Oversight Committee position — defending federal spending levels, opposing workforce reductions, supporting IT modernization contracts — is simultaneously public service and economic self-defense for the wealthiest government-dependent district in America.

@@ -22,7 +22,7 @@ North Carolina's Research Triangle Park (RTP) — the corridor between Raleigh, 
 
 The major pharmaceutical and biotech companies with significant Research Triangle presence include:
 
-- **Novo Nordisk** — Global pharmaceutical giant. GLP-1 drugs (Ozempic, Wegovy) manufactured/developed through RTP operations. One of the world's largest insulin manufacturers.
+- **[[Novo Nordisk]]** — Global pharmaceutical giant. GLP-1 drugs (Ozempic, Wegovy) manufactured/developed through RTP operations. One of the world's largest insulin manufacturers.
 - **GlaxoSmithKline (GSK)** — Historically massive presence; though operations have scaled, significant facilities remain.
 - **Biogen** — Neurodegenerative disease focus. Boston-based but maintains significant East Coast biotech networking in the RTP.
 - **Becton Dickinson** — Medical device company (Research Triangle employment).

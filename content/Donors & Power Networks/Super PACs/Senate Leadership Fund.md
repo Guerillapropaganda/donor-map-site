@@ -122,7 +122,7 @@ SLF's $211M in independent expenditures concentrated on competitive Senate races
 
 ### The One Nation Dark Money Pipeline
 
-One Nation, SLF's 501(c)(4) sister organization, is the anonymous spending channel:
+[[One Nation]], SLF's 501(c)(4) sister organization, is the anonymous spending channel:
 
 **Structure:** One Nation does not disclose donors, runs "issue advocacy" spending in Senate races, and transfers funds to SLF. One Nation put at least $70M into key 2024 Senate swing states — money from donors who want to influence Senate outcomes without public identification.
 
@@ -221,7 +221,7 @@ content-readiness:: ready
 | Case Types | 11 Recovery of money/property - 542 turnover of property, 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 160 Stockholders Suits, 370 Other Fraud |
 
 **Notable cases:**
-- Yates v. NextEra Energy, Inc. (2026) — District Court, S.D. Florida
+- Yates v. [[NextEra Energy]], Inc. (2026) — District Court, S.D. Florida
 - Advance Local Media LLC v. Cohere Inc. (2025) — District Court, S.D. New York
 - DINNER TABLE ACTION v. SCHNEIDER (2024) — District Court, D. Maine
 - FTX Recovery Trust v. Manifold Markets, Inc. (2024) — United States Bankruptcy Court, D. Delaware

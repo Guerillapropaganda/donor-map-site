@@ -83,7 +83,7 @@ Did Goldman money that went to Schumer personally (funding his power base) also 
 Progressive Senate candidates who received DSCC support (2020-2024 cycle):
 - **[[_Raphael Warnock Master Profile|Raphael Warnock]]** (Georgia 2021): $138M+ total fundraising, 73% from out-of-state donors. Warnock accepted DSCC support and defeated David Perdue. DSCC funds often come from the same bundlers as Schumer's personal network.
 - **[[_Jon Ossoff Master Profile|Jon Ossoff]]** (Georgia 2021): $138M+ fundraising, 70+ billionaire donors, 95% out-of-state funding. DSCC supported race. Same donor infrastructure.
-- **Catherine Cortez Masto** (Nevada 2022): DSCC-backed. Gaming industry money dominates Nevada politics (tied to casino donors who also fund moderate leadership).
+- **[[Catherine Cortez Masto]]** (Nevada 2022): DSCC-backed. Gaming industry money dominates Nevada politics (tied to casino donors who also fund moderate leadership).
 
 ### The Pattern:
 DSCC under Schumer supported these progressives — but with invisible conditions. Support for candidates who:
@@ -119,10 +119,10 @@ The DSCC is not a neutral fundraising channel. It's a filter that converts indep
 The 2017 Sanders-Klobuchar drug importation amendment vote is the clearest case. Senate voted 52-46 against importation. Breakdown: 46 votes YES (40 Democrats + 6 Republicans), 52 votes NO (13 Democrats + 39 Republicans + 2 Independents voting with Republicans).
 
 The 13 Democrats who voted NO:
-1. **Cory Booker** (D-NJ): **$468K pharma donations** (2014-2016), highest of any Democratic senator
-2. **Bob Menendez** (D-NJ): **$284K pharma**
-3. **Bob Casey** (D-PA): **$291K pharma**
-4. **Patty Murray** (D-WA): **$363K pharma** (highest)
+1. **[[Cory Booker]]** (D-NJ): **$468K pharma donations** (2014-2016), highest of any Democratic senator
+2. **[[Bob Menendez]]** (D-NJ): **$284K pharma**
+3. **[[Bob Casey]]** (D-PA): **$291K pharma**
+4. **[[Patty Murray]]** (D-WA): **$363K pharma** (highest)
 5. Michael Bennet (D-CO)
 6. Chris Coons (D-DE)
 7. Heidi Heitkamp (D-ND)

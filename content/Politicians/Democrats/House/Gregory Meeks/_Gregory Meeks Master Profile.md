@@ -85,7 +85,7 @@ Gregory Meeks is the donor class's man on foreign affairs. His committee positio
 1. **Pro-Israel Lobby** — $523,000+ career from [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and pro-Israel groups; $292,777 from AIPAC in 2024 cycle alone
 2. **Financial Services/Wall Street** — major NYC bank PACs, private equity firms
 3. **Private Equity** — KKR pop-up PAC scandal (see below)
-4. **Defense Contractors** — exact breakdown requires deeper OpenSecrets query
+4. **[[Defense Contractors]]** — exact breakdown requires deeper OpenSecrets query
 
 > [!money]
 > **The KKR Pop-Up PAC:** In December 2019, Meeks spoke in defense of private equity at a House Financial Services Committee hearing. Days later, he formed "Working Together," a joint fundraising committee with Reps. Gottheimer, Horsford, and Ruiz. The committee raised **$114,500 — of which $111,400 (nearly 90%) came from KKR executives and employees.** The committee was terminated shortly after. This is the most precisely documented pay-to-play sequence in the vault: defend the industry on the record → open a fundraising vehicle → collect the check → shut it down.

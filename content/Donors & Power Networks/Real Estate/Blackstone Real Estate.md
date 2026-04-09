@@ -100,7 +100,7 @@ In March 2019, **UN Special Rapporteurs Leilani Farha and Surya Deva** issued a 
 
 - **Craig Phillips** — Morgan Stanley → BlackRock → Treasury Counselor for Housing Finance (2017-19) → returned to Wall Street
 - **Brian Deese** — BlackRock Global Head of Sustainable Investing → Biden NEC Director (2021-23)
-- **Bill Pulte** — Pulte Capital Partners (PE) → FHFA Director (2025-present), PE executive overseeing Fannie Mae and Freddie Mac; made himself chair of both GSE boards
+- **[[Bill Pulte]]** — Pulte Capital Partners (PE) → FHFA Director (2025-present), PE executive overseeing Fannie Mae and Freddie Mac; made himself chair of both GSE boards
 - **Scott Turner** — White House Opportunity Zones Council → HUD Secretary (2025), advocated for PE investment in housing at confirmation hearing
 
 This concentration of revolving-door personnel represents the most direct instance of PE-to-regulator capture in recent housing policy history. PE firms have disproportionately relied on GSE financing: **52% of PE-owned manufactured housing parks** are financed by Fannie Mae or Freddie Mac, compared to just 9% of all parks nationwide — meaning taxpayer-backed financing directly supports institutional landlord acquisitions.

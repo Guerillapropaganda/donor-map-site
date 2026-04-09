@@ -26,7 +26,7 @@ donors: Defense Contractors - Lockheed Martin, Northrop Grumman, General Dynamic
 Virginia's 2026 Senate seat is a **Democratic defense** — incumbent Mark Warner (D) is seeking a fourth Senate term. Virginia has trended Democratic since 2008 (Biden +10.3 in 2020, Harris +8.2 in 2024) following Obama-era demographic change and Northern Virginia's transformation from exurban Republican base to Democratic stronghold. However, 2026 is a Republican-leaning midterm cycle, and Virginia has pockets of competitive red (Southwest Appalachia, parts of the Shenandoah Valley).
 
 ### Democratic Primary (August 4, 2026):
-- **Mark Warner** (incumbent) — running for fourth term, heavily favored
+- **[[Mark Warner]]** (incumbent) — running for fourth term, heavily favored
 - **Jason Reynolds** — first Democratic primary challenge to Warner in Senate career (ran unopposed 2008, 2014, 2020)
 - **Lorita Daniels, Gregory Eichelberger, Mark Moran** — other primary candidates
 - **Competitive Assessment:** Warner heavily favored in Democratic primary. Reynolds is progressive/younger challenger, but Warner's money advantage is dominant.
@@ -65,10 +65,10 @@ Winner of Democratic primary will likely win general election. Virginia's Democr
 ### Defense Contractor Money — The Unspoken Donor Force:
 Virginia is the headquarters of America's defense-industrial complex:
 - **[[Lockheed Martin|Lockheed Martin]]** (Arlington HQ) — $250B+ revenue, 150K+ employees
-- **Northrop Grumman** (Arlington) — $36B+ revenue
-- **General Dynamics** (Arlington) — $39B+ revenue
-- **Booz Allen Hamilton** (McLean) — $27B+ revenue (government consulting)
-- **Raytheon Technologies** (Alexandria) — major operations
+- **[[Northrop Grumman]]** (Arlington) — $36B+ revenue
+- **[[General Dynamics]]** (Arlington) — $39B+ revenue
+- **[[Booz Allen Hamilton]]** (McLean) — $27B+ revenue (government consulting)
+- **[[Raytheon Technologies]]** (Alexandria) — major operations
 - **Science Applications International Corporation (SAIC)** (Arlington) — $14B+ revenue
 
 These five companies alone generate $350B+ annual revenue, mostly from federal contracts, and employ 500K+ people. They are the economic base of Northern Virginia. They donate heavily to politicians who protect defense spending. Warner, as a senator on appropriations-adjacent committees, receives substantial defense contractor money via PACs, individual executives, and law firm bundlers.

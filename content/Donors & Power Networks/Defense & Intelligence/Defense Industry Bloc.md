@@ -103,9 +103,9 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Budget/Appropriations** → Funds **Patty Murray** → Sits on **Appropriations**
-- Lobbies on **Defense** → Funds **Patty Murray** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Budget/Appropriations** → Funds **[[Patty Murray]]** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **[[Patty Murray]]** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **[[Patty Murray]]** → Sits on **Appropriations**
 
 **Funded politicians:**
 

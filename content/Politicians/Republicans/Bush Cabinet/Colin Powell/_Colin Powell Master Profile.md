@@ -88,7 +88,7 @@ Colin Powell. Four-star general, Chairman of the Joint Chiefs of Staff (1989–1
 
 #### The UN WMD Speech (Credibility as Weapon)
 - **February 5, 2003:** Powell presents false WMD evidence to UN Security Council. Speech relies on Powell's military authority and national credibility to overcome skepticism. Defense contractors positioned to profit from war authorization.
-- **2003–2023:** Iraq War costs $2 trillion; Lockheed Martin, Boeing, Raytheon revenue increases exponentially; Powell never raises objections during active war
+- **2003–2023:** Iraq War costs $2 trillion; [[Lockheed Martin]], Boeing, Raytheon revenue increases exponentially; Powell never raises objections during active war
 - **Time gap:** Powell authorized war in February 2003; defense contracts signed immediately after; Powell remains Secretary of State through 2005, overseeing post-invasion diplomacy that protects contractor interests
 
 #### Post-War Board Monetization (Financial Payoff)

@@ -338,7 +338,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 **Notable cases:**
 - Gallardo v. L3 Technologies, Inc. (2025) — District Court, S.D. California
 - American Trash Management, Inc. (2025) — United States Bankruptcy Court, N.D. California
-- Advanced Technologies Group, Inc. v. L3Harris Technologies, Inc. (2025) — District Court, S.D. New York
+- Advanced Technologies Group, Inc. v. [[L3Harris Technologies]], Inc. (2025) — District Court, S.D. New York
 - Desktop Metal, Inc., Debtor (2025) — United States Bankruptcy Court, S.D. Texas
 - Nathan Griffin v. Stellant Systems, Inc. (2025) — District Court, C.D. California
 - Appiah v. L3 Technologies (2025) — District Court, D. Utah

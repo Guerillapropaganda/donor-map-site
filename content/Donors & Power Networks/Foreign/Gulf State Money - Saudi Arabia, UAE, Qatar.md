@@ -110,7 +110,7 @@ PIF ($2B to Kushner, LIV Golf), QIA ($375M to X), ADIA/Tahnoon ($500M to WLF). B
 Hundreds of millions annually. Saudi Arabia alone: $39M peak. Legal. Disclosed. Effective.
 
 #### 3. Think tank funding
-Brookings Institution, Aspen Institute, Baker Institute accept millions from Gulf governments. No disclosure required. Tax-exempt.
+[[Brookings Institution]], Aspen Institute, Baker Institute accept millions from Gulf governments. No disclosure required. Tax-exempt.
 
 #### 4. Real estate and business deals
 QIA's $3.78B in Manhattan. Saudi/UAE investments in U.S. companies. Legal purchases that create dependency relationships.

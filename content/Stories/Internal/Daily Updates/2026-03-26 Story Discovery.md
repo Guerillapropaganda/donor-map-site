@@ -39,8 +39,8 @@ A separate WaPo analysis (Nov 3, 2025) confirmed the same pattern. Citizens for 
 
 ### Donation-to-policy timeline:
 - Companies donate to Trump ballroom (undisclosed amounts, most donors refused to specify)
-- DOJ drops antitrust cases vs. Amazon, Apple, Meta, Microsoft, Nvidia, T-Mobile
-- NLRB labor cases vs. Amazon, Apple, Caterpillar, Google, Lockheed, Meta suspended
+- DOJ drops antitrust cases vs. [[Amazon]], Apple, Meta, Microsoft, Nvidia, T-Mobile
+- NLRB labor cases vs. [[Amazon]], Apple, Caterpillar, Google, Lockheed, Meta suspended
 - SEC matters vs. Coinbase, Ripple dropped
 - Same companies receive $43B in federal contracts in the most recent year
 

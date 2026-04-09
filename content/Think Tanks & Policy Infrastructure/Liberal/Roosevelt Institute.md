@@ -61,7 +61,7 @@ Unlike RAND (government contracts) or Heritage (corporate mega-donors), the Roos
 - **Bauman Foundation** — early and consistent supporter
 - **Carnegie Corporation** — general support
 - **Arnold Ventures** — research funding
-- **Walton Family Foundation** — education policy research
+- **[[Walton Family Foundation]]** — education policy research
 
 **Democracy Alliance connection:** In 2015, the Democracy Alliance — the major progressive donor collaborative that coordinates giving among liberal mega-donors including George Soros, Tom Steyer, and others — added the Roosevelt Institute to its list of recommended funding targets. Wong's background at the Democracy Alliance before taking the Roosevelt helm makes this connection particularly direct. The Alliance's endorsement channels seven-figure donations from wealthy progressive donors into Roosevelt's operations.
 

@@ -76,7 +76,7 @@ The defining story of Mercury is the firm's capacity to survive scandal and reor
 - **OpenAI** — AI company; lobbied by Jonathan Pyatt
 - **Oracle Corp (Oracle America)** — Enterprise software and cloud
 - **Qualcomm Inc** — Semiconductor manufacturer
-- **Bank of America** ($120,000) — Major US commercial bank
+- **[[Bank of America]]** ($120,000) — Major US commercial bank
 - **Blue Cross/Blue Shield (Horizon NJ)** ($200,000) — Health insurance
 - **Bayer AG** ($180,000) — German pharma/agriculture conglomerate
 

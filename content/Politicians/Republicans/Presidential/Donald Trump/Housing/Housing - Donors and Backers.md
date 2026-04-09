@@ -32,7 +32,7 @@ Maps the real estate donor network shaping Trump's housing policy. Trump is uniq
 ### The Kushner Opportunity Zone Self Deal
 
 > [!money]
-> **Jared Kushner** and Ivanka Trump lobbied for the Opportunity Zone provisions in the 2017 Tax Cuts and Jobs Act. Kushner then invested in 13 Opportunity Zone properties through Cadre, a commercial real estate investment platform. His stake was worth $25 to $50 million. The AP found all 13 properties were in gentrifying areas. Kushner received permission to defer capital gains taxes on his Cadre stake specifically because of the provision he helped create. This is the clearest self dealing example in the administration. The presidential family member who shaped the tax policy personally profited from it.
+> **[[Jared Kushner]]** and Ivanka Trump lobbied for the Opportunity Zone provisions in the 2017 Tax Cuts and Jobs Act. Kushner then invested in 13 Opportunity Zone properties through Cadre, a commercial real estate investment platform. His stake was worth $25 to $50 million. The AP found all 13 properties were in gentrifying areas. Kushner received permission to defer capital gains taxes on his Cadre stake specifically because of the provision he helped create. This is the clearest self dealing example in the administration. The presidential family member who shaped the tax policy personally profited from it.
 
 ---
 

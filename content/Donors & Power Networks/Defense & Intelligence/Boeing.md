@@ -290,12 +290,12 @@ content-readiness:: ready
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **[[Adam Smith]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Jack Reed]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Patty Murray]]** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **[[Tammy Duckworth]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Mike Rogers]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Tom Cole]]** → Sits on **Appropriations**
 
 **Funded politicians:**
 

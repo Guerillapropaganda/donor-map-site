@@ -50,7 +50,7 @@ Cassidy's 2025 client roster of 188 entities spans defense, energy, education, m
 - **EQT Corp / Cypress Creek Renewables** — undisclosed (natural gas)
 
 #### Defense & Aerospace
-- **BAE Systems** — $320,000 (defense)
+- **[[BAE Systems]]** — $320,000 (defense)
 - **Allen Control Systems** — $170,000 (defense)
 - **Airbus Group / Airbus Americas** — $240,000 (air transport)
 - **Fluor Corp** — undisclosed (defense contractor)

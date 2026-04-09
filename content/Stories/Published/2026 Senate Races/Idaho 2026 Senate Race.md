@@ -29,7 +29,7 @@ Jim Risch, the 82-year-old incumbent Republican senator, is running for his four
 ### Candidate Field:
 
 *Republicans (May 19 primary):*
-- **Jim Risch** (incumbent)
+- **[[Jim Risch]]** (incumbent)
 - Joe Evans
 - Denny LaVe
 - Josh Roy

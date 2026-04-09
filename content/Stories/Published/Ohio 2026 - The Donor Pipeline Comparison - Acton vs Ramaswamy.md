@@ -45,7 +45,7 @@ The contrast is stark enough to reshape how we think about the race. Ramaswamy's
 ### WHO IS JEFF YASS, AND WHAT DOES HE WANT?
 [[Jeff Yass|Jeff Yass]] doesn't run for office. He buys access to people who do.
 
-Founder and owner of **Susquehanna International Group**, one of the largest private quantitative trading firms in the world. No public shareholders. No regulatory disclosure requirements beyond his personal wealth. Yass and his partners built a $100B+ trading operation in Bala Cynwyd, Pennsylvania — 40 minutes from the Ohio border — by turning financial mathematics into market advantage.
+Founder and owner of **[[Susquehanna International Group]]**, one of the largest private quantitative trading firms in the world. No public shareholders. No regulatory disclosure requirements beyond his personal wealth. Yass and his partners built a $100B+ trading operation in Bala Cynwyd, Pennsylvania — 40 minutes from the Ohio border — by turning financial mathematics into market advantage.
 
 **His real wealth comes from TikTok.** Susquehanna holds ~7% of ByteDance, TikTok's parent company. That stake is worth **up to $34 billion** depending on the company's valuation. When Congress and Trump talk about banning TikTok, they're talking about nationalizing (or forcing a sale of) Yass's second multi-billion-dollar fortune.
 
@@ -107,7 +107,7 @@ Every stage of the structure benefits the fortune that funds it. It's not a conf
 This is materially different from how Democratic campaigns are usually funded. In a donor-first analytical framework, the small-dollar model presents a puzzle: does different funding produce different governance?
 
 ### However, there are structural limits within this model that deserve scrutiny:
-The **Ohio Democratic Party** is her largest single donor at $125K. This matters. It's not a billionaire's super PAC, but it represents institutional Democratic infrastructure. The ODP comes with expectations — endorsement patterns, consultant networks, fundraising infrastructure, messaging discipline. Acton gets organizational power in exchange for alignment with state party priorities. It's not as explicit as a billionaire's $10M, but it's a channel for constraint.
+The **[[Ohio Democratic Party]]** is her largest single donor at $125K. This matters. It's not a billionaire's super PAC, but it represents institutional Democratic infrastructure. The ODP comes with expectations — endorsement patterns, consultant networks, fundraising infrastructure, messaging discipline. Acton gets organizational power in exchange for alignment with state party priorities. It's not as explicit as a billionaire's $10M, but it's a channel for constraint.
 
 **EMILY's List endorsement** is significant for different reasons. EMILY's List is the Democratic Party's female candidate infrastructure — it brings fundraising networks, volunteer coordination, and strategic alignment with the national Democratic establishment. It's not direct funding, but it's organizational and political leverage. EMILY's List endorsement comes with expectations about abortion rights positioning and national party alignment.
 

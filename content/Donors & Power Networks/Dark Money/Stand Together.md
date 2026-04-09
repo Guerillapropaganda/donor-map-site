@@ -282,7 +282,7 @@ content-readiness:: developed
 **Notable cases:**
 - Gilbert Baker Foundation v. U.S. Department of Interior (2026) — District Court, S.D. New York
 - Orr v. Stand Together Chamber of Commerce, Inc. (2026) — District Court, E.D. Virginia
-- Golden v. Google, LLC (2026) — District Court, N.D. California
+- Golden v. [[Google]], LLC (2026) — District Court, N.D. California
 - KalshiEX LLC v. Cafferelli (2025) — District Court, D. Connecticut
 - Christian and Jewish Alliance Inc. v. Brunner (2025) — District Court, S.D. California
 - CITY OF PHILADELPHIA v. CVS HEALTH CORPORATION (2025) — District Court, E.D. Pennsylvania

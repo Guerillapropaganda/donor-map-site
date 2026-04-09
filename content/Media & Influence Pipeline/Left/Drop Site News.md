@@ -61,7 +61,7 @@ This is distinct from The Intercept's Omidyar problem because it is not explicit
 
 ### What Their Funders Got
 
-**Open Society Foundations** secured a dedicated MENA reporting desk producing Gaza/Palestine coverage aligned with OSF's stated regional priorities and geopolitical positioning. The grant explicitly purchased editorial real estate—a guaranteed desk producing content in a specific geographic focus area. This is not covert influence; it is contractual foundation practice. But the non-disclosure created the appearance of independence while extracting the benefit of alignment.
+**[[Open Society Foundations]]** secured a dedicated MENA reporting desk producing Gaza/Palestine coverage aligned with OSF's stated regional priorities and geopolitical positioning. The grant explicitly purchased editorial real estate—a guaranteed desk producing content in a specific geographic focus area. This is not covert influence; it is contractual foundation practice. But the non-disclosure created the appearance of independence while extracting the benefit of alignment.
 
 **Subscribers** received aggressive adversarial national security journalism with explicit anti-establishment editorial voice. They paid for Palestine coverage and got it in abundance. The transaction is transparent: reader pays, outlet produces content readers want.
 

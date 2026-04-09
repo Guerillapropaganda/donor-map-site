@@ -136,8 +136,8 @@ Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://lda.gov/
 ### 2024 Cycle Breakdown:
 - Total API PAC contributions: $6,918,202 (88.3% to Republicans, 11.7% to Democrats)
 - **Super PAC dark money (2024):** $6,500,000 outside spending
-- **Senate Leadership Fund** (Republican Senate super PAC): $3,500,000
-- **Congressional Leadership Fund** (House Republican super PAC): $3,000,000
+- **[[Senate Leadership Fund]]** (Republican Senate super PAC): $3,500,000
+- **[[Congressional Leadership Fund]]** (House Republican super PAC): $3,000,000
 - These are API's top two recipients of soft money
 
 **Post-Citizens United Strategy:** The dramatic spike in outside spending beginning in 2020 reflects deliberate post-*Citizens United* restructuring. Rather than giving to candidates directly, API routes large sums through 501(c)(4) groups and super PACs to maintain anonymity while enabling unlimited spending.

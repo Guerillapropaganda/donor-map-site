@@ -46,7 +46,7 @@ The most documented donor-to-outcome story in his labor record. Confirmed spendi
 
 **Instacart** — $31.6 million to Prop 22. Funded legal defense. Research still needed on California political spending beyond Prop 22.
 
-**Post-Prop 22 institutional infrastructure:** In 2021, all five gig companies plus Grubhub, HopSkipDrive, and Shipt co-founded the **Flex Association** — a permanent trade association and lobbying group. This is the ballot measure coalition made permanent. [Source: The Hill — Tier 2]
+**Post-Prop 22 institutional infrastructure:** In 2021, all five gig companies plus Grubhub, HopSkipDrive, and Shipt co-founded the **[[Flex Association]]** — a permanent trade association and lobbying group. This is the ballot measure coalition made permanent. [Source: The Hill — Tier 2]
 
 ### Remaining research needed:
 — FPPC Cal-Access direct search for Uber, Lyft, DoorDash corporate contributions to Newsom and California Democratic Party
@@ -62,7 +62,7 @@ The most documented donor-to-outcome story in his labor record. Confirmed spendi
 
 **[[California Restaurant Association|California Restaurant Association]] (CRA)** — The primary lobbying organization for the restaurant industry in Sacramento. Consistently opposes minimum wage increases and labor protections. CRA PAC contribution history to Newsom and California Democrats is a research priority.
 
-**National Restaurant Association** — The federal counterpart; funds opposition to labor protections nationally. Tracks with CRA at the state level.
+**[[National Restaurant Association]]** — The federal counterpart; funds opposition to labor protections nationally. Tracks with CRA at the state level.
 
 ### Research needed:
 — CRA PAC contributions to Newsom and California Democratic Party (FPPC filings)

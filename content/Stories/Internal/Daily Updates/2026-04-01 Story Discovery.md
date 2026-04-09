@@ -172,7 +172,7 @@ The man running DOGE (cutting government agencies, influencing contracts) is sim
 
 ### Pattern identified:
 Andreessen Horowitz (a16z) now appears as a major funder in BOTH:
-1. **Fairshake PAC** (crypto) — bipartisan, $191M war chest
+1. **[[Fairshake PAC]]** (crypto) — bipartisan, $191M war chest
 2. **Leading the Future** (AI) — bipartisan, $100M target
 
 Both PAC networks explicitly fund Republicans AND Democrats. Both use neutral-sounding sub-PAC names. Both spend on issues unrelated to their core industry to elect "friendly" candidates. a16z is the common node connecting these two parallel donor machines.

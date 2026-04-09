@@ -45,7 +45,7 @@ Maps the dark money donor network that funded the most consequential judicial tr
 ### Barre Seid. $1.6 Billion in a Single Check
 
 > [!money]
-> In 2021, **Barre Seid**, the founder of Seid Manufacturing and Engineering (electrical device manufacturer), donated $1.6 billion to Leo's Marble Freedom Trust. It was the largest known political advocacy donation in American history. Seid transferred ownership of his company to the trust, which sold it and retained the proceeds. The structure allowed Seid to avoid approximately $400 million in capital gains taxes. The man who funded the judicial pipeline that will shape American law for a generation paid zero capital gains on the transaction. The tax code that permits this structure was upheld by the same judicial framework his money built.
+> In 2021, **[[Barre Seid]]**, the founder of Seid Manufacturing and Engineering (electrical device manufacturer), donated $1.6 billion to Leo's Marble Freedom Trust. It was the largest known political advocacy donation in American history. Seid transferred ownership of his company to the trust, which sold it and retained the proceeds. The structure allowed Seid to avoid approximately $400 million in capital gains taxes. The man who funded the judicial pipeline that will shape American law for a generation paid zero capital gains on the transaction. The tax code that permits this structure was upheld by the same judicial framework his money built.
 
 ---
 

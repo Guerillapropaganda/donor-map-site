@@ -79,7 +79,7 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 ### Key Policy-to-Donor Pipelines
 
 #### The 2017 Tax Cuts and Jobs Act (The Deal)
-- **2016–2017:** Ryan chairs House Ways & Means Committee; Koch network mobilizes Americans for Prosperity to support tax cut legislation; Goldman Sachs, JPMorgan, and financial sector maximize lobbying for corporate rate reduction
+- **2016–2017:** Ryan chairs House Ways & Means Committee; Koch network mobilizes Americans for Prosperity to support tax cut legislation; [[Goldman Sachs]], JPMorgan, and financial sector maximize lobbying for corporate rate reduction
 - **December 2017:** Ryan shepherds Tax Cuts and Jobs Act through House; bill reduces corporate tax rate from 35% to 21%, provides $1.9 trillion in upward wealth transfer
 - **Direct benefit timeline:**
   - Corporate tax cuts: Immediate revenue loss to government; immediate profit increase for corporations and shareholders

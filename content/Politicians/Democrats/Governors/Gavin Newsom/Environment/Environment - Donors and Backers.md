@@ -45,7 +45,7 @@ PG&E's relationship with Newsom runs through:
 ### The Oil and Gas Industry
 **[[Chevron|Chevron]]** — California's largest oil company, headquartered in San Ramon. Operates refineries in Richmond and El Segundo. Political contributions to Newsom: **$180K–240K (2018–2026).** Lobbying spend in Sacramento: **$800K–1.2M annually.** The Richmond refinery is in a low-income community of color with documented health impacts from refinery emissions. [[Chevron|Chevron]]'s political giving in California has historically focused on opposing environmental regulation. No AB 1137 (oil setback) direct opposition, but WSPA's $6.5M referendum campaign suggests industry coordination.
 
-**Occidental Petroleum** — Has substantial California oil production, particularly in Kern County. Billionaire owner Vicki Hollub; Warren Buffett's Berkshire Hathaway has significant stake. Campaign contributions to Newsom: **$100K–150K (2018–2026).** California Central Valley operations: 300,000+ barrels/day production.
+**[[Occidental Petroleum]]** — Has substantial California oil production, particularly in Kern County. Billionaire owner Vicki Hollub; Warren Buffett's Berkshire Hathaway has significant stake. Campaign contributions to Newsom: **$100K–150K (2018–2026).** California Central Valley operations: 300,000+ barrels/day production.
 
 **[[Western States Petroleum Association|Western States Petroleum Association]] (WSPA)** — The primary oil industry lobbying organization in California. Funded the referendum attempt against SB 1137 (oil well setback law): **$6.5M opposition campaign (2022).** Total Sacramento lobbying: **$3M–4M annually.** [See: [[Western States Petroleum Association]]]
 

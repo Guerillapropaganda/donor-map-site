@@ -351,12 +351,12 @@ content-readiness:: developed
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Banking** → Funds **John Cornyn** → Sits on **Finance**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **John Cornyn** → Sits on **Judiciary**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
-- Lobbies on **Immigration** → Funds **John Cornyn** → Sits on **Judiciary**
-- Lobbies on **Intelligence** → Funds **John Cornyn** → Sits on **Intelligence**
-- Lobbies on **Medicare/Medicaid** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Banking** → Funds **[[John Cornyn]]** → Sits on **Finance**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[John Cornyn]]** → Sits on **Judiciary**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **[[John Cornyn]]** → Sits on **Finance**
+- Lobbies on **Immigration** → Funds **[[John Cornyn]]** → Sits on **Judiciary**
+- Lobbies on **Intelligence** → Funds **[[John Cornyn]]** → Sits on **Intelligence**
+- Lobbies on **Medicare/Medicaid** → Funds **[[John Cornyn]]** → Sits on **Finance**
 
 **Funded politicians:**
 

@@ -64,7 +64,7 @@ Uber's political operation is the most aggressive: the Uber Innovation PAC commi
 > [!money]
 > The structural argument doesn't require a direct payment to the governor to be meaningful. A company that can spend $60 million on a single ballot measure and $7 million reshaping the legislature doesn't need to buy the governor. It needs the governor to stay quiet. That silence is what $205 million purchases. [See: [[Labor - Donors and Backers]]]
 
-**Post-Prop 22 institutional infrastructure:** In 2021, Uber, Lyft, DoorDash, Instacart, Grubhub, HopSkipDrive, and Shipt co-founded the **Flex Association** — a permanent trade association and lobbying group for the gig economy industry. Launched with a seven-figure ad buy in Washington, D.C. This is the ballot measure model made permanent: the temporary Prop 22 coalition became a standing political entity. [Source: The Hill — Tier 2]
+**Post-Prop 22 institutional infrastructure:** In 2021, Uber, Lyft, DoorDash, Instacart, Grubhub, HopSkipDrive, and Shipt co-founded the **[[Flex Association]]** — a permanent trade association and lobbying group for the gig economy industry. Launched with a seven-figure ad buy in Washington, D.C. This is the ballot measure model made permanent: the temporary Prop 22 coalition became a standing political entity. [Source: The Hill — Tier 2]
 
 ---
 

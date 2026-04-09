@@ -308,7 +308,7 @@ Trump signed executive order establishing:
 - **Budget-neutral acquisition strategy:** Treasury and Commerce authorized to develop strategies for acquiring additional bitcoin without budget impact
 - **Asset composition:** Bitcoin, Ethereum, XRP, Solana, Cardano announced for inclusion
 
-David Sacks, White House "Crypto Czar," described the reserve as "a digital Fort Knox." This executive action directly benefits crypto market valuations and signals government participation in crypto asset base-building.
+[[David Sacks]], White House "Crypto Czar," described the reserve as "a digital Fort Knox." This executive action directly benefits crypto market valuations and signals government participation in crypto asset base-building.
 
 Sources: Politico (Tier 2), Reuters (Tier 2), Latham & Watkins (Tier 3, UNVERIFIED)
 

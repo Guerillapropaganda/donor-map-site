@@ -94,11 +94,11 @@ Five donor nodes selected at random from `topics/Donors & Power Networks/`. For 
 
 #### Donor Nodes Audited
 
-1. **The 85 Fund** (`Donors & Power Networks/Dark Money/The 85 Fund.md`)
-2. **FTX - Sam Bankman-Fried** (`Donors & Power Networks/Tech & Crypto/FTX - Sam Bankman-Fried.md`)
+1. **[[The 85 Fund]]** (`Donors & Power Networks/Dark Money/The 85 Fund.md`)
+2. **[[FTX - Sam Bankman-Fried]]** (`Donors & Power Networks/Tech & Crypto/FTX - Sam Bankman-Fried.md`)
 3. **Cargill** (`Donors & Power Networks/Agriculture/Cargill.md`)
-4. **National Education Association** (`Donors & Power Networks/Education/National Education Association.md`)
-5. **J Street** (`Donors & Power Networks/Israel Lobby/J Street.md`)
+4. **[[National Education Association]]** (`Donors & Power Networks/Education/National Education Association.md`)
+5. **[[J Street]]** (`Donors & Power Networks/Israel Lobby/J Street.md`)
 
 #### Shared-Donor Connection Gaps Table
 
@@ -133,7 +133,7 @@ Ranked by analytical impact and reference volume.
 
 | Priority | Action | Rationale |
 |----------|--------|-----------|
-| **1** | Add outgoing links from `Elon Musk.md` → Stories section (substantive story files) + Media & Influence Pipeline (7 files) | Elon Musk is 8th most-referenced hub (162 refs) with NO outgoing links to Stories or Media. Joe Rogan, Tucker Carlson, Bari Weiss, Matt Taibbi all tied to Musk editorially. Missing connections weaken the network graph. |
+| **1** | Add outgoing links from `Elon Musk.md` → Stories section (substantive story files) + Media & Influence Pipeline (7 files) | Elon Musk is 8th most-referenced hub (162 refs) with NO outgoing links to Stories or Media. [[Joe Rogan]], Tucker Carlson, Bari Weiss, Matt Taibbi all tied to Musk editorially. Missing connections weaken the network graph. |
 | **2** | Add outgoing links from `Goldman Sachs.md` → Think Tanks & Policy Infrastructure (17 files: Brookings, CFR, Atlantic Council, RAND, CAP, Third Way, Aspen) | Goldman Sachs funds or places alumni at 17 think tank nodes that reference it but receive no link from Goldman Sachs itself. This is the revolving door gap with the highest file count in a single missing section. |
 | **3** | Add `[[The 85 Fund]]` wikilink to `_Sheldon Whitehouse Master Profile.md` | Whitehouse has made The 85 Fund his primary rhetorical weapon — it appears prominently in his profile text but has no functional wikilink. Highest-impact single politician→donor link gap. |
 | **4** | Add outgoing links from `Peter Thiel.md` → Media & Influence Pipeline (18 files) | Peter Thiel is 10th most-referenced hub (154 refs). 18 media personality files reference him, including Bari Weiss, Glenn Greenwald, Joe Rogan, Lex Fridman, Matt Taibbi — all of whom received Thiel funding or platforming. No outgoing links from Thiel's own file to Media section. |

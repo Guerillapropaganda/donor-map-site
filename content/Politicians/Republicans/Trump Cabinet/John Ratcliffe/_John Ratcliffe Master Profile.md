@@ -61,7 +61,7 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 ### Donor Class Map
 
 ### The Defense Contractor Revolving Door:
-- [[The Defense Contractor Revolving Door and the Consulting Pipeline]] — Congressional donors: defense sector $110.5K, [[Club for Growth|Club for Growth]] $111K, L3 Technologies $28K. Post-government: Blackstone $1.3M, US Trinity Energy $500K, Latent AI stock options (military AI/ISR). Heritage Foundation $80–90K. Total post-government: $2.2M+ itemized, $3.3M total 2024 income. The congressman who took defense money → the consultant who took defense money → the CIA director who controls defense budgets.
+- [[The Defense Contractor Revolving Door and the Consulting Pipeline]] — Congressional donors: defense sector $110.5K, [[Club for Growth|Club for Growth]] $111K, L3 Technologies $28K. Post-government: Blackstone $1.3M, US Trinity Energy $500K, Latent AI stock options (military AI/ISR). [[Heritage Foundation]] $80–90K. Total post-government: $2.2M+ itemized, $3.3M total 2024 income. The congressman who took defense money → the consultant who took defense money → the CIA director who controls defense budgets.
 
 ### The Intelligence Politicization Pattern:
 - [[The Intelligence Politicization Pattern from DNI to CIA]] — DNI: declassified Clinton campaign memo before 2020 election (against Haspel objections). Pressured analysts on China vs. Russia assessment. Provided 1,000 pages to Durham investigation. CIA: 1,200 personnel cuts, 67 security clearances revoked, buyout offer to entire workforce. Signal chat: exposed undercover officer's name. Intelligence ombudsman: ODNI objectivity "marred" by "undue influence."

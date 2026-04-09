@@ -216,13 +216,13 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Ro Khanna** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Immigration** → Funds **Ro Khanna** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Agriculture** → Funds **Amy Klobuchar** → Sits on **Agriculture**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Amy Klobuchar** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Amy Klobuchar** → Sits on **Judiciary**
-- Lobbies on **Immigration** → Funds **Amy Klobuchar** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Immigration** → Funds **Amy Klobuchar** → Sits on **Judiciary**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[Ro Khanna]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Immigration** → Funds **[[Ro Khanna]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Agriculture** → Funds **[[Amy Klobuchar]]** → Sits on **Agriculture**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[Amy Klobuchar]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[Amy Klobuchar]]** → Sits on **Judiciary**
+- Lobbies on **Immigration** → Funds **[[Amy Klobuchar]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Immigration** → Funds **[[Amy Klobuchar]]** → Sits on **Judiciary**
 
 **Funded politicians:**
 

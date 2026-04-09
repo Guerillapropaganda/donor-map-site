@@ -108,7 +108,7 @@ The March 27 run covered general crypto regulatory capture. The March 17 ruling 
 Public Citizen's Corporate Enforcement Tracker documents 31 corporations that donated to Trump's inauguration and subsequently had federal enforcement actions canceled or frozen. 40% of the 64 canceled actions involved consumer protection violations.
 
 ### Named examples beyond Coinbase (already covered):
-- **Bank of America** — donated to inauguration → enforcement action canceled
+- **[[Bank of America]]** — donated to inauguration → enforcement action canceled
 - **Capital One** — donated to inauguration → enforcement action canceled
 - **DuPont** — donated to inauguration → enforcement action canceled
 - **JPMorgan Chase** — donated to inauguration → enforcement action canceled

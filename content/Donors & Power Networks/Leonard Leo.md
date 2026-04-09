@@ -53,7 +53,7 @@ Leo's power derives from his control of multiple dark money vehicles that obscur
 
 ### Primary Dark Money Groups (all controlled or coordinated by Leo):
 - **[[Marble Freedom Trust|Marble Freedom Trust]]** — $1.6 BILLION single donation from Barre Seid (2021). Total lifetime: $2.2B distributed
-- **The 85 Fund** — Judicial election spending vehicle. $75M+ 2020-2024
+- **[[The 85 Fund]]** — Judicial election spending vehicle. $75M+ 2020-2024
 - **Concord Fund** — Policy implementation, $12M+ annual
 - **Lexington Fund** — Infrastructure for state court captures, $8M+ annual
 - **First Principles PACs (multiple entities)** — Federal election spending, $20M+ 2024

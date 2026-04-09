@@ -92,7 +92,7 @@ Carlyle's political priorities are inseparable from its business model — every
 Carlyle's contribution pattern is strategically bipartisan, with the partisan split shifting based on which party controls Congress and the White House:
 
 ### 2024 cycle — $3.9M total, 71% Democratic:
-Top recipients include Senate Majority PAC ($675,815), National Democratic Redistricting Committee ($300,000), DCCC ($283,332), DNC ($200,868), House Majority PAC ($150,000), and DSCC ($141,551). Kamala Harris received $109,100. Kyrsten Sinema — the senator who personally killed carried interest reform in the Inflation Reduction Act — received $103,900. The NRCC received $82,062.
+Top recipients include Senate Majority PAC ($675,815), National Democratic Redistricting Committee ($300,000), DCCC ($283,332), DNC ($200,868), House Majority PAC ($150,000), and DSCC ($141,551). Kamala Harris received $109,100. [[Kyrsten Sinema]] — the senator who personally killed carried interest reform in the Inflation Reduction Act — received $103,900. The NRCC received $82,062.
 
 ### Historical partisan oscillation:
 The contribution data tells the story of a firm that buys access regardless of party:
@@ -143,7 +143,7 @@ No firm in American history has assembled a more impressive collection of former
 - **James Baker III** — Secretary of State and Secretary of the Treasury. Senior counselor to Carlyle. Baker's diplomatic relationships facilitated Carlyle's international deal pipeline.
 - **Frank Carlucci** — Secretary of Defense and CIA Deputy Director. Managing director 1989-1993, chairman 1993-2003. During Carlucci's chairmanship, Carlyle grew from a small firm to a global defense investment powerhouse. Carlucci maintained relationships with Defense Secretary Rumsfeld and Secretary of State Colin Powell during the Iraq War buildup — while Carlyle held defense portfolio companies that benefited from the war.
 - **Jerome Powell** — Federal Reserve Chair. Partner at Carlyle from 1997 to 2005, working on industrial investments. The Revolving Door Project documented Powell's time at Carlyle during a period when the firm engaged in leveraged buyouts that led to layoffs and union-busting at portfolio companies.
-- **Glenn Youngkin** — Governor of Virginia. Co-CEO of Carlyle from 2018 to 2020, with 25 years at the firm. Youngkin's net worth (estimated $400M+) was built entirely at Carlyle. He retired to run for governor, winning in 2021 — making him the most direct Carlyle-to-political-office pipeline in the firm's history.
+- **[[Glenn Youngkin]]** — Governor of Virginia. Co-CEO of Carlyle from 2018 to 2020, with 25 years at the firm. Youngkin's net worth (estimated $400M+) was built entirely at Carlyle. He retired to run for governor, winning in 2021 — making him the most direct Carlyle-to-political-office pipeline in the firm's history.
 - **John Major** — British Prime Minister. European chairman of Carlyle. Major's involvement opened doors to European governments and sovereign wealth funds.
 - **Arthur Levitt** — SEC Chairman. Carlyle senior advisor. The former securities regulator advising a private equity firm is the revolving door in its purest form.
 - **Louis Gerstner** — IBM CEO. Carlyle chairman 2003-2008, succeeding Carlucci.

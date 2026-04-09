@@ -74,7 +74,7 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Agriculture** → Funds **Joni Ernst** → Sits on **Agriculture**
+- Lobbies on **Agriculture** → Funds **[[Joni Ernst]]** → Sits on **Agriculture**
 
 **Funded politicians:**
 

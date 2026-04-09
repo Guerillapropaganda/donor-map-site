@@ -23,7 +23,7 @@ related:: [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders 
 
 In April 2016, while Sanders was still competing, Chakrabarti and ~20 former Sanders staffers founded **Brand New Congress** — a PAC and operational vehicle designed to run candidates in 400+ House seats. The core team included Alexandra Rojas, Corbin Trent, and Zack Exley. The model was audacious: identify insurgent candidates, vet them, fund them, and coordinate messaging.
 
-When Sanders lost, the appetite for a parallel candidate recruitment infrastructure only grew. By January 23, 2017, **Justice Democrats** formally launched as its sister PAC, with Chakrabarti as Executive Director. Co-founders included Exley, **Cenk Uygur** from The Young Turks, Kyle Kulinski from Secular Talk, Rojas, and Trent. The organizations would operate in tandem but with distinct legal structures and functions.
+When Sanders lost, the appetite for a parallel candidate recruitment infrastructure only grew. By January 23, 2017, **Justice Democrats** formally launched as its sister PAC, with Chakrabarti as Executive Director. Co-founders included Exley, **[[Cenk Uygur]]** from The Young Turks, Kyle Kulinski from Secular Talk, Rojas, and Trent. The organizations would operate in tandem but with distinct legal structures and functions.
 
 > [!contradiction]
 > Cenk Uygur stepped down December 22, 2017 when old sexist and racist blog posts resurfaced. Kyle Kulinski also withdrew. The founding principle—grassroots insurgency—collided with incomplete vetting of the co-founders themselves.
