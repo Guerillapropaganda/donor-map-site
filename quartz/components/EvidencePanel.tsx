@@ -103,9 +103,12 @@ const EvidencePanel: QuartzComponent = ({
             <span class="ep-context">{contextParts.join(" · ")}</span>
           )}
         </div>
-        {lastUpdated && lastUpdated !== "undefined" && (
-          <span class="ep-updated">UPDATED {lastUpdated}</span>
-        )}
+        <div class="ep-right">
+          {lastUpdated && lastUpdated !== "undefined" && (
+            <span class="ep-updated">UPDATED {lastUpdated}</span>
+          )}
+          <a href="/About-The-Donor-Map" class="ep-verify-link">HOW WE VERIFY →</a>
+        </div>
       </div>
     </div>
   )
@@ -151,10 +154,29 @@ EvidencePanel.css = `
   color: #999;
 }
 
+.ep-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
 .ep-updated {
   font-size: 10px;
   letter-spacing: 1px;
   color: #999;
+}
+
+.ep-verify-link {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: #e63946 !important;
+  text-decoration: none;
+  border-bottom: none !important;
+}
+
+.ep-verify-link:hover {
+  color: #0a0a0a !important;
 }
 
 .ep-row-bottom {
