@@ -1,30 +1,31 @@
 ---
-title: "Hillary Clinton"
+title: Hillary Clinton
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
+party: Democrat
+chamber: Senate
 issues:
-  - "Wall Street & Finance"
-total-received: "$7,102,485"
-fec-candidate-id: "S0NY00188"
-doj-press-mentions: "264311"
-last-enriched: "2026-04-07"
+  - Wall Street & Finance
+total-received: '$7,102,485'
+fec-candidate-id: S0NY00188
+doj-press-mentions: '264311'
+last-enriched: '2026-04-07'
 doj-components:
-  - "Civil Rights Division"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
-  - "USAO - Ohio, Northern"
-  - "USAO - Ohio, Southern"
-donors: "[[Entertainment and Hollywood Donors]]"
+  - Civil Rights Division
+  - 'USAO - Florida, Middle'
+  - 'USAO - Florida, Northern'
+  - 'USAO - Kentucky, Eastern'
+  - 'USAO - Louisiana, Eastern'
+  - USAO - Massachusetts
+  - 'USAO - Missouri, Western'
+  - 'USAO - New York, Northern'
+  - 'USAO - Ohio, Northern'
+  - 'USAO - Ohio, Southern'
+donors: '[[Entertainment and Hollywood Donors]]'
+opposes: '[[KENTUCKIANS FOR STRONG LEADERSHIP]]'
 ---
 
 #politician #donor-captured #wall-street #two-audience-problem
