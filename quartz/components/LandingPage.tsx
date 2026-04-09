@@ -192,35 +192,69 @@ const LandingPage: QuartzComponent = ({
   if (isConstructionMode) {
     return (
       <div class={classNames(displayClass, "lp-landing lp-construction")}>
-        <div class="lp-construct-container">
-          <div class="lp-construct-badge">UNDER CONSTRUCTION</div>
-          <h1 class="lp-construct-title">The Donor Map</h1>
-          <div class="lp-construct-tagline">Follow the Money.</div>
-          <p class="lp-construct-desc">
-            We're building an open-source political donor intelligence database
-            tracking how money controls American politics. Every profile starts with
-            one question: who funds this person, and what did the funders get in return?
-          </p>
-          <div class="lp-construct-stats">
-            <div class="lp-construct-stat">
-              <span class="lp-construct-stat-num">{totalProfiles.toLocaleString()}+</span>
-              <span class="lp-construct-stat-label">Profiles</span>
+        <div class="construct">
+          {/* Top bar */}
+          <div class="construct-topbar">
+            <span class="construct-logo">The Donor Map<span class="construct-dollar">$</span></span>
+            <span class="construct-status-pill">Building</span>
+          </div>
+
+          {/* Hero */}
+          <div class="construct-hero">
+            <div class="construct-meta">OPEN-SOURCE DONOR INTELLIGENCE / {totalProfiles.toLocaleString()} NODES AND COUNTING</div>
+            <h1 class="construct-title">
+              Follow the<br />
+              <span class="construct-highlight">Money.</span>
+            </h1>
+            <p class="construct-desc">
+              A sourced, navigable database tracking how money controls American politics.
+              Every profile starts with one question:{" "}
+              <strong>who funds this person, and what did the funders get in return?</strong>
+            </p>
+          </div>
+
+          {/* Stats */}
+          <div class="construct-stats">
+            <div class="construct-stat">
+              <span class="construct-stat-num">{totalProfiles.toLocaleString()}</span>
+              <span class="construct-stat-label">Profiles</span>
             </div>
-            <div class="lp-construct-stat">
-              <span class="lp-construct-stat-num">{politicianCount.toLocaleString()}</span>
-              <span class="lp-construct-stat-label">Politicians</span>
+            <div class="construct-stat-divider" />
+            <div class="construct-stat">
+              <span class="construct-stat-num">{politicianCount.toLocaleString()}</span>
+              <span class="construct-stat-label">Politicians</span>
             </div>
-            <div class="lp-construct-stat">
-              <span class="lp-construct-stat-num green">{donorCount.toLocaleString()}</span>
-              <span class="lp-construct-stat-label">Donors Tracked</span>
+            <div class="construct-stat-divider" />
+            <div class="construct-stat">
+              <span class="construct-stat-num construct-stat-accent">{donorCount.toLocaleString()}</span>
+              <span class="construct-stat-label">Donors Tracked</span>
+            </div>
+            <div class="construct-stat-divider" />
+            <div class="construct-stat">
+              <span class="construct-stat-num construct-stat-accent">{verifiedCount.toLocaleString()}</span>
+              <span class="construct-stat-label">Verified</span>
             </div>
           </div>
-          <div class="lp-construct-cta">
-            <span class="lp-construct-status">Launching Soon</span>
+
+          {/* Teaser */}
+          <div class="construct-teaser">
+            <div class="construct-teaser-tag">PREVIEW</div>
+            <div class="construct-teaser-content">
+              <div class="construct-teaser-stat">655,172x</div>
+              <div class="construct-teaser-context">
+                Koch Network donated <strong>$2.9M</strong> to McConnell.
+                Return: <strong>$1.9 trillion</strong> in tax cuts.
+                That's the highest ROI we've found. There are hundreds more.
+              </div>
+            </div>
           </div>
-          <div class="lp-construct-contact">
-            <span>Questions? </span>
-            <strong>guerillapropaganda@proton.me</strong>
+
+          {/* Launch */}
+          <div class="construct-launch">
+            <div class="construct-launch-text">Launching Soon</div>
+            <div class="construct-contact">
+              guerillapropaganda@proton.me
+            </div>
           </div>
         </div>
       </div>

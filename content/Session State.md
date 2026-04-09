@@ -87,6 +87,41 @@ Next session priorities:
 
 ## Previous Session
 Claude: Code
+Date: 2026-04-09 (design overhaul — brutalist art-direction prototyping, Design System doc)
+
+Done:
+- **Brutalist landing page prototype v2** (dark version) — `prototype/landing-v2.html`. Pure black bg, yellow accents, live ticker, scroll-triggered connection board, split-screen contradiction cards, state lookup, explore grid. All working with animations.
+- **Brutalist landing page prototype v3** (final direction) — `prototype/landing-v3.html`. White/cream bg, yellow highlight blocks, serif italic editorial voice, monospace data labels, graph-paper connection board, split cards with verdict bars, state grid lookup. David approved this direction.
+- **Design System doc** — `content/Design System.md`. Full design bible covering colors, typography, layout, components, animations, responsive rules, and "What NOT to Do" list. Single source of truth for all visual decisions.
+- **CLAUDE.md updated** — Design system section added, old dark theme colors replaced with new palette reference.
+- **Ops Rules tab updated** — Design System now shows as 5th tab in Ops app Rules page.
+- **Prototype server** — `prototype/server.cjs` serves prototypes at localhost:8096. `/` = v3 (white), `/v2` = v2 (dark). Launch config added to `.claude/launch.json`.
+
+Design direction approved by David:
+- Brutalist art-direction. **Hybrid light/dark** — not full light, not full dark.
+- **Light where text is read** (profiles, stories, landing content, listings). **Dark where data is visual** (nav, sidebar, graphs, interactive tools, verdict bars).
+- Yellow (`#fbbf24`) as primary UI accent. Red (`#e63946`) for Republican ONLY. Blue (`#1d4ed8`) for Democrat ONLY. Separate `--danger` (`#dc2626`) for warnings/negative.
+- Split cards: red label "What they say" (rhetoric), blue label "Who pays them" (money). Verdict bar: black bg, yellow text.
+- Serif italic (Instrument Serif) for politician quotes. Monospace (Space Mono) for data/evidence next to quotes. The contrast IS the design.
+- Cream vs pure white: TBD, test during implementation. Readability first.
+- Landing page: full animation (ticker, scroll reveals, connection board). Profiles: light animation only.
+- Mobile: secondary but must work. Desktop-first.
+- State lookup: committed feature. Needs build-time data serialization from politician frontmatter.
+- No rounded corners, no shadows, no gradients. Ever.
+- "Looks like a leaked file, not a government website."
+
+Next session priorities:
+1. **Port landing page to Quartz** — rewrite `LandingPage.tsx` from v3 prototype, update `custom.scss` foundation
+2. **Global chrome reskin** — topbar/sidebar stays dark, content areas go light
+3. **State lookup data** — build-time plugin to serialize politician+donor data for client-side lookup
+4. Continue A+ reviews after design port
+5. Fix congress pipeline to query all congresses (engine)
+6. Fix lda-pipeline.cjs domain in engine repo
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-09 (marathon — ID cleanup, construction mode, pipeline debugging, Ops features)
 
 Done:
