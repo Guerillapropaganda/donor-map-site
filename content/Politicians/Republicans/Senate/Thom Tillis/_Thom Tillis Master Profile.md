@@ -41,7 +41,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-opposes: '[[SMP]]'
+opposes: '[[SMP]] · [[DSCC]]'
 ---
 
 
