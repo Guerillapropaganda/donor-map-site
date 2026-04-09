@@ -177,16 +177,32 @@ Result: X/Y blocks — PASS/BLOCK
 
 | Type | Blocks |
 |------|--------|
-| Politician (Congress) | voting-records, committee-assignments, bills, fec-data, source-diversity, connections, enriched, contradiction-review, orphan-claims, sign-off |
-| Politician (President) | executive-orders, cabinet-appointments, fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, sign-off |
-| Politician (Governor) | executive-actions, state-legislation (N/A), fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, sign-off |
-| Politician (Cabinet) | appointment, prior-role, fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, sign-off |
-| Donor | politicians-funded, contribution-amounts, sector, source-diversity, connections, enriched, orphan-claims, sign-off |
-| Corporation | pac-contributions, lobbying, contracts, sec-filings (N/A), source-diversity, connections, enriched, contradiction-review, orphan-claims, sign-off |
-| Think Tank | funders, 990-data, policy-mapped, source-type (1+), connections, orphan-claims, sign-off |
-| PAC | fec-data, donors-mapped, politicians-funded, source-diversity, connections, orphan-claims, sign-off |
-| Lobbying Firm | client-list, lobbying-spend, fara (N/A), revolving-door (N/A), source-diversity, connections, orphan-claims, sign-off |
-| Media | ownership, political-lean, platform, source-type (N/A), connections, orphan-claims, sign-off |
+| Politician (Congress) | voting-records, committee-assignments, bills, fec-data, source-diversity, connections, enriched, contradiction-review, orphan-claims, editorial-quality, sign-off |
+| Politician (President) | executive-orders, cabinet-appointments, fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, editorial-quality, sign-off |
+| Politician (Governor) | executive-actions, state-legislation (N/A), fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, editorial-quality, sign-off |
+| Politician (Cabinet) | appointment, prior-role, fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, editorial-quality, sign-off |
+| Donor | politicians-funded, contribution-amounts, sector, source-diversity, connections, enriched, orphan-claims, editorial-quality, sign-off |
+| Corporation | pac-contributions, lobbying, contracts, sec-filings (N/A), source-diversity, connections, enriched, contradiction-review, orphan-claims, editorial-quality, sign-off |
+| Think Tank | funders, 990-data, policy-mapped, source-type (1+), connections, orphan-claims, editorial-quality, sign-off |
+| PAC | fec-data, donors-mapped, politicians-funded, source-diversity, connections, orphan-claims, editorial-quality, sign-off |
+| Lobbying Firm | client-list, lobbying-spend, fara (N/A), revolving-door (N/A), source-diversity, connections, orphan-claims, editorial-quality, sign-off |
+| Media | ownership, political-lean, platform, source-type (N/A), connections, orphan-claims, editorial-quality, sign-off |
+
+**`editorial-quality` block (all types) — Research Claude must check and fix:**
+
+Every profile must have these 7 core sections with substantive content:
+
+| Section | What "passes" means |
+|---------|-------------------|
+| Who They Are | 2+ paragraphs. Bio, credentials, career arc. Not just a sentence. |
+| The Central Thesis | Specific, bold claim about their structural role. Not generic ("takes money from donors"). Names the mechanism. |
+| The Core Contradiction | At least one sourced tension between rhetoric and record. Uses `[!contradiction]` callout. |
+| Donor Class Map | Career totals with amounts. Top donors named. Sector breakdown present. |
+| Donation-to-Policy Timeline | Table with actual dates, amounts, and policy outcomes. Shows the money→action connection explicitly. |
+| Rhetorical Signature Moves | 2+ identified patterns in how they frame their actions. |
+| Analytical Patterns | At least one structural pattern identified (Genuine Win + Structural Limit, Two-Audience Problem, Villain Framing, Donor-Class Override, etc.) |
+
+If a section is missing or thin, Research Claude writes it during the review — not just flags it. The review IS the editorial improvement pass. After the review, the profile should be publishable.
 
 **Story grading (stories, events, sub-notes):**
 
