@@ -6,7 +6,7 @@ import { write } from "./helpers"
 export interface NetworkNode {
   id: string
   name: string
-  type: "politician" | "donor" | "corporation" | "pac"
+  type: "politician" | "donor" | "corporation" | "pac" | "think-tank" | "lobbying" | "media"
   party?: string
   chamber?: string
   state?: string
@@ -54,6 +54,9 @@ export const NetworkGraphIndex: QuartzEmitterPlugin = () => {
           fmType === "donor" ||
           fmType === "corporation" ||
           fmType === "pac" ||
+          fmType === "think-tank" ||
+          fmType === "lobbying-firm" ||
+          fmType === "media-profile" ||
           slug.includes("master-profile")
 
         if (!isProfile) continue
@@ -68,7 +71,14 @@ export const NetworkGraphIndex: QuartzEmitterPlugin = () => {
         titleToSlug.set(cleanName, slug)
         titleToId.set(cleanName, nodeId)
 
-        const type = fmType === "corporation" ? "corporation" : fmType === "pac" ? "pac" : fmType === "donor" ? "donor" : "politician"
+        const type: NetworkNode["type"] =
+          fmType === "corporation" ? "corporation" :
+          fmType === "pac" ? "pac" :
+          fmType === "donor" ? "donor" :
+          fmType === "think-tank" ? "think-tank" :
+          fmType === "lobbying-firm" ? "lobbying" :
+          fmType === "media-profile" ? "media" :
+          "politician"
 
         nodes.push({
           id: nodeId,
