@@ -9,7 +9,6 @@ party: "Republican"
 chamber: "Cabinet"
 issues:
   - "Energy & Climate"
-bioguide-id: "A000383"
 ---
 
 #politician #republican #trump-cabinet #secretary-of-state #exxon #fossil-fuel #revolving-door #class-analysis #follow-the-money

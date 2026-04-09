@@ -32,7 +32,6 @@ stock-trade-tickers:
   - "VSI"
   - "TYPE"
   - "TXRH"
-bioguide-id: "A000383"
 total-received: "$8,072,231"
 fec-candidate-id: "S4NC00162"
 source-types:

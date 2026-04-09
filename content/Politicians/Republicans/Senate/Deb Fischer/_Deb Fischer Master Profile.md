@@ -17,7 +17,6 @@ issues:
   - "Defense & Military"
 top-donors:
   - "AIPAC"
-bioguide-id: "A000383"
 govtrack-id: 412556
 bills-sponsored: 30
 bills-cosponsored: 154

@@ -9,7 +9,6 @@ party: "Republican"
 chamber: "Cabinet"
 top-donors:
   - "Leonard Leo"
-bioguide-id: "A000383"
 source-types:
   - Congress
 known-gaps:

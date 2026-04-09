@@ -12,7 +12,6 @@ state-abbr: "TX"
 district: "21"
 committees:
   - "Judiciary"
-bioguide-id: "A000383"
 govtrack-id: 412826
 bills-sponsored: 48
 bills-cosponsored: 125

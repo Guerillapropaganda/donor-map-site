@@ -5,7 +5,6 @@ content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1
 parent: null
-bioguide-id: "A000383"
 stock-trades: 29
 total-received: "$679,803"
 fec-candidate-id: "S0CA00199"

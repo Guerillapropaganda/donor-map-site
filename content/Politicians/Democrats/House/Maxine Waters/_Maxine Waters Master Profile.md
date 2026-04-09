@@ -14,7 +14,6 @@ leadership-roles:
   - "Ranking Member"
 top-donors:
   - "Goldman Sachs"
-bioguide-id: "A000383"
 govtrack-id: 400422
 bills-sponsored: 40
 bills-cosponsored: 182

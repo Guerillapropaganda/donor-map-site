@@ -14,7 +14,6 @@ committees:
 top-donors:
   - "Private Equity Industry"
   - "Real Estate Industry"
-bioguide-id: "A000383"
 total-received: "$1,513,132"
 fec-candidate-id: "S4HI00136"
 source-types:

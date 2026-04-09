@@ -14,7 +14,6 @@ committees:
   - "Appropriations"
 issues:
   - "Agriculture"
-bioguide-id: "A000383"
 stock-trades: 43
 total-received: "$335,864"
 fec-candidate-id: "H2AR03176"

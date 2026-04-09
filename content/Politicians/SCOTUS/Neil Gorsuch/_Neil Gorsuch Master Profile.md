@@ -10,7 +10,6 @@ top-donors:
   - "Leonard Leo"
   - "Koch Network - Charles Koch"
   - "Judicial Crisis Network"
-bioguide-id: "A000383"
 source-types:
   - Congress
 known-gaps:

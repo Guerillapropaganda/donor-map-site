@@ -12,7 +12,6 @@ state-abbr: "FL"
 district: "27"
 top-donors:
   - "AIPAC"
-bioguide-id: "A000383"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:

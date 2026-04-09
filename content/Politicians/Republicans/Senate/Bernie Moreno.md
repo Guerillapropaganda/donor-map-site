@@ -5,7 +5,6 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-bioguide-id: "A000383"
 govtrack-id: 456967
 bills-sponsored: 23
 bills-cosponsored: 159

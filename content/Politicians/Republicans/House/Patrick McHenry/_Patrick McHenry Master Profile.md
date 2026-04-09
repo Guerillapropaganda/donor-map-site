@@ -19,7 +19,6 @@ top-donors:
   - "Crypto Industry Bloc"
 total-received: "$2,203,814"
 fec-candidate-id: "H4NC10047"
-bioguide-id: "A000383"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:

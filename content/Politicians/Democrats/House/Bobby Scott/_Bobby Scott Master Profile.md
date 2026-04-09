@@ -19,14 +19,13 @@ issues:
   - "Labor & Workers"
 top-donors:
   - "SEIU"
-bioguide-id: "A000383"
 govtrack-id: 400364
 bills-sponsored: 17
 bills-cosponsored: 154
 website: "https://bobbyscott.house.gov"
 phone: "202-225-8351"
 total-received: "$135,250"
-fec-candidate-id: "H6GA02115"
+fec-candidate-id: "H6VA01117"
 donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]]"
 related: "[[Tim Walberg]]"
 ---
