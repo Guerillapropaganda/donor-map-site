@@ -88,7 +88,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Air Force, Dept of, Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Energy, Dept of, Export-Import Bank of the United States (EXIM Bank), Federal Accounting Standards Advisory Board (FASAB), Federal Deposit Insurance Corporation (FDIC), Federal Housing Finance Agency (FHFA) +20 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Finance%20and%20Tech%20Bundler%20Network) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Finance%20and%20Tech%20Bundler%20Network) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

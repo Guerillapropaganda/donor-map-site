@@ -16,7 +16,7 @@ top-donors:
   - "Goldman Sachs"
   - "Insurance Industry"
 total-received: "$1,221,843"
-fec-candidate-id: "H6SD00085"
+fec-candidate-id: "S2SD00068"
 source-types:
   - FEC
 known-gaps:

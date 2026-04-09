@@ -216,7 +216,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Education, Dept of, Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE, White House Office
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Everytown%20for%20Gun%20Safety) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Everytown%20for%20Gun%20Safety) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

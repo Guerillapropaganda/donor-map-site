@@ -21,7 +21,7 @@ govtrack-id: 300093
 bills-sponsored: 0
 bills-cosponsored: 0
 total-received: "$92,299"
-fec-candidate-id: "H6MI08163"
+fec-candidate-id: "S8MI00281"
 source-types:
   - FEC
   - GovTrack

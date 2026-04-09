@@ -19,7 +19,7 @@ top-donors:
   - "Lockheed Martin"
   - "Boeing"
 stock-trades: 1
-fec-candidate-id: "P60023777"
+fec-candidate-id: "S6RI00163"
 donors: "[[General Dynamics]] · [[NORPAC]]"
 related: "[[General Dynamics]]"
 ---

@@ -17,7 +17,7 @@ top-donors:
   - "American Petroleum Institute"
   - "Brownstein Hyatt Farber Schreck"
 total-received: "$3,509,495"
-fec-candidate-id: "P00010520"
+fec-candidate-id: "S0CO00575"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:

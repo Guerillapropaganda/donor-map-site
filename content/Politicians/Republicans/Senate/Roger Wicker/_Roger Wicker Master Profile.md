@@ -28,7 +28,7 @@ stock-trade-tickers:
 donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]]"
 total-received: "$286,732"
-fec-candidate-id: "H4MS01078"
+fec-candidate-id: "S8MS00196"
 ---
 
 

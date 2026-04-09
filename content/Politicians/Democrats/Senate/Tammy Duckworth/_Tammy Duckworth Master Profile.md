@@ -33,7 +33,7 @@ stock-trade-tickers:
   - "INTC"
   - "DVMT"
 total-received: "$385,884"
-fec-candidate-id: "H6IL06141"
+fec-candidate-id: "S6IL00292"
 donors: "[[Democracy Alliance]]"
 govtrack-id: 412533
 bills-sponsored: 47

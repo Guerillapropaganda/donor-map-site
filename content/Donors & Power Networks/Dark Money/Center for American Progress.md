@@ -232,5 +232,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Agency for Healthcare Research & Quality (AHRQ), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commodity Futures Trading Commission (CFTC), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS) +14 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Center%20for%20American%20Progress) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Center%20for%20American%20Progress) (Tier 1)
 <!-- auto:lda-lobbying end -->

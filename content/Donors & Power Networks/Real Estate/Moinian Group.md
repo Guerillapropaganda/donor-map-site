@@ -91,7 +91,7 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 
 **Lobbying firms:** HOLLAND & KNIGHT LLP
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Moinian%20Group) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Moinian%20Group) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Corporate Structure (GLEIF)

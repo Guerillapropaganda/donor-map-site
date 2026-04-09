@@ -22,7 +22,7 @@ top-donors:
 related: "[[Bank of America]] · [[John Cornyn]]"
 donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]]"
 total-received: "$1,539"
-fec-candidate-id: "P80008063"
+fec-candidate-id: "S4SC00240"
 ---
 
 #master-profile #republican #senate #south-carolina #opportunity-zones #corporate-donor #presidential #banking-committee #crypto #wall-street #israel-lobby

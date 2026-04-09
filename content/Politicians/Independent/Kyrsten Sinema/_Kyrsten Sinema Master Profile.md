@@ -15,7 +15,7 @@ issues:
 top-donors:
   - "Wall Street Bloc"
   - "Pharmaceutical Industry"
-fec-candidate-id: "H2AZ09019"
+fec-candidate-id: "S8AZ00197"
 source-types:
   - FEC
 known-gaps:

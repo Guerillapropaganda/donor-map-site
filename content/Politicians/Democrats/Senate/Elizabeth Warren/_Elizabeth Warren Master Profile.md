@@ -15,7 +15,7 @@ top-donors:
   - "ActBlue"
   - "Emily's List"
 total-received: "$131,368,112"
-fec-candidate-id: "P00009621"
+fec-candidate-id: "S2MA00170"
 stock-trades: 1
 doj-press-mentions: "264349"
 last-enriched: "2026-04-07"

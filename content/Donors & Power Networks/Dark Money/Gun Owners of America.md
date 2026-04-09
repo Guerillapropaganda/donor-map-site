@@ -221,5 +221,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Indian Affairs (BIA), Education, Dept of, Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD), Justice, Dept of (DOJ), Labor, Dept of (DOL) +3 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Gun%20Owners%20of%20America) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gun%20Owners%20of%20America) (Tier 1)
 <!-- auto:lda-lobbying end -->

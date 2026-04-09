@@ -18,7 +18,7 @@ top-donors:
   - "Defense Industry"
   - "UAW - United Auto Workers"
   - "Real Estate Industry"
-fec-candidate-id: "H8MI09068"
+fec-candidate-id: "S4MI00355"
 govtrack-id: 412305
 bills-sponsored: 70
 bills-cosponsored: 228

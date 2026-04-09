@@ -17,7 +17,7 @@ bills-sponsored: 26
 bills-cosponsored: 196
 website: "https://hinson.house.gov"
 phone: "202-225-2911"
-fec-candidate-id: "H0IA01174"
+fec-candidate-id: "S6IA00314"
 source-types:
   - FEC
   - GovTrack

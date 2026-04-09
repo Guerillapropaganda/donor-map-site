@@ -21,7 +21,7 @@ bills-sponsored: 39
 bills-cosponsored: 329
 website: "https://www.heinrich.senate.gov"
 phone: "202-224-5521"
-fec-candidate-id: "H8NM01224"
+fec-candidate-id: "S2NM00088"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:

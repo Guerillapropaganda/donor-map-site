@@ -16,7 +16,7 @@ leadership-roles:
 issues:
   - "Technology"
 total-received: "$133,281"
-fec-candidate-id: "H0OR03026"
+fec-candidate-id: "S6OR00110"
 stock-trades: 10
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 doj-press-mentions: "264413"

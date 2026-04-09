@@ -18,7 +18,7 @@ bills-cosponsored: 182
 website: "https://www.ossoff.senate.gov"
 phone: "202-224-3521"
 total-received: "$31,605,071"
-fec-candidate-id: "H8GA06195"
+fec-candidate-id: "S8GA00180"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:
