@@ -12,7 +12,7 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-09 (design overhaul — brutalist art-direction prototyping, Design System doc)
+Date: 2026-04-09 (design overhaul — brutalist prototyping, Design System doc, construction page live)
 
 Done:
 - **Brutalist landing page prototype v2** (dark version) — `prototype/landing-v2.html`. Pure black bg, yellow accents, live ticker, scroll-triggered connection board, split-screen contradiction cards, state lookup, explore grid. All working with animations.
@@ -21,6 +21,9 @@ Done:
 - **CLAUDE.md updated** — Design system section added, old dark theme colors replaced with new palette reference.
 - **Ops Rules tab updated** — Design System now shows as 5th tab in Ops app Rules page.
 - **Prototype server** — `prototype/server.cjs` serves prototypes at localhost:8096. `/` = v3 (white), `/v2` = v2 (dark). Launch config added to `.claude/launch.json`.
+- **Construction page pushed live** — new brutalist construction page deployed to thedonormap.org via v4 push. Cream bg, yellow highlights, 655,172x teaser card, "LAUNCHING SOON".
+- **Design decisions finalized** — hybrid light/dark, split card colors (red say/blue pay), danger vs party red separated, serif=rhetoric monospace=receipts, animation budget per page type, mobile secondary but functional, state lookup committed.
+- **Ops Rules tab** — Design System added as 5th tab (both worktree and main repo).
 
 Design direction approved by David:
 - Brutalist art-direction. **Hybrid light/dark** — not full light, not full dark.
