@@ -1,22 +1,17 @@
 footer {
   text-align: left;
-  margin-bottom: 2rem;
+  margin-bottom: 0;
   margin-top: 3rem;
   opacity: 1;
-  background: #0f0f15;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 1.75rem 2rem;
+  background: #f5f0eb;
+  border: none;
+  border-top: 2px solid #0a0a0a;
+  border-radius: 0;
+  padding: 2rem 2rem 1.5rem;
   position: relative;
 
   &::before {
-    content: "";
-    position: absolute;
-    top: -1px;
-    left: 2rem;
-    right: 2rem;
-    height: 1px;
-    background: linear-gradient(90deg, transparent, #ddd, transparent);
+    display: none; // kill the gradient line
   }
 
   & ul {
@@ -32,16 +27,17 @@ footer {
   .footer-columns {
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 2.5rem;
   }
 
   .footer-col-label {
     font-family: 'Space Mono', monospace;
-    font-size: 11px;
+    font-size: 10px;
     font-weight: 700;
-    letter-spacing: 1.5px;
-    color: #8a8a96;
+    letter-spacing: 2px;
+    color: #fbbf24;
     margin-bottom: 0.5rem;
+    text-transform: uppercase;
   }
 
   .footer-col-links {
@@ -49,13 +45,15 @@ footer {
     gap: 0.25rem;
 
     a {
-      color: #999 !important;
-      font-size: 14px;
+      color: #555 !important;
+      font-size: 13px;
       text-decoration: none !important;
-      transition: color 0.15s;
+      border-bottom: 1px solid transparent !important;
+      transition: all 0.15s;
 
       &:hover {
         color: #0a0a0a !important;
+        border-bottom-color: #fbbf24 !important;
       }
     }
   }
@@ -65,14 +63,16 @@ footer {
   }
 
   @media (max-width: 800px) {
+    padding: 1.5rem 1rem;
+
     .footer-col-label {
-      font-size: 12px;
-      color: #777;
+      font-size: 10px;
+      color: #fbbf24;
     }
 
     .footer-col-links a {
-      color: #777 !important;
-      font-size: 15px;
+      color: #555 !important;
+      font-size: 14px;
       line-height: 1.8;
     }
   }
