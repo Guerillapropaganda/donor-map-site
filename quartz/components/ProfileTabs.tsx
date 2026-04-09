@@ -248,12 +248,13 @@ nav.profile-tabs {
   margin-bottom: -1px;
 }
 .profile-tab-btn:hover {
-  color: #e4e4ea;
-  background: #14141a;
+  color: #0a0a0a;
+  background: rgba(251, 191, 36, 0.1);
 }
 .profile-tab-btn.profile-tab-active {
   color: #0a0a0a;
-  border-bottom-color: #0a0a0a;
+  border-bottom: 3px solid #fbbf24;
+  font-weight: 700;
 }
 .profile-tab-btn.profile-tab-empty {
   color: #999;
