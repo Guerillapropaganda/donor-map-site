@@ -1,28 +1,29 @@
 ---
-title: "Josh Hawley Master Profile"
+title: Josh Hawley Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Missouri"
-state-abbr: "MO"
+party: Republican
+chamber: Senate
+state: Missouri
+state-abbr: MO
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 top-donors:
-  - "Koch Network - Charles Koch"
-  - "Leonard Leo"
-total-received: "$1,150,554"
-fec-candidate-id: "S8MO00160"
+  - Koch Network - Charles Koch
+  - Leonard Leo
+total-received: '$1,150,554'
+fec-candidate-id: S8MO00160
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
+opposes: '[[PATRIOTS PREVAIL PAC]]'
 ---
 
 
