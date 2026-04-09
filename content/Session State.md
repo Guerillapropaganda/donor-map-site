@@ -37,6 +37,9 @@ Known issues:
 - `lda-pipeline.cjs` in engine repo still generates old domain (site-side URLs fixed, engine not yet)
 - NY/TX governor scrapers need HTML pattern fixes
 
+In progress:
+- **Relationship notes on graph** — note input on connections that Research Claude reads as work orders
+
 Next session priorities:
 1. Fix congress pipeline to query all congresses a member served in (engine)
 2. Fix lda-pipeline.cjs domain in engine repo
