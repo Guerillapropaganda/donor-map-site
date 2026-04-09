@@ -1,8 +1,8 @@
 ---
-name: session-save
+name: sessionsave
 description: "Save session state: update Session State.md with what was done, commit all work, merge to v4, push. Run this before ending any session."
 ---
-name: session-save
+name: sessionsave
 
 # Save Session
 

@@ -1,6 +1,8 @@
 ---
+name: deploy
 description: "Merge current worktree branch to v4 and push to deploy. Handles stash, pull, conflicts, merge, push, and verification."
 ---
+name: deploy
 
 # Deploy to v4
 

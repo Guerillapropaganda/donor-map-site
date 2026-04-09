@@ -1,6 +1,8 @@
 ---
+name: preflight
 description: "Session startup checklist. Reads Session State, checks Admin Notes, reports what happened last and what's next. Run this at the start of every session."
 ---
+name: preflight
 
 # Preflight Check
 

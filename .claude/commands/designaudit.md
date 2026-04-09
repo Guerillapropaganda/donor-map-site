@@ -1,8 +1,8 @@
 ---
-name: design-audit
+name: designaudit
 description: "Scan all SCSS and TSX files for colors, border-radius, and shadows that violate the Design System. Reports violations and optionally fixes them."
 ---
-name: design-audit
+name: designaudit
 
 # Design Audit
 
