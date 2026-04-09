@@ -8,11 +8,13 @@ parent: null
 sector: "Wall Street"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
-  - "Gavin Newsom"
+  - "John Kennedy"
+  - "French Hill"
+  - "Hakeem Jeffries"
+  - "Mark Warner"
 issues:
   - "Wall Street & Finance"
-total-political-spend: "$2,326,690"
+total-political-spend: "$1,328,690"
 ein: "311678646"
 annual-revenue: "$-1,397,309"
 net-assets: "$648.2M"
@@ -29,7 +31,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Securities and Exchange Commission"
   - "Treasury Department"
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Thune Master Profile]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The Ways and Means Chair and TCJA Extension]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Thune Master Profile]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FIT21 Act and Crypto Industry Capture]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 47401657
 total-assets: 690470487
@@ -310,3 +312,28 @@ research-status:: ready — Full citation pass complete. $39M career political c
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,328,690 |
+| Contributions | 491 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| CITIZENS FOR JOE KENNEDY 1988 | $395,220 | DEM |
+| DEVELOPMENT NOW FOR CHICAGO | $75,000 | DEM |
+| 170 FREEDOM MILWAUKEE 2024 HOST COMMITTEE INC | $25,000 | REP |
+| FRENCH HILL FOR ARKANSAS | $16,000 | REP |
+| SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION POLITICAL ACTION COMMITTEE | $15,000 | — |
+| NRSC | $15,000 | REP |
+| DSCC | $15,000 | DEM |
+| ILLINOIS AGRICULTURAL ASSOCIATION ACTIVATOR POLITICAL INVOLVEMENT FUND (FED) 'ACTIVATOR'/'ILLINOIS FARM BUREAU ACTIVATOR' | $14,806 | — |
+| HUIZENGA FOR CONGRESS | $11,500 | REP |
+| EMMER FOR CONGRESS | $11,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Goldman%20Sachs) (Tier 1)
+<!-- auto:fec-donor end -->

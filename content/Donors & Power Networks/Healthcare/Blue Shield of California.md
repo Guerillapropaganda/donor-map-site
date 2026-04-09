@@ -41,7 +41,7 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. California"
   - "United States Bankruptcy Court, C.D. California"
-related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Mark Warner"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -41,7 +41,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-donors: "[[Tech Industry]] · [[Insurance Industry]]"
+donors: "[[Tech Industry]] · [[Insurance Industry]] · [[Goldman Sachs]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 ---
 

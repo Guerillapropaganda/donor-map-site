@@ -192,6 +192,14 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-09 05:05 UTC — 2 profiles
+
+**FEC — 2 profiles:**
+- Dan Goldman — 2026 raised $2,082,447
+- Goldman Sachs — total political spend $1,328,690
+
+---
 ## 2026-04-09 04:45 UTC — 10 profiles
 
 **federal-register — 10 profiles:**

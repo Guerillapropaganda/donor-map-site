@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Pod Save America]] · [[Sam Seder]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Briahna Joy Gray]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Cenk Uygur]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Sean Hannity]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]]"
+related: "[[Pod Save America]] · [[Sam Seder]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Briahna Joy Gray]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Cenk Uygur]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Sean Hannity]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]]"
 opposes: "[[Laura Ingraham]]"
 donors: "[]"
 ---

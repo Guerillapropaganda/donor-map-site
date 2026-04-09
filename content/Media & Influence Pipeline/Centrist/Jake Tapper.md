@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Anderson Cooper]] · [[Nicolle Wallace]] · [[Joe Scarborough]] · [[Greg Gutfeld]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Anderson Cooper]] · [[Nicolle Wallace]] · [[Joe Scarborough]] · [[Greg Gutfeld]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]]"
 ---
 
 #media-pipeline #centrist #cnn #corporate-media #ownership-instability #novelist #debate-moderator
