@@ -2,7 +2,7 @@
 title: "Steve Scalise"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,7 +14,7 @@ issues:
   - "Energy & Climate"
 total-received: "$7,843,280"
 fec-candidate-id: "H0LA01087"
-donors: "[[American Gaming Association]] · [[Valero Energy]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]]"
+donors: "[[American Gaming Association]] · [[Valero Energy]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
 ---
 

@@ -2,7 +2,7 @@
 title: "Ken Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -32,7 +32,7 @@ ein: 816166962
 annual-revenue: "$230K"
 net-assets: "$2.3M"
 tax-year: "2023"
-related: "[[Donald Trump Master Profile]] · [[Mark Kelly]]"
+related: "[[Donald Trump Master Profile]] · [[Mark Kelly]] · [[Sherrod Brown]]"
 sec-filings: 78
 sec-form-types:
   - "20-F"

@@ -2,7 +2,7 @@
 title: "David Sacks Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-01
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -19,6 +19,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+bioguide-id: "A000383"
 ---
 
 
@@ -144,3 +145,10 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 research-status:: developed — Research expansion added April 2026. New data: PayPal Mafia biographical details (South Africa origins, Stanford timeline), Craft Ventures portfolio metrics ($350M fund, 326 investments, 40 exits), PCAST appointments (Huang, Zuckerberg, Friedberg, Ehrsam), detailed ethics waivers ($200M+ divestments, Palantir/Nvidia/defense conflicts), 130-day SGE exhaustion, March 26, 2026 transition to PCAST co-chair. Added 8 new sources — all marked UNVERIFIED pending Chrome verification.
 content-readiness:: developed
  
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

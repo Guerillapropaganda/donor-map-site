@@ -2,12 +2,12 @@
 title: "Pod Save America"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[George Soros]] · [[Hollywood Democratic Donor Network]] · [[Democratic Donor Network]] · [[Sam Seder]] · [[Red Scare]] · [[Rachel Maddow]] · [[John Oliver]] · [[TYT Network - The Young Turks]] · [[Kyle Kulinski]] · [[Hasan Piker]] · [[David Pakman]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Ezra Klein]]"
+related: "[[George Soros]] · [[Hollywood Democratic Donor Network]] · [[Democratic Donor Network]] · [[Sam Seder]] · [[Red Scare]] · [[Rachel Maddow]] · [[John Oliver]] · [[TYT Network - The Young Turks]] · [[Kyle Kulinski]] · [[Hasan Piker]] · [[David Pakman]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[Abby Phillip]] · [[Chapo Trap House]]"
 ---
 
 #media-pipeline #left #revolving-door #democratic-establishment #podcast #crooked-media

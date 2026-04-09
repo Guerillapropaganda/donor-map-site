@@ -2,7 +2,7 @@
 title: "Mehlman Consulting"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 annual-revenue: "$28.3M"
@@ -19,7 +19,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
-related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Subject Matter (now Avoq)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]]"
+related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Subject Matter (now Avoq)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]]"
 ---
 
 #lobbying #k-street #tech #healthcare #taxes #trade #bipartisan #big-tech

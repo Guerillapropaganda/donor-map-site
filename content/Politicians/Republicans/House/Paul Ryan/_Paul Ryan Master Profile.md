@@ -2,7 +2,7 @@
 title: "Paul Ryan"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,7 +20,7 @@ govtrack-id: 400351
 bills-sponsored: 0
 bills-cosponsored: 0
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boehner]]"
-donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]]"
+donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]]"
 total-received: "$483,642,897"
 fec-candidate-id: "P80003353"
 ---

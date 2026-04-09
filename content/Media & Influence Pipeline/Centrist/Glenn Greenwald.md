@@ -2,11 +2,11 @@
 title: "Glenn Greenwald"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: centrist
-related: "[[Joe Rogan]] · [[Tucker Carlson]] · [[Lex Fridman]] · [[Briahna Joy Gray]] · [[Rumble]] · [[Tim Pool]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[Sean Hannity]] · [[Patrick Bet-David]]"
+related: "[[Joe Rogan]] · [[Tucker Carlson]] · [[Lex Fridman]] · [[Briahna Joy Gray]] · [[Rumble]] · [[Tim Pool]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]]"
 donors: "[[Peter Thiel]]"
 ---
 

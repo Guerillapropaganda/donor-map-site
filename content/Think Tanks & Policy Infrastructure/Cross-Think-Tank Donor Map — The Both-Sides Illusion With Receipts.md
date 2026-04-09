@@ -2,12 +2,12 @@
 title: "Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts"
 type: think-tank
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: cross-comparison
 tax-status: null
-related: "[[Heritage Foundation]] · [[Brookings Institution]] · [[Center for American Progress]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[Atlantic Council]] · [[Aspen Institute]] · [[Center for a New American Security]] · [[Hudson Institute]] · [[Mercatus Center]] · [[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Bradley Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Manhattan Institute for Policy Research]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]]"
+related: "[[Heritage Foundation]] · [[Brookings Institution]] · [[Center for American Progress]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[Atlantic Council]] · [[Aspen Institute]] · [[Center for a New American Security]] · [[Hudson Institute]] · [[Mercatus Center]] · [[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Bradley Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Manhattan Institute for Policy Research]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[RAND Corporation]] · [[Council on Foreign Relations]]"
 known-gaps:
   - "No FEC contribution data"
 ---

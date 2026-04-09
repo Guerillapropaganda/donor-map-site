@@ -2,7 +2,7 @@
 title: "Gregory Meeks"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -34,6 +34,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+donors: "[[NORPAC]]"
 ---
 
 #gregory-meeks #democrat #new-york #house #ranking-member #foreign-affairs #financial-services #israel-lobby #wall-street #ethics-violations #phase-6-gavel-power

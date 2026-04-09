@@ -2,7 +2,7 @@
 title: "Rick Larsen"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,6 +22,11 @@ top-donors:
 donors: "[[IBEW - International Brotherhood of Electrical Workers]]"
 total-received: "$1,185,411"
 fec-candidate-id: "H0WA02080"
+govtrack-id: 400232
+bills-sponsored: 8
+bills-cosponsored: 187
+website: "https://larsen.house.gov"
+phone: "202-225-2605"
 ---
 
 
@@ -189,3 +194,35 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0WA02080/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 187 |
+| Total Votes Cast | 15,970 |
+
+**Recent bills sponsored:**
+
+- H.R. 6530: AI Training for National Security Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 9, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6451: VA Transit Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 4, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6348: Transportation Assistance for Olympic and World Cup Cities Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 2, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6148: Patients Over Paperwork Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 19, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 4855: Veteran Families Health Services Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400232) (Tier 1)
+<!-- auto:govtrack end -->

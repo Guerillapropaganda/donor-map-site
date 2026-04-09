@@ -2,7 +2,7 @@
 title: "Sherrod Brown"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"
@@ -13,7 +13,7 @@ party: "Democrat"
 chamber: "Senate"
 state: "Ohio"
 state-abbr: "OH"
-donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic Party]]"
+donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic Party]] · [[Ken Griffin]]"
 related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]]"
 editorial-review-date: "2026-04-08"
 editorial-reviewer: "Research Claude"

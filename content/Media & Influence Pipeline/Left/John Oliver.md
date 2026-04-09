@@ -2,12 +2,12 @@
 title: "John Oliver"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Bill Maher]] · [[Rachel Maddow]] · [[Sam Seder]] · [[_Media Pipeline Framework]] · [[Kyle Kulinski]] · [[David Pakman]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
+related: "[[Bill Maher]] · [[Rachel Maddow]] · [[Sam Seder]] · [[_Media Pipeline Framework]] · [[Kyle Kulinski]] · [[David Pakman]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]]"
 donors: "[]"
 ---
 

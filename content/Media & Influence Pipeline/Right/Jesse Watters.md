@@ -2,12 +2,12 @@
 title: "Jesse Watters"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tucker Carlson]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]] · [[Dan Bongino]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]]"
+related: "[[Tucker Carlson]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]] · [[Dan Bongino]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[The Daily Wire]]"
 donors: "[[Fox Corp - Rupert Murdoch]]"
 ---
 

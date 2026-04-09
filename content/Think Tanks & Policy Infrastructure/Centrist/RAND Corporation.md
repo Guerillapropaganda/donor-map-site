@@ -2,12 +2,12 @@
 title: "RAND Corporation"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center for American Progress]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]]"
+related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center for American Progress]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]]"
 ein: "951958142"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"

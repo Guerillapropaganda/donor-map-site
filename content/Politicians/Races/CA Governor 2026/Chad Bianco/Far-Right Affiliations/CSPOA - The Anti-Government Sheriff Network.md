@@ -2,7 +2,7 @@
 title: "CSPOA - The Anti-Government Sheriff Network"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 related: "[[2022 Jail Death Crisis]]"
@@ -19,6 +19,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+donors: "[[Reed Hastings]]"
 ---
 
 

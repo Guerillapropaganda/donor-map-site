@@ -2,7 +2,7 @@
 title: "Bruce Westerman"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,6 +15,7 @@ issues:
 total-received: "$1,848,430"
 fec-candidate-id: "H4AR04048"
 related: "[[Raul Grijalva]]"
+donors: "[[American Petroleum Institute]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Fanjul Family - Florida Crystals"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,7 +15,7 @@ issues:
   - "Israel & Foreign Policy"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[LARA Fund - Mauricio Claver-Carone]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Immigration Flip - From Gang of Eight to Border Hawk]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Rick Scott Master Profile]] · [[Brian Mast]] · [[Maria Elvira Salazar]]"
+related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[LARA Fund - Mauricio Claver-Carone]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Immigration Flip - From Gang of Eight to Border Hawk]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Rick Scott Master Profile]] · [[Brian Mast]] · [[Maria Elvira Salazar]] · [[Bob Menendez]] · [[National Cattlemen's Beef Association]] · [[Mario Diaz-Balart]]"
 ---
 
 

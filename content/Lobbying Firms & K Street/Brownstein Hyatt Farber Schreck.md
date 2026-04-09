@@ -2,13 +2,13 @@
 title: "Brownstein Hyatt Farber Schreck"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 annual-revenue: "$73.8M"
 lobbyist-count: 81
 revolving-door-pct: "53.1%"
-related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cassidy & Associates]]"
+related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]]"
 federal-register-mentions: 6
 last-enriched: "2026-04-08"
 regulatory-agencies:

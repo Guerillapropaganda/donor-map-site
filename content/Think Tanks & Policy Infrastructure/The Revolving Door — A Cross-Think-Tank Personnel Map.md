@@ -2,12 +2,12 @@
 title: "The Revolving Door — A Cross-Think-Tank Personnel Map"
 type: think-tank
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 category: cross-comparison
 tax-status: null
-related: "[[Heritage Foundation]] · [[Federalist Society]] · [[Center for American Progress]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Cato Institute]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]]"
+related: "[[Heritage Foundation]] · [[Federalist Society]] · [[Center for American Progress]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Cato Institute]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Claremont Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]]"
 known-gaps:
   - "No FEC contribution data"
 ---

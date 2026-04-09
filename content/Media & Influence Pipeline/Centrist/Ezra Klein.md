@@ -2,12 +2,12 @@
 title: "Ezra Klein"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
+related: "[[Bari Weiss]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]]"
 donors: "[]"
 ---
 

@@ -2,7 +2,7 @@
 title: "John Barrasso"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -19,7 +19,7 @@ bills-cosponsored: 196
 website: "https://www.barrasso.senate.gov"
 phone: "202-224-6441"
 stock-trades: 1
-donors: "[[Marathon Petroleum]] · [[ExxonMobil]] · [[Raytheon (RTX Corporation)]]"
+donors: "[[Marathon Petroleum]] · [[ExxonMobil]] · [[Raytheon (RTX Corporation)]] · [[American Petroleum Institute]]"
 ---
 
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power

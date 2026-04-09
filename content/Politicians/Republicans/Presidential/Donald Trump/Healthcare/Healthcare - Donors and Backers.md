@@ -2,10 +2,10 @@
 title: "Healthcare - Donors and Backers"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Pfizer Inc.]] · [[Single-Payer Broken Promise]] · [[Environment - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]]"
+related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Pfizer Inc.]] · [[Single-Payer Broken Promise]] · [[Environment - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[The Education Committee and Labor Alignment]] · [[Economic Policy - Donors and Backers]]"
 ---
 
 

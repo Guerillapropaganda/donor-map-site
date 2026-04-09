@@ -2,7 +2,7 @@
 title: "Tech Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -89,7 +89,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]] · [[Jon Ossoff Master Profile]]"
+related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]] · [[Jon Ossoff Master Profile]] · [[Jason Smith]] · [[Adam Smith]]"
 ---
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan

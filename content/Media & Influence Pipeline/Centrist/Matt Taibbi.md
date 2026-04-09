@@ -2,12 +2,12 @@
 title: "Matt Taibbi"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]] · [[Lex Fridman]] · [[Nate Silver]] · [[Joe Rogan]] · [[Russell Brand]] · [[Rumble]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
+related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]] · [[Lex Fridman]] · [[Nate Silver]] · [[Joe Rogan]] · [[Russell Brand]] · [[Rumble]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]]"
 ---
 
 #media-pipeline #centrist #substack #twitter-files #investigative-journalism #audience-swap

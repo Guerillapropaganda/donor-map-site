@@ -2,7 +2,7 @@
 title: "DonorsTrust"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -13,7 +13,7 @@ ein: 473233646
 annual-revenue: "$0"
 net-assets: "$57K"
 tax-year: "2016"
-related: "[[Sentinel Action Fund]] · [[Stephen Miller Master Profile]] · [[The Immigration Policy Architecture from Sessions to Mass Deportation]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[American Enterprise Institute]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[James O'Keefe]] · [[Christopher Rufo]]"
+related: "[[Sentinel Action Fund]] · [[Stephen Miller Master Profile]] · [[The Immigration Policy Architecture from Sessions to Mass Deportation]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[American Enterprise Institute]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]]"
 known-gaps:
   - "No FEC contribution data"
 ---

@@ -2,7 +2,7 @@
 title: "Ron Johnson"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,7 +11,7 @@ state: "Wisconsin"
 state-abbr: "WI"
 fec-candidate-id: "S2PA00513"
 stock-trades: 2
-donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]]"
+donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]]"
 related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]]"
 ---
 
