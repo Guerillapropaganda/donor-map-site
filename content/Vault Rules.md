@@ -302,6 +302,15 @@ Two Claudes, one vault. Clear lanes prevent contradictions.
 - Research Claude never modifies auto-block sections (they're pipeline-owned)
 - If unsure, flag it and ask David
 
+### Editorial voice (both Claudes must follow when writing any profile content):
+- **No em dashes.** Never use the — character in profile content. It reads as AI-generated. Use periods, commas, or restructure the sentence. Colons and parentheses are fine in tables and metadata.
+- **Short sentences.** Punchy and direct. If a sentence has three clauses, break it into two or three sentences.
+- **No hedge words.** Don't write "it is worth noting that" or "it should be noted" or "interestingly." Just state the fact.
+- **No filler transitions.** Don't write "moreover," "furthermore," "additionally," "in conclusion." Start the next sentence.
+- **Name the mechanism.** Don't write "money influences politics." Write "AIPAC spent $8.5M to defeat Bush in the primary." Specifics, not abstractions.
+- **Active voice.** Not "the campaign was funded by" but "Goldman Sachs funded the campaign."
+- **The Donor Map tone:** Follow the money. Show the receipts. Let the data do the talking.
+
 ---
 
 ## 4. Pipeline Data Protocol
