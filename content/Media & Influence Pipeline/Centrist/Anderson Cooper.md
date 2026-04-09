@@ -48,7 +48,7 @@ Audience: CNN's liberal/centrist establishment demographic; approximately 700K-9
 
 Based on institutional pattern analysis: Cooper's peers at CNN with similar profiles (Jake Tapper, Chris Wallace, Nicolle Wallace) all show $0 FEC contributions. Institutional anchors at CNN operate under explicit or implied expectation of political neutrality in personal giving. This profile requires Chrome API verification before finalization.
 
-- [FEC API: Anderson Cooper individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cooper%2C+anderson&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (NEEDS REVIEW: slow/redirect) (UNVERIFIED — Chrome unavailable)
+- [FEC: Anderson Cooper individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cooper%2C+anderson) (Tier 1) (NEEDS REVIEW) (UNVERIFIED — Chrome unavailable)
 
 > [!money]
 > Cooper is a $200M net worth individual who earns $18M/year from institutional media — his financial footprint is enormous, but he channels political influence exclusively through editorial platform access, not personal donations. This is the CNN anchor pattern: leverage flows from airtime, not checkbooks.
@@ -175,7 +175,7 @@ Anderson Cooper is the perfect centrist institutional media specimen: born into 
 - [Newsweek: Anderson Cooper Is in Hot Water — Nina Turner Gaza cutoff](https://www.newsweek.com/anderson-cooper-nina-turner-cnn-gaza-israel-hamas-palestinians-joe-biden-michigan-primary-1874599) (Tier 3) (VERIFIED)
 - [LGBTQ Nation: CBS insider says Anderson Cooper's departure was a "f**k you" to anti-woke Bari Weiss](https://www.lgbtqnation.com/2026/02/cbs-insider-says-anderson-coopers-departure-was-a-fk-you-to-anti-woke-bari-weiss/) (Tier 3) (VERIFIED)
 - [Fox Business: Gloria Vanderbilt's son Anderson Cooper to inherit less than $1.5M](https://www.foxbusiness.com/business-leaders/gloria-vanderbilt-anderson-cooper-inheritance-report) (Tier 3) (VERIFIED)
-- [FEC API: Anderson Cooper individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cooper%2C+anderson&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (UNVERIFIED — Chrome unavailable; must run via Chrome javascript_tool)
+- [FEC: Anderson Cooper individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cooper%2C+anderson) (Tier 1) (NEEDS REVIEW) (UNVERIFIED — Chrome unavailable)
 
 ---
 

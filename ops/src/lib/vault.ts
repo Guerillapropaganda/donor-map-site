@@ -179,7 +179,7 @@ export function countSources(content: string): { total: number; tier1: number; t
 }
 
 // URL triage status type
-export type UrlTriageStatus = "verified" | "broken" | "unsure" | "unchecked"
+export type UrlTriageStatus = "verified" | "broken" | "unsure" | "yellow" | "unchecked"
 
 // Extract URLs from markdown content
 export function extractUrls(content: string): { url: string; label: string; tier?: number; archived: boolean; triageStatus: UrlTriageStatus; triageNote?: string }[] {
@@ -187,7 +187,7 @@ export function extractUrls(content: string): { url: string; label: string; tier
 
   // Match both standalone links and [Source: [link](url)] wrapped links
   // Use a regex that allows nested brackets in the label
-  const linkRegex = /(?:~~)?\[((?:[^\[\]]|\[[^\]]*\])*)\]\((https?:\/\/[^)]+)\)(?:~~)?(?:\s*\((?:was )?Tier (\d)[^)]*\))?(?:\s*\(VERIFIED(?::\s*([^)]*))?\))?(?:\s*\(NEEDS REVIEW(?::\s*([^)]*))?\))?(?:\s*\([^)]*archived by Ops\))?/g
+  const linkRegex = /(?:~~)?\[((?:[^\[\]]|\[[^\]]*\])*)\]\((https?:\/\/[^)]+)\)(?:~~)?(?:\s*\((?:was )?Tier (\d)[^)]*\))?(?:\s*\(VERIFIED(?::\s*([^)]*))?\))?(?:\s*\(NEEDS REVIEW(?::\s*([^)]*))?\))?(?:\s*\(SLOW(?::\s*([^)]*))?\))?(?:\s*\([^)]*archived by Ops\))?/g
   let match
 
   while ((match = linkRegex.exec(content)) !== null) {
@@ -197,9 +197,10 @@ export function extractUrls(content: string): { url: string; label: string; tier
     const pre = content.slice(preIdx, match.index)
     const isArchived = full.startsWith("~~") || pre.includes("~~")
     const isVerified = full.includes("(VERIFIED")
+    const isSlow = full.includes("(SLOW")
     const isUnsure = full.includes("(NEEDS REVIEW")
-    const triageStatus: UrlTriageStatus = isArchived ? "broken" : isVerified ? "verified" : isUnsure ? "unsure" : "unchecked"
-    const triageNote = match[4] || match[5] || undefined
+    const triageStatus: UrlTriageStatus = isArchived ? "broken" : isVerified ? "verified" : isSlow ? "yellow" : isUnsure ? "unsure" : "unchecked"
+    const triageNote = match[4] || match[5] || match[6] || undefined
     urls.push({
       label: match[1],
       url: match[2],

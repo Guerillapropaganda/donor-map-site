@@ -64,7 +64,7 @@ Bongino's funding model is the most vertically integrated in the right-wing medi
 > [!money]
 > Bongino's FEC record is 100% Trump-aligned across a 7-year period. The $50,000 Trump 47 Committee contribution (April 2024) precedes his FBI appointment by exactly 11 months — a clear donation-to-appointment arc. The $39,300 RNC contribution from the same date suggests coordinated giving. His total personal political investment ($106K) is entirely within the Wilks-Thiel MAGA ecosystem documented in his professional funding: Rumble equity, Trump appointment, Trump loyalty. The pattern is consistent: Bongino's FEC money flows to the same institutions that his media platform advances.
 
-- [FEC API: Dan Bongino individual contributions (22 results, $106,000)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=bongino%2C+dan&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Dan Bongino individual contributions (22 results, $106,000)](https://www.fec.gov/data/receipts/?contributor_name=bongino%2C+dan) (Tier 1)
 
 > **Note on API results:** The FEC API search for "bongino, dan" returns 22 results totaling $106,000 across 2017-2024. All verified results confirm the Rumble/media personality Dan Bongino. The contribution pattern is consistent across filings with clear employer and occupation data matching the media figure. No disambiguation required — all 22 results belong to the subject.
 

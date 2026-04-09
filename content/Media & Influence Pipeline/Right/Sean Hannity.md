@@ -27,7 +27,7 @@ Beyond media, Hannity has built an undisclosed real estate empire worth an estim
 
 No FEC individual contributions found. Sean Hannity has made zero federal political contributions despite earning $45M+ annually and having direct access to the White House (documented through 82 Meadows texts). The $0 FEC record is analytically significant: Hannity influences politics through institutional media access and real estate empire, not through traceable campaign contributions.
 
-- [FEC API: Sean Hannity individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=HANNITY%2C+SEAN&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Sean Hannity individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HANNITY%2C+SEAN) (Tier 1)
 
 > **Note on API results:** The FEC API search for "hannity, sean" returns zero results across all variations. No contributions on record for the Fox News host. The absence is the data point: Hannity's political influence operates entirely through media institutional access and personal financial interests (real estate), not through trackable federal campaign contributions.
 
@@ -133,7 +133,7 @@ Hannity is the purest institutional media product in this vault — the Fox News
 - [BBC: Sean Hannity unmasked as Trump lawyer's mystery client](https://www.bbc.com/news/world-us-canada-43791164) (Tier 2) (Chrome verified 2026-03-26)
 - [CNN: READ — 82 texts between Sean Hannity and Mark Meadows](https://www.cnn.com/2022/04/29/politics/mm-sh-texts/index.html) (Tier 2) (Chrome verified 2026-03-26)
 - [PBS: Jan. 6 panel requests interview with Fox News host Sean Hannity](https://www.pbs.org/newshour/politics/jan-6-panel-requests-interview-with-fox-news-host-sean-hannity) (Tier 2) (Chrome verified 2026-03-26)
-- [FEC API: Sean Hannity individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=HANNITY%2C+SEAN&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Sean Hannity individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HANNITY%2C+SEAN) (Tier 1)
 - [Forbes: The Highest-Paid TV Hosts Of 2025](https://www.forbes.com/sites/mattcraig/2025/09/12/the-highest-paid-tv-hosts-of-2025/) (Tier 3) (Chrome verified 2026-03-26)
 - [Celebrity Net Worth: Sean Hannity Net Worth](https://www.celebritynetworth.com/richest-politicians/republicans/sean-hannity-net-worth/) (Tier 3) (Chrome verified 2026-03-26)
 - [The Ankler: CNN Star Salary 'Beheadings' — 'Take It or Leave It'](https://theankler.com/p/cnn-star-salary-beheadings-chris-wallace-wolf-blitzer-jake-tapper) (Tier 2) (Chrome verified 2026-03-27) — industry comparison: Hannity's $25M Fox salary is untouched while CNN slashes anchor pay

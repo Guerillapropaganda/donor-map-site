@@ -34,7 +34,7 @@ related: [[Donors & Power Networks Index]] · [[_VAULT_INDEX]]
 
 The FEC DEMO_KEY rate limit was exceeded before this run began. No independent expenditure data, no new donation data, and no candidate totals were retrieved this session.
 
-**Action required:** David must register a personal FEC API key at https://api.open.fec.gov/developers/ to get 1,000 calls/hour. Until then, daily runs will continue to fail on FEC queries. See `API Pipeline.md` for registration instructions.
+**Action required:** David must register a personal FEC API key at https://www.fec.gov/developers/ to get 1,000 calls/hour. Until then, daily runs will continue to fail on FEC queries. See `API Pipeline.md` for registration instructions.
 
 ### Affected queries (skipped this run):
 - New large donations from tracked donors (schedule_a)
@@ -221,7 +221,7 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 
 ### Session Notes
 
-- **FEC DEMO_KEY rate limit** is the primary data gap. This will repeat every daily run until a registered key is obtained. David should register at https://api.open.fec.gov/developers/ — it's free and provides 1,000 calls/hour.
+- **FEC DEMO_KEY rate limit** is the primary data gap. This will repeat every daily run until a registered key is obtained. David should register at https://www.fec.gov/developers/ — it's free and provides 1,000 calls/hour.
 - **LDA API throttling**: The LDA API throttled after ~15 requests. Rate limit appears to be per-minute. The key tracked entity data (JPMorgan, ConocoPhillips) was captured before throttling hit.
 - **USASpending date filtering**: The `action_date` filter is working, but `Awarding Agency Name` and `Award Date` fields are not returned by the API for these records (null). The dollar amounts and contract IDs are valid.
 - **Next run priority**: Once FEC key is registered, the independent expenditure data (schedule_e) is the highest-value pull — super PAC spending patterns are the core of the vault's thesis.
@@ -234,6 +234,6 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 - [Senate LDA: JPMorgan Chase Holdings LLC filing](https://lda.gov/filings/public/filing/30e77a16-2d6c-4794-a28e-34e5c800caa0/print/) (Tier 1) (API)
 - [Senate LDA: ConocoPhillips registration](https://lda.gov/filings/public/filing/afcef92f-b9d9-49f3-ba4b-4020a7f86f6b/print/) (Tier 1) (API)
 - [USASpending API: Federal contracts, March 2026, defense contractors](https://api.usaspending.gov/api/v2/search/spending_by_award/) (Tier 1) (API)
-- [FEC Developer registration](https://api.open.fec.gov/developers/) (reference)
+- [FEC Developer registration](https://www.fec.gov/developers/) (reference)
 
 content-readiness:: raw

@@ -39,7 +39,7 @@ The Grayzone operates on stated Patreon model: crowdfunded through patron subscr
 
 No FEC individual contributions found. The FEC API returns 0 results for "BLUMENTHAL, MAX" — confirmed no contributions. Blumenthal's political influence operates entirely through media commentary rather than campaign finance.
 
-- [FEC API: Max Blumenthal individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=BLUMENTHAL%2C+MAX&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Max Blumenthal individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=BLUMENTHAL%2C+MAX) (Tier 1)
 
 ### Who Funds Them
 

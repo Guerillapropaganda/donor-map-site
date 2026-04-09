@@ -25,7 +25,7 @@ Michael Knowles is a political commentator and host of *The Michael Knowles Show
 
 No FEC individual contributions found. The FEC API returns 0 results for "KNOWLES, MICHAEL" — no contributions on record for the Daily Wire host. The $0 record mirrors the pattern across Daily Wire talent (Walsh $0, Shapiro $0): the Wilks Brothers' investment purchases political influence through media infrastructure, not traceable campaign contributions. Knowles shapes Republican cultural politics through content, not donations.
 
-- [FEC API: Michael Knowles individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=KNOWLES%2C+MICHAEL&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Michael Knowles individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=KNOWLES%2C+MICHAEL) (Tier 1)
 
 ### The Funding Model
 
@@ -141,6 +141,6 @@ The Daily Wire model—billionaire-funded, subscription-protected, ideology-firs
 - [Rolling Stone: CPAC Speaker Calls for Eradication of 'Transgenderism'](https://www.rollingstone.com/politics/politics-news/cpac-speaker-transgender-people-eradicated-1234690924/) (Tier 2) (WebFetch verified 2026-03-27)
 - [Daily Beast: Michael Knowles Calls For Eradication of Transgenderism at CPAC](https://www.thedailybeast.com/michael-knowles-calls-for-eradication-of-transgender-people-at-conservative-political-action-conference/) (Tier 2) (WebFetch verified 2026-03-27)
 - [Media Bias/Fact Check: The Daily Wire](https://mediabiasfactcheck.com/the-daily-wire/) (Tier 3) (WebFetch verified 2026-03-27)
-- [FEC API: Michael Knowles individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=KNOWLES%2C+MICHAEL&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Michael Knowles individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=KNOWLES%2C+MICHAEL) (Tier 1)
 
 content-readiness:: ready

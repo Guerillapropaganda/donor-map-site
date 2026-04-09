@@ -66,5 +66,5 @@ The California Farm Bureau exemplifies how agricultural wealth translates to pol
 | IRS Ruling Date | 1965-03-01 |
 | Filings on Record | 0 |
 
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912158769) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912158769) (Tier 1) (NEEDS REVIEW: Hawaii Farm Bureau Federation not listed)
 <!-- auto:nonprofit-990 end -->

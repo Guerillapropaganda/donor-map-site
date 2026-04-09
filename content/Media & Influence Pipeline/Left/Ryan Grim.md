@@ -33,7 +33,7 @@ Drop Site's revenue model relies on subscriptions (est. 9,000 paid subscribers) 
 
 No FEC individual contributions found. The FEC API returns 0 results for "GRIM, RYAN" — confirmed no contributions. Grim's political influence operates through journalism and media commentary rather than campaign finance.
 
-- [FEC API: Ryan Grim individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=GRIM%2C+RYAN&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Ryan Grim individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=GRIM%2C+RYAN) (Tier 1)
 
 ### Who Funds Them
 

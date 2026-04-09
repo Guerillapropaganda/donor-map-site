@@ -27,7 +27,7 @@ Aaron Maté is a Canadian writer and journalist best known as a primary reporter
 
 The FEC API returns 0 results for "MATE, AARON" — confirmed no contributions, consistent with non-citizen status. Maté's influence on U.S. politics operates entirely through journalism (The Grayzone, Useful Idiots) and media commentary, not campaign finance. His Canadian citizenship is analytically relevant: it places him outside the donor-to-policy pipeline this vault tracks while allowing him to shape U.S. political discourse from a position the FEC cannot regulate.
 
-- [FEC API: Aaron Maté individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=MATE%2C+AARON&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Aaron Maté individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=MATE%2C+AARON) (Tier 1)
 
 ### The Funding Model
 

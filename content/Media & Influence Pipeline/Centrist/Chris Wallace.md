@@ -46,8 +46,8 @@ No FEC individual contributions found. The FEC API returns 0 results for "WALLAC
 > [!money]
 > Zero personal political donations over a 55-year career at the most influential political news organizations in the country. Wallace influenced more presidential debates than almost any journalist in history — and spent nothing. His political capital is entirely institutional, not personal. When the institutions stopped paying, the capital evaporated.
 
-- [FEC API: Chris Wallace individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=WALLACE%2C+CHRIS&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
-- [FEC API: Christopher Wallace individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=WALLACE%2C+CHRISTOPHER&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Chris Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRIS) (Tier 1)
+- [FEC: Christopher Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRISTOPHER) (Tier 1)
 
 ---
 
@@ -154,7 +154,7 @@ The CNN+ miscalculation revealed something important: Wallace's brand had high i
 - [Hollywood Reporter: Chris Wallace Leaving CNN After 3 Years](https://www.hollywoodreporter.com/tv/tv-news/chris-wallace-leaving-cnn-after-3-years-1236058831/) (Tier 2)
 - [Deadline: Chris Wallace To Depart CNN After Almost Three Years](https://deadline.com/2024/11/chris-wallace-to-depart-cnn-1236173355/) (Tier 2)
 - [Wikipedia: Chris Wallace](https://en.wikipedia.org/wiki/Chris_Wallace) (Tier 3)
-- [FEC API: Chris Wallace individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=WALLACE%2C+CHRIS&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
-- [FEC API: Christopher Wallace individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=WALLACE%2C+CHRISTOPHER&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Chris Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRIS) (Tier 1)
+- [FEC: Christopher Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRISTOPHER) (Tier 1)
 
 content-readiness:: ready

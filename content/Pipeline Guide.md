@@ -184,7 +184,7 @@ Keys live in `.env` (gitignored) locally and as GitHub Secrets for CI.
 
 | Key | .env variable | GitHub Secret | Where to get it |
 |-----|--------------|---------------|-----------------|
-| FEC | `FEC_API_KEY` | `FECAPI` | https://api.open.fec.gov/developers/ |
+| FEC | `FEC_API_KEY` | `FECAPI` | https://www.fec.gov/developers/ |
 | Congress.gov | `CONGRESS_API_KEY` | `CONGRESSAPI` | https://api.congress.gov/sign-up/ |
 | Senate LDA | `LDA_API_KEY` | `LDAAPI` | Token auth (already configured) |
 | SAM.gov | `SAM_API_KEY` | `SAMAPI` | https://sam.gov/content/home |

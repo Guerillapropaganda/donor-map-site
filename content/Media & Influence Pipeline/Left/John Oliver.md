@@ -32,7 +32,7 @@ Oliver's contract with HBO pays $30 million per 30-episode season ($1 million pe
 
 No FEC individual contributions found. Oliver's position that the political system's corruption makes individual donations functionally irrelevant is reflected in the absence of any federal political contribution record since achieving citizenship eligibility in late 2019.
 
-- [FEC API: John Oliver individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=oliver%2C+john&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: John Oliver individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=oliver%2C+john) (Tier 1)
 
 > **Note on API results:** The FEC API search for "oliver, john" returns 0 results for the television host. Oliver was not a U.S. citizen until December 2019 and therefore ineligible for federal campaign contributions before that date. Zero contributions documented since citizenship eligibility began (2020-2026). No disambiguation needed — no results to disambiguate.
 

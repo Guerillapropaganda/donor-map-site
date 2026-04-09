@@ -29,7 +29,7 @@ Previously married to Mark Wallace, a Republican diplomat and businessman who se
 
 No FEC individual contributions found for either "WALLACE, NICOLLE" or "WALLACE, NICOLE." A former White House Communications Director and senior presidential campaign advisor who has made zero traceable federal political contributions in her entire career. The $0 FEC record from someone who literally managed presidential campaign messaging is analytically significant: Wallace's political influence has always operated through institutional access (White House, campaigns, television), never through personal financial commitments.
 
-- [FEC API: Nicolle Wallace individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=WALLACE%2C+NICOLLE&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Nicolle Wallace individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+NICOLLE) (Tier 1)
 
 > **Note on API results:** Searched both "WALLACE, NICOLLE" and "WALLACE, NICOLE" — both return zero results. A career spent inside Republican campaigns and the White House, followed by a decade as an anti-Trump media voice, with $0 in personal political contributions throughout. The influence operates through platforms, not money.
 
@@ -126,7 +126,7 @@ Wallace embodies the Revolving Door (Media) pattern in its purest form — gover
 - [The List: Inside Nicolle Wallace's Changing Views on Politics](https://www.thelist.com/1111928/inside-nicolle-wallaces-changing-views-on-politics/) (Tier 3)
 - [Yahoo: Nicolle Wallace's Husband Michael Schmidt](https://www.yahoo.com/entertainment/nicolle-wallace-husband-michael-schmidt-075332650.html) (Tier 3)
 - [Ballotpedia: Nicolle Wallace](https://ballotpedia.org/Nicolle_Wallace) (Tier 3)
-- [FEC API: Nicolle Wallace individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=WALLACE%2C+NICOLLE&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Nicolle Wallace individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+NICOLLE) (Tier 1)
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Nicolle Wallace shows zero federal political contributions across both "NICOLLE" and "NICOLE" name variations. A former White House Communications Director and presidential campaign senior advisor with $0 in personal political giving across her entire career — influence flows through institutional access, never personal donations.
 

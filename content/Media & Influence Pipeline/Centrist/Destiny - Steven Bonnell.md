@@ -27,7 +27,7 @@ Steven Bonnell II, known as "Destiny," is a Twitch/YouTube political debate stre
 
 No FEC individual contributions found. The FEC API returns 0 results for "BONNELL, STEVEN" — no contributions on record. Bonnell's political engagement operates through volunteer organizing (Georgia Senate runoffs 2020-2021, Sherrod Brown 2024 Ohio) rather than campaign donations. The $0 is analytically interesting: a streamer who organized canvassing operations for Democratic candidates made zero financial contributions to those same candidates — labor, not money, is his political currency.
 
-- [FEC API: Steven Bonnell individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=BONNELL%2C+STEVEN&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Steven Bonnell individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=BONNELL%2C+STEVEN) (Tier 1)
 
 ### The Funding Model
 

@@ -35,7 +35,7 @@ The Occupy livestreamer became the pipeline for Russian state media content. The
 
 The FEC API returns 1,231 results for "pool, tim" — a demographic bottleneck. Filtering by known state of residence (Texas during podcast era) and employer (YouTube/Timcast, self-employed, media/commentary) reveals no confirmed contributions from the Timcast host. The most likely conclusion is $0 personal political giving, consistent with other right-wing media figures in this vault. However, the name frequency and lack of unique identifying information in FEC records prevents definitive confirmation.
 
-- [FEC API: Tim Pool individual contributions (1,231 results, requires disambiguation)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=pool%2C+tim&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Tim Pool individual contributions (1,231 results, requires disambiguation)](https://www.fec.gov/data/receipts/?contributor_name=pool%2C+tim) (Tier 1)
 
 > **Disambiguation note:** The FEC API search for "pool, tim" returns 1,231 results — "Tim" and "Pool" are both extremely common names. Filtering by Texas (known state of residence during podcast era) and self-employed/media occupation yields no confirmed matches to the Timcast media personality. The volume of results (1,231) indicates the name is too common for definitive API matching without biographical data in the FEC records themselves. Best available evidence: $0 personal contributions from the media figure, though disambiguation cannot be conclusively established via API alone.
 

@@ -52,7 +52,7 @@ Ingraham operates within the Fox Corp institutional structure — the legacy cab
 
 No FEC individual contributions found. A $15 million/year cable news host making zero federal political contributions reveals the structural distinction between personal political engagement and institutional alignment — Ingraham's salary is funded by pharmaceutical advertising, not by direct political donations. Her policy alignment with the donor class occurs through employment and institutional incentives, not through voluntary campaign contributions.
 
-- [FEC API: Laura Ingraham individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=ingraham%2C+laura&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Laura Ingraham individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=ingraham%2C+laura) (Tier 1)
 
 > **Disambiguation note:** The FEC API returns 104 results for "ingraham, laura" via fuzzy matching. Filtering by Florida employer (Fox News/media companies) and excluding North Carolina ActBlue donors confirms zero match for the Fox News host. All 104 results belong to other individuals named Laura Ingraham across different states.
 

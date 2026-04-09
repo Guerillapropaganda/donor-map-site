@@ -57,7 +57,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "MENAKE
 > [!money]
 > Will Menaker's $0 FEC record is ideologically consistent with a host who built his media identity explicitly critiquing the Democratic Party as structurally insufficient. Unlike right-wing talent whose $0 reflects strategic restraint at high income, Menaker's $0 reflects explicit anti-electoral politics — Chapo's entire thesis is that personal donations to campaigns are not the mechanism of structural change.
 
-- [FEC API: Will Menaker individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=MENAKER%2C+WILL&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Will Menaker individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MENAKER%2C+WILL) (Tier 1)
 
 #### Felix Biederman
 
@@ -68,7 +68,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "BIEDER
 > [!money]
 > Felix Biederman's $0 FEC record is consistent with the Chapo structural position: the show's platform built around structural critique of electoral politics as insufficient. The mechanism of political change Chapo endorses is mass movement and material organization — not $250 checks to federal campaigns.
 
-- [FEC API: Felix Biederman individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=BIEDERMAN%2C+FELIX&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Felix Biederman individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=BIEDERMAN%2C+FELIX) (Tier 1)
 
 #### Matt Christman
 
@@ -79,7 +79,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "CHRIST
 > [!money]
 > Matt Christman's $0 FEC record fits the Hegelian-inflected, structural Marxist politics he articulated on air. Christman's "Acid Marxism" thesis explicitly located political change outside electoral cycles — the $0 record is an expression of the analysis, not an oversight.
 
-- [FEC API: Matt Christman individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=CHRISTMAN%2C+MATT&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Matt Christman individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=CHRISTMAN%2C+MATT) (Tier 1)
 
 #### Amber A'Lee Frost
 
@@ -90,7 +90,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "FROST,
 > [!money]
 > Amber A'Lee Frost coined the term "Dirtbag Left" to describe political speech that rejects liberal civility norms — including the performative campaign donation as a class-marked signal of serious political engagement. Her $0 FEC record is structurally coherent with that critique.
 
-- [FEC API: Amber Frost individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=FROST%2C+AMBER&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Amber Frost individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=FROST%2C+AMBER) (Tier 1)
 
 **Combined analytical read:** All four Chapo hosts confirmed $0 FEC. Unlike right-wing talent whose $0 reflects strategic restraint (they exercise influence through platform, not donations), Chapo's $0 reflects an explicit ideological commitment to non-electoral mechanisms of change. The show that generated $200K/month from 47,000 subscribers never cut a single federal campaign check. The contrast with Pod Save America hosts (Obama staffers who have given and raised millions) could not be sharper — same media format, opposite institutional relationship to electoral politics.
 
@@ -211,9 +211,9 @@ Right-wing donor-class capture (Wilks/Daily Wire, Thiel/Rumble, Fox/Murdoch) flo
 - [BuzzFeed News: "Reddit Banned r/The_Donald And r/ChapoTrapHouse Subreddits" (June 29, 2020)](https://www.buzzfeednews.com/article/juliareinstein/reddit-bans-subreddits-thedonald-chapotraphouse) (Tier 2) (WebFetch verified 2026-03-27)
 - [PopCulture.com: Matt Christman suffers "sudden severe medical emergency" (September 2023)](https://popculture.com/celebrity/news/chapo-trap-house-podcaster-matt-christman-suffers-sudden-severe-medical-emergency/) (Tier 3) (WebFetch verified 2026-03-27)
 - [Simon & Schuster: The Chapo Guide to Revolution (2018/2019)](https://www.simonandschuster.com/books/The-Chapo-Guide-to-Revolution/Chapo-Trap-House/9781501187292) (Tier 3) (WebSearch verified 2026-03-27 — Cloudflare blocks direct WebFetch; URL confirmed as official publisher page via WebSearch)
-- [FEC API: Will Menaker individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=MENAKER%2C+WILL&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
-- [FEC API: Felix Biederman individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=BIEDERMAN%2C+FELIX&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
-- [FEC API: Matt Christman individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=CHRISTMAN%2C+MATT&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
-- [FEC API: Amber Frost individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=FROST%2C+AMBER&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
+- [FEC: Will Menaker individual contributions](https://www.fec.gov/data/receipts/?contributor_name=MENAKER%2C+WILL) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
+- [FEC: Felix Biederman individual contributions](https://www.fec.gov/data/receipts/?contributor_name=BIEDERMAN%2C+FELIX) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
+- [FEC: Matt Christman individual contributions](https://www.fec.gov/data/receipts/?contributor_name=CHRISTMAN%2C+MATT) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
+- [FEC: Amber Frost individual contributions](https://www.fec.gov/data/receipts/?contributor_name=FROST%2C+AMBER) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
 
 content-readiness:: ready

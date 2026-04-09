@@ -42,8 +42,8 @@ No FEC individual contributions found. The FEC API returns 0 results for both "R
 > [!money]
 > Reid earned $3M/year as MSNBC's most prominent Black progressive voice, covered campaign finance and political money nightly, and gave $0 in personal federal contributions. This mirrors the vault-wide pattern: cable news hosts influence elections through platform power, not personal donations. The $0 is especially notable given Reid's active role in the 2008 Obama campaign — she transitioned from direct political work to media commentary and stopped personal political giving entirely.
 
-- [FEC API: Joy Reid individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=REID%2C+JOY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
-- [FEC API: Joy-Ann Reid individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=REID%2C+JOY-ANN&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Joy Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY) (Tier 1)
+- [FEC: Joy-Ann Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY-ANN) (Tier 1)
 
 ### Who Funds Them
 
@@ -110,7 +110,7 @@ The $3M salary — while objectively high — becomes a tool of class analysis w
 - [BBC: MSNBC's Joy Reid addresses homophobic blog post controversy](https://www.bbc.com/news/world-us-canada-43936042) (Tier 2)
 - [Deadline: MSNBC to drop Joy Reid from primetime lineup](https://deadline.com/2025/02/msnbc-cancels-joy-reid-1236298901/) (Tier 2)
 - [Wikipedia: Joy Reid](https://en.wikipedia.org/wiki/Joy_Reid) (Tier 3)
-- [FEC API: Joy Reid individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=REID%2C+JOY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
-- [FEC API: Joy-Ann Reid individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=REID%2C+JOY-ANN&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Joy Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY) (Tier 1)
+- [FEC: Joy-Ann Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY-ANN) (Tier 1)
 
 content-readiness:: ready

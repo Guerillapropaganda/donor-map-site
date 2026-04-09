@@ -56,7 +56,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "NEKRAS
 > [!money]
 > Dasha Nekrasova endorsed Trump in 2024 and hosted white nationalist Nick Fuentes in November 2025 — yet has never cut a single federal campaign check. This is consistent with the Red Scare political aesthetic: anti-institutional nihilism that doesn't translate into material electoral engagement. The Trump support is aesthetic and cultural; the financial non-participation is structural.
 
-- [FEC API: Dasha Nekrasova individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=NEKRASOVA%2C+DASHA&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Dasha Nekrasova individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NEKRASOVA%2C+DASHA) (Tier 1)
 
 #### Anna Khachiyan
 
@@ -67,7 +67,7 @@ No FEC individual contributions found. The FEC API returns 0 results for "KHACHI
 > [!money]
 > Anna Khachiyan has said Red Scare has "always loved [Trump], even when we had to be down-low brothers about it" and met with Peter Thiel in 2022 — yet has never donated to a federal campaign. The $0 FEC record maps onto the Red Scare political identity: audience-facing sympathy with the right-wing project combined with zero institutional electoral participation. The political positioning is personal and aesthetic, not financially committed.
 
-- [FEC API: Anna Khachiyan individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=KHACHIYAN%2C+ANNA&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Anna Khachiyan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KHACHIYAN%2C+ANNA) (Tier 1)
 
 ### Who Funds Them
 
@@ -202,7 +202,7 @@ Chapo's subscriber capture constrained hosts toward left consistency. Red Scare'
 - [The American Mind: Soviet America's Sweethearts](https://americanmind.org/salvo/soviet-americas-sweethearts/) (Tier 3) (WebSearch verified 2026-03-27 — identifies George Floyd protests as rightward turning point)
 - [Primetimer: Who is Dasha Nekrasova? Nick Fuentes podcast appearance reportedly leads to ousting from talent agency](https://www.primetimer.com/news/who-is-dasha-nekrasova-nick-fuentes-podcast-appearance-reportedly-leads-to-sucession-actress-s-ousting-from-talent-agency) (Tier 3) (WebSearch verified 2026-03-27)
 - [Reason: The creepy crusade to cancel Red Scare's Dasha (November 2025)](https://reason.com/2025/11/20/the-creepy-crusade-to-cancel-red-scares-dasha/) (Tier 3) (WebSearch verified 2026-03-27)
-- [FEC API: Dasha Nekrasova individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=NEKRASOVA%2C+DASHA&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
-- [FEC API: Anna Khachiyan individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=KHACHIYAN%2C+ANNA&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Dasha Nekrasova individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NEKRASOVA%2C+DASHA) (Tier 1)
+- [FEC: Anna Khachiyan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KHACHIYAN%2C+ANNA) (Tier 1)
 
 content-readiness:: ready

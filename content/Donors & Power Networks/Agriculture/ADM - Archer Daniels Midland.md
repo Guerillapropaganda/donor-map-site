@@ -166,15 +166,15 @@ content-readiness:: ready
 | Agencies | Securities and Exchange Commission |
 
 **Recent regulatory activity:**
-- [Self-Regulatory Organizations; NYSE Amex LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19604/self-regulatory-organizations-nyse-amex-llc-notice-of-filing-and-immediate-effectiveness-of-proposed) (2010-08-10) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19603/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (2010-08-10) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; NASDAQ OMX BX, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add 75 Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/09/2010-19519/self-regulatory-organizations-nasdaq-omx-bx-inc-notice-of-filing-and-immediate-effectiveness-of-a) (2010-08-09) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; NASDAQ OMX PHLX, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19371/self-regulatory-organizations-nasdaq-omx-phlx-inc-notice-of-filing-and-immediate-effectiveness-of) (2010-08-06) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; The NASDAQ Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19334/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate) (2010-08-06) — Securities and Exchange Commission
-- [Self-Regulatory Organizations; Chicago Board Options Exchange, Incorporated; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/04/2010-19222/self-regulatory-organizations-chicago-board-options-exchange-incorporated-notice-of-filing-and) (2010-08-04) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Amex LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19604/self-regulatory-organizations-nyse-amex-llc-notice-of-filing-and-immediate-effectiveness-of-proposed) (VERIFIED) (2010-08-10) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Adding 75 Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/10/2010-19603/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed) (VERIFIED) (2010-08-10) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NASDAQ OMX BX, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add 75 Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/09/2010-19519/self-regulatory-organizations-nasdaq-omx-bx-inc-notice-of-filing-and-immediate-effectiveness-of-a) (VERIFIED) (2010-08-09) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; NASDAQ OMX PHLX, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19371/self-regulatory-organizations-nasdaq-omx-phlx-inc-notice-of-filing-and-immediate-effectiveness-of) (VERIFIED) (2010-08-06) — Securities and Exchange Commission
+- [Self-Regulatory Organizations; The NASDAQ Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Add Seventy-Five Options Classes to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/06/2010-19334/self-regulatory-organizations-the-nasdaq-stock-market-llc-notice-of-filing-and-immediate) (VERIFIED) (2010-08-06) — Securities and Exchange Commission
+- ~~[Self-Regulatory Organizations; Chicago Board Options Exchange, Incorporated; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to the Penny Pilot Program](https://www.federalregister.gov/documents/2010/08/04/2010-19222/self-regulatory-organizations-chicago-board-options-exchange-incorporated-notice-of-filing-and)~~ (URL broken, archived by Ops) (2010-08-04) — Securities and Exchange Commission
 - ... and 2 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
 ### Vehicle Safety (NHTSA)
@@ -192,5 +192,5 @@ content-readiness:: ready
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ADM%20-%20Archer%20Daniels%20Midland) (Tier 1)
+- ~~[Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:nhtsa-recalls end -->

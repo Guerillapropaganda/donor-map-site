@@ -166,7 +166,7 @@ Obama 2008 campaign received $817,855 from Google employees and $854,717 from Mi
 
 For Obama 2012: Google ranked #3 overall organizational donor at $804,249; Microsoft ranked #2 at $815,645. The computer and internet industry gave approximately $3 million to Obama versus under $1 million to Romney. These figures are from OpenSecrets aggregation and require FEC API verification to confirm exact totals and donor breakdown.
 
-FEC candidate ID for Barack Obama: P80003338. Full contribution query: [FEC API: Barack Obama individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=google&candidate_id=P80003338&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1) (API DATA PENDING - Chrome required)
+FEC candidate ID for Barack Obama: P80003338. Full contribution query: [FEC: Barack Obama individual contributions](https://www.fec.gov/data/receipts/?contributor_name=google&candidate_id=P80003338) (Tier 1) (API DATA PENDING - Chrome required)
 
 **Booz Allen Hamilton Federal Revenue:**
 Booz Allen Hamilton FY2013 (ending March 2013): $5.9 billion total revenue, 98% from U.S. government contracts. January 2013: Five-year DIA contract awarded, worth up to $5.6 billion. James Clapper served as Booz Allen executive before becoming DNI (2010). Edward Snowden employed as Booz Allen contractor when he leaked NSA documents (2013).

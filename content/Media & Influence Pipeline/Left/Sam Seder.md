@@ -55,7 +55,7 @@ Seder's career arc traces the full history of progressive independent media fund
 > [!money]
 > Major correction from previous profile data: FEC records show 50 contributions totaling ~$4,012 spanning 2006–2018, not just the $110 in small ActBlue donations. The de-duplicated analysis reveals Seder's long history of political giving through his Air America years (2004–2007), MSNBC period (2010–2018), and early Majority Report independence. All contributions went to progressive/Democratic causes and candidates. 100% Democratic/progressive giving — consistent with an independent media figure whose income comes from audience support and whose political commitments track his on-air positions. The 2018 ActBlue entries documented in the original record are the final visible contributions; no significant giving appears after his transition to full Patreon funding in 2020.
 
-- [FEC API: Sam Seder individual contributions (50 results, $4,012)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=sam+seder&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Sam Seder individual contributions (50 results, $4,012)](https://www.fec.gov/data/receipts/?contributor_name=sam+seder) (Tier 1)
 
 > **Note on API results:** The FEC API search for "sam seder" returns 50 results ($4,012 total) spanning 2006-2018. Employers match his career: Air America Radio, MSNBC, self-employed/Majority Report. All results confirmed as belonging to the Majority Report host. No disambiguation required — all 50 results are the media personality.
 

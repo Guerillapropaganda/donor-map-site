@@ -27,7 +27,7 @@ Jillian Michaels is a fitness celebrity and television personality best known as
 
 No FEC individual contributions found. The FEC API returns 0 results for "MICHAELS, JILLIAN" — no contributions on record for the fitness celebrity turned political commentator. A wellness entrepreneur with significant personal wealth ($18M+ estimated net worth) making $0 in political contributions while hosting a political commentary show — her political engagement is exclusively through media platform, not campaign finance. The celebrity-to-commentator pipeline bypasses the donor system entirely.
 
-- [FEC API: Jillian Michaels individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=MICHAELS%2C+JILLIAN&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Jillian Michaels individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=MICHAELS%2C+JILLIAN) (Tier 1)
 
 ### The Funding Model
 

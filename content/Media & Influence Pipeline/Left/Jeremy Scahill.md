@@ -33,7 +33,7 @@ The Intercept departure was contentious. During early 2024, as The Intercept fac
 
 No FEC individual contributions found. The FEC API returns 0 results for "SCAHILL, JEREMY" — confirmed no contributions. Scahill's political influence operates through investigative journalism and media authority rather than campaign finance.
 
-- [FEC API: Jeremy Scahill individual contributions (0 results, $0.00)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=SCAHILL%2C+JEREMY&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Jeremy Scahill individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=SCAHILL%2C+JEREMY) (Tier 1)
 
 ### Who Funds Them
 

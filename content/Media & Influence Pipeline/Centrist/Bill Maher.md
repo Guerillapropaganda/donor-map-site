@@ -63,7 +63,7 @@ FEC API returns 156 raw results for "Bill Maher" (OpenSecrets ID: D000071834, Bi
 > [!money]
 > Maher's FEC record performs a political function identical to his media function: it establishes "liberal" credentials while the scale obscures the actual class direction of his work. Two million dollars to Democratic causes over 14+ years ($143K/year average) looks politically committed. It is also dwarfed by his wealth accumulation inside the corporate media system ($200M+ cumulative HBO income) and his financial sector ties (Mets partnership with Steve Cohen, real estate holdings). The Democratic donations fund the progressive brand. The corporate infrastructure and wealth multiplication fund the class position. Both are real. The media message emphasizes the donations.
 
-- [FEC API: Bill Maher Productions individual contributions (156 results, $1,119,058.48 raw)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=maher%2C+bill&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Bill Maher Productions individual contributions (156 results, $1,119,058.48 raw)](https://www.fec.gov/data/receipts/?contributor_name=maher%2C+bill) (Tier 1)
 
 > **Note on API results:** The FEC API search for "bill maher" or "maher, bill" returns 156 raw results (~$1.1M aggregate). All results match Bill Maher Productions employer (OpenSecrets ID: D000071834). Contributions span 2004-2024, all verified as belonging to the HBO host. No disambiguation needed — employer identification confirms all results are the media figure.
 

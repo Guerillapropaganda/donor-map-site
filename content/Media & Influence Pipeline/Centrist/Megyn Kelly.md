@@ -47,7 +47,7 @@ Kelly's revenue architecture spans three layers: institutional contracts, platfo
 
 No FEC individual contributions found. FEC API returns zero results for "Megyn Kelly" across multiple state variations and employer filters. Zero political donations from a media figure who earned $15-20M/year at Fox, $23M/year at NBC, and who endorsed Donald Trump at a Pittsburgh rally on October 28, 2024 — one day before the 2024 election.
 
-- [FEC API: Megyn Kelly individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=kelly%2C+megyn&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Megyn Kelly individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=kelly%2C+megyn) (Tier 1)
 
 > **Note on API results:** The FEC API search for "kelly, megyn" returns zero results across multiple state variations and employer filters. No API matches for the media figure despite $15-20M annual salary at Fox and NBC. No results to disambiguate — zero contributions on record.
 

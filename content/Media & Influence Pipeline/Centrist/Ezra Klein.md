@@ -56,7 +56,7 @@ The NYT represents the highest level of institutional capture in media: Klein op
 
 No FEC individual contributions found. FEC API returns 10 results for "Ezra Klein" — all are different individuals (CA/self-employed, NRCC donors from 2002-2003 Republican cycles). Zero match the journalist. Zero political donations from a media figure who has had more measurable political impact in 2024 (Biden step-aside advocacy) than perhaps any individual political operative.
 
-- [FEC API: Ezra Klein individual contributions (0 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=klein%2C+ezra&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Ezra Klein individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=klein%2C+ezra) (Tier 1)
 
 > **Disambiguation note:** The FEC API returns 10 results for "Klein, Ezra" — none belong to the journalist. The mismatch between Klein's political impact (orchestrating elite Democratic consensus on Biden withdrawal in 2024) and his FEC footprint (zero personal political donations) reveals the structural function: Klein advises the Democratic power structure through institutional channels (The Ezra Klein Show on the New York Times, published in the opinion section), not through campaign finance or political giving. His influence operates through the megaphone, not through donations. The absence of personal political participation is consistent with his role as an institutional operator rather than an independent political actor.
 

@@ -69,8 +69,8 @@ TYT is a privately held media company and does not make political contributions 
 > [!money]
 > The FEC employee data reveals a structural contrast with the Daily Wire: where Daily Wire employees donated 48% Democratic despite a conservative editorial line (suggesting institutional political culture diverges from content), TYT employees donate 100% progressive but in overwhelmingly small-dollar amounts — $5 to $35 per transaction across 411 contributions (suggesting institutional political culture aligns with content but the workforce can't afford meaningful political participation). Both patterns expose the labor economics underlying media ideology factories.
 
-- [FEC API: Cenk Uygur individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cenk+uygur&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
-- [FEC API: TYT employee contributions (411 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_employer=the+young+turks&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Cenk Uygur individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cenk+uygur) (Tier 1)
+- [FEC: TYT employee contributions (411 results)](https://www.fec.gov/data/receipts/?contributor_employer=the+young+turks) (Tier 1)
 
 ---
 
@@ -213,8 +213,8 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 - [Wikipedia: Ana Kasparian](https://en.wikipedia.org/wiki/Ana_Kasparian) (Tier 3)
 - [Ballotpedia: Cenk Uygur](https://ballotpedia.org/Cenk_Uygur) (Tier 3)
 - [Justice Democrats: Official Site](https://justicedemocrats.com/) (Tier 3)
-- [FEC API: Cenk Uygur individual contributions](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=cenk+uygur&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
-- [FEC API: TYT employee contributions (411 results)](https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_employer=the+young+turks&api_key=DEMO_KEY&per_page=100&sort=-contribution_receipt_date) (Tier 1)
+- [FEC: Cenk Uygur individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cenk+uygur) (Tier 1)
+- [FEC: TYT employee contributions (411 results)](https://www.fec.gov/data/receipts/?contributor_employer=the+young+turks) (Tier 1)
 - [Hollywood Reporter: Jeffrey Katzenberg's Email to Harvey Weinstein](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenbergs-email-harvey-weinstein-youve-done-terrible-things-1047524/) (Tier 2)
 - [Medium (Robbie Jaeger): The Ideological Failure of The Young Turks](https://medium.com/@RobletoFire/the-ideological-failure-of-the-young-turks-90c15ddde408) (Tier 4)
 
