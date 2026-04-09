@@ -43,7 +43,7 @@ known-gaps:
   - No mapped relationships
 opposes: >-
   [[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE
-  MAJORITY PAC]]
+  MAJORITY PAC]] · [[NEA ADVOCACY FUND]]
 ---
 
 
