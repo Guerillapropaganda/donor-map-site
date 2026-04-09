@@ -36,7 +36,7 @@ tags: #republican
 
 related:: [[_Zach Wahls Master Profile|Zach Wahls]] Josh Turek [[Senate Leadership Fund]] [[Winning for Women PAC]]
 
-donors:: [[Senate Leadership Fund]] [[Winning for Women PAC]] Agriculture Industry PACs
+donors:: [[Senate Leadership Fund]] [[Winning for Women PAC]] Agriculture Industry PACs · [[AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)]]
 ---
 
 ### Who They Are
