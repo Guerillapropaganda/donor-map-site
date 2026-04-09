@@ -1,46 +1,47 @@
 ---
-title: "Thom Tillis Master Profile"
+title: Thom Tillis Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "North Carolina"
-state-abbr: "NC"
+party: Republican
+chamber: Senate
+state: North Carolina
+state-abbr: NC
 issues:
-  - "Healthcare"
+  - Healthcare
 top-donors:
-  - "Pharmaceutical Industry Bloc"
-  - "Tech IP and Patent Lobbying"
-  - "Koch Network - Charles Koch"
+  - Pharmaceutical Industry Bloc
+  - Tech IP and Patent Lobbying
+  - Koch Network - Charles Koch
 govtrack-id: 412668
 bills-sponsored: 53
 bills-cosponsored: 318
-website: "https://www.tillis.senate.gov"
-phone: "202-224-6342"
+website: 'https://www.tillis.senate.gov'
+phone: 202-224-6342
 stock-trades: 99
 stock-trade-tickers:
-  - "AQFH"
-  - "NICE"
-  - "CVS"
-  - "JCOM"
-  - "WST"
-  - "WAL"
-  - "WAGE"
-  - "VSI"
-  - "TYPE"
-  - "TXRH"
-total-received: "$8,072,231"
-fec-candidate-id: "S4NC00162"
+  - AQFH
+  - NICE
+  - CVS
+  - JCOM
+  - WST
+  - WAL
+  - WAGE
+  - VSI
+  - TYPE
+  - TXRH
+total-received: '$8,072,231'
+fec-candidate-id: S4NC00162
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
+opposes: '[[SMP]]'
 ---
 
 
