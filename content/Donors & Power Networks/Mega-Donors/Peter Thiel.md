@@ -20,12 +20,12 @@ last-enriched: '2026-04-08'
 regulatory-agencies:
   - Federal Trade Commission
 related: >-
-  [[The Thiel Pipeline - From Yale to VP]] · [[The Billionaire Cabinet -
-  Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced
-  the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson
-  Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master
-  Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell
-  Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]]
+  [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor
+  Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires
+  Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master
+  Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech
+  Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex
+  Fridman]] · [[Glenn Greenwald]]
 lobbying-spend: 1684850
 lobbying-filings: 106
 stories: >-
