@@ -36,7 +36,7 @@ tags: #democrat
 
 related: [[Miriam Adelson]] · [[Las Vegas Sands]] · Culinary Workers Union · [[EMILY's List]] · [[Adelson Family]] · Nevada Gaming Industry
 
-donors: [[Las Vegas Sands]] · Caesars Entertainment · MGM Resorts · [[Adelson Family]] · [[EMILY's List]] · Gaming Industry Donors
+donors: [[Las Vegas Sands]] · Caesars Entertainment · MGM Resorts · [[Adelson Family]] · [[EMILY's List]] · Gaming Industry Donors · [[SMP]]
 
 ---
 
