@@ -41,7 +41,7 @@ MobileNav.css = `
     z-index: 999;
     background: rgba(12, 12, 15, 0.95);
     backdrop-filter: blur(12px);
-    border-top: 1px solid #1e1e28;
+    border-top: 1px solid #ddd;
     padding: 6px 0;
     padding-bottom: calc(6px + env(safe-area-inset-bottom));
     justify-content: space-around;
@@ -64,13 +64,13 @@ MobileNav.css = `
     font-family: 'Space Mono', monospace;
     font-size: 16px;
     font-weight: 700;
-    color: #5b8dce;
+    color: #0a0a0a;
     width: 32px;
     height: 32px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 6px;
+    border-radius: 0;
     background: rgba(91, 141, 206, 0.1);
   }
 

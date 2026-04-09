@@ -227,17 +227,17 @@ nav.profile-tabs {
   gap: 2px;
   margin: 0 0 1.4rem 0;
   padding: 2px 0 0 0;
-  border-bottom: 1px solid #1a1a22;
+  border-bottom: 1px solid #ddd;
   position: sticky;
   top: 0;
   z-index: 20;
-  background: #13131a;
+  background: #ece6dd;
 }
 .profile-tab-btn {
   background: transparent;
   border: none;
   border-bottom: 2px solid transparent;
-  color: #9a9aa6;
+  color: #777;
   font-family: "Space Mono", monospace;
   font-size: 13px;
   font-weight: 500;
@@ -252,24 +252,24 @@ nav.profile-tabs {
   background: #14141a;
 }
 .profile-tab-btn.profile-tab-active {
-  color: #5b8dce;
-  border-bottom-color: #5b8dce;
+  color: #0a0a0a;
+  border-bottom-color: #0a0a0a;
 }
 .profile-tab-btn.profile-tab-empty {
-  color: #7a7a86;
+  color: #999;
   cursor: pointer;
 }
 .profile-tab-btn.profile-tab-empty:hover {
-  color: #9a9aa6;
+  color: #777;
 }
 .profile-tab-empty-msg {
-  color: #7a7a86;
+  color: #999;
   font-family: "Space Mono", monospace;
   font-size: 13px;
   text-align: center;
   padding: 2rem 1rem;
-  border: 1px dashed #2a2a36;
-  border-radius: 6px;
+  border: 1px dashed #ddd;
+  border-radius: 0;
   margin: 1rem 0;
 }
 

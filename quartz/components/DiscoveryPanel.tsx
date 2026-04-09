@@ -238,7 +238,7 @@ DiscoveryPanel.css = `
    ═══════════════════════════════════════════════ */
 
 .dp-panel {
-  border-top: 1px solid #1e1e28;
+  border-top: 1px solid #ddd;
   margin-top: 16px;
   padding-top: 16px;
 }
@@ -266,11 +266,11 @@ DiscoveryPanel.css = `
 .dp-chip {
   font-size: 11px;
   font-weight: 500;
-  color: #b4b4bc !important;
+  color: #333 !important;
   background: rgba(91, 141, 206, 0.06);
-  border: 1px solid #1e1e28;
+  border: 1px solid #ddd;
   padding: 4px 10px;
-  border-radius: 4px;
+  border-radius: 0;
   text-decoration: none !important;
   transition: all 0.15s;
 }
@@ -278,22 +278,22 @@ DiscoveryPanel.css = `
 .dp-chip:hover {
   background: rgba(91, 141, 206, 0.12);
   border-color: rgba(91, 141, 206, 0.3);
-  color: #e4e4e7 !important;
+  color: #0a0a0a !important;
 }
 
 /* Shared Donors rows */
 .dp-shared-row {
   padding: 10px;
   background: rgba(255, 255, 255, 0.015);
-  border-radius: 6px;
+  border-radius: 0;
   margin-bottom: 6px;
-  border: 1px solid #1a1a22;
+  border: 1px solid #ddd;
 }
 
 .dp-donor-name {
   font-size: 12px;
   font-weight: 700;
-  color: #22c55e !important;
+  color: #16a34a !important;
   text-decoration: none !important;
 }
 
@@ -304,7 +304,7 @@ DiscoveryPanel.css = `
 .dp-also-text {
   font-family: 'Space Mono', monospace;
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   letter-spacing: 1px;
   margin: 4px 0;
 }
@@ -317,15 +317,15 @@ DiscoveryPanel.css = `
 
 .dp-also-chip {
   font-size: 10px;
-  color: #a1a1aa !important;
+  color: #777 !important;
   background: rgba(161, 161, 170, 0.06);
   padding: 2px 8px;
-  border-radius: 3px;
+  border-radius: 0;
   text-decoration: none !important;
 }
 
 .dp-also-chip:hover {
-  color: #e4e4e7 !important;
+  color: #0a0a0a !important;
   background: rgba(91, 141, 206, 0.08);
 }
 
@@ -335,7 +335,7 @@ DiscoveryPanel.css = `
   padding: 12px;
   background: rgba(245, 158, 11, 0.04);
   border: 1px solid rgba(245, 158, 11, 0.12);
-  border-radius: 6px;
+  border-radius: 0;
 }
 
 .dp-fact-label {
@@ -343,14 +343,14 @@ DiscoveryPanel.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 2px;
-  color: #f59e0b;
+  color: #fbbf24;
   margin-bottom: 6px;
 }
 
 .dp-fact-text {
   font-size: 11px;
   line-height: 1.6;
-  color: #a1a1aa;
+  color: #777;
   margin: 0;
 }
 

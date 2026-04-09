@@ -196,12 +196,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   // calculate color — type-based coloring
   const nodeTypeColor = (id: string): string | null => {
     const lower = id.toLowerCase()
-    if (lower.startsWith("politicians/")) return "#5b8dce" // steel blue
-    if (lower.startsWith("donors")) return "#22c55e" // green
-    if (lower.startsWith("stories/")) return "#ef4444" // red
-    if (lower.startsWith("lobbying") || lower.startsWith("k-street")) return "#f59e0b" // amber
+    if (lower.startsWith("politicians/")) return "#0a0a0a" // steel blue
+    if (lower.startsWith("donors")) return "#16a34a" // green
+    if (lower.startsWith("stories/")) return "#e63946" // red
+    if (lower.startsWith("lobbying") || lower.startsWith("k-street")) return "#fbbf24" // amber
     if (lower.startsWith("media")) return "#a855f7" // purple
-    if (lower.startsWith("think")) return "#f59e0b" // amber
+    if (lower.startsWith("think")) return "#fbbf24" // amber
     return null
   }
 

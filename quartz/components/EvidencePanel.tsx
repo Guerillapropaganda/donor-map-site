@@ -162,9 +162,9 @@ EvidencePanel.css = `
    ═══════════════════════════════════════════════ */
 
 .ep-panel {
-  background: #0e0e14;
-  border: 1px solid #1e1e28;
-  border-radius: 6px;
+  background: #f5f0eb;
+  border: 1px solid #ddd;
+  border-radius: 0;
   padding: 12px 16px;
   margin-bottom: 24px;
   font-family: 'Space Mono', monospace;
@@ -188,7 +188,7 @@ EvidencePanel.css = `
   font-weight: 700;
   letter-spacing: 1.5px;
   padding: 3px 10px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 .ep-verified {
@@ -204,25 +204,25 @@ EvidencePanel.css = `
 }
 
 .ep-progress {
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.12);
   border: 1px solid rgba(91, 141, 206, 0.25);
 }
 
 .ep-draft {
-  color: #f59e0b;
+  color: #fbbf24;
   background: rgba(245, 158, 11, 0.12);
   border: 1px solid rgba(245, 158, 11, 0.25);
 }
 
 .ep-limited {
-  color: #ef4444;
+  color: #e63946;
   background: rgba(239, 68, 68, 0.12);
   border: 1px solid rgba(239, 68, 68, 0.25);
 }
 
 .ep-review {
-  color: #ef4444;
+  color: #e63946;
   background: rgba(239, 68, 68, 0.12);
   border: 1px solid rgba(239, 68, 68, 0.25);
 }
@@ -237,7 +237,7 @@ EvidencePanel.css = `
 .ep-updated {
   font-size: 10px;
   letter-spacing: 1px;
-  color: #7a7a86;
+  color: #999;
 }
 
 .ep-row-bottom {
@@ -259,26 +259,26 @@ EvidencePanel.css = `
   font-weight: 600;
   letter-spacing: 0.5px;
   padding: 2px 8px;
-  border-radius: 3px;
+  border-radius: 0;
 }
 
 .ep-source-primary {
-  color: #22c55e;
+  color: #16a34a;
   background: rgba(34, 197, 94, 0.08);
 }
 
 .ep-source-secondary {
-  color: #5b8dce;
+  color: #0a0a0a;
   background: rgba(91, 141, 206, 0.08);
 }
 
 .ep-source-tertiary {
-  color: #a1a1aa;
+  color: #777;
   background: rgba(161, 161, 170, 0.08);
 }
 
 .ep-source-none {
-  color: #ef4444;
+  color: #e63946;
   background: rgba(239, 68, 68, 0.08);
 }
 
@@ -292,11 +292,11 @@ EvidencePanel.css = `
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.2px;
-  color: #5b8dce;
+  color: #0a0a0a;
   text-decoration: none;
   padding: 2px 8px;
   border: 1px solid rgba(91, 141, 206, 0.25);
-  border-radius: 3px;
+  border-radius: 0;
   background: rgba(91, 141, 206, 0.06);
   white-space: nowrap;
   transition: all 0.15s ease;
@@ -317,19 +317,19 @@ EvidencePanel.css = `
   gap: 16px;
   margin-top: 10px;
   padding-top: 10px;
-  border-top: 1px solid #1e1e28;
+  border-top: 1px solid #ddd;
   flex-wrap: wrap;
 }
 
 .ep-spend-label {
   font-size: 10px;
-  color: #7a7a86;
+  color: #999;
   letter-spacing: 0.5px;
   white-space: nowrap;
 }
 
 .ep-spend-amount {
-  color: #f59e0b;
+  color: #fbbf24;
   font-weight: 700;
 }
 
@@ -353,9 +353,9 @@ EvidencePanel.css = `
   display: flex;
   flex: 1;
   height: 16px;
-  border-radius: 3px;
+  border-radius: 0;
   overflow: hidden;
-  background: #1e1e28;
+  background: #ddd;
 }
 
 .ep-split-dem {
