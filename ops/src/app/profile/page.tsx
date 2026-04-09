@@ -1152,18 +1152,32 @@ export default function ProfilePage() {
           const match = n.match(/^\[(CODE|RESEARCH|EDITOR)(?:\s*@\s*(\d{4}-\d{2}-\d{2}))?\]\s*(.+)/)
           if (match) {
             const authorMap: Record<string, string> = { CODE: "Code Claude", RESEARCH: "Research Claude", EDITOR: "Editor" }
-            entries.push({ author: authorMap[match[1]] || match[1], date: match[2] || "", text: match[3] })
+            const text = match[3]
+            // Skip old "Needs Research Claude:" entries — these are duplicates of formal review blockers
+            if (text.startsWith("Needs Research Claude:") || text.startsWith("Needs Code Claude:")) continue
+            entries.push({ author: authorMap[match[1]] || match[1], date: match[2] || "", text })
           }
         }
 
-        // Add the formal editorial review as an entry if it exists
-        if (reviewDate && profile.editorialReviewer) {
+        // Add the formal editorial review split by owner
+        if (reviewDate && profile.editorialBlockers) {
           const blockers = profile.editorialBlockers || []
-          const lines: string[] = []
-          if (blockers.length > 0) lines.push(...blockers.map(b => `FOUND: ${b}`))
-          if (verifiedBlocks.length > 0) lines.push(`Verified: ${verifiedBlocks.join(", ")}`)
-          lines.push(`Result: ${verifiedBlocks.length}/10 blocks — ${(reviewResult || "pending").toUpperCase()}`)
-          entries.unshift({ author: profile.editorialReviewer, date: reviewDate, text: lines.join("\n") })
+          const codeKeywords = ["code claude", "pipeline", "auto-block", "enrichment", "fec id", "wrong fec", "corrupted", "scraper", "last-enriched"]
+          const codeBlockers = blockers.filter(b => codeKeywords.some(k => b.toLowerCase().includes(k)))
+          const researchBlockers = blockers.filter(b => !codeBlockers.includes(b))
+
+          // Code Claude entry
+          if (codeBlockers.length > 0) {
+            const cLines = codeBlockers.map(b => `TODO: ${b}`)
+            entries.unshift({ author: "Code Claude", date: reviewDate, text: cLines.join("\n") })
+          }
+
+          // Research Claude entry
+          const rLines: string[] = []
+          if (researchBlockers.length > 0) rLines.push(...researchBlockers.map(b => `TODO: ${b}`))
+          if (verifiedBlocks.length > 0) rLines.push(`Verified: ${verifiedBlocks.join(", ")}`)
+          rLines.push(`Result: ${verifiedBlocks.length}/10 blocks — ${(reviewResult || "pending").toUpperCase()}`)
+          entries.unshift({ author: "Research Claude", date: reviewDate, text: rLines.join("\n") })
         }
 
         const filtered = reviewFilter === "all" ? entries : entries.filter(e => e.author === reviewFilter)
