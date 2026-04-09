@@ -1,17 +1,17 @@
 ---
-title: "Jamaal Bowman Master Profile"
+title: Jamaal Bowman Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-district: "16"
+party: Democrat
+chamber: House
+district: '16'
 issues:
-  - "Israel & Foreign Policy"
-total-received: "$6,052,176"
-fec-candidate-id: "H0NY16143"
+  - Israel & Foreign Policy
+total-received: '$6,052,176'
+fec-candidate-id: H0NY16143
 govtrack-id: 456839
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -21,7 +21,8 @@ source-types:
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
+opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]]'
 ---
 
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
