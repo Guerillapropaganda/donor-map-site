@@ -13,96 +13,34 @@ function findPage(allFiles: QuartzPluginData[], searchTerm: string): QuartzPlugi
   })
 }
 
-function fmtMoney(n: number): string {
-  if (n >= 1e12) return "$" + (n / 1e12).toFixed(1) + "T"
-  if (n >= 1e9) return "$" + (n / 1e9).toFixed(1) + "B"
-  if (n >= 1e6) return "$" + (n / 1e6).toFixed(1) + "M"
-  if (n >= 1e3) return "$" + (n / 1e3).toFixed(0) + "K"
-  return "$" + n.toString()
+// ─── Curated split-card data ────────────────────────────────────────
+interface SplitCard {
+  name: string
+  quote: string
+  donors: { name: string; amount: string }[]
+  verdict: string
 }
 
-// ─── Types ──────────────────────────────────────────────────────────
-interface HookCard {
-  label: string
-  headline: string
-  body: string
-  stat: string
-  statLabel: string
-  color: "green" | "red" | "amber" | "steel"
-  links: { text: string; search: string }[]
-}
-
-interface EntryPoint {
-  icon: string
-  title: string
-  count?: number
-  desc: string
-  slugPrefix: string
-}
-
-// ─── Curated hook cards ─────────────────────────────────────────────
-const hookCards: HookCard[] = [
+const splitCards: SplitCard[] = [
   {
-    label: "IT TRACKS",
-    headline: "Same donors. Both parties. Same outcomes.",
-    body: "AIPAC funds Pelosi ($3.2M) AND Cruz ($1.9M). Goldman Sachs funds Schumer AND McConnell. PhRMA funds both sides of drug pricing. Different jerseys, identical policy outcomes.",
-    stat: "97-3",
-    statLabel: "Senate vote on Israel aid — bought bipartisan",
-    color: "steel",
-    links: [
-      { text: "The Both-Sides Illusion", search: "cross-politician-contradiction-map---the-both-sides-illusion-with-receipts" },
-      { text: "Goldman Sachs Funds Both Sides", search: "contradiction-01---goldman-sachs-funds-both-sides-of-financial-regulation" },
+    name: "Sen. Cory Booker (D-NJ)",
+    quote: '"We need to make prescription drugs affordable for every American."',
+    donors: [
+      { name: "PhRMA", amount: "$415K" },
+      { name: "Pfizer", amount: "$198K" },
+      { name: "Johnson & Johnson", amount: "$167K" },
     ],
+    verdict: "VOTED AGAINST drug importation from Canada (2017) — the bill that would have lowered prices",
   },
   {
-    label: "IT STORES",
-    headline: "Every dollar traced. Every policy outcome logged.",
-    body: "Koch Network: $2.9M donated to McConnell. Return: $1.9 trillion in tax cuts. That is a 655,172x ROI. PhRMA: $2.1M to kill drug pricing negotiation worth $450 billion. Every dollar has a return.",
-    stat: "655,172x",
-    statLabel: "Koch Network return on McConnell investment",
-    color: "green",
-    links: [
-      { text: "Drug Pricing Theater", search: "contradiction-03---phrma-kills-drug-negotiation-from-both-sides" },
-      { text: "Manchin-Sinema Donor Veto", search: "the-manchin-sinema-donor-class-veto---how-two-senators-killed-a-majority" },
+    name: "Sen. Ted Cruz (R-TX)",
+    quote: '"I will always fight for free speech and against Big Tech censorship."',
+    donors: [
+      { name: "Google / Alphabet", amount: "$226K" },
+      { name: "Amazon", amount: "$173K" },
+      { name: "AT&T", amount: "$152K" },
     ],
-  },
-  {
-    label: "IT INVESTIGATES",
-    headline: "Donors. Lobbyists. Think tanks. Media. One pipeline.",
-    body: "The same money that funds the politicians funds the think tanks that write the policy, the lobbyists who deliver the ask, and the media personalities who manufacture public consent.",
-    stat: "1,400+",
-    statLabel: "profiles mapping every node in the pipeline",
-    color: "amber",
-    links: [
-      { text: "The Federalist Society", search: "federalist-society" },
-      { text: "Leonard Leo", search: "leonard-leo" },
-    ],
-  },
-]
-
-// ─── Featured investigations ────────────────────────────────────────
-interface FeaturedInvestigation {
-  title: string
-  hook: string
-  stat: string
-  statLabel: string
-  search: string
-}
-
-const featuredInvestigations: FeaturedInvestigation[] = [
-  {
-    title: "Defense Contractor 450,000% ROI",
-    hook: "Lockheed Martin, Raytheon, and Boeing spend millions funding both parties. In return, they receive hundreds of billions in contracts — a return on investment that makes Wall Street look like a savings account. The defense budget passes with bipartisan supermajorities every single year.",
-    stat: "450,000%",
-    statLabel: "defense contractor return on political investment",
-    search: "defense-contractor-450000-percent-roi",
-  },
-  {
-    title: "The Nuestra America Convoy",
-    hook: "650 people from 33 nations delivered 20+ tons of humanitarian aid to Cuba. Within 72 hours, the donor class that profits from the embargo launched a coordinated media-political attack to punish them. The same politicians who receive anti-Cuba lobby money led the charge.",
-    stat: "650+",
-    statLabel: "participants from 33 nations",
-    search: "the-nuestra-america-convoy---how-the-donor-class-attacked-a-humanitarian-mission",
+    verdict: "VOTED FOR Section 230 protections that shield the same platforms he publicly attacks",
   },
 ]
 
@@ -126,16 +64,8 @@ const LandingPage: QuartzComponent = ({
     return "#"
   }
 
-  // Dynamic counts — only count actual entity profiles, not sub-notes/stories/events
-  const ENTITY_TYPES = [
-    "politician",
-    "donor",
-    "corporation",
-    "pac",
-    "think-tank",
-    "lobbying-firm",
-    "media-profile",
-  ]
+  // Dynamic counts
+  const ENTITY_TYPES = ["politician", "donor", "corporation", "pac", "think-tank", "lobbying-firm", "media-profile"]
   const isEntityProfile = (f: typeof allFiles[0]) =>
     ENTITY_TYPES.includes(String(f.frontmatter?.type ?? ""))
 
@@ -149,57 +79,54 @@ const LandingPage: QuartzComponent = ({
   const storyCount = allFiles.filter((f) =>
     (f.slug ?? "").toLowerCase().startsWith("stories/"),
   ).length
+  const lobbyCount = allFiles.filter((f) => {
+    const slug = (f.slug ?? "").toLowerCase()
+    return slug.startsWith("lobbying-firms") || slug.startsWith("think-tanks")
+  }).length
 
-  // Entry points with dynamic counts
-  const entryPoints: EntryPoint[] = [
-    {
-      icon: "POLITICIANS",
-      title: "Politicians",
-      count: politicianCount,
-      desc: "Every profile analyzed through one lens: who funds them, what the funders want, and what they got.",
-      slugPrefix: "Politicians",
-    },
-    {
-      icon: "DONORS",
-      title: "Donors & Power Networks",
-      count: donorCount,
-      desc: "Mega-donors, PACs, dark money networks, and the corporations that fund both parties.",
-      slugPrefix: "Donors--and--Power-Networks",
-    },
-    {
-      icon: "STORIES",
-      title: "Investigations",
-      count: storyCount,
-      desc: "Analytical deep dives tracing money across party lines. The patterns the database reveals.",
-      slugPrefix: "Stories",
-    },
-    {
-      icon: "K STREET",
-      title: "Lobbyists & Think Tanks",
-      desc: "The intermediaries who deliver the ask and the organizations that manufacture the talking points.",
-      slugPrefix: "Lobbying-Firms--and--K-Street",
-    },
-  ]
-
-  // Count verified entity profiles (same filter as totalProfiles)
   const verifiedCount = allFiles.filter((f) => {
     if (!isEntityProfile(f)) return false
     const r = String(f.frontmatter?.["content-readiness"] ?? "")
     return r === "ready" || r === "publication-ready"
   }).length
 
+  // Build state lookup data for client-side JS
+  const stateData: Record<string, { n: string; p: string; d: string }[]> = {}
+  const US_STATES = ["AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY"]
+
+  // Collect senators by state from frontmatter
+  allFiles.forEach((f) => {
+    const fm = f.frontmatter
+    if (!fm) return
+    if (String(fm.type) !== "politician") return
+    if (String(fm.chamber) !== "Senate") return
+    const stateAbbr = String(fm["state-abbr"] ?? "")
+    if (!stateAbbr || !US_STATES.includes(stateAbbr)) return
+    const party = String(fm.party ?? "").toLowerCase()
+    const title = String(fm.title ?? "")
+    // Get top donors from frontmatter
+    const topDonors = Array.isArray(fm["top-donors"])
+      ? (fm["top-donors"] as string[]).slice(0, 3).join(", ")
+      : ""
+    if (!stateData[stateAbbr]) stateData[stateAbbr] = []
+    stateData[stateAbbr].push({
+      n: title,
+      p: party.startsWith("dem") ? "dem" : party.startsWith("rep") ? "rep" : "ind",
+      d: topDonors || "Data loading...",
+    })
+  })
+
+  const stateDataJson = JSON.stringify(stateData)
+
   // ─── Construction mode ──────────────────────────────────────────────
   if (isConstructionMode) {
     return (
       <div class={classNames(displayClass, "lp-landing lp-construction")}>
         <div class="construct">
-          {/* Top bar */}
           <div class="construct-topbar">
             <span class="construct-logo">The Donor Map<span class="construct-dollar">$</span></span>
             <span class="construct-status-pill">Building</span>
           </div>
-
-          {/* Hero */}
           <div class="construct-hero">
             <div class="construct-meta">OPEN-SOURCE DONOR INTELLIGENCE / {totalProfiles.toLocaleString()} NODES AND COUNTING</div>
             <h1 class="construct-title">
@@ -212,8 +139,6 @@ const LandingPage: QuartzComponent = ({
               <strong>who funds this person, and what did the funders get in return?</strong>
             </p>
           </div>
-
-          {/* Stats */}
           <div class="construct-stats">
             <div class="construct-stat">
               <span class="construct-stat-num">{totalProfiles.toLocaleString()}</span>
@@ -235,8 +160,6 @@ const LandingPage: QuartzComponent = ({
               <span class="construct-stat-label">Verified</span>
             </div>
           </div>
-
-          {/* Teaser */}
           <div class="construct-teaser">
             <div class="construct-teaser-tag">PREVIEW</div>
             <div class="construct-teaser-content">
@@ -248,175 +171,364 @@ const LandingPage: QuartzComponent = ({
               </div>
             </div>
           </div>
-
-          {/* Launch */}
           <div class="construct-launch">
             <div class="construct-launch-text">Launching Soon</div>
-            <div class="construct-contact">
-              guerillapropaganda@proton.me
-            </div>
+            <div class="construct-contact">guerillapropaganda@proton.me</div>
           </div>
         </div>
       </div>
     )
   }
 
+  // ─── Main landing page (brutalist v3) ─────────────────────────────
   return (
-    <div class={classNames(displayClass, "lp-landing")}>
-      {/* Mobile-only desktop preference notice */}
-      <div class="lp-mobile-notice" aria-label="Viewing tip">
-        <span class="lp-mobile-notice-icon" aria-hidden="true">⌨</span>
-        <span class="lp-mobile-notice-text">
-          <strong>Desktop is preferred.</strong> Mobile layout is still being polished —
-          you'll see the full data tables, sidebars, and interactive views best on a larger screen.
-        </span>
-      </div>
+    <div class={classNames(displayClass, "lp-landing lp-v3")}>
 
-      {/* ═══ LAYER 1: ORIENTATION — What is this, can I trust it? ═══ */}
-      <section class="lp-hero">
-        <div class="lp-hero-badge">DONOR INFLUENCE TRACKING SYSTEM</div>
-        <h1 class="lp-hero-title">Follow the Money.</h1>
-        <p class="lp-hero-sub">
-          A sourced, navigable database tracking how money controls American politics.
-          Every profile starts with one question: <strong>who funds this person, and what
-          did the funders get in return?</strong>
+      {/* ═══ TOP BAR ═══ */}
+      <nav class="v3-topbar">
+        <span class="v3-logo">The Donor Map<span class="v3-dollar">$</span></span>
+        <div class="v3-nav-links">
+          <a href={absHref("Politicians")}>Politicians</a>
+          <a href={absHref("Donors--and--Power-Networks")}>Donors</a>
+          <a href={absHref("Stories")}>Stories</a>
+          <a href={absHref("Interactive")}>Interactive</a>
+        </div>
+      </nav>
+
+      {/* ═══ HERO ═══ */}
+      <section class="v3-hero">
+        <div class="v3-hero-meta">OPEN-SOURCE DONOR INTELLIGENCE / {totalProfiles.toLocaleString()} NODES TRACKED / UPDATED DAILY</div>
+        <h1 class="v3-hero-title">
+          Follow the<br />
+          <span class="v3-highlight-block">Money.</span>
+        </h1>
+        <p class="v3-hero-aside">
+          A sourced database tracking how money controls American politics.
+          Every profile starts with one question:{" "}
+          <strong>who funds them, and what did they get?</strong>
         </p>
-        <div class="lp-hero-stats">
-          <div class="lp-stat">
-            <span class="lp-stat-number">{totalProfiles.toLocaleString()}</span>
-            <span class="lp-stat-label">Profiles</span>
+        <div class="v3-ticker">
+          <div class="v3-tick">
+            <span class="v3-tick-val" id="v3-t-profiles">0</span>
+            <span class="v3-tick-label">Profiles</span>
           </div>
-          <div class="lp-stat-divider" />
-          <div class="lp-stat">
-            <span class="lp-stat-number">{verifiedCount.toLocaleString()}</span>
-            <span class="lp-stat-label">Verified</span>
+          <div class="v3-tick">
+            <span class="v3-tick-val" id="v3-t-donations">$0</span>
+            <span class="v3-tick-label">Traced</span>
           </div>
-          <div class="lp-stat-divider" />
-          <div class="lp-stat">
-            <span class="lp-stat-number green">{donorCount.toLocaleString()}</span>
-            <span class="lp-stat-label">Donors Tracked</span>
+          <div class="v3-tick">
+            <span class="v3-tick-val" id="v3-t-donors">0</span>
+            <span class="v3-tick-label">Donors</span>
           </div>
-          <div class="lp-stat-divider" />
-          <div class="lp-stat">
-            <span class="lp-stat-number amber">655,172x</span>
-            <span class="lp-stat-label">Highest ROI Exposed</span>
+          <div class="v3-tick">
+            <span class="v3-tick-val v3-tick-red" id="v3-t-roi">0x</span>
+            <span class="v3-tick-label">Highest ROI</span>
           </div>
         </div>
-        <div class="lp-hero-cta">
-          <a href={getHref("cross-politician-contradiction-map---the-both-sides-illusion-with-receipts")} class="lp-cta-primary">
-            Start Here
-          </a>
-          <a href={absHref("Politicians")} class="lp-cta-secondary">
-            Explore the Database
-          </a>
+        <div class="v3-hero-cta">
+          <a href={getHref("cross-politician-contradiction-map---the-both-sides-illusion-with-receipts")} class="v3-btn-bold">Start here</a>
+          <a href={absHref("Politicians")} class="v3-btn-text">Explore the database</a>
+        </div>
+        {/* Hidden data attributes for JS ticker targets */}
+        <span id="v3-data-profiles" data-val={totalProfiles} style={{ display: "none" }} />
+        <span id="v3-data-donors" data-val={donorCount} style={{ display: "none" }} />
+      </section>
+
+      {/* ═══ RECEIPT ═══ */}
+      <section class="v3-receipt">
+        <div class="v3-receipt-inner">
+          <div class="v3-section-tag">THE RETURN ON INVESTMENT</div>
+          <div class="v3-receipt-comparison" data-scroll-reveal>
+            <div class="v3-receipt-left">
+              <div class="v3-receipt-num">$2.9M</div>
+              <div class="v3-receipt-context"><strong>Koch Network</strong> donated to McConnell's campaigns and PACs</div>
+            </div>
+            <div class="v3-receipt-mid">→</div>
+            <div class="v3-receipt-right">
+              <div class="v3-receipt-num">$1.9T</div>
+              <div class="v3-receipt-context">in tax cuts via the <strong>2017 Tax Cuts and Jobs Act</strong></div>
+            </div>
+          </div>
+          <div class="v3-receipt-roi" data-scroll-reveal>
+            <div class="v3-roi-number">655,172x</div>
+            <div class="v3-roi-label">Return on political investment</div>
+            <div class="v3-roi-compare">
+              The S&amp;P 500 averages <strong>10% annually</strong>.
+              Koch's return: <strong>65,517,200%</strong>.
+            </div>
+          </div>
         </div>
       </section>
 
-      {/* ═══ LAYER 2: PROOF — Show the system works ═══ */}
+      {/* ═══ THE WEB ═══ */}
+      <section class="v3-web">
+        <div class="v3-web-inner">
+          <div class="v3-section-tag v3-tag-red">IT'S ALL CONNECTED</div>
+          <h2 class="v3-web-headline">
+            Same donors.<br />
+            <span class="v3-dim">Both parties.</span><br />
+            Same <span class="v3-red">outcomes.</span>
+          </h2>
+          <div class="v3-board" id="v3-board">
+            <svg class="v3-board-svg" id="v3-lines"></svg>
+            <div class="v3-node v3-node-donor" style={{ top: "30px", left: "50%", transform: "translateX(-50%)" }} data-n="aipac">AIPAC<span class="v3-node-amt">$100M+ deployed</span></div>
+            <div class="v3-node v3-node-donor" style={{ top: "180px", left: "10%" }} data-n="goldman">Goldman Sachs<span class="v3-node-amt">$48M+ political</span></div>
+            <div class="v3-node v3-node-donor" style={{ top: "180px", right: "10%", left: "auto" }} data-n="pharma">PhRMA<span class="v3-node-amt">$32M+ lobbying</span></div>
+            <div class="v3-node v3-node-dem" style={{ bottom: "100px", left: "5%" }} data-n="pelosi">Pelosi (D)<span class="v3-node-amt">$3.2M from AIPAC</span></div>
+            <div class="v3-node v3-node-dem" style={{ bottom: "30px", left: "25%" }} data-n="schumer">Schumer (D)<span class="v3-node-amt">$5.1M from AIPAC</span></div>
+            <div class="v3-node v3-node-rep" style={{ bottom: "100px", right: "5%", left: "auto" }} data-n="cruz">Cruz (R)<span class="v3-node-amt">$1.9M from AIPAC</span></div>
+            <div class="v3-node v3-node-rep" style={{ bottom: "30px", right: "25%", left: "auto" }} data-n="mcconnell">McConnell (R)<span class="v3-node-amt">$2.9M from Koch</span></div>
+          </div>
+          <div class="v3-pullquote" id="v3-pullquote">
+            <strong>The pattern:</strong> The same donors fund politicians in both parties. Different jerseys, identical policy outcomes. The voting record proves it.
+          </div>
+        </div>
+      </section>
 
-      {/* How the system works: It tracks → It stores → It investigates */}
-      <section class="lp-hooks">
-        <div class="lp-section-label">HOW THE SYSTEM WORKS</div>
-        <div class="lp-hooks-grid">
-          {hookCards.map((card) => (
-            <div class={`lp-hook-card lp-hook-${card.color}`}>
-              <div class="lp-hook-label">{card.label}</div>
-              <h3 class="lp-hook-headline">{card.headline}</h3>
-              <p class="lp-hook-body">{card.body}</p>
-              <div class="lp-hook-stat-row">
-                <span class="lp-hook-stat">{card.stat}</span>
-                <span class="lp-hook-stat-label">{card.statLabel}</span>
+      {/* ═══ THE SPLIT ═══ */}
+      <section class="v3-split">
+        <div class="v3-split-inner">
+          <div class="v3-section-tag v3-tag-red">WHAT THEY SAY VS. WHO PAYS THEM</div>
+          {splitCards.map((card) => (
+            <div class="v3-split-card" data-scroll-reveal>
+              <div class="v3-split-says">
+                <div class="v3-split-col-label v3-label-red">WHAT THEY SAY</div>
+                <div class="v3-split-name">{card.name}</div>
+                <div class="v3-split-quote">{card.quote}</div>
               </div>
-              <div class="lp-hook-links">
-                {card.links.map((link) => (
-                  <a href={getHref(link.search)} class="lp-hook-link">
-                    {link.text} →
-                  </a>
+              <div class="v3-split-pays">
+                <div class="v3-split-col-label v3-label-blue">WHO PAYS THEM</div>
+                <div class="v3-split-name">Top Donors</div>
+                {card.donors.map((d) => (
+                  <div class="v3-donor-row">
+                    <span>{d.name}</span>
+                    <span class="v3-donor-amt">{d.amount}</span>
+                  </div>
                 ))}
               </div>
+              <div class="v3-split-verdict">{card.verdict}</div>
             </div>
           ))}
         </div>
       </section>
 
-      {/* One featured investigation as proof of capability */}
-      <section class="lp-featured">
-        <div class="lp-section-label">FEATURED INVESTIGATION</div>
-        <div class="lp-featured-grid">
-          <div class="lp-featured-card">
-            <div class="lp-featured-content">
-              <h3 class="lp-featured-title">{featuredInvestigations[0].title}</h3>
-              <p class="lp-featured-hook">{featuredInvestigations[0].hook}</p>
-              <a href={getHref(featuredInvestigations[0].search)} class="lp-featured-link">
-                Read the full investigation →
-              </a>
+      {/* ═══ STATE LOOKUP ═══ */}
+      <section class="v3-lookup">
+        <div class="v3-lookup-inner">
+          <h2 class="v3-lookup-title">Who owns <span class="v3-lookup-your">your</span> representative?</h2>
+          <div class="v3-lookup-sub">PICK YOUR STATE. SEE WHO'S PAYING.</div>
+          <div class="v3-states" id="v3-state-grid"></div>
+          <div class="v3-result" id="v3-result">
+            <div class="v3-result-tag" id="v3-result-tag">YOUR SENATORS</div>
+            <div id="v3-result-senators"></div>
+            <div class="v3-result-cta">
+              <a href={absHref("Interactive/who-funds-your-rep")}>VIEW FULL PROFILES →</a>
             </div>
-            <div class="lp-featured-stat">
-              <span class="lp-featured-stat-number">{featuredInvestigations[0].stat}</span>
-              <span class="lp-featured-stat-label">{featuredInvestigations[0].statLabel}</span>
-            </div>
+          </div>
+        </div>
+        {/* State data for client-side JS */}
+        <script id="v3-state-data" type="application/json" dangerouslySetInnerHTML={{ __html: stateDataJson }} />
+      </section>
+
+      {/* ═══ EXPLORE ═══ */}
+      <section class="v3-explore">
+        <div class="v3-explore-inner">
+          <div class="v3-section-tag">GO DEEPER</div>
+          <div class="v3-explore-grid">
+            <a href={absHref("Politicians")} class="v3-explore-cell">
+              <div class="v3-explore-count v3-count-red">{politicianCount.toLocaleString()}</div>
+              <div class="v3-explore-name">Politicians</div>
+              <div class="v3-explore-desc">Every profile analyzed through one lens: who funds them, what the funders want, and what they got.</div>
+              <span class="v3-explore-arrow">→</span>
+            </a>
+            <a href={absHref("Donors--and--Power-Networks")} class="v3-explore-cell">
+              <div class="v3-explore-count v3-count-blue">{donorCount.toLocaleString()}</div>
+              <div class="v3-explore-name">Donors & Networks</div>
+              <div class="v3-explore-desc">Mega-donors, PACs, dark money networks, and the corporations that fund both parties.</div>
+              <span class="v3-explore-arrow">→</span>
+            </a>
+            <a href={absHref("Stories")} class="v3-explore-cell">
+              <div class="v3-explore-count">{storyCount.toLocaleString()}</div>
+              <div class="v3-explore-name">Investigations</div>
+              <div class="v3-explore-desc">Analytical deep dives tracing money across party lines.</div>
+              <span class="v3-explore-arrow">→</span>
+            </a>
+            <a href={absHref("Lobbying-Firms--and--K-Street")} class="v3-explore-cell">
+              <div class="v3-explore-count v3-count-grey">{lobbyCount.toLocaleString()}</div>
+              <div class="v3-explore-name">Lobbyists & Think Tanks</div>
+              <div class="v3-explore-desc">The intermediaries who deliver the ask and write the talking points.</div>
+              <span class="v3-explore-arrow">→</span>
+            </a>
           </div>
         </div>
       </section>
 
-      {/* ═══ LAYER 3: EXPLORATION — Browse the database ═══ */}
-      <section class="lp-explore">
-        <div class="lp-section-label">EXPLORE THE DATABASE</div>
-        <div class="lp-explore-grid">
-          {entryPoints.map((ep) => (
-            <a href={absHref(ep.slugPrefix)} class="lp-explore-card">
-              <div class="lp-explore-icon">{ep.icon}</div>
-              <div class="lp-explore-info">
-                <div class="lp-explore-title">
-                  {ep.title}
-                  {ep.count !== undefined && ep.count > 0 && (
-                    <span class="lp-explore-count">{ep.count.toLocaleString()}</span>
-                  )}
-                </div>
-                <div class="lp-explore-desc">{ep.desc}</div>
-              </div>
-            </a>
-          ))}
+      {/* ═══ FOOTER ═══ */}
+      <footer class="v3-footer">
+        <span class="v3-footer-left">The Donor Map<span class="v3-dollar">$</span> — Open-source political donor intelligence</span>
+        <div class="v3-footer-right">
+          <a href="https://github.com/Guerillapropaganda/donor-map-site">GitHub</a>
+          <a href={absHref("Interactive/about")}>About</a>
+          <a href="mailto:guerillapropaganda@proton.me">Contact</a>
         </div>
-      </section>
-
-      {/* Quick paths for different user types */}
-      <section class="lp-start">
-        <div class="lp-section-label">QUICK PATHS</div>
-        <div class="lp-start-grid">
-          <a href={getHref("cross-politician-contradiction-map---the-both-sides-illusion-with-receipts")} class="lp-start-card lp-start-primary">
-            <div class="lp-start-card-title">The Biggest Findings</div>
-            <div class="lp-start-card-desc">
-              The most damning contradictions. Same donors, both parties, same outcomes.
-            </div>
-          </a>
-          <a href={absHref("Stories/Published/Contradiction-Deep-Dives")} class="lp-start-card">
-            <div class="lp-start-card-title">Browse Contradictions</div>
-            <div class="lp-start-card-desc">
-              21 deep dives into how the same money controls both parties.
-            </div>
-          </a>
-          <a href={absHref("Interactive")} class="lp-start-card">
-            <div class="lp-start-card-title">Interactive Tools</div>
-            <div class="lp-start-card-desc">
-              Power Rankings, Who Funds Your Rep, Issue Explorer, and more.
-            </div>
-          </a>
-        </div>
-      </section>
-
-      {/* ── Transparency notice ── */}
-      <section class="lp-beta">
-        <p>
-          <strong>Transparent by design.</strong> Every profile displays its evidence status, source count,
-          and verification date. This database is in active development — some profiles are deeper than others.
-          That incompleteness is visible, not hidden.
-          Report issues to <strong>guerillapropaganda@proton.me</strong>.
-        </p>
-      </section>
+      </footer>
     </div>
   )
 }
+
+// ─── Client-side JS (runs globally, slug-guarded) ──────────────────
+LandingPage.afterDOMLoaded = `
+(function() {
+  // Only run on the index page
+  var path = window.location.pathname.replace(/\\/$/,'');
+  if (path !== '' && path !== '/' && path !== '/index') return;
+  // Don't run on construction page
+  if (document.querySelector('.lp-construction')) return;
+
+  // ─── Ticker animation ───
+  function animateVal(el, end, dur, prefix, suffix) {
+    prefix = prefix || ''; suffix = suffix || '';
+    var t0 = performance.now();
+    function tick(now) {
+      var p = Math.min((now - t0) / dur, 1);
+      var e = 1 - Math.pow(1 - p, 3);
+      var v = Math.floor(end * e);
+      if (prefix === '$') {
+        el.textContent = v >= 1e9 ? '$' + (v/1e9).toFixed(1) + 'B' : v >= 1e6 ? '$' + (v/1e6).toFixed(1) + 'M' : '$' + v.toLocaleString();
+      } else {
+        el.textContent = prefix + v.toLocaleString() + suffix;
+      }
+      if (p < 1) requestAnimationFrame(tick);
+    }
+    requestAnimationFrame(tick);
+  }
+
+  var profilesEl = document.getElementById('v3-t-profiles');
+  var donationsEl = document.getElementById('v3-t-donations');
+  var donorsEl = document.getElementById('v3-t-donors');
+  var roiEl = document.getElementById('v3-t-roi');
+  var profilesData = document.getElementById('v3-data-profiles');
+  var donorsData = document.getElementById('v3-data-donors');
+
+  if (profilesEl && donationsEl && donorsEl && roiEl) {
+    var pCount = profilesData ? parseInt(profilesData.getAttribute('data-val')) || 857 : 857;
+    var dCount = donorsData ? parseInt(donorsData.getAttribute('data-val')) || 441 : 441;
+    setTimeout(function() {
+      animateVal(profilesEl, pCount, 2000);
+      animateVal(donationsEl, 2400000000, 2500, '$');
+      animateVal(donorsEl, dCount, 2000);
+      animateVal(roiEl, 655172, 3000, '', 'x');
+    }, 800);
+  }
+
+  // ─── Scroll reveals ───
+  var revealEls = document.querySelectorAll('[data-scroll-reveal]');
+  if (revealEls.length) {
+    var obs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (e.isIntersecting) {
+          e.target.style.opacity = '1';
+          e.target.style.transform = 'none';
+        }
+      });
+    }, { threshold: 0.15 });
+    revealEls.forEach(function(el) {
+      el.style.opacity = '0';
+      el.style.transform = 'translateY(16px)';
+      el.style.transition = 'all 0.6s ease';
+      obs.observe(el);
+    });
+  }
+
+  // ─── Connection board ───
+  var board = document.getElementById('v3-board');
+  if (board) {
+    var boardObs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (e.isIntersecting) { revealBoard(); boardObs.unobserve(e.target); }
+      });
+    }, { threshold: 0.25 });
+    boardObs.observe(board);
+  }
+
+  function revealBoard() {
+    var nodes = document.querySelectorAll('.v3-node');
+    nodes.forEach(function(n, i) {
+      setTimeout(function() { n.classList.add('v3-node-visible'); }, i * 180);
+    });
+    setTimeout(function() {
+      drawLines();
+      var pq = document.getElementById('v3-pullquote');
+      if (pq) setTimeout(function() { pq.classList.add('v3-pullquote-visible'); }, 600);
+    }, nodes.length * 180 + 200);
+  }
+
+  function drawLines() {
+    var board = document.getElementById('v3-board');
+    var svg = document.getElementById('v3-lines');
+    if (!board || !svg) return;
+    var r = board.getBoundingClientRect();
+    var conns = [['aipac','pelosi'],['aipac','schumer'],['aipac','cruz'],['goldman','schumer'],['goldman','mcconnell'],['pharma','pelosi'],['pharma','cruz']];
+    svg.innerHTML = '';
+    conns.forEach(function(pair, i) {
+      var ea = document.querySelector('[data-n="'+pair[0]+'"]');
+      var eb = document.querySelector('[data-n="'+pair[1]+'"]');
+      if (!ea || !eb) return;
+      var ra = ea.getBoundingClientRect(), rb = eb.getBoundingClientRect();
+      var l = document.createElementNS('http://www.w3.org/2000/svg','line');
+      l.setAttribute('x1', ra.left + ra.width/2 - r.left);
+      l.setAttribute('y1', ra.top + ra.height/2 - r.top);
+      l.setAttribute('x2', rb.left + rb.width/2 - r.left);
+      l.setAttribute('y2', rb.top + rb.height/2 - r.top);
+      svg.appendChild(l);
+      setTimeout(function() { l.classList.add('v3-line-visible'); }, i * 120);
+    });
+  }
+
+  // ─── State lookup ───
+  var stateDataEl = document.getElementById('v3-state-data');
+  var stateGrid = document.getElementById('v3-state-grid');
+  var stateData = {};
+  if (stateDataEl) {
+    try { stateData = JSON.parse(stateDataEl.textContent); } catch(e) {}
+  }
+
+  var states = ['AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA','HI','ID','IL','IN','IA','KS','KY','LA','ME','MD','MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ','NM','NY','NC','ND','OH','OK','OR','PA','RI','SC','SD','TN','TX','UT','VT','VA','WA','WV','WI','WY'];
+  var activeSt = null;
+
+  if (stateGrid) {
+    states.forEach(function(s) {
+      var b = document.createElement('button');
+      b.className = 'v3-st';
+      b.textContent = s;
+      b.onclick = function() {
+        if (activeSt) activeSt.classList.remove('v3-st-active');
+        b.classList.add('v3-st-active');
+        activeSt = b;
+        showState(s);
+      };
+      stateGrid.appendChild(b);
+    });
+  }
+
+  function showState(s) {
+    var res = document.getElementById('v3-result');
+    var tag = document.getElementById('v3-result-tag');
+    var sen = document.getElementById('v3-result-senators');
+    if (!res || !tag || !sen) return;
+    var d = stateData[s];
+    tag.textContent = s + ' SENATORS';
+    if (!d || !d.length) {
+      sen.innerHTML = '<div class="v3-senator-row"><span style="color:#999">No senator data available for this state yet.</span></div>';
+    } else {
+      sen.innerHTML = d.map(function(x) {
+        return '<div class="v3-senator-row"><span class="v3-senator-name v3-senator-'+x.p+'">'+x.n+'</span><span class="v3-senator-donors">'+x.d+'</span></div>';
+      }).join('');
+    }
+    res.className = 'v3-result v3-result-active';
+  }
+})();
+`
 
 // Styles are in quartz/styles/custom.scss (component CSS doesn't propagate through ConditionalRender)
 
