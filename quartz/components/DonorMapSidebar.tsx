@@ -610,7 +610,7 @@ details[open] > summary > .dm-nav-chevron {
 
 .dm-nav-leaf:hover {
   background: rgba(91, 141, 206, 0.06) !important;
-  color: #c8c8d0 !important;
+  color: #333 !important;
 }
 
 /* ── Top-level leaf links (sections with no children) ── */

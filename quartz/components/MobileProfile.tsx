@@ -374,7 +374,7 @@ MobileProfile.css = `
   .mp-name {
     font-size: 13px;
     font-weight: 600;
-    color: #d4d4dc;
+    color: #333;
   }
 
   /* Sections */
@@ -471,7 +471,7 @@ MobileProfile.css = `
   .mp-row-name {
     font-size: 14px;
     font-weight: 600;
-    color: #d4d4dc;
+    color: #333;
     flex: 1;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -554,7 +554,7 @@ MobileProfile.css = `
     align-items: center;
     gap: 8px;
     font-size: 13px;
-    color: #d4d4dc !important;
+    color: #333 !important;
     text-decoration: none !important;
     padding: 4px 6px;
     border-radius: 0;
@@ -578,7 +578,7 @@ MobileProfile.css = `
   span.mp-event-title {
     font-size: 13px;
     font-weight: 600;
-    color: #d4d4dc !important;
+    color: #333 !important;
     text-decoration: none !important;
     line-height: 1.4;
     display: block;
