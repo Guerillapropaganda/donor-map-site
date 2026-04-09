@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[PG&E - The Utility Donor and the Wildfire Cover]] · [[PG&E - Pacific Gas and Electric]] · [[WSPA - Western States Petroleum Association]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Healthcare - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[The Education Committee and Labor Alignment]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Occidental Petroleum]] · [[Legislative Record as Speaker]] · [[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]]"
+related: "[[PG&E - The Utility Donor and the Wildfire Cover]] · [[PG&E - Pacific Gas and Electric]] · [[WSPA - Western States Petroleum Association]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Healthcare - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[The Education Committee and Labor Alignment]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Occidental Petroleum]] · [[Legislative Record as Speaker]] · [[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 ---
 
 
