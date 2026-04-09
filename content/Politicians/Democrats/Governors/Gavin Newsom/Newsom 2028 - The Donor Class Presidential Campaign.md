@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]]"
+related: "[[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]]"
 ---
 
 

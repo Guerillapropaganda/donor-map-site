@@ -2,12 +2,12 @@
 title: "Hasan Piker"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur|TYT / Cenk Uygur]] · [[Amazon|Amazon/Twitch]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]]"
+related: "[[Cenk Uygur|TYT / Cenk Uygur]] · [[Amazon|Amazon/Twitch]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[Abby Phillip]]"
 ---
 
 #media-pipeline #left #twitch #amazon #platform-dependency #audience-capture #independence-theater #socialist-content

@@ -2,7 +2,7 @@
 title: "John Cornyn"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -43,7 +43,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Tim Scott]]"
+related: "[[Tim Scott]] · [[US Chamber of Commerce]]"
 donors: "[[Harlan Crow]] · [[Insurance Industry]]"
 ---
 

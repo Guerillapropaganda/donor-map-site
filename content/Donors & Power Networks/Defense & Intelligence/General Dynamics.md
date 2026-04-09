@@ -25,7 +25,7 @@ subawards-received: 50
 subawards-received-amount: 5728077424
 top-federal-agency: "General Services Administration"
 top-naics-code: "541512"
-related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]]"
+related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]]"
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial

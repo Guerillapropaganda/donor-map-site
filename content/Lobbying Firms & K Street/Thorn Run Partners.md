@@ -8,7 +8,7 @@ parent: null
 annual-revenue: "$32.3M (2025)"
 lobbyist-count: 37
 revolving-door-pct: "62.9%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]]"
 ---
 
 #lobbying #k-street #healthcare #pharma #defense #tech #telecom #appropriations #bipartisan

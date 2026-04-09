@@ -23,7 +23,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]]"
+related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]]"
 total-political-spend: "$114,701"
 politicians-funded:
   - "Chuck Schumer"

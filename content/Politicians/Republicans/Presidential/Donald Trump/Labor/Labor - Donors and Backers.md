@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Prop 22 - The $200M Corporate Rollback]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[United Farm Workers]] · [[California Labor Federation]] · [[Economic Policy - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[Healthcare - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[United Farm Workers]] · [[California Labor Federation]] · [[Economic Policy - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[Healthcare - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]]"
 ---
 
 
