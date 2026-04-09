@@ -193,11 +193,10 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
-## 2026-04-09 05:05 UTC — 2 profiles
+## 2026-04-09 05:04 UTC — 1 profile
 
-**FEC — 2 profiles:**
-- Dan Goldman — 2026 raised $2,082,447
-- Goldman Sachs — total political spend $1,328,690
+**FEC — 1 profile:**
+- Cori Bush — 2026 raised $534,492
 
 ---
 ## 2026-04-09 04:45 UTC — 10 profiles
