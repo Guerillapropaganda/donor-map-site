@@ -341,8 +341,68 @@ enhanceTables();
 document.addEventListener('nav', function() {
   var art = document.querySelector('article');
   if (art) art.dataset.sectionsWrapped = '';
-  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); hideDuplicateNotices(); renderSayVsPay(); enhanceTables(); }, 100);
+  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); hideDuplicateNotices(); renderSayVsPay(); enhanceTables(); animateProfile(); }, 100);
 });
+
+// ─── Profile page animations ───
+function animateProfile() {
+  // Only on profile pages
+  if (!document.querySelector('.ph-header')) return;
+
+  // Section cards: fade in + slide up on scroll
+  var cards = document.querySelectorAll('.profile-section-card');
+  if (cards.length) {
+    var cardObs = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (e.isIntersecting) {
+          e.target.style.opacity = '1';
+          e.target.style.transform = 'translateY(0)';
+        }
+      });
+    }, { threshold: 0.1 });
+
+    cards.forEach(function(card, i) {
+      card.style.opacity = '0';
+      card.style.transform = 'translateY(16px)';
+      card.style.transition = 'opacity 0.5s ease ' + (i * 0.05) + 's, transform 0.5s ease ' + (i * 0.05) + 's';
+      cardObs.observe(card);
+    });
+  }
+
+  // Article title: slide in
+  var title = document.querySelector('.article-title');
+  if (title) {
+    title.style.opacity = '0';
+    title.style.transform = 'translateY(12px)';
+    title.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+    setTimeout(function() {
+      title.style.opacity = '1';
+      title.style.transform = 'translateY(0)';
+    }, 100);
+  }
+
+  // Evidence panel badge: pop in
+  var badge = document.querySelector('.ep-type-badge');
+  if (badge) {
+    badge.style.opacity = '0';
+    badge.style.transform = 'scale(0.9)';
+    badge.style.transition = 'opacity 0.3s ease, transform 0.3s ease';
+    setTimeout(function() {
+      badge.style.opacity = '1';
+      badge.style.transform = 'scale(1)';
+    }, 300);
+  }
+
+  // Profile header badges: stagger in
+  var badges = document.querySelectorAll('.ph-badge, .ph-party-dot');
+  badges.forEach(function(b, i) {
+    b.style.opacity = '0';
+    b.style.transition = 'opacity 0.3s ease ' + (0.2 + i * 0.1) + 's';
+    setTimeout(function() { b.style.opacity = '1'; }, 50);
+  });
+}
+
+animateProfile();
 `
 
 // Styles are in quartz/styles/custom.scss (scoped via body[data-slug*="master-profile"])
