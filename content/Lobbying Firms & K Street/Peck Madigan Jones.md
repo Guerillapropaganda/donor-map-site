@@ -8,7 +8,7 @@ parent: null
 annual-revenue: "$23.8M"
 lobbyist-count: 20
 revolving-door-pct: "65.0%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Apollo Global Management]] · [[Fossil Fuel Bloc]] · [[Brownstein Hyatt Farber Schreck]] · [[Crossroads Strategies]] · [[Prime Policy Group]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[K&L Gates]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Apollo Global Management]] · [[Fossil Fuel Bloc]] · [[Brownstein Hyatt Farber Schreck]] · [[Crossroads Strategies]] · [[Prime Policy Group]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[K&L Gates]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]]"
 ---
 
 #lobbying #k-street #democratic #bipartisan #healthcare #pharma #biden #clinton #trade #appropriations #energy

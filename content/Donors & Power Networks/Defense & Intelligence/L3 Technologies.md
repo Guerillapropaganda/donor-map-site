@@ -2,7 +2,7 @@
 title: "L3 Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -61,7 +61,7 @@ subawards-received: 50
 subawards-received-amount: 1110991781
 top-federal-agency: "Department of Defense"
 top-naics-code: "334511"
-related: "[[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]]"
+related: "[[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[Northrop Grumman]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ---

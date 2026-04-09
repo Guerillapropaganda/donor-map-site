@@ -27,7 +27,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[Howard Lutnick Master Profile]] · [[The Transition Pipeline and the 21 Million Dollar Buy-In]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[Mike Collins Master Profile]] · [[Media and Propaganda - Donors and Backers]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[Labor - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]]"
+related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[Howard Lutnick Master Profile]] · [[The Transition Pipeline and the 21 Million Dollar Buy-In]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[Mike Collins Master Profile]] · [[Media and Propaganda - Donors and Backers]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[Labor - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]]"
 ---
 
 

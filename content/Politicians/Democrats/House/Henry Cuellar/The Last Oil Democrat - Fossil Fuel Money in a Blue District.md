@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: "[[_Henry Cuellar Master Profile]]"
-related: "[[Economic Policy - Donors and Backers]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Healthcare - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Labor - Donors and Backers]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Healthcare - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Labor - Donors and Backers]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]]"
 ---
 
 #cuellar #oil-gas #fossil-fuel #texas #border #indictment #donor-class-override

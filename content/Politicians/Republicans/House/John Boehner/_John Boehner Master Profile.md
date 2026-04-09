@@ -26,6 +26,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 donors: "[[Mark Zuckerberg]]"
+related: "[[JPMorgan Chase]]"
 ---
 
 #john-boehner #speaker-of-house #tobacco #cannabis #revolving-door #koch-network #finance #class-analysis

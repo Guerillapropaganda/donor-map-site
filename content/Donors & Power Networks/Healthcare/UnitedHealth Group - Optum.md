@@ -39,7 +39,7 @@ last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Employment and Training Administration"
   - "Labor Department"
-related: "[[Civica Rx]] · [[Healthcare - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[Kamala Harris Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Moderna]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Nancy Pelosi Master Profile]] · [[Kaiser Permanente]] · [[Legislative Record as Speaker]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]]"
+related: "[[Civica Rx]] · [[Healthcare - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[Kamala Harris Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Moderna]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Nancy Pelosi Master Profile]] · [[Kaiser Permanente]] · [[Legislative Record as Speaker]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]] · [[Anthony Rendon]]"
 ---
 
 

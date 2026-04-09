@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[The Education Committee and Labor Alignment]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]]"
+related: "[[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[The Education Committee and Labor Alignment]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]]"
 ---
 
 

@@ -20,7 +20,7 @@ fara-countries:
   - "JAPAN"
 lei: "984500BYEBE6DF7F5U39"
 lei-jurisdiction: "GB"
-related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[Ballard Partners]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]]"
+related: "[[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[Ballard Partners]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]]"
 sec-filings: 10000
 sec-form-types:
   - "8-K"

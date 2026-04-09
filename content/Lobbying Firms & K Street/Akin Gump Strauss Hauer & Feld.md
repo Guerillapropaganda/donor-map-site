@@ -8,7 +8,7 @@ parent: null
 annual-revenue: "$65.4M"
 lobbyist-count: 74
 revolving-door-pct: "55.4%"
-related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cassidy & Associates]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[K&L Gates]] · [[Capitol Counsel]]"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[Blackrock]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[Google]] · [[Meta]] · [[Verizon]] · [[Business Roundtable]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cassidy & Associates]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[K&L Gates]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]]"
 sec-filings: 10000
 sec-form-types:
   - "8-K"

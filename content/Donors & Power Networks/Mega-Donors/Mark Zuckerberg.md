@@ -2,7 +2,7 @@
 title: "Mark Zuckerberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -23,7 +23,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]]"
+related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]]"
 total-political-spend: "$114,701"
 politicians-funded:
   - "Chuck Schumer"
