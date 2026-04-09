@@ -24,7 +24,7 @@ donors: '[[Ken Griffin]]'
 related: '[[Lockheed Martin Buys Defense Hawks in Both Parties]]'
 opposes: >-
   [[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH
-  ACTION]]
+  ACTION]] · [[THE SENTINEL ACTION FUND]]
 ---
 
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
