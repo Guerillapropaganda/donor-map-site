@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Ezra Klein]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]]"
+related: "[[Ezra Klein]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]]"
 donors: "[[Peter Thiel]]"
 ---
 

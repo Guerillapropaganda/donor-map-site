@@ -7,7 +7,7 @@ source-tier: null
 parent: null
 category: centrist
 platform: substack
-related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Chris Cuomo]] · [[Megyn Kelly]] · [[Lex Fridman]] · [[Jordan Peterson]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
+related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Chris Cuomo]] · [[Megyn Kelly]] · [[Lex Fridman]] · [[Jordan Peterson]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]]"
 ---
 
 #media-pipeline #centrist #media-network #heterodox #bari-weiss #free-press #tech-money
