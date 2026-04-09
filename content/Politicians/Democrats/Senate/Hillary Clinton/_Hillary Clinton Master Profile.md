@@ -24,7 +24,10 @@ doj-components:
   - 'USAO - New York, Northern'
   - 'USAO - Ohio, Northern'
   - 'USAO - Ohio, Southern'
-donors: '[[Entertainment and Hollywood Donors]]'
+donors: >-
+  [[Entertainment and Hollywood Donors]] · [[UNITED ASSOCIATION POLITICAL
+  EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE
+  PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]]
 opposes: '[[KENTUCKIANS FOR STRONG LEADERSHIP]]'
 ---
 
