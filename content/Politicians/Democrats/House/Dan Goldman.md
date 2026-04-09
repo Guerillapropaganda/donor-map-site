@@ -2,7 +2,7 @@
 title: "Dan Goldman"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 govtrack-id: 456923
