@@ -50,10 +50,6 @@ const ProfileHeader: QuartzComponent = ({
           <span class={`ph-party-dot ph-party-${partyKey.toLowerCase()}`} title={partyLabel}></span>
         )}
         <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
-        {tierLabel && <span class="ph-badge ph-tier">{tierLabel}</span>}
-        <span class={`ph-badge ph-readiness ${isVerified ? "ph-verified" : isReady ? "ph-ready" : "ph-draft"}`}>
-          {isVerified ? "VERIFIED (A+)" : readinessLabel}
-        </span>
       </div>
       {lastUpdated && (
         <div class="ph-meta">UPDATED {lastUpdated}</div>
