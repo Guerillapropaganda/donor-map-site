@@ -24,6 +24,17 @@ interface ProfileData {
   related?: string
   opposes?: string
   donors?: string
+  // Editorial review fields
+  editorialReviewDate?: string
+  editorialReviewer?: string
+  editorialResult?: string
+  editorialBlockers?: string[]
+  verifiedBlocks?: string[]
+  checklistNa?: string[]
+  knownGaps?: string[]
+  corrections?: string[]
+  lastVerifiedBy?: string
+  internalNotes?: string
 }
 
 interface SourceData {
