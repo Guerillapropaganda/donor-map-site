@@ -27,7 +27,9 @@ corroboration-count: 2
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-opposes: '[[SENATE LEADERSHIP FUND]] · [[AMERICAN CROSSROADS]] · [[NRSC]]'
+opposes: >-
+  [[SENATE LEADERSHIP FUND]] · [[AMERICAN CROSSROADS]] · [[NRSC]] · [[MAKE
+  AMERICA GREAT AGAIN INC.]]
 ---
 
 
