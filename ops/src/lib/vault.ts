@@ -51,6 +51,10 @@ export interface Profile {
   topDonors?: string[]
   totalReceived?: string
   careerTotal?: string
+  editorialReviewDate?: string
+  editorialReviewer?: string
+  editorialResult?: string        // "pass" | "block" | "defer"
+  editorialBlockers?: string[]
   lobbyingFilings?: number
   federalContracts?: number
   federalAwardsTotal?: number
@@ -113,6 +117,10 @@ export function parseProfile(path: string, content: string): Profile {
     topDonors: data["top-donors"],
     totalReceived: data["total-received"],
     careerTotal: data["career-total"],
+    editorialReviewDate: data["editorial-review-date"],
+    editorialReviewer: data["editorial-reviewer"],
+    editorialResult: data["editorial-result"],
+    editorialBlockers: data["editorial-blockers"],
     lobbyingFilings: data["lobbying-filings"] ? parseInt(data["lobbying-filings"]) : undefined,
     federalContracts: data["federal-contracts"] ? parseInt(data["federal-contracts"]) : undefined,
     federalAwardsTotal: data["federal-awards-total"] ? parseInt(data["federal-awards-total"]) : undefined,
