@@ -32,7 +32,7 @@ related: [[_Bruce Westerman Master Profile|Bruce Westerman]]
 
 donors:
 
-profile-status:: ready · [[MOVEON.ORG POLITICAL ACTION]] · [[CAMPAIGN FOR COMMUNITY CHANGE]]
+profile-status:: ready · [[MOVEON.ORG POLITICAL ACTION]] · [[CAMPAIGN FOR COMMUNITY CHANGE]] · [[SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)]]
 
 ---
 ---
