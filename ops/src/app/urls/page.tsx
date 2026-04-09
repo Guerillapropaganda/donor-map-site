@@ -8,7 +8,7 @@ interface VaultUrl {
   label: string
   tier?: number
   archived: boolean
-  triageStatus?: "verified" | "broken" | "unsure" | "unchecked"
+  triageStatus?: "verified" | "broken" | "unsure" | "yellow" | "unchecked"
   profile: string
   profilePath: string
   domain: string

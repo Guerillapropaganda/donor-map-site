@@ -153,14 +153,16 @@ export async function POST(request: Request) {
           const oldVerifiedRegex2 = new RegExp(escapeRegex(linkPattern) + "(\\s*\\((?:was )?Tier \\d[^)]*\\))?\\s*\\(VERIFIED(?::[^)]*)?\\)")
           content = content.replace(oldVerifiedRegex2, (_, tier) => linkPattern + (tier || ""))
 
-          // Remove old (NEEDS REVIEW...) if present (to re-add with possibly new note)
-          const oldNeedsReviewRegex = new RegExp(escapeRegex(linkPattern) + "(\\s*\\((?:was )?Tier \\d[^)]*\\))?\\s*\\(NEEDS REVIEW(?::[^)]*)?\\)")
+          // Remove old (NEEDS REVIEW...) and (SLOW...) tags if present
+          const oldNeedsReviewRegex = new RegExp(escapeRegex(linkPattern) + "(\\s*\\((?:was )?Tier \\d[^)]*\\))?\\s*\\((?:NEEDS REVIEW|SLOW)(?::[^)]*)?\\)")
           content = content.replace(oldNeedsReviewRegex, (_, tier) => linkPattern + (tier || ""))
 
-          // Add (NEEDS REVIEW) or (NEEDS REVIEW: note) tag
-          const noteText = change.note || (change.newStatus === "yellow" ? "slow/redirect" : "")
-          const reviewTag = noteText ? ` (NEEDS REVIEW: ${noteText})` : " (NEEDS REVIEW)"
-          if (content.includes(linkPattern) && !content.includes(linkPattern + " (NEEDS REVIEW")) {
+          // Yellow = SLOW tag, Unsure = NEEDS REVIEW tag
+          const isYellow = change.newStatus === "yellow"
+          const tagPrefix = isYellow ? "SLOW" : "NEEDS REVIEW"
+          const noteText = change.note || (isYellow ? "slow/redirect" : "")
+          const reviewTag = noteText ? ` (${tagPrefix}: ${noteText})` : ` (${tagPrefix})`
+          if (content.includes(linkPattern) && !content.includes(linkPattern + ` (${tagPrefix}`)) {
             const tierPattern = new RegExp(
               escapeRegex(linkPattern) + "(\\s*\\((?:was )?Tier \\d[^)]*\\))?",
             )
@@ -182,7 +184,7 @@ export async function POST(request: Request) {
     for (const change of changes) {
       const key = `${change.profilePath}::${change.url}`
       triage[key] = {
-        status: change.newStatus === "slow" || change.newStatus === "yellow" ? "unsure" : change.newStatus,
+        status: change.newStatus === "slow" ? "yellow" : change.newStatus,
         date: new Date().toISOString().slice(0, 10),
         label: change.label,
         profile: change.profile,

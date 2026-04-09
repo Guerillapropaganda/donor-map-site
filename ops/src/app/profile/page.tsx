@@ -42,7 +42,7 @@ interface SourceData {
 }
 
 interface UrlData {
-  url: string; label: string; tier?: number; archived: boolean; triageStatus?: "verified" | "broken" | "unsure" | "unchecked"; triageNote?: string
+  url: string; label: string; tier?: number; archived: boolean; triageStatus?: "verified" | "broken" | "unsure" | "yellow" | "unchecked"; triageNote?: string
 }
 
 interface Connection {
