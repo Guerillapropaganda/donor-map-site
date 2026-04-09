@@ -158,25 +158,25 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 | Net Assets | $37.3M |
 | Officer Compensation | $1.8M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 840738973](https://projects.propublica.org/nonprofits/organizations/840738973) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 840738973](https://projects.propublica.org/nonprofits/organizations/840738973) (Tier 1) (VERIFIED)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- [OpenSecrets: National Cattlemen's Beef Association Profile](https://www.opensecrets.org/orgs/national-cattlemen-s-beef-assn/summary?id=D000000252) (Tier 1)
-- [FEC: NCBA-PAC Committee Data (C00028787)](https://www.fec.gov/data/committee/C00028787/) (Tier 1)
-- [Congress.gov: COOL CRS Report (RS22955)](https://www.congress.gov/crs-product/RS22955) (Tier 1)
-- [WTO: DS384 — United States COOL Dispute](https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds384_e.htm) (Tier 1)
-- [BLM: 2025 Federal Grazing Fee Announcement](https://www.blm.gov/press-release/blm-usda-forest-service-announce-2025-grazing-fees) (Tier 1)
-- [OpenSecrets: NCBA-PAC 2024 Cycle Summary](https://www.opensecrets.org/political-action-committees-pacs/national-cattlemen-s-beef-assn/C00028787/summary/2024) (Tier 1)
-- [Farm Action: Exposing the Truth About NCBA Checkoff Funds](https://farmactionfund.us/2023/10/18/exposing-the-truth-about-ncba-a-public-service-announcement/) (Tier 2)
-- [Farm Action: Four Corporations, Total Control — Meatpacking Consolidation](https://farmaction.us/meatpacking-four-corporations-total-control/) (Tier 2)
-- [In These Times: Beef Prices Soar, Ranchers Squeezed — Meatpacking Consolidation](https://inthesetimes.com/article/beef-prices-ranchers-meatpacking-companies-industry-consolidation) (Tier 2)
-- [Investigate Midwest: A Consolidated Market Leaves Ranchers Wondering](https://investigatemidwest.org/2021/07/21/a-consolidated-market-leaves-ranchers-wondering-whats-next-2/) (Tier 2)
-- [CBS News: Big Beef Challenges EPA Climate Finding](https://www.cbsnews.com/news/food-fight-big-beef-challenges-epa-climate-change-finding/) (Tier 2)
-- [Drovers: NCBA Opposes Cattle Markets Transparency Act](https://www.drovers.com/news/ag-policy/ncba-opposes-cattle-markets-transparency-act-current-form) (Tier 3)
-- [Capital Press: Livestock Groups Split Over COOL Repeal](https://capitalpress.com/2015/12/18/livestock-groups-split-over-cool-repeal/) (Tier 3)
+- [OpenSecrets: National Cattlemen's Beef Association Profile](https://www.opensecrets.org/orgs/national-cattlemen-s-beef-assn/summary?id=D000000252) (Tier 1) (VERIFIED)
+- [FEC: NCBA-PAC Committee Data (C00028787)](https://www.fec.gov/data/committee/C00028787/) (Tier 1) (VERIFIED)
+- [Congress.gov: COOL CRS Report (RS22955)](https://www.congress.gov/crs-product/RS22955) (Tier 1) (VERIFIED)
+- [WTO: DS384 — United States COOL Dispute](https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds384_e.htm) (Tier 1) (VERIFIED)
+- [BLM: 2025 Federal Grazing Fee Announcement](https://www.blm.gov/press-release/blm-usda-forest-service-announce-2025-grazing-fees) (Tier 1) (VERIFIED)
+- [OpenSecrets: NCBA-PAC 2024 Cycle Summary](https://www.opensecrets.org/political-action-committees-pacs/national-cattlemen-s-beef-assn/C00028787/summary/2024) (Tier 1) (VERIFIED)
+- [Farm Action: Exposing the Truth About NCBA Checkoff Funds](https://farmactionfund.us/2023/10/18/exposing-the-truth-about-ncba-a-public-service-announcement/) (Tier 2) (VERIFIED)
+- [Farm Action: Four Corporations, Total Control — Meatpacking Consolidation](https://farmaction.us/meatpacking-four-corporations-total-control/) (Tier 2) (VERIFIED)
+- [In These Times: Beef Prices Soar, Ranchers Squeezed — Meatpacking Consolidation](https://inthesetimes.com/article/beef-prices-ranchers-meatpacking-companies-industry-consolidation) (Tier 2) (VERIFIED)
+- [Investigate Midwest: A Consolidated Market Leaves Ranchers Wondering](https://investigatemidwest.org/2021/07/21/a-consolidated-market-leaves-ranchers-wondering-whats-next-2/) (Tier 2) (VERIFIED)
+- [CBS News: Big Beef Challenges EPA Climate Finding](https://www.cbsnews.com/news/food-fight-big-beef-challenges-epa-climate-change-finding/) (Tier 2) (VERIFIED)
+- [Drovers: NCBA Opposes Cattle Markets Transparency Act](https://www.drovers.com/news/ag-policy/ncba-opposes-cattle-markets-transparency-act-current-form) (Tier 3) (VERIFIED)
+- [Capital Press: Livestock Groups Split Over COOL Repeal](https://capitalpress.com/2015/12/18/livestock-groups-split-over-cool-repeal/) (Tier 3) (VERIFIED)
 
 ---
 
@@ -218,7 +218,7 @@ content-readiness:: ready
 - Chamber of Commerce of the United States of Americ v. EPA (2024) — Court of Appeals for the D.C. Circuit
 - Shoshone-Bannock Tribes of the Fort Hall Reservati v. USDOI (2023) — Court of Appeals for the Ninth Circuit
 
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Cattlemen's%20Beef%20Association%22&type=r) (Tier 1)
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Cattlemen's%20Beef%20Association%22&type=r) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -237,7 +237,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Congressional Budget Office (CBO), Consumer Financial Protection Bureau (CFPB) +60 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Cattlemen's%20Beef%20Association) (Tier 1)
+- ~~[Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=National%20Cattlemen's%20Beef%20Association)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Federal Register Activity
@@ -251,15 +251,15 @@ content-readiness:: ready
 | Agencies | Agricultural Marketing Service, Agriculture Department, Animal and Plant Health Inspection Service, Commodity Futures Trading Commission, Environmental Protection Agency, Federal Motor Carrier Safety Administration, Federal Trade Commission, Fish and Wildlife Service +4 more |
 
 **Recent regulatory activity:**
-- [Endangered and Threatened Wildlife and Plants; Removal of Northern and Southern Distinct Population Segments of the Lesser Prairie-Chicken From the List of Endangered and Threatened Wildlife in Compliance With Court Order](https://www.federalregister.gov/documents/2026/02/26/2026-03883/endangered-and-threatened-wildlife-and-plants-removal-of-northern-and-southern-distinct-population) (2026-02-26) — Interior Department
-- [Price Discovery and Competition in Markets for Fed Cattle](https://www.federalregister.gov/documents/2024/10/11/2024-23528/price-discovery-and-competition-in-markets-for-fed-cattle) (2024-10-11) — Agriculture Department ★
-- [Use of Electronic Identification Eartags as Official Identification in Cattle and Bison](https://www.federalregister.gov/documents/2024/05/09/2024-09717/use-of-electronic-identification-eartags-as-official-identification-in-cattle-and-bison) (2024-05-09) — Agriculture Department ★
-- [Voluntary Labeling of FSIS-Regulated Products With U.S.-Origin Claims](https://www.federalregister.gov/documents/2024/03/18/2024-05479/voluntary-labeling-of-fsis-regulated-products-with-us-origin-claims) (2024-03-18) — Agriculture Department ★
-- [Inclusive Competition and Market Integrity Under the Packers and Stockyards Act](https://www.federalregister.gov/documents/2024/03/06/2024-04419/inclusive-competition-and-market-integrity-under-the-packers-and-stockyards-act) (2024-03-06) — Agriculture Department ★
-- [Clean Water Act Effluent Limitations Guidelines and Standards for the Meat and Poultry Products Point Source Category](https://www.federalregister.gov/documents/2024/01/23/2023-28498/clean-water-act-effluent-limitations-guidelines-and-standards-for-the-meat-and-poultry-products) (2024-01-23) — Environmental Protection Agency ★
+- [Endangered and Threatened Wildlife and Plants; Removal of Northern and Southern Distinct Population Segments of the Lesser Prairie-Chicken From the List of Endangered and Threatened Wildlife in Compliance With Court Order](https://www.federalregister.gov/documents/2026/02/26/2026-03883/endangered-and-threatened-wildlife-and-plants-removal-of-northern-and-southern-distinct-population) (VERIFIED) (2026-02-26) — Interior Department
+- [Price Discovery and Competition in Markets for Fed Cattle](https://www.federalregister.gov/documents/2024/10/11/2024-23528/price-discovery-and-competition-in-markets-for-fed-cattle) (VERIFIED) (2024-10-11) — Agriculture Department ★
+- [Use of Electronic Identification Eartags as Official Identification in Cattle and Bison](https://www.federalregister.gov/documents/2024/05/09/2024-09717/use-of-electronic-identification-eartags-as-official-identification-in-cattle-and-bison) (VERIFIED) (2024-05-09) — Agriculture Department ★
+- [Voluntary Labeling of FSIS-Regulated Products With U.S.-Origin Claims](https://www.federalregister.gov/documents/2024/03/18/2024-05479/voluntary-labeling-of-fsis-regulated-products-with-us-origin-claims) (VERIFIED) (2024-03-18) — Agriculture Department ★
+- [Inclusive Competition and Market Integrity Under the Packers and Stockyards Act](https://www.federalregister.gov/documents/2024/03/06/2024-04419/inclusive-competition-and-market-integrity-under-the-packers-and-stockyards-act) (VERIFIED) (2024-03-06) — Agriculture Department ★
+- [Clean Water Act Effluent Limitations Guidelines and Standards for the Meat and Poultry Products Point Source Category](https://www.federalregister.gov/documents/2024/01/23/2023-28498/clean-water-act-effluent-limitations-guidelines-and-standards-for-the-meat-and-poultry-products) (VERIFIED) (2024-01-23) — Environmental Protection Agency ★
 - ... and 65 more
 
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1)
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
 ### DOJ Press Releases
@@ -271,15 +271,15 @@ content-readiness:: ready
 
 **Recent press releases:**
 
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
+- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
+- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
+- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) (VERIFIED) — USAO - Texas, Southern
+- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
+- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) (VERIFIED) — USAO - Louisiana, Eastern
 - ... and 264,343 more
 
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22National%20Cattlemen's%20Beef%20Association%22&sort=date) (Tier 1)
+- ~~[Source: DOJ Press Releases](https://www.justice.gov/news?query=%22National%20Cattlemen's%20Beef%20Association%22&sort=date)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:doj-press end -->
 
 ### Tax Filings (IRS 990)
@@ -297,11 +297,11 @@ content-readiness:: ready
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2019)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/840738973/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/840738973) (Tier 1)
