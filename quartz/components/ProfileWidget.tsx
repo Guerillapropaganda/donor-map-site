@@ -808,10 +808,10 @@ a.pw-bs-recip:hover {
   right: 20px;
   z-index: 10000;
   padding: 6px 16px;
-  background: #ece6dd;
-  border: 1px solid #ddd;
+  background: #0a0a0a;
+  border: 1px solid #555;
   border-radius: 0;
-  color: #8a8a96;
+  color: #ccc;
   font-family: 'Space Mono', monospace;
   font-size: 11px;
   font-weight: 700;
@@ -820,8 +820,8 @@ a.pw-bs-recip:hover {
 }
 
 .pw-graph-overlay-close:hover {
-  color: #0a0a0a;
-  border-color: #0a0a0a;
+  color: #fbbf24;
+  border-color: #fbbf24;
 }
 
 /* Full-screen filter bar */
@@ -831,16 +831,16 @@ a.pw-bs-recip:hover {
   gap: 6px;
   justify-content: center;
   padding: 8px 12px;
-  border-bottom: 1px solid #ddd;
-  background: rgba(12, 12, 15, 0.6);
+  border-bottom: 1px solid #333;
+  background: rgba(10, 10, 10, 0.9);
 }
 
 .pw-overlay-filter-btn {
   padding: 4px 12px;
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid #ddd;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid #555;
   border-radius: 0;
-  color: #8a8a96;
+  color: #ccc;
   font-family: 'Space Mono', monospace;
   font-size: 10px;
   font-weight: 700;
@@ -850,21 +850,21 @@ a.pw-bs-recip:hover {
 }
 
 .pw-overlay-filter-btn:hover {
-  color: #333;
-  border-color: #ddd;
-  background: rgba(255, 255, 255, 0.06);
+  color: #fff;
+  border-color: #fbbf24;
+  background: rgba(251, 191, 36, 0.1);
 }
 
 .pw-overlay-filter-btn.pw-filter-active {
-  color: #0a0a0a;
-  border-color: #0a0a0a;
-  background: rgba(91, 141, 206, 0.1);
+  color: #fbbf24;
+  border-color: #fbbf24;
+  background: rgba(251, 191, 36, 0.15);
 }
 
 .pw-overlay-filter-btn.pw-filter-off {
   color: #555;
-  border-color: #ddd;
-  background: rgba(0, 0, 0, 0.2);
+  border-color: #333;
+  background: rgba(0, 0, 0, 0.3);
   text-decoration: line-through;
 }
 
