@@ -142,7 +142,7 @@ content-readiness:: ready
 | Net Assets | $255.2M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 416020221](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1) (VERIFIED: good)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -185,7 +185,7 @@ content-readiness:: ready
 | All Other Specialty Trade Contractors (238990) | $2.6M |
 | Other Animal Food Manufacturing (311119) | $2.1M |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
 ### Federal Spending (USASpending)
@@ -217,7 +217,7 @@ content-readiness:: ready
 | $383K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
 | $340K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a31654c7-f5ff-71fe-90d8-91a59745fb51-C/latest) (Tier 1)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a31654c7-f5ff-71fe-90d8-91a59745fb51-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### DOJ Press Releases
