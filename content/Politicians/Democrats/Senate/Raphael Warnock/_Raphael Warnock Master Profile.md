@@ -1,31 +1,32 @@
 ---
-title: "Raphael Warnock Master Profile"
+title: Raphael Warnock Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Georgia"
-state-abbr: "GA"
+party: Democrat
+chamber: Senate
+state: Georgia
+state-abbr: GA
 top-donors:
-  - "Tech and Media Donors"
-  - "Healthcare Sector"
-total-received: "$6,047,785"
-fec-candidate-id: "S0GA00559"
+  - Tech and Media Donors
+  - Healthcare Sector
+total-received: '$6,047,785'
+fec-candidate-id: S0GA00559
 govtrack-id: 456858
 bills-sponsored: 24
 bills-cosponsored: 297
-website: "https://www.warnock.senate.gov"
-phone: "202-224-3643"
+website: 'https://www.warnock.senate.gov'
+phone: 202-224-3643
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
+opposes: '[[AMERICAN CROSSROADS]]'
 ---
 
 
