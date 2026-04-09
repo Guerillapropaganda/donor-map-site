@@ -11,6 +11,35 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-09 (ID cleanup + construction mode + pipeline fixes)
+
+Done:
+- **Pipeline trigger fix** — Ops profile viewer was calling `/api/pipelines/run` (404). Fixed to `/api/pipelines`. Pipeline enrichment buttons now work.
+- **GitHub token for Ops** — David created fine-grained token scoped to donor-map-engine with Actions write. Stored in `ops/.env.local`. Enrichment triggers confirmed working.
+- **58 bogus bioguide IDs removed** — A000383 (Alan Armstrong) was mass-stamped across 58 profiles by a pipeline bug. All removed.
+- **9 wrong FEC IDs fixed** — Bobby Scott, Chris Murphy, Mark Green, Tom Cole, John Kennedy, Ron Johnson, Adam Smith, Jason Smith, Paul Ryan all had wrong-person/wrong-state IDs. Corrected via FEC lookup.
+- **FEC ID audit script** built (`scripts/fix-fec-ids.cjs`) — validates FEC IDs by chamber prefix and state code. Reusable.
+- **Under-construction mode** — `CONSTRUCTION_MODE=true` env var in deploy.yml. Only homepage emits to production. All other pages 404. Local dev unaffected. Live on thedonormap.org now.
+- **GitHub Actions reinstated** — David's account unflagged, pipelines running.
+
+David's feedback (next session):
+1. **Enrichment result logging** — when pipeline runs from profile viewer, log success/failure in the Reviews tab timeline
+2. **Reviews tab change log** — timestamped log of all changes, persists permanently
+3. **Connection removal bug** — can't remove AIPAC from Cori Bush "funded by" (and possibly other categories). Investigate Ops connection editor.
+4. **Class analysis editorial rule** — ALL profiles must be written from class analysis perspective. Add "Class Analysis" as mandatory section. This is #1 editorial rule.
+
+Next session priorities:
+1. Fix connection removal bug in Ops profile viewer
+2. Add enrichment result logging to Reviews tab
+3. Add class analysis mandate to Vault Rules + editorial quality block
+4. Continue FEC ID fixes (18 Senators with legacy House IDs, 9 with presidential IDs)
+5. Graph legend on live site
+6. Fix lda-pipeline.cjs domain
+
+---
+
+## Previous Session
 Claude: Code + Research
 Date: 2026-04-08 (continued — Reviews tab rebuild + editorial quality standards)
 
