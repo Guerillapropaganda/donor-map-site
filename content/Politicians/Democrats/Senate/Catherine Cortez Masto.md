@@ -28,7 +28,7 @@ doj-components:
   - 'USAO - Michigan, Western'
 opposes: >-
   [[SENATE LEADERSHIP FUND]] · [[CLUB FOR GROWTH ACTION]] · [[FREEDOM PARTNERS
-  ACTION FUND, INC.]]
+  ACTION FUND, INC.]] · [[NRSC]]
 ---
 
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat
