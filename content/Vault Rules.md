@@ -143,15 +143,35 @@ When a URL is archived/broken, any factual claim it was the sole source for beco
 
 **Editorial Review System (A+ Promotion):**
 
-Research Claude conducts section-by-section editorial review of ready (B) profiles to promote them to verified (A+). The process is documented in frontmatter.
+Three-stage review: Research Claude → Code Claude → Editor (David). Each stage reviews, fixes what it can, documents everything, and hands off.
 
-- **Partial sign-off**: Blocks are signed off individually via `verified-blocks`. A+ requires ALL blocks for the profile type to pass.
-- **Priority queue**: Profiles are reviewed in priority order (connections 25% + source density 30% + corroboration 20% + body length 10% - gap penalty 15%). Run `node scripts/editorial-priority.cjs` to generate the queue.
-- **Type batching**: Reviews are batched by type for consistency: Congress → Executive → Donors → Corporations → Think Tanks/PACs → Lobbying/Media.
-- **Review log**: Each review is recorded in `editorial-review-log` frontmatter (date, reviewer, result, blocks reviewed, blockers, notes).
-- **Results**: `pass` = all blocks verified, promote to A+. `block` = specific blockers documented. `defer` = needs pipeline work first.
-- **Orphan claims check**: Mandatory block on every review — verify all archived URLs' claims are still sourced.
-- **Staleness**: A+ profiles demote to B after 90 days without re-enrichment. Re-review required for re-promotion.
+**The workflow:**
+
+1. **Research Claude** picks a profile from the priority queue. Reviews each block. Immediately fixes what it owns (connections, contradictions, orphan claims, source verification, opposition tagging). Documents everything in the Reviews timeline: FOUND, FIXED, and what's left for Code Claude. Updates frontmatter (`verified-blocks`, `editorial-blockers`).
+
+2. **Code Claude** picks up profiles with Code blockers (corrupted auto-blocks, wrong FEC IDs, missing enrichment, broken pipelines). Fixes them. Adds FIXED entries to the Reviews timeline. If pipelines are offline (e.g., GitHub Actions disabled), Code items go on a backlog — Research Claude continues reviewing other profiles in the meantime.
+
+3. **Editor (David)** reviews the timeline in the Ops profile viewer Reviews tab. If both Claudes have done their work and the profile looks good: approves for A+. If not: adds critique or sends it back with notes for another pass.
+
+**Review, fix, document, move on.** Don't just find problems — fix them in the same session. The Reviews timeline is a work log, not a bug tracker.
+
+**Timeline entry format:**
+```
+FOUND: [what was discovered]
+FIXED: [what was done about it]
+Verified: [blocks that passed]
+Result: X/Y blocks — PASS/BLOCK
+```
+
+**Priority queue**: Run `node scripts/editorial-priority.cjs` to rank profiles by readiness proximity (connections 25% + source density 30% + corroboration 20% + body 10% - gaps 15%).
+
+**Type batching**: Congress → Executive → Donors → Corporations → Think Tanks/PACs → Lobbying/Media.
+
+**Partial sign-off**: Blocks are signed off individually via `verified-blocks`. A+ requires ALL blocks for the profile type to pass.
+
+**Orphan claims check**: Mandatory on every review — verify all archived URLs' claims are still sourced.
+
+**Staleness**: A+ profiles demote to B after 90 days without re-enrichment. Re-review required.
 
 **Review blocks by profile type:**
 
@@ -406,7 +426,7 @@ Permanent record of architectural and editorial decisions that affect the whole 
 
 | Date | Decision | Made by |
 |------|----------|---------|
-| 2026-04-08 | A+ Editorial Review System: section-by-section sign-off via verified-blocks, priority scoring (connections+sources+corroboration-gaps), type-batched review queue, detailed review log in frontmatter, orphaned claim repair for broken URLs with correction trail. 899 ready profiles queued. | David |
+| 2026-04-08 | A+ Editorial Review System: three-stage workflow (Research Claude reviews+fixes → Code Claude fixes pipeline items → Editor approves). Review-fix-document-move on, not just find problems. Reviews timeline in Ops app. Code Claude backlog when GitHub Actions offline. | David |
 | 2026-04-08 | Editorial framework: checklist enforces readiness (with bypass), story grading (story/report/investigation by URL count), contradiction investigation mandatory for A+, Research+Code Claude integration protocol, cross-ref/wikilink/orphan checks planned | David |
 | 2026-04-08 | Readiness overhaul: "developed" removed, 4-tier system (raw/draft/ready/verified). Investigative journalism standards: corroboration, staleness decay, known-gaps, editorial sign-off gate. Verified = A+, Ready = B. | David |
 | 2026-04-08 | Senate LDA (lda.gov) temporarily removed from Tier 1 — site mid-migration from lda.senate.gov, URLs broken. Reinstate after June 2026 when migration completes. Existing LDA citations stay as Archived until then. | David |
