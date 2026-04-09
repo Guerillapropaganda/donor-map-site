@@ -167,7 +167,7 @@ RelatedProfiles.css = `
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  color: #c8c8d0;
+  color: #333;
 }
 
 .rp-shared {

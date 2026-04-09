@@ -612,7 +612,7 @@ a.pw-flow-row:hover {
 .pw-flow-donor {
   font-size: 12px;
   font-weight: 600;
-  color: #d4d4dc;
+  color: #333;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -722,7 +722,7 @@ a.pw-bs-recip:hover {
 }
 
 .pw-bs-name {
-  color: #d4d4dc;
+  color: #333;
   font-weight: 500;
   flex: 1;
 }
@@ -849,7 +849,7 @@ a.pw-bs-recip:hover {
 }
 
 .pw-overlay-filter-btn:hover {
-  color: #d4d4dc;
+  color: #333;
   border-color: #ddd;
   background: rgba(255, 255, 255, 0.06);
 }
