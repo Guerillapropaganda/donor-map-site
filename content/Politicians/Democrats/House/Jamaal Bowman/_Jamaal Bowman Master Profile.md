@@ -22,8 +22,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]]'
-donors: '[[JUSTICE DEMOCRATS PAC]]'
+opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]] · [[DMFI PAC]]'
 ---
 
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
