@@ -41,7 +41,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-opposes: '[[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]]'
+opposes: >-
+  [[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE
+  MAJORITY PAC]]
 ---
 
 
