@@ -2,12 +2,12 @@
 title: "Michael Knowles"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]] · [[Andrew Klavan]]"
+related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]] · [[Andrew Klavan]] · [[Jordan Peterson]]"
 ---
 
 #media-pipeline #right #culture-war #daily-wire #evangelical-capitalism

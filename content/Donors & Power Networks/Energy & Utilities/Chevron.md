@@ -25,7 +25,7 @@ ein: 510189525
 annual-revenue: "$222K"
 net-assets: "$781K"
 tax-year: "2023"
-related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]]"
+related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
 federal-awards-total: 192677628
 federal-contracts-count: 25
 federal-grants-count: 5
