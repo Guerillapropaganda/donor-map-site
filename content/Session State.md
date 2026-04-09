@@ -99,6 +99,21 @@ Done:
 - **Construction page pushed live** — new brutalist construction page deployed to thedonormap.org via v4 push. Cream bg, yellow highlights, 655,172x teaser card, "LAUNCHING SOON".
 - **Design decisions finalized** — hybrid light/dark, split card colors (red say/blue pay), danger vs party red separated, serif=rhetoric monospace=receipts, animation budget per page type, mobile secondary but functional, state lookup committed.
 - **Ops Rules tab** — Design System added as 5th tab (both worktree and main repo).
+- **Landing page v3 ported to Quartz** — full `LandingPage.tsx` rewrite with all 6 sections (hero, receipt, connection board, split cards, state lookup, explore grid). Client-side JS for ticker, scroll reveals, connection board animation, state lookup from build-time data. 778 lines of new SCSS. All pushed to v4 (behind construction mode flag).
+
+In progress:
+- Landing page v3 is BEHIND construction mode. To see it locally, set `isConstructionMode = false` in `quartz/constructionMode.ts`.
+- State lookup pulls senator data from frontmatter at build time. Works for states with senator profiles that have `state-abbr` and `top-donors` frontmatter fields.
+- Global chrome reskin (sidebar, nav for non-landing pages) still pending.
+
+Next session priorities:
+1. **Test landing page v3 locally** — verify all sections render correctly, fix any CSS issues
+2. **Global chrome reskin** — topbar/sidebar stays dark, content areas go light for profile pages
+3. **State lookup data coverage** — ensure all 50 states have senator data with top-donors in frontmatter
+4. **Turn off construction mode** when ready to launch the new design
+5. Continue A+ reviews
+6. Fix congress pipeline to query all congresses (engine)
+7. Fix lda-pipeline.cjs domain in engine repo
 
 Design direction approved by David:
 - Brutalist art-direction. **Hybrid light/dark** — not full light, not full dark.
