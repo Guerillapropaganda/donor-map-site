@@ -69,8 +69,8 @@ Cory Booker. Democrat, New Jersey. Senator since 2013. Former Mayor of Newark (2
 
 Booker is the most Wall Street-funded progressive in the Senate. New Jersey's economic geography makes this structural: Goldman Sachs offices, pharmaceutical headquarters (Johnson & Johnson, Merck, Pfizer facilities), and the financial corridor between Manhattan and Newark generate the donor base that funds his campaigns. His political brand combines progressive social positions (criminal justice reform, racial equity, veganism) with a donor base dominated by Wall Street and pharma — the two industries most concentrated in New Jersey's economy.
 
-- [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
-- [Congress.gov: Cory Booker member profile](https://www.congress.gov/member/cory-booker/B001288) (Tier 1)
+- [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1) (VERIFIED)
+- [Congress.gov: Cory Booker member profile](https://www.congress.gov/member/cory-booker/B001288) (Tier 1) (VERIFIED: It works; moved from bad)
 
 ---
 
@@ -186,18 +186,18 @@ The development was real. The question is who benefited: corporate headquarters 
 - [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [FEC Candidate: Cory Booker top industries](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [Congress.gov: Cory Booker member profile](https://www.congress.gov/member/cory-booker/B001288) (Tier 1)
-- [Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/756) (Tier 1)
-- [Brennan Center: What Is the First Step Act](https://www.brennancenter.org/our-work/research-reports/what-first-step-act-and-whats-happening-it) (Tier 2)
-- [The Intercept: Booker joins Republicans to kill drug importation measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2)
-- [In These Times: Wall Street, private equity and Big Pharma love Booker](https://inthesetimes.com/article/cory-booker-wall-street-private-equity-pharma-pac-goldman-sachs) (Tier 2)
-- [ABC News: Booker returns pharma executive money after claiming he hadn't accepted any](https://abcnews.com/Politics/booker-returns-pharma-executives-money-claimed-accepted/story?id=64087776) (Tier 2)
-- [KFF Health News: Booker haunted by Big Pharma relationship](https://kffhealthnews.org/morning-breakout/in-era-of-public-rage-over-drug-prices-cory-booker-is-haunted-by-his-past-relationship-with-big-pharma/) (Tier 2)
-- [The Hill: Booker puts pause on pharma fundraising](https://thehill.com/policy/healthcare/340303-cory-booker-to-pause-fundraising-from-pharma-companies/) (Tier 2)
-- [Center for Public Integrity: 9 things to know about Cory Booker](https://publicintegrity.org/politics/elections/presidential-profiles-2020/9-things-to-know-about-cory-booker/) (Tier 2)
-- [The Real Deal: NJ development group allegedly swapped jobs for Booker donations](https://therealdeal.com/new-york/2013/10/14/nj-development-group-allegedly-swapped-construction-jobs-for-booker-donations/) (Tier 2)
-- [Sentencing Project: The First Step Act](https://www.sentencingproject.org/policy-brief/the-first-step-act-ending-mass-incarceration-in-federal-prisons/) (Tier 2)
-- [PolitiFact: Cory Booker and drug maker campaign cash](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 3)
-- [Ballotpedia: Cory Booker](https://ballotpedia.org/Cory_Booker) (Tier 3)
+- [Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/756) (Tier 1) (VERIFIED: Works; moved from bad)
+- [Brennan Center: What Is the First Step Act](https://www.brennancenter.org/our-work/research-reports/what-first-step-act-and-whats-happening-it) (Tier 2) (VERIFIED)
+- [The Intercept: Booker joins Republicans to kill drug importation measure](https://theintercept.com/2017/01/12/cory-booker-joins-senate-republicans-to-kill-measure-to-import-cheaper-medicine-from-canada/) (Tier 2) (VERIFIED)
+- [In These Times: Wall Street, private equity and Big Pharma love Booker](https://inthesetimes.com/article/cory-booker-wall-street-private-equity-pharma-pac-goldman-sachs) (Tier 2) (VERIFIED)
+- [ABC News: Booker returns pharma executive money after claiming he hadn't accepted any](https://abcnews.com/Politics/booker-returns-pharma-executives-money-claimed-accepted/story?id=64087776) (Tier 2) (VERIFIED)
+- [KFF Health News: Booker haunted by Big Pharma relationship](https://kffhealthnews.org/morning-breakout/in-era-of-public-rage-over-drug-prices-cory-booker-is-haunted-by-his-past-relationship-with-big-pharma/) (Tier 2) (VERIFIED)
+- [The Hill: Booker puts pause on pharma fundraising](https://thehill.com/policy/healthcare/340303-cory-booker-to-pause-fundraising-from-pharma-companies/) (Tier 2) (VERIFIED: Works; uses bot blocker)
+- [Center for Public Integrity: 9 things to know about Cory Booker](https://publicintegrity.org/politics/elections/presidential-profiles-2020/9-things-to-know-about-cory-booker/) (Tier 2) (VERIFIED)
+- [The Real Deal: NJ development group allegedly swapped jobs for Booker donations](https://therealdeal.com/new-york/2013/10/14/nj-development-group-allegedly-swapped-construction-jobs-for-booker-donations/) (Tier 2) (VERIFIED)
+- [Sentencing Project: The First Step Act](https://www.sentencingproject.org/policy-brief/the-first-step-act-ending-mass-incarceration-in-federal-prisons/) (Tier 2) (VERIFIED)
+- [PolitiFact: Cory Booker and drug maker campaign cash](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 3) (VERIFIED)
+- [Ballotpedia: Cory Booker](https://ballotpedia.org/Cory_Booker) (Tier 3) (VERIFIED)
 
 profile-status:: ready
 content-readiness:: ready
@@ -241,14 +241,14 @@ content-readiness:: ready
 | 08/08/2014 | DISH | Sale | $1,001 - $15,000 | Self |
 | 08/08/2014 | AMT | Sale | $50,001 - $100,000 | Self |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (GovTrack)
@@ -281,7 +281,7 @@ _No committee data found for the 119th Congress._
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412598) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412598) (Tier 1) (NEEDS REVIEW: Slow response (6155ms) does work)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
