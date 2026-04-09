@@ -193,6 +193,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-09 05:31 UTC — 1 profile
+
+**FEC — 1 profile:**
+- Cori Bush — 2026 raised $534,492
+
+---
 ## 2026-04-09 05:04 UTC — 1 profile
 
 **FEC — 1 profile:**

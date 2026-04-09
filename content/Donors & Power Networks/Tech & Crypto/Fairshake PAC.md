@@ -13,7 +13,7 @@ politicians-funded:
   - "Elizabeth Warren"
 issues:
   - "Technology"
-related: "[[Trump 2024 Campaign]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Think Big AI PAC]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Juliana Stratton]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[2026-03-25 Finance Research]] · [[Mike Lawler Master Profile]] · [[Elizabeth Warren Master Profile]]"
+related: "[[Trump 2024 Campaign]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Think Big AI PAC]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Juliana Stratton]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[2026-03-25 Finance Research]] · [[Mike Lawler Master Profile]] · [[Elizabeth Warren Master Profile]] · [[The 2020 Campaign and the Donor Class Consolidation]]"
 source-types:
   - FEC
 ---
