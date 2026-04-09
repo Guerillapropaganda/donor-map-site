@@ -22,6 +22,22 @@ source-types:
   - FEC
   - GovTrack
 corroboration-count: 3
+editorial-review-date: "2026-04-08"
+editorial-reviewer: "Research Claude"
+editorial-result: block
+editorial-blockers:
+  - "Congress auto-block corrupted: shows Republican/Oklahoma instead of Democrat/Missouri (Code Claude fix)"
+  - "Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped"
+  - "Unresolved [!contradiction] about anti-establishment brand vs self-dealing"
+  - "bush.house.gov marked (URL NEEDED) — site likely dead since she left office"
+  - "committee-assignments: N/A (lost 2024 primary, no longer in Congress)"
+verified-blocks:
+  - voting-records
+  - fec-data
+  - source-diversity
+  - enriched
+checklist-na:
+  - "committee-assignments: Lost 2024 primary, no longer in 119th Congress"
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
