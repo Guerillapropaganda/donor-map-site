@@ -1,32 +1,33 @@
 ---
-title: "John Fetterman Master Profile"
+title: John Fetterman Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Democrat
+chamber: Senate
+state: Pennsylvania
+state-abbr: PA
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 top-donors:
-  - "AIPAC - American Israel Public Affairs Committee"
-total-received: "$9,034,481"
-fec-candidate-id: "S6PA00274"
+  - AIPAC - American Israel Public Affairs Committee
+total-received: '$9,034,481'
+fec-candidate-id: S6PA00274
 govtrack-id: 456877
 bills-sponsored: 24
 bills-cosponsored: 296
-website: "https://www.fetterman.senate.gov"
-phone: "202-224-4254"
+website: 'https://www.fetterman.senate.gov'
+phone: 202-224-4254
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
+opposes: '[[SENATE LEADERSHIP FUND]]'
 ---
 
 
