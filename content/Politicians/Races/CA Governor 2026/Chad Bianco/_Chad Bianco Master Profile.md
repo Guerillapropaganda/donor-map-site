@@ -15,7 +15,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-internal-notes: "[URL Check 2026-04-09] 15 checked: 14 ok, 0 broken, 1 slow. | SLOW: ABC7: Jail deaths, civil rights lawsuits"
+internal-notes: "[URL Check 2026-04-09] 15 checked: 14 ok, 0 broken, 1 slow. | SLOW: ABC7: Jail deaths, civil rights lawsuits | [URL Check 2026-04-09] 15 checked: 14 ok, 0 broken, 1 slow. | SLOW: ABC7: Jail deaths, civil rights lawsuits"
 ---
 
 
