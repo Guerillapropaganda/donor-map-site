@@ -61,7 +61,7 @@ Deere & Company (John Deere). The world's largest agricultural equipment manufac
 
 Deere PAC contributes $1-2 million per cycle, with lobbying spending of $3-5 million annually. The company's political priorities center on agricultural trade policy (Deere exports equipment globally), opposition to right-to-repair legislation (which would allow farmers to repair their own equipment), and favorable manufacturing trade rules.
 
-- [OpenSecrets: Deere & Company organizational profile](https://www.opensecrets.org/orgs/deere-co/summary?id=D000000504) (NEEDS REVIEW) (Tier 1)
+- [OpenSecrets: Deere & Company organizational profile](https://www.opensecrets.org/orgs/deere-co/summary?id=D000000504) (Tier 1) (NEEDS REVIEW: Pharmaceutical Research & Manufacturers of America Wrong profile)
 
 ---
 
@@ -103,15 +103,15 @@ The right-to-repair fight is a case study in how intellectual property law conve
 | $6.4M | Department of Defense | 8511246304!MTR GRADER |
 | $1.9M | Department of Defense | 8511345881!MOTOR GRADER |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-John%20Deere) (Tier 1)
+- ~~[Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-John%20Deere)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:usaspending end -->
 
 ### Sources
 
 - [OpenSecrets: Deere & Company organizational profile](https://www.opensecrets.org/orgs/deere-co/summary?id=D000000504) (Tier 1)
-- [FTC: Right-to-repair report](https://www.ftc.gov/reports/nixing-fix-ftc-report-congress-repair-restrictions) (Tier 1)
-- [Ballotpedia: Deere & Company](https://ballotpedia.org/Deere_&_Company) (Tier 3)
+- [FTC: Right-to-repair report](https://www.ftc.gov/reports/nixing-fix-ftc-report-congress-repair-restrictions) (Tier 1) (VERIFIED)
+- ~~[Ballotpedia: Deere & Company](https://ballotpedia.org/Deere_&_Company)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 content-readiness:: ready
 
@@ -124,8 +124,8 @@ content-readiness:: ready
 | Total Expenses | $42.5M |
 | Net Assets | $212.6M |
 
-- [Source: ProPublica Nonprofit Explorer — EIN 366051024](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
-- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1)
+- [Source: ProPublica Nonprofit Explorer — EIN 366051024](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1) (VERIFIED)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -143,7 +143,7 @@ content-readiness:: ready
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=John%20Deere) (Tier 1)
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=John%20Deere) (Tier 1) (NEEDS REVIEW: Generic search results...would like to find this)
 <!-- auto:nhtsa-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -189,7 +189,7 @@ content-readiness:: ready
 | Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers (423810) | $435K |
 | Farm Machinery and Equipment Manufacturing (333111) | $89K |
 
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (NEEDS REVIEW: Generic search results)
 <!-- auto:usaspending-subawards end -->
 
 ### SEC Filing Activity
@@ -207,7 +207,7 @@ content-readiness:: ready
 - 2014-12-19 — **EX-21**: EX-21
 - 2012-12-17 — **EX-21**: EX-21
 
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1)
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1) (NEEDS REVIEW: Just a bunch of code...not sure context)
 <!-- auto:sec-edgar end -->
 
 ### Federal Register Activity
