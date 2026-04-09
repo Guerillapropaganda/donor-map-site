@@ -1,25 +1,37 @@
 ---
-title: "Peter Thiel"
+title: Peter Thiel
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 politicians-funded:
-  - "Donald Trump"
-  - "JD Vance"
-  - "David Sacks"
+  - Donald Trump
+  - JD Vance
+  - David Sacks
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 1
-last-enriched: "2026-04-08"
+last-enriched: '2026-04-08'
 regulatory-agencies:
-  - "Federal Trade Commission"
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Hillbilly Elegy and the Class Fraud]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[The Silicon Valley Billionaire Donor Map]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]]"
+  - Federal Trade Commission
+related: >-
+  [[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture
+  Capital Pipeline]] · [[Hillbilly Elegy and the Class Fraud]] · [[The PayPal
+  Mafia and the Venture Capital Governing Class]] · [[The Palantir State -
+  Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance
+  Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in
+  History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The
+  Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The
+  Billionaires Government]] · [[Mike Johnson Master Profile]] · [[The
+  AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Vivek Ramaswamy
+  Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech
+  Pipeline]] · [[The Silicon Valley Billionaire Donor Map]] · [[Dan Bongino]] ·
+  [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]]
 lobbying-spend: 1684850
 lobbying-filings: 106
 ---
