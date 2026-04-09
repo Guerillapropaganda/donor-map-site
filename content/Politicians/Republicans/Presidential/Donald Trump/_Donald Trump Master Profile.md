@@ -92,7 +92,7 @@ Trump's 2024 campaign and affiliated groups raised approximately $1.45 billion. 
 
 **[[Kenneth Griffin|Kenneth Griffin]]** — $100 million+. Citadel hedge fund founder. Financial deregulation interest. Moved from anti-Trump to mega-donor as the tax and regulatory benefits became clear. [Source: [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2) (VERIFIED)]
 
-**Jeffrey & Janine Yass** — $100 million+. Susquehanna International Group (trading firm). Major Republican donor. TikTok investment interest — Yass holds a significant stake in ByteDance, TikTok's parent company. His donations coincided with the TikTok ban debate. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)]
+**[[Jeffrey Yass|Jeffrey & Janine Yass]]** — $100 million+. Susquehanna International Group (trading firm). Major Republican donor. TikTok investment interest — Yass holds a significant stake in ByteDance, TikTok's parent company. His donations coincided with the TikTok ban debate. [Source: [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)]
 
 ---
 
