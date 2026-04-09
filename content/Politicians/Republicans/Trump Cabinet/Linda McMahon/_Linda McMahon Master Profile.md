@@ -1,40 +1,41 @@
 ---
-title: "Linda McMahon Master Profile"
+title: Linda McMahon Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 committees:
-  - "Education & Labor"
+  - Education & Labor
 issues:
-  - "Education"
+  - Education
 top-donors:
-  - "MAGA Inc"
-  - "America First Policy Institute"
-total-received: "$50,963,418"
-fec-candidate-id: "S0CT00151"
+  - MAGA Inc
+  - America First Policy Institute
+total-received: '$50,963,418'
+fec-candidate-id: S0CT00151
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
-doj-press-mentions: "264413"
-last-enriched: "2026-04-09"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
+doj-press-mentions: '264413'
+last-enriched: '2026-04-09'
 doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
+  - 'Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)'
+  - Federal Bureau of Investigation (FBI)
+  - 'USAO - California, Central'
+  - USAO - Connecticut
+  - 'USAO - Florida, Northern'
+  - 'USAO - Florida, Southern'
+  - USAO - Kansas
+  - 'USAO - Kentucky, Eastern'
+  - 'USAO - Louisiana, Eastern'
+  - 'USAO - Michigan, Western'
+opposes: '[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]]'
 ---
 
 
