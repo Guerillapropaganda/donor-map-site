@@ -21,7 +21,7 @@ source-types:
   - GovTrack
 corroboration-count: 3
 donors: '[[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]]'
-opposes: '[[HOUSE MAJORITY PAC]]'
+opposes: '[[HOUSE MAJORITY PAC]] · [[AMERICAN JOBS AND GROWTH PAC]]'
 ---
 
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money
