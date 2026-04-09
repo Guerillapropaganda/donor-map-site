@@ -2,7 +2,7 @@
 title: "Jim Jordan Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-03-24
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,11 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+govtrack-id: 412226
+bills-sponsored: 1
+bills-cosponsored: 16
+website: "https://jordan.house.gov"
+phone: "202-225-2676"
 ---
 
 
@@ -128,3 +133,31 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 - [CNN: Jim Jordan's speakership bid ends after third lost vote](https://www.cnn.com/politics/live-news/house-speaker-vote-10-20-23/index.html) (Tier 2)
 content-readiness:: ready
  
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 1 |
+| Bills Cosponsored | 16 |
+| Total Votes Cast | 12,539 |
+
+**Recent bills sponsored:**
+
+- H.Res. 86: Providing amounts for the expenses of the Committee on the Judiciary in the One Hundred Nineteenth Congress. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on January 31, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412226) (Tier 1)
+<!-- auto:govtrack end -->

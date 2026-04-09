@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Energy & Climate"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "IRAN-EO13846"
 ein: "530115970"

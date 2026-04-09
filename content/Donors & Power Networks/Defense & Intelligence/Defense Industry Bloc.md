@@ -2,7 +2,7 @@
 title: "Defense Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -14,6 +14,19 @@ lobbying-filings: 123
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[The National Security-to-Senate Pipeline]] · [[Patty Murray]] · [[Fanjul Family - Florida Crystals]]"
+doj-press-mentions: "264413"
+last-enriched: "2026-04-09"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 #defense #industry-bloc #lobbying #military-industrial-complex #pentagon #ndaa #contractors
@@ -103,3 +116,23 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Subawards & Spending Breakdown
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
+
+**Recent press releases:**
+
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Defense%20Industry%20Bloc%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

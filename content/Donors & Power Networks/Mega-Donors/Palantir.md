@@ -46,6 +46,9 @@ lei: "549300UVN46B3BBDHO85"
 lei-jurisdiction: "US-DE"
 related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]] · [[Alpine Group]] · [[Ajay Royan]] · [[Lockheed Martin]] · [[General Dynamics]]"
 internal-notes: "[URL Check 2026-04-08] 25 checked: 16 ok, 1 broken, 8 slow. | BROKEN: Source: CourtListener / RECAP | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Source: Federal Register | SLOW: Source: GLEIF"
+federal-awards-total: 1168645041
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 
@@ -369,3 +372,25 @@ research-status:: developed — Full OpenSecrets political spending, lobbying, a
 
 - ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $1.2B |
+| Contracts (recent 3yr) | 25 ($2.1B sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 8 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $292.7M | Department of Defense | TASK ORDER #1 FOR MAVEN SMART SYSTEM - USER INTERFACE/USER EXPERIENCE (UI/UX) PROTOTYPE |
+| $252.5M | Department of Defense | CDAO MSS TASK ORDER OFF OF CONTRACT W519TC25D0039 |
+| $195.7M | Department of Defense | PROVIDES ACCESS TO AGILE, SCALABLE DATA PLATFORM WITH ROBUST DATA STREAMING,STORAGE TECHNOLOGIES, CO |
+| $150.7M | Department of Homeland Security | INVESTIGATIVE CASE MANAGEMENT (ICM) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES AND CUSTOM ENH |
+| $130.0M | Department of Defense | ESTABLISH BASIC LETTER CONTRACT FOR COMMERCIAL DATA AS A SERVE PLATFORM. |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

@@ -25,6 +25,32 @@ regulatory-agencies:
   - "Justice Department"
   - "Transportation Department"
 related: "[[Harris-Newsom Donor Class Fracture]] · [[Tom Steyer Master Profile]] · [[NextGen America and the Climate-to-Politics Pipeline]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Nancy Pelosi Master Profile]] · [[The Biden Exit and Harris Installation]] · [[Josh Shapiro Master Profile]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Gun and Public Safety - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[Chris Murphy Master Profile]]"
+sec-filings: 1621
+sec-form-types:
+  - "10KSB"
+  - "425"
+  - "497"
+  - "6-K"
+  - "8-K"
+  - "8-K/A"
+  - "ARS"
+  - "DEF 14A"
+  - "DEF 14C"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-99"
+  - "EX-99.(2)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX-99.5"
+  - "FWP"
+  - "N-30D"
+  - "N-CSR"
+  - "N-CSR/A"
+  - "PRE 14C"
+  - "PX14A6G"
+  - "SC 13G/A"
 ---
 
 
@@ -162,3 +188,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Michael%20Bloomberg%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,621 |
+| Form Types | 10KSB, 425, 497, 6-K, 8-K, 8-K/A, ARS, DEF 14A +16 more |
+
+**Notable filings:**
+
+- 2003-02-10 — **SC 13G/A**: SCHEDULE 13G/A
+- 2002-02-13 — **SC 13G/A**: AMENDMENT NO. 2 TO SCHEDULE 13G
+- 2001-01-16 — **SC 13G/A**: AMENDMENT NO. 1 SCHEDULE 13G
+- 2021-02-01 — **EX-99.5**: EX-99.5
+- 2012-10-25 — **EX-99.1**: PRESS RELEASE
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Michael%20Bloomberg%22) (Tier 1)
+<!-- auto:sec-edgar end -->

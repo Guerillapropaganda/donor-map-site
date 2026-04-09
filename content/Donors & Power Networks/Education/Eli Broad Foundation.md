@@ -2,7 +2,7 @@
 title: "Eli Broad Foundation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Education"
@@ -11,12 +11,14 @@ politicians-funded:
   - "Gavin Newsom"
 ein: "954686318"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 163352987
 total-assets: 1860562867
 lei: "549300MEWH8MEHZXWM71"
 lei-jurisdiction: "US-CA"
 related: "[[CTA - California Teachers Association]] · [[Michael Bennet]]"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 
@@ -169,3 +171,21 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Broad%20Foundation) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

@@ -2,12 +2,12 @@
 title: "AFGE - American Federation of Government Employees"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
-ein: 756085578
+ein: "251331251"
 annual-revenue: "$253K"
 net-assets: "$112K"
 tax-year: "2023"
@@ -22,11 +22,12 @@ politicians-funded:
   - "Kyrsten Sinema"
   - "Lisa Murkowski"
 federal-register-mentions: 1
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Homeland Security Department"
   - "Personnel Management Office"
 related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]]"
+nonprofit-status: "tax-exempt"
 ---
 
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance
@@ -221,3 +222,14 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFGE%20-%20American%20Federation%20of%20Government%20Employees%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 251331251 |
+| Tax-Exempt Status | tax-exempt |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/251331251) (Tier 1)
+<!-- auto:nonprofit-990 end -->

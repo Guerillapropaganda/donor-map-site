@@ -2,7 +2,7 @@
 title: "Priorities USA Action"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -10,6 +10,11 @@ entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
 related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]]"
+ein: "833099604"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
+total-revenue: 226709
+total-assets: 108753
 ---
 
 #priorities-usa #super-pac #democratic #obama #clinton #biden #digital #advertising #dark-money
@@ -142,3 +147,25 @@ content-readiness:: ready
 | VOTEVETS | $3.1M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 833099604 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $227K |
+| Total Assets | $109K |
+| NTEE Code | S05 |
+| IRS Ruling Date | 2021-01-01 |
+| Filings on Record | 3 |
+
+**Filing history:** 2022, 2021, 2020
+
+**View 990 filings:**
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2020)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833099604) (Tier 1)
+<!-- auto:nonprofit-990 end -->

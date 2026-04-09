@@ -2,10 +2,23 @@
 title: "Project 2025 - The Blueprint They Followed"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 related: "[[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
+doj-press-mentions: "264413"
+last-enriched: "2026-04-09"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Florida, Southern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
 ---
 
 
@@ -143,3 +156,23 @@ Not directly applicable. However, the DOGE efficiency campaign served as the mec
 - [Federal Register: Energy Dominance Financing Amendments](https://www.federalregister.gov/documents/2025/10/28/2025-19675/energy-dominance-financing-amendments) (Tier 1)
 
 content-readiness:: ready
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264413 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
+
+**Recent press releases:**
+
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
+- ... and 264,407 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Project%202025%20-%20The%20Blueprint%20They%20Followed%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

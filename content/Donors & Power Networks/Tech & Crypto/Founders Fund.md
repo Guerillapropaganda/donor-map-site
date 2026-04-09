@@ -2,7 +2,7 @@
 title: "Founders Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -39,6 +39,21 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 1887693
 total-assets: 1396799
+sec-filings: 9104
+sec-form-types:
+  - "3"
+  - "4"
+  - "4/A"
+  - "D"
+  - "D/A"
+  - "EX-24.4_990308"
+  - "EX-99.28.H.40"
+  - "EX-99.28.N.3"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13D"
 ---
 
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money
@@ -287,3 +302,21 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 9,104 |
+| Form Types | 3, 4, 4/A, D, D/A, EX-24.4_990308, EX-99.28.H.40, EX-99.28.N.3 +5 more |
+
+**Notable filings:**
+
+- 2021-02-16 — **SC 13G**: SC 13G
+- 2022-02-14 — **SC 13G**: SC 13G
+- 2020-06-11 — **4**: FORM 4 SUBMISSION
+- 2021-06-03 — **EX-24.4_990308**: POA DOCUMENT
+- 2021-02-16 — **SC 13G**: PETER THIEL SCHEDULE 13G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Founders%20Fund%22) (Tier 1)
+<!-- auto:sec-edgar end -->

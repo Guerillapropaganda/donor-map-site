@@ -2,7 +2,7 @@
 title: "ViaPath Technologies - GTL"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -12,6 +12,8 @@ known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+lobbying-spend: 140000
+lobbying-filings: 17
 ---
 
 
@@ -71,3 +73,22 @@ The duopoly itself is the class analysis. Two private equity-owned companies con
 
 research-status:: ready — 37% prison telecom market, GTL rebrand 2022, American Securities $1B purchase, duopoly with Securus (80-90% combined), $50K federal lobbying, $3M consumer protection fine, commission model analysis. 5 sources, Tier 1-3. All ### headers. Promoted Session 38l.
 content-readiness:: ready
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $140K |
+| Quarterly Filings | 17 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 2 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Telecommunications
+
+**Lobbying firms:** BARNES & THORNBURG, LLP, DA VINCI GROUP
+
+**Agencies contacted:** Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ViaPath%20Technologies%20-%20GTL) (Tier 1)
+<!-- auto:lda-lobbying end -->

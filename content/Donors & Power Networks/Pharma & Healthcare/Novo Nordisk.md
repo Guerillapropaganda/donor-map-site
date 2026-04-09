@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 17065000
 lobbying-filings: 70
 federal-register-mentions: 80
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Antitrust Division"
   - "Commerce Department"

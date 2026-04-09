@@ -2,7 +2,7 @@
 title: "Real Estate Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -12,12 +12,12 @@ politicians-funded:
 issues:
   - "Housing"
   - "Dark Money & Campaign Finance"
-ein: 521128863
+ein: "521128863"
 annual-revenue: "$8.0M"
 net-assets: "$7.1M"
 tax-year: "2024"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -30,6 +30,9 @@ ofac-programs:
   - "ILLICIT-DRUGS-EO14059"
   - "TCO"
 related: "[[Housing - Donors and Backers]] · [[Jason Smith]]"
+nonprofit-status: "501(c)(6)"
+total-revenue: 8265540
+total-assets: 6316098
 ---
 
 
@@ -207,3 +210,27 @@ content-readiness:: ready
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 521128863 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $8.3M |
+| Total Assets | $6.3M |
+| IRS Ruling Date | 1978-10-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2024)
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2020)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521128863) (Tier 1)
+<!-- auto:nonprofit-990 end -->

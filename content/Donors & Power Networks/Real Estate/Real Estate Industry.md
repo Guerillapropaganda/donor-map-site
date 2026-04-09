@@ -2,7 +2,7 @@
 title: "Real Estate Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -53,6 +53,17 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Chris Christie]] · [[Gary Peters Master Profile]] · [[Brian Schatz Master Profile]] · [[Hakeem Jeffries Master Profile]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]]"
+sec-filings: 10000
+sec-form-types:
+  - "4"
+  - "497"
+  - "497K"
+  - "ARS"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "LETTER"
+  - "PRE 14A"
 ---
 
 #real-estate #nar #housing #1031-exchange #rent #zoning #bipartisan
@@ -201,3 +212,23 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Real%20Estate%20Industry) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 4, 497, 497K, ARS, CORRESP, DEF 14A, DEFA14A, LETTER +1 more |
+| CIK | 1035443 |
+| Ticker | ARE |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000210774226000010/0002107742-26-000010-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000181809026000009/0001818090-26-000009-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000191919826000009/0001919198-26-000009-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000177886126000009/0001778861-26-000009-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000210780226000010/0002107802-26-000010-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Real%20Estate%20Industry%22) (Tier 1)
+<!-- auto:sec-edgar end -->

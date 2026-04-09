@@ -2,7 +2,7 @@
 title: "Nucor Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -17,11 +17,16 @@ top-federal-agency: "Department of Agriculture"
 top-naics-code: "331110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 1
 related: "[[Trade and Tariffs - Donors and Backers]]"
+court-cases: 634
+court-jurisdictions:
+  - "District Court, S.D. Indiana"
+  - "District Court, S.D. Texas"
+  - "United States Court of International Trade"
 ---
 
 
@@ -203,3 +208,21 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/eadd9efc-3f8d-7748-9766-c07740e682f0-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 634 |
+| Courts | District Court, S.D. Indiana, District Court, S.D. Texas, United States Court of International Trade |
+
+**Notable cases:**
+- Nucor Corporation v. United States (2026) — United States Court of International Trade
+- Kern v. Nucor Corporation (2026) — District Court, S.D. Texas
+- YOUNG v. NUCOR CORPORATION (2026) — District Court, S.D. Indiana
+- Galvasid S.A. de C.V. v. United States (2026) — United States Court of International Trade
+- Kemper AIP Metals, LLC v. United States (2026) — United States Court of International Trade
+- Steel Dynamics, Inc. v. United States (2026) — United States Court of International Trade
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Nucor%20Corporation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

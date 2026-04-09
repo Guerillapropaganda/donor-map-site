@@ -2,7 +2,7 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -40,6 +40,24 @@ nonprofit-status: "501(c)(5)"
 total-revenue: 29941168
 total-assets: 75856990
 related: "[[Agricultural Labor Vulnerability Donors]]"
+sec-filings: 291
+sec-form-types:
+  - "10-Q"
+  - "485APOS"
+  - "485BPOS"
+  - "497"
+  - "8-K"
+  - "ARS"
+  - "EX-2.1"
+  - "EX-2.2"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.17(A)"
+  - "EX-99.17(B)"
+  - "N-14"
+  - "N-1A"
+  - "N-4"
+  - "N-6"
 ---
 
 
@@ -198,3 +216,21 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 291 |
+| Form Types | 10-Q, 485APOS, 485BPOS, 497, 8-K, ARS, EX-2.1, EX-2.2 +8 more |
+
+**Notable filings:**
+
+- 2009-09-28 — **497**: 497
+- 2004-11-05 — **497**: 25144_GMF_497
+- 2001-06-18 — **497**: NATIONWIDE MUTUAL FUNDS       497(E)
+- 2012-09-19 — **497**: 497
+- 2006-08-22 — **8-K**: FORM 8-K DATED AUGUST 21, 2006
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Farm%20Bureau%20Federation%22) (Tier 1)
+<!-- auto:sec-edgar end -->

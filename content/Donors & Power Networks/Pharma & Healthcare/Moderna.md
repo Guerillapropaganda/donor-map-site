@@ -2,7 +2,7 @@
 title: "Moderna"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -23,6 +23,46 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
 related: "[[Merck]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Johnson & Johnson]] · [[AbbVie]] · [[UnitedHealth Group - Optum]]"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "6-K"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.16"
+  - "EX-10.18"
+  - "EX-10.2"
+  - "EX-10.23"
+  - "EX-10.3"
+  - "EX-10.32"
+  - "EX-10.4"
+  - "EX-10.40"
+  - "EX-10.5"
+  - "EX-10.6"
+  - "EX-10.7"
+  - "EX-19"
+  - "EX-21.1"
+  - "EX-4.17"
+  - "EX-4.18"
+  - "EX-4.19"
+  - "EX-4.20"
+  - "EX-4.24"
+  - "EX-99"
+  - "EX-99.(A)(1)(H)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "FWP"
+  - "NPORT-P"
+  - "PX14A6G"
+  - "S-8"
+  - "SCHEDULE 13G/A"
 ---
 
 #moderna #pharma #mrna #covid #vaccine #pricing #nih #public-funding #patent
@@ -154,3 +194,23 @@ content-readiness:: ready
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Moderna) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 144, 4, 6-K, 8-K, ARS, DEF 14A, DEFA14A +30 more |
+| CIK | 1682852 |
+| Ticker | MRNA |
+
+**Notable filings:**
+
+- 2026-04-06 — **4**: [PRIMARY DOCUMENT](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000053/0001682852-26-000053-index.htm)
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1682852/000010290926001859/0000102909-26-001859-index.htm)
+- 2026-03-16 — **DEFA14A**: [DEFINITIVE ADDITIONAL PROXY SOLICITING MATERIALS](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000083/0001308179-26-000083-index.htm)
+- 2026-03-16 — **DEF 14A**: [DEFINITIVE PROXY STATEMENT](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000081/0001308179-26-000081-index.htm)
+- 2026-03-16 — **ARS**: [ANNUAL REPORT TO SECURITY HOLDERS](https://www.sec.gov/Archives/edgar/data/1682852/000130817926000080/0001308179-26-000080-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moderna%22) (Tier 1)
+<!-- auto:sec-edgar end -->

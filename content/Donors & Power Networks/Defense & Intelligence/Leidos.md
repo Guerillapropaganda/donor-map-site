@@ -2,7 +2,7 @@
 title: "Leidos"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -70,6 +70,8 @@ federal-awards-total: 10432350765
 federal-contracts-count: 25
 federal-grants-count: 9
 related: "[[Palantir Technologies Political Operation]]"
+lobbying-spend: 10260000
+lobbying-filings: 54
 ---
 
 #leidos #defense #intelligence #it #government #contractor #cybersecurity #revolving-door #outsourcing #surveillance
@@ -399,3 +401,22 @@ content-readiness:: developed
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/3b1c9c58-1f9e-8125-7105-02f4ff2c5b8b-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $10.3M |
+| Quarterly Filings | 54 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 12 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Aviation/Airlines/Airports, Budget/Appropriations, Defense, Energy/Nuclear, Health Issues, Homeland Security, Intelligence, Science/Technology, Taxation/Internal Revenue Code, Transportation, Veterans
+
+**Lobbying firms:** 535 GROUP, LLC, ALPINE GROUP PARTNERS, LLC., AMERICAN DEFENSE INTERNATIONAL, INC., AVISE SOLUTIONS, CGCN GROUP, LLC, CR FEDERAL, LEIDOS, INC., PARK GOVERNMENT RELATIONS, LLC, POTOMAC CAPITOL ASSOCIATES, INC., SQUIRE PATTON BOGGS, TEAM HALLAHAN LLC, TROUTMAN STATEGIES
+
+**Agencies contacted:** Defense, Dept of (DOD), Director of National Intelligence (ODNI), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), SENATE, Transportation, Dept of (DOT), Veterans Affairs, Dept of (VA)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Leidos) (Tier 1)
+<!-- auto:lda-lobbying end -->

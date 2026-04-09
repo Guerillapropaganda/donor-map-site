@@ -20,6 +20,8 @@ last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Federal Trade Commission"
 related: "[[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Hillbilly Elegy and the Class Fraud]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]]"
+lobbying-spend: 1684850
+lobbying-filings: 106
 ---
 
 
@@ -240,3 +242,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Peter%20Thiel%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,956 |
+| Form Types | 13F-HR, 144, 3, 3/A, 4, 8-K, D, D/A +12 more |
+
+**Notable filings:**
+
+- 2025-08-11 — **SCHEDULE 13G**: SCHEDULE 13G
+- 2021-02-16 — **SC 13G**: SC 13G
+- 2025-11-14 — **SCHEDULE 13G/A**: SCHEDULE 13G/A
+- 2022-02-14 — **SC 13G**: SC 13G
+- 2021-02-16 — **SC 13G**: PETER THIEL SCHEDULE 13G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Peter%20Thiel%22) (Tier 1)
+<!-- auto:sec-edgar end -->

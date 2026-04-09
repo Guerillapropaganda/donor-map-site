@@ -2,7 +2,7 @@
 title: "SpaceX"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -14,7 +14,7 @@ annual-revenue: "$57K"
 net-assets: "$13K"
 tax-year: "2023"
 federal-register-mentions: 166
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Air Force Department"
   - "Coast Guard"
@@ -28,6 +28,18 @@ regulatory-agencies:
 lei: "984500AB57A3B7E9AF80"
 lei-jurisdiction: "BE"
 related: "[[Invariant]] · [[Jeff Bezos]]"
+court-cases: 717
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. Texas"
 ---
 
 #spacex #musk #defense #nasa #faa #starlink #military #launch
@@ -119,3 +131,22 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 717 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, D. Massachusetts, District Court, D. New Jersey, District Court, District of Columbia, District Court, N.D. California +5 more |
+| Case Types | 150 Contract: Recovery/Enforcement, 190 Contract: Other, 2890 Other Statutory Actions, 443 Civil Rights: Accommodations, 446 American with Disabilities - Other |
+
+**Notable cases:**
+- COALITION FOR INDEPENDENT TECHNOLOGY RESEARCH v. RUBIO (2026) — District Court, District of Columbia
+- IN RE: DISH Wireless L.L.C. Communication Towers Contract Litigation (2026) — United States Judicial Panel on Multidistrict Litigation
+- Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
+- PROJECT ON GOVERNMENT OVERSIGHT, INC. v. OFFICE OF MANAGEMENT AND BUDGET (2026) — District Court, District of Columbia
+- Adrian Moon v. Satan (2026) — Court of Appeals for the D.C. Circuit
+- Goddard v. 1910 N. Main Street Apartments Capital, LLC. (2026) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22SpaceX%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

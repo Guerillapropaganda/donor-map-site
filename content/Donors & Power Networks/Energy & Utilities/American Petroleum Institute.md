@@ -15,7 +15,7 @@ annual-revenue: "$267.6M"
 net-assets: "$122.9M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "RUSSIA-EO14024"
 nonprofit-status: "501(c)(6)"
@@ -32,6 +32,18 @@ politicians-funded:
   - "Kevin McCarthy"
   - "Martin Heinrich"
   - "Bruce Westerman"
+federal-register-mentions: 2501
+regulatory-agencies:
+  - "Commerce Department"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Communications Commission"
+  - "Federal Energy Regulatory Commission"
+  - "Homeland Security Department"
+  - "International Trade Administration"
+  - "Labor Department"
+  - "Occupational Safety and Health Administration"
+  - "Pipeline and Hazardous Materials Safety Administration"
 ---
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money
@@ -753,3 +765,26 @@ content-readiness:: developed
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Petroleum%20Institute) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2,501 |
+| Final Rules | 628 |
+| Proposed Rules | 532 |
+| Notices | 1,340 |
+| Presidential Documents | 1 |
+| Agencies | Commerce Department, Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Energy Regulatory Commission, Homeland Security Department, International Trade Administration, Labor Department +4 more |
+
+**Recent regulatory activity:**
+- [Walking-Working Surfaces](https://www.federalregister.gov/documents/2026/04/06/2026-06578/walking-working-surfaces) (2026-04-06) — Labor Department
+- [Renewable Fuel Standard (RFS) Program: Standards for 2026 and 2027, Partial Waiver of 2025 Cellulosic Biofuel Volume Requirement, and Other Changes](https://www.federalregister.gov/documents/2026/04/01/2026-06275/renewable-fuel-standard-rfs-program-standards-for-2026-and-2027-partial-waiver-of-2025-cellulosic) (2026-04-01) — Environmental Protection Agency ★
+- [Unlicensed Use of the 6 GHz Band; Expanding Flexible Use in Mid-Band Spectrum Between 3.7 and 24 GHz](https://www.federalregister.gov/documents/2026/02/25/2026-03744/unlicensed-use-of-the-6-ghz-band-expanding-flexible-use-in-mid-band-spectrum-between-37-and-24-ghz) (2026-02-25) — Federal Communications Commission
+- [Removal of Regulations Limiting Authorizations To Proceed With Construction Activities Pending Rehearing; Confirmation](https://www.federalregister.gov/documents/2026/02/24/2026-03658/removal-of-regulations-limiting-authorizations-to-proceed-with-construction-activities-pending) (2026-02-24) — Energy Department
+- [Circular Welded Carbon Quality Steel Pipe From the People's Republic of China: Final Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/02/03/2026-02104/circular-welded-carbon-quality-steel-pipe-from-the-peoples-republic-of-china-final-affirmative) (2026-02-03) — Commerce Department
+- [Pipeline Safety: Advisory Bulletin on the Integrity Risks of Type A Repair Sleeves](https://www.federalregister.gov/documents/2026/01/28/2026-01675/pipeline-safety-advisory-bulletin-on-the-integrity-risks-of-type-a-repair-sleeves) (2026-01-28) — Transportation Department
+- ... and 2,495 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Petroleum%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->

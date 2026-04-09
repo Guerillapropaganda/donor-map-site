@@ -2,7 +2,7 @@
 title: "CBRE Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -44,6 +44,8 @@ related: "[[Real Estate Industry Bloc]]"
 federal-awards-total: 87656
 federal-contracts-count: 3
 federal-grants-count: 0
+top-federal-agency: "General Services Administration"
+top-naics-code: "236220"
 ---
 
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange
@@ -136,3 +138,39 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/7e86b7d3-1a74-95d4-dd2e-e89f86cc9d2b-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | General Services Administration ($28.5M) |
+| Primary NAICS Sector | Commercial and Institutional Building Construction |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| General Services Administration | $28.5M |
+| Department of State | $5.8M |
+| Millennium Challenge Corporation | $1.8M |
+| National Archives and Records Administration | $1.3M |
+| Department of Veterans Affairs | $1.3M |
+| Department of the Treasury | $1.1M |
+| Department of the Interior | $82K |
+| Department of Defense | $58K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Commercial and Institutional Building Construction (236220) | $20.0M |
+| Administrative Management and General Management Consulting Services (541611) | $6.1M |
+| Other Activities Related to Real Estate (531390) | $5.1M |
+| Facilities Support Services (561210) | $3.0M |
+| Engineering Services (541330) | $2.1M |
+| Offices of Real Estate Agents and Brokers (531210) | $1.4M |
+| Plumbing, Heating, and Air-Conditioning Contractors (238220) | $868K |
+| Electrical Contractors and Other Wiring Installation Contractors (238210) | $718K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

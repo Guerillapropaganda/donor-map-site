@@ -2,7 +2,7 @@
 title: "Roger Williams"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,6 +20,11 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+govtrack-id: 412578
+bills-sponsored: 36
+bills-cosponsored: 182
+website: "https://williams.house.gov"
+phone: "202-225-9896"
 ---
 
 
@@ -196,3 +201,35 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 182 |
+| Total Votes Cast | 7,402 |
+
+**Recent bills sponsored:**
+
+- H.R. 7412: Put America on Commission Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 11, 2026.*
+- H.R. 5763: Main Street Parity Act — *This bill passed in the House on January 20, 2026 and goes to the Senate next for consideration.*
+- H.R. 6546: Merger Process Review Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on December 17, 2025.*
+- H.R. 6683: Safer Schools Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3174: Made in America Manufacturing Finance Act — *This bill passed in the House on December 1, 2025 and goes to the Senate next for consideration.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412578) (Tier 1)
+<!-- auto:govtrack end -->

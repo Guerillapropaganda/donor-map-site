@@ -9,7 +9,7 @@ sector: "Energy & Utilities"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
-ein: 943358729
+ein: "943358729"
 annual-revenue: "$23.4M"
 net-assets: "$99.5M"
 tax-year: "2023"

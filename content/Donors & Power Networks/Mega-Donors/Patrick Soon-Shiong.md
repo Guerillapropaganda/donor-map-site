@@ -16,7 +16,7 @@ politicians-funded:
   - "John McCain"
 total-political-spend: "$735,621"
 doj-press-mentions: "264349"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"

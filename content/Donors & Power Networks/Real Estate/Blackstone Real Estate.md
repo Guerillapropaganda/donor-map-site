@@ -2,7 +2,7 @@
 title: "Blackstone Real Estate"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Housing"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -35,6 +35,8 @@ court-jurisdictions:
   - "United States Bankruptcy Court, C.D. California"
   - "United States Bankruptcy Court, D. Delaware"
 related: "[[Real Estate Industry]]"
+ein: "333183362"
+nonprofit-status: "501(c)(3)"
 ---
 
 #blackstone #real-estate #housing #rents #private-equity #schwarzman #institutional-landlord #institutional-landlords #invitation-homes #breit #landlordism
@@ -237,3 +239,16 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Real%20Estate%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 333183362 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | B80 |
+| IRS Ruling Date | 2025-07-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/333183362) (Tier 1)
+<!-- auto:nonprofit-990 end -->

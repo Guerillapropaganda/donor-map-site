@@ -2,7 +2,7 @@
 title: "IBEW - International Brotherhood of Electrical Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -29,6 +29,8 @@ ein: "611602482"
 nonprofit-status: "501(c)(5)"
 total-political-spend: "$4,861,275"
 related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]] · [[Nancy Pelosi Master Profile]]"
+lei: "984500ACFC0ND2E37927"
+lei-jurisdiction: "CA"
 ---
 
 
@@ -182,3 +184,18 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=IBEW%20-%20International%20Brotherhood%20of%20Electrical%20Workers) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [984500ACFC0ND2E37927](https://search.gleif.org/#/record/984500ACFC0ND2E37927) |
+| Legal Name | International Brotherhood of Electrical Workers Local Union 2038 Pension Trust Fund |
+| Jurisdiction | CA |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | ISSUED |
+| Last Updated | 2025-12-02T13:03:54Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

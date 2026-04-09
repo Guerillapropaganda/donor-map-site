@@ -2,7 +2,7 @@
 title: "Devon Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -16,7 +16,7 @@ issues:
 lobbying-spend: 810000
 lobbying-filings: 18
 doj-press-mentions: "264342"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"

@@ -22,10 +22,12 @@ issues:
   - "Antitrust & Monopoly"
   - "Dark Money & Campaign Finance"
 court-cases: 1
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, N.D. California"
 related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Tech Privacy Advocacy]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Center for American Progress]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]]"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #google #alphabet #tech #lobbying #antitrust #surveillance #advertising #data #ai #revolving-door #monopoly #eu-lobbying #california #pac #dark-money #class-analysis #follow-the-money
@@ -453,3 +455,21 @@ content-readiness:: developed
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Google%20-%20Alphabet%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Google%20-%20Alphabet) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

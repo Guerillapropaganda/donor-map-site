@@ -2,7 +2,7 @@
 title: "Southern Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -38,6 +38,8 @@ regulatory-agencies:
 related: "[[Duke Energy]]"
 top-federal-agency: "General Services Administration"
 top-naics-code: "221210"
+lobbying-spend: 26933250
+lobbying-filings: 105
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -190,3 +192,22 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $26.9M |
+| Quarterly Filings | 105 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 43 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Commodities (big ticket), Communications/Broadcasting/Radio/TV, Constitution, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Firearms/Guns/Ammunition, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Natural Resources, Railroads, Real Estate/Land Use/Conservation, Religion, Small Business, Sports/Athletics, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Utilities, Veterans, Welfare
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, BBT STRATEGIES LLC, CARMEN GROUP INCORPORATED, CASSIDY & ASSOCIATES, INC., CHARTWELL STRATEGY GROUP LLC, CONNECTOR INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., COVENANT GOVERNMENT AFFAIRS, LLC, DOWNS GOVERNMENT AFFAIRS, FREEMYER & ASSOCIATES P.C., HOGAN LOVELLS US LLP, HOLLAND & KNIGHT LLP, HUNTON ANDREWS KURTH LLP, KADESH & ASSOCIATES, LLC, LIEBMAN & ASSOCIATES, INC., LJ CONSULTING, LLC, METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, MICHAEL BEST STRATEGIES LLC, MISSION STRATEGIES LLC, NORFOLK SOUTHERN CORPORATION, O'HARA FEDERAL STRATEGIES, LLC, PACIFIC ATLANTIC PARTNERS, PICARD KENTZ & ROWE LLP, PORTER GROUP, LLC, POTOMAC PARTNERS DC, R&R PARTNERS, INC., ROBERTSON, MONAGLE & EASTAUGH LLC, ROSS TAYLOR & ASSOCIATES, LLC, SBL STRATEGIES, LLC, SCHAERR JAFFE LLP, SHUMAKER ADVISORS, LLC, SOUTHERN CALIFORNIA PUBLIC RADIO, SOUTHERN COMPANY, SOUTHERN ENVIRONMENTAL LAW CENTER, SOUTHERN ILLINOIS UNIVERSITY, SOUTHERN INSTITUTE OF POLICY RESEARCH, SOUTHERN MINNESOTA BEET SUGAR COOP, SOUTHERN POVERTY LAW CENTER, INC., SOUTHERN STATES POLICE BENEVOLENT ASSOCIATION, INC., THE FARLEY GROUP, INC., THE SOUTHERN GROUP, THOMAS ADVISORS, INC, TROUTMAN STATEGIES
+
+**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Bureau of Indian Affairs (BIA), Bureau of Reclamation, Council on Environmental Quality (CEQ), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Federal Energy Regulatory Commission (FERC), Federal Railroad Administration +11 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Southern%20Company) (Tier 1)
+<!-- auto:lda-lobbying end -->

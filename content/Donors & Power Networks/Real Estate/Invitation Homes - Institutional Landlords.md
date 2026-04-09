@@ -2,7 +2,7 @@
 title: "Invitation Homes - Institutional Landlords"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -14,6 +14,8 @@ subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 related: "[[The Housing Progressive and Wall Street Tension]]"
+lobbying-spend: 400000
+lobbying-filings: 14
 ---
 
 #invitation-homes #institutional-landlord #real-estate #housing #blackstone #rent #private-equity #class-analysis #follow-the-money
@@ -225,3 +227,22 @@ content-readiness:: developed
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Invitation%20Homes%20-%20Institutional%20Landlords) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $400K |
+| Quarterly Filings | 14 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 3 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Financial Institutions/Investments/Securities, Housing, Insurance, Real Estate/Land Use/Conservation, Taxation/Internal Revenue Code
+
+**Lobbying firms:** ARNOLD & PORTER KAYE SCHOLER LLP, INVITATION HOMES INC., MICHAEL BEST STRATEGIES LLC
+
+**Agencies contacted:** Council of Economic Advisers (CEA), Federal Housing Finance Agency (FHFA), HOUSE OF REPRESENTATIVES, Housing & Urban Development, Dept of (HUD), Office of Management & Budget (OMB), Office of the Vice President of the United States, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Invitation%20Homes%20-%20Institutional%20Landlords) (Tier 1)
+<!-- auto:lda-lobbying end -->

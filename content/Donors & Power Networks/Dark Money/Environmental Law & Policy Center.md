@@ -2,7 +2,7 @@
 title: "Environmental Law & Policy Center"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -16,6 +16,12 @@ last-enriched: "2026-04-07"
 total-revenue: 150007
 total-assets: 254525
 related: "[[Sheldon Whitehouse]]"
+fara-status: "registrant"
+fara-records: 3
+fara-countries:
+  - "NORWAY"
+lobbying-spend: 3572678
+lobbying-filings: 102
 ---
 
 #environmental-advocacy #clean-energy #midwest #litigation #nonprofit
@@ -99,3 +105,39 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911687883) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 3 |
+| Countries | NORWAY |
+| Foreign Principal Records | 2 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Norwegian Agency for Development Cooperation (Mekong Project) (NORWAY)
+- Norwegian Agency for Development Cooperation (Latin America Project) (NORWAY)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Environmental%20Law%20%26%20Policy%20Center) (Tier 1)
+<!-- auto:fara-foreign-agents end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $3.6M |
+| Quarterly Filings | 102 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 47 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Alcohol and Drug Abuse, Aviation/Airlines/Airports, Budget/Appropriations, Chemicals/Chemical Industry, Civil Rights/Civil Liberties, Clean Air and Water (quality), Constitution, Defense, Energy/Nuclear, Environment/Superfund, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Government Issues, Health Issues, Manufacturing, Marine/Maritime/Boating/Fisheries, Natural Resources, Pharmacy, Real Estate/Land Use/Conservation, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Trucking/Shipping, Utilities, Waste (hazardous/solid/interstate/nuclear)
+
+**Lobbying firms:** ACRI ENVIRONMENTAL GROUP LLC, ACTUM I, LLC, AKIN GUMP STRAUSS HAUER & FELD, ALEXANDER, BOROVICKA & O'SHEA GOVERNMENT SOLUTIONS (FKA ALEXANDER & BOROVICKA GOVERNMENT SOLUTIONS), BISER STRATEGIES, LLC, BRACEWELL LLP, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL SOUTH, LLC, CAPITOL STRATEGIES, LLC, CASCADE ASSOCIATES, CASSIDY & ASSOCIATES, INC., CHARTWELL STRATEGY GROUP LLC, COGENT STRATEGIES LLC, E3G, THIRD GENERATION ENVIRONMENTALISM, INC., ENVIRONMENTAL & ENERGY CONSULTING, ENVIRONMENTAL DEFENSE ACTION FUND, ENVIRONMENTAL DEFENSE FUND, INCORPORATED, ENVIRONMENTAL LAW AND POLICY CENTER, ENVIRONMENTAL TECHNOLOGY COUNCIL, ENVIRONMENTAL WORKING GROUP, FAEGRE DRINKER BIDDLE & REATH LLP, FEDERAL ENVIRONMENTAL POLICY CONSULTING, LLC (FKN GABOR J ROZSA), FOX POTOMAC RESOURCES, LLC, FREEMYER & ASSOCIATES P.C., G2G CONSULTING, GILLILAND & MCKINNEY INTERNATIONAL COUNSELLORS (D/B/A GMI COUNSEL), K&L GATES, LLP, KEYS GROUP, LLC, LACROIX ENVIRONMENTAL INTELLIGENCE, MERCHANT STRATEGIES LLC, MML&K GOVERNMENT SOLUTIONS, MR. MARK REY, MR. TYLER JAMESON, NATIONAL ENVIRONMENTAL STRATEGIES, NVG, LLC, PRIME POLICY GROUP, PRIME TRANSATLANTIC, LLC, RITTS LAW GROUP, PLLC, SIMMONS ENERGY AND ENVIRONMENTAL STRATEGIES LLC, SOUTHERN ENVIRONMENTAL LAW CENTER, SQUIRE PATTON BOGGS, THE FERGUSON GROUP, THE GUTMAN GROUP, LLC, TIBER CREEK GROUP, VINCENT TROMETTER, WEST HARLEM ENVIRONMENTAL ACTION, INC., WHEAT SHROYER GOVERNMENT RELATIONS LLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Reclamation, Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA) +21 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Environmental%20Law%20%26%20Policy%20Center) (Tier 1)
+<!-- auto:lda-lobbying end -->

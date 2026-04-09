@@ -2,7 +2,7 @@
 title: "House Freedom Caucus"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -20,6 +20,8 @@ last-enriched: "2026-04-08"
 total-revenue: 1000410
 total-assets: 485221
 related: "[[US Chamber of Commerce]]"
+lobbying-spend: 2440844
+lobbying-filings: 100
 ---
 
 #freedom-caucus #house #republican #maga #obstruction #koch #tea-party #right-flank #dark-money #small-dollar #club-for-growth #heritage-action
@@ -160,3 +162,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/994082114) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.4M |
+| Quarterly Filings | 100 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 37 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Banking, Budget/Appropriations, Chemicals/Chemical Industry, Communications/Broadcasting/Radio/TV, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Environment/Superfund, Family issues/Abortion/Adoption, Foreign Relations, Government Issues, Health Issues, Housing, Law Enforcement/Crime/Criminal Justice, Manufacturing, Medicare/Medicaid, Natural Resources, Postal, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Welfare
+
+**Lobbying firms:** AMELIORATE LLC, ARENTFOX SCHIFF LLP, BOSE PUBLIC AFFAIRS GROUP, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAPITOL PATH CONSULTING LLC FKA CULTON CONSULTING LLC, CATALYST GLOBAL STRATEGIES, LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., COVENANT HOUSE, CROSSROADS STRATEGIES, LLC, DUNHAM LAW & POLICY PLLC, FOLEY & LARDNER LLP, FORBES-TATE, HARPER & BAILEY GOVERNMENTAL SOLUTIONS LLC, HOLLAND & KNIGHT LLP, HOUSEHOLD & COMMERCIAL PRODUCTS ASSOCIATION, ICE MILLER LLP, ICE MILLER STRATEGIES LLC, INVARIANT LLC, KYLE HOUSE GROUP, LARKIN HOFFMAN, LNE GROUP, MARSHALL & POPP, LLC, MCGUIREWOODS CONSULTING (A SUBSIDIARY OF MCGUIREWOODS LLP), MONUMENT ADVOCACY, MORRISSEY STRATEGIC PARTNERS, LLC, NORTH STAR STRATEGIES, LLC, O'HARA FEDERAL STRATEGIES, LLC, PREST PUBLIC STRATEGIES, LLC, PRIME POLICY GROUP, PROVIDENCE HOUSE, SKYLINE CAPITOL LLC, SULLIVAN & CROMWELL LLP, THE BRIGHTUP GROUP LLC, THE VOGEL GROUP, UNCORKED ADVOCATES, WINNING STRATEGIES WASHINGTON, WOOLF STRATEGIC SOLUTIONS GROUP
+
+**Agencies contacted:** Administration for Children & Families (ACF), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Defense Logistics Agency, Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Maritime Commission, HOUSE OF REPRESENTATIVES +13 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=House%20Freedom%20Caucus) (Tier 1)
+<!-- auto:lda-lobbying end -->

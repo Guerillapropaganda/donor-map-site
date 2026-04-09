@@ -2,7 +2,7 @@
 title: "Apple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -49,6 +49,54 @@ related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]
 federal-awards-total: 17198395
 federal-contracts-count: 25
 federal-grants-count: 25
+sec-filings: 10000
+sec-form-types:
+  - "10-12G"
+  - "10-K"
+  - "10-K405"
+  - "10-Q"
+  - "144"
+  - "3"
+  - "4"
+  - "424B2"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFM14A"
+  - "EX-1.01"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.13"
+  - "EX-10.15"
+  - "EX-10.161"
+  - "EX-10.2"
+  - "EX-10.22"
+  - "EX-10.23(A)"
+  - "EX-10.23(B)"
+  - "EX-10.28"
+  - "EX-10.3"
+  - "EX-10.4"
+  - "EX-10.47"
+  - "EX-10.6"
+  - "EX-10.68"
+  - "EX-10.9"
+  - "EX-14.1"
+  - "EX-2.1"
+  - "EX-21"
+  - "EX-21.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.7"
+  - "EX-99.8"
+  - "EX1A-6 MAT CTRCT"
+  - "PX14A6G"
+  - "S-4"
+  - "S-4/A"
+  - "SC 13D/A"
+  - "SCHEDULE 13G/A"
 ---
 
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
@@ -314,3 +362,23 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/f6912e36-6cca-1f27-b7de-3d9631b48ec0-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-12G, 10-K, 10-K405, 10-Q, 144, 3, 4, 424B2 +38 more |
+| CIK | 320193 |
+| Ticker | AAPL |
+
+**Notable filings:**
+
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013192/0001140361-26-013192-index.htm)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013191/0001140361-26-013191-index.htm)
+- 2026-04-03 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126013190/0001140361-26-013190-index.htm)
+- 2026-04-02 — **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000196922326000420/0001969223-26-000420-index.htm)
+- 2026-04-02 — **144**: [144](https://www.sec.gov/Archives/edgar/data/320193/000195917326002757/0001959173-26-002757-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apple%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,7 +2,7 @@
 title: "Anduril Industries"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -12,7 +12,7 @@ issues:
   - "Technology"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 federal-awards-total: 792468895
 federal-contracts-count: 25
 federal-grants-count: 0
@@ -40,6 +40,18 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No FEC contribution data"
+court-cases: 24
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Arizona"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maryland"
+  - "District Court, D. Minnesota"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. California"
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
@@ -273,3 +285,22 @@ content-readiness:: draft
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 24 |
+| Courts | Court of Appeals for the Eighth Circuit, District Court, C.D. California, District Court, D. Arizona, District Court, D. Delaware, District Court, D. Maryland, District Court, D. Minnesota, District Court, E.D. Texas, District Court, N.D. Georgia +4 more |
+| Case Types | 3440 Other Civil Rights, 440 Civil Rights: Other, 830 Patent, Contract: Other, Defend Trade Secrets Act (of 2016) |
+
+**Notable cases:**
+- Anderson v. Anduril Industries, Inc (2026) — District Court, N.D. Georgia
+- Archer Aviation Inc. v. Vertical Aerospace Ltd. (2026) — District Court, E.D. Texas
+- United States v. Pennetta (2025) — District Court, S.D. New York
+- Rapport v. Chapiro (2025) — District Court, N.D. Ohio
+- Desktop Metal, Inc., Debtor (2025) — United States Bankruptcy Court, S.D. Texas
+- Matthew Guertin v. Tim Walz (2025) — Court of Appeals for the Eighth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anduril%20Industries%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

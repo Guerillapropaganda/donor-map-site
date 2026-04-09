@@ -25,6 +25,21 @@ nonprofit-status: "501(c)(3)"
 related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]]"
 lei: "8156003490CA31174D93"
 lei-jurisdiction: "IT"
+sec-filings: 4003
+sec-form-types:
+  - "10KSB/A"
+  - "253G2"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "EX-10.2(E)"
+  - "EX-10.3(E)"
+  - "EX-21"
+  - "EX-4.I (D)"
+  - "EX-99"
+  - "EX-99.01"
+  - "EX-99.1"
+  - "EX-99.2"
 ---
 
 #think-tank #centrist #elite-networking #billionaire-consensus #congressional-influence #class-analysis
@@ -278,3 +293,21 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 4,003 |
+| Form Types | 10KSB/A, 253G2, 424B3, 425, 8-K, EX-10.2(E), EX-10.3(E), EX-21 +5 more |
+
+**Notable filings:**
+
+- 2023-06-14 — **EX-99.1**: EXHIBIT 99.1
+- 2020-11-12 — **8-K**: 8-K
+- 2019-12-05 — **EX-99**: EXHIBIT 99
+- 2024-06-06 — **EX-99.1**: EXHIBIT 99.1
+- 2022-05-04 — **8-K**: 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Aspen%20Institute%22) (Tier 1)
+<!-- auto:sec-edgar end -->

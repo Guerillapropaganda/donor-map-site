@@ -2,7 +2,7 @@
 title: "Aramark"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -90,6 +90,12 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+subawards-issued: 2
+subawards-issued-amount: 4556712
+subawards-received: 2
+subawards-received-amount: 4556712
+top-federal-agency: "Department of the Interior"
+top-naics-code: "561210"
 ---
 
 
@@ -286,3 +292,53 @@ research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Aramark) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 2 ($4.6M sampled) |
+| Subawards Received (as sub) | 2 ($4.6M sampled) |
+| Top Federal Agency | Department of the Interior ($21.2M) |
+| Primary NAICS Sector | Facilities Support Services |
+
+**Subcontractors receiving federal money from Aramark:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| ARAMARK SERVICES, INC | $4.6M | 2 |
+
+**Prime contractors funneling federal money to Aramark:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| TRIAD NATIONAL SECURITY, LLC | $4.6M | 2 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of the Interior | $21.2M |
+| Department of Defense | $6.0M |
+| Department of Homeland Security | $4.4M |
+| Department of Health and Human Services | $2.0M |
+| Department of Justice | $244K |
+| Department of Transportation | $49K |
+| National Aeronautics and Space Administration | $41K |
+| Department of State | $37K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Facilities Support Services (561210) | $18.5M |
+| Industrial Launderers (812332) | $6.5M |
+| Food Service Contractors (722310) | $4.4M |
+| Scenic and Sightseeing Transportation, Land (487110) | $1.9M |
+| Drycleaning and Laundry Services (except Coin-Operated) (812320) | $717K |
+| Hotels (except Casino Hotels) and Motels (721110) | $563K |
+| Caterers (722320) | $363K |
+| Linen Supply (812331) | $191K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

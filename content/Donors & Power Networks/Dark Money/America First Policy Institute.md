@@ -2,7 +2,7 @@
 title: "America First Policy Institute"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,7 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "ARMENIA"
-ein: 854202763
+ein: "854202763"
 annual-revenue: "$27.3M"
 net-assets: "$9.9M"
 tax-year: "2023"
@@ -21,6 +21,10 @@ related: "[[Federalist Society]] · [[Linda McMahon Master Profile]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
+total-revenue: 54851367
+total-assets: 25178547
 ---
 
 #afpi #trump #think-tank #project-2025 #transition #dark-money #maga
@@ -89,3 +93,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 854202763](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 854202763 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $54.9M |
+| Total Assets | $25.2M |
+| NTEE Code | B05 |
+| IRS Ruling Date | 2021-05-01 |
+| Filings on Record | 3 |
+
+**Filing history:** 2023, 2022, 2021
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/854202763/2021)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 1)
+<!-- auto:nonprofit-990 end -->

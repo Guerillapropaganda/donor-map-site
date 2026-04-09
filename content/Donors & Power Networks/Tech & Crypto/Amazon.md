@@ -2,7 +2,7 @@
 title: "Amazon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -14,7 +14,7 @@ issues:
   - "Labor & Workers"
 ein: "873103053"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 lobbying-spend: 42075000
 lobbying-filings: 59
 related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Alpine Group]] · [[Amy Klobuchar]]"
@@ -36,6 +36,8 @@ regulatory-agencies:
   - "Federal Trade Commission"
   - "Food and Drug Administration"
   - "General Services Administration"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 
@@ -383,3 +385,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Amazon%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Amazon) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

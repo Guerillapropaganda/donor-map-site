@@ -9,7 +9,7 @@ sector: "Real Estate"
 entity-type: "Corporation"
 issues:
   - "Housing"
-ein: 521127504
+ein: "521127504"
 annual-revenue: "$26.6M"
 net-assets: "$20.2M"
 tax-year: "2023"

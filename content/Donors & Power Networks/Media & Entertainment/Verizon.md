@@ -2,14 +2,14 @@
 title: "Verizon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 ein: "133319048"
 annual-revenue: "$7.5M"
 net-assets: "$26.0M"
@@ -37,6 +37,8 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 5056273
 total-assets: 23768481
 related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]]"
+lei: "549300P62FU7SYVYQG84"
+lei-jurisdiction: "FR"
 ---
 
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
@@ -269,3 +271,18 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133319048) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300P62FU7SYVYQG84](https://search.gleif.org/#/record/549300P62FU7SYVYQG84) |
+| Legal Name | VERIZON FRANCE |
+| Jurisdiction | FR |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-04-07T06:15:53Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

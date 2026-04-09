@@ -2,7 +2,7 @@
 title: "Carlyle Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -14,7 +14,7 @@ issues:
   - "Defense & Military"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 ein: 850703768
 annual-revenue: "$62.1M"
 net-assets: "$8.9M"
@@ -41,6 +41,18 @@ top-naics-code: "336611"
 related: "[[American Enterprise Institute]] · [[Council on Foreign Relations]] · [[Blackstone Real Estate Political Operation]]"
 lei: "529900NGGVF94UK6PG95"
 lei-jurisdiction: "US-DE"
+court-cases: 847
+court-jurisdictions:
+  - "Court of Appeals for the Eleventh Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Arizona"
+  - "District Court, D. Delaware"
+  - "District Court, D. Minnesota"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. New York"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Kentucky"
 ---
 
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying
@@ -281,3 +293,22 @@ content-readiness:: developed
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 847 |
+| Courts | Court of Appeals for the Eleventh Circuit, District Court, C.D. California, District Court, D. Arizona, District Court, D. Delaware, District Court, D. Minnesota, District Court, District of Columbia, District Court, E.D. New York, District Court, N.D. Illinois +4 more |
+| Case Types | 190 Contract: Other, 410 Anti-Trust, 850 Securities/Commodities, 890 Other Statutory Actions, Other Fraud |
+
+**Notable cases:**
+- United States v. REDDY ICE LLC (2026) — District Court, District of Columbia
+- Prime Healthcare Management, Inc. v. Sedgwick Claims Management Services, Inc. (2026) — District Court, C.D. California
+- BEATTY v. TRUMP (2025) — District Court, District of Columbia
+- WHALEN v. EPIQ SYSTEMS, INC. (2025) — District Court, District of Columbia
+- RIEGER v. EPIQ SYSTEMS, INC. (2025) — District Court, District of Columbia
+- IN RE STUBHUB HOLDINGS, INC. DERIVATIVE LITIGATION (2025) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Carlyle%20Group%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

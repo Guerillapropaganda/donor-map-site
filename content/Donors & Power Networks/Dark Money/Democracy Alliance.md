@@ -2,7 +2,7 @@
 title: "Democracy Alliance"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -15,6 +15,11 @@ issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$116,675"
 related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]]"
+ein: "204366413"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-09"
+total-revenue: 615075
+total-assets: 280838
 ---
 
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor
@@ -203,3 +208,18 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Democracy%20Alliance) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 204366413 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $615K |
+| Total Assets | $281K |
+| NTEE Code | R01 |
+| IRS Ruling Date | 2025-05-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/204366413) (Tier 1)
+<!-- auto:nonprofit-990 end -->

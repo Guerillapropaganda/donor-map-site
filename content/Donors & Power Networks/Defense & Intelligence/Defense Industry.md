@@ -2,19 +2,19 @@
 title: "Defense Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
 issues:
   - "Defense & Military"
-ein: 42982768
+ein: "363929812"
 annual-revenue: "$82K"
 net-assets: "$202K"
 tax-year: "2023"
 federal-register-mentions: 200
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Air Force Department"
   - "Antitrust Division"
@@ -29,6 +29,9 @@ regulatory-agencies:
 lei: "5299006DUWIX3AEL2A58"
 lei-jurisdiction: "US-DE"
 related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] · [[Jeanne Shaheen Master Profile]] · [[Gary Peters Master Profile]]"
+nonprofit-status: "501(c)(6)"
+total-revenue: 995455
+total-assets: 1266724
 ---
 
 #defense #industry #military #ndaa #pentagon #bipartisan
@@ -125,3 +128,28 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 363929812 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $995K |
+| Total Assets | $1.3M |
+| NTEE Code | S41 |
+| IRS Ruling Date | 2003-06-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/363929812/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363929812) (Tier 1)
+<!-- auto:nonprofit-990 end -->

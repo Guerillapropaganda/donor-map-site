@@ -2,7 +2,7 @@
 title: "Mithril Capital"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
@@ -10,7 +10,7 @@ entity-type: "Corporation"
 politicians-funded:
   - "JD Vance"
 doj-press-mentions: "264349"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -27,6 +27,13 @@ lei-jurisdiction: "CZ"
 lobbying-spend: 130000
 lobbying-filings: 8
 related: "[[The Thiel Pipeline - From Yale to VP]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]]"
+court-cases: 10
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Nevada"
+  - "District Court, N.D. California"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, D. Delaware"
 ---
 
 #donor #thiel #venture-capital #defense-tech #biotech #growth-stage
@@ -187,3 +194,22 @@ content-readiness:: ready
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 10 |
+| Courts | District Court, C.D. California, District Court, D. Nevada, District Court, N.D. California, District Court, W.D. Texas, United States Bankruptcy Court, D. Delaware |
+| Case Types | 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other; 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy), 190 Contract: Other, 190 Other contract actions, 370 Other Fraud, 410 Anti-Trust |
+
+**Notable cases:**
+- FTX Digital Markets, Ltd. v. Binance Holdings Limited (2024) — United States Bankruptcy Court, D. Delaware
+- Iravanian v. Translations.com, Inc. (2022) — District Court, N.D. California
+- Jinshu John Zhang v. Dentons U.S. LLP (2021) — District Court, C.D. California
+- U.S. WeChat Users Alliance v. Trump (2020) — District Court, N.D. California
+- Mithril Capital Management LLC v. McKellar (2019) — District Court, W.D. Texas
+- McKellar v. Mithril Capital Management LLC (2019) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mithril%20Capital%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

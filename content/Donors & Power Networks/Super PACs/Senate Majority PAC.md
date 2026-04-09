@@ -2,7 +2,7 @@
 title: "Senate Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -25,6 +25,10 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
 related: "[[Senate Leadership Fund]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Nebraska 2026 Senate Race]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]]"
+sec-filings: 4
+sec-form-types:
+  - "10-K"
+  - "144"
 ---
 
 #donor-node #super-pac #democratic #senate #schumer #dark-money #leadership-pac #donor
@@ -206,3 +210,20 @@ research-status:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Senate%20Majority%20PAC%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 4 |
+| Form Types | 10-K, 144 |
+
+**Notable filings:**
+
+- 2024-11-01 — **144**: 144
+- 2024-10-01 — **144**: 144
+- 2024-09-03 — **144**: 144
+- 2023-03-16 — **10-K**: 10-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Senate%20Majority%20PAC%22) (Tier 1)
+<!-- auto:sec-edgar end -->

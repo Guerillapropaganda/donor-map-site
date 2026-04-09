@@ -2,7 +2,7 @@
 title: "UPS"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,7 +15,9 @@ federal-contracts-count: 25
 federal-grants-count: 25
 related: "[[Brian Kemp]] · [[The Caucus Chair and Inland Empire Logistics Economy]]"
 cpsc-recalls: 31
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
@@ -232,3 +234,21 @@ content-readiness:: developed
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=UPS) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=UPS) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

@@ -24,6 +24,18 @@ sec-form-types:
   - "EX-99.2"
   - "POSASR"
   - "S-8"
+fara-status: "registrant"
+fara-records: 10
+fara-countries:
+  - "CAMBODIA"
+  - "COSTA RICA"
+  - "JAPAN"
+  - "KOREA SOUTH"
+  - "MARSHALL ISLANDS"
+  - "MOROCCO"
+  - "PALAU"
+  - "UNITED ARAB EMIRATES"
+  - "UZBEKISTAN"
 ---
 
 #lobbying #k-street #pharma #defense #finance #tech #trade #bipartisan #revolving-door
@@ -278,3 +290,27 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Akin%20Gump%20Strauss%20Hauer%20%26%20Feld%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 10 |
+| Countries | CAMBODIA, COSTA RICA, JAPAN, KOREA SOUTH, MARSHALL ISLANDS, MOROCCO, PALAU, UNITED ARAB EMIRATES, UZBEKISTAN |
+| Foreign Principal Records | 9 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Embassy of the Republic of Korea (KOREA SOUTH)
+- Promotora de Comercio Exterior de Costa Rica (PROCOMER) for the benefit of the Ministry of Foreign Trade of Costa Rica (COMEX) (COSTA RICA)
+- Ministry of Foreign Affairs of the Republic of Uzbekistan (UZBEKISTAN)
+- Embassy of the Kingdom of Cambodia (CAMBODIA)
+- Embassy of the Kingdom of Morocco (MOROCCO)
+- Republic of Palau (PALAU)
+- Government of the Republic of the Marshall Islands (MARSHALL ISLANDS)
+- Embassy of Japan (JAPAN)
+- Embassy of the United Arab Emirates (UNITED ARAB EMIRATES)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Akin%20Gump%20Strauss%20Hauer%20%26%20Feld) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

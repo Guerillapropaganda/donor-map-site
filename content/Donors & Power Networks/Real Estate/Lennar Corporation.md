@@ -20,7 +20,7 @@ annual-revenue: "$4.0M"
 net-assets: "$22.6M"
 tax-year: "2023"
 court-cases: 376
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Arizona"
