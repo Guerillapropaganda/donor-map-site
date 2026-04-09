@@ -235,5 +235,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Army, Dept of (Corps of Engineers), Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, SENATE, Treasury, Dept of, U.S. Trade Representative (USTR)
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Sinclair%20Broadcast%20Group) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Sinclair%20Broadcast%20Group) (Tier 1)
 <!-- auto:lda-lobbying end -->

@@ -67,5 +67,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Environmental Protection Agency (EPA), Federal Maritime Commission, Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Labor, Dept of (DOL), SENATE, State, Dept of (DOS), Transportation, Dept of (DOT) +2 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Turkey%20-%20Erdogan%20Lobbying%20Operation) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Turkey%20-%20Erdogan%20Lobbying%20Operation) (Tier 1)
 <!-- auto:lda-lobbying end -->

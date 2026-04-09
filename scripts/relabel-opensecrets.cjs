@@ -47,7 +47,7 @@ function findMarkdownFiles(dir) {
   return results
 }
 
-// Match: [OpenSecrets: Something](https://fec.gov/... or congress.gov/... or lda.senate.gov/...)
+// Match: [OpenSecrets: Something](https://fec.gov/... or congress.gov/... or lda.gov/...)
 const MISMATCH_RE = /\[OpenSecrets:\s*([^\]]+)\]\((https?:\/\/(?:www\.)?(?:fec\.gov|congress\.gov|lda\.senate\.gov|lda\.gov)[^)]*)\)/g
 
 let totalFixed = 0

@@ -247,7 +247,7 @@ content-readiness:: ready
 
 **Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Bureau of Reclamation, Bureau of the Census, Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council on Environmental Quality (CEQ), Defense, Dept of (DOD), Education, Dept of +30 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=World%20Liberty%20Financial) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=World%20Liberty%20Financial) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)

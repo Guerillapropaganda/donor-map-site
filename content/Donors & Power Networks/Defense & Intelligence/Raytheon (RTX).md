@@ -515,5 +515,5 @@ content-readiness:: developed
 
 **Agencies contacted:** Air Force, Dept of, Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, Natl Aeronautics & Space Administration (NASA), Navy, Dept of, SENATE, State, Dept of (DOS), Treasury, Dept of
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Raytheon%20(RTX%20Corporation)) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Raytheon%20(RTX%20Corporation)) (Tier 1)
 <!-- auto:lda-lobbying end -->

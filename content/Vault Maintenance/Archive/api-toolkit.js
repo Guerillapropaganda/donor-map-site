@@ -237,7 +237,7 @@ function ldaLobbyingLookup(clientName, year, apiKey) {
   });
   if (year) params.set('filing_year', year);
 
-  return fetch(`https://lda.senate.gov/api/v1/filings/?${params}`, {
+  return fetch(`https://lda.gov/api/v1/filings/?${params}`, {
     headers: {
       'Authorization': `Token ${key}`,
       'Accept': 'application/json'

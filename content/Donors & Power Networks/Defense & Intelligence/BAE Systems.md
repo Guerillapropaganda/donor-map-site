@@ -323,5 +323,5 @@ content-readiness:: ready
 
 **Agencies contacted:** Commerce, Dept of (DOC), Defense, Dept of (DOD), Director of National Intelligence (ODNI), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Aeronautics & Space Administration (NASA), Natl Oceanic & Atmospheric Administration (NOAA), Natl Security Council (NSC), Office of Management & Budget (OMB), SENATE +1 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=BAE%20Systems) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=BAE%20Systems) (Tier 1)
 <!-- auto:lda-lobbying end -->

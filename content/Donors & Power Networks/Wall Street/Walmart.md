@@ -271,7 +271,7 @@ content-readiness:: developed
 
 **Agencies contacted:** Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Product Safety Commission (CPSC), Council of Economic Advisers (CEA), Defense, Dept of (DOD), Education, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP) +21 more
 
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Walmart) (Tier 1)
+- [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Walmart) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Tax Filings (IRS 990)
