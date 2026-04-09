@@ -98,7 +98,7 @@ Boeing operates one of the most aggressive revolving door programs in the defens
 
 Key revolving door examples:
 
-Patrick Shanahan served as Boeing's senior vice president before becoming Deputy Secretary of Defense (2017-2019) and then Acting Secretary of Defense. He resigned after ethics investigations into potential favoritism toward Boeing. Heidi Grant, director of the Defense Security Cooperation Agency, was negotiating a contract with Boeing while publicly promoting Boeing's fighter jets, then joined Boeing a single day after leaving government. Nikki Haley, former UN Ambassador and South Carolina governor, joined Boeing's board of directors in 2019 — South Carolina hosts Boeing's 787 Dreamliner assembly plant.
+Patrick Shanahan served as Boeing's senior vice president before becoming Deputy Secretary of Defense (2017-2019) and then Acting Secretary of Defense. He resigned after ethics investigations into potential favoritism toward Boeing. Heidi Grant, director of the Defense Security Cooperation Agency, was negotiating a contract with Boeing while publicly promoting Boeing's fighter jets, then joined Boeing a single day after leaving government. [[Nikki Haley]], former UN Ambassador and South Carolina governor, joined Boeing's board of directors in 2019 — South Carolina hosts Boeing's 787 Dreamliner assembly plant.
 
 Boeing's board has consistently included former military brass: retired Air Force Inspector General Stayce D. Harris and retired Chief of Naval Operations Admiral John M. Richardson have both served as directors, providing Boeing with direct insight into Pentagon procurement priorities.
 

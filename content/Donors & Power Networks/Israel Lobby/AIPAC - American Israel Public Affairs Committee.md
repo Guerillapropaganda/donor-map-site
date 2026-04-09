@@ -225,7 +225,7 @@ By 2025-2026, this dynamic showed signs of shifting: more than two dozen congres
 — Jewish Voice for Peace (JVP) — anti-Zionist Jewish advocacy
 — CAIR — Council on American-Islamic Relations
 — The Uncommitted Movement (2024 Democratic primary)
-— Rep. Rashida Tlaib, Rep. Ilhan Omar, Sen. [[_Bernie Sanders Master Profile|Bernie Sanders]] — surviving congressional critics
+— Rep. [[Rashida Tlaib]], Rep. [[Ilhan Omar]], Sen. [[_Bernie Sanders Master Profile|Bernie Sanders]] — surviving congressional critics
 
 ---
 

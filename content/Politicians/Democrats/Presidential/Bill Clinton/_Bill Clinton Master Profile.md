@@ -139,7 +139,7 @@ Clinton was the DLC's signature product. As DLC chairman (1990–1991), he used 
 
 ### Glass-Steagall Repeal (Gramm-Leach-Bliley Act, 1999)
 
-Clinton's Treasury Department under Robert Rubin pushed for and secured the repeal of Glass-Steagall, the 1933 Depression-era regulation that separated commercial and investment banking. Goldman Sachs, Citigroup, JPMorgan, and Morgan Stanley all contributed heavily to Clinton's campaigns and to the legislative push for repeal. The Gramm-Leach-Bliley Act passed the Senate 90-8 and the House 362-57 — the bipartisan consensus that the donor class purchased.
+Clinton's Treasury Department under Robert Rubin pushed for and secured the repeal of Glass-Steagall, the 1933 Depression-era regulation that separated commercial and investment banking. [[Goldman Sachs]], Citigroup, JPMorgan, and Morgan Stanley all contributed heavily to Clinton's campaigns and to the legislative push for repeal. The Gramm-Leach-Bliley Act passed the Senate 90-8 and the House 362-57 — the bipartisan consensus that the donor class purchased.
 
 Policy outcome: banks merged, risk consolidated, and the conditions for the 2008 financial crisis were established. Citigroup — whose merger with Travelers Group in 1998 technically violated Glass-Steagall before the law was repealed — became the largest financial institution in the world. No donor class benefited more directly from a single piece of legislation.
 

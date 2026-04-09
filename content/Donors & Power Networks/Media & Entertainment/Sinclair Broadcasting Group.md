@@ -263,7 +263,7 @@ content-readiness:: ready
 **Notable cases:**
 - Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
 - Zen JV, LLC (2025) — United States Bankruptcy Court, D. Delaware
-- Savage River Enterprises, LLC v. Sinclair Broadcast Group, LLC (2025) — District Court, E.D. Tennessee
+- Savage River Enterprises, LLC v. [[Sinclair Broadcast Group]], LLC (2025) — District Court, E.D. Tennessee
 - Lenore Albert v. Tyler Technologies, Inc. (2025) — District Court, C.D. California
 - Franchise Group Acquisition TM, LLC (2024) — United States Bankruptcy Court, D. Delaware
 - Franchise Group, Inc. (2024) — United States Bankruptcy Court, D. Delaware

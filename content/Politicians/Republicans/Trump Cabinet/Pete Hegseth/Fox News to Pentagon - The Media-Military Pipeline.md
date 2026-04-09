@@ -60,7 +60,7 @@ The career progression reveals the conservative ecosystem's conveyor belt:
 
 1. **Princeton + military service** → Credential building
 2. **Vets for Freedom** ($8.7M raised, pro-surge advocacy) → Republican donor entry
-3. **Concerned Veterans for America** ($49M Koch money) → Donor-class operator
+3. **[[Concerned Veterans for America]]** ($49M Koch money) → Donor-class operator
 4. **Fox News** ($6.3–9M personal income) → Trump's attention
 5. **Secretary of Defense** ($253,100/year, $850B budget) → The payoff
 

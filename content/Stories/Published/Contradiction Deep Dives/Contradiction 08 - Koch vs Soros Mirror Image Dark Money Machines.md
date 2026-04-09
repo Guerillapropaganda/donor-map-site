@@ -207,7 +207,7 @@ Both networks are funded by billionaires using identical mechanisms. Both billio
 ### Democratic Attacks on Koch
 - [Charles Koch's laughable quote on dark money — Sunlight Foundation](https://sunlightfoundation.com/2015/10/13/charles-kochs-laughable-quote-on-dark-money/) (Tier 2)
 - ['Dark Money': Koch Brothers' Donations Push Their Political Agenda — NPR](https://www.npr.org/2016/01/19/463551038/dark-money-delves-into-how-koch-brothers-donations-push-their-political-agenda) (Tier 2)
-- [Capital Rivals: Koch Brothers vs. George Soros — OpenSecrets](https://www.opensecrets.org/news/2010/09/opensecrets-battle-koch-brothers/) (Tier 2)
+- [Capital Rivals: Koch Brothers vs. [[George Soros]] — OpenSecrets](https://www.opensecrets.org/news/2010/09/opensecrets-battle-koch-brothers/) (Tier 2)
 
 ### Democratic Dark Money Hypocrisy
 - [Democrats used to rail against 'dark money.' Now they're better at it than the GOP — NBC News](https://www.nbcnews.com/politics/2020-election/democrats-used-rail-against-dark-money-now-they-re-better-n1239830) (Tier 2)

@@ -76,7 +76,7 @@ BPC's roots trace to 2002, when the National Commission on Energy Policy (NCEP) 
 BPC's funding model mixes corporate sponsorship, foundations, and individual donors. In FY2024, per BPC's own disclosures: 78% from institutional foundations, 20% from corporates and other sources, 2% from individual and family foundations.
 
 ### Known corporate funders and sponsors:
-- **Google** — Funded BPC's 2024 AI education project for legislators
+- **[[Google]]** — Funded BPC's 2024 AI education project for legislators
 - **Nvidia** — Funded BPC energy report on data center demand (cited in 2025 congressional testimony)
 - **Hewlett Foundation** — Early and ongoing funder (energy policy)
 - **MacArthur Foundation** — General support

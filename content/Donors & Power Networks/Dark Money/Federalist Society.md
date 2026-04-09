@@ -141,7 +141,7 @@ Leonard Leo is the fulcrum connecting the Federalist Society to the broader dark
 - Federal appellate judiciary shifted from 39.7% Republican-appointed (January 2017) to 53.6% (January 2021)
 
 ### Six SCOTUS justices with Federalist Society connections:
-Clarence Thomas, John Roberts, Samuel Alito, Neil Gorsuch, Brett Kavanaugh, Amy Coney Barrett — Leo personally involved in the selection or confirmation of all six.
+[[Clarence Thomas]], John Roberts, Samuel Alito, Neil Gorsuch, Brett Kavanaugh, Amy Coney Barrett — Leo personally involved in the selection or confirmation of all six.
 
 #### Temporal Mapping — The 40-Year Investment
 

@@ -71,7 +71,7 @@ Stand With Crypto is a Coinbase-backed group that rates elected officials on a s
 
 ### The Ratings
 
-**Raja Krishnamoorthi**: A rating
+**[[Raja Krishnamoorthi]]**: A rating
 - Positive voting record on crypto issues
 - Responded favorably to questionnaire
 - Received Fairshake support

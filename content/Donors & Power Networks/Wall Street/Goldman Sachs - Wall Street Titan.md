@@ -52,14 +52,14 @@ A documented roster of Goldman alumni in senior government positions spanning ev
 #### Trump Administration 1.0 (2017–2021)
 - **Steve Mnuchin** — Goldman Sachs for 17 years → Treasury Secretary (2017–2021)
 - **Gary Cohn** — Goldman COO → NEC Director (2017–2018). Led the 2017 tax bill; Goldman benefited directly from the corporate rate cut 35% → 21%. Cohn resigned after the bill passed.
-- **Steve Bannon** — Goldman executive → Chief White House Strategist (2017)
+- **[[Steve Bannon]]** — Goldman executive → Chief White House Strategist (2017)
 - **Dina Powell** — Goldman Foundation president, 9 years at firm → Deputy National Security Adviser (2017–2018)
 - **James Donovan** — Goldman Managing Director → nominated Deputy Treasury Secretary (2017, withdrew)
 - **Jay Clayton** — Represented Goldman during 2008 financial crisis as outside counsel → SEC Chairman (2017–2020)
 - **Dan Coats** — Lobbied for Goldman between his House and Senate tenures → Director of National Intelligence under Trump
 
 #### In Congress (past and present)
-- **Jim Himes** (D-CT) — Goldman for 12 years → Congressman (2009–present), House Intelligence Committee
+- **[[Jim Himes]]** (D-CT) — Goldman for 12 years → Congressman (2009–present), House Intelligence Committee
 - **Jon Corzine** (D-NJ) — Goldman CEO → Senator (2001–2006) → Governor NJ (2006–2010)
 - **Judd Gregg** (R-NH) — Senate Budget Committee chairman → Goldman adviser after leaving Senate
 - **Dan Coats** (R-IN) — Senate Finance Committee member → Goldman lobbyist → Director of National Intelligence

@@ -147,7 +147,7 @@ related: [[_Gavin Newsom Master Profile]] | [[AB5 - Gig Worker Classification]] 
 
 **California lobbying:** Approximately $900,000 combined Uber/[[Lyft|Lyft]] lobbying during the AB5 legislative session (2019). Uber ranked in top 3% of organizations by lobbyist spending in Sacramento — spending more than Walmart, Bank of America, and Wells Fargo. [Source: LA Times / GovTech — Tier 2]
 
-**Flex Association** — Uber co-founded the Flex Association in 2021 alongside [[DoorDash|DoorDash]], Grubhub, HopSkipDrive, Instacart, [[Lyft|Lyft]], and Shipt. This is the post-Prop 22 institutional infrastructure — a permanent trade association and lobbying group for the gig economy industry. Launched with a seven-figure ad buy in Washington, D.C. to counter the PRO Act. [Source: The Hill — Tier 2]
+**[[Flex Association]]** — Uber co-founded the Flex Association in 2021 alongside [[DoorDash|DoorDash]], Grubhub, HopSkipDrive, Instacart, [[Lyft|Lyft]], and Shipt. This is the post-Prop 22 institutional infrastructure — a permanent trade association and lobbying group for the gig economy industry. Launched with a seven-figure ad buy in Washington, D.C. to counter the PRO Act. [Source: The Hill — Tier 2]
 
 ---
 

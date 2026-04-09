@@ -15,7 +15,7 @@ related: [[_Alexander Acosta Master Profile]] [[_Donald Trump Master Profile]]
 
 ### The 2008 Plea Deal
 
-Alexander Acosta, as U.S. Attorney for the Southern District of Florida, negotiated the 2008 plea agreement with Jeffrey Epstein that became one of the most controversial prosecutorial decisions in modern American history. Epstein — facing federal charges for sexually abusing dozens of underage girls — received a non-prosecution agreement (NPA) that allowed him to plead to state prostitution charges, serve 13 months in a county jail with work-release privileges, and register as a sex offender. The NPA immunized Epstein and any potential co-conspirators from federal prosecution.
+[[Alexander Acosta]], as U.S. Attorney for the Southern District of Florida, negotiated the 2008 plea agreement with Jeffrey Epstein that became one of the most controversial prosecutorial decisions in modern American history. Epstein — facing federal charges for sexually abusing dozens of underage girls — received a non-prosecution agreement (NPA) that allowed him to plead to state prostitution charges, serve 13 months in a county jail with work-release privileges, and register as a sex offender. The NPA immunized Epstein and any potential co-conspirators from federal prosecution.
 
 The plea deal's most extraordinary provision: it was negotiated in secret, without notifying Epstein's victims as required by the Crime Victims' Rights Act. A federal judge later ruled (2019) that the NPA violated victims' rights — but by then, the deal had been executed and Epstein had served his minimal sentence.
 

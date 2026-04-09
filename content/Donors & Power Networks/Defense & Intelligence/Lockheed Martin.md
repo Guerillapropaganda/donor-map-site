@@ -315,13 +315,13 @@ content-readiness:: ready
 
 - Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Ken Calvert** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Mike Rogers]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Adam Smith]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Rosa DeLauro]]** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **[[Jack Reed]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Tammy Duckworth]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Tom Cole]]** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **[[Roger Wicker]]** → Sits on **Armed Services**
 
 **Funded politicians:**
 

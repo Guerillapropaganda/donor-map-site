@@ -65,7 +65,7 @@ Mullin's brand is the self-made Cherokee plumber who represents working people. 
 ### Donor Class Map
 
 ### Oil and Gas ($1.3M career total)
-Mullin's top donor industry across his entire career. Devon Energy, Oklahoma's largest independent energy company, is his single biggest contributor ($104,950 from employees and PAC combined). His Environment and Public Works Committee seat gives him direct jurisdiction over EPA regulation and fossil fuel infrastructure — the exact regulatory framework his donors need managed.
+Mullin's top donor industry across his entire career. [[Devon Energy]], Oklahoma's largest independent energy company, is his single biggest contributor ($104,950 from employees and PAC combined). His Environment and Public Works Committee seat gives him direct jurisdiction over EPA regulation and fossil fuel infrastructure — the exact regulatory framework his donors need managed.
 
 ### Pro-Israel Lobby ($245K+)
 AIPAC was Mullin's single largest contributor in his 2022 Senate special election ($89,000). Total pro-Israel contributions have reached approximately $245,000. This funding relationship accelerated during his Senate tenure and reflects the Israel lobby's standard strategy of building relationships with rising Republican leaders.

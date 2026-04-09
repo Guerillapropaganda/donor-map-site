@@ -26,7 +26,7 @@ Democratic crypto skeptics performed resistance while accepting Fairshake money.
 The messaging split was precise: "We're protecting consumers" (Democrats) vs. "We're unleashing innovation" (Republicans). The policy outcome: identical. Both parties voted for FIT21 in May 2024, legalizing much of what they had condemned 18 months prior.
 
 [!contradiction]
-**The Contradiction:** Gary Gensler, the SEC chair Biden appointed, faced intense crypto industry opposition while warning of market dangers. Sherrod Brown, as Banking Committee chair, blocked crypto bills. Both were targets of $40+ million in anti-incumbent spending. Yet both were framed as outliers — "anti-innovation" obstructionists — while the actual Democratic base moved toward capitulation. No public Democratic official articulated why the party had reversed position. The answer was financial: Fairshake had made opposition too costly.
+**The Contradiction:** Gary Gensler, the SEC chair Biden appointed, faced intense crypto industry opposition while warning of market dangers. [[Sherrod Brown]], as Banking Committee chair, blocked crypto bills. Both were targets of $40+ million in anti-incumbent spending. Yet both were framed as outliers — "anti-innovation" obstructionists — while the actual Democratic base moved toward capitulation. No public Democratic official articulated why the party had reversed position. The answer was financial: Fairshake had made opposition too costly.
 
 ---
 #analysis

@@ -80,7 +80,7 @@ Mike Johnson. Speaker of the House (October 2023–present). Representative for 
 ### Donor Class Map
 
 ### The AIPAC-Thiel-Fossil Fuel Speaker Machine:
-- [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] — Pre-Speaker: ~$25K AIPAC. Post-Speaker: $104K AIPAC ($95K November 2023 alone after $14B Israel aid). Peter Thiel $852K. [[Tim Dunn|Tim Dunn]] $1.1M. Rex Sinquefeld $1.1M. Oil/gas career $338K+. $71M in 3 quarters. Grow the Majority: $1M+ max contributions, 70+ Republican entities. The speakership as fundraising machine.
+- [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] — Pre-Speaker: ~$25K AIPAC. Post-Speaker: $104K AIPAC ($95K November 2023 alone after $14B Israel aid). [[Peter Thiel]] $852K. [[Tim Dunn|Tim Dunn]] $1.1M. Rex Sinquefeld $1.1M. Oil/gas career $338K+. $71M in 3 quarters. Grow the Majority: $1M+ max contributions, 70+ Republican entities. The speakership as fundraising machine.
 
 ### The ADF Pipeline and the Election Denial Portfolio:
 - [[The ADF Pipeline and the Election Denial Architect]] — Alliance Defending Freedom 2002-2010. Criminalization of gay sex editorials (2003). Council for National Policy member. Led 2020 amicus brief (100+ Republicans). Voted against certification January 6. Promoted Dominion/Hugo Chavez conspiracies. "Constitutional conservative" who led effort to overturn constitutional election. Then became Speaker and oversaw the next certification.

@@ -53,7 +53,7 @@ George Soros pledged $3 million to help launch CAP in 2003, alongside other majo
 ### Board members who are also donors:
 - **Hansjörg Wyss** — Swiss billionaire (net worth ~$5-6B), founder of the $2.7B Wyss Foundation, sits on CAP's board of directors. Also funds through the Berger Action Fund ($232M) and the Arabella Advisors dark money network. Wyss is a foreign national, which raises legal questions about his role in U.S. political infrastructure.
 - **Donald Sussman** — Hedge fund manager and major Democratic donor, board director. One of the largest individual donors to Democratic causes in the 2016 cycle.
-- **Tom Steyer** — Billionaire climate donor, former CAP board director (through ~2019). Funded CAP and later ran for president in 2020.
+- **[[Tom Steyer]]** — Billionaire climate donor, former CAP board director (through ~2019). Funded CAP and later ran for president in 2020.
 - **Senator Tom Daschle** — Former Senate Majority Leader, CAP board chair (2022-present). Former lobbyist.
 - **Jonathan Lavine** — Managing partner at Bain Capital, former board director.
 - **Glenn Hutchins** — Silver Lake Partners co-founder, former board director.

@@ -60,9 +60,9 @@ Martha Wright, a D.C. grandmother, sued in 2000 over rates she paid to speak wit
 
 **The Pai manipulation:** Eight days after Trump appointed Pai as FCC Chairman in 2017, he sent a letter to the D.C. Circuit announcing the FCC would no longer defend its own rate caps. The court had been considering an appeal. (Tier 2)
 
-**May 2021:** Senators **Tammy Duckworth** (D-IL) and **Rob Portman** (R-OH) introduce the Martha Wright-Reed Just and Reasonable Communications Act. A strategic compromise: rather than setting specific caps, it directs the FCC to ensure "just and reasonable" charges—language designed to win Republican support.
+**May 2021:** Senators **[[Tammy Duckworth]]** (D-IL) and **Rob Portman** (R-OH) introduce the Martha Wright-Reed Just and Reasonable Communications Act. A strategic compromise: rather than setting specific caps, it directs the FCC to ensure "just and reasonable" charges—language designed to win Republican support.
 
-**December 22, 2022:** House passes S. 1541 in final days of Congress, with Speaker Pelosi and Majority Leader Schumer prioritizing passage. **Joe Biden** signs January 5, 2023.
+**December 22, 2022:** House passes S. 1541 in final days of Congress, with Speaker Pelosi and Majority Leader Schumer prioritizing passage. **[[Joe Biden]]** signs January 5, 2023.
 
 **July 18, 2024:** FCC votes unanimously to implement the law with caps: $0.06/minute for prisons, $0.06–$0.12/minute for jails, first-ever video call caps, and—crucially—a complete ban on site commission kickbacks. Projected savings: $386 million annually. (Tier 1)
 
@@ -82,7 +82,7 @@ Democrats champion "criminal justice reform" and claim to support incarcerated p
 
 **2018 FIRST STEP Act:** Bipartisan criminal justice reform passed with zero prison phone provisions, despite research showing family contact reduces recidivism. (Tier 2)
 
-**Committee jurisdictions:** Rep. **Henry Cuellar** (D-TX, House Appropriations) received $27,800 from for-profit prisons industry 2021–2022 (highest House Democrat). Rep. **Sanford Bishop** (D-GA) received $17,500. Rep. **Matt Cartwright** (D-PA) received $15,000. (Tier 1)
+**Committee jurisdictions:** Rep. **[[Henry Cuellar]]** (D-TX, House Appropriations) received $27,800 from for-profit prisons industry 2021–2022 (highest House Democrat). Rep. **Sanford Bishop** (D-GA) received $17,500. Rep. **Matt Cartwright** (D-PA) received $15,000. (Tier 1)
 
 **The legislative stall:** Martha Wright-Reed sat in committee for 18 months after introduction (May 2021 to March 2022) during unified Democratic control. It passed only in final days of December 2022 as a lame-duck measure after Democrats lost the House.
 

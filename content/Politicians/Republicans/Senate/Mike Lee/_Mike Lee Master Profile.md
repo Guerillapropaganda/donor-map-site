@@ -179,7 +179,7 @@ content-readiness:: developed
 
 **Donate → Lobby → Committee chains:**
 
-- **Blackstone Group** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
+- **[[Blackstone Group]]** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
 
 **Donors who lobby (by spend):**
 

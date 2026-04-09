@@ -426,15 +426,15 @@ content-readiness:: developed
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense** → Funds **Adam Smith** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
-- Lobbies on **Budget/Appropriations** → Funds **Rosa DeLauro** → Sits on **Appropriations**
-- Lobbies on **Defense** → Funds **Rosa DeLauro** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **Appropriations**
-- Lobbies on **Defense** → Funds **Roger Wicker** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+- Lobbies on **Defense** → Funds **[[Mike Rogers]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Mike Rogers]]** → Sits on **Armed Services**
+- Lobbies on **Defense** → Funds **[[Adam Smith]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Adam Smith]]** → Sits on **Armed Services**
+- Lobbies on **Budget/Appropriations** → Funds **[[Rosa DeLauro]]** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **[[Rosa DeLauro]]** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **[[Rosa DeLauro]]** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **[[Roger Wicker]]** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Roger Wicker]]** → Sits on **Armed Services**
 
 **Funded politicians:**
 

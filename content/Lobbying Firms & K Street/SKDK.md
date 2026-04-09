@@ -61,7 +61,7 @@ SKDK's client base falls into two categories: Democratic political campaigns (th
 
 SKDK's corporate client list is harder to reconstruct precisely because the firm's non-lobbying structure means no mandatory public disclosure. Known corporate clients include:
 
-- **Pfizer** — Crisis communications during COVID vaccine rollout and lobbying defense against drug pricing proposals
+- **[[Pfizer]]** — Crisis communications during COVID vaccine rollout and lobbying defense against drug pricing proposals
 - **AT&T** — Public affairs and regulatory strategy
 - **Microsoft** — Public affairs
 - **IBM** — Public affairs

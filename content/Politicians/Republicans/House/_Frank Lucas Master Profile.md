@@ -363,7 +363,7 @@ content-readiness:: ready
 
 **Donate → Lobby → Committee chains:**
 
-- **National Cattlemen's Beef Association** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **[[National Cattlemen's Beef Association]]** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 
 **Donors who lobby (by spend):**
 

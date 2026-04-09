@@ -65,7 +65,7 @@ The business model depends on perpetuating exactly what Democratic political rhe
 | Vehicle | Year Created | 2024 Spending | Primary Function | Dissolution Pattern |
 |---------|---|---|---|---|
 | **[[Sixteen Thirty Fund|Sixteen Thirty Fund]]** | 2010 | ~$311M | Flagship fiscal sponsor; judicial, ballot, electoral | Permanent |
-| **New Venture Fund** | 2010 | ~$150M+ | Healthcare, education, climate sub-grants | Permanent |
+| **[[New Venture Fund]]** | 2010 | ~$150M+ | Healthcare, education, climate sub-grants | Permanent |
 | **Windward Fund** | 2008 | ~$120M+ | Climate, environment, electoral (competitive races) | Permanent |
 | **Hopewell Fund** | 2013 | ~$80M+ | Democracy/voting, LGBTQ+, reproductive rights | Permanent |
 | **North Fund** | 2012 | ~$100M+ | Community organizing, immigrant rights | Permanent |

@@ -77,9 +77,9 @@ The function: converting billionaire wealth into Democratic Party governance pow
 ### Flagship organizations (long-term core funding):
 | Organization | Type | Annual Funding | Strategic Function |
 |---|---|---|---|
-| **Media Matters** | Media watchdog / opposition research | $15M-$20M/year | Conservative media monitoring, damage control coordination |
-| **Center for American Progress** | Think tank / policy shop | $25M-$30M/year | Policy development, White House liaison, messaging |
-| **America Votes** | Coalition infrastructure | $10M-$15M/year | State-level coordination, ballot measures, voter engagement |
+| **[[Media Matters]]** | Media watchdog / opposition research | $15M-$20M/year | Conservative media monitoring, damage control coordination |
+| **[[Center for American Progress]]** | Think tank / policy shop | $25M-$30M/year | Policy development, White House liaison, messaging |
+| **[[America Votes]]** | Coalition infrastructure | $10M-$15M/year | State-level coordination, ballot measures, voter engagement |
 | **Voting rights organizations** | Litigation & advocacy | $20M-$25M/year | Voter suppression litigation, ballot access expansion |
 | **Environmental organizations** | Policy & advocacy | $30M+/year | Climate policy, IPCC coordination, green energy transitions |
 | **Community organizing networks** | Grassroots infrastructure | $15M-$20M/year | Immigrant rights, labor justice, community mobilization |

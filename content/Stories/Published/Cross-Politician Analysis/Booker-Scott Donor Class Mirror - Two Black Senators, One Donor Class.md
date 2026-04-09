@@ -35,7 +35,7 @@ content-readiness:: draft
 
 ### Sector 1. Wall Street and Financial Services
 
-**Booker.** Goldman Sachs is a top career contributor at $158,871. Securities and investment firms provided $2.2 million in his 2013-2014 Senate cycle alone. Morgan Stanley, JPMorgan Chase, Apollo Global Management, and Prudential round out the New Jersey financial corridor. In 2014, CNBC reported Booker and Mitch McConnell received more Wall Street campaign cash than any other Senate candidates.
+**Booker.** Goldman Sachs is a top career contributor at $158,871. Securities and investment firms provided $2.2 million in his 2013-2014 Senate cycle alone. [[Morgan Stanley]], JPMorgan Chase, Apollo Global Management, and Prudential round out the New Jersey financial corridor. In 2014, CNBC reported Booker and Mitch McConnell received more Wall Street campaign cash than any other Senate candidates.
 
 **Scott.** Goldman Sachs is his top career contributor at $175,000. Securities and investment is his number-one non-retired industry at $4.5 million career. Real estate adds $3.7 million. Insurance adds $2.2 million. Commercial banks add $882,000. Total FIRE sector: $13 million career — over one-fifth of his total fundraising. He now chairs the Senate Banking Committee, which has direct jurisdiction over every industry funding him.
 

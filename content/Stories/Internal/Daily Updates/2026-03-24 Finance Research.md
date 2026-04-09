@@ -51,9 +51,9 @@ The following vault notes were already updated through March 23 and contained al
 
 - **AIPAC** (`Israel Lobby/AIPAC - American Israel Public Affairs Committee.md`) — Illinois shell PAC structure, $28M cycle total, Pritzker distancing, counter-PAC (American Priorities) all documented
 - **United Democracy Project** (`Super PACs/United Democracy Project - UDP.md`) — $5.3M to shell PACs, $14.1M total shell PAC spending, 2-of-4 Illinois results, American Priorities counter-PAC all documented
-- **MAGA Inc** (`Super PACs/MAGA Inc.md`) — $294-304M war chest, new donors (Foris Dax $30M, Brockman $25M, Energy Transfer $25M), $400M Trump ecosystem total all documented
-- **Fairshake PAC** (`Tech & Crypto/Fairshake PAC.md`) — $193M COH, NY House targeting, Illinois losses, $288M total industry spending all documented
-- **Club for Growth** (`Super PACs/Club for Growth.md`) — $15.8M in 2025, $10M from Yass (63%), primary enforcement model all documented
+- **[[MAGA Inc]]** (`Super PACs/MAGA Inc.md`) — $294-304M war chest, new donors (Foris Dax $30M, Brockman $25M, Energy Transfer $25M), $400M Trump ecosystem total all documented
+- **[[Fairshake PAC]]** (`Tech & Crypto/Fairshake PAC.md`) — $193M COH, NY House targeting, Illinois losses, $288M total industry spending all documented
+- **[[Club for Growth]]** (`Super PACs/Club for Growth.md`) — $15.8M in 2025, $10M from Yass (63%), primary enforcement model all documented
 
 ---
 

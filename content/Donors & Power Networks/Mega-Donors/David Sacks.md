@@ -282,7 +282,7 @@ Sacks and Craft Ventures divested $200M+ in digital assets ($85M+ personal):
 
 | Company | Sacks/Craft Stake | Policy Connection | Outcome |
 |---------|------------------|------------------|---------|
-| **Anduril Industries** | Craft portfolio | Night vision goggles with AI; benefited from AI Action Plan directing Pentagon AI/drone procurement | $159M Army contract; $20B Army contract (March 2026) |
+| **[[Anduril Industries]]** | Craft portfolio | Night vision goggles with AI; benefited from AI Action Plan directing Pentagon AI/drone procurement | $159M Army contract; $20B Army contract (March 2026) |
 | **Firestorm Labs** | Craft portfolio | Benefited from AI Action Plan; drone production | Federal AI contracts post-preemption |
 | **Swarm Aero** | Craft portfolio | Drone startup; Pentagon AI/drone procurement | Federal AI contracts post-preemption |
 | **Vultron** | $22M round (July 2025) | AI software for federal contractors; **explicitly cited Sacks' White House role** when announcing funding | Federal contracts |

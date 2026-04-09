@@ -75,7 +75,7 @@ The mathematics are clear: UDP could have spent $30M on a Senate race. Instead i
 
 Bowman lost 58–42 to George Latimer, a more cautious centrist. Latimer, post-victory, immediately moved right on Gaza. Latimer voted for weapons transfers Bowman had opposed.
 
-Cori Bush, D-MO, received the second-largest AIPAC primary hit: $8.6–$9M in UDP spending against her. Bush, also Squad, was vocal on Palestine. The super PAC ran months of ads before the August primary. She lost to Wesley Bell in what became the second-most expensive Democratic House primary in U.S. history.
+[[Cori Bush]], D-MO, received the second-largest AIPAC primary hit: $8.6–$9M in UDP spending against her. Bush, also Squad, was vocal on Palestine. The super PAC ran months of ads before the August primary. She lost to Wesley Bell in what became the second-most expensive Democratic House primary in U.S. history.
 
 [!contradiction] **Both Bowman and Bush were ousted by party allies in Democratic primaries funded by the Israel lobby using Republican donor money. The disciplinary function is explicit: accept the donor consensus or be destroyed within your own party.**
 

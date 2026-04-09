@@ -181,7 +181,7 @@ Thiel's intellectual world is not standard Republican conservatism. It is the Da
 
 Key figures: Curtis Yarvin (pseudonym Mencius Moldbug) — anti-democratic theorist who advocates "neocameralism" (governing states like corporations with a CEO, not elected officials). Yarvin is described as the "house political philosopher" of Thiel's network. Thiel's Founders Fund invested in Yarvin's startup Urbit. Yarvin has described Thiel as "fully enlightened."
 
-The Seasteading Institute — founded by Patri Friedman (grandson of Milton Friedman), funded by Thiel — proposes building floating cities outside national jurisdiction. This is the physical manifestation of the ideology: if you can't end democracy, leave it. Thiel's New Zealand citizenship (obtained after 12 days in the country under an "exceptional circumstances" waiver) is the personal version of the same strategy. [Source: TIME — Tier 2; Jacobin — Tier 2; Cato Institute — Tier 1]
+The Seasteading Institute — founded by Patri Friedman (grandson of Milton Friedman), funded by Thiel — proposes building floating cities outside national jurisdiction. This is the physical manifestation of the ideology: if you can't end democracy, leave it. Thiel's New Zealand citizenship (obtained after 12 days in the country under an "exceptional circumstances" waiver) is the personal version of the same strategy. [Source: TIME — Tier 2; Jacobin — Tier 2; [[Cato Institute]] — Tier 1]
 
 ---
 

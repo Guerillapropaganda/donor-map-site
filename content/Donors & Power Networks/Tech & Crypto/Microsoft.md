@@ -150,11 +150,11 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Ro Khanna** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Immigration** → Funds **Ro Khanna** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Budget/Appropriations** → Funds **Patty Murray** → Sits on **Appropriations**
-- Lobbies on **Defense** → Funds **Patty Murray** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[Ro Khanna]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Immigration** → Funds **[[Ro Khanna]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Budget/Appropriations** → Funds **[[Patty Murray]]** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **[[Patty Murray]]** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **[[Patty Murray]]** → Sits on **Appropriations**
 
 **Funded politicians:**
 

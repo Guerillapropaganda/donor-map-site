@@ -160,7 +160,7 @@ The consequence is visible in IL-09: the spending worked tactically (attack ads 
 
 UDP's donor base is UHNW individuals united by a single policy objective: unconditional U.S. support for Israel. This creates a fundamental constraint on political flexibility.
 
-In normal super PACs, donors might support a particular candidate, party, or ideology. In UDP, the donor commitment is to a *policy outcome*—and that outcome transcends party and ideology. Paul Singer, a major UDP donor, simultaneously funds Republican causes. The connection is not party but *policy commitment to Israel support*.
+In normal super PACs, donors might support a particular candidate, party, or ideology. In UDP, the donor commitment is to a *policy outcome*—and that outcome transcends party and ideology. [[Paul Singer]], a major UDP donor, simultaneously funds Republican causes. The connection is not party but *policy commitment to Israel support*.
 
 This means UDP cannot move into general-election independent expenditures on the same scale it operates in primaries. Once the primary is concluded, the Israel-policy issue becomes less salient. General-election voters care about inflation, healthcare, immigration. UDP's donor base has no equivalent intensity of interest in those issues. The organization's power is primary-specific, not cycle-wide.
 

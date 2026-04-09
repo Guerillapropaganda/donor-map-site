@@ -132,7 +132,7 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
+- Lobbies on **Wall Street & Finance** → Funds **[[French Hill]]** → Sits on **Banking**
 
 **Funded politicians:**
 

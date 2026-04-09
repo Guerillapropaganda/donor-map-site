@@ -247,12 +247,12 @@ content-readiness:: developed
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Banking** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Wall Street & Finance** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Banking** → Funds **Paul Ryan** → Sits on **Finance**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **Paul Ryan** → Sits on **Finance**
-- Lobbies on **Wall Street & Finance** → Funds **Paul Ryan** → Sits on **Finance**
+- Lobbies on **Banking** → Funds **[[John Boehner]]** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **[[John Boehner]]** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **[[John Boehner]]** → Sits on **Finance**
+- Lobbies on **Banking** → Funds **[[Paul Ryan]]** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **[[Paul Ryan]]** → Sits on **Finance**
+- Lobbies on **Wall Street & Finance** → Funds **[[Paul Ryan]]** → Sits on **Finance**
 
 **Funded politicians:**
 

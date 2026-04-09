@@ -41,8 +41,8 @@ Avoq's 2025 client roster of 97 entities spans tech, finance, crypto, healthcare
 - **Bumble Trading** — $200,000 (internet/dating)
 
 #### Finance, Crypto & Investment
-- **Blackstone Group** — $320,000 (private equity)
-- **Apollo Global Management** — $200,000 (private equity, via University of Phoenix)
+- **[[Blackstone Group]]** — $320,000 (private equity)
+- **[[Apollo Global Management]]** — $200,000 (private equity, via University of Phoenix)
 - **Block Inc** — $240,000 (fintech/payments, formerly Square)
 - **ConsenSys Software** — $240,000 (blockchain/Ethereum)
 - **Coinbase** — $180,000 (crypto exchange)

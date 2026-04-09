@@ -82,7 +82,7 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **[[Jeanne Shaheen]]** → Sits on **Armed Services**
 
 **Funded politicians:**
 

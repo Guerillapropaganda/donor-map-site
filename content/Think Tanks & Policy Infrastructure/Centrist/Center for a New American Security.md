@@ -39,8 +39,8 @@ CNAS discloses its donors publicly, but not individual amounts. The Center for I
 
 ### Defense contractor funding (2019-2023):
 - **Total defense contractor funding:** $6.67M
-- **Northrop Grumman** — largest single defense donor
-- **Lockheed Martin**
+- **[[Northrop Grumman]]** — largest single defense donor
+- **[[Lockheed Martin]]**
 - **RTX (Raytheon)**
 - Additional defense firms among the 29 documented
 

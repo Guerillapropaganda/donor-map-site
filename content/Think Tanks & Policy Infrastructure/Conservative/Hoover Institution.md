@@ -83,7 +83,7 @@ Hoover's funding model combines a large endowment with aggressive private fundra
 | **Koret Foundation** | Foundation | Major ongoing funder | Koret Task Force on K-12 Education; Koret-Taube Task Force on National Security |
 | **Sarah Scaife Foundation** | Foundation | $750K in Herbert Hoover's lifetime; ongoing | Richard Mellon Scaife was the largest single donor in Hoover's founding era |
 | **Lynde & Harry Bradley Foundation** | Foundation | ~$1.3M since 2009 | Also funds Heritage, AEI, Manhattan Institute |
-| **Walton Family Foundation** | Foundation | ~$1.4M since 2009 | Education policy (school choice, vouchers) |
+| **[[Walton Family Foundation]]** | Foundation | ~$1.4M since 2009 | Education policy (school choice, vouchers) |
 | **Howard Charitable Foundation** | Foundation | ~$500K annually | Major recurring donor |
 | **William E. Simon Foundation** | Foundation | Ongoing | Free-market economics |
 | **Annenberg Foundation** | Foundation | $10M (2014 grant) | Established "Annenberg Strategic Initiative" endowment |
@@ -96,8 +96,8 @@ Hoover's funding model combines a large endowment with aggressive private fundra
 
 The Board of Overseers is Hoover's governing body, independent of Stanford's Board of Trustees. It reads as a who's-who of conservative wealth and political power. Key members include:
 
-- **Harlan Crow** — Dallas real estate billionaire, infamous for unreported gifts to Justice Clarence Thomas (travel, property, tuition for Thomas's great-nephew). Also on the board of AEI.
-- **Rebekah Mercer** — Co-heir to Renaissance Technologies fortune, major funder of Breitbart News, former Trump transition team, Cambridge Analytica investor.
+- **[[Harlan Crow]]** — Dallas real estate billionaire, infamous for unreported gifts to Justice Clarence Thomas (travel, property, tuition for Thomas's great-nephew). Also on the board of AEI.
+- **[[Rebekah Mercer]]** — Co-heir to Renaissance Technologies fortune, major funder of Breitbart News, former Trump transition team, Cambridge Analytica investor.
 - **K. Rupert Murdoch** — Fox News/News Corp patriarch. Media empire that amplifies Hoover fellows' policy positions.
 - **Margaret Hoover** — Great-great-granddaughter of Herbert Hoover, CNN host, moderate Republican media figure.
 - **Ross Perot Jr.** — Billionaire real estate developer, son of Ross Perot.

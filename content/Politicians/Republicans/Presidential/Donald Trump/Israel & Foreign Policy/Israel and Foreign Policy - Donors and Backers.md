@@ -56,7 +56,7 @@ Maps the donor network shaping Trump's Israel and Middle East foreign policy. Th
 
 ### The Kushner Loop. Foreign Policy as Family Business
 > [!money]
-> **Jared Kushner** led Middle East policy as senior advisor. After leaving office he founded Affinity Partners. The Saudi Public Investment Fund committed $2 billion despite the fund's own screening committee flagging concerns about the firm's lack of track record ([NYT](https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html), Tier 2). This is the most direct personal enrichment pipeline in the administration's foreign policy record. Senior advisor shapes $110 billion arms deal and Saudi relationship. Defends Saudi government after journalist murder. Leaves office. Receives $2 billion from Saudi sovereign wealth fund. The two year gap between the policy and the payday is the only distinction from an explicit transaction.
+> **[[Jared Kushner]]** led Middle East policy as senior advisor. After leaving office he founded Affinity Partners. The Saudi Public Investment Fund committed $2 billion despite the fund's own screening committee flagging concerns about the firm's lack of track record ([NYT](https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html), Tier 2). This is the most direct personal enrichment pipeline in the administration's foreign policy record. Senior advisor shapes $110 billion arms deal and Saudi relationship. Defends Saudi government after journalist murder. Leaves office. Receives $2 billion from Saudi sovereign wealth fund. The two year gap between the policy and the payday is the only distinction from an explicit transaction.
 
 ---
 

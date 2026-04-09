@@ -86,7 +86,7 @@ content-readiness:: developed
 
 ---
 
-### Sector 4. Pharmaceutical Industry — Blocking Drug Pricing From Both Directions
+### Sector 4. [[Pharmaceutical Industry]] — Blocking Drug Pricing From Both Directions
 
 **Schumer.** The Inflation Reduction Act (2022) included the first-ever Medicare drug price negotiation authority — a genuine win that required real legislative skill. But Schumer negotiated the final bill through Joe Manchin, and the negotiation provisions were constrained: 10 drugs in the first year rather than comprehensive negotiation, delayed implementation timelines, and exemptions that preserve pharma profit margins on the vast majority of products. Drug companies estimated the compromise preserved $200B+ in revenues compared to the original proposal. The negotiation produced real reform with structural limits calibrated precisely to the point where pharma's tolerance ended.
 
@@ -98,7 +98,7 @@ content-readiness:: developed
 
 ---
 
-### Sector 5. Defense Contractors — The NDAA Never Fails
+### Sector 5. [[Defense Contractors]] — The NDAA Never Fails
 
 **Schumer.** Secured $575M+ in federal funds for Lockheed Martin's Owego, New York plant across multiple defense appropriations cycles — announcing the awards as constituent wins for Southern Tier jobs. Championed $400M–$468M for Combat Rescue Helicopter and Marine One programs built at the Owego facility. Voted for every National Defense Authorization Act in his Senate career. Supports defense appropriations as part of the Senate Appropriations process. The New York Democratic Senate leader's defense posture is indistinguishable from the Kentucky Republican leader's on aggregate spending levels.
 

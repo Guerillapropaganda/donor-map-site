@@ -157,9 +157,9 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Budget/Appropriations** → Funds **Jeff Merkley** → Sits on **Budget**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Immigration** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Budget/Appropriations** → Funds **[[Jeff Merkley]]** → Sits on **Budget**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[Mike Lee]]** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Immigration** → Funds **[[Mike Lee]]** → Sits on **Antitrust (Judiciary)**
 
 **Funded politicians:**
 

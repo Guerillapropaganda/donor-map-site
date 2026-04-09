@@ -89,7 +89,7 @@ Levin's content serves several overlapping donor-class functions:
 
 **Constitutional originalism as economic policy.** Levin's bestselling books (*Liberty and Tyranny*, *The Liberty Amendments*, *Plunder and Deceit*) frame conservative economic positions — deregulation, limited government, anti-union, anti-entitlement — as constitutional principles rather than policy preferences. This converts the donor class's preferred outcomes into founding-document authority. When Koch wants deregulation, Levin delivers it as the Founders' intent.
 
-**Anti-administrative-state ideology.** Levin's sustained attack on the "administrative state" — federal agencies like the EPA, IRS, and DOJ — directly serves donors whose businesses face regulatory oversight. The Landmark Legal Foundation's EPA FOIA battles and Levin's radio rhetoric are two delivery mechanisms for the same deregulatory agenda. Koch Industries, ExxonMobil, and the Scaife fossil fuel interests all benefit when the regulatory state is delegitimized.
+**Anti-administrative-state ideology.** Levin's sustained attack on the "administrative state" — federal agencies like the EPA, IRS, and DOJ — directly serves donors whose businesses face regulatory oversight. The Landmark Legal Foundation's EPA FOIA battles and Levin's radio rhetoric are two delivery mechanisms for the same deregulatory agenda. [[Koch Industries]], ExxonMobil, and the Scaife fossil fuel interests all benefit when the regulatory state is delegitimized.
 
 **Hawkish pro-Israel foreign policy.** Levin is described as a neoconservative known for staunch Israel support. This aligns with the broader right-wing media ecosystem's Israel positioning and connects to the Israel lobby donor network documented in the main vault.
 

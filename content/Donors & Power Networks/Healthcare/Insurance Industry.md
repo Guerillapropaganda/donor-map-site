@@ -165,7 +165,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 
 ### Enemies / Opposition
 
-- **Medicare for All advocates:** Sen. Bernie Sanders, Rep. Pramila Jayapal, Progressive Caucus — the industry's primary political opponents
+- **Medicare for All advocates:** Sen. [[Bernie Sanders]], Rep. [[Pramila Jayapal]], Progressive Caucus — the industry's primary political opponents
 - **Public option supporters:** Moderate Democrats who support a government insurance option that would compete with private plans
 - **State-level public option campaigns:** Connecticut, Washington, Colorado, and other states have attempted public option legislation; the industry has defeated or weakened most attempts
 - **Healthcare consumer advocates:** Families USA, National Nurses United, Physicians for a National Health Program

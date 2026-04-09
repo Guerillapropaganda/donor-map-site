@@ -82,7 +82,7 @@ This is not a donor purchasing policy from a politician. This is a donor class a
 — January 23, 2025: "Strengthening American Leadership in Digital Financial Technology" — pro-crypto framework directive.
 — CBDC ban — prohibited the U.S. from creating a Central Bank Digital Currency. Affirmed support for private stablecoins instead.
 — March 6, 2025: Strategic Bitcoin Reserve established. Treasury ordered to maintain custody of 207,000+ Bitcoin (~$17B). Separate stockpile for Ethereum, XRP, Solana, Cardano.
-[Source: White House — Tier 1; Holland & Knight — Tier 2]
+[Source: White House — Tier 1; [[Holland & Knight]] — Tier 2]
 
 ### Congressional results — Fairshake's ROI:
 > [!money]

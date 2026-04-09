@@ -28,7 +28,7 @@ Texas's 2026 Senate seat is a **Republican defense** — but with unusual primar
 On the Democratic side, **James Talarico** (State Rep, D-Austin) won the Democratic primary with 47% of the vote against U.S. Rep. Jasmine Crockett and Ahmad Hassan on March 3, 2026.
 
 ### Republican Primary Runoff (May 26, 2026):
-- **John Cornyn** (incumbent) — four-term senator, party-aligned, McConnell ally
+- **[[John Cornyn]]** (incumbent) — four-term senator, party-aligned, McConnell ally
 - **Ken Paxton** — Trump-aligned, indicted on securities fraud charges (trial ongoing), hard-right positioning
 
 ### Democratic Nominee:

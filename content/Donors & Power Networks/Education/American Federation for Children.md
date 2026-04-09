@@ -79,7 +79,7 @@ AFC is a 501(c)(4) dark money organization — it does not disclose its donors. 
 | 2024-01-01 | Vahan Gureghian contributes to AFC Action Fund | $100K | SourceWatch |
 | 2024-01-01 | Jim Walton contributes to Arizona AFC operations | $100K | Reporting |
 
-Jeff Yass — the Pennsylvania billionaire who has spent $23+ million on federal school privatization PACs since 2021 — is now AFC's second-largest identified financial backer after the DeVos family. The convergence of DeVos (education ideology), Yass (libertarian finance), Koch (deregulation infrastructure), and Walton (charter school empire) represents the school privatization movement's funding coalition.
+[[Jeff Yass]] — the Pennsylvania billionaire who has spent $23+ million on federal school privatization PACs since 2021 — is now AFC's second-largest identified financial backer after the DeVos family. The convergence of DeVos (education ideology), Yass (libertarian finance), Koch (deregulation infrastructure), and Walton (charter school empire) represents the school privatization movement's funding coalition.
 
 > [!money]
 > AFC Victory Fund raised $10.6 million as of early 2024 — $7 million from Jeff Yass alone. The return: universal voucher programs in 15 states redirecting an estimated $4 billion per year from public schools to private institutions. In the 2022 cycle, AFC-backed candidates won 277 of 368 races (75% win rate) and defeated 40 incumbents. In Texas 2024, AFC spent $4+ million targeting 15 Republican incumbents who opposed vouchers. The cost per converted state legislator is a fraction of the annual funding redirected from public schools.

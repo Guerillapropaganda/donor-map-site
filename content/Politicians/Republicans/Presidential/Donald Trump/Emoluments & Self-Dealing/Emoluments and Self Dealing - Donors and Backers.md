@@ -70,7 +70,7 @@ The merchandise strategy targets the donor-base directly: supporters extract mon
 
 Days before Trump took office in January 2025, he and his family launched the official $TRUMP meme coin. Launched at $10 per token, it surged to $70 within days. According to Chainalysis (a blockchain analysis platform), Trump's family and associated entities earned more than $350 million in trading fees from the coin alone within months.
 
-The timing was unprecedented: a sitting president launching personal cryptocurrency while holding the power to regulate the industry. David Sacks, Trump's crypto czar, held cryptocurrency assets while shaping regulatory policy that directly benefited his portfolio.
+The timing was unprecedented: a sitting president launching personal cryptocurrency while holding the power to regulate the industry. [[David Sacks]], Trump's crypto czar, held cryptocurrency assets while shaping regulatory policy that directly benefited his portfolio.
 
 The coin operated as immediate extraction: create currency, drive pump, cash out, let market collapse. The $TRUMP coin provided liquidity directly before market correction.
 

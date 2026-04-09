@@ -21,7 +21,7 @@ donors:: Stephens Inc · Mountaire Corp · Arvest Bank · Walmart · Walton Fami
 
 ### The Race
 
-Tom Cotton, Republican incumbent, is running for his third term in a heavily Republican state. The primary phase is complete: Cotton won with 81.6% of the Republican primary vote, while Democrat Hallie Shoffner, a working farmer, won her primary with 78.3%. The general election is scheduled for November 3, 2026.
+[[Tom Cotton]], Republican incumbent, is running for his third term in a heavily Republican state. The primary phase is complete: Cotton won with 81.6% of the Republican primary vote, while Democrat Hallie Shoffner, a working farmer, won her primary with 78.3%. The general election is scheduled for November 3, 2026.
 
 This is a decidedly safe Republican seat. A GrayHouse poll from February 2026 showed Cotton leading 58% to Shoffner's 36%. Democrats have not won a Senate race in Arkansas since 2008, and the political fundamentals strongly favor Cotton's reelection.
 

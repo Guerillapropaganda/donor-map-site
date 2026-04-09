@@ -80,7 +80,7 @@ Dark money conduits — DonorsTrust and Donors Capital Fund — are specifically
 
 #### Koch Network
 
-Koch Industries — the second-largest privately held company in America, with core businesses in oil refining (Flint Hills Resources), chemicals (Invista), paper (Georgia-Pacific), and pipeline infrastructure — has funded Heritage through multiple vehicles since at least 1998:
+[[Koch Industries]] — the second-largest privately held company in America, with core businesses in oil refining (Flint Hills Resources), chemicals (Invista), paper (Georgia-Pacific), and pipeline infrastructure — has funded Heritage through multiple vehicles since at least 1998:
 
 | Source | Amount | Period |
 |--------|--------|--------|
@@ -100,7 +100,7 @@ Beyond direct Heritage funding, Koch's David Koch-linked foundations gave more t
 
 **Pharmaceutical companies (2006)**: Pfizer, Johnson & Johnson, GlaxoSmithKline, Novartis, and Bristol-Myers Squibb Foundation each gave over $100,000. PhRMA gave Heritage Action $37,500 in 2018 and Heritage Foundation $212,500 in 2018–2019 while Heritage opposed pharmaceutical price controls.
 
-**Lockheed Martin**: $341,000 through at least 2008, with Heritage officials meeting with Lockheed executives "on nearly a monthly basis" in 2008–2009 and publishing reports supporting the F-22 Raptor after the Pentagon recommended cutting it.
+**[[Lockheed Martin]]**: $341,000 through at least 2008, with Heritage officials meeting with Lockheed executives "on nearly a monthly basis" in 2008–2009 and publishing reports supporting the F-22 Raptor after the Pentagon recommended cutting it.
 
 **Shell USA Company Foundation**: Documented donor to Heritage and other Project 2025 advisory organizations, per DeSmog's 2024 investigation of fossil fuel philanthropy.
 
@@ -247,9 +247,9 @@ Heritage's policy pipeline has five stages:
 
 | Financial Entity | Heritage Connection | Privatization Benefit |
 |-----------------|--------------------|-----------------------|
-| **Fidelity Investments** | $6.3M to Heritage (2017–2022) | Largest 401(k) manager in U.S.; primary beneficiary of SS private accounts |
+| **[[Fidelity Investments]]** | $6.3M to Heritage (2017–2022) | Largest 401(k) manager in U.S.; primary beneficiary of SS private accounts |
 | **Vanguard** | Vanguard Charitable donated 2022–2023 | Manages ~$8 trillion AUM; index fund structure ideal for SS mandates |
-| **Charles Schwab** | Schwab Charitable donated 2022–2023 | Major retirement account custodian |
+| **[[Charles Schwab]]** | Schwab Charitable donated 2022–2023 | Major retirement account custodian |
 | **BlackRock** | CEO advocated SS private accounts (March 2025) | World's largest asset manager ($10+ trillion AUM) |
 | **Mercer Family** | Rebekah Mercer is Heritage trustee | Hedge fund industry benefits; carried interest preserved in TCJA |
 
@@ -291,7 +291,7 @@ The libertarian Cato Institute reviewed Heritage's 2022 road map and concluded: 
 
 ### Heritage Action for America
 
-Heritage Action for America (EIN: 27-2244700) is Heritage's 501(c)(4) advocacy and lobbying arm, founded April 2010. It translates Heritage policy research into legislative scorecards that create primary-election pressure on Members of Congress and controls the **Sentinel Action Fund** — a Super PAC set up in 2022 that spent $13 million on voter outreach in the 2022 midterms to elect conservative House and Senate candidates.
+Heritage Action for America (EIN: 27-2244700) is Heritage's 501(c)(4) advocacy and lobbying arm, founded April 2010. It translates Heritage policy research into legislative scorecards that create primary-election pressure on Members of Congress and controls the **[[Sentinel Action Fund]]** — a Super PAC set up in 2022 that spent $13 million on voter outreach in the 2022 midterms to elect conservative House and Senate candidates.
 
 Heritage Action's annual contributions have grown substantially:
 

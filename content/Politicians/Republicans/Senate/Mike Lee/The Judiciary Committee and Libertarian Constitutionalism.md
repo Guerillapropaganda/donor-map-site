@@ -31,7 +31,7 @@ The critical reveal: Lee's antitrust positions. When Amy Klobuchar advanced the 
 
 ### The Tech Industry Alignment
 
-Lee's Judiciary Committee seat gives him jurisdiction over antitrust enforcement — the primary regulatory threat to Big Tech. His libertarian philosophy aligns with tech industry preferences: skepticism of government regulation, opposition to antitrust expansion, and defense of market outcomes. Google, Apple, and Oracle employees and PACs contribute to Lee, and his antitrust positions reliably serve their interests.
+Lee's Judiciary Committee seat gives him jurisdiction over antitrust enforcement — the primary regulatory threat to Big Tech. His libertarian philosophy aligns with tech industry preferences: skepticism of government regulation, opposition to antitrust expansion, and defense of market outcomes. [[Google]], Apple, and Oracle employees and PACs contribute to Lee, and his antitrust positions reliably serve their interests.
 
 The alignment between libertarian constitutionalism and tech industry preferences is not coincidental: both oppose government intervention in market structures. Lee's philosophy provides the intellectual framework; tech money provides the campaign funding.
 

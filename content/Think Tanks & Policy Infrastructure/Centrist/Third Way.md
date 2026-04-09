@@ -174,7 +174,7 @@ Third Way's Wall Street funders receive a specific, measurable return: the syste
 
 Third Way is the clearest example in this vault of **idea laundering by the donor class within the Democratic Party**. Its structural function is not to produce policy but to establish and enforce the boundaries of acceptable Democratic economic discourse — boundaries set by its Wall Street board of trustees.
 
-The organization's 501(c)(4) tax status is structurally essential: it allows donor anonymity. Goldman Sachs, PhRMA, and energy utilities can fund an organization that attacks progressive Democratic proposals without their names appearing on the checks. This is precisely the dark money structure that Democrats campaign against — deployed in service of corporate Democratic centrism.
+The organization's 501(c)(4) tax status is structurally essential: it allows donor anonymity. [[Goldman Sachs]], PhRMA, and energy utilities can fund an organization that attacks progressive Democratic proposals without their names appearing on the checks. This is precisely the dark money structure that Democrats campaign against — deployed in service of corporate Democratic centrism.
 
 The "centrist" label is itself the product being sold. Third Way manufactures the appearance of a moderate Democratic consensus that happens to align perfectly with Wall Street preferences: no single-payer healthcare (preserves insurance industry profits), no Green New Deal (preserves fossil fuel/utility business models), "entitlement reform" (opens retirement savings to Wall Street management fees), and opposition to progressive candidates (preserves the donor class's preferred personnel in government).
 

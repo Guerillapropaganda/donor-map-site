@@ -64,7 +64,7 @@ The Lynde and Harry Bradley Foundation. One of the largest and most influential 
 
 By end of 2022: **$991.9 million in net assets**. Total giving in 2023: **$52.6 million**. Since 1985: **$1.3 billion in cumulative grants**. The split is roughly 70% national, 30% Wisconsin-based — the national portion funds the intellectual and legal architecture of the modern conservative movement; the Wisconsin portion is the laboratory where that architecture is tested.
 
-Bradley operates through two vehicles: the **Bradley Foundation** itself (501(c)(3), $987M assets) and the **Bradley Impact Fund** (a donor-advised fund with $114.2M in assets as of 2022), which provides conservative donors a vehicle to contribute anonymously while directing grants to Bradley-approved recipients. Diane Hendricks — Wisconsin billionaire and major GOP megadonor — is a documented Bradley Impact Fund donor.
+Bradley operates through two vehicles: the **Bradley Foundation** itself (501(c)(3), $987M assets) and the **[[Bradley Impact Fund]]** (a donor-advised fund with $114.2M in assets as of 2022), which provides conservative donors a vehicle to contribute anonymously while directing grants to Bradley-approved recipients. Diane Hendricks — Wisconsin billionaire and major GOP megadonor — is a documented Bradley Impact Fund donor.
 
 The foundation's current president is Richard Graber. Gabe Conger, who heads the Bradley Impact Fund, served nearly seven years at the Heritage Foundation before joining Bradley in 2018. Under Conger, the Impact Fund dramatically expanded its grants to Project 2025 organizations.
 

@@ -147,8 +147,8 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: single-paye
 
 ### Politician Placeholders Surfaced
 
-> **Anthony Rendon** — Assembly Speaker who killed SB 562. $101K+ pharma, $50K+ insurance. Now California State Senate.
-> **Buffy Wicks** — Appropriations chair who killed AB 2200. $500K+ from Govern for California PAC (charter school/anti-tax money), healthcare PAC funding.
+> **[[Anthony Rendon]]** — Assembly Speaker who killed SB 562. $101K+ pharma, $50K+ insurance. Now California State Senate.
+> **[[Buffy Wicks]]** — Appropriations chair who killed AB 2200. $500K+ from Govern for California PAC (charter school/anti-tax money), healthcare PAC funding.
 
 ---
 

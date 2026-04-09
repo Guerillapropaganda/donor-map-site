@@ -25,7 +25,7 @@ content-readiness:: ready
 ### The Ramaswamy 32 Days. DOGE Co-Lead to Ohio Governor Candidate
 
 > [!money]
-> **Vivek Ramaswamy** was announced as DOGE co-lead on November 12, 2024. He departed on January 20, 2025. 32 days. In that time he made no concrete policy decisions, oversaw no agency restructuring, and produced no efficiency proposals that were implemented. On February 24, 2025 he announced his candidacy for Ohio governor. The DOGE appointment was a resume line. A 32 day audition for the next campaign.
+> **[[Vivek Ramaswamy]]** was announced as DOGE co-lead on November 12, 2024. He departed on January 20, 2025. 32 days. In that time he made no concrete policy decisions, oversaw no agency restructuring, and produced no efficiency proposals that were implemented. On February 24, 2025 he announced his candidacy for Ohio governor. The DOGE appointment was a resume line. A 32 day audition for the next campaign.
 
 ---
 

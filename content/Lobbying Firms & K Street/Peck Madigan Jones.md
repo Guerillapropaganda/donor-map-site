@@ -50,8 +50,8 @@ Tiber Creek Group's 2025 client roster of 120 entities is overwhelmingly concent
 - **Airbus Group** — $240,000 (via Airbus Americas, air transport)
 
 #### Finance & Investment
-- **Apollo Global Management** — $240,000 (private equity)
-- **Bank of America** — $240,000 (commercial banking)
+- **[[Apollo Global Management]]** — $240,000 (private equity)
+- **[[Bank of America]]** — $240,000 (commercial banking)
 
 #### Energy
 - **Bloom Energy** — $240,000 (renewable energy/fuel cells)

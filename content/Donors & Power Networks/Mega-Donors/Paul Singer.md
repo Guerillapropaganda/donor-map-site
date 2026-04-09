@@ -240,7 +240,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
+- Lobbies on **Defense** → Funds **[[Mike Rogers]]** → Sits on **Armed Services**
 
 **Funded politicians:**
 

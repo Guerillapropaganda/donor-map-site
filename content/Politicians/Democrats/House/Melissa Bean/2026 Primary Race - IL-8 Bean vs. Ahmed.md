@@ -31,7 +31,7 @@ The race served as the test run for an emerging tri-coalition model: pro-Israel 
 
 ### The Candidates
 
-**Melissa Bean** — Returned to politics after 15-year absence (last served 2005–2011). Post-Congress career: Executives Club of Chicago CEO, JPMorgan Chase Vice Chairman of the Midwest, Mesirow Wealth Advisors CEO ($29.7B AUM). Blue Dog Democrat, New Democrat Coalition member. No recent legislative record for voters to evaluate — a structural asset for donor projection. Member of the Financial Services and Small Business committees in her prior stint.
+**[[Melissa Bean]]** — Returned to politics after 15-year absence (last served 2005–2011). Post-Congress career: Executives Club of Chicago CEO, JPMorgan Chase Vice Chairman of the Midwest, Mesirow Wealth Advisors CEO ($29.7B AUM). Blue Dog Democrat, New Democrat Coalition member. No recent legislative record for voters to evaluate — a structural asset for donor projection. Member of the Financial Services and Small Business committees in her prior stint.
 
 **Junaid Ahmed** — South Barrington tech entrepreneur, progressive challenger. Ahmed was characterized as a potential Palestinian-American first for Congress and ran on a platform critical of U.S. Israel policy. His candidacy was the specific target of the Elect Chicago Women/AIPAC operation. See [[Elect Chicago Women Shell PAC Operation]] for the full anti-Ahmed strategy.
 

@@ -214,9 +214,9 @@ content-readiness:: ready
 
 **Donate → Lobby → Committee chains:**
 
-- **Everytown for Gun Safety** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
-- **Silicon Valley Democratic Donor Network** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
-- **Silicon Valley Democratic Donor Network** donates → Lobbies on **Defense** → This member sits on **Appropriations**
+- **[[Everytown for Gun Safety]]** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **[[Silicon Valley Democratic Donor Network]]** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **[[Silicon Valley Democratic Donor Network]]** donates → Lobbies on **Defense** → This member sits on **Appropriations**
 
 **Donors who lobby (by spend):**
 

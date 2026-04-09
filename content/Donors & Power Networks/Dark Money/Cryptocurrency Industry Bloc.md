@@ -118,7 +118,7 @@ Fairshake represents the maturation of Citizens United politics: an entire indus
 
 The 53-5 win record proves the model works. It demonstrated a critical threshold: **the cost of opposing crypto now exceeds the benefit of incumbent safety.** Legislators learned that voting against crypto means facing multi-million-dollar attack campaigns in their next primary or general election. This is not lobbying — it is an enforcement mechanism. The money doesn't persuade; it threatens.
 
-Katie Porter, Sherrod Brown, Jamaal Bowman, and Cori Bush all lost races where Fairshake spent millions in opposition advertising. The message to surviving legislators is clear: the cost of crypto opposition is career-ending. This structural fear is more powerful than any lobbying argument.
+[[Katie Porter]], Sherrod Brown, Jamaal Bowman, and Cori Bush all lost races where Fairshake spent millions in opposition advertising. The message to surviving legislators is clear: the cost of crypto opposition is career-ending. This structural fear is more powerful than any lobbying argument.
 
 ### The Replication Effect:
 

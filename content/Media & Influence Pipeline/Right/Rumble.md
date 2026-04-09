@@ -27,7 +27,7 @@ What distinguishes Rumble from other video platforms is not its reach but its ar
 
 Rumble's capital structure maps the political economy it serves.
 
-**SPAC public listing (September 2022):** Rumble went public via reverse merger with CF Acquisition Corp. VI (CFVI), sponsored by Cantor Fitzgerald investment bank. Howard Lutnick, then-CEO of Cantor Fitzgerald, chaired the SPAC. The merger valued Rumble at $2.1 billion, with approximately $400 million in gross proceeds and $300 million in SPAC trust cash. Cantor Fitzgerald's structure meant Lutnick and his firm received founder's shares at essentially zero cost—the financial incentive to complete the deal regardless of fundamentals. After his SPAC role, Lutnick was appointed Trump's Secretary of Commerce.
+**SPAC public listing (September 2022):** Rumble went public via reverse merger with CF Acquisition Corp. VI (CFVI), sponsored by Cantor Fitzgerald investment bank. [[Howard Lutnick]], then-CEO of Cantor Fitzgerald, chaired the SPAC. The merger valued Rumble at $2.1 billion, with approximately $400 million in gross proceeds and $300 million in SPAC trust cash. Cantor Fitzgerald's structure meant Lutnick and his firm received founder's shares at essentially zero cost—the financial incentive to complete the deal regardless of fundamentals. After his SPAC role, Lutnick was appointed Trump's Secretary of Commerce.
 
 **Pre-SPAC venture capital (May 2021):** Before going public, Rumble received its primary institutional investment from Narya Capital (co-founded by JD Vance and backed by Peter Thiel, Eric Schmidt, Marc Andreessen), along with direct investment from Peter Thiel and Colt Ventures (Darren Blanton, Trump campaign advisor). This round valued Rumble at approximately $500 million—a valuation more than quadrupled within a year. Narya placed board member Ethan Fallang on Rumble's board and held over 7 million shares at SPAC merger.
 
@@ -64,7 +64,7 @@ Note: Rumble is a Canadian-incorporated company (Delaware subsidiary). Its found
 - [[Dan Bongino]] — ~5.8% equity stake (~$160M valuation); exclusive podcast deal; Trump's Deputy FBI Director nominee
 
 ### Government Customers:
-- **Trump Media & Technology Group** — Rumble Cloud provides infrastructure for Truth Social
+- **[[Trump Media & Technology Group]]** — Rumble Cloud provides infrastructure for Truth Social
 - **Government of El Salvador** — Cloud services contract January 2025 (Nayib Bukele, Trump ally)
 - **White House** — Official channel established February 2025 (rumble.com/whitehouse)
 

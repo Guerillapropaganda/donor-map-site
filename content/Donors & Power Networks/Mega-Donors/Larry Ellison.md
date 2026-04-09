@@ -131,7 +131,7 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 | 2015 | Pentagon JEDI procurement announced | — | Oracle begins advocating for multi-vendor alternative | — |
 | 2020 | Trump reelection; Ellison 2020 fundraiser at Rancho Mirage estate | $500K+ | Trump support signaled; Ellison hosts six-figure donor events | — |
 | 2021 | JEDI contract canceled; JWCC multi-vendor approach adopted | — | Oracle lobbying success; positioned for JWCC awards | 1 year |
-| 2022 | Opportunity Matters Fund donations begin; Tim Scott $15M | $31M total | Tim Scott elevated as Republican presidential prospect; Oracle access secured | 1 year |
+| 2022 | Opportunity Matters Fund donations begin; [[Tim Scott]] $15M | $31M total | Tim Scott elevated as Republican presidential prospect; Oracle access secured | 1 year |
 | 2023 | Lanai Hawaii residency abandoned; Palm Beach estate purchase ($173M) | — | Strategic repositioning near Trump Mar-a-Lago; Florida residency established | — |
 | 2024 | JWCC task orders begin; Ellison meets Trump at Mar-a-Lago | — | Pentagon infrastructure work begins; Trump transition alignment begins | — |
 | 2026 | TikTok deal closes; Oracle controls US TikTok cloud/algorithm | $14B Oracle consortium | Regulatory capture complete; Ellison controls media recommendation infrastructure | 6 months |

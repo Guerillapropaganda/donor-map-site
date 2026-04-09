@@ -155,7 +155,7 @@ The April 1 discovery logged AIPAC's $22M Illinois spending as Gold. Today's fil
   - 12 hired allied lobbyists
   - 10 have business ties to Trump's private businesses
   - 9 made political contributions to Trump's campaign
-- **Pfizer** identified as top beneficiary: 3 DOJ enforcement actions canceled. AG Pam Bondi is a former Pfizer employee.
+- **[[Pfizer]]** identified as top beneficiary: 3 DOJ enforcement actions canceled. AG Pam Bondi is a former Pfizer employee.
 - Agency breakdown: 53 DOJ, 45 CFPB, 30 SEC, 11 FTC, 10 EEOC
 
 ### Why this escalates:

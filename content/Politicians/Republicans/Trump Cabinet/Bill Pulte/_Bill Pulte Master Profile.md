@@ -38,7 +38,7 @@ Pulte is a trust fund heir who leveraged inherited wealth into a political brand
 ### The Core Contradiction
 
 > [!contradiction]
-> Pulte built a public brand around generosity (Twitter philanthropy, giving away money to followers) while using his regulatory position to punish political opponents. The man who tweeted $100 bills to strangers now wields federal mortgage oversight as a weapon against Trump critics — referring New York AG Letitia James, Rep. Adam Schiff, Fed Governor Lisa Cook, and Rep. Eric Swalwell to the DOJ.
+> Pulte built a public brand around generosity (Twitter philanthropy, giving away money to followers) while using his regulatory position to punish political opponents. The man who tweeted $100 bills to strangers now wields federal mortgage oversight as a weapon against Trump critics — referring New York AG Letitia James, Rep. [[Adam Schiff]], Fed Governor Lisa Cook, and Rep. Eric Swalwell to the DOJ.
 
 ---
 

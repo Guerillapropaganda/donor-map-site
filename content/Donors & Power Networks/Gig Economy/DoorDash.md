@@ -90,7 +90,7 @@ Stanley Tang: No documented personal political donations found.
 
 **California lobbying:** Federal lobbying documented at $1.64M (2024) and $2.38M (2025). California state-level lobbying figures not separately itemized in available sources but DoorDash hired Sacramento lobbyists during the 2020 pandemic period. [Source: OpenSecrets — Tier 1]
 
-**Flex Association** — DoorDash is a co-founding member of the Flex Association (est. 2021), the post-Prop 22 trade association alongside Uber, Lyft, Grubhub, HopSkipDrive, Instacart, and Shipt. [Source: The Hill — Tier 2]
+**[[Flex Association]]** — DoorDash is a co-founding member of the Flex Association (est. 2021), the post-Prop 22 trade association alongside Uber, Lyft, Grubhub, HopSkipDrive, Instacart, and Shipt. [Source: The Hill — Tier 2]
 
 ---
 

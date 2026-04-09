@@ -76,7 +76,7 @@ From May 2014 to November 2017, InfoWars republished **over 1,000 articles from 
 ### Advertiser Relationships
 
 - Prior to 2018, major brands inadvertently had ads placed on Jones-adjacent YouTube channels through automated systems; when publicized, all withdrew (Nike, Moen, Expedia, Acer, ClassPass, Alibaba, OneFamily)
-- Following The Onion's November 2024 auction win (subsequently rejected by the bankruptcy judge), the satirical outlet committed to a "multi-year advertising partnership" with a planned relaunch of InfoWars, with **Everytown for Gun Safety** as exclusive advertiser
+- Following The Onion's November 2024 auction win (subsequently rejected by the bankruptcy judge), the satirical outlet committed to a "multi-year advertising partnership" with a planned relaunch of InfoWars, with **[[Everytown for Gun Safety]]** as exclusive advertiser
 
 ---
 

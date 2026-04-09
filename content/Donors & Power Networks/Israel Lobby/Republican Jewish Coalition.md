@@ -50,7 +50,7 @@ related: [[AIPAC - American Israel Public Affairs Committee]] [[Sheldon Adelson]
 
 The Republican Jewish Coalition (RJC) is a 501(c)(4) nonprofit and affiliated super PAC that functions as the primary pro-Israel advocacy and fundraising organization within Republican politics. Founded in 1985, it serves both as a mega-donor coordination hub and as direct political spender, operating super PAC mechanisms for unlimited campaign contributions.
 
-The RJC is historically associated with **Sheldon Adelson**, the Las Vegas casino billionaire who directed billionaire pro-Israel Republican giving until his death in 2021. Post-Adelson, the organization is led by **Miriam Adelson** (his widow) and maintains the same network of ultra-wealthy pro-Israel donors. RJC annual budget: $50M+ (election cycles); donor network: $500M+ coordinated pro-Israel Republican spending (including PACs, super PACs, and direct donations).
+The RJC is historically associated with **[[Sheldon Adelson]]**, the Las Vegas casino billionaire who directed billionaire pro-Israel Republican giving until his death in 2021. Post-Adelson, the organization is led by **[[Miriam Adelson]]** (his widow) and maintains the same network of ultra-wealthy pro-Israel donors. RJC annual budget: $50M+ (election cycles); donor network: $500M+ coordinated pro-Israel Republican spending (including PACs, super PACs, and direct donations).
 
 ---
 

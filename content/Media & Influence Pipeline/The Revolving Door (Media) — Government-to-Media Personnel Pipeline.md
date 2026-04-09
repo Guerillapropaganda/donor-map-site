@@ -114,11 +114,11 @@ The second Trump administration drew at least 23 former Fox News employees into 
 | Dan Bongino | Fox News Host/Podcaster; Rumble investor (5.7% stake) | Deputy Director, FBI (March–Dec 2025) | Millions | ~$203,700/year | Massive |
 | Tulsi Gabbard | Fox News Contributor (2022–2024) | Director of National Intelligence | $1.2M/year (media portfolio) | ~$246,400/year | -80% |
 
-**Pete Hegseth** disclosed $4.6 million in Fox News salary over two years (2023–2024), meaning roughly $2.3 million annually. As Defense Secretary, he earns $246,400 — managing an $850 billion budget while accepting a **~90% pay cut from media income alone**. He also earned $765,000 from speaking engagements ($10,000–$25,000 per event at Heritage Foundation, NRA, Turning Point USA) and $600,500 from book deals.
+**[[Pete Hegseth]]** disclosed $4.6 million in Fox News salary over two years (2023–2024), meaning roughly $2.3 million annually. As Defense Secretary, he earns $246,400 — managing an $850 billion budget while accepting a **~90% pay cut from media income alone**. He also earned $765,000 from speaking engagements ($10,000–$25,000 per event at Heritage Foundation, NRA, Turning Point USA) and $600,500 from book deals.
 
-**Dan Bongino** held a ~5.7% stake in Rumble worth approximately $160 million. His final podcast episode aired March 14, 2025; he assumed FBI office March 17. He left the FBI in January 2026, serving less than a year.
+**[[Dan Bongino]]** held a ~5.7% stake in Rumble worth approximately $160 million. His final podcast episode aired March 14, 2025; he assumed FBI office March 17. He left the FBI in January 2026, serving less than a year.
 
-**Tulsi Gabbard** reported $1.2 million in 2024 income from her MAGA media portfolio: $199,500 (Fox News), $119,500 (ACLJ), $373,872 (Tulsi Media LLC), $297,500 (book advance), and $170,130 in paid speaking fees. Her net worth was reported at $55–127 million.
+**[[Tulsi Gabbard]]** reported $1.2 million in 2024 income from her MAGA media portfolio: $199,500 (Fox News), $119,500 (ACLJ), $373,872 (Tulsi Media LLC), $297,500 (book advance), and $170,130 in paid speaking fees. Her net worth was reported at $55–127 million.
 
 > [!money]
 > The financial asymmetry reveals the underlying power structure. Government-to-media almost always produces massive pay increases (Psaki: 65x). Media-to-government under Trump produces massive pay cuts (Hegseth: -90%, Gabbard: -80%, Duffy: -56%). Yet media personalities still make the jump. Why? Because in the second Trump administration, proximity to power is worth more than salary.
@@ -266,9 +266,9 @@ RT America, the U.S. arm of Russian government-funded RT, ceased operations on M
 
 **Jesse Ventura** explicitly said he went to RT because no mainstream network would hire him after his defamation lawsuit against the Chris Kyle estate. RT provided his health insurance after he lost it through the Screen Actors Guild.
 
-**Chris Hedges** (Pulitzer Prize-winning former NYT correspondent) stated he went to RT because he was "blacklisted" from mainstream media over his opposition to U.S. imperialism and support for the BDS movement against Israel. After YouTube deleted his entire archive: "I vanished. In totalitarian systems you exist, then you don't."
+**[[Chris Hedges]]** (Pulitzer Prize-winning former NYT correspondent) stated he went to RT because he was "blacklisted" from mainstream media over his opposition to U.S. imperialism and support for the BDS movement against Israel. After YouTube deleted his entire archive: "I vanished. In totalitarian systems you exist, then you don't."
 
-**Lee Camp** hosted "Redacted Tonight" for 8 years and 375 episodes. He stated: "It's the only network in essentially all of American media where you can tackle anti-war, anti-imperialist, anti-capitalist issues."
+**[[Lee Camp]]** hosted "Redacted Tonight" for 8 years and 375 episodes. He stated: "It's the only network in essentially all of American media where you can tackle anti-war, anti-imperialist, anti-capitalist issues."
 
 > [!contradiction]
 > The RT America story exposes the functional boundary of acceptable dissent in American media. Mainstream outlets will hire government officials without cooling-off periods. They will hire think tank fellows without disclosing funding sources. But commentators who question U.S. imperialism or corporate capitalism? Those are "too controversial" for mainstream employment. RT became the safety valve — the employer of last resort for Americans whose politics didn't fit cable news orthodoxy. When RT shut down, those commentators' entire digital archives were deleted. Not just archived — deleted. The structural suppression was formalized.

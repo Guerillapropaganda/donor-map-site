@@ -194,7 +194,7 @@ If the Court strikes down individual contribution limits, the entire super PAC i
 **Pattern:** Both-Sides Illusion / Crossover
 
 Andreessen Horowitz (a16z) is now the single venture capital firm with the largest political footprint across multiple sector PACs:
-- **Fairshake PAC** (crypto): major funder, $191M+ war chest
+- **[[Fairshake PAC]]** (crypto): major funder, $191M+ war chest
 - **Leading the Future** (AI): founding donor, $125M raised
 - Both PACs spend bipartisanly — funding Democrats and Republicans
 - Marc Andreessen personally donated to MAGA Inc

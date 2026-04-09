@@ -182,7 +182,7 @@ content-readiness:: developed
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Budget/Appropriations** → Funds **Mario Diaz-Balart** → Sits on **Appropriations**
+- Lobbies on **Budget/Appropriations** → Funds **[[Mario Diaz-Balart]]** → Sits on **Appropriations**
 
 **Funded politicians:**
 

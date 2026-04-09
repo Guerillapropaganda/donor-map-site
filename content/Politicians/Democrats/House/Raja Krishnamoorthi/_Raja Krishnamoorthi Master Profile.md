@@ -43,7 +43,7 @@ SORT file.name ASC
 
 Representative Raja Krishnamoorthi (D-IL-08). Member of the House Oversight Committee and the Select Committee on the Chinese Communist Party. Krishnamoorthi is best known nationally for co-authoring the bipartisan TikTok ban legislation (the Protecting Americans from Foreign Adversary Controlled Applications Act) and for his work on the CCP Select Committee investigating Chinese economic competition and technology threats.
 
-Krishnamoorthi represents Illinois's 8th District (Chicago suburbs), one of the most educated and affluent districts in the Midwest. Before Congress, he worked as a special assistant in the Illinois Attorney General's office and as a tech entrepreneur. He ran for the U.S. Senate in 2026 to replace retiring Sen. Dick Durbin, raising $19 million — more than all his primary rivals combined — and spending $29 million on campaign ads. He lost the Democratic primary to Lt. Gov. Juliana Stratton on March 17, 2026, despite his massive fundraising advantage.
+Krishnamoorthi represents Illinois's 8th District (Chicago suburbs), one of the most educated and affluent districts in the Midwest. Before Congress, he worked as a special assistant in the Illinois Attorney General's office and as a tech entrepreneur. He ran for the U.S. Senate in 2026 to replace retiring Sen. [[Dick Durbin]], raising $19 million — more than all his primary rivals combined — and spending $29 million on campaign ads. He lost the Democratic primary to Lt. Gov. Juliana Stratton on March 17, 2026, despite his massive fundraising advantage.
 
 ---
 

@@ -103,7 +103,7 @@ CRA-PAC contributes to California legislators on both sides, with focus on labor
 > **The Referendum War Chest — $71.7 million:**
 > The "Save Local Restaurants" committee raised $71.7 million as of October 2023 to repeal AB 257. Top donors: Chipotle ($12.8M), In-N-Out ($12.8M), Chick-fil-A ($11.5M), McDonald's ($10M). The referendum was withdrawn on December 29, 2023 after the AB 1228 deal — $71.7 million spent not to win a vote but to negotiate from a position of strength. The $20/hr minimum wage was the concession; the removal of joint liability was the prize. [Source: Ballotpedia / CalMatters — Tier 1/2]
 
-**National Restaurant Association** (federal counterpart): $2.95 million in federal lobbying (2021). Coordinated with CRA on referendum campaign.
+**[[National Restaurant Association]]** (federal counterpart): $2.95 million in federal lobbying (2021). Coordinated with CRA on referendum campaign.
 
 **Research partially complete.** CRA Issues PAC spending documented ($167K 2024). Referendum spending documented ($71.7M). **Remaining:** CRA-PAC direct contributions to Newsom (Cal-Access pull), lobbyist registration/spending, individual chain PAC contributions at state level.
 

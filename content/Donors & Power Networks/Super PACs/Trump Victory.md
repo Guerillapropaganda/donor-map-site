@@ -105,7 +105,7 @@ For 2024, the Trump 47 Committee restructured the JFC allocation to prioritize T
 
 ### Allocation order (per donation):
 1. First $6,600 → Trump for President 2024 (federal max)
-2. Next $5,000 → **Save America PAC** (legal defense fund)
+2. Next $5,000 → **[[Save America PAC]]** (legal defense fund)
 3. Next $413,000 → RNC
 4. Remainder → State parties
 

@@ -173,11 +173,11 @@ content-readiness:: ready
 
 **Donate → Lobby → Committee chains:**
 
-- **Amazon** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
-- **Amazon** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
-- **Amazon** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
-- **Amazon** donates → Lobbies on **Immigration** → This member sits on **Antitrust (Judiciary)**
-- **Amazon** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
+- **[[Amazon]]** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **[[Amazon]]** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
+- **[[Amazon]]** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
+- **[[Amazon]]** donates → Lobbies on **Immigration** → This member sits on **Antitrust (Judiciary)**
+- **[[Amazon]]** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
 - **Apple** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 - **Apple** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
 - **Apple** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**

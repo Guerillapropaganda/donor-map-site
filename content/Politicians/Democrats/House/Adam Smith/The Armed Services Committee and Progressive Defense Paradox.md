@@ -33,7 +33,7 @@ Smith is one of the most progressive Armed Services chairs in modern history —
 Despite his progressive rhetoric, Smith's chairmanship produced NDAAs that increased defense spending in every year. The NDAA passed with bipartisan supermajorities as always, and defense contractor funding continued uninterrupted. Smith's progressive skepticism of defense spending was genuine; his ability to translate it into policy was zero.
 
 > [!contradiction]
-> Smith publicly said the defense budget was "too high" and questioned the "military-industrial complex." He then passed NDAAs that increased the defense budget every year of his chairmanship. Boeing — headquartered in his state and a top donor — received expanded contract authorizations. The progressive defense critique is real; the committee structure prevents it from affecting outcomes.
+> Smith publicly said the defense budget was "too high" and questioned the "military-industrial complex." He then passed NDAAs that increased the defense budget every year of his chairmanship. [[Boeing]] — headquartered in his state and a top donor — received expanded contract authorizations. The progressive defense critique is real; the committee structure prevents it from affecting outcomes.
 
 ---
 

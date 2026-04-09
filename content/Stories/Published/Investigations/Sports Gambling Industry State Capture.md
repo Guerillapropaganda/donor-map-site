@@ -33,7 +33,7 @@ This is the modern blueprint for rapid regulatory capture: Supreme Court opening
 Alabama provides the clearest case study of sports betting industry capture at the state level:
 
 ### The Dark Money Vehicle:
-- **SV&B PAC** (Sports Venues & Betting PAC) — Created January 2025, funded by Sports Betting Alliance
+- **[[SV&B PAC]]** (Sports Venues & Betting PAC) — Created January 2025, funded by Sports Betting Alliance
 - **Initial funding:** $1.25 million from Sports Betting Alliance (industry consortium)
 - **Distribution target:** 100+ Alabama state legislators
 

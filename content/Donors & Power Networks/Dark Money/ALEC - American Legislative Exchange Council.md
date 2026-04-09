@@ -117,7 +117,7 @@ ALEC does not make direct campaign contributions — its 501(c)(3) status prohib
 **3. Legislator Pipeline:** ALEC conferences provide networking, talking points, and model bills to state legislators who are often under-resourced. In many state legislatures, ALEC is the primary policy research operation available to Republican members. The organization functions as an outsourced legislative staff funded by corporations.
 
 ### Key corporate funders (known to have remained post-2012 exodus):
-Koch Industries, ExxonMobil, Altria (Philip Morris), AT&T, FedEx, State Farm, Pfizer, UPS, PhRMA
+[[Koch Industries]], ExxonMobil, Altria (Philip Morris), AT&T, FedEx, State Farm, Pfizer, UPS, PhRMA
 
 ### Key foundation funders:
 Lynde & Harry Bradley Foundation ($3.6M, 2019–2024), Koch-affiliated entities ($2.3M, 2019–2023), Donors Trust/Donors Capital Fund (amounts undisclosed), Sarah Scaife Foundation
@@ -190,7 +190,7 @@ ALEC began pushing right-to-work model legislation in 1979 and has successfully 
 | 2024 | Michigan | Michigan repeals RTW law | Koch network opposed repeal | Only state to reverse RTW; union-backed ballot initiative overrode legislature |
 
 > [!money] Right-to-Work as Union Demolition
-> ALEC model legislation undercuts union bargaining power by making union dues optional. In states with RTW laws, union membership and dues collection collapse, weakening organized labor's ability to bargain for wages, benefits, and working conditions. Koch Industries — a fierce union opponent and beneficiary of lower labor costs — has been the primary driver of this agenda through ALEC since 1979. The success is quantifiable: union membership has dropped dramatically in RTW states, with consequent wage suppression across the entire labor force.
+> ALEC model legislation undercuts union bargaining power by making union dues optional. In states with RTW laws, union membership and dues collection collapse, weakening organized labor's ability to bargain for wages, benefits, and working conditions. [[Koch Industries]] — a fierce union opponent and beneficiary of lower labor costs — has been the primary driver of this agenda through ALEC since 1979. The success is quantifiable: union membership has dropped dramatically in RTW states, with consequent wage suppression across the entire labor force.
 
 ---
 
@@ -439,7 +439,7 @@ IRS status as of latest reporting: complaint remained "open" but no public actio
 | 2025 | State pension systems (nationwide) | — | Anti-ESG bills block pension fund divestment from fossil fuels; oil/gas investments shielded from climate-conscious asset management | Active |
 
 > [!money] The Industrial-Scale Policy Return — Corporate Authorship at $15M/Year
-> ALEC's $10–15 million annual budget is the most capital-efficient political operation in American history. Corporate members pay $7,000–$50,000/year and receive model legislation drafted to their specifications, distributed simultaneously to state legislators in 50 state capitals. The returns are quantifiable at scale: right-to-work laws reduced union bargaining power in 27 states; mandatory sentencing laws filled private prisons for two decades; the Critical Infrastructure Protection Act criminalized pipeline protest within two years of drafting; grid stability bills are now starving renewables in 5+ states. The corporate authorship is invisible — when a state legislator introduces an ALEC model bill, the bill appears as the legislator's own work. Koch Industries, GEO Group, ExxonMobil, and PhRMA get their policy without their fingerprints. No individual corporation could achieve this through state-by-state lobbying. ALEC is the infrastructure that makes industrial-scale policy capture possible at a fraction of the cost.
+> ALEC's $10–15 million annual budget is the most capital-efficient political operation in American history. Corporate members pay $7,000–$50,000/year and receive model legislation drafted to their specifications, distributed simultaneously to state legislators in 50 state capitals. The returns are quantifiable at scale: right-to-work laws reduced union bargaining power in 27 states; mandatory sentencing laws filled private prisons for two decades; the Critical Infrastructure Protection Act criminalized pipeline protest within two years of drafting; grid stability bills are now starving renewables in 5+ states. The corporate authorship is invisible — when a state legislator introduces an ALEC model bill, the bill appears as the legislator's own work. [[Koch Industries]], GEO Group, ExxonMobil, and PhRMA get their policy without their fingerprints. No individual corporation could achieve this through state-by-state lobbying. ALEC is the infrastructure that makes industrial-scale policy capture possible at a fraction of the cost.
 
 ---
 

@@ -353,7 +353,7 @@ content-readiness:: developed
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Kennedy** → Sits on **Banking**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **[[John Kennedy]]** → Sits on **Banking**
 
 **Funded politicians:**
 

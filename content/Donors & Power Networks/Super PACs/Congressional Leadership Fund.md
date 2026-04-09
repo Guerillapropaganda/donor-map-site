@@ -234,7 +234,7 @@ content-readiness:: developed
 - FTX Recovery Trust v. Manifold Markets, Inc. (2024) — United States Bankruptcy Court, D. Delaware
 - FTX Recovery Trust v. Matthew Nass (2024) — United States Bankruptcy Court, D. Delaware
 - FTX Recovery Trust v. Prosperity Alliance, Inc. (2024) — United States Bankruptcy Court, D. Delaware
-- FTX Recovery Trust v. American Action Network, Inc. (2024) — United States Bankruptcy Court, D. Delaware
+- FTX Recovery Trust v. [[American Action Network]], Inc. (2024) — United States Bankruptcy Court, D. Delaware
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Congressional%20Leadership%20Fund%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->

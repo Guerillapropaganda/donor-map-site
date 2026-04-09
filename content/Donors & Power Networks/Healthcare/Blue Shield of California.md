@@ -214,11 +214,11 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Government Issues** → Funds **Gary Peters** → Sits on **Homeland Security**
-- Lobbies on **Government Issues** → Funds **Bennie Thompson** → Sits on **Homeland Security**
-- Lobbies on **Agriculture** → Funds **Glenn Thompson** → Sits on **Agriculture**
-- Lobbies on **Budget/Appropriations** → Funds **Pete Aguilar** → Sits on **Appropriations**
-- Lobbies on **Defense** → Funds **Pete Aguilar** → Sits on **Appropriations**
+- Lobbies on **Government Issues** → Funds **[[Gary Peters]]** → Sits on **Homeland Security**
+- Lobbies on **Government Issues** → Funds **[[Bennie Thompson]]** → Sits on **Homeland Security**
+- Lobbies on **Agriculture** → Funds **[[Glenn Thompson]]** → Sits on **Agriculture**
+- Lobbies on **Budget/Appropriations** → Funds **[[Pete Aguilar]]** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **[[Pete Aguilar]]** → Sits on **Appropriations**
 
 **Funded politicians:**
 

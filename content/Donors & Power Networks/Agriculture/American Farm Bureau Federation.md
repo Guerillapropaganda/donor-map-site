@@ -305,7 +305,7 @@ content-readiness:: ready
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Agriculture** → Funds **Jodey Arrington** → Sits on **Agriculture**
+- Lobbies on **Agriculture** → Funds **[[Jodey Arrington]]** → Sits on **Agriculture**
 - Lobbies on **Agriculture** → Funds **Frank Lucas** → Sits on **Agriculture**
 
 **Funded politicians:**

@@ -54,9 +54,9 @@ AIPAC's United Democracy Project became the dominant outside spender in Democrat
 
 Critically, nearly 46% of AIPAC donations to Democratic candidates came from donors who had given to Republican causes or candidates since 2020. Major UDP contributors included:
 
-- **Jan Koum** (WhatsApp co-founder) — $5 million
+- **[[Jan Koum]]** (WhatsApp co-founder) — $5 million
 - **Bernie Marcus** (Home Depot co-founder, Trump donor) — $1 million
-- **Paul Singer** (hedge fund billionaire, Nikki Haley donor) — $1 million
+- **[[Paul Singer]]** (hedge fund billionaire, Nikki Haley donor) — $1 million
 - **Bob Kraft** (New England Patriots owner) — $500,000 via LLC
 
 Republican money flowing through a Democratic-facing super PAC to influence Democratic primary outcomes is a structural feature of AIPAC's operation — not an anomaly. The "bipartisan" framing conceals a unidirectional interest: suppressing Palestine advocacy in the Democratic Party.

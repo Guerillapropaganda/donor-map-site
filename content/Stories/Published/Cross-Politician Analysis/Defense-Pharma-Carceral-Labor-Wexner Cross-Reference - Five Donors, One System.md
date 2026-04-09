@@ -133,7 +133,7 @@ GEO's subsidiary **BI Incorporated** holds the sole federal contract for the "Al
 ### Phase 4: The revolving door
 
 - **Tom Homan** (Trump's "Border Czar"): Disclosed consulting fees from GEO's subsidiary BI Incorporated before taking office
-- **Pam Bondi** (Attorney General): Lobbied for GEO Group at Ballard Partners for **$390,000** before becoming AG
+- **[[Pam Bondi]]** (Attorney General): Lobbied for GEO Group at Ballard Partners for **$390,000** before becoming AG
 - **Daniel Bible:** Left ICE Executive Associate Director role to become GEO Group EVP before the 2024 election
 - **Daniel Ragsdale:** Left ICE Chief Operating Officer to join GEO as EVP in 2017
 - **Matthew Albence:** Served at ICE before joining GEO in 2022
@@ -245,8 +245,8 @@ The Adelsons and Wexner moved through overlapping Jewish Republican donor circle
 | Entity | PAC Contributions (2024) | Total Contributions (2024, all sources) | Federal Lobbying (2024) | Party Lean |
 |---|---|---|---|---|
 | **RTX Corp** | $1,235,000 | $3,873,115 | $13,510,000 | 54% R / 46% D |
-| **PhRMA** | $299,776 | $1,092,620 | $31,720,000 | Shifting; 57% D 2024, historically R |
-| **GEO Group** | $467,000 + $3,556,200 corporate subs | $4,023,200 | $3,970,672 (fed + state) | 90%+ R |
+| **[[PhRMA]]** | $299,776 | $1,092,620 | $31,720,000 | Shifting; 57% D 2024, historically R |
+| **[[GEO Group]]** | $467,000 + $3,556,200 corporate subs | $4,023,200 | $3,970,672 (fed + state) | 90%+ R |
 | **UAW** | $785,800 | $6,201,734 | $672,000 | 99% D |
 | **Wexner** | Individual donor | ~$5.3M total (1990–2026) | N/A | Historically R; now bipartisan |
 
@@ -329,8 +329,8 @@ Wexner's $5.3M over 35 years generates returns through civic influence rather th
 
 | Entity | Approximate Spend | Identifiable Policy Return | ROI Multiple |
 |---|---|---|---|
-| **PhRMA** | $35M (lobbying + dark money) | $8B in reduced IRA drug savings | ~228x |
-| **GEO Group** | $5M combined (2024) | $45B ICE allocation + $1B+ contracts | ~9,200x |
+| **[[PhRMA]]** | $35M (lobbying + dark money) | $8B in reduced IRA drug savings | ~228x |
+| **[[GEO Group]]** | $5M combined (2024) | $45B ICE allocation + $1B+ contracts | ~9,200x |
 | **RTX Corp** | $17M (lobbying + contributions) | $858B+ NDAA; hundreds of billions in contracts | Diffuse but enormous |
 | **UAW** | $6.9M total | EV policy largely reversed; partial wins | <1x (net loss in 2025) |
 | **Wexner** | $50–100K annual (individual) | Local infrastructure; real estate externalities | Difficult to quantify |

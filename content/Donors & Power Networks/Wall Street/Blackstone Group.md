@@ -350,7 +350,7 @@ content-readiness:: developed
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **[[Mike Lee]]** → Sits on **Antitrust (Judiciary)**
 
 **Funded politicians:**
 

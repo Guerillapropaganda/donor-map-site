@@ -167,7 +167,7 @@ For IBEW members specifically: the Koch network funded the legal strategy that g
 | 1977 | Charles Koch co-founds Cato Institute | $30M+ over decades | Libertarian policy framework established | Ongoing | Intellectual infrastructure for deregulation agenda |
 | 1984–2010 | Koch foundations fund Mercatus Center at GMU | $48M (2011–2014 alone) | Mercatus produces regulatory cost analyses adopted by Republican administrations | Multi-decade | Academic legitimacy for anti-regulation agenda |
 | 2003 | First Koch Donor Summit | 15 donors | Strategy session and donor coordination established | Ongoing | Model replicated; by 2015, $249M pledged in single session |
-| 2009–2010 | AFP mobilizes Tea Party opposition; Koch Industries $1M to Yes on 23 (CA) | $45M+ AFP, $1M Prop 23 | 2010 midterm wave: 63 House seats flip; Prop 23 defeated in CA | 6–12 months | Tea Party wave guts Democratic supermajority; CA climate law survives |
+| 2009–2010 | AFP mobilizes Tea Party opposition; [[Koch Industries]] $1M to Yes on 23 (CA) | $45M+ AFP, $1M Prop 23 | 2010 midterm wave: 63 House seats flip; Prop 23 defeated in CA | 6–12 months | Tea Party wave guts Democratic supermajority; CA climate law survives |
 | 2010 | REDMAP — $30M invested in state races | $30M | Flipped 12 state legislatures; won 675 state seats | Immediate | Redistricting control locked in decade of gerrymandered maps |
 | 2012 | Freedom Partners gives $1M to National Right to Work Committee | $1M | Right-to-work passes in Michigan (2012), Wisconsin (2015), others | 1–3 years | Union membership declines in every state where right-to-work passes |
 | 2012–2018 | Koch-funded NRTW Legal Defense Foundation + Liberty Justice Center fund Janus litigation | Undisclosed (estimated $5M+) | *Janus v. AFSCME* decided 5–4 (June 2018) | 6 years | Public-sector union revenues collapse nationally; SEIU Local 1000 dues down 49% |
@@ -219,12 +219,12 @@ The Koch Network's financial structure begins with the **twice-yearly donor summ
 
 ### Key Network Donors
 
-The 2014 **Freedom Partners** FEC filing revealed the network's core mega-donor base:
+The 2014 **[[Freedom Partners]]** FEC filing revealed the network's core mega-donor base:
 
-- **Robert Mercer** (Renaissance Technologies): $2.5M to Freedom Partners (2014) — hedge fund billionaire; later major Trump benefactor
+- **[[Robert Mercer]]** (Renaissance Technologies): $2.5M to Freedom Partners (2014) — hedge fund billionaire; later major Trump benefactor
 - **DeVos family** (Amway heirs): $3M+ to AFP Foundation; Betsy DeVos became U.S. Education Secretary under Trump (2017–2021)
-- **Sheldon Adelson** (Las Vegas Sands Casino): Attended 2012 summit; major Trump donor; died January 2021
-- **Paul Singer** (Elliott Management hedge fund): Summit participant; major platform for Koch-aligned policy
+- **[[Sheldon Adelson]]** (Las Vegas Sands Casino): Attended 2012 summit; major Trump donor; died January 2021
+- **[[Paul Singer]]** (Elliott Management hedge fund): Summit participant; major platform for Koch-aligned policy
 - **Diane Hendricks** (ABC Supply): Major ongoing donor to Koch network and AFP
 - **Walton family** (Walmart heirs): Rob and Alice Walton combined $10M+ (2023); largest retail mega-donors outside Koch network
 
@@ -257,7 +257,7 @@ By 2014, Freedom Partners had begun transitioning to the [[Stand Together|Stand 
 
 ### DonorsTrust — The Anonymizing Architecture
 
-**DonorsTrust** (founded 1999, EIN 52-2166327) and **Donors Capital Fund** (EIN 54-1934032) operate the Koch Network's most sophisticated dark money mechanism: the **donor-advised fund (DAF)** structure.
+**DonorsTrust** (founded 1999, EIN 52-2166327) and **[[Donors Capital Fund]]** (EIN 54-1934032) operate the Koch Network's most sophisticated dark money mechanism: the **donor-advised fund (DAF)** structure.
 
 **How it works:** A donor makes an irrevocable gift to DonorsTrust (minimum $10K) or Donors Capital Fund (minimum $1M). The gift is immediately tax-deductible. DonorsTrust places the capital in a donor-advised fund bearing the donor's name — but the donor's name never appears in public filings. Instead, DonorsTrust makes grants to operational organizations on the donor's behalf. When the operational organization files its 990 tax form, it lists "DonorsTrust" as the source, not the original ultra-wealthy donor. Schedule B (the schedule listing restricted gifts) remains confidential.
 
@@ -276,7 +276,7 @@ By 2014, Freedom Partners had begun transitioning to the [[Stand Together|Stand 
 ### The 2021 Spike — Largest Dark Money Donation in History:
 In 2021, DonorsTrust received a **$425 million anonymous donation** — the single largest dark money gift in American political history (confirmed by Politico). The identity of the donor remains unknown to this day. The capital has since been distributed to a network of conservative and libertarian organizations.
 
-Additionally, billionaire **Barre Seid** (Heartland Payment Systems) separately gifted **$1.6 billion** to a Leonard Leo-controlled entity, creating a parallel dark money dynasty.
+Additionally, billionaire **[[Barre Seid]]** (Heartland Payment Systems) separately gifted **$1.6 billion** to a Leonard Leo-controlled entity, creating a parallel dark money dynasty.
 
 ### Top Recipients of DonorsTrust Grants (2014–2023):
 - State Policy Network: $70.5M
@@ -301,7 +301,7 @@ Additionally, billionaire **Barre Seid** (Heartland Payment Systems) separately 
 
 ### AFP — The Ground Army (Expanded)
 
-**Americans for Prosperity** has grown from a $3M startup (2004, 9 state chapters) into a $228M fiscal powerhouse (2024, 36 state chapters, 100+ permanent offices, 4 million claimed activists).
+**[[Americans for Prosperity]]** has grown from a $3M startup (2004, 9 state chapters) into a $228M fiscal powerhouse (2024, 36 state chapters, 100+ permanent offices, 4 million claimed activists).
 
 ### Revenue History:
 
@@ -386,7 +386,7 @@ The Koch Network has systematically funded climate denial and obstruction for fo
 
 ### Direct Recipients and Funding Amounts:
 
-1. **Heartland Institute** — Climate denial conference coordinator
+1. **[[Heartland Institute]]** — Climate denial conference coordinator
    - Received multiple millions from Koch foundations (direct grants)
    - Received **$14.5 million from DonorsTrust** (2002–2011)
    - Anonymous donor (suspected Koch-connected) gave **$8.6 million specifically for "Global Warming Projects"** (2007-2011) — in some years providing over 50% of Heartland's total revenue
@@ -414,7 +414,7 @@ The Koch Network has systematically funded climate denial and obstruction for fo
    - Thomas Pyle, IER president and **former Koch Industries Director of Federal Affairs** (lobbyist 2001-2005), led Trump's Department of Energy transition
    - IER and AEA actively oppose renewable energy standards nationally and provide testimony against wind/solar policies in multiple states
 
-5. **Cato Institute**
+5. **[[Cato Institute]]**
    - Co-founded by Charles Koch (1977)
    - Koch families funded "large portion of Cato's bills in its early years"
    - Charles Koch Foundation gave **$98,000 to Cato in 2017 alone**
@@ -429,11 +429,11 @@ The Koch Network has systematically funded climate denial and obstruction for fo
 
 | Organization | Koch Foundation Grants | Additional Funding | Total Track Period | Purpose |
 |---|---|---|---|---|
-| **Heartland Institute** | Multiple millions | $14.5M via DonorsTrust; $8.6M anonymous | 2002–2011+ | Climate denial conferences; tobacco industry playbook |
+| **[[Heartland Institute]]** | Multiple millions | $14.5M via DonorsTrust; $8.6M anonymous | 2002–2011+ | Climate denial conferences; tobacco industry playbook |
 | **Mercatus Center / GMU** | $179M (2005–2019) | Board control; faculty hiring input | Ongoing | "Research" legitimizing deregulation |
 | **CEI** | $361K (2014–2020 traceable) | Undisclosed direct payments; secret sponsorships | Ongoing | Policy advocacy; staff coordination with Koch network |
 | **IER / AEA** | $489K (2014–2020 traceable) | $1.2M from AFPM; federal energy transition role | 2004–present | Anti-renewable advocacy; state testimony campaigns |
-| **Cato Institute** | $98K (2017 alone) | Ongoing; early years heavily Koch-funded | 1977–present | Climate skepticism program; free-market research |
+| **[[Cato Institute]]** | $98K (2017 alone) | Ongoing; early years heavily Koch-funded | 1977–present | Climate skepticism program; free-market research |
 
 > [!contradiction] The Scientific Denial Model
 > Between 1986 and 2018, Koch network foundations donated $168.4 million to 90 organizations spreading climate denial. This is not a rounding error — it is the deliberate construction of an anti-scientific consensus infrastructure. The organizations that received Koch money (Heartland, Mercatus, CEI) employ similar tactics that tobacco companies used in the 1990s to deny secondhand smoke health effects: manufacture scientific doubt, publish "research" claiming regulation is unnecessary, and pressure politicians to oppose emissions controls. Koch's Heartland Institute explicitly worked with tobacco companies on these denial tactics in the 1990s. The climate denial operation is the same playbook, applied to carbon. The $168 million was the cost of manufacturing enough political obstruction to prevent U.S. carbon pricing for four decades — a regulatory protection worth billions annually to Koch Industries' fossil fuel operations.
@@ -468,7 +468,7 @@ The Koch Network's most sophisticated state-level operation is the **American Le
 - **Preemption of local minimum wage:** 25 states prohibited local wage increases above federal minimum
 - **Preemption of sick leave:** 16+ states prohibited local sick leave mandates
 
-**State Policy Network (SPN):** The Koch Network operates **State Policy Network**, a federation of 63 state-level think tanks plus 130 national partners. SPN serves as the intellectual and lobbying backbone for state-level deregulation.
+**State Policy Network (SPN):** The Koch Network operates **[[State Policy Network]]**, a federation of 63 state-level think tanks plus 130 national partners. SPN serves as the intellectual and lobbying backbone for state-level deregulation.
 
 ### Revenue Scale:
 - 2011: $83M
@@ -692,13 +692,13 @@ The joint employer rule change was particularly important to Koch-connected busi
 #### 7. Federal Judiciary — The Federalist Society Pipeline and Koch Investment
 
 ### Leonard Leo — Koch Network's Judicial Operative:
-Leonard Leo, [[Federalist Society]] co-chairman and executive vice president, served as Trump's top outside judicial adviser — acting as a "volunteer" to avoid financial disclosure. His pivotal role included:
+[[Leonard Leo]], [[Federalist Society]] co-chairman and executive vice president, served as Trump's top outside judicial adviser — acting as a "volunteer" to avoid financial disclosure. His pivotal role included:
 - Compiling Trump's list of potential Supreme Court nominees
 - Working with White House Counsel Don McGahn (who had represented Koch-backed groups in private practice) to vet nominees
 - **Arranging Justice Clarence Thomas' attendance at Koch donor summits**, as documented by ProPublica
 
 ### 2018 Koch Donor Summit Briefing:
-At the **2018 Koch donor summit**, Leonard Leo personally briefed donors on judicial appointments alongside Sen. John Cornyn, assuring them that **"by the end of this year my prediction is that basically 26 percent of the federal appellate bench will have changed under the Trump administration."**
+At the **2018 Koch donor summit**, Leonard Leo personally briefed donors on judicial appointments alongside Sen. [[John Cornyn]], assuring them that **"by the end of this year my prediction is that basically 26 percent of the federal appellate bench will have changed under the Trump administration."**
 
 ### Koch Direct Investment in GMU Law School:
 **Leonard Leo coordinated a $10 million grant from the Charles Koch Foundation to George Mason University** to rename its law school after Justice Antonin Scalia, plus an additional **$20 million contribution routed via Koch-funded organizations**, giving Leo "significant control over curriculum, hiring, and directing some expenditures at this public law school."
@@ -711,9 +711,9 @@ The network tied to Leonard Leo — including the [[Judicial Crisis Network|Judi
 | Confirmation Fight | JCN/Dark Money Spending | Outcome |
 |---|---|---|
 | **Merrick Garland (block)** | $17M (single anonymous donation via Wellspring to JCN) | Blocked; seat held open 293 days |
-| **Neil Gorsuch** | ~$10M (JCN TV ads) + additional network spending | Confirmed April 2017 |
-| **Brett Kavanaugh** | ~$10M (JCN) + $30M total anonymous dark money surge | Confirmed Oct 2018 |
-| **Amy Coney Barrett** | $10M+ (JCN) | Confirmed Oct 2020, 8 days before election |
+| **[[Neil Gorsuch]]** | ~$10M (JCN TV ads) + additional network spending | Confirmed April 2017 |
+| **[[Brett Kavanaugh]]** | ~$10M (JCN) + $30M total anonymous dark money surge | Confirmed Oct 2018 |
+| **[[Amy Coney Barrett]]** | $10M+ (JCN) | Confirmed Oct 2020, 8 days before election |
 | **Total Leo network 2014–2020** | **~$580 million** | 3 SCOTUS seats; ~26% of federal appellate bench reshaped by end 2018 |
 
 ### Loper Lira v. Raimondo (2024) — The Chevron Overthrow:
@@ -723,10 +723,10 @@ In *Loper Lira Enterprises v. Raimondo* (2024), **Koch network staff attorneys r
 
 | Justice/Judge | Nomination Year | Connection to Koch | Key Rulings Aligned with Koch Interests |
 |---|---|---|---|
-| **Neil Gorsuch** | 2017 | Federalist Society member; vetted by Leonard Leo | *Janus* (5th vote against union fees); *Loper Lira* (overthrowing Chevron deference) |
-| **Brett Kavanaugh** | 2018 | Federalist Society member; Koch network spent $10M+ on confirmation | Anti-labor rulings; *West Virginia v. EPA* limiting agency authority |
-| **Amy Coney Barrett** | 2020 | Federalist Society member; vetted by Leo | Conservative majority on deregulation, anti-union cases |
-| **Clarence Thomas** | (pre-Trump; Koch ties) | Attended Koch donor summits (arranged by Leo); undisclosed gifts from Koch-connected donors | Flipped position to favor Chevron overturn; *AFPF v. Bonta* protecting donor anonymity |
+| **[[Neil Gorsuch]]** | 2017 | Federalist Society member; vetted by Leonard Leo | *Janus* (5th vote against union fees); *Loper Lira* (overthrowing Chevron deference) |
+| **[[Brett Kavanaugh]]** | 2018 | Federalist Society member; Koch network spent $10M+ on confirmation | Anti-labor rulings; *West Virginia v. EPA* limiting agency authority |
+| **[[Amy Coney Barrett]]** | 2020 | Federalist Society member; vetted by Leo | Conservative majority on deregulation, anti-union cases |
+| **[[Clarence Thomas]]** | (pre-Trump; Koch ties) | Attended Koch donor summits (arranged by Leo); undisclosed gifts from Koch-connected donors | Flipped position to favor Chevron overturn; *AFPF v. Bonta* protecting donor anonymity |
 
 > [!money] The Judicial ROI
 > The Koch Network's $580M+ investment in the Federalist Society and judicial confirmation operations (2014–2020) produced a court system that will spend the next 20–30 years striking down regulations that threaten Koch Industries' interests. Every environmental regulation, labor rule, and consumer protection now faces originalist skepticism. The Chevron overturn alone represents the longest-term return on political investment: not a tax cut (which Congress can raise), but a constitutional interpretation that binds future generations. Incalculable long-term value.
@@ -762,7 +762,7 @@ Separately, the [[Union of Concerned Scientists]] documented that **"Vice Presid
 |---|---|---|---|
 | **Mike Pence** | Vice President | Longstanding Koch ally; promoted [[Americans for Prosperity|AFP]]'s "No Climate Tax" pledge in House | Key liaison between Koch network and Trump White House; met Charles Koch day before 2017 summit |
 | **Marc Short** | White House Director of Legislative Affairs (2017–2018); VP Pence Chief of Staff (2019) | President of [[Freedom Partners|Freedom Partners]] Chamber of Commerce (2011–2015), overseeing $250M+ budget | Led congressional strategy for TCJA passage and Gorsuch confirmation; used CRA to roll back Obama regulations |
-| **Mike Pompeo** | CIA Director (2017–2018); Secretary of State (2018–2021) | [[Koch Industries|Koch Industries]]' largest congressional recipient ($357,300 since 2010 from Koch-affiliated groups); referred to as "the Congressman from Koch"; Trustee of Koch-funded Flint Hills Center for Public Policy | Supported climate skepticism; aligned with Koch foreign policy views |
+| **[[Mike Pompeo]]** | CIA Director (2017–2018); Secretary of State (2018–2021) | [[Koch Industries|Koch Industries]]' largest congressional recipient ($357,300 since 2010 from Koch-affiliated groups); referred to as "the Congressman from Koch"; Trustee of Koch-funded Flint Hills Center for Public Policy | Supported climate skepticism; aligned with Koch foreign policy views |
 | **Scott Pruitt** | EPA Administrator (2017–2018) | Rule of Law Defense Fund chair; received $175,000 from [[Freedom Partners|Freedom Partners]]; sued EPA 14 times with industry co-plaintiffs | Oversaw Clean Power Plan repeal, WOTUS rollback, methane rule reversal |
 | **Don McGahn** | White House Counsel | Represented [[Freedom Partners|Freedom Partners]] and affiliated Koch super PAC in private practice | Worked with Leonard Leo on judicial nominations; present in Paris Agreement withdrawal deliberations |
 | **Mick Mulvaney** | Director, OMB; Acting Chief of Staff | Koch network's favored congressman | Implemented deregulatory OMB agenda |

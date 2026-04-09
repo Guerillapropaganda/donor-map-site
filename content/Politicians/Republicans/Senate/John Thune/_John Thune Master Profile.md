@@ -59,7 +59,7 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 ### Donor Class Map
 
 ### The Telecom-Insurance-Pharma Donor Architecture:
-- [[The Telecom-Insurance-Pharma Donor Architecture]] — ISPs $928K+ career (AT&T, Verizon, Comcast). Insurance PACs $233.5K + individuals $127.6K. Pharma CEOs $35K in February 2022 alone (Pfizer $5.8K, Gilead $5.8K, Eli Lilly $2.9K). NextEra Energy ~$300K. Goldman Sachs, Citigroup, Blackstone. Net neutrality opposition serves telecom donors. ACA skepticism serves insurance donors. "South Dakota values" messaging masks corporate donor architecture.
+- [[The Telecom-Insurance-Pharma Donor Architecture]] — ISPs $928K+ career (AT&T, Verizon, Comcast). Insurance PACs $233.5K + individuals $127.6K. Pharma CEOs $35K in February 2022 alone (Pfizer $5.8K, Gilead $5.8K, Eli Lilly $2.9K). NextEra Energy ~$300K. [[Goldman Sachs]], Citigroup, Blackstone. Net neutrality opposition serves telecom donors. ACA skepticism serves insurance donors. "South Dakota values" messaging masks corporate donor architecture.
 
 ### The McConnell Succession and the Majority Leader Machine:
 - [[The McConnell Succession and the Majority Leader Fundraising Machine]] — Won leadership 29-24 (secret ballot). $4M single NRSC transfer (largest ever). $20M+ raised this cycle. $18M+ cash on hand pre-election. McConnell's hand-picked successor. Defeated Cornyn (McConnell protégé) and Scott (Trump-backed). Secret ballot protected establishment votes from MAGA backlash.

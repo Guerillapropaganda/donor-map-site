@@ -74,7 +74,7 @@ In June 2024, Chopra announced the surviving payment provisions would take effec
 
 ### Trump 2.0: Freezing Everything (2025)
 
-Russell Vought, appointed CFPB acting director under Trump's second term, issued a stop-work order halting all pending enforcement actions and announced in an unsigned blog post that the CFPB would not enforce the payment provisions that had just taken effect (Tier 2).
+[[Russell Vought]], appointed CFPB acting director under Trump's second term, issued a stop-work order halting all pending enforcement actions and announced in an unsigned blog post that the CFPB would not enforce the payment provisions that had just taken effect (Tier 2).
 
 ---
 
@@ -82,7 +82,7 @@ Russell Vought, appointed CFPB acting director under Trump's second term, issued
 
 Congress passed the Military Lending Act in 2006 with bipartisan sponsorship (Senators Jim Talent and Bill Nelson), capping loans to active-duty service members at 36% APR. This protection has never been extended to civilians — despite veterans, faith leaders, and consumer advocates consistently pushing the Veterans and Consumers Fair Credit Act (Tier 2).
 
-The disparity reveals the industry's leverage: it can accept a 36% cap for a politically protected class (active-duty troops) while preventing the same cap for ordinary Americans. Kyrsten Sinema, despite representing Arizona voters who approved a 36% state cap 83-to-1, never supported extending that protection federally (Tier 2).
+The disparity reveals the industry's leverage: it can accept a 36% cap for a politically protected class (active-duty troops) while preventing the same cap for ordinary Americans. [[Kyrsten Sinema]], despite representing Arizona voters who approved a 36% state cap 83-to-1, never supported extending that protection federally (Tier 2).
 
 ---
 

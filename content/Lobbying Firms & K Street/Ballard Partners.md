@@ -60,23 +60,23 @@ The firm operates from about a dozen offices across the US and internationally, 
 
 #### Defense / Aerospace
 
-- **L3Harris Technologies** — Major defense electronics contractor
+- **[[L3Harris Technologies]]** — Major defense electronics contractor
 - **Rolls-Royce North America** — Defense engines/propulsion; lobbied by multiple Ballard lobbyists including Jeff B. Miller
 - **Leonardo DRS** — Defense electronics subsidiary of Italy's Leonardo SpA
-- **Booz Allen Hamilton** — Government IT/defense contractor
+- **[[Booz Allen Hamilton]]** — Government IT/defense contractor
 - **Parsons Government Services** — Defense/infrastructure contractor
 
 #### Healthcare / Pharma
 
 - **Merck, Sharp & Dohme** — Top pharma company; lobbied by Brian Ballard and multiple others
-- **Novo Nordisk** — Danish pharma (Ozempic maker); $large billing
+- **[[Novo Nordisk]]** — Danish pharma (Ozempic maker); $large billing
 - **Alkermes** — Addiction treatment pharma; lobbied by Alison Anway
 - **Novavax** — COVID vaccine maker navigating federal contracts
 - **UnitedHealth Group** — Largest health insurer in the US; lobbied by multiple Ballard lobbyists
 
 #### Energy
 
-- **NextEra Energy** — Florida-based utility/renewable energy giant
+- **[[NextEra Energy]]** — Florida-based utility/renewable energy giant
 - **Chevron Corp** — Major oil company; lobbied by multiple Ballard lobbyists
 - **TotalEnergies (Mozambique Area 1)** — LNG project lobbying
 - **Bloom Energy** — Clean energy/fuel cells
@@ -118,7 +118,7 @@ The firm operates from about a dozen offices across the US and internationally, 
 
 | Name | Former Position | Lobbies For | Notes |
 |------|----------------|-------------|-------|
-| **Pam Bondi** | Florida AG (2011–2019) | Qatar, GEO Group, special interests | Registered as FARA foreign agent for Qatar at $115K/month. Became Trump's AG Jan 2025. |
+| **[[Pam Bondi]]** | Florida AG (2011–2019) | Qatar, GEO Group, special interests | Registered as FARA foreign agent for Qatar at $115K/month. Became Trump's AG Jan 2025. |
 | **Susie Wiles** | Trump 2024 campaign manager | Nigeria's PDP | Registered as FARA foreign agent for Nigeria's Peoples Democratic Party (2019). Became Trump's White House Chief of Staff Jan 2025. |
 | **Jeff B. Miller** | U.S. Rep. FL-01 (2001–2017); Chair, House Veterans Affairs Committee | Palantir, Rolls-Royce, Novavax, Safe Pro Group, UnitedHealth, many others | Former Republican House veteran who now lobbies on defense and healthcare |
 | **Robert Wexler** | U.S. Rep. FL-19 (1997–2010); Democrat | Foreign governments, finance | Bipartisan cover; Democratic former congressman provides access to both sides |

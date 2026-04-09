@@ -164,7 +164,7 @@ NORPAC's strategic innovation is the intimate donor dinner model:
 
 #### The Mission to Washington
 
-NORPAC's signature event is its annual Mission to Washington, a lobbying day on Capitol Hill. In 2024, the 30th annual Mission brought 1,200 participants to Capitol Hill to meet with members of Congress and advocate for specific legislation including Iran sanctions, the Antisemitism Awareness Act, and arms shipments to Israel. Politicians addressing the 2024 mission included Rep. Ritchie Torres and Sens. James Lankford, John Boozman, and John Fetterman.
+NORPAC's signature event is its annual Mission to Washington, a lobbying day on Capitol Hill. In 2024, the 30th annual Mission brought 1,200 participants to Capitol Hill to meet with members of Congress and advocate for specific legislation including Iran sanctions, the Antisemitism Awareness Act, and arms shipments to Israel. Politicians addressing the 2024 mission included Rep. Ritchie Torres and Sens. [[James Lankford]], John Boozman, and John Fetterman.
 
 > [!money] Access Over Volume
 > NORPAC's annual $3.4M fundraising is modest compared to AIPAC's $100M+ ecosystem. But the intimate dinner model creates qualitatively different political relationships: direct, personal, and recurring access to sitting members of Congress. The Mission to Washington demonstrates that NORPAC has enough political capital to draw Senate Majority Leaders and presidential-level politicians into small rooms with donors. This is influence measured in access, not just dollars.

@@ -243,7 +243,7 @@ Six corporations control 85%+ of broadcast/cable political media reach. Sharehol
 "Advertiser-safe" category excludes economic policy discussion. Instead: social issues, culture wars, identity. These generate engagement without threatening the ownership class. Private equity backing (iHeartMedia, Paramount-Skydance under KKR/Ellison) further aligns incentives toward profit over coverage depth.
 
 ### 3. Venture Capital Hedging
-Same investors backing both-sides media ensure all outcomes benefit them. David Sacks, Marc Andreessen, and Howard Schultz fund left-aligned outlets while their portfolios profit from Trump policy (tax cuts, deregulation, tariff protection for billionaire interests). The "debate" is infrastructure they control.
+Same investors backing both-sides media ensure all outcomes benefit them. [[David Sacks]], Marc Andreessen, and Howard Schultz fund left-aligned outlets while their portfolios profit from Trump policy (tax cuts, deregulation, tariff protection for billionaire interests). The "debate" is infrastructure they control.
 
 ### 4. Revolving Door Personnel
 Pod Save America hosts are ex-Obama staff. MSNBC hires ex-Democratic politicians (Scarborough, formerly Republican; now Democrat-aligned). Fox News hires ex-Trump staff. CNN hires ex-Democratic operatives. Personnel circulation ensures no outlet develops sustained economic analysis threatening to the political-media class. Everyone's next job depends on staying within the acceptable disagreement frame.

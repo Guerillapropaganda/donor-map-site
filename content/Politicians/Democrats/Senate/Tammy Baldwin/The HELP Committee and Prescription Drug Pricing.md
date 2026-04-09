@@ -77,7 +77,7 @@ PhRMA and pharmaceutical companies have spent $30+ million annually lobbying aga
 
 | Date | Event | Key Players | Amount | Significance |
 |------|-------|-------------|--------|--------------|
-| 2017 | FAIR Drug Pricing Act first introduced | Baldwin, Sen. John McCain, Rep. Schakowsky | — | First Baldwin pharma transparency bill; requires manufacturers to justify price increases >10%/yr. No price controls — disclosure only. Sets the pattern for six years of reintroduction. |
+| 2017 | FAIR Drug Pricing Act first introduced | Baldwin, Sen. [[John McCain]], Rep. Schakowsky | — | First Baldwin pharma transparency bill; requires manufacturers to justify price increases >10%/yr. No price controls — disclosure only. Sets the pattern for six years of reintroduction. |
 | Aug 2022 | Inflation Reduction Act passes — Baldwin votes yes | Baldwin, Senate Democrats, President Biden | $369B (total IRA) | IRA authorizes Medicare drug price negotiation for first time in history; $35/month insulin cap for Medicare Part D; pharmaceutical industry spends $100M+ lobbying against it |
 | Jan 2023 | Medicare $35 insulin cap takes effect | CMS, Medicare Part D beneficiaries | $35/month cap | Real relief for Wisconsin Medicare insulin users. Private insurance patients uncovered — the structural limit of reconciliation-process drug pricing reform. |
 | May 2023 | FAIR Drug Pricing Act passes HELP Committee | Baldwin, Sanders (Chair), bipartisan members | — | Most legislative progress in six-year history of the bill. Never brought to full Senate floor vote. Transparency without price controls advances; price controls remain off the table. |

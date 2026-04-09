@@ -455,7 +455,7 @@ The $4.85 million KPF grant to DonorsTrust in 2013 was described by DeSmog as li
 | Lynde and Harry Bradley Foundation | $650,000 | 2001–2010 | Conservative family foundation |
 | Searle Freedom Trust | $150,000 (to DCF) | identified | Identified in KPF context |
 | Barbara and Barre Seid Foundation | $25,000 (to DCF) | identified | Manufacturing magnate |
-| **Marble Freedom Trust** ([[Leonard Leo]]) | **$100.2 million** | 2020 | **$59.1M (2020) + $41.1M disclosed** |
+| **[[Marble Freedom Trust]]** ([[Leonard Leo]]) | **$100.2 million** | 2020 | **$59.1M (2020) + $41.1M disclosed** |
 
 **2021 Anonymous Mega-Gifts:** DonorsTrust reported only three gifts in 2021 totaling over $1 billion: $427 million (cash), ~$77 million, and ~$426 million in "closely held common stock in a C-corporation." Under current law, none of these donors' identities were required to be disclosed. This represents a single-year influx that dwarfed the entire prior two decades of combined contributions.
 

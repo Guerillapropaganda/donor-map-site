@@ -70,7 +70,7 @@ Bacardi's political agenda centers on four interconnected objectives:
 #### National Recipients
 
 - **Darrell Issa** (R-CA, $2,500): Chair of the subcommittee that oversaw Havana Club trademark hearings
-- **Jim Jordan** (R-OH, $1,000)
+- **[[Jim Jordan]]** (R-OH, $1,000)
 
 #### Historical Pattern (1999-2002)
 

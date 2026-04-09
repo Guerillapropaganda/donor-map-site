@@ -28,7 +28,7 @@ This analysis maps five donor networks that fund think tanks across the politica
 
 ---
 
-### I. Goldman Sachs — The Bipartisan Kingmaker
+### I. [[Goldman Sachs]] — The Bipartisan Kingmaker
 
 Goldman Sachs is the single most widely distributed think tank funder in this vault, with documented financial or governance ties to institutions across the full political spectrum.
 
@@ -48,7 +48,7 @@ Goldman Sachs is the single most widely distributed think tank funder in this va
 
 ---
 
-### II. Defense Contractors — Funding Both Sides of the Aisle
+### II. [[Defense Contractors]] — Funding Both Sides of the Aisle
 
 The defense industry funds think tanks on both sides of the partisan divide, ensuring that regardless of which party holds power, the policy consensus favors increased military spending.
 

@@ -60,7 +60,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 ### Donor Class Map
 
 ### The Fossil Fuel Op-Ed Pipeline and the CRC Advisors Connection:
-- [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] — Oil/gas donors $410K+ (career). Koch Industries $60K+. [[Leonard Leo|Leonard Leo]]'s CRC Advisors $3K+ ([[Chevron|Chevron]] client). CGCN Group $98K for published and unpublished op-eds. [[Tim Dunn|Tim Dunn]] ($2.2B fracking) AFPI board. Now: 31 deregulatory rollbacks. Endangerment Finding repeal. Vehicle/power plant emissions standards eliminated. 200,000 projected premature deaths. The money trail runs from donor to op-ed to deregulation.
+- [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] — Oil/gas donors $410K+ (career). [[Koch Industries]] $60K+. [[Leonard Leo|Leonard Leo]]'s CRC Advisors $3K+ ([[Chevron|Chevron]] client). CGCN Group $98K for published and unpublished op-eds. [[Tim Dunn|Tim Dunn]] ($2.2B fracking) AFPI board. Now: 31 deregulatory rollbacks. Endangerment Finding repeal. Vehicle/power plant emissions standards eliminated. 200,000 projected premature deaths. The money trail runs from donor to op-ed to deregulation.
 
 ### The 31 Rollbacks and the 200,000 Deaths:
 - [[The 31 Rollbacks and the Projected 200000 Premature Deaths]] — March 2025: "greatest day of deregulation in U.S. history." Endangerment Finding targeted ("Holy Grail of the climate change religion"). Vehicle GHG standards eliminated (2012–2027+). Power plant rules rewritten. Mercury/air toxics standards targeted. EPA budget cut 54.5%. 50–75% of scientists potentially fired. Analysis: ~200,000 premature deaths, 100 million asthma attacks through 2050. Zeldin: "absolutely" no adverse effects.

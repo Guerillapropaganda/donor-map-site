@@ -116,7 +116,7 @@ No Democratic senator with under $200K in career pharma donations voted against 
 Biden administration proposed allowing Medicare to negotiate ALL drug prices directly with manufacturers. Estimated first-decade savings: $400B–$600B. This would have restructured the entire U.S. drug market: if Medicare can negotiate, state Medicaid programs demand same authority; private insurers follow; the entire pricing structure collapses.
 
 ### What Happened (2022):
-Richard Neal, Chair of House Ways & Means Committee (2019–2023), negotiated a "compromise" that became the Inflation Reduction Act's drug pricing provision:
+[[Richard Neal]], Chair of House Ways & Means Committee (2019–2023), negotiated a "compromise" that became the Inflation Reduction Act's drug pricing provision:
 
 - Medicare can negotiate only 10 drugs in 2026
 - Expands to 15 drugs in 2027–2028

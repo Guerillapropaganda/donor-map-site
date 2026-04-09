@@ -237,7 +237,7 @@ research-status:: ready
 - Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
 - Heilrayne v. University of Texas at Austin (2025) — District Court, W.D. Texas
 - The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
-- Warren v. Booz Allen Hamilton, Inc. (2024) — District Court, D. Maryland
+- Warren v. [[Booz Allen Hamilton]], Inc. (2024) — District Court, D. Maryland
 - Bruce Smith v. University of Texas At San Antonio (2023) — District Court, W.D. Texas
 - D'Augusta v. American Petroleum Institute (2022) — District Court, N.D. California
 

@@ -134,7 +134,7 @@ Warren is a senator from Massachusetts, a safe blue state. She was re-elected in
 Instead, Fairshake attacked Warren's *allies*:
 
 - **[[_Katie Porter Master Profile|Katie Porter]]** (House member from California, crypto skeptic, close ally of Warren): Fairshake spent $10M+ against Porter in the 2024 primary. Porter lost.
-- **Jamaal Bowman** (House member from New York, progressive, crypto skeptic): Fairshake spent heavily against Bowman. Bowman lost his primary.
+- **[[Jamaal Bowman]]** (House member from New York, progressive, crypto skeptic): Fairshake spent heavily against Bowman. Bowman lost his primary.
 - **Other crypto-skeptic Democrats:** Fairshake provided a standing threat to any Democrat who aligned with Warren's regulation agenda.
 
 This is the disciplinary function. Fairshake's message is not "Warren cannot be defeated" (that's obvious — she's in a safe seat). The message is: "If you follow Warren's lead on crypto regulation, we will destroy you electorally."

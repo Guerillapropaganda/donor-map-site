@@ -149,7 +149,7 @@ March Monthly FEC reports were due March 20, 2026 for PACs on monthly filing sch
 
 - **James Talarico** — Texas Democratic Senate nominee. Won primary on Sixteen Thirty dark money. Potential future profile.
 - **Jasmine Crockett** — Lost Texas Democratic primary despite national profile. No vault profile yet.
-- **John Cornyn** — Texas Senate Republican incumbent, Paxton runoff May 26. No vault profile yet.
+- **[[John Cornyn]]** — Texas Senate Republican incumbent, Paxton runoff May 26. No vault profile yet.
 - **Ken Paxton** — Texas AG, going to GOP runoff vs. Cornyn. No vault profile yet.
 - **Lone Star Rising PAC** — Texas super PAC in Talarico orbit. No vault profile yet.
 - **Government that Works PAC** — Sixteen Thirty Fund conduit. No standalone profile.

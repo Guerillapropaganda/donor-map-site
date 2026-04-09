@@ -101,7 +101,7 @@ The donor-class rationale: "We're just maximizing our preferred candidate's chan
 
 Preserve America does not operate in isolation. It coordinates with:
 
-- **MAGA Inc** — another Trump super PAC, funded by various mega-donors, whose spending patterns align with Adelson's
+- **[[MAGA Inc]]** — another Trump super PAC, funded by various mega-donors, whose spending patterns align with Adelson's
 - **Billionaire Bundlers** — informal coordination with [[Elon Musk|Elon Musk]], [[Peter Thiel|Peter Thiel]] associates, and other Trump mega-funders
 - **Israel Lobby Infrastructure** — AIPAC, [[JPAC - Jewish Public Affairs Committee of California|JPAC]] (California), and other pro-Israel organizations whose spending aligns with Adelson's
 

@@ -61,12 +61,12 @@ JCN operates within Leonard Leo's interconnected network of dark money organizat
 
 ### Key network nodes:
 
-- **Marble Freedom Trust** — The apex entity. Received the $1.6 billion Barre Seid donation in 2020. Disbursed $55.5 million to the Concord Fund (JCN). Leo controls this entity directly.
+- **[[Marble Freedom Trust]]** — The apex entity. Received the $1.6 billion Barre Seid donation in 2020. Disbursed $55.5 million to the Concord Fund (JCN). Leo controls this entity directly.
 - **Rule of Law Trust (RLT)** — Entered the 2022 midterms with a $202 million war chest. The largest beneficiary of RLT funds was JCN. RLT raised $237 million total from at most six anonymous donors.
 - **85 Fund** (formerly Judicial Education Project) — The sister 501(c)(3) to JCN's 501(c)(4). Operates the Honest Elections Project.
 - **Donors Trust** — The dark money ATM. Donated $80 million to coalition groups in the 2024 cycle.
 - **CRC Advisors** — Leo's personal consulting firm. The Concord Fund paid CRC Advisors $6 million between July 2022 and June 2023 for "consulting."
-- **Federalist Society** — The talent pipeline. JCN provides the money; the Federalist Society provides the judicial candidates.
+- **[[Federalist Society]]** — The talent pipeline. JCN provides the money; the Federalist Society provides the judicial candidates.
 
 > [!money]
 > The network architecture is the product. By routing money through multiple 501(c)(3) and 501(c)(4) entities, Leo's operation achieves three things simultaneously: donor anonymity (no public disclosure), tax optimization (Barre Seid avoided ~$400 million in capital gains taxes by donating Tripp Lite stock rather than cash), and political deniability (no single entity appears to control the full operation). The $1.6 billion Seid donation — the largest known political donation in American history — arrived as a stock transfer of 100% of Tripp Lite shares before the company sold for $1.65 billion to an Irish conglomerate. Leo's network received the proceeds tax-free.
