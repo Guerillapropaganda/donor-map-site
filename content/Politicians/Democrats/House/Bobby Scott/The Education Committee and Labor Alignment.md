@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: "[[_Bobby Scott Master Profile]]"
-related: "[[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]]"
 source-types:
   - Congress
   - FEC

@@ -179,6 +179,14 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-09 04:28 UTC — 2 profiles
+
+**GovTrack — 2 profiles:**
+- Rick Larsen — 8 sponsored, 187 cosponsored
+- Barbara Lee — 0 sponsored, 0 cosponsored
+
+---
 ## 2026-04-09 03:13 UTC — 1 profile
 
 **FEC — 1 profile:**
