@@ -38,10 +38,12 @@ header {
   color: #f5f0eb;
 }
 
-// Right sidebar — allow profile widget to scroll internally
+// Right sidebar (stays dark per design system — data visualization area)
 .sidebar.right {
   overflow-y: auto;
   overflow-x: hidden;
+  background: #0a0a0a;
+  color: #ccc;
 }
 
 // --- Article title ---
@@ -180,6 +182,19 @@ a.external {
 a.external:hover {
   color: #e63946;
   border-bottom-color: #e63946;
+}
+
+// Links inside dark containers (sidebar, right sidebar widgets) — use light text
+.left.sidebar a, .left.sidebar a.internal,
+.sidebar.right a, .sidebar.right a.internal {
+  color: #ccc !important;
+  border-bottom-color: #555 !important;
+}
+
+.left.sidebar a:hover, .left.sidebar a.internal:hover,
+.sidebar.right a:hover, .sidebar.right a.internal:hover {
+  color: #fbbf24 !important;
+  border-bottom-color: #fbbf24 !important;
 }
 
 // --- Tags ---
@@ -328,7 +343,7 @@ th {
 td {
   padding: 10px 12px !important;
   border-bottom: 1px solid #ddd !important;
-  color: #333 !important;
+  color: #0a0a0a !important;
   line-height: 1.5;
   font-size: 13px;
   min-width: 80px;
@@ -696,7 +711,7 @@ ul.section-ul {
   &:hover {
     border-color: rgba(91, 141, 206, 0.35);
     border-left-color: #0a0a0a;
-    background: #151520;
+    background: #e5dfd6;
   }
 }
 
@@ -851,7 +866,7 @@ ul.section-ul {
 .listing-ready-raw .listing-ready-dot { background: #4a4a54; }
 .listing-ready-draft .listing-ready-dot { background: #fbbf24; }
 .listing-ready-ready .listing-ready-dot {
-  background: #10b981;
+  background: #16a34a;
   box-shadow: 0 0 4px rgba(16, 185, 129, 0.5);
 }
 .listing-ready-verified .listing-ready-dot {
@@ -1830,7 +1845,7 @@ body:has(.lp-landing) .breadcrumb-container {
     background: rgba(251, 191, 36, 0.08);
   }
   &.ph-ready {
-    color: #10b981;
+    color: #16a34a;
     border-color: rgba(16, 185, 129, 0.3);
     background: rgba(16, 185, 129, 0.08);
   }
@@ -1908,11 +1923,17 @@ body[data-slug*="master-profile" i] {
 
   // Section card container
   .profile-section-card {
-    background: #1a1a24;
-    border: none;
+    background: #f5f0eb;
+    border: 2px solid #ddd;
     border-radius: 0;
     padding: 28px;
     margin-bottom: 20px;
+
+    // All text inside cards — ensure dark readable text
+    p, li, span, td { color: #333 !important; }
+    strong { color: #0a0a0a !important; }
+    a { color: #0a0a0a !important; }
+    a:hover { color: #e63946 !important; }
 
     // Heading inside card — card header
     h2, h3 {
@@ -1923,6 +1944,7 @@ body[data-slug*="master-profile" i] {
       border-left: none;
       padding-left: 0;
       scroll-margin-top: 24px;
+      color: #0a0a0a !important;
     }
 
     // Remove extra top margin from first element after heading
@@ -1944,7 +1966,7 @@ body[data-slug*="master-profile" i] {
 
   .psc-contradiction {
     border-left: 3px solid #e63946;
-    background: linear-gradient(135deg, rgba(239, 68, 68, 0.03) 0%, #1a1a24 100%);
+    background: linear-gradient(135deg, rgba(239, 68, 68, 0.03) 0%, #ece6dd 100%);
 
     h2 {
       color: #e63946 !important;
@@ -1954,7 +1976,7 @@ body[data-slug*="master-profile" i] {
 
   .psc-donors {
     border-left: 3px solid #16a34a;
-    background: linear-gradient(135deg, rgba(34, 197, 94, 0.03) 0%, #1a1a24 100%);
+    background: linear-gradient(135deg, rgba(34, 197, 94, 0.03) 0%, #ece6dd 100%);
 
     h2 {
       color: #16a34a !important;
@@ -1964,7 +1986,7 @@ body[data-slug*="master-profile" i] {
 
   .psc-patterns, .psc-timeline {
     border-left: 3px solid #fbbf24;
-    background: linear-gradient(135deg, rgba(245, 158, 11, 0.03) 0%, #1a1a24 100%);
+    background: linear-gradient(135deg, rgba(245, 158, 11, 0.03) 0%, #ece6dd 100%);
 
     h2 {
       color: #fbbf24 !important;
@@ -2086,7 +2108,7 @@ body[data-slug*="master-profile" i] {
 
   // ── Say vs. Pay contradiction card ──
   .svp-card {
-    background: linear-gradient(135deg, #f5f0eb 0%, #1a1a24 100%);
+    background: linear-gradient(135deg, #f5f0eb 0%, #ece6dd 100%);
     border: 1px solid rgba(239, 68, 68, 0.25);
     border-radius: 10px;
     padding: 24px;
