@@ -298,12 +298,13 @@ export default function UrlManagerPage() {
           </div>
         </div>
         {isActive && overrides[u.id] && (
-          <div className="mt-1.5">
+          <div className="mt-1.5" onClick={(e) => e.stopPropagation()}>
             <input
               type="text"
               placeholder="Add a note (optional)..."
-              value={urlNotes[u.id] || ""}
-              onChange={(e) => setUrlNotes(prev => ({ ...prev, [u.id]: e.target.value }))}
+              defaultValue={urlNotes[u.id] || ""}
+              onBlur={(e) => setUrlNotes(prev => ({ ...prev, [u.id]: e.target.value }))}
+              onKeyDown={(e) => { if (e.key === "Enter") (e.target as HTMLInputElement).blur() }}
               className="w-full bg-[var(--color-bg)] border border-[var(--color-border)] rounded px-2 py-1 text-[9px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)] focus:outline-none focus:border-[var(--color-steel)]"
             />
           </div>
