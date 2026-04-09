@@ -199,3 +199,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Dan Osborn](https://www.congress.gov/member/k000401) (Tier 1)
+<!-- auto:voting-record end -->

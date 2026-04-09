@@ -115,3 +115,10 @@ Andy Beshear. Governor of Kentucky (2019–present). Son of Steve Beshear (61st 
 - NPR: Kentucky red state Democrat (Tier 2)
 - Boston Globe: Beshear success key (Tier 2)
 content-readiness:: ready
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Andy Beshear](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

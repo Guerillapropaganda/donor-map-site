@@ -2,7 +2,7 @@
 title: "Oracle"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -16,7 +16,7 @@ annual-revenue: "$169K"
 net-assets: "$342K"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 238199
 total-assets: 312779
 subawards-issued: 50
@@ -29,6 +29,20 @@ related: "[[The Judiciary Committee and Libertarian Constitutionalism]]"
 federal-awards-total: 1133627862
 federal-contracts-count: 25
 federal-grants-count: 3
+court-cases: 18876
+court-jurisdictions:
+  - "District Court, D. Arizona"
+  - "District Court, D. Delaware"
+  - "District Court, M.D. Florida"
+  - "District Court, M.D. Tennessee"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Texas"
+  - "District Court, W.D. Michigan"
+  - "District Court, W.D. Missouri"
+lobbying-spend: 21330000
+lobbying-filings: 58
 ---
 
 #oracle #tech #cloud #government-contracts #lobbying #larry-ellison #tiktok
@@ -199,3 +213,41 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/c406663e-71aa-fbe3-4678-97f901f9fee6-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 18,876 |
+| Courts | District Court, D. Arizona, District Court, D. Delaware, District Court, M.D. Florida, District Court, M.D. Tennessee, District Court, N.D. California, District Court, N.D. Texas, District Court, S.D. New York, District Court, S.D. Texas +4 more |
+| Case Types | 360 P.I.: Other, 830 Patent, 850 Securities/Commodities, 890 Other Statutory Actions, 896 Other Statutes: Arbitration |
+
+**Notable cases:**
+- The Travelers Indemnity Company v. Intellectual Ventures I LLC (2026) — District Court, D. Delaware
+- ADAPTIVE CLASSIFICATION TECHNOLOGIES LLC v. Open Text Inc. (2026) — District Court, W.D. Texas
+- Speech Transcription, LLC v. Wazuh, Inc. (2026) — District Court, N.D. California
+- Dougherty v. Zynga Inc. (2026) — District Court, S.D. New York
+- Uber Technologies, Inc. v. Mass Tort Ad Agency (2026) — District Court, M.D. Florida
+- Doe v. Perplexity AI, Inc. (2026) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oracle%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $21.3M |
+| Quarterly Filings | 58 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 27 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Homeland Security, Indian/Native American Affairs, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Veterans
+
+**Lobbying firms:** A1.9 STRATEGIES LLC, ACG ADVOCACY, AVENUE SOLUTIONS, CANFIELD CONSULTING, LLC, CAPITOL CONSULTING GROUP LLC (DC), CASSIDY & ASSOCIATES, INC., COVE STRATEGIES, FIERCE GOVERNMENT RELATIONS, GUIDEPOSTSTRATEGIES, LLC, INNOVATIVE POLICY, PLLC, JEFF MILLER GROUP, KLEIN/JOHNSON GROUP, MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, ORACLE CORPORATION, POLARIS GOVERNMENT RELATIONS, LLC, PUTALASTRATEGIES, RESOLUTION PUBLIC AFFAIRS, LLC, ROBERTI GLOBAL (F/K/A ROBERTI WHITE, LLC), SCHAERR JAFFE LLP, THE LIVINGSTON GROUP, LLC, THE MCKEON GROUP, INC., THE MICHAEL LEWAN COMPANY, THE NICKLES GROUP, LLC, THE TIM HUGO GROUP, THEGROUP DC, LLC, VENN STRATEGIES
+
+**Agencies contacted:** Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP), Food & Drug Administration (FDA), General Services Administration (GSA), HOUSE OF REPRESENTATIVES +15 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Oracle) (Tier 1)
+<!-- auto:lda-lobbying end -->

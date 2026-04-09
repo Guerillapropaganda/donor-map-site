@@ -45,6 +45,8 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. Illinois"
   - "District Court, W.D. Oklahoma"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration
@@ -188,3 +190,21 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tyson%20Foods%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tyson%20Foods) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

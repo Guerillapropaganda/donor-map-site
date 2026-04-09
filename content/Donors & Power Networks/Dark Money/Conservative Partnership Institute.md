@@ -2,7 +2,7 @@
 title: "Conservative Partnership Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 federal-register-mentions: 1
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Energy Department"
 court-cases: 15
@@ -25,10 +25,13 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
 related: "[[DeVos Family]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[Bradley Impact Fund]]"
-ein: 821470217
+ein: "821470217"
 annual-revenue: "$19.5M"
 net-assets: "$71.1M"
 tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+total-revenue: 34690942
+total-assets: 72296824
 ---
 
 #conservative-partnership-institute #cpi #dark-money #maga #jim-demint #mark-meadows #january-6
@@ -109,3 +112,28 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 821470217](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 821470217 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $34.7M |
+| Total Assets | $72.3M |
+| NTEE Code | B60 |
+| IRS Ruling Date | 2017-10-01 |
+| Filings on Record | 7 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/821470217/2019)
+- ... and 2 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 1)
+<!-- auto:nonprofit-990 end -->

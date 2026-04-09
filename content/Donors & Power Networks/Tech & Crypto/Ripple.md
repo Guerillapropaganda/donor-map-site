@@ -22,6 +22,19 @@ federal-awards-total: 4528360
 federal-contracts-count: 25
 federal-grants-count: 13
 federal-contracts: "438"
+court-cases: 7521
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Guam"
+  - "District Court, D. New Jersey"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture
@@ -189,3 +202,22 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Ripple&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 7,521 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Third Circuit, District Court, D. Guam, District Court, D. New Jersey, District Court, D. South Carolina, District Court, E.D. New York, District Court, E.D. Texas, District Court, N.D. California +7 more |
+| Case Types | 370 Fraud or Truth-In-Lending, 470 Racketeer/Corrupt Organization, 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Ripple (2026) — District Court, D. Guam
+- Ripple v. Century Insurance Company Ltd (2026) — District Court, D. Guam
+- In re: Stephanie Ripple (2026) — Court of Appeals for the Third Circuit
+- State of Texas v. Snap Inc. (2026) — District Court, E.D. Texas
+- STATE OF NEW JERSEY v. UNITED STATES IMMIGRATION AND CUSTOMS ENFORCEMENT (2026) — District Court, D. New Jersey
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ripple%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

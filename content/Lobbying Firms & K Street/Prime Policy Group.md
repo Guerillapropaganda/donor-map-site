@@ -19,6 +19,23 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
 total-revenue: 120000
 total-assets: 2901
+fara-status: "registrant"
+fara-records: 18
+fara-countries:
+  - "AFGHANISTAN"
+  - "ANGOLA"
+  - "BAHAMAS"
+  - "BANGLADESH"
+  - "HAITI"
+  - "IRAQ"
+  - "ITALY"
+  - "JAPAN"
+  - "KENYA"
+  - "KOREA SOUTH"
+  - "SAUDI ARABIA"
+  - "SOUTH AFRICA"
+  - "UNITED ARAB EMIRATES"
+  - "UNITED KINGDOM"
 ---
 
 #lobbying #k-street #defense #foreign-policy #energy #healthcare #bipartisan #republican-establishment #dictators
@@ -294,3 +311,29 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/841989534) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 18 |
+| Countries | AFGHANISTAN, ANGOLA, BAHAMAS, BANGLADESH, HAITI, IRAQ, ITALY, JAPAN, KENYA, KOREA SOUTH, SAUDI ARABIA, SOUTH AFRICA, UNITED ARAB EMIRATES, UNITED KINGDOM |
+| Foreign Principal Records | 16 |
+| Registrant Records | 2 |
+
+**Foreign principals:**
+- Mr. Hikmat Kareem (IRAQ)
+- Mr. Francois R. Deeb (HAITI)
+- Harena Resources PLC (UNITED KINGDOM)
+- Chessworth DMCC (UNITED ARAB EMIRATES)
+- Wazed Inc. (BANGLADESH)
+- Kirkoswald Global Management Services, Ltd (BAHAMAS)
+- Khalid Aljabri (SAUDI ARABIA)
+- Julio Herrera Velutini (ITALY)
+- Isabel Dos Santos (ANGOLA)
+- Ahmad Massoud (AFGHANISTAN)
+- ... and 6 more
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Prime%20Policy%20Group) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

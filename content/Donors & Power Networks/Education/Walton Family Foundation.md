@@ -2,14 +2,14 @@
 title: "Walton Family Foundation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Education"
 entity-type: "Individual Donor"
 lei: "549300EHSRWZEI5Q4G61"
 lei-jurisdiction: "US-DE"
-ein: 472066714
+ein: "472066714"
 annual-revenue: "$81K"
 net-assets: "$1.9M"
 tax-year: "2023"
@@ -17,6 +17,22 @@ related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[Th
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+court-cases: 36
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Maryland"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Utah"
+  - "District Court, E.D. Arkansas"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Oklahoma"
+  - "United States Court of International Trade"
+nonprofit-status: "501(c)(3)"
+total-revenue: 455437
+total-assets: 1873781
 ---
 
 
@@ -129,3 +145,47 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer — EIN 472066714](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 36 |
+| Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Maryland, District Court, D. New Jersey, District Court, D. Utah, District Court, E.D. Arkansas, District Court, E.D. Virginia, District Court, N.D. California +2 more |
+| Case Types | 2890 Other Statutory Actions, 3950 Constitutionality of State Statutes, 440 Civil Rights: Other, 448 Civil Rights: Education, 840 Trademark |
+
+**Notable cases:**
+- National Fisheries Institute, Inc. v. United States (2025) — United States Court of International Trade
+- City and County of San Francisco v. City of Oakland, et al. (2024) — Court of Appeals for the Ninth Circuit
+- City and County of San Francisco v. City of Oakland (2024) — District Court, N.D. California
+- LOGAN v. GARLAND (2024) — District Court, D. New Jersey
+- Students for Fair Admissions v. The United States Naval Academy (2023) — District Court, D. Maryland
+- Dylan Brandt v. Tim Griffin (2023) — Court of Appeals for the Eighth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Walton%20Family%20Foundation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 472066714 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $455K |
+| Total Assets | $1.9M |
+| NTEE Code | T20 |
+| IRS Ruling Date | 2015-02-01 |
+| Filings on Record | 7 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2019)
+- ... and 2 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1)
+<!-- auto:nonprofit-990 end -->

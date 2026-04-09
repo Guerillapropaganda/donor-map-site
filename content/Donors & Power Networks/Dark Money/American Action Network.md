@@ -2,7 +2,7 @@
 title: "American Action Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -18,7 +18,7 @@ annual-revenue: "$46.2M"
 net-assets: "$16.3M"
 tax-year: "2023"
 court-cases: 56
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, District of Columbia"
@@ -33,6 +33,9 @@ total-assets: 35265577
 fara-status: "registrant"
 fara-records: 1
 related: "[[National Association of Manufacturers]]"
+total-political-spend: "$176,798,895"
+politicians-funded:
+  - "Gary Peters"
 ---
 
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money
@@ -266,3 +269,28 @@ content-readiness:: ready
 
 - [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:American%20Action%20Network) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $176,798,895 |
+| Contributions | 154 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| CONGRESSIONAL LEADERSHIP FUND | $172,908,634 | — |
+| CLT HOST 2020 INC | $1,500,000 | REP |
+| 58TH PRESIDENTIAL INAUGURAL COMMITTEE | $1,000,000 | — |
+| WFW ACTION FUND, INC. | $820,000 | — |
+| EIGHTEEN FIFTY-FOUR FUND | $400,000 | — |
+| WOMEN SPEAK OUT PAC | $60,000 | — |
+| LATINO VOTE FOR AMERICA PAC | $50,000 | — |
+| PAWLENTY FOR PRESIDENT | $45,000 | REP |
+| AMERICAN CROSSROADS | $13,761 | — |
+| PETERS FOR MICHIGAN | $1,500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Action%20Network) (Tier 1)
+<!-- auto:fec-donor end -->

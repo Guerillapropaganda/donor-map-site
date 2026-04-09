@@ -2,21 +2,19 @@
 title: "Robert Mercer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
-  - "Ted Cruz"
-  - "Steve Bannon"
 issues:
   - "Dark Money & Campaign Finance"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 doj-press-mentions: "264349"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -31,6 +29,7 @@ doj-components:
 related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[The 2024 Race - Most Expensive Senate Campaign in History]]"
 lei: "213800EIIUUJGZ8VRD59"
 lei-jurisdiction: "GB"
+total-political-spend: "$2,042,848"
 ---
 
 
@@ -188,3 +187,28 @@ Political infrastructure that operates independently of politicians. The Mercer 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $2,042,848 |
+| Contributions | 341 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| TRUMP 47 COMMITTEE, INC. | $927,900 | — |
+| REPUBLICAN NATIONAL COMMITTEE | $615,487 | REP |
+| BLACK AMERICANS FOR A BETTER FUTURE | $35,000 | — |
+| NEVER SURRENDER, INC. | $17,465 | REP |
+| SAVE AMERICA | $12,500 | — |
+| AMERICAN SENIORS HOUSING ASSOCIATION (SENIORS HOUSING PAC) | $10,000 | — |
+| SOUTH DAKOTA REPUBLICAN PARTY | $10,000 | REP |
+| REPUBLICAN PARTY OF KENTUCKY | $10,000 | REP |
+| REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | $10,000 | REP |
+| SOUTH CAROLINA REPUBLICAN PARTY | $10,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Robert%20Mercer) (Tier 1)
+<!-- auto:fec-donor end -->

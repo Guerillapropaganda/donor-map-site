@@ -19,7 +19,7 @@ sec-form-types:
   - "N-MFP"
   - "N-Q"
 federal-register-mentions: 4
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Employment and Training Administration"
   - "Environmental Protection Agency"
@@ -29,6 +29,19 @@ nonprofit-status: "501(c)(3)"
 related: "[[Katie Britt]]"
 lobbying-spend: 740000
 lobbying-filings: 36
+court-cases: 2268
+court-jurisdictions:
+  - "Court of Appeals for the Eleventh Circuit"
+  - "District Court, E.D. Louisiana"
+  - "District Court, M.D. Alabama"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. Alabama"
+  - "District Court, S.D. Florida"
+lei: "213800LE7MRYU5XL6J42"
+lei-jurisdiction: "GB"
 ---
 
 #coal-mining #alabama-politics #fossil-fuel #environmental-violations #political-donor
@@ -178,3 +191,37 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Drummond%20Co.) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2,268 |
+| Courts | Court of Appeals for the Eleventh Circuit, District Court, E.D. Louisiana, District Court, M.D. Alabama, District Court, M.D. Florida, District Court, N.D. Alabama, District Court, N.D. California, District Court, N.D. Georgia, District Court, S.D. Alabama +1 more |
+| Case Types | 360 P.I.: Other, 370 Other Fraud, 410 Anti-Trust, 440 Civil Rights: Other, 480 Consumer Credit |
+
+**Notable cases:**
+- Eden Oak I, LLC v. Lee County, Florida (2026) — District Court, M.D. Florida
+- Luthmann v. United States Department of Justice (2026) — District Court, M.D. Florida
+- Cardenas v. Carnival Corporation (2026) — District Court, M.D. Florida
+- Healthcare Justice Coalition, LLC v. Blue Cross Blue Shield Association (2026) — District Court, N.D. California
+- Knight First Amendment Institute at Columbia Uni (2026) — Court of Appeals for the Eleventh Circuit
+- Pitts v. United States (2026) — District Court, N.D. Georgia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Drummond%20Co.%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [213800LE7MRYU5XL6J42](https://search.gleif.org/#/record/213800LE7MRYU5XL6J42) |
+| Legal Name | DRUMMOND & CO (HUMAN RESOURCE SPECIALISTS) LIMITED |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2025-10-08T00:05:10Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -9,6 +9,15 @@ annual-revenue: "$32.3M (2025)"
 lobbyist-count: 37
 revolving-door-pct: "62.9%"
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Comcast - NBCUniversal|Comcast]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Capitol Counsel]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+sec-filings: 15
+sec-form-types:
+  - "10-K"
+  - "424B4"
+  - "DRS"
+  - "EX-99"
+  - "PX14A6G"
+  - "S-1"
+  - "S-1/A"
 ---
 
 #lobbying #k-street #healthcare #pharma #defense #tech #telecom #appropriations #bipartisan
@@ -212,3 +221,21 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Thorn%20Run%20Partners%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 15 |
+| Form Types | 10-K, 424B4, DRS, EX-99, PX14A6G, S-1, S-1/A |
+
+**Notable filings:**
+
+- 2023-05-04 — **PX14A6G**: PX14A6G
+- 2022-04-28 — **EX-99**: RCAR.PDF
+- 2023-04-05 — **PX14A6G**: PX14A6G
+- 2021-12-28 — **EX-99**: RESPONSUM INC. FORM C/A
+- 2021-08-25 — **EX-99**: RESPONSUM INC. FORM C
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Thorn%20Run%20Partners%22) (Tier 1)
+<!-- auto:sec-edgar end -->

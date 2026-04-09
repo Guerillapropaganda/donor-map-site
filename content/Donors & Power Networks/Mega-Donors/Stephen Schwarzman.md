@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -17,7 +17,7 @@ annual-revenue: "$127.1M"
 net-assets: "$105.5M"
 tax-year: "2023"
 federal-register-mentions: 2
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
@@ -55,6 +55,18 @@ sec-form-types:
   - "SC 13G"
   - "SC 14D9"
 related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Schwarzman Connection and Private Equity Capture]]"
+court-cases: 25
+court-jurisdictions:
+  - "District Court, D. Maryland"
+  - "District Court, D. New Jersey"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, M.D. North Carolina"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Illinois"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Texas"
 ---
 
 #donor #billionaire #republican #private-equity #blackstone #wall-street
@@ -285,3 +297,22 @@ content-readiness:: developed
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Stephen%20Schwarzman%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 25 |
+| Courts | District Court, D. Maryland, District Court, D. New Jersey, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, M.D. North Carolina, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. Illinois +2 more |
+| Case Types | 360 P.I.: Other, 410 Anti-Trust, 440 Civil Rights: Other, 441 Civil Rights: Voting, 820 Copyright |
+
+**Notable cases:**
+- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
+- WPEngine, Inc. v. Automattic Inc. (2024) — District Court, N.D. California
+- The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
+- Henry v. Brown University (2022) — District Court, N.D. Illinois
+- Bridges v. Blackstone Inc. (2021) — District Court, S.D. Illinois
+- CASTON v. CITY OF NEW YORK POLICE DEPARTMENT (2021) — District Court, E.D. Pennsylvania
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stephen%20Schwarzman%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -147,3 +147,17 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Peter Thiel]] — $1.7M lobbying spend
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "New Venture Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -16,7 +16,7 @@ tax-year: "2023"
 lobbying-spend: 976282
 lobbying-filings: 109
 court-cases: 83
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Fifth Circuit"
@@ -58,6 +58,20 @@ related: "[[National Progressive Donor Networks]] · [[Center for American Progr
 nonprofit-status: "501(c)(3)"
 total-revenue: 664320202
 total-assets: 624857462
+lei: "254900MM5ZP0GCJ89Q85"
+lei-jurisdiction: "US"
+doj-press-mentions: "264414"
+doj-components:
+  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
+  - "Federal Bureau of Investigation (FBI)"
+  - "USAO - California, Central"
+  - "USAO - Connecticut"
+  - "USAO - Florida, Northern"
+  - "USAO - Kansas"
+  - "USAO - Kentucky, Eastern"
+  - "USAO - Louisiana, Eastern"
+  - "USAO - Michigan, Western"
+  - "USAO - New Jersey"
 ---
 
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship
@@ -197,3 +211,39 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900MM5ZP0GCJ89Q85](https://search.gleif.org/#/record/254900MM5ZP0GCJ89Q85) |
+| Legal Name | Davis New York Venture Fund |
+| Jurisdiction | US |
+| Entity Status | ACTIVE |
+| Category | FUND |
+| Registration | ISSUED |
+| Last Updated | 2025-11-07T00:00:44Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### DOJ Press Releases
+<!-- auto:doj-press start -->
+| Metric | Value |
+|--------|-------|
+| DOJ Press Mentions | 264414 |
+| Date Range | 2026-04-08 to 2026-04-09 |
+| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Kansas +9 more |
+
+**Recent press releases:**
+
+- 2026-04-09 — [U.S. Attorney, ATF Offer Law Enforcement Training on Firearms Trends](https://www.justice.gov/usao-ndwv/pr/us-attorney-atf-offer-law-enforcement-training-firearms-trends) — USAO - West Virginia, Northern
+- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
+- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
+- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
+- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
+- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
+- ... and 264,408 more
+
+- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22New%20Venture%20Fund%22&sort=date) (Tier 1)
+<!-- auto:doj-press end -->

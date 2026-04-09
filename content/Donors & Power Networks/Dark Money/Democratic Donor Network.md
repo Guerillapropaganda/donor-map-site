@@ -2,7 +2,7 @@
 title: "Democratic Donor Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,7 +14,7 @@ issues:
   - "Dark Money & Campaign Finance"
 related: "[[Ohio Democratic Party]] · [[Pod Save America]] · [[National Progressive Donor Networks]]"
 doj-press-mentions: "264349"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -26,6 +26,10 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+ein: "943062436"
+nonprofit-status: "501(c)(3)"
+total-revenue: 161294238
+total-assets: 73379796
 ---
 
 #democratic #donor-network #bundling #wall-street #hollywood #tech #labor #dark-money #super-pac #class-analysis #follow-the-money
@@ -170,3 +174,27 @@ content-readiness:: developed
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Democratic%20Donor%20Network%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 943062436 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $161.3M |
+| Total Assets | $73.4M |
+| IRS Ruling Date | 1992-02-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/943062436/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943062436) (Tier 1)
+<!-- auto:nonprofit-990 end -->

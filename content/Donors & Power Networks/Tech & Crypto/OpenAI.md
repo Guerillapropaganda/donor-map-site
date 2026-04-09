@@ -24,6 +24,26 @@ subawards-received-amount: 19500000
 related: "[[AI Deregulation Super PAC - Leading the Future]] · [[Crypto vs. Institutional Democrats in Illinois]]"
 lei: "9845004F11A8N695DD79"
 lei-jurisdiction: "IE"
+sec-filings: 2332
+sec-form-types:
+  - "424B3"
+  - "425"
+  - "485APOS"
+  - "8-K"
+  - "CORRESP"
+  - "D"
+  - "D/A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX1A-13 TST WTRS"
+  - "LETTER"
+  - "NPORT-EX"
+  - "NPORT-P"
+  - "PX14A6G"
+  - "TEXT-EXTRACT"
 ---
 
 #openai #ai #chatgpt #altman #microsoft #regulation #nonprofit-conversion
@@ -157,3 +177,21 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2,332 |
+| Form Types | 424B3, 425, 485APOS, 8-K, CORRESP, D, D/A, DEFA14A +10 more |
+
+**Notable filings:**
+
+- 2025-10-29 — **EX-99.2**: EX-99.2
+- 2025-11-12 — **PX14A6G**: NATIONAL LEGAL AND POLICY CENTER - PX14A6G
+- 2026-04-07 — **EX-99.1**: EX-99.1
+- 2025-10-06 — **EX-99.1**: AMD AND OPENAI ANNOUNCE STRATEGIC PARTNERSHIP TO DEPLOY 6 GIGAWATTS OF AMD GPUS
+- 2026-02-27 — **EX-99.1**: EXHIBIT 99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22OpenAI%22) (Tier 1)
+<!-- auto:sec-edgar end -->

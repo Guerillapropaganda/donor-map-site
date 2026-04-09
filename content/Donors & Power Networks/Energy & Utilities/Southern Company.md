@@ -11,7 +11,7 @@ lei: "549300ZW53G2TUFW5T39"
 lei-jurisdiction: "US-GA"
 lei-parent: "THE SOUTHERN COMPANY"
 court-cases: 1227
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"
   - "Court of Appeals for the Ninth Circuit"
@@ -23,7 +23,7 @@ court-jurisdictions:
   - "District Court, N.D. Georgia"
   - "District Court, S.D. Florida"
   - "District Court, S.D. Georgia"
-ein: 582514027
+ein: "300749713"
 annual-revenue: "$1.6M"
 net-assets: "$104.5M"
 tax-year: "2023"
@@ -40,6 +40,9 @@ top-federal-agency: "General Services Administration"
 top-naics-code: "221210"
 lobbying-spend: 26933250
 lobbying-filings: 105
+nonprofit-status: "501(c)(3)"
+total-revenue: 426162
+total-assets: 98362
 ---
 
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
@@ -211,3 +214,28 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Southern%20Company) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 300749713 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $426K |
+| Total Assets | $98K |
+| NTEE Code | A99 |
+| IRS Ruling Date | 2014-08-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300749713) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -20,7 +20,7 @@ annual-revenue: "$-1,397,309"
 net-assets: "$648.2M"
 tax-year: "2023"
 federal-register-mentions: 800
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Comptroller of the Currency"
   - "Employee Benefits Security Administration"
@@ -226,11 +226,12 @@ research-status:: ready — Full citation pass complete. $39M career political c
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 4 |
-| Committee Overlap Detected | 4 politicians |
+| Politicians Funded | 5 |
+| Committee Overlap Detected | 5 politicians |
 
 **Lobby → Donate → Committee chains:**
 
+- Lobbies on **Wall Street & Finance** → Funds **John Kennedy** → Sits on **Banking**
 - Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
 - Lobbies on **Wall Street & Finance** → Funds **John Boehner** → Sits on **Finance**
 - Lobbies on **Wall Street & Finance** → Funds **Paul Ryan** → Sits on **Finance**
@@ -238,6 +239,7 @@ research-status:: ready — Full citation pass complete. $39M career political c
 
 **Funded politicians:**
 
+- [[John Kennedy]] (Judiciary, Banking)
 - [[French Hill]] (Banking)
 - [[John Boehner]] (Finance)
 - [[Paul Ryan]] (Finance)

@@ -2,7 +2,7 @@
 title: "Valinor Enterprises"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
@@ -11,7 +11,7 @@ politicians-funded:
   - "JD Vance"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 source-types:
   - USASpending
 known-gaps:

@@ -194,3 +194,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Glenn Thompson](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

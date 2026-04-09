@@ -39,6 +39,10 @@ politicians-funded:
 related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]]"
 ein: "273554312"
 nonprofit-status: "tax-exempt"
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "TAIWAN"
 ---
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class
@@ -289,3 +293,19 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273554312) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | TAIWAN |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Democratic Progressive Party (TAIWAN)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ohio%20Democratic%20Party) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

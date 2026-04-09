@@ -2,7 +2,7 @@
 title: "Insurance Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -51,6 +51,8 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+lobbying-spend: 25607025
+lobbying-filings: 107
 ---
 
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door
@@ -359,3 +361,22 @@ content-readiness:: developed
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Insurance%20Industry%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $25.6M |
+| Quarterly Filings | 107 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 57 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Agriculture, Alcohol and Drug Abuse, Automotive Industry, Banking, Budget/Appropriations, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Education, Environment/Superfund, Financial Institutions/Investments/Securities, Foreign Relations, Government Issues, Health Issues, Homeland Security, Housing, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Medicare/Medicaid, Pharmacy, Retirement, Roads/Highway, Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Torts, Trade (domestic/foreign), Transportation, Trucking/Shipping, Veterans
+
+**Lobbying firms:** ALLSTATE INSURANCE COMPANY, AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION FKA PROPERTY CASUALTY INSURERS ASSOC. OF AMERICA, ARNOLD & PORTER KAYE SCHOLER LLP, BALLARD PARTNERS, BECKER & POLIAKOFF, P.A., CAPITOL COUNSEL LLC, CC LAW & POLICY, CMFG LIFE INSURANCE COMPANY, CONFRERE STRATEGIES, LLC, DANEA KEHOE, DAVIS & HARMAN LLP, DLA PIPER LLP (US), DYKEMA GOSSETT PLLC, EMERGENT STRATEGIES, EXIGENT GOVERNMENT RELATIONS, FEDERAL POLICY GROUP, LLC, GOVERNMENT EMPLOYEES INSURANCE COMPANY, GRANT CONSULTING GROUP, GUARDIAN LIFE INSURANCE COMPANY OF AMERICA, HARTFORD INSURANCE GROUP (FKA HARTFORD FINANCIAL SERVICES GROUP), HEALTHSPERIEN, INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INVARIANT LLC, JACKSON NATIONAL LIFE INSURANCE COMPANY, JOHN HANCOCK LIFE INSURANCE COMPANY (U.S.A), KOUNTOUPES DENHAM CARR & REID, LLC, MASON STREET CONSULTING, LLC, MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY, MORTGAGE GUARANTY INSURANCE CORPORATION, MR. GAYLORD HUGHEY, NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS, NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS, NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES, NATIONAL ASSOCIATION OF PROFESSIONAL INSURANCE AGENTS, NATIONAL COUNCIL ON COMPENSATION INSURANCE, INC., NATIONAL INSURANCE CRIME BUREAU, NATIONWIDE MUTUAL INSURANCE COMPANY, NEW YORK LIFE INSURANCE COMPANY, PRIMERICA LIFE INSURANCE COMPANY, RED+BLUE STRATEGIES, RICH FEUER ANDERSON, RICHARD BURNESS, S-3 GROUP, SCARLET SOLUTIONS, LLC, SENTRY INSURANCE COMPANY (FORMERLY SENTRY INSURANCE A MUTUAL COMPANY), STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY, STEPTOE LLP, SYMETRA LIFE INSURANCE COMPANY, THE COUNCIL OF INSURANCE AGENTS AND BROKERS, THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY, TIBER CREEK GROUP, TOMPKINS STRATEGIES, LLC, TRI-BRANCH RESOLUTION, LLC, TSG ADVOCATES DC, LLC, UNITED BY INTEREST, LLC., WILLIAMS AND JENSEN, PLLC, ZURICH AMERICAN INSURANCE COMPANY (FKA ZURICH)
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Commodity Futures Trading Commission (CFTC), Congressional Budget Office (CBO), Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Deposit Insurance Corporation (FDIC) +26 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Insurance%20Industry) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -193,3 +193,13 @@ For the vault's class analysis: Kushner is the purest case of government-as-inve
 profile-status:: ready
 research-status:: ready — Full citation pass complete. $2B Saudi PIF, $157M management fees, $6.16B AUM (99% foreign), 666 Fifth Ave $1.2B bailout, Abraham Accords monetization pipeline, Iran war involvement (March 2026), $5B fundraising ask, donation-to-policy timeline (11 entries), March 2026 Wyden/Garcia investigation. 7 sources, Tier 1-2. All ### headers. Promoted Session 38j.
 content-readiness:: ready
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Committee Overlap Detected | None |
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

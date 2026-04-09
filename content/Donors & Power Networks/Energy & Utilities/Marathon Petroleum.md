@@ -385,3 +385,20 @@ research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Marathon%20Petroleum%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[John Barrasso]] — contracts: $51K
+- [[Cathy McMorris Rodgers]] (Energy & Commerce) — contracts: $51K
+- [[Kevin McCarthy]] — contracts: $51K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

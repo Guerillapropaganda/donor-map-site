@@ -159,3 +159,26 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Bacardi%20-%20Bacardi%20USA) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 5 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Budget/Appropriations** → Funds **Mario Diaz-Balart** → Sits on **Appropriations**
+
+**Funded politicians:**
+
+- [[Marco Rubio]] — lobbying: $1.8M
+- [[Mario Diaz-Balart]] (Appropriations) — lobbying: $1.8M
+- [[Maria Elvira Salazar]] — lobbying: $1.8M
+- [[Carlos Gimenez]] (Transportation & Infrastructure) — lobbying: $1.8M
+- [[Debbie Wasserman Schultz]] — lobbying: $1.8M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

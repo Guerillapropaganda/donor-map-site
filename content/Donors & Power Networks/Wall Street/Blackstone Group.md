@@ -2,7 +2,7 @@
 title: "Blackstone Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -25,6 +25,19 @@ federal-awards-total: 0
 federal-contracts-count: 2
 federal-grants-count: 0
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]] · [[Mike Lee]]"
+court-cases: 1595
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Nevada"
+  - "District Court, D. New Hampshire"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Texas"
+  - "District Court, N.D. California"
+  - "District Court, N.D. New York"
 ---
 
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying
@@ -390,3 +403,22 @@ content-readiness:: developed
 
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Blackstone%20Group) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,595 |
+| Courts | Court of Appeals for the Second Circuit, District Court, D. Delaware, District Court, D. Massachusetts, District Court, D. Nevada, District Court, D. New Hampshire, District Court, D. South Carolina, District Court, E.D. New York, District Court, E.D. Texas +7 more |
+| Case Types | 440 Civil Rights: Other, 443 Civil Rights: Accommodations, 448 Civil Rights: Education, 470 Racketeer/Corrupt Organization, 550 Prisoner: Civil Rights |
+
+**Notable cases:**
+- Demos v. The Blackstone Group (2026) — District Court, W.D. Washington
+- Three Court Master, L.P. v. UBS, AG Stamford Branch (2025) — District Court, S.D. New York
+- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
+- Boardwell, LLC v. Monexaba.vip (2025) — District Court, W.D. Texas
+- Parr v. BitPay (2025) — District Court, E.D. Texas
+- Chavous v. Housing Visions Unlimited Inc. (2025) — District Court, N.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Group%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -26,6 +26,13 @@ lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 federal-contracts: "7670"
+sec-filings: 2747
+sec-form-types:
+  - "424B3"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
 ---
 
 #vivek-ramaswamy #hedge-fund #biotech-investments #roivant-sciences #venture-capital
@@ -143,3 +150,21 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=QVT%20Financial&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2,747 |
+| Form Types | 424B3, SC 13D, SC 13D/A, SC 13G, SC 13G/A |
+
+**Notable filings:**
+
+- 2007-07-10 — **SC 13D**: SCHEDULE 13D
+- 2007-03-14 — **SC 13D/A**: SCHEDULE 13D AMENDMENT NO. 3
+- 2006-05-17 — **SC 13D**: SCHEDULE 13-D
+- 2007-12-07 — **SC 13D/A**: SCHEDULE 13D AMENDMENT NO. 3
+- 2006-08-18 — **SC 13D/A**: SCHEDULE 13D AMENDMENT NO.3
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22QVT%20Financial%22) (Tier 1)
+<!-- auto:sec-edgar end -->

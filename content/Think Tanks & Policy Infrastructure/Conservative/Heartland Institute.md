@@ -9,12 +9,18 @@ category: conservative
 tax-status: 501c3
 ein: "363309812"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 3350282
 total-assets: 1074871
 related: "[[Koch Network - Charles Koch]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
 lei: "549300WPNE39YXMINQ56"
 lei-jurisdiction: "US-DE"
+federal-register-mentions: 6
+regulatory-agencies:
+  - "Commerce Department"
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
+  - "National Oceanic and Atmospheric Administration"
 ---
 
 #think-tank #conservative #climate-denial #tobacco #fossil-fuel #NIPCC #model-legislation #state-policy #class-analysis
@@ -260,3 +266,23 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 6 |
+| Rule | 5 |
+| Notice | 1 |
+| Agencies | Commerce Department, Energy Department, Federal Energy Regulatory Commission, National Oceanic and Atmospheric Administration |
+
+**Recent regulatory activity:**
+- [Energy Conservation Program: Energy Conservation Standards for Dishwashers](https://www.federalregister.gov/documents/2024/04/24/2024-08212/energy-conservation-program-energy-conservation-standards-for-dishwashers) (2024-04-24) — Energy Department
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Conventional Cooking Products](https://www.federalregister.gov/documents/2024/02/14/2024-02008/energy-conservation-program-energy-conservation-standards-for-consumer-conventional-cooking-products) (2024-02-14) — Energy Department
+- [Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to the Coastal Virginia Offshore Wind Commercial Project Offshore of Virginia](https://www.federalregister.gov/documents/2024/01/23/2024-00297/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-the) (2024-01-23) — Commerce Department
+- [Energy Conservation Program: Energy Conservation Standards for Consumer Furnaces](https://www.federalregister.gov/documents/2023/12/18/2023-25514/energy-conservation-program-energy-conservation-standards-for-consumer-furnaces) (2023-12-18) — Energy Department
+- [Carbon Pricing in Organized Wholesale Electricity Markets](https://www.federalregister.gov/documents/2021/04/23/2021-08218/carbon-pricing-in-organized-wholesale-electricity-markets) (2021-04-23) — Energy Department
+- [Energy Conservation Program: Energy Conservation Standards for General Service Incandescent Lamps](https://www.federalregister.gov/documents/2019/12/27/2019-27515/energy-conservation-program-energy-conservation-standards-for-general-service-incandescent-lamps) (2019-12-27) — Energy Department ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heartland%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->

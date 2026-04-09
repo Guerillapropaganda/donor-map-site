@@ -29,6 +29,8 @@ related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel 
 federal-awards-total: 192677628
 federal-contracts-count: 25
 federal-grants-count: 5
+lei: "254900JAIX71VO1NS489"
+lei-jurisdiction: "MT"
 ---
 
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
@@ -371,3 +373,36 @@ THE OBJECTIVE  |
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Chevron) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 5 |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]]
+- [[Condoleezza Rice]]
+- [[Cathy McMorris Rodgers]] (Energy & Commerce)
+- [[Kevin McCarthy]]
+- [[John Cornyn]] (Judiciary, Intelligence, Finance)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900JAIX71VO1NS489](https://search.gleif.org/#/record/254900JAIX71VO1NS489) |
+| Legal Name | CHEVRON LIMITED |
+| Jurisdiction | MT |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-08T13:57:38Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

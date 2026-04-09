@@ -136,6 +136,7 @@ content-readiness:: ready
 |--------|-------|
 | Politicians Funded | 1 |
 | Active Lobbyist | Yes |
+| Federal Contractor | Yes |
 | Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
@@ -146,7 +147,7 @@ content-readiness:: ready
 
 **Funded politicians:**
 
-- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — lobbying: $10.6M
+- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — lobbying: $10.6M — contracts: $816K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

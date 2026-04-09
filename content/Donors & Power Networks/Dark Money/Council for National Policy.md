@@ -2,7 +2,7 @@
 title: "Council for National Policy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -29,6 +29,11 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 4179564
 total-assets: 3694941
 related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]]"
+fara-status: "registrant"
+fara-records: 4
+fara-countries:
+  - "ERITREA"
+  - "IRAN"
 ---
 
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy
@@ -129,3 +134,20 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/720921017) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 4 |
+| Countries | ERITREA, IRAN |
+| Foreign Principal Records | 2 |
+| Registrant Records | 2 |
+
+**Foreign principals:**
+- National Representative Council of Eritrea - GIE (ERITREA)
+- National Council of Resistance of Iran (NCRI) (IRAN)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Council%20for%20National%20Policy) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

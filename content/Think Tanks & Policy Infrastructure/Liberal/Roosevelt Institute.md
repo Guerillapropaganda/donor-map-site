@@ -2,14 +2,14 @@
 title: "Roosevelt Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 related: "[[Goldman Sachs]] · [[SEIU - Service Employees International Union|SEIU]]"
 court-cases: 73
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Colorado"
@@ -21,6 +21,10 @@ court-jurisdictions:
   - "District Court, M.D. Georgia"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
+ein: "237213592"
+nonprofit-status: "501(c)(3)"
+total-revenue: 36033848
+total-assets: 48635745
 ---
 
 #think-tank #liberal #progressive-economics #antitrust #inequality #industrial-policy #monopoly-power #class-analysis
@@ -241,3 +245,28 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Roosevelt%20Institute%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 237213592 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $36.0M |
+| Total Assets | $48.6M |
+| NTEE Code | B110 |
+| IRS Ruling Date | 1972-08-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237213592/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237213592) (Tier 1)
+<!-- auto:nonprofit-990 end -->

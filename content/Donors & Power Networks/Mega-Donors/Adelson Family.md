@@ -2,15 +2,13 @@
 title: "Adelson Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
-  - "Benjamin Netanyahu"
-  - "Marco Rubio"
+  - "Nikki Haley"
 issues:
   - "Israel & Foreign Policy"
 ein: 223769645
@@ -18,6 +16,8 @@ annual-revenue: "$706K"
 net-assets: "$5.9M"
 tax-year: "2023"
 related: "[[Catherine Cortez Masto]]"
+last-enriched: "2026-04-09"
+total-political-spend: "$1,000"
 ---
 
 
@@ -262,3 +262,20 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 223769645](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,000 |
+| Contributions | 2 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| WINRED | $500 | — |
+| NIKKI HALEY FOR PRESIDENT INC. | $500 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Adelson%20Family) (Tier 1)
+<!-- auto:fec-donor end -->

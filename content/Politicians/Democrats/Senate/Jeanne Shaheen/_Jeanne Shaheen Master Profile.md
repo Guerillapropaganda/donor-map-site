@@ -189,7 +189,7 @@ content-readiness:: ready
 | Metric | Value |
 |--------|-------|
 | Donors Who Also Lobby | 1 of 2 |
-| Donors With Federal Contracts | 1 |
+| Donors With Federal Contracts | 2 |
 | Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
@@ -201,7 +201,7 @@ content-readiness:: ready
 
 **Donors who lobby (by spend):**
 
-- [[BAE Systems]] — $10.6M lobbying spend (Budget/Appropriations, Defense, Economics/Economic Development)
+- [[BAE Systems]] — $10.6M lobbying spend (Budget/Appropriations, Defense, Economics/Economic Development) + $816K in contracts
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->

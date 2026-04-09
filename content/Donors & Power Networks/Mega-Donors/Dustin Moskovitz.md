@@ -50,6 +50,9 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
+federal-register-mentions: 2
+regulatory-agencies:
+  - "Federal Trade Commission"
 ---
 
 #donor #billionaire #democratic #tech #dark-money #effective-altruism
@@ -180,3 +183,18 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Dustin%20Moskovitz%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Notice | 2 |
+| Agencies | Federal Trade Commission |
+
+**Recent regulatory activity:**
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2018/03/15/2018-05248/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2018-03-15) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger](https://www.federalregister.gov/documents/2016/08/10/2016-18915/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger) (2016-08-10) — Federal Trade Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Dustin%20Moskovitz%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "United Farm Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -18,7 +18,7 @@ tax-year: "2020"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 59
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Children and Families Administration"
   - "Coast Guard"
@@ -53,6 +53,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
+total-political-spend: "$1,000"
 ---
 
 #ufw #farmworkers #labor #cesar-chavez #agriculture #immigration #california
@@ -158,3 +159,19 @@ content-readiness:: ready
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22United%20Farm%20Workers%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,000 |
+| Contributions | 1 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| CIRO D. RODRIGUEZ FOR CONGRESS | $1,000 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=United%20Farm%20Workers) (Tier 1)
+<!-- auto:fec-donor end -->

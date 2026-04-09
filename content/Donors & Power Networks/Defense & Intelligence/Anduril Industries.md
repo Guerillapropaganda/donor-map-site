@@ -52,6 +52,12 @@ court-jurisdictions:
   - "District Court, N.D. Georgia"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. California"
+federal-register-mentions: 18
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Justice Department"
+  - "Pipeline and Hazardous Materials Safety Administration"
+  - "Transportation Department"
 ---
 
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
@@ -304,3 +310,23 @@ content-readiness:: draft
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anduril%20Industries%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 18 |
+| Notice | 18 |
+| Agencies | Antitrust Division, Justice Department, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/01/16/2026-00872/hazardous-materials-notice-of-actions-on-special-permits) (2026-01-16) — Transportation Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Training & Readiness Accelerator II](https://www.federalregister.gov/documents/2025/08/13/2025-15380/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-training-and) (2025-08-13) — Justice Department
+- [Hazardous Materials: Notice of Applications for Modification to Special Permits](https://www.federalregister.gov/documents/2025/02/24/2025-02971/hazardous-materials-notice-of-applications-for-modification-to-special-permits) (2025-02-24) — Transportation Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2025/01/24/2025-01712/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2025-01-24) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Defense Industrial Based Consortium](https://www.federalregister.gov/documents/2024/09/16/2024-20965/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-defense-industrial) (2024-09-16) — Justice Department
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Expeditionary Missions Consortium-Crane](https://www.federalregister.gov/documents/2024/09/12/2024-20744/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-expeditionary) (2024-09-12) — Justice Department
+- ... and 12 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anduril%20Industries%22) (Tier 1)
+<!-- auto:federal-register end -->

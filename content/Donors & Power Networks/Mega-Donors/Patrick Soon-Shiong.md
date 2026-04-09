@@ -243,3 +243,22 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Patrick%20Soon-Shiong) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 6 |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Cathy McMorris Rodgers]] (Energy & Commerce)
+- [[Mike Johnson]]
+- [[Ron Johnson]]
+- [[Lindsey Graham]]
+- [[Kevin McCarthy]]
+- [[John McCain]]
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

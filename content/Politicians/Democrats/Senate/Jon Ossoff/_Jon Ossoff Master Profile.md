@@ -290,12 +290,13 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 2 |
+| Donors Who Also Lobby | 2 of 2 |
 | Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
+- [[Entertainment and Hollywood Donors]] — $24.9M lobbying spend (Arts/Entertainment, Aviation/Airlines/Airports, Civil Rights/Civil Liberties) + $997K in contracts
 - [[Tech and Media Donors]] — $9.1M lobbying spend (Aerospace, Agriculture, Aviation/Airlines/Airports)
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*

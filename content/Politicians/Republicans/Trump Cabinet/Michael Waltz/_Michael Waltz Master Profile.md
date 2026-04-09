@@ -192,3 +192,29 @@ content-readiness:: draft
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412764) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2025-01-16 | H.R. 30: Preventing Violence Against Women by Illegal Aliens Act | **Not Voting** | Passed |
+| 2025-01-15 | H.R. 33: To amend the Internal Revenue Code of 1986 to provide special rules for the taxation of certain residents of Ta | **Not Voting** | Passed |
+| 2025-01-15 | H.R. 144: Tennessee Valley Authority Salary Transparency Act | **Not Voting** | Passed |
+| 2025-01-15 | H.R. 164: POWER Act of 2025 | **Not Voting** | Passed |
+| 2025-01-14 | H.R. 28: Protection of Women and Girls in Sports Act of 2025 | **Yea** | Passed |
+| 2025-01-14 | H.R. 153: Post-Disaster Assistance Online Accountability Act | **Yea** | Passed |
+| 2025-01-13 | H.R. 152: Federal Disaster Assistance Coordination Act | **Not Voting** | Passed |
+| 2025-01-13 | H.R. 192: Amtrak Executive Bonus Disclosure Act | **Not Voting** | Passed |
+| 2025-01-09 | H.R. 23: Illegitimate Court Counteraction Act | **Not Voting** | Passed |
+| 2025-01-07 | H.R. 29: Laken Riley Act | **Not Voting** | Passed |
+| 2025-01-03 | H.Res. 5: Adopting the Rules of the House of Representatives for the One Hundred Nineteenth Congress, and for other purp | **Yea** | Passed |
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Not Voting** | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Yea** | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Not Voting** | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Not Voting** | Passed |
+
+**Sources**
+
+- [Congress.gov: Michael Waltz](https://www.congress.gov/member/a000383) (Tier 1)
+- [GovTrack: Michael Waltz](https://www.govtrack.us/congress/members/412764) (Tier 1)
+<!-- auto:voting-record end -->

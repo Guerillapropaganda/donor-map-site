@@ -2,7 +2,7 @@
 title: "Democratic Governors Association"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -10,12 +10,16 @@ entity-type: "PAC"
 issues:
   - "Healthcare"
 federal-register-mentions: 4
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Coast Guard"
   - "Federal Election Commission"
   - "Homeland Security Department"
 related: "[[JB Pritzker Master Profile]]"
+ein: "274862860"
+nonprofit-status: "501(c)(3)"
+total-revenue: 1131836
+total-assets: 912774
 ---
 
 #democratic-governors-association #DGA #super-pac #gubernatorial #party-committee #corporate-donors #pharma
@@ -155,3 +159,28 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Democratic%20Governors%20Association%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 274862860 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1.1M |
+| Total Assets | $913K |
+| NTEE Code | W20 |
+| IRS Ruling Date | 2011-10-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/274862860/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/274862860) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -14,6 +14,50 @@ last-enriched: "2026-04-07"
 total-revenue: 316336
 total-assets: 148627
 related: "[[Palantir Technologies]] · [[Blackstone Group]] · [[Ford Motor Company]] · [[Amazon]] · [[_Lobbying Firms Framework]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+sec-filings: 1293
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "3"
+  - "3/A"
+  - "4"
+  - "8-A12B/A"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "EX-10.(GGG)"
+  - "EX-10.(HHH)"
+  - "EX-10.(LL)"
+  - "EX-10.1"
+  - "EX-10.2"
+  - "EX-10.3"
+  - "EX-10.JJ"
+  - "EX-23.(A)"
+  - "EX-23.A"
+  - "EX-4.(D)"
+  - "EX-4.1"
+  - "EX-99"
+  - "EX-99.(A)"
+  - "EX-99.(A)-7"
+  - "EX-99.(A)8"
+  - "EX-99.(C)"
+  - "EX-99.(D)"
+  - "EX-99.(E)"
+  - "EX-99.(F)"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.I"
+  - "LETTER"
+  - "PRE 14A"
+  - "PRER14A"
+  - "S-2"
+  - "S-2/A"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G/A"
+  - "SC TO-I"
+  - "SC TO-I/A"
 ---
 
 #lobbying #k-street #tax-policy #energy #defense #appropriations #tech #pharma #revolving-door #bipartisan-access
@@ -344,3 +388,21 @@ content-readiness:: ready
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1,293 |
+| Form Types | 10-K, 10-K/A, 10-Q, 3, 3/A, 4, 8-A12B/A, 8-K +34 more |
+
+**Notable filings:**
+
+- 2006-03-01 — **SC TO-I**: SC TO-I
+- 2006-04-20 — **SC TO-I/A**: THE ALPINE GROUP, INC / SC TO-I/A
+- 2003-06-23 — **SC TO-I**: SC TO-I
+- 2005-12-09 — **SC 13D**: SC 13D
+- 2005-10-06 — **8-K**: 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Alpine%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->
