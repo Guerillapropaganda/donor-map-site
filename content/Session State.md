@@ -12,6 +12,29 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code + Research
+Date: 2026-04-08 (continued — Reviews tab rebuild + editorial quality standards)
+
+Done (Code Claude):
+- **Reviews tab simplified** — replaced 3 sub-tabs with blocker lists → single scrollable timeline journal. Color-coded entries by author (blue=Code, green=Research, amber=Editor). Filter pills. Add Entry box.
+- **Blockers split by owner** — formal review auto-generates separate Code Claude and Research Claude entries based on blocker keywords
+- **URL note input focus fix** — switched to uncontrolled input (defaultValue + onBlur)
+- **ProfileData interface** — added all editorial fields so Reviews tab actually displays data
+- **Committed editorial review data** — Cori Bush, Carlos Gimenez, Sherrod Brown frontmatter was unstaged, now on v4
+
+Done (Research Claude / with David):
+- **Editorial quality block** added to Vault Rules — 7 core sections required for A+: Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Donation-to-Policy Timeline, Rhetorical Signature Moves, Analytical Patterns
+- **Review workflow rewritten** — three-stage (Research Claude reviews+fixes → Code Claude fixes pipeline → Editor approves). Review-fix-document-move on, not just find problems.
+- **Vault Rules updated** — editorial quality criteria, workflow clarification, decisions log
+
+Next session priorities:
+1. Research Claude: full editorial review + improvement of Cori Bush (fix what was found + flesh out sections)
+2. Continue Congress batch reviews with editorial quality pass
+3. Code Claude backlog (when GitHub Actions returns): corrupted auto-blocks, wrong FEC IDs, enrichment
+
+---
+
+## Previous Session
+Claude: Code + Research
 Date: 2026-04-08 (marathon session — ops fixes + contradiction scanner + money trail + governor pipeline + A+ editorial system + first reviews + Reviews tab)
 
 Done (Code Claude):
