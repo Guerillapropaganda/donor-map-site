@@ -12,6 +12,49 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-08 (contradiction scanner + money trail + governor pipeline + ops fixes)
+
+Done:
+- **Checklist pipeline buttons** — ▶ run buttons next to each checklist item (fec, govtrack, lda, etc.)
+- **URL Manager fix** — checked URLs no longer revert to unchecked after save (sidecar JSON triage)
+- **URL notes** — optional note input when triaging URLs (both URL Manager and profile viewer)
+- **Spacing fixes** — pipeline buttons, N/A buttons, URL triage buttons all closer to labels
+- **Trump connections fixed** — moved 30+ related: connections from body to frontmatter, added donors: field
+- **Internal-notes audit** — only 5 files have internal-notes, all valid YAML (no corruption)
+- **Contradiction scanner** (`scripts/contradiction-scanner.cjs`) — 4 checks:
+  - 34 both-sides donors (12 high story potential: AIPAC 18 pols, Goldman Sachs 17, Boeing 10)
+  - 1 opposition-funded contradiction (Elon Musk funds Newsom + Trump)
+  - 9 cross-ref mismatches (Peter Thiel listed by 6 media figures not in his profile)
+  - 9 cross-party connections to review
+  - Results wired into ops alerts dashboard
+- **Money Trail visualizer** (`/money-trail` in ops) — force-directed graph:
+  - Default: top 15 both-sides donors with cross-party flows
+  - Profile view: full donor→politician→committee→bill flow
+  - Draggable nodes, zoom, hover highlights, arrows, legend
+  - Color-coded: donors=amber, Dem=blue, Rep=red, committees=green
+- **Governor executive actions pipeline** (`scripts/governor-exec-actions.cjs`):
+  - California: 10 EOs via gov.ca.gov RSS (Tier 1)
+  - Florida: 25 EOs from flgov.com (Tier 1)
+  - NY/TX scrapers need HTML pattern fixes (0 results currently)
+  - Data written to Newsom and DeSantis profiles
+
+Known issues:
+- GitHub Actions still disabled (David awaiting reinstatement)
+- NY/TX governor scraper patterns need fixing (different HTML structures)
+- lda-pipeline.cjs still generates lda.senate.gov URLs (not yet fixed)
+
+Next session priorities:
+1. Graph legend on live site (Stories, Opposition, entity types)
+2. Fix NY/TX governor scraper HTML patterns
+3. Fix lda-pipeline.cjs domain (lda.senate.gov → lda.gov)
+4. Social scheduling for Distribution page
+5. Run contradiction scanner periodically (add to pipeline schedule)
+6. Verify live site build when GitHub Actions is back
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-08 (readiness overhaul + ops v2 + profile viewer rebuild + type-specific checklists)
 
 Done:
