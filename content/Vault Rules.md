@@ -133,6 +133,41 @@ verified-blocks:           # pipeline data blocks reviewed by editor
 - A **Bypass** button exists for edge cases — requires confirmation and logs the override
 - Bypass is for editorial judgment calls, not for skipping real requirements
 
+**Orphaned Claims from Broken URLs:**
+
+When a URL is archived/broken, any factual claim it was the sole source for becomes unsourced. Research Claude must:
+1. Search for a replacement Tier 1 source
+2. If none found, rewrite to remove the unsourced assertion — **document every rewrite in the editorial review log** (what was changed and why, preserving the correction trail)
+3. If the claim is critical and verifiable but not yet sourced, mark `(URL NEEDED)` — this demotes the profile from ready to draft
+4. Add removed/rewritten claims to `corrections` frontmatter array for permanent audit trail
+
+**Editorial Review System (A+ Promotion):**
+
+Research Claude conducts section-by-section editorial review of ready (B) profiles to promote them to verified (A+). The process is documented in frontmatter.
+
+- **Partial sign-off**: Blocks are signed off individually via `verified-blocks`. A+ requires ALL blocks for the profile type to pass.
+- **Priority queue**: Profiles are reviewed in priority order (connections 25% + source density 30% + corroboration 20% + body length 10% - gap penalty 15%). Run `node scripts/editorial-priority.cjs` to generate the queue.
+- **Type batching**: Reviews are batched by type for consistency: Congress → Executive → Donors → Corporations → Think Tanks/PACs → Lobbying/Media.
+- **Review log**: Each review is recorded in `editorial-review-log` frontmatter (date, reviewer, result, blocks reviewed, blockers, notes).
+- **Results**: `pass` = all blocks verified, promote to A+. `block` = specific blockers documented. `defer` = needs pipeline work first.
+- **Orphan claims check**: Mandatory block on every review — verify all archived URLs' claims are still sourced.
+- **Staleness**: A+ profiles demote to B after 90 days without re-enrichment. Re-review required for re-promotion.
+
+**Review blocks by profile type:**
+
+| Type | Blocks |
+|------|--------|
+| Politician (Congress) | voting-records, committee-assignments, bills, fec-data, source-diversity, connections, enriched, contradiction-review, orphan-claims, sign-off |
+| Politician (President) | executive-orders, cabinet-appointments, fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, sign-off |
+| Politician (Governor) | executive-actions, state-legislation (N/A), fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, sign-off |
+| Politician (Cabinet) | appointment, prior-role, fec-data, source-diversity, connections, enriched, voting-records (N/A), contradiction-review, orphan-claims, sign-off |
+| Donor | politicians-funded, contribution-amounts, sector, source-diversity, connections, enriched, orphan-claims, sign-off |
+| Corporation | pac-contributions, lobbying, contracts, sec-filings (N/A), source-diversity, connections, enriched, contradiction-review, orphan-claims, sign-off |
+| Think Tank | funders, 990-data, policy-mapped, source-type (1+), connections, orphan-claims, sign-off |
+| PAC | fec-data, donors-mapped, politicians-funded, source-diversity, connections, orphan-claims, sign-off |
+| Lobbying Firm | client-list, lobbying-spend, fara (N/A), revolving-door (N/A), source-diversity, connections, orphan-claims, sign-off |
+| Media | ownership, political-lean, platform, source-type (N/A), connections, orphan-claims, sign-off |
+
 **Story grading (stories, events, sub-notes):**
 
 Stories and editorial content don't require pipeline enrichment. They're graded by source density:
@@ -167,6 +202,7 @@ Stories DO require: sourced URLs, profiles linked via wikilinks, editorial sign-
 | Orphan detection | Profiles with no incoming links | Code Claude | Yes |
 | Update cadence | Review frequency matches subject activity | Both | Semi-auto |
 | Known gaps | What we don't know, explicitly documented | Both | Semi-auto |
+| Orphan claims | Broken URLs' claims still sourced or rewritten | Research Claude | Manual |
 | Editorial sign-off | Human reviewed and approved | Research Claude / David | Manual |
 
 ---
@@ -184,6 +220,12 @@ Stories DO require: sourced URLs, profiles linked via wikilinks, editorial sign-
 - "Need lobbying data" → Code Claude runs LDA pipeline
 - "Story needs FEC backing" → Code Claude runs FEC on referenced profiles
 - Research Claude writes story → Code Claude verifies wikilinks + URLs work
+
+**A+ Editorial Review workflow:**
+- Research Claude runs editorial review queue → signs off blocks → promotes to A+
+- Code Claude builds `scripts/editorial-priority.cjs` to generate the review queue
+- Ops app displays editorial review log on the profile Notes tab
+- `editorial-result: block` with pipeline blockers → Code Claude runs the needed pipeline
 
 **Shared workspace (Ops app):**
 - **Notes tab** = handoff point between Claudes (internal-notes frontmatter)
@@ -289,9 +331,28 @@ opposes: "[[Adversary 1]] · [[Target 2]]" # adversarial relationships — criti
 - Always use full filename: `[[_Elizabeth Warren Master Profile|Elizabeth Warren]]`
 - Alias syntax for readability
 
+### Editorial review fields (on reviewed profiles):
+```yaml
+editorial-review-date: YYYY-MM-DD
+editorial-reviewer: "Research Claude" | "David"
+editorial-result: pass | block | defer
+editorial-blockers:
+  - "Missing Congress.gov data"
+editorial-review-log:
+  - date: YYYY-MM-DD
+    reviewer: "Research Claude"
+    result: pass | block | defer
+    blocks-reviewed: [block-ids...]
+    blockers: []
+    notes: "freetext — include all rewrites from orphan claims"
+corrections:                          # permanent audit trail of editorial changes
+  - "2026-04-09: Removed $2.4M claim — source URL dead, no replacement found"
+```
+
 ### Callouts:
 - `[!money]` — funding connections
 - `[!contradiction]` — policy gaps
+- `[!contradiction-cleared]` — resolved contradiction (by Research Claude)
 - `[!quote]` — direct quotes with source and date
 
 ---
@@ -345,6 +406,7 @@ Permanent record of architectural and editorial decisions that affect the whole 
 
 | Date | Decision | Made by |
 |------|----------|---------|
+| 2026-04-08 | A+ Editorial Review System: section-by-section sign-off via verified-blocks, priority scoring (connections+sources+corroboration-gaps), type-batched review queue, detailed review log in frontmatter, orphaned claim repair for broken URLs with correction trail. 899 ready profiles queued. | David |
 | 2026-04-08 | Editorial framework: checklist enforces readiness (with bypass), story grading (story/report/investigation by URL count), contradiction investigation mandatory for A+, Research+Code Claude integration protocol, cross-ref/wikilink/orphan checks planned | David |
 | 2026-04-08 | Readiness overhaul: "developed" removed, 4-tier system (raw/draft/ready/verified). Investigative journalism standards: corroboration, staleness decay, known-gaps, editorial sign-off gate. Verified = A+, Ready = B. | David |
 | 2026-04-08 | Senate LDA (lda.gov) temporarily removed from Tier 1 — site mid-migration from lda.senate.gov, URLs broken. Reinstate after June 2026 when migration completes. Existing LDA citations stay as Archived until then. | David |
