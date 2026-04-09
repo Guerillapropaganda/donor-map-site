@@ -24,7 +24,7 @@ bills-cosponsored: 0
 stock-trades: 2
 stock-trade-tickers:
   - "MTUM"
-fec-candidate-id: "S0MD00069"
+fec-candidate-id: "S4LA00065"
 related: "[[Dan Crenshaw Master Profile]]"
 ---
 

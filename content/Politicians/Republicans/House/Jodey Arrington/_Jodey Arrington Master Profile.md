@@ -24,7 +24,6 @@ top-donors:
   - "Heritage Foundation"
 total-received: "$1,678,317"
 fec-candidate-id: "H6TX19099"
-bioguide-id: "A000383"
 govtrack-id: 412726
 bills-sponsored: 54
 bills-cosponsored: 79

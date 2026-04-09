@@ -16,7 +16,6 @@ last-enriched: "2026-04-06"
 ofac-programs:
   - "SDGT"
   - "SDNT"
-bioguide-id: "A000383"
 source-types:
   - Congress
   - FEC

@@ -14,7 +14,6 @@ issues:
 top-donors:
   - "California Building and Construction Trades Council"
   - "California Apartment Association"
-bioguide-id: "A000383"
 source-types:
   - Congress
 known-gaps:

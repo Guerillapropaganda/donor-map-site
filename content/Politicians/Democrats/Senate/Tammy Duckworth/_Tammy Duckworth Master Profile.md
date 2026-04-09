@@ -20,7 +20,6 @@ top-donors:
   - "Raytheon (RTX)"
   - "AFSCME"
   - "SEIU"
-bioguide-id: "A000383"
 stock-trades: 15
 stock-trade-tickers:
   - "CAT"

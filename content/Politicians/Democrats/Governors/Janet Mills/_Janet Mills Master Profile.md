@@ -11,7 +11,6 @@ state: "Maine"
 state-abbr: "ME"
 top-donors:
   - "Democratic Senatorial Campaign Committee"
-bioguide-id: "A000383"
 total-received: "$126,322"
 fec-candidate-id: "H4ME02085"
 source-types:

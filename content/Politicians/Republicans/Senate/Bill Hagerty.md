@@ -10,7 +10,6 @@ bills-sponsored: 22
 bills-cosponsored: 158
 website: "https://www.hagerty.senate.gov"
 phone: "202-224-4944"
-bioguide-id: "A000383"
 total-received: "$13,807,466"
 fec-candidate-id: "S0TN00169"
 source-types:

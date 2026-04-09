@@ -21,8 +21,7 @@ top-donors:
   - "Northrop Grumman"
   - "Raytheon"
   - "Lockheed Martin"
-fec-candidate-id: "S0KS00216"
-bioguide-id: "A000383"
+fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]]"
 ---

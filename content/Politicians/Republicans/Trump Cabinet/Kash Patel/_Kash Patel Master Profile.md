@@ -10,7 +10,6 @@ chamber: "Cabinet"
 top-donors:
   - "Save America PAC"
   - "MAGA Inc"
-bioguide-id: "A000383"
 source-types:
   - Congress
   - FEC

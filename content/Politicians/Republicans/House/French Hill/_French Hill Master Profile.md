@@ -20,7 +20,6 @@ top-donors:
   - "Fairshake PAC"
   - "Crypto Industry Bloc"
   - "Marc Andreessen & Horowitz"
-bioguide-id: "A000383"
 total-received: "$3,232,609"
 fec-candidate-id: "H4AR02141"
 govtrack-id: 412609

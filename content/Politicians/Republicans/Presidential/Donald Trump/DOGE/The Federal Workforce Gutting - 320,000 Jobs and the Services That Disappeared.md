@@ -5,7 +5,6 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
-bioguide-id: "A000383"
 related: "[[The Contractor Beneficiaries - Who Replaced the Civil Servants]]"
 ---
 
