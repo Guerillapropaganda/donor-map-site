@@ -237,13 +237,14 @@ export default function UrlManagerPage() {
     setHasChanges(true)
   }
 
-  // URL card
-  const UrlCard = ({ u, isCompleted }: { u: CheckedUrl | CompletedUrl; isCompleted?: boolean }) => {
+  // URL card — plain function (not a component) to avoid remount/focus-loss on state change
+  const renderUrlCard = (u: CheckedUrl | CompletedUrl, isCompleted?: boolean) => {
     const breadcrumb = u.profilePath.replace("content/", "").replace(/_/g, "").replace(/ Master Profile\.md$/, "").replace(/\.md$/, "").split("/").filter(Boolean)
     const isActive = "status" in u && !isCompleted
 
     return (
       <div
+        key={u.id}
         draggable={isActive}
         onDragStart={() => isActive && handleDragStart(u.id)}
         className={`p-2.5 rounded bg-[var(--color-bg)] hover:bg-[var(--color-bg-hover)] transition-colors border border-transparent hover:border-[var(--color-border)] group ${
@@ -325,7 +326,7 @@ export default function UrlManagerPage() {
       <div className="p-2 space-y-1 max-h-[40vh] overflow-y-auto">
         {items.length === 0 ? (
           <div className="text-[10px] text-[var(--color-text-dim)] text-center py-6">{dragItem ? "Drop here" : "No URLs"}</div>
-        ) : items.map((u) => <UrlCard key={u.id} u={u} isCompleted={false} />)}
+        ) : items.map((u) => renderUrlCard(u))}
       </div>
     </div>
   )
@@ -342,7 +343,7 @@ export default function UrlManagerPage() {
       <div className="p-2 space-y-1 max-h-[30vh] overflow-y-auto">
         {items.length === 0 ? (
           <div className="text-[10px] text-[var(--color-text-dim)] text-center py-4">Empty</div>
-        ) : items.map((u, i) => <UrlCard key={`${u.id}-done-${i}`} u={u} isCompleted={true} />)}
+        ) : items.map((u) => renderUrlCard(u, true))}
       </div>
     </div>
   )
@@ -439,7 +440,7 @@ export default function UrlManagerPage() {
                 <button onClick={checkAll} disabled={checking} className="text-[9px] text-[var(--color-steel)] hover:underline">Check All</button>
               </div>
               <div className="p-2 space-y-1 max-h-[50vh] overflow-y-auto">
-                {uncheckedUrls.slice(0, uncheckedVisible).map((u) => <UrlCard key={u.id} u={u} isCompleted={false} />)}
+                {uncheckedUrls.slice(0, uncheckedVisible).map((u) => renderUrlCard(u))}
               </div>
               {uncheckedUrls.length > uncheckedVisible && (
                 <div className="p-3 border-t border-[var(--color-border)] flex items-center justify-center gap-3">
