@@ -42,7 +42,7 @@ opposes: '[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]]'
 #linda-mcmahon #trump-cabinet #education #wwe #school-choice #mega-donor #afpi #class-analysis
 
 related: [[_Donald Trump Master Profile]] · [[_Howard Lutnick Master Profile]]
-donors: [[MAGA Inc]] · Trump Victory Fund · [[America First Policy Institute]] · Connecticut GOP
+donors: [[MAGA Inc]] · Trump Victory Fund · [[America First Policy Institute]] · Connecticut GOP · [[US CHAMBER OF COMMERCE]]
 
 profile-status:: ready
 
