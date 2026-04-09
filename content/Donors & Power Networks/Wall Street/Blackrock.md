@@ -2,7 +2,7 @@
 title: "BlackRock"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,7 +11,7 @@ issues:
   - "Wall Street & Finance"
 ein: "882750831"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 subawards-issued: 5
 subawards-issued-amount: 923723
 subawards-received: 5
@@ -22,6 +22,19 @@ federal-awards-total: 1387500
 federal-contracts-count: 25
 federal-grants-count: 6
 related: "[[Council on Foreign Relations]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+federal-register-mentions: 549
+regulatory-agencies:
+  - "Comptroller of the Currency"
+  - "Employee Benefits Security Administration"
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Labor Department"
+  - "Securities and Exchange Commission"
+  - "Treasury Department"
+  - "Veterans Employment and Training Service"
+lei: "984500K407AAD4456952"
+lei-jurisdiction: "IE"
 ---
 
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
@@ -177,3 +190,40 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/963017a4-7c44-8029-c07b-ea24185fdc8a-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 549 |
+| Final Rules | 75 |
+| Proposed Rules | 57 |
+| Notices | 417 |
+| Agencies | Comptroller of the Currency, Employee Benefits Security Administration, Energy Department, Federal Energy Regulatory Commission, Federal Trade Commission, Labor Department, Securities and Exchange Commission, Treasury Department +1 more |
+
+**Recent regulatory activity:**
+- [Fiduciary Duties in Selecting Designated Investment Alternatives](https://www.federalregister.gov/documents/2026/03/31/2026-06178/fiduciary-duties-in-selecting-designated-investment-alternatives) (2026-03-31) — Labor Department
+- [HIRE Vets Medallion Program-Announcement of HIRE Vets Medallion Award Recipients](https://www.federalregister.gov/documents/2026/03/10/2026-04653/hire-vets-medallion-program-announcement-of-hire-vets-medallion-award-recipients) (2026-03-10) — Labor Department
+- [Implementing the Guiding and Establishing National Innovation for U.S. Stablecoins Act for the Issuance of Stablecoins by Entities Subject to the Jurisdiction of the Office of the Comptroller of the Currency](https://www.federalregister.gov/documents/2026/03/02/2026-04089/implementing-the-guiding-and-establishing-national-innovation-for-us-stablecoins-act-for-the) (2026-03-02) — Treasury Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [Notice of an Application of the Chicago Mercantile Exchange Inc. for an Exemption Pursuant to Section 36 of the Securities Exchange Act of 1934 and Request for Comment in Connection With the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Securities Exchange Act of 1934 for Certain Cash-Settled Security Futures](https://www.federalregister.gov/documents/2026/02/12/2026-02821/notice-of-an-application-of-the-chicago-mercantile-exchange-inc-for-an-exemption-pursuant-to-section) (2026-02-12) — Securities and Exchange Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2026/01/21/2026-01081/combined-notice-of-filings-1) (2026-01-21) — Energy Department
+- ... and 543 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BlackRock%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [984500K407AAD4456952](https://search.gleif.org/#/record/984500K407AAD4456952) |
+| Legal Name | Blackrock College |
+| Jurisdiction | IE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2025-09-19T14:33:18Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

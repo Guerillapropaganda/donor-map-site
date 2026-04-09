@@ -29,6 +29,33 @@ regulatory-agencies:
   - "Labor Department"
   - "Labor-Management Standards Office"
   - "National Labor Relations Board"
+sec-filings: 200
+sec-form-types:
+  - "10-K/A"
+  - "425"
+  - "485APOS"
+  - "485BPOS"
+  - "487"
+  - "497"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFC14A"
+  - "DFAN14A"
+  - "DFRN14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.A.7"
+  - "N-14"
+  - "N-14/A"
+  - "N-CSR"
+  - "N-CSRS"
+  - "PREC14A"
+  - "PRRN14A"
+  - "PX14A6G"
+  - "PX14A6N"
+  - "S-6"
 ---
 
 #think-tank #liberal #labor #economic-policy #minimum-wage #pro-act #nlrb #revolving-door
@@ -311,3 +338,21 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Economic%20Policy%20Institute%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 200 |
+| Form Types | 10-K/A, 425, 485APOS, 485BPOS, 487, 497, CORRESP, DEF 14A +17 more |
+
+**Notable filings:**
+
+- 2019-05-16 — **PX14A6G**: PX14A6G
+- 2024-12-13 — **PX14A6G**: PX14A6G
+- 2007-06-05 — **EX-99.1**: SLIDES FOR ONLINE WEB SIMULCAST OF THE COMPANY'S INVESTOR DAY MEETING
+- 2025-05-02 — **PX14A6G**: PX14A6G
+- 2025-04-30 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Economic%20Policy%20Institute%22) (Tier 1)
+<!-- auto:sec-edgar end -->

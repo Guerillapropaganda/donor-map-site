@@ -18,7 +18,7 @@ tax-year: "2023"
 lobbying-spend: 6500000
 lobbying-filings: 51
 federal-register-mentions: 79
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Antitrust Division"
   - "Commerce Department"
@@ -36,6 +36,18 @@ federal-grants-count: 0
 top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
 related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]]"
+court-cases: 871
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "District Court, D. Minnesota"
+  - "District Court, D. Oregon"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, M.D. Louisiana"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Texas"
 ---
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
@@ -185,7 +197,7 @@ content-readiness:: ready
 
 - [[Steve Scalise]] — lobbying: $6.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Register Activity
@@ -241,3 +253,22 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 871 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Fifth Circuit, District Court, D. Minnesota, District Court, D. Oregon, District Court, District of Columbia, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, M.D. Louisiana +7 more |
+| Case Types | 2899 Other Statutes APA/Review Agency, 470 Other Statutes: Racketeer/Corrupt Organization, 850 Securities/Commodities, 890 Other Statutory Actions, Other Statutes: Other Statutory Actions |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- Jourdain v. Warner Bros. Discovery, Inc. (2026) — District Court, S.D. New York
+- Demos v. Valero Energy Corp (2026) — District Court, W.D. Washington
+- Center for Taxpayer Rights v. IRS (2026) — Court of Appeals for the D.C. Circuit
+- Valero Marketing and Supply Company v. United States (2026) — United States Court of International Trade
+- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Valero%20Energy%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

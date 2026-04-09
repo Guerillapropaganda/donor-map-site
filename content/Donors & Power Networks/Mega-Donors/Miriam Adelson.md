@@ -50,6 +50,35 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 3842
 total-assets: 92607
 related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]]"
+sec-filings: 283
+sec-form-types:
+  - "144"
+  - "3"
+  - "4"
+  - "424B7"
+  - "5"
+  - "8-K"
+  - "DEF 14A"
+  - "EX-1"
+  - "EX-1.1"
+  - "EX-1.2"
+  - "EX-1.3"
+  - "EX-10.1"
+  - "EX-10.2"
+  - "EX-10.3"
+  - "EX-2"
+  - "EX-24"
+  - "EX-5.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SCHEDULE 13D/A"
+lobbying-spend: 130000
+lobbying-filings: 8
 ---
 
 
@@ -341,3 +370,40 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 283 |
+| Form Types | 144, 3, 4, 424B7, 5, 8-K, DEF 14A, EX-1 +17 more |
+
+**Notable filings:**
+
+- 2022-03-17 — **SC 13D/A**: SCHEDULE 13D, AMENDMENT NO. 10
+- 2023-11-30 — **SC 13D/A**: SCHEDULE 13D, AMENDMENT NO. 11
+- 2025-12-18 — **SCHEDULE 13D/A**: SCHEDULE 13D/A
+- 2019-02-13 — **SC 13D/A**: AMENDMENT NO. 7
+- 2011-11-18 — **EX-99.2**: EXHIBIT 99.2
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Miriam%20Adelson%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $130K |
+| Quarterly Filings | 8 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Education
+
+**Lobbying firms:** MS. MIRIAM A. KAZANJIAN
+
+**Agencies contacted:** Education, Dept of, HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Miriam%20Adelson) (Tier 1)
+<!-- auto:lda-lobbying end -->

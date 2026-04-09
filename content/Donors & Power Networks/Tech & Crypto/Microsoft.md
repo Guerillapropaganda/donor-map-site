@@ -2,7 +2,7 @@
 title: "Microsoft"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -52,6 +52,9 @@ regulatory-agencies:
   - "Housing and Urban Development Department"
   - "National Oceanic and Atmospheric Administration"
 related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Patty Murray]]"
+federal-awards-total: 470321891
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense
@@ -158,7 +161,7 @@ content-readiness:: ready
 - [[Ro Khanna]] (Antitrust (Judiciary)) — lobbying: $20.7M
 - [[Patty Murray]] (Appropriations) — lobbying: $20.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2022)
@@ -301,3 +304,25 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Microsoft%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $470.3M |
+| Contracts (recent 3yr) | 25 ($1.8B sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 3 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $220.0M | Department of Defense | MICROSOFT CONSULTING SERVICES (MCS) AND MICROSOFT PREMIER SUPPORT (MPS) FOR THE UNITED STATES MARINE |
+| $172.5M | Department of Defense | ARMY CYBER COMMANDS MICROSOFT CONSULTING SERVICES AND MICROSOFT PREMIER SUPPORT |
+| $160.7M | Department of Defense | IGF::OT::IGF - METSS FOR USMC |
+| $148.0M | Department of Defense | IGF::OT::IGF LABOR |
+| $119.5M | Department of Defense | MICROSOFT CONSULTING SERVICES (MCS) AND UNIFIED SUPPORT FOR THE U.S. NAVY / PROGRAM EXECUTIVE OFFICE |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd77b7c3-663e-cb91-229f-5766a50e9b7f-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

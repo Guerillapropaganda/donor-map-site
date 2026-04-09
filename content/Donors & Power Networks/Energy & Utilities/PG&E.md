@@ -2,20 +2,24 @@
 title: "PG&E"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
-ein: 943358729
+ein: "943358729"
 annual-revenue: "$23.4M"
 net-assets: "$99.5M"
 tax-year: "2023"
 related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]]"
 top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
+total-revenue: 10625317
+total-assets: 94284291
 ---
 
 
@@ -161,3 +165,28 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 943358729 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $10.6M |
+| Total Assets | $94.3M |
+| NTEE Code | T20 |
+| IRS Ruling Date | 2000-05-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/943358729/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/943358729/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/943358729/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/943358729/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/943358729/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/943358729) (Tier 1)
+<!-- auto:nonprofit-990 end -->

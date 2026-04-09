@@ -2,7 +2,7 @@
 title: "BAE Systems"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -16,7 +16,7 @@ annual-revenue: "$418.7M"
 net-assets: "$54.6M"
 tax-year: "2022"
 court-cases: 1227
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, D. Hawaii"
   - "District Court, D. Maryland"
@@ -47,6 +47,14 @@ top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "336992"
 lobbying-spend: 10640000
 lobbying-filings: 50
+federal-register-mentions: 651
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Defense Department"
+  - "Federal Aviation Administration"
+  - "Justice Department"
+  - "Pipeline and Hazardous Materials Safety Administration"
+  - "Transportation Department"
 ---
 
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
@@ -126,17 +134,20 @@ content-readiness:: ready
 | Metric | Value |
 |--------|-------|
 | Politicians Funded | 1 |
+| Active Lobbyist | Yes |
 | Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
 
+- Lobbies on **Defense** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
+- Lobbies on **Intelligence** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
 
 **Funded politicians:**
 
-- [[Jeanne Shaheen]] (Foreign Relations, Armed Services)
+- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — lobbying: $10.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)
@@ -325,3 +336,25 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=BAE%20Systems) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 651 |
+| Final Rules | 234 |
+| Proposed Rules | 196 |
+| Notices | 221 |
+| Agencies | Antitrust Division, Defense Department, Federal Aviation Administration, Justice Department, Pipeline and Hazardous Materials Safety Administration, Transportation Department |
+
+**Recent regulatory activity:**
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-The National Advanced Mobility Consortium, Inc. (Formerly Known as the Robotics Technology Consortium)](https://www.federalregister.gov/documents/2026/03/26/2026-05925/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-the-national) (2026-03-26) — Justice Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) — Transportation Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04423/arms-sales-notification) (2026-03-06) — Defense Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/03/06/2026-04422/arms-sales-notification) (2026-03-06) — Defense Department
+- [Hazardous Materials: Notice of Applications for New Special Permits](https://www.federalregister.gov/documents/2026/02/02/2026-02087/hazardous-materials-notice-of-applications-for-new-special-permits) (2026-02-02) — Transportation Department
+- [Arms Sales Notification](https://www.federalregister.gov/documents/2026/02/02/2026-02055/arms-sales-notification) (2026-02-02) — Defense Department
+- ... and 645 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BAE%20Systems%22) (Tier 1)
+<!-- auto:federal-register end -->

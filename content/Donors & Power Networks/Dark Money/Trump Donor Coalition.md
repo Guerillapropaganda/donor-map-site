@@ -180,3 +180,18 @@ content-readiness:: developed
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Trump%20Donor%20Coalition) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $40K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+<!-- auto:influence-cross-ref end -->

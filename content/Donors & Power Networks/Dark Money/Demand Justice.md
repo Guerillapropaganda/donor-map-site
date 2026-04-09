@@ -2,7 +2,7 @@
 title: "Demand Justice"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -13,7 +13,7 @@ issues:
   - "Dark Money & Campaign Finance"
 ein: "863689961"
 nonprofit-status: "501(c)(4)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 566313
 total-assets: 1534141
 total-political-spend: "$20,000"
@@ -30,6 +30,9 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
+federal-register-mentions: 1
+regulatory-agencies:
+  - "Executive Office of the President"
 ---
 
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor
@@ -273,7 +276,7 @@ content-readiness:: ready
 - [[Jamie Raskin]] (Judiciary) — lobbying: $650K
 - [[Sheldon Whitehouse]] (Environment & Public Works) — lobbying: $650K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)
@@ -294,3 +297,17 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Demand%20Justice%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Presidential Document | 1 |
+| Agencies | Executive Office of the President |
+
+**Recent regulatory activity:**
+- [Lesbian, Gay, Bisexual, and Transgender Pride Month, 2016](https://www.federalregister.gov/documents/2016/06/03/2016-13361/lesbian-gay-bisexual-and-transgender-pride-month-2016) (2016-06-03) — Executive Office of the President
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Demand%20Justice%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "America Votes"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -21,7 +21,7 @@ annual-revenue: "$115.0M"
 net-assets: "$24.3M"
 tax-year: "2023"
 nonprofit-status: "501(c)(4)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 total-revenue: 91066512
 total-assets: 45486683
 federal-register-mentions: 1
@@ -35,6 +35,16 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+court-cases: 84
+court-jurisdictions:
+  - "District Court, D. Maine"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Hampshire"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. North Carolina"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, N.D. Alabama"
+  - "District Court, W.D. Wisconsin"
 ---
 
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization
@@ -229,3 +239,22 @@ content-readiness:: ready
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22America%20Votes%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 84 |
+| Courts | District Court, D. Maine, District Court, D. Massachusetts, District Court, D. New Hampshire, District Court, E.D. Michigan, District Court, E.D. North Carolina, District Court, M.D. Pennsylvania, District Court, N.D. Alabama, District Court, W.D. Wisconsin |
+| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 442 Civil Rights: Jobs |
+
+**Notable cases:**
+- DINNER TABLE ACTION v. SCHNEIDER (2024) — District Court, D. Maine
+- Abasciano v. City of Boston (2024) — District Court, D. Massachusetts
+- Reschenthaler v. Schmidt (2024) — District Court, M.D. Pennsylvania
+- Coalition for Open Democracy v. Formella (2024) — District Court, D. New Hampshire
+- United States v. Town of Thornapple, Wisconsin (2024) — District Court, W.D. Wisconsin
+- New Hampshire Youth Movement v. Scanlan (2024) — District Court, D. New Hampshire
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22America%20Votes%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

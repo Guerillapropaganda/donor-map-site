@@ -109,7 +109,7 @@ content-readiness:: ready
 
 - [[Dick Durbin]] (Judiciary) — lobbying: $2.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

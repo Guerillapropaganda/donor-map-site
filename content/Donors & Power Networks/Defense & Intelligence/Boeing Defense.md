@@ -2,7 +2,7 @@
 title: "Boeing Defense"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -12,6 +12,9 @@ politicians-funded:
 issues:
   - "Defense & Military"
 related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]]"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-09"
 ---
 
 #boeing #defense #aerospace #military #lobbying #government-contracts #safety #revolving-door #too-big-to-fail
@@ -139,3 +142,21 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - [Ballotpedia: Boeing Defense](https://ballotpedia.org/Boeing_Defense) (Tier 3)
 
 content-readiness:: developed
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Boeing%20Defense) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

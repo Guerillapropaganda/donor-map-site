@@ -280,7 +280,7 @@ content-readiness:: developed
 - [[Ocean Conservancy]] — $5.7M lobbying spend (Aerospace, Agriculture, Animals)
 - [[Demand Justice]] — $650K lobbying spend (Aerospace, Aviation/Airlines/Airports, Banking)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Congressional Stock Trades (STOCK Act)

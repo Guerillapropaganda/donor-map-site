@@ -2,7 +2,7 @@
 title: "National Association of Manufacturers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -39,6 +39,26 @@ regulatory-agencies:
   - "Federal Trade Commission"
   - "International Trade Administration"
 related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]]"
+sec-filings: 5021
+sec-form-types:
+  - "10-K"
+  - "144"
+  - "4"
+  - "424B3"
+  - "485BPOS"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-1.01"
+  - "EX-1.02"
+  - "EX-3"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.1 P RELEASE"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "EX-99.7"
+  - "PX14A6G"
 ---
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
@@ -289,3 +309,23 @@ research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 5
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Manufacturers%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 5,021 |
+| Form Types | 10-K, 144, 4, 424B3, 485BPOS, 8-K, DEF 14A, DEFA14A +10 more |
+| CIK | 109380 |
+| Ticker | ZION |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000170684326000001/0001706843-26-000001-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000201763326000001/0002017633-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000162582426000002/0001625824-26-000002-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000181702526000001/0001817025-26-000001-index.htm)
+- 2026-04-01 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/109380/000173846026000002/0001738460-26-000002-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Manufacturers%22) (Tier 1)
+<!-- auto:sec-edgar end -->

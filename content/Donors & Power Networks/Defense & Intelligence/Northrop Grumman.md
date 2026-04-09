@@ -62,6 +62,12 @@ federal-awards-total: 9185964914
 federal-contracts-count: 25
 federal-grants-count: 12
 related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[L3 Technologies]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]]"
+subawards-issued: 50
+subawards-issued-amount: 25770235047
+subawards-received: 50
+subawards-received-amount: 25770235047
+top-federal-agency: "National Aeronautics and Space Administration"
+top-naics-code: "541330"
 ---
 
 
@@ -350,7 +356,7 @@ content-readiness:: ready
 - [[Roger Wicker]] (Armed Services) — contracts: $94K
 - [[John Ratcliffe]] (Intelligence) — contracts: $94K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

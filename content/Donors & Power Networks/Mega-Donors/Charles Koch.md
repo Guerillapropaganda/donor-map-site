@@ -2,7 +2,7 @@
 title: "Charles Koch"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -18,6 +18,19 @@ related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Libertarian B
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+court-cases: 144
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "District Court, D. Delaware"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, E.D. Virginia"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
 ---
 
 #koch #mega-donor #libertarian #deregulation #climate-denial #network #dark-money
@@ -86,3 +99,22 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 480918408](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480918408_202312_990PF_2025011022984232.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 144 |
+| Courts | District Court, D. Delaware, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, E.D. Virginia, District Court, M.D. Florida, District Court, N.D. California, District Court, N.D. Ohio +7 more |
+| Case Types | 190 Contract: Other, 320 Assault Libel & Slander, 320 P.I.: Assault Libel & Slander, 423 Bankruptcy Withdrawl, 470 Racketeer/Corrupt Organization |
+
+**Notable cases:**
+- Kennedy v. Exxon Mobil Corporation (2025) — District Court, W.D. Washington
+- Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
+- Crusoe Energy Systems LLC v. Upstream Data Inc. (2025) — District Court, E.D. Texas
+- FLMD Membership Renewal Fees (2025) — District Court, M.D. Florida
+- Grimsley v. Nike, Inc. (2024) — District Court, E.D. New York
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Charles%20Koch%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

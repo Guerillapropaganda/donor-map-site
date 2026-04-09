@@ -2,7 +2,7 @@
 title: "Anthropic"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -47,6 +47,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+federal-contracts: "2"
+top-federal-agency: "Department of State"
+top-naics-code: "513210"
 ---
 
 #anthropic #ai #safety #regulation #frontier-models #google #amazon
@@ -195,3 +198,34 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Anthropic%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 2 |
+| Sample Value (top 2) | $2.0M |
+| Year Range | 2025-2026 |
+| Federal Agencies | 2 |
+
+**Contracting agencies:** DEPT OF DEFENSE, STATE, DEPARTMENT OF
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $2.0M | DEPT OF DEFENSE | 2025-07-14 |
+| $19K | STATE, DEPARTMENT OF | 2026-02-11 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Anthropic&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of State ($19K) |
+| Primary NAICS Sector | Software Publishers |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

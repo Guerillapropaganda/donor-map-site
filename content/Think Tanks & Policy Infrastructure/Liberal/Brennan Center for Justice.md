@@ -10,9 +10,17 @@ tax-status: 501c3
 related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]]"
 ein: "133839293"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 total-revenue: 111416912
 total-assets: 313321773
+federal-register-mentions: 13
+regulatory-agencies:
+  - "Civil Rights Commission"
+  - "Defense Department"
+  - "Federal Election Commission"
+  - "General Services Administration"
+  - "National Aeronautics and Space Administration"
+  - "Small Business Administration"
 ---
 
 #think-tank #liberal #voting-rights #democracy #criminal-justice #campaign-finance #class-analysis
@@ -220,3 +228,25 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 13 |
+| Rule | 7 |
+| Proposed Rule | 5 |
+| Notice | 1 |
+| Agencies | Civil Rights Commission, Defense Department, Federal Election Commission, General Services Administration, National Aeronautics and Space Administration, Small Business Administration |
+
+**Recent regulatory activity:**
+- [Use of Campaign Funds for Candidate and Officeholder Security](https://www.federalregister.gov/documents/2024/09/25/2024-21918/use-of-campaign-funds-for-candidate-and-officeholder-security) (2024-09-25) — Federal Election Commission
+- [Candidate Salaries](https://www.federalregister.gov/documents/2022/12/12/2022-26778/candidate-salaries) (2022-12-12) — Federal Election Commission
+- [Community Advantage Pilot Program](https://www.federalregister.gov/documents/2022/04/29/2022-09162/community-advantage-pilot-program) (2022-04-29) — Small Business Administration
+- [Internet Communication Disclaimers and Definition of “Public Communication”](https://www.federalregister.gov/documents/2018/03/26/2018-06010/internet-communication-disclaimers-and-definition-of-public-communication) (2018-03-26) — Federal Election Commission
+- [Sunshine Act Meeting Notice](https://www.federalregister.gov/documents/2016/03/11/2016-05616/sunshine-act-meeting-notice) (2016-03-11) — Civil Rights Commission
+- [Federal Acquisition Regulation; FAR Case 2007-013, Employment Eligibility Verification](https://www.federalregister.gov/documents/2008/11/14/E8-26904/federal-acquisition-regulation-far-case-2007-013-employment-eligibility-verification) (2008-11-14) — Defense Department ★
+- ... and 7 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brennan%20Center%20for%20Justice%22) (Tier 1)
+<!-- auto:federal-register end -->

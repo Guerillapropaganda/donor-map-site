@@ -175,15 +175,22 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 0 of 1 |
+| Donors Who Also Lobby | 1 of 2 |
 | Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | 1 donor |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
+- **BAE Systems** donates → Lobbies on **Defense** → This member sits on **Armed Services**
+- **BAE Systems** donates → Lobbies on **Intelligence** → This member sits on **Armed Services**
+- **BAE Systems** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
 - **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+**Donors who lobby (by spend):**
+
+- [[BAE Systems]] — $10.6M lobbying spend (Budget/Appropriations, Defense, Economics/Economic Development)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

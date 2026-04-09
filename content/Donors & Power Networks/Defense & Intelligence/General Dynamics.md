@@ -26,6 +26,8 @@ subawards-received-amount: 5728077424
 top-federal-agency: "General Services Administration"
 top-naics-code: "541512"
 related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]]"
+lobbying-spend: 61253910
+lobbying-filings: 109
 ---
 
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
@@ -149,7 +151,7 @@ content-readiness:: ready
 - [[Roger Wicker]] (Armed Services)
 - [[Tammy Duckworth]] (Armed Services)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Vehicle Safety (NHTSA)
@@ -260,3 +262,22 @@ content-readiness:: ready
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/455555be-773d-eab1-1e6b-7b94400b757e-C/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $61.3M |
+| Quarterly Filings | 109 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 50 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Animals, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Indian/Native American Affairs, Intelligence, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Railroads, Roads/Highway, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation
+
+**Lobbying firms:** A1.9 STRATEGIES LLC, ACCELERATE STRATEGIES, AM GENERAL, LLC, AQUIA GROUP, LLC, ASSOCIATED GENERAL CONTRACTORS OF AMERICA, ATLANTIC STRATEGIES GROUP LLC, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BRIAN GLACKIN & ASSOCIATES LLC, C. BAKER CONSULTING, INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., CROSSROADS STRATEGIES, LLC, FBB FEDERAL RELATIONS, FIFESTRATEGIES, LLC, FORBES-TATE, GENERAL ATOMICS, GENERAL AVIATION MANUFACTURERS ASSOCIATION, GENERAL CATALYST GROUP MANAGEMENT, LLC, GENERAL DYNAMICS CORP, GENERAL ELECTRIC COMPANY (INCLUDING SUBSIDIARIES), GENERAL MILLS SERVICES INC. (FKA GENERAL MILLS), GENERAL MOTORS COMPANY, GUIDEPOSTSTRATEGIES, LLC, HALL, RENDER, KILLIAN, HEATH & LYMAN, P.C., KELLER PARTNERS & COMPANY, MASS GENERAL BRIGHAM (FORMERLY KNOWN AS PARTNERS HEALTHCARE), MCALLISTER & QUINN, LLC, MELTSNER STRATEGIES, LLC, MORAN GLOBAL STRATEGIES, INC., OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, OMEGA STRATEGIES, LLC., PARRY, ROMANI, DECONCINI & SYMMS, PENN AVENUE PARTNERS, PORTLAND GENERAL ELECTRIC, PRASAM, PUTALASTRATEGIES, REVERE FEDERAL STRATEGIES, RIDGE PATH STRATEGIES, SALT POINT STRATEGIES, SB STRATEGIC CONSULTING, INC., TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE DIONNE COMPANY, THE GENERAL CONTRACTORS ASSOCIATION OF NEW YORK, THE NICKLES GROUP, LLC, THE VM GROUP, THE WILLIAMS GROUP, TIDAL STRATEGIES, LLC, TIDES GROUP, LLC, VELOS (FORMERLY PINNACLE ENGINEERING AND MANAGEMENT SOLUTIONS), WESTMORELAND160, LLC, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Army, Dept of (Other), Bureau of Citizenship & Immigration Services (BCIS), Bureau of Indian Affairs (BIA), Centers For Medicare and Medicaid Services (CMS), Central Intelligence Agency (CIA), Commerce, Dept of (DOC) +60 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=General%20Dynamics) (Tier 1)
+<!-- auto:lda-lobbying end -->

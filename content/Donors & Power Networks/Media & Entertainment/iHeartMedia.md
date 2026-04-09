@@ -2,7 +2,7 @@
 title: "iHeartMedia"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -27,6 +27,33 @@ court-jurisdictions:
   - "United States Bankruptcy Court, E.D. Tennessee"
   - "United States Bankruptcy Court, E.D. Virginia"
   - "United States Bankruptcy Court, S.D. Texas"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "11-K"
+  - "4"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "DEF 14A"
+  - "DEFM14C"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.5"
+  - "EX1SA-6 MAT CTRCT"
+  - "N-PX"
+  - "PRE 14A"
+  - "PROXY VOTING RECORD"
+  - "S-1"
+  - "S-4"
+  - "S-4/A"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SCHEDULE 13G/A"
+  - "T-3"
+  - "T-3/A"
 ---
 
 #iheartmedia #radio #media #consolidation #deregulation #clear-channel #telecom-act
@@ -149,3 +176,23 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22iHeartMedia%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-K/A, 10-Q, 11-K, 4, 424B3, 425, 8-K +17 more |
+| CIK | 1400891 |
+| Ticker | IHRT |
+
+**Notable filings:**
+
+- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1400891/000010290926001606/0000102909-26-001606-index.htm)
+- 2026-03-09 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1400891/000119312526099122/0001193125-26-099122-index.htm)
+- 2026-03-05 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1400891/000119312526094190/0001193125-26-094190-index.htm)
+- 2026-03-02 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/1400891/000162828026013221/0001628280-26-013221-index.htm)
+- 2026-03-02 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1400891/000162828026013204/0001628280-26-013204-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22iHeartMedia%22) (Tier 1)
+<!-- auto:sec-edgar end -->

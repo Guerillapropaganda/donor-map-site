@@ -185,3 +185,10 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Elise Stefanik](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

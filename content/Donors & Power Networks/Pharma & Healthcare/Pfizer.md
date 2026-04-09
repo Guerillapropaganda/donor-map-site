@@ -2,7 +2,7 @@
 title: "Pfizer Inc."
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -13,7 +13,7 @@ federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 1
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 sec-filings: 10000
 sec-form-types:
   - "10-12G"
@@ -63,6 +63,16 @@ corroboration-count: 4
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
+federal-register-mentions: 591
+regulatory-agencies:
+  - "Commerce Department"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Food and Drug Administration"
+  - "Foreign-Trade Zones Board"
+  - "Health and Human Services Department"
 ---
 
 
@@ -327,3 +337,25 @@ content-readiness:: ready
 - [Source: ProPublica Nonprofit Explorer — EIN 132986156](https://projects.propublica.org/nonprofits/organizations/132986156) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_06-13%2F132986156_201612_990O_2018010315075922.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 591 |
+| Final Rules | 178 |
+| Proposed Rules | 18 |
+| Notices | 395 |
+| Agencies | Commerce Department, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Food and Drug Administration, Foreign-Trade Zones Board, Health and Human Services Department |
+
+**Recent regulatory activity:**
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; HYMPAVZI](https://www.federalregister.gov/documents/2026/04/03/2026-06481/determination-of-regulatory-review-period-for-purposes-of-patent-extension-hympavzi) (2026-04-03) — Health and Human Services Department
+- [Aspen Global Inc. c/o Lachman Consultant Services, Inc., et al.; Withdrawal of Approval of 46 New Drug Applications](https://www.federalregister.gov/documents/2026/03/09/2026-04546/aspen-global-inc-co-lachman-consultant-services-inc-et-al-withdrawal-of-approval-of-46-new-drug) (2026-03-09) — Health and Human Services Department
+- [Determination of Regulatory Review Period for Purposes of Patent Extension; ORLYNVAH](https://www.federalregister.gov/documents/2026/02/26/2026-03848/determination-of-regulatory-review-period-for-purposes-of-patent-extension-orlynvah) (2026-02-26) — Health and Human Services Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (2026-02-09) — Environmental Protection Agency
+- [Revocation of Two Authorizations of Emergency Use of In Vitro Diagnostic Devices for Detection and/or Diagnosis of COVID-19; Availability](https://www.federalregister.gov/documents/2026/01/02/2025-24155/revocation-of-two-authorizations-of-emergency-use-of-in-vitro-diagnostic-devices-for-detection-andor) (2026-01-02) — Health and Human Services Department
+- ... and 585 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Pfizer%20Inc.%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,19 +2,19 @@
 title: "Business Council of Alabama"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 630922835
+ein: "630922835"
 annual-revenue: "$4.8M"
 net-assets: "$7.7M"
 tax-year: "2023"
 court-cases: 30
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eleventh Circuit"
@@ -26,6 +26,10 @@ court-jurisdictions:
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, S.D. Texas"
 related: "[[Katie Britt]]"
+total-political-spend: "$11,000"
+nonprofit-status: "501(c)(6)"
+total-revenue: 7267008
+total-assets: 8134872
 ---
 
 #alabama-politics #business-lobby #regulatory-capture #dark-money #state-control
@@ -103,3 +107,43 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Business%20Council%20of%20Alabama%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $11,000 |
+| Contributions | 2 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| RNC REPUBLICAN NATIONAL STATE ELECTIONS COMMITTEE | $11,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Council%20of%20Alabama) (Tier 1)
+<!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 630922835 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $7.3M |
+| Total Assets | $8.1M |
+| IRS Ruling Date | 1986-03-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/630922835) (Tier 1)
+<!-- auto:nonprofit-990 end -->

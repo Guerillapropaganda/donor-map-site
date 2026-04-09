@@ -218,7 +218,7 @@ content-readiness:: ready
 
 - [[Ethanol Industry]] — $2.3M lobbying spend (Agriculture, Copyright/Patent/Trademark, Energy/Nuclear)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (GovTrack)

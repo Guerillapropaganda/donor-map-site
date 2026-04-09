@@ -10,6 +10,19 @@ tax-status: 501c3
 related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Enterprise Institute]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]]"
 known-gaps:
   - "No FEC contribution data"
+federal-register-mentions: 169
+last-enriched: "2026-04-09"
+regulatory-agencies:
+  - "Centers for Medicare & Medicaid Services"
+  - "Comptroller of the Currency"
+  - "Consumer Financial Protection Bureau"
+  - "Education Department"
+  - "Employee Benefits Security Administration"
+  - "Employment and Training Administration"
+  - "Federal Deposit Insurance Corporation"
+  - "Federal Housing Finance Agency"
+  - "Federal Reserve System"
+  - "Food and Drug Administration"
 ---
 
 #think-tank #centrist #wall-street #foreign-funding #revolving-door #hamilton-project #defense #financial-deregulation #qatar #jpmorgan #goldman-sachs #healthcare #housing #labor
@@ -358,3 +371,25 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 ---
 
 content-readiness:: developed
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 169 |
+| Final Rules | 48 |
+| Proposed Rules | 47 |
+| Notices | 74 |
+| Agencies | Centers for Medicare & Medicaid Services, Comptroller of the Currency, Consumer Financial Protection Bureau, Education Department, Employee Benefits Security Administration, Employment and Training Administration, Federal Deposit Insurance Corporation, Federal Housing Finance Agency +7 more |
+
+**Recent regulatory activity:**
+- [Termination of the Designation of Yemen for Temporary Protected Status](https://www.federalregister.gov/documents/2026/03/03/2026-04179/termination-of-the-designation-of-yemen-for-temporary-protected-status) (2026-03-03) — Homeland Security Department
+- [Improving Transparency Into Pharmacy Benefit Manager Fee Disclosure](https://www.federalregister.gov/documents/2026/01/30/2026-01907/improving-transparency-into-pharmacy-benefit-manager-fee-disclosure) (2026-01-30) — Labor Department ★
+- [Global Benchmark for Efficient Drug Pricing (GLOBE) Model](https://www.federalregister.gov/documents/2025/12/23/2025-23702/global-benchmark-for-efficient-drug-pricing-globe-model) (2025-12-23) — Health and Human Services Department ★
+- [Enhanced Transparency and Public Accountability of the Supervisory Stress Test Models and Scenarios; Modifications to the Capital Planning and Stress Capital Buffer Requirement Rule, Enhanced Prudential Standards Rule, and Regulation LL](https://www.federalregister.gov/documents/2025/11/18/2025-20211/enhanced-transparency-and-public-accountability-of-the-supervisory-stress-test-models-and-scenarios) (2025-11-18) — Federal Reserve System
+- [Revisions to the Large Financial Institution Rating System and Framework for the Supervision of Insurance Organizations](https://www.federalregister.gov/documents/2025/11/17/2025-19945/revisions-to-the-large-financial-institution-rating-system-and-framework-for-the-supervision-of) (2025-11-17) — Federal Reserve System
+- [Prohibiting Illegal Discrimination in Registered Apprenticeship Programs](https://www.federalregister.gov/documents/2025/07/02/2025-12317/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs) (2025-07-02) — Labor Department ★
+- ... and 163 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brookings%20Institution%22) (Tier 1)
+<!-- auto:federal-register end -->

@@ -2,7 +2,7 @@
 title: "Holland & Knight"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 annual-revenue: "$54.9M (2025)"
@@ -25,6 +25,26 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 2407347
 total-assets: 2689293
+sec-filings: 9195
+sec-form-types:
+  - "8-K"
+  - "CORRESP"
+  - "EX-10.1"
+  - "EX-10.22"
+  - "EX-10.P"
+  - "EX-23.3"
+  - "EX-5"
+  - "EX-5.1"
+  - "EX-5.2"
+  - "EX-8.1"
+  - "EX-8.2"
+  - "EX-99"
+  - "S-1MEF"
+  - "S-4/A"
+  - "S-8"
+  - "SC 13D"
+  - "SC 14D9"
+  - "SC 14D9/A"
 ---
 
 #lobbying #k-street #chemicals #defense #tech #healthcare #cannabis #trade #real-estate
@@ -300,3 +320,21 @@ content-readiness:: ready
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/311472972) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 9,195 |
+| Form Types | 8-K, CORRESP, EX-10.1, EX-10.22, EX-10.P, EX-23.3, EX-5, EX-5.1 +10 more |
+
+**Notable filings:**
+
+- 2003-07-02 — **EX-5.1**: OPINION OF HOLLAND & KNIGHT LLP
+- 2003-06-04 — **EX-5.1**: OPINION RE LEGAL MATTERS
+- 2012-06-11 — **SC 14D9/A**: AMENDMENT #2 TO SCHEDULE 14D-9
+- 2003-02-06 — **EX-5.1**: OPINION OF HOLLAND & KNIGHT LLP
+- 2003-04-17 — **EX-5.1**: OPINION RE LEGALITY
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Holland%20%26%20Knight%22) (Tier 1)
+<!-- auto:sec-edgar end -->

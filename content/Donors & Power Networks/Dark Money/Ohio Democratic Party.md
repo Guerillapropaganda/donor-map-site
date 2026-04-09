@@ -2,7 +2,7 @@
 title: "Ohio Democratic Party"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Labor & Workers"
 court-cases: 268
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the First Circuit"
   - "Court of Appeals for the Sixth Circuit"
@@ -37,6 +37,8 @@ politicians-funded:
   - "Sherrod Brown"
   - "Richard Neal"
 related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]]"
+ein: "273554312"
+nonprofit-status: "tax-exempt"
 ---
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class
@@ -233,7 +235,7 @@ content-readiness:: ready
 - [[Richard Neal]] (Ways & Means) — lobbying: $2.8M
 - [[Amy Acton]] — lobbying: $2.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity
@@ -276,3 +278,14 @@ content-readiness:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ohio%20Democratic%20Party) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 273554312 |
+| Tax-Exempt Status | tax-exempt |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273554312) (Tier 1)
+<!-- auto:nonprofit-990 end -->

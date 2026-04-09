@@ -2,7 +2,7 @@
 title: "Jeff Bezos"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -32,7 +32,7 @@ politicians-funded:
   - "Patty Murray"
   - "Maria Cantwell"
 doj-press-mentions: "264309"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "USAO - Florida, Middle"
@@ -45,6 +45,10 @@ doj-components:
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
 related: "[[Patty Murray]] · [[Maria Cantwell]]"
+federal-register-mentions: 2
+regulatory-agencies:
+  - "Energy Department"
+  - "Federal Energy Regulatory Commission"
 ---
 
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space
@@ -166,3 +170,18 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Jeff%20Bezos%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Notice | 2 |
+| Agencies | Energy Department, Federal Energy Regulatory Commission |
+
+**Recent regulatory activity:**
+- [Consideration of Greenhouse Gas Emissions in Natural Gas Infrastructure Project Reviews](https://www.federalregister.gov/documents/2022/03/11/2022-04536/consideration-of-greenhouse-gas-emissions-in-natural-gas-infrastructure-project-reviews) (2022-03-11) — Energy Department
+- [Certification of New Interstate Natural Gas Facilities](https://www.federalregister.gov/documents/2022/03/01/2022-04148/certification-of-new-interstate-natural-gas-facilities) (2022-03-01) — Energy Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Jeff%20Bezos%22) (Tier 1)
+<!-- auto:federal-register end -->

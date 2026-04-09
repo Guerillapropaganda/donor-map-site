@@ -12,6 +12,16 @@ annual-revenue: "$12.3M"
 net-assets: "$9.3M"
 tax-year: "2023"
 related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John Ratcliffe Master Profile]] · [[Mike Collins Master Profile]] · [[Jim Jordan Master Profile]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[The Freedom Caucus and Spending Absolutism]] · [[The FEC to Congress Pipeline and Election Law]] · [[Ron DeSantis Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Lauren Boebert]] · [[Chip Roy Master Profile]] · [[National Republican Senatorial Committee]] · [[Mike Lee]]"
+court-cases: 115
+last-enriched: "2026-04-09"
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Maine"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Wisconsin"
 ---
 
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor
@@ -239,3 +249,22 @@ content-readiness:: developed
 
 - [Source: ProPublica Nonprofit Explorer — EIN 204681603](https://projects.propublica.org/nonprofits/organizations/204681603) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 115 |
+| Courts | Court of Appeals for the Eighth Circuit, District Court, D. Arizona, District Court, D. Maine, District Court, District of Columbia, District Court, N.D. Texas, District Court, S.D. New York, District Court, W.D. Wisconsin |
+| Case Types | 360 P.I.: Other, 440 Civil Rights: Other, 820 Copyright, 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedure Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Olson v. McBride Law Firm, PLLC (2025) — District Court, S.D. New York
+- YANGTZE MEMORY TECHNOLOGIES CO., LTD. v. STRAND CONSULT ApS (d/b/a CHINA TECH THREAT) (2025) — District Court, District of Columbia
+- GILL v. FONTANA (2025) — District Court, District of Columbia
+- YANGTZE MEMORY TECHNOLOGIES, INC. v. MICRON TECHNOLOGY, INC. (2025) — District Court, District of Columbia
+- Walker, Gregg v. Bangstad, Kirk (2025) — District Court, W.D. Wisconsin
+- DINNER TABLE ACTION v. SCHNEIDER (2024) — District Court, D. Maine
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Club%20for%20Growth%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
