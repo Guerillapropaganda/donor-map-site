@@ -39,7 +39,7 @@ ein: "352841377"
 nonprofit-status: "501(c)(4)"
 total-revenue: 2327
 total-assets: 51394
-related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]] · [[Jim Risch]] · [[Bernie Moreno]] · [[Tim Walberg]]"
+related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]] · [[Jim Risch]] · [[Bernie Moreno]] · [[Tim Walberg]] · [[Brian Mast]]"
 total-political-spend: "$1,857,124"
 ---
 

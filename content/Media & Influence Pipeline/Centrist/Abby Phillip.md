@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]]"
+related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Sam Seder]]"
 ---
 
 #media-pipeline #centrist #CNN #corporate-media #institutional-capture #warner-bros-discovery #paramount
