@@ -15,6 +15,9 @@ related: >-
   Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael
   Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] ·
   [[Candace Owens]]
+stories: >-
+  [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political
+  Media]]
 ---
 
 #media-pipeline #right #fox-news #replacement-theory #dark-money #russia #independence-theater
