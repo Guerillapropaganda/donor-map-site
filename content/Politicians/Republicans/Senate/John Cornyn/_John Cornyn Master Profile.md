@@ -243,7 +243,7 @@ content-readiness:: developed
 
 - [[US Chamber of Commerce]] — $790K lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Congressional Stock Trades (STOCK Act)

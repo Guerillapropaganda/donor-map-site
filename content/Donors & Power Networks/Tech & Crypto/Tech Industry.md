@@ -26,7 +26,7 @@ politicians-funded:
   - "Mike Collins"
   - "Susan Collins"
 federal-register-mentions: 53
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Commerce Department"
   - "Consumer Financial Protection Bureau"
@@ -90,6 +90,14 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]] · [[Jon Ossoff Master Profile]] · [[Jason Smith]] · [[Adam Smith]]"
+court-cases: 1270
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
 ---
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan
@@ -216,3 +224,22 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Tech%20Industry%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,270 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, District of Columbia, District Court, N.D. California, District Court, S.D. New York |
+| Case Types | 410 Anti-Trust, 830 Patent, 880 Defend Trade Secrets Act (of 2016), 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Educational & Governmental Employees Federal Credit Union v. Fiserv Solutions, LLC (2026) — District Court, S.D. New York
+- Valtrus Innovations Ltd. v. Google LLC (2026) — District Court, N.D. California
+- NETLIST, INC. v. SAMSUNG ELECTRONICS CO., LTD. (2026) — District Court, District of Columbia
+- Amazon.com Services, LLC v. Perplexity AI, Inc. (2026) — Court of Appeals for the Ninth Circuit
+- Tejada v. Meta Platforms, Inc. (2026) — District Court, N.D. California
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tech%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

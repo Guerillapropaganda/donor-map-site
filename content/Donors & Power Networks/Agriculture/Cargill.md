@@ -2,7 +2,7 @@
 title: "Cargill"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -37,6 +37,57 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+sec-filings: 10000
+sec-form-types:
+  - "10-Q"
+  - "35-CERT"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.1"
+  - "EX-10.10"
+  - "EX-10.14"
+  - "EX-10.16"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.21"
+  - "EX-10.33"
+  - "EX-10.34"
+  - "EX-10.4"
+  - "EX-10.40"
+  - "EX-10.5"
+  - "EX-10.6"
+  - "EX-10.7"
+  - "EX-10.8"
+  - "EX-10.9"
+  - "EX-10.II.A"
+  - "EX-10.II.D"
+  - "EX-10.II.G"
+  - "EX-10.II.H"
+  - "EX-10.II.HH"
+  - "EX-10.II.JJ"
+  - "EX-10.II.L"
+  - "EX-10.II.P"
+  - "EX-10.II.S"
+  - "EX-2"
+  - "EX-2.(I)"
+  - "EX-2.1"
+  - "EX-2.2"
+  - "EX-2.3"
+  - "EX-99"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "EX-99.6"
+  - "EX-99.77Q1"
+  - "EX-99.8"
+  - "S-4"
+  - "S-4/A"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "XML"
 ---
 
 #cargill #agriculture #commodities #grain #trade #private #family
@@ -188,3 +239,21 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Cargill%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-Q, 35-CERT, 424B3, 425, 8-K, CORRESP, DEF 14A, DEFA14A +41 more |
+
+**Notable filings:**
+
+- 2009-08-14 — **EX-10.2**: EX-10.2
+- 2007-05-15 — **EX-10.10**: PIONEER TRAIL ENERGY, LLC-CORN SUPPLY AGMNT
+- 2009-08-14 — **EX-10.1**: EX-10.1
+- 2006-08-11 — **EX-10.II.P**: SERVICES AGREEMENT FOR LOGISTICS AND GENERAL SERVICES
+- 2002-05-31 — **EX-99.77Q1**: EXHIBIT A - LIST OF GUARANTEES
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cargill%22) (Tier 1)
+<!-- auto:sec-edgar end -->

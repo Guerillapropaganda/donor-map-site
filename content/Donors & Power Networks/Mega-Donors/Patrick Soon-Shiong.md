@@ -2,7 +2,7 @@
 title: "Patrick Soon-Shiong"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -29,6 +29,8 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]]"
+lobbying-spend: 0
+lobbying-filings: 1
 ---
 
 #donor #mega-donor #la-times #biotech #billionaire #media-owner #republican #trump #editorial-capture #pharma-influence #class-analysis #follow-the-money
@@ -224,3 +226,20 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Patrick%20Soon-Shiong%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $0 |
+| Quarterly Filings | 1 |
+| Year Range | 2026-2026 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Government Issues
+
+**Lobbying firms:** CAPITOL RESOURCES, LLC
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Patrick%20Soon-Shiong) (Tier 1)
+<!-- auto:lda-lobbying end -->

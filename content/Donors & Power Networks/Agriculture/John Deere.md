@@ -2,7 +2,7 @@
 title: "John Deere"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -19,7 +19,7 @@ net-assets: "$212.6M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 subawards-issued: 50
 subawards-issued-amount: 7034204
 subawards-received: 50

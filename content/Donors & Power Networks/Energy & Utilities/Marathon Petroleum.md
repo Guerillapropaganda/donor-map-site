@@ -2,7 +2,7 @@
 title: "Marathon Petroleum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -19,7 +19,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 sec-filings: 10000
 sec-form-types:
   - "10-12B/A"
@@ -60,6 +60,19 @@ ein: 464439930
 annual-revenue: "$5.1M"
 net-assets: "$13.4M"
 tax-year: "2020"
+federal-contracts: "51405"
+federal-register-mentions: 105
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Fish and Wildlife Service"
+  - "Interior Department"
+  - "Justice Department"
+  - "Labor Department"
 ---
 
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
@@ -326,3 +339,49 @@ research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC
 - [Source: ProPublica Nonprofit Explorer — EIN 464439930](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Federal Contracts
+<!-- auto:sam-contracts start -->
+| Metric | Value |
+|--------|-------|
+| Total Contracts Found | 51405 |
+| Sample Value (top 25) | $4.7M |
+| Year Range | 2007-2014 |
+| Federal Agencies | 6 |
+
+**Contracting agencies:** DEPT OF DEFENSE, GENERAL SERVICES ADMINISTRATION, HOMELAND SECURITY, DEPARTMENT OF, NATIONAL AERONAUTICS AND SPACE ADMINISTRATION, SOCIAL SECURITY ADMINISTRATION, TREASURY, DEPARTMENT OF THE
+
+**Recent contracts:**
+
+| Amount | Agency | Date |
+|--------|--------|------|
+| $1.1M | DEPT OF DEFENSE | 2007-09-29 |
+| $666K | DEPT OF DEFENSE | 2008-02-01 |
+| $61K | SOCIAL SECURITY ADMINISTRATION | 2008-08-21 |
+| $27K | HOMELAND SECURITY, DEPARTMENT OF | 2007-09-06 |
+| $0 | GENERAL SERVICES ADMINISTRATION | 2013-06-25 |
+
+- [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Marathon%20Petroleum&page=1&index=opp) (Tier 1)
+<!-- auto:sam-contracts end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 105 |
+| Final Rules | 16 |
+| Proposed Rules | 13 |
+| Notices | 76 |
+| Agencies | Antitrust Division, Employment and Training Administration, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Fish and Wildlife Service, Interior Department +5 more |
+
+**Recent regulatory activity:**
+- [Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska](https://www.federalregister.gov/documents/2026/03/09/2026-04558/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north) (2026-03-09) — Interior Department
+- [Hazardous Materials: Eliminating Unnecessary Regulatory Burdens on Fuel Transportation](https://www.federalregister.gov/documents/2026/01/14/2026-00578/hazardous-materials-eliminating-unnecessary-regulatory-burdens-on-fuel-transportation) (2026-01-14) — Transportation Department
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2025/09/11/2025-17535/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2025-09-11) — Federal Trade Commission
+- [EPA Determinations of Compliance and Applicability Under CAA 111, 112, and 129 Dashboard: EPA Formal Responses to Inquiries Concerning Compliance With the Clean Air Act Stationary Source Program (Since May 2019)](https://www.federalregister.gov/documents/2023/11/24/2023-25950/epa-determinations-of-compliance-and-applicability-under-caa-111-112-and-129-dashboard-epa-formal) (2023-11-24) — Environmental Protection Agency
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-Petroleum Environmental Research Forum](https://www.federalregister.gov/documents/2023/08/22/2023-18065/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-petroleum) (2023-08-22) — Justice Department
+- [Non-Compete Clause Rule](https://www.federalregister.gov/documents/2023/01/19/2023-00414/non-compete-clause-rule) (2023-01-19) — Federal Trade Commission
+- ... and 99 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Marathon%20Petroleum%22) (Tier 1)
+<!-- auto:federal-register end -->

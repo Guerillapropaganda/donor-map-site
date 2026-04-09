@@ -2,7 +2,7 @@
 title: "Mallory McMorrow Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -34,6 +34,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+bioguide-id: "A000383"
 ---
 
 
@@ -296,3 +297,10 @@ content-readiness:: ready
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Mallory%20McMorrow%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
+<!-- auto:committee-assignments end -->

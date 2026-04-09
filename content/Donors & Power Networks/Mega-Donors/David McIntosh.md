@@ -2,7 +2,7 @@
 title: "David McIntosh"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Ron DeSantis"
 related: "[[Club for Growth]]"
 doj-press-mentions: "264349"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 doj-components:
   - "Civil Rights Division"
   - "Cyber Division (FBI)"
@@ -23,6 +23,14 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+federal-register-mentions: 10
+regulatory-agencies:
+  - "Energy Department"
+  - "Federal Election Commission"
+  - "Federal Energy Regulatory Commission"
+  - "Labor Department"
+  - "Occupational Safety and Health Administration"
+  - "State Department"
 ---
 
 #mega-donor #republican #primary-kingmaker #club-for-growth
@@ -100,3 +108,24 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22David%20McIntosh%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 10 |
+| Notice | 9 |
+| Rule | 1 |
+| Agencies | Energy Department, Federal Election Commission, Federal Energy Regulatory Commission, Labor Department, Occupational Safety and Health Administration, State Department |
+
+**Recent regulatory activity:**
+- [Consumers Energy Company; Notice of Application Accepted for Filing and Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2022/10/18/2022-22602/consumers-energy-company-notice-of-application-accepted-for-filing-and-soliciting-comments-motions) (2022-10-18) — Energy Department
+- [Consumers Energy Company; Notice of Application Accepted for Filing, Soliciting Comments, Motions To Intervene, and Protests](https://www.federalregister.gov/documents/2022/05/18/2022-10602/consumers-energy-company-notice-of-application-accepted-for-filing-soliciting-comments-motions-to) (2022-05-18) — Energy Department
+- [Consumers Energy Company and DTE Electric Company; Notice of Application Accepted for Filing, Soliciting Motions to Intervene and Protests, Ready for Environmental Analysis, and Soliciting Comments, Recommendations, Preliminary Terms and Conditions, and Preliminary Fishway Prescriptions](https://www.federalregister.gov/documents/2018/02/14/2018-03010/consumers-energy-company-and-dte-electric-company-notice-of-application-accepted-for-filing) (2018-02-14) — Energy Department
+- [Consumers Energy Company, DTE Electric Company; Notice of Settlement Agreement and Soliciting Comments](https://www.federalregister.gov/documents/2017/11/20/2017-25090/consumers-energy-company-dte-electric-company-notice-of-settlement-agreement-and-soliciting-comments) (2017-11-20) — Energy Department
+- [Consumers Energy Company; DTE Electric Company; Notice of Application Tendered for Filing With the Commission and Establishing Procedural Schedule for Licensing and Deadline for Submission of Final Amendments](https://www.federalregister.gov/documents/2017/07/14/2017-14819/consumers-energy-company-dte-electric-company-notice-of-application-tendered-for-filing-with-the) (2017-07-14) — Energy Department
+- [Consumers Energy Company and DTE Electric Company; Notice of Intent To File License Application, Filing of Pre-Application Document (Pad), Commencement of Pre-Filing Process, and Scoping; Request for Comments on the Pad and Scoping Document, and Identification of Issues and Associated Study Requests](https://www.federalregister.gov/documents/2014/03/28/2014-06878/consumers-energy-company-and-dte-electric-company-notice-of-intent-to-file-license-application) (2014-03-28) — Energy Department
+- ... and 4 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22David%20McIntosh%22) (Tier 1)
+<!-- auto:federal-register end -->

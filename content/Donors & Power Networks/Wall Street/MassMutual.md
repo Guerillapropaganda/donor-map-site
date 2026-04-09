@@ -2,7 +2,7 @@
 title: "MassMutual"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -83,6 +83,9 @@ sec-form-types:
   - "EX-99.H40"
   - "NPORT-P"
   - "PRE 14A"
+federal-awards-total: 0
+federal-contracts-count: 1
+federal-grants-count: 0
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services
@@ -203,3 +206,20 @@ MassMutual represents the regulatory capture of an industry built on information
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MassMutual%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 1 ($9.9M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $9.9M | Department of the Treasury | IGF::OT::IGF FOR OTHER FUNCTIONS - ENERGY CONSERVATION MEASURES PROJECT ANNUAL PAYMENT |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/88e28639-3b63-5a05-9403-1064360e44ea-R/latest) (Tier 1)
+<!-- auto:usaspending end -->

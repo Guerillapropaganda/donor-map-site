@@ -2,7 +2,7 @@
 title: "Rupert Murdoch"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
   - "Mitch McConnell"
 court-cases: 415
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Colorado"
@@ -24,6 +24,43 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. Florida"
 related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[Fox News - Murdoch Media Empire]] · [[Wilks Brothers — Dan and Farris Wilks]]"
+sec-filings: 5590
+sec-form-types:
+  - "144"
+  - "4"
+  - "425"
+  - "5"
+  - "6-K"
+  - "8-K"
+  - "CORRESP"
+  - "DFAN14A"
+  - "EX-10.1"
+  - "EX-10.7"
+  - "EX-12.1"
+  - "EX-13.1"
+  - "EX-31.1"
+  - "EX-32.1"
+  - "EX-99.(A)(17)"
+  - "EX-99.(A)(18)"
+  - "EX-99.(A)(22)"
+  - "EX-99.(A)(23)"
+  - "EX-99.(A)(27)"
+  - "EX-99.(A)(34)"
+  - "EX-99.1"
+  - "EX-99.1(A)"
+  - "EX-99.1.(A)"
+  - "EX-99.2"
+  - "LETTER"
+  - "POS AM"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "SC 13G"
+  - "SC 13G/A"
+  - "SC TO-T/A"
+  - "SCHEDULE 13G/A"
+federal-register-mentions: 12
+regulatory-agencies:
+  - "Federal Trade Commission"
 ---
 
 #donor #murdoch #oligarch #media #fox-news #uk #australia #us
@@ -225,3 +262,41 @@ content-readiness:: ready
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Rupert%20Murdoch%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 5,590 |
+| Form Types | 144, 4, 425, 5, 6-K, 8-K, CORRESP, DFAN14A +24 more |
+
+**Notable filings:**
+
+- 2017-12-15 — **425**: 425
+- 2004-11-12 — **SC 13G/A**: AMENDMENT NO. 13 TO SCHEDULE 13G
+- 2010-11-18 — **EX-99.1**: PRESS RELEASE OF THE REGISTRANT DATED NOVEMBER 15, 2010.
+- 2004-11-12 — **POS AM**: POST-EFFECTIVE AMENDMENT NO 1 TO FORM F-3
+- 2003-02-12 — **EX-99.1.(A)**: CERTIFICATION BY K. RUPERT MURDOCH, CHAIRMAN & CEO
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Rupert%20Murdoch%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 12 |
+| Notice | 12 |
+| Agencies | Federal Trade Commission |
+
+**Recent regulatory activity:**
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2020/01/22/2020-00894/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2020-01-22) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2019/04/18/2019-07735/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2019-04-18) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2002/08/28/02-21972/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2002-08-28) — Federal Trade Commission
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2002/06/07/02-14334/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2002-06-07) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2001/10/16/01-25983/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2001-10-16) — Federal Trade Commission
+- [Granting of Request for Early Termination of the Waiting Period under the Premerger Notification Rules](https://www.federalregister.gov/documents/2001/09/27/01-24120/granting-of-request-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2001-09-27) — Federal Trade Commission
+- ... and 6 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Rupert%20Murdoch%22) (Tier 1)
+<!-- auto:federal-register end -->

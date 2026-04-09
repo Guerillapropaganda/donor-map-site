@@ -16,7 +16,7 @@ politicians-funded:
 issues:
   - "Energy & Climate"
 court-cases: 6535
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-09"
 court-jurisdictions:
   - "Court of Appeals for the Sixth Circuit"
   - "District Court, C.D. California"
@@ -521,3 +521,25 @@ content-readiness:: developed
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ExxonMobil) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 563 |
+| Final Rules | 82 |
+| Proposed Rules | 48 |
+| Notices | 433 |
+| Agencies | Antitrust Division, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Fish and Wildlife Service, Interior Department, Justice Department +3 more |
+
+**Recent regulatory activity:**
+- [Marine Mammals; Incidental Take of Polar Bears and Pacific Walruses in the Beaufort Sea and North Slope of Alaska](https://www.federalregister.gov/documents/2026/03/09/2026-04558/marine-mammals-incidental-take-of-polar-bears-and-pacific-walruses-in-the-beaufort-sea-and-north) (2026-03-09) — Interior Department
+- [Air Plan Approvals; Illinois; Regional Haze Plan for the Second Implementation Period; Interstate Transport of Air Pollution for the 2012 PM2.5 and 2015 Ozone NAAQS](https://www.federalregister.gov/documents/2026/02/27/2026-03936/air-plan-approvals-illinois-regional-haze-plan-for-the-second-implementation-period-interstate) (2026-02-27) — Environmental Protection Agency
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2026/02/06/2026-02328/combined-notice-of-filings) (2026-02-06) — Energy Department
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/11/25/2025-20862/combined-notice-of-filings) (2025-11-25) — Energy Department
+- [Notice on Outer Continental Shelf Oil and Gas Lease Sales](https://www.federalregister.gov/documents/2025/11/04/2025-19780/notice-on-outer-continental-shelf-oil-and-gas-lease-sales) (2025-11-04) — Interior Department
+- [Combined Notice of Filings](https://www.federalregister.gov/documents/2025/10/01/2025-19159/combined-notice-of-filings) (2025-10-01) — Energy Department
+- ... and 557 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ExxonMobil%22) (Tier 1)
+<!-- auto:federal-register end -->

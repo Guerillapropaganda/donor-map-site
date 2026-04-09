@@ -180,7 +180,7 @@ content-readiness:: ready
 - [[Microsoft]] — $20.7M lobbying spend (Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry)
 - [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
 ### Congressional Stock Trades (STOCK Act)

@@ -2,7 +2,7 @@
 title: "News Corp - Fox Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -16,6 +16,9 @@ lei-jurisdiction: "US-DE"
 lobbying-spend: 7016500
 lobbying-filings: 62
 related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]]"
+ein: "850803187"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-09"
 ---
 
 #fox #newscorp #murdoch #media #propaganda #deregulation #defamation
@@ -133,3 +136,16 @@ content-readiness:: ready
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=News%20Corp%20-%20Fox%20Corporation) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 850803187 |
+| Tax-Exempt Status | 501(c)(3) |
+| NTEE Code | H12 |
+| IRS Ruling Date | 2021-03-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/850803187) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: "PG&E"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -16,6 +16,9 @@ tax-year: "2023"
 related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]]"
 top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
+federal-awards-total: 0
+federal-contracts-count: 25
+federal-grants-count: 2
 ---
 
 
@@ -161,3 +164,33 @@ content-readiness:: ready
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Contracts (recent 3yr) | 25 ($68.5M sampled) |
+| Grants (recent 3yr) | 2 ($26.9M sampled) |
+| Federal Agencies | 7 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $29.6M | Department of Defense | 200212!000184!2100!BT67  !COMMANDER DLIFLC & POM          !DABT6702C0007  !A!N! !N!                  |
+| $9.7M | Department of Defense | 200311!000142!2100!BK27  !ACA, PRESIDIO OF MONTEREY       !DABT6702C0009  !A!N! !N!0Q08              |
+| $6.0M | Department of the Treasury | IGF::OT::IGF FOR OTHER FUNCTIONS - ELECTRICAL SERVICE, ACCOUNT #9658005947-3,  NATURAL GAS SERVICE,  |
+| $4.1M | Department of Veterans Affairs | IGF::OT::IGF OTHER FUNCTIONS - UTILITY ENERGY SERVICES CONTRACT (UESC) FOR THREE (3) VISN 21 SIERRA  |
+| $3.1M | Department of Defense | UESC DEBT SRV PAYMENT |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $25.0M | Department of Energy | TAS::89 0328::TAS RECOVERY NEW AWARD TO PACIFIC GAS AND ELECTRIC COMPANY OE SMART GRID DEMONSTRATION |
+| $1.9M | Department of Energy | A SENSITIVITY-DRIVEN WIDE AREA PROTECTION COORDINATION TOOL FOR HIGH PENETRATION OF IBRS
+
+A.	PROJECT |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/e7960645-6ba4-f6dd-b4d7-32e054308c08-R/latest) (Tier 1)
+<!-- auto:usaspending end -->
