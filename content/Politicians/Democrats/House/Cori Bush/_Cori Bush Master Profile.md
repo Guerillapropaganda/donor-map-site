@@ -10,7 +10,7 @@ chamber: "House"
 state: "Missouri"
 state-abbr: "MO"
 district: "1"
-bioguide-id: "A000383"
+bioguide-id: "B001224"
 govtrack-id: 456829
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -27,8 +27,7 @@ corroboration-count: 3
 editorial-review-date: "2026-04-08"
 editorial-reviewer: "Research Claude"
 editorial-result: block
-editorial-blockers:
-  - "Congress auto-block corrupted: shows Republican/Oklahoma instead of Democrat/Missouri (Code Claude fix)"
+editorial-blockers: []
 verified-blocks:
   - voting-records
   - fec-data
@@ -144,13 +143,14 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 <!-- auto:congress-legislation start -->
 | Metric | Value |
 |--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
+| Congress | 117th-118th |
+| Party | Democrat |
+| State | Missouri |
+| District | 1st |
 | Bills Sponsored | 0 |
 | Bills Cosponsored | 0 |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
