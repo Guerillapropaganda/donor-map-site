@@ -1,21 +1,21 @@
 ---
-title: "Mark Green"
+title: Mark Green
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Tennessee"
-state-abbr: "TN"
-district: "7"
+party: Republican
+chamber: House
+state: Tennessee
+state-abbr: TN
+district: '7'
 committees:
-  - "Homeland Security"
+  - Homeland Security
 issues:
-  - "Healthcare"
-total-received: "$2,049,040"
-fec-candidate-id: "H8TN07076"
+  - Healthcare
+total-received: '$2,049,040'
+fec-candidate-id: H8TN07076
 govtrack-id: 400159
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -25,7 +25,8 @@ source-types:
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
+opposes: '[[HOUSE MAJORITY PAC]]'
 ---
 
 
