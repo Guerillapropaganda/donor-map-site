@@ -7,13 +7,10 @@ source-tier: 1
 parent: null
 issues:
   - "Technology"
-related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[Sherrod Brown]] · [[_Katie Porter Master Profile|Katie Porter]]"
 ---
-
 #investigation #contradiction #crypto #fairshake #both-sides #bipartisan-capture #class-analysis
 tags: #analysis #story
-
-related: [[Crypto Industry Bloc]] [[_Donald Trump Master Profile|Donald Trump]] [[_Kamala Harris Master Profile|Kamala Harris]] [[_Bernie Sanders Master Profile|Bernie Sanders]] FIT21 crypto regulation bill [[Sherrod Brown]] [[_Katie Porter Master Profile|Katie Porter]] Gary Gensler SEC removal Paul Atkins SEC confirmation
 
 ---
 
@@ -194,6 +191,3 @@ The both-sides framing — "crypto has Democrats and Republicans" — obscures t
 
 ---
 
-research-status:: ready — Full citation pass complete. Fairshake $155M (94% from 4 companies), $238-290M total crypto spending (48% of ALL corporate election spending), FIT21 279-136 (71 Democratic defectors), GENIUS Act 68-30, Sherrod Brown $40M destruction, Katie Porter $10M primary, Gensler→Atkins SEC capture, Strategic Bitcoin Reserve, 91% win rate across 58 races, class analysis. 37 sources Tier 1-2 with URLs. All ### headers. Promoted Session 38n.
-content-readiness:: ready
-                   

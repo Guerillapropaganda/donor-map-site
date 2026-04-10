@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Lindsey Graham Master Profile]]"
-related: "[[The Trump Conversion and the Defense Contractor Payday]]"
+related: "[[The Trump Conversion and the Defense Contractor Payday]] · [[_Lindsey Graham Master Profile]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]]"
 ---
-
 #lindsey-graham #trump #mccain #donor-shift #class-analysis #follow-the-money
-
-related: [[_Lindsey Graham Master Profile]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · John McCain · [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]]
 
 donors: [[_Donald Trump Master Profile]] · MAGA small-dollar networks · Trump-aligned Super PACs · Graham Majority Fund
 
@@ -107,4 +104,3 @@ Among all Senate candidates running in 2020, Graham received the largest percent
 
 ---
 
-content-readiness:: ready

@@ -2,21 +2,18 @@
 title: "AI Regulation and Tech Donors"
 type: story
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Story"
 issues:
   - "Technology"
-related: "[[AI Safety and Regulatory Capture]]"
+related: "[[AI Safety and Regulatory Capture]] · [[Anthropic]] · [[OpenAI]] · [[Google - Alphabet]] · [[Microsoft]] · [[Nvidia]] · [[Think Big AI PAC]] · [[Marc Andreessen & Horowitz]] · [[AI Deregulation Super PAC - Leading the Future]]"
 source-types:
   - Congress
 ---
-
 #ai #regulation #tech #donors #lobbying #safety #innovation #capture
-
-related: [[Anthropic]] [[OpenAI]] [[Google - Alphabet]] [[Microsoft]] [[Nvidia]] [[Think Big AI PAC]] [[Marc Andreessen & Horowitz]]
 
 ---
 

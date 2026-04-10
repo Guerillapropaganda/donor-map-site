@@ -8,13 +8,11 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[2026 House Money Map]] · [[California Razor-Thin Districts 2026]] · [[GOP House Defense 2026]]"
 ---
-
 #2026-election #house #race-frame #dccc #red-to-blue #offensive-strategy
 
 tags: #analysis #story
-
-related:: [[2026 House Money Map]] [[California Razor-Thin Districts 2026]] [[GOP House Defense 2026]] NRCC - Republican Targets
 
 donors:: [[House Majority PAC]] Democratic Super PACs
 
@@ -138,5 +136,3 @@ The actual electoral preference of voters in most districts is secondary to thes
 
 ---
 
-content-readiness:: ready
-research-status:: active

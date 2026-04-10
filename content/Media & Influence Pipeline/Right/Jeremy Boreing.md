@@ -2,16 +2,15 @@
 title: "Jeremy Boreing"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Andrew Klavan]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
+related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Andrew Klavan]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]]"
 ---
 
 #media-pipeline #right #daily-wire #infrastructure #evangelical-capitalism #culture-war
-
 
 ---
 
@@ -171,4 +170,3 @@ Boreing's model differs from individual host capture — he built the platform i
 
 **Note:** 13 non-FEC sources verified via WebFetch/WebSearch (2026-03-27); key Axios and Deadline sources Chrome-verified 2026-03-27. FEC confirmed $0 via Chrome JavaScript API execution 2026-03-27.
 
-content-readiness:: ready

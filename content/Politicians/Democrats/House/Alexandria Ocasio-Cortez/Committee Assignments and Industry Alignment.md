@@ -7,11 +7,9 @@ source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"
 known-gaps:
   - "No mapped relationships"
+related: "[[_Alexandria Ocasio-Cortez Master Profile]]"
 ---
-
 #aoc #committee-assignments #financial-services #energy-commerce #donor-alignment #class-analysis #follow-the-money
-
-related:: [[_Alexandria Ocasio-Cortez Master Profile]]
 
 ### Committee Assignment History
 
@@ -73,5 +71,3 @@ The 2025 assignment to Energy & Commerce represents significant jurisdictional a
 
 ---
 
-research-status:: Complete with primary source data and analysis
-content-readiness:: Developed

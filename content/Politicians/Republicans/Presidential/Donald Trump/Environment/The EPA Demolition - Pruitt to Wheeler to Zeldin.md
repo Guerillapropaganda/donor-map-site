@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Environment - Donors and Backers]]"
+related: "[[Environment - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Fossil Fuel Deregulation - The Climate Donors|Fossil Fuel Deregulation - The Industry Wish List Becomes Policy]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]]"
 ---
-
-
 #donald-trump #environment #epa #climate #paris-agreement #fossil-fuels #clean-water #endangered-species #anwr #zeldin #pruitt #wheeler #koch #methane #deregulation #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[Fossil Fuel Deregulation - The Climate Donors|Fossil Fuel Deregulation - The Industry Wish List Becomes Policy]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]]
-
 donors: [[Koch Network - Charles Koch]], [[ExxonMobil]], [[American Petroleum Institute]]
-
-content-readiness:: ready
 
 ---
 
@@ -129,4 +123,3 @@ The administration proposed eliminating blanket protections for threatened speci
 - [Sierra Club. Oil Tycoons Open the Money Floodgates for Trump](https://www.sierraclub.org/sierra/oil-tycoons-open-money-floodgates-trump) (Tier 2)
 - [NPR. Trump EPA Will Stop Regulating Greenhouse Gases (February 2026)](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment) (Tier 2)
 
-research-status:: BLM lease data from official reports. EPA staffing from Inside Climate News. Regulatory rollback counts from Sabin Center and Washington Post. Donor connections from Brennan Center and Sierra Club. Pruitt scandals from NPR and Washington Post. Wheeler lobbying from NPR. Zeldin actions from EPA official releases. OBBBA fossil fuel provisions from Columbia CGEP. Remaining. Individual fossil fuel company FEC filings need deeper drill down.

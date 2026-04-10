@@ -7,12 +7,9 @@ source-tier: 2
 parent: [[_Pete Hegseth Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Pete Hegseth Master Profile]] · [[Rupert Murdoch]]"
 ---
-
-
 #pete-hegseth #fox-news #defense #media-pipeline #class-analysis #follow-the-money
-
-related: [[_Pete Hegseth Master Profile]] · [[Rupert Murdoch]]
 
 donors: [[Rupert Murdoch]] [[Koch Network - Charles Koch]]
 

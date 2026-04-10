@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Barack Obama Master Profile]]
+related: "[[_Barack Obama Master Profile]] · [[Democracy Alliance]] · [[Organizing for Action]]"
 ---
-
-
 #obama #post-presidency #wealth-accumulation #class-analysis #follow-the-money #martha's-vineyard #oligarchy #democracy-alliance
 
-related: [[_Barack Obama Master Profile]] · [[Democracy Alliance]] · [[Organizing for Action]]
-
 donors: [[Democracy Alliance]], [[Goldman Sachs]], [[Silicon Valley Democratic Donor Network]]
-
-content-readiness:: ready
 
 ---
 
@@ -165,7 +160,6 @@ The gap between rhetoric and reality was the entire presidency. The post-preside
 - [Bernie Sanders: Net Worth and Asset Disclosure](https://www.rollcall.com/news/home/bernie-sanders-financial-disclosure-form-2019) *(source unavailable)* (Tier 1)
 - [Politico: The Obama Money Machine: How His Speaking Fees Changed American Politics](https://www.politico.com/magazine/story/2017/04/02/the-obama-money-machine-215050) (Tier 2)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel

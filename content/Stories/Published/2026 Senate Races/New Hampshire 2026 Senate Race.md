@@ -12,13 +12,11 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 
+related: "[[General Dynamics]]"
 ---
-
 #2026-election #senate #new-hampshire #race-frame
 
 tags: #analysis #story
-
-related:: Chris Pappas Scott Brown John Sununu Pharmaceutical Industry - New England [[General Dynamics]] Portsmouth Naval Shipyard
 
 donors:: [[Pharmaceutical Industry Bloc]] General Dynamics Portsmouth [[National Republican Senatorial Committee]] [[Democratic Senatorial Campaign Committee]] Women's Political Action Networks
 
@@ -92,5 +90,3 @@ Pappas' fundraising advantage ($14.2M for House career) is disproportionately bu
 
 ---
 
-content-readiness:: ready
-research-status:: active

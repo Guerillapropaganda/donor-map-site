@@ -2,7 +2,7 @@
 title: "Western States Petroleum Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -46,16 +46,12 @@ regulatory-agencies:
   - "National Oceanic and Atmospheric Administration"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
-related: "[[Valero Energy]]"
+related: "[[Valero Energy]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Chevron]] · [[California Restaurant Association]] · [[American Petroleum Institute]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 56147294
 total-assets: 16493191
 ---
-
-
 #donor #oil-industry #WSPA #petroleum #california #lobbying #fossil-fuels #referendum-tactic #SB1137 #follow-the-money #environmental-opponent
-
-related: [[_Gavin Newsom Master Profile]] | [[Fracking and Oil Permits - Green Branding vs. Record]] | [[Environment - Donors and Backers]] | [[Chevron]] | [[California Restaurant Association]]
 
 ---
 
@@ -134,9 +130,6 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 
 - [CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/) (Tier 2)
 - [FPPC: WSPA lobbying filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-
-research-status:: ready — primary CA oil/gas lobby, Chevron/Valero/Marathon/Phillips 66/Exxon members, SB 1137 referendum tactic, refinery community environmental justice, cap-and-trade protection. 3 sources, Tier 1-2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

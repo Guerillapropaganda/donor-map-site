@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Xavier Becerra Master Profile]]
+related: "[[_Xavier Becerra Master Profile]] · [[California Nurses Association]] · [[SEIU - Service Employees International Union]]"
 ---
-
-
 #xavier-becerra #hhs #drug-pricing #pharmaceutical-industry #healthcare-policy #class-analysis
-
-related: [[_Xavier Becerra Master Profile]] · [[California Nurses Association]] · [[SEIU - Service Employees International Union]]
 
 donors: Healthcare Industry Networks
 
@@ -128,4 +125,3 @@ But his low public polling (6–9%) suggests that healthcare industry enthusiasm
 - [Fierce Pharma: Biden to tap California Attorney General Becerra, price-fixing prosecutor and pay-for-delay critic, for top HHS job](https://www.fiercepharma.com/pharma/biden-to-tap-california-attorney-general-xavier-becerra-who-have-fought-pharmas-for-top-hhs) (Tier 2)
 - [Fierce Healthcare: From 340B to price transparency: Here are 3 takeaways from Becerra's confirmation hearing](https://www.fiercehealthcare.com/hospitals/from-340b-to-price-transparency-here-are-3-takeaways-from-xavier-becerras-confirmation) (Tier 2)
 
-content-readiness:: ready

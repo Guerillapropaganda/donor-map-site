@@ -2,16 +2,15 @@
 title: "Michael Knowles"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]] · [[Andrew Klavan]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
+related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]] · [[Andrew Klavan]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]]"
 ---
 
 #media-pipeline #right #culture-war #daily-wire #evangelical-capitalism
-
 
 ---
 
@@ -143,4 +142,3 @@ The Daily Wire model—billionaire-funded, subscription-protected, ideology-firs
 - [Media Bias/Fact Check: The Daily Wire](https://mediabiasfactcheck.com/the-daily-wire/) (Tier 3) (WebFetch verified 2026-03-27)
 - [FEC: Michael Knowles individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=KNOWLES%2C+MICHAEL) (Tier 1)
 
-content-readiness:: ready

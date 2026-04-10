@@ -5,17 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_John Fetterman Master Profile]]
+related: "[[_John Fetterman Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[_Bernie Sanders Master Profile]] · [[_Raphael Warnock Master Profile]]"
 ---
-
 #john-fetterman #israel #aipac #october-7 #progressive #betrayal #foreign-policy
 
 tags: #democrat
 
-related: [[_John Fetterman Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[_Bernie Sanders Master Profile]] · [[_Raphael Warnock Master Profile]]
-
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]]
-
-content-readiness:: ready
 
 ---
 

@@ -2,7 +2,7 @@
 title: "JPAC - Jewish Public Affairs Committee of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -16,17 +16,13 @@ last-enriched: "2026-04-09"
 ofac-programs:
   - "BELARUS"
   - "GLOMAG"
-related: "[[Ethnic Studies - Whose History Gets Taught]]"
+related: "[[Ethnic Studies - Whose History Gets Taught]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JCRC Bay Area]] · [[Haim Saban]]"
 ein: "680028695"
 nonprofit-status: "501(c)(4)"
 total-revenue: 841076
 total-assets: 358764
 ---
-
-
 #donor #israel #JPAC #pro-israel #california #lobbying #advocacy #sacramento #pressure-network
-
-related: [[_Gavin Newsom Master Profile]] | [[Pro-Israel Donor Network Deep Dive]] | [[Early History and Background Ties 2003-2019]] | [[Post-October 7 Positions and Flip History]] | [[JCRC Bay Area]]
 
 ---
 
@@ -85,9 +81,6 @@ Israel — legislative advocacy, anti-protest legislation, ethnic studies, donor
 ### Sources
 
 - [WSWS: Protest suppression legislation analysis](https://www.wsws.org/en/articles/2024/10/22/uuxx-o22.html) (Tier 4 — flag: far-left outlet, legislative text verifiable independently) (Tier 2)
-
-research-status:: ready — CA statewide Jewish advocacy/lobbying org, ethnic studies reversal, anti-protest legislation, JPAC/JCRC/Federation network, Sacramento pressure pipeline. 2 sources, Tier 1/4. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

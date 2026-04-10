@@ -5,13 +5,9 @@ content-readiness: raw
 last-updated: 2026-04-08
 source-tier: null
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]]"
+related: "[[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[_Donald Trump Master Profile]] · [[Donor Registry - Master Index]]"
 ---
-
-
 #donald-trump #donors #dark-money #mega-donors #adelson #musk #thiel #leo #koch #defense #pharma #fossil-fuels #crypto #follow-the-money #class-analysis
-
-related: [[_Donald Trump Master Profile]] · [[Donor Registry - Master Index]]
 
 content-readiness:: ready
 

@@ -2,7 +2,7 @@
 title: "Cato Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: conservative
@@ -29,11 +29,10 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Homeland Security Department"
   - "Internal Revenue Service"
-related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]]"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
 ---
 
 #think-tank #conservative #libertarian #deregulation #climate-denial #social-security #financial-regulation #dark-money #koch
-
 
 ---
 
@@ -393,8 +392,6 @@ The revolving door completes the circuit: research produced → personnel traine
 - [Regulatory Transparency Project: Michael Cannon podcast interview](https://rtp.fedsoc.org/podcast/deep-dive-ep-133/) (Tier 3)
 
 ---
-
-content-readiness:: developed
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

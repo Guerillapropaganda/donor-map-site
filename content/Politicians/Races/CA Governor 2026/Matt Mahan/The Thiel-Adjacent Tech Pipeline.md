@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Matt Mahan Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Matt Mahan Master Profile]] · [[Peter Thiel]] · [[Mithril Capital]] · [[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[_David Sacks Master Profile|David Sacks]]"
 ---
-
-
 #matt-mahan #peter-thiel #palantir #joe-lonsdale #mithril-capital #cicero-institute #class-analysis
 
-related: [[_Matt Mahan Master Profile]] · [[Peter Thiel]] · [[Mithril Capital]] · [[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[_David Sacks Master Profile|David Sacks]]
 donors: [[Peter Thiel]]
 
 content-readiness:: ready

@@ -35,11 +35,9 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 donors: "[[NORPAC]]"
+related: "[[_Maxine Waters Master Profile|Maxine Waters]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Goldman Sachs]]"
 ---
-
 #gregory-meeks #democrat #new-york #house #ranking-member #foreign-affairs #financial-services #israel-lobby #wall-street #ethics-violations #phase-6-gavel-power
-
-related: [[_Maxine Waters Master Profile|Maxine Waters]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[DMFI - Democratic Majority for Israel|DMFI]] [[Goldman Sachs]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[DMFI - Democratic Majority for Israel|DMFI]] [[Goldman Sachs]]
 

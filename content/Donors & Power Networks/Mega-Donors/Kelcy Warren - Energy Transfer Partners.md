@@ -23,12 +23,9 @@ sec-form-types:
   - "8-K"
   - "EX-99.1"
   - "FWP"
-related: "[[The Power Grid Failure and the Fossil Fuel Protection Racket]]"
+related: "[[The Power Grid Failure and the Fossil Fuel Protection Racket]] · [[Fossil Fuel Bloc]] · [[_Donald Trump Master Profile|Trump]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Koch Network - Charles Koch|Koch Network]] · [[American Petroleum Institute]]"
 ---
-
 #donor #mega-donor #fossil-fuel #pipeline #dapl #texas #republican #energy-transfer #trump #class-analysis #follow-the-money
-
-related: [[Fossil Fuel Bloc]] · [[_Donald Trump Master Profile|Trump]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Koch Network - Charles Koch|Koch Network]] · [[American Petroleum Institute]]
 
 ---
 
@@ -153,9 +150,6 @@ Warren's $1M Abbott donation after the 2021 Texas freeze is the most cynical tra
 - [White House: Presidential Memorandum on Construction of the Dakota Access Pipeline (Jan 24, 2017)](https://www.federalregister.gov/documents/2017/01/30/2017-02032/construction-of-the-dakota-access-pipeline) (Tier 1) — Executive order text directing Army Corps to expedite DAPL
 
 ---
-
-research-status:: ready — Full expansion from 38 to 175+ lines. FEC data Chrome-verified (984 contributions, 100% Republican). Wikipedia Chrome-verified (political activity, DAPL). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (contributions table) → What They've Gotten (Format 2 timeline, 9 rows) → Standing Rock Connection → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $20M+ Trump, $10M America First Action, $6M Perry, $1M Abbott, 984 FEC contributions, DAPL executive order 4 days after inauguration.
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

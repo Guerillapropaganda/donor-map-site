@@ -18,11 +18,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]] · [[_Chuck Schumer Master Profile]] · [[Elon Musk|Elon Musk - Tesla SpaceX X]]"
 ---
-
 #scott-bessent #treasury-secretary #trump-cabinet #hedge-fund #soros #wall-street #deregulation #class-analysis
 
-related: [[_Donald Trump Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]] · [[_Chuck Schumer Master Profile]] · [[Elon Musk|Elon Musk - Tesla SpaceX X]]
 donors: [[Goldman Sachs]] · [[Elon Musk]]
 
 profile-status:: ready

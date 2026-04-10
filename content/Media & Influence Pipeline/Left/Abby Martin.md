@@ -13,7 +13,6 @@ opposes: "[[AIPAC - American Israel Public Affairs Committee]] · [[Israel - Gov
 
 #media-pipeline #left #independent #anti-imperialist #rt #telesur #bds #first-amendment
 
-
 ---
 
 ### Who They Are
@@ -148,4 +147,3 @@ The anti-BDS lawsuit is the most consequential output of Martin's career for the
 - [Ballotpedia: Abby Martin](https://ballotpedia.org/Abby_Martin) (Tier 3)
 - [FEC: Abby Martin individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MARTIN%2C+ABBY) (Tier 1)
 
-content-readiness:: ready

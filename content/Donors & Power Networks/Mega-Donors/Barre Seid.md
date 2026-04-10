@@ -17,13 +17,10 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 701289
 total-assets: 279469
-related: "[[Federalist Society]]"
+related: "[[Federalist Society]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Sentinel Action Fund]] · [[_Clarence Thomas Master Profile|Thomas]]"
 total-political-spend: "$266,480"
 ---
-
 #barre-seid #mega-donor #judicial #Leonard-Leo #Marble-Freedom-Trust #tax-avoidance #judicial-capture
-
-related: [[Leonard Leo]] [[Marble Freedom Trust]] [[The 85 Fund]] [[Sentinel Action Fund]] [[_Clarence Thomas Master Profile|Thomas]]
 
 ---
 
@@ -90,8 +87,6 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 - [IRS Form 990: Judicial Education Project / The 85 Fund (2021-2022)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Barre%20Seid&city=&state=All+States&country=US) (Tier 1)
 - [Leonard Leo Marble Freedom Trust network map](https://www.documentcloud.org/documents/21144404-marble-trust-recipients/) (Tier 2)
 - [SCOTUSblog: Dobbs v. Jackson and Federalist Society judicial campaign](https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

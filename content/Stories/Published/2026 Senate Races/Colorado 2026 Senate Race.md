@@ -10,12 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_John Hickenlooper Master Profile]]"
 ---
-
 #senate-race #2026 #competitive #colorado #analysis
 tags: #story
-
-related: [[_John Hickenlooper Master Profile]] Energy & Utilities Outdoor Recreation Money Tech Donors
 
 donors: Small-Dollar Donors Colorado Democratic Party Renewable Energy PACs [[Tech Industry]]
 
@@ -101,4 +99,3 @@ Hickenlooper's small-dollar base ($25 or less = ~80% of donations) is extraordin
 
 ---
 
-content-readiness:: ready

@@ -2,7 +2,7 @@
 title: "United Farm Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -30,7 +30,7 @@ regulatory-agencies:
   - "Executive Office for Immigration Review"
   - "Executive Office of the President"
   - "Federal Register, Administrative Committee"
-related: "[[Labor - Donors and Backers]]"
+related: "[[Labor - Donors and Backers]] · [[AFL-CIO]] · [[SEIU - Service Employees International Union]] · [[Tyson Foods]] · [[Cargill]] · [[Agricultural Labor Vulnerability Donors]]"
 sec-filings: 40
 sec-form-types:
   - "10-K"
@@ -55,10 +55,7 @@ sec-form-types:
   - "S-4/A"
 total-political-spend: "$1,000"
 ---
-
 #ufw #farmworkers #labor #cesar-chavez #agriculture #immigration #california
-
-related: [[AFL-CIO]] [[SEIU - Service Employees International Union]] [[Tyson Foods]] [[Cargill]]
 
 ---
 
@@ -104,7 +101,6 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 - [OpenSecrets: UFW political spending](https://www.opensecrets.org/orgs/united-farm-workers/summary?id=D000057925) (Tier 1)
 - [Ballotpedia: United Farm Workers](https://ballotpedia.org/United_Farm_Workers) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

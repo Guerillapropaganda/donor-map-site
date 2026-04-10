@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -30,12 +30,9 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lobbying-spend: 2624500
 lobbying-filings: 106
-related: "[[Uber]]"
+related: "[[Uber]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[CoreCivic]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Save America PAC]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Pam Bondi Master Profile|Pam Bondi]] · [[Lyft]]"
 ---
-
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity
-
-related: [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[CoreCivic]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Save America PAC]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Pam Bondi Master Profile|Pam Bondi]]
 
 ---
 
@@ -575,8 +572,6 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [HigherGov: GEO Group Federal Contract Record](https://www.highergov.com/awardee/the-geo-group-inc-10000076/) (Tier 1)
 
 ---
-
-research-status:: developed — Complete 2025 financials ($2.63B revenue, $254.4M profit, $520M new contracts), detailed ROI analysis ($2M political investment → $520M annual cont
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -2,7 +2,7 @@
 title: "Bryan Steil"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,30 +16,13 @@ top-donors:
   - "Koch Network"
 total-received: "$3,443,146"
 fec-candidate-id: "H8WI01156"
-donors: "[[Insurance Industry]] · [[Stand Together]]"
-doj-press-mentions: "264414"
+donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]]"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
-  - "USAO - New Jersey"
+related: "[[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
-
 #bryan-steil #republican #wisconsin #house #committee-chair #house-administration #election-law #voter-id #wall-street #paul-ryan #campaign-finance #fec #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch|Koch Network]]
-
 donors: [[Koch Network - Charles Koch|Koch Network]]
-
-profile-status:: ready
 
 ---
 ---
@@ -162,8 +145,6 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 - [Ballotpedia: Bryan Steil](https://ballotpedia.org/Bryan_Steil) (Tier 3)
 - [Wikipedia: Bryan Steil](https://en.wikipedia.org/wiki/Bryan_Steil) (Tier 3)
 
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |
@@ -200,22 +181,4 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264414 |
-| Date Range | 2026-04-08 to 2026-04-09 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Kansas +9 more |
-
-**Recent press releases:**
-
-- 2026-04-09 — [U.S. Attorney, ATF Offer Law Enforcement Training on Firearms Trends](https://www.justice.gov/usao-ndwv/pr/us-attorney-atf-offer-law-enforcement-training-firearms-trends) — USAO - West Virginia, Northern
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- ... and 264,408 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Bryan%20Steil%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

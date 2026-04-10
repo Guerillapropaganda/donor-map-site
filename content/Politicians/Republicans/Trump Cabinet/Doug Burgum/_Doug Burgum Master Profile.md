@@ -20,12 +20,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Chris Wright Master Profile]] · [[_Lee Zeldin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
-
 #doug-burgum #republican #interior-secretary #energy-dominance #fossil-fuels #north-dakota #microsoft #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] [[_Chris Wright Master Profile]] [[_Lee Zeldin Master Profile]] [[Koch Network - Charles Koch|Koch Network]]
 donors: [[Koch Network - Charles Koch]] · [[Harold Hamm]]
 
 profile-status:: ready
@@ -121,7 +119,6 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 - [CNN: $20 gift card campaign strategy](https://www.cnn.com/2023/07/11/politics/2024-fundraising-strategy-burgum/index.html) (Tier 2)
 - [FEC: Doug Burgum contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=burgum,+doug) (Tier 1)
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

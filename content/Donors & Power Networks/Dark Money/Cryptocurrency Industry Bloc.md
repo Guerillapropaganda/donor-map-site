@@ -13,11 +13,9 @@ issues:
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
+related: "[[David Sacks Political Operation]] · [[Jeff Yass]] · [[Coinbase]] · [[Ripple Labs]]"
 ---
-
 #donor-node #super-pac #crypto #fairshake #dark-money #policy-purchasing #deregulation
-
-related: [[David Sacks Political Operation]] · [[Jeff Yass]] · [[Coinbase]] · [[Ripple Labs]]
 
 ---
 
@@ -164,4 +162,3 @@ This is not a return to the Gilded Age. It is worse: it is the industrialization
 
 ---
 
-content-readiness:: developed

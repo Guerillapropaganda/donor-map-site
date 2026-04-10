@@ -2,7 +2,7 @@
 title: "Frank Pallone"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,13 +23,10 @@ top-donors:
   - "PhRMA"
 total-received: "$1,311,209"
 fec-candidate-id: "H8NJ03073"
-donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]]"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
+donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Pfizer]] · [[PhRMA]]"
 ---
-
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power
-
-related: [[_Rosa DeLauro Master Profile|Rosa DeLauro]] [[_Maxine Waters Master Profile|Maxine Waters]] [[Pfizer]] [[PhRMA]]
 
 donors: [[Pfizer]] [[PhRMA]]
 
@@ -134,9 +131,6 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 - [Pallone.house.gov: Statement on FCC net neutrality vote](https://pallone.house.gov/press-release/pallone-statement-fcc-vote-adopt-net-neutrality-protections) (Tier 1)
 - [Pallone.house.gov: Medicare drug price negotiation statement](https://pallone.house.gov/media/press-releases/pallone-highlights-medicare-drug-price-negotiations-highlights-legislation) (Tier 1)
 - [LegiList: Frank Pallone 2024 campaign finance](https://legilist.com/finance/P000034/2024) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

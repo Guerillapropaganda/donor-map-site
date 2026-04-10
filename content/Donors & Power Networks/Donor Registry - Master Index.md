@@ -2,18 +2,15 @@
 title: "Donor Registry - Master Index"
 type: index
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Donor Registry - Master Index.md"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Master Donor Database]] · [[Research Methodology and Data Sources]] · [[Session Timeline]] · [[Trump Donor Network - The Full Map]]"
 ---
-
 #donor-registry #master-index #vault-infrastructure #follow-the-money
 
 tags: #donor
-
-related: [[Master Donor Database]] · [[Research Methodology and Data Sources]] · [[Session Timeline]]
 
 ---
 

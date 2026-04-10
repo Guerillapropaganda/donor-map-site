@@ -5,12 +5,9 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Benjamin Netanyahu Master Profile]]
-related: "[[Itamar Ben-Gvir]] · [[Bezalel Smotrich]]"
+related: "[[Itamar Ben-Gvir]] · [[Bezalel Smotrich]] · [[_Benjamin Netanyahu Master Profile]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Miriam Adelson]]"
 ---
-
 #westbank #settlements #annexation #ben-gvir #smotrich #defense-industry #surveillance #class-analysis #nso-pegasus #international
-
-related: [[_Benjamin Netanyahu Master Profile]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Miriam Adelson]]
 
 donors: [[Miriam Adelson]]
 

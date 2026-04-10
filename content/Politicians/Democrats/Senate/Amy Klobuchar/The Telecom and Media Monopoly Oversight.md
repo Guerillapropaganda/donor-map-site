@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Amy Klobuchar Master Profile]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]] · [[Sinclair Broadcast Group]]"
 ---
-
 #klobuchar #antitrust #telecom #media #merger #consolidation #competition
-
-related: [[_Amy Klobuchar Master Profile]] [[AT&T - WarnerMedia]] [[Comcast - NBCUniversal]] [[Sinclair Broadcast Group]]
 
 donors: [[AT&T - WarnerMedia]] [[Comcast - NBCUniversal]] [[Verizon]]
 

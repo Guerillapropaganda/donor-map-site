@@ -32,11 +32,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]]"
 ---
-
 #susan-collins #senate #maine #moderate #kavanaugh #private-equity #corporate-pacs #class-analysis
-
-related: [[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]]
 
 donors: [[Blackstone]]
 

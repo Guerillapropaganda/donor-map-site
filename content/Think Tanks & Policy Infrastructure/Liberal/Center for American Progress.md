@@ -2,12 +2,12 @@
 title: "Center for American Progress"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[Goldman Sachs - Wall Street Titan]] · [[Goldman Sachs]] · [[Citigroup]] · [[Google - Alphabet]] · [[Meta - Facebook Political Operation]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Party Infrastructure]] · [[Silicon Valley Democratic Donor Network]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
+related: "[[Goldman Sachs - Wall Street Titan]] · [[Goldman Sachs]] · [[Citigroup]] · [[Google - Alphabet]] · [[Meta - Facebook Political Operation]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Party Infrastructure]] · [[Silicon Valley Democratic Donor Network]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 ein: "300126510"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
@@ -28,7 +28,6 @@ regulatory-agencies:
 ---
 
 #think-tank #liberal #healthcare #climate #economic-policy #revolving-door #idea-laundering #obama-network #biden-network
-
 
 ---
 
@@ -202,8 +201,6 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 - [The Nation: Corporate Influence at the Center for American Progress?](https://www.thenation.com/article/archive/corporate-influence-center-american-progress/) (Tier 2)
 - [Jacobin: How CAP Fuels the Right — Tanden, Israel, and donor-driven foreign policy (2019)](https://jacobin.com/2019/04/center-for-american-progress-tanden-israel-omar) (Tier 2)
 - [Semafor: Center for American Progress' new head Neera Tanden says Democrats 'should not be knee-jerk institution defenders' (February 2025)](https://www.semafor.com/article/02/20/2025/new-center-for-american-progress-head-neera-tanden-interview-on-democrats) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

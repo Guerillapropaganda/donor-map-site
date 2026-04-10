@@ -2,16 +2,13 @@
 title: "Rent Control - Props 10, 21, and 33"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
-
-
 #newsom #housing #rent-control #prop-10 #prop-21 #prop-33 #tenant-rights #california-apartment-association #donor-class #ballot-measure #class-analysis #follow-the-money
 
-related: [[3.5 Million Units - Broken Promise]] | [[Supply-Side Framework - Who It Helps]] | [[Homelessness Spending and Encampments]] | [[_Gavin Newsom Master Profile]]
 donors: [[California Apartment Association]]
 
 ---
@@ -125,4 +122,3 @@ The supply-side strategy itself is a delay mechanism. Instead of rent control (i
 - [California Secretary of State: Ballot measure campaign finance](https://cal-access.sos.ca.gov/Campaign/Measures/) (Tier 1)
 - [UCLA Luskin: housing affordability research](https://luskin.ucla.edu/housing) (Tier 2)
 
-content-readiness:: ready

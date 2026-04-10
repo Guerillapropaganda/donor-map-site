@@ -2,7 +2,7 @@
 title: "Club for Growth"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -11,7 +11,7 @@ ein: 204681603
 annual-revenue: "$12.3M"
 net-assets: "$9.3M"
 tax-year: "2023"
-related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John Ratcliffe Master Profile]] · [[Mike Collins Master Profile]] · [[Jim Jordan Master Profile]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[The Freedom Caucus and Spending Absolutism]] · [[The FEC to Congress Pipeline and Election Law]] · [[Ron DeSantis Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Lauren Boebert]] · [[Chip Roy Master Profile]] · [[National Republican Senatorial Committee]] · [[Mike Lee]]"
+related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John Ratcliffe Master Profile]] · [[Mike Collins Master Profile]] · [[Jim Jordan Master Profile]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[The Freedom Caucus and Spending Absolutism]] · [[The FEC to Congress Pipeline and Election Law]] · [[Ron DeSantis Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Lauren Boebert]] · [[Chip Roy Master Profile]] · [[National Republican Senatorial Committee]] · [[Mike Lee]] · [[Jeffrey Yass]] · [[David McIntosh]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Tax Policy - Who Pays and Who Doesnt|Tax Policy]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[MAGA Inc]]"
 court-cases: 115
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -23,10 +23,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, W.D. Wisconsin"
 ---
-
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor
-
-related: [[Jeffrey Yass]] · [[David McIntosh]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Tax Policy - Who Pays and Who Doesnt|Tax Policy]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -219,8 +216,6 @@ The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Grow
 - [CNBC: Jeff Yass influence on schools, courts, markets](https://www.cnbc.com/2024/04/09/jeff-yass-millions-to-influence-schools-courts-and-markets.html) (Tier 2)
 - [Read Sludge: TikTok billionaire donates millions to Trump](https://readsludge.com/2025/08/01/tiktok-billionaire-donates-millions-to-trump-as-he-repeatedly-delays-ban/) (Tier 2)
 - [The Nation: Jeff Yass TikTok forced sale analysis](https://www.thenation.com/article/society/how-tiktok-funder-jeffrey-yass-can-clean-up-on-the-apps-forced-sale/) (Tier 2)
-
-content-readiness:: developed
 
 ---
 

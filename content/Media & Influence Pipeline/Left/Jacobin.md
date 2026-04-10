@@ -12,7 +12,6 @@ related: "[[DSA - Democratic Socialists of America]]"
 
 #media-pipeline #left #socialist #dsa #subscription-funded #class-analysis #jacobin
 
-
 ---
 
 ### Who They Are
@@ -105,4 +104,3 @@ Jacobin is analytically important because it explicitly does what this vault doe
 
 ---
 
-content-readiness:: developed

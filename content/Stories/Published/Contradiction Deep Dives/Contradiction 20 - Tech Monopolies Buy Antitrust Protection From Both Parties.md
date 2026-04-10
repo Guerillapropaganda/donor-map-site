@@ -2,17 +2,14 @@
 title: "Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 issues:
   - "Antitrust & Monopoly"
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Payday Lending Survives Through Bipartisan Protection]]"
 ---
-
 #contradiction #big-tech #antitrust #lobbying #AICOA #revolving-door #class-analysis
-
-related: [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]
 
 ---
 
@@ -161,4 +158,3 @@ The PAC splits tell the story: Google PAC 48.5% Democratic/50.5% Republican. Ama
 
 ---
 
-content-readiness:: developed

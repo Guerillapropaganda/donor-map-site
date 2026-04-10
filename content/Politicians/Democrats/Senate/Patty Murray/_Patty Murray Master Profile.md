@@ -34,12 +34,10 @@ stock-trade-tickers:
 donors: "[[Jeff Bezos]]"
 total-received: "$3,798,925"
 fec-candidate-id: "S2WA00189"
+related: "[[Boeing]] · [[Pharmaceutical Industry Bloc]] · [[Defense Industry Bloc]] · [[Microsoft]]"
 ---
-
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis
 tags: #democrat
-
-related: [[Boeing]] · [[Pharmaceutical Industry Bloc]] · [[Defense Industry Bloc]] · [[Microsoft]] · Senate Appropriations Committee · HELP Committee
 
 donors: [[Boeing]] · [[Defense Industry Bloc]] · [[Pharmaceutical Industry Bloc]] · [[Microsoft]] · Financial Services Networks
 
@@ -141,9 +139,6 @@ This is why Murray rarely appears in national media: she operates in the less vi
 - [Defense News: Air Force awards Boeing $2.4 billion contract for KC-46 tankers](https://www.defensenews.com/air/2024/11/25/air-force-awards-boeing-2-4-billion-contract-for-kc-46-tankers/) (Tier 2)
 - [Senator Murray: At Hearing with Big Pharma CEOs on drug affordability](https://www.murray.senate.gov/at-hearing-with-big-pharma-ceos-senator-murray-makes-clear-lifesaving-drugs-dont-do-anyone-any-good-if-people-cant-afford-them/) (Tier 1)
 - [GovTrack: Patty Murray voting record and key votes](https://www.govtrack.us/congress/members/patty_murray/300076) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 

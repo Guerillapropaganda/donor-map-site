@@ -2,7 +2,7 @@
 title: "Goldman Sachs"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -31,15 +31,12 @@ regulatory-agencies:
   - "Labor Department"
   - "Securities and Exchange Commission"
   - "Treasury Department"
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Thune Master Profile]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FIT21 Act and Crypto Industry Capture]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[Mark Warner]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Chuck Schumer Master Profile]] · [[The Wall Street-Schumer Funding Axis]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Thune Master Profile]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FIT21 Act and Crypto Industry Capture]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[Mark Warner]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Chuck Schumer Master Profile]] · [[The Wall Street-Schumer Funding Axis]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Chris Murphy Master Profile]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 47401657
 total-assets: 690470487
 ---
-
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
-
-related: Derivatives & Financial Deregulation Dodd-Frank Rollback 2008 Financial Crisis & Bailouts Regulatory Capture - Donors and Backers [[_Donald Trump Master Profile]] [[_Gavin Newsom Master Profile]]
 
 ---
 
@@ -206,8 +203,6 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 - [U.S. banks' IPOs and political money contributions — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2)
 - [Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties — Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties) (Tier 2)
 - [THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE — FEC.gov](https://www.fec.gov/data/committee/C00350744/?tab=summary) (Tier 1)
-
-research-status:: ready — Full citation pass complete. $39M career political contributions, revolving door (Paulson, Cohn, Mnuchin, Rubin), bipartisan regulatory capture model, derivatives deregulation pipeline, TARP bailout, carried interest protection. 9 sources, Tier 1-2 verified. All ### headers. Promoted S
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

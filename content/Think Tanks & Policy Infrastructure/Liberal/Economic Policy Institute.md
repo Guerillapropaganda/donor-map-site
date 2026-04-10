@@ -2,7 +2,7 @@
 title: "Economic Policy Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: liberal
@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 12248246
 total-assets: 19581014
-related: "[[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[American Federation of Teachers]] · [[National Education Association]] · [[Ford Foundation]] · [[Bill Gates]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Center on Budget and Policy Priorities]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]]"
+related: "[[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[American Federation of Teachers]] · [[National Education Association]] · [[Ford Foundation]] · [[Bill Gates]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Center on Budget and Policy Priorities]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]]"
 fara-status: "registrant"
 fara-records: 2
 fara-countries:
@@ -59,7 +59,6 @@ sec-form-types:
 ---
 
 #think-tank #liberal #labor #economic-policy #minimum-wage #pro-act #nlrb #revolving-door
-
 
 ---
 
@@ -273,8 +272,6 @@ The critical question for class analysis is not whether EPI's research is accura
 - [EPI: Unprecedented — The Trump NLRB's attack on workers' rights (5 simultaneous rulemakings, quorum loss, constitutional challenge)](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2)
 - [EPI: Trump is the biggest union-buster in U.S. history — 1 million federal workers' collective bargaining rights at risk](https://www.epi.org/blog/trump-is-the-biggest-union-buster-in-u-s-history-more-than-1-million-federal-workers-collective-bargaining-rights-are-at-risk/) (Tier 2)
 - [EPI: Federal Policy Watch — real-time tracker of Trump administration changes to worker protections](https://www.epi.org/policywatch/) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

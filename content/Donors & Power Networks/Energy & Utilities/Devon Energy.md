@@ -2,7 +2,7 @@
 title: "Devon Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -15,34 +15,19 @@ issues:
   - "Energy & Climate"
 lobbying-spend: 810000
 lobbying-filings: 18
-doj-press-mentions: "264342"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
 ein: "365040938"
 annual-revenue: "$1"
 net-assets: "$1"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Valero Energy]]"
+related: "[[Valero Energy]] · [[ConocoPhillips]] · [[Koch Industries]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[_James Lankford Master Profile|Lankford]] · [[_Markwayne Mullin Master Profile|Mullin]] · [[WSPA - Western States Petroleum Association]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 1
 total-assets: 1
 ---
-
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas
-
-related: [[ConocoPhillips]] [[Koch Industries]] [[ExxonMobil]] [[Fossil Fuel Bloc]] [[_James Lankford Master Profile|Lankford]] [[_Markwayne Mullin Master Profile|Mullin]]
 
 ---
 
@@ -72,7 +57,6 @@ Favorable federal land leasing policies (expedited permitting, reduced royalty r
 > Devon's Oklahoma-centric political operation illustrates how energy companies capture state governments. Oklahoma's economy depends on oil and gas revenue; the industry's tax contributions fund state services; and the industry's political contributions ensure the tax rates remain low. The circular dependency — the state needs the industry, the industry shapes the state — creates a political environment where regulation of oil and gas is structurally impossible regardless of which party holds power.
 
 ---
-
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -122,7 +106,6 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 - [OU Daily: Mullin Violates STOCK Act](https://www.oudaily.com/news/sen-markwayne-mullin-violates-stock-act-by-failing-to-report-years-of-stocks-trades/article_4b70eb4c-7b0f-48bf-b0ab-39bbdb2f6233.html) (Tier 2)
 - [CISA: Pipeline Cybersecurity](https://www.cisa.gov/resources-tools/programs/pipeline-cybersecurity) (Tier 1)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
@@ -155,24 +138,7 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264342 |
-| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
-- ... and 264,336 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Devon%20Energy%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

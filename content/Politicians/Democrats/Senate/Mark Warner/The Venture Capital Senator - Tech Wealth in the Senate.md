@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Mark Warner Master Profile]]"
+related: "[[_Mark Warner Master Profile]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[Silicon Valley Democratic Donor Network]]"
 ---
-
 #warner #tech #venture-capital #self-funding #intelligence #virginia #telecom
-
-related: [[_Mark Warner Master Profile]] [[Google - Alphabet]] [[Meta - Facebook]] [[Amazon]] [[Silicon Valley Democratic Donor Network]]
 
 donors: [[Google - Alphabet]] [[Amazon]] [[Microsoft]] [[Silicon Valley Democratic Donor Network]]
 
@@ -49,4 +47,3 @@ Warner's $215 million net worth creates a Self-Funding as Independence dynamic: 
 - [Washington Post: Top Senate intel Democrat proposes measures to counter influence campaigns on social media](https://www.washingtonpost.com/powerpost/top-senate-intel-democrat-proposes-measures-to-counter-influence-campaigns-on-social-media/2018/07/30/50de4786-9420-11e8-810c-5fa705927d54_story.html) (Tier 2)
 - [Ballotpedia: Mark Warner](https://ballotpedia.org/Mark_Warner) (Tier 3)
 
-content-readiness:: ready

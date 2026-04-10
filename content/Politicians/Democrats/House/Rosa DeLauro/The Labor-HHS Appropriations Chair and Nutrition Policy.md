@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Rosa DeLauro Master Profile]] · [[_Tom Cole Master Profile|Tom Cole]] · [[UnitedHealth Group - Optum]]"
 ---
-
 #delauro #appropriations #labor-hhs #nutrition #nih #connecticut #bipartisan
-
-related: [[_Rosa DeLauro Master Profile]] [[_Tom Cole Master Profile|Tom Cole]] [[UnitedHealth Group - Optum]]
 
 donors: [[ActBlue]] [[SEIU - Service Employees International Union|SEIU]]
 

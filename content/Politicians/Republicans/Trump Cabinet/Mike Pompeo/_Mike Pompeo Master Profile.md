@@ -21,12 +21,10 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #mike-pompeo #secretary-of-state #cia-director #kansas #koch-network #defense-contractors #revolving-door #class-analysis #follow-the-money #iran #khashoggi #maximum-pressure
 
-related: [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]
 donors: [[Koch Network - Charles Koch]]
 
 profile-status:: ready
@@ -105,7 +103,6 @@ Saudi Arabia relationship → Koch Industries has business relationships with Sa
 >
 > **Saudi arms sales over congressional objections:** Pompeo uses an emergency declaration to bypass congressional review and approve $8B+ in arms sales to Saudi Arabia. Raytheon and [[Boeing|Boeing]] — whose PACs funded Pompeo — manufacture the weapons used in Yemen. The sequence is complete: defense contractor donations → emergency declaration → $8B contract.
 
-
 ## Rhetorical Signature Moves
 
 1. **The evangelical Christian framing:** Pompeo regularly invokes his Christian faith in foreign policy contexts — including a speech at the American University of Cairo in which he quoted scripture and positioned U.S. policy as aligned with divine purpose. The function: provides moral cover for transactional decisions (Khashoggi cover, Iran hawkishness, Saudi arms sales) by embedding them in a religious framework that preempts purely ethical critique.
@@ -154,7 +151,6 @@ The pattern: think tank → PAC → speaking fees → board memberships → law 
 - [Wikipedia: Mike Pompeo](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3)
 - [FEC: Mike Pompeo contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=pompeo,+mike) (Tier 1)
 content-readiness:: ready
- 
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

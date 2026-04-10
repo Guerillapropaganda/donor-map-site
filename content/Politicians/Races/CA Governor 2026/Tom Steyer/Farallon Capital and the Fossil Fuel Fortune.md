@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Tom Steyer Master Profile]]
-related: "[[NextGen America and the Climate-to-Politics Pipeline]]"
+related: "[[NextGen America and the Climate-to-Politics Pipeline]] · [[_Tom Steyer Master Profile]] · [[Fossil Fuel Bloc]] · [[Chevron]]"
 ---
-
-
 #tom-steyer #farallon-capital #fossil-fuels #hedge-fund #coal #divestment #class-analysis
 
-related: [[_Tom Steyer Master Profile]] · [[Fossil Fuel Bloc]] · [[Chevron]]
 donors: [[Fossil Fuel Bloc]]
 
 content-readiness:: ready

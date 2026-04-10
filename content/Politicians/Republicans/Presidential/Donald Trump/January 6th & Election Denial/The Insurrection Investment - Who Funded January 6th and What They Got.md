@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
+related: "[[_Donald Trump Master Profile]] · [[January 6th and Election Denial - Donors and Backers]] · [[Save America PAC]] · [[Koch Network - Charles Koch]] · [[Miriam Adelson]]"
 ---
-
 #jan6 #election-denial #class-analysis #investigation #insurrection #donor-analysis
-
-related: [[_Donald Trump Master Profile]] [[January 6th and Election Denial - Donors and Backers]] [[Save America PAC]] January 6th Committee [[Koch Network - Charles Koch]] [[Miriam Adelson]]
 
 donors: [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch]] [[Miriam Adelson]] [[Elon Musk]] [[Timothy Mellon]] [[TPUSA - Turning Point USA]]
 
@@ -153,4 +151,3 @@ This permanence is the evidence that election denial was never about overturning
 - [Center for American Progress: Election Denial and Authoritarian Risk](https://www.americanprogress.org/?s=The%20Insurrection%20Investment%20-%20Who%20Funded%20January%206th%20and%20What%20They%20Got) (Tier 3)
 - [State Campaign Finance Databases: State-Level Audit Campaign Spending 2020-2021](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=The%20Insurrection%20Investment%20-%20Who%20Funded%20January%206th%20and%20What%20They%20Got#[%7B1%7Cgro=d-id) (Tier 1)
 
-content-readiness:: ready

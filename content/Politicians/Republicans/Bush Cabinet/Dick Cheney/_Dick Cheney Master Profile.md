@@ -152,5 +152,3 @@ Cheney's constitutional project — maximal executive secrecy, minimal accountab
 
 ---
 
-profile-status:: developed — Full revolving door chronology. Halliburton compensation verified ($35.1M exit, $398,548 deferred comp VP tenure). Iraq contract totals verified ($10.8B Iraq, $31B+ LOGCAP). Energy Task Force participants documented. Torture program authorization sourced. Rhetorical signature moves section complete. Gaps: Pre-1995 campaign donor data (pre-FEC digital records), specific ANWR outcome post-2001, Cheney's personal stock option disposition records, full list of Task Force participants still partially sealed.
-content-readiness:: developed

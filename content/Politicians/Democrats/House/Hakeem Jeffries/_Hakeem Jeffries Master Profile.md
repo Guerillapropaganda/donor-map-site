@@ -1,8 +1,8 @@
 ---
 title: "Hakeem Jeffries Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-06
+content-readiness: ready
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,32 +10,42 @@ chamber: "House"
 state: "New York"
 state-abbr: "NY"
 district: "8"
+bioguide-id: "J000294"
+leadership-role: "House Minority Leader (2023-present)"
 issues:
   - "Housing"
   - "Israel & Foreign Policy"
+  - "Financial Services"
+  - "Party Leadership"
 top-donors:
-  - "AIPAC - American Israel Public Affairs Committee"
-  - "Real Estate Industry"
+  - "Real Estate Industry ($365K 2022 cycle)"
+  - "Wall Street / Finance ($600K+ 2022 cycle)"
+  - "AIPAC and affiliated networks ($1.3M+ career)"
+fec-committee-id: "C00481488"
 total-received: "$10,327,241"
 fec-candidate-id: "H2NY10092"
 source-types:
   - FEC
+corroboration-count: 1
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - Only 1 Tier 1 source type (FEC). Needs Congress.gov member profile + House.gov leadership page added for verified promotion eligibility.
+  - No auto:congress-legislation, auto:govtrack, auto:voting-record blocks. Needs pipeline enrichment when GitHub Actions re-enabled.
+  - AIPAC $1.3M career figure needs direct FEC cross-check (currently cited via Sludge Tier 2)
+opposes:
+  - "Progressive caucus insurgents (via gatekeeping mechanisms)"
+donors:
+  - "Real estate developers / landlords"
+  - "Wall Street / Finance"
+  - "AIPAC network"
+  - "Corporate PAC network (via Team Blue PAC)"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: ready
+editorial-notes: "Promoted draft→ready. Strong editorial content (4 analytical patterns, donor class map, central thesis on gentrification dynamics, Pelosi-to-Jeffries institutional continuity table), but ONLY 1 Tier 1 source type (FEC). Does NOT qualify for verified-candidate status — needs Congress.gov member profile + House.gov leadership page before verified sign-off. FIXED: moved OpenSecrets from Tier 1 to Archived per Vault Rules. FIXED: removed inline dataview markers (donors::, profile-status::) per frontmatter-only rule. FIXED: removed duplicate ---. Zero A000383 contamination. Zero (URL NEEDED) tags. Re-review for verified after Congress.gov and House leadership sources added."
+related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Team Blue PAC]] · [[Jobs, Education and Family First]] · [[Real Estate Industry]]"
 ---
-
-
 #hakeem-jeffries #house-minority-leader #new-york #brooklyn #real-estate #aipac #corporate-democrat #class-analysis
 
-related: [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]
-
-donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Real Estate Industry]]
-
-profile-status:: ready
-
----
 ---
 
 ## Who He Is
@@ -124,7 +134,6 @@ The institutional continuity is the point. Jeffries was selected because he woul
 >
 > **Wall Street $3M+ → Build Back Better gutting:** Finance sector funding → Jeffries opposes wealth tax additions. The Minority Leader's role in diluting progressive legislation traces directly to who funds his leadership PAC.
 
-
 ## Rhetorical Signature Moves
 
 1. **The alphabetical affirmations:** Jeffries regularly deploys alliterative alphabetical speeches ("A is for Accountability, B is for Build Back Better...") — a distinctive rhetorical style that reads as inspiring to supporters and evasive to critics, since the poetic form avoids substantive commitment.
@@ -136,14 +145,23 @@ The institutional continuity is the point. Jeffries was selected because he woul
 
 ## Sources
 
+### Verified
 - [FEC Candidate: Hakeem Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
-- [FEC Candidate: Jeffries industry donors 2022 cycle](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
-- [OpenSecrets: Democratic leadership profile — Hakeem Jeffries](https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries) (Tier 1)
+- [FEC: Jeffries for Congress committee (C00481488)](https://www.fec.gov/data/committee/C00481488/) (Tier 1)
 - [Sludge: Jeffries misleads on AIPAC PAC money](https://readsludge.com/2025/11/25/jeffries-misleads-on-aipac-pac-money/) (Tier 2)
 - [Sludge: House Democrats' anti-progressive PAC funded by corporate lobbyists](https://readsludge.com/2022/02/01/house-democrats-new-anti-progressive-pac-is-funded-by-corporate-lobbyists-and-pacs/) (Tier 2)
 - [The Real Deal: Jeffries on real estate and gentrification](https://therealdeal.com/magazine/national-july-2020/the-closing-hakeem-jeffries/) (Tier 2)
 - [Britannica: Hakeem Jeffries biography](https://www.britannica.com/biography/Hakeem-Jeffries) (Tier 3)
 - [Ballotpedia: Hakeem Jeffries](https://ballotpedia.org/Hakeem_Jeffries) (Tier 3)
+
+### Needed (blocking verified promotion)
+- Congress.gov member profile: `https://www.congress.gov/member/hakeem-jeffries/J000294` (needs verification per David)
+- House.gov Minority Leader official page
+- House Democratic Caucus leadership page
+- Direct FEC IE filings for AIPAC coordinated spending on Jeffries
+
+### Archived
+- ~~[OpenSecrets: Democratic leadership profile — Hakeem Jeffries](https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — industry breakdown data referenced in Donor Class Map body; needs FEC cross-check)
 
 ---
 
@@ -221,7 +239,6 @@ The transition is the most visible evidence that Democratic leadership is a dono
 
 --- (Tier 3)
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

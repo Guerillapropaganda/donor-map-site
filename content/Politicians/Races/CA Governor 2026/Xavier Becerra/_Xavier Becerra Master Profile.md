@@ -17,11 +17,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]] · [[SEIU - Service Employees International Union]]"
 ---
-
 #xavier-becerra #california #governor-2026 #hhs #attorney-general #pharmaceutical #healthcare-industry #class-analysis
-
-related: [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]] · [[SEIU - Service Employees International Union]]
 
 donors: California State Council of Laborers
 

@@ -15,12 +15,10 @@ corroboration-count: 3
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
 #christie #independent #former-governor #new-jersey #bridgegate #anti-trump #kushner-vendetta #2024-candidate #class-analysis
 tags: #independent
-
-related: [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · Never-Trump Republican Donors · Charles Kushner · New Jersey Corporate Establishment
 
 donors: Wall Street / Finance Sector · New Jersey Corporate Establishment · Anti-Trump Republican Donor Network · [[Real Estate Industry]]
 
@@ -112,7 +110,6 @@ His withdrawal in January 2024 was unremarkable — another failed presidential 
 - [Washington Examiner: Kushner Prosecution and Christie Vendetta Analysis](https://www.washingtonexaminer.com/opinion/1174099/byron-york-the-sordid-case-behind-jared-kushners-grudge-against-chris-christie) (Tier 2)
 - [In These Times: Christie and Pension Fund Politics](https://inthesetimes.com/article/two-ways-chris-christie-screwed-over-pensioners-for-donors) (Tier 3)
 
-profile-status:: ready
 c
 
 ### Committee Assignments (Congress.gov)

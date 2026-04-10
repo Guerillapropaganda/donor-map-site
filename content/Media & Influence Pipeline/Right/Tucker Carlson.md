@@ -2,26 +2,18 @@
 title: Tucker Carlson
 type: media-profile
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: >-
-  [[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim
-  Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[Matt Walsh]] ·
-  [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick
-  Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Greg
-  Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael
-  Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] ·
-  [[Candace Owens]]
+related: "[[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 stories: >-
   [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political
   Media]]
 ---
 
 #media-pipeline #right #fox-news #replacement-theory #dark-money #russia #independence-theater
-
 
 ---
 
@@ -205,4 +197,3 @@ The Putin interview represents the endpoint of this logic: Carlson's "anti-estab
 - [Nasdaq: Tucker Carlson Introduces ALP, A Revolutionary New Nicotine Pouch Company](https://www.nasdaq.com/press-release/tucker-carlson-introduces-alp-revolutionary-new-nicotine-pouch-company-2024-11-14) (Tier 3)
 - [NBC News: Far-right laments Tucker Carlson's ouster](https://www.nbcnews.com/tech/internet/far-right-laments-tucker-carlsons-ouster-rcna81595) (Tier 2)
 
-content-readiness:: ready

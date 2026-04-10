@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Education - Donors and Backers]]"
+related: "[[Education - Donors and Backers]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donald-trump #education #devos #mcmahon #vouchers #department-of-education #for-profit-colleges #title-ix #student-loans #pell-grants #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]]
-
 donors: [[DeVos Family]], [[American Federation for Children]]
-
-content-readiness:: ready
 
 ---
 
@@ -124,4 +118,3 @@ April 2025. USDA froze school meal funding to Maine for having a permissive tran
 - [Higher Ed Dive. Betsy DeVos Formally Revokes Gainful Employment Rule (June 2019)](https://www.highereddive.com/news/betsy-devos-formally-revokes-gainful-employment-rule/557949/) (Tier 2)
 - [The White House. Executive Order 14201. Keeping Men Out of Women's Sports (February 5, 2025)](https://www.whitehouse.gov/presidential-actions/2025/02/keeping-men-out-of-womens-sports/) (Tier 1)
 
-research-status:: DeVos confirmation and financial holdings from CAP and NPR. McMahon actions from Inside Higher Ed and EdWeek. Budget cuts from EdWeek and NPR. For profit college deregulation from Higher Ed Dive. Title IX from White House executive orders. DeVos family donation history from NBC. Pell Grant and TRIO data from NASFAA. School meal retaliation from USDA reporting.

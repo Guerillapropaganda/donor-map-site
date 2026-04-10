@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Gretchen Whitmer Master Profile]]
+related: "[[_Gretchen Whitmer Master Profile]] · [[The 2028 Positioning and the Donor-Class Audition]]"
 ---
-
 #gretchen-whitmer #michigan #auto-industry #ev-subsidies #corporate-welfare #ford #gm #soar-fund #class-analysis
 
-related: [[_Gretchen Whitmer Master Profile]] · [[The 2028 Positioning and the Donor-Class Audition]]
-
 donors: [[Ford Motor Company]] · [[General Motors]] · Stellantis
-
-content-readiness:: ready
 
 ---
 

@@ -23,12 +23,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Chuck Schumer Master Profile|Chuck Schumer]]"
 ---
-
-
 #joseph-morelle #democrat #new-york #house #house-administration #voting-rights #election-security #albany-machine #assembly-leader #rochester #class-analysis #follow-the-money
-
-related: [[_Chuck Schumer Master Profile|Chuck Schumer]]
 
 donors: [[Labor Unions]] · Corporate PACs · Democratic Leadership PACs
 

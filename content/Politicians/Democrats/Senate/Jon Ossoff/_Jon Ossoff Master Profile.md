@@ -19,19 +19,7 @@ website: "https://www.ossoff.senate.gov"
 phone: "202-224-3521"
 total-received: "$31,605,071"
 fec-candidate-id: "S8GA00180"
-doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
 source-types:
   - FEC
   - GovTrack
@@ -39,12 +27,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]]"
 ---
-
-
 #jon-ossoff #senate #georgia #documentary-filmmaker #tech-donors #entertainment #young-democrat #centrist #class-analysis
-
-related: [[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]]
 
 donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Hollywood Donors]]
 

@@ -96,12 +96,9 @@ subawards-received: 2
 subawards-received-amount: 4556712
 top-federal-agency: "Department of the Interior"
 top-naics-code: "561210"
+related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]]"
 ---
-
-
 #donor #aramark #carceral-state #prison-food #commissary #national #follow-the-money #class-analysis #food-services #private-sector
-
-related: [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]]
 
 ---
 
@@ -164,7 +161,6 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 **Incarcerated people and families** — the people actually eating the food and paying commissary markups. Represented in litigation by legal aid organizations, ACLU affiliates, and pro bono attorneys.
 
 ---
-
 
 ### Sources
 

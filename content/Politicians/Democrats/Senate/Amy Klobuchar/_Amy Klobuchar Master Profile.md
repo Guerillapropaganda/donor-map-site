@@ -2,7 +2,7 @@
 title: "Amy Klobuchar"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -25,26 +25,11 @@ top-donors:
   - "Meta - Facebook"
 total-received: "$2,401,862"
 fec-candidate-id: "S6MN00267"
-donors: "[[Jewish Democratic Council of America]]"
-related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
-doj-press-mentions: "264413"
+donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]]"
+related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
 ---
-
 #amy-klobuchar #democrat #minnesota #senate #antitrust #judiciary #agriculture #tech #genuine-win-structural-limit #two-audience-problem #revolving-door
-
-related: [[_Chuck Grassley Master Profile|Grassley]] [[_Chuck Schumer Master Profile|Schumer]] [[Google - Alphabet]] [[Amazon]] [[Meta - Facebook]] [[Apple]] [[Microsoft]] [[Goldman Sachs]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]
 
 donors: [[Google - Alphabet]] [[Amazon]] [[Goldman Sachs]] [[Apple]] [[Meta - Facebook]]
 
@@ -161,9 +146,6 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 �
 - [LegiStorm: Klobuchar revolving door tracker](https://www.legistorm.com/pro/revolving_door_details/member_id/815/name/Amy_Klobuchar.html) (Tier 3)
 - [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
-
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
@@ -196,21 +178,4 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264413 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
-
-**Recent press releases:**
-
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
-- ... and 264,407 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Amy%20Klobuchar%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

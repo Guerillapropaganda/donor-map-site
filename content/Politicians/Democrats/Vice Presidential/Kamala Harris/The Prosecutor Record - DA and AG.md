@@ -2,16 +2,13 @@
 title: "The Prosecutor Record - DA and AG"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: [[_Kamala Harris Master Profile]]
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[The Billion-Dollar Campaign - 2024 Finance]]"
 ---
-
-
 #harris #prosecutor #attorney-general #district-attorney #class-analysis #follow-the-money #onewest #mnuchin #mortgage #death-penalty #wrongful-conviction
 
-related: [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]]
 donors: [[Michael Bloomberg]] · [[Haim Saban]]
 
 ---
@@ -198,4 +195,3 @@ Harris's prosecutorial career shows a consistent structural bias:
 ### Truancy:
 - [The Marshall Project: Prosecutor record comprehensive overview](https://theappeal.org/?s=The%20Prosecutor%20Record%20-%20DA%20and%20AG) (Tier 2)
 
-content-readiness:: ready

@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Janet Mills Master Profile]]
+related: "[[_Janet Mills Master Profile|Janet Mills]]"
 ---
-
 #politician #janet-mills #opioid-litigation #pharmaceutical-industry #maine-ag
 
 tags: #democrat
-
-related:: [[_Janet Mills Master Profile|Janet Mills]] Pharmaceutical Industry and Campaign Finance Maine Opioid Settlements
 
 donors:: Pharmaceutical Industry PACs [[Democratic Senatorial Campaign Committee]]
 
@@ -53,5 +51,3 @@ The opioid settlements represent the standard Democratic accountability model: e
 
 ---
 
-content-readiness:: ready
-research-status:: active

@@ -2,7 +2,7 @@
 title: "Trump Organization"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,7 +12,7 @@ politicians-funded:
   - "Jared Kushner"
 issues:
   - "Housing"
-related: "[[Housing - Donors and Backers]]"
+related: "[[Housing - Donors and Backers]] · [[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Kushner]] · [[Trump Donor Coalition]] · [[Trump Media & Technology Group]]"
 sec-filings: 1884
 sec-form-types:
   - "10-K"
@@ -49,10 +49,7 @@ sec-form-types:
   - "SCHEDULE 13D"
   - "SCHEDULE 13D/A"
 ---
-
 #trump #organization #real-estate #branding #conflicts-of-interest #emoluments
-
-related: [[_Donald Trump Master Profile|Trump]] [[_Jared Kushner Master Profile|Kushner]] [[Trump Donor Coalition]]
 
 ---
 
@@ -72,8 +69,6 @@ The Trump Organization's political operation is inseparable from Trump's persona
 - [OpenSecrets: Trump Organization political spending](https://www.opensecrets.org/orgs/trump-organization/summary?id=D000030559) (Tier 1)
 - [SEC: Trump-related entity filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Trump%20Organization&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Trump Organization](https://ballotpedia.org/Trump_Organization) (Tier 3)
-
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

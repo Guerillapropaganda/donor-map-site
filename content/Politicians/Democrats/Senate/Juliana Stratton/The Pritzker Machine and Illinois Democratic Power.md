@@ -5,13 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
+related: "[[Juliana Stratton]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Dick Durbin]]"
 ---
-
 #pritzker #illinois-machine #billionaire-politics #campaign-finance #2026-senate
 
 tags: #democrat
 
-related:: [[Juliana Stratton]] [[_JB Pritzker Master Profile|JB Pritzker]] [[Illinois Future PAC]] [[Dick Durbin]] Illinois Democratic Party
 donors:: [[_JB Pritzker Master Profile|JB Pritzker]] Jennifer Pritzker [[Illinois Future PAC]] Quentin Fulks
 
 ### What Is the Pritzker Machine?
@@ -116,4 +115,3 @@ The irony: Stratton attacked crypto money and industry special interests while a
 ### Tier 3: Aggregators
 - [United States Senate election in Illinois, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Illinois,_2026) (Ballotpedia) (Tier 3)
 
-content-readiness:: ready

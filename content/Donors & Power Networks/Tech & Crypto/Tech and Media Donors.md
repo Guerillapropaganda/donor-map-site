@@ -2,7 +2,7 @@
 title: "Tech and Media Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,12 +12,9 @@ issues:
   - "Antitrust & Monopoly"
 lobbying-spend: 9122856
 lobbying-filings: 133
-related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]] · [[The $170 Million Georgia Machine and the National Donor Base]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]]"
+related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]] · [[The $170 Million Georgia Machine and the National Donor Base]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[News Corp - Fox Corporation]] · [[Tech IP and Patent Lobbying]]"
 ---
-
 #tech #media #donors #section-230 #antitrust #streaming #ip #copyright
-
-related: [[Silicon Valley Donors]] [[Jeffrey Katzenberg]] [[Reid Hoffman]] [[News Corp - Fox Corporation]]
 
 ---
 
@@ -36,8 +33,6 @@ The tech-media convergence creates shared political priorities: Section 230 prot
 
 - [OpenSecrets: Tech and entertainment industry contributions](https://www.opensecrets.org/industries/) (Tier 1)
 - [Ballotpedia: Tech and media political spending](https://ballotpedia.org/Tech_and_Media_Donors) (Tier 3)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

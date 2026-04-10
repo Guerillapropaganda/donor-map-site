@@ -11,11 +11,9 @@ state: "New York"
 state-abbr: "NY"
 issues:
   - "Housing"
+related: "[[Real Estate Donors]] · [[Michael Bloomberg]]"
 ---
-
 #politician #democrat #moderate #new-york #governor #real-estate #sexual-harassment #nursing-home #class-analysis #follow-the-money
-
-related: [[Real Estate Donors]] · [[Michael Bloomberg]]
 
 ---
 
@@ -123,5 +121,3 @@ Cuomo uses "executive competence" framing — the experienced manager who "gets 
 
 ---
 
-profile-status:: draft
-content-readiness:: draft

@@ -2,7 +2,7 @@
 title: "Freedom Partners Chamber of Commerce"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -20,7 +20,7 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 lobbying-spend: 2076000
 lobbying-filings: 84
-related: "[[ALEC - American Legislative Exchange Council]]"
+related: "[[ALEC - American Legislative Exchange Council]] · [[Donors Capital Fund]] · [[State Policy Network]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch Industries]] · [[DeVos Family]]"
 source-types:
   - Courts
   - LDA
@@ -29,10 +29,7 @@ known-gaps:
   - "No FEC contribution data"
 total-political-spend: "$807,270"
 ---
-
 #donor #dark-money #koch-network #501c6 #conservative #class-analysis #follow-the-money
-
-related: [[Donors Capital Fund]] · [[State Policy Network]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch Industries]]
 
 ---
 

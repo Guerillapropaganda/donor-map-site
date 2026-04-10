@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Kamala Harris Master Profile]]
-related: "[[The Biden Exit and Harris Installation]]"
+related: "[[The Biden Exit and Harris Installation]] · [[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]]"
 ---
-
-
 #harris #2024 #campaign-finance #class-analysis #follow-the-money #donor-class #bundlers #super-pac #dark-money #tech #hollywood #wall-street
 
-related: [[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]]
 donors: [[Michael Bloomberg]] · [[Haim Saban]] · [[Koch Network - Charles Koch]] · [[Crypto Industry Bloc]] · [[AIPAC - American Israel Public Affairs Committee]]
 
 ---
@@ -194,9 +191,6 @@ The 2024 campaign is the vault's definitive case study: the donor class spent re
 ### Comparison:
 - [OpenSecrets: 2024 Presidential Race Overview](https://www.opensecrets.org/2024-presidential-race/) (Tier 1)
 - [FEC: Campaign finance data](https://www.fec.gov/data/) (Tier 1)
-
-research-status:: ready — Full citation pass complete. $2.3B total raised, Future Forward $517M (largest super PAC ever), $136M dark money layer, Soros $60M, Bloomberg $50M, Gates $50M, Moskovitz $15M, Hoffman $16.6M, first nominee to not disclose bundlers, Harris vs Trump money race comparison, $6.5M donor list DNC purchase, class analysis. 21 sources Tier 1-2 with URLs. All ### headers. Promoted Session 38n.
-content-readiness:: ready
 
 ---
 

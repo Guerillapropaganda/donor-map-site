@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Chris Wright Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chris Wright Master Profile]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #chris-wright #koch-network #climate-denial #energy-sobriety #afp #class-analysis #follow-the-money
 
-related: [[_Chris Wright Master Profile]] · [[Koch Network - Charles Koch]]
 donors: [[Koch Network - Charles Koch]]
 
 content-readiness:: ready

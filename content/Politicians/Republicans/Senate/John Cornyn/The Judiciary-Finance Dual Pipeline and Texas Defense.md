@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_John Cornyn Master Profile]] · [[_Ted Cruz Master Profile|Cruz]] · [[ExxonMobil]] · [[Lockheed Martin]]"
 ---
-
 #cornyn #texas #judiciary #finance #defense #energy #border #bipartisan
-
-related: [[_John Cornyn Master Profile]] [[_Ted Cruz Master Profile|Cruz]] [[ExxonMobil]] [[Lockheed Martin]]
 
 donors: [[ExxonMobil]] [[Lockheed Martin]] [[Koch Industries]] [[Goldman Sachs]]
 

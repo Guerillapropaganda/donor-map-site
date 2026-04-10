@@ -32,12 +32,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]]"
 ---
-
 #democrat #politician #house
 tags: #democrat
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[Think Big AI PAC]] [[Elect Chicago Women PAC]]
 
 donors: [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · Protect Progress - Crypto PAC · New Democrat Majority
 

@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-10
+last-updated: 2026-04-09
 ---
 
 # Session State
@@ -11,6 +11,203 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Research
+Date: 2026-04-09 (full day: queue resolution + readiness promotions + 12 stubs + data quality sweeps + rules codification + Apr 10-30 sprint plan)
+
+### Part 6: Apr 10-30 Sprint Plan Written
+
+Plan file at `C:\Users\third\.claude\plans\cheeky-knitting-fox.md`. **22-day sprint** with 4 targets (in priority order):
+1. **Depth:** ≥ 40 verified profiles by Apr 30 (from 3 today)
+2. **Breadth:** ≥ 100 draft → ready promotions (from 288 to ≤ 188)
+3. **Systems:** All Code Claude pipeline bugs cleared + 528 conflicts triaged + Ops rule codified
+4. **Polish:** Public launch Apr 30 with mobile polish, interactive pages, feedback/correction systems
+
+Three-phase structure:
+- **Phase 1 (Apr 10-16):** Fix the plumbing. Pipeline bugs first. Target 12 verified, 175 conflicts resolved.
+- **Phase 2 (Apr 17-23):** Depth acceleration. Mobile polish. Target 32 verified, 75 promotions.
+- **Phase 3 (Apr 24-30):** Launch prep. Legal review. Soft launch Apr 27. Public Apr 30. Target 40 verified, 100 promotions, 0 conflicts.
+
+Budget: 215 hours across 22 days at ~10 hours/day baseline. Daily template batches Research Claude / Code Claude / David-only work to minimize context switching. Hard 8:30pm stop most days, Sunday half-day off, max 3 crunch days (14 hours).
+
+**Key discipline built into plan:** verified (A+) tier is protected — Research Claude flags candidates, only David's sign-off makes a profile truly verified. This is risk mitigation against Research-Claude-self-grading tier inflation (the issue that produced the old "ready" bloat).
+
+**April 30 review process:** measure actuals, snapshot vault, write retrospective, delete this plan file, write a fresh May plan from what actually happened. Short horizons, honest resets.
+
+### Part 5: Stream Deck Prompts Merged with Session Protocol
+
+Both Research Claude and Code Claude Stream Deck prompts updated with:
+- Session protocol (/preflight at start, /session-save at end on trigger words)
+- Reference to plan file at C:\Users\third\.claude\plans\
+- Corrected readiness tiers: raw → draft → ready → verified (was wrongly listed as raw→draft→developed→verified→ready)
+- Frontmatter-only rule for structured fields (new rule, codified today)
+- URL editor-only rule (new rule, codified today)
+- Research Claude: explicit "flag verified candidates, only David signs off" protection
+
+### Part 4: Red Flag Sweep (vault-wide data quality cleanup)
+
+5 data quality sweeps run across entire vault in Research Claude's lane:
+
+1. **NUL byte corruption** — 54 files had NUL bytes (41 profiles with 1 NUL each, 13 Contradiction Deep Dive stories with 19 NULs each). All cleaned. Pattern: all NULs followed `content-readiness:: ready\n` — root cause is a script writing that line with NUL padding. **Flagged for Code Claude: find and fix the script.**
+
+2. **Inline dataview marker cleanup** — 1,448 files had legacy dataview inline markers (`content-readiness::`, `profile-status::`, `research-status::`) in body. Found **535 state conflicts** where inline said one thing and frontmatter said another. Cleaned 879 non-conflicting files (1,196 lines removed). **528 conflicts written to `content/Admin Notes/readiness-conflicts.md`** for David's manual triage (batch 25-30/day).
+
+3. **Double `---` after frontmatter** — 0 hits after the inline marker cleanup (earlier manual fixes + sweep collapsed triple newlines). Clean.
+
+4. **Dual `related` fields** — 632 files had `related` in BOTH frontmatter and body. **Sample check revealed ZERO overlap** — frontmatter and body versions contained completely different wikilink sets. **Merged 1,193 files** (632 dual + 561 body-only) into frontmatter with union, dedup, and alias preservation. Body lines removed. Half the relationship graph was hidden in body dataview fields before this merge.
+
+5. **Non-standard callouts** — only 3 vault-wide. Fixed `[!class-analysis]` → `[!money]`, `[!pattern]` → `[!note]`, `[!donor-first]` → `[!money]`.
+
+### Part 3.5: Rules Codification (Data Integrity Protection)
+
+Two new vault-wide rules adopted and codified in 4 locations:
+
+**Rule 1: URL fixing is Editor-only (David)**
+- Neither Research nor Code Claude fixes, hunts, replaces, or verifies URLs
+- Reason: automated URL hunting risks citing wrong entities (wrong FEC IDs, dead aggregators, title/URL mismatches)
+- Locations: `CLAUDE.md`, `content/Vault Rules.md`, auto-memory (`feedback_url_fixing_editor_only.md`), Session State
+
+**Rule 2: Frontmatter is the ONLY source of truth for structured fields**
+- All structured data (content-readiness, related, donors, opposes, source-tier, etc.) goes in YAML frontmatter
+- Never in body dataview inline fields (`field:: value`)
+- Reason: the dual-source drift discovered 2026-04-09 — 535 readiness conflicts + 632 disjoint `related` fields = data loss
+- When reviewing a profile, merge any body inline field into frontmatter and delete the body line
+- Exception: fenced ` ```dataview ` query blocks are fine
+- Locations: `CLAUDE.md`, `content/Vault Rules.md`, auto-memory (`feedback_frontmatter_only_structured_fields.md`), Session State
+
+**Still pending for Code Claude (Phase 1 Must-Do):**
+- Write `ops/CLAUDE.md` and `ops/RULES.md` documenting both rules (Research Claude task per plan)
+- Add rule comments to ops profile editor source (Code Claude task per plan)
+
+### Part 3: 12 Profile Stubs Built (preserve vault connections)
+
+### Part 3: 12 Profile Stubs Built (preserve vault connections)
+
+After the readiness pass revealed 3 missing profiles (Summer Lee, Nina Turner, George Latimer), a full sweep identified 11 more missing profiles that are heavily cross-referenced in the vault but have no master file. All 12 stubs built at `content-readiness: raw` to preserve wikilink integrity and document what's already known from vault cross-references.
+
+**Politician stubs (5):**
+- **Summer Lee** (`content/Politicians/Democrats/House/Summer Lee/`) — Built with full body content (vault-sourced): PA-12, first Black congresswoman from PA, AIPAC survivor (2022 and 2024). The counterexample to Bowman/Bush in the Donor-Class Override pattern. This one has a central thesis and class analysis; others are slimmer.
+- **Nina Turner** (`content/Politicians/Democrats/House/Nina Turner/`) — Former OH state senator, Sanders 2020 co-chair, lost OH-11 to Shontel Brown twice (2021, 2022). DMFI's earliest high-profile target.
+- **George Latimer** (`content/Politicians/Democrats/House/George Latimer/`) — NY-16 Democrat, Bowman's replacement, beneficiary of $14.9M UDP spending.
+- **Wesley Bell** (`content/Politicians/Democrats/House/Wesley Bell/`) — MO-01 Democrat, Bush's replacement, former St. Louis County Prosecuting Attorney.
+- **Shontel Brown** (`content/Politicians/Democrats/House/Shontel Brown/`) — OH-11 Democrat, defeated Turner twice. Established the DMFI primary-enforcement precedent.
+
+**Donor stubs (6):**
+- **Bernie Marcus** (`content/Donors & Power Networks/Mega-Donors/Bernie Marcus.md`) — Home Depot co-founder, $2M to UDP, ~$7M to Trump, died Nov 2024.
+- **Mark Mellman** (`content/Donors & Power Networks/Israel Lobby/Mark Mellman.md`) — DMFI founder (Jan 2019), Democratic pollster, architect of the primary enforcement model.
+- **Brian Armstrong** (`content/Donors & Power Networks/Tech & Crypto/Brian Armstrong.md`) — Coinbase CEO, $131.5M cumulative Coinbase + $1M personal to Fairshake.
+- **Ben Horowitz** (`content/Donors & Power Networks/Tech & Crypto/Ben Horowitz.md`) — a16z co-founder, $9.5M personal to Fairshake 2023, $2.5M to Right For America 2024. Standalone profile to complement existing `[[Marc Andreessen & Horowitz]]` combined entry.
+- **Chris Larsen** (`content/Donors & Power Networks/Tech & Crypto/Chris Larsen.md`) — Ripple co-founder, $10M XRP to Harris via Future Forward. The crypto industry's Democratic outlier.
+- **Brad Garlinghouse** (`content/Donors & Power Networks/Tech & Crypto/Brad Garlinghouse.md`) — Ripple CEO, GENIUS Act drafting input, Mar-a-Lago meetings, SEC settlement operator.
+
+**Trump appointee stub (1):**
+- **Paul Atkins** (`content/Politicians/Republicans/Trump Cabinet/Paul Atkins/`) — SEC Chair (April 2025–), central node of 2025 SEC enforcement collapse. The regulatory end of the crypto industry's $195M 2024 political investment.
+
+**Profiles found to already exist (during sweep — no stub needed):**
+- Paul Singer (Mega-Donors folder)
+- Haim Saban (Israel Lobby folder)
+- Jan Koum (Mega-Donors folder)
+- Jeff Yass (two profiles — Donors root + Mega-Donors folder; potential duplicate to consolidate)
+- David Sacks (Trump Cabinet folder + Mega-Donors operation file; potential duplicate)
+- Marc Andreessen (Tech & Crypto folder, combined with Horowitz + standalone)
+- Winklevoss Twins (Mega-Donors folder)
+- Ilhan Omar (Democrats/House)
+- Rashida Tlaib (Democrats/House)
+
+### Part 2: Readiness Review Round 2 (4 profiles)
+
+- **Cori Bush** — promoted `ready` → `verified` (A+). Editorial sign-off given, cleared editorial-result from `block` to `pass`. Added issues, expanded related links, structured donors/opposes as YAML lists. Flagged pipeline bugs: Committee Assignments uses wrong bioguide A000383 (same as Ramaswamy), GovTrack 0 bills discrepancy.
+- **AOC master profile** — promoted `draft` → `ready`. **Fixed NUL byte corruption** (1 NUL at byte 25362). Duplicate `---` removed, inline status markers removed, Sources split Verified/Archived, 4 duplicate FEC URLs consolidated, 5 URL NEEDED items moved to dedicated blocking section. Cannot promote to verified due to URL NEEDED tags.
+- **Katie Porter** — promoted `draft` → `ready`. **Fixed chamber field** (`Governor` → `Candidate` + running-for). Added fec-candidate-id, bioguide-id, issues, opposes/donors structured, 7 URL NEEDED sources flagged as verified-blocking.
+- **Saikat Chakrabarti** — promoted `draft` → `verified` (A+). 3 Tier 1 source types (FEC, House Financial Disclosure, ProPublica 990). Editorial sign-off given. Chamber corrected to `Candidate` + running-for, checklist-na for voting/committees (never held office).
+
+### Part 1: Investigation Queue Resolution (7 profiles)
+
+All 7 investigation queue items **RESOLVED** in `content/Admin Notes/investigate-queue.md`. Queue status: done.
+- **Vivek Ramaswamy** (+ Roivant sub-note) — promoted `draft` → `ready`. Sources restructured, QVT Financial relationship formalized.
+- **Jamaal Bowman** — promoted `draft` → `verified` (A+).
+- **United Democracy Project (UDP)** — stays `ready`; 12 headings fixed, sources split, politicians-funded/opposed corrected.
+- **FAIRSHAKE** — promoted `draft` → `ready`. Massive profile (70+ sources, many UNVERIFIED needing browser check).
+- **DMFI PAC** — stays `ready`. **Fixed type error** (donor/Individual Donor → pac/PAC). Politicians-funded rewritten (had Sanders/Bowman/Netanyahu listed as funded — all opposed).
+- **Justice Democrats** (sub-note) — promoted `raw` → `ready`. **Fixed broken FEC URLs** that had `*(source unavailable)*` text inserted mid-URL.
+- **Courage to Change** (sub-note) — promoted `raw` → `ready`. Fixed malformed `[!contradiction]` callouts.
+
+### Flags for Code Claude:
+- **Ramaswamy/Bush Congress.gov auto-block has wrong bioguide ID (A000383, shows Oklahoma).** Pipeline bug — same wrong ID applied across multiple profiles. Needs pipeline fix to handle candidate-only profiles AND correctly look up bioguide IDs.
+- **QVT Financial pipeline false positives**: DOJ (264,349 generic mentions), NHTSA (vehicle data for hedge fund), SAM.gov (7,670 contracts wrong entity match). Pipeline matching is overly loose.
+- **FAIRSHAKE 70+ UNVERIFIED URLs** need browser verification pass before `verified` promotion.
+- **GovTrack pipeline query gap**: Multiple profiles (Bush, Porter) show 0 bills sponsored/cosponsored when Congress.gov data confirms real counts. Different GovTrack query.
+- **12 new stub profiles** (content-readiness: raw) need pipeline enrichment runs to populate FEC, Congress.gov, GovTrack auto-blocks where applicable.
+- **Potential duplicate profiles** found during sweep: Jeff Yass (2 files), David Sacks (2 files), Marc Andreessen (2 files). Consolidation needed.
+
+### Known issues (carried from prior session):
+- Only Nancy Pelosi has say-vs-pay data — ContradictionCard shows on 1 profile. Research Claude needs template to add across top profiles.
+- Mobile layout not yet polished for new Signal Bar, ContradictionCard, ProfileHeader elements.
+- Interactive pages (Power Rankings, Issue Explorer, etc) still have some faint contrast issues.
+
+### Next session priorities (Phase 1 of Apr 10-30 sprint — see plan file):
+
+**Code Claude — Phase 1 Must-Do (pipeline foundation):**
+1. Fix A000383 bioguide pipeline bug (Ramaswamy shows Oklahoma, pollutes Bush and others)
+2. Fix GovTrack query gap (0 bills when Congress.gov confirms real counts)
+3. Fix QVT Financial false positives (DOJ/NHTSA/SAM.gov loose matching)
+4. Fix pipeline enriching redirect files (`Jeff Yass.md` LDA block bleeding through)
+5. Root-cause the `content-readiness:: ready\n\0` NUL-padding script
+6. Add rule comments to ops profile editor source (per frontmatter-only + URL editor-only rules)
+7. Run pipeline enrichment on the 12 new stubs built today (Summer Lee, Nina Turner, George Latimer, Wesley Bell, Shontel Brown, Bernie Marcus, Mark Mellman, Brian Armstrong, Ben Horowitz, Chris Larsen, Brad Garlinghouse, Paul Atkins)
+
+**Research Claude — Phase 1 Must-Do (depth + docs):**
+1. Write `ops/CLAUDE.md` and `ops/RULES.md` (frontmatter-only rule + URL editor-only rule)
+2. Begin depth work on Squad/leadership verified candidates (Tlaib, Omar, Pressley, Casar, Jeffries, AOC)
+3. Flag verified candidates for David's sign-off — do NOT self-promote to verified
+4. Build out Summer Lee stub from raw → draft → ready first (already has substantive body content)
+
+**David — Phase 1 Must-Do (backlog + setup):**
+1. Start batch conflict triage at `content/Admin Notes/readiness-conflicts.md` (target 25/day × 7 days = 175 resolved)
+2. First URL verification pass (AOC 5 URL NEEDED, Porter 7 URL NEEDED, Fairshake top priorities)
+3. Sign off on verified candidates Research Claude flags
+4. Review the plan file at `C:\Users\third\.claude\plans\cheeky-knitting-fox.md` once more before Phase 1 execution begins
+
+**Phase 1 exit checkpoint (Apr 16):** 0 pipeline bugs, ≥ 12 verified profiles total, ≥ 175 conflicts resolved, ~25 draft→ready promotions, ops rule files written.
+
+---
+
+## Previous Session: 2026-04-09 Research (Parts 1-3 earlier in the day)
+Claude: Research
+Date: 2026-04-09 (readiness review pass on 7 investigation queue profiles + queue resolution)
+
+Done:
+- **Investigation Queue fully resolved** — all 7 items marked RESOLVED in `content/Admin Notes/investigate-queue.md`. Queue status: done.
+- **Vivek Ramaswamy** — promoted `draft` → `ready`. Fixed sources (Verified/Archived split, OpenSecrets archived, FEC candidate URL), removed inline status duplicates, expanded issues, fixed Roivant sub-note (10 headings h3→h2, added Verified/Archived split). QVT Financial relationship formalized.
+- **Jamaal Bowman** — promoted `draft` → `verified` (A+ with editorial sign-off). 3 Tier 1 source types (FEC, Congress.gov, GovTrack), exhaustive class analysis, 7 headings h3→h2, Sources split, DMFI added to opposes.
+- **United Democracy Project (UDP)** — stays `ready` (only 1 Tier 1: FEC). 12 headings h3→h2, Sources split (3 OpenSecrets archived), politicians-funded/opposed corrected, fec-committee-id added.
+- **FAIRSHAKE** — promoted `draft` → `ready`. Massive profile (70+ sources). 16 headings h3→h2, politicians-funded cleaned (Porter was opposed), fec-committee-id added. 70+ UNVERIFIED URLs need browser verification by Code Claude for `verified` promotion.
+- **DMFI PAC** — stays `ready`. **Fixed type error** (was `donor/Individual Donor` → `pac/PAC`). Rewrote politicians-funded (had Sanders/Bowman/Netanyahu listed as funded — all opposed). 11 headings h3→h2, Sources split Verified/Archived with 3 OpenSecrets archived + ProPublica 990 added as Tier 1.
+- **Justice Democrats (sub-note)** — promoted `raw` → `ready`. **Fixed broken FEC URLs** that had `*(source unavailable)*` text inserted mid-URL. 9 headings h3→h2, Sources split, source-types/corroboration-count added.
+- **Courage to Change (sub-note)** — promoted `raw` → `ready`. Fixed malformed `[!contradiction]` callouts (missing `>` prefix), 7 headings h3→h2, Sources rewritten with proper markdown links, fec-committee-id added.
+
+Flags for Code Claude:
+- **Ramaswamy Congress.gov auto-block has wrong bioguide ID (A000383, shows Oklahoma).** He's never served in Congress. Pipeline needs to handle candidate-only profiles (no Congress data).
+- **QVT Financial pipeline false positives**: DOJ (264,349 generic mentions), NHTSA (vehicle data for a hedge fund), SAM.gov (7,670 contracts wrong entity match). Pipeline matching is overly loose.
+- **FAIRSHAKE 70+ UNVERIFIED URLs** need browser verification pass before promoting to `verified`.
+- **Justice Democrats PAC has no standalone master profile** in Donors & Power Networks folder — only exists as sub-note under Saikat Chakrabarti. Consider creating one.
+- **Courage to Change** has 5 URLs marked `URL NEEDED` (Reuters, CNN, Politico, City & State NY, SF Chronicle) that need hunting.
+
+Known issues (carried from prior session):
+- Only Nancy Pelosi has say-vs-pay data — ContradictionCard shows on 1 profile. Research Claude needs template to add across top profiles.
+- Mobile layout not yet polished for new Signal Bar, ContradictionCard, ProfileHeader elements.
+- Interactive pages (Power Rankings, Issue Explorer, etc) still have some faint contrast issues.
+
+Next session priorities:
+1. Continue readiness promotions — next batch of profiles (Cori Bush, Summer Lee, other Squad members frequently referenced in this pass).
+2. **Say-vs-pay data system** — build template/guide for Research Claude to add contradiction data to top 20-50 profiles.
+3. Mobile polish (Code Claude).
+4. Interactive pages contrast audit.
+5. Consider creating standalone Justice Democrats PAC master profile in Donors & Power Networks.
+6. URL hunt pass for Courage to Change and Fairshake UNVERIFIED sources.
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-10 (Pipeline quality fixes + red flag cleanup — redirect contamination, A000383 bug, GovTrack stale cache, Cori Bush demotion)
 

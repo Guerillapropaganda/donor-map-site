@@ -5,12 +5,9 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[The Revolving Door - How Government Service Becomes Industry Employment]]"
+related: "[[The Revolving Door - How Government Service Becomes Industry Employment]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[The Defense Spending Bipartisan Consensus]]"
 ---
-
 #committees #fundraising #jurisdiction #access #pay-to-play #congress #campaign-finance
-
-related: [[The Carried Interest Loophole - 30 Years of Survival]] [[The Defense Spending Bipartisan Consensus]]
 
 ---
 

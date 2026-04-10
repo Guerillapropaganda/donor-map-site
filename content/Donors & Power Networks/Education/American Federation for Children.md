@@ -2,7 +2,7 @@
 title: "American Federation for Children"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Education"
@@ -26,7 +26,7 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. California"
   - "District Court, W.D. Washington"
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]]"
 sec-filings: 9
 sec-form-types:
   - "DEF 14A"
@@ -35,11 +35,7 @@ sec-form-types:
   - "PX14A6G"
 total-political-spend: "$1,465,283"
 ---
-
-
 #donor #education #school-choice #privatization #dark-money #devos #vouchers #esa #lobbying #religious-schools #alec
-
-related: [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] [[DeVos Family]] [[Koch Network - Charles Koch]] [[Heritage Foundation]]
 
 ---
 
@@ -188,7 +184,6 @@ The American Federation for Children represents the school privatization movemen
 
 ---
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

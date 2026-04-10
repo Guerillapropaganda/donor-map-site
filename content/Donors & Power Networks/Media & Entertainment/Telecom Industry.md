@@ -21,7 +21,7 @@ court-jurisdictions:
 lobbying-spend: 9020027
 lobbying-filings: 97
 total-political-spend: "$270,182"
-related: "[[Mark Warner]]"
+related: "[[Mark Warner]] · [[AT&T - WarnerMedia]] · [[Verizon]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]]"
 lei: "549300D3EIDZJB62TR20"
 lei-jurisdiction: "QA"
 federal-register-mentions: 13
@@ -34,10 +34,7 @@ regulatory-agencies:
   - "Rural Utilities Service"
   - "Securities and Exchange Commission"
 ---
-
 #telecom #net-neutrality #spectrum #broadband #lobbying #fcc #bipartisan
-
-related: [[AT&T - WarnerMedia]] [[Verizon]] [[Comcast - NBCUniversal]] [[iHeartMedia]]
 
 ---
 
@@ -57,8 +54,6 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 - [FEC Receipts: Telecom industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [FCC: Spectrum auction records](https://www.fcc.gov/auction) (Tier 1)
 - [Ballotpedia: Telecommunications regulation](https://ballotpedia.org/Telecom_Industry) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

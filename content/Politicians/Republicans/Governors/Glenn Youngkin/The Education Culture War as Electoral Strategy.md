@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Glenn Youngkin Master Profile]]
+related: "[[_Glenn Youngkin Master Profile]] · [[The Carlyle Group and the Private Equity Governor]]"
 ---
-
 #youngkin #education #crt #critical-race-theory #school-boards #suburban-parents #culture-war #electoral-strategy #class-analysis #virginia #parental-rights
 
-related: [[_Glenn Youngkin Master Profile]] · [[The Carlyle Group and the Private Equity Governor]]
-
 donors: [[Carlyle Group|Carlyle Group (self)]]
-
-content-readiness:: ready
 
 ---
 

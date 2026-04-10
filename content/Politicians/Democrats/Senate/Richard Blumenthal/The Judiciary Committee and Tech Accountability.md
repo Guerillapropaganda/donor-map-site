@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Richard Blumenthal Master Profile]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apple]] · [[_Amy Klobuchar Master Profile|Klobuchar]]"
 ---
-
 #blumenthal #judiciary #tech #privacy #children #antitrust #connecticut
-
-related: [[_Richard Blumenthal Master Profile]] [[Google - Alphabet]] [[Meta - Facebook]] [[Apple]] [[_Amy Klobuchar Master Profile|Klobuchar]]
 
 donors: [[Google - Alphabet]] [[Meta - Facebook]] [[Microsoft]]
 

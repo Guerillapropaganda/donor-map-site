@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: "[[_Joni Ernst Master Profile]]"
+related: "[[_Joni Ernst Master Profile]] · [[_Chuck Grassley Master Profile]] · [[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]]"
 ---
-
 #ernst #iowa #veterans #agriculture #ethanol #military #armed-services #pact-act #burn-pits #cafo #crop-insurance #class-analysis
-
-related: [[_Joni Ernst Master Profile]] · [[_Chuck Grassley Master Profile]] · [[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]]
 
 donors: [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[Koch Industries]]
 
@@ -114,4 +112,3 @@ The PACT Act episode is the Donor-Class Override pattern with a twist: it wasn't
 
 ---
 
-content-readiness:: developed

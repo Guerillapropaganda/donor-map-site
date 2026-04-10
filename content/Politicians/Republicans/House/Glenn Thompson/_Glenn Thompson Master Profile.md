@@ -17,16 +17,11 @@ issues:
 total-received: "$1,227,441"
 fec-candidate-id: "H8PA05071"
 donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]]"
-related: "[[John Boozman]]"
+related: "[[John Boozman]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
 #glenn-thompson #republican #pennsylvania #house #committee-chair #agriculture #farm-bill #crop-insurance #snap #dairy #sugar #agribusiness #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -156,8 +151,6 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 - [Food and Environment Reporting Network: Glenn Thompson](https://thefern.org/ag_tag/glenn-thompson/) (Tier 2)
 - [Ballotpedia: Glenn Thompson](https://ballotpedia.org/Glenn_Thompson_(Pennsylvania)) (Tier 3)
 - [Wikipedia: Glenn Thompson](https://en.wikipedia.org/wiki/Glenn_Thompson_%28politician%29) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

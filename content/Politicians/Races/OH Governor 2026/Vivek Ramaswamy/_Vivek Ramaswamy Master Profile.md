@@ -1,7 +1,7 @@
 ---
 title: Vivek Ramaswamy Master Profile
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: '2026-04-09'
 source-tier: 1
 parent: null
@@ -12,29 +12,32 @@ state: Ohio
 state-abbr: OH
 issues:
   - Healthcare
+  - Pharmaceutical Regulation
+  - Tax Policy
+  - Government Reform
+  - Anti-ESG
 top-donors:
-  - Elon Musk
   - Jeffrey Yass
+  - Ross Stevens
   - Peter Thiel
 total-received: '$66,197,196'
 fec-candidate-id: P40011082
 source-types:
-  - Congress
   - FEC
+  - SEC
 corroboration-count: 2
 known-gaps:
-  - No voting record data
-  - No mapped relationships
+  - No state-level campaign finance data (OH governor race)
+  - Congress.gov auto-block has wrong bioguide ID (pipeline bug, needs Code Claude fix)
+checklist-na:
+  - "voting-records: Never held elected office (candidate)"
+  - "committee-assignments: Never held elected office (candidate)"
+related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]]"
 ---
-
 #vivek-ramaswamy #republican #doge #ohio #biotech #pharma #anti-woke #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] [[Elon Musk]] [[Jeffrey Yass]] [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]]
-donors: [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]]
+donors: [[Jeffrey Yass]] · [[Peter Thiel]] · Ross Stevens
 
-profile-status:: ready
-
----
 ---
 
 ## Who He Is
@@ -118,15 +121,18 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 
 ## Sources
 
-- [OpenSecrets: Ramaswamy 2024 presidential fundraising](https://www.opensecrets.org/2024-presidential-race?id=N00052397) (Tier 1)
-- [Forbes/Fortune: Ramaswamy net worth](https://fortune.com/2023/08/24/vivek-ramaswamy-gop-debate-republican-net-worth/) (Tier 2)
+### Verified
+- [FEC: Vivek Ramaswamy 2024 Presidential Campaign](https://www.fec.gov/data/candidate/P40011082/) (Tier 1)
+- [SEC EDGAR: Roivant Sciences filings and ownership structure](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=roivant&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/) (Tier 2)
-- [Signal Ohio: Jeff Yass $10M super PAC contribution](https://signalohio.org/billionaire-makes-huge-contribution-to-political-group-backing-ohio-gop-candidate-vivek-ramaswamy/) (Tier 2)
 - [Fortune: DOGE departure and Musk conflict](https://fortune.com/2025/01/21/doge-elon-musk-vivek-ramaswamy-departure-donald-trump-presidency/) (Tier 2)
+- [Signal Ohio: Jeff Yass $10M super PAC contribution](https://signalohio.org/billionaire-makes-huge-contribution-to-political-group-backing-ohio-gop-candidate-vivek-ramaswamy/) (Tier 2)
 - [Axios: Roivant DEI contradiction](https://www.axios.com/2023/06/16/vivek-ramaswamy-dei-esg-company) (Tier 2)
 - [NBC News: Ohio governor race](https://www.nbcnews.com/politics/elections/doge-ohio-vivek-ramaswamy-enters-governors-race-pushing-cuts-merit-pay-rcna188980) (Tier 2)
-- [FEC: Vivek Ramaswamy contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=ramaswamy,+vivek) (Tier 1)
-content-readiness:: ready
+- [Forbes/Fortune: Ramaswamy net worth](https://fortune.com/2023/08/24/vivek-ramaswamy-gop-debate-republican-net-worth/) (Tier 2)
+
+### Archived
+- ~~[OpenSecrets: Ramaswamy 2024 presidential fundraising](https://www.opensecrets.org/2024-presidential-race?id=N00052397)~~ (was Tier 1, OpenSecrets demoted, data preserved in FEC section above)
 
 ### Legislative Activity (Congress.gov)
 

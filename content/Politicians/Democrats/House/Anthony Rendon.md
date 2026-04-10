@@ -5,18 +5,15 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Buffy Wicks]]"
+related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Apartment Association]] · [[_Nancy Pelosi Master Profile]]"
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 source-types:
   - Congress
 ---
-
 #rendon #democrat #california #assembly-speaker #class-analysis #healthcare-donor #follow-the-money
 tags: #democrat
-
-related: [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Apartment Association]] · [[_Nancy Pelosi Master Profile]]
 
 donors: [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Apartment Association]]
 
@@ -90,5 +87,3 @@ Rendon represents the speaker's true function: procedural gatekeeping that kills
 - [VoteSmart: Anthony Rendon Campaign Finance](https://justfacts.votesmart.org/candidate/campaign-finance/138445/anthony-rendon) (Tier 1)
 - [Digital Democracy: Anthony Rendon Donor Profile](https://calmatters.digitaldemocracy.org/people/120) (Tier 1)
 
-profile-status:: ready
-content-readiness:: ready

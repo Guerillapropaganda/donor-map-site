@@ -2,7 +2,7 @@
 title: "Americans for Prosperity"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -28,15 +28,12 @@ ein: "753148958"
 annual-revenue: "$186.4M"
 net-assets: "$45.0M"
 tax-year: "2023"
-related: "[[Senate Majority PAC]] · [[Jodey Arrington]] · [[State Policy Network]]"
+related: "[[Senate Majority PAC]] · [[Jodey Arrington]] · [[State Policy Network]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Koch - Koch Industries|Koch Industries]] · [[Stand Together]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Richard and Elizabeth Uihlein]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[National Republican Senatorial Committee]]"
 nonprofit-status: "501(c)(4)"
 total-revenue: 224037344
 total-assets: 60720666
 ---
-
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money
-
-related: [[Koch Network - Charles Koch|Charles Koch]] · [[Koch - Koch Industries|Koch Industries]] · [[Stand Together]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Richard and Elizabeth Uihlein]] · [[Donor Registry - Master Index]] · [[Master Donor Database]]
 
 ---
 
@@ -175,8 +172,6 @@ State-level capture is where AFP's model reaches its most advanced form. In stat
 - [FactCheck.org: Americans for Prosperity — organization profile](https://www.factcheck.org/2024/01/americans-for-prosperity-7/) (Tier 2)
 - [Read Sludge: Koch network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2)
 - [Ballotpedia: Americans for Prosperity](https://ballotpedia.org/Americans_for_Prosperity) (Tier 3)
-
-content-readiness:: developed
 
 ---
 

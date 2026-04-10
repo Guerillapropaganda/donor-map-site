@@ -47,19 +47,7 @@ top-donors:
   - "Kaiser Permanente"
 total-received: "$2,408,010"
 fec-candidate-id: "H8CA05035"
-doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
 source-types:
   - DOJ
   - FEC
@@ -68,12 +56,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]]"
 ---
-
-
 #pelosi #master-profile #speaker #democrat #california #class-analysis #follow-the-money #san-francisco #donor-class #tech #stock-trading #dccc #gatekeeper
-
-related: [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]]
 
 donors: [[Michael Bloomberg]], [[Haim Saban]], [[AIPAC - American Israel Public Affairs Committee]], [[SEIU - Service Employees International Union]], [[California Labor Federation]], [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Kaiser Permanente]]
 
@@ -275,21 +260,4 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264349 |
-| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
-- ... and 264,343 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Nancy%20Pelosi%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

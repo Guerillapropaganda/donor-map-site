@@ -8,12 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Abdul El-Sayed Master Profile]] · [[_Mallory McMorrow Master Profile]] · [[_Mike Rogers Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Great Lakes Conservatives Fund|Great Lakes Conservatives Fund]]"
 ---
-
 #2026-election #senate #michigan #race-frame #analysis
 tags: #story
-
-related: Haley Stevens [[_Abdul El-Sayed Master Profile]] [[_Mallory McMorrow Master Profile]] [[_Mike Rogers Master Profile]] [[AIPAC - American Israel Public Affairs Committee]] Tim Dunn - Texas Oil [[Great Lakes Conservatives Fund|Great Lakes Conservatives Fund]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]] Tim Dunn - Texas Oil Networks [[UAW - United Auto Workers]] Amazon PACs Defense Contractor Money Grassroots Small Dollar Networks
 
@@ -158,5 +156,3 @@ If Rogers wins, oil + defense billionaires control Michigan Senate seat. If Stev
 
 ---
 
-content-readiness:: ready
-research-status:: active

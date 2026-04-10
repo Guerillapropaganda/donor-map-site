@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Brett Kavanaugh Master Profile]]
+related: "[[_Brett Kavanaugh Master Profile]] · [[Leonard Leo]]"
 ---
-
-
 #brett-kavanaugh #dark-money #jcn #leonard-leo #federalist-society #confirmation #class-analysis
 
-related: [[_Brett Kavanaugh Master Profile]] [[Leonard Leo]]
-
 donors: [[Leonard Leo]]
-
-content-readiness:: ready
 
 ---
 

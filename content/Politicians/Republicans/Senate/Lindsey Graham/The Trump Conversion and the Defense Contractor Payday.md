@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Lindsey Graham Master Profile]]
+related: "[[_Lindsey Graham Master Profile]] · [[Defense Contractors and the Permanent War Donor Base]] · [[The McCain-to-Trump Transformation and Donor Base Shift]] · [[_Donald Trump Master Profile]]"
 ---
-
 #lindsey-graham #trump #defense-contractors #south-carolina #military-bases #class-analysis #donor-conversion
 
-related: [[_Lindsey Graham Master Profile]] · [[Defense Contractors and the Permanent War Donor Base]] · [[The McCain-to-Trump Transformation and Donor Base Shift]] · [[_Donald Trump Master Profile]]
-
 donors: [[Defense Industry Bloc]] · [[AIPAC - American Israel Public Affairs Committee]]
-
-content-readiness:: ready
 
 ---
 

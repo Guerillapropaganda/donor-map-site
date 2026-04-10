@@ -7,12 +7,9 @@ source-tier: 2
 parent: [[_Scott Bessent Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Scott Bessent Master Profile]] · [[Goldman Sachs]]"
 ---
-
-
 #scott-bessent #soros #key-square #hedge-fund #class-analysis #follow-the-money
-
-related: [[_Scott Bessent Master Profile]] · [[Goldman Sachs]]
 
 donors: [[George Soros]]
 

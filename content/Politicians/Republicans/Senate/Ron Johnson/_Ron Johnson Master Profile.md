@@ -2,7 +2,7 @@
 title: "Ron Johnson"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,13 +11,10 @@ state: "Wisconsin"
 state-abbr: "WI"
 fec-candidate-id: "S0WI00197"
 stock-trades: 2
-donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]]"
-related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]]"
+donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]]"
+related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[John Kennedy Master Profile]]"
 ---
-
 #politician #republican #senate #wisconsin #tax-policy #manufacturing #covid #russia #class-analysis #follow-the-money #gavel-power
-
-related: [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]]
 
 ---
 
@@ -141,9 +138,6 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 - [GovTrack: Ron Johnson](https://www.govtrack.us/congress/members/ron_johnson/412496) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

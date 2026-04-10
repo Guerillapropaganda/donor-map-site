@@ -2,12 +2,12 @@
 title: "Atlantic Council"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]]"
+related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Urban Institute]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]]"
 ein: "813729813"
 nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-08"
@@ -21,7 +21,6 @@ regulatory-agencies:
 ---
 
 #think-tank #centrist #NATO #defense-industry #foreign-government-funding #DFRLab #Burisma #class-analysis
-
 
 ---
 
@@ -235,8 +234,6 @@ The Burisma scandal reveals the corruption beneath the prestige. A Ukrainian ene
 - [Atlantic Council: Digital Forensic Research Lab](https://www.atlanticcouncil.org/programs/digital-forensic-research-lab/) (Tier 3)
 - [Brownstone Institute: Atlantic Council Takes Up the Censorship Sword — DFRLab Virality Project analysis (2023)](https://brownstone.org/articles/atlantic-council-takes-up-censorship-sword/) (Tier 3)
 - [Racket News (Matt Taibbi): Twitter Files Extra — How the World's "No-Kidding Decision Makers" Got Organized — DFRLab censorship-industrial complex role](https://www.racket.news/p/twitter-files-extra-how-the-worlds) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

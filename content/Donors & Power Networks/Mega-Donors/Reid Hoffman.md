@@ -2,7 +2,7 @@
 title: "Reid Hoffman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -33,16 +33,13 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13D"
   - "SCHEDULE 13D/A"
-related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Tech and Media Donors]]"
 federal-register-mentions: 2
 last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Securities and Exchange Commission"
 ---
-
 #donor #billionaire #democratic #tech #linkedin #wisconsin
-
-related: [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[DMFI - Democratic Majority for Israel|DMFI]] · Wisconsin Democratic Party · Tech Industry Donors · Greylock Partners · LinkedIn · 2026 Senate Elections
 
 ---
 
@@ -169,8 +166,6 @@ The Texas race was also notable for its progressive vs. establishment dynamics: 
 
 ---
 
-content-readiness:: ready
-research-status:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

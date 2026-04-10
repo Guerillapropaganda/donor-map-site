@@ -10,7 +10,6 @@ related: "[[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker C
 
 #media #advertising #cross-spectrum #pharma #insurance #defense #tech #boycotts #both-sides-illusion
 
-
 ---
 
 ### The Core Thesis
@@ -272,4 +271,3 @@ Corporations don't choose sides in the political media war — they fund both si
 - [Fortune: "X's UK Revenue Decline"](https://fortune.com/2026/01/27/x-uk-twitter-financial-filings-revenue-decline-58-percent/) (Tier 2)
 - [Deadline: "Fox News Advertisers Post-Election Return"](https://deadline.com/2025/02/donald-trump-fox-news-advertisers-1236301121/) (Tier 2)
 
-content-readiness:: developed

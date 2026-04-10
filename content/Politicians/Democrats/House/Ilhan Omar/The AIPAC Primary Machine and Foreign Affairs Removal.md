@@ -2,14 +2,12 @@
 title: "The AIPAC Primary Machine and Foreign Affairs Removal"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-10
 source-tier: 1
 parent: "[[_Ilhan Omar Master Profile]]"
+related: "[[_Ilhan Omar Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[AIPAC Super PAC Spending Map]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[The Endorsement Economy - Courage to Change PAC]]"
 ---
-
 #omar #aipac #foreign-affairs #israel #palestine #primary #committee-removal #united-democracy-project #squad
-
-related: [[_Ilhan Omar Master Profile]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|UDP]] [[AIPAC Super PAC Spending Map]] [[_Jamaal Bowman Master Profile]] [[_Cori Bush Master Profile]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] (opposition)
 
@@ -99,4 +97,3 @@ The precedent is structural: if a party controls the House, it can remove any me
 - [Ballotpedia: Minnesota's 5th Congressional District election, 2022](https://ballotpedia.org/Minnesota's_5th_Congressional_District_election,_2022) (Tier 3)
 - [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3)
 
-content-readiness:: ready

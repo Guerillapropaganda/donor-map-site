@@ -9,11 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Pete Aguilar Master Profile]] · [[_Hakeem Jeffries Master Profile]]"
 ---
-
 #aguilar #inland-empire #logistics #warehouse #leadership #fundraising #moderate
-
-related: [[_Pete Aguilar Master Profile]] [[_Hakeem Jeffries Master Profile]]
 
 donors: [[Amazon]] [[UPS]] FedEx
 

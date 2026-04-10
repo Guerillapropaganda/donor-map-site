@@ -2,16 +2,15 @@
 title: "Candace Owens"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
-related: "[[Ben Shapiro]] · [[Charlie Kirk]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]]"
+related: "[[Ben Shapiro]] · [[Charlie Kirk]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Jimmy Dore]] · [[Rachel Maddow]]"
 donors: "[[Wilks Brothers]]"
 ---
 
 #media-profile #right #conservative #daily-wire #tpusa #antisemitism #blexit #conspiracy #class-analysis #self-funded
-
 
 ---
 
@@ -156,4 +155,3 @@ Candace Owens represents **the escape velocity problem** — what happens when a
 
 ---
 
-content-readiness:: ready

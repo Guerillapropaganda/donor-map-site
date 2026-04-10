@@ -2,7 +2,7 @@
 title: "Morgan Stanley"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -16,7 +16,7 @@ ein: "136155650"
 annual-revenue: "$1.0M"
 net-assets: "$18.6M"
 tax-year: "2023"
-related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Charles Schwab]]"
+related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Charles Schwab]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Wall Street Finance Networks]]"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 10243579
@@ -45,10 +45,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
 ---
-
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
-
-related: [[Goldman Sachs]] [[JPMorgan Chase]] [[Citigroup]] [[Bank of America]] [[_Chuck Schumer Master Profile|Chuck Schumer]]
 
 ---
 
@@ -96,7 +93,6 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: Morgan Stanley organizational profile](https://www.opensecrets.org/orgs/morgan-stanley/summary?id=D000000106) (Tier 1)
@@ -104,8 +100,6 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 - [FEC: Morgan Stanley PAC filings](https://www.fec.gov/data/committee/C00102657/) (Tier 1)
 - [Wall Street Journal: Morgan Stanley wealth management growth strategy](https://www.wsj.com/articles/morgan-stanley-wealth-management) (Tier 2)
 - [Ballotpedia: Morgan Stanley political spending](https://ballotpedia.org/Morgan_Stanley) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->

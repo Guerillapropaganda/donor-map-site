@@ -1,8 +1,8 @@
 ---
 title: "Ayanna Pressley Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-09
+content-readiness: ready
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,8 +10,16 @@ chamber: "House"
 state: "Massachusetts"
 state-abbr: "MA"
 district: "7"
+bioguide-id: "P000617"
+committees:
+  - "Financial Services"
 issues:
   - "Criminal Justice"
+  - "Student Debt"
+  - "Financial Services Reform"
+  - "Housing"
+  - "Labor"
+  - "Healthcare"
 total-received: "$687,535"
 fec-candidate-id: "H8MA07032"
 govtrack-id: 412782
@@ -23,27 +31,27 @@ source-types:
   - Congress
   - FEC
   - GovTrack
-corroboration-count: 3
+  - HouseOfficial
+corroboration-count: 4
 known-gaps:
-  - "No mapped relationships"
-doj-press-mentions: "264413"
-last-enriched: "2026-04-09"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
+  - DOJ press pipeline data stripped 2026-04-10 (was false positive index-size bug — 264,413 generic mentions). Needs re-enrichment after DOJ pipeline sanity cap takes effect.
+last-enriched: "2026-04-10"
+opposes:
+  - "Predatory lenders"
+  - "Private prison industry"
+donors:
+  - "Labor (unions, $278K career)"
+  - "Ideological/Single-Issue ($226K career)"
+  - "Small Dollar (grassroots)"
+  - "Teamsters Union"
+  - "Machinists/Aerospace Workers Union"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: verified-candidate
+editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (Congress.gov with verified bioguide P000617, FEC, GovTrack, Pressley official House.gov press releases), H.Res.702 and H.R.3412 with direct Congress.gov citations, nuanced class analysis distinguishing PAC capture from ambient committee-membership pressure, documented Capuano replacement logic, donor architecture broken down by industry with career totals. FIXED: stripped auto:doj-press block (false positive — 264,413 mentions from DOJ API index-size bug that main's engine fix now caps at 10K). FIXED: moved OpenSecrets career industries from Tier 1 to Archived per Vault Rules. FIXED: removed inline content-readiness/profile-status markers per frontmatter-only rule. Zero A000383 contamination. Zero (URL NEEDED) tags. Ready for editor review."
+related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Maxine Waters Master Profile|Waters]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Cory Booker Master Profile|Booker]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Cori Bush]]"
 ---
-
 #pressley #massachusetts #progressive #squad #financial-services #criminal-justice #boston
-
-related: [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Ilhan Omar Master Profile|Omar]] [[_Rashida Tlaib Master Profile|Tlaib]] [[_Maxine Waters Master Profile|Waters]] [[_Elizabeth Warren Master Profile|Warren]] [[_Cory Booker Master Profile|Booker]]
 
 ---
 
@@ -157,20 +165,19 @@ The notable absence: no Glass-Steagall restoration co-sponsorship, no financial 
 
 ## Sources
 
+### Verified
 - [Congress.gov: Ayanna Pressley member profile](https://www.congress.gov/member/ayanna-pressley/P000617) (Tier 1)
 - [FEC Candidate: Ayanna Pressley campaign finance summary](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
-- [OpenSecrets: Ayanna Pressley career industries breakdown](https://www.opensecrets.org/members-of-congress/industries?cid=N00042581&cycle=CAREER) (Tier 1)
-- [FEC: Pressley candidate profile](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
 - [Congress.gov: H.Res.702 — Criminal justice reform resolution (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info) (Tier 1)
+- [Congress.gov: H.R.3412 — Ending Administrative Garnishment Act of 2025](https://www.congress.gov/bill/119th-congress/house-bill/3412) (Tier 1)
 - [Pressley House.gov: Student debt cancellation floor speech](https://pressley.house.gov/2022/09/21/video-pressley-heralds-student-debt-cancellation-in-powerful-floor-speech/) (Tier 1)
+- [Pressley House.gov: Pressley, Booker, Warren reintroduce garnishment suspension bill](https://pressley.house.gov/2025/05/14/pressley-booker-warren-reintroduce-bill-to-suspend-garnishments-for-student-loan-borrowers/) (Tier 1)
 - [The Hill: Pressley criminal justice reform resolution](https://thehill.com/homenews/house/470791-ayanna-pressley-introduces-sweeping-criminal-justice-reform-resolution/) (Tier 2)
 - [The Intercept: Small Policy Differences Versus Identity in Massachusetts Primary](https://theintercept.com/2018/08/18/mike-capuano-ayanna-pressley-massachusetts-primary/) (Tier 2)
-- [Congress.gov: H.R.3412 — Ending Administrative Garnishment Act of 2025](https://www.congress.gov/bill/119th-congress/house-bill/3412) (Tier 1)
-- [Pressley House.gov: Pressley, Booker, Warren reintroduce garnishment suspension bill](https://pressley.house.gov/2025/05/14/pressley-booker-warren-reintroduce-bill-to-suspend-garnishments-for-student-loan-borrowers/) (Tier 1)
 - [Ballotpedia: Ayanna Pressley](https://ballotpedia.org/Ayanna_Pressley) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
+### Archived
+- ~~[OpenSecrets: Ayanna Pressley career industries breakdown](https://www.opensecrets.org/members-of-congress/industries?cid=N00042581&cycle=CAREER)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — industry breakdown data referenced in Donation-to-Policy Timeline body; needs FEC committee-page cross-check)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -216,22 +223,4 @@ content-readiness:: ready
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
 <!-- auto:voting-record end -->
 
-### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264413 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
-
-**Recent press releases:**
-
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
-- ... and 264,407 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Ayanna%20Pressley%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing 264,413 DOJ mentions from the API index-size false-positive bug (same pattern as QVT Financial). Main's engine fix (commit d1ceb91) caps at 10K + validates 60% name match. Block will repopulate correctly on next pipeline run. -->

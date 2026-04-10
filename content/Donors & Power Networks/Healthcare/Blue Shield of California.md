@@ -2,7 +2,7 @@
 title: "Blue Shield of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -41,13 +41,9 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. California"
   - "United States Bankruptcy Court, C.D. California"
-related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Bernie Sanders Master Profile]]"
+related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CNA - California Nurses Association]] · [[Kaiser Permanente]] · [[JCRC Bay Area]]"
 ---
-
-
 #donor #healthcare-industry #insurance #blue-shield #california #follow-the-money #no-bid-contracts #single-payer-opponent
-
-related: [[_Gavin Newsom Master Profile]] | [[Single-Payer Broken Promise]] | [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] | [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CNA - California Nurses Association]] · [[Kaiser Permanente]]
 
 ---
 
@@ -113,9 +109,6 @@ Healthcare — Single-payer, COVID contracts, PBM regulation
 - [KTLA: $226M corporate donations 2020](https://ktla.com/news/california/corporate-giants-flooded-newsom-with-record-226-million-in-charity-donations-in-2020/) (Tier 2)
 - [National Institute on Money in Politics: contribution data](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Blue%20Shield%20of%20California#[%7B1%7Cgro=d-id) (Tier 1)
 - [FPPC: behested payment database / Form 803](https://www.fppc.ca.gov/transparency/behested-payments.html) (Tier 1)
-
-research-status:: ready — Newsom contributions confirmed ($299K+), party contributions ($2.7M since 2006, $1M recall), COVID vaccine no-bid contract ($15M), Project Homekey behested payment ($45M with Kaiser), relationship cultivation pattern documented. All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38h.
-content-readiness:: ready
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Rebekah Mercer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -23,15 +23,11 @@ sec-form-types:
   - "D"
   - "EX-10.9"
   - "PX14A6G"
-related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[Tucker Carlson]] · [[Ben Shapiro]]"
+related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[Tucker Carlson]] · [[Ben Shapiro]] · [[Robert Mercer]] · [[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Mitt Romney]]"
 last-enriched: "2026-04-09"
 total-political-spend: "$1,838,065"
 ---
-
-
 #rebekah-mercer #mega-donor #trump-transition #heritage-foundation #project-2025 #cambridge-analytica #class-analysis
-
-related: [[Robert Mercer]] · [[_Donald Trump Master Profile]] · [[Leonard Leo]]
 
 ---
 
@@ -81,9 +77,6 @@ Long-term institutional control over the conservative movement's infrastructure.
 - [Fortune: Women on Trump transition team](https://fortune.com/2016/11/17/trump-transition-women/) (Tier 2)
 - [NPR: Inside the family funding Bannon's plan](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2)
 - [CNBC: Mercer family conservative causes](https://www.cnbc.com/2020/11/24/mercer-family-dramatically-scaled-back-giving-to-conservative-causes-heading-into-2020.html) (Tier 2)
-
-research-status:: ready — Heritage board, Project 2025 $1.6M, DonorsTrust $31M, transition committee, Tucker Carlson $15M, GAI chairwoman, institutional capture strategy. 5 sources, Tier 2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ---
 

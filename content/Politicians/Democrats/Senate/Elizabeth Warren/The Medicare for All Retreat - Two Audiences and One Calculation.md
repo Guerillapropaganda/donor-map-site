@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Elizabeth Warren Master Profile]]
+related: "[[_Elizabeth Warren Master Profile]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Healthcare - Donors and Backers]]"
 ---
-
-
 #warren #medicare-for-all #healthcare #2020-campaign #two-audience #class-analysis #donor-class #progressive
-
-related: [[_Elizabeth Warren Master Profile]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Healthcare - Donors and Backers]] · The Medicare for All Retreat - Policy Timeline
 
 donors: Wall Street / Financial Services · Healthcare Industry Sector · [[ActBlue]] · [[AIPAC - American Israel Public Affairs Committee]]
 
@@ -248,4 +245,3 @@ Warren's retreat from immediate M4A to a "transition plan" was the moment she ac
 
 ---
 
-content-readiness:: ready

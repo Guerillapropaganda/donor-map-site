@@ -7,12 +7,9 @@ source-tier: 2
 parent: [[_Scott Bessent Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Scott Bessent Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
 ---
-
-
 #scott-bessent #deregulation #wall-street #3-3-3 #treasury #class-analysis #follow-the-money
-
-related: [[_Scott Bessent Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]
 
 donors: [[JPMorgan]] [[Goldman Sachs]] [[Citigroup]]
 

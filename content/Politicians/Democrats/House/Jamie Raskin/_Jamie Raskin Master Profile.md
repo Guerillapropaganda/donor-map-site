@@ -22,12 +22,9 @@ bills-cosponsored: 265
 website: "https://raskin.house.gov"
 phone: "202-225-5341"
 donors: "[[UNITE HERE]] · [[Demand Justice]]"
-related: "[[The Oversight Chair and the Investigation Theater]]"
+related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
 ---
-
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment
-
-related: [[_Donald Trump Master Profile|Trump]] [[Federalist Society]] · [[Demand Justice]]
 
 donors:
 
@@ -155,9 +152,6 @@ On campaign finance reform, he leads with the structural argument — corporatio
 - [Clean Slate MoCo: Raskin's big-money individual donors in Montgomery County](https://www.cleanslatemoco.com/looking-into-congressman-jamie-raskins-big-money-individual-donors-based-in-montgomery-county-this-cycle/3092) (Tier 3)
 - [American University: Jamie Raskin faculty profile](https://www.american.edu/wcl/faculty/raskin.cfm) (Tier 3)
 - [Free Speech for People: Raskin introduces bill to ban multinational corporate campaign spending](https://freespeechforpeople.org/rep-jamie-raskin-introduces-bill-to-ban-multinational-corporations-from-spending-money-in-u-s-elections/) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

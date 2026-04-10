@@ -2,7 +2,7 @@
 title: "Mohammed bin Salman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -28,12 +28,9 @@ sec-form-types:
   - "FWP"
   - "N-CSR"
   - "PX14A6G"
-related: "[[Saudi Arabia - Kingdom Investment]]"
+related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]]"
 ---
-
 #donor-node #foreign #saudi-arabia #sovereign-wealth #arms-sales #class-analysis
-
-related: [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · Saudi Arabia Political Influence & US Policy · Arms Sales & Foreign Donor Power
 
 ---
 
@@ -160,9 +157,6 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 - [Wikipedia: Saudi Arabia–United States relations](https://en.wikipedia.org/wiki/Saudi_Arabia%E2%80%93United_States_relations) (Tier 3)
 
 ---
-
-research-status:: ready — Full citation pass complete. MBS foreign donor profile, $110B arms deal, Khashoggi murder, Kushner $2B PIF pipeline, $350M FARA-registered lobbying, OPEC+ price manipulation, Iran war lobby, Neom $500B, Vision 2030. 11 sources, Tier 1-3. All ### headers. Promoted Session 38k.
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

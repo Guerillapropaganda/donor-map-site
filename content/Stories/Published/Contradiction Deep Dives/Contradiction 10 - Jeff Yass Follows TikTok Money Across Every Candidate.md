@@ -12,12 +12,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 
+related: "[[Jeff Yass]] · [[Club for Growth]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[_Rand Paul Master Profile|Rand Paul]] · [[Vivek Ramaswamy]] · [[Susquehanna International Group]] · [[TikTok - ByteDance|TikTok]]"
 ---
-
 #investigation #contradiction #jeff-yass #tiktok #bytedance #multi-candidate #class-analysis
 tags: #analysis #story
-
-related: [[Jeff Yass]] [[Club for Growth]] [[_Donald Trump Master Profile|Donald Trump]] [[_Nikki Haley Master Profile|Nikki Haley]] [[_Rand Paul Master Profile|Rand Paul]] [[Vivek Ramaswamy]] ByteDance [[Susquehanna International Group]] [[TikTok - ByteDance|TikTok]] PAFACA - Protecting Americans from Foreign Adversary Controlled Applications Act
 
 ---
 
@@ -178,6 +176,3 @@ The contradiction dissolves when you stop thinking about parties and start think
 
 ---
 
-research-status:: ready — Full citation pass complete. Yass $33B net worth, $21B ByteDance stake, $16M to MAGA Inc (Jan+Mar 2025), $61M to Club for Growth (24% of budget), $4.9M Ramaswamy, $8M+ Rand Paul, Trump TikTok reversal timeline (Mar 1→Mar 11-12 2024), PAFACA enforcement delays, CFG as parallel enforcement channel. 21 sources Tier 1-4 with URLs. Bold→### conversion (6 headers). Promoted Session 39.
-content-readiness:: ready
-                   

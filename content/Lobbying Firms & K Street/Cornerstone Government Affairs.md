@@ -49,7 +49,6 @@ regulatory-agencies:
 
 #lobbying #k-street #bipartisan #tech #defense #pharma #agriculture #finance
 
-
 ---
 
 ### Who They Are
@@ -267,8 +266,6 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 - [Cornerstone Government Affairs: House Appropriations Committee Staff Director Robin Juliano Joins Cornerstone — career background and prior Cornerstone tenure](https://cgagroup.com/house-appropriations-committee-staff-director-robin-juliano-joins-cornerstone-government-affairs/) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->

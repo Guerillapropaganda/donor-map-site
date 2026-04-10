@@ -7,7 +7,6 @@ source-tier: 1
 parent: null
 ---
 
-
 ### Finance Research Log — 2026-03-19
 
 **Subject:** CCPOA (California Correctional Peace Officers Association) — Queue Item #2
@@ -107,4 +106,3 @@ File: `Donors & Power Networks/[[CCPOA - California Correctional Peace Officers 
 ---
 
 *Next session: Move to Queue Item #3 — [[Blue Shield of California|Blue Shield of California]] (FPPC contribution history to Newsom)*
-content-readiness:: ready

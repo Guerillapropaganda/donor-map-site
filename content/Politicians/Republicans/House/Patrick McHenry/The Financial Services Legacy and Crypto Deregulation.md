@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Patrick McHenry Master Profile]] · [[_French Hill Master Profile|Hill]] · [[Coinbase]] · [[Fairshake PAC]] · [[Goldman Sachs]]"
 ---
-
 #mchenry #north-carolina #financial-services #crypto #banking #deregulation #fit21
-
-related: [[_Patrick McHenry Master Profile]] [[_French Hill Master Profile|Hill]] [[Coinbase]] [[Fairshake PAC]] [[Goldman Sachs]]
 
 donors: [[Goldman Sachs]] [[Coinbase]] [[Fairshake PAC]]
 

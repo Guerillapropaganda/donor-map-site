@@ -185,4 +185,3 @@ Two recent executive orders not previously covered:
 ---
 
 *Next scan: March 24, 2026. Watch for: Hormuz ultimatum expiration fallout, oil price reaction, any SCOTUS orders list, reconciliation 2.0 committee action.*
-content-readiness:: ready

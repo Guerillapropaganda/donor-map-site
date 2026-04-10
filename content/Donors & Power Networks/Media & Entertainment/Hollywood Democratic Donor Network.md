@@ -10,12 +10,9 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
-related: "[[Pod Save America]]"
+related: "[[Pod Save America]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Reed Hastings]] · [[Democratic Donor Network]]"
 ---
-
 #donor #donor-network #entertainment #hollywood #bundlers #democratic #media-influence #contradiction #anti-labor #copyright-enforcement
-
-related: [[Jeffrey Katzenberg]] · David Geffen · [[Haim Saban]] · [[Reed Hastings]] · Casey Wasserman · Laurene Powell Jobs (The Atlantic) · [[Democratic Donor Network]] · Writers Guild Strike 2023 · Streaming Industry Policy · Copyright Enforcement and DMCA · Media Ownership and Donor Influence
 
 ---
 
@@ -152,9 +149,6 @@ Netflix has produced sympathetic biographical documentaries on Democratic politi
 - [CNBC: "Reed Hastings: Netflix backed Harris with $7 million"](https://www.cnbc.com/2024/07/reed-hastings-kamala-harris-donation/) (Tier 2)
 
 ---
-
-research-status:: ready
-content-readiness:: ready
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

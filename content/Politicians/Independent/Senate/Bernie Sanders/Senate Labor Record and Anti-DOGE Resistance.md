@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Bernie Sanders Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[Elon Musk]]"
 ---
-
-
 #sanders #labor #senate #budget-committee #amazon #walmart #pro-act #doge #resistance #class-analysis #follow-the-money
 
-related: [[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[Elon Musk]]
 donors: [[SEIU - Service Employees International Union]], [[CNA - California Nurses Association]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]], [[Elon Musk]], [[Koch Network - Charles Koch]]
 
 ---

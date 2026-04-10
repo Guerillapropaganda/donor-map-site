@@ -18,11 +18,9 @@ issues:
 total-received: "$4,955,682"
 fec-candidate-id: "H4NY21079"
 donors: "[[Winning for Women PAC]] · [[Miriam Adelson]]"
+related: "[[_Kevin McCarthy Master Profile|McCarthy]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
 #stefanik #new-york #conference-chair #trump #un-ambassador #ideological-transformation #education #antisemitism #aipac #harvard #fort-drum #defense
-
-related: [[_Kevin McCarthy Master Profile|McCarthy]] [[_Jim Jordan Master Profile|Jim Jordan]] [[_Donald Trump Master Profile|Trump]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ---
 
@@ -147,9 +145,6 @@ The nomination cycle revealed Stefanik's structural vulnerability: her value to 
 - ~~[FollowTheMoney: Elise Stefanik](https://www.followthemoney.org/tools/election-overview?eid=21236694)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -2,16 +2,13 @@
 title: "COVID No-Bid Contracts - Blue Shield and UnitedHealth"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Economic Policy - Donors and Backers]]"
+related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Economic Policy - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
-
-
 #newsom #healthcare #covid #no-bid-contracts #blue-shield #unitedhealth #donor-class #corruption-adjacent #follow-the-money
 
-related: [[Single-Payer Broken Promise]] | [[Prescription Drug Pricing - PBM Veto Cycle]] | [[_Gavin Newsom Master Profile]]
 donors: [[Blue Shield of California]] | [[UnitedHealth Group - Optum]]
 
 ---
@@ -93,4 +90,3 @@ This is the clearest documented example of the donor-contract cycle in Newsom's 
 - [CapRadio: Another $282M in no-bid pandemic contracts to major Newsom contributor UnitedHealth](https://www.capradio.org/articles/2021/03/25/another-282m-in-no-bid-pandemic-contracts-to-major-newsom-contributor-unitedhealth/) (Tier 2)
 - [ACLU: Healthcare Industry Lobbying and Campaign Finance in COVID Response](https://www.aclu.org/news/health-care-advocacy/) (Tier 2)
 
-content-readiness:: ready

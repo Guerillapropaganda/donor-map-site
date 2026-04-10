@@ -1,26 +1,29 @@
 ---
 title: "The Endorsement Economy - Courage to Change PAC"
 type: sub-note
-content-readiness: raw
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-10
 source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"
-related: "[[The Small-Dollar Model and the Anti-Donor Experiment]]"
+fec-committee-id: C00692202
+source-types:
+  - FEC
+known-gaps:
+  - Only 1 Tier 1 source type (FEC). Need second for verified promotion.
+  - IE spending data needs FEC cross-check ($279,600 in 2023-2024 cycle)
+related: "[[The Small-Dollar Model and the Anti-Donor Experiment]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Bernie Sanders Master Profile]] · [[The AIPAC Primary Machine and Foreign Affairs Removal]]"
 ---
-
 #aoc #leadership-pac #courage-to-change #endorsements #progressive #class-analysis #follow-the-money
 
-related:: [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Bernie Sanders Master Profile]]
-
 ---
 
-### Overview
+## Overview
 
 Courage to Change PAC (FEC ID: C00692202), registered November 29, 2018, functions as Ocasio-Cortez's leadership super PAC. Registered well before the 2018 midterms that swept her into office, the PAC operates as an alternative to traditional DCCC dues structures, channeling resources toward candidates aligned with her progressive coalition.
 
 > [!money] The PAC's total spending, while meaningful, is modest by leadership PAC standards. Ocasio-Cortez's own campaign committee raised $15.16M in 2024—dwarfing her PAC's direct contributions, which suggests her real endorsement power lies not in check-writing but in audience mobilization and donor network activation.
 
-### Financial Performance by Cycle
+## Financial Performance by Cycle
 
 | Cycle | Total Raised | Total Spent | Cash on Hand | Direct to Candidates | Independent Expenditures |
 |-------|--------------|-------------|--------------|----------------------|--------------------------|
@@ -30,9 +33,10 @@ Courage to Change PAC (FEC ID: C00692202), registered November 29, 2018, functio
 
 The 2023-2024 cycle reveals a strategic shift: independent expenditures ($279,600) now exceed direct candidate contributions ($90,000), indicating a pivot toward issue-based spending and activist infrastructure rather than traditional transactional PAC giving.
 
-[!contradiction] Declining total fundraising across cycles (2019: $530K → 2024: $269K) contrasts with her growing political influence, suggesting the PAC remains a secondary tool in her broader coalition-building apparatus.
+> [!contradiction]
+> Declining total fundraising across cycles (2019: $530K → 2024: $269K) contrasts with her growing political influence, suggesting the PAC remains a secondary tool in her broader coalition-building apparatus.
 
-### 2023-2024 Recipient Network
+## 2023-2024 Recipient Network
 
 ### Top-tier recipient (over $5K):
 - Pat Ryan (D-NY): $10,000
@@ -42,7 +46,7 @@ The 2023-2024 cycle reveals a strategic shift: independent expenditures ($279,60
 
 **Partisan consistency:** 94.44% of candidate contributions directed to Democrats in 2023-2024 (Tier 1).
 
-### 2019-2020 Early Coalition Building
+## 2019-2020 Early Coalition Building
 
 ### Initial top recipients:
 - Kara Eastman (D-NE): $10,000
@@ -53,11 +57,12 @@ Anthony Brindisi, Teresa Leger Fernandez, Marie Newman, Jamaal Bowman, Cori Bush
 
 Early giving prioritized first-time candidates and challengers, establishing pattern of supporting anti-establishment primary challenges.
 
-### Moderate Democrat Rejection
+## Moderate Democrat Rejection
 
-[!contradiction] At least four moderate Democrats returned $5,000 PAC donations in 2021, including Elissa Slotkin, who characterized the contribution as "unsolicited" (Tier 2). This rejection signals ideological incompatibility and suggests her endorsement carries expectation of policy alignment, not merely cash exchange.
+> [!contradiction]
+> At least four moderate Democrats returned $5,000 PAC donations in 2021, including Elissa Slotkin, who characterized the contribution as "unsolicited" (Tier 2). This rejection signals ideological incompatibility and suggests her endorsement carries expectation of policy alignment, not merely cash exchange.
 
-### Endorsement Value Beyond Direct Contributions
+## Endorsement Value Beyond Direct Contributions
 
 The real magnitude of Ocasio-Cortez's endorsement economy extends far beyond PAC disbursements:
 
@@ -73,7 +78,7 @@ Her endorsements of Jamaal Bowman and Cori Bush preceded their primary victories
 ### Donor Network Activation:
 Her social media audience (3.1M+ Instagram followers) and bundled small-dollar networks generate far more capital than $90-200K direct PAC contributions. ActBlue H1 2025 data ranks her 3rd nationally in small-dollar donation activation, behind only DNC and DSCC (Tier 2).
 
-### Institutional Alignment and Reciprocal Networks
+## Institutional Alignment and Reciprocal Networks
 
 ### Justice Democrats / Saikat Chakrabarti:
 Chakrabarti co-founded both Justice Democrats and Brand New Congress, recruited AOC's 2018 candidacy through an open nomination process (her brother Gabriel submitted her name), and served as her first Chief of Staff until August 2019. A founding engineer at Stripe, his early equity stake makes him one of the wealthiest figures in the progressive infrastructure. As of 2026, Chakrabarti is running for Congress in CA-11 (Nancy Pelosi's former seat), facing Supervisor Connie Chan and State Sen. Scott Wiener. The San Francisco Chronicle covered an April 1, 2026 debate among the candidates. The Justice Democrats/AOC relationship is reciprocal: she endorses their subsequent candidates, creating a closed-loop accountability structure. [San Francisco Chronicle, April 2026](URL NEEDED) (Tier 2).
@@ -89,16 +94,16 @@ Q1 2025 "Fighting Oligarchy" tour fundraising with Sanders correlated with campa
 
 ---
 
-research-status:: Complete with FEC filings and recent electoral outcomes through Q1 2026
+## Sources
 
-content-readiness:: Developed
+### Verified
+- [FEC: Courage to Change PAC committee page (C00692202)](https://www.fec.gov/data/committee/C00692202/) (Tier 1)
+- [FEC: Courage to Change independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00692202) (Tier 1)
+- [Reuters: Moderate Democrats Return Donations (2021)](https://www.reuters.com/world/us/moderate-democrats-return-courage-change-pac-donations-2021/) (Tier 2 — URL NEEDED)
+- [CNN: AOC Fundraising Juggernaut](https://www.cnn.com/) (Tier 2 — URL NEEDED)
+- [Politico: Q1 2025 Fundraising Analysis](https://www.politico.com/) (Tier 2 — URL NEEDED)
+- [City & State NY: Progressive Endorsement Slates](https://www.cityandstateny.com/) (Tier 2 — URL NEEDED)
+- [San Francisco Chronicle: CA-11 debate (Chakrabarti/Chan/Wiener), April 2026](https://www.sfchronicle.com/) (Tier 2 — URL NEEDED)
 
-### Sources:
-- OpenSecrets Courage to Change 2024, 2022, 2020 (Tier 1)
-- FEC C00692202 filings (Tier 1)
-- Reuters: Moderate Democrats Return Donations (Tier 2)
-- The Hill: AOC Endorses Key Candidates (Tier 2)
-- CNN: AOC Fundraising Juggernaut (Tier 2)
-- Politico: Q1 2025 Fundraising Analysis (Tier 2)
-- City & State NY: Progressive Endorsement Slates (Tier 2)
-- San Francisco Chronicle: CA-11 debate, Chakrabarti/Chan/Wiener, April 2026 (Tier 2)
+### Archived
+- ~~[OpenSecrets: Courage to Change 2024, 2022, 2020](https://www.opensecrets.org/political-action-committees-pacs/courage-to-change/C00692202/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)

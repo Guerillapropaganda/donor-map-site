@@ -7,11 +7,9 @@ source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"
 known-gaps:
   - "No mapped relationships"
+related: "[[_Alexandria Ocasio-Cortez Master Profile]]"
 ---
-
 #aoc #ethics #financial-disclosure #met-gala #class-analysis #follow-the-money
-
-related:: [[_Alexandria Ocasio-Cortez Master Profile]]
 
 ### Met Gala Ethics Ruling
 
@@ -88,6 +86,3 @@ Sources:
 - TheStreet: AOC net worth analysis (Tier 3)
 - National Legal and Policy Center: Original Met Gala complaint (Tier 3)
 
-research-status:: Primary sources reviewed; Ethics Committee ruling examined; financial disclosure data cross-referenced across multiple independent sources.
-
-content-readiness:: developed

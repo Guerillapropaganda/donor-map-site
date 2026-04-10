@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -54,7 +54,7 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 14D9"
-related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Schwarzman Connection and Private Equity Capture]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Schwarzman Connection and Private Equity Capture]] · [[_Donald Trump Master Profile]] · [[Private Equity Industry Bloc|Private Equity Industry]] · [[MAGA Inc]] · [[Schwarzman and Singer Fund Every Republican Faction]]"
 court-cases: 25
 court-jurisdictions:
   - "District Court, D. Maryland"
@@ -68,10 +68,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
 ---
-
 #donor #billionaire #republican #private-equity #blackstone #wall-street
-
-related: [[_Donald Trump Master Profile]] [[Private Equity Industry Bloc|Private Equity Industry]] Republican Party Infrastructure [[MAGA Inc]] Carried Interest Tax Financial Deregulation Trump Administration 2025-2029
 
 ---
 
@@ -202,9 +199,6 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 
 ---
 
-research-status:: developed — Merged 2024 cycle data ($40M personal + $48.6M Blackstone-affiliated). Added temporal mapping (1985-2025): Invitation Homes $8.3B acquisition (2012), anti-rent-control campaigns ($14.1M, Props 10/21/CBRE), TCJA and Opportunity Zones (OZ 2.0 2025), September 2022 Trump criticism reversal (May 2024). Expanded revolving door (Wayne Berman 84.85%), corporate spending breakdown (PAC, NAR, Real Estate Roundtable, NRHC). Added net worth ($40B), 2020 cycle context ($33.5M top 10 donor), 2025 MAGA Inc ($5M), FHFA capture (Bill Pulte PE insider). 12 sources (Tier 1-2), all marked UNVERIFIED except FEC/OpenSecrets. All ### headers. Ready for Chrome verification pass.
-
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

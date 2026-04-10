@@ -25,16 +25,11 @@ corroboration-count: 2
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-opposes: >-
-  [[UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN
-  AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES
-  AND CANADA)]] · [[HOUSE MAJORITY PAC]] · [[DCCC]]
+opposes: "[[UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]] · [[HOUSE MAJORITY PAC]] · [[DCCC]]"
+related: "[[_Zach Wahls Master Profile|Zach Wahls]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]]"
 ---
-
 #politician #republican #senate #iowa #2026-candidate
 tags: #republican
-
-related:: [[_Zach Wahls Master Profile|Zach Wahls]] Josh Turek [[Senate Leadership Fund]] [[Winning for Women PAC]]
 
 donors:: [[Senate Leadership Fund]] [[Winning for Women PAC]] Agriculture Industry PACs · [[AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)]]
 ---
@@ -153,7 +148,6 @@ party:: Republican
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
- 
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

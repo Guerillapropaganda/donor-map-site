@@ -11,12 +11,10 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Chuck Schumer Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Real Estate Board of New York]] · [[Cayre Family]] · [[Moinian Group]] · [[Tisch Family]]"
 ---
-
 #kathy-hochul #governor #new-york #real-estate #wall-street #class-analysis #democrat
 tags: #democrat
-
-related: [[_Chuck Schumer Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Real Estate Board of New York]] · [[Cayre Family]] · [[Moinian Group]] · [[Tisch Family]]
 
 donors: [[Real Estate Board of New York]] · [[Cayre Family]] · [[Moinian Group]] · [[Tisch Family]] · Wall Street Finance
 

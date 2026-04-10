@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Clarence Thomas Master Profile]]
+related: "[[_Clarence Thomas Master Profile]] · [[Harlan Crow]]"
 ---
-
-
 #clarence-thomas #financial-disclosure #ethics #rv-loan #heritage-foundation #enforcement #class-analysis #follow-the-money
 
-related: [[_Clarence Thomas Master Profile]] · [[Harlan Crow]]
-
 donors: [[Harlan Crow]]
-
-content-readiness:: ready
 
 ---
 

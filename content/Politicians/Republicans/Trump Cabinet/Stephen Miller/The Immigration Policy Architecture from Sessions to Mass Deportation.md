@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Stephen Miller Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Stephen Miller Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #stephen-miller #immigration #family-separation #muslim-ban #deportation #alien-enemies-act #denaturalization #class-analysis
 
-related: [[_Stephen Miller Master Profile]] [[_Donald Trump Master Profile]]
 donors: [[Bradley Impact Fund]], [[DonorsTrust]]
 
 content-readiness:: ready

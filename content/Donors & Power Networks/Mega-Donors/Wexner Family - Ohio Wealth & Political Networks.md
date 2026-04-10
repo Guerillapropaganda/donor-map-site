@@ -7,15 +7,12 @@ source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
-related: "[[Ohio 2026 Special Senate Election]]"
+related: "[[Ohio 2026 Special Senate Election]] · [[Les Wexner - Wexner Family Enterprises]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #wexner #redirect #ohio #epstein
-
-related: [[Les Wexner - Wexner Family Enterprises]]
 
 ---
 

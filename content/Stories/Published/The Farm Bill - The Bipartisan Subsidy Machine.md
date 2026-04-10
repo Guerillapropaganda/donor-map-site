@@ -11,11 +11,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[Cargill]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[Tyson Foods]] · [[John Deere]]"
 ---
-
 #farm-bill #agriculture #snap #subsidies #bipartisan #agribusiness #nutrition
-
-related: [[Cargill]] [[ADM - Archer Daniels Midland]] [[Monsanto - Bayer]] [[Tyson Foods]] [[John Deere]]
 
 ---
 

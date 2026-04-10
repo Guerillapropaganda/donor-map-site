@@ -2,7 +2,7 @@
 title: "Fossil Fuel Bloc"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -18,13 +18,9 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-related: "[[Uber]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Brett Kavanaugh Master Profile]] · [[The Executive Power Portfolio and the Donor-Class Rulings]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Oil Gas and the Texas Energy Donor Base]] · [[Kentucky Inc - Coal Tobacco Bourbon and Pharma]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Farallon Capital and the Fossil Fuel Fortune]] · [[Joe Manchin Master Profile]] · [[The BBB Kill and IRA Fossil Fuel Concessions]] · [[Enersystems and the Personal Coal Fortune]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
+related: "[[Uber]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Brett Kavanaugh Master Profile]] · [[The Executive Power Portfolio and the Donor-Class Rulings]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Oil Gas and the Texas Energy Donor Base]] · [[Kentucky Inc - Coal Tobacco Bourbon and Pharma]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Farallon Capital and the Fossil Fuel Fortune]] · [[Joe Manchin Master Profile]] · [[The BBB Kill and IRA Fossil Fuel Concessions]] · [[Enersystems and the Personal Coal Fortune]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[_Donald Trump Master Profile]] · [[Chevron]] · [[Western States Petroleum Association]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[The Green New Deal - From Resolution to Reality]] · [[Lyft]]"
 ---
-
-
 #donor #fossil-fuel #oil #gas #climate #class-analysis #follow-the-money #trump #deregulation #EPA #endangerment-finding #chevron #exxon #drilling
-
-related: [[_Donald Trump Master Profile]] | [[Chevron]] | [[Western States Petroleum Association]] | [[_Gavin Newsom Master Profile]] | [[Fracking and Oil Permits - Green Branding vs. Record]] | [[PG&E - The Utility Donor and the Wildfire Cover]]
 
 ---
 
@@ -134,7 +130,7 @@ The February 28, 2026 US-Israel strikes on Iran and the subsequent Strait of Hor
 
 **The Hormuz factor:** The Dallas Federal Reserve estimated that sustained Hormuz disruption produces 3.3% global inflation and 2.1% GDP contraction ([Dallas Fed](https://www.dallasfed.org/research/economics/2026/0320), Tier 1). Fertilizer prices spiked 50%+ due to petrochemical supply chain disruption. 800 million people in the global South face heightened food insecurity from the resulting agricultural cost increase.
 
-> [!class-analysis] Who pays for the windfall
+> [!money] Who pays for the windfall
 > The fossil fuel price spike is experienced differently by different classes. The donor class sees it on balance sheets — revenue up, costs flat, margins expanding. Working families see it at the pump, in grocery bills (food production is petroleum-dependent), and in heating costs. The same event that produces $35-40B in excess profit for five companies produces a 30-40% increase in energy costs for families spending 10%+ of income on fuel. The war premium is a wealth transfer from the bottom to the top, intermediated by the Strait of Hormuz.
 
 **The three-constituency convergence:** The Iran war is the rare event where all three major Republican donor blocs profit simultaneously: defense contractors (33,000-to-1 ROI on $200B supplemental), fossil fuel majors (160-to-1 ROI from Hormuz disruption), and the Israel lobby (fourth Adelson pipeline deliverable — geopolitical conditions for West Bank annexation). See [[The Iran War Money Trail - From Adelson to Airstrikes]] for the full convergence analysis.
@@ -143,9 +139,6 @@ The February 28, 2026 US-Israel strikes on Iran and the subsequent Strait of Hor
 - [Dallas Fed: Strait of Hormuz Economic Impact](https://www.dallasfed.org/research/economics/2026/0320) (Tier 1)
 
 ---
-
-research-status:: ready — Full citation pass complete. $219M 2024 spending, $19M inaugural, endangerment finding repeal, methane rule elimination, Arctic/offshore drilling expansion, Paris withdrawal. Iran war windfall section with 160-to-1 ROI. 12+ sources, Tier 1-2. All ### headers, source format standardized. Promoted Session 38j.
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

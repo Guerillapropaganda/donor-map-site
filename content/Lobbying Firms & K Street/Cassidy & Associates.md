@@ -22,7 +22,6 @@ court-jurisdictions:
 
 #lobbying #k-street #appropriations #earmarks #defense #energy #universities #bipartisan
 
-
 ---
 
 ### Who They Are
@@ -244,8 +243,6 @@ The firm's representation of authoritarian governments — Equatorial Guinea's O
 - [The Hill: How top universities have boosted lobbying during Donald Trump 2.0](https://thehill.com/homenews/education/5574565-universities-lobbying-trump-crackdown/) (Tier 2)
 - [Big Ten: New Era Begins As House Settlement Approved](https://bigten.org/mgolf/article/93/) (Tier 3)
 - [Front Office Sports: NCAA Appears No Closer to Getting Its Congressional Wish List](https://frontofficesports.com/the-ncaa-congressional-wish-list/) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

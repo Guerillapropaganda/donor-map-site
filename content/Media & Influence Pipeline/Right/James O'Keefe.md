@@ -2,16 +2,15 @@
 title: "James O'Keefe"
 type: media-profile
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Dave Rubin]] · [[Matt Walsh]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Candace Owens]]"
+related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Dave Rubin]] · [[Matt Walsh]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #right #guerilla-journalism #project-veritas #omg #donor-funded #dark-money #donorstrust #bradley-foundation
-
 
 ---
 
@@ -168,4 +167,3 @@ The class function of Project Veritas was to provide opposition research infrast
 
 ---
 
-content-readiness:: developed

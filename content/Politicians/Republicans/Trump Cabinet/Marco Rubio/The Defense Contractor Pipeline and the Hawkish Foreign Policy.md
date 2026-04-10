@@ -5,12 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Marco Rubio Master Profile]]
-related: "[[Operation Southern Spear and the Cuba Fuel Blockade]]"
+related: "[[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Marco Rubio Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]]"
 ---
-
 #marco-rubio #defense-contractors #hawkish #secretary-of-state #class-analysis #follow-the-money #iran #china #cuba #venezuela #boeing #general-dynamics #honeywell #military-industrial-complex
 
-related: [[_Marco Rubio Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]]
 donors: [[Fanjul Family - Florida Crystals]]
 
 ---
@@ -89,4 +87,3 @@ Every policy position as Secretary of State was prefigured by his Senate donor r
 - [State Department: Rubio testimony before Senate Foreign Relations on Venezuela](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/secretary-of-state-marco-rubio-before-the-senate-committee-on-foreign-relations-on-u-s-policy-towards-venezuela) (Tier 1)
 - [National Review: Marco Rubio's sugar addiction](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2)
 
-content-readiness:: ready

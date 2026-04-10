@@ -2,7 +2,7 @@
 title: "Valero Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -35,7 +35,7 @@ federal-contracts-count: 25
 federal-grants-count: 0
 top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
-related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]] · [[American Petroleum Institute]] · [[Chevron]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[Western States Petroleum Association]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[Koch Network - Charles Koch|Koch Network]] · [[Southern Company]]"
 court-cases: 871
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -48,25 +48,10 @@ court-jurisdictions:
   - "District Court, M.D. Louisiana"
   - "District Court, N.D. California"
   - "District Court, N.D. Texas"
-doj-press-mentions: "264413"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ---
-
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
-
-related: [[American Petroleum Institute]] | [[Chevron]] | [[ExxonMobil]] | [[Fossil Fuel Bloc]] | [[Western States Petroleum Association]] | [[_Steve Scalise Master Profile|Steve Scalise]] | [[Koch Network - Charles Koch|Koch Network]]
 
 ---
 
@@ -150,8 +135,6 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 - [Wikipedia: Valero Energy](https://en.wikipedia.org/wiki/Valero_Energy) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ---
 
@@ -288,24 +271,7 @@ content-readiness:: ready
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264413 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
-
-**Recent press releases:**
-
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
-- ... and 264,407 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Valero%20Energy%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[The Insurrection Investment - Who Funded January 6th and What They Got]]"
+related: "[[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[_Donald Trump Master Profile]] · [[Save America PAC]] · [[TPUSA - Turning Point USA|Charlie Kirk]]"
 ---
-
 #jan6 #election-denial #donors #infrastructure #trump #fundraising
-
-related: [[_Donald Trump Master Profile]] [[Save America PAC]] Women for America First [[TPUSA - Turning Point USA|Charlie Kirk]] Ali Alexander [[TPUSA - Turning Point USA]] Conservative Donors Coalition
 
 ---
 
@@ -131,4 +128,3 @@ The question of donor liability for funding the infrastructure that created Janu
 - [Axios: Elon Musk's Political Evolution 2020-2025](https://www.axios.com/2024/11/elon-musk-trump-alliance) (Tier 3)
 - [State Campaign Finance Databases: Arizona, Wisconsin, Georgia Audit Campaign Spending](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=January%206th%20and%20Election%20Denial%20-%20Donors%20and%20Backers#[%7B1%7Cgro=d-id) (Tier 1)
 
-content-readiness:: ready

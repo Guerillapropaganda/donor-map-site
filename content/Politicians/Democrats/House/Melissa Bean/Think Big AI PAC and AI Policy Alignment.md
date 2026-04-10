@@ -2,14 +2,12 @@
 title: "Think Big AI PAC and AI Policy Alignment"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-10
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
+related: "[[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean's Corporate Background]] · [[Peter Thiel]] · [[Mark Zuckerberg]] · [[Elect Chicago Women Shell PAC Operation]]"
 ---
-
 #democrat #politician #house #illinois #ai-pac #think-big #leading-the-future #openai #a16z #deregulation #tech-donor
-
-related: [[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean's Corporate Background]] · [[Peter Thiel]] · [[Mark Zuckerberg]]
 
 donors: [[Think Big AI PAC]] · [[Leading the Future]]
 
@@ -136,4 +134,3 @@ Bean's IL-8 win without a Jobs and Democracy counter-investment reflects either 
 - [How allies of AI are ramping up their political donations for the midterms: CNN Politics](https://www.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2)- [Leading the Future - Wikipedia](https://en.wikipedia.org/wiki/Leading_the_Future) (Tier 3)
 ---
 
-content-readiness:: developed

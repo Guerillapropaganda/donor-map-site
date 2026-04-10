@@ -2,16 +2,13 @@
 title: "AB5 - Gig Worker Classification"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]]"
 ---
-
-
 #newsom #labor #AB5 #gig-workers #classification #dynamex #ABC-test #uber #lyft #doordash #carveouts #rhetoric-vs-record
 
-related: [[Prop 22 - The $200M Corporate Rollback]] | [[Labor - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[Uber]] | [[Lyft]] | [[DoorDash]]
 
 ---
@@ -112,4 +109,3 @@ AB5 was itself a kind of pilot. It tested whether California could push back on 
 - [Berkeley Law Network: Uber, Lyft Win on Prop 22 — most expensive ballot measure in California history](https://sites.law.berkeley.edu/thenetwork/2020/11/16/uber-lyft-win-on-prop-22-the-most-expensive-ballot-measure-in-californias-history/) (Tier 3)
 - [California Law Review: The Aftermath of California's Proposition 22](https://www.californialawreview.org/online/the-aftermath-of-californias-proposition-22) (Tier 3)
 
-content-readiness:: ready

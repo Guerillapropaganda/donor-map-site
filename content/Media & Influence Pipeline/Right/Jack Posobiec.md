@@ -231,4 +231,3 @@ Any editorial decision that contradicts these dependencies creates instant press
 
 ---
 
-content-readiness:: developed

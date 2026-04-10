@@ -2,19 +2,14 @@
 title: "Tariff Wars - The Working Class Tax Disguised as Trade Policy"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Trade and Tariffs - Donors and Backers]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]]"
 ---
-
 #donald-trump #tariffs #trade #liberation-day #usmca #china #farm-bailout #consumer-costs #nucor #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]]
-
 donors: [[Nucor Corporation]], [[American Iron and Steel Institute]], [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 
@@ -99,8 +94,6 @@ The January 2020 Phase One trade deal with China was framed as the payoff for th
 - [American Farm Bureau Federation. Farm Bankruptcy Data 2018 to 2020](https://www.fb.org/market-intel/) (Tier 2)
 - [U.S. International Trade Commission. USMCA Economic Impact Assessment](https://www.usitc.gov/publications/332/pub4889.pdf) (Tier 1)
 - [Chad Bown, Peterson Institute. US China Phase One Tracker](https://www.piie.com/research/piie-charts/us-china-phase-one-tracker) (Tier 2)
-
-research-status:: Temporal mapping complete. Consumer cost data sourced from CBO and Tax Foundation. Farm bailout data from USDA. Liberation Day tariffs and Supreme Court ruling documented through March 2026. Nucor and steel industry donor connections need deeper FEC documentation.
 
 ### Legislative Activity (Congress.gov)
 

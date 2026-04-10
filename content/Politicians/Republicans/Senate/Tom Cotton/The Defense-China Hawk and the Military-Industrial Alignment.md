@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Tom Cotton Master Profile]]
+related: "[[_Tom Cotton Master Profile]]"
 ---
-
-
 #tom-cotton #defense #china #armed-services #military #nyt-oped #immigration #class-analysis
 
-related: [[_Tom Cotton Master Profile]]
-
 donors: [[Lockheed Martin]] · [[Boeing]] · (Defense contractors — no specific nodes)
-
-content-readiness:: ready
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Tenet Healthcare"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -65,27 +65,12 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Cigna Group]]"
+related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 23648810
 total-assets: 24419400
-doj-press-mentions: "264413"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
 ---
-
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
-
-related: [[Hospital Corporation of America - HCA]] [[Blue Cross Blue Shield Association]] [[PhRMA]] [[Anthem - Elevance Health]] [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]
 
 ---
 
@@ -204,8 +189,6 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 - [Becker's Hospital Review: Tenet Spends $630K to Derail 'Medicare for All'](https://www.beckershospitalreview.com/hospital-management-administration/tenet-spends-630k-to-derail-medicare-for-all/) (Tier 2)
 - [Ballotpedia: Tenet Healthcare](https://ballotpedia.org/Tenet_Healthcare) (Tier 3)
 - [Tenet Healthcare: Disclosure of Political Expenditures](https://investor.tenethealth.com/governance/disclosure-of-political-expenditures/default.aspx) (Tier 1)
-
-content-readiness:: developed
 
 ---
 
@@ -356,21 +339,4 @@ content-readiness:: developed
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264413 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
-
-**Recent press releases:**
-
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
-- ... and 264,407 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Tenet%20Healthcare%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

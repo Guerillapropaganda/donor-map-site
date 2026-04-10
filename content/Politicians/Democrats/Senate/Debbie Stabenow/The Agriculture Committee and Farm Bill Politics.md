@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Debbie Stabenow Master Profile]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Glenn Thompson Master Profile|Thompson]]"
 ---
-
 #stabenow #michigan #agriculture #farm-bill #snap #auto #bipartisan
-
-related: [[_Debbie Stabenow Master Profile]] [[_Chuck Grassley Master Profile|Grassley]] [[_Glenn Thompson Master Profile|Thompson]]
 
 donors: [[Business Roundtable]] [[General Motors]] [[Ford Motor Company]]
 

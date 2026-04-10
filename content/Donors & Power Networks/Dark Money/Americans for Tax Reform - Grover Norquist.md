@@ -2,22 +2,19 @@
 title: "Americans for Tax Reform - Grover Norquist"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]]"
+related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[Club for Growth]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos Family]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #atr #norquist #tax-pledge #anti-tax #grover #lobbying #dark-money #republican
-
-related: [[Club for Growth]] [[Heritage Foundation]] [[ALEC - American Legislative Exchange Council]] [[Koch Industries]]
 
 ---
 

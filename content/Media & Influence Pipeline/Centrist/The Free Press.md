@@ -2,12 +2,12 @@
 title: "The Free Press"
 type: media-profile
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 category: centrist
 platform: substack
-related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Chris Cuomo]] · [[Megyn Kelly]] · [[Lex Fridman]] · [[Jordan Peterson]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]]"
+related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Chris Cuomo]] · [[Megyn Kelly]] · [[Lex Fridman]] · [[Jordan Peterson]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #centrist #media-network #heterodox #bari-weiss #free-press #tech-money

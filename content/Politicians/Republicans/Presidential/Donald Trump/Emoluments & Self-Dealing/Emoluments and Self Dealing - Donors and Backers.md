@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[The Grift Machine - How Trump Monetized the Presidency]]"
+related: "[[The Grift Machine - How Trump Monetized the Presidency]] · [[_Donald Trump Master Profile]] · [[Elon Musk|Musk]] · [[Miriam Adelson|Adelson]] · [[World Liberty Financial]] · [[Trump Crypto - The President as Personal Profiteer]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[_Jared Kushner Master Profile|Jared Kushner]]"
 ---
-
 #emoluments #self-dealing #conflict-of-interest #trump-organization #foreign-governments #grift
-
-related: [[_Donald Trump Master Profile]] [[Elon Musk|Musk]] [[Miriam Adelson|Adelson]] Thiel [[World Liberty Financial]] [[Trump Crypto - The President as Personal Profiteer]] [[CREW - Citizens for Responsibility and Ethics in Washington]] [[_Jared Kushner Master Profile|Jared Kushner]]
 
 ---
 
@@ -124,4 +121,3 @@ The Emoluments Clause remains unenforced because no federal court has adjudicate
 - [CREW: The Secret Service spent nearly $2 million at Trump properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-secret-service-spent-nearly-2-million-at-trump-properties/) (Tier 2)
 - [Miami New Times: Trump's Mar-a-Lago Club Membership Cost to Jump to $1 Million Ahead of Election](https://www.miaminewtimes.com/news/florida-mar-a-lago-club-membership-cost-to-jump-to-1m-20839209/) (Tier 2)
 
-content-readiness:: ready

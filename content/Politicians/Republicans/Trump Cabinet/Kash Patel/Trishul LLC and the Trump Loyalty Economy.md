@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Kash Patel Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Kash Patel Master Profile]] · [[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile|Steve Bannon]]"
 ---
-
-
 #kash-patel #trishul #consulting #trump-loyalty #save-america #epoch-times #class-analysis #follow-the-money
-
-related: [[_Kash Patel Master Profile]] · [[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile|Steve Bannon]]
 
 donors: [[Trump Media & Technology Group]] The Epoch Times
 

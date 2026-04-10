@@ -2,18 +2,15 @@
 title: "Insurance Industry Writes Its Own Regulation Through Both Parties"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 issues:
   - "Healthcare"
-related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Nancy Pelosi Master Profile|Nancy Pelosi]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Joe Manchin Master Profile|Joe Manchin]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[_John McCain Master Profile|John McCain]] · [[_Lisa Murkowski Master Profile|Lisa Murkowski]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
-
 #investigation #contradiction #insurance #healthcare #public-option #medicare-advantage #aca #bipartisan-consensus #class-analysis #revolving-door
 tags: #analysis #story
-
-related: [[_Nancy Pelosi Master Profile|Nancy Pelosi]] [[_Joe Biden Master Profile|Joe Biden]] [[_Barack Obama Master Profile|Barack Obama]] [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] [[_Joe Manchin Master Profile|Joe Manchin]] [[_Chuck Schumer Master Profile|Chuck Schumer]] [[_Susan Collins Master Profile|Susan Collins]] [[_John McCain Master Profile|John McCain]] [[_Lisa Murkowski Master Profile|Lisa Murkowski]]
 
 ---
 
@@ -131,6 +128,3 @@ The contradiction is not that the system fails. The contradiction is that both p
 
 ---
 
-research-status:: reference
-content-readiness:: developed
-                   

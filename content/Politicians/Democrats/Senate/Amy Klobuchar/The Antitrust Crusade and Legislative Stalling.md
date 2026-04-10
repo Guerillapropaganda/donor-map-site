@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: "[[_Amy Klobuchar Master Profile]]"
+related: "[[_Amy Klobuchar Master Profile]] · [[Google - Alphabet]] · [[Apple]] · [[Meta - Facebook Political Operation|Meta]] · [[Amazon]] · [[Microsoft]] · [[_Mike Lee Master Profile|Lee]]"
 ---
-
 #klobuchar #minnesota #antitrust #tech #judiciary #competition #bipartisan #follow-the-money #class-analysis
-
-related: [[_Amy Klobuchar Master Profile]] · [[Google - Alphabet]] · [[Apple]] · [[Meta - Facebook Political Operation|Meta]] · [[Amazon]] · [[Microsoft]] · [[_Mike Lee Master Profile|Lee]]
 
 donors: [[Google - Alphabet]] · [[Microsoft]] · [[Amazon]] · [[Apple]] · [[Meta - Facebook Political Operation|Meta]]
 
@@ -77,4 +75,3 @@ Klobuchar herself acknowledged the structural reality in December 2024 after thr
 - [Wikipedia: American Innovation and Choice Online Act](https://en.wikipedia.org/wiki/American_Innovation_and_Choice_Online_Act) (Tier 3)
 - [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3)
 
-content-readiness:: developed

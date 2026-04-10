@@ -2,18 +2,15 @@
 title: "AIPAC Super PAC Spending Map"
 type: reference
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 issues:
   - "Israel & Foreign Policy"
-related: "[[The AIPAC Primary Machine and Foreign Affairs Removal]]"
+related: "[[The AIPAC Primary Machine and Foreign Affairs Removal]] 路 [[AIPAC - American Israel Public Affairs Committee|AIPAC]] 路 [[United Democracy Project - UDP|UDP]] 路 [[DMFI - Democratic Majority for Israel|DMFI]] 路 [[Israel - Government Lobbying Operation]]"
 ---
-
 #aipac #israel #super-pac #udp #primary #election #spending
-
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|UDP]] [[DMFI - Democratic Majority for Israel|DMFI]]
 
 ---
 
@@ -61,4 +58,3 @@ UDP/AIPAC's spending is funded by a relatively small number of wealthy donors 鈥
 - [OpenSecrets: DMFI spending](https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00764431/) (Tier 1)
 - [Ballotpedia: 2024 AIPAC primary spending](https://ballotpedia.org/AIPAC) (Tier 3)
 
-content-readiness:: ready

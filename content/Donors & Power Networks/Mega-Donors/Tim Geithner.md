@@ -2,7 +2,7 @@
 title: "Tim Geithner"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -27,7 +27,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
 total-political-spend: "$469,350"
-related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]]"
+related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]] · [[Goldman Sachs]] · [[_Barack Obama Master Profile|Obama]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
 court-cases: 46
 last-enriched: "2026-04-08"
 court-jurisdictions:
@@ -42,10 +42,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. California"
 ---
-
 #donor #revolving-door #wall-street #treasury #warburg-pincus #bailout #financial-crisis #class-analysis #follow-the-money
-
-related: [[Goldman Sachs]] · [[_Barack Obama Master Profile|Obama]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Citigroup]]
 
 ---
 
@@ -171,8 +168,6 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 
 ---
 
-research-status:: ready — Full expansion from 39 to 160+ lines. FEC data Chrome-verified (31 contributions, $450K+, 100% Democratic). ProPublica Bailout Tracker verified ($634.8B). Warburg Pincus bio verified. Ballotpedia link removed (no page exists — Geithner was appointed, never elected). OpenSecrets revolving door URL format valid but site 502 at verification time. Complete donor node anatomy: Who They Are → What They Want → Who They Fund → What They've Gotten (Format 2 timeline, 8 rows) → The Revolving Door → Class Analysis → Capture Architecture → Sources. 7 sources (Tier 1–3).
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

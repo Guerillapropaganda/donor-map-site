@@ -2,7 +2,7 @@
 title: "WinRed"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -17,16 +17,13 @@ federal-register-mentions: 1
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Federal Election Commission"
-related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]]"
+related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]] · [[ActBlue]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]]"
 sec-filings: 2
 sec-form-types:
   - "10-K"
   - "EX-10"
 ---
-
 #winred #republican #fundraising #small-dollar #dark-patterns #online
-
-related: [[ActBlue]] [[_Donald Trump Master Profile|Trump]] [[Save America PAC]] [[MAGA Inc]]
 
 ---
 
@@ -72,8 +69,6 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 - [New York Times: Trump's campaign refunded $122 million in recurring donations](https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html) (Tier 2)
 - [Washington Post: Four states' AGs investigate pre-checked recurring donation boxes on WinRed and ActBlue](https://www.washingtonpost.com/local/md-politics/attorney-generals-donations-winred-actblue/2021/07/08/671a6af6-e045-11eb-ae31-6b7c5c34f0d6_story.html) (Tier 2)
 - [Ballotpedia: WinRed](https://ballotpedia.org/WinRed) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

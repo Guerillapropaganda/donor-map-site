@@ -19,14 +19,11 @@ ofac-programs:
 total-received: "$922,124"
 fec-candidate-id: "H8FL27185"
 donors: "[[Bacardi - Bacardi USA]]"
+related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana
 
-related: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
-profile-status:: developed
 
 ---
 
@@ -108,9 +105,6 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 - [Wikipedia: Maria Elvira Salazar](https://en.wikipedia.org/wiki/Maria_Elvira_Salazar) (Tier 3)
 
 ---
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Legislative Activity (Congress.gov)
 

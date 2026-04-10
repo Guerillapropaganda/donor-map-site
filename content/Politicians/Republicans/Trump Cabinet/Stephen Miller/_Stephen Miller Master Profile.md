@@ -24,11 +24,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]]"
 ---
-
 #stephen-miller #republican #immigration #white-house #america-first-legal #dark-money #family-separation #class-analysis #follow-the-money #alien-enemies-act #denaturalization #birthright-citizenship
-
-related: [[_Donald Trump Master Profile]] [[_Steve Bannon Master Profile]] [[_Russell Vought Master Profile]] [[America First Legal and the Dark Money Architecture]]
 
 donors: [[DonorsTrust]] [[Bradley Impact Fund]]
 

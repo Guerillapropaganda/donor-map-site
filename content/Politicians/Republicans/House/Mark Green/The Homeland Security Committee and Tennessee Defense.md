@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Mark Green Master Profile]] · [[_Bennie Thompson Master Profile|Thompson]]"
 ---
-
 #green #tennessee #homeland-security #defense #border #healthcare #army
-
-related: [[_Mark Green Master Profile]] [[_Bennie Thompson Master Profile|Thompson]]
 
 donors: [[Lockheed Martin]]
 

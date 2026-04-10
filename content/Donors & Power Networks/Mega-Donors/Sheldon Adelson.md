@@ -33,12 +33,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+related: "[[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Israel and Foreign Policy - Donors and Backers]]"
 ---
-
-
 #donor #mega-donor #israel-lobby #casino #deceased #miriam-adelson #republican #foreign-policy #jerusalem #iran
-
-related: [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] [[The Iran War Money Trail - From Adelson to Airstrikes]] [[_Donald Trump Master Profile|Trump]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Israel and Foreign Policy - Donors and Backers]]
 
 ---
 
@@ -188,8 +185,6 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 - [The Hill: Adelson Widow Cuts Back Donations (2022)](https://thehill.com/homenews/campaign/3626124-sheldon-adelsons-widow-cuts-back-on-gop-donations/) (Tier 2)
 
 ---
-
-content-readiness:: developed
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

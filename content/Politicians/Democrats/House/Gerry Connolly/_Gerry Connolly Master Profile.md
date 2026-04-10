@@ -15,15 +15,11 @@ committees:
 leadership-roles:
   - "Ranking Member"
 donors: "[[Tech Industry]] · [[Booz Allen Hamilton]]"
+related: "[[_Donald Trump Master Profile|Trump]]"
 ---
-
 #gerry-connolly #democrat #virginia #house #oversight #ranking-member #federal-workforce #government-contractors #FITARA #IT-modernization #doge #deceased #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -137,8 +133,6 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 - [Federal News Network: Connolly argues for Technology Modernization Fund](https://federalnewsnetwork.com/congress/2020/05/congressman-argues-for-boosting-technology-modernization-fund-by-40x/) (Tier 2)
 - [Ballotpedia: Gerald Connolly](https://ballotpedia.org/Gerald_Connolly) (Tier 3)
 - [Wikipedia: Gerry Connolly](https://en.wikipedia.org/wiki/Gerry_Connolly) (Tier 3)
-
-content-readiness:: ready
 
 ### Voting Record
 

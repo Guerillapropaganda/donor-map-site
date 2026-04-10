@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Brett Kavanaugh Master Profile]]
+related: "[[_Brett Kavanaugh Master Profile]] · [[_Lee Zeldin Master Profile]]"
 ---
-
-
 #brett-kavanaugh #executive-power #epa #deregulation #starr-report #bush-v-gore #class-analysis
 
-related: [[_Brett Kavanaugh Master Profile]] [[_Lee Zeldin Master Profile]]
-
 donors: [[Fossil Fuel Bloc]]
-
-content-readiness:: ready
 
 ---
 

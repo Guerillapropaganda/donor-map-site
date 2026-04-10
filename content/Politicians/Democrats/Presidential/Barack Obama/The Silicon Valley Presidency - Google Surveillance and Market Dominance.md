@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Barack Obama Master Profile]]
+related: "[[_Barack Obama Master Profile]] · [[Google]] · [[Apple]] · [[Silicon Valley Democratic Donor Network]]"
 ---
-
-
 #obama #silicon-valley #google #apple #surveillance #nsa #prism #antitrust #class-analysis #follow-the-money #tech-monopoly
-
-related: [[_Barack Obama Master Profile]] · [[Google]] · [[Apple]] · Keith Alexander · [[Silicon Valley Democratic Donor Network]]
 
 donors: [[Google]], [[Apple]], [[Silicon Valley Democratic Donor Network]]
 

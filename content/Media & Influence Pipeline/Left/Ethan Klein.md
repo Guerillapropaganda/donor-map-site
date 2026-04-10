@@ -12,7 +12,6 @@ related: "[[Google - Alphabet|Google / YouTube]] · [[Silicon Valley Democratic 
 
 #media-pipeline #left #youtube #podcast #platform-dependency #audience-capture #independence-theater
 
-
 ---
 
 ### Who They Are
@@ -189,4 +188,3 @@ Klein's model also illustrates the limits of "independence" in creator economy m
 - [Graphtreon: Ethan and Hila Klein Patreon stats](https://graphtreon.com/creator/h3h3productions) (Tier 3)
 - [All About Lawyer: H3h3 Lawsuit Update, Ethan Klein's 2025 Legal Battles Explained](https://allaboutlawyer.com/h3h3-lawsuit-update-ethan-kleins-2025-legal-battles-explained-copyright-defamation-whats-next/) (Tier 3)
 
-content-readiness:: ready

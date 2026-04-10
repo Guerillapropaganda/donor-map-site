@@ -2,16 +2,13 @@
 title: "Education - Donors and Backers"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Economic Policy - Donors and Backers]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Universal Pre-K and Transitional Kindergarten]] · [[_Gavin Newsom Master Profile]] · [[The Education Committee and Labor Alignment]]"
 ---
-
-
 #newsom #education #donors #backers #CTA #charter-schools #billionaire-philanthropy #follow-the-money #research-node #donor-tension #class-analysis
 
-related: [[Charter Schools and the Billionaire Reform Movement]] | [[COVID School Closures - Learning Loss and Class Division]] | [[Ethnic Studies - Whose History Gets Taught]] | [[Universal Pre-K and Transitional Kindergarten]] | [[_Gavin Newsom Master Profile]]
 donors: [[CTA - California Teachers Association]] | [[Eli Broad Foundation]] | [[Walton Family Foundation]] | CA Charter Schools Association | [[JPAC - Jewish Public Affairs Committee of California|JPAC]] | JCRC
 
 ---
@@ -102,4 +99,3 @@ Universal Pre-K / Transitional Kindergarten ($50M+ budget lines) are marketed as
 - [CalMatters: Education funding and charter school politics](https://calmatters.org/category/education/) (Tier 2)
 - [PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private) (Tier 3)
 
-content-readiness:: ready

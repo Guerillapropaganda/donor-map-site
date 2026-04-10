@@ -14,11 +14,9 @@ issues:
   - "Technology"
 total-received: "$2,785,989"
 fec-candidate-id: "H8CA11116"
+related: "[[National Multifamily Housing Council]] · [[Real Estate Donors]]"
 ---
-
 #politician #democrat #california #state-senate #housing #yimby #tech #lgbtq #class-analysis #follow-the-money
-
-related: [[National Multifamily Housing Council]] · [[Real Estate Donors]]
 
 ---
 
@@ -118,9 +116,6 @@ Wiener uses technocratic framing — "supply and demand," "evidence-based housin
 - [The Advocate: Wiener endorsed by five organizations](https://www.advocate.com/politics/scott-wiener-endorsed-five-organizations) (Tier 3)
 
 ---
-
-profile-status:: draft
-content-readiness:: draft
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Rick Larsen Master Profile]] · [[Boeing]] · [[_Sam Graves Master Profile|Graves]]"
 ---
-
 #larsen #washington #transportation #boeing #aviation #defense #infrastructure
-
-related: [[_Rick Larsen Master Profile]] [[Boeing]] [[_Sam Graves Master Profile|Graves]]
 
 donors: [[Boeing]]
 

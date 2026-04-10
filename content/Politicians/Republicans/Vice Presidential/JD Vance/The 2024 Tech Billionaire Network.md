@@ -5,13 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_JD Vance Master Profile]]
-related: "[[Narya Capital and the Venture Capital Pipeline]]"
+related: "[[Narya Capital and the Venture Capital Pipeline]] · [[_JD Vance Master Profile]] · [[Elon Musk]] · [[Peter Thiel]] · [[Marc Andreessen & Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[The Thiel Pipeline - From Yale to VP]]"
 ---
-
-
 #donor-network #2024-election #silicon-valley
-
-related: [[_JD Vance Master Profile]] · [[Elon Musk]] · [[Peter Thiel]] · [[Marc Andreessen & Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[The Thiel Pipeline - From Yale to VP]]
 
 donors: [[Peter Thiel]] · [[Elon Musk]] · [[Marc Andreessen & Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Eric Schmidt]] · [[Crypto Industry Bloc]]
 
@@ -210,4 +206,3 @@ The tech billionaire network is not investing in Trump anymore. Trump is aging, 
 
 **content-readiness:** developed
 **last-updated:** 2026-03-20
-content-readiness:: ready

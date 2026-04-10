@@ -10,16 +10,13 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
-related: "[[Mark Zuckerberg]]"
+related: "[[Mark Zuckerberg]] · [[Meta - Facebook]] · [[Google - Alphabet]] · [[Apple]]"
 sec-filings: 2
 sec-form-types:
   - "253G1"
   - "PART II AND III"
 ---
-
 #tiktok #bytedance #china #social-media #ban #data #lobbying #foreign
-
-related: [[Meta - Facebook]] [[Google - Alphabet]] [[Apple]]
 
 ---
 
@@ -54,8 +51,6 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 - [Congress.gov: Protecting Americans from Foreign Adversary Controlled Applications Act](https://www.congress.gov/bill/118th-congress/house-bill/7521) (Tier 1)
 - [Supreme Court: TikTok v. Garland](https://www.supremecourt.gov/search.aspx?Search=TikTok%20-%20ByteDance) (Tier 1)
 - [Ballotpedia: TikTok ban](https://ballotpedia.org/TikTok_-_ByteDance) (Tier 3)
-
-content-readiness:: ready
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

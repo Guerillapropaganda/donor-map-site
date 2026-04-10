@@ -2,7 +2,7 @@
 title: "SEIU - Service Employees International Union"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -19,26 +19,10 @@ annual-revenue: "$14.9M"
 net-assets: "$8.2M"
 tax-year: "2023"
 total-political-spend: "$15,473,514"
-related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[Nancy Pelosi Master Profile]] · [[Laphonza Butler]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[Katie Porter Master Profile]] · [[Gretchen Whitmer Master Profile]]"
-doj-press-mentions: "264413"
+related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[Nancy Pelosi Master Profile]] · [[Laphonza Butler]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[Katie Porter Master Profile]] · [[Gretchen Whitmer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[CNA - California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[Ash Kalra]]"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
 ---
-
-
 #donor #union #SEIU #healthcare #public-sector #labor #class-analysis #follow-the-money #california #national #home-care #minimum-wage #fast-food #fight-for-15
-
-related: [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[CNA - California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]]
 
 ---
 
@@ -186,9 +170,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 - [OpenSecrets: SEIU lifetime giving data](https://www.opensecrets.org/orgs/service-employees-international-union/totals?id=D000000077) (Tier 1)
 - [California Governor's Office: AB 1228 Fast Food Worker Wage](https://www.gov.ca.gov/2023/09/28/california-increases-minimum-wage-protections-for-fast-food-workers/) (Tier 1)
 
-research-status:: ready — Full citation pass, source format standardized. Temporal mapping (11 entries), $232.7M lifetime giving, Fight for $15, Janus impact, Newsom transaction documented. All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
-content-readiness:: ready
-
 ---
 
 ### March 2026 Update — Autonomous Vehicles and Contract Negotiations
@@ -228,21 +209,4 @@ content-readiness:: ready
 <!-- auto:fec-donor end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264413 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
-
-**Recent press releases:**
-
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
-- ... and 264,407 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22SEIU%20-%20Service%20Employees%20International%20Union%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

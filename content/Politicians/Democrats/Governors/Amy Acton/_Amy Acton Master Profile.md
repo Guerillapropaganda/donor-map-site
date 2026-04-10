@@ -23,11 +23,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]] · [[EMILY's List]] · [[UAW - United Auto Workers|UAW]] · [[AFGE - American Federation of Government Employees|AFGE]] · [[Ohio AFL-CIO]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Amy Acton Master Profile]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[The COVID Tenure and the Political Fallout]] · [[The Healthcare Platform and the Insurance Industry Question]] · [[The Labor Coalition and What Unions Expect]]"
 ---
-
 #amy-acton #democrat #ohio #governor #public-health #2026-governor-race #grassroots #covid #class-analysis #follow-the-money #master-profile
-
-related: [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]] · [[EMILY's List]] · [[UAW - United Auto Workers|UAW]] · [[AFGE - American Federation of Government Employees|AFGE]] · [[Ohio AFL-CIO]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Amy Acton Master Profile]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[The COVID Tenure and the Political Fallout]] · [[The Healthcare Platform and the Insurance Industry Question]] · [[The Labor Coalition and What Unions Expect]]
 
 donors: [[Ohio Democratic Party]], [[Ohio Federation of Teachers]], [[UAW - United Auto Workers|UAW]], [[AFGE - American Federation of Government Employees|AFGE]], [[Ohio AFL-CIO]]
 

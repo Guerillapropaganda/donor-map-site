@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jerry Moran Master Profile]] · [[Boeing]] · [[Koch Industries]]"
 ---
-
 #moran #kansas #veterans #defense #agriculture #appropriations #fort-riley
-
-related: [[_Jerry Moran Master Profile]] [[Boeing]] [[Koch Industries]]
 
 donors: [[Koch Industries]] [[Boeing]] [[Northrop Grumman]]
 

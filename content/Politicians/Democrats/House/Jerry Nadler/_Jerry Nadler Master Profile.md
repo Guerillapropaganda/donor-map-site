@@ -24,11 +24,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]]"
 ---
-
 #politician #democrat #house #new-york #judiciary #antitrust #real-estate #israel #class-analysis #follow-the-money #gavel-power
-
-related: [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]]
 
 ---
 

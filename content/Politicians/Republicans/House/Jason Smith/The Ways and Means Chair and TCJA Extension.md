@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jason Smith Master Profile]] · [[_Richard Neal Master Profile|Richard Neal]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[US Chamber of Commerce]] · [[Business Roundtable]]"
 ---
-
 #smith #ways-and-means #tax-policy #tcja #missouri #corporate-tax #carried-interest
-
-related: [[_Jason Smith Master Profile]] [[_Richard Neal Master Profile|Richard Neal]] [[Goldman Sachs]] [[Blackstone Group]] [[US Chamber of Commerce]] [[Business Roundtable]]
 
 donors: [[Goldman Sachs]] [[Koch Network - Charles Koch]] [[US Chamber of Commerce]] [[National Association of Realtors]]
 

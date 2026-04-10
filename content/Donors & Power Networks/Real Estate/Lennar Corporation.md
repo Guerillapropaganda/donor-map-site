@@ -34,18 +34,6 @@ court-jurisdictions:
   - "United States Bankruptcy Court, S.D. Texas"
 lei: "529900G61XVRLX5TJX09"
 lei-jurisdiction: "US-DE"
-doj-press-mentions: "264349"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
 federal-register-mentions: 7
 regulatory-agencies:
   - "Environmental Protection Agency"
@@ -53,7 +41,7 @@ regulatory-agencies:
   - "Fish and Wildlife Service"
   - "Interior Department"
   - "Securities and Exchange Commission"
-related: "[[Housing - Donors and Backers]]"
+related: "[[Housing - Donors and Backers]] · [[National Association of Realtors]] · [[Blackstone Real Estate]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Ron DeSantis Master Profile|Ron DeSantis]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Carlos Gimenez Master Profile|Carlos Gimenez]] · [[Bipartisan Policy Center]]"
 source-types:
   - Courts
   - DOJ
@@ -66,10 +54,7 @@ known-gaps:
 lobbying-spend: 0
 lobbying-filings: 8
 ---
-
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
-
-related: [[National Association of Realtors]] [[Blackstone Real Estate]] [[Invitation Homes - Institutional Landlords]] [[Real Estate Industry Bloc]] [[Real Estate Development Industry Bloc]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[_Ron DeSantis Master Profile|Ron DeSantis]] [[_Donald Trump Master Profile|Donald Trump]] [[_Carlos Gimenez Master Profile|Carlos Gimenez]] [[Bipartisan Policy Center]]
 
 ---
 
@@ -201,8 +186,6 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 - [CBS San Francisco: Hunters Point Shipyard Residents Reach $6.3M Settlement In Radiation Lawsuit](https://www.cbsnews.com/sanfrancisco/news/hunters-point-shipyard-residents-radiation-settlement/) (Tier 2)
 - [Ballotpedia: Lennar Corporation](https://ballotpedia.org/Lennar_Corporation) (Tier 3)
 
-content-readiness:: developed
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
@@ -268,24 +251,7 @@ content-readiness:: developed
 <!-- auto:gleif-lei end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264349 |
-| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
-- ... and 264,343 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Lennar%20Corporation%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Zoe Lofgren Master Profile]] · [[Google - Alphabet]] · [[Apple]] · [[_Alex Padilla Master Profile|Padilla]] · [[_Ro Khanna Master Profile|Khanna]]"
 ---
-
 #lofgren #california #immigration #silicon-valley #h1b #administration #tech
-
-related: [[_Zoe Lofgren Master Profile]] [[Google - Alphabet]] [[Apple]] [[_Alex Padilla Master Profile|Padilla]] [[_Ro Khanna Master Profile|Khanna]]
 
 donors: [[Google - Alphabet]] [[Apple]] [[Microsoft]]
 

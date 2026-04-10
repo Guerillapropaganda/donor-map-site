@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Kyrsten Sinema Master Profile]]
+related: "[[_Kyrsten Sinema Master Profile]] · [[_Joe Manchin Master Profile]]"
 ---
-
-
 #kyrsten-sinema #carried-interest #private-equity #wall-street #ira #2022 #class-analysis
 
-related: [[_Kyrsten Sinema Master Profile]] · [[_Joe Manchin Master Profile]]
-
 donors: [[Wall Street Bloc]] · Private Equity Donors
-
-content-readiness:: ready
 
 ---
 

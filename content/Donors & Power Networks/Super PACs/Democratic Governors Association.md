@@ -2,7 +2,7 @@
 title: "Democratic Governors Association"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -15,16 +15,13 @@ regulatory-agencies:
   - "Coast Guard"
   - "Federal Election Commission"
   - "Homeland Security Department"
-related: "[[JB Pritzker Master Profile]]"
+related: "[[JB Pritzker Master Profile]] · [[Illinois Future PAC]]"
 ein: "274862860"
 nonprofit-status: "501(c)(3)"
 total-revenue: 1131836
 total-assets: 912774
 ---
-
 #democratic-governors-association #DGA #super-pac #gubernatorial #party-committee #corporate-donors #pharma
-
-related: Republican Governors Association State Gubernatorial Elections Party Committee Structure Corporate Political Spending
 
 ---
 
@@ -125,8 +122,6 @@ The asymmetry between DGA's stated goal (elect Democratic governors) and its act
 - [Center for Public Integrity: How Democrats use dark money and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)
 - [Center for Responsive Politics: State-level mega-donor spending](https://www.opensecrets.org/news/) (Tier 2)
 - [Ballotpedia: 2022 Gubernatorial Elections](https://ballotpedia.org/2022_United_States_gubernatorial_elections) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 3
 parent: [[_Ashley Hinson Master Profile]]
+related: "[[_Ashley Hinson Master Profile|Ashley Hinson]]"
 ---
-
 #politician #ashley-hinson #agriculture #ethanol #subsidies #iowa
 
 tags: #republican
-
-related:: [[_Ashley Hinson Master Profile|Ashley Hinson]] Agriculture and Ethanol Industry Funding Farm Bill and Subsidy Politics
 
 donors:: Agriculture Industry PACs Ethanol Producers Association Farm Bureau PACs
 
@@ -59,5 +57,3 @@ Hinson's agricultural advocacy follows the standard Republican donor-service mod
 
 ---
 
-content-readiness:: ready
-research-status:: active

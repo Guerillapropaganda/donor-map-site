@@ -32,11 +32,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]"
 ---
-
 #neal #master-profile #house #massachusetts #ways-and-means #insurance #pharma #corporate-democrat #blocker
-
-related: [[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]
 
 donors: [[MassMutual]], [[Fidelity Investments]], MetLife, NAIFA - National Association of Insurance and Financial Advisors, New York Life, [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]], Pharma Industry PACs
 

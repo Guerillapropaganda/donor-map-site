@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Brian Babin Master Profile]]"
+related: "[[_Brian Babin Master Profile]] · [[ExxonMobil]] · [[Koch Industries]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
 #babin #texas #science #petrochemical #nasa #energy #climate-denial #exxonmobil #follow-the-money #class-analysis #knowledge-suppression #revolving-door
-
-related: [[_Brian Babin Master Profile]] [[ExxonMobil]] [[Koch Industries]] [[_Donald Trump Master Profile|Trump]]
 
 donors: [[ExxonMobil]] [[Koch Industries]]
 
@@ -116,4 +114,3 @@ The **Knowledge-Suppression Pipeline**: Oil & Gas PAC money → Science Committe
 
 ---
 
-content-readiness:: developed

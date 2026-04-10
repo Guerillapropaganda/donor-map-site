@@ -2,7 +2,7 @@
 title: "JB Pritzker"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -40,16 +40,13 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 lobbying-spend: 5422000
 lobbying-filings: 87
-related: "[[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar Self-Funded Governor]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]]"
+related: "[[Juliana Stratton Master Profile]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Cory Booker]] · [[The 323 Million Dollar Self-Funded Governor]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Democratic Donor Network]] · [[Democratic Governors Association]] · [[Think Big America]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Gretchen Whitmer Master Profile|Gretchen Whitmer]] · [[Raja Krishnamoorthi]]"
 donors: "[[Illinois Future PAC]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 216153059
 total-assets: 281327431
 ---
-
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
-
-related: [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Democratic Donor Network]] · [[Democratic Governors Association]] · [[Think Big America]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Gretchen Whitmer Master Profile|Gretchen Whitmer]]
 
 ---
 
@@ -174,9 +171,6 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 - [STLPR: Self-funded candidates and dark money cloud Illinois politics](https://www.stlpr.org/government-politics-issues/2024-01-10/illinois-politics-marred-by-deep-pocketed-self-funded-candidates-and-dark-money) (Tier 2)
 
 ---
-
-research-status:: developed — Full self-funding history across 2018/2022/2026 campaigns. DGA $24M maneuver documented. Think Big America dark money operation sourced. Toilet tax scandal sourced. Class analysis complete with Self-Funding as Independence, Dark Money Symmetry, and Genuine Win + Structural Limit patterns flagged. Gaps: individual Pritzker family trust/offshore structure documentation needs primary source (IRS/court records); Hyatt heat lamp incident needs primary source citation; Pritzker Organization and Pritzker Group PAC breakdown from OpenSecrets not yet incorporated; 2022 campaign finance totals need FEC primary source citation.
-content-readiness:: developed
 
 ---
 

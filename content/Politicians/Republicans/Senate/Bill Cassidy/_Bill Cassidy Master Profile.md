@@ -22,11 +22,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]]"
 ---
-
 #bill-cassidy #senate #louisiana #physician #petrochemical #fossil-fuel #impeachment #bipartisan #class-analysis
-
-related: [[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · Bipartisan Infrastructure Group
 
 donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - Charles Koch]]
 

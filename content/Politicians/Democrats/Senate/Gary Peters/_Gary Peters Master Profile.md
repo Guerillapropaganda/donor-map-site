@@ -43,12 +43,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Brian Schatz Master Profile|Brian Schatz]]"
 ---
-
-
 #gary-peters #democrat #michigan #senate #dscc-chair #homeland-security #defense #cybersecurity #wall-street #investment-banker #class-analysis #follow-the-money
-
-related: [[_Debbie Stabenow Master Profile|Debbie Stabenow]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Brian Schatz Master Profile|Brian Schatz]]
 
 donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW - United Auto Workers]] · [[Real Estate Industry]]
 

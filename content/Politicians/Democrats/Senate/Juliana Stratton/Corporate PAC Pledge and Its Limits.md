@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
+related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Illinois Senate Primary Money War]] · [[_JB Pritzker Master Profile|JB Pritzker]]"
 ---
-
 #juliana-stratton #campaign-finance #corporate-pac #2026-senate
 
 tags: #democrat
-
-related: [[_Juliana Stratton Master Profile|Juliana Stratton]] [[Illinois Senate Primary Money War]] [[_JB Pritzker Master Profile|JB Pritzker]]
 
 donors: [[_JB Pritzker Master Profile|JB Pritzker]] [[Illinois Future PAC]]
 
@@ -110,5 +108,3 @@ What the pledge accomplishes is rhetorical: it allows a politician to claim anti
 
 ---
 
-research-status:: active
-content-readiness:: ready

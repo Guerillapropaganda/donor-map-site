@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jim McGovern Master Profile]] · [[_Chip Roy Master Profile|Roy]]"
 ---
-
 #mcgovern #massachusetts #rules #hunger #snap #food-policy #procedural
-
-related: [[_Jim McGovern Master Profile]] [[_Chip Roy Master Profile|Roy]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]]
 

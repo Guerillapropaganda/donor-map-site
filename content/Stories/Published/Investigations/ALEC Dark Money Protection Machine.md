@@ -136,4 +136,3 @@ The divide is stark: ALEC states are creating legal infrastructure for unaccount
 - [IRS Form 990: ALEC (ProPublica Nonprofit Explorer)](https://projects.propublica.org/nonprofits/organizations/351663067) (Tier 1)
 - [State Legislative Records: Personal Privacy Protection Act Tracking](https://ballotpedia.org/ALEC_Dark_Money_Protection_Machine) (Tier 2)
 
-content-readiness:: ready

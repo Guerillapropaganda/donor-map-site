@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Marco Rubio Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
 #rubio #china #secretary-of-state #taiwan #national-security #tech #hawks
-
-related: [[_Marco Rubio Master Profile]] [[_Donald Trump Master Profile]]
 
 donors: [[Lockheed Martin]] [[Raytheon (RTX)]] [[Northrop Grumman]]
 

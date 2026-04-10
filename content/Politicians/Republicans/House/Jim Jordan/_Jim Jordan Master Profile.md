@@ -23,12 +23,9 @@ bills-sponsored: 1
 bills-cosponsored: 16
 website: "https://jordan.house.gov"
 phone: "202-225-2676"
+related: "[[_Mike Johnson Master Profile]] · [[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Kash Patel Master Profile]]"
 ---
-
-
 #jim-jordan #house #freedom-caucus #january-6 #osu-scandal #judiciary #weaponization #koch #class-analysis #follow-the-money
-
-related: [[_Mike Johnson Master Profile]] [[_Donald Trump Master Profile]] [[_Steve Bannon Master Profile]] [[_Kash Patel Master Profile]]
 
 donors: [[Koch Network - Charles Koch]], [[Club for Growth]]
 
@@ -104,7 +101,6 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 >
 > **Weaponization protection racket:** MAGA megadonors fund committee → Jordan investigates the prosecutors investigating Trump's donor network. The committee's function is donor protection through the oversight mechanism.
 
-
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Jordan's successful blocking of bipartisan spending deals through the Freedom Caucus is a real victory for his Koch/Club for Growth donors, but stops short of threatening the donor class's core interests in tax avoidance and regulatory exemption. His governance victories achieve austerity (which benefits wealthy donors by reducing public spending) without challenging the tax structure itself.
@@ -132,7 +128,6 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 - [Club for Growth: Jim Jordan Scorecard](https://www.clubforgrowth.org/scorecards/legislator/J000289/Jim-Jordan/) (Tier 3)
 - [CNN: Jim Jordan's speakership bid ends after third lost vote](https://www.cnn.com/politics/live-news/house-speaker-vote-10-20-23/index.html) (Tier 2)
 content-readiness:: ready
- 
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

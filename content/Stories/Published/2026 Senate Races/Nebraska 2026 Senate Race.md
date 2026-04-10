@@ -7,13 +7,11 @@ source-tier: 2
 parent: null
 known-gaps:
   - "No mapped relationships"
+related: "[[_Dan Osborn Master Profile]] · [[Senate Majority PAC]] · [[Republican Party Apparatus]]"
 ---
-
 #2026-election #senate #nebraska #race-frame
 
 tags: #analysis #story
-
-related:: Pete Ricketts [[_Dan Osborn Master Profile]] [[Senate Majority PAC]] [[Republican Party Apparatus]]
 
 donors:: [[Republican Party Apparatus]] Senate Majority PAC - Democratic Dark Money
 

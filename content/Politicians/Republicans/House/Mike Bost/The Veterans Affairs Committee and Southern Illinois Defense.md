@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Mike Bost Master Profile]] · [[_Mark Takano Master Profile|Takano]] · [[Boeing]]"
 ---
-
 #bost #illinois #veterans #defense #coal #agriculture #scott-afb
-
-related: [[_Mike Bost Master Profile]] [[_Mark Takano Master Profile|Takano]] [[Boeing]]
 
 donors: [[Boeing]]
 

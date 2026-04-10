@@ -87,8 +87,6 @@ He is not corrupt in the transactional sense. He believes in progressive values 
 
 ---
 
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

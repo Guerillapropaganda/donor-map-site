@@ -2,12 +2,12 @@
 title: "Urban Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
+related: "[[Goldman Sachs]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Center for American Progress]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 lei: "984500C6P0VF15B8E658"
 lei-jurisdiction: "IN"
 ein: "520880375"
@@ -18,7 +18,6 @@ total-assets: 311581937
 ---
 
 #think-tank #liberal #housing #poverty #healthcare #tax-policy #urban-policy #government-funded #class-analysis
-
 
 ---
 
@@ -199,8 +198,6 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 - [HigherGov: List of All Contracts Terminated by DOGE](https://www.highergov.com/news/list-of-all-contracts-terminated-by-doge-6287413) (Tier 2)
 - [Urban Institute: How Government Funding Disruptions Affected Nonprofits in Early 2025 — Urban's own survey documenting federal funding crisis](https://www.urban.org/research/publication/how-government-funding-disruptions-affected-nonprofits-early-2025) (Tier 3)
 - [Brookings: The Fifth Estate — Think Tanks, Public Policy, and Governance — academic analysis of think tank government dependency](https://www.brookings.edu/wp-content/uploads/2016/06/chapter-one_-the-fifth-estate.pdf) (Tier 3)
-
-content-readiness:: ready
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

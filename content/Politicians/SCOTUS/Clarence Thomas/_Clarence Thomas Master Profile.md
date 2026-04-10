@@ -15,12 +15,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Leonard Leo]] · [[Harlan Crow]] · [[Koch Network - Charles Koch]] · [[_Samuel Alito Master Profile]]"
 ---
-
-
 #clarence-thomas #scotus #harlan-crow #koch-network #ginni-thomas #federalist-society #donor-capture #class-analysis
-
-related: [[Leonard Leo]] · [[Harlan Crow]] · [[Koch Network - Charles Koch]] · [[_Samuel Alito Master Profile]]
 
 donors: [[Harlan Crow]], [[Koch Network - Charles Koch]], [[Leonard Leo]]
 
@@ -135,7 +132,6 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 - [NPR: Ginni Thomas texted Mark Meadows to try to overturn the 2020 election](https://www.npr.org/2022/03/25/1088720571/ginni-thomas-tex-messages-mark-meadows-2020-election) (Tier 2)
 - [Washington Post: Ginni Thomas's group Crowdsourcers got nearly $600,000 in anonymous donations](https://www.washingtonpost.com/investigations/2023/03/28/ginni-thomas-crowdsourcers-anonymous-donations/) (Tier 2)
 content-readiness:: ready
- 
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

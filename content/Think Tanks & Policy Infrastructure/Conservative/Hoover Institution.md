@@ -2,12 +2,12 @@
 title: "Hoover Institution"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 category: conservative
 tax-status: Division of Stanford University
-related: "[[Koch Network - Charles Koch]] · [[Scaife Foundations]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
+related: "[[Koch Network - Charles Koch]] · [[Scaife Foundations]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 sec-filings: 5190
 sec-form-types:
   - "10-K/A"
@@ -35,7 +35,6 @@ sec-form-types:
 ---
 
 #think-tank #conservative #free-market #defense #economics #education #Stanford #class-analysis
-
 
 ---
 
@@ -270,8 +269,6 @@ The Hoover Institution is the most structurally sophisticated conservative think
 - [Stanford Daily: Academic freedom or misinformation? Stanford faculty remains divided over the Hoover Institution](https://stanforddaily.com/2021/02/08/academic-freedom-or-misinformation-after-controversies-settle-stanford-faculty-remains-divided-over-the-hoover-institution/) (Tier 2)
 - [Inside Philanthropy: How the Hoover Institution Vacuums Up Big Conservative Bucks](https://www.insidephilanthropy.com/home/economic-policy-research-2015-4-21-how-the-hoover-institution-vacuums-up-big-conservative-bucks-html) (Tier 2)
 - [Hoover Institution: $10 million grant from Annenberg Foundation](https://www.hoover.org/press-releases/10-million-grant-annenberg-foundation-will-establish-annenberg-strategic-initiative) (Tier 3)
-
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

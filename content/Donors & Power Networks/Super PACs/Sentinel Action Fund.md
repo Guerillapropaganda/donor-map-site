@@ -2,7 +2,7 @@
 title: "Sentinel Action Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -12,12 +12,9 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
 total-revenue: 2903054
 total-assets: 15309069
-related: "[[Marble Freedom Trust]] · [[DonorsTrust]]"
+related: "[[Marble Freedom Trust]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[Barre Seid]] · [[The 85 Fund]] · [[Great Lakes Conservatives Fund]]"
 ---
-
 #sentinel-action-fund #super-pac #heritage-foundation #republican #mega-donor #judicial #2022-midterms
-
-related: [[Heritage Foundation]] [[Barre Seid]] [[The 85 Fund]] Conservative Super PACs 2022 Senate Races
 
 ---
 
@@ -118,8 +115,6 @@ Sentinel also illustrates **speculative mega-donor spending:** Barre Seid and Ke
 - [Heritage Foundation: About and Policy Priorities](https://www.heritage.org/about-heritage/impact) (Tier 2)
 - [OpenSecrets: Sentinel Action Fund PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/sentinel-action-fund/c00811166/summary/2022) (Tier 1)
 - [Campaign Finance Institute: Super PAC effectiveness research](https://www.cfinst.org/research/super-pacs) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

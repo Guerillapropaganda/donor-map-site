@@ -21,15 +21,12 @@ ofac-programs:
   - "RUSSIA-EO14024"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
   - "IRAN-EO13902"
-related: "[[Texas 2026 Senate Race]] · [[Kay Granger Master Profile]] · [[Cathy McMorris Rodgers Master Profile]]"
+related: "[[Texas 2026 Senate Race]] · [[Kay Granger Master Profile]] · [[Cathy McMorris Rodgers Master Profile]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch]]"
 court-cases: 1
 court-jurisdictions:
   - "United States Bankruptcy Court, D. Puerto Rico"
 ---
-
 #oil #gas #pacs #fossil-fuel #republican #bipartisan #energy
-
-related: [[Fossil Fuel Bloc]] [[ExxonMobil]] [[Chevron]] [[Marathon Petroleum]] [[Koch Network - Charles Koch|Koch]]
 
 ---
 
@@ -48,8 +45,6 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 
 - [FEC Receipts: Oil and gas industry PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Oil and gas political spending](https://ballotpedia.org/Oil_&_Gas_PACs) (Tier 3)
-
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

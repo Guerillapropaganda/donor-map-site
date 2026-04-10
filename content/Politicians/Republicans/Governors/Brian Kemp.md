@@ -10,12 +10,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Miriam Adelson]]"
 ---
-
 #brian-kemp #governor #georgia #corporate-republican #election-certification #sb-202 #class-analysis
 tags: #republican
-
-related: [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Miriam Adelson]]
 
 donors: Georgia Business Community · [[Koch Network - Charles Koch]] · [[UPS]] · Georgia Power · [[CoreCivic]]
 

@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Chris Coons Master Profile]]"
+related: "[[_Chris Coons Master Profile]] · [[_Joe Biden Master Profile|Biden]] · [[JPMorgan Chase]] · [[Bank of America]] · [[Goldman Sachs]]"
 ---
-
 #coons #delaware #corporate #banking #credit-cards #biden #judiciary
-
-related: [[_Chris Coons Master Profile]] [[_Joe Biden Master Profile|Biden]] [[JPMorgan Chase]] [[Bank of America]] [[Goldman Sachs]]
 
 donors: [[JPMorgan Chase]] [[Bank of America]] [[Goldman Sachs]] [[Citigroup]]
 
@@ -46,4 +44,3 @@ Coons served as Biden's closest Senate ally — his vote was reliable on every B
 - [Washington Post: How Delaware is trying to reshape corporate law after Elon Musk exit](https://www.washingtonpost.com/technology/2025/03/04/delaware-corporate-law-elon-musk/) (Tier 2)
 - [Ballotpedia: Chris Coons](https://ballotpedia.org/Chris_Coons) (Tier 3)
 
-content-readiness:: ready

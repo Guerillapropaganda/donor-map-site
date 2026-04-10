@@ -8,13 +8,11 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[AIPAC United Democracy Project 2026 Primary Intervention]] · [[Fairshake Crypto PAC 2026 Election Intervention]] · [[2026 Redistricting Wave - The Mid-Decade Map Wars]]"
 ---
-
 #2026-election #house #spending #super-pac #donor-analysis
 
 tags: #analysis #story
-
-related:: [[AIPAC United Democracy Project 2026 Primary Intervention]] · [[Fairshake Crypto PAC 2026 Election Intervention]] · [[2026 Redistricting Wave - The Mid-Decade Map Wars]]
 
 donors:: House Majority PAC · Congressional Leadership Fund · DCCC · NRCC
 

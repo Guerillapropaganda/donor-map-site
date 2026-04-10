@@ -41,7 +41,7 @@ regulatory-agencies:
   - "Interior Department"
   - "National Park Service"
   - "Presidio Trust"
-related: "[[Sheldon Whitehouse]]"
+related: "[[Sheldon Whitehouse]] · [[InfluenceMap]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Enterprise Products Partners]] · [[Williams Companies]]"
 sec-filings: 246
 sec-form-types:
   - "10-K/A"
@@ -74,10 +74,7 @@ corroboration-count: 4
 known-gaps:
   - "No FEC contribution data"
 ---
-
 #donor #environment #climate #progressive #democratic #electoral #dark-money #501c4 #class-analysis #follow-the-money
-
-related: [[InfluenceMap]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Enterprise Products Partners]] · [[Williams Companies]]
 
 ---
 

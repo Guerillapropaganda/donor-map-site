@@ -45,11 +45,9 @@ court-jurisdictions:
   - "District Court, M.D. Pennsylvania"
   - "District Court, N.D. Alabama"
   - "District Court, W.D. Wisconsin"
+related: "[[Democracy Alliance]]"
 ---
-
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization
-
-related: [[Democracy Alliance]] State Coordinated Campaigns Voter Mobilization Infrastructure America Votes Affiliates
 
 ---
 

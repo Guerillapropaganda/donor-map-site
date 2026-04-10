@@ -10,12 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_John Cornyn Master Profile]] · [[Fossil Fuel Bloc]] · [[Labor Unions]]"
 ---
-
 #senate-race #2026 #competitive #texas #runoff #analysis
 tags: #story
-
-related: [[_John Cornyn Master Profile]] _Ken Paxton Master Profile _James Talarico Master Profile [[Fossil Fuel Bloc]] Oil & Gas Money [[Labor Unions]]
 
 donors: [[Oil & Gas PACs]] Small-Dollar Democratic Donors [[Defense Contractors]] Agriculture Money
 
@@ -116,4 +114,3 @@ This is a striking asymmetry. Talarico raised $20M from small-dollar donors (tea
 
 ---
 
-content-readiness:: ready

@@ -2,12 +2,12 @@
 title: "CA Farm Bureau Federation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Agriculture"
 entity-type: "Individual Donor"
-related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]]"
+related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Western Growers Association]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

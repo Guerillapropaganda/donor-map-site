@@ -2,17 +2,16 @@
 title: "David Pakman"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Dave Rubin]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]]"
+related: "[[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Dave Rubin]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Jimmy Dore]] · [[Charlie Kirk]]"
 donors: "[[Sixteen Thirty Fund]] (Chorus Creator Incubator Program, disclosed Aug 2025)"
 ---
 
 #media-profile #left #progressive #youtube #democratic-party #dark-money #chorus #sixteen-thirty-fund #immigrant
-
 
 ---
 
@@ -164,4 +163,3 @@ David Pakman represents **the institutionally connected left** — progressive m
 
 ---
 
-content-readiness:: ready

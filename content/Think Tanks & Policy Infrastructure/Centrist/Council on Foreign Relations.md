@@ -2,7 +2,7 @@
 title: "Council on Foreign Relations"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
@@ -19,7 +19,7 @@ court-jurisdictions:
   - "District Court, M.D. North Carolina"
   - "District Court, N.D. California"
   - "United States Court of International Trade"
-related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Carlyle Group]] · [[BlackRock]] · [[ExxonMobil]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center for American Progress]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Center for a New American Security]]"
+related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Carlyle Group]] · [[BlackRock]] · [[ExxonMobil]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center for American Progress]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 ein: "131628168"
 nonprofit-status: "501(c)(3)"
 total-revenue: 173497100
@@ -42,7 +42,6 @@ sec-form-types:
 ---
 
 #think-tank #centrist #foreign-policy #defense #wall-street #revolving-door #idea-laundering #bipartisan-credibility-shield
-
 
 ---
 
@@ -248,8 +247,6 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 - [CFR: Former Secretary of Commerce Gina Raimondo Joins CFR as Distinguished Fellow (January 2025)](https://www.cfr.org/articles/former-secretary-commerce-gina-raimondo-joins-cfr-distinguished-fellow) (Tier 3)
 - [CFR: Council on Foreign Relations Announces Michael Froman Will Serve as New President (March 2023)](https://www.cfr.org/articles/council-foreign-relations-announces-michael-froman-will-serve-new-president) (Tier 3)
 - [UPI: Hegseth Cuts Military Ties with Ivy League Schools, Multiple Think Tanks (March 2026)](https://www.upi.com/Top_News/US/2026/03/01/dod-ends-relationships-ivy-league/5671772385928/) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

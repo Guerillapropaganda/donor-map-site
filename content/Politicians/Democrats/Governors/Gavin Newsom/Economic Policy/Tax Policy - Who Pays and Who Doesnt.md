@@ -2,16 +2,13 @@
 title: "Tax Policy - Who Pays and Who Doesnt"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]]"
+related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Corporate Subsidies and the Business Climate Argument]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 ---
-
-
 #newsom #economic-policy #tax-policy #wealth-tax #corporate-tax #class-analysis #california #budget #follow-the-money #inequality
 
-related: [[Corporate Subsidies and the Business Climate Argument]] | [[Economic Policy - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: (Tech billionaires, real estate, finance)
 
 ---
@@ -115,4 +112,3 @@ Newsom has made a deliberate choice to govern within California's wealth-protect
 - [Inside SALT: California wealth tax policy history 2024-2025](https://www.insidesalt.com/2025/11/biting-the-hand-that-feeds-california-faces-new-proposed-wealth-tax/) (Tier 3)
 - [Santa Barbara News-Press: Capital flight claims vs. historical evidence](https://www.newspress.com/2026/02/08/ultra-rich-california-wealth-tax/) (Tier 3)
 
-content-readiness:: ready

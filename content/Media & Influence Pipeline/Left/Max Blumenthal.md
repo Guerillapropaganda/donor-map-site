@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #left #grayzone #anti-imperialism #state-media-ties #journalist #patreon
 
-
 ---
 
 ### Who They Are
@@ -106,4 +105,3 @@ The structural problem: Blumenthal's funding is opaque. Patreon revenue is publi
 - [*Goliath: Life and Loathing in Greater Israel* — Nation Books Publishing](https://typemediacenter.org/books/goliath/) (Tier 2)
 - [Institute for Strategic Dialogue — Grayzone Analysis](https://www.isdglobal.org/) (Tier 2)
 
-content-readiness:: developed

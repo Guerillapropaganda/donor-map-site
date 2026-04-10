@@ -5,12 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Marco Rubio Master Profile]]"
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[Mike Waltz]] · [[Ted Cruz Master Profile]] · [[Rick Scott Master Profile]] · [[Brian Mast]]"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[Mike Waltz]] · [[Ted Cruz Master Profile]] · [[Rick Scott Master Profile]] · [[Brian Mast]] · [[_Marco Rubio Master Profile]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Fanjul Family - Florida Crystals]] · [[_Donald Trump Master Profile|Trump]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]"
 ---
-
 #rubio #cuba #operation-southern-spear #blockade #fuel #humanitarian-crisis #sugar #fanjul #class-analysis #follow-the-money #2026
 
-related: [[_Marco Rubio Master Profile]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Fanjul Family - Florida Crystals]] · [[_Donald Trump Master Profile|Trump]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]
 donors: [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]]
 
 ---
@@ -144,5 +142,3 @@ The exception is strategic, not humanitarian. The delivery provides 25-35 days o
 
 ---
 
-research-status:: developed — Full timeline built, 3 donor clusters mapped, analytical patterns flagged. Gaps: exact Diaz-Balart FY26 Cuba line items ($25M/$30M figures UNVERIFIED), LIBERTAD Act "Inheritance Clause" (UNVERIFIED), Bacardi trademark litigation status (UNVERIFIED), FEC individual contribution breakdowns for Fanjul family members (API DATA PENDING — Chrome required).
-content-readiness:: developed

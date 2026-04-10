@@ -2,8 +2,8 @@
 title: Vault Rules
 type: system
 last-updated: 2026-04-06
+related: "[[Ally 1]] · [[Funder 2]]"
 ---
-
 # Vault Rules — The Donor Map
 
 Single source of truth for both Code Claude and Research Claude. No other methodology doc overrides this file. When in doubt, this wins.
@@ -136,10 +136,27 @@ verified-blocks:           # pipeline data blocks reviewed by editor
 **Orphaned Claims from Broken URLs:**
 
 When a URL is archived/broken, any factual claim it was the sole source for becomes unsourced. Research Claude must:
-1. Search for a replacement Tier 1 source
-2. If none found, rewrite to remove the unsourced assertion — **document every rewrite in the editorial review log** (what was changed and why, preserving the correction trail)
-3. If the claim is critical and verifiable but not yet sourced, mark `(URL NEEDED)` — this demotes the profile from ready to draft
-4. Add removed/rewritten claims to `corrections` frontmatter array for permanent audit trail
+1. Rewrite to remove the unsourced assertion — **document every rewrite in the editorial review log** (what was changed and why, preserving the correction trail)
+2. If the claim is critical and verifiable but not yet sourced, mark `(URL NEEDED)` — this demotes the profile from ready to draft
+3. Add removed/rewritten claims to `corrections` frontmatter array for permanent audit trail
+
+**URL fixing is Editor-only (David).**
+
+Neither Research Claude nor Code Claude fixes, hunts, replaces, or verifies source URLs. David handles all URL work personally. This includes:
+- Broken URL replacement (no URL searching, no substitute hunting)
+- `(URL NEEDED)` tag resolution
+- `(UNVERIFIED)` tag resolution
+- Browser-based URL verification
+- Running the `url-fixer` skill
+- Any URL triage beyond flagging
+
+**What both Claudes should do instead:**
+- When you find a broken or missing URL, leave it tagged `(URL NEEDED)` or `~~strikethrough~~` it in the Archived section
+- Document the gap in `known-gaps` frontmatter so the editor can see it
+- Flag counts in Session State ("AOC has 5 URL NEEDED blocking verified promotion")
+- **Never substitute a different URL, never search for replacements, never run url-fixer**
+
+**Why:** David verifies URLs personally to ensure source integrity. Automated URL hunting by Claude risks citing wrong entities (the exact problem documented in CLAUDE.md under "Common mistakes to avoid" — wrong FEC IDs, title/URL mismatches, dead aggregators). URL verification is an editorial control, not a task to delegate.
 
 **Editorial Review System (A+ Promotion):**
 
@@ -480,6 +497,35 @@ Pipelines write data into profiles automatically. This data must coexist with ed
 - Events: `content/Events/Drafts/` and `content/Events/Digests/`
 - Interactive: `content/Interactive/`
 
+### Frontmatter is the ONLY source of truth for structured fields
+
+**All structured profile data lives in YAML frontmatter. Never in body dataview inline fields (`field:: value`).**
+
+This rule was adopted 2026-04-09 after a vault-wide cleanup discovered systemic dual-source data drift:
+- **535 profiles** had inline `content-readiness:: ready` while frontmatter said `draft` (or vice versa)
+- **632 profiles** had `related::` in the body containing completely different wikilinks from the frontmatter `related:` field (zero overlap on the sample)
+- The two systems had no way to reconcile. Half of the relationship graph was hidden in body dataview fields that scripts and the site renderer couldn't see.
+
+**Scope — these fields must ONLY appear in frontmatter, never as body `field::` lines:**
+- `content-readiness`, `profile-status`, `research-status`, `readiness`
+- `related`, `donors`, `opposes`, `politicians-funded`, `politicians-opposed`, `top-donors`
+- `source-tier`, `source-types`, `corroboration-count`, `known-gaps`, `verified-blocks`
+- `editorial-review-date`, `editorial-reviewer`, `editorial-result`, `editorial-blockers`, `last-verified-by`
+- Any other schema field defined below
+
+**Rules for both Claudes:**
+1. When creating or editing a profile, put structured data in frontmatter. Never write `field:: value` inline in the body.
+2. When reviewing a profile, if you find a body `field:: value` line, merge its content into frontmatter and delete the body line. Never leave both.
+3. Scripts and pipelines (Code Claude's lane) must only read from and write to frontmatter for structured fields. Do not write to body inline fields, ever.
+4. If you see `field:: value` anywhere in body text, it's a legacy bug to fix, not a pattern to preserve.
+
+**Rules for David / Ops app:**
+- The Ops app profile editor must write structured fields to frontmatter only.
+- The Ops app must not create new body `field:: value` lines.
+- Any existing ops scripts that populate inline dataview fields need to be updated to populate frontmatter.
+
+**Exception:** Dataview `table` / `query` code blocks inside fenced ` ```dataview ` blocks are fine — those are queries for display, not data storage.
+
 ### Frontmatter (required on every profile):
 ```yaml
 title: Name
@@ -491,7 +537,6 @@ last-updated: YYYY-MM-DD
 
 ### Relationship fields (on profiles with connections):
 ```yaml
-related: "[[Ally 1]] · [[Funder 2]]"     # allied, funding, or organizational connections
 donors: "[[Funder 1]] · [[Funder 2]]"     # funding sources
 opposes: "[[Adversary 1]] · [[Target 2]]" # adversarial relationships — critics, targets, opponents
 ```

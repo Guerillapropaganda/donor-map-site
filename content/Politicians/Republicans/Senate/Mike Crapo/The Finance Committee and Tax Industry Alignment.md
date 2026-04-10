@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Mike Crapo Master Profile]]"
+related: "[[_Mike Crapo Master Profile]] · [[_Ron Wyden Master Profile|Wyden]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]]"
 ---
-
 #crapo #finance-committee #tax-policy #idaho #banking #insurance #crypto
-
-related: [[_Mike Crapo Master Profile]] [[_Ron Wyden Master Profile|Wyden]] [[Goldman Sachs]] [[Koch Network - Charles Koch]]
 
 donors: [[Goldman Sachs]] [[Koch Network - Charles Koch]] [[US Chamber of Commerce]] [[Crypto Industry Bloc]]
 
@@ -46,4 +44,3 @@ Crapo has been among the most crypto-friendly senators, supporting stablecoin le
 - [Senate Finance Committee](https://www.finance.senate.gov/) (Tier 1)
 - [Ballotpedia: Mike Crapo](https://ballotpedia.org/Mike_Crapo) (Tier 3)
 
-content-readiness:: ready

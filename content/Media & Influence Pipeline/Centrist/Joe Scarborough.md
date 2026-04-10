@@ -2,16 +2,15 @@
 title: "Joe Scarborough"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Nicolle Wallace]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #centrist #cable-news #msnbc #ms-now #republican-turned-independent #revolving-door
-
 
 ---
 
@@ -119,4 +118,3 @@ The Biden relationship reveals the structural function most clearly: the Preside
 - [FEC: Joe Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOE) (Tier 1)
 - [FEC: Joseph Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOSEPH) (Tier 1)
 
-content-readiness:: ready

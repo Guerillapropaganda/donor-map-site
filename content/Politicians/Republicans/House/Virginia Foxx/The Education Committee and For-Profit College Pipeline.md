@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Virginia Foxx Master Profile]]"
+related: "[[_Virginia Foxx Master Profile]] · [[Apollo Global Management]] · [[Private Equity Industry Bloc]]"
 ---
-
 #foxx #north-carolina #education #for-profit-colleges #student-loans #apollo #deregulation
-
-related: [[_Virginia Foxx Master Profile]] [[Apollo Global Management]] [[Private Equity Industry Bloc]]
 
 donors: [[Apollo Global Management]] [[Private Equity Industry Bloc]]
 
@@ -42,4 +40,3 @@ The University of Phoenix — once the largest for-profit university in the coun
 - [Republic Report: Foxx and for-profit college donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2)
 - [Ballotpedia: Virginia Foxx](https://ballotpedia.org/Virginia_Foxx) (Tier 3)
 
-content-readiness:: ready

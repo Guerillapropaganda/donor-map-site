@@ -2,7 +2,7 @@
 title: "Koch Network - Charles Koch"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 aliases: ["Koch Network", "Koch Brothers", "Charles Koch", "Koch Industries", "Americans for Prosperity", "AFP"]
 source-tier: 1
 parent: null
@@ -19,13 +19,9 @@ shareable-stat: "$2.9M donated. $1.9T in tax cuts. 655,172x return."
 issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
-related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Doug Burgum Master Profile]] · [[Chris Wright Master Profile]] · [[The Koch Network Pipeline and Climate Denial as Policy]] · [[Thom Tillis Master Profile]] · [[Ted Cruz Master Profile]] · [[Oil Gas and the Texas Energy Donor Base]]"
+related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Doug Burgum Master Profile]] · [[Chris Wright Master Profile]] · [[The Koch Network Pipeline and Climate Denial as Policy]] · [[Thom Tillis Master Profile]] · [[Ted Cruz Master Profile]] · [[Oil Gas and the Texas Energy Donor Base]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[Peter Thiel]] · [[Elon Musk]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Miriam Adelson]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CCPOA - California Correctional Peace Officers Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[California Labor Federation]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[WSPA - Western States Petroleum Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[California Building and Construction Trades Council]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]]"
 ---
-
-
 #donor #koch #mega-donor #libertarian #anti-union #dark-money #deregulation #fossil-fuel #national #class-analysis #follow-the-money #right-to-work #project-2025 #janus
-
-related: [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[Peter Thiel]] · [[Elon Musk]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Miriam Adelson]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CCPOA - California Correctional Peace Officers Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[California Labor Federation]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[WSPA - Western States Petroleum Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[California Building and Construction Trades Council]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]]
 
 think-tanks: [[Cato Institute]] · [[Heritage Foundation]] · [[Mercatus Center]] · [[American Enterprise Institute]] · [[Heartland Institute]] · [[Hoover Institution]] · [[Manhattan Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Hudson Institute]]
 media-pipeline: [[Charlie Kirk]] · [[Ben Shapiro]] · [[Dave Rubin]] · [[Sean Hannity]] · [[Steven Crowder]] · [[Tucker Carlson]]
@@ -978,9 +974,6 @@ This architecture allows the Koch Network to:
 
 - [EXPOSEDbyCMD: Major right-wing super PACs disclose contributions and endorsements (February 2026)](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/) (Tier 2)
 - [Read Sludge: Koch Network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2)
-
-research-status:: developed — major expansion (April 1, 2026). Added 12 new sections: Donor Summit Machine, Key Network Donors, Freedom Partners financials, DonorsTrust architecture ($1.36B assets, $425M anonymous donation, top recipients list), expanded AFP (state infrastructure, win/loss record), AFP Action super PAC cycle breakdown, ALEC/State Policy Network ($70.5M Koch funding via DonorsTrust, 2,900 bills, 600+ enacted), Federal Policy ROI (TCJA, EPA deregulation, Paris withdrawal, Keystone XL, Federalist Society/judicial), Revolving Door table (44-50+ alumni in Trump admin), Koch-Trump relationship (2016 estrangement → 2017 tax cooperation → 2018 break → 2020 retreat → 2024-25 tactical alignment), Stand Together rebrand ($833M 2023 budget), Succession ($5.3B transfer, Chase Koch, Brian Hooks, Emily Seidel), and Complete Organization Architecture table (20 entities mapped). Donation-to-Policy Timeline expanded with 8 new rows. All new data (21 data points) merged. 50+ new source URLs added with (UNVERIFIED) tags. Ready for Chrome URL verification pass before promotion to ready.
-content-readiness:: developed
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

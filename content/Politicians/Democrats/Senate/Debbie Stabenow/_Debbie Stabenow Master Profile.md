@@ -29,12 +29,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Gary Peters Master Profile|Gary Peters]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
 ---
-
-
 #debbie-stabenow #democrat #michigan #senate #agriculture #farm-bill #crop-insurance #agribusiness #healthcare #auto-industry #class-analysis #follow-the-money
-
-related: [[_Gary Peters Master Profile|Gary Peters]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]
 
 donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Workers]] · Health Insurance Industry · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]
 

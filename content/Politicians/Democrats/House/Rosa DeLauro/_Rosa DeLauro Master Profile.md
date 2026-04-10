@@ -2,7 +2,7 @@
 title: "Rosa DeLauro"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,7 +18,7 @@ top-donors:
   - "Lockheed Martin"
   - "AIPAC"
 donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]]"
-related: "[[Tom Cole]]"
+related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
 total-received: "$689,298"
 fec-candidate-id: "H0CT03072"
 govtrack-id: 400103
@@ -27,10 +27,7 @@ bills-cosponsored: 179
 website: "https://delauro.house.gov"
 phone: "202-225-3661"
 ---
-
 #rosa-delauro #democrat #connecticut #house #appropriations #ranking-member #phase-6-gavel-power
-
-related: [[_Donald Trump Master Profile|Trump]] [[Lockheed Martin]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[SEIU - Service Employees International Union|SEIU]]
 
 donors: [[Lockheed Martin]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
@@ -131,7 +128,6 @@ On healthcare, she leads with children and families — the child tax credit, sc
 - [Science/AAAS: FDA revolving door analysis](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful) (Tier 2)
 - [OpenSecrets: Rosa DeLauro net worth disclosures](https://www.opensecrets.org/personal-finances/rosa-delauro/net-worth?cid=N00000615) (Tier 1)
 
-profile-status:: ready
 c
 
 ### Campaign Finance (FEC)

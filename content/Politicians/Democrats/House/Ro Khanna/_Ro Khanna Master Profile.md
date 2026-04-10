@@ -1,8 +1,8 @@
 ---
 title: "Ro Khanna Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,16 +10,25 @@ chamber: "House"
 state: "California"
 state-abbr: "CA"
 district: "17"
+bioguide-id: "K000389"
+fec-committee-id: "C00503185"
 committees:
+  - "Armed Services (Ranking Member, CITI Subcommittee)"
+  - "Oversight & Reform"
   - "Antitrust (Judiciary)"
 issues:
   - "Technology"
   - "Defense & Military"
   - "Antitrust & Monopoly"
+  - "Wealth Tax"
+  - "Trade Policy"
+  - "Medicare for All"
 top-donors:
-  - "Google - Alphabet"
-  - "Apple"
-  - "Microsoft"
+  - "Alphabet/Google employees ($535K career)"
+  - "Wilson Sonsini law firm ($254K career)"
+  - "Stanford University employees ($213K career)"
+  - "Accel Partners ($177K career)"
+  - "Andreessen Horowitz"
 govtrack-id: 412684
 bills-sponsored: 36
 bills-cosponsored: 392
@@ -27,34 +36,34 @@ website: "https://khanna.house.gov"
 phone: "202-225-2631"
 total-received: "$9,579,628"
 fec-candidate-id: "H4CA12055"
-doj-press-mentions: "264349"
-last-enriched: "2026-04-08"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
+last-enriched: '2026-04-10'
 source-types:
   - Congress
-  - DOJ
   - FEC
   - GovTrack
+  - HouseOfficial
 corroboration-count: 4
 known-gaps:
-  - "No mapped relationships"
+  - OpenSecrets career/industry breakdown tables in Donor Class Map body text reference OpenSecrets data without Tier 1 URL citation. Data should be cross-verified against FEC committee page for verified promotion.
+  - Wilson Sonsini and Accel Partners donor totals need direct FEC filing cross-check
+opposes:
+  - "Silicon Valley tech executives (post-wealth-tax)"
+  - "Defense contractors (NDAA dissent)"
+  - "Ethan Agarwal (primary challenger funded by Y Combinator CEO Garry Tan, Chamath Palihapitiya)"
+donors:
+  - "Alphabet/Google individual employees"
+  - "Wilson Sonsini Goodrich & Rosati"
+  - "Stanford University"
+  - "Accel Partners"
+  - "Andreessen Horowitz individuals"
+  - "JStreetPAC ($46,950 2024 cycle)"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: verified-candidate
+editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC candidate page, Congress.gov with verified bioguide K000389, GovTrack, khanna.house.gov official press release on NDAA vote), 7 Tier 2 journalism sources documenting the 2026 wealth tax backlash, exceptional class analysis (tolerated/managed/intolerable dissent hierarchy), detailed donation-to-policy timeline with specific amounts, Influence Network Cross-Reference auto-block showing Apple/Microsoft donate→lobby→committee chains. The 2026 Silicon Valley backlash section is the vault's clearest contemporary case study of donor-class enforcement: wealth tax endorsement triggered coordinated primary challenge (Ethan Agarwal, Garry Tan, Chamath Palihapitiya) within weeks. FIXED: removed stale DOJ from source-types (all vault DOJ blocks stripped this session — bogus API index-size bug). FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: known-gaps (was wrongly listing 'No mapped relationships'). Added bioguide-id, fec-committee-id, structured opposes/donors. No A000383 contamination. No (URL NEEDED) tags. Ready for editor review."
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[Alphabet - Google|Google]] · [[Apple]] · [[Marc Andreessen & Horowitz]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]] · [[Wilson Sonsini Goodrich & Rosati]] · [[Accel Partners]] · [[Ethan Agarwal]] · [[Garry Tan]] · [[Chamath Palihapitiya]] · [[Microsoft]]"
 ---
-
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028
-
-related: [[_Bernie Sanders Master Profile|Bernie Sanders]] [[_Pramila Jayapal Master Profile|Jayapal]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[Google - Alphabet]] [[Apple]] [[Marc Andreessen & Horowitz]] · [[Google]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]]
-
-donors: [[Google - Alphabet]] [[Apple]] [[Microsoft]]
 
 ---
 
@@ -263,9 +272,6 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 - [Local News Matters: Silicon Valley's star fundraiser Khanna may have big dreams](https://localnewsmatters.org/2024/11/01/keeping-an-eye-on-the-future-silicon-valleys-star-fundraiser-khanna-may-have-big-dreams/) (Tier 2)
 - [Ballotpedia: Ro Khanna](https://ballotpedia.org/Ro_Khanna) (Tier 3)
 
-profile-status:: developed
-content-readiness:: developed
-
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
@@ -343,24 +349,7 @@ content-readiness:: developed
 <!-- auto:fec-politician end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264349 |
-| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
-- ... and 264,343 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Ro%20Khanna%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ## Voting Record
 <!-- auto:voting-record start -->

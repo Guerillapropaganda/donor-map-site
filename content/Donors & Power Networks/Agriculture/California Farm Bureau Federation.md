@@ -2,7 +2,7 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -39,7 +39,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(5)"
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]]"
 sec-filings: 291
 sec-form-types:
   - "10-Q"
@@ -59,11 +59,7 @@ sec-form-types:
   - "N-4"
   - "N-6"
 ---
-
-
 #donor #agricultural-employer #farm-bureau #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
-
-related: [[_Gavin Newsom Master Profile]] | [[Farmworker Union Rights - AB 2183 Veto and Reversal]] | [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] | [[Immigration - Donors and Backers]] | [[Labor - Donors and Backers]] | [[Western Growers Association]]
 
 ---
 
@@ -148,9 +144,6 @@ Immigration — H-2A program, undocumented workforce
 
 - [OpenSecrets: California Farm Bureau Federation](https://www.opensecrets.org/orgs/california-farm-bureau/summary?id=D000070197) (Tier 1) (VERIFIED) (NEEDS REVIEW: https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1007762&session=2023 seems to be the correct link verify dates for california farm burea federaton)
 - [FPPC: CFBF/FarmPAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED) (NEEDS REVIEW: https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1007762&session=2023 seems to be correct link verify dates for California farm bureau federation)
-
-research-status:: ready — 30K member families, FarmPAC $29K-$64K/cycle, AFBF $1.3-1.5M federal lobbying, anti-unionization radio spending, H-2A/AB 2183 positions, small farmer tension. 3 sources, Tier 1. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

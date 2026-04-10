@@ -27,16 +27,11 @@ bills-sponsored: 8
 bills-cosponsored: 187
 website: "https://larsen.house.gov"
 phone: "202-225-2605"
+related: "[[_Sam Graves Master Profile|Graves]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Boeing]]"
 ---
-
-
 #rick-larsen #democrat #washington #house #ranking-member #transportation #infrastructure #boeing #aviation #aerospace #labor #phase-6-gavel-power
 
-related: [[_Sam Graves Master Profile|Graves]] [[_Maria Cantwell Master Profile|Cantwell]] [[Boeing]]
-
 donors: [[Boeing]]
-
-profile-status:: ready
 
 ---
 ---
@@ -157,8 +152,6 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 - [ACEC 2025 Convention: Congressman Rick Larsen](https://convention.acec.org/speakers/congressman-rick-larsen/) (Tier 3)
 - [Ballotpedia: Rick Larsen](https://ballotpedia.org/Rick_Larsen) (Tier 3)
 - [Wikipedia: Rick Larsen](https://en.wikipedia.org/wiki/Rick_Larsen) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

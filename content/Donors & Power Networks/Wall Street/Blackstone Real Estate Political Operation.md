@@ -32,11 +32,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
 federal-contracts: "22468"
+related: "[[Blackstone Group]] · [[Kenneth Griffin]] · [[Real Estate Industry Bloc]] · [[Carlyle Group]]"
 ---
-
 #blackstone #real-estate #private-equity #schwarzman #housing #rent #carried-interest
-
-related: [[Blackstone Group]] [[Kenneth Griffin]] [[Real Estate Industry Bloc]] [[Carlyle Group]]
 
 ---
 

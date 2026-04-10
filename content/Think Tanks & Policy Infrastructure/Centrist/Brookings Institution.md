@@ -2,12 +2,12 @@
 title: "Brookings Institution"
 type: think-tank
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Enterprise Institute]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
+related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Enterprise Institute]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Atlantic Council]] · [[Aspen Institute]]"
 known-gaps:
   - "No FEC contribution data"
 federal-register-mentions: 169
@@ -26,7 +26,6 @@ regulatory-agencies:
 ---
 
 #think-tank #centrist #wall-street #foreign-funding #revolving-door #hamilton-project #defense #financial-deregulation #qatar #jpmorgan #goldman-sachs #healthcare #housing #labor
-
 
 ---
 
@@ -369,8 +368,6 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 - [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Elite Universities — Brookings among think tanks cut (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2)
 
 ---
-
-content-readiness:: developed
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

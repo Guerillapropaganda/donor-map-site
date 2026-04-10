@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-23
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
+related: "[[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #donald-trump #economic-policy #obbba #tax-cuts #medicaid #medicare #snap #reconciliation #class-analysis #follow-the-money #koch #chamber
 
-related: [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]]
 donors: [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 
@@ -100,4 +96,3 @@ OBBBA included $18 billion in new fossil fuel tax incentives. Rolling lease sale
 - [Center on Budget and Policy Priorities. Republican SNAP Proposals](https://www.cbpp.org/research/food-assistance/republican-snap-proposals-could-take-food-away-from-millions-of-low-income) (Tier 2)
 - [Congressional Research Service. TCJA Expiring Provisions (IF12641)](https://www.congress.gov/crs-product/IF12641) (Tier 1)
 
-research-status:: Tax provisions from JCT and CBO. Medicaid cuts from CBPP and KFF. Medicare cuts from Medicare Rights Center. SNAP cuts from CBPP. Fossil fuel provisions from IRA analysis. Lobbying from OpenSecrets. Reconciliation process from Tax Foundation. Remaining. Final vote count by chamber, complete lobbying expenditure breakdown by organization for OBBBA specifically, Medicaid implementation timeline detail, state-by-state coverage loss projections.

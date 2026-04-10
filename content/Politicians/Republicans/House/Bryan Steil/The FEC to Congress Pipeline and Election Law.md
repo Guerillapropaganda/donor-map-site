@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Bryan Steil Master Profile]] · [[Koch Network - Charles Koch]] · [[US Chamber of Commerce]]"
 ---
-
 #steil #house-administration #elections #fec #wisconsin #campaign-finance
-
-related: [[_Bryan Steil Master Profile]] [[Koch Network - Charles Koch]] [[US Chamber of Commerce]]
 
 donors: [[Koch Network - Charles Koch]] [[US Chamber of Commerce]] [[Club for Growth]]
 

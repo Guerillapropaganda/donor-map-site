@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Lee Zeldin Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Lee Zeldin Master Profile]]"
 ---
-
-
 #lee-zeldin #governor #new-york #ronald-lauder #real-estate #super-pac #class-analysis
 
-related: [[_Lee Zeldin Master Profile]]
 donors: [[Miriam Adelson]], Real Estate Industry - NYC
 
 content-readiness:: ready

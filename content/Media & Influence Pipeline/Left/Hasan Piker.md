@@ -2,16 +2,15 @@
 title: "Hasan Piker"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur|TYT / Cenk Uygur]] · [[Amazon|Amazon/Twitch]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]]"
+related: "[[Cenk Uygur|TYT / Cenk Uygur]] · [[Amazon|Amazon/Twitch]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
 ---
 
 #media-pipeline #left #twitch #amazon #platform-dependency #audience-capture #independence-theater #socialist-content
-
 
 ---
 
@@ -181,4 +180,3 @@ This does not make Hasan Piker a villain or a fraud. It makes the platform the s
 - [Michigan Advance: Michigan's El-Sayed unfazed by backlash against upcoming campaign event with Hasan Piker](https://michiganadvance.com/2026/03/25/michigans-el-sayed-unfazed-by-backlash-against-upcoming-campaign-event-with-hasan-piker/) (Tier 3)
 - [FEC Individual Contributions Search: "Hasan Piker" / "Hasan Dogan Piker" — zero records across all cycles](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hasan+piker) (Tier 1)
 
-content-readiness:: ready

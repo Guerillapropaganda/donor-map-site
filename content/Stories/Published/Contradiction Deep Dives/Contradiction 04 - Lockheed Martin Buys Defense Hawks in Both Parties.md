@@ -10,12 +10,10 @@ issues:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Kay Granger Master Profile]] · [[_Rosa DeLauro Master Profile]] · [[Mark Kelly|Mark Kelly]]"
 ---
-
 #investigation #contradiction #lockheed-martin #defense #both-sides #f-35 #class-analysis
 tags: #analysis #story
-
-related: [[_Kay Granger Master Profile]] [[_Rosa DeLauro Master Profile]] [[Mark Kelly|Mark Kelly]] Defense Budget Bipartisan Consensus
 
 donors: [[Lockheed Martin]]
 
@@ -157,6 +155,3 @@ Rosa DeLauro can fight Kay Granger on healthcare spending and mean it. They genu
 
 ---
 
-research-status:: ready — Promoted Session 39.
-content-readiness:: ready
-                   

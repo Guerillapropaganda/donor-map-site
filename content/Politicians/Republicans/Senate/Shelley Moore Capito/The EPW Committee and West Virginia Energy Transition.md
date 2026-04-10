@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Shelley Moore Capito Master Profile]] · [[Koch Industries]] · [[US Chamber of Commerce]]"
 ---
-
 #capito #west-virginia #epw #coal #energy #infrastructure #appalachia
-
-related: [[_Shelley Moore Capito Master Profile]] [[Koch Industries]] [[US Chamber of Commerce]]
 
 donors: [[Koch Industries]] [[US Chamber of Commerce]] [[ConocoPhillips]]
 

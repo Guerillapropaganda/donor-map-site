@@ -15,11 +15,10 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]]"
 ---
-
 #russell-vought #republican #omb #project-2025 #christian-nationalist #heritage #impoundment #schedule-f #class-analysis
 
-related: [[_Donald Trump Master Profile]] [[Leonard Leo]]
 donors: [[Leonard Leo]]
 
 profile-status:: ready

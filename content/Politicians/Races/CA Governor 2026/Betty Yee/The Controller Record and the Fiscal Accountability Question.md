@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Betty Yee Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Betty Yee Master Profile]] · [[CalPERS]] · [[CalSTRS]]"
 ---
-
-
 #betty-yee #controller-record #fiscal-policy #calpers #calstrs #pension-governance #class-analysis
-
-related: [[_Betty Yee Master Profile]] · [[CalPERS]] · [[CalSTRS]]
 
 ---
 

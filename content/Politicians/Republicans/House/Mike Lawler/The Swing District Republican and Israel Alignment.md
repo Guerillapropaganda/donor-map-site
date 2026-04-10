@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Mike Lawler Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]]"
 ---
-
 #lawler #new-york #swing-district #israel #aipac #foreign-affairs #suburban
-
-related: [[_Mike Lawler Master Profile]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|UDP]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|UDP]]
 

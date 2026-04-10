@@ -2,20 +2,14 @@
 title: "The COVID Tenure and the Political Fallout"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
-related: "[[Amy Acton Master Profile]]"
+related: "[[Amy Acton Master Profile]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]]"
 ---
-
-
 #acton #covid-19 #ohio #health-director #class-analysis #follow-the-money #republican-pressure #corruption
 
-related: [[Amy Acton]] · Mike DeWine · Larry Householder · FirstEnergy · Public Health
-
 donors: N/A (serves as policy analysis of her removal, not a funded position)
-
-content-readiness:: ready
 
 ---
 
@@ -125,7 +119,4 @@ This flips the narrative: Republicans who attack her "overreach" must explain wh
 - [Ohio Capital Journal: Ex-FirstEnergy executives, Ohio utility regulator charged by state in bailout and bribery scandal](https://ohiocapitaljournal.com/2024/02/12/ex-first-energy-executives-ohio-utility-regulator-charged-by-state-in-bailout-and-bribery-scandal/) (Tier 2)
 
 ---
-
-research-status:: draft
-content-readiness:: ready
 

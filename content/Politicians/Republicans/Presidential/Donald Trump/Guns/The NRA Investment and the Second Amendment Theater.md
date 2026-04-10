@@ -5,22 +5,16 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Guns - Donors and Backers]]"
+related: "[[Guns - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]]"
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 source-types:
   - Congress
 ---
-
-
 #donald-trump #guns #nra #second-amendment #bump-stocks #concealed-carry #mass-shootings #scotus #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]]
-
 donors: [[National Rifle Association]]
-
-content-readiness:: ready
 
 ---
 
@@ -107,4 +101,3 @@ The manufacturers are not just donors. They are voter mobilization infrastructur
 - [Center for American Progress. Gun Lobby Donations Driving GOP Opposition to Gun Control](https://www.americanprogressaction.org/article/gun-lobby-donations-are-driving-the-gops-increasingly-extreme-opposition-to-gun-control/) (Tier 2)
 - [CNN. Red Flag Law Explainer and Trump Position (August 2019)](https://www.cnn.com/2019/08/05/politics/red-flag-gun-law-explainer-donald-trump) (Tier 3)
 
-research-status:: NRA spending from OpenSecrets. Bump stock timeline from Supreme Court opinion and PBS. Red flag retreat from CNN and CBS. Manufacturer data sharing from ProPublica. Gun industry contribution ratios from OpenSecrets. Concealed carry reciprocity status from Washington Times. Remaining. Individual manufacturer PAC contributions need FEC drill down.

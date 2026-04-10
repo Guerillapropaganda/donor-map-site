@@ -2,7 +2,7 @@
 title: Peter Thiel
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -19,13 +19,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-09"
 regulatory-agencies:
   - Federal Trade Commission
-related: >-
-  [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor
-  Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires
-  Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master
-  Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech
-  Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex
-  Fridman]] · [[Glenn Greenwald]]
+related: "[[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[_David Sacks Master Profile|David Sacks]] · [[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]]"
 lobbying-spend: 1684850
 lobbying-filings: 106
 stories: >-
@@ -37,24 +31,8 @@ stories: >-
   History]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] ·
   [[The Silicon Valley Billionaire Donor Map]] · [[The Thiel Pipeline - From
   Yale to VP]]
-doj-press-mentions: "264414"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
-  - "USAO - New Jersey"
 ---
-
-
 #donor #thiel #palantir #surveillance #paypal-mafia #class-analysis #follow-the-money #anti-democracy #dark-enlightenment #kingmaker #venture-capital #trump #vance
-
-related: [[_Donald Trump Master Profile]] | [[Elon Musk]] | [[_JD Vance Master Profile]] | [[_David Sacks Master Profile|David Sacks]]
 
 ---
 
@@ -224,9 +202,6 @@ Media/free press — Gawker precedent as billionaire weapon against journalism
 - [CNBC: Thiel steps down from Meta board](https://www.cnbc.com/2022/02/07/peter-thiel-to-step-down-from-facebook-board.html) (Tier 2)
 - [NZ Herald: citizenship details](https://www.nzherald.co.nz/indepth/national/how-peter-thiel-got-new-zealand-citizenship/) (Tier 2)
 
-research-status:: ready — core role documented with full class analysis, Palantir contract explosion ($4.4M→$970.5M), PayPal Mafia government network mapped, Gawker precedent, Dark Enlightenment ideology, 2026 return to active spending. All ### headers, inline citations with Tier 1-2 sources, wikilinks verified. Promoted to ready Session 38h.
-content-readiness:: ready
-
 ---
 
 ### March 2026 Update — Return to Active Political Spending
@@ -309,22 +284,4 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264414 |
-| Date Range | 2026-04-08 to 2026-04-09 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Kansas +9 more |
-
-**Recent press releases:**
-
-- 2026-04-09 — [U.S. Attorney, ATF Offer Law Enforcement Training on Firearms Trends](https://www.justice.gov/usao-ndwv/pr/us-attorney-atf-offer-law-enforcement-training-firearms-trends) — USAO - West Virginia, Northern
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- ... and 264,408 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Peter%20Thiel%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

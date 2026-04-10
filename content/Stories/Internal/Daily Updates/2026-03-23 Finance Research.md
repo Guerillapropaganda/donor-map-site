@@ -124,4 +124,3 @@ OpenSecrets projects **$10.8 billion** in total political advertising spending f
 - **Nate Morris** — Kentucky Senate candidate receiving $10M from Musk. Not yet tracked.
 - **Leading the Future / Think Big structural detail** — The AI PAC ecosystem is growing complex enough to warrant a dedicated structural map similar to the AIPAC shell PAC documentation.
 - **Konstantin Sokolov** — $11M MAGA Inc donor. No vault profile. Private equity investor with minimal public footprint.
-content-readiness:: ready

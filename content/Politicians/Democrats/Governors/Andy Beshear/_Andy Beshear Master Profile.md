@@ -14,11 +14,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Kamala Harris Master Profile]]"
 ---
-
 #andy-beshear #democrat #governor #kentucky #red-state #political-dynasty #2028 #class-analysis
 
-related: [[_Kamala Harris Master Profile]]
 donors: Churchill Downs · Morgan & Morgan · Red Mile · ECL Entertainment
 
 profile-status:: ready

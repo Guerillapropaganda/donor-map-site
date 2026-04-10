@@ -12,7 +12,6 @@ related: "(no donor nodes — small-dollar self-funded campaigns; DNC gatekeepin
 
 #media-pipeline #left #self-help #spirituality #outsider-candidate #dnc-gatekeeping
 
-
 ---
 
 ### Who They Are
@@ -181,4 +180,3 @@ Her campaigns expose Democratic Party gatekeeping: not through censorship (Willi
 - [Marianne Williamson: A Return to Love](https://marianne.com/a-return-to-love/) (Tier 2) (Chrome verified 2026-03-27)
 - [OpenSecrets: Marianne Williamson 2024 candidate data](https://www.opensecrets.org/2024-presidential-race?id=N00035565) (Tier 2) (Chrome verified 2026-03-27)
 
-content-readiness:: ready

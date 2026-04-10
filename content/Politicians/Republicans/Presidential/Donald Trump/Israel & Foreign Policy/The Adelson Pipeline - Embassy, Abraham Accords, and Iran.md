@@ -2,24 +2,19 @@
 title: "The Adelson Pipeline - Embassy, Abraham Accords, and Iran"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]]"
+related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[_Marco Rubio Master Profile]] · [[The Iran War Money Trail - From Adelson to Airstrikes]]"
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 source-types:
   - Congress
 ---
-
 #donald-trump #israel #adelson #miriam-adelson #aipac #jerusalem #abraham-accords #iran #jcpoa #soleimani #saudi-arabia #kushner #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[_Marco Rubio Master Profile]]
-
 donors: [[Miriam Adelson]], [[AIPAC - American Israel Public Affairs Committee|AIPAC]], [[United Democracy Project - UDP]]
-
-content-readiness:: ready
 
 ---
 
@@ -123,8 +118,6 @@ The spending created a structural veto over Middle East policy debate in Congres
 - [OpenSecrets. AIPAC and United Democracy Project 2024 Cycle Spending](https://www.opensecrets.org/political-action-committees-pacs/aipac/C00797670/summary/2024) (Tier 1)
 - [State Department. Abraham Accords Signing Ceremony (September 15, 2020)](https://www.state.gov/the-abraham-accords/) (Tier 1)
 - [New York Times. Kushner's Firm Received $2 Billion From Saudi Fund (April 2022)](https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html) (Tier 2)
-
-research-status:: Adelson donation timeline documented from FEC. Abraham Accords from State Department records. Kushner Saudi deal from NYT investigation. Iran war spending from DOD budget documents. AIPAC 2024 cycle from OpenSecrets. Miriam Adelson West Bank sovereignty reporting needs additional sourcing. Iran war casualty and scope data still developing as of March 2026.
 
 ### Voting Record
 

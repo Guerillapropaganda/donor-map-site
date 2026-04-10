@@ -20,11 +20,9 @@ website: "https://www.barrasso.senate.gov"
 phone: "202-224-6441"
 stock-trades: 1
 donors: "[[Marathon Petroleum]] · [[ExxonMobil]] · [[Raytheon (RTX Corporation)]] · [[American Petroleum Institute]]"
+related: "[[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Mike Lee Master Profile|Mike Lee]] · [[WSPA - Western States Petroleum Association|WSPA]] · [[Halliburton]] · [[Honeywell]]"
 ---
-
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power
-
-related: [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Mike Lee Master Profile|Mike Lee]] · [[WSPA - Western States Petroleum Association|WSPA]] · [[Halliburton]] · [[Honeywell]]
 
 ---
 
@@ -130,9 +128,6 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 - [GovTrack: John Barrasso](https://www.govtrack.us/congress/members/john_barrasso/412251) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -2,16 +2,15 @@
 title: "Dan Bongino"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
-related: "[[Tucker Carlson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[Russell Brand]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]]"
+related: "[[Tucker Carlson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[Russell Brand]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Jimmy Dore]] · [[TYT Network - The Young Turks]]"
 donors: "[[Peter Thiel]]"
 ---
 
 #media-profile #right #conservative #rumble #fbi #trump #revolving-door #law-enforcement #podcaster #class-analysis
-
 
 ---
 
@@ -183,4 +182,3 @@ Dan Bongino represents **the media-to-government revolving door as content strat
 
 ---
 
-content-readiness:: ready

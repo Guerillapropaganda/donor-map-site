@@ -2,17 +2,16 @@
 title: "Sam Seder"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]]"
+related: "[[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Jimmy Dore]] · [[Christopher Rufo]]"
 donors: "[]"
 ---
 
 #media-pipeline #left #progressive #podcaster #independent-media #air-america #msnbc #class-analysis
-
 
 ---
 
@@ -166,4 +165,3 @@ Sam Seder represents **the progressive independent media model** — the audienc
 - [Salon: "MSNBC backtracks, rehires Sam Seder" (Dec 2017)](https://www.salon.com/2017/12/07/msnbc-backtracks-rehires-sam-seder-after-firing-him-in-response-to-mike-cernovich-led-campaign/) (Tier 2)
 ---
 
-content-readiness:: ready

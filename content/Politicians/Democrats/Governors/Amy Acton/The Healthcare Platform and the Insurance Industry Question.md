@@ -2,20 +2,14 @@
 title: "The Healthcare Platform and the Insurance Industry Question"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
-related: "[[The Labor Coalition and What Unions Expect]] · [[Amy Acton Master Profile]]"
+related: "[[The Labor Coalition and What Unions Expect]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]] · [[The COVID Tenure and the Political Fallout]]"
 ---
-
-
 #acton #healthcare #insurance #medicaid #policy-platform #class-analysis #follow-the-money #structural-limits
 
-related: [[Amy Acton]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]] · Healthcare Industry
-
 donors: None (no documented insurance or pharma industry donors)
-
-content-readiness:: ready
 
 ---
 
@@ -169,7 +163,4 @@ Acton can win the first category; she cannot address the second without dismantl
 - [NPR: As Sanders Calls for Medicare for All, a Twist on That Plan Gains Traction](https://www.npr.org/sections/health-shots/2019/04/11/711902886/as-sanders-calls-for-medicare-for-all-a-twist-on-that-plan-gains-traction) (Tier 2)
 
 ---
-
-research-status:: draft
-content-readiness:: ready
 

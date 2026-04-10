@@ -2,7 +2,7 @@
 title: "Comcast - NBCUniversal"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -49,12 +49,9 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SC 13D/A"
-related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]]"
 ---
-
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts
-
-related: [[Google - Alphabet]] [[Meta - Facebook]] [[Amazon]] [[_Maria Cantwell Master Profile|Cantwell]] [[AT&T]] [[Charter Communications]]
 
 ---
 
@@ -158,9 +155,6 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 - [Techdirt: Former Trump FCC boss Ajit Pai promoted to top wireless industry lobbyist](https://www.techdirt.com/2025/03/27/the-revolving-door-spins-former-trump-fcc-boss-ajit-pai-promoted-to-top-wireless-industry-lobbyist/) (Tier 2)
 - [Techdirt: 16 U.S. states still ban community-owned broadband networks](https://www.techdirt.com/2024/11/07/16-u-s-states-still-ban-community-owned-broadband-networks-because-att-and-comcast-told-them-to/) (Tier 2)
 - [Ballotpedia: Comcast political spending](https://ballotpedia.org/Comcast) (Tier 3)
-
-content-readiness:: developed
-research-status:: developed — $13.9M lobbying (2024), $2.02M PAC (2025-2026 cycle), 32M broadband subscribers, $121B revenue, net neutrality permanently killed 2025, 16-state municipal broadband ban, $42.5B BEAD subsidy capture, FCC revolving door (Pai/Baker/Cohen), dual-class share structure. 8 sources, Tier 1-3. 2 broken URLs from original file replaced (FCC page disabled, WaPo 404). Promoted from ready (thin) to developed (substantive). Session: Automated Donor Node Build March 25, 2026 Run 12.
 
 ---
 

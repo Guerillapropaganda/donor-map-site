@@ -2,20 +2,14 @@
 title: "The Labor Coalition and What Unions Expect"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
-related: "[[The Healthcare Platform and the Insurance Industry Question]] · [[Amy Acton Master Profile]]"
+related: "[[The Healthcare Platform and the Insurance Industry Question]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio AFL-CIO]] · [[UAW - United Auto Workers|UAW]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[The COVID Tenure and the Political Fallout]]"
 ---
-
-
 #acton #labor-unions #ohio-afl-cio #uaw #working-class #institutional-democracy #class-analysis #follow-the-money #doge
 
-related: [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio AFL-CIO]] · [[UAW - United Auto Workers|UAW]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]]
-
 donors: [[Ohio AFL-CIO]], [[UAW - United Auto Workers|UAW]], [[Ohio Federation of Teachers]], [[AFGE - American Federation of Government Employees|AFGE]], OCSEA, Steelworkers
-
-content-readiness:: ready
 
 ---
 
@@ -204,7 +198,4 @@ Acton's structural position: she depends on union infrastructure to deliver vict
 - [Ramaswamy DOGE Plan: 75% Federal Workforce Cuts | Politico](https://www.politico.com/news/2025/vivek-ramaswamy-doge-federal-workforce) (Tier 2)
 
 ---
-
-research-status:: draft
-content-readiness:: ready
 

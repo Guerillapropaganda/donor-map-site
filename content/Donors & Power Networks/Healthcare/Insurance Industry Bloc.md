@@ -2,7 +2,7 @@
 title: "Insurance Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -13,12 +13,9 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
-related: "[[Insurance Industry]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Barack Obama Master Profile]]"
+related: "[[Insurance Industry]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Barack Obama Master Profile]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Humana]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation]] · [[Healthcare Sector]]"
 ---
-
 #insurance #industry-bloc #healthcare #aca #public-option #lobbying #managed-care
-
-related: [[UnitedHealth Group - Optum]] [[Blue Cross Blue Shield Association]] [[Cigna Group]] [[CVS Health - Aetna]] [[Humana]] [[Anthem - Elevance Health]] [[Anthem - Elevance Health Political Operation]]
 
 ---
 
@@ -54,8 +51,6 @@ Post-ACA insurance industry revenue growth: UnitedHealth grew from $110 billion 
 - [FEC Receipts: Health insurance industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [SEC: UnitedHealth Group, Elevance, Cigna 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Insurance%20Industry%20Bloc&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Health insurance industry](https://ballotpedia.org/Insurance_Industry_Bloc) (Tier 3)
-
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

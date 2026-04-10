@@ -25,12 +25,10 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Doug Burgum Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
-
 #lee-zeldin #republican #epa #deregulation #fossil-fuels #real-estate #pro-israel #leonard-leo #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] [[_Doug Burgum Master Profile]] [[Leonard Leo]] [[Koch Network - Charles Koch|Koch Network]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 donors: [[Leonard Leo]] · [[Koch Network - Charles Koch]]
 
 profile-status:: ready

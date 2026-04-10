@@ -10,12 +10,9 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Wall Street & Finance"
-related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]]"
+related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs]] · [[Tim Geithner]] · [[_Donald Trump Master Profile|Trump]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Wall Street Bloc]] · [[Wall Street Finance Networks]] · [[Financial Services Donors]] · [[Squire Patton Boggs]]"
 ---
-
 #goldman-sachs #wall-street #revolving-door #treasury #bipartisan #both-sides #regulatory-capture #government-sachs #donor
-
-related: [[Goldman Sachs]] [[Tim Geithner]] [[_Donald Trump Master Profile|Trump]] [[Carlyle Group]] [[JPMorgan Chase]] [[Wall Street Bloc]] [[Wall Street Finance Networks]] [[Financial Services Donors]] [[Squire Patton Boggs]]
 
 donors: [[Goldman Sachs]]
 
@@ -156,4 +153,3 @@ The structural implication: Goldman does not need to influence economic policy t
 - [Wikipedia: Goldman Sachs controversies — ABACUS $550M settlement, AIG $12.9B, TARP](https://en.wikipedia.org/wiki/Goldman_Sachs_controversies) (Tier 3)
 - [Wikipedia: List of former employees of Goldman Sachs](https://en.wikipedia.org/wiki/List_of_former_employees_of_Goldman_Sachs) (Tier 3)
 
-content-readiness:: ready

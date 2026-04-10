@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-01
 source-tier: 1
 parent: [[_Joe Manchin Master Profile]]
+related: "[[_Joe Manchin Master Profile]] · [[Enersystems and the Personal Coal Fortune]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #joe-manchin #build-back-better #inflation-reduction-act #climate #fossil-fuels #class-analysis #follow-the-money
 
-related: [[_Joe Manchin Master Profile]] · [[Enersystems and the Personal Coal Fortune]] · [[Koch Network - Charles Koch]]
-
 donors: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
-
-content-readiness:: developed
 
 ---
 

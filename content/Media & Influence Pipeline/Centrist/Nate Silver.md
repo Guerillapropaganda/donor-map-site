@@ -2,17 +2,16 @@
 title: "Nate Silver"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Ezra Klein]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]]"
+related: "[[Ezra Klein]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]]"
 donors: "[[Peter Thiel]]"
 ---
 
 #media-profile #centrist #data-journalist #substack #polymarket #prediction-markets #quantitative-centrism #class-analysis
-
 
 ---
 
@@ -170,4 +169,3 @@ Nate Silver represents **quantitative centrism as class function** — the mecha
 
 ---
 
-content-readiness:: ready

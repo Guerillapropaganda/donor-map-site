@@ -39,11 +39,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+related: "[[National Restaurant Association]] · [[Starbucks]]"
 ---
-
 #mcdonalds #fast-food #minimum-wage #franchise #labor #fight-for-15 #lobbying
-
-related: [[National Restaurant Association]] [[Starbucks]]
 
 ---
 

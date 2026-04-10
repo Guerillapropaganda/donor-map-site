@@ -11,18 +11,18 @@ type: reference
 | Politicians | 282 |
 | Donors / Corporations | 388 |
 | Stories | 105 |
-| Events | 166 |
-| All .md files scanned | 1696 |
+| Events | 202 |
+| All .md files scanned | 1735 |
 
 ## Readiness Breakdown
 
 | Level | Count |
 |-------|-------|
 | Raw (D-F) | 29 |
-| Draft (C) | 565 |
-| Ready (B) | 899 |
+| Draft (C) | 566 |
+| Ready (B) | 898 |
 | Verified (A+) | 0 |
-| Unknown / Not Set | 203 |
+| Unknown / Not Set | 242 |
 
 ## Verification Status
 
@@ -37,7 +37,7 @@ type: reference
 |--------|-------|
 | Politicians with top-donors populated | 161 |
 | Politicians missing top-donors | 121 |
-| Donors with politicians-funded populated | 210 |
+| Donors with politicians-funded populated | 214 |
 
 ## Recent Activity
 
@@ -45,16 +45,16 @@ Last 10 profiles updated (by `last-updated` frontmatter):
 
 | Profile | Type | Last Updated |
 |---------|------|--------------|
-| ADM - Archer Daniels Midland | corporation | 2026-04-09 |
-| CA Farm Bureau Federation | donor | 2026-04-09 |
-| California Farm Bureau Federation | donor | 2026-04-09 |
-| Cargill | corporation | 2026-04-09 |
-| Fanjul Family - Florida Crystals | donor | 2026-04-09 |
-| John Deere | corporation | 2026-04-09 |
-| Monsanto - Bayer | corporation | 2026-04-09 |
-| National Cattlemen's Beef Association | donor | 2026-04-09 |
-| Tyson Foods | corporation | 2026-04-09 |
-| Aramark | corporation | 2026-04-09 |
+| Cori Bush | politician | 2026-04-10 |
+| Jamaal Bowman Master Profile | politician | '2026-04-10' |
+| Kyrsten Sinema Master Profile | politician | '2026-04-10' |
+| Ron DeSantis Master Profile | politician | '2026-04-10' |
+| Marjorie Taylor Greene Master Profile | politician | '2026-04-10' |
+| Mark Green | politician | '2026-04-10' |
+| George W. Bush | politician | '2026-04-10' |
+| Ashley Hinson Master Profile | politician | '2026-04-10' |
+| Session State | system | 2026-04-10 |
+| Investigation Queue | admin-note | '2026-04-09' |
 
 ## Stale Profiles
 
@@ -62,4 +62,4 @@ Profiles where `last-updated` is 90+ days ago: **0**
 
 ---
 
-*Generated: 2026-04-09 08:55:35 UTC*
+*Generated: 2026-04-10 08:56:57 UTC*

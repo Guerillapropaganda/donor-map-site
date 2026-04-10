@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Howard Lutnick Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Howard Lutnick Master Profile]]"
 ---
-
-
 #howard-lutnick #tariffs #trade #commerce #family-profits #class-analysis #follow-the-money
 
-related: [[_Howard Lutnick Master Profile]]
 donors: (Cantor Fitzgerald — internal family firm)
 
 content-readiness:: ready

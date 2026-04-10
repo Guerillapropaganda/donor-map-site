@@ -2,12 +2,12 @@
 title: "ViaPath Technologies - GTL"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Carceral State"
 entity-type: "Corporation"
-related: "[[Aramark]]"
+related: "[[Aramark]] · [[Securus Technologies - Aventiv]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Prison Policy Initiative]]"
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
@@ -15,11 +15,7 @@ known-gaps:
 lobbying-spend: 140000
 lobbying-filings: 17
 ---
-
-
 #donor #viapath #gtl #carceral-state #prison-telecom #private-equity #american-securities #national #california #follow-the-money #class-analysis
-
-related: [[Securus Technologies - Aventiv]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]]
 
 ---
 

@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: "[[_Dan Crenshaw Master Profile]]"
+related: "[[_Dan Crenshaw Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Chevron]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]]"
 ---
-
 #crenshaw #texas #energy #houston #exxon #oil-gas #epa #petrochemical #ship-channel #lng #class-analysis #follow-the-money #sacrifice-zone
-
-related: [[_Dan Crenshaw Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Chevron]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]]
 
 donors: [[ExxonMobil]] · [[ConocoPhillips]] · [[Chevron]] · [[Koch Industries]] · [[Occidental Petroleum]]
 
@@ -81,4 +79,3 @@ Crenshaw is explicit about the district-donor alignment in ways most members avo
 
 ---
 
-content-readiness:: ready

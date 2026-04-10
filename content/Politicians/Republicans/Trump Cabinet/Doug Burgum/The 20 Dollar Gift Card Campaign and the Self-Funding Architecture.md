@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Doug Burgum Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Doug Burgum Master Profile]]"
 ---
-
-
 #doug-burgum #presidential-primary #self-funding #gift-cards #super-pac #class-analysis
 
-related: [[_Doug Burgum Master Profile]]
 donors: Miles White - Abbott Labs
 
 content-readiness:: ready

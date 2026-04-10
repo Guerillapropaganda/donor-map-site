@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Abdul El-Sayed Master Profile]]
+related: "[[_Abdul El-Sayed Master Profile]] · [[_Mallory McMorrow Master Profile]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
 ---
-
 #michigan #2026-senate #primary #progressive-civil-war #sanders-warren #donor-class #class-analysis
 
 tags: #democrat
-
-related: [[_Abdul El-Sayed Master Profile]] · [[_Mallory McMorrow Master Profile]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · AIPAC and Congressional Intervention
 
 donors: Sanders Endorsement Effect · Warren National Donor Network · AIPAC Intervention Risk
 
@@ -151,4 +149,3 @@ If El-Sayed wins the Democratic primary despite McMorrow's 3:1 fundraising advan
 - [Bernie Sanders-Backed Abdul El-Sayed Rakes in Over $24K Per Day While Swearing Off PAC Money](https://www.newsweek.com/michigan-senate-race-election-abdul-el-sayed-fundraising-2096219) (Tier 2)
 - [United States Senate election in Michigan, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Michigan,_2026) (Tier 3)
 
-content-readiness:: ready

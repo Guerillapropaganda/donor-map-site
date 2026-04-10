@@ -18,12 +18,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Gretchen Whitmer Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Wes Moore Master Profile|Wes Moore]]"
 ---
-
-
 #pete-buttigieg #indiana #south-bend #transportation-secretary #democrat #mckinsey #2020-presidential #2028-presidential #class-analysis
-
-related: [[_Gretchen Whitmer Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Wes Moore Master Profile|Wes Moore]]
 
 donors: [[Finance and Tech Bundler Network]] · McKinsey Alumni Network · Wine Cave Donor Class
 

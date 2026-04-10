@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_John Ratcliffe Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_John Ratcliffe Master Profile]]"
 ---
-
-
 #john-ratcliffe #dni #cia #politicization #signal-chat #declassification #class-analysis
 
-related: [[_John Ratcliffe Master Profile]]
 donors: (Neoconservative donors — no specific nodes yet)
 
 content-readiness:: ready

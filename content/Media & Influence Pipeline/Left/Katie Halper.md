@@ -13,7 +13,6 @@ opposes: "[[AIPAC - American Israel Public Affairs Committee]]"
 
 #media-pipeline #left #israel-palestine #editorial-gatekeeping #useful-idiots
 
-
 ---
 
 ### Who They Are
@@ -159,4 +158,3 @@ Patreon subscriptions (60-70% of podcast income), freelance journalism (20-30%),
 - [Nexstar Media Group acquires The Hill — Media industry sources](https://www.nexstar.tv/) (Tier 2) (Chrome verified 2026-03-27)
 - [FEC: Katie Halper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HALPER%2C+KATIE) (Tier 1)
 
-content-readiness:: ready

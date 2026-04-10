@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Barack Obama Master Profile]]
+related: "[[_Barack Obama Master Profile]] · [[Tim Geithner]] · [[Larry Summers]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]]"
 ---
-
-
 #obama #bank-bailout #financial-crisis #class-analysis #follow-the-money #wall-street-protection #tarp #too-big-to-jail
 
-related: [[_Barack Obama Master Profile]] · [[Tim Geithner]] · [[Larry Summers]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · Eric Holder
-
 donors: [[Goldman Sachs]], [[JPMorgan Chase]], [[Citigroup]]
-
-content-readiness:: ready
 
 ---
 
@@ -116,7 +111,6 @@ Holder's law firm billed millions in hours defending the financial sector in reg
 - [Financial Crisis Inquiry Commission: Final Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) (Tier 1)
 - [Reuters: S&L crisis prosecutions vs. financial crisis prosecutions comparison](https://www.reuters.com) (Tier 2)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel
@@ -164,4 +158,3 @@ content-readiness:: ready
 - [Mother Jones: The Real Size of the Bailout (Nomi Prins)](https://www.motherjones.com/politics/2009/12/real-size-bailout-treasury-fed/) (Tier 3) (UNVERIFIED)
 - [GAO: Federal Reserve Emergency Lending Audit (2011)](https://www.gao.gov/products/gao-11-696) (Tier 1)
 
-content-readiness:: developed

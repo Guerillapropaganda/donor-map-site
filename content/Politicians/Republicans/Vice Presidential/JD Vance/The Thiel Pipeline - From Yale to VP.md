@@ -5,13 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_JD Vance Master Profile]]
-related: "[[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class Fraud]] · [[The Thiel-Adjacent Tech Pipeline]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class Fraud]] · [[The Thiel-Adjacent Tech Pipeline]] · [[_JD Vance Master Profile]] · [[Peter Thiel]] · [[Mithril Capital]] · [[The Palantir State - Surveillance as Policy]] · [[Narya Capital and the Venture Capital Pipeline]]"
 ---
-
-
 #thiel-pipeline #venture-capital #donor-network
-
-related: [[_JD Vance Master Profile]] · [[Peter Thiel]] · [[Mithril Capital]] · [[The Palantir State - Surveillance as Policy]] · [[Narya Capital and the Venture Capital Pipeline]]
 
 donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]] · [[Eric Schmidt]]
 
@@ -165,4 +161,3 @@ This template can be replicated. Thiel is now explicitly considering the same st
 
 **content-readiness:** developed
 **last-updated:** 2026-03-20
-content-readiness:: ready

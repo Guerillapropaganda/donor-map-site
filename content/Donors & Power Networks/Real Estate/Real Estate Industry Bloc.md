@@ -2,7 +2,7 @@
 title: "Real Estate Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -24,12 +24,9 @@ ofac-programs:
   - "TCO"
 lobbying-spend: 32185838
 lobbying-filings: 100
-related: "[[Blackstone Real Estate Political Operation]]"
+related: "[[Blackstone Real Estate Political Operation]] · [[National Association of Realtors]] · [[Blackstone Real Estate]] · [[CBRE Group]] · [[Invitation Homes - Institutional Landlords]] · [[Lennar Corporation]] · [[Real Estate Roundtable]] · [[Real Estate Industry]]"
 ---
-
 #real-estate #industry-bloc #housing #lobbying #1031-exchange #zoning #reit #landlord
-
-related: [[National Association of Realtors]] [[Blackstone Real Estate]] [[CBRE Group]] [[Invitation Homes - Institutional Landlords]] [[Lennar Corporation]] [[Real Estate Roundtable]]
 
 ---
 
@@ -66,8 +63,6 @@ Total real estate industry political spending: $150-200 million per cycle in PAC
 - [JCT: 1031 exchange revenue estimates](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry%20Bloc) (Tier 1)
 - [NAR: Political advocacy](https://www.nar.realtor/advocacy) (Tier 1)
 - [Ballotpedia: Real estate industry](https://ballotpedia.org/Real_Estate_Industry_Bloc) (Tier 3)
-
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

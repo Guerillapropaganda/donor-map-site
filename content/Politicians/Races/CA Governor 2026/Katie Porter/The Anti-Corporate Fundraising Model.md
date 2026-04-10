@@ -5,15 +5,12 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Katie Porter Master Profile]]
-related: "[[The Whiteboard Brand and the Corporate Accountability Record]]"
+related: "[[The Whiteboard Brand and the Corporate Accountability Record]] · [[_Katie Porter Master Profile]] · [[The Anti-Donor Model - Two Presidential Campaigns]] · [[_Bernie Sanders Master Profile]]"
 source-types:
   - Congress
 ---
-
-
 #katie-porter #small-dollar #actblue #grassroots #fundraising #anti-corporate #class-analysis
 
-related: [[_Katie Porter Master Profile]] · [[The Anti-Donor Model - Two Presidential Campaigns]] · [[_Bernie Sanders Master Profile]]
 donors: (ActBlue small-dollar network)
 
 content-readiness:: ready

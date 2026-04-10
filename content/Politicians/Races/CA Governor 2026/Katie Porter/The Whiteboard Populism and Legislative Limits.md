@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Katie Porter Master Profile]] · [[_Elizabeth Warren Master Profile]]"
 ---
-
 #porter #whiteboard #oversight #pharma #banking #populism #viral #hearings
-
-related: [[_Katie Porter Master Profile]] [[_Elizabeth Warren Master Profile]]
 
 donors: [[PhRMA]] [[JPMorgan Chase]] [[Wells Fargo]]
 

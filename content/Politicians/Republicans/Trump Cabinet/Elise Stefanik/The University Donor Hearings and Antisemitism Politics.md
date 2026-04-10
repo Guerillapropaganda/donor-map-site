@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Elise Stefanik Master Profile]] · [[_Virginia Foxx Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 ---
-
 #stefanik #antisemitism #university #donors #harvard #penn #mit #hearing #education
-
-related: [[_Elise Stefanik Master Profile]] [[_Virginia Foxx Master Profile]] [[AIPAC - American Israel Public Affairs Committee]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]]
 

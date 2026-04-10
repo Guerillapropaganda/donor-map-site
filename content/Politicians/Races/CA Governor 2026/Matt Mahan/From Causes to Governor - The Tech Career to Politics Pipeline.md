@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Matt Mahan Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]]"
 ---
-
-
 #matt-mahan #tech-pipeline #causes #brigade-media #harvard #silicon-valley #class-analysis
 
-related: [[_Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]]
 donors: (Silicon Valley tech billionaires, venture capital networks)
 
 content-readiness:: ready

@@ -15,11 +15,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]]"
 ---
-
 #pam-bondi #trump-cabinet #attorney-general #doj #trump-university #qatar #lobbying #pay-to-play #class-analysis
 
-related: [[_Donald Trump Master Profile]]
 donors: Trump Foundation · Florida Corporate Donors · Tobacco Industry · [[Pharmaceutical Industry]]
 
 profile-status:: ready

@@ -23,11 +23,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Mallory McMorrow Master Profile|Mallory McMorrow]]"
 ---
-
 #abdul-el-sayed #michigan #senate #2026 #progressive #medicare-for-all #bernie-endorsed #small-dollar #class-analysis
-
-related: [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Mallory McMorrow Master Profile|Mallory McMorrow]] · Progressive Primary Challenge Model
 
 donors: Small-Dollar Progressive Networks · Sanders Endorsement Effect
 

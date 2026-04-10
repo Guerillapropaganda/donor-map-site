@@ -2,7 +2,7 @@
 title: "Israel - Government Lobbying Operation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -16,12 +16,9 @@ fara-records: 2
 fara-countries:
   - "QATAR"
 opposes: "[[Abby Martin]]"
-related: "[[Christians United for Israel]]"
+related: "[[Christians United for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[AIPAC Super PAC Spending Map]] · [[Haim Saban]]"
 ---
-
 #israel #foreign #lobbying #aipac #aid #arms #settlements #gaza
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[DMFI - Democratic Majority for Israel]] [[United Democracy Project - UDP]] [[AIPAC Super PAC Spending Map]]
 
 ---
 
@@ -57,8 +54,6 @@ Continued $3.8 billion annual military aid, diplomatic cover at the United Natio
 - [FARA: Israel-related foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1) (Tier 1)
 - [FEC Receipts: Pro-Israel lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Israel-US relations](https://ballotpedia.org/Israel_-_Government_Lobbying_Operation) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 

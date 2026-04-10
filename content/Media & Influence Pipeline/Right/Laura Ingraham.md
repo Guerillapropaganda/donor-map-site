@@ -2,18 +2,17 @@
 title: "Laura Ingraham"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Jesse Watters]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]]"
+related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Jesse Watters]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Jimmy Dore]]"
 donors: "(Fox Corp / Murdoch family — indirect via corporate employment)"
 opposes: "[[Rachel Maddow]]"
 ---
 
 #media-pipeline #right #conservative #fox-news #cable-news #talk-radio #pharma-advertising #class-analysis
-
 
 ---
 
@@ -193,4 +192,3 @@ Laura Ingraham represents **the legacy cable television advertising model** — 
 
 ---
 
-content-readiness:: ready

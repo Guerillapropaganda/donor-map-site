@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Raul Grijalva Master Profile]] · [[_Bruce Westerman Master Profile|Westerman]]"
 ---
-
 #grijalva #arizona #natural-resources #environment #border #mining #indigenous
-
-related: [[_Raul Grijalva Master Profile]] [[_Bruce Westerman Master Profile|Westerman]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]]
 

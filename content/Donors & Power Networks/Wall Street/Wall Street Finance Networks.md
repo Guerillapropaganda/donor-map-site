@@ -2,7 +2,7 @@
 title: "Wall Street Finance Networks"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,16 +11,13 @@ issues:
   - "Wall Street & Finance"
   - "Dark Money & Campaign Finance"
   - "Regulatory Capture"
-related: "[[Cory Booker]]"
+related: "[[Cory Booker]] · [[Wall Street Bloc]] · [[Financial Services Donors]] · [[Finance and Tech Bundler Network]] · [[Goldman Sachs - Wall Street Titan]] · [[JPMorgan]] · [[Citadel - Kenneth Griffin]] · [[Blackstone Group]] · [[Elliott Management]] · [[Morgan Stanley]] · [[Hedge Fund Industry Bloc]] · [[Private Equity Industry Bloc]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Donald Trump Master Profile|Donald Trump]] · [[JPMorgan Chase]]"
 source-types:
   - FEC
 known-gaps:
   - "No lobbying disclosure data"
 ---
-
 #wall-street #finance #networks #bundling #revolving-door #regulatory-capture #too-big-to-fail #class-analysis #both-sides
-
-related: [[Wall Street Bloc]] · [[Financial Services Donors]] · [[Finance and Tech Bundler Network]] · [[Goldman Sachs - Wall Street Titan]] · [[JPMorgan]] · [[Citadel - Kenneth Griffin]] · [[Blackstone Group]] · [[Elliott Management]] · [[Morgan Stanley]] · [[Hedge Fund Industry Bloc]] · [[Private Equity Industry Bloc]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Donald Trump Master Profile|Donald Trump]]
 
 ---
 
@@ -161,4 +158,3 @@ The reverse flow — regulators joining Wall Street firms at multiples of their 
 - (URL NEEDED) Glass-Steagall repeal and financial industry lobbying documentation
 - (URL NEEDED) 2008 bailout and Wall Street prosecution record documentation
 
-content-readiness:: developed

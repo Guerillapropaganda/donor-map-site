@@ -2,7 +2,7 @@
 title: "ALEC - American Legislative Exchange Council"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,15 +12,12 @@ issues:
   - "Energy & Climate"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[DeVos Family]] · [[2026-03-25 Finance Research]] · [[Freedom Partners Chamber of Commerce]]"
+related: "[[DeVos Family]] · [[2026-03-25 Finance Research]] · [[Freedom Partners Chamber of Commerce]] · [[Koch Industries]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Federalist Society]] · [[GEO Group]] · [[ExxonMobil]] · [[PhRMA]] · [[State Policy Network]] · [[American Federation for Children]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #alec #dark-money #model-legislation #corporate #state-level #lobbying #koch #stand-your-ground #voter-id #right-to-work #tort-reform #anti-union #fossil-fuel #ag-gag #anti-esg #class-analysis
-
-related: [[Koch Industries]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Federalist Society]] · [[GEO Group]] · [[ExxonMobil]] · [[PhRMA]] · [[State Policy Network]]
 
 ---
 
@@ -533,7 +530,5 @@ The pattern that defines ALEC is **Donor-Class Override at industrial scale**: c
 - [ALEC: State AI Policy Toolkit](https://alec.org/publication/state-ai-policy-toolkit-the-alec-guide-to-a-golden-age-of-artificial-intelligence-innovation/) (Tier 3)
 - [EXPOSEDbyCMD: ALEC Grid Stability Bills](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables) (Tier 2)
 - [Ballotpedia: ALEC](https://ballotpedia.org/American_Legislative_Exchange_Council) (Tier 3)
-
-content-readiness:: developed
 
 ### Federal Subawards & Spending Breakdown

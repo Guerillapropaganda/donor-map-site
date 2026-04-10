@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Roy Cooper Master Profile]]
-related: "[[Roy Cooper Clean Energy Policy and Environmental Record]]"
+related: "[[Roy Cooper Clean Energy Policy and Environmental Record]] · [[_Roy Cooper Master Profile|Roy Cooper]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[Centene Corporation PAC]]"
 ---
-
 #politician #democrat #healthcare #insurance #donor-analysis #north-carolina
 tags: #democrat
 
-related:: [[_Roy Cooper Master Profile|Roy Cooper]] Roy Cooper Medical Debt Relief Policy Contradiction [[Blue Cross Blue Shield Association]] [[Anthem PAC]] [[Centene Corporation PAC]]
 donors:: [[Blue Cross Blue Shield Association]] [[Anthem PAC]] [[Centene Corporation PAC]] CVS Health PAC [[UnitedHealth Group - Optum|UnitedHealth Group PAC]] Cigna Corporation PAC
 
 ---
@@ -114,4 +112,3 @@ Insurance PAC donations to Cooper spike during periods when he was most hostile 
 
 ---
 
-content-readiness:: ready

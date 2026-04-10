@@ -12,7 +12,6 @@ related: "[[Rumble]]"
 
 #media-pipeline #right #america-first #groyper #white-nationalist #dark-money #crypto-funding #january-6
 
-
 ### Who They Are
 
 Nick Fuentes is a white nationalist streamer and founder of the America First political movement and its activist wing, the Groypers. He previously hosted the America First podcast before pivoting to livestream-based media on [[Rumble]]. Deplatformed from all major mainstream services (YouTube, Twitter, Facebook, DLive), he operates at the margin of the right-wing media ecosystem—a position that has paradoxically given him outsized influence on GOP electoral and organizational strategy.
@@ -149,4 +148,3 @@ The structural arrangement: Fuentes operates at the margin, normalizes extremism
 
 ---
 
-content-readiness:: developed

@@ -27,12 +27,9 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 donors: "[[NORPAC]]"
+related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]"
 ---
-
-
 #brian-mast #republican #florida #house #committee-chair #foreign-affairs #israel #aipac #idf #military-veteran #amputee #gaza #arms-sales #sugar #phase-6-gavel-power
-
-related: [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Fanjul Family - Florida Crystals]]
 

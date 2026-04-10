@@ -2,7 +2,7 @@
 title: "Mike Rogers"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,18 +17,12 @@ issues:
 top-donors:
   - "Lockheed Martin"
   - "Boeing"
-donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]]"
-related: "[[The Armed Services Committee and Progressive Defense Paradox]]"
+donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]]"
+related: "[[The Armed Services Committee and Progressive Defense Paradox]] · [[_Jack Reed Master Profile|Reed]] · [[Lockheed Martin]] · [[Boeing]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #mike-rogers #republican #alabama #house #committee-chair #armed-services #defense #lockheed-martin #space-force #space-command #phase-6-gavel-power
 
-related: [[_Jack Reed Master Profile|Reed]] [[Lockheed Martin]] [[Boeing]] [[_Donald Trump Master Profile|Trump]]
-
 donors: [[Lockheed Martin]] [[Boeing]]
-
-profile-status:: ready
 
 ---
 ---
@@ -161,4 +155,3 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 - [Wikipedia: Mike Rogers (Alabama politician)](https://en.wikipedia.org/wiki/Mike_Rogers_%28Alabama_politician%29) (Tier 3)
 - [Encyclopedia of Alabama: Mike Rogers](https://encyclopediaofalabama.org/article/mike-rogers/) (Tier 3)
 
-content-readiness:: ready

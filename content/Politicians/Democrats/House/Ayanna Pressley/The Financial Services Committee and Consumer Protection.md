@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Ayanna Pressley Master Profile]] · [[_Maxine Waters Master Profile|Waters]] · [[Goldman Sachs]]"
 ---
-
 #pressley #massachusetts #financial-services #consumer #student-debt #banking-deserts #cfpb
-
-related: [[_Ayanna Pressley Master Profile]] [[_Maxine Waters Master Profile|Waters]] [[Goldman Sachs]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]]
 

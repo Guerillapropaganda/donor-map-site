@@ -2,16 +2,15 @@
 title: "Charlie Kirk"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Bernard Marcus]] · [[Richard and Elizabeth Uihlein]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[TPUSA - Turning Point USA]] · [[Peter Thiel]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Candace Owens]]"
+related: "[[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Bernard Marcus]] · [[Richard and Elizabeth Uihlein]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[TPUSA - Turning Point USA]] · [[Peter Thiel]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Candace Owens]] · [[Jimmy Dore]] · [[Ben Shapiro]]"
 ---
 
 #media-pipeline #right #youth-politics #dark-money #culture-war #campus-infrastructure #TPUSA
-
 
 ---
 
@@ -206,4 +205,3 @@ The audience captured by Kirk's content will vote against labor protections, aga
 - [Al Jazeera: How Charlie Kirk and Turning Point USA helped Trump and MAGA win](https://www.aljazeera.com/news/2025/9/11/how-charlie-kirk-and-turning-point-usa-helped-trump-and-maga-win) (Tier 2)
 - [International Business Times: Who Funds Conservative Campus Group Turning Point USA? Donors Revealed](https://www.ibtimes.com/political-capital/who-funds-conservative-campus-group-turning-point-usa-donors-revealed-2620325) (Tier 2)
 
-content-readiness:: ready

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Tim Walberg Master Profile]] · [[_Virginia Foxx Master Profile|Foxx]] · [[US Chamber of Commerce]]"
 ---
-
 #walberg #michigan #education #labor #manufacturing #workforce #anti-union
-
-related: [[_Tim Walberg Master Profile]] [[_Virginia Foxx Master Profile|Foxx]] [[US Chamber of Commerce]]
 
 donors: [[US Chamber of Commerce]] [[National Association of Manufacturers]]
 

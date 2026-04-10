@@ -2,7 +2,7 @@
 title: "CREW - Citizens for Responsibility and Ethics in Washington"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,12 +15,9 @@ court-cases: 2
 last-enriched: "2026-04-07"
 court-jurisdictions:
   - "District Court, District of Columbia"
-related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]]"
+related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[New Venture Fund]] · [[Democratic Donor Network]] · [[Dark Money Networks - The Shadow System]] · [[Judicial Watch]] · [[America First Legal]] · [[Democracy Forward]] · [[_Donald Trump Master Profile|Trump]] · [[National Progressive Donor Networks]]"
 ---
-
 #crew #ethics #watchdog #nonprofit #dark-money #14th-amendment #accountability #legal-advocacy #foia #progressive-infrastructure
-
-related: [[New Venture Fund]] [[Democratic Donor Network]] [[Dark Money Networks - The Shadow System]] [[Judicial Watch]] [[America First Legal]] [[Democracy Forward]] [[_Donald Trump Master Profile|Trump]]
 
 ---
 

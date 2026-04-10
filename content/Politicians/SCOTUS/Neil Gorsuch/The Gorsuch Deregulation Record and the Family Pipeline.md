@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Neil Gorsuch Master Profile]]
+related: "[[_Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #neil-gorsuch #scotus #anne-gorsuch-burford #epa #deregulation #chevron #epic-systems #labor #frozen-trucker #class-analysis #follow-the-money
 
-related: [[_Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Koch Network - Charles Koch]]
-
 donors: [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 

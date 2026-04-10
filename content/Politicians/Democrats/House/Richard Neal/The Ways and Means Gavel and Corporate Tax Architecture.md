@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Richard Neal Master Profile]]"
+related: "[[_Richard Neal Master Profile]] · [[_Jason Smith Master Profile|Jason Smith]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[JPMorgan Chase]]"
 ---
-
 #neal #ways-and-means #tax-policy #corporate-tax #private-equity #carried-interest
-
-related: [[_Richard Neal Master Profile]] [[_Jason Smith Master Profile|Jason Smith]] [[Goldman Sachs]] [[Blackstone Group]] [[JPMorgan Chase]]
 
 donors: [[Goldman Sachs]] [[Blackstone Group]] [[JPMorgan Chase]] [[Business Roundtable]]
 
@@ -50,4 +48,3 @@ Neal also championed the restoration of the state and local tax (SALT) deduction
 - [OpenSecrets: Ways and Means Committee — top industries and donors](https://www.opensecrets.org/cong-cmtes/industries?cmte=HWYS&congno=118&cycle=2024) (Tier 1)
 - [Ballotpedia: Richard Neal](https://ballotpedia.org/Richard_Neal) (Tier 3)
 
-content-readiness:: ready

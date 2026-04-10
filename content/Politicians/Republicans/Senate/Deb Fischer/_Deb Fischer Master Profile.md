@@ -25,17 +25,11 @@ phone: "202-224-6551"
 total-received: "$572,417"
 fec-candidate-id: "S2NE00094"
 donors: "[[Insurance Industry]]"
-related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
+related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
-
 #deb-fischer #republican #nebraska #senate #armed-services #strategic-forces #nuclear #icbm #sentinel #meatpacking #agriculture #cattle #rancher #defense #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
-profile-status:: ready
 
 ---
 ---
@@ -164,7 +158,6 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 - [SpaceNews: Fischer regains Strategic Forces Subcommittee leadership](https://spacenews.com/fischer-regains-leadership-of-senate-strategic-forces-subcommittee/) (Tier 2)
 - [Ballotpedia: Deb Fischer](https://ballotpedia.org/Deb_Fischer) (Tier 3)
 - [Wikipedia: Deb Fischer](https://en.wikipedia.org/wiki/Deb_Fischer) (Tier 3)
-
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

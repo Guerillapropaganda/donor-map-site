@@ -2,7 +2,7 @@
 title: "Miriam Adelson"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -34,28 +34,12 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, N.D. Texas"
   - "District Court, S.D. New York"
-doj-press-mentions: "264311"
-doj-components:
-  - "Civil Rights Division"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
-  - "USAO - Ohio, Northern"
-  - "USAO - Ohio, Southern"
 nonprofit-status: "501(c)(3)"
 total-revenue: 3842
 total-assets: 92607
-related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]] · [[Bill Hagerty]] · [[Brian Kemp]] · [[Catherine Cortez Masto]] · [[Jan Koum]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]] · [[Bill Hagerty]] · [[Brian Kemp]] · [[Catherine Cortez Masto]] · [[Jan Koum]] · [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[UNITE HERE]] · [[_JD Vance Master Profile]] · [[Haim Saban]] · [[Timothy Mellon]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[NORPAC]] · [[2028 Presidential Landscape]]"
 ---
-
-
 #donor #adelson #casino #class-analysis #follow-the-money #israel #las-vegas-sands #west-bank #annexation #sheldon-adelson #mega-donor #media-ownership #mavericks #texas-gambling #huckabee
-
-related: [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[UNITE HERE]] · [[_JD Vance Master Profile]] · [[Haim Saban]] · [[Timothy Mellon]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[NORPAC]]
 
 ---
 
@@ -250,8 +234,6 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 - [Bloomberg Billionaires Index — Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/) (Tier 1)
 - [CasinoBeats — Miriam Adelson net worth](https://casinobeats.com/features/miriam-adelson-net-worth/) (Tier 2)
 
-content-readiness:: developed
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
@@ -298,24 +280,7 @@ content-readiness:: developed
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264311 |
-| DOJ Components | Civil Rights Division, USAO - Florida, Middle, USAO - Florida, Northern, USAO - Kentucky, Eastern, USAO - Louisiana, Eastern, USAO - Massachusetts +5 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) — USAO - Ohio, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) — USAO - Massachusetts
-- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
-- ... and 264,305 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Miriam%20Adelson%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

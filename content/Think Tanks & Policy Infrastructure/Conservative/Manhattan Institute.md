@@ -2,7 +2,7 @@
 title: "Manhattan Institute for Policy Research"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: conservative
@@ -33,11 +33,10 @@ court-jurisdictions:
   - "District Court, N.D. New York"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Singer]] · [[Scaife Foundations]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
+related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Singer]] · [[Scaife Foundations]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 ---
 
 #think-tank #conservative #policing #housing #education #criminal-justice #anti-dei #urban-policy #class-analysis
-
 
 ---
 
@@ -230,8 +229,6 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 - [City Journal: Trump Executive Order on DEI Is One to Celebrate (Rufo, Jan. 21, 2025)](https://www.city-journal.org/article/donald-trump-dei-executive-order) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

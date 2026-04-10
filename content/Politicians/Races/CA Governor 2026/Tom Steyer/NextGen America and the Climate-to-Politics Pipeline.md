@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Tom Steyer Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Tom Steyer Master Profile]] · [[Farallon Capital and the Fossil Fuel Fortune]] · [[Michael Bloomberg]]"
 ---
-
-
 #tom-steyer #nextgen-america #climate #super-pac #youth-mobilization #class-analysis
 
-related: [[_Tom Steyer Master Profile]] · [[Farallon Capital and the Fossil Fuel Fortune]] · [[Michael Bloomberg]]
 donors: [[Michael Bloomberg]]
 
 content-readiness:: ready

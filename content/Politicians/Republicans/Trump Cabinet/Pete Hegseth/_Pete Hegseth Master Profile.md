@@ -18,14 +18,12 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Concerned Veterans for America]] · [[Defense Contractors Bloc]] · [[Fox News Pipeline to Power]]"
 ---
-
 > [!warning] DUPLICATE — DO NOT EDIT
 > This file is a stale duplicate. The canonical version is at [[_Pete Hegseth Master Profile]] in `Trump Cabinet/Pete Hegseth/`. This copy should be deleted once confirmed.
 
 #politician #republican #defense-secretary #media-to-government #koch-network #military-privatization #trump-cabinet
-
-related: [[Veterans and Military - Donors and Backers]] [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] [[Concerned Veterans for America]] [[Defense Contractors Bloc]] [[Fox News Pipeline to Power]]
 
 donors: [[Defense Contractors Bloc]] [[Concerned Veterans for America]] [[Koch Network - Charles Koch|Koch Network]] News Corp/Fox News
 

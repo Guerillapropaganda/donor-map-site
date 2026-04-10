@@ -2,16 +2,13 @@
 title: "ALEC Legislative Language Layer - Who Actually Writes the Laws"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Research Methodology and Data Sources]] · [[_Gavin Newsom Master Profile|Newsom]] · [[_Glenn Youngkin Master Profile|Youngkin]] · [[_Greg Abbott Master Profile|Abbott]] · [[_Ron DeSantis Master Profile|DeSantis]] · [[Koch Network - Charles Koch|Koch Network]] · [[Fossil Fuel Bloc]] · [[_Mike Johnson Master Profile|Mike Johnson]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 ---
-
 #investigation #methodology-layer #alec #model-legislation #legislative-language #koch #class-analysis
 tags: #story
-
-related: [[Research Methodology and Data Sources]] [[_Gavin Newsom Master Profile|Newsom]] [[_Glenn Youngkin Master Profile|Youngkin]] [[_Greg Abbott Master Profile|Abbott]] [[_Ron DeSantis Master Profile|DeSantis]] [[Koch Network - Charles Koch|Koch Network]] [[Fossil Fuel Bloc]] [[_Mike Johnson Master Profile|Mike Johnson]]
 
 ---
 
@@ -157,5 +154,3 @@ For the donor class, ALEC solves the scaling problem of traditional lobbying. In
 
 ---
 
-research-status:: ready — Full citation pass complete. ALEC model legislation pipeline, Koch/corporate funding structure, state-level bill tracking, copy-paste legislation documentation. 29 sources Tier 1-3 with URLs. All ### headers. Promoted Session 39.
-content-readiness:: ready

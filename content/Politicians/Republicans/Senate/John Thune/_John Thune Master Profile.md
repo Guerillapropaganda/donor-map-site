@@ -23,12 +23,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Rick Scott Master Profile]]"
 ---
-
-
 #john-thune #republican #senate #majority-leader #south-dakota #telecom #insurance #net-neutrality #class-analysis #follow-the-money
-
-related: [[_Mitch McConnell Master Profile]] [[_Donald Trump Master Profile]] [[_Rick Scott Master Profile]]
 
 donors: [[NextEra Energy]], [[Goldman Sachs]], [[Insurance Industry]]
 

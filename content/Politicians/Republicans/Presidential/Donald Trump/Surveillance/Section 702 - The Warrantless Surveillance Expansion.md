@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 2
 parent: null
-related: "[[Signalgate - The Yemen Strike Chat and the Security Theater]]"
+related: "[[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Palantir State - Surveillance as Policy]] · [[_Donald Trump Master Profile]] · [[Peter Thiel]]"
 ---
-
 #donald-trump #surveillance #section-702 #fisa #nsa #warrantless #class-analysis #follow-the-money #privacy #tech
 
-related: [[The Palantir State - Surveillance as Policy]] · [[_Donald Trump Master Profile]] · [[Peter Thiel]]
 donors: [[Peter Thiel]]
-
-content-readiness:: ready
 
 ---
 
@@ -78,8 +74,6 @@ The surveillance expansion serves the defense contractor and tech donor class di
 - [CNN. Classified hearing erupted in frustration as officials refused to say whether Trump wants to renew FISA (February 2026)](https://www.cnn.com/2026/02/09/politics/fisa-section-702-renewal-classified-hearing-frustration) (Tier 2)
 - [The Intercept. Controversial Warrantless Spying Law Expiring Soon and Trump Officials Are Silent On It (January 2026)](https://theintercept.com/2026/01/29/nsa-702-fisa-surveillance/) (Tier 2)
 - [CBS News. House approves bill renewing FISA spy program (April 2024)](https://www.cbsnews.com/news/fisa-reauthorization-house-vote-section-702/) (Tier 3)
-
-research-status:: Vote counts from congressional records and NPR. Trump position shifts from social media posts and NPR. Tech company compliance from transparency reports. FISA Court violations from declassified opinions. Palantir connection from USASpending.gov. Remaining. Specific intelligence agency budget allocations for 702 collection, defense contractor lobbying specifically for surveillance authority, complete list of warrant amendment vote.
 
 ### Legislative Activity (Congress.gov)
 

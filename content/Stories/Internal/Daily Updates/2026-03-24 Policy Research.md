@@ -181,4 +181,3 @@ Items to watch in the CA legislature:
 
 *Next scan: March 25, 2026. Watch for: Hormuz 5-day pause developments (expires ~March 28), DHS deal legislative language, SCOTUS orders list, oil price trajectory, any reconciliation 2.0 committee action.*
 
-content-readiness:: ready

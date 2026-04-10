@@ -5,12 +5,9 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Benjamin Netanyahu Master Profile]]
-related: "[[West Bank Annexation and Settlement Expansion]]"
+related: "[[West Bank Annexation and Settlement Expansion]] · [[_Benjamin Netanyahu Master Profile]] · [[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[The American Donor Network]] · [[Post-October 7 Positions and Flip History]]"
 ---
-
 #trump #israel #military-aid #weapons #diplomacy #class-analysis #adelson #usmilitary #gulfstates #international
-
-related: [[_Benjamin Netanyahu Master Profile]] · [[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[The American Donor Network]] · [[Post-October 7 Positions and Flip History]]
 
 donors: [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]]
 

@@ -5,15 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Lindsey Graham Master Profile]]
-related: "[[Tommy Tuberville Master Profile]] · [[The Trump Conversion and the Defense Contractor Payday]]"
+related: "[[Tommy Tuberville Master Profile]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[_Lindsey Graham Master Profile]] · [[_Pete Hegseth Master Profile]]"
 source-types:
   - FEC
 ---
-
-
 #lindsey-graham #defense #military #armed-services #lockheed #boeing #class-analysis #follow-the-money
-
-related: [[_Lindsey Graham Master Profile]] · [[_Pete Hegseth Master Profile]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]]
 

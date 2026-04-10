@@ -2,17 +2,14 @@
 title: "2028 Presidential Landscape"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Adelson 250M Republican Kingmaker Pledge]]"
+related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[_JD Vance Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[_Gretchen Whitmer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Andy Beshear Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Nikki Haley Master Profile]] · [[Miriam Adelson]] · [[Timothy Mellon]] · [[Elon Musk]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]] · [[Haim Saban]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 ---
-
 #2028-election #presidential #race-frame #donor-networks
 
 tags: #analysis #story
-
-related: [[_JD Vance Master Profile]] [[_Gavin Newsom Master Profile]] [[_Kamala Harris Master Profile]] [[_Josh Shapiro Master Profile]] [[_Pete Buttigieg Master Profile]] [[_Gretchen Whitmer Master Profile]] [[_Alexandria Ocasio-Cortez Master Profile]] [[_Andy Beshear Master Profile]] [[_Ron DeSantis Master Profile]] [[_Nikki Haley Master Profile]] [[Miriam Adelson]] [[Timothy Mellon]] [[Elon Musk]] [[Koch Network - Charles Koch]] [[AIPAC - American Israel Public Affairs Committee]] [[Fairshake PAC]] [[Haim Saban]]
 
 ---
 
@@ -85,5 +82,3 @@ The 2026 midterms are building 2028 infrastructure:
 
 ---
 
-content-readiness:: ready
-research-status:: active

@@ -2,20 +2,17 @@
 title: "Israel and Foreign Policy - Donors and Backers"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Sheldon & Miriam Adelson]]"
+related: "[[Sheldon & Miriam Adelson]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[_Donald Trump Master Profile]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[Northrop Grumman]]"
 known-gaps:
   - "No FEC contribution data"
   - "No legislative record from Congress.gov"
   - "No voting record data"
 ---
-
-
 #donald-trump #israel #foreign-policy #donors #backers #adelson #aipac #kushner #saudi-arabia #defense-contractors #follow-the-money #research-node
 
-related: [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[_Donald Trump Master Profile]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]]
 donors: [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP]] · [[Haim Saban]] · [[Lockheed Martin]]
 
 ---

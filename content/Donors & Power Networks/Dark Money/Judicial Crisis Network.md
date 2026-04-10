@@ -2,7 +2,7 @@
 title: "Judicial Crisis Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -27,13 +27,10 @@ court-jurisdictions:
   - "District Court, E.D. Arkansas"
   - "District Court, M.D. Tennessee"
   - "District Court, S.D. Indiana"
-related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Council for National Policy]] · [[The Dark Money Crusader and Court Reform]] · [[The Dark Money Crusade and Judicial Reform]]"
+related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Council for National Policy]] · [[The Dark Money Crusader and Court Reform]] · [[The Dark Money Crusade and Judicial Reform]] · [[Leonard Leo]] · [[_Neil Gorsuch Master Profile|Gorsuch]] · [[_Amy Coney Barrett Master Profile|Barrett]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Koch Network - Charles Koch]] · [[Donors Trust]] · [[Federalist Society]] · [[_Sheldon Whitehouse Master Profile|Whitehouse]] · [[_Clarence Thomas Master Profile|Thomas]] · [[American Federation for Children]]"
 total-political-spend: "$75,000"
 ---
-
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga
-
-related: [[Leonard Leo]] · [[_Neil Gorsuch Master Profile|Gorsuch]] · [[_Amy Coney Barrett Master Profile|Barrett]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Koch Network - Charles Koch]] · [[Donors Trust]] · [[Federalist Society]] · [[_Sheldon Whitehouse Master Profile|Whitehouse]] · [[_Clarence Thomas Master Profile|Thomas]]
 
 ---
 
@@ -170,9 +167,6 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 - [CREW: Leonard Leo's firm continues to rake in millions from his own dark money network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2)
 - [EXPOSEDbyCMD: Leonard Leo's Concord Fund top funder of Republican AGs group in 2024](https://www.exposedbycmd.org/2024/04/16/leonard-leos-concord-fund-top-funder-of-republican-ags-group-in-2024/) (Tier 2)
 - [InfluenceWatch: Concord Fund profile](https://www.influencewatch.org/non-profit/concord-fund/) (Tier 3)
-
-content-readiness:: developed
-research-status:: developed — $65M FY2024 revenue, $100M+ SCOTUS confirmation spending, $1.6B Barre Seid/Marble Freedom Trust pipeline, $20.3M to RAGA, Honest Elections Project voter suppression arm, full IRS 990 financial history, Leo network architecture mapped. 11 sources, Tier 1-3. Broken WaPo URL replaced. Promoted from ready (thin) to developed (substantive). Session: Automated Donor Node Build March 25, 2026 Run 12.
 
 ---
 

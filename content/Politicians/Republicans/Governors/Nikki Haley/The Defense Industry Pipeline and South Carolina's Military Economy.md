@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Nikki Haley Master Profile]]
+related: "[[_Nikki Haley Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]]"
 ---
-
 #nikki-haley #boeing #defense-contractors #south-carolina #military-economy #class-analysis #follow-the-money #corporate-welfare #dark-money
 
-related: [[_Nikki Haley Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]]
-
 donors: [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 

@@ -12,7 +12,6 @@ related: "[[Alex Jones]] · [[Free Speech Systems LLC]]"
 
 #media-pipeline #right #supplements #conspiracy-media #political-coordination #bankruptcy #alex-jones
 
-
 ---
 
 ### Who They Are
@@ -231,4 +230,3 @@ Patterns present: **Audience Capture** (fear creates purchasing behavior), **Pla
 
 ---
 
-content-readiness:: developed

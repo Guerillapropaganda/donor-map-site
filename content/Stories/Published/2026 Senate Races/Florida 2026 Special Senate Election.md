@@ -10,13 +10,11 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Ron DeSantis Master Profile|Ron DeSantis]]"
 ---
-
 #2026-election #senate #florida #special-election #race-frame
 
 tags: #analysis #story
-
-related:: Ashley Moody Cory Mills Laurel Lee Kat Cammack [[_Ron DeSantis Master Profile|Ron DeSantis]] Sugar Industry - Florida Insurance Industry - Florida Real Estate Donor Networks - Miami/Tampa
 
 donors:: Sugar Industry of Florida DeSantis Donor Network [[National Republican Senatorial Committee]] Republican Main Street Partnership Real Estate Council of Florida Homeowners Insurance PACs
 
@@ -91,5 +89,3 @@ Florida's special election for a two-year Senate term (versus six-year terms for
 
 ---
 
-content-readiness:: ready
-research-status:: active

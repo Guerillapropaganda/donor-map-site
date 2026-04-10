@@ -2,7 +2,7 @@
 title: "UNITE HERE"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -20,7 +20,7 @@ nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-09"
 lei: "54930053JDKWMZI3NN64"
 lei-jurisdiction: "CA"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]] · [[Ash Kalra]]"
 federal-register-mentions: 91
 regulatory-agencies:
   - "Commodity Futures Trading Commission"
@@ -34,11 +34,7 @@ regulatory-agencies:
   - "Transportation Department"
   - "Wage and Hour Division"
 ---
-
-
 #donor #union #UNITE-HERE #hospitality #hotel #food-service #labor #class-analysis #follow-the-money #california #national #las-vegas #immigrant-workers #strike
-
-related: [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]]
 
 ---
 
@@ -149,9 +145,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 - [OpenSecrets: UNITE HERE 2024 cycle data](https://www.opensecrets.org/orgs/unite-here/summary?id=D000022292) (Tier 1)
 - [UNITE HERE Local 2: SF hotel strike outcomes](https://unitehere.org/affiliates/local-2-san-francisco-and-bay-area/) (Tier 2)
 - [UNITE HERE Local 11: Wage campaigns and Disney bargaining](https://unitehere.org/affiliates/local-11-los-angeles-orange-county-arizona2/) (Tier 2)
-
-research-status:: ready — Full citation pass complete. 300K+ members, $5.2M PAC, $11.4M outside spending, Las Vegas Culinary Union model, SF/LA hotel strikes, Disney bargaining, immigrant workforce class analysis, organizing-over-donations model. 6 sources, Tier 1-2. All ### headers. Promoted Session 38k.
-content-readiness:: ready
 
 ---
 

@@ -51,7 +51,6 @@ sec-form-types:
 
 #lobbying #k-street #maritime #financial-services #energy #transportation #tech #steel #defense
 
-
 ---
 
 ### Who They Are
@@ -252,8 +251,6 @@ The revolving door at K&L Gates is not especially lurid — there are no Haley B
 - [K&L Gates: President Trump Takes Additional Actions on Reciprocal Tariffs, Shipping, and Digital Services Taxes (February 2025)](https://www.klgates.com/President-Trump-Takes-Additional-Actions-on-Reciprocal-Tariffs-Shipping-and-Digital-Services-Taxes-2-22-2025) (Tier 3)
 - [K&L Gates: US Government Announces Historic $80 Billion Nuclear Partnership with Westinghouse, Cameco, Brookfield (October 2025)](https://www.klgates.com/US-Government-Announces-Historic-80-Billion-Nuclear-Partnership-with-Westinghouse-Electric-Company-Cameco-Corporation-and-Brookfield-Asset-Management-to-Construct-AP1000-Reactor-Fleet-10-30-2025) (Tier 3)
 - [Utility Dive: US partners with Westinghouse, Cameco and Brookfield on $80B nuclear deployment (October 2025)](https://www.utilitydive.com/news/westinghouse-cameco-brookfield-nuclear/803999/) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

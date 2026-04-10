@@ -23,11 +23,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]]"
 ---
-
 #lindsey-graham #senate #south-carolina #defense #trump #mccain #aipac #class-analysis #chameleon #follow-the-money
 
-related: [[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]]
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Lockheed Martin]] · [[Boeing]] · [[Republican Jewish Coalition]]
 
 ```dataview

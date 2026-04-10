@@ -2,7 +2,7 @@
 title: "Eric Schmidt"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -26,12 +26,9 @@ regulatory-agencies:
   - "Federal Communications Commission"
   - "Federal Deposit Insurance Corporation"
   - "National Security Commission on Artificial Intelligence"
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Matt Mahan Master Profile]] · [[Ro Khanna Master Profile]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Matt Mahan Master Profile]] · [[Ro Khanna Master Profile]] · [[Google - Alphabet]] · [[_JD Vance Master Profile|JD Vance]] · [[The 2024 Tech Billionaire Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Peter Thiel]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Mike Lee Master Profile|Mike Lee]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
 ---
-
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money
-
-related: [[Google - Alphabet]] · [[_JD Vance Master Profile|JD Vance]] · [[The 2024 Tech Billionaire Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Peter Thiel]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Mike Lee Master Profile|Mike Lee]]
 
 ---
 
@@ -238,8 +235,6 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 
 ---
 
-research-status:: developed — Comprehensive merge of existing ready profile with deep research expansion. Expanded from 151 to 350+ lines. Fixed type: corporation → donor. New data: Schmidt Futures mechanism (IPA-funded personnel in 10+ Biden agencies including FTC, "Schmidt fellows"), STAC Labs ($227K in-kind to 18 state Democratic parties), China/Hillhouse Capital conflict ($17M in Chinese AI fund while chairing NSCAI, Yitu blacklisted portfolio company), SCSP post-NSCAI succession (same personnel, less oversight, Project 2025 alignment), America's Frontier Fund (public-private vehicle built from NSCAI recommendation), specific FEC donations by cycle and recipient ($8.5M in 2020 including $775K Future Forward, $142K DNC), Biden agency placement list, institutional succession pattern analysis. Downgraded from ready to developed: 8 new UNVERIFIED URLs need Chrome pass. 20+ sources total (2 Tier 1, 12 Tier 2, 3 Tier 3, remainder UNVERIFIED). Gaps: Innovation Endeavors full portfolio mapping, Rebellion Defense contract amounts, Schmidt's role in Google's PRISM/NSA partnership details, 2024-2026 Trump advisory specifics.
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

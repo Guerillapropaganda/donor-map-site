@@ -2,16 +2,13 @@
 title: "Pro-Israel Donor Network Deep Dive"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Trump Resistance and the 2028 Play]] · [[Ethnic Studies - Whose History Gets Taught]] · [[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]] · [[Benjamin Netanyahu Master Profile]]"
+related: "[[Trump Resistance and the 2028 Play]] · [[Ethnic Studies - Whose History Gets Taught]] · [[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]] · [[Benjamin Netanyahu Master Profile]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[_Gavin Newsom Master Profile]] · [[The Biden Exit and Harris Installation]]"
 ---
-
-
 #newsom #israel #donor-network #[[JPAC - Jewish Public Affairs Committee of California|JPAC]] #JCRC #haim-saban #silicon-valley #follow-the-money #behested-payments #california-israel #entertainment #two-audience-problem #class-analysis
 
-related: [[Early History and Background Ties 2003-2019]] | [[Post-October 7 Positions and Flip History]] | [[_Gavin Newsom Master Profile]]
 donors: [[JPAC - Jewish Public Affairs Committee of California]] | [[JCRC Bay Area]]
 
 ---
@@ -170,4 +167,3 @@ This is the class war frame applied to foreign policy: whose interests are repre
 - [OpenSecrets: Larry Ellison donor profile](https://www.opensecrets.org/donor-lookup/results?name=larry+ellison) (Tier 1)
 - [FPPC: California campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 
-content-readiness:: ready

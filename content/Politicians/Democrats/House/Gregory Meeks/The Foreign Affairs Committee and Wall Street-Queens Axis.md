@@ -5,16 +5,13 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Gregory Meeks Master Profile]]"
-related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
+related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[_Gregory Meeks Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 ---
-
 #meeks #foreign-affairs #wall-street #queens #trade #finance #black-caucus
-
-related: [[_Gregory Meeks Master Profile]] [[Goldman Sachs]] [[JPMorgan Chase]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors: [[Goldman Sachs]] [[JPMorgan Chase]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 

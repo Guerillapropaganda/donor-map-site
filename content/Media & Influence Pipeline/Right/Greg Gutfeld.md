@@ -2,16 +2,15 @@
 title: "Greg Gutfeld"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Sean Hannity]] · [[Nicolle Wallace]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[Sean Hannity]] · [[Nicolle Wallace]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #right #fox-news #late-night #comedy #pharma-ads #dominion
-
 
 ---
 
@@ -129,4 +128,3 @@ The zero-FEC pattern is revealing: Gutfeld's political influence is entirely cha
 - [Ballotpedia: Greg Gutfeld](https://ballotpedia.org/Greg_Gutfeld) (Tier 3)
 - [FEC: Greg Gutfeld individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=GUTFELD%2C+GREG) (Tier 1)
 
-content-readiness:: ready

@@ -2,7 +2,7 @@
 title: "Climate Philanthropy - The Green Billionaires"
 type: story
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,14 +12,11 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
   - "Environment"
-related: "[[Silicon Valley Democratic Donor Network]]"
+related: "[[Silicon Valley Democratic Donor Network]] · [[Michael Bloomberg]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Laurene Powell Jobs]]"
 source-types:
   - FEC
 ---
-
 #climate-philanthropy #green-billionaires #tom-steyer #michael-bloomberg #dark-money #environment
-
-related: [[Michael Bloomberg]] [[_Tom Steyer Master Profile|Tom Steyer]] [[New Venture Fund]] Sierra Club
 
 ---
 

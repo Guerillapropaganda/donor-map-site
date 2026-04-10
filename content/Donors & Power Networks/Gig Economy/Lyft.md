@@ -2,7 +2,7 @@
 title: "Lyft"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -34,7 +34,7 @@ court-jurisdictions:
   - "District Court, E.D. Michigan"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
-related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Airbnb]]"
+related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Airbnb]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[DoorDash]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"
@@ -67,11 +67,7 @@ sec-form-types:
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
 ---
-
-
 #donor #gig-economy #tech #lyft #labor-opponent #prop-22 #AB5 #follow-the-money #silicon-valley #california #flex-association
-
-related: [[_Gavin Newsom Master Profile]] | [[AB5 - Gig Worker Classification]] | [[Prop 22 - The $200M Corporate Rollback]] | [[Uber]] | [[DoorDash]] | [[Labor - Donors and Backers]]
 
 ---
 
@@ -156,9 +152,6 @@ Climate/EV — Prop 30 ($8M spent, Newsom opposed)
 - [CalMatters: California Proposition 22 and gig worker ballot measures](https://calmatters.org/election-2020-guide/proposition-22-gig-workers-ab-5/) (Tier 2)
 - [The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
 - [FPPC: Contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-
-research-status:: ready — $49M Prop 22, $930K/$760K lobbying, $8M Prop 30, 2025 insurance bill win, a16z investor connection, Flex Association co-founder. 6 sources, Tier 1-2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ---
 

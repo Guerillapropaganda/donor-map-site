@@ -2,15 +2,12 @@
 title: "How Money Captures Media — The Donor Map Media Pipeline"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[_Media Pipeline Framework]] · [[_Media Pipeline Index]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Peter Thiel]] · [[Research Methodology and Data Sources]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 ---
-
 #media-pipeline #cross-analysis #class-analysis #donor-map #both-sides-illusion
-
-related: [[_Media Pipeline Framework]] · [[_Media Pipeline Index]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Peter Thiel]] · [[Research Methodology and Data Sources]]
 
 ---
 
@@ -145,4 +142,3 @@ This note synthesizes findings from all 30 profiles in the [[_Media Pipeline Ind
 
 ---
 
-content-readiness:: ready

@@ -2,20 +2,17 @@
 title: "2026 House Money Map"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[DCCC Red-to-Blue Targets 2026]] · [[California Razor-Thin Districts 2026]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[DCCC Red-to-Blue Targets 2026]] · [[California Razor-Thin Districts 2026]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Koch - Koch Industries]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 source-types:
   - FEC
 internal-notes: "[URL Check 2026-04-08] 19 checked: 16 ok, 3 broken, 0 slow. | BROKEN: United Democracy Project Recipients, 2024 • OpenSecrets | BROKEN: MAGA Inc. super PAC enters 2026 with $300 million stockpile - Fox News | BROKEN: Lawler decides not to run for governor in 2026, will seek reelection in NY-17 instead - WAMC"
 ---
-
 #2026-election #house #race-frame #pac-money #donor-networks
 
 tags: #analysis #story
-
-related:: [[AIPAC - American Israel Public Affairs Committee]] [[Fairshake PAC]] [[Think Big AI PAC]] [[Koch - Koch Industries]]
 
 ---
 
@@ -112,5 +109,3 @@ The shell PAC model perfected by AIPAC in Illinois is likely to be replicated na
 
 ---
 
-content-readiness:: ready
-research-status:: active

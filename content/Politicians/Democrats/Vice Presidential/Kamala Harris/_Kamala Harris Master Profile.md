@@ -23,25 +23,10 @@ top-donors:
   - "UnitedHealth Group - Optum"
 total-received: "$1,175,903,792"
 fec-candidate-id: "P00009423"
-related: "[[Nancy Pelosi Master Profile]]"
-doj-press-mentions: "264413"
+related: "[[Nancy Pelosi Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[California Labor Federation]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]]"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
 ---
-
 #harris #master-profile #vice-president #president #democrat #class-analysis #follow-the-money #california #prosecutor #labor #donor-class #2024 #tech #hollywood #silicon-valley
-
-related: [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[California Labor Federation]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]]
 
 donors: [[Michael Bloomberg]], [[Haim Saban]], [[SEIU - Service Employees International Union]], [[CNA - California Nurses Association]], [[Teamsters - International Brotherhood of Teamsters]], [[AIPAC - American Israel Public Affairs Committee]], [[Blue Shield of California]], [[UnitedHealth Group - Optum]]
 
@@ -206,10 +191,6 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 - PBS Frontline — Prosecutorial record, death penalty (Tier 2)
 - The Marshall Project — Comprehensive prosecutor record (Tier 2)
 
-profile-status:: ready
-research-status:: ready — Full citation pass complete. $2.3B campaign finance, Teamsters split (60% Trump), OneWest non-prosecution, Medicare for All walk-back, AIPAC $500K+, donor-to-policy timeline (10 entries). All ### headers, source format standardized, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |
@@ -258,24 +239,7 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264413 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
-
-**Recent press releases:**
-
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
-- ... and 264,407 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Kamala%20Harris%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
 

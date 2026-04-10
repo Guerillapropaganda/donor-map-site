@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Vivek Ramaswamy Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Vivek Ramaswamy Master Profile]] · [[Jeffrey Yass]] · [[Ross Stevens]]"
 ---
-
-
 #vivek-ramaswamy #ohio #governor #jeff-yass #ross-stevens #super-pac #class-analysis #bytedance
 
-related: [[_Vivek Ramaswamy Master Profile]] [[Jeffrey Yass]] [[Ross Stevens]] _Amy Acton Master Profile
 donors: [[Jeffrey Yass]] [[Ross Stevens]] [[Susquehanna International Group]]
 
 content-readiness:: ready

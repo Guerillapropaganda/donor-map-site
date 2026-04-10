@@ -8,12 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Timothy Mellon|Timothy Mellon]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]]"
 ---
-
 #investigation #contradiction #timothy-mellon #trump #rfk #spoiler #class-analysis
 tags: #analysis #story
-
-related: [[_Donald Trump Master Profile]] [[_Greg Abbott Master Profile|Greg Abbott]] [[Timothy Mellon|Timothy Mellon]] [[Immigration Enforcement - The Detention Economy]] [[Fossil Fuel Deregulation - The Climate Donors]]
 
 ---
 
@@ -146,5 +144,3 @@ Mellon's $504 million lifetime spend shows this is not corruption of the system.
 
 ---
 
-research-status:: ready — Full citation pass complete. Mellon $504M+ lifetime, $140-150M MAGA Inc, $25M RFK Jr American Values 2024, $53M stock donation Abbott border wall, $130M military payment Oct 2025 shutdown, immigration enforcement as through-line. 20 sources Tier 2-3 with URLs. All ### headers. Promoted Session 39.
-content-readiness:: ready

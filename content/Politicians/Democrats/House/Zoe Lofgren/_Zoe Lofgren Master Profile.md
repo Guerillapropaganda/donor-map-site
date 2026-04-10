@@ -22,17 +22,11 @@ issues:
 total-received: "$1,274,233"
 fec-candidate-id: "H4CA16049"
 donors: "[[Tech Industry]] · [[Google - Alphabet]]"
-related: "[[Brian Babin]]"
+related: "[[Brian Babin]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #zoe-lofgren #democrat #california #house #ranking-member #science-space-technology #silicon-valley #big-tech #immigration #h1b #antitrust #january-6 #apple #google #meta #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -146,8 +140,6 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 - [Clerk.house.gov: Lofgren 119th Congress profile](https://clerk.house.gov/members/L000397) (Tier 1)
 - [Ballotpedia: Zoe Lofgren](https://ballotpedia.org/Zoe_Lofgren) (Tier 3)
 - [Wikipedia: Zoe Lofgren](https://en.wikipedia.org/wiki/Zoe_Lofgren) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

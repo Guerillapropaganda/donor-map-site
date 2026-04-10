@@ -16,12 +16,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Walton Family Foundation]]"
 ---
-
-
 #sarah-sanders #governor #arkansas #trump-dynasty #class-analysis #education-privatization #child-labor
-
-related: [[_Donald Trump Master Profile]] · Mike Huckabee · [[Walton Family Foundation]] · Arkansas Republicans
 
 donors: Trump Network Small-Dollar Donors · [[Walton Family Foundation]] · Arkansas Business Class
 
@@ -175,4 +172,3 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 - [In These Times: Arkansas Teachers Strike against corporate school privatizers](https://inthesetimes.com/article/little-rock-arkansas-strike-teachers-waltons-walmart) (Tier 2)
 - [NEA Arkansas: Inside the web of Arkansas school privatization empire](https://www.aeaonline.org/resource-library/inside-web-arkansass-school-privatization-empire) (Tier 2)
 content-readiness:: ready
- 

@@ -2,7 +2,7 @@
 title: "Donors Capital Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -24,7 +24,7 @@ ein: "541934032"
 annual-revenue: "$696K"
 net-assets: "$9.5M"
 tax-year: "2023"
-related: "[[DeVos Family]]"
+related: "[[DeVos Family]] · [[Freedom Partners]] · [[State Policy Network]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Federalist Society]] · [[America First Legal]] · [[American Federation for Children]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 8448130
 total-assets: 10973631
@@ -57,10 +57,7 @@ sec-form-types:
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
 ---
-
 #donor #dark-money #donor-advised-fund #501c3 #conservative #koch-network #class-analysis #follow-the-money
-
-related: [[Freedom Partners]] · [[State Policy Network]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Federalist Society]] · [[America First Legal]]
 
 ---
 

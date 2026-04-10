@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Maria Cantwell Master Profile]] · [[_Patty Murray Master Profile]] · [[Boeing]]"
 ---
-
 #cantwell #washington #boeing #commerce #amazon #tech #trade
-
-related: [[_Maria Cantwell Master Profile]] [[_Patty Murray Master Profile]] [[Boeing]]
 
 donors: [[Boeing]] [[Amazon]] [[Microsoft]]
 

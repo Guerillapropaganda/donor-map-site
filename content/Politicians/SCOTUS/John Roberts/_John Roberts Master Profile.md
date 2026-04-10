@@ -18,12 +18,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #john-roberts #scotus #chief-justice #leonard-leo #federalist-society #citizens-united #shelby-county #institutionalist #donor-capture #class-analysis
-
-related: [[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]
 
 donors: [[Leonard Leo]], [[Koch Network - Charles Koch]]
 
@@ -142,7 +139,6 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 - [NPR: Supreme Court Justices' Disclosures Reveal Details of Their Wealth](https://www.npr.org/2023/06/28/1183337280/supreme-court-ethics-financial-disclosures-possible-conflicts-of-interest) (Tier 2)
 - [Congress.gov: Loper Bright and the Future of Agency Interpretations](https://www.congress.gov/crs-product/R48320) (Tier 1)
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Nydia Velazquez Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]]"
 ---
-
 #velazquez #new-york #small-business #puerto-rico #labor #housing #immigration
-
-related: [[_Nydia Velazquez Master Profile]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]]
 
 donors: [[Goldman Sachs]]
 

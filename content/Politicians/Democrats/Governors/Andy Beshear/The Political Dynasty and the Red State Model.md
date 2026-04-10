@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Andy Beshear Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Andy Beshear Master Profile]]"
 ---
-
-
 #andy-beshear #steve-beshear #kentucky #red-state-democrat #political-dynasty #off-year-elections #class-analysis
 
-related: [[_Andy Beshear Master Profile]]
 donors: []
 
 content-readiness:: ready

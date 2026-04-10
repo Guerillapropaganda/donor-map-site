@@ -1,8 +1,8 @@
 ---
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-08
+content-readiness: ready
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,9 +10,20 @@ chamber: "House"
 state: "New York"
 state-abbr: "NY"
 district: "14"
+issues:
+  - Climate
+  - Healthcare
+  - Housing
+  - Israel & Foreign Policy
+  - Labor
+  - Campaign Finance
+  - Immigration
 top-donors:
-  - "Small Dollar Donors - ActBlue"
+  - "Small Dollar Donors (ActBlue)"
+  - "Google employees"
+  - "NYC Dept of Education employees"
 govtrack-id: 412804
+bioguide-id: "O000172"
 bills-sponsored: 7
 bills-cosponsored: 323
 website: "https://ocasio-cortez.house.gov"
@@ -25,18 +36,14 @@ source-types:
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - 5 sources tagged (URL NEEDED) — Times of Israel, Daily Free Press, Current Affairs, Democratic Left, Fox News. Prevents verified promotion.
+  - Committee assignments data needs verification (auto-block pipeline)
+related: "[[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]]"
 ---
-
 #aoc #alexandria-ocasio-cortez #house #new-york #bronx #small-dollar #green-new-deal #dsa #progressive #class-analysis #squad
-
-related:: [[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]]
 
 donors: [[Small Dollar Donors - ActBlue]]
 
-profile-status:: ready
-
----
 ---
 
 ## Who She Is
@@ -153,14 +160,13 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 
 ## Sources
 
-- [FEC: Alexandria Ocasio-Cortez campaign finance filings](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-- [FEC Candidate: Alexandria Ocasio-Cortez donor profile](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-- [FEC Candidate: AOC Industries 2024](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-- [FEC Candidate: AOC Industries 2020](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-- [OpenSecrets: AOC Industries Combined (All Cycles)](https://www.opensecrets.org/members-of-congress/industries?cycle=2024&type=C) (Tier 1)
-- [OpenSecrets: Courage to Change PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/courage-to-change/C00692202/summary/2024) (Tier 1)
-- [FEC: Courage to Change PAC C00692202](https://www.fec.gov/data/committee/C00692202/) (Tier 1)
-- [ProPublica Congress: Alexandria Ocasio-Cortez voting record](https://projects.propublica.org/represent/) (Tier 1)
+### Verified
+- [FEC: Alexandria Ocasio-Cortez candidate page](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+- [FEC: Courage to Change PAC (C00692202)](https://www.fec.gov/data/committee/C00692202/) (Tier 1)
+- [Congress.gov: Alexandria Ocasio-Cortez member profile](https://www.congress.gov/member/alexandria-ocasio-cortez/O000172) (Tier 1)
+- [GovTrack: Alexandria Ocasio-Cortez voting record](https://www.govtrack.us/congress/members/412804) (Tier 1)
+- [House Ethics Committee Report: July 25, 2025 (Met Gala ruling)](https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez-1.pdf) (Tier 1)
+- [ProPublica Congress: Alexandria Ocasio-Cortez](https://projects.propublica.org/represent/members/O000172) (Tier 1)
 - [CNN: AOC built a Democratic fundraising juggernaut (2025)](https://www.cnn.com/2025/08/26/politics/aoc-ocasio-cortez-fundraising-democrats) (Tier 2)
 - [Politico: AOC raised $9.6M in Q1 2025](https://www.politico.com/news/2025/04/15/ocasio-cortez-raised-9-6-million-in-three-months-smashing-her-own-record-00291694) (Tier 2)
 - [Business Insider: Wall Street donors to Caruso-Cabrera 2020](https://markets.businessinsider.com/news/stocks/wall-street-giants-donated-aoc-opponent-michelle-caruso-cabrera-2020-6-1029342965) (Tier 2)
@@ -170,13 +176,19 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 - [New York Post: Celebrity donors behind small-dollar facade](https://nypost.com/2025/11/15/us-news/aoc-trumpets-small-donors-but-celebs-like-jane-fonda-ben-affleck-wanda-sykes-and-melanie-griffith-give-big/) (Tier 2)
 - [Reuters: Moderate Democrats return Courage to Change PAC donations](https://www.reuters.com/business/finance/us-republicans-spotlight-aoc-pacs-contributions-vulnerable-house-democrats-2021-04-19/) (Tier 2)
 - [Jacobin: AOC voting record and policy accomplishments](https://jacobin.com/2023/08/alexandria-ocasio-cortez-aoc-the-squad-left-criticism-policy-accomplishments) (Tier 2)
-- [Ethics Committee Report: July 25, 2025](https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez-1.pdf) (Tier 1)
+- [Slate: AOC apologizes after "present" vote on Iron Dome](https://slate.com/news-and-politics/2021/09/aoc-apologizes-present-vote-iron-dome-funding.html) (Tier 2)
 - [Quiver Quantitative: Q4 2025 Filing](https://www.quiverquant.com/news/Fundraising+Update:+Representative+Alexandria+Ocasio-Cortez+just+disclosed+$3.7M+of+new+fundraising) (Tier 2)
-- [Times of Israel: Sunshine Bronx Incubator / Israeli VC connection, October 2020](URL NEEDED) (Tier 2)
-- [Daily Free Press (BU): Niger study abroad program, January 2023](URL NEEDED) (Tier 2)
-- [Current Affairs: AOC and the "privileged critique" pivot, July 2023](URL NEEDED) (Tier 2)
-- [Democratic Left / DSA: Original interview, March 2021](URL NEEDED) (Tier 3)
-- [Fox News: Brook Avenue Press tax delinquency / dissolution](URL NEEDED) (Tier 3)
+
+### Archived
+- ~~[OpenSecrets: AOC Industries Combined](https://www.opensecrets.org/members-of-congress/industries?cycle=2024&type=C)~~ (was Tier 1, OpenSecrets demoted, FEC data preserved)
+- ~~[OpenSecrets: Courage to Change PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/courage-to-change/C00692202/summary/2024)~~ (was Tier 1, FEC committee page above covers same data)
+
+### URL NEEDED (blocking verified promotion)
+- Times of Israel: Sunshine Bronx Incubator / Israeli VC connection, October 2020 (Tier 2)
+- Daily Free Press (BU): Niger study abroad program, January 2023 (Tier 2)
+- Current Affairs: AOC and the "privileged critique" pivot, July 2023 (Tier 2)
+- Democratic Left / DSA: Original interview, March 2021 (Tier 3)
+- Fox News: Brook Avenue Press tax delinquency / dissolution (Tier 3)
 
 ---
 
@@ -235,9 +247,13 @@ Sources: [FEC: Ocasio-Cortez](https://www.fec.gov/data/candidate/H8NY15148/) (Ti
 > The pattern is institutional not financial: AOC's funding model has remained consistent (small-dollar, no corporate PAC money). Her institutional position has shifted (insurgent → party player → leadership track). The small-dollar base hasn't abandoned her; it has moved with her. This is the vault's central question inverted: where typical politicians' rhetoric changes as donor funding shifts, AOC's rhetoric has stayed consistent while her institutional role changed. The small-dollar donors have bankrolled her journey from insurgent to institutionalist.
 
 ---
-content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found for the 119th Congress._
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
+<!-- auto:committee-assignments end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Deb Fischer Master Profile]] · [[Northrop Grumman]] · [[Lockheed Martin]] · [[Boeing]]"
 ---
-
 #fischer #nebraska #armed-services #defense #stratcom #agriculture #nuclear
-
-related: [[_Deb Fischer Master Profile]] [[Northrop Grumman]] [[Lockheed Martin]] [[Boeing]]
 
 donors: [[Northrop Grumman]] [[Lockheed Martin]] [[Boeing]] [[Raytheon (RTX)|Raytheon]]
 

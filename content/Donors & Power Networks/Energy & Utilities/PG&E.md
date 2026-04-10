@@ -2,7 +2,7 @@
 title: "PG&E"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -13,18 +13,14 @@ ein: "943358729"
 annual-revenue: "$23.4M"
 net-assets: "$99.5M"
 tax-year: "2023"
-related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]]"
+related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]] · [[_Gavin Newsom Master Profile]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[Uber]]"
 top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 2
 ---
-
-
 #donor #utility #PGE #regulated-monopoly #wildfire #ratepayers #california #follow-the-money #criminal-guilty-plea #class-analysis #energy
-
-related: [[_Gavin Newsom Master Profile]] | [[PG&E - The Utility Donor and the Wildfire Cover]] | [[Environment - Donors and Backers]] | [[Western States Petroleum Association]]
 
 ---
 
@@ -105,7 +101,6 @@ Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Can
 
 ---
 
-
 ### Sources
 
 - [The Intercept: PG&E contributions to Newsom](https://theintercept.com/2019/11/04/pge-bailout-bankruptcy-lobbying/) (Tier 2)
@@ -114,9 +109,6 @@ Environment — wildfires, utility regulation, clean energy, NEM 3.0, Diablo Can
 - [CalMatters: California lobbying spending tracker](https://calmatters.org/data/2025/04/california-lobbying-spending-2024/) (Tier 2)
 - [FPPC: Contribution filings / behested payment database](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [FPPC: Newsom stipulation Nov. 2024 $13K fine](https://lunar.fppc.ca.gov/content/dam/fppc/documents/Stipulations/2024/november/5-Newsom-for-Governor-2018-Stip.pdf) (Tier 1)
-
-research-status:: ready — 16M customers, $208.4K Newsom direct + $290-358K Representation Project, $40M lobbying since 2005, 84 manslaughter guilty plea, AB 1054 wildfire fund, NEM 3.0, Diablo Canyon extension, structural leverage analysis. 6 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

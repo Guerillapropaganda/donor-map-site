@@ -2,7 +2,7 @@
 title: "Bernie Moreno"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 govtrack-id: 456967
@@ -12,13 +12,11 @@ website: "https://www.moreno.senate.gov"
 phone: "202-224-2315"
 total-received: "$1,879,101"
 fec-candidate-id: "S4OH00192"
-donors: "[[David Sacks]] · [[NORPAC]]"
+donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]]"
+related: "[[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]"
 ---
-
 #bernie-moreno #senate #ohio #crypto-industry #trump-backed #auto-dealer #class-analysis
 tags: #republican
-
-related: [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]
 
 donors: [[Crypto Industry Bloc]] · [[Trump Donor Coalition]] · Defend American Jobs PAC
 
@@ -94,9 +92,6 @@ Sherrod Brown represented labor. Bernie Moreno represents crypto capital. The 20
 - [Rolling Stone: Crypto industry as political money death star 2024](https://www.rollingstone.com/politics/politics-features/trump-moreno-congress-crypto-death-star-2024-1235168746/) (Tier 2)
 - [Cleveland Scene: The Furious Saga of Bernie Moreno, Car Dealer Turned Tech Evangelist](https://www.clevescene.com/news/the-furious-saga-of-bernie-moreno-car-dealer-turned-tech-evangelist-24514858/) (Tier 2)
 - [WOSU: Who is Bernie Moreno? Car salesman turned politician](https://www.wosu.org/2024-09-24/who-is-bernie-moreno-car-salesman-turned-politician-sells-his-ideas-to-ohio-voters) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 

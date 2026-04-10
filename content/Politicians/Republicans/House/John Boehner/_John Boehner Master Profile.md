@@ -2,7 +2,7 @@
 title: "John Boehner"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -25,13 +25,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
-donors: "[[Mark Zuckerberg]] · [[Koch network]]"
-related: "[[JPMorgan Chase]] · [[Koch network]]"
+donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]]"
+related: "[[JPMorgan Chase]] · [[Koch network]] · [[Koch Network - Charles Koch|Koch Network]] · [[Paul Ryan]] · [[Donald Trump]] · [[Tobacco Industry]] · [[Cannabis Legalization Movement]] · [[Reynolds American]] · [[Altria]]"
 ---
-
 #john-boehner #speaker-of-house #tobacco #cannabis #revolving-door #koch-network #finance #class-analysis
-
-related: [[Koch Network - Charles Koch|Koch Network]] · [[Paul Ryan]] · [[Donald Trump]] · [[Tobacco Industry]] · [[Cannabis Legalization Movement]] · [[Reynolds American]] · [[Altria]]
 
 donors: [[Tobacco Industry/Reynolds American]] · [[Altria - Philip Morris]] · [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Real Estate/Commercial Property]]
 

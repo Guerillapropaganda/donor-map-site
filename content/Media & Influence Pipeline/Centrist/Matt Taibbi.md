@@ -2,16 +2,15 @@
 title: "Matt Taibbi"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]] · [[Lex Fridman]] · [[Nate Silver]] · [[Joe Rogan]] · [[Russell Brand]] · [[Rumble]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]]"
+related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]] · [[Lex Fridman]] · [[Nate Silver]] · [[Joe Rogan]] · [[Russell Brand]] · [[Rumble]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Jimmy Dore]] · [[Dan Bongino]]"
 ---
 
 #media-pipeline #centrist #substack #twitter-files #investigative-journalism #audience-swap
-
 
 ---
 
@@ -166,4 +165,3 @@ But the class analysis doesn't require bad faith to function. The structural que
 - [Wikipedia: Matt Taibbi](https://en.wikipedia.org/wiki/Matt_Taibbi) (Tier 3)
 - [Wikipedia: Twitter Files](https://en.wikipedia.org/wiki/Twitter_Files) (Tier 3)
 
-content-readiness:: ready

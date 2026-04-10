@@ -2,7 +2,7 @@
 title: "House Freedom Caucus"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -19,14 +19,11 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 1000410
 total-assets: 485221
-related: "[[US Chamber of Commerce]]"
+related: "[[US Chamber of Commerce]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Chip Roy Master Profile|Chip Roy]] · [[Koch Network - Charles Koch|Koch Network]] · [[Club for Growth]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[_Andy Harris Master Profile|Andy Harris]] · [[_Scott Perry Master Profile|Scott Perry]] · [[DeVos Family]]"
 lobbying-spend: 2440844
 lobbying-filings: 100
 ---
-
 #freedom-caucus #house #republican #maga #obstruction #koch #tea-party #right-flank #dark-money #small-dollar #club-for-growth #heritage-action
-
-related: [[_Jim Jordan Master Profile|Jim Jordan]] [[_Chip Roy Master Profile|Chip Roy]] [[Koch Network - Charles Koch|Koch Network]] [[Club for Growth]] [[Heritage Foundation]] [[Americans for Prosperity]] [[_Andy Harris Master Profile|Andy Harris]] [[_Scott Perry Master Profile|Scott Perry]]
 
 ---
 
@@ -145,8 +142,6 @@ The counter-funding dynamic — where Chamber of Commerce, AIPAC, and Main Stree
 - [NBC News: GOP megadonors finance major campaign against potential House rabble-rousers](https://www.nbcnews.com/politics/2024-election/gop-megadonors-house-freedom-caucus-primaries-rcna140792) (Tier 2)
 - [Axios: Wave of exits testing House Freedom Caucus' staying power](https://www.axios.com/2025/09/01/house-freedom-caucus-losing-clout-influence) (Tier 2)
 - [The Hill: Freedom Caucus urges top funding negotiators to lock in DOGE cuts](https://thehill.com/business/budget/5331509-house-freedom-caucus-demands-budget-cuts/) (Tier 2)
-
-content-readiness:: developed
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

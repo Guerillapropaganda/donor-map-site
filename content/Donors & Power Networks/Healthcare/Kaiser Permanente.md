@@ -2,7 +2,7 @@
 title: "Kaiser Permanente"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Healthcare"
@@ -25,7 +25,7 @@ last-enriched: "2026-04-08"
 nonprofit-status: "501(c)(5)"
 total-revenue: 23524060
 total-assets: 28875574
-related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Medicare for All - The Policy That Broke the Party]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[Bernie Sanders Master Profile]]"
+related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Medicare for All - The Policy That Broke the Party]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[Bernie Sanders Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[_Gavin Newsom Master Profile]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Johnson & Johnson]]"
 sec-filings: 10000
 sec-form-types:
   - "EX-10.13"
@@ -38,11 +38,7 @@ sec-form-types:
   - "N-MFP2"
   - "N-MFP3"
 ---
-
-
 #donor #kaiser-permanente #healthcare #california #statewide #nonprofit #behested-payments #medi-cal #mental-health #follow-the-money #class-analysis
-
-related: [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · Anthem Blue Cross · [[_Gavin Newsom Master Profile]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]]
 
 ---
 
@@ -121,9 +117,6 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 - [OpenSecrets: Kaiser Permanente organizational profile](https://www.opensecrets.org/orgs/kaiser-permanente/summary?id=D000034986) (Tier 2)
 - [NUHW: Kaiser Permanente mental health documentation](https://nuhw.org/news-and-press/kaiser/) (Tier 4) (labor union source, cross-reference with DMHC data)
 - [NUHW: Kaiser mental health strike updates](https://home.nuhw.org/workplace/kaiser-psych-social/) (Tier 4)
-
-research-status:: ready — 12.6M members, $35.5M behested payments to Newsom, no-bid Medi-Cal contract AB 2724, $250M mental health fines, $50M record fine 2023, NUHW strike March 2026, nonprofit shield analysis. 8 sources, Tier 2-4. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ---
 

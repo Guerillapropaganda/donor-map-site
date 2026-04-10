@@ -2,16 +2,15 @@
 title: "Nicolle Wallace"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox Corp - Rupert Murdoch]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Joe Scarborough]] · [[Anderson Cooper]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]]"
+related: "[[Fox Corp - Rupert Murdoch]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[Joe Scarborough]] · [[Anderson Cooper]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #centrist #msnbc #ms-now #republican-apostate #revolving-door #bush-administration #mccain-campaign
-
 
 ---
 
@@ -130,4 +129,3 @@ Wallace embodies the Revolving Door (Media) pattern in its purest form — gover
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Nicolle Wallace shows zero federal political contributions across both "NICOLLE" and "NICOLE" name variations. A former White House Communications Director and presidential campaign senior advisor with $0 in personal political giving across her entire career — influence flows through institutional access, never personal donations.
 
-content-readiness:: ready

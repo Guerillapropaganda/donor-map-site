@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Joni Ernst Master Profile]]"
+related: "[[_Joni Ernst Master Profile]] · [[American Farm Bureau Federation]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]] · [[National Cattlemen's Beef Association]]"
 ---
-
 #ernst #iowa #agriculture #defense #ethanol #armed-services #donor-class-override
-
-related: [[_Joni Ernst Master Profile]] [[American Farm Bureau Federation]] [[Koch Network - Charles Koch]] [[Lockheed Martin]] [[National Cattlemen's Beef Association]]
 
 donors: [[American Farm Bureau Federation]] [[Koch Network - Charles Koch]] [[Lockheed Martin]] [[National Cattlemen's Beef Association]]
 
@@ -46,4 +44,3 @@ Ernst's "Squeal Award" — a monthly press release highlighting wasteful governm
 - [Des Moines Register: Ernst ethanol advocacy and Koch tensions](https://web.archive.org/web/2023/https:/www.desmoinesregister.com/ernst-ethanol-koch/) (Tier 2)
 - [Ballotpedia: Joni Ernst](https://ballotpedia.org/Joni_Ernst) (Tier 3)
 
-content-readiness:: ready

@@ -9,12 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Susan Collins Master Profile]]"
 ---
-
-
 #susan-collins #moderate #corporate-pacs #out-of-state #insurance #pharma #class-analysis #follow-the-money
-
-related: [[_Susan Collins Master Profile]]
 
 donors: [[PhRMA]] · [[Insurance Industry]] · [[Lockheed Martin]]
 

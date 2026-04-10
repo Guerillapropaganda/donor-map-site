@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jeff Merkley Master Profile]] · [[_Elizabeth Warren Master Profile|Warren]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]]"
 ---
-
 #merkley #housing #banking #wall-street #oregon #progressive #cfpb
-
-related: [[_Jeff Merkley Master Profile]] [[_Elizabeth Warren Master Profile|Warren]] [[Blackstone Group]] [[Invitation Homes - Institutional Landlords]]
 
 donors: [[ActBlue]] [[SEIU - Service Employees International Union|SEIU]]
 

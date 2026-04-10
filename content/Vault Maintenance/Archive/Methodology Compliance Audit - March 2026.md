@@ -5,14 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null
-related: "[[Vault Integrity Audit - Methodology and Tracker]]"
+related: "[[Vault Integrity Audit - Methodology and Tracker]] · [[Research Methodology and Data Sources]] · [[Session Timeline]]"
 ---
-
 tags: #story
 
 #vault-maintenance #audit #methodology #compliance #analysis
-
-related: [[Research Methodology and Data Sources]] [[Session Timeline]]
 
 ---
 
@@ -64,8 +61,6 @@ Many of these newer profiles have temporal data embedded in prose but not struct
 
 ---
 
-content-readiness:: draft
-
 ### 3. Fix [[_JD Vance Master Profile|JD Vance]] folder H2 headers (5 files)
 Files to fix:
 - `_[[_JD Vance Master Profile|JD Vance]] Master Profile.md`
@@ -91,4 +86,3 @@ Known gap: Steve Mnuchin mentioned by name in [[_Kamala Harris Master Profile|Ka
 
 ---
 
-content-readiness:: draft

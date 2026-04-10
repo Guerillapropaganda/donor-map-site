@@ -7,11 +7,9 @@ source-tier: 1
 parent: null
 known-gaps:
   - "No mapped relationships"
+related: "[[How Committee Jurisdiction Drives Fundraising]] · [[The Defense Spending Bipartisan Consensus]]"
 ---
-
 #revolving-door #lobbying #corruption #access #congress #regulatory-capture
-
-related: [[How Committee Jurisdiction Drives Fundraising]] [[The Defense Spending Bipartisan Consensus]]
 
 ---
 

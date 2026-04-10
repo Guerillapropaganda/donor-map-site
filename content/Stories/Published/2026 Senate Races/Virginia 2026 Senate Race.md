@@ -10,12 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Mark Warner Master Profile]] · [[Defense Contractors]] · [[Tech Industry]]"
 ---
-
 #senate-race #2026 #competitive #virginia #analysis
 tags: #story
-
-related: [[_Mark Warner Master Profile]] [[Defense Contractors]] [[Tech Industry]] Northern Virginia Business Money
 
 donors: Defense Contractors - Lockheed Martin, Northrop Grumman, General Dynamics Tech PACs Northern Virginia Bundlers Finance & Real Estate
 
@@ -132,4 +130,3 @@ This is the clearest example in the vault of a politician whose funding is direc
 
 ---
 
-content-readiness:: ready

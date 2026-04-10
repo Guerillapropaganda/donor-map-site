@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Tommy Tuberville Master Profile]]
+related: "[[_Tommy Tuberville Master Profile]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]]"
 ---
-
 #tommy-tuberville #stock-act #trading #enforcement #congress #class-analysis
 
-related: [[_Tommy Tuberville Master Profile]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]]
-
 donors: [[Defense Industry Bloc]]
-
-content-readiness:: ready
 
 ---
 

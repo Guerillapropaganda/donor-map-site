@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Wes Moore Master Profile]]
+related: "[[_Wes Moore Master Profile]]"
 ---
-
-
 #wes-moore #robin-hood #hedge-fund #wall-street #paul-tudor-jones #soros #class-analysis #follow-the-money
 
-related: [[_Wes Moore Master Profile]]
 donors: Paul Tudor Jones, [[George Soros]], Glenn Dubin, Stanley Druckenmiller
-
-content-readiness:: ready
 
 ---
 

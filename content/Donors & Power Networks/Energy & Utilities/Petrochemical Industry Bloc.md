@@ -15,12 +15,9 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "NPWMD] [IFSR"
-related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]]"
+related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
 #petrochemical #plastics #refining #cancer-alley #louisiana #texas #environmental-justice
-
-related: [[Fossil Fuel Bloc]] [[Marathon Petroleum]] [[ExxonMobil]] [[Koch Network - Charles Koch|Koch Network]]
 
 ---
 
@@ -46,8 +43,6 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 - [FEC Receipts: Chemical industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [EPA: Toxics Release Inventory - Louisiana](https://www.epa.gov/toxics-release-inventory-tri-program) (Tier 1)
 - [Ballotpedia: Petrochemical industry regulation](https://ballotpedia.org/Petrochemical_Industry_Bloc) (Tier 3)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

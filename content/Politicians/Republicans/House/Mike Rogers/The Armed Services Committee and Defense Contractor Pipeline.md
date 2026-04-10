@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Mike Rogers Master Profile]]"
+related: "[[_Mike Rogers Master Profile]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Tom Cole Master Profile|Tom Cole]]"
 ---
-
 #rogers #armed-services #defense #military #lockheed-martin #boeing #alabama
-
-related: [[_Mike Rogers Master Profile]] [[Lockheed Martin]] [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[_Tom Cole Master Profile|Tom Cole]]
 
 donors: [[Lockheed Martin]] [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]]
 
@@ -48,4 +46,3 @@ Alabama's defense economy gives Rogers constituent-service cover for what is fun
 - [House Armed Services Committee: NDAA authorization records](https://armedservices.house.gov/) (Tier 1)
 - [Ballotpedia: Mike Rogers (Alabama)](https://ballotpedia.org/Mike_Rogers_(Alabama)) (Tier 3)
 
-content-readiness:: ready

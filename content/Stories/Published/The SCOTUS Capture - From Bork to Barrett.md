@@ -9,11 +9,9 @@ issues:
   - "Dark Money & Campaign Finance"
 known-gaps:
   - "No mapped relationships"
+related: "[[Federalist Society]] · [[Leonard Leo]] · [[Judicial Crisis Network]] · [[Council for National Policy]] · [[Marble Freedom Trust]]"
 ---
-
 #scotus #judicial #federalist-society #leonard-leo #dark-money #capture #originalism
-
-related: [[Federalist Society]] [[Leonard Leo]] [[Judicial Crisis Network]] [[Council for National Policy]] [[Marble Freedom Trust]]
 
 ---
 

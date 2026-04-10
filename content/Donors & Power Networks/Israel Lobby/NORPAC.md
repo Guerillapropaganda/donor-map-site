@@ -2,7 +2,7 @@
 title: "NORPAC"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -39,7 +39,7 @@ ein: "352841377"
 nonprofit-status: "501(c)(4)"
 total-revenue: 2327
 total-assets: 51394
-related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]] · [[Jim Risch]] · [[Bernie Moreno]] · [[Tim Walberg]] · [[Brian Mast]] · [[John Hickenlooper]] · [[Jack Reed]] · [[Gregory Meeks]]"
+related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]] · [[Jim Risch]] · [[Bernie Moreno]] · [[Tim Walberg]] · [[Brian Mast]] · [[John Hickenlooper]] · [[Jack Reed]] · [[Gregory Meeks]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Republican Jewish Coalition]] · [[Miriam Adelson]] · [[United Democracy Project - UDP]]"
 total-political-spend: "$1,857,124"
 court-cases: 141
 court-jurisdictions:
@@ -54,10 +54,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Utah"
   - "United States Bankruptcy Court, M.D. Florida"
 ---
-
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money
-
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Republican Jewish Coalition]] · [[Miriam Adelson]]
 
 ---
 
@@ -197,8 +194,6 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 - [JNS: Campaign spending at pro-Israel PACs up in 2024](https://www.jns.org/u.s.-news/campaign-spending-at-pro-israel-political-action-committees-up-in-2024) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ---
 

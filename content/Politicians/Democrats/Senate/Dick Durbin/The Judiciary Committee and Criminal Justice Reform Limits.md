@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Dick Durbin Master Profile]]"
+related: "[[_Dick Durbin Master Profile]] 路 [[CoreCivic]] 路 [[GEO Group]] 路 [[Federalist Society]] 路 [[Leonard Leo]]"
 ---
-
 #durbin #judiciary #criminal-justice #first-step-act #court-reform #private-prisons
-
-related: [[_Dick Durbin Master Profile]] [[CoreCivic]] [[GEO Group]] [[Federalist Society]] [[Leonard Leo]]
 
 donors: [[Goldman Sachs]] [[JPMorgan Chase]]
 
@@ -49,4 +47,3 @@ Durbin did not use his Judiciary chairmanship to pursue follow-up legislation 鈥
 - [ProPublica: Durbin and the Supreme Court ethics investigation](https://www.propublica.org/article/senate-judiciary-harlan-crow-leonard-leo-subpoenas-scotus-thomas-alito) (Tier 2)
 - [Ballotpedia: Dick Durbin](https://ballotpedia.org/Dick_Durbin) (Tier 3)
 
-content-readiness:: ready

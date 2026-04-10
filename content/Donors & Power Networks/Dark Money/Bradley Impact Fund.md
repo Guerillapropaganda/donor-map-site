@@ -2,7 +2,7 @@
 title: "Bradley Impact Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -18,12 +18,9 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 130264386
 total-assets: 200316165
-related: "[[American Enterprise Institute]] · [[Stephen Miller Master Profile]] · [[The Immigration Policy Architecture from Sessions to Mass Deportation]] · [[America First Legal and the Dark Money Architecture]] · [[Christian Nationalism and the Theological Budget]] · [[Conservative Partnership Institute]] · [[Charlie Kirk]]"
+related: "[[American Enterprise Institute]] · [[Stephen Miller Master Profile]] · [[The Immigration Policy Architecture from Sessions to Mass Deportation]] · [[America First Legal and the Dark Money Architecture]] · [[Christian Nationalism and the Theological Budget]] · [[Conservative Partnership Institute]] · [[Charlie Kirk]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Council for National Policy]] · [[DeVos Family]]"
 ---
-
 #bradley #impact-fund #dark-money #conservative #donor-advised #philanthropy
-
-related: [[Bradley Foundation]] [[DonorsTrust]] [[Council for National Policy]]
 
 ---
 
@@ -61,8 +58,6 @@ The Bradley Impact Fund is part of a broader conservative DAF network that inclu
 - [IRS: Bradley Impact Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Bradley%20Impact%20Fund&city=&state=All+States&country=US) (Tier 1)
 - [ProPublica: Nonprofit Explorer - Bradley Impact Fund](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 2)
 - [Ballotpedia: Donor-advised funds](https://ballotpedia.org/Bradley_Impact_Fund) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

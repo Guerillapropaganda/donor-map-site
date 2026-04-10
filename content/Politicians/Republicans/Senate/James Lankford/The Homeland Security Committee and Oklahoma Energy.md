@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_James Lankford Master Profile]] · [[Koch Industries]] · [[ConocoPhillips]]"
 ---
-
 #lankford #oklahoma #homeland-security #energy #immigration #border #evangelical
-
-related: [[_James Lankford Master Profile]] [[Koch Industries]] [[ConocoPhillips]]
 
 donors: [[Koch Industries]] [[ConocoPhillips]]
 

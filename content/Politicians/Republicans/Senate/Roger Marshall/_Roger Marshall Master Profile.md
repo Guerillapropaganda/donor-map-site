@@ -22,11 +22,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 ---
-
 #politician #republican #senate #kansas #agriculture #healthcare #pharma #covid #class-analysis #follow-the-money #gavel-power
-
-related: [[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]
 
 ---
 

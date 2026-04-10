@@ -10,12 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[Crypto Industry Bloc]]"
 ---
-
 #story #investigation #donor-pipeline #crypto-regulation
 tags: #investigation
-
-related: _Coinbase Master Profile _Ripple Master Profile [[Crypto Industry Bloc]] Regulatory Capture - Pattern Analysis
 
 donors: [[Coinbase]] [[Ripple]] [[Marc Andreessen & Horowitz|Andreessen Horowitz]] Circle [[Jump Crypto]] Solana Foundation
 
@@ -96,4 +94,3 @@ The class dynamic: Crypto billionaires have captured regulatory bodies (SEC appo
 ---
 #analysis
 
-content-readiness:: ready

@@ -2,7 +2,7 @@
 title: "Save America PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -14,13 +14,9 @@ issues:
 ein: "933113620"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
-related: "[[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]]"
+related: "[[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[MAGA Inc]] · [[_Donald Trump Master Profile]] · [[Trump Victory]] · [[Trump Crypto - The President as Personal Profiteer]] · [[WinRed]]"
 ---
-
-
 #donor #pac #leadership-pac #trump #dark-money #class-analysis #follow-the-money #pardons #slush-fund #january-6 #legal-defense
-
-related: [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[MAGA Inc]] · [[_Donald Trump Master Profile]] · [[Trump Victory]] · [[Trump Crypto - The President as Personal Profiteer]]
 
 ---
 
@@ -125,7 +121,6 @@ The intersection of Save America donations and presidential clemency creates the
 > [!money] The Pardon Premium
 > The pardon economy operates through plausible deniability: family members of pardon-seekers donate to Trump-affiliated PACs (Save America or MAGA Inc.), and pardon recipients later receive clemency. No explicit quid pro quo is documented — the system works because both sides understand the transaction without stating it. AEI described this as a "sordid pardon economy" operating as a "seedy but legal and lucrative market." The structural function: Save America and MAGA Inc. serve as the collection mechanism for what is effectively a clemency fee, paid by donors who expect (and receive) presidential action in return.
 
-
 ---
 
 ### DOJ and Legal Scrutiny
@@ -219,8 +214,6 @@ Save America represents a structural innovation in American political corruption
 - [The Hill: Trump-Pardoned Allies](https://thehill.com/opinion/campaign/4559868-four-trump-pardoned-allies-thank-him-with-action-and-loyalty/) (Tier 2)
 
 ---
-
-content-readiness:: ready
 
 ---
 

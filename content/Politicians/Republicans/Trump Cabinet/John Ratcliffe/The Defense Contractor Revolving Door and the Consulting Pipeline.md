@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_John Ratcliffe Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_John Ratcliffe Master Profile]]"
 ---
-
-
 #john-ratcliffe #revolving-door #blackstone #defense #consulting #latent-ai #class-analysis
 
-related: [[_John Ratcliffe Master Profile]]
 donors: Blackstone - Stephen Schwarzman, [[L3 Technologies]], [[Northrop Grumman]], Latent AI
 
 content-readiness:: ready

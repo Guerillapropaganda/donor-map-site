@@ -1,38 +1,57 @@
 ---
 title: "Katie Porter Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-09
+content-readiness: ready
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "Governor"
+chamber: "Candidate"
+running-for: "CA Governor 2026"
 state: "California"
 state-abbr: "CA"
-top-donors:
-  - "SEIU"
-  - "Teamsters"
-source-types:
-  - Congress
-known-gaps:
-  - "No FEC contribution data"
-  - "No voting record data"
-  - "No mapped relationships"
-last-enriched: "2026-04-09"
+bioguide-id: "P000618"
 govtrack-id: 412758
+fec-candidate-id: "H8CA45076"
 bills-sponsored: 0
 bills-cosponsored: 0
+issues:
+  - Consumer Protection
+  - Campaign Finance
+  - Healthcare
+  - Housing
+  - Cryptocurrency Regulation
+  - Labor
+top-donors:
+  - "Small Dollar Donors (ActBlue)"
+  - "UAW Region 6"
+  - "Teamsters California"
+opposes:
+  - "Fairshake PAC"
+  - "Coinbase"
+  - "Andreessen Horowitz"
+  - "Ripple Labs"
+donors:
+  - "Teamsters California"
+  - "UAW Region 6"
+  - "NUHW"
+  - "IBEW Local 441"
+source-types:
+  - Congress
+  - FEC
+  - GovTrack
+corroboration-count: 3
+known-gaps:
+  - GovTrack auto-block shows 0 bills sponsored/cosponsored (pipeline query gap — 3-term House member should have data)
+  - State-level CA gubernatorial campaign finance not pipeline-enriched (state jurisdiction, not FEC)
+  - Several sources lack proper URLs (Emerson polling, Daily Beast, ABC7)
+last-enriched: "2026-04-09"
+related: "[[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #katie-porter #california #governor-2026 #anti-corporate #small-dollar #consumer-protection #crypto-opposition #class-analysis
 
-related: [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[_Gavin Newsom Master Profile]]
 donors: [[SEIU - Service Employees International Union|SEIU]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]]
 
-profile-status:: ready
-
----
 ---
 
 ## Who She Is
@@ -115,7 +134,7 @@ The Porter donor landscape is structurally different from every other profile in
 
 ---
 
-### Labor Coalition
+## Labor Coalition
 
 Porter's labor support is the broadest of any 2026 candidate:
 - **Teamsters California** — endorsed for governor
@@ -131,7 +150,7 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 ---
 
-### 2026 Race Position
+## 2026 Race Position
 
 **Polling:** 8–13% (dropped from 17% after October 2025 viral video controversy). 37% unfavorable — tied with Steyer for highest.
 
@@ -156,16 +175,20 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 ## Sources
 
+### Verified
+- [FEC: Katie Porter candidate page (House campaigns)](https://www.fec.gov/data/candidate/H8CA45076/) (Tier 1)
+- [Congress.gov: Katie Porter member profile](https://www.congress.gov/member/katie-porter/P000618) (Tier 1)
+- [GovTrack: Katie Porter voting record](https://www.govtrack.us/congress/members/412758) (Tier 1)
 - [CalMatters: California Governor Race Fundraising Reports](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
-- [Congress.gov: Katie Porter Campaign Finance](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded) (Tier 1)
+
+### URL NEEDED (blocking verified promotion)
 - Emerson College polling, March 2026 (Tier 2)
-- Axios / CoinDesk [[Fairshake PAC|Fairshake PAC]] coverage (Tier 2)
+- Axios / CoinDesk Fairshake PAC coverage (Tier 2)
 - Daily Beast campaign finance investigation (Tier 2)
 - ABC7 / Mercury News donor reporting (Tier 2)
 - UAW Region 6 endorsement announcement (Tier 1)
 - EMILY's List endorsement (Tier 1)
 - Washington Post viral video analysis (Tier 2)
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

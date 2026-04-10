@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Michael Whatley Master Profile]]
-related: "[[Michael Whatley RNC Authority to Senate Campaign Conversion]]"
+related: "[[Michael Whatley RNC Authority to Senate Campaign Conversion]] · [[_Michael Whatley Master Profile|Michael Whatley]] · [[HBW Resources]]"
 ---
-
 #politician #republican #energy-policy #oil-gas #lobbying #revolving-door #north-carolina
 tags: #republican
 
-related:: [[_Michael Whatley Master Profile|Michael Whatley]] Consumer Energy Alliance Front Group [[HBW Resources]] Michael Whatley RNC Energy Policy
 donors:: BP [[Chevron]] Exxon Mobil Shell Statoil [[Consumer Energy Alliance]] [[HBW Resources]]
 
 ---
@@ -156,4 +154,3 @@ These are not predictions based on speculative analysis; they are documented pos
 
 ---
 
-content-readiness:: ready

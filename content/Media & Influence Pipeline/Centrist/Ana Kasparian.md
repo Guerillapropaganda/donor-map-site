@@ -2,16 +2,15 @@
 title: "Ana Kasparian"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]] · [[TYT Network - The Young Turks]] · [[Cenk Uygur]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Valuetainment]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]]"
+related: "[[Jeffrey Katzenberg]] · [[TYT Network - The Young Turks]] · [[Cenk Uygur]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Valuetainment]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
 ---
 
 #media-pipeline #centrist #youtube #tyt #audience-swap #realignment #valuetainment
-
 
 ---
 
@@ -138,4 +137,3 @@ Ana Kasparian's profile is the most human story in the pipeline. A genuine sexua
 - [Joe Wrote/Substack: After Years of Criticizing "Why I Left the Left," Ana Kasparian Leaves the Left](https://www.joewrote.com/p/after-years-of-criticizing-why-i) (Tier 3)
 - [IMDb: Her Take — "Ana Kasparian Threatens to Quit TYT Live on Air" (episode documentation)](https://www.imdb.com/title/tt35097974/) (Tier 3)
 
-content-readiness:: ready

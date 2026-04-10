@@ -20,12 +20,9 @@ top-donors:
   - "American Federation for Children"
   - "Walton Family Foundation"
 donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Student Loan Servicer Industry]]"
-related: "[[The Education Committee and Labor Alignment]]"
+related: "[[The Education Committee and Labor Alignment]] · [[DeVos Family]] · [[American Federation for Children]] · [[_Donald Trump Master Profile|Trump]] · [[Walton Family Foundation]]"
 ---
-
 #virginia-foxx #republican #north-carolina #house #committee-chair #education #for-profit-colleges #labor #student-debt #phase-6-gavel-power
-
-related: [[DeVos Family]] [[American Federation for Children]] [[_Donald Trump Master Profile|Trump]] [[Walton Family Foundation]]
 
 donors: [[DeVos Family]] [[American Federation for Children]] [[Walton Family Foundation]]
 
@@ -183,9 +180,6 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 - [Ballotpedia: Virginia Foxx](https://ballotpedia.org/Virginia_Foxx) (Tier 3)
 - [GovTrack: Virginia Foxx voting record](https://www.govtrack.us/congress/members/virginia_foxx/400643) (Tier 3)
 - [AFL-CIO: Virginia Foxx scorecard](https://aflcio.org/scorecard/legislators/virginia-foxx) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 

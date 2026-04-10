@@ -2,7 +2,7 @@
 title: "Anthem - Elevance Health Political Operation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -13,15 +13,12 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Humana]] · [[The Insurance Industry Public Option Kill]]"
+related: "[[Humana]] · [[The Insurance Industry Public Option Kill]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Johnson & Johnson]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 ---
-
 #anthem #elevance #insurance #aca #medicaid #managed-care #lobbying
-
-related: [[UnitedHealth Group - Optum]] [[Blue Cross Blue Shield Association]] [[Cigna Group]] [[CVS Health - Aetna]]
 
 ---
 
@@ -44,8 +41,6 @@ The structural position: Elevance profits from Medicaid expansion (more enrollee
 - [SEC: Elevance Health 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Anthem%20-%20Elevance%20Health%20Political%20Operation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [CMS: Medicaid managed care data](https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-advantagepart-d-contract-and-enrollment-data) (Tier 1)
 - [Ballotpedia: Health insurance industry](https://ballotpedia.org/Anthem_-_Elevance_Health_Political_Operation) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

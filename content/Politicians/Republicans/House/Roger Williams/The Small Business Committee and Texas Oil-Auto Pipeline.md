@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Roger Williams Master Profile]] · [[Koch Industries]]"
 ---
-
 #williams #texas #small-business #auto #oil #self-funding #wealth
-
-related: [[_Roger Williams Master Profile]] [[Koch Industries]]
 
 donors: [[Koch Industries]]
 

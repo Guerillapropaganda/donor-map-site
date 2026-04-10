@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Greg Abbott Master Profile]]
+related: "[[_Greg Abbott Master Profile]] · [[Timothy Mellon]] · [[Immigration Enforcement - The Detention Economy]] · [[_Chad Bianco Master Profile]]"
 ---
-
-
 #abbott #operation-lone-star #texas #border #immigration #militarization #spending #contractors #class-analysis #timothy-mellon
-
-related: [[_Greg Abbott Master Profile]] · [[Timothy Mellon]] · [[Immigration Enforcement - The Detention Economy]] · [[_Chad Bianco Master Profile]]
 
 donors: [[Timothy Mellon]] · Border Contractors and Defense Firms · Real Estate and Construction Interests
 
@@ -183,4 +180,3 @@ The two policies are ideologically compatible (strong state power against immigr
 - [Texas Tribune: Timothy Mellon Texas border wall funding](https://www.texastribune.org/2021/10/06/timothy-mellon-texas-border-wall/) (Tier 2)
 - [Texas Governor's Office: Operation Lone Star official statements](https://gov.texas.gov/news/post/operation-lone-star-continues-to-repel-hundreds-of-illegal-immigrants) (Tier 1)
 
-content-readiness:: ready

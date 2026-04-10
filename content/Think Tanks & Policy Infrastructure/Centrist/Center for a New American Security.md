@@ -2,16 +2,15 @@
 title: "Center for a New American Security"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]]"
+related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Brookings Institution]] · [[Atlantic Council]]"
 ---
 
 #think-tank #centrist #defense #national-security #revolving-door #military-industrial-complex #class-analysis
-
 
 ---
 
@@ -205,8 +204,6 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 - [Axios: Biden Gets B- From Progressive Think Tank on Hiring Industry Insiders — Revolving Door Project scorecard (2021)](https://www.axios.com/2021/04/23/biden-progressive-think-tank-hires) (Tier 2)
 - [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Several Elite Universities (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2)
 - [Inside Higher Ed: Hegseth is Waging War on Colleges — His Targets Are Unclear (Mar 2026)](https://www.insidehighered.com/news/admissions/graduate/2026/03/06/hegseth-waging-war-colleges-his-targets-are-unclear) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Elizabeth Warren Master Profile]]
+related: "[[_Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[_Katie Porter Master Profile]] · [[_Jamaal Bowman Master Profile]]"
 ---
-
-
 #warren #2020-campaign #super-tuesday #donor-consolidation #presidential #class-analysis #small-dollar
-
-related: [[_Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[_Katie Porter Master Profile]] · [[_Jamaal Bowman Master Profile]]
 
 donors: [[ActBlue]] · Small-Dollar Grassroots Donors · [[Crypto Industry Bloc]] (opponent)
 
@@ -251,4 +248,3 @@ The pilot model — demonstrate that an alternative is possible, then watch as t
 
 ---
 
-content-readiness:: ready

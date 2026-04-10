@@ -15,12 +15,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #samuel-alito #scotus #paul-singer #leonard-leo #federalist-society #donor-capture #class-analysis
-
-related: [[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Koch Network - Charles Koch]]
 
 donors: [[Leonard Leo]], [[Paul Singer]], [[Koch Network - Charles Koch]]
 
@@ -133,7 +130,6 @@ content-readiness:: ready
 - [True North Research: Five Facts about Rob Arkley, Funder of Luxury Travel for Supreme Court Justices](https://truenorthresearch.org/2023/11/five-facts-about-rob-arkley-funder-of-luxury-travel-for-supreme-court-justices-and-groups-packing-the-court/) (Tier 2)
 - [E&E News/Politico: Supreme Court steps up recusal checks after Alito near-miss in Louisiana oil case](https://www.eenews.net/articles/supreme-court-steps-up-recusal-checks-after-alito-near-miss-in-louisiana-oil-case/) (Tier 2)
 - [Washington Post: Martha-Ann Alito told The Post in 2021 that flag was 'signal of distress'](https://www.washingtonpost.com/politics/2024/05/25/alito-flag-martha-ann-washington-post/) (Tier 2)
- 
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

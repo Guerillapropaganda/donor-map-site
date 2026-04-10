@@ -24,11 +24,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Ash Kalra]] · [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Michael Bloomberg]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]]"
 ---
-
 #sanders #master-profile #senator #independent #democratic-socialist #class-analysis #follow-the-money #vermont #labor #single-payer #medicare-for-all #small-dollar #anti-donor
-
-related: [[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Ash Kalra]] · [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Michael Bloomberg]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]]
 
 donors: [[SEIU - Service Employees International Union]], [[CNA - California Nurses Association]], [[Teamsters - International Brotherhood of Teamsters]], [[IBEW - International Brotherhood of Electrical Workers]]
 

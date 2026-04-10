@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Joseph Morelle Master Profile]] · [[_Bryan Steil Master Profile|Steil]]"
 ---
-
 #morelle #new-york #administration #elections #rochester #manufacturing
-
-related: [[_Joseph Morelle Master Profile]] [[_Bryan Steil Master Profile|Steil]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]]
 

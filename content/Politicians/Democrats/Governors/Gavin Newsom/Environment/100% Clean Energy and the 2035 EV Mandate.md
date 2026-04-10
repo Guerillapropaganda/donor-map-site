@@ -2,16 +2,13 @@
 title: "100% Clean Energy and the 2035 EV Mandate"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Economic Policy - Donors and Backers]]"
+related: "[[Economic Policy - Donors and Backers]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]]"
 ---
-
-
 #newsom #environment #clean-energy #EV-mandate #2035 #SB100 #genuine-win #class-analysis #who-benefits #green-new-deal #carbon-neutrality
 
-related: [[PG&E - The Utility Donor and the Wildfire Cover]] | [[Fracking and Oil Permits - Green Branding vs. Record]] | [[Environment - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[PG&E - Pacific Gas and Electric]]
 
 ---
@@ -129,4 +126,3 @@ The framework for content: credit the wins, apply the class lens to distribution
 - [Sierra Club California: cap-and-trade and refinery communities](https://www.sierraclub.org/california) (Tier 3)
 - [California Policy Center: Newsom concessions to oil industry analysis](https://californiapolicycenter.org/newsoms-concessions-to-oil-industry-will-not-save-it/) (Tier 3)
 
-content-readiness:: ready

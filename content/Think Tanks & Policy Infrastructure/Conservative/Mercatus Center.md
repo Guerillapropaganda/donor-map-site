@@ -2,12 +2,12 @@
 title: "Mercatus Center"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]]"
+related: "[[Koch Network - Charles Koch]] · [[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Brookings Institution]] · [[Atlantic Council]]"
 court-cases: 146
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -35,7 +35,6 @@ regulatory-agencies:
 ---
 
 #think-tank #conservative #libertarian #deregulation #koch #academic-capture #class-analysis
-
 
 ---
 
@@ -409,8 +408,6 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 - [Wall Street Journal: Musk and Ramaswamy DOGE plan](https://www.wsj.com/opinion/musk-and-ramaswamy-the-doge-plan-to-reform-government-supreme-court-guidance-end-executive-power-grab-fa51c020) (Tier 2) (UNVERIFIED)
 - [Wikipedia: Mercatus Center](https://en.wikipedia.org/wiki/Mercatus_Center) (Tier 3)
 - [WTOP: DOGE spending claims and Veronique de Rugy interview](https://wtop.com/local/2025/02/how-much-money-is-doge-saving-the-federal-government/) (Tier 2)
-
-content-readiness:: developed
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

@@ -9,7 +9,7 @@ sector: "Mega-Donors"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
-related: "[[Georgia 2026 Senate Race]] · [[Mike Collins Master Profile]]"
+related: "[[Georgia 2026 Senate Race]] · [[Mike Collins Master Profile]] · [[Fairshake PAC - Crypto Super PAC]] · [[Cryptocurrency Industry]] · [[Coinbase]] · [[Crypto Industry Bloc]]"
 court-cases: 46
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -21,10 +21,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
 ---
-
 #winklevoss #crypto #bitcoin #gemini #mega-donor #republican #trump #regulation
-
-related: [[Fairshake PAC - Crypto Super PAC]] [[Cryptocurrency Industry]] [[Coinbase]] [[Crypto Industry Bloc]]
 
 ---
 
@@ -56,8 +53,6 @@ Crypto-friendly regulation (regulatory clarity without restrictive oversight), o
 - [OpenSecrets: Winklevoss political contributions](https://www.opensecrets.org/donor-lookup/results?name=winklevoss) (Tier 1)
 - [SEC: Gemini enforcement action](https://www.sec.gov/cgi-bin/browse-edgar?company=Winklevoss%20Twins&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Cryptocurrency policy](https://ballotpedia.org/Winklevoss_Twins) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

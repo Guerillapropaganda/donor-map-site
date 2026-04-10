@@ -9,14 +9,11 @@ sector: "Pharma & Healthcare"
 entity-type: "PAC"
 issues:
   - "Healthcare"
-related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Centene Corporation PAC]]"
+related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Centene Corporation PAC]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[Insurance Industry Bloc]] · [[Blue Cross Blue Shield Association]]"
 known-gaps:
   - "No FEC contribution data"
 ---
-
 #anthem #elevance #insurance #healthcare #pac #bipartisan #aca
-
-related: [[Anthem - Elevance Health Political Operation|Elevance Health]] [[Insurance Industry Bloc]] [[Blue Cross Blue Shield Association]]
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Apollo Global Management"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -53,17 +53,14 @@ sec-form-types:
   - "S-8"
   - "S-8 POS"
   - "SCHEDULE 13G/A"
-related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]] · [[Patrick McHenry Master Profile]] · [[Subject Matter (now Avoq)]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]]"
+related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]] · [[Patrick McHenry Master Profile]] · [[Subject Matter (now Avoq)]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Blackstone Group]] · [[Private Equity Industry Bloc]] · [[_Virginia Foxx Master Profile|Virginia Foxx]] · [[Goldman Sachs]] · [[The Carried Interest Loophole - 30 Years of Survival]]"
 federal-register-mentions: 7
 regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
   - "Securities and Exchange Commission"
 ---
-
 #apollo #private-equity #wall-street #university-of-phoenix #for-profit-education #healthcare #insurance
-
-related: [[Blackstone Group]] [[Private Equity Industry Bloc]] [[_Virginia Foxx Master Profile|Virginia Foxx]] [[Goldman Sachs]]
 
 ---
 
@@ -101,8 +98,6 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 - [Republic Report: Foxx and for-profit college donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2)
 - [New York Times: Apollo's insurance and PE operations](https://www.nytimes.com/2023/10/04/business/private-equity-insurance.html) (Tier 2)
 - [Ballotpedia: Apollo Global Management](https://ballotpedia.org/Apollo_Global_Management) (Tier 3)
-
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

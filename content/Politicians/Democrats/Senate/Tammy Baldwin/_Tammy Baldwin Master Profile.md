@@ -25,11 +25,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Ron Johnson Master Profile|Ron Johnson]] · [[_Amy Klobuchar Master Profile|Klobuchar]] · [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Elizabeth Warren Master Profile|Warren]]"
 ---
-
 #baldwin #wisconsin #healthcare #labor #dairy #manufacturing #lgbtq #swing-state #help-committee #buy-american #class-analysis
-
-related: [[_Ron Johnson Master Profile|Ron Johnson]] · [[_Amy Klobuchar Master Profile|Klobuchar]] · [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Elizabeth Warren Master Profile|Warren]]
 
 donors: [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[EMILY's List]] · [[J Street|JStreetPAC]]
 

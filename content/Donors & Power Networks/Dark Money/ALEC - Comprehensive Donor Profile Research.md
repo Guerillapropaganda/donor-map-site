@@ -627,4 +627,3 @@ ALEC operates on 35% undisclosed funding while simultaneously drafting legislati
 
 ---
 
-content-readiness:: draft

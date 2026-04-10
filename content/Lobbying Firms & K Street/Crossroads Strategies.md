@@ -45,7 +45,6 @@ regulatory-agencies:
 
 #lobbying #k-street #bipartisan #defense #energy #tech #financial-services #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -238,8 +237,6 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 - [Crossroads Strategies Official Website — About](https://crshq.com/about/) (Tier 4)
 - [CNBC: ByteDance, TikTok shelled out $7 million on lobbying and ads to combat potential U.S. ban (April 2024)](https://www.cnbc.com/2024/04/23/bytedance-tiktok-spent-over-7-million-on-lobbying-ad-campaign-.html) (Tier 2)
 - [Washington Examiner: Inside TikTok's army of lobbyists of ex-senators, congressmen, and staffers](https://www.washingtonexaminer.com/news/1779002/inside-tiktoks-army-of-lobbyists-of-ex-senators-congressmen-and-staffers/) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

@@ -5,13 +5,10 @@ content-readiness: raw
 last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Agricultural Labor Vulnerability Donors]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donald-trump #agriculture #donors #backers #farm-bureau #meatpacking #tyson #cargill #agribusiness #snap #ethanol #follow-the-money #research-node
 
-related: [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[_Donald Trump Master Profile]]
 donors: [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Tyson Foods]] · [[Cargill]]
 
 ---

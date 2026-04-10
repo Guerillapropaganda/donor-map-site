@@ -13,7 +13,6 @@ related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Manage
 
 #lobbying #k-street #democratic #biden #bundling #tech #finance #crypto #healthcare #clean-energy #chinese-military
 
-
 ---
 
 ### Who They Are
@@ -212,24 +211,5 @@ The Amazon contradiction is equally revealing. Elmendorf lobbied against worker 
 - [O'Dwyer's PR News: Tax Pro Levey Joins Avoq — Jeff Levey hire, E&Y Washington Council background, IRS/Treasury/OECD advocacy history, September 2025](https://www.odwyerpr.com/story/public/23540/2025-09-04/tax-pro-levey-joins-avoq.html) (Tier 2)
 - [Empire Report New York: Subject Matter+Kivvit Becomes Avōq, Names New Partners — 14 partners elevated, full list including Cedric Grant, Stacey Alexander, Barry LaSala, Tom Meara](https://empirereportnewyork.com/subject-matterkivvit-becomes-avoq-names-new-partners/) (Tier 3)
 
-content-readiness:: ready
-
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264413 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
-
-**Recent press releases:**
-
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
-- ... and 264,407 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Subject%20Matter%20(now%20Avoq)%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

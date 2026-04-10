@@ -2,7 +2,7 @@
 title: "Open Society Foundations"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -18,7 +18,7 @@ net-assets: "$553"
 tax-year: "2016"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
-related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]]"
+related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]] · [[George Soros]] · [[_Gavin Newsom Master Profile]] · [[Democracy Alliance]]"
 court-cases: 138
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -32,10 +32,7 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. California"
 ---
-
 #donor #donor-node #dark-money #soros #progressive #democracy-infrastructure #international #criminal-justice-reform
-
-related: [[George Soros]] Criminal Justice Reform - Donors and Backers Democracy & Voting Rights Prosecutor Influence - Policy Notes [[_Gavin Newsom Master Profile]]
 
 ---
 
@@ -171,9 +168,6 @@ OSF operates within a broader ecosystem of Democratic mega-donor funding:
 - [Two dozen progressive prosecutors linked to Soros money](https://fox17.com/news/nation-world/two-dozen-progressive-prosecutors-linked-to-soros-money-report-finds) (Tier 3)
 - [Open Society Foundations Announce 2024 Soros Justice Fellows](https://www.opensocietyfoundations.org/newsroom/open-society-foundations-announce-2024-soros-justice-fellows) (Tier 2)
 - [Soros Justice Fellowships](https://www.opensocietyfoundations.org/grants/soros-justice-fellowships) (Tier 2)
-
-research-status:: ready | Comprehensive donor profile of Open Society Foundations: 152 lines, 8 sources (Tier 2-3), covers funding priorities, organizational structure, strategic outcomes, and class analysis. Documents $50M+ prosecutor funding, voting rights infrastructure, and professional-class progressive capture. Promoted Session 38k.
-content-readiness:: ready
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->

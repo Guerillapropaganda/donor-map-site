@@ -29,10 +29,7 @@ regulatory-agencies:
 related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]]"
 nonprofit-status: "tax-exempt"
 ---
-
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance
-
-related: Federal Workforce Labor Movement Government Employment Policy Trump Cabinet 2025 Union Political Spending
 
 ---
 
@@ -169,7 +166,6 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 - [ProPublica: Federal workforce reductions and union resistance](https://www.propublica.org/article/doge-elon-musk-trump-staffers-tracker-update) (Tier 2)
 - [Union membership statistics: Bureau of Labor Statistics](https://www.bls.gov/news.release/union2.nr0.htm) (Tier 1)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

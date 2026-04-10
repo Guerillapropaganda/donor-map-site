@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chris Murphy Master Profile]] · [[Saudi Arabia - Kingdom Investment]] · [[Raytheon (RTX)]]"
 ---
-
 #murphy #foreign-policy #yemen #arms-sales #saudi #realist #connecticut #defense
-
-related: [[_Chris Murphy Master Profile]] [[Saudi Arabia - Kingdom Investment]] [[Raytheon (RTX)]]
 
 donors: [[Raytheon (RTX)]] [[General Dynamics]]
 

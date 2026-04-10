@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Bernie Sanders Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Single-Payer Broken Promise]]"
 ---
-
-
 #sanders #medicare-for-all #single-payer #class-analysis #follow-the-money #healthcare #cna #co-sponsor
 
-related: [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Single-Payer Broken Promise]]
 donors: [[CNA - California Nurses Association]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]]
 
 ---

@@ -2,7 +2,7 @@
 title: "Monsanto - Bayer"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -46,14 +46,11 @@ sec-form-types:
   - "N-CSRS"
   - "PREM14A"
   - "SC 14D9"
-related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]]"
+related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]] · [[Tyson Foods]]"
 lobbying-spend: 840000
 lobbying-filings: 16
 ---
-
 #monsanto #bayer #agriculture #gmo #roundup #glyphosate #seeds #patents
-
-related: [[Cargill]] [[American Farm Bureau Federation]] [[Koch Industries]]
 
 ---
 
@@ -91,8 +88,6 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 - [EPA: Glyphosate interim registration review decision](https://www.epa.gov/ingredients-used-pesticide-products/glyphosate) (Tier 1) (VERIFIED)
 - [NPR: The "Monsanto Protection Act" explained](https://www.npr.org/sections/thesalt/2013/03/21/174973235/did-congress-just-give-gmos-a-free-pass-in-the-courts) (Tier 2) (VERIFIED)
 - ~~[Ballotpedia: Monsanto](https://ballotpedia.org/Monsanto_Company)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

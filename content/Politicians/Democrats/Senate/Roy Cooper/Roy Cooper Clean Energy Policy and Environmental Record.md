@@ -5,12 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Roy Cooper Master Profile]]
+related: "[[_Roy Cooper Master Profile|Roy Cooper]] · [[Roy Cooper Health Insurance Industry Funding]]"
 ---
-
 #politician #democrat #environment #energy-policy #clean-energy #north-carolina
 tags: #democrat
 
-related:: [[_Roy Cooper Master Profile|Roy Cooper]] [[Roy Cooper Health Insurance Industry Funding]] Clean Energy Act North Carolina
 donors:: Duke Energy NC Utilities Regulatory Commission Environmental Groups Renewable Energy Industry
 
 ---
@@ -137,4 +136,3 @@ Both policies are genuine wins. Both also stop short of the structural change th
 
 ---
 
-content-readiness:: ready

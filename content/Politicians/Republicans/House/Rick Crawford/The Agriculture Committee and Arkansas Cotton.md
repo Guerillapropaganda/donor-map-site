@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Rick Crawford Master Profile]] · [[_John Boozman Master Profile|Boozman]] · [[American Farm Bureau Federation]]"
 ---
-
 #crawford #arkansas #agriculture #cotton #rice #intelligence #military
-
-related: [[_Rick Crawford Master Profile]] [[_John Boozman Master Profile|Boozman]] [[American Farm Bureau Federation]]
 
 donors: [[American Farm Bureau Federation]]
 

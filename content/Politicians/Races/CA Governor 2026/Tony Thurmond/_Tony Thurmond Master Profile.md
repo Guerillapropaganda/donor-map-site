@@ -20,12 +20,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[CTA - California Teachers Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #tony-thurmond #california #governor-2026 #education #superintendent #cta #teachers-union #charter-schools #class-analysis
-
-related: [[CTA - California Teachers Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]
 
 donors: [[CTA - California Teachers Association]]
 

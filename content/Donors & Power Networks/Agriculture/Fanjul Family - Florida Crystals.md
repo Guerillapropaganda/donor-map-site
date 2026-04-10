@@ -2,7 +2,7 @@
 title: "Fanjul Family - Florida Crystals"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -15,13 +15,9 @@ issues:
   - "Israel & Foreign Policy"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[LARA Fund - Mauricio Claver-Carone]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Immigration Flip - From Gang of Eight to Border Hawk]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Rick Scott Master Profile]] · [[Brian Mast]] · [[Maria Elvira Salazar]] · [[Bob Menendez]] · [[National Cattlemen's Beef Association]] · [[Mario Diaz-Balart]]"
+related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[LARA Fund - Mauricio Claver-Carone]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Immigration Flip - From Gang of Eight to Border Hawk]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Rick Scott Master Profile]] · [[Brian Mast]] · [[Maria Elvira Salazar]] · [[Bob Menendez]] · [[National Cattlemen's Beef Association]] · [[Mario Diaz-Balart]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Donald Trump Master Profile|Trump]] · [[_Carlos Gimenez Master Profile|Carlos Gimenez]] · [[American Farm Bureau Federation]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Norman Braman]] · [[Reclaim America PAC]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon]] · [[Mauricio Claver-Carone]] · [[Michael Waltz]] · [[LARA Fund]] · [[Cubaexport]] · [[Pernod Ricard]] · [[Bacardi]] · [[Nicolás Maduro]] · [[Brian Walsh]] · [[Victor Cervino]] · [[Darrell Issa]] · [[Debbie Wasserman Schultz]] · [[Chris Dodd]] · [[Collin Peterson]] · [[Combest, Sell & Associates]] · [[The Peterson Group]] · [[Jared Moskowitz]] · [[DeVos Family]]"
 ---
-
-
 #donor #mega-donor #agriculture #sugar #florida #bipartisan-donor #both-sides-illusion #forced-labor #everglades #lobbying #subsidy #cuba-policy #foreign-policy #defense-industry #regime-change #caribbean #revolving-door #k-street
-
-related: [[_Marco Rubio Master Profile|Rubio]] [[_Donald Trump Master Profile|Trump]] [[_Carlos Gimenez Master Profile|Carlos Gimenez]] [[American Farm Bureau Federation]] [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] [[Norman Braman]] [[Reclaim America PAC]] [[Lockheed Martin]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon]] [[Mauricio Claver-Carone]] [[Michael Waltz]] [[LARA Fund]] [[Cubaexport]] [[Pernod Ricard]] [[Bacardi]] [[Nicolás Maduro]] [[Brian Walsh]] [[Victor Cervino]] [[Darrell Issa]] [[Debbie Wasserman Schultz]] [[Chris Dodd]] [[Collin Peterson]] [[Combest, Sell & Associates]] [[The Peterson Group]] [[Jared Moskowitz]]
 
 ---
 
@@ -263,7 +259,5 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 - [Open Letter to CBP and FLETF: Central Romana Forced Labor Remediation Failure (March 4, 2024)](https://un.op.org/wp-content/uploads/2024/03/Open-Letter-to-CBP-and-FLETF-.pdf) (Tier 2) (VERIFIED) (Chrome verified 2026-03-31)
 
 ---
-
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown

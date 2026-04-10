@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Ted Cruz Master Profile]]
+related: "[[_Ted Cruz Master Profile]] · [[Robert Mercer]] · [[Crypto Industry Bloc]] · [[The McConnell Dark Money Empire - SLF and One Nation]]"
 ---
-
-
 #ted-cruz #2024-election #senate-race #texas #dark-money #crypto #robert-mercer #class-analysis #follow-the-money
 
-related: [[_Ted Cruz Master Profile]] · [[Robert Mercer]] · [[Crypto Industry Bloc]] · [[The McConnell Dark Money Empire - SLF and One Nation]]
-
 donors: [[Robert Mercer]] · [[Crypto Industry Bloc]]
-
-content-readiness:: ready
 
 ---
 

@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Glenn Youngkin Master Profile]]
+related: "[[_Glenn Youngkin Master Profile]] · [[The Education Culture War as Electoral Strategy]]"
 ---
-
 #carlyle-group #private-equity #youngkin #class-analysis #pe-governance #defense #healthcare #education-technology #conflict-of-interest
 
-related: [[_Glenn Youngkin Master Profile]] · [[The Education Culture War as Electoral Strategy]]
-
 donors: [[Carlyle Group|Carlyle Group (self)]]
-
-content-readiness:: ready
 
 ---
 

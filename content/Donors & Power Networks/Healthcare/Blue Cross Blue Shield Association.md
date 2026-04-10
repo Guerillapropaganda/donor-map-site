@@ -2,7 +2,7 @@
 title: "Blue Cross Blue Shield Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -41,7 +41,7 @@ ein: 135656874
 annual-revenue: "$819.1M"
 net-assets: "$1.1B"
 tax-year: "2023"
-related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]]"
+related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]]"
 court-cases: 825
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
@@ -54,10 +54,7 @@ court-jurisdictions:
   - "District Court, W.D. Pennsylvania"
   - "United States Bankruptcy Court, S.D. Texas"
 ---
-
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money
-
-related: [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -220,8 +217,6 @@ The public option was included in the original House ACA bill (2009) but strippe
 - [CMS: Medicare administrative cost data](https://www.cms.gov/data-research/statistics-trends-and-reports) (Tier 1)
 - [CMS: Insurance marketplace enrollment data](https://www.cms.gov/data-research/statistics-trends-and-reports/marketplace-products) (Tier 1)
 - [Ballotpedia: Blue Cross Blue Shield Association](https://ballotpedia.org/Blue_Cross_Blue_Shield_Association) (Tier 3)
-
-content-readiness:: developed
 
 ---
 

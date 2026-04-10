@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Doug Collins]]"
+related: "[[Doug Collins]] · [[_Donald Trump Master Profile]] · [[Veterans and Military - Donors and Backers]] · [[_Pete Hegseth Master Profile|Pete Hegseth]] · [[Concerned Veterans for America]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
 #VA-privatization #veterans-healthcare #class-analysis #profit-extraction #trump-policy
-
-related: [[_Donald Trump Master Profile]] [[Veterans and Military - Donors and Backers]] [[_Pete Hegseth Master Profile|Pete Hegseth]] [[Concerned Veterans for America]] [[Koch Network - Charles Koch|Koch Network]]
 
 donors: Optum/UnitedHealth TriWest Healthcare Alliance CVS/Aetna [[Concerned Veterans for America]] Private Healthcare Companies
 
@@ -152,4 +149,3 @@ The solution is straightforward: fund VA benefits processing, hire additional ad
 - [Veterans for Peace: Stop privatization VA](https://www.veteransforpeace.org/take-action/stop-privatization-veterans-health-administration) (Tier 3)
 - [American Postal Workers Union: VA healthcare](https://apwu.org/news/homefront-veterans-magazine-whats-really-happening-veterans-va-healthcare/) (Tier 3)
 
-content-readiness:: ready

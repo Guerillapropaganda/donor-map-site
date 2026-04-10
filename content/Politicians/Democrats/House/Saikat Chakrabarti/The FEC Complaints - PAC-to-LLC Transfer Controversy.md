@@ -9,11 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Brand New Congress PAC]] · [[Justice Democrats PAC]] · [[Brand New Congress LLC]] · [[National Legal and Policy Center]]"
 ---
-
 #fec #pac #campaign-finance #justice-democrats #brand-new-congress #dark-money #class-analysis #follow-the-money
-
-related:: [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Brand New Congress PAC]] · [[Justice Democrats PAC]] · [[Brand New Congress LLC]] · [[National Legal and Policy Center]]
 
 ### Filing and Allegations
 
@@ -85,10 +83,6 @@ Coverage varied significantly by outlet:
 Washington Examiner (April 2022) reported that [[_Alexandria Ocasio-Cortez Master Profile|AOC]]'s campaign and ex-Chief of Staff [[_Saikat Chakrabarti Master Profile|Chakrabarti]] failed to disclose $1M in expenses — a separate but related compliance matter.
 
 ---
-
-research-status:: Complete for FEC administrative record; unverified media claims flagged
-
-content-readiness:: Developed
 
 ### Sources
 

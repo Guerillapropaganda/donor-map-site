@@ -2,7 +2,7 @@
 title: "Elliott Management"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,14 +13,11 @@ issues:
   - "Energy & Climate"
   - "Israel & Foreign Policy"
 total-political-spend: "$707"
-related: "[[Schwarzman and Singer Fund Every Republican Faction]] · [[Mitt Romney]]"
+related: "[[Schwarzman and Singer Fund Every Republican Faction]] · [[Mitt Romney]] · [[_Donald Trump Master Profile|Trump]] · [[_Marco Rubio Master Profile|Marco Rubio]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Samuel Alito Master Profile|Samuel Alito]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[MAGA Inc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Wall Street Finance Networks]]"
 lei: "SUHPWJ4TBNAH1YMQM073"
 lei-jurisdiction: "US-DE"
 ---
-
 #hedge-fund #paul-singer #republican #national-security #war-hawk #fossil-fuel #israel #neoconservative #scotus #activist-investor #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile|Trump]] · [[_Marco Rubio Master Profile|Marco Rubio]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Samuel Alito Master Profile|Samuel Alito]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[MAGA Inc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Fossil Fuel Deregulation - The Climate Donors]]
 
 ---
 
@@ -183,8 +180,6 @@ Pattern flags: **Donor-Class Override** (judicial recusal reversed to protect do
 - [Corporate Knights: Meet the vulture capitalist working to prop up fossil fuels](https://corporateknights.com/issues/2025-06-best-50-issue/meet-the-vulture-capitalist-working-to-prop-up-fossil-fuels/) (Tier 2)
 
 ---
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

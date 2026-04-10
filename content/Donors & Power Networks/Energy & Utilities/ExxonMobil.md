@@ -2,7 +2,7 @@
 title: "ExxonMobil"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -46,7 +46,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "324191"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[John Barrasso]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Environment - Donors and Backers]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[The Science Committee and Texas Petrochemical Pipeline]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Cato Institute]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[John Barrasso]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Environment - Donors and Backers]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[The Science Committee and Texas Petrochemical Pipeline]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Cato Institute]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute|API]] · [[Chevron]] · [[PG&E]] · [[_Rex Tillerson Master Profile|Rex Tillerson]] · [[_Donald Trump Master Profile|Trump]] · [[_Joe Manchin Master Profile|Manchin]] · [[Carbon Capture & Sequestration Policy]] · [[Methane Regulation]] · [[Energy Transition]] · [[Council on Foreign Relations]] · [[NextEra Energy]]"
 federal-register-mentions: 563
 regulatory-agencies:
   - "Antitrust Division"
@@ -62,10 +62,7 @@ regulatory-agencies:
 lei: "549300QUCKLMUO3B0I31"
 lei-jurisdiction: "BE"
 ---
-
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money
-
-related: [[Fossil Fuel Bloc]] [[American Petroleum Institute|API]] [[Chevron]] [[PG&E]] [[_Rex Tillerson Master Profile|Rex Tillerson]] [[_Donald Trump Master Profile|Trump]] [[_Joe Manchin Master Profile|Manchin]] [[Carbon Capture & Sequestration Policy]] [[Methane Regulation]] [[Energy Transition]]
 
 ---
 
@@ -396,8 +393,6 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 - [FTC: Final consent order — Exxon-Pioneer merger (Jan 2025)](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-approves-final-order-exxon-pioneer-deal) (Tier 1)
 
 ---
-
-content-readiness:: developed
 
 ---
 

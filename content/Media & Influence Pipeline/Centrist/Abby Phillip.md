@@ -2,16 +2,15 @@
 title: "Abby Phillip"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]]"
+related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
 ---
 
 #media-pipeline #centrist #CNN #corporate-media #institutional-capture #warner-bros-discovery #paramount
-
 
 ---
 
@@ -187,4 +186,3 @@ The Paramount acquisition is the denouement. Under WBD, CNN moderated. Under Par
 - [CNN: Abby Phillip NewsNight lineup announcement](https://edition.cnn.com/2023/08/14/media/cnn-prime-time-lineup) (Tier 2)
 - [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1)
 
-content-readiness:: ready

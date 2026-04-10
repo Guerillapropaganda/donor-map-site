@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Martin Heinrich Master Profile]] · [[Lockheed Martin]] · [[Northrop Grumman]]"
 ---
-
 #heinrich #new-mexico #energy #nuclear #defense #labs #renewables
-
-related: [[_Martin Heinrich Master Profile]] [[Lockheed Martin]] [[Northrop Grumman]]
 
 donors: [[Lockheed Martin]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]]
 

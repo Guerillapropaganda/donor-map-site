@@ -42,11 +42,9 @@ bills-sponsored: 19
 bills-cosponsored: 190
 website: "https://www.hoeven.senate.gov"
 phone: "202-224-2551"
+related: "[[Koch Network - Charles Koch|Koch Network]] · [[_John Barrasso Master Profile|Barrasso]] · [[_Joe Manchin Master Profile|Manchin]]"
 ---
-
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power
-
-related: [[Koch Network - Charles Koch|Koch Network]] · [[_John Barrasso Master Profile|Barrasso]] · [[_Joe Manchin Master Profile|Manchin]]
 
 ---
 

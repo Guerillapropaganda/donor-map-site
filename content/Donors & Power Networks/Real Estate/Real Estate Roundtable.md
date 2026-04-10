@@ -2,7 +2,7 @@
 title: "Real Estate Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -29,16 +29,12 @@ ofac-programs:
   - "DPRK2"
   - "ILLICIT-DRUGS-EO14059"
   - "TCO"
-related: "[[Housing - Donors and Backers]] · [[Jason Smith]]"
+related: "[[Housing - Donors and Backers]] · [[Jason Smith]] · [[The Real Estate President and the Fair Housing Demolition]] · [[_Donald Trump Master Profile|Trump]] · [[Real Estate Industry Bloc]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 8265540
 total-assets: 6316098
 ---
-
-
 #donor #real-estate #lobbying #tax-policy #class-analysis #follow-the-money #dark-money #housing
-
-related: [[The Real Estate President and the Fair Housing Demolition]] [[_Donald Trump Master Profile|Trump]]
 
 ---
 
@@ -171,7 +167,6 @@ Opportunity Zones were marketed as anti-poverty policy. The reality: $48 billion
 
 ---
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

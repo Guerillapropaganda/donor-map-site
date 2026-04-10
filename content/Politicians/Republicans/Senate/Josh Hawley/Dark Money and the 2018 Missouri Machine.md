@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Josh Hawley Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Josh Hawley Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #josh-hawley #dark-money #2018-election #mcconnell #koch #nra #class-analysis #follow-the-money
-
-related: [[_Josh Hawley Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]]
 
 donors: [[Koch Network - Charles Koch]]
 

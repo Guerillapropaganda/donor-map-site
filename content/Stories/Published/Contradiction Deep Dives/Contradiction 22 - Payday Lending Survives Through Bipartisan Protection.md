@@ -2,15 +2,12 @@
 title: "Payday Lending Survives Through Bipartisan Protection"
 type: story
 content-readiness: raw
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]]"
 ---
-
 #contradiction #payday-lending #consumer-protection #CFPB #class-analysis
-
-related: [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]]
 
 ---
 
@@ -134,4 +131,3 @@ The industry's total contributions appear modest ($1.8M federally in 2024) compa
 
 ---
 
-content-readiness:: developed

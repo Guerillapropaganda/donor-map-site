@@ -6,12 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Sarah Huckabee Sanders Master Profile]]
 donors: "[[National Nurses United]]"
+related: "[[_Donald Trump Master Profile]] · [[Walton Family Foundation]]"
 ---
-
 #sarah-huckabee-sanders #governor #arkansas #trump-dynasty #walton-family #education-privatization #class-analysis #republican
 tags: #republican
-
-related: [[_Donald Trump Master Profile]] · _Mike Huckabee Master Profile · [[Walton Family Foundation]] · Eli Broad
 
 donors: [[Trump Donor Coalition]] · [[Walton Family Foundation]] · Arkansas Business Community · MAGA Small-Dollar Networks
 
@@ -84,5 +82,3 @@ The Walton family (Walmart heirs, $250B+ wealth) has invested $1B+ to privatize 
 - [Common Dreams: Walton Family Plot to Privatize Arkansas Public Schools](https://www.commondreams.org/views/2019/09/05/walton-family-plot-privatize-public-schools-arkansas) (Tier 3)
 - [Truthout: Right-Wing Think Tank, Walmart Heirs Behind Attack on Arkansas Teachers](https://truthout.org/articles/right-wing-think-tank-walmart-heirs-behind-latest-attack-on-arkansas-teachers/) (Tier 2)
 
-profile-status:: ready
-content-readiness:: ready

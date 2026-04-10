@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Kash Patel Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Kash Patel Master Profile]] · [[_Benjamin Netanyahu Master Profile]]"
 ---
-
-
 #kash-patel #qatar #china #shein #czechoslovak-group #foreign-clients #class-analysis #follow-the-money
-
-related: [[_Kash Patel Master Profile]] · [[_Benjamin Netanyahu Master Profile]]
 
 donors: Embassy of Qatar Elite Depot Ltd. Czechoslovak Group
 

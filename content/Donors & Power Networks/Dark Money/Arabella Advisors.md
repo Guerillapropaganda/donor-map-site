@@ -2,7 +2,7 @@
 title: "Arabella Advisors"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
-related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]]"
+related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Demand Justice]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Ocean Conservancy]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
@@ -36,10 +36,7 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
 ---
-
 #donor-node #dark-money #democrat #fiscal-sponsorship #infrastructure #class-analysis #donor
-
-related: [[Sixteen Thirty Fund]] [[New Venture Fund]] Windward Fund Hopewell Fund North Fund [[Demand Justice]] [[Democracy Alliance]] [[George Soros]] Eric Kessler [[DonorsTrust]] [[Leonard Leo]]
 
 ---
 

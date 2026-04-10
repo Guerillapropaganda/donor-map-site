@@ -2,7 +2,7 @@
 title: "Merck"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -25,7 +25,7 @@ subawards-received: 1
 subawards-received-amount: 308700
 top-federal-agency: "Department of Defense"
 top-naics-code: "325412"
-related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]]"
+related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[Eli Lilly]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]]"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 45354708
@@ -43,10 +43,7 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Veterans Affairs Department"
 ---
-
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
-
-related: [[PhRMA]] [[Pfizer]] [[Eli Lilly]] [[AbbVie]]
 
 ---
 
@@ -113,7 +110,6 @@ Opposition to Medicare drug price negotiation expansion (particularly before Key
 - [SEC: Merck 10-K filing, Keytruda revenue](https://www.sec.gov/cgi-bin/browse-edgar?company=Merck&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Merck](https://ballotpedia.org/Merck_&_Co.) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

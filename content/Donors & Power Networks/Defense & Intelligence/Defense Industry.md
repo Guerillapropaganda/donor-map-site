@@ -28,15 +28,12 @@ regulatory-agencies:
   - "International Trade Administration"
 lei: "5299006DUWIX3AEL2A58"
 lei-jurisdiction: "US-DE"
-related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] · [[Jeanne Shaheen Master Profile]] · [[Gary Peters Master Profile]]"
+related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] · [[Jeanne Shaheen Master Profile]] · [[Gary Peters Master Profile]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 995455
 total-assets: 1266724
 ---
-
 #defense #industry #military #ndaa #pentagon #bipartisan
-
-related: [[Defense Industry Bloc]] [[Defense Contractors]] [[Defense Contractors Bloc]]
 
 ---
 
@@ -70,8 +67,6 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 - [FEC Receipts: Defense sector](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [DOD: Budget data](https://comptroller.defense.gov/Budget-Materials/) (Tier 1)
 - [Ballotpedia: Defense industry](https://ballotpedia.org/Defense_Industry) (Tier 3)
-
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

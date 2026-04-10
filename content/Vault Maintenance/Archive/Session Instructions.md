@@ -35,4 +35,3 @@ You are picking up an ongoing political research project built in Obsidian. Befo
 
 ---
 
-content-readiness:: draft

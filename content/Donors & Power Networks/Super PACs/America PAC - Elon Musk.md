@@ -2,21 +2,18 @@
 title: "America PAC - Elon Musk"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Technology"
-related: "[[Mike Lawler Master Profile]]"
+related: "[[Mike Lawler Master Profile]] · [[Elon Musk]] · [[Tesla - Elon Musk Political Operation]] · [[SpaceX]] · [[MAGA Inc]] · [[Congressional Leadership Fund]]"
 known-gaps:
   - "No FEC contribution data"
 ---
-
 #america-pac #elon-musk #trump #2024 #super-pac #tech #voter-data #turnout
-
-related: [[Elon Musk]] [[Tesla - Elon Musk Political Operation]] [[SpaceX]] [[MAGA Inc]]
 
 ---
 

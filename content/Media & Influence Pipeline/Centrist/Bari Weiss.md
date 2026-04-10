@@ -2,16 +2,15 @@
 title: "Bari Weiss"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
-related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]]"
+related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]]"
 donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]]"
 ---
 
 #media-profile #centrist #journalist #free-press #cbs-news #independence-theater #tech-vc #class-analysis
-
 
 ---
 
@@ -169,4 +168,3 @@ Bari Weiss represents the most structurally complete case of Independence Theate
 
 ---
 
-content-readiness:: ready

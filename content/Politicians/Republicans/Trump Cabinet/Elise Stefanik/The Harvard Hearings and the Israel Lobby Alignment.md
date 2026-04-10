@@ -5,11 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Elise Stefanik Master Profile]]
+related: "[[_Elise Stefanik Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 ---
-
 #elise-stefanik #harvard #antisemitism-hearings #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #israel-lobby #claudine-gay #liz-magill #campus-culture-war #follow-the-money #donor-incentive #class-analysis #un-ambassador
 
-related: [[_Elise Stefanik Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]
 donors: [[AIPAC - American Israel Public Affairs Committee]]
 
 ---
@@ -98,4 +97,3 @@ The Harvard degree is the original investment. The Harvard attack was the return
 - [Times of Israel: Trump picks Stefanik as UN envoy](https://www.timesofisrael.com/trump-picks-elise-stefanik-leading-voice-against-campus-antisemitism-as-un-envoy/) (Tier 2)
 - [Religion News Service: Jewish Americans should look harder at Stefanik's attacks on elites](https://religionnews.com/2024/11/14/elise-stefanik-jews-united-nations/) (Tier 2)
 
-content-readiness:: ready

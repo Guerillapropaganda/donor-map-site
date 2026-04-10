@@ -2,7 +2,7 @@
 title: "Google - Alphabet"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -25,14 +25,11 @@ court-cases: 1
 last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, N.D. California"
-related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Tech Privacy Advocacy]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Center for American Progress]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]]"
+related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Tech Privacy Advocacy]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Center for American Progress]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Eric Schmidt]] · [[Silicon Valley Democratic Donor Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Nancy Pelosi Master Profile|Nancy Pelosi]] · [[_Ro Khanna Master Profile|Ro Khanna]] · [[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Amy Klobuchar Master Profile|Amy Klobuchar]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[TikTok - ByteDance]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ---
-
 #google #alphabet #tech #lobbying #antitrust #surveillance #advertising #data #ai #revolving-door #monopoly #eu-lobbying #california #pac #dark-money #class-analysis #follow-the-money
-
-related: [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Eric Schmidt]] · [[Silicon Valley Democratic Donor Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Nancy Pelosi Master Profile|Nancy Pelosi]] · [[_Ro Khanna Master Profile|Ro Khanna]] · [[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Amy Klobuchar Master Profile|Amy Klobuchar]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]]
 
 ---
 
@@ -438,9 +435,6 @@ Google represents the most advanced form of monopoly power in the vault — one 
 - [Washington Post: How Google is transforming power and politics (2014)](https://www.washingtonpost.com/politics/how-google-is-transforming-power-and-politicsgoogle-once-disdainful-of-lobbying-now-a-master-of-washington-influence/2014/04/12/51648b92-b4d3-11e3-8cb6-284052554d74_story.html) (Tier 2) (UNVERIFIED)
 
 ---
-
-research-status:: developed — Comprehensive merge of existing Chrome-verified profile with deep research expansion. 450+ lines, 40+ sources (7 Chrome-verified Tier 1, 7 Chrome-verified Tier 2, 26 UNVERIFIED). New data: year-by-year federal lobbying table ($148M cumulative 2015-2024), PAC cycle splits with partisan balance analysis, top PAC recipients by name and committee jurisdiction, Sundar Pichai individual donations showing bipartisan hedging, inaugural committee donations (3 cycles including $1M 2025), FTC 2011-2013 named revolving door individuals (Bye, Edelman, Shelton, Ramirez), 258 Obama-era revolving door instances with named individual tables (Google→Gov and Gov→Google), California state lobbying ($257K avg → $10.7M quarter), EU lobbying (€6M/year, #1 in Brussels, 212 meetings), trade association dark money (368 orgs, undisclosed amounts), AI regulation lobbying ($52.3M, 10-year moratorium attempt), Gonzalez v. Google Section 230, covert AB 566 privacy lobbying. Gaps remaining: EU antitrust fines ($8B+ total not detailed), Google defense/intelligence contracts (Project Maven), YouTube content moderation lobbying, Waymo regulatory capture, PRISM/NSA history. 26 UNVERIFIED URLs need Chrome pass before promotion to ready.
-content-readiness:: developed
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

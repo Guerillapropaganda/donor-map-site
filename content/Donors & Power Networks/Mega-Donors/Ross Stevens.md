@@ -2,7 +2,7 @@
 title: "Ross Stevens"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -43,16 +43,13 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "TEXT-EXTRACT"
-related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Ohio 2026 Governor Race - The Structural Landscape]]"
+related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Ohio 2026 Governor Race - The Structural Landscape]] · [[Fairshake PAC - Crypto Super PAC]] · [[Crypto Industry Bloc]] · [[Coinbase]] · [[Club for Growth]] · [[Vivek Ramaswamy]] · [[Vivek Ramaswamy Master Profile]]"
 lobbying-spend: 925000
 lobbying-filings: 70
 lei: "549300Q6W4JNCJR4LU44"
 lei-jurisdiction: "US-WI"
 ---
-
 #ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel
-
-related: [[Fairshake PAC - Crypto Super PAC]] [[Crypto Industry Bloc]] [[Coinbase]] [[Club for Growth]] [[Vivek Ramaswamy]]
 
 ---
 
@@ -161,7 +158,6 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 - [OpenSecrets: The crypto trio — how the cryptocurrency industry made its mark on 2024 elections](https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/) (Tier 2)
 - [CoinLineup: U.S. Bank resumes cryptocurrency custody with NYDIG](https://coinlineup.com/us-bank-resumes-crypto-custody-with-nydig/) (Tier 3)
 
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

@@ -16,11 +16,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[UnitedHealth Group - Optum]] · [[Hawaiian Electric Company]]"
 ---
-
 #josh-green #governor #hawaii #healthcare #physician #maui-wildfire #tourism #class-analysis
-
-related: [[UnitedHealth Group - Optum]] · [[Hawaiian Electric Company]] · Hawaii Tourism Industry · Maui Disaster Response
 
 donors: Healthcare Industry Donors · Hawaii Tourism Industry · Labor Unions - HGEA · Hawaii Business Council
 

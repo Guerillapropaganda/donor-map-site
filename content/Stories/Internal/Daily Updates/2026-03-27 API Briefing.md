@@ -12,11 +12,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[Donors & Power Networks Index]] · [[_VAULT_INDEX]]"
 ---
-
 #daily-update #api-briefing #fec #usaspending #lda
-
-related: [[Donors & Power Networks Index]] · [[_VAULT_INDEX]]
 
 ---
 

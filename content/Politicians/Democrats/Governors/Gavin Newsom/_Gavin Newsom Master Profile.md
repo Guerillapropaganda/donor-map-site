@@ -30,12 +30,9 @@ known-gaps:
   - "No mapped relationships"
 executive-actions: 10
 last-enriched: "2026-04-09"
+related: "[[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[PG&E]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[CCPOA - California Correctional Peace Officers Association]] · [[California Restaurant Association]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Haim Saban]] · [[CTA - California Teachers Association]] · [[Chevron]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[California Labor Federation]] · [[California Building and Construction Trades Council]] · [[Elon Musk]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #newsom #master-profile #california #governor #2028 #class-analysis #follow-the-money #rhetoric-vs-record #donor-class #silicon-valley #progressive-branding
-
-related: [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[PG&E]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[CCPOA - California Correctional Peace Officers Association]] · [[California Restaurant Association]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Haim Saban]] · [[CTA - California Teachers Association]] · [[Chevron]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[California Labor Federation]] · [[California Building and Construction Trades Council]] · [[Elon Musk]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]]
 
 donors: [[Elon Musk]], [[Michael Bloomberg]], [[Haim Saban]], [[SEIU - Service Employees International Union]], [[CNA - California Nurses Association]], [[AIPAC - American Israel Public Affairs Committee]], [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Kaiser Permanente]], [[Lennar Corporation]], [[National Association of Realtors]]
 
@@ -228,7 +225,6 @@ The new fault line: AI. Labor unions publicly conditioned 2028 support on AI reg
 
 profile-status:: ready — all policy areas have individual notes (healthcare, Israel, housing, labor, immigration, environment, criminal justice, education, economic policy). All bold headers converted to ### format. Donor class map with 10 sector links. Donation-to-policy timeline with temporal mapping. Rhetorical signature moves documented. 2028 positioning tracked. Analytical patterns applied. All major claims inline-cited with Tier 1-2 sources (FPPC, OpenSecrets, CalMatters). Promoted to ready Session 38h (March 23, 2026).
 content-readiness:: ready
- 
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

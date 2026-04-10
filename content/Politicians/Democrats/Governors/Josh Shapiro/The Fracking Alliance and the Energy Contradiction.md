@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Josh Shapiro Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Josh Shapiro Master Profile]]"
 ---
-
-
 #josh-shapiro #fracking #cnx-resources #robindale-energy #fossil-fuels #rggi #class-analysis
 
-related: [[_Josh Shapiro Master Profile]]
 donors: [[Fossil Fuel Bloc]]
 
 content-readiness:: ready

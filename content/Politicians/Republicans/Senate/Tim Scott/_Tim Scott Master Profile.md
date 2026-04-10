@@ -19,15 +19,12 @@ top-donors:
   - "AIPAC"
   - "Senate Leadership Fund"
   - "Michael Bloomberg"
-related: "[[Bank of America]] · [[John Cornyn]]"
+related: "[[Bank of America]] · [[John Cornyn]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Michael Bloomberg]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]"
 donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]]"
 total-received: "$1,539"
 fec-candidate-id: "S4SC00240"
 ---
-
 #master-profile #republican #senate #south-carolina #opportunity-zones #corporate-donor #presidential #banking-committee #crypto #wall-street #israel-lobby
-
-related: [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Michael Bloomberg]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]
 
 donors: [[Goldman Sachs]] · [[Blackstone]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Senate Leadership Fund]] · [[Michael Bloomberg]]
 
@@ -164,9 +161,6 @@ Scott's presidential bid raised $45.8M combined: $12.5M campaign committee, $22M
 - [The Hill: Tim Scott leaves open door to being Trump's VP](https://thehill.com/homenews/campaign/4420336-tim-scott-leaves-open-door-to-being-trumps-vp/) (Tier 2)
 - [Boston Review: The False Promise of Opportunity Zones](https://www.bostonreview.net/articles/the-false-promise-of-opportunity-zones/) (Tier 2)
 - [Ballotpedia: Tim Scott](https://ballotpedia.org/Tim_Scott) (Tier 3)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Legislative Activity (Congress.gov)
 

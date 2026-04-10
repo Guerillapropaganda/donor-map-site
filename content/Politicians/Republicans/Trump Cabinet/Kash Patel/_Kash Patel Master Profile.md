@@ -17,11 +17,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]] · [[_Steve Bannon Master Profile|Steve Bannon]] · [[_Pete Hegseth Master Profile]]"
 ---
-
 #kash-patel #fbi-director #trump-cabinet #loyalty #nunes-memo #foreign-clients #class-analysis
 
-related: [[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]] · [[_Steve Bannon Master Profile|Steve Bannon]] · [[_Pete Hegseth Master Profile]]
 donors: [[Save America PAC]] · Trump Media · [[MAGA Inc]] · Epoch Times
 
 profile-status:: ready

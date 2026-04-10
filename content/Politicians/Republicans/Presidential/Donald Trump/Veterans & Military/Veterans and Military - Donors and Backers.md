@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Doug Collins]]"
+related: "[[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Doug Collins]] · [[_Donald Trump Master Profile]] · [[_Pete Hegseth Master Profile|Pete Hegseth]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[General Dynamics]]"
 ---
-
 #trump #military #defense #veterans #VA #policy-node
-
-related: [[_Donald Trump Master Profile]] VA Privatization Pipeline [[_Pete Hegseth Master Profile|Pete Hegseth]] [[Lockheed Martin]] RTX [[Northrop Grumman]] [[General Dynamics]]
 
 donors: [[Defense Contractors Bloc]] Private Healthcare Companies [[Concerned Veterans for America]] [[Koch Network - Charles Koch|Koch Network]]
 
@@ -131,4 +128,3 @@ Wounded Warrior Project specifically benefits from privatization narrative: "cho
 - [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America) (Tier 2)
 - [Chicago Tribune: Koch veterans group Trump administration](https://www.chicagotribune.com/2018/04/07/how-a-koch-backed-veterans-group-gained-influence-in-trumps-washington/) (Tier 2)
 
-content-readiness:: ready

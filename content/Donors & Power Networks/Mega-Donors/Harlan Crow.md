@@ -2,7 +2,7 @@
 title: "Harlan Crow"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -16,18 +16,11 @@ annual-revenue: "$109"
 net-assets: "$4K"
 tax-year: "2023"
 total-political-spend: "$4,649,518"
-related: "[[Twenty Years of Financial Disclosure Failures]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Harlan Crow Gift Empire]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Mike Crapo]] · [[John Cornyn]] · [[Federalist Society]] · [[American Enterprise Institute]]"
+related: "[[Twenty Years of Financial Disclosure Failures]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Harlan Crow Gift Empire]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Mike Crapo]] · [[John Cornyn]] · [[Federalist Society]] · [[American Enterprise Institute]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Jeffrey Epstein Network]]"
 lobbying-spend: 400000
 lobbying-filings: 8
 ---
-
-
 #harlan-crow #mega-donor #real-estate #clarence-thomas #leonard-leo #scotus #class-analysis
-
-related: [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]]
-
-research-status:: ready — Full citation pass complete. Temporal mapping (12 entries), political spending ($16M+ FEC), 400% ramp, Thomas $4.75M pipeline. All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
-content-readiness:: ready
 
 ---
 

@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Wes Moore Master Profile]]
+related: "[[_Wes Moore Master Profile]]"
 ---
-
-
 #wes-moore #narrative #bronze-star #baltimore #oxford #class-analysis
 
-related: [[_Wes Moore Master Profile]]
 donors: []
-
-content-readiness:: ready
 
 ---
 

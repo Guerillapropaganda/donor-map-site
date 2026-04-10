@@ -53,15 +53,12 @@ regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
   - "Nuclear Regulatory Commission"
-related: "[[The Intellectual Property and Banking Donor Pipeline]]"
+related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[Southern Company]] · [[NextEra Energy]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 21294251
 total-assets: 1868586
 ---
-
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables
-
-related: [[Southern Company]] [[NextEra Energy]]
 
 ---
 
@@ -97,8 +94,6 @@ Favorable rate increases from state utility commissions, coal ash cleanup cost r
 - [OpenSecrets: Duke Energy organizational profile](https://www.opensecrets.org/orgs/duke-energy/summary?id=D000000477) (Tier 1)
 - [NC DEQ: Coal ash management data](https://deq.nc.gov/about/divisions/waste-management/coal-ash-management) (Tier 1)
 - [Ballotpedia: Duke Energy](https://ballotpedia.org/Duke_Energy) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

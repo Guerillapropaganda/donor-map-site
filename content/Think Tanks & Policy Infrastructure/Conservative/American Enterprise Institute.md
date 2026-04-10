@@ -2,7 +2,7 @@
 title: "American Enterprise Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: conservative
@@ -25,11 +25,10 @@ regulatory-agencies:
   - "Federal Deposit Insurance Corporation"
   - "Federal Housing Finance Agency"
   - "Federal Reserve System"
-related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Claremont Institute]] · [[Cato Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]]"
+related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Carlyle Group]] · [[Federalist Society]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Claremont Institute]] · [[Cato Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
 ---
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy
-
 
 ---
 
@@ -380,8 +379,6 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - [AEI: "How Much Is Too Much?" defense budget analysis (Jan 2025)](https://www.aei.org/articles/affording-defense-how-much-is-too-much/) (Tier 3)
 - [AEI: 2024 Annual Report financial summary](https://www.aei.org/wp-content/uploads/2025/02/01-2024-Annual-Report.pdf) (Tier 3)
 - [Carly Fiorina / AEI: Quote on corporate political organization (2016)](https://www.aei.org/articles/fiorinas-anti-cronyist-message-was-morally-and-politically-perfect/) (Tier 3)
-
-content-readiness:: developed
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

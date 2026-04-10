@@ -21,12 +21,9 @@ bills-sponsored: 34
 bills-cosponsored: 578
 website: "https://krishnamoorthi.house.gov"
 phone: "202-225-3711"
-related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]]"
+related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Tech Industry|Tech Industry Bloc]] · [[Palantir]] · [[Meta]]"
 ---
-
 #raja-krishnamoorthi #illinois #house #democrat #oversight #tech #tiktok #india #ccp-committee #senate-2026 #maga-donors
-
-related: [[_JB Pritzker Master Profile|JB Pritzker]] [[_Juliana Stratton Master Profile|Juliana Stratton]] [[Tech Industry|Tech Industry Bloc]] [[Palantir]] [[Meta]]
 
 ---
 
@@ -135,9 +132,6 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 - ~~[FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

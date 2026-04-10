@@ -26,12 +26,10 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Pam Bondi Master Profile]]"
 ---
-
-
 #john-ratcliffe #republican #cia #dni #intelligence #loyalty #revolving-door #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] [[_Pam Bondi Master Profile]]
 donors: [[Club for Growth]] · [[L3 Technologies]] · [[Northrop Grumman]] · [[Blackstone]] · Latent AI
 
 profile-status:: ready
@@ -128,7 +126,6 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 - [NPR: CIA Director confirmation](https://www.npr.org/2025/01/23/g-s1-44389/john-ratcliffe-cia-director) (Tier 2)
 - [FEC: John Ratcliffe contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=ratcliffe,+john) (Tier 1)
 content-readiness:: ready
- 
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

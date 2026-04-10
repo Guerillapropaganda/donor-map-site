@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Rick Scott Master Profile]]
+related: "[[_Rick Scott Master Profile]] · [[_Tom Steyer Master Profile]]"
 ---
-
-
 #rick-scott #self-funded #florida #sugar #fanjul #blind-trust #class-analysis #follow-the-money
 
-related: [[_Rick Scott Master Profile]] · [[_Tom Steyer Master Profile]]
-
 donors: (Self-funded from Columbia/HCA fortune)
-
-content-readiness:: ready
 
 ---
 

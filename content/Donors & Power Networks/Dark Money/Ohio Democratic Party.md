@@ -2,7 +2,7 @@
 title: "Ohio Democratic Party"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -36,7 +36,7 @@ total-political-spend: "$9,177,680"
 politicians-funded:
   - "Sherrod Brown"
   - "Richard Neal"
-related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]]"
+related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]] · [[Sherrod Brown]] · [[UAW - United Auto Workers|UAW]] · [[Democratic Party Infrastructure]] · [[AFL-CIO]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[Senate Majority PAC]] · [[ActBlue]]"
 ein: "273554312"
 nonprofit-status: "tax-exempt"
 fara-status: "registrant"
@@ -44,10 +44,7 @@ fara-records: 2
 fara-countries:
   - "TAIWAN"
 ---
-
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class
-
-related: [[Sherrod Brown]] · [[UAW - United Auto Workers|UAW]] · [[Democratic Party Infrastructure]] · [[AFL-CIO]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[Senate Majority PAC]]
 
 ---
 
@@ -149,8 +146,6 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - [Ballotpedia: Democratic Party of Ohio](https://ballotpedia.org/Democratic_Party_of_Ohio) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ---
 

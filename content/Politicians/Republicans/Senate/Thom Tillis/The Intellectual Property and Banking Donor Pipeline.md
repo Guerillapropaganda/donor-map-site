@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Thom Tillis Master Profile]]"
+related: "[[_Thom Tillis Master Profile]] · [[Bank of America]] · [[Duke Energy]] · [[Pharmaceutical Industry Bloc]] · [[PhRMA]]"
 ---
-
 #tillis #north-carolina #ip #banking #charlotte #pharma #judiciary #wall-street #deregulation #cfpb #prevail-act
-
-related: [[_Thom Tillis Master Profile]] [[Bank of America]] [[Duke Energy]] [[Pharmaceutical Industry Bloc]] [[PhRMA]]
 
 donors: [[Bank of America]] [[Wells Fargo]] [[PhRMA]] [[Goldman Sachs]] [[Truist Financial]]
 
@@ -111,4 +109,3 @@ The $4.3M+ career finance sector haul and $262K+ career pharma haul are the fina
 - [IPWatchdog: PREVAIL Act Narrowly Moves Forward Despite Concerns About Drug Pricing Impact](https://ipwatchdog.com/2024/11/21/prevail-act-narrowly-moves-forward-despite-concerns-drug-pricing-impact/) (Tier 3)
 - [Ballotpedia: Thom Tillis](https://ballotpedia.org/Thom_Tillis) (Tier 3)
 
-content-readiness:: developed

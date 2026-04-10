@@ -2,7 +2,7 @@
 title: "Haim Saban"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -20,26 +20,10 @@ annual-revenue: "$2.0M"
 net-assets: "$26.3M"
 tax-year: "2020"
 total-political-spend: "$20,115,751"
-related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]]"
-doj-press-mentions: "264457"
+related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[JPAC - Jewish Public Affairs Committee of California]]"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Criminal - Human Rights and Special Prosecution Section"
-  - "Criminal - Office of International Affairs"
-  - "Criminal Division"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - Florida, Middle"
-  - "USAO - Idaho"
-  - "USAO - Massachusetts"
-  - "USAO - Michigan, Western"
-  - "USAO - Minnesota"
-  - "USAO - New Jersey"
 ---
-
-
 #donor #israel #haim-saban #billionaire #entertainment #single-issue #democratic-mega-donor #follow-the-money #class-analysis #california #beverly-hills
-
-related: [[_Gavin Newsom Master Profile]] | [[Pro-Israel Donor Network Deep Dive]] | [[AIPAC - American Israel Public Affairs Committee]] | [[Miriam Adelson]] | [[_Donald Trump Master Profile]]
 
 ---
 
@@ -128,9 +112,6 @@ National Democratic politics — Clinton network, AIPAC connection, UDP funding
 - [OpenSecrets: Saban Capital Group](https://www.opensecrets.org/ORGS/summary.php?id=D000037316) (Tier 1)
 - [Haaretz: Saban $1M to AIPAC UDP](https://www.haaretz.com/us-news/2022-04-13/ty-article/.highlight/israeli-u-s-billionaire-saban-donates-1-million-to-aipacs-super-pac/00000180-5bb2-d718-afd9-dfbea3a70000) (Tier 2)
 
-research-status:: ready — Full citation pass complete. Saban-Adelson bracket analysis, $16M Clinton cycle, UDP $1M, single-issue donor model documented. All ### headers, Tier 1-2 sources verified, class analysis present. Remaining research note: FPPC Cal-Access search for direct Newsom contributions not yet completed. Promoted Session 38j.
-content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
@@ -204,21 +185,4 @@ content-readiness:: ready
 <!-- auto:sec-edgar end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264457 |
-| DOJ Components | Criminal - Human Rights and Special Prosecution Section, Criminal - Office of International Affairs, Criminal Division, Federal Bureau of Investigation (FBI), USAO - Florida, Middle, USAO - Idaho +9 more |
-
-**Recent press releases:**
-
-- 2026-04-09 — [Rapid City Man Sentenced to 10 Years in Federal Prison  for Conspiring to Distribute Fentanyl and Methamphetamine in Rapid City](https://www.justice.gov/usao-sd/pr/rapid-city-man-sentenced-10-years-federal-prison-conspiring-distribute-fentanyl-and) — USAO - South Dakota
-- 2026-04-09 — [Giles County Man Arrested for Importing Powerful Psychedelic](https://www.justice.gov/usao-wdva/pr/giles-county-man-arrested-importing-powerful-psychedelic) — USAO - Virginia, Western
-- 2026-04-09 — [West Virginia Woman Sentenced to Prison for Lying to Obtain U.S. Citizenship After Committing Torture and War Crimes in Bosnia](https://www.justice.gov/opa/pr/west-virginia-woman-sentenced-prison-lying-obtain-us-citizenship-after-committing-torture) — Criminal Division
-- 2026-04-09 — [U.S. Attorney’s Office Collects More than $1.5 Billion in Criminal and Civil Actions in Fiscal Year 2025, the Most in the Country](https://www.justice.gov/usao-nj/pr/us-attorneys-office-collects-more-15-billion-criminal-and-civil-actions-fiscal-year-2025) — USAO - New Jersey
-- 2026-04-09 — [Leader of Sex Trafficking Ring Pleads Guilty](https://www.justice.gov/usao-ma/pr/leader-sex-trafficking-ring-pleads-guilty) — USAO - Massachusetts
-- 2026-04-09 — [Minneapolis Man Sentenced to 43 Months for Role in Feeding Our Future Fraud Scheme ](https://www.justice.gov/usao-mn/pr/minneapolis-man-sentenced-43-months-role-feeding-our-future-fraud-scheme) — USAO - Minnesota
-- ... and 264,451 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Haim%20Saban%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

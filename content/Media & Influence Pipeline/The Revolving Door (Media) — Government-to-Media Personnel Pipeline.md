@@ -10,7 +10,6 @@ related: "[[Fox News - Murdoch Media Empire]] · [[Crooked Media]] · [[Rachel M
 
 #media #revolving-door #fox-news #msnbc #trump #obama #defense #lobbying #disclosure #both-sides-illusion
 
-
 ---
 
 ### The Core Pattern
@@ -379,4 +378,3 @@ The revolving door is the mechanism by which political media becomes an extensio
 
 ---
 
-content-readiness:: developed

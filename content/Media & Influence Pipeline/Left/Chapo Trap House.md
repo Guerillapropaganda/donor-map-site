@@ -12,7 +12,6 @@ related: "[[Democratic Socialists of America]] · [[Pod Save America]] · [[Red 
 
 #media-pipeline #left #socialist #dirtbag-left #patreon #DSA #audience-funded
 
-
 ---
 
 ### Who They Are
@@ -216,4 +215,3 @@ Right-wing donor-class capture (Wilks/Daily Wire, Thiel/Rumble, Fox/Murdoch) flo
 - [FEC: Matt Christman individual contributions](https://www.fec.gov/data/receipts/?contributor_name=CHRISTMAN%2C+MATT) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
 - [FEC: Amber Frost individual contributions](https://www.fec.gov/data/receipts/?contributor_name=FROST%2C+AMBER) (Tier 1) (Chrome required — API rate-limited 2026-03-27)
 
-content-readiness:: ready

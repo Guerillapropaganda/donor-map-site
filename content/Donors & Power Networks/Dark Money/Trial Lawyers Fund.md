@@ -2,7 +2,7 @@
 title: "Trial Lawyers Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -17,12 +17,9 @@ court-cases: 1
 last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, D. Massachusetts"
-related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]]"
+related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]]"
 ---
-
 #trial-lawyers #tort #litigation #democratic #donor #aat #plaintiffs
-
-related: [[Democratic Donor Network]] [[_Joe Biden Master Profile|Biden]] [[Legal Sector Donors]]
 
 ---
 
@@ -47,8 +44,6 @@ Trial lawyer political spending is concentrated around blocking tort reform legi
 
 - [OpenSecrets: American Association for Justice PAC](https://www.opensecrets.org/orgs/american-assn-for-justice/summary?id=D000000065) (Tier 1)
 - [Ballotpedia: Tort reform](https://ballotpedia.org/Trial_Lawyers_Fund) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

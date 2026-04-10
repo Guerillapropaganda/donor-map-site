@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Matt Mahan Master Profile]]
-related: "[[Tech Industry Policy Alignment and the Billionaire Tax Fight]] · [[From Causes to Governor - The Tech Career to Politics Pipeline]]"
+related: "[[Tech Industry Policy Alignment and the Billionaire Tax Fight]] · [[From Causes to Governor - The Tech Career to Politics Pipeline]] · [[_Matt Mahan Master Profile]] · [[Peter Thiel]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]]"
 ---
-
-
 #matt-mahan #silicon-valley #billionaires #tech-donors #class-analysis #follow-the-money
 
-related: [[_Matt Mahan Master Profile]] · [[Peter Thiel]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]]
 donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]]
-
-content-readiness:: ready
 
 ---
 

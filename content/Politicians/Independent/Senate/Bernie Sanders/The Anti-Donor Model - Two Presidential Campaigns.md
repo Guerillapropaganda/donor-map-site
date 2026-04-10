@@ -5,15 +5,12 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Bernie Sanders Master Profile]]
-related: "[[The Anti-Corporate Fundraising Model]]"
+related: "[[The Anti-Corporate Fundraising Model]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]] · [[Michael Bloomberg]]"
 source-types:
   - FEC
 ---
-
-
 #sanders #campaign-finance #2016 #2020 #class-analysis #follow-the-money #small-dollar #anti-donor #consolidation #primary
 
-related: [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]] · [[Michael Bloomberg]]
 donors: [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]]
 
 ---

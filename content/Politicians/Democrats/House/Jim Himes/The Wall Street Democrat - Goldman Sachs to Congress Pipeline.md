@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Jim Himes Master Profile]]"
-related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
+related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[_Jim Himes Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[_French Hill Master Profile|French Hill]] · [[_Maxine Waters Master Profile|Maxine Waters]]"
 ---
-
 #himes #wall-street #goldman-sachs #financial-services #revolving-door #connecticut
-
-related: [[_Jim Himes Master Profile]] [[Goldman Sachs]] [[JPMorgan Chase]] [[_French Hill Master Profile|French Hill]] [[_Maxine Waters Master Profile|Maxine Waters]]
 
 donors: [[Goldman Sachs]] [[JPMorgan Chase]] [[Morgan Stanley]] [[Blackstone Group]]
 
@@ -50,4 +47,3 @@ Himes' district is the financial services industry. Greenwich, Stamford, and Wes
 - [ProPublica: The New Democrats — The Coalition Pharma and Wall Street Love](https://www.propublica.org/article/new-democrat-coalition) (Tier 2)
 - [Ballotpedia: Jim Himes](https://ballotpedia.org/Jim_Himes) (Tier 3)
 
-content-readiness:: ready

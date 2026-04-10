@@ -20,11 +20,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]]"
 ---
-
 #matt-gaetz #house #florida #freedom-caucus #trump-loyalist #sex-trafficking #ethics #family-wealth #chaos-agent #class-analysis #maga
-
-related: [[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]]
 
 donors: Don Gaetz Family Fortune · [[MAGA Small Dollar Base]]
 

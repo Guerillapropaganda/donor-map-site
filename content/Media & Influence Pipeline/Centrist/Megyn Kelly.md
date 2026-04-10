@@ -12,7 +12,6 @@ related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex
 
 #media-pipeline #centrist #independence-theater #revolving-door #fox-news #conservative-media
 
-
 ---
 
 ### Who They Are
@@ -185,4 +184,3 @@ The Halperin partnership and Hicks hiring are not anomalies — they are the pat
 - [PBS Frontline: How Megyn Kelly Went from Fox News Star to Alt-Right Target](https://www.pbs.org/wgbh/frontline/article/cull-her-out-how-megyn-kelly-went-from-fox-news-star-to-alt-right-target/) (Tier 2)
 - [Wikipedia: Megyn Kelly](https://en.wikipedia.org/wiki/Megyn_Kelly) (Tier 3)
 
-content-readiness:: ready

@@ -2,7 +2,7 @@
 title: "Invitation Homes - Institutional Landlords"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -13,14 +13,11 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-related: "[[The Housing Progressive and Wall Street Tension]]"
+related: "[[The Housing Progressive and Wall Street Tension]] · [[Blackstone Group]] · [[National Rental Home Council]] · [[American Homes 4 Rent]] · [[Pretium/Progress Residential]] · [[FirstKey Homes - Cerberus]] · [[National Association of Realtors]] · [[Real Estate Board of New York]] · [[Real Estate Industry Bloc]]"
 lobbying-spend: 400000
 lobbying-filings: 14
 ---
-
 #invitation-homes #institutional-landlord #real-estate #housing #blackstone #rent #private-equity #class-analysis #follow-the-money
-
-related: [[Blackstone Group]] · [[National Rental Home Council]] · [[American Homes 4 Rent]] · [[Pretium/Progress Residential]] · [[FirstKey Homes - Cerberus]] · [[National Association of Realtors]] · [[Real Estate Board of New York]]
 
 ---
 
@@ -194,10 +191,6 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 - [SEC: Invitation Homes 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=invitation+homes&CIK=&type=10-K) (Tier 1)
 
 ---
-
-research-status:: developed — Research merge adds comprehensive PE landlord bloc data: 350K+ corporate homes, NRHC founding/structure, coordinated trade association network ($150.9M 2024 lobbying, 61% revolvers), anti-rent-control spending details, federal bills opposed and killed, state-level rent control preemption architecture, Bill Pulte regulatory capture at FHFA, GSE financing disparity (52% vs 9%), opportunity zone mechanics. Gaps: detailed 10-K analysis of Invitation Homes' ongoing rent escalation patterns; state-by-state lobbying breakdowns; specific NRHC member exit data; detailed BREIT portfolio analysis.
-
-content-readiness:: developed
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

@@ -27,12 +27,9 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. New York"
 total-political-spend: "$9,908,147"
-related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers — Dan and Farris Wilks]]"
+related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers — Dan and Farris Wilks]] · [[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Tim Dunn]] · [[America First Policy Institute]]"
 ---
-
 #donor #mega-donor #texas-oil #christian-nationalist #republican-megadonor #crownquest
-
-related: [[_Mike Rogers Master Profile]] [[Great Lakes Conservatives Fund]] [[Tim Dunn]] [[America First Policy Institute]]
 
 ---
 
@@ -169,9 +166,6 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 - [Ballotpedia: Tim Dunn Texas donor](https://ballotpedia.org/Tim_Dunn_(Texas)) (Tier 3)
 
 ---
-
-research-status:: ready — CrownQuest $1.5B net worth, $100M+ political giving, $5M Rogers/GLCF, $5M Trump, America First Policy Institute co-founder, Christian Nationalist agenda, Texas GOP reshaping, class analysis. 9 sources, Tier 1-3. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ---
 

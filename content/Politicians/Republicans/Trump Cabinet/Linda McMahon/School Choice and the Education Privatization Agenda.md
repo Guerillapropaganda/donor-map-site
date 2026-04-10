@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Linda McMahon Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Linda McMahon Master Profile]]"
 ---
-
-
 #linda-mcmahon #education #school-choice #vouchers #privatization #project-2025 #class-analysis #follow-the-money
 
-related: [[_Linda McMahon Master Profile]]
 donors: (Private education and for-profit charter networks — no specific nodes)
 
 content-readiness:: ready

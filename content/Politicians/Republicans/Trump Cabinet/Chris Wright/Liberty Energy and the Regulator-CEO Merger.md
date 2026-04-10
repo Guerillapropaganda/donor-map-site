@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Chris Wright Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chris Wright Master Profile]]"
 ---
-
-
 #chris-wright #liberty-energy #fracking #lng #doe #regulatory-capture #class-analysis #follow-the-money
 
-related: [[_Chris Wright Master Profile]]
 donors: (Liberty Energy, fossil fuel industry — no separate nodes)
 
 content-readiness:: ready

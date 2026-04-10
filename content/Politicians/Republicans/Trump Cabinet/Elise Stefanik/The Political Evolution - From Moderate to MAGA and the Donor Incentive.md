@@ -9,11 +9,10 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Elise Stefanik Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
 #elise-stefanik #moderate-to-maga #donor-incentive #class-analysis #follow-the-money #fundraising #new-york #trump-loyalist #republican-conference-chair #paul-ryan #liz-cheney
 
-related: [[_Elise Stefanik Master Profile]] · [[_Donald Trump Master Profile]]
 donors: [[AIPAC - American Israel Public Affairs Committee]]
 
 ---

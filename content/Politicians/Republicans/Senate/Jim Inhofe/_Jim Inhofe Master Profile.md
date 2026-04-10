@@ -21,11 +21,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Northrop Grumman]]"
 ---
-
 #politician #republican #senate #oklahoma #fossil-fuel #climate-denial #defense #armed-services #koch #oil-gas #follow-the-money #class-analysis #deceased
-
-related: [[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Northrop Grumman]]
 
 ---
 

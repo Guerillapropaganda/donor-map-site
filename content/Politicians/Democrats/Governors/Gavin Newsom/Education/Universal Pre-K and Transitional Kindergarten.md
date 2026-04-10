@@ -2,16 +2,13 @@
 title: "Universal Pre-K and Transitional Kindergarten"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Ethnic Studies - Whose History Gets Taught]] · [[Charter Schools and the Billionaire Reform Movement]]"
+related: "[[Ethnic Studies - Whose History Gets Taught]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]]"
 ---
-
-
 #newsom #education #pre-k #transitional-kindergarten #tk #universal #genuine-win #early-childhood #class-analysis #who-benefits
 
-related: [[COVID School Closures - Learning Loss and Class Division]] | [[Education - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[CTA - California Teachers Association]]
 
 ---
@@ -104,4 +101,3 @@ This is not an argument against universal pre-K. It's an argument that universal
 - [CREDO Stanford: Early Childhood Education Outcomes by District Wealth](https://credo.stanford.edu/2024-california-tk-outcomes) (Tier 2)
 - [CalEPA/Child Trends: California Childcare Infrastructure Study](https://www.childtrends.org/publications/california-childcare-2024) (Tier 2)
 
-content-readiness:: ready

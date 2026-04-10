@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Tom Steyer Master Profile]]
-related: "[[The Populist Billionaire Contradiction]]"
+related: "[[The Populist Billionaire Contradiction]] · [[_Tom Steyer Master Profile]] · [[Michael Bloomberg]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #tom-steyer #self-funded #campaign-finance #billionaire #class-analysis
 
-related: [[_Tom Steyer Master Profile]] · [[Michael Bloomberg]] · [[_Donald Trump Master Profile]]
 donors: (Self-funded from hedge fund fortune)
-
-content-readiness:: ready
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Boeing Defense"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,15 +11,12 @@ politicians-funded:
   - "Maria Cantwell"
 issues:
   - "Defense & Military"
-related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]]"
+related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Raytheon (RTX)]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Leidos]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 ---
-
 #boeing #defense #aerospace #military #lobbying #government-contracts #safety #revolving-door #too-big-to-fail
-
-related: [[Boeing]] [[Defense Industry Bloc]] [[Lockheed Martin]] [[_Maria Cantwell Master Profile|Cantwell]] [[Raytheon (RTX)]] [[General Dynamics]] [[Northrop Grumman]]
 
 ---
 
@@ -140,8 +137,6 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - [POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
 - [Seattle Times: Congress protests revolving door to Boeing while rushing through it](https://www.seattletimes.com/business/boeing-aerospace/congress-protests-revolving-door-to-boeing-while-rushing-through-it/) (Tier 2)
 - [Ballotpedia: Boeing Defense](https://ballotpedia.org/Boeing_Defense) (Tier 3)
-
-content-readiness:: developed
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

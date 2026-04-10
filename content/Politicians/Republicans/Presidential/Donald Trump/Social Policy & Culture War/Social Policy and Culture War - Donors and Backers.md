@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[The Culture War Economy - Who Profits From Division]]"
+related: "[[The Culture War Economy - Who Profits From Division]] · [[_Donald Trump Master Profile|Donald Trump Master Profile]] · [[Leonard Leo]] · [[Alliance Defending Freedom]] · [[Heritage Foundation]] · [[Project 2025 - The Blueprint They Followed|Project 2025]]"
 ---
-
 tags: #republican #trump #culture-war #donor-analysis #dark-money
-
-related: [[_Donald Trump Master Profile|Donald Trump Master Profile]] [[Leonard Leo]] [[Alliance Defending Freedom]] [[Heritage Foundation]] National Christian Foundation DeVos Family Network [[Project 2025 - The Blueprint They Followed|Project 2025]]
 
 donors: Leonard Leo, National Christian Foundation, Alliance Defending Freedom, Heritage Foundation, Family Research Council, Kelley Family Foundation, DeVos Family, Richard and Helen DeVos Foundation, Barre Seid (Marble Freedom Trust), Koch Network
 
@@ -145,4 +142,3 @@ The political result is straightforward: working class voters who mobilize on cu
 
 This is not new. This is the replicable operational strategy of the contemporary Republican Party. Culture war mobilizes the voter base. Economic policy serves the donor class. The two are coordinated, not separate. Understanding the structure requires seeing culture war not as ideology but as the political delivery mechanism for class extraction.
 
-content-readiness:: ready

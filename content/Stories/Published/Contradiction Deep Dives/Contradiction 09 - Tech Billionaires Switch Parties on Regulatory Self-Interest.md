@@ -2,18 +2,15 @@
 title: "Tech Billionaires Switch Parties on Regulatory Self-Interest"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 issues:
   - "Technology"
-related: "[[Crypto Industry Buys Both Parties in One Cycle]]"
+related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Marc Andreessen & Horowitz|Marc Andreessen]] · [[Elon Musk]] · [[Reid Hoffman]] · [[David Sacks]] · [[Dustin Moskovitz]] · [[Eric Schmidt]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Crypto Industry Bloc]] · [[Georgia 2026 Senate Race]]"
 ---
-
 #investigation #contradiction #tech #silicon-valley #party-switching #class-analysis
 tags: #analysis #story
-
-related: [[Marc Andreessen & Horowitz|Marc Andreessen]] [[Elon Musk]] [[Reid Hoffman]] [[David Sacks]] [[Dustin Moskovitz]] [[Eric Schmidt]] [[_Kamala Harris Master Profile|Kamala Harris]] [[_Donald Trump Master Profile|Donald Trump]] [[Crypto Industry Bloc]]
 
 ---
 
@@ -147,6 +144,3 @@ This is not corruption in the traditional sense—it's *class function*. The don
 
 ---
 
-research-status:: ready — Full citation pass complete. Andreessen $3.3M→Trump (SEC crypto enforcement trigger), Musk $288M (CFPB/content mod trigger), Sacks $12M+ (crypto/AI trigger), Hoffman $7M stayed Dem (no regulatory conflict), Moskovitz $51M stayed Dem (SaaS aligned), Schmidt bipartisan (Pentagon contracts). 30 sources Tier 1-3 with URLs. All ### headers. Bold title→### converted. Promoted Session 39.
-content-readiness:: ready
-                   

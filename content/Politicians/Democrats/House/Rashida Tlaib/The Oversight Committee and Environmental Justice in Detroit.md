@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Rashida Tlaib Master Profile]] · [[ExxonMobil]] · [[Koch Industries]]"
 ---
-
 #tlaib #michigan #oversight #environmental-justice #detroit #marathon #pollution
-
-related: [[_Rashida Tlaib Master Profile]] [[ExxonMobil]] [[Koch Industries]]
 
 donors: (none — Tlaib relies on small-dollar funding)
 

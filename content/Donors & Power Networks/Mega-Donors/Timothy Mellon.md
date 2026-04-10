@@ -2,7 +2,7 @@
 title: "Timothy Mellon"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,13 +15,9 @@ issues:
   - "Immigration"
 lobbying-spend: 1860000
 lobbying-filings: 51
-related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]]"
+related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Immigration Enforcement - The Detention Economy]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Miriam Adelson]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Adelson 250M Republican Kingmaker Pledge]]"
 ---
-
-
 #donor #mellon #banking-dynasty #class-analysis #follow-the-money #immigration #border-wall #old-money #reclusive #MAGA #generational-wealth #project-2025 #military-pay #heritage
-
-related: [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Immigration Enforcement - The Detention Economy]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Miriam Adelson]] · [[Elon Musk]] · [[_JD Vance Master Profile]]
 
 ---
 
@@ -248,8 +244,6 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 
 ### Business:
 
-content-readiness:: ready
-research-status:: ready — $504M total spending documented with full breakdown by function, $130M military payment analyzed, MAGA Inc war chest tracked ($300M entering 2026), Abbott border wall failure ($53.1M for 8%), Heritage/Project 2025 connection, class analysis complete (old money dynastic preservation). All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38k.
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

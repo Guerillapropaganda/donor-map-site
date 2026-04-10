@@ -14,12 +14,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]]"
 ---
-
-
 #donald-trump #surveillance #signal #signalgate #yemen #houthi #class-analysis #security #hegseth #waltz #classified
 
-related: [[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]]
 donors: []
 
 content-readiness:: ready

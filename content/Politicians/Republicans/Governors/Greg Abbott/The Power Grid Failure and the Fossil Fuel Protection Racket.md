@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Greg Abbott Master Profile]]
+related: "[[_Greg Abbott Master Profile]] · [[Kelcy Warren - Energy Transfer Partners]] · [[Fossil Fuel Bloc]]"
 ---
-
-
 #abbott #texas #grid-failure #ercot #fossil-fuel #deregulation #deaths #infrastructure #class-analysis
-
-related: [[_Greg Abbott Master Profile]] · [[Kelcy Warren - Energy Transfer Partners]] · [[Fossil Fuel Bloc]]
 
 donors: [[Kelcy Warren - Energy Transfer Partners]] · [[Kelcy Warren - Energy Transfer Partners|Energy Transfer Partners]] · Oil and Gas Political Action Committees
 
@@ -132,4 +129,3 @@ This is the actual function of the deregulated grid: it distributes the benefits
 - [Texas Observer: Kelcy Warren Energy Transfer donation post-grid failure](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2)
 - [Al Jazeera: Operation Lone Star border enforcement overview](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
 
-content-readiness:: ready

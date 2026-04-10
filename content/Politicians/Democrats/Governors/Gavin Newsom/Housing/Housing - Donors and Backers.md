@@ -2,16 +2,13 @@
 title: "Housing - Donors and Backers"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
-
-
 #newsom #housing #donors #backers #follow-the-money #supply-side #deregulation #developer-profits #homelessness #affordability-gap #research-node
 
-related: [[3.5 Million Units - Broken Promise]] | [[Supply-Side Framework - Who It Helps]] | [[Rent Control - Props 10, 21, and 33]] | [[Homelessness Spending and Encampments]] | [[_Gavin Newsom Master Profile]]
 donors: [[California Apartment Association]] | [[National Association of Realtors]] | California Association of Realtors | [[Lennar Corporation]] | Related Companies | KB Home | Taylor Morrison | Shea Homes | Meritage Homes | Pulte Homes
 
 ---
@@ -167,4 +164,3 @@ Progressive base and housing advocates hear: "California is addressing the housi
 
 ---
 
-content-readiness:: ready

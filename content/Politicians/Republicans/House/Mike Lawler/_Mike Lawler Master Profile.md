@@ -20,12 +20,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]]"
 ---
-
 #republican #politician #house
 tags: #republican
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[Fairshake PAC]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Republican Jewish Coalition]] · [[America PAC - Elon Musk]] · [[Congressional Leadership Fund]]
 
@@ -153,4 +151,3 @@ party:: Republican
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
- 

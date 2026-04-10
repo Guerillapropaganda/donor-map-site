@@ -2,7 +2,7 @@
 title: "National Association of Manufacturers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -38,7 +38,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Federal Trade Commission"
   - "International Trade Administration"
-related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]]"
+related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]] · [[US Chamber of Commerce]] · [[Business Roundtable]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[_Donald Trump Master Profile|Trump]] · [[ALEC - American Legislative Exchange Council]] · [[American Federation for Children]]"
 sec-filings: 5021
 sec-form-types:
   - "10-K"
@@ -60,10 +60,7 @@ sec-form-types:
   - "EX-99.7"
   - "PX14A6G"
 ---
-
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
-
-related: [[US Chamber of Commerce]] · [[Business Roundtable]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[_Donald Trump Master Profile|Trump]] · [[ALEC - American Legislative Exchange Council]]
 
 ---
 
@@ -206,9 +203,6 @@ NAM is the permanent institutional voice of manufacturing capital — the organi
 - [NAM: Policy positions](https://nam.org/issues/) (Tier 3)
 
 ---
-
-content-readiness:: developed
-research-status:: developed — Expanded from 64 to 175+ lines. Key additions: 501(c)(6) structure and dark money function, year-by-year lobbying table (2017-2024, $150M+ cumulative), Global Climate Coalition founding history and 2009 endangerment finding opposition, 2017 deregulation list (158 items, 90%+ implemented), PRO Act block (97% member opposition), TCJA win, April 2025 methane fee repeal support, 7-entry temporal mapping table, 2 callout blocks ([!contradiction] on worker framing, [!money] ROI calc), class analysis expanded. Gaps: Individual member contribution amounts (shielded by 501(c)(6) structure); full year-by-year NAM PAC recipient breakdown; 2023-2024 990 data for MCLA.
 
 ---
 

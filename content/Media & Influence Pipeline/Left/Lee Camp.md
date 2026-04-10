@@ -12,7 +12,6 @@ related: "[[Abby Martin]] · [[Chris Hedges]] · [[Jimmy Dore]] · [[George Gall
 
 #media-pipeline #left #anti-war #RT-america #russian-state-media #socialist #dark-money #independence-theater
 
-
 ---
 
 ### Who They Are
@@ -146,4 +145,3 @@ Camp's audience capture mechanism evolved with his platform:
 - [CNN Business: RT America ceases productions and lays off most of its staff (March 3, 2022)](https://www.cnn.com/2022/03/03/media/rt-america-layoffs) (Tier 2) (Chrome-verified 2026-03-27)
 - [FEC: Lee Camp individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=CAMP%2C+LEE) (Tier 1)
 
-content-readiness:: ready

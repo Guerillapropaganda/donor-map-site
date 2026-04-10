@@ -8,12 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[Research Methodology and Data Sources]] · [[_Gavin Newsom Master Profile]] · [[_Susan Collins Master Profile]] · [[_Joe Manchin Master Profile]] · [[Koch Network - Charles Koch]] · [[Haim Saban]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]]"
 ---
-
 #investigation #methodology-layer #voting-record #donor-vote-correlation #class-analysis
 tags: #story
-
-related: [[Research Methodology and Data Sources]] [[_Gavin Newsom Master Profile]] [[_Susan Collins Master Profile]] [[_Joe Manchin Master Profile]] [[Koch Network - Charles Koch]] [[Haim Saban]] Private Equity Bloc [[Crypto Industry Bloc]] [[Fossil Fuel Bloc]]
 
 ---
 
@@ -167,4 +165,3 @@ The voting record is the financial transparency tool that campaign disclosure hi
 
 ---
 
-research-status:: ready — Promoted Session 39.content-readiness:: ready

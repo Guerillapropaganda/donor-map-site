@@ -2,16 +2,15 @@
 title: "Christopher Rufo"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: substack
-related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]] · [[James O'Keefe]] · [[Charlie Kirk]] · [[Dave Rubin]] · [[Matt Walsh]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Candace Owens]]"
+related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]] · [[James O'Keefe]] · [[Charlie Kirk]] · [[Dave Rubin]] · [[Matt Walsh]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #right #anti-dei #manhattan-institute #policy-architect #dark-money #donorstrust #bradley-foundation
-
 
 ---
 
@@ -195,4 +194,3 @@ Triple-income-stream architecture means that even if one funding source dries up
 - [The Chronicle of Higher Education: "New College's Enrollment Crisis and Rufo's Radical Restructuring"](https://www.chronicle.com/articles/new-college-enrollment-crisis) (Tier 3)
 - [Marginal Revolution: "New College of Florida's Cost Per Student Rises to $134K"](https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html) (Tier 3)
 
-content-readiness:: developed

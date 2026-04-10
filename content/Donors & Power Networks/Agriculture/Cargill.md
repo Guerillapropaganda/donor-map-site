@@ -2,7 +2,7 @@
 title: "Cargill"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -23,20 +23,8 @@ top-naics-code: "311999"
 federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
-related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
-doj-press-mentions: "264349"
+related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]]"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
 sec-filings: 10000
 sec-form-types:
   - "10-Q"
@@ -101,10 +89,7 @@ court-jurisdictions:
   - "District Court, S.D. Iowa"
   - "United States Bankruptcy Court, N.D. Florida"
 ---
-
 #cargill #agriculture #commodities #grain #trade #private #family
-
-related: [[Tyson Foods]] [[American Farm Bureau Federation]] [[National Cattlemen's Beef Association]]
 
 ---
 
@@ -135,14 +120,11 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241) (Tier 1)
 - [Forbes: Cargill-MacMillan family wealth](https://www.forbes.com/profile/cargill-macmillan/) (Tier 2) (VERIFIED)
 - ~~[Ballotpedia: Cargill](https://ballotpedia.org/Cargill)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -233,24 +215,7 @@ content-readiness:: ready
 <!-- auto:usaspending end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264349 |
-| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) (VERIFIED) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) (VERIFIED) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) (VERIFIED) — USAO - Louisiana, Eastern
-- ... and 264,343 more
-
-- ~~[Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Cargill%22&sort=date)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

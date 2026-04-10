@@ -7,12 +7,10 @@ source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
 known-gaps:
   - "No mapped relationships"
+related: "[[The NRA Investment and the Second Amendment Theater]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donald-trump #guns #donors #backers #nra #nssf #goa #manufacturers #second-amendment #follow-the-money #research-node
 
-related: [[The NRA Investment and the Second Amendment Theater]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[_Donald Trump Master Profile]]
 donors: [[National Rifle Association]] · National Shooting Sports Foundation · [[Gun Owners of America]]
 
 ---

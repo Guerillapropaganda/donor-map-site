@@ -2,16 +2,13 @@
 title: "Geographic Donor Clustering - Where the Money Actually Comes From"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Harris-Newsom Donor Class Fracture]] · [[2028 Presidential Landscape]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Harris-Newsom Donor Class Fracture]] · [[2028 Presidential Landscape]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Research Methodology and Data Sources]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Intra-Republican Contradiction Map]]"
 ---
-
 #investigation #methodology-layer #geographic-clustering #donor-geography #class-analysis #follow-the-money
 tags: #story
-
-related: [[Research Methodology and Data Sources]] [[_Gavin Newsom Master Profile]] [[_Donald Trump Master Profile]] [[_Nancy Pelosi Master Profile]] [[Koch Network - Charles Koch]] [[AIPAC - American Israel Public Affairs Committee]]
 
 ---
 
@@ -188,5 +185,3 @@ The politicians who violate this pattern are revealing:
 
 ---
 
-research-status:: ready — Full citation pass complete. Geographic donor clustering analysis, zip code concentration mapping, out-of-state donor dominance patterns, class analysis of donor geography. 27 sources Tier 1-3 with URLs. All ### headers. Promoted Session 39.
-content-readiness:: ready

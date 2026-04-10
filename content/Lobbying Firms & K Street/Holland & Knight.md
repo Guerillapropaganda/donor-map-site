@@ -56,7 +56,6 @@ regulatory-agencies:
 
 #lobbying #k-street #chemicals #defense #tech #healthcare #cannabis #trade #real-estate
 
-
 ---
 
 ### Who They Are
@@ -264,8 +263,6 @@ The firm's 318-client roster in 2024 also reveals the breadth of the Donor Map's
 - [Holland & Knight: EPA's Proposed Rule Signals Rollback of Chemical Safety Requirements as Key Questions Remain (March 2026)](https://www.hklaw.com/en/insights/publications/2026/03/epas-proposed-rule-signals-rollback-of-chemical-safety-requirements) (Tier 3)
 - [The New Lede: Senate GOP backs speedier chemical reviews; Dems cite health risks — Senate TSCA reform bill, March 4 hearing (March 2026)](https://www.thenewlede.org/2026/03/senate-tsca-toxics-chemical-regulation-law/) (Tier 2)
 - [The New Lede: House Republicans move to roll back key protections in US chemical safety law (January 2026)](https://www.thenewlede.org/2026/01/tsca-chemical-regulation-amendment-house-gop/) (Tier 2)
-
-content-readiness:: ready
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

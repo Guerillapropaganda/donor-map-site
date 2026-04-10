@@ -2,7 +2,7 @@
 title: "House Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -24,12 +24,10 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - "10-K"
-related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]]"
+related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Senate Leadership Fund]]"
+opposes: "[[Michael Waltz]]"
 ---
-
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor
-
-related: [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · House Democratic Leadership · House Majority Forward · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -167,10 +165,6 @@ This is the structural problem of Democratic House politics: labor provides cons
 - [NOTUS: Super PAC Encroaching on DCCC Territory](https://www.notus.org/2026-election/dccc-super-pac-campaigns) (Tier 2)
 
 ---
-
-content-readiness:: ready
-
-research-status:: ready
 
 ---
 

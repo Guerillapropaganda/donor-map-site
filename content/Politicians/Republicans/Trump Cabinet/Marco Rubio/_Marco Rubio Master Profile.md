@@ -24,11 +24,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Rick Scott Master Profile|Rick Scott]] · [[_Maria Elvira Salazar Master Profile|Salazar]]"
 ---
-
 #marco-rubio #secretary-of-state #florida #sugar-industry #defense-contractors #class-analysis #follow-the-money #cuba #venezuela #fanjul #gang-of-eight #immigration-flip #hawkish #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #little-marco
 
-related: [[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Rick Scott Master Profile|Rick Scott]] · [[_Maria Elvira Salazar Master Profile|Salazar]]
 donors: [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]]
 
 profile-status:: ready

@@ -2,16 +2,15 @@
 title: "Fox News - Murdoch Media Empire"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Crooked Media]] · [[Nicolle Wallace]] · [[Greg Gutfeld]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]]"
+related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) — Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Crooked Media]] · [[Nicolle Wallace]] · [[Greg Gutfeld]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #fox-news #murdoch #institutional #right #propaganda #class-analysis #follow-the-money
-
 
 personalities: [[Sean Hannity]] · [[Tucker Carlson]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Megyn Kelly]] · [[Bill Maher]] · [[Glenn Greenwald]]
 
@@ -143,4 +142,3 @@ The fundamental difference between Fox News and traditional political spending: 
 
 ---
 
-content-readiness:: ready

@@ -2,7 +2,7 @@
 title: "Paul Singer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 aliases: ["Paul Singer", "Elliott Management"]
 source-tier: 1
 parent: null
@@ -34,16 +34,9 @@ court-jurisdictions:
 lobbying-spend: 1268033
 lobbying-filings: 104
 total-political-spend: "$16,466,849"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]] · [[Manhattan Institute for Policy Research]] · [[The National Security-to-Senate Pipeline]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]] · [[Manhattan Institute for Policy Research]] · [[The National Security-to-Senate Pipeline]] · [[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Schwarzman and Singer Fund Every Republican Faction]]"
 ---
-
-
 #paul-singer #donor #hedge-fund #elliott-management #vulture-fund #argentina #alito #pro-israel #class-analysis #follow-the-money
-
-related: [[_Samuel Alito Master Profile]] [[Leonard Leo]] [[_Tom Cotton Master Profile]] [[AIPAC - American Israel Public Affairs Committee]]
-
-research-status:: ready — Full citation pass complete. Temporal mapping (12 entries), Alaska-to-Argentina pipeline ($100K→$2.4B), 2024 spending ($42M+). All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
-content-readiness:: ready
 
 ---
 

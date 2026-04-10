@@ -2,7 +2,7 @@
 title: "Alliance Defending Freedom"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,16 +14,13 @@ annual-revenue: "$101.8M"
 net-assets: "$97.6M"
 tax-year: "2023"
 total-political-spend: "$250"
-related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]]"
+related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Bradley Foundation]] · [[American Federation for Children]]"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 125427282
 total-assets: 102769051
 ---
-
 #adf #religious-liberty #anti-lgbtq #scotus #litigation #dark-money #christian-right
-
-related: [[Federalist Society]] [[Heritage Foundation]] [[Council for National Policy]] [[Bradley Foundation]]
 
 ---
 
@@ -65,8 +62,6 @@ Each victory expands the legal territory in which religious objections override 
 - [IRS: ADF 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Alliance%20Defending%20Freedom&city=&state=All+States&country=US) (Tier 1)
 - [Supreme Court: ADF case record](https://www.supremecourt.gov/search.aspx?Search=Alliance%20Defending%20Freedom) (Tier 1)
 - [Ballotpedia: Alliance Defending Freedom](https://ballotpedia.org/Alliance_Defending_Freedom) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

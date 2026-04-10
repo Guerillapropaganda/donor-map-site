@@ -2,25 +2,21 @@
 title: "IBEW Local 477 - San Bernardino"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
-related: "[[UFCW - United Food and Commercial Workers]]"
+related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[Teamsters - International Brotherhood of Teamsters]]"
 ein: "812607816"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 204827
 total-assets: 89679
 ---
-
-
 #donor #union #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #local-477 #building-trades #labor #class-analysis #follow-the-money #inland-empire #san-bernardino #prevailing-wage #apprenticeship
-
-related: [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]]
 
 ---
 
@@ -83,9 +79,6 @@ This is the building trades class position at the local level: aligned with capi
 - [IBEW Local 477: Official website — San Bernardino/Inyo/Mono jurisdiction](https://ibew477.org/) (Tier 3)
 - [IBEW: Electric Vehicle Infrastructure Training Program (EVITP)](https://ibew.org/articles/23ElectricalWorker/EW2310/EVITP.html) (Tier 3)
 - [Bureau of Labor Statistics: Union membership data — California](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1)
-
-research-status:: ready — 1,200 members, San Bernardino/Inyo/Mono jurisdiction, IEETC training, IE political environment, Bianco contrast, logistics/solar/data center/EV project mapping, prevailing wage frontline analysis. 4 sources, Tier 2-4. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

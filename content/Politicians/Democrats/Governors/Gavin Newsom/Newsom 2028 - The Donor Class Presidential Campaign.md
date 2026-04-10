@@ -2,16 +2,12 @@
 title: "Newsom 2028 - The Donor Class Presidential Campaign"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Gun and Public Safety - Donors and Backers]] · [[Supply-Side Framework - Who It Helps]] · [[Homelessness Spending and Encampments]]"
+related: "[[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Gun and Public Safety - Donors and Backers]] · [[Supply-Side Framework - Who It Helps]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[California Labor Federation]] · [[California Building and Construction Trades Council]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[Elon Musk]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]] · [[Rent Control - Props 10, 21, and 33]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
-
-
 #newsom #2028 #presidential #class-analysis #follow-the-money #donor-pipeline #california #national #positioning #kamala-harris #campaign-for-democracy #anti-trump #litigation
-
-related: [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[California Labor Federation]] · [[California Building and Construction Trades Council]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[Elon Musk]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Pete Buttigieg Master Profile|Pete Buttigieg]] · [[Gretchen Whitmer]]
 
 donors: [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[California Apartment Association]] · [[Haim Saban]] · [[Michael Bloomberg]]
 
@@ -285,9 +281,6 @@ The new variable: AI. If labor's 2028 endorsement condition holds — regulate A
 
 ### Competition:
 - [OpenSecrets: Campaign finance analysis](https://www.opensecrets.org/members-of-congress/summary?name=Newsom%202028) (Tier 2)
-
-research-status:: ready — Full citation pass complete. Campaign for Democracy PAC ($24M raised, $7.7M cash), early state calendar (SC/NV/NH), $168B litigation portfolio, Hollywood/SV/real estate/healthcare/AIPAC donor infrastructure, Harris collision, moderate pivot (Medi-Cal cap, SB 7 veto, oil drilling), budget crisis ($18B-$27B deficits), AI labor fault line, Prop 50 redistricting 107K new donors, polling (Echelon/Emerson/UC Berkeley). 35 sources Tier 1-2 with URLs. All ### headers. Promoted Session 39.
-content-readiness:: ready
 
 ---
 

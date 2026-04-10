@@ -1,27 +1,33 @@
 ---
 title: "Sheldon Whitehouse"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-07
+content-readiness: ready
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Senate"
 state: "Rhode Island"
 state-abbr: "RI"
+bioguide-id: "W000802"
 committees:
-  - "Environment & Public Works"
+  - "Environment & Public Works (Ranking Member, 119th Congress)"
+  - "Judiciary"
+  - "Finance"
+former-committees:
+  - "Budget (Chair, 118th Congress 2023-2025)"
 issues:
   - "Dark Money & Campaign Finance"
-  - "Environment"
+  - "Environment & Climate"
+  - "Judicial Reform"
+  - "Supreme Court Ethics"
+  - "Trial Lawyer Rights"
 top-donors:
-  - "Trial Lawyers Fund"
-  - "Environmental Law & Policy Center"
-  - "Ocean Conservancy"
-  - "Demand Justice"
-  - "Brady Campaign"
-  - "League of Conservation Voters"
-  - "AIPAC - American Israel Public Affairs Committee"
+  - "League of Conservation Voters ($193K career, #1 contributor)"
+  - "Trial Lawyers / Law Firms ($3.3M career)"
+  - "Securities & Investment ($2.2M career)"
+  - "Environment industry ($619K career direct)"
+  - "Pro-Israel / AIPAC network ($617K career, $147K in 2024 = #1 2024 contributor)"
 total-received: "$365,144"
 fec-candidate-id: "S6RI00221"
 stock-trades: 687
@@ -36,34 +42,40 @@ stock-trade-tickers:
   - "C"
   - "AAPL"
   - "AMGN"
-doj-press-mentions: "264345"
-last-enriched: "2026-04-07"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
+last-enriched: '2026-04-10'
 source-types:
   - Congress
-  - DOJ
   - FEC
-corroboration-count: 3
+  - SenateOfficial
+corroboration-count: 4
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - Sandra Whitehouse / Ocean Conservancy payment total ($2.69M since 2010) needs direct financial disclosure citation (currently cited via FACT ethics complaint, Tier 2)
+  - 80+ "Scheme" floor speeches and 300+ "Time to Wake Up" speeches need complete catalog for verified promotion (a few are cited, most aren't)
+opposes:
+  - "Leonard Leo"
+  - "Federalist Society"
+  - "Koch Network"
+  - "DonorsTrust"
+  - "Judicial Crisis Network"
+  - "Marble Freedom Trust"
+donors:
+  - "League of Conservation Voters ($193K career, #1)"
+  - "Trial Lawyers Fund"
+  - "Motley Rice LLC"
+  - "Thornton Law Firm"
+  - "Environmental Law & Policy Center"
+  - "Ocean Conservancy"
+  - "Demand Justice"
+  - "Brady Campaign"
+  - "AIPAC network ($147K 2024 cycle)"
+  - "Fraternal Order of Police"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: verified-candidate
+editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4+ Tier 1 source types (FEC candidate page, Congress.gov DISCLOSE Act, multiple whitehouse.senate.gov primary-source speeches, Senate Budget Committee). EXCEPTIONAL class analysis: 'the dark money crusader who is himself embedded in the donor infrastructure he critiques.' Three contradictions documented with numbers: (1) Sandra Whitehouse $2.69M from Ocean Conservancy while Whitehouse voted for $6.9M in 2024 federal grants to Ocean Conservancy, (2) silence on AIPAC's $127M 2024 spending while AIPAC was his #1 2024 contributor at $147K, (3) Democratic dark money symmetry (Arabella, Demand Justice mirror the Leo infrastructure he critiques). 80+ 'Scheme' floor speeches + 300+ 'Time to Wake Up' climate speeches are the vault's most-cited primary-source watchdog work. FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: replaced single-entry 'Fraternal Order of Police' frontmatter donors field with the real donor list (merge script artifact from yesterday's consolidate-dual-related-fields run). FIXED: removed stale DOJ from source-types (vault DOJ blocks all stripped — engine false positive). Added bioguide-id W000802, structured opposes (Leo/Federalist/Koch), former-committees (Budget Chair 118th), expanded issues. No (URL NEEDED) tags. No A000383 contamination. DOJ block already cleaned this morning. Ready for editor review."
+related: "[[League of Conservation Voters]]"
 ---
-
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel
-
-related: [[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Federalist Society]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[League of Conservation Voters]]
-
-donors: [[Trial Lawyers Fund]] · [[Environmental Law & Policy Center]] · [[Ocean Conservancy]] · [[Demand Justice]] · [[Brady Campaign]] · [[League of Conservation Voters]] · [[AIPAC - American Israel Public Affairs Committee]]
 
 ---
 
@@ -229,9 +241,6 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ---
 
-profile-status:: developed
-content-readiness:: developed
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |
@@ -314,21 +323,4 @@ content-readiness:: developed
 <!-- auto:stock-trades end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264345 |
-| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
-- ... and 264,339 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Sheldon%20Whitehouse%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

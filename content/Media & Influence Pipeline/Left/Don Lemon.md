@@ -13,7 +13,6 @@ opposes: "[[Fox Corp - Rupert Murdoch]]"
 
 #media-pipeline #left #cnn #youtube #musk #corporate-media #institutional-capture #independence
 
-
 ---
 
 ### Who They Are
@@ -130,4 +129,3 @@ The post-institutional phase is where Lemon becomes analytically interesting. Th
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Don Lemon shows zero federal political contributions — a $0 FEC record from a journalist who received $24.5M in a CNN separation settlement and earned $4-6M/year during his primetime tenure.
 
-content-readiness:: ready

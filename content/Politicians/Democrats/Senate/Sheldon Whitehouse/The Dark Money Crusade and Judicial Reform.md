@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Sheldon Whitehouse Master Profile]] · [[Leonard Leo]] · [[Federalist Society]] · [[Judicial Crisis Network]]"
 ---
-
 #whitehouse #dark-money #scotus #judiciary #disclosure #climate #leonard-leo
-
-related: [[_Sheldon Whitehouse Master Profile]] [[Leonard Leo]] [[Federalist Society]] [[Judicial Crisis Network]]
 
 ---
 

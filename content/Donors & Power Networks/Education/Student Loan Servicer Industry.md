@@ -12,15 +12,12 @@ politicians-funded:
   - "Bobby Scott"
 issues:
   - "Education"
-related: "[[The Student Loan Gambit - Promise Block and Political Credit]]"
+related: "[[The Student Loan Gambit - Promise Block and Political Credit]] · [[Apollo Global Management]] · [[_Virginia Foxx Master Profile|Foxx]] · [[_Bobby Scott Master Profile|Scott]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #student-loans #education #navient #nelnet #mohela #servicing #debt
-
-related: [[Apollo Global Management]] [[_Virginia Foxx Master Profile|Foxx]] [[_Bobby Scott Master Profile|Scott]]
 
 ---
 

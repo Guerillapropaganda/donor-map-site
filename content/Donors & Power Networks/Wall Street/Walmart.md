@@ -38,7 +38,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 lobbying-spend: 17705000
 lobbying-filings: 56
-related: "[[The Agriculture-Appropriations Pipeline and Arkansas Defense]]"
+related: "[[The Agriculture-Appropriations Pipeline and Arkansas Defense]] · [[Walton Family Foundation]] · [[Koch Network - Charles Koch|Koch Network]] · [[Americans for Prosperity]] · [[Restaurant & Food Industry]]"
 nonprofit-status: "501(c)(9)"
 total-revenue: 3737153584
 total-assets: 902595677
@@ -87,10 +87,7 @@ sec-form-types:
   - "PX14A6G"
   - "SCHEDULE 13G/A"
 ---
-
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac
-
-related: [[Walton Family Foundation]] [[Koch Network - Charles Koch|Koch Network]] [[Americans for Prosperity]] [[Restaurant & Food Industry]]
 
 ---
 
@@ -197,8 +194,6 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 - [Human Rights Watch: Discounting Rights — Walmart's violation of workers' freedom of association](https://www.hrw.org/report/2007/05/01/discounting-rights/wal-marts-violation-us-workers-right-freedom-association) (Tier 2)
 - [UFCW: Walmart's sharp turn to the right](https://www.ufcw.org/press-releases/new-report-on-political-contributions-underscores-walmarts-sharp-turn-to-the-right/) (Tier 3)
 - [Columbia Journalism Review: How billionaires get around the estate tax (Walton family)](https://www.cjr.org/the_audit/bloomberg_waltons_how_billionaires_get_around_estate_tax.php) (Tier 2)
-
-content-readiness:: developed
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

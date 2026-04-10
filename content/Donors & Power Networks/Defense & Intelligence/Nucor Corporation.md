@@ -21,18 +21,14 @@ last-enriched: "2026-04-09"
 federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 1
-related: "[[Trade and Tariffs - Donors and Backers]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[American Iron and Steel Institute]] · [[_Donald Trump Master Profile|Trump]]"
 court-cases: 634
 court-jurisdictions:
   - "District Court, S.D. Indiana"
   - "District Court, S.D. Texas"
   - "United States Court of International Trade"
 ---
-
-
 #donor #steel #tariffs #manufacturing #class-analysis #follow-the-money #trade-policy #lobbying
-
-related: [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] [[American Iron and Steel Institute]] [[_Donald Trump Master Profile|Trump]]
 
 ---
 
@@ -123,8 +119,6 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 - [Workforce.com: Nucor's 100% Bonuses — High Pay Plus Low Labor Costs](https://www.workforce.com/news/100-percent-bonuses-mean-high-pay-plus-low-labor-costs) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Defense Contractors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -35,7 +35,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, W.D. Oklahoma"
   - "United States Court of Federal Claims"
-related: "[[Defense Contractors Bloc]] · [[Texas 2026 Senate Race]] · [[Katie Britt]] · [[Virginia 2026 Senate Race]] · [[Chris Murphy Master Profile]] · [[Mark Warner]] · [[Insurance Industry]]"
+related: "[[Defense Contractors Bloc]] · [[Texas 2026 Senate Race]] · [[Katie Britt]] · [[Virginia 2026 Senate Race]] · [[Chris Murphy Master Profile]] · [[Mark Warner]] · [[Insurance Industry]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Raytheon (RTX)]] · [[Northrop Grumman]] · [[Palantir Technologies]] · [[Anduril Industries]] · [[General Dynamics]] · [[Fanjul Family - Florida Crystals]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"
@@ -62,10 +62,7 @@ sec-form-types:
   - "SC 13D"
   - "XML"
 ---
-
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money
-
-related: [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Raytheon (RTX)]] · [[Northrop Grumman]] · [[Palantir Technologies]] · [[Anduril Industries]] · [[General Dynamics]]
 
 ---
 
@@ -198,8 +195,6 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 - [Roll Call: House votes overwhelmingly to pass compromise NDAA](https://rollcall.com/2025/12/10/house-votes-overwhelmingly-to-pass-compromise-ndaa/) (Tier 2)
 
 ---
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

@@ -26,7 +26,6 @@ fara-records: 1
 
 #lobbying #k-street #trump #revolving-door #fara #foreign-government #tech #defense #pharma #energy #crypto
 
-
 ---
 
 ### Who They Are
@@ -252,8 +251,6 @@ The structural function: Ballard Partners is the firm that converts political pr
 - [OpenSecrets News: Pharma industry and Ballard Partners dominate the lobbying space in second quarter of 2025](https://www.opensecrets.org/news/2025/07/pharma-industry-and-ballard-partners-dominate-the-lobbying-space-in-second-quarter-of-2025/) (Tier 1)
 - [Florida Politics: Rich Haselwood joins Ballard Partners' Washington office (Mar 2026)](https://floridapolitics.com/archives/785587-rich-haselwood-joins-ballard-partners-washington-office/) (Tier 3)
 - [Senate LDA Filings: Rich L. Haselwood Lobbyist Profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

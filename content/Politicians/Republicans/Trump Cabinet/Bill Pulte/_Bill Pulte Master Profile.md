@@ -9,11 +9,9 @@ party: "Republican"
 chamber: "Cabinet"
 issues:
   - "Housing"
+related: "[[National Rental Home Council]] · [[National Multifamily Housing Council]] · [[Donald Trump]]"
 ---
-
 #politician #republican #trump-cabinet #fhfa #housing #fannie-mae #freddie-mac #gao-probe #class-analysis #follow-the-money
-
-related: [[National Rental Home Council]] · [[National Multifamily Housing Council]] · [[Donald Trump]]
 
 ---
 
@@ -115,5 +113,3 @@ Pulte uses populist framing — "fighting fraud," "protecting taxpayers" — to 
 
 ---
 
-profile-status:: draft
-content-readiness:: draft

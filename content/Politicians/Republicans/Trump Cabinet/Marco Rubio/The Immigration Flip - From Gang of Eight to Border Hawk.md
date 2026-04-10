@@ -5,11 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Marco Rubio Master Profile]]
+related: "[[_Marco Rubio Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
 #marco-rubio #immigration #gang-of-eight #border-hawk #class-analysis #position-flip #donor-incentive #tea-party #trump-primary #citizenship-path #fanjul #florida
 
-related: [[_Marco Rubio Master Profile]] · [[_Donald Trump Master Profile]]
 donors: [[Fanjul Family - Florida Crystals]]
 
 ---
@@ -99,4 +98,3 @@ The Fanjul family still grows sugar in Florida. Their agricultural labor force s
 - [The Hill: Rubio defends Gang of Eight immigration bill](https://thehill.com/blogs/ballot-box/gop-primaries/268525-rubio-defends-gang-of-eight-immigration-bill/) (Tier 2)
 - [FEC Candidate: Marco Rubio donor history](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
 
-content-readiness:: ready

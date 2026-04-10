@@ -21,7 +21,7 @@ top-naics-code: "541519"
 federal-awards-total: 1387500
 federal-contracts-count: 25
 federal-grants-count: 6
-related: "[[Council on Foreign Relations]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+related: "[[Council on Foreign Relations]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Blackstone Group]]"
 court-cases: 6120
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -46,10 +46,7 @@ regulatory-agencies:
   - "Treasury Department"
   - "Veterans Employment and Training Service"
 ---
-
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
-
-related: [[Goldman Sachs]] [[JPMorgan Chase]] [[Blackstone Group]] Vanguard Group
 
 ---
 
@@ -105,8 +102,6 @@ BlackRock is not merely a Wall Street firm — it is the infrastructure through 
 - [Financial Times: Anti-ESG backlash and BlackRock's response](https://www.ft.com/content/blackrock-esg-backlash) (Tier 2)
 - [ProPublica: Bailout Player BlackRock Becomes Biggest Money Manager](https://www.propublica.org/article/bailout-player-blackrock-becomes-biggest-money-manager) (Tier 2)
 - [Ballotpedia: BlackRock political spending](https://ballotpedia.org/BlackRock) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

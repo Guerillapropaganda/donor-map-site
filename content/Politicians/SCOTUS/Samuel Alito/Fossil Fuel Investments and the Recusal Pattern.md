@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Samuel Alito Master Profile]]
+related: "[[_Samuel Alito Master Profile]]"
 ---
-
-
 #samuel-alito #fossil-fuels #recusal #conocophillips #conflicts-of-interest #martha-ann-alito #january-6 #flags #class-analysis #follow-the-money
 
-related: [[_Samuel Alito Master Profile]]
-
 donors: [[Paul Singer]]
-
-content-readiness:: ready
 
 ---
 

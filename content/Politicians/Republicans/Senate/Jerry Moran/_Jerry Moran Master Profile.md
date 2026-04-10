@@ -23,17 +23,11 @@ website: "https://www.moran.senate.gov"
 phone: "202-224-6521"
 total-received: "$1,586,154"
 fec-candidate-id: "S0KS00091"
-related: "[[Richard Blumenthal]]"
+related: "[[Richard Blumenthal]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
-
 #jerry-moran #republican #kansas #senate #committee-chair #veterans-affairs #aviation #aerospace #koch #va-privatization #agriculture #wichita #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch|Koch Network]]
-
 donors: [[Koch Network - Charles Koch|Koch Network]]
-
-profile-status:: ready
 
 ---
 ---
@@ -156,8 +150,6 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 - [KWCH: Moran on farm bill and aviation](https://www.kwch.com/2024/10/18/sen-jerry-moran-weighs-farm-bill-aviation-industry-developments-impacting-kansans/) (Tier 2)
 - [Ballotpedia: Jerry Moran](https://ballotpedia.org/Jerry_Moran) (Tier 3)
 - [Wikipedia: Jerry Moran](https://en.wikipedia.org/wiki/Jerry_Moran) (Tier 3)
-
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

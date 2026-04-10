@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Pete Buttigieg Master Profile]]
+related: "[[_Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]]"
 ---
-
 #pete-buttigieg #mckinsey #consulting #technocracy #donor-class #blue-cross #postal-service #class-analysis
 
-related: [[_Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]]
-
 donors: McKinsey Alumni Network · [[Finance and Tech Bundler Network]]
-
-content-readiness:: ready
 
 ---
 

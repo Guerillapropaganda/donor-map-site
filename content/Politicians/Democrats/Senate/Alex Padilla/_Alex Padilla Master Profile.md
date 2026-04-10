@@ -24,12 +24,9 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 internal-notes: "[URL Check 2026-04-09] 11 checked: 9 ok, 1 broken, 1 slow. | BROKEN: Congress.gov: Alex Padilla | SLOW: Senate.gov: Padilla elected top Democrat on Rules and Administration Committee"
+related: "[[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #alex-padilla #democrat #california #senate #ranking-member #rules-committee #election-administration #voting-rights #immigration #daca #latino #secretary-of-state #mit #pacoima #phase-6-gavel-power
-
-related: [[_Gavin Newsom Master Profile|Gavin Newsom]] [[_Kamala Harris Master Profile|Kamala Harris]] [[_Donald Trump Master Profile|Trump]]
 
 donors:
 

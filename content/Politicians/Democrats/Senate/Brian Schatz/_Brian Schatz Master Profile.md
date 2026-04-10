@@ -28,11 +28,9 @@ bills-sponsored: 41
 bills-cosponsored: 249
 website: "https://www.schatz.senate.gov"
 phone: "202-224-3934"
+related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Katie Porter Master Profile|Katie Porter]]"
 ---
-
 #brian-schatz #democrat #hawaii #senate #appropriations #telecom #private-equity #schumer-heir #class-analysis #follow-the-money
-
-related: [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Katie Porter Master Profile|Katie Porter]]
 
 donors: Charter Communications · [[Private Equity Industry Bloc|Private Equity Industry]] · Telecom Industry PACs · [[Real Estate Industry]]
 

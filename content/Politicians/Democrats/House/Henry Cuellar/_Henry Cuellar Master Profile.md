@@ -27,12 +27,9 @@ bills-sponsored: 2
 bills-cosponsored: 150
 website: "https://cuellar.house.gov"
 phone: "202-225-1640"
+related: "[[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile]]"
 ---
-
-
 #cuellar #master-profile #house #texas #blue-dog #corruption #foreign-agent #oil-gas #pardoned #bribery
-
-related: [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile]] · Eagle Ford Shale Oil & Gas Industry · Mexico Banking Sector Corruption
 
 donors: Azerbaijan State Oil Company (SOCAR), Mexico Banking Sector, Eagle Ford Shale Oil & Gas Industry
 
@@ -154,7 +151,6 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 
 profile-status:: ready
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

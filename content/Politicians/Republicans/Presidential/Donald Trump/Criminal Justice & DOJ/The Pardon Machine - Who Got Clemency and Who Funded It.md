@@ -2,20 +2,14 @@
 title: "The Pardon Machine - Who Got Clemency and Who Funded It"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
+related: "[[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[_Donald Trump Master Profile]] · [[_Kash Patel Master Profile]] · [[Criminal Justice and DOJ - Donors and Backers]]"
 ---
-
-
 #donald-trump #pardons #clemency #january-6 #doj #kash-patel #donor-pardons #jack-smith #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[_Kash Patel Master Profile]]
-
 donors: [[Save America PAC]], [[Trump Victory]]
-
-content-readiness:: ready
 
 ---
 
@@ -105,4 +99,3 @@ The second term transformed the Department of Justice from an institution the pr
 - [Department of Justice. Office of the Pardon Attorney. Clemency Statistics](https://www.justice.gov/pardon/clemency-statistics) (Tier 1)
 - [OpenSecrets. Kushner Family Political Donations](https://www.opensecrets.org/donor-lookup/) (Tier 1)
 
-research-status:: Clemency statistics from DOJ. Donor connections from FEC and OpenSecrets. January 6 pardon count approximate pending final DOJ tally. DOJ personnel changes documented through investigative reporting. Retaliatory investigation details still developing. Milton and Moreno pardon donor connections documented from AP and Reuters reporting.

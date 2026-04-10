@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Clarence Thomas Master Profile]]
+related: "[[_Clarence Thomas Master Profile]] · [[Harlan Crow]] · [[Leonard Leo]]"
 ---
-
-
 #clarence-thomas #harlan-crow #scotus #gifts #disclosure #real-estate #superyacht #class-analysis #follow-the-money
 
-related: [[_Clarence Thomas Master Profile]] · [[Harlan Crow]] · [[Leonard Leo]]
-
 donors: [[Harlan Crow]]
-
-content-readiness:: ready
 
 ---
 

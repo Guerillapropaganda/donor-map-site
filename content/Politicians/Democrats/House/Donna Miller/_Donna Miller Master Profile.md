@@ -21,12 +21,10 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 bioguide-id: "B001296"
+related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Affordable Chicago Now PAC]]"
 ---
-
 #democrat #politician #house
 tags: #democrat
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy Project - UDP]] [[Affordable Chicago Now PAC]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|United Democracy Project]] · [[Affordable Chicago Now PAC]] · Healthcare Donors
 
@@ -153,7 +151,6 @@ party:: Democrat
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

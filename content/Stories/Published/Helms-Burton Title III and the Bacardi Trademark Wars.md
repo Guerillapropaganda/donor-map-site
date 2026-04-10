@@ -9,11 +9,9 @@ source-types:
   - LDA
 known-gaps:
   - "No mapped relationships"
+related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
 ---
-
 #story #cuba-policy #campaign-finance #trademark-law #title-iii #bacardi #helms-burton #corporate-influence
-
-related:: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]
 
 donors:: [[Bacardi - Bacardi USA]] · [[Fanjul Family - Florida Crystals]] · [[U.S.-Cuba Democracy PAC]] · [[Mauricio Claver-Carone]] · [[Otto Reich]] · [[Dan Burton]] · [[Jesse Helms]]
 
@@ -315,10 +313,6 @@ The story remains active as of April 2, 2026. SCOTUS decisions on Havana Docks a
 
 ---
 
-research-status:: Complete with 2026 SCOTUS arguments; decisions pending
-
-content-readiness:: Developed story file with full donor-to-policy chain, litigation tracking, and international consequences
-
 ---
 
 ### Sources
@@ -367,8 +361,5 @@ content-readiness:: Developed story file with full donor-to-policy chain, litiga
 - Jacobin Magazine — SCOTUS Cuba Lawfare (January 2026): https://jacobin.com/2026/01/cuba-lawfare-trump-supreme-court (Tier 4)
 - JSTOR — Bacardi "Hidden War" Monograph: https://www.jstor.org/stable/j.ctt18mvnpg (Tier 4)
 
-
 ---
 
-research-status:: developed — Full legislative history, donor architecture, Title III mechanism, Bacardi trademark timeline, certified claims data, and 8-link donor-to-policy chain documented. Gaps: pre-1998 Bacardi lobbying spend (pre-LDA), uncertified claims count (State Dept estimate only), SCOTUS rulings pending (argued Feb 2026).
-content-readiness:: developed

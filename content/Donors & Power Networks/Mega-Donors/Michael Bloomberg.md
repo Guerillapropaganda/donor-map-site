@@ -2,7 +2,7 @@
 title: "Michael Bloomberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -24,7 +24,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Justice Department"
   - "Transportation Department"
-related: "[[Harris-Newsom Donor Class Fracture]] · [[Tom Steyer Master Profile]] · [[NextGen America and the Climate-to-Politics Pipeline]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Nancy Pelosi Master Profile]] · [[The Biden Exit and Harris Installation]] · [[Josh Shapiro Master Profile]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Gun and Public Safety - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[Chris Murphy Master Profile]] · [[Andrew Cuomo]] · [[Tim Scott]]"
+related: "[[Harris-Newsom Donor Class Fracture]] · [[Tom Steyer Master Profile]] · [[NextGen America and the Climate-to-Politics Pipeline]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Nancy Pelosi Master Profile]] · [[The Biden Exit and Harris Installation]] · [[Josh Shapiro Master Profile]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Gun and Public Safety - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[Chris Murphy Master Profile]] · [[Andrew Cuomo]] · [[Tim Scott]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Everytown for Gun Safety]] · [[CNA - California Nurses Association]] · [[The Self-Funded Billionaire Model]]"
 sec-filings: 1621
 sec-form-types:
   - "10KSB"
@@ -63,11 +63,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, S.D. New York"
 ---
-
-
 #donor #bloomberg #mega-donor #gun-control #climate #charter-schools #technocratic #national #class-analysis #follow-the-money #democratic #independent
-
-related: [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Everytown for Gun Safety]] · [[CNA - California Nurses Association]]
 
 ---
 
@@ -160,8 +156,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 - [PBS Frontline — Everytown for Gun Safety](https://www.pbs.org/wgbh/frontline/documentary/gunned-down/) (Tier 2)
 - [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/) (Tier 1)
 
-research-status:: ready — Full citation pass complete. $936M 2020 campaign, $115M 2024, $270M+ Everytown lifetime, $1B Beyond Carbon, $750M charter schools. Class analysis (good billionaire problem). Koch mirror image documented. 7 sources, Tier 1-2. All ### headers, source format standardized. Promoted Session 38j.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

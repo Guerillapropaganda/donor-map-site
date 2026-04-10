@@ -10,12 +10,9 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[Amy Acton]] · [[_Vivek Ramaswamy Master Profile]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[Jeff Yass]] · [[Ross Stevens]] · [[EMILY's List]]"
 ---
-
-
 #ohio #governor-2026 #acton #ramaswamy #race-analysis #class-analysis #follow-the-money
-
-related: [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[Jeff Yass]] · [[Ross Stevens]] · [[EMILY's List]]
 
 ---
 
@@ -144,4 +141,3 @@ Acton was forced out by the same Republican power structure now running Ramaswam
 
 ---
 
-content-readiness:: ready

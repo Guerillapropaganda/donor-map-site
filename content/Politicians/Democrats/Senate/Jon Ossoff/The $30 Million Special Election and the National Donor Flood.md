@@ -9,13 +9,11 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jon Ossoff Master Profile]] · [[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]]"
 ---
-
 #jon-ossoff #special-election #2017 #fundraising #georgia #karen-handel #national-donors
 
 tags: #democrat
-
-related: [[_Jon Ossoff Master Profile]] · [[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]]
 
 donors: [[Tech and Media Donors]] · [[Entertainment and Hollywood Donors]]
 

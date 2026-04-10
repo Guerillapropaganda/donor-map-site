@@ -2,18 +2,15 @@
 title: "The $1.6 Billion Fundraising Machine"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Nancy Pelosi Master Profile]]
-related: "[[The Biden Exit and Harris Installation]]"
+related: "[[The Biden Exit and Harris Installation]] · [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 source-types:
   - FEC
 ---
-
-
 #pelosi #fundraising #dccc #class-analysis #follow-the-money #gatekeeper #blacklist #dues #donor-class
 
-related: [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]]
 donors: []
 
 ---

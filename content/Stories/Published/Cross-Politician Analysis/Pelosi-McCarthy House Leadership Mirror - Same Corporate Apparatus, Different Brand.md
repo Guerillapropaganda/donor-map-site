@@ -2,21 +2,18 @@
 title: "Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 issues:
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
   - "Israel & Foreign Policy"
-related: "[[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]]"
+related: "[[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Nancy Pelosi Master Profile]] · [[_Kevin McCarthy Master Profile]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money Different Caucuses]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 source-types:
   - FEC
 ---
-
 #pelosi #mccarthy #both-sides #donor-class #defense #stock-trading #dark-money #israel #class-analysis #follow-the-money #california #house-speakers
-
-related: [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Nancy Pelosi Master Profile]] · [[_Kevin McCarthy Master Profile]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money Different Caucuses]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]]
 
 content-readiness:: draft
 

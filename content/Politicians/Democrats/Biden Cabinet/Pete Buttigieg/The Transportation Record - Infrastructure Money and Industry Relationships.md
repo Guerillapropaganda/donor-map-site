@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Pete Buttigieg Master Profile]]
+related: "[[_Pete Buttigieg Master Profile]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]]"
 ---
-
 #pete-buttigieg #transportation-secretary #infrastructure #airlines #east-palestine #norfolk-southern #bipartisan-infrastructure #class-analysis
 
-related: [[_Pete Buttigieg Master Profile]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]]
-
 donors: Construction and Engineering Industry · [[Finance and Tech Bundler Network]] · Airline Industry
-
-content-readiness:: ready
 
 ---
 

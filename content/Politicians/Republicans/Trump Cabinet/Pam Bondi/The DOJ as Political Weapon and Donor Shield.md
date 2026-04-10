@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Pam Bondi Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Pam Bondi Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #pam-bondi #doj #political-investigations #immigration #geo-group #prosecutor-resignations #class-analysis #follow-the-money
 
-related: [[_Pam Bondi Master Profile]] · [[_Donald Trump Master Profile]]
 donors: [[GEO Group]] · [[Ballard Partners]]
 
 content-readiness:: ready

@@ -2,16 +2,15 @@
 title: "Mark Levin"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Patrick Bet-David]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]]"
+related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Patrick Bet-David]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #right #fox-news #radio #koch #scaife #exxon #constitutional-originalism #reagan #landmark-legal
-
 
 ---
 
@@ -193,4 +192,3 @@ The key difference between Levin and pure institutional products like Hannity or
 
 > **Source note:** The Politico 2014 article documenting Landmark Legal Foundation's Koch/Scaife/ExxonMobil donors and Levin's $300K+ salary is cited in Wikipedia but the original Politico URL could not be located for direct verification. The claim is corroborated by multiple secondary sources and Wikipedia's editorial review process. A future session should attempt to locate and Chrome-verify the original Politico article for direct Tier 2 citation.
 
-content-readiness:: ready

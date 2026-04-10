@@ -40,13 +40,9 @@ sec-form-types:
   - "N-CSR"
   - "N-CSRS"
   - "PRE 14A"
-related: "[[Ritchie Torres]] · [[Pete Aguilar]] · [[Mark Takano]] · [[Mike Lee]] · [[Barbara Lee]]"
+related: "[[Ritchie Torres]] · [[Pete Aguilar]] · [[Mark Takano]] · [[Mike Lee]] · [[Barbara Lee]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[CCPOA - California Correctional Peace Officers Association]] · [[DOGE - The Billionaires Government]]"
 ---
-
-
 #donor #union #AFSCME #public-sector #labor #class-analysis #follow-the-money #california #national #county #municipal #Janus #pensions
-
-related: [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[CCPOA - California Correctional Peace Officers Association]] · [[DOGE - The Billionaires Government]]
 
 ---
 
@@ -125,9 +121,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 - [OpenSecrets: Service Employees International Union profile](https://www.opensecrets.org/orgs/american-fedn-of-st-cnty-munic-employees/summary?id=D000000061) (Tier 1)
 - [Senate LDA Filings: AFSCME organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Supreme Court: Janus v. AFSCME (2018)](https://supreme.justia.com/cases/federal/us/585/16-1466/) (Tier 1)
-
-research-status:: ready — 1.3M members, $21.8M PAC (2024), $145.7M lifetime 98.6% Democratic, Janus v. AFSCME defendant, DOGE threat, CCPOA contrast, Koch two-pronged attack analysis. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ---
 

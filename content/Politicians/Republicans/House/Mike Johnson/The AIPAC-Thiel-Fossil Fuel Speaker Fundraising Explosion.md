@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Mike Johnson Master Profile]]
+related: "[[_Mike Johnson Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Peter Thiel]]"
 ---
-
-
 #mike-johnson #aipac #peter-thiel #fossil-fuels #fundraising #speaker #class-analysis
 
-related: [[_Mike Johnson Master Profile]] [[AIPAC - American Israel Public Affairs Committee]] [[Peter Thiel]]
-
 donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [[Fossil Fuel Bloc]]
-
-content-readiness:: ready
 
 ---
 

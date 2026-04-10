@@ -11,13 +11,10 @@ top-donors:
   - "JB Pritzker"
 total-received: "$4,058,200"
 fec-candidate-id: "S6IL00458"
-related: "[[Illinois 2026 Senate Race]]"
+related: "[[Illinois 2026 Senate Race]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Fairshake PAC - Crypto Super PAC|Fairshake]] · [[Illinois Future PAC]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]]"
 ---
-
 #politician #democrat #senate
 tags: #democrat
-
-related: [[_JB Pritzker Master Profile|JB Pritzker]] [[Fairshake PAC - Crypto Super PAC|Fairshake]] [[Illinois Future PAC]] [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] Robin Kelly
 
 donors: [[_JB Pritzker Master Profile|JB Pritzker]] · Pritzker Family · Illinois Teachers Unions · Progressive PACs
 
@@ -147,9 +144,6 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 office:: Illinois Lieutenant Governor (2026 Democratic Senate nominee)
 state:: Illinois
 party:: Democrat
-profile-status:: ready
-research-status:: active
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

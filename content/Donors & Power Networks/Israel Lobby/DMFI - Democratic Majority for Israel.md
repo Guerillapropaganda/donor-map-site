@@ -1,34 +1,49 @@
 ---
 title: "DMFI - Democratic Majority for Israel"
-type: donor
+type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
-entity-type: "Individual Donor"
+entity-type: "PAC"
+fec-committee-id: C00710848
 politicians-funded:
-  - "Gavin Newsom"
+  - "Shontel Brown"
+  - "George Latimer"
+  - "Wesley Bell"
+  - "Sean Casten"
+  - "Glenn Ivey"
+  - "Don Davis"
+  - "Valerie Foushee"
+politicians-opposed:
   - "Bernie Sanders"
-  - "Kamala Harris"
-  - "Benjamin Netanyahu"
+  - "Nina Turner"
   - "Jamaal Bowman"
+  - "Cori Bush"
+  - "Summer Lee"
+  - "Marie Newman"
+  - "Donna Edwards"
+  - "Nida Allam"
 issues:
   - "Israel & Foreign Policy"
+  - "Democratic Primary Intervention"
 ein: "833298146"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
-related: "[[JCRC Bay Area]] · [[AIPAC and the Progressive Purge]] · [[John Fetterman Master Profile]] · [[Ilhan Omar Master Profile]]"
+source-types:
+  - FEC
+known-gaps:
+  - IRS 990 auto-block shows 0 filings on record (EIN 833298146, 501c4). Need to verify filing status.
+  - Only 1 Tier 1 source type (FEC). Need second for verified promotion.
+related: "[[JCRC Bay Area]] · [[AIPAC and the Progressive Purge]] · [[_John Fetterman Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[_Bernie Sanders Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[NORPAC]] · [[Reid Hoffman]] · [[Wesley Bell Master Profile]]"
+opposes: "[[Jamaal Bowman Master Profile]]"
 ---
-
-
 #donor #israel #DMFI #pro-israel #national #super-pac #democratic-primary #follow-the-money #class-analysis #aipac #progressive-opposition
 
-related: [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[NORPAC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[Reid Hoffman]]
-
 ---
 
-### Who They Are
+## Who They Are
 
 Democratic Majority for Israel (DMFI). Founded January 29, 2019, by **Mark Mellman** (longtime Democratic pollster and former President of the American Association of Political Consultants), along with co-chairs **Ann Lewis** (Democratic strategist) and **Todd Richman** (Democratic fundraiser). The founding came explicitly in reaction to polling showing Democrats and younger voters less supportive of Israel, timed to the election of the first two Muslim women to Congress (Ilhan Omar and Rashida Tlaib).
 
@@ -38,7 +53,7 @@ Unlike AIPAC (which is formally bipartisan), DMFI operates exclusively within De
 
 ---
 
-### What They Want
+## What They Want
 
 — **Primary enforcement within the Democratic Party on Israel policy.** DMFI exists to ensure that Democratic politicians maintain unconditional support for Israel — not through general election pressure but through primary challenges against any Democrat who breaks with the pro-Israel consensus. The 96% win rate in 2024 is the enforcement mechanism made visible.
 
@@ -52,7 +67,7 @@ Unlike AIPAC (which is formally bipartisan), DMFI operates exclusively within De
 
 ---
 
-### Key Funders (2019-2024)
+## Key Funders (2019-2024)
 
 | Donor | Amount | Period |
 |-------|--------|--------|
@@ -69,7 +84,7 @@ Notable: DMFI has funneled at least $500,000 to **Mainstream Democrats PAC**, an
 
 ---
 
-### The Political Spending
+## The Political Spending
 
 #### 2020 Cycle
 
@@ -114,7 +129,7 @@ DMFI and AIPAC's [[United Democracy Project - UDP|United Democracy Project]] (UD
 
 ---
 
-### Coordination with AIPAC
+## Coordination with AIPAC
 
 While DMFI and AIPAC maintain formal independence, they consistently target the same races and sometimes the same candidates. In North Carolina in 2022, for instance, UDP spent $2.4 million and DMFI spent $437,000 in the same primary supporting Don Davis. DMFI has been described as "closely tied" to AIPAC. DMFI's largest donors include organizations that also fund AIPAC affiliates — **Micah Philanthropies**, for example, donated to both DMFI and AIPAC's AIEF.
 
@@ -125,7 +140,7 @@ DMFI operates specifically within the Democratic Party, offering a "Democratic b
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|-----------------|--------|---------------|----------|
@@ -143,7 +158,7 @@ DMFI operates specifically within the Democratic Party, offering a "Democratic b
 
 ---
 
-### The "Liberal Zionist" Function
+## The "Liberal Zionist" Function
 
 DMFI's strategic role is ideological: framing pro-Israel politics as compatible with progressive Democratic values. This is the intellectual infrastructure that makes AIPAC's financial pressure politically viable within the party.
 
@@ -156,7 +171,7 @@ DMFI's strategic role is ideological: framing pro-Israel politics as compatible 
 
 ---
 
-### The 2028 Factor
+## The 2028 Factor
 
 DMFI will be a significant factor in the 2028 Democratic presidential primary:
 
@@ -168,7 +183,7 @@ DMFI will be a significant factor in the 2028 Democratic presidential primary:
 
 ---
 
-### Class Analysis — Donor-Class Enforcement Within the Party
+## Class Analysis — Donor-Class Enforcement Within the Party
 
 DMFI represents a specific form of donor-class power: the ability to enforce policy alignment within a political party by spending in primaries. This is different from general election spending (which funds the party's candidate against the other party). Primary spending funds the party's preferred candidate against the party's insurgent — it's the donor class policing its own coalition.
 
@@ -178,21 +193,24 @@ For the vault's framework: DMFI is the Israel lobby's version of what the Koch n
 
 ---
 
-### Sources
+## Sources
 
-- [Wikipedia: Democratic Majority for Israel](https://en.wikipedia.org/wiki/Democratic_Majority_for_Israel) (Tier 3)
-- [DMFI: Press Release - Founding](https://demmajorityforisrael.org/media/press-release/leading-democrats-launch-new-organization-to-promote-u-s-israel-relationship/) (Tier 3)
-- [DMFI: Press Release - 2024 Primary Victories](https://dmfipac.org/news-updates/press-release/dmfi-pac-celebrates-pro-israel-democrats-primary-victories/) (Tier 3)
+### Verified
+- [FEC: DMFI PAC committee page](https://www.fec.gov/data/committee/C00710848/) (Tier 1)
+- [FEC: DMFI PAC independent expenditures](https://www.fec.gov/data/independent-expenditures/?committee_id=C00710848) (Tier 1)
+- [ProPublica Nonprofit Explorer: DMFI 501(c)(4) EIN 833298146](https://projects.propublica.org/nonprofits/organizations/833298146) (Tier 1)
 - [Sludge: AIPAC-tied DMFI raises from private equity execs](https://readsludge.com/2024/04/16/aipac-tied-dmfi-raises-more-from-private-equity-execs/) (Tier 2)
 - [Ryan Grim: How AIPAC and DMFI reshape Democratic primaries](https://ryangrim.substack.com/p/the-story-of-how-aipac-and-dmfi-are) (Tier 2)
 - [Times of Israel: Pro-Israel groups mixed results in Democratic primaries](https://www.timesofisrael.com/pro-israel-groups-see-mixed-results-after-pouring-millions-into-democratic-primaries/) (Tier 2)
-- [OpenSecrets: DMFI PAC (2024 cycle)](https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00710848/summary/2024) (Tier 1)
-- [OpenSecrets: United Democracy Project spending (2024)](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1)
-- [OpenSecrets: Pro-Israel PACs 2024 primary spending analysis](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle) (Tier 2)
-- [Sludge: Here is all the money AIPAC spent on the 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
+- [Sludge: All the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
+- [DMFI: Press Release - Founding](https://demmajorityforisrael.org/media/press-release/leading-democrats-launch-new-organization-to-promote-u-s-israel-relationship/) (Tier 4 - self-published)
+- [DMFI PAC: 2024 Primary Victories press release](https://dmfipac.org/news-updates/press-release/dmfi-pac-celebrates-pro-israel-democrats-primary-victories/) (Tier 4 - self-published)
+- [Wikipedia: Democratic Majority for Israel](https://en.wikipedia.org/wiki/Democratic_Majority_for_Israel) (Tier 3)
 
-research-status:: developed — Added founding details (Jan 29 2019, Mark Mellman, Ann Lewis, Todd Richman), leadership transitions (Brian Romick/Kathy Manning May 2025), key funders table ($995K Schusterman, $500K Lauder, Americans for Tomorrow's Future, private equity donors), 2020 Sanders attack ($1.4M), 2021 OH-11 Brown/Turner ($2M), 2022 spending table (7 races, 85% win rate), 2024 spending ($5M+, 98% win rate), AIPAC coordination section with contradiction callout on messaging vs. motivation. 10 sources, Tier 1-3. New URLs marked UNVERIFIED. All ### headers. April 1 2026: Added ### What They Want (5 policy goals) + ### Donation-to-Policy Timeline (Format 2, 8 rows, [!money] callout). No new sources — timeline constructed from data already cited in file. Chrome unavailable; no API calls executed.
-content-readiness:: ready
+### Archived
+- ~~[OpenSecrets: DMFI PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/democratic-majority-for-israel/C00710848/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)
+- ~~[OpenSecrets: UDP 2024 spending](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024)~~ (was Tier 1, OpenSecrets demoted)
+- ~~[OpenSecrets: Pro-Israel PACs 2024 primary analysis](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle)~~ (was Tier 2, OpenSecrets demoted)
 
 ---
 

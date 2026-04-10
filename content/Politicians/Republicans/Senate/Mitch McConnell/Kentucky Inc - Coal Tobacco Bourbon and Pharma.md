@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Mitch McConnell Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Mitch McConnell Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #mcconnell #kentucky #coal #tobacco #bourbon #pharma #donor-sectors #class-analysis #follow-the-money
-
-related: [[_Mitch McConnell Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
 
 donors: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
 

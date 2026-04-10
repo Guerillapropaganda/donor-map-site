@@ -2,17 +2,14 @@
 title: "Illinois 2026 Senate Race"
 type: story
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Georgia 2026 Senate Race]]"
+related: "[[Georgia 2026 Senate Race]] · [[_Juliana Stratton Master Profile|Juliana Stratton Master Profile]] · [[Fairshake PAC]] · [[Illinois Future PAC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
-
 #2026-election #senate #illinois #race-frame
 
 tags: #analysis #story
-
-related:: [[_Juliana Stratton Master Profile|Juliana Stratton Master Profile]] Don Tracy [[Fairshake PAC]] [[Illinois Future PAC]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors:: Jay Pritzker [[Fairshake PAC - Crypto Super PAC|Fairshake]] [[Illinois Future PAC]]
 

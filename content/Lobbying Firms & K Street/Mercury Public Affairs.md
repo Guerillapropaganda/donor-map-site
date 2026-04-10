@@ -27,7 +27,6 @@ nonprofit-status: "501(c)(5)"
 
 #lobbying #k-street #fara #foreign-government #china #ukraine #manafort #revolving-door #bipartisan
 
-
 ---
 
 ### Who They Are
@@ -205,8 +204,6 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 - [Read Sludge: Trump Selects Corporate Lobbyist Susie Wiles as Chief of Staff (Nov 2024)](https://readsludge.com/2024/11/08/trump-selects-corporate-lobbyist-susie-wiles-as-chief-of-staff/) (Tier 2)
 - [RegTechTimes: India contracts lobbying firms in the US to address tariffs and oil sanctions](https://regtechtimes.com/india-contracts-lobbying-firms-to-address-tariffs/) (Tier 3)
 - [OC Media: US lobbying firm that cut ties with Turkey amid pressure hired by Armenia](https://oc-media.org/us-lobbying-firm-that-cut-ties-with-turkey-amid-pressure-hired-by-armenia/) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

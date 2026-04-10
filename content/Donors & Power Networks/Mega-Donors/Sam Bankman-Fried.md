@@ -38,11 +38,9 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Judicial Panel on Multidistrict Litigation"
+related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]]"
 ---
-
 #sbf #ftx #crypto #fraud #democratic-donor #bipartisan #effective-altruism
-
-related: [[FTX - Sam Bankman-Fried]] [[Coinbase]] [[Fairshake PAC]] [[Crypto Industry Bloc]]
 
 ---
 

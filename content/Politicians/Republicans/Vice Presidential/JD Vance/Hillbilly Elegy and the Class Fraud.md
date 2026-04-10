@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_JD Vance Master Profile]]
+related: "[[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[Peter Thiel]]"
 ---
-
-
 #class-analysis #narrative-control #hillbilly-elegy
-
-related: [[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[Peter Thiel]] · Appalachian Deindustrialization · Class Politics in America
 
 donors: [[Peter Thiel]]
 
@@ -181,4 +178,3 @@ This is not evidence of legislative incompetence. It is evidence that Vance's Se
 
 **content-readiness:** developed
 **last-updated:** 2026-03-20
-content-readiness:: ready

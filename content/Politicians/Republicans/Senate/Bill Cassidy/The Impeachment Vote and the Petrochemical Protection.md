@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Bill Cassidy Master Profile]]
+related: "[[_Bill Cassidy Master Profile]] · [[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]]"
 ---
-
-
 #cassidy #impeachment #conviction #petrochemical #fossil-fuel #louisiana #political-survival
-
-related: [[_Bill Cassidy Master Profile]] · [[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]] · Trump Impeachment II · Louisiana Energy Economy
 
 donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], Oil and Gas Industry
 
@@ -119,4 +116,3 @@ The system is sophisticated enough to tolerate—even celebrate—principled sta
 - [19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/) (Tier 2)
 - [NBC News: GOP Sen. Bill Cassidy draws primary challenger citing Trump impeachment vote](https://www.nbcnews.com/politics/congress/gop-sen-bill-cassidy-draws-primary-challenger-trump-impeachment-rcna182940) (Tier 2)
 
-content-readiness:: ready

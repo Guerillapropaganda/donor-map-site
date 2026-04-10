@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chip Roy Master Profile]] · [[Club for Growth]] · [[_Jim Jordan Master Profile|Jordan]]"
 ---
-
 #roy #texas #freedom-caucus #spending #speaker-fight #rules #procedural
-
-related: [[_Chip Roy Master Profile]] [[Club for Growth]] [[_Jim Jordan Master Profile|Jordan]]
 
 donors: [[Club for Growth]]
 

@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Zach Wahls Master Profile]]
+related: "[[_Zach Wahls Master Profile]]"
 ---
-
 #iowa #rural-democrats #long-shot #donor-calculation #class-analysis #red-state-campaign #2026-senate
 
 tags: #democrat
-
-related: [[_Zach Wahls Master Profile]] · Rural-Urban Democratic Divide · Small-Dollar vs. Establishment Fundraising in Long-Shots · DSCC Long-Shot Strategy
 
 donors: National Progressive Networks · Small-Dollar Fundraising · Rural Organizing Funding
 
@@ -195,4 +193,3 @@ The outcome will reveal something important about whether Democratic long-shot c
 - [Elizabeth Warren backs Zach Wahls in Iowa U.S. Senate race](https://www.thegazette.com/news/elections/elizabeth-warren-backs-zach-wahls-in-iowa-s-democratic-u-s-senate-primary/article_d360eb4e-edad-4493-b803-b4b21c77e7f0.html) (Tier 2)
 - [Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst) (Tier 2)
 
-content-readiness:: ready

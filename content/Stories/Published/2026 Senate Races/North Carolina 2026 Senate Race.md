@@ -8,12 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Roy Cooper Master Profile]] · [[_Michael Whatley Master Profile]] · [[Republican Party Apparatus]] · [[Senate Leadership Fund]]"
 ---
-
 #2026-election #senate #north-carolina #race-frame #analysis
 tags: #story
-
-related: [[_Roy Cooper Master Profile]] [[_Michael Whatley Master Profile]] Democratic Small Dollar Fundraising [[Republican Party Apparatus]] [[Senate Leadership Fund]] Banking Industry - Charlotte NC
 
 donors: [[Democratic Small Dollar Networks]] [[Republican Party Apparatus]] [[Senate Leadership Fund]] Banking PACs - Wells Fargo, Bank of America Real Estate Development Money Fossil Fuel Networks
 
@@ -148,5 +146,3 @@ This race reveals two competing donor-class strategies at Senate level:
 
 ---
 
-content-readiness:: ready
-research-status:: active

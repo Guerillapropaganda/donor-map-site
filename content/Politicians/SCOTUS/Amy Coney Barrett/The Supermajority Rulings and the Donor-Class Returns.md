@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Amy Coney Barrett Master Profile]]
+related: "[[_Amy Coney Barrett Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]]"
 ---
-
-
 #amy-coney-barrett #scotus #dobbs #bruen #epa #affirmative-action #class-analysis #donor-returns
 
-related: [[_Amy Coney Barrett Master Profile]] [[_Brett Kavanaugh Master Profile]] [[_Samuel Alito Master Profile]] [[_Clarence Thomas Master Profile]]
-
 donors: [[Leonard Leo]], [[Fossil Fuel Bloc]], [[Robert Mercer]], [[Rebekah Mercer]], [[AIPAC - American Israel Public Affairs Committee]]
-
-content-readiness:: ready
 
 ---
 

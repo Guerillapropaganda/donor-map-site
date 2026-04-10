@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_John Boozman Master Profile]] · [[_Tom Cole Master Profile|Cole]] · [[_French Hill Master Profile|Hill]] · [[Walmart]]"
 ---
-
 #boozman #arkansas #agriculture #appropriations #defense #poultry #walmart
-
-related: [[_John Boozman Master Profile]] [[_Tom Cole Master Profile|Cole]] [[_French Hill Master Profile|Hill]] [[Walmart]]
 
 donors: [[Walmart]] [[Koch Industries]]
 

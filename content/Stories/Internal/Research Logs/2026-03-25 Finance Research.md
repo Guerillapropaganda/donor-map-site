@@ -9,11 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[Stephen Schwarzman - Blackstone]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[Senate Leadership Fund]] · [[US Chamber of Commerce]] · [[ALEC - American Legislative Exchange Council]]"
 ---
-
 #finance-research #campaign-finance #daily-update #automated
-
-related: [[AIPAC - American Israel Public Affairs Committee]] | [[Koch Network - Charles Koch]] | [[Stephen Schwarzman - Blackstone]] | [[Peter Thiel]] | [[Fairshake PAC]] | [[Senate Leadership Fund]] | [[US Chamber of Commerce]] | [[ALEC - American Legislative Exchange Council]]
 
 ---
 

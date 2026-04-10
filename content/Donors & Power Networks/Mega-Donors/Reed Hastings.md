@@ -2,7 +2,7 @@
 title: "Reed Hastings"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -40,7 +40,7 @@ subawards-received-amount: 1009778941592127500
 federal-register-mentions: 2
 regulatory-agencies:
   - "Securities and Exchange Commission"
-related: "[[Silicon Valley Democratic Donor Network]] · [[CSPOA - The Anti-Government Sheriff Network]]"
+related: "[[Silicon Valley Democratic Donor Network]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[Laurene Powell Jobs]] · [[Hollywood Democratic Donor Network]]"
 total-political-spend: "$28,513,162"
 politicians-funded:
   - "Joe Biden"
@@ -49,10 +49,7 @@ politicians-funded:
   - "Barack Obama"
   - "CSPOA - The Anti-Government Sheriff Network"
 ---
-
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund
-
-related: Netflix Charter School Movement Education Reform Donors [[Laurene Powell Jobs]] School Choice Network
 
 ---
 
@@ -146,8 +143,6 @@ The Hastings funding also shows **donor-class override of constituency interests
 - [Capital & Main: Reed Hastings — Netflix CEO Goes Nuclear on Public Schools](https://capitalandmain.com/reed-hastings-the-disrupter-1101) (Tier 2)
 - [CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/) (Tier 2)
 - [Ballotpedia: Charter school funding by mega-donors](https://ballotpedia.org/School_choice) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

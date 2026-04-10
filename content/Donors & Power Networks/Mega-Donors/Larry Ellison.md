@@ -25,11 +25,9 @@ known-gaps:
   - "No mapped relationships"
 last-enriched: "2026-04-09"
 total-political-spend: "$10,212"
+related: "[[_Donald Trump Master Profile]] · [[Oracle]]"
 ---
-
 #donor #mega-donor #oracle #tech #republican #government-contracts #class-analysis
-
-related: [[_Donald Trump Master Profile]] [[Oracle]] Opportunity Matters Fund Pentagon Contracts
 
 ---
 

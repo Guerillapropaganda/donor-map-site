@@ -9,12 +9,9 @@ sector: "Tech & Crypto"
 entity-type: "Story"
 issues:
   - "Technology"
-related: "[[AI Deregulation Super PAC - Leading the Future]]"
+related: "[[AI Deregulation Super PAC - Leading the Future]] · [[AI Regulation and Tech Donors]] · [[Anthropic]] · [[OpenAI]] · [[Google - Alphabet]]"
 ---
-
 #ai-safety #regulatory-capture #tech #moat #compliance #lobbying
-
-related: [[AI Regulation and Tech Donors]] [[Anthropic]] [[OpenAI]] [[Google - Alphabet]]
 
 ---
 

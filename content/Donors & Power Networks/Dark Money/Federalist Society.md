@@ -2,7 +2,7 @@
 title: "Federalist Society"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -50,13 +50,9 @@ sec-form-types:
   - "PRE 14A"
   - "PX14A6G"
   - "U-13-60"
-related: "[[DeVos Family]]"
+related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]]"
 ---
-
-
 #donor #dark-money #judicial #federalist-society #leonard-leo #scotus #501c3 #conservative #judicial-pipeline
-
-related: [[Leonard Leo]] [[Project 2025 - The Blueprint They Followed]] [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] [[Heritage Foundation]] [[Koch Network - Charles Koch]] [[_Donald Trump Master Profile|Trump]] [[_Clarence Thomas Master Profile|Thomas]] [[_Samuel Alito Master Profile|Alito]]
 
 ---
 
@@ -221,8 +217,6 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 - [NPR: Heritage Foundation Staff Walkout](https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence) (Tier 2)
 
 ---
-
-content-readiness:: ready
 
 ---
 

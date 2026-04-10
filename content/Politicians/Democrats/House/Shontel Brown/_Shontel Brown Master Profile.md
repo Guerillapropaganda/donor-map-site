@@ -1,0 +1,71 @@
+---
+title: "Shontel Brown Master Profile"
+type: politician
+content-readiness: raw
+last-updated: '2026-04-09'
+source-tier: null
+parent: null
+party: "Democrat"
+chamber: "House"
+state: "Ohio"
+state-abbr: "OH"
+district: "11"
+issues:
+  - Israel & Foreign Policy
+related: "[[_Nina Turner Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
+donors:
+  - "DMFI PAC"
+  - "AIPAC"
+source-types: []
+known-gaps:
+  - Stub created 2026-04-09 to preserve vault connections
+  - Full build required: biography, Cuyahoga County Council tenure, 2021 special election, 2022 rematch, House voting record
+  - No FEC candidate ID verified
+  - No pipeline enrichment
+---
+
+#shontel-brown #oh-11 #cuyahoga-county #aipac-backed #dmfi-backed #house #democrat
+
+---
+
+## Who She Is
+
+Shontel Brown. U.S. Representative for Ohio's 11th Congressional District since November 2021. Former Cuyahoga County Council member. Defeated [[_Nina Turner Master Profile|Nina Turner]] in two consecutive Democratic primary elections — the August 2021 special election (to replace Marcia Fudge after she was appointed HUD Secretary) and the May 2022 rematch. Both victories were heavily supported by Democratic Majority for Israel (DMFI), making Brown the earliest high-profile case of the DMFI primary enforcement model that AIPAC later scaled against Bowman and Bush in 2024.
+
+Brown's OH-11 victories are the vault's foundational precedent for the DMFI/AIPAC primary intervention strategy documented in [[DMFI - Democratic Majority for Israel|DMFI's profile]].
+
+---
+
+## The Central Thesis
+
+*Stub — needs full development.*
+
+Brown's two primary victories over Turner established the proof of concept for the DMFI primary enforcement model. DMFI spent $2M+ in the 2021 special election and $3.1M combined (support + oppose) in the 2022 rematch. Brown's institutional credibility as a sitting county council member combined with concentrated outside spending overwhelmed Turner's small-dollar grassroots model. HuffPost's Daniel Marans noted: "there's no question that DMFI played a pivotal role." Every subsequent AIPAC primary intervention (2022, 2024) builds on the OH-11 template.
+
+---
+
+## Documented Spending Support (from Vault)
+
+| Cycle | Source | Amount | Result |
+|---|---|---|---|
+| 2021 OH-11 special | DMFI + allies | $2M+ ($1M+ TV) | Brown won primary, then special election |
+| 2022 OH-11 rematch | DMFI | $1.6M support + $1.5M oppose Turner | Brown won 66%–34% |
+
+Source: [[DMFI - Democratic Majority for Israel]] vault entry.
+
+---
+
+## Sources
+
+### Needed
+- FEC candidate ID
+- Congress.gov bioguide ID
+- GovTrack voting record URL
+- Ballotpedia: Shontel Brown
+- Cuyahoga County Council tenure
+- 2021 special election and 2022 rematch campaign receipts
+- House voting record (117th, 118th, 119th Congresses)
+
+---
+
+**Status:** Stub created 2026-04-09 to preserve vault connections. Needs full research build-out including Cuyahoga County Council tenure, the two Turner primaries with FEC receipts, and her House voting record.

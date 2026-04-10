@@ -2,7 +2,7 @@
 title: "Heartland Institute"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: conservative
@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 3350282
 total-assets: 1074871
-related: "[[Koch Network - Charles Koch]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
+related: "[[Koch Network - Charles Koch]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 lei: "549300WPNE39YXMINQ56"
 lei-jurisdiction: "US-DE"
 federal-register-mentions: 6
@@ -24,7 +24,6 @@ regulatory-agencies:
 ---
 
 #think-tank #conservative #climate-denial #tobacco #fossil-fuel #NIPCC #model-legislation #state-policy #class-analysis
-
 
 ---
 
@@ -224,8 +223,6 @@ The Heartland Institute is the most transparent case study in the vault of how t
 - [EDF: Groups Sue for Information About Heartland Institute's Involvement in EPA Climate Science Decisions (2018)](https://www.edf.org/media/groups-sue-information-about-heartland-institutes-involvement-epa-climate-science-decisions) (Tier 2)
 - [DeSmog: Heartland Institute UK Chief: Group Is Influencing Trump Policy 'at the Highest Level' (Mar 13, 2025)](https://www.desmog.com/2025/03/13/heartland-institute-uk-chief-lois-perry-influencing-trump-policy-at-the-highest-level/) (Tier 2)
 - [DeSmog: Mapped — Pro-Trump Heartland Institute's European Network (Dec 10, 2025)](https://www.desmog.com/2025/12/10/mapped-donald-trump-heartland-institute-european-network/) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

@@ -2,33 +2,17 @@
 title: "IBEW Local 440 - Riverside"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
-related: "[[UFCW - United Food and Commercial Workers]]"
-doj-press-mentions: "264413"
+related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[California Building and Construction Trades Council]]"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - California, Central"
-  - "USAO - Connecticut"
-  - "USAO - Florida, Northern"
-  - "USAO - Florida, Southern"
-  - "USAO - Kansas"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Michigan, Western"
 ---
-
-
 #donor #union #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #local-440 #building-trades #labor #class-analysis #follow-the-money #inland-empire #riverside #prevailing-wage
-
-related: [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]]
 
 ---
 
@@ -99,25 +83,5 @@ The IBEW national PAC ($13.45M raised in 2024 cycle) places Local 440 within a l
 - [DOL OLMS: IBEW Local 440 LM-2 Filing](https://olmsapps.dol.gov/query/orgReport.do?rptForm=LM2Form&rptId=783264) (Tier 1)
 - [ZoomInfo: IBEW Local 440 company overview](https://www.zoominfo.com/c/ibew-local-440/118867136) (Tier 3)
 
-research-status:: ready — Promoted Session 39. — Expanded with PAC data ($183K contributions, $420K cash on hand), national IBEW PAC ($13.45M raised 2024 cycle), class analysis, RSA comparison. 7 sources, Tier 1-4. Needs specific recipient data from FPPC filings and endorsement list documentation before ready promotion.
-content-readiness:: ready
-
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264413 |
-| DOJ Components | Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF), Federal Bureau of Investigation (FBI), USAO - California, Central, USAO - Connecticut, USAO - Florida, Northern, USAO - Florida, Southern +9 more |
-
-**Recent press releases:**
-
-- 2026-04-08 — [New Jersey Tax Preparer Sentenced to 144 Months in Prison for $170 Million COVID-19 Tax Credit Scheme](https://www.justice.gov/usao-nj/pr/new-jersey-tax-preparer-sentenced-144-months-prison-170-million-covid-19-tax-credit) — USAO - New Jersey
-- 2026-04-08 — [Sex offender sentenced to prison for possessing child pornography](https://www.justice.gov/usao-ks/pr/sex-offender-sentenced-prison-possessing-child-pornography) — USAO - Kansas
-- 2026-04-08 — [Mexican National Extradited to the United States to Face Drug Trafficking Charges](https://www.justice.gov/usao-wdmi/pr/Weyman-Urbina_Extradition_PR) — USAO - Michigan, Western
-- 2026-04-08 — [Maryland Man Admits to Sex Trafficking](https://www.justice.gov/usao-ndwv/pr/maryland-man-admits-sex-trafficking) — USAO - West Virginia, Northern
-- 2026-04-08 — [Jefferson Parish Man Sentenced  For Federal Gun and Drug Charges](https://www.justice.gov/usao-edla/pr/jefferson-parish-man-sentenced-federal-gun-and-drug-charges-0) — Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
-- 2026-04-08 — [Previously Deported Guatemalan National with Murder for Hire Conviction Admits Illegally Reentering U.S.](https://www.justice.gov/usao-ct/pr/previously-deported-guatemalan-national-murder-hire-conviction-admits-illegally) — USAO - Connecticut
-- ... and 264,407 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22IBEW%20Local%20440%20-%20Riverside%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

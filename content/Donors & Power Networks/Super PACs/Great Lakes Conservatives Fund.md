@@ -15,12 +15,9 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "DRCONGO"
-related: "[[Michigan 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]]"
+related: "[[Michigan 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[_Mike Rogers Master Profile]] · [[Tim Dunn]] · [[Paul Singer]] · [[Stephen Schwarzman]] · [[Sentinel Action Fund]]"
 ---
-
 #donor #super-pac #great-lakes #michigan #mike-rogers #single-candidate-pac #defense-aligned
-
-related: [[_Mike Rogers Master Profile]] [[Tim Dunn]] [[Paul Singer]] [[Stephen Schwarzman]] [[Sentinel Action Fund]]
 
 ---
 
@@ -216,9 +213,6 @@ Rogers lost. Why?
 - [NBC News: Republican super PACs bank millions ahead of 2026 battles](https://www.nbcnews.com/politics/2026-election/republican-super-pacs-bank-millions-ahead-midterm-battles-rcna222115) (Tier 2)
 
 ---
-
-research-status:: ready — Single-candidate super PAC for Mike Rogers, $5.9M cash on hand, Tim Dunn 98% funding ($5M), Schwarzman $2M, Singer $500K, $21M 2024 spend, class analysis, 2024 loss analysis. 9 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

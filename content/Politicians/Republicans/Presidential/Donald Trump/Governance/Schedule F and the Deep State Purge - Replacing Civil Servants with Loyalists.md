@@ -14,11 +14,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]]"
 ---
-
 #donald-trump #governance #schedule-f #civil-service #deep-state #loyalty-test #administrative-state #project-2025 #follow-the-money
 
-related: [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]]
 donors: [[Koch Network - Charles Koch]] · [[Heritage Foundation]]
 
 ---

@@ -2,12 +2,12 @@
 title: "Brennan Center for Justice"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
+related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 ein: "133839293"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
@@ -24,7 +24,6 @@ regulatory-agencies:
 ---
 
 #think-tank #liberal #voting-rights #democracy #criminal-justice #campaign-finance #class-analysis
-
 
 ---
 
@@ -201,8 +200,6 @@ The revolving door — Clinton White House to Brennan Center to federal judiciar
 - [Brennan Center: Court Strikes Down Key Part of Trump's Unlawful Voting Executive Order, Permanently Blocking Show-Your-Papers Requirement (Oct 2025)](https://www.brennancenter.org/our-work/analysis-opinion/court-strikes-down-key-part-trumps-unlawful-voting-executive-order) (Tier 3)
 - [Brennan Center: Status of Trump's Anti-Voting Executive Order — real-time litigation tracker](https://www.brennancenter.org/our-work/research-reports/status-trumps-anti-voting-executive-order) (Tier 3)
 - [Brennan Center: The Trump Administration's Campaign to Undermine the Next Election (2026)](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

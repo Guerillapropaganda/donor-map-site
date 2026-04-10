@@ -30,11 +30,9 @@ corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] · [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]]"
 ---
-
 #mike-collins #republican #senate-candidate #georgia #crypto-trader #aipac #immigration #trump-ally #2026-race #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile]] [[_Jon Ossoff Master Profile]] [[Fairshake PAC]] [[AIPAC - American Israel Public Affairs Committee]]
 
 donors: [[Fairshake PAC]] [[AIPAC - American Israel Public Affairs Committee]] [[Winklevoss Twins]] [[Elon Musk]] [[Club for Growth]]
 

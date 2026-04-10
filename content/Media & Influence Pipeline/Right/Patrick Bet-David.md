@@ -2,16 +2,15 @@
 title: "Patrick Bet-David"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Mark Levin]] · [[Valuetainment]] · [[Jillian Michaels]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]]"
+related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Mark Levin]] · [[Valuetainment]] · [[Jillian Michaels]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Jimmy Dore]]"
 ---
 
 #media-pipeline #right #mlm #entrepreneurship #trump #immigration #youtube #podcast
-
 
 ---
 
@@ -191,4 +190,3 @@ The "Her Take" expansion is class analysis in action: Valuetainment is building 
 - [Wikipedia: Patrick Bet-David](https://en.wikipedia.org/wiki/Patrick_Bet-David) (Tier 3)
 - [Politico: Trump suggests Zelenskyy is to blame for the Russia-Ukraine war (PBD interview context)](https://www.politico.com/news/2024/10/17/trump-zelenskyy-russia-ukraine-war-00184183) (Tier 2)
 
-content-readiness:: ready

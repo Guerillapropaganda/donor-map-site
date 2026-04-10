@@ -5,17 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Raphael Warnock Master Profile]]
+related: "[[_Raphael Warnock Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[CNA - California Nurses Association|CNA]]"
 ---
-
 #raphael-warnock #moral-authority #mlk #ebenezer-baptist #corporate-democrat #healthcare #single-payer #class-analysis
 
 tags: #democrat
 
-related: [[_Raphael Warnock Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[CNA - California Nurses Association|CNA]]
-
 donors: [[Healthcare Sector]] · [[Tech and Media Donors]]
-
-content-readiness:: ready
 
 ---
 

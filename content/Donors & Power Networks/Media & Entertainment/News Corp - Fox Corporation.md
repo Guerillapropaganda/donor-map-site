@@ -2,7 +2,7 @@
 title: "News Corp - Fox Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -15,15 +15,12 @@ lei: "984500CF6457BDCFAD28"
 lei-jurisdiction: "US-DE"
 lobbying-spend: 7016500
 lobbying-filings: 62
-related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]]"
+related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[AT&T - WarnerMedia]] · [[Trump Media & Technology Group]]"
 ein: "850803187"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 ---
-
 #fox #newscorp #murdoch #media #propaganda #deregulation #defamation
-
-related: [[Comcast - NBCUniversal]] [[Walt Disney Company]] [[AT&T - WarnerMedia]]
 
 ---
 
@@ -57,8 +54,6 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 - [OpenSecrets: News Corp/Fox political spending](https://www.opensecrets.org/orgs/news-corp/summary?id=D000000227) (Tier 1)
 - [SEC: Fox Corporation 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=News%20Corp%20-%20Fox%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Fox News](https://ballotpedia.org/Fox_News) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

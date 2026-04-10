@@ -20,15 +20,11 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_JB Pritzker Master Profile]] · [[_Andy Beshear Master Profile]] · [[Goldman Sachs]] · [[George Soros]]"
 ---
-
-
 #wes-moore #democrat #governor #maryland #robin-hood #wall-street #hedge-fund #2028 #class-analysis #follow-the-money
 
-related: [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_JB Pritzker Master Profile]] · [[_Andy Beshear Master Profile]] · [[Goldman Sachs]] · [[George Soros]]
 donors: [[Goldman Sachs]] · [[Citigroup]] · Robin Hood Foundation · Hedge Fund Network · [[George Soros]]
-
-profile-status:: developed
 
 ---
 ---
@@ -155,7 +151,6 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 - [NBC News: Maryland Gov. Wes Moore says he's ruling out a presidential run in 2028](https://www.nbcnews.com/politics/2028-election/maryland-governor-wes-moore-ruling-out-presidential-run-redistricting-rcna229615) (Tier 2)
 - [Free Beacon: Moore says KKK chased his great-grandfather — historical records tell different story](https://freebeacon.com/democrats/wes-moore-says-the-kkk-chased-his-great-grandfather-out-of-south-carolina-historical-records-tell-a-different-story/) (Tier 4)
 - [Ballotpedia: Wes Moore](https://ballotpedia.org/Wes_Moore) (Tier 3)
-content-readiness:: developed
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

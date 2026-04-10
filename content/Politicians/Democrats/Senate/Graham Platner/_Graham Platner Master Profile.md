@@ -17,12 +17,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[2026 Senate Primary Races]] · [[Warren-Sanders Unity and the Schumer Machine]]"
 ---
-
-
 #graham-platner #maine #senate #2026 #progressive #veteran #oyster-farmer #warren-sanders-unity #class-analysis
-
-related: [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[2026 Senate Primary Races]] · [[Warren-Sanders Unity and the Schumer Machine]] · Susan Collins Challenger
 
 donors: Progressive Donor Networks · Dual Sanders-Warren Backing · Schumer Opposition
 

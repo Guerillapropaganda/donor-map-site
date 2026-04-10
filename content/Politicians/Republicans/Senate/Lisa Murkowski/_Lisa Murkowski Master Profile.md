@@ -14,17 +14,11 @@ issues:
 total-received: "$1,637,930"
 fec-candidate-id: "S4AK00099"
 donors: "[[AFGE - American Federation of Government Employees]] · [[ConocoPhillips]]"
-related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
+related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]]"
 ---
-
-
 #lisa-murkowski #republican #alaska #senate #energy #natural-resources #oil-gas #conocophillips #willow-project #anwr #bipartisan #write-in #native-affairs #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]] [[_Mitch McConnell Master Profile|McConnell]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -150,4 +144,3 @@ Murkowski is not a simple industry puppet. She supports climate science, biparti
 - [CBS News: Murkowski on navigating Washington under Trump](https://www.cbsnews.com/news/sen-lisa-murkowski-on-trump-her-place-in-the-gop-and-her-memoir-far-from-home/) (Tier 2)
 - [Ballotpedia: Lisa Murkowski](https://ballotpedia.org/Lisa_Murkowski) (Tier 3)
 
-content-readiness:: ready

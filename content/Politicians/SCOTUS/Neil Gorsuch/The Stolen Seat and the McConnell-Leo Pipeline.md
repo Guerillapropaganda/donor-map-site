@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Neil Gorsuch Master Profile]]
-related: "[[The Gorsuch Deregulation Record and the Family Pipeline]]"
+related: "[[The Gorsuch Deregulation Record and the Family Pipeline]] · [[_Neil Gorsuch Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #neil-gorsuch #scotus #stolen-seat #merrick-garland #mcconnell #leonard-leo #judicial-crisis-network #dark-money #class-analysis #follow-the-money
 
-related: [[_Neil Gorsuch Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]]
-
 donors: [[Leonard Leo]], [[Judicial Crisis Network]], [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 

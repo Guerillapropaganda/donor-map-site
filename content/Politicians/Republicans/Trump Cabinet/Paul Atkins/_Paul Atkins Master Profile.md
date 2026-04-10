@@ -1,0 +1,72 @@
+---
+title: "Paul Atkins Master Profile"
+type: politician
+content-readiness: raw
+last-updated: '2026-04-09'
+source-tier: null
+parent: null
+party: "Republican"
+chamber: "SEC Chair"
+role: "SEC Chair (Trump Administration)"
+issues:
+  - Cryptocurrency Regulation
+  - Financial Deregulation
+  - SEC Enforcement
+related: "[[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Coinbase]] · [[Ripple Labs]] · [[GENIUS Act]] · [[SAB 121 Rescission]]"
+source-types: []
+known-gaps:
+  - Stub created 2026-04-09 to preserve vault connections
+  - Full build required: prior SEC Commissioner tenure (2002-2008), Patomak Global Advisors consulting firm, 2025 confirmation, enforcement record
+  - No FEC contribution records compiled
+---
+
+#paul-atkins #sec-chair #trump-administration #crypto-deregulation #sab-121 #enforcement-collapse #patomak
+
+---
+
+## Who He Is
+
+Paul Atkins. Chair of the U.S. Securities and Exchange Commission, sworn in April 22, 2025, replacing Gary Gensler. Previously served as SEC Commissioner from 2002 to 2008 under President George W. Bush. Founded Patomak Global Advisors (financial regulation consulting firm) in 2009. Nominated by Donald Trump in December 2024; confirmed by the Senate in April 2025.
+
+Atkins is documented extensively in [[Fairshake PAC]] as the central figure of the 2025 SEC Enforcement Collapse — the near-complete dismantling of SEC crypto enforcement that constitutes, per the vault's analysis, the single highest-value return on Fairshake's $195M 2024 spending.
+
+---
+
+## The Central Thesis
+
+*Stub — needs full development.*
+
+Atkins is the regulatory end of the crypto industry's 2024 political investment. Fairshake PAC spent approximately $195M in the 2024 election cycle. The Trump administration installed Atkins as SEC Chair in April 2025. Within months, the SEC dismissed lawsuits against Coinbase, Binance, Kraken, Gemini, Uniswap, Yuga Labs, and Ripple — including cases where courts had already ruled in the SEC's favor. 2025 enforcement actions dropped to 13 (from 33 in 2024), a 60% decline. Total 2025 penalties: $142M (less than 3% of 2024). Atkins is the human instrument of the "direct causation" pattern the vault documents between crypto spending and regulatory outcomes.
+
+---
+
+## Documented Regulatory Actions (from Vault)
+
+| Action | Date | Impact |
+|---|---|---|
+| Sworn in as SEC Chair | April 22, 2025 | Replaces Gary Gensler |
+| SEC v. Coinbase dismissed with prejudice | February 27, 2025 (pre-Atkins, transition team) | Dismissal with prejudice |
+| SEC v. Binance dismissed | May 29, 2025 | Dismissed despite favorable court rulings for SEC |
+| SEC v. Ripple settlement | March 2025 | $50M (down from $125M ordered, $2B initial demand) |
+| SAB 121 → SAB 122 (crypto custody) | January 23, 2025 | Bank crypto custody no longer requires balance sheet liability |
+| 2025 crypto enforcement actions | 13 total | -60% from 2024 (33 actions) |
+| 2025 total penalties | $142M | <3% of 2024 total |
+
+Source: [[Fairshake PAC]] vault entry (SEC Enforcement Collapse section).
+
+---
+
+## Sources
+
+### Needed
+- SEC Chair confirmation record (Senate vote, April 2025)
+- Patomak Global Advisors client list and financial disclosures
+- 2002–2008 SEC Commissioner voting record
+- Senate confirmation hearing transcripts
+- Atkins public statements on crypto regulation (2009–2024)
+- House Financial Services Committee Democrats' January 2026 letter protesting crypto dismissals
+- Cornerstone Research 2025 SEC enforcement year-in-review
+
+---
+
+**Status:** Stub created 2026-04-09 to preserve vault connections. Atkins is a critical node in the crypto-industry regulatory capture narrative. Full build-out requires documentation of Patomak Global Advisors' client base (which illuminates his revolving-door positioning), his 2002–2008 SEC record (which establishes his deregulatory priors), and his 2025 confirmation and enforcement rollback timeline. This profile should eventually rival [[_Donald Trump Master Profile|Trump's]] for SEC-related crypto regulation documentation.

@@ -2,16 +2,13 @@
 title: "Prescription Drug Pricing - PBM Veto Cycle"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Economic Policy - Donors and Backers]]"
+related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Economic Policy - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Single-Payer Broken Promise]] · [[CalRx - The Genuine Win With Caveats]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
-
-
 #newsom #healthcare #prescription-drugs #PBM #veto #private-equity #donor-class #follow-the-money #flip-history #unitedhealth #optum
 
-related: [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] | [[Single-Payer Broken Promise]] | [[CalRx - The Genuine Win With Caveats]] | [[_Gavin Newsom Master Profile]]
 donors: [[Blue Shield of California]] | [[UnitedHealth Group - Optum]] | [[Anthem - Elevance Health]]
 
 ---
@@ -104,4 +101,3 @@ Newsom killed SB 24 with minimal explanation ("existing oversight is sufficient"
 - [ProPublica: Why Do Americans Pay More for Prescription Drugs?](https://www.propublica.org/article/why-americans-pay-more-for-prescription-drugs) (Tier 2)
 - [Capital & Main: Newsom's Healthcare Donor Problem](https://capitalandmain.com/newsom-promised-california-a-lithium-bonanza-it-still-hasnt-arrived) (Tier 2)
 
-content-readiness:: ready

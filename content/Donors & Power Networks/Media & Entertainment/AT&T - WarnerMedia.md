@@ -2,7 +2,7 @@
 title: "AT&T"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -25,7 +25,7 @@ lobbying-spend: 21040000
 lobbying-filings: 28
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]]"
+related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Walt Disney Company]] · [[iHeartMedia]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 91608
 total-assets: 252342
@@ -42,10 +42,7 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. New York"
 ---
-
 #att #telecom #media #net-neutrality #lobbying #merger #surveillance #broadband
-
-related: [[Comcast - NBCUniversal]] [[Verizon]] [[Walt Disney Company]]
 
 ---
 
@@ -84,8 +81,6 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 - [FCC: Net neutrality rulemaking docket](https://www.fcc.gov/restoring-internet-freedom) (Tier 1)
 - [SEC: AT&T 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=AT%26T%20-%20WarnerMedia&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: AT&T](https://ballotpedia.org/AT&T) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

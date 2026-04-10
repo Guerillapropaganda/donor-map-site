@@ -26,11 +26,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 ---
-
 #rand-paul #senate #kentucky #libertarian #koch-network #ukraine #class-analysis #isolationism
-
-related: [[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · _Ron Paul · [[_Donald Trump Master Profile]]
 
 donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]] · Libertarian Donor Network
 

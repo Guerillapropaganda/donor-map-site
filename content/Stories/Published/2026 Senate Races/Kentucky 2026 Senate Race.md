@@ -10,13 +10,11 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Mitch McConnell Master Profile|McConnell]]"
 ---
-
 #2026-election #senate #kentucky #race-frame
 
 tags: #analysis #story
-
-related:: [[_Mitch McConnell Master Profile|McConnell]] · Andy Barr · Daniel Cameron · Nate Morris · Charles Booker · Amy McGrath
 
 donors:: Churchill Downs · Alliance Resource Partners · Tamara Gustavson · Elon Musk · Keep America Great PAC · Fight for Kentucky PAC
 

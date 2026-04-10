@@ -2,12 +2,12 @@
 title: "Center on Budget and Policy Priorities"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]]"
+related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]]"
 court-cases: 159
 last-enriched: "2026-04-08"
 court-jurisdictions:
@@ -44,7 +44,6 @@ sec-form-types:
 ---
 
 #think-tank #liberal #safety-net #anti-poverty #tax-policy #medicaid #SNAP #EITC #class-analysis
-
 
 ---
 
@@ -250,8 +249,6 @@ The Democracy Alliance connection and the Arabella Advisors dark money pipeline 
 - [MacArthur Foundation: Center on Budget and Policy Priorities grant history ($8.45M total)](https://www.macfound.org/grantee/center-on-budget-and-policy-priorities-990/) (Tier 1)
 - [CBPP: Executive Action Watch — real-time tracker of Trump executive actions affecting federal budget and safety net](https://www.cbpp.org/research/federal-budget/executive-action-watch) (Tier 3)
 - [CBPP: Administration's Radical Personnel Cuts Bypassed Congress and Lacked Transparency (2025)](https://www.cbpp.org/research/federal-budget/administrations-radical-personnel-cuts-bypassed-congress-and-lacked) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

@@ -2,12 +2,12 @@
 title: "RAND Corporation"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
-related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center for American Progress]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
+related: "[[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center for American Progress]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 ein: "951958142"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
@@ -16,7 +16,6 @@ total-assets: 743919280
 ---
 
 #think-tank #centrist #defense #national-security #FFRDC #government-contracts #revolving-door #AI-policy #class-analysis
-
 
 ---
 
@@ -224,8 +223,6 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 - [Wikipedia: RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) (Tier 3)
 - [RAND: Matthew Pottinger and Stefanie Tompkins Elected to Board](https://www.rand.org/news/press/2025/03/matthew-pottinger-and-stefanie-tompkins-elected-to.html) (Tier 3)
 - [Surf Santa Monica: RAND Lays Off Nearly One-Third of Remaining Workforce](https://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2025/October-2025/10_24_2025_RAND_Lays_Off_Nearly_One_Third_of_Remaining_Workforce.html) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

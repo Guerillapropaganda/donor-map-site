@@ -2,7 +2,7 @@
 title: "Eli Broad Foundation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Education"
@@ -16,15 +16,11 @@ total-revenue: 163352987
 total-assets: 1860562867
 lei: "549300MEWH8MEHZXWM71"
 lei-jurisdiction: "US-CA"
-related: "[[CTA - California Teachers Association]] · [[Michael Bennet]]"
+related: "[[CTA - California Teachers Association]] · [[Michael Bennet]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Walton Family Foundation]] · [[UnitedHealth Group - Optum]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ---
-
-
 #donor #billionaire-philanthropy #eli-broad #education-reform #charter-schools #broad-academy #corporate-model #class-analysis #democratic-donor #california #follow-the-money
-
-related: [[_Gavin Newsom Master Profile]] | [[Education - Donors and Backers]] | [[Charter Schools and the Billionaire Reform Movement]] | [[California Charter Schools Association]] | [[Walton Family Foundation]]
 
 ---
 
@@ -116,9 +112,6 @@ Education — charter schools, superintendent appointments, teacher accountabili
 - [PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private) (Tier 3)
 - [LA Times: Broad Foundation and LAUSD](https://www.latimes.com/topic/education) (Tier 2)
 - Diane Ravitch, *Reign of Error* (2013) — Broad model analysis (Tier 2)
-
-research-status:: ready — $600M education spending, Broad Academy superintendent pipeline, LAUSD/Oakland/SD placements, charter network funding, KIPP/Green Dot/Alliance grants, Democratic mega-donor, corporate model education reform. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ---
 

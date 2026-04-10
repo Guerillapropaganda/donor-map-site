@@ -2,7 +2,7 @@
 title: "Blackstone Real Estate"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -34,7 +34,7 @@ court-jurisdictions:
   - "District Court, S.D. Mississippi"
   - "United States Bankruptcy Court, C.D. California"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Real Estate Industry]]"
+related: "[[Real Estate Industry]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Roundtable]] · [[Stephen Schwarzman]] · [[National Rental Home Council]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[Real Estate Industry Bloc]]"
 ein: "333183362"
 nonprofit-status: "501(c)(3)"
 lobbying-spend: 4450000
@@ -42,10 +42,7 @@ lobbying-filings: 51
 lei: "549300T4DTSY6511ZQ86"
 lei-jurisdiction: "US-DE"
 ---
-
 #blackstone #real-estate #housing #rents #private-equity #schwarzman #institutional-landlord #institutional-landlords #invitation-homes #breit #landlordism
-
-related: [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Roundtable]] · [[Stephen Schwarzman]] · [[National Rental Home Council]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]]
 
 ---
 
@@ -195,10 +192,6 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 - [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2)
 - [Vox: Opportunity Zones — Sean Parker wealth tax](https://www.vox.com/2018/10/16/17940120/opportunity-zones-sean-parker-silicon-valley-wealth-taxes) (Tier 2)
 - [Novoco: Opportunity Zones impact and OZ 2.0 expansion](https://www.novoco.com/notes-from-novogradac/tax-teams-series-highlighting-the-impact-of-the-opportunity-zones-incentive) (Tier 2) (UNVERIFIED)
-
-research-status:: developed — Expanded Invitation Homes (now 94K homes post-2025, $7B profit realized), BREIT re-entry (63.9K SFR homes, AIR acquisition 30K multifamily), San Diego 38-79% rent escalation. Added revolving door detail: Craig Phillips, Brian Deese, Bill Pulte (FHFA capture), Scott Turner (HUD). PE landlord bloc mapping (350K homes across 5 operators). NRHC founding (March 2014) and lobbying growth ($200K→$460K). Opportunity Zones engineering (Parker $8.5M, OZ 2.0 2025). Policy timeline expanded 18 rows (17-2025) with 12 industry wins, 2 tenant wins, 2 compromises. All new URLs marked UNVERIFIED.
-
-content-readiness:: developed
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

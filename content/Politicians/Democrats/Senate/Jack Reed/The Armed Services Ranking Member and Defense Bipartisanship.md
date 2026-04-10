@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jack Reed Master Profile]] · [[_Roger Wicker Master Profile|Roger Wicker]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Boeing]]"
 ---
-
 #reed #armed-services #defense #rhode-island #bipartisan #submarine #general-dynamics
-
-related: [[_Jack Reed Master Profile]] [[_Roger Wicker Master Profile|Roger Wicker]] [[Lockheed Martin]] [[Northrop Grumman]] [[Boeing]]
 
 donors: [[Lockheed Martin]] [[Northrop Grumman]] [[Boeing]] [[Raytheon (RTX)|Raytheon]]
 

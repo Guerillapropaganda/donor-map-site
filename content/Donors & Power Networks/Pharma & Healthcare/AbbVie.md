@@ -2,7 +2,7 @@
 title: "AbbVie"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -27,7 +27,7 @@ total-assets: 217738010
 federal-awards-total: 378082
 federal-contracts-count: 20
 federal-grants-count: 0
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]]"
 federal-register-mentions: 121
 regulatory-agencies:
   - "Centers for Medicare & Medicaid Services"
@@ -51,10 +51,7 @@ court-jurisdictions:
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, E.D. Virginia"
 ---
-
 #abbvie #pharma #humira #drug-pricing #patent #lobbying
-
-related: [[PhRMA]] [[Pfizer]] [[Johnson & Johnson]]
 
 ---
 
@@ -89,8 +86,6 @@ AbbVie filed 132 patents on Humira — covering the drug itself, the delivery de
 - [I-MAK: Overpatented, Overpriced — Humira patent analysis](https://www.i-mak.org/humira/) (Tier 2)
 - [STAT News: AbbVie's Humira patent thicket strategy](https://www.statnews.com/pharmalot/2022/03/08/abbvie-humira-patent-biosimilar/) (Tier 2)
 - [Ballotpedia: AbbVie political spending](https://ballotpedia.org/AbbVie) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

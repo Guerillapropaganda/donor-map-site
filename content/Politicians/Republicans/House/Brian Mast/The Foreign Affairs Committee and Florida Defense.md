@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Brian Mast Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Lockheed Martin]]"
 ---
-
 #mast #florida #foreign-affairs #defense #israel #veterans #wounded-warrior
-
-related: [[_Brian Mast Master Profile]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Lockheed Martin]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Lockheed Martin]]
 

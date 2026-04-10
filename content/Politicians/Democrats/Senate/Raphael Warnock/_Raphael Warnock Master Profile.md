@@ -1,17 +1,30 @@
 ---
 title: Raphael Warnock Master Profile
 type: politician
-content-readiness: draft
-last-updated: '2026-04-09'
+content-readiness: ready
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: Democrat
 chamber: Senate
 state: Georgia
 state-abbr: GA
+bioguide-id: W000790
+committees:
+  - "Agriculture, Nutrition, and Forestry"
+  - "Banking, Housing, and Urban Affairs"
+  - "Commerce, Science, and Transportation"
+  - "Special Committee on Aging"
+issues:
+  - "Healthcare"
+  - "Voting Rights"
+  - "Racial Justice"
+  - "Religious Authority / Moral Framing"
+  - "Tech & Media Policy"
 top-donors:
-  - Tech and Media Donors
-  - Healthcare Sector
+  - "National tech / media donors ($13.4M from California 2022)"
+  - "Healthcare sector PAC donors"
+  - "Out-of-state individual donors (92% of 2022 cycle)"
 total-received: '$6,047,785'
 fec-candidate-id: S0GA00559
 govtrack-id: 456858
@@ -23,23 +36,25 @@ source-types:
   - Congress
   - FEC
   - GovTrack
-corroboration-count: 3
+  - SenateOfficial
+corroboration-count: 4
 known-gaps:
-  - No mapped relationships
-opposes: >-
-  [[AMERICAN CROSSROADS]] · [[SENATE LEADERSHIP FUND]] · [[PEACHTREE PAC]] ·
-  [[NRSC]]
+  - CNA single-payer pressure documented in body but no direct CNA primary source cited
+  - $170M combined 2020-2022 fundraising figure needs FEC filing cross-check (currently cited via aggregated state-level breakdowns without URL)
+opposes: "[[AMERICAN CROSSROADS]] · [[SENATE LEADERSHIP FUND]] · [[PEACHTREE PAC]] · [[NRSC]]"
+related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]]"
+donors:
+  - "Tech and Media Donors (national)"
+  - "Healthcare Sector"
+  - "Worker Power PAC for Georgia"
+  - "Out-of-state individual donors (92% of 2022 cycle)"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: verified-candidate
+editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC, Congress.gov with verified bioguide W000790, GovTrack, warnock.senate.gov). Strong class analysis framing: 'moral authority brand vs. corporate Democrat alignment' — the MLK pulpit as political asset question. 2020 vs 2022 donor base shift documented (2020: unemployed median donor, grassroots-heavy; 2022: 92% out-of-state, tech/entertainment/finance dominant). Core contradiction well-drawn: Ebenezer Baptist pulpit grants moral authority derived from King's Poor People's Campaign legacy, but Senate record aligns with healthcare/tech donor interests, not King's economic vision. Donation-to-policy timeline broken down by sector (National Donor Machine, Tech/Infrastructure, Healthcare/Pharma). FIXED: converted opposes field from YAML folded scalar to single-line quoted string (same pattern that broke Tucker Carlson and Hillary Clinton — preventive fix). FIXED: removed inline body donors:: and profile-status:: dataview lines per frontmatter-only rule. FIXED: removed duplicate --- after frontmatter. Added bioguide-id W000790, committees list, structured opposes/donors, expanded issues. Zero A000383 contamination, zero (URL NEEDED) tags, DOJ auto-block already stripped earlier this session. Ready for editor review."
 ---
-
 #raphael-warnock #senate #georgia #mlk #ebenezer-baptist #moral-authority #fundraising #corporate-democrat #class-analysis
 
-related: [[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]]
-
-donors: [[Tech and Media Donors]] · [[Healthcare Sector]] · [[WORKER POWER PAC FOR GEORGIA]]
-
-profile-status:: ready
-
----
 ---
 
 ## Who He Is

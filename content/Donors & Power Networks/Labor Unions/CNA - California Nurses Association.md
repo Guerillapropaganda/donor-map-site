@@ -2,7 +2,7 @@
 title: "CNA - California Nurses Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -16,14 +16,10 @@ total-political-spend: "$319,800"
 sec-filings: 1
 sec-form-types:
   - "EX-10.1"
-related: "[[Tom Steyer Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Medicare for All - The Policy That Broke the Party]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Populist Billionaire Contradiction]]"
+related: "[[Tom Steyer Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Medicare for All - The Policy That Broke the Party]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Populist Billionaire Contradiction]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 last-enriched: "2026-04-09"
 ---
-
-
 #donor #union #CNA #NNU #nurses #healthcare #labor #class-analysis #follow-the-money #california #national #single-payer #CalCare #staffing-ratios #kaiser
-
-related: [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]]
 
 ---
 
@@ -143,9 +139,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 - [California Legislature: AB 1400 bill history](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=202120220AB1400) (Tier 2)
 - [Physicians for a National Health Program: AB 1400 analysis](https://pnhp.org/news/california-single-payer-legislation-ab-1400/) (Tier 2)
 - [National Nurses United: Healthcare research and advocacy](https://www.nationalnursesunited.org/) (Tier 2)
-
-research-status:: ready — Full citation pass complete. CNA/NNU 225K+ members, $5.9M 2024 cycle, $9.4M Super PAC, single-payer legislative history (SB 562, AB 1400, AB 2200), Newsom betrayal documented, staffing ratio victory (AB 394), Kaiser AI strike March 2026, NUHW alliance, class analysis of union vs. healthcare donor class. 7 sources, Tier 1-2. All ### headers, callout blocks verified. Promoted Session 38k.
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

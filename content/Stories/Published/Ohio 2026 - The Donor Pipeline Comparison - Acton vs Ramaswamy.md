@@ -5,13 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Ohio 2026 Governor Race - The Structural Landscape]] · [[Amy Acton Master Profile]]"
+related: "[[Ohio 2026 Governor Race - The Structural Landscape]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile]] · [[Jeff Yass]] · [[Peter Thiel]] · [[EMILY's List]]"
 ---
-
-
 #ohio #governor-2026 #acton #ramaswamy #donor-analysis #class-analysis #follow-the-money
-
-related: [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile]] · [[Jeff Yass]] · [[Peter Thiel]] · [[EMILY's List]]
 
 donors: (none — this is an analysis piece)
 
@@ -173,4 +169,3 @@ The race pivots on three money movements over the next 7 months:
 - [DOGE 32-day timeline, Elon Musk departure, Ramaswamy exit](https://www.reuters.com/world/us/2025-musk-departs-doge) (Tier 2)
 - [Roivant Social Ventures DEI initiatives contradiction](https://www.roivant.com/social-ventures) (Tier 2)
 
-content-readiness:: ready

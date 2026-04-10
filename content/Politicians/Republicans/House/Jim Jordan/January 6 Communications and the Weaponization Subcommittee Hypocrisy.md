@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Jim Jordan Master Profile]]
+related: "[[_Jim Jordan Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kash Patel Master Profile]] · [[_Steve Bannon Master Profile]]"
 ---
-
-
 #jim-jordan #january-6 #weaponization #subpoena #trump #judiciary #class-analysis
 
-related: [[_Jim Jordan Master Profile]] [[_Donald Trump Master Profile]] [[_Kash Patel Master Profile]] [[_Steve Bannon Master Profile]]
-
 donors: [[_Donald Trump Master Profile]]
-
-content-readiness:: ready
 
 ---
 

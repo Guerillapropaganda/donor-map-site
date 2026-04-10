@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Tom Steyer Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Tom Steyer Master Profile]] · [[CNA - California Nurses Association]] · [[The Self-Funded Billionaire Model]]"
 ---
-
-
 #tom-steyer #populist #billionaire #single-payer #CNA #class-contradiction #class-analysis
 
-related: [[_Tom Steyer Master Profile]] · [[CNA - California Nurses Association]] · [[The Self-Funded Billionaire Model]]
 donors: [[SEIU - Service Employees International Union|SEIU]]
 
 content-readiness:: ready

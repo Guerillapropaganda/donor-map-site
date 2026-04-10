@@ -2,7 +2,7 @@
 title: "Third Way"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: centrist
@@ -12,13 +12,12 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
 total-revenue: 60561784
 total-assets: 65953090
-related: "[[Goldman Sachs]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Democracy Alliance]] · [[Brookings Institution]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[RAND Corporation]] · [[Council on Foreign Relations]]"
+related: "[[Goldman Sachs]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Democracy Alliance]] · [[Brookings Institution]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Atlantic Council]]"
 lei: "213800S9PS2GFGFQQB08"
 lei-jurisdiction: "GB"
 ---
 
 #think-tank #centrist #wall-street #corporate-democrat #anti-progressive #class-analysis
-
 
 ---
 
@@ -206,8 +205,6 @@ The March 2026 "Winning the Middle" conference in Charleston makes the function 
 - [New Republic: ThinkProgress Was Always Doomed — structural analysis of CAP/Third Way donor-class dynamics (2019)](https://newrepublic.com/article/155011/thinkprogress-always-doomed) (Tier 2)
 - [Daily Kos: Meet the anti-progressive think tank pushing Democrats towards Trumpism — Comeback Retreat analysis (March 2025)](https://www.dailykos.com/stories/2025/3/8/2308767/-Meet-the-anti-progressive-think-tank-pushing-Democrats-towards-Trumpism) (Tier 2)
 - [CounterPunch: The Return of Regressive Third Way Politics to the Democrats (March 2025)](https://www.counterpunch.org/2025/03/06/the-return-of-regressive-third-way-politics-to-the-democrats/) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

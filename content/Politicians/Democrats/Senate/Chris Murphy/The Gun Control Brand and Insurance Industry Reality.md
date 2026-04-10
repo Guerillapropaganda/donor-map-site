@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chris Murphy Master Profile]] · [[National Rifle Association]] · [[_James Lankford Master Profile|Lankford]]"
 ---
-
 #murphy #connecticut #gun-control #sandy-hook #insurance #bipartisan #bvpa
-
-related: [[_Chris Murphy Master Profile]] [[National Rifle Association]] [[_James Lankford Master Profile|Lankford]]
 
 donors: [[Blue Cross Blue Shield Association]]
 

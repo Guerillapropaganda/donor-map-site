@@ -2,7 +2,7 @@
 title: "Tyson Foods"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Federal Maritime Commission"
   - "Food and Nutrition Service"
   - "Health and Human Services Department"
-related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
+related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]]"
 court-cases: 14521
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
@@ -48,10 +48,7 @@ court-jurisdictions:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ---
-
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration
-
-related: [[American Farm Bureau Federation]] [[_John Boozman Master Profile|Boozman]] [[National Cattlemen's Beef Association]]
 
 ---
 
@@ -82,14 +79,11 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: Tyson Foods organizational profile](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000443) (Tier 1)
 - [ProPublica: Meatpacking worker safety investigations](https://www.propublica.org/article/tyson-foods-secret-recipe-for-carving-up-workers-comp) (Tier 2) (VERIFIED)
 - ~~[Ballotpedia: Tyson Foods](https://ballotpedia.org/Tyson_Foods)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

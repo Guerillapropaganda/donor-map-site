@@ -19,17 +19,11 @@ top-donors:
   - "Chevron"
 total-received: "$3,631,602"
 fec-candidate-id: "H4WA05077"
-related: "[[Kevin McCarthy Master Profile]]"
+related: "[[Kevin McCarthy Master Profile]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Marathon Petroleum]] · [[Chevron]] · [[Microsoft]] · [[Amazon]]"
 ---
-
-
 #master-profile #republican #house #washington #energy-commerce #telecom #net-neutrality #pac-money
 
-related: Energy & Commerce Committee · AT&T PAC · Comcast PAC · [[Koch Network - Charles Koch|Koch Industries]] · [[Marathon Petroleum]] · [[Chevron]] · [[Microsoft]] · [[Amazon]] · House Republican Leadership
-
 donors: Corporate PACs - Energy & Commerce Sector · [[Oil & Gas PACs]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Marathon Petroleum]] · [[Chevron]] · AT&T PAC · Comcast PAC
-
-profile-status:: ready
 
 ---
 
@@ -174,10 +168,6 @@ Her committee position turned her funded-by relationship into actual regulatory 
 - [Seattle Times: What a WA rep's No. 1 ranking in corporate cash means for the climate](https://www.seattletimes.com/seattle-news/politics/what-a-wa-reps-no-1-ranking-in-corporate-cash-means-for-the-climate/) (Tier 2)
 - [ProPublica: McMorris Rodgers voting record](https://projects.propublica.org/represent/) (Tier 1)
 - [Congress.gov: House Energy and Commerce Committee](https://www.congress.gov/committee/house-energy-and-commerce/hsif00) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

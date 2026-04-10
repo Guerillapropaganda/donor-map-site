@@ -2,16 +2,15 @@
 title: "TYT Network - The Young Turks"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Dore]] · [[David Pakman]] · [[Sam Seder]] · [[John Oliver]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Hasan Piker]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Nate Silver]] · [[Matt Taibbi]] · [[Joe Rogan]] · [[Russell Brand]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Michael Knowles]]"
+related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Dore]] · [[David Pakman]] · [[Sam Seder]] · [[John Oliver]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Hasan Piker]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Nate Silver]] · [[Matt Taibbi]] · [[Joe Rogan]] · [[Russell Brand]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]]"
 ---
 
 #media-pipeline #left #media-network #tyt #progressive-media #venture-capital #audience-capture #labor-contradiction #independence-theater
-
 
 ---
 
@@ -231,4 +230,3 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 
 ---
 
-content-readiness:: ready

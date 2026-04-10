@@ -32,7 +32,7 @@ ein: 816166962
 annual-revenue: "$230K"
 net-assets: "$2.3M"
 tax-year: "2023"
-related: "[[Donald Trump Master Profile]] · [[Mark Kelly]] · [[Sherrod Brown]]"
+related: "[[Donald Trump Master Profile]] · [[Mark Kelly]] · [[Sherrod Brown]] · [[Citadel - Kenneth Griffin]] · [[_Ron DeSantis Master Profile|Ron DeSantis]]"
 sec-filings: 78
 sec-form-types:
   - "20-F"
@@ -55,10 +55,7 @@ sec-form-types:
   - "F-4/A"
   - "PART II AND III"
 ---
-
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian
-
-related: [[Citadel - Kenneth Griffin]] Donald Trump [[_Ron DeSantis Master Profile|Ron DeSantis]] Illinois politics Libertarian Policy Network
 
 ---
 
@@ -151,7 +148,6 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 - [The Guardian: Ken Griffin Illinois politics](https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin) *(source unavailable)* (Tier 3)
 - [Ballotpedia: Citadel CEO Kenneth Griffin](https://ballotpedia.org/Kenneth_Griffin) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

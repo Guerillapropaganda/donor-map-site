@@ -18,15 +18,11 @@ bills-cosponsored: 431
 website: "https://mcgovern.house.gov"
 phone: "202-225-6101"
 donors: "[[National Nurses United]]"
+related: "[[_Donald Trump Master Profile|Trump]]"
 ---
-
 #jim-mcgovern #democrat #massachusetts #house #rules-committee #ranking-member #human-rights #hunger #snap #tibet #china #saudi-arms #procedural #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -143,8 +139,6 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 - [GovTrack: Jim McGovern voting record](https://www.govtrack.us/congress/members/james_mcgovern/400263) (Tier 3)
 - [Ballotpedia: Jim McGovern](https://ballotpedia.org/Jim_McGovern_(Massachusetts)) (Tier 3)
 - [Wikipedia: Jim McGovern](https://en.wikipedia.org/wiki/Jim_McGovern_%28American_politician%29) (Tier 3)
-
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 

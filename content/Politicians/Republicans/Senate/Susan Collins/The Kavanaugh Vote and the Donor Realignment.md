@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Susan Collins Master Profile]]"
+related: "[[_Susan Collins Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Leonard Leo|Leonard Leo]] · [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]]"
 ---
-
 #susan-collins #kavanaugh #supreme-court #donors #class-analysis #follow-the-money
-
-related: [[_Susan Collins Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Leonard Leo|Leonard Leo]] · [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]]
 
 donors: [[Leonard Leo|Leonard Leo]] · Federalist Society · National conservative donor networks
 
@@ -82,4 +80,3 @@ By 2020, Collins relied almost entirely on out-of-state donors and dark money ne
 
 ---
 
-content-readiness:: ready

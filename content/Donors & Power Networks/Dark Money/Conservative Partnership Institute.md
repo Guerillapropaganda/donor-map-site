@@ -2,7 +2,7 @@
 title: "Conservative Partnership Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -24,7 +24,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
-related: "[[DeVos Family]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[Bradley Impact Fund]]"
+related: "[[DeVos Family]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[Bradley Impact Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[America First Policy Institute]] · [[DonorsTrust]] · [[American Federation for Children]]"
 ein: "821470217"
 annual-revenue: "$19.5M"
 net-assets: "$71.1M"
@@ -33,10 +33,7 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 34690942
 total-assets: 72296824
 ---
-
 #conservative-partnership-institute #cpi #dark-money #maga #jim-demint #mark-meadows #january-6
-
-related: [[_Donald Trump Master Profile|Trump]] [[Heritage Foundation]] [[America First Policy Institute]] [[DonorsTrust]]
 
 ---
 
@@ -62,8 +59,6 @@ CPI operates as a shadow personnel operation for the MAGA movement — performin
 - [IRS: CPI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Conservative%20Partnership%20Institute&city=&state=All+States&country=US) (Tier 1)
 - [ProPublica: Nonprofit Explorer - Conservative Partnership Institute](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 2)
 - [Ballotpedia: Conservative Partnership Institute](https://ballotpedia.org/Conservative_Partnership_Institute) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

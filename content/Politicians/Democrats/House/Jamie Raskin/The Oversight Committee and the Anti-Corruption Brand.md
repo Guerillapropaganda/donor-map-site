@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jamie Raskin Master Profile]] · [[_Donald Trump Master Profile|Trump]] · [[_James Comer Master Profile|James Comer]]"
 ---
-
 #raskin #oversight #anti-corruption #impeachment #jan6 #constitution
-
-related: [[_Jamie Raskin Master Profile]] [[_Donald Trump Master Profile|Trump]] [[_James Comer Master Profile|James Comer]]
 
 donors: [[ActBlue]] [[Silicon Valley Democratic Donor Network]]
 

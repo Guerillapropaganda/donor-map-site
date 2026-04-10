@@ -2,15 +2,12 @@
 title: "Elect Chicago Women Shell PAC Operation"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: "_Melissa Bean Master Profile"
-related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]]"
+related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[_Melissa Bean Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[AIPAC Illinois Shell PAC Operation]] · [[Think Big AI PAC and AI Policy Alignment]]"
 ---
-
 #aipac #shell-pac #dark-money #2026-election #illinois #il-8 #bean #class-analysis #follow-the-money #disclosure-evasion
-
-related: [[_Melissa Bean Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[AIPAC Illinois Shell PAC Operation]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]]
 
@@ -146,4 +143,3 @@ The result: AIPAC installs its preferred candidate in IL-8 without appearing on 
 - [AIPAC Coordinates Donors in Illinois House Primaries — The American Prospect](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2)
 - [Pro-Israel groups see mixed record in money-fuelled Illinois primaries — Al Jazeera](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 2)
 
-content-readiness:: developed

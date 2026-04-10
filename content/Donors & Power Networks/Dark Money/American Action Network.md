@@ -2,7 +2,7 @@
 title: "American Action Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -32,16 +32,13 @@ total-revenue: 74081200
 total-assets: 35265577
 fara-status: "registrant"
 fara-records: 1
-related: "[[National Association of Manufacturers]]"
+related: "[[National Association of Manufacturers]] · [[Congressional Leadership Fund]] · [[Heritage Foundation]] · [[US Chamber of Commerce]] · [[Republican Party Apparatus]] · [[PhRMA]] · [[One Nation]] · [[ALEC - American Legislative Exchange Council]] · [[Business Roundtable]] · [[American Petroleum Institute]]"
 total-political-spend: "$176,798,895"
 politicians-funded:
   - "Gary Peters"
 
 ---
-
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money
-
-related: [[Congressional Leadership Fund]] [[Heritage Foundation]] [[US Chamber of Commerce]] [[Republican Party Apparatus]] [[PhRMA]] [[One Nation]] [[ALEC - American Legislative Exchange Council]] [[Business Roundtable]]
 
 ---
 
@@ -197,8 +194,6 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 - [SourceWatch: American Action Network — founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network) (Tier 3)
 - [Ballotpedia: American Action Network](https://ballotpedia.org/American_Action_Network) (Tier 3)
 - [Wikipedia: American Action Network](https://en.wikipedia.org/wiki/American_Action_Network) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 

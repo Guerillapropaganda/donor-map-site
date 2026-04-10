@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Sam Graves Master Profile]] · [[US Chamber of Commerce]] · [[Boeing]]"
 ---
-
 #graves #missouri #transportation #infrastructure #aviation #highways #construction
-
-related: [[_Sam Graves Master Profile]] [[US Chamber of Commerce]] [[Boeing]]
 
 donors: [[US Chamber of Commerce]] [[Boeing]]
 

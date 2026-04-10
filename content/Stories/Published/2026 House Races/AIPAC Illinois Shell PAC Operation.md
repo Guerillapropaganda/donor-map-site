@@ -2,20 +2,17 @@
 title: "AIPAC Illinois Shell PAC Operation"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 2026 Senate Race]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 2026 Senate Race]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[2026 House Money Map]] · [[Intra-Republican Contradiction Map]]"
 ---
-
 #2026-election #house #illinois #aipac #shell-pac #dark-money #class-analysis
 
 tags: #analysis #story
-
-related:: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy Project - UDP]] [[2026 House Money Map]]
 
 donors:: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy Project - UDP]]
 
@@ -142,5 +139,3 @@ The AIPAC shell PAC operation demonstrates how the donor class maintains control
 
 ---
 
-content-readiness:: ready
-research-status:: active

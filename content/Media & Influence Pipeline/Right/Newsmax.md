@@ -12,7 +12,6 @@ related: "[[Richard Mellon Scaife - Conservative Movement Infrastructure]] · [[
 
 #media-pipeline #right #conservative-media #trump-aligned #qatari-money #foreign-investment #defamation #cable-carriage #profit-driven
 
-
 ---
 
 ### Who They Are
@@ -351,4 +350,3 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 
 ---
 
-content-readiness:: developed
