@@ -2,12 +2,12 @@
 title: Tucker Carlson
 type: media-profile
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: >-
+related: ">- · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]]"
   [[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim
   Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[Matt Walsh]] ·
   [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick

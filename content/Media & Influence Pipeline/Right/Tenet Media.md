@@ -2,12 +2,12 @@
 title: "Tenet Media"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tim Pool]] · [[Dave Rubin]] · [[Benny Johnson]] · [[Lauren Southern]] · [[Lauren Chen]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Rumble]] · [[Jordan Peterson]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]]"
+related: "[[Tim Pool]] · [[Dave Rubin]] · [[Benny Johnson]] · [[Lauren Southern]] · [[Lauren Chen]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Rumble]] · [[Jordan Peterson]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]]"
 ---
 
 #media-pipeline #right #media-network #dark-money #russian-money #doj-indictment #tenet-media #foreign-influence #fara

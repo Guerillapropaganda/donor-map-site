@@ -2,7 +2,7 @@
 title: "John McCain"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,7 +12,7 @@ bills-sponsored: 0
 bills-cosponsored: 0
 total-received: "$707,083"
 fec-candidate-id: "H2AZ01024"
-donors: "[[Patrick Soon-Shiong]]"
+donors: "[[Patrick Soon-Shiong]] · [[Christopher Ruddy]]"
 related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"

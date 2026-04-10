@@ -2,12 +2,12 @@
 title: "Jimmy Dore"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]] · [[Lee Camp]] · [[Rumble]]"
+related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]] · [[Lee Camp]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 ---
 
 #media-pipeline #left #youtube #rumble #force-the-vote #audience-swap #anti-establishment

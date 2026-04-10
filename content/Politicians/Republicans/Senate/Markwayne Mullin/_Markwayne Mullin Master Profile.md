@@ -2,7 +2,7 @@
 title: Markwayne Mullin
 type: politician
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -13,7 +13,7 @@ committees:
   - Armed Services
 total-received: '$4,666,234'
 fec-candidate-id: S2OK00186
-donors: '[[Devon Energy]] · [[DEFEND US PAC]] · [[CRYPTO INNOVATION]]'
+donors: "[[Devon Energy]] · [[DEFEND US PAC]] · [[CRYPTO INNOVATION]] · [[Fraternal Order of Police]]"
 related: '[[Kristi Noem]]'
 govtrack-id: 412568
 bills-sponsored: 23

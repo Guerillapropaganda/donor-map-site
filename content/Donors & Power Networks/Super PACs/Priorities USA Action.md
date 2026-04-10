@@ -2,14 +2,14 @@
 title: "Priorities USA Action"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]]"
+related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]] · [[John Fetterman Master Profile]]"
 ein: "833099604"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"

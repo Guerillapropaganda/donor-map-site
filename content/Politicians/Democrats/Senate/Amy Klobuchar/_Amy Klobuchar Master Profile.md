@@ -2,7 +2,7 @@
 title: "Amy Klobuchar"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -25,7 +25,7 @@ top-donors:
   - "Meta - Facebook"
 total-received: "$2,401,862"
 fec-candidate-id: "S6MN00267"
-donors: "[[Jewish Democratic Council of America]]"
+donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"

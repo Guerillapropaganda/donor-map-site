@@ -2,7 +2,7 @@
 title: "Jason Smith"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -33,7 +33,7 @@ bills-sponsored: 7
 bills-cosponsored: 27
 website: "https://jasonsmith.house.gov"
 phone: "202-225-4404"
-donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]]"
+donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]]"
 ---
 

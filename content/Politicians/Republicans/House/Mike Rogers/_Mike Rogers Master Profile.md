@@ -2,7 +2,7 @@
 title: "Mike Rogers"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,7 +17,7 @@ issues:
 top-donors:
   - "Lockheed Martin"
   - "Boeing"
-donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]]"
+donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]]"
 related: "[[The Armed Services Committee and Progressive Defense Paradox]]"
 ---
 

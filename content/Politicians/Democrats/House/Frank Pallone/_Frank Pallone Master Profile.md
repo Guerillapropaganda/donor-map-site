@@ -2,7 +2,7 @@
 title: "Frank Pallone"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,7 +23,7 @@ top-donors:
   - "PhRMA"
 total-received: "$1,311,209"
 fec-candidate-id: "H8NJ03073"
-donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]]"
+donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
 

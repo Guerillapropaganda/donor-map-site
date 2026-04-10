@@ -2,7 +2,7 @@
 title: Hillary Clinton
 type: politician
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Democrat
@@ -24,7 +24,7 @@ doj-components:
   - 'USAO - New York, Northern'
   - 'USAO - Ohio, Northern'
   - 'USAO - Ohio, Southern'
-donors: >-
+donors: ">- · [[Entertainment and Hollywood Donors]]"
   [[Entertainment and Hollywood Donors]] · [[UNITED ASSOCIATION POLITICAL
   EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE
   PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]] · [[FAIR

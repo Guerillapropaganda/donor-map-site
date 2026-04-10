@@ -2,7 +2,7 @@
 title: "Pete Aguilar"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,7 +14,7 @@ committees:
   - "Appropriations"
 total-received: "$3,026,029"
 fec-candidate-id: "H2CA31125"
-donors: "[[AFSCME - American Federation of State County and Municipal Employees]] · [[Blue Shield of California]]"
+donors: "[[AFSCME - American Federation of State County and Municipal Employees]] · [[Blue Shield of California]] · [[UAW - United Auto Workers]]"
 ---
 
 #aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc

@@ -2,7 +2,7 @@
 title: "Sheldon Whitehouse"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -57,6 +57,7 @@ corroboration-count: 3
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+donors: "[[Fraternal Order of Police]]"
 ---
 
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel

@@ -2,7 +2,7 @@
 title: "The Gubernatorial Pivot - From Sheriff to Culture War Candidate"
 type: politician
 content-readiness: draft
-last-updated: 2026-03-24
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 known-gaps:
@@ -10,6 +10,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+donors: "[[Rebekah Mercer]]"
 ---
 
 #bianco #governor #2026 #california #republican #class-analysis #culture-war #trump #campaign #follow-the-money #gubernatorial

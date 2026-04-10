@@ -2,7 +2,7 @@
 title: Mark Green
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -27,6 +27,7 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 opposes: '[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]'
+donors: "[[Fraternal Order of Police]]"
 ---
 
 

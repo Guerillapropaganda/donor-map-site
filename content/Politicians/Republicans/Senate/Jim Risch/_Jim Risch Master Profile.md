@@ -2,7 +2,7 @@
 title: "Jim Risch"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,7 +17,7 @@ issues:
 top-donors:
   - "AIPAC"
 related: "[[Idaho 2026 Senate Race]]"
-donors: "[[NORPAC]]"
+donors: "[[NORPAC]] · [[Heritage Foundation]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: "AIPAC - American Israel Public Affairs Committee"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -25,7 +25,7 @@ ofac-programs:
 total-political-spend: "$790,700"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Michigan 2026 Senate Race]] · [[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Marco Rubio Master Profile]] · [[The University Donor Hearings and Antisemitism Politics]] · [[The Political Evolution - From Moderate to MAGA and the Donor Incentive]] · [[The Harvard Hearings and the Israel Lobby Alignment]] · [[Tom Cotton Master Profile]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[Defense Contractors and the Permanent War Donor Base]] · [[Virginia Foxx]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]]"
+related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Michigan 2026 Senate Race]] · [[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Marco Rubio Master Profile]] · [[The University Donor Hearings and Antisemitism Politics]] · [[The Political Evolution - From Moderate to MAGA and the Donor Incentive]] · [[The Harvard Hearings and the Israel Lobby Alignment]] · [[Tom Cotton Master Profile]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[Defense Contractors and the Permanent War Donor Base]] · [[Virginia Foxx]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Benjamin Netanyahu Master Profile]]"
 opposes: "[[Katie Halper]] · [[Abby Martin]]"
 ein: "530217164"
 nonprofit-status: "501(c)(4)"

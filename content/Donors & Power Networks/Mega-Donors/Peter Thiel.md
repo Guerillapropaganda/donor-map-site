@@ -2,7 +2,7 @@
 title: Peter Thiel
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -19,7 +19,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-09"
 regulatory-agencies:
   - Federal Trade Commission
-related: >-
+related: ">- · [[The Thiel Pipeline - From Yale to VP]]"
   [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor
   Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires
   Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master

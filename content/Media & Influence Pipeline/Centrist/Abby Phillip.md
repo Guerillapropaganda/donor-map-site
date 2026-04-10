@@ -2,12 +2,12 @@
 title: "Abby Phillip"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]]"
+related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]]"
 ---
 
 #media-pipeline #centrist #CNN #corporate-media #institutional-capture #warner-bros-discovery #paramount

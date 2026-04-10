@@ -2,7 +2,7 @@
 title: "Leonard Leo"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Leonard Leo.md"
@@ -30,7 +30,7 @@ sec-form-types:
   - "S-1/A"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[The Leo Pipeline and Operation Higher Court]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[John Roberts Master Profile]] · [[The Institutionalist Brand - Strategic Defections and Legitimacy Management]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Brett Kavanaugh Master Profile]] · [[The 17 Million Dollar Confirmation and the Leonard Leo Pipeline]] · [[Amy Coney Barrett Master Profile]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[The 22 Million Dollar Confirmation and the McConnell Precedent Reversal]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Russell Vought Master Profile]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The 31 Rollbacks and the Projected 200000 Premature Deaths]] · [[The Interior Department as Fossil Fuel Policy Vehicle]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[The Leo Pipeline and Operation Higher Court]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[John Roberts Master Profile]] · [[The Institutionalist Brand - Strategic Defections and Legitimacy Management]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Brett Kavanaugh Master Profile]] · [[The 17 Million Dollar Confirmation and the Leonard Leo Pipeline]] · [[Amy Coney Barrett Master Profile]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[The 22 Million Dollar Confirmation and the McConnell Precedent Reversal]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Russell Vought Master Profile]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The 31 Rollbacks and the Projected 200000 Premature Deaths]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[The Kavanaugh Vote and the Donor Realignment]]"
 doj-press-mentions: "264414"
 last-enriched: "2026-04-09"
 doj-components:

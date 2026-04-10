@@ -2,7 +2,7 @@
 title: "Crypto Industry Bloc"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -21,7 +21,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Billionaire Network]] · [[Cantor Fitzgerald Tether and the Crypto Reserve Play]] · [[Ted Cruz Master Profile]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[The Finance Committee and Tax Industry Alignment]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto and Tech - Donors and Backers]] · [[Patrick McHenry Master Profile]] · [[Nancy Mace]] · [[Fairshake and the Crypto Industry War]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Steve Witkoff]] · [[The AI-Crypto Czar and the Portfolio Conflict]] · [[Bernie Moreno]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]]"
+related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Billionaire Network]] · [[Cantor Fitzgerald Tether and the Crypto Reserve Play]] · [[Ted Cruz Master Profile]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[The Finance Committee and Tax Industry Alignment]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto and Tech - Donors and Backers]] · [[Patrick McHenry Master Profile]] · [[Nancy Mace]] · [[Fairshake and the Crypto Industry War]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Steve Witkoff]] · [[The AI-Crypto Czar and the Portfolio Conflict]] · [[Bernie Moreno]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[The FIT21 Act and Crypto Industry Capture]]"
 ---
 
 

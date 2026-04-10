@@ -2,7 +2,7 @@
 title: "Mark Takano"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,7 +16,7 @@ leadership-roles:
   - "Ranking Member"
 total-received: "$524,547"
 fec-candidate-id: "H2CA43245"
-donors: "[[National Nurses United]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
+donors: "[[National Nurses United]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[UAW - United Auto Workers]]"
 ---
 
 
