@@ -48,7 +48,7 @@ proclamations: 706
 
 #trump #master-profile #president #republican #class-analysis #follow-the-money #fascist #grifter #billionaire-populism #donor-class #oligarch
 
-### Who He Is
+## Who He Is
 
 Donald John Trump. Born June 14, 1946, in Queens, New York. Republican. 45th and 47th President of the United States. Real estate heir turned casino bankrupter turned reality TV host turned president turned convicted felon turned president again. Net worth fluctuates wildly depending on who's counting and what his stock is doing — somewhere between $2 billion and $6 billion, much of it in branding value and Truth Social stock rather than liquid assets.
 
@@ -56,7 +56,7 @@ Born into wealth — not self-made, despite the mythology. Fred Trump's real est
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist fraud who scams in every direction simultaneously — extracting from the working class through false promises and culture war distraction, extracting from the billionaire class through access-selling and institutional capture, and extracting from the state itself through contracts, deregulation, and direct personal enrichment schemes.
 
@@ -66,7 +66,7 @@ The fascism is real — the authoritarian consolidation, the movement politics, 
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Trump's brand is built on one claim: he fights for the working class against a corrupt elite.
@@ -77,7 +77,7 @@ The working-class voters who wear the hat get the culture war. The billionaires 
 
 ---
 
-### The Donor Class Map — 2024
+## The Donor Class Map — 2024
 
 Trump's 2024 campaign and affiliated groups raised approximately $1.45 billion. About 44% came from just 10 megadonors. Small-dollar donations (under $200) collapsed from roughly 50% of his fundraising in 2020 to under 30% in 2024. The populist movement is funded by oligarchs. [Source: OpenSecrets — Tier 1; Brennan Center — Tier 2]
 
@@ -110,7 +110,7 @@ Trump's 2024 campaign and affiliated groups raised approximately $1.45 billion. 
 
 ---
 
-### The Personal Grift — Trump's Side Hustles
+## The Personal Grift — Trump's Side Hustles
 
 This is what separates Trump from a standard corporate Republican. He is not just selling policy to donors — he is running parallel extraction operations that target his own supporters:
 
@@ -126,7 +126,7 @@ This is what separates Trump from a standard corporate Republican. He is not jus
 
 ---
 
-### The 2017 Tax Cuts — The Clearest Pipeline
+## The 2017 Tax Cuts — The Clearest Pipeline
 
 The Tax Cuts and Jobs Act is the single cleanest donor-to-policy transaction in the database:
 
@@ -141,7 +141,7 @@ The benefits were distributed upward. The standard deduction increase and child 
 
 ---
 
-### The Epstein Class — A Biographical Note
+## The Epstein Class — A Biographical Note
 
 Trump's social world before politics was the New York billionaire circuit of the 1990s and 2000s — the same world that produced Jeffrey Epstein's network. Documented facts in the public record:
 
@@ -154,7 +154,7 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 ---
 
-### Connections to Existing Vault
+## Connections to Existing Vault
 
 **Bianco:** Trump endorsement, America First Legal sanctuary lawsuit ([[_Stephen Miller Master Profile|Stephen Miller]]), immigration enforcement cooperation, gubernatorial campaign positioning. Bianco is the local-level implementation of the Trump model — constitutional sheriff ideology meets MAGA politics. [See: [[287(g) and the Sanctuary State Contradiction]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]]
 
@@ -187,7 +187,7 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 ---
 
 #<!-- auto:executive-orders start -->
-### Executive Orders (Federal Register)
+## Executive Orders (Federal Register)
 
 | Document Type | Count |
 |--------------|-------|
@@ -246,7 +246,7 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Trump's tax cuts, deregulation, and fossil fuel policies are real victories for his billionaire/corporate donor base, but stop short of dismantling the regulatory state entirely. His wins advance wealthy donor interests without comprehensive institutional transformation.
 
@@ -256,7 +256,7 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Israel Lobby
 
@@ -347,7 +347,7 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 profile-status:: ready — master profile fully built with inline citations. All bold headers converted to ### format. Mega-donors individually sourced (OpenSecrets Tier 1, Brennan Center Tier 2). Industry sectors (fossil fuel, crypto, tech, private prisons, defense) documented with source tier labels. Donation-to-policy timeline with temporal mapping. MAGA Inc 2026 war chest ($300M) documented. March 2026 updates (Iran war, executive orders, DHS shutdown). 17 policy sub-notes linked. Promoted to ready Session 
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

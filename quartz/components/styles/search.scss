@@ -11,8 +11,8 @@
     background-color: transparent;
     border: 1px var(--lightgray) solid;
     border-radius: 0;
-    font-family: inherit;
-    font-size: inherit;
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
     height: 2rem;
     padding: 0 1rem 0 0;
     display: flex;
@@ -21,6 +21,11 @@
     cursor: pointer;
     white-space: nowrap;
     width: 100%;
+    transition: border-color 0.15s;
+
+    &:hover {
+      border-color: var(--dark);
+    }
 
     & > p {
       display: inline;
@@ -52,7 +57,8 @@
     height: 100vh;
     overflow-y: auto;
     display: none;
-    backdrop-filter: blur(4px);
+    backdrop-filter: blur(8px);
+    background: rgba(10, 10, 10, 0.5);
 
     &.active {
       display: inline-block;
@@ -60,7 +66,7 @@
 
     & > .search-space {
       width: 65%;
-      margin-top: 12vh;
+      margin-top: 10vh;
       margin-left: auto;
       margin-right: auto;
 
@@ -70,7 +76,7 @@
 
       & > * {
         width: 100%;
-        border-radius: 7px;
+        border-radius: 0;
         background: var(--light);
         box-shadow: none;
         margin-bottom: 2em;
@@ -78,23 +84,27 @@
 
       & > input {
         box-sizing: border-box;
-        padding: 0.5em 1em;
-        font-family: var(--bodyFont);
+        padding: 0.75em 1em;
+        font-family: 'Space Mono', monospace;
         color: var(--dark);
         font-size: 1.1em;
-        border: 1px solid var(--lightgray);
+        border: 2px solid var(--dark);
+        border-radius: 0;
+        background: var(--light);
 
         &:focus {
           outline: none;
+          border-color: #fbbf24;
         }
       }
 
       & > .search-layout {
         display: none;
         flex-direction: row;
-        border: 1px solid var(--lightgray);
+        border: 2px solid var(--dark);
         flex: 0 0 100%;
         box-sizing: border-box;
+        border-radius: 0;
 
         &.display-results {
           display: flex;
@@ -127,7 +137,7 @@
 
         & > div {
           height: calc(75vh - 12vh);
-          border-radius: 5px;
+          border-radius: 0;
         }
 
         @media all and ($mobile) {
@@ -145,8 +155,8 @@
         }
 
         & .highlight {
-          background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
-          border-radius: 5px;
+          background: rgba(251, 191, 36, 0.3);
+          border-radius: 0;
           scroll-margin-top: 2rem;
         }
 
@@ -178,7 +188,7 @@
             overflow: hidden;
             padding: 1em;
             cursor: pointer;
-            transition: background 0.2s ease;
+            transition: background 0.15s ease;
             border-bottom: 1px solid var(--lightgray);
             width: 100%;
             display: block;
@@ -197,11 +207,13 @@
             &:hover,
             &:focus,
             &.focus {
-              background: var(--lightgray);
+              background: #ece6dd;
+              border-left: 3px solid #fbbf24;
             }
 
             & > h3 {
               margin: 0;
+              font-weight: 900;
             }
 
             @media all and not ($mobile) {
@@ -217,7 +229,7 @@
 
             & > ul > li > p {
               border-radius: 0;
-              background-color: var(--highlight);
+              background-color: rgba(251, 191, 36, 0.15);
               padding: 0.2rem 0.4rem;
               margin: 0 0.1rem;
               line-height: 1.4rem;
