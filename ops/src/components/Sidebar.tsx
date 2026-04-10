@@ -36,13 +36,33 @@ const ICONS: Record<string, string> = {
   book: "M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253",
 }
 
+interface StatusBadges {
+  alerts?: { critical: number }
+  notes?: { open: number }
+  suggestions?: { highPending: number }
+}
+
 export function Sidebar() {
   const pathname = usePathname()
   const router = useRouter()
   const [mobileOpen, setMobileOpen] = useState(false)
+  const [badges, setBadges] = useState<StatusBadges>({})
 
   // Close mobile sidebar on navigation
   useEffect(() => { setMobileOpen(false) }, [pathname])
+
+  // Poll status for badges
+  useEffect(() => {
+    const fetchStatus = async () => {
+      try {
+        const res = await fetch("/api/status")
+        if (res.ok) setBadges(await res.json())
+      } catch { /* skip */ }
+    }
+    fetchStatus()
+    const interval = setInterval(fetchStatus, 60000)
+    return () => clearInterval(interval)
+  }, [])
 
   return (
     <>
@@ -100,6 +120,15 @@ export function Sidebar() {
       <nav className="flex-1 p-3 space-y-1">
         {NAV_ITEMS.map((item) => {
           const active = item.href === "/" ? pathname === "/" : pathname.startsWith(item.href)
+          // Badge logic
+          let badge: { count?: number; dot?: boolean; color: string } | null = null
+          if (item.href === "/alerts" && badges.alerts?.critical) {
+            badge = { count: badges.alerts.critical, color: "#ef4444" }
+          } else if (item.href === "/notes" && badges.notes?.open) {
+            badge = { count: badges.notes.open, color: "#f59e0b" }
+          } else if (item.href === "/relationships" && badges.suggestions?.highPending) {
+            badge = { count: badges.suggestions.highPending, color: "#22c55e" }
+          }
           return (
             <Link
               key={item.href}
@@ -113,7 +142,16 @@ export function Sidebar() {
               <svg width={16} height={16} className="flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5} style={{ minWidth: 16, minHeight: 16 }}>
                 <path strokeLinecap="round" strokeLinejoin="round" d={ICONS[item.icon]} />
               </svg>
-              <span>{item.label}</span>
+              <span className="flex-1">{item.label}</span>
+              {badge && (
+                badge.count ? (
+                  <span className="min-w-[18px] h-[18px] flex items-center justify-center rounded-full text-[8px] font-bold text-white px-1" style={{ backgroundColor: badge.color }}>
+                    {badge.count > 99 ? "99+" : badge.count}
+                  </span>
+                ) : (
+                  <span className="w-2 h-2 rounded-full" style={{ backgroundColor: badge.color }} />
+                )
+              )}
             </Link>
           )
         })}

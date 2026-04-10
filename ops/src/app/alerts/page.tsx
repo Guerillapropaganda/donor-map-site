@@ -48,6 +48,9 @@ export default function AlertsPage() {
   const [error, setError] = useState<string | null>(null)
   const [filter, setFilter] = useState<"all" | "critical" | "warning" | "info">("all")
   const [expanded, setExpanded] = useState<Set<string>>(new Set())
+  const [resolved, setResolved] = useState<Set<string>>(new Set())
+  const [showResolved, setShowResolved] = useState(false)
+  const [autoRefresh, setAutoRefresh] = useState(false)
 
   const scan = () => {
     setLoading(true)
@@ -58,7 +61,14 @@ export default function AlertsPage() {
         if (data.error) {
           setError(data.error)
         } else {
-          setAlerts(data.alerts || [])
+          // Sort: critical first, then by count
+          const sorted = (data.alerts || []).sort((a: Alert, b: Alert) => {
+            const sevOrder = { critical: 0, warning: 1, info: 2 }
+            const sevDiff = sevOrder[a.severity] - sevOrder[b.severity]
+            if (sevDiff !== 0) return sevDiff
+            return (b.count || 0) - (a.count || 0)
+          })
+          setAlerts(sorted)
           setSummary(data.summary || null)
         }
         setLoading(false)
@@ -69,9 +79,40 @@ export default function AlertsPage() {
       })
   }
 
+  // Load resolved state from localStorage
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem("ops-resolved-alerts")
+      if (saved) setResolved(new Set(JSON.parse(saved)))
+    } catch { /* skip */ }
+  }, [])
+
   useEffect(() => { scan() }, [])
 
-  const filtered = filter === "all" ? alerts : alerts.filter((a) => a.severity === filter)
+  // Auto-refresh every 5 minutes
+  useEffect(() => {
+    if (!autoRefresh) return
+    const interval = setInterval(scan, 300000)
+    return () => clearInterval(interval)
+  }, [autoRefresh])
+
+  const resolveAlert = (id: string) => {
+    const next = new Set(resolved)
+    next.add(id)
+    setResolved(next)
+    try { localStorage.setItem("ops-resolved-alerts", JSON.stringify([...next])) } catch { /* skip */ }
+  }
+
+  const unresolveAlert = (id: string) => {
+    const next = new Set(resolved)
+    next.delete(id)
+    setResolved(next)
+    try { localStorage.setItem("ops-resolved-alerts", JSON.stringify([...next])) } catch { /* skip */ }
+  }
+
+  let filtered = filter === "all" ? alerts : alerts.filter((a) => a.severity === filter)
+  if (!showResolved) filtered = filtered.filter(a => !resolved.has(a.id))
+  const resolvedCount = alerts.filter(a => resolved.has(a.id)).length
 
   const toggleExpand = (id: string) => {
     setExpanded((prev) => {
@@ -92,13 +133,24 @@ export default function AlertsPage() {
             {summary ? `Scanned ${summary.totalProfiles} profiles at ${new Date(summary.scannedAt).toLocaleTimeString()}` : "Scanning vault..."}
           </p>
         </div>
-        <button
-          onClick={scan}
-          disabled={loading}
-          className="flex items-center gap-2 bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30 rounded-lg px-4 py-2 text-xs hover:bg-[var(--color-steel)]/25 transition-colors disabled:opacity-50"
-        >
-          {loading ? "Scanning..." : "Re-scan Vault"}
-        </button>
+        <div className="flex items-center gap-3">
+          <label className="flex items-center gap-1.5 text-[9px] text-[var(--color-text-dim)] cursor-pointer">
+            <input type="checkbox" checked={showResolved} onChange={() => setShowResolved(p => !p)} className="rounded accent-[var(--color-steel)]" />
+            Show resolved ({resolvedCount})
+          </label>
+          <label className="flex items-center gap-1.5 text-[9px] text-[var(--color-text-dim)] cursor-pointer">
+            <input type="checkbox" checked={autoRefresh} onChange={() => setAutoRefresh(p => !p)} className="rounded accent-[#22c55e]" />
+            Auto-refresh
+            {autoRefresh && <span className="w-1.5 h-1.5 rounded-full bg-[#22c55e] animate-pulse" />}
+          </label>
+          <button
+            onClick={scan}
+            disabled={loading}
+            className="flex items-center gap-2 bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30 rounded-lg px-4 py-2 text-xs hover:bg-[var(--color-steel)]/25 transition-colors disabled:opacity-50"
+          >
+            {loading ? "Scanning..." : "Re-scan Vault"}
+          </button>
+        </div>
       </div>
 
       {/* Summary cards */}
@@ -155,7 +207,7 @@ export default function AlertsPage() {
           {filtered.map((alert) => (
             <div
               key={alert.id}
-              className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden"
+              className={`bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg overflow-hidden ${resolved.has(alert.id) ? "opacity-40" : ""}`}
             >
               {/* Alert header */}
               <button
@@ -211,23 +263,39 @@ export default function AlertsPage() {
               </button>
 
               {/* Expanded details */}
-              {expanded.has(alert.id) && alert.profiles && (
+              {expanded.has(alert.id) && (
                 <div className="px-4 pb-4 pt-0">
-                  <div className="bg-[var(--color-bg)] rounded-lg p-3">
-                    <span className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] block mb-2">
-                      Affected Profiles {alert.count && alert.count > 10 ? `(showing 10 of ${alert.count})` : ""}
-                    </span>
-                    <div className="flex flex-wrap gap-1.5">
-                      {alert.profiles.map((name, i) => (
-                        <span
-                          key={i}
-                          className="text-[10px] px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)]"
-                        >
-                          {name}
-                        </span>
-                      ))}
-                    </div>
+                  {/* Action buttons */}
+                  <div className="flex items-center gap-2 mb-3">
+                    {resolved.has(alert.id) ? (
+                      <button onClick={(e) => { e.stopPropagation(); unresolveAlert(alert.id) }}
+                        className="text-[9px] px-3 py-1.5 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:bg-[var(--color-bg-hover)]">
+                        Unresolve
+                      </button>
+                    ) : (
+                      <button onClick={(e) => { e.stopPropagation(); resolveAlert(alert.id) }}
+                        className="text-[9px] px-3 py-1.5 rounded bg-[var(--color-green)]/15 text-[var(--color-green)] border border-[var(--color-green)]/30 hover:bg-[var(--color-green)]/25">
+                        &#10003; Resolve
+                      </button>
+                    )}
                   </div>
+                  {alert.profiles && (
+                    <div className="bg-[var(--color-bg)] rounded-lg p-3">
+                      <span className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] block mb-2">
+                        Affected Profiles ({alert.profiles.length})
+                      </span>
+                      <div className="flex flex-wrap gap-1.5 max-h-48 overflow-y-auto">
+                        {alert.profiles.map((name, i) => (
+                          <span
+                            key={i}
+                            className="text-[10px] px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)]"
+                          >
+                            {name}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
               )}
             </div>

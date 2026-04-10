@@ -28,6 +28,15 @@ export default function EditorPage() {
   const [viewMode, setViewMode] = useState<"edit" | "preview" | "split" | "live">("edit")
   const [autoLoaded, setAutoLoaded] = useState(false)
 
+  // Unsaved changes warning
+  useEffect(() => {
+    const handler = (e: BeforeUnloadEvent) => {
+      if (dirty) { e.preventDefault(); e.returnValue = "" }
+    }
+    window.addEventListener("beforeunload", handler)
+    return () => window.removeEventListener("beforeunload", handler)
+  }, [dirty])
+
   useEffect(() => {
     fetch("/api/vault")
       .then((r) => r.json())
@@ -84,10 +93,15 @@ export default function EditorPage() {
     setDirty(true)
   }
 
+  const [addFieldOpen, setAddFieldOpen] = useState(false)
+  const [newFieldName, setNewFieldName] = useState("")
+
   const addField = () => {
-    const key = prompt("Field name (e.g. lobbying-spend):")
-    if (key && !frontmatter[key]) {
-      setFrontmatter((prev) => ({ ...prev, [key]: "" }))
+    if (newFieldName && !frontmatter[newFieldName]) {
+      setFrontmatter((prev) => ({ ...prev, [newFieldName]: "" }))
+      setDirty(true)
+      setNewFieldName("")
+      setAddFieldOpen(false)
     }
   }
 
@@ -282,12 +296,40 @@ export default function EditorPage() {
               <div className="flex items-center justify-between mb-3">
                 <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)]">Frontmatter</h3>
                 <button
-                  onClick={addField}
+                  onClick={() => setAddFieldOpen(true)}
                   className="text-[9px] text-[var(--color-steel)] hover:underline"
                 >
                   + Add Field
                 </button>
               </div>
+              {/* Inline Add Field form */}
+              {addFieldOpen && (
+                <div className="mb-3 p-3 bg-[var(--color-bg)] border border-[var(--color-steel)]/30 rounded-lg">
+                  <p className="text-[9px] text-[var(--color-text-dim)] mb-2">New field name:</p>
+                  <div className="flex gap-2">
+                    <input
+                      type="text"
+                      placeholder="e.g. lobbying-spend"
+                      value={newFieldName}
+                      onChange={e => setNewFieldName(e.target.value.toLowerCase().replace(/\s+/g, "-"))}
+                      onKeyDown={e => { if (e.key === "Enter") addField(); if (e.key === "Escape") { setAddFieldOpen(false); setNewFieldName("") } }}
+                      autoFocus
+                      className="flex-1 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded px-2 py-1.5 text-[10px] text-[var(--color-text)] placeholder:text-[var(--color-text-dim)]/50 focus:outline-none focus:border-[var(--color-steel)]"
+                    />
+                    <button onClick={addField} disabled={!newFieldName || !!frontmatter[newFieldName]}
+                      className="text-[9px] px-3 py-1.5 rounded bg-[var(--color-steel)]/15 text-[var(--color-steel)] border border-[var(--color-steel)]/30 hover:bg-[var(--color-steel)]/25 disabled:opacity-50">
+                      Add
+                    </button>
+                    <button onClick={() => { setAddFieldOpen(false); setNewFieldName("") }}
+                      className="text-[9px] px-2 py-1.5 rounded text-[var(--color-text-dim)] hover:text-[var(--color-text)]">
+                      Cancel
+                    </button>
+                  </div>
+                  {newFieldName && frontmatter[newFieldName] !== undefined && (
+                    <p className="text-[8px] text-[var(--color-red)] mt-1">Field already exists</p>
+                  )}
+                </div>
+              )}
 
               <div className="space-y-2 max-h-[60vh] overflow-y-auto">
                 {Object.entries(frontmatter).map(([key, value]) => (
