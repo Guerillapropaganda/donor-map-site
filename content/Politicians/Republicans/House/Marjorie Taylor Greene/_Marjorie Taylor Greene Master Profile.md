@@ -19,7 +19,9 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-opposes: '[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]]'
+opposes: >-
+  [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN
+  ELECTING WOMEN POLITICAL ACTION COMMITTEE]]
 ---
 
 
