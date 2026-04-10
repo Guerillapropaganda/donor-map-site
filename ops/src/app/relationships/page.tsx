@@ -62,7 +62,8 @@ export default function RelationshipsPage() {
   interface TransparencyData { score: number; tier: string; tierColor: string; factors: { factor: string; impact: number; detail: string }[] }
   interface PartisanData { flow: number; label: string; isCrossParty: boolean; sourceLabel: string; targetLabel: string }
   interface DollarData { amount: number; display: string | null; tier: string }
-  interface Suggestion { id: string; source: string; sourcePath: string; target: string; targetPath: string; type: string; confidence: string; strategies: string[]; strategyCount: number; evidence: string; reasoning: string; autoCreate: boolean; discoveredAt: string; actionState?: string; actionAt?: string; actionReason?: string; transparency?: TransparencyData; partisan?: PartisanData; dollars?: DollarData; note?: string; investigate?: boolean; investigateAt?: string }
+  interface ContradictionData { counterpartType: string; counterpartAmount: number; counterpartDisplay: string; totalInfluence: number; ratio: number }
+  interface Suggestion { id: string; source: string; sourcePath: string; target: string; targetPath: string; type: string; confidence: string; strategies: string[]; strategyCount: number; evidence: string; reasoning: string; autoCreate: boolean; discoveredAt: string; actionState?: string; actionAt?: string; actionReason?: string; transparency?: TransparencyData; partisan?: PartisanData; dollars?: DollarData; contradiction?: ContradictionData | null; note?: string; investigate?: boolean; investigateAt?: string }
   interface NewProfile { name: string; mentions: number; contexts: string[]; mentionedBy: string[]; suggestedType: string; suggestedPath: string; hasDollarContext: boolean; hasLeakContext: boolean }
   const [suggestions, setSuggestions] = useState<Suggestion[]>([])
   const [newProfiles, setNewProfiles] = useState<NewProfile[]>([])
@@ -891,6 +892,7 @@ export default function RelationshipsPage() {
                             <span className="w-2.5 h-2.5 rounded-full" style={{ backgroundColor: cc }} />
                             <span className="text-[9px] font-bold uppercase" style={{ color: cc }}>{s.confidence}</span>
                             {s.strategies.map((st: string) => <span key={st} className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)]">{st}</span>)}
+                            {s.contradiction && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[#f59e0b]/20 text-[#f59e0b] border border-[#f59e0b]/40 font-bold" title={`BOTH SIDES: Also ${s.contradiction.counterpartDisplay}`}>&#9733; CONTRADICTION</span>}
                             {s.investigate && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[#ef4444]/15 text-[#ef4444] border border-[#ef4444]/30">&#9888; PRIORITY</span>}
                             {s.note && <span className="text-[7px] px-1.5 py-0.5 rounded bg-[var(--color-steel)]/10 text-[var(--color-steel)]" title={s.note}>&#128221; note</span>}
                           </div>
@@ -907,6 +909,22 @@ export default function RelationshipsPage() {
                             </span>
                             <span className="text-[11px] font-bold text-[var(--color-text)]">{s.target}</span>
                           </div>
+                          {/* Contradiction banner */}
+                          {s.contradiction && (
+                            <div className="flex items-center gap-3 p-2.5 mb-3 rounded border border-[#f59e0b]/30 bg-[#f59e0b]/5">
+                              <span className="text-[14px]">&#9733;</span>
+                              <div className="flex-1">
+                                <p className="text-[9px] font-bold text-[#f59e0b]">BOTH SIDES: This entity is playing both sides</p>
+                                <p className="text-[8px] text-[var(--color-text-dim)] mt-0.5">
+                                  This card: <span className="font-bold text-[var(--color-text)]">{s.type === "opposes" ? "opposing" : "supporting"}</span> ({s.contradiction.ratio}% of total)
+                                  {" "}&middot;{" "}
+                                  Also: <span className="font-bold text-[var(--color-text)]">{s.contradiction.counterpartDisplay}</span> ({100 - s.contradiction.ratio}%)
+                                  {" "}&middot;{" "}
+                                  Total influence: <span className="font-bold text-[var(--color-text)]">${(s.contradiction.totalInfluence / 1e6).toFixed(2)}M</span>
+                                </p>
+                              </div>
+                            </div>
+                          )}
                           {/* Transparency + Partisan + Dollar meters (hidden in compact) */}
                           {!suggestionsCompact && s.transparency && s.partisan && (
                             <div className="flex gap-3 mb-3 flex-wrap">

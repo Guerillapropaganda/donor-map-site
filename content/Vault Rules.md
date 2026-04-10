@@ -332,6 +332,26 @@ Create stub profile when:
 - Relationship notes marked "investigate deeper" with no follow-up for 30 days escalate
 - Alerts show in Ops Alerts page with link to the suggestion
 
+### Contradiction Detection
+
+A contradiction occurs when the same entity both funds AND opposes the same politician. This is not a data error. It is a signal that the entity is hedging influence, playing both sides to maintain access regardless of outcome.
+
+**How it works:**
+- Scanner detects when a committee appears in both the Support and Oppose columns of a politician's FEC IE data (both > $100K)
+- Both the `donors` and `opposes` suggestions are tagged with `contradiction` metadata
+- Each card shows: this side's amount, the counterpart amount, total influence, and ratio
+
+**What contradiction means for the project:**
+- Contradictions are among the most newsworthy patterns in the vault. They reveal the donor class operating above partisan loyalty.
+- Every contradiction should be investigated by Research Claude for the class analysis angle
+- Profile write-ups should call out contradictions explicitly in the Class Analysis section
+- On the website, contradiction connections should have a visible marker (split-color line, asterisk, or star icon) on all views: profile widgets, graph overlay, power rankings, and landing page split cards
+- Future: extend beyond FEC-IE. A company lobbying FOR a bill while donating to a politician who votes AGAINST it is the same pattern.
+
+**Role assignments:**
+- **Code Claude**: detect contradictions in scanner, surface in Ops UI, build visual markers for website components
+- **Research Claude**: investigate every flagged contradiction, write class analysis context, verify the FEC data tells the full story (primary vs general, cycle timing)
+
 ### Rejection Rules
 - Rejection requires a reason (stored in suggestion-actions.json)
 - Rejected pairs are not re-suggested unless new evidence appears (new strategy finds them)

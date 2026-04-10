@@ -163,8 +163,10 @@ function findFecIE(profiles) {
       const support = parseFloat((cols[1] || "0").replace(/[$,]/g, "")) || 0
       const oppose = parseFloat((cols[2] || "0").replace(/[$,]/g, "")) || 0
 
+      // Detect contradiction: same committee both supports AND opposes same candidate
+      const isBothSides = support > 100000 && oppose > 100000
+
       if (oppose > 100000) {
-        // Find the committee profile
         const committeeProfile = resolve(committee, new Map(), new Map())
         results.push({
           source: committee, sourcePath: committeeProfile?.relPath || "",
@@ -172,7 +174,17 @@ function findFecIE(profiles) {
           type: "opposes", confidence: "high", strategy: "fec-ie",
           autoCreate: true,
           evidence: `FEC IE: $${(oppose / 1e6).toFixed(2)}M opposing ${profile.title}`,
-          reasoning: `${committee} spent $${oppose.toLocaleString()} in independent expenditures opposing ${profile.title}. This is factual FEC data from the candidate's IE filings. IE opposition spending is one of the clearest indicators of adversarial relationships in American politics.`,
+          reasoning: isBothSides
+            ? `CONTRADICTION: ${committee} spent $${oppose.toLocaleString()} opposing ${profile.title} while ALSO spending $${support.toLocaleString()} supporting them. This entity is playing both sides, hedging influence regardless of outcome. Both entries are factual FEC IE filings.`
+            : `${committee} spent $${oppose.toLocaleString()} in independent expenditures opposing ${profile.title}. This is factual FEC data from the candidate's IE filings. IE opposition spending is one of the clearest indicators of adversarial relationships in American politics.`,
+          // Contradiction metadata
+          contradiction: isBothSides ? {
+            counterpartType: "donors",
+            counterpartAmount: support,
+            counterpartDisplay: `$${(support / 1e6).toFixed(2)}M supporting`,
+            totalInfluence: support + oppose,
+            ratio: Math.round((oppose / (support + oppose)) * 100),
+          } : null,
         })
       }
       if (support > 100000) {
@@ -183,7 +195,17 @@ function findFecIE(profiles) {
           type: "donors", confidence: "high", strategy: "fec-ie",
           autoCreate: true,
           evidence: `FEC IE: $${(support / 1e6).toFixed(2)}M supporting ${profile.title}`,
-          reasoning: `${committee} spent $${support.toLocaleString()} in independent expenditures supporting ${profile.title}. Super PAC support at this level indicates a significant financial relationship between the committee's funders and this politician's agenda.`,
+          reasoning: isBothSides
+            ? `CONTRADICTION: ${committee} spent $${support.toLocaleString()} supporting ${profile.title} while ALSO spending $${oppose.toLocaleString()} opposing them. This entity is playing both sides, hedging influence regardless of outcome. Both entries are factual FEC IE filings.`
+            : `${committee} spent $${support.toLocaleString()} in independent expenditures supporting ${profile.title}. Super PAC support at this level indicates a significant financial relationship between the committee's funders and this politician's agenda.`,
+          // Contradiction metadata
+          contradiction: isBothSides ? {
+            counterpartType: "opposes",
+            counterpartAmount: oppose,
+            counterpartDisplay: `$${(oppose / 1e6).toFixed(2)}M opposing`,
+            totalInfluence: support + oppose,
+            ratio: Math.round((support / (support + oppose)) * 100),
+          } : null,
         })
       }
     }
@@ -493,6 +515,8 @@ function deduplicateAndScore(results) {
       }
       if (existing.strategyCount >= 2 && existing.confidence === "low") existing.confidence = "medium"
       if (existing.strategyCount >= 3 && existing.confidence === "medium") existing.confidence = "high"
+      // Preserve contradiction data if present on either entry
+      if (r.contradiction && !existing.contradiction) existing.contradiction = r.contradiction
     }
   }
 
@@ -791,6 +815,7 @@ function main() {
     medium: suggestions.filter(s => s.confidence === "medium").length,
     low: suggestions.filter(s => s.confidence === "low").length,
     autoCreate: suggestions.filter(s => s.autoCreate).length,
+    contradictions: suggestions.filter(s => s.contradiction).length,
     byStrategy: {},
     newProfiles: newProfiles.length,
   }
@@ -827,6 +852,7 @@ function main() {
         transparency,
         partisan,
         dollars,
+        contradiction: s.contradiction || null,
       }
     }),
     newProfiles,
