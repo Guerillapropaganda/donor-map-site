@@ -178,8 +178,4 @@ content-readiness:: ready
 <!-- auto:doj-press end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Amy Coney Barrett](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

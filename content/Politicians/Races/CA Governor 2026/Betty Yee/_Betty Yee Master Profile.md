@@ -177,11 +177,6 @@ profile-status:: ready
 content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->
@@ -218,8 +213,4 @@ _No committee data found for the 119th Congress._
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Betty Yee](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

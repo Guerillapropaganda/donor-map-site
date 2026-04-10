@@ -2,7 +2,7 @@
 title: "Sherrod Brown"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"

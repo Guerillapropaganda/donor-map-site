@@ -120,8 +120,4 @@ The spending created a structural veto over Middle East policy debate in Congres
 - [New York Times. Kushner's Firm Received $2 Billion From Saudi Fund (April 2022)](https://www.nytimes.com/2022/04/10/us/jared-kushner-saudi-investment-fund.html) (Tier 2)
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: The Adelson Pipeline - Embassy, Abraham Accords, and Iran](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

@@ -256,8 +256,4 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 conte
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Chuck Schumer](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

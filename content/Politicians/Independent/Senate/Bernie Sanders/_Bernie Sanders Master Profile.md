@@ -300,8 +300,4 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Bernie Sanders](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

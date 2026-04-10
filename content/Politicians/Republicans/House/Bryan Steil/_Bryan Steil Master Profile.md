@@ -2,7 +2,7 @@
 title: "Bryan Steil"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,7 +16,7 @@ top-donors:
   - "Koch Network"
 total-received: "$3,443,146"
 fec-candidate-id: "H8WI01156"
-donors: "[[Insurance Industry]] · [[Stand Together]]"
+donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]]"
 doj-press-mentions: "264414"
 last-enriched: "2026-04-09"
 doj-components:

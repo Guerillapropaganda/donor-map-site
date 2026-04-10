@@ -2,7 +2,7 @@
 title: "ExxonMobil"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -46,7 +46,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "324191"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[John Barrasso]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Environment - Donors and Backers]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[The Science Committee and Texas Petrochemical Pipeline]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Cato Institute]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute|API]] · [[Chevron]] · [[PG&E]] · [[_Rex Tillerson Master Profile|Rex Tillerson]] · [[_Donald Trump Master Profile|Trump]] · [[_Joe Manchin Master Profile|Manchin]] · [[Carbon Capture & Sequestration Policy]] · [[Methane Regulation]] · [[Energy Transition]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[ConocoPhillips]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[Koch Industries]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[John Barrasso]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Environment - Donors and Backers]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[The Science Committee and Texas Petrochemical Pipeline]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Cato Institute]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute|API]] · [[Chevron]] · [[PG&E]] · [[_Rex Tillerson Master Profile|Rex Tillerson]] · [[_Donald Trump Master Profile|Trump]] · [[_Joe Manchin Master Profile|Manchin]] · [[Carbon Capture & Sequestration Policy]] · [[Methane Regulation]] · [[Energy Transition]] · [[Council on Foreign Relations]]"
 federal-register-mentions: 563
 regulatory-agencies:
   - "Antitrust Division"

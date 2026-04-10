@@ -2,7 +2,7 @@
 title: "Frank Pallone"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -168,8 +168,4 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Frank Pallone](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

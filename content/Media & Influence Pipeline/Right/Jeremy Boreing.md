@@ -2,12 +2,12 @@
 title: "Jeremy Boreing"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Andrew Klavan]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]]"
+related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Andrew Klavan]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]]"
 ---
 
 #media-pipeline #right #daily-wire #infrastructure #evangelical-capitalism #culture-war

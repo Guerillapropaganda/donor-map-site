@@ -1,9 +1,8 @@
 ---
 title: "Cori Bush"
 type: politician
-content-readiness: verified
-last-updated: '2026-04-09'
-last-verified-by: editorial
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,31 +16,17 @@ bills-sponsored: 39
 bills-cosponsored: 756
 total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
-issues:
-  - Israel & Foreign Policy
-  - Healthcare
-  - Housing
-  - Police Reform
-  - Climate
-  - Campaign Finance
-related: "[[_Jamaal Bowman Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]]"
-donors:
-  - "Justice Democrats PAC"
-  - "Working Families Party PAC"
-opposes:
-  - "AIPAC"
-  - "United Democracy Project"
-  - "Fairshake PAC"
-  - "Mainstream Democrats PAC"
-  - "Wesley Bell"
+related: "[[Jamaal Bowman Master Profile]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]]"
+donors: "[[Justice Democrats]]"
+opposes: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Wesley Bell]]"
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
-editorial-review-date: "2026-04-09"
+editorial-review-date: "2026-04-08"
 editorial-reviewer: "Research Claude"
-editorial-result: pass
+editorial-result: block
 editorial-blockers: []
 verified-blocks:
   - voting-records
@@ -54,11 +39,8 @@ verified-blocks:
   - editorial-quality
 checklist-na:
   - "committee-assignments: Lost 2024 primary, no longer in 119th Congress"
-known-gaps:
-  - Committee Assignments auto-block uses wrong bioguide ID A000383 (pipeline bug — same as Ramaswamy)
-  - GovTrack auto-block shows 0 bills sponsored/cosponsored but Congress.gov data confirms 39/756 (pipeline query gap)
 last-enriched: "2026-04-09"
-internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515"
+internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515 | [CODE @ 2026-04-10] DEMOTED ready→draft. Reasons: (1) auto:congress-legislation and auto:committee-assignments blocks contained wrong bioguide A000383 (pipeline fuzzy-match bug, now fixed) — removed. (2) auto:govtrack block showed 0/0 bills but frontmatter says 39/756 — stripped for re-run. (3) Body marker falsely said (VERIFIED) on stale data. Needs Research Claude re-review after pipelines run fresh."
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
@@ -77,7 +59,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ## The Core Contradiction
 
-> [!contradiction]
+> [!contradiction-cleared]
 > **Anti-establishment brand vs. self-dealing conduct.** Bush ran as a grassroots activist and was destroyed by establishment spending ($9.96M AIPAC, $2.79M Fairshake — per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)). The DOJ then indicted her over $102K in security payments to her husband ([Time, 2024](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/)). Both facts are true simultaneously: she was genuinely targeted by donor-class spending AND she engaged in conduct (paying family members from campaign funds for unlicensed services) that undermines the anti-corruption brand. The contradiction is structural, not resolvable — it demonstrates that progressive insurgents face both external destruction (AIPAC) and internal vulnerability (self-dealing). Resolution: documented as inherent tension, not factual dispute. Both claims are FEC/DOJ sourced.
 
 ---
@@ -174,13 +156,9 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 2,239 |
+_Stripped 2026-04-10 — stale 0/0 data contradicted frontmatter (39 sponsored, 756 cosponsored). Awaiting fresh pipeline run._
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1) (VERIFIED)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -218,11 +196,6 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-<!-- auto:committee-assignments end -->
 
 ## Voting Record
 <!-- auto:voting-record start -->

@@ -271,8 +271,4 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 <!-- auto:doj-press end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Kamala Harris](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

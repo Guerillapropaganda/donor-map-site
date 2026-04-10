@@ -231,8 +231,4 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 <!-- auto:doj-press end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Tom Cole](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

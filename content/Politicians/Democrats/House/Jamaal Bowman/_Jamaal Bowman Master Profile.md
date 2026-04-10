@@ -1,9 +1,8 @@
 ---
 title: Jamaal Bowman Master Profile
 type: politician
-content-readiness: verified
-last-updated: '2026-04-09'
-last-verified-by: editorial
+content-readiness: ready
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: Democrat
@@ -24,12 +23,13 @@ govtrack-id: 456839
 bills-sponsored: 0
 bills-cosponsored: 0
 source-types:
-  - Congress
   - FEC
   - GovTrack
-corroboration-count: 3
+corroboration-count: 2
 known-gaps:
-  - GovTrack shows 0 bills sponsored/cosponsored but body text references GND and M4A cosponsorship. Pipeline query may not cover full tenure (117th-118th Congress).
+  - GovTrack shows 0 bills sponsored/cosponsored — needs fresh pipeline run (cache invalidation fix deployed 2026-04-10 awaits next run)
+  - Congress.gov auto-blocks stripped in 2026-04-10 A000383 cleanup (pipeline fuzzy-match bug, now fixed). Needs fresh pipeline run for correct Congress data.
+internal-notes: "[CODE @ 2026-04-10] DEMOTED verified→ready. Previous 'A+ verified' promotion by Research Claude on 2026-04-09 counted Congress.gov as one of 3 Tier 1 source types. That Congress data was A000383-contaminated (wrong member). Corroboration-count reduced from 3 to 2 (FEC + GovTrack only). Same reasoning as Cori Bush demotion. Re-review for verified promotion AFTER fresh pipeline runs populate correct Congress/committee/govtrack data."
 opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]] · [[DMFI - Democratic Majority for Israel]]'
 donors: '[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]]'
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]"

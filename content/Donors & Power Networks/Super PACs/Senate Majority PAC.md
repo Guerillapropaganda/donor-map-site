@@ -2,7 +2,7 @@
 title: "Senate Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -29,6 +29,7 @@ sec-filings: 4
 sec-form-types:
   - "10-K"
   - "144"
+opposes: "[[Shelley Moore Capito]]"
 ---
 #donor-node #super-pac #democratic #senate #schumer #dark-money #leadership-pac #donor
 

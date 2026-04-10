@@ -287,7 +287,7 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 **Sources**
 
-- [Congress.gov: John Kennedy](https://www.congress.gov/member/a000383) (Tier 1)
+- ~~[Congress.gov: John Kennedy](https://www.congress.gov/member/a000383)~~ (archived - wrong bioguide ID from pipeline bug, needs correct ID on next run)
 - [GovTrack: John Kennedy](https://www.govtrack.us/congress/members/406274) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

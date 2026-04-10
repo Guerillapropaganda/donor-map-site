@@ -111,14 +111,4 @@ Bianco is the most prominent California example. He is also the one running for 
 - [PBS — Rhodes sentencing](https://www.pbs.org/newshour/politics/oath-keepers-founder-sentenced-to-18-years-for-seditious-conspiracy-in-jan-6-capitol-attack) (Tier 2)
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->

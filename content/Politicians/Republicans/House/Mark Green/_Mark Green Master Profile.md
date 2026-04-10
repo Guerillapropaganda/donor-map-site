@@ -2,7 +2,7 @@
 title: Mark Green
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -28,6 +28,7 @@ known-gaps:
   - No mapped relationships
 opposes: '[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]'
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Bennie Thompson Master Profile|Thompson]]"
+donors: "[[Fraternal Order of Police]]"
 ---
 #mark-green #republican #tennessee #house #committee-chair #homeland-security #military #special-operations #healthcare #mayorkas-impeachment #resigned #phase-6-gavel-power
 

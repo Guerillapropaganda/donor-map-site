@@ -182,17 +182,6 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 - [AFL-CIO: Virginia Foxx scorecard](https://aflcio.org/scorecard/legislators/virginia-foxx) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -209,8 +198,4 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Virginia Foxx](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

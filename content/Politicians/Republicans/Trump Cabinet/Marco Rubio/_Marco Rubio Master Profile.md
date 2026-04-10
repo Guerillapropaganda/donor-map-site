@@ -170,8 +170,4 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Marco Rubio](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

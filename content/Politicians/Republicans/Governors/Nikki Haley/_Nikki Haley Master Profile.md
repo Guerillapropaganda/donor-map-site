@@ -231,8 +231,4 @@ content-readiness:: ready
 <!-- auto:doj-press end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Nikki Haley](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

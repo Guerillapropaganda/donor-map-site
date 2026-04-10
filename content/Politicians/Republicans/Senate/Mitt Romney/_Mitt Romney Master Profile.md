@@ -2,7 +2,7 @@
 title: "Mitt Romney"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,7 +12,7 @@ fec-candidate-id: "S8UT00176"
 govtrack-id: 412841
 bills-sponsored: 0
 bills-cosponsored: 0
-donors: "[[Elliott Management]]"
+donors: "[[Elliott Management]] · [[Rebekah Mercer]]"
 related: "[[Paul Ryan]]"
 ---
 

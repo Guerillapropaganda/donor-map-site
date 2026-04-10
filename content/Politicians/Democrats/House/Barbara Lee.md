@@ -2,7 +2,7 @@
 title: "Barbara Lee"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 total-received: "$375,046"
@@ -20,7 +20,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
+donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"
 govtrack-id: 400237
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -105,17 +105,6 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 - [Congresswoman Barbara Lee Official: Global Peace & Security Issues Page](https://lee.house.gov/issues/global-peace-and-security?latest=169) (Tier 1)
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -152,11 +141,6 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 <!-- auto:fec-politician end -->
 
 ### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

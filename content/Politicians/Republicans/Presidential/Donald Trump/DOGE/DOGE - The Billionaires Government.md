@@ -2,7 +2,7 @@
 title: "DOGE - The Billionaires Government"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 related: "[[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[The CFPB and the Limits of Reform Within the System]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
@@ -11,6 +11,7 @@ known-gaps:
   - "No voting record data"
 source-types:
   - Congress
+donors: "[[Sixteen Thirty Fund]]"
 ---
 #trump #DOGE #elon-musk #class-analysis #follow-the-money #administrative-state #deregulation #conflict-of-interest #federal-workforce
 
@@ -173,8 +174,4 @@ DOGE was positioned as a temporary (9-month) audit and efficiency review. In pra
 - [CNN: DOGE cuts hamper US war readiness](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2)
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: DOGE - The Billionaires Government](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

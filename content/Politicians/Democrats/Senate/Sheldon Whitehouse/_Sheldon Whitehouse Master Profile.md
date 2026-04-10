@@ -2,7 +2,7 @@
 title: "Sheldon Whitehouse"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -58,6 +58,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Federalist Society]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[League of Conservation Voters]]"
+donors: "[[Fraternal Order of Police]]"
 ---
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel
 

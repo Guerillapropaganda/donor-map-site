@@ -2,7 +2,7 @@
 title: "The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate"
 type: politician
 content-readiness: draft
-last-updated: 2026-03-22
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 known-gaps:
@@ -11,6 +11,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]]"
+donors: "[[Rebekah Mercer]]"
 ---
 #donald-trump #doge #vivek-ramaswamy #class-analysis #follow-the-money #tech #h1b #ohio #grift
 

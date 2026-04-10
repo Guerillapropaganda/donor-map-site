@@ -125,8 +125,4 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 content-readiness:: ready
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: JB Pritzker](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

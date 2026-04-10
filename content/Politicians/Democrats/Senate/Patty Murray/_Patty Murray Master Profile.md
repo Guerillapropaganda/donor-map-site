@@ -141,17 +141,6 @@ This is why Murray rarely appears in national media: she operates in the less vi
 - [GovTrack: Patty Murray voting record and key votes](https://www.govtrack.us/congress/members/patty_murray/300076) (Tier 1)
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

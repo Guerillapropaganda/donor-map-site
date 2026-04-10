@@ -139,8 +139,4 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 content-readiness:: ready
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Pam Bondi](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "John Boehner"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"

@@ -188,8 +188,4 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Glenn Thompson](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

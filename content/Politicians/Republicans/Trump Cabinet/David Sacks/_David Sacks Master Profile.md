@@ -138,11 +138,6 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 - [Seattle Times: Tech Billionaires Helped Vance Leap Into Power](https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/) (Tier 2) (UNVERIFIED)
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
