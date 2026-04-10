@@ -32,7 +32,7 @@ opposes: '[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]'
 
 related: [[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[The Disney War and the Limits of Culture War Governance]]
 
-donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Club for Growth]] · [[Lennar Corporation]]
+donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Club for Growth]] · [[Lennar Corporation]] · [[NEVER BACK DOWN INC.]]
 
 profile-status:: ready
 
