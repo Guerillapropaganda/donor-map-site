@@ -61,14 +61,25 @@ Every factual claim in the vault must cite a government record. Articles provide
 | Grade | Status | What it means | Who promotes |
 |-------|--------|--------------|-------------|
 | D-F | `raw` | Stub — needs everything | Auto-created |
-| C | `draft` | Some content, missing key pieces. Under active development | Pipeline or Research Claude |
-| B | `ready` | Has body + sources + pipeline enrichment + connections. May have gaps or single-source claims | Pipeline (auto-promotes when criteria met) |
-| A+ | `verified` | Gold standard. 2+ Tier 1 source types corroborating. Connections mapped. No contradictions. Enriched within 90 days. Human sign-off. Known gaps documented | Editorial sign-off required (pipeline CANNOT auto-promote) |
+| C | `draft` | Content under active development. **Any missing pipeline data, any blocking known-gap, any "needs fresh pipeline run" note = draft, not ready.** | Pipeline or Research Claude |
+| B | `ready` | **99% done. Only David's verified sign-off remains.** All pipeline data populated and clean. All expected auto-blocks present for the profile type. 2+ Tier 1 source types corroborating. Class analysis written. No unresolved contradictions. `known-gaps` contains only non-blocking items (e.g., pre-Congress bio detail). | Pipeline or Research Claude (both must enforce the gate) |
+| A+ | `verified` | Gold standard. Everything required for `ready` PLUS editorial sign-off. `last-verified-by: editorial`. | Editorial sign-off required (pipeline CANNOT auto-promote) |
 
 **Promotion rules:**
 - `raw → draft`: Any substantive content added (body > 100 chars or Tier 1 source exists)
-- `draft → ready`: Body > 500 chars + Tier 1 sources + pipeline enriched + connections mapped. Pipeline can auto-promote.
-- `ready → verified`: 2+ Tier 1 source types (e.g., FEC + Congress) + no unresolved contradictions + enriched within 90 days + editorial sign-off (`last-verified-by: editorial`). **Pipeline cannot auto-promote to this tier.**
+- `draft → ready`: Body > 500 chars + **all expected pipeline auto-blocks populated (no missing `<!-- auto:X start -->` blocks for the profile type)** + 2+ Tier 1 source types + class analysis written + connections mapped + **no known-gap that references missing pipeline data, stale data, or a pending re-enrichment**. Pipeline can auto-promote only when every gate passes.
+- `ready → verified`: Everything required for `ready` is already satisfied by definition. Only adds: editorial sign-off (`last-verified-by: editorial`). **Pipeline cannot auto-promote to this tier.**
+
+**Hard rule: `ready` means David's sign-off is the only thing left.**
+If a profile has any of these, it is `draft` — not `ready`:
+- Missing pipeline auto-blocks expected for its type (e.g., a politician without `<!-- auto:fec-politician` or `<!-- auto:govtrack`)
+- `known-gaps` mentions "needs fresh pipeline run", "awaits pipeline", "not yet enriched", "cache refresh pending", or similar
+- `internal-notes` says data was stripped/contaminated and needs repopulation
+- Any blocking issue Research Claude or Code Claude would need to fix before David could sign off
+- Fewer than 2 Tier 1 source types
+- Missing class analysis section
+
+**Both Claudes must enforce this gate.** If Research Claude encounters a profile marked `ready` that fails any of the above, demote to `draft` and document the blocker in `editorial-notes`. Do not leave it at `ready` with a caveat. `ready` is a promise to David that the only remaining work is his sign-off.
 
 **Staleness decay (automatic demotion):**
 - `verified → ready`: After 90 days without re-enrichment. A+ profiles must stay current.

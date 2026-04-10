@@ -1,7 +1,7 @@
 ---
 title: "Cori Bush"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: '2026-04-10'
 source-tier: 1
 parent: null
@@ -60,7 +60,13 @@ known-gaps:
   - 2026 comeback campaign ongoing — state-level polling and endorsements not yet fully documented
   - Federal indictment (Aug 2025) outcome pending — court filings need citation once resolved
 last-enriched: "2026-04-10"
-internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515 | [CODE @ 2026-04-10] DEMOTED ready→draft. Reasons: (1) auto:congress-legislation and auto:committee-assignments blocks contained wrong bioguide A000383 (pipeline fuzzy-match bug, now fixed) — removed. (2) auto:govtrack block showed 0/0 bills but frontmatter says 39/756 — stripped for re-run. (3) Body marker falsely said (VERIFIED) on stale data. Needs Research Claude re-review after pipelines run fresh. | [CODE @ 2026-04-10] Pipeline: govtrack completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24252644830 | [CODE @ 2026-04-10] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24254283707"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515 | [CODE @ 2026-04-10] DEMOTED ready→draft. Reasons: (1) auto:congress-legislation and auto:committee-assignments blocks contained wrong bioguide A000383 (pipeline fuzzy-match bug, now fixed) — removed. (2) auto:govtrack block showed 0/0 bills but frontmatter says 39/756 — stripped for re-run. (3) Body marker falsely said (VERIFIED) on stale data. Needs Research Claude re-review after pipelines run fresh. | [CODE @ 2026-04-10] Pipeline: govtrack completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24252644830 | [CODE @ 2026-04-10] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24254283707"
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money

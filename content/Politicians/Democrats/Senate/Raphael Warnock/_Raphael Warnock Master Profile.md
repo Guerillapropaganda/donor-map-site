@@ -1,7 +1,7 @@
 ---
 title: Raphael Warnock Master Profile
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -52,6 +52,11 @@ editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC, Congress.gov with verified bioguide W000790, GovTrack, warnock.senate.gov). Strong class analysis framing: 'moral authority brand vs. corporate Democrat alignment' — the MLK pulpit as political asset question. 2020 vs 2022 donor base shift documented (2020: unemployed median donor, grassroots-heavy; 2022: 92% out-of-state, tech/entertainment/finance dominant). Core contradiction well-drawn: Ebenezer Baptist pulpit grants moral authority derived from King's Poor People's Campaign legacy, but Senate record aligns with healthcare/tech donor interests, not King's economic vision. Donation-to-policy timeline broken down by sector (National Donor Machine, Tech/Infrastructure, Healthcare/Pharma). FIXED: converted opposes field from YAML folded scalar to single-line quoted string (same pattern that broke Tucker Carlson and Hillary Clinton — preventive fix). FIXED: removed inline body donors:: and profile-status:: dataview lines per frontmatter-only rule. FIXED: removed duplicate --- after frontmatter. Added bioguide-id W000790, committees list, structured opposes/donors, expanded issues. Zero A000383 contamination, zero (URL NEEDED) tags, DOJ auto-block already stripped earlier this session. Ready for editor review."
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #raphael-warnock #senate #georgia #mlk #ebenezer-baptist #moral-authority #fundraising #corporate-democrat #class-analysis
 

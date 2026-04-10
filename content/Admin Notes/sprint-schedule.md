@@ -362,31 +362,36 @@ phase_1_tasks:
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
-      status: pending
+      status: done
+      completed_date: 2026-04-10
       target_file: "ops/CLAUDE.md"
 
     - id: rc_02
       task: "Write ops/RULES.md (frontmatter-only + URL editor-only rules)"
-      status: pending
+      status: done
+      completed_date: 2026-04-10
       target_file: "ops/RULES.md"
 
     - id: rc_03
       task: "Depth work on Squad/leadership verified candidates"
-      status: pending
+      status: done
+      completed_date: 2026-04-10
       candidates: ["Rashida Tlaib", "Ilhan Omar", "Ayanna Pressley", "Greg Casar", "Hakeem Jeffries"]
       target: "Flag candidates for David sign-off, do NOT self-promote to verified"
+      notes: "Tlaib (duplicate source fix), Pressley (voting record header), Jeffries (Congress.gov added, flagged verified-candidate), Casar (raw stub created), Omar (no changes needed)."
 
     - id: rc_04
       task: "Build out Summer Lee stub from raw→draft→ready"
-      status: pending
+      status: done
+      completed_date: 2026-04-10
       target_file: "content/Politicians/Democrats/House/Summer Lee/_Summer Lee Master Profile.md"
-      notes: "Already has substantive body content from stub build"
+      notes: "Promoted draft→ready. Added Class Analysis section, cleaned sources structure, added bioguide-id + corroboration-count to frontmatter. Flagged as ready-candidate."
 
     - id: rc_05
       task: "Re-review Cori Bush and Jamaal Bowman for verified AFTER fresh pipeline runs"
-      status: blocked
-      blocker: "Pipeline runs blocked by GitHub Actions disabled (cc_07)"
-      notes: "Both demoted ready→draft (Bush) or verified→ready (Bowman) on 2026-04-10 due to A000383 contamination. Re-promote when Congress/GovTrack data is clean."
+      status: pending
+      blocker: ""
+      notes: "Both demoted ready→draft (Bush) or verified→ready (Bowman) on 2026-04-10 due to A000383 contamination. Pipeline fix landed 2026-04-10; GITHUB_TOKEN fix landed 2026-04-10 (workflow scope added). Unblocked as of 2026-04-10. Run fresh FEC + Congress + GovTrack pipelines on both, then re-review."
 
   david:
     - id: dc_01

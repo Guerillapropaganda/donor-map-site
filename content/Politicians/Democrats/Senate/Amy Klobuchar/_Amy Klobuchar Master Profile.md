@@ -1,7 +1,7 @@
 ---
 title: "Amy Klobuchar"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -28,6 +28,11 @@ fec-candidate-id: "S6MN00267"
 donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "re-run fec pipeline"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #amy-klobuchar #democrat #minnesota #senate #antitrust #judiciary #agriculture #tech #genuine-win-structural-limit #two-audience-problem #revolving-door
 

@@ -1,7 +1,7 @@
 ---
 title: "QVT Financial"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ known-gaps:
   - No FEC committee data (operates through individual contributions, not registered PAC)
   - Pipeline false positives RESOLVED 2026-04-10 by Code Claude: DOJ sanity cap, SAM validation, NHTSA auto-adjacent filter deployed. Auto-blocks stripped.
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "demote to draft"
 lei: "549300JMMSS9C5S2HO30"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
@@ -26,6 +28,9 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 13G/A"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • The profile's own known-gaps field says it needs a fresh pipeline run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #vivek-ramaswamy #hedge-fund #biotech-investments #roivant-sciences #venture-capital
 

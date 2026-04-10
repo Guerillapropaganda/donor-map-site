@@ -1,7 +1,7 @@
 ---
 title: "Rashida Tlaib"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: '2026-04-10'
 source-tier: 1
 parent: null
@@ -51,6 +51,11 @@ editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC, Congress.gov with verified bioguide T000481, GovTrack, House Oversight Democrats primary source), strong class analysis, documented core contradiction, extensive AIPAC War section with real spending numbers, November 2023 censure documented, Marathon Petroleum Oversight investigation cited. No defamation-prone claims. No (URL NEEDED) tags. No (UNVERIFIED) tags. No A000383 contamination (verified clean). Zero inline dataview markers. Ready for editor review."
 related: "[[_Ilhan Omar Master Profile|Omar]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[J Street]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[Marathon Petroleum]] · [[Haim Saban]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice
 

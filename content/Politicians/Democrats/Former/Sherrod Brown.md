@@ -1,7 +1,7 @@
 ---
 title: "Sherrod Brown"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -42,6 +42,11 @@ opensanctions-datasets:
   - "wd_peps"
   - "wikidata"
   - "ru_mfa_sanctions"
+needs-reenrichment: true
+reenrich-reason: "demote to draft"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • The profile's own known-gaps field says it needs a fresh pipeline run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
 tags: #democrat

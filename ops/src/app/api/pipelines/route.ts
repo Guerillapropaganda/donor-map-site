@@ -6,7 +6,10 @@ const ENGINE_REPO = "donor-map-engine"
 
 function getOctokit(): Octokit {
   const token = process.env.GITHUB_TOKEN
-  if (!token) throw new Error("GITHUB_TOKEN not set")
+  if (!token) throw new Error("GITHUB_TOKEN not set — add it to ops/.env.local and restart the app")
+  if (!token.startsWith("ghp_") && !token.startsWith("github_pat_") && !token.startsWith("ghs_")) {
+    throw new Error(`GITHUB_TOKEN format invalid (starts with "${token.slice(0, 6)}...") — generate a new classic PAT at github.com/settings/tokens with repo + workflow scopes`)
+  }
   return new Octokit({ auth: token })
 }
 

@@ -1,7 +1,7 @@
 ---
 title: "Cory Booker"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -49,8 +49,14 @@ related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master
 donors: "[[JB Pritzker]] · [[Mark Zuckerberg]]"
 total-received: "$26,085,174"
 fec-candidate-id: "S4NJ00185"
-internal-notes: "[URL Check 2026-04-09] 17 checked: 11 ok, 5 broken, 1 slow. | BROKEN: Congress.gov: Cory Booker member profile | BROKEN: Congress.gov: First Step Act | BROKEN: The Hill: Booker puts pause on pharma fundraising | BROKEN: Source: Senate Stock Watcher | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[URL Check 2026-04-09] 17 checked: 11 ok, 5 broken, 1 slow. | BROKEN: Congress.gov: Cory Booker member profile | BROKEN: Congress.gov: First Step Act | BROKEN: The Hill: Booker puts pause on pharma fundraising | BROKEN: Source: Senate Stock Watcher | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
 bioguide-id: "B001288"
 ---
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
