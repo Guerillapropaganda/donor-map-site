@@ -23,7 +23,9 @@ last-enriched: '2026-04-08'
 opposes: >-
   [[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]] · [[NATIONAL RIGHT
   TO LIFE POLITICAL ACTION COMMITTEE]]
-donors: '[[REPUBLICAN NATIONAL COMMITTEE]]'
+donors: >-
+  [[REPUBLICAN NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION
+  COMMITTEE]]
 ---
 
 #politician #republican #president #2001-2009 #bush-administration #iraq-war #texas-governor
