@@ -1,24 +1,25 @@
 ---
-title: "Marjorie Taylor Greene Master Profile"
+title: Marjorie Taylor Greene Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Georgia"
-state-abbr: "GA"
-district: "14"
+party: Republican
+chamber: House
+state: Georgia
+state-abbr: GA
+district: '14'
 top-donors:
-  - "MAGA Small Dollar Base"
-fec-candidate-id: "H0GA06192"
+  - MAGA Small Dollar Base
+fec-candidate-id: H0GA06192
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
+opposes: '[[GEORGIANS FOR STRONG FAMILIES, INC.]]'
 ---
 
 
