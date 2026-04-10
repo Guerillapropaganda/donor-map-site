@@ -1,25 +1,26 @@
 ---
-title: "George W. Bush"
+title: George W. Bush
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Presidential"
-total-received: "$377,846,444"
-fec-candidate-id: "P00003335"
+party: Republican
+chamber: Presidential
+total-received: '$377,846,444'
+fec-candidate-id: P00003335
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 executive-orders: 294
 presidential-memoranda: 131
 proclamations: 942
-last-enriched: "2026-04-08"
+last-enriched: '2026-04-08'
+opposes: '[[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]]'
 ---
 
 #politician #republican #president #2001-2009 #bush-administration #iraq-war #texas-governor
