@@ -10,6 +10,12 @@ You are starting a new session. Run this checklist to get oriented.
 
 ## Steps
 
+0. **Get actual system date/time:**
+   ```
+   node -e "const n=new Date(); console.log('System time:', n.toISOString(), '| Local:', n.toLocaleString('en-US',{timeZone:'America/Chicago',hour12:false}))"
+   ```
+   Report this as the authoritative current date and time. The `currentDate` in the session context may be stale — use the system clock.
+
 1. **Read Session State:**
    ```
    Read content/Session State.md

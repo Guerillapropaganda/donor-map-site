@@ -9,11 +9,21 @@ export const revalidate = 0
 
 export default async function CalendarPage() {
   try {
+    const now = new Date()
+    const serverTime = now.toISOString()
+    const serverDate = serverTime.slice(0, 10)
     const [schedule, initialState] = await Promise.all([
       parseSprintSchedule(),
       loadSprintState(),
     ])
-    return <Calendar schedule={schedule} initialState={initialState} />
+    return (
+      <Calendar
+        schedule={schedule}
+        initialState={initialState}
+        serverDate={serverDate}
+        serverTime={serverTime}
+      />
+    )
   } catch (err) {
     const message =
       err instanceof SprintScheduleNotFoundError

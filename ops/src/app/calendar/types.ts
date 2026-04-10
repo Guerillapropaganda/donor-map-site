@@ -49,8 +49,9 @@ export function todayIso(): string {
  * Assign every task to a specific day for rendering. Priority:
  *   1. `completed_date` — done tasks land on the day they were completed
  *   2. `scheduled` — explicit pin in sprint-schedule.md
- *   3. Round-robin distribution across the phase's days, per owner, so tasks
- *      without an explicit date spread out instead of piling onto phase.start.
+ *   3. Cross-owner round-robin across ALL the phase's days so undated tasks
+ *      spread evenly across every day in the phase, not just the first N days.
+ *      (Per-owner round-robin left Apr 15-16 and Apr 20-23 empty.)
  *
  * Returns a map: date → Task[] (with phase + owner tacked on).
  */
@@ -61,7 +62,7 @@ export function tasksByDay(schedule: SprintSchedule): Record<string, (Task & { p
     const phaseTasks = schedule.phaseTasks[phase.id]
     if (!phaseTasks) continue
 
-    // Enumerate every day within this phase so we can spread tasks across them.
+    // Enumerate every day within this phase for distribution.
     const phaseDays: string[] = []
     const start = new Date(phase.start + "T00:00:00Z")
     const end = new Date(phase.end + "T00:00:00Z")
@@ -72,23 +73,34 @@ export function tasksByDay(schedule: SprintSchedule): Record<string, (Task & { p
     }
     const phaseDayCount = phaseDays.length || 1
 
+    // Pass 1: place tasks that have an explicit date anchor.
+    // Pass 2: collect undated tasks across ALL owners, then distribute
+    //         round-robin so the full phase is populated, not just the first N days.
+    const undated: (Task & { phase: string; owner: string })[] = []
+
     for (const [owner, list] of Object.entries(phaseTasks) as [string, Task[] | undefined][]) {
       if (!list) continue
-      let pendingIdx = 0
       for (const task of list) {
         if (!task.id) continue
-        let date: string
         if (task.completed_date) {
-          date = task.completed_date
+          const date = task.completed_date
+          if (!map[date]) map[date] = []
+          map[date].push({ ...task, phase: phase.id, owner })
         } else if (task.scheduled) {
-          date = task.scheduled
+          const date = task.scheduled
+          if (!map[date]) map[date] = []
+          map[date].push({ ...task, phase: phase.id, owner })
         } else {
-          date = phaseDays[pendingIdx % phaseDayCount]
-          pendingIdx++
+          undated.push({ ...task, phase: phase.id, owner })
         }
-        if (!map[date]) map[date] = []
-        map[date].push({ ...task, phase: phase.id, owner })
       }
+    }
+
+    // Distribute undated tasks round-robin across all phase days.
+    for (let i = 0; i < undated.length; i++) {
+      const date = phaseDays[i % phaseDayCount]
+      if (!map[date]) map[date] = []
+      map[date].push(undated[i])
     }
   }
   return map
