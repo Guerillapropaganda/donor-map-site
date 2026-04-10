@@ -52,9 +52,9 @@ You are saving the current session's progress before ending.
    ```
    Be selective with `git add` — don't add `.env`, `node_modules`, or `.next` files. Prefer adding specific files by name.
 
-5. **Deploy** using the /deploy workflow (merge to v4, push).
+5. **Deploy** using the /deploy workflow (merge to v4, push). The deploy workflow now polls the GitHub Actions `deploy.yml` run for completion and reports success/failure — do NOT treat "push succeeded" as "deploy succeeded". Wait for the actual build to finish.
 
-6. **Report** what was saved and the commit hash, and include a line listing which sprint-schedule task IDs were updated or added (e.g., "calendar: cc_07 blocked→done, added cc_09, cc_10, cc_11").
+6. **Report** what was saved and the commit hash, include a line listing which sprint-schedule task IDs were updated or added (e.g., "calendar: cc_07 blocked→done, added cc_09, cc_10, cc_11"), AND include the deploy status (e.g., "deploy ✓ run 24256583626" or "deploy ✗ see https://.../runs/...").
 
 ## Rules
 - Always convert relative dates to absolute dates ("tomorrow" → "2026-04-12")

@@ -168,6 +168,26 @@ Secondary impact: the `wait` step in the parallel runner never returned when a s
 
 **Follow-up TODO:** Some pipelines may genuinely run longer than 30 minutes on a full batch. If the 30-min timeout still fires on scheduled runs, split the workflow into "fast pipelines" (< 5 min each) and "slow pipelines" (> 5 min) running as separate jobs, or trim the `--limit=` on the slowest offenders (candidates from experience: `opensanctions --limit=50`, `wikipedia --limit=30`, `gleif --limit=30`). Measure before cutting.
 
+### GitHub Actions scheduled runs silently stop firing (diagnosed + kicked 2026-04-10)
+
+**Incident:** The `api-enrichment.yml` workflow's scheduled cron (`0 2/8/14/20 * * *`) stopped firing after 2026-04-09 17:44Z. Over the next 24 hours, four expected slots passed with zero `event: schedule` runs in the history — only `event: workflow_dispatch` entries from manual triggers. The workflow metadata still showed `state: active` and the YAML file was unchanged on `main`. No error, no notification, no disabled flag. Silent failure.
+
+**Root cause (suspected):** Both scheduled runs that DID fire on 2026-04-09 (11:33Z and 17:44Z) hit the 25-minute parallel-step timeout (25m14s and 25m24s durations). GitHub Actions has undocumented behavior where repeated scheduled failures can cause the scheduler to pause firing for that workflow without marking it disabled. This is not in GitHub's public docs but is a well-known community workaround. The "stale log contamination" bug documented above was the root cause of the timeouts.
+
+**Fix (two-part):**
+1. The timeout fix (documented above) should prevent future scheduled failures.
+2. To un-stick the scheduler immediately, toggle the workflow off and on:
+   ```bash
+   gh workflow disable api-enrichment.yml
+   sleep 3
+   gh workflow enable api-enrichment.yml
+   ```
+   Verify via `gh api repos/.../actions/workflows/{id} --jq '.updated_at'` — a fresh timestamp confirms the toggle took effect. Applied 2026-04-10 20:32Z (commit following this Pipeline Guide edit).
+
+**Quality check rule:** Preflight should now include a "scheduled runs health" check: `gh run list --workflow=api-enrichment.yml --limit 5 --json event,createdAt` and look for at least one `schedule` event in the last 12 hours. If none, the scheduler is stuck — apply the disable/enable toggle. Add this to `.claude/commands/preflight.md` as Step 4b when a recurrence forces the issue.
+
+**Follow-up:** If the scheduler stops again after this fix holds, the cause is NOT the timeout-induced pause — it's something else (repo inactivity auto-disable, workflow file corruption, GitHub-side incident). Check `gh api /repos/.../actions/workflows/{id} --jq '.state'` first.
+
 ## How Data Lands in Profiles
 
 ### 1. Frontmatter (numbers)
