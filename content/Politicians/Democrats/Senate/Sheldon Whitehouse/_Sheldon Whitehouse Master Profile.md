@@ -60,7 +60,7 @@ opposes:
   - "DonorsTrust"
   - "Judicial Crisis Network"
   - "Marble Freedom Trust"
-donors: "League of Conservation Voters ($193K career, #1),Trial Lawyers Fund,Motley Rice LLC,Thornton Law Firm,Environmental Law & Policy Center,Ocean Conservancy,Demand Justice,Brady Campaign,AIPAC network ($147K 2024 cycle),Fraternal Order of Police · [[Fraternal Order of Police]]"
+donors:
   - "League of Conservation Voters ($193K career, #1)"
   - "Trial Lawyers Fund"
   - "Motley Rice LLC"
