@@ -112,6 +112,62 @@ gh workflow run api-enrichment.yml --field limit=5 --field pipeline=lobbyview
 
 Pipeline options: `fec`, `fec-summary`, `congress`, `committee`, `propublica`, `nonprofit-990`, `sam`, `lda`, `usaspending`, `usaspending-awards`, `govtrack`, `lobbyview`, `fara`, `courtlistener`, `federal-register`, `sec-edgar`, `sec-litigation`, `public-accountability`, `fcc`, `opensanctions`, `doj-press`, `wikipedia`, `ofac-sdn`, `recall`, `nhtsa-recalls`, `lobbying-contrib`, `stock-watcher`, `gleif`, `epa-echo`, `osha`, `all`
 
+## Engine-wide known incidents (shared infrastructure)
+
+These are bugs in the shared libraries (`scripts/lib/`) or the GitHub Actions workflow — they affect multiple pipelines at once and deserve their own section so each pipeline cheatsheet doesn't have to re-document them.
+
+### FileCache null/undefined conflation (fixed 2026-04-11)
+
+**Incident:** `FileCache.get(key)` in `scripts/lib/shared.cjs` returns `null` for BOTH "missing key" and "cached null value" — it never returns `undefined`. Two pipelines short-circuited their own API calls on a cold cache by checking `if (cached !== undefined) return cached`:
+- `scripts/wikipedia-pipeline.cjs` (3 sites: wbsearchentities, wbgetentities, Wikipedia summary)
+- `scripts/opensanctions-pipeline.cjs` (1 site: match batch cache)
+
+Both pipelines silently reported "not found" / "cached" for every profile on the first run with an empty cache, because `null !== undefined` is always true. Verified against John Boozman, Neil Gorsuch, Jan Koum — all have Wikidata entries but the pipeline never fetched them.
+
+**Fix:** All four sites now use `if (cached != null) return cached` (loose-equality catches both null and undefined). Trade-off: negative results are no longer cached across runs for these pipelines, but the cost is acceptable (single API call per unknown profile, not a hot loop).
+
+**Quality check rule:** When writing any pipeline against `FileCache`, check the return value of `get()` with `!= null`, never `!== undefined`. Consider this a required code-review item. If you genuinely need to distinguish "missing" from "cached null", write a wrapper that stores a sentinel (e.g., empty string) for negative results and checks for it explicitly — do not rely on `undefined`.
+
+### Api-config env-var naming: two valid conventions (2026-04-11)
+
+**Background:** The engine's GitHub Secrets use non-standard names (`FECAPI`, `CONGRESSAPI`, `LDAAPI`, `SAMAPI`, `DOLAPI`, `LOBBYVIEWAPI`, `COURTLISTENERAPI`, `OPENSANCTIONSAPI`) that get written to `.env` by the workflow. For local runs, `scripts/lib/api-config.cjs` expected the conventional names (`FEC_API_KEY`, `CONGRESS_API_KEY`, etc.), so a developer who pasted their GitHub-Secret values verbatim into `donor-map-engine/.env` saw every pipeline fall back to `DEMO_KEY` without any obvious error.
+
+**Fix:** `api-config.cjs` now resolves keys via a `pickKey(...names)` helper that tries multiple name variants in order. **Both** naming conventions work:
+```
+FEC_API_KEY=...       # standard name
+FECAPI=...            # GitHub-Secret name (also accepted)
+```
+No migration needed — either style resolves correctly.
+
+**Quality check rule:** Any new API added to `api-config.cjs` should register both the standard name and the GitHub-Secret name via `pickKey()`. If you see a `env.FOO_API_KEY || process.env.FOO_API_KEY` pattern elsewhere in the file, refactor it to use `pickKey()` when you're in there.
+
+### Mandated real keys: hard-fail on DEMO_KEY for high-volume pipelines (2026-04-11)
+
+**Incident:** FEC's `DEMO_KEY` has a 40 req/hr limit. Historically the FEC pipeline would print a warning and continue, meaning the first 40-odd profiles succeeded and the rest silently returned "not found" due to 429s. Those 429 responses then poisoned the `fec-not-found-cache` so the profiles STAYED "not found" on subsequent runs until the cache expired.
+
+**Fix:** `apiConfig.requireRealKeys(...names)` now hard-fails the process if a required key is missing or equals `DEMO_KEY`. Currently called by:
+- `scripts/fec-pipeline.cjs` → requires `fec`
+- `scripts/congress-pipeline.cjs` → requires `congress`
+
+Add `apiConfig.requireRealKeys(...)` near the top of any new pipeline that needs a registered key to function correctly (LDA, SAM, LobbyView, CourtListener, DOL/OSHA, OpenSanctions).
+
+**Override for local debugging only:** `ALLOW_DEMO_KEYS=1 node scripts/fec-pipeline.cjs ...`. Never set this environment variable in CI or in any `--write` run.
+
+### GitHub Actions `api-enrichment.yml` stale-log contamination (fixed 2026-04-11)
+
+**Incident:** The workflow cached the entire `reports/` directory via `actions/cache@v4` with `restore-keys: pipeline-caches-`, and the per-pipeline "Written to vault" counts were grepped out of `reports/logs/*.log` files at commit time. When the parallel-run step hit its 25-minute timeout (happened on both of the 2026-04-09 scheduled runs), the new logs never overwrote the old cached logs. The commit-message step then reported **stale counts from the previous run**, making it look like every run was producing the same per-pipeline write counts (e.g. `courtlistener:14 doj-press:15 fara:2 federal-register:10 gleif:8 govtrack:4 lda:7 nhtsa-recalls:8 nonprofit-990:10 sec-edgar:9 usaspending-awards:3 usaspending:4`) across totally different file totals (93 → 125 → 220 → 452). Smoking gun: commits `f0473ec8`, `0cc2eeeb`, `d19255cf`, `e2cb82cf`, `cdace094`, `6d3dbd68`, `182fde48`, `0cc9bfa0`, `ce987e39` — identical per-pipeline counts, wildly different file totals.
+
+Secondary impact: the `wait` step in the parallel runner never returned when a single slow pipeline hung past 25 minutes, so the auto-connection engine that runs after `wait` never executed on those runs.
+
+**Fix (three-part):**
+1. **Exclude `reports/logs/` from the cache path** via `!reports/logs` pattern — only data caches persist across runs.
+2. **Wipe `reports/logs/` at the start of each parallel-run step** (`rm -rf reports/logs` before `mkdir -p`) as defence-in-depth.
+3. **Bump the parallel-step timeout** from 25 → 30 minutes, and the job timeout from 35 → 40 minutes, to give slow pipelines more headroom.
+
+**Quality check rule:** If two consecutive enrichment commits show **identical** per-pipeline counts in their subject lines but different file-change totals, assume log contamination and investigate. Also: do NOT cache log files — cache DATA files only (the `*-cache.json` inventories that pipelines themselves write to `reports/` for memoization).
+
+**Follow-up TODO:** Some pipelines may genuinely run longer than 30 minutes on a full batch. If the 30-min timeout still fires on scheduled runs, split the workflow into "fast pipelines" (< 5 min each) and "slow pipelines" (> 5 min) running as separate jobs, or trim the `--limit=` on the slowest offenders (candidates from experience: `opensanctions --limit=50`, `wikipedia --limit=30`, `gleif --limit=30`). Measure before cutting.
+
 ## How Data Lands in Profiles
 
 ### 1. Frontmatter (numbers)
@@ -714,6 +770,20 @@ All 12 priority pipelines completed 2026-04-10. Refresh quarterly.
 **Vault cleanup:** 95 profiles had contaminated `auto:congress-legislation`, `auto:committee-assignments`, and `auto:voting-record` blocks stripped by `scripts/clean-a000383-contamination.cjs` on 2026-04-10. Affected profiles include Ramaswamy, Kash Patel, Marco Rubio, Michael Waltz, Pam Bondi, Rex Tillerson, Russell Vought, Scott Bessent, Amy Coney Barrett, Neil Gorsuch, Kathy Hochul, JB Pritzker, Amy Acton, Josh Green, Janet Mills, Cori Bush, Jamaal Bowman.
 
 **Quality check rule:** Before accepting any `auto:congress-*` block as a Tier 1 source, verify the bioguide-id in the source URL matches the profile's frontmatter `bioguide-id` field. If they diverge, the block is contaminated — strip it and await fresh pipeline run.
+
+---
+
+**`/member?query=` parameter is silently ignored (discovered + fixed 2026-04-11):** The v3 `/member?query=Bernie+Sanders` endpoint returns the same default page of members regardless of the `query` value. Verified against the live API: `?query=Sanders`, `?query=Bernie+Sanders`, and `?query=` (empty) all returned the identical 5-member page starting with Joaquin Castro, Kristen McDonald Rivet, Jason Crow, Alan Armstrong, Markwayne Mullin — none of which are Sanders. The `state=XX` and `stateCode=XX` params are also silently ignored on the `/member` collection endpoint.
+
+**Impact:** Every politician profile WITHOUT a pre-populated `bioguide-id` in frontmatter silently returned "not found" after the 2026-04-10 fix tightened the match rules. The earlier A000383 guard (require state + last-name match) turned a silent wrong-match bug into a silent zero-match bug because the upstream query was returning the wrong pool of candidates to filter.
+
+**Engine fix:** `scripts/congress-pipeline.cjs` now uses `/member/congress/{congressNumber}/{stateCode}` — this IS honored by the API and returns the full state delegation. The pipeline fetches each state delegation once per run (cached by `state-delegation:{congress}:{stateAbbr}` key for CACHE_TTL hours) and matches profiles locally against that list using nickname-aware first-name matching (Bernie↔Bernard, Jim↔James, Bill↔William, etc.). Falls back to `congress - 1` for recently-departed members. The broken `query=name` URL is never constructed.
+
+**Verified working after fix:** Bernie Sanders (Independent, VT, S000033), Lisa Murkowski, Chuck Schumer, Mark Green, Mario Diaz-Balart, Rick Larsen — all found across parties and chambers. A state-delegation fetch costs 1 API call and is cached, so the pipeline is actually *cheaper* than per-profile searches.
+
+**Quality check rule:** If a Congress.gov pipeline run reports "Not found" for more than ~5% of current congressional profiles without an explicit `bioguide-id` override, investigate immediately — it means either the `/member/congress/{N}/{stateCode}` endpoint has been retired, or the `CURRENT_CONGRESS` constant in the pipeline needs bumping (January of odd years).
+
+**Do NOT use on the `/member` collection:** `query`, `state`, `stateCode`, `district`, `party`, or any other filter param you might expect from a REST API. They are accepted without error and silently ignored. Use path parameters instead: `/member/{bioguideId}`, `/member/congress/{N}`, `/member/congress/{N}/{stateCode}`, `/member/congress/{N}/{stateCode}/{district}`.
 
 ## Senate LDA API
 **Last verified:** 2026-04-10
@@ -1365,7 +1435,13 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 
 ### Known incidents (our vault)
 
-**No major incidents to date.** ProPublica Nonprofit Explorer is reliable for EIN-based lookups. Name search requires disambiguation for common org names (multiple orgs share names but have distinct EINs).
+**Fuzzy-match first-result fallback bug (fixed 2026-04-11):** `bestMatch()` in `scripts/propublica-pipeline.cjs` had a silent `return results[0]` fallback for any search that didn't produce an exact or bidirectional-substring match. Searching `Coinbase` (a for-profit, not a nonprofit) returned a false-positive match to "Coinwise Foundation" (EIN 882190767) — a completely unrelated org that happened to rank first in ProPublica's search results. This is an A000383-class bug: wrong EIN silently written into frontmatter, wrong 990 filings cited as Tier 1 sources on the profile. We don't yet know how many profiles were affected historically; the previous logic would have produced wrong matches for any donor whose profile name doesn't exactly exist in IRS 990 records.
+
+**Engine fix:** `bestMatch()` now only returns a result on (1) exact normalized-name match, or (2) full-target-phrase contiguous substring match where the result name adds at most 3 additional tokens (for boilerplate like "Foundation", "Inc", "of"). Returns `null` otherwise — refuses to guess. Token-level filtering rejects any single-word target matched against a 4+-token org name.
+
+**Vault cleanup:** Needed. Flag for audit — scan all profiles with `auto:propublica-990` blocks and verify the `ein` cited in the block matches the actual entity. Short-term: check any profile whose EIN does NOT appear in its frontmatter `ein` field, or where the ProPublica org name in the auto-block differs substantively from the profile title.
+
+**Quality check rule:** Before citing a ProPublica 990 auto-block as Tier 1, confirm the org name returned by the API matches the profile title modulo common corporate-form suffixes (Inc / LLC / Foundation / Fund / Corporation / Trust). Single-word targets (e.g., "Coinbase", "Meta", "X") are particularly prone to false-positive fuzzy matches and should be hand-verified.
 
 **Vault convention:** Use EIN-direct lookup (9-digit) whenever possible — authoritative and prevents disambiguation issues. DMFI (EIN 833298146), QVT Financial-adjacent 990 entries, and mega-donor family foundations use this pattern.
 
@@ -1727,6 +1803,14 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 **Related fix:** Chamber filter added — non-congressional politicians (governors, candidates, cabinet, SCOTUS) no longer get GovTrack auto-blocks.
 
 **Quality check rule:** If a profile's `auto:govtrack` shows 0 bills but frontmatter says bills exist, OR if total votes cast > 0 but bills sponsored + cosponsored == 0, the cache is stale. Strip the block and await fresh pipeline run.
+
+---
+
+**Nickname lookup bug — legal-name-only matching (fixed 2026-04-11):** GovTrack's `/person?q=` endpoint does strict full-string matching against legal names. Searching `q=Jim Risch` returned **0 results** even though GovTrack stores him as "James Risch" (ID 412322); `q=Risch` alone returns 1 result. Every senator/rep whose vault profile uses a nickname that differs from their legal first name was silently dropped: Jim/James, Bill/William, Bob/Robert, Dick/Richard, Joe/Joseph, Mike/Michael, Chuck/Charles, Tom/Thomas, etc.
+
+**Engine fix:** `searchPerson()` in `scripts/govtrack-pipeline.cjs` now queries by last name only (`q=Risch&limit=40`) and performs nickname-aware matching locally via a `NICKNAMES` lookup table and a `firstNamesMatch()` helper that also accepts 3-character prefix matches. Falls back to a full-name query only if the last-name query returns nothing (unusual surname case).
+
+**Quality check rule:** After a full GovTrack pipeline run, scan for sitting members-of-congress profiles with `auto:govtrack` either missing or showing 0 bills/0 cosponsored/0 votes. If any senator or currently-serving rep is in that bucket, the first thing to test is whether their vault profile uses a nickname — add the nickname to the `NICKNAMES` table in `scripts/govtrack-pipeline.cjs` if so.
 
 ## FARA (Foreign Agents Registration Act)
 **Last verified:** 2026-04-10
