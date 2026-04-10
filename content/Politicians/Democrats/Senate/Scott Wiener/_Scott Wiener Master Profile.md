@@ -129,3 +129,10 @@ Wiener uses technocratic framing — "supply and demand," "evidence-based housin
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA11116/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Scott Wiener](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

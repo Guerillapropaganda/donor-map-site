@@ -206,3 +206,10 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6CA11219/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Saikat Chakrabarti](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

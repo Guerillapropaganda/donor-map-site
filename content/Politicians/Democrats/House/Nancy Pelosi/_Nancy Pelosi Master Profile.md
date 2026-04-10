@@ -2,7 +2,7 @@
 title: "Nancy Pelosi Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 career-total: "$1.6B"
 parent: null
@@ -47,7 +47,7 @@ top-donors:
   - "Kaiser Permanente"
 total-received: "$2,408,010"
 fec-candidate-id: "H8CA05035"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 source-types:
   - DOJ
   - FEC
@@ -57,6 +57,11 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]]"
+bioguide-id: "C001091"
+wikidata-id: "Q170581"
+wikipedia-url: "https://en.wikipedia.org/wiki/Nancy_Pelosi"
+wikipedia-extract: "Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the United States House of Representatives, serving from 2007 to 2011 and again from 2019 to 2023."
+born: "1940-03-26"
 ---
 #pelosi #master-profile #speaker #democrat #california #class-analysis #follow-the-money #san-francisco #donor-class #tech #stock-trading #dccc #gatekeeper
 
@@ -259,3 +264,27 @@ research-status:: ready — Full citation pass complete. $1.6B fundraising machi
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the United States House of Representatives, serving from 2007 to 2011 and again from 2019 to 2023.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q170581](https://www.wikidata.org/wiki/Q170581) |
+| Description | American politician (born 1940) |
+| Born | 1940-03-26 |
+| Website | [https://pelosi.house.gov](https://pelosi.house.gov) |
+| X/Twitter | [@SpeakerPelosi](https://x.com/SpeakerPelosi) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Official_photo_of_Speaker_Nancy_Pelosi_in_2019.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Nancy_Pelosi) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q170581) (Tier 2)
+<!-- auto:wikipedia end -->

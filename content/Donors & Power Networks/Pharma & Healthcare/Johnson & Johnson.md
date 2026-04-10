@@ -33,6 +33,8 @@ total-revenue: 359319
 total-assets: 1224754
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+ftc-enforcement-actions: 6
+ftc-hsr-notices: 50
 ---
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
 
@@ -272,3 +274,38 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Johnson%20%26%20Johnson) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 6 |
+| HSR early termination notices (merger filings) | 50 |
+| Most recent enforcement action | 2017-09-27 |
+| Earliest enforcement action | 1995-12-19 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 6
+
+**Recent enforcement actions (historical):**
+
+- [Johnson & Johnson/Integra LifeSciences](https://www.ftc.gov/news-events/press-releases/2017/09/ftc-requires-divestiture-5-medical-device-product-lines-condition) (2017-09-27) — Health Care � Medical Equipment/Devices
+- [Johnson & Johnson / Synthes](http://www.ftc.gov/os/caselist/1110160/index.shtm) (2012-06-11) — Health Care � Medical Equipment/Devices
+- [Johnson & Johnson / Pfizer](http://www.ftc.gov/os/caselist/0610220/0610220.shtm) (2006-12-12) — Health Care � OTC Drugs/Devices
+- [Johnson & Johnson / Guidant Corporation](http://www.ftc.gov/os/caselist/0510050/0510050.shtm) (2005-11-02) — Health Care � Medical Equipment/Devices
+- [S.C. Johnson & Son, Inc.](http://www.ftc.gov/os/caselist/c3802.shtm) (1998-01-22) — Manufacturing � Consumer Goods (non Food & Bev.)
+- Johnson & Johnson, Inc. (1995-12-19) — Health Care � Medical Equipment/Devices
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Johnson & Johnson → Fate Therapeutics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201131) (2020-06-22)
+- [Johnson & Johnson → MeiraGTx Holdings plc](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190827) (2019-02-25)
+- [Gryphon Partners V, L.P. → Johnson & Johnson](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190512) (2018-12-17)
+- [Johnson & Johnson → Arrowhead Pharmaceuticals, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190039) (2018-10-26)
+- [Fortive Corporation → Johnson & Johnson](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181508) (2018-07-02)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Johnson%20%26%20Johnson).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Johnson%20%26%20Johnson) (Tier 1)
+<!-- auto:ftc-enforcement end -->

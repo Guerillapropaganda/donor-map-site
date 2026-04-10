@@ -25,6 +25,32 @@ court-jurisdictions:
 lei: "549300MB5G3G4YWX8732"
 lei-jurisdiction: "US-CA"
 related: "[[Silicon Valley Democratic Donor Network]] · [[_Kamala Harris Master Profile]] · [[Democratic Donor Network]] · [[Climate Philanthropy - The Green Billionaires]] · [[Education - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Reed Hastings]]"
+sec-filings: 71
+sec-form-types:
+  - "10-K"
+  - "424B3"
+  - "424B4"
+  - "424B7"
+  - "D"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DEFC14A"
+  - "DFAN14A"
+  - "DRS"
+  - "DRS/A"
+  - "EX-1"
+  - "EX-99.1"
+  - "POS AM"
+  - "PRE 14A"
+  - "PREC14A"
+  - "PRRN14A"
+  - "S-1"
+  - "S-1/A"
+  - "S-3ASR"
+  - "S-4"
+  - "S-4/A"
+  - "SC 13G"
+  - "SC 13G/A"
 ---
 #donor-node #mega-donor #media #democrat #philanthropy #class-analysis #emerson-collective #the-atlantic #education-reform #immigration
 
@@ -202,3 +228,21 @@ Media Ownership and Donor Influence — The Atlantic, Axios funding, Gimlet Medi
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 71 |
+| Form Types | 10-K, 424B3, 424B4, 424B7, D, DEF 14A, DEFA14A, DEFC14A +16 more |
+
+**Notable filings:**
+
+- 2017-01-13 — **SC 13G/A**: SC 13G/A
+- 2015-03-12 — **SC 13G**: SCHEDULE 13G
+- 2016-02-16 — **SC 13G/A**: SCHEDULE 13G/A
+- 2017-01-13 — **EX-99.1**: EX-1
+- 2015-03-12 — **EX-1**: JOINT FILING AGREEMENT
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Laurene%20Powell%20Jobs%22) (Tier 1)
+<!-- auto:sec-edgar end -->

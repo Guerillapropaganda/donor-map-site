@@ -22,6 +22,9 @@ total-assets: 102769051
 federal-register-mentions: 1
 regulatory-agencies:
   - "Housing and Urban Development Department"
+wikidata-id: "Q4732297"
+wikipedia-url: "https://en.wikipedia.org/wiki/Alliance_Defending_Freedom"
+wikipedia-extract: "The Alliance Defending Freedom (ADF), formerly the Alliance Defense Fund, is an American 501(c)3 nonprofit conservative Christian legal advocacy group."
 ---
 #adf #religious-liberty #anti-lgbtq #scotus #litigation #dark-money #christian-right
 
@@ -135,3 +138,20 @@ Each victory expands the legal territory in which religious objections override 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Alliance%20Defending%20Freedom%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+The Alliance Defending Freedom (ADF), formerly the Alliance Defense Fund, is an American 501(c)3 nonprofit conservative Christian legal advocacy group.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q4732297](https://www.wikidata.org/wiki/Q4732297) |
+| Description | American conservative Christian legal advocacy group |
+| Founded | 1994-00-00 |
+| Website | [https://adflegal.org/](https://adflegal.org/) |
+| X/Twitter | [@AllianceDefends](https://x.com/AllianceDefends) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/a/a5/Alliance_Defending_Freedom_%28logo%29.png) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Alliance_Defending_Freedom) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q4732297) (Tier 2)
+<!-- auto:wikipedia end -->

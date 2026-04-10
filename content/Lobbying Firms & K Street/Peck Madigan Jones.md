@@ -2,13 +2,17 @@
 title: "Peck Madigan Jones (now Tiber Creek Group)"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 annual-revenue: "$23.8M"
 lobbyist-count: 20
 revolving-door-pct: "65.0%"
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Apollo Global Management]] · [[Fossil Fuel Bloc]] · [[Brownstein Hyatt Farber Schreck]] · [[Crossroads Strategies]] · [[Prime Policy Group]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[K&L Gates]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+fara-status: "registrant"
+fara-records: 2
+fara-countries:
+  - "JAPAN"
 ---
 
 #lobbying #k-street #democratic #bipartisan #healthcare #pharma #biden #clinton #trade #appropriations #energy
@@ -215,3 +219,19 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 - [Tiber Creek Group: Jan Beukelman — Partner Biography (January 2024)](https://www.tibercreekgroup.com/archives/team/jan-beukelman) (Tier 3)
 - [Senate LDA Filings: Tiber Creek Group Lobbying Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 2 |
+| Countries | JAPAN |
+| Foreign Principal Records | 1 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Embassy of Japan (JAPAN)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Peck%20Madigan%20Jones%20(now%20Tiber%20Creek%20Group)) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

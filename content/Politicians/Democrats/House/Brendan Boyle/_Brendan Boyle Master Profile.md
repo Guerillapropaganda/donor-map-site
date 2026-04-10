@@ -183,3 +183,10 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Brendan Boyle](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

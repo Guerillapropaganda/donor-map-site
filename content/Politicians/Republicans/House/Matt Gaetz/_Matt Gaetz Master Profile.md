@@ -2,7 +2,7 @@
 title: "Matt Gaetz Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -21,6 +21,8 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]]"
+last-enriched: "2026-04-10"
+bioguide-id: "C001091"
 ---
 #matt-gaetz #house #florida #freedom-caucus #trump-loyalist #sex-trafficking #ethics #family-wealth #chaos-agent #class-analysis #maga
 
@@ -199,3 +201,10 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 ## Committee Assignments (Congress.gov)
 
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

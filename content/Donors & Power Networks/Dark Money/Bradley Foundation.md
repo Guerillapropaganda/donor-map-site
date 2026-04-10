@@ -48,6 +48,9 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, S.D. Texas"
+nonprofit-status: "501(c)(3)"
+total-revenue: 9465
+total-assets: 3513570
 ---
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
 

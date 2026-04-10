@@ -19,6 +19,12 @@ top-donors:
   - "Boeing"
 donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]]"
 related: "[[The Armed Services Committee and Progressive Defense Paradox]] · [[_Jack Reed Master Profile|Reed]] · [[Lockheed Martin]] · [[Boeing]] · [[_Donald Trump Master Profile|Trump]]"
+last-enriched: "2026-04-10"
+govtrack-id: 400341
+bills-sponsored: 82
+bills-cosponsored: 1979
+website: "https://mikerogers.house.gov"
+phone: "202-225-3261"
 ---
 #mike-rogers #republican #alabama #house #committee-chair #armed-services #defense #lockheed-martin #space-force #space-command #phase-6-gavel-power
 
@@ -155,3 +161,35 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 - [Wikipedia: Mike Rogers (Alabama politician)](https://en.wikipedia.org/wiki/Mike_Rogers_%28Alabama_politician%29) (Tier 3)
 - [Encyclopedia of Alabama: Mike Rogers](https://encyclopediaofalabama.org/article/mike-rogers/) (Tier 3)
 
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 82 |
+| Bills Cosponsored | 1,979 |
+| Total Votes Cast | 14,974 |
+
+**Recent bills sponsored:**
+
+- H.R. 6971: To require congressional approval of major Executive Orders and major rules, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 7, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6970: To amend the Internal Revenue Code of 1986 to exclude from gross income the earnings from certain overseas deployments o — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 7, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Con.Res. 66: Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 1071. — *This concurrent resolution was agreed to by both chambers of Congress on December 17, 2025. That is the end of the legislative process for concurrent resolutions. They do not have the force of law.*
+- H.Res. 915: Expressing the sense of the House of Representatives that the Ukrainian famine of 1932-1933, known as the Holodomor, is  — *This resolution is in the first stage of the legislative process. It was introduced into Congress on November 28, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3838: Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 202 — *This bill passed in the House on September 10, 2025 and goes to the Senate next for consideration. Provisions of this bill were incorporated into other bills.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400341) (Tier 1)
+<!-- auto:govtrack end -->

@@ -11,8 +11,16 @@ state: "Missouri"
 state-abbr: "MO"
 district: "1"
 issues:
-  - Criminal Justice
-  - Israel & Foreign Policy
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Emergency Management"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
+  - "International Affairs"
+  - "Labor and Employment"
 related: "[[_Cori Bush Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
 donors:
   - "AIPAC"
@@ -27,6 +35,7 @@ known-gaps:
 last-enriched: "2026-04-10"
 total-received: "$1,272,557"
 fec-candidate-id: "H4MO01134"
+bioguide-id: "B001324"
 ---
 
 #wesley-bell #mo-01 #st-louis #aipac-backed #udp-supported #house #democrat #ferguson
@@ -107,3 +116,32 @@ Source: [[_Cori Bush Master Profile]], [[DMFI - Democratic Majority for Israel]]
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MO01134/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Missouri |
+| Chamber | House of Representatives |
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 401 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Commerce, Crime and Law Enforcement, Emergency Management, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Labor and Employment, Law, Public Lands and Natural Resources, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1138 | Recognizing the critical missions of the Federal Emergency Management Agency (FE… | Referred to the Committee on Homeland Security, and in addition to the Committees on Transportation and Infrastructure, Energy and Commerce, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7998 | BRIDGE Act | Referred to the House Committee on Ways and Means. |
+| 7814 | To establish an independent statutory commission within the legislative branch r… | Referred to the House Committee on the Judiciary. |
+| 7746 | To designate the facility of the United States Postal Service located at 8390 No… | Referred to the House Committee on Oversight and Government Reform. |
+| 7570 | Reinvest in Public Schools Act of 2026 | Referred to the House Committee on Ways and Means. |
+| 7461 | FEMA Accountability Act | Referred to the House Committee on Transportation and Infrastructure. |
+| 7395 | NO ICE ADs Act | Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7323 | Defense Technology Hubs Act of 2026 | Referred to the House Committee on Armed Services. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001324) (Tier 1)
+<!-- auto:congress-legislation end -->

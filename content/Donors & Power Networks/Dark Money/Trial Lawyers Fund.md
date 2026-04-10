@@ -9,15 +9,18 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Joe Biden"
-ein: 371064396
+ein: "371064396"
 annual-revenue: "$193K"
 net-assets: "$222K"
 tax-year: "2023"
 court-cases: 1
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, D. Massachusetts"
 related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 191325
+total-assets: 304648
 ---
 #trial-lawyers #tort #litigation #democratic #donor #aat #plaintiffs
 
@@ -73,3 +76,27 @@ Trial lawyer political spending is concentrated around blocking tort reform legi
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trial%20Lawyers%20Fund%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 371064396 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $191K |
+| Total Assets | $305K |
+| IRS Ruling Date | 1979-11-01 |
+| Filings on Record | 12 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/371064396/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/371064396) (Tier 1)
+<!-- auto:nonprofit-990 end -->

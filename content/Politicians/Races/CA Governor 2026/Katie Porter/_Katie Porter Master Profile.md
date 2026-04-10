@@ -48,6 +48,15 @@ known-gaps:
   - Several sources lack proper URLs (Emerson polling, Daily Beast, ABC7)
 last-enriched: "2026-04-10"
 related: "[[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[_Gavin Newsom Master Profile]]"
+opensanctions-status: "pep"
+opensanctions-matches: 1
+opensanctions-datasets:
+  - "wd_categories"
+  - "ann_pep_positions"
+  - "everypolitician"
+  - "wd_peps"
+  - "wikidata"
+  - "us_congress"
 ---
 #katie-porter #california #governor-2026 #anti-corporate #small-dollar #consumer-protection #crypto-opposition #class-analysis
 
@@ -222,3 +231,19 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412758) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | Politically Exposed Person (PEP) |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Source Databases | wd_categories, ann_pep_positions, everypolitician, wd_peps, wikidata, us_congress |
+| Topics | role.pep, role.pol |
+
+**Matched records:**
+- [Katie Porter](https://www.opensanctions.org/entities/Q58754391/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Katie%20Porter) (Tier 1)
+<!-- auto:opensanctions end -->

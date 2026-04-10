@@ -12,6 +12,8 @@ last-enriched: "2026-04-07"
 ofac-programs:
   - "SDGT"
 related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]]"
+lei: "558600VNAD657YBT9892"
+lei-jurisdiction: "SA"
 ---
 #saudi-arabia #foreign #oil #arms-sales #mbs #pif #lobbying #khashoggi
 
@@ -66,3 +68,18 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [558600VNAD657YBT9892](https://search.gleif.org/#/record/558600VNAD657YBT9892) |
+| Legal Name | The Saudi Fifth Technology Investment Company |
+| Jurisdiction | SA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-12T15:03:04Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

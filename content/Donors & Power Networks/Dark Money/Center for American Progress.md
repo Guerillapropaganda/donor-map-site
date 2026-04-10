@@ -2,7 +2,7 @@
 title: "Center for American Progress"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -15,7 +15,7 @@ annual-revenue: "$46.1M"
 net-assets: "$99.3M"
 tax-year: "2023"
 court-cases: 582
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the First Circuit"
@@ -60,6 +60,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
 related: "[[Democracy Alliance]] · [[Media Matters|David Brock]]"
+wikidata-id: "Q368035"
+wikipedia-url: "https://en.wikipedia.org/wiki/Center_for_American_Progress"
+wikipedia-extract: "The Center for American Progress (CAP) is a public policy research and advocacy organization which presents a liberal viewpoint on economic and social issues. CAP is headquartered in Washington, D.C."
 ---
 #center-for-american-progress #CAP #dark-money #think-tank #democratic #infrastructure #Neera-Tanden
 
@@ -230,3 +233,20 @@ The revolving door between CAP and Democratic administrations reveals **structur
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Center%20for%20American%20Progress) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+The Center for American Progress (CAP) is a public policy research and advocacy organization which presents a liberal viewpoint on economic and social issues. CAP is headquartered in Washington, D.C.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q368035](https://www.wikidata.org/wiki/Q368035) |
+| Description | progressive think tank in the United States |
+| Founded | 2003-00-00 |
+| Website | [https://americanprogress.org/](https://americanprogress.org/) |
+| X/Twitter | [@amprog](https://x.com/amprog) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CAP_logo_Nov_2021.svg/330px-CAP_logo_Nov_2021.svg.png) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q368035) (Tier 2)
+<!-- auto:wikipedia end -->

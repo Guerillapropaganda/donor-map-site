@@ -2,7 +2,7 @@
 title: "Patrick McHenry Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,15 +11,23 @@ state: "North Carolina"
 state-abbr: "NC"
 district: "10"
 issues:
-  - "Technology"
-  - "Wall Street & Finance"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Energy"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
 top-donors:
   - "Securities & Investment Industry"
   - "Kenneth Griffin"
   - "Crypto Industry Bloc"
 total-received: "$2,203,814"
 fec-candidate-id: "H4NC10047"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 source-types:
   - Congress
   - DOJ
@@ -29,9 +37,10 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 govtrack-id: 400644
-bills-sponsored: 0
-bills-cosponsored: 0
+bills-sponsored: 124
+bills-cosponsored: 1487
 related: "[[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]"
+bioguide-id: "M001156"
 ---
 #mchenry #master-profile #house #north-carolina #financial-services #crypto #revolving-door #wall-street #fit21
 
@@ -242,3 +251,93 @@ When questioned about consumer harm or fraud risk, McHenry invoked "free market 
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400644) (Tier 1)
 <!-- auto:govtrack end -->
+
+<!-- auto:govtrack pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 124 |
+| Bills Cosponsored | 1,487 |
+| Total Votes Cast | 13,283 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1626: Expressing the profound regret and sorrow of the House of Representatives on the death of James Earl Carter, Jr., thirty — *This simple resolution was agreed to on December 31, 2024. That is the end of the legislative process for a simple resolution.*
+- H.R. 10293: To extend certain authorities under the Defense Production Act of 1950. — *This bill was introduced on December 4, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 1600: Expressing the sense of the House of Representatives with respect to the use of artificial intelligence in the financial — *This resolution was introduced on November 26, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 807: Working Dog Commemorative Coin Act — *This bill was enacted after being signed by the President on November 25, 2024.*
+- H.R. 7440: Financial Services Innovation Act of 2024 — *This bill was introduced on April 17, 2024, in a previous session of Congress, but it did not receive a vote.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Yea | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400644) (Tier 1)
+
+<!-- auto:govtrack pending-merge end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | North Carolina |
+| Chamber | House of Representatives |
+| Bills Sponsored | 139 |
+| Bills Cosponsored | 1487 |
+
+**Policy areas:** Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Energy, Environmental Protection, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, International Affairs, Law, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1626 | Expressing the profound regret and sorrow of the House of Representatives on the… | Motion to reconsider laid on the table Agreed to without objection. |
+| 10293 | To extend certain authorities under the Defense Production Act of 1950. | Referred to the House Committee on Financial Services. |
+| 1600 | Expressing the sense of the House of Representatives with respect to the use of … | Referred to the House Committee on Financial Services. |
+| 7440 | Financial Services Innovation Act of 2024 | Placed on the Union Calendar, Calendar No. 654. |
+| 4766 | Clarity for Payment Stablecoins Act of 2023 | Placed on the Union Calendar, Calendar No. 408. |
+| 2799 | Expanding Access to Capital Act of 2023 | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4036 | Accountability through Confirmation Act | Referred to the House Committee on Financial Services. |
+| 4035 | Protecting Small Business Information Act of 2023 | Referred to the House Committee on Financial Services. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001156) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Yea** | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Not Voting** | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Yea** | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Yea** | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Yea** | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Not Voting** | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Not Voting** | Passed |
+| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Not Voting** | Passed |
+| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **Aye** | Passed |
+| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Not Voting** | Passed |
+| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Not Voting** | Passed |
+| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Not Voting** | Passed |
+| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Not Voting** | Passed |
+| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Yea** | Passed |
+
+**Sources**
+
+- [Congress.gov: Patrick McHenry](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Patrick McHenry](https://www.govtrack.us/congress/members/400644) (Tier 1)
+<!-- auto:voting-record end -->

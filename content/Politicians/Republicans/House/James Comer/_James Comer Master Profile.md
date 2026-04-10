@@ -2,7 +2,7 @@
 title: "James Comer"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -20,7 +20,23 @@ phone: "202-225-3115"
 related: "[[The Oversight Committee and the Anti-Corruption Brand]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
 total-received: "$1,108,482"
 fec-candidate-id: "H6KY01110"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
+bioguide-id: "C001108"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Environmental Protection"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
+  - "Labor and Employment"
+wikidata-id: "Q6131602"
+wikipedia-url: "https://en.wikipedia.org/wiki/James_Comer"
+wikipedia-extract: "James Richardson Comer Jr. is an American politician from Kentucky who represents the state's 1st congressional district in the United States House of Representatives."
+born: "1972-08-19"
 ---
 #james-comer #republican #kentucky #house #committee-chair #phase-6-gavel-power #oversight #investigations #class-analysis #follow-the-money
 
@@ -217,3 +233,49 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale �
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Kentucky |
+| Chamber | House of Representatives |
+| Bills Sponsored | 48 |
+| Bills Cosponsored | 609 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Commerce, Congress, Crime and Law Enforcement, Environmental Protection, Government Operations and Politics, Health, Housing and Community Development, Labor and Employment, Public Lands and Natural Resources, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7248 | MARINA Act | Referred to the House Committee on Transportation and Infrastructure. |
+| 4366 | Save Local Business Act | Rule H. Res. 988 passed House. |
+| 1515 | GOOD Act | Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| 1295 | Reorganizing Government Act of 2025 | Placed on the Union Calendar, Calendar No. 397. |
+| 1276 | To remove restrictions from a parcel of land in Paducah, Kentucky. | Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably. |
+| 82 | Providing amounts for the expenses of the Committee on Oversight and Government … | Referred to the House Committee on House Administration. |
+| 473 | SHOW UP Act of 2025 | Referred to the House Committee on Oversight and Government Reform. |
+| 9812 | Health Care Workforce Investment Act | Referred to the Subcommittee on Health. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001108) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+James Richardson Comer Jr. is an American politician from Kentucky who represents the state's 1st congressional district in the United States House of Representatives.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q6131602](https://www.wikidata.org/wiki/Q6131602) |
+| Description | American politician in Kentucky (born 1972) |
+| Born | 1972-08-19 |
+| Website | [https://comer.house.gov/](https://comer.house.gov/) |
+| X/Twitter | [@KYComer](https://x.com/KYComer) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/2025_James_Comer_(cropped).jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/James_Comer) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q6131602) (Tier 2)
+<!-- auto:wikipedia end -->

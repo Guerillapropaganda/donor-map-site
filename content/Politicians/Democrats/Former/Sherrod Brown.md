@@ -32,6 +32,16 @@ known-gaps:
   - "Committee assignments missing (chaired Banking)"
   - "Bills sponsored/cosponsored data wrong (shows 0)"
   - "No source-types detected"
+opensanctions-status: "pep-sanctioned"
+opensanctions-matches: 2
+opensanctions-datasets:
+  - "wd_categories"
+  - "ann_pep_positions"
+  - "everypolitician"
+  - "us_congress"
+  - "wd_peps"
+  - "wikidata"
+  - "ru_mfa_sanctions"
 ---
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
 tags: #democrat
@@ -149,3 +159,21 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400050) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | PEP + Sanctioned Entity |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Sanctions Records | 1 |
+| Source Databases | wd_categories, ann_pep_positions, everypolitician, us_congress, wd_peps, wikidata +1 more |
+| Topics | role.pol, sanction.counter, role.pep, role.rca |
+
+**Matched records:**
+- [Sherrod Brown](https://www.opensanctions.org/entities/Q381880/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+- [Sherrod Brown](https://www.opensanctions.org/entities/Q381880/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Sherrod%20Brown) (Tier 1)
+<!-- auto:opensanctions end -->

@@ -13,11 +13,23 @@ issues:
   - "Dark Money & Campaign Finance"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]] · [[_Ted Cruz Master Profile]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement]] · [[Cambridge Analytica and the Data Weaponization of Elections]]"
 lei: "213800EIIUUJGZ8VRD59"
 lei-jurisdiction: "GB"
 total-political-spend: "$2,042,848"
+court-cases: 175
+court-jurisdictions:
+  - "District Court, D. New Jersey"
+  - "District Court, D. South Carolina"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Ohio"
+  - "District Court, W.D. Oklahoma"
+  - "United States Bankruptcy Court, E.D. Michigan"
 ---
 #robert-mercer #mega-donor #renaissance-technologies #breitbart #cambridge-analytica #hedge-fund #dark-money #class-analysis
 
@@ -176,3 +188,22 @@ Political infrastructure that operates independently of politicians. The Mercer 
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Robert%20Mercer) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 175 |
+| Courts | District Court, D. New Jersey, District Court, D. South Carolina, District Court, District of Columbia, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Ohio, District Court, S.D. New York, District Court, S.D. Ohio +5 more |
+| Case Types | 365 Personal Inj. Prod. Liability, 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 820 Copyright, Civil Rights: Jobs |
+
+**Notable cases:**
+- Acovera v. 3M Company, f/k/a Minnesota Mining and Manufacturing Co. (2025) — District Court, D. South Carolina
+- 382 Channel Drive LLC (2025) — United States Bankruptcy Court, S.D. New York
+- Justin Robert Mercer (2024) — United States Bankruptcy Court, M.D. Georgia
+- Davis v. Howmet Aerospace, Inc. (2024) — District Court, N.D. Ohio
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- Mastriano v. Gregory (2024) — District Court, W.D. Oklahoma
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Robert%20Mercer%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

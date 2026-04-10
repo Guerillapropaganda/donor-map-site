@@ -32,6 +32,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
+wikidata-id: "Q559844"
+wikipedia-url: "https://en.wikipedia.org/wiki/Haim_Saban"
+wikipedia-extract: "Haim Saban is an Israeli and American media proprietor, investor, musical composer and producer of records, film, and television."
+born: "1944-10-15"
 ---
 #donor #israel #haim-saban #billionaire #entertainment #single-issue #democratic-mega-donor #follow-the-money #class-analysis #california #beverly-hills
 
@@ -215,3 +219,19 @@ National Democratic politics — Clinton network, AIPAC connection, UDP funding
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Haim%20Saban%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Haim Saban is an Israeli and American media proprietor, investor, musical composer and producer of records, film, and television.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q559844](https://www.wikidata.org/wiki/Q559844) |
+| Description | Israeli–American media proprietor, investor |
+| Born | 1944-10-15 |
+| X/Twitter | [@haimsaban](https://x.com/haimsaban) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Haim_Saban.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q559844) (Tier 2)
+<!-- auto:wikipedia end -->

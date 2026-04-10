@@ -335,3 +335,19 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Harold%20Hamm) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $70K
+- [[Doug Burgum]] — lobbying: $70K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

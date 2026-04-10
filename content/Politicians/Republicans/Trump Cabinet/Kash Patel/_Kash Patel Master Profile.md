@@ -161,3 +161,10 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 
 ## Committee Assignments (Congress.gov)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Kash Patel](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

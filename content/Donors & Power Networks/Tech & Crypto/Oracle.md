@@ -2,7 +2,7 @@
 title: "Oracle"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -43,6 +43,8 @@ court-jurisdictions:
   - "District Court, W.D. Missouri"
 lobbying-spend: 21330000
 lobbying-filings: 58
+lei: "969500QP03W2YD1S4389"
+lei-jurisdiction: "FR"
 ---
 #oracle #tech #cloud #government-contracts #lobbying #larry-ellison #tiktok
 
@@ -261,3 +263,18 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [969500QP03W2YD1S4389](https://search.gleif.org/#/record/969500QP03W2YD1S4389) |
+| Legal Name | ORACLE |
+| Jurisdiction | FR |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-09-29T19:57:15Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

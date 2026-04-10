@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
   - "Antitrust & Monopoly"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 ofac-programs:
   - "SDNTK"
   - "IRAN"

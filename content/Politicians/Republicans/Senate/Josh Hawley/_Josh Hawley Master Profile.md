@@ -2,7 +2,7 @@
 title: Josh Hawley Master Profile
 type: politician
 content-readiness: draft
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -25,6 +25,10 @@ known-gaps:
   - No mapped relationships
 opposes: "[[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]] · [[WOMEN VOTE!]] · [[PRIORITIES USA ACTION]]"
 related: "[[_Donald Trump Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]"
+last-enriched: "2026-04-10"
+govtrack-id: 405245
+bills-sponsored: 0
+bills-cosponsored: 0
 ---
 #josh-hawley #senate #missouri #january-6 #populism #dark-money #christian-nationalism #class-analysis
 
@@ -160,3 +164,27 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 ### Voting Record
 
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 5,551 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 1905-03-03 | TO PROCEED TO CONSIDERATION OF H.R. 12273 (APP. 3-3-05, 33, STAT. L. 1263), A BI… | Not Voting | unknown |
+| 1905-03-03 | TO PASS S.J.RES. 114, PROPOSING TO CONTINUE IN FORCE THE PROVISIONS OF SECTION 2… | Not Voting | unknown |
+| 1905-03-01 | TO AGREE TO THE FIRST DIVISION OF AMENDMENT TO H.R. 17865, (APP. 3-3-05, 33 STAT… | Not Voting | unknown |
+| 1905-03-01 | TO AMEND THE FIRST DIVISION OF THE AMENDMENT TO H.R. 17865, (APP. 3-3-05, 33 STA… | Not Voting | unknown |
+| 1905-02-28 | TO DECIDE THE POINT OF ORDER THAT THE AMENDMENT PROPOSING THAT NO PORTION OF THE… | Not Voting | unknown |
+| 1905-02-28 | TO AMEND H.R. 17474, BY GIVING THE INDIAN THE RIGHT TO DECIDE WHETHER ANY PART O… | Not Voting | unknown |
+| 1905-02-28 | TO SUSTAIN THE DECISION OF THE CHAIR DURING CONSIDERATION OF H.R. 17474, WHICH D… | Not Voting | unknown |
+| 1905-02-27 | TO DECIDE THE GUILT OR INNOCENCE OF CHARLES SWAYNE, U.S. DISTRICT COURT JUDGE IN… | Not Voting | unknown |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/405245) (Tier 1)
+<!-- auto:govtrack end -->

@@ -14,7 +14,7 @@ issues:
   - "Defense & Military"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 ein: 850703768
 annual-revenue: "$62.1M"
 net-assets: "$8.9M"
@@ -53,6 +53,11 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
   - "District Court, W.D. Kentucky"
+occ-enforcement-actions: 2
+occ-active-actions: 1
+occ-charter-numbers:
+  - "2212"
+occ-cmp-dollars: 3000
 ---
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying
 
@@ -306,3 +311,32 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Carlyle%20Group%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### OCC Enforcement Actions
+<!-- auto:occ-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Legal name (OCC) | Oakland National Bank |
+| Charter number(s) | 2212 |
+| Total OCC enforcement actions | 2 |
+| **Active actions** | **1** |
+| Civil Money Penalties | 1 |
+| Total CMP dollars | $3,000 |
+| Most recent action | 11/10/1992 |
+
+**Action types:**
+
+- Prohibition/Removal Orders: 1
+- Civil Money Penalty (CMP): 1
+
+**Still-active enforcement actions:**
+
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea860.pdf) (11/10/1992)
+
+**Recent enforcement history:**
+
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea860.pdf) (11/10/1992)
+- [: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea826.pdf) (11/10/1992) — $3,000
+
+- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+<!-- auto:occ-enforcement end -->

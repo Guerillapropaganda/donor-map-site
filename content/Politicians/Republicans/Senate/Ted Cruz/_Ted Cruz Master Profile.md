@@ -2,7 +2,7 @@
 title: "Ted Cruz Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 career-total: "$100M"
 parent: null
@@ -32,6 +32,13 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[Koch Network - Charles Koch]] · [[Robert Mercer]] · [[Goldman Sachs]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
+last-enriched: "2026-04-10"
+committees:
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - "Senate Committee on Foreign Relations"
+  - "Senate Committee on Rules and Administration"
+  - "Senate Committee on the Judiciary"
+bioguide-id: "C001091"
 ---
 #ted-cruz #senate #texas #oil-gas #goldman-sachs #robert-mercer #crypto #class-analysis
 
@@ -229,3 +236,31 @@ conte
 
 - [GovTrack: Ted Cruz](https://www.govtrack.us/congress/members/412573) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- Senate Committee on Commerce, Science, and Transportation
+- Senate Committee on Foreign Relations
+- Senate Committee on Rules and Administration
+- Senate Committee on the Judiciary
+
+**Subcommittees:**
+
+- Africa and Global Health Policy
+- Aviation, Space, and Innovation
+- Border Security and Immigration
+- Coast Guard, Maritime, and Fisheries
+- Consumer Protection, Technology, and Data Privacy
+- Crime and Counterterrorism
+- Federal Courts, Oversight, Agency Action, and Federal Rights
+- Near East, South Asia, Central Asia, and Counterterrorism
+- Science, Manufacturing, and Competitiveness
+- Surface Transportation, Freight, Pipelines, and Safety
+- Telecommunications and Media
+- Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
+- the Constitution
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

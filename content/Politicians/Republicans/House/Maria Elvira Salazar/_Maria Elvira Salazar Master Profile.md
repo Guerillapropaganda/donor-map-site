@@ -2,7 +2,7 @@
 title: "Maria Elvira Salazar"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,13 +13,17 @@ district: "27"
 top-donors:
   - "AIPAC"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-10"
 ofac-programs:
   - "SDNTK"
 total-received: "$922,124"
 fec-candidate-id: "H8FL27185"
 donors: "[[Bacardi - Bacardi USA]]"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+committees:
+  - "House Committee on Financial Services"
+  - "House Committee on Foreign Affairs"
+bioguide-id: "C001091"
 ---
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana
 
@@ -162,3 +166,21 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 ## Committee Assignments (Congress.gov)
 
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Financial Services
+- House Committee on Foreign Affairs
+
+**Subcommittees:**
+
+- Africa
+- Capital Markets
+- Housing and Insurance
+- National Security, Illicit Finance, and International Financial Institutions
+- Western Hemisphere
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -2,7 +2,7 @@
 title: "Roy Cooper Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,7 +16,7 @@ top-donors:
   - "UnitedHealth Group PAC"
 total-received: "$21,070,824"
 fec-candidate-id: "S6NC00407"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 source-types:
   - DOJ
   - FEC
@@ -26,6 +26,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[North Carolina 2026 Senate Race]] · [[Roy Cooper Health Insurance Industry Funding]]"
+bioguide-id: "C001091"
 ---
 #politician #democrat #senate #north-carolina #2026-candidate
 tags: #democrat
@@ -147,3 +148,10 @@ Cooper employs classic progressive populism coupled with executive pragmatism. W
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -74,6 +74,16 @@ editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4+ Tier 1 source types (FEC candidate page, Congress.gov DISCLOSE Act, multiple whitehouse.senate.gov primary-source speeches, Senate Budget Committee). EXCEPTIONAL class analysis: 'the dark money crusader who is himself embedded in the donor infrastructure he critiques.' Three contradictions documented with numbers: (1) Sandra Whitehouse $2.69M from Ocean Conservancy while Whitehouse voted for $6.9M in 2024 federal grants to Ocean Conservancy, (2) silence on AIPAC's $127M 2024 spending while AIPAC was his #1 2024 contributor at $147K, (3) Democratic dark money symmetry (Arabella, Demand Justice mirror the Leo infrastructure he critiques). 80+ 'Scheme' floor speeches + 300+ 'Time to Wake Up' climate speeches are the vault's most-cited primary-source watchdog work. FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: replaced single-entry 'Fraternal Order of Police' frontmatter donors field with the real donor list (merge script artifact from yesterday's consolidate-dual-related-fields run). FIXED: removed stale DOJ from source-types (vault DOJ blocks all stripped — engine false positive). Added bioguide-id W000802, structured opposes (Leo/Federalist/Koch), former-committees (Budget Chair 118th), expanded issues. No (URL NEEDED) tags. No A000383 contamination. DOJ block already cleaned this morning. Ready for editor review."
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Federalist Society]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[League of Conservation Voters]]"
+opensanctions-status: "pep-sanctioned"
+opensanctions-matches: 2
+opensanctions-datasets:
+  - "wd_categories"
+  - "ann_pep_positions"
+  - "everypolitician"
+  - "wd_peps"
+  - "wikidata"
+  - "us_congress"
+  - "ru_mfa_sanctions"
 ---
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel
 
@@ -331,3 +341,21 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 - [Congress.gov: Sheldon Whitehouse](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | PEP + Sanctioned Entity |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Sanctions Records | 1 |
+| Source Databases | wd_categories, ann_pep_positions, everypolitician, wd_peps, wikidata, us_congress +1 more |
+| Topics | role.pol, role.pep, role.judge, sanction.counter |
+
+**Matched records:**
+- [Sheldon Whitehouse](https://www.opensanctions.org/entities/Q652066/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+- [Sheldon Whitehouse](https://www.opensanctions.org/entities/ru-mfa-b55b27c764d96470e6c519cd41a71e34a2de1390/) — 100% match (ru_mfa_sanctions)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Sheldon%20Whitehouse) (Tier 1)
+<!-- auto:opensanctions end -->

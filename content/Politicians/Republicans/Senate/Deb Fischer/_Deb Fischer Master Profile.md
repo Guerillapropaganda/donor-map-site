@@ -2,7 +2,7 @@
 title: "Deb Fischer"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,8 +13,8 @@ committees:
   - "Armed Services"
   - "Agriculture"
 issues:
-  - "Agriculture"
-  - "Defense & Military"
+  - "Government Operations and Politics"
+  - "Public Lands and Natural Resources"
 top-donors:
   - "AIPAC"
 govtrack-id: 412556
@@ -26,6 +26,8 @@ total-received: "$572,417"
 fec-candidate-id: "S2NE00094"
 donors: "[[Insurance Industry]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+last-enriched: "2026-04-10"
+bioguide-id: "F000463"
 ---
 #deb-fischer #republican #nebraska #senate #armed-services #strategic-forces #nuclear #icbm #sentinel #meatpacking #agriculture #cattle #rancher #defense #phase-6-gavel-power
 
@@ -224,3 +226,32 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Nebraska |
+| Chamber | Senate |
+| Bills Sponsored | 342 |
+| Bills Cosponsored | 1559 |
+
+**Policy areas:** Government Operations and Politics, Public Lands and Natural Resources
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4151 | Unfunded Mandates Accountability and Transparency Act of 2026 | Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| — |  | — |
+| — |  | Amendment SA 4940 agreed to in Senate by Unanimous Consent. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | Amendment SA 4206 agreed to in Senate by Yea-Nay Vote. 91 - 0. Record Vote Number: 89. |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/F000463) (Tier 1)
+<!-- auto:congress-legislation end -->

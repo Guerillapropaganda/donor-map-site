@@ -2,13 +2,13 @@
 title: "Real Estate Board of New York"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Real Estate"
 entity-type: "Individual Donor"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -27,13 +27,16 @@ regulatory-agencies:
   - "Environmental Protection Agency"
   - "Federal Energy Regulatory Commission"
   - "Securities and Exchange Commission"
-ein: 131201480
+ein: "131201480"
 annual-revenue: "$17.2M"
 net-assets: "$26.7M"
 tax-year: "2023"
 related: "[[Kathy Hochul]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[National Association of Realtors]] · [[New York Housing Policy]] · [[Leonard Litwin - Glenwood Management]]"
 lobbying-spend: 32210838
 lobbying-filings: 101
+nonprofit-status: "501(c)(6)"
+total-revenue: 17247028
+total-assets: 24867283
 ---
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money
 
@@ -245,3 +248,27 @@ REBNY's influence operates through both direct campaign contributions and struct
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Real%20Estate%20Board%20of%20New%20York) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 131201480 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $17.2M |
+| Total Assets | $24.9M |
+| IRS Ruling Date | 1934-12-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1)
+<!-- auto:nonprofit-990 end -->

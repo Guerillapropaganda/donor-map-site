@@ -2,7 +2,7 @@
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -39,6 +39,16 @@ known-gaps:
   - 5 sources tagged (URL NEEDED) — Times of Israel, Daily Free Press, Current Affairs, Democratic Left, Fox News. Prevents verified promotion.
   - Committee assignments data needs verification (auto-block pipeline)
 related: "[[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]]"
+opensanctions-status: "pep-sanctioned"
+opensanctions-matches: 2
+opensanctions-datasets:
+  - "ann_pep_positions"
+  - "wd_categories"
+  - "everypolitician"
+  - "wd_peps"
+  - "wikidata"
+  - "ru_mfa_sanctions"
+  - "us_congress"
 ---
 #aoc #alexandria-ocasio-cortez #house #new-york #bronx #small-dollar #green-new-deal #dsa #progressive #class-analysis #squad
 
@@ -308,3 +318,47 @@ _No committee data found for the 119th Congress._
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Not Voting** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Not Voting** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Not Voting** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Alexandria Ocasio-Cortez](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Alexandria Ocasio-Cortez](https://www.govtrack.us/congress/members/412804) (Tier 1)
+<!-- auto:voting-record end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | PEP + Sanctioned Entity |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Sanctions Records | 1 |
+| Source Databases | ann_pep_positions, wd_categories, everypolitician, wd_peps, wikidata, ru_mfa_sanctions +1 more |
+| Topics | sanction.counter, role.pol, role.pep |
+
+**Matched records:**
+- [Alexandria Ocasio-Cortez](https://www.opensanctions.org/entities/Q55223040/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+- [Alexandria Ocasio-Cortez](https://www.opensanctions.org/entities/Q55223040/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Alexandria%20Ocasio-Cortez) (Tier 1)
+<!-- auto:opensanctions end -->

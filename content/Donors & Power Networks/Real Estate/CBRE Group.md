@@ -2,7 +2,7 @@
 title: "CBRE Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -46,6 +46,19 @@ federal-contracts-count: 3
 federal-grants-count: 0
 top-federal-agency: "General Services Administration"
 top-naics-code: "236220"
+court-cases: 212
+last-enriched: "2026-04-10"
+court-jurisdictions:
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. New Jersey"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, S.D. Iowa"
+  - "District Court, S.D. New York"
 ---
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange
 
@@ -169,3 +182,22 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 212 |
+| Courts | District Court, D. Maryland, District Court, D. Massachusetts, District Court, D. New Jersey, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Georgia +5 more |
+| Case Types | 190 Contract: Other, 422 Bankruptcy Appeal (801), 446 Civil Rights: Americans with Disabilities - Other, Civil Rights: Jobs |
+
+**Notable cases:**
+- Crump v. Cumberland Mall, LLC (2025) — District Court, N.D. Georgia
+- Perry, Sr. v. Coldwell, Banker, Richard, Ellis (CBRE) Group (2025) — District Court, D. Maryland
+- F-Star Socorro, L.P. and Official Committee of Unsecured Creditors for F-St (2025) — United States Bankruptcy Court, S.D. Texas
+- XHEPA v. CBRE GROUP, INC. (2025) — District Court, E.D. Pennsylvania
+- Iovate Health Sciences International Inc. (2025) — United States Bankruptcy Court, S.D. New York
+- CVS PHARMACY, INC. v. NEW RITE AID, LLC (2025) — District Court, D. New Jersey
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CBRE%20Group%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -10,7 +10,7 @@ entity-type: "PAC"
 politicians-funded:
   - "Rick Scott"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 ofac-programs:
   - "BALKANS"
   - "BELARUS"
@@ -26,6 +26,9 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, W.D. Michigan"
 related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[WinRed]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Senate Majority PAC]] · [[Winning for Women PAC]]"
+federal-register-mentions: 22
+regulatory-agencies:
+  - "Federal Election Commission"
 ---
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money
 
@@ -193,3 +196,25 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Republican%20Senatorial%20Committee%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 22 |
+| Final Rules | 9 |
+| Proposed Rules | 2 |
+| Notices | 11 |
+| Agencies | Federal Election Commission |
+
+**Recent regulatory activity:**
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2021/03/22/2021-05986/sunshine-act-meeting) (2021-03-22) — Federal Election Commission
+- [Sunshine Act Meeting](https://www.federalregister.gov/documents/2021/03/12/2021-04906/sunshine-act-meeting) (2021-03-12) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2021/02/22/2021-03694/sunshine-act-meetings) (2021-02-22) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2013/08/20/2013-20344/sunshine-act-meetings) (2013-08-20) — Federal Election Commission
+- [Sunshine Act Notice](https://www.federalregister.gov/documents/2011/04/04/2011-8068/sunshine-act-notice) (2011-04-04) — Federal Election Commission
+- [Sunshine Act Notice](https://www.federalregister.gov/documents/2011/03/11/2011-5846/sunshine-act-notice) (2011-03-11) — Federal Election Commission
+- ... and 16 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Republican%20Senatorial%20Committee%22) (Tier 1)
+<!-- auto:federal-register end -->

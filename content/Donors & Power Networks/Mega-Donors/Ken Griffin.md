@@ -2,7 +2,7 @@
 title: "Ken Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -54,6 +54,8 @@ sec-form-types:
   - "F-1/A"
   - "F-4/A"
   - "PART II AND III"
+lei: "2138007A496CEYCJKZ25"
+lei-jurisdiction: "GB"
 ---
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian
 
@@ -240,3 +242,18 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ken%20Griffin%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [2138007A496CEYCJKZ25](https://search.gleif.org/#/record/2138007A496CEYCJKZ25) |
+| Legal Name | GRIFFIN & BRAND (EUROPEAN) LIMITED |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-23T14:44:57Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

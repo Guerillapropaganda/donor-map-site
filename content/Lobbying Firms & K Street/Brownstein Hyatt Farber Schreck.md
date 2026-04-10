@@ -10,7 +10,7 @@ lobbyist-count: 81
 revolving-door-pct: "53.1%"
 related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[John Hickenlooper]]"
 federal-register-mentions: 6
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Antitrust Division"
   - "Consumer Product Safety Commission"
@@ -36,6 +36,18 @@ sec-form-types:
   - "EX-99.3"
   - "LETTER"
   - "S-8"
+court-cases: 1169
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Colorado"
+  - "District Court, D. Nevada"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Louisiana"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Florida"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, District of Columbia"
 ---
 
 #lobbying #k-street #energy #real-estate #cannabis #gaming #foreign-lobbying #defense #pharma #tech
@@ -268,3 +280,22 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,169 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Colorado, District Court, D. Nevada, District Court, E.D. California, District Court, E.D. Louisiana, District Court, N.D. Illinois, District Court, S.D. Florida +5 more |
+| Case Types | 110 Contract: Insurance, 1410 Antitrust, 893 Environmental Matters |
+
+**Notable cases:**
+- Adelson, et al. v. United States District Court for the District of Nevada, Las Vegas (2026) — Court of Appeals for the Ninth Circuit
+- Bradshaw International, Inc. v. United States of America (2026) — United States Court of International Trade
+- Center for Biological Diversity v. U.S. Bureau of Reclamation (2026) — District Court, E.D. California
+- Sweet, et al. v. McMahon, et al. (2026) — Court of Appeals for the Ninth Circuit
+- Glenwood Caverns Holdings LLC (2026) — United States Bankruptcy Court, D. Delaware
+- Petersen v. Evers (2026) — District Court, D. Nevada
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

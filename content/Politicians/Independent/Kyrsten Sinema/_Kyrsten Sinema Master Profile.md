@@ -2,7 +2,7 @@
 title: Kyrsten Sinema Master Profile
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Independent
@@ -15,7 +15,7 @@ issues:
 top-donors:
   - Wall Street Bloc
   - Pharmaceutical Industry
-fec-candidate-id: S8AZ00197
+fec-candidate-id: "S8AZ00197"
 source-types:
   - FEC
 known-gaps:
@@ -24,6 +24,12 @@ known-gaps:
   - No mapped relationships
 opposes: "[[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[CONGRESSIONAL LEADERSHIP FUND]]"
 related: "[[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · [[_Chuck Schumer Master Profile]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]]"
+total-raised: "$17,050,976"
+total-spent: "$12,945,617"
+cash-on-hand: "4276880.44"
+fec-cycle: 2024
+last-enriched: "2026-04-10"
+bioguide-id: "C001091"
 ---
 #kyrsten-sinema #senate #arizona #private-equity #carried-interest #pharma #filibuster #voting-rights #class-analysis #independent
 
@@ -197,3 +203,32 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $17,050,976 |
+| Total Spent | $12,945,617 |
+| Cash on Hand | 4276880.44 |
+| Individual Contributions | $9,471,364 |
+| PAC Contributions | $3,318,759 |
+| Coverage Through | 2024-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2024 | $17,050,976 | $12,945,617 | 4276880.44 |
+| 2018 | $22,643,275 | $24,735,383 | 171526.59 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S8AZ00197/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

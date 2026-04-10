@@ -179,4 +179,9 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Betty Yee](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
 

@@ -238,3 +238,10 @@ The new fault line: AI. Labor unions publicly conditioned 2028 support on AI reg
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Gavin Newsom](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

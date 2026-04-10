@@ -2,7 +2,7 @@
 title: "Lisa Murkowski"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -10,11 +10,19 @@ chamber: "Senate"
 state: "Alaska"
 state-abbr: "AK"
 issues:
-  - "Energy & Climate"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Energy"
+  - "Families"
+  - "Finance and Financial Sector"
+  - "Health"
+  - "Taxation"
 total-received: "$1,637,930"
 fec-candidate-id: "S4AK00099"
 donors: "[[AFGE - American Federation of Government Employees]] · [[ConocoPhillips]]"
 related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]]"
+last-enriched: "2026-04-10"
+bioguide-id: "M001153"
 ---
 #lisa-murkowski #republican #alaska #senate #energy #natural-resources #oil-gas #conocophillips #willow-project #anwr #bipartisan #write-in #native-affairs #phase-6-gavel-power
 
@@ -144,3 +152,32 @@ Murkowski is not a simple industry puppet. She supports climate science, biparti
 - [CBS News: Murkowski on navigating Washington under Trump](https://www.cbsnews.com/news/sen-lisa-murkowski-on-trump-her-place-in-the-gop-and-her-memoir-far-from-home/) (Tier 2)
 - [Ballotpedia: Lisa Murkowski](https://ballotpedia.org/Lisa_Murkowski) (Tier 3)
 
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Alaska |
+| Chamber | Senate |
+| Bills Sponsored | 1209 |
+| Bills Cosponsored | 3582 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Energy, Families, Finance and Financial Sector, Health, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4236 | A bill to amend the Consolidated Farm and Rural Development Act to expand eligib… | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
+| 4276 | A bill to reauthorize the Native American Housing Assistance and Self-Determinat… | Read twice and referred to the Committee on Indian Affairs. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| 4179 | AI/AN CAPTA | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001153) (Tier 1)
+<!-- auto:congress-legislation end -->

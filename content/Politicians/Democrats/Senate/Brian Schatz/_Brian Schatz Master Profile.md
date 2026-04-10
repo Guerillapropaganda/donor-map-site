@@ -2,7 +2,7 @@
 title: "Brian Schatz Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -29,6 +29,19 @@ bills-cosponsored: 249
 website: "https://www.schatz.senate.gov"
 phone: "202-224-3934"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Katie Porter Master Profile|Katie Porter]]"
+last-enriched: "2026-04-10"
+bioguide-id: "S001194"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Government Operations and Politics"
+  - "International Affairs"
+  - "Native Americans"
+  - "Science, Technology, Communications"
+  - "Taxation"
 ---
 #brian-schatz #democrat #hawaii #senate #appropriations #telecom #private-equity #schumer-heir #class-analysis #follow-the-money
 
@@ -146,6 +159,33 @@ party:: Democrat
 research-status:: ready
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Hawaii |
+| Chamber | Senate |
+| Bills Sponsored | 684 |
+| Bills Cosponsored | 2302 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Government Operations and Politics, International Affairs, Native Americans, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 32 | A concurrent resolution supporting the goals and ideals of International Transge… | Read twice and referred to the Committee on the Judiciary. (text: CR S1675) |
+| 4216 | GUARDRAILS Act | Read twice and referred to the Committee on Commerce, Science, and Transportation. |
+| 4210 | Child Suicide Prevention Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S001194) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

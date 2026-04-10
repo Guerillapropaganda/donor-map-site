@@ -14,7 +14,7 @@ issues:
   - "Labor & Workers"
 ein: "873103053"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 lobbying-spend: 42075000
 lobbying-filings: 59
 related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Alpine Group]] · [[Amy Klobuchar]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[_Donald Trump Master Profile|Trump]] · [[Labor - Donors and Backers]] · [[Elon Musk]] · [[Cathy McMorris Rodgers Master Profile]] · [[Oracle]]"
@@ -39,6 +39,18 @@ regulatory-agencies:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cpsc-recalls: 284
+court-cases: 67410
+court-jurisdictions:
+  - "District Court, D. Delaware"
+  - "District Court, D. Idaho"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Wisconsin"
+  - "District Court, M.D. Florida"
+  - "District Court, M.D. Tennessee"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. Florida"
 ---
 #donor #tech #corporation #anti-union #lobbying #government-contracts #labor #surveillance #revolving-door #bezos
 
@@ -447,3 +459,22 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Amazon) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 67,410 |
+| Courts | District Court, D. Delaware, District Court, D. Idaho, District Court, D. South Carolina, District Court, E.D. New York, District Court, E.D. Wisconsin, District Court, M.D. Florida, District Court, M.D. Tennessee, District Court, N.D. California +3 more |
+| Case Types | 820 Copyright, 830 Property Rights: Patent, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Garvey v. The Campbell's Company (2026) — District Court, N.D. California
+- DANCO, LLC v. Hangzhou Great Star Industrial Co., Ltd. (2026) — District Court, N.D. Texas
+- Global Brother SRL v. Ting (2026) — District Court, D. Delaware
+- Wood v. Amazon.com Services, LLC (2026) — District Court, M.D. Tennessee
+- Leavell v. Amazon Fulfillment Center BOIS (2026) — District Court, D. Idaho
+- Baldacci v. Amazon.com (2026) — District Court, W.D. Washington
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Amazon%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

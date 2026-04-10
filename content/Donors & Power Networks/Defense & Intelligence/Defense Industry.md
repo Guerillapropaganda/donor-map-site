@@ -2,7 +2,7 @@
 title: "Defense Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -14,7 +14,7 @@ annual-revenue: "$82K"
 net-assets: "$202K"
 tax-year: "2023"
 federal-register-mentions: 200
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Air Force Department"
   - "Antitrust Division"
@@ -32,6 +32,15 @@ related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] ·
 nonprofit-status: "501(c)(6)"
 total-revenue: 995455
 total-assets: 1266724
+court-cases: 895
+court-jurisdictions:
+  - "District Court, D. Maine"
+  - "District Court, D. Maryland"
+  - "District Court, D. South Carolina"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Pennsylvania"
+  - "United States Bankruptcy Court, E.D. California"
 ---
 #defense #industry #military #ndaa #pentagon #bipartisan
 
@@ -169,3 +178,22 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363929812) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 895 |
+| Courts | District Court, D. Maine, District Court, D. Maryland, District Court, D. South Carolina, District Court, District of Columbia, District Court, E.D. California, District Court, E.D. Pennsylvania, United States Bankruptcy Court, E.D. California |
+| Case Types | 410 Anti-Trust, 840 Property Rights: Trademark, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- In the Matter of the Seizure of Domain Names (2026) — District Court, D. Maryland
+- State of CA v. Nexstar Media Group Inc. (2026) — District Court, E.D. California
+- In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
+- COALITION FOR INDEPENDENT TECHNOLOGY RESEARCH v. RUBIO (2026) — District Court, District of Columbia
+- PHILLYWINE LLC v. KSWCO LLC (2026) — District Court, E.D. Pennsylvania
+- United States v. BROWN (2026) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

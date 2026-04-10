@@ -2,14 +2,14 @@
 title: "Hawaiian Electric Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 ein: "990230697"
 nonprofit-status: "501(c)(3)"
 total-revenue: 240019
@@ -32,6 +32,20 @@ regulatory-agencies:
   - "Fish and Wildlife Service"
   - "Homeland Security Department"
   - "Interior Department"
+court-cases: 218
+court-jurisdictions:
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Hawaii"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Washington"
+  - "United States Bankruptcy Court, D. Delaware"
+  - "United States Bankruptcy Court, D. Hawaii"
+federal-awards-total: 11258812
+federal-contracts-count: 15
+federal-grants-count: 1
 ---
 #hawaiian-electric #heco #hawaii #maui #wildfire #utility #energy #monopoly
 
@@ -183,3 +197,52 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Hawaiian%20Electric%20Company%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 218 |
+| Courts | Court of Appeals for the Ninth Circuit, District Court, D. Hawaii, District Court, N.D. California, District Court, N.D. Ohio, District Court, S.D. Florida, District Court, S.D. New York, District Court, W.D. Washington, United States Bankruptcy Court, D. Delaware +1 more |
+| Case Types | 110 Insurance, 190 Contract: Other, 360 P.I.: Other, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Insurance |
+
+**Notable cases:**
+- Hawaiian Electric Industries, Inc. v. XL Insurance America, Inc. (2026) — District Court, D. Hawaii
+- Evans v. Hawaiian Electric Industries, Inc. (2026) — District Court, S.D. Florida
+- State of Arizona v. Environmental Protection Agency (2025) — District Court, W.D. Washington
+- In Re: Coinbase Customer Data Security Breach Litigation (2025) — District Court, S.D. New York
+- Bash v. Bissen (2025) — District Court, D. Hawaii
+- Hu Honua Bioenergy, LLC v. Hawaiian Electric Industries, Inc., et al. (2025) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Hawaiian%20Electric%20Company%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $11.3M |
+| Contracts (recent 3yr) | 15 ($187.8M sampled) |
+| Grants (recent 3yr) | 1 ($95.3M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $128.1M | Department of Defense | 200112!000326!5700!CA12  !30 CONS/LGC                     !N6274268C0001  !A!N!*!N!QW02              |
+| $22.5M | Department of Defense | IGF::OT::IGF  ELECTRIC UTILITY SERVICES |
+| $21.2M | Department of Defense | THIS CONTRACT IS AWARDED FOR THE OWNERSHIP, OPERATION AND MAINTENANCE OF THE ELECTRIC SYSTEMS LOCATE |
+| $4.9M | Department of Homeland Security | UTILITY SERVICES TO EXTEND THE 12KV UNDERGROUND LINE AND RENOVATE ELECTRICAL UTILITIES AT US COAST G |
+| $2.2M | Department of Justice | ELECTRIC UTILITY SERVICE PERIOD OF PERFORMANCE OCTOBER 1, 2022 - DECEMBER 31, 2023 CONTRACT #GS-00P- |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $95.3M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW - BIL - CLIMATE ADAPTATION RESILIENCE PROGRAM
+
+CLIMATE ADAPTATION RESI |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/11a8a87d-63d8-cfaa-a9b6-ef53f7406edb-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

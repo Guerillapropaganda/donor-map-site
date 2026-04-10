@@ -163,3 +163,10 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 
 ## Committee Assignments (Congress.gov)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Alexander Acosta](https://www.congress.gov/member/a000383) (Tier 1)
+<!-- auto:voting-record end -->

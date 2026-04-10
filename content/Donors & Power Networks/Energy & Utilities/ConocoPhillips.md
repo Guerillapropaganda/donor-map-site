@@ -47,13 +47,13 @@ sec-form-types:
   - "S-4/A"
   - "S-8"
   - "SCHEDULE 13G/A"
-ein: 202555951
+ein: "202555951"
 annual-revenue: "$262K"
 net-assets: "$5.8M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 lei: "WPTL2Z3FIYTHSP5V2253"
 lei-jurisdiction: "US-DE"
 court-cases: 4295
@@ -71,6 +71,9 @@ court-jurisdictions:
 lobbying-spend: 17930000
 lobbying-filings: 39
 related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[The Budget Committee and Texas Energy]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Lisa Murkowski Master Profile|Murkowski]] · [[_Dan Sullivan Master Profile|Sullivan]] · [[NextEra Energy]] · [[Southern Company]]"
+nonprofit-status: "501(c)(3)"
+total-revenue: 138485
+total-assets: 5548963
 ---
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force
 
@@ -383,3 +386,28 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 202555951 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $138K |
+| Total Assets | $5.5M |
+| NTEE Code | A50 |
+| IRS Ruling Date | 2005-06-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/202555951/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/202555951) (Tier 1)
+<!-- auto:nonprofit-990 end -->

@@ -2,7 +2,7 @@
 title: Ron DeSantis Master Profile
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -16,7 +16,7 @@ top-donors:
   - Club for Growth
   - Lennar Corporation
 total-received: '$375,129'
-fec-candidate-id: P40013039
+fec-candidate-id: "P40013039"
 source-types:
   - FEC
 known-gaps:
@@ -24,9 +24,23 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 executive-actions: 25
-last-enriched: '2026-04-09'
+last-enriched: "2026-04-10"
 opposes: '[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]'
 related: "[[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[The Disney War and the Limits of Culture War Governance]]"
+opensanctions-status: "pep"
+opensanctions-matches: 1
+opensanctions-datasets:
+  - "ann_pep_positions"
+  - "wd_categories"
+  - "everypolitician"
+  - "wd_peps"
+  - "us_plural_legislators"
+  - "wikidata"
+  - "us_congress"
+total-raised: "$375,129"
+total-spent: "$375,129"
+cash-on-hand: "0.00"
+fec-cycle: 2024
 ---
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028
 
@@ -211,3 +225,34 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013039/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | Politically Exposed Person (PEP) |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Source Databases | ann_pep_positions, wd_categories, everypolitician, wd_peps, us_plural_legislators, wikidata +1 more |
+| Topics | role.pep, poi, role.rca, role.pol |
+
+**Matched records:**
+- [Ron DeSantis](https://www.opensanctions.org/entities/Q3105215/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Ron%20DeSantis) (Tier 1)
+<!-- auto:opensanctions end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $375,129 |
+| Total Spent | $375,129 |
+| Cash on Hand | 0.00 |
+| Individual Contributions | $181,105 |
+| PAC Contributions | $0 |
+| Coverage Through | 2023-09-18 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013039/) (Tier 1)
+<!-- auto:fec-summary end -->

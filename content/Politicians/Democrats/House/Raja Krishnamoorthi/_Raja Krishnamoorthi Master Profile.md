@@ -2,7 +2,7 @@
 title: "Raja Krishnamoorthi"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,7 +13,16 @@ district: "8"
 committees:
   - "Oversight & Reform"
 issues:
-  - "Technology"
+  - "Agriculture and Food"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Economics and Public Finance"
+  - "Energy"
+  - "Environmental Protection"
+  - "Government Operations and Politics"
+  - "Health"
 total-received: "$3,915,957"
 fec-candidate-id: "H6IL08147"
 govtrack-id: 412701
@@ -22,6 +31,8 @@ bills-cosponsored: 578
 website: "https://krishnamoorthi.house.gov"
 phone: "202-225-3711"
 related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Tech Industry|Tech Industry Bloc]] · [[Palantir]] · [[Meta]]"
+last-enriched: "2026-04-10"
+bioguide-id: "K000391"
 ---
 #raja-krishnamoorthi #illinois #house #democrat #oversight #tech #tiktok #india #ccp-committee #senate-2026 #maga-donors
 
@@ -213,3 +224,32 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 
 - [GovTrack: Raja Krishnamoorthi](https://www.govtrack.us/congress/members/412701) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Illinois |
+| Chamber | House of Representatives |
+| Bills Sponsored | 161 |
+| Bills Cosponsored | 2501 |
+
+**Policy areas:** Agriculture and Food, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Economics and Public Finance, Energy, Environmental Protection, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7909 | To amend title XVIII of the Social Security Act to provide for an option for ind… | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7833 | Puerto Rican People’s Power Restoration Act of 2026 | Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7542 | Kids Need Lunch Act | Referred to the House Committee on Education and Workforce. |
+| 7161 | No Private Bounty Hunters for Immigration Enforcement Act | Referred to the House Committee on the Judiciary. |
+| 7160 | First Home Affordability Act | Referred to the House Committee on Ways and Means. |
+| 7017 | Kids Before Cuts Act | Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6980 | NOVA Act of 2026 | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6752 | Investing in American Workers Act | Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/K000391) (Tier 1)
+<!-- auto:congress-legislation end -->

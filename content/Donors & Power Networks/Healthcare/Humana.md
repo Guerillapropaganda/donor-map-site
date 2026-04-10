@@ -14,7 +14,7 @@ tax-year: "2019"
 lobbying-spend: 11740000
 lobbying-filings: 52
 court-cases: 17873
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. Missouri"
@@ -47,6 +47,8 @@ regulatory-agencies:
   - "Federal Trade Commission"
   - "Food and Drug Administration"
   - "Health and Human Services Department"
+ftc-enforcement-actions: 0
+ftc-hsr-notices: 20
 ---
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
 
@@ -236,3 +238,23 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Humana%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 0 |
+| HSR early termination notices (merger filings) | 20 |
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Humana Inc. → Rajendra K. Bansal](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210701) (2021-01-04)
+- [Humana Inc. → Consonance Private Equity, L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200440) (2020-01-02)
+- [Select Medical Corporation → Humana Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150798) (2015-05-19)
+- [Humana Inc. → Robert G. Schemel](https://www.ftc.gov/legal-library/browse/early-termination-notices/20131186) (2013-08-23)
+- [Humana Inc. → Metropolitan Health Networks, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20130181) (2012-11-28)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Humana).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Humana) (Tier 1)
+<!-- auto:ftc-enforcement end -->

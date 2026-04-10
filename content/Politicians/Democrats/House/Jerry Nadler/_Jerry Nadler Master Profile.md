@@ -145,3 +145,10 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 
 ---
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Jerry Nadler](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

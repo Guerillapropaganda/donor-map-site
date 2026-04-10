@@ -26,6 +26,30 @@ nonprofit-status: "501(c)(5)"
 lei: "2138005I3XSPI3QH7536"
 lei-jurisdiction: "US-DE"
 lei-parent: "OMNICOM GROUP INC."
+sec-filings: 96
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "3"
+  - "4"
+  - "424B3"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFM14A"
+  - "EX-10"
+  - "EX-10.(F)"
+  - "EX-10.(G)"
+  - "EX-10.(H)"
+  - "EX-13"
+  - "EX-21.1"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "PRE 14A"
+  - "S-4"
+  - "S-4/A"
 ---
 
 #lobbying #k-street #fara #foreign-government #china #ukraine #manafort #revolving-door #bipartisan
@@ -257,3 +281,21 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 96 |
+| Form Types | 10-K, 10-K/A, 10-Q, 3, 4, 424B3, 8-K, ARS +14 more |
+
+**Notable filings:**
+
+- 2026-03-30 — **EX-10.(F)**: EX-10.(F)
+- 2024-12-05 — **EX-10**: EX-10
+- 2024-08-30 — **EX-10**: EX-10
+- 2025-03-28 — **EX-10.(G)**: EX-10.(G)
+- 2025-09-02 — **EX-10.(H)**: EX-10.(H)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mercury%20Public%20Affairs%22) (Tier 1)
+<!-- auto:sec-edgar end -->

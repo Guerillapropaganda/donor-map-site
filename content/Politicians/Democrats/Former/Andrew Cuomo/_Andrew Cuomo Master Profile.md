@@ -2,7 +2,7 @@
 title: "Andrew Cuomo"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-02
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,14 @@ state-abbr: "NY"
 issues:
   - "Housing"
 related: "[[Real Estate Donors]] · [[Michael Bloomberg]]"
+opensanctions-status: "pep"
+opensanctions-matches: 1
+opensanctions-datasets:
+  - "ann_pep_positions"
+  - "wd_categories"
+  - "wd_peps"
+  - "us_plural_legislators"
+  - "wikidata"
 ---
 #politician #democrat #moderate #new-york #governor #real-estate #sexual-harassment #nursing-home #class-analysis #follow-the-money
 
@@ -121,3 +129,19 @@ Cuomo uses "executive competence" framing — the experienced manager who "gets 
 
 ---
 
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | Politically Exposed Person (PEP) |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Source Databases | ann_pep_positions, wd_categories, wd_peps, us_plural_legislators, wikidata |
+| Topics | role.pol, role.pep, role.rca |
+
+**Matched records:**
+- [Andrew Cuomo](https://www.opensanctions.org/entities/Q11673/) — 100% match (ann_pep_positions, wd_categories, wd_peps)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Andrew%20Cuomo) (Tier 1)
+<!-- auto:opensanctions end -->

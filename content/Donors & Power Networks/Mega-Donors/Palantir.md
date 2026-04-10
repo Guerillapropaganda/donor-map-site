@@ -15,7 +15,7 @@ issues:
   - "Defense & Military"
   - "Immigration"
 court-cases: 252
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Tenth Circuit"
@@ -49,6 +49,10 @@ internal-notes: "[URL Check 2026-04-08] 25 checked: 16 ok, 1 broken, 8 slow. | B
 federal-awards-total: 1168645041
 federal-contracts-count: 25
 federal-grants-count: 0
+wikidata-id: "Q2047336"
+wikipedia-url: "https://en.wikipedia.org/wiki/Palantir"
+wikipedia-extract: "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies, militaries, and corporations to combine and analy..."
+founded: "2003-00-00"
 ---
 #palantir #thiel #surveillance #defense #ai #military #ice #immigration #data #revolving-door #class-analysis #follow-the-money
 
@@ -388,3 +392,19 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies, militaries, and corporations to combine and analy...
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q2047336](https://www.wikidata.org/wiki/Q2047336) |
+| Description | American software and services company, specializing in data analysis |
+| Founded | 2003-00-00 |
+| Website | [https://www.palantir.com/](https://www.palantir.com/) |
+| X/Twitter | [@PalantirTech](https://x.com/PalantirTech) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Palantir) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q2047336) (Tier 2)
+<!-- auto:wikipedia end -->

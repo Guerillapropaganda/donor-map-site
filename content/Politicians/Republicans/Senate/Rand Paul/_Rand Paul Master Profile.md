@@ -2,7 +2,7 @@
 title: "Rand Paul Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -27,6 +27,10 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
+last-enriched: "2026-04-10"
+bioguide-id: "P000603"
+issues:
+  - "Crime and Law Enforcement"
 ---
 #rand-paul #senate #kentucky #libertarian #koch-network #ukraine #class-analysis #isolationism
 
@@ -230,3 +234,32 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 
 - [GovTrack: Rand Paul](https://www.govtrack.us/congress/members/412492) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Kentucky |
+| Chamber | Senate |
+| Bills Sponsored | 1095 |
+| Bills Cosponsored | 1113 |
+
+**Policy areas:** Crime and Law Enforcement
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | Amendment SA 5068 agreed to in Senate by Unanimous Consent. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/P000603) (Tier 1)
+<!-- auto:congress-legislation end -->

@@ -2,7 +2,7 @@
 title: George W. Bush
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -19,9 +19,13 @@ known-gaps:
 executive-orders: 294
 presidential-memoranda: 131
 proclamations: 942
-last-enriched: '2026-04-08'
+last-enriched: "2026-04-10"
 opposes: "[[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NRA POLITICAL VICTORY FUND]]"
 donors: "[[REPUBLICAN NATIONAL COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NRA POLITICAL VICTORY FUND]] · [[REPUBLICAN PARTY OF FLORIDA]]"
+wikidata-id: "Q207"
+wikipedia-url: "https://en.wikipedia.org/wiki/George_W._Bush"
+wikipedia-extract: "George Walker Bush is an American politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009."
+born: "1946-07-06"
 ---
 
 #politician #republican #president #2001-2009 #bush-administration #iraq-war #texas-governor
@@ -154,3 +158,20 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 
 - [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/george-w-bush) (Tier 1)
 <!-- auto:executive-orders end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+George Walker Bush is an American politician, businessman, and former United States Air Force officer who was the 43rd president of the United States, serving from 2001 to 2009.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q207](https://www.wikidata.org/wiki/Q207) |
+| Description | President of the United States from 2001 to 2009 |
+| Born | 1946-07-06 |
+| Website | [https://georgewbush.com/](https://georgewbush.com/) |
+| X/Twitter | [@GeogreWBush](https://x.com/GeogreWBush) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/George-W-Bush.jpeg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/George_W._Bush) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q207) (Tier 2)
+<!-- auto:wikipedia end -->

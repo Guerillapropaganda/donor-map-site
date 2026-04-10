@@ -15,7 +15,7 @@ issues:
   - "Energy & Climate"
 lobbying-spend: 810000
 lobbying-filings: 18
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 ein: "365040938"
 annual-revenue: "$1"
 net-assets: "$1"
@@ -26,6 +26,20 @@ related: "[[Valero Energy]] · [[ConocoPhillips]] · [[Koch Industries]] · [[Ex
 nonprofit-status: "501(c)(3)"
 total-revenue: 1
 total-assets: 1
+federal-register-mentions: 110
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Interior Department"
+  - "Justice Department"
+  - "Land Management Bureau"
+  - "Natural Resources Revenue Office"
+  - "Securities and Exchange Commission"
+lei: "54930042348RKR3ZPN35"
+lei-jurisdiction: "US-DE"
 ---
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas
 
@@ -190,3 +204,40 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 110 |
+| Final Rules | 8 |
+| Proposed Rules | 12 |
+| Notices | 90 |
+| Agencies | Antitrust Division, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Interior Department, Justice Department, Land Management Bureau +2 more |
+
+**Recent regulatory activity:**
+- [Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules](https://www.federalregister.gov/documents/2026/02/19/2026-03244/granting-of-requests-for-early-termination-of-the-waiting-period-under-the-premerger-notification) (2026-02-19) — Federal Trade Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/06/13/2024-12987/combined-notice-of-filings-1) (2024-06-13) — Energy Department
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/04/10/2024-07599/combined-notice-of-filings-1) (2024-04-10) — Energy Department
+- [The Enhancement and Standardization of Climate-Related Disclosures for Investors](https://www.federalregister.gov/documents/2024/03/28/2024-05137/the-enhancement-and-standardization-of-climate-related-disclosures-for-investors) (2024-03-28) — Securities and Exchange Commission
+- [Combined Notice of Filings #1](https://www.federalregister.gov/documents/2024/02/12/2024-02817/combined-notice-of-filings-1) (2024-02-12) — Energy Department
+- [Devon Energy Production Company, LP; Supplemental Notice That Initial Market-Based Rate Filing Includes Request for Blanket Section 204 Authorization](https://www.federalregister.gov/documents/2023/11/20/2023-25589/devon-energy-production-company-lp-supplemental-notice-that-initial-market-based-rate-filing) (2023-11-20) — Energy Department
+- ... and 104 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Devon%20Energy%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [54930042348RKR3ZPN35](https://search.gleif.org/#/record/54930042348RKR3ZPN35) |
+| Legal Name | DEVON ENERGY CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-11T18:07:58Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

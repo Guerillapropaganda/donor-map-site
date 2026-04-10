@@ -2,7 +2,7 @@
 title: "Laphonza Butler"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 source-types:
@@ -12,6 +12,11 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[EMILY's List]] · [[_Kamala Harris Master Profile]] · [[Adam Schiff]]"
+wikidata-id: "Q121337973"
+last-enriched: "2026-04-10"
+wikipedia-url: "https://en.wikipedia.org/wiki/Laphonza_Butler"
+wikipedia-extract: "Laphonza Romanique Butler is an American labor union official and former politician who served as a United States senator from California from 2023 to 2024."
+born: "1979-05-11"
 ---
 #laphonza-butler #senator #california #labor #appointed #seiu #emily-list #class-analysis #democrat
 tags: #democrat
@@ -91,3 +96,19 @@ Butler represents the structural barrier labor faces in capitalist democracy: un
 
 ### Voting Record
 
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Laphonza Romanique Butler is an American labor union official and former politician who served as a United States senator from California from 2023 to 2024.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q121337973](https://www.wikidata.org/wiki/Q121337973) |
+| Description | American politician and labor union official (born 1979) |
+| Born | 1979-05-11 |
+| X/Twitter | [@LaphonzaB](https://x.com/LaphonzaB) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Laphonza_Butler_Senate_photo%2C_2023.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Laphonza_Butler) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q121337973) (Tier 2)
+<!-- auto:wikipedia end -->

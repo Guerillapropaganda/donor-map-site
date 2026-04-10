@@ -175,3 +175,10 @@ research-status:: ready — Full citation pass complete. Temporal mapping (10 en
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Benjamin Netanyahu](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

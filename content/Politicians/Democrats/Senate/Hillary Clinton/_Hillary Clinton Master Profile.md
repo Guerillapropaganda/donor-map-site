@@ -11,11 +11,12 @@ issues:
   - Wall Street & Finance
 total-received: '$7,102,485'
 fec-candidate-id: S0NY00188
-last-enriched: '2026-04-07'
+last-enriched: "2026-04-10"
 donors: "[[Entertainment and Hollywood Donors]] · [[UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]] · [[FAIR SHARE ACTION]]"
 opposes: >-
   [[KENTUCKIANS FOR STRONG LEADERSHIP]] · [[STOP UNION POLITICAL ABUSE (SUPA)]]
   · [[CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE]]
+bioguide-id: "C001091"
 ---
 
 #politician #donor-captured #wall-street #two-audience-problem
@@ -124,3 +125,10 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

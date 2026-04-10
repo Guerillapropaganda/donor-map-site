@@ -2,7 +2,7 @@
 title: "Bruce Westerman"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,11 +11,22 @@ state: "Arkansas"
 state-abbr: "AR"
 district: "4"
 issues:
-  - "Energy & Climate"
+  - "Armed Forces and National Security"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
 total-received: "$1,848,430"
 fec-candidate-id: "H4AR04048"
 related: "[[Raul Grijalva]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 donors: "[[American Petroleum Institute]]"
+last-enriched: "2026-04-10"
+bioguide-id: "W000821"
 ---
 #bruce-westerman #republican #arkansas #house #committee-chair #natural-resources #oil-gas #mining #timber #forestry #public-lands #drilling #stock-trading #phase-6-gavel-power
 
@@ -179,3 +190,32 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Arkansas |
+| Chamber | House of Representatives |
+| Bills Sponsored | 90 |
+| Bills Cosponsored | 1147 |
+
+**Policy areas:** Armed Forces and National Security, Congress, Crime and Law Enforcement, Education, Environmental Protection, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation, Transportation and Public Works, Water Resources Development
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7081 | Sara’s Law and the Preventing Unfair Sentencing Act of 2026 | Referred to the House Committee on the Judiciary. |
+| 821 | Expressing support for the recognition of October 2025 as "National Dyslexia Awa… | Referred to the House Committee on Education and Workforce. |
+| 4776 | SPEED Act | Received in the Senate and Read twice and referred to the Committee on Environment and Public Works. |
+| — |  | On agreeing to the Westerman amendment (A081) Agreed to by voice vote. |
+| — |  | On agreeing to the Westerman amendment (A011) Agreed to by voice vote. |
+| — |  | On agreeing to the Westerman amendment (A005) Failed by recorded vote: 212 - 213 (Roll no. 531). |
+| 289 | Expressing support for the designation of April 2025 as "Second Chance Month". | Referred to the House Committee on the Judiciary. |
+| 1897 | ESA Amendments Act of 2025 | Placed on the Union Calendar, Calendar No. 489. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000821) (Tier 1)
+<!-- auto:congress-legislation end -->

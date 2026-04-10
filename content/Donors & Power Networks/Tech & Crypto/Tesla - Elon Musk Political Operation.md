@@ -2,14 +2,14 @@
 title: "Tesla - Elon Musk Political Operation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 related: "[[America PAC - Elon Musk]] · [[Elon Musk]] · [[SpaceX]] · [[Palantir Technologies]]"
 ---
 #tesla #musk #ev #doge #government #twitter #space #deregulation

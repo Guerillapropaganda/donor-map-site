@@ -24,7 +24,7 @@ federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]] · [[United Farm Workers]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 sec-filings: 10000
 sec-form-types:
   - "10-Q"
@@ -88,6 +88,8 @@ court-jurisdictions:
   - "District Court, M.D. Pennsylvania"
   - "District Court, S.D. Iowa"
   - "United States Bankruptcy Court, N.D. Florida"
+fda-recalls: 42
+fda-recalls-class-i: 10
 ---
 #cargill #agriculture #commodities #grain #trade #private #family
 
@@ -253,3 +255,41 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### FDA Enforcement (openFDA)
+<!-- auto:fda-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Total FDA recalls | 42 |
+| Food recalls | 42 |
+| **Class I (life-threatening)** | **10** |
+| Class II (temporary/reversible) | 31 |
+| Class III (unlikely to cause harm) | 1 |
+| Most recent | 2023-06-23 |
+| Earliest | 2015-10-19 |
+
+**Class I recalls (life-threatening):**
+
+- [food] **F-1289-2022** (2022-05-23): Milk Chocolate Covered Peanut Butter Meltaways 8oz. Item code:  K120M
+  - Reason: Possible contamination with Salmonella
+- [food] **F-1292-2022** (2022-05-23): Peanut Butter Fudge 8 oz. Item code:  K509
+  - Reason: Possible contamination with Salmonella
+- [food] **F-1291-2022** (2022-05-23): Peanut Butter and Chocolate Fudge 8 oz. Item code: K508
+  - Reason: Possible contamination with Salmonella
+- [food] **F-1286-2022** (2022-05-23): Dark Chocolate Covered Peanut Butter Eggs - 8 oz. Item code: K119D
+  - Reason: Possible contamination with Salmonella
+
+**Recent recalls:**
+
+- [food] [Class II] F-1223-2023 (2023-06-23): Cargill Tripotassium Citrate Monohydrate packaged in 50 lb. paper bag.  Product item: SKU 100105392, TPC GNLR 50LB BG KH FCC
+- [food] [Class II] F-1222-2023 (2023-06-23): Cargill Trisodium Citrate Dihydrate packaged in 50 lb. paper bags and 2,000 lb. supersacks.  Product item ids:   1. SKU 100002299, TSC DIHYD FN 50LB BG 6132-04-3 KH FC 2. SKU 100105400, TSC DIHYD FN 2
+- [food] [Class II] F-0770-2023 (2023-04-07): Wilbur¿ Dark Chocolate Covered Cashews Net Wt.16 oz (1 LB) 454g  Packaged in plastic bag
+- [food] [Class II] F-0787-2023 (2023-03-30): PROSANTE TSOYFLR 10P MNCD 50LB BG, paper bag
+- [food] [Class II] F-0792-2023 (2023-03-30): PROSANTE TVGPTN 12BF7 MNCD 50LB BG/36P, paper bag
+- [food] [Class II] F-0796-2023 (2023-03-30): PROSANTE SOYFLR 3038P FLK 50LB BG, PROSANTE TSOYFLR 3038P FLK 50LB BG/18P, paper bags
+- ... and 36 more
+
+_Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Cargill Cocoa & Chocolate, Inc.; Cargill Cocoa and Chocolate Inc; Cargill Salt; Cargill Cocoa and Chocolate, Inc._
+
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Cargill) (Tier 1)
+<!-- auto:fda-enforcement end -->

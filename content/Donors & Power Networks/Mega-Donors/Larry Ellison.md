@@ -2,7 +2,7 @@
 title: "Larry Ellison"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -23,9 +23,13 @@ source-types:
 known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 total-political-spend: "$10,212"
 related: "[[_Donald Trump Master Profile]] · [[Oracle]]"
+federal-register-mentions: 2
+regulatory-agencies:
+  - "Fish and Wildlife Service"
+  - "Interior Department"
 ---
 #donor #mega-donor #oracle #tech #republican #government-contracts #class-analysis
 
@@ -203,3 +207,19 @@ research-status:: ready — Full citation pass complete. $393B peak net worth, O
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Larry%20Ellison) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 2 |
+| Notice | 1 |
+| Rule | 1 |
+| Agencies | Fish and Wildlife Service, Interior Department |
+
+**Recent regulatory activity:**
+- [Endangered and Threatened Species; Receipt of Recovery Permit Applications](https://www.federalregister.gov/documents/2024/02/06/2024-02341/endangered-and-threatened-species-receipt-of-recovery-permit-applications) (2024-02-06) — Interior Department
+- [Endangered and Threatened Wildlife and Plants; Designation and Nondesignation of Critical Habitat on Molokai, Lanai, Maui, and Kahoolawe for 135 Species](https://www.federalregister.gov/documents/2016/03/30/2016-06069/endangered-and-threatened-wildlife-and-plants-designation-and-nondesignation-of-critical-habitat-on) (2016-03-30) — Interior Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Larry%20Ellison%22) (Tier 1)
+<!-- auto:federal-register end -->

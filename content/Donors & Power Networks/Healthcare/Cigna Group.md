@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Healthcare"
 federal-register-mentions: 1
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Federal Trade Commission"
 lei: "549300VIWYMSIGT1U456"

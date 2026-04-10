@@ -84,6 +84,8 @@ regulatory-agencies:
   - "Labor Department"
   - "Occupational Safety and Health Administration"
   - "Pipeline and Hazardous Materials Safety Administration"
+ftc-enforcement-actions: 0
+ftc-hsr-notices: 8
 ---
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
 
@@ -294,3 +296,23 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Halliburton%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 0 |
+| HSR early termination notices (merger filings) | 8 |
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Halliburton Company → Pine Brook Capital Partners (Cayman) AV-3 L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20120026) (2011-10-21)
+- [Halliburton Company → James B. Archer](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111394) (2011-09-26)
+- [Halliburton Company → Boots & Coots, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100609) (2010-04-29)
+- [Halliburton Company → Carbo Ceramics Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20081724) (2008-09-29)
+- [Virginia L. Shaw → Halliburton Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20021099) (2002-09-03)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Halliburton).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Halliburton) (Tier 1)
+<!-- auto:ftc-enforcement end -->

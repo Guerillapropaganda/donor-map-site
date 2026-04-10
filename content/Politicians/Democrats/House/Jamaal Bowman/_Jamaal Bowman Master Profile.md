@@ -2,7 +2,7 @@
 title: Jamaal Bowman Master Profile
 type: politician
 content-readiness: ready
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Democrat
@@ -33,6 +33,8 @@ internal-notes: "[CODE @ 2026-04-10] DEMOTED verified→ready. Previous 'A+ veri
 opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]] · [[DMFI - Democratic Majority for Israel]]'
 donors: '[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]]'
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]"
+last-enriched: "2026-04-10"
+bioguide-id: "C001091"
 ---
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
 
@@ -334,3 +336,10 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456839) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

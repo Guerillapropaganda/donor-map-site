@@ -2,7 +2,7 @@
 title: "Pramila Jayapal"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,10 +13,16 @@ district: "7"
 committees:
   - "Antitrust (Judiciary)"
 issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Emergency Management"
+  - "Energy"
+  - "Environmental Protection"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
   - "Immigration"
-  - "Labor & Workers"
-  - "Technology"
-  - "Antitrust & Monopoly"
 top-donors:
   - "SEIU"
   - "CNA"
@@ -31,6 +37,8 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Ilhan Omar Master Profile|Omar]] · [[SEIU - Service Employees International Union|SEIU]] · [[CNA - California Nurses Association|CNA]] · [[National Nurses United]]"
+last-enriched: "2026-04-10"
+bioguide-id: "J000298"
 ---
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust
 
@@ -208,3 +216,32 @@ This is the clearest donor-class tension in her record: genuine antitrust aggres
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Washington |
+| Chamber | House of Representatives |
+| Bills Sponsored | 184 |
+| Bills Cosponsored | 3068 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Emergency Management, Energy, Environmental Protection, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Sports and Recreation, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8103 | To prohibit the use of funds to use military force in or against Cuba, and for o… | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 8085 | Ultra-Millionaire Tax Act of 2026 | Referred to the House Committee on Ways and Means. |
+| 7541 | U.S. Farmworker Protection Act | Referred to the House Committee on the Judiciary. |
+| 1058 | Recognizing that it is the duty of the Federal Government to develop and impleme… | Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, Energy and Commerce, Financial Services, Oversight and Government Reform, Armed Services, Veterans' Affairs, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7363 | ICE Out of Our Faces Act | Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6751 | Sunset for the 2001 Authorization for Use of Military Force Act | Referred to the House Committee on Foreign Affairs. |
+| 6646 | Empowering App-Based Workers Act | Referred to the House Committee on Education and Workforce. |
+| 6397 | Dignity for Detained Immigrants Act | Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/J000298) (Tier 1)
+<!-- auto:congress-legislation end -->

@@ -2,7 +2,7 @@
 title: "Steve Witkoff"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -11,7 +11,7 @@ issues:
   - "Housing"
   - "Technology"
   - "Israel & Foreign Policy"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 source-types:
   - DOJ
 known-gaps:
@@ -20,6 +20,10 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[World Liberty Financial]] · [[Crypto Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]]"
+wikidata-id: "Q16189572"
+wikipedia-url: "https://en.wikipedia.org/wiki/Steve_Witkoff"
+wikipedia-extract: "Steven Charles Witkoff is an American real estate developer, investor, and founder of the Witkoff Group."
+born: "1957-03-15"
 ---
 #politician #republican #trump-cabinet #real-estate #crypto #middle-east #envoy #conflict-of-interest #world-liberty-financial #follow-the-money #class-analysis #foreign-policy
 
@@ -132,3 +136,19 @@ UAE sovereign wealth → World Liberty Financial → Trump family + Witkoff fami
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Steven Charles Witkoff is an American real estate developer, investor, and founder of the Witkoff Group.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q16189572](https://www.wikidata.org/wiki/Q16189572) |
+| Description | American businessman and diplomat (born 1957) |
+| Born | 1957-03-15 |
+| X/Twitter | [@SteveWitkoff](https://x.com/SteveWitkoff) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/A_swearing-in_ceremony_for_Senior_Adviser_and_Special_Envoy_Steve_Witkoff%2C_May_6%2C_2025_(cropped).jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Steve_Witkoff) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q16189572) (Tier 2)
+<!-- auto:wikipedia end -->

@@ -121,4 +121,9 @@ A Bianco governorship would test whether the constitutional sheriff doctrine can
 - [Press Enterprise — 5 things to know](https://www.pressenterprise.com/2025/02/18/5-things-to-know-about-chad-bianco-republican-candidate-for-california-governor/) (Tier 2)
 
 ### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: The Gubernatorial Pivot - From Sheriff to Culture War Candidate](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
 

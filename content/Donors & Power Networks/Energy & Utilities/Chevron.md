@@ -10,7 +10,7 @@ entity-type: "Corporation"
 politicians-funded:
   - "Gavin Newsom"
 court-cases: 44045
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. Wisconsin"
@@ -31,6 +31,10 @@ federal-contracts-count: 25
 federal-grants-count: 5
 lei: "254900JAIX71VO1NS489"
 lei-jurisdiction: "MT"
+ftc-enforcement-actions: 4
+ftc-hsr-notices: 30
+top-federal-agency: "Department of Defense"
+top-naics-code: "324110"
 ---
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
 
@@ -311,6 +315,38 @@ Environment — oil production, refinery regulation, environmental justice, frac
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
+<!-- auto:usaspending-subawards pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($879.7M) |
+| Primary NAICS Sector | Petroleum Refineries |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $879.7M |
+| General Services Administration | $277K |
+| Department of State | $148K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Petroleum Refineries (324110) | $792.7M |
+| Other Warehousing and Storage (493190) | $68.9M |
+| Petroleum Lubricating Oil and Grease Manufacturing (324191) | $18.1M |
+| General Automotive Repair (811111) | $277K |
+| Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) (424720) | $94K |
+| Support Activities for Oil and Gas Operations (213112) | $54K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
+
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
 | Metric | Value |
@@ -400,3 +436,36 @@ THE OBJECTIVE  |
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 4 |
+| HSR early termination notices (merger filings) | 30 |
+| Most recent enforcement action | 2013-06-17 |
+| Earliest enforcement action | 1996-08-27 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 4
+
+**Recent enforcement actions (historical):**
+
+- [Tesoro / Chevron](http://www.ftc.gov/os/caselist/1310052/index.shtm) (2013-06-17) — Energy � Petroleum
+- [Chevron Texaco Corporation / Unocal Corporation](http://www.ftc.gov/os/caselist/0510125/0510125.shtm) (2005-06-10) — Energy � Petroleum
+- [Chevron Corp. / Texaco, Inc.](http://www.ftc.gov/os/caselist/c4023.shtm) (2001-09-07) — Energy � Petroleum
+- [Chevron Corp. / NGC](http://www.ftc.gov/os/caselist/c3697.shtm) (1996-08-27) — Energy � Natural Gas
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [EQT Corporation → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210197) (2020-11-12)
+- [Chevron Corporation → Noble Energy, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201312) (2020-08-20)
+- [Chevron Corporation → Petroleo Brasileiro S.A.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190817) (2019-02-15)
+- [Phillips 66 → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20161696) (2016-09-23)
+- [One Rock Capital Partners, LP → Chevron Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20161137) (2016-05-24)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Chevron).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Chevron) (Tier 1)
+<!-- auto:ftc-enforcement end -->

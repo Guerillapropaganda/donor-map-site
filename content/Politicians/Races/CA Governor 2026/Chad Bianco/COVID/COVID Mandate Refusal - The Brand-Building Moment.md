@@ -119,3 +119,10 @@ The COVID defiance functioned as a political brand-building operation:
 - [CalMatters — California COVID death patterns](https://calmatters.org/health/coronavirus/2021/09/covid-california-deaths/) (Tier 2)
 - [ABC10 — 13 agencies refusing curfew](https://www.abc10.com/article/news/health/coronavirus/eleven-law-enforcement-agencies-that-refuse-to-enforce-california-curfew-and-why/103-148e02b7-45fd-449b-a995-e251de5793b8) (Tier 2)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: COVID Mandate Refusal - The Brand-Building Moment](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

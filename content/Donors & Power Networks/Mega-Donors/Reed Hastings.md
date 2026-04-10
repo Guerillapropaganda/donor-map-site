@@ -8,7 +8,7 @@ parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
 court-cases: 218
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, C.D. California"
@@ -48,6 +48,7 @@ politicians-funded:
   - "Kamala Harris"
   - "Barack Obama"
   - "CSPOA - The Anti-Government Sheriff Network"
+
 ---
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund
 

@@ -2,7 +2,7 @@
 title: "Pfizer Inc."
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -13,7 +13,7 @@ federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 1
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 sec-filings: 10000
 sec-form-types:
   - "10-12G"
@@ -78,6 +78,8 @@ nhtsa-complaints: 0
 lobbying-spend: 53270000
 lobbying-filings: 66
 related: "[[The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way]] · [[PhRMA]] · [[Healthcare - Donors and Backers]]"
+fda-recalls: 103
+fda-recalls-class-i: 14
 ---
 #donor #pharma #corporation #lobbying #healthcare #covid #revolving-door #drug-pricing #warp-speed
 
@@ -399,3 +401,43 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Pfizer%20Inc.) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### FDA Enforcement (openFDA)
+<!-- auto:fda-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Total FDA recalls | 103 |
+| Drug recalls | 100 |
+| Device recalls | 3 |
+| **Class I (life-threatening)** | **14** |
+| Class II (temporary/reversible) | 63 |
+| Class III (unlikely to cause harm) | 26 |
+| Ongoing | 15 |
+| Most recent | 2025-08-04 |
+| Earliest | 2012-11-26 |
+
+**Class I recalls (life-threatening):**
+
+- [drug] **D-0233-2024** (2023-12-21): 4.2% Sodium Bicarbonate Injection, USP 5 mEq/10 mL (0.5 mEq/mL), Glass ABBOJECT Unit of Use Syringe, For Intravenous Use, Rx Only, 10 mL Syringe per Carton, Hospira, Inc., Lake Forst, IL 60045, NDC 04
+  - Reason: Presence of Particulate Matter; identified as glass
+- [drug] **D-0234-2024** (2023-12-21): 8.4 % Sodium Bicarbonate Injection, USP 50 mEq/50 mL (1 mEq/mL), Lifeshield, Glass ABBOJECT Unit of Use Syringe, Rx Only, 50 mL Syringe per Carton, Hospira, Inc., Lake Forest, IL 60045, NDC 0409-6637-
+  - Reason: Presence of Particulate Matter; identified as glass
+- [drug] **D-0235-2024** (2023-12-21): Atropine Sulfate Injection, USP 1 mg/10 mL (0.1 mg/mL), Lifeshield, Glass ABBOJECT Unit of Use Syringe, Rx Only, 10 mL Syringe per Carton, Hospira, Inc., Lake FOrest, IL 60045, NDC 0409-4911-11 (carto
+  - Reason: Presence of Particulate Matter; identified as glass
+- [drug] **D-0102-2024** (2023-10-02): 2% Lidocaine HCl Injection, USP, 100mg/5mL(20mg/mL), Glass ABBOJECT Unit of Use Syringe, packaged as 1 vial and injector per carton, Rx only, Distributed by Hospira Inc., Lake Forest, IL 60045, NDC 04
+  - Reason: Presence of Particulate Matter: identified as glass.
+
+**Recent recalls:**
+
+- [drug] [Class II] D-0590-2025 (2025-08-04): Vial Label: Epinephrine Injection, USP, 1mg/10mL (0.1 mg/mL), Rx only, Distributed by Hospira, Inc., Lake Forest, IL 60045, USA. NDC 0409-4933-05.  Case: NDC 0409-4933-10.
+- [drug] [Class II] D-0591-2025 (2025-08-04): Vial Label: 8.4% Sodium Bicarbonate Injection, USP, 50mEq/50 mL (1 mEq/mL), Rx only, Hospira, Inc., Lake Forest, IL 60045, USA, NDC 0409-6637-24.  Case NDC: 00409-6637-14.
+- [drug] [Class II] D-0544-2025 (2025-07-10): Bicillin L-A (penicllin G benzathine injectable suspension), 1,200,000 units per 2 mL, 2 mL-vial, Rx Only, Distributed by Pfizer Inc., New York, NY 10001. Made in Austria, Carton NDC -  60793-701-10, 
+- [drug] [Class II] D-0545-2025 (2025-07-10): Bicillin L-A (penicillin G benzathine injectable suspension), 2,400,000 units per 4 mL, 4ml-vial, Rx Only, Distributed by Pfizer Inc., New York, NY 10001, Made in Austria, Carton NDC- 60793-702-10 , S
+- [drug] [Class II] D-0489-2025 (2025-05-28): DOBUTamine Injection, USP, 250 mg/20 mL (12.5 mg/mL), 20 mL per Single-dose Vial, carton of 10 Fliptop Vials, Rx only, For Intravenous Use Only, Made in Italy, Distributed by Hospira, Inc., Lake Fores
+- [drug] [Class II] D-0565-2024 (2024-05-20): Labetalol Hydrochloride Injection, USP, 20 mg/4 mL (5 mg/mL), 4 mL Single-dose Carpuject, Sterile Cartridge Unit with Luer Lock, For Intravenous Injection Only, Rx Only, Distributed by Hospira, Inc., 
+- ... and 97 more
+
+_Variant firm names in FDA data: PFIZER INC; Pfizer Inc.; PFIZER, INC; Pfizer Inc_
+
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Pfizer%20Inc.) (Tier 1)
+<!-- auto:fda-enforcement end -->

@@ -15,7 +15,7 @@ federal-awards-total: 559918230
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3032
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, D. Arizona"
   - "District Court, D. Montana"

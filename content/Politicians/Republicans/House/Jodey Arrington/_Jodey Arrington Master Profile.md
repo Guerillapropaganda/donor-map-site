@@ -2,7 +2,7 @@
 title: "Jodey Arrington"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -15,9 +15,16 @@ committees:
   - "Ways & Means"
   - "Agriculture"
 issues:
-  - "Energy & Climate"
-  - "Agriculture"
-  - "Tax Policy"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Emergency Management"
+  - "Energy"
+  - "Environmental Protection"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
 top-donors:
   - "Americans for Prosperity"
   - "American Farm Bureau Federation"
@@ -37,6 +44,8 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[American Farm Bureau Federation]]"
+last-enriched: "2026-04-10"
+bioguide-id: "A000375"
 ---
 #jodey-arrington #republican #texas #house #committee-chair #budget #ways-and-means #oil-gas #agriculture #tax-cuts #reconciliation #phase-6-gavel-power
 
@@ -197,6 +206,33 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 - [Wikipedia: Jodey Arrington](https://en.wikipedia.org/wiki/Jodey_Arrington) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Texas |
+| Chamber | House of Representatives |
+| Bills Sponsored | 187 |
+| Bills Cosponsored | 767 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Congress, Crime and Law Enforcement, Economics and Public Finance, Emergency Management, Energy, Environmental Protection, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7812 | Securing Accountability in Foreign Entries Act | Referred to the House Committee on Ways and Means. |
+| 7745 | To establish certain requirements relating to wellness checks for the health and… | Referred to the House Committee on Armed Services. |
+| 7348 | Transparency in Federal Land Acquisitions Act | Referred to the House Committee on Natural Resources. |
+| 6974 | Improving MA SNP Act of 2026 | Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6707 | CFIUSMCA Act | Referred to the House Committee on Ways and Means. |
+| 6608 | SHIELD Act of 2025 | Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6248 | Healthy Competition for Better Care Act | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5926 | Mexican Energy Trade Enforcement Act | Referred to the House Committee on Ways and Means. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/A000375) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

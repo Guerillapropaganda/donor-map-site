@@ -22,7 +22,7 @@ annual-revenue: "$21.9M"
 net-assets: "$77.4M"
 tax-year: "2023"
 federal-register-mentions: 4
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Antitrust Division"
   - "Employment and Training Administration"

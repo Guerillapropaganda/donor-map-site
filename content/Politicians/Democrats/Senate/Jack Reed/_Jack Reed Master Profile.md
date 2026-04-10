@@ -2,7 +2,7 @@
 title: "Jack Reed"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,7 +14,15 @@ committees:
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Defense & Military"
+  - "Armed Forces and National Security"
+  - "Congress"
+  - "Education"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
+  - "Taxation"
+  - "Transportation and Public Works"
 top-donors:
   - "Lockheed Martin"
   - "Boeing"
@@ -22,12 +30,13 @@ stock-trades: 1
 fec-candidate-id: "S6RI00163"
 donors: "[[General Dynamics]] · [[NORPAC]]"
 related: "[[General Dynamics]] · [[_Roger Wicker Master Profile|Wicker]] · [[Lockheed Martin]] · [[Boeing]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 govtrack-id: 300081
 bills-sponsored: 35
 bills-cosponsored: 238
 website: "https://www.reed.senate.gov"
 phone: "202-224-4642"
+bioguide-id: "R000122"
 ---
 #jack-reed #democrat #rhode-island #senate #ranking-member #armed-services #defense #military #west-point #phase-6-gavel-power
 
@@ -225,3 +234,32 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300081) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Rhode Island |
+| Chamber | House of Representatives |
+| Bills Sponsored | 1260 |
+| Bills Cosponsored | 4939 |
+
+**Policy areas:** Armed Forces and National Security, Congress, Education, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 134 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 132 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4110 | EMPOWER for Health Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1093) |
+| 4109 | Stem Cell Therapeutic and Research Reauthorization Act of 2026 | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1093) |
+| 4068 | ACTION for National Service Act | Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S1048-1049) |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/R000122) (Tier 1)
+<!-- auto:congress-legislation end -->
