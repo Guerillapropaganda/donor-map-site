@@ -36,7 +36,6 @@ sec-form-types:
 
 #think-tank #conservative #free-market #defense #economics #education #Stanford #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -270,8 +269,6 @@ The Hoover Institution is the most structurally sophisticated conservative think
 - [Stanford Daily: Academic freedom or misinformation? Stanford faculty remains divided over the Hoover Institution](https://stanforddaily.com/2021/02/08/academic-freedom-or-misinformation-after-controversies-settle-stanford-faculty-remains-divided-over-the-hoover-institution/) (Tier 2)
 - [Inside Philanthropy: How the Hoover Institution Vacuums Up Big Conservative Bucks](https://www.insidephilanthropy.com/home/economic-policy-research-2015-4-21-how-the-hoover-institution-vacuums-up-big-conservative-bucks-html) (Tier 2)
 - [Hoover Institution: $10 million grant from Annenberg Foundation](https://www.hoover.org/press-releases/10-million-grant-annenberg-foundation-will-establish-annenberg-strategic-initiative) (Tier 3)
-
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

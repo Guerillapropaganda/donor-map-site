@@ -45,7 +45,7 @@ net-assets: "$206.9M"
 tax-year: "2023"
 lobbying-spend: 3106887
 lobbying-filings: 143
-related: "[[Starbucks]] · [[McDonalds Corporation]]"
+related: "[[Starbucks]] · [[McDonalds Corporation]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[UNITE HERE]]"
 doj-press-mentions: "264413"
 doj-components:
   - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
@@ -68,10 +68,7 @@ politicians-funded:
   - "Jason Smith"
   - "Bryan Steil"
 ---
-
 #nra-restaurants #food #labor #minimum-wage #tipped-workers #lobbying
-
-related: [[US Chamber of Commerce]] [[National Association of Manufacturers]] [[UNITE HERE]]
 
 ---
 
@@ -108,8 +105,6 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 - [Department of Labor: Minimum wage history](https://www.dol.gov/agencies/whd/minimum-wage/history) (Tier 1)
 - [EPI: Tipped minimum wage analysis](https://www.epi.org/publication/waiting-for-change-tipped-minimum-wage/) (Tier 2)
 - [Ballotpedia: National Restaurant Association](https://ballotpedia.org/National_Restaurant_Association) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

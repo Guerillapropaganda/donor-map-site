@@ -44,16 +44,13 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Patty Murray]] · [[Maria Cantwell]]"
+related: "[[Patty Murray]] · [[Maria Cantwell]] · [[Amazon]] · [[SpaceX]] · [[Mark Zuckerberg]] · [[Elon Musk]]"
 federal-register-mentions: 2
 regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
 ---
-
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space
-
-related: [[Amazon]] [[SpaceX]] [[Mark Zuckerberg]] [[Elon Musk]]
 
 ---
 
@@ -89,8 +86,6 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 - [FEC Receipts: Jeff Bezos political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jeff%20bezos) (Tier 1)
 - [NASA: Blue Origin Artemis contract](https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander) (Tier 1)
 - [Ballotpedia: Jeff Bezos](https://ballotpedia.org/Jeff_Bezos) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

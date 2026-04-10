@@ -16,7 +16,6 @@ regulatory-agencies:
 
 #think-tank #conservative #judicial #federalist-society #leonard-leo #scotus #judicial-pipeline #originalism #dark-money #deregulation
 
-
 ---
 
 ### Who They Are
@@ -229,8 +228,6 @@ The structural function: the Federalist Society converts donor money into judici
 - [Politico: Trump Goes After Leonard Leo and the Federalist Society in Fury Over Court Ruling (May 29, 2025)](https://www.politico.com/news/2025/05/29/trump-goes-after-leonard-leo-and-the-federalist-society-in-fury-over-court-ruling-00375813) (Tier 2)
 
 ---
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

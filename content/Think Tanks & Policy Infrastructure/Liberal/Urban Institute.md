@@ -19,7 +19,6 @@ total-assets: 311581937
 
 #think-tank #liberal #housing #poverty #healthcare #tax-policy #urban-policy #government-funded #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -199,8 +198,6 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 - [HigherGov: List of All Contracts Terminated by DOGE](https://www.highergov.com/news/list-of-all-contracts-terminated-by-doge-6287413) (Tier 2)
 - [Urban Institute: How Government Funding Disruptions Affected Nonprofits in Early 2025 — Urban's own survey documenting federal funding crisis](https://www.urban.org/research/publication/how-government-funding-disruptions-affected-nonprofits-early-2025) (Tier 3)
 - [Brookings: The Fifth Estate — Think Tanks, Public Policy, and Governance — academic analysis of think tank government dependency](https://www.brookings.edu/wp-content/uploads/2016/06/chapter-one_-the-fifth-estate.pdf) (Tier 3)
-
-content-readiness:: ready
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

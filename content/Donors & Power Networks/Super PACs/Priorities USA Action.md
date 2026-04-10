@@ -9,17 +9,14 @@ sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]]"
+related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[EMILY's List]] · [[Haim Saban]] · [[Jeffrey Katzenberg]]"
 ein: "833099604"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 226709
 total-assets: 108753
 ---
-
 #priorities-usa #super-pac #democratic #obama #clinton #biden #digital #advertising #dark-money
-
-related: [[Senate Majority PAC]] [[House Majority PAC]] [[Future Forward USA Action]] [[EMILY's List]] [[Haim Saban]] [[Jeffrey Katzenberg]]
 
 ---
 
@@ -129,8 +126,6 @@ The 2024 fundraising collapse reveals another structural truth: mega-donors don'
 
 ### Reference (Tier 3):
 - [Ballotpedia: Priorities USA Action](https://ballotpedia.org/Priorities_USA_Action) (Tier 3) (Chrome verified 2026-03-26)
-
-content-readiness:: ready
 
 ---
 

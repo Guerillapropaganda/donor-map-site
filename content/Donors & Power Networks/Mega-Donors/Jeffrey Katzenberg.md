@@ -17,13 +17,10 @@ net-assets: "$10.7M"
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Adam Schiff]] · [[Ana Kasparian]]"
+related: "[[Adam Schiff]] · [[Ana Kasparian]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Barack Obama Master Profile|Obama]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Cenk Uygur]]"
 total-political-spend: "$13,889,097"
 ---
-
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money
-
-related: [[_Joe Biden Master Profile|Joe Biden]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Barack Obama Master Profile|Obama]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Cenk Uygur]]
 
 ---
 
@@ -162,8 +159,6 @@ The Quibi failure ($1.75B burned in 8 months) revealed the limits of Katzenberg'
 
 ---
 
-research-status:: ready — Full expansion from 38 to 170+ lines. FEC data Chrome-verified (809 contributions, 100% Democratic). Wikipedia Chrome-verified (political activities section). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (timeline table) → What They've Gotten (Format 2, 8 rows) → WndrCo-TYT Connection → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $3M+ Priorities USA, 809 FEC contributions, $20M TYT investment, $15M Clooney fundraiser, Biden/Harris 2024 co-chair.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

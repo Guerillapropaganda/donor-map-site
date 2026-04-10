@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Pete Hegseth Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Pete Hegseth Master Profile]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #pete-hegseth #koch-network #concerned-veterans #va-privatization #class-analysis #follow-the-money
-
-related: [[_Pete Hegseth Master Profile]] · [[Koch Network - Charles Koch]]
 
 donors: [[Koch Network - Charles Koch]]
 

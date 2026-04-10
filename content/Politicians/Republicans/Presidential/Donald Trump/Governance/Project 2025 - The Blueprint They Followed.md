@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
-related: "[[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
+related: "[[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Immigration Enforcement - The Detention Economy]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -20,11 +20,8 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
-
 #trump #project-2025 #heritage-foundation #class-analysis #follow-the-money #administrative-state #deregulation #Koch #mandate-for-leadership
 
-related: [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Immigration Enforcement - The Detention Economy]]
 donors: [[Koch Network - Charles Koch]]
 
 ---
@@ -154,8 +151,6 @@ Not directly applicable. However, the DOGE efficiency campaign served as the mec
 - [Heritage Foundation - Nonprofit Explorer (ProPublica): 990 tax filings and donor information](https://projects.propublica.org/nonprofits/organizations/237327730) (Tier 1)
 - [NBC News: Leonard Leo, Koch Networks Pour Millions into Groups Prepping for Potential Second Trump Administration](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2)
 - [Federal Register: Energy Dominance Financing Amendments](https://www.federalregister.gov/documents/2025/10/28/2025-19675/energy-dominance-financing-amendments) (Tier 1)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

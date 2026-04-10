@@ -7,14 +7,11 @@ source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
-related: "[[HBW Resources]]"
+related: "[[HBW Resources]] · [[Saudi Arabia - Kingdom Investment]] · [[United Arab Emirates - Influence Operation]]"
 lobbying-spend: 1170000
 lobbying-filings: 32
 ---
-
 #turkey #erdogan #foreign #lobbying #nato #arms #flynn #fara #kurdish
-
-related: [[Saudi Arabia - Kingdom Investment]] [[United Arab Emirates - Influence Operation]]
 
 ---
 
@@ -48,8 +45,6 @@ F-35 program reinstatement (after S-400 removal), opposition to Kurdish politica
 - [FARA: Turkey foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1) (Tier 1)
 - [Congress.gov: Armenian Genocide Resolution](https://www.congress.gov/bill/116th-congress/house-resolution/296) (Tier 1)
 - [Ballotpedia: Turkey-US relations](https://ballotpedia.org/Turkey_-_Erdogan_Lobbying_Operation) (Tier 3)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

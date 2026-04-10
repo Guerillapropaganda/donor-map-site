@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Josh Shapiro Master Profile]]
-related: "[[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]]"
+related: "[[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]] · [[_Josh Shapiro Master Profile]]"
 ---
-
-
 #josh-shapiro #school-choice #vouchers #catholic-church #attorney-general #class-analysis
 
-related: [[_Josh Shapiro Master Profile]]
 donors: [[Michael Bloomberg]]
 
 content-readiness:: ready

@@ -32,12 +32,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]"
 ---
-
-
 #neal #master-profile #house #massachusetts #ways-and-means #insurance #pharma #corporate-democrat #blocker
-
-related: [[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]
 
 donors: [[MassMutual]], [[Fidelity Investments]], MetLife, NAIFA - National Association of Insurance and Financial Advisors, New York Life, [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]], Pharma Industry PACs
 
@@ -187,7 +184,6 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 
 profile-status:: ready
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Mental Health CARE Court and Forced Treatment]] · [[Rent Control - Props 10, 21, and 33]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #housing #homelessness #encampments #spending #accountability #grants-pass #CARE-court #criminalize-poverty #results #class-analysis #california #follow-the-money
 
-related: [[3.5 Million Units - Broken Promise]] | [[Mental Health CARE Court and Forced Treatment]] | [[Rent Control - Props 10, 21, and 33]] | [[_Gavin Newsom Master Profile]]
 donors: [[California Apartment Association]]
 
 ---
@@ -143,4 +140,3 @@ Homekey is genuinely designed and implemented as a program. But it is presented 
 - [LA Times: Grants Pass and Newsom executive order](https://www.latimes.com/california/story/2024-07-25/newsom-orders-state-agencies-to-clear-homeless-encampments) (Tier 2)
 - [Supreme Court: *City of Grants Pass v. Johnson* (2024)](https://www.supremecourt.gov/search.aspx?Search=Homelessness%20Spending%20and%20Encampments) (Tier 1)
 
-content-readiness:: ready

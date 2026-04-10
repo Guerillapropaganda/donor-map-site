@@ -26,7 +26,7 @@ bills-cosponsored: 113
 website: "https://gimenez.house.gov"
 phone: "202-225-2778"
 donors: "[[Bacardi - Bacardi USA]]"
-related: "[[Lennar Corporation]]"
+related: "[[Lennar Corporation]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]]"
 source-types:
   - FEC
   - GovTrack
@@ -49,13 +49,9 @@ verified-blocks:
   - fec-data
   - source-diversity
 ---
-
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation
 
-related: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]]
 donors: [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]]
-
-profile-status:: developed
 
 ---
 
@@ -188,9 +184,6 @@ The public posture is maximalist anti-Castroism. The donor positioning is post-e
 - [Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/All-In_(podcast))) (Tier 3)
 
 ---
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

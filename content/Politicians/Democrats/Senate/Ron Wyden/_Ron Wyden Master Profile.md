@@ -18,7 +18,7 @@ issues:
 total-received: "$133,281"
 fec-candidate-id: "S6OR00110"
 stock-trades: 10
-related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Mike Crapo Master Profile|Mike Crapo]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -33,11 +33,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
-
 #ron-wyden #democrat #oregon #senate #ranking-member #phase-6-gavel-power #finance #tax-policy #privacy #tech #class-analysis #follow-the-money
-
-related: [[_Mike Crapo Master Profile|Mike Crapo]] [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch]]
 
 donors:
 
@@ -159,9 +155,6 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 - [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

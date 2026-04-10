@@ -13,17 +13,11 @@ district: "12"
 committees:
   - "Veterans' Affairs"
 donors: "[[American Iron and Steel Institute]]"
-related: "[[Mark Takano]]"
+related: "[[Mark Takano]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #mike-bost #republican #illinois #house #committee-chair #veterans-affairs #pact-act #burn-pits #va-healthcare #doge #marine #privatization #community-care #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -145,4 +139,3 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 - [Ballotpedia: Mike Bost](https://ballotpedia.org/Mike_Bost) (Tier 3)
 - [Wikipedia: Mike Bost](https://en.wikipedia.org/wiki/Mike_Bost) (Tier 3)
 
-content-readiness:: ready

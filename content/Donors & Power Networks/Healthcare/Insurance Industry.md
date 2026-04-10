@@ -39,7 +39,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Housing and Urban Development Department"
   - "Internal Revenue Service"
-related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]]"
+related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]]"
 doj-press-mentions: "264349"
 doj-components:
   - "Civil Rights Division"
@@ -55,10 +55,7 @@ doj-components:
 lobbying-spend: 25607025
 lobbying-filings: 107
 ---
-
 #insurance #health-insurance #lobbying #aca #public-option #bipartisan #medicare-advantage #ahip #revolving-door
-
-related: [[Insurance Industry Bloc]] [[UnitedHealth Group - Optum]] [[Blue Cross Blue Shield Association]] [[Anthem PAC]] [[PhRMA]] [[Centene Corporation PAC]]
 
 ---
 
@@ -199,8 +196,6 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 - [The Hill: Medicare Advantage overpayments cost seniors billions](https://thehill.com/policy/healthcare/5777186-medicare-advantage-overpayments-raise-premiums/) (Tier 2)
 - [Jacobin: UnitedHealthcare's decades-long fight to block reform](https://jacobin.com/2024/12/unitedhealthcare-reform-political-lobbying) (Tier 3)
 - ~~[FollowTheMoney: Health insurance companies give healthy donations to political campaigns](https://www.followthemoney.org/research/institute-reports/health-insurance-companies-give-healthy-donations-to-political-campaigns)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-
-content-readiness:: developed
 
 ---
 

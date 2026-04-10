@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Andy Beshear Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Andy Beshear Master Profile]]"
 ---
-
-
 #andy-beshear #donors #gambling #trial-lawyers #real-estate #straw-donors #class-analysis #follow-the-money
 
-related: [[_Andy Beshear Master Profile]]
 donors: Trial Lawyers Bloc, Gambling Industry Bloc
 
 content-readiness:: ready

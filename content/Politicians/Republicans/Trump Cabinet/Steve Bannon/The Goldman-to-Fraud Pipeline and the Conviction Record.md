@@ -9,12 +9,10 @@ source-types:
   - DOJ
 known-gaps:
   - "No mapped relationships"
+related: "[[_Steve Bannon Master Profile]]"
 ---
-
-
 #steve-bannon #goldman-sachs #fraud #we-build-the-wall #contempt #seinfeld #war-room #class-analysis
 
-related: [[_Steve Bannon Master Profile]]
 donors: [[Robert Mercer]], [[Rebekah Mercer]]
 
 content-readiness:: ready

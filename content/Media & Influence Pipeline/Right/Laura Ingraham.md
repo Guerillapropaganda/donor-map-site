@@ -14,7 +14,6 @@ opposes: "[[Rachel Maddow]]"
 
 #media-pipeline #right #conservative #fox-news #cable-news #talk-radio #pharma-advertising #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -193,4 +192,3 @@ Laura Ingraham represents **the legacy cable television advertising model** — 
 
 ---
 
-content-readiness:: ready

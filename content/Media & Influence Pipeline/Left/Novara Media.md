@@ -12,7 +12,6 @@ related: "[[Owen Jones]]"
 
 #media-pipeline #left #uk-media #crowdfunded #corbyn-adjacent #flat-pay #novara
 
-
 ---
 
 ### Who They Are
@@ -87,4 +86,3 @@ Revenue: 76-89% crowdfunding + 16% YouTube ads + 8% events/merch. Platform: YouT
 - [Media Reform Coalition: UK media ownership](https://www.mediareform.org.uk/wp-content/uploads/2023/10/Who-Owns-the-UK-Media-2023.pdf) (Tier 2)
 - [UK Charity Commission: journalism guidance](https://charitycommission.blog.gov.uk/2020/01/27/read-all-about-it-when-can-journalism-be-charitable/) (Tier 1)
 
-content-readiness:: developed

@@ -14,12 +14,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Ted Cruz Master Profile|Ted Cruz]] · [[_Amy Klobuchar Master Profile|Amy Klobuchar]] · [[_John Boozman Master Profile|John Boozman]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[_Deb Fischer Master Profile|Deb Fischer]]"
 ---
-
 #investigation #contradiction #agriculture #farm-subsidies #crop-insurance #snap #bipartisan-consensus #class-analysis
 tags: #analysis #story
-
-related: [[_Ted Cruz Master Profile|Ted Cruz]] [[_Amy Klobuchar Master Profile|Amy Klobuchar]] [[_John Boozman Master Profile|John Boozman]] [[_Chuck Grassley Master Profile|Chuck Grassley]] [[_Deb Fischer Master Profile|Deb Fischer]]
 
 ---
 
@@ -126,6 +124,3 @@ The top 10% of subsidy recipients collect 60–66% of all payments. The bottom 8
 
 ---
 
-research-status:: reference
-content-readiness:: developed
-                   

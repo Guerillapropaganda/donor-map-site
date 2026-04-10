@@ -38,17 +38,11 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Chris Murphy Master Profile]]"
+related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
 ---
-
-
 #jim-himes #democrat #connecticut #house #ranking-member #intelligence #financial-services #wall-street #goldman-sachs #phase-6-gavel-power
 
-related: [[_Nancy Pelosi Master Profile|Pelosi]] [[_Chuck Schumer Master Profile|Schumer]] [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] [[The Wall Street-Schumer Funding Axis]]
-
 donors: [[Goldman Sachs - Wall Street Titan|Goldman Sachs]]
-
-profile-status:: ready
 
 ---
 ---
@@ -171,8 +165,6 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 - [Wikipedia: Jim Himes](https://en.wikipedia.org/wiki/Jim_Himes) (Tier 3)
 - [Connecticut Mirror: Himes and the Finance Committee](https://ctmirror.org/custom/jim-himes/) (Tier 2)
 - [Forbes: Himes net worth estimate](https://www.forbes.com/profile/jim-himes/) *(source unavailable)* (Tier 3)
-
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

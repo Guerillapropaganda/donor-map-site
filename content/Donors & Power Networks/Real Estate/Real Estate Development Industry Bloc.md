@@ -30,13 +30,9 @@ ofac-programs:
   - "ILLICIT-DRUGS-EO14059"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Steve Witkoff]]"
+related: "[[Steve Witkoff]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Lennar Corporation]]"
 ---
-
-
 #donor #real-estate #developers #housing #housing-deregulation #pac #california-apartment-association #nar #bipartisan #development-industry #supply-side
-
-related: The Real Estate President · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · California Building Industry Association · [[Lennar Corporation]]
 
 ---
 
@@ -119,9 +115,6 @@ Specific FPPC filings for Lennar contributions to California state politicians 2
 - [OC Register: Builders push "Trump Homes" in pitch for a million new houses (2026)](https://www.ocregister.com/2026/02/03/builders-push-trump-homes-in-pitch-for-a-million-houses/) (Tier 2)
 - [The Real Deal National: Lennar, Taylor Morrison leading "Trump Homes" charge (2026)](https://therealdeal.com/national/2026/02/04/lennar-taylor-morrison-leading-trump-homes-charge/) (Tier 2)
 - [ABC10: Newsom and Trump align in criticizing corporate investors amid California housing crisis](https://www.abc10.com/article/news/politics/newsom-and-trump-align-in-criticizing-corporate-investors-amid-the-california-housing-crisis/103-81104069-2e38-4895-b554-b4400f7d1a55) (Tier 3)
-
-research-status:: ready — NAR $19.8M PAC, CAA Essex $465K, Newsom recall $1.1M CBIA, Trump Homes $250B initiative, SB 9/SB 10/AB 1031, bipartisan class analysis. 8 sources, Tier 1-3. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

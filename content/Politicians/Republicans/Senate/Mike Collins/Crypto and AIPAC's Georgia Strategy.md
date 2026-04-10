@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Mike Collins Master Profile]]
+related: "[[_Mike Collins Master Profile]] · [[_Jon Ossoff Master Profile]] · [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Think Big AI]]"
 ---
-
 #crypto #aipac #georgia #ossoff #fairshake #three-industry-alliance #donor-coordination # 2026-race
 
 tags: #republican
-
-related: [[_Mike Collins Master Profile]] [[_Jon Ossoff Master Profile]] [[Fairshake PAC]] [[AIPAC - American Israel Public Affairs Committee]] [[Think Big AI]]
 
 donors: [[Fairshake PAC]] [[AIPAC - American Israel Public Affairs Committee]] [[Coinbase]] [[Marc Andreessen & Horowitz|Andreessen Horowitz]] [[Jump Crypto]]
 
@@ -170,6 +168,4 @@ Neither was proposing crypto regulation. Both simply represented political model
 - [Congress.gov: Mike Collins campaign finance](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: S.J.Res.61 Sanders conditioning amendment](https://www.congress.gov/bill/118th-congress/senate-joint-resolution/61) (Tier 1)
 - [Track AIPAC: Ossoff voting record AIPAC alignment](https://www.trackaipac.com/states/georgia) (Tier 3)
-
-content-readiness:: ready
 

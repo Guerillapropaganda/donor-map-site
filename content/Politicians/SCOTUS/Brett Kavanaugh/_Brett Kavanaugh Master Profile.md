@@ -31,12 +31,9 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[_Amy Coney Barrett Master Profile]]"
 ---
-
-
 #brett-kavanaugh #scotus #dark-money #leonard-leo #federalist-society #executive-power #epa #class-analysis #follow-the-money
-
-related: [[_Samuel Alito Master Profile]] [[_Clarence Thomas Master Profile]] [[Leonard Leo]] [[_Amy Coney Barrett Master Profile]]
 
 donors: [[Leonard Leo]], [[Fossil Fuel Bloc]], [[Judicial Crisis Network]]
 
@@ -134,7 +131,6 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 - [Brennan Center: Courting Disaster - The Trouble with Brett Kavanaugh's Views of Executive Power](https://www.brennancenter.org/our-work/analysis-opinion/courting-disaster-trouble-brett-kavanaughs-views-executive-power-age) (Tier 2)
 - [CBS News: Brett Kavanaugh Confirmed To Supreme Court With 50-48 Vote](https://www.cbsnews.com/news/brett-kavanaugh-confirmed-to-supreme-court-by-smallest-margin-in-modern-history/) (Tier 2)
 content-readiness:: ready
- 
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

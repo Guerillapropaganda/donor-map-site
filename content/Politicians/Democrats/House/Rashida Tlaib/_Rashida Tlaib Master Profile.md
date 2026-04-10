@@ -26,11 +26,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Ilhan Omar Master Profile|Omar]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[J Street]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[Marathon Petroleum]] · [[Haim Saban]]"
 ---
-
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice
-
-related: [[_Ilhan Omar Master Profile|Omar]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|UDP]] [[DMFI - Democratic Majority for Israel|DMFI]] [[J Street]] [[_Jamaal Bowman Master Profile|Bowman]] [[Marathon Petroleum]] · [[Haim Saban]]
 
 ---
 
@@ -178,9 +176,6 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 - [Jacobin: Tlaib pro-Palestine fundraising](https://jacobin.com/2024/02/rashida-tlaib-pro-palestine-fundraising) (Tier 3)
 - [Ballotpedia: Rashida Tlaib](https://ballotpedia.org/Rashida_Tlaib) (Tier 3)
 - [DSA: Condemn censure of Tlaib](https://www.dsausa.org/statements/democratic-socialists-of-america-condemn-the-censure-of-congresswoman-rashida-tlaib/) (Tier 4)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Labor - Donors and Backers]]"
+related: "[[Labor - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]]"
 ---
-
-
 #donald-trump #labor #nlrb #unions #schedule-f #doge #osha #minimum-wage #overtime #collective-bargaining #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]]
-
 donors: [[Elon Musk]], [[Amazon]], [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 
@@ -132,4 +126,3 @@ Workers die when OSHA enforcement disappears. The penalty collapse and inspector
 - [Center for American Progress. Trump Administration Quietly Gutting Minimum Wage Protections (March 2025)](https://www.americanprogress.org/article/the-trump-administration-is-quietly-gutting-minimum-wage-protections-for-millions-of-workers/) (Tier 2)
 - [Bloomberg. Federal Workforce Toll After a Year of DOGE and Trump. 317,000 (December 2025)](https://www.bloomberg.com/news/articles/2025-12-10) (Tier 2)
 
-research-status:: NLRB timeline documented from NPR, EPI, and official NLRB records. Union election statistics from CAP. Federal workforce numbers from OPM and Bloomberg. OSHA penalty data from Good Jobs First. Corporate ULP charges from NLRB Edge and investigative reporting. Musk DOGE conflict documented. Wage policy from CAP and EPI. Joint employer rule from Federal Register.

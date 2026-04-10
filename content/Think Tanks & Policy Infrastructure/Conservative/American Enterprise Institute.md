@@ -30,7 +30,6 @@ related: "[[Charles Koch]] · [[Harlan Crow]] · [[Bradley Foundation]] · [[Don
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy
 
-
 ---
 
 ### Who They Are
@@ -380,8 +379,6 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - [AEI: "How Much Is Too Much?" defense budget analysis (Jan 2025)](https://www.aei.org/articles/affording-defense-how-much-is-too-much/) (Tier 3)
 - [AEI: 2024 Annual Report financial summary](https://www.aei.org/wp-content/uploads/2025/02/01-2024-Annual-Report.pdf) (Tier 3)
 - [Carly Fiorina / AEI: Quote on corporate political organization (2016)](https://www.aei.org/articles/fiorinas-anti-cronyist-message-was-morally-and-politically-perfect/) (Tier 3)
-
-content-readiness:: developed
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

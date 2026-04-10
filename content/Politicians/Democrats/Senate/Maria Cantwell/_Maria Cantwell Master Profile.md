@@ -28,17 +28,11 @@ stock-trades: 6
 stock-trade-tickers:
   - "RNWK"
 donors: "[[Jeff Bezos]] · [[Comcast - NBCUniversal]] · [[Boeing Defense]]"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Patty Murray Master Profile|Murray]] · [[Boeing]]"
 ---
-
-
 #maria-cantwell #democrat #washington #senate #ranking-member #commerce #tech #amazon #boeing #telecommunications #airlines #realnetworks #phase-6-gavel-power
 
-related: [[_Patty Murray Master Profile|Murray]] [[Boeing]]
-
 donors: [[Boeing]]
-
-profile-status:: ready
 
 ---
 ---
@@ -159,8 +153,6 @@ Cantwell made her wealth as VP of Marketing at RealNetworks in the late 1990s. S
 - [Wikipedia: Maria Cantwell](https://en.wikipedia.org/wiki/Maria_Cantwell) (Tier 3)
 - [EBSCO Research: Maria Cantwell politics and government](https://www.ebsco.com/research-starters/politics-and-government/maria-cantwell) (Tier 3)
 - [Washington Insider: Maria Cantwell net worth 2025](https://washingtoninsider.us/united-states/politics/senate/maria-cantwell-net-worth-2025-insight-into-the-senators-wealth-and-career/) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

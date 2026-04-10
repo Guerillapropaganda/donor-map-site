@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Tim Scott Master Profile]]"
+related: "[[_Tim Scott Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[Blackstone Group]] · [[_French Hill Master Profile|French Hill]]"
 ---
-
 #scott #banking #wall-street #financial-services #south-carolina #opportunity-zones
-
-related: [[_Tim Scott Master Profile]] [[Goldman Sachs]] [[JPMorgan Chase]] [[Bank of America]] [[Blackstone Group]] [[_French Hill Master Profile|French Hill]]
 
 donors: [[Goldman Sachs]] [[JPMorgan Chase]] [[Bank of America]] [[Blackstone Group]]
 
@@ -52,4 +50,3 @@ The diversity brand serves the financial donor class by providing a messenger wh
 - [Washington Post: Tim Scott raises $6 million for presidential campaign in second quarter](https://www.washingtonpost.com/politics/2023/07/12/tim-scott-fundraising/) (Tier 2)
 - [Ballotpedia: Tim Scott](https://ballotpedia.org/Tim_Scott) (Tier 3)
 
-content-readiness:: ready

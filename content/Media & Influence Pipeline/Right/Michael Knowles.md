@@ -12,7 +12,6 @@ related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Jeremy Boreing]] · [[An
 
 #media-pipeline #right #culture-war #daily-wire #evangelical-capitalism
 
-
 ---
 
 ### Who They Are
@@ -143,4 +142,3 @@ The Daily Wire model—billionaire-funded, subscription-protected, ideology-firs
 - [Media Bias/Fact Check: The Daily Wire](https://mediabiasfactcheck.com/the-daily-wire/) (Tier 3) (WebFetch verified 2026-03-27)
 - [FEC: Michael Knowles individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=KNOWLES%2C+MICHAEL) (Tier 1)
 
-content-readiness:: ready

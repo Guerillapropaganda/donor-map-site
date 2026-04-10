@@ -10,7 +10,6 @@ related: "[[_Media Pipeline Framework|Media Pipeline Framework]] · [[The Shared
 
 #media-pipeline #both-sides-illusion #class-analysis #cross-comparison #corporate-media #venture-capital #advertising #platform-dependency
 
-
 ---
 
 ### Core Thesis
@@ -348,4 +347,3 @@ Both left and right media face identical economic pressures. The "debate" is the
 
 ---
 
-content-readiness:: developed

@@ -7,13 +7,11 @@ source-tier: 2
 parent: null
 known-gaps:
   - "No mapped relationships"
+related: "[[_Ashley Hinson Master Profile]] · [[_Zach Wahls Master Profile]] · [[Senate Leadership Fund]]"
 ---
-
 #2026-election #senate #iowa #race-frame
 
 tags: #analysis #story
-
-related:: [[_Ashley Hinson Master Profile]] [[_Zach Wahls Master Profile]] Josh Turek [[Senate Leadership Fund]] Ethanol and Agribusiness Networks
 
 donors:: [[Senate Leadership Fund]] Ethanol Lobby Agribusiness Networks [[Democratic Senatorial Campaign Committee]]
 

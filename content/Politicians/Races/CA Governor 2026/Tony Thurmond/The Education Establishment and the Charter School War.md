@@ -7,12 +7,9 @@ source-tier: 2
 parent: [[_Tony Thurmond Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Tony Thurmond Master Profile]] · [[CTA - California Teachers Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Antonio Villaraigosa Master Profile]]"
 ---
-
-
 #tony-thurmond #education-establishment #charter-schools #cta #teachers-union #superintendent-record #class-analysis
-
-related: [[_Tony Thurmond Master Profile]] · [[CTA - California Teachers Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Antonio Villaraigosa Master Profile]]
 
 donors: [[CTA - California Teachers Association]]
 

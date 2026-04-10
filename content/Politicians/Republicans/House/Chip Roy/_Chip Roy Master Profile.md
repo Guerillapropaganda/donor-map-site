@@ -26,11 +26,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Ted Cruz Master Profile|Cruz]] · [[Club for Growth]] · [[Koch Industries]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Mike Lee Master Profile|Mike Lee]] · [[_Mike Johnson Master Profile|Mike Johnson]]"
 ---
-
 #roy #texas #freedom-caucus #spending #border #libertarian #cruz-ally #rules-committee #judiciary #club-for-growth
-
-related: [[_Ted Cruz Master Profile|Cruz]] [[Club for Growth]] [[Koch Industries]] [[_Jim Jordan Master Profile|Jim Jordan]] [[_Mike Lee Master Profile|Mike Lee]] [[_Mike Johnson Master Profile|Mike Johnson]]
 
 ---
 
@@ -166,9 +164,6 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 - [E&E News/Politico: Solar group takes revenge on Chip Roy over tax credits](https://www.eenews.net/articles/solar-group-takes-revenge-on-chip-roy-over-tax-credits/) (Tier 2)
 - [GovTrack: Chip Roy 2024 Report Card](https://www.govtrack.us/congress/members/chip_roy/412826/report-card/2024) (Tier 3)
 - [Ballotpedia: Chip Roy](https://ballotpedia.org/Chip_Roy) (Tier 3)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

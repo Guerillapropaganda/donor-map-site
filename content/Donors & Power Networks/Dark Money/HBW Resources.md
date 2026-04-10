@@ -20,7 +20,7 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
-related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]]"
 sec-filings: 19
 sec-form-types:
   - "10-K"
@@ -41,10 +41,7 @@ sec-form-types:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ---
-
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money
-
-related: [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]]
 
 ---
 
@@ -164,8 +161,6 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 ---
 
 **Editorial note:** The prior version of this file incorrectly described HBW Resources as a FARA-registered foreign agent for Turkey and Qatar, and included related links to the Turkey-Erdogan Lobbying Operation. This was an error — HBW Resources is a domestic energy lobbying firm with no documented Turkey or Qatar FARA registrations in the OpenSecrets or Senate LDA databases. The Turkey FARA related tag has been removed and the classification corrected to reflect HBW's actual practice areas: fossil fuel front groups, tribal gaming, defense aerostats, and carbon capture.
-
-content-readiness:: developed
 
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->

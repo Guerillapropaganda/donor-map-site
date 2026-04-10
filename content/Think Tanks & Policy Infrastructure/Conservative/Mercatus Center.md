@@ -36,7 +36,6 @@ regulatory-agencies:
 
 #think-tank #conservative #libertarian #deregulation #koch #academic-capture #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -409,8 +408,6 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 - [Wall Street Journal: Musk and Ramaswamy DOGE plan](https://www.wsj.com/opinion/musk-and-ramaswamy-the-doge-plan-to-reform-government-supreme-court-guidance-end-executive-power-grab-fa51c020) (Tier 2) (UNVERIFIED)
 - [Wikipedia: Mercatus Center](https://en.wikipedia.org/wiki/Mercatus_Center) (Tier 3)
 - [WTOP: DOGE spending claims and Veronique de Rugy interview](https://wtop.com/local/2025/02/how-much-money-is-doge-saving-the-federal-government/) (Tier 2)
-
-content-readiness:: developed
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

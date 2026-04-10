@@ -32,12 +32,9 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[_Gavin Newsom Master Profile]] · [[CalPERS]] · [[CalSTRS]]"
 ---
-
-
 #betty-yee #california #governor-2026 #state-controller #fiscal-policy #pensions #class-analysis
-
-related: [[_Gavin Newsom Master Profile]] · [[CalPERS]] · [[CalSTRS]]
 
 donors: [[CalPERS]] · [[CalSTRS]] · [[SEIU - Service Employees International Union|SEIU]] · Public Employee Unions
 

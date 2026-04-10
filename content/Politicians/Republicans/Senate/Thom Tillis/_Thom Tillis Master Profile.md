@@ -44,12 +44,9 @@ known-gaps:
 opposes: >-
   [[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE
   MAJORITY PAC]] · [[NEA ADVOCACY FUND]]
+related: "[[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #thom-tillis #senate #north-carolina #pharmaceutical #drug-pricing #research-triangle #intellectual-property #class-analysis
-
-related: [[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · North Carolina Research Triangle
 
 donors: [[Pharmaceutical Industry Bloc]], [[Tech IP and Patent Lobbying]], [[Koch Network - Charles Koch]]
 

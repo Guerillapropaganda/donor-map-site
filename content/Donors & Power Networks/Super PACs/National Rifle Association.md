@@ -44,13 +44,9 @@ ein: 530116130
 annual-revenue: "$175.7M"
 net-assets: "$168.1M"
 tax-year: "2023"
-related: "[[The Culture War Economy and Small Dollar Fundraising]] · [[Lauren Boebert]] · [[The Gun Control Brand and Insurance Industry Reality]]"
+related: "[[The Culture War Economy and Small Dollar Fundraising]] · [[Lauren Boebert]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The NRA Investment and the Second Amendment Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Guns - Donors and Backers]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #donor #gun-lobby #pac #nra #dark-money #russian-money #scotus #501c4 #lobbying
-
-related: [[The NRA Investment and the Second Amendment Theater]] [[_Donald Trump Master Profile|Trump]] [[Guns - Donors and Backers]] [[Koch Network - Charles Koch]]
 
 ---
 
@@ -213,8 +209,6 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 - [NYSBA: The Bruen Decision and Its Impact](https://nysba.org/the-supreme-courts-bruen-decision-and-its-impact-what-comes-next/) (Tier 2)
 
 ---
-
-content-readiness:: ready
 
 ---
 

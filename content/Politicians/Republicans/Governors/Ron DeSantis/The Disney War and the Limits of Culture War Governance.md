@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Ron DeSantis Master Profile]]
+related: "[[_Ron DeSantis Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]]"
 ---
-
 #desantis #disney #reedy-creek #culture-war #dont-say-gay #corporate-retaliation #class-analysis #florida
 
-related: [[_Ron DeSantis Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]]
-
 donors: [[Kenneth Griffin]] · [[Fossil Fuel Bloc]]
-
-content-readiness:: ready
 
 ---
 

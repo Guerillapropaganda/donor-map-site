@@ -213,4 +213,3 @@ The following developments are significant enough to warrant dedicated vault sub
 ---
 
 *Scan conducted: 2026-03-22. Sources: Web search across Congress.gov, Federal Register, Whitehouse.gov, NPR, PBS, CNN, Al Jazeera, CalMatters, SCOTUSblog, Justia, ICE.gov, American Immigration Council. All URLs verified at time of research.*
-content-readiness:: ready

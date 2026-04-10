@@ -14,12 +14,9 @@ issues:
 sec-filings: 1
 sec-form-types:
   - "EX-99.(P)(II)"
-related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]]"
+related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]] · [[Democratic Senatorial Campaign Committee]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee|NRSC]]"
 ---
-
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis
-
-related: [[Democratic Senatorial Campaign Committee]] [[_Chuck Schumer Master Profile|Schumer]] [[Senate Majority PAC]] [[Majority Forward]] [[National Republican Senatorial Committee|NRSC]]
 
 ---
 
@@ -129,8 +126,6 @@ The losses flipped Senate control to Republicans. The $600+ million investment f
 - [OpenSecrets: DSCC top contributors 2024](https://www.opensecrets.org/political-parties/DSCC/2024/contributors?name=democratic-senatorial-campaign-cmte) (Tier 1)
 - [OpenSecrets: DSCC expenditures 2024](https://www.opensecrets.org/political-parties/DSCC/2024/expenditures?name=democratic-senatorial-campaign-cmte) (Tier 1)
 - [Ballotpedia: Democratic Senatorial Campaign Committee](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3)
-
-content-readiness:: developed
 
 ---
 

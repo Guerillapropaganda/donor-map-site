@@ -18,16 +18,12 @@ net-assets: "$316K"
 tax-year: "2023"
 lobbying-spend: 160000
 lobbying-filings: 8
-related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[Buffy Wicks]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]]"
+related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[Buffy Wicks]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 ---
-
-
 #donor #teacher-union #CTA #labor #education #class-analysis #union-as-donor #school-closures #charter-opposition #california #follow-the-money
-
-related: [[_Gavin Newsom Master Profile]] | [[Education - Donors and Backers]] | [[Charter Schools and the Billionaire Reform Movement]] | [[COVID School Closures - Learning Loss and Class Division]]
 
 ---
 
@@ -99,9 +95,6 @@ Education — charter schools, COVID closures, curriculum, early childhood, scho
 - [FPPC: CTA contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [CalMatters: Newsom, lawmakers unveil plan to push schools to reopen](https://calmatters.org/health/coronavirus/2021/03/newsom-lawmakers-schools-reopen/) (Tier 2)
 - [LA Times: CTA and school closures](https://www.latimes.com/california/story/2021-03-05/teachers-union-california-schools-reopening) (Tier 2)
-
-content-readiness:: ready
-research-status:: ready — 310K members, largest CA teachers union, NEA affiliate, Newsom donor, AB 1505 win, COVID closure alignment, charter opposition, Prop 98 protections. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

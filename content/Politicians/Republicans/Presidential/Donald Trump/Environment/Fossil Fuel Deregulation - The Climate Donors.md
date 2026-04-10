@@ -5,13 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]]"
+related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[IBEW - International Brotherhood of Electrical Workers]]"
 ---
-
-
 #trump #fossil-fuel #deregulation #climate #class-analysis #follow-the-money #EPA #drilling #emissions #energy-emergency
-
-related: [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[IBEW - International Brotherhood of Electrical Workers]]
 
 donors: [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Timothy Mellon]]
 
@@ -148,8 +144,6 @@ Not applicable in this case — the endangerment finding revocation is a compreh
 - [Department of Energy: Energy Department Reins in Over $83 Billion in Biden-Era Loans and Conditional Commitments](https://www.energy.gov/articles/energy-department-reins-over-83-billion-biden-era-loans-and-conditional-commitments) (Tier 1)
 - [Inflation Reduction Act Tracker: DOE Restructures, Revises, and Eliminates Loans and Conditional Commitments through Office of Energy Dominance Financing](https://iratracker.org/actions/doe-restructures-revises-and-eliminates-loans-and-conditional-commitments-through-office-of-energy-dominance-financing/) (Tier 1)
 - [pv magazine: Department of Energy Cuts $83 Billion in Loans, Reversing Energy Transition Funding](https://pv-magazine-usa.com/2026/01/23/department-of-energy-cuts-83-billion-in-loans-reversing-energy-transition/) (Tier 2)
-
-content-readiness:: ready
 
 ---
 

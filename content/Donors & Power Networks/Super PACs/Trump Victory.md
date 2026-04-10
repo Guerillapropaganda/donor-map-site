@@ -23,13 +23,9 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
   - "PX14A6G"
-related: "[[WinRed]]"
+related: "[[WinRed]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]]"
 ---
-
-
 #donor #pac #joint-fundraising #trump #rnc #state-parties #mega-donors #dark-money #legal-fees #contribution-limits
-
-related: [[The Pardon Machine - Who Got Clemency and Who Funded It]] [[_Donald Trump Master Profile|Trump]] [[Save America PAC]] [[MAGA Inc]]
 
 ---
 
@@ -192,8 +188,6 @@ Trump Victory is the structural mechanism through which Trump converted the Repu
 - [TIME: Inside the GOP Fight Over Trump's Legal Costs](https://time.com/6836021/trump-legal-costs-rnc-gop/) (Tier 2)
 
 ---
-
-content-readiness:: ready
 
 ---
 

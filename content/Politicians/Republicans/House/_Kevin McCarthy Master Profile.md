@@ -34,17 +34,11 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Cathy McMorris Rodgers Master Profile]]"
+related: "[[Cathy McMorris Rodgers Master Profile]] · [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[_Matt Gaetz Master Profile]] · [[Fossil Fuel Bloc]] · [[Real Estate Industry]] · [[Defense Contractors]]"
 ---
-
-
 #kevin-mccarthy #master-profile #house #california #speaker #fossil-fuel #oil-gas #ousted #energy-industry
 
-related: [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[_Matt Gaetz Master Profile]] · [[Fossil Fuel Bloc]] · [[Real Estate Industry]] · [[Defense Contractors]]
-
 donors: [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]]
-
-profile-status:: ready
 
 ---
 
@@ -241,8 +235,6 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 - [CREW: McCarthy financial disclosures and oil industry connections](https://www.citizensforethics.org/analysis-kevin-mccarthy-oil-industry-funding/) *(source unavailable)* (Tier 2)
 - [Public Citizen: Congressional Leadership Fund spending breakdown](https://www.citizen.org/article/congressional-leadership-fund-fossil-fuel-spending-2020-2022/) *(source unavailable)* (Tier 2)
 - [Salon: McCarthy's energy industry loyalty](https://www.salon.com/2023/06/01/kevin-mccarthy-fossil-fuel-speaker-baker/) *(source unavailable)* (Tier 2)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

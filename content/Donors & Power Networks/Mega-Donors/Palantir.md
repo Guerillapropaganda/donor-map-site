@@ -44,17 +44,13 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "511210"
 lei: "549300UVN46B3BBDHO85"
 lei-jurisdiction: "US-DE"
-related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]] · [[Alpine Group]] · [[Ajay Royan]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing Defense]]"
+related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Ballard Partners]] · [[Alpine Group]] · [[Ajay Royan]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing Defense]] · [[Founders Fund]] · [[Peter Thiel]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Koch Industries]] · [[Raytheon Technologies]] · [[_Josh Gottheimer Master Profile]] · [[Eric Schmidt]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]]"
 internal-notes: "[URL Check 2026-04-08] 25 checked: 16 ok, 1 broken, 8 slow. | BROKEN: Source: CourtListener / RECAP | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Source: Federal Register | SLOW: Source: GLEIF"
 federal-awards-total: 1168645041
 federal-contracts-count: 25
 federal-grants-count: 0
 ---
-
-
 #palantir #thiel #surveillance #defense #ai #military #ice #immigration #data #revolving-door #class-analysis #follow-the-money
-
-related: [[Founders Fund]] · [[Peter Thiel]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Koch Industries]] · [[Raytheon Technologies]] · [[_Josh Gottheimer Master Profile]] · [[Eric Schmidt]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]]
 
 ---
 
@@ -245,8 +241,6 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 - [AFSC Investigate: Palantir Technologies company profile](https://investigate.afsc.org/company/palantir) (Tier 3)
 
 ---
-
-research-status:: developed — Full OpenSecrets political spending, lobbying, and revolving door data. Complete LDA lobbying history 2006–2025 via Senate LDA API (489 filings). Contract timeline from Maven inception through $10B Army agreement. ICE surveillance documentation. Israel/IDF strategic partnership (Jan 2024) documented with Tier 2 sources. Local police surveillance (LAPD, NYPD) documented with Tier 2 sources. Class analysis complete. Remaining gaps: individual executive political contributions (FEC
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

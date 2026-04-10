@@ -5,11 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-02
 source-tier: 1
 parent: null
+related: "[[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Bacardi - Bacardi USA]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[MasTec - Mas Canosa Family]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[The Defense Spending Bipartisan Consensus]]"
 ---
-
 #investigation #cuba #flotilla #convoy #embargo #donor-class #media-attack #class-analysis #follow-the-money #code-pink #hasan-piker #ryan-grim #fanjul #rubio #salazar #sugar #blockade #2026 #featured
 
-related: [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Bacardi - Bacardi USA]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[MasTec - Mas Canosa Family]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[The Defense Spending Bipartisan Consensus]]
 donors: [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]]
 
 ---
@@ -223,5 +222,3 @@ This investigation surfaces entities that need their own vault nodes:
 
 ---
 
-research-status:: developed — Full investigation integrated with vault donor data. Cross-referenced against Rubio, Fanjul, Salazar, Bacardi, MasTec, Helms-Burton vault files. Gaps identified: US-Cuba Democracy PAC, CANF, Third Way, Wasserman Schultz need dedicated nodes. Source URLs need Chrome verification pass.
-content-readiness:: developed

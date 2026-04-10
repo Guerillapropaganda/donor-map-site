@@ -43,12 +43,9 @@ corroboration-count: 3
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]]"
 ---
-
-
 #martin-heinrich #democrat #new-mexico #senate #nuclear-weapons #national-labs #energy #ai #defense #intelligence #clean-energy #class-analysis #follow-the-money
-
-related: [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]]
 
 donors: [[Defense Industry]] · National Labs Complex · Energy Industry · [[Tech Industry]]
 

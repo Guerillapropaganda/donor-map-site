@@ -16,7 +16,7 @@ politicians-funded:
   - "Martin Heinrich"
   - "Debbie Stabenow"
   - "Rosa DeLauro"
-related: "[[Economic Policy Institute]] · [[Rosa DeLauro]]"
+related: "[[Economic Policy Institute]] · [[Rosa DeLauro]] · [[Microsoft]] · [[Walton Family Foundation]] · [[Eli Broad Foundation]] · [[DeVos Family]]"
 doj-press-mentions: "264457"
 last-enriched: "2026-04-09"
 doj-components:
@@ -31,10 +31,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
 #gates #microsoft #philanthropy #education #health #charter-schools #climate
-
-related: [[Microsoft]] [[Walton Family Foundation]] [[Eli Broad Foundation]] [[DeVos Family]]
 
 ---
 
@@ -68,8 +65,6 @@ Education reform (charter schools, teacher evaluation, standardized testing), gl
 - [Gates Foundation: Annual reports and financial data](https://www.gatesfoundation.org/about/financials/annual-reports) (Tier 1)
 - [Washington Post: Gates Foundation and Common Core](https://www.washingtonpost.com/politics/how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html) (Tier 2)
 - [Ballotpedia: Bill Gates](https://ballotpedia.org/Bill_Gates) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

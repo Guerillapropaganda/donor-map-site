@@ -10,12 +10,9 @@ entity-type: "Story"
 politicians-funded:
   - "Pete Hegseth"
   - "Donald Trump"
-related: "[[Fox News - Murdoch Media Empire]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[News Corp - Fox Corporation]] · [[_Pete Hegseth Master Profile|Pete Hegseth]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
 #fox-news #media #pipeline #republican #trump #conservative #revolving-door #propaganda
-
-related: [[News Corp - Fox Corporation]] [[_Pete Hegseth Master Profile|Pete Hegseth]] [[_Donald Trump Master Profile|Trump]]
 
 ---
 

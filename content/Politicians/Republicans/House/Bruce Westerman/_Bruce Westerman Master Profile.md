@@ -14,18 +14,12 @@ issues:
   - "Energy & Climate"
 total-received: "$1,848,430"
 fec-candidate-id: "H4AR04048"
-related: "[[Raul Grijalva]]"
+related: "[[Raul Grijalva]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 donors: "[[American Petroleum Institute]]"
 ---
-
-
 #bruce-westerman #republican #arkansas #house #committee-chair #natural-resources #oil-gas #mining #timber #forestry #public-lands #drilling #stock-trading #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch|Koch Network]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -150,8 +144,6 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 - [Encyclopedia of Arkansas: Bruce Westerman](https://encyclopediaofarkansas.net/entries/bruce-eugene-westerman-8441/) (Tier 3)
 - [Ballotpedia: Bruce Westerman](https://ballotpedia.org/Bruce_Westerman) (Tier 3)
 - [Wikipedia: Bruce Westerman](https://en.wikipedia.org/wiki/Bruce_Westerman) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

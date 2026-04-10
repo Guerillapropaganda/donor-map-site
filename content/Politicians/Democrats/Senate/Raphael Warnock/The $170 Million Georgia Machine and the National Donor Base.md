@@ -5,17 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Raphael Warnock Master Profile]]
+related: "[[_Raphael Warnock Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Kamala Harris Master Profile]]"
 ---
-
 #raphael-warnock #fundraising #national-donors #georgia #campaign-finance #2020-2022
 
 tags: #democrat
 
-related: [[_Raphael Warnock Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Kamala Harris Master Profile]]
-
 donors: [[Tech and Media Donors]] · [[Healthcare Sector]]
-
-content-readiness:: ready
 
 ---
 

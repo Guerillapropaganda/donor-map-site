@@ -5,13 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[Jared Kushner Master Profile]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Operation Lone Star and the Border Militarization Spending Machine]]"
+related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[Jared Kushner Master Profile]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[_Chad Bianco Master Profile]] · [[GEO Group]] · [[CoreCivic]] · [[Securus Technologies - Aventiv]] · [[Peter Thiel]] · [[Timothy Mellon]]"
 ---
-
-
 #trump #immigration #detention #deportation #class-analysis #follow-the-money #GEO-Group #[[CoreCivic|CoreCivic]] #ICE #private-prisons #labor-suppression
-
-related: [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[_Chad Bianco Master Profile]] · [[GEO Group]] · [[CoreCivic]] · [[Securus Technologies - Aventiv]] · [[Peter Thiel]] · [[Timothy Mellon]]
 
 donors: [[Timothy Mellon]] · [[GEO Group|GEO Group - Private Prisons]] · [[CoreCivic|CoreCivic - Private Prisons]]
 
@@ -153,10 +149,6 @@ Trump's expansion of detention from 46,000 to 66,000 beds during 2025 served as 
 - [GEO Group, Inc.: SEC Filings and 10-K Annual Reports](https://investors.geogroup.com/news-events-reports/sec-filings) (Tier 1)
 - [CoreCivic, Inc.: SEC Filings and 10-K Annual Reports](https://ir.corecivic.com/financial-information/sec-filings) (Tier 1)
 - [NPR: How ICE Became the Highest-Funded U.S. Law Enforcement Agency, January 2026](https://www.npr.org/2026/01/21/nx-s1-5674887/ice-budget-funding-congress-trump) (Tier 2)
-
-content-readiness:: ready
-
-content-readiness:: ready
 
 ---
 

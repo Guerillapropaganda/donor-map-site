@@ -43,12 +43,9 @@ executive-orders: 294
 presidential-memoranda: 257
 proclamations: 1230
 last-enriched: "2026-04-08"
+related: "[[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] · [[Barack Obama Donor Network - The Full Map]] · [[Barack Obama Executive Orders Timeline]] · [[Term 1 vs Term 2 - Obama Comparison]] · [[The Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] · [[DACA and the Limits of Executive Action]] · [[Dodd-Frank and the Wall Street Bailout]] · [[ACA and the Insurance Industry Negotiation]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The HAMP Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Drone Presidency - Seven Countries Bombed and the Peace Prize Paradox]] · [[The All of the Above Betrayal - Climate Rhetoric, Record Oil Production, and Who Funded Both|Climate: All of the Above Betrayal]] · [[Race to the Top - Charter Mandates, Hedge Fund Reformers, and the Union Coalition Obama Broke|Education: Race to the Top]] · [[The Shovel-Ready Betrayal - ARRA Infrastructure, the Solyndra Donor Scandal, and Eight Years at D+|Infrastructure: The Shovel-Ready Betrayal]] · [[The Civil Rights Ceiling - Marriage Equality, Mass Incarceration, and the First Step Act Obama Never Took|Civil Rights: The Ceiling]]"
 ---
-
-
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
-
-related: [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] · Gene Sperling · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] · [[Barack Obama Donor Network - The Full Map]] · [[Barack Obama Executive Orders Timeline]] · [[Term 1 vs Term 2 - Obama Comparison]] · [[The Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] · [[DACA and the Limits of Executive Action]] · [[Dodd-Frank and the Wall Street Bailout]] · [[ACA and the Insurance Industry Negotiation]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The HAMP Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Drone Presidency - Seven Countries Bombed and the Peace Prize Paradox]] · [[The All of the Above Betrayal - Climate Rhetoric, Record Oil Production, and Who Funded Both|Climate: All of the Above Betrayal]] · [[Race to the Top - Charter Mandates, Hedge Fund Reformers, and the Union Coalition Obama Broke|Education: Race to the Top]] · [[The Shovel-Ready Betrayal - ARRA Infrastructure, the Solyndra Donor Scandal, and Eight Years at D+|Infrastructure: The Shovel-Ready Betrayal]] · [[The Civil Rights Ceiling - Marriage Equality, Mass Incarceration, and the First Step Act Obama Never Took|Civil Rights: The Ceiling]]
 
 donors: [[Goldman Sachs]], Silicon Valley Tech Sector, [[Insurance Industry]], [[Pharmaceutical Industry]], [[JPMorgan Chase]], [[Google]], [[Apple]] · [[Citigroup]]
 
@@ -258,10 +255,6 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 - [Medium/OpenSecrets: Obama-tied operatives and Biden supporters launch $60 million 'dark money' group](https://medium.com/@OpenSecretsDC/obama-tied-operatives-and-biden-supporters-launch-60-million-dark-money-group-a21197faf3cf) (Tier 2) (VERIFIED)
 - [OpenSecrets: Organizing for Action Committee](https://www.opensecrets.org/obama/organizing-for-action-committee) (Tier 1) (VERIFIED)
 - [Free Beacon: Democracy Alliance Members Big Contributors to OFA](https://freebeacon.com/national-security/democracy-alliance-members-big-contributors-to-ofa/) (VERIFIED) (Tier 3 — partisan source but citing primary documentation) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
-
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

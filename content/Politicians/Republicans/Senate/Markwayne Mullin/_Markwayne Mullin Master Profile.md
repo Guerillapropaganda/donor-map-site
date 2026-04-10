@@ -14,15 +14,12 @@ committees:
 total-received: '$4,666,234'
 fec-candidate-id: S2OK00186
 donors: '[[Devon Energy]] · [[DEFEND US PAC]] · [[CRYPTO INNOVATION]]'
-related: '[[Kristi Noem]]'
+related: "[[Kristi Noem]] · [[_Jim Inhofe Master Profile|Jim Inhofe]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Lockheed Martin]] · [[L3 Technologies]]"
 govtrack-id: 412568
 bills-sponsored: 23
 bills-cosponsored: 157
 ---
-
 #markwayne-mullin #oklahoma #senate #republican #energy #cherokee #indigenous #armed-services #dhs-secretary #trump-cabinet #plumber #stock-trading
-
-related: [[_Jim Inhofe Master Profile|Jim Inhofe]] [[Fossil Fuel Bloc]] [[Koch Network - Charles Koch|Koch Network]] [[_Donald Trump Master Profile|Trump]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Lockheed Martin]] [[L3 Technologies]]
 
 ---
 
@@ -158,9 +155,6 @@ The 15.57% self-financing rate and low small-dollar percentage undercut the "blu
 - ~~[FollowTheMoney: Markwayne Mullin](https://www.followthemoney.org/tools/election-overview?eid=12013169&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

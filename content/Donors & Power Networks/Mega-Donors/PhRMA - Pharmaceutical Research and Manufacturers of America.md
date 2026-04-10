@@ -39,11 +39,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[PhRMA]] · [[Pharmaceutical Industry]]"
 ---
-
 #phrma #redirect #pharma #lobbying
-
-related: [[PhRMA]] [[Pharmaceutical Industry]]
 
 ---
 

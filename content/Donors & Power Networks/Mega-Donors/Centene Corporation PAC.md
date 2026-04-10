@@ -10,12 +10,9 @@ entity-type: "PAC"
 issues:
   - "Healthcare"
   - "Social Safety Net"
-related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]]"
+related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Centene Corporation]] · [[Insurance Industry Bloc]] · [[Insurance Industry]] · [[Anthem - Elevance Health Political Operation|Anthem/Elevance]] · [[Anthem PAC]] · [[PhRMA]]"
 ---
-
 #centene #pac #healthcare #medicaid #managed-care #bipartisan #revolving-door #overbilling
-
-related: [[Centene Corporation]] [[Insurance Industry Bloc]] [[Insurance Industry]] [[Anthem - Elevance Health Political Operation|Anthem/Elevance]] [[Anthem PAC]] [[PhRMA]]
 
 ---
 
@@ -156,8 +153,6 @@ Medicaid funding and managed care policy, ACA marketplace rules, Medicare Advant
 - [Missouri Independent: Centene showers politicians with millions](https://missouriindependent.com/2022/11/04/centene-showers-politicians-with-millions-as-it-courts-contracts-settles-overbilling-allegations/) (Tier 2)
 - [Becker's Payer: Centene spent $307M to settle overbilling in 2023](https://www.beckerspayer.com/payer/centene-spent-281m-to-settle-state-overbilling-allegations-in-2023/) (Tier 2)
 - [Fierce Healthcare: Elevance Health, Centene donated to Trump inaugural fund](https://www.fiercehealthcare.com/payers/elevance-health-centene-donated-trump-inaugural-fund) (Tier 2)
-
-content-readiness:: developed
 
 ---
 

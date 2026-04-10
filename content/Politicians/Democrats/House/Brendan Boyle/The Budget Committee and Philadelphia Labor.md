@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Brendan Boyle Master Profile]] · [[SEIU - Service Employees International Union|SEIU]]"
 ---
-
 #boyle #pennsylvania #budget #labor #philadelphia #working-class #unions
-
-related: [[_Brendan Boyle Master Profile]] [[SEIU - Service Employees International Union|SEIU]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]]
 

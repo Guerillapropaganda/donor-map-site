@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Chad Bianco Master Profile]]
-related: "[[Riverside Sheriffs Association]]"
+related: "[[Riverside Sheriffs Association]] · [[_Chad Bianco Master Profile]] · [[CA DOJ Investigation - Pattern and Practice]] · [[Deputy Misconduct and the Whistleblower Firing]] · [[CSPOA - The Anti-Government Sheriff Network]]"
 ---
-
-
 #bianco #jail-deaths #carceral-state #class-analysis #follow-the-money #use-of-force #fentanyl #medical-neglect #riverside #accountability
 
-related: [[_Chad Bianco Master Profile]] | [[CA DOJ Investigation - Pattern and Practice]] | [[Deputy Misconduct and the Whistleblower Firing]] | [[CSPOA - The Anti-Government Sheriff Network]]
 donors: [[Riverside Sheriffs Association|Riverside Sheriffs' Association]]
 
 ---
@@ -147,5 +144,3 @@ Who is accountable? Nobody. The sheriff controls the jail. The sheriff's union b
 - [Daily News — death behind bars investigation](https://www.dailynews.com/2025/12/05/death-behind-bars-whos-dying-in-southern-california-county-jails-and-why/) (Tier 2)
 - [Davis Vanguard — federal lawsuits, hush money](https://davisvanguard.org/2024/04/lawyers-file-7-federal-lawsuits-allege-riverside-county-scheme-offered-hush-money-to-incarcerated-sexually-abused-by-deputy/) (Tier 3)
 
-research-status:: ready — Full citation pass complete. 251 deaths (2012-2024), 18 deaths in 2022 (157% spike), $100M settlements over decade, consent decree failure (13/80 provisions met), coroner conflict of interest, named victims (Vasquez, Matus), falsified records, community response (25+ orgs). 13 sources Tier 1-3 with URLs. All ### headers. Promoted Session 38n.
-content-readiness:: ready

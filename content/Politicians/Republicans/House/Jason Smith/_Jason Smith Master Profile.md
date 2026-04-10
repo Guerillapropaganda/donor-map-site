@@ -34,13 +34,9 @@ bills-cosponsored: 27
 website: "https://jasonsmith.house.gov"
 phone: "202-225-4404"
 donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]]"
-related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Real Estate Roundtable]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #jason-smith #republican #missouri #house #committee-chair #phase-6-gavel-power #ways-and-means #tax-policy #class-analysis #follow-the-money
-
-related: [[Real Estate Roundtable]] [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch]]
 
 donors: [[Real Estate Roundtable]]
 
@@ -153,9 +149,6 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 - [Ballotpedia: Jason Smith (Missouri)](https://ballotpedia.org/Jason_Smith_(Missouri_representative)) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

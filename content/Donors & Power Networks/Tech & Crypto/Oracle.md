@@ -25,7 +25,7 @@ subawards-received: 50
 subawards-received-amount: 281107145
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541512"
-related: "[[The Judiciary Committee and Libertarian Constitutionalism]]"
+related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[Larry Ellison]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]]"
 federal-awards-total: 1133627862
 federal-contracts-count: 25
 federal-grants-count: 3
@@ -44,10 +44,7 @@ court-jurisdictions:
 lobbying-spend: 21330000
 lobbying-filings: 58
 ---
-
 #oracle #tech #cloud #government-contracts #lobbying #larry-ellison #tiktok
-
-related: [[Larry Ellison]] [[Google - Alphabet]] [[Amazon]] [[Microsoft]] [[_Donald Trump Master Profile|Trump]]
 
 ---
 
@@ -85,8 +82,6 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 - [Department of Defense: JWCC contract award](https://www.defense.gov/News/Releases/Release/Article/3239378/) (Tier 1)
 - [Washington Post: Oracle's courting of Trump may help it land TikTok's business and coveted user data](https://www.washingtonpost.com/technology/2020/09/16/oracle-tiktok-trump/) (Tier 2)
 - [Ballotpedia: Oracle political spending](https://ballotpedia.org/Oracle_Corporation) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

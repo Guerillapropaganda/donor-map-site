@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Doug Burgum Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Doug Burgum Master Profile]] · [[_Chris Wright Master Profile]]"
 ---
-
-
 #doug-burgum #interior-department #energy-dominance #drilling #anwr #renewables #class-analysis
 
-related: [[_Doug Burgum Master Profile]] [[_Chris Wright Master Profile]]
 donors: [[Harold Hamm|Harold Hamm]], [[Leonard Leo]]
 
 content-readiness:: ready

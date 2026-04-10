@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_French Hill Master Profile]]"
+related: "[[_French Hill Master Profile]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]]"
 ---
-
 #hill #fit21 #crypto #cfpb #financial-services #deregulation #coinbase
-
-related: [[_French Hill Master Profile]] [[Coinbase]] [[Fairshake PAC]] [[Crypto Industry Bloc]] [[Marc Andreessen & Horowitz]]
 
 donors: [[Coinbase]] [[Fairshake PAC]] [[Marc Andreessen & Horowitz]] [[Goldman Sachs]]
 
@@ -56,4 +54,3 @@ Hill's CFPB overdraft fee reversal is the second act of the donor-service functi
 - [Arkansas Times: Banker French Hill clears path for bankers to charge you more](https://arktimes.com/arkansas-blog/2025/02/19/banker-french-hill-clears-path-for-bankers-to-charge-you-more) (Tier 2)
 - [Ballotpedia: French Hill](https://ballotpedia.org/French_Hill) (Tier 3)
 
-content-readiness:: ready

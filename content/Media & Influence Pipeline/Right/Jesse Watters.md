@@ -13,7 +13,6 @@ donors: "[[Fox Corp - Rupert Murdoch]]"
 
 #media-pipeline #right #fox-news #cable-news #murdoch #pharma-advertising #legacy-media #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -181,4 +180,3 @@ Jesse Watters represents **the institutional media product** — the host who wa
 
 ---
 
-content-readiness:: ready

@@ -44,7 +44,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Environment - Donors and Backers]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]]"
+related: "[[Environment - Donors and Backers]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]] · [[_Greg Abbott Master Profile]] · [[_Ted Cruz Master Profile]] · [[_Donald Trump Master Profile]] · [[Kelcy Warren - Energy Transfer Partners|Energy Transfer Partners]]"
 sec-filings: 506
 sec-form-types:
   - "4"
@@ -61,10 +61,7 @@ sec-form-types:
   - "SC 13D"
   - "SC 13D/A"
 ---
-
 #donor-node #mega-donor #fossil-fuel #pipeline #texas #republican #class-analysis #donor
-
-related: [[_Greg Abbott Master Profile]] [[_Ted Cruz Master Profile]] [[_Donald Trump Master Profile]] [[Kelcy Warren - Energy Transfer Partners|Energy Transfer Partners]] Dakota Access Pipeline Texas Energy Deregulation Standing Rock Sioux Tribe
 
 ---
 
@@ -206,10 +203,6 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 - [FEC Receipts: Kelcy Warren Donor Lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=kelcy%20warren) (Tier 1)
 
 ---
-
-content-readiness:: ready
-
-research-status:: ready
 
 ---
 

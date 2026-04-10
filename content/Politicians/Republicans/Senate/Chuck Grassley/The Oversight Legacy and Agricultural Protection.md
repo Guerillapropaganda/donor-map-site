@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chuck Grassley Master Profile]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[Monsanto - Bayer]]"
 ---
-
 #grassley #oversight #agriculture #iowa #ethanol #farm-bill #judiciary #whistleblower
-
-related: [[_Chuck Grassley Master Profile]] [[ADM - Archer Daniels Midland]] [[Cargill]] [[Monsanto - Bayer]]
 
 donors: [[ADM - Archer Daniels Midland]] [[Cargill]] [[John Deere]]
 

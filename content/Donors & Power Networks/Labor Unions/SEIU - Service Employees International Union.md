@@ -19,7 +19,7 @@ annual-revenue: "$14.9M"
 net-assets: "$8.2M"
 tax-year: "2023"
 total-political-spend: "$15,473,514"
-related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[Nancy Pelosi Master Profile]] · [[Laphonza Butler]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[Katie Porter Master Profile]] · [[Gretchen Whitmer Master Profile]]"
+related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[Nancy Pelosi Master Profile]] · [[Laphonza Butler]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[Katie Porter Master Profile]] · [[Gretchen Whitmer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[CNA - California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -34,11 +34,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
-
 #donor #union #SEIU #healthcare #public-sector #labor #class-analysis #follow-the-money #california #national #home-care #minimum-wage #fast-food #fight-for-15
-
-related: [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[CNA - California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]]
 
 ---
 
@@ -185,9 +181,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 - [OpenSecrets: Service Employees International Union 2024 cycle](https://www.opensecrets.org/orgs/service-employees-international-union/summary?id=D000000077) (Tier 1)
 - [OpenSecrets: SEIU lifetime giving data](https://www.opensecrets.org/orgs/service-employees-international-union/totals?id=D000000077) (Tier 1)
 - [California Governor's Office: AB 1228 Fast Food Worker Wage](https://www.gov.ca.gov/2023/09/28/california-increases-minimum-wage-protections-for-fast-food-workers/) (Tier 1)
-
-research-status:: ready — Full citation pass, source format standardized. Temporal mapping (11 entries), $232.7M lifetime giving, Fight for $15, Janus impact, Newsom transaction documented. All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
-content-readiness:: ready
 
 ---
 

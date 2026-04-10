@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Private Detention - AB 32]] · [[287(g) and the Sanctuary State Contradiction]]"
+related: "[[Private Detention - AB 32]] · [[287(g) and the Sanctuary State Contradiction]] · [[Trump Resistance and the 2028 Play]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #immigration #sanctuary-state #sb54 #ice #enforcement-gap #rhetoric-vs-record #california-values-act
 
-related: [[Trump Resistance and the 2028 Play]] | [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] | [[Immigration - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: (Labor unions, immigrant rights organizations)
 
 ---
@@ -119,4 +116,3 @@ Newsom's administration can pressure non-compliant counties through state fundin
 
 ---
 
-content-readiness:: ready

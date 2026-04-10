@@ -9,12 +9,10 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Russell Vought Master Profile]]"
 ---
-
-
 #russell-vought #christian-nationalism #heritage-action #ideology #class-analysis
 
-related: [[_Russell Vought Master Profile]]
 donors: [[Conservative Partnership Institute]], Klingenstein Fund, [[Bradley Impact Fund]], [[DonorsTrust]]
 
 content-readiness:: ready

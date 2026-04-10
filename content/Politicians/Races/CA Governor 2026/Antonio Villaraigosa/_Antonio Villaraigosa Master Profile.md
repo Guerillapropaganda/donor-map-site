@@ -20,12 +20,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #antonio-villaraigosa #california #governor-2026 #real-estate #la-machine #development-friendly #class-analysis
-
-related: [[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]
 
 donors: [[California Building and Construction Trades Council]] · [[California Apartment Association]] · Charter Schools Coalition
 

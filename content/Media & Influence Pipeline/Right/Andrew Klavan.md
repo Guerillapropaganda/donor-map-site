@@ -12,7 +12,6 @@ related: "[[Daily Wire - Ben Shapiro|Daily Wire]] · [[Wilks Brothers]] · [[Ben
 
 #media-pipeline #right #daily-wire #theological-capitalism #literary-conservative #wilks-brothers
 
-
 ---
 
 ### Who They Are
@@ -179,4 +178,3 @@ The theological capitalism frame is central: Klavan's Christianity is not incide
 - [Babylon Bee: Brett Cooper Leaves Daily Wire / Klavan reference](https://babylonbee.com/news/brett-cooper-leaves-daily-wire-causing-andrew-klavan-to-regain-title-of-daily-wires-most-attractive-host) (Tier 4 — satire, confirms roster position only)
 - [FEC: Andrew Klavan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KLAVAN%2C+ANDREW) (Tier 1)
 
-content-readiness:: ready

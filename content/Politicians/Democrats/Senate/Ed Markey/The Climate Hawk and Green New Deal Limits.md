@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Ed Markey Master Profile]]"
+related: "[[_Ed Markey Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders Master Profile|Sanders]] · [[Fossil Fuel Bloc]]"
 ---
-
 #markey #climate #green-new-deal #telecom #massachusetts #progressive
-
-related: [[_Ed Markey Master Profile]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Bernie Sanders Master Profile|Sanders]] [[Fossil Fuel Bloc]]
 
 donors: [[Silicon Valley Democratic Donor Network]] [[ActBlue]]
 
@@ -46,4 +44,3 @@ Before his climate rebrand, Markey was primarily known as a telecom expert — h
 - [Washington Post: Green New Deal unveiling sparks immediate Democratic divisions](https://www.washingtonpost.com/climate-environment/2019/02/07/green-new-deal-sparks-immediate-democratic-divisions/) (Tier 2)
 - [Ballotpedia: Ed Markey](https://ballotpedia.org/Ed_Markey) (Tier 3)
 
-content-readiness:: ready

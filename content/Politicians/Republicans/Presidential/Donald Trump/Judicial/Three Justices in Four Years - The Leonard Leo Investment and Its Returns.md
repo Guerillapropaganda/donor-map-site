@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]]"
+related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Neil Gorsuch Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]] · [[Judicial Crisis Network]]"
 ---
-
-
 #donald-trump #judicial #leonard-leo #federalist-society #scotus #gorsuch #kavanaugh #barrett #mcconnell #garland #dark-money #chevron #dobbs #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[_Neil Gorsuch Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]] · [[Judicial Crisis Network]]
-
 donors: [[Leonard Leo]], [[Judicial Crisis Network]], [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 
@@ -141,8 +135,6 @@ The lower courts matter because the Supreme Court hears approximately 70 cases p
 - [Ballotpedia. Federal Judges Nominated by Donald Trump](https://ballotpedia.org/Federal_judges_nominated_by_Donald_Trump) (Tier 2)
 - [Courthouse News Service. Trump Flips Another Circuit to Majority GOP Appointees](https://www.courthousenews.com/trump-flips-another-circuit-to-majority-gop-appointees/) (Tier 2)
 - [SCOTUSblog. Loper Bright Enterprises v. Raimondo (June 28, 2024)](https://www.scotusblog.com/2024/06/supreme-court-strikes-down-chevron-curtailing-power-of-federal-agencies/) (Tier 2)
-
-research-status:: Appointment counts from Federal Judicial Center and Ballotpedia. Confirmation votes from Senate records. Leo network funding from ProPublica and CREW. JCN spending from SourceWatch and Documented. Rulings from SCOTUSblog. Circuit flip data from Courthouse News. Second term appointment demographics from Balls and Strikes. $1.6B Seid donation documented from multiple Tier 2 sources.
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

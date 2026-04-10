@@ -20,12 +20,10 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[Sherrod Brown|Sherrod Brown]] · [[Les Wexner - Wexner Family Enterprises]]"
 ---
-
 #politician #republican #senate
 tags: #republican
-
-related: [[Sherrod Brown|Sherrod Brown]] [[Les Wexner - Wexner Family Enterprises]]
 
 donors: [[Les Wexner - Wexner Family Enterprises|Les Wexner]] · [[Centene Corporation]] · Ohio Corporate Donors · [[Senate Leadership Fund]]
 

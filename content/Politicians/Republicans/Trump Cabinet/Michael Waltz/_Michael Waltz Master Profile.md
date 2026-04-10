@@ -11,7 +11,7 @@ issues:
   - Defense & Military
 total-received: '$3,109'
 fec-candidate-id: H8FL06148
-related: '[[Fanjul Family - Florida Crystals]]'
+related: "[[Fanjul Family - Florida Crystals]] · [[Anduril Industries]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Donald Trump]]"
 govtrack-id: 412764
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -25,10 +25,7 @@ donors: >-
   FOR AMERICA]]
 opposes: '[[HOUSE MAJORITY PAC]] · [[AMERICAN JOBS AND GROWTH PAC]]'
 ---
-
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money
-
-related: [[Anduril Industries]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Donald Trump]]
 
 ---
 

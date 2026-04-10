@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Ro Khanna Master Profile]] · [[_Pramila Jayapal Master Profile]] · [[_Zoe Lofgren Master Profile]]"
 ---
-
 #khanna #silicon-valley #tech #progressive #antitrust #defense #manufacturing
-
-related: [[_Ro Khanna Master Profile]] [[_Pramila Jayapal Master Profile]] [[_Zoe Lofgren Master Profile]]
 
 donors: [[Apple]] [[Google - Alphabet]] [[Microsoft]] [[Meta - Facebook]]
 

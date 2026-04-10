@@ -22,12 +22,10 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AbbVie]]"
 ---
-
 #politician #republican #house #brett-guthrie #donor-pipeline #pharma
 tags: #republican
-
-related: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] Pfizer PAC Merck PAC Eli Lilly PAC [[AbbVie]] Health Insurance PACs Orphan Drug Reform Medicare Negotiation House Energy & Commerce Committee
 
 donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] Pfizer PAC Merck PAC Eli Lilly PAC [[AbbVie]]
 
@@ -136,7 +134,6 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 
 profile-status:: ready
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

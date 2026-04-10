@@ -47,12 +47,9 @@ lei-jurisdiction: "KY"
 lei-parent: "Quantum Partners LP"
 lobbying-spend: 1515500
 lobbying-filings: 100
-related: "[[Harris-Newsom Donor Class Fracture]] · [[From Soros CIO to Trump Treasury - The Class Defection]] · [[The Biden Exit and Harris Installation]] · [[Wes Moore Master Profile]] · [[The Robin Hood Pipeline - From Hedge Fund Charity to Statehouse]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Center on Budget and Policy Priorities]] · [[Pod Save America]]"
+related: "[[Harris-Newsom Donor Class Fracture]] · [[From Soros CIO to Trump Treasury - The Class Defection]] · [[The Biden Exit and Harris Installation]] · [[Wes Moore Master Profile]] · [[The Robin Hood Pipeline - From Hedge Fund Charity to Statehouse]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Center on Budget and Policy Priorities]] · [[Pod Save America]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Senate Majority PAC]] · [[House Majority PAC]]"
 ---
-
 #donor #billionaire #democratic #progressive #dark-money #open-society
-
-related: [[_Gavin Newsom Master Profile]] [[Democratic Party Infrastructure]] [[Open Society Foundations]] Democracy PAC [[Senate Majority PAC]] [[House Majority PAC]] State Court Reform Progressive Prosecutors
 
 ---
 
@@ -146,8 +143,6 @@ A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [
 
 ---
 
-research-status:: ready — Full citation pass complete. $32B Open Society Foundations, $125M+ Arabella network, $60M Harris 2024, progressive prosecutor funding, Democracy PAC, state court elections ($2M Wisconsin 2025), Alex Soros succession. 8 sources, Tier 1-3. All ### headers. Promoted Session 38k.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

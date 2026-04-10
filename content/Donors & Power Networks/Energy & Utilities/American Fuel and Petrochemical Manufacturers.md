@@ -31,7 +31,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
 lobbying-spend: 3142538
 lobbying-filings: 146
-related: "[[Marathon Petroleum]]"
+related: "[[Marathon Petroleum]] · [[Enterprise Products Partners]] · [[Williams Companies]] · [[InfluenceMap]] · [[League of Conservation Voters]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 55318139
 total-assets: 57058180
@@ -62,10 +62,7 @@ sec-form-types:
   - "PRRN14A"
   - "PX14A6G"
 ---
-
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money
-
-related: [[Enterprise Products Partners]] · [[Williams Companies]] · [[InfluenceMap]] · [[League of Conservation Voters]]
 
 ---
 

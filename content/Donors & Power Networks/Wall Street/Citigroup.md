@@ -30,7 +30,7 @@ lobbying-filings: 52
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 0
-related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]]"
+related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_French Hill Master Profile|French Hill]]"
 sec-filings: 10000
 sec-form-types:
   - "424B2"
@@ -58,10 +58,7 @@ sec-form-types:
   - "S-3"
   - "S-3ASR"
 ---
-
 #citigroup #wall-street #banking #too-big-to-fail #derivatives #lobbying #bailout
-
-related: [[Goldman Sachs]] [[JPMorgan Chase]] [[Bank of America]] [[_Chuck Schumer Master Profile|Chuck Schumer]] [[_French Hill Master Profile|French Hill]] Robert Rubin
 
 ---
 
@@ -138,8 +135,6 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 - [ProPublica: Robert Rubin's role in Citigroup's risk-taking](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2)
 - [Wall Street Journal: Citigroup's political spending and lobbying operation](https://www.wsj.com/articles/citigroup-lobbying) (Tier 2)
 - [Ballotpedia: Citigroup political spending](https://ballotpedia.org/Citigroup) (Tier 3)
-
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

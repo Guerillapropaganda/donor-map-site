@@ -50,7 +50,6 @@ regulatory-agencies:
 
 #lobbying #k-street #pharma #defense #finance #tech #trade #bipartisan #revolving-door
 
-
 ---
 
 ### Who They Are
@@ -280,8 +279,6 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 - [Akin Gump: Akin Adds Former Top Appropriations Staffer Jen Becker-Pollet — Senate Appropriations Clerk/Subcommittee Staff Director, $30B annual funds, March 30 2026](https://www.akingump.com/en/insights/press-releases/akin-adds-former-top-appropriations-staffer-jen-becker-pollet-to-leading-lobbying-and-public-policy-practice-in-washington-dc) (Tier 3)
 - [LegiStorm: Jen Becker-Pollet biography — Senate Appropriations FSGG Subcommittee Clerk](https://www.legistorm.com/person/bio/202995/Jennifer_Anne_Amalia_Becker_Pollet.html) (Tier 3)
 - [Akin Gump: Akin Expands Health Policy Platform with Molly (Brimmer) Lolli — E&C Health Subcommittee Senior Counsel, March 2026](https://www.akingump.com/en/insights/press-releases/akin-expands-health-policy-platform-with-addition-of-leading-house-energy-and-commerce-committee-health-staffer-molly-brimmer-lolli) (Tier 3)
-
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

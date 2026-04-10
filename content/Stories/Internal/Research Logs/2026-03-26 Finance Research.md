@@ -7,11 +7,9 @@ source-tier: 1
 parent: null
 known-gaps:
   - "No mapped relationships"
+related: "[[GEO Group - Private Prisons]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Raytheon Technologies]] · [[United Auto Workers]] · [[David Sacks Political Operation]] · [[_Donald Trump Master Profile]]"
 ---
-
 #finance-research #campaign-finance #daily-update #automated
-
-related: [[GEO Group - Private Prisons]] | [[PhRMA - Pharmaceutical Research and Manufacturers of America]] | [[Raytheon Technologies]] | [[United Auto Workers]] | [[David Sacks Political Operation]] | [[_Donald Trump Master Profile]]
 
 ---
 

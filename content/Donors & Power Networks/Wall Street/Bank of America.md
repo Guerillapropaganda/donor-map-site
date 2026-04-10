@@ -41,7 +41,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[_French Hill Master Profile|French Hill]] · [[_Tim Scott Master Profile|Tim Scott]]"
 subawards-issued: 9
 subawards-issued-amount: 912260
 subawards-received: 9
@@ -55,10 +55,7 @@ federal-awards-total: 180306
 federal-contracts-count: 4
 federal-grants-count: 3
 ---
-
 #bank-of-america #wall-street #banking #too-big-to-fail #consumer-finance #lobbying #mortgage
-
-related: [[Goldman Sachs]] [[JPMorgan Chase]] [[Citigroup]] [[_French Hill Master Profile|French Hill]] [[_Tim Scott Master Profile|Tim Scott]]
 
 ---
 
@@ -120,8 +117,6 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 - [OpenSecrets: Bank of America lobbying expenditures](https://www.opensecrets.org/orgs/bank-of-america/lobbying?id=D000000090) (Tier 1)
 - [Reuters: Bank of America reduces overdraft fees ahead of CFPB action](https://www.reuters.com/business/finance/bank-america-reduce-overdraft-fees-this-spring-2022-01-11/) (Tier 2)
 - [Ballotpedia: Bank of America political spending](https://ballotpedia.org/Bank_of_America) (Tier 3)
-
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

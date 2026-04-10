@@ -13,7 +13,6 @@ internal-notes: "[URL Check 2026-04-09] 13 checked: 12 ok, 1 broken, 0 slow. | B
 
 #media-pipeline #centrist #CNN #institutional-media #vanderbilt #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -179,4 +178,3 @@ Anderson Cooper is the perfect centrist institutional media specimen: born into 
 
 ---
 
-content-readiness:: developed

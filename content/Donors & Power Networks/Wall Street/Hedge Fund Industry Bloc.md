@@ -10,12 +10,9 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
   - "Tax Policy"
-related: "[[The Carried Interest Loophole - 30 Years of Survival]]"
+related: "[[The Carried Interest Loophole - 30 Years of Survival]] · [[Citadel - Kenneth Griffin]] · [[Goldman Sachs]] · [[Private Equity Industry Bloc]] · [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement]]"
 ---
-
 #hedge-funds #wall-street #carried-interest #tax #bipartisan #sec #regulation
-
-related: [[Citadel - Kenneth Griffin]] [[Goldman Sachs]] [[Private Equity Industry Bloc]] [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement]]
 
 ---
 
@@ -50,4 +47,3 @@ Preservation of carried interest tax treatment (taxing fund manager profits at 2
 - [SEC: Investment adviser registration statistics](https://www.sec.gov/divisions/investment/ia-registration-stats.shtml) (Tier 1)
 - [Ballotpedia: Hedge fund political spending](https://ballotpedia.org/Hedge_Fund_Industry_Bloc) (Tier 3)
 
-content-readiness:: ready

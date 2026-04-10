@@ -12,7 +12,6 @@ related: "[[Dan Bongino]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[Tim P
 
 #media-pipeline #right #video-platform #political-infrastructure #conservative-media #investor-capture #foreign-money #crypto #vertically-integrated
 
-
 ---
 
 ### Who They Are
@@ -253,4 +252,3 @@ Patterns present: **Donor-Class Override** (platform moderation policies reject 
 
 ---
 
-content-readiness:: developed

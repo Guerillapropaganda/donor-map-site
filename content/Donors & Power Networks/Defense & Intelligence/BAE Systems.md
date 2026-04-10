@@ -35,7 +35,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: "8SVCSVKSGDWMW2QHOH83"
 lei-jurisdiction: "GB"
-related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]]"
+related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]]"
 nonprofit-status: "501(c)(9)"
 total-revenue: 534243661
 total-assets: 33156493
@@ -57,10 +57,7 @@ regulatory-agencies:
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
 ---
-
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
-
-related: [[Lockheed Martin]] [[General Dynamics]] [[Raytheon (RTX)|Raytheon]] [[_Jeanne Shaheen Master Profile|Shaheen]]
 
 ---
 
@@ -97,8 +94,6 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 - [DoD: BAE Systems contract awards](https://www.defense.gov/News/Contracts/) (Tier 1)
 - [BAE Systems: US operations](https://www.baesystems.com/en-us/our-company) (Tier 2)
 - [Ballotpedia: BAE Systems](https://ballotpedia.org/BAE_Systems) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

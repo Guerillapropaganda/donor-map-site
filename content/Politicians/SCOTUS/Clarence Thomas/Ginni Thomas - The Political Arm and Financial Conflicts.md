@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Clarence Thomas Master Profile]]
+related: "[[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[Harlan Crow]]"
 ---
-
-
 #clarence-thomas #ginni-thomas #heritage-foundation #liberty-central #leonard-leo #january-6 #citizens-united #dark-money #class-analysis #follow-the-money
 
-related: [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[Harlan Crow]]
-
 donors: [[Harlan Crow]], [[Leonard Leo]]
-
-content-readiness:: ready
 
 ---
 

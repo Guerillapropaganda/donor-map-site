@@ -12,7 +12,6 @@ related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]]
 
 #media-pipeline #right #fox-news #radio #koch #scaife #exxon #constitutional-originalism #reagan #landmark-legal
 
-
 ---
 
 ### Who They Are
@@ -193,4 +192,3 @@ The key difference between Levin and pure institutional products like Hannity or
 
 > **Source note:** The Politico 2014 article documenting Landmark Legal Foundation's Koch/Scaife/ExxonMobil donors and Levin's $300K+ salary is cited in Wikipedia but the original Politico URL could not be located for direct verification. The claim is corroborated by multiple secondary sources and Wikipedia's editorial review process. A future session should attempt to locate and Chrome-verify the original Politico article for direct Tier 2 citation.
 
-content-readiness:: ready

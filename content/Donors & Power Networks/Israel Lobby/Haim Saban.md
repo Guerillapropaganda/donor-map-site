@@ -20,7 +20,7 @@ annual-revenue: "$2.0M"
 net-assets: "$26.3M"
 tax-year: "2020"
 total-political-spend: "$20,115,751"
-related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]]"
+related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[_Donald Trump Master Profile]]"
 doj-press-mentions: "264457"
 last-enriched: "2026-04-09"
 doj-components:
@@ -35,11 +35,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
-
 #donor #israel #haim-saban #billionaire #entertainment #single-issue #democratic-mega-donor #follow-the-money #class-analysis #california #beverly-hills
-
-related: [[_Gavin Newsom Master Profile]] | [[Pro-Israel Donor Network Deep Dive]] | [[AIPAC - American Israel Public Affairs Committee]] | [[Miriam Adelson]] | [[_Donald Trump Master Profile]]
 
 ---
 
@@ -127,9 +123,6 @@ National Democratic politics — Clinton network, AIPAC connection, UDP funding
 - [FEC Receipts: Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=haim%20saban) (Tier 1)
 - [OpenSecrets: Saban Capital Group](https://www.opensecrets.org/ORGS/summary.php?id=D000037316) (Tier 1)
 - [Haaretz: Saban $1M to AIPAC UDP](https://www.haaretz.com/us-news/2022-04-13/ty-article/.highlight/israeli-u-s-billionaire-saban-donates-1-million-to-aipacs-super-pac/00000180-5bb2-d718-afd9-dfbea3a70000) (Tier 2)
-
-research-status:: ready — Full citation pass complete. Saban-Adelson bracket analysis, $16M Clinton cycle, UDP $1M, single-issue donor model documented. All ### headers, Tier 1-2 sources verified, class analysis present. Remaining research note: FPPC Cal-Access search for direct Newsom contributions not yet completed. Promoted Session 38j.
-content-readiness:: ready
 
 ---
 

@@ -97,4 +97,3 @@ The class dynamic: Foreign wealth (sovereign funds, state capital) has discovere
 ---
 #analysis
 
-content-readiness:: ready

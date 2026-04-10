@@ -62,12 +62,9 @@ sec-form-types:
   - "S-3ASR"
   - "S-3D"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]]"
+related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]]"
 ---
-
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
-
-related: [[ExxonMobil]] [[Koch Industries]] [[Fossil Fuel Bloc]]
 
 ---
 
@@ -102,8 +99,6 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 
 - [OpenSecrets: NextEra Energy organizational profile](https://www.opensecrets.org/orgs/nextera-energy/summary?id=D000021981) (Tier 1)
 - [Ballotpedia: NextEra Energy](https://ballotpedia.org/NextEra_Energy) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

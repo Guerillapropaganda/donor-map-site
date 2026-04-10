@@ -38,7 +38,6 @@ related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Si
 
 #think-tank #conservative #policing #housing #education #criminal-justice #anti-dei #urban-policy #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -230,8 +229,6 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 - [City Journal: Trump Executive Order on DEI Is One to Celebrate (Rufo, Jan. 21, 2025)](https://www.city-journal.org/article/donald-trump-dei-executive-order) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

@@ -11,12 +11,9 @@ issues:
   - "Technology"
 lobbying-spend: 1258000
 lobbying-filings: 51
-related: "[[The Dark Money Crusader and Court Reform]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Climate Hawk and Green New Deal Limits]] · [[Chris Murphy Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[Center for American Progress]] · [[John Hickenlooper]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Ethan Klein]] · [[Cory Booker]]"
+related: "[[The Dark Money Crusader and Court Reform]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Climate Hawk and Green New Deal Limits]] · [[Chris Murphy Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[Center for American Progress]] · [[John Hickenlooper]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Ethan Klein]] · [[Cory Booker]] · [[Reid Hoffman]] · [[Dustin Moskovitz]] · [[Laurene Powell Jobs]] · [[Reed Hastings]] · [[Future Forward USA Action]] · [[Democratic Donor Network]] · [[AI Regulation and Tech Donors]] · [[Climate Philanthropy - The Green Billionaires]]"
 ---
-
 #donor #donor-network #tech #democratic #2024-realignment #silicon-valley #billionaire-coordination #ai-regulation #immigration-policy
-
-related: [[Reid Hoffman]] · [[Dustin Moskovitz]] · [[Laurene Powell Jobs]] · Marc Benioff · [[Reed Hastings]] · [[Future Forward USA Action]] · [[Democratic Donor Network]] · H-1B Visa Policy · [[AI Regulation and Tech Donors]] · [[Climate Philanthropy - The Green Billionaires]]
 
 ---
 
@@ -143,9 +140,6 @@ The system works because Democratic politicians need tech billionaire money more
 - [American Immigration Council: "H-1B Visa Program Overview"](https://www.americanimmigrationcouncil.org/research/h-1b-visa-program-overview) (Tier 2)
 
 ---
-
-research-status:: ready
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

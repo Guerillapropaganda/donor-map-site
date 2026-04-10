@@ -22,13 +22,9 @@ court-cases: 2
 court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, N.D. Ohio"
-related: "[[UnitedHealth Group - Optum]]"
+related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]"
 ---
-
-
 #donor #civica-rx #generic-drugs #nonprofit #healthcare #insulin #calrx #calcium #health-systems #pharmaceutical
-
-related: [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · Intermountain Healthcare · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]
 
 ---
 
@@ -106,9 +102,6 @@ Pharmaceutical corporations — not opponents in any material sense. Civica oper
 - [West Health: Nonprofit Generic Drug Company Co-Founded by Gary and Mary West Foundation Will Manufacture Low-Cost Insulin](https://westhealth.org/news/nonprofit-generic-drug-company-co-founded-by-gary-and-mary-west-foundation-will-manufacture-and-distribute-low-cost-insulin/) (Tier 1)
 - [Healthcare Finance News: Intermountain Healthcare-led generic drug venture CivicaRx garners new members (2019)](https://www.healthcarefinancenews.com/news/intermountain-healthcare-led-generic-drug-venture-civicarx-garners-new-members-including-nyu) (Tier 2)
 - [State of Reform: California and Civica RX to produce biosimilar insulins (2023)](https://stateofreform.com/) (Tier 2)
-
-research-status:: ready — 501(c)(4) nonprofit drug manufacturer, CalRx $50M partnership, insulin $30/vial, failed state factory, genuine win with structural limit pattern, PBM gatekeeping unchanged. 7 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

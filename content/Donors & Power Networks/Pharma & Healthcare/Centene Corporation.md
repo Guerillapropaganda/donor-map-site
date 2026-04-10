@@ -68,16 +68,13 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
-related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]]"
+related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]] · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[_Joe Manchin Master Profile|Manchin]]"
 top-federal-agency: "General Services Administration"
 top-naics-code: "624190"
 lei: "549300Z7JJ4TQSQGT333"
 lei-jurisdiction: "US-DE"
 ---
-
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
-
-related: [[UnitedHealth Group - Optum]] [[Insurance Industry Bloc]] [[_Joe Manchin Master Profile|Manchin]]
 
 ---
 
@@ -103,8 +100,6 @@ Centene's structural function in American healthcare is converting public health
 - [OpenSecrets: Centene Corporation lobbying and PAC](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795) (Tier 1)
 - [SEC: Centene 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Centene%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Healthcare industry lobbying](https://ballotpedia.org/Centene_Corporation) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

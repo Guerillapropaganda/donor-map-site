@@ -30,12 +30,9 @@ known-gaps:
 opposes: >-
   [[SENATE LEADERSHIP FUND]] · [[AMERICAN CROSSROADS]] · [[NRSC]] · [[MAKE
   AMERICA GREAT AGAIN INC.]]
+related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[Fossil Fuel Bloc]] · [[_Kamala Harris Master Profile]] · [[_Joe Manchin Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Jewish Democratic Council of America]] · [[DMFI - Democratic Majority for Israel]]"
 ---
-
-
 #john-fetterman #senate #pennsylvania #working-class #small-dollar #post-election-drift #israel #aipac #class-analysis
-
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[Fossil Fuel Bloc]] · [[_Kamala Harris Master Profile]] · [[_Joe Manchin Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Jewish Democratic Council of America]] · [[DMFI - Democratic Majority for Israel]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[PRIORITIES USA ACTION]]
 

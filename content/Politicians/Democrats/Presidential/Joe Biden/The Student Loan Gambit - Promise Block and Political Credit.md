@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Joe Biden Master Profile]]
+related: "[[_Joe Biden Master Profile]] · [[Student Loan Servicer Industry]]"
 ---
-
-
 #biden #student-debt #loan-forgiveness #supreme-court #class-analysis #follow-the-money #higher-education-industry #loan-servicers
 
-related: [[_Joe Biden Master Profile]] · Higher Education Lobby · [[Student Loan Servicer Industry]]
-
 donors: Higher Education Lobby, [[Student Loan Servicer Industry]], Navient, Betsy DeVos
-
-content-readiness:: ready
 
 ---
 
@@ -179,6 +174,4 @@ The higher education industry gave Biden campaign contributions (university trus
 - [ProPublica: After Years of Troubles, Largest Student-Loan Servicers Get Stepped-up Oversight](https://www.propublica.org/article/after-years-of-troubles-largest-student-loan-servicers-get-stepped-up-overs) (Tier 2)
 - [New York Times: Biden's Student Loan Forgiveness Plan Blocked by Supreme Court](https://www.nytimes.com/2023/06/30/us/politics/supreme-court-loan-forgiveness-ruling.html) (Tier 2)
 - [Center for American Progress: Tuition reform options and costs](https://www.americanprogress.org/?s=The%20Student%20Loan%20Gambit%20-%20Promise%20Block%20and%20Political%20Credit) (Tier 2)
-
-content-readiness:: ready
 

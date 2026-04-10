@@ -7,12 +7,9 @@ source-tier: 2
 parent: null
 issues:
   - "Antitrust & Monopoly"
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
-
 #contradiction #big-tech #antitrust #lobbying #AICOA #revolving-door #class-analysis
-
-related: [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]
 
 ---
 
@@ -161,4 +158,3 @@ The PAC splits tell the story: Google PAC 48.5% Democratic/50.5% Republican. Ama
 
 ---
 
-content-readiness:: developed

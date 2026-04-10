@@ -27,7 +27,7 @@ federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 359319
 total-assets: 1224754
@@ -44,10 +44,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
-
-related: [[PhRMA]] [[Pfizer]] [[UnitedHealth Group - Optum]]
 
 ---
 
@@ -84,15 +81,12 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385) (Tier 1)
 - [OpenSecrets: J&J lobbying expenditures](https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385) (Tier 1)
 - [Reuters: J&J talc settlement and bankruptcy strategy](https://www.reuters.com/business/healthcare-pharmaceuticals/jnj-talc-settlement/) *(source unavailable)* (Tier 2)
 - [Ballotpedia: Johnson & Johnson political spending](https://ballotpedia.org/Johnson_&_Johnson) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

@@ -12,7 +12,6 @@ related: "[[RT - Russia Today]] | [[Aaron Maté]] | [[Max Blumenthal]]"
 
 #media-pipeline #left #anti-imperialism #state-media-ties #rt-pipeline #grayzone #revenue-opacity
 
-
 ---
 
 ### Who They Are
@@ -171,4 +170,3 @@ The revenue opacity prevents answering this definitively. A truly independent ou
 
 ---
 
-content-readiness:: developed

@@ -31,16 +31,11 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[Koch Network - Charles Koch]] · [[Robert Mercer]] · [[Goldman Sachs]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
 ---
-
-
 #ted-cruz #senate #texas #oil-gas #goldman-sachs #robert-mercer #crypto #class-analysis
 
-related: [[Koch Network - Charles Koch]] · [[Robert Mercer]] · [[Goldman Sachs]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]
-
 donors: [[Robert Mercer]] · [[Koch Network - Charles Koch]] · [[Crypto Industry Bloc]]
-
-profile-status:: ready
 
 ---
 ---

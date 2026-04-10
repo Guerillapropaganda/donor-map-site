@@ -25,16 +25,13 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Ohio Democratic Party]] · [[Center for American Progress]]"
+related: "[[Ohio Democratic Party]] · [[Center for American Progress]] · [[Democratic Donor Network]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[ActBlue]] · [[Senate Majority PAC]]"
 fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "TAIWAN"
 ---
-
 #democratic #party #infrastructure #dnc #dccc #dscc #actblue #organizing
-
-related: [[Democratic Donor Network]] [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] [[ActBlue]] [[Senate Majority PAC]]
 
 ---
 
@@ -53,8 +50,6 @@ The Democratic Party infrastructure's structural challenge: the party raises mor
 
 - [OpenSecrets: Democratic Party fundraising](https://www.opensecrets.org/parties/) (Tier 1)
 - [Ballotpedia: Democratic Party organization](https://ballotpedia.org/Democratic_Party_Infrastructure) (Tier 3)
-
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

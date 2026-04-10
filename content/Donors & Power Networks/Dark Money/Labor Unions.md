@@ -29,12 +29,9 @@ court-jurisdictions:
   - "District Court, M.D. Florida"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
-related: "[[Dan Osborn Master Profile]] · [[Jeff Merkley Master Profile]] · [[Joseph Morelle Master Profile]] · [[Texas 2026 Senate Race]] · [[Minnesota 2026 Senate Race]]"
+related: "[[Dan Osborn Master Profile]] · [[Jeff Merkley Master Profile]] · [[Joseph Morelle Master Profile]] · [[Texas 2026 Senate Race]] · [[Minnesota 2026 Senate Race]] · [[SEIU - Service Employees International Union|SEIU]] · [[UAW - United Auto Workers|UAW]] · [[California Labor Federation]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]]"
 ---
-
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline
-
-related: [[SEIU - Service Employees International Union|SEIU]] [[UAW - United Auto Workers|UAW]] [[California Labor Federation]] [[Teamsters - International Brotherhood of Teamsters|Teamsters]]
 
 ---
 
@@ -70,7 +67,6 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 - [FEC Receipts: Labor sector contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Labor union political spending](https://ballotpedia.org/Labor_Unions) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

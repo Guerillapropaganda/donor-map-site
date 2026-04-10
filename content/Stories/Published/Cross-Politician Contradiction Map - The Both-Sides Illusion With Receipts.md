@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Harris-Newsom Donor Class Fracture]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Georgia 2026 Senate Race]] · [[New York House Races 2026]] · [[AIPAC Illinois Shell PAC Operation]] · [[Think Tank & Policy Infrastructure Framework]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[2026 House Money Map]] · [[Media & Influence Pipeline Framework]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Harris-Newsom Donor Class Fracture]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Georgia 2026 Senate Race]] · [[New York House Races 2026]] · [[AIPAC Illinois Shell PAC Operation]] · [[Think Tank & Policy Infrastructure Framework]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[2026 House Money Map]] · [[Media & Influence Pipeline Framework]] · [[Donor Registry - Master Index]] · [[Research Methodology and Data Sources]] · [[Session Timeline]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Kenneth Griffin]] · [[Lockheed Martin]] · [[PhRMA]] · [[Fairshake PAC]]"
 ---
-
 #investigation #contradiction-map #class-analysis #both-sides #donor-first #follow-the-money #vault-infrastructure
 tags: #story
-
-related: [[Donor Registry - Master Index]] · [[Research Methodology and Data Sources]] · [[Session Timeline]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Kenneth Griffin]] · [[Lockheed Martin]] · [[PhRMA]] · [[Fairshake PAC]]
 
 donors: [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Kenneth Griffin]] · [[Lockheed Martin]] · [[PhRMA]] · [[Fairshake PAC]] · [[Paul Singer]] · [[Stephen Schwarzman]] · [[Marc Andreessen and a16z]] · [[Leonard Leo]]
 
@@ -290,5 +287,3 @@ All 13 deep-dive files contain individually verified sources with tier ratings a
 
 ---
 
-research-status:: ready — Full citation pass complete. 16 cross-politician contradictions indexed: Goldman 50/50, AIPAC $95-127M, PhRMA $500M/yr, Lockheed 45 states, Griffin $107M, Crypto $290M, Schwarzman/Singer, Koch/Soros dark money, tech switching, Yass TikTok, Mellon dual-funding, AIPAC progressive capture, DAPL bipartisan consensus, Schumer-McConnell Senate mirror, Pelosi-McCarthy House mirror. 3 temporal mapping sequences (Neal/PhRMA, Booker/PhRMA, CCPOA/Newsom). Tightest donation-to-outcome table (1 day to ~7 months). 34 sources Tier 1-2 with URLs. All ### headers. Updated 2026-03-31 (crossover-analysis scheduled task, Run 2). Added #16 Booker-Scott Donor Class Mirror.
-content-readiness:: ready

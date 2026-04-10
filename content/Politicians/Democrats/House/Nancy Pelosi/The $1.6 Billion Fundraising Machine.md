@@ -5,15 +5,12 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Nancy Pelosi Master Profile]]
-related: "[[The Biden Exit and Harris Installation]]"
+related: "[[The Biden Exit and Harris Installation]] · [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]]"
 source-types:
   - FEC
 ---
-
-
 #pelosi #fundraising #dccc #class-analysis #follow-the-money #gatekeeper #blacklist #dues #donor-class
 
-related: [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]]
 donors: []
 
 ---

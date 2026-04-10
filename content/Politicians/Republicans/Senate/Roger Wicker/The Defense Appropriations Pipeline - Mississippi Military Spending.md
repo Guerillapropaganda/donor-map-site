@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Roger Wicker Master Profile]]"
+related: "[[_Roger Wicker Master Profile]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Boeing]] · [[Raytheon (RTX)|Raytheon]] · [[_Tom Cole Master Profile|Tom Cole]]"
 ---
-
 #wicker #defense #armed-services #mississippi #shipbuilding #ingalls #military
-
-related: [[_Roger Wicker Master Profile]] [[Lockheed Martin]] [[Northrop Grumman]] [[Boeing]] [[Raytheon (RTX)|Raytheon]] [[_Tom Cole Master Profile|Tom Cole]]
 
 donors: [[Northrop Grumman]] [[Lockheed Martin]] [[Boeing]] [[Raytheon (RTX)|Raytheon]]
 
@@ -46,4 +44,3 @@ Mississippi's economy is disproportionately dependent on federal military spendi
 - [Defense News: Wicker's 355-ship Navy advocacy](https://web.archive.org/web/2024/https:/www.defensenews.com/wicker-navy-shipbuilding/) (Tier 2)
 - [Ballotpedia: Roger Wicker](https://ballotpedia.org/Roger_Wicker) (Tier 3)
 
-content-readiness:: ready

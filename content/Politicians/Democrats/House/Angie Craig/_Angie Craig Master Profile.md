@@ -37,12 +37,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]]"
 ---
-
-
 #angie-craig #democrat #minnesota #house #agriculture #medical-device #st-jude-medical #insulin #swing-district #senate-candidate #class-analysis #follow-the-money
-
-related: [[_Debbie Stabenow Master Profile|Debbie Stabenow]]
 
 donors: Medical Device Industry · St. Jude Medical · Abbott Laboratories · Agribusiness Industry
 

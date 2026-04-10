@@ -14,7 +14,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-08"
 ofac-programs:
   - "CAATSA - RUSSIA] [CYBER4"
-related: "[[Trishul LLC and the Trump Loyalty Economy]] · [[Rumble]]"
+related: "[[Trishul LLC and the Trump Loyalty Economy]] · [[Rumble]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Organization]] · [[News Corp - Fox Corporation]]"
 doj-press-mentions: "264349"
 doj-components:
   - "Civil Rights Division"
@@ -37,10 +37,7 @@ court-jurisdictions:
 lei: "6488S3A83U2SRQ48O215"
 lei-jurisdiction: "US-DE"
 ---
-
 #trump-media #truth-social #djt #stock #spac #media
-
-related: [[_Donald Trump Master Profile|Trump]] [[Trump Organization]] [[News Corp - Fox Corporation]]
 
 ---
 
@@ -59,8 +56,6 @@ TMTG's political significance is structural: the company gives Trump personal fi
 
 - [SEC: Trump Media & Technology Group filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Trump%20Media%20%26%20Technology%20Group&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Trump Media](https://ballotpedia.org/Trump_Media_&_Technology_Group) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->

@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Linda McMahon Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Linda McMahon Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #linda-mcmahon #trump-donor #mega-donor #afpi #sba #transition #class-analysis #follow-the-money
 
-related: [[_Linda McMahon Master Profile]] · [[_Donald Trump Master Profile]]
 donors: [[_Donald Trump Master Profile]] · [[MAGA Inc]]
 
 content-readiness:: ready

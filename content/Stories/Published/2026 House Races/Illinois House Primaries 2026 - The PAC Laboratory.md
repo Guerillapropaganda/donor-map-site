@@ -8,14 +8,11 @@ parent: null
 issues:
   - "Israel & Foreign Policy"
   - "Technology"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Georgia 2026 Senate Race]] · [[New York House Races 2026]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Georgia 2026 Senate Race]] · [[New York House Races 2026]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[AIPAC Illinois Shell PAC Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[2026 House Money Map]]"
 ---
-
 #2026-election #house #illinois #race-frame #aipac #crypto #ai-pac #primary
 
 tags: #analysis #story
-
-related:: [[AIPAC Illinois Shell PAC Operation]] [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy Project - UDP]] [[Think Big AI PAC]] [[2026 House Money Map]]
 
 donors:: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy Project - UDP]] [[Think Big AI PAC]] [[Fairshake PAC]]
 
@@ -140,5 +137,3 @@ The three Illinois House seats elected in March 2026 now sit in different donor 
 
 ---
 
-content-readiness:: ready
-research-status:: active

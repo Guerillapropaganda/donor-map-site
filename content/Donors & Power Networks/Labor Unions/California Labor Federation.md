@@ -25,7 +25,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Occupational Safety and Health Administration"
   - "Transportation Department"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Nancy Pelosi Master Profile]] · [[Labor - Donors and Backers]] · [[IBEW California State Association]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Nancy Pelosi Master Profile]] · [[Labor - Donors and Backers]] · [[IBEW California State Association]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[SEIU - Service Employees International Union]] · [[California Building and Construction Trades Council]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]]"
 doj-press-mentions: "264413"
 doj-components:
   - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
@@ -39,11 +39,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
-
 #donor #union #california-labor-federation #AFL-CIO #labor #class-analysis #follow-the-money #california #statewide #endorsements #coordination #Democratic-Party
-
-related: [[IBEW - International Brotherhood of Electrical Workers]] · [[SEIU - Service Employees International Union]] · [[California Building and Construction Trades Council]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]]
 
 ---
 
@@ -133,8 +129,6 @@ For IBEW members: the Federation is the body through which IBEW's California pol
 
 - [OpenSecrets: AFL-CIO COPE 2024 cycle data](https://www.opensecrets.org/political-action-committees-pacs/afl-cio-committee-on-political-education/C00000935/summary/2024) (Tier 1)
 
-research-status:: ready — 1,300+ locals, 2.3M members, endorsement machine, AFL-CIO COPE $152K, containment function analysis, endorsement paradox, Culinary Union contrast. 3 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

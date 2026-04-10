@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Lee Zeldin Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Lee Zeldin Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
-
 #lee-zeldin #fossil-fuels #leonard-leo #crc-advisors #koch #op-eds #dark-money #class-analysis
 
-related: [[_Lee Zeldin Master Profile]] [[Leonard Leo]] [[Koch Network - Charles Koch|Koch Network]]
 donors: [[Leonard Leo]], [[Koch Network - Charles Koch]], [[Chevron]]
 
 content-readiness:: ready

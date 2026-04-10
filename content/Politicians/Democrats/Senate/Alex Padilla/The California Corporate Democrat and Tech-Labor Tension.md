@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Alex Padilla Master Profile]]"
+related: "[[_Alex Padilla Master Profile]] · [[Marc Andreessen & Horowitz]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[Lyft]] · [[Silicon Valley Democratic Donor Network]]"
 ---
-
 #padilla #california #tech #immigration #labor #judiciary #environment #h1b #vc-donors #gig-economy #class-analysis #follow-the-money
-
-related: [[_Alex Padilla Master Profile]] · [[Marc Andreessen & Horowitz]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[Lyft]] · [[Silicon Valley Democratic Donor Network]]
 
 donors: [[Marc Andreessen & Horowitz]] · [[Lyft]] · Silicon Valley VC Network
 
@@ -92,4 +90,3 @@ Padilla's Senate record contains no federal gig worker legislation. He has not i
 - [Wikipedia: 2020 California Proposition 22 (Lyft/Uber gig worker exemption)](https://en.wikipedia.org/wiki/2020_California_Proposition_22) (Tier 3)
 - [Ballotpedia: Alex Padilla](https://ballotpedia.org/Alex_Padilla) (Tier 3)
 
-content-readiness:: ready

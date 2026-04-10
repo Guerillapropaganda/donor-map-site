@@ -22,7 +22,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Securities and Exchange Commission"
-related: "[[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[2026-03-26 Finance Research]]"
+related: "[[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[2026-03-26 Finance Research]] · [[Raytheon (RTX)]] · [[Raytheon]]"
 source-types:
   - FederalRegister
   - USASpending
@@ -32,10 +32,7 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #raytheon #rtx #defense #redirect
-
-related: [[Raytheon (RTX)]] [[Raytheon]]
 
 ---
 

@@ -27,12 +27,9 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 opposes: '[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]'
+related: "[[_Donald Trump Master Profile|Trump]] · [[_Bennie Thompson Master Profile|Thompson]]"
 ---
-
-
 #mark-green #republican #tennessee #house #committee-chair #homeland-security #military #special-operations #healthcare #mayorkas-impeachment #resigned #phase-6-gavel-power
-
-related: [[_Donald Trump Master Profile|Trump]] [[_Bennie Thompson Master Profile|Thompson]]
 
 donors:
 

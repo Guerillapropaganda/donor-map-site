@@ -7,12 +7,9 @@ source-tier: 2
 parent: [[_Scott Bessent Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Scott Bessent Master Profile]] · [[_Donald Trump Master Profile]] · [[Elon Musk|Elon Musk - Tesla SpaceX X]]"
 ---
-
-
 #scott-bessent #trump-fundraiser #bundler #wall-street #howard-lutnick #class-analysis #follow-the-money
-
-related: [[_Scott Bessent Master Profile]] · [[_Donald Trump Master Profile]] · [[Elon Musk|Elon Musk - Tesla SpaceX X]]
 
 donors: [[JPMorgan]] [[Elon Musk]] [[Goldman Sachs]] Hayman Capital
 

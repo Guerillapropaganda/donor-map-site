@@ -26,12 +26,9 @@ known-gaps:
 opposes: >-
   [[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]] · [[WOMEN VOTE!]] ·
   [[PRIORITIES USA ACTION]]
+related: "[[_Donald Trump Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]"
 ---
-
-
 #josh-hawley #senate #missouri #january-6 #populism #dark-money #christian-nationalism #class-analysis
-
-related: [[_Donald Trump Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]
 
 donors: [[Koch Network - Charles Koch]], [[Leonard Leo]]
 
@@ -130,7 +127,6 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 - [Missouri Independent: out-of-state donor analysis](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2)
 - [The Hill/CNN: corporate PAC pledge analysis](https://thehill.com/homenews/senate/4288563-hawley-mcconnell-battle-gut-citizens-united-ruling/) (Tier 2)
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

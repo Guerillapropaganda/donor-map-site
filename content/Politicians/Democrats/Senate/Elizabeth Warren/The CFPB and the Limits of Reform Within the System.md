@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Elizabeth Warren Master Profile]]
+related: "[[_Elizabeth Warren Master Profile]] · [[DOGE - The Billionaires Government]]"
 ---
-
-
 #warren #cfpb #consumer-financial-protection-bureau #structural-reform #financial-regulation #system-limits
-
-related: [[_Elizabeth Warren Master Profile]] · Consumer Financial Protection Bureau · Financial Regulation and Wall Street · Dodd-Frank Reform · [[DOGE - The Billionaires Government]]
 
 donors: Wall Street / Financial Services · [[ActBlue]]
 
@@ -215,4 +212,3 @@ The 2025 destruction reveals the pilot's function: it was permitted as long as i
 - [Wikipedia: Consumer Financial Protection Bureau](https://en.wikipedia.org/wiki/Consumer_Financial_Protection_Bureau) (Tier 3)
 - [U.S. Senator Elizabeth Warren: Consumer Financial Protection Bureau resources](https://www.warren.senate.gov/newsroom/press-releases) (Tier 1)
 
-content-readiness:: ready

@@ -6,12 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: null
 donors: "[[American Iron and Steel Institute]]"
+related: "[[Teamsters - International Brotherhood of Teamsters]] · [[Pharmaceutical Industry Bloc]] · [[Sherrod Brown|Sherrod Brown]]"
 ---
-
 #bob-casey #senate #pennsylvania #labor #pharma #class-analysis #2024-defeat #democrat
 tags: #democrat
-
-related: [[Teamsters - International Brotherhood of Teamsters]] · [[Pharmaceutical Industry Bloc]] · Trial Lawyers · [[Sherrod Brown|Sherrod Brown]]
 
 donors: [[Pharmaceutical Industry Bloc]] · [[Teamsters - International Brotherhood of Teamsters]] · Trial Lawyers
 
@@ -84,4 +82,3 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 - [PolitiFact: Viral image about Democratic senators and 'big pharma' is misleading](https://www.politifact.com/factchecks/2017/jan/18/other-98/viral-image-about-democratic-senators-and-big-pharma/) (Tier 2)
 - [FEC Receipts: Pharmaceuticals/Health Products PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
-profile-status:: ready ready

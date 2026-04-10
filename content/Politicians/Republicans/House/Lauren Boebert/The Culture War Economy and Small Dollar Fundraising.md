@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Lauren Boebert Master Profile]] · [[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Association]] · [[WinRed]]"
 ---
-
 #boebert #colorado #culture-war #small-dollar #fundraising #media #nra
-
-related: [[_Lauren Boebert Master Profile]] [[_Marjorie Taylor Greene Master Profile|MTG]] [[National Rifle Association]] [[WinRed]]
 
 donors: [[National Rifle Association]]
 

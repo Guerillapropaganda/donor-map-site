@@ -54,7 +54,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
-related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]]"
+related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Democracy Alliance]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 664320202
 total-assets: 624857462
@@ -73,10 +73,7 @@ doj-components:
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
 ---
-
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship
-
-related: [[Arabella Advisors]] [[Sixteen Thirty Fund]] [[Democracy Alliance]]
 
 ---
 
@@ -117,7 +114,6 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 - [ProPublica: Nonprofit Explorer - New Venture Fund](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 2)
 - [Ballotpedia: Arabella Advisors](https://ballotpedia.org/New_Venture_Fund) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

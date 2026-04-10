@@ -25,12 +25,9 @@ corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
+related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[Defense Contractors and the Permanent War Donor Base]]"
 ---
-
-
 #tommy-tuberville #senate #alabama #defense #stock-act #military #class-analysis #football-to-politics
-
-related: [[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[Defense Contractors and the Permanent War Donor Base]]
 
 donors: [[Defense Industry Bloc]] · Agriculture Bloc
 
@@ -129,7 +126,6 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 > **Trump endorsement as political currency:** Tuberville had zero political experience, no donor network, no policy record. Trump's endorsement converted $5M in outside money directly into a Senate seat. The endorsement is now monetizable: donors pay $5M+ to get Trump's endorsement machine, not for Tuberville's capabilities.
 >
 > **Defense contractor contradiction:** Tuberville's military holds damaged military readiness while he received defense contractor donations. The pattern reveals the contradiction: he takes defense industry money but his actions harm military capabilities — because the fundraising value of the hold outweighed the donor relationship cost.
-
 
 ## Rhetorical Signature Moves
 

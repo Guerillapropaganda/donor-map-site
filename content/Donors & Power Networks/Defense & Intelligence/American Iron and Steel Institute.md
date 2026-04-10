@@ -67,16 +67,12 @@ court-jurisdictions:
   - "District Court, S.D. Indiana"
   - "District Court, W.D. Pennsylvania"
   - "United States Court of International Trade"
-related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron Johnson]] · [[Paul Ryan]] · [[Bob Casey]] · [[Sherrod Brown]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron Johnson]] · [[Paul Ryan]] · [[Bob Casey]] · [[Sherrod Brown]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[Nucor Corporation]] · [[_Donald Trump Master Profile|Trump]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 8044067
 total-assets: 10548735
 ---
-
-
 #donor #steel #tariffs #lobbying #trade-policy #class-analysis #follow-the-money #revolving-door #national-security
-
-related: [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] [[Nucor Corporation]] [[_Donald Trump Master Profile|Trump]]
 
 ---
 

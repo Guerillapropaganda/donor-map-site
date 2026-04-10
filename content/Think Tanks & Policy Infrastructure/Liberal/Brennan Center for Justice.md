@@ -25,7 +25,6 @@ regulatory-agencies:
 
 #think-tank #liberal #voting-rights #democracy #criminal-justice #campaign-finance #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -201,8 +200,6 @@ The revolving door — Clinton White House to Brennan Center to federal judiciar
 - [Brennan Center: Court Strikes Down Key Part of Trump's Unlawful Voting Executive Order, Permanently Blocking Show-Your-Papers Requirement (Oct 2025)](https://www.brennancenter.org/our-work/analysis-opinion/court-strikes-down-key-part-trumps-unlawful-voting-executive-order) (Tier 3)
 - [Brennan Center: Status of Trump's Anti-Voting Executive Order — real-time litigation tracker](https://www.brennancenter.org/our-work/research-reports/status-trumps-anti-voting-executive-order) (Tier 3)
 - [Brennan Center: The Trump Administration's Campaign to Undermine the Next Election (2026)](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

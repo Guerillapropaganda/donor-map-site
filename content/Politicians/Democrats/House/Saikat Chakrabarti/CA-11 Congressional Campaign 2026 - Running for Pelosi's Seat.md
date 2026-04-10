@@ -9,11 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Nancy Pelosi Master Profile|Pelosi]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Scott Wiener Master Profile|Wiener]] · [[_Connie Chan Master Profile|Chan]]"
 ---
-
 #ca-11 #san-francisco #pelosi #2026 #primary #self-funding #class-analysis #follow-the-money
-
-related:: [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Scott Wiener Master Profile|Wiener]] · [[_Connie Chan Master Profile|Chan]]
 
 ### Campaign Announcement & FEC Registration
 
@@ -165,10 +163,6 @@ The Abundant Future super PAC reflects broader tech sector hedging. Patrick Coll
 This sector-wide rebalancing suggests tech leadership—which Chakrabarti cultivated through his Justice Democrats work—is hedging against sustained Democratic control while maintaining appearance of progressive legitimacy through simultaneous funding of insurgent Democrats like Chakrabarti.
 
 ### Research Status
-
-research-status:: Comprehensive primary race tracking through early April 2026. FEC data current through end of 2025. Polling data current through April 2026. Debate coverage April 1, 2026. Endorsements tracked through March 30, 2026.
-
-content-readiness:: Developed
 
 ### Sources
 

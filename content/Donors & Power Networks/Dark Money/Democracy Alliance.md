@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$116,675"
-related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]]"
+related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Media Matters]] · [[Center for American Progress]] · [[America Votes]]"
 ein: "204366413"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"
@@ -33,10 +33,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor
-
-related: [[George Soros]] [[_Tom Steyer Master Profile|Tom Steyer]] Rob McKay Pat Stryker [[Arabella Advisors]] [[Sixteen Thirty Fund]] [[Media Matters]] [[Center for American Progress]] [[America Votes]]
 
 ---
 
@@ -178,9 +175,6 @@ The result: Democratic Party doesn't set its own strategy. Wealthy donor consens
 - [Center for American Progress — History and Democracy Alliance Funding](https://www.americanprogress.org/?s=Democracy%20Alliance) (Tier 3)
 
 ---
-
-research-status:: ready — Full citation pass complete. $1.2-1.5B deployed since 2005, ~110 members ($200K minimum), Soros $125M+ anchor, CAP/Media Matters/America Votes flagship grantees, Koch Network comparison, Obama-era party coordination function. 7 sources, Tier 2-3. All ### headers. Promoted Session 38k.
-content-readiness:: ready
 
 ---
 

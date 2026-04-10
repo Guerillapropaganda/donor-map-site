@@ -25,18 +25,14 @@ ofac-programs:
 total-political-spend: "$790,700"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Michigan 2026 Senate Race]] · [[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Marco Rubio Master Profile]] · [[The University Donor Hearings and Antisemitism Politics]] · [[The Political Evolution - From Moderate to MAGA and the Donor Incentive]] · [[The Harvard Hearings and the Israel Lobby Alignment]] · [[Tom Cotton Master Profile]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[Defense Contractors and the Permanent War Donor Base]] · [[Virginia Foxx]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]]"
+related: "[[JCRC Bay Area]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Michigan 2026 Senate Race]] · [[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Marco Rubio Master Profile]] · [[The University Donor Hearings and Antisemitism Politics]] · [[The Political Evolution - From Moderate to MAGA and the Donor Incentive]] · [[The Harvard Hearings and the Israel Lobby Alignment]] · [[Tom Cotton Master Profile]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[Defense Contractors and the Permanent War Donor Base]] · [[Virginia Foxx]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Miriam Adelson]] · [[Haim Saban]] · [[Bernard Marcus]] · [[Jan Koum]] · [[Paul Singer]] · [[Pro-Israel Donor Network Deep Dive]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[United Democracy Project - UDP|UDP]] · [[Fairshake PAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]"
 opposes: "[[Katie Halper]] · [[Abby Martin]]"
 ein: "530217164"
 nonprofit-status: "501(c)(4)"
 total-revenue: 191055934
 total-assets: 229573060
 ---
-
-
 #donor #israel #AIPAC #pro-israel #national #lobbying #super-pac #UDP #follow-the-money #class-analysis #foreign-policy #congress #primary-weapon
-
-related: [[_Donald Trump Master Profile]] | [[_Gavin Newsom Master Profile]] | [[Miriam Adelson]] | [[Haim Saban]] | [[Bernard Marcus]] | [[Jan Koum]] | [[Paul Singer]] | [[Pro-Israel Donor Network Deep Dive]] | [[JPAC - Jewish Public Affairs Committee of California]] | [[United Democracy Project - UDP|UDP]] | [[Fairshake PAC]] | [[DMFI - Democratic Majority for Israel|DMFI]] | [[NORPAC]]
 
 media-pipeline: [[Glenn Greenwald]] · [[Briahna Joy Gray]] · [[David Pakman]] · [[Kyle Kulinski]] · [[Mehdi Hasan]]
 think-tanks: [[Center for American Progress]]
@@ -449,7 +445,6 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 
 ---
 
-content-readiness:: developed — April 2026 merge. Added UNVERIFIED sections: lobbying expenditures 2018-2025 (65-70% of pro-Israel sector), Republican-to-Democratic donor pipeline (46% cross-party donors), AIEF Congressional Travel Program ($10M+ 2012-2023, 75% AIEF-sponsored, 156 invitations 2025), bundling operation history, ad messaging disconnect (Bowman fire alarm, Lee policing ads), historical primary challenges table (Findley 1982-Omar 2024), detailed policy outcomes (military aid $251.2B cumulative/$17.9B FY2024, 49 UN Security Council vetoes, anti-BDS 38 states, Iran JCPOA). All new sources marked (UNVERIFIED) pending Chrome verification. Downgraded from ready to developed due to UNVERIFIED additions. Preserves all Chrome-verified 2026 Illinois/NC-4 sources and existing structural analysis. All new tables follow vault temporal mapping formats.
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

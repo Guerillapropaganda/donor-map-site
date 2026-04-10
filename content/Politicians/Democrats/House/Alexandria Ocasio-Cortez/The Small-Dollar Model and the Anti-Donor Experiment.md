@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexandria Ocasio-Cortez Master Profile]]
-related: "[[The Green New Deal - From Resolution to Reality]] · [[The Endorsement Economy - Courage to Change PAC]]"
+related: "[[The Green New Deal - From Resolution to Reality]] · [[The Endorsement Economy - Courage to Change PAC]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Hakeem Jeffries Master Profile]]"
 ---
-
-
 #aoc #small-dollar #fundraising #actblue #no-corporate-pac #donor-model #class-analysis #campaign-finance
 
-related: [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Hakeem Jeffries Master Profile]]
-
 donors: [[Small Dollar Donors - ActBlue]]
-
-content-readiness:: ready
 
 ---
 

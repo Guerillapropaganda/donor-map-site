@@ -17,11 +17,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Koch Network - Charles Koch]] · [[The Carlyle Group and the Private Equity Governor]] · [[The Education Culture War as Electoral Strategy]]"
 ---
-
 #glenn-youngkin #governor #virginia #private-equity #carlyle-group #class-analysis #follow-the-money #self-funded #education-culture-war #presidential-2028 #plutocratic-governance
-
-related: [[Koch Network - Charles Koch]] · [[The Carlyle Group and the Private Equity Governor]] · [[The Education Culture War as Electoral Strategy]]
 
 donors: [[Carlyle Group|Carlyle Group (self)]]
 
@@ -126,7 +124,6 @@ The education culture war served two additional functions beyond electoral victo
 > **Koch education agenda delivered in full:** AFP $3M+ → school choice legislation, "parents' rights" curriculum bills, DEI removal. Virginia's education policy under Youngkin is the Heritage Foundation/Koch model legislation checklist — executed completely within two years.
 >
 > **RGGI withdrawal → fossil fuel donor return:** Virginia's 2022 withdrawal from the Regional Greenhouse Gas Initiative (a functioning carbon market) directly benefits fossil fuel donors. The decision had no economic rationale — Virginia's power sector was profiting from RGGI credits. The withdrawal is pure donor service.
-
 
 ## Rhetorical Signature Moves
 

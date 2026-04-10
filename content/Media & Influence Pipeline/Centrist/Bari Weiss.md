@@ -12,7 +12,6 @@ donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]]"
 
 #media-profile #centrist #journalist #free-press #cbs-news #independence-theater #tech-vc #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -169,4 +168,3 @@ Bari Weiss represents the most structurally complete case of Independence Theate
 
 ---
 
-content-readiness:: ready

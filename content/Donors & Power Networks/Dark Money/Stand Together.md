@@ -64,12 +64,9 @@ politicians-funded:
 nonprofit-status: "501(c)(3)"
 total-revenue: 1852719
 total-assets: 290992
-related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]] · [[Bryan Steil]] · [[The Criminal Justice Reform and Bipartisan Alliance]]"
+related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]] · [[Bryan Steil]] · [[The Criminal Justice Reform and Bipartisan Alliance]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Cato Institute]] · [[Donors Trust]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
 ---
-
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
-
-related: [[Koch Network - Charles Koch|Charles Koch]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Cato Institute]] · [[Donors Trust]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -180,7 +177,6 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy 
 - [SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Stand_Together_Foundation) (Tier 3)
 - [Charles Koch Foundation — Learn & Work Ecosystem Library](https://learnworkecosystemlibrary.com/organizations/charles-koch-foundation/) (Tier 3)
 
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

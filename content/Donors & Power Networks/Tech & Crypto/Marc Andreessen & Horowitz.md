@@ -14,13 +14,9 @@ politicians-funded:
   - "David Sacks"
 issues:
   - "Technology"
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]] · [[Fairshake and the Crypto Industry War]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Ro Khanna Master Profile]] · [[Valinor Enterprises]] · [[French Hill]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]] · [[Fairshake and the Crypto Industry War]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Ro Khanna Master Profile]] · [[Valinor Enterprises]] · [[French Hill]] · [[_JD Vance Master Profile]] · [[The 2024 Tech Billionaire Network]] · [[Peter Thiel]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_David Sacks Master Profile|David Sacks]] · [[Narya Capital]] · [[Bari Weiss]] · [[Nate Silver]] · [[Cryptocurrency Industry]]"
 ---
-
-
 #andreessen-horowitz #a16z #venture-capital #tech-donor #crypto #ai #deregulation #republican #class-analysis #follow-the-money #revolving-door #pcast
-
-related: [[_JD Vance Master Profile]] · [[The 2024 Tech Billionaire Network]] · [[Peter Thiel]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_David Sacks Master Profile|David Sacks]] · [[Narya Capital]] · [[Bari Weiss]] · [[Nate Silver]] · [[Cryptocurrency Industry]]
 
 ---
 
@@ -281,4 +277,3 @@ Marc Andreessen and a16z represent **venture capital as political infrastructure
 
 ---
 
-content-readiness:: developed

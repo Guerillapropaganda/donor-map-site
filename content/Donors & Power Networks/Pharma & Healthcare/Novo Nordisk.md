@@ -32,7 +32,7 @@ court-cases: 9469
 court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, E.D. Pennsylvania"
-related: "[[Merck]] · [[Gilead Sciences]]"
+related: "[[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[PhRMA]] · [[AbbVie]]"
 lei: "529900UTAHSVRYZL0380"
 lei-jurisdiction: "DK"
 sec-filings: 10000
@@ -72,10 +72,7 @@ sec-form-types:
   - "SC14D9C"
   - "SCHEDULE 13G/A"
 ---
-
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
-
-related: [[Eli Lilly]] [[PhRMA]] [[AbbVie]]
 
 ---
 
@@ -134,7 +131,6 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 - [FDA: Insulin product approvals and biosimilars](https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin) *(source unavailable)* (Tier 1)
 - [Ballotpedia: Novo Nordisk](https://ballotpedia.org/Novo_Nordisk) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

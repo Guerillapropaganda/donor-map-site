@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
   - "Technology"
-related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]]"
+related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]] · [[Goldman Sachs]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Democratic Donor Network]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:
@@ -27,10 +27,7 @@ doj-components:
 lobbying-spend: 7197209
 lobbying-filings: 102
 ---
-
 #bundler #wall-street #tech #fundraising #access #ambassadorships #bipartisan
-
-related: [[Goldman Sachs]] [[Silicon Valley Donors]] [[Jeffrey Katzenberg]] [[Democratic Donor Network]]
 
 ---
 
@@ -49,8 +46,6 @@ The bundler network operates through fundraising events (dinners, receptions, re
 
 - [OpenSecrets: Bundler data](https://www.opensecrets.org/bundlers) (Tier 1)
 - [Ballotpedia: Campaign bundling](https://ballotpedia.org/Finance_and_Tech_Bundler_Network) (Tier 3)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

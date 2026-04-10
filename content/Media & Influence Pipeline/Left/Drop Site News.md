@@ -12,7 +12,6 @@ related: "[[Open Society Foundations]] · [[First Look Media]] · [[Ryan Grim]] 
 
 #media-pipeline #left #national-security #gaza #intercept-spinoff #soros-funded #foundation-money
 
-
 ---
 
 ### Who They Are
@@ -118,4 +117,3 @@ The timeline reveals a structural arc: founders reject billionaire capture by de
 
 ---
 
-content-readiness:: developed

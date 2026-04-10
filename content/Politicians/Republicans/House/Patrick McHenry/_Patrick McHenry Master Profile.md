@@ -43,12 +43,9 @@ known-gaps:
 govtrack-id: 400644
 bills-sponsored: 0
 bills-cosponsored: 0
+related: "[[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]"
 ---
-
-
 #mchenry #master-profile #house #north-carolina #financial-services #crypto #revolving-door #wall-street #fit21
-
-related: [[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]
 
 donors: [[Securities & Investment Industry]], Commercial Banks Bloc, [[Citadel - Kenneth Griffin|Kenneth Griffin]], [[Crypto Industry Bloc]], Capital One, Sallie Mae
 
@@ -198,7 +195,6 @@ When questioned about consumer harm or fraud risk, McHenry invoked "free market 
 
 profile-status:: ready
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

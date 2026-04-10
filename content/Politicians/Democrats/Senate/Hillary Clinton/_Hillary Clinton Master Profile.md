@@ -105,8 +105,6 @@ The Goldman Sachs speeches were not anomalous; they were the clearest articulati
 
 ---
 
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

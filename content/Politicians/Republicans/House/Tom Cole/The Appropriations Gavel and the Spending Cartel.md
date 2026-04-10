@@ -9,11 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Tom Cole Master Profile]] · [[_Rosa DeLauro Master Profile|DeLauro]] · [[Boeing]] · [[Lockheed Martin]] · [[Northrop Grumman]]"
 ---
-
 #cole #appropriations #defense #energy #spending #cartel #bipartisan
-
-related: [[_Tom Cole Master Profile]] [[_Rosa DeLauro Master Profile|DeLauro]] [[Boeing]] [[Lockheed Martin]] [[Northrop Grumman]]
 
 donors: [[Boeing]] [[Lockheed Martin]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]]
 

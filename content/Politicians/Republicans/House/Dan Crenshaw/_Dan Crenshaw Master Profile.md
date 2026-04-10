@@ -33,16 +33,11 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[John Kennedy Master Profile]]"
+related: "[[John Kennedy Master Profile]] · [[_Brian Mast Master Profile|Mast]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ted Cruz Master Profile|Ted Cruz]]"
 ---
-
 #crenshaw #texas #energy #defense #navy-seal #veteran #media #brand #aipac #stock-trading #primary-loss #class-analysis
 
-related: [[_Brian Mast Master Profile|Mast]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ted Cruz Master Profile|Ted Cruz]]
-
 donors: [[ExxonMobil]], [[ConocoPhillips]], [[Koch Industries]], [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
-profile-status:: developed
 
 ---
 
@@ -203,9 +198,6 @@ Crenshaw was the only House Republican on the Texas ballot without a Trump endor
 office:: Former Representative (R-TX-02, 2019–2027)
 state:: TX
 party:: Republican
-profile-status:: developed
-research-status:: active
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

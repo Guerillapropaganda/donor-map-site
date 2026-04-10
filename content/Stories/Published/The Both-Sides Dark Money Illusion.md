@@ -7,14 +7,11 @@ source-tier: 1
 parent: null
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Koch vs Soros Mirror Image Dark Money Machines]] · [[Dark Money Networks - The Shadow System]]"
+related: "[[Koch vs Soros Mirror Image Dark Money Machines]] · [[Dark Money Networks - The Shadow System]] · [[Arabella Advisors]] · [[DonorsTrust]] · [[Sixteen Thirty Fund]] · [[Federalist Society]] · [[Demand Justice]]"
 source-types:
   - FEC
 ---
-
 #dark-money #both-sides #democrats #republicans #arabella #donors-trust #501c4 #transparency
-
-related: [[Arabella Advisors]] [[DonorsTrust]] [[Sixteen Thirty Fund]] [[Federalist Society]] [[Demand Justice]]
 
 ---
 

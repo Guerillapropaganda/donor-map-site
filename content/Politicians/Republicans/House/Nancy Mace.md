@@ -19,13 +19,11 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]]"
 ---
-
 #nancy-mace #house #south-carolina #swing-district #donor-flip #weather-vane #ideological-flexibility
 
 tags: #republican
-
-related: [[_Donald Trump Master Profile]] · MAGA Donor Network · Conservative PACs · Moderate Republican Donors (Declining) · [[Crypto Industry Bloc]]
 
 donors: Trump-Aligned Donors · Conservative PACs · [[Crypto Industry Bloc]] · Small-Dollar MAGA Base · Defense Contractors (SC)
 

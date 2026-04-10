@@ -76,13 +76,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Agricultural Labor Vulnerability Donors]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]]"
 ---
-
-
 #donor #agricultural-employer #western-growers #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
-
-related: [[_Gavin Newsom Master Profile]] | [[Farmworker Union Rights - AB 2183 Veto and Reversal]] | [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] | [[Immigration - Donors and Backers]] | [[Labor - Donors and Backers]] | [[California Farm Bureau Federation]]
 
 ---
 
@@ -174,9 +170,6 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 - [OpenSecrets: Western Growers Association PAC](https://www.opensecrets.org/orgs/western-growers-assn/summary?id=D000029824) (Tier 1) (NEEDS REVIEW)
 - [FPPC: Western Growers PAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 - [CalMatters: Federal judge weighs H-2A wage cuts to CA immigrant farmworkers](https://calmatters.org/justice/2026/03/farmworker-h2a-wages/) (Tier 2) (VERIFIED)
-
-research-status:: ready — large commercial growers CA/AZ/CO/NM, PAC $49K-$80K/cycle, $700K CA lobbying, dual opposition pattern (anti-enforcement + anti-union), PAGA reform $9.5M coalition, AB 2183 opposition. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

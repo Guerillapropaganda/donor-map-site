@@ -12,7 +12,6 @@ related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[
 
 #media-pipeline #right #fox-news #talk-radio #real-estate #trump-advisor #pharma-ads #january-6
 
-
 ---
 
 ### Who They Are
@@ -142,4 +141,3 @@ Hannity is the purest institutional media product in this vault — the Fox News
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Sean Hannity shows zero federal political contributions — a $0 FEC record from a $45M/year earner with direct access to the White House and $90M in real estate held through shell companies. The absence is the data point: Hannity influences politics through media access, not through traceable donations.
 
-content-readiness:: ready

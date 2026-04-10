@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jodey Arrington Master Profile]] · [[_Brendan Boyle Master Profile|Boyle]] · [[Koch Industries]] · [[ConocoPhillips]]"
 ---
-
 #arrington #texas #budget #energy #deficit #permian-basin #austerity
-
-related: [[_Jodey Arrington Master Profile]] [[_Brendan Boyle Master Profile|Boyle]] [[Koch Industries]] [[ConocoPhillips]]
 
 donors: [[Koch Industries]] [[ConocoPhillips]]
 

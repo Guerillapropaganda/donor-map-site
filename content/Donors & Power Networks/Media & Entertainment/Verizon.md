@@ -36,14 +36,11 @@ cpsc-recalls: 2
 nonprofit-status: "501(c)(3)"
 total-revenue: 5056273
 total-assets: 23768481
-related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]]"
+related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]]"
 lei: "549300P62FU7SYVYQG84"
 lei-jurisdiction: "FR"
 ---
-
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
-
-related: [[AT&T - WarnerMedia]] [[Comcast - NBCUniversal]]
 
 ---
 
@@ -78,8 +75,6 @@ Net neutrality repeal (achieved 2017), favorable spectrum auction rules, 5G infr
 - [FCC: Spectrum auction results](https://www.fcc.gov/auction-results) (Tier 1)
 - [SEC: Verizon 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Verizon&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Verizon](https://ballotpedia.org/Verizon_Communications) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

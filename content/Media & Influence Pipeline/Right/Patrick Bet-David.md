@@ -12,7 +12,6 @@ related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]]
 
 #media-pipeline #right #mlm #entrepreneurship #trump #immigration #youtube #podcast
 
-
 ---
 
 ### Who They Are
@@ -191,4 +190,3 @@ The "Her Take" expansion is class analysis in action: Valuetainment is building 
 - [Wikipedia: Patrick Bet-David](https://en.wikipedia.org/wiki/Patrick_Bet-David) (Tier 3)
 - [Politico: Trump suggests Zelenskyy is to blame for the Russia-Ukraine war (PBD interview context)](https://www.politico.com/news/2024/10/17/trump-zelenskyy-russia-ukraine-war-00184183) (Tier 2)
 
-content-readiness:: ready

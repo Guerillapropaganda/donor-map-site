@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_John Kennedy Master Profile]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]]"
 ---
-
 #kennedy #louisiana #energy #petrochemical #populist #brand #media
-
-related: [[_John Kennedy Master Profile]] [[ExxonMobil]] [[Koch Industries]] [[Fossil Fuel Bloc]]
 
 donors: [[ExxonMobil]] [[Koch Industries]] [[ConocoPhillips]]
 

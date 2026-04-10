@@ -9,15 +9,12 @@ sector: "Foreign Influence"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
-related: "[[Turkey - Erdogan Lobbying Operation]]"
+related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #uae #foreign #lobbying #arms-sales #abu-dhabi #dubai #sovereign-wealth #tech
-
-related: [[Gulf State Money - Saudi Arabia, UAE, Qatar]] [[Saudi Arabia - Kingdom Investment]]
 
 ---
 

@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-22
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
+related: "[[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[Elon Musk]] · [[Peter Thiel]] · [[Leonard Leo]]"
 ---
-
-
 #donald-trump #cabinet #self-dealing #conflict-of-interest #class-analysis #follow-the-money #billionaires #ethics #musk #burgum #lutnick #bessent #mcmahon #vought
 
-related: [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[Elon Musk]] · [[Peter Thiel]] · [[Leonard Leo]]
 donors: [[Elon Musk]] · [[Peter Thiel]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 
@@ -60,4 +56,3 @@ content-readiness:: ready
 - [NPR. How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump) (Tier 2)
 - [ProPublica. We Don't Talk About Leonard Leo](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 
-research-status:: Cabinet wealth from Forbes and financial disclosures. Musk from OpenSecrets and Fox Business. Burgum from Continental Resources lease reporting. Lutnick from Tether documentation and Cantor financial disclosures. Bessent from Treasury financial disclosures. McMahon from AFPI documentation. Vought from CRA funding records. Sacks from Senate Banking Committee. Remaining. Complete ethics waiver documentation, historical cabinet wealth comparison detail, Lutnick Tether equity documentation, Bessent divestiture timeline.

@@ -24,7 +24,7 @@ sec-form-types:
   - "EX-99.3G"
 lei: "549300HK4YWG61O0MF87"
 lei-jurisdiction: "US-DC"
-related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]]"
+related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CTA - California Teachers Association]] · [[AFL-CIO]] · [[American Federation for Children]] · [[DeVos Family]]"
 federal-register-mentions: 57
 last-enriched: "2026-04-08"
 regulatory-agencies:
@@ -39,10 +39,7 @@ regulatory-agencies:
   - "Labor-Management Standards Office"
   - "National Labor Relations Board"
 ---
-
 #nea #education #union #teachers #democratic #vouchers #charter #political-spending
-
-related: [[CTA - California Teachers Association]] [[AFL-CIO]] [[American Federation for Children]] [[DeVos Family]]
 
 ---
 
@@ -76,8 +73,6 @@ Increased public school funding, opposition to school vouchers and charter schoo
 - [OpenSecrets: NEA organizational profile](https://www.opensecrets.org/orgs/national-education-assn/summary?id=D000000064) (Tier 1)
 - [DOL: NEA LM-2 financial disclosures](https://www.dol.gov/agencies/olms) (Tier 1)
 - [Ballotpedia: NEA](https://ballotpedia.org/National_Education_Association) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

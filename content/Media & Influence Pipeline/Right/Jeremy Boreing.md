@@ -12,7 +12,6 @@ related: "[[Wilks Brothers]] · [[The Daily Wire]] · [[Michael Knowles]] · [[A
 
 #media-pipeline #right #daily-wire #infrastructure #evangelical-capitalism #culture-war
 
-
 ---
 
 ### Who They Are
@@ -171,4 +170,3 @@ Boreing's model differs from individual host capture — he built the platform i
 
 **Note:** 13 non-FEC sources verified via WebFetch/WebSearch (2026-03-27); key Axios and Deadline sources Chrome-verified 2026-03-27. FEC confirmed $0 via Chrome JavaScript API execution 2026-03-27.
 
-content-readiness:: ready

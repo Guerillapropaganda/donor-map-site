@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #education #charter-schools #billionaire-donors #CTA #CCSA #AB1505 #privatization #class-analysis #donor-tension #broad #walton #gates
 
-related: [[COVID School Closures - Learning Loss and Class Division]] | [[Education - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[CTA - California Teachers Association]] | [[California Charter Schools Association]] | [[Eli Broad Foundation]] | [[Walton Family Foundation]]
 
 ---
@@ -113,4 +110,3 @@ This isn't a genuine policy dilemma — it's managed political theater. Newsom c
 - [PR Watch: Billionaire Eli Broad Takes Public Education Private](https://www.prwatch.org/news/2018/12/13434/billionaire-eli-broad-takes-public-education-private) (Tier 3)
 - [Network for Public Education: charter school funding impact](https://networkforpubliceducation.org/?s=Charter%20Schools%20and%20the%20Billionaire%20Reform%20Movement) (Tier 2)
 
-content-readiness:: ready

@@ -12,7 +12,6 @@ donors: "[]"
 
 #media-profile #left #progressive #podcaster #sanders #corporate-media #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -192,4 +191,3 @@ The current phase — independent Patreon-funded podcasting — is the least cap
 
 ---
 
-content-readiness:: ready

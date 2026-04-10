@@ -20,17 +20,11 @@ bills-sponsored: 73
 bills-cosponsored: 202
 website: "https://www.grassley.senate.gov"
 phone: "202-224-3744"
-related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
+related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Heritage Foundation]]"
 ---
-
-
 #chuck-grassley #republican #iowa #senate #committee-chair #judiciary #agriculture #pharma #insurance #whistleblower #phase-6-gavel-power
 
-related: [[_Mitch McConnell Master Profile|McConnell]] [[_Donald Trump Master Profile|Trump]] [[Federalist Society]] [[Heritage Foundation]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -168,8 +162,6 @@ Grassley's son Robin has received over $1.4 million in USDA farm subsidies. Gras
 - [Des Moines Register: Grassley's Farm Subsidies](https://www.desmoinesregister.com/grassley/) (Tier 2)
 - [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3)
 - [Environmental Working Group: Grassley Farm Subsidies](https://farm.ewg.org/search.php?search=Chuck%20Grassley) (Tier 1)
-
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

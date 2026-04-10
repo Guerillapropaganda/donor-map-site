@@ -14,12 +14,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 
+related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[_Richard Neal Master Profile]] · [[_Brett Guthrie Master Profile]] · [[Cory Booker]] · [[_Bernie Sanders Master Profile]]"
 ---
-
 #investigation #contradiction #pharma #healthcare #drug-prices #both-sides #class-analysis
 tags: #analysis #story
-
-related: [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[_Richard Neal Master Profile]] · [[_Brett Guthrie Master Profile]] · [[Cory Booker]] · [[_Bernie Sanders Master Profile]] · Inflation Reduction Act Drug Negotiation Provision
 
 donors: [[PhRMA]], [[Pfizer]], [[Johnson & Johnson]], [[Merck]], [[Eli Lilly]], [[AbbVie]]
 
@@ -231,5 +229,3 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 
 ---
 
-research-status:: ready — Full citation pass complete. PhRMA $500M+/yr lobbying, Neal $750K pharma (10-drug limit), Guthrie $1.8M pharma, Booker $468K (drug importation NO vote), 2017 Sanders amendment 52-46 (13 Dem defectors), temporal mapping tables. 27 sources Tier 1-3 with URLs. All ### headers. Promoted Session 39.
-content-readiness:: ready

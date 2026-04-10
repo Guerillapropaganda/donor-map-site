@@ -5,17 +5,13 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_John Fetterman Master Profile]]
+related: "[[_John Fetterman Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]]"
 ---
-
 #john-fetterman #campaign-finance #small-dollar #donor-class #authenticity #2022 #pennsylvania
 
 tags: #democrat
 
-related: [[_John Fetterman Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]]
-
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]]
-
-content-readiness:: ready
 
 ---
 

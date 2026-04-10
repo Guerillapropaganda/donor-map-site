@@ -12,7 +12,6 @@ donors: "[[Wilks Brothers]]"
 
 #media-profile #right #conservative #daily-wire #culture-war #anti-trans #documentary #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -175,4 +174,3 @@ Matt Walsh represents **the culture war content factory** — the industrializat
 
 ---
 
-content-readiness:: ready

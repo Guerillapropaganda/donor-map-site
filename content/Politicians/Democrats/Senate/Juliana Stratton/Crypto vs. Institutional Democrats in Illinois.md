@@ -5,13 +5,12 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
+related: "[[Juliana Stratton]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Illinois Future PAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]]"
 ---
-
 #crypto-politics #fairshake #blockchain-pacs #institutional-democrats #2026-elections
 
 tags: #democrat
 
-related:: [[Juliana Stratton]] [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] [[Illinois Future PAC]] [[Fairshake PAC]] [[Think Big AI PAC]] Stand With Crypto
 donors:: [[Fairshake PAC]] [[Coinbase]] [[Think Big AI PAC]] [[OpenAI]] [[Marc Andreessen & Horowitz|Marc Andreessen]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Cryptocurrency Industry]]
 
 ### The Battle: Crypto Money vs. Machine Politics
@@ -161,4 +160,3 @@ The reality: Voters and established power structures still privilege machine pol
 ### Tier 4: Crypto Industry Sources
 - [Crypto loses Illinois Senate vote but Fairshake Super PAC vows to fight on](https://www.yahoo.com/news/articles/crypto-loses-illinois-senate-vote-111954533.html) (Yahoo News, crypto industry perspective) (Tier 2)
 
-content-readiness:: ready

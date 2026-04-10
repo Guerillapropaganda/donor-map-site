@@ -24,12 +24,10 @@ donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - America
 govtrack-id: 400237
 bills-sponsored: 0
 bills-cosponsored: 0
+related: "[[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Adam Schiff|Adam Schiff]]"
 ---
-
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
 tags: #democrat
-
-related: [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Adam Schiff|Adam Schiff]] · 2024 California Senate Primary · AUMF Authorization for Use of Military Force · Progressive Donor Networks
 
 donors: Progressive Small-Dollar Donors · Oakland Community Organizations · Labor Union Endorsements · Anti-War Donor Networks
 
@@ -105,9 +103,6 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 - [Wikipedia: Barbara Lee](https://en.wikipedia.org/wiki/Barbara_Lee) (Tier 3)
 - [Ballotpedia: Barbara Lee (California)](https://ballotpedia.org/Barbara_Lee_(California)) (Tier 3)
 - [Congresswoman Barbara Lee Official: Global Peace & Security Issues Page](https://lee.house.gov/issues/global-peace-and-security?latest=169) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

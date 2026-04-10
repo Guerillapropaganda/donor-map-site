@@ -36,7 +36,7 @@ total-revenue: 25479
 total-assets: 172173
 lei: "984500B40IB4DF09CF40"
 lei-jurisdiction: "IN"
-related: "[[Agribusiness Donor Bloc]] · [[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]]"
+related: "[[Agribusiness Donor Bloc]] · [[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]]"
 court-cases: 182
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -44,10 +44,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
 ---
-
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies
-
-related: [[ADM - Archer Daniels Midland]] [[Cargill]] [[American Farm Bureau Federation]] [[Koch Industries]]
 
 ---
 
@@ -56,7 +53,6 @@ related: [[ADM - Archer Daniels Midland]] [[Cargill]] [[American Farm Bureau Fed
 The Ethanol Industry. A $35+ billion annual industry built on a government mandate: the Renewable Fuel Standard (RFS) requires petroleum refiners to blend 15+ billion gallons of corn ethanol into the U.S. fuel supply annually. This mandate — the most consequential agricultural subsidy in American history — diverts 40% of the U.S. corn crop into fuel production, supporting corn prices, ethanol producer revenue, and the entire Iowa/Midwest agricultural economy.
 
 The industry's political operation is channeled through the Renewable Fuels Association, Growth Energy, and the American Coalition for Ethanol — collectively spending $5-10 million annually on lobbying, plus significant political contributions through agricultural PACs. The ethanol lobby's power is concentrated in Iowa — the first-in-the-nation caucus state where ethanol support is a prerequisite for presidential candidates of both parties.
-
 
 ---
 
@@ -102,8 +98,6 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 
 - [EPA: Renewable Fuel Standard data](https://www.epa.gov/renewable-fuel-standard) (Tier 1)
 - [Ballotpedia: Renewable Fuel Standard](https://ballotpedia.org/Ethanol_Industry) (Tier 3)
-
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

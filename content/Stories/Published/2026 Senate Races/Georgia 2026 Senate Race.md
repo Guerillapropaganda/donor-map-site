@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[New York House Races 2026]] · [[Illinois 2026 Senate Race]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[New York House Races 2026]] · [[Illinois 2026 Senate Race]] · [[_Jon Ossoff Master Profile]] · [[_Mike Collins Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Senate Leadership Fund]]"
 ---
-
 #2026-election #senate #georgia #race-frame #analysis
 tags: #story
-
-related: [[_Jon Ossoff Master Profile]] [[_Mike Collins Master Profile]] [[AIPAC - American Israel Public Affairs Committee]] [[Fairshake PAC]] [[Crypto Industry Bloc]] [[Senate Leadership Fund]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]] [[Fairshake PAC - Crypto Super PAC|Fairshake]] [[Winklevoss Twins]] [[Elon Musk]] Tech Industry PACs Hollywood Money
 
@@ -115,5 +112,3 @@ This race reveals three competing donor-class strategies consolidating Republica
 
 ---
 
-content-readiness:: ready
-research-status:: active

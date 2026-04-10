@@ -12,7 +12,6 @@ related: "[[Open Society Foundations]] · [[Democratic National Committee]] · [
 
 #media-pipeline #left #obama-revolving-door #pod-save-america #soros-investment #democratic-establishment #partisan-media
 
-
 ---
 
 ### Who They Are
@@ -153,4 +152,3 @@ This is not editorial discretion. This is editorial control exercised by a polit
 
 ---
 
-content-readiness:: developed

@@ -9,12 +9,9 @@ sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-related: "[[Humana]] · [[The Medicare Fraud Governor and Senate Campaign]] · [[The Healthcare Industry Senator and ACA Repeal]]"
+related: "[[Humana]] · [[The Medicare Fraud Governor and Senate Campaign]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[UnitedHealth Group - Optum]] · [[CVS Health - Aetna]] · [[Private Equity Industry Bloc]]"
 ---
-
 #hca #healthcare #hospitals #for-profit #private-equity #frist #tennessee
-
-related: [[UnitedHealth Group - Optum]] [[CVS Health - Aetna]] [[Private Equity Industry Bloc]]
 
 ---
 
@@ -50,8 +47,6 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 - [OpenSecrets: HCA Healthcare organizational profile](https://www.opensecrets.org/orgs/hca-healthcare/summary?id=D000000458) (Tier 1)
 - [HCA Healthcare: SEC 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Hospital%20Corporation%20of%20America%20-%20HCA&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: HCA Healthcare](https://ballotpedia.org/HCA_Healthcare) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

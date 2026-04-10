@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Harris-Newsom Donor Class Fracture]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Harris-Newsom Donor Class Fracture]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Session Timeline]] · [[Research Methodology and Data Sources]]"
 ---
-
 #contradiction-map #democratic-party #class-analysis #follow-the-money #intra-party
 tags: #story
-
-related: [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Session Timeline]] · [[Research Methodology and Data Sources]]
 
 donors: [[ActBlue]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Goldman Sachs]] · [[Fossil Fuel Bloc]]
 
@@ -336,5 +333,3 @@ Key Democrats with public climate rhetoric but fossil fuel funding:
 
 ---
 
-research-status:: ready — Full citation pass complete. 6 intra-Democratic contradictions mapped: Pelosi vs Squad (shared ActBlue/DCCC infrastructure), Schumer DSCC ($707K Goldman), Booker pharma vote ($468K→drug importation NO), Neal Ways & Means ($750K pharma→10-drug limit), AIPAC progressive capture ($14.5M Bowman, $1.57M Torres), climate vs fossil fuel (Bennet pledge contradiction). 46 sources Tier 1-2 with URLs. All ### headers. Bold-in-### cleaned. Promoted Session 39.
-content-readiness:: ready

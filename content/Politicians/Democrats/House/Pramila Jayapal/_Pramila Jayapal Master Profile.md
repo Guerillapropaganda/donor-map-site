@@ -30,11 +30,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Ilhan Omar Master Profile|Omar]] · [[SEIU - Service Employees International Union|SEIU]] · [[CNA - California Nurses Association|CNA]] · [[National Nurses United]]"
 ---
-
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust
-
-related: [[_Bernie Sanders Master Profile|Bernie Sanders]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Nancy Pelosi Master Profile|Pelosi]] [[_Ilhan Omar Master Profile|Omar]] [[SEIU - Service Employees International Union|SEIU]] [[CNA - California Nurses Association|CNA]] · [[National Nurses United]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]] [[CNA - California Nurses Association|CNA]] [[ActBlue]]
 
@@ -176,9 +174,6 @@ This is the clearest donor-class tension in her record: genuine antitrust aggres
 - [Truthout: Medicare for All record 120 cosponsors](https://truthout.org/articles/medicare-for-all-bill-introduced-by-pramila-jayapal-gets-record-120-cosponsors/) (Tier 2)
 - [Jayapal House.gov: Medicare for All Act 2025 introduction](https://jayapal.house.gov/2025/04/29/jayapal-sanders-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/) (Tier 1)
 - [Ballotpedia: Pramila Jayapal](https://ballotpedia.org/Pramila_Jayapal) (Tier 3)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

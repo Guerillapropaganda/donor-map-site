@@ -19,7 +19,6 @@ lei-jurisdiction: "GB"
 
 #think-tank #centrist #wall-street #corporate-democrat #anti-progressive #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -206,8 +205,6 @@ The March 2026 "Winning the Middle" conference in Charleston makes the function 
 - [New Republic: ThinkProgress Was Always Doomed — structural analysis of CAP/Third Way donor-class dynamics (2019)](https://newrepublic.com/article/155011/thinkprogress-always-doomed) (Tier 2)
 - [Daily Kos: Meet the anti-progressive think tank pushing Democrats towards Trumpism — Comeback Retreat analysis (March 2025)](https://www.dailykos.com/stories/2025/3/8/2308767/-Meet-the-anti-progressive-think-tank-pushing-Democrats-towards-Trumpism) (Tier 2)
 - [CounterPunch: The Return of Regressive Third Way Politics to the Democrats (March 2025)](https://www.counterpunch.org/2025/03/06/the-return-of-regressive-third-way-politics-to-the-democrats/) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

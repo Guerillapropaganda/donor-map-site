@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Amy Coney Barrett Master Profile]]
+related: "[[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]]"
 ---
-
-
 #amy-coney-barrett #dark-money #jcn #leonard-leo #mcconnell #merrick-garland #confirmation #class-analysis
 
-related: [[_Amy Coney Barrett Master Profile]] [[Leonard Leo]] [[_Mitch McConnell Master Profile]]
-
 donors: [[Leonard Leo]]
-
-content-readiness:: ready
 
 ---
 

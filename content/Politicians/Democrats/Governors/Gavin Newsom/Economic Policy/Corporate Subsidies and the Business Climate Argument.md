@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Budget Priorities - What California Actually Funds]]"
+related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Budget Priorities - What California Actually Funds]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #economic-policy #corporate-subsidies #tax-breaks #film-tax-credit #business-climate #class-analysis #california #follow-the-money #corporate-welfare
 
-related: [[Tax Policy - Who Pays and Who Doesnt]] | [[Economic Policy - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: (Film/TV industry, tech billionaires, corporate lobbyists)
 
 ---
@@ -129,4 +126,3 @@ Newsom's approach to corporate subsidies is straightforward: when corporations a
 - [California Film Commission: tax credit program](https://film.ca.gov/tax-credit/) (Tier 1)
 - [Good Jobs First: California corporate subsidy tracker](https://goodjobsfirst.org/?s=Corporate%20Subsidies%20and%20the%20Business%20Climate%20Argument) (Tier 2)
 
-content-readiness:: ready

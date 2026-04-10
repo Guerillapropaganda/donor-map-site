@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Lee Zeldin Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Lee Zeldin Master Profile]] · [[_Doug Burgum Master Profile]] · [[_Chris Wright Master Profile]]"
 ---
-
-
 #lee-zeldin #epa #deregulation #endangerment-finding #emissions #health #class-analysis
 
-related: [[_Lee Zeldin Master Profile]] [[_Doug Burgum Master Profile]] [[_Chris Wright Master Profile]]
 donors: [[Leonard Leo]], Fossil Fuel Industry
 
 content-readiness:: ready

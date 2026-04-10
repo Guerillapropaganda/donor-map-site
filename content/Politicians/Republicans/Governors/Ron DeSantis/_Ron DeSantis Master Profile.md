@@ -26,11 +26,9 @@ known-gaps:
 executive-actions: 25
 last-enriched: '2026-04-09'
 opposes: '[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]'
+related: "[[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[The Disney War and the Limits of Culture War Governance]]"
 ---
-
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028
-
-related: [[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Elon Musk]] · [[_Gavin Newsom Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[The Disney War and the Limits of Culture War Governance]]
 
 donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Club for Growth]] · [[Lennar Corporation]] · [[NEVER BACK DOWN INC.]] · [[GOOD FIGHT]] · [[READY TO WIN]]
 
@@ -117,7 +115,6 @@ profile-status:: ready
 > **Disney retaliation:** DeSantis dissolved Reedy Creek after Disney opposed "Don't Say Gay." Use state power to punish donor class defectors, reward loyalists. Governance as donor discipline.
 >
 > **Mellon $10M → immigration theater:** Mellon's anti-immigration donations align precisely with migrant-transport stunts. The policy is the fundraising content.
-
 
 ## Analytical Patterns
 

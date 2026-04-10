@@ -7,11 +7,9 @@ source-tier: 1
 parent: "[[_Chad Bianco Master Profile]]"
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chad Bianco Master Profile]] · [[Fraternal Order of Police]] · [[PORAC - Peace Officers Research Association of California]]"
 ---
-
 #bianco #sheriff #riverside #california #oath-keepers #law-enforcement #governor-race
-
-related: [[_Chad Bianco Master Profile]] [[Fraternal Order of Police]] [[PORAC - Peace Officers Research Association of California]]
 
 donors: [[Riverside Sheriffs Association]] [[PORAC - Peace Officers Research Association of California]]
 

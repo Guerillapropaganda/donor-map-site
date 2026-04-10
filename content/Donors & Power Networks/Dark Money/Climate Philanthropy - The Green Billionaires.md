@@ -12,14 +12,11 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
   - "Environment"
-related: "[[Silicon Valley Democratic Donor Network]]"
+related: "[[Silicon Valley Democratic Donor Network]] · [[Michael Bloomberg]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]]"
 source-types:
   - FEC
 ---
-
 #climate-philanthropy #green-billionaires #tom-steyer #michael-bloomberg #dark-money #environment
-
-related: [[Michael Bloomberg]] [[_Tom Steyer Master Profile|Tom Steyer]] [[New Venture Fund]] Sierra Club
 
 ---
 

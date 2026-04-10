@@ -40,12 +40,9 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Chuck Schumer Master Profile|Chuck Schumer]]"
 ---
-
-
 #jeff-merkley #democrat #oregon #senate #progressive #volcker-rule #wall-street-reform #housing #no-corporate-pac #budget #environment #class-analysis #follow-the-money
-
-related: [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Chuck Schumer Master Profile|Chuck Schumer]]
 
 donors: [[Labor Unions]] · Environmental Groups · [[Small Dollar Donors - ActBlue|Small Dollar Donors]] · Lawyers & Law Firms
 

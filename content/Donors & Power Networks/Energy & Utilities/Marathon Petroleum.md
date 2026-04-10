@@ -55,7 +55,7 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]]"
 ein: 464439930
 annual-revenue: "$5.1M"
 net-assets: "$13.4M"
@@ -74,10 +74,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
 ---
-
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
-
-related: [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]]
 
 ---
 
@@ -214,7 +211,6 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: Marathon Petroleum PAC contributions by cycle](https://www.opensecrets.org/orgs/marathon-petroleum/totals?id=D000023121) (Tier 1)
@@ -233,8 +229,6 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 - [HuffPost: Marathon anti-EV dark money investigation](https://www.huffpost.com/) (Tier 2)
 - [The Intercept: Marathon petroleum and oil industry anti-EV campaign](https://theintercept.com/) (Tier 2)
 - [Michigan EGLE: 48217 air quality data](https://www.michigan.gov/egle) (Tier 1)
-
-research-status:: developed — added 7-cycle PAC table (2012–2024, ~$8.2M PAC, ~$18.7M all sources, 91–98% Republican, 2016 extreme: 98%), 13-year federal lobbying table (peak $4.96M 2018 CAFE/Andeavor), 2024 top recipients (NRSC $686K, Trump $24K, Harris $31K), FEC $85K fine detail (illegal $1M contribution, SLF/CLF $500K each, largest federal contractor violation), expanded covert anti-EV campaign (Transportation
 
 ---
 

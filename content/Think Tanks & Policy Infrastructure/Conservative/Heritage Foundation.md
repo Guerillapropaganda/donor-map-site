@@ -31,7 +31,6 @@ regulatory-agencies:
 
 #think-tank #conservative #project-2025 #dark-money #revolving-door #idea-laundering #regulatory-capture #judicial-pipeline #501c3
 
-
 ---
 
 ### Who They Are
@@ -488,8 +487,6 @@ The December 2025 staff exodus — 12+ senior Heritage employees leaving over an
 - [Politico: Koch Brothers and Heritage Action donation](https://www.politico.com/story/2013/10/koch-brothers-heritage-action-donation-098054) (Tier 2)
 
 ---
-
-content-readiness:: developed
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

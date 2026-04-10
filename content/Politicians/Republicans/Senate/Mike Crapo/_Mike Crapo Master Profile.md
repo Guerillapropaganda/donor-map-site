@@ -14,18 +14,14 @@ committees:
 top-donors:
   - "Koch Network - Charles Koch"
 donors: "[[Harlan Crow]]"
-related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Jason Smith Master Profile|Jason Smith]]"
 govtrack-id: 300030
 bills-sponsored: 27
 bills-cosponsored: 254
 website: "https://www.crapo.senate.gov"
 phone: "202-224-6142"
 ---
-
-
 #mike-crapo #republican #idaho #senate #committee-chair #phase-6-gavel-power #finance #tax-policy #class-analysis #follow-the-money
-
-related: [[Koch Network - Charles Koch]] [[_Donald Trump Master Profile|Trump]] [[_Jason Smith Master Profile|Jason Smith]]
 
 donors: [[Koch Network - Charles Koch]]
 
@@ -148,9 +144,6 @@ His nuclear energy advocacy is the most authentic throughline — it directly se
 - [Ballotpedia: Mike Crapo](https://ballotpedia.org/Mike_Crapo) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

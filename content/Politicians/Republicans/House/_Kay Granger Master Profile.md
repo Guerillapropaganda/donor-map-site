@@ -26,12 +26,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Lockheed Martin]]"
 ---
-
-
 #master-profile #republican #house #texas #appropriations #defense #lockheed-martin #f35 #dementia
-
-related: Appropriations Committee · [[Lockheed Martin]] · Joint Strike Fighter Caucus · Fort Worth Defense Industry · Pentagon Budget · F-35 Program · Defense Aerospace PACs
 
 donors: [[Lockheed Martin]] · Defense Aerospace Industry · [[Oil & Gas PACs]]
 
@@ -209,7 +206,6 @@ This is the ultimate expression of donor capture: not just funding a politician,
 
 profile-status:: ready
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

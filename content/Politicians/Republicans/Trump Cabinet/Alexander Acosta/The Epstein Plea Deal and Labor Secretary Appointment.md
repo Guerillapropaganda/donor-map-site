@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Alexander Acosta Master Profile]]"
+related: "[[_Alexander Acosta Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
 #acosta #epstein #plea-deal #labor-secretary #trump-cabinet #prosecutorial-discretion
-
-related: [[_Alexander Acosta Master Profile]] [[_Donald Trump Master Profile]]
 
 ---
 
@@ -40,4 +38,3 @@ Acosta resigned in July 2019 after the Miami Herald's investigative series on th
 - [DOJ OPR: Review of Acosta's handling of Epstein case](https://www.justice.gov/archives/opa/pr/statement-doj-office-professional-responsibility-report-jeffrey-epstein-2006-2008) (Tier 1)
 - [Ballotpedia: Alexander Acosta](https://ballotpedia.org/Alexander_Acosta) (Tier 3)
 
-content-readiness:: ready

@@ -18,13 +18,9 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Medicare for All - The Policy That Broke the Party]]"
+related: "[[Medicare for All - The Policy That Broke the Party]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[CNA - California Nurses Association]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]]"
 ---
-
-
 #kalra #assemblymember #california #democrat #class-analysis #follow-the-money #single-payer #CalCare #san-jose #labor #criminal-justice #housing
-
-related: [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[CNA - California Nurses Association]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]]
 
@@ -192,9 +188,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]]: single-paye
 - [Assemblymember Kalra: Governor Signs Landmark Legislation Advancing Racial Justice in California (Sept. 30, 2020)](https://kalra.asmdc.org/press-releases/20200930-governor-signs-landmark-legislation-advancing-racial-justice-california) (Tier 1)
 
 ---
-
-research-status:: developed — CalCare legislative history fully sourced with leginfo primary documents and major investigative journalism. Rendon donation figures ($101K pharma, $50K insurance) sourced to Paste Magazine and In These Times; direct FPPC records not yet verified. Wicks donor sourcing cross-referenced to Buffy Wicks node. AB 1157 corrected from passed to withdrawn/two-year bill status. Gaps remaining: FPPC filings for Rendon exact donation amounts, California Hospital Association/$3.5M lobbying figure needs FPPC primary source, Kaiser Permanente opposition statement needs direct URL. Full citation pass required before promoting to ready.
-content-readiness:: developed
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

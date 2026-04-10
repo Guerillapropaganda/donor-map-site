@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[Policing Reform - George Floyd Era]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #gun-control #public-safety #donors #backers #follow-the-money #criminal-justice #police-unions #gun-manufacturer-tax #AB28 #research-node
 
-related: [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] | [[Criminal Justice - Donors and Backers]] | [[Policing Reform - George Floyd Era]] | [[Death Penalty Moratorium - Genuine Win With Limits]] | [[_Gavin Newsom Master Profile]]
 donors: [[Everytown for Gun Safety]] | Giffords PAC | [[Michael Bloomberg]] | [[CCPOA - California Correctional Peace Officers Association]] | [[PORAC - Peace Officers Research Association of California]] | California Police Chiefs Association | California Sheriffs' Association | Private Security Industry Lobby
 
 ---
@@ -190,4 +187,3 @@ AB 28 school safety funding is the exemplar: visible, measurable, addressing a s
 
 ---
 
-content-readiness:: ready

@@ -15,7 +15,7 @@ issues:
 total-received: "$7,843,280"
 fec-candidate-id: "H0LA01087"
 donors: "[[American Gaming Association]] · [[Valero Energy]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]]"
-related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[Valero Energy]]"
 doj-press-mentions: "264414"
 last-enriched: "2026-04-09"
 doj-components:
@@ -35,10 +35,7 @@ bills-cosponsored: 5
 website: "https://scalise.house.gov"
 phone: "202-225-3015"
 ---
-
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power
-
-related: [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[Valero Energy]]
 
 ---
 
@@ -160,9 +157,6 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 - [On the Issues: Steve Scalise on Energy & Oil](https://ontheissues.org/House/Steve_Scalise_Energy_+_Oil.htm) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

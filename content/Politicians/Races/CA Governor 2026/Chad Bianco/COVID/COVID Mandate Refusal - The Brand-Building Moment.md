@@ -10,12 +10,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Chad Bianco Master Profile]] · [[Oath Keepers Membership and the Constitutional Sheriff Movement]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]"
 ---
-
-
 #bianco #covid #mandate-refusal #constitutional-sheriff #fox-news #class-analysis #newsom #tyranny-framing #vaccine #brand-building
 
-related: [[_Chad Bianco Master Profile]] | [[Oath Keepers Membership and the Constitutional Sheriff Movement]] | [[CSPOA - The Anti-Government Sheriff Network]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]
 donors: [[Riverside Sheriffs Association|Riverside Sheriffs' Association]]
 
 ---

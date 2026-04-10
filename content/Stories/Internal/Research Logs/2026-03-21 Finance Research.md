@@ -75,4 +75,3 @@ tags: #analysis #story
 ---
 
 *Next finance research priorities: Cal-Access pull for FPPC filings (California-specific donors); Newsom Campaign for Democracy PAC Q4 2025 / Q1 2026 FEC filing update; [[SEIU - Service Employees International Union|SEIU]]/[[Teamsters - International Brotherhood of Teamsters|Teamsters]] Q1 2026 midterm commitments; Fairshake race-by-race Illinois outcome analysis.*
-content-readiness:: raw

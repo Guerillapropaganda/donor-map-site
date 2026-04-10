@@ -17,7 +17,7 @@ bills-sponsored: 7
 bills-cosponsored: 67
 website: "https://comer.house.gov"
 phone: "202-225-3115"
-related: "[[The Oversight Committee and the Anti-Corruption Brand]]"
+related: "[[The Oversight Committee and the Anti-Corruption Brand]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
 total-received: "$1,108,482"
 fec-candidate-id: "H6KY01110"
 doj-press-mentions: "264457"
@@ -34,11 +34,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
-
 #james-comer #republican #kentucky #house #committee-chair #phase-6-gavel-power #oversight #investigations #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch]]
 
 donors:
 
@@ -174,9 +170,6 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale �
 - [Data USA: Congressional District 1, KY Demographics](https://datausa.io/profile/geo/congressional-district-1-ky/) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

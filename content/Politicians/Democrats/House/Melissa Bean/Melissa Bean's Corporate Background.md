@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
+related: "[[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Think Big AI PAC and AI Policy Alignment]]"
 ---
-
 #democrat #politician #house #illinois #revolving-door #jpmorgan #finance #mesirow #corporate-background
-
-related: [[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Think Big AI PAC and AI Policy Alignment]]
 
 donors: [[JPMorgan Chase]] · [[Financial Services Sector]]
 
@@ -107,4 +105,3 @@ At no point in this career does the transaction run in the direction of constitu
 
 ---
 
-content-readiness:: developed

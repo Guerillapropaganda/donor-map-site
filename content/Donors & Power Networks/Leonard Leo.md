@@ -30,7 +30,7 @@ sec-form-types:
   - "S-1/A"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[The Leo Pipeline and Operation Higher Court]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[John Roberts Master Profile]] · [[The Institutionalist Brand - Strategic Defections and Legitimacy Management]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Brett Kavanaugh Master Profile]] · [[The 17 Million Dollar Confirmation and the Leonard Leo Pipeline]] · [[Amy Coney Barrett Master Profile]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[The 22 Million Dollar Confirmation and the McConnell Precedent Reversal]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Russell Vought Master Profile]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The 31 Rollbacks and the Projected 200000 Premature Deaths]] · [[The Interior Department as Fossil Fuel Policy Vehicle]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[The Leo Pipeline and Operation Higher Court]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[John Roberts Master Profile]] · [[The Institutionalist Brand - Strategic Defections and Legitimacy Management]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Brett Kavanaugh Master Profile]] · [[The 17 Million Dollar Confirmation and the Leonard Leo Pipeline]] · [[Amy Coney Barrett Master Profile]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[The 22 Million Dollar Confirmation and the McConnell Precedent Reversal]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Russell Vought Master Profile]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The 31 Rollbacks and the Projected 200000 Premature Deaths]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[Federalist Society]] · [[Barre Seid]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Harlan Crow]]"
 doj-press-mentions: "264414"
 last-enriched: "2026-04-09"
 doj-components:
@@ -45,10 +45,7 @@ doj-components:
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
 ---
-
 #donor #dark-money #judicial-capture #federalist-society #conservative #kingmaker #dark-money-architect #leonard-leo #judicial-pipeline #barre-seid #marble-freedom-trust #scotus #class-analysis
-
-related: Supreme Court Capture [[Federalist Society]] [[Barre Seid]] [[Marble Freedom Trust]] [[The 85 Fund]] First Principles PACs · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Harlan Crow]]
 
 ---
 
@@ -223,9 +220,6 @@ Leo also co-created Liberty Central with Ginni Thomas, seeded with $500,000 from
 - [Center for American Progress: Federalist Society Judicial Dominance](https://www.americanprogress.org/article/pipelines-power-encouraging-professional-diversity-federal-appellate-bench/) (Tier 2)
 - [Politico: Leonard Leo and Trump's Judicial Appointments](https://politico.com/leonard-leo-judges) (Tier 2)
 - [The New York Times: Trump's Rift with Leo (May 2025)](https://www.nytimes.com/2025/05/30/us/politics/trump-judges-nominations.html) (Tier 2, paywalled) (Tier 2)
-
-research-status:: ready — $1.6B Barre Seid donation, Marble Freedom Trust, Supreme Court capture (Gorsuch/Kavanaugh/Barrett), state court pivot, CRC Advisors $33M, Lexington Fund/First Principles PACs 2026, Trump-Leo tension, Wisconsin loss. 9 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

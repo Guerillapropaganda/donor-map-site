@@ -65,7 +65,7 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Cigna Group]]"
+related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 23648810
 total-assets: 24419400
@@ -82,10 +82,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
-
-related: [[Hospital Corporation of America - HCA]] [[Blue Cross Blue Shield Association]] [[PhRMA]] [[Anthem - Elevance Health]] [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]
 
 ---
 
@@ -204,8 +201,6 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 - [Becker's Hospital Review: Tenet Spends $630K to Derail 'Medicare for All'](https://www.beckershospitalreview.com/hospital-management-administration/tenet-spends-630k-to-derail-medicare-for-all/) (Tier 2)
 - [Ballotpedia: Tenet Healthcare](https://ballotpedia.org/Tenet_Healthcare) (Tier 3)
 - [Tenet Healthcare: Disclosure of Political Expenditures](https://investor.tenethealth.com/governance/disclosure-of-political-expenditures/default.aspx) (Tier 1)
-
-content-readiness:: developed
 
 ---
 

@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_James Comer Master Profile]]"
+related: "[[_James Comer Master Profile]] · [[_Jamie Raskin Master Profile|Jamie Raskin]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]]"
 ---
-
 #comer #oversight #biden-impeachment #investigation #kentucky #agriculture #tobacco
-
-related: [[_James Comer Master Profile]] [[_Jamie Raskin Master Profile|Jamie Raskin]] [[_Donald Trump Master Profile|Trump]] [[Heritage Foundation]]
 
 donors: [[American Petroleum Institute]] [[Koch Network - Charles Koch]] [[National Cattlemen's Beef Association]]
 
@@ -52,4 +50,3 @@ Comer's investigative approach is pure Villain Framing: identify an external thr
 - [CNN: Comer investigation timeline and findings](https://web.archive.org/web/2024/https:/www.cnn.com/politics/comer-biden-investigation/) (Tier 2)
 - [Ballotpedia: James Comer](https://ballotpedia.org/James_Comer_(Kentucky)) (Tier 3)
 
-content-readiness:: ready

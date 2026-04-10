@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
-related: "[[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]]"
+related: "[[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Peter Thiel]] · [[DOGE - The Billionaires Government]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -20,11 +20,8 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
-
 #trump #cabinet #class-analysis #follow-the-money #oligarchy #wealth #donor-class #governance #conflict-of-interest
 
-related: [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Peter Thiel]] · [[DOGE - The Billionaires Government]]
 donors: [[Elon Musk]] · [[Peter Thiel]] · [[_David Sacks Master Profile|David Sacks]]
 
 ---
@@ -148,8 +145,6 @@ The billionaire cabinet is presented as a temporary experiment in "business-styl
 - [CNN: Trump's first 100 days — How Trump has altered federal government in ways that could benefit himself and inner circle](https://www.cnn.com/2025/04/24/politics/donald-trump-cabinet-policy-ethics/index.html) (Tier 2)
 - [Public Citizen: Trump's Billionaire Cabinet Represents the Top 0.0001%](https://www.citizen.org/article/trumps-billionaire-cabinet-represents-the-top-0001-percent/) (Tier 2)
 - [Nasdaq: Inside the Financial Profiles of Trump's Cabinet Members (Worth Almost $12 Billion)](https://www.nasdaq.com/articles/inside-financial-profiles-trumps-cabinet-members-worth-almost-12-billion) (Tier 2)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

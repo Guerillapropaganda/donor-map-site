@@ -9,12 +9,10 @@ source-types:
   - DOJ
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #kushner #kushner-companies #slumlord #real-estate #class-analysis #follow-the-money #charles-kushner #pardon #ambassador #tenant-abuse
 
-related: [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]]
 donors: (Kushner Companies — internal family firm)
 
 ---

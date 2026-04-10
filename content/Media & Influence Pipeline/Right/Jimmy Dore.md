@@ -12,7 +12,6 @@ related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]] · [[Lee Camp]] �
 
 #media-pipeline #left #youtube #rumble #force-the-vote #audience-swap #anti-establishment
 
-
 ---
 
 ### Who They Are
@@ -143,4 +142,3 @@ Jimmy Dore is the audience capture pipeline in its rawest form. Unlike Taibbi (w
 - [MEAWW: Jimmy Dore praises Boogaloo Boys — Internet slams 'politically confused' comedian](https://meaww.com/comedian-jimmy-dore-politically-confused-praises-boogaloo-boys-far-right-movement-black-lives-matter) (Tier 3)
 - [Laughfactory: Jimmy Dore biography](https://www.laughfactory.com/comedians/JimmyDore) *(source unavailable)* (Tier 3)
 
-content-readiness:: ready

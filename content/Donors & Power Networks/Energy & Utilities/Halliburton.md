@@ -19,7 +19,7 @@ total-revenue: 4436307
 total-assets: 1150303
 lei: "ENYF8GB5SMQZ25S06U51"
 lei-jurisdiction: "US-DE"
-related: "[[Valero Energy]] · [[John Barrasso]]"
+related: "[[Valero Energy]] · [[John Barrasso]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[Fossil Fuel Bloc]]"
 sec-filings: 10000
 sec-form-types:
   - "144"
@@ -73,10 +73,7 @@ subawards-issued-amount: 54006
 subawards-received: 1
 subawards-received-amount: 54006
 ---
-
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
-
-related: [[ExxonMobil]] [[ConocoPhillips]] [[Koch Industries]] [[Fossil Fuel Bloc]]
 
 ---
 
@@ -114,8 +111,6 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 - [OpenSecrets: Halliburton organizational profile](https://www.opensecrets.org/orgs/halliburton-co/summary?id=D000000281) (Tier 1)
 - [EPA: Hydraulic fracturing Safe Drinking Water Act exemption](https://www.epa.gov/uic/class-ii-oil-and-gas-related-injection-wells) (Tier 1)
 - [Ballotpedia: Halliburton](https://ballotpedia.org/Halliburton) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

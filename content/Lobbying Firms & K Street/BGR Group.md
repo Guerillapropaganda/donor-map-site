@@ -38,7 +38,6 @@ doj-components:
 
 #lobbying #k-street #revolving-door #republican #foreign-governments #pharma #defense #finance #bipartisan #trump-aligned
 
-
 ---
 
 ### Who They Are
@@ -293,8 +292,6 @@ BGR's 58% revenue surge in Trump's first year of his second term is the monetary
 - [BGR Group: BGR Group Welcomes Lt. Gen. Keith Kellogg to Advisory Board — former Trump Ukraine-Russia envoy, January 2026](https://bgrdc.com/bgr-group-welcomes-lt-gen-keith-kellogg-u-s-army-ret-to-advisory-board/) (Tier 3)
 - [Fox Business: Keith Kellogg joins BGR Group's advisory board — ex-Trump special envoy Ukraine lands private sector role](https://www.foxbusiness.com/politics/ex-trump-special-envoy-ukraine-lands-new-job-private-sector) (Tier 3)
 - [BGR Group: Charlie Chapman Joins BGR Health and Life Sciences Practice as VP — former Trump HHS Policy Advisor, CMS counsel, March 30 2026](https://bgrdc.com/charlie-chapman-joins-bgr-health-and-life-sciences-practice-as-vp/) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

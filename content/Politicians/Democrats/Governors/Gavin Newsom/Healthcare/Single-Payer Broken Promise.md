@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Economic Policy - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]]"
+related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Economic Policy - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CalRx - The Genuine Win With Caveats]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #healthcare #single-payer #AB1400 #CalCare #donor-class #insurance-industry #rhetoric-vs-record #broken-promise
 
-related: [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] | [[Prescription Drug Pricing - PBM Veto Cycle]] | [[CalRx - The Genuine Win With Caveats]] | [[_Gavin Newsom Master Profile]]
 donors: [[Blue Shield of California]] | [[UnitedHealth Group - Optum]] | [[Anthem - Elevance Health]]
 
 ---
@@ -134,4 +131,3 @@ The Healthy California for All Commission (2019) is a textbook delay mechanism. 
 - [New Republic: CalCare death](https://newrepublic.com/article/165338/california-democrats-calcare-single-payer-health-care) (Tier 3)
 - [NPR: AB 1400 dies without vote](https://www.npr.org/2022/01/31/1077155345/california-universal-health-care-bill-dies-without-a-vote) (Tier 3)
 
-content-readiness:: ready

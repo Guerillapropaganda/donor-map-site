@@ -13,12 +13,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+related: "[[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[GEO Group]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[Riverside Sheriffs Association]]"
 ---
-
-
 #donor #bail-bonds #carceral-state #private-equity #california #national #prop-25 #cash-bail #follow-the-money #class-analysis #pretrial-detention
-
-related: [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[GEO Group]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[Riverside Sheriffs Association]]
 
 ---
 

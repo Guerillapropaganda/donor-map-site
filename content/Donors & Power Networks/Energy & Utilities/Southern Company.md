@@ -35,7 +35,7 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Labor Department"
   - "Veterans Employment and Training Service"
-related: "[[Duke Energy]]"
+related: "[[Duke Energy]] · [[NextEra Energy]] · [[Koch Industries]] · [[US Chamber of Commerce]]"
 top-federal-agency: "General Services Administration"
 top-naics-code: "221210"
 lobbying-spend: 26933250
@@ -44,10 +44,7 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 426162
 total-assets: 98362
 ---
-
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
-
-related: [[NextEra Energy]] [[Koch Industries]] [[US Chamber of Commerce]]
 
 ---
 
@@ -83,8 +80,6 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 - [OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180) (Tier 1)
 - [NRC: Plant Vogtle construction and licensing](https://www.nrc.gov/reactors/new-reactors/large-lwr/col/vogtle) (Tier 1)
 - [Ballotpedia: Southern Company](https://ballotpedia.org/Southern_Company) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

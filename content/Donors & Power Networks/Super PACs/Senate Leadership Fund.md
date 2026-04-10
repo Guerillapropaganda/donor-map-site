@@ -25,12 +25,9 @@ sec-form-types:
   - "DEF 14A"
 ein: "862883453"
 nonprofit-status: "501(c)(4)"
-related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim Scott]] · [[John Cornyn]]"
+related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim Scott]] · [[John Cornyn]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
 ---
-
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money
-
-related: [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -196,8 +193,6 @@ McConnell built SLF as his personal power machine from 2015 to 2024. The organiz
 - [Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising) (Tier 2)
 - [Ballotpedia: Senate Leadership Fund](https://ballotpedia.org/Senate_Leadership_Fund) (Tier 3)
 - [Ballotpedia: One Nation (One Mission) 501(c)(4)](https://ballotpedia.org/One_Mission) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

@@ -5,14 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Graham Platner Master Profile]] · [[Abdul El-Sayed Master Profile]]"
+related: "[[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Graham Platner Master Profile]] · [[Abdul El-Sayed Master Profile]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[National Republican Senatorial Committee]]"
 source-types:
   - FEC
 ---
-
 #2026 #senate #primary #elections #midterm #map #donors #super-pac
-
-related: [[Senate Majority PAC]] [[Senate Leadership Fund]] [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] [[National Republican Senatorial Committee]]
 
 ---
 

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Bruce Westerman Master Profile]] · [[_Raul Grijalva Master Profile|Grijalva]] · [[Koch Industries]]"
 ---
-
 #westerman #arkansas #natural-resources #timber #energy #mining #public-lands
-
-related: [[_Bruce Westerman Master Profile]] [[_Raul Grijalva Master Profile|Grijalva]] [[Koch Industries]]
 
 donors: [[Koch Industries]]
 

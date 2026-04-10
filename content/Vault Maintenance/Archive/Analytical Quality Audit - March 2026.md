@@ -5,14 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null
-related: "[[Vault Standards and Agent Instructions]]"
+related: "[[Vault Standards and Agent Instructions]] · [[Research Methodology and Data Sources]] · [[Session Timeline]] · [[Session Instructions]]"
 ---
-
 #analytical-audit #quality-assessment #methodology-compliance #vault-maintenance
 
 tags: #vault-maintenance #analysis #research-quality #methodology #story
-
-related: [[Research Methodology and Data Sources]] | [[Session Timeline]] | [[Session Instructions]]
 
 ---
 

@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 2
 parent: null
-related: "[[Riverside Sheriffs Association]]"
+related: "[[Riverside Sheriffs Association]] · [[_Chad Bianco Master Profile]] · [[2022 Jail Death Crisis]] · [[CA DOJ Investigation - Pattern and Practice]] · [[RSA - The Single-Patron Sheriff]]"
 known-gaps:
   - "No FEC contribution data"
   - "No legislative record from Congress.gov"
@@ -24,11 +24,8 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
-
 #bianco #deputy-misconduct #whistleblower #heidecker #flores #sexual-abuse #cover-up #class-analysis #accountability #hush-money
 
-related: [[_Chad Bianco Master Profile]] | [[2022 Jail Death Crisis]] | [[CA DOJ Investigation - Pattern and Practice]] | [[RSA - The Single-Patron Sheriff]]
 donors: [[Riverside Sheriffs Association|Riverside Sheriffs' Association]]
 
 ---

@@ -11,12 +11,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[_Donald Trump Master Profile]] · [[Trump Crypto - The President as Personal Profiteer]]"
 ---
-
-
 #donald-trump #media #propaganda #donors #backers #fox-news #sinclair #truth-social #follow-the-money #research-node
 
-related: [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[_Donald Trump Master Profile]] · [[Trump Crypto - The President as Personal Profiteer]]
 donors: [[Rupert Murdoch]], [[Elon Musk]], [[Patrick Soon-Shiong]], [[Christopher Ruddy]]
 
 ---

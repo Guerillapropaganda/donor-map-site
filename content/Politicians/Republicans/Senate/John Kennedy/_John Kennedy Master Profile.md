@@ -25,12 +25,9 @@ stock-trades: 2
 stock-trade-tickers:
   - "MTUM"
 fec-candidate-id: "S4LA00065"
-related: "[[Dan Crenshaw Master Profile]]"
+related: "[[Dan Crenshaw Master Profile]] · [[_Bill Cassidy Master Profile|Cassidy]] · [[ExxonMobil]] · [[Koch Industries]] · [[ConocoPhillips]] · [[_Lindsey Graham Master Profile|Graham]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 ---
-
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley
-
-related: [[_Bill Cassidy Master Profile|Cassidy]] · [[ExxonMobil]] · [[Koch Industries]] · [[ConocoPhillips]] · [[_Lindsey Graham Master Profile|Graham]] · [[_Ron Johnson Master Profile|Ron Johnson]]
 
 donors: [[ExxonMobil]] · [[Koch Industries]] · [[ConocoPhillips]]
 
@@ -190,9 +187,6 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 - [Common Dreams: Senators requesting big oil bailouts received millions in oil donations (2020)](https://www.commondreams.org/newswire/2020/04/02/senators-requesting-big-oil-bailouts-received-millions-big-oil-donations) (Tier 2)
 - [ProPublica: Sacrifice Zones series (Cancer Alley)](https://www.propublica.org/series/sacrifice-zones) (Tier 2)
 - [Ballotpedia: John Kennedy (Louisiana)](https://ballotpedia.org/John_Kennedy_(Louisiana)) (Tier 3)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

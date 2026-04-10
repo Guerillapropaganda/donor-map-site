@@ -13,7 +13,6 @@ donors: "[[Koch Network - Charles Koch]]"
 
 #media-pipeline #right #conservative #classical-liberal #IDW #Koch #tenet-media #russian-dark-money #blazetv #locals #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -177,4 +176,3 @@ Dave Rubin represents **the conversion narrative as product** — the progressiv
 
 ---
 
-content-readiness:: ready

@@ -30,14 +30,11 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
+related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
 ---
-
 #politician #republican #florida #national-security-advisor #defense-contractor #revolving-door #afghanistan #cuba #china #class-analysis #follow-the-money #metis #green-beret
 
-related: [[_Marco Rubio Master Profile|Rubio]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
-profile-status:: developed
 
 ---
 
@@ -145,9 +142,6 @@ As National Security Advisor during the early months of Operation Southern Spear
 - [Wikipedia: Mike Waltz](https://en.wikipedia.org/wiki/Mike_Waltz) (Tier 3)
 
 ---
-
-profile-status:: developed
-content-readiness:: developed
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

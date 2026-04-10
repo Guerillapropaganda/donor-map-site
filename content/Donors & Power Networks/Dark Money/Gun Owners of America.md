@@ -20,14 +20,11 @@ ein: "521256643"
 nonprofit-status: "501(c)(4)"
 total-revenue: 7676175
 total-assets: 2172940
-related: "[[Guns - Donors and Backers]]"
+related: "[[Guns - Donors and Backers]] · [[National Rifle Association]]"
 lobbying-spend: 11561787
 lobbying-filings: 68
 ---
-
 #gun-owners-of-america #GOA #hardline-gun-rights #NRA-alternative #dark-money #second-amendment #Republican-donor
-
-related: [[National Rifle Association]] Second Amendment Advocacy Gun Rights Lobbying Republican Base Organization Constitutional Carry Movement
 
 ---
 
@@ -145,8 +142,6 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 - [OpenSecrets: Gun Owners of America lobbying profile](https://www.opensecrets.org/orgs/gun-owners-of-america/lobbying?id=D000026353) (Tier 1)
 - [SCOTUSblog: New York Rifle v. Bruen and Second Amendment doctrine](https://www.scotusblog.com/2022/06/a-minor-impact-on-gun-laws-but-a-potentially-momentous-shift-in-constitutional-method/) (Tier 3)
 - [Ballotpedia: Constitutional carry state list](https://ballotpedia.org/Constitutional_carry) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

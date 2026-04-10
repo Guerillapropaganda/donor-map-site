@@ -55,7 +55,6 @@ sec-form-types:
 
 #lobbying #k-street #tech #defense #pharma-healthcare #finance #crypto #bipartisan-access
 
-
 ---
 
 ### Who They Are
@@ -253,8 +252,6 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 - [O'Dwyer's: Palantir Technologies Adds Ferox to Line-Up (March 24, 2026)](https://www.odwyerpr.com/story/public/24508/2026-03-24/palantir-technologies-adds-ferox-line-up.html) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

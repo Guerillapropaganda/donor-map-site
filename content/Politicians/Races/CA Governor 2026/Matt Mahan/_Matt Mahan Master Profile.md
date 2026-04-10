@@ -19,12 +19,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Gavin Newsom Master Profile]] · [[_Katie Porter Master Profile]]"
 ---
-
-
 #matt-mahan #california #governor-2026 #tech-billionaires #silicon-valley #thiel-network #class-analysis #follow-the-money
 
-related: [[Peter Thiel]] · [[Mithril Capital]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Gavin Newsom Master Profile]] · [[_Katie Porter Master Profile]]
 donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]]
 
 profile-status:: ready

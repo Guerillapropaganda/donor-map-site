@@ -13,7 +13,7 @@ lobbying-spend: 2047000
 lobbying-filings: 123
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[The National Security-to-Senate Pipeline]] · [[Patty Murray]] · [[Fanjul Family - Florida Crystals]]"
+related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[The National Security-to-Senate Pipeline]] · [[Patty Murray]] · [[Fanjul Family - Florida Crystals]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[Booz Allen Hamilton]] · [[Leidos]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -28,10 +28,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #defense #industry-bloc #lobbying #military-industrial-complex #pentagon #ndaa #contractors
-
-related: [[Lockheed Martin]] [[Raytheon (RTX)]] [[Boeing]] [[Northrop Grumman]] [[General Dynamics]] [[L3Harris Technologies]] [[BAE Systems]] [[Booz Allen Hamilton]] [[Leidos]]
 
 ---
 
@@ -71,8 +68,6 @@ The Pentagon has failed its financial audit every year since audits began in 201
 
 - [FEC Receipts: Defense industry spending totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

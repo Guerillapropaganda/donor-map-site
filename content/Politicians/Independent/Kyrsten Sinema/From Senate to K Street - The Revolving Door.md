@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Kyrsten Sinema Master Profile]]
+related: "[[_Kyrsten Sinema Master Profile]]"
 ---
-
-
 #kyrsten-sinema #k-street #lobbying #revolving-door #hogan-lovells #coinbase #crypto #ai #class-analysis
 
-related: [[_Kyrsten Sinema Master Profile]]
-
 donors: Hogan Lovells · [[Coinbase]] · AI Infrastructure Coalition
-
-content-readiness:: ready
 
 ---
 

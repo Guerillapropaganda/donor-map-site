@@ -41,12 +41,9 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[_Joe Biden Master Profile|Joe Biden]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
-
 #chris-coons #democrat #delaware #senate #pharma #patent-law #corporate-incorporation #biden-seat #israel #class-analysis #follow-the-money
-
-related: [[_Joe Biden Master Profile|Joe Biden]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · DuPont · AstraZeneca · Delaware Banking Industry · Pro-Israel Donor Network
 
@@ -163,7 +160,6 @@ party:: Democrat
 profile-status:: ready
 research-status:: ready
 content-readiness:: ready
- 
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

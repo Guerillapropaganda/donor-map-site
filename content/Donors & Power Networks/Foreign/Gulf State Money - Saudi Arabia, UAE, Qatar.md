@@ -19,13 +19,9 @@ lobbying-spend: 918000
 lobbying-filings: 71
 lei: "894500LPEZD0PA4A6I95"
 lei-jurisdiction: "IN"
-related: "[[Haim Saban]] · [[Affinity Partners and the Saudi Pipeline]] · [[Abraham Accords as Business Development]] · [[666 Fifth Avenue and Financial Desperation]] · [[Steve Witkoff]] · [[Trump Donor Coalition]]"
+related: "[[Haim Saban]] · [[Affinity Partners and the Saudi Pipeline]] · [[Abraham Accords as Business Development]] · [[666 Fifth Avenue and Financial Desperation]] · [[Steve Witkoff]] · [[Trump Donor Coalition]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]]"
 ---
-
-
 #donor #gulf-states #saudi #UAE #qatar #sovereign-wealth #class-analysis #follow-the-money #trump #foreign-influence #petrodollars #lobbying #arms-sales #khashoggi
-
-related: [[_Donald Trump Master Profile]] | [[Elon Musk]] | [[Miriam Adelson]] | [[Crypto Industry Bloc]] | [[Fossil Fuel Bloc]] | [[_Jared Kushner Master Profile]] | [[_Benjamin Netanyahu Master Profile]]
 
 ---
 
@@ -151,9 +147,6 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 - [FDD — Qatar $225M influence](https://www.fdd.org/analysis/2025/11/21/inside-qatars-225-million-effort-to-court-us-policymakers-and-press/) (Tier 3)
 - [Quincy Institute — Emirati lobby](https://quincyinst.org/research/the-emirati-lobby-in-america/) (Tier 2)
 - [German Marshall Fund — foreign money loopholes](https://securingdemocracy.gmfus.org/covert-foreign-money/) (Tier 2)
-
-research-status:: core bloc fully documented with class analysis framework, donation-to-policy timelines, and legal workaround analysis. Comprehensive coverage of Saudi (PIF, Kushner, LIV Golf, Khashoggi), UAE (Tahnoon, WLF, chip sales, Barrack), and Qatar (QIA, Twitter, lobbying). ~1,900 words, 16 sources (Tier 1–3), dual callouts [!money] and [!contradiction] with temporal mapping. Promoted Session 38k.
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

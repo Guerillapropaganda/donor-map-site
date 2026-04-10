@@ -47,12 +47,9 @@ regulatory-agencies:
 federal-awards-total: 739664294
 federal-contracts-count: 25
 federal-grants-count: 7
-related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Alpine Group]]"
+related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Alpine Group]] · [[General Motors]] · [[UAW - United Auto Workers]] · [[_Joe Biden Master Profile|Biden]]"
 ---
-
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade
-
-related: [[General Motors]] [[UAW - United Auto Workers]] [[_Joe Biden Master Profile|Biden]]
 
 ---
 
@@ -78,8 +75,6 @@ Ford's refusal of TARP funds in 2009 gave the company a unique political asset: 
 - [OpenSecrets: Ford Motor Company PAC and lobbying](https://www.opensecrets.org/orgs/ford-motor-co/summary?id=D000000093) (Tier 1)
 - [DOE: Loan Programs Office - Ford](https://www.energy.gov/EDF) (Tier 1)
 - [Ballotpedia: Auto industry political spending](https://ballotpedia.org/Ford_Motor_Company) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

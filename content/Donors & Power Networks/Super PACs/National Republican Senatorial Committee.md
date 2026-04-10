@@ -25,12 +25,9 @@ court-jurisdictions:
   - "District Court, D. Utah"
   - "District Court, District of Columbia"
   - "District Court, W.D. Michigan"
-related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]]"
+related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[WinRed]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[_Rick Scott Master Profile|Rick Scott]]"
 ---
-
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money
-
-related: [[Senate Leadership Fund]] [[Congressional Leadership Fund]] [[WinRed]] [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] [[_Rick Scott Master Profile|Rick Scott]]
 
 ---
 
@@ -142,8 +139,6 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 - [OpenSecrets: NRSC top contributors 2024](https://www.opensecrets.org/political-parties/NRSC/2024/contributors?name=national-republican-senatorial-cmte) (Tier 1)
 - [OpenSecrets: NRSC expenditures 2024](https://www.opensecrets.org/political-parties/NRSC/2024/expenditures?name=national-republican-senatorial-cmte) (Tier 1)
 - [Ballotpedia: National Republican Senatorial Committee](https://ballotpedia.org/National_Republican_Senatorial_Committee) (Tier 3)
-
-content-readiness:: developed
 
 ---
 

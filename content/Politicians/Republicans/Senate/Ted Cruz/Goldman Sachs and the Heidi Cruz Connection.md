@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Ted Cruz Master Profile]]
+related: "[[_Ted Cruz Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
 ---
-
-
 #ted-cruz #goldman-sachs #heidi-cruz #undisclosed-loans #class-analysis #follow-the-money
 
-related: [[_Ted Cruz Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]
-
 donors: [[Goldman Sachs]]
-
-content-readiness:: ready
 
 ---
 

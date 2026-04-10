@@ -5,11 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_David Sacks Master Profile]]
+related: "[[_David Sacks Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]]"
 ---
-
 #paypal-mafia #silicon-valley #venture-capital #regulatory-capture #peter-thiel #elon-musk #david-sacks #jd-vance #doge #class-analysis #follow-the-money #trump-admin
 
-related: [[_David Sacks Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]]
 donors: [[Peter Thiel]] · [[Elon Musk]]
 
 ---
@@ -75,4 +74,3 @@ The PayPal Mafia represents the vault's clearest case study of how a private cap
 - [OpenSecrets: JD Vance 2022 Senate race donors](https://www.opensecrets.org/races/summary?cycle=2022&id=OHS2) (Tier 1)
 - [TechCrunch: Sacks RNC speech full transcript](https://techcrunch.com/2024/07/16/vc-david-sacks-delivers-a-fire-and-brimstone-speech-at-the-republican-national-convention/) (Tier 2)
 
-content-readiness:: ready

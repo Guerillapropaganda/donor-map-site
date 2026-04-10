@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Joe Biden Master Profile]]
+related: "[[_Joe Biden Master Profile]] · [[MBNA Corporation]] · [[_Elizabeth Warren Master Profile]]"
 ---
-
-
 #biden #bankruptcy-bill #mbna #credit-card-industry #class-analysis #follow-the-money #delaware
 
-related: [[_Joe Biden Master Profile]] · [[MBNA Corporation]] · [[_Elizabeth Warren Master Profile]]
-
 donors: [[MBNA Corporation]], Credit Card Industry
-
-content-readiness:: ready
 
 ---
 
@@ -153,6 +148,4 @@ By 2020, when Biden ran for president, his campaign website said: "We must provi
 - [Harvard Law School: Warren bankruptcy research](https://www.law.harvard.edu/news/warren-elected-law-school-faculty-elected-fellows-american-academy) (Tier 2)
 - [MBNA/Bank of America merger announcement, 2005](https://investor.bankofamerica.com/news-and-events/news-releases/2005) (Tier 1)
 - [Federal Reserve report: Credit card industry profitability post-2005](https://www.federalreserve.gov/datadownload/) (Tier 1)
-
-content-readiness:: ready
 

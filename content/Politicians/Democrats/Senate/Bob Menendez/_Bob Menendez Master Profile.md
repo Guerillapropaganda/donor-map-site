@@ -32,14 +32,11 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
 #politician #democrat #senate #new-jersey #cuba #corruption #foreign-relations #egypt #class-analysis #follow-the-money #bribery #gold-bars
 
-related: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
-profile-status:: developed
 
 ---
 
@@ -136,9 +133,6 @@ He opposed Obama-Castro normalization (2014), calling it "a reward that a totali
 - [Wikipedia: Bob Menendez](https://en.wikipedia.org/wiki/Bob_Menendez) (Tier 3)
 
 ---
-
-profile-status:: developed
-content-readiness:: developed
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

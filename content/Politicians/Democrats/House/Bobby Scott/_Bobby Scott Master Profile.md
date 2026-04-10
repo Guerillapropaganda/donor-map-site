@@ -27,17 +27,11 @@ phone: "202-225-8351"
 total-received: "$135,250"
 fec-candidate-id: "H6VA01117"
 donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]]"
-related: "[[Tim Walberg]]"
+related: "[[Tim Walberg]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[SEIU - Service Employees International Union|SEIU]]"
 ---
-
-
 #bobby-scott #democrat #virginia #house #ranking-member #education #labor #unions #phase-6-gavel-power
 
-related: [[_Nancy Pelosi Master Profile|Pelosi]] [[SEIU - Service Employees International Union|SEIU]]
-
 donors: [[SEIU - Service Employees International Union|SEIU]]
-
-profile-status:: ready
 
 ---
 ---
@@ -155,8 +149,6 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 - [AFL-CIO Legislative Scorecard: Bobby Scott](https://aflcio.org/scorecard) (Tier 2)
 - [Ballotpedia: Bobby Scott](https://ballotpedia.org/Bobby_Scott) (Tier 3)
 - [Virginia Public Access Project: Bobby Scott funding](https://www.vpap.org/candidates/bobby-scott/) (Tier 3)
-
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

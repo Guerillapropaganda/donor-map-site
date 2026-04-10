@@ -40,12 +40,9 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 donors: "[[NORPAC]]"
+related: "[[_Bobby Scott Master Profile|Bobby Scott]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
-
 #tim-walberg #republican #michigan #house #committee-chair #education #workforce #school-choice #anti-union #devos #private-equity #nlrb #phase-6-gavel-power
-
-related: [[_Bobby Scott Master Profile|Bobby Scott]] [[_Donald Trump Master Profile|Trump]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 

@@ -8,12 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[2026 Senate Map]] · [[Congressional Oil & Gas Funding]] · [[Kevin Hern Profile]] · [[Senate Special Elections 2026]]"
 ---
-
 #2026-election #senate #oklahoma #race-frame
 tags: #analysis #story
-
-related:: [[2026 Senate Map]] · [[Congressional Oil & Gas Funding]] · [[Kevin Hern Profile]] · [[Senate Special Elections 2026]]
 
 donors:: Continental Resources · Devon Energy
 

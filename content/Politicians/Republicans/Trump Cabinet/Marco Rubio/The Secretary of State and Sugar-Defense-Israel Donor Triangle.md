@@ -5,16 +5,13 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Marco Rubio Master Profile]]"
-related: "[[Operation Southern Spear and the Cuba Fuel Blockade]]"
+related: "[[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Marco Rubio Master Profile]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Lockheed Martin]]"
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 ---
-
 #rubio #florida #secretary-of-state #sugar #defense #israel #cuba #foreign-policy
-
-related: [[_Marco Rubio Master Profile]] [[Fanjul Family - Florida Crystals]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Lockheed Martin]]
 
 donors: [[Fanjul Family - Florida Crystals]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Lockheed Martin]]
 

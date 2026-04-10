@@ -5,15 +5,12 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Bernie Sanders Master Profile]]
-related: "[[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]]"
+related: "[[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]] · [[_Bernie Sanders Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[_Nancy Pelosi Master Profile]]"
 source-types:
   - FEC
 ---
-
-
 #sanders #aipac #israel #class-analysis #follow-the-money #primary-spending #progressive #bowman #bush
 
-related: [[_Bernie Sanders Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[_Nancy Pelosi Master Profile]]
 donors: [[AIPAC - American Israel Public Affairs Committee]], [[Haim Saban]], [[DMFI - Democratic Majority for Israel]]
 
 ---

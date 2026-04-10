@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Stephen Miller Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Stephen Miller Master Profile]] · [[_Russell Vought Master Profile]]"
 ---
-
-
 #stephen-miller #america-first-legal #dark-money #bradley-impact-fund #donorstrust #conservative-partnership-institute #class-analysis
 
-related: [[_Stephen Miller Master Profile]] [[_Russell Vought Master Profile]]
 donors: [[Bradley Impact Fund]], [[DonorsTrust]], [[Conservative Partnership Institute]]
 
 content-readiness:: ready

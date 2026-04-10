@@ -28,14 +28,11 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]] · [[_Donald Trump Master Profile|Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[Entertainment and Hollywood Donors]] · [[Media & Influence Pipeline]]"
 lobbying-spend: 0
 lobbying-filings: 1
 ---
-
 #donor #mega-donor #la-times #biotech #billionaire #media-owner #republican #trump #editorial-capture #pharma-influence #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile|Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[Entertainment and Hollywood Donors]] · [[Media & Influence Pipeline]]
 
 ---
 
@@ -166,8 +163,6 @@ The analytical patterns:
 
 ---
 
-research-status:: ready — Full expansion from 42 to 185+ lines. FEC data Chrome-verified (75 contributions; Clinton/DNC 2016 → Republican 2017–2026 party switch). Wikipedia Chrome-verified (LA Times, editorial controversies, politics section). CNN/Hollywood Reporter sources retained from prior version. Complete donor node anatomy: Who They Are → What They Want → Who They Fund (contributions table) → What They've Gotten (Format 2 timeline, 9 rows) → LA Times Capture Sequence (6 stages) → Class Analysis → Capture Architecture → Sources. 4 sources (Tier 1–3). Key data: 75 FEC contributions, $80.7K Democratic (2016 only) → $400K+ Republican (2017–2026), $590M LA Times purchase, Harris endorsement killed, editorial board fired, "fair and balanced" pivot, RFK Jr. HHS endorsement, $250K RNC (Apr 2025).
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

@@ -5,13 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Donald Trump Master Profile]]
-related: "[[The Iran War Money Trail - From Adelson to Airstrikes]]"
+related: "[[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[Fossil Fuel Deregulation - The Climate Donors]]"
 ---
-
-
 #trump #iran #war #defense-donors #doge #military-readiness #fossil-fuel #strait-of-hormuz #class-analysis
-
-related: [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[Fossil Fuel Deregulation - The Climate Donors]]
 
 donors: Defense Industry Donors · [[Fossil Fuel Bloc]]
 
@@ -208,9 +204,6 @@ Not applicable. This is a full-scale war, not a pilot program. However, the supp
 - [OpenSecrets: Oil & Gas PACs contributions to candidates, 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/E01/2024) (Tier 1)
 - [Climate Power: Oil and Gas Industry Spent $450 Million to Influence Trump and the 119th Congress](https://climatepower.us/news/new-report-oil-and-gas-industry-spent-450-million-to-influence-trump-and-the-119th-congress/) (Tier 2)
 - [Citizens for Responsibility and Ethics in Washington: The defense industry is the biggest supporter of the Sedition Caucus](https://www.citizensforethics.org/reports-investigations/crew-reports/the-defense-industry-is-the-biggest-supporter-of-the-sedition-caucus/) (Tier 2)
-
-research-status:: ready — Full citation pass complete. $200B supplemental request, defense contractor stock gains (RTX +4.4%, Northrop +5.8%, Lockheed +3-6.9%), DOGE $11.1B Pentagon cuts, Strait of Hormuz closure ($126/barrel), fossil fuel donor ROI ($219M election spending → oil price surge), donation-to-policy timeline, analytical patterns, reporting gaps documented. 23 sources Tier 1-3 with URLs. All ### headers. Promoted Session 38n.
-content-readiness:: ready
 
 ---
 

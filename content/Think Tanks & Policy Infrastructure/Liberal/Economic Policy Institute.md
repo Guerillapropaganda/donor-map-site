@@ -60,7 +60,6 @@ sec-form-types:
 
 #think-tank #liberal #labor #economic-policy #minimum-wage #pro-act #nlrb #revolving-door
 
-
 ---
 
 ### Who They Are
@@ -273,8 +272,6 @@ The critical question for class analysis is not whether EPI's research is accura
 - [EPI: Unprecedented — The Trump NLRB's attack on workers' rights (5 simultaneous rulemakings, quorum loss, constitutional challenge)](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2)
 - [EPI: Trump is the biggest union-buster in U.S. history — 1 million federal workers' collective bargaining rights at risk](https://www.epi.org/blog/trump-is-the-biggest-union-buster-in-u-s-history-more-than-1-million-federal-workers-collective-bargaining-rights-are-at-risk/) (Tier 2)
 - [EPI: Federal Policy Watch — real-time tracker of Trump administration changes to worker protections](https://www.epi.org/policywatch/) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

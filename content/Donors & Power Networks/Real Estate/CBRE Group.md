@@ -40,17 +40,14 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
-related: "[[Real Estate Industry Bloc]]"
+related: "[[Real Estate Industry Bloc]] · [[National Association of Realtors]] · [[Real Estate Roundtable]] · [[Blackstone Real Estate]]"
 federal-awards-total: 87656
 federal-contracts-count: 3
 federal-grants-count: 0
 top-federal-agency: "General Services Administration"
 top-naics-code: "236220"
 ---
-
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange
-
-related: [[National Association of Realtors]] [[Real Estate Roundtable]] [[Blackstone Real Estate]]
 
 ---
 
@@ -84,8 +81,6 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 - [OpenSecrets: CBRE Group organizational profile](https://www.opensecrets.org/orgs/cbre-group/summary?id=D000046887) (Tier 1)
 - [JCT: Revenue estimates for 1031 exchange reform](https://www.jct.gov/publications/?search_term=CBRE%20Group) (Tier 1)
 - [Ballotpedia: CBRE Group](https://ballotpedia.org/CBRE_Group) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2024)
 <!-- auto:propublica-990 start -->

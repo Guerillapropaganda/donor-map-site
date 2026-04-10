@@ -59,11 +59,9 @@ corroboration-count: 3
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
+related: "[[Democracy Alliance]] · [[Media Matters|David Brock]]"
 ---
-
 #center-for-american-progress #CAP #dark-money #think-tank #democratic #infrastructure #Neera-Tanden
-
-related: [[Democracy Alliance]] [[Media Matters|David Brock]] [[Media Matters]] Progressive Think Tank Network Hillary Clinton Advisors
 
 ---
 

@@ -29,12 +29,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]] · [[Ethanol Industry]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #joni-ernst #senate #iowa #agriculture #koch-network #agribusiness #ethanol #farm-subsidies #class-analysis
-
-related: [[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]] · [[Ethanol Industry]] · Farm Subsidies · [[_Donald Trump Master Profile]]
 
 donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol Industry]]
 

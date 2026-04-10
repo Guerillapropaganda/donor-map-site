@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-22
 source-tier: 2
 parent: [[_Alexander Acosta Master Profile]]
+related: "[[Immigration Enforcement - The Detention Economy]] · [[_Donald Trump Master Profile]] · [[Timothy Mellon]]"
 ---
-
-
 #donald-trump #immigration #border-wall #contractors #fisher-sand-gravel #class-analysis #follow-the-money #eminent-domain #military-diversion
 
-related: [[Immigration Enforcement - The Detention Economy]] · [[_Donald Trump Master Profile]] · [[Timothy Mellon]]
 donors: [[Timothy Mellon]]
-
-content-readiness:: ready
 
 ---
 
@@ -95,4 +91,3 @@ The property seizures fell overwhelmingly on Texas landowners, many of them Hisp
 - [American Immigration Council. Private Land Is Being Seized in Texas to Build the Border Wall](https://www.americanimmigrationcouncil.org/blog/border-wall-eminent-domain/) (Tier 2)
 - [Politifact. How many miles of border wall did Donald Trump build (August 2023)](https://www.politifact.com/factchecks/2023/aug/09/donald-trump/how-many-miles-of-border-wall-did-donald-trump-bui/) (Tier 2)
 
-research-status:: Wall mileage from Politifact and CBP. Military diversions from NPR and Military Times. Fisher contracts from Bloomberg, NPR, and 60 Minutes. Eminent domain from American Immigration Council and CBS. Contractor market share from GovCon Wire. Remaining. Complete contractor PAC contribution records, second term contract awards detail, updated eminent domain lawsuit count.

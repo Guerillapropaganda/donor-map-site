@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Rick Scott Master Profile]] · [[Hospital Corporation of America - HCA]]"
 ---
-
 #rick-scott #florida #medicare-fraud #hca #self-funding #senate #nrsc #sunset
-
-related: [[_Rick Scott Master Profile]] [[Hospital Corporation of America - HCA]]
 
 donors: [[Hospital Corporation of America - HCA]]
 

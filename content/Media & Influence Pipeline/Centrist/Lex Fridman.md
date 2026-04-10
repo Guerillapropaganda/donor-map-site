@@ -12,7 +12,6 @@ donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]] · [[Koch Network - Cha
 
 #media-profile #centrist #tech #podcaster #ai #silicon-valley #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -185,4 +184,3 @@ The funding model is structurally captured without any single donor or patron. T
 
 ---
 
-content-readiness:: ready

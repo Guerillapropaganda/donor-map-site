@@ -24,12 +24,9 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - "10-K"
-related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]]"
+related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
 ---
-
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor
-
-related: [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · House Democratic Leadership · House Majority Forward · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -167,10 +164,6 @@ This is the structural problem of Democratic House politics: labor provides cons
 - [NOTUS: Super PAC Encroaching on DCCC Territory](https://www.notus.org/2026-election/dccc-super-pac-campaigns) (Tier 2)
 
 ---
-
-content-readiness:: ready
-
-research-status:: ready
 
 ---
 

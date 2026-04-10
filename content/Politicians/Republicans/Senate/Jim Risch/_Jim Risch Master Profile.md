@@ -16,18 +16,12 @@ issues:
   - "Israel & Foreign Policy"
 top-donors:
   - "AIPAC"
-related: "[[Idaho 2026 Senate Race]]"
+related: "[[Idaho 2026 Senate Race]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[NORPAC]]"
 ---
-
-
 #jim-risch #republican #idaho #senate #committee-chair #foreign-relations #nuclear #defense #arms-sales #general-atomics #micron #china #israel #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
-profile-status:: ready
 
 ---
 ---
@@ -159,4 +153,3 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 - [Ballotpedia: Jim Risch](https://ballotpedia.org/Jim_Risch) (Tier 3)
 - [Wikipedia: Jim Risch](https://en.wikipedia.org/wiki/Jim_Risch) (Tier 3)
 
-content-readiness:: ready

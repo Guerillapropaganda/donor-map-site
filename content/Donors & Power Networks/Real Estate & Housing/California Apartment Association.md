@@ -26,7 +26,7 @@ ein: 950944360
 annual-revenue: "$291K"
 net-assets: "$864K"
 tax-year: "2023"
-related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[Homelessness Spending and Encampments]]"
+related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Rent Control - Props 10, 21, and 33]] · [[Supply-Side Framework - Who It Helps]] · [[3.5 Million Units - Broken Promise]]"
 doj-press-mentions: "264457"
 doj-components:
   - "Criminal - Human Rights and Special Prosecution Section"
@@ -40,11 +40,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
-
 #donor #real-estate #landlord #CAA #rent-control-opponent #housing #tenant-rights #ballot-measure #follow-the-money #california #lobbying
-
-related: [[_Gavin Newsom Master Profile]] | [[Rent Control - Props 10, 21, and 33]] | [[Supply-Side Framework - Who It Helps]] | [[3.5 Million Units - Broken Promise]]
 
 ---
 
@@ -123,9 +119,6 @@ Housing — rent control, supply-side framework, tenant rights
 
 - [California Secretary of State: Ballot measure campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1)
 - [FPPC: CAA-PAC contribution records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-
-research-status:: ready — largest CA landlord trade org, Props 10/21/33 defeated, Costa-Hawkins preserved, supply-side framework alignment. 2 sources, Tier 1. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ---
 

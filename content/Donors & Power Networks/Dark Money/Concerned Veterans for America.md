@@ -34,13 +34,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[DeVos Family]]"
+related: "[[DeVos Family]] · [[Koch Network - Charles Koch]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[Doug Collins]] · [[_Donald Trump Master Profile|Trump]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]"
 ---
-
-
 #donor #dark-money #koch #veterans #privatization #va #astroturf #class-analysis #follow-the-money #healthcare
-
-related: [[Koch Network - Charles Koch]] [[_Pete Hegseth Master Profile|Hegseth]] [[Doug Collins]] [[_Donald Trump Master Profile|Trump]] [[Veterans and Military - Donors and Backers]] [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
 
 ---
 
@@ -154,8 +150,6 @@ The circular logic: underfund VA → wait times increase → cite wait times as 
 - [Common Dreams: Privatizer Pete Hegseth Is Bad for Military Families](https://www.commondreams.org/opinion/pete-hegseth-privatization-va) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 

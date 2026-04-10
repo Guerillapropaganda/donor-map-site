@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-22
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
+related: "[[Immigration Enforcement - The Detention Economy]] · [[_Donald Trump Master Profile]] · [[GEO Group]] · [[CoreCivic]]"
 ---
-
-
 #donald-trump #immigration #family-separation #zero-tolerance #children #detention #class-analysis #follow-the-money #southwest-key #stephen-miller
 
-related: [[Immigration Enforcement - The Detention Economy]] · [[_Donald Trump Master Profile]] · [[GEO Group]] · [[CoreCivic]]
 donors: [[GEO Group]] · [[CoreCivic]]
-
-content-readiness:: ready
 
 ---
 
@@ -85,4 +81,3 @@ As of 2024, approximately 1,360 to 1,400 children separated under zero tolerance
 - [Human Rights Watch. US Lasting Harm from Family Separation at the Border (December 2024)](https://www.hrw.org/news/2024/12/16/us-lasting-harm-from-family-separation-border) (Tier 2)
 - [NPR. How the Trump White House misled the world about its family separation policy (August 2022)](https://www.npr.org/2022/08/11/1116917364/how-the-trump-white-house-misled-the-world-about-its-family-separation-policy) (Tier 2)
 
-research-status:: Separation numbers from CRS and American Immigration Council. Southwest Key contracts from Time and HHS budget documents. MVM from Daily Beast and contract records. Reunification numbers from PBS and HRW. Miller role from NBC News and Slate. Second term directive from NYT. Remaining. Complete contractor FEC records, Southwest Key leadership compensation, detailed reunification obstacle documentation.

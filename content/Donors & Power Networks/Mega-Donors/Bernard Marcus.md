@@ -60,12 +60,9 @@ sec-form-types:
   - "SC TO-T/A"
 lei: "213800MWAHGQE6BU9654"
 lei-jurisdiction: "GB"
-related: "[[Charlie Kirk]]"
+related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Heritage Foundation]] · [[Federalist Society]] · [[American Enterprise Institute]]"
 ---
-
 #donor-node #mega-donor #retail #home-depot #republican #israel #class-analysis
-
-related: [[_Donald Trump Master Profile]] [[AIPAC - American Israel Public Affairs Committee]] [[Heritage Foundation]] [[Federalist Society]] [[American Enterprise Institute]] Foundation for Defense of Democracies Marcus Foundation Mega-Donors
 
 ---
 
@@ -147,9 +144,6 @@ Labor unions (particularly construction trades unions and retail workers' organi
 - [Bernie Marcus, Home Depot founder who gave to Republicans and Israel - Jewish Telegraphic Agency](https://www.jta.org/2024/11/05/obituaries/bernie-marcus-home-depot-founder-who-gave-to-republicans-and-israel-dies-at-95) (Tier 2)
 
 ---
-
-research-status:: ready — Home Depot co-founder, $10.3B net worth, $10.7M Trump 2020, $5M+ Trump 2024, $1M AIPAC/UDP, $2.7B Marcus Foundation, FDD $30M, Federalist Society, Heritage, RootOne $140M+. 14 sources, Tier 1-3. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ---
 

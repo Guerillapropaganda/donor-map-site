@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Ethnic Studies - Whose History Gets Taught]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Gun and Public Safety - Donors and Backers]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Ethnic Studies - Whose History Gets Taught]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Gun and Public Safety - Donors and Backers]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Early History and Background Ties 2003-2019]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #israel #october-7 #gaza #flip-history #position-tracker #donor-class #apartheid #two-audience-problem #2028
 
-related: [[Early History and Background Ties 2003-2019]] | [[Pro-Israel Donor Network Deep Dive]] | [[_Gavin Newsom Master Profile]]
 donors: [[AIPAC - American Israel Public Affairs Committee]] | [[JPAC - Jewish Public Affairs Committee of California]] | [[JCRC Bay Area]]
 
 ---
@@ -99,4 +96,3 @@ This is the two-audience problem in real time: one statement for progressive pri
 - [J Weekly: Newsom staff meets Jewish leaders after "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (Tier 2)
 - [Times of Israel: AIPAC denial](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-funding/) (Tier 3)
 
-content-readiness:: ready

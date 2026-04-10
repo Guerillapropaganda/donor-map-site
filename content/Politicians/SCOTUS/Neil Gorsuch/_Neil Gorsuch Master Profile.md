@@ -16,12 +16,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Leonard Leo]] · [[_John Roberts Master Profile]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #neil-gorsuch #scotus #stolen-seat #leonard-leo #federalist-society #mcconnell #deregulation #chevron #anne-gorsuch-burford #class-analysis
-
-related: [[Leonard Leo]] · [[_John Roberts Master Profile]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]
 
 donors: [[Leonard Leo]], [[Koch Network - Charles Koch]], [[Judicial Crisis Network]]
 

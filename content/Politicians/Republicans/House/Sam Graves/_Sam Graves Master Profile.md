@@ -23,12 +23,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #sam-graves #republican #missouri #house #committee-chair #transportation #infrastructure #aviation #airlines #trucking #railroads #construction #phase-6-gavel-power
-
-related: [[_Donald Trump Master Profile|Trump]]
 
 donors:
 

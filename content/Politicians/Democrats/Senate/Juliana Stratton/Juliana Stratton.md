@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Corporate PAC Pledge and Its Limits]]"
+related: "[[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Corporate PAC Pledge and Its Limits]] · [[Dick Durbin]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]]"
 ---
-
 #politician #democrat #senate #illinois #2026-candidate #black-woman-senator
 tags: #democrat
 
-related:: [[Dick Durbin]] [[_JB Pritzker Master Profile|JB Pritzker]] [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] Robin Kelly Illinois Democratic Party
 donors:: [[Illinois Future PAC]] [[_JB Pritzker Master Profile|JB Pritzker]] Jennifer Pritzker [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|United Democracy Project]] [[Fairshake PAC]] Quentin Fulks
 ### Who They Are
 
@@ -131,5 +129,3 @@ The contradiction: she claims to reject corporate influence while accepting bill
 - [Wealthy elites bankroll Dem Senate candidate who has repeatedly touted 'grassroots' campaign](https://www.yahoo.com/news/articles/wealthy-elites-bankroll-dem-senate-203635284.html) *(source unavailable)* (Fox News opinion) (Tier 2)
 - [Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (American Prospect, March 18, 2026) (Tier 2)
 
-profile-status:: ready
-content-readiness:: ready

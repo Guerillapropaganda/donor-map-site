@@ -24,12 +24,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]"
 ---
-
-
 #hakeem-jeffries #house-minority-leader #new-york #brooklyn #real-estate #aipac #corporate-democrat #class-analysis
-
-related: [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Real Estate Industry]]
 
@@ -123,7 +120,6 @@ The institutional continuity is the point. Jeffries was selected because he woul
 > **AIPAC $1.5M → zero ceasefire votes:** Every ceasefire resolution opposed. The correlation between Israel lobby money and Jeffries's voting record is complete.
 >
 > **Wall Street $3M+ → Build Back Better gutting:** Finance sector funding → Jeffries opposes wealth tax additions. The Minority Leader's role in diluting progressive legislation traces directly to who funds his leadership PAC.
-
 
 ## Rhetorical Signature Moves
 
@@ -221,7 +217,6 @@ The transition is the most visible evidence that Democratic leadership is a dono
 
 --- (Tier 3)
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -12,7 +12,6 @@ related: "[[Fox News - Murdoch Media Empire]] · [[Anderson Cooper]]"
 
 #media-pipeline #centrist #fox-news #cnn #institutional-journalism #independence-theater #centrist-laundering
 
-
 ---
 
 ### Who They Are
@@ -157,4 +156,3 @@ The CNN+ miscalculation revealed something important: Wallace's brand had high i
 - [FEC: Chris Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRIS) (Tier 1)
 - [FEC: Christopher Wallace individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=WALLACE%2C+CHRISTOPHER) (Tier 1)
 
-content-readiness:: ready

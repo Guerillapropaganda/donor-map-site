@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Thom Tillis Master Profile]]
+related: "[[_Thom Tillis Master Profile]] · [[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]]"
 ---
-
-
 #tillis #pharmaceutical #drug-pricing #research-triangle #intellectual-property #patent-reform
-
-related: [[_Thom Tillis Master Profile]] · [[Pharmaceutical Industry Bloc]] · North Carolina Research Triangle · [[Tech IP and Patent Lobbying]]
 
 donors: [[Pharmaceutical Industry Bloc]], Biotech Industry, Patent and IP Lobbying
 
@@ -145,4 +142,3 @@ Just steady, documented service.
 - [FEC Candidate: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
 - [PolitiFact: Cunningham half right about Tillis role in prescription drug efforts](https://www.politifact.com/factchecks/2020/sep/24/cal-cunningham/cunningham-half-right-about-tillis-role-prescripti/) (Tier 2)
 
-content-readiness:: ready

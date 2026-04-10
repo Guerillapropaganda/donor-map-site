@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
-related: "[[The Contractor Beneficiaries - Who Replaced the Civil Servants]]"
+related: "[[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[The NLRB Gutting and the Biggest Union Bust in American History]]"
 ---
-
-
 #donald-trump #doge #federal-workforce #class-analysis #follow-the-money #schedule-f #probationary #fork-in-the-road #usaid #cfpb #social-security #veterans
 
-related: [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[The NLRB Gutting and the Biggest Union Bust in American History]]
 donors: [[Elon Musk]] · [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 
@@ -110,8 +105,6 @@ The positions that were cut were not abstract "bureaucracy." They were food safe
 - [Challenger, Gray and Christmas. Federal Cuts Dominate March 2025](https://www.challengergray.com/blog/federal-cuts-dominate-march-2025-total-275240-announced-job-cuts-216670-from-doge-actions/) (Tier 1)
 - [Office of Personnel Management. DOGE Workforce Optimization Guidance](https://www.war.gov/Portals/1/Spotlight/2025/Guidance_For_Federal_Policies/Implementing_DOGE_Workforce_Optimization/Implementing_DOGE_Workforce_Optimization_OPM_Guidance.pdf) (Tier 1)
 - [PBS NewsHour. DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2)
-
-research-status:: Workforce totals from GAO, Federal News Network, and Challenger Gray. Agency cuts from individual agency reporting and congressional testimony. Schedule F from executive order text. Union responses from AFGE, NTEU, NFFE press releases and court filings. Remaining. Specific probationary employee numbers by agency, court injunction case numbers and outcomes, SSA processing time impact data, VA wait time increase figures.
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

@@ -44,12 +44,9 @@ corroboration-count: 3
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]] · [[AIPAC - American Israel Public Affairs Committee]]"
 ---
-
-
 #mike-johnson #republican #speaker #house #louisiana #aipac #adf #election-denial #religious-right #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile]] [[Leonard Leo]] [[Peter Thiel]] [[AIPAC - American Israel Public Affairs Committee]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [[Fossil Fuel Bloc]], Religious Right Donor Network
 
@@ -122,7 +119,6 @@ Mike Johnson. Speaker of the House (October 2023–present). Representative for 
 > **AIPAC speaker preservation:** $2M+ Israel lobby donations → Johnson brings $95B aid package to floor with Democratic votes over Freedom Caucus objections. Johnson preserved his speakership by satisfying AIPAC at the expense of his own caucus — the clearest demonstration that donor priorities outweigh party discipline.
 >
 > **Project 2025 alignment:** Heritage Foundation/Koch network investment in Johnson's career → Speaker uses gavel to advance Heritage priority list. Johnson's speakership is the institutional delivery mechanism for the donor-class agenda compiled in Project 2025.
-
 
 ## Analytical Patterns
 

@@ -55,12 +55,9 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "National Labor Relations Board"
-related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom Master Profile]]"
+related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom Master Profile]] · [[The Real Estate President and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] · [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]]"
 ---
-
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door
-
-related: [[The Real Estate President and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] · [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]]
 
 ---
 
@@ -393,7 +390,6 @@ The dual crises — antitrust liability and sexual harassment — are not coinci
 - [Duke University: Predatory Lending — Brian Montgomery History](https://predatorylending.duke.edu/histories/brian-montgomery/) (Tier 3)
 - [Politico: Brian Montgomery Senate Confirmation](https://www.politico.com/story/2018/05/23/brian-montgomery-hud-senate-confirmation-559178) (Tier 2) (UNVERIFIED)
 
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

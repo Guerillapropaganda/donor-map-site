@@ -33,12 +33,9 @@ ein: "813552287"
 nonprofit-status: "501(c)(3)"
 lobbying-spend: 1859712
 lobbying-filings: 106
-related: "[[The Grift Machine - How Trump Monetized the Presidency]]"
+related: "[[The Grift Machine - How Trump Monetized the Presidency]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Steve Witkoff Master Profile|Steve Witkoff]] · [[Fairshake PAC]] · [[Trump Crypto - The President as Personal Profiteer]]"
 ---
-
 #world-liberty-financial #wlfi #crypto #trump #emoluments #stablecoin #uae #self-dealing #foreign-interference #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Steve Witkoff Master Profile|Steve Witkoff]] · [[Fairshake PAC]] · [[Trump Crypto - The President as Personal Profiteer]]
 
 ---
 
@@ -177,8 +174,6 @@ Pattern flags: **Donor-Class Override** (foreign government payment directly pur
 - [Wikipedia: World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

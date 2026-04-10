@@ -7,12 +7,10 @@ source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
 known-gaps:
   - "No mapped relationships"
+related: "[[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donald-trump #trade #tariffs #donors #backers #steel #aluminum #nucor #manufacturing #farm-bureau #follow-the-money #research-node
 
-related: [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[_Donald Trump Master Profile]]
 donors: [[Nucor Corporation]] · [[American Iron and Steel Institute]] · [[American Farm Bureau Federation]]
 
 ---

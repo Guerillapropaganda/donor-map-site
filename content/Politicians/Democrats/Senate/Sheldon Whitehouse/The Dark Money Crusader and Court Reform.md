@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Sheldon Whitehouse Master Profile]]"
+related: "[[_Sheldon Whitehouse Master Profile]] · [[Leonard Leo]] · [[Federalist Society]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]]"
 ---
-
 #whitehouse #dark-money #court-reform #climate #federalist-society #judiciary
-
-related: [[_Sheldon Whitehouse Master Profile]] [[Leonard Leo]] [[Federalist Society]] [[Judicial Crisis Network]] [[Koch Network - Charles Koch]] [[DonorsTrust]]
 
 donors: [[Silicon Valley Democratic Donor Network]] [[Demand Justice]]
 
@@ -56,4 +54,3 @@ Whitehouse's dark money crusade faces a credibility challenge: Democratic dark m
 - [Washington Post: Supreme Court critic Whitehouse gets his day](https://www.washingtonpost.com/politics/2023/07/20/supreme-court-critic-whitehouse-gets-his-day/) (Tier 2)
 - [Ballotpedia: Sheldon Whitehouse](https://ballotpedia.org/Sheldon_Whitehouse) (Tier 3)
 
-content-readiness:: ready

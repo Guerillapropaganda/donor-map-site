@@ -70,12 +70,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]]"
+related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]] · [[_Gerry Connolly Master Profile|Connolly]]"
 ---
-
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor
-
-related: [[Lockheed Martin]] [[Northrop Grumman]] [[L3Harris Technologies]] [[_Gerry Connolly Master Profile|Connolly]]
 
 ---
 
@@ -112,8 +109,6 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 
 - [OpenSecrets: Booz Allen Hamilton organizational profile](https://www.opensecrets.org/orgs/booz-allen-hamilton/summary?id=D000036824) (Tier 1)
 - [Ballotpedia: Booz Allen Hamilton](https://ballotpedia.org/Booz_Allen_Hamilton) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

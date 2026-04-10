@@ -25,7 +25,7 @@ tax-year: "2023"
 federal-awards-total: 0
 federal-contracts-count: 10
 federal-grants-count: 0
-related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Veterans Affairs and Iowa Agriculture]] · [[John Kennedy Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[WSPA - Western States Petroleum Association]] · [[Chevron]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Agriculture-Appropriations Pipeline and Arkansas Defense]] · [[The Foreign Relations Committee and Idaho Energy]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[Kevin McCarthy Master Profile]] · [[Cathy McMorris Rodgers Master Profile]]"
+related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Veterans Affairs and Iowa Agriculture]] · [[John Kennedy Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[WSPA - Western States Petroleum Association]] · [[Chevron]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Agriculture-Appropriations Pipeline and Arkansas Defense]] · [[The Foreign Relations Committee and Idaho Energy]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[Kevin McCarthy Master Profile]] · [[Cathy McMorris Rodgers Master Profile]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[Fossil Fuel Bloc]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[US Chamber of Commerce]] · [[Federalist Society]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Freedom Caucus]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
 nonprofit-status: "501(c)(9)"
 last-enriched: "2026-04-09"
 total-revenue: 212200
@@ -43,10 +43,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #koch-industries #energy #oil-gas #refining #lobbying #dark-money #deregulation #epa #climate #labor #class-analysis #follow-the-money #tcja #clean-power-plan
-
-related: [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[Fossil Fuel Bloc]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[US Chamber of Commerce]] · [[Federalist Society]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Freedom Caucus]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -681,8 +678,6 @@ What distinguishes Koch Industries from other corporate political actors is the 
 - [Wikipedia: KochPAC](https://en.wikipedia.org/wiki/KochPAC) (Tier 3)
 
 ---
-
-research-status:: developed → ready (2026-04-01) — Merged: KochPAC complete cycle-by-cycle history (1999-2024, 13 cycles), partisan collapse tracking (24% D in 2000 → 0% D in 2024), top recipient tables with historical context (Pompeo, Sullivan, Cassidy, others), complete lobbying year-by-year (1998-2025 Q1, 27 years), peak analysis (2008 cap-and-trade peak $17.93M), subsidy-specific spending breakdown (Koch Industries direct $26.5M peak, Koch Cos Public Sector $27.5M, Georgia-Pacific $2.6M, Flint Hills $4.1M), six core lobbying domains with specific bills/filings (EPA regulation, climate policy, energy deregulation, tax policy, labor law, financial regulation), Senate LDA-2 citations, lobbying firm retention table (10 active firms, cap-and-trade partners), lobbyist headcount and revolving door analysis (58-87% over 20 years), named current lobbyists (Haggett 20y, Henneberry 19y, Lawrence 3y), revolving door hires table (Nickles, Zerzan, Schlapp, Tiahrt). Sources: 20 new URLs (10 Tier 1 API/government, 9 Tier 2 investigations, 1 Tier 3 Wikipedia) all marked UNVERIFIED. Temporal mapping expanded (11→11 entries, consistent). Added 7 callout blocks (> [!money], > [!contradiction]). File now 1450+
 
 ---
 

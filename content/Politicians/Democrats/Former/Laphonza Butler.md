@@ -11,12 +11,10 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[EMILY's List]] · [[_Kamala Harris Master Profile]] · [[Adam Schiff]]"
 ---
-
 #laphonza-butler #senator #california #labor #appointed #seiu #emily-list #class-analysis #democrat
 tags: #democrat
-
-related: [[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[EMILY's List]] · [[_Kamala Harris Master Profile]] · California Senate Race 2024 · [[Adam Schiff]]
 
 donors: [[SEIU - Service Employees International Union]] · [[EMILY's List]] · Labor-Aligned Donors · Democratic Establishment
 

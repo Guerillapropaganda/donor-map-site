@@ -13,7 +13,6 @@ donors: "[[Peter Thiel]]"
 
 #media-profile #centrist #data-journalist #substack #polymarket #prediction-markets #quantitative-centrism #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -170,4 +169,3 @@ Nate Silver represents **quantitative centrism as class function** — the mecha
 
 ---
 
-content-readiness:: ready

@@ -40,7 +40,6 @@ fara-countries:
 
 #lobbying #k-street #defense #foreign-policy #energy #healthcare #bipartisan #republican-establishment #dictators
 
-
 ---
 
 ### Who They Are
@@ -267,8 +266,6 @@ The WPP ownership structure serves a specific function: it insulates the firm fr
 - [The Hill: No Labels abandons 2024 presidential effort (April 2024)](https://thehill.com/homenews/campaign/4575052-no-labels-party-passes-2024-election-candidate/) (Tier 2)
 - [Axios: No Labels cancels plans for 2024 third-party ticket](https://www.axios.com/2024/04/04/no-labels-2024-presidential-campaign-cancelled) (Tier 2)
 - [ACCF: Former Congressman Tom Reed (R-NY) Joins ACCF Board of Advisors](https://accf.org/former-congressman-tom-reed-r-ny-joins-accf-board-of-advisors/) (Tier 3)
-
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

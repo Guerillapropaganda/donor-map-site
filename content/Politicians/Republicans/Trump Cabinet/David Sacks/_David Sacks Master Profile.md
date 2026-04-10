@@ -19,15 +19,11 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]]"
 ---
-
-
 #david-sacks #paypal-mafia #ai-czar #crypto-czar #trump-admin #class-analysis #follow-the-money #silicon-valley #venture-capital #deregulation #conflicts-of-interest #craft-ventures
 
-related: [[_Donald Trump Master Profile]] | [[Peter Thiel]] | [[Elon Musk]] | [[_JD Vance Master Profile]] | [[Crypto Industry Bloc]]
 donors: [[Elon Musk]] · [[Peter Thiel]] · [[Craft Ventures]]
-
-profile-status:: ready
 
 ---
 ---
@@ -103,7 +99,6 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 >
 > **$20M inaugural fund → Biden AI EO revoked on Day 30:** The tech industry's inaugural fund investment (Sacks coordinates $20M+) → Biden's AI safety executive order revoked within 30 days. The order required safety testing for the largest AI models. Its removal directly benefits the companies whose founders donated to the inaugural fund.
 
-
 ## Rhetorical Signature Moves
 
 1. **"Let the private sector cook":** Full deregulation as neutral technical principle. The function: positions removing oversight from his own portfolio companies as common-sense innovation policy. Regulatory capture reframed as growth strategy.
@@ -141,9 +136,6 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 - [AIP.org: PCAST Members Announced](https://www.aip.org/fyi/white-house-announces-pcast-members) (Tier 1)
 - [Business Insider: VP Lobbying — Sacks, Musk, Carlson](https://www.businessinsider.com/donald-trump-jd-vance-elon-musk-tucker-carlson-david-sacks-2024-7) (Tier 2)
 - [Seattle Times: Tech Billionaires Helped Vance Leap Into Power](https://www.seattletimes.com/business/how-a-network-of-tech-billionaires-helped-jd-vance-leap-into-power/) (Tier 2) (UNVERIFIED)
-research-status:: developed — Research expansion added April 2026. New data: PayPal Mafia biographical details (South Africa origins, Stanford timeline), Craft Ventures portfolio metrics ($350M fund, 326 investments, 40 exits), PCAST appointments (Huang, Zuckerberg, Friedberg, Ehrsam), detailed ethics waivers ($200M+ divestments, Palantir/Nvidia/defense conflicts), 130-day SGE exhaustion, March 26, 2026 transition to PCAST co-chair. Added 8 new sources — all marked UNVERIFIED pending Chrome verification.
-content-readiness:: developed
- 
 
 ## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

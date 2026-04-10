@@ -10,13 +10,11 @@ issues:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[American Gaming Association]] · [[SV&B PAC]] · [[Sports Betting Alliance]]"
 ---
-
 #investigation #gambling #sports-betting #state-legislature #dark-money #regulatory-capture
 
 tags: #analysis #story
-
-related: [[American Gaming Association]] State Legislature Capture Gambling Addiction [[SV&B PAC]] [[Sports Betting Alliance]]
 
 donors: [[SV&B PAC]] [[Sports Betting Alliance]] [[American Gaming Association]]
 
@@ -142,4 +140,3 @@ The legalization-for-profit model generates enormous social cost while concentra
 - [NPR: The Story Behind the Sports Betting Boom](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (Tier 2)
 - [National Council on Problem Gambling: Prevalence Data](https://ncpg.org/research/) (Tier 2)
 
-content-readiness:: ready

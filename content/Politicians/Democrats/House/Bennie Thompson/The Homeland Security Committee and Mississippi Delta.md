@@ -5,16 +5,13 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Bennie Thompson Master Profile]]"
-related: "[[The Oversight Committee and Federal Workforce]] · [[The Armed Services Committee and Progressive Defense Paradox]]"
+related: "[[The Oversight Committee and Federal Workforce]] · [[The Armed Services Committee and Progressive Defense Paradox]] · [[_Bennie Thompson Master Profile]] · [[_Jamie Raskin Master Profile|Raskin]]"
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 ---
-
 #thompson #mississippi #homeland-security #january6 #defense #delta #poverty
-
-related: [[_Bennie Thompson Master Profile]] [[_Jamie Raskin Master Profile|Raskin]]
 
 donors: [[Lockheed Martin]] [[Northrop Grumman]]
 

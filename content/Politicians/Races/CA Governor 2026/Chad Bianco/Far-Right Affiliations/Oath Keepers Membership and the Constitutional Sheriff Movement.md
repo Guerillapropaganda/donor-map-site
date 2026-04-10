@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]"
+related: "[[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]] · [[_Chad Bianco Master Profile]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[COVID Mandate Refusal - The Brand-Building Moment]] · [[RSA - The Single-Patron Sheriff]]"
 ---
-
-
 #bianco #oath-keepers #far-right #militia #constitutional-sheriff #class-analysis #follow-the-money #extremism #posse-comitatus #january-6
 
-related: [[_Chad Bianco Master Profile]] | [[CSPOA - The Anti-Government Sheriff Network]] | [[COVID Mandate Refusal - The Brand-Building Moment]] | [[RSA - The Single-Patron Sheriff]]
 donors: [[Riverside Sheriffs Association|Riverside Sheriffs' Association]]
 
 ---
@@ -112,8 +109,6 @@ Bianco is the most prominent California example. He is also the one running for 
 - [ADL — Oath Keepers backgrounder](https://www.adl.org/resources/backgrounder/oath-keepers) (Tier 2)
 - [GW Program on Extremism — Oath Keepers](https://extremism.gwu.edu/oath-keepers) (Tier 1)
 - [PBS — Rhodes sentencing](https://www.pbs.org/newshour/politics/oath-keepers-founder-sentenced-to-18-years-for-seditious-conspiracy-in-jan-6-capitol-attack) (Tier 2)
-
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

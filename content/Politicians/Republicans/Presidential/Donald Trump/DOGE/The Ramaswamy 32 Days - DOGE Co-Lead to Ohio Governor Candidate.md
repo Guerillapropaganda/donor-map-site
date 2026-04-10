@@ -10,12 +10,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]]"
 ---
-
-
 #donald-trump #doge #vivek-ramaswamy #class-analysis #follow-the-money #tech #h1b #ohio #grift
 
-related: [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]]
 donors: [[Elon Musk]]
 
 content-readiness:: ready

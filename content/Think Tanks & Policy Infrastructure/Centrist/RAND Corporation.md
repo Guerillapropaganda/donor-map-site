@@ -17,7 +17,6 @@ total-assets: 743919280
 
 #think-tank #centrist #defense #national-security #FFRDC #government-contracts #revolving-door #AI-policy #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -224,8 +223,6 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 - [Wikipedia: RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) (Tier 3)
 - [RAND: Matthew Pottinger and Stefanie Tompkins Elected to Board](https://www.rand.org/news/press/2025/03/matthew-pottinger-and-stefanie-tompkins-elected-to.html) (Tier 3)
 - [Surf Santa Monica: RAND Lays Off Nearly One-Third of Remaining Workforce](https://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2025/October-2025/10_24_2025_RAND_Lays_Off_Nearly_One_Third_of_Remaining_Workforce.html) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

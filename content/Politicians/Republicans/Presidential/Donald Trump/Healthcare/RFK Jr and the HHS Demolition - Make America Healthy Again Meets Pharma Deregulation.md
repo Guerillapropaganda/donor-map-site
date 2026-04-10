@@ -5,12 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Donald Trump Master Profile]]
+related: "[[Healthcare - Donors and Backers]] · [[The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]]"
 ---
-
-
 #donald-trump #healthcare #rfk-jr #hhs #maha #make-america-healthy-again #pharma #fda #cdc #vaccines #deregulation #follow-the-money
 
-related: [[Healthcare - Donors and Backers]] · [[The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]]
 donors: [[Pharmaceutical Industry|Pharma Industry]]
 
 ---
@@ -107,5 +105,3 @@ Kennedy remains HHS Secretary. February 2026 leadership shakeup: Deputy Secretar
 
 ---
 
-research-status:: ready — Full citation pass complete. RFK Jr. HHS confirmation (52-48), FDA 10,000 staff layoffs, CDC $500M mRNA cuts, measles crisis (2,281 cases 2025, 1,100+ in 2026), pharma contradiction (Mar-a-Lago dinners), MAHA brand vs. reality, class analysis. 27 sources Tier 1-3 with URLs. All ### headers. Promoted Session 38n.
-content-readiness:: ready

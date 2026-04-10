@@ -247,8 +247,6 @@ The long-term class consequence: Clinton's realignment of the Democratic Party t
 
 ---
 
-content-readiness:: developed
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

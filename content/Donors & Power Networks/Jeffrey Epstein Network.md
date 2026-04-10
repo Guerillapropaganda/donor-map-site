@@ -16,17 +16,13 @@ issues:
   - "Dark Money & Campaign Finance"
 lobbying-spend: 1699750
 lobbying-filings: 70
-related: "[[Les Wexner - Wexner Family Enterprises]]"
+related: "[[Les Wexner - Wexner Family Enterprises]] · [[Leonard Leo]] · [[Peter Thiel]] · [[Harlan Crow]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]]"
 court-cases: 1
 last-enriched: "2026-04-09"
 court-jurisdictions:
   - "District Court, S.D. New York"
 ---
-
-
 #epstein #wexner #dark-money #intelligence #class-analysis #follow-the-money
-
-related: [[Leonard Leo]] · [[Peter Thiel]] · [[Harlan Crow]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]]
 
 ---
 
@@ -139,8 +135,6 @@ This section documents categories of Epstein-related claims that exist in public
 - [Miami Herald: Julie K. Brown — "Perversion of Justice" series](https://www.miamiherald.com/topics/jeffrey-epstein) (Tier 2)
 - [ProPublica/On the Media: "We Don't Talk About Leonard" — Leonard Leo investigation](https://www.wnycstudios.org/podcasts/otm/projects/we-dont-talk-about-leonard) (Tier 2)
 - [OpenSecrets: Dark money reporting](https://www.opensecrets.org/dark-money) (Tier 1)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

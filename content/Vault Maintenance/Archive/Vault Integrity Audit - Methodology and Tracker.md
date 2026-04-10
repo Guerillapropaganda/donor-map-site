@@ -5,17 +5,14 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null
-related: "[[Methodology Compliance Audit - March 2026]]"
+related: "[[Methodology Compliance Audit - March 2026]] · [[Session Timeline]] · [[Research Methodology and Data Sources]] · [[Publish Roadmap - The Donor Map Database]]"
 source-types:
   - Congress
   - FEC
   - SEC
 corroboration-count: 3
 ---
-
 #vault-audit #methodology #integrity #quality-control
-
-related: [[Session Timeline]] [[Research Methodology and Data Sources]] [[Publish Roadmap - The Donor Map Database]]
 
 ---
 

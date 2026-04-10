@@ -24,7 +24,6 @@ lei-jurisdiction: "US-CO"
 
 #lobbying #k-street #energy #real-estate #cannabis #gaming #foreign-lobbying #defense #pharma #tech
 
-
 ---
 
 ### Who They Are
@@ -199,8 +198,6 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 - [Bloomberg Law: Lobby Giants Cash in on Trump Tax Bill as Brownstein Hits Record](https://news.bloomberglaw.com/business-and-practice/lobby-giants-cash-in-on-trump-tax-bill-as-brownstein-hits-record) (Tier 2)
 - [BHFS: Brownstein Lobbyists Recognized on The Hill's 2025 Top Lobbyists List](https://www.bhfs.com/news-event/brownstein-lobbyists-recognized-on-the-hills-2025-top-lobbyists-list/) (Tier 4)
 - [Washington Blade: Comings & Goings — David Reid joins Brownstein as Principal, Public Policy](https://www.washingtonblade.com/2026/02/07/david-reid-brownstein-hyatt-farber-schreck/) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

@@ -46,12 +46,9 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Chris Coons Master Profile|Chris Coons]]"
 ---
-
-
 #jeanne-shaheen #democrat #new-hampshire #senate #foreign-relations #armed-services #defense-contractors #bae-systems #nato #ukraine #class-analysis #follow-the-money
-
-related: [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Chris Coons Master Profile|Chris Coons]]
 
 donors: [[BAE Systems]] · [[Raytheon]] · [[Northrop Grumman]] · Sierra Nevada Corporation · [[Honeywell]] · [[Defense Industry]]
 

@@ -32,15 +32,11 @@ ein: 208802884
 annual-revenue: "$60.7M"
 net-assets: "$23.2M"
 tax-year: "2023"
-related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]]"
+related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]] · [[Michael Bloomberg]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]]"
 lobbying-spend: 5215000
 lobbying-filings: 42
 ---
-
-
 #donor #gun-control #bloomberg #class-analysis #follow-the-money #everytown #moms-demand-action #national #california
-
-related: [[Michael Bloomberg]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]]
 
 ---
 
@@ -103,9 +99,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 - [OpenSecrets — Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 1)
 - [FactCheck.org — Everytown vs. NRA spending comparison](https://www.factcheck.org/2024/01/americans-for-prosperity-7/) (Tier 2)
 - [Giffords Law Center — state gun law tracker](https://giffords.org/lawcenter/gun-laws/) (Tier 2)
-
-research-status:: ready — Bloomberg $270M+ lifetime, $45M 2024 cycle, NRA outspent, Bipartisan Safer Communities Act, "good billionaire" class analysis. 4 sources, Tier 1-2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ---
 

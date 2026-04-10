@@ -14,7 +14,7 @@ issues:
   - "Infrastructure"
 lobbying-spend: 10479974
 lobbying-filings: 106
-related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[VP Labor Record - What Unions Got and Didn't Get]]"
+related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -29,11 +29,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
-
 #donor #union #building-trades #california #labor #class-analysis #follow-the-money #prevailing-wage #PLA #infrastructure #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #apprenticeship
-
-related: [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]]
 
 ---
 
@@ -110,9 +106,6 @@ The result: building trades end up allied with developers on approving projects 
 - [Governor's Office: SB 984 veto message](https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-984-Veto-Message.pdf) (Tier 1)
 - [Bureau of Labor Statistics: Union membership in California 2024](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1)
 - [Bureau of Labor Statistics: California construction union density](https://www.constructionowners.com/news/california-construction-union-rates-hit-record-low) (Tier 1)
-
-research-status:: ready — 500K members, 14 crafts, 157 affiliated unions, SB 984 veto analysis, prevailing wage/PLA dual fight, apprenticeship pipeline, regional density mapping, class analysis of developer-labor tension. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ---
 

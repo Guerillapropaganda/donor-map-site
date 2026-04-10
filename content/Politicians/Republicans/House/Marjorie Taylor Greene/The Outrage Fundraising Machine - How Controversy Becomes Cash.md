@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Marjorie Taylor Greene Master Profile]]
+related: "[[_Marjorie Taylor Greene Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]]"
 ---
-
-
 #mtg #outrage-fundraising #small-dollar #winred #actblue-comparison #controversy-cash #class-analysis #maga-fundraising
 
-related: [[_Marjorie Taylor Greene Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]]
-
 donors: [[MAGA Small Dollar Base]]
-
-content-readiness:: ready
 
 ---
 

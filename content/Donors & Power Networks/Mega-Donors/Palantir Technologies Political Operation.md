@@ -27,12 +27,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]]"
+related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Peter Thiel]] · [[Founders Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Defense Industry Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Lockheed Martin]]"
 ---
-
 #palantir #surveillance #thiel #defense #ice #data #government-contracts #revolving-door #ai #immigration
-
-related: [[Peter Thiel]] [[Founders Fund]] [[_Donald Trump Master Profile|Trump]] [[Defense Industry Bloc]] [[Koch Network - Charles Koch|Koch Network]] [[Lockheed Martin]]
 
 ---
 
@@ -147,8 +144,6 @@ The Thiel network's political architecture — from Palantir's founding with CIA
 - [ACLU: All the Ways Palantir is Assisting Trump's Abusive Removal Campaign](https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup) (Tier 2) (Chrome)
 - [Revolving Door Project: Oligarchs and the Trump Admin — Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 2) (Chrome)
 - [Ballotpedia: Peter Thiel](https://ballotpedia.org/Peter_Thiel) (Tier 3)
-
-content-readiness:: developed
 
 ---
 

@@ -12,13 +12,11 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[GEO Group]] · [[CoreCivic]] · [[Immigration Enforcement - The Detention Economy|Immigration Enforcement]]"
 ---
-
 #investigation #private-prison #immigration #geo-group #corecivic #ice #detention #deportation
 
 tags: #analysis #story
-
-related: [[GEO Group]] [[CoreCivic]] ICE Contracts [[Immigration Enforcement - The Detention Economy|Immigration Enforcement]] Mass Deportation
 
 donors: [[GEO Group]] [[CoreCivic]]
 
@@ -126,4 +124,3 @@ This is the human cost of the pipeline. The financial incentive to maximize dete
 - [The Nation: Immigration Detention Industry Profits](https://thenation.com/article/detention-profits/) (Tier 2)
 - [American Civil Liberties Union: Private Prison Conditions Report](https://www.aclu.org/issues/immigrants-rights/immigrants-rights-and-detention/privatized-immigration-detention) (Tier 2)
 
-content-readiness:: ready

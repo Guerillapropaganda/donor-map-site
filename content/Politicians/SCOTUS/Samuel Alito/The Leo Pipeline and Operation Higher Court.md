@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Samuel Alito Master Profile]]
+related: "[[_Samuel Alito Master Profile]] · [[Leonard Leo]]"
 ---
-
-
 #samuel-alito #leonard-leo #federalist-society #operation-higher-court #hobby-lobby #rob-schenck #gayle-wright #class-analysis #follow-the-money
 
-related: [[_Samuel Alito Master Profile]] · [[Leonard Leo]]
-
 donors: [[Leonard Leo]], [[Koch Network - Charles Koch|Charles Koch]], [[Rebekah Mercer]]
-
-content-readiness:: ready
 
 ---
 

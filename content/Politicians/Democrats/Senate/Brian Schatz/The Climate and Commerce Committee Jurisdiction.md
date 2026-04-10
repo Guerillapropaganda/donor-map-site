@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Brian Schatz Master Profile]] · [[_Ed Markey Master Profile|Markey]] · [[_Sheldon Whitehouse Master Profile|Whitehouse]] · [[Google - Alphabet]]"
 ---
-
 #schatz #hawaii #climate #commerce #tech #tourism #military
-
-related: [[_Brian Schatz Master Profile]] [[_Ed Markey Master Profile|Markey]] [[_Sheldon Whitehouse Master Profile|Whitehouse]] [[Google - Alphabet]]
 
 donors: [[Google - Alphabet]] [[Microsoft]]
 

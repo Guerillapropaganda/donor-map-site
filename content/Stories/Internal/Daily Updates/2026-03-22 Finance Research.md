@@ -167,4 +167,3 @@ March Monthly FEC reports were due March 20, 2026 for PACs on monthly filing sch
 - [Texas Tribune: Cornyn and Paxton prepare for runoff](https://www.texastribune.org/2026/03/04/texas-senate-republican-primary-john-cornyn-ken-paxton-donald-trump/) (Tier 2)
 - [House Oversight: Comer Continues to Investigate Dark Money](https://oversight.house.gov/release/comer-continues-to-investigate-dark-money-groups-efforts-to-evade-campaign-finance-laws/) (Tier 1)
 - [FEC.gov: March Monthly Report Notice 2026](https://www.fec.gov/help-candidates-and-committees/dates-and-deadlines/2026-reporting-dates/march-monthly-report-notice-monthly-filing-pacs-and-parties-2026/) (Tier 1)
-content-readiness:: ready

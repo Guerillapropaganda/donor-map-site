@@ -11,7 +11,7 @@ court-cases: 2
 last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, S.D. New York"
-related: "[[Fanjul Family - Florida Crystals]]"
+related: "[[Fanjul Family - Florida Crystals]] · [[Marco Rubio]]"
 ein: "933113620"
 nonprofit-status: "501(c)(3)"
 source-types:
@@ -19,10 +19,7 @@ source-types:
   - FEC
 corroboration-count: 2
 ---
-
 #pac #leadership-pac #republican #rubio #trump #class-analysis #follow-the-money
-
-related: [[Marco Rubio]]
 
 ---
 

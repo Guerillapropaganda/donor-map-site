@@ -13,16 +13,11 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Joe Manchin Master Profile]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #manchin #sinema #donor-capture #class-analysis #senate #50-50 #carried-interest #fossil-fuel #pharma #filibuster
 
-related: [[_Joe Manchin Master Profile]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
-
 donors: [[Fossil Fuel Bloc]], [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 

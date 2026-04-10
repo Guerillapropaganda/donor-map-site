@@ -32,11 +32,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[_Jared Kushner Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Pro-Israel Donor Network Deep Dive]] · [[_JD Vance Master Profile]]"
 ---
-
 #master-profile #netanyahu #israel #prime-minister #likud #class-analysis #follow-the-money #settlements #adelson #corruption #aipac #surveillance #defense-industry #international
-
-related: [[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[_Jared Kushner Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Pro-Israel Donor Network Deep Dive]] · [[_JD Vance Master Profile]]
 
 donors: [[Miriam Adelson]], [[Haim Saban]], [[AIPAC - American Israel Public Affairs Committee]]
 

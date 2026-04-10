@@ -5,15 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Hakeem Jeffries Master Profile]]
-related: "[[The Corporate Democrat Leadership Model - From Pelosi to Jeffries]]"
+related: "[[The Corporate Democrat Leadership Model - From Pelosi to Jeffries]] · [[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]]"
 source-types:
   - FEC
 ---
-
-
 #hakeem-jeffries #real-estate #brooklyn #gentrification #donor-class #new-york #class-analysis
-
-related: [[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]]
 
 donors: [[Real Estate Industry]]
 

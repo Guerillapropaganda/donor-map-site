@@ -23,7 +23,7 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]]"
+related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]] · [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]]"
 total-political-spend: "$114,701"
 politicians-funded:
   - "Chuck Schumer"
@@ -35,10 +35,7 @@ politicians-funded:
   - "Cory Booker"
 
 ---
-
 #zuckerberg #meta #facebook #tech #mega-donor #trump-realignment #lobbying #antitrust #ai #section-230
-
-related: [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]]
 
 ---
 
@@ -189,9 +186,6 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 ### Secondary (Tier 3):
 - [Ballotpedia: CTCL grants to election agencies, 2020](https://ballotpedia.org/Center_for_Tech_and_Civic_Life's_(CTCL)_grants_to_election_agencies,_2020) (Tier 3)
 - [Ballotpedia: END ZUCKERBUCKS Act and state-level legislation](https://ballotpedia.org/) (Tier 3)
-
-research-status:: developed → expanded (April 1, 2026). Added/expanded: (1) CZI section with corrected $419.5M total (not $400M), state trifecta breakdown, anti-Zuckerbucks legislation (28 states, END ZUCKERBUCKS Act, House hearing), CZI political retreat; (2) 2025-2026 realignment section (no 2024 presidential donation, August 2024 letter, Trump "badass" comment, Nov 2024 Mar-a-Lago meeting, March 2026 PCAST appointment); (3) Expanded Revolving Door section with 8 named individuals (Kaplan, Clegg, Levine, Martin, White, Powell McCormick, Harbath, Dearborn) plus Kaplan effect detail (100x lobbying increase post-2011) and new Sheryl Sandberg subsection (~$2M lifetime Democratic donations, $416K Clinton PAC, Emily's List, Soros research November 2018); (4) Updated Donation-to-Policy Timeline with corrected $419.5M CTCL, PCAST appointment, Boasberg FTC ruling details; (5) Updated sources with 8 UNVERIFIED URLs (CNN Warren, Politico, WaPo, Intercept on Soros, Ballotpedia).
-content-readiness:: developed
 
 ---
 

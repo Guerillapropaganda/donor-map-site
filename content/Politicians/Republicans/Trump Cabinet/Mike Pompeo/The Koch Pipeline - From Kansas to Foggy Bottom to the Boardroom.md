@@ -5,11 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Mike Pompeo Master Profile]]
+related: "[[_Mike Pompeo Master Profile]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
 #mike-pompeo #koch-network #kansas #revolving-door #cia #secretary-of-state #defense-contractors #follow-the-money #class-analysis #wichita #fossil-fuels #iran #khashoggi
 
-related: [[_Mike Pompeo Master Profile]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 donors: [[Koch Network - Charles Koch]]
 
 ---
@@ -112,4 +111,3 @@ The post-government career is the return on the Koch investment — not direct p
 - [Wikipedia: Mike Pompeo — full biography](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3)
 - [SourceWatch: Mike Pompeo — Koch connections](https://sourcewatch.org/index.php/Mike_Pompeo) (Tier 3)
 
-content-readiness:: ready

@@ -51,15 +51,12 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Housing and Urban Development Department"
   - "National Oceanic and Atmospheric Administration"
-related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Patty Murray]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Patty Murray]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[OpenAI]] · [[Palantir Technologies]]"
 federal-awards-total: 470321891
 federal-contracts-count: 25
 federal-grants-count: 0
 ---
-
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense
-
-related: [[Google - Alphabet]] [[Amazon]] [[Apple]] [[OpenAI]] [[Palantir Technologies]]
 
 ---
 
@@ -118,8 +115,6 @@ Microsoft represents the corporate capture of government technology infrastructu
 - [Washington Post: How Microsoft earned lawmakers trust in Silicon Valley battles](https://www.washingtonpost.com/technology/2022/01/19/microsoft-antitrust-lobbying-washington-reputation/) (Tier 2)
 - [The Verge: Microsoft Activision acquisition and antitrust fight](https://www.theverge.com/microsoft-activision-acquisition/) (Tier 2)
 - [Ballotpedia: Microsoft political spending](https://ballotpedia.org/Microsoft) (Tier 3)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

@@ -38,16 +38,11 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[_Katie Porter Master Profile]] · [[The CFPB and the Limits of Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The 2020 Campaign and the Donor Class Consolidation]]"
 ---
-
-
 #politician #democrat #senate #massachusetts #2026-election #cfpb #wall-street #consumer-protection #class-analysis #financial-regulation #small-dollar
 
-related: [[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · Consumer Financial Protection Bureau · Dodd-Frank Reform · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[_Katie Porter Master Profile]] · [[The CFPB and the Limits of Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The 2020 Campaign and the Donor Class Consolidation]]
-
 donors: [[ActBlue]] · [[EMILY's List|Emily's List]] · Education/Academia sector · Law and Legal Services sector
-
-profile-status:: ready
 
 ---
 ---
@@ -334,7 +329,6 @@ Warren's small-dollar base has remained remarkably consistent in profile and siz
 office:: U.S. Senator
 state:: Massachusetts
 party:: Democrat
-profile-status:: ready — CFPB creation and destruction arc documented, small-dollar funding model analyzed ($9.04M/96% individual), Fairshake opposition ($195M+, Porter destroyed), M4A retreat, four analytical patterns applied, donor base consistency table (2012-2024), class analysis as "exception that proves the rule." All ### headers, Tier 1 sources (OpenSecrets, FEC, CFPB, Congress.g
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

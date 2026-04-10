@@ -13,7 +13,7 @@ politicians-funded:
   - "Maria Elvira Salazar"
   - "Carlos Gimenez"
   - "Debbie Wasserman Schultz"
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]]"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Debbie Wasserman Schultz Master Profile|Wasserman Schultz]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]]"
 source-types:
   - LDA
 known-gaps:
@@ -22,10 +22,7 @@ known-gaps:
 lobbying-spend: 1832500
 lobbying-filings: 36
 ---
-
 #bacardi #cuba #embargo #trademark #rum #lobbying #helms-burton #class-analysis #follow-the-money
-
-related:: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Debbie Wasserman Schultz Master Profile|Wasserman Schultz]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]]
 
 ---
 
@@ -122,10 +119,6 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 - The Drinks Business: "The Havana Club Dispute Rumbles On": https://www.thedrinksbusiness.com/2024/06/the-havana-club-dispute-rumbles-on/
 
 ---
-
-research-status:: completed
-
-content-readiness:: developed
 
 ---
 

@@ -42,7 +42,6 @@ fara-countries:
 
 #think-tank #centrist #bipartisan #energy #healthcare #housing #immigration #governance #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -246,8 +245,6 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 - [SourceWatch: National Commission on Energy Policy — BPC's energy industry origin](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/National_Commission_on_Energy_Policy) (Tier 3)
 - [Quincy Institute: Big Ideas and Big Money — Think Tank Funding in America (includes BPC analysis)](https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/) (Tier 2)
 - [Responsible Statecraft: Weapons makers, foreign states lavish $32 million on US think tanks (includes BPC data)](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

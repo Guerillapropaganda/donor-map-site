@@ -9,12 +9,10 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Nancy Pelosi Master Profile]] · [[Crypto Industry Bloc]]"
 ---
-
-
 #pelosi #stock-trading #class-analysis #follow-the-money #insider-trading #chips-act #nvidia #visa #wealth
 
-related: [[_Nancy Pelosi Master Profile]] · [[Crypto Industry Bloc]]
 donors: []
 
 ---

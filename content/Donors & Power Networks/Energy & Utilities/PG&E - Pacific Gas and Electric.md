@@ -14,7 +14,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 397265
 total-assets: 358665
-related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]]"
+related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Hawaiian Electric Company]]"
 lei: "R0KNQ1I1NAJLDR51ER82"
 lei-jurisdiction: "US-CA"
 federal-register-mentions: 5
@@ -24,10 +24,7 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Western Area Power Administration"
 ---
-
 #pge #pacific-gas-electric #california #utility #wildfire #camp-fire #monopoly #negligence
-
-related: [[_Gavin Newsom Master Profile|Gavin Newsom]] [[Hawaiian Electric Company]] Energy & Utilities Donor Bloc
 
 ---
 
@@ -53,8 +50,6 @@ PG&E represents the extreme case of utility political capture: a company that ha
 - [SEC: PG&E Corporation filings](https://www.sec.gov/cgi-bin/browse-edgar?company=PG%26E%20-%20Pacific%20Gas%20and%20Electric&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [OpenSecrets: PG&E political contributions](https://www.opensecrets.org/orgs/pg-e-corp/summary?id=D000000150) (Tier 1)
 - [Ballotpedia: California utility regulation](https://ballotpedia.org/PG&E_-_Pacific_Gas_and_Electric) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

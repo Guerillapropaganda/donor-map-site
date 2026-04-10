@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[The Education Committee and Labor Alignment]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Education - Donors and Backers]]"
+related: "[[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]] · [[Single-Payer Broken Promise]] · [[The Education Committee and Labor Alignment]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Education - Donors and Backers]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Corporate Subsidies and the Business Climate Argument]] · [[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Budget Priorities - What California Actually Funds]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #economic-policy #donors #backers #silicon-valley #tech-money #real-estate #california-chamber-of-commerce #class-analysis #follow-the-money #research-node
 
-related: [[Tax Policy - Who Pays and Who Doesnt]] | [[Corporate Subsidies and the Business Climate Argument]] | [[Inequality and Poverty - The Numbers Under the Rhetoric]] | [[Budget Priorities - What California Actually Funds]] | [[_Gavin Newsom Master Profile]]
 donors: [[SEIU - Service Employees International Union|SEIU]] | [[CTA - California Teachers Association]] | [[Blue Shield of California]] | [[Anthem - Elevance Health]] | [[UnitedHealth Group - Optum]] | [[PG&E - Pacific Gas and Electric]] | [[Chevron]] | [[WSPA - Western States Petroleum Association]] | [[Fossil Fuel Bloc]] | [[Kaiser Permanente]]
 
 ---

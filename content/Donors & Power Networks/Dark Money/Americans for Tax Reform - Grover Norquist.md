@@ -9,15 +9,12 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]]"
+related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[Club for Growth]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Industries]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #atr #norquist #tax-pledge #anti-tax #grover #lobbying #dark-money #republican
-
-related: [[Club for Growth]] [[Heritage Foundation]] [[ALEC - American Legislative Exchange Council]] [[Koch Industries]]
 
 ---
 

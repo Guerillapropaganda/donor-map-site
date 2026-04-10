@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Housing - Donors and Backers]]"
+related: "[[Housing - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Project 2025 - The Blueprint They Followed|Project 2025 - The Heritage Foundation Blueprint]]"
 ---
-
-
 #donald-trump #housing #hud #opportunity-zones #kushner #fair-housing #section-8 #homelessness #real-estate #ben-carson #scott-turner #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[Project 2025 - The Blueprint They Followed|Project 2025 - The Heritage Foundation Blueprint]]
-
 donors: [[National Association of Realtors]], [[Real Estate Roundtable]]
-
-content-readiness:: ready
 
 ---
 
@@ -117,4 +111,3 @@ The public housing operating fund would be cut $500 million. The capital fund cu
 - [Treasury Department. Use of Opportunity Zone Tax Incentive](https://home.treasury.gov/system/files/131/WP-123.pdf) (Tier 1)
 - [California Department of Justice. AG Bonta Lawsuit Against Trump HUD (September 2025)](https://oag.ca.gov/media/news) (Tier 1)
 
-research-status:: Opportunity Zone investment data from Treasury. Fair housing case data from ProPublica. NAR lobbying from OpenSecrets. Kushner OZ investments from NBC News and AP. Homelessness EO from Bipartisan Policy Center. Section 8 impact from CBPP. Budget cuts from NPR. Remaining. Individual real estate developer donors to Trump campaigns need FEC drill down.

@@ -24,12 +24,9 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 lei: "549300MB5G3G4YWX8732"
 lei-jurisdiction: "US-CA"
-related: "[[Silicon Valley Democratic Donor Network]]"
+related: "[[Silicon Valley Democratic Donor Network]] · [[_Kamala Harris Master Profile]] · [[Democratic Donor Network]] · [[Climate Philanthropy - The Green Billionaires]] · [[Education - Donors and Backers]] · [[Immigration - Donors and Backers]]"
 ---
-
 #donor-node #mega-donor #media #democrat #philanthropy #class-analysis #emerson-collective #the-atlantic #education-reform #immigration
-
-related: [[_Kamala Harris Master Profile]] · [[Democratic Donor Network]] · The Atlantic · XQ Institute · Emerson Collective · College Track · [[Climate Philanthropy - The Green Billionaires]] · [[Education - Donors and Backers]] · [[Immigration - Donors and Backers]]
 
 ---
 
@@ -155,9 +152,6 @@ Media Ownership and Donor Influence — The Atlantic, Axios funding, Gimlet Medi
 - [Washington Post — Laurene Powell Jobs' quest in education, immigration, media](https://www.washingtonpost.com/news/style/wp/2018/06/11/feature/the-quest-of-laurene-powell-jobs/) (Tier 2)
 
 ---
-
-research-status:: ready — Full citation pass complete. $16B net worth, Emerson Collective LLC structure, The Atlantic ownership, Harris $4.5M donor, XQ Institute $50M education, $3.5B climate pledge, immigration reform advocacy. 16 sources, Tier 1-2. All ### headers. Promoted Session 38k.
-content-readiness:: ready
 
 ---
 

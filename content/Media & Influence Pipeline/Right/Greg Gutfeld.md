@@ -12,7 +12,6 @@ related: "[[Fox Corp - Rupert Murdoch]] · [[Koch Network - Charles Koch]] · [[
 
 #media-pipeline #right #fox-news #late-night #comedy #pharma-ads #dominion
 
-
 ---
 
 ### Who They Are
@@ -129,4 +128,3 @@ The zero-FEC pattern is revealing: Gutfeld's political influence is entirely cha
 - [Ballotpedia: Greg Gutfeld](https://ballotpedia.org/Greg_Gutfeld) (Tier 3)
 - [FEC: Greg Gutfeld individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=GUTFELD%2C+GREG) (Tier 1)
 
-content-readiness:: ready

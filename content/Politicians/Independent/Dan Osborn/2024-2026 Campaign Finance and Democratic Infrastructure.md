@@ -5,12 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Dan Osborn Master Profile]]
+related: "[[_Dan Osborn Master Profile|Dan Osborn]] · [[Senate Majority PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
 ---
-
 #danosborn #campaign-finance #democratic-infrastructure #independent
 tags: #independent
-
-related: [[_Dan Osborn Master Profile|Dan Osborn]] [[Senate Majority PAC]] [[DSCC - Democratic Senatorial Campaign Committee]]
 
 donors: [[Senate Majority PAC]] [[DSCC - Democratic Senatorial Campaign Committee]] [[ActBlue]]
 
@@ -86,5 +84,3 @@ Working-class Nebraskans who donate to Osborn thinking they are funding a grassr
 
 ---
 
-research-status:: active
-content-readiness:: ready

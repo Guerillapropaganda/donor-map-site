@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Glenn Thompson Master Profile]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]]"
 ---
-
 #thompson #agriculture #farm-bill #snap #subsidies #pennsylvania #rural
-
-related: [[_Glenn Thompson Master Profile]] [[American Farm Bureau Federation]] [[National Cattlemen's Beef Association]]
 
 donors: [[American Farm Bureau Federation]] [[National Cattlemen's Beef Association]] [[Koch Network - Charles Koch]]
 

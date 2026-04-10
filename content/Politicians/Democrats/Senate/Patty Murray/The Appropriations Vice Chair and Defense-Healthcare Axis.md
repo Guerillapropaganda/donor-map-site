@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Patty Murray Master Profile]]"
+related: "[[_Patty Murray Master Profile]] · [[Boeing]] · [[_Tom Cole Master Profile|Tom Cole]] · [[Amazon]] · [[Microsoft]]"
 ---
-
 #murray #appropriations #defense #healthcare #boeing #washington-state #labor
-
-related: [[_Patty Murray Master Profile]] [[Boeing]] [[_Tom Cole Master Profile|Tom Cole]] [[Amazon]] [[Microsoft]]
 
 donors: [[Boeing]] [[Amazon]] [[Microsoft]] [[SEIU - Service Employees International Union]]
 
@@ -46,4 +44,3 @@ Murray's HELP Committee chairmanship produced the most progressive healthcare le
 - [Seattle Times: Murray, Boeing, and Washington defense economy](https://www.seattletimes.com/murray-boeing/) (Tier 2)
 - [Ballotpedia: Patty Murray](https://ballotpedia.org/Patty_Murray) (Tier 3)
 
-content-readiness:: ready

@@ -7,12 +7,9 @@ source-tier: 2
 parent: [[_Rick Scott Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Rick Scott Master Profile]] · [[_Mitch McConnell Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]]"
 ---
-
-
 #rick-scott #nrsc #mcconnell #2022-midterms #donor-management #class-analysis #follow-the-money
-
-related: [[_Rick Scott Master Profile]] · [[_Mitch McConnell Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]]
 
 donors: [[Senate Leadership Fund]] · NRSC - National Republican Senatorial Committee
 

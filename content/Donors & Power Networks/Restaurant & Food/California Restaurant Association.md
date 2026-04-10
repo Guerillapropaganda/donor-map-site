@@ -47,7 +47,7 @@ ein: 951241045
 annual-revenue: "$5.4M"
 net-assets: "$20.8M"
 tax-year: "2023"
-related: "[[UFCW - United Food and Commercial Workers]]"
+related: "[[UFCW - United Food and Commercial Workers]] · [[_Gavin Newsom Master Profile]] · [[FAST Act and the AB 1228 Deal]] · [[Labor - Donors and Backers]]"
 court-cases: 97
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
@@ -65,11 +65,7 @@ regulatory-agencies:
 lobbying-spend: 10579974
 lobbying-filings: 109
 ---
-
-
 #donor #restaurant-industry #labor-opponent #CRA #fast-food #minimum-wage #FAST-act #AB1228 #follow-the-money #california #lobbying
-
-related: [[_Gavin Newsom Master Profile]] | [[FAST Act and the AB 1228 Deal]] | [[Labor - Donors and Backers]]
 
 ---
 
@@ -157,9 +153,6 @@ Labor — FAST Act, AB 1228, fast food minimum wage, joint liability
 - [Governing: Fast food spent $4M to stop accountability bill](https://www.governing.com/policy/fast-food-spent-4m-to-stop-california-accountability-bill) (Tier 2)
 - [OpenSecrets: National Restaurant Association](https://www.opensecrets.org/orgs/national-restaurant-assn/summary?id=D000000150) (Tier 1)
 - [FPPC: CRA-PAC contribution records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-
-research-status:: ready — $71.7M referendum war chest, CRA Issues PAC $167K, AB 1228 deal mechanism, joint liability removal, referendum tactic template. 7 sources, Tier 1-2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ---
 

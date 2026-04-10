@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #left #drop-site #intercept #congressional-left #investigative #journalist
 
-
 ---
 
 ### Who They Are
@@ -93,4 +92,3 @@ The structural irony is precise: Grim built his reputation through campaign fina
 - [Washington Free Beacon: Exclusive—Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4)
 - [Ryan Grim — Wikipedia](https://en.wikipedia.org/wiki/Ryan_Grim) (Tier 2)
 
-content-readiness:: developed

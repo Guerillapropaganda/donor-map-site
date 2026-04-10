@@ -37,12 +37,11 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[North Carolina 2026 Senate Race]] · [[Roy Cooper Health Insurance Industry Funding]]"
 ---
-
 #politician #democrat #senate #north-carolina #2026-candidate
 tags: #democrat
 
-related:: [[North Carolina 2026 Senate Race]] [[Roy Cooper Health Insurance Industry Funding]] Medicaid Expansion vs. Industry Donations
 donors:: [[Blue Cross Blue Shield Association]] [[Anthem PAC]] [[Centene Corporation PAC]] CVS Health PAC [[UnitedHealth Group - Optum|UnitedHealth Group PAC]]
 ---
 

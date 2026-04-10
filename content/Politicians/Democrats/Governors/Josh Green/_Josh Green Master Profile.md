@@ -16,12 +16,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[UnitedHealth Group - Optum]] · [[Hawaiian Electric Company]]"
 ---
-
-
 #josh-green #governor #hawaii #healthcare #physician #maui-wildfire #tourism #class-analysis
-
-related: [[UnitedHealth Group - Optum]] · [[Hawaiian Electric Company]] · Hawaii Tourism Industry · Maui Disaster Response
 
 donors: Healthcare Industry Donors · Hawaii Tourism Industry · Labor Unions - HGEA · Hawaii Business Council
 
@@ -215,7 +212,6 @@ The material question: does the brand translate to policy challenging healthcare
 - [Maui Now: Gov. Green Renews Commitment with 450-unit Ka La'i Ola project](https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/) (Tier 2)
 
 content-readiness:: ready
- 
 
 ## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

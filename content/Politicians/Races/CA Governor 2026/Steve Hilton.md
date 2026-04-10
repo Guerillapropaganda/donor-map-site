@@ -11,11 +11,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Chad Bianco Master Profile|Chad Bianco]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
 #steve-hilton #republican #california #governor-2026 #conservative-media #fox-news #tech-money #deregulation
-
-related: [[_Chad Bianco Master Profile|Chad Bianco]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]
 
 donors: [[Koch Network - Charles Koch|Koch conservatives]] · Silicon Valley tech donors · Media & Entertainment · Defense & Intelligence sector
 

@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Lisa Murkowski Master Profile]]"
+related: "[[_Lisa Murkowski Master Profile]] · [[Chevron]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Fossil Fuel Bloc]]"
 ---
-
 #murkowski #energy #alaska #oil-gas #willow #tribal #moderate #pfd
-
-related: [[_Lisa Murkowski Master Profile]] [[Chevron]] [[ExxonMobil]] [[ConocoPhillips]] [[Fossil Fuel Bloc]]
 
 donors: [[Chevron]] [[ExxonMobil]] [[ConocoPhillips]] [[American Petroleum Institute]]
 
@@ -46,4 +44,3 @@ Murkowski's moderate Republican brand — she voted to convict Trump in his seco
 - [Bureau of Land Management: Willow Project environmental impact statement](https://web.archive.org/web/2023/https:/www.blm.gov/programs/planning-and-nepa/plans-in-development/alaska/willow-master-development-plan) (Tier 1)
 - [Ballotpedia: Lisa Murkowski](https://ballotpedia.org/Lisa_Murkowski) (Tier 3)
 
-content-readiness:: ready

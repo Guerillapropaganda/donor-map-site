@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Sources Master Node]] · [[Analytical Quality Audit - March 2026]]"
+related: "[[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Research Methodology and Data Sources]] · [[Session Timeline]]"
 source-types:
   - Congress
   - FEC
@@ -13,12 +13,9 @@ source-types:
   - USASpending
 corroboration-count: 4
 ---
-
 tags: #story
 
 #vault-maintenance #standards #reference #agent-instructions #analysis
-
-related: [[Research Methodology and Data Sources]] [[Session Timeline]]
 
 ---
 

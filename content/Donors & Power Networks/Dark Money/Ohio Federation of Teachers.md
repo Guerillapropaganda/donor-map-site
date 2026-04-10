@@ -15,14 +15,11 @@ subawards-received-amount: 1009778941592127500
 sec-filings: 1
 sec-form-types:
   - "424B3"
-related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]]"
+related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]] · [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]]"
 lobbying-spend: 2868540
 lobbying-filings: 96
 ---
-
 #ohio #teachers #union #labor #education #democratic #oft #aft #afl-cio #vouchers #public-education #collective-bargaining
-
-related: [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]]
 
 ---
 
@@ -140,8 +137,6 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 - [OFT: 2022 Endorsements](https://www.oft-aft.org/user/login?destination=/news/oft-votes-endorsements-and-voter-information-2022-election) (Tier 3)
 
 ---
-
-content-readiness:: developed
 
 ### Federal Subawards & Spending Breakdown
 

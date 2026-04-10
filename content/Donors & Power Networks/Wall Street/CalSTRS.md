@@ -21,11 +21,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+related: "[[CalPERS]] · [[National Education Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[CTA - California Teachers Association]] · [[Blackstone - Blackstone Group|Blackstone]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
 #calstrs #pension #california #teachers #wall-street #investment #education #private-equity #fossil-fuels
-
-related: [[CalPERS]] [[National Education Association]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[CTA - California Teachers Association]] [[Blackstone - Blackstone Group|Blackstone]] [[Koch Network - Charles Koch|Koch Network]]
 
 ---
 
@@ -117,8 +115,6 @@ The governance structure completes the capture. Gubernatorial appointees, electe
 - [CalMatters: Fossil fuel shares and California pension investment](https://calmatters.org/commentary/2024/04/fossil-fuel-company-investment-calpers-pension/) (Tier 2)
 - [PPIC: Public Pensions in California — statewide pension fund analysis](https://www.ppic.org/publication/public-pensions-in-california/) (Tier 2)
 - [InfluenceWatch: California State Teachers' Retirement System — political connections and influence](https://www.influencewatch.org/government-agency/california-state-teachers-retirement-system/) (Tier 3)
-
-content-readiness:: developed
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

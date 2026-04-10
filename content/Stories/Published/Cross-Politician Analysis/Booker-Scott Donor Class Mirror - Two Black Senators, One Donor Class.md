@@ -10,17 +10,13 @@ issues:
   - "Healthcare"
   - "Israel & Foreign Policy"
   - "Criminal Justice"
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Cory Booker Master Profile]] · [[_Tim Scott Master Profile]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[PhRMA]]"
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 ---
-
-
 #booker #scott #both-sides #donor-class #wall-street #pharma #israel #opportunity-zones #criminal-justice #class-analysis #follow-the-money #race
-
-related: [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Cory Booker Master Profile]] · [[_Tim Scott Master Profile]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[PhRMA]]
 
 content-readiness:: draft
 

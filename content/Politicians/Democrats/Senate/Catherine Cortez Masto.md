@@ -29,12 +29,10 @@ doj-components:
 opposes: >-
   [[SENATE LEADERSHIP FUND]] · [[CLUB FOR GROWTH ACTION]] · [[FREEDOM PARTNERS
   ACTION FUND, INC.]] · [[NRSC]]
+related: "[[Miriam Adelson]] · [[Las Vegas Sands]] · [[EMILY's List]] · [[Adelson Family]]"
 ---
-
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat
 tags: #democrat
-
-related: [[Miriam Adelson]] · [[Las Vegas Sands]] · Culinary Workers Union · [[EMILY's List]] · [[Adelson Family]] · Nevada Gaming Industry
 
 donors: [[Las Vegas Sands]] · Caesars Entertainment · MGM Resorts · [[Adelson Family]] · [[EMILY's List]] · Gaming Industry Donors · [[SMP]]
 

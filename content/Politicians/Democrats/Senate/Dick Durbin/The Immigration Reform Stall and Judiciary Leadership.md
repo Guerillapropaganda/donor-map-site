@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Dick Durbin Master Profile]] · [[_Chuck Schumer Master Profile]]"
 ---
-
 #durbin #immigration #dream-act #judiciary #reform #daca #bipartisan
-
-related: [[_Dick Durbin Master Profile]] [[_Chuck Schumer Master Profile]]
 
 ---
 

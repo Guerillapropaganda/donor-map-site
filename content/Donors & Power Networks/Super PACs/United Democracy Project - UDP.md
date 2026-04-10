@@ -2,29 +2,39 @@
 title: "United Democracy Project - UDP"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
+fec-committee-id: C00799031
 politicians-funded:
+  - "George Latimer"
   - "Melissa Bean"
   - "Donna Miller"
-  - "Daniel Biss"
-  - "Alexandria Ocasio-Cortez"
+  - "Haley Stevens"
+  - "Sarah Elfreth"
+politicians-opposed:
+  - "Jamaal Bowman"
+  - "Cori Bush"
+  - "Summer Lee"
+  - "Donna Edwards"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] · [[Donna Miller Master Profile]] · [[Daniel Biss Master Profile]]"
+  - "Democratic Primary Intervention"
+source-types:
+  - FEC
+known-gaps:
+  - Only 1 Tier 1 source type (FEC). Need second Tier 1 type for verified promotion (e.g., Senate LDA if lobbying disclosures exist).
+  - No IRS 990 data (super PAC, not 501c4, so may not apply)
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] · [[_Donna Miller Master Profile]] · [[_Daniel Biss Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[2026 House Money Map]] · [[AIPAC Illinois Shell PAC Operation]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]"
 ---
-
 #donor #aipac #super-pac #israel-lobby #udp #dark-money
 
-related: [[AIPAC - American Israel Public Affairs Committee]] · [[2026 House Money Map]] · [[AIPAC Illinois Shell PAC Operation]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]
-
 ---
 
-### Who They Are
+## Who They Are
 
 United Democracy Project is the super PAC arm of [[AIPAC - American Israel Public Affairs Committee|AIPAC]] (American Israel Public Affairs Committee), created in 2022 to conduct independent expenditure campaigns separate from AIPAC's direct lobbying operations. [UNITED DEMOCRACY PROJECT - FEC.gov](https://www.fec.gov/data/committee/C00799031/) (Tier 1)
 
@@ -38,7 +48,7 @@ UDP is registered as a traditional super PAC, meaning it can accept unlimited co
 
 [United Democracy Project - PAC Profile • OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 2)
 
-### What They Want
+## What They Want
 
 UDP's stated mission is to support candidates who back pro-Israel policies and oppose candidates who criticize Israeli government actions or prioritize Palestinian rights.
 
@@ -50,7 +60,7 @@ Specifically, UDP works to:
 
 The 2024 Bowman-Latimer race demonstrated this clearly: UDP spent $14.9 million to defeat incumbent Jamaal Bowman, a Black pro-Palestinian activist, and elect George Latimer, a centrist. The message was explicit: pro-Palestine positions will be met with $10+ million opposition spending.
 
-### Who They Fund
+## Who They Fund
 
 | Politician | 2024 Spending | Policy Outcome | Notes |
 |-----------|---------------|----------------|-------|
@@ -65,7 +75,7 @@ The 2024 Bowman-Latimer race demonstrated this clearly: UDP spent $14.9 million 
 > [!money]
 > UDP spending in 2024: $37.9M in House independent expenditures ($12.4M supporting Democrats, $20M+ opposing Democrats). This pattern shows UDP uses the bulk of its House spending to eliminate progressive candidates, not elect new ones.
 
-### What They've Gotten
+## What They've Gotten
 
 **2024 Bowman-Latimer Race:** UDP's $14.9 million investment produced a clear win: incumbent Jamaal Bowman (a Black pro-Palestinian activist) was defeated in a primary, replaced by George Latimer (a centrist pro-Israel Democrat). The outcome sent a message to other progressive Democrats: AIPAC has $80+ million to deploy against primary challengers. [NY-16 2024: Bowman vs. Latimer - Ballotpedia](https://ballotpedia.org/New_York's_16th_Congressional_District_election,_2024) (Tier 3)
 
@@ -76,7 +86,7 @@ The 2024 Bowman-Latimer race demonstrated this clearly: UDP spent $14.9 million 
 > [!contradiction]
 > UDP frames itself as supporting "pro-democracy" candidates, but its actual function is to enforce donor-class orthodoxy on Israel policy. The contradiction is embedded in the name: "democracy" implies voter choice, but UDP spending ensures that pro-Palestine candidates cannot viably compete in Democratic primaries. The "project" is not democracy — it is donor control.
 
-### Cycle Record — 2022 and 2024 Primary Interventions
+## Cycle Record — 2022 and 2024 Primary Interventions
 
 UDP launched in January 2022 and immediately began intervening in Democratic primaries. Two-cycle track record:
 
@@ -109,7 +119,7 @@ The NY-16 race absorbed $14.6M combined. The MO-01 race absorbed ~$8.6M. Two pro
 
 ---
 
-### Who Funds UDP — The 2024 Top Donor List
+## Who Funds UDP — The 2024 Top Donor List
 
 Per [OpenSecrets UDP donor data](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/donors/2024) (Tier 2), 2023–2024 cycle individual contributions of $500K or more:
 
@@ -134,7 +144,7 @@ Per [OpenSecrets UDP donor data](https://www.opensecrets.org/political-action-co
 
 ---
 
-### 2024 UDP Spending Architecture
+## 2024 UDP Spending Architecture
 
 Per [OpenSecrets UDP 2024 expenditures](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/expenditures/2024) (Tier 2), the $59.5M spent in 2023–2024 broke down:
 
@@ -147,7 +157,7 @@ Per [OpenSecrets UDP 2024 expenditures](https://www.opensecrets.org/political-ac
 
 ---
 
-### Shell PAC Strategy — The 2026 Innovation
+## Shell PAC Strategy — The 2026 Innovation
 
 UDP's most significant innovation in 2026 is the shell PAC model: routing spending through organizations with innocuous names designed to obscure AIPAC's involvement.
 
@@ -162,7 +172,7 @@ These PACs spent $14.1M+ total with UDP funding hidden behind shell company stru
 
 If this model proves successful (early results suggest it has), expect UDP to replicate shell PACs in every major Democratic primary in 2026. The innovation allows AIPAC to spend massive sums while maintaining plausible deniability and avoiding the accountability that would accompany direct UDP involvement.
 
-### Class Analysis — What UDP Reveals About Donor Control
+## Class Analysis — What UDP Reveals About Donor Control
 
 UDP's structure and spending patterns demonstrate how the donor class maintains veto power over electoral outcomes.
 
@@ -174,7 +184,7 @@ UDP's structure and spending patterns demonstrate how the donor class maintains 
 
 The fundamental pattern: donor → UDP → shell PACs → primary outcomes. Voters believe they are choosing their representatives. The reality is that AIPAC is choosing them through spending mechanisms designed to obscure the donor's involvement.
 
-### Enemies / Opposition
+## Enemies / Opposition
 
 **Progressive Democrats:** Jamaal Bowman, [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]], Rashida Tlaib, and other pro-Palestine progressives oppose UDP spending and have called for campaign finance reform to limit super PAC influence.
 
@@ -187,25 +197,33 @@ The fundamental pattern: donor → UDP → shell PACs → primary outcomes. Vote
 
 **Campaign finance reformers:** Good Government organizations and reform advocates have criticized UDP's spending as undermining democratic choice and accountability.
 
-### Connected Policy Areas
+## Connected Policy Areas
 
 - Israel-Palestine policy
 - Campaign finance and disclosure
 - Democratic primary politics
 - Pro-Israel lobby influence
 
-### Sources
+## Sources
 
-- [UNITED DEMOCRACY PROJECT - FEC.gov](https://www.fec.gov/data/committee/C00799031/) (Tier 1)
-- [United Democracy Project - FactCheck.org](https://www.factcheck.org/2024/09/united-democracy-project-2/) (Tier 2)
-- [United Democracy Project • OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 2)
-- [AIPAC super PAC funded big-spending Illinois groups - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
-- ['Very Bad Sign for Democracy': AIPAC Has Spent Over $100 Million on 2024 Elections - Common Dreams](https://www.commondreams.org/news/aipac-100-million) (Tier 3)
+### Verified
+- [FEC: United Democracy Project committee page](https://www.fec.gov/data/committee/C00799031/) (Tier 1)
+- [FEC: UDP independent expenditures](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project) (Tier 1)
+- [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
+- [Axios: AIPAC notches first real 2026 primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean) (Tier 2)
+- [NBC News: New super PAC launches to counter AIPAC spending](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2)
+- [Semafor: The anti-AIPAC PAC talks about its 2026 strategy](https://www.semafor.com/article/03/11/2026/the-anti-aipac-pac-talks-about-its-2026-strategy) (Tier 2)
+- [The American Prospect: Pro-Palestine Super PAC war chest](https://prospect.org/2026/02/20/pro-palestine-super-pac-midterm-elections-aipac-israel-gaza/) (Tier 2)
+- [Sludge: All the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
+- [FactCheck.org: United Democracy Project](https://www.factcheck.org/2024/09/united-democracy-project-2/) (Tier 2)
+- [Americans for Non-Profit Transparency: AIPAC investigation](https://americansfortransparency.org/investigations/aipac) (Tier 2)
+- [Ballotpedia: NY-16 2024 election](https://ballotpedia.org/New_York's_16th_Congressional_District_election,_2024) (Tier 3)
+- [Common Dreams: AIPAC Over $100 Million on 2024 Elections](https://www.commondreams.org/news/aipac-100-million) (Tier 3)
 
----
-
-research-status:: ready — Full citation pass complete. $87.2M raised 2024, $96M cash on hand 2025, Bowman-Latimer $14.9M case study, 2026 Illinois shell PAC innovation, American Priorities counter-PAC documented. Session 38n addition: 2022 cycle record table (5/7 UDP-opposed Democrats lost), 2024 full targeted candidates table, top donor breakdown with party-history column (26% Republican donors), sub-PAC network ($8.55M to Standing Strong/314 Action/Blue Wave), spending architecture (54% media, $26.2M to Targeted Platform Media). All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j, augmented Session 38n.
-content-readiness:: ready
+### Archived
+- ~~[OpenSecrets: UDP PAC profile](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024)~~ (was Tier 2, OpenSecrets demoted, FEC committee page above covers same data)
+- ~~[OpenSecrets: UDP donor data](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/donors/2024)~~ (was Tier 2, donor data referenced inline, FEC source preferred)
+- ~~[OpenSecrets: UDP expenditures](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/expenditures/2024)~~ (was Tier 2, spending data referenced inline)
 
 ---
 

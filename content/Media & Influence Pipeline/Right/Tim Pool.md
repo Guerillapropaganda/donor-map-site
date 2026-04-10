@@ -12,7 +12,6 @@ related: "[[Dark Money Networks - The Shadow System|Dark Money]] · [[Koch Netwo
 
 #media-pipeline #right #tenet-media #russia #dark-money #audience-capture #independence-theater #manufactured-populism #white-house-access
 
-
 ---
 
 ### Who They Are
@@ -188,4 +187,3 @@ Who benefits from Tim Pool's platform existing?
 - [Wikipedia: Tim Pool](https://en.wikipedia.org/wiki/Tim_Pool) (Tier 3)
 - [Wikipedia: 2024 Tenet Media investigation](https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation) (Tier 3)
 
-content-readiness:: ready

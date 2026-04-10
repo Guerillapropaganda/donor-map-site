@@ -35,16 +35,11 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
+related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
 ---
-
-
 #bennie-thompson #democrat #mississippi #house #ranking-member #homeland-security #january-6 #surveillance #civil-rights #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]] [[_Nancy Pelosi Master Profile|Pelosi]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -165,8 +160,6 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 - [Mississippi Today: Bennie Thompson Profile](https://mississippitoday.org/category/the-capitol/) (Tier 2)
 - [Ballotpedia: Bennie Thompson](https://ballotpedia.org/Bennie_Thompson) (Tier 3)
 - [Wikipedia: Bennie Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -34,7 +34,7 @@ sec-form-types:
   - "NPORT-EX"
   - "NPORT-P"
   - "PX14A6G"
-related: "[[OpenAI]]"
+related: "[[OpenAI]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[Nvidia]]"
 doj-press-mentions: "264349"
 doj-components:
   - "Civil Rights Division"
@@ -55,10 +55,7 @@ federal-register-mentions: 2
 regulatory-agencies:
   - "Justice Department"
 ---
-
 #anthropic #ai #safety #regulation #frontier-models #google #amazon
-
-related: [[Google - Alphabet]] [[Amazon]] [[Microsoft]] [[Nvidia]]
 
 ---
 
@@ -92,8 +89,6 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 - [Senate LDA Filings: Anthropic lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Anthropic: Responsible scaling policy](https://www.anthropic.com/research) (Tier 2)
 - [Ballotpedia: AI regulation](https://ballotpedia.org/Artificial_intelligence_policy) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

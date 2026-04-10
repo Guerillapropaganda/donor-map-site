@@ -23,12 +23,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Mallory McMorrow Master Profile|Mallory McMorrow]]"
 ---
-
-
 #abdul-el-sayed #michigan #senate #2026 #progressive #medicare-for-all #bernie-endorsed #small-dollar #class-analysis
-
-related: [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Mallory McMorrow Master Profile|Mallory McMorrow]] · Progressive Primary Challenge Model
 
 donors: Small-Dollar Progressive Networks · Sanders Endorsement Effect
 
@@ -177,7 +174,6 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 - [Abdul El-Sayed, MD, DPhil - Paul & Daisy Soros Fellowships for New Americans](https://pdsoros.org/fellows/abdul-el-sayed/) (Tier 1) (VERIFIED)
 
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

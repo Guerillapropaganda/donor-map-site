@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jim Risch Master Profile]]"
 ---
-
 #risch #idaho #foreign-relations #energy #nuclear #small-business #agriculture
-
-related: [[_Jim Risch Master Profile]] Idaho National Laboratory
 
 donors: [[Koch Industries]]
 

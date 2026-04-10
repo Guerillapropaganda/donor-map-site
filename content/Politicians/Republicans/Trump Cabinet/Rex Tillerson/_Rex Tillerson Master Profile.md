@@ -9,11 +9,9 @@ party: "Republican"
 chamber: "Cabinet"
 issues:
   - "Energy & Climate"
+related: "[[Enterprise Products Partners]] · [[ExxonMobil]] · [[Donald Trump]]"
 ---
-
 #politician #republican #trump-cabinet #secretary-of-state #exxon #fossil-fuel #revolving-door #class-analysis #follow-the-money
-
-related: [[Enterprise Products Partners]] · [[ExxonMobil]] · [[Donald Trump]]
 
 ---
 
@@ -101,9 +99,6 @@ Tillerson operates with corporate executive framing: measured language, institut
 - [KTVZ/CNN: Tillerson fast facts](https://ktvz.com/news/national-world/cnn-national/2024/03/14/rex-tillerson-fast-facts-3/) (Tier 3)
 
 ---
-
-profile-status:: draft
-content-readiness:: draft
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

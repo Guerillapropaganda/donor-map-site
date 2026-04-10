@@ -24,12 +24,10 @@ doj-components:
   - "USAO - Michigan, Western"
   - "USAO - Minnesota"
   - "USAO - New Jersey"
+related: "[[Media and Propaganda - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Trump Donor Network - The Full Map]]"
 ---
-
-
 #donald-trump #media #propaganda #fox-news #murdoch #donors #in-kind-contribution #follow-the-money #research-node
 
-related: [[Media and Propaganda - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Trump Donor Network - The Full Map]]
 donors: [[Rupert Murdoch]]
 
 ---

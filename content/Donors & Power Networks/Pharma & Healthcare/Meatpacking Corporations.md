@@ -13,7 +13,7 @@ issues:
   - "Labor & Workers"
   - "Antitrust & Monopoly"
   - "Immigration"
-related: "[[The Agribusiness Senator and the Family Farm Myth]]"
+related: "[[The Agribusiness Senator and the Family Farm Myth]] · [[Agribusiness Donor Bloc]] · [[Tyson Foods]] · [[Cargill]] · [[Restaurant & Food Industry]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Donald Trump Master Profile|Trump]]"
 court-cases: 3
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -21,10 +21,7 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, S.D. Texas"
 ---
-
 #meatpacking #tyson #jbs #cargill #smithfield #labor #osha #antitrust #immigration #child-labor #covid #concentration #class-analysis #follow-the-money
-
-related: [[Agribusiness Donor Bloc]] · [[Tyson Foods]] · [[Cargill]] · [[Restaurant & Food Industry]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Donald Trump Master Profile|Trump]]
 
 ---
 
@@ -162,8 +159,6 @@ The COVID-19 crisis proved the model. The industry drafted its own executive ord
 - [NBC News: Child labor investigation spreads to meatpacking in 11 states](https://www.nbcnews.com/politics/immigration/migrant-child-labor-investigation-11-states-meatpacking-produce-rcna88156) (Tier 2)
 
 ---
-
-content-readiness:: developed
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

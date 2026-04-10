@@ -34,14 +34,11 @@ sec-form-types:
   - "N-CSRS"
   - "PART II"
   - "PX14A6G"
-related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]]"
 lobbying-spend: 36516328
 lobbying-filings: 107
 ---
-
 #meta #facebook #tech #lobbying #privacy #section-230 #advertising #zuckerberg #antitrust #ai #surveillance #class-analysis #follow-the-money #revolving-door
-
-related: [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]]
 
 ---
 
@@ -317,9 +314,6 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 - [Ballotpedia: Meta Platforms political spending](https://ballotpedia.org/Meta_Platforms) (Tier 3)
 
 ---
-
-research-status:: developed → expanded (April 1, 2026). Added 9 new major sections: (1) Federal Lobbying by Year (2009-2025, $200M+ cumulative, Kaplan effect analysis); (2) Meta PAC detail (FEC C00502906: $341,607 raised, $197,300 to candidates, 40% D / 57% R, top recipients); (3) Section 230 & privacy regulation detail ($59M lobbying 2020-2023, ADPPA front-group strategy, APRA stripped of private right of action); (4) Revolving door table (7 named individuals: Kaplan, Clegg, Levine, Martin, Jordan, Dearborn, Harbath; 89% government service rate); (5) State-level lobbying (California: $4.6M direct, $1.245M behested, $30M total footprint; New York $823K coalition); (6) FTC settlements expanded (Cambridge Analytica $725M, SEC $100M, 2019 FTC $5B fine detail). 25 total sources (7 Tier 1: 2 OpenSecrets, FTC, 4 new UNVERIFIED sources; 12 Tier 2; 1 Tier 3; 5 UNVERIFIED journalist outlets). Maintained all existing Chrome-verified sources exactly. Identified key Kaplan effect: 100x post-2011 lobbying increase, nearly $100x pre-Kaplan rate per Sen. Warren.
-content-readiness:: developed
 
 ---
 

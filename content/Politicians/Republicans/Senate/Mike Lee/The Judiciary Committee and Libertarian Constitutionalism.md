@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Mike Lee Master Profile]] · [[Google - Alphabet]] · [[Apple]] · [[_Amy Klobuchar Master Profile|Klobuchar]]"
 ---
-
 #lee #utah #judiciary #libertarian #tech #antitrust #constitution
-
-related: [[_Mike Lee Master Profile]] [[Google - Alphabet]] [[Apple]] [[_Amy Klobuchar Master Profile|Klobuchar]]
 
 donors: [[Google - Alphabet]] [[Oracle]]
 

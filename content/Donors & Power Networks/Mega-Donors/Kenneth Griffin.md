@@ -47,13 +47,9 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Securities and Exchange Commission"
   - "Transportation Department"
-related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Patrick McHenry Master Profile]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Nikki Haley Master Profile]] · [[Blackstone Real Estate Political Operation]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Patrick McHenry Master Profile]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Nikki Haley Master Profile]] · [[Blackstone Real Estate Political Operation]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donor #griffin #citadel #hedge-fund #wall-street #class-analysis #follow-the-money #financial-deregulation #anti-tariff #desantis #republican
-
-related: [[_Donald Trump Master Profile]]
 
 ---
 
@@ -193,8 +189,6 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 - [ProPublica: Illinois tax move](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2)
 - [Fortune: GameStop](https://fortune.com/2021/11/10/citadel-ceo-ken-griffin-meme-stocks-gamestop/) (Tier 2)
 
-research-status:: ready — $44-51B net worth, $100M 2024 cycle, $30M Senate Leadership Fund, DeSantis→Trump trajectory, GameStop/Citadel Securities, FL tax move. 7 sources, Tier 1-2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

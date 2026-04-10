@@ -24,7 +24,7 @@ federal-contracts: "622714"
 federal-awards-total: 0
 federal-contracts-count: 2
 federal-grants-count: 0
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]] · [[Mike Lee]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]] · [[Mike Lee]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Koch Network - Charles Koch]] · [[Wall Street Finance Networks]] · [[Senate Leadership Fund]] · [[Stephen Schwarzman]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Carlyle Group]] · [[KKR]] · [[Apollo Global Management]]"
 court-cases: 1595
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -39,10 +39,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. New York"
 ---
-
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying
-
-related: [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Koch Network - Charles Koch]] · [[Wall Street Finance Networks]] · [[Senate Leadership Fund]] · [[Stephen Schwarzman]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Carlyle Group]] · [[KKR]] · [[Apollo Global Management]]
 
 ---
 
@@ -287,9 +284,6 @@ Blackstone is the vault's purest case study of how financial capital converts po
 - [Maine Democratic Party: Schwarzman donations to Collins post-TCJA vote](https://www.mainedems.org/media/new-report-private-equity-billionaire-ramped-donations-senator-collins-after-her-pivotal-vote) (Tier 4) (Chrome-verified)
 
 ---
-
-research-status:: developed — Comprehensive merge of Wall Street and Mega-Donors versions. Full OpenSecrets political spending ($48.6M 2024 cycle), lobbying, and revolving door data. Carried interest ROI analysis complete. 12-entry donation-to-policy timeline spanning 2016-2025. Housing extraction timeline with UN and FTC data. Tax engineering, Opportunity Zone, and sovereign wealth sections. Class analysis covering carried interest, housing, pension fund dynamics, and Saudi relationship. Gaps: Blackstone's healthcare portfolio impact (TeamHealth staffing cuts), Schwarzman's pre-2016 political spending history, Blackstone's international political operations beyond Saudi.
-content-readiness:: developed
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

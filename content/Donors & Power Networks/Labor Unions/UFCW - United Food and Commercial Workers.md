@@ -22,13 +22,9 @@ ein: 530220586
 annual-revenue: "$240.0M"
 net-assets: "$531.3M"
 tax-year: "2022"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[California Labor Federation]] · [[California Restaurant Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]]"
 ---
-
-
 #donor #union #UFCW #grocery #retail #labor #class-analysis #follow-the-money #california #national #kroger #albertsons #walmart #strike #two-tier
-
-related: [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[California Labor Federation]] · [[California Restaurant Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]]
 
 ---
 
@@ -161,8 +157,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 - [Bureau of Labor Statistics: Union membership data California](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1)
 - [Ballotpedia: Proposition 22 spending and outcome](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
 
-research-status:: ready — Full citation pass complete. UFCW 1.2M members, $5.6M 2024 PAC, Kroger-Albertsons merger block, 2003-04 Southern CA strike, two-tier wage system, Walmart existential threat, Prop 22 gig economy impact, Inland Empire IBEW parallel. 6 sources, Tier 1-2. All ### headers. Promoted Session 38k.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

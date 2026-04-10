@@ -89,12 +89,9 @@ doj-components:
   - "USAO - New Jersey"
 lobbying-spend: 53270000
 lobbying-filings: 66
+related: "[[The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way]] · [[PhRMA]] · [[Healthcare - Donors and Backers]]"
 ---
-
-
 #donor #pharma #corporation #lobbying #healthcare #covid #revolving-door #drug-pricing #warp-speed
-
-related: [[The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way]] [[PhRMA]] [[Healthcare - Donors and Backers]]
 
 ---
 

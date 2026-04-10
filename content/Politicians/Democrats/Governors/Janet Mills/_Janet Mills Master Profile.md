@@ -33,12 +33,10 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner Master Profile|Graham Platner]] · [[One Nation]]"
 ---
-
 #politician #democrat #governor #maine #2026-senate-candidate
 tags: #democrat
-
-related:: [[_Susan Collins Master Profile|Susan Collins]] [[_Graham Platner Master Profile|Graham Platner]] [[One Nation]]
 
 donors:: [[Democratic Senatorial Campaign Committee]] DSCC Partners and Leadership PACs
 ---

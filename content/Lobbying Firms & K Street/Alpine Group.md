@@ -64,7 +64,6 @@ lei-jurisdiction: "VI"
 
 #lobbying #k-street #tax-policy #energy #defense #appropriations #tech #pharma #revolving-door #bipartisan-access
 
-
 ---
 
 ### Who They Are
@@ -348,8 +347,6 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 - [Journal of Accountancy: Ways and Means approves proposed TCJA extensions and tax changes (May 2025)](https://www.journalofaccountancy.com/news/2025/may/ways-and-means-releases-proposed-tcja-extensions-and-tax-changes/) (Tier 2)
 - [Tax Notes: Lobbying Swells for TCJA Rewrite; High Tide Forecast for 2025 (Aug 2024)](https://www.taxnotes.com/featured-news/lobbying-swells-tcja-rewrite-high-tide-forecast-2025/2024/08/21/7l4xw) (Tier 2)
 - [CNBC: Netherlands expands export curbs on advanced chip tools (Sep 2024)](https://www.cnbc.com/2024/09/06/netherlands-expands-export-curbs-on-advanced-chip-tools.html) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

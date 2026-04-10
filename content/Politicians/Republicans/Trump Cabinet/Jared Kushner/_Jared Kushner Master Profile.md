@@ -16,12 +16,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Miriam Adelson]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_JD Vance Master Profile]] · [[Immigration Enforcement - The Detention Economy]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]]"
 ---
-
-
 #kushner #master-profile #trump-family #saudi #UAE #class-analysis #follow-the-money #affinity-partners #abraham-accords #PIF #real-estate #slumlord #conflicts-of-interest #foreign-agent
 
-related: [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Miriam Adelson]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_JD Vance Master Profile]] · [[Immigration Enforcement - The Detention Economy]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]]
 donors: [[Miriam Adelson]]
 
 ---

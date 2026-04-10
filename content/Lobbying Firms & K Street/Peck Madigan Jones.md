@@ -13,7 +13,6 @@ related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[
 
 #lobbying #k-street #democratic #bipartisan #healthcare #pharma #biden #clinton #trade #appropriations #energy
 
-
 ---
 
 ### Who They Are
@@ -216,4 +215,3 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 - [Tiber Creek Group: Jan Beukelman — Partner Biography (January 2024)](https://www.tibercreekgroup.com/archives/team/jan-beukelman) (Tier 3)
 - [Senate LDA Filings: Tiber Creek Group Lobbying Profile — 2025](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
-content-readiness:: ready

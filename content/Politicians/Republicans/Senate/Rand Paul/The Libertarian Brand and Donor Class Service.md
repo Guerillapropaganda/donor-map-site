@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Rand Paul Master Profile]] · [[Charles Koch]] · [[Americans for Tax Reform - Grover Norquist]]"
 ---
-
 #rand-paul #libertarian #kentucky #anti-intervention #fauci #spending #filibuster
-
-related: [[_Rand Paul Master Profile]] [[Charles Koch]] [[Americans for Tax Reform - Grover Norquist]]
 
 donors: [[Charles Koch]] [[Stand Together]]
 

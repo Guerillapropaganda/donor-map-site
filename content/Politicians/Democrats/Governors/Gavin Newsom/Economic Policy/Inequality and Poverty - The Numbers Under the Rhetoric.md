@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Budget Priorities - What California Actually Funds]]"
+related: "[[Budget Priorities - What California Actually Funds]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Corporate Subsidies and the Business Climate Argument]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #economic-policy #inequality #poverty #homelessness #wealth-gap #class-analysis #california #follow-the-money #working-class #cost-of-living
 
-related: [[Tax Policy - Who Pays and Who Doesnt]] | [[Corporate Subsidies and the Business Climate Argument]] | [[Economic Policy - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: (Tech billionaires, real estate, finance — no specific nodes)
 
 ---

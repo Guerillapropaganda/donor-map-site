@@ -92,12 +92,9 @@ nhtsa-complaints: 0
 nonprofit-status: "501(c)(6)"
 total-revenue: 1031754
 total-assets: 589361
-related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]]"
+related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[_Kay Granger Master Profile|Kay Granger]] · [[Mark Kelly]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Tammy Duckworth]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
 ---
-
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
-
-related: [[Lockheed Martin]] [[_Kay Granger Master Profile|Kay Granger]] [[Mark Kelly]] [[_Lindsey Graham Master Profile|Lindsey Graham]] [[Tammy Duckworth]] [[_Elizabeth Warren Master Profile|Elizabeth Warren]] Defense Contractor ROI Investigation Pentagon Revolving Door 737 MAX crashes SLS Artemis
 
 ---
 
@@ -260,9 +257,6 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 - [Sen. Fischer: Advances over $200M for defense programs](https://www.fischer.senate.gov/public/index.cfm/news?ID=6FD233AD-6BDD-4AEE-800E-ED1CF97839D4) (Tier 1)
 - [Boeing: MH-139A Grey Wolf program](https://www.boeing.com/defense/military-rotorcraft/mh-139-grey-wolf) (Tier 1)
 - [Boeing: Contract for eight additional MH-139A helicopters](https://boeing.mediaroom.com/news-releases-statements?item=131590) (Tier 1)
-
-research-status:: ready — Full citation pass complete. 737 MAX safety-profit contradiction, $43.4B buyback trap, 85-hire revolving door, Starliner failure, $206M lifetime lobbying. March 2026: Fischer earmark ROI ($34K → $60M MH-139A Grey Wolf), Iran war production scaling, $12.8B January 2026 contracts. 25+ sources (Tier 1-2), all ### headers, class analysis present. Updated gp-donor-node-builder Run 5 (March 25, 2026).
-content-readiness:: ready
 
 ---
 

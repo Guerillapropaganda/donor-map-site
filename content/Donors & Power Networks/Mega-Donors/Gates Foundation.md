@@ -33,7 +33,7 @@ ein: "562618866"
 annual-revenue: "$7.8B"
 net-assets: "$77.0B"
 tax-year: "2023"
-related: "[[Michael Bennet]]"
+related: "[[Michael Bennet]] · [[Koch Network - Charles Koch|Koch Network]] · [[Walton Family Foundation]] · [[_Barack Obama Master Profile|Obama]] · [[New America]] · [[Urban Institute]] · [[Brookings Institution]]"
 federal-register-mentions: 18
 last-enriched: "2026-04-09"
 regulatory-agencies:
@@ -63,10 +63,7 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 8186448170
 total-assets: 78673465696
 ---
-
 #donor #mega-donor #gates-foundation #bill-gates #charter-schools #education-policy #pharma-influence #global-health #common-core #class-analysis #follow-the-money
-
-related: [[Koch Network - Charles Koch|Koch Network]] · [[Walton Family Foundation]] · [[_Barack Obama Master Profile|Obama]] · [[New America]] · [[Urban Institute]] · [[Brookings Institution]]
 
 ---
 
@@ -195,9 +192,6 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 - [GAVI: Gates Foundation donor profile](https://www.gavi.org/investing-gavi/funding/donor-profiles/gates-foundation) (Tier 1) — Foundation as GAVI's largest funder
 
 ---
-
-research-status:: ready — Full expansion from 40 to 175+ lines. Wikipedia Chrome-verified (education, financials, criticism). ProPublica Nonprofit Explorer Chrome-verified (EIN 56-2618866). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (grant table) → What They've Gotten (Format 2 timeline, 8 rows) → Education Capture Model → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $86B assets, $71.3B net assets, $77.6B lifetime grants, $373M education (2009), $200M+ Common Core, $1.7B education commitment (2017), $4.1B GAVI, second-largest WHO funder.
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

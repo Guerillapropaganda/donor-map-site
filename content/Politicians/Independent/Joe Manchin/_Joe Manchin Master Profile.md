@@ -21,12 +21,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]]"
 ---
-
-
 #joe-manchin #senate #west-virginia #coal #enersystems #epipen #no-labels #class-analysis #independent
-
-related: [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]]
 
 donors: [[Fossil Fuel Bloc]]
 

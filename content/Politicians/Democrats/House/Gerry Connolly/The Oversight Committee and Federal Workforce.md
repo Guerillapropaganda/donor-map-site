@@ -5,14 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Gerry Connolly Master Profile]]"
-related: "[[The Homeland Security Committee and Mississippi Delta]] · [[The Armed Services Committee and Progressive Defense Paradox]]"
+related: "[[The Homeland Security Committee and Mississippi Delta]] · [[The Armed Services Committee and Progressive Defense Paradox]] · [[_Gerry Connolly Master Profile]] · [[_James Comer Master Profile|Comer]] · [[Boeing]] · [[Northrop Grumman]]"
 source-types:
   - Congress
 ---
-
 #connolly #virginia #oversight #federal-workforce #government #doge #defense
-
-related: [[_Gerry Connolly Master Profile]] [[_James Comer Master Profile|Comer]] [[Boeing]] [[Northrop Grumman]]
 
 donors: [[Boeing]] [[Northrop Grumman]] [[Lockheed Martin]]
 

@@ -12,7 +12,6 @@ related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pi
 
 #media-pipeline #fox-news #murdoch #institutional #right #propaganda #class-analysis #follow-the-money
 
-
 personalities: [[Sean Hannity]] · [[Tucker Carlson]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Megyn Kelly]] · [[Bill Maher]] · [[Glenn Greenwald]]
 
 ---
@@ -143,4 +142,3 @@ The fundamental difference between Fox News and traditional political spending: 
 
 ---
 
-content-readiness:: ready

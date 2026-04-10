@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Matt Gaetz Master Profile]]
+related: "[[_Matt Gaetz Master Profile]]"
 ---
-
-
 #matt-gaetz #don-gaetz #vitas-healthcare #family-wealth #healthcare-industry #florida #class-analysis #political-dynasty
 
-related: [[_Matt Gaetz Master Profile]]
-
 donors: Don Gaetz Family Fortune
-
-content-readiness:: ready
 
 ---
 

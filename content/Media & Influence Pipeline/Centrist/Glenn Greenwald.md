@@ -12,7 +12,6 @@ donors: "[[Peter Thiel]]"
 
 #media-profile #centrist #journalist #snowden #civil-liberties #surveillance #independence-theater #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -184,4 +183,3 @@ Greenwald's trajectory — corporate law → progressive blogging → Guardian �
 
 ---
 
-content-readiness:: ready

@@ -19,12 +19,10 @@ top-donors:
   - "Pharmaceutical Industry"
   - "AIPAC"
 donors: "[[ADM - Archer Daniels Midland]]"
-related: "[[Tammy Duckworth]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Financial Services Donors]] · [[Legal Sector Donors]] · [[Pharmaceutical Industry]]"
+related: "[[Tammy Duckworth]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Financial Services Donors]] · [[Legal Sector Donors]] · [[Pharmaceutical Industry]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Joe Biden Master Profile|Biden]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Patty Murray Master Profile|Murray]]"
 ---
-
 #dick-durbin #senate #illinois #judiciary #whip #class-analysis #donor-gatekeeper #democrat #managed-opposition #retirement
 
-related: [[_Chuck Schumer Master Profile|Schumer]] · [[_Joe Biden Master Profile|Biden]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Patty Murray Master Profile|Murray]]
 donors: [[Legal Sector Donors]] · [[Financial Services Donors]] · [[Pharmaceutical Industry]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ```dataview
@@ -200,9 +198,6 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 - [CBS Chicago: Illinois Sen. Dick Durbin retiring](https://www.cbsnews.com/chicago/news/illinois-senator-dick-durbin-not-running-reelection-retirement/) (Tier 2)
 - [Ballotpedia: Dick Durbin](https://ballotpedia.org/Dick_Durbin) (Tier 3)
 - [U.S. Senator Dick Durbin official website — committee assignments](https://www.durbin.senate.gov/about/committees-assignments) (Tier 1)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Voting Record
 <!-- auto:voting-record start -->

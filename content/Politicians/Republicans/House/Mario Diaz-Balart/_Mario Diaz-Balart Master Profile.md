@@ -19,17 +19,13 @@ top-donors:
   - "Fanjul Family - Florida Crystals"
   - "AIPAC"
 donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]]"
-related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Donald Trump Master Profile|Trump]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 total-received: "$1,175,788"
 fec-candidate-id: "H2FL25018"
 ---
-
 #politician #republican #house #florida #cuba #sugar #fanjul #appropriations #class-analysis #follow-the-money #aipac #israel #defense
 
-related: [[_Marco Rubio Master Profile|Rubio]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Donald Trump Master Profile|Trump]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 donors: [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
-profile-status:: developed
 
 ---
 
@@ -138,9 +134,6 @@ Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His A
 - [Wikipedia: Fanjul family](https://en.wikipedia.org/wiki/Fanjul_family) (Tier 3)
 
 ---
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

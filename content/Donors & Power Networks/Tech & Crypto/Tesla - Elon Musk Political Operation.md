@@ -10,7 +10,7 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
-related: "[[America PAC - Elon Musk]]"
+related: "[[America PAC - Elon Musk]] · [[Elon Musk]] · [[SpaceX]] · [[Palantir Technologies]]"
 doj-press-mentions: "264413"
 doj-components:
   - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
@@ -24,10 +24,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #tesla #musk #ev #doge #government #twitter #space #deregulation
-
-related: [[Elon Musk]] [[SpaceX]] [[Palantir Technologies]]
 
 ---
 
@@ -62,8 +59,6 @@ EV tax credit structures that favor Tesla's manufacturing model, reduced NHTSA e
 - [FEC: America PAC filings](https://www.fec.gov/data/committee/C00873893/) (Tier 1)
 - [Tesla: SEC 10-K filing, regulatory credit revenue](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001318605) (Tier 1)
 - [Ballotpedia: Elon Musk](https://ballotpedia.org/Elon_Musk) (Tier 3)
-
-content-readiness:: ready
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

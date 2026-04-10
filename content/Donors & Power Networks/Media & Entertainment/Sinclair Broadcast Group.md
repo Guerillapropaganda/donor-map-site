@@ -39,7 +39,7 @@ doj-components:
   - "USAO - New York, Northern"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[The Telecom and Media Monopoly Oversight]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[News Corp - Fox Corporation]] · [[iHeartMedia]] · [[Comcast - NBCUniversal]]"
 ein: "911500276"
 nonprofit-status: "501(c)(3)"
 total-revenue: 210851
@@ -48,10 +48,7 @@ lobbying-spend: 4000000
 lobbying-filings: 52
 federal-contracts: "626681"
 ---
-
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation
-
-related: [[News Corp - Fox Corporation]] [[iHeartMedia]] [[Comcast - NBCUniversal]]
 
 ---
 
@@ -86,8 +83,6 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 - [FCC: Station ownership filings](https://www.fcc.gov/media/television/tv-station-profiles) (Tier 1)
 - [Deadspin: Sinclair script compilation](https://www.youtube.com?v=_fHfgU8oMSo) (Tier 2)
 - [Ballotpedia: Sinclair Broadcast Group](https://ballotpedia.org/Sinclair_Broadcast_Group) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

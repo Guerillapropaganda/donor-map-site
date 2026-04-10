@@ -17,12 +17,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]] · [[_Steve Bannon Master Profile|Steve Bannon]] · [[_Pete Hegseth Master Profile]]"
 ---
-
-
 #kash-patel #fbi-director #trump-cabinet #loyalty #nunes-memo #foreign-clients #class-analysis
 
-related: [[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]] · [[_Steve Bannon Master Profile|Steve Bannon]] · [[_Pete Hegseth Master Profile]]
 donors: [[Save America PAC]] · Trump Media · [[MAGA Inc]] · Epoch Times
 
 profile-status:: ready
@@ -162,7 +160,6 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 - [The New Republic: Kash Patel Brags That the FBI Is Buying Your Location Data](https://newrepublic.com/post/207944/kash-patel-fbi-buying-location-data) (Tier 2)
 profile-status:: ready — MAGA patronage economy model documented, $3M+ ecosystem income mapped, Nunes Memo→FBI Director pipeline (7 years), foreign conflicts (Qatar, Shein), FBI purge documented, Arctic Frost lawsuit, location data surveillance. All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38h.
 content-readiness:: ready
- 
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

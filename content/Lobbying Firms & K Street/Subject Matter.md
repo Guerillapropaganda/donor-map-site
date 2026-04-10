@@ -13,7 +13,6 @@ related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Manage
 
 #lobbying #k-street #democratic #biden #bundling #tech #finance #crypto #healthcare #clean-energy #chinese-military
 
-
 ---
 
 ### Who They Are
@@ -211,8 +210,6 @@ The Amazon contradiction is equally revealing. Elmendorf lobbied against worker 
 - [O'Dwyer's PR News: H&K CEO Parsons Takes Helm at Avoq — Hill & Knowlton background, United Technologies/New York Life/Fannie Mae CCO history, January 2026](https://www.odwyerpr.com/story/public/24128/2026-01-13/hk-ceo-parsons-takes-helm-at-avoq.html) (Tier 2)
 - [O'Dwyer's PR News: Tax Pro Levey Joins Avoq — Jeff Levey hire, E&Y Washington Council background, IRS/Treasury/OECD advocacy history, September 2025](https://www.odwyerpr.com/story/public/23540/2025-09-04/tax-pro-levey-joins-avoq.html) (Tier 2)
 - [Empire Report New York: Subject Matter+Kivvit Becomes Avōq, Names New Partners — 14 partners elevated, full list including Cedric Grant, Stacey Alexander, Barry LaSala, Tom Meara](https://empirereportnewyork.com/subject-matterkivvit-becomes-avoq-names-new-partners/) (Tier 3)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

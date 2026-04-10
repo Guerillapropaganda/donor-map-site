@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Immigration - Donors and Backers]]"
+related: "[[Immigration - Donors and Backers]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #criminal-justice #donors #backers #[[CCPOA - California Correctional Peace Officers Association|CCPOA]] #bail-bond #law-enforcement #follow-the-money #research-node #carceral-state #class-analysis
 
-related: [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] | [[Death Penalty Moratorium - Genuine Win With Limits]] | [[San Quentin - COVID Disaster and Rehabilitation Theater]] | [[Policing Reform - George Floyd Era]] | [[_Gavin Newsom Master Profile]]
 donors: [[CCPOA - California Correctional Peace Officers Association|CCPOA]] | [[PORAC - Peace Officers Research Association of California|PORAC]] | [[GEO Group|GEO Group - Private Prisons]] | [[CoreCivic|CoreCivic - Private Prisons]]
 
 ---
@@ -146,4 +143,3 @@ Progressive voters and criminal justice reform organizations hear: death penalty
 - [Brennan Center: bail bond profit analysis](https://www.brennancenter.org/our-work/analysis-opinion/how-profit-shapes-bail-bond-system) (Tier 2)
 - [California Supreme Court: In re Humphrey (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html) (Tier 1)
 
-content-readiness:: ready

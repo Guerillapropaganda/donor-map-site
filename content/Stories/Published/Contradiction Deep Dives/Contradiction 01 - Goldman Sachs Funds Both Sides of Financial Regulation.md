@@ -7,13 +7,10 @@ source-tier: 1
 parent: null
 issues:
   - "Wall Street & Finance"
-related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Goldman Sachs]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[Cory Booker]]"
 ---
-
 #investigation #contradiction #goldman-sachs #both-sides #wall-street #revolving-door #class-analysis
 tags: #analysis #story
-
-related: [[Goldman Sachs]] [[_Donald Trump Master Profile|Donald Trump]] [[_Chuck Schumer Master Profile|Chuck Schumer]] [[_Ted Cruz Master Profile|Ted Cruz]] [[Cory Booker]] Glass-Steagall Dodd-Frank Tax Cuts and Jobs Act Financial Regulation - Donors and Backers
 
 donors: [[Goldman Sachs]]
 
@@ -303,6 +300,3 @@ Across three decades, four presidents, and multiple Congress-control shifts, Gol
 
 ---
 
-research-status:: ready — Full citation pass complete. Goldman $39M since 1989 (50/50 split), Schumer $707K, Cruz wife $1-5M/yr Goldman MD, Treasury revolving door (Rubin/Paulson/Cohn/Mnuchin), temporal mapping tables, class analysis. 21 sources Tier 1-3 with URLs. All ### headers. Promoted Session 39.
-content-readiness:: ready
-                   

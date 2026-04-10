@@ -7,14 +7,11 @@ source-tier: 1
 parent: null
 fec-candidate-id: "H0CA27085"
 donors: "[[AFL-CIO]]"
-related: "[[Barbara Lee]] · [[Laphonza Butler]]"
+related: "[[Barbara Lee]] · [[Laphonza Butler]] · [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Katie Porter Master Profile]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[Senate Majority PAC]] · [[Everytown for Gun Safety]]"
 internal-notes: "[URL Check 2026-04-08] 8 checked: 6 ok, 2 broken, 0 slow. | BROKEN: CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean? | BROKEN: Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support"
 ---
-
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis
 tags: #democrat
-
-related: [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Katie Porter Master Profile]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[Senate Majority PAC]] · [[Everytown for Gun Safety]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[Senate Majority PAC]] · [[Everytown for Gun Safety]] · Hollywood entertainment industry
 
@@ -92,9 +89,6 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 - [JTA: Adam Schiff with AIPAC backing advances to Senate race](https://www.jta.org/2024/03/06/politics/adam-schiff-jewish-impeachment-star-with-aipac-backing-advances-to-senate-runoff-to-replace-dianne-feinstein) (Tier 2) (VERIFIED)
 - [OpenSecrets: Schiff heads into 2024 Senate race with sizable cash advantage](https://www.opensecrets.org/news/2023/05/adam-schiff-heads-into-californias-2024-u-s-senate-race-with-a-sizable-cash-advantage) (Tier 2) (VERIFIED)
 - [X/TrackAIPAC: Schiff received nearly $6M from AIPAC and Israel lobby](https://x.com/TrackAIPAC/status/1798411753879146754) (Tier 3) (VERIFIED)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
+related: "[[_Pete Hegseth Master Profile]] · [[_Donald Trump Master Profile]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Concerned Veterans for America]]"
 ---
-
-
 #doug-collins #va-secretary #georgia #veterans #koch-network #privatization #class-analysis
-
-related: [[_Pete Hegseth Master Profile]], [[_Donald Trump Master Profile]], [[Veterans and Military - Donors and Backers]], [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]], [[Concerned Veterans for America]]
 
 donors: [[Koch Network - Charles Koch]], [[Concerned Veterans for America]]
 
@@ -31,7 +28,7 @@ donors: [[Koch Network - Charles Koch]], [[Concerned Veterans for America]]
 
 Koch network (via CVA), conservative media (Newsmax, Salem Media), America First Policy Institute, Georgia Republican donor base
 
-> [!donor-first]
+> [!money]
 > Collins's confirmation was bipartisan (77-23) because the privatization agenda serves both parties' healthcare industry donors. The 77 votes reflect bipartisan comfort with directing $369B in VA spending toward private healthcare networks. The 23 no votes came from senators whose veteran constituencies depend on direct VA care.
 
 ### Sources
@@ -45,4 +42,3 @@ Koch network (via CVA), conservative media (Newsmax, Salem Media), America First
 - [American Prospect: Privatizing Veterans' Health Care Will Be a Disaster](https://prospect.org/2025/07/30/2025-07-30-privatizing-veterans-health-care-will-be-disaster/) (Tier 2)
 - [Congress.gov: Collins nomination](https://www.congress.gov/nomination/119th-congress/11/5) (Tier 1)
 
-content-readiness:: ready

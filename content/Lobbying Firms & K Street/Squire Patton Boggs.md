@@ -36,7 +36,6 @@ doj-components:
 
 #lobbying #k-street #defense #trade #appropriations #transportation #foreign-governments #revolving-door #bipartisan #fara
 
-
 ---
 
 ### Who They Are
@@ -228,8 +227,6 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 - [The Washington Post: FCC bans new DJI Chinese drones, citing national security (December 2025)](https://www.washingtonpost.com/national-security/2025/12/23/dji-drone-fcc-ban-national-security/) (Tier 2)
 - [CNN: US bans new foreign drone models in a blow to Chinese giant DJI (December 2025)](https://www.cnn.com/2025/12/23/business/us-ban-foreign-drones-dji-intl-hnk) (Tier 2)
 - [Washington Examiner: Chinese drone maker ramped up lobbying against ban (2024)](https://www.washingtonexaminer.com/policy/foreign/chinese-drone-maker-ramped-up-lobbying-ban-drones) (Tier 2)
-
-content-readiness:: ready
 
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->

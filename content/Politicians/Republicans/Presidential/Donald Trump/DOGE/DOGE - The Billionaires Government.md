@@ -5,18 +5,14 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[The CFPB and the Limits of Reform Within the System]]"
+related: "[[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[The CFPB and the Limits of Reform Within the System]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 source-types:
   - Congress
 ---
-
-
 #trump #DOGE #elon-musk #class-analysis #follow-the-money #administrative-state #deregulation #conflict-of-interest #federal-workforce
-
-related: [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]
 
 donors: [[Elon Musk]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]]
 
@@ -158,11 +154,7 @@ DOGE was positioned as a temporary (9-month) audit and efficiency review. In pra
 - [Washington Post: DOGE agents removed from sensitive OPM systems after security fears](https://www.washingtonpost.com/nation/2025/02/08/doge-opm-musk/) (Tier 2)
 - [TIME: Why Musk's DOGE Began its Government Shake-Up at OPM](https://time.com/7213990/elon-musk-doge-opm/) (Tier 2)
 
-content-readiness:: ready
-
 ---
-
-content-readiness:: ready
 
 ### 2026 Update — Depositions, Failures, and Admissions
 

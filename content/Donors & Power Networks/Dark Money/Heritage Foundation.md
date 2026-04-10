@@ -50,14 +50,10 @@ sec-form-types:
   - "SC 13G"
 lei: "5493006YU7R03XUJSX56"
 lei-jurisdiction: "US-DC"
-related: "[[American Federation for Children]]"
+related: "[[American Federation for Children]] · [[Project 2025 - The Blueprint They Followed]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Federalist Society]] · [[_Donald Trump Master Profile|Trump]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] · [[DeVos Family]] · [[Bradley Foundation]]"
 total-political-spend: "$1,007,158"
 ---
-
-
 #donor #think-tank #project-2025 #dark-money #conservative #501c3 #judicial #tax-policy #deregulation #revolving-door
-
-related: [[Project 2025 - The Blueprint They Followed]] [[Leonard Leo]] [[Koch Network - Charles Koch]] [[Federalist Society]] [[_Donald Trump Master Profile|Trump]] [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] Heritage Action for America [[DeVos Family]] [[Bradley Foundation]]
 
 ---
 
@@ -211,7 +207,6 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 
 ---
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Joe Manchin Master Profile]]
+related: "[[_Joe Manchin Master Profile]]"
 ---
-
-
 #joe-manchin #heather-bresch #mylan #epipen #pharma #family-enrichment #class-analysis
 
-related: [[_Joe Manchin Master Profile]] · Big Pharma Bloc
-
 donors: [[PhRMA]] · (Mylan — internal family firm)
-
-content-readiness:: ready
 
 ---
 

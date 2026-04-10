@@ -9,16 +9,12 @@ sector: "Tech & Crypto"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
-related: "[[Crypto and AIPAC's Georgia Strategy]]"
+related: "[[Crypto and AIPAC's Georgia Strategy]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
-
 #donor #think-big #ai #artificial-intelligence #super-pac #class-analysis #follow-the-money #deregulation #2026-elections #openai #andreessen-horowitz
-
-related: [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile]]
 
 ---
 

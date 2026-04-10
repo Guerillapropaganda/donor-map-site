@@ -28,12 +28,9 @@ subawards-received: 50
 subawards-received-amount: 2946802998
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "561990"
-related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]]"
+related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]]"
 ---
-
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
-
-related: [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]]
 
 tags: #donor
 
@@ -198,7 +195,6 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 
 ---
 
-
 ### Sources
 
 - [Lockheed Martin Official Summary • OpenSecrets](https://www.opensecrets.org/orgs/lockheed-martin/summary?id=D000000104) (Tier 1)
@@ -243,8 +239,6 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 - [Breaking Defense: Pentagon plans to spend all $152B reconciliation in FY26](https://breakingdefense.com/2026/02/reconciliation-revealed-how-the-pentagon-plans-to-spend-all-152-billion-in-fy26/) (Tier 2)
 - [CBS News: Trump calls off Hormuz ultimatum](https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz/) (Tier 2)
 
-research-status:: ready — F-35 $2.3T lifetime program documented, 45-state geographic lock-in strategy, $15.1B in unbudgeted Congressional additions (FY2021-24), revolving door (Dunford timeline), PAC geographic distribution, Granger $634K career temporal mapping, Iran war windfall (THAAD quadrupled, $200B supplemental, 3.4% stock jump). All ### headers, Tier 1 sources (OpenSecrets, CRS, FEC). Promoted to ready Session 38h.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

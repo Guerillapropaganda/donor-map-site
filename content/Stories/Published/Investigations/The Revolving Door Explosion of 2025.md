@@ -10,13 +10,11 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[Congressional Leadership Fund]]"
 ---
-
 #investigation #revolving-door #lobbying #corruption #congress #k-street #regulatory-capture
 
 tags: #analysis #story
-
-related: Congressional Revolving Door Lobbying Industry [[Congressional Leadership Fund]] K Street
 
 donors: Lobbying Firms Corporate Lobbying Associations
 
@@ -125,4 +123,3 @@ This is not accidental. This is deliberate normalization of lobbyist staffing. I
 - [Congress.gov: Close the Revolving Door Act (H.R. 2847)](https://congress.gov/bill/hr2847) (Tier 1)
 - [Roll Call: K Street Hiring Trends 2025](https://rollcall.com/k-street-hiring) (Tier 2)
 
-content-readiness:: ready

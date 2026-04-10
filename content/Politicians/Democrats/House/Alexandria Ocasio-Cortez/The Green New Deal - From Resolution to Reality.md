@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexandria Ocasio-Cortez Master Profile]]
-related: "[[The Small-Dollar Model and the Anti-Donor Experiment]]"
+related: "[[The Small-Dollar Model and the Anti-Donor Experiment]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Joe Manchin Master Profile]] · [[Fossil Fuel Bloc]]"
 ---
-
-
 #aoc #green-new-deal #climate #ira #inflation-reduction-act #fossil-fuels #class-analysis #legislation #manchin
 
-related: [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Joe Manchin Master Profile]] · [[Fossil Fuel Bloc]]
-
 donors: [[Fossil Fuel Bloc]] · [[Small Dollar Donors - ActBlue]]
-
-content-readiness:: ready
 
 ---
 

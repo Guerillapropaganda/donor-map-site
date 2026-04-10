@@ -5,14 +5,11 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Georgia 2026 Senate Race]]"
+related: "[[Georgia 2026 Senate Race]] · [[_Juliana Stratton Master Profile|Juliana Stratton Master Profile]] · [[Fairshake PAC]] · [[Illinois Future PAC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
 #2026-election #senate #illinois #race-frame
 
 tags: #analysis #story
-
-related:: [[_Juliana Stratton Master Profile|Juliana Stratton Master Profile]] Don Tracy [[Fairshake PAC]] [[Illinois Future PAC]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors:: Jay Pritzker [[Fairshake PAC - Crypto Super PAC|Fairshake]] [[Illinois Future PAC]]
 

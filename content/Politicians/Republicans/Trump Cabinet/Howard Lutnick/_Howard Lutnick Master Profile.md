@@ -19,12 +19,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[_Scott Bessent Master Profile]] · [[Elon Musk]]"
 ---
-
-
 #howard-lutnick #trump-cabinet #commerce #cantor-fitzgerald #crypto #tether #tariffs #class-analysis
 
-related: [[_Donald Trump Master Profile]] · [[_Scott Bessent Master Profile]] · [[Elon Musk]]
 donors: [[Elon Musk]]
 
 profile-status:: ready
@@ -120,4 +118,3 @@ Howard Lutnick. Secretary of Commerce (2025–present). CEO and 60% owner of Can
 - [Salon: "Five-star rating for conflicts of interest"](https://www.salon.com/2025/04/24/a-5-star-rating-for-conflicts-of-interest-commerce-sec-howard-lutnicks-finances-raise-red-flags/) (Tier 2)
 - [FEC: Howard Lutnick contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=lutnick,+howard) (Tier 1)
 content-readiness:: ready
- 

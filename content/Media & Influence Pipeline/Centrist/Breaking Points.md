@@ -13,7 +13,6 @@ donors: "(subscription-funded — Reid Hoffman → People's House Project; Enjet
 
 #media-pipeline #centrist #populist #independent #youtube #podcast #left-right-crossover #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -201,4 +200,3 @@ Breaking Points represents **the subscription-funded populist crossover** — th
 
 ---
 
-content-readiness:: ready

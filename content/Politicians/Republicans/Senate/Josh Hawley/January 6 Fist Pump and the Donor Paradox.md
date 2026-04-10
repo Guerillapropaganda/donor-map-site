@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Josh Hawley Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Josh Hawley Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #josh-hawley #january-6 #corporate-pacs #fundraising #class-analysis #follow-the-money
-
-related: [[_Josh Hawley Master Profile]] · [[_Donald Trump Master Profile]]
 
 donors: (MAGA small-dollar network — replacing corporate PACs)
 

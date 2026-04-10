@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Chuck Schumer Master Profile]]
-related: "[[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Schwarzman Connection and Private Equity Capture]]"
+related: "[[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Schwarzman Connection and Private Equity Capture]] · [[_Chuck Schumer Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Blackstone]]"
 ---
-
-
 #schumer #wall-street #goldman-sachs #securities #donor-sectors #class-analysis #follow-the-money
 
-related: [[_Chuck Schumer Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Blackstone]]
-
 donors: [[Goldman Sachs]]
-
-content-readiness:: ready
 
 ---
 

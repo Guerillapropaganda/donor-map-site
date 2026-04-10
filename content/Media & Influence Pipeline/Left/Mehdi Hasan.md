@@ -13,7 +13,6 @@ opposes: "[[Fox Corp - Rupert Murdoch]]"
 
 #media-pipeline #left #msnbc #zeteo #subscription #palestine #comcast #institutional-capture #independence
 
-
 ---
 
 ### Who They Are
@@ -131,4 +130,3 @@ The class analysis question for Hasan is whether subscription-funded progressive
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Mehdi Hasan shows zero federal political contributions — a $0 FEC record from a naturalized citizen (2020) who built a $3.9M/year independent media company. The absence is analytically consistent: Hasan's influence operates through editorial content and audience relationships, not campaign donations.
 
-content-readiness:: ready

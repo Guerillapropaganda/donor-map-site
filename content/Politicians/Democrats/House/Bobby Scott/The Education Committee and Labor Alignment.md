@@ -5,16 +5,13 @@ content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: "[[_Bobby Scott Master Profile]]"
-related: "[[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[_Bobby Scott Master Profile]] · [[_Virginia Foxx Master Profile|Virginia Foxx]] · [[SEIU - Service Employees International Union|SEIU]] · [[CTA - California Teachers Association]]"
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 ---
-
 #bobby-scott #education #labor #minimum-wage #virginia #for-profit #teacher-unions
-
-related: [[_Bobby Scott Master Profile]] [[_Virginia Foxx Master Profile|Virginia Foxx]] [[SEIU - Service Employees International Union|SEIU]] [[CTA - California Teachers Association]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]] [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] [[ActBlue]]
 

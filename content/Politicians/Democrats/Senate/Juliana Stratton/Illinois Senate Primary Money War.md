@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Juliana Stratton Master Profile]]
+related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Corporate PAC Pledge and Its Limits]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]]"
 ---
-
 #juliana-stratton #illinois-2026 #campaign-finance #primary
 
 tags: #democrat
-
-related: [[_Juliana Stratton Master Profile|Juliana Stratton]] [[Corporate PAC Pledge and Its Limits]] [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]]
 
 donors: [[_JB Pritzker Master Profile|JB Pritzker]] [[Fairshake PAC - Crypto Super PAC|Fairshake]] [[Illinois Future PAC]]
 
@@ -94,5 +92,3 @@ This primary reveals an important pattern about outside spending's actual impact
 
 ---
 
-research-status:: active
-content-readiness:: ready

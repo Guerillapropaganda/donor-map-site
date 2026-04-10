@@ -45,7 +45,6 @@ sec-form-types:
 
 #think-tank #liberal #safety-net #anti-poverty #tax-policy #medicaid #SNAP #EITC #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -250,8 +249,6 @@ The Democracy Alliance connection and the Arabella Advisors dark money pipeline 
 - [MacArthur Foundation: Center on Budget and Policy Priorities grant history ($8.45M total)](https://www.macfound.org/grantee/center-on-budget-and-policy-priorities-990/) (Tier 1)
 - [CBPP: Executive Action Watch — real-time tracker of Trump executive actions affecting federal budget and safety net](https://www.cbpp.org/research/federal-budget/executive-action-watch) (Tier 3)
 - [CBPP: Administration's Radical Personnel Cuts Bypassed Congress and Lacked Transparency (2025)](https://www.cbpp.org/research/federal-budget/administrations-radical-personnel-cuts-bypassed-congress-and-lacked) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

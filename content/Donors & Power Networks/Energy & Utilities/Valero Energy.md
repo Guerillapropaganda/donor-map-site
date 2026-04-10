@@ -35,7 +35,7 @@ federal-contracts-count: 25
 federal-grants-count: 0
 top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
-related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]] · [[American Petroleum Institute]] · [[Chevron]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[Western States Petroleum Association]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[Koch Network - Charles Koch|Koch Network]]"
 court-cases: 871
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -63,10 +63,7 @@ doj-components:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ---
-
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
-
-related: [[American Petroleum Institute]] | [[Chevron]] | [[ExxonMobil]] | [[Fossil Fuel Bloc]] | [[Western States Petroleum Association]] | [[_Steve Scalise Master Profile|Steve Scalise]] | [[Koch Network - Charles Koch|Koch Network]]
 
 ---
 
@@ -150,8 +147,6 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 - [Wikipedia: Valero Energy](https://en.wikipedia.org/wiki/Valero_Energy) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ---
 

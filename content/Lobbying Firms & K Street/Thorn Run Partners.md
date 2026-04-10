@@ -22,7 +22,6 @@ sec-form-types:
 
 #lobbying #k-street #healthcare #pharma #defense #tech #telecom #appropriations #bipartisan
 
-
 ---
 
 ### Who They Are
@@ -199,8 +198,6 @@ The class function: TRP exists to make sure that large institutional interests â
 - [FreightWaves: EXCLUSIVE: FMC Chief of Staff Hoang moves to private sector (January 2026)](https://www.freightwaves.com/news/exclusive-fmc-chief-of-staff-hoang-moves-to-private-sector) (Tier 2)
 - [Thorn Run Partners: POLITICO Exclusive â€” Thorn Run Adds Three New Partners (July 2025)](https://thornrun.com/politico-exclusive-thorn-run-adds-three-new-partners/) (Tier 3)
 - [PPAI: PPAI Enhances Lobbying Investment, Hires Leading K Street Firm (November 2024)](https://www.ppai.org/media-hub/ppai-enhances-lobbying-investment-hires-leading-k-street-firm/) (Tier 3)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

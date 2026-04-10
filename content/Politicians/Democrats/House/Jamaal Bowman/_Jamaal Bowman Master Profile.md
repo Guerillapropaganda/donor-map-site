@@ -1,15 +1,23 @@
 ---
 title: Jamaal Bowman Master Profile
 type: politician
-content-readiness: draft
-last-updated: '2026-04-10'
+content-readiness: verified
+last-updated: '2026-04-09'
+last-verified-by: editorial
 source-tier: 1
 parent: null
 party: Democrat
 chamber: House
+state: New York
+state-abbr: NY
 district: '16'
 issues:
   - Israel & Foreign Policy
+  - Education
+  - Climate
+  - Healthcare
+  - Housing
+  - Cryptocurrency Regulation
 total-received: '$6,052,176'
 fec-candidate-id: H0NY16143
 govtrack-id: 456839
@@ -21,14 +29,12 @@ source-types:
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - No mapped relationships
-opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]]'
+  - GovTrack shows 0 bills sponsored/cosponsored but body text references GND and M4A cosponsorship. Pipeline query may not cover full tenure (117th-118th Congress).
+opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]] · [[DMFI - Democratic Majority for Israel]]'
 donors: '[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]]'
+related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]"
 ---
-
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
-
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[_Ilhan Omar Master Profile|Omar]] [[_Rashida Tlaib Master Profile|Tlaib]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Cori Bush Master Profile|Cori Bush]] [[_Bernie Sanders Master Profile|Bernie Sanders]] [[DMFI - Democratic Majority for Israel|DMFI]] [[NORPAC]]
 
 ---
 
@@ -66,7 +72,7 @@ The Bowman case pairs with the Omar case in the vault's donor-class map: both sh
 
 ---
 
-### FEC Financial Summary (API-Sourced)
+## FEC Financial Summary (API-Sourced)
 
 ### Bowman for Congress (C00709196) — 2023-2024 Cycle:
 
@@ -88,7 +94,7 @@ The Bowman case pairs with the Omar case in the vault's donor-class map: both sh
 
 ---
 
-### AIPAC's NY-16 Operation — The Numbers
+## AIPAC's NY-16 Operation — The Numbers
 
 The 2024 Bowman-Latimer primary was the most expensive House primary in American history, driven entirely by pro-Israel and crypto industry outside spending.
 
@@ -112,7 +118,7 @@ The 2024 Bowman-Latimer primary was the most expensive House primary in American
 
 ---
 
-### FEC Independent Expenditure Breakdown — Opposing Bowman
+## FEC Independent Expenditure Breakdown — Opposing Bowman
 
 FEC processed filings document 65 independent expenditure transactions opposing Bowman across his career. The 2024 cycle accounts for the overwhelming majority.
 
@@ -139,7 +145,7 @@ FEC processed filings document 65 independent expenditure transactions opposing 
 
 ---
 
-### The Crypto Industry's Role — FAIRSHAKE
+## The Crypto Industry's Role — FAIRSHAKE
 
 FAIRSHAKE, the cryptocurrency industry's super PAC, spent $2,078,023 opposing Bowman in the 2024 primary — a $2,066,900 media buy through Targeted Platform Media on June 12, 2024, plus $11,123 in production costs. FAIRSHAKE's involvement is structurally significant because it reveals that the anti-Bowman coalition extended beyond the Israel lobby.
 
@@ -149,7 +155,7 @@ The FAIRSHAKE spending pattern mirrors the UDP model: a single massive media buy
 
 ---
 
-### Republican Money in a Democratic Primary
+## Republican Money in a Democratic Primary
 
 The structure of AIPAC's United Democracy Project created a vehicle for Republican megadonor money to determine a Democratic primary outcome — without Republican voters having any say in the process.
 
@@ -162,7 +168,7 @@ This is the Both-Sides Illusion operating in reverse: Republicans publicly conde
 
 ---
 
-### The Fire Alarm — The Weapon That Wasn't
+## The Fire Alarm — The Weapon That Wasn't
 
 On September 30, 2023, Bowman pulled a fire alarm in the Cannon House Office Building during a procedural moment around the government funding vote. He claimed he was trying to open a door and confused the handle with a door release. Republicans immediately demanded censure and framed the incident as deliberate obstruction of a House vote.
 
@@ -223,7 +229,7 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 ---
 
-### Legislative Record
+## Legislative Record
 
 **Foreign Policy:** Bowman called for a Gaza ceasefire within days of the October 7 Hamas attack and the Israeli military response. He demanded an end to U.S. military aid to Israel and publicly accused Israel of genocide — a term that placed him among a very small group of House members willing to use it. He expressed doubt about initial reports of Hamas sexual violence and later apologized for that specific statement.
 
@@ -259,20 +265,18 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 ## Sources
 
+### Verified
 - [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
-- [FEC: Independent expenditures opposing Bowman — all spenders](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
-- [FEC: United Democracy Project independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&q_spender=united+democracy+project&is_notice=false&candidate_id=H0NY16143) (Tier 1)
-- [FEC Candidate: Jamaal Bowman campaign finance summary](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
+- [FEC: Independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)
+- [FEC: United Democracy Project IE filings against Bowman](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project&candidate_id=H0NY16143) (Tier 1)
 - [Congress.gov: Jamaal Bowman member profile](https://www.congress.gov/member/jamaal-bowman/B001223) (Tier 1)
+- [GovTrack: Jamaal Bowman voting record](https://www.govtrack.us/congress/members/456839) (Tier 1)
 - [The Intercept: George Latimer rakes in AIPAC cash to primary Bowman](https://theintercept.com/2024/02/01/george-latimer-aipac-donors-jamaal-bowman/) (Tier 2)
 - [The Intercept: AIPAC spends $2 million to attack Bowman](https://theintercept.com/2024/05/16/aipac-jamaal-bowman-attack-ads-george-latimer/) (Tier 2)
-- [The Intercept: Progressives on AIPAC beating Bowman — how to "buy an election"](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2)
-- [Axios: Democrats groan at AIPAC's $14.5M "overkill" against Bowman](https://www.axios.com/2024/06/26/democrats-aipac-jamaal-bowman-george-latimer) (Tier 2)
+- [The Intercept: Progressives on AIPAC beating Bowman](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2)
+- [Axios: Democrats groan at AIPAC's $14.5M against Bowman](https://www.axios.com/2024/06/26/democrats-aipac-jamaal-bowman-george-latimer) (Tier 2)
 - [Washington Post: Jamaal Bowman censured after pulling fire alarm](https://www.washingtonpost.com/politics/2023/12/07/jamaal-bowman-censure-fire-alarm/) (Tier 2)
 - [Ballotpedia: Jamaal Bowman](https://ballotpedia.org/Jamaal_Bowman) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

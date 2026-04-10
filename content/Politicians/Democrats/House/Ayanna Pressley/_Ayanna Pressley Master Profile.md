@@ -39,11 +39,9 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Maxine Waters Master Profile|Waters]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Cory Booker Master Profile|Booker]]"
 ---
-
 #pressley #massachusetts #progressive #squad #financial-services #criminal-justice #boston
-
-related: [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Ilhan Omar Master Profile|Omar]] [[_Rashida Tlaib Master Profile|Tlaib]] [[_Maxine Waters Master Profile|Waters]] [[_Elizabeth Warren Master Profile|Warren]] [[_Cory Booker Master Profile|Booker]]
 
 ---
 

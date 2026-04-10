@@ -48,12 +48,10 @@ corroboration-count: 3
 known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Republican Jewish Coalition]]"
 ---
-
 tags:
   - donor #donor-node #mega-donor #tech #whatsapp #republican #privacy #class-analysis #follow-the-money #jewish-donors #libertarian
-
-related: [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Republican Jewish Coalition]] · Silicon Valley · Privacy Movement
 
 ---
 

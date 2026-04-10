@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Vivek Ramaswamy Master Profile]]
+related: "[[_Vivek Ramaswamy Master Profile]] · [[Elon Musk]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #vivek-ramaswamy #doge #elon-musk #h1b #trump #class-analysis #operational-control
 
-related: [[_Vivek Ramaswamy Master Profile]] [[Elon Musk]] [[_Donald Trump Master Profile]]
 donors: [[Elon Musk]]
-
-content-readiness:: ready
 
 ---
 

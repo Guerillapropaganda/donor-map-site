@@ -34,15 +34,12 @@ net-assets: "$1"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Valero Energy]]"
+related: "[[Valero Energy]] · [[ConocoPhillips]] · [[Koch Industries]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[_James Lankford Master Profile|Lankford]] · [[_Markwayne Mullin Master Profile|Mullin]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 1
 total-assets: 1
 ---
-
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas
-
-related: [[ConocoPhillips]] [[Koch Industries]] [[ExxonMobil]] [[Fossil Fuel Bloc]] [[_James Lankford Master Profile|Lankford]] [[_Markwayne Mullin Master Profile|Mullin]]
 
 ---
 
@@ -72,7 +69,6 @@ Favorable federal land leasing policies (expedited permitting, reduced royalty r
 > Devon's Oklahoma-centric political operation illustrates how energy companies capture state governments. Oklahoma's economy depends on oil and gas revenue; the industry's tax contributions fund state services; and the industry's political contributions ensure the tax rates remain low. The circular dependency — the state needs the industry, the industry shapes the state — creates a political environment where regulation of oil and gas is structurally impossible regardless of which party holds power.
 
 ---
-
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -122,7 +118,6 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 - [OU Daily: Mullin Violates STOCK Act](https://www.oudaily.com/news/sen-markwayne-mullin-violates-stock-act-by-failing-to-report-years-of-stocks-trades/article_4b70eb4c-7b0f-48bf-b0ab-39bbdb2f6233.html) (Tier 2)
 - [CISA: Pipeline Cybersecurity](https://www.cisa.gov/resources-tools/programs/pipeline-cybersecurity) (Tier 1)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

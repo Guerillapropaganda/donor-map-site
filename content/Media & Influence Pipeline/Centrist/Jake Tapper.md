@@ -12,7 +12,6 @@ related: "[[Fox Corp - Rupert Murdoch]] · [[Anderson Cooper]] · [[Nicolle Wall
 
 #media-pipeline #centrist #cnn #corporate-media #ownership-instability #novelist #debate-moderator
 
-
 ---
 
 ### Who They Are
@@ -130,4 +129,3 @@ Tapper represents the institutional center's structural function: making the don
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Jake Tapper shows zero federal political contributions across both "JAKE" and "JACOB" name variations. The $0 record from a $7M/year debate moderator is the institutional price of performed neutrality.
 
-content-readiness:: ready

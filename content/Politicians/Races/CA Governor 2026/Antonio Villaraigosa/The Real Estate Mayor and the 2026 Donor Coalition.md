@@ -7,12 +7,9 @@ source-tier: 2
 parent:
   - - _Antonio Villaraigosa Master Profile
 stories: '[[_Antonio Villaraigosa Master Profile]]'
+related: "[[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]]"
 ---
-
-
 #antonio-villaraigosa #real-estate-machine #gentrification #safer-cities #developer-coalition #2026 #class-analysis
-
-related: [[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]]
 
 donors: [[California Building and Construction Trades Council]] · [[California Apartment Association]]
 
@@ -115,4 +112,3 @@ The question is not whether Villaraigosa would govern as mayor-like (development
 - [CalMatters: Billionaires vs teachers union: Charter school fight amps up race for California governor](https://calmatters.org/education/2018/05/billionaires-vs-teachers-union-a-fight-over-charter-schools-amps-up-race-for-california-governor/) (Tier 2)
 - [LA Times: Measure ULA Real Estate Transfer Tax](https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained) (Tier 2)
 
-content-readiness:: ready

@@ -36,7 +36,6 @@ lei-jurisdiction: "US-NJ"
 
 #think-tank #liberal #progressive-economics #antitrust #inequality #industrial-policy #monopoly-power #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -231,8 +230,6 @@ But the class function is more nuanced than it appears:
 - [Roosevelt Institute: Celebrates Confirmation of Board Vice Chair Dr. Lisa Cook to Federal Reserve Board (May 2022)](https://rooseveltinstitute.org/press-releases/ri-congratulates-board-vice-chair-dr-lisa-cook-on-her-confirmation/) (Tier 3)
 - [NPR: Senate Approves Lisa Cook as First Black Woman on Federal Reserve Board of Governors (May 2022)](https://www.npr.org/2022/05/10/1098105334/lisa-cook-federal-reserve) (Tier 2)
 - [Roosevelt Institute: New Leadership at Roosevelt — Elizabeth Wilkins Named President and CEO (Feb 2025)](https://rooseveltinstitute.org/roosevelt-rundown/new-leadership-at-roosevelt/) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

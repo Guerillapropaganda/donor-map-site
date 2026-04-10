@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-22
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
+related: "[[Immigration Enforcement - The Detention Economy]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Crypto Industry Bloc]]"
 ---
-
-
 #donald-trump #immigration #h1b #h2a #eb5 #visa #class-analysis #follow-the-money #tech #agribusiness #contradiction
 
-related: [[Immigration Enforcement - The Detention Economy]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Crypto Industry Bloc]]
 donors: [[Elon Musk]] · [[Koch Network - Charles Koch]]
-
-content-readiness:: ready
 
 ---
 
@@ -83,4 +79,3 @@ The EB-5 investor visa grants permanent residency to foreign nationals who inves
 - [CNN. Lawmakers target visa program that benefits Trump family businesses (March 2017)](https://www.cnn.com/2017/03/08/politics/congress-eb5-investor-reform-trump/index.html) (Tier 2)
 - [Newsweek. Trump's EB5 Gold Card Everything You Need to Know (February 2025)](https://www.newsweek.com/trump-eb5-gold-card-5m-visa-program-2036324) (Tier 2)
 
-research-status:: H-1B fee from White House executive action and PBS. H-2A wage impact from Economic Policy Institute and The Nation. EB-5 Trump connection from CNN. Gold Card from Newsweek. Tech donor H-1B dependence from CalMatters. Remaining. Specific H-1B employer data by company, Trump Organization EB-5 project list, H-2A employer participation breakdown by farm size.

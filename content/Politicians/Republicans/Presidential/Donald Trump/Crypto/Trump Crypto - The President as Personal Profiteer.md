@@ -5,13 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Media and Propaganda - Donors and Backers]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[Crypto and Tech - Donors and Backers]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[Crypto and Tech - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]]"
 ---
-
-
 #trump #crypto #WLFI #meme-coin #class-analysis #follow-the-money #conflict-of-interest #deregulation #grift #personal-enrichment
-
-related: [[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]]
 
 donors: [[Crypto Industry Bloc]]
 
@@ -138,4 +134,3 @@ The Strategic Bitcoin Reserve (announced in Executive Order, details to follow i
 - [Cointelegraph: SEC crypto enforcement reversals — 60% of cases halted under Trump](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) (Tier 2)
 - [NPR: How Trump's latest crypto launch enriches his family](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2)
 
-content-readiness:: ready

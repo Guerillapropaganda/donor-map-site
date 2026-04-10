@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]]"
+related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #criminal-justice #death-penalty #moratorium #genuine-win #executive-order #class-analysis #reversible #race #poverty
 
-related: [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] | [[Criminal Justice - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: (Criminal justice reform networks)
 
 ---
@@ -120,4 +117,3 @@ This is a genuine win with real limits. Credit the moratorium and the transfer p
 - [Death Penalty FOCUS: California death penalty facts and Newsom transformation of San Quentin](https://deathpenalty.org/ca_factsheet/) (Tier 3)
 - [Zócalo Public Square: "The Dark Side of Gavin Newsom's Moratorium on the Death Penalty" (2019)](https://www.zocalopublicsquare.org/dark-side-gavin-newsoms-moratorium-death-penalty/) (Tier 3)
 
-content-readiness:: ready

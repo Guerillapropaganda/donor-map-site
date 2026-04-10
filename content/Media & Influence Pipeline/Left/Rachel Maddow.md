@@ -14,7 +14,6 @@ donors: "[]"
 
 #media-pipeline #left #cable-news #msnbc #corporate-media #russiagate #dnc-alignment #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -177,4 +176,3 @@ Rachel Maddow represents **the corporate progressive media model** — the highe
 - [Philadelphia Inquirer: "MSNBC is getting a new name ahead of NBC split" (Aug 2025)](https://www.inquirer.com/entertainment/tv/msnbc-new-name-msnow-rachel-maddow-20250818.html) (Tier 2)
 ---
 
-content-readiness:: ready

@@ -27,14 +27,11 @@ nonprofit-status: "501(c)(4)"
 sec-filings: 1
 sec-form-types:
   - "D"
-related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Save America PAC]]"
+related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Save America PAC]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]]"
 ---
-
 #donor-node #super-pac #trump #mega-donors #dark-money
 
 tags: #donor
-
-related: [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]]
 
 ---
 
@@ -130,9 +127,6 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 - [Campaign Legal Center: FEC complaint — Save America soft money transfer to MAGA Inc](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-fec-complaint-against-former-president-donald) (Tier 2)
 
 ---
-
-content-readiness:: ready
-research-status:: ready — $304M war chest documented, top donor breakdown (Mellon $165M+, Adelson $100M+, Yass $45M+), 2026 midterm war chest ($294-304M), new donor class (Foris Dax $30M, Brockman $25M, Energy Transfer $25M), donor-to-policy returns mapped, concentration analysis (3 donors = 80%). All ### headers, Tier 1-2 sources. Promoted to ready Session 38h.
 
 ---
 

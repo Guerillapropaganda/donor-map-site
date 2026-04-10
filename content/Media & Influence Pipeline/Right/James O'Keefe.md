@@ -12,7 +12,6 @@ related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Founda
 
 #media-pipeline #right #guerilla-journalism #project-veritas #omg #donor-funded #dark-money #donorstrust #bradley-foundation
 
-
 ---
 
 ### Who They Are
@@ -168,4 +167,3 @@ The class function of Project Veritas was to provide opposition research infrast
 
 ---
 
-content-readiness:: developed

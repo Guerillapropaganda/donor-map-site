@@ -12,7 +12,6 @@ related: "[[Peter Thiel]] · [[Marc Andreessen and a16z]] · [[Goldman Sachs]] �
 
 #media-pipeline #centrist #substack #twitter-files #investigative-journalism #audience-swap
 
-
 ---
 
 ### Who They Are
@@ -166,4 +165,3 @@ But the class analysis doesn't require bad faith to function. The structural que
 - [Wikipedia: Matt Taibbi](https://en.wikipedia.org/wiki/Matt_Taibbi) (Tier 3)
 - [Wikipedia: Twitter Files](https://en.wikipedia.org/wiki/Twitter_Files) (Tier 3)
 
-content-readiness:: ready

@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]]"
+related: "[[Intra-Republican Contradiction Map]] · [[_Media Pipeline Framework]] · [[_Media Pipeline Index]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Peter Thiel]] · [[Research Methodology and Data Sources]]"
 ---
-
 #media-pipeline #cross-analysis #class-analysis #donor-map #both-sides-illusion
-
-related: [[_Media Pipeline Framework]] · [[_Media Pipeline Index]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Peter Thiel]] · [[Research Methodology and Data Sources]]
 
 ---
 
@@ -145,4 +142,3 @@ This note synthesizes findings from all 30 profiles in the [[_Media Pipeline Ind
 
 ---
 
-content-readiness:: ready

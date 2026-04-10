@@ -89,7 +89,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]] · [[Jon Ossoff Master Profile]] · [[Jason Smith]] · [[Adam Smith]]"
+related: "[[Colorado 2026 Senate Race]] · [[Martin Heinrich Master Profile]] · [[Mark Warner]] · [[Zoe Lofgren]] · [[Gerry Connolly]] · [[Virginia 2026 Senate Race]] · [[Jon Ossoff Master Profile]] · [[Jason Smith]] · [[Adam Smith]] · [[Silicon Valley Donors]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[a16z - Andreessen Horowitz|a16z]]"
 court-cases: 1270
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -99,10 +99,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
 ---
-
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan
-
-related: [[Silicon Valley Donors]] [[Google - Alphabet]] [[Meta - Facebook]] [[a16z - Andreessen Horowitz|a16z]]
 
 ---
 
@@ -137,8 +134,6 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 
 - [FEC Receipts: Tech industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Technology industry political spending](https://ballotpedia.org/Tech_Industry) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

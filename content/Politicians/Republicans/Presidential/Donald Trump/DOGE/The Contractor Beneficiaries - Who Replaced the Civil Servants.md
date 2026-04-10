@@ -27,12 +27,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[DOGE - The Billionaires Government]] · [[The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared]] · [[The Palantir State - Surveillance as Policy]] · [[_Donald Trump Master Profile]] · [[Elon Musk]]"
 ---
-
-
 #donald-trump #doge #contractors #privatization #class-analysis #follow-the-money #spacex #palantir #deloitte #booz-allen #outsourcing
 
-related: [[DOGE - The Billionaires Government]] · [[The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared]] · [[The Palantir State - Surveillance as Policy]] · [[_Donald Trump Master Profile]] · [[Elon Musk]]
 donors: [[Elon Musk]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]
 
 content-readiness:: ready

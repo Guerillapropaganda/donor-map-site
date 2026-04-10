@@ -7,11 +7,9 @@ source-tier: null
 parent: null
 known-gaps:
   - "No mapped relationships"
+related: "[[Publication Manifest]] · [[Website Publication Plan]] · [[Session Timeline]]"
 ---
-
 tags: #vault-maintenance #publication #audit #automated
-
-related: [[Publication Manifest]] · [[Website Publication Plan]] · [[Session Timeline]]
 
 ---
 

@@ -17,7 +17,7 @@ ein: "854202763"
 annual-revenue: "$27.3M"
 net-assets: "$9.9M"
 tax-year: "2023"
-related: "[[Federalist Society]] · [[Linda McMahon Master Profile]]"
+related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
@@ -26,10 +26,7 @@ last-enriched: "2026-04-09"
 total-revenue: 54851367
 total-assets: 25178547
 ---
-
 #afpi #trump #think-tank #project-2025 #transition #dark-money #maga
-
-related: [[Heritage Foundation]] [[Council for National Policy]] [[Leonard Leo]]
 
 ---
 

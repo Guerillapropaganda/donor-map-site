@@ -26,16 +26,13 @@ ein: "264486735"
 annual-revenue: "$181.4M"
 net-assets: "$139.9M"
 tax-year: "2023"
-related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]] · [[Center for American Progress]]"
+related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]] · [[Center for American Progress]] · [[Arabella Advisors]] · [[Demand Justice]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]]"
 nonprofit-status: "501(c)(4)"
 total-revenue: 284289469
 total-assets: 106501029
 total-political-spend: "$101,443,846"
 ---
-
 #donor-node #dark-money #democrat #arabella #fiscal-sponsorship #class-analysis #donor
-
-related: [[Arabella Advisors]] · [[Demand Justice]] · [[Open Society Foundations]] · [[Democracy Alliance]] · Hansjörg Wyss · [[George Soros]] · [[DonorsTrust]] · Donors Capital Fund
 
 ---
 
@@ -180,9 +177,6 @@ Republicans have launched formal investigations (James Comer Oversight Committee
 - [CampaignNow: The $1.5 Billion Machine — Arabella 2024 Dark Money Blitz](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 3)
 
 ---
-
-research-status:: ready — Full citation pass complete. $410M 2020 cycle, $311M 2024 cycle, $1.5B Arabella total. Pop-up model documented (6 examples), DonorsTrust comparison, Demand Justice $50M+, temporal spending cycles (2018-2024), Texas 2026 primary dark money trail, Chorus program collapse. 10+ sources, Tier 1-3. All ### headers, callout blocks fixed. Promoted Session 38j.
-content-readiness:: ready
 
 ---
 

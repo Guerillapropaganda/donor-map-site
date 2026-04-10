@@ -5,11 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Tulsi Gabbard Master Profile]]
+related: "[[_Tulsi Gabbard Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]]"
 ---
-
 #gabbard #anti-establishment #russia #rt #foreign-influence #hindu-nationalist #rss #science-of-identity #democrat-to-republican #class-analysis #follow-the-money #contrarianism #media-platform
 
-related: [[_Tulsi Gabbard Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]]
 donors: [[_Donald Trump Master Profile]] · (MAGA small-dollar network)
 
 ---
@@ -98,4 +97,3 @@ The DNI appointment rewards all three utilities simultaneously. The intelligence
 - [Honolulu Civil Beat: Senators urged to examine Gabbard's 'deep and intense' ties to Hawaii sect](https://www.civilbeat.org/2024/12/senators-urged-to-examine-gabbards-deep-and-intense-ties-to-hawaii-sect/) (Tier 2)
 - [FEC Candidate: Gabbard congressional campaign donors](https://www.fec.gov/data/candidate/H2HI02508/) (Tier 1)
 
-content-readiness:: ready

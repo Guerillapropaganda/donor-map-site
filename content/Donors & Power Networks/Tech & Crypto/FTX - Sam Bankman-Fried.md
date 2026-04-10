@@ -25,13 +25,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[French Hill]] · [[Sam Bankman-Fried]]"
+related: "[[French Hill]] · [[Sam Bankman-Fried]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #donor #crypto #dark-money #fraud #class-analysis #follow-the-money #both-sides-illusion #regulatory-capture
-
-related: [[Crypto Industry Bloc]] [[Fairshake PAC]] [[_Donald Trump Master Profile|Trump]] Protect Our Future PAC
 
 ---
 
@@ -150,8 +146,6 @@ SBF represents the purest case study in the vault of money-as-political-infrastr
 - [Roll Call: FTX Leaders' Donations Topped $1M Weeks Before Bankruptcy](https://rollcall.com/2023/02/23/ftx-leaders-political-donations-topped-1m-weeks-before-bankruptcy/) (Tier 3)
 
 ---
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

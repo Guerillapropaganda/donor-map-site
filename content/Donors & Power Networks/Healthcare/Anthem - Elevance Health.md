@@ -18,13 +18,9 @@ total-revenue: 40154470
 total-assets: 139880517
 lobbying-spend: 680000
 lobbying-filings: 12
-related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]]"
+related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
 ---
-
-
 #donor #healthcare-industry #insurance #anthem #elevance #single-payer-opponent #follow-the-money #california #medicare-advantage #lobbying #pbm
-
-related: [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]
 
 ---
 
@@ -121,9 +117,6 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 - [Fierce Healthcare: Elevance Health Q4 2024 earnings, $175.2B revenue](https://www.fiercehealthcare.com/payers/elevance-health-beats-profit-misses-revenue-mixed-q4) (Tier 2)
 - [Becker's Payer Issues: Elevance Health 5 highest-paid executives 2024](https://www.beckerspayer.com/payer/elevance-healths-5-highest-paid-executives-2025/) (Tier 2)
 - ~~[National Institute on Money in Politics: FollowTheMoney.org — Anthem/Elevance state contributions](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Anthem%20-%20Elevance%20Health#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-
-research-status:: ready — Promoted Session 39. — Expanded from draft with federal PAC data ($3.17M raised, $1.15M to candidates), federal lobbying ($10.6M/year), CEO compensation ($20.5M), Medicare Advantage growth projections, insurance bloc comparison table, class analysis. 7 sources, Tier 1-2. All ### headers. Needs FPPC primary verification for California figures and revolving door documentation before ready promotion.
-content-readiness:: ready
 
 ---
 

@@ -14,7 +14,6 @@ known-gaps:
 
 #media-pipeline #left #substack #democratic-establishment #historian #audience-capture #letters-from-an-american
 
-
 ---
 
 ### Who They Are
@@ -83,4 +82,3 @@ Revenue model: 100% Substack subscriptions ($5-12M annual). Audience: college-ed
 - [Current Affairs: Robinson critique](https://www.currentaffairs.org/news/2023/11/does-democracy-mainly-mean-voting-for-democrats) (Tier 3)
 - [Senator Coons: American Conversations](https://www.coons.senate.gov/news/press-releases/icymi-senator-coons-joins-heather-cox-richardsons-american-conversations-to-discuss-how-democrats-can-deliver-an-opportunity-security-and-justice-agenda/) (Tier 1)
 
-content-readiness:: developed

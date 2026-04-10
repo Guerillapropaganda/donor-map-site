@@ -9,17 +9,13 @@ sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]]"
+related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]] · [[UnitedHealth Group - Optum]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[PhRMA]]"
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
-
 #pbm #pharmacy-benefit-managers #optumrx #cvs-caremark #express-scripts #unitedhealth #cigna #drug-pricing #rebates #class-analysis #follow-the-money
-
-related: [[UnitedHealth Group - Optum]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[PhRMA]]
 
 ---
 

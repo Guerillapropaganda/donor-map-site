@@ -11,7 +11,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]]"
+related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
@@ -28,11 +28,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
-
 #donor #securus #aventiv #carceral-state #prison-telecom #surveillance #private-equity #platinum-equity #national #california #follow-the-money #class-analysis
-
-related: [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]]
 
 ---
 
@@ -118,9 +114,6 @@ The $315M California contract is the countervailing force. Even as rates are reg
 - [Prison Policy Initiative: Prison telecom research](https://www.prisonpolicy.org/phones/) (Tier 2)
 - [Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.gov/filings/public/filing/search/) (Tier 2)
 - [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3)
-
-research-status:: ready — $700M revenue, 50% market share, Platinum Equity $1.6B acquisition, $1.3B debt, $315M CA contract, commission model, surveillance/location tracking, Martha Wright-Reed Act, CCC- S&P rating, video visitation scheme. 8 sources, Tier 1-3. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

@@ -43,13 +43,10 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Tim Scott]] · [[US Chamber of Commerce]]"
+related: "[[Tim Scott]] · [[US Chamber of Commerce]] · [[_John Thune Master Profile|John Thune]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Chevron]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]"
 donors: "[[Harlan Crow]] · [[Insurance Industry]]"
 ---
-
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz
-
-related: [[_John Thune Master Profile|John Thune]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Chevron]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]
 
 donors: [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch]] · [[US Chamber of Commerce]] · [[Goldman Sachs]] · [[Blackstone]] · [[Senate Leadership Fund]]
 
@@ -184,9 +181,6 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 - [Roll Call: Cashing in on justice — Cruz, Cornyn, Graham raked in contributions from nominees they backed](https://rollcall.com/2020/03/03/cashing-in-on-justice/) (Tier 2)
 - [KERA News: F-35 fight — support for Fort Worth-produced aircraft could derail government efficiency cut](https://www.keranews.org/business-economy/2024-12-06/an-f-35-fight-support-for-fort-worth-produced-aircraft-could-derail-government-efficiency-cut) (Tier 2)
 - [Ballotpedia: John Cornyn](https://ballotpedia.org/John_Cornyn) (Tier 3)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

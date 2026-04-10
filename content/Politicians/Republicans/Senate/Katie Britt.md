@@ -13,13 +13,11 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]]"
 ---
-
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured
 
 tags: #republican
-
-related: Richard Shelby Master Profile · [[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]] · McConnell Senate Leadership Fund · Defense Industry Networks
 
 donors: [[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]] · Oil & Gas Industry · [[Defense Contractors]] · McConnell Donor Network
 

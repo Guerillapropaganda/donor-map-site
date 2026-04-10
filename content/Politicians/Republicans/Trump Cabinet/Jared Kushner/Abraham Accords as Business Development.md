@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Jared Kushner Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Miriam Adelson]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #kushner #abraham-accords #UAE #bahrain #weapons-sales #class-analysis #follow-the-money #MBS #khashoggi #dual-role #monetization
-
-related: [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Miriam Adelson]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Donald Trump Master Profile]]
 
 donors: [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Miriam Adelson]]
 

@@ -27,12 +27,9 @@ corroboration-count: 3
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
 ---
-
-
 #rick-scott #senate #florida #medicare-fraud #columbia-hca #self-funded #billionaire #class-analysis
-
-related: [[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]
 
 donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 

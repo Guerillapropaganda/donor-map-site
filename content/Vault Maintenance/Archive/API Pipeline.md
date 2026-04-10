@@ -13,11 +13,9 @@ source-types:
 corroboration-count: 4
 known-gaps:
   - "No mapped relationships"
+related: "[[Research Methodology and Data Sources]] · [[Quality Standards]] · [[Sources Master Node]]"
 ---
-
 #infrastructure #api #data-pipeline #methodology
-
-related: [[Research Methodology and Data Sources]] · [[Quality Standards]] · [[Sources Master Node]]
 
 ---
 
@@ -315,4 +313,3 @@ Each report carries a `last-run` ISO timestamp in frontmatter and a pretty `_Las
 
 ---
 
-content-readiness:: developed

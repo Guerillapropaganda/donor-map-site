@@ -19,13 +19,9 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]]"
+related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]]"
 ---
-
-
 #donor #prison-guards #CCPOA #labor-union #carceral-state #class-analysis #reform-ceiling #california #follow-the-money #union-as-capital-instrument
-
-related: [[_Gavin Newsom Master Profile]] | [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] | [[San Quentin - COVID Disaster and Rehabilitation Theater]] | [[Policing Reform - George Floyd Era]] | [[Criminal Justice - Donors and Backers]]
 
 ---
 
@@ -219,9 +215,6 @@ Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1
 - [CalMatters — 2019 CDCR overtime (~$491M)](https://calmatters.org/justice/2020/08/california-prisons-psychiatric-overtime/) (Tier 2) (VERIFIED)
 - [KQED — CCPOA $2M donation return](https://www.kqed.org/news/11722611/correctional-officers-ask-for-money-back-from-controversial-ballot-measure) (Tier 2) (VERIFIED)
 - [KPBS — CCPOA Newsom spending](https://www.kpbs.org/news/politics/2024/07/15/prison-unions-big-spending-california-governor-gavin-newsom) (Tier 2) (VERIFIED)
-
-research-status:: ready — core role fully documented. CCPOA power mapped across funding ($2.9M to Newsom, $1.6B in contracts), prison closures (5 facilities, $928M+ savings), overtime structure ($600M+ annually), and policy outcomes. 9 major section headers with class analysis framework. 23 sources (Tier 1-2). File length: 188 lines. Complete contradiction callout on Newsom dynamic. All wikilinks verified. Promoted Session 38k.
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

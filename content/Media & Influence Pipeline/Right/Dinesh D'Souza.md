@@ -12,7 +12,6 @@ related: "[[Salem Media Group]] · [[Club for Growth Action]] · [[Right Texas P
 
 #media-pipeline #right #conservative-film #salem-media #dinesh #trump-pardon #election-fraud #propagandist
 
-
 ---
 
 ### Who They Are
@@ -173,4 +172,3 @@ D'Souza represents the **propagandist-for-hire** model within the conservative d
 
 ---
 
-content-readiness:: developed

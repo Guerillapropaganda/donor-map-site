@@ -26,7 +26,7 @@ lei: "254900QJNNCR8JK6LC36"
 lei-jurisdiction: "CZ"
 lobbying-spend: 130000
 lobbying-filings: 8
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Peter Thiel]] · [[Ajay Royan]] · [[Narya Capital]] · [[Founders Fund]]"
 court-cases: 10
 court-jurisdictions:
   - "District Court, C.D. California"
@@ -35,10 +35,7 @@ court-jurisdictions:
   - "District Court, W.D. Texas"
   - "United States Bankruptcy Court, D. Delaware"
 ---
-
 #donor #thiel #venture-capital #defense-tech #biotech #growth-stage
-
-related: [[Peter Thiel]] [[Ajay Royan]] Defense Tech Ecosystem [[Narya Capital]] [[Founders Fund]] Government Contracting - Defense & Intel
 
 ---
 
@@ -122,9 +119,6 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 - [Mithril Capital's Ajay Royan Talks Auris, Peter Thiel and the VC Space - Fortune](https://fortune.com/2019/02/28/mithril-capital-ajay-royan-auris-health-peter-thiel/) (Tier 2)
 
 ---
-
-research-status:: ready — Thiel/Royan $402M fund, Palantir supervoting shares, BlackSky intelligence, Auris $3.4B exit, defense-tech pipeline, Narya/Founders Fund ecosystem, ideological pipeline analysis. 10 sources, Tier 2-3. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

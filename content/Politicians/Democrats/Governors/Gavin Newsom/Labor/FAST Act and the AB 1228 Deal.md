@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Prop 22 - The $200M Corporate Rollback]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #labor #FAST-act #AB257 #AB1228 #fast-food #minimum-wage #fast-food-council #joint-liability #restaurant-industry #deal #who-benefits
 
-related: [[AB5 - Gig Worker Classification]] | [[Labor - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[California Restaurant Association]]
 
 ---
@@ -117,4 +114,3 @@ The referendum threat forced an accelerated deal. Without the referendum, the pr
 - [LA Times: Joint liability removal and what workers lost](https://www.latimes.com/business/story/2023-09-11/fast-food-minimum-wage-deal-explained) (Tier 2)
 - [CalMatters: What did the California fast food council do in its first year?](https://calmatters.org/california-divide/2025/03/california-fast-food-council-one-year/) (Tier 2)
 
-content-readiness:: ready

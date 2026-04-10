@@ -12,7 +12,6 @@ donors: "[[Peter Thiel]]"
 
 #media-profile #right #conservative #rumble #fbi #trump #revolving-door #law-enforcement #podcaster #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -183,4 +182,3 @@ Dan Bongino represents **the media-to-government revolving door as content strat
 
 ---
 
-content-readiness:: ready

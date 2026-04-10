@@ -17,16 +17,13 @@ federal-register-mentions: 4
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Securities and Exchange Commission"
-related: "[[Intra-Republican Contradiction Map]] · [[The Ohio Governor Race and the Billionaire Super PAC]]"
+related: "[[Intra-Republican Contradiction Map]] · [[The Ohio Governor Race and the Billionaire Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[_Vivek Ramaswamy Master Profile|Ramaswamy]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Rand Paul Master Profile|Rand Paul]] · [[Club for Growth]] · [[MAGA Inc]] · [[Fairshake PAC]] · [[Susquehanna International Group]]"
 sec-filings: 6
 sec-form-types:
   - "EX-99.1"
   - "SC 13D"
 ---
-
 #donor #yass #tiktok #bytedance #trading #libertarian #class-analysis #follow-the-money #trump #school-choice #club-for-growth #mega-donor #pennsylvania-money
-
-related: [[_Donald Trump Master Profile|Trump]] · [[_Vivek Ramaswamy Master Profile|Ramaswamy]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Rand Paul Master Profile|Rand Paul]] · [[Club for Growth]] · [[MAGA Inc]] · [[Fairshake PAC]] · [[Susquehanna International Group]]
 
 ---
 
@@ -441,8 +438,6 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 > **Note on FEC data:** FEC contributions listed above are drawn from OpenSecrets donor-lookup aggregation (Tier 1 source). Full FEC Schedule A endpoint query required for complete disambiguation of name variants (YASS, JEFFREY S vs. other variations). Chrome session with FEC API query pending for comprehensive 2024-2025 cycle validation.
 
 ---
-
-content-readiness:: developed
 
 ---
 

@@ -40,11 +40,9 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 donors: "[[NORPAC]]"
+related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]]"
 ---
-
 #politician #democrat #senate #colorado #oil-gas #fracking #tech #brewery #moderate #follow-the-money #class-analysis #2026-election
-
-related: [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]]
 
 donors: [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Brownstein Hyatt Farber Schreck]]
 
@@ -230,8 +228,6 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 - [Ballotpedia: John Hickenlooper](https://ballotpedia.org/John_Hickenlooper) (Tier 3)
 
 ---
-
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -13,7 +13,6 @@ donors: "[]"
 
 #media-profile #centrist #journalist #cnn #newsnation #nexstar #dynasty #corporate-media #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -161,4 +160,3 @@ Chris Cuomo represents the **corporate media carousel** — the mechanism by whi
 
 ---
 
-content-readiness:: ready

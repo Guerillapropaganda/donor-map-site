@@ -21,7 +21,7 @@ sec-form-types:
   - "DEF 14A"
 lobbying-spend: 2680000
 lobbying-filings: 53
-related: "[[Wall Street Finance Networks]]"
+related: "[[Wall Street Finance Networks]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Club for Growth]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Elon Musk]]"
 doj-press-mentions: "264413"
 doj-components:
   - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
@@ -35,10 +35,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #citadel #kenneth-griffin #hedge-fund #wall-street #mega-donor #market-making #florida #payment-for-order-flow #pfof #deregulation #class-analysis #follow-the-money
-
-related: [[Blackstone Group]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Club for Growth]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Elon Musk]]
 
 ---
 
@@ -181,9 +178,6 @@ Griffin's political investment protects this arrangement from regulation. His $1
 - [Ballotpedia: Kenneth Griffin political profile](https://ballotpedia.org/Kenneth_Griffin) (Tier 3)
 
 ---
-
-content-readiness:: developed
-research-status:: developed — Expanded from 61 to 180+ lines. Core additions: Citadel Securities market share (40% retail equity volume), PFOF revenue data (Q1 2025: $388M payments, $2B EBITDA), full 2022 and 2024 cycle spending with specific PAC breakdowns, DeSantis relationship arc, Bessent-Treasury connection, Florida move analysis, temporal mapping 9 entries, 2 callout blocks, class analysis, 11 sourced citations Tier 1-3. Gaps: Griffin's private net worth breakdown by fund, 2026 federal donations not yet fully disclosed, specific PFOF regulatory lobbying disclosures.
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

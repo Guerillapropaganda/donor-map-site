@@ -30,11 +30,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+related: "[[Fraternal Order of Police]] · [[PORAC - Peace Officers Research Association of California]]"
 ---
-
 #iacp #law-enforcement #police #lobbying #qualified-immunity #surveillance #reform
-
-related: [[Fraternal Order of Police]] [[PORAC - Peace Officers Research Association of California]]
 
 ---
 

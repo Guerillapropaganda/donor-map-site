@@ -9,12 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_John Thune Master Profile]]"
 ---
-
-
 #john-thune #telecom #net-neutrality #insurance #pharma #att #comcast #verizon #class-analysis
-
-related: [[_John Thune Master Profile]]
 
 donors: [[PhRMA]] · (Telecom industry — AT&T, Verizon, Comcast) · (Insurance industry)
 

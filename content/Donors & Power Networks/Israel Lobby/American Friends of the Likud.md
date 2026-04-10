@@ -9,15 +9,12 @@ sector: "Israel Lobby"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Benjamin Netanyahu"
-related: "[[Haim Saban]]"
+related: "[[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #donor #israel-lobby #likud #501c3 #direct-party-funding #us-israel-nexus
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[Miriam Adelson]] [[Pro-Israel Donor Network Deep Dive]] Netanyahu Israeli Party Financing
 
 ---
 

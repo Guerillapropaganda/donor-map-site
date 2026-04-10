@@ -9,12 +9,9 @@ sector: "Tech & Crypto"
 entity-type: "Story"
 issues:
   - "Technology"
-related: "[[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]]"
+related: "[[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[Tech Industry]] · [[Google - Alphabet]] · [[Tech and Media Donors]]"
 ---
-
 #tech #patent #ip #copyright #lobbying #section-230 #dmca
-
-related: [[Tech Industry]] [[Google - Alphabet]] Qualcomm [[Tech and Media Donors]]
 
 ---
 

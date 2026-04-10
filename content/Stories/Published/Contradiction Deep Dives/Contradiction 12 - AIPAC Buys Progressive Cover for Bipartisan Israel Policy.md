@@ -12,12 +12,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[AIPAC and the Progressive Purge]] · [[Pro-Israel Donor Network Deep Dive]]"
 ---
-
 #investigation #contradiction #aipac #progressive-capture #ritchie-torres #both-sides #class-analysis
 tags: #analysis #story
-
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] Ritchie Torres [[_Bernie Sanders Master Profile|Bernie Sanders]] [[AIPAC and the Progressive Purge]] [[Pro-Israel Donor Network Deep Dive]]
 
 ---
 
@@ -116,5 +114,3 @@ The donor class controls the policy (Gaza escalation) *and* the opposition (prog
 
 ---
 
-research-status:: ready — Promoted Session 39.
-content-readiness:: ready

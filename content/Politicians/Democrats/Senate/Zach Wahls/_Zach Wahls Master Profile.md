@@ -19,12 +19,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Iowa Long Shot and the Rural Democrat Question]]"
 ---
-
-
 #zach-wahls #iowa #senate #2026 #progressive #same-sex-parents #rural-democrat #warren-endorsed #class-analysis
-
-related: [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Iowa Long Shot and the Rural Democrat Question]] · Rural-Urban Divide in Democratic Party · Queer Politics and Electoral Viability
 
 donors: [[National Progressive Donor Networks]] · Small-Dollar Fundraising Model · Rural Democrat Funding Question
 
@@ -266,7 +263,6 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 - ~~[FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -9,12 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Lindsey Graham Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]]"
 ---
-
-
 #lindsey-graham #2020-election #out-of-state #jaime-harrison #dark-money #class-analysis #follow-the-money
-
-related: [[_Lindsey Graham Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]]
 
 donors: [[Senate Leadership Fund]] · (One Nation — dark money)
 

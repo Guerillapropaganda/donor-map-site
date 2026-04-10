@@ -11,18 +11,14 @@ politicians-funded:
   - "Donald Trump"
   - "Ted Cruz"
   - "Steve Bannon"
-related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]]"
+related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]] · [[_Ted Cruz Master Profile]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 lobbying-spend: 790000
 lobbying-filings: 29
 ---
-
-
 #cambridge-analytica #mercer #data-weaponization #facebook #bannon #scl-group #elections #class-analysis
-
-related: [[Robert Mercer]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]] · [[_Ted Cruz Master Profile]]
 
 ---
 

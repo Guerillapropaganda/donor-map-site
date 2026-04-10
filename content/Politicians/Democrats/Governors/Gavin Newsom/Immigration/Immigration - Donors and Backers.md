@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Prop 22 - The $200M Corporate Rollback]] · [[Criminal Justice - Donors and Backers]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[Criminal Justice - Donors and Backers]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Private Detention - AB 32]] · [[Trump Resistance and the 2028 Play]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #immigration #donors #backers #follow-the-money #agricultural-employers #private-prison #GEO-group #[[CoreCivic|CoreCivic]] #western-growers #farm-bureau #research-node
 
-related: [[Sanctuary State - SB 54 and What It Actually Does]] | [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] | [[Private Detention - AB 32]] | [[Trump Resistance and the 2028 Play]] | [[Labor - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[Western Growers Association]] | [[CA Farm Bureau Federation]] | [[GEO Group|GEO Group - Private Prisons]] | [[CoreCivic|CoreCivic - Private Prisons]]
 
 ---

@@ -9,12 +9,9 @@ source-types:
   - DOJ
 known-gaps:
   - "No mapped relationships"
+related: "[[_Rick Scott Master Profile]]"
 ---
-
-
 #rick-scott #columbia-hca #medicare-fraud #healthcare #class-analysis #follow-the-money
-
-related: [[_Rick Scott Master Profile]]
 
 donors: (Columbia/HCA — source of fortune, not donor to politics)
 

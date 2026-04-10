@@ -9,12 +9,9 @@ sector: "Super PACs"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
-related: "[[Matt Gaetz Master Profile]] · [[The McCarthy Ouster and the Politics of Institutional Destruction]] · [[Marjorie Taylor Greene Master Profile]] · [[The Outrage Fundraising Machine - How Controversy Becomes Cash]] · [[From QAnon to DOGE - The Mainstreaming Pipeline]]"
+related: "[[Matt Gaetz Master Profile]] · [[The McCarthy Ouster and the Politics of Institutional Destruction]] · [[Marjorie Taylor Greene Master Profile]] · [[The Outrage Fundraising Machine - How Controversy Becomes Cash]] · [[From QAnon to DOGE - The Mainstreaming Pipeline]] · [[_Donald Trump Master Profile|Trump]] · [[Republican Party Apparatus]] · [[America PAC - Elon Musk]] · [[Trump Donor Coalition]] · [[Trump 2024 Campaign]] · [[ActBlue]] · [[Democratic Small Dollar Networks]]"
 ---
-
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile|Trump]] · [[Republican Party Apparatus]] · [[America PAC - Elon Musk]] · [[Trump Donor Coalition]] · [[Trump 2024 Campaign]] · [[ActBlue]] · [[Democratic Small Dollar Networks]]
 
 ---
 
@@ -121,8 +118,6 @@ The WinRed predatory extraction dimension adds a final layer: the very infrastru
 - [CNN: Political fundraisers take millions from elderly dementia patients](https://www.cnn.com/interactive/2024/10/politics/political-fundraising-elderly-election-invs-dg/) (Tier 2)
 
 ---
-
-content-readiness:: developed
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -87,7 +87,7 @@ subawards-received: 50
 subawards-received-amount: 35631187
 top-federal-agency: "Department of Defense"
 top-naics-code: "238910"
-related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Fossil Fuel Bloc]] · [[GEO Group - Private Prison Industrial Complex]] · [[CoreCivic]]"
+related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Fossil Fuel Bloc]] · [[GEO Group - Private Prison Industrial Complex]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[Lyft]] · [[DoorDash]] · [[_Donald Trump Master Profile]]"
 federal-awards-total: 1913339677
 federal-contracts-count: 25
 federal-grants-count: 25
@@ -99,11 +99,7 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, W.D. Texas"
 ---
-
-
 #donor #gig-economy #tech #uber #labor-opponent #prop-22 #AB5 #follow-the-money #silicon-valley #california #uber-innovation-pac #flex-association
-
-related: [[_Gavin Newsom Master Profile]] | [[AB5 - Gig Worker Classification]] | [[Prop 22 - The $200M Corporate Rollback]] | [[Labor - Donors and Backers]] | [[Lyft]] | [[DoorDash]] | [[_Donald Trump Master Profile]]
 
 ---
 
@@ -210,9 +206,6 @@ Trump administration — deregulatory alignment, inauguration donations
 - [The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
 - [Senate LDA Filings: Uber federal lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FPPC: contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-
-research-status:: ready — Full citation pass complete. Prop 22 $59.5M, Innovation PAC $7M+ 2024, Trump inauguration $2M, 2025 unionization bill, 2026 ballot initiative, Flex Association lobby group. 12 sources, Tier 1-2. Sources reformatted from dash to bracket format. Promoted Session 38k.
-content-readiness:: ready
 
 ---
 

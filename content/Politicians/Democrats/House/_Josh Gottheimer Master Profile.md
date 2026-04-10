@@ -19,12 +19,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Palantir]] · [[Wall Street Finance PACs]]"
 ---
-
 #politician #democrat #house #josh-gottheimer #donor-pipeline #corporate-democrat #problem-solvers
 tags: #democrat
-
-related: [[Palantir]] [[Wall Street Finance PACs]] Hedge Fund Industry Tech Corporate PACs Pharmaceutical PACs Problem Solvers Caucus Centrist Democrats Moderate Bloc
 
 donors: [[Palantir]] [[Wall Street Finance PACs]] Hedge Fund Industry Tech Corporate PACs Pharmaceutical PACs
 

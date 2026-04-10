@@ -26,7 +26,6 @@ doj-components:
 
 #lobbying #k-street #revolving-door #healthcare #pharma #tax #finance #defense #agriculture #bipartisan
 
-
 ---
 
 ### Who They Are
@@ -249,8 +248,6 @@ The Kott case is the most explicit example of the ideological infrastructure the
 - [PR Newswire: Rubicon Strategy and Capitol Counsel announce exclusive Canada-US trade/government relations partnership — January 7, 2025](https://www.prnewswire.com/news-releases/rubicon-strategy-inc-and-capitol-counsel-announce-exclusive-partnership-to-navigate-cross-border-trade-and-government-relations-302344972.html) (Tier 3)
 - [Capitol Counsel: Alan Hill — Of Counsel bio, J.A. Hill Group founder, Energy & Commerce jurisdiction, Arms Act legislative role](https://capitolcounsel.com/team/alanhill/) (Tier 3)
 - [AerialFire Magazine: Collective Strategies and Capitol Counsel announce strategic wildfire crisis lobbying partnership — March 5, 2026](https://aerialfiremag.com/2026/03/05/collective-strategies-and-capitol-counsel-a-strategic-union-to-confront-the-wildfire-crisis/) (Tier 3)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

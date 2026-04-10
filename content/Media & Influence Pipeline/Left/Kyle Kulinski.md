@@ -13,7 +13,6 @@ donors: "(audience-funded — no institutional donor)"
 
 #media-profile #left #progressive #independent #youtube #justice-democrats #bernie #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -168,4 +167,3 @@ Kyle Kulinski represents **the unfunded left** — the structural asymmetry betw
 
 ---
 
-content-readiness:: ready

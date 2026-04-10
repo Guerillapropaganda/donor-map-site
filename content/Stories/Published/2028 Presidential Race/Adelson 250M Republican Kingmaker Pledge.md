@@ -5,14 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[2028 Presidential Landscape]]"
+related: "[[2028 Presidential Landscape]] · [[_JD Vance Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Marco Rubio Master Profile]] · [[Miriam Adelson]] · [[Timothy Mellon]] · [[Elon Musk]] · [[_Benjamin Netanyahu Master Profile]]"
 ---
-
 #2028-election #republican-primary #mega-donor #adelson #israel-lobby
 
 tags: #analysis #story
-
-related: [[_JD Vance Master Profile]] [[_Ron DeSantis Master Profile]] [[_Marco Rubio Master Profile]] [[Miriam Adelson]] [[Timothy Mellon]] [[Elon Musk]] [[_Benjamin Netanyahu Master Profile]]
 
 donors: [[Miriam Adelson]]
 
@@ -93,5 +90,3 @@ In 2028, both structures will likely align: Adelson will back the Republican nom
 
 ---
 
-content-readiness:: ready
-research-status:: active

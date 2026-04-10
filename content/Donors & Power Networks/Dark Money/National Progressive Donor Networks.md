@@ -11,7 +11,7 @@ politicians-funded:
   - "Tom Steyer"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]]"
+related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
@@ -31,10 +31,7 @@ doj-components:
 lobbying-spend: 3106887
 lobbying-filings: 143
 ---
-
 #progressive #donor-network #democracy-alliance #soros #steyer #dark-money
-
-related: [[Democracy Alliance]] [[George Soros]] [[_Tom Steyer Master Profile|Tom Steyer]] [[New Venture Fund]] [[Sixteen Thirty Fund]]
 
 ---
 

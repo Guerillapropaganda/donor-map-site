@@ -12,7 +12,6 @@ related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center
 
 #think-tank #centrist #defense #national-security #revolving-door #military-industrial-complex #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -205,8 +204,6 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 - [Axios: Biden Gets B- From Progressive Think Tank on Hiring Industry Insiders — Revolving Door Project scorecard (2021)](https://www.axios.com/2021/04/23/biden-progressive-think-tank-hires) (Tier 2)
 - [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Several Elite Universities (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2)
 - [Inside Higher Ed: Hegseth is Waging War on Colleges — His Targets Are Unclear (Mar 2026)](https://www.insidehighered.com/news/admissions/graduate/2026/03/06/hegseth-waging-war-colleges-his-targets-are-unclear) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

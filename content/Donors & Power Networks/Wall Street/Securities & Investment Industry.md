@@ -26,12 +26,9 @@ sec-form-types:
   - "PRE 14C"
   - "PRER14A"
   - "S-4"
-related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]]"
+related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Kenneth Griffin]]"
 ---
-
 #securities #investment #wall-street #hedge-fund #private-equity #carried-interest #bipartisan
-
-related: [[Goldman Sachs]] [[Blackstone Group]] [[Carlyle Group]] [[Kenneth Griffin]]
 
 ---
 
@@ -51,8 +48,6 @@ The industry's political priorities are bipartisan by design: carried interest t
 - [FEC Receipts: Securities & Investment industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [SEC: Regulatory proceedings](https://www.sec.gov/cgi-bin/browse-edgar?company=Securities%20%26%20Investment%20Industry&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Wall Street political spending](https://ballotpedia.org/Securities_&_Investment_Industry) (Tier 3)
-
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

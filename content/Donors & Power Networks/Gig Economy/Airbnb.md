@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
   - "U.S. Citizenship and Immigration Services"
-related: "[[Lyft]] · [[Instacart]]"
+related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]]"
 doj-press-mentions: "264413"
 doj-components:
   - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
@@ -46,10 +46,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
-
-related: [[Uber]] [[DoorDash]] [[Blackstone Real Estate]]
 
 ---
 
@@ -97,7 +94,6 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 - [OpenSecrets: Airbnb lobbying](https://www.opensecrets.org/orgs/airbnb-inc/summary?id=D000067232) (Tier 1)
 - [Ballotpedia: Short-term rental regulations](https://ballotpedia.org/Airbnb) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

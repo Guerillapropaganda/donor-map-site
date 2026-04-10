@@ -26,7 +26,7 @@ sec-form-types:
   - "EX-99.2"
   - "NPORT-EX"
   - "NPORT-P"
-related: "[[Palantir Technologies]] · [[David Sacks]]"
+related: "[[Palantir Technologies]] · [[David Sacks]] · [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]]"
 subawards-issued: 50
 subawards-issued-amount: 156117244
 subawards-received: 50
@@ -59,10 +59,7 @@ regulatory-agencies:
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
 ---
-
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
-
-related: [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]]
 
 ---
 

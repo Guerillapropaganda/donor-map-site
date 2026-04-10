@@ -22,13 +22,10 @@ top-donors:
 total-received: "$6,801,272"
 fec-candidate-id: "S0UT00165"
 donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]]"
-related: "[[John Barrasso]] · [[Chip Roy Master Profile]] · [[Apollo Global Management]]"
+related: "[[John Barrasso]] · [[Chip Roy Master Profile]] · [[Apollo Global Management]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[Club for Growth]] · [[Blackstone Group]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[Federalist Society]]"
 ---
-
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis
 tags: #republican
-
-related: [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[Club for Growth]] · [[Blackstone Group]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[Federalist Society]]
 
 donors: [[Koch Network - Charles Koch|Koch Network]] · [[Club for Growth]] · [[Blackstone Group]] · [[Apollo Global Management]]
 
@@ -165,9 +162,6 @@ The January 6 episode reveals the structural limit of Lee's constitutional liber
 - [CREW: Group behind Trump SCOTUS picks brought in nearly $50 million in secret money](https://www.citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/) (Tier 2)
 - [Ballotpedia: Mike Lee](https://ballotpedia.org/Mike_Lee_(U.S._Senate,_Utah)) (Tier 3)
 - [Federalist Society: Hon. Mike S. Lee profile](https://fedsoc.org/bio/mike-lee) (Tier 3)
-
-profile-status:: developed
-content-readiness:: developed
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

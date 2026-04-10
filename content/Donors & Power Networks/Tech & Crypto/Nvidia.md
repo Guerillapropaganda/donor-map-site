@@ -12,14 +12,11 @@ issues:
   - "Defense & Military"
 lei: "549300S4KLFTLO7GSQ80"
 lei-jurisdiction: "US-DE"
-related: "[[OpenAI]]"
+related: "[[OpenAI]] · [[Microsoft]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apple]]"
 cpsc-recalls: 2
 last-enriched: "2026-04-09"
 ---
-
 #nvidia #tech #ai #chips #gpu #defense #data-centers #jensen-huang
-
-related: [[Microsoft]] [[Google - Alphabet]] [[Meta - Facebook]] [[Apple]]
 
 ---
 
@@ -55,8 +52,6 @@ Favorable AI regulation (avoiding restrictions on AI model development), continu
 - [OpenSecrets: Nvidia organizational profile](https://www.opensecrets.org/orgs/nvidia-corp/summary?id=D000054927) (Tier 1)
 - [SEC: Nvidia 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Nvidia&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Nvidia](https://ballotpedia.org/Nvidia) (Tier 3)
-
-content-readiness:: ready
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

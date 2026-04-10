@@ -19,12 +19,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Senate Majority PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
 ---
-
 #politician #independent #senate
 tags: #independent
-
-related: [[Senate Majority PAC]] [[DSCC - Democratic Senatorial Campaign Committee]] Working Class Heroes Fund
 
 donors: [[Senate Majority PAC]] · [[ActBlue]] · Working Families PAC · [[Labor Unions]]
 
@@ -166,7 +164,6 @@ party:: Independent
 profile-status:: ready
 research-status:: active
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

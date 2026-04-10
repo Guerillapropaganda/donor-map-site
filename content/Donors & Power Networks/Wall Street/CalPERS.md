@@ -34,7 +34,7 @@ sec-form-types:
   - "SC 13D"
   - "SC 13G"
   - "SC TO-C"
-related: "[[Betty Yee Master Profile]] · [[The Controller Record and the Fiscal Accountability Question]] · [[CalSTRS - California State Teachers' Retirement System]]"
+related: "[[Betty Yee Master Profile]] · [[The Controller Record and the Fiscal Accountability Question]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CalSTRS]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Apollo Global Management]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[SEIU - Service Employees International Union|SEIU]]"
 court-cases: 1381
 last-enriched: "2026-04-08"
 court-jurisdictions:
@@ -51,10 +51,7 @@ court-jurisdictions:
 lobbying-spend: 480000
 lobbying-filings: 14
 ---
-
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money
-
-related: [[CalSTRS]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Apollo Global Management]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[SEIU - Service Employees International Union|SEIU]]
 
 ---
 
@@ -195,9 +192,6 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 - [Ballotpedia: CalPERS](https://ballotpedia.org/CalPERS) (Tier 3)
 
 ---
-
-research-status:: developed — Expanded from 31-line stub to full donor node with Buenrostro corruption scandal (DOJ/SEC primary sources), PE fee transparency fight (NBC News, retiree investigation), 2025 board election spending ($660K union IE), temporal mapping table (8 entries), class analysis with union-CalPERS-Wall Street triangle, 2 callout blocks, 14 sources (5 Tier 1, 7 Tier 2, 2 Tier 3). Gaps: specific PE manager allocation amounts by firm (CalPERS annual report needed), state lobbying expenditure totals (FPPC data needed), employer contribution rate history table. Cannot reach ready without FPPC verification and complete PE fee accounting.
-content-readiness:: developed
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Jon Husted Master Profile]]
+related: "[[_Jon Husted Master Profile|Jon Husted]] · [[Les Wexner - Wexner Family Enterprises]]"
 ---
-
 #jonhusted #donor #corruption #epstein
 
 tags: #republican
-
-related: [[_Jon Husted Master Profile|Jon Husted]] [[Les Wexner - Wexner Family Enterprises]]
 
 donors: [[Les Wexner - Wexner Family Enterprises]]
 
@@ -71,5 +69,3 @@ This pattern exemplifies why campaign finance accountability matters: Wexner's c
 
 ---
 
-research-status:: active
-content-readiness:: ready

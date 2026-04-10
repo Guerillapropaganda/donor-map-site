@@ -19,13 +19,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-09"
 regulatory-agencies:
   - Federal Trade Commission
-related: >-
-  [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor
-  Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires
-  Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master
-  Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech
-  Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex
-  Fridman]] · [[Glenn Greenwald]]
+related: "[[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[_David Sacks Master Profile|David Sacks]]"
 lobbying-spend: 1684850
 lobbying-filings: 106
 stories: >-
@@ -50,11 +44,7 @@ doj-components:
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
 ---
-
-
 #donor #thiel #palantir #surveillance #paypal-mafia #class-analysis #follow-the-money #anti-democracy #dark-enlightenment #kingmaker #venture-capital #trump #vance
-
-related: [[_Donald Trump Master Profile]] | [[Elon Musk]] | [[_JD Vance Master Profile]] | [[_David Sacks Master Profile|David Sacks]]
 
 ---
 
@@ -223,9 +213,6 @@ Media/free press — Gawker precedent as billionaire weapon against journalism
 - [NBC News: PayPal Mafia Trump connections](https://www.nbcnews.com/tech/tech-news/mapping-trumps-connections-techs-right-wing-brotherhood-rcna180693) (Tier 2)
 - [CNBC: Thiel steps down from Meta board](https://www.cnbc.com/2022/02/07/peter-thiel-to-step-down-from-facebook-board.html) (Tier 2)
 - [NZ Herald: citizenship details](https://www.nzherald.co.nz/indepth/national/how-peter-thiel-got-new-zealand-citizenship/) (Tier 2)
-
-research-status:: ready — core role documented with full class analysis, Palantir contract explosion ($4.4M→$970.5M), PayPal Mafia government network mapped, Gawker precedent, Dark Enlightenment ideology, 2026 return to active spending. All ### headers, inline citations with Tier 1-2 sources, wikilinks verified. Promoted to ready Session 38h.
-content-readiness:: ready
 
 ---
 

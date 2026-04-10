@@ -146,4 +146,3 @@ As of 2026-03-27, no new vault sections appear to have been completed beyond tho
 
 ---
 
-content-readiness:: raw

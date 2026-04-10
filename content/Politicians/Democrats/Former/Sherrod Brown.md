@@ -14,7 +14,7 @@ chamber: "Senate"
 state: "Ohio"
 state-abbr: "OH"
 donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic Party]] · [[Ken Griffin]]"
-related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]]"
+related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Crypto Industry Bloc]] · [[_JD Vance Master Profile]]"
 editorial-review-date: "2026-04-08"
 editorial-reviewer: "Research Claude"
 editorial-result: block
@@ -33,11 +33,8 @@ known-gaps:
   - "Bills sponsored/cosponsored data wrong (shows 0)"
   - "No source-types detected"
 ---
-
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
 tags: #democrat
-
-related: [[Teamsters - International Brotherhood of Teamsters]] · [[Crypto Industry Bloc]] · [[_JD Vance Master Profile]] · _Bernie Moreno Master Profile
 
 donors: [[Teamsters - International Brotherhood of Teamsters]]
 
@@ -109,8 +106,6 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 
 #### Archived
 - ~~[OpenSecrets: Victory Now for Sherrod Brown donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/victory-now-for-sherrod-brown/C00846196/2024/donors)~~ (was Tier 1 — OpenSecrets demoted, data preserved in FEC section)
-
-profile-status:: ready ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

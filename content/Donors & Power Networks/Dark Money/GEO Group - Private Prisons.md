@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 143756
 total-assets: 118562
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[CoreCivic - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[2026-03-26 Finance Research]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[CoreCivic - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[2026-03-26 Finance Research]] · [[GEO Group]]"
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
@@ -30,10 +30,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #geo-group #redirect #private-prisons #carceral
-
-related: [[GEO Group]]
 
 ---
 

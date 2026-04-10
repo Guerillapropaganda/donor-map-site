@@ -13,12 +13,9 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
-related: "[[Pharmaceutical Industry Bloc]]"
+related: "[[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Pfizer]] · [[Eli Lilly]]"
 ---
-
 #purdue #sackler #opioid #oxycontin #crisis #bankruptcy #doj #lobbying #accountability #revolving-door #dark-money #pharma #fda
-
-related: [[PhRMA]] [[Johnson & Johnson]] [[AbbVie]] [[Pfizer]] [[Eli Lilly]]
 
 ---
 
@@ -154,8 +151,6 @@ Drug pricing and FDA regulation, opioid prescribing guidelines, prescription dru
 - [NPR: Sackler family's 'personal wealth' offered in opioid deal](https://www.npr.org/2019/09/09/758927743/sacklers-reject-demand-they-surrender-personal-wealth-to-settle-opioid-claims) (Tier 2)
 - [PBS NewsHour: OxyContin maker guilty of misleading public (2007)](https://www.pbs.org/newshour/show/oxycontin-maker-guilty-of-misleading-public) (Tier 2)
 - [Ballotpedia: Opioid crisis](https://ballotpedia.org/Opioid_crisis) (Tier 3)
-
-content-readiness:: developed
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

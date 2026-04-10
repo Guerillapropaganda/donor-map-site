@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Howard Lutnick Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Howard Lutnick Master Profile]] · [[_Scott Bessent Master Profile]] · [[Elon Musk]]"
 ---
-
-
 #howard-lutnick #trump-transition #fundraising #maga-inc #bessent #musk #class-analysis #follow-the-money
 
-related: [[_Howard Lutnick Master Profile]] · [[_Scott Bessent Master Profile]] · [[Elon Musk]]
 donors: [[Elon Musk]]
 
 content-readiness:: ready

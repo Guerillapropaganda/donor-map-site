@@ -12,7 +12,6 @@ related: "[[Chapo Trap House]] · [[Pod Save America]]"
 
 #media-pipeline #left #dirtbag-left #post-left #patreon #audience-funded #new-right #audience-capture
 
-
 ---
 
 ### Who They Are
@@ -205,4 +204,3 @@ Chapo's subscriber capture constrained hosts toward left consistency. Red Scare'
 - [FEC: Dasha Nekrasova individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NEKRASOVA%2C+DASHA) (Tier 1)
 - [FEC: Anna Khachiyan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KHACHIYAN%2C+ANNA) (Tier 1)
 
-content-readiness:: ready

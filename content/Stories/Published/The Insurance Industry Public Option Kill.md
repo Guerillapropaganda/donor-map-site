@@ -13,11 +13,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[Blue Cross Blue Shield Association]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health Political Operation]] · [[Cigna Group]]"
 ---
-
 #public-option #aca #insurance #lobbying #lieberman #healthcare #kill
-
-related: [[Blue Cross Blue Shield Association]] [[UnitedHealth Group - Optum]] [[Anthem - Elevance Health Political Operation]] [[Cigna Group]]
 
 ---
 

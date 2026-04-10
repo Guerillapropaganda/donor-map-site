@@ -40,11 +40,9 @@ bills-sponsored: 47
 bills-cosponsored: 423
 website: "https://www.duckworth.senate.gov"
 phone: "202-224-2854"
+related: "[[_Dick Durbin Master Profile|Durbin]] · [[Boeing]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[Defense Contractors Bloc]] · [[Dick Durbin]] · [[_Kamala Harris Master Profile]] · [[Northrop Grumman]]"
 ---
-
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion
-
-related: [[_Dick Durbin Master Profile|Durbin]] [[Boeing]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon (RTX)]] [[L3Harris Technologies]] [[Defense Contractors Bloc]] · [[Dick Durbin]] · [[_Kamala Harris Master Profile]] · [[Northrop Grumman]]
 
 donors: [[Boeing]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon (RTX)]] [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] [[SEIU - Service Employees International Union|SEIU]]
 
@@ -174,9 +172,6 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 - [Sunday Guardian Live: Deep financial ties between US senators and arms manufacturers](https://sundayguardianlive.com/world/deep-financial-ties-exist-between-us-senators-and-arms-manufacturers-173112/) (Tier 2)
 - [GovernmentContractsWon: Illinois defense contractor data](https://www.governmentcontractswon.com/department/defense/illinois_counties.asp) (Tier 3)
 - [Ballotpedia: Tammy Duckworth](https://ballotpedia.org/Tammy_Duckworth) (Tier 3)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

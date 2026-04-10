@@ -14,17 +14,14 @@ issues:
   - "Technology"
 lobbying-spend: 1258000
 lobbying-filings: 51
-related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]]"
+related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]] · [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]]"
 ein: "330152369"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 102333
 total-assets: 12131
 ---
-
 #silicon-valley #tech #donors #democratic #republican #realignment #deregulation #lobbying #crypto #ai #venture-capital #class-analysis #follow-the-money
-
-related: [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]]
 
 ---
 
@@ -140,8 +137,6 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 - [CNBC: Trump signs executive order for single national AI regulation framework](https://www.cnbc.com/2025/12/11/trump-signs-executive-order-for-single-national-ai-regulation-framework.html) (Tier 2)
 
 ---
-
-content-readiness:: developed
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

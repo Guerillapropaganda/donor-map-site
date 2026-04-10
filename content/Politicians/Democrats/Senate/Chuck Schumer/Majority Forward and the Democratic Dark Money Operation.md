@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Chuck Schumer Master Profile]]
-related: "[[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
+related: "[[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[_Chuck Schumer Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]]"
 ---
-
-
 #schumer #dark-money #majority-forward #super-pac #class-analysis #follow-the-money
 
-related: [[_Chuck Schumer Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]]
-
 donors: [[Crypto Industry Bloc]]
-
-content-readiness:: ready
 
 ---
 

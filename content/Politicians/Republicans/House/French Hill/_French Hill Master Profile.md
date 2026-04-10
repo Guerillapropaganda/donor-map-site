@@ -28,12 +28,9 @@ bills-cosponsored: 95
 website: "https://hill.house.gov"
 phone: "202-225-2506"
 donors: "[[Citigroup]] · [[Bank of America]] · [[Coinbase]]"
-related: "[[The Wall Street Senator - Finance Industry Alignment]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[Goldman Sachs]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[FTX - Sam Bankman-Fried]]"
 ---
-
 #french-hill #republican #arkansas #house #committee-chair #financial-services #banking #crypto #wall-street #phase-6-gavel-power
-
-related: [[Goldman Sachs]] [[Fairshake PAC]] [[Crypto Industry Bloc]] [[Marc Andreessen & Horowitz]] [[FTX - Sam Bankman-Fried]]
 
 donors: [[Goldman Sachs]] [[Fairshake PAC]] [[Crypto Industry Bloc]] [[Marc Andreessen & Horowitz]]
 
@@ -184,9 +181,6 @@ French Hill serves the financial donor class with unusual structural completenes
 - [The Hill: House panels advance crypto oversight-focused Clarity Act](https://thehill.com/policy/technology/5344328-house-panel-advances-crypto-oversight/) (Tier 2)
 - [Benton Courier: Opinion — French Hill: A Bank Lobbyist Pretending to Be a Congressman](https://www.bentoncourier.com/news/opinion-french-hill-a-bank-lobbyist-pretending-to-be-a-congressman/article_6aa117e8-f468-11ef-b27e-434f391f430c.html) (Tier 3)
 - [New South Politics: Arkansas Congressman French Hill career bio and voting record](https://newsouthpolitics.com/arkansas-political-leaders/arkansas-us-senators-and-house-representatives/arkansas-congressman-french-hill-career-bio-voting-record/) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

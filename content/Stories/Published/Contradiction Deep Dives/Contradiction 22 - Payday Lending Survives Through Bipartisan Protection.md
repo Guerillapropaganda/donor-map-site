@@ -5,12 +5,9 @@ content-readiness: raw
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]]"
 ---
-
 #contradiction #payday-lending #consumer-protection #CFPB #class-analysis
-
-related: [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]]
 
 ---
 
@@ -134,4 +131,3 @@ The industry's total contributions appear modest ($1.8M federally in 2024) compa
 
 ---
 
-content-readiness:: developed

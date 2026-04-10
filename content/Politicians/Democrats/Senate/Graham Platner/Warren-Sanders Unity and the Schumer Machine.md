@@ -7,13 +7,11 @@ source-tier: 2
 parent: [[_Graham Platner Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Graham Platner Master Profile]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
 ---
-
 #maine #schumer #sanders #warren #progressive-unity #democratic-establishment #class-analysis #2026-senate
 
 tags: #democrat
-
-related: [[_Graham Platner Master Profile]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · DSCC Machinery and Primary Control
 
 donors: Progressive Unified Coalition · Schumer-DSCC Establishment Networks
 

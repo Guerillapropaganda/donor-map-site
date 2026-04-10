@@ -31,12 +31,10 @@ doj-components:
   - "USAO - Michigan, Western"
   - "USAO - Minnesota"
   - "USAO - New Jersey"
+related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 ---
-
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis
 tags: #democrat
-
-related: [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · Senate Intelligence Committee · Defense Contractor Donors · San Francisco Real Estate Wealth
 
 donors: Richard Blum Capital Partners · Defense Contractors (URS, Perini, Tutor Perini) · [[AIPAC - American Israel Public Affairs Committee]] · San Francisco Real Estate Industry
 

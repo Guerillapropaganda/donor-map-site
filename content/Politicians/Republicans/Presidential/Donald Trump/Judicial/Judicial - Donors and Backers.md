@@ -5,12 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
+related: "[[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Leonard Leo]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donald-trump #judicial #donors #backers #leonard-leo #federalist-society #jcn #dark-money #scotus #chevron #dobbs #follow-the-money #research-node
 
-related: [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Leonard Leo]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]
 donors: [[Leonard Leo]] · [[Judicial Crisis Network]] · [[Marble Freedom Trust]] · [[Koch Network - Charles Koch]]
 
 ---
@@ -112,4 +110,3 @@ The judicial transformation has no counter donor. There is no liberal equivalent
 - [Senator Whitehouse: Scheme 18 — Leonard Leo's $1.6 billion payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
 - [ProPublica: We Don't Talk About Leonard — The man behind the right's Supreme Court supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 
-content-readiness:: ready

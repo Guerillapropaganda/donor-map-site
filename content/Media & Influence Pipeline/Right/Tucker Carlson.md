@@ -22,7 +22,6 @@ stories: >-
 
 #media-pipeline #right #fox-news #replacement-theory #dark-money #russia #independence-theater
 
-
 ---
 
 ### Who They Are
@@ -205,4 +204,3 @@ The Putin interview represents the endpoint of this logic: Carlson's "anti-estab
 - [Nasdaq: Tucker Carlson Introduces ALP, A Revolutionary New Nicotine Pouch Company](https://www.nasdaq.com/press-release/tucker-carlson-introduces-alp-revolutionary-new-nicotine-pouch-company-2024-11-14) (Tier 3)
 - [NBC News: Far-right laments Tucker Carlson's ouster](https://www.nbcnews.com/tech/internet/far-right-laments-tucker-carlsons-ouster-rcna81595) (Tier 2)
 
-content-readiness:: ready

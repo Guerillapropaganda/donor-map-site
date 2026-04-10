@@ -7,13 +7,10 @@ source-tier: 1
 parent: null
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[The Both-Sides Dark Money Illusion]]"
+related: "[[The Both-Sides Dark Money Illusion]] · [[Koch network]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Stand Together]] · [[Americans for Prosperity]] · [[George Soros]] · [[Open Society Foundations]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[New Venture Fund]] · [[Citizens United and the Architecture of Unlimited Political Money|Citizens United]]"
 ---
-
 #investigation #contradiction #koch #soros #dark-money #both-sides #class-analysis
 tags: #analysis #story
-
-related: [[Koch network]] [[Koch Network - Charles Koch|Charles Koch]] [[Stand Together]] [[Americans for Prosperity]] Americans for Prosperity Action [[George Soros]] [[Open Society Foundations]] [[Open Society Foundations|Soros network]] [[Sixteen Thirty Fund]] [[Arabella Advisors]] [[New Venture Fund]] Dark money [[Citizens United and the Architecture of Unlimited Political Money|Citizens United]] campaign-finance
 
 ---
 
@@ -222,6 +219,3 @@ Both networks are funded by billionaires using identical mechanisms. Both billio
 
 ---
 
-research-status:: ready — Full citation pass complete. Koch $548M vs Soros/Arabella $1.55B, identical 501(c)(4) structures, AFP vs S30 Fund comparison table, LLC opacity layers, pop-up group model (40+ per cycle), Democratic dark money hypocrisy (outspent GOP in dark money while campaigning against Citizens United). 30 sources Tier 1-3 with URLs. All ### headers. Bold title→### converted. Promoted Session 39.
-content-readiness:: ready
-                   

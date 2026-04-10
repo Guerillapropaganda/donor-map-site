@@ -13,7 +13,7 @@ regulatory-agencies:
   - "Federal Election Commission"
   - "Postal Regulatory Commission"
   - "Securities and Exchange Commission"
-related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]]"
+related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[ActBlue]] · [[EMILY's List]]"
 sec-filings: 145
 sec-form-types:
   - "10-K"
@@ -39,10 +39,7 @@ sec-form-types:
   - "S-1/A"
   - "U-13-60"
 ---
-
 #dscc #senate #democratic #campaign #fundraising #party-committee
-
-related: [[Senate Majority PAC]] [[House Majority PAC]] [[ActBlue]] [[EMILY's List]]
 
 ---
 
@@ -74,8 +71,6 @@ DSCC fundraising relies on three channels:
 - [OpenSecrets: DSCC spending data](https://www.opensecrets.org/parties/totals?cmte=DSCC) (Tier 1)
 - [FEC: DSCC filings](https://www.fec.gov/data/committee/C00042366/) (Tier 1)
 - [Ballotpedia: DSCC](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

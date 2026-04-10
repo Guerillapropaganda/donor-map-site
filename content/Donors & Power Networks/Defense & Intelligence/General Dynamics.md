@@ -25,7 +25,7 @@ subawards-received: 50
 subawards-received-amount: 5728077424
 top-federal-agency: "General Services Administration"
 top-naics-code: "541512"
-related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]]"
+related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Jack Reed Master Profile|Jack Reed]] · [[_Roger Wicker Master Profile|Roger Wicker]]"
 federal-register-mentions: 386
 regulatory-agencies:
   - "Antitrust Division"
@@ -57,10 +57,7 @@ sec-form-types:
   - "SC TO-T/A"
   - "SCHEDULE 13G/A"
 ---
-
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
-
-related: [[Lockheed Martin]] [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[_Jack Reed Master Profile|Jack Reed]] [[_Roger Wicker Master Profile|Roger Wicker]]
 
 ---
 
@@ -97,7 +94,6 @@ General Dynamics PAC targets Armed Services Committee members (both chambers), A
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: General Dynamics organizational profile](https://www.opensecrets.org/orgs/general-dynamics/summary?id=D000000165) (Tier 1)
@@ -130,8 +126,6 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 - [Calhoun Journal: Anniston to receive $219.8 million for Abrams tanks](https://calhounjournal.com/anniston-to-receive-219-8-million-for-abrams-tanks-in-defense-appropriations-bill/) (Tier 3)
 - [Breaking Defense: Pentagon FY27 budget request unclear if hitting $1.5 trillion](https://breakingdefense.com/2026/03/with-the-pentagons-fy27-budget-request-forthcoming-its-unclear-if-it-will-hit-1-5-trillion/) (Tier 2)
 
-research-status:: ready — Columbia-class $131B + Virginia-class documented, submarine revenue pipeline, $200B+ program value, revolving door context. March 2026: Britt earmark ROI ($59K → $220M), FY2027 $1.5T base budget context, Iran supplemental $200B. Updated gp-donor-node-builder Run 5 (March 25, 2026).
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

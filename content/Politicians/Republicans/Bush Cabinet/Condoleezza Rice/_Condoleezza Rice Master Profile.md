@@ -31,11 +31,9 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
+related: "[[George W Bush]] · [[Dick Cheney]] · [[Chevron]] · [[Hoover Institution]] · [[Lockheed Martin]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]"
 ---
-
 #condoleezza-rice #national-security-advisor #secretary-of-state #iraq-war #chevron #stanford #hoover-institution #revolving-door #class-analysis
-
-related: [[George W Bush]] · [[Dick Cheney]] · [[Chevron]] · [[Hoover Institution]] · [[Lockheed Martin]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]
 
 donors: [[Chevron]] · [[Hoover Institution]] · [[Stanford University]]
 

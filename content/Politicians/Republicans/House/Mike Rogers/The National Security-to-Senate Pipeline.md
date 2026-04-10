@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Mike Rogers Master Profile]]
+related: "[[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Tim Dunn]] · [[Defense Industry Bloc]]"
 ---
-
 #national-security #defense-industry #intelligence #congressional-access #committee-capture #donor-relationships #mike-rogers #defense-contractors
 
 tags: #republican
-
-related: [[_Mike Rogers Master Profile]] [[Great Lakes Conservatives Fund]] [[Paul Singer]] [[Tim Dunn]] [[Defense Industry Bloc]]
 
 donors: [[Raytheon Technologies]] [[Lockheed Martin]] [[Booz Allen Hamilton]] [[Northrop Grumman]] [[General Dynamics]]
 
@@ -107,6 +105,4 @@ Megadonors funding Rogers expect him on at least Armed Services and Intelligence
 - [National Security Institute: Mike Rogers background](https://nationalsecurity.gmu.edu/mike-rogers/) (Tier 3)
 - [The Hill: Intelligence committee appropriations authority](https://thehill.com/news/3456871-defense-budgets-intelligence-committee/) (Tier 2)
 - [ProPublica: Defense contractor revolving door analysis](https://www.propublica.org/article/the-lobbying-swamp-is-flourishing-in-trumps-washington) (Tier 2)
-
-content-readiness:: ready
 

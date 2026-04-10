@@ -12,7 +12,6 @@ related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Do
 
 #media-pipeline #left #media-network #tyt #progressive-media #venture-capital #audience-capture #labor-contradiction #independence-theater
 
-
 ---
 
 ### Who They Are
@@ -231,4 +230,3 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 
 ---
 
-content-readiness:: ready

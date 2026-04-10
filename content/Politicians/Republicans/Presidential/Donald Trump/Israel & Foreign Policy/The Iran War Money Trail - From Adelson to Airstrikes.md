@@ -18,7 +18,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]]"
+related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Miriam Adelson]] · [[DOGE - The Billionaires Government]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Trump Alliance and US Military Aid|Netanyahu - The Trump Alliance and US Military Aid]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 source-types:
   - DOJ
 known-gaps:
@@ -26,11 +26,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
 ---
-
-
 #story #iran-war #adelson-pipeline #defense-donors #fossil-fuel #class-analysis #trump #israel #foreign-policy
-
-related: [[_Donald Trump Master Profile]] [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] [[Miriam Adelson]] [[DOGE - The Billionaires Government]] [[The Iran War - Defense Donors and the DOGE Readiness Gap]] [[Fossil Fuel Deregulation - The Climate Donors]] [[The Trump Alliance and US Military Aid|Netanyahu - The Trump Alliance and US Military Aid]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ---
 

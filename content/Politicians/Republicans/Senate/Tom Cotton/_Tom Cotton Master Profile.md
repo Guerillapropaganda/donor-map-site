@@ -28,12 +28,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 ---
-
-
 #tom-cotton #republican #senate #arkansas #neoconservative #aipac #defense #iran #bill-kristol #paul-singer #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile]] [[AIPAC - American Israel Public Affairs Committee]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [[Defense Industry]]
 

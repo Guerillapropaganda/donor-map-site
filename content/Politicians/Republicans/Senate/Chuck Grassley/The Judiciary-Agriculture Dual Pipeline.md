@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chuck Grassley Master Profile]] · [[American Farm Bureau Federation]] · [[PhRMA]] · [[Federalist Society]] · [[Leonard Leo]]"
 ---
-
 #grassley #iowa #judiciary #agriculture #ethanol #pharma #drug-pricing
-
-related: [[_Chuck Grassley Master Profile]] [[American Farm Bureau Federation]] [[PhRMA]] [[Federalist Society]] [[Leonard Leo]]
 
 donors: [[American Farm Bureau Federation]] [[PhRMA]] [[Koch Network - Charles Koch]]
 

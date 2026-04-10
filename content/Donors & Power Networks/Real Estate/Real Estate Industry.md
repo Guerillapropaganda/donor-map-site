@@ -52,7 +52,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Chris Christie]] · [[Gary Peters Master Profile]] · [[Brian Schatz Master Profile]] · [[Hakeem Jeffries Master Profile]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]]"
+related: "[[Chris Christie]] · [[Gary Peters Master Profile]] · [[Brian Schatz Master Profile]] · [[Hakeem Jeffries Master Profile]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Real Estate Industry Bloc]] · [[Blackstone Real Estate Political Operation|Blackstone Real Estate]] · [[_Jared Kushner Master Profile|Kushner]]"
 sec-filings: 10000
 sec-form-types:
   - "4"
@@ -68,10 +68,7 @@ total-political-spend: "$15,000"
 lobbying-spend: 32210838
 lobbying-filings: 101
 ---
-
 #real-estate #nar #housing #1031-exchange #rent #zoning #bipartisan
-
-related: [[Real Estate Industry Bloc]] [[Blackstone Real Estate Political Operation|Blackstone Real Estate]] [[_Jared Kushner Master Profile|Kushner]]
 
 ---
 
@@ -91,8 +88,6 @@ The industry's political priorities are bipartisan by structural necessity: mort
 - [FEC Receipts: Real estate industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [JCT: Tax expenditure estimates for real estate provisions](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry) (Tier 1)
 - [Ballotpedia: Real estate industry lobbying](https://ballotpedia.org/Real_Estate_Industry) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

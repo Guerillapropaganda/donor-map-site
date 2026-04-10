@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Joni Ernst Master Profile]]
+related: "[[_Joni Ernst Master Profile]] · [[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]] · [[Ethanol Industry]]"
 ---
-
-
 #ernst #agribusiness #iowa #family-farm #consolidation #ethanol #cafo #farm-subsidy
-
-related: [[_Joni Ernst Master Profile]] · [[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]] · [[Ethanol Industry]] · Farm Consolidation in America · Concentrated Animal Feeding Operations
 
 donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol Industry]], [[Meatpacking Corporations]]
 
@@ -189,4 +186,3 @@ Retirement before the 2026 cycle avoided forcing a defense of the contradiction 
 - [U.S. Senator Joni Ernst: Agriculture Priorities](https://www.ernst.senate.gov/priorities/agriculture) (Tier 1)
 - [NBC News: Republican Sen. Joni Ernst won't seek re-election in Iowa in 2026](https://www.nbcnews.com/politics/2026-election/republican-sen-joni-ernst-wont-seek-re-election-iowa-2026-rcna228053) (Tier 2)
 
-content-readiness:: ready

@@ -38,7 +38,7 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 top-federal-agency: "Department of Defense"
 top-naics-code: "336611"
-related: "[[American Enterprise Institute]] · [[Council on Foreign Relations]] · [[Blackstone Real Estate Political Operation]]"
+related: "[[American Enterprise Institute]] · [[Council on Foreign Relations]] · [[Blackstone Real Estate Political Operation]] · [[_Glenn Youngkin Master Profile|Glenn Youngkin]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Defense Industry Bloc]] · [[Private Equity Industry Bloc]] · [[Lockheed Martin]] · [[ManTech International]] · [[Koch Network - Charles Koch|Koch Network]]"
 lei: "529900NGGVF94UK6PG95"
 lei-jurisdiction: "US-DE"
 court-cases: 847
@@ -54,10 +54,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, W.D. Kentucky"
 ---
-
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying
-
-related: [[_Glenn Youngkin Master Profile|Glenn Youngkin]] [[Goldman Sachs]] [[Blackstone Group]] [[Defense Industry Bloc]] [[Private Equity Industry Bloc]] [[Lockheed Martin]] [[ManTech International]] [[Koch Network - Charles Koch|Koch Network]]
 
 ---
 
@@ -171,7 +168,6 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: Carlyle Group organizational profile](https://www.opensecrets.org/orgs/carlyle-group/summary?id=D000000810) (Tier 1)
@@ -188,8 +184,6 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 - [Common Dreams: Meet the 11 Private Equity Donors Trying to Buy the 2024 Election](https://www.commondreams.org/opinion/private-equity-2024-election) (Tier 4)
 - [Wikipedia: The Carlyle Group](https://en.wikipedia.org/wiki/The_Carlyle_Group) (Tier 3)
 - [Ballotpedia: The Carlyle Group](https://ballotpedia.org/The_Carlyle_Group) (Tier 3)
-
-content-readiness:: developed
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

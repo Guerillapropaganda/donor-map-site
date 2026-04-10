@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Cory Booker Master Profile]] · [[Charles Koch]] · [[Stand Together]]"
 ---
-
 #booker #criminal-justice #first-step-act #koch #bipartisan #reform #newark
-
-related: [[_Cory Booker Master Profile]] [[Charles Koch]] [[Stand Together]]
 
 donors: [[Stand Together]]
 

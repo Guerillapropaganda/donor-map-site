@@ -41,12 +41,9 @@ regulatory-agencies:
   - "Safety and Environmental Enforcement Bureau"
   - "Securities and Exchange Commission"
   - "Veterans Employment and Training Service"
-related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]]"
+related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]]"
 ---
-
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
-
-related: [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]]
 
 ---
 
@@ -186,9 +183,6 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 - [Ballotpedia: Business Roundtable](https://ballotpedia.org/Business_Roundtable) (Tier 3)
 
 ---
-
-research-status:: developed — Expanded from 65-line thin stub to full donor node. Added: 2025 lobbying surge data ($33.5M, +43% YoY), TCJA permanent extension campaign, Q1 2025 spending detail ($6.86M single quarter), 2025 board leadership (Robbins chair, Dimon past chair), lobbying spend history table (2019-2025), stakeholder capitalism fraud analysis with Harvard Law/Roosevelt Institute documentation, TCJA ROI calculation ($82M → $320B+/year), PRO Act defeat, temporal mapping table (8 entries), 3 callout blocks, 12 sources (4 Tier 1, 7 Tier 2, 1 Tier 3). Gaps: individual CEO bundling totals (not publicly tracked), full list of TCJA lobbying coalition members, specific proxy reform bill numbers for 2025. Cannot reach ready without verification of $82M coalition lobbying estimate and specific PRO Act lobbying expenditures.
-content-readiness:: developed
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

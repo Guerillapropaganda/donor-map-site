@@ -29,17 +29,14 @@ doj-components:
 lei: "549300KDUEM5IEU30490"
 lei-jurisdiction: "VN"
 lei-parent: "ARCHER-DANIELS-MIDLAND COMPANY"
-related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
+related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[_Dick Durbin Master Profile|Durbin]]"
 federal-register-mentions: 8
 regulatory-agencies:
   - "Securities and Exchange Commission"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ---
-
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois
-
-related: [[Cargill]] [[American Farm Bureau Federation]] [[_Dick Durbin Master Profile|Durbin]]
 
 ---
 
@@ -76,8 +73,6 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 - [EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard) (NEEDS REVIEW) (Tier 1)
 - [DOJ: ADM price-fixing prosecution](https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm) (Tier 1) (VERIFIED)
 - ~~[Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

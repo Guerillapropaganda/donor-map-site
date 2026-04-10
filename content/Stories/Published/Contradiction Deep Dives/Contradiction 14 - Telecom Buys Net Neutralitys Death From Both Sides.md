@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Maria Cantwell Master Profile|Maria Cantwell]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[_Frank Pallone Master Profile|Frank Pallone]] · [[_Roger Wicker Master Profile|Roger Wicker]] · [[_Brendan Boyle Master Profile|Brendan Boyle]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[_Paul Ryan Master Profile|Paul Ryan]] · [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]]"
 ---
-
 #investigation #contradiction #telecom #net-neutrality #comcast #att #verizon #bipartisan-consensus #class-analysis #revolving-door
 tags: #analysis #story
-
-related: [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] [[_Chuck Schumer Master Profile|Chuck Schumer]] [[_Mitch McConnell Master Profile|Mitch McConnell]] [[_Ted Cruz Master Profile|Ted Cruz]] [[_Maria Cantwell Master Profile|Maria Cantwell]] [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] [[_Steve Scalise Master Profile|Steve Scalise]] [[_Frank Pallone Master Profile|Frank Pallone]] [[_Roger Wicker Master Profile|Roger Wicker]] [[_Brendan Boyle Master Profile|Brendan Boyle]] [[_Josh Gottheimer Master Profile|Josh Gottheimer]] [[_Paul Ryan Master Profile|Paul Ryan]] [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]]
 
 ---
 
@@ -186,6 +183,3 @@ The telecom industry does not need Republicans to kill regulation and Democrats 
 
 ---
 
-research-status:: reference
-content-readiness:: developed
-                   

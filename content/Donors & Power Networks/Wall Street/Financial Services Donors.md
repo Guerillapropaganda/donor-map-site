@@ -16,12 +16,9 @@ ofac-programs:
   - "GLOMAG"
   - "SDGT] [IFSR"
   - "RUSSIA-EO14024"
-related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]]"
+related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]]"
 ---
-
 #financial-services #banking #wall-street #donors #bipartisan #dodd-frank #deregulation
-
-related: [[Securities & Investment Industry]] [[Goldman Sachs]] [[JPMorgan Chase]] [[MBNA Corporation]]
 
 ---
 
@@ -40,8 +37,6 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 
 - [FEC Receipts: Financial services industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Financial services lobbying](https://ballotpedia.org/Financial_Services_Donors) (Tier 3)
-
-content-readiness:: ready
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->

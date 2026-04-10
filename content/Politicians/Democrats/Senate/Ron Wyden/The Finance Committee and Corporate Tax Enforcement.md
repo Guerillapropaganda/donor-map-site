@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Ron Wyden Master Profile]]"
+related: "[[_Ron Wyden Master Profile]] · [[Goldman Sachs]] · [[Google - Alphabet]] · [[Apple]] · [[Silicon Valley Democratic Donor Network]]"
 ---
-
 #wyden #finance-committee #tax-policy #corporate-tax #tech #privacy #oregon
-
-related: [[_Ron Wyden Master Profile]] [[Goldman Sachs]] [[Google - Alphabet]] [[Apple]] [[Silicon Valley Democratic Donor Network]]
 
 donors: [[Google - Alphabet]] [[Silicon Valley Democratic Donor Network]] [[Goldman Sachs]]
 
@@ -52,4 +50,3 @@ The paradox: Wyden's privacy agenda protects citizens from government surveillan
 - [The Verge: Wyden's Section 230 defense and tech privacy](https://www.theverge.com/wyden-section-230/) (Tier 2)
 - [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3)
 
-content-readiness:: ready

@@ -26,12 +26,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #rand-paul #senate #kentucky #libertarian #koch-network #ukraine #class-analysis #isolationism
-
-related: [[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · _Ron Paul · [[_Donald Trump Master Profile]]
 
 donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]] · Libertarian Donor Network
 
@@ -143,7 +140,6 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 > **Zero defense money → Ukraine bloc:** Paul is the only Republican senator who consistently blocks foreign aid and military assistance packages. The donor data explains the outlier: he receives $0 from defense contractors. His colleagues who take defense industry money never vote against military aid. Paul's isolation is donor-predicted.
 >
 > **The Koch abandonment:** Koch Network pulling support in 2016 after Paul's presidential failure is the clearest demonstration of Koch donor logic — investment is conditional on political performance. Ideology is secondary to viability.
-
 
 ## Rhetorical Signature Moves
 

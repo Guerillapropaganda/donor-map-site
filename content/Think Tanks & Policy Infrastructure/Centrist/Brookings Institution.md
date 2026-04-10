@@ -27,7 +27,6 @@ regulatory-agencies:
 
 #think-tank #centrist #wall-street #foreign-funding #revolving-door #hamilton-project #defense #financial-deregulation #qatar #jpmorgan #goldman-sachs #healthcare #housing #labor
 
-
 ---
 
 ### Who They Are
@@ -369,8 +368,6 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 - [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Elite Universities — Brookings among think tanks cut (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2)
 
 ---
-
-content-readiness:: developed
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

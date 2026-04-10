@@ -22,12 +22,9 @@ known-gaps:
 opposes: >-
   [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN
   ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]]
+related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]] · [[Freedom Caucus]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
-
 #mtg #marjorie-taylor-greene #house #georgia #qanon #small-dollar #outrage-fundraising #conspiracy #trump-ally #doge #class-analysis #maga
-
-related: [[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]] · [[Freedom Caucus]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors: [[MAGA Small Dollar Base]] · Construction Industry - Taylor Commercial
 
@@ -136,7 +133,6 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 > **The Trump endorsement multiplier:** Each Trump endorsement ($3M-5M small-dollar activation) is the single most valuable political asset in MAGA politics — and MTG has monetized it repeatedly by being Trump's most reliable House enforcer.
 >
 > **The McCarthy kill:** MAGA megadonors opposed to McCarthy's Ukraine/bipartisan deals → MTG files motion to vacate → McCarthy ousted. The first Speaker removal in House history executed by a member whose primary asset is small-donor base loyalty.
-
 
 ## Analytical Patterns
 

@@ -25,7 +25,6 @@ regulatory-agencies:
 
 #think-tank #conservative #climate-denial #tobacco #fossil-fuel #NIPCC #model-legislation #state-policy #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -224,8 +223,6 @@ The Heartland Institute is the most transparent case study in the vault of how t
 - [EDF: Groups Sue for Information About Heartland Institute's Involvement in EPA Climate Science Decisions (2018)](https://www.edf.org/media/groups-sue-information-about-heartland-institutes-involvement-epa-climate-science-decisions) (Tier 2)
 - [DeSmog: Heartland Institute UK Chief: Group Is Influencing Trump Policy 'at the Highest Level' (Mar 13, 2025)](https://www.desmog.com/2025/03/13/heartland-institute-uk-chief-lois-perry-influencing-trump-policy-at-the-highest-level/) (Tier 2)
 - [DeSmog: Mapped — Pro-Trump Heartland Institute's European Network (Dec 10, 2025)](https://www.desmog.com/2025/12/10/mapped-donald-trump-heartland-institute-european-network/) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

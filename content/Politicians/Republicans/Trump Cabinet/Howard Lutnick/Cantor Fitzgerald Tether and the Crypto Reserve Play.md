@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Howard Lutnick Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Howard Lutnick Master Profile]]"
 ---
-
-
 #howard-lutnick #cantor-fitzgerald #tether #bitcoin #crypto #stablecoin #class-analysis #follow-the-money
 
-related: [[_Howard Lutnick Master Profile]]
 donors: [[Crypto Industry Bloc]]
 
 content-readiness:: ready

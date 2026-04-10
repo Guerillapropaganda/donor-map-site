@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "District Court, W.D. Kentucky"
   - "United States Bankruptcy Court, W.D. Kentucky"
-related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]] · [[Anthem - Elevance Health Political Operation]]"
+related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]] · [[Anthem - Elevance Health Political Operation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health]]"
 federal-awards-total: 4870581193
 federal-contracts-count: 3
 federal-grants-count: 12
@@ -60,10 +60,7 @@ regulatory-agencies:
   - "Food and Drug Administration"
   - "Health and Human Services Department"
 ---
-
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
-
-related: [[UnitedHealth Group - Optum]] [[Cigna Group]] [[CVS Health - Aetna]] [[Anthem - Elevance Health]]
 
 ---
 
@@ -94,7 +91,6 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: Humana organizational profile](https://www.opensecrets.org/orgs/humana-inc/summary?id=D000000652) (Tier 1)
@@ -102,7 +98,6 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 - [STAT News: Medicare Advantage upcoding and overpayment](https://www.statnews.com/medicare-advantage-upcoding/) *(source unavailable)* (Tier 2)
 - [Ballotpedia: Humana political spending](https://ballotpedia.org/Humana) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

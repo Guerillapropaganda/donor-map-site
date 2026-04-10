@@ -17,7 +17,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 455437
 total-assets: 1873781
-related: "[[The National Security Hawk and Arkansas Defense]]"
+related: "[[The National Security Hawk and Arkansas Defense]] · [[_John Boozman Master Profile|Boozman]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]]"
 doj-press-mentions: "264413"
 doj-components:
   - "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)"
@@ -31,10 +31,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #walmart #walton #retail #labor #anti-union #snap #tax #arkansas
-
-related: [[_John Boozman Master Profile|Boozman]] [[US Chamber of Commerce]] [[Walton Family Foundation]]
 
 ---
 
@@ -72,8 +69,6 @@ Opposition to minimum wage increases (Walmart's wage floor has risen through mar
 - [USDA: SNAP retailer data](https://www.fns.usda.gov/snap/retailer-data) (Tier 1)
 - [Bloomberg: Walton family wealth tracker](https://www.bloomberg.com/billionaires/) (Tier 2)
 - [Ballotpedia: Walmart](https://ballotpedia.org/Walmart) (Tier 3)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

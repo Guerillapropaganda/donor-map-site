@@ -19,7 +19,7 @@ top-naics-code: "221122"
 lei: "549300PQE8D806LWQV52"
 lei-jurisdiction: "US-HI"
 lei-parent: "HAWAIIAN ELECTRIC INDUSTRIES, INC."
-related: "[[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Josh Green Master Profile]]"
+related: "[[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Josh Green Master Profile]] · [[PG&E - Pacific Gas and Electric]]"
 federal-register-mentions: 25
 regulatory-agencies:
   - "Antitrust Division"
@@ -33,10 +33,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Interior Department"
 ---
-
 #hawaiian-electric #heco #hawaii #maui #wildfire #utility #energy #monopoly
-
-related: [[PG&E - Pacific Gas and Electric]] Energy & Utilities Donor Bloc
 
 ---
 
@@ -61,8 +58,6 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 
 - [SEC: Hawaiian Electric Industries filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Hawaiian%20Electric%20Company&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Hawaii utility regulation](https://ballotpedia.org/Hawaiian_Electric_Company) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

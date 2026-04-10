@@ -10,12 +10,9 @@ entity-type: "PAC"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Donna Miller Master Profile]]"
+related: "[[Donna Miller Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elect Chicago Women PAC]]"
 ---
-
 #affordable-chicago-now-pac #AIPAC #shell-pac #Israel-lobby #2024-Illinois-House #messaging-frame #dark-money
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[Elect Chicago Women PAC]] Illinois House Primary 2024 AIPAC Political Spending Dark Money Shell PACs
 
 ---
 
@@ -111,4 +108,3 @@ The paired PAC strategy (Elect Chicago Women + Affordable Chicago Now) also reve
 - [OpenSecrets: AIPAC-backed candidates won midterm races following big spending by group's super PAC](https://www.opensecrets.org/news/2022/11/american-israel-public-affairs-committee-backed-candidates-won-midterm-races-following-big-spending-by-groups-super-pac/) (Tier 1)
 - [Chicago Tribune: AIPAC spending in Illinois House 2024](https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html) (Tier 3)
 
-content-readiness:: ready

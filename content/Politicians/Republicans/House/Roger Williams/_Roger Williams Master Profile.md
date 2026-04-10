@@ -25,12 +25,9 @@ bills-sponsored: 36
 bills-cosponsored: 182
 website: "https://williams.house.gov"
 phone: "202-225-9896"
+related: "[[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #roger-williams #republican #texas #house #committee-chair #small-business #auto-dealer #self-funding #conflict-of-interest #phase-6-gavel-power
-
-related: [[_Donald Trump Master Profile|Trump]]
 
 donors:
 

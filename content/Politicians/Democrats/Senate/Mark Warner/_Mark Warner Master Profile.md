@@ -42,13 +42,10 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 donors: "[[Tech Industry]] · [[Insurance Industry]] · [[Goldman Sachs]]"
-related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Eric Schmidt]] · [[Silicon Valley Donors]] · [[Telecom Industry]] · [[Defense Contractors]] · [[_Joe Biden Master Profile]]"
 ---
-
 #mark-warner #senate #virginia #intelligence #telecom #venture-capital #personal-wealth #class-analysis #democrat
 tags: #democrat
-
-related: [[Eric Schmidt]] · [[Silicon Valley Donors]] · [[Telecom Industry]] · [[Defense Contractors]] · Intelligence Committee · [[_Joe Biden Master Profile]]
 
 donors: [[Telecom Industry]] · [[Silicon Valley Donors]] · [[Defense Contractors]]
 
@@ -156,9 +153,6 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 - [Mark Warner official Senate website — biography](https://www.warner.senate.gov/public/index.cfm/biography) (Tier 1)
 - [Mark Warner official Senate website — committee assignments](https://www.warner.senate.gov/public/index.cfm/committees) (Tier 1)
 - [Virginia Business: Mark Warner 2024 profile](https://virginiabusiness.com/virginia-500-2024-government-politics-mark-warner/) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -46,12 +46,9 @@ source-types:
 corroboration-count: 4
 known-gaps:
   - "No mapped relationships"
+related: "[[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Koch Network - Charles Koch|Koch Industries]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #frank-lucas #master-profile #house #oklahoma #agriculture #science #farm-subsidies #self-dealing #fossil-fuel #structural-corruption
-
-related: [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · Environmental Working Group · [[Koch Network - Charles Koch|Koch Industries]] · [[_Gavin Newsom Master Profile]]
 
 donors: [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · Agricultural Equipment Manufacturers Coalition · Oklahoma Oil and Gas Producers Association
 
@@ -333,7 +330,6 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 - [EWG: Farm subsidy database — Frank Lucas district data](https://farm.ewg.org/) (Tier 2)
 
 content-readiness:: ready
- 
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

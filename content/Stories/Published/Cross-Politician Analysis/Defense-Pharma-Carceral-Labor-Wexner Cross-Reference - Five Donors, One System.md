@@ -459,4 +459,3 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 ---
 
-content-readiness:: developed

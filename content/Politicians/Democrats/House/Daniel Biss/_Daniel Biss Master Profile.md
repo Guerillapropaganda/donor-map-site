@@ -29,12 +29,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Elect Chicago Women PAC]]"
 ---
-
 #democrat #politician #house
 tags: #democrat
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy Project - UDP]] [[Elect Chicago Women PAC]]
 
 donors: J Street PAC · Progressive Donors · Chicago-Based Pro-Israel Donors · Teachers Unions
 

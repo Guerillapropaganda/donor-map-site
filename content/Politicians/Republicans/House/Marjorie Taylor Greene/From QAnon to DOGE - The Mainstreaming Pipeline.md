@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Marjorie Taylor Greene Master Profile]]
+related: "[[_Marjorie Taylor Greene Master Profile]] · [[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]]"
 ---
-
-
 #mtg #qanon #doge #mainstreaming #conspiracy #deep-state #class-analysis #maga-ideology #deregulation
 
-related: [[_Marjorie Taylor Greene Master Profile]] · [[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]]
-
 donors: [[MAGA Small Dollar Base]]
-
-content-readiness:: ready
 
 ---
 

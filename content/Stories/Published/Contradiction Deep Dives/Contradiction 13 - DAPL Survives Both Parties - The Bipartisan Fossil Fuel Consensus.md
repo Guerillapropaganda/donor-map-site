@@ -10,12 +10,10 @@ issues:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[Kelcy Warren]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Fossil Fuel Bloc]]"
 ---
-
 #investigation #contradiction #kelcy-warren #dapl #fossil-fuel #bipartisan-consensus #class-analysis
 tags: #analysis #story
-
-related: [[Kelcy Warren]] [[_Greg Abbott Master Profile|Greg Abbott]] [[Fossil Fuel Bloc]] Energy & Utilities Biden DAPL Trump Fossil Fuel Deregulation
 
 ---
 
@@ -132,5 +130,3 @@ This is not a bug in Democratic strategy. It is the feature. The party performs 
 
 ---
 
-research-status:: ready — Promoted Session 39.
-content-readiness:: ready

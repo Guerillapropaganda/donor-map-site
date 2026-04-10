@@ -10,13 +10,11 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[2026 Senate Races]] · [[Jim Risch]] · [[Republican Primary Dynamics]]"
 ---
-
 #2026-election #senate #idaho #race-frame
 
 tags: #analysis #story
-
-related:: [[2026 Senate Races]] · [[Jim Risch]] · [[Republican Primary Dynamics]]
 
 donors:: Energy, Agribusiness, Securities/Investment
 

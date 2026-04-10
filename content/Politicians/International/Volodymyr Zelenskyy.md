@@ -11,11 +11,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[_Joe Biden Master Profile]]"
 ---
-
 #zelenskyy #ukraine #international #defense-contractors #us-foreign-policy #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[_Joe Biden Master Profile]]
 
 donors: [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]]
 

@@ -5,14 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[AIPAC Illinois Shell PAC Operation]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[AIPAC Illinois Shell PAC Operation]] · [[Fairshake PAC]] · [[2026 House Money Map]] · [[_Mike Lawler Master Profile|Mike Lawler]]"
 ---
-
 #2026-election #house #new-york #race-frame
 
 tags: #analysis #story
-
-related:: [[Fairshake PAC]] [[2026 House Money Map]] [[_Mike Lawler Master Profile|Mike Lawler]] Laura Gillen
 
 donors:: [[Fairshake PAC]]
 
@@ -105,5 +102,3 @@ New York House spending reveals competing donor blocs with fundamentally incompa
 
 ---
 
-content-readiness:: ready
-research-status:: active

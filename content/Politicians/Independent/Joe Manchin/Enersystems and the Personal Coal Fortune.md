@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Joe Manchin Master Profile]]
-related: "[[The BBB Kill and IRA Fossil Fuel Concessions]]"
+related: "[[The BBB Kill and IRA Fossil Fuel Concessions]] · [[_Joe Manchin Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #joe-manchin #enersystems #coal #fossil-fuels #personal-enrichment #class-analysis #follow-the-money
 
-related: [[_Joe Manchin Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
-
 donors: [[Fossil Fuel Bloc]]
-
-content-readiness:: developed
 
 ---
 

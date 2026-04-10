@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 2
 parent: null
-related: "[[2022 Jail Death Crisis]]"
+related: "[[2022 Jail Death Crisis]] · [[_Chad Bianco Master Profile]] · [[Oath Keepers Membership and the Constitutional Sheriff Movement]] · [[COVID Mandate Refusal - The Brand-Building Moment]] · [[287(g) and the Sanctuary State Contradiction]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:
@@ -21,11 +21,8 @@ doj-components:
   - "USAO - New York, Northern"
 donors: "[[Reed Hastings]]"
 ---
-
-
 #bianco #CSPOA #constitutional-sheriff #far-right #posse-comitatus #richard-mack #class-analysis #anti-government #nullification #sovereign-citizen
 
-related: [[_Chad Bianco Master Profile]] | [[Oath Keepers Membership and the Constitutional Sheriff Movement]] | [[COVID Mandate Refusal - The Brand-Building Moment]] | [[287(g) and the Sanctuary State Contradiction]]
 donors: [[Riverside Sheriffs Association|Riverside Sheriffs' Association]]
 
 ---
@@ -128,8 +125,6 @@ For Bianco specifically: the constitutional sheriff framework is what allows him
 - [IREHR — CSPOA and Oath Keepers, shoulder to shoulder](https://irehr.org/2022/07/15/shoulder-to-shoulder-cspoa-and-the-oath-keepers/) (Tier 2)
 - [VICE — Richard Mack crusade to radicalize law enforcement](https://www.vice.com/en/article/richard-mack-constitutional-sheriff-movement/) (Tier 3)
 - [SPLC — Bundy Ranch standoff](https://www.splcenter.org/resources/reports/war-west-bundy-ranch-standoff-and-american-radical-right/) (Tier 2)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

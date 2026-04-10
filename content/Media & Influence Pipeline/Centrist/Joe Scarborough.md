@@ -12,7 +12,6 @@ related: "[[Fox Corp - Rupert Murdoch]] · [[Comcast Corporation]] · [[The Revo
 
 #media-pipeline #centrist #cable-news #msnbc #ms-now #republican-turned-independent #revolving-door
 
-
 ---
 
 ### Who They Are
@@ -119,4 +118,3 @@ The Biden relationship reveals the structural function most clearly: the Preside
 - [FEC: Joe Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOE) (Tier 1)
 - [FEC: Joseph Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOSEPH) (Tier 1)
 
-content-readiness:: ready

@@ -26,7 +26,7 @@ top-donors:
 total-received: "$2,401,862"
 fec-candidate-id: "S6MN00267"
 donors: "[[Jewish Democratic Council of America]]"
-related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
+related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -41,10 +41,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #amy-klobuchar #democrat #minnesota #senate #antitrust #judiciary #agriculture #tech #genuine-win-structural-limit #two-audience-problem #revolving-door
-
-related: [[_Chuck Grassley Master Profile|Grassley]] [[_Chuck Schumer Master Profile|Schumer]] [[Google - Alphabet]] [[Amazon]] [[Meta - Facebook]] [[Apple]] [[Microsoft]] [[Goldman Sachs]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]
 
 donors: [[Google - Alphabet]] [[Amazon]] [[Goldman Sachs]] [[Apple]] [[Meta - Facebook]]
 
@@ -160,9 +157,6 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 �
 - [Center for Public Integrity: Amy Klobuchar 2020 campaign profile](https://publicintegrity.org/politics/elections/amy-klobuchar-2020-president-campaign-election/) (Tier 2)
 - [LegiStorm: Klobuchar revolving door tracker](https://www.legistorm.com/pro/revolving_door_details/member_id/815/name/Amy_Klobuchar.html) (Tier 3)
 - [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

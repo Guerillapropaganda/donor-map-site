@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
+related: "[[_Donald Trump Master Profile]] · [[Emoluments and Self Dealing - Donors and Backers]] · [[Trump Crypto - The President as Personal Profiteer]] · [[World Liberty Financial]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Elon Musk|Musk]] · [[Miriam Adelson|Adelson]]"
 ---
-
 #emoluments #self-dealing #class-analysis #second-term #crypto #extraction
-
-related: [[_Donald Trump Master Profile]] [[Emoluments and Self Dealing - Donors and Backers]] [[Trump Crypto - The President as Personal Profiteer]] [[World Liberty Financial]] [[_Jared Kushner Master Profile|Jared Kushner]] [[CREW - Citizens for Responsibility and Ethics in Washington]] [[Elon Musk|Musk]] [[Miriam Adelson|Adelson]]
 
 donors: [[CREW - Citizens for Responsibility and Ethics in Washington]] [[World Liberty Financial]] DJT (Trump Media)
 
@@ -141,4 +139,3 @@ This is extracting from the federal budget he controls. The spending is technica
 - [CREW: CREW is tracking Trump's unprecedented corruption (again)](https://www.citizensforethics.org/reports-investigations/crew-investigations/crew-is-tracking-trumps-unprecedented-corruption-again/) (Tier 2)
 - [CREW: 150 foreign government officials have paid visits to Trump properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/150-foreign-government-officials-have-paid-visits-to-trump-properties/) (Tier 2)
 
-content-readiness:: ready

@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Russell Vought Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Russell Vought Master Profile]] · [[Leonard Leo]]"
 ---
-
-
 #russell-vought #project-2025 #center-for-renewing-america #heritage #conservative-partnership-institute #class-analysis
 
-related: [[_Russell Vought Master Profile]] [[Leonard Leo]]
 donors: [[Leonard Leo]], [[Robert Mercer]], [[DonorsTrust]], [[Conservative Partnership Institute]]
 
 content-readiness:: ready

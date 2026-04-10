@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Budget Priorities - What California Actually Funds]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]]"
+related: "[[Budget Priorities - What California Actually Funds]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #criminal-justice #policing #george-floyd #AB1506 #use-of-force #accountability #reform-vs-rollback #chokeholds #warrior-training #class-analysis #2020
 
-related: [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] | [[Criminal Justice - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[CCPOA - California Correctional Peace Officers Association]]
 
 ---
@@ -110,4 +107,3 @@ Newsom has positioned criminal justice reform as a local/county function. This a
 - [LA Times: Newsom signs policing reform package 2020](https://www.latimes.com/california/story/2020-09-30/newsom-police-reform-bills-california) (Tier 2)
 - [CalMatters: Prop 36 passes overwhelmingly](https://calmatters.org/category/politics/elections/2024/11/prop-36-california-election-result/) (Tier 2)
 
-content-readiness:: ready

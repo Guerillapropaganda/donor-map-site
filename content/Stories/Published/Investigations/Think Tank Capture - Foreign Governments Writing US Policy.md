@@ -7,11 +7,8 @@ source-tier: 1
 parent: null
 related: "[[The Defense Spending Bipartisan Consensus]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]]"
 ---
-
 #story #investigation #donor-pipeline #think-tank-capture #foreign-government
 tags: #investigation
-
-related: Atlantic Council Master Profile Brookings Institution Think Tank Donor Networks Pentagon Contractors and Policy Influence
 
 donors: UAE - Foreign Government UK - Foreign Government Qatar - Foreign Government [[Northrop Grumman]] [[Lockheed Martin]]
 
@@ -97,4 +94,3 @@ The class dynamic: Foreign ruling classes (UAE monarchy, UK establishment, Qatar
 ---
 #analysis
 
-content-readiness:: ready

@@ -9,7 +9,7 @@ sector: "Energy & Utilities"
 entity-type: "Corporation"
 lei: "IM7X0T3ECJW4C1T7ON55"
 lei-jurisdiction: "US-DE"
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]] · [[Koch Industries]] · [[ConocoPhillips]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]] · [[Koch Industries]] · [[ConocoPhillips]] · [[Devon Energy]] · [[Halliburton]] · [[ExxonMobil]] · [[Chevron]]"
 court-cases: 2807
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -36,10 +36,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Land Management Bureau"
 ---
-
 #occidental #oil #permian-basin #buffett #carbon-capture #lobbying #energy
-
-related: [[Devon Energy]] [[Halliburton]] [[ExxonMobil]] [[Chevron]]
 
 ---
 
@@ -72,8 +69,6 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 - [SEC: Occidental 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Occidental%20Petroleum&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [IRS: 45Q tax credit data](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Occidental%20Petroleum&city=&state=All+States&country=US) (Tier 1)
 - [Ballotpedia: Occidental Petroleum](https://ballotpedia.org/Occidental_Petroleum) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

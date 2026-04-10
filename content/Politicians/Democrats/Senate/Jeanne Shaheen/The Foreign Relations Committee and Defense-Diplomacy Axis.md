@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jeanne Shaheen Master Profile]] · [[BAE Systems]] · [[Raytheon (RTX)|Raytheon]]"
 ---
-
 #shaheen #new-hampshire #foreign-relations #defense #appropriations #nato
-
-related: [[_Jeanne Shaheen Master Profile]] [[BAE Systems]] [[Raytheon (RTX)|Raytheon]]
 
 donors: [[Raytheon (RTX)|Raytheon]] [[BAE Systems]] [[Lockheed Martin]]
 

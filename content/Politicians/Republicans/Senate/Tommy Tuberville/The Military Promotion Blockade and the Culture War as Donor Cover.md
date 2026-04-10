@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Tommy Tuberville Master Profile]]
+related: "[[_Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]]"
 ---
-
 #tommy-tuberville #military #promotions #abortion #pentagon #defense-contractors #class-analysis
 
-related: [[_Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]]
-
 donors: [[Defense Industry Bloc]]
-
-content-readiness:: ready
 
 ---
 

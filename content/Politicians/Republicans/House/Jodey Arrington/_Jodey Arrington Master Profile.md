@@ -36,11 +36,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[American Farm Bureau Federation]]"
 ---
-
 #jodey-arrington #republican #texas #house #committee-chair #budget #ways-and-means #oil-gas #agriculture #tax-cuts #reconciliation #phase-6-gavel-power
-
-related: [[_Donald Trump Master Profile|Trump]] [[Heritage Foundation]] [[Americans for Prosperity]] [[American Farm Bureau Federation]]
 
 donors: [[Americans for Prosperity]] [[American Farm Bureau Federation]] [[Heritage Foundation]]
 

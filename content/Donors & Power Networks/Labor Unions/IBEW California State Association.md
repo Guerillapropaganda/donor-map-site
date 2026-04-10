@@ -13,12 +13,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+related: "[[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[PG&E]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]]"
 ---
-
-
 #donor #union #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #california #building-trades #labor #class-analysis #follow-the-money #state-level #prevailing-wage #[[PG&E|PG&E]] #clean-energy
-
-related: [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[PG&E]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]]
 
 ---
 

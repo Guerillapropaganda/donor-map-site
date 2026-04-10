@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Doug Burgum Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Doug Burgum Master Profile]]"
 ---
-
-
 #doug-burgum #harold-hamm #continental-resources #fossil-fuels #conflict-of-interest #anwr #class-analysis
 
-related: [[_Doug Burgum Master Profile]]
 donors: [[Harold Hamm|Harold Hamm]]
 
 content-readiness:: ready

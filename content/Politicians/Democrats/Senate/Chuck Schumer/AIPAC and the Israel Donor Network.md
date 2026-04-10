@@ -9,12 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chuck Schumer Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Benjamin Netanyahu Master Profile]] · [[Miriam Adelson]]"
 ---
-
-
 #schumer #aipac #israel #pro-israel #donor-sectors #class-analysis #follow-the-money
-
-related: [[_Chuck Schumer Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Benjamin Netanyahu Master Profile]] · [[Miriam Adelson]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]]
 

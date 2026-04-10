@@ -13,7 +13,7 @@ issues:
 federal-awards-total: 4624540
 federal-contracts-count: 25
 federal-grants-count: 25
-related: "[[Brian Kemp]] · [[The Caucus Chair and Inland Empire Logistics Economy]]"
+related: "[[Brian Kemp]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]] · [[Ford Motor Company]] · [[FedEx]] · [[Amazon]] · [[US Chamber of Commerce]]"
 cpsc-recalls: 31
 last-enriched: "2026-04-09"
 nhtsa-recalls: 0
@@ -79,10 +79,7 @@ doj-components:
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
 ---
-
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
-
-related: [[Teamsters - International Brotherhood of Teamsters|Teamsters]] · [[Ford Motor Company]] · [[FedEx]] · [[Amazon]] · [[US Chamber of Commerce]]
 
 ---
 
@@ -222,8 +219,6 @@ The class analysis conclusion: corporate political spending is effective against
 - [Ballotpedia: UPS](https://ballotpedia.org/UPS) (Tier 3)
 
 ---
-
-content-readiness:: developed
 
 ---
 

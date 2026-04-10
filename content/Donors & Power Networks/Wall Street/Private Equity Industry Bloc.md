@@ -15,12 +15,9 @@ issues:
   - "Housing"
 lobbying-spend: 2239378
 lobbying-filings: 64
-related: "[[The Education Committee and For-Profit College Pipeline]]"
+related: "[[The Education Committee and For-Profit College Pipeline]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Apollo Global Management]]"
 ---
-
 #private-equity #wall-street #carried-interest #leveraged-buyout #extraction #healthcare #housing
-
-related: [[Blackstone Group]] [[Goldman Sachs]] [[_Kyrsten Sinema Master Profile|Sinema]] [[Apollo Global Management]]
 
 ---
 
@@ -60,8 +57,6 @@ Additional priorities: favorable SEC regulation of fund disclosures, opposition 
 - [ProPublica: This Doctors Group Is Owned by a Private Equity Firm and Repeatedly Sued the Poor Until We Called Them](https://www.propublica.org/article/this-doctors-group-is-owned-by-a-private-equity-firm-and-repeatedly-sued-the-poor-until-we-called-them) (Tier 2)
 - [Washington Post: Private-equity lobby wins relief from tax hikes in Inflation Reduction Act](https://www.washingtonpost.com/us-policy/2022/08/07/inflation-reduction-act-sinema-private-equity/) (Tier 2)
 - [Ballotpedia: Private equity political spending](https://ballotpedia.org/Private_equity) (Tier 3)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Eric Swalwell Master Profile]]
+related: "[[_Eric Swalwell Master Profile]] · [[SEIU - Service Employees International Union]] · [[California Nurses Association]]"
 ---
-
-
 #eric-swalwell #media-profile #congressional-record #cable-news #political-brand #class-analysis
-
-related: [[_Eric Swalwell Master Profile]] · [[SEIU - Service Employees International Union]] · [[California Nurses Association]]
 
 donors: [[SEIU - Service Employees International Union]] · [[California Nurses Association]]
 
@@ -127,4 +124,3 @@ In a primary where voters are making choices based on actual governance records 
 - [Emerson College Polling: California 2026 Poll](https://emersoncollegepolling.com/california-2026-poll-swalwell-takes-lead-in-governor-primary-25-undecided-election-for-la-mayor-wide-open/) (Tier 2)
 - [CapRadio: California's powerful labor forces are divided](https://www.capradio.org/articles/2026/03/18/californias-powerful-labor-forces-are-divided-on-who-should-be-the-states-next-governor/) (Tier 2)
 
-content-readiness:: ready

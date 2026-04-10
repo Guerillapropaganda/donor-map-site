@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Barack Obama Master Profile]]
+related: "[[_Barack Obama Master Profile]] · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]]"
 ---
-
-
 #obama #aca #affordable-care-act #healthcare #class-analysis #follow-the-money #insurance-industry #two-audience-problem #pharma
 
-related: [[_Barack Obama Master Profile]] · Max Baucus · Billy Tauzin · Elizabeth Fowler · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]]
-
 donors: [[Insurance Industry Bloc]], [[Pharmaceutical Industry]], [[UnitedHealth Group - Optum]]
-
-content-readiness:: ready
 
 ---
 
@@ -157,7 +152,6 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 - [Financial Times: Elizabeth Fowler and the architecture of Obamacare](https://www.ft.com/content/a0f98984-c1d3-11e0-8f16-00144feabdc0) (Tier 2)
 - [Kaiser Family Foundation: Insurance Premium and Cost Trends Over the Obama Presidency](https://www.kff.org/report-section/health-insurance-coverage-of-the-nonelderly-state-level-estimates-of-coverage-estimates-by-age/) *(source unavailable)* (Tier 1)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel

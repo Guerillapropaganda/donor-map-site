@@ -29,12 +29,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Jeffrey Epstein Network|Jeffrey Epstein]] · [[Leonard Leo]] · [[Federalist Society]]"
 ---
-
-
 #alexander-acosta #labor-secretary #epstein #plea-deal #trump-cabinet #class-analysis #revolving-door
-
-related: [[_Donald Trump Master Profile]] · [[Jeffrey Epstein Network|Jeffrey Epstein]] · [[Leonard Leo]] · [[Federalist Society]]
 
 donors: N/A — Acosta is an appointee, not an elected official. No campaign committee. Donor analysis focuses on the networks that placed him.
 

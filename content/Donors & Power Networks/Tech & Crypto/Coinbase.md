@@ -34,15 +34,12 @@ lei: "549300QHD76EP6ZKTT48"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[From Senate to K Street - The Revolving Door]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Cryptocurrency Industry Bloc — Fairshake PAC Network]]"
+related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[From Senate to K Street - The Revolving Door]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Cryptocurrency Industry Bloc — Fairshake PAC Network]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_French Hill Master Profile|French Hill]] · [[FTX - Sam Bankman-Fried]]"
 federal-awards-total: 0
 federal-contracts-count: 3
 federal-grants-count: 0
 ---
-
 #coinbase #crypto #lobbying #sec #deregulation #fairshake
-
-related: [[Crypto Industry Bloc]] [[Cryptocurrency Industry]] [[Fairshake PAC]] [[Marc Andreessen & Horowitz]] [[_French Hill Master Profile|French Hill]] [[FTX - Sam Bankman-Fried]]
 
 ---
 
@@ -109,8 +106,6 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 - [The Verge: Coinbase political spending and Fairshake PAC](https://www.theverge.com/coinbase-fairshake-pac-political-spending/) (Tier 2)
 - [Washington Post: Crypto cash helps propel Trump, other allies to 2024 election victory](https://www.washingtonpost.com/business/2024/11/06/crypto-cash-helps-propel-trump-other-allies-2024-election-victory/) (Tier 2)
 - [Ballotpedia: Coinbase political spending](https://ballotpedia.org/Coinbase) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

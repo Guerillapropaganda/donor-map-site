@@ -9,14 +9,11 @@ sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Technology"
-related: "[[Mike Lawler Master Profile]]"
+related: "[[Mike Lawler Master Profile]] · [[Elon Musk]] · [[Tesla - Elon Musk Political Operation]] · [[SpaceX]] · [[MAGA Inc]]"
 known-gaps:
   - "No FEC contribution data"
 ---
-
 #america-pac #elon-musk #trump #2024 #super-pac #tech #voter-data #turnout
-
-related: [[Elon Musk]] [[Tesla - Elon Musk Political Operation]] [[SpaceX]] [[MAGA Inc]]
 
 ---
 

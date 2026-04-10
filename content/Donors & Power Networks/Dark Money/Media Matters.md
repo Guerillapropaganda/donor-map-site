@@ -46,11 +46,9 @@ known-gaps:
   - "No mapped relationships"
 lobbying-spend: 9397596
 lobbying-filings: 95
+related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]]"
 ---
-
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure
-
-related: [[Democracy Alliance]] [[Center for American Progress]] [[Media Matters|David Brock]] News Industry Influence Fox News Monitoring
 
 ---
 

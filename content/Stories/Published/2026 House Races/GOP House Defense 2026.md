@@ -5,14 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[DCCC Red-to-Blue Targets 2026]]"
+related: "[[DCCC Red-to-Blue Targets 2026]] · [[2026 House Money Map]] · [[Congressional Leadership Fund|CLF]] · [[Americans for Prosperity|AFP]] · [[MAGA Inc]]"
 ---
-
 #2026-election #house #race-frame #nrcc #republican-defense #class-analysis
 
 tags: #analysis #story
-
-related:: [[2026 House Money Map]] [[Congressional Leadership Fund|CLF]] [[Americans for Prosperity|AFP]] [[MAGA Inc]] Trump Administration 2025
 
 donors:: [[Congressional Leadership Fund|CLF]] [[MAGA Inc]] [[Americans for Prosperity|AFP]] Senate Leadership Fund - SLF
 
@@ -186,5 +183,3 @@ This contradiction reveals Republicans' political anxiety: they know the majorit
 
 ---
 
-content-readiness:: ready
-research-status:: active

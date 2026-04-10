@@ -10,16 +10,12 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
   - "Steve Bannon"
-related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]]"
+related: "[[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
-
 #breitbart #mercer #bannon #media #alt-right #gai #clinton-cash #class-analysis
-
-related: [[Robert Mercer]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]]
 
 ---
 

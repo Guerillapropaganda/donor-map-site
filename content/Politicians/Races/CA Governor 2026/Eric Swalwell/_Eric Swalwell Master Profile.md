@@ -35,12 +35,9 @@ source-types:
 corroboration-count: 4
 known-gaps:
   - "No mapped relationships"
+related: "[[SEIU - Service Employees International Union]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]]"
 ---
-
-
 #eric-swalwell #california #governor-2026 #cable-news #hollywood #[[SEIU - Service Employees International Union|SEIU]] #east-bay #class-analysis
-
-related: [[SEIU - Service Employees International Union]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]]
 
 donors: [[SEIU - Service Employees International Union]] · [[California Nurses Association]]
 

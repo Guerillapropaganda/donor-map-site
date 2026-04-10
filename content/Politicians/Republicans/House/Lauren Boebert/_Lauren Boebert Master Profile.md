@@ -21,11 +21,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Association]] · [[Club for Growth]] · [[Freedom Caucus]] · [[American Petroleum Institute]] · [[Koch Industries]]"
 ---
-
 #boebert #colorado #freedom-caucus #gun-rights #energy #maga #small-dollar #culture-war #oil-gas #ethics #district-switch
-
-related: [[_Marjorie Taylor Greene Master Profile|MTG]] [[National Rifle Association]] [[Club for Growth]] [[Freedom Caucus]] [[American Petroleum Institute]] [[Koch Industries]]
 
 ---
 

@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Pfizer Inc.]]"
+related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Pfizer Inc.]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]]"
 ---
-
-
 #donald-trump #healthcare #aca #obamacare #pharma #rfk-jr #medicaid #operation-warp-speed #covid #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]]
-
 donors: [[Pfizer]], [[PhRMA]], [[UnitedHealth Group - Optum|UnitedHealth Group]]
-
-content-readiness:: ready
 
 ---
 
@@ -105,4 +99,3 @@ The beneficiaries are state budgets (reduced Medicaid spending), the insurance i
 - [OpenSecrets. Robert F. Kennedy Jr. Donor Profile](https://www.opensecrets.org/members-of-congress/summary?name=ACA%20Repeal%20That%20Never%20Came%20and%20the%20Pharma%20Donors%20Who%20Paid%20Either%20Way) (Tier 2)
 - [Pfizer Annual Report 2022. Comirnaty Revenue](https://www.pfizer.com/news/announcements/) (Tier 2)
 
-research-status:: ACA repeal timeline and vote counts documented from Senate records. Operation Warp Speed spending from GAO. Pharma profit figures from annual reports and KFF. RFK Jr. HHS actions documented through March 2026. Medicaid cut projections from CBO. Wellness industry donor connections need deeper FEC documentation.

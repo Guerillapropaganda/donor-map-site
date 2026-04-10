@@ -24,12 +24,10 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Rick Scott Master Profile|Rick Scott]] · [[_Maria Elvira Salazar Master Profile|Salazar]]"
 ---
-
-
 #marco-rubio #secretary-of-state #florida #sugar-industry #defense-contractors #class-analysis #follow-the-money #cuba #venezuela #fanjul #gang-of-eight #immigration-flip #hawkish #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #little-marco
 
-related: [[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Rick Scott Master Profile|Rick Scott]] · [[_Maria Elvira Salazar Master Profile|Salazar]]
 donors: [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]]
 
 profile-status:: ready
@@ -111,7 +109,6 @@ Miami auto dealer Norman Braman was Rubio's major early backer — during the 20
 > **AIPAC $1M → JCPOA sabotage:** Rubio leads Senate opposition to the Iran nuclear deal — a U.S. diplomatic achievement supported by career foreign service professionals and U.S. allies. His opposition directly serves AIPAC donor priorities. The Iran deal's collapse under Trump in 2018 ultimately fulfilled Rubio's campaign.
 >
 > **Norman Braman $10M → $0 presidential return:** Miami's most prominent political donor bet $10M on Rubio's presidential viability. Rubio lost his home state by 19 points. The investment reveals the limits of donor capital when candidate quality is insufficient — but also how a single Miami donor could fund an entire presidential campaign.
-
 
 ### The 2026 Cuba Blockade — The Policy Executed
 

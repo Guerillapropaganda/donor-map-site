@@ -12,7 +12,6 @@ donors: "[[Wilks Brothers]]"
 
 #media-profile #right #conservative #daily-wire #tpusa #antisemitism #blexit #conspiracy #class-analysis #self-funded
 
-
 ---
 
 ### Who They Are
@@ -156,4 +155,3 @@ Candace Owens represents **the escape velocity problem** — what happens when a
 
 ---
 
-content-readiness:: ready

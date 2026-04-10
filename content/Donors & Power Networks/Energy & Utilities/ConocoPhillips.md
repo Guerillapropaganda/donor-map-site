@@ -70,12 +70,9 @@ court-jurisdictions:
   - "United States Court of International Trade"
 lobbying-spend: 17930000
 lobbying-filings: 39
-related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[The Budget Committee and Texas Energy]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[The Budget Committee and Texas Energy]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Lisa Murkowski Master Profile|Murkowski]] · [[_Dan Sullivan Master Profile|Sullivan]]"
 ---
-
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force
-
-related: [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Lisa Murkowski Master Profile|Murkowski]] · [[_Dan Sullivan Master Profile|Sullivan]]
 
 ---
 
@@ -222,9 +219,6 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 - [OpenSecrets: ConocoPhillips PAC SPIRIT PAC (C00112896) details](https://www.opensecrets.org/political-action-committees-pacs/conocophillips/C00112896/summary/2024) (Tier 1)
 - [E&E News: ConocoPhillips permitting reform lobbying (2026)](https://www.eenews.net/articles/conocophillips-hires-firm-to-lobby-on-permitting/) (Tier 2)
 - [Quiver Quantitative: ConocoPhillips Q4 2025 lobbying disclosure ($2.63M Willow/NPR-A/BLM 2024 rule)](https://www.quiverquant.com/news/Lobbying+Update:+$2,630,000+of+CONOCOPHILLIPS+lobbying+was+just+disclosed) (Tier 2)
-
-research-status:: developed — added 13-cycle PAC table (2000–2024, ~$3.74M PAC, ~$19.8M all sources, 82–92% Republican), 15-year federal lobbying table (peak $19.6M 2010 cap-and-trade fight, $8.68M 2022 Willow surge), 2024 top recipients (SLF $2.5M, CLF $2.5M, Alaska delegation $26K-$45K), expanded Willow timeline (discovery 2017, Trump approval/court halt 2020, Q1 2022 $4.6M lobbying push, March 2023 Biden approval, Nov 2023 Phase 1 drilling, Dec 2023 FID, Q4 2025 $2.63M ongoing), Andrew Lundquist full revolving door (Cheney task force director, energy policy director, energy task force architect, $200K/yr starting 2009, $7M+ stock options 2013–2016 as SVP Government Affairs), Arctic/LNG lobbying (NEPA reforms, BLM NPR-A, permitting reform), Marathon Petroleum $22.5B acquisition 2024. 13 sources, Tier 1-2 (3 UNVERIFIED). Format 2 temporal mapping table added (Willow timeline). All ### headers.
-content-readiness:: developed
 
 ---
 

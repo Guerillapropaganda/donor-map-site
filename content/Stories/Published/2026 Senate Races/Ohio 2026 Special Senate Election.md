@@ -10,12 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 
+related: "[[Sherrod Brown|Sherrod Brown]] · [[_Jon Husted Master Profile]] · [[_JD Vance Master Profile]] · [[UAW - United Auto Workers]] · [[Wexner Family - Ohio Wealth & Political Networks]]"
 ---
-
 #2026-election #senate #ohio #race-frame #special-election #analysis
 tags: #story
-
-related: [[Sherrod Brown|Sherrod Brown]] [[_Jon Husted Master Profile]] [[_JD Vance Master Profile]] [[UAW - United Auto Workers]] [[Wexner Family - Ohio Wealth & Political Networks]] Chamber of Commerce Money
 
 donors: Labor Unions - UAW, IBEW, Teamsters [[Democratic Small Dollar Networks]] Ohio Chamber of Commerce Republican Mega-Donor Networks Manufacturing Industry PACs Progressive Labor Networks
 
@@ -173,5 +171,3 @@ This race reveals fundamental contradiction in Ohio working-class politics and w
 
 ---
 
-content-readiness:: ready
-research-status:: active

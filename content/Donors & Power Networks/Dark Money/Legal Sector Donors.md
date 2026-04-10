@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
-related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]]"
+related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]]"
 doj-press-mentions: "264414"
 last-enriched: "2026-04-09"
 doj-components:
@@ -22,10 +22,7 @@ doj-components:
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
 ---
-
 #legal #lawyers #donors #tort #corporate-law #bundling #democratic #bipartisan
-
-related: [[Trial Lawyers Fund]] [[Goldman Sachs]] [[Democratic Donor Network]]
 
 ---
 
@@ -44,8 +41,6 @@ The legal sector's political power extends beyond contributions: lawyers are the
 
 - [FEC Receipts: Lawyers & law firm contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [Ballotpedia: Legal profession political spending](https://ballotpedia.org/Legal_Sector_Donors) (Tier 3)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

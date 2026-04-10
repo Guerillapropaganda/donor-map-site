@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Matt Gaetz Master Profile]]
+related: "[[_Matt Gaetz Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #matt-gaetz #kevin-mccarthy #motion-to-vacate #freedom-caucus #institutional-destruction #speaker #class-analysis #house-dysfunction
 
-related: [[_Matt Gaetz Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]] · [[_Donald Trump Master Profile]]
-
 donors: [[MAGA Small Dollar Base]]
-
-content-readiness:: ready
 
 ---
 

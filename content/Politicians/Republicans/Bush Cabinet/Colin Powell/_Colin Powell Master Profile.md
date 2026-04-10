@@ -34,11 +34,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[George W Bush]] · [[Dick Cheney]] · [[Lockheed Martin]] · [[Boeing]] · [[Kleiner Perkins]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]"
 ---
-
 #colin-powell #secretary-of-state #chairman-joint-chiefs #iraq-war #wmd-speech #defense-contractor #revolving-door #credibility-weapon #class-analysis
-
-related: [[George W Bush]] · [[Dick Cheney]] · [[Lockheed Martin]] · [[Boeing]] · [[Kleiner Perkins]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]
 
 donors: [[Lockheed Martin]] · [[Boeing]] · [[Kleiner Perkins]] · [[Salesforce]]
 

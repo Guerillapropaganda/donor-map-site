@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Mark Takano Master Profile]] · [[_Jerry Moran Master Profile|Moran]]"
 ---
-
 #takano #california #veterans #inland-empire #education #labor #lgbtq
-
-related: [[_Mark Takano Master Profile]] [[_Jerry Moran Master Profile|Moran]]
 
 donors: [[SEIU - Service Employees International Union|SEIU]]
 

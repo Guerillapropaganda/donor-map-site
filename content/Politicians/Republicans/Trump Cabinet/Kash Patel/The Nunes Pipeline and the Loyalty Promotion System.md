@@ -7,12 +7,9 @@ source-tier: 2
 parent: [[_Kash Patel Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Kash Patel Master Profile]] · [[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]]"
 ---
-
-
 #kash-patel #devin-nunes #nunes-memo #loyalty #deep-state #trump-pipeline #class-analysis
-
-related: [[_Kash Patel Master Profile]] · [[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]]
 
 donors: Trump political network
 

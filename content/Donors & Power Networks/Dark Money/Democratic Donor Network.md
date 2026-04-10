@@ -12,7 +12,7 @@ issues:
   - "Technology"
   - "Labor & Workers"
   - "Dark Money & Campaign Finance"
-related: "[[Ohio Democratic Party]] · [[Pod Save America]] · [[National Progressive Donor Networks]]"
+related: "[[Ohio Democratic Party]] · [[Pod Save America]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA Action]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-09"
 doj-components:
@@ -31,10 +31,7 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 161294238
 total-assets: 73379796
 ---
-
 #democratic #donor-network #bundling #wall-street #hollywood #tech #labor #dark-money #super-pac #class-analysis #follow-the-money
-
-related: [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA Action]]
 
 ---
 
@@ -152,8 +149,6 @@ The network's internal contradiction is structural, not accidental. Labor delive
 - [Wikipedia: Future Forward PAC](https://en.wikipedia.org/wiki/Future_Forward_PAC) (Tier 3)
 - [Wikipedia: ActBlue](https://en.wikipedia.org/wiki/ActBlue) (Tier 3)
 - [The American Prospect: The Democratic Dilemma on Dark Money](https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/) (Tier 2)
-
-content-readiness:: developed
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

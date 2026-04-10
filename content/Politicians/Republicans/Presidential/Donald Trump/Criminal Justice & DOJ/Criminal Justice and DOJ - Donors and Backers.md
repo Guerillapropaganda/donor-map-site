@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]"
+related: "[[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[Immigration Enforcement - The Detention Economy]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donald-trump #criminal-justice #doj #donors #backers #pardons #donor-pardons #private-prisons #geo-group #corecivic #follow-the-money #research-node
 
-related: [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[Immigration Enforcement - The Detention Economy]] · [[_Donald Trump Master Profile]]
 donors: [[GEO Group - Private Prisons|GEO Group]] · [[CoreCivic - Private Prisons|CoreCivic]] · [[Save America PAC]]
 
 ---

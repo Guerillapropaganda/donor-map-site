@@ -19,12 +19,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Andy Beshear Master Profile]] · [[_Wes Moore Master Profile]] · [[_JB Pritzker Master Profile]]"
 ---
-
-
 #josh-shapiro #democrat #governor #pennsylvania #2028 #aipac #fracking #school-choice #class-analysis
 
-related: [[_Andy Beshear Master Profile]] [[_Wes Moore Master Profile]] [[_JB Pritzker Master Profile]]
 donors: [[Michael Bloomberg]] · [[AIPAC - American Israel Public Affairs Committee]]
 
 profile-status:: ready

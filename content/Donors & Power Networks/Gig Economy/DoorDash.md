@@ -37,13 +37,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[Lyft]] · [[Labor - Donors and Backers]]"
 ---
-
-
 #donor #gig-economy #tech #doordash #labor-opponent #prop-22 #follow-the-money #silicon-valley #california #flex-association #ipo
-
-related: [[_Gavin Newsom Master Profile]] | [[AB5 - Gig Worker Classification]] | [[Prop 22 - The $200M Corporate Rollback]] | [[Uber]] | [[Lyft]] | [[Labor - Donors and Backers]]
 
 ---
 
@@ -138,9 +134,6 @@ IPO/corporate finance — Prop 22 as pre-IPO regulatory investment
 - [OpenSecrets: DoorDash PAC and lobbying](https://www.opensecrets.org/orgs/doordash-inc/summary?id=D000072628) (Tier 1)
 - [The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/) (Tier 2)
 - [The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/) (Tier 2)
-
-research-status:: ready — $52.1M Prop 22, $500K recall executives, DashPAC $163K, IPO 5 weeks post-Prop 22, $1.64-2.38M federal lobbying, Flex Association co-founder. 8 sources, Tier 1-2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ---
 

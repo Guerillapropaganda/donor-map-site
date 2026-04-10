@@ -18,17 +18,11 @@ stock-trades: 43
 total-received: "$335,864"
 fec-candidate-id: "S0AR00150"
 donors: "[[Walmart - Walton Family]] · [[Tyson Foods]]"
-related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
+related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Glenn Thompson Master Profile|Glenn Thompson]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #john-boozman #republican #arkansas #senate #committee-chair #agriculture #appropriations #tyson-foods #poultry #meatpacking #farm-bill #snap #crop-insurance #phase-6-gavel-power
 
-related: [[_Glenn Thompson Master Profile|Glenn Thompson]] [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -146,8 +140,6 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 - [Sentient Media: Senate Agriculture Committee leadership ties to meat industry](https://sentientmedia.org/senate-agriculture-committee-meat-industry) (Tier 2)
 - [Ballotpedia: John Boozman](https://ballotpedia.org/John_Boozman) (Tier 3)
 - [Wikipedia: John Boozman](https://en.wikipedia.org/wiki/John_Boozman) (Tier 3)
-
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

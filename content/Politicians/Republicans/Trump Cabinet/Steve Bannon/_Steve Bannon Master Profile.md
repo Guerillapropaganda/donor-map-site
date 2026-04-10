@@ -31,12 +31,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]]"
 ---
-
-
 #steve-bannon #republican #trump #mercer #breitbart #cambridge-analytica #goldman-sachs #fraud #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] [[Robert Mercer]] [[Rebekah Mercer]] [[Cambridge Analytica and the Data Weaponization of Elections]] [[Breitbart News and the Mercer-Bannon Media Pipeline]]
 donors: [[Robert Mercer]] · [[Rebekah Mercer]]
 
 profile-status:: ready
@@ -131,7 +129,6 @@ Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 mo
 - [CNN: Cambridge Analytica and Bannon](https://www.cnn.com/2018/03/30/politics/bannon-cambridge-analytica) (Tier 2)
 - [FEC: Steve Bannon contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=bannon,+steve) (Tier 1)
 content-readiness:: ready
- 
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

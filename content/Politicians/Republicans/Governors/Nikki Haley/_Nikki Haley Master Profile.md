@@ -35,11 +35,9 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]] · [[The Defense Industry Pipeline and South Carolina's Military Economy]]"
 ---
-
 #nikki-haley #governor #south-carolina #un-ambassador #republican #defense-hawk #class-analysis #follow-the-money #koch-network #wall-street #presidential-2028 #electability-candidate
-
-related: [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]] · [[The Defense Industry Pipeline and South Carolina's Military Economy]]
 
 donors: [[Koch Network - Charles Koch]] · [[Kenneth Griffin]] · Paul Singer Elliott Management
 
@@ -145,7 +143,6 @@ The flag removal is the clearest example in Haley's record of a moment that was 
 > **[[Paul Singer]] $22M → $0 return:** Elliott Management's $22M investment in Haley's super PAC is the most spectacular donor loss in the 2024 cycle. Singer's investment thesis — that Haley could deny Trump the nomination — failed completely. Unlike Koch (which pivoted early from DeSantis to Haley), Singer held through South Carolina.
 >
 > **UN Ambassador as AIPAC delivery mechanism:** Haley's UN record (14 vetoes, Human Rights Council withdrawal, embassy move support) represents the Israel lobby's most complete capture of a UN Ambassador in history. The sequence runs: AIPAC donor access → UN Ambassador role → UN policy becomes AIPAC priority checklist.
-
 
 ## Analytical Patterns
 

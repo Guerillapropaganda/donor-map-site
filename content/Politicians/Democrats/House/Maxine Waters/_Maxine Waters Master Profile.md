@@ -20,7 +20,7 @@ bills-cosponsored: 182
 website: "https://waters.house.gov"
 phone: "202-225-2201"
 donors: "[[California Nurses Association]]"
-related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]]"
+related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]] · [[_Donald Trump Master Profile|Trump]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -35,10 +35,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #maxine-waters #democrat #california #house #financial-services #ranking-member #phase-6-gavel-power
-
-related: [[_Donald Trump Master Profile|Trump]] [[Goldman Sachs]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[SEIU - Service Employees International Union|SEIU]]
 
 donors: [[Goldman Sachs]]
 
@@ -161,9 +158,6 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 - [NBC News: OneUnited was weakest bank to get TARP help](https://www.nbcnews.com/id/wbna38575419) (Tier 2)
 - [The Hill: Bank at center of Waters controversy got $12M bailout](https://thehill.com/homenews/house/119099-bank-at-center-of-waters-controversy-got-12m-bailout/) (Tier 2)
 - [VoteSmart: Maxine Waters key votes](https://justfacts.votesmart.org/candidate/key-votes/26759/maxine-waters) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

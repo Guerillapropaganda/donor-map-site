@@ -5,13 +5,9 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Mitch McConnell Master Profile]]
-related: "[[Susan Collins Master Profile]] · [[The Kavanaugh Vote and the Donor Realignment]]"
+related: "[[Susan Collins Master Profile]] · [[The Kavanaugh Vote and the Donor Realignment]] · [[_Mitch McConnell Master Profile]] · [[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #mcconnell #leonard-leo #federalist-society #judicial-appointments #scotus #garland #barrett #class-analysis
-
-related: [[_Mitch McConnell Master Profile]] · [[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[_Donald Trump Master Profile]]
 
 donors: [[Leonard Leo]] · [[Koch Network - Charles Koch]]
 

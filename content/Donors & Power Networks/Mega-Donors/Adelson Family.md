@@ -15,15 +15,11 @@ ein: 223769645
 annual-revenue: "$706K"
 net-assets: "$5.9M"
 tax-year: "2023"
-related: "[[Catherine Cortez Masto]]"
+related: "[[Catherine Cortez Masto]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile|Trump]] · [[_Benjamin Netanyahu Master Profile|Netanyahu]] · [[_Marco Rubio Master Profile|Rubio]] · [[Preserve America]] · [[MAGA Inc]] · [[Koch Network - Charles Koch]] · [[Timothy Mellon]] · [[Haim Saban]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[UNITE HERE]]"
 last-enriched: "2026-04-09"
 total-political-spend: "$1,000"
 ---
-
-
 #donor #adelson #mega-donor #republican #israel #casino #las-vegas #sheldon #miriam #las-vegas-sands #wire-act #online-gambling #class-analysis #follow-the-money #preserve-america #anti-online-gambling
-
-related: [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile|Trump]] · [[_Benjamin Netanyahu Master Profile|Netanyahu]] · [[_Marco Rubio Master Profile|Rubio]] · [[Preserve America]] · [[MAGA Inc]] · [[Koch Network - Charles Koch]] · [[Timothy Mellon]] · [[Haim Saban]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[UNITE HERE]]
 
 ---
 
@@ -237,7 +233,6 @@ This concentration of funding created structural dependency: Republican leadersh
 
 ---
 
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

@@ -24,13 +24,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Chad Bianco Master Profile]] · [[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Gun and Public Safety - Donors and Backers]] · [[International Association of Chiefs of Police]] · [[Bail Bond Industry]]"
+related: "[[Chad Bianco Master Profile]] · [[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Gun and Public Safety - Donors and Backers]] · [[International Association of Chiefs of Police]] · [[Bail Bond Industry]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Riverside Sheriffs Association]] · [[_Gavin Newsom Master Profile]] · [[Criminal Justice - Donors and Backers]] · [[Policing Reform - George Floyd Era]]"
 ---
-
-
 #donor #police-union #PORAC #law-enforcement #california #statewide #follow-the-money #class-analysis #accountability-blocker #clean-record-agreements
-
-related: [[CCPOA - California Correctional Peace Officers Association]] | [[Riverside Sheriffs Association]] | [[_Gavin Newsom Master Profile]] | [[Criminal Justice - Donors and Backers]] | [[Policing Reform - George Floyd Era]]
 
 ---
 
@@ -111,9 +107,6 @@ Clean-Record Agreements — the most underreported mechanism of police union pow
 - [UC Berkeley Journalism: PORAC clean-record agreements](https://journalism.berkeley.edu/projects/this-is-the-secret-system-that-covers-up-police-misconduct-and-ensures-problem-officers-can-get-hired-again/) (Tier 2)
 - [Courage California Institute: Police union spending](https://couragecaliforniainstitute.org/investing-in-public-safety-the-influence-of-police-unions-and-associations/) (Tier 2)
 - ~~[FollowTheMoney.org: PORAC political spending](https://followthemoney.org/?q=PORAC)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-
-research-status:: ready — 85K+ members, 950+ associations, LDF $39-51M reserves, $20M annual misconduct defense, 297+ clean-record officers, AB 392/SB 2/AB 847 legislative positions, $2.1M+ recall spending. 6 sources, Tier 1-4. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 

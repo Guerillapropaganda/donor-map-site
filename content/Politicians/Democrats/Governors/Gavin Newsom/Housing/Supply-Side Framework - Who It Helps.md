@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #housing #supply-side #developer-class #zoning #YIMBY #filtering #SB9 #SB10 #AB2011 #class-analysis #who-benefits #private-developer-model #california
 
-related: [[3.5 Million Units - Broken Promise]] | [[Rent Control - Props 10, 21, and 33]] | [[Homelessness Spending and Encampments]] | [[_Gavin Newsom Master Profile]]
 donors: [[California Apartment Association]]
 
 ---

@@ -17,16 +17,11 @@ leadership-roles:
 total-received: "$524,547"
 fec-candidate-id: "H2CA43245"
 donors: "[[National Nurses United]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
+related: "[[_Mike Bost Master Profile|Mike Bost]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #mark-takano #democrat #california #house #ranking-member #veterans-affairs #pact-act #lgbtq #teacher #doge #va-workforce #toxic-exposure #phase-6-gavel-power
 
-related: [[_Mike Bost Master Profile|Mike Bost]] [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -142,4 +137,3 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 - [Ballotpedia: Mark Takano](https://ballotpedia.org/Mark_Takano) (Tier 3)
 - [Wikipedia: Mark Takano](https://en.wikipedia.org/wiki/Mark_Takano) (Tier 3)
 
-content-readiness:: ready

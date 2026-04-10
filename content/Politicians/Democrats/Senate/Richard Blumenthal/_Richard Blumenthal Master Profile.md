@@ -37,17 +37,11 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 donors: "[[Google - Alphabet]]"
-related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Jerry Moran Master Profile|Jerry Moran]] · [[_Ed Markey Master Profile|Ed Markey]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #richard-blumenthal #democrat #connecticut #senate #ranking-member #veterans-affairs #judiciary #armed-services #gun-control #children-online-safety #attorney-general #vietnam-controversy #empire-state-building #malkin #wealthy #phase-6-gavel-power
 
-related: [[_Jerry Moran Master Profile|Jerry Moran]] [[_Ed Markey Master Profile|Ed Markey]] [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -165,8 +159,6 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 - [NBC Connecticut: Blumenthal never served in Vietnam](https://www.nbcconnecticut.com/news/politics/natl-contrary-to-his-claims-ag-blumenthal-never-served-in-vietnam-report/1880706/) (Tier 2)
 - [Ballotpedia: Richard Blumenthal](https://ballotpedia.org/Richard_Blumenthal) (Tier 3)
 - [Wikipedia: Richard Blumenthal](https://en.wikipedia.org/wiki/Richard_Blumenthal) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

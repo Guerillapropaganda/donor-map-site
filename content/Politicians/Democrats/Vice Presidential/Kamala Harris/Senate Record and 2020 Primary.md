@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Kamala Harris Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #harris #senate #2020 #primary #class-analysis #follow-the-money #kavanaugh #fosta #medicare-for-all #california #donor-class
 
-related: [[_Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]]
 donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Crypto Industry Bloc]]
 
 ---

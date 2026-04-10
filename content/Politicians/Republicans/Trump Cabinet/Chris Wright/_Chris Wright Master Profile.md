@@ -19,12 +19,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]]"
 ---
-
-
 #chris-wright #trump-cabinet #energy #liberty-energy #fracking #lng #koch-network #climate-denial #class-analysis
 
-related: [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]]
 donors: [[Koch Network - Charles Koch]]
 
 profile-status:: ready
@@ -121,7 +119,6 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 - [FEC: Chris Wright contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=wright,+chris) (Tier 1)
 - [OpenSecrets.org: Chris Wright donation profile](https://www.opensecrets.org/individuals/chris-wright) (Tier 1)
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

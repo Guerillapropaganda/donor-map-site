@@ -27,12 +27,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #brian-babin #republican #texas #house #chairman #science-space-technology #petrochemical #oil-gas #climate-denial #nasa #epa #noaa #endangerment-finding #immigration #dentist #phase-6-gavel-power
-
-related: [[_Zoe Lofgren Master Profile|Zoe Lofgren]] [[_Donald Trump Master Profile|Trump]]
 
 donors:
 

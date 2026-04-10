@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donald-trump #education #donors #backers #devos #american-federation-for-children #walton #for-profit-colleges #charter-schools #vouchers #follow-the-money #research-node
 
-related: [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[_Donald Trump Master Profile]]
 donors: [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]]
 
 ---

@@ -1,0 +1,70 @@
+---
+title: "Ben Horowitz"
+type: donor
+content-readiness: raw
+last-updated: '2026-04-09'
+source-tier: null
+parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
+issues:
+  - Cryptocurrency Regulation
+  - AI Policy
+  - Financial Deregulation
+politicians-funded:
+  - "Donald Trump"
+related: "[[Marc Andreessen & Horowitz]] · [[Fairshake PAC]] · [[Leading the Future]] · [[_Donald Trump Master Profile]]"
+source-types: []
+known-gaps:
+  - Stub created 2026-04-09 to preserve vault connections
+  - Full build required: a16z founding, crypto policy advocacy, 2024 Trump endorsement reversal, AI PAC role
+  - No standalone FEC contribution compilation (currently grouped with Andreessen)
+---
+
+#ben-horowitz #a16z #andreessen-horowitz #crypto #fairshake #leading-the-future #ai-pac #mega-donor
+
+---
+
+## Who He Is
+
+Ben Horowitz. Co-founder and general partner of Andreessen Horowitz (a16z), the $60B+ venture capital firm. Business partner of [[Marc Andreessen]]. Personal political giving in the 2024 cycle made him, alongside Andreessen, one of the largest individual crypto industry donors to Fairshake PAC and to Donald Trump's 2024 campaign.
+
+Horowitz's role is documented primarily through the combined [[Marc Andreessen & Horowitz]] vault entry and the [[Fairshake PAC]] profile. In 2023, Horowitz contributed approximately $9.5M personally to Fairshake PAC (part of a $19M combined Andreessen/Horowitz donation). In 2024, he personally contributed $2.5M to Right For America (Trump super PAC), plus federal maximum direct contributions to Trump's campaign.
+
+---
+
+## The Central Thesis
+
+*Stub — needs full development.*
+
+Horowitz, alongside Andreessen, executed the most visible tech-industry political realignment of the 2024 cycle: long-time Democratic donors who publicly broke with the party over cryptocurrency regulation, AI policy, and SEC enforcement. Their July 2024 endorsement of Trump was the high-visibility pivot point. The structural significance: unlike traditional single-issue mega-donors, Horowitz funds both the Fairshake crypto network AND the Leading the Future AI super PAC (which he co-founded with OpenAI president Greg Brockman). His political spending constitutes a dual-industry capture operation.
+
+---
+
+## Documented Political Giving (from Vault)
+
+| Source | Recipient | Amount | Cycle |
+|---|---|---|---|
+| Ben Horowitz (personal, 2023) | Fairshake PAC | $9.5M (part of $19M combined) | 2024 |
+| Ben Horowitz (personal, 2024) | Right For America (Trump super PAC) | $2.5M | 2024 |
+| a16z (corporate, 2024) | Fairshake PAC + affiliates | $25M | 2024 |
+| a16z (corporate, 2024) | Senate Majority PAC, CLF, SLF, HMP | $1.75M | 2024 (bipartisan hedging) |
+| a16z co-founding | Leading the Future (AI super PAC) | $50M initial | 2025 |
+
+Source: [[Fairshake PAC]], [[Marc Andreessen & Horowitz]] vault entries.
+
+---
+
+## Sources
+
+### Needed
+- Personal FEC contribution records (separated from a16z corporate)
+- a16z SEC filings and LP disclosure
+- July 2024 Trump endorsement statement
+- Leading the Future super PAC filings
+- Coinbase board role (a16z is Coinbase investor)
+- Horowitz's books and writings on startup/tech ideology
+
+---
+
+**Status:** Stub created 2026-04-09 to preserve vault connections. Horowitz is currently grouped with Andreessen in `[[Marc Andreessen & Horowitz]]` — this standalone profile preserves individual attribution for contribution records and distinct roles (Horowitz took public lead on Trump endorsement rhetoric). Full build-out requires separating his individual political giving from the combined a16z total.

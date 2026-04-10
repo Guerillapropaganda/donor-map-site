@@ -25,17 +25,14 @@ ein: 510189525
 annual-revenue: "$222K"
 net-assets: "$781K"
 tax-year: "2023"
-related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]]"
+related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]]"
 federal-awards-total: 192677628
 federal-contracts-count: 25
 federal-grants-count: 5
 lei: "254900JAIX71VO1NS489"
 lei-jurisdiction: "MT"
 ---
-
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
-
-related: [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]]
 
 ---
 
@@ -218,9 +215,6 @@ Environment — oil production, refinery regulation, environmental justice, frac
 - [DeSmog: Chevron cultural sponsorship as lobbying tool](https://www.desmog.com/2025/05/20/revealed-now-theres-proof-that-the-fossil-fuel-industry-uses-cultural-sponsorships-to-block-climate-action/) (Tier 2)
 - [Yahoo Finance/Oilprice.com: Chevron 2026 letter to Newsom on cap-and-invest](https://finance.yahoo.com/news/chevron-warns-california-cap-invest-014859704.html) (Tier 2) (UNVERIFIED)
 - [FPPC: Chevron PAC filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-
-research-status:: developed — added 13-cycle PAC table (2000–2024, $8.47M total PAC, $58.2M all sources), 15-year federal lobbying table with key 2008-2010 peaks ($13M+ cap-and-trade fight), 2024 top recipients breakdown (SLF $4.5M, CLF $2.75M, Trump $59K, Harris $170K), Richmond refinery detail (2012 fire 15K hospitalized, 2014 $3M city election spend, 2017 AB 378 union quid pro quo, 2025 $12.9M state lobbying record), California climate policy (cap-and-trade extension language matching WSPA wish list, Monterey Z defeat, CARE $9M 2017), international operations (Myanmar MOGE lobbying 2021, Cardin-Lugar decade kill campaign, multi-country lobbying Angola/Kazakhstan/Nigeria/Venezuela), cultural sponsorship as lobbying tool (2024 investigation), 2026 Newsom cap-and-invest letter ($1/gallon gas warning). 13 sources, Tier 1-2 (5 UNVERIFIED). All ### headers. Format 2 temporal mapping ready for expansion.
-content-readiness:: developed
 
 ---
 

@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Jared Kushner Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jared Kushner Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #kushner #666-fifth-avenue #real-estate #qatar #brookfield #class-analysis #follow-the-money #financial-desperation #bailout
-
-related: [[_Jared Kushner Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Donald Trump Master Profile]]
 
 donors: [[Gulf State Money - Saudi Arabia, UAE, Qatar]]
 

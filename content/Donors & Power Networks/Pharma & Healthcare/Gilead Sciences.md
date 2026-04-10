@@ -77,7 +77,7 @@ doj-components:
   - "USAO - New York, Northern"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Novo Nordisk]]"
+related: "[[Novo Nordisk]] · [[AbbVie]] · [[Merck]] · [[Pfizer]] · [[PhRMA]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 111952387
 total-assets: 161936520
@@ -92,10 +92,7 @@ regulatory-agencies:
   - "National Institutes of Health"
   - "Patent and Trademark Office"
 ---
-
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
-
-related: [[AbbVie]] [[Merck]] [[Pfizer]] [[PhRMA]]
 
 ---
 
@@ -128,8 +125,6 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 
 - [OpenSecrets: Gilead Sciences organizational profile](https://www.opensecrets.org/orgs/gilead-sciences/summary?id=D000000540) (Tier 1)
 - [Ballotpedia: Gilead Sciences](https://ballotpedia.org/Gilead_Sciences) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

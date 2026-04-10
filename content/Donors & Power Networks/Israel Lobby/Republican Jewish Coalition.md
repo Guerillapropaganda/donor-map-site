@@ -37,12 +37,9 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]]"
+related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]]"
 ---
-
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[Sheldon Adelson]] [[Miriam Adelson]] [[NORPAC]] Adelson Family Networks Pro-Israel Donor Network
 
 ---
 
@@ -159,7 +156,6 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 - [The Guardian: Adelson death and political succession](https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor) *(source unavailable)* (Tier 3)
 - [Ballotpedia: Pro-Israel political giving and RJC](https://ballotpedia.org/Pro-Israel_political_spending) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

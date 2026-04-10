@@ -22,7 +22,7 @@ top-donors:
   - "Lockheed Martin"
 total-received: "$501,840"
 fec-candidate-id: "H2OK04055"
-related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Adam Smith]]"
+related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Adam Smith]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]] · [[Heritage Foundation]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:
@@ -37,10 +37,7 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 ---
-
 #tom-cole #republican #oklahoma #house #committee-chair #appropriations #defense #energy #oil-gas #tribal #chickasaw #phase-6-gavel-power
-
-related: [[_Rosa DeLauro Master Profile|Rosa DeLauro]] [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed Martin]] NRA [[Heritage Foundation]]
 
 donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed Martin]]
 

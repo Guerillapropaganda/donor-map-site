@@ -25,7 +25,6 @@ court-jurisdictions:
 
 #lobbying #k-street #pharma #healthcare #tobacco #grassroots #tax-policy #telecom #defense #bipartisan-access #clinton-orbit
 
-
 ---
 
 ### Who They Are
@@ -288,8 +287,6 @@ The PPHC holding company structure adds the final layer: FTP's political access,
 - [PR Newswire: Forbes Tate Partners Expands Public Affairs and Advocacy Footprint to the Lone Star State (Oct 2025)](https://www.prnewswire.com/news-releases/forbes-tate-partners-expands-public-affairs-and-advocacy-footprint-to-the-lone-star-state-302584261.html) (Tier 3)
 - [Dallas Innovates: D.C. Public Affairs Firm Forbes Tate Partners Expands to Dallas-Fort Worth (Oct 2025)](https://dallasinnovates.com/d-c-public-affairs-firm-forbes-tate-partners-expands-to-dallas-fort-worth/) (Tier 3)
 - [Forbes Tate Partners/Politico Influence: Former PhRMA lobbyist Scott Olsen lands at Forbes Tate](https://forbes-tate.com/politico-influence-former-phrma-lobbyist-lands-at-forbes-tate/) (Tier 2)
-
-content-readiness:: ready
 
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->

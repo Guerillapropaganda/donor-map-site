@@ -5,13 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Valinor Enterprises]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Valinor Enterprises]] · [[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[_JD Vance Master Profile]] · [[_Chad Bianco Master Profile]] · [[GEO Group]] · [[CoreCivic]]"
 ---
-
-
 #trump #palantir #surveillance #peter-thiel #class-analysis #follow-the-money #ICE #military-industrial #data #privacy #JD-Vance
-
-related: [[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[_JD Vance Master Profile]] · [[_Chad Bianco Master Profile]] · [[GEO Group]] · [[CoreCivic]]
 
 donors: [[Peter Thiel]]
 
@@ -153,4 +149,3 @@ Palantir's various military contracts were presented as limited pilots: Project 
 - [NPR: How Palantir is rising in the Trump era](https://www.npr.org/2025/05/01/nx-s1-5372776/palantir-tech-contracts-trump) (Tier 2)
 - [Fortune: New contract shows Palantir is working on tech platform with ICE](https://fortune.com/2025/12/09/palantir-new-contract-uscis-ice/) (Tier 2)
 
-content-readiness:: ready

@@ -7,13 +7,11 @@ source-tier: 2
 parent: null
 known-gaps:
   - "No mapped relationships"
+related: "[[_Susan Collins Master Profile]] · [[_Janet Mills Master Profile]] · [[_Graham Platner Master Profile]] · [[Senate Leadership Fund]]"
 ---
-
 #2026-election #senate #maine #race-frame
 
 tags: #analysis #story
-
-related:: [[_Susan Collins Master Profile]] [[_Janet Mills Master Profile]] [[_Graham Platner Master Profile]] [[Senate Leadership Fund]] Majority Forward PAC
 
 donors:: [[Senate Leadership Fund]] Majority Forward - Democratic Dark Money One Nation - Republican Dark Money
 

@@ -23,7 +23,7 @@ ein: "956203844"
 annual-revenue: "$4.8M"
 net-assets: "$5.8M"
 tax-year: "2023"
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Bail Bond Industry]]"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Bail Bond Industry]] · [[_Chad Bianco Master Profile]] · [[RSA - The Single-Patron Sheriff]] · [[2022 Jail Death Crisis]] · [[CA DOJ Investigation - Pattern and Practice]] · [[Deputy Misconduct and the Whistleblower Firing]]"
 sec-filings: 23
 sec-form-types:
   - "424B3"
@@ -31,11 +31,7 @@ nonprofit-status: "501(c)(5)"
 total-revenue: 5926651
 total-assets: 5851488
 ---
-
-
 #donor #police-union #RSA #riverside #sheriff #class-analysis #follow-the-money #single-patron #accountability-blocker #carceral-state
-
-related: [[_Chad Bianco Master Profile]] | [[RSA - The Single-Patron Sheriff]] | [[2022 Jail Death Crisis]] | [[CA DOJ Investigation - Pattern and Practice]] | [[Deputy Misconduct and the Whistleblower Firing]]
 
 ---
 
@@ -162,9 +158,6 @@ Criminal Justice — structural parallel to CCPOA as law enforcement union block
 - [Prison Legal News: Zumwalt $7.5M settlement](https://www.prisonlegalnews.org/news/2024/aug/15/75-million-settlement-suit-over-california-jail-death/) (Tier 2)
 - [Press Enterprise: 10-year jail death trends](https://www.pressenterprise.com/2025/09/14/10-year-spike-in-riverside-county-jail-deaths-begins-to-show-signs-of-decline-report-says/) (Tier 2)
 - [FPPC: campaign finance records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
-
-research-status:: ready — Full citation pass complete. RSA $850K+/95% of Bianco 2018 funding, $600K+ supervisor donations, body camera lawsuit, $100M+ misconduct settlements, jail death trends (101→63), Bianco governor race $1.64M, civilian oversight opposition. 15 sources, Tier 1-2. Sources reformatted to bracket format. Promoted Session 38k.
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

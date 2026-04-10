@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Donald Trump Master Profile]]
+related: "[[Criminal Justice and DOJ - Donors and Backers]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile]] · [[Project 2025 - The Blueprint They Followed]] · [[_Kash Patel Master Profile]]"
 ---
-
-
 #donald-trump #criminal-justice #doj #fbi #kash-patel #weaponization #loyalty-test #deep-state #follow-the-money #schedule-f #federal-law-enforcement
-
-related: [[Criminal Justice and DOJ - Donors and Backers]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile]] · [[Project 2025 - The Blueprint They Followed]] · [[_Kash Patel Master Profile]]
 
 donors: [[Save America PAC]] · [[MAGA Inc]]
 
@@ -102,5 +99,3 @@ Three metrics to watch: (1) January 6th case closure rate (will pending cases be
 
 ---
 
-research-status:: ready — Full citation pass complete. Patel confirmation (51-49), FBI purge (agents fired for Trump investigations, CI-12 Iran unit gutted), Schedule F loyalty tests, January 6 investigation shutdown, Trishul LLC $2.1M consulting, Project 2025 FBI recommendations, class analysis. 10 sources Tier 2-3 with URLs. All ### headers. Promoted Session 38n.
-content-readiness:: ready

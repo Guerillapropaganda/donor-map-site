@@ -55,7 +55,6 @@ regulatory-agencies:
 
 #think-tank #centrist #elite-networking #billionaire-consensus #congressional-influence #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -255,8 +254,6 @@ The Bezos endowment marks a new phase: institutional capture by a single mega-do
 - [Aspen Journalism: The Aspen 50 — Forbes billionaires in Pitkin County (2024)](https://aspenjournalism.org/the-aspen-50-forbes-billionaires-in-pitkin-county/) (Tier 3)
 - [Aspen Times: 'Globalism' prompts Pentagon to withdraw senior military officials from Aspen Security Forum (Jul 2025)](https://www.aspentimes.com/news/globalism-prompts-pentagon-to-withdraw-senior-military-officials-from-aspen-security-forum/) (Tier 2)
 - [Aspen Institute: Dan Porterfield to Complete Transformational Tenure as President and CEO in Summer 2026 (Sep 2025)](https://www.aspeninstitute.org/blog-posts/dan-porterfield-to-complete-transformational-tenure-as-aspen-institute-president-and-ceo-in-summer-2026/) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

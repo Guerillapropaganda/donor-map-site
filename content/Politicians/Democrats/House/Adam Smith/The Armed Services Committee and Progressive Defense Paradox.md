@@ -5,16 +5,13 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Adam Smith Master Profile]]"
-related: "[[The Oversight Committee and Federal Workforce]] · [[The Homeland Security Committee and Mississippi Delta]]"
+related: "[[The Oversight Committee and Federal Workforce]] · [[The Homeland Security Committee and Mississippi Delta]] · [[_Adam Smith Master Profile]] · [[Boeing]] · [[_Mike Rogers Master Profile|Mike Rogers]] · [[Lockheed Martin]]"
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 ---
-
 #adam-smith #armed-services #defense #washington #boeing #progressive #military
-
-related: [[_Adam Smith Master Profile]] [[Boeing]] [[_Mike Rogers Master Profile|Mike Rogers]] [[Lockheed Martin]]
 
 donors: [[Boeing]] [[Lockheed Martin]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]]
 

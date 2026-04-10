@@ -21,12 +21,9 @@ court-jurisdictions:
 nonprofit-status: "501(c)(4)"
 total-revenue: 1057103
 total-assets: 79716
-related: "[[Democratic Senatorial Campaign Committee]]"
+related: "[[Democratic Senatorial Campaign Committee]] · [[ActBlue]] · [[House Majority PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]]"
 ---
-
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor
-
-related: Women Vote! PAC Democratic Party Power Structure Reproductive Rights - Donors and Backers · [[ActBlue]] · [[House Majority PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]]
 
 ---
 
@@ -188,9 +185,6 @@ EMILY's List operates within a broader ecosystem of women's-focused Democratic g
 - [Abortion and 2024: How pro-choice PAC EMILY's List might actually be helping Republicans — Slate](https://slate.com/news-and-politics/2024/03/abortion-2024-campaign-emilys-list-super-tuesday-primary-california-weiss-min.html) (Tier 2)
 - [EMILYs List and Future Forward Launch More Than $6M in "Real Stories" Ads to Women Under 40](https://emilyslist.org/news/emilys-list-and-future-forward-launch-more-than-6m-in-real-stories-ads-to-women-under-40/) (Tier 2)
 
-content-readiness:: ready
-
-research-status:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

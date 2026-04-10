@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Gretchen Whitmer Master Profile]]
+related: "[[_Gretchen Whitmer Master Profile]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[_Pete Buttigieg Master Profile]]"
 ---
-
 #gretchen-whitmer #2028-presidential #donor-class #dga #federal-pac #class-analysis #presidential-positioning
 
-related: [[_Gretchen Whitmer Master Profile]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[_Pete Buttigieg Master Profile]]
-
 donors: DGA Donor Network · Auto Industry Donors · National Democratic Bundler Networks
-
-content-readiness:: ready
 
 ---
 

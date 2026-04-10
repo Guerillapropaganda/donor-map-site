@@ -7,11 +7,8 @@ source-tier: 1
 parent: null
 related: "[[The Defense Spending Bipartisan Consensus]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[South Carolina 2026 Senate Race]]"
 ---
-
 #story #investigation #donor-pipeline #defense-industry-capture
 tags: #investigation
-
-related: _Northrop Grumman Master Profile _Lockheed Martin Master Profile Defense Contractor Bloc Military-Industrial Complex and Bipartisan Corruption
 
 donors: [[Northrop Grumman]] [[Lockheed Martin]] [[Raytheon Technologies]] [[General Dynamics]] [[Boeing Defense]]
 
@@ -95,4 +92,3 @@ The class dynamic: Contractor executives use access wealth (direct donations, re
 ---
 #analysis
 
-content-readiness:: ready

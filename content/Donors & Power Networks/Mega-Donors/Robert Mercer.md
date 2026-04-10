@@ -26,19 +26,12 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[The 2024 Race - Most Expensive Senate Campaign in History]]"
+related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]] · [[_Ted Cruz Master Profile]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]"
 lei: "213800EIIUUJGZ8VRD59"
 lei-jurisdiction: "GB"
 total-political-spend: "$2,042,848"
 ---
-
-
 #robert-mercer #mega-donor #renaissance-technologies #breitbart #cambridge-analytica #hedge-fund #dark-money #class-analysis
-
-related: [[Rebekah Mercer]] · [[_Donald Trump Master Profile]] · [[_Ted Cruz Master Profile]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]
-
-research-status:: ready — Full citation pass complete. Temporal mapping (12 entries), 2016 trifecta ($42-47M), DonorsTrust $31M, $7B IRS settlement, $88.4M Foundation. All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
-content-readiness:: ready
 
 ---
 

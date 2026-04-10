@@ -9,13 +9,11 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jon Ossoff Master Profile]] · [[_Raphael Warnock Master Profile]] · [[_Bernie Sanders Master Profile]]"
 ---
-
 #jon-ossoff #investigative-journalism #documentary-filmmaker #senate-record #establishment #brand-gap
 
 tags: #democrat
-
-related: [[_Jon Ossoff Master Profile]] · [[_Raphael Warnock Master Profile]] · [[_Bernie Sanders Master Profile]]
 
 donors: [[Tech and Media Donors]] · [[Entertainment and Hollywood Donors]]
 

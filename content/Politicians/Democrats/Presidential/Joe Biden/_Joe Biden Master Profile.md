@@ -21,7 +21,7 @@ top-donors:
   - "Pfizer"
   - "Moderna"
 fec-candidate-id: "P60012143"
-related: "[[Cory Booker]]"
+related: "[[Cory Booker]] · [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:
@@ -39,11 +39,7 @@ executive-orders: 162
 presidential-memoranda: 160
 proclamations: 747
 ---
-
-
 #biden #master-profile #president #delaware #senate #class-analysis #follow-the-money #mbna #credit-card-industry #pharmaceutical-industry #wall-street #genuine-win-structural-limit
-
-related: [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · Hunter Biden · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]]
 
 donors: [[MBNA Corporation]], [[Pharmaceutical Industry]], [[Goldman Sachs]], [[JPMorgan Chase]], [[Citigroup]], [[UnitedHealth Group - Optum]], [[Pfizer]], [[Moderna]]
 
@@ -241,10 +237,6 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 - [Ways and Means Committee: Bombshell Documents Revealing Hunter Biden Selling Access](https://waysandmeans.house.gov/2023/09/27/bombshell-ways-and-means-releases-new-documents-revealing-hunter-biden-selling-access-to-white-house-investigators-blocked-from-pursuing-evidence-related-to-president-biden/) (Tier 3 — partisan source) (Tier 1)
 - [Congress.gov: U.S. Security Assistance to Ukraine](https://www.congress.gov/crs-product/IF12040) (Tier 1)
 - [PolitiFact: Biden did not receive millions from drug industry members](https://www.politifact.com/factchecks/2022/jan/28/viral-image/biden-did-not-receive-millions-drug-industry-membe/) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

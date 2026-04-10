@@ -12,7 +12,6 @@ related: "[[AIPAC - American Israel Public Affairs Committee]]"
 
 #media-pipeline #centrist #cnn #the-view #republican-strategist #centrist-laundering #both-sides-illusion #revolving-door
 
-
 ---
 
 ### Who They Are
@@ -161,4 +160,3 @@ Ana Navarro's media career serves two structural functions for the donor class:
 - [TIME: Ana Navarro Is Engaging Across Party Lines — Latino Leaders 2024](https://time.com/collections/latino-leaders-2024/7012293/ana-navarro-latino-leaders/atino-leaders/) (Tier 2)
 - [FEC: Ana Navarro individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NAVARRO%2C+ANA) (Tier 1)
 
-content-readiness:: ready

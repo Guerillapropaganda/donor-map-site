@@ -5,13 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Mallory McMorrow Master Profile]]
+related: "[[_Mallory McMorrow Master Profile]] · [[National Progressive Donor Networks]]"
 ---
-
 #viral-politics #national-fundraising #political-branding #progressive-media #social-media #class-analysis #amplification
 
 tags: #democrat
-
-related: [[_Mallory McMorrow Master Profile]] · [[National Progressive Donor Networks]] · Media Amplification and Political Capital · Authenticity in Viral Politics
 
 donors: Tech Sector Donors · Online Progressive Community · MSNBC/CNN Amplification Effect
 
@@ -178,4 +176,3 @@ The McMorrow case study has several implications for understanding 2026 Senate f
 - [Mallory McMorrow tops fundraising in U.S. Senate race](https://www.crainsdetroit.com/politics-policy/mallory-mcmorrow-tops-fundraising-us-senate-race/) (Tier 2)
 - [Michigan Sen. Mallory McMorrow explains why she stood up to a culture war attack](https://www.pbs.org/newshour/show/michigan-sen-mallory-mcmorrow-explains-why-stood-up-to-a-culture-war-attack) (Tier 2)
 
-content-readiness:: ready

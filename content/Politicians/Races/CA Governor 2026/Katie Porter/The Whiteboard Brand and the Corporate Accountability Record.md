@@ -7,12 +7,10 @@ source-tier: 1
 parent: [[_Katie Porter Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Katie Porter Master Profile]] · [[Fairshake and the Crypto Industry War]] · [[The Anti-Corporate Fundraising Model]]"
 ---
-
-
 #katie-porter #whiteboard #corporate-accountability #viral #fundraising #brand #class-analysis
 
-related: [[_Katie Porter Master Profile]] · [[Fairshake and the Crypto Industry War]] · [[The Anti-Corporate Fundraising Model]]
 donors: (ActBlue small-dollar network)
 
 content-readiness:: ready

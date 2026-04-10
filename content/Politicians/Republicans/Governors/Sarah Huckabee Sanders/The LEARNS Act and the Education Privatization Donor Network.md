@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Sarah Huckabee Sanders Master Profile]]
+related: "[[_Sarah Huckabee Sanders Master Profile]] · [[Walton Family Foundation]]"
 ---
-
-
 #arkansas #education #vouchers #privatization #walton-foundation #class-analysis #public-schools
-
-related: [[_Sarah Huckabee Sanders Master Profile]] · [[Walton Family Foundation]] · Charter Schools and Privatization
 
 donors: [[Walton Family Foundation]] · Jim Walton - Walmart Heir · Arkansas Business Class
 
@@ -206,4 +203,3 @@ Sanders governs an impoverished state while implementing privatization policies 
 - [NEA Arkansas: Inside the web of Arkansas's school privatization empire](https://www.aeaonline.org/resource-library/inside-web-arkansass-school-privatization-empire) (Tier 2)
 - [Common Dreams: The Walton Family Plot to Privatize Arkansas public schools](https://www.commondreams.org/views/2019/09/05/walton-family-plot-privatize-public-schools-of-arkansas) (Tier 3)
 
-content-readiness:: ready

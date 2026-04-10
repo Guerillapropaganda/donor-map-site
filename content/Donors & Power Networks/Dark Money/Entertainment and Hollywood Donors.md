@@ -25,14 +25,11 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]]"
+related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]]"
 lobbying-spend: 24863936
 lobbying-filings: 93
 ---
-
 #hollywood #entertainment #donors #democratic #bundling #cultural-influence #israel-lobby #revolving-door #copyright #mpaa
-
-related: [[Jeffrey Katzenberg]] [[Haim Saban]] [[Democratic Donor Network]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[_Barack Obama Master Profile|Obama]] [[_Joe Biden Master Profile|Biden]] [[_Hillary Clinton Master Profile|Clinton]] [[Saban Center for Middle East Policy]] [[Motion Picture Association]]
 
 ---
 
@@ -171,8 +168,6 @@ The industry's structural function for the donor class: maintain Democratic cult
 - [NPR: Celebrities sign letter to Biden urging cease-fire in Gaza](https://www.npr.org/2023/10/21/1207783685/celebrities-letter-ceasefire-israel-gaza-biden) (Tier 2)
 - [SourceWatch: Saban Center for Middle East Policy](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Saban_Center_for_Middle_East_Policy) (Tier 3)
 - [Wikipedia: Haim Saban](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3)
-
-content-readiness:: developed
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->

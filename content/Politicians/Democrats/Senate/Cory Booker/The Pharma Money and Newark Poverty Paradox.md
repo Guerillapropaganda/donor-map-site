@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Cory Booker Master Profile]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Goldman Sachs]]"
 ---
-
 #booker #new-jersey #pharma #wall-street #newark #poverty #drug-pricing
-
-related: [[_Cory Booker Master Profile]] [[PhRMA]] [[Pfizer]] [[Johnson & Johnson]] [[Goldman Sachs]]
 
 donors: [[PhRMA]] [[Pfizer]] [[Johnson & Johnson]] [[Goldman Sachs]]
 

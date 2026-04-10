@@ -5,14 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Project 2025 - The Blueprint They Followed]] · [[The One Big Beautiful Bill - Who Won and Who Paid]]"
+related: "[[Project 2025 - The Blueprint They Followed]] · [[The One Big Beautiful Bill - Who Won and Who Paid]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[Kenneth Griffin]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[_Susan Collins Master Profile]] · [[Crypto Industry Bloc]]"
 internal-notes: "[URL Check 2026-04-09] 8 checked: 5 ok, 3 broken, 0 slow. | BROKEN: Joint Committee on Taxation: JCX-67-17 — TCJA official estimate ($1.5T revenue cost) | BROKEN: Congressional Budget Office: Economic Effects of TCJA (Publication 53312) | BROKEN: CNN Business: Stock buyback records ($437B explosion in 2018 post-TCJA)"
 ---
-
-
 #trump #tax-cuts #TCJA #class-analysis #follow-the-money #donor-pipeline #corporate-tax #wealth-transfer #deficit
-
-related: [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[Kenneth Griffin]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[_Susan Collins Master Profile]] · [[Crypto Industry Bloc]]
 
 donors: [[Koch Network - Charles Koch]] · [[Kenneth Griffin]]
 
@@ -146,8 +142,6 @@ The temporary individual provisions (set to expire 2025, then extended to 2028 u
 - ~~[CNN Business: Stock buyback records ($437B explosion in 2018 post-TCJA)](https://money.cnn.com/2018/07/10/investing/stock-buybacks-record-tax-cuts/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Tax Foundation: OBBBA — Trump Tax Cuts 2025 budget reconciliation](https://taxfoundation.org/research/all/federal/trump-tax-cuts-2025-budget-reconciliation/) (Tier 2) (VERIFIED)
 - [Medicare Rights Center: OBBBA triggers $536B in Medicare cuts](https://democrats-budget.house.gov/resources/fact-sheet/trumps-big-ugly-law-triggers-536-billion-medicare-cuts) (Tier 2) (VERIFIED)
-
-content-readiness:: ready
 
 ---
 

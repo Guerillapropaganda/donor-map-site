@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Pete Hegseth Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Pete Hegseth Master Profile]]"
 ---
-
-
 #pete-hegseth #defense-contractors #conflicts-of-interest #lockheed #northrop #class-analysis #follow-the-money
-
-related: [[_Pete Hegseth Master Profile]]
 
 donors: [[Lockheed Martin]] [[Northrop Grumman]] [[Honeywell]]
 

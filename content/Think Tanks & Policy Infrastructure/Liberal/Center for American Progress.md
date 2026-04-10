@@ -29,7 +29,6 @@ regulatory-agencies:
 
 #think-tank #liberal #healthcare #climate #economic-policy #revolving-door #idea-laundering #obama-network #biden-network
 
-
 ---
 
 ### Who They Are
@@ -202,8 +201,6 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 - [The Nation: Corporate Influence at the Center for American Progress?](https://www.thenation.com/article/archive/corporate-influence-center-american-progress/) (Tier 2)
 - [Jacobin: How CAP Fuels the Right — Tanden, Israel, and donor-driven foreign policy (2019)](https://jacobin.com/2019/04/center-for-american-progress-tanden-israel-omar) (Tier 2)
 - [Semafor: Center for American Progress' new head Neera Tanden says Democrats 'should not be knee-jerk institution defenders' (February 2025)](https://www.semafor.com/article/02/20/2025/new-center-for-american-progress-head-neera-tanden-interview-on-democrats) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Rand Paul Master Profile]]
+related: "[[_Rand Paul Master Profile]] · [[Koch Network - Charles Koch]] · [[Ukraine Aid Obstruction and the Isolationist Donor Network]]"
 ---
-
 #rand-paul #libertarian #koch-network #cryptocurrency #campaign-finance #class-analysis
 
-related: [[_Rand Paul Master Profile]] · [[Koch Network - Charles Koch]] · [[Ukraine Aid Obstruction and the Isolationist Donor Network]]
-
 donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]]
-
-content-readiness:: ready
 
 ---
 

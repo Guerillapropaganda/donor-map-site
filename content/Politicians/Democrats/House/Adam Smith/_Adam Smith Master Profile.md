@@ -22,13 +22,10 @@ top-donors:
   - "Raytheon"
   - "Lockheed Martin"
 fec-candidate-id: "H6WA09025"
-related: "[[Tom Cole]]"
+related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]]"
 ---
-
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power
-
-related: [[_Rosa DeLauro Master Profile|Rosa DeLauro]] [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed Martin]]
 
 donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed Martin]]
 
@@ -125,9 +122,6 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 - [CSIS: Representative Adam Smith on the FY2020 NDAA](https://www.csis.org/analysis/representative-adam-smith-fy2020-national-defense-authorization-act) (Tier 2) (VERIFIED)
 - [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED: Works; changed from bad)) (Tier 3)
 - [Washington State military & defense sector overview](https://choosewashingtonstate.com/why-washington/our-key-sectors/military-defense/) (Tier 3) (VERIFIED)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

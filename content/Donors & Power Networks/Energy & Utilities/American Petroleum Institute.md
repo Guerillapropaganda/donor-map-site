@@ -21,7 +21,7 @@ ofac-programs:
 nonprofit-status: "501(c)(6)"
 total-revenue: 268010806
 total-assets: 109879063
-related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]] · [[Ron Johnson]] · [[John Barrasso]] · [[Steve Scalise]] · [[Bruce Westerman]]"
+related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]] · [[Ron Johnson]] · [[John Barrasso]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch|Koch network]] · [[Americans for Prosperity|AFP]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Better Jobs Together]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]]"
 total-political-spend: "$24,891,220"
 politicians-funded:
   - "Steve Scalise"
@@ -45,10 +45,7 @@ regulatory-agencies:
   - "Occupational Safety and Health Administration"
   - "Pipeline and Hazardous Materials Safety Administration"
 ---
-
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money
-
-related: [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch|Koch network]] · [[Americans for Prosperity|AFP]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Better Jobs Together]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]]
 
 ---
 
@@ -649,7 +646,6 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 ---
 
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Tammy Duckworth Master Profile]] · [[Boeing]] · [[Lockheed Martin]] · [[General Dynamics]]"
 ---
-
 #duckworth #illinois #armed-services #defense #boeing #veterans #spending
-
-related: [[_Tammy Duckworth Master Profile]] [[Boeing]] [[Lockheed Martin]] [[General Dynamics]]
 
 donors: [[Boeing]] [[Lockheed Martin]] [[General Dynamics]] [[Raytheon (RTX)|Raytheon]]
 

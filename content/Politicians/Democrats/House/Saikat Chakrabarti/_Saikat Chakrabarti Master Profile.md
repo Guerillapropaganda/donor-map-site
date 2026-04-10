@@ -1,30 +1,44 @@
 ---
 title: "Saikat Chakrabarti Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-07
+content-readiness: verified
+last-updated: '2026-04-09'
+last-verified-by: editorial
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "House"
+chamber: "Candidate"
+running-for: "CA-11 House 2026"
 state: "California"
 state-abbr: "CA"
 district: "11"
 top-donors:
-  - "Small Dollar Donors - ActBlue"
+  - "Saikat Chakrabarti (self-loans, 83.1%)"
+  - "Small Dollar Donors (ActBlue)"
 total-received: "$1,769,248"
 fec-candidate-id: "H6CA11219"
+issues:
+  - Green New Deal
+  - Campaign Finance
+  - Healthcare
+  - Wealth Tax
+  - Israel & Foreign Policy
 source-types:
   - FEC
+  - HouseDisclosures
+  - IRS
+corroboration-count: 3
+checklist-na:
+  - "voting-records: Never held elected office (candidate)"
+  - "committee-assignments: Never held elected office (candidate)"
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - FEC Brand New Congress LLC transfers under 3-3 deadlock (MUR 7592) — no final resolution
+editorial-review-date: "2026-04-09"
+editorial-reviewer: "Research Claude"
+editorial-result: pass
+related: "[[_Alexandria Ocasio-Cortez Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Scott Wiener Master Profile]]"
 ---
-
 #saikat-chakrabarti #house #california #ca-11 #san-francisco #progressive #justice-democrats #stripe #tech-wealth #green-new-deal #class-analysis #follow-the-money
-
-related:: [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Scott Wiener Master Profile]]
 
 donors:: [[Small Dollar Donors - ActBlue]]
 
@@ -154,27 +168,25 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 
 ## Sources
 
-- [FEC: Saikat for Congress C00897314](https://www.fec.gov/data/committee/C00897314/) (Tier 1)
+### Verified
+- [FEC: Saikat for Congress committee (C00897314)](https://www.fec.gov/data/committee/C00897314/) (Tier 1)
 - [FEC: Candidate H6CA11219](https://www.fec.gov/data/candidate/H6CA11219/) (Tier 1)
 - [House Financial Disclosure #10063516](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10063516.pdf) (Tier 1)
-- [FEC: Justice Democrats PAC C00630665](https://www.fec.gov/data/committee/C00630665/) (Tier 1)
-- [FEC: Brand New Congress PAC C00613810](https://www.fec.gov/data/committee/C00613810/) (Tier 1)
-- [FEC: MUR 7575](https://www.fec.gov/data/legal/matter-under-review/7575/) (Tier 1)
-- [OpenSecrets: Justice Democrats PAC](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2024) (Tier 1)
-- [ProPublica: New Consensus 990s (EIN 82-3053965)](https://projects.propublica.org/nonprofits/organizations/823053965) (Tier 1)
+- [FEC: Justice Democrats PAC (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1)
+- [FEC: Brand New Congress PAC (C00613810)](https://www.fec.gov/data/committee/C00613810/) (Tier 1)
+- [FEC: MUR 7575 (Matter Under Review)](https://www.fec.gov/data/legal/matter-under-review/7575/) (Tier 1)
+- [ProPublica Nonprofit Explorer: New Consensus 990s (EIN 82-3053965)](https://projects.propublica.org/nonprofits/organizations/823053965) (Tier 1)
 - [Business Insider: Chakrabarti net worth (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2)
 - [Politico: SF establishment moves to sink progressive (March 27, 2026)](https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914) (Tier 2)
 - [Politico: Chakrabarti magazine profile (October 2025)](https://www.politico.com/news/magazine/2025/10/30/saikat-chakrabarti-nancy-pelosi-democratic-party-00624012) (Tier 2)
 - [Washington Examiner: Disclosure loophole (February 2019)](https://www.washingtonexaminer.com/news/646156/aoc-living-wage-rules-allow-her-staff-to-dodge-financial-disclosure-laws/) (Tier 2)
 - [Drop Site News: JD endorsement (Ryan Grim, March 30, 2026)](https://www.dropsitenews.com/p/justice-democrats-adam-hamawy-saikat-chakrabarti-endorsement) (Tier 2)
-- [SF Chronicle: Debate (April 1, 2026)](https://www.sfchronicle.com/politics/joegarofoli/article/chan-chakrabarti-wiener-debate-22154494.php) (Tier 3)
-- [Jacobin: Chakrabarti interview (July 15, 2025)](https://jacobin.com/2025/07/saikat-chakrabarti-democrats-california-congress) (Tier 4)
+- [SF Chronicle: CA-11 debate (April 1, 2026)](https://www.sfchronicle.com/politics/joegarofoli/article/chan-chakrabarti-wiener-debate-22154494.php) (Tier 3)
+- [Jacobin: Chakrabarti interview (July 2025)](https://jacobin.com/2025/07/saikat-chakrabarti-democrats-california-congress) (Tier 4)
 - [DSA SF: Disavowal statement (August 12, 2025)](https://x.com/DSA_SF/status/1955122465014944215) (Tier 4)
 
----
-
-research-status:: developed
-content-readiness:: developed
+### Archived
+- ~~[OpenSecrets: Justice Democrats PAC](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

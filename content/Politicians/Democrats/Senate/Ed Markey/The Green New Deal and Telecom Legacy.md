@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Ed Markey Master Profile]]"
+related: "[[_Ed Markey Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal|Comcast]]"
 ---
-
 #markey #green-new-deal #climate #telecom #net-neutrality #massachusetts #telecommunications-act #corporate-capture #class-analysis
-
-related: [[_Ed Markey Master Profile]] [[_Alexandria Ocasio-Cortez Master Profile]] [[AT&T - WarnerMedia]] [[Comcast - NBCUniversal|Comcast]]
 
 donors: [[AT&T - WarnerMedia]] [[Comcast - NBCUniversal|Comcast]] DISH Network Granite Telecommunications
 
@@ -119,4 +117,3 @@ The class function Markey performs: legitimize achievable progressive policy (IR
 - [The Call: How the Green New Deal Became the Inflation Reduction Act and Lost Its Soul](https://socialistcall.com/2022/08/17/green-new-deal-inflation-reduction-act/) (Tier 3)
 - [Ballotpedia: Ed Markey](https://ballotpedia.org/Ed_Markey) (Tier 3)
 
-content-readiness:: developed

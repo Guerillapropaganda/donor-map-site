@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Trade and Tariffs - Donors and Backers]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
 doj-components:
@@ -20,15 +20,9 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 ---
-
-
 #donald-trump #agriculture #farm-bill #snap #tariff-bailout #ethanol #meatpacking #rfk-jr #fda #subsidies #class-analysis #follow-the-money
 
-related: [[_Donald Trump Master Profile]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]]
-
 donors: [[American Farm Bureau Federation]], [[National Cattlemen's Beef Association]]
-
-content-readiness:: ready
 
 ---
 
@@ -149,8 +143,6 @@ Iowa farmers received approximately $893 million in Farm Bureau Association prog
 - [OpenSecrets. Agribusiness Sector Summary 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [USDA. Farm Bill Overview](https://www.usda.gov/farming-and-ranching/farm-bill) (Tier 1)
 - [Food Safety News. Trump Aided by RFK Jr. Dismantling Food Safety Network (September 2025)](https://www.foodsafetynews.com/2025/09/trump-aided-by-rfk-jr-is-dismantling-the-u-s-food-safety-network/) (Tier 2)
-
-research-status:: Tariff bailout distribution from EWG and CFR. Subsidy concentration from EWG and USAFacts. SNAP cuts from CBPP. Meatpacking COVID from NPR Illinois and National Academy of Sciences. Agribusiness donations from OpenSecrets. Ethanol exemptions from Newsweek and Agri-Pulse. RFK FDA actions from Food Safety News. Remaining. Individual agribusiness company FEC filings need deeper documentation.
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

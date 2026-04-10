@@ -17,7 +17,7 @@ lei: "549300VIWYMSIGT1U456"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]]"
+related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[Blue Shield of California]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]]"
 court-cases: 1995
 court-jurisdictions:
   - "District Court, D. Connecticut"
@@ -30,10 +30,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
 ---
-
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare
-
-related: [[UnitedHealth Group - Optum]] [[Anthem - Elevance Health]] [[Blue Shield of California]] [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] [[PhRMA]]
 
 ---
 
@@ -87,8 +84,6 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 - [FTC: PBM market concentration study](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1)
 - [ProPublica: Why Do Americans Pay More for Prescription Drugs?](https://www.propublica.org/article/why-americans-pay-more-for-prescription-drugs) (Tier 2)
 - [Ballotpedia: Cigna political spending](https://ballotpedia.org/The_Cigna_Group) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

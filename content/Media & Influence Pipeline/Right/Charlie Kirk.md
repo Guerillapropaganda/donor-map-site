@@ -12,7 +12,6 @@ related: "[[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Bernard Marcus]
 
 #media-pipeline #right #youth-politics #dark-money #culture-war #campus-infrastructure #TPUSA
 
-
 ---
 
 ### Who They Are
@@ -206,4 +205,3 @@ The audience captured by Kirk's content will vote against labor protections, aga
 - [Al Jazeera: How Charlie Kirk and Turning Point USA helped Trump and MAGA win](https://www.aljazeera.com/news/2025/9/11/how-charlie-kirk-and-turning-point-usa-helped-trump-and-maga-win) (Tier 2)
 - [International Business Times: Who Funds Conservative Campus Group Turning Point USA? Donors Revealed](https://www.ibtimes.com/political-capital/who-funds-conservative-campus-group-turning-point-usa-donors-revealed-2620325) (Tier 2)
 
-content-readiness:: ready

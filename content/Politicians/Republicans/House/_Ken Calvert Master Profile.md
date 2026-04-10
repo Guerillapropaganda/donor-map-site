@@ -42,12 +42,10 @@ corroboration-count: 3
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[Raytheon (RTX)|Raytheon PAC]]"
 ---
-
 #politician #republican #house #ken-calvert #donor-pipeline #defense #appropriations
 tags: #republican
-
-related: Lockheed Martin PAC [[Raytheon (RTX)|Raytheon PAC]] Northrop Grumman PAC Boeing PAC General Dynamics PAC Defense Appropriations Subcommittee NDAA California Military Contractors
 
 donors: Lockheed Martin PAC [[Raytheon (RTX)|Raytheon PAC]] Northrop Grumman PAC Boeing PAC General Dynamics PAC
 
@@ -159,7 +157,6 @@ When progressive members of Congress proposed redirecting small portions of the 
 
 profile-status:: ready
 content-readiness:: ready
- 
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

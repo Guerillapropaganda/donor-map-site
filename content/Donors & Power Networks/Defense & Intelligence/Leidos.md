@@ -69,14 +69,11 @@ regulatory-agencies:
 federal-awards-total: 10432350765
 federal-contracts-count: 25
 federal-grants-count: 9
-related: "[[Palantir Technologies Political Operation]]"
+related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]]"
 lobbying-spend: 10260000
 lobbying-filings: 54
 ---
-
 #leidos #defense #intelligence #it #government #contractor #cybersecurity #revolving-door #outsourcing #surveillance
-
-related: [[Booz Allen Hamilton]] [[General Dynamics]] [[BAE Systems]] [[Defense Industry Bloc]] [[Lockheed Martin]] [[Boeing Defense]] [[Northrop Grumman]]
 
 ---
 
@@ -194,8 +191,6 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 - [POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
 - [POGO: From Battlefield to Boardroom — Facilitating the DoD Revolving Door](https://www.pogo.org/analyses/from-battlefield-to-boardroom-facilitating-dod-revolving-door) (Tier 2)
 - [Defense News: Leidos taps Rolls-Royce executive Bell as next CEO](https://www.defensenews.com/industry/2023/02/27/leidos-taps-rolls-royce-executive-bell-as-next-ceo/) (Tier 2)
-
-content-readiness:: developed
 
 ---
 

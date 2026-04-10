@@ -17,7 +17,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Labor Department"
   - "Wage and Hour Division"
-related: "[[Airbnb]] · [[Labor - Donors and Backers]]"
+related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 815
@@ -33,10 +33,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
 ---
-
 #instacart #gig-economy #delivery #labor #independent-contractor #prop22
-
-related: [[Uber]] [[DoorDash]] [[Lyft]] [[Flex Association]]
 
 ---
 
@@ -70,8 +67,6 @@ Independent contractor classification for gig workers (nationally and in every s
 - [OpenSecrets: Gig economy political spending](https://www.opensecrets.org/orgs/instacart/summary?id=D000074851) (Tier 1)
 - [California Secretary of State: Prop 22 campaign finance](https://cal-access.sos.ca.gov/Campaign/Measures/Detail.aspx?id=1423353&session=2019) (Tier 1)
 - [Ballotpedia: Proposition 22](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_(2020)) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

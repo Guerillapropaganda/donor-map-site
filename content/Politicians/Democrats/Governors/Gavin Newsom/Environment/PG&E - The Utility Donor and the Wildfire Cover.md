@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[100% Clean Energy and the 2035 EV Mandate]]"
+related: "[[100% Clean Energy and the 2035 EV Mandate]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #environment #PGE #utility #wildfire #donor-class #ratepayers #bankruptcy #criminal-protection #class-analysis #follow-the-money #regulated-monopoly
 
-related: [[Fracking and Oil Permits - Green Branding vs. Record]] | [[Environment - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[PG&E]]
 
 ---

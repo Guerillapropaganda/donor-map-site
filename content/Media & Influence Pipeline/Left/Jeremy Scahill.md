@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #left #drop-site #intercept #national-security #war-crimes #investigative #journalist
 
-
 ---
 
 ### Who They Are
@@ -99,4 +98,3 @@ The structural question is whether Scahill genuinely escaped capture by leaving 
 - [Washington Free Beacon: Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4)
 - [Drop Site News — Jeremy Scahill](https://www.dropsitenews.com/author/jeremy-scahill/) (Tier 2)
 
-content-readiness:: developed

@@ -37,12 +37,9 @@ ein: 956037079
 annual-revenue: "$2.3M"
 net-assets: "$681K"
 tax-year: "2023"
-related: "[[News Corp - Fox Corporation]]"
+related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[_Ron DeSantis Master Profile|DeSantis]]"
 ---
-
 #disney #media #entertainment #lobbying #copyright #florida #desantis
-
-related: [[Comcast - NBCUniversal]] [[Google - Alphabet]] [[_Ron DeSantis Master Profile|DeSantis]]
 
 ---
 
@@ -80,8 +77,6 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 - [Copyright Office: Sonny Bono Copyright Term Extension Act](https://www.copyright.gov/legislation/s505.pdf) (Tier 1)
 - [Washington Post: Disney sues DeSantis over political retaliation](https://www.washingtonpost.com/business/2023/04/26/desantis-disney-lawsuit/) (Tier 2)
 - [Ballotpedia: Walt Disney Company political spending](https://ballotpedia.org/The_Walt_Disney_Company) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

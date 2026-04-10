@@ -12,7 +12,6 @@ related: "[[George Soros]] · [[Hollywood Democratic Donor Network]] · [[Democr
 
 #media-pipeline #left #revolving-door #democratic-establishment #podcast #crooked-media
 
-
 ### FEC Record
 
 **Entity Type:** Political Action Committee (PAC), not individual contributors. Vote Save America (FEC ID: C00835587) is Crooked Media's affiliated PAC, separate from the podcast hosts' personal campaign finance.
@@ -169,4 +168,3 @@ The union fight crystallizes the class analysis. A company that mobilizes millio
 - [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3)
 - [Wikipedia: Jon Favreau (speechwriter)](https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter)) (Tier 3)
 
-content-readiness:: ready

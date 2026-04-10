@@ -22,12 +22,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[Miriam Adelson]] · [[Koch Network - Charles Koch]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[The Palantir State - Surveillance as Policy]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
-
 #master-profile #politician #donor-funded
-
-related: [[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[Miriam Adelson]] · [[Koch Network - Charles Koch]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[The Palantir State - Surveillance as Policy]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors: [[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The 2024 Tech Billionaire Network]] · [[Hillbilly Elegy and the Class Fraud]]
 
@@ -112,7 +109,6 @@ His Senate voting record—57 bills introduced, 0 passed—reflects this contrad
 > **Crypto 72-hour alignment:** Crypto industry $13.5M inaugural fund (Dec 2024) → Crypto EO signed Jan 23, 2025, exactly 3 days after inauguration. Vance's position as crypto champion in Senate converted immediately into executive policy.
 >
 > **The Musk VP trade:** America PAC $45M/month (May-Nov 2024) + Musk VP lobbying → Vance selected. A $38B+ federal contractor helped select the vice president. Vance's first year in office includes expanded Palantir/SpaceX contracts and gutted regulatory oversight of Musk's companies.
-
 
 ## Analytical Patterns
 

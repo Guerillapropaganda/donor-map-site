@@ -11,16 +11,12 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Israel & Foreign Policy"
-related: "[[Haim Saban]] · [[Ethnic Studies - Whose History Gets Taught]] · [[DMFI - Democratic Majority for Israel]]"
+related: "[[Haim Saban]] · [[Ethnic Studies - Whose History Gets Taught]] · [[DMFI - Democratic Majority for Israel]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
-
 #donor #israel #JCRC #pro-israel #bay-area #community-relations #donor-network #pressure-network #california
-
-related: [[_Gavin Newsom Master Profile]] | [[Pro-Israel Donor Network Deep Dive]] | [[Early History and Background Ties 2003-2019]] | [[Post-October 7 Positions and Flip History]] | [[JPAC - Jewish Public Affairs Committee of California]] | [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ---
 

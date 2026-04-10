@@ -18,16 +18,11 @@ issues:
 total-received: "$1,589,488"
 fec-candidate-id: "S4OK00232"
 donors: "[[Devon Energy]]"
+related: "[[_Donald Trump Master Profile|Trump]]"
 ---
-
-
 #james-lankford #republican #oklahoma #senate #ethics-chair #finance #homeland-security #oil-gas #border #immigration #pastor #baptist #energy #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -144,8 +139,6 @@ The border deal collapse is the defining event of Lankford's career and the clea
 - [Congress.gov: James Lankford](https://www.congress.gov/member/james-lankford/L000575) (Tier 1)
 - [Ballotpedia: James Lankford](https://ballotpedia.org/James_Lankford) (Tier 3)
 - [Wikipedia: James Lankford](https://en.wikipedia.org/wiki/James_Lankford) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

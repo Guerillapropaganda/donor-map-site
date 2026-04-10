@@ -58,11 +58,9 @@ known-gaps:
   - "No mapped relationships"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+related: "[[Goldman Sachs]] · [[Morgan Stanley]] · [[JPMorgan Chase]]"
 ---
-
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing
-
-related: [[Goldman Sachs]] [[Morgan Stanley]] [[JPMorgan Chase]]
 
 ---
 

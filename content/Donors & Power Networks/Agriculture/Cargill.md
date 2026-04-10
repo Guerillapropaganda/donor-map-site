@@ -23,7 +23,7 @@ top-naics-code: "311999"
 federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
-related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
+related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]]"
 doj-press-mentions: "264349"
 last-enriched: "2026-04-09"
 doj-components:
@@ -101,10 +101,7 @@ court-jurisdictions:
   - "District Court, S.D. Iowa"
   - "United States Bankruptcy Court, N.D. Florida"
 ---
-
 #cargill #agriculture #commodities #grain #trade #private #family
-
-related: [[Tyson Foods]] [[American Farm Bureau Federation]] [[National Cattlemen's Beef Association]]
 
 ---
 
@@ -135,14 +132,11 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 
 ---
 
-
 ### Sources
 
 - [OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241) (Tier 1)
 - [Forbes: Cargill-MacMillan family wealth](https://www.forbes.com/profile/cargill-macmillan/) (Tier 2) (VERIFIED)
 - ~~[Ballotpedia: Cargill](https://ballotpedia.org/Cargill)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jeff Merkley Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[_Sheldon Whitehouse Master Profile]]"
 ---
-
 #merkley #oregon #progressive #housing #banking #filibuster #outsider
-
-related: [[_Jeff Merkley Master Profile]] [[_Elizabeth Warren Master Profile]] [[_Sheldon Whitehouse Master Profile]]
 
 ---
 

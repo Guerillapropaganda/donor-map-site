@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Frank Pallone Master Profile]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]]"
 ---
-
 #pallone #energy-commerce #telecom #pharma #new-jersey #aca #drug-pricing
-
-related: [[_Frank Pallone Master Profile]] [[PhRMA]] [[Pfizer]] [[UnitedHealth Group - Optum]]
 
 donors: [[PhRMA]] [[Pfizer]] [[UnitedHealth Group - Optum]] [[Goldman Sachs]]
 

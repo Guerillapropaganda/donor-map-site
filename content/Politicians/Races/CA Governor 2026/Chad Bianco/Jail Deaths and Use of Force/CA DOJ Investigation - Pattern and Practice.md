@@ -5,18 +5,15 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Riverside Sheriffs Association]]"
+related: "[[Riverside Sheriffs Association]] · [[_Chad Bianco Master Profile]] · [[2022 Jail Death Crisis]] · [[Deputy Misconduct and the Whistleblower Firing]] · [[RSA - The Single-Patron Sheriff]]"
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
 source-types:
   - Congress
 ---
-
-
 #bianco #DOJ #pattern-and-practice #investigation #jail-deaths #excessive-force #class-analysis #accountability #consent-decree #california
 
-related: [[_Chad Bianco Master Profile]] | [[2022 Jail Death Crisis]] | [[Deputy Misconduct and the Whistleblower Firing]] | [[RSA - The Single-Patron Sheriff]]
 donors: [[Riverside Sheriffs Association|Riverside Sheriffs' Association]]
 
 ---
@@ -102,4 +99,3 @@ The DOJ investigation is currently the only external accountability mechanism wi
 - [Harvard Kennedy School — LAPD consent decree research](https://www.hks.harvard.edu/publications/policing-los-angeles-under-consent-decree-dynamics-change-lapd) (Tier 1)
 - [Vera Institute — consent decree overview](https://www.vera.org/news/everything-you-need-to-know-about-consent-decrees) (Tier 2)
 
-content-readiness:: ready

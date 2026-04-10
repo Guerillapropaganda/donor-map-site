@@ -1,23 +1,23 @@
 ---
 title: Justice Democrats and Brand New Congress - The Infrastructure He Built
 type: sub-note
-content-readiness: raw
-last-updated: 2026-04-02
+content-readiness: ready
+last-updated: '2026-04-09'
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
 source-types:
   - FEC
+  - IRS
+corroboration-count: 2
 known-gaps:
-  - "No mapped relationships"
+  - No standalone Justice Democrats PAC master profile in Donors & Power Networks folder (currently exists only as this sub-note)
+related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Bush]] · [[_AOC Squad]] · [[Progressive PACs and Funding Networks]]"
 ---
-
 #justice-democrats #brand-new-congress #pac #recruitment #casting-call #aoc #squad #class-analysis #follow-the-money
 
-related:: [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Bush]] · [[_AOC Squad]] · [[Progressive PACs and Funding Networks]]
-
 ---
 
-### Origins: From Sanders Campaign to Dual Structures
+## Origins: From Sanders Campaign to Dual Structures
 
 [[_Saikat Chakrabarti Master Profile|Chakrabarti]] didn't enter electoral politics as an established operative. He was a software engineer and data specialist who worked on the [[_Bernie Sanders Master Profile|Sanders]] 2016 campaign. That experience became the crucible for what followed.
 
@@ -30,7 +30,7 @@ When Sanders lost, the appetite for a parallel candidate recruitment infrastruct
 
 ---
 
-### The Casting Call Model: Three Phases of Infrastructure
+## The Casting Call Model: Three Phases of Infrastructure
 
 #### Phase 1: The Open Call (January–May 2017)
 
@@ -63,7 +63,7 @@ This became the durable architecture: two PACs with complementary functions, sup
 
 ---
 
-### FEC Filings: The Money Flows
+## FEC Filings: The Money Flows
 
 #### Justice Democrats PAC (FEC C00630665)
 
@@ -96,7 +96,7 @@ Brand New Congress contracted sharply after 2022, raising only $22,721 in 2024. 
 
 ---
 
-### Donor Profiles: Money Follows Insurgency
+## Donor Profiles: Money Follows Insurgency
 
 #### 2018: Small-Dollar Dominated
 
@@ -135,7 +135,7 @@ The 2024 cycle revealed a stunning donor concentration:
 
 ---
 
-### Organizational Architecture: Chakrabarti's Blueprints
+## Organizational Architecture: Chakrabarti's Blueprints
 
 The infrastructure comprised multiple legal entities:
 
@@ -153,7 +153,7 @@ The Hybrid PAC model was critical: it allowed both capped direct contributions (
 
 ---
 
-### Win Rates and Electoral Outcomes
+## Win Rates and Electoral Outcomes
 
 The casting call model produced measurable electoral results, though not universally:
 
@@ -185,7 +185,7 @@ The trajectory showed: explosive growth (2018-2020), plateau (2022), and then a 
 
 ---
 
-### Chakrabarti's Personal Stake
+## Chakrabarti's Personal Stake
 
 [[_Saikat Chakrabarti Master Profile|Chakrabarti]] did not extract large sums from the operation:
 - **2018**: $5,000 to Justice Democrats (via Some Character LLC)
@@ -197,7 +197,7 @@ The trajectory showed: explosive growth (2018-2020), plateau (2022), and then a 
 
 ---
 
-### Legacy: What the Infrastructure Built
+## Legacy: What the Infrastructure Built
 
 By 2024, Chakrabarti's PACs and operational machines had:
 1. **Recruited and trained dozens of first-time candidates** who entered Congress without prior electoral experience
@@ -211,22 +211,21 @@ The infrastructure was not a monolith. It thrived on tension between revolutiona
 
 ---
 
-research-status:: Complete. All FEC filings reviewed. Donor data cross-checked with OpenSecrets and ProPublica. Organizational structure mapped against IRS and Delaware records.
-
-content-readiness:: Developed.
-
 ---
 
-### Sources
+## Sources
 
-- Federal Election Commission, Justice Democrats PAC (C00630665) Filing Records, 2017-2024 (Tier 1) | https://www.fec.gov/data/committee/ *(source unavailable)*C00630665/
-- Federal Election Commission, Brand New Congress PAC (C00613810) Filing Records, 2017-2024 (Tier 1) | https://www.fec.gov/data/committee/ *(source unavailable)*C00613810/
-- OpenSecrets, Justice Democrats PAC Profile, 2018-2024 (Tier 1) | https://www.opensecrets.org/
-- OpenSecrets, Brand New Congress PAC Profile, 2017-2024 (Tier 1) | https://www.opensecrets.org/
-- Federal Election Commission, Matter Under Review 7592, Respondents' Brief on Justice Democrats Compliance (Tier 1) | https://www.fec.gov/
-- ProPublica, 527 Explorer, Justice Democrats Non-Federal Account (EIN 814909100) (Tier 1) | https://projects.propublica.org/nonprofits/
-- HuffPost, "The Young Turks' Cenk Uygur Steps Down from Justice Democrats Over Old Controversial Blog Posts," December 23, 2017 (Tier 2) | https://www.huffpost.com/
-- Jacobin, "Cenk Uygur Departs Justice Democrats," July 15, 2025 (Tier 4)
+### Verified
+- [FEC: Justice Democrats PAC committee page (C00630665)](https://www.fec.gov/data/committee/C00630665/) (Tier 1)
+- [FEC: Brand New Congress PAC committee page (C00613810)](https://www.fec.gov/data/committee/C00613810/) (Tier 1)
+- [FEC: Matter Under Review 7592 (Justice Democrats compliance)](https://www.fec.gov/legal-resources/enforcement/) (Tier 1)
+- [ProPublica Nonprofit Explorer: Justice Democrats 527 (EIN 814909100)](https://projects.propublica.org/nonprofits/organizations/814909100) (Tier 1)
+- [HuffPost: Cenk Uygur Steps Down from Justice Democrats (Dec 2017)](https://www.huffpost.com/entry/cenk-uygur-justice-democrats_n_5a3e4d40e4b0df0de8b064b3) (Tier 2)
+
+### Archived
+- ~~[OpenSecrets: Justice Democrats PAC Profile, 2018-2024](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)
+- ~~[OpenSecrets: Brand New Congress PAC Profile, 2017-2024](https://www.opensecrets.org/political-action-committees-pacs/brand-new-congress/C00613810/summary/2024)~~ (was Tier 1, OpenSecrets demoted)
+- ~~[Jacobin: Cenk Uygur Departs Justice Democrats (July 2025)](https://jacobin.com/)~~ (Tier 4, URL incomplete)
 - Wikipedia, "Brand New Congress," contributors, revision history (Tier 3) | https://en.wikipedia.org/wiki/Brand_New_Congress
 - Ballotpedia, "Justice Democrats," 2024 (Tier 3) | https://ballotpedia.org/Justice_Democrats
 - Jacobin, "Justice Democrats' Super PAC: How a Squad-Aligned Organization is Blurring Lines," June 2020 (Tier 4)

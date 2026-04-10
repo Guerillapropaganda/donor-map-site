@@ -26,15 +26,11 @@ stock-trade-tickers:
   - "GDV"
   - "BIF"
 donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]]"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Donald Trump Master Profile|Trump]]"
 total-received: "$286,732"
 fec-candidate-id: "S8MS00196"
 ---
-
-
 #roger-wicker #republican #mississippi #senate #committee-chair #phase-6-gavel-power #armed-services #defense #class-analysis #follow-the-money
-
-related: [[Lockheed Martin]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[_Donald Trump Master Profile|Trump]]
 
 donors: [[Lockheed Martin]] [[Northrop Grumman]]
 
@@ -172,9 +168,6 @@ On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiw
 - [Ballotpedia: Roger Wicker](https://ballotpedia.org/Roger_Wicker) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

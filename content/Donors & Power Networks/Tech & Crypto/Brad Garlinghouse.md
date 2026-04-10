@@ -1,0 +1,68 @@
+---
+title: "Brad Garlinghouse"
+type: donor
+content-readiness: raw
+last-updated: '2026-04-09'
+source-tier: null
+parent: null
+sector: "Tech & Crypto"
+entity-type: "Individual Donor"
+issues:
+  - Cryptocurrency Regulation
+politicians-funded:
+  - "Donald Trump"
+related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[GENIUS Act]] · [[_Donald Trump Master Profile]] · [[Chris Larsen]]"
+source-types: []
+known-gaps:
+  - Stub created 2026-04-09 to preserve vault connections
+  - Full build required: Ripple CEO tenure, GENIUS Act drafting role, SEC settlement negotiation, personal FEC contributions
+---
+
+#brad-garlinghouse #ripple #xrp #crypto #fairshake #trump-inaugural #genius-act #ceo
+
+---
+
+## Who He Is
+
+Brad Garlinghouse. CEO of Ripple Labs since 2017. Previously held executive positions at AOL and Yahoo! before joining Ripple in 2015. Under Garlinghouse's leadership, Ripple Labs became one of the top three crypto industry political donors (alongside Coinbase and a16z) and achieved favorable regulatory outcomes including the 2025 SEC settlement that resolved Ripple's multi-year securities litigation.
+
+Garlinghouse is documented in [[Fairshake PAC]] primarily in two capacities:
+1. **Trump administration access:** Attended Trump's Mar-a-Lago pre-inauguration meetings in late 2024 / early 2025.
+2. **GENIUS Act drafting input:** Provided direct input on the GENIUS Act (federal stablecoin legislation) alongside other Fairshake donor representatives. The legislation was signed into law July 18, 2025.
+
+---
+
+## The Central Thesis
+
+*Stub — needs full development.*
+
+Garlinghouse is the operational lead of the vault's clearest legislative transaction: Ripple contributed $49M to Fairshake in 2024 → Ripple got direct input on the GENIUS Act stablecoin framework → Trump signed the legislation July 2025 → Ripple's SEC lawsuit was settled on favorable terms (reduced from $125M ordered / $2B demanded to $50M). The timeline documented in [[Fairshake PAC]]'s Legislative Victories section reads as a direct investment return: political spending → industry-drafted legislation → enforcement relief.
+
+---
+
+## Documented Political Role (from Vault)
+
+| Action | Detail | Source |
+|---|---|---|
+| Ripple corporate contributions | $49M to Fairshake in 2024, additional $25M for 2026 | FEC filings |
+| Trump inaugural fund | Ripple gave $4.9M (second-largest crypto donor) | Politico |
+| Mar-a-Lago meetings | Attended pre-inauguration meetings with Trump | Fairshake PAC vault entry |
+| GENIUS Act input | Direct drafting input per Fairshake PAC analysis | Fairshake PAC vault entry |
+| SEC settlement | Ripple paid $50M (down from $125M/$2B), appeal dropped | Reuters |
+
+Source: [[Fairshake PAC]] vault entry.
+
+---
+
+## Sources
+
+### Needed
+- Personal FEC contribution records (separate from Ripple corporate)
+- Ripple Labs SEC settlement documentation (March 2025, Reuters)
+- GENIUS Act Senate/House legislative history showing industry input
+- Mar-a-Lago meeting attendance documentation
+- Public statements on crypto policy and regulation
+
+---
+
+**Status:** Stub created 2026-04-09 to preserve vault connections. Full build-out requires Garlinghouse's specific operational role in the GENIUS Act drafting, the Ripple SEC settlement timeline, and his personal campaign contribution history.

@@ -9,11 +9,8 @@ issues:
   - "Voting Rights"
 related: "[[Top 10 Most Expensive House Races 2026]]"
 ---
-
 #2026-election #redistricting #house #gerrymandering #voting-rights
 tags: #analysis #story
-
-related:: Voting Rights Act Section 2 · Texas Redistricting · California Prop 50 · Missouri Redistricting · Louisiana v. Callais
 
 ---
 

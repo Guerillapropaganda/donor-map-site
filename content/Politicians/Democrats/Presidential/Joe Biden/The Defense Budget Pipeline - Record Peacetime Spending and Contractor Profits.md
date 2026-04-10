@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Joe Biden Master Profile]]
+related: "[[_Joe Biden Master Profile]] · [[Lockheed Martin]] · [[Raytheon]] · [[Northrop Grumman]] · [[Boeing]]"
 ---
-
-
 #biden #defense-budget #military-industrial-complex #class-analysis #follow-the-money #raytheon #lockheed-martin #northrop-grumman
 
-related: [[_Joe Biden Master Profile]] · [[Lockheed Martin]] · [[Raytheon]] · [[Northrop Grumman]] · [[Boeing]]
-
 donors: [[Lockheed Martin]], [[Raytheon]], [[Northrop Grumman]], [[Boeing]]
-
-content-readiness:: ready
 
 ---
 
@@ -185,6 +180,4 @@ The comparison is instructive: $370B for climate spending (legitimate) vs. $999B
 - [Northrop Grumman annual reports, 2020–2023](https://www.northropgrumman.com/who-we-are/annual-reports) (Tier 1)
 - [USA Today: Ukraine aid reaches $113 billion](https://www.usatoday.com/story/news/politics/2024/01/15/biden-administration-ukraine-aid-package/66988220/) (Tier 2)
 - [Congressional Research Service: FY2024 Defense Budget Request — Context and Selected Issues](https://www.congress.gov/crs-product/R47582) (Tier 1)
-
-content-readiness:: ready
 

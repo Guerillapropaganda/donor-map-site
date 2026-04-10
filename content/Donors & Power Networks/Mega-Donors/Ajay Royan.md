@@ -39,11 +39,9 @@ known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
 internal-notes: "[URL Check 2026-04-09] 19 checked: 18 ok, 1 broken, 0 slow. | BROKEN: Source: CourtListener / RECAP"
+related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Palantir Technologies]] · [[Founders Fund]] · [[Narya Capital]] · [[_JD Vance Master Profile|JD Vance]] · [[David Sacks]] · [[BlackSky]] · [[Marc Andreessen]]"
 ---
-
 #ajay-royan #mithril-capital #thiel #tech #venture-capital #defense-tech #biotech #republican #donor #paypal-mafia-adjacent #oak-ridge #hoover-institution
-
-related: [[Peter Thiel]] [[Mithril Capital]] [[Palantir Technologies]] [[Founders Fund]] [[Narya Capital]] [[_JD Vance Master Profile|JD Vance]] [[David Sacks]] [[BlackSky]] [[Marc Andreessen]]
 
 ---
 
@@ -179,9 +177,6 @@ His structural function is threefold:
 - [Adimab: Board of Directors](https://adimab.com/board-of-directors/) (Tier 3)
 
 ---
-
-research-status:: developed — Expanded from 32-line stub to full donor node. 11 Chrome-verified sources (0 broken). FEC confirms $0 in personal disclosed federal contributions. FBI/SEC investigation documented (2019, closed without charges). Vance-Mithril pipeline mapped. BlackSky 6.6% stake confirmed via SEC 13D/A. Gaps: OpenSecrets search limit reached (need to verify in future session); state-level contributions not checked; Mithril Fund III status unknown; 2023 O'Neill lawsuit outcome not confirmed.
-content-readiness:: developed
 
 ### Federal Subawards & Spending Breakdown
 

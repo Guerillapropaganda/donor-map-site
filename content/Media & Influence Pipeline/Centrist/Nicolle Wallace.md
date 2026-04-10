@@ -12,7 +12,6 @@ related: "[[Fox Corp - Rupert Murdoch]] · [[The Revolving Door (Media) — Gove
 
 #media-pipeline #centrist #msnbc #ms-now #republican-apostate #revolving-door #bush-administration #mccain-campaign
 
-
 ---
 
 ### Who They Are
@@ -130,4 +129,3 @@ Wallace embodies the Revolving Door (Media) pattern in its purest form — gover
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Nicolle Wallace shows zero federal political contributions across both "NICOLLE" and "NICOLE" name variations. A former White House Communications Director and presidential campaign senior advisor with $0 in personal political giving across her entire career — influence flows through institutional access, never personal donations.
 
-content-readiness:: ready

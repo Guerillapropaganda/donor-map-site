@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Samuel Alito Master Profile]]
+related: "[[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[Paul Singer]]"
 ---
-
-
 #samuel-alito #paul-singer #alaska #argentina #nml-capital #leonard-leo #robin-arkley #class-analysis #follow-the-money
 
-related: [[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[Paul Singer]]
-
 donors: [[Paul Singer]], [[Leonard Leo]]
-
-content-readiness:: ready
 
 ---
 

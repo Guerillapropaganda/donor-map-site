@@ -29,12 +29,9 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
+related: "[[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[CCPOA - California Correctional Peace Officers Association]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]]"
 ---
-
-
 #bianco #master-profile #riverside #sheriff #republican #class-analysis #follow-the-money #authoritarian-right #oath-keepers #constitutional-sheriff #police-union #2026-governor
-
-related: [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[CCPOA - California Correctional Peace Officers Association]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]]
 
 donors: [[PORAC - Peace Officers Research Association of California]], [[CCPOA - California Correctional Peace Officers Association]]
 

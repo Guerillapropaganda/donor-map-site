@@ -19,12 +19,10 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securities & Investment Industry]] · [[_Nancy Pelosi Master Profile]]"
 ---
-
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat
 tags: #democrat
-
-related: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · Levi Strauss Fortune · [[Securities & Investment Industry]] · New York Democratic Establishment · [[_Nancy Pelosi Master Profile]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securities & Investment Industry]] · Pro-Israel Donors
 

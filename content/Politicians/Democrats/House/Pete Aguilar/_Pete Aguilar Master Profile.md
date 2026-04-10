@@ -15,11 +15,9 @@ committees:
 total-received: "$3,026,029"
 fec-candidate-id: "H2CA31125"
 donors: "[[AFSCME - American Federation of State County and Municipal Employees]] · [[Blue Shield of California]]"
+related: "[[_Hakeem Jeffries Master Profile|Jeffries]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Suzan DelBene Master Profile|DelBene]]"
 ---
-
 #aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc
-
-related: [[_Hakeem Jeffries Master Profile|Jeffries]] [[_Nancy Pelosi Master Profile|Pelosi]] [[_Suzan DelBene Master Profile|DelBene]]
 
 ---
 
@@ -147,9 +145,6 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 - [CalMatters: Inland Empire warehouse environmental impact](https://calmatters.org/commentary/2023/01/inland-empire-california-warehouse-development/) (Tier 2)
 - [CalMatters: Class divide in warehouse boom](https://calmatters.org/commentary/2023/02/inland-empire-warehouse-class-divide/) (Tier 2)
 - [Rep. Torres: Warehouse Worker Protection Letter](https://torres.house.gov/media-center/press-releases/reps-torres-delauro-price-aguilar-sherrill-ask-administration-additional) (Tier 1)
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

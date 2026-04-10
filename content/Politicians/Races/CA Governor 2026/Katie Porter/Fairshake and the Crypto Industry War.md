@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Katie Porter Master Profile]]
-related: "[[The Whiteboard Brand and the Corporate Accountability Record]]"
+related: "[[The Whiteboard Brand and the Corporate Accountability Record]] · [[_Katie Porter Master Profile]] · [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
 ---
-
-
 #fairshake #crypto #katie-porter #a16z #coinbase #ripple #super-pac #class-analysis #follow-the-money
 
-related: [[_Katie Porter Master Profile]] · [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]
 donors: [[Marc Andreessen & Horowitz]] · [[Crypto Industry Bloc]]
-
-content-readiness:: ready
 
 ---
 

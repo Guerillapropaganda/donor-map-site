@@ -47,12 +47,9 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 13G/A"
-related: "[[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]]"
+related: "[[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[_Joe Biden Master Profile|Joe Biden]] · [[Goldman Sachs]]"
 ---
-
 #mbna #credit-card #delaware #biden #bankruptcy #wall-street #banking
-
-related: [[_Joe Biden Master Profile|Joe Biden]] Wall Street [[Goldman Sachs]]
 
 ---
 
@@ -78,8 +75,6 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 - [FEC Candidate: Joe Biden career donors - MBNA](https://www.fec.gov/data/candidate/P60012143/) (Tier 1)
 - [Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256) (Tier 1)
 - [Ballotpedia: 2005 Bankruptcy Act](https://ballotpedia.org/MBNA_Corporation) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2020)
 <!-- auto:propublica-990 start -->

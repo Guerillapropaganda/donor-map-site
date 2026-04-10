@@ -30,16 +30,11 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
   - "USAO - New Jersey"
+related: "[[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
-
 #bryan-steil #republican #wisconsin #house #committee-chair #house-administration #election-law #voter-id #wall-street #paul-ryan #campaign-finance #fec #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch|Koch Network]]
-
 donors: [[Koch Network - Charles Koch|Koch Network]]
-
-profile-status:: ready
 
 ---
 ---
@@ -161,8 +156,6 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 - [Urban Milwaukee: Meet Paul Ryan's rookie replacement](https://urbanmilwaukee.com/2019/07/18/meet-paul-ryans-rookie-replacement/) (Tier 2)
 - [Ballotpedia: Bryan Steil](https://ballotpedia.org/Bryan_Steil) (Tier 3)
 - [Wikipedia: Bryan Steil](https://en.wikipedia.org/wiki/Bryan_Steil) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

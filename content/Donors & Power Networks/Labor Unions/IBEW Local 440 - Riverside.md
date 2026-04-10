@@ -9,7 +9,7 @@ sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
-related: "[[UFCW - United Food and Commercial Workers]]"
+related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -24,11 +24,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
-
 #donor #union #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #local-440 #building-trades #labor #class-analysis #follow-the-money #inland-empire #riverside #prevailing-wage
-
-related: [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]]
 
 ---
 
@@ -98,9 +94,6 @@ The IBEW national PAC ($13.45M raised in 2024 cycle) places Local 440 within a l
 - [FEC: International Brotherhood of Electrical Workers PAC (C00027342)](https://www.fec.gov/data/committee/C00027342/) (Tier 1)
 - [DOL OLMS: IBEW Local 440 LM-2 Filing](https://olmsapps.dol.gov/query/orgReport.do?rptForm=LM2Form&rptId=783264) (Tier 1)
 - [ZoomInfo: IBEW Local 440 company overview](https://www.zoominfo.com/c/ibew-local-440/118867136) (Tier 3)
-
-research-status:: ready — Promoted Session 39. — Expanded with PAC data ($183K contributions, $420K cash on hand), national IBEW PAC ($13.45M raised 2024 cycle), class analysis, RSA comparison. 7 sources, Tier 1-4. Needs specific recipient data from FPPC filings and endorsement list documentation before ready promotion.
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

@@ -8,12 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[AI Safety and Regulatory Capture]]"
 ---
-
 #story #investigation #donor-pipeline #ai-deregulation
 tags: #investigation
-
-related: _Andreessen Horowitz Master Profile _OpenAI Master Profile [[AI Safety and Regulatory Capture]] Silicon Valley Oligarchy and Political Control
 
 donors: [[Marc Andreessen & Horowitz|Andreessen Horowitz]] [[OpenAI]] Sam Altman [[Marc Andreessen & Horowitz|Marc Andreessen]] Sam Bankman-Fried Backup Fund
 
@@ -79,4 +77,3 @@ The class dynamic: tech oligarchs use venture capital wealth to purchase politic
 ---
 #analysis
 
-content-readiness:: ready

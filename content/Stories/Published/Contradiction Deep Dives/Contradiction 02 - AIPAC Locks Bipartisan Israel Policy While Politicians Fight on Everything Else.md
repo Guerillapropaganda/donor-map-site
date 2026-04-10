@@ -7,13 +7,10 @@ source-tier: 1
 parent: null
 issues:
   - "Israel & Foreign Policy"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Cory Booker Master Profile|Cory Booker]] · [[Ritchie Torres]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[United Democracy Project - UDP|United Democracy Project]]"
 ---
-
 #investigation #contradiction #aipac #israel #both-sides #bipartisan #primary-weapon #class-analysis
 tags: #analysis #story
-
-related: [[_Chuck Schumer Master Profile|Chuck Schumer]] [[_Ted Cruz Master Profile|Ted Cruz]] [[_Lindsey Graham Master Profile|Lindsey Graham]] [[_Cory Booker Master Profile|Cory Booker]] [[Ritchie Torres]] [[_Jamaal Bowman Master Profile|Jamaal Bowman]] Cori Bush [[United Democracy Project - UDP|United Democracy Project]] AIPAC Donor Map
 
 donors: AIPAC | United Democracy Project | Pro-Israel PACs
 
@@ -246,5 +243,3 @@ The Democratic base disagrees with Israel policy at significantly higher rates t
 
 ---
 
-research-status:: ready — Full citation pass complete. AIPAC $95.1M 2024 cycle, UDP $14.5M vs Bowman, $9M vs Bush, Schumer $1.72M career, Cruz $1.87M, Torres $1.53M, Iron Dome 420-9, Anti-BDS 398-17, weapons transfer 70-27, bipartisan primary weapon model, progressive capture. 45 sources Tier 1-3 with URLs. All ### headers. Promoted Session 39.
-content-readiness:: ready

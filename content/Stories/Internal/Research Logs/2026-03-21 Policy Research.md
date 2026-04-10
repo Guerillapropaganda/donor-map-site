@@ -128,4 +128,3 @@ tags: #analysis #story
 2. **"NLRB — The Labor Board Under Siege"** — Sub-note or donor note covering DOGE-era NLRB staff cuts, the Sixth Circuit Cemex ruling, and the combined effect on union organizing capacity. Connects to labor notes across Newsom, Trump, and Donor sections.
 3. **"One Big Beautiful Bill — The Medicaid-for-Tax-Cuts Trade"** — The $911B Medicaid + $536B Medicare cuts deserve dedicated documentation beyond the TCJA note. Donor connection: healthcare industry donors who benefit from Medicaid privatization/contraction.
 4. **"The ICE Consolidation — [[GEO Group|GEO Group]]'s Structural Risk"** — The shift from 200+ private facilities to 34 government-owned warehouses is a major development in the detention economy narrative. If implemented, it disrupts the donor-to-detention pipeline in ways worth tracking separately.
-content-readiness:: ready

@@ -45,7 +45,7 @@ lei-jurisdiction: "US"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
-related: "[[InfluenceMap]]"
+related: "[[InfluenceMap]] · [[Enterprise Products Partners]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Joe Manchin]]"
 doj-press-mentions: "264349"
 doj-components:
   - "Civil Rights Division"
@@ -88,10 +88,7 @@ court-jurisdictions:
   - "District Court, M.D. Pennsylvania"
   - "District Court, N.D. Ohio"
 ---
-
 #donor #energy #natural-gas #pipeline #fossil-fuel #republican-lean #class-analysis #follow-the-money
-
-related: [[Enterprise Products Partners]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Joe Manchin]]
 
 ---
 
@@ -147,7 +144,6 @@ Williams wants to maintain and expand natural gas pipeline infrastructure, posit
 Williams Companies represents the "moderate face" of fossil fuel political spending — more bipartisan than Enterprise Products at the state level, positioned around the "transition fuel" narrative rather than outright climate denial. But the structural function is identical: lock in fossil fuel infrastructure for decades, ensure regulatory environments that protect pipeline investments, and capture the political class in pipeline-dependent states (Oklahoma, Louisiana, Virginia). The $7.3B Power Innovation investment is the tell — it's designed to make natural gas indispensable to the power grid, creating a structural dependency that outlasts any individual election cycle.
 
 ---
-
 
 ### Sources
 

@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Mike Johnson Master Profile]]
+related: "[[_Mike Johnson Master Profile]] · [[Leonard Leo]]"
 ---
-
-
 #mike-johnson #adf #election-denial #january-6 #lgbtq #council-national-policy #class-analysis
 
-related: [[_Mike Johnson Master Profile]] [[Leonard Leo]]
-
 donors: [[Leonard Leo]]
-
-content-readiness:: ready
 
 ---
 

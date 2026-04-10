@@ -109,4 +109,3 @@ This is predatory lending targeting the poor. The regulatory capture ensures it 
 - [CFPB Public Database: Payday Lending Enforcement Actions](https://www.consumerfinance.gov/data/) (Tier 1)
 - [Consumer Finance Protection Bureau: Payday Lending Report 2024](https://www.consumerfinance.gov/data-research/) (Tier 1)
 
-content-readiness:: ready

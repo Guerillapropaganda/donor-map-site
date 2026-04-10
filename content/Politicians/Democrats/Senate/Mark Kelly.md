@@ -21,17 +21,14 @@ doj-components:
   - 'USAO - Missouri, Western'
   - 'USAO - New York, Northern'
 donors: '[[Ken Griffin]]'
-related: '[[Lockheed Martin Buys Defense Hawks in Both Parties]]'
+related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]]"
 opposes: >-
   [[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH
   ACTION]] · [[THE SENTINEL ACTION FUND]]
 ---
-
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
 
 tags: #democrat
-
-related: [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · _Gabby Giffords · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]]
 
 donors: [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]]
 
@@ -88,9 +85,6 @@ Kelly's public identity: Gun control advocate married to a shooting survivor, Gi
 - [The Intercept: Exxon, Big Pharma, Wall Street lobbyists host Kelly fundraiser](https://theintercept.com/2019/03/12/mark-kelly-senate-lobbying-fundraiser/) (Tier 2)
 - [Breaking Defense: Mark Kelly, Ranking Member Armed Services Subcommittee](https://breakingdefense.com/2025/09/whos-who-in-defense-mark-kelly-ranking-member-senate-armed-services-sasc-subcommittee-of-airland/) (Tier 2)
 - [Senate Armed Services Committee membership](https://www.armed-services.senate.gov/about/membership) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

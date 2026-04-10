@@ -24,16 +24,13 @@ regulatory-agencies:
   - "Ocean Energy Management Bureau"
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
-related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]]"
+related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]] · [[Climate Philanthropy - The Green Billionaires]] · [[Democratic Donor Network]] · [[Environmental Law & Policy Center]] · [[New Venture Fund]] · [[Arabella Advisors]]"
 ein: 237245152
 annual-revenue: "$48.6M"
 net-assets: "$96.1M"
 tax-year: "2023"
 ---
-
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing
-
-related: [[Climate Philanthropy - The Green Billionaires]] [[Democratic Donor Network]] [[Environmental Law & Policy Center]] [[New Venture Fund]] [[Arabella Advisors]]
 
 ---
 
@@ -202,8 +199,6 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 - [IPEN: Open letter to Ocean Conservancy regarding "Stemming the Tide" — signed by 200+ organizations](https://ipen.org/news/open-letter-ocean-conservancy-regarding-report-%E2%80%9Cstemming-tide%E2%80%9D) (Tier 3)
 - [InfluenceWatch: Ocean Conservancy profile](https://www.influencewatch.org/non-profit/ocean-conservancy/) (Tier 3)
 - [Packard Foundation: Ocean Conservancy grantee](https://www.packard.org/grantee/ocean-conservancy/) (Tier 2)
-
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

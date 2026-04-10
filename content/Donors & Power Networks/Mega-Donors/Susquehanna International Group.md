@@ -16,7 +16,7 @@ federal-register-mentions: 179
 last-enriched: "2026-04-06"
 regulatory-agencies:
   - "Securities and Exchange Commission"
-related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
+related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Club for Growth]] · [[Fairshake PAC - Crypto Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 lei: "549300UHLZVQ1CWNT812"
 lei-jurisdiction: "US-DE"
 sec-filings: 2228
@@ -45,10 +45,7 @@ fara-records: 2
 fara-countries:
   - "DOMINICAN REPUBLIC"
 ---
-
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money
-
-related: [[Club for Growth]] · [[Fairshake PAC - Crypto Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ---
 
@@ -181,8 +178,6 @@ The analytical patterns:
 
 ---
 
-research-status:: ready — Full expansion from 39 to 175+ lines. FEC data Chrome-verified (774 contributions, virtually 100% Republican). Wikipedia Chrome-verified (political activities, TikTok, school choice, tax avoidance). Ballotpedia URL removed (404 — page does not exist). Complete donor node anatomy: Who They Are → What They Want → Who They Fund (contributions table) → What They've Gotten (Format 2 timeline, 8 rows) → TikTok Connection → Class Analysis → Capture Architecture → Sources. 5 sources (Tier 1–3). Key data: $100M 2024 cycle, $16M MAGA Inc., $10M Club for Growth Action, 774 FEC contributions, $30–50B ByteDance stake, Trump TikTok reversal, $1B tax avoidance (ProPublica).
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

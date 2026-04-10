@@ -9,12 +9,10 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Katie Porter Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Kamala Harris Master Profile]]"
 ---
-
-
 #katie-porter #elizabeth-warren #consumer-protection #mortgage-settlement #financial-services #class-analysis
 
-related: [[_Katie Porter Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Kamala Harris Master Profile]]
 donors: (ActBlue small-dollar network)
 
 content-readiness:: ready

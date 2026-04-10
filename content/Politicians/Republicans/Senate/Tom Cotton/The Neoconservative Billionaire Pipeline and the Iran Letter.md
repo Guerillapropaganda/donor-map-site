@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Tom Cotton Master Profile]]
+related: "[[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 ---
-
-
 #tom-cotton #bill-kristol #paul-singer #aipac #iran #neoconservative #emergency-committee-israel #class-analysis
 
-related: [[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]
-
 donors: [[Paul Singer]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]]
-
-content-readiness:: ready
 
 ---
 

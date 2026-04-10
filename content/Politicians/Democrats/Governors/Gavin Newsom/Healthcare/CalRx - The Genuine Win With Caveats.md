@@ -5,13 +5,10 @@ content-readiness: raw
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Mental Health CARE Court and Forced Treatment]]"
+related: "[[Mental Health CARE Court and Forced Treatment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #healthcare #calrx #prescription-drugs #insulin #generic-drugs #rhetoric-vs-record #genuine-win
 
-related: [[Single-Payer Broken Promise]] | [[Prescription Drug Pricing - PBM Veto Cycle]] | [[_Gavin Newsom Master Profile]]
 donors: [[PhRMA]] · (Anti-generic drug industry interests)
 
 ---

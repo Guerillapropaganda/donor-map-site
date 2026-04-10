@@ -57,11 +57,9 @@ corroboration-count: 3
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Federalist Society]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[League of Conservation Voters]]"
 ---
-
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel
-
-related: [[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Federalist Society]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[League of Conservation Voters]]
 
 donors: [[Trial Lawyers Fund]] · [[Environmental Law & Policy Center]] · [[Ocean Conservancy]] · [[Demand Justice]] · [[Brady Campaign]] · [[League of Conservation Voters]] · [[AIPAC - American Israel Public Affairs Committee]]
 
@@ -228,9 +226,6 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 - [Ballotpedia: Sheldon Whitehouse](https://ballotpedia.org/Sheldon_Whitehouse) (Tier 3)
 
 ---
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

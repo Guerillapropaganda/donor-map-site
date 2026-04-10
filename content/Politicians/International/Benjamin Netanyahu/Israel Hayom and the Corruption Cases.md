@@ -7,11 +7,9 @@ source-tier: 2
 parent: [[_Benjamin Netanyahu Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Benjamin Netanyahu Master Profile]] · [[Miriam Adelson]] · [[The American Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
 #corruption #israel #media #oligarchy #trials #class-analysis #bribery #fraud #international
-
-related: [[_Benjamin Netanyahu Master Profile]] · [[Miriam Adelson]] · [[The American Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors: [[Miriam Adelson]]
 

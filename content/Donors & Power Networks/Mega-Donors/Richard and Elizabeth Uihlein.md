@@ -26,13 +26,9 @@ doj-components:
   - "USAO - New York, Northern"
   - "USAO - Ohio, Northern"
   - "USAO - Ohio, Southern"
-related: "[[Charlie Kirk]]"
+related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donor #uihlein #uline #shipping #far-right #class-analysis #follow-the-money #trump #election-denial #january-6 #anti-union #school-choice #abortion
-
-related: [[_Donald Trump Master Profile]]
 
 ---
 
@@ -126,9 +122,6 @@ The anti-immigration politics and the labor exploitation are not contradictory �
 - [Ballotpedia: Richard Uihlein](https://ballotpedia.org/Richard_Uihlein) (Tier 2)
 
 ---
-
-content-readiness:: ready
-research-status:: ready — 2024 cycle $133.8M verified, $72M documented, No. 3 national donor confirmed, PAC funding breakdown documented (Club for Growth $69.25M, Restoration PAC $65.95M, Women Speak Out 80% funding), Tea Party Patriots January 6 connection documented, labor exploitation allegations noted. 8 sources, Tier 1-2. All ### headers. Promoted Session 38l.
 
 ### Federal Subawards & Spending Breakdown
 

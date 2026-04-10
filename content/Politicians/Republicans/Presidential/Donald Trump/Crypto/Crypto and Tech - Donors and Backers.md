@@ -9,12 +9,10 @@ source-types:
   - SEC
 known-gaps:
   - "No mapped relationships"
+related: "[[Trump Crypto - The President as Personal Profiteer]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #donald-trump #crypto #tech #donors #backers #fairshake #coinbase #ripple #musk #thiel #sacks #wlfi #meme-coin #sec #follow-the-money #research-node
 
-related: [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile]] · [[_Donald Trump Master Profile]]
 donors: [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Coinbase]] · [[Ripple]]
 
 ---

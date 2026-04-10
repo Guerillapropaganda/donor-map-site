@@ -26,12 +26,9 @@ regulatory-agencies:
   - "Internal Revenue Service"
   - "Securities and Exchange Commission"
   - "Treasury Department"
-related: "[[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Crypto vs. Institutional Democrats in Illinois]]"
+related: "[[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Winklevoss Twins]] · [[David Sacks]] · [[Coinbase]] · [[Marc Andreessen & Horowitz|Andreessen Horowitz]]"
 ---
-
 #crypto #cryptocurrency #bitcoin #blockchain #deregulation #fairshake #sec #class-analysis #follow-the-money
-
-related: [[Crypto Industry Bloc]] [[Fairshake PAC]] [[Winklevoss Twins]] [[David Sacks]] [[Coinbase]] [[Marc Andreessen & Horowitz|Andreessen Horowitz]]
 
 ---
 
@@ -171,8 +168,6 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 - [CNBC: Fairshake has $116M on hand for 2026 — Coinbase, Ripple, a16z contributions](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
 - [CNBC: Fairshake touts $193M war chest as GENIUS Act faces first vote](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2)
 - [Ballotpedia: Cryptocurrency regulation](https://ballotpedia.org/Cryptocurrency_Industry) (Tier 3)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

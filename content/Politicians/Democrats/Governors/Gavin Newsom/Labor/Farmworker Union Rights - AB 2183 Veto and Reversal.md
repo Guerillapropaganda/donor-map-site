@@ -5,13 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Prop 22 - The $200M Corporate Rollback]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #labor #farmworkers #ab2183 #ufw #union-elections #veto-reversal #flip-history #agricultural-workers #mail-ballot
 
-related: [[AB5 - Gig Worker Classification]] | [[Labor - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: United Farm Workers - UFW
 
 ---

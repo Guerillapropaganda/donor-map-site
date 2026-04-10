@@ -27,13 +27,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[Howard Lutnick Master Profile]] · [[The Transition Pipeline and the 21 Million Dollar Buy-In]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[Mike Collins Master Profile]] · [[Media and Propaganda - Donors and Backers]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[Labor - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Vivek Ramaswamy Master Profile]] · [[The 32-Day DOGE Tenure and the Musk Divorce]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Gavin Newsom Master Profile]]"
+related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[Howard Lutnick Master Profile]] · [[The Transition Pipeline and the 21 Million Dollar Buy-In]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[Mike Collins Master Profile]] · [[Media and Propaganda - Donors and Backers]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[Labor - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Vivek Ramaswamy Master Profile]] · [[The 32-Day DOGE Tenure and the Musk Divorce]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[Peter Thiel]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto Industry Bloc]]"
 ---
-
-
 #donor #musk #oligarch #tech #class-analysis #follow-the-money #DOGE #tesla #spacex #twitter #xai #labor-busting #federal-contracts #america-pac #foreign-interference #afd
-
-related: [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[Peter Thiel]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto Industry Bloc]]
 
 ---
 
@@ -407,8 +403,6 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 - [Bloomberg: Appeals court blocks Musk deposition in DOGE fight](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight) (Tier 2)
 - [Government Executive: Inside DOGE's early days of chaos](https://www.govexec.com/management/2026/03/inside-doges-early-days-pressure-campaigns-rule-breaking-and-chaos/412193/) (Tier 2)
 
-research-status:: ready — fully documented: political spending ($340M+), federal contracts ($38B+), DOGE aftermath, SpaceX-xAI merger ($1.25T), labor record, Trump relationship arc, foreign election interference, legal exposure, March 2026 updates (DOGE deposition blocked, Terafab, TSA offer, xAI rebuild, appeals court shield). All major claims inline-cited with Tier 1-2 sources. Updated Session 38-auto (March 24, 2026).
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

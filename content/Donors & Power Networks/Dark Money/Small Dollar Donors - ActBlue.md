@@ -12,12 +12,9 @@ politicians-funded:
   - "Alexandria Ocasio-Cortez"
 issues:
   - "Infrastructure"
-related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]]"
+related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]] · [[ActBlue]] · [[Democratic Small Dollar Networks]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Democratic Party Infrastructure]] · [[WinRed]]"
 ---
-
 #actblue #small-dollar #democratic #grassroots #online #platform #conduit #infrastructure #winred
-
-related: [[ActBlue]] [[Democratic Small Dollar Networks]] [[_Bernie Sanders Master Profile|Sanders]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[Democratic Party Infrastructure]] [[WinRed]]
 
 ---
 
@@ -115,4 +112,3 @@ ActBlue's $3.82 billion in 2024 cycle processing demonstrates that small-dollar 
 - [Ballotpedia: ActBlue — platform history, structure, and fundraising totals](https://ballotpedia.org/ActBlue) (Tier 3)
 - [Ballotpedia: Small Dollar Donors - ActBlue](https://ballotpedia.org/Small_Dollar_Donors_-_ActBlue) (Tier 3)
 
-content-readiness:: developed

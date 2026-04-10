@@ -25,11 +25,10 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[Tim Dunn]] · [[Koch Network - Charles Koch]] · [[Ben Shapiro]] · [[Peter Thiel]] · [[Rupert Murdoch]] · [[How Money Captures Media - The Donor Map Media Pipeline]]"
 ---
-
 #donor #mega-donor #energy #fracking #christian-nationalism #daily-wire #prageru #texas #media-infrastructure #class-analysis
 
-related: [[Tim Dunn]] · [[Koch Network - Charles Koch]] · [[Ben Shapiro]] · [[Peter Thiel]] · [[Rupert Murdoch]] · [[How Money Captures Media - The Donor Map Media Pipeline]]
 media-connections: [[Ben Shapiro]] · [[Matt Walsh]] · [[Candace Owens]] · [[Steven Crowder]] · [[Jordan Peterson]] · [[Charlie Kirk]]
 
 ---

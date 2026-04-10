@@ -24,16 +24,13 @@ court-jurisdictions:
   - "District Court, N.D. Florida"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Senate Leadership Fund]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Nebraska 2026 Senate Race]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]]"
+related: "[[Senate Leadership Fund]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Nebraska 2026 Senate Race]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Majority Forward]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
 sec-filings: 4
 sec-form-types:
   - "10-K"
   - "144"
 ---
-
 #donor-node #super-pac #democratic #senate #schumer #dark-money #leadership-pac #donor
-
-related: [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Majority Forward]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -156,10 +153,6 @@ This is class analysis applied to Democratic power: SMP exists to serve the dono
 - [ProPublica: Dark Money Networks 2024](https://www.propublica.org/article/in-montana-dark-money-helped-democrats-hold-a-key-senate-seat) (Tier 2)
 
 ---
-
-content-readiness:: ready
-
-research-status:: ready
 
 ---
 

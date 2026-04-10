@@ -11,12 +11,9 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Defense & Military"
-related: "[[Pete Hegseth Master Profile]] · [[Veterans and Military - Donors and Backers]] · [[Tammy Duckworth]]"
+related: "[[Pete Hegseth Master Profile]] · [[Veterans and Military - Donors and Backers]] · [[Tammy Duckworth]] · [[Defense Contractors]] · [[Defense Industry Bloc]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[Booz Allen Hamilton]] · [[Leidos]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril]] · [[Palantir]]"
 ---
-
 #defense #contractors #bloc #military-industrial #bipartisan #ndaa #revolving-door #lobbying #pentagon #procurement
-
-related: [[Defense Contractors]] [[Defense Industry Bloc]] [[L3Harris Technologies]] [[Boeing Defense]] [[Booz Allen Hamilton]] [[Leidos]] [[BAE Systems]] [[_Donald Trump Master Profile|Trump]] [[Anduril]] [[Palantir]]
 
 ---
 
@@ -164,4 +161,3 @@ The Both-Sides Illusion operates at sector scale. Lockheed Martin gave $2.47M to
 - [Jacobin: The Publicly Funded Defense Contractor Revolving Door](https://jacobin.com/2024/04/pentagon-fellows-program-sdef-defense-contractors) (Tier 2)
 - [Sen. Elizabeth Warren: At Hearing, Warren Blasts Revolving Door Between DoD and Defense Contractors](https://www.warren.senate.gov/newsroom/press-releases/icymi-at-hearing-warren-blasts-revolving-door-between-dod-and-giant-defense-contractors-calls-for-sweeping-ethics-legislation) (Tier 1)
 
-content-readiness:: developed

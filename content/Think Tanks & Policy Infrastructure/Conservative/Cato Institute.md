@@ -34,7 +34,6 @@ related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsT
 
 #think-tank #conservative #libertarian #deregulation #climate-denial #social-security #financial-regulation #dark-money #koch
 
-
 ---
 
 ### Who They Are
@@ -393,8 +392,6 @@ The revolving door completes the circuit: research produced → personnel traine
 - [Regulatory Transparency Project: Michael Cannon podcast interview](https://rtp.fedsoc.org/podcast/deep-dive-ep-133/) (Tier 3)
 
 ---
-
-content-readiness:: developed
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

@@ -19,19 +19,14 @@ top-donors:
 govtrack-id: 400351
 bills-sponsored: 0
 bills-cosponsored: 0
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boehner]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boehner]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Fox News - Murdoch Media Empire|Fox News]] · [[Rupert Murdoch]] · [[_Mitt Romney Master Profile|Mitt Romney]] · [[Donald Trump]]"
 donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]]"
 total-received: "$483,642,897"
 fec-candidate-id: "H8WI01024"
 ---
-
 #paul-ryan #speaker-of-house #tax-cuts-jobs-act #deficit-hawk #koch-network #fox-corporation #finance #class-analysis
 
-related: [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Fox News - Murdoch Media Empire|Fox News]] · [[Rupert Murdoch]] · [[_Mitt Romney Master Profile|Mitt Romney]] · [[Donald Trump]]
-
 donors: [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Northwestern Mutual]] · [[Fox News - Murdoch Media Empire|Fox News]]
-
-profile-status:: ready
 
 ---
 
@@ -136,9 +131,6 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 - [Wikipedia: Tax Cuts and Jobs Act - Paul Ryan role](https://en.wikipedia.org/wiki/Tax_Cuts_and_Jobs_Act_of_2017) (Tier 3)
 - [Congress.gov: Paul Ryan voting record](https://www.congress.gov/member/paul-ryan/R000570) (Tier 1)
 - [CNN: Former House Speaker Paul Ryan joins board of Fox Corporation (Mar 2019)](https://www.cnn.com/2019/03/19/media/paul-ryan-fox-corporation/index.html) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

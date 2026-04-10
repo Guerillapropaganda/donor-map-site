@@ -10,12 +10,10 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Chad Bianco Master Profile]] · [[COVID Mandate Refusal - The Brand-Building Moment]] · [[287(g) and the Sanctuary State Contradiction]] · [[Oath Keepers Membership and the Constitutional Sheriff Movement]]"
 ---
-
-
 #bianco #governor #2026 #california #republican #class-analysis #culture-war #trump #campaign #follow-the-money #gubernatorial
 
-related: [[_Chad Bianco Master Profile]] | [[COVID Mandate Refusal - The Brand-Building Moment]] | [[287(g) and the Sanctuary State Contradiction]] | [[Oath Keepers Membership and the Constitutional Sheriff Movement]]
 donors: [[Riverside Sheriffs Association|Riverside Sheriffs' Association]]
 
 ---

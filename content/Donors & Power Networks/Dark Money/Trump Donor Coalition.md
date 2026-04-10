@@ -11,17 +11,14 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]]"
+related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]] · [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
 lobbying-spend: 40000
 lobbying-filings: 4
 ein: "363550786"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 ---
-
 #donor-node #trump #donor-coalition #mega-donor #maga #realignment #small-dollar #patron-client #dark-money #class-analysis #follow-the-money
-
-related: [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -162,8 +159,6 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 - [Public Citizen: Corporations and billionaires funnel millions into Trump inauguration](https://www.citizen.org/article/corporations-and-billionaires-funnel-millions-into-trump-inauguration-committee/) (Tier 2)
 - [Rolling Stone: Trump's inauguration donors — Big Oil, Big Pharma, Big Tech, Crypto](https://www.rollingstone.com/politics/politics-features/trump-inauguration-donors-big-oil-big-pharma-big-tech-crypto-1235252214/) (Tier 2)
 - [Read Sludge: Elon Musk spent over a quarter billion to elect Trump](https://readsludge.com/2024/12/06/elon-musk-spent-over-a-quarter-billion-to-elect-trump/) (Tier 2)
-
-content-readiness:: developed
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

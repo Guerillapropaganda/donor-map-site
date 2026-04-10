@@ -21,7 +21,7 @@ subawards-issued: 1
 subawards-issued-amount: 19500000
 subawards-received: 1
 subawards-received-amount: 19500000
-related: "[[AI Deregulation Super PAC - Leading the Future]] · [[Crypto vs. Institutional Democrats in Illinois]]"
+related: "[[AI Deregulation Super PAC - Leading the Future]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Microsoft]] · [[Nvidia]] · [[Anthropic]] · [[Google - Alphabet]]"
 lei: "9845004F11A8N695DD79"
 lei-jurisdiction: "IE"
 sec-filings: 2332
@@ -45,10 +45,7 @@ sec-form-types:
   - "PX14A6G"
   - "TEXT-EXTRACT"
 ---
-
 #openai #ai #chatgpt #altman #microsoft #regulation #nonprofit-conversion
-
-related: [[Microsoft]] [[Nvidia]] [[Anthropic]] [[Google - Alphabet]]
 
 ---
 
@@ -82,8 +79,6 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 - [OpenSecrets: OpenAI lobbying](https://www.opensecrets.org/orgs/openai/summary?id=D000084252) (Tier 1)
 - [SEC: Microsoft-OpenAI investment disclosures](https://www.sec.gov/cgi-bin/browse-edgar?company=OpenAI&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: AI regulation](https://ballotpedia.org/Artificial_intelligence_policy) (Tier 3)
-
-content-readiness:: ready
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->

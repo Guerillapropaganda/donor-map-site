@@ -9,12 +9,9 @@ sector: "Dark Money"
 entity-type: "Story"
 politicians-funded:
   - "Chad Bianco"
-related: "[[Deputy Misconduct and the Whistleblower Firing]]"
+related: "[[Deputy Misconduct and the Whistleblower Firing]] · [[_Chad Bianco Master Profile|Bianco]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]]"
 ---
-
 #rsa #sheriff #single-patron #law-enforcement #local-politics #bianco
-
-related: [[_Chad Bianco Master Profile|Bianco]] Law Enforcement PACs [[CCPOA - California Correctional Peace Officers Association|CCPOA]]
 
 ---
 

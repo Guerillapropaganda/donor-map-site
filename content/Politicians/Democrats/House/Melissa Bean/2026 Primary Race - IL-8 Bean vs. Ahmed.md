@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
-related: "[[Melissa Bean's Corporate Background]]"
+related: "[[Melissa Bean's Corporate Background]] · [[_Melissa Bean Master Profile]] · [[Elect Chicago Women Shell PAC Operation]] · [[Think Big AI PAC and AI Policy Alignment]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
-
 #democrat #politician #house #illinois #2026-primary #super-pac #aipac #ai-pac #crypto-pac #outside-spending
-
-related: [[_Melissa Bean Master Profile]] · [[Elect Chicago Women Shell PAC Operation]] · [[Think Big AI PAC and AI Policy Alignment]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]]
 
@@ -87,4 +84,3 @@ The race served as the test run for an emerging tri-coalition model: pro-Israel 
 
 ---
 
-content-readiness:: developed

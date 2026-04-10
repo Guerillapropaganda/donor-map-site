@@ -5,12 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Chad Bianco Master Profile]]
+related: "[[_Chad Bianco Master Profile]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]] · [[Sanctuary State - SB 54 and What It Actually Does]]"
 ---
-
-
 #bianco #immigration #287g #sanctuary #SB54 #ICE #class-analysis #follow-the-money #latino #riverside #trump #america-first-legal
 
-related: [[_Chad Bianco Master Profile]] | [[CSPOA - The Anti-Government Sheriff Network]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]] | [[Sanctuary State - SB 54 and What It Actually Does]]
 donors: [[Riverside Sheriffs Association|Riverside Sheriffs' Association]]
 
 ---
@@ -127,4 +125,3 @@ The class analysis note: his proposed path conditions citizenship on labor for c
 - [Orange County Register — immigration stance](https://www.ocregister.com/2026/02/20/bianco-gets-piled-on-for-saying-something-reasonable-on-immigration/) (Tier 2)
 - [Census Reporter — Riverside County demographics](http://censusreporter.org/profiles/05000US06065-riverside-county-ca/) (Tier 1)
 
-content-readiness:: ready

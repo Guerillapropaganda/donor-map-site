@@ -8,12 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Angie Craig Master Profile]] · [[Labor Unions]] · [[SEIU - Service Employees International Union|SEIU]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]]"
 ---
-
 #senate-race #2026 #competitive #minnesota #open-seat #analysis
 tags: #story
-
-related: _Peggy Flanagan Master Profile [[_Angie Craig Master Profile]] Royce White [[Labor Unions]] [[SEIU - Service Employees International Union|SEIU]] [[Teamsters - International Brotherhood of Teamsters|Teamsters]]
 
 donors: Native American Tribes Small-Dollar Donors Majority Fund Labor PACs
 
@@ -100,4 +98,3 @@ Craig is outpacing Flanagan 4.7-to-1 in cash reserves despite trailing 13 points
 
 ---
 
-content-readiness:: ready

@@ -1,0 +1,546 @@
+---
+title: Readiness State Conflicts
+type: admin-note
+note-type: research
+priority: normal
+status: open
+created: '2026-04-09'
+created-by: Research Claude
+---
+
+# Readiness State Conflicts
+
+528 profiles have disagreement between inline `content-readiness::` marker and frontmatter `content-readiness:` value.
+
+These were LEFT UNTOUCHED during the 2026-04-09 cleanup pass. Each needs manual editorial review to decide which value is correct. After review, update frontmatter and delete the inline marker line.
+
+## Profiles
+
+- [ ] `content/Browse by Pattern.md`
+- [ ] `content/Donors & Power Networks Index.md`
+- [ ] `content/Donors & Power Networks/Carceral State/Aramark.md`
+- [ ] `content/Donors & Power Networks/Carceral State/Bail Bond Industry.md`
+- [ ] `content/Donors & Power Networks/Carceral State/Prison Policy Initiative.md`
+- [ ] `content/Donors & Power Networks/Carceral State/ViaPath Technologies - GTL.md`
+- [ ] `content/Donors & Power Networks/Dark Money/America First Policy Institute.md`
+- [ ] `content/Donors & Power Networks/Dark Money/America Votes.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Arabella Advisors.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Center for American Progress.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Climate Philanthropy - The Green Billionaires.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Dark Money Networks - The Shadow System.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Donors Capital Fund.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Fox News Pipeline to Power.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Freedom Partners.md`
+- [ ] `content/Donors & Power Networks/Dark Money/GEO Group - Private Prisons.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Media Matters.md`
+- [ ] `content/Donors & Power Networks/Dark Money/National Progressive Donor Networks.md`
+- [ ] `content/Donors & Power Networks/Dark Money/RSA - The Single-Patron Sheriff.md`
+- [ ] `content/Donors & Power Networks/Dark Money/Republican Party Apparatus.md`
+- [ ] `content/Donors & Power Networks/Defense & Intelligence/Anduril Industries.md`
+- [ ] `content/Donors & Power Networks/Donor Registry - Master Index.md`
+- [ ] `content/Donors & Power Networks/Education/Student Loan Servicer Industry.md`
+- [ ] `content/Donors & Power Networks/Education/Walton Family Foundation.md`
+- [ ] `content/Donors & Power Networks/Energy & Utilities/American Fuel and Petrochemical Manufacturers.md`
+- [ ] `content/Donors & Power Networks/Energy & Utilities/Enterprise Products Partners.md`
+- [ ] `content/Donors & Power Networks/Energy & Utilities/Williams Companies.md`
+- [ ] `content/Donors & Power Networks/Foreign/United Arab Emirates - Influence Operation.md`
+- [ ] `content/Donors & Power Networks/Healthcare Industry/PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts.md`
+- [ ] `content/Donors & Power Networks/Israel Lobby/American Friends of the Likud.md`
+- [ ] `content/Donors & Power Networks/Israel Lobby/J Street.md`
+- [ ] `content/Donors & Power Networks/Israel Lobby/JCRC Bay Area.md`
+- [ ] `content/Donors & Power Networks/Jeff Yass.md`
+- [ ] `content/Donors & Power Networks/Labor Unions/IBEW California State Association.md`
+- [ ] `content/Donors & Power Networks/Labor Unions/Teamsters - International Brotherhood of Teamsters.md`
+- [ ] `content/Donors & Power Networks/Law Enforcement/International Association of Chiefs of Police.md`
+- [ ] `content/Donors & Power Networks/Media & Entertainment/Sinclair Broadcasting Group.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Blackstone.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Breitbart News and the Mercer-Bannon Media Pipeline.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Cambridge Analytica and the Data Weaponization of Elections.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Charles Koch.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/David Sacks Political Operation.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Google.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Jan Koum.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Larry Ellison.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Meta.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/PhRMA - Pharmaceutical Research and Manufacturers of America.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Raytheon Technologies.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Raytheon.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Renaissance Technologies and the 7 Billion Dollar Tax Settlement.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Sam Bankman-Fried.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Tim Geithner Political Operation.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/United Auto Workers.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Wexner Family - Ohio Wealth & Political Networks.md`
+- [ ] `content/Donors & Power Networks/Mega-Donors/Wilks Brothers.md`
+- [ ] `content/Donors & Power Networks/Pharma & Healthcare/Anthem PAC.md`
+- [ ] `content/Donors & Power Networks/Pharma & Healthcare/Pfizer.md`
+- [ ] `content/Donors & Power Networks/Real Estate & Housing/National Multifamily Housing Council.md`
+- [ ] `content/Donors & Power Networks/Real Estate & Housing/National Rental Home Council.md`
+- [ ] `content/Donors & Power Networks/Restaurant & Food/McDonalds Corporation.md`
+- [ ] `content/Donors & Power Networks/Super PACs/America PAC - Elon Musk.md`
+- [ ] `content/Donors & Power Networks/Super PACs/Fairshake PAC - Crypto Super PAC.md`
+- [ ] `content/Donors & Power Networks/Super PACs/Illinois Future PAC.md`
+- [ ] `content/Donors & Power Networks/Super PACs/League of Conservation Voters.md`
+- [ ] `content/Donors & Power Networks/Super PACs/Reclaim America PAC.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/AI Regulation and Tech Donors.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/AI Safety and Regulatory Capture.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/Marc Andreessen and a16z.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/Meta - Facebook Political Operation.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/Tech IP and Patent Lobbying.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/Think Big AI PAC.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/Think Big AI.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/Valinor Enterprises.md`
+- [ ] `content/Donors & Power Networks/Tech & Crypto/a16z - Andreessen Horowitz.md`
+- [ ] `content/Donors & Power Networks/Wall Street/Blackstone Real Estate Political Operation.md`
+- [ ] `content/Donors & Power Networks/Wall Street/Charles Schwab.md`
+- [ ] `content/Donors & Power Networks/_README.md`
+- [ ] `content/Follow the Money - Guided Tour.md`
+- [ ] `content/Lobbying Firms & K Street/SKDK.md`
+- [ ] `content/Lobbying Firms & K Street/_Lobbying Firms Framework.md`
+- [ ] `content/Lobbying Firms & K Street/_Lobbying Firms Index.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/Destiny - Steven Bonnell.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/Jillian Michaels.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/Joe Rogan.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/Philip DeFranco.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/Piers Morgan.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/Russell Brand.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/The Bulwark.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/The Dispatch.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/The Free Press.md`
+- [ ] `content/Media & Influence Pipeline/Centrist/Valuetainment.md`
+- [ ] `content/Media & Influence Pipeline/Left/Aaron Maté.md`
+- [ ] `content/Media & Influence Pipeline/Left/Chris Hedges.md`
+- [ ] `content/Media & Influence Pipeline/Left/George Galloway.md`
+- [ ] `content/Media & Influence Pipeline/Left/Owen Jones.md`
+- [ ] `content/Media & Influence Pipeline/Right/Ben Shapiro.md`
+- [ ] `content/Media & Influence Pipeline/Right/Daily Wire.md`
+- [ ] `content/Media & Influence Pipeline/Right/Jordan Peterson.md`
+- [ ] `content/Media & Influence Pipeline/Right/Steven Crowder.md`
+- [ ] `content/Media & Influence Pipeline/_Media Pipeline Index.md`
+- [ ] `content/Politicians Index.md`
+- [ ] `content/Politicians/Democrats/Biden Cabinet/Pete Buttigieg/_Pete Buttigieg Master Profile.md`
+- [ ] `content/Politicians/Democrats/Former/Laphonza Butler.md`
+- [ ] `content/Politicians/Democrats/Governors/Amy Acton/_Amy Acton Master Profile.md`
+- [ ] `content/Politicians/Democrats/Governors/Andy Beshear/The Business Pragmatist Donor Coalition.md`
+- [ ] `content/Politicians/Democrats/Governors/Andy Beshear/The Political Dynasty and the Red State Model.md`
+- [ ] `content/Politicians/Democrats/Governors/Andy Beshear/_Andy Beshear Master Profile.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/San Quentin - COVID Disaster and Rehabilitation Theater.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Economic Policy/Budget Priorities - What California Actually Funds.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Economic Policy/Economic Policy - Donors and Backers.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Economic Policy/Inequality and Poverty - The Numbers Under the Rhetoric.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Education/COVID School Closures - Learning Loss and Class Division.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Education/Ethnic Studies - Whose History Gets Taught.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Environment/Fracking and Oil Permits - Green Branding vs. Record.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Environment/PG&E - The Utility Donor and the Wildfire Cover.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Housing/Supply-Side Framework - Who It Helps.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Immigration/H-2A Guest Worker Pipeline and Farmworker Vulnerability.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Immigration/Immigration - Donors and Backers.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Immigration/Trump Resistance and the 2028 Play.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Israel/Early History and Background Ties 2003-2019.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/Labor/Farmworker Union Rights - AB 2183 Veto and Reversal.md`
+- [ ] `content/Politicians/Democrats/Governors/Gavin Newsom/_Gavin Newsom Master Profile.md`
+- [ ] `content/Politicians/Democrats/Governors/Gretchen Whitmer/_Gretchen Whitmer Master Profile.md`
+- [ ] `content/Politicians/Democrats/Governors/JB Pritzker/Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture.md`
+- [ ] `content/Politicians/Democrats/Governors/JB Pritzker/The 323 Million Dollar Self-Funded Governor.md`
+- [ ] `content/Politicians/Democrats/Governors/JB Pritzker/The Hyatt Fortune and the Labor Contradiction.md`
+- [ ] `content/Politicians/Democrats/Governors/JB Pritzker/_JB Pritzker Master Profile.md`
+- [ ] `content/Politicians/Democrats/Governors/Janet Mills/_Janet Mills Master Profile.md`
+- [ ] `content/Politicians/Democrats/Governors/Josh Green/_Josh Green Master Profile.md`
+- [ ] `content/Politicians/Democrats/Governors/Josh Shapiro/School Choice and the Catholic Church Prosecution as Brand Architecture.md`
+- [ ] `content/Politicians/Democrats/Governors/Josh Shapiro/The Corporate-Democratic Donor Coalition and AIPAC Connection.md`
+- [ ] `content/Politicians/Democrats/Governors/Josh Shapiro/The Fracking Alliance and the Energy Contradiction.md`
+- [ ] `content/Politicians/Democrats/Governors/Josh Shapiro/_Josh Shapiro Master Profile.md`
+- [ ] `content/Politicians/Democrats/Governors/Kathy Hochul.md`
+- [ ] `content/Politicians/Democrats/House/Adam Smith/The Armed Services Committee and Progressive Defense Paradox.md`
+- [ ] `content/Politicians/Democrats/House/Angie Craig/The Agriculture Committee and Minnesota Suburbs.md`
+- [ ] `content/Politicians/Democrats/House/Angie Craig/_Angie Craig Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Ayanna Pressley/The Financial Services Committee and Consumer Protection.md`
+- [ ] `content/Politicians/Democrats/House/Ayanna Pressley/_Ayanna Pressley Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Bennie Thompson/The Homeland Security Committee and Mississippi Delta.md`
+- [ ] `content/Politicians/Democrats/House/Bobby Scott/The Education Committee and Labor Alignment.md`
+- [ ] `content/Politicians/Democrats/House/Brendan Boyle/The Budget Committee and Philadelphia Labor.md`
+- [ ] `content/Politicians/Democrats/House/Buffy Wicks.md`
+- [ ] `content/Politicians/Democrats/House/Dan Goldman.md`
+- [ ] `content/Politicians/Democrats/House/Daniel Biss/_Daniel Biss Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Donna Miller/_Donna Miller Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Frank Pallone/The Energy and Commerce Committee and Telecom-Pharma Jurisdiction.md`
+- [ ] `content/Politicians/Democrats/House/Gerry Connolly/The Oversight Committee and Federal Workforce.md`
+- [ ] `content/Politicians/Democrats/House/Gregory Meeks/The Foreign Affairs Committee and Wall Street-Queens Axis.md`
+- [ ] `content/Politicians/Democrats/House/Gregory Meeks/_Gregory Meeks Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Hakeem Jeffries/The Real Estate Money and Brooklyn's Gentrification Politics.md`
+- [ ] `content/Politicians/Democrats/House/Hakeem Jeffries/_Hakeem Jeffries Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Henry Cuellar/_Henry Cuellar Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Ilhan Omar/_Ilhan Omar Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Jamie Raskin/The Oversight Committee and the Anti-Corruption Brand.md`
+- [ ] `content/Politicians/Democrats/House/Jerry Nadler/_Jerry Nadler Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Jim McGovern/The Rules Committee and Food Policy.md`
+- [ ] `content/Politicians/Democrats/House/Joseph Morelle/The House Administration Committee and Election Infrastructure.md`
+- [ ] `content/Politicians/Democrats/House/Joseph Morelle/_Joseph Morelle Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Mark Takano/The Veterans Affairs Committee and Inland Empire.md`
+- [ ] `content/Politicians/Democrats/House/Melissa Bean/_Melissa Bean Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Nancy Pelosi/The $1.6 Billion Fundraising Machine.md`
+- [ ] `content/Politicians/Democrats/House/Nancy Pelosi/The Biden Exit and Harris Installation.md`
+- [ ] `content/Politicians/Democrats/House/Nancy Pelosi/The Stock Trading Record.md`
+- [ ] `content/Politicians/Democrats/House/Nancy Pelosi/_Nancy Pelosi Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Nydia Velazquez/The Small Business Committee and Puerto Rican Diaspora.md`
+- [ ] `content/Politicians/Democrats/House/Nydia Velazquez/_Nydia Velazquez Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Pete Aguilar/The Caucus Chair and Inland Empire Logistics Economy.md`
+- [ ] `content/Politicians/Democrats/House/Pramila Jayapal/The Progressive Caucus and the Squad's Institutional Wing.md`
+- [ ] `content/Politicians/Democrats/House/Rashida Tlaib/The Oversight Committee and Environmental Justice in Detroit.md`
+- [ ] `content/Politicians/Democrats/House/Raul Grijalva/The Natural Resources Committee and Border-Environment Axis.md`
+- [ ] `content/Politicians/Democrats/House/Richard Neal/_Richard Neal Master Profile.md`
+- [ ] `content/Politicians/Democrats/House/Rick Larsen/The Transportation Committee and Boeing Washington.md`
+- [ ] `content/Politicians/Democrats/House/Ro Khanna/The Silicon Valley Progressive and Tech Industry Alignment.md`
+- [ ] `content/Politicians/Democrats/House/Rosa DeLauro/The Labor-HHS Appropriations Chair and Nutrition Policy.md`
+- [ ] `content/Politicians/Democrats/House/Saikat Chakrabarti/New Consensus and the Green New Deal Architecture.md`
+- [ ] `content/Politicians/Democrats/House/Zoe Lofgren/The Immigration and Administration Committees - Silicon Valley Gatekeeper.md`
+- [ ] `content/Politicians/Democrats/House/_Josh Gottheimer Master Profile.md`
+- [ ] `content/Politicians/Democrats/Presidential/Barack Obama/The Silicon Valley Presidency - Google Surveillance and Market Dominance.md`
+- [ ] `content/Politicians/Democrats/Senate/Abdul El-Sayed/_Abdul El-Sayed Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Alex Padilla/_Alex Padilla Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Amy Klobuchar/The Telecom and Media Monopoly Oversight.md`
+- [ ] `content/Politicians/Democrats/Senate/Brian Schatz/The Climate and Commerce Committee Jurisdiction.md`
+- [ ] `content/Politicians/Democrats/Senate/Brian Schatz/_Brian Schatz Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Catherine Cortez Masto.md`
+- [ ] `content/Politicians/Democrats/Senate/Chris Coons/_Chris Coons Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Chris Murphy/The Gun Control Brand and Insurance Industry Reality.md`
+- [ ] `content/Politicians/Democrats/Senate/Chris Murphy/The National Security and Foreign Policy Realist.md`
+- [ ] `content/Politicians/Democrats/Senate/Chris Murphy/_Chris Murphy Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Chuck Schumer/AIPAC and the Israel Donor Network.md`
+- [ ] `content/Politicians/Democrats/Senate/Cory Booker/The Criminal Justice Reform and Bipartisan Alliance.md`
+- [ ] `content/Politicians/Democrats/Senate/Cory Booker/The Pharma Money and Newark Poverty Paradox.md`
+- [ ] `content/Politicians/Democrats/Senate/Debbie Stabenow/The Agriculture Committee and Farm Bill Politics.md`
+- [ ] `content/Politicians/Democrats/Senate/Debbie Stabenow/_Debbie Stabenow Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Dianne Feinstein.md`
+- [ ] `content/Politicians/Democrats/Senate/Dick Durbin/The Immigration Reform Stall and Judiciary Leadership.md`
+- [ ] `content/Politicians/Democrats/Senate/Ed Markey/_Ed Markey Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Gary Peters/The Homeland Security Committee and Michigan Defense.md`
+- [ ] `content/Politicians/Democrats/Senate/Gary Peters/_Gary Peters Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Graham Platner/Warren-Sanders Unity and the Schumer Machine.md`
+- [ ] `content/Politicians/Democrats/Senate/Graham Platner/_Graham Platner Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Harry Reid/_Harry Reid Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Jack Reed/The Armed Services Ranking Member and Defense Bipartisanship.md`
+- [ ] `content/Politicians/Democrats/Senate/Jeanne Shaheen/The Foreign Relations Committee and Defense-Diplomacy Axis.md`
+- [ ] `content/Politicians/Democrats/Senate/Jeanne Shaheen/_Jeanne Shaheen Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Jeff Merkley/The Housing Progressive and Wall Street Tension.md`
+- [ ] `content/Politicians/Democrats/Senate/Jeff Merkley/The Progressive Outsider and Housing Finance.md`
+- [ ] `content/Politicians/Democrats/Senate/Jeff Merkley/_Jeff Merkley Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/John Fetterman/_John Fetterman Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Jon Ossoff/The $30 Million Special Election and the National Donor Flood.md`
+- [ ] `content/Politicians/Democrats/Senate/Jon Ossoff/The Investigative Filmmaker Brand and the Senate Record Gap.md`
+- [ ] `content/Politicians/Democrats/Senate/Jon Ossoff/_Jon Ossoff Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Mallory McMorrow/_Mallory McMorrow Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Maria Cantwell/The Commerce Committee and Big Tech Jurisdiction.md`
+- [ ] `content/Politicians/Democrats/Senate/Maria Cantwell/The Commerce Committee and Boeing Washington.md`
+- [ ] `content/Politicians/Democrats/Senate/Martin Heinrich/The Energy Committee and Nuclear-Renewables Axis.md`
+- [ ] `content/Politicians/Democrats/Senate/Martin Heinrich/_Martin Heinrich Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Raphael Warnock/_Raphael Warnock Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Richard Blumenthal/The Judiciary Committee and Tech Accountability.md`
+- [ ] `content/Politicians/Democrats/Senate/Ron Wyden/The Finance Committee and Tech Privacy Advocacy.md`
+- [ ] `content/Politicians/Democrats/Senate/Sheldon Whitehouse/The Dark Money Crusade and Judicial Reform.md`
+- [ ] `content/Politicians/Democrats/Senate/Tammy Baldwin/_Tammy Baldwin Master Profile.md`
+- [ ] `content/Politicians/Democrats/Senate/Tammy Duckworth/The Armed Services Committee and Illinois Defense Economy.md`
+- [ ] `content/Politicians/Democrats/Senate/Zach Wahls/_Zach Wahls Master Profile.md`
+- [ ] `content/Politicians/Democrats/Vice Presidential/Kamala Harris/Senate Record and 2020 Primary.md`
+- [ ] `content/Politicians/Independent/Dan Osborn/_Dan Osborn Master Profile.md`
+- [ ] `content/Politicians/Independent/Joe Manchin/_Joe Manchin Master Profile.md`
+- [ ] `content/Politicians/Independent/Kyrsten Sinema/_Kyrsten Sinema Master Profile.md`
+- [ ] `content/Politicians/Independent/Senate/Bernie Sanders/AIPAC and the Progressive Purge.md`
+- [ ] `content/Politicians/Independent/Senate/Bernie Sanders/Medicare for All - The Policy That Broke the Party.md`
+- [ ] `content/Politicians/Independent/Senate/Bernie Sanders/Senate Labor Record and Anti-DOGE Resistance.md`
+- [ ] `content/Politicians/Independent/Senate/Bernie Sanders/The Anti-Donor Model - Two Presidential Campaigns.md`
+- [ ] `content/Politicians/Independent/Senate/Bernie Sanders/_Bernie Sanders Master Profile.md`
+- [ ] `content/Politicians/International/Benjamin Netanyahu/Israel Hayom and the Corruption Cases.md`
+- [ ] `content/Politicians/International/Benjamin Netanyahu/The American Donor Network.md`
+- [ ] `content/Politicians/International/Benjamin Netanyahu/The Trump Alliance and US Military Aid.md`
+- [ ] `content/Politicians/International/Benjamin Netanyahu/West Bank Annexation and Settlement Expansion.md`
+- [ ] `content/Politicians/International/Benjamin Netanyahu/_Benjamin Netanyahu Master Profile.md`
+- [ ] `content/Politicians/International/Bezalel Smotrich.md`
+- [ ] `content/Politicians/International/Itamar Ben-Gvir.md`
+- [ ] `content/Politicians/International/Volodymyr Zelenskyy.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Antonio Villaraigosa/_Antonio Villaraigosa Master Profile.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Betty Yee/The Controller Record and the Fiscal Accountability Question.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Betty Yee/_Betty Yee Master Profile.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Chad Bianco/2026 Governor Race/The Gubernatorial Pivot - From Sheriff to Culture War Candidate.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Chad Bianco/COVID/COVID Mandate Refusal - The Brand-Building Moment.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Chad Bianco/Jail Deaths and Use of Force/Deputy Misconduct and the Whistleblower Firing.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Chad Bianco/The Sheriff-to-Governor Pipeline and Law Enforcement Politics.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Chad Bianco/_Chad Bianco Master Profile.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Eric Swalwell/_Eric Swalwell Master Profile.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Katie Porter/The Anti-Corporate Fundraising Model.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Katie Porter/The Warren Pipeline - Consumer Protection to Governor.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Katie Porter/The Whiteboard Brand and the Corporate Accountability Record.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Katie Porter/The Whiteboard Populism and Legislative Limits.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Matt Mahan/From Causes to Governor - The Tech Career to Politics Pipeline.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Matt Mahan/Tech Industry Policy Alignment and the Billionaire Tax Fight.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Matt Mahan/The Thiel-Adjacent Tech Pipeline.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Matt Mahan/_Matt Mahan Master Profile.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Steve Hilton.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Tom Steyer/Farallon Capital and the Fossil Fuel Fortune.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Tom Steyer/NextGen America and the Climate-to-Politics Pipeline.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Tom Steyer/The Populist Billionaire Contradiction.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Tom Steyer/_Tom Steyer Master Profile.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Tony Thurmond/The Education Establishment and the Charter School War.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Tony Thurmond/_Tony Thurmond Master Profile.md`
+- [ ] `content/Politicians/Races/CA Governor 2026/Xavier Becerra/_Xavier Becerra Master Profile.md`
+- [ ] `content/Politicians/Races/OH Governor 2026/Vivek Ramaswamy/The Ohio Governor Race and the Billionaire Super PAC.md`
+- [ ] `content/Politicians/Republicans/Bush Cabinet/Colin Powell/_Colin Powell Master Profile.md`
+- [ ] `content/Politicians/Republicans/Bush Cabinet/Condoleezza Rice/_Condoleezza Rice Master Profile.md`
+- [ ] `content/Politicians/Republicans/Governors/Brian Kemp.md`
+- [ ] `content/Politicians/Republicans/Governors/Glenn Youngkin/_Glenn Youngkin Master Profile.md`
+- [ ] `content/Politicians/Republicans/Governors/Greg Abbott/_Greg Abbott Master Profile.md`
+- [ ] `content/Politicians/Republicans/Governors/Nikki Haley/_Nikki Haley Master Profile.md`
+- [ ] `content/Politicians/Republicans/Governors/Ron DeSantis/_Ron DeSantis Master Profile.md`
+- [ ] `content/Politicians/Republicans/Governors/Sarah Huckabee Sanders/_Sarah Huckabee Sanders Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Brian Babin/_Brian Babin Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Brian Mast/The Foreign Affairs Committee and Florida Defense.md`
+- [ ] `content/Politicians/Republicans/House/Brian Mast/_Brian Mast Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Bruce Westerman/The Natural Resources Committee and Timber-Energy Pipeline.md`
+- [ ] `content/Politicians/Republicans/House/Bryan Steil/The FEC to Congress Pipeline and Election Law.md`
+- [ ] `content/Politicians/Republicans/House/Chip Roy/The Freedom Caucus and Spending Absolutism.md`
+- [ ] `content/Politicians/Republicans/House/Glenn Thompson/The Agriculture Committee and Farm Subsidy Pipeline.md`
+- [ ] `content/Politicians/Republicans/House/Jason Smith/The Ways and Means Chair and TCJA Extension.md`
+- [ ] `content/Politicians/Republicans/House/Jim Jordan/The OSU Wrestling Scandal and the Culture of Institutional Silence.md`
+- [ ] `content/Politicians/Republicans/House/Jim Jordan/_Jim Jordan Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Jodey Arrington/The Budget Committee and Texas Energy.md`
+- [ ] `content/Politicians/Republicans/House/Jodey Arrington/_Jodey Arrington Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/John Boehner/_John Boehner Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Lauren Boebert/The Culture War Economy and Small Dollar Fundraising.md`
+- [ ] `content/Politicians/Republicans/House/Lauren Boebert/_Lauren Boebert Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Marjorie Taylor Greene/_Marjorie Taylor Greene Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Mark Green/The Homeland Security Committee and Tennessee Defense.md`
+- [ ] `content/Politicians/Republicans/House/Mark Green/_Mark Green Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Matt Gaetz/_Matt Gaetz Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Mike Bost/The Veterans Affairs Committee and Southern Illinois Defense.md`
+- [ ] `content/Politicians/Republicans/House/Mike Johnson/_Mike Johnson Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Mike Lawler/The Swing District Republican and Israel Alignment.md`
+- [ ] `content/Politicians/Republicans/House/Mike Lawler/_Mike Lawler Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Nancy Mace.md`
+- [ ] `content/Politicians/Republicans/House/Patrick McHenry/The Financial Services Legacy and Crypto Deregulation.md`
+- [ ] `content/Politicians/Republicans/House/Patrick McHenry/_Patrick McHenry Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Rick Crawford/The Agriculture Committee and Arkansas Cotton.md`
+- [ ] `content/Politicians/Republicans/House/Rick Crawford/_Rick Crawford Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Roger Williams/The Small Business Committee and Texas Oil-Auto Pipeline.md`
+- [ ] `content/Politicians/Republicans/House/Roger Williams/_Roger Williams Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Sam Graves/The Transportation Committee and Infrastructure Spending.md`
+- [ ] `content/Politicians/Republicans/House/Sam Graves/_Sam Graves Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Tim Walberg/The Education Committee and Michigan Manufacturing.md`
+- [ ] `content/Politicians/Republicans/House/Tim Walberg/_Tim Walberg Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/Tom Cole/The Appropriations Gavel and the Spending Cartel.md`
+- [ ] `content/Politicians/Republicans/House/_Brett Guthrie Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/_Frank Lucas Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/_Kay Granger Master Profile.md`
+- [ ] `content/Politicians/Republicans/House/_Ken Calvert Master Profile.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Agriculture/Agriculture - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Criminal Justice & DOJ/Criminal Justice and DOJ - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Crypto/Crypto and Tech - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/DOGE/The Contractor Beneficiaries - Who Replaced the Civil Servants.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/DOGE/The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Education/Education - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Environment/Environment - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Governance/Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Guns/Guns - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Healthcare/Healthcare - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Housing/Housing - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Israel & Foreign Policy/Israel and Foreign Policy - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Israel & Foreign Policy/The Iran War Money Trail - From Adelson to Airstrikes.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Labor/Labor - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Media & Propaganda/Media and Propaganda - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Media & Propaganda/The Fox News Pipeline - How Media Money Shaped the MAGA Machine.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Surveillance/Signalgate - The Yemen Strike Chat and the Security Theater.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Trade & Tariffs/Trade and Tariffs - Donors and Backers.md`
+- [ ] `content/Politicians/Republicans/Presidential/Donald Trump/Trump Donor Network - The Full Map.md`
+- [ ] `content/Politicians/Republicans/Senate/Ashley Hinson/_Ashley Hinson Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Bill Cassidy/The Healthcare Industry Senator and ACA Repeal.md`
+- [ ] `content/Politicians/Republicans/Senate/Bill Cassidy/_Bill Cassidy Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Bill Hagerty.md`
+- [ ] `content/Politicians/Republicans/Senate/Chuck Grassley/The Judiciary-Agriculture Dual Pipeline.md`
+- [ ] `content/Politicians/Republicans/Senate/Chuck Grassley/The Oversight Legacy and Agricultural Protection.md`
+- [ ] `content/Politicians/Republicans/Senate/Deb Fischer/The Armed Services Committee and Nebraska Defense.md`
+- [ ] `content/Politicians/Republicans/Senate/James Lankford/The Homeland Security Committee and Oklahoma Energy.md`
+- [ ] `content/Politicians/Republicans/Senate/Jerry Moran/The Veterans Affairs Committee and Kansas Defense.md`
+- [ ] `content/Politicians/Republicans/Senate/Jim Inhofe/_Jim Inhofe Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Jim Risch/The Foreign Relations Committee and Idaho Energy.md`
+- [ ] `content/Politicians/Republicans/Senate/John Boozman/The Agriculture-Appropriations Pipeline and Arkansas Defense.md`
+- [ ] `content/Politicians/Republicans/Senate/John Cornyn/The Judiciary-Finance Dual Pipeline and Texas Defense.md`
+- [ ] `content/Politicians/Republicans/Senate/John Hoeven/_John Hoeven Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/John Kennedy/The Folksy Populist Brand and Petrochemical Reality.md`
+- [ ] `content/Politicians/Republicans/Senate/John Thune/The McConnell Succession and the Majority Leader Fundraising Machine.md`
+- [ ] `content/Politicians/Republicans/Senate/John Thune/The Telecom-Insurance-Pharma Donor Architecture.md`
+- [ ] `content/Politicians/Republicans/Senate/John Thune/_John Thune Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Jon Husted/_Jon Husted Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Joni Ernst/_Joni Ernst Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Josh Hawley/Dark Money and the 2018 Missouri Machine.md`
+- [ ] `content/Politicians/Republicans/Senate/Josh Hawley/January 6 Fist Pump and the Donor Paradox.md`
+- [ ] `content/Politicians/Republicans/Senate/Josh Hawley/_Josh Hawley Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Katie Britt.md`
+- [ ] `content/Politicians/Republicans/Senate/Lindsey Graham/Defense Contractors and the Permanent War Donor Base.md`
+- [ ] `content/Politicians/Republicans/Senate/Lindsey Graham/The 2020 Race and the Out-of-State Money Machine.md`
+- [ ] `content/Politicians/Republicans/Senate/Lindsey Graham/_Lindsey Graham Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Michael Whatley/_Michael Whatley Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Mike Collins/_Mike Collins Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Mike Lee/The Judiciary Committee and Libertarian Constitutionalism.md`
+- [ ] `content/Politicians/Republicans/Senate/Mitch McConnell/Kentucky Inc - Coal Tobacco Bourbon and Pharma.md`
+- [ ] `content/Politicians/Republicans/Senate/Mitch McConnell/The McConnell-Leo Judicial Pipeline.md`
+- [ ] `content/Politicians/Republicans/Senate/Mitch McConnell/_Mitch McConnell Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Rand Paul/The Libertarian Brand and Donor Class Service.md`
+- [ ] `content/Politicians/Republicans/Senate/Rand Paul/_Rand Paul Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Rick Scott/Columbia-HCA and the Largest Medicare Fraud in History.md`
+- [ ] `content/Politicians/Republicans/Senate/Rick Scott/NRSC Chair and the McConnell Spending War.md`
+- [ ] `content/Politicians/Republicans/Senate/Rick Scott/The Medicare Fraud Governor and Senate Campaign.md`
+- [ ] `content/Politicians/Republicans/Senate/Rick Scott/_Rick Scott Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Roger Marshall/_Roger Marshall Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Shelley Moore Capito/The EPW Committee and West Virginia Energy Transition.md`
+- [ ] `content/Politicians/Republicans/Senate/Shelley Moore Capito/_Shelley Moore Capito Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Susan Collins/The Moderate Brand as Donor Strategy.md`
+- [ ] `content/Politicians/Republicans/Senate/Susan Collins/The Schwarzman Connection and Private Equity Capture.md`
+- [ ] `content/Politicians/Republicans/Senate/Susan Collins/_Susan Collins Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Ted Cruz/The Performative Populism and Goldman Sachs Marriage.md`
+- [ ] `content/Politicians/Republicans/Senate/Thom Tillis/_Thom Tillis Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Tom Cotton/The National Security Hawk and Arkansas Defense.md`
+- [ ] `content/Politicians/Republicans/Senate/Tom Cotton/_Tom Cotton Master Profile.md`
+- [ ] `content/Politicians/Republicans/Senate/Tommy Tuberville/_Tommy Tuberville Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Alexander Acosta/_Alexander Acosta Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Chris Wright/Liberty Energy and the Regulator-CEO Merger.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Chris Wright/The 445 Million Dollar Oil Investment and Wrights Buy-In.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Chris Wright/The Koch Network Pipeline and Climate Denial as Policy.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Chris Wright/_Chris Wright Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Doug Burgum/The 20 Dollar Gift Card Campaign and the Self-Funding Architecture.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Doug Burgum/The Harold Hamm Pipeline and the Continental Resources Conflict.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Doug Burgum/The Interior Department as Fossil Fuel Policy Vehicle.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Doug Burgum/_Doug Burgum Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Elise Stefanik/The Political Evolution - From Moderate to MAGA and the Donor Incentive.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Elise Stefanik/The University Donor Hearings and Antisemitism Politics.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Howard Lutnick/Cantor Fitzgerald Tether and the Crypto Reserve Play.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Howard Lutnick/The Tariff Machine and the Lutnick Family Bet.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Howard Lutnick/The Transition Pipeline and the 21 Million Dollar Buy-In.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Howard Lutnick/_Howard Lutnick Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Jared Kushner/666 Fifth Avenue and Financial Desperation.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Jared Kushner/Abraham Accords as Business Development.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Jared Kushner/Affinity Partners and the Saudi Pipeline.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Jared Kushner/Kushner Companies and the Slumlord Record.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Jared Kushner/_Jared Kushner Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/John Ratcliffe/The Defense Contractor Revolving Door and the Consulting Pipeline.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/John Ratcliffe/The Intelligence Politicization Pattern from DNI to CIA.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/John Ratcliffe/_John Ratcliffe Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Kash Patel/Foreign Clients and the Qatar-China Conflicts.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Kash Patel/The Nunes Pipeline and the Loyalty Promotion System.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Kash Patel/Trishul LLC and the Trump Loyalty Economy.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Kash Patel/_Kash Patel Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Kristi Noem/_Kristi Noem Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Lee Zeldin/The 2022 Governor Race and the Lauder Super PAC.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Lee Zeldin/The 31 Rollbacks and the Projected 200000 Premature Deaths.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Lee Zeldin/The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Lee Zeldin/_Lee Zeldin Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Linda McMahon/School Choice and the Education Privatization Agenda.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Linda McMahon/The 50 Million Dollar Pipeline from WWE to the Cabinet.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Linda McMahon/WWE Labor Exploitation and the Donor Class Anti-Worker Model.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Linda McMahon/_Linda McMahon Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Marco Rubio/The China Hawk and National Security State.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Marco Rubio/The Secretary of State and Sugar-Defense-Israel Donor Triangle.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Marco Rubio/_Marco Rubio Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Michael Waltz/_Michael Waltz Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Mike Pompeo/_Mike Pompeo Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Pam Bondi/Qatar Lobbying and the Revolving Door to DOJ.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Pam Bondi/The DOJ as Political Weapon and Donor Shield.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Pam Bondi/The Trump University 25K and the Pay-to-Play Model.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Pam Bondi/_Pam Bondi Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Pete Hegseth/Defense Contractor Conflicts and Stock Holdings.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Pete Hegseth/Fox News to Pentagon - The Media-Military Pipeline.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Pete Hegseth/The Koch Network and Concerned Veterans for America.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Pete Hegseth/_Pete Hegseth Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Russell Vought/Christian Nationalism and the Theological Budget.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Russell Vought/The Impoundment Strategy and the Budget as Political Weapon.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Russell Vought/The Project 2025 Pipeline and the Center for Renewing America.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Russell Vought/_Russell Vought Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Scott Bessent/From Soros CIO to Trump Treasury - The Class Defection.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Scott Bessent/The Trump Fundraiser Pipeline and Wall Street Nomination Battle.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Scott Bessent/Wall Street Deregulation and the 3-3-3 Agenda.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Scott Bessent/_Scott Bessent Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Stephen Miller/America First Legal and the Dark Money Architecture.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Stephen Miller/The Immigration Policy Architecture from Sessions to Mass Deportation.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Stephen Miller/_Stephen Miller Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Steve Bannon/The Goldman-to-Fraud Pipeline and the Conviction Record.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Steve Bannon/The Mercer Investment and the Construction of Populist Infrastructure.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Steve Bannon/_Steve Bannon Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Steve Witkoff/_Steve Witkoff Master Profile.md`
+- [ ] `content/Politicians/Republicans/Trump Cabinet/Tulsi Gabbard/_Tulsi Gabbard Master Profile.md`
+- [ ] `content/Politicians/Republicans/Vice Presidential/JD Vance/_JD Vance Master Profile.md`
+- [ ] `content/Politicians/SCOTUS/Amy Coney Barrett/_Amy Coney Barrett Master Profile.md`
+- [ ] `content/Politicians/SCOTUS/Brett Kavanaugh/_Brett Kavanaugh Master Profile.md`
+- [ ] `content/Politicians/SCOTUS/Clarence Thomas/_Clarence Thomas Master Profile.md`
+- [ ] `content/Politicians/SCOTUS/John Roberts/_John Roberts Master Profile.md`
+- [ ] `content/Politicians/SCOTUS/Neil Gorsuch/_Neil Gorsuch Master Profile.md`
+- [ ] `content/Politicians/SCOTUS/Samuel Alito/_Samuel Alito Master Profile.md`
+- [ ] `content/Politicians/_README.md`
+- [ ] `content/Stories/Daily Updates/2026-03-25 Election Cycle Update.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-24 Finance Research.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-25 News Scan.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-25 Story Discovery Run 2.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-25 Story Discovery Run 3.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-25 Story Discovery.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-26 Story Discovery Run 2.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-26 Story Discovery Run 3.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-26 Story Discovery Run 4.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-26 Story Discovery Run 5.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-26 Story Discovery Run 6.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-26 Story Discovery Run 7.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-26 Story Discovery.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-27 API Briefing.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-27 Story Discovery Run 2.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-27 Story Discovery Run 3.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-27 Story Discovery.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-03-31 Story Discovery.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-04-01 Story Discovery.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-04-02 Story Discovery.md`
+- [ ] `content/Stories/Internal/Daily Updates/2026-04-03 Story Discovery.md`
+- [ ] `content/Stories/Internal/Research Logs/2026-03-18 Finance Research.md`
+- [ ] `content/Stories/Internal/Research Logs/2026-03-25 Finance Research.md`
+- [ ] `content/Stories/Internal/Research Logs/2026-03-26 Finance Research.md`
+- [ ] `content/Stories/Published/2026 Senate Primary Races.md`
+- [ ] `content/Stories/Published/2026 Senate Races/Illinois 2026 Senate Race.md`
+- [ ] `content/Stories/Published/2026 Senate Races/Iowa 2026 Senate Race.md`
+- [ ] `content/Stories/Published/2026 Senate Races/Maine 2026 Senate Race.md`
+- [ ] `content/Stories/Published/2026 Senate Races/Nebraska 2026 Senate Race.md`
+- [ ] `content/Stories/Published/Cross-Politician Analysis/Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class.md`
+- [ ] `content/Stories/Published/Cross-Politician Analysis/Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand.md`
+- [ ] `content/Stories/Published/Cross-Politician Analysis/Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric.md`
+- [ ] `content/Stories/Published/How Committee Jurisdiction Drives Fundraising.md`
+- [ ] `content/Stories/Published/The Both-Sides Dark Money Illusion.md`
+- [ ] `content/Stories/Published/The Carried Interest Loophole - 30 Years of Survival.md`
+- [ ] `content/Stories/Published/The Defense Spending Bipartisan Consensus.md`
+- [ ] `content/Stories/Published/The Farm Bill - The Bipartisan Subsidy Machine.md`
+- [ ] `content/Stories/Published/The Insurance Industry Public Option Kill.md`
+- [ ] `content/Stories/Published/The Revolving Door - How Government Service Becomes Industry Employment.md`
+- [ ] `content/Stories/Published/The SCOTUS Capture - From Bork to Barrett.md`
+- [ ] `content/Stories/_README.md`
+- [ ] `content/The Donor Map Database.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/Conservative/Claremont Institute.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/Conservative/Hudson Institute.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/Conservative/State Policy Network.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/Liberal/InfluenceMap.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/Liberal/New America.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/The Idea Laundering Pipeline — How Think Tank Research Becomes Law.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/The Revolving Door — A Cross-Think-Tank Personnel Map.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/_Think Tank Framework.md`
+- [ ] `content/Think Tanks & Policy Infrastructure/_Think Tank Index.md`
+- [ ] `content/Vault Maintenance/Archive/2026-03-26 Vault Audit.md`
+- [ ] `content/Vault Maintenance/Archive/2026-03-27 Vault Audit.md`
+- [ ] `content/Vault Maintenance/Archive/Analytical Quality Audit - March 2026.md`
+- [ ] `content/Vault Maintenance/Archive/Publication Audit Report.md`
+- [ ] `content/Vault Maintenance/Archive/Publish Settings Guide.md`
+- [ ] `content/Vault Maintenance/Archive/Research Batch - Media Pipeline Raw Profiles.md`
+- [ ] `content/Vault Maintenance/Archive/Research Methodology and Data Sources.md`
+- [ ] `content/Vault Maintenance/Archive/Research Prompt Kit.md`
+- [ ] `content/Vault Maintenance/Archive/Session History Archive.md`
+- [ ] `content/Vault Maintenance/Archive/Session Instructions - stub.md`
+- [ ] `content/Vault Maintenance/Archive/Sources Master Node.md`
+- [ ] `content/Vault Maintenance/Archive/The Donor Map Database - Pre-Relaunch Homepage.md`
+- [ ] `content/Vault Maintenance/Archive/Vault Integrity Audit - Methodology and Tracker.md`
+- [ ] `content/Vault Maintenance/Archive/Vault Standards Resolution - 2026-03-31.md`
+- [ ] `content/Vault Maintenance/Archive/Vault Standards and Agent Instructions.md`
+- [ ] `content/Vault Maintenance/Archive/_README - Topics Root.md`
+- [ ] `content/Vault Maintenance/Archive/_README.md`
+- [ ] `content/Vault Maintenance/Archive/_SESSION_HISTORY.md`

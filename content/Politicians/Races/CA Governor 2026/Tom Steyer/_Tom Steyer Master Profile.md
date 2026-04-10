@@ -35,12 +35,10 @@ doj-components:
   - "USAO - Kentucky, Eastern"
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
+related: "[[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Gavin Newsom Master Profile]] · [[CNA - California Nurses Association]]"
 ---
-
-
 #tom-steyer #california #governor-2026 #billionaire #self-funded #hedge-fund #fossil-fuels #climate #class-analysis
 
-related: [[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Gavin Newsom Master Profile]] · [[CNA - California Nurses Association]]
 donors: [[Michael Bloomberg]] · [[CNA - California Nurses Association]]
 
 profile-status:: ready

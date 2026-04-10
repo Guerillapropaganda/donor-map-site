@@ -13,7 +13,6 @@ donors: "[]"
 
 #media-profile #centrist #journalist #vox #nyt #policy-wonk #technocratic-centrism #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -174,4 +173,3 @@ Ezra Klein represents **technocratic centrism as class function** — the mechan
 
 ---
 
-content-readiness:: ready

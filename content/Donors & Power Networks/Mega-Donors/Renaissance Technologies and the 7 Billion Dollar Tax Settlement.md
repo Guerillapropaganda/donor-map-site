@@ -7,16 +7,12 @@ source-tier: 1
 parent: null
 sector: "Mega-Donors"
 entity-type: "Individual Donor"
-related: "[[Hedge Fund Industry Bloc]]"
+related: "[[Hedge Fund Industry Bloc]] · [[Robert Mercer]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
-
 #robert-mercer #renaissance-technologies #medallion-fund #irs #tax-avoidance #basket-options #class-analysis
-
-related: [[Robert Mercer]]
 
 ---
 

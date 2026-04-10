@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Matt Mahan Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]]"
 ---
-
-
 #matt-mahan #billionaire-tax #housing #ai #tech-regulation #class-analysis #follow-the-money
 
-related: [[_Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]]
 donors: (Silicon Valley tech billionaires, developer networks)
 
 content-readiness:: ready

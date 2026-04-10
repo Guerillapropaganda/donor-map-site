@@ -5,12 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Michael Whatley Master Profile]]
+related: "[[_Michael Whatley Master Profile|Michael Whatley]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Trump Donor Network - The Full Map|Trump Donor Network]]"
 ---
-
 #politician #republican #rnc #conflict-of-interest #senate #donor-machine #2026-candidate
 tags: #republican
 
-related:: [[_Michael Whatley Master Profile|Michael Whatley]] [[Michael Whatley Oil and Gas Lobbying History]] Republican National Committee Apparatus [[Trump Donor Network - The Full Map|Trump Donor Network]]
 donors:: Republican National Committee NRSC Trump Personal Network [[Susan B. Anthony Pro-Life America PAC]]
 
 ---
@@ -159,4 +158,3 @@ This illustrates the asymmetry in party infrastructure advantage: Republican par
 
 ---
 
-content-readiness:: ready

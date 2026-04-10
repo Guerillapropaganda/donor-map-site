@@ -8,14 +8,11 @@ parent: null
 issues:
   - "Wall Street & Finance"
   - "Tax Policy"
-related: "[[How Committee Jurisdiction Drives Fundraising]]"
+related: "[[How Committee Jurisdiction Drives Fundraising]] · [[Blackstone Group]] · [[Apollo Global Management]] · [[Hedge Fund Industry Bloc]] · [[Private Equity Industry Bloc]]"
 source-types:
   - Congress
 ---
-
 #carried-interest #private-equity #wall-street #tax #loophole #bipartisan #lobbying
-
-related: [[Blackstone Group]] [[Apollo Global Management]] [[Hedge Fund Industry Bloc]] [[Private Equity Industry Bloc]]
 
 ---
 

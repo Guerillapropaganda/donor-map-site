@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_John Roberts Master Profile]]
+related: "[[_John Roberts Master Profile]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]]"
 ---
-
-
 #john-roberts #scotus #institutionalist #strategic-defections #aca #census #legitimacy #class-analysis
 
-related: [[_John Roberts Master Profile]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]]
-
 donors: [[Leonard Leo]]
-
-content-readiness:: ready
 
 ---
 

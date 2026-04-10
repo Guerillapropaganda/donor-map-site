@@ -30,19 +30,13 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 donors: "[[UNITE HERE]] · [[AFL-CIO]]"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Donald Trump Master Profile|Trump]]"
 total-received: "$1,522,158"
 fec-candidate-id: "H4PA13199"
 ---
-
-
 #brendan-boyle #democrat #pennsylvania #house #ranking-member #budget #debt-ceiling #labor #philadelphia #working-class #reconciliation #blue-collar-caucus #phase-6-gavel-power
 
-related: [[_Donald Trump Master Profile|Trump]]
-
 donors:
-
-profile-status:: ready
 
 ---
 ---
@@ -163,8 +157,6 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 - [Philadelphia Magazine: The Boyle Blueprint](https://voteboyle.com/2017/01/23/philadelphia-magazine-power-the-boyle-blueprint/) (Tier 2)
 - [Ballotpedia: Brendan Boyle](https://ballotpedia.org/Brendan_Boyle) (Tier 3)
 - [Wikipedia: Brendan Boyle](https://en.wikipedia.org/wiki/Brendan_Boyle) (Tier 3)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

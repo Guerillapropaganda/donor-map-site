@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
+related: "[[Social Policy and Culture War - Donors and Backers]] · [[_Donald Trump Master Profile|Donald Trump Master Profile]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed|Project 2025]] · [[Heritage Foundation]] · [[Alliance Defending Freedom]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
 tags: #republican #trump #culture-war #class-analysis #economic-extraction #analysis
-
-related: [[Social Policy and Culture War - Donors and Backers]] [[_Donald Trump Master Profile|Donald Trump Master Profile]] [[Leonard Leo]] [[Project 2025 - The Blueprint They Followed|Project 2025]] [[Heritage Foundation]] [[Alliance Defending Freedom]] [[Koch Network - Charles Koch|Koch Network]]
 
 donors: Leonard Leo (Marble Freedom Trust), National Christian Foundation, Heritage Foundation, Alliance Defending Freedom, Koch Network, DeVos Family, Barre Seid
 
@@ -90,7 +88,6 @@ The litigation mechanism is essential to the economic model. By creating legal e
 
 As of early 2025, legislatures in 49 states have introduced 947 anti-trans bills. Of those, 118 have been enacted. The consistency of language across states is not accident. It is design. Alliance Defending Freedom has authored at least 130 bills across 34 states. Heritage Foundation provides the strategic framework.
 
-
 The legislative template typically includes three components: (1) definition of sex as immutable biological category, (2) prohibition of gender-affirming medical care for anyone under 18, and (3) removal of trans people from the sex category for which they qualify in athletics, bathrooms, and shelters. The legislation is then distributed to state legislators through the American Legislative Exchange Council (ALEC), the Federalist Society state networks, and direct outreach from ADF lawyers. Heritage Foundation provides coordinated talking points and media messaging. Concerned Women for America mobilizes evangelical voter contact. Family Research Council lobbies individual legislators.
 
 The funding model creates money regardless of legislative outcome. ADF gets paid to draft legislation. State legislators introduce the bills (free marketing for ADF). Conservative organizations publicize the legislation (generating small-dollar fundraising from culture war messaging). If the bill passes, ADF then defends it in court, generating legal fees and producing more litigation revenue. If the bill fails, ADF has still captured donor revenue and established momentum for the next legislative session. The business model is litigation-proof: passage produces litigation fees, failure produces fundraising.
@@ -149,4 +146,3 @@ The mechanism is deliberate and coordinated. Culture war serves as the political
 
 Culture war is not separate from economic policy. Culture war is the political mechanism through which economic policy becomes electorally viable. It is the delivery system through which capital extraction happens with working class participation.
 
-content-readiness:: ready

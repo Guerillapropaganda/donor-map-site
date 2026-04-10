@@ -39,13 +39,9 @@ last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Employment and Training Administration"
   - "Labor Department"
-related: "[[Civica Rx]] · [[Healthcare - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[Kamala Harris Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Moderna]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Nancy Pelosi Master Profile]] · [[Kaiser Permanente]] · [[Legislative Record as Speaker]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[The Insurance Industry Public Option Kill]] · [[Bernie Sanders Master Profile]] · [[Barack Obama Master Profile]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Josh Green Master Profile]]"
+related: "[[Civica Rx]] · [[Healthcare - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[Kamala Harris Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Moderna]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Nancy Pelosi Master Profile]] · [[Kaiser Permanente]] · [[Legislative Record as Speaker]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[The Insurance Industry Public Option Kill]] · [[Bernie Sanders Master Profile]] · [[Barack Obama Master Profile]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Josh Green Master Profile]] · [[_Gavin Newsom Master Profile]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Single-Payer Broken Promise]]"
 ---
-
-
 #donor #healthcare-industry #insurance #unitedhealth #optum #PBM #no-bid-contracts #follow-the-money #corporate-giant
-
-related: [[_Gavin Newsom Master Profile]] | [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] | [[Prescription Drug Pricing - PBM Veto Cycle]] | [[Single-Payer Broken Promise]]
 
 ---
 
@@ -173,9 +169,6 @@ Healthcare — COVID contracts, PBM regulation, single-payer
 - [CalMatters: PBM veto](https://calmatters.org/health/2024/09/newsom-vetoes-health-care-bills/) (Tier 2)
 - [OpenSecrets: UnitedHealth Group PAC profile](https://www.opensecrets.org/orgs/unitedhealth-group/summary?id=D000000348) (Tier 1)
 - [CA Secretary of State: Power Search (contribution verification)](https://powersearch.sos.ca.gov/advanced.php) (Tier 1)
-
-research-status:: ready — Newsom contributions confirmed ($231K+), COVID no-bid contracts ($544.2M total), federal PAC ($3.14M raised, $7.52M lobbying), PBM veto documented, CEO Thompson killing contextualized. All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38h.
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

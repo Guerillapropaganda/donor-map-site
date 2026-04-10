@@ -21,7 +21,7 @@ top-donors:
 stock-trades: 1
 fec-candidate-id: "S6RI00163"
 donors: "[[General Dynamics]] · [[NORPAC]]"
-related: "[[General Dynamics]]"
+related: "[[General Dynamics]] · [[_Roger Wicker Master Profile|Wicker]] · [[Lockheed Martin]] · [[Boeing]]"
 last-enriched: "2026-04-09"
 govtrack-id: 300081
 bills-sponsored: 35
@@ -29,15 +29,9 @@ bills-cosponsored: 238
 website: "https://www.reed.senate.gov"
 phone: "202-224-4642"
 ---
-
-
 #jack-reed #democrat #rhode-island #senate #ranking-member #armed-services #defense #military #west-point #phase-6-gavel-power
 
-related: [[_Roger Wicker Master Profile|Wicker]] [[Lockheed Martin]] [[Boeing]]
-
 donors: [[Lockheed Martin]] [[Boeing]]
-
-profile-status:: ready
 
 ---
 ---
@@ -171,8 +165,6 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 - [NPR: Rhode Island's Defense Economy](NOTFOUND_NPR) (Tier 2)
 - [Ballotpedia: Jack Reed](https://ballotpedia.org/Jack_Reed_(Rhode_Island)) (Tier 3)
 - [Wikipedia: Jack Reed (politician)](https://en.wikipedia.org/wiki/Jack_Reed_%28politician%29) (Tier 3)
-
-content-readiness:: ready
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

@@ -47,7 +47,7 @@ cpsc-recalls: 11
 last-enriched: "2026-04-09"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[McDonalds Corporation]]"
+related: "[[McDonalds Corporation]] · [[National Restaurant Association]] · [[Amazon]]"
 ein: "911795425"
 nonprofit-status: "501(c)(3)"
 total-revenue: 2762084
@@ -65,10 +65,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
 #starbucks #coffee #anti-union #nlrb #progressive-brand #labor #howard-schultz
-
-related: [[National Restaurant Association]] [[Amazon]]
 
 ---
 
@@ -102,8 +99,6 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 - [NLRB: Starbucks unfair labor practice complaints](https://www.nlrb.gov/case/02-CA-261884) (Tier 1)
 - [OpenSecrets: Starbucks lobbying](https://www.opensecrets.org/orgs/starbucks/summary?id=D000042571) (Tier 1)
 - [Ballotpedia: Starbucks labor practices](https://ballotpedia.org/Starbucks) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

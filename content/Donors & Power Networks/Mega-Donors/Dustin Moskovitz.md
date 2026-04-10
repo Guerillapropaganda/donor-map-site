@@ -39,7 +39,7 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13D/A"
   - "TEXT-EXTRACT"
-related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Democratic Party Infrastructure]] · [[Future Forward USA Action]] · [[FTX - Sam Bankman-Fried]]"
 court-cases: 47
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -66,10 +66,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
 #donor #billionaire #democratic #tech #dark-money #effective-altruism
-
-related: [[_Gavin Newsom Master Profile]] [[_Donald Trump Master Profile]] [[Democratic Party Infrastructure]] Open Philanthropy Good Ventures [[Future Forward USA Action]] [[FTX - Sam Bankman-Fried]] Effective Altruism Movement
 
 ---
 
@@ -141,8 +138,6 @@ The deeper contradiction is ideological. Effective altruism promises data-driven
 
 ---
 
-research-status:: ready — $19B net worth, $51M+ Future Forward dark money, Open Philanthropy $41B, Good Ventures $2.8B, effective altruism ideology, FTX connection, dark money contradiction. 8 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

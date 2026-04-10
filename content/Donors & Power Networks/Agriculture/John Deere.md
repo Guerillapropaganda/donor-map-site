@@ -26,7 +26,7 @@ subawards-received: 50
 subawards-received-amount: 7034204
 top-federal-agency: "Department of Defense"
 top-naics-code: "333120"
-related: "[[Monsanto - Bayer]] · [[The Oversight Legacy and Agricultural Protection]] · [[The Farm Bill - The Bipartisan Subsidy Machine]]"
+related: "[[Monsanto - Bayer]] · [[The Oversight Legacy and Agricultural Protection]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[Cargill]] · [[ADM - Archer Daniels Midland|ADM]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"
@@ -50,10 +50,7 @@ cpsc-recalls: 43
 lei: "969500UMN0I81FGDFL82"
 lei-jurisdiction: "FR"
 ---
-
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
-
-related: [[American Farm Bureau Federation]] [[Cargill]] [[ADM - Archer Daniels Midland|ADM]]
 
 ---
 
@@ -84,7 +81,6 @@ The right-to-repair fight is a case study in how intellectual property law conve
 
 ---
 
-
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
 
@@ -114,8 +110,6 @@ The right-to-repair fight is a case study in how intellectual property law conve
 - [OpenSecrets: Deere & Company organizational profile](https://www.opensecrets.org/orgs/deere-co/summary?id=D000000504) (Tier 1)
 - [FTC: Right-to-repair report](https://www.ftc.gov/reports/nixing-fix-ftc-report-congress-repair-restrictions) (Tier 1) (VERIFIED)
 - ~~[Ballotpedia: Deere & Company](https://ballotpedia.org/Deere_&_Company)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-
-content-readiness:: ready
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->

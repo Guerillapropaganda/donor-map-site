@@ -44,12 +44,9 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
   - "XML"
-related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]]"
+related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[CNA - California Nurses Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[California Labor Federation]]"
 ---
-
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor
-
-related: [[CNA - California Nurses Association]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[California Labor Federation]]
 
 ---
 
@@ -88,7 +85,6 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 - [National Nurses United: Healthcare research and advocacy](https://www.nationalnursesunited.org/) (Tier 1)
 - [Ballotpedia: California Nurses Association](https://ballotpedia.org/California_Nurses_Association) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

@@ -34,12 +34,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Abdul El-Sayed Master Profile]] · [[Viral Moment Pipeline and National Fundraising]]"
 ---
-
-
 #mallory-mcmorrow #michigan #senate #2026 #progressive #viral-politics #warren-endorsed #national-fundraising #class-analysis
-
-related: [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Abdul El-Sayed Master Profile]] · [[Viral Moment Pipeline and National Fundraising]]
 
 donors: [[National Progressive Donor Networks]] · Warren Endorsement Effect · Tech Sector Donors · Viral-Moment Fundraising Model
 
@@ -255,7 +252,6 @@ The Michigan primary cannot tell us which path McMorrow will follow. But it can 
 - [Mallory McMorrow - Wikipedia](https://en.wikipedia.org/wiki/Mallory_McMorrow) (Tier 3)
 
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

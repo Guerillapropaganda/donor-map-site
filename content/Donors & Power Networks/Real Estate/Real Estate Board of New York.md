@@ -31,14 +31,11 @@ ein: 131201480
 annual-revenue: "$17.2M"
 net-assets: "$26.7M"
 tax-year: "2023"
-related: "[[Kathy Hochul]]"
+related: "[[Kathy Hochul]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[National Association of Realtors]] · [[New York Housing Policy]] · [[Leonard Litwin - Glenwood Management]]"
 lobbying-spend: 32210838
 lobbying-filings: 101
 ---
-
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money
-
-related: [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[National Association of Realtors]] · [[New York Housing Policy]] · [[Leonard Litwin - Glenwood Management]]
 
 ---
 
@@ -154,10 +151,6 @@ REBNY's influence operates through both direct campaign contributions and struct
 - [FEC Receipts: Real Estate industry political spending profile](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
 ---
-
-research-status:: developed — expanded with additional research on REBNY's state-level dominance, LLC loophole exploitation, Good Cause Eviction weakening, 421-a economics, Jobs for New York PAC targeting, Moreland Commission shutdown, and national replication model. Gaps: detailed donor-to-policy tracking for individual NYC mayoral and gubernatorial races; Hochul's specific REBNY funding flows; current (2026) NYC/state lobbying spending figures.
-
-content-readiness:: developed
 
 ---
 

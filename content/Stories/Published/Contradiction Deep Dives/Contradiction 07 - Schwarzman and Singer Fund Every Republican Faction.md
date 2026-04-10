@@ -7,13 +7,10 @@ source-tier: 1
 parent: null
 issues:
   - "Wall Street & Finance"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]]"
 ---
-
 #investigation #contradiction #schwarzman #singer #wall-street #republican #class-analysis
 tags: #analysis #story
-
-related: [[Stephen Schwarzman|Stephen Schwarzman]] [[Paul Singer|Paul Singer]] [[_Susan Collins Master Profile|Susan Collins]] Marco Rubio Carried Interest Loophole [[Elliott Management|Elliott Management]] [[Blackstone|Blackstone]]
 
 ---
 
@@ -133,5 +130,3 @@ The class analysis: Both donors are funding the Republican Party's debate over *
 
 ---
 
-research-status:: ready — Promoted Session 39.
-content-readiness:: ready

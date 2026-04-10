@@ -38,7 +38,7 @@ bills-sponsored: 92
 bills-cosponsored: 541
 website: "https://www.booker.senate.gov"
 phone: "202-224-3224"
-related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]]"
+related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[PhRMA]] · [[Pfizer]] · [[Merck]] · [[Johnson & Johnson]] · [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]]"
 donors: "[[JB Pritzker]] · [[Mark Zuckerberg]]"
 total-received: "$26,085,174"
 fec-candidate-id: "S4NJ00185"
@@ -57,10 +57,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
-
-related: [[_Chuck Schumer Master Profile|Schumer]] [[Goldman Sachs]] [[JPMorgan Chase]] [[PhRMA]] [[Pfizer]] [[Merck]] [[Johnson & Johnson]] [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]]
 
 donors: [[Goldman Sachs]] [[JPMorgan Chase]] [[PhRMA]] [[Pfizer]] [[Merck]] [[Johnson & Johnson]] [[Silicon Valley Democratic Donor Network]]
 
@@ -210,9 +207,6 @@ The development was real. The question is who benefited: corporate headquarters 
 - [Sentencing Project: The First Step Act](https://www.sentencingproject.org/policy-brief/the-first-step-act-ending-mass-incarceration-in-federal-prisons/) (Tier 2) (VERIFIED)
 - [PolitiFact: Cory Booker and drug maker campaign cash](https://www.politifact.com/factchecks/2019/jul/02/donald-trump/cory-booker-and-drug-maker-campaign-cash-numbers/) (Tier 3) (VERIFIED)
 - [Ballotpedia: Cory Booker](https://ballotpedia.org/Cory_Booker) (Tier 3) (VERIFIED)
-
-profile-status:: ready
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

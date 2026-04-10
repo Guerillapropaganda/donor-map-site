@@ -26,11 +26,9 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel]] · [[_Bernie Sanders Master Profile]]"
 ---
-
 #omar #minnesota #progressive #squad #foreign-affairs #israel #somalia #refugee #budget #education
-
-related: [[_Rashida Tlaib Master Profile|Tlaib]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[_Pramila Jayapal Master Profile|Jayapal]] [[_Jamaal Bowman Master Profile|Bowman]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel]] · [[_Bernie Sanders Master Profile]]
 
 ---
 

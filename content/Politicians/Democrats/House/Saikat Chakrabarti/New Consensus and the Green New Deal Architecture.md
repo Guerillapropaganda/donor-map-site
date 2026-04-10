@@ -7,11 +7,9 @@ source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
 known-gaps:
   - "No mapped relationships"
+related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Sunrise Movement]] · [[Green New Deal Resolution]] · [[Mission for America]] · [[RFC Reconstruction Finance Corporation]]"
 ---
-
 #new-consensus #think-tank #green-new-deal #climate #policy #class-analysis #follow-the-money
-
-related:: [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Sunrise Movement]] · [[Green New Deal Resolution]] · [[Mission for America]] · [[RFC Reconstruction Finance Corporation]]
 
 ---
 

@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Russell Vought Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Russell Vought Master Profile]]"
 ---
-
-
 #russell-vought #impoundment #budget #cfpb #usaid #schedule-f #class-analysis
 
-related: [[_Russell Vought Master Profile]]
 donors: (Financial industry, no specific nodes)
 
 content-readiness:: ready

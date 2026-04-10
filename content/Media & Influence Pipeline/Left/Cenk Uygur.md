@@ -12,7 +12,6 @@ related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network
 
 #media-pipeline #left #independence-theater #audience-capture #revolving-door #labor-contradiction #venture-capital
 
-
 ---
 
 ### Who They Are
@@ -193,4 +192,3 @@ Patterns present: **Independence Theater**, **Audience Capture**, **Revolving Do
 
 ---
 
-content-readiness:: ready

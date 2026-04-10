@@ -15,12 +15,9 @@ court-cases: 2
 last-enriched: "2026-04-07"
 court-jurisdictions:
   - "District Court, District of Columbia"
-related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]]"
+related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[New Venture Fund]] · [[Democratic Donor Network]] · [[Dark Money Networks - The Shadow System]] · [[Judicial Watch]] · [[America First Legal]] · [[Democracy Forward]] · [[_Donald Trump Master Profile|Trump]]"
 ---
-
 #crew #ethics #watchdog #nonprofit #dark-money #14th-amendment #accountability #legal-advocacy #foia #progressive-infrastructure
-
-related: [[New Venture Fund]] [[Democratic Donor Network]] [[Dark Money Networks - The Shadow System]] [[Judicial Watch]] [[America First Legal]] [[Democracy Forward]] [[_Donald Trump Master Profile|Trump]]
 
 ---
 

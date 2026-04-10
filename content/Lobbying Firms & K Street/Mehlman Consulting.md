@@ -24,7 +24,6 @@ related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[PhRMA - Pharmaceutic
 
 #lobbying #k-street #tech #healthcare #taxes #trade #bipartisan #big-tech
 
-
 ---
 
 ### Who They Are
@@ -222,8 +221,6 @@ The bipartisan structure serves a specific commercial function: it makes the fir
 - [Holland & Knight / Bloomberg Government: AI Lobbying Soars in Washington, Among Big Firms and Upstarts](https://www.hklaw.com/en/news/intheheadlines/2025/12/ai-lobbying-soars-in-washington-among-big-firms-and-upstarts) (Tier 2) — reports $92M in AI lobbying revenue for firms in Q1-Q3 2025
 - [Bloomberg Law: AI Influence Spending Booms, Signaling Monumental Clashes Ahead](https://news.bloomberglaw.com/artificial-intelligence/ai-influence-spending-booms-signaling-monumental-clashes-ahead) (Tier 2) — Q4 2025: record $37.2M quarterly AI lobbying revenue (+38% YoY); full-year 2025 total ~$130M
 - [PR Newswire: Federal Lobbying Spending Reached New High in 2024 — Bloomberg Government 10th Annual Top-Performing Lobbying Firms Report](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2)
-
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

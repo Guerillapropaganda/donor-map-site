@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Josh Green Master Profile]]
+related: "[[_Josh Green Master Profile]] · [[Hawaiian Electric Company]]"
 ---
-
-
 #josh-green #hawaii #maui #wildfire #disaster #rebuilding #fema #insurance #class-analysis
-
-related: [[_Josh Green Master Profile]] · [[Hawaiian Electric Company]] · FEMA and Disaster Capitalism · Insurance Industry - Healthcare
 
 donors: [[Hawaiian Electric Company]] · [[Insurance Industry]] · Federal Contractors · Rebuilding Contractors
 
@@ -257,4 +254,3 @@ The integration: Green's healthcare expertise was applied to disaster response. 
 - [Hawaii Tribune-Herald: Gov. Green sees hope, progress since deadly Lahaina wildfires](https://www.hawaiitribune-herald.com/2024/08/05/hawaii-news/gov-green-sees-hope-progress-since-deadly-lahaina-wildfires/) (Tier 2)
 - [Governing: Gov. Josh Green Reflects on Maui Wildfires a Year Later](https://www.governing.com/resilience/gov-josh-green-reflects-on-maui-wildfires-a-year-later) (Tier 2)
 
-content-readiness:: ready

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Ron Wyden Master Profile]] · [[_Amy Klobuchar Master Profile]]"
 ---
-
 #wyden #finance #tech #privacy #surveillance #oregon #tax #internet
-
-related: [[_Ron Wyden Master Profile]] [[_Amy Klobuchar Master Profile]]
 
 donors: [[Google - Alphabet]] Intel Nike
 

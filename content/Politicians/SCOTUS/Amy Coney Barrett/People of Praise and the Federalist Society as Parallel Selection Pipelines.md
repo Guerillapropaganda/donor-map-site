@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Amy Coney Barrett Master Profile]]
-related: "[[Federalist Society]]"
+related: "[[Federalist Society]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]]"
 ---
-
-
 #amy-coney-barrett #people-of-praise #federalist-society #leonard-leo #class-analysis
 
-related: [[_Amy Coney Barrett Master Profile]] [[Leonard Leo]]
-
 donors: [[Leonard Leo]]
-
-content-readiness:: ready
 
 ---
 

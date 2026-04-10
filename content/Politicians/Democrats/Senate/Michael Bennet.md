@@ -11,7 +11,7 @@ stock-trade-tickers:
   - "LVLT"
 total-received: "$7,524,650"
 fec-candidate-id: "P00011833"
-related: "[[John Hickenlooper]]"
+related: "[[John Hickenlooper]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Gates Foundation]]"
 doj-press-mentions: "264413"
 last-enriched: "2026-04-09"
 doj-components:
@@ -26,11 +26,8 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #michael-bennet #senator #colorado #education #reform #moderate #class-analysis #democrat
 tags: #democrat
-
-related: [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Gates Foundation]] · Denver Public Schools · Charter School Movement · Tech Billionaire Donors
 
 donors: [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Gates Foundation]] · Software/Tech Industry · Education Reform Donors
 
@@ -102,9 +99,6 @@ Bennet represents the education reform pipeline operating at scale. Billionaire 
 - [Gates Family Foundation: Bennet and Boasberg: Reflections and Predictions for Denver Public Schools](https://gatesfamilyfoundation.org/bennet-and-boasberg-reflections-and-predictions-for-denver-public-schools/) (Tier 3)
 - [Colorado Times Recorder: Outside Money, Inside Influence: The Network Shaping Denver's School Board Race](https://coloradotimesrecorder.com/2025/10/outside-money-inside-influence-the-network-shaping-denvers-school-board-race/73398/) (Tier 2)
 - [FEC Candidate: Sen. Michael F. Bennet Industries (2022 cycle)](https://www.fec.gov/data/candidate/P00011833/) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

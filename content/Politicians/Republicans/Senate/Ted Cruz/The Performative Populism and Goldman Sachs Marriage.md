@@ -9,11 +9,9 @@ source-types:
   - FEC
 known-gaps:
   - "No mapped relationships"
+related: "[[_Ted Cruz Master Profile]] · [[Goldman Sachs]] · [[Koch Industries]]"
 ---
-
 #cruz #texas #goldman-sachs #populist #energy #shutdown #performance
-
-related: [[_Ted Cruz Master Profile]] [[Goldman Sachs]] [[Koch Industries]]
 
 donors: [[Goldman Sachs]] [[Koch Industries]] [[ExxonMobil]] [[Chevron]]
 

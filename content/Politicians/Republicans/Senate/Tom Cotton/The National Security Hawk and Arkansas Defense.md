@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Tom Cotton Master Profile]] · [[_Marco Rubio Master Profile]]"
 ---
-
 #cotton #arkansas #national-security #china #iran #defense #hawk #intelligence
-
-related: [[_Tom Cotton Master Profile]] [[_Marco Rubio Master Profile]]
 
 donors: [[Lockheed Martin]] [[Raytheon (RTX)]] [[Walmart - Walton Family]]
 

@@ -23,7 +23,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, N.D. Illinois"
 ein: "394827006"
 nonprofit-status: "501(c)(3)"
-related: "[[Instacart]]"
+related: "[[Instacart]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Prop 22 - The $200M Corporate Rollback]]"
 doj-press-mentions: "264349"
 doj-components:
   - "Civil Rights Division"
@@ -37,11 +37,7 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 ---
-
-
 #flex-association #gig-economy #uber #lyft #doordash #instacart #prop-22 #worker-classification #lobbying #class-analysis #follow-the-money
-
-related: [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Prop 22 - The $200M Corporate Rollback]]
 
 ---
 
@@ -75,9 +71,6 @@ The Flex Association was created to prevent the need for another $205 million de
 ### Sources
 
 - [OpenSecrets. Uber, Lyft, DoorDash Political Contributions](https://lda.gov/filings/public/filing/search/) (Tier 1)
-
-research-status:: ready — permanent gig lobby est. 2021, Uber/Lyft/DoorDash/Instacart/Grubhub/Shipt founders, $205M Prop 22 pipeline, contractor classification defense, cross-party spending strategy. 2 sources, Tier 1-3. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ---
 

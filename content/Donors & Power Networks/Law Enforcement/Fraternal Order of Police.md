@@ -45,7 +45,7 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
   - "SC 14F1"
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]]"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]]"
 federal-register-mentions: 29
 regulatory-agencies:
   - "Defense Department"
@@ -69,10 +69,7 @@ politicians-funded:
   - "Markwayne Mullin"
   - "Sheldon Whitehouse"
 ---
-
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition
-
-related: [[CCPOA - California Correctional Peace Officers Association|CCPOA]] [[PORAC - Peace Officers Research Association of California|PORAC]]
 
 ---
 
@@ -106,8 +103,6 @@ Preservation of qualified immunity (which shields officers from personal liabili
 - [OpenSecrets: FOP political spending](https://www.opensecrets.org/orgs/fraternal-order-of-police/summary?id=D000031728) (Tier 1)
 - [FOP: Legislative priorities](https://fop.net/government-and-media-affairs/legislation-we-support/) (Tier 2)
 - [Ballotpedia: Fraternal Order of Police](https://ballotpedia.org/Fraternal_Order_of_Police) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

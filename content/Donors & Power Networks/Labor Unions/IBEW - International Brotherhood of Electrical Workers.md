@@ -28,15 +28,11 @@ regulatory-agencies:
 ein: "611602482"
 nonprofit-status: "501(c)(5)"
 total-political-spend: "$4,861,275"
-related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]] · [[Nancy Pelosi Master Profile]]"
+related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]] · [[Nancy Pelosi Master Profile]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[IBEW California State Association]] · [[California Building and Construction Trades Council]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[PG&E]] · [[California Labor Federation]]"
 lei: "984500ACFC0ND2E37927"
 lei-jurisdiction: "CA"
 ---
-
-
 #donor #union #IBEW #building-trades #labor #class-analysis #follow-the-money #california #national #pro-labor #infrastructure #clean-energy #prevailing-wage
-
-related: [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[IBEW California State Association]] · [[California Building and Construction Trades Council]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[PG&E]] · [[California Labor Federation]]
 
 ---
 
@@ -110,9 +106,6 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 - [FEC: IBEW PAC filings and campaign finance data](https://www.fec.gov/data/committee/C00027342/) (Tier 1)
 - [U.S. Department of Labor: Davis-Bacon prevailing wage](https://www.dol.gov/agencies/whd/government-contracts/prevailing-wage) (Tier 1)
 - [Congress.gov: Infrastructure Investment and Jobs Act (IIJA)](https://www.congress.gov/bill/117th-congress/house-bill/3684) (Tier 1)
-
-research-status:: ready — federal PAC spending ($20.77M 2024 cycle) confirmed via FEC/OpenSecrets. Policy wins (IIJA, IRA, Davis-Bacon) documented with Tier 1 sources. Class analysis complete — building trades structural position, clean energy transition, rank-and-file tension. All ### headers in place, sources tier-labeled. Promoted to ready Session 38h (March 23, 2026).
-content-readiness:: ready
 
 ---
 

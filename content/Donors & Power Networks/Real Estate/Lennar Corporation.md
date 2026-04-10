@@ -53,7 +53,7 @@ regulatory-agencies:
   - "Fish and Wildlife Service"
   - "Interior Department"
   - "Securities and Exchange Commission"
-related: "[[Housing - Donors and Backers]]"
+related: "[[Housing - Donors and Backers]] · [[National Association of Realtors]] · [[Blackstone Real Estate]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Ron DeSantis Master Profile|Ron DeSantis]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Carlos Gimenez Master Profile|Carlos Gimenez]] · [[Bipartisan Policy Center]]"
 source-types:
   - Courts
   - DOJ
@@ -66,10 +66,7 @@ known-gaps:
 lobbying-spend: 0
 lobbying-filings: 8
 ---
-
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
-
-related: [[National Association of Realtors]] [[Blackstone Real Estate]] [[Invitation Homes - Institutional Landlords]] [[Real Estate Industry Bloc]] [[Real Estate Development Industry Bloc]] [[_Gavin Newsom Master Profile|Gavin Newsom]] [[_Ron DeSantis Master Profile|Ron DeSantis]] [[_Donald Trump Master Profile|Donald Trump]] [[_Carlos Gimenez Master Profile|Carlos Gimenez]] [[Bipartisan Policy Center]]
 
 ---
 
@@ -200,8 +197,6 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 - [Seeking Rents (Jason Garcia): A homebuilding giant is lobbying for the power to collect endless profits from homeowners](https://jasongarcia.substack.com/p/a-homebuilding-giant-is-lobbying) (Tier 2)
 - [CBS San Francisco: Hunters Point Shipyard Residents Reach $6.3M Settlement In Radiation Lawsuit](https://www.cbsnews.com/sanfrancisco/news/hunters-point-shipyard-residents-radiation-settlement/) (Tier 2)
 - [Ballotpedia: Lennar Corporation](https://ballotpedia.org/Lennar_Corporation) (Tier 3)
-
-content-readiness:: developed
 
 ---
 

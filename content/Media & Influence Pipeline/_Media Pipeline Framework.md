@@ -10,7 +10,6 @@ related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Re
 
 #media-pipeline #methodology #framework #class-analysis
 
-
 ---
 
 ### Purpose
@@ -301,4 +300,3 @@ If this section doesn't work out:
 2. Remove the Media Pipeline section from `_VAULT_INDEX.md` (one edit)
 3. Done. Zero main vault files affected. Zero broken links. Zero stat changes.
 
-content-readiness:: ready

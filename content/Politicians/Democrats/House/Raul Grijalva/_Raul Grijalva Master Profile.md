@@ -23,16 +23,11 @@ bills-sponsored: 2
 bills-cosponsored: 122
 donors: '[[National Nurses United]]'
 opposes: '[[AMERICANS FOR TAX REFORM]]'
+related: "[[_Bruce Westerman Master Profile|Bruce Westerman]]"
 ---
-
-
 #raul-grijalva #democrat #arizona #house #ranking-member #natural-resources #public-lands #environment #mining #indigenous #progressive-caucus #deceased #phase-6-gavel-power
 
-related: [[_Bruce Westerman Master Profile|Bruce Westerman]]
-
 donors:
-
-profile-status:: ready · [[MOVEON.ORG POLITICAL ACTION]] · [[CAMPAIGN FOR COMMUNITY CHANGE]] · [[SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)]]
 
 ---
 ---
@@ -146,8 +141,6 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 - [Arizona Republic: Grijalva obituary](https://www.azcentral.com/story/news/politics/arizona/2025/03/13/raul-grijalva-arizona-congressman-dies/82378457007/) (Tier 2)
 - [Ballotpedia: Raul Grijalva](https://ballotpedia.org/Ra%C3%BAl_Grijalva) (Tier 3)
 - [Wikipedia: Raul Grijalva](https://en.wikipedia.org/wiki/Ra%C3%BAl_Grijalva) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

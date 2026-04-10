@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Healthcare - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Healthcare - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #environment #donors #backers #PGE #chevron #oil-industry #utility #follow-the-money #research-node #fossil-fuels #WSPA
 
-related: [[PG&E - The Utility Donor and the Wildfire Cover]] | [[Fracking and Oil Permits - Green Branding vs. Record]] | [[100% Clean Energy and the 2035 EV Mandate]] | [[_Gavin Newsom Master Profile]]
 donors: [[PG&E - Pacific Gas and Electric]] | [[Chevron]] | [[Occidental Petroleum]] | [[WSPA - Western States Petroleum Association]] | [[Elon Musk]]
 
 ---
@@ -120,4 +117,3 @@ California's 100% clean energy mandate (2045) and EV adoption targets are positi
 - [The Intercept: PG&E contributions and regulatory capture](https://theintercept.com/2019/11/04/pge-bailout-bankruptcy-lobbying/) (Tier 2)
 - [CalMatters: California environmental policy and fossil fuel industry spending](https://calmatters.org/category/environment/) (Tier 2)
 
-content-readiness:: ready

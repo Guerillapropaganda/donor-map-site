@@ -31,14 +31,11 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]]"
+related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master Profile|Menendez]]"
 ---
-
 #politician #democrat #house #florida #sugar #aipac #dnc #both-sides-illusion #class-analysis #follow-the-money
 
-related: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master Profile|Menendez]]
 donors: [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
-
-profile-status:: developed
 
 ---
 
@@ -138,9 +135,6 @@ The sugar program survives because both parties are funded by the same donors. W
 - [Wikipedia: Debbie Wasserman Schultz](https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz) (Tier 3)
 
 ---
-
-profile-status:: developed
-content-readiness:: developed
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

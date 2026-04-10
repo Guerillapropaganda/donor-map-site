@@ -13,7 +13,6 @@ donors: "[]"
 
 #media-pipeline #left #progressive #podcaster #independent-media #air-america #msnbc #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -166,4 +165,3 @@ Sam Seder represents **the progressive independent media model** — the audienc
 - [Salon: "MSNBC backtracks, rehires Sam Seder" (Dec 2017)](https://www.salon.com/2017/12/07/msnbc-backtracks-rehires-sam-seder-after-firing-him-in-response-to-mike-cernovich-led-campaign/) (Tier 2)
 ---
 
-content-readiness:: ready

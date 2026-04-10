@@ -30,12 +30,9 @@ sec-form-types:
   - "EX-99.1"
   - "FWP"
   - "PRE 14A"
-related: "[[Israel - Government Lobbying Operation]]"
+related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]]"
 ---
-
 #cufi #christian-zionism #israel #evangelical #hagee #lobbying #republican
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[DMFI - Democratic Majority for Israel]]
 
 ---
 
@@ -68,8 +65,6 @@ Unconditional U.S. support for Israel, opposition to Palestinian statehood, Jeru
 
 - [OpenSecrets: CUFI lobbying](https://www.opensecrets.org/orgs/christians-united-for-israel/summary?id=D000073926) (Tier 1)
 - [Ballotpedia: Christians United for Israel](https://ballotpedia.org/Christians_United_for_Israel) (Tier 3)
-
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

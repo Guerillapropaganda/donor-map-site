@@ -19,7 +19,7 @@ total-assets: 1534141
 total-political-spend: "$20,000"
 lobbying-spend: 650000
 lobbying-filings: 45
-related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]]"
+related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[Leonard Leo]] · [[Federalist Society]]"
 court-cases: 240
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
@@ -34,10 +34,7 @@ federal-register-mentions: 1
 regulatory-agencies:
   - "Executive Office of the President"
 ---
-
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor
-
-related: [[Sixteen Thirty Fund]] [[Arabella Advisors]] [[Democracy Alliance]] Brian Fallon [[Leonard Leo]] [[Federalist Society]] SCOTUS Judicial Appointments
 
 ---
 
@@ -184,9 +181,6 @@ Republicans frame judicial appointments as "restoring constitutional integrity."
 - [Ketanji Brown Jackson Confirmation Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1)
 
 ---
-
-research-status:: ready - Comprehensive dark money donor node mapping Demand Justice's judicial warfare infrastructure, $50M+ deployment timeline, judge vetting parallels to Federalist Society, core contradictions in Democratic dark money usage. 164 lines, 9 sources (Tier 1-3). Promoted Session 38k.
-content-readiness:: ready
 
 ---
 

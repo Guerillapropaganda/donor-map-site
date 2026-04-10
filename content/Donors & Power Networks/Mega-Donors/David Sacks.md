@@ -58,13 +58,10 @@ court-jurisdictions:
   - 'District Court, N.D. Ohio'
   - 'District Court, S.D. New York'
 donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[Narya Capital]] · [[Trump 2024 Campaign]]"
-related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]]"
 stories: '[[The Billionaire Cabinet - Wealthiest Administration in History]]'
 ---
-
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
-
-related: [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]]
 
 ---
 
@@ -408,8 +405,6 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 - [SFGATE: NYT Investigation](https://www.sfgate.com/tech/article/nyt-david-sacks-anger-allies-21217312.php) (Tier 2)
 - [Axios: Trump JD Vance Tech Fundraiser David Sacks](https://www.axios.com/2024/05/24/trump-jd-vance-tech-fundraiser-david-sacks) (Tier 2) (UNVERIFIED)
 - [DefenseScoop: Army Awards Anduril $20B Contract](https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/) (Tier 2)
-
-content-readiness:: developed
 
 ---
 

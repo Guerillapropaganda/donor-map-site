@@ -21,13 +21,9 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Billionaire Network]] · [[Cantor Fitzgerald Tether and the Crypto Reserve Play]] · [[Ted Cruz Master Profile]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[The Finance Committee and Tax Industry Alignment]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto and Tech - Donors and Backers]] · [[Patrick McHenry Master Profile]] · [[Nancy Mace]] · [[Fairshake and the Crypto Industry War]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Steve Witkoff]] · [[The AI-Crypto Czar and the Portfolio Conflict]] · [[Bernie Moreno]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]]"
+related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[The 2024 Tech Billionaire Network]] · [[Cantor Fitzgerald Tether and the Crypto Reserve Play]] · [[Ted Cruz Master Profile]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[The Finance Committee and Tax Industry Alignment]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto and Tech - Donors and Backers]] · [[Patrick McHenry Master Profile]] · [[Nancy Mace]] · [[Fairshake and the Crypto Industry War]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Steve Witkoff]] · [[The AI-Crypto Czar and the Portfolio Conflict]] · [[Bernie Moreno]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Jeff Yass]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]]"
 ---
-
-
 #donor #crypto #bitcoin #fairshake #deregulation #class-analysis #follow-the-money #trump #SEC #conflict-of-interest #coinbase #ripple #a16z
-
-related: [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Jeff Yass]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]]
 
 ---
 
@@ -231,9 +227,6 @@ Both sides are deploying in the same primaries as crypto and AIPAC money. In NC-
 - [CNBC: Anthropic Gives $20 Million to Group Pushing for AI Regulations](https://www.cnbc.com/2026/02/12/anthropic-gives-20-million-to-group-pushing-for-ai-regulations-.html) (Tier 2)
 - [The Nation: AI Is the New AIPAC](https://www.thenation.com/article/politics/ai-lobby-elections/) (Tier 2)
 - [OpenSecrets: Anthropic’s AI Safety Stance Clashes with Pentagon](https://www.opensecrets.org/news/2026/03/anthropics-ai-safety-stance-clashes-with-pentagon-and-reshapes-spending-on-primaries/) (Tier 1)
-
-research-status:: ready — Crypto industry bloc ($195M Fairshake spending, 91% win rate). Comprehensive analysis of donor structure (Coinbase $75M+, a16z $70M+, Ripple $50M+), regulatory capture (Gensler removed, Atkins installed), Trump family conflicts (WLF $1.2B, UAE $500M stake), legislative victories (GENIUS Act), lobbying infrastructure ($25M+ annual, 922% surge), and 2026 midterm deployment ($193M cash). 194 lines, 13 sources (Tier 1–2). All headers standardized to ###, all callout blocks verified, all citations formatted (Tier X). Ready for publication. Promoted Session 38k.
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

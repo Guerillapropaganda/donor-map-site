@@ -8,13 +8,11 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[2026 House Money Map]] · [[DCCC Red-to-Blue Targets 2026]]"
 ---
-
 #2026-election #house #california #race-frame #vulnerable-freshmen
 
 tags: #analysis #story
-
-related:: [[2026 House Money Map]] Adam Gray - Placeholder Derek Tran - Placeholder Republican House Defense 2026 [[DCCC Red-to-Blue Targets 2026]]
 
 donors:: Republican House Defense Super PACs Democratic House Majority PAC
 
@@ -127,5 +125,3 @@ Both races pit narrow margins against massive spending. The 2026 cycle will demo
 
 ---
 
-content-readiness:: ready
-research-status:: active

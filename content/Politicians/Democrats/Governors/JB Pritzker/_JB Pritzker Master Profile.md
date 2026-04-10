@@ -19,12 +19,10 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
+related: "[[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]]"
 ---
-
-
 #jb-pritzker #democrat #governor #illinois #hyatt #billionaire #self-funded #2028 #class-analysis
 
-related: [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]]
 donors: [[Democratic Governors Association]] · [[UNITE HERE]] · Illinois Labor Unions · Think Big America PAC
 
 profile-status:: ready

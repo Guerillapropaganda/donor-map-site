@@ -25,7 +25,7 @@ ein: 455097038
 annual-revenue: "$2.0M"
 net-assets: "$8.5M"
 tax-year: "2023"
-related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Pramila Jayapal]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[The Education Committee and Labor Alignment]] · [[Democratic Small Dollar Networks]]"
+related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Pramila Jayapal]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[The Education Committee and Labor Alignment]] · [[Democratic Small Dollar Networks]] · [[WinRed]] · [[Democratic Donor Network]] · [[Future Forward USA Action]] · [[Senate Majority PAC]] · [[House Majority PAC]]"
 court-cases: 140
 court-jurisdictions:
   - "District Court, C.D. California"
@@ -37,10 +37,7 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "United States Bankruptcy Court, D. Massachusetts"
 ---
-
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis
-
-related: ActBlue - Fraud Investigation · [[WinRed]] · [[Democratic Donor Network]] · [[Future Forward USA Action]] · [[Senate Majority PAC]] · [[House Majority PAC]] · Campaign Finance Reform
 
 ---
 
@@ -136,9 +133,6 @@ The structural difference is minor. Both are payment processors with embedded po
 - [FEC Advisory Opinion 2014-13: Contributions earmarked for multiple committees](https://www.fec.gov/updates/ao-2014-13-contributions-earmarked-for-multiple-committees/) (Tier 1)
 
 ---
-
-research-status:: ready — Full citation pass complete. $22.6B processed since 2004, 3.9% processing fee, earmark controversy, fraud investigation (TX AG, House subpoena), WinRed comparison, platform dominance as gatekeeper function. 8 sources, Tier 1-2. All ### headers. Promoted Session 38k.
-content-readiness:: ready
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

@@ -28,17 +28,14 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 4179564
 total-assets: 3694941
-related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]]"
+related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]]"
 fara-status: "registrant"
 fara-records: 4
 fara-countries:
   - "ERITREA"
   - "IRAN"
 ---
-
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy
-
-related: [[Heritage Foundation]] [[Federalist Society]] [[Leonard Leo]] [[Americans for Tax Reform - Grover Norquist]]
 
 ---
 
@@ -88,8 +85,6 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 
 - [IRS: CNP 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Council%20for%20National%20Policy&city=&state=All+States&country=US) (Tier 1)
 - [Ballotpedia: Council for National Policy](https://ballotpedia.org/Council_for_National_Policy) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

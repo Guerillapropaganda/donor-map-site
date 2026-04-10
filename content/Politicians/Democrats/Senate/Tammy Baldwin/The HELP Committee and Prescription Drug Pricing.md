@@ -5,11 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-26
 source-tier: 1
 parent: "[[_Tammy Baldwin Master Profile]]"
+related: "[[_Tammy Baldwin Master Profile]] · [[PhRMA]] · [[Eli Lilly]] · [[AbbVie]] · [[Blue Cross Blue Shield Association]]"
 ---
-
 #baldwin #wisconsin #help #drug-pricing #healthcare #insulin #biosimilars #fair-drug-pricing-act #ira #medicare
-
-related: [[_Tammy Baldwin Master Profile]] · [[PhRMA]] · [[Eli Lilly]] · [[AbbVie]] · [[Blue Cross Blue Shield Association]]
 
 donors: [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]]
 
@@ -121,4 +119,3 @@ The HELP Committee jurisdiction is not incidental to this analysis — it is the
 
 ---
 
-content-readiness:: developed

@@ -39,12 +39,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]]"
 ---
-
-
 #jon-ossoff #senate #georgia #documentary-filmmaker #tech-donors #entertainment #young-democrat #centrist #class-analysis
-
-related: [[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]]
 
 donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Hollywood Donors]]
 

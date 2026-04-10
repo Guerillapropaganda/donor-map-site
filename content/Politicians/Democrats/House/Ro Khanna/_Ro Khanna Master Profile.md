@@ -48,11 +48,9 @@ source-types:
 corroboration-count: 4
 known-gaps:
   - "No mapped relationships"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Google - Alphabet]] · [[Apple]] · [[Marc Andreessen & Horowitz]] · [[Google]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]]"
 ---
-
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028
-
-related: [[_Bernie Sanders Master Profile|Bernie Sanders]] [[_Pramila Jayapal Master Profile|Jayapal]] [[_Alexandria Ocasio-Cortez Master Profile|AOC]] [[Google - Alphabet]] [[Apple]] [[Marc Andreessen & Horowitz]] · [[Google]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]]
 
 donors: [[Google - Alphabet]] [[Apple]] [[Microsoft]]
 
@@ -262,9 +260,6 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 - [NBC News: Ro Khanna wonders who might lead Democrats in 2028](https://www.nbcnews.com/politics/congress/rep-ro-khanna-lead-democrats-2028-rcna201509) (Tier 2)
 - [Local News Matters: Silicon Valley's star fundraiser Khanna may have big dreams](https://localnewsmatters.org/2024/11/01/keeping-an-eye-on-the-future-silicon-valleys-star-fundraiser-khanna-may-have-big-dreams/) (Tier 2)
 - [Ballotpedia: Ro Khanna](https://ballotpedia.org/Ro_Khanna) (Tier 3)
-
-profile-status:: developed
-content-readiness:: developed
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

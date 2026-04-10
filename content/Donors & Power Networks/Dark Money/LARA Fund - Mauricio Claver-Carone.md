@@ -13,15 +13,12 @@ politicians-funded:
 issues:
   - "Infrastructure"
   - "Dark Money & Campaign Finance"
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]]"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
 ---
-
 #donor #private-equity #infrastructure #latin-america #cuba #revolving-door #dark-money #class-analysis #follow-the-money
-
-related: [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]
 
 ---
 
@@ -102,5 +99,3 @@ The LARA Fund is not a traditional donor node — it is the structural endpoint 
 
 ---
 
-research-status:: developed — Revolving door timeline complete, class analysis strong. Gaps: LARA Fund SEC filings for exact AUM and investor composition, Claver-Carone IDB ethics investigation details, LARA Fund portfolio companies (if any acquisitions completed), Claver-Carone personal FEC contributions (API DATA PENDING).
-content-readiness:: developed

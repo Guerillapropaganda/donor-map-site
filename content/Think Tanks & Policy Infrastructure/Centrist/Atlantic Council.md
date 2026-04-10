@@ -22,7 +22,6 @@ regulatory-agencies:
 
 #think-tank #centrist #NATO #defense-industry #foreign-government-funding #DFRLab #Burisma #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -235,8 +234,6 @@ The Burisma scandal reveals the corruption beneath the prestige. A Ukrainian ene
 - [Atlantic Council: Digital Forensic Research Lab](https://www.atlanticcouncil.org/programs/digital-forensic-research-lab/) (Tier 3)
 - [Brownstone Institute: Atlantic Council Takes Up the Censorship Sword — DFRLab Virality Project analysis (2023)](https://brownstone.org/articles/atlantic-council-takes-up-censorship-sword/) (Tier 3)
 - [Racket News (Matt Taibbi): Twitter Files Extra — How the World's "No-Kidding Decision Makers" Got Organized — DFRLab censorship-industrial complex role](https://www.racket.news/p/twitter-files-extra-how-the-worlds) (Tier 2)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

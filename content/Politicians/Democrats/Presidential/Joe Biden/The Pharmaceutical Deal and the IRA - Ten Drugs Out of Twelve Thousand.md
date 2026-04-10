@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Joe Biden Master Profile]]
+related: "[[_Joe Biden Master Profile]] · [[Pharmaceutical Industry]] · [[Pfizer]] · [[Moderna]] · [[UnitedHealth Group - Optum]]"
 ---
-
-
 #biden #inflation-reduction-act #pharmaceutical-industry #drug-pricing #class-analysis #follow-the-money #steve-richetti
 
-related: [[_Joe Biden Master Profile]] · [[Pharmaceutical Industry]] · [[Pfizer]] · [[Moderna]] · [[UnitedHealth Group - Optum]]
-
 donors: [[Pharmaceutical Industry]], [[Pfizer]], [[Moderna]], [[UnitedHealth Group - Optum]]
-
-content-readiness:: ready
 
 ---
 
@@ -149,6 +144,4 @@ This is the structural choice point: Biden could have pushed back against Sinema
 - [Sanders proposal: Medicare for All drug pricing framework](https://www.sanders.senate.gov/healthcare) (Tier 2)
 - [Bloomberg: Sinema demands watered-down drug pricing language](https://www.bloomberg.com/news/articles/2022-08-01/sinema-demands-weaker-drug-pricing-in-inflation-reduction-act) (Tier 2)
 - [Congress.gov: Inflation Reduction Act text, drug pricing section](https://www.congress.gov/bill/117th-congress/house-bill/5376/text) (Tier 1)
-
-content-readiness:: ready
 

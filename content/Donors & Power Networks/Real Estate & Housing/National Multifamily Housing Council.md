@@ -13,7 +13,7 @@ ein: "521127504"
 annual-revenue: "$26.6M"
 net-assets: "$20.2M"
 tax-year: "2023"
-related: "[[Blackstone Real Estate]]"
+related: "[[Blackstone Real Estate]] · [[National Rental Home Council]] · [[Bill Pulte]] · [[Scott Wiener]]"
 sec-filings: 1236
 sec-form-types:
   - "1-U"
@@ -60,10 +60,7 @@ doj-components:
   - "USAO - Louisiana, Eastern"
   - "USAO - Michigan, Western"
 ---
-
 #donor #real-estate #housing #trade-association #multifamily #bipartisan #lobbying #class-analysis #follow-the-money
-
-related: [[National Rental Home Council]] · [[Bill Pulte]] · [[Scott Wiener]]
 
 ---
 

@@ -7,12 +7,9 @@ source-tier: 1
 parent: [[_Jim Jordan Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Jim Jordan Master Profile]]"
 ---
-
-
 #jim-jordan #osu #strauss #wrestling #institutional-abuse #class-analysis
-
-related: [[_Jim Jordan Master Profile]]
 
 donors: (No specific donors identified in text)
 

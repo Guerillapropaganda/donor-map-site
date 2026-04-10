@@ -11,12 +11,9 @@ issues:
   - "Healthcare"
   - "Social Safety Net"
 federal-contracts: "5976"
-related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]] · [[Bob Casey]]"
+related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]] · [[Bob Casey]] · [[PhRMA]] · [[Pfizer]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Novo Nordisk]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Purdue Pharma - Sackler Family]]"
 ---
-
 #pharma #industry-bloc #lobbying #drug-pricing #patent #medicare #aca
-
-related: [[PhRMA]] [[Pfizer]] [[AbbVie]] [[Eli Lilly]] [[Merck]] [[Novo Nordisk]] [[Johnson & Johnson]] [[Gilead Sciences]] [[Purdue Pharma - Sackler Family]]
 
 ---
 
@@ -66,8 +63,6 @@ Medicare covers 4,000+ drugs. Negotiation on 10-20 drugs leaves 99%+ of the drug
 ### Sources
 
 - [FEC Receipts: Pharmaceutical industry lobbying totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-
-content-readiness:: ready
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->

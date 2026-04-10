@@ -7,12 +7,9 @@ source-tier: 2
 parent: [[_Susan Collins Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Susan Collins Master Profile]] · [[The Wall Street-Schumer Funding Axis]]"
 ---
-
-
 #susan-collins #blackstone #schwarzman #private-equity #carried-interest #tax-bill #class-analysis #follow-the-money
-
-related: [[_Susan Collins Master Profile]] · [[The Wall Street-Schumer Funding Axis]]
 
 donors: [[Stephen Schwarzman]]
 

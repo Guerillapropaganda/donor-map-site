@@ -67,7 +67,7 @@ tax-year: "2023"
 nonprofit-status: "501(c)(3)"
 total-revenue: 137336347
 total-assets: 12239451
-related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[The Whiteboard Populism and Legislative Limits]]"
+related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[The Whiteboard Populism and Legislative Limits]] · [[JPMorgan Chase]] · [[Bank of America]] · [[Citigroup]] · [[Goldman Sachs]]"
 subawards-issued: 2
 subawards-issued-amount: 72000
 subawards-received: 2
@@ -89,10 +89,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte
-
-related: [[JPMorgan Chase]] [[Bank of America]] [[Citigroup]] [[Goldman Sachs]]
 
 ---
 
@@ -129,8 +126,6 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 - [DOJ: Wells Fargo fake accounts settlement](https://www.justice.gov/archives/opa/pr/wells-fargo-agrees-pay-3-billion-resolve-criminal-and-civil-investigations-sales-practices) (Tier 1)
 - [Federal Reserve: Wells Fargo asset cap](https://www.federalreserve.gov/newsevents/pressreleases/enforcement20180202a.htm) (Tier 1)
 - [Ballotpedia: Wells Fargo](https://ballotpedia.org/Wells_Fargo) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->

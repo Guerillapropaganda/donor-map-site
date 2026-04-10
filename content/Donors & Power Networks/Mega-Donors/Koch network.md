@@ -18,14 +18,11 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
-related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]] · [[The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices]] · [[CalSTRS - California State Teachers' Retirement System]]"
+related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]] · [[The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch - Koch Industries]]"
 lei: "391200KFDASVUTIYEP51"
 lei-jurisdiction: "DE"
 ---
-
 #koch #network #dark-money #libertarian #deregulation #afp
-
-related: [[Koch Network - Charles Koch]] [[Americans for Prosperity]] [[Stand Together]] [[Koch - Koch Industries]]
 
 ---
 
@@ -44,8 +41,6 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 
 - [OpenSecrets: Koch network spending](https://www.opensecrets.org/outsidespending/donor_detail?cycle=2024&id=U0000003535&type=I&super=N&name=Koch+Industries) (Tier 1)
 - [Ballotpedia: Koch network](https://ballotpedia.org/Koch_network) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

@@ -8,12 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 
+related: "[[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Senate Leadership Fund]] · [[Citadel - Kenneth Griffin|Citadel]]"
 ---
-
 #investigation #contradiction #kenneth-griffin #citadel #republican #intra-party #class-analysis
 tags: #analysis #story
-
-related: _Kenneth Griffin Master Profile [[_Donald Trump Master Profile]] [[_Ron DeSantis Master Profile]] [[_Mitch McConnell Master Profile]] [[Senate Leadership Fund]] [[Citadel - Kenneth Griffin|Citadel]]
 
 ---
 
@@ -153,5 +151,3 @@ This is the illusion of political choice. The choice is between candidates. The 
 
 ---
 
-research-status:: ready — Full citation pass complete. Griffin $107M 2024 cycle, $20M DeSantis→pivot, $30M SLF McConnell, Citadel $65B AUM, $54M Illinois tax fight, carried interest protection, intra-party hedge as compressed bipartisan model. 33 sources Tier 1-3 with URLs. All ### headers. Promoted Session 39.
-content-readiness:: ready

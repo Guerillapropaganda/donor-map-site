@@ -18,12 +18,9 @@ nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-07"
 total-revenue: 56147294
 total-assets: 16493191
-related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]]"
+related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[Marathon Petroleum]] · [[_Gavin Newsom Master Profile|Gavin Newsom]]"
 ---
-
 #wspa #petroleum #california #lobbying #oil #gas #refining #cap-and-trade
-
-related: [[Fossil Fuel Bloc]] [[Chevron]] [[Marathon Petroleum]] [[_Gavin Newsom Master Profile|Gavin Newsom]]
 
 ---
 
@@ -50,8 +47,6 @@ WSPA's primary political function is fighting California's climate regulations: 
 - [FPPC: WSPA political expenditures](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [Senate LDA Filings: Petroleum industry lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Ballotpedia: California oil industry politics](https://ballotpedia.org/WSPA_-_Western_States_Petroleum_Association) (Tier 3)
-
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

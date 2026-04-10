@@ -12,7 +12,6 @@ related: "[[InfoWars]] · [[Roger Stone]] · [[Oath Keepers]] · [[Proud Boys]] 
 
 #media-pipeline #right #infowars #conspiracy #political-operative #trump #january-6 #bankruptcy #sandy-hook
 
-
 ---
 
 ### Who They Are
@@ -233,4 +232,3 @@ Patterns present: **Audience Capture** (psychological, financial, identity, and 
 
 ---
 
-content-readiness:: developed

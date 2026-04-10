@@ -22,7 +22,7 @@ top-naics-code: "325412"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
-related: "[[Merck]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Johnson & Johnson]] · [[AbbVie]] · [[UnitedHealth Group - Optum]]"
+related: "[[Merck]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Johnson & Johnson]] · [[AbbVie]] · [[UnitedHealth Group - Optum]] · [[Pfizer]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"
@@ -64,10 +64,7 @@ sec-form-types:
   - "S-8"
   - "SCHEDULE 13G/A"
 ---
-
 #moderna #pharma #mrna #covid #vaccine #pricing #nih #public-funding #patent
-
-related: [[Pfizer]] [[PhRMA]] [[Pharmaceutical Industry Bloc]]
 
 ---
 
@@ -101,8 +98,6 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 - [SEC: Moderna 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Moderna&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [OpenSecrets: Moderna lobbying](https://www.opensecrets.org/orgs/moderna-inc/summary?id=D000073555) (Tier 1)
 - [Ballotpedia: Moderna](https://ballotpedia.org/Moderna) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

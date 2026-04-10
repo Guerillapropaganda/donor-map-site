@@ -57,15 +57,11 @@ subawards-received: 50
 subawards-received-amount: 9882497978
 top-federal-agency: "Department of Transportation"
 top-naics-code: "336413"
-related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]]"
+related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]]"
 lei: "549300UTE50ZMDBG8A20"
 lei-jurisdiction: "US-DE"
 ---
-
-
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #electronic-warfare #space #missiles #iran #golden-dome #surveillance #communications
-
-related: [[Lockheed Martin]] [[Raytheon (RTX)|Raytheon]] [[Northrop Grumman]] [[Boeing]] [[General Dynamics]] [[_Donald Trump Master Profile|Trump]] [[The Iran War Money Trail - From Adelson to Airstrikes]] [[Heritage Foundation]]
 
 ---
 
@@ -282,7 +278,6 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 ---
 
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

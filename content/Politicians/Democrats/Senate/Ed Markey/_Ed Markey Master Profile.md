@@ -30,12 +30,9 @@ bills-sponsored: 116
 bills-cosponsored: 364
 website: "https://www.markey.senate.gov"
 phone: "202-224-2742"
+related: "[[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]]"
 ---
-
-
 #ed-markey #democrat #massachusetts #senate #ranking-member #small-business #commerce #telecom #green-new-deal #climate #childrens-privacy #coppa #aoc #telecommunications-act #phase-6-gavel-power
-
-related: [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] [[_Richard Blumenthal Master Profile|Richard Blumenthal]]
 
 donors:
 

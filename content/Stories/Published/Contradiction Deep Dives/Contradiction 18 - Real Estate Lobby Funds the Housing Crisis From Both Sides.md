@@ -7,13 +7,10 @@ source-tier: 2
 parent: null
 issues:
   - "Housing"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[_Jason Smith Master Profile|Jason Smith]] · [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]]"
 ---
-
 #investigation #contradiction #real-estate #housing #nar #zoning #rent-control #bipartisan-consensus #class-analysis #tax-policy
 tags: #analysis #story
-
-related: [[_Ted Cruz Master Profile|Ted Cruz]] [[_Steve Scalise Master Profile|Steve Scalise]] [[_Jason Smith Master Profile|Jason Smith]] [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]]
 
 ---
 
@@ -128,6 +125,3 @@ The result: housing costs rise, homeownership rates stagnate for working-class A
 
 ---
 
-research-status:: reference
-content-readiness:: developed
-                   

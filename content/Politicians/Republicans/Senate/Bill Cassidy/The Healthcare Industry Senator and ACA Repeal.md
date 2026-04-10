@@ -9,11 +9,9 @@ source-types:
   - Congress
 known-gaps:
   - "No mapped relationships"
+related: "[[_Bill Cassidy Master Profile]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]]"
 ---
-
 #cassidy #healthcare #louisiana #aca #energy #petrochemical #physician-senator
-
-related: [[_Bill Cassidy Master Profile]] [[Blue Cross Blue Shield Association]] [[PhRMA]]
 
 donors: [[PhRMA]] [[Blue Cross Blue Shield Association]] [[Hospital Corporation of America - HCA]]
 

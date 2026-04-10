@@ -14,7 +14,7 @@ issues:
 ein: "833690373"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"
-related: "[[DSCC - Democratic Senatorial Campaign Committee]]"
+related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]]"
 court-cases: 36
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"
@@ -23,10 +23,7 @@ court-jurisdictions:
   - "District Court, M.D. Georgia"
   - "District Court, N.D. Georgia"
 ---
-
 #majority-forward #dark-money #democratic #501c4 #senate #schumer #dark-money-symmetry
-
-related: [[Senate Majority PAC]] [[_Chuck Schumer Master Profile|Schumer]] [[New Venture Fund]] [[Sixteen Thirty Fund]] [[Advocacy Fund]] [[Democratic Senatorial Campaign Committee]]
 
 ---
 
@@ -122,7 +119,6 @@ The organization's spending does not target specific policy outcomes — it targ
 - [InfluenceWatch: Majority Forward profile](https://www.influencewatch.org/non-profit/majority-forward/) (Tier 3)
 - [Ballotpedia: Majority Forward](https://ballotpedia.org/Majority_Forward) (Tier 3)
 
-content-readiness:: developed
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

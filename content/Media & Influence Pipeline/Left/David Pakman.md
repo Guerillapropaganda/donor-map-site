@@ -13,7 +13,6 @@ donors: "[[Sixteen Thirty Fund]] (Chorus Creator Incubator Program, disclosed Au
 
 #media-profile #left #progressive #youtube #democratic-party #dark-money #chorus #sixteen-thirty-fund #immigrant
 
-
 ---
 
 ### Who They Are
@@ -164,4 +163,3 @@ David Pakman represents **the institutionally connected left** — progressive m
 
 ---
 
-content-readiness:: ready

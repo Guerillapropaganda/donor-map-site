@@ -12,7 +12,6 @@ related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Founda
 
 #media-pipeline #right #anti-dei #manhattan-institute #policy-architect #dark-money #donorstrust #bradley-foundation
 
-
 ---
 
 ### Who They Are
@@ -195,4 +194,3 @@ Triple-income-stream architecture means that even if one funding source dries up
 - [The Chronicle of Higher Education: "New College's Enrollment Crisis and Rufo's Radical Restructuring"](https://www.chronicle.com/articles/new-college-enrollment-crisis) (Tier 3)
 - [Marginal Revolution: "New College of Florida's Cost Per Student Rises to $134K"](https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html) (Tier 3)
 
-content-readiness:: developed

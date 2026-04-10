@@ -5,17 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Hakeem Jeffries Master Profile]]
-related: "[[The Real Estate Money and Brooklyn's Gentrification Politics]]"
+related: "[[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 ---
-
-
 #hakeem-jeffries #nancy-pelosi #dccc #leadership-pac #corporate-democrat #aipac #donor-class #class-analysis
 
-related: [[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]
-
 donors: [[AIPAC - American Israel Public Affairs Committee]] · DCCC Donor Network
-
-content-readiness:: ready
 
 ---
 

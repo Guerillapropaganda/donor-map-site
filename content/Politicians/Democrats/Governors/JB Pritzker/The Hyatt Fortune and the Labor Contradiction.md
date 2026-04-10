@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_JB Pritzker Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_JB Pritzker Master Profile]]"
 ---
-
-
 #jb-pritzker #hyatt #labor #unite-here #worker-exploitation #class-analysis
 
-related: [[_JB Pritzker Master Profile]]
 donors: [[SEIU - Service Employees International Union|SEIU]], UNITE HERE - Hotel and Service Workers
 
 content-readiness:: ready

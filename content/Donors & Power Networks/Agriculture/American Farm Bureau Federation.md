@@ -58,7 +58,7 @@ sec-form-types:
   - "PRE 14A"
   - "SC TO-I"
   - "SC TO-I/A"
-related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]]"
+related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]]"
 court-cases: 330
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -84,11 +84,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Interior Department"
 ---
-
-
 #donor #agriculture #lobbying #insurance #corporate-agriculture #epa #deregulation #farm-bill #trade #labor
-
-related: [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] [[Koch Network - Charles Koch]] [[_Donald Trump Master Profile|Trump]]
 
 ---
 
@@ -274,8 +270,6 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 - [Wikipedia: American Farm Bureau Federation](https://en.wikipedia.org/wiki/American_Farm_Bureau_Federation) (Tier 3) (VERIFIED)
 
 ---
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

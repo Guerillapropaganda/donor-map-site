@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-08
 source-tier: null
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]]"
+related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]] · [[Research Methodology and Data Sources]] · [[Session Timeline]]"
 source-types:
   - Congress
   - FEC
@@ -15,11 +15,7 @@ source-types:
   - USASpending
 corroboration-count: 6
 ---
-
-
 #sources #methodology #reference #research-tools #databases #vault-maintenance
-
-related: [[Research Methodology and Data Sources]] [[Session Timeline]]
 
 ---
 

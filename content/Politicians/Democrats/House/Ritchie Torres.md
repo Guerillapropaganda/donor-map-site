@@ -8,14 +8,11 @@ parent: null
 total-received: "$5,052,480"
 fec-candidate-id: "H0NY15160"
 donors: "[[AFSCME - American Federation of State County and Municipal Employees]]"
-related: "[[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[NORPAC]]"
+related: "[[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[NORPAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[Demand Justice]]"
 ---
-
 #master-profile #democrat #house #bronx #new-york #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #crypto #class-contradiction
 
 tags: #democrat
-
-related: [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[Demand Justice]] · Congressional Progressive Caucus · Democratic Party Establishment
 
 donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[NORPAC]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]]
 
@@ -99,9 +96,6 @@ Example 4: District Abandonment. Torres's stated priority is addressing Bronx ho
 - [Wikipedia: Ritchie Torres](https://en.wikipedia.org/wiki/Ritchie_Torres) (Tier 3)
 
 ---
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

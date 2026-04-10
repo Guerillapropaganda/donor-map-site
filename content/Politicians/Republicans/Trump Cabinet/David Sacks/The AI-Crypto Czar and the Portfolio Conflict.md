@@ -5,11 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_David Sacks Master Profile]]
+related: "[[_David Sacks Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]"
 ---
-
 #david-sacks #ai-czar #crypto-czar #craft-ventures #conflicts-of-interest #regulatory-capture #palantir #deregulation #special-government-employee #class-analysis
 
-related: [[_David Sacks Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]
 donors: [[Craft Ventures]]
 
 ---
@@ -95,4 +94,3 @@ The core problem is not the specific holdings Sacks disclosed — it's the portf
 - [Palantir: Corporate AI capabilities description](https://www.palantir.com/platforms/aip/) (Tier 2)
 - [OpenSecrets: David Sacks donor history](https://www.opensecrets.org/donor-lookup/results?name=david+sacks) (Tier 1)
 
-content-readiness:: ready

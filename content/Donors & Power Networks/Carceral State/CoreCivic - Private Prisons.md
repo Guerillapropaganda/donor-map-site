@@ -24,12 +24,9 @@ doj-components:
   - "USAO - New York, Northern"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]]"
 ---
-
 #corecivic #private-prison #carceral #cca #immigration #detention #lobbying #incarceration #ice #revolving-door #trump
-
-related: [[GEO Group]] [[Prison Policy Initiative]] [[Fraternal Order of Police]]
 
 ---
 
@@ -150,8 +147,6 @@ Immigration enforcement and ICE funding, criminal justice reform, mandatory mini
 - [Tennessee Lookout: CoreCivic saw 55% increase in immigration detainee contracts](https://tennesseelookout.com/2025/11/06/private-prison-operator-corecivic-saw-55-increase-in-immigration-detainee-contracts/) (Tier 2) (VERIFIED)
 - [CNN: Biden promised but failed to end federal use of private prisons](https://www.cnn.com/2025/02/05/politics/private-prisons-poised-to-expand-under-trump-invs/index.html) (Tier 2) (VERIFIED)
 - ~~[Ballotpedia: CoreCivic](https://ballotpedia.org/CoreCivic)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-
-content-readiness:: developed
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

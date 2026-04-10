@@ -21,12 +21,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bianco Master Profile]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Fossil Fuel Bloc]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]]"
 ---
-
-
 #abbott #governor #texas #republican #border-wall #immigration #fossil-fuel #deregulation #operation-lone-star #class-analysis #follow-the-money #tort-reform
-
-related: [[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bianco Master Profile]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Fossil Fuel Bloc]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]]
 
 donors: [[Timothy Mellon]] · Javaid Anwar - Midland Oil Executive · [[Koch Network - Charles Koch]] · [[Kelcy Warren - Energy Transfer Partners]]
 

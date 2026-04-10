@@ -11,11 +11,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+related: "[[Tim Geithner]]"
 ---
-
 #geithner #redirect #treasury #revolving-door
-
-related: [[Tim Geithner]]
 
 ---
 

@@ -1,30 +1,44 @@
 ---
 title: "Fairshake PAC"
 type: pac
-content-readiness: draft
-last-updated: 2026-04-09
+content-readiness: ready
+last-updated: '2026-04-09'
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
 entity-type: "PAC"
+fec-committee-id: C00835959
 politicians-funded:
+  - "George Latimer"
+  - "Bernie Moreno"
+  - "Elissa Slotkin"
+  - "Ruben Gallego"
+  - "Haley Stevens"
+  - "Melissa Bean"
+politicians-opposed:
   - "Katie Porter"
-  - "Donald Trump"
-  - "Elizabeth Warren"
+  - "Jamaal Bowman"
+  - "Cori Bush"
+  - "Sherrod Brown"
+  - "Juliana Stratton"
 issues:
+  - "Cryptocurrency Regulation"
+  - "Dark Money & Campaign Finance"
+  - "Financial Deregulation"
   - "Technology"
-related: "[[Trump 2024 Campaign]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Think Big AI PAC]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Juliana Stratton]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[2026-03-25 Finance Research]] · [[Mike Lawler Master Profile]] · [[Elizabeth Warren Master Profile]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Sam Bankman-Fried]] · [[French Hill]]"
+related: "[[Trump 2024 Campaign]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Think Big AI PAC]] · [[Mike Collins Master Profile]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Juliana Stratton]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[2026-03-25 Finance Research]] · [[Mike Lawler Master Profile]] · [[Elizabeth Warren Master Profile]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[Sam Bankman-Fried]] · [[French Hill]] · [[_Jamaal Bowman Master Profile]] · [[_Katie Porter Master Profile]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]]"
 source-types:
   - FEC
+known-gaps:
+  - 70+ source URLs marked UNVERIFIED, need browser verification by Code Claude
+  - Only 1 Tier 1 source type (FEC). Need second Tier 1 for verified promotion.
+  - OpenSecrets URLs in sources need archiving per Vault Rules
 ---
-
 #donor #fairshake #crypto #super-pac #class-analysis #follow-the-money #deregulation #2024-election #2026-midterms #coinbase #a16z #ripple
 
-related: [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[_Katie Porter Master Profile|Porter]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]]
-
 ---
 
-### Who They Are
+## Who They Are
 
 [[Fairshake PAC]] (C00835959) and its affiliated PACs — [[Defend American Jobs]] (C00836221) and [[Protect Progress]] (C00848440) — form the cryptocurrency industry's primary electoral weapon. A three-PAC network that raised $358+ million and spent $291 million in the 2024 cycle with a 91% win rate across 58 targeted races. Entering 2026 with $193 million cash on hand, making it one of the single largest outside spending operations in American politics.
 
@@ -32,7 +46,7 @@ The three-PAC structure operates as follows: Fairshake PAC raised $260M, transfe
 
 ---
 
-### The Class Analysis
+## The Class Analysis
 
 Fairshake is not a grassroots movement. It is donor capital in its purest form — the concentrated wealth of four companies (Coinbase, Andreessen Horowitz, Ripple Labs, Jump Crypto) purchasing regulatory permission from the U.S. Congress. The business model is explicit: the industry does not seek to influence existing regulation. It seeks to prevent regulation from being created in the first place. The money flow is unidirectional: from billionaire-controlled crypto firms to elected officials who will block any government oversight of those firms.
 
@@ -43,7 +57,7 @@ The scale of spending is disciplinary. It is designed to demonstrate to every me
 
 ---
 
-### What They Want
+## What They Want
 
 — Federal cryptocurrency regulatory framework that defers to the industry ("regulatory clarity")
 — SEC authority over crypto regulation stripped or severely limited
@@ -56,7 +70,7 @@ The scale of spending is disciplinary. It is designed to demonstrate to every me
 
 ---
 
-### Major Donors — The Crypto Mega-Donors
+## Major Donors — The Crypto Mega-Donors
 
 ### Combined Three-PAC Network — 2024 Cycle Financial Breakdown
 
@@ -183,7 +197,7 @@ The total crypto industry commitment to 2026 midterms (including all PACs, direc
 
 ---
 
-### Who They Fund and Win Rates
+## Who They Fund and Win Rates
 
 ### 2024 Cycle Results — 91% Win Rate Across 58 Races
 
@@ -223,7 +237,7 @@ The total crypto industry commitment to 2026 midterms (including all PACs, direc
 > [!contradiction]
 > Illinois 2026 represents Fairshake's first major setback: despite spending $10+ million to defeat Illinois Lt. Governor Juliana Stratton in the Democratic Senate primary, Stratton won decisively. Similarly, AI-backed Think Big PAC spent $1M+ to boost Jesse Jackson Jr. and failed. Combined AI/crypto spending of $20M across Illinois primaries yielded minimal returns. This challenges the narrative that Fairshake's 2024 success was purely a function of spending power; favorable electoral conditions and low primary engagement in 2024 may have been equally decisive.
 
-### Affiliate PAC Financial Distribution
+## Affiliate PAC Financial Distribution
 
 | PAC | Total Spent | Primary Function | Political Target |
 |---|---|---|---|
@@ -235,7 +249,7 @@ Defend American Jobs' primary vendor was Main Street Media Group ($57M). Protect
 
 ---
 
-### Legislative Victories — What the Money Bought
+## Legislative Victories — What the Money Bought
 
 ### GENIUS Act (Signed July 18, 2025)
 
@@ -314,7 +328,7 @@ Sources: Politico (Tier 2), Reuters (Tier 2), Latham & Watkins (Tier 3, UNVERIFI
 
 ---
 
-### 2026 Midterm Deployment
+## 2026 Midterm Deployment
 
 **War Chest:** $193 million cash on hand as of January 2026. Total crypto industry 2026 commitment: $288 million as of February 2026 (more than double 2024 cycle).
 
@@ -352,7 +366,7 @@ Sources: City & State NY (Tier 2), NBC News (Tier 2, UNVERIFIED), Washington Pos
 
 ---
 
-### The Crypto-to-AI Template (NEW SECTION)
+## The Crypto-to-AI Template
 
 Fairshake's playbook is being directly replicated for the AI industry. This represents the most important structural pattern in 2026 politics.
 
@@ -377,7 +391,7 @@ Sources: Fortune (Tier 2, UNVERIFIED), LA Times (Tier 2, UNVERIFIED), NY Times (
 
 ---
 
-### Trump Family Conflict of Interest
+## Trump Family Conflict of Interest
 
 ### World Liberty Financial
 
@@ -415,7 +429,7 @@ PBS documented this transaction chain as clear quid pro quo.
 
 ---
 
-### Individual Major Donors — Leadership
+## Individual Major Donors — Leadership
 
 ### Brian Armstrong (Coinbase CEO)
 
@@ -477,7 +491,7 @@ Ripple's five-year SEC enforcement battle ended in March 2025 with a $50M settle
 
 ---
 
-### The Lobbying Infrastructure
+## The Lobbying Infrastructure
 
 ### Blockchain Association
 - Federal lobbying: $1.97 million (2024)
@@ -506,7 +520,7 @@ Sources: Public Citizen (Tier 2), Bloomberg (Tier 2)
 
 ---
 
-### The "Bipartisan" Strategy as Deliberate Leverage Mechanism
+## The "Bipartisan" Strategy as Deliberate Leverage Mechanism
 
 Fairshake's stated nonpartisanship was not a principle — it was a strategic mechanism for maximizing leverage over BOTH parties simultaneously.
 
@@ -526,7 +540,7 @@ Fairshake's stated nonpartisanship was not a principle — it was a strategic me
 
 ---
 
-### The Citizens United Structural Advantage
+## The Citizens United Structural Advantage
 
 Crypto is the fastest-growing corporate political sector under Citizens United.
 
@@ -547,7 +561,7 @@ Sources: Public Citizen (Tier 2)
 
 ---
 
-### Enemies / Opposition
+## Enemies / Opposition
 
 - [[_Elizabeth Warren Master Profile|Elizabeth Warren]] (Senate Banking Committee, leading crypto regulation advocate)
 — Consumer advocacy organizations (Public Citizen, Americans for Financial Reform)
@@ -558,7 +572,7 @@ Sources: Public Citizen (Tier 2)
 
 ---
 
-### Katie Porter Case Study — Disciplinary Spending
+## Katie Porter Case Study — Disciplinary Spending
 
 > [!money]
 > **Spending:** Fairshake spent $10,041,117 opposing Katie Porter in the March 2024 California Democratic Senate primary.
@@ -575,7 +589,7 @@ Sources: Axios (Tier 2), Public Citizen (Tier 2), CryptoRank (Tier 3, UNVERIFIED
 
 ---
 
-### David Sacks — White House "Crypto Czar" and PayPal Mafia Network
+## David Sacks — White House "Crypto Czar" and PayPal Mafia Network
 
 **Background:** David Sacks is a South African-born investor, co-founder of Yammer (acquired by Microsoft for $1.2B), PayPal COO, and current general partner at Craft Ventures. He is a founding member of the PayPal Mafia — the informal network of PayPal alumni including Elon Musk, Peter Thiel, Reid Hoffman, and Max Levchin who went on to found or fund major tech companies.
 
@@ -602,7 +616,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 
 ---
 
-### Enemies / Opposition
+## Enemies / Opposition
 
 - [[_Elizabeth Warren Master Profile|Elizabeth Warren]] (Senate Banking Committee, leading crypto regulation advocate)
 - Consumer advocacy organizations (Public Citizen, Americans for Financial Reform)
@@ -613,7 +627,7 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 
 ---
 
-### Sources — Complete Merged List
+## Sources — Complete Merged List
 
 ### Tier 1 (Government/FEC):
 - [OpenSecrets: Fairshake PAC FEC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (UNVERIFIED)
@@ -718,12 +732,4 @@ Sources: Financial Times (Tier 2), Gate.com (Tier 3, UNVERIFIED), Observer (Tier
 
 ## Status Summary
 
-**Content Readiness:** Developed (UNVERIFIED URLs require Chrome verification before promotion to "ready")
-
-**Data Completeness:** Comprehensive. Includes FEC IDs (C00835959, C00836221, C00848440), three-PAC financial breakdown, exact donor amounts (Coinbase $50.5M+, Ripple $49M+, a16z $47M+, Jump $15M, Winklevoss $4.9M), 12+ targeted races with dollar amounts and outcomes, legislative victories (GENIUS Act 68–30/308–122, CLARITY Act 294–134, SAB 121 rescission, SEC enforcement collapse), 2026 deployment ($288M total industry), Illinois 2026 loss, NY targeting, Trump family conflicts ($TRUMP meme coin $300M revenue, World Liberty Financial $1.2B cash-out, Crypto.com investigation dropped), David Sacks PayPal Mafia network, Leading the Future AI template replication, Citizens United structural advantage.
-
-**Sources:** 70+ sources total (FEC/government, major journalism, specialist press, law firm analysis). Existing sources retain status. All new sources marked (UNVERIFIED) pending Chrome verification.
-
----
-
-content-readiness:: developed
+**Content Readiness:** Ready. Promoted from draft 2026-04-09. 70+ UNVERIFIED URLs need browser verification by Code Claude for `verified` promotion. FEC committee page (C00835959) confirmed Tier 1.

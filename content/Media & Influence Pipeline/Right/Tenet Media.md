@@ -12,7 +12,6 @@ related: "[[Tim Pool]] · [[Dave Rubin]] · [[Benny Johnson]] · [[Lauren Southe
 
 #media-pipeline #right #media-network #dark-money #russian-money #doj-indictment #tenet-media #foreign-influence #fara
 
-
 ---
 
 ### Who They Are
@@ -213,4 +212,3 @@ Patterns present: **Dark Money Laundering** (the canonical case — foreign stat
 
 ---
 
-content-readiness:: ready

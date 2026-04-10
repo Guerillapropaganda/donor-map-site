@@ -12,7 +12,6 @@ related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network -
 
 #media-pipeline #centrist #CNN #corporate-media #institutional-capture #warner-bros-discovery #paramount
 
-
 ---
 
 ### Who They Are
@@ -187,4 +186,3 @@ The Paramount acquisition is the denouement. Under WBD, CNN moderated. Under Par
 - [CNN: Abby Phillip NewsNight lineup announcement](https://edition.cnn.com/2023/08/14/media/cnn-prime-time-lineup) (Tier 2)
 - [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1)
 
-content-readiness:: ready

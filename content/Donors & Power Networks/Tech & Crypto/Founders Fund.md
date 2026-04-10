@@ -22,7 +22,7 @@ net-assets: "$421K"
 tax-year: "2023"
 lei: "254900B4R5J7N0865R59"
 lei-jurisdiction: "LU"
-related: "[[Joe Rogan]] · [[Invariant]] · [[Ajay Royan]]"
+related: "[[Joe Rogan]] · [[Invariant]] · [[Ajay Royan]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Mithril Capital]] · [[Elon Musk]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]]"
 court-cases: 157
 last-enriched: "2026-04-09"
 court-jurisdictions:
@@ -67,10 +67,7 @@ doj-components:
   - "USAO - Minnesota"
   - "USAO - New Jersey"
 ---
-
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money
-
-related: [[Peter Thiel]] · [[Palantir Technologies]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Mithril Capital]] · [[Elon Musk]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]]
 
 ---
 
@@ -202,9 +199,6 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 - [Ballotpedia: Founders Fund](https://ballotpedia.org/Founders_Fund) (Tier 3)
 
 ---
-
-research-status:: developed — Full donor spending data from FEC/OpenSecrets, donation-to-policy timeline with 8 entries, Palantir and Anduril contract documentation, PayPal Mafia personnel placement documented. Gaps: Founders Fund LP disclosure (private — may not be obtainable), Thiel's pre-2020 contribution history needs deeper FEC pull, Narya Capital (Vance's fund) relationship to Founders Fund needs more documentation.
-content-readiness:: developed
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->

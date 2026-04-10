@@ -5,12 +5,10 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Kamala Harris Master Profile]]
+related: "[[_Kamala Harris Master Profile]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[The Prosecutor Record - DA and AG]] · [[Senate Record and 2020 Primary]]"
 ---
-
-
 #harris #vice-president #labor #class-analysis #follow-the-money #iija #ira #davis-bacon #nlrb #pro-act #prevailing-wage #ibew
 
-related: [[_Kamala Harris Master Profile]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[The Prosecutor Record - DA and AG]] · [[Senate Record and 2020 Primary]]
 donors: [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[California Labor Federation]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[California Building and Construction Trades Council]] · [[Koch Network - Charles Koch]]
 
 ---
@@ -179,5 +177,3 @@ Harris as VP had veto power (tie-breaking votes), not initiation power. Labor go
 ### Amazon:
 - [The Hill: Coverage of labor issues and federal contracts](https://thehill.com/?s=VP%20Labor%20Record%20-%20What%20Unions%20Got%20and%20Didn%27t%20Get) (Tier 2)
 
-research-status:: ready — Full citation pass complete. 33 tie-breaking votes (VP record), Abruzzo NLRB confirmation, IIJA $1.2T (Davis-Bacon prevailing wage), IRA $369B (5x prevailing wage bonus), Davis-Bacon modernization (first in 40 years), PRO Act failure (filibuster), Janus non-reversal, single-payer abandonment, Amazon accountability gap. 18 sources Tier 1-2 with URLs. All ### headers. Promoted Session 38n.
-content-readiness:: ready

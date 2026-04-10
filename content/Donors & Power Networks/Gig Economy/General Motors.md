@@ -35,17 +35,14 @@ subawards-received: 1
 subawards-received-amount: 68510
 top-federal-agency: "General Services Administration"
 top-naics-code: "336111"
-related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]]"
+related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Ford Motor Company]] · [[UAW - United Auto Workers]] · [[_Joe Biden Master Profile|Biden]] · [[_Barack Obama Master Profile|Obama]]"
 lei: "6488WGUD2TY76047V783"
 lei-jurisdiction: "IN"
 nonprofit-status: "501(c)(3)"
 total-revenue: 95059
 total-assets: 13703
 ---
-
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
-
-related: [[Ford Motor Company]] [[UAW - United Auto Workers]] [[_Joe Biden Master Profile|Biden]] [[_Barack Obama Master Profile|Obama]]
 
 ---
 
@@ -109,7 +106,6 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 - [OpenSecrets: General Motors PAC and lobbying](https://www.opensecrets.org/orgs/general-motors/summary?id=D000000155) (Tier 1)
 - [Ballotpedia: Auto industry political spending](https://ballotpedia.org/General_Motors) (Tier 3)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

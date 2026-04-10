@@ -11,14 +11,9 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Healthcare"
   - "Defense & Military"
-related: "[[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]]"
+related: "[[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Chuck Schumer Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 ---
-
 #schumer #mcconnell #both-sides #donor-class #wall-street #goldman-sachs #aipac #dark-money #pharma #defense #class-analysis #follow-the-money #senate-leadership
-
-related: [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Chuck Schumer Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]
-
-content-readiness:: developed
 
 ---
 
@@ -141,5 +136,3 @@ The result: eighteen combined years of Senate floor control — under both major
 - [CREW: FTX fraudsters bolstered McConnell dark money group](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2)
 - [Public Integrity: How Democrats use dark money and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)
 
-research-status:: Developed — full URL verification pass completed 2026-03-26. All 10 source URLs verified via Chrome load test: 5× OpenSecrets (Schumer career, McConnell career, Goldman Sachs, Lockheed Martin PAC 2024, Senate Leadership Fund), Times of Israel (AIPAC confab), STAT News (McConnell drug bill), CREW (One Nation $172M), CREW (FTX dark money), Center for Public Integrity (Democrat dark money). 5 sectors mapped: dark money ($521M combined in 2022 alone), Goldman Sachs ($39M bipartisan since 1989), AIPAC (both addressed 2024 summit as co-headliners), pharma (HR3 blocked / IRA negotiated to limit), defense (Lockheed PAC 42%D/57%R split). Format 3 timeline table on dark money mirror (7 rows). 4 money callouts, 3 contradiction callouts. All wikilinks use alias syntax.
-content-readiness:: developed

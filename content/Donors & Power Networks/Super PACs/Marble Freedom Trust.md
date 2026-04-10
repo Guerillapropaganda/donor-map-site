@@ -12,12 +12,9 @@ issues:
 ein: "850784793"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
-related: "[[Sentinel Action Fund]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]]"
+related: "[[Sentinel Action Fund]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Leonard Leo]] · [[Federalist Society]] · [[Barre Seid]] · [[The 85 Fund]]"
 ---
-
 #donor #dark-money #judicial-capture #leonard-leo #conservative #mega-donation #federalist-society
-
-related: [[Leonard Leo]] [[Federalist Society]] [[Barre Seid]] [[The 85 Fund]] Judicial Capture Landscape Supreme Court Conservative Network
 
 ---
 
@@ -116,9 +113,6 @@ The contradiction is explicit: the organization claims to defend constitutional 
 - [North Carolina Supreme Court 2022 election results and downstream policy](https://ballotpedia.org/North_Carolina_Supreme_Court) (Tier 3)
 
 ---
-
-research-status:: ready — $1.6B Barre Seid transfer, Leo-controlled 501(c)(4), $140-180M annual distribution, Federalist Society $45M, The 85 Fund $60M, state court flips (NC, WI, MI), 218 federal judges, Dobbs, CRC Advisors fees. 7 sources, Tier 1-3. All ### headers. Promoted Session 38l.
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

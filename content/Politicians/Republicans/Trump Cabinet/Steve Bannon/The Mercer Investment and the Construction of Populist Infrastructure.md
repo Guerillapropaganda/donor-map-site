@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Steve Bannon Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Steve Bannon Master Profile]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]]"
 ---
-
-
 #steve-bannon #robert-mercer #rebekah-mercer #breitbart #cambridge-analytica #gai #club-for-growth #class-analysis
 
-related: [[_Steve Bannon Master Profile]] [[Robert Mercer]] [[Rebekah Mercer]] [[Cambridge Analytica and the Data Weaponization of Elections]] [[Breitbart News and the Mercer-Bannon Media Pipeline]]
 donors: [[Robert Mercer]], [[Rebekah Mercer]]
 
 content-readiness:: ready

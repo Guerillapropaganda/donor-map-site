@@ -53,12 +53,9 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Mithril Capital]] · [[Ajay Royan]]"
+related: "[[Mithril Capital]] · [[Ajay Royan]] · [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]]"
 ---
-
 #narya-capital #jd-vance #venture-capital #thiel #tech #ohio #appalachia #defense #carried-interest #conflict-of-interest
-
-related: [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]]
 
 ---
 
@@ -172,9 +169,6 @@ The analytical pattern is **Revolving Door** plus **Donor-Class Override** in co
 - [Ballotpedia: Narya Capital](https://ballotpedia.org/Narya_Capital) (Tier 3)
 
 ---
-
-research-status:: developed — Core financial structure, portfolio companies, and political ROI sourced to Tier 1–2. AppHarvest labor abuse documented via CNN (Tier 2). True Anomaly defense conflict sourced via Sludge (Tier 2). Carried interest conflict via Jacobin (Tier 3 — uses public filings). Thiel $15M PAC figure confirmed via Axios/TechCrunch. All URLs Chrome-verified March 26, 2026. Gaps: Vance's exact Narya equity percentage not in public record; individual portfolio company DoD contract dollar amounts require procurement database check. Protect Ohio Values PAC primary FEC record not yet pulled. Promote to ready requires: FEC primary source for Thiel $15M PAC figure, DoD contract figures for True Anomaly if available.
-content-readiness:: developed
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

@@ -21,12 +21,9 @@ ein: "852656340"
 nonprofit-status: "501(c)(4)"
 total-revenue: 9647510
 total-assets: 714325
-related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving Door Explosion of 2025]]"
+related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving Door Explosion of 2025]] · [[American Action Network]] · [[Senate Leadership Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
 ---
-
 #donor-node #super-pac #republican #house #leadership-pac #dark-money #american-action-network #class-analysis #follow-the-money
-
-related: [[American Action Network]] · [[Senate Leadership Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -203,8 +200,6 @@ Every competitive district with energy-sector employers receives CLF ad spending
 - [NBC News: Elon Musk gives millions to Republican super PACs ahead of midterms — $5M to CLF](https://www.nbcnews.com/politics/2026-election/elon-musk-gives-millions-republican-super-pacs-ahead-midterms-rcna222114) (Tier 2)
 - [Brennan Center: Ohio congressional races illustrate 2024 campaign finance trends](https://www.brennancenter.org/our-work/analysis-opinion/ohio-congressional-races-illustrate-2024-campaign-finance-trends) (Tier 2)
 - [OpenSecrets: Congressional Leadership Fund donors](https://www.opensecrets.org/political-action-committees-pacs/congressional-leadership-fund/C00504530/donors/2024) (Tier 1)
-
-content-readiness:: developed
 
 ---
 

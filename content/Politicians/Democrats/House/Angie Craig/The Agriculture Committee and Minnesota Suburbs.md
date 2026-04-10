@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Angie Craig Master Profile]] · [[_Debbie Stabenow Master Profile|Stabenow]]"
 ---
-
 #craig #minnesota #agriculture #swing-district #healthcare #bipartisan
-
-related: [[_Angie Craig Master Profile]] [[_Debbie Stabenow Master Profile|Stabenow]]
 
 donors: [[Business Roundtable]]
 

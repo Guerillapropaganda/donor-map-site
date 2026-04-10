@@ -5,12 +5,9 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_JD Vance Master Profile]]
+related: "[[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[Valinor Enterprises]] · [[The 2024 Tech Billionaire Network]]"
 ---
-
-
 #venture-capital #conflict-of-interest #defense-contractors
-
-related: [[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[Valinor Enterprises]] · Palantir Contracts · [[The 2024 Tech Billionaire Network]]
 
 donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]] · [[Eric Schmidt]]
 
@@ -171,4 +168,3 @@ Standard conflict-of-interest enforcement mechanisms fail in this scenario:
 
 **content-readiness:** developed
 **last-updated:** 2026-03-20
-content-readiness:: ready

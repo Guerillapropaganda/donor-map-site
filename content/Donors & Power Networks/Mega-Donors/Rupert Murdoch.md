@@ -23,7 +23,7 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. California"
   - "District Court, S.D. Florida"
-related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[Fox News - Murdoch Media Empire]] · [[Wilks Brothers — Dan and Farris Wilks]]"
+related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[Fox News - Murdoch Media Empire]] · [[Wilks Brothers — Dan and Farris Wilks]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Media and Propaganda - Donors and Backers]]"
 sec-filings: 5590
 sec-form-types:
   - "144"
@@ -62,10 +62,7 @@ federal-register-mentions: 12
 regulatory-agencies:
   - "Federal Trade Commission"
 ---
-
 #donor #murdoch #oligarch #media #fox-news #uk #australia #us
-
-related: [[_Donald Trump Master Profile]] [[_Mitch McConnell Master Profile|Mitch McConnell]] [[Media and Propaganda - Donors and Backers]]
 
 media-pipeline: [[Fox News - Murdoch Media Empire|Fox News]] · [[Sean Hannity]] · [[Tucker Carlson]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[Megyn Kelly]] · [[Bill Maher]] · [[Glenn Greenwald]] · [[Charlie Kirk]] · [[Ben Shapiro]] · [[Dan Bongino]]
 think-tanks: [[Hoover Institution]]
@@ -228,8 +225,6 @@ Rupert Murdoch created the template for right-wing media dominance that shaped 4
 
 ---
 
-research-status:: ready — Full citation pass complete. Fox News $17B+ revenue, $787.5M Dominion settlement, $2.7B Smartmatic lawsuit pending, $2M SLF donation (2024), tri-national media empire (US/UK/Australia), information monopoly model, Lachlan succession (Sept 2025), cord-cutting vulnerability. 17 sources, Tier 1-3. All ### headers. Promoted Session 38k.
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

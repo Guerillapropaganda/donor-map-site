@@ -13,7 +13,6 @@ donors: "[]"
 
 #media-pipeline #left #comedy #hbo #corporate-media #policy-impact #john-oliver-effect #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -157,4 +156,3 @@ John Oliver represents **the corporate comedy accountability model** — the par
 
 ---
 
-content-readiness:: ready

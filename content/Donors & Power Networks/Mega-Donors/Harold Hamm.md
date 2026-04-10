@@ -33,12 +33,9 @@ tax-year: "2024"
 nonprofit-status: "501(c)(3)"
 total-revenue: 160081
 total-assets: 8950006
-related: "[[Doug Burgum Master Profile]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[The Harold Hamm Pipeline and the Continental Resources Conflict]] · [[The 445 Million Dollar Oil Investment and Wrights Buy-In]] · [[Environment - Donors and Backers]]"
+related: "[[Doug Burgum Master Profile]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[The Harold Hamm Pipeline and the Continental Resources Conflict]] · [[The 445 Million Dollar Oil Investment and Wrights Buy-In]] · [[Environment - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Chevron]] · [[PG&E]]"
 ---
-
 #donor-node #mega-donor #fossil-fuel #fracking #oklahoma #republican #class-analysis #continental-resources #bakken #energy-policy #trump-advisor #donor
-
-related: [[_Donald Trump Master Profile]] · [[Fossil Fuel Deregulation - The Climate Donors]] · Energy & Utilities - Donors and Backers · [[Chevron]] · [[PG&E]] · Continental Resources · Domestic Energy Producers Alliance
 
 ---
 
@@ -204,9 +201,6 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 - [Oklahoma Watch — Oil Tycoon Harold Hamm Asked Oklahoma Gov. Kevin Stitt for Senate Appointment](https://oklahomawatch.org/2026/03/06/oil-tycoon-and-gop-donor-harold-hamm-asked-oklahoma-gov-kevin-stitt-for-senate-appointment/) (Tier 2)
 
 ---
-
-research-status:: ready — Full citation pass complete. $18.5B net worth, 68% Continental ownership, $1.6M+ 2024 Trump donations, DEPA export ban victory (2015), $500M+ compliance savings, Mar-a-Lago fundraiser, Oklahoma Senate appointment request (March 2026). 18 sources, Tier 1-2. All ### headers, callout block fixed. Promoted Session 38j.
-content-readiness:: ready
 
 ---
 

@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Gary Peters Master Profile]] · [[_Debbie Stabenow Master Profile|Stabenow]] · [[General Dynamics]]"
 ---
-
 #peters #michigan #homeland-security #auto #defense #cybersecurity
-
-related: [[_Gary Peters Master Profile]] [[_Debbie Stabenow Master Profile|Stabenow]] [[General Dynamics]]
 
 donors: [[General Dynamics]] [[Boeing]] [[Lockheed Martin]]
 

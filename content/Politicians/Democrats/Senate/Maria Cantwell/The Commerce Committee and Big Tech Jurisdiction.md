@@ -11,11 +11,9 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
+related: "[[_Maria Cantwell Master Profile]] · [[Amazon]] · [[Microsoft]] · [[Boeing]] · [[Google - Alphabet]]"
 ---
-
 #cantwell #commerce #tech #amazon #boeing #washington #privacy #telecom
-
-related: [[_Maria Cantwell Master Profile]] [[Amazon]] [[Microsoft]] [[Boeing]] [[Google - Alphabet]]
 
 donors: [[Amazon]] [[Microsoft]] [[Boeing]] [[Google - Alphabet]]
 

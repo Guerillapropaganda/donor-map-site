@@ -32,12 +32,9 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
+related: "[[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]]"
 ---
-
-
 #mitch-mcconnell #senate #minority-leader #kentucky #koch #dark-money #citizens-united #judicial-pipeline #class-analysis
-
-related: [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]]
 
 donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 

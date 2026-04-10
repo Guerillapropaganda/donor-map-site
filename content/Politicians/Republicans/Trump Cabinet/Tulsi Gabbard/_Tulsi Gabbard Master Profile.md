@@ -23,12 +23,10 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
+related: "[[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_JD Vance Master Profile]] · [[Securus Technologies - Aventiv]]"
 ---
-
-
 #gabbard #democrat-to-republican #hawaii #military #class-analysis #follow-the-money #party-switch #anti-establishment #dni #surveillance #sanders #russia #hindu-nationalist #science-of-identity
 
-related: [[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_JD Vance Master Profile]] · [[Securus Technologies - Aventiv]]
 donors: Hindu Nationalist Organizations · Adelson Network · Anti-Interventionist Small Dollar · [[MAGA Inc]]
 
 profile-status:: ready

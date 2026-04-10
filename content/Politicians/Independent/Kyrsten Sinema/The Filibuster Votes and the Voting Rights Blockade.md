@@ -5,16 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Kyrsten Sinema Master Profile]]
+related: "[[_Kyrsten Sinema Master Profile]] · [[_Joe Manchin Master Profile]]"
 ---
-
-
 #kyrsten-sinema #filibuster #voting-rights #voting-rights-act #freedom-to-vote #class-analysis
 
-related: [[_Kyrsten Sinema Master Profile]] · [[_Joe Manchin Master Profile]]
-
 donors: Corporate PACs
-
-content-readiness:: ready
 
 ---
 

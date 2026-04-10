@@ -38,7 +38,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Merck]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Koch Industries]]"
+related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Merck]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Koch Industries]] · [[PhRMA]] · [[AbbVie]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Congressional Leadership Fund]] · [[American Action Network]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"
@@ -74,10 +74,7 @@ sec-form-types:
   - "SC14D9C"
   - "SCHEDULE 13G/A"
 ---
-
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money
-
-related: [[PhRMA]] · [[AbbVie]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Congressional Leadership Fund]] · [[American Action Network]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]
 
 ---
 
@@ -235,8 +232,6 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 - [Minnesota AG: Eli Lilly insulin settlement — $35/month guaranteed (February 2024)](https://www.ag.state.mn.us/Office/Communications/2024/02/07_EliLilly.asp) (Tier 1)
 - [Eli Lilly: Q4 2025 financial results — $58-61B 2025 guidance](https://investor.lilly.com/news-releases/news-release-details/lilly-reports-fourth-quarter-2025-financial-results-and-provides) (Tier 1)
 - [Ballotpedia: Eli Lilly and Company](https://ballotpedia.org/Eli_Lilly_and_Company) (Tier 3)
-
-content-readiness:: developed
 
 ---
 

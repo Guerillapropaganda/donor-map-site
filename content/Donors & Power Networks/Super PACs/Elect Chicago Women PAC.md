@@ -10,12 +10,9 @@ entity-type: "PAC"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]] · [[Daniel Biss Master Profile]] · [[Think Big AI PAC]]"
+related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]] · [[Daniel Biss Master Profile]] · [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Affordable Chicago Now PAC]]"
 ---
-
 #elect-chicago-women-pac #AIPAC #shell-pac #Israel-lobby #2024-Illinois-House #dark-money #disclosure-avoidance
-
-related: [[AIPAC - American Israel Public Affairs Committee]] [[Affordable Chicago Now PAC]] Illinois House Primary 2024 AIPAC Shell PAC Operations Pro-Israel Political Spending
 
 ---
 
@@ -111,4 +108,3 @@ The PAC also illustrates **asymmetry in Palestinian rights advocacy:** Pro-Pales
 - [The Intercept: AIPAC Is Secretly Funneling Money Into a Congressional Race, Sources Say](https://theintercept.com/2024/05/04/aipac-congress-the-squad/) (Tier 2)
 - [Illinois State Board of Elections: 2024 House Primary Results](https://www.cyberdriveillinois.com/departments/index/register/home.html) (Tier 1)
 
-content-readiness:: ready

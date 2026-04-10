@@ -7,12 +7,10 @@ source-tier: 2
 parent: [[_Chris Wright Master Profile]]
 known-gaps:
   - "No mapped relationships"
+related: "[[_Chris Wright Master Profile]] · [[_Donald Trump Master Profile]]"
 ---
-
-
 #chris-wright #fossil-fuel-donors #oil-gas #trump-fundraising #kelcy-warren #class-analysis #follow-the-money
 
-related: [[_Chris Wright Master Profile]] · [[_Donald Trump Master Profile]]
 donors: [[Harold Hamm]]
 
 content-readiness:: ready

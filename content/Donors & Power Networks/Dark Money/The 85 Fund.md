@@ -21,7 +21,7 @@ total-revenue: 168530018
 total-assets: 2754902
 lei: "549300JZ9WCXZDH10988"
 lei-jurisdiction: "US-DE"
-related: "[[Federalist Society]]"
+related: "[[Federalist Society]] · [[Barre Seid]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[Sentinel Action Fund]]"
 doj-press-mentions: "264349"
 doj-components:
   - "Civil Rights Division"
@@ -35,10 +35,7 @@ doj-components:
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
 ---
-
 #85-fund #dark-money #judicial #Leonard-Leo #judicial-education-project #SCOTUS #nomination-campaigns
-
-related: [[Barre Seid]] [[Leonard Leo]] [[Marble Freedom Trust]] [[Sentinel Action Fund]] Judicial Education Project
 
 ---
 
@@ -123,8 +120,6 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 - [IRS Form 990: The 85 Fund (Judicial Education Project)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2085%20Fund&city=&state=All+States&country=US) (Tier 1)
 - [Axios: The 85 Fund spending in 2020-2024](https://www.axios.com/2024/07/12/the-85-fund-spending-supreme-court) (Tier 2)
 - [Center for Responsive Politics: Dark money and judicial nominations](https://www.opensecrets.org/news/) (Tier 2)
-
-content-readiness:: ready
 
 ### Federal Subawards & Spending Breakdown
 

@@ -26,7 +26,6 @@ fara-countries:
 
 #lobbying #k-street #republican #bush-white-house #trump-white-house #tech #telecom #healthcare #energy #trade
 
-
 ---
 
 ### Who They Are
@@ -222,8 +221,6 @@ The structural function this serves for the donor class is risk management. A co
 - [NPR: Hegseth threatens to blacklist Anthropic over 'woke AI' concerns (February 24, 2026)](https://www.npr.org/2026/02/24/nx-s1-5725327/pentagon-anthropic-hegseth-safety) (Tier 2)
 - [CNN: Judge blocks Pentagon's effort to 'punish' Anthropic by labeling it a supply chain risk (March 26, 2026)](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) (Tier 2)
 - [OpenSecrets: Anthropic's AI safety stance clashes with Pentagon — and reshapes spending on primaries (March 2026)](https://www.opensecrets.org/news/2026/03/anthropics-ai-safety-stance-clashes-with-pentagon-and-reshapes-spending-on-primaries/) (Tier 1)
-
-content-readiness:: ready
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

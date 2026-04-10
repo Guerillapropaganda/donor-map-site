@@ -5,15 +5,11 @@ content-readiness: ready
 last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Rand Paul Master Profile]]
+related: "[[_Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]]"
 ---
-
 #rand-paul #ukraine #foreign-aid #isolationism #obstruction #class-analysis
 
-related: [[_Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]]
-
 donors: Libertarian Donor Network · Isolationist Donor Network
-
-content-readiness:: ready
 
 ---
 

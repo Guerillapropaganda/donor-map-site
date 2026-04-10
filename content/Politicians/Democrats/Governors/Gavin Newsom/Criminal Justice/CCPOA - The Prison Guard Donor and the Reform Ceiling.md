@@ -5,13 +5,10 @@ content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Budget Priorities - What California Actually Funds]] · [[Policing Reform - George Floyd Era]]"
+related: "[[Budget Priorities - What California Actually Funds]] · [[Policing Reform - George Floyd Era]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
 ---
-
-
 #newsom #criminal-justice #[[CCPOA - California Correctional Peace Officers Association|CCPOA]] #prison-guards #donor-class #reform-ceiling #follow-the-money #class-analysis #carceral-state #union-as-capital
 
-related: [[Death Penalty Moratorium - Genuine Win With Limits]] | [[San Quentin - COVID Disaster and Rehabilitation Theater]] | [[Criminal Justice - Donors and Backers]] | [[_Gavin Newsom Master Profile]]
 donors: [[CCPOA - California Correctional Peace Officers Association]]
 
 ---
@@ -128,4 +125,3 @@ Criminal justice reform in Newsom's framework is consistently framed as pilot pr
 - [LAO: 2025-26 CDCR Budget (overtime, per-prisoner cost)](https://lao.ca.gov/Publications/Report/5085) (Tier 1)
 - [CalMatters: Prop 36 passes overwhelmingly](https://calmatters.org/category/politics/elections/2024/11/prop-36-california-election-result/) (Tier 2)
 
-content-readiness:: ready

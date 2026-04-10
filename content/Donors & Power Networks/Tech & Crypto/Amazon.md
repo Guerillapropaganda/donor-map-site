@@ -17,7 +17,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 lobbying-spend: 42075000
 lobbying-filings: 59
-related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Alpine Group]] · [[Amy Klobuchar]]"
+related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Alpine Group]] · [[Amy Klobuchar]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[_Donald Trump Master Profile|Trump]] · [[Labor - Donors and Backers]] · [[Elon Musk]]"
 subawards-issued: 50
 subawards-issued-amount: 683597304
 subawards-received: 50
@@ -40,11 +40,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 cpsc-recalls: 284
 ---
-
-
 #donor #tech #corporation #anti-union #lobbying #government-contracts #labor #surveillance #revolving-door #bezos
-
-related: [[The NLRB Gutting and the Biggest Union Bust in American History]] [[_Donald Trump Master Profile|Trump]] [[Labor - Donors and Backers]] [[Elon Musk]]
 
 ---
 
@@ -231,8 +227,6 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - [United for Respect: Amazon Political Spending 2024](https://united4respect.org/reports/amazon-political-spending-2024/) (Tier 2)
 
 ---
-
-content-readiness:: ready
 
 ---
 

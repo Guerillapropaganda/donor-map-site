@@ -19,11 +19,9 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+related: "[[_Donald Trump Master Profile|Trump]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]]"
 ---
-
 #politician #republican #trump-cabinet #dhs #south-dakota #governor #corruption #no-bid-contracts #dark-money #follow-the-money #class-analysis #fired
-
-related: [[_Donald Trump Master Profile|Trump]] · [[_Markwayne Mullin Master Profile|Markwayne Mullin]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]]
 
 ---
 

@@ -13,7 +13,7 @@ subawards-received: 1
 subawards-received-amount: 30000
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541810"
-related: "[[Sinclair Broadcast Group]]"
+related: "[[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]]"
 court-cases: 769
 last-enriched: "2026-04-08"
 court-jurisdictions:
@@ -31,10 +31,7 @@ federal-awards-total: 0
 federal-contracts-count: 3
 federal-grants-count: 0
 ---
-
 #iheartmedia #radio #media #consolidation #deregulation #clear-channel #telecom-act
-
-related: [[News Corp - Fox Corporation]] [[Comcast - NBCUniversal]]
 
 ---
 
@@ -69,8 +66,6 @@ Continued relaxed radio ownership limits, favorable music licensing rates (iHear
 - [FCC: Radio station ownership data](https://www.fcc.gov/media/radio/radio-station-ownership) (Tier 1)
 - [Congress.gov: AM Radio for Every Vehicle Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3413) (Tier 1)
 - [Ballotpedia: Telecommunications Act of 1996](https://ballotpedia.org/Telecommunications_Act_of_1996) (Tier 3)
-
-content-readiness:: ready
 
 ---
 

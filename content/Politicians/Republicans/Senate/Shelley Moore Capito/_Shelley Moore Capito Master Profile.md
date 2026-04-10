@@ -43,12 +43,9 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 opposes: '[[SENATE MAJORITY PAC]]'
+related: "[[_Joe Manchin Master Profile|Manchin]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 ---
-
-
 #shelley-moore-capito #republican #west-virginia #senate #committee-chair #environment #public-works #coal #natural-gas #oil #epa #infrastructure #phase-6-gavel-power
-
-related: [[_Joe Manchin Master Profile|Manchin]] [[_Donald Trump Master Profile|Trump]] [[Koch Network - Charles Koch|Koch Network]]
 
 donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE]] · [[TAKE ME HOME WV ACTION]]
 

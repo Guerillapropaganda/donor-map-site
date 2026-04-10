@@ -12,7 +12,6 @@ related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]]"
 
 #media-pipeline #centrist #hbo #comedy #corporate-media #anti-woke #centrist-laundering #independence-theater
 
-
 ---
 
 ### Who They Are
@@ -217,4 +216,3 @@ The Club Random Studios network (Sage Steele, Shane Smith, Billy Corgan) was not
 - [CNN Opinion: The evolution of Bill Maher](https://www.cnn.com/2024/05/24/opinions/bill-maher-what-this-comedian-said-will-shock-you-hemmer) (Tier 3)
 - [Hollywood Reporter: HBO Star Bill Maher on Trump, Woke Left, Podcast, 'Real Time'](https://www.hollywoodreporter.com/tv/tv-features/bill-maher-hbo-real-time-returns-interview-1236110059/) (Tier 3)
 
-content-readiness:: ready

@@ -35,7 +35,7 @@ doj-components:
   - "USAO - Massachusetts"
   - "USAO - Missouri, Western"
   - "USAO - New York, Northern"
-related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]]"
+related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]]"
 sec-filings: 1623
 sec-form-types:
   - "10-K"
@@ -51,10 +51,7 @@ sec-form-types:
   - "S-1"
   - "S-1/A"
 ---
-
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
-
-related: [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]]
 
 ---
 
@@ -257,9 +254,6 @@ The 2022 grant of $27.1 million to America First Legal — 61% of AFL's budget �
 - [SourceWatch: Contributions of the Bradley Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Contributions_of_the_Bradley_Foundation) (Tier 3)
 
 ---
-
-content-readiness:: developed
-research-status:: developed — Expanded from 47 to 190+ lines. CMD $86.4M grant breakdown documented (AFL $27.1M, TPUSA $7.8M, Project Veritas $1.8M), Project 2025 $52.9M funding mapped, Milwaukee voucher history with dollar amounts, temporal mapping 10 entries, class analysis with 2 callout blocks, 12 sourced citations Tier 1-3. Gaps: 2023 and 2024 annual 990 data not yet available on ProPublica; full donor list of Bradley Impact Fund (501(c)(4) structure shields contributors beyond Diane Hendricks). Promoted from ready→developed due to substantial content addition. Needs URL verification pass for full ready promotion.
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

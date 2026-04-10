@@ -20,17 +20,14 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. Texas"
   - "United States Bankruptcy Court, S.D. Texas"
-related: "[[Senate Majority PAC]]"
+related: "[[Senate Majority PAC]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Donor Registry - Master Index]] · [[Master Donor Database]]"
 nonprofit-status: "501(c)(4)"
 total-revenue: 624582324
 total-assets: 26668352
 ---
-
 #donor-node #super-pac #democratic #dark-money #501c4
 
 tags: #donor
-
-related: [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Donor Registry - Master Index]] · [[Master Donor Database]]
 
 ---
 
@@ -97,10 +94,6 @@ This isn't whataboutism. It's the donor-first thesis applied consistently: both 
 - [Campaign Legal Center: 501(c)(4) political spending analysis](https://campaignlegal.org/issues/campaign-finance) (Tier 2)
 
 ---
-
-content-readiness:: ready
-
-research-status:: ready — Promoted Session 39.
 
 ---
 

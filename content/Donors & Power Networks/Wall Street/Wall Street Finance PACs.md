@@ -9,12 +9,9 @@ sector: "Wall Street"
 entity-type: "PAC"
 issues:
   - "Wall Street & Finance"
-related: "[[Josh Gottheimer Master Profile]]"
+related: "[[Josh Gottheimer Master Profile]] · [[Financial Services Donors]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Securities & Investment Industry]]"
 ---
-
 #wall-street #finance #pacs #bipartisan #banking
-
-related: [[Financial Services Donors]] [[Goldman Sachs]] [[JPMorgan Chase]] [[Securities & Investment Industry]]
 
 ---
 
@@ -33,4 +30,3 @@ See [[Financial Services Donors]] and [[Securities & Investment Industry]] for c
 
 - [FEC Receipts: Finance sector PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
-content-readiness:: ready
