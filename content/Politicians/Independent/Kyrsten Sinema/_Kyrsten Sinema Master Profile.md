@@ -24,7 +24,7 @@ known-gaps:
   - No mapped relationships
 opposes: >-
   [[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] ·
-  [[AMERICAN FUTURE FUND]]
+  [[AMERICAN FUTURE FUND]] · [[CONGRESSIONAL LEADERSHIP FUND]]
 ---
 
 
