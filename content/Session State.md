@@ -12,6 +12,109 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-11 evening (Phase 1 Day 2 continued — 5 infrastructure safety nets + 3 new corporate accountability pipelines + Ops app wiring)
+
+### Theme
+Second half of the 2026-04-11 Phase 1 Day 2 session. Knocked out five quick infrastructure safety nets (stuck-scheduler kick, FEC ID audit retry logic, YAML parse scan in /preflight, deploy polling in /deploy and /session-save, scheduler-incident docs), then built three brand-new corporate accountability pipelines (FDA, OCC, FTC) end-to-end — source code, CI wiring, Ops app integration, and Pipeline Guide docs. 2026-04-10 follow-ups and Day 2 ad-hoc work are now caught up.
+
+### Done — infrastructure safety nets (5 items)
+
+1. **Kicked stuck api-enrichment.yml scheduler** via `gh workflow disable/enable` toggle. Workflow metadata refreshed at 2026-04-10 20:32Z. Scheduled runs had been dead since 2026-04-09 17:44Z (four consecutive missed slots) because both prior scheduled runs hit the 25-min parallel-step timeout and GitHub paused the scheduler silently. Should resume on next scheduled slot (02:00Z / 08:00Z UTC).
+
+2. **Added retry loop to `scripts/verify-fec-candidate-ids.cjs`** (engine commit `c9025e8`). `probeCandidate()` now retries up to 3 attempts with 2s/4s backoff on both empty results and fetch errors. Eliminates the 5 transient rate-limit false positives from the first audit run (Daniel Biss, Chris Murphy, Mallory McMorrow, Sheldon Whitehouse, Tim Walberg — all verified clean on direct re-check).
+
+3. **Wired a 3-second vault YAML parse scan into `/preflight`** (new Step 6). Uses js-yaml to parse every `.md` frontmatter block in `content/`; reports any errors prominently in the preflight summary and flags them as blocking. Catches silent build-break states like the 2026-04-10 Whitehouse donors hybrid-string-list corruption before any session work begins.
+
+4. **Wired deploy-success polling into `/deploy` (new Step 8) and `/session-save` (updated Step 5).** Polls `gh run list --workflow=deploy.yml --limit 1` every 20s up to 5 minutes after a push, hard-fails on failure/cancelled/timed-out. Red Flag #7 from the 2026-04-10 lesson-learned doc. **Validated live on this very session's deploys** — run `24263270533` (safety nets commit) polled 5 attempts and caught `completed/success`. Run `24264591063` (pipelines commit) hit `completed/success` on first poll attempt. Run `$latest` (this session-save) will be polled at the bottom of this Step 5.
+
+5. **Documented the stuck-scheduler incident** in `content/Pipeline Guide.md` under Engine-wide known incidents → "GitHub Actions scheduled runs silently stop firing". Includes the gh workflow disable/enable fix recipe and a quality-check rule for preflight to track "last scheduled run within 12 hours" going forward.
+
+6. **Synced global skills** (`~/.claude/skills/preflight/skill.md`, `deploy/skill.md`, `session-save/skill.md`) with the updated repo-local command versions, so `Skill` tool invocations pick up the same rules as `.claude/commands/*.md`.
+
+### Done — 3 new corporate accountability pipelines (FDA, OCC, FTC)
+
+**Shared-key theory confirmed:** `api.data.gov` is the unified gateway for FEC, Congress.gov, FTC, OCC, USDA, NASA, SAM.gov, and every other .data.gov-fronted API. One registration covers all of them. Requesting a new key does NOT break existing keys — each signup mints a fresh key, old ones stay valid. David's existing FEC key now also powers FTC and OCC via an automatic fallback in `api-config.cjs`. FDA uses a separate signup at `open.fda.gov/apis/authentication/` but the key is OPTIONAL — unauth gets 240 req/min/IP which is plenty for our scale.
+
+**FDA pipeline** (`scripts/fda-pipeline.cjs`, 420+ lines):
+- Queries `/drug/enforcement.json`, `/device/enforcement.json`, `/food/enforcement.json` for every FDA-adjacent profile
+- Profile filter: NAICS 3254 / 3391 / 311 / 445 + ~40 hard-coded big-pharma / big-device / big-food brands (38 profiles filtered from 384 in testing)
+- Strict firm verification with corporate-suffix stripping (`extractFirmTokens()`) — "Pfizer Inc." tokenizes to just `["pfizer"]`, not `["pfizer", "inc"]`
+- **Verified:** Pfizer Inc. → **103 recalls** (100 drug, 3 device), **14 Class I life-threatening**, 15 ongoing. Johnson & Johnson → **110 recalls** (24 drug, 86 device), 2 Class I, 41 ongoing.
+- Frontmatter: `fda-recalls`, `fda-recalls-class-i`, `last-enriched`
+- Auto-block: `### FDA Enforcement (openFDA)` with metric table, Class I highlight, 6 most recent recalls
+
+**OCC pipeline** (`scripts/occ-pipeline.cjs`, 460+ lines):
+- Queries `/EnforcementActions/list/{variant}` per name variant, dedupes by DocketNumber
+- **Discovered + documented:** `/Institutions/List/1` keyword search is broken — searching "JPMorgan" returns Charter 1 (Wells Fargo's predecessors CoreStates/Wachovia), NOT JPMorgan. Pipeline skips the institution lookup entirely and parses CharterNumber directly from enforcement results. Documented in Pipeline Guide § OCC.
+- `nameVariants()` splits compound vault titles like "JPMorgan - Chase Bank" and strips corporate suffixes
+- Strict institution match on `Institution` / `Company` / `Individual` fields, full word-boundary regex on both sides
+- Parses `Amount` defensively (it's a STRING: "2614456.00", "0.00", "See Order", or "")
+- Distinguishes active vs terminated actions, tracks CMP totals, derives canonical institution name from most-common Institution value
+- **Verified:** Wells Fargo → **116 actions**, 95 active, **$899,171,205 in civil money penalties**. JPMorgan Chase → **78 actions**, 58 active, **$1,222,035,000 in CMPs** (~$1.22B).
+- Frontmatter: `occ-enforcement-actions`, `occ-active-actions`, `occ-charter-numbers`, `occ-cmp-dollars`, `last-enriched`
+- Auto-block: `### OCC Enforcement Actions` with legal name + charter table, action type breakdown, subject areas, still-active actions list with PDF links, recent enforcement history
+
+**FTC pipeline** (`scripts/ftc-pipeline.cjs`, 470+ lines):
+- FTC has NO enforcement search API. Pipeline combines two sources:
+  - Three static enforcement CSVs (merger, non-merger, civil penalty) loaded at startup — 644 records total covering FY1996–FY2021
+  - HSR Early Termination Notices via `/v0/hsr-early-termination-notices` API for real-time merger data
+- In-tree CSV parser (no csv library dependency) handles quoted fields with embedded commas
+- Same `nameVariants()` + word-boundary strict matching as OCC
+- **Bug caught in testing and fixed:** first version of the regex used `\b${token}` (word boundary only at start) which matched "Meta" against "Commercial Metals Company" via "Metals". Fixed with full word boundary on both sides (`\b${token}\b`). Same trap was present in FDA's `matchesFirm` — fixed simultaneously.
+- Explicit CSV-cutoff caveat in every auto-block pointing editors to the FTC Legal Library for post-2021 cases
+- **Verified:** Meta - Facebook → 1 historical enforcement (Facebook/Instagram 2020), 0 HSR (correct — Meta files under "Meta Platforms" which post-dates the 2021 CSV cutoff), 0 false positives
+- Frontmatter: `ftc-enforcement-actions`, `ftc-hsr-notices`, `last-enriched`
+- Auto-block: `### FTC Enforcement & Merger Review` with enforcement + HSR counts, by-type breakdown, recent cases, staleness caveat
+
+**api-config.cjs** — added `ftc`, `fda`, `occ` blocks with automatic FEC-key fallback for FTC and OCC, optional FDA key. `printStatus()` updated to show key source for each.
+
+**api-enrichment.yml workflow** — added `run_if fda`, `run_if occ`, `run_if ftc` to the parallel run list (each with `--limit=15`), plus updated the pipeline dropdown in `workflow_dispatch` inputs.
+
+### Done — Ops app integration for the 3 new pipelines
+
+- **`ops/src/lib/pipelines.ts`** — added FDA, OCC, FTC to the `PIPELINES` array under "AUTO-FILL — pure data, no editorial needed". All three categorized as `regulatory` / `auto-fill`, Tier 1, with descriptions matching the cheatsheets. Now visible in the Ops app's pipeline dropdown and trigger UI.
+- **`ops/src/app/api/enrichment-history/route.ts`** — added human-readable labels for `fda`, `fda-enforcement`, `occ`, `occ-enforcement`, `ftc`, `ftc-enforcement` so they show correctly in the Enrichment History view when they appear in future commit messages.
+- **`ops/src/components/PipelineDataViewer.tsx`** — added `fda-enforcement`, `occ-enforcement`, `ftc-enforcement` to `BLOCK_LABELS` so their auto-blocks render with proper titles in the profile data viewer.
+
+### Commits this session (second half)
+
+Engine repo (donor-map-engine, branch `main`):
+- `0ade14c` — CI: drop lobbyview + doj-press + add verify-fec-candidate-ids.cjs
+- `c9025e8` — verify-fec-candidate-ids: 3-attempt retry with backoff
+- `9a7a07e` — Add FDA + OCC + FTC corporate accountability pipelines (5 files, +1680/-1)
+
+Site repo (donor-map-site, branch `v4`):
+- `b6594eed` — Katie Porter FEC ID fix
+- `775d0e46` — Session state 2026-04-11: deep pipeline bug sweep + calendar wiring
+- Merge `b82b6966` → v4 → push → deploy run `24263270533` ✓ success
+- `de43d755` — Preflight + deploy + session-save + Pipeline Guide safety nets
+- Merge `f21ffb12` → v4 → push → deploy run `24263270533` ✓ success
+- `bc91128c` — Pipeline Guide: document FDA, OCC, FTC pipelines
+- Merge `e2a8467e` → v4 → push → deploy run `24264591063` ✓ success on first poll
+- This session-save commit → deploy polled below
+
+### Known issues / still outstanding
+
+- **Scheduled api-enrichment.yml runs** — disable/enable toggle applied at 2026-04-10 20:32Z. We won't know for sure whether the scheduler resumed until the next scheduled slot (02:00Z or 08:00Z UTC). If still stuck, /preflight should include a scheduled-runs health gauge per the documented quality-check rule.
+- **FTC CSVs frozen at FY2021** — documented in every FTC auto-block. Post-2021 cases require either the FTC Legal Library HTML search (fragile) or a paid Google Custom Search API. Not urgent.
+- **OCC only covers national banks + federal savings associations** — state-chartered banks (Goldman Sachs Bank USA, Morgan Stanley Bank, regional state banks) need a separate FDIC BankFind pipeline. Logical next data source for complete Wall Street coverage.
+- **FDA `search_after` deep paging** — not yet wired. Biggest response in testing was Pfizer at 103 recalls (well under the `skip=25000` limit), but Cargill or Tyson Foods might cross it.
+- **LobbyView Firebase refresh-token flow** — still not implemented. LobbyView stays disabled in CI.
+
+### Next session priorities (Phase 1 Day 3, 2026-04-12)
+
+1. **Verify scheduled api-enrichment.yml runs resumed** — check `gh run list --workflow=api-enrichment.yml --limit 10 --json event,status,conclusion,createdAt` for at least one `schedule` event after 2026-04-10 20:32Z. If none, the toggle didn't work and we need deeper diagnosis (workflow file edit to force re-parse, support ticket, etc.).
+2. **Run a full enrichment batch against the vault** — `gh workflow run api-enrichment.yml -f limit=30 -f pipeline=all -f profile=` to populate the vault with FDA / OCC / FTC data for all eligible profiles at once. Expected: ~40 FDA hits, ~20 OCC hits, ~30 FTC hits on the first run.
+3. **Build FDIC BankFind pipeline** for state-chartered bank coverage. Free, no auth required, separate cheatsheet needed. Complements OCC.
+4. **Research Claude**: continue depth reviews — Brian Schatz (paused mid-review), then Jon Ossoff, Fetterman, Gary Peters, Chris Murphy, Martin Heinrich, Ed Markey, Tammy Baldwin.
+5. **David**: review verified-candidate flags from 2026-04-10 (6 candidates + Cori Bush re-review). Phase 1 exit target is ≥12 verified by 2026-04-16.
+6. **David**: conflict triage backlog (~528 remaining, target 27/day).
+7. **Follow-up**: the `gh workflow run` button in the Ops app should be checked after these pipelines run once to confirm the pipelines show up correctly in the Enrichment History view.
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-11 (Phase 1 Day 2 — deep pipeline bug sweep, 13 fixes across two sweeps, Katie Porter + vault FEC ID audit, LobbyView / DOJ Press retired from CI, session-save wired to update calendar)
 
 ### Theme

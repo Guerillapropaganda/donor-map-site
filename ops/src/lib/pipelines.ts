@@ -35,6 +35,9 @@ export const PIPELINES: Pipeline[] = [
   { id: "sec-edgar", name: "SEC EDGAR", description: "Corporate filings — 10-K, proxy statements", source: "sec.gov", tier: 1, requiresAuth: false, category: "judicial", action: "auto-fill" },
   { id: "wikipedia", name: "Wikipedia/Wikidata", description: "Bio data, positions held, key facts", source: "wikipedia.org", tier: 3, requiresAuth: false, category: "reference", action: "auto-fill" },
   { id: "fcc", name: "FCC", description: "Broadcasting licenses and media ownership", source: "fcc.gov", tier: 1, requiresAuth: false, category: "regulatory", action: "auto-fill" },
+  { id: "fda", name: "FDA Enforcement", description: "Drug/device/food recalls — Class I life-threatening highlighted", source: "api.fda.gov", tier: 1, requiresAuth: false, category: "regulatory", action: "auto-fill" },
+  { id: "occ", name: "OCC Enforcement", description: "National-bank enforcement actions — consent orders, CMPs, cease-and-desist", source: "api.occ.gov", tier: 1, requiresAuth: true, category: "regulatory", action: "auto-fill" },
+  { id: "ftc", name: "FTC Enforcement", description: "Historical enforcement actions + HSR merger filings", source: "api.ftc.gov + ftc.gov CSVs", tier: 1, requiresAuth: true, category: "regulatory", action: "auto-fill" },
 
   // ═══ SOURCE DISCOVERY — adds citations, quick review recommended ═══
   { id: "lda", name: "Senate LDA", description: "Lobbying disclosure filings — who lobbied for what", source: "lda.gov", tier: 1, requiresAuth: true, category: "legislative", action: "source-discovery" },
