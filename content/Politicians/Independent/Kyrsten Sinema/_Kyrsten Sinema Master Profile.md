@@ -22,9 +22,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-opposes: >-
-  [[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] ·
-  [[AMERICAN FUTURE FUND]] · [[CONGRESSIONAL LEADERSHIP FUND]]
+opposes: "[[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[CONGRESSIONAL LEADERSHIP FUND]]"
 related: "[[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · [[_Chuck Schumer Master Profile]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]]"
 ---
 #kyrsten-sinema #senate #arizona #private-equity #carried-interest #pharma #filibuster #voting-rights #class-analysis #independent

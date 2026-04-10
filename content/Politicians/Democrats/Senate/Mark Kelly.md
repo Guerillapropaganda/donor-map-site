@@ -10,9 +10,7 @@ fec-candidate-id: S0AZ00350
 last-enriched: '2026-04-08'
 donors: '[[Ken Griffin]]'
 related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]]"
-opposes: >-
-  [[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH
-  ACTION]] · [[THE SENTINEL ACTION FUND]]
+opposes: "[[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH ACTION]] · [[THE SENTINEL ACTION FUND]]"
 ---
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
 

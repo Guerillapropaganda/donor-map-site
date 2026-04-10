@@ -14,9 +14,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 last-enriched: '2026-04-09'
-opposes: >-
-  [[SENATE LEADERSHIP FUND]] · [[CLUB FOR GROWTH ACTION]] · [[FREEDOM PARTNERS
-  ACTION FUND, INC.]] · [[NRSC]]
+opposes: "[[SENATE LEADERSHIP FUND]] · [[CLUB FOR GROWTH ACTION]] · [[FREEDOM PARTNERS ACTION FUND, INC.]] · [[NRSC]]"
 related: "[[Miriam Adelson]] · [[Las Vegas Sands]] · [[EMILY's List]] · [[Adelson Family]]"
 ---
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat

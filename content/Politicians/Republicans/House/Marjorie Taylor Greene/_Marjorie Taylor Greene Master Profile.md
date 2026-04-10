@@ -19,9 +19,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-opposes: >-
-  [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN
-  ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]]
+opposes: "[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]] · [[Freedom Caucus]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 ---
 #mtg #marjorie-taylor-greene #house #georgia #qanon #small-dollar #outrage-fundraising #conspiracy #trump-ally #doge #class-analysis #maga

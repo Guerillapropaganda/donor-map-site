@@ -20,9 +20,7 @@ source-types:
   - FEC
   - GovTrack
 corroboration-count: 3
-donors: >-
-  [[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]] · [[SPECIAL OPERATIONS
-  FOR AMERICA]]
+donors: "[[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]] · [[SPECIAL OPERATIONS FOR AMERICA]]"
 opposes: '[[HOUSE MAJORITY PAC]] · [[AMERICAN JOBS AND GROWTH PAC]]'
 ---
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money

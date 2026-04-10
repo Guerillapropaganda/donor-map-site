@@ -23,9 +23,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-opposes: >-
-  [[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]] · [[WOMEN VOTE!]] ·
-  [[PRIORITIES USA ACTION]]
+opposes: "[[PATRIOTS PREVAIL PAC]] · [[MAJORITY FORWARD]] · [[SMP]] · [[WOMEN VOTE!]] · [[PRIORITIES USA ACTION]]"
 related: "[[_Donald Trump Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]"
 ---
 #josh-hawley #senate #missouri #january-6 #populism #dark-money #christian-nationalism #class-analysis
