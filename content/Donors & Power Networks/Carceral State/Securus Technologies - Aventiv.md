@@ -2,7 +2,7 @@
 title: "Securus Technologies - Aventiv"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -11,7 +11,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]]"
+related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]] · [[Immigration Enforcement - The Detention Economy]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"

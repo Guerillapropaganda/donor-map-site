@@ -2,7 +2,7 @@
 title: "Eli Lilly"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -26,7 +26,7 @@ federal-contracts-count: 2
 federal-grants-count: 0
 top-federal-agency: "Department of Defense"
 top-naics-code: "325412"
-related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Merck]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Koch Industries]] · [[PhRMA]] · [[AbbVie]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Congressional Leadership Fund]] · [[American Action Network]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
+related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Merck]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Koch Industries]] · [[PhRMA]] · [[AbbVie]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Congressional Leadership Fund]] · [[American Action Network]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"

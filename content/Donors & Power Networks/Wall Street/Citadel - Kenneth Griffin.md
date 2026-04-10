@@ -2,7 +2,7 @@
 title: "Citadel - Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -21,7 +21,7 @@ sec-form-types:
   - "DEF 14A"
 lobbying-spend: 2680000
 lobbying-filings: 53
-related: "[[Wall Street Finance Networks]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Club for Growth]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Elon Musk]]"
+related: "[[Wall Street Finance Networks]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Club for Growth]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Elon Musk]] · [[Hedge Fund Industry Bloc]]"
 ---
 #citadel #kenneth-griffin #hedge-fund #wall-street #mega-donor #market-making #florida #payment-for-order-flow #pfof #deregulation #class-analysis #follow-the-money
 

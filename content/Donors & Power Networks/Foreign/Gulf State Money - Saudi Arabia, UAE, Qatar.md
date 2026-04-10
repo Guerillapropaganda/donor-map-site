@@ -2,7 +2,7 @@
 title: "Gulf State Money - Saudi Arabia, UAE, Qatar"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -19,7 +19,7 @@ lobbying-spend: 918000
 lobbying-filings: 71
 lei: "894500LPEZD0PA4A6I95"
 lei-jurisdiction: "IN"
-related: "[[Haim Saban]] · [[Affinity Partners and the Saudi Pipeline]] · [[Abraham Accords as Business Development]] · [[666 Fifth Avenue and Financial Desperation]] · [[Steve Witkoff]] · [[Trump Donor Coalition]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]]"
+related: "[[Haim Saban]] · [[Affinity Partners and the Saudi Pipeline]] · [[Abraham Accords as Business Development]] · [[666 Fifth Avenue and Financial Desperation]] · [[Steve Witkoff]] · [[Trump Donor Coalition]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[American Friends of the Likud]]"
 ---
 #donor #gulf-states #saudi #UAE #qatar #sovereign-wealth #class-analysis #follow-the-money #trump #foreign-influence #petrodollars #lobbying #arms-sales #khashoggi
 

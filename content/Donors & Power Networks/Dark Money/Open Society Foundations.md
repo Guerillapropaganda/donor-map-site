@@ -2,7 +2,7 @@
 title: "Open Society Foundations"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -18,7 +18,7 @@ net-assets: "$553"
 tax-year: "2016"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
-related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]] · [[George Soros]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]] · [[George Soros]] · [[_Gavin Newsom Master Profile]] · [[Democracy Alliance]]"
 court-cases: 138
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"

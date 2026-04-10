@@ -2,7 +2,7 @@
 title: "ADM - Archer Daniels Midland"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -17,7 +17,7 @@ last-enriched: "2026-04-09"
 lei: "549300KDUEM5IEU30490"
 lei-jurisdiction: "VN"
 lei-parent: "ARCHER-DANIELS-MIDLAND COMPANY"
-related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[_Dick Durbin Master Profile|Durbin]]"
+related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[_Dick Durbin Master Profile|Durbin]] · [[Tyson Foods]]"
 federal-register-mentions: 8
 regulatory-agencies:
   - "Securities and Exchange Commission"

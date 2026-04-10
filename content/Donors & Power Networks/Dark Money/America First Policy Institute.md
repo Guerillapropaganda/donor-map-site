@@ -2,7 +2,7 @@
 title: "America First Policy Institute"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -17,7 +17,7 @@ ein: "854202763"
 annual-revenue: "$27.3M"
 net-assets: "$9.9M"
 tax-year: "2023"
-related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]]"
+related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]] · [[DeVos Family]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

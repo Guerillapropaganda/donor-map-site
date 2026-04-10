@@ -2,7 +2,7 @@
 title: "Mark Zuckerberg"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,7 +11,7 @@ issues:
   - "Technology"
   - "Antitrust & Monopoly"
 last-enriched: "2026-04-09"
-related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]] · [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]]"
+related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]] · [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]] · [[Jeff Bezos]]"
 total-political-spend: "$114,701"
 politicians-funded:
   - "Chuck Schumer"

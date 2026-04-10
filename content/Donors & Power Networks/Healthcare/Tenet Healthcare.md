@@ -2,7 +2,7 @@
 title: "Tenet Healthcare"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -65,7 +65,7 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
+related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 23648810
 total-assets: 24419400

@@ -2,7 +2,7 @@
 title: "Democratic Donor Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,7 +12,7 @@ issues:
   - "Technology"
   - "Labor & Workers"
   - "Dark Money & Campaign Finance"
-related: "[[Ohio Democratic Party]] · [[Pod Save America]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA Action]]"
+related: "[[Ohio Democratic Party]] · [[Pod Save America]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA Action]] · [[Ohio Federation of Teachers]]"
 last-enriched: "2026-04-09"
 ein: "943062436"
 nonprofit-status: "501(c)(3)"

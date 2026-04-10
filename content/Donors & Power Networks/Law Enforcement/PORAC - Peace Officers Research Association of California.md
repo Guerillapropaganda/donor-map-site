@@ -2,7 +2,7 @@
 title: "PORAC - Peace Officers Research Association of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
@@ -12,7 +12,7 @@ politicians-funded:
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 last-enriched: "2026-04-07"
-related: "[[Chad Bianco Master Profile]] · [[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Gun and Public Safety - Donors and Backers]] · [[International Association of Chiefs of Police]] · [[Bail Bond Industry]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Riverside Sheriffs Association]] · [[_Gavin Newsom Master Profile]] · [[Criminal Justice - Donors and Backers]] · [[Policing Reform - George Floyd Era]]"
+related: "[[Chad Bianco Master Profile]] · [[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Gun and Public Safety - Donors and Backers]] · [[International Association of Chiefs of Police]] · [[Bail Bond Industry]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Riverside Sheriffs Association]] · [[_Gavin Newsom Master Profile]] · [[Criminal Justice - Donors and Backers]] · [[Policing Reform - George Floyd Era]] · [[IBEW Local 440 - Riverside]]"
 ---
 #donor #police-union #PORAC #law-enforcement #california #statewide #follow-the-money #class-analysis #accountability-blocker #clean-record-agreements
 

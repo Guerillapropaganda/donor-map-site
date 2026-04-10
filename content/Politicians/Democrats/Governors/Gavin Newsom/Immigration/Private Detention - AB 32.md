@@ -2,10 +2,10 @@
 title: "Private Detention - AB 32"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Trump Resistance and the 2028 Play]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[Immigration - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Trump Resistance and the 2028 Play]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[Immigration - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
 #newsom #immigration #private-detention #AB32 #private-prisons #GEO-group #[[CoreCivic|CoreCivic]] #genuine-win #ICE #detention
 

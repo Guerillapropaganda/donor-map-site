@@ -2,7 +2,7 @@
 title: "Republican Party Apparatus"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Infrastructure"
-related: "[[American Petroleum Institute]] · [[North Carolina 2026 Senate Race]] · [[Nebraska 2026 Senate Race]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[National Republican Senatorial Committee]] · [[_Donald Trump Master Profile|Trump]]"
+related: "[[American Petroleum Institute]] · [[North Carolina 2026 Senate Race]] · [[Nebraska 2026 Senate Race]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[National Republican Senatorial Committee]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

@@ -2,7 +2,7 @@
 title: "Haim Saban"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -20,7 +20,7 @@ annual-revenue: "$2.0M"
 net-assets: "$26.3M"
 tax-year: "2020"
 total-political-spend: "$20,115,751"
-related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[_Donald Trump Master Profile]]"
+related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[JPAC - Jewish Public Affairs Committee of California]]"
 last-enriched: "2026-04-09"
 ---
 #donor #israel #haim-saban #billionaire #entertainment #single-issue #democratic-mega-donor #follow-the-money #class-analysis #california #beverly-hills

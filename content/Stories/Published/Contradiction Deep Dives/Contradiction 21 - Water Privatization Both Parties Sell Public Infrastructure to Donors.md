@@ -2,12 +2,12 @@
 title: "Water Privatization: Both Parties Sell Public Infrastructure to Donors"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 issues:
   - "Infrastructure"
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Payday Lending Survives Through Bipartisan Protection]]"
 ---
 #contradiction #water #privatization #infrastructure #class-analysis
 

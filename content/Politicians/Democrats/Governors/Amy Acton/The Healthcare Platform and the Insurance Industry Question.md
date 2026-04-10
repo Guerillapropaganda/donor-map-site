@@ -2,10 +2,10 @@
 title: "The Healthcare Platform and the Insurance Industry Question"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
-related: "[[The Labor Coalition and What Unions Expect]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]]"
+related: "[[The Labor Coalition and What Unions Expect]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]] · [[The COVID Tenure and the Political Fallout]]"
 ---
 #acton #healthcare #insurance #medicaid #policy-platform #class-analysis #follow-the-money #structural-limits
 

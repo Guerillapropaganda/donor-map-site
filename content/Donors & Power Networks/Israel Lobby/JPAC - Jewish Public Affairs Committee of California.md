@@ -2,7 +2,7 @@
 title: "JPAC - Jewish Public Affairs Committee of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -16,7 +16,7 @@ last-enriched: "2026-04-09"
 ofac-programs:
   - "BELARUS"
   - "GLOMAG"
-related: "[[Ethnic Studies - Whose History Gets Taught]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JCRC Bay Area]]"
+related: "[[Ethnic Studies - Whose History Gets Taught]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JCRC Bay Area]] · [[Haim Saban]]"
 ein: "680028695"
 nonprofit-status: "501(c)(4)"
 total-revenue: 841076

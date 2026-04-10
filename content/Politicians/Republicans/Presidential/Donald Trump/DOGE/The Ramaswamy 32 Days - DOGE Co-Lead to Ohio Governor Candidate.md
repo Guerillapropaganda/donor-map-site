@@ -11,7 +11,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]]"
-donors: "[[Rebekah Mercer]]"
+donors: "[[Rebekah Mercer]] · [[Christopher Ruddy]]"
 ---
 #donald-trump #doge #vivek-ramaswamy #class-analysis #follow-the-money #tech #h1b #ohio #grift
 

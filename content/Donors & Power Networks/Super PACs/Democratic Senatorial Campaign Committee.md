@@ -2,7 +2,7 @@
 title: "Democratic Senatorial Campaign Committee"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -13,7 +13,7 @@ regulatory-agencies:
   - "Federal Election Commission"
   - "Postal Regulatory Commission"
   - "Securities and Exchange Commission"
-related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[ActBlue]] · [[EMILY's List]]"
+related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[ActBlue]] · [[EMILY's List]] · [[Senate Leadership Fund]]"
 sec-filings: 145
 sec-form-types:
   - "10-K"

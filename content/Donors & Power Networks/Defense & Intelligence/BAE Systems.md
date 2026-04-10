@@ -2,7 +2,7 @@
 title: "BAE Systems"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -35,7 +35,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: "8SVCSVKSGDWMW2QHOH83"
 lei-jurisdiction: "GB"
-related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]]"
+related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]] · [[Raytheon Technologies]]"
 nonprofit-status: "501(c)(9)"
 total-revenue: 534243661
 total-assets: 33156493

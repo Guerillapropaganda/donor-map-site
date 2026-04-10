@@ -2,7 +2,7 @@
 title: "Concerned Veterans for America"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -22,7 +22,7 @@ court-cases: 5
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. Illinois"
-related: "[[DeVos Family]] · [[Koch Network - Charles Koch]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[Doug Collins]] · [[_Donald Trump Master Profile|Trump]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]"
+related: "[[DeVos Family]] · [[Koch Network - Charles Koch]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[Doug Collins]] · [[_Donald Trump Master Profile|Trump]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[American Federation for Children]]"
 ---
 #donor #dark-money #koch #veterans #privatization #va #astroturf #class-analysis #follow-the-money #healthcare
 

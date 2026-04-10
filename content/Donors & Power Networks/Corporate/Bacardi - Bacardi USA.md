@@ -2,7 +2,7 @@
 title: "Bacardi - Bacardi USA"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Corporate"
@@ -13,7 +13,7 @@ politicians-funded:
   - "Maria Elvira Salazar"
   - "Carlos Gimenez"
   - "Debbie Wasserman Schultz"
-related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Debbie Wasserman Schultz Master Profile|Wasserman Schultz]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]]"
+related: "[[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Debbie Wasserman Schultz Master Profile|Wasserman Schultz]] · [[Fanjul Family - Florida Crystals]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
 source-types:
   - LDA
 known-gaps:

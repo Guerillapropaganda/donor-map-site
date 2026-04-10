@@ -2,7 +2,7 @@
 title: "L3Harris Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -57,7 +57,7 @@ subawards-received: 50
 subawards-received-amount: 9882497978
 top-federal-agency: "Department of Transportation"
 top-naics-code: "336413"
-related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]]"
+related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]] · [[Raytheon Technologies]]"
 lei: "549300UTE50ZMDBG8A20"
 lei-jurisdiction: "US-DE"
 ---

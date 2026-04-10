@@ -2,10 +2,10 @@
 title: "The Prosecutor Record - DA and AG"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: [[_Kamala Harris Master Profile]]
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[The Billion-Dollar Campaign - 2024 Finance]]"
 ---
 #harris #prosecutor #attorney-general #district-attorney #class-analysis #follow-the-money #onewest #mnuchin #mortgage #death-penalty #wrongful-conviction
 

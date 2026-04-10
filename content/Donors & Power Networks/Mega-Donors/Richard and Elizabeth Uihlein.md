@@ -2,7 +2,7 @@
 title: "Richard and Elizabeth Uihlein"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -14,7 +14,7 @@ issues:
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 last-enriched: "2026-04-07"
-related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]]"
+related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[Americans for Prosperity]]"
 ---
 #donor #uihlein #uline #shipping #far-right #class-analysis #follow-the-money #trump #election-denial #january-6 #anti-union #school-choice #abortion
 

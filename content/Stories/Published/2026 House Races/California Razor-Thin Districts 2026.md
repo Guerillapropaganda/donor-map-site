@@ -2,13 +2,13 @@
 title: "California Razor-Thin Districts 2026"
 type: story
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 known-gaps:
   - "No mapped relationships"
 
-related: "[[2026 House Money Map]] · [[DCCC Red-to-Blue Targets 2026]]"
+related: "[[2026 House Money Map]] · [[DCCC Red-to-Blue Targets 2026]] · [[GOP House Defense 2026]]"
 ---
 #2026-election #house #california #race-frame #vulnerable-freshmen
 

@@ -2,10 +2,10 @@
 title: "Post-October 7 Positions and Flip History"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Ethnic Studies - Whose History Gets Taught]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Gun and Public Safety - Donors and Backers]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Early History and Background Ties 2003-2019]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Ethnic Studies - Whose History Gets Taught]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Gun and Public Safety - Donors and Backers]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Early History and Background Ties 2003-2019]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #israel #october-7 #gaza #flip-history #position-tracker #donor-class #apartheid #two-audience-problem #2028
 

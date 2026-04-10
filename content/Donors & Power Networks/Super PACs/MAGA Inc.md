@@ -2,7 +2,7 @@
 title: "MAGA Inc"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -27,7 +27,7 @@ nonprofit-status: "501(c)(4)"
 sec-filings: 1
 sec-form-types:
   - "D"
-related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Save America PAC]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]]"
+related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Save America PAC]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[Senate Leadership Fund]]"
 ---
 #donor-node #super-pac #trump #mega-donors #dark-money
 

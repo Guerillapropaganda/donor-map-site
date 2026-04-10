@@ -2,7 +2,7 @@
 title: "Christians United for Israel"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -18,7 +18,7 @@ sec-form-types:
   - "EX-99.1"
   - "FWP"
   - "PRE 14A"
-related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]]"
+related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]]"
 ---
 #cufi #christian-zionism #israel #evangelical #hagee #lobbying #republican
 

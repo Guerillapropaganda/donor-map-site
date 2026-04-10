@@ -2,7 +2,7 @@
 title: "Mohammed bin Salman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -28,7 +28,7 @@ sec-form-types:
   - "FWP"
   - "N-CSR"
   - "PX14A6G"
-related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]]"
+related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]]"
 ---
 #donor-node #foreign #saudi-arabia #sovereign-wealth #arms-sales #class-analysis
 

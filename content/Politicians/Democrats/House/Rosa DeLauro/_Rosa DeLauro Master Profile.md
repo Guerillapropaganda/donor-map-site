@@ -2,7 +2,7 @@
 title: "Rosa DeLauro"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,7 +18,7 @@ top-donors:
   - "Lockheed Martin"
   - "AIPAC"
 donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]]"
-related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]]"
+related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
 total-received: "$689,298"
 fec-candidate-id: "H0CT03072"
 govtrack-id: 400103

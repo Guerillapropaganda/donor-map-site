@@ -2,7 +2,7 @@
 title: "Civica Rx"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -22,7 +22,7 @@ court-cases: 2
 court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, N.D. Ohio"
-related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]]"
+related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Kaiser Permanente]]"
 ---
 #donor #civica-rx #generic-drugs #nonprofit #healthcare #insulin #calrx #calcium #health-systems #pharmaceutical
 

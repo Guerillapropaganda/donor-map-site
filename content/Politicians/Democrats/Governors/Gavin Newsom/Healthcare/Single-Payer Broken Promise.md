@@ -2,10 +2,10 @@
 title: "Single-Payer Broken Promise"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Economic Policy - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CalRx - The Genuine Win With Caveats]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Economic Policy - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CalRx - The Genuine Win With Caveats]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
 #newsom #healthcare #single-payer #AB1400 #CalCare #donor-class #insurance-industry #rhetoric-vs-record #broken-promise
 

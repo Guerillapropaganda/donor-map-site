@@ -11,6 +11,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Chad Bianco Master Profile]] · [[COVID Mandate Refusal - The Brand-Building Moment]] · [[287(g) and the Sanctuary State Contradiction]] · [[Oath Keepers Membership and the Constitutional Sheriff Movement]]"
+donors: "[[Christopher Ruddy]]"
 ---
 donors: "[[Rebekah Mercer]]"
 ---

@@ -2,10 +2,10 @@
 title: "GOP House Defense 2026"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[DCCC Red-to-Blue Targets 2026]] · [[2026 House Money Map]] · [[Congressional Leadership Fund|CLF]] · [[Americans for Prosperity|AFP]] · [[MAGA Inc]]"
+related: "[[DCCC Red-to-Blue Targets 2026]] · [[2026 House Money Map]] · [[Congressional Leadership Fund|CLF]] · [[Americans for Prosperity|AFP]] · [[MAGA Inc]] · [[California Razor-Thin Districts 2026]]"
 ---
 #2026-election #house #race-frame #nrcc #republican-defense #class-analysis
 

@@ -2,7 +2,7 @@
 title: "CCPOA - California Correctional Peace Officers Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -19,7 +19,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]]"
+related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]]"
 ---
 #donor #prison-guards #CCPOA #labor-union #carceral-state #class-analysis #reform-ceiling #california #follow-the-money #union-as-capital-instrument
 

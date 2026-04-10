@@ -2,7 +2,7 @@
 title: "National Association of Realtors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -55,7 +55,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "National Labor Relations Board"
-related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom Master Profile]] · [[The Real Estate President and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] · [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]]"
+related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom Master Profile]] · [[The Real Estate President and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] · [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]] · [[Real Estate Board of New York]]"
 ---
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door
 

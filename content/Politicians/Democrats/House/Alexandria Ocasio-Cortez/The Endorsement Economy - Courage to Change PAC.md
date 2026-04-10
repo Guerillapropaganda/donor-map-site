@@ -2,7 +2,7 @@
 title: "The Endorsement Economy - Courage to Change PAC"
 type: sub-note
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: "[[_Alexandria Ocasio-Cortez Master Profile]]"
 fec-committee-id: C00692202
@@ -11,7 +11,7 @@ source-types:
 known-gaps:
   - Only 1 Tier 1 source type (FEC). Need second for verified promotion.
   - IE spending data needs FEC cross-check ($279,600 in 2023-2024 cycle)
-related: "[[The Small-Dollar Model and the Anti-Donor Experiment]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Bernie Sanders Master Profile]]"
+related: "[[The Small-Dollar Model and the Anti-Donor Experiment]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Bernie Sanders Master Profile]] · [[The AIPAC Primary Machine and Foreign Affairs Removal]]"
 ---
 #aoc #leadership-pac #courage-to-change #endorsements #progressive #class-analysis #follow-the-money
 

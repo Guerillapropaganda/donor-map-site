@@ -2,7 +2,7 @@
 title: "Devon Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -22,7 +22,7 @@ net-assets: "$1"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Valero Energy]] · [[ConocoPhillips]] · [[Koch Industries]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[_James Lankford Master Profile|Lankford]] · [[_Markwayne Mullin Master Profile|Mullin]]"
+related: "[[Valero Energy]] · [[ConocoPhillips]] · [[Koch Industries]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[_James Lankford Master Profile|Lankford]] · [[_Markwayne Mullin Master Profile|Mullin]] · [[WSPA - Western States Petroleum Association]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 1
 total-assets: 1

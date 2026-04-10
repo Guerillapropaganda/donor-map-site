@@ -2,10 +2,10 @@
 title: "The NLRB Gutting and the Biggest Union Bust in American History"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Labor - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]]"
+related: "[[Labor - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared]]"
 ---
 #donald-trump #labor #nlrb #unions #schedule-f #doge #osha #minimum-wage #overtime #collective-bargaining #class-analysis #follow-the-money
 

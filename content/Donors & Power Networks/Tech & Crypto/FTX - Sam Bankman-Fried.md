@@ -2,7 +2,7 @@
 title: "FTX - Sam Bankman-Fried"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -13,7 +13,7 @@ issues:
   - "Technology"
   - "Dark Money & Campaign Finance"
 last-enriched: "2026-04-08"
-related: "[[French Hill]] · [[Sam Bankman-Fried]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]]"
+related: "[[French Hill]] · [[Sam Bankman-Fried]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Coinbase]]"
 ---
 #donor #crypto #dark-money #fraud #class-analysis #follow-the-money #both-sides-illusion #regulatory-capture
 

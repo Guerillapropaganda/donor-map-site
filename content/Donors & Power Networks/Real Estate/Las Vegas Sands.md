@@ -2,7 +2,7 @@
 title: "Las Vegas Sands"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Real Estate"
@@ -43,7 +43,7 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
-related: "[[Catherine Cortez Masto]]"
+related: "[[Catherine Cortez Masto]] · [[American Gaming Association]]"
 court-cases: 1929
 last-enriched: "2026-04-09"
 court-jurisdictions:

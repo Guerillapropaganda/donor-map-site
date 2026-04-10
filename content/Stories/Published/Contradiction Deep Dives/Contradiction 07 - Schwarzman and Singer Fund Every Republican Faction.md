@@ -2,12 +2,12 @@
 title: "Schwarzman and Singer Fund Every Republican Faction"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 issues:
   - "Wall Street & Finance"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]] · [[Intra-Republican Contradiction Map]]"
 ---
 #investigation #contradiction #schwarzman #singer #wall-street #republican #class-analysis
 tags: #analysis #story

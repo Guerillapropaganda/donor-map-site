@@ -2,7 +2,7 @@
 title: "Wall Street Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,7 +11,7 @@ issues:
   - "Wall Street & Finance"
 lobbying-spend: 1048100
 lobbying-filings: 87
-related: "[[Kyrsten Sinema Master Profile]] · [[The Carried Interest Kill and the Wall Street Fundraising Surge]] · [[Financial Services Donors]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]]"
+related: "[[Kyrsten Sinema Master Profile]] · [[The Carried Interest Kill and the Wall Street Fundraising Surge]] · [[Financial Services Donors]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Wall Street Finance Networks]]"
 ---
 #wall-street #bloc #banking #finance #bipartisan #revolving-door
 

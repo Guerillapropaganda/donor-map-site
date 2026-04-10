@@ -2,7 +2,7 @@
 title: "Apple"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -45,7 +45,7 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Federal Reserve System"
   - "Food and Drug Administration"
-related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]] · [[Barack Obama Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[Invariant]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Microsoft]]"
+related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]] · [[Barack Obama Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[Invariant]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Microsoft]] · [[TikTok - ByteDance]]"
 federal-awards-total: 17198395
 federal-contracts-count: 25
 federal-grants-count: 25

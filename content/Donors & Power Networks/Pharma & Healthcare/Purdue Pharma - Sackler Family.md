@@ -2,7 +2,7 @@
 title: "Purdue Pharma - Sackler Family"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -13,7 +13,7 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
-related: "[[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Pfizer]] · [[Eli Lilly]]"
+related: "[[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Pfizer]] · [[Eli Lilly]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 ---
 #purdue #sackler #opioid #oxycontin #crisis #bankruptcy #doj #lobbying #accountability #revolving-door #dark-money #pharma #fda
 

@@ -2,7 +2,7 @@
 title: "Marble Freedom Trust"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -12,7 +12,7 @@ issues:
 ein: "850784793"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
-related: "[[Sentinel Action Fund]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Leonard Leo]] · [[Federalist Society]] · [[Barre Seid]] · [[The 85 Fund]]"
+related: "[[Sentinel Action Fund]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Leonard Leo]] · [[Federalist Society]] · [[Barre Seid]] · [[The 85 Fund]] · [[DonorsTrust]]"
 ---
 #donor #dark-money #judicial-capture #leonard-leo #conservative #mega-donation #federalist-society
 

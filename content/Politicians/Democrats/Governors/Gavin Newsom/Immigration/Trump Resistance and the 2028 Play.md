@@ -2,10 +2,10 @@
 title: "Trump Resistance and the 2028 Play"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Pro-Israel Donor Network Deep Dive]] · [[Private Detention - AB 32]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Post-October 7 Positions and Flip History]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Pro-Israel Donor Network Deep Dive]] · [[Private Detention - AB 32]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Post-October 7 Positions and Flip History]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 ---
 #newsom #immigration #trump-resistance #2028 #positioning #rhetoric #national-profile #class-analysis #deportations #ice
 

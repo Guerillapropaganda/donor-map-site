@@ -21,7 +21,7 @@ top-donors:
   - "Apollo Global Management"
 total-received: "$6,801,272"
 fec-candidate-id: "S0UT00165"
-donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]]"
+donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]] · [[Rebekah Mercer]]"
 related: "[[John Barrasso]] · [[Chip Roy Master Profile]] · [[Apollo Global Management]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[Club for Growth]] · [[Blackstone Group]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[Federalist Society]]"
 ---
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis

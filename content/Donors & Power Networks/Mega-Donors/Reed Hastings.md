@@ -2,7 +2,7 @@
 title: "Reed Hastings"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -40,7 +40,7 @@ subawards-received-amount: 1009778941592127500
 federal-register-mentions: 2
 regulatory-agencies:
   - "Securities and Exchange Commission"
-related: "[[Silicon Valley Democratic Donor Network]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[Laurene Powell Jobs]]"
+related: "[[Silicon Valley Democratic Donor Network]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[Laurene Powell Jobs]] · [[Hollywood Democratic Donor Network]]"
 total-political-spend: "$28,513,162"
 politicians-funded:
   - "Joe Biden"

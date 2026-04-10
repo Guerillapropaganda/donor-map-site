@@ -2,7 +2,7 @@
 title: "Invitation Homes - Institutional Landlords"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -13,7 +13,7 @@ subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-related: "[[The Housing Progressive and Wall Street Tension]] · [[Blackstone Group]] · [[National Rental Home Council]] · [[American Homes 4 Rent]] · [[Pretium/Progress Residential]] · [[FirstKey Homes - Cerberus]] · [[National Association of Realtors]] · [[Real Estate Board of New York]]"
+related: "[[The Housing Progressive and Wall Street Tension]] · [[Blackstone Group]] · [[National Rental Home Council]] · [[American Homes 4 Rent]] · [[Pretium/Progress Residential]] · [[FirstKey Homes - Cerberus]] · [[National Association of Realtors]] · [[Real Estate Board of New York]] · [[Real Estate Industry Bloc]]"
 lobbying-spend: 400000
 lobbying-filings: 14
 ---

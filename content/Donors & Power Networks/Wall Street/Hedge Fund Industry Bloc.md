@@ -2,7 +2,7 @@
 title: "Hedge Fund Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
   - "Tax Policy"
-related: "[[The Carried Interest Loophole - 30 Years of Survival]] · [[Citadel - Kenneth Griffin]] · [[Goldman Sachs]] · [[Private Equity Industry Bloc]] · [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement]]"
+related: "[[The Carried Interest Loophole - 30 Years of Survival]] · [[Citadel - Kenneth Griffin]] · [[Goldman Sachs]] · [[Private Equity Industry Bloc]] · [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement]] · [[Wall Street Finance Networks]]"
 ---
 #hedge-funds #wall-street #carried-interest #tax #bipartisan #sec #regulation
 

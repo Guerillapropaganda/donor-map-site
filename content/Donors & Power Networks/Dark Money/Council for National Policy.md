@@ -2,7 +2,7 @@
 title: "Council for National Policy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -28,7 +28,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 4179564
 total-assets: 3694941
-related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]]"
+related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Federation for Children]]"
 fara-status: "registrant"
 fara-records: 4
 fara-countries:

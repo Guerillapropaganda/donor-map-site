@@ -21,8 +21,8 @@ bills-sponsored: 7
 bills-cosponsored: 27
 website: "https://jasonsmith.house.gov"
 phone: "202-225-4404"
-donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]]"
-related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Real Estate Roundtable]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
+donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Real Estate Roundtable]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 ---
 #jason-smith #republican #missouri #house #committee-chair #phase-6-gavel-power #ways-and-means #tax-policy #class-analysis #follow-the-money
 

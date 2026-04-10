@@ -2,10 +2,10 @@
 title: "The Labor Coalition and What Unions Expect"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
-related: "[[The Healthcare Platform and the Insurance Industry Question]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio AFL-CIO]] · [[UAW - United Auto Workers|UAW]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]]"
+related: "[[The Healthcare Platform and the Insurance Industry Question]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio AFL-CIO]] · [[UAW - United Auto Workers|UAW]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[The COVID Tenure and the Political Fallout]]"
 ---
 #acton #labor-unions #ohio-afl-cio #uaw #working-class #institutional-democracy #class-analysis #follow-the-money #doge
 

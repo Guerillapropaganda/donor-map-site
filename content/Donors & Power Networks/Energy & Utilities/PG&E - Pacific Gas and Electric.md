@@ -2,7 +2,7 @@
 title: "PG&E - Pacific Gas and Electric"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -14,7 +14,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 397265
 total-assets: 358665
-related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Hawaiian Electric Company]]"
+related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Hawaiian Electric Company]] · [[NextEra Energy]]"
 lei: "R0KNQ1I1NAJLDR51ER82"
 lei-jurisdiction: "US-CA"
 federal-register-mentions: 5

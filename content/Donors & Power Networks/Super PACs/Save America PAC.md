@@ -2,7 +2,7 @@
 title: "Save America PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -14,7 +14,7 @@ issues:
 ein: "933113620"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
-related: "[[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[MAGA Inc]] · [[_Donald Trump Master Profile]] · [[Trump Victory]] · [[Trump Crypto - The President as Personal Profiteer]]"
+related: "[[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[MAGA Inc]] · [[_Donald Trump Master Profile]] · [[Trump Victory]] · [[Trump Crypto - The President as Personal Profiteer]] · [[WinRed]]"
 ---
 #donor #pac #leadership-pac #trump #dark-money #class-analysis #follow-the-money #pardons #slush-fund #january-6 #legal-defense
 

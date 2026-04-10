@@ -2,14 +2,14 @@
 title: "RSA - The Single-Patron Sheriff"
 type: story
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Story"
 politicians-funded:
   - "Chad Bianco"
-related: "[[Deputy Misconduct and the Whistleblower Firing]] · [[_Chad Bianco Master Profile|Bianco]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]]"
+related: "[[Deputy Misconduct and the Whistleblower Firing]] · [[_Chad Bianco Master Profile|Bianco]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[CA DOJ Investigation - Pattern and Practice]]"
 ---
 #rsa #sheriff #single-patron #law-enforcement #local-politics #bianco
 

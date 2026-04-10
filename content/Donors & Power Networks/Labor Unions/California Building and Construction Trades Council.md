@@ -2,7 +2,7 @@
 title: "California Building and Construction Trades Council"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -14,7 +14,7 @@ issues:
   - "Infrastructure"
 lobbying-spend: 10479974
 lobbying-filings: 106
-related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]]"
+related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 last-enriched: "2026-04-09"
 ---
 #donor #union #building-trades #california #labor #class-analysis #follow-the-money #prevailing-wage #PLA #infrastructure #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #apprenticeship

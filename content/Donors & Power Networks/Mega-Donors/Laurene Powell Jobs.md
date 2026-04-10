@@ -2,7 +2,7 @@
 title: "Laurene Powell Jobs"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -24,7 +24,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 lei: "549300MB5G3G4YWX8732"
 lei-jurisdiction: "US-CA"
-related: "[[Silicon Valley Democratic Donor Network]] · [[_Kamala Harris Master Profile]] · [[Democratic Donor Network]] · [[Climate Philanthropy - The Green Billionaires]] · [[Education - Donors and Backers]] · [[Immigration - Donors and Backers]]"
+related: "[[Silicon Valley Democratic Donor Network]] · [[_Kamala Harris Master Profile]] · [[Democratic Donor Network]] · [[Climate Philanthropy - The Green Billionaires]] · [[Education - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Reed Hastings]]"
 ---
 #donor-node #mega-donor #media #democrat #philanthropy #class-analysis #emerson-collective #the-atlantic #education-reform #immigration
 

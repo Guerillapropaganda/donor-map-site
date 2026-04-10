@@ -2,7 +2,7 @@
 title: "The 85 Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -21,7 +21,7 @@ total-revenue: 168530018
 total-assets: 2754902
 lei: "549300JZ9WCXZDH10988"
 lei-jurisdiction: "US-DE"
-related: "[[Federalist Society]] · [[Barre Seid]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[Sentinel Action Fund]]"
+related: "[[Federalist Society]] · [[Barre Seid]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[Sentinel Action Fund]] · [[Judicial Crisis Network]]"
 ---
 #85-fund #dark-money #judicial #Leonard-Leo #judicial-education-project #SCOTUS #nomination-campaigns
 

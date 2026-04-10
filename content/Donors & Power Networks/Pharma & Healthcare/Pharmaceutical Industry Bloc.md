@@ -2,7 +2,7 @@
 title: "Pharmaceutical Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
   - "Social Safety Net"
 federal-contracts: "5976"
-related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]] · [[Bob Casey]] · [[PhRMA]] · [[Pfizer]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Novo Nordisk]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Purdue Pharma - Sackler Family]]"
+related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]] · [[Bob Casey]] · [[PhRMA]] · [[Pfizer]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Novo Nordisk]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Purdue Pharma - Sackler Family]] · [[Cory Booker]]"
 ---
 #pharma #industry-bloc #lobbying #drug-pricing #patent #medicare #aca
 

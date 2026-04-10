@@ -2,12 +2,12 @@
 title: "Legal Sector Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
-related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]]"
+related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]]"
 last-enriched: "2026-04-09"
 ---
 #legal #lawyers #donors #tort #corporate-law #bundling #democratic #bipartisan

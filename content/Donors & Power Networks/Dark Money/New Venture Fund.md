@@ -2,7 +2,7 @@
 title: "New Venture Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -54,7 +54,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
-related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Democracy Alliance]]"
+related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Democracy Alliance]] · [[Media Matters]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 664320202
 total-assets: 624857462

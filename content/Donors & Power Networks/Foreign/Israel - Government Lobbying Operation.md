@@ -2,7 +2,7 @@
 title: "Israel - Government Lobbying Operation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -16,7 +16,7 @@ fara-records: 2
 fara-countries:
   - "QATAR"
 opposes: "[[Abby Martin]]"
-related: "[[Christians United for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[AIPAC Super PAC Spending Map]]"
+related: "[[Christians United for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[AIPAC Super PAC Spending Map]] · [[Haim Saban]]"
 ---
 #israel #foreign #lobbying #aipac #aid #arms #settlements #gaza
 

@@ -2,7 +2,7 @@
 title: "Enterprise Products Partners"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -27,7 +27,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
   - "District Court, W.D. Texas"
-related: "[[InfluenceMap]] · [[Rex Tillerson]] · [[Williams Companies]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Joe Manchin]]"
+related: "[[InfluenceMap]] · [[Rex Tillerson]] · [[Williams Companies]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Joe Manchin]] · [[League of Conservation Voters]]"
 source-types:
   - Courts
   - LDA

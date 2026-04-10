@@ -2,7 +2,7 @@
 title: "Monsanto - Bayer"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -46,7 +46,7 @@ sec-form-types:
   - "N-CSRS"
   - "PREM14A"
   - "SC 14D9"
-related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]]"
+related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]] · [[Tyson Foods]]"
 lobbying-spend: 840000
 lobbying-filings: 16
 ---

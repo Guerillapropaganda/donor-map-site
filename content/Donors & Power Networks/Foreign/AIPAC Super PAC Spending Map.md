@@ -2,13 +2,13 @@
 title: "AIPAC Super PAC Spending Map"
 type: reference
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 issues:
   - "Israel & Foreign Policy"
-related: "[[The AIPAC Primary Machine and Foreign Affairs Removal]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]]"
+related: "[[The AIPAC Primary Machine and Foreign Affairs Removal]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Israel - Government Lobbying Operation]]"
 ---
 #aipac #israel #super-pac #udp #primary #election #spending
 

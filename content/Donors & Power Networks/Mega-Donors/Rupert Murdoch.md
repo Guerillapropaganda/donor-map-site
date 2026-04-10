@@ -2,7 +2,7 @@
 title: "Rupert Murdoch"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -23,7 +23,7 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. California"
   - "District Court, S.D. Florida"
-related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[Fox News - Murdoch Media Empire]] · [[Wilks Brothers — Dan and Farris Wilks]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Media and Propaganda - Donors and Backers]]"
+related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[Fox News - Murdoch Media Empire]] · [[Wilks Brothers — Dan and Farris Wilks]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Media and Propaganda - Donors and Backers]] · [[Paul Ryan]]"
 sec-filings: 5590
 sec-form-types:
   - "144"

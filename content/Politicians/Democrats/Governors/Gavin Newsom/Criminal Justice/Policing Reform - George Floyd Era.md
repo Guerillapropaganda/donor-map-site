@@ -2,10 +2,10 @@
 title: "Policing Reform - George Floyd Era"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Budget Priorities - What California Actually Funds]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Budget Priorities - What California Actually Funds]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]]"
 ---
 #newsom #criminal-justice #policing #george-floyd #AB1506 #use-of-force #accountability #reform-vs-rollback #chokeholds #warrior-training #class-analysis #2020
 

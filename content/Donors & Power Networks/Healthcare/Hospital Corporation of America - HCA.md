@@ -2,14 +2,14 @@
 title: "Hospital Corporation of America - HCA"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-related: "[[Humana]] · [[The Medicare Fraud Governor and Senate Campaign]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[UnitedHealth Group - Optum]] · [[CVS Health - Aetna]] · [[Private Equity Industry Bloc]]"
+related: "[[Humana]] · [[The Medicare Fraud Governor and Senate Campaign]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[UnitedHealth Group - Optum]] · [[CVS Health - Aetna]] · [[Private Equity Industry Bloc]] · [[Johnson & Johnson]]"
 ---
 #hca #healthcare #hospitals #for-profit #private-equity #frist #tennessee
 

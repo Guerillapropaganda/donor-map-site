@@ -2,7 +2,7 @@
 title: "Booz Allen Hamilton"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -58,7 +58,7 @@ sec-form-types:
 federal-awards-total: 6457449191
 federal-contracts-count: 25
 federal-grants-count: 2
-related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]] · [[_Gerry Connolly Master Profile|Connolly]]"
+related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]] · [[_Gerry Connolly Master Profile|Connolly]] · [[Leidos]]"
 ---
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor
 

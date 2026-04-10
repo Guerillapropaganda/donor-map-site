@@ -2,14 +2,14 @@
 title: "Winning for Women PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 politicians-funded:
   - "Elise Stefanik"
-related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]]"
+related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]] · [[Senate Leadership Fund]]"
 ---
 #winning-for-women #republican #women #pac #senate #house #gop #carey-committee #primary-intervention #paul-singer #citadel #class-analysis
 

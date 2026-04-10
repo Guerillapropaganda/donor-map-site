@@ -25,7 +25,7 @@ top-donors:
   - "Meta - Facebook"
 total-received: "$2,401,862"
 fec-candidate-id: "S6MN00267"
-donors: "[[Jewish Democratic Council of America]]"
+donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]"
 last-enriched: "2026-04-09"
 ---

@@ -2,7 +2,7 @@
 title: "Senate Leadership Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -25,7 +25,7 @@ sec-form-types:
   - "DEF 14A"
 ein: "862883453"
 nonprofit-status: "501(c)(4)"
-related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim Scott]] · [[John Cornyn]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
+related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim Scott]] · [[John Cornyn]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Winning for Women PAC]]"
 ---
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money
 

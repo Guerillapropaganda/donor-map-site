@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -54,7 +54,7 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 14D9"
-related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Schwarzman Connection and Private Equity Capture]] · [[_Donald Trump Master Profile]] · [[Private Equity Industry Bloc|Private Equity Industry]] · [[MAGA Inc]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Schwarzman Connection and Private Equity Capture]] · [[_Donald Trump Master Profile]] · [[Private Equity Industry Bloc|Private Equity Industry]] · [[MAGA Inc]] · [[Schwarzman and Singer Fund Every Republican Faction]]"
 court-cases: 25
 court-jurisdictions:
   - "District Court, D. Maryland"
