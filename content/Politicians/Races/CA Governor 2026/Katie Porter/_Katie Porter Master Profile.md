@@ -12,7 +12,8 @@ state: "California"
 state-abbr: "CA"
 bioguide-id: "P000618"
 govtrack-id: 412758
-fec-candidate-id: "H8CA45076"
+fec-candidate-id: "S4CA00522"
+fec-candidate-id-house: "H8CA45130"
 bills-sponsored: 0
 bills-cosponsored: 0
 issues:
