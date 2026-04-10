@@ -19,7 +19,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-opposes: '[[GEORGIANS FOR STRONG FAMILIES, INC.]]'
+opposes: '[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]]'
 ---
 
 
