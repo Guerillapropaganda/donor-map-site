@@ -2,7 +2,7 @@
 title: Jamaal Bowman Master Profile
 type: politician
 content-readiness: draft
-last-updated: '2026-04-09'
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: Democrat
@@ -22,7 +22,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]]'
+opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]]'
 donors: '[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]]'
 ---
 
