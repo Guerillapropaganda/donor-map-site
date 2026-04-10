@@ -14,6 +14,12 @@ known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+lei: "549300TSZGTGDSCIPC02"
+lei-jurisdiction: "BM"
+lei-parent: "CVS HEALTH CORPORATION"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
+last-enriched: "2026-04-10"
 ---
 #pbm #pharmacy-benefit-managers #optumrx #cvs-caremark #express-scripts #unitedhealth #cigna #drug-pricing #rebates #class-analysis #follow-the-money
 
@@ -65,3 +71,41 @@ The PBM industry's bipartisan protection is the clearest example of donor class 
 
 research-status:: ready — 80% market share, FTC 2024 report, rebate model documented, both-sides protection table, OptumRx/CVS Caremark/Express Scripts. 3 sources, Tier 1. All ### headers. Promoted Session 38m.
 
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300TSZGTGDSCIPC02](https://search.gleif.org/#/record/549300TSZGTGDSCIPC02) |
+| Legal Name | CVS Caremark Indemnity Ltd. |
+| Jurisdiction | BM |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-04T12:56:46Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [CVS HEALTH CORPORATION](https://search.gleif.org/#/record/549300EJG376EN5NQE29) (US-DE)
+- CVS Caremark Indemnity Ltd. (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=PBM%20Industry%20Bloc%20-%20OptumRx%2C%20CVS%20Caremark%2C%20Express%20Scripts) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

@@ -2,7 +2,7 @@
 title: "Ben Horowitz"
 type: donor
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 sector: "Tech & Crypto"
@@ -19,6 +19,15 @@ known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
   - Full build required: a16z founding, crypto policy advocacy, 2024 Trump endorsement reversal, AI PAC role
   - No standalone FEC contribution compilation (currently grouped with Andreessen)
+court-cases: 46
+last-enriched: "2026-04-10"
+court-jurisdictions:
+  - "District Court, D. Connecticut"
+  - "District Court, D. Delaware"
+  - "District Court, D. Minnesota"
+  - "District Court, E.D. California"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
 ---
 
 #ben-horowitz #a16z #andreessen-horowitz #crypto #fairshake #leading-the-future #ai-pac #mega-donor
@@ -68,3 +77,22 @@ Source: [[Fairshake PAC]], [[Marc Andreessen & Horowitz]] vault entries.
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Horowitz is currently grouped with Andreessen in `[[Marc Andreessen & Horowitz]]` — this standalone profile preserves individual attribution for contribution records and distinct roles (Horowitz took public lead on Trump endorsement rhetoric). Full build-out requires separating his individual political giving from the combined a16z total.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 46 |
+| Courts | District Court, D. Connecticut, District Court, D. Delaware, District Court, D. Minnesota, District Court, E.D. California, District Court, N.D. California, District Court, S.D. New York |
+| Case Types | 160 Stockholders Suits, 370 Fraud, 448 Civil Rights: Education, 470 Racketeer/Corrupt Organization, 820 Copyright |
+
+**Notable cases:**
+- McCown v. Navan, Inc. (2026) — District Court, N.D. California
+- People Center, Inc. v. Deel, Inc. (2025) — District Court, N.D. California
+- Rignol v. Yale University (2025) — District Court, D. Connecticut
+- State of Minnesota Office of the Attorney General v. Johnson (2024) — District Court, D. Minnesota
+- UMG Recordings, Inc. v. Uncharted Labs, Inc. (2024) — District Court, S.D. New York
+- Moore v. Stripe, Inc. (2024) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ben%20Horowitz%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

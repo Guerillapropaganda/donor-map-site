@@ -8,11 +8,11 @@ parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
+  - "Wes Moore"
 issues:
   - "Dark Money & Campaign Finance"
 federal-register-mentions: 1
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Energy Department"
 court-cases: 15
@@ -32,6 +32,7 @@ tax-year: "2023"
 nonprofit-status: "501(c)(3)"
 total-revenue: 34690942
 total-assets: 72296824
+total-political-spend: "$5,380"
 ---
 #conservative-partnership-institute #cpi #dark-money #maga #jim-demint #mark-meadows #january-6
 
@@ -132,3 +133,20 @@ CPI operates as a shadow personnel operation for the MAGA movement — performin
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/821470217) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $5,380 |
+| Contributions | 2 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| VICTORIA SPARTZ FOR CONGRESS | $5,000 | REP |
+| BARRY MOORE FOR CONGRESS | $380 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Conservative%20Partnership%20Institute) (Tier 1)
+<!-- auto:fec-donor end -->

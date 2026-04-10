@@ -2,7 +2,7 @@
 title: "Harold Hamm"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -34,6 +34,8 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 160081
 total-assets: 8950006
 related: "[[Doug Burgum Master Profile]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[The Harold Hamm Pipeline and the Continental Resources Conflict]] · [[The 445 Million Dollar Oil Investment and Wrights Buy-In]] · [[Environment - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Chevron]] · [[PG&E]]"
+lobbying-spend: 70000
+lobbying-filings: 4
 ---
 #donor-node #mega-donor #fossil-fuel #fracking #oklahoma #republican #class-analysis #continental-resources #bakken #energy-policy #trump-advisor #donor
 
@@ -314,3 +316,22 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461256191) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $70K |
+| Quarterly Filings | 4 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 1 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Energy/Nuclear, Manufacturing, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** MR. HAROLD CONNOLLY
+
+**Agencies contacted:** HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Harold%20Hamm) (Tier 1)
+<!-- auto:lda-lobbying end -->

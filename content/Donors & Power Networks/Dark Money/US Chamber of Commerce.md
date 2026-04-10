@@ -13,7 +13,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 149
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Massachusetts"
@@ -54,6 +54,18 @@ nonprofit-status: "501(c)(6)"
 total-revenue: 173949
 total-assets: 231861
 related: "[[DeVos Family]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[The Education Committee and Michigan Manufacturing]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FEC to Congress Pipeline and Election Law]] · [[2026-03-25 Finance Research]] · [[American Federation for Children]] · [[Stand Together]] · [[House Freedom Caucus]] · [[Americans for Tax Reform - Grover Norquist]] · [[John Cornyn]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Business Roundtable]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council]] · [[Goldman Sachs]] · [[PhRMA]] · [[_Donald Trump Master Profile]] · [[_Barack Obama Master Profile]] · [[Linda McMahon Master Profile]] · [[Insurance Industry]] · [[National Education Association]]"
+federal-register-mentions: 22
+regulatory-agencies:
+  - "Commerce Department"
+  - "Employee Benefits Security Administration"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Labor Department"
+  - "National Oceanic and Atmospheric Administration"
+  - "Occupational Safety and Health Administration"
+  - "Pipeline and Hazardous Materials Safety Administration"
 ---
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis
 
@@ -362,6 +374,35 @@ The Chamber does not represent "business." It represents the capital class's int
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Banking** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **John Cornyn** → Sits on **Judiciary**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Immigration** → Funds **John Cornyn** → Sits on **Judiciary**
+- Lobbies on **Intelligence** → Funds **John Cornyn** → Sits on **Intelligence**
+- Lobbies on **Medicare/Medicaid** → Funds **John Cornyn** → Sits on **Finance**
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $790K
+- [[Barack Obama]] — lobbying: $790K
+- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $790K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
@@ -435,3 +476,25 @@ The Chamber does not represent "business." It represents the capital class's int
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/141883061) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 22 |
+| Final Rules | 16 |
+| Proposed Rules | 3 |
+| Notices | 3 |
+| Agencies | Commerce Department, Employee Benefits Security Administration, Energy Department, Environmental Protection Agency, Federal Energy Regulatory Commission, Federal Trade Commission, Labor Department, National Oceanic and Atmospheric Administration +5 more |
+
+**Recent regulatory activity:**
+- [Perchloroethylene (PCE); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/18/2024-30117/perchloroethylene-pce-regulation-under-the-toxic-substances-control-act-tsca) (2024-12-18) — Environmental Protection Agency
+- [Carbon Tetrachloride (CTC); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/18/2024-29517/carbon-tetrachloride-ctc-regulation-under-the-toxic-substances-control-act-tsca) (2024-12-18) — Environmental Protection Agency ★
+- [Trichloroethylene (TCE); Regulation Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/12/17/2024-29274/trichloroethylene-tce-regulation-under-the-toxic-substances-control-act-tsca) (2024-12-17) — Environmental Protection Agency ★
+- [Retirement Savings Lost and Found](https://www.federalregister.gov/documents/2024/11/20/2024-27098/retirement-savings-lost-and-found) (2024-11-20) — Labor Department
+- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (2024-06-11) — Energy Department
+- [Telemarketing Sales Rule](https://www.federalregister.gov/documents/2024/04/16/2024-07180/telemarketing-sales-rule) (2024-04-16) — Federal Trade Commission
+- ... and 16 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22US%20Chamber%20of%20Commerce%22) (Tier 1)
+<!-- auto:federal-register end -->

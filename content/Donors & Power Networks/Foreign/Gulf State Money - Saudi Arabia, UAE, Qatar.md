@@ -198,7 +198,7 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 - [[Jared Kushner]] — lobbying: $918K
 - [[Benjamin Netanyahu]] — lobbying: $918K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Corporate Structure (GLEIF)

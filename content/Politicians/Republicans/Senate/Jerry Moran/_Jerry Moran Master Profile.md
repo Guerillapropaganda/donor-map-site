@@ -226,5 +226,6 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 
 **Sources**
 
+- [Congress.gov: Jerry Moran](https://www.congress.gov/member/c001091) (Tier 1)
 - [GovTrack: Jerry Moran](https://www.govtrack.us/congress/members/400284) (Tier 1)
 <!-- auto:voting-record end -->

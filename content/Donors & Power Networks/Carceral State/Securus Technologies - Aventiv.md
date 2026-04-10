@@ -14,7 +14,7 @@ subawards-received-amount: 51876611853
 related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]] · [[Immigration Enforcement - The Detention Economy]] · [[GEO Group - Private Prisons]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 ---
 #donor #securus #aventiv #carceral-state #prison-telecom #surveillance #private-equity #platinum-equity #national #california #follow-the-money #class-analysis
 

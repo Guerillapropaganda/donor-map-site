@@ -11,6 +11,11 @@ deepening-pass: 2026-03-26
 related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
 known-gaps:
   - "No FEC contribution data"
+ein: "131945157"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-10"
+total-revenue: 27461394
+total-assets: 121069620
 ---
 
 #think-tank #conservative #neoconservative #foreign-policy #defense #china-hawk #taiwan #national-security #class-analysis
@@ -211,3 +216,27 @@ The Hudson Institute reveals the defense-intellectual complex in its purest form
 - [Newsweek: Nikki Haley Responds After Donald Trump Rules Out Administration Role (Pompeo also excluded)](https://www.newsweek.com/nikki-haley-donald-trump-administration-role-mike-pompeo-1983398) (Tier 2)
 - [Axios: Mike Pompeo to join Columbia University as fellow — departs Hudson Institute (February 2025)](https://www.axios.com/2025/02/24/mike-pompeo-columbia-university-fellow) (Tier 2)
 
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 131945157 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $27.5M |
+| Total Assets | $121.1M |
+| IRS Ruling Date | 1963-12-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131945157) (Tier 1)
+<!-- auto:nonprofit-990 end -->

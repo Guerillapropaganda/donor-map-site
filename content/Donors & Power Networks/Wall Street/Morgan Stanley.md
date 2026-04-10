@@ -44,6 +44,8 @@ regulatory-agencies:
   - "Federal Trade Commission"
   - "Justice Department"
   - "Labor Department"
+lei: "IGJSJL3JD5P30I6NJZ34"
+lei-jurisdiction: "US-DE"
 ---
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
 
@@ -149,7 +151,7 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 - [[Chuck Schumer]] — contracts: $23K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)
@@ -216,3 +218,18 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Morgan%20Stanley%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [IGJSJL3JD5P30I6NJZ34](https://search.gleif.org/#/record/IGJSJL3JD5P30I6NJZ34) |
+| Legal Name | MORGAN STANLEY |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-10-15T13:29:44Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

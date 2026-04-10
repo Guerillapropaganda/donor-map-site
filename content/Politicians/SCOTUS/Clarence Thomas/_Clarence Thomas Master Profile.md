@@ -141,5 +141,5 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 
 - [[Harlan Crow]] — $400K lobbying spend (Financial Institutions/Investments/Securities)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "Jeff Bezos"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -31,12 +31,24 @@ total-political-spend: "$10,358,971"
 politicians-funded:
   - "Patty Murray"
   - "Maria Cantwell"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 related: "[[Patty Murray]] · [[Maria Cantwell]] · [[Amazon]] · [[SpaceX]] · [[Mark Zuckerberg]] · [[Elon Musk]]"
 federal-register-mentions: 2
 regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
+court-cases: 842
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maryland"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. California"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Virginia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
 ---
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space
 
@@ -151,3 +163,22 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Jeff%20Bezos%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 842 |
+| Courts | Court of Appeals for the Eighth Circuit, District Court, D. Connecticut, District Court, D. Delaware, District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. California, District Court, E.D. New York, District Court, E.D. Virginia +7 more |
+| Case Types | 360 P.I.: Other, 410 Anti-Trust, 440 Civil Rights: Other, 441 Civil Rights: Voting, 442 Civil Rights: Jobs |
+
+**Notable cases:**
+- Doe v. Perplexity AI, Inc. (2026) — District Court, N.D. California
+- Silver Travelers Inc. v. The Individual, Partnership, or Unincorporated Association Identified on Schedule A (2026) — District Court, N.D. Illinois
+- Glitch Productions Pty Ltd v. The Partnerships and Unincorporated Associations Identified on Schedule A (2026) — District Court, S.D. Florida
+- CAR CRASH LLC v. SCHEDULE A (2026) — District Court, W.D. Pennsylvania
+- Shepherd v. Frontier Logistics, Inc. (2026) — District Court, E.D. New York
+- Webb v. Zuckerberg (2026) — District Court, E.D. Virginia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jeff%20Bezos%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

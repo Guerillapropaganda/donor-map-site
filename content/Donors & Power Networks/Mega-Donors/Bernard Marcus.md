@@ -2,7 +2,7 @@
 title: "Bernard Marcus"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -61,6 +61,8 @@ sec-form-types:
 lei: "213800MWAHGQE6BU9654"
 lei-jurisdiction: "GB"
 related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Heritage Foundation]] · [[Federalist Society]] · [[American Enterprise Institute]]"
+last-enriched: "2026-04-10"
+total-political-spend: "$31,938,031"
 ---
 #donor-node #mega-donor #retail #home-depot #republican #israel #class-analysis
 
@@ -193,3 +195,28 @@ Labor unions (particularly construction trades unions and retail workers' organi
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $31,938,031 |
+| Contributions | 479 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SENATE LEADERSHIP FUND | $5,750,000 | — |
+| PRESERVE AMERICA PAC | $5,000,000 | — |
+| UNITED DEMOCRACY PROJECT ('UDP') | $3,000,000 | — |
+| CONGRESSIONAL LEADERSHIP FUND | $2,807,600 | — |
+| 34N22, INC. | $2,250,000 | — |
+| USA FREEDOM FUND | $2,000,000 | — |
+| TAKE BACK THE HOUSE 2022 | $1,171,900 | — |
+| MAKE AMERICA GREAT AGAIN INC. | $1,000,000 | — |
+| SCHOOL FREEDOM FUND | $1,000,000 | — |
+| UNITED DEMOCRACY PROJECT (UDP) | $1,000,000 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bernard%20Marcus) (Tier 1)
+<!-- auto:fec-donor end -->

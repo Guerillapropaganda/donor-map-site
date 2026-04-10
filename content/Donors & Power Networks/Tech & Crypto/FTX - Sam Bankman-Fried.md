@@ -14,6 +14,9 @@ issues:
   - "Dark Money & Campaign Finance"
 last-enriched: "2026-04-08"
 related: "[[French Hill]] · [[Sam Bankman-Fried]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Coinbase]] · [[Dustin Moskovitz]]"
+sec-filings: 1
+sec-form-types:
+  - "EX-99.6"
 ---
 #donor #crypto #dark-money #fraud #class-analysis #follow-the-money #both-sides-illusion #regulatory-capture
 
@@ -137,3 +140,17 @@ SBF represents the purest case study in the vault of money-as-political-infrastr
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 1 |
+| Form Types | EX-99.6 |
+
+**Notable filings:**
+
+- 2025-10-02 — **EX-99.6**: EX-99.6
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22FTX%20-%20Sam%20Bankman-Fried%22) (Tier 1)
+<!-- auto:sec-edgar end -->

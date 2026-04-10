@@ -9,12 +9,24 @@ category: centrist
 tax-status: 501c4
 ein: "201734070"
 nonprofit-status: "501(c)(4)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 total-revenue: 60561784
 total-assets: 65953090
 related: "[[Goldman Sachs]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Democracy Alliance]] · [[Brookings Institution]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Atlantic Council]] · [[Aspen Institute]]"
 lei: "213800S9PS2GFGFQQB08"
 lei-jurisdiction: "GB"
+federal-register-mentions: 63
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Copyright Royalty Board"
+  - "Education Department"
+  - "Energy Department"
+  - "Environmental Protection Agency"
+  - "Federal Aviation Administration"
+  - "Federal Energy Regulatory Commission"
+  - "Federal Trade Commission"
+  - "Fish and Wildlife Service"
+  - "Interior Department"
 ---
 
 #think-tank #centrist #wall-street #corporate-democrat #anti-progressive #class-analysis
@@ -245,3 +257,25 @@ The March 2026 "Winning the Middle" conference in Charleston makes the function 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 63 |
+| Final Rules | 19 |
+| Proposed Rules | 26 |
+| Notices | 18 |
+| Agencies | Agriculture Department, Copyright Royalty Board, Education Department, Energy Department, Environmental Protection Agency, Federal Aviation Administration, Federal Energy Regulatory Commission, Federal Trade Commission +7 more |
+
+**Recent regulatory activity:**
+- [ACCOUNTABILITY IN HIGHER EDUCATION AND ACCESS THROUGH DEMAND-DRIVEN WORKFORCE PELL: PELL GRANT EXCLUSION RELATING TO OTHER GRANT AID; AND WORKFORCE PELL GRANTS](https://www.federalregister.gov/documents/2026/03/09/2026-04520/accountability-in-higher-education-and-access-through-demand-driven-workforce-pell-pell-grant) (2026-03-09) — Education Department
+- [Fee Schedules; Fee Recovery for Fiscal Year 2025](https://www.federalregister.gov/documents/2025/06/24/2025-11544/fee-schedules-fee-recovery-for-fiscal-year-2025) (2025-06-24) — Nuclear Regulatory Commission
+- [Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing of a Proposed Rule Change To Amend the Codes of Arbitration Procedure To Adopt FINRA Rules 12808 and 13808 (Accelerated Processing) To Accelerate the Processing of Arbitration Proceedings for Parties Who Qualify Based on Their Age or Health Condition](https://www.federalregister.gov/documents/2024/12/26/2024-30680/self-regulatory-organizations-financial-industry-regulatory-authority-inc-notice-of-filing-of-a) (2024-12-26) — Securities and Exchange Commission
+- [Building for the Future Through Electric Regional Transmission Planning and Cost Allocation](https://www.federalregister.gov/documents/2024/06/11/2024-10872/building-for-the-future-through-electric-regional-transmission-planning-and-cost-allocation) (2024-06-11) — Energy Department
+- [Notice of Solicitation of Applications for Inviting Applications for the Rural Economic Development Loan and Grant Programs for Fiscal Year 2024; Correction](https://www.federalregister.gov/documents/2023/11/03/2023-24314/notice-of-solicitation-of-applications-for-inviting-applications-for-the-rural-economic-development) (2023-11-03) — Agriculture Department
+- [Notice of Solicitation of Applications for the Intermediary Relending Program for Fiscal Year 2024; Correction](https://www.federalregister.gov/documents/2023/11/03/2023-24313/notice-of-solicitation-of-applications-for-the-intermediary-relending-program-for-fiscal-year-2024) (2023-11-03) — Agriculture Department
+- ... and 57 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Third%20Way%22) (Tier 1)
+<!-- auto:federal-register end -->

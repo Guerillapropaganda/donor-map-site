@@ -271,7 +271,7 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 
 - [[Donald Trump]] — lobbying: $3.0M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

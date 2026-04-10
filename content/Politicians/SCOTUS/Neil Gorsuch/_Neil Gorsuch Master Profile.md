@@ -143,7 +143,7 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 
 - [[Judicial Crisis Network]] — $248K lobbying spend (Constitution, Government Issues)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ## Committee Assignments (Congress.gov)

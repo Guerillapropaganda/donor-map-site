@@ -220,3 +220,28 @@ The industry's political priorities are bipartisan by structural necessity: mort
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Real%20Estate%20Industry) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 2 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Budget/Appropriations** → Funds **Brian Schatz** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **Brian Schatz** → Sits on **Appropriations**
+- Lobbies on **Government Issues** → Funds **Gary Peters** → Sits on **Homeland Security**
+- Lobbies on **Homeland Security** → Funds **Gary Peters** → Sits on **Homeland Security**
+- Lobbies on **Immigration** → Funds **Gary Peters** → Sits on **Homeland Security**
+
+**Funded politicians:**
+
+- [[Jared Kushner]] — lobbying: $32.2M
+- [[Brian Schatz]] (Appropriations) — lobbying: $32.2M
+- [[Gary Peters]] (Homeland Security) — lobbying: $32.2M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "McDonalds Corporation"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -32,7 +32,7 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 source-types:
   - SEC
 known-gaps:
@@ -40,6 +40,18 @@ known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
 related: "[[National Restaurant Association]] · [[Starbucks]]"
+court-cases: 293
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Maryland"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. Utah"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Texas"
+  - "District Court, E.D. Wisconsin"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. Oklahoma"
 ---
 #mcdonalds #fast-food #minimum-wage #franchise #labor #fight-for-15 #lobbying
 
@@ -142,3 +154,22 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=McDonalds%20Corporation) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 293 |
+| Courts | District Court, C.D. California, District Court, D. Colorado, District Court, D. Maryland, District Court, D. Massachusetts, District Court, D. Utah, District Court, E.D. Pennsylvania, District Court, E.D. Texas, District Court, E.D. Wisconsin +5 more |
+| Case Types | 160 Contract: Stockholders Suits, 440 Civil Rights: Other, 446 Civil Rights: Americans with Disabilities - Other, 830 Patent, Contract: Other |
+
+**Notable cases:**
+- Calibrate Networks LLC v. McDonalds Corporation (2026) — District Court, E.D. Texas
+- Wolverine Barcode IP, LLC v. McDonald's Corporation (2025) — District Court, W.D. Texas
+- Wolfspeed, Inc., Debtor (2025) — United States Bankruptcy Court, S.D. Texas
+- Myers v. Schlossberg (2025) — District Court, D. Maryland
+- Tolber v. McDonalds Corporation (2025) — District Court, S.D. Ohio
+- Steele v. Randall (2025) — District Court, N.D. Illinois
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22McDonalds%20Corporation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

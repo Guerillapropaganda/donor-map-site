@@ -251,4 +251,9 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 <!-- auto:fec-politician end -->
 
 ### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Ilhan Omar](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
 

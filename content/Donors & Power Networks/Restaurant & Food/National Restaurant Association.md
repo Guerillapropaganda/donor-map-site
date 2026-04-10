@@ -211,3 +211,28 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Restaurant%20Association) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 7 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense** → Funds **Adam Smith** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Steve Scalise]] — lobbying: $3.1M
+- [[Mike Johnson]] — lobbying: $3.1M
+- [[Ron Johnson]] — lobbying: $3.1M
+- [[Kevin McCarthy]] — lobbying: $3.1M
+- [[Adam Smith]] (Armed Services) — lobbying: $3.1M
+- [[Jason Smith]] (Ways & Means) — lobbying: $3.1M
+- [[Bryan Steil]] — lobbying: $3.1M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

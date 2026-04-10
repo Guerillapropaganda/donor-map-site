@@ -13,6 +13,29 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 542914738
 total-assets: 743919280
+sec-filings: 3035
+sec-form-types:
+  - "8-K"
+  - "8-K/A"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.3(A)"
+  - "EX-10.5"
+  - "EX-10.6"
+  - "EX-10.7"
+  - "EX-21"
+  - "EX-4.3"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.4"
+  - "LETTER"
+  - "MA-I"
+  - "N-MFP"
+  - "N-Q"
+  - "NT 10-K"
+  - "SC 13D"
+  - "SC 13D/A"
 ---
 
 #think-tank #centrist #defense #national-security #FFRDC #government-contracts #revolving-door #AI-policy #class-analysis
@@ -248,3 +271,21 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/951958142) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 3,035 |
+| Form Types | 8-K, 8-K/A, DEF 14A, DEFA14A, EX-10.3(A), EX-10.5, EX-10.6, EX-10.7 +13 more |
+
+**Notable filings:**
+
+- 2003-10-15 — **8-K**: RAYOVAC CORPORATION
+- 2003-12-10 — **8-K/A**: RAYOVAC CORPORATION
+- 2004-03-25 — **EX-10.3(A)**: EXHIBIT 10.3(A)
+- 2007-05-03 — **EX-99.1**: EXHIBIT 99.1
+- 2003-11-06 — **EX-4.3**: EXHIBIT 4.3
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22RAND%20Corporation%22) (Tier 1)
+<!-- auto:sec-edgar end -->

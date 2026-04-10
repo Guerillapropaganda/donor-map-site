@@ -2,7 +2,7 @@
 title: "John Hickenlooper"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,7 +18,7 @@ top-donors:
   - "Brownstein Hyatt Farber Schreck"
 total-received: "$3,509,495"
 fec-candidate-id: "S0CO00575"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 source-types:
   - Congress
   - DOJ
@@ -29,6 +29,11 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[NORPAC]]"
 related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]]"
+govtrack-id: 456797
+bills-sponsored: 106
+bills-cosponsored: 879
+website: "https://www.hickenlooper.senate.gov"
+phone: "202-224-5941"
 ---
 #politician #democrat #senate #colorado #oil-gas #fracking #tech #brewery #moderate #follow-the-money #class-analysis #2026-election
 
@@ -232,3 +237,35 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 106 |
+| Bills Cosponsored | 879 |
+| Total Votes Cast | 2,373 |
+
+**Recent bills sponsored:**
+
+- S. 4116: Geo POWER Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4005: Responsible Containment Reauthorization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 1898: ORBITS Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S. 3792: Water Project Navigators Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3576: PREPARE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 18, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456797) (Tier 1)
+<!-- auto:govtrack end -->

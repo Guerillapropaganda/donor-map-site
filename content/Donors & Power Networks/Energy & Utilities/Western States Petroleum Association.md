@@ -162,7 +162,7 @@ Environment — oil drilling permits, SB 1137, fracking, refinery communities
 
 - [[Gavin Newsom]] — lobbying: $5.3M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

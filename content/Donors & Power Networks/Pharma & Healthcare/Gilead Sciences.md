@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 19612000
 lobbying-filings: 55
 court-cases: 2108
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"
   - "Court of Appeals for the Third Circuit"

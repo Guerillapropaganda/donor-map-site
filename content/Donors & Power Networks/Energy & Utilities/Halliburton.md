@@ -13,7 +13,7 @@ net-assets: "$806K"
 tax-year: "2022"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 nonprofit-status: "501(c)(3)"
 total-revenue: 4436307
 total-assets: 1150303
@@ -72,6 +72,18 @@ subawards-issued: 1
 subawards-issued-amount: 54006
 subawards-received: 1
 subawards-received-amount: 54006
+federal-register-mentions: 268
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Centers for Medicare & Medicaid Services"
+  - "Export-Import Bank"
+  - "Foreign Assets Control Office"
+  - "Health Resources and Services Administration"
+  - "Health and Human Services Department"
+  - "Justice Department"
+  - "Labor Department"
+  - "Occupational Safety and Health Administration"
+  - "Pipeline and Hazardous Materials Safety Administration"
 ---
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
 
@@ -260,3 +272,25 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 268 |
+| Final Rules | 43 |
+| Proposed Rules | 10 |
+| Notices | 215 |
+| Agencies | Antitrust Division, Centers for Medicare & Medicaid Services, Export-Import Bank, Foreign Assets Control Office, Health Resources and Services Administration, Health and Human Services Department, Justice Department, Labor Department +5 more |
+
+**Recent regulatory activity:**
+- [Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; Quality Reporting Programs; Overall Hospital Quality Star Rating; Hospital Price Transparency; and Notice of Closure of a Teaching Hospital and Opportunity To Apply for Available Slots](https://www.federalregister.gov/documents/2025/11/25/2025-20907/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment) (2025-11-25) — Health and Human Services Department ★
+- [Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 million: AP300029XX](https://www.federalregister.gov/documents/2025/08/11/2025-15207/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100) (2025-08-11) — Export-Import Bank
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-National Armaments Consortium](https://www.federalregister.gov/documents/2025/04/21/2025-06796/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-national-armaments) (2025-04-21) — Justice Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2025/04/07/2025-05947/hazardous-materials-notice-of-actions-on-special-permits) (2025-04-07) — Transportation Department
+- [Procedures for the Handling of Retaliation Complaints Under the Anti-Money Laundering Act of 2020 (AMLA)](https://www.federalregister.gov/documents/2025/01/14/2025-00539/procedures-for-the-handling-of-retaliation-complaints-under-the-anti-money-laundering-act-of-2020) (2025-01-14) — Labor Department
+- [Publication of Venezuela Sanctions Regulations Web General Licenses 5Q and 8O](https://www.federalregister.gov/documents/2024/12/19/2024-29991/publication-of-venezuela-sanctions-regulations-web-general-licenses-5q-and-8o) (2024-12-19) — Treasury Department
+- ... and 262 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Halliburton%22) (Tier 1)
+<!-- auto:federal-register end -->

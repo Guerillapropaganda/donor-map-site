@@ -167,6 +167,34 @@ This is why Murray rarely appears in national media: she operates in the less vi
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 2 of 3 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | 2 donors |
+
+**Donate → Lobby → Committee chains:**
+
+- **Defense Industry Bloc** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **Defense Industry Bloc** donates → Lobbies on **Defense** → This member sits on **Appropriations**
+- **Defense Industry Bloc** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
+- **Microsoft** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **Microsoft** donates → Lobbies on **Defense** → This member sits on **Appropriations**
+- **Microsoft** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
+
+**Donors who lobby (by spend):**
+
+- [[Microsoft]] — $20.7M lobbying spend (Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry)
+- [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
 | Metric | Value |

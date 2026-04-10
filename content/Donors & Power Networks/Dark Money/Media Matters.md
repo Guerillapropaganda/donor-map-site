@@ -15,7 +15,7 @@ annual-revenue: "$2K"
 net-assets: "$1K"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 total-revenue: 5705
 total-assets: 261528
 federal-register-mentions: 4
@@ -47,6 +47,10 @@ known-gaps:
 lobbying-spend: 9397596
 lobbying-filings: 95
 related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]]"
+total-political-spend: "$3,998,524"
+politicians-funded:
+  - "Bill Clinton"
+  - "Hillary Clinton"
 ---
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure
 
@@ -268,3 +272,22 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Media%20Matters) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $3,998,524 |
+| Contributions | 9 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| AMERICA VOTES ACTION FUND | $2,850,000 | — |
+| THE GOOD LAND COMMITTEE, INC. | $950,000 | DEM |
+| HILLARY CLINTON FOR PRESIDENT | $198,024 | DEM |
+| DECUIR FOR CONGRESS | $500 | DEM |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Media%20Matters) (Tier 1)
+<!-- auto:fec-donor end -->

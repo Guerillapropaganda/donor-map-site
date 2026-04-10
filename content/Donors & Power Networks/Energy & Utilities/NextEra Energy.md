@@ -63,6 +63,8 @@ sec-form-types:
   - "S-3D"
   - "SCHEDULE 13G/A"
 related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]]"
+top-federal-agency: "Department of Defense"
+top-naics-code: "221112"
 ---
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
 
@@ -227,3 +229,34 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22NextEra%20Energy%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Defense ($26.8M) |
+| Primary NAICS Sector | Fossil Fuel Electric Power Generation |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $26.8M |
+| National Aeronautics and Space Administration | $15.8M |
+| General Services Administration | $15.7M |
+| Department of Veterans Affairs | $7.1M |
+| Department of Justice | $634K |
+| Environmental Protection Agency | $410K |
+| Department of Homeland Security | $108K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Fossil Fuel Electric Power Generation (221112) | $52.5M |
+| Electric Power Distribution (221122) | $12.4M |
+| Natural Gas Distribution (221210) | $1.1M |
+| Natural Gas Extraction (211130) | $631K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

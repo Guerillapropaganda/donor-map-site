@@ -183,3 +183,10 @@ The nomination cycle revealed Stefanik's structural vulnerability: her value to 
 
 ## Voting Record
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Elise Stefanik](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "George Latimer Master Profile"
 type: politician
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 party: "Democrat"
@@ -25,6 +25,9 @@ known-gaps:
   - Full build required: biography, Westchester County Executive tenure, 2024 primary campaign, House voting record
   - No FEC candidate ID verified
   - No pipeline enrichment
+last-enriched: "2026-04-10"
+total-received: "$280,886"
+fec-candidate-id: "H4NY16087"
 ---
 
 #george-latimer #ny-16 #westchester #aipac-backed #udp-supported #house #democrat
@@ -73,3 +76,35 @@ Source: [[United Democracy Project - UDP]], [[_Jamaal Bowman Master Profile]] va
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Needs full research build-out including Westchester County Executive tenure, 2024 primary campaign receipt data, and House voting record analysis.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $280,886 |
+| Individual Contributions | $104,039 |
+| PAC Contributions | $137,650 |
+| Cash on Hand | 90768.72 |
+| IE Support (Super PAC) | $11,155,362 |
+| IE Opposition (Super PAC) | $2,489,948 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $280,886 | $104,039 | $137,650 |
+| 2024 | $6,679,192 | $6,025,639 | $210,216 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITED DEMOCRACY PROJECT ('UDP') | $9,326,397 | $168,652 |
+| DMFI PAC | $1,825,535 | $0 |
+| WORKING FAMILIES PARTY PAC | $0 | $1,338,070 |
+| JUSTICE DEMOCRATS PAC | $0 | $783,227 |
+| EMGAGE FEDERAL POLITICAL ACTION COMMITTEE | $0 | $200,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY16087/) (Tier 1)
+<!-- auto:fec-politician end -->

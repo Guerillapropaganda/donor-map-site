@@ -172,3 +172,18 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Ohio%20Federation%20of%20Teachers) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Amy Acton]] — lobbying: $2.9M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

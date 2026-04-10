@@ -25,6 +25,12 @@ total-received: "$1,311,209"
 fec-candidate-id: "H8NJ03073"
 donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Pfizer]] · [[PhRMA]]"
+last-enriched: "2026-04-10"
+govtrack-id: 400308
+bills-sponsored: 534
+bills-cosponsored: 6690
+website: "https://pallone.house.gov"
+phone: "202-225-4671"
 ---
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power
 
@@ -169,3 +175,35 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 
 ### Voting Record
 
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 534 |
+| Bills Cosponsored | 6,690 |
+| Total Votes Cast | 22,669 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1045: Calling on the Secretary of Education to work with stakeholders to immediately eliminate race-based Native logos, mascot — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7407: Prohibiting Tianeptine and Other Dangerous Products Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7372: Safety is Not For Sale Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1431: To designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, N — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on December 2, 2025.*
+- H.R. 6292: Don’t Sell Kids’ Data Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 25, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400308) (Tier 1)
+<!-- auto:govtrack end -->

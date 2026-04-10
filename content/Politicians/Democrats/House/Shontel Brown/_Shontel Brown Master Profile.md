@@ -2,7 +2,7 @@
 title: "Shontel Brown Master Profile"
 type: politician
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 party: "Democrat"
@@ -22,6 +22,9 @@ known-gaps:
   - Full build required: biography, Cuyahoga County Council tenure, 2021 special election, 2022 rematch, House voting record
   - No FEC candidate ID verified
   - No pipeline enrichment
+last-enriched: "2026-04-10"
+total-received: "$672,085"
+fec-candidate-id: "H2OH11169"
 ---
 
 #shontel-brown #oh-11 #cuyahoga-county #aipac-backed #dmfi-backed #house #democrat
@@ -69,3 +72,36 @@ Source: [[DMFI - Democratic Majority for Israel]] vault entry.
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Needs full research build-out including Cuyahoga County Council tenure, the two Turner primaries with FEC receipts, and her House voting record.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $672,085 |
+| Individual Contributions | $243,545 |
+| PAC Contributions | $395,500 |
+| Cash on Hand | 1088668.37 |
+| IE Support (Super PAC) | $7,234,595 |
+| IE Opposition (Super PAC) | $619,998 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $672,085 | $243,545 | $395,500 |
+| 2024 | $1,418,292 | $503,618 | $763,803 |
+| 2022 | $4,795,344 | $3,062,825 | $1,162,750 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DMFI PAC | $3,608,344 | $0 |
+| PROTECT OUR FUTURE PAC | $3,031,156 | $0 |
+| THE DEMOCRATIC ACTION PAC | $0 | $545,000 |
+| UNITED DEMOCRACY PROJECT (UDP) | $223,200 | $0 |
+| PROTECTING OUR VOTE PAC | $145,280 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH11169/) (Tier 1)
+<!-- auto:fec-politician end -->

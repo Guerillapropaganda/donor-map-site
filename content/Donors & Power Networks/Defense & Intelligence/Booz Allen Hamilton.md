@@ -59,6 +59,12 @@ federal-awards-total: 6457449191
 federal-contracts-count: 25
 federal-grants-count: 2
 related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]] · [[_Gerry Connolly Master Profile|Connolly]] · [[Leidos]] · [[BAE Systems]]"
+subawards-issued: 50
+subawards-issued-amount: 926455282
+subawards-received: 50
+subawards-received-amount: 926455282
+top-federal-agency: "Department of Veterans Affairs"
+top-naics-code: "541330"
 ---
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor
 
@@ -165,7 +171,7 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 
 - [[Gerry Connolly]] (Oversight & Reform) — lobbying: $6.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity
@@ -219,3 +225,62 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($926.5M sampled) |
+| Subawards Received (as sub) | 50 ($926.5M sampled) |
+| Top Federal Agency | Department of Veterans Affairs ($6.0B) |
+| Primary NAICS Sector | Engineering Services |
+
+**Subcontractors receiving federal money from Booz Allen Hamilton:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| BOOZ ALLEN HAMILTON INC | $836.1M | 42 |
+| BOOZ ALLEN HAMILTON INC. | $78.6M | 6 |
+| BOOZ ALLEN HAMILTON HOLDING CORPORATION | $11.8M | 2 |
+
+**Prime contractors funneling federal money to Booz Allen Hamilton:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| CACI, INC. - FEDERAL | $183.5M | 3 |
+| SALIENT CRGT, INC. | $144.3M | 8 |
+| PERATON INC. | $102.3M | 1 |
+| ECS FEDERAL, LLC | $81.1M | 5 |
+| HII MISSION TECHNOLOGIES CORP | $80.0M | 1 |
+| ALCYON TECHNICAL SERVICES (ATS) JV, LLC | $55.2M | 9 |
+| ALPHA OMEGA INTEGRATION LLC | $51.9M | 5 |
+| PERSPECTA ENTERPRISE SOLUTIONS LLC | $48.7M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Veterans Affairs | $6.0B |
+| Department of Health and Human Services | $2.7B |
+| Department of the Treasury | $861.9M |
+| Department of Homeland Security | $505.9M |
+| Department of Justice | $496.1M |
+| National Aeronautics and Space Administration | $356.2M |
+| Department of Labor | $355.6M |
+| National Science Foundation | $312.2M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Engineering Services (541330) | $9.1B |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $3.6B |
+| Custom Computer Programming Services (541511) | $3.0B |
+| Administrative Management and General Management Consulting Services (541611) | $2.1B |
+| All Other Professional, Scientific, and Technical Services (541990) | $1.8B |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology) (541712) | $1.0B |
+| Wired Telecommunications Carriers (517110) | $407.8M |
+| Other Computer Related Services (541519) | $227.2M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

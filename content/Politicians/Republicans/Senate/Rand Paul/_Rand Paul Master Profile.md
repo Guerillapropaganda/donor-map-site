@@ -190,7 +190,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 
 - [[Cryptocurrency Industry]] — $90K lobbying spend (Financial Institutions/Investments/Securities)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ## Committee Assignments (Congress.gov)

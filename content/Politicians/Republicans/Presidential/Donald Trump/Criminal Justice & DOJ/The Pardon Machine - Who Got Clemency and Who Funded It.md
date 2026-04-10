@@ -99,3 +99,10 @@ The second term transformed the Department of Justice from an institution the pr
 - [Department of Justice. Office of the Pardon Attorney. Clemency Statistics](https://www.justice.gov/pardon/clemency-statistics) (Tier 1)
 - [OpenSecrets. Kushner Family Political Donations](https://www.opensecrets.org/donor-lookup/) (Tier 1)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: The Pardon Machine - Who Got Clemency and Who Funded It](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

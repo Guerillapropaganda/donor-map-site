@@ -2,7 +2,7 @@
 title: "Bernie Marcus"
 type: donor
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 sector: "Retail"
@@ -21,6 +21,10 @@ known-gaps:
   - Died November 2024 — full biographical and donation history build required
   - Home Depot co-founder, Marcus Foundation documentation needed
   - Full FEC contribution history needed
+ein: 581720888
+annual-revenue: "$615"
+net-assets: "$39K"
+tax-year: "2023"
 ---
 
 #bernie-marcus #mega-donor #republican #udp #aipac #home-depot #deceased-2024
@@ -61,3 +65,16 @@ Source: [[United Democracy Project - UDP]], [[_Jamaal Bowman Master Profile]] va
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Full build-out requires comprehensive FEC contribution history, Marcus Foundation nonprofit records, and biographical documentation through his November 2024 death.
+
+### Financial Overview (990 Filing — 2023)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $615 |
+| Total Contributions | $260 |
+| Investment Income | $347 |
+| Total Expenses | $10K |
+| Net Assets | $39K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 581720888](https://projects.propublica.org/nonprofits/organizations/581720888) (Tier 1)
+<!-- auto:propublica-990 end -->

@@ -359,6 +359,36 @@ Northrop Grumman represents the defense sector's most refined form of structural
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 6 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | 4 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Donald Trump]] — contracts: $94K
+- [[Adam Smith]] (Armed Services) — contracts: $94K
+- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — contracts: $94K
+- [[Tom Cole]] (Appropriations) — contracts: $94K
+- [[Roger Wicker]] (Armed Services) — contracts: $94K
+- [[John Ratcliffe]] (Intelligence) — contracts: $94K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |

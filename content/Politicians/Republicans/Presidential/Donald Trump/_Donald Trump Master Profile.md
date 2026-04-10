@@ -344,7 +344,7 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 - [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
 - [[Peter Thiel]] — $1.7M lobbying spend
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (GovTrack)
@@ -393,3 +393,11 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P80001571/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Donald Trump](https://www.congress.gov/member/a000383) (Tier 1)
+- [GovTrack: Donald Trump](https://www.govtrack.us/congress/members/412733) (Tier 1)
+<!-- auto:voting-record end -->

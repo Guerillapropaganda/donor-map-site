@@ -15,7 +15,7 @@ issues:
   - "Dark Money & Campaign Finance"
 ein: "237327730"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 total-revenue: 147027845
 total-assets: 413819868
 sec-filings: 3784

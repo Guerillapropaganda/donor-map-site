@@ -212,10 +212,10 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 - [[Neil Gorsuch]] — lobbying: $248K
 - [[Amy Coney Barrett]] — lobbying: $248K
 - [[Brett Kavanaugh]] — lobbying: $248K
-- [[Sheldon Whitehouse]] (Environment & Public Works) — lobbying: $248K
+- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) — lobbying: $248K
 - [[Clarence Thomas]] — lobbying: $248K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

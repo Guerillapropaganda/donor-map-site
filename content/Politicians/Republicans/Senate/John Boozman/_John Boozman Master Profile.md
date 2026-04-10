@@ -198,3 +198,10 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: John Boozman](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

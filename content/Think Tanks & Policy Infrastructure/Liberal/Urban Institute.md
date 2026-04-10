@@ -12,9 +12,21 @@ lei: "984500C6P0VF15B8E658"
 lei-jurisdiction: "IN"
 ein: "520880375"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 total-revenue: 176528523
 total-assets: 311581937
+federal-register-mentions: 447
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Centers for Medicare & Medicaid Services"
+  - "Children and Families Administration"
+  - "Comptroller of the Currency"
+  - "Consumer Financial Protection Bureau"
+  - "Education Department"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Federal Deposit Insurance Corporation"
+  - "Federal Housing Finance Agency"
 ---
 
 #think-tank #liberal #housing #poverty #healthcare #tax-policy #urban-policy #government-funded #class-analysis
@@ -238,3 +250,25 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/520880375) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 447 |
+| Final Rules | 135 |
+| Proposed Rules | 126 |
+| Notices | 186 |
+| Agencies | Agriculture Department, Centers for Medicare & Medicaid Services, Children and Families Administration, Comptroller of the Currency, Consumer Financial Protection Bureau, Education Department, Employment and Training Administration, Energy Department +7 more |
+
+**Recent regulatory activity:**
+- [Regulatory Capital Rules: Regulatory Capital and Standardized Approach for Risk-Weighted Assets](https://www.federalregister.gov/documents/2026/03/27/2026-05960/regulatory-capital-rules-regulatory-capital-and-standardized-approach-for-risk-weighted-assets) (2026-03-27) — Treasury Department
+- [Regulatory Capital Rule: Category I and II Banking Organizations, Banking Organizations With Significant Trading Activity, and Optional Adoption for Other Banking Organizations](https://www.federalregister.gov/documents/2026/03/27/2026-05959/regulatory-capital-rule-category-i-and-ii-banking-organizations-banking-organizations-with) (2026-03-27) — Treasury Department ★
+- [Establishing Flexibility for Implementation of Work Requirements and Term Limits](https://www.federalregister.gov/documents/2026/03/02/2026-04095/establishing-flexibility-for-implementation-of-work-requirements-and-term-limits) (2026-03-02) — Housing and Urban Development Department ★
+- [Reimagining and Improving Student Education](https://www.federalregister.gov/documents/2026/01/30/2026-01912/reimagining-and-improving-student-education) (2026-01-30) — Education Department
+- [Section 108 Loan Guarantee Program: Announcement of Fee To Cover Credit Subsidy Costs for FY 2026](https://www.federalregister.gov/documents/2025/11/19/2025-20345/section-108-loan-guarantee-program-announcement-of-fee-to-cover-credit-subsidy-costs-for-fy-2026) (2025-11-19) — Housing and Urban Development Department
+- [Public Charge Ground of Inadmissibility](https://www.federalregister.gov/documents/2025/11/19/2025-20278/public-charge-ground-of-inadmissibility) (2025-11-19) — Homeland Security Department
+- ... and 441 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Urban%20Institute%22) (Tier 1)
+<!-- auto:federal-register end -->

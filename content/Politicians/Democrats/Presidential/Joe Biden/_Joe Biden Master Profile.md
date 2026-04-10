@@ -261,7 +261,7 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 - [[Citigroup]] — $11.6M lobbying spend (Banking, Financial Institutions/Investments/Securities, Foreign Relations)
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

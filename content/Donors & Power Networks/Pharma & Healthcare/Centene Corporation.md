@@ -16,7 +16,7 @@ federal-awards-total: 38306385
 federal-contracts-count: 12
 federal-grants-count: 0
 federal-register-mentions: 13
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Employee Benefits Security Administration"
   - "Federal Trade Commission"
@@ -73,6 +73,8 @@ top-federal-agency: "General Services Administration"
 top-naics-code: "624190"
 lei: "549300Z7JJ4TQSQGT333"
 lei-jurisdiction: "US-DE"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
 
@@ -210,7 +212,7 @@ Centene's structural function in American healthcare is converting public health
 - [[Joe Manchin]] — lobbying: $10.6M
 - [[Jon Husted]] — lobbying: $10.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -292,3 +294,21 @@ Centene's structural function in American healthcare is converting public health
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Centene%20Corporation) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

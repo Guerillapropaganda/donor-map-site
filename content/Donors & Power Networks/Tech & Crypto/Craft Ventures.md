@@ -2,7 +2,7 @@
 title: "Craft Ventures"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Tech & Crypto"
@@ -13,6 +13,8 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 related: "[[David Sacks Master Profile]] · [[The AI-Crypto Czar and the Portfolio Conflict]]"
+lobbying-spend: 1665000
+lobbying-filings: 38
 ---
 
 #vc #david-sacks #crypto #ai #conflict-of-interest #trump-czar
@@ -62,3 +64,22 @@ David Sacks exemplifies the revolving door in its purest form: a venture capital
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Craft%20Ventures) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.7M |
+| Quarterly Filings | 38 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 5 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Alcohol and Drug Abuse, Beverage Industry, Budget/Appropriations, Civil Rights/Civil Liberties, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Education, Health Issues, Housing, Immigration, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Pharmacy, Real Estate/Land Use/Conservation, Science/Technology, Small Business, Taxation/Internal Revenue Code, Transportation, Unemployment, Veterans, Welfare
+
+**Lobbying firms:** BGR GOVERNMENT AFFAIRS, CRAFTWORK GOVERNMENT AFFAIRS, INTERNATIONAL UNION OF BRICKLAYERS & ALLIED CRAFTWORKERS, STAPLETON & ASSOCIATES, LLC, THE PENNSYLVANIA AVENUE GROUP
+
+**Agencies contacted:** Alcohol & Tobacco Tax & Trade Bureau (TTB), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE, Transportation, Dept of (DOT), Treasury, Dept of
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Craft%20Ventures) (Tier 1)
+<!-- auto:lda-lobbying end -->

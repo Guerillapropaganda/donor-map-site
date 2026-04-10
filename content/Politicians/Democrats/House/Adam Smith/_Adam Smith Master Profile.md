@@ -24,6 +24,12 @@ top-donors:
 fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]]"
+last-enriched: "2026-04-10"
+govtrack-id: 400379
+bills-sponsored: 199
+bills-cosponsored: 4972
+website: "https://adamsmith.house.gov"
+phone: "202-225-8901"
 ---
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power
 
@@ -149,3 +155,53 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 199 |
+| Bills Cosponsored | 4,972 |
+| Total Votes Cast | 18,371 |
+
+**Recent bills sponsored:**
+
+- H.R. 6281: CHARGE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5859: Behavioral Health Crisis Care Centers Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 28, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5807: Empowering Individuals to Succeed Through Education and Workforce Training Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5806: Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5785: Voluntary Grazing Permit Retirement Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 17, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400379) (Tier 1)
+<!-- auto:govtrack end -->

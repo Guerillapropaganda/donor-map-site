@@ -16,6 +16,10 @@ source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
   - Full build required: Ripple co-founding, XRP holdings, personal FEC contributions, Harris donation documentation
+ein: 112894655
+annual-revenue: "$9"
+net-assets: "$2K"
+tax-year: "2014"
 ---
 
 #chris-larsen #ripple #xrp #crypto #future-forward #kamala-harris #mega-donor
@@ -63,3 +67,16 @@ Source: [[Fairshake PAC]] vault entry.
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Full build-out requires FEC documentation of the $10M XRP contribution to Future Forward (an unusual cryptocurrency-denominated political donation with novel disclosure implications), Larsen's role in the SEC v. Ripple litigation, and his broader political positioning relative to crypto industry consensus.
+
+### Financial Overview (990 Filing — 2014)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $9 |
+| Total Contributions | $0 |
+| Total Expenses | $1K |
+| Net Assets | $2K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 112894655](https://projects.propublica.org/nonprofits/organizations/112894655) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2015_06_PF%2F11-2894655_990PF_201412.pdf) (Tier 1)
+<!-- auto:propublica-990 end -->

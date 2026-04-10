@@ -259,5 +259,5 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 
 - [[Donald Trump]] — lobbying: $21.3M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

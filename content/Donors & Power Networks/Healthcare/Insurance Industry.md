@@ -258,7 +258,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 10 |
+| Politicians Funded | 11 |
 | Active Lobbyist | Yes |
 | Federal Contractor | Yes |
 | Committee Overlap Detected | 3 politicians |
@@ -278,6 +278,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 
 - [[Thom Tillis]] — lobbying: $25.6M — contracts: $11K
 - [[Deb Fischer]] (Armed Services, Agriculture) — lobbying: $25.6M — contracts: $11K
+- [[Wes Moore]] — lobbying: $25.6M — contracts: $11K
 - [[Joe Manchin]] — lobbying: $25.6M — contracts: $11K
 - [[Tammy Baldwin]] — lobbying: $25.6M — contracts: $11K
 - [[Mark Warner]] (Intelligence) — lobbying: $25.6M — contracts: $11K
@@ -287,7 +288,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 - [[Barack Obama]] — lobbying: $25.6M — contracts: $11K
 - [[John Thune]] — lobbying: $25.6M — contracts: $11K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

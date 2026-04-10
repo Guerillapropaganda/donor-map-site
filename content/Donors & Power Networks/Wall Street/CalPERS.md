@@ -306,5 +306,5 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 - [[Gavin Newsom]] — lobbying: $480K
 - [[Betty Yee]] — lobbying: $480K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

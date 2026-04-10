@@ -159,6 +159,30 @@ Microsoft represents the corporate capture of government technology infrastructu
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Budget/Appropriations** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
+
+**Funded politicians:**
+
+- [[Patty Murray]] (Appropriations) — lobbying: $20.7M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Financial Overview (990 Filing — 2022)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

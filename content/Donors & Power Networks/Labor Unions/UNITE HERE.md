@@ -17,7 +17,7 @@ issues:
 total-political-spend: "$51,678,221"
 ein: "352455960"
 nonprofit-status: "501(c)(5)"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 lei: "54930053JDKWMZI3NN64"
 lei-jurisdiction: "CA"
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]] · [[Ash Kalra]] · [[National Restaurant Association]]"
@@ -33,6 +33,14 @@ regulatory-agencies:
   - "Occupational Safety and Health Administration"
   - "Transportation Department"
   - "Wage and Hour Division"
+court-cases: 2330
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Arizona"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. Iowa"
+  - "District Court, W.D. Washington"
 ---
 #donor #union #UNITE-HERE #hospitality #hotel #food-service #labor #class-analysis #follow-the-money #california #national #las-vegas #immigrant-workers #strike
 
@@ -233,3 +241,22 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22UNITE%20HERE%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2,330 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, C.D. California, District Court, D. Arizona, District Court, N.D. Illinois, District Court, S.D. Iowa, District Court, W.D. Washington |
+| Case Types | 190 Contract: Other, 380 Personal Property: Other, 720 Labor: Labor/Mgt. Relations |
+
+**Notable cases:**
+- Space Needle LLC v. Unite Here Local 8 (2026) — District Court, W.D. Washington
+- Unite Here Local 11 v. The Private Suite LA (2026) — District Court, C.D. California
+- Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
+- Strahl v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
+- Flying Food Group, LLC v. Unite Here Local 11 (2026) — District Court, C.D. California
+- Unite Here Local 11 v. Thunderbird Legacy Development LLC (2026) — District Court, D. Arizona
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22UNITE%20HERE%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

@@ -11,7 +11,7 @@ politicians-funded:
   - "John Cornyn"
 issues:
   - "Housing"
-ein: 463077371
+ein: "752805870"
 annual-revenue: "$109"
 net-assets: "$4K"
 tax-year: "2023"
@@ -19,6 +19,10 @@ total-political-spend: "$4,649,518"
 related: "[[Twenty Years of Financial Disclosure Failures]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Harlan Crow Gift Empire]] · [[Ginni Thomas - The Political Arm and Financial Conflicts]] · [[Mike Crapo]] · [[John Cornyn]] · [[Federalist Society]] · [[American Enterprise Institute]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Jeffrey Epstein Network]]"
 lobbying-spend: 400000
 lobbying-filings: 8
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-10"
+total-revenue: 1170447
+total-assets: 3096767
 ---
 #harlan-crow #mega-donor #real-estate #clarence-thomas #leonard-leo #scotus #class-analysis
 
@@ -209,5 +213,30 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 - [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $400K
 - [[Clarence Thomas]] — lobbying: $400K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 752805870 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $1.2M |
+| Total Assets | $3.1M |
+| NTEE Code | T20 |
+| IRS Ruling Date | 1999-03-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/752805870) (Tier 1)
+<!-- auto:nonprofit-990 end -->

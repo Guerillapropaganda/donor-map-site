@@ -7,12 +7,12 @@ source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
-ein: 20654518
+ein: "20654518"
 annual-revenue: "$1.3M"
 net-assets: "$2.2M"
 tax-year: "2023"
 federal-register-mentions: 327
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Defense Acquisition Regulations System"
   - "Defense Department"
@@ -61,6 +61,9 @@ sec-form-types:
   - "PX14A6G"
   - "SC 13D"
   - "XML"
+nonprofit-status: "501(c)(6)"
+total-revenue: 1233598
+total-assets: 2061369
 ---
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money
 
@@ -255,3 +258,28 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Defense%20Contractors%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 20654518 |
+| Tax-Exempt Status | 501(c)(6) |
+| Total Revenue | $1.2M |
+| Total Assets | $2.1M |
+| NTEE Code | S41 |
+| IRS Ruling Date | 2003-04-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1)
+<!-- auto:nonprofit-990 end -->

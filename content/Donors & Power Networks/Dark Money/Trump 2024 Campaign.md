@@ -19,6 +19,13 @@ court-jurisdictions:
   - "District Court, S.D. Iowa"
   - "District Court, S.D. New York"
 related: "[[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]] · [[America PAC - Elon Musk]] · [[MAGA Small Dollar Base]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Jeffrey Yass]] · [[a16z - Andreessen Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[MAGA Inc]] · [[WinRed]]"
+sec-filings: 7
+sec-form-types:
+  - "424B3"
+  - "DEF 14C"
+  - "EX-99.2"
+  - "PRE 14C"
+  - "PRER14C"
 ---
 #trump #2024 #campaign #fundraising #super-pac #mega-donor #maga #dark-money #billionaire #transactional
 
@@ -167,3 +174,21 @@ The broader structural pattern: billionaires contributed nearly 20% of all donat
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%202024%20Campaign%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 7 |
+| Form Types | 424B3, DEF 14C, EX-99.2, PRE 14C, PRER14C |
+
+**Notable filings:**
+
+- 2025-05-12 — **EX-99.2**: INVESTOR PRESENTATION
+- 2025-07-22 — **DEF 14C**: DEFINITIVE INFORMATION STATEMENT
+- 2025-07-18 — **PRER14C**: REVISED PRELIMINARY INFORMATION STATEMENT
+- 2025-06-24 — **PRER14C**: PRELIMINARY INFORMATION STATEMENT
+- 2025-07-11 — **PRER14C**: REVISED PRELIMINARY INFORMATION STATEMENT
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%202024%20Campaign%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -210,3 +210,27 @@ However, the foreign policy portfolio receives far less attention than gun contr
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 2 of 2 |
+| Committee Overlap Detected | 2 donors |
+
+**Donate → Lobby → Committee chains:**
+
+- **Everytown for Gun Safety** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **Silicon Valley Democratic Donor Network** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
+- **Silicon Valley Democratic Donor Network** donates → Lobbies on **Defense** → This member sits on **Appropriations**
+
+**Donors who lobby (by spend):**
+
+- [[Everytown for Gun Safety]] — $5.2M lobbying spend (Budget/Appropriations, Firearms/Guns/Ammunition, Health Issues)
+- [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->

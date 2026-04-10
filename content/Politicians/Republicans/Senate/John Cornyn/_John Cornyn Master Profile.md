@@ -228,6 +228,32 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 2 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **US Chamber of Commerce** donates → Lobbies on **Banking** → This member sits on **Finance**
+- **US Chamber of Commerce** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
+- **US Chamber of Commerce** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
+- **US Chamber of Commerce** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
+- **US Chamber of Commerce** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
+- **US Chamber of Commerce** donates → Lobbies on **Medicare/Medicaid** → This member sits on **Finance**
+
+**Donors who lobby (by spend):**
+
+- [[US Chamber of Commerce]] — $790K lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
 | Metric | Value |

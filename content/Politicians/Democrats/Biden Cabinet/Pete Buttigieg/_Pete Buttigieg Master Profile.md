@@ -183,5 +183,5 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 
 - [[Finance and Tech Bundler Network]] — $7.2M lobbying spend (Aerospace, Banking, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

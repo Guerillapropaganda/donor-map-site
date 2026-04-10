@@ -212,5 +212,5 @@ Her committee position turned her funded-by relationship into actual regulatory 
 | Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

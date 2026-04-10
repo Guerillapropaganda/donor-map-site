@@ -15,14 +15,19 @@ politicians-funded:
 issues:
   - "Labor & Workers"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 ofac-programs:
   - "RUSSIA-EO14024"
-ein: 530220586
+ein: "201130122"
 annual-revenue: "$240.0M"
 net-assets: "$531.3M"
 tax-year: "2022"
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[California Labor Federation]] · [[California Restaurant Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[Ash Kalra]] · [[Teamsters - International Brotherhood of Teamsters]]"
+nonprofit-status: "501(c)(5)"
+sec-filings: 9
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
 ---
 #donor #union #UFCW #grocery #retail #labor #class-analysis #follow-the-money #california #national #kroger #albertsons #walmart #strike #two-tier
 
@@ -203,3 +208,32 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 - [Source: ProPublica Nonprofit Explorer — EIN 530220586](https://projects.propublica.org/nonprofits/organizations/530220586) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_52-56%2F530220586_202212_990O_2023121222090545.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 201130122 |
+| Tax-Exempt Status | 501(c)(5) |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201130122) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 9 |
+| Form Types | 10-K, 10-K/A |
+
+**Notable filings:**
+
+- 2001-12-21 — **10-K**: FORM 10K TYSON FOODS, INC.
+- 2003-12-16 — **10-K**: TYSON FOODS, INC. FORM 10-K, SEPTEMBER 27, 2003
+- 2004-01-08 — **10-K/A**: TYSON FOODS, INC. 2003 FORM 10-K/A
+- 2002-11-27 — **10-K**: TYSON FOODS, INC. FORM 10K 9/28/02
+- 2004-01-08 — **10-K/A**: TYSON FOODS, INC. 2002 FORM 10-K/A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UFCW%20-%20United%20Food%20and%20Commercial%20Workers%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -21,7 +21,17 @@ net-assets: "$26.3M"
 tax-year: "2020"
 total-political-spend: "$20,115,751"
 related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
+court-cases: 31
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Delaware"
+  - "District Court, D. New Jersey"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
+  - "District Court, S.D. New York"
 ---
 #donor #israel #haim-saban #billionaire #entertainment #single-issue #democratic-mega-donor #follow-the-money #class-analysis #california #beverly-hills
 
@@ -186,3 +196,22 @@ National Democratic politics — Clinton network, AIPAC connection, UDP funding
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 31 |
+| Courts | Court of Appeals for the D.C. Circuit, District Court, C.D. California, District Court, D. Delaware, District Court, D. New Jersey, District Court, District of Columbia, District Court, N.D. California, District Court, N.D. Illinois, District Court, S.D. New York |
+| Case Types | 320 Assault Libel & Slander, 440 Civil Rights: Other, 470 Racketeer/Corrupt Organization, 820 Copyright, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- The Intercept Media, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+- LOGAN v. GARLAND (2024) — District Court, D. New Jersey
+- The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
+- Mac Isaac v. Cable News Network, Inc. (2023) — District Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Haim%20Saban%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

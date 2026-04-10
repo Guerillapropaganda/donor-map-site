@@ -139,3 +139,10 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 - [Ballotpedia: Mike Bost](https://ballotpedia.org/Mike_Bost) (Tier 3)
 - [Wikipedia: Mike Bost](https://en.wikipedia.org/wiki/Mike_Bost) (Tier 3)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Mike Bost](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

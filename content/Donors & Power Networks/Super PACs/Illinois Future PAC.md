@@ -13,6 +13,9 @@ politicians-funded:
 related: "[[Illinois 2026 Senate Race]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Democratic Governors Association]] · [[Fairshake PAC]]"
 known-gaps:
   - "No FEC contribution data"
+ein: "884013706"
+nonprofit-status: "501(c)(4)"
+last-enriched: "2026-04-10"
 ---
 #illinois-future-pac #pritzker #super-pac #illinois #democratic #governor
 
@@ -39,3 +42,16 @@ Illinois Future PAC exemplifies the Self-Funding as Independence pattern: Pritzk
 
 - [Ballotpedia: JB Pritzker campaign finance](https://ballotpedia.org/Illinois_Future_PAC) (Tier 3)
 
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 884013706 |
+| Tax-Exempt Status | 501(c)(4) |
+| NTEE Code | U01 |
+| IRS Ruling Date | 2023-03-01 |
+| Filings on Record | 0 |
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/884013706) (Tier 1)
+<!-- auto:nonprofit-990 end -->

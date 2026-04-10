@@ -33,6 +33,15 @@ regulatory-agencies:
   - "Environmental Protection Agency"
   - "Federal Energy Regulatory Commission"
   - "National Oceanic and Atmospheric Administration"
+sec-filings: 19
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "DEF 14A"
+  - "DEFC14A"
+  - "PRE 14A"
+  - "PREC14A"
+  - "PX14A6G"
 ---
 
 #fossil-fuel-astroturf #energy-lobby #dark-money #greenwashing #regulatory-capture
@@ -166,3 +175,21 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Consumer%20Energy%20Alliance%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 19 |
+| Form Types | 10-K, 10-K/A, DEF 14A, DEFC14A, PRE 14A, PREC14A, PX14A6G |
+
+**Notable filings:**
+
+- 2021-05-03 — **PX14A6G**: PX14A6G
+- 2019-04-18 — **PX14A6G**: PX14A6G
+- 2024-04-17 — **PX14A6G**: PX14A6G
+- 2020-04-30 — **PX14A6G**: PX14A6G
+- 2021-04-29 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Consumer%20Energy%20Alliance%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -211,3 +211,10 @@ The material question: does the brand translate to policy challenging healthcare
 
 ## Committee Assignments (Congress.gov)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Josh Green](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

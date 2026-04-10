@@ -42,6 +42,18 @@ total-assets: 10062101
 federal-awards-total: 180306
 federal-contracts-count: 4
 federal-grants-count: 3
+sec-filings: 10000
+sec-form-types:
+  - "424B2"
+  - "EX-10"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3 OTHER FIN ST"
+  - "EX-99.4 ACQ AGREEMNT"
+  - "FWP"
+  - "N-Q"
+  - "NPORT-P"
 ---
 #bank-of-america #wall-street #banking #too-big-to-fail #consumer-finance #lobbying #mortgage
 
@@ -123,6 +135,27 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
+
+**Funded politicians:**
+
+- [[French Hill]] (Banking)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -240,3 +273,23 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/509d48f2-8c0f-b129-8f4d-2638ea28c675-R/latest) (Tier 1)
 <!-- auto:usaspending end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 424B2, EX-10, EX-99, EX-99.1, EX-99.2, EX-99.3 OTHER FIN ST, EX-99.4 ACQ AGREEMNT, FWP +2 more |
+| CIK | 70858 |
+| Ticker | BAC |
+
+**Notable filings:**
+
+- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009751/0001918704-26-009751-index.htm)
+- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009748/0001918704-26-009748-index.htm)
+- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009746/0001918704-26-009746-index.htm)
+- 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009744/0001918704-26-009744-index.htm)
+- 2026-04-10 — **FWP**: [FWP](https://www.sec.gov/Archives/edgar/data/70858/000191870426009704/0001918704-26-009704-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bank%20of%20America%22) (Tier 1)
+<!-- auto:sec-edgar end -->

@@ -2,13 +2,13 @@
 title: "Brady Campaign"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 court-cases: 407
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Kansas"
@@ -16,13 +16,16 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. North Carolina"
   - "District Court, W.D. Texas"
-ein: 237321017
+ein: "237321017"
 annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
 related: "[[Sheldon Whitehouse]]"
 lobbying-spend: 836000
 lobbying-filings: 34
+nonprofit-status: "501(c)(4)"
+total-revenue: 4821088
+total-assets: 6223865
 ---
 
 #gun-violence-prevention #democratic-donor #advocacy-organization #brady-pac
@@ -131,3 +134,28 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 237321017 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $4.8M |
+| Total Assets | $6.2M |
+| NTEE Code | R60 |
+| IRS Ruling Date | 1974-06-01 |
+| Filings on Record | 14 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
+<!-- auto:nonprofit-990 end -->

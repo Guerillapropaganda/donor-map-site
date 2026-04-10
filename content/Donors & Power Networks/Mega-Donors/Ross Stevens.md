@@ -246,3 +246,18 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Vivek Ramaswamy]] — lobbying: $925K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

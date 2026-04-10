@@ -296,7 +296,7 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 - [[Cory Booker]] — lobbying: $5.4M
 - [[Juliana Stratton]] — lobbying: $5.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

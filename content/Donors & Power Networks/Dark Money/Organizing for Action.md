@@ -2,14 +2,14 @@
 title: "Organizing for Action"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: 461827418
+ein: "461827418"
 annual-revenue: "$4.7M"
 net-assets: "$2.3M"
 tax-year: "2018"
@@ -23,7 +23,7 @@ sec-form-types:
   - "S-4/A"
   - "S-4EF"
 court-cases: 30
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Maryland"
@@ -36,6 +36,9 @@ court-jurisdictions:
 related: "[[Barack Obama Master Profile]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Democracy Alliance]]"
 lobbying-spend: 2850000
 lobbying-filings: 44
+nonprofit-status: "501(c)(4)"
+total-revenue: 4780839
+total-assets: 2265284
 ---
 
 #ofa #organizing-for-action #obama #501c4 #dark-money #campaign-infrastructure
@@ -152,3 +155,27 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Organizing%20for%20Action) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 461827418 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $4.8M |
+| Total Assets | $2.3M |
+| NTEE Code | R99 |
+| IRS Ruling Date | 2015-05-01 |
+| Filings on Record | 5 |
+
+**Filing history:** 2018, 2017, 2016, 2015, 2014
+
+**View 990 filings:**
+- [2018 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2018)
+- [2017 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2017)
+- [2016 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2016)
+- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2015)
+- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2014)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1)
+<!-- auto:nonprofit-990 end -->

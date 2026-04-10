@@ -16,7 +16,7 @@ annual-revenue: "$30.0M"
 net-assets: "$243K"
 tax-year: "2016"
 court-cases: 21936
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, E.D. California"

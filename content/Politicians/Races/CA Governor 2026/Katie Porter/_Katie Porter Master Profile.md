@@ -2,7 +2,7 @@
 title: "Katie Porter Master Profile"
 type: politician
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,8 +13,8 @@ state-abbr: "CA"
 bioguide-id: "P000618"
 govtrack-id: 412758
 fec-candidate-id: "H8CA45076"
-bills-sponsored: 0
-bills-cosponsored: 0
+bills-sponsored: 174
+bills-cosponsored: 1848
 issues:
   - Consumer Protection
   - Campaign Finance
@@ -45,7 +45,7 @@ known-gaps:
   - GovTrack auto-block shows 0 bills sponsored/cosponsored (pipeline query gap — 3-term House member should have data)
   - State-level CA gubernatorial campaign finance not pipeline-enriched (state jurisdiction, not FEC)
   - Several sources lack proper URLs (Emerson polling, Daily Beast, ABC7)
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 related: "[[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[_Gavin Newsom Master Profile]]"
 ---
 #katie-porter #california #governor-2026 #anti-corporate #small-dollar #consumer-protection #crypto-opposition #class-analysis
@@ -194,9 +194,17 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 <!-- auto:govtrack start -->
 | Metric | Value |
 |--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
+| Bills Sponsored | 174 |
+| Bills Cosponsored | 1,848 |
 | Total Votes Cast | 3,193 |
+
+**Recent bills sponsored:**
+
+- H.R. 10554: To direct the Secretary of Defense to submit to Congress annual reports on medical malpractice claims by members of the  — *This bill was introduced on December 20, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 5658: Vote by Mail Tracking Act — *This bill was introduced in a previous session of Congress and was passed by the House on November 18, 2024 but was never passed by the Senate.*
+- H.R. 10162: RESERVE Federal Land Act — *This bill was introduced on November 18, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 3386: Bottles and Breastfeeding Equipment Screening Enhancement Act — *This bill was introduced on September 25, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 5509: Electronic Permitting Modernization Act — *This bill was introduced in a previous session of Congress and was passed by the House on September 24, 2024 but was never passed by the Senate.*
 
 **Recent votes:**
 

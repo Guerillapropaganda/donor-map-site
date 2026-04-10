@@ -10,14 +10,14 @@ entity-type: "Individual Donor"
 issues:
   - "Education"
   - "Dark Money & Campaign Finance"
-ein: 330627955
+ein: "330627955"
 annual-revenue: "$11.1M"
 net-assets: "$5.2M"
 tax-year: "2023"
 lobbying-spend: 3142538
 lobbying-filings: 146
 court-cases: 12
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. Louisiana"
@@ -34,6 +34,9 @@ sec-form-types:
   - "EX-99.2"
   - "PX14A6G"
 total-political-spend: "$1,465,283"
+nonprofit-status: "501(c)(4)"
+total-revenue: 12945313
+total-assets: 6313490
 ---
 #donor #education #school-choice #privatization #dark-money #devos #vouchers #esa #lobbying #religious-schools #alec
 
@@ -210,7 +213,7 @@ The American Federation for Children represents the school privatization movemen
 
 - [[Virginia Foxx]] (Education & Labor) — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -300,3 +303,28 @@ The American Federation for Children represents the school privatization movemen
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Federation%20for%20Children) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 330627955 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $12.9M |
+| Total Assets | $6.3M |
+| NTEE Code | B01 |
+| IRS Ruling Date | 1996-05-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330627955) (Tier 1)
+<!-- auto:nonprofit-990 end -->

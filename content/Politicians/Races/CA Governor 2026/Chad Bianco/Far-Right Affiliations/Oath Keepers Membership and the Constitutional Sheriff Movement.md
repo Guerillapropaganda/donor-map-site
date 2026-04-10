@@ -112,3 +112,10 @@ Bianco is the most prominent California example. He is also the one running for 
 
 ### Legislative Activity (Congress.gov)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Oath Keepers Membership and the Constitutional Sheriff Movement](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

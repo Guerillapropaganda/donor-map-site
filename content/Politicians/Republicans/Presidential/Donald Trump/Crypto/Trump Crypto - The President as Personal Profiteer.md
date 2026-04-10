@@ -134,3 +134,10 @@ The Strategic Bitcoin Reserve (announced in Executive Order, details to follow i
 - [Cointelegraph: SEC crypto enforcement reversals — 60% of cases halted under Trump](https://cointelegraph.com/news/sec-crypto-enforcement-donald-trump-dropped) (Tier 2)
 - [NPR: How Trump's latest crypto launch enriches his family](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Trump Crypto - The President as Personal Profiteer](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

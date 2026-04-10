@@ -2,7 +2,7 @@
 title: "Mercury Public Affairs"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 annual-revenue: "$25.4M (2025)"
@@ -23,6 +23,9 @@ court-jurisdictions:
 related: "[[Tech & Crypto]] · [[Foreign]] · [[Energy & Utilities]] · [[Wall Street]]"
 ein: "680461871"
 nonprofit-status: "501(c)(5)"
+lei: "2138005I3XSPI3QH7536"
+lei-jurisdiction: "US-DE"
+lei-parent: "OMNICOM GROUP INC."
 ---
 
 #lobbying #k-street #fara #foreign-government #china #ukraine #manafort #revolving-door #bipartisan
@@ -234,3 +237,23 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/680461871) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [2138005I3XSPI3QH7536](https://search.gleif.org/#/record/2138005I3XSPI3QH7536) |
+| Legal Name | MERCURY PUBLIC AFFAIRS LLC |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2022-05-19T00:05:37Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [OMNICOM GROUP INC.](https://search.gleif.org/#/record/HKUPACFHSSASQK8HLS17) (US-NY)
+- MERCURY PUBLIC AFFAIRS LLC (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

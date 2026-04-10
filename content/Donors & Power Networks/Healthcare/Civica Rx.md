@@ -23,6 +23,11 @@ court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, N.D. Ohio"
 related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
+sec-filings: 7
+sec-form-types:
+  - "DEF 14A"
+  - "EX-99.1"
+  - "EX-99.2"
 ---
 #donor #civica-rx #generic-drugs #nonprofit #healthcare #insulin #calrx #calcium #health-systems #pharmaceutical
 
@@ -164,3 +169,21 @@ Pharmaceutical corporations — not opponents in any material sense. Civica oper
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Civica%20Rx%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 7 |
+| Form Types | DEF 14A, EX-99.1, EX-99.2 |
+
+**Notable filings:**
+
+- 2018-11-08 — **EX-99.2**: EX-99.2
+- 2023-12-19 — **DEF 14A**: DEF 14A
+- 2024-12-16 — **DEF 14A**: FORM DEF 14A
+- 2025-12-10 — **DEF 14A**: DEF 14A
+- 2019-03-26 — **EX-99.1**: EX-99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Civica%20Rx%22) (Tier 1)
+<!-- auto:sec-edgar end -->

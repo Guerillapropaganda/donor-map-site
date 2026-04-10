@@ -134,7 +134,7 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 - [[Markwayne Mullin]] (Armed Services) — lobbying: $810K
 - [[John Fetterman]] — lobbying: $810K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

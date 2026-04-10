@@ -2,7 +2,7 @@
 title: "Brad Garlinghouse"
 type: donor
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 sector: "Tech & Crypto"
@@ -16,6 +16,17 @@ source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
   - Full build required: Ripple CEO tenure, GENIUS Act drafting role, SEC settlement negotiation, personal FEC contributions
+court-cases: 32
+last-enriched: "2026-04-10"
+court-jurisdictions:
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, D. Oregon"
+  - "District Court, D. South Carolina"
+  - "District Court, E.D. New York"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Oklahoma"
 ---
 
 #brad-garlinghouse #ripple #xrp #crypto #fairshake #trump-inaugural #genius-act #ceo
@@ -66,3 +77,22 @@ Source: [[Fairshake PAC]] vault entry.
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Full build-out requires Garlinghouse's specific operational role in the GENIUS Act drafting, the Ripple SEC settlement timeline, and his personal campaign contribution history.
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 32 |
+| Courts | Court of Appeals for the Second Circuit, District Court, D. Oregon, District Court, D. South Carolina, District Court, E.D. New York, District Court, N.D. California, District Court, S.D. Florida, District Court, S.D. New York, District Court, W.D. Oklahoma |
+| Case Types | 190 Contract: Other, 470 Racketeer/Corrupt Organization, 820 Copyright, 850 Securities/Commodities, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- Patrzalek v. Finance Cartel The (2025) — District Court, W.D. Oklahoma
+- Maxwell v. Sarris (2025) — District Court, S.D. New York
+- State of Oregon v. Coinbase, Inc. (2025) — District Court, D. Oregon
+- The Sustainability Institute v. Trump (2025) — District Court, D. South Carolina
+- Securities and Exchange Commission v. Ripple Labs Inc. (2024) — Court of Appeals for the Second Circuit
+- Schuster v. Crawford (2024) — District Court, S.D. Florida
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brad%20Garlinghouse%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

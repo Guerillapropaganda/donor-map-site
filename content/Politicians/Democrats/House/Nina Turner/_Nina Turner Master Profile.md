@@ -2,7 +2,7 @@
 title: "Nina Turner Master Profile"
 type: politician
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 party: "Democrat"
@@ -24,6 +24,9 @@ known-gaps:
   - Full build required: biography, state senate tenure, 2020 Sanders campaign co-chair role, 2021 OH-11 special election, 2022 rematch
   - No FEC candidate ID verified
   - No pipeline enrichment
+last-enriched: "2026-04-10"
+total-received: "$7,693,038"
+fec-candidate-id: "H2OH11151"
 ---
 
 #nina-turner #ohio #oh-11 #former-candidate #bernie-sanders #medicare-for-all #aipac-target #dmfi-target #progressive
@@ -69,3 +72,35 @@ Source: [[DMFI - Democratic Majority for Israel]] vault entry.
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Needs full research build-out including state senate tenure, Sanders 2020 national campaign co-chair role, the two OH-11 primary campaigns with FEC receipts, and post-2022 activities.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2022 |
+| Total Raised | $7,693,038 |
+| Individual Contributions | $3,067,584 |
+| PAC Contributions | $157,646 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $1,398,136 |
+| IE Opposition (Super PAC) | $4,629,622 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2022 | $7,693,038 | $3,067,584 | $157,646 |
+| 2012 | $27,700 | $25,000 | $2,000 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DMFI PAC | $0 | $3,123,638 |
+| THIRD WAY | $0 | $1,010,000 |
+| THE DEMOCRATIC ACTION PAC | $465,000 | $0 |
+| WFP IE COMMITTEE | $404,831 | $0 |
+| MAINSTREAM DEMOCRATS PAC | $0 | $303,171 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH11151/) (Tier 1)
+<!-- auto:fec-politician end -->

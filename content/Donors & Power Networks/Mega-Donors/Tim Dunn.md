@@ -2,7 +2,7 @@
 title: "Tim Dunn"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -28,6 +28,36 @@ court-jurisdictions:
   - "United States Bankruptcy Court, S.D. New York"
 total-political-spend: "$9,908,147"
 related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers — Dan and Farris Wilks]] · [[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Tim Dunn]] · [[America First Policy Institute]]"
+sec-filings: 63
+sec-form-types:
+  - "10-K/A"
+  - "424B1"
+  - "424B3"
+  - "425"
+  - "D"
+  - "DEF 14A"
+  - "DEFM14A"
+  - "DEFR14A"
+  - "DFAN14A"
+  - "EX-10.1"
+  - "EX-10.17"
+  - "EX-10.18"
+  - "EX-10.2"
+  - "EX-10.37"
+  - "EX-10.52"
+  - "EX-2"
+  - "EX-2.1"
+  - "EX-24"
+  - "EX-99.1"
+  - "EX-99.5"
+  - "F-3"
+  - "F-3/A"
+  - "N-30D"
+  - "N-CSR"
+  - "PRE 14A"
+  - "PREM14A"
+  - "S-4"
+  - "S-4/A"
 ---
 #donor #mega-donor #texas-oil #christian-nationalist #republican-megadonor #crownquest
 
@@ -226,3 +256,21 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Tim%20Dunn) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 63 |
+| Form Types | 10-K/A, 424B1, 424B3, 425, D, DEF 14A, DEFM14A, DEFR14A +20 more |
+
+**Notable filings:**
+
+- 2014-12-22 — **EX-99.1**: EX-99.1
+- 2008-05-23 — **EX-24**: EX-24
+- 2024-02-01 — **EX-10.1**: AMENDMENT NO. 1 TO SECURITIES PURCHASE AGREEMENT BETWEEN AIADVERTISING, INC. AND HEXAGON PARTNERS, LTD
+- 2020-09-04 — **D**: D
+- 2005-03-31 — **EX-10.37**: EXHIBIT 10.37
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tim%20Dunn%22) (Tier 1)
+<!-- auto:sec-edgar end -->

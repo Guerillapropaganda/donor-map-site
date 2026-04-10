@@ -197,7 +197,7 @@ The industry's structural function for the donor class: maintain Democratic cult
 - [[Hillary Clinton]] — lobbying: $24.9M — contracts: $997K
 - [[Jon Ossoff]] — lobbying: $24.9M — contracts: $997K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

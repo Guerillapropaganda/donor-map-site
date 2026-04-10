@@ -232,3 +232,31 @@ Preservation of qualified immunity (which shields officers from personal liabili
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Fraternal%20Order%20of%20Police) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 8 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 3 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Homeland Security** → Funds **Mark Green** → Sits on **Homeland Security**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **Sheldon Whitehouse** → Sits on **Finance**
+
+**Funded politicians:**
+
+- [[Josh Green]] — lobbying: $2.5M
+- [[Mark Green]] (Homeland Security) — lobbying: $2.5M
+- [[Donald Trump]] — lobbying: $2.5M
+- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $2.5M
+- [[Sherrod Brown]] — lobbying: $2.5M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $2.5M
+- [[Markwayne Mullin]] (Armed Services) — lobbying: $2.5M
+- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) — lobbying: $2.5M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

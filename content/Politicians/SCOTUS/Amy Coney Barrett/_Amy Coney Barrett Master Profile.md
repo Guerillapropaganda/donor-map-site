@@ -139,7 +139,7 @@ Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 5
 
 - [[Judicial Crisis Network]] — $248K lobbying spend (Constitution, Government Issues)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

@@ -245,6 +245,31 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Mike Rogers]] (Armed Services) — lobbying: $1.3M
+- [[Michael Whatley]] — lobbying: $1.3M
+- [[Tom Cotton]] — lobbying: $1.3M
+- [[Samuel Alito]] — lobbying: $1.3M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
 | Metric | Value |

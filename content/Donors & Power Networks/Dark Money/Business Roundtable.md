@@ -30,6 +30,17 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
   - "Veterans Employment and Training Service"
 related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]]"
+sec-filings: 10000
+sec-form-types:
+  - "8-K"
+  - "DEFA14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.8"
+  - "PX14A6G"
+  - "PX14A6N"
+  - "SC 14F1"
 ---
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
 
@@ -184,7 +195,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 - [[Donald Trump]] — lobbying: $4.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -226,3 +237,21 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Business%20Roundtable%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 8-K, DEFA14A, EX-99, EX-99.1, EX-99.2, EX-99.8, PX14A6G, PX14A6N +1 more |
+
+**Notable filings:**
+
+- 2020-04-21 — **PX14A6G**: PX14A6G
+- 2020-04-16 — **PX14A6G**: PX14A6G
+- 2020-04-17 — **PX14A6G**: PX14A6G
+- 2020-04-17 — **PX14A6G**: PX14A6G
+- 2020-06-26 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Business%20Roundtable%22) (Tier 1)
+<!-- auto:sec-edgar end -->

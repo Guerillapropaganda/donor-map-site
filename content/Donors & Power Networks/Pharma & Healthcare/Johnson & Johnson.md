@@ -14,7 +14,7 @@ annual-revenue: "$477K"
 net-assets: "$1.3M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 ofac-programs:
   - "GLOMAG"
 subawards-issued: 2
@@ -31,6 +31,8 @@ related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[A
 nonprofit-status: "501(c)(3)"
 total-revenue: 359319
 total-assets: 1224754
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
 
@@ -252,3 +254,21 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Johnson%20%26%20Johnson) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

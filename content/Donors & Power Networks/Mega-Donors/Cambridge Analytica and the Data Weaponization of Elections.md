@@ -111,3 +111,20 @@ research-status:: ready — $15-20M Mercer investment, 87M Facebook profiles, ps
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cambridge%20Analytica%20and%20the%20Data%20Weaponization%20of%20Elections) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $790K
+- [[Ted Cruz]] — lobbying: $790K
+- [[Steve Bannon]] — lobbying: $790K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

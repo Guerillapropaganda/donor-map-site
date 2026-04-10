@@ -194,5 +194,6 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 **Sources**
 
+- [Congress.gov: Jamie Raskin](https://www.congress.gov/member/c001091) (Tier 1)
 - [GovTrack: Jamie Raskin](https://www.govtrack.us/congress/members/412708) (Tier 1)
 <!-- auto:voting-record end -->

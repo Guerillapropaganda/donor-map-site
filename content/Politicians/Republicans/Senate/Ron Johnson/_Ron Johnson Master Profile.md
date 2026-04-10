@@ -174,3 +174,10 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Ron Johnson](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

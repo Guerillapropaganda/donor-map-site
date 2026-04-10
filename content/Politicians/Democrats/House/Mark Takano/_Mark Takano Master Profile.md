@@ -137,3 +137,10 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 - [Ballotpedia: Mark Takano](https://ballotpedia.org/Mark_Takano) (Tier 3)
 - [Wikipedia: Mark Takano](https://en.wikipedia.org/wiki/Mark_Takano) (Tier 3)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Mark Takano](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

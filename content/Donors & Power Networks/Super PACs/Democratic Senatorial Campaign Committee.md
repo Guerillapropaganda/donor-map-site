@@ -8,7 +8,7 @@ parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 federal-register-mentions: 33
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Federal Election Commission"
   - "Postal Regulatory Commission"
@@ -39,6 +39,18 @@ sec-form-types:
   - "S-1/A"
   - "U-13-60"
 opposes: "[[Linda McMahon Master Profile]]"
+court-cases: 218
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Massachusetts"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. North Carolina"
+  - "District Court, N.D. Florida"
+  - "District Court, S.D. Texas"
 ---
 #dscc #senate #democratic #campaign #fundraising #party-committee
 
@@ -128,3 +140,22 @@ DSCC fundraising relies on three channels:
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Democratic%20Senatorial%20Campaign%20Committee%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 218 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Third Circuit, District Court, D. Arizona, District Court, D. Massachusetts, District Court, District of Columbia, District Court, E.D. North Carolina +4 more |
+| Case Types | 190 Contract: Other, 2441 Civil Rights Voting, 2441 Voting, 3441 Civil Rights Voting, 440 Civil Rights: Other |
+
+**Notable cases:**
+- League of United Latin American Citizens v. Executive Office of the President (2026) — Court of Appeals for the D.C. Circuit
+- DSCC v. TRUMP (2026) — District Court, District of Columbia
+- Mainini v. Health Matching Account Services, Inc. (2025) — District Court, S.D. Texas
+- State of California v. Trump (2025) — Court of Appeals for the First Circuit
+- United States v. North Carolina State Board of Elections (2025) — District Court, E.D. North Carolina
+- Bette Eakin v. Adams County Board of Elections (2025) — Court of Appeals for the Third Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Democratic%20Senatorial%20Campaign%20Committee%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

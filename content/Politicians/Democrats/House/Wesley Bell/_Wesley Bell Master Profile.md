@@ -2,7 +2,7 @@
 title: "Wesley Bell Master Profile"
 type: politician
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 party: "Democrat"
@@ -24,6 +24,9 @@ known-gaps:
   - Full build required: biography, Ferguson prosecutor tenure, St. Louis County Prosecuting Attorney role, 2024 primary
   - No FEC candidate ID verified
   - No pipeline enrichment
+last-enriched: "2026-04-10"
+total-received: "$1,272,557"
+fec-candidate-id: "H4MO01134"
 ---
 
 #wesley-bell #mo-01 #st-louis #aipac-backed #udp-supported #house #democrat #ferguson
@@ -72,3 +75,35 @@ Source: [[_Cori Bush Master Profile]], [[DMFI - Democratic Majority for Israel]]
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Needs full research build-out including his criminal justice reform record as St. Louis County Prosecuting Attorney (relevant to Ferguson-era prosecutorial politics), 2024 primary campaign documentation, and House voting record.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,272,557 |
+| Individual Contributions | $990,287 |
+| PAC Contributions | $249,296 |
+| Cash on Hand | 847837.78 |
+| IE Support (Super PAC) | $9,237,018 |
+| IE Opposition (Super PAC) | $1,680,635 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,272,557 | $990,287 | $249,296 |
+| 2024 | $5,386,198 | $4,741,830 | $244,750 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITED DEMOCRACY PROJECT ('UDP') | $6,544,513 | $0 |
+| MAINSTREAM DEMOCRATS PAC | $1,298,799 | $0 |
+| JUSTICE DEMOCRATS PAC | $0 | $1,277,510 |
+| DMFI PAC | $921,906 | $0 |
+| WORKING FAMILIES PARTY PAC | $0 | $403,125 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MO01134/) (Tier 1)
+<!-- auto:fec-politician end -->

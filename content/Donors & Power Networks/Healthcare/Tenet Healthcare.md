@@ -69,6 +69,8 @@ related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue
 nonprofit-status: "501(c)(3)"
 total-revenue: 23648810
 total-assets: 24419400
+top-federal-agency: "Department of Veterans Affairs"
+top-naics-code: "811210"
 ---
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
 
@@ -340,3 +342,29 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Federal Subawards & Spending Breakdown
+<!-- auto:usaspending-subawards start -->
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Veterans Affairs ($1.1M) |
+| Primary NAICS Sector | Electronic and Precision Equipment Repair and Maintenance |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Veterans Affairs | $1.1M |
+| Department of Defense | $197K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Electronic and Precision Equipment Repair and Maintenance (811210) | $810K |
+| Temporary Help Services (561320) | $208K |
+| Medical Laboratories (621511) | $151K |
+| General Medical and Surgical Hospitals (622110) | $78K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+<!-- auto:usaspending-subawards end -->

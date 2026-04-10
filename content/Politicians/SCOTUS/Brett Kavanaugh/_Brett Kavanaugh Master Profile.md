@@ -128,8 +128,15 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 
 - [[Judicial Crisis Network]] — $248K lobbying spend (Constitution, Government Issues)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Brett Kavanaugh](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

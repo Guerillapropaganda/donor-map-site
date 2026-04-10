@@ -2,7 +2,7 @@
 title: "Republican Jewish Coalition"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -12,7 +12,7 @@ annual-revenue: "$6.4M"
 net-assets: "$3.4M"
 tax-year: "2023"
 court-cases: 15
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, D. Massachusetts"
   - "District Court, District of Columbia"
@@ -26,6 +26,20 @@ nonprofit-status: "501(c)(4)"
 total-revenue: 13380498
 total-assets: 4294171
 related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]]"
+total-political-spend: "$3,644,594"
+politicians-funded:
+  - "Lindsey Graham"
+  - "Mike Lawler"
+  - "Donald Trump"
+  - "Ted Cruz"
+  - "Sherrod Brown"
+  - "Shontel Brown"
+  - "Michael Whatley"
+  - "John Cornyn"
+  - "Angie Craig"
+  - "Dan Goldman"
+  - "Donna Miller"
+  - "Stephen Miller"
 ---
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson
 
@@ -203,3 +217,28 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $3,644,594 |
+| Contributions | 500 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| RJC VICTORY FUND | $2,000,000 | — |
+| GRAHAM MAJORITY FUND | $178,807 | — |
+| GROW THE MAJORITY | $167,942 | — |
+| DEFEND OUR MAJORITY | $150,000 | — |
+| RANDY FINE FOR CONGRESS | $140,489 | REP |
+| CONGRESSIONAL LEADERSHIP FUND | $125,000 | — |
+| LAWLER VICTORY FUND | $65,387 | — |
+| TRUMP 47 COMMITTEE, INC. | $62,799 | — |
+| GALLREIN FOR CONGRESS | $51,750 | REP |
+| TED CRUZ FOR SENATE | $45,632 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Republican%20Jewish%20Coalition) (Tier 1)
+<!-- auto:fec-donor end -->

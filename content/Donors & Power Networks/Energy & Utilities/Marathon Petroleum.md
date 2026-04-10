@@ -19,7 +19,7 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 sec-filings: 10000
 sec-form-types:
   - "10-12B/A"
@@ -73,6 +73,20 @@ regulatory-agencies:
   - "Interior Department"
   - "Justice Department"
   - "Labor Department"
+court-cases: 2284
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Kansas"
+  - "District Court, D. Minnesota"
+  - "District Court, E.D. Louisiana"
+  - "District Court, E.D. Texas"
+  - "District Court, M.D. Louisiana"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. Texas"
+lei: "3BNYRYQHD39K4LCKQF12"
+lei-jurisdiction: "US-DE"
 ---
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
 
@@ -394,5 +408,39 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 - [[Cathy McMorris Rodgers]] (Energy & Commerce) — contracts: $51K
 - [[Kevin McCarthy]] — contracts: $51K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2,284 |
+| Courts | District Court, C.D. California, District Court, D. Kansas, District Court, D. Minnesota, District Court, E.D. Louisiana, District Court, E.D. Texas, District Court, M.D. Louisiana, District Court, N.D. California, District Court, N.D. Ohio +4 more |
+| Case Types | 360 P.I.: Other, 440 Civil Rights: Other, 485 Telephone Consumer Protection Act (TCPA) |
+
+**Notable cases:**
+- Amy Nicole Jones and Thomas Charles Jones, Jr. (2026) — United States Bankruptcy Court, S.D. West Virginia
+- United States v. Tuck (2026) — District Court, N.D. Ohio
+- Tejon v. Marathon Petroleum Corporation (2026) — District Court, S.D. Florida
+- Amy v. Marathon Petroleum Corporation (2026) — District Court, E.D. Texas
+- Williams v. Exxon Mobil Corporation (2026) — District Court, M.D. Louisiana
+- Franks v. Marathon Petroleum Company LP (2026) — District Court, D. Minnesota
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Marathon%20Petroleum%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [3BNYRYQHD39K4LCKQF12](https://search.gleif.org/#/record/3BNYRYQHD39K4LCKQF12) |
+| Legal Name | MARATHON PETROLEUM CORPORATION |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-02-13T18:17:25Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

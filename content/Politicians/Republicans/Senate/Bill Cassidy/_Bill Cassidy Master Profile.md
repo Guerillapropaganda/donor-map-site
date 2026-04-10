@@ -157,7 +157,7 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 
 - [[Petrochemical Industry Bloc]] — $36.4M lobbying spend (Budget/Appropriations, Chemicals/Chemical Industry, Energy/Nuclear)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

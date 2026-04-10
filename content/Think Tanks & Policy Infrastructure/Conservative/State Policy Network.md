@@ -2,7 +2,7 @@
 title: "State Policy Network"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 ein: "570952531"
@@ -21,7 +21,7 @@ subawards-received-amount: 1009778941592127500
 related: "[[Donors Capital Fund]] · [[DonorsTrust]] · [[Freedom Partners]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[Cato Institute]] · [[Freedom Partners Chamber of Commerce]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 source-types:
   - SEC
   - USASpending
@@ -32,6 +32,14 @@ known-gaps:
 nonprofit-status: "501(c)(3)"
 total-revenue: 33889522
 total-assets: 24576851
+court-cases: 23
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Sixth Circuit"
+  - "District Court, D. Puerto Rico"
+  - "District Court, N.D. California"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Texas"
 ---
 
 #think-tank #conservative #state-level #deregulation #koch-network #dark-money #class-analysis #follow-the-money
@@ -214,3 +222,22 @@ research-status:: draft — Core financial profile, network structure, and fundi
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/570952531) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 23 |
+| Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the Sixth Circuit, District Court, D. Puerto Rico, District Court, N.D. California, District Court, S.D. New York, District Court, W.D. Texas |
+| Case Types | 2890 Other Statutory Actions, 2899 Other Statutes, 470 Racketeer/Corrupt Organization, 820 Copyright, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Sierra Club v. Office of Management and Budget (2025) — District Court, N.D. California
+- Sierra Club v. United States Department of Interior (2025) — District Court, N.D. California
+- Sierra Club v. United States Department Of Energy (2025) — District Court, N.D. California
+- Buckeye Institute v. IRS (2025) — Court of Appeals for the Sixth Circuit
+- Commonwealth of Puerto Rico v. Exxon Mobil Corporation (2024) — District Court, D. Puerto Rico
+- The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22State%20Policy%20Network%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

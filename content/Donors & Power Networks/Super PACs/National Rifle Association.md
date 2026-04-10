@@ -40,11 +40,27 @@ sec-form-types:
   - "PX14A6G"
   - "SB-2"
   - "SB-2/A"
-ein: 530116130
+ein: "351046434"
 annual-revenue: "$175.7M"
 net-assets: "$168.1M"
 tax-year: "2023"
 related: "[[The Culture War Economy and Small Dollar Fundraising]] · [[Lauren Boebert]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The NRA Investment and the Second Amendment Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Guns - Donors and Backers]] · [[Koch Network - Charles Koch]] · [[WinRed]] · [[Trump Victory]]"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-10"
+total-revenue: 3069790
+total-assets: 5024655
+federal-register-mentions: 25
+regulatory-agencies:
+  - "Agriculture Department"
+  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
+  - "Commerce Department"
+  - "Federal Election Commission"
+  - "Fish and Wildlife Service"
+  - "Forest Service"
+  - "Industry and Security Bureau"
+  - "Interior Department"
+  - "Justice Department"
+  - "National Credit Union Administration"
 ---
 #donor #gun-lobby #pac #nra #dark-money #russian-money #scotus #501c4 #lobbying
 
@@ -258,3 +274,50 @@ The NRA's decline doesn't reverse its victories. The gun industry is pivoting to
 
 - [Source: ProPublica Nonprofit Explorer — EIN 530116130](https://projects.propublica.org/nonprofits/organizations/530116130) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 351046434 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $3.1M |
+| Total Assets | $5.0M |
+| NTEE Code | N70Z |
+| IRS Ruling Date | 1991-04-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/351046434/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/351046434) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 25 |
+| Final Rules | 18 |
+| Proposed Rules | 5 |
+| Notices | 2 |
+| Agencies | Agriculture Department, Alcohol, Tobacco, Firearms, and Explosives Bureau, Commerce Department, Federal Election Commission, Fish and Wildlife Service, Forest Service, Industry and Security Bureau, Interior Department +4 more |
+
+**Recent regulatory activity:**
+- [Definition of “Engaged in the Business” as a Dealer in Firearms](https://www.federalregister.gov/documents/2024/04/19/2024-07838/definition-of-engaged-in-the-business-as-a-dealer-in-firearms) (2024-04-19) — Justice Department ★
+- [Control of Firearms, Guns, Ammunition and Related Articles the President Determines No Longer Warrant Control Under the United States Munitions List (USML)](https://www.federalregister.gov/documents/2020/01/23/2020-00573/control-of-firearms-guns-ammunition-and-related-articles-the-president-determines-no-longer-warrant) (2020-01-23) — Commerce Department ★
+- [Bump-Stock-Type Devices](https://www.federalregister.gov/documents/2018/12/26/2018-27763/bump-stock-type-devices) (2018-12-26) — Justice Department ★
+- [Stanislaus National Forest, CA; Notice of Intent To Prepare an Environmental Impact Statement for Candy Rock Quarry Management](https://www.federalregister.gov/documents/2012/02/28/2012-4608/stanislaus-national-forest-ca-notice-of-intent-to-prepare-an-environmental-impact-statement-for) (2012-02-28) — Agriculture Department
+- [Endangered and Threatened Wildlife and Plants; Revising the Listing of the Gray Wolf (Canis lupus) in the Western Great Lakes](https://www.federalregister.gov/documents/2011/12/28/2011-32825/endangered-and-threatened-wildlife-and-plants-revising-the-listing-of-the-gray-wolf-canis-lupus-in) (2011-12-28) — Interior Department
+- [Endangered and Threatened Wildlife and Plants; Proposed Rule To Revise the List of Endangered and Threatened Wildlife for the Gray Wolf (Canis lupus) in the Eastern United States, Initiation of Status Reviews for the Gray Wolf and for the Eastern Wolf (Canis lycaon)](https://www.federalregister.gov/documents/2011/05/05/2011-9557/endangered-and-threatened-wildlife-and-plants-proposed-rule-to-revise-the-list-of-endangered-and) (2011-05-05) — Interior Department
+- ... and 19 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Rifle%20Association%22) (Tier 1)
+<!-- auto:federal-register end -->

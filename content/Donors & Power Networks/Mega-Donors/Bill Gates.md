@@ -2,7 +2,7 @@
 title: "Bill Gates"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -17,7 +17,20 @@ politicians-funded:
   - "Debbie Stabenow"
   - "Rosa DeLauro"
 related: "[[Economic Policy Institute]] · [[Rosa DeLauro]] · [[Microsoft]] · [[Walton Family Foundation]] · [[Eli Broad Foundation]] · [[DeVos Family]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
+court-cases: 1299
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Connecticut"
+  - "District Court, N.D. Alabama"
+  - "District Court, N.D. New York"
+  - "District Court, S.D. California"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, D. Delaware"
+lei: "254900958LQ75NB9GC08"
+lei-jurisdiction: "US-WA"
 ---
 #gates #microsoft #philanthropy #education #health #charter-schools #climate
 
@@ -97,3 +110,37 @@ Education reform (charter schools, teacher evaluation, standardized testing), gl
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,299 |
+| Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, D. Connecticut, District Court, N.D. Alabama, District Court, N.D. New York, District Court, S.D. California, District Court, S.D. New York +1 more |
+| Case Types | 190 Contract: Other, 440 Civil Rights: Other, 850 Securities/Commodities, 880 Defend Trade Secrets Act (of 2016), 890 Other Statutory Actions |
+
+**Notable cases:**
+- Stewart v. Mann (2026) — District Court, S.D. New York
+- Sullivan v. Charlie Munger Estate (2026) — District Court, D. Connecticut
+- United States v. Mendez (2026) — District Court, N.D. New York
+- Avenger Flight Group, LLC (2026) — United States Bankruptcy Court, D. Delaware
+- Emrit v. Gates, et al. (2026) — Court of Appeals for the Ninth Circuit
+- Audrey D. Tomerlin v. Angeleina Jolie (2026) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bill%20Gates%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [254900958LQ75NB9GC08](https://search.gleif.org/#/record/254900958LQ75NB9GC08) |
+| Legal Name | Gates Foundation |
+| Jurisdiction | US-WA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-11-14T12:08:39Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

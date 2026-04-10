@@ -200,4 +200,9 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 - [U.S. Senator Dick Durbin official website — committee assignments](https://www.durbin.senate.gov/about/committees-assignments) (Tier 1)
 
 ### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Dick Durbin](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
 

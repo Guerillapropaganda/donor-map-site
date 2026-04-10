@@ -2,7 +2,7 @@
 title: "America Votes"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -21,7 +21,7 @@ annual-revenue: "$115.0M"
 net-assets: "$24.3M"
 tax-year: "2023"
 nonprofit-status: "501(c)(4)"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 total-revenue: 91066512
 total-assets: 45486683
 federal-register-mentions: 1
@@ -46,6 +46,7 @@ court-jurisdictions:
   - "District Court, N.D. Alabama"
   - "District Court, W.D. Wisconsin"
 related: "[[Democracy Alliance]]"
+total-political-spend: "$157,372,490"
 ---
 #america-votes #dark-money #progressive-coordination #democracy-alliance #infrastructure #voter-mobilization
 
@@ -254,3 +255,28 @@ America Votes also reveals **structural inequality in progressive politics:**
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22America%20Votes%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $157,372,490 |
+| Contributions | 445 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| FAMILY FRIENDLY ACTION PAC | $21,042,500 | — |
+| BLACKPAC | $18,357,500 | — |
+| LCV VICTORY FUND | $17,925,000 | — |
+| SOMOS PAC | $13,031,000 | — |
+| BLACK PAC | $11,958,200 | — |
+| FOR OUR FUTURE | $11,030,689 | — |
+| CFFE PAC | $9,462,500 | — |
+| FF PAC | $7,200,000 | — |
+| AMERICA VOTES ACTION FUND | $6,360,159 | — |
+| TAKE BACK 2020 | $5,653,381 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=America%20Votes) (Tier 1)
+<!-- auto:fec-donor end -->

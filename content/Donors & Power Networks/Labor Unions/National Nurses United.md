@@ -189,7 +189,7 @@ National Nurses United represents class analysis embedded within labor organizin
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-09 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -201,7 +201,7 @@ National Nurses United represents class analysis embedded within labor organizin
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Veterans** → Funds **[[Mark Takano]]** → Sits on **Veterans' Affairs**
+- Lobbies on **Veterans** → Funds **Mark Takano** → Sits on **Veterans' Affairs**
 
 **Funded politicians:**
 
@@ -212,6 +212,6 @@ National Nurses United represents class analysis embedded within labor organizin
 - [[Tammy Baldwin]] — lobbying: $3.1M
 - [[Jim McGovern]] — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->

@@ -89,3 +89,10 @@ Hochul represents the exhaustion of Democratic executive authority when confront
 
 ### Legislative Activity (Congress.gov)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Kathy Hochul](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

@@ -332,6 +332,43 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 9 |
+| Committee Overlap Detected | 9 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Ken Calvert** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Kay Granger]] (Appropriations)
+- [[Ken Calvert]] (Appropriations)
+- [[Mike Rogers]] (Armed Services)
+- [[Adam Smith]] (Armed Services)
+- [[Rosa DeLauro]] (Appropriations)
+- [[Jack Reed]] (Armed Services)
+- [[Tammy Duckworth]] (Armed Services)
+- [[Tom Cole]] (Appropriations)
+- [[Roger Wicker]] (Armed Services)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |

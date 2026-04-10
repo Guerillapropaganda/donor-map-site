@@ -2,7 +2,7 @@
 title: "Brownstein Hyatt Farber Schreck"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 annual-revenue: "$73.8M"
@@ -20,6 +20,22 @@ regulatory-agencies:
   - "Wage and Hour Division"
 lei: "5493001UWJ1RT346BG14"
 lei-jurisdiction: "US-CO"
+sec-filings: 3825
+sec-form-types:
+  - "8-K"
+  - "8-K/A"
+  - "CORRESP"
+  - "EX-5"
+  - "EX-5.01"
+  - "EX-5.02"
+  - "EX-5.1"
+  - "EX-5.2"
+  - "EX-5.4"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "LETTER"
+  - "S-8"
 ---
 
 #lobbying #k-street #energy #real-estate #cannabis #gaming #foreign-lobbying #defense #pharma #tech
@@ -234,3 +250,21 @@ The firm's representation of Saudi Arabia — maintained after the Khashoggi mur
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 3,825 |
+| Form Types | 8-K, 8-K/A, CORRESP, EX-5, EX-5.01, EX-5.02, EX-5.1, EX-5.2 +6 more |
+
+**Notable filings:**
+
+- 2015-12-09 — **EX-99.2**: COMPLAINT FILED IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF NEVADA
+- 2015-12-09 — **EX-99.3**: MOTION FOR A TEMPORARY RESTRAINING ORDER FILED IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF NEVADA
+- 2010-08-13 — **EX-5.1**: LEGAL OPINION OF BROWNSTEIN HYATT FARBER SCHRECK, LLP
+- 2015-12-11 — **EX-99.2**: TEMPORARY RESTRAINING ORDER
+- 2013-04-17 — **8-K**: FORM 8-K
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22) (Tier 1)
+<!-- auto:sec-edgar end -->

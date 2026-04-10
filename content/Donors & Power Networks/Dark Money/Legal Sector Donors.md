@@ -9,6 +9,8 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Ocean Conservancy]]"
 last-enriched: "2026-04-09"
+lobbying-spend: 7682631
+lobbying-filings: 99
 ---
 #legal #lawyers #donors #tort #corporate-law #bundling #democratic #bipartisan
 
@@ -32,3 +34,22 @@ The legal sector's political power extends beyond contributions: lawyers are the
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $7.7M |
+| Quarterly Filings | 99 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 39 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Advertising, Alcohol and Drug Abuse, Animals, Automotive Industry, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Constitution, Consumer Issues/Safety/Products, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Housing, Immigration, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Religion, Sports/Athletics, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Veterans
+
+**Lobbying firms:** ACCELERATE STRATEGIES, AKIN GUMP STRAUSS HAUER & FELD, ANIMAL LEGAL DEFENSE FUND, ANIMAL LEGAL DEFENSE LEGISLATIVE FUND, AUSTIN LEGAL AND PUBLIC AFFAIRS PLLC, BENTLEY LEGAL SERVICES PLLC, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CAMPAIGN LEGAL CENTER, INC., CAPITOL TAX PARTNERS, LLP, CHRISTIAN LEGAL SOCIETY, COGENT STRATEGIES LLC, CORCORAN & ASSOCIATES, INC. DBA CORCORAN PARTNERS, DEBEVOISE & PLIMPTON LLP, EBERLE STRATEGIES, ELITE STRATEGIC SERVICES, FULCRUM PUBLIC AFFAIRS LLC, GOODLATTE GROUP, LLC F.K.A. ROBERT GOODLATTE, HEALTH CARE SERVICE CORPORATION, A MUTUAL LEGAL RESERVE COMPANY (HCSC), JAMES EDWARDS, KING & SPALDING LLP, MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, MR. JOHN NAPIER, NAACP LEGAL DEFENSE & EDUCATIONAL FUND, INC., NATIONAL LEGAL AID AND DEFENDER ASSOCIATION, NEW CENTURY GOVERNMENT AFFAIRS (F/K/A TERRENCE C. WOLFE), NORTH SOUTH GOVERNMENT STRATEGIES, FKA JDM PUBLIC STRATEGIES, LLC, PACIFIC LEGAL FOUNDATION, S-3 GROUP, SAMUEL POOLE, SHOOK, HARDY & BACON, LLP, SILVER LEGAL SERVICES LLC, SKADDEN, ARPS, SLATE, MEAGHER & FLOM LLP, TAI GINSBERG & ASSOCIATES, LLC, TCH GROUP, LLC, THE D MAJOR GROUP, TIBER CREEK GROUP, WARD AND SMITH, P.A., WEST FRONT STRATEGIES LLC
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Interior, Dept of (DOI), Internal Revenue Service (IRS), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE +4 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Legal%20Sector%20Donors) (Tier 1)
+<!-- auto:lda-lobbying end -->

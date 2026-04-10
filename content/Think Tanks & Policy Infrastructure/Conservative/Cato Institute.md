@@ -8,7 +8,7 @@ parent: null
 category: conservative
 tax-status: 501c3
 court-cases: 1175
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the First Circuit"
@@ -30,6 +30,10 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Internal Revenue Service"
 related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[ExxonMobil]] · [[Heritage Foundation]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]] · [[State Policy Network]]"
+ein: "237432162"
+nonprofit-status: "501(c)(3)"
+total-revenue: 67482807
+total-assets: 190480742
 ---
 
 #think-tank #conservative #libertarian #deregulation #climate-denial #social-security #financial-regulation #dark-money #koch
@@ -433,3 +437,28 @@ The revolving door completes the circuit: research produced → personnel traine
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cato%20Institute%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 237432162 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $67.5M |
+| Total Assets | $190.5M |
+| NTEE Code | W200 |
+| IRS Ruling Date | 1975-03-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
+
+**View 990 filings:**
+- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2024)
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2020)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237432162) (Tier 1)
+<!-- auto:nonprofit-990 end -->

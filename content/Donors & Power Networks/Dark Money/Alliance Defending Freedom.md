@@ -16,9 +16,12 @@ tax-year: "2023"
 total-political-spend: "$250"
 related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Bradley Foundation]] · [[American Federation for Children]] · [[National Education Association]]"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 total-revenue: 125427282
 total-assets: 102769051
+federal-register-mentions: 1
+regulatory-agencies:
+  - "Housing and Urban Development Department"
 ---
 #adf #religious-liberty #anti-lgbtq #scotus #litigation #dark-money #christian-right
 
@@ -118,3 +121,17 @@ Each victory expands the legal territory in which religious objections override 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Proposed Rule | 1 |
+| Agencies | Housing and Urban Development Department |
+
+**Recent regulatory activity:**
+- [Making Admission or Placement Determinations Based on Sex in Facilities Under Community Planning and Development Housing Programs](https://www.federalregister.gov/documents/2020/07/24/2020-14718/making-admission-or-placement-determinations-based-on-sex-in-facilities-under-community-planning-and) (2020-07-24) — Housing and Urban Development Department ★
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Alliance%20Defending%20Freedom%22) (Tier 1)
+<!-- auto:federal-register end -->

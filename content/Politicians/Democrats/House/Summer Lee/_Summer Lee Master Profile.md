@@ -2,7 +2,7 @@
 title: "Summer Lee Master Profile"
 type: politician
 content-readiness: draft
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -35,6 +35,9 @@ known-gaps:
   - Full donor breakdown not yet documented
   - Bills sponsored/cosponsored counts not yet documented
   - Birth date and pre-Congress biography need research
+last-enriched: "2026-04-10"
+total-received: "$1,134,454"
+fec-candidate-id: "H2PA18200"
 ---
 
 #summer-lee #pa-12 #pittsburgh #squad #progressive #first-black-congresswoman-pa #aipac-survivor #dsa #class-analysis #follow-the-money
@@ -154,3 +157,36 @@ UDP returned to PA-12 in 2024 but with reduced spending compared to 2022. Lee wo
 ---
 
 **Status:** This profile is a stub created 2026-04-09 to preserve connections across the vault. Full build-out requires pipeline enrichment (FEC, Congress.gov, GovTrack) and research into pre-Congress biography, state legislature tenure, specific bill sponsorships, and committee assignments. Promote to `ready` once pipeline auto-blocks populate and Tier 1 source URLs are verified.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,134,454 |
+| Individual Contributions | $645,928 |
+| PAC Contributions | $145,600 |
+| Cash on Hand | 1790134.89 |
+| IE Support (Super PAC) | $6,874,354 |
+| IE Opposition (Super PAC) | $3,205,379 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $1,134,454 | $645,928 | $145,600 |
+| 2024 | $2,959,031 | $1,910,938 | $330,385 |
+| 2022 | $1,851,679 | $876,288 | $349,219 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITED DEMOCRACY PROJECT (UDP) | $0 | $3,205,379 |
+| JUSTICE DEMOCRATS PAC | $2,968,583 | $0 |
+| WFP NATIONAL PAC | $1,872,561 | $0 |
+| WORKING FAMILIES PARTY PAC | $640,000 | $0 |
+| CONGRESSIONAL PROGRESSIVE CAUCUS PAC | $437,462 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2PA18200/) (Tier 1)
+<!-- auto:fec-politician end -->

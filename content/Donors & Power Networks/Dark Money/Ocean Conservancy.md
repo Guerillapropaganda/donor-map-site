@@ -13,7 +13,7 @@ issues:
 lobbying-spend: 5725200
 lobbying-filings: 86
 federal-register-mentions: 87
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Agriculture Department"
   - "Commerce Department"
@@ -25,10 +25,13 @@ regulatory-agencies:
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
 related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]] · [[Climate Philanthropy - The Green Billionaires]] · [[Democratic Donor Network]] · [[Environmental Law & Policy Center]] · [[New Venture Fund]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]]"
-ein: 237245152
+ein: "237245152"
 annual-revenue: "$48.6M"
 net-assets: "$96.1M"
 tax-year: "2023"
+nonprofit-status: "501(c)(3)"
+total-revenue: 56087482
+total-assets: 95267498
 ---
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing
 
@@ -251,3 +254,28 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 - [Source: ProPublica Nonprofit Explorer — EIN 237245152](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_03_2024_prefixes_20-27%2F237245152_202306_990_2024031222312055.pdf) (Tier 1)
 <!-- auto:propublica-990 end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 237245152 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $56.1M |
+| Total Assets | $95.3M |
+| NTEE Code | C320 |
+| IRS Ruling Date | 1972-12-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237245152/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1)
+<!-- auto:nonprofit-990 end -->

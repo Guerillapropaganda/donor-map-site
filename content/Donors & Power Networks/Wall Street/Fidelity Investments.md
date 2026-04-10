@@ -2,7 +2,7 @@
 title: "Fidelity Investments"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Technology"
 federal-register-mentions: 182
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Employee Benefits Security Administration"
   - "Labor Department"
@@ -25,6 +25,18 @@ total-revenue: 36802245050
 total-assets: 66787000627
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+court-cases: 5541
+court-jurisdictions:
+  - "District Court, D. Kansas"
+  - "District Court, D. New Jersey"
+  - "District Court, D. Utah"
+  - "District Court, E.D. Michigan"
+  - "District Court, E.D. New York"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. Illinois"
+  - "District Court, N.D. New York"
+  - "District Court, N.D. Ohio"
 ---
 
 #asset-manager #johnson-family #private-equity #financial-deregulation #crypto
@@ -136,3 +148,22 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Fidelity%20Investments) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 5,541 |
+| Courts | District Court, D. Kansas, District Court, D. New Jersey, District Court, D. Utah, District Court, E.D. Michigan, District Court, E.D. New York, District Court, E.D. Pennsylvania, District Court, M.D. Florida, District Court, N.D. Illinois +7 more |
+| Case Types | 440 Civil Rights: Other, 690 Forfeit/Penalty: Other, 791 Labor: E.R.I.S.A. |
+
+**Notable cases:**
+- United States v. Gallego Hoyos (2026) — District Court, S.D. Florida
+- Rodney Eugene Shaw (2026) — United States Bankruptcy Court, D. Kansas
+- United States v. Farajov (2026) — District Court, M.D. Florida
+- William Allen Farnum and Elizabeth Weller Farnum (2026) — United States Bankruptcy Court, D. Oregon
+- Ding v. Fidelity Investments (2026) — District Court, E.D. Michigan
+- Kvek v. Cushman & Wakefield US Inc (2026) — District Court, W.D. Washington
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fidelity%20Investments%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

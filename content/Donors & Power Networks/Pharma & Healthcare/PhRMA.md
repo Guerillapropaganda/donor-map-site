@@ -336,5 +336,5 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 - [[Chris Coons]] — lobbying: $2.7M
 - [[Cory Booker]] — lobbying: $2.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

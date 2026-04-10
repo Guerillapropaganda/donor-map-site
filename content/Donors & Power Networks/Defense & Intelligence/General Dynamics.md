@@ -176,6 +176,31 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Committee Overlap Detected | 3 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
+
+**Funded politicians:**
+
+- [[Jack Reed]] (Armed Services)
+- [[Roger Wicker]] (Armed Services)
+- [[Tammy Duckworth]] (Armed Services)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
 | Metric | Value |

@@ -2,7 +2,7 @@
 title: "General Motors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -20,7 +20,7 @@ annual-revenue: "$25K"
 net-assets: "$130K"
 tax-year: "2023"
 court-cases: 52314
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, D. Colorado"
   - "District Court, E.D. Michigan"
@@ -41,6 +41,17 @@ lei-jurisdiction: "IN"
 nonprofit-status: "501(c)(3)"
 total-revenue: 95059
 total-assets: 13703
+federal-register-mentions: 1900
+regulatory-agencies:
+  - "Environmental Protection Agency"
+  - "Executive Office of the President"
+  - "Homeland Security Department"
+  - "International Trade Commission"
+  - "Justice Department"
+  - "National Highway Traffic Safety Administration"
+  - "Pipeline and Hazardous Materials Safety Administration"
+  - "Transportation Department"
+  - "U.S. Customs and Border Protection"
 ---
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
 
@@ -152,7 +163,7 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 - [[Joe Biden]] — lobbying: $61.2M
 - [[Barack Obama]] — lobbying: $61.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -274,3 +285,26 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1,900 |
+| Final Rules | 392 |
+| Proposed Rules | 266 |
+| Notices | 1,241 |
+| Presidential Documents | 1 |
+| Agencies | Environmental Protection Agency, Executive Office of the President, Homeland Security Department, International Trade Commission, Justice Department, National Highway Traffic Safety Administration, Pipeline and Hazardous Materials Safety Administration, Transportation Department +1 more |
+
+**Recent regulatory activity:**
+- [Initial Decision That Certain Frontal Driver Air Bag Inflators Manufactured by Jilin Province Detiannuo Safety Technology Co., Ltd. (DTN) Contain a Safety Defect](https://www.federalregister.gov/documents/2026/04/06/2026-06620/initial-decision-that-certain-frontal-driver-air-bag-inflators-manufactured-by-jilin-province) (2026-04-06) — Transportation Department
+- [Hazardous Materials: Notice of Actions on Special Permits](https://www.federalregister.gov/documents/2026/03/18/2026-05279/hazardous-materials-notice-of-actions-on-special-permits) (2026-03-18) — Transportation Department
+- [Daimler Coaches North America, LLC, Denial of Petition for Decision of Inconsequential Noncompliance](https://www.federalregister.gov/documents/2026/03/16/2026-05029/daimler-coaches-north-america-llc-denial-of-petition-for-decision-of-inconsequential-noncompliance) (2026-03-16) — Transportation Department
+- [Certain Vehicle Parts and Components Thereof; Notice of Institution of Investigation](https://www.federalregister.gov/documents/2026/03/12/2026-04838/certain-vehicle-parts-and-components-thereof-notice-of-institution-of-investigation) (2026-03-12) — International Trade Commission
+- [Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest](https://www.federalregister.gov/documents/2026/02/10/2026-02597/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest) (2026-02-10) — International Trade Commission
+- [Air Plan Approval; Connecticut; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2026/02/09/2026-02477/air-plan-approval-connecticut-revised-format-for-materials-incorporated-by-reference) (2026-02-09) — Environmental Protection Agency
+- ... and 1,894 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Motors%22) (Tier 1)
+<!-- auto:federal-register end -->

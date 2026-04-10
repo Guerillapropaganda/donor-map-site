@@ -168,4 +168,9 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 <!-- auto:fec-politician end -->
 
 ### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Roger Marshall](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
 

@@ -41,6 +41,10 @@ sec-form-types:
   - "S-1"
   - "S-1/A"
   - "S-3"
+fara-status: "registrant"
+fara-records: 3
+fara-countries:
+  - "NORWAY"
 ---
 
 #think-tank #liberal #safety-net #anti-poverty #tax-policy #medicaid #SNAP #EITC #class-analysis
@@ -286,3 +290,20 @@ The Democracy Alliance connection and the Arabella Advisors dark money pipeline 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Center%20on%20Budget%20and%20Policy%20Priorities%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Foreign Agent Activity (FARA)
+<!-- auto:fara-foreign-agents start -->
+| Metric | Value |
+|--------|-------|
+| FARA Status | FARA Registrant |
+| Total Records | 3 |
+| Countries | NORWAY |
+| Foreign Principal Records | 2 |
+| Registrant Records | 1 |
+
+**Foreign principals:**
+- Norwegian Agency for Development Cooperation (Mekong Project) (NORWAY)
+- Norwegian Agency for Development Cooperation (Latin America Project) (NORWAY)
+
+- [Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N) | [Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Center%20on%20Budget%20and%20Policy%20Priorities) (Tier 1)
+<!-- auto:fara-foreign-agents end -->

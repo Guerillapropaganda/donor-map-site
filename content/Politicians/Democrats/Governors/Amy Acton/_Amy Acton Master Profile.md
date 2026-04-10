@@ -199,21 +199,22 @@ research-status:: active
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-08.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-09 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
+| Donors Who Also Lobby | 3 of 3 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
+- [[Ohio Federation of Teachers]] — $2.9M lobbying spend (Aerospace, Agriculture, Aviation/Airlines/Airports)
 - [[Ohio Democratic Party]] — $2.8M lobbying spend (Aerospace, Agriculture, Aviation/Airlines/Airports)
 - [[Ohio AFL-CIO]] — $2.8M lobbying spend (Aerospace, Agriculture, Aviation/Airlines/Airports)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

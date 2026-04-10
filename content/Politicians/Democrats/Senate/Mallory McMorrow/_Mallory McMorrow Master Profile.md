@@ -262,3 +262,17 @@ The Michigan primary cannot tell us which path McMorrow will follow. But it can 
 
 ## Committee Assignments (Congress.gov)
 
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[National Progressive Donor Networks]] — $3.1M lobbying spend (Advertising, Agriculture, Animals)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

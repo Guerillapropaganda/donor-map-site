@@ -44,7 +44,12 @@ Wicks's personal trajectory mimics the vault's institutional pipeline: antiwar g
 | 2024 | Healthcare PACs (CMA, CDA) donate to coalition supporting Wicks | $75K+ combined | AB 2200 blocked in Appropriations | Months before |
 | May 16, 2024 | AB 2200 reaches Appropriations Committee | 250+ organizations support | Wicks holds bill indefinitely, cites budget | Same day |
 
-### Voting Record — Yes Votes on Acceptable Legislation, Gatekeeping on Threats
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Buffy Wicks](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end --> — Yes Votes on Acceptable Legislation, Gatekeeping on Threats
 
 Wicks' voting record shows yes votes on legislation unions support that doesn't threaten capital (equal pay, some labor protections, environmental symbolism). But her actual power — Appropriations Committee chair gatekeeping — is where she neutralizes labor's significant demands. She will vote for a $15 minimum wage bill (labor victory) while killing single-payer in committee (labor's signature demand). This voting record creates the appearance of labor alignment while the gatekeeping function serves capital. Wicks' voting record is more progressive than Rendon's — she votes yes more often. But her procedural power is equally constraining: by killing AB 2200 in Appropriations, she protected 249 Assembly Democrats from voting on single-payer. Her yes votes on acceptable bills are cheap labor victories; her committee work is expensive capital victories.
 

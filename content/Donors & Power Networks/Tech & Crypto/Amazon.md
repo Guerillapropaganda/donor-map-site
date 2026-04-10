@@ -300,6 +300,33 @@ Amazon is the most complete case study in the vault of how a single corporation 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Agriculture** → Funds **Amy Klobuchar** → Sits on **Agriculture**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **Amy Klobuchar** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **Amy Klobuchar** → Sits on **Judiciary**
+- Lobbies on **Immigration** → Funds **Amy Klobuchar** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Immigration** → Funds **Amy Klobuchar** → Sits on **Judiciary**
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $42.1M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $42.1M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->
 | Metric | Value |

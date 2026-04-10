@@ -33,6 +33,23 @@ related: "[[Housing - Donors and Backers]] · [[Jason Smith]] · [[The Real Esta
 nonprofit-status: "501(c)(6)"
 total-revenue: 8265540
 total-assets: 6316098
+sec-filings: 2952
+sec-form-types:
+  - "10-K/A"
+  - "4"
+  - "424B3"
+  - "425"
+  - "6-K"
+  - "8-K"
+  - "8-K12G3"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-99"
+  - "EX-99.1"
+  - "LETTER"
+  - "PX14A6G"
 ---
 #donor #real-estate #lobbying #tax-policy #class-analysis #follow-the-money #dark-money #housing
 
@@ -229,3 +246,23 @@ Opportunity Zones were marketed as anti-poverty policy. The reality: $48 billion
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521128863) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 2,952 |
+| Form Types | 10-K/A, 4, 424B3, 425, 6-K, 8-K, 8-K12G3, ARS +7 more |
+| CIK | 1035443 |
+| Ticker | ARE |
+
+**Notable filings:**
+
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000210774226000010/0002107742-26-000010-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000181809026000009/0001818090-26-000009-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000191919826000009/0001919198-26-000009-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000177886126000009/0001778861-26-000009-index.htm)
+- 2026-04-02 — **4**: [FORM 4](https://www.sec.gov/Archives/edgar/data/1035443/000210780226000010/0002107802-26-000010-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Real%20Estate%20Roundtable%22) (Tier 1)
+<!-- auto:sec-edgar end -->

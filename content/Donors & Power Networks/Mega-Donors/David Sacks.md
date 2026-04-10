@@ -45,7 +45,7 @@ sec-form-types:
   - SC 13D/A
 total-political-spend: '$458,349'
 court-cases: 98
-last-enriched: '2026-04-08'
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - Court of Appeals for the First Circuit
   - 'District Court, C.D. California'
@@ -60,6 +60,10 @@ court-jurisdictions:
 donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[Narya Capital]] · [[Trump 2024 Campaign]]"
 related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Trump Crypto - The President as Personal Profiteer]]"
 stories: '[[The Billionaire Cabinet - Wealthiest Administration in History]]'
+federal-register-mentions: 1
+regulatory-agencies:
+  - "Health and Human Services Department"
+  - "National Institutes of Health"
 ---
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
 
@@ -520,3 +524,17 @@ By March 2026, $500M+ in personal portfolio wealth appreciation from policies Sa
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/746417564) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Notice | 1 |
+| Agencies | Health and Human Services Department, National Institutes of Health |
+
+**Recent regulatory activity:**
+- [Government-Owned Inventions; Availability for Licensing](https://www.federalregister.gov/documents/2002/02/07/02-2909/government-owned-inventions-availability-for-licensing) (2002-02-07) — Health and Human Services Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22David%20Sacks%22) (Tier 1)
+<!-- auto:federal-register end -->

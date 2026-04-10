@@ -16,6 +16,19 @@ issues:
 lobbying-spend: 1860000
 lobbying-filings: 51
 related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Immigration Enforcement - The Detention Economy]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Miriam Adelson]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[2028 Presidential Landscape]]"
+court-cases: 16
+last-enriched: "2026-04-10"
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Connecticut"
+  - "District Court, D. Delaware"
+  - "District Court, D. Maine"
+  - "District Court, D. Wyoming"
+  - "District Court, District of Columbia"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. North Carolina"
+  - "District Court, W.D. Texas"
+  - "United States Bankruptcy Court, D. Nevada"
 ---
 #donor #mellon #banking-dynasty #class-analysis #follow-the-money #immigration #border-wall #old-money #reclusive #MAGA #generational-wealth #project-2025 #military-pay #heritage
 
@@ -273,5 +286,24 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 - [[JD Vance]] — lobbying: $1.9M
 - [[Mitch McConnell]] — lobbying: $1.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 16 |
+| Courts | District Court, C.D. California, District Court, D. Connecticut, District Court, D. Delaware, District Court, D. Maine, District Court, D. Wyoming, District Court, District of Columbia, District Court, S.D. New York, District Court, W.D. North Carolina +5 more |
+| Case Types | (91 (Declaratory judgment)),(81 (Subordination of claim or interest)),(21 (Validity, priority or extent of lien or other interest in property)),(72 (Injunctive relief - other))(STILLEY, THOMAS) (Entered: 08/01/2014), 470 Racketeer/Corrupt Organization, 820 Copyright, 840 Trademark, 890 Other Statutory Actions |
+
+**Notable cases:**
+- Jackson v. Musk (2025) — District Court, W.D. Texas
+- The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
+- TIMOTHY MELLON (2022) — United States Bankruptcy Court, D. Nevada
+- Panam USA LLC v. Pan American World Airways Inc (2015) — District Court, C.D. California
+- C & K Market, Inc. (2013) — United States Bankruptcy Court, D. Oregon
+- Mellon v. The International Group for Historic Aircraft Recovery (2013) — District Court, D. Wyoming
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Timothy%20Mellon%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

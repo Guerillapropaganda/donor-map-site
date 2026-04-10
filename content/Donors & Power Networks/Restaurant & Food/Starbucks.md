@@ -2,7 +2,7 @@
 title: "Starbucks"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -52,6 +52,8 @@ ein: "911795425"
 nonprofit-status: "501(c)(3)"
 total-revenue: 2762084
 total-assets: 22542308
+lobbying-spend: 4663000
+lobbying-filings: 45
 ---
 #starbucks #coffee #anti-union #nlrb #progressive-brand #labor #howard-schultz
 
@@ -222,3 +224,22 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $4.7M |
+| Quarterly Filings | 45 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Beverage Industry, Civil Rights/Civil Liberties, Economics/Economic Development, Environment/Superfund, Food Industry (safety, labeling, etc.), Labor Issues/Antitrust/Workplace, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Veterans
+
+**Lobbying firms:** DOGWOOD STRATEGIES, HARBINGER STRATEGIES, LLC, K&L GATES, LLP, MEHLMAN CONSULTING, INC., MONUMENT ADVOCACY, STARBUCKS CORPORATION, SUMMIT PUBLIC AFFAIRS
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Labor, Dept of (DOL), SENATE, Treasury, Dept of, U.S. Trade Representative (USTR), Veterans Affairs, Dept of (VA) +1 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Starbucks) (Tier 1)
+<!-- auto:lda-lobbying end -->

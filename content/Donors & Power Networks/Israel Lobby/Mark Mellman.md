@@ -2,7 +2,7 @@
 title: "Mark Mellman"
 type: donor
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 sector: "Israel Lobby"
@@ -16,6 +16,12 @@ known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
   - Full build required: Mellman Group polling firm, American Association of Political Consultants tenure, DMFI founding documentation
   - No FEC contribution records compiled
+last-enriched: "2026-04-10"
+total-political-spend: "$11,550"
+ein: 236224727
+annual-revenue: "$534"
+net-assets: "$68K"
+tax-year: "2024"
 ---
 
 #mark-mellman #dmfi #democratic-pollster #israel-lobby #operative #primary-enforcement
@@ -65,3 +71,36 @@ Source: [[DMFI - Democratic Majority for Israel]] vault entry.
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Full build-out requires documentation of The Mellman Group's polling client base (which illuminates his political network), his strategic writings, and the transition to Romick in 2025.
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $11,550 |
+| Contributions | 10 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $5,800 | DEM |
+| EMILY'S LIST | $3,000 | — |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,250 | DEM |
+| MONTANA DEMOCRATIC PARTY | $1,000 | DEM |
+| PEACE POLITICAL ACTION COMMITTEE | $250 | — |
+| YOUTH NATIONAL ORGANIZATION FOR TOMORROW | $250 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mark%20Mellman) (Tier 1)
+<!-- auto:fec-donor end -->
+
+### Financial Overview (990 Filing — 2024)
+<!-- auto:propublica-990 start -->
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $534 |
+| Total Contributions | $0 |
+| Total Expenses | $5K |
+| Net Assets | $68K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 236224727](https://projects.propublica.org/nonprofits/organizations/236224727) (Tier 1)
+<!-- auto:propublica-990 end -->

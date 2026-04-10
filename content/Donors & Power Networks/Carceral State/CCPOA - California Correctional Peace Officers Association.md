@@ -12,7 +12,7 @@ politicians-funded:
 federal-contracts: "172495"
 ein: "941490964"
 nonprofit-status: "501(c)(5)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 total-revenue: 35012065
 total-assets: 50699577
 subawards-issued: 50
@@ -20,6 +20,8 @@ subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
 related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]] · [[UnitedHealth Group - Optum]]"
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 #donor #prison-guards #CCPOA #labor-union #carceral-state #class-analysis #reform-ceiling #california #follow-the-money #union-as-capital-instrument
 
@@ -229,7 +231,7 @@ Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1
 - [[Gavin Newsom]] — contracts: $172K
 - [[Chad Bianco]] — contracts: $172K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)
@@ -281,3 +283,21 @@ Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CCPOA%20-%20California%20Correctional%20Peace%20Officers%20Association) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

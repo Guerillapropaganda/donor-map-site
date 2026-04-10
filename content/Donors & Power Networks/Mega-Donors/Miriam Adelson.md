@@ -362,5 +362,5 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 - [[Elise Stefanik]] (Education & Labor)
 - [[Jared Kushner]]
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

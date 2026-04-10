@@ -22,7 +22,7 @@ annual-revenue: "$2K"
 net-assets: "$3.5M"
 tax-year: "2023"
 total-political-spend: "$150,500"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]] · [[National Education Association]] · [[US Chamber of Commerce]]"
 sec-filings: 1623
 sec-form-types:
@@ -38,6 +38,16 @@ sec-form-types:
   - "PRE 14A"
   - "S-1"
   - "S-1/A"
+court-cases: 79
+court-jurisdictions:
+  - "Court of Appeals for the Federal Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. Texas"
+  - "District Court, S.D. New York"
+  - "United States Bankruptcy Court, S.D. Texas"
 ---
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
 
@@ -274,7 +284,7 @@ The 2022 grant of $27.1 million to America First Legal — 61% of AFL's budget �
 
 - [[Donald Trump]] — lobbying: $3.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -353,3 +363,22 @@ The 2022 grant of $27.1 million to America First Legal — 61% of AFL's budget �
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bradley%20Foundation%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 79 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, D. Delaware, District Court, District of Columbia, District Court, N.D. Texas, District Court, S.D. New York, United States Bankruptcy Court, S.D. Texas |
+| Case Types | 190 Contract: Other, 2448 Civil Rights - Education, 320 Assault Libel & Slander, 440 Civil Rights: Other, 890 Other Statutory Actions |
+
+**Notable cases:**
+- United States v. Arnold (2025) — District Court, N.D. Texas
+- Rapaport v. Doe #1 (2025) — Court of Appeals for the Second Circuit
+- UNITED STATES INSTITUTE OF PEACE v. JACKSON (2025) — District Court, District of Columbia
+- Rapaport v. Epstein (2024) — District Court, S.D. New York
+- Qualcomm Incorporated v. ARM Holdings PLC (2024) — District Court, D. Delaware
+- ConvergeOne Holdings, Inc. (2024) — United States Bankruptcy Court, S.D. Texas
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bradley%20Foundation%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
