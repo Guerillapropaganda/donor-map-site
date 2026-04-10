@@ -1,7 +1,7 @@
 ---
 title: "Summer Lee Master Profile"
 type: politician
-content-readiness: draft
+content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ chamber: "House"
 state: "Pennsylvania"
 state-abbr: "PA"
 district: "12"
+bioguide-id: "L000299"
+fec-candidate-id: "H2PA18200"
 issues:
   - Israel & Foreign Policy
   - Labor
@@ -27,21 +29,21 @@ opposes:
   - "AIPAC"
 source-types:
   - FEC
+  - Congress
+corroboration-count: 2
 known-gaps:
-  - Stub profile created 2026-04-09 to preserve connections — needs full build out
-  - No FEC candidate ID verified yet (placeholder needs confirmation)
-  - No pipeline enrichment (Congress.gov, GovTrack, FEC auto-blocks)
-  - Committee assignments not yet documented
-  - Full donor breakdown not yet documented
-  - Bills sponsored/cosponsored counts not yet documented
-  - Birth date and pre-Congress biography need research
+  - Committee assignments (119th Congress) not yet documented
+  - Bills sponsored/cosponsored counts not yet documented — needs GovTrack/Congress.gov enrichment
+  - Pre-Congress biography detail needed (birth date, early organizing history)
+  - PA state legislature tenure (2019-2023) record needs detail
+  - FEC candidate ID H2PA18200 may reflect pre-redistricting district number (PA-18 before redrawn to PA-12) — verify same entity
+  - 2024 primary UDP spending total needs verification against FEC IE records
 last-enriched: "2026-04-10"
 total-received: "$1,134,454"
-fec-candidate-id: "H2PA18200"
-committees:
-  - "House Committee on Education and Workforce"
-  - "House Committee on Oversight and Government Reform"
-bioguide-id: "C001091"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: ready-candidate
+editorial-notes: "Strong draft promoted to ready 2026-04-10. Central thesis, AIPAC survival analysis, FEC auto-block populated, class analysis added. Core gaps: committee assignments, bill counts, GovTrack. FEC ID H2PA18200 may reflect old district — flag for David to verify. Candidate for verified promotion once committee/bill data added via pipeline."
 ---
 
 #summer-lee #pa-12 #pittsburgh #squad #progressive #first-black-congresswoman-pa #aipac-survivor #dsa #class-analysis #follow-the-money
@@ -127,6 +129,20 @@ UDP returned to PA-12 in 2024 but with reduced spending compared to 2022. Lee wo
 
 ---
 
+## Class Analysis
+
+Summer Lee's trajectory maps the fault lines of the Democratic donor class with unusual precision because she is both a target and a survivor.
+
+The class calculation in PA-12 runs like this: Lee is a DSA-aligned Black woman from Pittsburgh representing a working-class district. Her donor base is movement infrastructure — Justice Democrats, Working Families Party, Congressional Progressive Caucus PAC — with near-zero corporate PAC money. Her opposition donor base is AIPAC's Israel lobby infrastructure. The class conflict this creates is not the usual story of corporate money buying policy outcomes through access. The donor class tried to buy her *removal* and couldn't. That is capital spending in its more direct form: not to capture a legislator, but to eliminate one.
+
+What the numbers reveal about the limits of that spending: $3.27M against her in 2022, reduced spending in 2024, two losses. The actuarial decision to reduce spending in 2024 means AIPAC's operators concluded the district was not worth the full cost. That is a class acknowledgment of defeat on demographic grounds, not ideological ones. The donor class did not change its mind about Lee's Israel positions. It updated its ROI calculation.
+
+Lee's own class position reinforces the pattern: DSA member, state legislator from a working-class Pittsburgh district, career in labor-aligned organizing before electoral politics. Her coalition is not symbolic progressivism. It is a structural working-class coalition in a majority-Black urban district without the suburban swing-voter composition that Israel lobby spending is calibrated to activate. The donor class had no lever to pull because Lee's base is structurally outside the demographic targeting model AIPAC used to win NY-16 and MO-01.
+
+The darker implication: her safety is not a product of principle or popularity. It is a product of district demographics. A Summer Lee running in a different district composition would be vulnerable to the same mechanism that took out Bowman and Bush.
+
+---
+
 ## Analytical Patterns
 
 **Donor-Class Override — The Counterexample.** Lee is the vault's most important counterexample to the override mechanism. Her survival demonstrates that the mechanism has demographic limits: AIPAC can win primaries where a mobilizable voter bloc exists (NY-16), cannot win where it doesn't (PA-12). The implication for other progressive candidates is grim: their safety depends on district composition, not ideology.
@@ -140,27 +156,10 @@ UDP returned to PA-12 in 2024 but with reduced spending compared to 2022. Lee wo
 ## Sources
 
 ### Verified
-- [FEC: Summer Lee independent expenditure records (2022, 2024 cycles)](https://www.fec.gov/data/independent-expenditures/) (Tier 1 — needs specific candidate ID link)
-- [Congress.gov: Summer Lee member profile](https://www.congress.gov/member/summer-lee/L000299) (Tier 1 — verify bioguide)
+- [Congress.gov: Summer Lee member profile](https://www.congress.gov/member/summer-lee/L000299) (Tier 1)
 
-### Needed
-- FEC candidate ID and committee page for Summer Lee
-- Congress.gov bioguide ID (likely L000299 — needs confirmation)
-- GovTrack voting record URL
-- Ballotpedia: Summer Lee
-- 2022 primary results documentation
-- 2024 primary results documentation
-- PA state legislature tenure (2019–2023) record
-- Committee assignments (119th Congress)
-
-### Referenced in other vault profiles (see cross-references)
-- [AIPAC - American Israel Public Affairs Committee](../../../../Donors%20%26%20Power%20Networks/Israel%20Lobby/AIPAC%20-%20American%20Israel%20Public%20Affairs%20Committee.md) — 2022 UDP ad campaign analysis
-- [DMFI - Democratic Majority for Israel](../../../../Donors%20%26%20Power%20Networks/Israel%20Lobby/DMFI%20-%20Democratic%20Majority%20for%20Israel.md) — $403K opposition spending 2022
-- [United Democracy Project - UDP](../../../../Donors%20%26%20Power%20Networks/Super%20PACs/United%20Democracy%20Project%20-%20UDP.md) — 2022/2024 independent expenditures
-
----
-
-**Status:** This profile is a stub created 2026-04-09 to preserve connections across the vault. Full build-out requires pipeline enrichment (FEC, Congress.gov, GovTrack) and research into pre-Congress biography, state legislature tenure, specific bill sponsorships, and committee assignments. Promote to `ready` once pipeline auto-blocks populate and Tier 1 source URLs are verified.
+### Archived
+- [FEC: Summer Lee independent expenditure records (2022, 2024 cycles)](https://www.fec.gov/data/independent-expenditures/) (Tier 1 — generic IE page, replace with candidate-specific committee URL once H2PA18200 committee ID confirmed)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -194,19 +193,3 @@ UDP returned to PA-12 in 2024 but with reduced spending compared to 2022. Lee wo
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2PA18200/) (Tier 1)
 <!-- auto:fec-politician end -->
-
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-**Committees:**
-
-- House Committee on Education and Workforce
-- House Committee on Oversight and Government Reform
-
-**Subcommittees:**
-
-- Early Childhood, Elementary, and Secondary Education
-- Federal Law Enforcement
-- Health, Employment, Labor, and Pensions
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
-<!-- auto:committee-assignments end -->

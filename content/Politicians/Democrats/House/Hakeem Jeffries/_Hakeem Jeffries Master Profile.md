@@ -1,7 +1,7 @@
 ---
 title: "Hakeem Jeffries Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -54,6 +54,11 @@ opensanctions-datasets:
   - "ru_mfa_sanctions"
   - "wikidata"
   - "us_congress"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #hakeem-jeffries #house-minority-leader #new-york #brooklyn #real-estate #aipac #corporate-democrat #class-analysis
 
