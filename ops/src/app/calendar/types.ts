@@ -46,22 +46,46 @@ export function todayIso(): string {
 }
 
 /**
- * Assign every task to a specific day for rendering. The schedule doesn't
- * explicitly date each task — instead tasks are grouped by phase. We put each
- * task on the first day of its phase unless the task has a `scheduled` field.
+ * Assign every task to a specific day for rendering. Priority:
+ *   1. `completed_date` — done tasks land on the day they were completed
+ *   2. `scheduled` — explicit pin in sprint-schedule.md
+ *   3. Round-robin distribution across the phase's days, per owner, so tasks
+ *      without an explicit date spread out instead of piling onto phase.start.
  *
  * Returns a map: date → Task[] (with phase + owner tacked on).
  */
 export function tasksByDay(schedule: SprintSchedule): Record<string, (Task & { phase: string; owner: string })[]> {
   const map: Record<string, (Task & { phase: string; owner: string })[]> = {}
+
   for (const phase of schedule.phases) {
     const phaseTasks = schedule.phaseTasks[phase.id]
     if (!phaseTasks) continue
+
+    // Enumerate every day within this phase so we can spread tasks across them.
+    const phaseDays: string[] = []
+    const start = new Date(phase.start + "T00:00:00Z")
+    const end = new Date(phase.end + "T00:00:00Z")
+    const cur = new Date(start)
+    while (cur <= end) {
+      phaseDays.push(cur.toISOString().slice(0, 10))
+      cur.setUTCDate(cur.getUTCDate() + 1)
+    }
+    const phaseDayCount = phaseDays.length || 1
+
     for (const [owner, list] of Object.entries(phaseTasks) as [string, Task[] | undefined][]) {
       if (!list) continue
+      let pendingIdx = 0
       for (const task of list) {
         if (!task.id) continue
-        const date = task.scheduled ?? phase.start
+        let date: string
+        if (task.completed_date) {
+          date = task.completed_date
+        } else if (task.scheduled) {
+          date = task.scheduled
+        } else {
+          date = phaseDays[pendingIdx % phaseDayCount]
+          pendingIdx++
+        }
         if (!map[date]) map[date] = []
         map[date].push({ ...task, phase: phase.id, owner })
       }
