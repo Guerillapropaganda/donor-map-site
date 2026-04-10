@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 ---
 
 # Session State
@@ -11,6 +11,44 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-10 (profile AHA redesign, signal bar, contradiction card, 5 polish touches, site-wide heading fix)
+
+Done:
+- **Profile page AHA redesign** — 3 phases implemented:
+  - Phase 1: `ContradictionCard.tsx` — new server-rendered component. Split card above tabs showing passed/blocked legislation + top donors + yellow verdict bar. Reads `say-vs-pay` frontmatter. Registered in `index.ts` and `quartz.layout.ts`.
+  - Phase 2: `ProfileHeader.tsx` — added position line ("House Democrat from California"), thesis extraction (grabs Central Thesis paragraph, displays in serif italic), removed TIER/READY badges.
+  - Phase 3: `EvidencePanel.tsx` rewritten as Signal Bar — corruption headline ("THE SIGNAL" + gap-stat), money trail bar (colored segments by donor sector), party split bar (for donors), connection counts, "FUNDS BOTH SIDES" badge, type badge + context + date + HOW WE VERIFY link.
+- **5 AHA polish touches** — all in `ProfileHeader.tsx`:
+  1. Total Raised counter (red monospace next to badges: "$1.6B", "$534,492")
+  2. Both Sides badge (yellow, on donors funding both parties via politicians-funded lookup or fec-party-split)
+  3. Key stat pullout (big number: bills sponsored or politicians funded)
+  4. Source count dot (green 8+, yellow 3-7, red <3)
+  5. Top donors ticker (horizontal line: "TOP DONORS AIPAC · Goldman Sachs · PhRMA")
+- **Trump profile tabs fixed** — h3 sections promoted to h2 (12 headings). Tabs now work.
+- **229 profiles fixed site-wide** — `### → ##` heading promotion for 1,959 headings across 229 Master Profile files. All profiles now have proper tab support.
+- **Search overlay reskin** — `search.scss` rewritten. Dark blurred backdrop, yellow focus ring on input, yellow hover on results, no border-radius, Space Mono font.
+- **Build error fixed** — `demPct` variable used before initialization in EvidencePanel. Moved FEC party split parsing before Both Sides detection.
+- **GitHub Actions restored** — deploy workflow running successfully. Live site deploying.
+- **Removed renderSayVsPay** from ProfileHeader afterDOMLoaded (moved to server-side ContradictionCard).
+
+Known issues:
+- Only Nancy Pelosi has say-vs-pay data — ContradictionCard shows on 1 profile. Need Research Claude to add data across top profiles.
+- Mobile layout not yet polished for new Signal Bar, ContradictionCard, ProfileHeader elements.
+- Interactive pages (Power Rankings, Issue Explorer, etc) still have some faint contrast issues.
+
+Next session priorities:
+1. **Mobile polish** — test Signal Bar, ContradictionCard, ProfileHeader on 375px viewport. Fix responsive issues.
+2. **Say-vs-pay data system** — build template/guide for Research Claude to add contradiction data to top 20-50 profiles.
+3. **Interactive pages contrast** — audit Power Rankings, Issue Explorer, Who Funds Your Rep for faint text/borders.
+4. **Policy page interactive** — new page showing policy → donor money → blocked legislation pipeline. Needs planning session.
+5. **Turn off construction mode** — flip the flag when ready to launch new design.
+6. Continue A+ reviews.
+7. Fix congress pipeline (engine).
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-09 (marathon — brutalist design system, site-wide reskin, profile polish, auto-link script)
 
