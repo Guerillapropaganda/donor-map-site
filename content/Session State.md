@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 ---
 
 # Session State
@@ -12,43 +12,65 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-10 (Pipeline quality fixes + red flag cleanup — redirect contamination, A000383 bug, GovTrack stale cache, Cori Bush demotion)
+
+Done (Pipeline Quality Fixes in `donor-map-engine`):
+- **`scripts/lib/shared.cjs`**: Added `isRedirectProfile()` helper + `loadProfiles()` now skips redirect files from all pipelines (detects `#redirect` tag, `(Redirect)` title, `redirect: true` frontmatter, "this file is a redirect" body text). Fixes pipelines enriching redirect files with fabricated data.
+- **`scripts/doj-press-pipeline.cjs`**: Sanity cap rejects results with >10K total (API returning index size). Validates 60%+ of press releases actually mention the search name. Fixes QVT Financial getting 264,349 fake DOJ mentions.
+- **`scripts/sam-pipeline.cjs`**: Validates `awardeeLegalBusinessName` matches search on first 5 samples (60% threshold). Fixes QVT Financial getting 7,670 fake federal contracts.
+- **`scripts/nhtsa-recalls-pipeline.cjs`**: Filters corporation pool to auto-adjacent only (name contains auto/motor/vehicle, NAICS 3361-3363, known brand names). Prevents hedge funds/defense contractors/tech companies from getting vehicle recall data.
+- **`scripts/congress-pipeline.cjs`**: (1) Skip non-congressional politicians (governors, candidates, cabinet, SCOTUS) — accept former members only with explicit bioguide-id. (2) Name search now REQUIRES state match AND last name verification. No state = refuse to guess instead of grabbing `data.members[0]`. Prevents the A000383 fuzzy-match bug.
+- **`scripts/committee-pipeline.cjs`**: Same chamber filter applied.
+- **`scripts/govtrack-pipeline.cjs`**: Same chamber filter + cache invalidation (if cached result has votes>0 but bills==0 AND cosponsored==0, refetch) + frontmatter re-enrichment for profiles with `bills-sponsored: 0` (breaks the enrichedKey lock).
+- Engine commits: `d1ceb91` (redirect/doj/sam/nhtsa fixes), `bc24819` (congress/committee/govtrack fixes).
+
+Done (Vault Cleanup in `donor-map-site`):
+- **`scripts/clean-redirect-contamination.cjs`**: Built cleanup script that strips auto-blocks and enrichment frontmatter from redirect files. Cleaned 6 redirect files: Jeff Yass (bogus LDA lobbying), Blackstone (DOJ + SAM), Google (DOJ), Meta (NHTSA — Meta doesn't make cars!), Raytheon (NHTSA + USASpending — defense contractor, not automotive), Meta Facebook Political Operation (DOJ + NHTSA).
+- **QVT Financial manually cleaned**: Removed auto:doj-press (264K fake mentions), auto:nhtsa-recalls (hedge fund, not auto), auto:sam-contracts (7670 fake contracts). Kept legitimate auto:gleif-lei + auto:sec-edgar.
+- **`scripts/clean-a000383-contamination.cjs`**: Built cleanup script removing `auto:congress-legislation`, `auto:committee-assignments`, `auto:voting-record` blocks containing the bogus A000383 bioguide ID. **Cleaned 95 profiles, removed 129 contaminated blocks.** Affected: Vivek Ramaswamy, Kash Patel, Marco Rubio, Michael Waltz, Pam Bondi, Rex Tillerson, Russell Vought, Scott Bessent (Trump cabinet), Amy Coney Barrett, Neil Gorsuch (SCOTUS), Kathy Hochul, JB Pritzker, Amy Acton, Josh Green, Janet Mills (governors), Cori Bush, Jamaal Bowman (former members).
+- **3 orphan A000383 links struck through**: Gary Peters, John Kennedy, Shelley Moore Capito (real sitting senators whose auto-blocks were clean but source links had the wrong bioguide URL).
+- Vault commit: `9a64489f` (95 profiles cleaned).
+
+Done (Investigation + Demotion):
+- **Vivek Ramaswamy "critical flag" investigated**: He was never in Congress but pipeline wrote 3 bogus congress auto-blocks. All stripped.
+- **GovTrack 0/0 bills investigated**: Tested GovTrack API directly — Cori Bush sponsor=456829 returns 38 sponsored + 756 cosponsored. The profile body showed 0/0 from a stale cache. Pipeline fix added cache invalidation for impossible states.
+- **Cori Bush demoted** `ready` → `draft` (commit `d7ac0262`): (1) Previous A000383 congress blocks contained wrong member. (2) Body auto:govtrack said 0/0 but frontmatter had 39/756 — stripped for fresh run. (3) Body falsely marked "(VERIFIED)" on stale data. Added internal-note documenting demotion reason. Previous session's "A+ promoted" claim was inaccurate — she was actually at `ready` (B), not `verified` (A+).
+
+Known issues:
+- GitHub Actions still disabled (per previous sessions) — cannot trigger pipeline runs to refresh the cleaned profiles. Blocks the "12 new stubs" enrichment task.
+- GovTrack cache invalidation fix deployed but won't take effect until next pipeline run.
+- Breadcrumbs component still not wired to pages (from previous session).
+- ToastProvider still not migrated into individual pages (from previous session).
+
+Next session priorities:
+1. **Trigger pipeline runs** when GitHub Actions re-enabled — will refresh all 95 cleaned profiles + stubs with correct congress/committee/govtrack data using the new chamber-filtered pipelines.
+2. **Wire breadcrumbs** to all Ops pages + migrate pages to use global useToast()
+3. **Tune scanner** — reduce LOW noise from wikilink-mention strategy (8K+ results)
+4. **Build contradiction markers for website** — split-color graph lines, asterisks on profile widgets
+5. **Add relationship discovery rules to Ops Rules tab**
+6. **Test all profile types after design reskin** — politician, donor, corporation, think tank
+7. **Turn off construction mode** when GitHub Actions re-enabled
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-09 (Ops app professional polish + suggestions system + contradiction detection)
 
 Done (Suggestions System):
-- **Suggestions API** (`ops/src/app/api/suggestions/route.ts`) — GET with server-side filtering/pagination/search + POST handling 8 action types (approve, reject, defer, investigate, uninvestigate, undo, note)
-- **Approve writes to vault** via gray-matter. Empty sourcePath (FEC-IE PACs) writes to target profile instead.
-- **Undo reverses vault writes**. Per-card notepad. Priority research flag (manual=urgent, approve=normal auto-queue).
-- **Pending/All/History toggle**, history stats, search box, compact mode, bulk select + batch actions.
-- **New Profiles: Flag for Research** on unnamed entities.
-- **Partisan flow fix** — opposes now shows attacker's alignment, not target's.
-- **Contradiction detection** (`scripts/relationship-discovery.cjs`) — same entity funds AND opposes same candidate. 4 cards, 2 pairs (NRA + National Right to Life hedging on Bush).
-- **Contradiction UI** — yellow star badge + "BOTH SIDES" banner with amounts/ratio.
-- **Vault Rules Section 3** — Contradiction Detection spec with role assignments.
+- Built full suggestions API from scratch (`ops/src/app/api/suggestions/route.ts`) — GET with filtering/pagination/search + POST handling 8 action types. Approve writes wikilinks to vault (handles empty sourcePath by writing to target). Undo reverses vault writes. Per-card notepad. Priority research flag (manual=urgent, approve=normal auto-queue). Pending/All/History toggle, history stats, search box, compact mode, bulk select + batch actions. New Profiles: Flag for Research on unnamed entities.
+- Partisan flow fix — opposes now shows attacker's alignment, not target's.
+- **Contradiction detection**: scanner flags same entity funding AND opposing same candidate (4 cards, 2 pairs — NRA + National Right to Life hedging on Bush). Yellow star badge + "BOTH SIDES" banner with amounts/ratio. Vault Rules Section 3 updated with full spec.
 
 Done (Ops App Polish):
-- **ToastProvider** (`ops/src/components/ToastProvider.tsx`) — global toast system with success/error/warning/info types, auto-dismiss, stack up to 3, slide-in animation. Wrapped in `ClientProviders.tsx`.
-- **Sidebar badges** (`ops/src/components/Sidebar.tsx`) — live count badges polling `/api/status` every 60s. Red on Alerts (critical count), amber on Notes (open count), green on Relationships (high pending suggestions).
-- **GET /api/status** (`ops/src/app/api/status/route.ts`) — lightweight endpoint returning alert/notes/suggestions/pipeline counts for sidebar badges.
-- **Dashboard overhaul** (`ops/src/app/page.tsx`) — Quick Actions row (Run Scan, Check URLs, Enrich Profiles, View Alerts), Vault Health circular gauge with verified/draft/raw breakdown, unified Activity Feed with actor colors and type filters.
-- **GET /api/activity** (`ops/src/app/api/activity/route.ts`) — aggregates git commits + suggestion actions + URL triages into unified feed with actor detection (David/Code Claude/Pipeline).
-- **Alerts upgrade** (`ops/src/app/alerts/page.tsx`) — sorted by severity then affected count, resolve/unresolve per alert (localStorage), show-resolved toggle, auto-refresh toggle (5min), full affected profiles list (no truncation).
-- **Editor upgrade** (`ops/src/app/editor/page.tsx`) — inline Add Field form replaces prompt(), unsaved changes beforeunload warning, duplicate field detection.
-- **Pipelines grid** (`ops/src/app/pipelines/page.tsx`) — 8 pipeline cards (FEC, Congress, GovTrack, LobbyView, Committee, Relationships, Federal Register, USASpending) with emoji icons, descriptions, hover-to-reveal Run buttons.
-- **Breadcrumbs** (`ops/src/components/Breadcrumbs.tsx`) — reusable component built, not yet wired to individual pages.
-
-Known issues:
-- Breadcrumbs component built but not wired to pages yet.
-- ToastProvider built but individual pages still use inline showToast (migration pending).
-- Scanner LOW noise still high (8,000+ wikilink mentions).
-- Only 2 contradiction pairs found (both Bush). More will surface as vault grows.
-
-Next session priorities:
-1. **Wire breadcrumbs** to all Ops pages + migrate pages to use global useToast()
-2. **Tune scanner** — reduce LOW noise from wikilink-mention strategy (8K+ results)
-3. **Build contradiction markers for website** — split-color graph lines, asterisk on profile widgets
-4. **Add relationship discovery rules to Ops Rules tab**
-5. **Test all profile types after design reskin** — politician, donor, corporation, think tank
-6. **Turn off construction mode** when GitHub Actions re-enabled
+- ToastProvider (`ops/src/components/ToastProvider.tsx`) + wrapped in ClientProviders
+- Sidebar badges (`ops/src/components/Sidebar.tsx`) + GET /api/status endpoint
+- Dashboard overhaul (`ops/src/app/page.tsx`) — Quick Actions, Vault Health gauge, unified Activity Feed
+- GET /api/activity aggregating git + suggestions + URLs
+- Alerts upgrade (`ops/src/app/alerts/page.tsx`) — sort, resolve/unresolve, auto-refresh
+- Editor upgrade — inline Add Field form replaces prompt(), beforeunload warning
+- Pipelines grid — 8 pipeline cards with hover-to-reveal Run buttons
+- Breadcrumbs component built (not yet wired to pages)
 
 ---
 
