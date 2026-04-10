@@ -87,6 +87,55 @@ Next session priorities:
 
 ## Previous Session
 Claude: Code
+Date: 2026-04-09 (marathon — brutalist design system, site-wide reskin, profile polish, auto-link script)
+
+Done:
+- **Brutalist prototypes** — v2 (dark) and v3 (light/cream, approved). Prototype server at localhost:8096.
+- **Design System doc** — `content/Design System.md`. Full rules: hybrid light/dark, colors, typography, components, animations, decisions log.
+- **Construction page live** — brutalist cream bg, yellow highlight "Follow the Money.", 655,172x teaser. Deployed to thedonormap.org.
+- **Landing page v3 ported to Quartz** — full rewrite of `LandingPage.tsx`. 6 sections: hero, receipt, connection board, split cards, state lookup, explore grid. Client JS for ticker, scroll reveals, connection board animation, state lookup.
+- **ROOT FIX: quartz.config.ts theme colors** — was the source of ALL color inconsistencies. CSS variables (--dark, --light, etc) were inverted from old dark theme. Now correct: light=#f5f0eb, dark=#0a0a0a, secondary=#e63946, tertiary=#fbbf24.
+- **Site-wide CSS reskin** — custom.scss fully swapped. 288+ lines. All dark colors → light equivalents.
+- **29 component files reskinned** — bulk color swap across all TSX components. 650 lines.
+- **Profile page yellow accents** — H2 yellow left borders, article title yellow underline, active tab yellow indicator, type badge yellow bg, section card yellow borders, callout borders, wikilinks get yellow underline.
+- **Evidence panel simplified** — shows only: yellow POLITICIAN badge + context + UPDATED date + HOW WE VERIFY link.
+- **Profile header simplified** — removed TIER 1 and READY badges. Party dot + type only.
+- **Both sidebars light** — header also light. Dark reserved for graph/data viz only.
+- **Graph widget** — dark bg, legend hidden in compact view, filter buttons colored by category (green donors, blue politicians, purple media, yellow think tanks, grey K Street, red opposition).
+- **Footer restyled** — cream bg, black top border, yellow column labels.
+- **Bold text yellow underline** — all `article strong` gets yellow highlight. Fixed mobile override that was forcing near-white.
+- **Internal wikilinks yellow underline** — ALL `a.internal` links get yellow underline + hover grows highlight. Consistent across linked and bold-linked names.
+- **Auto-link script** — `scripts/link-unlinked-names.cjs`. Found 16,261 unlinked names, fixed 1,330 across 238 files. Names that match profiles now properly wikilinked.
+- **4 Claude Code skills** — /deploy, /session-save, /design-audit, /preflight. In both .claude/commands/ and ~/.claude/skills/.
+- **Removed fade-in-on-scroll animation** — felt like loading, not design.
+- **GitHub Actions still disabled** — David contacted support, waiting.
+
+Known issues:
+- Trump profile missing tabs (ProfileTabs not triggering — likely a heading structure issue)
+- Some profiles may still have unlinked names the script missed (conservative matching)
+- Network graph node colors could be more readable on dark bg
+- Profile page structure is still "database entry" — needs AHA moment redesign
+
+Profile page redesign direction (agreed with David):
+- **Beat 1: The Signal** — corruption signal bar at top (took $X from Y, voted against Z), money trail bar (colored sectors), connection count
+- **Beat 2: The Profile** — name + one-line class position + central thesis in serif italic
+- **Beat 3: The Contradiction** — split-card from homepage style (what they say vs who pays), front and center
+- **Beat 4: The Money Map** — visual donor blocks sized by amount, colored by sector
+- **Beat 5: The Evidence** — tabs for deep readers (voting, committees, sources). Below the fold. Casual visitors already got the story from Beats 1-3.
+- Key principle: AHA moments on the profile landing, tabs separate dense data so it doesn't cluster. Homepage energy but for individual profiles.
+
+Next session priorities:
+1. **Profile page AHA redesign** — implement Beats 1-3 (signal bar, profile header, contradiction card). This is the big one.
+2. **Fix Trump profile tabs** — investigate why ProfileTabs don't trigger on that profile
+3. **Money trail bar component** — visual sector breakdown under profile name
+4. **Test on live site** when GitHub Actions re-enabled
+5. Continue A+ reviews
+6. Fix congress pipeline (engine)
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-09 (design overhaul — brutalist prototyping, Design System doc, construction page live)
 
 Done:
