@@ -46,7 +46,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[DMFI - Demo
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Gregory Meeks. Democrat, New York's 5th Congressional District (Southeast Queens — Jamaica, Laurelton, Rosedale, Cambria Heights, Far Rockaway, JFK Airport area). First elected 1998. Ranking Member, House Foreign Affairs Committee — one of only four House members with effective veto authority over U.S. foreign military sales. Senior Member, House Financial Services Committee. Former Dodd-Frank conferee. Member of the New Democrat Coalition (pro-business caucus — only five Black lawmakers in the coalition). Named one of the "Most Corrupt Members of Congress" by Citizens for Responsibility and Ethics in Washington (CREW) in 2011. Multiple ethics investigations involving undisclosed gifts, below-market home purchases, and foreign government-funded travel.
 
@@ -59,20 +59,20 @@ A congressman representing one of New York's most working-class Black districts 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Gregory Meeks is the donor class's man on foreign affairs. His committee position gives him veto authority over arms sales — and his donors know it. [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and pro-Israel groups have given him $523,000+ career; Wall Street firms fund him through Financial Services; and private equity gets direct policy defense in exchange for pop-up PAC money timed to committee hearings. His ethics record — undisclosed $40,000 gifts, below-market home purchases from earmark recipients, foreign government-funded travel — reveals a politician for whom the lines between constituent service, donor service, and personal enrichment have collapsed. The 1.16% small-donor figure tells the whole story: his political operation has nothing to do with the people of Southeast Queens.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Meeks represents a **majority-Black, working-class Queens district** — Jamaica, Far Rockaway, Cambria Heights — communities with deep ties to the Caribbean diaspora and significant Palestinian American populations. His donors are **[[AIPAC - American Israel Public Affairs Committee|AIPAC]] ($523,000+), Wall Street firms, and private equity executives.** He voted to censure Rep. Rashida Tlaib and voted that "from the river to the sea" is antisemitic — while representing constituents who overwhelmingly support Palestinian rights. He publicly expresses "reservations" about Israeli arms sales, then approves every one. He co-authored Dodd-Frank provisions but defends private equity against congressional scrutiny. His 75% PAC funding rate and 1.16% small-donor rate represent the most extreme donor-constituency disconnect of any ranking committee member in the vault.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising Overview:
 - Meeks Victory Fund 2024: $1,259,843
@@ -133,7 +133,7 @@ Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -148,7 +148,7 @@ Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Two-Audience Problem (Israel/Palestine):** Meeks represents a district with significant Palestinian American communities and a Black constituency that overwhelmingly supports Palestinian rights. His donors are [[AIPAC - American Israel Public Affairs Committee|AIPAC]] ($523,000+). He publicly pledges to "fight for Palestinian civilians," expresses "reservations" about arms sales, and criticizes Trump's emergency arms declarations — but has never voted to block an actual arms transfer to Israel. He voted to censure Tlaib and to declare "from the river to the sea" antisemitic. The rhetorical resistance and the policy compliance serve different audiences.
 
@@ -160,7 +160,7 @@ Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Process Objection:** Meeks consistently frames opposition to arms sales as process concerns — "the President shouldn't bypass congressional review" — rather than substantive opposition. This allows him to appear critical of arms policy without ever blocking a sale. The objection is to the process, never the outcome.
 
@@ -170,7 +170,7 @@ Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Gregory Meeks campaign finance summary](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
 - [FEC: Gregory Meeks candidate filings](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)

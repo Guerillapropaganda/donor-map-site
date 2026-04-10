@@ -40,26 +40,26 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Alexandria Ocasio-Cortez. Born October 13, 1989, Bronx, New York. Democrat. U.S. Representative for New York's 14th district (2019–present). Member of the Democratic Socialists of America. Graduated cum laude from Boston University in 2011, double major in International Relations and Economics. Interned for Ted Kennedy's immigration casework office during college. Studied abroad in Niger through BU's Niamey International Development program — a USAID-funded initiative that brought ~20 students per semester at its peak. The program was briefly suspended in spring 2010 during the Nigerien coup and resumed fall 2010. [Daily Free Press (BU student newspaper), January 2023](URL NEEDED) (Tier 2). After graduation, returned to the Bronx. Launched Brook Avenue Press, a children's book publishing startup, through the Sunshine Bronx Business Incubator — a city-subsidized co-working space in Hunts Point run by Israeli-American entrepreneurs Joe Raby and Cheni Yerushalmi. Also worked as Lead Educational Strategist at GAGEis, Inc. (Yerushalmi's professional development firm housed in the same incubator). Raby later relocated to Israel and founded Maverick Ventures Israel. When the Times of Israel investigated the connection in October 2020, AOC spokesperson Lauren Hitt said the names "are not ringing a bell with us over here." Raby responded: "Never met her. She was a tenant. That's all." Brook Avenue Press was dissolved by New York State in October 2016 for inactivity; Fox News reported the company owed $1,870 in state taxes. [Times of Israel, October 2020](URL NEEDED) (Tier 2). Bartender and community organizer before entering politics. Defeated 10-term incumbent Joe Crowley in the 2018 primary — one of the largest upsets in modern congressional history. Youngest woman ever elected to Congress at time of election (age 29). No corporate PAC money accepted — ever. 2024 fundraising: raised $9.4 million for her own race, plus an additional $15M in H1 2025 alone with 736,000 individual contributions at ~$20 average. Net worth: modest (negative to low-positive, consistent with no personal wealth before entering politics).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > AOC represents the donor class's nightmare AND its containment strategy. Her small-dollar funding model proves that politicians don't need corporate money — a demonstration effect that terrifies every institution that depends on the funding chokehold. She has raised tens of millions from small donors alone, built a national political infrastructure, and demonstrated that progressive policy (Medicare for All, Green New Deal, free public college) is viable without Wall Street. The donor class response: containment. The Democratic establishment — funded by the same Wall Street and real estate interests her platform would directly threaten — has successfully channeled her energy into institutional loyalty through committee assignments, coalition politics, and the machinery of party membership. She is now a party player who criticizes the party from within rather than an insurgent threatening to transform it. The question the vault must hold: is she transforming the institution from within, or is the institution absorbing her?
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > AOC is the most visible progressive in Congress and operates within a party structure specifically designed to neutralize progressive economic policy. She rejects corporate PAC money (the funding lever) but accepts committee assignments (the institutional lever). She calls for Medicare for All but votes for lesser legislation that forecloses it. She endorsed Biden in 2020 after endorsing Sanders. She has remained in the Democratic Party despite its systematic funding of primary challengers against progressive members and its continued protection of the carried interest loophole, pharmaceutical pricing, and fossil fuel subsidies. The explanation that defenders offer — "she's playing the long game" — is unfalsifiable until it either proves true or she ages into the institution entirely. The explanation critics offer — "she's been absorbed" — may be premature but is structurally predictable. Every insurgent faces the same pressure: the institution offers rewards (committee power, media access, coalition influence) and threatens costs (primary challenges, DCCC abandonment) that gradually shift behavior toward institutional loyalty.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Career total raised: approximately $73.9 million (campaign committee only, 2018–2026). In H1 2025 alone: $15M from 736,000 contributions averaging $20. Q1 2025 haul of $9.6M doubled her previous best quarter. As of December 31, 2025: $13.4M cash on hand. Only four "double-max" donors ($6,600 primary + general) across her entire career. PAC money never exceeds 0.5% of total. [FEC: Ocasio-Cortez Candidate Overview](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1), [Politico Q1 2025](https://www.politico.com/news/2025/04/15/ocasio-cortez-raised-9-6-million-in-three-months-smashing-her-own-record-00291694) (Tier 2)
@@ -116,7 +116,7 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: AOC is the vault's second control variable (with Sanders). Her funding predicts her votes — just not through capture. The donor is different; the mechanism is the same.*
 
@@ -144,7 +144,7 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 > **$0 fossil fuel → Green New Deal.** $0 AIPAC → ceasefire votes. $0 pharma → M4A co-sponsorship. $0 crypto → anti-deregulation votes. The correlation works in reverse and is complete across every sector. The donor data predicts the vote — the donor is just different.
 
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The lived experience anchor:** AOC regularly deploys her bartender-to-Congress story as class credentials. This is authentic in origin but has become a rhetorical device that insulates her from elite criticism while her institutional position evolves.
 2. **The viral moment:** More than any member of Congress, AOC uses congressional hearings as content-generation events. The Zuckerberg questioning, the Met Gala "Tax the Rich" dress, the viral Instagram cooking live-streams. The strategy builds the small-dollar fundraising base and national profile simultaneously.
@@ -153,7 +153,7 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: Alexandria Ocasio-Cortez campaign finance filings](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
 - [FEC Candidate: Alexandria Ocasio-Cortez donor profile](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
@@ -240,7 +240,7 @@ Sources: [FEC: Ocasio-Cortez](https://www.fec.gov/data/candidate/H8NY15148/) (Ti
 content-readiness:: ready
  
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

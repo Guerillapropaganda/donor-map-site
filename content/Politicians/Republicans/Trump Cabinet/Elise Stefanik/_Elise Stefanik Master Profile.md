@@ -35,7 +35,7 @@ SORT file.name ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Elise Stefanik. U.S. Representative for New York's 21st District (2015-present), House Republican Conference Chair (third-ranking Republican), and the politician whose career arc most clearly illustrates the financial rewards of ideological transformation in the Trump-era GOP.
 
@@ -45,7 +45,7 @@ Her transformation began during Trump's first impeachment (2019), when she becam
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Elise Stefanik is the Republican Party's ideological transformation made flesh — and the donor-class reward system that drives it made visible. Her career arc from Harvard-educated moderate to "ultra-MAGA" Conference Chair demonstrates that ideological conviction is irrelevant in the Trump-era GOP. What matters is loyalty to Trump and the willingness to perform that loyalty on camera. The financial data proves the thesis: her campaign donations quadrupled from $2.8 million (2018) to $13.3 million (2020) after her impeachment defense performance, reaching $15.3 million by 2024. Loyalty is the product; money is the payment.
 
@@ -53,7 +53,7 @@ The secondary thesis: Stefanik's post-transformation positioning on antisemitism
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Stefanik represented a moderate upstate New York district while becoming one of the most aggressive MAGA performers in Congress. Her district — the Adirondacks and North Country — has a moderate, rural character that initially matched her centrist positioning. Her MAGA transformation served her national ambitions at the cost of her district connection: 88% of her campaign donations now come from outside New York.
 
@@ -62,7 +62,7 @@ Stefanik represented a moderate upstate New York district while becoming one of 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### AIPAC / Pro-Israel ($980K+)
 Stefanik's largest identified donor bloc. AIPAC-connected individuals contributed $204,000 in the 2023-2024 cycle alone, with cumulative pro-Israel contributions reaching approximately $980,000. The December 2023 university hearings were the inflection point — Stefanik's aggressive questioning of university presidents about antisemitism positioned her as AIPAC's most valuable Republican performer.
@@ -119,7 +119,7 @@ The nomination cycle revealed Stefanik's structural vulnerability: her value to 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Impeachment Defender**: Stefanik's breakthrough was performing outrage on behalf of Trump during impeachment hearings. The technique: aggressive, camera-ready questioning designed for Fox News clips rather than legislative substance. This became her template for all subsequent hearing performances.
 
@@ -131,7 +131,7 @@ The nomination cycle revealed Stefanik's structural vulnerability: her value to 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Elise Stefanik donor profile](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
 - [OpenSecrets: Trump administration profile — Elise Stefanik](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/) (Tier 1)
@@ -186,7 +186,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 

@@ -49,7 +49,7 @@ donors: Medical Device Industry · St. Jude Medical · Abbott Laboratories · Ag
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Angie Craig Master Profile|Angie Craig]] is the U.S. Representative for Minnesota's 2nd Congressional District, serving since January 2019. Born February 14, 1972, in West Helena, Arkansas. B.A. from the University of Memphis. Moved to Minnesota in 2005 for a position at St. Jude Medical, the global medical device company headquartered in suburban St. Paul. Rose to vice president of communications at St. Jude, also serving as a director of the company's political action committee. Remained with St. Jude until its 2017 acquisition by Abbott Laboratories. Lost her first Congressional race in 2016 by fewer than 7,000 votes. Won in 2018, defeating one-term Republican Jason Lewis. Reelected 2020, 2022 (51–46%), and 2024 in a consistently competitive swing district. First openly LGBTQ+ person elected to Congress from Minnesota. In December 2024, became the first openly LGBTQ+ person and first woman to serve as Ranking Member of the House Agriculture Committee. Announced April 29, 2025, that she is running for the U.S. Senate in 2026 to succeed retiring Senator Tina Smith.
 
@@ -59,7 +59,7 @@ donors: Medical Device Industry · St. Jude Medical · Abbott Laboratories · Ag
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Craig is the medical device industry's graduate in Congress — a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to the top Democratic position on the House Agriculture Committee. St. Jude employees and PAC gave her $125,000 in her first campaign — without Craig's candidacy, the company's political giving favored Republicans. She was the top recipient from the Medical Devices & Supplies industry in the 2021–2022 cycle. Her insulin cap legislation ($35/month copay) is her signature achievement and progressive credential — a genuine reform that passed the House and became law for Medicare recipients. But the insulin cap targeted pharmaceutical companies (insulin manufacturers), not the medical device industry she came from. Craig's medical device donors never faced equivalent legislative threat. The Agriculture Committee Ranking Member position now adds a second donor pipeline — agribusiness — as she positions for the 2026 Minnesota Senate race.
 
@@ -68,14 +68,14 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Craig's progressive brand is built on taking on "Big Pharma" — the insulin cap is her signature achievement, and she frames it as standing up to corporate greed. The achievement is real: the Affordable Insulin Now Act passed the House in 2022, and insulin copays are now capped at $35/month for Medicare recipients. But Craig came from the medical device industry, not pharmaceuticals — she was a vice president at St. Jude Medical and directed its PAC. The insulin cap targeted pharmaceutical manufacturers (Eli Lilly, Novo Nordisk, Sanofi). It did not target the medical device industry that launched her career, funded her first campaign ($125,000 from St. Jude), and made her the top Congressional recipient of medical device donations. The "took on Big Pharma" narrative is accurate but incomplete: she took on a different part of the health care industry than the one that funds her. The medical device donors got a progressive brand built on attacking their competitors.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -88,7 +88,7 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -106,7 +106,7 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The insulin cap is the genuine win — $35/month copay for Medicare recipients, real legislation that became law. The structural limit: the reform targeted pharmaceutical manufacturers while leaving the medical device industry untouched. Craig's progressive health care credential was built on attacking a different part of the health care industry than the one that funds her.
 
@@ -116,7 +116,7 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **Took on Big Pharma:** The insulin cap is her signature line — repeated in every campaign context, every health care debate. The framing positions Craig as an anti-corporate crusader. The distinction between pharmaceutical companies (targeted) and medical device companies (donor base) disappears in the rhetoric.
 
@@ -130,7 +130,7 @@ Craig is the medical device industry's graduate in Congress — a former St. Jud
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Angie Craig Campaign Finance Summary](https://www.fec.gov/data/candidate/S6MN00499/) (Tier 1)
 - [FEC: Angie Craig for Congress](https://www.fec.gov/data/committee/C00596015/) (Tier 1)

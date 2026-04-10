@@ -46,26 +46,26 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 52-48). The fastest Supreme Court confirmation in modern history — 30 days from nomination to confirmation, eight days before the 2020 election. The Judicial Crisis Network (now Concord Fund) spent $22 million+ on her confirmation, funded through the Rule of Law Trust ($21.5 million conduit in a single year). [[Leonard Leo|Leonard Leo]] architected all three Trump SCOTUS appointments — Gorsuch, Kavanaugh, Barrett — and Barrett was the capstone. McConnell blocked Merrick Garland for 293 days in 2016 (claiming election-year norms), then reversed the precedent to confirm Barrett in 30 days during an active election — 31 Republican senators broke their prior positions. Pre-SCOTUS: Notre Dame law professor (2002-2017), Seventh Circuit (2017-2020, confirmed on party-line 55-43 vote). Member of People of Praise — a charismatic Christian community where women were historically called "handmaids." Key rulings: Dobbs v. Jackson concurrence (overturning Roe v. Wade), New York State Rifle v. Bruen (expanding gun rights), Students for Fair Admissions (ending affirmative action), West Virginia v. EPA (gutting regulatory authority). The 6-3 supermajority Leo spent two decades constructing was completed with Barrett's confirmation — and every ruling since has delivered for the donor class that funded it.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Amy Coney Barrett's confirmation is the culmination of a 30-year project to capture the Supreme Court through dark money. [[Leonard Leo|Leonard Leo]] built the Federalist Society pipeline that selected every conservative justice since Roberts. The $22 million JCN campaign — funded through the Rule of Law Trust, a conduit that received $21.5 million in a single year — purchased the fastest confirmation in modern history. McConnell's reversal of the Garland precedent (293 days blocked vs. 30 days confirmed) revealed the institutional capture: norms exist only when they serve the donor class. Barrett's rulings deliver the returns: Dobbs eliminated reproductive rights (serving the religious right donor network), Bruen expanded gun rights (serving the firearms industry), Students for Fair Admissions ended affirmative action (serving the conservative legal infrastructure), West Virginia v. EPA gutted regulatory authority (serving the fossil fuel donors who fund Leo's network). The $22 million investment purchased the decisive vote on a supermajority worth billions to the industries that funded it.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Amy Coney Barrett presented herself as a principled originalist committed to judicial restraint — then joined rulings that overturned 50 years of reproductive rights precedent (Dobbs), expanded gun rights beyond historical practice (Bruen), and stripped regulatory authority from agencies that had exercised it for decades (West Virginia v. EPA). She was confirmed through a process that required 31 Republican senators to reverse their own stated principles about election-year nominations. She claims independence from the political process that installed her — but that process spent $22 million in anonymous dark money to ensure her confirmation, and Leo personally selected her from the Federalist Society pipeline he spent decades constructing. The "originalist" who claims the Constitution's text governs was selected by a network that governs the Constitution's interpreters. People of Praise's internal governance — where members submit major life decisions to community leaders — maps onto the external governance: Leo's network submits judicial selections to donor approval, and the justices submit rulings that serve the donors' interests.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The $22 Million Confirmation and the Leo Capstone:
 - [[The 22 Million Dollar Confirmation and the McConnell Precedent Reversal]] — JCN $22M+ total. Rule of Law Trust: $21.5M conduit in single year. Leo architect of all 3 Trump picks (Gorsuch, Kavanaugh, Barrett). McConnell reversed Garland precedent — 31 senators broke prior positions. 30-day confirmation, 8 days before election. 52-48 vote.
@@ -78,7 +78,7 @@ Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 5
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Barrett was Leo's capstone — the third Trump pick completing the 6-3 supermajority. $22M+ in JCN dark money delivered the fastest confirmation in modern history (30 days), and every major ruling since has delivered for the donor class that funded it.*
 
@@ -120,14 +120,14 @@ Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 5
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The blank slate:** Confirmation hearing strategy of declining to answer any substantive question — "I can't answer that without prejudging a case." The function: avoid the accountability that would reveal the guaranteed outcomes Leo's network purchased. The reality: every major ruling since confirmation was predictable from her Seventh Circuit record and Federalist Society signals.
 2. **The working mother:** Five biological children, two adopted from Haiti. The function: humanize the nominee and inoculate against criticism of People of Praise's gender theology. The personal biography becomes the shield for the institutional capture.
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit:** Barrett's originalist jurisprudence delivers on social conservative priorities (Dobbs, religious exemptions) without threatening the capital and deregulatory agenda her donors funded. Her concurrence in Dobbs emphasized safe haven laws — preserving state-level policy that doesn't challenge structural capital. She has never voted to constrain corporate power, regulatory authority, or campaign finance capacity.
 
@@ -137,7 +137,7 @@ Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 5
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Amy Coney Barrett — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1)
 - [OpenSecrets: JCN Dark Money Spending on Supreme Court Confirmations](https://www.opensecrets.org/news/) (Tier 1)
@@ -147,7 +147,7 @@ Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 5
 content-readiness:: ready
  
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

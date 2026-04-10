@@ -32,7 +32,7 @@ donors: [[Koch Network - Charles Koch]]
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Mike Crapo. Republican, Idaho. Senior Senator since 1999. Chair, Senate Finance Committee (119th Congress) — the committee that controls approximately 50% of the federal budget, with jurisdiction over all federal tax legislation, Social Security, Medicare, Medicaid, international trade, and the federal debt ceiling.
 
@@ -42,20 +42,20 @@ Idaho's economic intersection with Finance Committee jurisdiction is the structu
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him authorship over the entire federal tax code, and the financial services industry that benefits most from that code is his dominant donor class. Over 50% of his campaign fundraising comes from PACs — with securities firms, insurance companies, commercial banks, and private equity dominating the contributor list. 84% of his individual donations come from out-of-state, primarily from the financial services sector. The Stephens Inc. pipeline is the cleanest illustration: 19+ top executives of a single Arkansas investment bank donated to his campaign, making him raise nearly as much from Arkansas as from Idaho. His signature legislative achievement — shepherding the "One Big Beautiful Bill" through the Senate Finance Committee (July 2025), making the TCJA permanent — delivered the single largest tax policy victory for wealthy investors and corporations in a generation. Americans for Prosperity spent $20 million supporting the bill. At a private AFP breakfast afterward, Crapo said the quiet part: "AFP was the biggest ally we had in getting the One Big Beautiful Bill across the finish line." The Koch network bought the bill. Crapo delivered it.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Crapo frames every tax cut as relief for "everyday Americans" and "working families." His official statement on the One Big Beautiful Bill claims it delivers "$600 billion in additional tax relief to everyday Americans." But making the TCJA permanent overwhelmingly benefits high-income earners, pass-through business owners, and large corporations — his donor base. His top contributors are JPMorgan Chase, the Carlyle Group, Blackstone Group, and the American Bankers Association. His campaign fundraising is majority-PAC, majority-out-of-state, majority-financial-services. He chairs a committee whose every major action — capital gains treatment, corporate tax rates, carried interest, pass-through deductions — directly determines the profitability of the firms that fund him. Idaho's median household income is $63,000. The structural beneficiaries of TCJA permanence are not Idaho potato farmers. They're Manhattan hedge fund managers who write checks to Crapo's campaign.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **OpenSecrets CID:** N00006267
 **FEC Candidate ID:** S6OR00110 → C00330886 (Mike Crapo for US Senate)
@@ -81,7 +81,7 @@ Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him autho
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount/Value | Source |
 |------|-------|-------------|--------|
@@ -97,7 +97,7 @@ Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him autho
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (systemic):** Crapo's Idaho constituents — farmers, ranchers, small-town workers — are not the primary beneficiaries of TCJA permanence, capital gains tax treatment, or carried interest preservation. His donor class — Wall Street investment banks, private equity firms, insurance companies — are. Over 84% of his individual donations come from outside Idaho, primarily from the financial services industry. The constituency elects him; the donor class funds him; the policy serves the donor class.
 
@@ -109,7 +109,7 @@ Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him autho
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Crapo's signature is the technical frame — he speaks in tax code provisions, budget scores, and committee procedures rather than populist language. This is strategic: tax policy is complex enough that framing "$600 billion in additional tax relief" as helping "everyday Americans" goes unchallenged because few voters parse the distributional analysis. Unlike Jason Smith's biographical populism, Crapo uses institutional authority as the credibility mechanism: the Chairman says this helps families, and who understands the tax code better than the Chairman?
 
@@ -131,7 +131,7 @@ His nuclear energy advocacy is the most authentic throughline — it directly se
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Mike Crapo Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00006267) (Tier 1)
 - [FEC: Mike Crapo for US Senate (C00330886)](https://www.fec.gov/data/committee/C00330886/) (Tier 1)

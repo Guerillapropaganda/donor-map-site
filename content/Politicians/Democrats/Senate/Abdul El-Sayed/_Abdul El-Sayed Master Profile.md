@@ -37,26 +37,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Dr. Abdul El-Sayed. Physician, epidemiologist, Rhodes Scholar (Oxford University), MD from Columbia University (NIH-funded Medical Scientist Training Program Fellow). Former Director of Detroit's Health Department (rebuilt it after 2008 bankruptcy privatization). Former Director of Wayne County Department of Health, Human & Veterans Services (1.8 million residents; resigned April 2025 to focus on Senate campaign). 2018 Michigan gubernatorial candidate (finished second in Democratic primary with 340,000+ votes, endorsed by [[_Bernie Sanders Master Profile|Bernie Sanders]] and AOC). Co-author of "Medicare for All: A Citizen's Guide" (with Dr. Micah Johnson). Member of Biden's 2020 Unity Task Force on Healthcare. Age: ~35. Net worth: Not publicly disclosed, but career arc suggests modest personal wealth relative to typical Senate candidates.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Abdul El-Sayed represents the 2026 Sanders wing's bet that a genuine progressive — small-dollar funded, corporate PAC-free, Medicare for All advocate with actual public health credentials — can win a Democratic primary against the establishment's preferred candidate. The Michigan primary is a proxy war between Sanders and Warren factions of the progressive movement, with [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and corporate PACs likely to intervene on the establishment side (via [[_Mallory McMorrow Master Profile|Mallory McMorrow]]). El-Sayed's win would signal that small-dollar populism can beat establishment endorsements + corporate fundraising. His loss would confirm that even in a "progressive" primary, donor money still determines outcomes.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > El-Sayed's public health credentials are genuine. His 2018 gubernatorial campaign was honestly populist — no corporate PACs, Medicare for All advocacy, environmental justice focus. But the 2026 Senate race tests whether that model scales. Michigan's primary is in a state flush with corporate money (auto industry, tech, finance). McMorrow has already raised $5+ million from national sources attracted by her viral moment. El-Sayed's fundraising ($24K/day average since April 2025 = ~$1.8M so far) trails significantly. The question: Can Sanders endorsement + small-dollar energy overcome the structural advantage that corporate money + national celebrity (McMorrow's viral speech) provide? Or does El-Sayed's loss prove that the primary system remains structurally hostile to candidates who refuse corporate funding, regardless of policy merit?
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Small-Dollar Fundraising Model:
 - El-Sayed has pledged to "never" accept money from political action committees. His campaign claims to rely entirely on small-dollar donations ($200 or less per donor). As of spring 2025, averaging $24,000/day in fundraising = roughly $1.8 million raised to date. This is significantly less than McMorrow ($5+ million) and other establishment primary candidates.
@@ -100,7 +100,7 @@ Dr. Abdul El-Sayed. Physician, epidemiologist, Rhodes Scholar (Oxford University
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: El-Sayed's no-PAC pledge means he raises roughly 1/3 of what McMorrow raises. This is the vault's thesis in action: candidates who refuse donor-class money face structural disadvantages regardless of policy merit or endorsement quality.*
 
@@ -129,7 +129,7 @@ Dr. Abdul El-Sayed. Physician, epidemiologist, Rhodes Scholar (Oxford University
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The credentials defense:** "I'm a physician. I've led public health departments. I understand healthcare systems." El-Sayed uses his actual professional background as authority rather than relying on political charisma or viral moments.
 
@@ -155,7 +155,7 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — El-Sayed's small-dollar fundraising model and Sanders endorsement represent genuine anti-donor-class mobilization, generating $24K/day in grassroots support. However, this mobilization stops short of threatening the fundamental structure of Democratic Party gatekeeping: he still faces overwhelming fundraising disadvantage against McMorrow ($1.8M vs. $5M+), and even with Sanders backing, the small-dollar model cannot generate the sustained infrastructure typical Senate races require. The victory would be real (proving small-dollar viability), but its structural limits are visible: a Michigan primary where grassroots funding still trails establishment-backed alternatives by 3-to-1.
 
@@ -163,7 +163,7 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 
 ---
 
-### Sources
+## Sources
 
 - [Abdul El-Sayed - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00418/) (Tier 1) (VERIFIED)
 - ~~[ABDUL EL-SAYED FOR MICHIGAN - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44060467)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
@@ -231,7 +231,7 @@ content-readiness:: ready
 - ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

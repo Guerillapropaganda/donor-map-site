@@ -40,7 +40,7 @@ donors: [[Goldman Sachs]] [[Fairshake PAC]] [[Crypto Industry Bloc]] [[Marc Andr
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 French Hill. Republican, Arkansas's 2nd District (Little Rock). Chair of the House Financial Services Committee since January 2025. First elected to Congress in 2014 after a 35-year career in banking and financial policy — including founding and running Delta Trust & Banking Corporation in Little Rock from 1999 to 2014, serving as Deputy Assistant Secretary of Treasury under George H.W. Bush, and staffing the Senate Banking Committee under Senator John Tower. Hill is not a politician who drifted into financial services jurisdiction — he is a career banker who entered Congress and took the gavel over the committee that regulates his own industry.
 
@@ -51,20 +51,20 @@ Career total raised: approximately $6.7 million in the 2024 cycle alone, with th
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 French Hill exists to translate Wall Street's regulatory wish list into committee action. His entire professional biography — commercial banking analyst, Senate Banking Committee staffer, Treasury Department official, community bank founder and CEO — is a single unbroken line from the financial sector to the committee chair that oversees it. The revolving door is not a feature of his career. It is the structure of his career. Every major legislative priority he has championed as chair — crypto deregulation through FIT21, community bank deregulation packages rolling back Dodd-Frank, and killing CFPB overdraft fee caps — maps directly onto the lobbying priorities of his top donor industries. He frames each of these as protecting consumers or small businesses; the material beneficiaries are the banks and crypto firms that fund him.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Hill frames CFPB overdraft fee caps as "government price controls that hurt consumers." The CFPB rule he killed would have capped overdraft fees at $5 per transaction, saving consumers an estimated $5 billion annually. Banks collected $15.5 billion in overdraft fees in 2019 alone. Hill's intervention preserved billions in fee extraction from working families — the same consumers he claims to protect. The contradiction is structural: his "consumer protection" rhetoric functions as cover for policies that transfer wealth from bank customers to bank shareholders.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Top Contributing Industries (Career):
 Finance, insurance, and real estate dominate Hill's fundraising. Securities and investment firms are his single largest industry source, followed by commercial banking and real estate.
@@ -106,7 +106,7 @@ He sold Delta Trust to Simmons Bank in 2014 and entered Congress the following y
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -143,7 +143,7 @@ Hill's committee passed a 30-bill deregulatory package (26–16) focused on redu
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door (EXTREME):** Hill's entire identity is the revolving door. He did not move between sectors — he is the sector. A career banker now chairs the committee that regulates banking. This is the most structurally complete revolving door case in the vault.
 
@@ -155,7 +155,7 @@ Hill's committee passed a 30-bill deregulatory package (26–16) focused on redu
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Consumer choice" inversion:** Hill rebrands policies that extract money from consumers as protecting their "choice." Killing the overdraft cap becomes defending consumer freedom. Deregulating crypto becomes innovation protection. The rhetorical move consistently transforms donor-class benefits into consumer-empowerment language.
 
@@ -165,13 +165,13 @@ Hill's committee passed a 30-bill deregulatory package (26–16) focused on redu
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 French Hill serves the financial donor class with unusual structural completeness. He is not merely funded by banks — he was a bank. The analytical framework for Hill is not "who buys his votes" but "whose interests are structurally embedded in his professional identity." The answer: Wall Street, the crypto industry, and the banking sector broadly. His committee chairmanship gives these industries not just a vote but control over the regulatory agenda itself. When Hill kills an overdraft cap or advances crypto deregulation, he is not responding to donor pressure — he is executing the worldview of the class he belongs to. The donations are confirmation, not cause.
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: French Hill campaign finance summary](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)
 - [FEC: James French Hill candidate overview](https://www.fec.gov/data/candidate/H4AR02141/) (Tier 1)

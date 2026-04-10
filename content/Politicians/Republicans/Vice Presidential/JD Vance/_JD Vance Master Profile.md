@@ -44,13 +44,13 @@ donors: [[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Vent
 | Senate Voting Record | 57 bills introduced, 0 passed |
 | 2028 Polling | 46% favorability (Emerson) |
 
-### Who He Is
+## Who He Is
 
 [[_JD Vance Master Profile|JD Vance]] is a venture capitalist and political product manufactured by Silicon Valley's ultra-wealthy donors—primarily [[Peter Thiel|Peter Thiel]]—who needed a charismatic spokesperson for a white-working-class politics that benefits billionaires, not workers. He was elevated through a coordinated pipeline: Thiel fellowship (2011), Yale law school mentorship, [[Mithril Capital|Mithril Capital]] investing (2016-2025), and finally a Senate seat designed as a holding pattern until a VP slot opened.
 
 His public identity rests on *Hillbilly Elegy*, a memoir that frames Appalachian poverty as cultural dysfunction rather than structural exploitation, absolving wealthy donors of responsibility for deindustrialization and making him palatable to both tech money and MAGA voters. In office, he delivered no legislative victories while positioning himself as the next MAGA presidential contender—fulfilling Thiel's vision of venture capital's political wing.
 
-### The Central Thesis: Thiel's Manufactured Political Product
+## The Central Thesis: Thiel's Manufactured Political Product
 
 Vance is not an organic politician. He is an explicitly designed artifact created by [[Peter Thiel|Peter Thiel]] to serve three objectives:
 
@@ -60,7 +60,7 @@ Vance is not an organic politician. He is an explicitly designed artifact create
 
 [!money] The trail is explicit: $15M direct Thiel funding → Yale law mentorship → [[Mithril Capital|Mithril Capital]] wealth accumulation → 2024 VP selection as final payoff.
 
-### The Core Contradiction: Working-Class Brand Funded by Billionaires
+## The Core Contradiction: Working-Class Brand Funded by Billionaires
 
 Vance's political identity is built on a fundamental contradiction that reveals the class analysis at the vault's core: he presents himself as a voice for deindustrialized Ohio workers while being entirely funded, mentored, and controlled by the men who profited most from deindustrialization.
 
@@ -70,7 +70,7 @@ Vance's political identity is built on a fundamental contradiction that reveals 
 
 His Senate voting record—57 bills introduced, 0 passed—reflects this contradiction. He was not sent to Ohio to legislate for workers. He was sent to hold a seat, collect a salary, and position himself for higher office controlled by the same donors.
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Network | Investment | Purpose | Evidence |
 |---|---|---|---|
@@ -81,7 +81,7 @@ His Senate voting record—57 bills introduced, 0 passed—reflects this contrad
 
 [!contradiction] Vance frames himself as anti-establishment while being the establishment's most explicit creation. His utility lies precisely in this contradiction: he can attack "elites" while serving them.
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Vance's entire political career is a three-step investment vehicle: $15M+ from Thiel (2021) → Senate seat (2022) → VP nomination (2024). No other politician in modern history has had their career trajectory so explicitly funded by a single megadonor.*
 
@@ -114,7 +114,7 @@ His Senate voting record—57 bills introduced, 0 passed—reflects this contrad
 > **The Musk VP trade:** America PAC $45M/month (May-Nov 2024) + Musk VP lobbying → Vance selected. A $38B+ federal contractor helped select the vice president. Vance's first year in office includes expanded Palantir/SpaceX contracts and gutted regulatory oversight of Musk's companies.
 
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Vance's crypto regulatory relief is a real donor victory, but stops short of eliminating SEC oversight entirely. His policy wins advance the crypto industry's deregulatory agenda without comprehensive financial system restructuring.
 
@@ -124,7 +124,7 @@ His Senate voting record—57 bills introduced, 0 passed—reflects this contrad
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **1. Cultural Dysfunction Frame**: Every policy problem (poverty, unemployment, addiction) becomes a character problem solvable by individual virtue, not systemic change. This absolves donors of responsibility for extractive capitalism.
 
@@ -147,7 +147,7 @@ The VP role serves three strategic purposes:
 
 His move to VP was not Trump's selection. It was Silicon Valley's selection, transmitted through Musk (America PAC lobbying), Thiel (personal endorsement), and the broader MAGA billionaire cohort who needed continuity assurance.
 
-### Class Analysis
+## Class Analysis
 
 The JD Vance story is a case study in how billionaire venture capital captured the Republican Party's insurgent, working-class wing.
 
@@ -164,7 +164,7 @@ The JD Vance story is a case study in how billionaire venture capital captured t
 
 The vault's central insight applies directly: **Vance is not a politician with donors. Vance is a donor's political product.**
 
-### Sources
+## Sources
 
 ### Tier 1 (Primary/Government):
 - [FEC: VANCE, J D - Candidate overview](https://www.fec.gov/data/candidate/S2OH00436/) (Tier 1)
@@ -200,7 +200,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456876) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

@@ -41,7 +41,7 @@ WHERE type = "sub-note"
 SORT last-updated DESC
 ```
 
-### Who They Are
+## Who They Are
 
 Mike Lee. U.S. Senator from Utah (2011–present). Born June 4, 1971, Mesa, Arizona — son of Rex E. Lee, U.S. Solicitor General under Reagan (1981–1985). BYU undergrad, BYU Law. Clerked for Judge Dee Benson (D. Utah) and Supreme Court Justice Samuel Alito (then Third Circuit). Former assistant U.S. Attorney in Salt Lake City. Won 2010 Senate race by defeating three-term incumbent Bob Bennett in the Republican convention — a Tea Party insurgency backed by Club for Growth and FreedomWorks.
 
@@ -49,7 +49,7 @@ Serves on the Judiciary Committee, Energy and Natural Resources Committee, and C
 
 Career fundraising (2009–2024): $16.5M+ raised. Top sectors: Finance/Insurance/Real Estate ($3.56M), Ideological/Single-Issue ($3.2M, including Club for Growth and Senate Conservatives Fund), Communications/Electronics ($1.24M), Energy & Natural Resources ($1.09M), Lawyers & Lobbyists ($1.32M). Net worth estimated $4–6M. Class function: constitutional scaffold for donor-class deregulation and federal land privatization.
 
-### The Central Thesis — Deregulation as Donor Service
+## The Central Thesis — Deregulation as Donor Service
 
 Lee's donor base is the Federalist Society network, Club for Growth ($554K career, top contributor), Koch-aligned libertarians, and Wall Street firms seeking judicial capture and statutory rollback of corporate accountability. His constitutional libertarianism — originalism applied to dismantle regulatory authority — functions as legal architecture for the donor class. The mechanism is structural: Federalist Society cultivation placed Lee in a position where "originalist" constitutional interpretation directly benefits the financial, tech, energy, and real estate sectors funding the network. Donors fund the ideology, the ideology justifies the deregulation, the appearance of principled conviction obscures the class service.
 
@@ -57,7 +57,7 @@ Three policy arenas reveal the pattern: (1) antitrust, where Lee pivoted from gr
 
 Lee's January 6 texts to Mark Meadows reveal where the ideology's actual limit lies — when constitutional principle (rule of law) and Trump donor power (executive seizure) conflict, he chose Trump. The liberty is post hoc; the donor service is determining.
 
-### The Core Contradiction — Antitrust Populist to Tech Deference
+## The Core Contradiction — Antitrust Populist to Tech Deference
 
 In 2011, Lee grilled Google executives on antitrust grounds, positioning as a tough defender against monopoly. By 2019, the Tech Transparency Project documented the transformation: after sustained tech industry lobbying, Lee repositioned antitrust enforcement as regulatory overreach. He proposed the TEAM Act — a weaker alternative to the bipartisan American Innovation and Choice Online Act — that would codify the narrow consumer welfare standard rather than address platform monopoly power. The TEAM Act functioned as a blocking mechanism: it gave Lee antitrust credibility while ensuring no legislation would threaten tech companies' market dominance.
 
@@ -66,9 +66,9 @@ The funding trail: Communications/Electronics sector contributions totaled $1.24
 > [!contradiction]
 > **The constitutional libertarian who became a tech industry deregulation vehicle through ideological capture.** Lee grilled Google executives on antitrust grounds in 2011. After 2019, following tech industry lobbying and $1.24M in career Communications/Electronics sector funding, he chairs the antitrust subcommittee while blocking every antitrust bill and defending Big Tech. His proposed alternative (TEAM Act) codifies the weakest possible antitrust standard. His constitutional libertarianism "remained unchanged"; the application reversed. The funding explains the pivot; the ideology provides cover.
 
-### Donor Class Map
+## Donor Class Map
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance
 
@@ -106,7 +106,7 @@ The funding trail: Communications/Electronics sector contributions totaled $1.24
 > [!money]
 > **The funding architecture is tripartite: Wall Street ($3.56M career FIRE sector), extractive industries ($1.09M Energy & Natural Resources), and ideological infrastructure ($3.2M from conservative/Republican groups including Club for Growth at $554K and Senate Conservatives Fund at $354K).** Each sector receives specific policy returns. Wall Street gets deregulation and blocked consumer protection. Oil & Gas gets public lands sell-offs and monument reductions. The Federalist Society network gets judicial nominations that strip regulatory authority across all sectors simultaneously. The ideological infrastructure (Club for Growth, Senate Conservatives Fund) maintains the electoral viability that makes the policy delivery possible. Lee's total career fundraising of $16.5M+ flows from a donor ecosystem that treats constitutional libertarianism as an investment thesis — fund the ideology, receive the deregulation.
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Public Lands — The Extractive Industry Pipeline
 
@@ -129,7 +129,7 @@ The texts contradict Lee's later public statements during his 2022 reelection ca
 
 The January 6 episode reveals the structural limit of Lee's constitutional libertarianism: the ideology functions as donor service, not as governing principle. When the Constitution pointed toward certifying Biden's victory and donor/party power demanded otherwise, Lee chose the power. His subsequent pivot — voting to certify after the Capitol breach — demonstrates the Two-Audience Problem: perform constitutional fidelity after the crisis to maintain intellectual credibility while having attempted to subvert constitutional process when it mattered.
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Federalist Originalism:** Frames every regulatory question as constitutional — deregulation as constitutional fidelity, not donor service. Invokes founding-era intent to neutralize contemporary power analysis. The mechanism is self-reinforcing: originalism is unfalsifiable because the Founders didn't address platform monopolies, climate regulation, or cryptocurrency. Lee fills the interpretive gap with whatever his donors need.
 
@@ -139,7 +139,7 @@ The January 6 episode reveals the structural limit of Lee's constitutional liber
 
 **Constitutional Property Rights:** Frames public lands transfer as returning land to "the people of Utah" while the actual beneficiaries are extractive industries and real estate developers. The constitutional framing (federal overreach) obscures the economic function (land privatization for donor benefit).
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit** — Lee has secured genuine policy victories on judicial nominations (234 Trump judges, 3 Supreme Court justices) through the Federalist Society pipeline. These are real structural wins that reshape constitutional law for decades. However, the victories are narrowly constructed to serve specific donor interests: judicial appointments strip regulatory authority benefiting financial, tech, and energy donors while preserving the institutional mechanisms that protect wealth concentration.
 
@@ -151,7 +151,7 @@ The January 6 episode reveals the structural limit of Lee's constitutional liber
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Mike Lee campaign finance summary](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
 - [FEC Candidate: Mike Lee career industries](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
@@ -169,7 +169,7 @@ The January 6 episode reveals the structural limit of Lee's constitutional liber
 profile-status:: developed
 content-readiness:: developed
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

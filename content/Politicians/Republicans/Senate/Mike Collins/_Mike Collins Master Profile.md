@@ -44,26 +44,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Mike Collins. Republican Senate candidate for Georgia (2026), challenging incumbent Democrat [[_Jon Ossoff Master Profile|Jon Ossoff]]. U.S. Representative (Georgia's 10th congressional district, 2023-present, 2nd term). Background: Trucking company owner (founded with wife Leigh Ann in early 1990s). Age 56 (born July 2, 1967). House voting record: Heritage Action scorecard 98% (2024), aligned with Freedom Caucus on spending/immigration/taxes. Campaign messaging: "send a trucker to the U.S. Senate to steamroll the radical left, deliver on President Trump's America First agenda." Current fundraising: $746K raised (as of early 2026), with concentrated support from three donor blocs: (1) crypto industry including Winklevoss twins ($7K each), [[Elon Musk|Elon Musk]] ($6.6K), SpaceX ($10K); (2) [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and pro-Israel lobby ($20K+); (3) [[Club for Growth|Club for Growth]] (conservative PAC). Self-described cryptocurrency trader with personal portfolio including Ethereum and altcoins (filed up to $745K in crypto trades since entering office). Campaign accepts cryptocurrency donations. Trump relationship: publicly positioning as Trump loyalist; Trump has not yet endorsed in Georgia race. Georgia context: Trump designated Georgia as top priority state to flip Senate seat.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (crypto and pro-Israel) who have nothing to do with his trucking company base or Trump movement roots. He is running as an "America First trucker," but his campaign is entirely dependent on billionaire crypto traders (Winklevoss, Musk) and AIPAC money that expects him to serve their policy interests (crypto deregulation and unconditional Israel support) regardless of what his voters want. His personal crypto trading is not a hobby — it signals alignment with the industry funding him. His campaign accepts crypto donations not for fundraising volume but as signaling that he understands and serves crypto industry interests. His core function: provide a Trump-aligned face for crypto and pro-Israel interests to move money into Georgia Senate race to unseat Ossoff, who voted for [[_Bernie Sanders Master Profile|Bernie Sanders]] resolutions conditioning military aid to Israel.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Mike Collins campaigns as a "trucker" and "America First" candidate representing working-class Georgia. His donor base is billionaire cryptocurrency traders (Winklevoss, Musk), the AIPAC pro-Israel lobby, and Wall Street conservative PACs ([[Club for Growth|Club for Growth]]). The trucker messaging is authentic — he genuinely founded a trucking company. But his Senate campaign is entirely dependent on out-of-state billionaire and pro-Israel money that has zero interest in trucking industry policy. His personal crypto trading (up to $745K since entering Congress) demonstrates he's not just taking crypto industry money — he's *part of* the industry. Yet he campaigns on working-class economic messaging. Every statement about representing Georgia workers conflicts with his reliance on Silicon Valley crypto billionaires and Israeli government-aligned donors who expect him to vote their way on deregulation and foreign policy.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Crypto-Industry-AIPAC Alliance:
 - [[Fairshake PAC]] — Crypto industry super PAC with $193M cash on hand (2026). Major donors: Coinbase, a16z, Ripple, Jump Crypto. Fairshake deployed $8.6M in Illinois 2024 primary as disciplinary spending against crypto-hostile candidates. Supports Collins because: (a) he's self-described crypto trader showing industry alignment; (b) he accepts crypto donations; (c) Ossoff is not crypto-hostile but Fairshake strategy is to remove moderates and replace with ideological allies.
@@ -77,7 +77,7 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Manufactured Populist** — Collins campaigns as a "trucker" and "America First" candidate representing working-class Georgia voters. His messaging is authentic to his personal history (he genuinely owns and operates a trucking company). However, his Senate campaign is entirely dependent on billionaire cryptocurrency traders (Winklevoss, Musk) and AIPAC who have nothing to do with trucking industry interests. The populist identity is real, but the campaign infrastructure that determines his policy positions is wholly external to his constituency base.
 
@@ -85,7 +85,7 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Collins is a cargo-cult populist — genuine trucker turned crypto-industry vessel. His personal $745K crypto portfolio makes him investor-aligned with his donors before they fund him. The "America First trucker" is bankrolled by billionaire crypto traders and AIPAC.*
 
@@ -120,7 +120,7 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The trucker authenticity:** Collins genuinely founded a trucking company; this is authentic. The messaging function: use authentic working-class background to justify serving crypto billionaire and pro-Israel lobby interests. "I'm a trucker, I understand working people" → creates permission structure for voting for crypto deregulation and AIPAC priorities that don't serve working-class interests.
 
@@ -130,7 +130,7 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 
 ---
 
-### Sources
+## Sources
 
 - [Beincrypto: Crypto and AIPAC targeting Georgia Senate seat](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/) (Tier 2)
 - [Cryptonews: Crypto Industry and AIPAC Back Mike Collins Georgia 2026](https://cryptonews.net/news/legal/31673812/) (Tier 2)

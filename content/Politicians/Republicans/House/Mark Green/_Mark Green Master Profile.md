@@ -41,7 +41,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Mark Green represented Tennessee's 7th Congressional District and chaired the House Homeland Security Committee from 2023 until his resignation in July 2025. Before Congress, he had two notable careers: elite military operator and healthcare entrepreneur.
 
@@ -53,7 +53,7 @@ Green resigned from Congress on July 20, 2025, citing a private-sector opportuni
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Mark Green is the national security performace artist — the special operator who turned military credentials into political power, then used Homeland Security chairmanship primarily for partisan spectacle rather than structural oversight. His most significant action as chair was impeaching DHS Secretary Alejandro Mayorkas — the first cabinet impeachment in 150 years — on a party-line vote, for what was fundamentally a policy disagreement over border enforcement reframed as "high crimes and misdemeanors."
 
@@ -63,14 +63,14 @@ Then he left for the private sector, where the real money is.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Green built a $200M+ healthcare staffing company — an industry rife with private equity exploitation, staffing shortages, and emergency department closures. He then chaired the committee overseeing DHS, FEMA, and domestic emergency response while maintaining financial ties to the healthcare industry that profits from those same emergencies. The man who knows how to monetize hospital staffing crises sat on the committee that oversees the federal response to the crises that create hospital surges. And when he left, he didn't go to Homeland Security consulting — he went back to the private sector, where the committee's oversight had ensured no meaningful regulation would follow him.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Defense & homeland security industry contributions
@@ -96,7 +96,7 @@ Then he left for the private sector, where the real money is.
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Military Credentials → Homeland Security Chair → Partisan Spectacle
 | Date | Type | Event | Donor | Amount | Gap |
@@ -121,7 +121,7 @@ Then he left for the private sector, where the real money is.
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door:** Green executed the full rotation in six years: healthcare entrepreneur → Congress → Homeland Security Chair → private sector. The congressional stint added military-credentialed political connections, committee oversight knowledge of DHS procurement, and national security bona fides to his business resume. He left when the political marginal return declined (narrow House majority, diminishing power of the chairmanship) and the private sector offered better compensation for the same network.
 
@@ -133,7 +133,7 @@ Then he left for the private sector, where the real money is.
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Military biography as authority** — The Saddam Hussein interrogation story is invoked constantly. It establishes security credentials that make it difficult to challenge Green's homeland security positions without appearing to question a combat veteran's judgment. The function is identical to Jack Reed's military credentials play: the biography IS the argument.
 
@@ -150,7 +150,7 @@ Then he left for the private sector, where the real money is.
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Mark Green donor profile](https://www.fec.gov/data/candidate/H0CT05150/) (Tier 1)
 - [Congress.gov: Mark E. Green](https://www.congress.gov/member/mark-green/G000590) (Tier 1)

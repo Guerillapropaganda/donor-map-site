@@ -30,7 +30,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Bruce Westerman represents Arkansas's 4th Congressional District and chairs the House Natural Resources Committee — the body with jurisdiction over public lands, oil and gas leasing on federal land, mining, forestry, water resources, fisheries, tribal affairs, and national parks. The committee controls who gets to extract what from America's public lands and at what price.
 
@@ -40,7 +40,7 @@ His district includes the Ouachita National Forest, timber country, and Murphy O
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Bruce Westerman is the extractive industry's credentialed gatekeeper — a Yale-educated forester who uses his environmental credentials to open public lands to drilling, mining, and logging while framing resource extraction as "conservation." His committee passed legislation mandating rapid-pace oil and gas lease sales on public lands while reducing the royalty rates private companies pay for extraction. Simultaneously, Westerman personally purchased stocks in the oil companies (BP, ConocoPhillips, Shell, Chevron) and mining companies (Freeport-McMoRan, BHP, Rio Tinto) that benefit from his committee's policies.
 
@@ -48,14 +48,14 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Westerman brands himself as a "conservation-minded forester" who understands forest science. His flagship legislation — the Fix Our Forests Act, the Resilient Federal Forests Act — uses the language of wildfire prevention and forest health. The substance: accelerated logging of federal forests with reduced environmental review, and expanded oil/gas leasing on public lands with reduced royalty rates. He buys stock in the oil and mining companies that profit from his committee's deregulation. The forester is strip-mining the forest — but calling it "forest management."
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising (2022 cycle):
 - Oil & gas industry: $184,200
@@ -77,7 +77,7 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 - Timber/forestry PACs
 - American Petroleum Institute
 
-### Personal Stock Holdings (while chairing Natural Resources):
+## Personal Stock Holdings (while chairing Natural Resources):
 - Oil: BP, ConocoPhillips, Shell, Chevron, Suncor, Canadian Natural Resources
 - Mining: Freeport-McMoRan, BHP, Rio Tinto
 
@@ -86,7 +86,7 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Oil & Gas → Public Lands Drilling
 | Date | Type | Event | Donor | Amount | Gap |
@@ -115,7 +115,7 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Self-Funding as Independence (inverted, stock version):** Westerman isn't self-funding his campaign. He's self-investing in the outcomes of his own legislation. Buying oil and mining stocks while chairing the committee that opens public lands to those industries isn't corruption in the traditional sense — it's something more structural. The committee chair has a personal financial interest in every policy decision his committee makes about extraction on public lands.
 
@@ -127,7 +127,7 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"As a trained forester"** — The Yale credential deployed as scientific authority. The function: make extractive industry policy sound like forest science. When the forester says logging prevents wildfires, it carries more weight than when the timber lobbyist says it.
 
@@ -137,7 +137,7 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Bruce Westerman donor profile](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)
 - [FEC Candidate: Bruce Westerman industry donors](https://www.fec.gov/data/candidate/H4AR04048/) (Tier 1)

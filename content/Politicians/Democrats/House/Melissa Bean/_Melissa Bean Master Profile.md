@@ -47,25 +47,25 @@ donors: [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committ
 
 ---
 
-### Who They Are
+## Who They Are
 
 Melissa L. Bean was born January 22, 1962, in Chicago to a Serbian-American family; her adopted father owned a machine belt factory. She graduated from Maine East High School in Park Ridge in 1980, earned an associate degree from Oakton Community College in Des Plaines in 1982, and received a Bachelor's degree from Roosevelt University in 2002. Bean worked for several telecommunications companies before founding Sales Resources Inc. in 1995, a consulting firm providing training and curriculum services specializing in channel market optimization. She served as U.S. Representative from Illinois' 8th Congressional District from 2005 to 2011, becoming the first Democrat to represent the district since its formation in 1935. Bean lost her 2010 re-election bid to Republican Joe Walsh by 291 votes. After Congress, she served as President and CEO of the Executives Club of Chicago (2011-2019), as Midwest operations chair for JPMorgan Chase, and as CEO of Mesirow Wealth Advisors (2019-2025). On March 17, 2026, Bean won the Democratic primary for Illinois' 8th Congressional District with $7M+ in super PAC support, positioning her for a return to Congress after a 15-year absence.
 
-### The Central Thesis
+## The Central Thesis
 
 [[_Melissa Bean Master Profile|Melissa Bean]] represents a new prototype in the 2026 election cycle: the "comeback candidate" funded by a coalition of emerging donor interests (AI tech, cryptocurrency, pro-Israel infrastructure). Her 2026 primary victory was almost entirely dependent on outside spending: $7M+ in super PAC support dwarfed candidate fundraising and overwhelmed competing campaigns. This multi-donor coalition reveals critical alignments: [[Think Big AI|Think Big AI]] PAC ($1.1M+), "Elect Chicago Women" [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-affiliated super PAC ($3.9M), Protect Progress cryptocurrency PAC ($557K), and New Democrat Majority ($935K). Bean's 15-year absence from office means she has no current legislative record, making her a blank slate on which donors can project their preferred outcomes. The central thesis is that Bean's comeback is not a grassroots return to power but a deliberate proxy deployment by elite donor networks seeking to reclaim a competitive suburban Chicago seat with a politician they can reliably direct on tech policy (AI deregulation), Middle East policy (pro-Israel alignment), and financial sector interests (her JPMorgan Chase executive background).
 
 > [!money]
 > Total super PAC support for Bean's 2026 primary: $7M+. Breakdown: [[Think Big AI|Think Big AI]] PAC $1.1M, Elect Chicago Women $3.9M (AIPAC-affiliated), Protect Progress (crypto) $557K, New Democrat Majority $935K. Bean's own campaign fundraising data: pending full disclosure. Outside spending margin exceeded $2:1 over likely candidate fundraising.
 
-### The Core Contradiction
+## The Core Contradiction
 
 Bean's central contradiction is between her identity as a former congresswoman making an independent comeback and her actual status as a proxy candidate for coordinated donor networks. She is framed as a proven legislator returning to fix the damage of 15 years of Republican representation, yet her primary victory was purchased almost entirely by outside donors aligned with tech, crypto, and pro-Israel interests. The secondary contradiction: Bean's background as a telecom consultant and JPMorgan Chase executive (2019-2025) suggests deep ties to financial and tech sectors, yet her campaign narrative emphasizes her working-class family origins and small-business consulting background. The class contradiction is stark: Bean positioned herself as reclaiming a seat for Democrats while her actual funding base represents elite tech, finance, and pro-Israel infrastructure—interests entirely disconnected from working-class voters in IL-8. Her 15-year absence from elected office means voters have no recent record to evaluate; they see only the narrative of the "experienced former congresswoman" and the $7M in outside spending validating her candidacy.
 
 > [!contradiction]
 > Bean is positioned as an "experienced former congresswoman returning to serve," yet her primary victory was 78-89% dependent on outside super PAC spending ($7M vs. estimated $800K-1M candidate fundraising). She claims to be a champion of working-class interests despite 6 years (2019-2025) as CEO of Mesirow Wealth Advisors and years at JPMorgan Chase. Her donor coalition (AI tech, crypto, pro-Israel groups) has no stated commitment to labor, housing, or economic justice for IL-8 working families. The 15-year absence means voters cannot evaluate her recent record; they rely entirely on narrative and outside spending validation.
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/PAC | Total Donated | Key Policy Outcome | Timeline | Time Gap |
 |-----------|---------------|-------------------|----------|----------|
@@ -75,7 +75,7 @@ Bean's central contradiction is between her identity as a former congresswoman m
 | New Democrat Majority | $935K | Corporate-friendly policy; "New Democrat" centrist economic alignment | 2026 primary | 0 (concurrent) |
 | JPMorgan Chase / Finance Sector | Data pending | Retained corporate sector alignment; potential favorable financial regulation | Ongoing | Ongoing |
 
-### Policy Area Notes
+## Policy Area Notes
 
 | Sub-Note | Status | Summary |
 |----------|--------|---------|
@@ -84,7 +84,7 @@ Bean's central contradiction is between her identity as a former congresswoman m
 | [[Think Big AI PAC and AI Policy Alignment]] | developed | Leading the Future network ($100M+); Brockman (OpenAI) + a16z ($25M each); Think Big $1.1M for Bean; AI deregulation policy agenda; intra-industry conflict with Anthropic's Jobs and Democracy PAC |
 | [[Elect Chicago Women Shell PAC Operation]] | developed | AIPAC shell PAC (FEC C00936724); $9.6M raised; $3.9M for Bean; 87% funded by 4 donors; disclosure timing exploit; two-PAC "attack from the left" strategy |
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Bean returned to politics after 15 years with no current legislative record — a perfect vessel for donor projection. Think Big AI PAC ($1.1M), AIPAC-affiliated Elect Chicago Women ($3.9M), crypto PAC Protect Progress ($557K), and New Democrat Majority ($935K) collectively spent $7M+ to win her primary — dwarfing her own fundraising 7-to-1.*
 
@@ -109,7 +109,7 @@ Bean's central contradiction is between her identity as a former congresswoman m
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Pilot Program** — Bean's career itself is the pilot program: instead of building a full progressive primary candidacy from scratch, the AI/crypto/pro-Israel donor coalition "tested" her viability by funding her primary entry with $7M in outside spending. She is the demonstration that their coordinated investment model works — that multiple donor constituencies can align around a single "blank slate" candidate (15-year absence from office, no recent legislative record) and purchase her into office. If successful in IL-8, the model replicates across swing-district races: test candidate + coordinated mega-donor coalition + 7-to-1 outside spending advantage = electoral success regardless of grassroots support.
 
@@ -117,7 +117,7 @@ Bean's central contradiction is between her identity as a former congresswoman m
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Experienced Legislator Returning to Fix Republican Damage"** — Bean emphasizes her 6 years in Congress (2005-2011) as proof of legislative competence, while ignoring her 15-year absence. This rhetoric appeals to voters wanting "experienced" leadership while providing no recent track record to evaluate.
 
@@ -149,7 +149,7 @@ Bean's central contradiction is between her identity as a former congresswoman m
 
 **Website:** [melissabeanforcongress.com](https://www.melissabeanforcongress.com/?q=Melissa%20Bean)
 
-### Sources
+## Sources
 
 - [FEC Candidate: Melissa Bean 2026 Campaign Finance](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1)
 - [FEC: Illinois 8th District 2026 Primary Results](https://www.fec.gov/data/elections/house/IL/08/2026/) (Tier 1)
@@ -171,7 +171,7 @@ profile-status:: ready
 research-status:: active
 content-readiness:: ready
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

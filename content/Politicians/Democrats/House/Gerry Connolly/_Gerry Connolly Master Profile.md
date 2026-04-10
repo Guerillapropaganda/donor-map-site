@@ -29,7 +29,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Gerry Connolly represented Virginia's 11th Congressional District (Northern Virginia / Fairfax County) and served as Ranking Member of the House Oversight and Accountability Committee until his death on May 21, 2025, at age 75, from esophageal cancer. He served in Congress from 2009 to 2025.
 
@@ -39,7 +39,7 @@ His key legislative legacy was FITARA (Federal Information Technology Acquisitio
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Gerry Connolly was the government contractor economy's congressman — funded by the industries that depend on federal spending, representing the district where those companies are headquartered, and using his Oversight Committee position to champion federal IT modernization that directed billions to those same contractors. This isn't a contradiction — it's constituent service perfectly aligned with donor interests. Fairfax County's economy IS government contracting. Connolly's advocacy for federal workers and IT modernization served his constituents and his donors simultaneously, because they're the same people.
 
@@ -47,14 +47,14 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Connolly positioned himself as the champion of federal workers against DOGE, government shutdowns, and Republican workforce cuts. His advocacy was genuine and consequential — he fought for pay raises, job protections, and against mass layoffs. But his Oversight Committee position also gave him jurisdiction over federal procurement — how the government buys from contractors. His top donors were the government services industry. His FITARA legislation directed agencies to modernize IT — which means buying from companies like Booz Allen, Leidos, and SAIC, headquartered in his district. The champion of the little guy (federal employee making $85K) is also the champion of the big contractor (Booz Allen making $9.4B/year in revenue). In Fairfax County, these interests overlap. Nationally, they don't always.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Government services/IT contractors: top sector (Fairfax County economy)
@@ -82,7 +82,7 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Government Contractors → Federal IT Modernization
 | Date | Type | Event | Donor | Amount | Gap |
@@ -104,7 +104,7 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Connolly's federal workforce advocacy was genuine — FAIR Act, FITARA, anti-shutdown legislation, DOGE investigations. He delivered real protections for federal employees. The structural limit: his defense of federal employment was structurally inseparable from his defense of the contractor revenue stream. When Connolly fought to "protect federal workers," he was also fighting to protect the $500B+ in annual federal contracts that flow to Northern Virginia companies. The genuine win (worker protection) and the structural interest (contractor profits) are fused in his district. They aren't everywhere.
 
@@ -114,7 +114,7 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Our federal workforce is the backbone of this nation"** — The dignity framing for government employment. The function: make federal workforce protection sound like patriotism rather than constituent service for the contractor economy.
 
@@ -124,7 +124,7 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Gerry Connolly donor profile](https://www.congress.gov/search?q=Gerry%20Connolly&searchResultViewType=expanded) (Tier 1)
 - [OpenSecrets: Gerry Connolly industry donors](https://www.opensecrets.org/members-of-congress/industries?cid=N00029891&cycle=CAREER) (Tier 1)

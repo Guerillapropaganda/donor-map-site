@@ -38,26 +38,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Hakeem Sekou Jeffries. Born August 4, 1970, Brooklyn, New York. U.S. Representative for New York's 8th congressional district (2013–present). House Minority Leader (2023–present) — the first Black person to lead a major party in either chamber of Congress. Former corporate attorney. Unanimously elected by House Democrats to succeed [[_Nancy Pelosi Master Profile|Nancy Pelosi]] as leader in November 2022. Net worth: estimated –$217,000 to $402,000 per 2024 disclosure (negative due to mortgages, relatively modest for a leader of his stature). Raised in Crown Heights, Brooklyn.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Jeffries is the Democratic establishment's chosen successor to Pelosi — a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his donors are the gentrifiers. Jeffries received $365,000 from real estate interests in the 2022 cycle and nearly $600,000 from the financial industry. He is the top recipient of [[AIPAC - American Israel Public Affairs Committee|AIPAC]] money in the House — over $1.3 million in career Israel-lobby donations — while publicly downplaying that support. His leadership PAC, Jobs, Education and Family First, and his close association with Team Blue PAC (funded almost exclusively by corporate PACs and lobbyists) replicate Pelosi's exact discipline mechanism: collect donor money, distribute to loyal members, freeze out insurgents. The zip codes of his donors are the zip codes of Brooklyn's displacement; the zip codes of his constituents are the zip codes of the displaced.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Jeffries represents Crown Heights and Brownsville — historically Black Brooklyn neighborhoods ravaged by the crack epidemic of the 1980s and now being hollowed out by gentrification. His political identity is rooted in that community: the son of a substance-abuse counselor and a social worker, he speaks fluently about systemic inequality. Yet his top donors are the real estate industry ($365K, 2022 cycle) and Wall Street ($600K, 2022 cycle) — the precise industries driving the displacement of his constituency. He has expressed concern about gentrification in interviews while accepting the money of those doing the gentrifying. His AIPAC funding ($1.3M+ career) operates the same way: he publicly claims AIPAC's direct PAC contribution is limited to $5,000–$10,000 per cycle, technically true — while omitting the coordinated independent spending, bundled contributions, and affiliated PAC networks that produce the $1.3M total. Jeffries is not a hypocrite in the personal moral sense; he is a system-level expression of how the Democratic Party's donor structure necessarily produces leaders who speak the language of the constituency while serving the interests of the donor class.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Real Estate Money:
 - [[The Real Estate Money and Brooklyn's Gentrification Politics]] — $365K from real estate interests (2022 cycle). Developers, landlords, and real estate attorneys who profit from the transformation of Brooklyn's historically Black neighborhoods. Jeffries' district encompasses areas where median rents have doubled since 2010.
@@ -89,7 +89,7 @@ The institutional continuity is the point. Jeffries was selected because he woul
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance
 
@@ -125,7 +125,7 @@ The institutional continuity is the point. Jeffries was selected because he woul
 > **Wall Street $3M+ → Build Back Better gutting:** Finance sector funding → Jeffries opposes wealth tax additions. The Minority Leader's role in diluting progressive legislation traces directly to who funds his leadership PAC.
 
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The alphabetical affirmations:** Jeffries regularly deploys alliterative alphabetical speeches ("A is for Accountability, B is for Build Back Better...") — a distinctive rhetorical style that reads as inspiring to supporters and evasive to critics, since the poetic form avoids substantive commitment.
 2. **The "big tent" defense:** Jeffries frames the progressive-moderate conflict as strength through diversity rather than a donor-class enforcement operation. The tent metaphor obscures that the donor infrastructure determines who gets into leadership.
@@ -134,7 +134,7 @@ The institutional continuity is the point. Jeffries was selected because he woul
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Hakeem Jeffries campaign finance summary](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
 - [FEC Candidate: Jeffries industry donors 2022 cycle](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)

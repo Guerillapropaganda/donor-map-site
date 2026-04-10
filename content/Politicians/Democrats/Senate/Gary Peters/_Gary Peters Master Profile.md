@@ -55,7 +55,7 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Gary Peters Master Profile|Gary Peters]] is the junior United States Senator from Michigan, serving since January 2015. Born December 1, 1958, in Pontiac, Michigan. B.A. in political science from Alma College (1980). M.B.A. in finance from the University of Detroit (1984). J.D. from Wayne State University Law School (1989). M.A. in philosophy from Michigan State University (2007). Worked as an investment advisor for 22 years — assistant vice president at Merrill Lynch (1980–1989), then vice president at UBS/Paine Webber (1989–2003). Served in the United States Navy Reserve (1993–2000, 2001–2005), achieving the rank of Lieutenant Commander with a Seabee Combat Warfare Specialist designation. Rochester Hills City Council (1991–1993). Michigan Senate (1995–2002). Michigan lottery commissioner (2003–2007, appointed by Governor Granholm). U.S. House of Representatives, 9th and 14th Districts (2009–2015). Won the 2014 Senate race, then won reelection in 2020 in the most expensive Senate race in Michigan history — more than $100 million in combined spending.
 
@@ -65,7 +65,7 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Peters is the Democratic Party's quiet operator — a former Wall Street investment advisor who became the party's Senate fundraising chief while chairing the committee that oversees the homeland security and cybersecurity industries. His 22-year career at Merrill Lynch and UBS/Paine Webber gave him the finance-class relationships that made him Schumer's choice to run the DSCC for two consecutive cycles. His committee portfolio — Homeland Security (cybersecurity regulation, federal procurement), Armed Services (defense contracting, NDAA), Appropriations (spending), Commerce (tech regulation) — covers every major federal contracting industry. He holds Raytheon/RTX stock ($1,001–$15,000) while sitting on the Armed Services Committee that authorizes the defense budget. He led what the Washington Post called "the most productive congressional term for cybersecurity in history" — legislation that expanded federal cybersecurity requirements, creating new compliance mandates that benefit the cybersecurity contractor industry. The Wall Street-to-fundraising-chief-to-defense/cyber-committee pipeline is the profile's structural story: the finance background produces the donor relationships, the donor relationships produce the DSCC chairmanship, and the committee assignments produce the policy jurisdiction that serves the defense and technology industries.
 
@@ -74,14 +74,14 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Peters brands himself as a bipartisan national security legislator focused on cybersecurity, government oversight, and Michigan manufacturing. The cybersecurity work is substantive — mandatory incident reporting for critical infrastructure, federal workforce development, K-12 cybersecurity protections. But Peters holds defense contractor stock (Raytheon/RTX, $1,001–$15,000 disclosed) while sitting on the Armed Services Committee that authorizes the defense budget, and he voted for the record $886.3 billion NDAA. Every cybersecurity mandate he creates generates compliance spending that flows to the cybersecurity contractor industry. The senator who oversees federal cybersecurity and defense spending has a personal financial stake in the defense industry and a 22-year Wall Street career that built the donor relationships he leveraged to become the party's fundraising chief. The oversight committee chair is financially invested in the industry he oversees.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -94,7 +94,7 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -114,7 +114,7 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door (Finance Variant):** Peters didn't move from government to industry — he moved from industry to government. Twenty-two years as a Wall Street investment advisor, then into politics, bringing the finance-class relationships and sensibility with him. The DSCC chairmanship is the payoff: the party chose a former finance executive to run its fundraising operation, then gave him committee assignments that cover defense, homeland security, and federal procurement. The revolving door spun in the direction that serves institutional interests.
 
@@ -124,7 +124,7 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Invisible Operator:** Peters is routinely described as one of the least-known senators despite chairing the DSCC twice. The Washington Examiner headline: "DSCC chief Gary Peters is obscure no more." The invisibility is functional — the party's fundraising gatekeeper operates more effectively without a high public profile. Low visibility means low scrutiny.
 
@@ -159,7 +159,7 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 
 <!-- auto:govtrack end -->
 
-### Sources
+## Sources
 
 - [FEC Candidate: Gary Peters Campaign Finance Summary](https://www.fec.gov/data/candidate/H8MI09068/) (Tier 1)
 - [FEC: Gary Peters for Michigan (S4MI00355)](https://www.fec.gov/data/candidate/S4MI00355/) (Tier 1)
@@ -211,7 +211,7 @@ content-readiness:: ready
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

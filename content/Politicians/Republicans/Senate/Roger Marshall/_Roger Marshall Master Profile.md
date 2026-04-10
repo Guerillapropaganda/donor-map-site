@@ -30,26 +30,26 @@ related: [[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Pro
 
 ---
 
-### Who They Are
+## Who They Are
 
 Roger Marshall. Republican senator from Kansas since 2021. Previously served in the U.S. House representing Kansas's 1st District (2017-2021) — the "Big First," one of the largest agricultural districts in the country. Serves on the Agriculture, Nutrition, and Forestry Committee; Health, Education, Labor, and Pensions (HELP) Committee; Finance Committee (new in 119th Congress); and Budget Committee. Chairs the Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and the HELP Subcommittee on Primary Health and Retirement Security. Board-certified obstetrician/gynecologist who delivered over 5,000 babies in Great Bend, Kansas. Army Reserve veteran (1984-1991). B.S. in biochemistry from Kansas State University; M.D. from the University of Kansas School of Medicine. Top industry donor: Health Professionals ($667,476 in 2019-2024 cycle). Funding split: 52% large individual contributions, 35% PAC, 8% small donors.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Marshall's donor-class function is to serve as the agribusiness and healthcare industry's physician-legislator — using his medical credentials to lend authority to industry-friendly positions on health policy while using his committee seats to protect Kansas's agricultural establishment from regulation. His top donor industry is Health Professionals ($667K), and he sits on both HELP and Finance (Healthcare Subcommittee), giving the medical industry a doctor in two key committee rooms. On agriculture, he represents Kansas's farming interests by chairing an Agriculture subcommittee while introducing legislation (EATS Act) to prohibit states from imposing animal welfare standards on agricultural products — a direct gift to industrial animal agriculture. His COVID-19 positioning — opposing vaccine mandates while being a practicing physician — served the donor-class dual function of opposing workplace mandates that affected business operations while building a populist brand with the Republican base. The doctor who delivered 5,000 babies became the senator who delivered industry-friendly health and agriculture policy.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Marshall is a physician who swore an oath to "first, do no harm" and then used his Senate platform to undermine COVID-19 public health measures. He opposed vaccine mandates, questioned CDC guidance, and aligned with the anti-public-health wing of his party — while his top donors are the health professionals and healthcare industry that depends on public trust in medicine. He uses his MD credential to critique public health authorities when it serves his political positioning, then leverages the same credential to claim authority on healthcare policy in committee. On agriculture, he claims to fight for Kansas farmers while introducing legislation that benefits industrial animal agriculture operations over family farms. The EATS Act would prohibit California from enforcing animal welfare standards — protecting large-scale industrial producers, not the small-town Kansas farmers Marshall invokes in his rhetoric.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Top industry: Health Professionals ($667,476 in 2019-2024 cycle) — reflecting his physician background and HELP/Finance Committee seats. PAC contributions at 35% of fundraising. Agriculture, pharmaceutical, and insurance industries are significant sectors. Marshall won his 2016 House primary with support from Kansas Farm Bureau and agricultural groups who were angry that incumbent Tim Huelskamp lost his Agriculture Committee seat. His Senate campaign broke Kansas spending records.
@@ -67,7 +67,7 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
@@ -80,7 +80,7 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Agriculture (Core Function #1):
 - Chairs Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology
@@ -105,7 +105,7 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **"Doc Marshall" physician authority:** Uses MD credential to claim special authority on health policy — selectively deployed to support or undermine public health positions depending on political alignment.
 - **"Kansas values" agrarian populism:** Frames agricultural policy as defending Kansas family farmers — while legislation like the EATS Act primarily benefits industrial-scale operations.
@@ -114,7 +114,7 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Two-Audience Problem:** Tells Kansas voters he's a country doctor fighting for their healthcare and farms. Tells health industry donors (through committee positions) that he'll use his physician credential to serve their interests in the HELP and Finance committees.
 - **Genuine Win + Structural Limit:** Restored Kansas's Agriculture Committee representation after Huelskamp lost it — a genuine service to Kansas farming interests. But the structural beneficiary of his agriculture legislation (EATS Act) is industrial animal agriculture, not family farms.
@@ -124,7 +124,7 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Roger Marshall campaign finance summary](https://www.fec.gov/data/candidate/H6KS01179/) (Tier 1)
 - [FEC: Roger Marshall candidate overview](https://www.fec.gov/data/candidate/S0KS00315/) (Tier 1)

@@ -45,7 +45,7 @@ SORT title ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 John Kennedy. Republican Senator from Louisiana since 2017. Former Democrat (switched parties in 2007). Former state treasurer (2000–2017). Serves on Judiciary, Appropriations, Banking, Budget, and Small Business committees. Reelected in 2022, defeating 12 opponents in an open primary with 62% of the vote — avoiding a runoff entirely. Raised $51.6M for the 2019–2024 cycle with $15.9M cash on hand at cycle's end. Oxford and University of Virginia law degrees. Next election: 2028.
 
@@ -53,13 +53,13 @@ Kennedy represents Louisiana — one of the most petrochemical-dependent states 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda.** His committee hearing performances — sharp questioning, memorable soundbites, viral clips — create a national profile as an independent thinker while his voting record is uniformly aligned with Louisiana's petrochemical industry and the financial sector. The brand is the distraction; the voting record is the product. His fundraising reflects this: Oil & Gas contributed $674K (2019–2024 cycle), and the combined Finance/Insurance/Real Estate sector contributed $3.5M. Yet 47% of his funds come from small-dollar donations ($24.3M) — the populist brand converts viral media performances into grassroots cash while the legislative record delivers for energy and finance.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Kennedy campaigns as a populist outsider fighting Washington elites while his voting record serves the energy and financial industries that dominate Louisiana's economy and his donor base. His folksy persona — the "aw shucks" delivery that makes cable news clips — is a rhetorical device that creates distance between his media image (independent, unpredictable, skeptical of power) and his legislative reality (reliable energy industry vote, consistent Wall Street alignment on Banking Committee). He introduced the Transparency in CFPB Cost-Benefit Analysis Act to weaken consumer financial protections, championed repeal of CFPB small business data collection rules, and supported legislation restricting CFPB authority — all while framing deregulation as protecting "ordinary people" from "bureaucracy."
 
@@ -68,7 +68,7 @@ Kennedy campaigns as a populist outsider fighting Washington elites while his vo
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Sector | 2019–2024 Total | Key Components | What They Want | What They Get |
 |--------|----------------|---------------|---------------|---------------|
@@ -85,7 +85,7 @@ Kennedy campaigns as a populist outsider fighting Washington elites while his vo
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Energy / Petrochemical
 
@@ -125,7 +125,7 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 **CFPB and Financial Deregulation:** Kennedy's Banking Committee record is a systematic campaign against CFPB authority spanning multiple Congresses. Legislative actions include: Transparency in CFPB Cost-Benefit Analysis Act (2023, introduced); CRA resolution to reverse CFPB small business data rule (2023, passed Senate, Biden veto); bill to repeal CFPB small business data rule entirely (2025, introduced); CFPB Pay Fairness Act (2025, introduced to cap CFPB compensation at federal pay scales). Senate floor votes: nullified CFPB overdraft fee rule (2025); reversed CFPB arbitration rule (2017). The framing is always consumer protection against "bureaucracy" — the target is always CFPB enforcement capability. The financial sector's $3.49M investment in Kennedy bought a decade-long anti-CFPB legislative campaign.
 
@@ -135,7 +135,7 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit** — Kennedy's populist performances generate real accountability moments: forcing agency officials to answer specific questions under oath, extracting admissions of waste or mismanagement, creating viral pressure on bureaucratic overreach. These are genuine wins for government accountability. The structural limit: the accountability never extends to the energy or financial industries. EPA officials face withering cross-examination; ExxonMobil executives do not. CFPB directors face populist fury; Goldman Sachs lobbyists get Banking Committee access. The accountability is selective — it targets the regulators, never the regulated.
 
@@ -147,7 +147,7 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Folksy metaphors** — Kennedy deploys rural Louisiana metaphors ("this is like going to a flea market with a Rolls-Royce") to appear relatable while making sophisticated political arguments. The metaphors translate elite policy positions into populist language — deregulation becomes "getting government off your back."
 
@@ -174,7 +174,7 @@ See sub-note: [[The Folksy Populist Brand and Petrochemical Reality]]
 
 <!-- auto:govtrack end -->
 
-### Sources
+## Sources
 
 - [FEC Candidate: John Kennedy campaign finance summary](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
 - [FEC Candidate: John Kennedy industry breakdown 2024 cycle](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
@@ -226,7 +226,7 @@ content-readiness:: developed
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S0MD00069/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -244,7 +244,7 @@ content-readiness:: developed
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

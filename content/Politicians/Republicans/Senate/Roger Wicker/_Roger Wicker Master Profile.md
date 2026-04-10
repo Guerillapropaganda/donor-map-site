@@ -41,7 +41,7 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Roger Wicker. Republican, Mississippi. Senior Senator, appointed December 31, 2007 to fill Trent Lott's vacated seat, subsequently elected in 2008 and re-elected in 2012, 2018, and 2024 (current term ends January 2031). Chair, Senate Armed Services Committee (119th Congress) — the committee with jurisdiction over the entire Department of Defense budget, military operations, weapons systems acquisition, and base infrastructure.
 
@@ -51,20 +51,20 @@ Wicker's significance is geographic: Mississippi's economy is structurally depen
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Wicker is the defense-state senator who chairs the defense committee. The structural alignment is total: Mississippi's largest employer (Huntington Ingalls), Mississippi's military bases (Stennis, Keesler, Columbus, Camp Shelby), and the defense contractors who fund his campaigns all depend on the spending Wicker's committee authorizes. He is the #1 Senate recipient of defense industry campaign contributions ($343,065 in 2024 alone). His "Peace Through Strength" proposal calls for $55 billion in additional annual defense spending — with specific line items for shipbuilding programs built at the Pascagoula shipyard in his state. The Marine Corps Commandant calls him "a good friend to the industrial base." The rhetoric is national security. The structure is a self-reinforcing cycle: defense contractors donate to Wicker → Wicker authorizes contracts for their systems → those systems are built in Mississippi → Mississippi's economy depends on continued defense spending → Wicker is re-elected to continue the cycle.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Wicker frames every defense spending increase as national security — "Peace Through Strength," countering the "Axis of Aggressors" (China, Russia, Iran, North Korea). But his specific proposals direct billions to companies that fund his campaign and build systems in his state. The $11.5 billion multi-ship contract to Ingalls Shipbuilding in Pascagoula. The $5.1 billion DDG-51 destroyer procurement. The $2.97 billion Lockheed Martin Aegis BMD contract. Each proposal has a defense justification — and each delivers revenue to his donors and jobs to his state. The contradiction isn't that the ships aren't needed. It's that the senator who decides which ships to build is funded by the companies that build them, represents the state where they're built, and faces no structural incentive to question whether the spending level, the contractor selection, or the cost controls serve taxpayers rather than shareholders.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **OpenSecrets CID:** N00003280
 **FEC Candidate ID:** S8MS00196
@@ -99,7 +99,7 @@ Wicker is the defense-state senator who chairs the defense committee. The struct
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount/Value | Source |
 |------|-------|-------------|--------|
@@ -115,7 +115,7 @@ Wicker is the defense-state senator who chairs the defense committee. The struct
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (systemic):** The self-reinforcing cycle is the defining pattern. Defense contractors donate to Wicker → Wicker authorizes their contracts → contracts build systems in Mississippi → Mississippi's economy depends on continued spending → Wicker is re-elected → cycle repeats. There is no moment where Wicker faces a structural incentive to reduce defense spending, question contractor margins, or reform procurement. His donors, his state's economy, and his re-election all depend on the same outcome: more defense spending.
 
@@ -127,7 +127,7 @@ Wicker is the defense-state senator who chairs the defense committee. The struct
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Wicker's signature is the national security frame that never mentions money. Every spending increase is framed as deterrence, every contract as capability, every budget line as readiness. The "Peace Through Strength" proposal — $55 billion in additional annual spending — is presented as a response to the "Axis of Aggressors," not as a revenue stream for defense contractors. The word "jobs" rarely appears in his defense rhetoric; the framing is consistently about threats, not economics. This is strategic: if defense spending is about security, questioning it is unpatriotic. If it's about jobs, it's an earmark.
 
@@ -156,7 +156,7 @@ On foreign policy, Wicker positions as a reliable hawk — pro-Ukraine, pro-Taiw
 
 <!-- auto:govtrack end -->
 
-### Sources
+## Sources
 
 - [FEC Candidate: Sen. Roger Wicker Campaign Finance Summary](https://www.fec.gov/data/candidate/H4MS01078/) (Tier 1)
 - [FEC: Roger Wicker Candidate Profile (S8MS00196)](https://www.fec.gov/data/candidate/S8MS00196/) (Tier 1)
@@ -203,7 +203,7 @@ content-readiness:: ready
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -251,7 +251,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS01078/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

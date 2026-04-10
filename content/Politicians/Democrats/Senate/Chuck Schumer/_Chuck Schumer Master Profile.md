@@ -39,26 +39,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 [[_Chuck Schumer Master Profile|Chuck Schumer]]. U.S. Senate Majority Leader (2021–present), Senior Senator from New York (1999–present). Previously served in the House (1981–1998). Career campaign fundraising: $100M+. Net worth: ~$1.8 million (modest by Senate standards — the wealth is in the network, not the bank account). The most powerful Democrat in the Senate and the highest-ranking Jewish elected official in American history.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > [[_Chuck Schumer Master Profile|Chuck Schumer]] is the Democratic Party's answer to [[_Mitch McConnell Master Profile|Mitch McConnell]] — not in ideology, but in function. Where McConnell built the Republican donor class's infrastructure through judicial capture and Citizens United, Schumer built the Democratic donor class's infrastructure through Wall Street protection, [[AIPAC - American Israel Public Affairs Committee|AIPAC]] alignment, and a dark money operation that mirrors the very system he publicly denounces. His $10.4 million from securities and investment makes Wall Street his largest donor sector. His $1.73 million from pro-Israel donors makes AIPAC his second-largest ideological bloc. His leadership of Majority Forward and [[Senate Majority PAC|Senate Majority PAC]] ($230M+ in 2022) makes him the architect of Democratic dark money. Schumer's power is the proof that the donor class operates bipartisan: different parties, same structural capture.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Schumer represents New York — one of the most economically unequal states in America. His donor base is Wall Street: [[Goldman Sachs|Goldman Sachs]] ($543K), Citigroup ($484K), JPMorgan ($365K). He publicly fights for middle-class economics while privately protecting carried interest (the $18 billion/decade loophole that lets hedge fund managers pay lower tax rates than their secretaries), killing tech antitrust legislation ($277 million in industry lobbying won), and running a dark money operation he claims to oppose. The contradiction is the same as McConnell's, inverted: McConnell serves the Republican donor class while his Kentucky constituents suffer in poverty. Schumer serves the Democratic donor class while his New York constituents suffer in inequality. Both leaders function identically — as the donor class's floor managers in the Senate.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Wall Street Retainer:
 - [[The Wall Street-Schumer Funding Axis]] — $10.4M career from securities/investment. [[Goldman Sachs|Goldman Sachs]] $543K, Citigroup $484K, JPMorgan $365K. Killed tech antitrust. Protected carried interest. Family embedded in donor class: son-in-law at Blackstone, daughter at Amazon/Meta. The senator doesn't need instructions from Wall Street — his family lives inside it.
@@ -95,7 +95,7 @@ Schumer's evolution on cryptocurrency regulation tracks the industry's political
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance
 
@@ -145,7 +145,7 @@ Schumer's evolution on cryptocurrency regulation tracks the industry's political
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Brooklyn fighter:** Working-class accent, subway references, Sunday press conferences. The aesthetic is outer-borough populist; the donor base is Manhattan finance. The gap between the brand and the funding is Schumer's defining feature.
 2. **The bipartisan deal:** Schumer positions himself as the pragmatist who "gets things done" across the aisle. In practice, "bipartisan" means the compromise that both parties' donor classes can accept.
@@ -249,7 +249,7 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Chuck Schumer Campaign Finance Summary](https://www.fec.gov/data/candidate/H0NY16010/) (Tier 1)
 - [CREW: Majority Forward investigation](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)

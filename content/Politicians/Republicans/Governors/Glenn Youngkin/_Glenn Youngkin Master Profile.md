@@ -30,19 +30,19 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Glenn Youngkin. Born August 9, 1966, Richmond, Virginia. Rice University, Harvard Business School. Spent 25 years at The Carlyle Group — joined 1995, named partner and managing director 1999, became co-CEO in 2018, retired September 2020. Net worth: ~$400–470M (Forbes 2021), derived primarily from a ~2% ownership stake in Carlyle worth approximately $370M at time of exit. Governor of Virginia since January 2022 — won 2021 election by 2.6 points. First Republican to win statewide in Virginia in 12 years. Term-limited; cannot seek reelection in 2025. Widely discussed as a 2028 presidential candidate.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Youngkin IS the donor class — he didn't need to be captured because he's already a private equity billionaire who purchased his own governorship. His $20M+ self-funded campaign (including a $16.5M personal loan to the campaign and $1M to his own PAC) eliminated the need for donor intermediaries: his financial interests and his policy agenda were identical before he took office. The Carlyle Group's portfolio — defense, healthcare, energy, real estate, education technology — maps almost precisely onto the sectors Virginia's governor regulates. The "suburban dad in a fleece vest" brand was an electoral costume; the Carlyle resume is the governing reality. Youngkin is the vault's clearest example of direct plutocratic governance: private equity, having extracted billions from American companies and workers, graduating to direct management of a state government.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Youngkin ran as an anti-establishment "citizen governor" — an outsider businessman who would bring efficiency and common sense to government. His biography is the opposite: 25 years at the most politically connected private equity firm in American history. The Carlyle Group's business model depends on government: defense contracts (Carlyle's defense portfolio), healthcare regulation (Carlyle's healthcare portfolio), energy policy (Carlyle's energy infrastructure), and — most pointedly — the education sector, where Carlyle owns Accelerate Learning, an education technology company that was acquired under Youngkin's co-CEO tenure.
@@ -51,7 +51,7 @@ Glenn Youngkin. Born August 9, 1966, Richmond, Virginia. Rice University, Harvar
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Self-Funding — The Direct Purchase:
 - Contributed $1M to his own leadership PAC in March 2021
@@ -96,7 +96,7 @@ The education culture war served two additional functions beyond electoral victo
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Youngkin IS the donor class — $700M from Carlyle Group, $20M+ self-funded campaign. No intermediary needed. His 6.7 million Carlyle shares overlap directly with Virginia's regulatory jurisdiction. The "suburban dad in a fleece vest" is a private equity billionaire governing for his own portfolio.*
 
@@ -128,7 +128,7 @@ The education culture war served two additional functions beyond electoral victo
 > **RGGI withdrawal → fossil fuel donor return:** Virginia's 2022 withdrawal from the Regional Greenhouse Gas Initiative (a functioning carbon market) directly benefits fossil fuel donors. The decision had no economic rationale — Virginia's power sector was profiting from RGGI credits. The withdrawal is pure donor service.
 
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The fleece vest:** Youngkin's signature campaign wardrobe — an off-the-rack fleece vest — was a studied costume choice that communicated "suburban dad" rather than "private equity billionaire." It was one of the more effective personal branding decisions in modern Virginia politics. The costume worked; the Carlyle resume is what governs.
 2. **The citizen-governor:** "I'm not a politician, I'm a businessman." True in the sense that Youngkin spent 25 years in private equity rather than electoral politics. False in the sense that Carlyle is one of the most politically engaged enterprises in American capital — its business model is built on government relationships.
@@ -150,7 +150,7 @@ His liabilities: the 2024 election cycle revealed that Republican primary voters
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Youngkin's education policy victories (school choice, curriculum restriction, DEI removal) are real and complete; however, they are limited to regulatory/cultural domain and stop short of threatening his actual wealth source (Carlyle Group portfolio companies). His education policy serves the private equity education tech sector without touching private equity's tax treatment or regulatory protection.
 
@@ -160,7 +160,7 @@ His liabilities: the 2024 election cycle revealed that Republican primary voters
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Glenn Youngkin donor profile and campaign finance](https://www.congress.gov/search?q=G&searchResultViewType=expanded) (Tier 1)
 - [NBC Washington: GOP Candidate's Private Equity Resume Draws Scrutiny in Va.](https://www.nbcwashington.com/news/local/gop-candidates-private-equity-resume-draws-scrutiny-in-va/2716941/) (Tier 2)

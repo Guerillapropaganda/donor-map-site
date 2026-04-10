@@ -31,19 +31,19 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Graham Cunningham Platner. Born September 1, 1984. Oyster farmer (owns/operates Waukeag Neck Oyster Co., Downeast Maine). Military veteran: 8 years total service, including 3 combat tours in Iraq (Ramadi, Fallujah) and service in Afghanistan. Transitioned from security contractor to oyster farming (2018-present). Launched Senate campaign August 19, 2025. Age: 40. Background is explicitly working-class/rural (farming, military) rather than professional-credentialed. Married, operates oyster farm with wife Amy and business partner.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Graham Platner is the clearest establishment vs. progressive test case in 2026 Senate races. Both [[_Bernie Sanders Master Profile|Bernie Sanders]] AND [[_Elizabeth Warren Master Profile|Elizabeth Warren]] have endorsed him — a rare unified progressive endorsement — against Maine's Democratic establishment and DSCC (Democratic Senatorial Campaign Committee). [[_Chuck Schumer Master Profile|Chuck Schumer]] and the national party machinery have backed Governor [[_Janet Mills Master Profile|Janet Mills]] as their preferred candidate. The Maine primary is a direct proxy war between the Sanders-Warren progressive coalition and the Schumer machine's establishment candidate. Follow the money: where does Schumer's candidate get funded vs. Platner? Platner represents the test of whether progressive unity (Sanders + Warren together) can overcome establishment coordination + DSCC support. His victory would be the strongest signal that progressives can force establishment candidates out of primaries. His loss would suggest that DSCC coordination still determines outcomes even against unified progressive opposition.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Platner is explicitly anti-establishment, anti-DSCC, and positioned as an outsider (veteran, oyster farmer, not a career politician). But he has secured the backing of Sanders and Warren — the two most prominent national progressives — which makes him simultaneously establishment-aligned (within the progressive coalition) and anti-establishment (against the mainstream Democratic apparatus). The question is whether this progressive establishment backing is sufficient to overcome the Democratic establishment's resources and coordination. Mills has been backed by Schumer and Senate Minority Leader Catherine Cortez Masto; Platner has been backed by progressive senators. In primary terms, this is a high-stakes test of whether the progressive coalition's endorsements matter more than the establishment apparatus's resources.
@@ -157,7 +157,7 @@ Maine's Senate seat is currently held by Republican [[_Susan Collins Master Prof
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Platner raised $4.6M in Q4 2025 from 80,000+ individual donors averaging $33. Mills raised $2.7M backed by DSCC joint fundraising. The Maine primary is testing whether grassroots small-dollar fundraising can beat institutional party machinery.*
 
@@ -187,7 +187,7 @@ Maine's Senate seat is currently held by Republican [[_Susan Collins Master Prof
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The outsider authenticity:** "I'm an oyster farmer, not a career politician." Platner's positioning emphasizes his distance from the political establishment. This is distinct from both El-Sayed (credentials-based) and McMorrow (viral moment-based).
 
@@ -236,7 +236,7 @@ If Mills defeats Platner despite Sanders + Warren backing:
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Platner's dual Sanders-Warren endorsement represents genuine progressive coalition-building that has achieved actual primary advantage (48% polling vs. Mills' 36%). The victory is real: grassroots small-dollar fundraising ($4.6M in Q4 2025) outpaced Mills' establishment-backed model ($2.7M). However, the structural limit is visible: the general election against Susan Collins will require exponentially more resources, and Platner's independent brand may not transfer from a favorable primary environment to a general election that rewards institutional party resources and access to billionaire-class super PACs. His win would prove something genuine about progressives' capacity to win primaries; it would not automatically prove their capacity to win general elections.
 
@@ -244,7 +244,7 @@ If Mills defeats Platner despite Sanders + Warren backing:
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: Graham Platner Candidate Profile](https://www.fec.gov/data/candidate/S6ME00373/) (Tier 1)
 - ~~[FollowTheMoney.org: Graham Platner Maine Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46011295)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)

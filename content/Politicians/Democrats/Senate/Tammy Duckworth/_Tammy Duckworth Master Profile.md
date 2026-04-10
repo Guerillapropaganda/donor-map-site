@@ -59,7 +59,7 @@ SORT title ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Tammy Duckworth. Democrat, Illinois. Senator since 2017. Purple Heart recipient who lost both legs and partial use of her right arm when her Black Hawk helicopter was shot down in Iraq (November 2004). First Thai-American senator, first senator to give birth while in office, first female double amputee in Congress. Chairs the Armed Services Subcommittee on Airland — overseeing Army and Air Force planning, operations, and National Guard/Reserve policy. Also serves on Commerce, Environment and Public Works, and Small Business committees.
 
@@ -70,7 +70,7 @@ Duckworth's military sacrifice gives her unassailable credentials on defense and
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress.** Her Armed Services Committee seat and combat veteran status make her the ideal Democratic validator for bipartisan defense spending consensus. The biographical shield and the committee jurisdiction are structurally inseparable: the combat wounds that make questioning her defense spending positions politically impossible also make her the most credible Democratic voice for authorizing the budgets that flow to the contractors who fund her campaigns and employ her constituents.
 
@@ -78,14 +78,14 @@ This is not a corruption story. It is a structural alignment story. Duckworth's 
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Duckworth campaigns on veteran care and military family support while sitting on the committee that authorizes defense spending benefiting the contractors who fund her campaigns. She voted for every NDAA from her first election through FY 2025 — authorizing hundreds of billions annually to the same defense contractors (Boeing, Lockheed, Raytheon) whose PACs contribute to her campaigns. Her single vote against the FY 2026 NDAA was not about spending levels — it was about Trump deploying troops into American cities. The contradiction is structural, not personal: the Armed Services Committee's bipartisan consensus on spending increases serves both Democratic defense-state senators and Republican defense hawks simultaneously.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Sector | Key Donors | Amount/Scale | What They Want | What They Get |
 |--------|-----------|-------------|---------------|---------------|
@@ -102,7 +102,7 @@ This is not a corruption story. It is a structural alignment story. Duckworth's 
 
 ---
 
-### The NDAA Voting Record
+## The NDAA Voting Record
 
 | Fiscal Year | Vote | Notes |
 |-------------|------|-------|
@@ -138,7 +138,7 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Combat Veteran Authority:** Duckworth's injuries make her the most credible Democratic voice on military issues. She deploys this authority selectively to validate defense spending and to shut down attacks on her patriotism. The authority is genuine — but its structural function is to make defense spending positions unquestionable.
 
@@ -150,7 +150,7 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Primary):** Duckworth's veteran care advocacy produces real outcomes — billions in caregiver funding, suicide prevention, healthcare access. The structural limit: veteran care operates downstream of the defense spending pipeline. Supporting troops after they serve does not challenge the spending decisions that deploy them. The genuine wins and the structural function coexist without tension because they operate at different levels of the same system.
 
@@ -160,7 +160,7 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622) (Tier 1)
 - [FEC Candidate: Tammy Duckworth campaign finance summary](https://www.fec.gov/data/candidate/H6IL06141/) (Tier 1)

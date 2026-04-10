@@ -33,7 +33,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 John Boozman is the senior senator from Arkansas and chairs the Senate Agriculture, Nutrition, and Forestry Committee — the Senate counterpart to Glenn Thompson's House Agriculture Committee. Together, the two write the Farm Bill. Boozman also sits on the Appropriations Committee, where he chairs the Military Construction and Veterans Affairs subcommittee.
 
@@ -43,7 +43,7 @@ Arkansas is the #1 rice-producing state in America, the #3 poultry state, and ho
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 John Boozman chairs the Senate Agriculture Committee while representing the state that houses Tyson Foods' headquarters. Tyson employees have donated over $120,000 to his campaigns — his third-largest career donor source. His committee staff has meat industry connections: his policy director previously worked for the National Pork Producers Council. When his fellow Republicans tried to rein in meatpacking monopolies' economic power, Boozman resisted.
 
@@ -51,14 +51,14 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Boozman chairs the committee responsible for SNAP (food stamps), which feeds 42 million Americans and is the largest line item in the Farm Bill (~80% of spending). Arkansas has one of the highest SNAP participation rates in the country — 1 in 7 Arkansans receives food assistance. Boozman's committee negotiations consistently prioritize farm subsidy expansion (for his agribusiness donors) over SNAP protection (for his constituents). The senator representing one of the hungriest states in America chairs the committee that feeds them — and his donors are the companies that profit from the food system that keeps them hungry.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Tyson Foods employees: $120,000+ career (3rd-largest donor source)
@@ -90,7 +90,7 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Tyson Foods → Meatpacking Protection
 | Date | Type | Event | Donor | Amount | Gap |
@@ -112,7 +112,7 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door (staff level):** Boozman's policy director previously worked for the National Pork Producers Council — a major meatpacking lobbying organization. The revolving door at the staff level is as important as at the member level: committee staff write the legislative language, negotiate the details, and shape the Farm Bill's provisions. Industry-trained staff produce industry-friendly legislation.
 
@@ -124,7 +124,7 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Arkansas is an agricultural state"** — The identity framing that makes agribusiness advocacy synonymous with representing the state. Identical to Murkowski's "Alaska is an energy state." The function: position corporate agriculture's interests as the entire state's interests.
 
@@ -134,7 +134,7 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: John Boozman donor profile](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
 - [FEC Candidate: John Boozman contributors](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)

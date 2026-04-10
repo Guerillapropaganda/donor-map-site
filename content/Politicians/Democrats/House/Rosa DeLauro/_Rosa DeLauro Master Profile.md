@@ -37,7 +37,7 @@ donors: [[Lockheed Martin]] [[AIPAC - American Israel Public Affairs Committee|A
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Rosa DeLauro. Democrat, Connecticut's 3rd District (New Haven). First elected 1990. Ranking Member, House Appropriations Committee — the single most powerful spending committee in the House. As ranking member, she holds ex officio status on all 12 Appropriations subcommittees, with primary jurisdiction over the Labor, Health and Human Services, Education, and Related Agencies subcommittee.
 
@@ -47,20 +47,20 @@ Married to Stanley Greenberg, founding partner of Greenberg Quinlan Rosner Resea
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 DeLauro is the working-class progressive who controls the spending. Her Appropriations gavel gives her direct authority over federal spending allocations — and the industries that depend on those allocations fund her campaign. The contradiction isn't ideological but structural: the same committee position that lets her champion child nutrition and labor protections also makes her the person defense contractors, healthcare companies, and pro-Israel lobbies need to keep funded. Her progressive brand is real — the child tax credit, food safety advocacy, and labor rights record are genuine wins. But they coexist with $130,000+ from Lockheed Martin, $172,000+ from the Israel lobby, and a healthcare donor base that benefits from her HHS appropriations jurisdiction. The spending power is the product, and the donors are buying access to it.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > DeLauro brands as a working-class champion from New Haven's Italian-American community — fighting for child nutrition, labor rights, and food safety. Yet her top donor sectors are defense contractors (Lockheed Martin/Sikorsky: $130,000+), the Israel lobby (AIPAC and affiliates: $172,000+), and health professionals ($121,000+ in the 2021-22 cycle alone). She supports Medicare for America — which preserves private insurers — rather than single-payer Medicare for All. She publicly fights for drug pricing reform while receiving substantial healthcare industry funding. Her husband's consulting firm has had business ties to Monsanto, raising questions about her food safety advocacy. The progressive wins are real, but they stop precisely at the line where they'd threaten the donor industries that fund her committee position.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **OpenSecrets CID:** N00000615
 **FEC Candidate ID:** H0CT03072
@@ -86,7 +86,7 @@ DeLauro is the working-class progressive who controls the spending. Her Appropri
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -100,7 +100,7 @@ DeLauro is the working-class progressive who controls the spending. Her Appropri
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** DeLauro's child tax credit work reduced child poverty to historic lows — a real, material victory for working families. But she supports Medicare for America (preserving private insurers) rather than single-payer, and her drug pricing reform came late after decades of pharma dominance. The wins are genuine but structurally bounded by what her healthcare and pharma donors can absorb.
 
@@ -112,7 +112,7 @@ DeLauro is the working-class progressive who controls the spending. Her Appropri
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 DeLauro employs a blue-collar combativeness that masks the donor-class alignment. Her signature rhetorical technique is the passionate personal connection — invoking her New Haven Italian-American heritage, her working-class constituents, her personal health battles (she is a cancer survivor) to establish authenticity. The phrase "I'll be damned" appears in her defense contractor advocacy, framing corporate appropriations as jobs-for-workers rather than profits-for-shareholders.
 
@@ -120,7 +120,7 @@ On healthcare, she leads with children and families — the child tax credit, sc
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Rosa DeLauro donor profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
 - [FEC: Rosa DeLauro candidate profile](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)

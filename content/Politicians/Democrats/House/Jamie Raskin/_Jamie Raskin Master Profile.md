@@ -34,7 +34,7 @@ donors:
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Jamie Raskin. Democrat, Maryland's 8th District (Montgomery County, suburban Washington DC). First elected 2016. Ranking Member, House Judiciary Committee — the committee with jurisdiction over constitutional law, civil liberties, antitrust, immigration, criminal justice, and the federal courts. Previously served as Ranking Member of the House Oversight and Accountability Committee.
 
@@ -46,20 +46,20 @@ Married to Sarah Bloom Raskin, former Federal Reserve official and former Maryla
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand — the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democratic defense. His brand is powerful because it's largely authentic: he actually is a constitutional law professor, he actually did lead the impeachment, and his campaign finance reform positions are genuinely held. The tension isn't between rhetoric and record on policy votes — it's between the anti-corruption brand and the fundraising structure that sustains it. Raskin holds $5.9M+ cash on hand — substantial for a Maryland House member. 46% of his funding comes from large individual contributions, concentrated among Montgomery County's professional class: lawyers, professors, doctors. His wife received a $1.5M stock payout from a fintech company while he had oversight jurisdiction over fintech regulation, and he delayed disclosure by eight months. The campaign finance reformer's own finances reveal the professional-class donor structure he nominally critiques.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Raskin sponsors the "Get Foreign Money Out of U.S. Elections Act" and the "Shareholders United Act" requiring shareholder approval for corporate political spending. He frames himself as the anti-dark-money crusader. Yet his own campaign holds $5.9M+ in cash, funded 46% by large individual contributions from the professional class — lawyers, professors, consultants — who are precisely the credentialed elite that benefits from the democratic institutions Raskin defends. His wife Sarah Bloom Raskin received a $1.5M stock payout from a Colorado fintech company after leaving the Federal Reserve — disclosure was delayed 8 months, triggering an ethics complaint. Raskin has Judiciary Committee jurisdiction over fintech/crypto regulation. The anti-corruption crusader's family has directly profited from the fintech sector he regulates. No evidence his positions were compromised — but the appearance is the exact "two-audience problem" his vault pattern framework identifies.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **OpenSecrets CID:** N00037036
 **FEC Candidate ID:** H6MD08457
@@ -103,7 +103,7 @@ Raskin is the constitutional scholar who became the Democratic Party's anti-corr
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -118,7 +118,7 @@ Raskin is the constitutional scholar who became the Democratic Party's anti-corr
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Two-Audience Problem:** Raskin's public brand is the anti-corruption constitutional scholar fighting dark money and corporate power. His fundraising reality is a $5.9M war chest funded primarily by large individual contributions from professional-class donors. He preaches campaign finance reform while maximizing individual fundraising within legal limits. His leadership PAC operates within the same system he publicly critiques.
 
@@ -130,7 +130,7 @@ Raskin is the constitutional scholar who became the Democratic Party's anti-corr
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Raskin's signature is the constitutional argument delivered with emotional weight. His impeachment presentation — conducted weeks after his son Tommy's suicide — combined legal precision with personal grief in a way that no other Democratic politician could replicate. He quotes the Constitution the way a preacher quotes scripture: with authority, from memory, with moral urgency.
 
@@ -140,7 +140,7 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jamie Raskin donor profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
 - [FEC: Jamie Raskin candidate profile](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
@@ -178,7 +178,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412708) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

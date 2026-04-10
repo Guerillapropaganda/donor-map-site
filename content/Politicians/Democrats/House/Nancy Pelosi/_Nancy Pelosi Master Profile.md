@@ -80,7 +80,7 @@ donors: [[Michael Bloomberg]], [[Haim Saban]], [[AIPAC - American Israel Public 
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Nancy Patricia Pelosi (née D'Alesandro). Born March 26, 1940, Baltimore, Maryland. Democrat. Speaker of the United States House of Representatives (2007–2011, 2019–2023). U.S. Representative from California's 5th/8th/11th/12th district since 1987. House Democratic Leader (2003–2023). First woman to serve as Speaker of the House.
 
@@ -88,7 +88,7 @@ The daughter of Baltimore machine politics (father Thomas D'Alesandro Jr. was ma
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — $1.6 billion since 2002. Her fundraising power is the structural basis of her political power: she controls who gets resources, which means she controls who wins. The DCCC dues system, the consultant blacklist, the committee assignment leverage — these aren't personal management decisions. They're the structural mechanisms that ensure only donor-compatible Democrats advance.
 
@@ -96,7 +96,7 @@ Her legislative record is simultaneously genuine — the ACA, CHIPS, IIJA, IRA a
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Pelosi simultaneously:
 — Built the most effective legislative operation in modern congressional history (ACA, two impeachments, CHIPS, BBB through the House)
@@ -108,7 +108,7 @@ The contradiction is the system itself: Pelosi's legislative skill is real, and 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 Key institutional relationships and their policy returns — each links to a detailed sub-note:
 
@@ -126,7 +126,7 @@ ACA (220-215, preserved private insurance, expanded coverage to 20M while health
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Pelosi's legislative accomplishments (ACA, CHIPS, IIJA, IRA all passed the House; prevailing wage embedded in infrastructure bills; IBEW gained 5x prevailing wage bonus in IRA) represent genuine wins for working-class constituencies and union members. Her skills as a legislative operator and vote-whip are real. However, the structural limit is the Senate: Build Back Better passed the House at $3.5 trillion, then the Senate (where donor-class structural control is more direct) killed 90% of it. Pelosi delivers what donors allow. She doesn't force structural conflict.
 
@@ -153,7 +153,7 @@ $618,000+ from pro-Israel interest groups over her career. $149,150 from AIPAC P
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Tech Industry
 
@@ -183,7 +183,7 @@ $618,000+ from pro-Israel interest groups over her career. $149,150 from AIPAC P
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Institutional Frame:** Pelosi never makes it personal. Biden's exit was about "down-ballot races," not Biden's capacity. The Squad was "four people" — a caucus math problem, not a political threat. Every decision is framed as institutional necessity, which makes opposition to her seem like opposition to the party itself.
 
@@ -197,7 +197,7 @@ $618,000+ from pro-Israel interest groups over her career. $149,150 from AIPAC P
 
 ---
 
-### Class Analysis — The Gatekeeper
+## Class Analysis — The Gatekeeper
 
 Pelosi's $1.6 billion in career fundraising isn't personal enrichment — her wealth comes from investments, not campaign funds. It's institutional power. Every Democratic House member who wants a committee assignment, campaign resources, or leadership support must demonstrate they can raise donor-class money. Pelosi's fundraising apparatus is the filter that ensures only donor-compatible Democrats advance.
 
@@ -207,7 +207,7 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 
 ---
 
-### Sources
+## Sources
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 
@@ -224,7 +224,7 @@ profile-status:: ready
 research-status:: ready — Full citation pass complete. $1.6B fundraising machine, DCCC blacklist/dues system, stock trading record (Visa IPO, NVDA CHIPS), Biden exit orchestration, AIPAC $618K+, donation-to-policy timeline (10 entries). All ### headers, source format standardized, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

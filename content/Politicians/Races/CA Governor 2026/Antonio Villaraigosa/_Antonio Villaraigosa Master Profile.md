@@ -34,26 +34,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Antonio Villaraigosa. Former Mayor of Los Angeles (2005–2013). Former California Assembly Speaker (1998–2000). 2018 California governor candidate (lost primary to Newsom with 10.6% vs. Newsom's 61.6%). 2026 California governor candidate. Former union organizer turned developer-friendly machine politician. Net worth: $800,000–$2.5 million (2023 disclosure).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Villaraigosa is the real estate and development industry's preferred candidate — his entire political trajectory reveals the same coalition: developer money funds his campaigns, building trades unions provide labor legitimacy, and pro-development policy flows in both directions. His LA mayoral record was defined by the Safer Cities Initiative and downtown gentrification. His 2018 governor run was backed by charter school billionaires (Reed Hastings, $7M; Eli Broad, $1.5M) aligned with his position against teachers unions. The 2026 comeback is the same donor class attempting a second run at the governorship through a tested machine politician. The question is whether 2026 voters will see it as a recalibration of the 2018 loss, or an outdated LA machine politics model in a field dominated by finance, tech, and labor.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Villaraigosa presents as a progressive champion of labor — he was a union organizer before his political career, served in the Assembly during the 1990s labor upsurge, and currently has the Building Trades endorsement. But his entire mayoral record and donor base reveal a different story: as mayor, he was the architect of policies that enriched developers and resulted in widespread gentrification of downtown LA and displacement of working-class residents. The Building Trades endorsement itself is the mechanism of the contradiction — construction unions support him because more building = more work, regardless of who profits from that building or who is displaced. Villaraigosa is the definitive example of the donor-class alliance: use labor's political legitimacy (endorsement, campaign infrastructure) to advance pro-capital policy (development, low taxes on real estate), then distribute just enough construction work to union members to keep them aligned. The union endorsement is not evidence he serves workers — it is evidence of the structural alignment between construction unions and real estate capital.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Real Estate Developer Donors (Direct Campaign):
 - Kurt Rappaport (CEO, Westside Estate Agency): $72,800 (maxed out) — largest individual donor
@@ -80,7 +80,7 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Villaraigosa secured real construction union endorsements and championed housing development policies that created actual jobs for union members. But those policy wins stopped short of threatening real estate developer margins or requiring affordable housing minimums. More building meant more work, but displacement of working-class residents continued and downtown rents skyrocketed. The pattern: union endorsement legitimized development that benefited developers.
 
@@ -94,7 +94,7 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Real Estate / Development
 
@@ -140,7 +140,7 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Union Organizer Origin Story:** Emphasizes decades-ago labor organizing work, not the developer-friendly governance that followed
 2. **The LA Machine Endorsement Play:** Building Trades union endorsement positioned as "broad labor support" despite narrow construction industry focus
@@ -149,7 +149,7 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 ---
 
-### Sources
+## Sources
 
 - ~~[FollowTheMoney.org: Villaraigosa 2026 Governor Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Antonio%20Villaraigosa#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Congress.gov: Antonio Villaraigosa donor profile](https://www.congress.gov/search?q=Villaraigosa&searchResultViewType=expanded) (Tier 1)
@@ -167,7 +167,7 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 profile-status:: ready
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -182,7 +182,7 @@ content-readiness:: ready
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

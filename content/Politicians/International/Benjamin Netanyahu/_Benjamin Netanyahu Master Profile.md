@@ -43,26 +43,26 @@ donors: [[Miriam Adelson]], [[Haim Saban]], [[AIPAC - American Israel Public Aff
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Benjamin Netanyahu. Prime Minister of Israel (1996–1999, 2009–2021, 2022–present). Leader of Likud Party. Currently on trial for bribery, fraud, and breach of trust in three separate corruption cases. Political survival depends on a triangular power structure: American mega-donor money ($106M from [[Miriam Adelson|Miriam Adelson]] to Trump alone), Israeli media monopoly (Israel Hayom at 27.4% readership), and U.S. government protection (military aid, UN vetoes, diplomatic immunity). The architect of a governance model where state regulatory power becomes a commodity traded for media coverage and donor enrichment.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Netanyahu's political life reveals what donor-first class analysis predicts: politicians are not puppets but agents serving a donor class that controls the material conditions of their political survival. American mega-donor money is not peripheral to Israeli politics. It is structurally constitutive. Over 90% of Netanyahu's campaign funding originates from U.S. sources. The corruption trials are not departures from his model of governance — they are the model documented in court. He traded Israeli state power (regulatory benefits to Bezeq worth $250M+, legislation favoring specific media outlets) for the money and media coverage required to stay in power. The process works: he governed for 16 years while under indictment, protected by a donor network that could not afford to lose him.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Netanyahu governs as a democrat defending Israeli security and democracy. His actual governance systematically captures state resources for oligarchs and foreign donors. Three corruption cases document direct trades of state regulatory power for personal financial benefit and media coverage. He negotiated with media owners for favorable coverage in exchange for legislation. He advanced oligarch business interests in exchange for news coverage. He faces up to 10 years imprisonment. Yet in December 2024, while the prosecution rested and his trial proceeded, he requested a presidential pardon — not through resignation and new elections, but while holding power. This is what happens when a politician's donor network is more powerful than the electorate.
 
 ---
 
-### The Donor Class Map — American Layer
+## The Donor Class Map — American Layer
 
 [See detailed note: [[The American Donor Network]]]
 
@@ -70,7 +70,7 @@ Three families + Adelson megadonor layer = $50M+ per election cycle flowing to N
 
 ---
 
-### The Donor Class Map — Israeli Layer
+## The Donor Class Map — Israeli Layer
 
 [See detailed note: [[Israel Hayom and the Corruption Cases]]]
 
@@ -78,7 +78,7 @@ Media oligarchs (Adelson/Israel Hayom, Mozes/Yedioth), telecom oligarchs (Elovit
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **Security framing:** All policy is reframed as necessary for Israeli security. Annexation becomes prevention. Settlement expansion becomes defense. Surveillance becomes counterterrorism. The class analysis disappears into existential language.
 
@@ -94,7 +94,7 @@ Media oligarchs (Adelson/Israel Hayom, Mozes/Yedioth), telecom oligarchs (Elovit
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Netanyahu's governance has produced genuine military and strategic expansion: 50,000 settlement units approved in 2025 (4x previous record), expanded regional partnerships (Abraham Accords), sustained U.S. military aid ($3.8B annually). These are real policy victories. However, the structural limit is that expanded military power cannot resolve the political-economy contradictions he governs through: the corruption trials continue, international pressure mounts, the military dominance doesn't create political legitimacy. His genuine military wins are constrained by the structural instability of governance-by-oligarch-quid-pro-quo.
 
@@ -104,7 +104,7 @@ Media oligarchs (Adelson/Israel Hayom, Mozes/Yedioth), telecom oligarchs (Elovit
 
 ---
 
-### Class Analysis — Five Beneficiary Categories
+## Class Analysis — Five Beneficiary Categories
 
 > [!money]
 > 1. **Media oligarchs:** Adelson's Israel Hayom ($50M+ investment), Mozes' Yedioth (protected from competition). Netanyahu guarantees their market position through legislation targeting competitors.
@@ -143,7 +143,7 @@ Netanyahu's coalition depends on Ben-Gvir and Smotrich (20 of 67 seats). Settlem
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Contribution/Event | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|----------------|-----------|
@@ -160,7 +160,7 @@ Netanyahu's coalition depends on Ben-Gvir and Smotrich (20 of 67 seats). Settlem
 
 ---
 
-### Analytical Patterns (Continued)
+## Analytical Patterns (Continued)
 
 **The Genuine Win + Structural Limit** — Netanyahu has delivered genuine policy victories for the oligarchs and settlers funding him: 50,000 settlement units approved for 2025 (4x previous records), $110B domestic defense industry expansion, media monopoly protection through legislation targeting competitors. These are real, material gains for his donor base. However, the structural limit is visible: despite years in power and complete control over the settlement expansion agenda, the international accountability pressure (ICJ investigations, UN resolutions) has not been eliminated through donor power. Structural advantage is asymmetric: donors can guarantee domestic policy and U.S. protection, but cannot eliminate international legal exposure entirely.
 
@@ -168,7 +168,7 @@ Netanyahu's coalition depends on Ben-Gvir and Smotrich (20 of 67 seats). Settlem
 
 ---
 
-### Sources
+## Sources
 
 - [BuzzFeed News: Three American families bankrolling Netanyahu](https://www.buzzfeednews.com/article/sheerafrenkel/meet-the-american-families-bankrolling-netanyahus) (Tier 2)
 - [CNN: Netanyahu leaves Trump meeting empty-handed](https://www.cnn.com/2025/04/09/middleeast/analysis-netanyahu-trump-tariffs-iran-intl-latam) (Tier 2)

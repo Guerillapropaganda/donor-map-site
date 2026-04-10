@@ -37,7 +37,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Zoe Lofgren represents California's 18th Congressional District (Silicon Valley — San Jose, Santa Clara County) and is the Ranking Member of the House Science, Space, and Technology Committee. She also serves on the Judiciary Committee. She has served in Congress since 1995, making her one of the longest-serving current House members.
 
@@ -47,7 +47,7 @@ Key prior roles include: member of the January 6th Select Committee (with Liz Ch
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Zoe Lofgren is Silicon Valley's member of Congress — funded by Apple, Google, Meta, Cisco, and the entire tech ecosystem, representing the district where those companies are headquartered. When Big Tech antitrust legislation came before the Judiciary Committee, Lofgren was the critical Democratic holdout who sided with Republicans to oppose bills that would have imposed nondiscrimination standards, required structural separation, mandated data portability, and prohibited mergers for dominant platforms. Her donors' business models depended on killing those bills. Lofgren killed them.
 
@@ -55,14 +55,14 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Lofgren served on the January 6th Committee investigating threats to democracy. She co-authored the Presidential Election Reform Act. She has built a reputation as a constitutional defender and pro-democracy champion. But when the most significant threat to democratic competition in the marketplace — Big Tech monopoly power — came before her Judiciary Committee, Lofgren sided with the monopolists. She opposed every major antitrust bill targeting Apple, Google, Meta, and Amazon — her top donors. The defender of political democracy blocked the defense of economic democracy. The January 6th Committee member who investigated a threat to elections protects the corporate power concentration that threatens market competition. Democracy in politics, monopoly in business.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Tech industry: dominant sector (Apple, Google/Alphabet, Meta, Cisco, Adobe)
@@ -90,7 +90,7 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Big Tech → Antitrust Opposition
 | Date | Type | Event | Donor | Amount | Gap |
@@ -111,7 +111,7 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (antitrust):** Silicon Valley workers and consumers would benefit from Big Tech antitrust enforcement — lower prices, more competition, more startup opportunities, better labor bargaining power. Lofgren's opposition to antitrust bills served her corporate donors (Apple, Google, Meta) at the expense of the broader Silicon Valley ecosystem. The donor class (Big Tech executives) overrode the constituency interest (competitive markets) by funding the congresswoman who blocked the legislation.
 
@@ -123,7 +123,7 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Innovation, not regulation"** — The tech industry framing for opposing antitrust enforcement. The function: make monopoly protection sound like protecting American competitiveness and innovation.
 
@@ -133,7 +133,7 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Zoe Lofgren donor profile](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
 - [Congress.gov: Zoe Lofgren](https://www.congress.gov/member/zoe-lofgren/L000397) (Tier 1)

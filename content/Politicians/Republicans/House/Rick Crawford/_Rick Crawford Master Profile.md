@@ -40,7 +40,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Rick Crawford represents Arkansas's 1st Congressional District (the Delta — eastern Arkansas rice country, Jonesboro, the Mississippi River corridor) and is Chairman of the House Permanent Select Committee on Intelligence. He also serves as a senior member of the House Agriculture Committee, where he co-founded the Congressional Rice Caucus and the Congressional Chicken Caucus. He has served in Congress since 2011.
 
@@ -52,7 +52,7 @@ The Intelligence Committee has jurisdiction over the CIA, NSA, DIA, NRO, and all
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Rick Crawford is the loyalty appointee who chairs America's intelligence oversight committee — a former EOD technician and Arkansas rice farmer who got the gavel not because of intelligence expertise but because his predecessor was too supportive of Ukraine and too independent of Trump. The Intelligence Committee chairmanship is the most consequential gavel purchase in the 119th Congress: the person overseeing CIA covert operations, NSA surveillance, and FISA authorities was selected specifically for their willingness not to challenge the president.
 
@@ -60,14 +60,14 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > The Intelligence Committee exists to provide congressional oversight of the executive branch's most powerful and secretive agencies. Crawford got the chairmanship precisely because his predecessor exercised that oversight too aggressively — Turner challenged Trump on Ukraine, supported NATO, and questioned Russian influence. Crawford's appointment signals that the Intelligence Committee chair will not challenge the executive on sensitive intelligence matters. The committee created to check executive power is now chaired by someone selected for their willingness not to check it. Crawford's first major action: supporting an 18-month FISA Section 702 extension that gives the Trump administration continued warrantless surveillance authority. The oversight committee's chair is extending the surveillance powers he's supposed to oversee. The fox doesn't guard the henhouse — the fox was hired specifically because the last guard was too vigilant.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Agribusiness: dominant sector (rice, poultry, crop production — Arkansas Delta economy)
@@ -95,7 +95,7 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Trump Loyalty → Intelligence Committee Chairmanship
 | Date | Type | Event | Donor | Amount | Gap |
@@ -117,7 +117,7 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Loyalty Purchase (Intelligence Committee):** Crawford's Intelligence Committee chairmanship is the vault's clearest case of a gavel purchased with political loyalty rather than donor money. Turner was removed for independence on Ukraine/Russia. Crawford was installed for compliance. The Intelligence Committee — the most sensitive oversight body in Congress — is now chaired by someone whose primary qualification is willingness not to challenge the president. This pattern (loyalty as currency for committee power) parallels Brian Mast's Foreign Affairs chairmanship (AIPAC money + Trump personal installation) but substitutes political allegiance for donor funding.
 
@@ -127,7 +127,7 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Protecting national security"** — The default framing for every Intelligence Committee action. The function: make loyalty-driven decisions sound like security-driven decisions. Extending FISA surveillance isn't compliance with the executive — it's "protecting national security."
 
@@ -137,7 +137,7 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Rick Crawford donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00030770) (Tier 1)
 - [Congress.gov: Eric A. "Rick" Crawford](https://www.congress.gov/member/eric-crawford/C001087) (Tier 1)

@@ -41,7 +41,7 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Debbie Stabenow Master Profile|Debbie Stabenow]] served as United States Senator from Michigan from January 2001 to January 2025 — a 24-year Senate career capping a 50-year run as an elected official. Born April 29, 1950, in Gladwin, Michigan. B.A. from Michigan State University (1972), M.S.W. from Michigan State (1975). Elected to the Ingham County Board of Commissioners at age 24 (1975–1978) — youngest and first woman to chair it. Michigan House of Representatives (1979–1990), first woman to preside over the chamber. Michigan Senate (1991–1994). U.S. House of Representatives, 8th District (1997–2001). Defeated one-term Republican incumbent Spencer Abraham for the Senate in 2000 by 1.5 points. Reelected 2006 (57%), 2012 (59%), 2018 (52%). First woman elected to the U.S. Senate from Michigan. Announced retirement January 5, 2023; succeeded by Elissa Slotkin.
 
@@ -51,7 +51,7 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Stabenow is the Farm Bill senator — the Democrat who controlled more agribusiness spending than any other member of her caucus for over a decade. Her Agriculture Committee chairmanship gave her jurisdiction over crop insurance subsidies (the largest and fastest-growing farm safety net program), SNAP nutrition benefits (feeding 42 million Americans), and commodity programs that determine the economic viability of every farming operation in the country. The top Senate recipient of agribusiness contributions during key farm bill cycles ($677,000+ in 2018 alone), Stabenow used the committee gavel to expand crop insurance subsidies that primarily benefit large-scale farming operations and the Wall Street insurance companies that underwrite them — while simultaneously defending SNAP funding against Republican cuts. The SNAP defense is real and consequential. The crop insurance expansion is where the money maps onto the policy. Both happened under the same gavel, and the agribusiness donors who provided $677,000+ in a single cycle got the crop insurance expansion they paid for while Stabenow's progressive base saw only the SNAP fight.
 
@@ -60,14 +60,14 @@ Stabenow is the Farm Bill senator — the Democrat who controlled more agribusin
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Stabenow built a progressive brand defending SNAP nutrition benefits — declaring SNAP cuts a "red line" during farm bill negotiations and telling reporters "We don't take money out of the nutrition title to fund another part of the bill, which has never been done." The defense was genuine: she protected nutrition funding for 42 million Americans against Republican proposals to cut eligibility and benefits. But the same farm bills that protected SNAP massively expanded crop insurance subsidies — the program that the Environmental Working Group called a system where "Wall Street companies scrape tens of billions of dollars in almost risk-free profit." The federal government pays roughly 60% of crop insurance premiums, and the benefits flow disproportionately to the largest farming operations and the private insurance companies that deliver the program. Stabenow championed expanding subsidized crop insurance to new crops, increasing premium subsidies, and creating new area-based products — every expansion benefiting the agribusiness and crop insurance lobbies that made her their top Senate investment. The SNAP fight gave her the progressive credential. The crop insurance expansion gave her donors the return on investment. Both were in the same bill, and only one got the headlines.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -80,7 +80,7 @@ Stabenow is the Farm Bill senator — the Democrat who controlled more agribusin
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -103,7 +103,7 @@ Stabenow is the Farm Bill senator — the Democrat who controlled more agribusin
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The SNAP defense is the genuine win — Stabenow protected nutrition benefits for 42 million Americans against Republican cuts across multiple farm bill cycles, declared it a "red line," and delivered. The auto bailout was another genuine win — she fought for Michigan's signature industry when it faced extinction. The structural limit: the same farm bills that protected SNAP expanded crop insurance subsidies worth billions annually to the agribusiness corporations and Wall Street insurance companies that funded Stabenow's campaigns. The genuine wins operate within a boundary that never threatens the agricultural capital class.
 
@@ -113,7 +113,7 @@ Stabenow is the Farm Bill senator — the Democrat who controlled more agribusin
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Red Line:** Stabenow's signature move was declaring SNAP funding a "red line" that could not be crossed. The phrase established her as the defender of nutrition programs while the crop insurance expansions in the same bills attracted no comparable scrutiny. The red line was real — she held it — but it also functioned as a framing device that directed attention away from the titles of the bill where donor interests were being served.
 
@@ -127,7 +127,7 @@ Stabenow is the Farm Bill senator — the Democrat who controlled more agribusin
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Debbie Stabenow Campaign Finance Summary](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1)
 - [OpenSecrets: Debbie Stabenow Top Industries](https://www.opensecrets.org/members-of-congress/industries?cycle=Career&cid=N00004118) (Tier 1)
@@ -190,7 +190,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MI08163/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

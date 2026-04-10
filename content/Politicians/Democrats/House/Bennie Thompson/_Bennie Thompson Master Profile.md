@@ -49,7 +49,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Bennie Thompson has represented Mississippi's 2nd Congressional District since 1993. The district is one of the poorest in America — 26%+ poverty rate, majority-Black, spanning the Mississippi Delta from Jackson to the Arkansas border. Before Congress, Thompson was a civil rights organizer with the Student Nonviolent Coordinating Committee (SNCC) and served as an alderman and mayor in Bolton, Mississippi.
 
@@ -59,20 +59,20 @@ Thompson is 65% PAC-funded — one of the highest PAC-dependency ratios in the H
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc — from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP — is a map of how the Democratic Party absorbed civil rights energy into institutional management. Thompson doesn't dismantle the surveillance apparatus. He manages it. His committee approves the budgets, oversees the contracts, and shapes the legislation that determines how much power DHS has and who it targets. The January 6th investigation was his highest-profile moment — genuine accountability work that also demonstrated the limits of congressional investigation (criminal referrals but no structural reform of the agencies that failed).
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Thompson is a former SNCC organizer — the movement that was surveilled, infiltrated, and disrupted by the FBI's COINTELPRO. He now chairs the committee that oversees the modern surveillance state's largest department (DHS: 240,000 employees, $60B+ budget). His committee has advanced mobile biometric surveillance legislation and approved facial recognition technology deployments at airports and borders — tools that disproportionately impact the same communities the civil rights movement fought to protect. The man who was organized against by the surveillance state now manages the surveillance state's budget. This is not hypocrisy — it's the institutional capture of dissent.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - PAC-funded: 65% of total contributions (one of the highest ratios in the House)
@@ -101,7 +101,7 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Homeland Security Industry → Committee Oversight
 | Date | Type | Event | Donor | Amount | Gap |
@@ -121,7 +121,7 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The January 6th investigation was genuine — the hearings produced real evidence, real criminal referrals, and real public accountability. But the structural limit is that the investigation produced no reform of DHS, Capitol Police, or the intelligence failures that allowed the breach. The committee investigated the event without reforming the institutions. Thompson's other legislative work follows the same pattern: genuine oversight that stops short of structural change to the homeland security apparatus.
 
@@ -133,7 +133,7 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Protecting the homeland"** — The post-9/11 framing that makes DHS expansion bipartisan. Thompson uses the same national security language as Republicans when defending the committee's jurisdiction and budget.
 
@@ -150,7 +150,7 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Bennie Thompson donor profile](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
 - [FEC Candidate: Bennie Thompson industry donors](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)

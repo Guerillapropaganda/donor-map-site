@@ -36,26 +36,26 @@ donors: [[Pfizer]] [[PhRMA]]
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Frank Pallone. Democrat, New Jersey's 6th Congressional District (Middlesex and Monmouth counties). First elected 1988. Ranking Member, House Energy and Commerce Committee — the single broadest jurisdiction committee in the House, covering healthcare, energy, environment, telecommunications, consumer protection, and food and drug safety. Served as chairman 2019-2023 before the Republican majority. Career total raised: $3.4M+ in the 2024 cycle alone, with $3M+ cash on hand. Fifth-largest corporate PAC haul of any House candidate in recent cycles.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutical companies, energy utilities, telecom giants, and oil and gas interests all fund the man who writes the rules that govern them. His policy positions on drug pricing, climate, and net neutrality are real but structurally limited — they advance far enough to satisfy progressive voters while stopping short of the structural changes that would threaten the industries writing checks to his campaign.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Pallone has received **~$2.2 million career from pharmaceutical and health products companies** while simultaneously being Congress's most vocal champion of Medicare drug price negotiation. He authored H.R. 3 (the Elijah E. Cummings Lower Drug Costs Now Act), the legislative blueprint for the Inflation Reduction Act's drug pricing provisions. The reform is real — but it covers only a handful of drugs, preserves the broader pharmaceutical pricing structure, and the industry continues funding him because the reform doesn't threaten their core business model. In a February 2025 hearing, HHS Secretary RFK Jr. publicly accused Pallone of receiving "more than any other member of this committee" from pharma — a claim Pallone's committee forced Kennedy to retract, though the underlying dollar figure was not disputed.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising Overview:
 - 2024 cycle: $3,462,887 raised; $3,077,720 spent; $3,071,910 cash on hand
@@ -74,7 +74,7 @@ Pallone is the textbook example of the committee-jurisdiction donor pipeline: th
 > [!money]
 > **The Jurisdiction Premium:** Pallone's energy sector PAC donations tell the story of committee power as fundraising currency. Before becoming ranking member in 2014, his energy PAC take was modest. Since then: $31,088 (2014) → $31,088 (2016) → $92,219 (2018) → $173,619 (2020) → $298,000 (2024). That's a **~10x increase** tracking precisely with his rise to the committee gavel. The money doesn't follow the man — it follows the jurisdiction.
 
-### Key Donor Connections:
+## Key Donor Connections:
 - [[Pfizer]] and [[PhRMA]] — among top pharmaceutical contributors; Pallone's committee has direct jurisdiction over FDA approval processes, drug pricing policy, and pharmaceutical regulation
 - FirstEnergy — one of his top energy donors; same company at the center of the Ohio nuclear bribery scandal ($60M funneled through Generation Now to secure HB 6, a $1.3B ratepayer bailout; Speaker Larry Householder convicted of racketeering, sentenced to 20 years)
 - PSE&G (New Jersey) — top utility donor, the dominant utility in his district
@@ -85,7 +85,7 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -100,7 +100,7 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Drug Pricing):** H.R. 3 and the IRA drug pricing provisions are genuine wins — Medicare can now negotiate prices on a limited set of drugs. But the reform covers fewer than 20 drugs initially, preserves the broader pharmaceutical pricing structure, and pharma's stock prices barely flinched. The industry keeps funding Pallone because the reform is manageable — it's not price controls, it's not international reference pricing, and it's not single-payer. The win is real. The limit is structural.
 
@@ -110,7 +110,7 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Pragmatic Progressive:** Pallone is described as "green to the bone" but a "pragmatic politician who counts votes." This framing positions every structural concession to industry as legislative realism rather than donor accommodation. When environmental groups criticized the CLEAN Future Act, the response was about vote-counting — not about whether the policy actually addresses the climate crisis.
 
@@ -120,7 +120,7 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Frank Pallone campaign finance summary](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
 - [FEC: Frank Pallone candidate filings](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)

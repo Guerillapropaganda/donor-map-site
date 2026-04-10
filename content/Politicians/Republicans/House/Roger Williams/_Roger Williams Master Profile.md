@@ -39,7 +39,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Roger Williams represents Texas's 25th Congressional District and chairs the House Small Business Committee. Before Congress, he was — and still is — a car dealer. He inherited his father's dealership (founded 1939), owns Roger Williams Chrysler Dodge Jeep RAM in Weatherford, Texas, and has operated the family auto business for over 50 years. He also runs a cow-calf operation.
 
@@ -49,7 +49,7 @@ He also sits on the Financial Services Committee. He has served in Congress sinc
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Roger Williams is the donor class serving itself directly — no middleman required. He doesn't take money from auto dealers and then do their bidding. He IS the auto dealer. He chairs the Small Business Committee while running a $50 million+ dealership empire. He authored legislation that would have exempted dealerships like his from vehicle safety recall requirements. He promoted LIFO (Last-In-First-Out) tax accounting methods that specifically benefit car dealerships' inventory management. He received $1-2 million in PPP loans during COVID that were forgiven — loans administered by programs his committee oversees.
 
@@ -57,14 +57,14 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Williams brands himself as a "small business champion" who understands Main Street because he runs one. His dealership empire is worth up to $50 million and earned $63 million in revenue in a single year. This is not a small business. The "small business" framing allows a multimillionaire auto magnate to chair the committee designed to protect actual small businesses — the corner stores, independent contractors, and sole proprietors who can't afford Washington lobbyists. Williams IS the kind of business that squeezes actual small businesses out of markets. He chairs the committee that's supposed to protect them from people like him.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Wall Street/finance industry: $1.55 million+ career
@@ -98,7 +98,7 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Auto Dealer Self-Interest → Legislative Carve-Outs
 | Date | Type | Event | Donor | Amount | Gap |
@@ -127,7 +127,7 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Self-Funding as Independence (inverted):** The classic version of this pattern is the billionaire candidate who claims to be uncorruptible because they fund themselves. Williams is the inversion: he doesn't need external corruption because he brought his conflicts of interest with him. He IS the industry his committee regulates. The corruption isn't transactional — it's structural. The chairman's gavel and the dealership keys are held by the same hand.
 
@@ -139,7 +139,7 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"As a small business owner myself"** — The credentials play. Williams invokes his dealership experience as proof he understands Main Street. The function: reframe a $50 million business empire as a "small business" to claim solidarity with actual small operators. It's the billionaire's "I know what it's like" translated to the millionaire auto dealer level.
 
@@ -149,7 +149,7 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Roger Williams donor profile](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
 - [OpenSecrets: Roger Williams net worth](https://www.opensecrets.org/personal-finances/roger-williams/net-worth?cid=N00030602) (Tier 1)

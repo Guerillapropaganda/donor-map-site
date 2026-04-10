@@ -43,7 +43,7 @@ SORT title ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Ilhan Omar. Democratic Representative from Minnesota's 5th District (Minneapolis). Somali-American refugee who arrived in the U.S. at age 14 after four years in a Kenyan refugee camp. First Somali-American elected to Congress. One of the first two Muslim women elected to Congress (2018, alongside Rashida Tlaib). Original "Squad" member. Current committee assignments: Budget and Education committees (removed from Foreign Affairs by House Republicans in 2023).
 
@@ -51,13 +51,13 @@ Omar's political brand is anti-war, anti-corporate, pro-Palestinian, and unapolo
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Omar represents the structural limit of progressive foreign policy dissent within the Democratic Party: she can hold her seat in a safe progressive district but cannot advance her positions through the legislative process because the pro-Israel donor class has sufficient institutional power to remove her from Foreign Affairs jurisdiction, fund her primary challengers, and frame her advocacy as antisemitic.** Her removal from Foreign Affairs in February 2023 is the clearest documented case in the vault of donor-class interests using House procedural mechanisms to eliminate progressive jurisdiction over the policy area those interests most want to control.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Omar represents Minneapolis's 5th District — one of the most progressive constituencies in America, with significant Somali-American, East African, and Arab-American communities who have direct material stakes in U.S. foreign policy toward East Africa and the Middle East. Her constituents elected her specifically to represent those interests. The Foreign Affairs Committee removal means her district's concerns are now formally excluded from the committee with oversight jurisdiction over the exact policies that most affect her constituents. The institutional mechanism that was supposed to represent constituent interests was used to block constituent representation.
@@ -99,7 +99,7 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Sector | Key Donors | What They Want | What They Get |
 |--------|-----------|---------------|---------------|
@@ -110,7 +110,7 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Israel Lobby / Pro-Israel Donors
 
@@ -151,7 +151,7 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (Foreign Affairs Removal):** The committee removal is the vault's most documented case of institutional donor-class power operating through House procedure. AIPAC doesn't control House floor votes directly — but Republican leadership's decision to target Omar specifically, rather than other progressive critics of Israel policy, tracks with AIPAC donor priorities. The mechanism: donor → political pressure on Republican leadership → floor vote → committee jurisdiction removed.
 
@@ -161,7 +161,7 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **Naming the Mechanism:** "It's all about the Benjamins" — the controversy came from the directness of naming AIPAC's financial influence rather than discussing it in abstract terms. The political lesson: naming specific donor leverage is treated as more transgressive than documenting it through data.
 - **Refugee Narrative as Policy Frame:** Consistently deploys her biographical story as a frame for refugee policy, humanitarian aid, and anti-war positions. Personal testimony as political authority.
@@ -169,7 +169,7 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Ilhan Omar member profile](https://www.congress.gov/member/ilhan-omar/O000173) (Tier 1)
 - [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)

@@ -33,26 +33,26 @@ profile-status:: ready
 
 ---
 
-### Who She Is
+## Who She Is
 
 [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]]. U.S. Representative (WA-5, Eastern Washington, 2005–2022; retired 2023). Chair, House Energy & Commerce Committee (2023–2022). Conference Vice Chair (House Republican Leadership, 2009–2013). Representing Eastern Washington's 5th district (Spokane-based, rural/agricultural/tech mix). Married to Bryan Rodgers (former U.S. Navy). Net worth: $3.9–$12.5 million (2022 disclosure). Retired from Congress in 2023.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Cathy McMorris Rodgers was the #1 corporate PAC recipient in the entire House of Representatives — $3 million in corporate PAC money in the 2020 cycle alone, 40% more than any other House member. As Energy & Commerce Committee chair (2023–2022), she controlled regulation of telecom, energy, and pharma — the same industries that funded her at record levels. This is the "money committee" made literal: industries buy the chair, the chair blocks their regulation. Her entire legislative function was protecting incumbent monopolies from regulation. Net neutrality opposition protected AT&T and Comcast from common-carrier regulation. Energy deregulation protected oil majors from climate constraints. Pharma deregulation protected drug pricing. The contradiction: she claimed to champion "innovation" and "free market" principles while her actual legislative work was enforcing incumbent monopoly power by blocking regulatory challenges to it.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > McMorris Rodgers branded herself as a "free market" conservative and innovation champion — her rhetoric centered on deregulation and tech-industry-friendly policy. But her legislative record shows she used her position to block regulation not in the name of "free markets," but in the name of protecting incumbent industries from competition and oversight. Net neutrality opposition (2017, 2024) was marketed as defending "innovation" — in reality, it protected AT&T and Comcast's ability to charge broadband providers for prioritized access, a form of monopoly rent-seeking. Energy deregulation rhetoric claimed to promote "market competition" — in reality, it protected oil majors (Marathon, [[Chevron|Chevron]]) from carbon regulation. Pharma "innovation" language protected drug pricing from negotiation. The pattern: every deregulation position lined up with her top corporate PAC donors. Her legislative function was protecting monopoly power, not promoting free markets. She was, in effect, a corporate lobbyist with a House seat and a committee gavel.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### 2020 Cycle Corporate PAC Receipts:
 - Total corporate PAC: $3.0 million (highest in House)
@@ -76,7 +76,7 @@ profile-status:: ready
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: McMorris Rodgers was the #1 corporate PAC recipient in the entire House — $3M in a single cycle. As Energy & Commerce chair, she controlled regulation of the exact industries that funded her at record levels. The "innovation" rhetoric was monopoly protection.*
 
@@ -146,7 +146,7 @@ Her committee position turned her funded-by relationship into actual regulatory 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — McMorris Rodgers's net neutrality opposition is a real legislative victory for AT&T and Comcast, but stops short of threatening the broadband market structurally. She protects incumbent monopoly power without dismantling the telecom infrastructure itself, preserving both monopoly rents and corporate donors' position.
 
@@ -156,7 +156,7 @@ Her committee position turned her funded-by relationship into actual regulatory 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The "Innovation" Frame:** Net neutrality opposition and pharma deregulation presented as "pro-innovation," when they actually protect incumbent monopolies from competitive threats.
 2. **"Government Overreach" Language:** Blocking EPA carbon rules framed as defending "energy independence" and "rural America" from coastal elites.
@@ -165,7 +165,7 @@ Her committee position turned her funded-by relationship into actual regulatory 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Cathy McMorris Rodgers donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1)
 - [FEC Candidate: Cathy McMorris Rodgers PAC receipts](https://www.fec.gov/data/candidate/H4WA05077/) (Tier 1)

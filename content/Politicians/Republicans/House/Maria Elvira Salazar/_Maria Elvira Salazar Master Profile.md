@@ -30,7 +30,7 @@ profile-status:: developed
 
 ---
 
-### Who She Is
+## Who She Is
 
 Maria Elvira Salazar. U.S. Representative, Florida's 27th Congressional District (R). Born November 1, 1961, in Miami's Little Havana to Cuban exile parents. Former TV journalist (Univision, Telemundo, CNN en Español, PBS, Mega TV). Elected 2020, reelected 2022 and 2024.
 
@@ -40,20 +40,20 @@ Career arc: Journalism career covering Latin American politics → 2018 congress
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Salazar is the public face of Miami's Cuba hawks in the House — the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Rubio executes diplomatically, Salazar provides the media strategy. Her journalism background makes her the most effective messenger for the embargo position, and her FL-27 district (Miami-Dade) is the geographic heart of the exile community.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Salazar campaigns as a hardline anti-communist who will protect the Cuban-American community from foreign infiltration. In December 2023, former U.S. Ambassador Manuel Rocha was arrested and convicted as a covert Cuban intelligence agent who had operated for 40 years. Salazar was the only U.S. lawmaker who received campaign donations from Rocha — $750 total. She also accepted $5,700 from Colombian lawyer Abelardo de la Espriella, who represented Alex Saab, the financier and frontman for Venezuelan dictator Nicolás Maduro, in money-laundering investigations. The anti-communist crusader's donor vetting failed to screen out an actual Cuban spy and a Maduro operative's lawyer. The FEC separately flagged her committee for accepting $147,000+ in excessive donations.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Salazar's donor base is the Cuban-American exile network — small-dollar donors from the diaspora plus institutional support from AIPAC and the broader pro-Israel coalition that aligns with Cuba hawk positions. Her campaign finance is less notable for large single donors than for the structural alignment of her entire constituency with the embargo position.
@@ -82,7 +82,7 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -91,7 +91,7 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Two-Audience Problem:** Salazar's anti-communist message targets the exile base; her actual legislative power (as a non-Appropriations member) is limited. The messaging function — translating donor-class interests into populist language — is her primary structural role.
 
@@ -99,7 +99,7 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Maria Elvira Salazar campaign finance summary](https://www.fec.gov/data/candidate/H0WA03203/) (Tier 1)
 - [WLRN: Rep. Salazar to return campaign cash from suspected Cuba spy](https://www.wlrn.org/government-politics/2023-12-06/rep-maria-elvira-salazar-to-return-campaign-cash-from-suspected-cuba-spy-politico-manuel-rocha) (Tier 2)
@@ -177,7 +177,7 @@ content-readiness:: developed
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8FL27185/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

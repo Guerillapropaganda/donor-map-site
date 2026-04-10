@@ -46,26 +46,26 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Betty Yee. Former California State Controller (2015–2023, elected 2014 and 2018). Former Board of Equalization member (2011–2015, elected). Board member of CalPERS and CalSTRS (the massive public pension funds). Vice Chair of California Democratic Party (2023–present). 2026 California governor candidate. First Asian-American woman to hold the elected Controller position. Net worth: $500,000–$1.5 million (2023 disclosure).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Betty Yee is the fiscal technocrat candidate — her entire political identity is built around the Controller role, which gives her unique visibility into California's state finances, pension obligations, corporate tax compliance, and fiscal policy decisions. As Controller, she sat on CalPERS and CalSTRS boards (combined portfolio $500B+), giving her insider knowledge of pension fund governance that no other 2026 candidate possesses. Her campaign argument is: "I've audited the state's books for 8 years; I understand the fiscal challenges; I can manage California's finances." The central question for class analysis is whether fiscal conservatism in a Democratic primary represents genuine populist accountability (watching where tax dollars go, protecting working-class pensions), or whether her Controller experience reveals conflicts of interest with pension fund politics, corporate tax avoidance oversight, and financial industry relationships. Did she use her CalPERS position to advance fund performance (and benefit investment managers), or to advance worker pension security? Did she use her Controller authority to crack down on corporate tax avoidance, or manage compliance to be business-friendly? The governor's race becomes a referendum on what "fiscal responsibility" means: does it mean austerity (cutting services, freezing pensions), or does it mean aggressive taxation of wealth and corporations?
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Yee's political identity is built on fiscal accountability — the Controller is the audit officer, the watchdog, the person who watches how money is spent. This is a legitimate progressive populist position: ordinary people want to know that their tax dollars are being spent honestly, not wasted. Yee's campaign leverages this: "I've been the watchdog. I audited the state's spending for 8 years." But the contradiction is that fiscal watchdogging can be either progressive (auditing corporate tax avoidance, challenging pension fund management decisions, pushing for wealth taxation) or conservative (cutting public sector spending, imposing austerity, managing pensions downward). Yee's actual record as Controller has not been clearly progressive in these terms. She served on CalPERS and CalSTRS boards during a period when pension fund returns were modest and fund obligations became increasingly strained. Her public statements suggest concern about pension fund sustainability, but it is unclear whether her positions favored workers (higher employer contributions, worker protections) or favored fiscal conservatism (pension benefit cuts, payment deferrals). Her fundraising is weak ($342K raised, near Thurmond's $256K), suggesting she is not raising money from an organized donor network — either working-class supporters (unlikely for fiscal technocrat positioning), labor unions (she has not secured labor backing), or business interests (would contradict her watchdog positioning). Her claim to "fiscal responsibility" is politically appealing in the abstract (who doesn't want government to be honest with money?), but her actual positions on how that responsibility translates to specific policies remain ambiguous. Is she cutting services or taxing the wealthy? Is she protecting pensions or restructuring them? Without clear positions on these questions, her fiscal watchdog claim is a technocratic positioning without a donor base or clear constituency.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Current Campaign Fundraising (2026):
 - Total raised: $342,000 (H2 2025; second-lowest after Thurmond's $256K)
@@ -92,7 +92,7 @@ This is remarkable for a statewide elected official. Controller is a significant
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Yee's Controller role genuinely required auditing state spending and reporting on fiscal performance. She did conduct audits and released reports on state expenditures. But the structural limit is that auditing is not the same as preventing waste or challenging underlying policy. An audit can document a corrupt contract; it cannot force the state to stop awarding contracts to corrupt vendors. Yee's "watchdog" role stopped at documentation, not at structural reform.
 
@@ -106,7 +106,7 @@ This is remarkable for a statewide elected official. Controller is a significant
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Yee's table is notable for what's absent. Despite 8 years as Controller (automatic CalPERS/CalSTRS board seat) and 4 years on the Board of Equalization, she has no organized donor network from either the business community or labor. This absence IS the data point.*
 
@@ -140,7 +140,7 @@ This is remarkable for a statewide elected official. Controller is a significant
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Fiscal Watchdog Claim:** "I've audited the state's spending for 8 years; I know where the waste is"
 2. **The Moderate Positioning:** Positioning as "serious fiscal conservative" alternative to progressive candidates
@@ -168,7 +168,7 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 
 ---
 
-### Sources
+## Sources
 
 - ~~[FollowTheMoney.org: Betty Yee 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Betty%20Yee#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
@@ -179,7 +179,7 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 profile-status:: ready
 content-readiness:: ready
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

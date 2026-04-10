@@ -38,7 +38,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Alex Padilla is the senior U.S. Senator from California and the Ranking Member of the Senate Rules and Administration Committee — the committee overseeing federal election administration, campaign finance law, and Senate operations. He also serves on Judiciary, Environment and Public Works, Budget, and Homeland Security and Governmental Affairs. He was appointed to the Senate in January 2021 by Governor Gavin Newsom after Kamala Harris became Vice President, and won election in his own right in 2022.
 
@@ -50,7 +50,7 @@ The Rules and Administration Committee has jurisdiction over federal election la
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections — implemented automatic voter registration, expanded vote-by-mail, modernized California's election infrastructure. Now he ranks on the committee that oversees federal election law. His donor profile reflects California Democratic politics (tech, entertainment, lawyers, labor) rather than election industry lobbying or campaign finance interests.
 
@@ -60,14 +60,14 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Padilla's appointment to the Senate was itself a donor-class transaction — Newsom selected him from a competitive field of California Democrats, and the selection reflected political calculations about Latino representation, California machine politics, and donor network alignment. Padilla the election administrator became Padilla the appointed senator — arriving in office through the least democratic process available (gubernatorial appointment to fill a vacancy). The champion of voter participation didn't win his seat through voter participation. He won election subsequently, but the appointment that created his Senate career was a closed-door decision by one governor. The contradiction isn't hypocrisy — Padilla has earned his seat since — but the structural irony is real: the voting rights champion's Senate career began without a single vote cast for him.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Lawyers & law firms: significant (California legal establishment)
@@ -95,7 +95,7 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Secretary of State → Senate Election Oversight
 | Date | Type | Event | Donor | Amount | Gap |
@@ -120,7 +120,7 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (election administration):** Padilla's California achievements are genuine — automatic voter registration, same-day registration, expanded vote-by-mail drove record participation. The structural limit: state-level innovations depend on federal law not preempting them, and the Rules Committee majority can advance legislation that restricts the very practices Padilla implemented. The win was real; the defense of it is structurally impossible from the minority.
 
@@ -130,7 +130,7 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Every eligible citizen should be able to freely, fairly, and fully participate"** — The voting rights maxim. The function: frame election access as a right rather than a privilege, positioning any restriction as an attack on democratic participation.
 
@@ -140,7 +140,7 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Alex Padilla donor profile](https://www.fec.gov/data/candidate/S2CA00955/) (Tier 1) (VERIFIED)
 - [Congress.gov: Alex Padilla](https://www.congress.gov/member/alex-padilla/P000145) (Tier 1) (VERIFIED: removed from bad)

@@ -32,7 +32,7 @@ donors: [[DeVos Family]] [[American Federation for Children]] [[Walton Family Fo
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Virginia Foxx. Republican, North Carolina's 5th District. Chair of the House Education and Workforce Committee (2023–2025; previously chaired 2017–2019). First elected to Congress in 2004 after 10 years in the North Carolina State Senate. Before politics, Foxx was President of Mayland Community College (1987–1994) — a biographical detail she leverages for education expertise while running interference for the for-profit college industry that funds her campaigns. She is the single largest recipient of for-profit college industry campaign donations in Congress: $81,800 in the 2021–2022 cycle alone, nearly four times what any other member received.
 
@@ -43,20 +43,20 @@ Net worth: $3.4–$10.5 million (2023 financial disclosure). Age 82 (born 1943).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Virginia Foxx is the for-profit college industry's legislative shield. Her committee controls higher education policy — student loan rules, accreditation standards, Title IV funding eligibility, and regulatory oversight of colleges. Every major legislative action she has taken as chair — killing gainful employment rules, undermining the 90/10 rule, blocking the College Transparency Act, opposing Biden's student loan forgiveness — removes regulatory constraints that limit for-profit college profitability. The industry that depends on federal student loan dollars for survival funds her campaigns, and she uses her committee gavel to ensure those dollars keep flowing without accountability. The students who take on debt to attend these schools are the raw material; the for-profit shareholders are the beneficiaries.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Foxx publicly acknowledges the college cost crisis. Her own words: "As a society, it is time to face the music... We are scamming young Americans. College prices are skyrocketing, and college value is stagnating." Then she proposes eliminating gainful employment rules (which require colleges to prove graduates can repay their loans) and the 90/10 rule (which requires for-profits to get 10% of revenue from non-federal sources). She names the disease and then kills the treatment — because the treatment threatens the for-profit colleges that fund her.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### For-Profit Education Industry (Primary Donor Sector):
 Foxx is Congress's top recipient of for-profit college money. The relationship is structural and sustained.
@@ -91,7 +91,7 @@ McDonald's, Lowe's, Deere & Company, Discover Financial Services, Caterpillar, A
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -134,7 +134,7 @@ Foxx vehemently opposed Biden's Title IX rule expanding gender identity protecti
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** Foxx's most prominent pattern. The for-profit college industry's policy preferences override every available data point. Rigorous studies from Indiana, Ohio, Louisiana, and Washington D.C. consistently show negative academic outcomes for voucher and for-profit college students. Voters reject voucher programs every time they vote directly (Kentucky 2024: lost every county). None of this evidence alters Foxx's legislative agenda, because the agenda is not evidence-driven — it is donor-driven.
 
@@ -146,7 +146,7 @@ Foxx vehemently opposed Biden's Title IX rule expanding gender identity protecti
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Taxpayer bailout" inversion:** Foxx frames student loan forgiveness as a bailout for the wealthy, inverting the class dynamics. The students holding the debt are overwhelmingly working-class (median borrower income ~$35K, 62% Black, 71% women). The "wealthy" who benefit from Foxx's alternative — for-profit college deregulation — are the shareholders and private equity firms that own these schools. The rhetorical move transfers the "bailout" label from Wall Street to students.
 
@@ -158,13 +158,13 @@ Foxx vehemently opposed Biden's Title IX rule expanding gender identity protecti
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 Virginia Foxx serves the for-profit education industry and its private equity backers with exceptional directness. The for-profit college business model depends on federal student loan dollars — without Title IV funding, most for-profit institutions would collapse overnight. Foxx's committee controls the rules governing that funding: who qualifies, what accountability standards apply, and whether students can access meaningful data about institutional quality. Every major action she has taken as chair reduces accountability, weakens transparency, and preserves the flow of federal dollars to institutions that produce poor outcomes for students but reliable returns for shareholders. Apollo Global Management (University of Phoenix's parent) contributes $52,700 in the same cycle Foxx proposes eliminating the regulations that constrain their business. The [[DeVos Family]] contributes $5,800 while their [[American Federation for Children]] advances the same deregulation agenda through dark money channels. The students who borrow $200,000 to attend schools Foxx protects from accountability are the raw material. The private equity firms that own those schools are the clients.
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Virginia Foxx campaign finance summary](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
 - [FEC: Virginia Ann Foxx candidate overview](https://www.fec.gov/data/candidate/H4NC05146/) (Tier 1)
@@ -200,7 +200,7 @@ content-readiness:: ready
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

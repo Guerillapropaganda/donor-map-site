@@ -41,7 +41,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Rick Larsen has represented Washington's 2nd Congressional District since 2001 and serves as Ranking Member of the House Transportation and Infrastructure Committee. He previously chaired the Aviation Subcommittee (top Democrat since 2013) — the subcommittee with direct FAA oversight authority over Boeing, the largest manufacturer in his state and district.
 
@@ -51,7 +51,7 @@ Career fundraising: $1.26 million from transportation industry PACs and $560,000
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Rick Larsen is Boeing's Democratic guardian — the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation Subcommittee that oversees FAA regulation of Boeing. And when the Machinists' union — his own party's labor base — challenged Boeing's labor practices, Larsen sided with Boeing over the union, urging workers to accept a controversial contract. The Machinists revoked their endorsement in 2014.
 
@@ -59,14 +59,14 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Larsen is a Democrat who supports organized labor — SEIU, AFSCME, AFL-CIO endorsements, pro-union voting record. But when the International Association of Machinists challenged Boeing's contract offer, Larsen urged the union to vote on Boeing's terms, citing the economic benefits for the region. The Machinists revoked their endorsement. The pro-labor Democrat chose Boeing over the union because Boeing's factory IS the district's economy. When the company that employs your constituents and funds your campaign conflicts with the union that represents those same workers, the money wins.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising (career):
 - Transportation industry PACs: $1.26 million
@@ -93,7 +93,7 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Boeing → Aviation Oversight
 | Date | Type | Event | Donor | Amount | Gap |
@@ -114,7 +114,7 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Both-Sides Illusion:** Larsen (Democratic RM) and Graves (Republican Chair) both receive transportation industry money. Boeing funds both. Airlines fund both. The T&I Committee's bipartisan infrastructure consensus ensures that the industries regulated by the committee fund both parties' leadership on the committee. The partisan fights are about details, not the fundamental relationship between the committee and its donor industries.
 
@@ -126,7 +126,7 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Sound investments in transportation"** — The infrastructure framing that makes every transportation spending bill sound like economic stewardship. The function: justify committee jurisdiction spending as necessary investment.
 
@@ -144,7 +144,7 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Rick Larsen donor profile](https://www.fec.gov/data/candidate/H0WA02080/) (Tier 1)
 - [Congress.gov: Rick Larsen](https://www.congress.gov/member/rick-larsen/L000560) (Tier 1)

@@ -33,28 +33,28 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Doug Burgum. Secretary of the Interior (2025–present). Chair of the National Energy Dominance Council. North Dakota governor (2016–2024). Net worth $400 million–$1.1 billion. Built wealth selling Great Plains Software to Microsoft for $1.1 billion in 2001 (held 10% = ~$100M in MSFT shares, now $238M+ in Microsoft stock). Post-government: Kilbourne Group (downtown Fargo real estate, 20 acres of downtown), Arthur Companies (family agribusiness since 1906). Senate confirmed 79-18 — bipartisan because senators believed the "all-of-the-above energy" governor they'd watched for 8 years. They got the fossil-fuel-only Interior Secretary instead. 5,742 drilling permits on public lands (55% increase). Opened all 1.56 million acres of Arctic National Wildlife Refuge coastal plain to oil leasing. Requires personal approval for all wind and solar projects on federal land. Continental Resources ([[Harold Hamm|Harold Hamm]]) leases 200 acres of Burgum's farmland ($15K–$51K/year) — undisclosed on either gubernatorial financial disclosure. Wife Kathryn owns $250K in fossil fuel company stock. The tech millionaire managing fossil fuel policy for the fossil fuel donors who fund the politics that gave him the job.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Doug Burgum's trajectory — software entrepreneur → tech millionaire → North Dakota governor → Interior Secretary → "energy czar" — represents the conversion of tech wealth into fossil fuel policy power. His $1.1 billion Microsoft exit funded a political career that now controls federal public lands, drilling permits, and energy leasing. Continental Resources ([[Harold Hamm|Harold Hamm]], $18.5B net worth) leases his farmland and donated $250,000 to his 2024 super PAC — Burgum now controls the federal oil and gas policy that benefits Continental. His wife holds $250,000 in fossil fuel stocks. He requires personal approval for wind and solar projects while fast-tracking oil and gas drilling. The "all-of-the-above" governor became the fossil-fuel-only Interior Secretary because the donor class that funded the transition wanted fossil-fuel-only policy. The bipartisan 79-18 Senate confirmation was based on the moderate governor persona; the job performance serves the fossil fuel donors.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > As North Dakota governor, Burgum set a carbon neutrality goal for 2030, championed an "all-of-the-above" energy strategy, and oversaw doubling of wind generation in the state. As Interior Secretary, he requires personal approval for all wind and solar projects on federal land, removes renewable energy incentives, eliminates Biden-era climate protections, and calls wind and solar "environmentally damaging." The governor who championed wind energy now blocks it. The moderate who secured 79-18 Senate confirmation governs as a fossil-fuel maximalist. The shift maps perfectly to the donor transition: from state-level politics (where energy pragmatism wins) to federal cabinet (where fossil fuel donors dictate).
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
-### The Harold Hamm Pipeline and the Continental Resources Conflict:
+## The Harold Hamm Pipeline and the Continental Resources Conflict:
 - [[The Harold Hamm Pipeline and the Continental Resources Conflict]] — Continental Resources leases 200 acres of Burgum farmland ($15K–$51K/year). Hamm donated $250K to Burgum super PAC. Neither gubernatorial disclosure mentioned the lease. Burgum now controls federal oil/gas policy benefiting Continental. 5,742 drilling permits issued (55% increase). ANWR 1.56 million acres opened.
 
 ### The $20 Gift Card Campaign and the Self-Funding Myth:
@@ -65,7 +65,7 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: The undisclosed Hamm land lease is the key document — Continental Resources leased Burgum's farmland for years before the $250K super PAC donation and Interior appointment. The 79-18 Senate confirmation was obtained by the "all-of-the-above" governor persona; the policy serves only fossil fuel.*
 
@@ -93,7 +93,7 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The energy dominance patriot:** "Energy security is also national security" — framing fossil fuel extraction as national defense. The function: make opposition to drilling unpatriotic. The reality: the "security" served is the financial security of fossil fuel donors.
 2. **The tech-to-government modernizer:** Software background as credentials for government "efficiency." The function: make industry capture look like innovation. The reality: the tech wealth funds the political career; the fossil fuel donors dictate the policy.
@@ -101,7 +101,7 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Burgum issued 5,742 drilling permits (55% increase) and opened ANWR coastal plain, achieving major fossil fuel extraction victories. Yet these policies limit themselves to public lands and established federal processes — they don't fundamentally restructure extraction capacity but accelerate it within existing administrative frameworks that serve donor interests.
 
@@ -111,7 +111,7 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Burgum 2024 presidential fundraising](https://www.opensecrets.org/2024-presidential-race?id=N00052955) (Tier 1)
 - [Interior Department: Secretarial orders on energy leasing](https://www.doi.gov/pressreleases/secretary-doug-burgum-signs-first-round-secretarys-orders-unleash-american-energy) (Tier 1)

@@ -44,7 +44,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Ed Markey is the junior U.S. Senator from Massachusetts and the Ranking Member of the Senate Small Business and Entrepreneurship Committee. He also serves on Commerce, Science, and Transportation (including the Telecommunications and Media subcommittee), Environment and Public Works, and Health, Education, Labor, and Pensions (HELP). He has served in the Senate since 2013 and in Congress since 1976 — nearly 50 years.
 
@@ -56,7 +56,7 @@ Born in Malden, Massachusetts, Markey holds a J.D. from Boston College Law Schoo
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Ed Markey is the telecom law architect who became the Green New Deal's Senate champion — a 50-year career arc from writing the laws that built the internet economy to proposing the framework to decarbonize it. His donor profile reflects the tension: career contributions from telecom and tech industries whose regulatory environment he literally created, combined with a late-career pivot to the climate movement that threatens the fossil fuel economy those same tech companies depend on for energy.
 
@@ -64,14 +64,14 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Markey authored the Telecommunications Act of 1996 — the law that deregulated the communications industry and enabled the corporate consolidation of media and internet services. That deregulation produced the exact monopoly conditions (Comcast, AT&T, Verizon, Google, Meta) that Markey now rails against. The architect of the 1996 Act is now the Senate's leading advocate for net neutrality, children's online privacy, and platform regulation — fighting the corporate power his own legislation enabled. Markey didn't create the tech monopolies single-handedly, but the 1996 Act was the legal foundation for the consolidation he now opposes. The contradiction isn't simple hypocrisy — Markey evolved, and the 1996 Act's consequences were not fully foreseeable. But the structural irony is real: the senator who built the deregulatory framework now leads the re-regulatory effort.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Lawyers & law firms: significant (Massachusetts legal community)
@@ -101,7 +101,7 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Telecom Industry → Communications Law → Deregulation
 | Date | Type | Event | Donor | Amount | Gap |
@@ -125,7 +125,7 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Green New Deal):** The Green New Deal resolution didn't pass — but its framework produced the IRA's climate provisions, the largest federal climate investment in history. The structural limit: the IRA was a compromise that preserved fossil fuel provisions (Manchin's conditions), and the Trump administration is now dismantling IRA implementation. Markey's framework won the argument; the institutional structure diluted the policy and the next administration reverses it.
 
@@ -135,7 +135,7 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"We need a Green New Deal"** — The climate mobilization framing co-branded with AOC. The function: make climate policy sound like economic transformation rather than environmental regulation — jobs, infrastructure, justice, not just emissions.
 
@@ -145,7 +145,7 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Ed Markey donor profile](https://www.fec.gov/data/candidate/H6MA07101/) (Tier 1)
 - [Congress.gov: Edward J. Markey](https://www.congress.gov/member/edward-markey/M000133) (Tier 1)

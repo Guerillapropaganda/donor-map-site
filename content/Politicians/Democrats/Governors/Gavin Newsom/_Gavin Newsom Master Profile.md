@@ -42,7 +42,7 @@ donors: [[Elon Musk]], [[Michael Bloomberg]], [[Haim Saban]], [[SEIU - Service E
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Gavin Christopher Newsom. Born October 10, 1967, in San Francisco. Democrat. California's 40th Governor since January 2019. Prior: Lieutenant Governor of California (2011–2019), Mayor of San Francisco (2004–2011), member of the San Francisco Board of Supervisors (1997–2003).
 
@@ -50,7 +50,7 @@ Born into the California donor class. His father was a close associate of the Ge
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Newsom is the perfect specimen of the donor-class Democrat: genuinely progressive on social and cultural issues (immigration, LGBTQ rights, abortion, gun control), reliably capital-aligned on economic structure (taxes on wealth, corporate subsidies, the fundamental distribution of resources). He uses progressive identity politics as the legitimate face of a donor-class political operation. His brand — California values, coastal liberal vision, 2028 presidential positioning — is one of the most sophisticated examples of that model in contemporary American politics.
 
@@ -58,14 +58,14 @@ This does not mean he has done nothing for working-class people. He has. Univers
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > California under Newsom is simultaneously the world's fifth-largest economy and the state with the highest cost-of-living-adjusted poverty rate in the nation. He is the governor of more billionaires than any other state while presiding over approximately 30% of the nation's entire unhoused population. This contradiction is the product of structural choices: housing policy that protects existing asset holders, tax policy that undertaxes capital and wealth, corporate subsidies that transfer public money to private shareholders, and criminal justice spending that invests more per prisoner than per student. Newsom manages this contradiction rather than resolving it. That management is what his donors pay for.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 Key institutional donors and their policy returns — each links to a detailed policy note:
 
@@ -89,7 +89,7 @@ Key institutional donors and their policy returns — each links to a detailed p
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Healthcare
 [[Single-Payer Broken Promise]] | [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] | [[Mental Health CARE Court and Forced Treatment]] | [[Prescription Drug Pricing - PBM Veto Cycle]] | [[CalRx - The Genuine Win With Caveats]]
@@ -120,7 +120,7 @@ Key institutional donors and their policy returns — each links to a detailed p
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Healthcare / Insurance
 
@@ -156,7 +156,7 @@ Key institutional donors and their policy returns — each links to a detailed p
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 These are the rhetorical patterns Newsom uses to manage the contradiction between his donor class and his progressive branding:
 
@@ -192,7 +192,7 @@ The new fault line: AI. Labor unions publicly conditioned 2028 support on AI reg
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Newsom's actual policy achievements (TK expansion, Medi-Cal coverage, death penalty moratorium, some wage progress) are real material gains for working-class Californians. However, these wins are calibrated to not threaten the donor-class economic structure: they expand social programs without raising taxes on wealth, provide healthcare access without single-payer, and moratorium death penalty without addressing systemic incarceration. The victories stop exactly where they would conflict with donor interests.
 
@@ -230,7 +230,7 @@ profile-status:: ready — all policy areas have individual notes (healthcare, I
 content-readiness:: ready
  
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

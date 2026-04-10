@@ -44,26 +44,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 John Karl Fetterman. U.S. Senator from Pennsylvania (2023–present). Former Mayor of Braddock, Pennsylvania (2005–2019). Former Lieutenant Governor of Pennsylvania (2019–2023). Age 54. Known for unconventional working-class aesthetic: Carhartt hoodies, gym shorts, tattoos on forearms. Recovered from a stroke in May 2022 while running for Senate, with minimal audible or visible effects. 2022 Senate race: $48.5 million raised, 53% from small-dollar donations (averaging $27 per contribution), winning against celebrity physician Mehmet Oz. Net worth: ~$500,000. Married with three children.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 John Fetterman's post-election transformation raises a fundamental question about authenticity in working-class populism: was the 2022 small-dollar, hoodie-wearing, anti-establishment brand genuine or electoral packaging designed to win a swing state? His donor base shift from small-dollar progressives to establishment figures, combined with his hardline pro-Israel positioning after October 7, 2023 (attracting Republican donors in the process), suggests the answer is the latter. Fetterman represents a new Democratic template: the working-class aesthetic without the working-class politics. The hoodie was the message; the [[AIPAC - American Israel Public Affairs Committee|AIPAC]] alignment is the policy.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Fetterman ran as the most working-class candidate in modern Senate history—a mayor from a post-industrial town, rejecting political conventions in dress and style, powered by small-dollar grassroots donations. His 2022 campaign explicitly positioned him against the donor class. Yet within months of taking office, he has: (1) hardened into a pro-Israel hardliner offering unconditional support without conditions on military aid, (2) attracted Republican donors in 2024 specifically because of his Israel positioning, (3) declared himself "not a progressive," and (4) shifted immigration enforcement rhetoric rightward. The working-class brand was the Trojan horse; the establishment alignment is the contents. Fetterman's trajectory demonstrates how populist aesthetics can serve as cover for donor-class capture, with the hoodie as the disguise.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Small-Dollar Myth and the Post-Election Shift:
 - [[The Small-Dollar Campaign and the Post-Election Drift]] — 2022: 53% of $48.5M from donations under $200; average contribution $27; 140,251 individual donors. Post-election: shift to AIPAC alignment ($250,000+ since election), Republican donor recruitment (April 2024 reporting), establishment figure integration. The small-dollar model was the vehicle; the destination was always donor alignment.
@@ -92,7 +92,7 @@ John Fetterman's post-election transformation raises a fundamental question abou
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Fetterman is the vault's clearest case of a donor base swap — the 2022 small-dollar grassroots base was replaced by an AIPAC-aligned and Republican donor network within 24 months of taking office.*
 
@@ -120,7 +120,7 @@ John Fetterman's post-election transformation raises a fundamental question abou
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The anti-establishment aesthetic that masks establishment alignment:** Fetterman's hoodie and shorts are deployed as proof of authenticity and distance from power—yet they now serve as visual camouflage for hardline establishment positioning on Israel and immigration.
 
@@ -166,7 +166,7 @@ John Fetterman's post-election transformation raises a fundamental question abou
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Fetterman's 2022 campaign was genuinely grassroots-powered small-dollar fundraising, raising $25.5M from 140,251 individual donors averaging $27 each. This represents real mobilization of working-class voters in a swing state, defeating a celebrity-backed opponent. However, the victory stopped short of threatening donor-class interests: his post-election positioning has shown that small-dollar victory does not produce policy independence from establishment donors once the senator enters office. The structural limit is: small-dollar campaigns can win elections, but governance requires alignment with the donor class that provides continued access and infrastructure.
 
@@ -191,7 +191,7 @@ John Fetterman's post-election transformation raises a fundamental question abou
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: John Fetterman Campaign Finance Summary](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
 - [FEC: John Fetterman Candidate Profile](https://www.fec.gov/data/candidate/S6PA00274/) (Tier 1)
@@ -257,7 +257,7 @@ last-updated:: 2026-03-24
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456877) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

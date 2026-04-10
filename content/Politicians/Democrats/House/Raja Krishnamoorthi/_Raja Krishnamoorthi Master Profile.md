@@ -39,7 +39,7 @@ SORT file.name ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Representative Raja Krishnamoorthi (D-IL-08). Member of the House Oversight Committee and the Select Committee on the Chinese Communist Party. Krishnamoorthi is best known nationally for co-authoring the bipartisan TikTok ban legislation (the Protecting Americans from Foreign Adversary Controlled Applications Act) and for his work on the CCP Select Committee investigating Chinese economic competition and technology threats.
 
@@ -47,7 +47,7 @@ Krishnamoorthi represents Illinois's 8th District (Chicago suburbs), one of the 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Krishnamoorthi is the bipartisan national security technocrat — a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the American market. The TikTok ban is the signature case: framed as national security and children's privacy, the legislation eliminates a Chinese competitor from the American social media market while leaving American surveillance platforms (Meta, Google) untouched. His committee work makes anti-China economic policy bipartisan, ensuring it cannot be dismissed as Republican xenophobia.
 
@@ -55,7 +55,7 @@ The deeper story emerged in his 2026 Senate race: Krishnamoorthi's donor base re
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Krishnamoorthi ran for Senate as a Democrat opposing Trump's agenda while accepting over $90,000 from key Trump donors and MAGA-connected figures. His donor list included Palantir Chief Technology Officer Shyam Sankar (a Trump adviser whose company holds a $30 million ICE contract for tracking self-deportation), venture capitalist Marc Andreessen, and Heritage Foundation senior adviser Michael Pillsbury. The contradiction: a Democrat campaigning against Trump's immigration enforcement while funded by the company that builds the surveillance tools for that enforcement.
 
@@ -64,7 +64,7 @@ Krishnamoorthi ran for Senate as a Democrat opposing Trump's agenda while accept
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Health Professionals ($1.1M)
 Krishnamoorthi's largest donor industry. The Chicago suburbs' concentration of healthcare professionals — doctors, hospital administrators, pharmaceutical executives — made this a natural base. These donors want regulatory stability and opposition to single-payer healthcare, which Krishnamoorthi has not championed despite being a Democrat.
@@ -111,7 +111,7 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Bipartisan National Security Voice**: Every tech and China issue filtered through national security framing — TikTok is not a competitor to American platforms, it is a "national security threat." This framing makes corporate protectionism sound like patriotism.
 
@@ -121,7 +121,7 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Raja Krishnamoorthi donor profile](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
 - [FEC Candidate: Krishnamoorthi industry donors 2024](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
@@ -193,7 +193,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412701) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

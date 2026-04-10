@@ -32,20 +32,20 @@ donors: >-
 
 **related:** [[_Dick Cheney Master Profile|Dick Cheney]] · [[_John McCain Master Profile|John McCain]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]] · [[Halliburton]] · [[Goldman Sachs]] · [[Morgan Stanley]] · [[Merrill Lynch]]
 
-### Who They Are
+## Who They Are
 
 George W. Bush (2001–2009, 43rd U.S. President) and earlier Texas Governor (1995–2000). Son of George H.W. Bush (41st President). MBA from Harvard Business School, worked in oil and gas industry before political career. Described himself as "a uniter, not a divider" and promised "compassionate conservatism." Won 2000 presidency in disputed Florida recount decided by Supreme Court (5-4, Bush v. Gore).
 
-### The Central Thesis
+## The Central Thesis
 
 Bush's presidency was the largest wealth transfer to the donor class in postwar U.S. history, achieved through tax cuts for the wealthy, deregulation of finance and energy sectors, and a $2 trillion Iraq War that enriched defense contractors. The "ownership society" and "compassionate conservatism" rhetoric masked a systematic consolidation of power and wealth in the hands of corporate elites and financial institutions.
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Bush campaigned on "compassionate conservatism" and "an ownership society" while implementing the largest tax cuts for the wealthy since Reagan, deregulating Wall Street (Gramm-Leach-Bliley repeal of Glass-Steagall in 1999 under Clinton was executed under Bush), and launching the Iraq War—costing 4,500 American lives and $2 trillion. The 2008 financial crisis, enabled by Bush-era deregulation, destroyed middle-class wealth while Bush's donor base (Goldman Sachs, Morgan Stanley) received $700B TARP bailout. The "ownership society" delivered ownership only to the wealthy.
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Sector | Total (2000-2008) | Role |
 |---|---|---|
@@ -70,7 +70,7 @@ Bush's presidency was the largest wealth transfer to the donor class in postwar 
 > **Financial Deregulation (1999–2008) → 2008 Crisis**
 > The Gramm-Leach-Bliley Act (1999, signed by Clinton) repealed Glass-Steagall under Bush administration pressure. Bush's SEC and Treasury ignored mortgage securitization warnings. The 2008 financial crisis destroyed $13 trillion in household wealth; Bush administration responded with $700B TARP bailout, directing funds to his donor base while homeowners faced foreclosure.
 
-### Class Analysis
+## Class Analysis
 
 Bush's presidency represents the clearest postwar example of **"Donor-Class Override"**—policies that directly contradicted constituency interest (Iraq War, deregulation, tax cuts favoring the wealthy) but served donor interests perfectly. The "compassionate conservatism" brand was pure marketing; the actual policy outcome was a systematic transfer of wealth and power to corporate elites.
 
@@ -78,7 +78,7 @@ The Iraq War exemplifies the revolving door: Cheney's Halliburton received no-bi
 
 Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassionate" branding demonstrates the **"Villain Framing"** pattern: blame external actors (terrorists, market inefficiencies) rather than conduct class analysis of who benefits from the policy outcomes.
 
-### Sources
+## Sources
 
 - [FEC presidential campaign finance records: 2000, 2004](https://www.fec.gov) (Tier 1)
 - [OpenSecrets: George W. Bush presidential profile](https://www.opensecrets.org/presidential-races/candidate?id=N00008072) (Tier 1)

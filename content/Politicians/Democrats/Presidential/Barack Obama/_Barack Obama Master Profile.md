@@ -66,7 +66,7 @@ The post-presidency reveals the class position fully: $65 million book deal (201
 
 ---
 
-### Central Thesis — The Two-Audience Problem
+## Central Thesis — The Two-Audience Problem
 
 Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised "hope and change" and ran against the financial sector's power. His private reassurance to bankers (which leaked in 2009) was: "I'm the only thing between you and the pitchforks." Both statements were true, and both functioned simultaneously to elect Obama and protect Wall Street.
 
@@ -86,7 +86,7 @@ The Two-Audience Problem is not unique to Obama — it is the core strategy of t
 
 ---
 
-### Core Contradiction — The Hope Brand vs. the Wall Street Cabinet
+## Core Contradiction — The Hope Brand vs. the Wall Street Cabinet
 
 Obama's brand was generational change, outsider status, and challenge to the establishment. His 2008 campaign was the most anti-establishment Democratic campaign since McGovern in 1972. He criticized Hillary Clinton's ties to Wall Street and the Iraq War. He promised a break from the past. His slogan was "hope and change."
 
@@ -100,7 +100,7 @@ This contradiction — the outsider brand hiding Wall Street integration — is 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance
 
@@ -204,7 +204,7 @@ Obama's $65 million book deal and $50 million Netflix deal are the financial rec
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Obama's Affordable Care Act expanded insurance coverage (20M people gained insurance) and the ACA generated real material gains for people who previously lacked coverage. His financial crisis response prevented total economic collapse (TARP prevented banking system failure). His judicial confirmations matched Trump's pace, installing 200+ judges. These are genuine achievements. The structural limit: the ACA preserved insurance company profit structures; no banker prosecutions occurred; the judicial pipeline operated identically under both parties with different donor-class priorities but same structural capture.
 
@@ -232,7 +232,7 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Hope and Change Brand as Political Armor:** Obama's 2008 campaign brand of "hope and change" and outsider status functioned as political armor against left criticism. When progressive activists complained about Wall Street being bailed out without prosecutions, Obama could point to his election victory ("I beat the establishment") and his rhetoric ("I'm fighting for you") as proof of his commitment. The brand was so powerful that the gap between rhetoric and policy took years for much of the base to fully process. This is the Two-Audience Problem at its most effective: the brand maintains progressive voter support while policy serves capital.
 
@@ -244,7 +244,7 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 
 ---
 
-### Sources
+## Sources
 
 - [CNN: Goldman Sachs was top Obama donor](https://www.cnn.com/2010/POLITICS/04/20/obama.goldman.donations/index.html) (Tier 2)
 - [Common Dreams: Obama's Big Sellout — The President has Packed His Economic Team with Wall Street Insiders](https://www.commondreams.org/news/2009/12/13/obamas-big-sellout-president-has-packed-his-economic-team-wall-street-insiders) (Tier 3) (VERIFIED)
@@ -263,7 +263,7 @@ profile-status:: ready
 content-readiness:: ready
 
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

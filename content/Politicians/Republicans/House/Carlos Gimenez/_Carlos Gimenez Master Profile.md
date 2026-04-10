@@ -59,7 +59,7 @@ profile-status:: developed
 
 ---
 
-### Who He Is
+## Who He Is
 
 Carlos Gimenez. U.S. Representative, Florida's 28th Congressional District (R). Born January 17, 1954, in Havana, Cuba — the first Cuban-born member currently serving in Congress. Former Miami-Dade County Mayor (2011-2020). Former career firefighter-paramedic — the first to serve in Congress. Chair of the House Transportation Subcommittee.
 
@@ -69,20 +69,20 @@ Career arc: Miami-Dade Fire Department → City of Miami Commissioner → Miami-
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Gimenez is the Miami infrastructure nexus — the politician whose donor base reveals the connection between South Florida real estate capital, defense contractors, and Cuba embargo enforcement. His documented donors include MasTec ($11,200), Lennar Corporation ($28,000), and sugar industry PACs. As Transportation Subcommittee Chair, he has oversight authority over the same defense contractors and infrastructure companies that fund his campaigns — and that stand to profit from post-embargo Cuban reconstruction.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Gimenez has positioned himself as a fierce critic of the Cuban regime, stating: "I applaud President Trump and Secretary of State Marco Rubio for combating the murderous dictatorship in Communist Cuba." Yet as Transportation Subcommittee Chair, he has been accused of shielding Crowley Maritime — a major U.S. Department of Defense contractor ($2.3B DFTS contracts, $343M MPF contracts) — which has operated cargo shipping through Cuba's Mariel Port under Cuban military oversight since 2001. His 2023 Security Act targets Chinese operations in Caribbean ports but deliberately sidesteps the U.S. defense contractor operating under Cuban military supervision. The anti-communist crusader protects a DoD contractor doing business with the regime he claims to oppose.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Gimenez's donor profile connects three pillars of the Miami power structure: real estate developers (Lennar $28K), infrastructure contractors (MasTec $11.2K, NV2A $22.4K), and sugar industry PACs (American Sugar Cane League, Florida Sugar Cane League). The same donors who profit from Miami's building boom are positioned for post-embargo Cuban development.
@@ -104,7 +104,7 @@ Gimenez is the Miami infrastructure nexus — the politician whose donor base re
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Real Estate / Construction
 
@@ -166,7 +166,7 @@ The public posture is maximalist anti-Castroism. The donor positioning is post-e
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** Real estate and infrastructure donors ($61,600+ from Lennar, MasTec, NV2A alone) buy access to the Transportation Subcommittee chair who oversees their industry. The policy outcomes serve the construction lobby, not the FL-28 constituency.
 
@@ -180,7 +180,7 @@ The public posture is maximalist anti-Castroism. The donor positioning is post-e
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Carlos Gimenez campaign finance summary](https://www.fec.gov/data/candidate/H0FL26036/) (Tier 1)
 - [Florida Politics: Gimenez adds $260K in Q1 through unions, GOP donors](https://floridapolitics.com/archives/519728-carlos-gimenez-adds-260k-in-q1-through-unions-gop-donors/) (Tier 2)
@@ -258,7 +258,7 @@ content-readiness:: developed
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456809) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

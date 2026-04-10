@@ -39,26 +39,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 [[_Ron DeSantis Master Profile|Ron DeSantis]]. Born September 14, 1978, Jacksonville, Florida. Republican Governor of Florida since January 2019 (first term), reelected by 19 points in 2022. Yale undergraduate, Harvard Law. Navy JAG officer (Guantanamo Bay legal advisor, Iraq deployment). U.S. Representative, Florida's 6th District (2013–2018). Failed 2024 presidential candidate — dropped out January 21, 2024, after winning zero states and burning through the most expensive failed primary campaign per vote in modern history. Endorsed [[_Donald Trump Master Profile|Donald Trump]] the same day he suspended. Widely discussed as a 2028 presidential candidate as his governorship term ends.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > DeSantis is the donor class's backup plan. When Trump became criminally indicted and legally toxic heading into 2024, billionaires like Ken Griffin ($5M+ to DeSantis's 2022 reelection), the Koch network, and [[Club for Growth|Club for Growth]]-aligned donors rallied behind DeSantis as the disciplined alternative who would deliver the same deregulation, tax structure, and judicial appointments without the chaos. His 2024 primary collapse — $158.5M raised and spent by campaign and Never Back Down super PAC combined, zero primary victories, $2,263 cost-per-vote in Iowa — revealed a fundamental truth: donor-class money can build infrastructure but cannot manufacture grassroots political connection. The culture war agenda (Don't Say Gay, Disney fight, anti-woke crusade) was the marketing campaign. The deregulation, billionaire tax haven, and corporate-friendly policy structure of Florida was the product being sold.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > DeSantis ran as an anti-establishment populist fighting "woke corporations" and elite power. His campaign was funded almost entirely by elites — 70% maxed-out donors, a $130M+ super PAC backed by hedge fund billionaires and fossil fuel executives. He picked a fight with Disney as his signature "anti-corporate" moment — then settled in March 2024 on terms that preserved Disney's core autonomy. He was the "anti-chaos" alternative to Trump — then his campaign imploded in internal chaos (Never Back Down saw multiple senior leadership departures and transfers out of $9.6M to a splinter group, Fight Right). The culture war was not the product. The product is Florida as a billionaire tax haven — no income tax, no estate tax — that attracted Ken Griffin's Citadel headquarters, crypto firms, and hedge funds. DeSantis didn't fight woke corporations. He built the state structure that attracted them.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Citadel-Griffin Axis:
 - [[Kenneth Griffin]] — Donated $5M to DeSantis's 2022 reelection (largest individual contribution). Gave $5M to Republican Party of Florida. Early 2023: pledged presidential support. By September 2023: publicly sat out the primary, stating he didn't understand DeSantis's Disney strategy. Griffin's Citadel relocated headquarters from Chicago to Miami in 2022 — a direct beneficiary of Florida's zero-income-tax structure DeSantis maintained.
@@ -88,7 +88,7 @@ profile-status:: ready
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Koch Network / Wall Street
 
@@ -119,7 +119,7 @@ profile-status:: ready
 > **Mellon $10M → immigration theater:** Mellon's anti-immigration donations align precisely with migrant-transport stunts. The policy is the fundraising content.
 
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — DeSantis's education deregulation (charter school expansion, DEI elimination) is a real donor victory for the privatization network, but stops short of dismantling public education entirely. His wins advance private education interests without comprehensive school system restructuring.
 
@@ -129,7 +129,7 @@ profile-status:: ready
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The anti-woke pivot:** Frame every corporate power structure as "woke" rather than "powerful." Attack DEI programs while maintaining zero-tax structures that attract the corporations running DEI programs. The target is the branding, not the power.
 2. **The media enemy:** DeSantis positioned legacy media and "corporate media" as enemies — while his campaign spent tens of millions on ads in those same corporate media outlets.

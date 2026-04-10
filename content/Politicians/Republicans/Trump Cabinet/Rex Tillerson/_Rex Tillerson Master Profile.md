@@ -23,26 +23,26 @@ None yet. Potential sub-notes: Exxon-Russia Arctic venture, Secretary of State t
 
 ---
 
-### Who They Are
+## Who They Are
 
 Rex Tillerson (born March 23, 1952, Texas) spent 41 years at ExxonMobil, rising from production engineer to chairman and CEO (2006–2016), overseeing approximately 80,000 employees and $400 billion in annual revenue. Nominated by President Trump, he served as the 69th U.S. Secretary of State from February 2017 until being fired via tweet in March 2018. Estimated net worth: $300–400M, primarily from his Exxon career. His 2016 compensation was $27.4M, and he received a $180M retirement package of deferred stock over 10 years. Currently retired with a low public profile.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Tillerson's career is the fossil fuel revolving door in its purest form: 41 years building wealth and relationships inside the world's most powerful oil company, then a brief stint as Secretary of State where his primary qualification was his relationship with Putin (built through Exxon's $300B Arctic venture with Rosneft), followed by a return to private wealth. His nomination was a direct gift from the fossil fuel donor class to itself — installing one of their own at the top of U.S. foreign policy.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Tillerson was nominated to lead U.S. foreign policy because of his corporate relationships — particularly with Russia — then fired because those same relationships and corporate instincts clashed with Trump's approach. He reportedly called Trump a "moron," and Trump fired him via tweet. The corporate executive who was supposed to bring CEO discipline to diplomacy was undone by a president who operates on personal loyalty, not institutional competence.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Tillerson donated $468,970 to Republican candidates and committees from 2000 to 2016, including to George W. Bush, Mitt Romney, and Mitch McConnell — but notably not to Trump's campaign. His political spending was modest relative to his net worth, reflecting Exxon's institutional approach: influence through lobbying and industry associations rather than personal campaign contributions.
@@ -56,7 +56,7 @@ Tillerson's career is the fossil fuel revolving door in its purest form: 41 year
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -66,7 +66,7 @@ Tillerson's career is the fossil fuel revolving door in its purest form: 41 year
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 No sub-notes built yet. Key policy areas for future documentation:
 - Exxon-Russia relationship and sanctions
@@ -75,13 +75,13 @@ No sub-notes built yet. Key policy areas for future documentation:
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Tillerson operates with corporate executive framing: measured language, institutional deference, process-oriented thinking. As Secretary of State, he reportedly clashed with Trump by insisting on institutional processes and interagency coordination — the opposite of Trump's instinctive, personality-driven approach. His public statements since leaving office have been minimal, consistent with a corporate executive who views public commentary as unnecessary risk.
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Revolving Door** — 41 years at Exxon → Secretary of State → retirement. The most direct fossil-fuel-to-government pipeline in modern history.
 - **Donor-Class Override** — Nomination served Exxon's geopolitical interests (Russia sanctions relief, energy diplomacy) rather than foreign policy expertise.
@@ -89,7 +89,7 @@ Tillerson operates with corporate executive framing: measured language, institut
 
 ---
 
-### Sources
+## Sources
 
 - [Wikipedia: Rex Tillerson](https://en.wikipedia.org/wiki/Rex_Tillerson) (Tier 4)
 - [Politico: Exxon Russia sanctions and Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770) (Tier 2)
@@ -118,7 +118,7 @@ content-readiness:: draft
 - ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
 <!-- auto:congress-legislation end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

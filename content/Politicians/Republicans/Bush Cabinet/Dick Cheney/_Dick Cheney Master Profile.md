@@ -28,7 +28,7 @@ SORT file.name ASC
 
 ---
 
-### Who They Are
+## Who They Are
 
 Dick Cheney (born 1941) served as the 46th Vice President of the United States under George W. Bush (2001–2009), Secretary of Defense under George H.W. Bush (1989–1993), U.S. Representative from Wyoming (1979–1989, including House Minority Whip), and CEO of Halliburton (1995–2000). Wyoming native. Yale dropout. Defense hawk and architect of the Iraq War, the post-9/11 torture program, and the modern surveillance state. Net worth estimated at $90-100M on departure from office.
 
@@ -36,7 +36,7 @@ The career arc is simple: Congress → Secretary of Defense → American Enterpr
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Cheney is the textbook revolving-door operative: CEO of defense contractor Halliburton → Vice President → oversees a $2 trillion war that directs $10.8B+ in contracts to his former company → maintains financial ties (deferred compensation) throughout his tenure. His entire career demonstrates how the military-industrial complex uses political positions to systematize wealth transfers from public treasuries to corporate allies. The "national security" mandate is the cover.
 
@@ -44,7 +44,7 @@ More precisely: Cheney's financial interest in Halliburton's success was not eli
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Cheney publicly stated "I have no financial interest in Halliburton of any kind" (Meet the Press, September 2003). Congressional Research Service and Citizens for Responsibility and Ethics in Washington both found this claim false: his deferred compensation, stock options, and insurance policy on deferred comp payments represented ongoing financial interests. Cheney's solution was to purchase $14,903 in insurance to guarantee deferred compensation payments even if Halliburton went bankrupt — an instrument that gave him a direct stake in the company's financial survival. While Halliburton received no-bid contracts worth billions, Cheney's deferred compensation payments continued arriving at ~$1,000/week. The legal structure was carefully constructed to deny the conflict while preserving the financial relationship.
@@ -66,7 +66,7 @@ More precisely: Cheney's financial interest in Halliburton's success was not eli
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Halliburton / Defense-Industrial Complex
 
@@ -94,7 +94,7 @@ More precisely: Cheney's financial interest in Halliburton's success was not eli
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 **Iraq War:** Cheney was the primary advocate inside the Bush administration for invading Iraq. He made the most forceful pre-war public claims: "There is no doubt that Saddam Hussein now has weapons of mass destruction" (VFW Convention, August 2002); "We believe he has, in fact, reconstituted nuclear weapons" (NBC, March 2003); "We will be greeted as liberators" (NBC, March 2003). All three were false. By May 2005, with the insurgency growing, Cheney stated it was in its "last throes." The Iraq War cost $2 trillion+ and 4,500 American lives.
 
@@ -106,7 +106,7 @@ More precisely: Cheney's financial interest in Halliburton's success was not eli
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 ### "No doubt" Certainty Rhetoric
 Cheney specialized in stating uncertain or false intelligence claims with absolute certainty. "There is no doubt..." "We know that..." These formulations foreclosed debate by making any questioning of the evidence appear naive. The certainty was manufactured to serve the war agenda.
@@ -125,7 +125,7 @@ When challenged on Energy Task Force records, Warrantless Wiretapping, or tortur
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 Cheney embodies the **Revolving Door** pattern at its most explicit: corporate executive → government official responsible for directing contracts to his former employer → return to private life enriched by the government money his position authorized. He is not exceptional — he is the system functioning as designed. The revolving door is not a bug; it is the mechanism by which corporate interests colonize the state.
 
@@ -137,7 +137,7 @@ Cheney's constitutional project — maximal executive secrecy, minimal accountab
 
 ---
 
-### Sources
+## Sources
 
 - [Center for Public Integrity: Halliburton contracts balloon — $11.4B in Iraq/Afghanistan contracts](https://publicintegrity.org/national-security/halliburton-contracts-balloon/) (Tier 2)
 - [PolitiFact: Cheney's $34 million Halliburton compensation — True](https://www.politifact.com/factchecks/2010/may/24/chris-matthews/chris-matthews-says-cheney-got-34-million-payday-h/) (Tier 2)

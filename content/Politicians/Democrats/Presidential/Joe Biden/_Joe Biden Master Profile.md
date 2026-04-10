@@ -59,7 +59,7 @@ This mismatch became the defining feature of his career: real empathy for workin
 
 ---
 
-### Central Thesis — The Structural Democrat
+## Central Thesis — The Structural Democrat
 
 Biden is the structural Democrat. He genuinely believes he fights for working people — and he has done some real things (the ACA expansion, the IRA's clean energy investment, the $15 minimum wage push, the union tiebreaker votes). But his political formation is institutional Democratic politics, where "worker" means "union member" and "capital" means "the financial sector that funds elections." He is not anti-capital; he operates within capital's accepted parameters.
 
@@ -77,7 +77,7 @@ He is not a corrupt politician selling to the highest bidder. He is a structural
 
 ---
 
-### Core Contradiction — The "Middle-Class Joe" Brand vs. the Credit Card Senator Record
+## Core Contradiction — The "Middle-Class Joe" Brand vs. the Credit Card Senator Record
 
 Biden's entire brand is "Middle-Class Joe" — the guy who commutes from Claymont to the Senate, who empathizes with working families, who says things like "No one making under $400,000 a year will pay a dime more in taxes." The brand is credible in some ways: he did fight for union wages, he did push Amtrak funding for Delaware workers, he was not a Wall Street populist like Trump.
 
@@ -98,7 +98,7 @@ The consistency across five decades is remarkable: real concessions to labor + p
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance (Credit Card Industry)
 
@@ -203,7 +203,7 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 ### 2021–2024: $886B defense budgets + $113B Ukraine aid = direct transfer to military contractors → record profits. Simultaneously, working-class spending proposals (child tax credits, ACA expansion, childcare) killed as "fiscally irresponsible." Deficit spending accepted for war; deficit spending rejected for social policy.
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Biden's IRA drug negotiation, insulin price cap, and union tiebreaker authority represent genuine working-class policy victories. These are real material gains. However, the structural limit is immediately visible: IRA drug negotiation applies to 10 drugs out of 12,000+ available. The cap is $35 for insulin, but the broader category of prescription drugs remains unaddressed. Union power is enhanced through NLRB tiebreakers but structural labor law (PRO Act) never reaches legislative priority. The wins are calibrated to satisfy the base without threatening pharmaceutical or corporate donor interests.
 
@@ -213,7 +213,7 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The "Middle-Class Joe" Brand:** Biden's entire political identity is built on working-class empathy and authenticity. The Amtrak commute story, the Claymont roots, the "folks" language — all signal that Biden is not elite, that he understands working people's struggles. This brand is not entirely false; Biden's early life was working-class, and his empathy for working people is probably genuine. But the brand functions to make his structural alignment with capital invisible. "Middle-Class Joe" can take corporate money because the brand says he's one of them, not one of the Wall Street suits. The contradiction between the brand and the record (bankruptcy bill, pharma limits, defense budgets) is managed by repeating the brand.
 
@@ -227,7 +227,7 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 
 ---
 
-### Sources
+## Sources
 
 - [ProPublica: Biden's Cozy Relations With Bank Industry](https://www.propublica.org/article/bidens-cozy-relations-with-bank-industry-825) (Tier 2)
 - [NPR: Biden's Link To Credit-Card Firm Questioned](https://www.npr.org/2008/08/25/93954519/bidens-link-to-credit-card-firm-questioned) (Tier 2)
@@ -268,7 +268,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P60012143/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

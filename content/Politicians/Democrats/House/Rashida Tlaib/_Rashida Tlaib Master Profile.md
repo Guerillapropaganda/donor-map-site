@@ -43,7 +43,7 @@ SORT title ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Rashida Tlaib. Democratic Representative from Michigan's 12th District (Detroit, Dearborn). Palestinian-American, first Palestinian-American in Congress, one of the first two Muslim women elected to Congress (2018, alongside [[_Ilhan Omar Master Profile|Ilhan Omar]]). Original "Squad" member. Card-carrying member of the Democratic Socialists of America (DSA). Serves on the Oversight Committee. Endorsed by Justice Democrats in 2018.
 
@@ -53,13 +53,13 @@ Tlaib refuses all corporate PAC money. Her fundraising model is almost entirely 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Tlaib represents the intersection of Palestinian-American identity politics and working-class Detroit economics — a combination that makes her impossible for AIPAC to defeat in her district but perpetually marginalized within the Democratic caucus.** Her Detroit-Dearborn district is both too working-class for corporate Democrats and too pro-Palestinian for AIPAC-aligned Democrats, creating a safe seat that produces an isolated legislator. She is the vault's clearest example of an alternative donor model: small-dollar grassroots funding that insulates a politician from traditional corruption vectors while limiting their institutional power.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Tlaib's Oversight Committee position gives her genuine investigative authority — she has used it to challenge corporate pollution in Detroit ([[Marathon Petroleum]] refinery chemical leak, clean car standards rollback), water contamination, and environmental racism. But her Palestine advocacy overshadows her Oversight work in media coverage, reducing her legislative profile to a single issue. The media incentive structure rewards her most controversial position (Palestine) and ignores her most constituency-relevant work (environmental justice in Detroit).
 
@@ -92,7 +92,7 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Sector | Key Donors | What They Want | What They Get |
 |--------|-----------|---------------|---------------|
@@ -124,7 +124,7 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Personal Narrative:** Tlaib grounds political arguments in her Palestinian-American identity and working-class Detroit upbringing. This is not performative — it's her actual constituency. Unlike moderate Democrats who invoke identity for donor-class credibility, Tlaib's identity is the reason she's targeted.
 
@@ -132,7 +132,7 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Alternative Donor Model:** Tlaib is the vault's strongest case study for small-dollar fundraising as a genuine alternative to corporate PAC dependency. Her $6.7M cycle on grassroots donations proves the model works — but only in districts with specific demographic conditions (heavily Democratic, ethnic solidarity base, no viable primary challenger).
 
@@ -163,7 +163,7 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 
 <!-- auto:govtrack end -->
 
-### Sources
+## Sources
 
 - [FEC Candidate: Rashida Tlaib campaign finance summary](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
 - [FEC: Rashida Tlaib committee filings](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
@@ -217,7 +217,7 @@ content-readiness:: developed
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

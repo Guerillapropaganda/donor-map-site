@@ -53,7 +53,7 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] �
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Chris Coons Master Profile|Chris Coons]] is the senior United States Senator from Delaware, serving since November 2010. Born September 9, 1963, in Greenwich, Connecticut. B.A. in chemistry and political science from Amherst College. Master's in ethics from Yale Divinity School. J.D. from Yale Law School. Worked for eight years as in-house counsel at W.L. Gore & Associates (makers of Gore-Tex), handling ethics training, federal government relations, and commercial contracting. Served as president of the New Castle County Council (2001–2005) and New Castle County Executive (2005–2010). Won a 2010 special election against Christine O'Donnell to fill Joe Biden's Senate seat — the seat Biden vacated when he became Vice President. Coons's family business manufactures medical devices and depends on patents to maintain its monopolies. Reelected 2014 and 2020.
 
@@ -63,7 +63,7 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] �
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee portfolio (Judiciary for patent law, Foreign Relations for vaccine IP, Appropriations for research funding) maps directly onto the industries that fund him. His patent maximalism — strengthening IP protections that extend pharmaceutical monopolies, opposing vaccine patent sharing during COVID, and fighting to weaken the Patent Trial and Appeal Board that challenges bad patents — serves the pharmaceutical donor class that provided $124,000+ in his 2020 cycle alone (making him the third-highest pharma recipient in the Senate). The Biden seat serves the same interests it always has. The occupant changed. The function didn't.
 
@@ -72,14 +72,14 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Coons presents himself as a moderate, bipartisan dealmaker who gets things done across the aisle. His ethics training background at W.L. Gore and his Yale Divinity ethics degree are part of the personal brand. But his legislative record on patent law and pharmaceutical policy serves the industry that funds him at the direct expense of drug affordability. He cosponsored the Patent Reform Act of 2011, backed by PhRMA and the Biotechnology Innovation Organization. He slipped a provision into the 2019 NDAA eliminating federal funding limits for a pharma-partnered biomanufacturing institute. He introduced the STRONG Patents Act to make it harder to challenge pharmaceutical patents at the PTAB — the single most effective tool for reducing drug monopolies. And during the global COVID vaccine crisis, he invoked Red Scare rhetoric and the Capitol riot to argue against sharing vaccine patents with the developing world, defending pharma IP profits while millions died waiting for access. The ethics degree holder uses ethics language to defend the pharmaceutical industry's right to maintain monopoly pricing.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -92,7 +92,7 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -112,7 +112,7 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Coons has genuine legislative accomplishments — bipartisan foreign policy work, Africa subcommittee leadership, and real ethics committee oversight. The structural limit: every patent law position, every pharmaceutical policy vote, every bankruptcy jurisdiction protection serves the Delaware corporate ecosystem that funds him. The genuine bipartisan work provides cover for industry-aligned votes that never get the same attention.
 
@@ -124,7 +124,7 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **Ethics Credentialing:** Yale Divinity ethics degree + W.L. Gore ethics program director. Uses personal ethics training background to establish moral authority while legislating for pharma profits. The credentials are real; the deployment is strategic.
 
@@ -138,7 +138,7 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Chris Coons Campaign Finance Summary](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
 - [FEC: Chris Coons for Delaware (C00475392)](https://www.fec.gov/data/committee/C00475392/) (Tier 1)
@@ -226,7 +226,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S0DE00092/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

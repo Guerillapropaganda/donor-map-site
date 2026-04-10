@@ -48,19 +48,19 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 [[_Nikki Haley Master Profile|Nikki Haley]]. Born January 20, 1972, Bamberg, South Carolina. Born Nimrata Nikki Randhawa. Clemson University (accounting). South Carolina State House of Representatives (2005–2011). Governor of South Carolina (2011–2017) — first female governor, first governor of South Asian descent in U.S. history. U.S. Ambassador to the United Nations (2017–2018) under Trump. 2024 Republican presidential candidate — last non-Trump challenger standing, suspended campaign March 6, 2024, after losing South Carolina, her home state, by 20 points. Endorsed Trump at the Republican National Convention in July 2024 — months after calling him "unfit" and warning that "chaos follows" wherever he goes. Net worth: grew from ~$1M (2019) to ~$8M (2022), accelerated by [[Boeing|Boeing]] board membership and book sales.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Haley is the donor class's "electability" candidate — the corporate-friendly, defense-hawk Republican who could theoretically win general elections by assembling the pre-Trump GOP coalition: suburban voters, defense establishment, Wall Street, and the Koch network's free-market libertarians. Her 2024 donor base was the pre-Trump Republican establishment trying to recapture the party through a polished, diverse, internationally credentialed candidate. The Koch network's AFP Action endorsement — the first-ever Koch presidential primary endorsement — represented the institutional conservative establishment's bet that someone other than Trump could win. The bet failed. Haley's post-primary Trump endorsement after calling him unfit is the donor class's ultimate lesson in pragmatism: when you can't beat the populist, you join him and wait for 2028.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Haley called Trump "dangerous" and "unfit to serve" in February 2024, warned that "chaos follows" him, and said in a February 20 speech in Greenville: "Many of the same politicians who publicly embrace Trump privately dread him." By July 2024, she was on the RNC stage pledging her "strong endorsement." The contradiction is not hypocrisy — it is a rational calculation of the donor class's interests. Haley's Wall Street and Koch backers need access to power. If Trump wins the White House, endorsing him costs nothing and preserves access. If Trump loses, Haley positions herself as the obvious 2028 alternative. The endorsement is not a conviction — it is a hedge.
@@ -69,7 +69,7 @@ profile-status:: ready
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The [[Koch Network - Charles Koch|Koch Network]] — The Institutional Bet:
 - [[Koch Network - Charles Koch]] — AFP Action endorsed Haley on November 28, 2023, pledging tens of millions in the GOP primary. First presidential primary endorsement in Koch network history. The endorsement came with a multimillion-dollar ad campaign in Iowa, New Hampshire, and Super Tuesday states, plus voter contact operations that had already reached 6 million primary voters. Koch's shift from DeSantis to Haley illustrated the donor class's sequential vehicle selection: as DeSantis's polls collapsed, the anti-Trump donor money needed a new vessel.
@@ -114,7 +114,7 @@ The flag removal is the clearest example in Haley's record of a moment that was 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Haley is the donor class's "electable moderate" product — Boeing's 120x return on South Carolina investment and Singer's $22M total loss represent the two extremes of donor-class ROI.*
 
@@ -147,7 +147,7 @@ The flag removal is the clearest example in Haley's record of a moment that was 
 > **UN Ambassador as AIPAC delivery mechanism:** Haley's UN record (14 vetoes, Human Rights Council withdrawal, embassy move support) represents the Israel lobby's most complete capture of a UN Ambassador in history. The sequence runs: AIPAC donor access → UN Ambassador role → UN policy becomes AIPAC priority checklist.
 
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Haley's corporate tax positions are real donor victories for her Wall Street funding base, but stop short of eliminating corporate taxation entirely. Her policy wins advance capital-aligned interests without comprehensive tax system restructuring.
 
@@ -157,7 +157,7 @@ The flag removal is the clearest example in Haley's record of a moment that was 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The electability argument:** "I'm the candidate who can actually win." The argument rests entirely on donor-class desire for a Trump alternative, not demonstrated grassroots support. She lost her home state by 20 points.
 2. **The immigrant narrative:** Haley consistently invokes her Indian-American immigrant heritage as proof of American meritocracy. The narrative erases the class reality: her family were educated professionals, not economic refugees. The meritocracy story is used to oppose structural remedies for racism.
@@ -172,7 +172,7 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Nikki Haley 2024 presidential fundraising and contributors](https://www.opensecrets.org/news/2023/02/nikki-haley-launches-2024-presidential-campaign-after-years-of-raising-big-money/) (Tier 1)
 - [PBS NewsHour: Nikki Haley gains crucial endorsement from Koch network in bid to challenge Trump](https://www.pbs.org/newshour/politics/nikki-haley-gains-crucial-endorsement-from-koch-network-in-bid-to-challenge-trump) (Tier 2)

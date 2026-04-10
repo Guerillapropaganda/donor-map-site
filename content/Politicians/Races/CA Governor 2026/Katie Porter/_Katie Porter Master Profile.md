@@ -35,7 +35,7 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Katie Porter. Former U.S. Representative (CA-47, 2019–2025). UC Irvine law professor. 2024 U.S. Senate candidate (lost primary). 2026 California governor candidate. [[_Elizabeth Warren Master Profile|Elizabeth Warren]] protégé — took Warren's bankruptcy course at Harvard Law, named her daughter Elizabeth after her. Served as independent monitor of $25 billion mortgage settlement (appointed by AG [[_Kamala Harris Master Profile|Kamala Harris]], 2012), overseeing $9.5 billion in reforms for California homeowners.
 
@@ -43,20 +43,20 @@ Net worth: $175,000–$2.1 million (2023 disclosure). UCI salary: $286,674 (2017
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Katie Porter is the donor class's mirror image: a politician whose fundraising model is built on rejecting the donor class itself. Her brand — the whiteboard, the consumer protection hearings, the refusal of corporate PAC money — functions as a fundraising machine precisely because it opposes the system every other candidate operates within. The contradiction: her anti-corporate model still requires millions of dollars and depends on the same digital fundraising infrastructure ([[ActBlue|ActBlue]]) that channels donor-class money to establishment Democrats. She threatens the donor class not because she has more money, but because she demonstrates an alternative model for acquiring political power without donor permission.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Porter's "clean cash" narrative contains documented gaps. She refuses corporate PAC money and donations from executives at Big Oil, Big Pharma, and Wall Street banks — but the definitions are narrow enough to permit billionaire investor Seth Klarman ($13,900 across campaigns), former [[Goldman Sachs|Goldman Sachs]] executive Donald Mullen ($8,000+, the man who spearheaded Goldman's subprime mortgage profiteering), and trade group PAC money from the American Council of Life Insurers and Council of Insurance Agents & Brokers. The whiteboard populist accepts money from the financial class when the financial class is defined precisely enough to exclude specific donors. The anti-corporate brand is real in its political function — it genuinely drives small-dollar fundraising and threatens crypto industry interests — but it is not the absolute purity her campaign claims.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 The Porter donor landscape is structurally different from every other profile in this vault. Instead of mapping who funds her, the primary story is **who opposes her and why**.
 
@@ -74,7 +74,7 @@ The Porter donor landscape is structurally different from every other profile in
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Porter's timeline inverts the standard donor-to-policy model. Instead of mapping who funds her, the primary story is who opposes her and why. The "Donor" column includes both supportive grassroots funding and opposition spending against her.*
 
@@ -107,7 +107,7 @@ The Porter donor landscape is structurally different from every other profile in
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Porter's consumer protection work (whiteboard hearings on credit card fees, pharma pricing) achieves real policy wins (corporate executives on record, SEC enforcement actions, public awareness of predatory practices). These are genuine. But they stop short of structural change: the companies continue operating, the fees continue, the pricing continues. Her work documents and embarrasses corporate behavior but does not threaten the underlying business model. The structural limit: her anti-corporate brand provides political cover for the system's continuance while appearing to challenge it.
 
@@ -145,7 +145,7 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Whiteboard:** Visual simplification of corporate malfeasance. Makes the donor class legible to non-expert audiences. Congressional hearing clips become viral fundraising content.
 2. **The Direct Question:** Forces corporate executives to answer yes/no questions they want to obfuscate. The technique works because it mirrors cross-examination — Porter is a law professor, not a politician.
@@ -154,7 +154,7 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 ---
 
-### Sources
+## Sources
 
 - [CalMatters: California Governor Race Fundraising Reports](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - [Congress.gov: Katie Porter Campaign Finance](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded) (Tier 1)

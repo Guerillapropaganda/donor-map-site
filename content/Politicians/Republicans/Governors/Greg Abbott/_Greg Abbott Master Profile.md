@@ -35,13 +35,13 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Greg Abbott. Born November 13, 1957, in Wichita Falls, Texas. Republican Governor of Texas since 2015. Former Texas Attorney General (2002–2015), Texas Supreme Court Justice (1995–2001). Partially paralyzed since 1984 when a falling oak tree crushed his spine during a jog — he won a settlement that pays him $14,000+/month for life, then signed tort reform limiting others' ability to win similar settlements. That contradiction is the entry point for everything that follows.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Abbott is the vault's clearest example of a fossil fuel governor — a politician whose donor base, policy agenda, and governing philosophy are dominated by a single industry. Of $166 million raised across his career, approximately $30 million (18%) came directly from oil, gas, and energy interests. Four of his top ten individual donors are fossil fuel executives. His single largest donor is Javaid Anwar (Midland oilman, $2.4M+ career total, with $1.6M donated in the latter half of 2025 alone). His energy policy — deregulation of the Texas grid, resistance to renewable mandates, fossil fuel protections — has produced direct financial returns for these donors and direct physical harm to Texans (246+ deaths in the 2021 grid failure).
 
@@ -49,7 +49,7 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > In 1984, a falling tree paralyzed Greg Abbott during a jog. He sued the homeowner and the tree care company. The settlement pays him approximately $14,000/month for life — over $6 million to date, with payments continuing until death. In 2003, as Attorney General, Abbott championed and Governor Perry signed comprehensive tort reform that capped non-economic damages at $250,000 in medical malpractice cases and imposed procedural barriers that make it harder for ordinary Texans to win the kind of settlement that sustains Abbott's own lifestyle.
@@ -58,7 +58,7 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Fossil Fuel Dominance:
 - [[The Power Grid Failure and the Fossil Fuel Protection Racket]] — February 2021 ERCOT collapse, 246+ deaths, deregulation history, which donors profited, [[Kelcy Warren|Kelcy Warren]]'s $1M donation after the crisis
@@ -73,7 +73,7 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Abbott's fossil fuel donors funded deregulation, then profited from the deregulation's catastrophic failure. Kelcy Warren's company made billions from energy price spikes during the 2021 blackout that killed 246+ Texans; Warren then donated $1M to Abbott. The donation was payment for services rendered.*
 
@@ -101,7 +101,7 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Abbott's election security emphasis (voter ID laws, reduced mail voting) reflects a real policy victory for his donor base, but stops short of threatening oil/gas deregulation or energy sector dominance. Election suppression serves donor interests through Republican advantage without challenging the economic structure that created his donors' wealth.
 
@@ -113,7 +113,7 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Culture War Cover:** When grid deregulation or border wall ineffectiveness is scrutinized, Abbott pivots to immigration enforcement or cultural grievance — "woke" universities, trans athletes, border invaders. The performative culture war keeps constituent attention on immigration rather than energy policy or grid safety.
 
@@ -125,7 +125,7 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Greg Abbott donor profile and campaign finance](https://www.opensecrets.org/officeholders/greg-abbott/summary?cycle=2022&id=11281947) (Tier 1)
 - [Texas Tribune: Greg Abbott enters 2026 race with $106 million on hand](https://www.ksat.com/news/texas/2026/01/16/greg-abbott-enters-2026-texas-governors-race-with-staggering-106-million-on-hand/) (Tier 2)
@@ -139,7 +139,7 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 - [Al Jazeera: Operation Lone Star border enforcement](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

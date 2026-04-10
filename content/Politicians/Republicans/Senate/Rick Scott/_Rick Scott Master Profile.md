@@ -41,26 +41,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Florida (2011–2019). Former CEO of Columbia/HCA — the company that committed the largest Medicare fraud in U.S. history ($1.7 billion settlement, 14 felonies). Invoked the Fifth Amendment 75 times in deposition. Departure package: $370M+. Self-funded $152M+ across campaigns. Net worth: $200–300M (wealthiest member of Congress). NRSC chair 2022 (spent 95% of $181.5M before general election). Wife Ann Scott's portfolio: 550+ investment items, Cayman Islands hedge funds, tech giants.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Rick Scott is the most literal example of the donor-class thesis: he IS the donor class. He doesn't receive money from healthcare fraudsters — he WAS the healthcare fraudster. He doesn't receive self-funding from a clean fortune — his $152M+ in campaign self-funding comes from the $370M+ golden parachute he received after presiding over a company that stole $1.7 billion from Medicare. Scott purchased a governorship and a Senate seat with the proceeds of the largest healthcare fraud in American history. He votes on healthcare policy that affects the industry he defrauded. He holds $200–300M in investments affected by every vote he takes, managed through a "blind trust" that was blind in name only. Scott doesn't represent the donor class's capture of politics — he represents the donor class's direct occupation of politics.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Rick Scott stole $1.7 billion from Medicare through Columbia/HCA. He now votes on Medicare policy in the U.S. Senate. In 2022, he proposed his "Plan to Rescue America," which included a sunset clause for ALL federal legislation — including Medicare, Social Security, and Medicaid. The man who stole from Medicare proposed ending Medicare. He now votes against ACA subsidies despite Florida having 4.7 million consumers relying on them — more than any state. The fraud funded the fortune. The fortune funded the campaigns. The campaigns purchased the votes. The votes threaten the programs he already stole from. The loop is complete.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Fraud Fortune:
 - [[Columbia-HCA and the Largest Medicare Fraud in History]] — $1.7B settlement, 14 felonies. Scott: $9.88M settlement, $5.1M severance, $4.75M consulting, $350M+ stock. Fifth Amendment 75 times. Never personally charged. The golden parachute funded every subsequent campaign. The fraud was the origin of the political career.
@@ -73,7 +73,7 @@ Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Flo
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Scott has secured genuine policy victories on healthcare deregulation and ACA opposition that benefit his personal portfolio and the healthcare industry donor class. His "Plan to Rescue America" with sunset clauses represents a real attempt to dismantle federal healthcare systems. However, these victories are narrowly constructed to protect healthcare industry profit structures rather than challenging the fundamental mechanisms through which healthcare corporations extract wealth from public resources. Deregulation and privatization serve specific corporate interests while avoiding broader questions about healthcare access and equity.
 
@@ -95,7 +95,7 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Scott is like Manchin — the senator IS the donor. His $370M+ fortune derived from Columbia/HCA, which committed the largest Medicare fraud in U.S. history ($1.7B settlement). The man who stole from Medicare now writes healthcare legislation.*
 
@@ -128,7 +128,7 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The businessman:** "I'm a businessman, not a politician." The business was healthcare fraud. The businessman became the politician with fraud proceeds. The frame erases the origin story.
 2. **The tax cutter:** Scott's signature gubernatorial achievement was cutting taxes and regulations. Every tax cut benefited his own $200–300M portfolio. The "business-friendly" agenda is self-service.
@@ -137,7 +137,7 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 
 ---
 
-### Sources
+## Sources
 
 - [PolitiFact: Columbia/HCA fraud](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
 - [DOJ: Settlement records](https://www.justice.gov/archive/opa/pr/2003/June/03_civ_386.htm) (Tier 1)

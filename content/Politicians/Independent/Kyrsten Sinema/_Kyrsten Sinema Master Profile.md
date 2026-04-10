@@ -39,26 +39,26 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Kyrsten Sinema. Former U.S. Senator from Arizona (2019–2025). Left the Democratic Party to register as Independent (December 9, 2022). Did not seek reelection in 2024 despite holding a $10.6 million campaign war chest. Post-Senate: joined Hogan Lovells as Senior Advisor for AI, crypto, and regulatory affairs (March 2025); appointed to Coinbase Global Advisory Council (January 2025); founded AI Infrastructure Coalition; professor at Arizona State University. The most documented case of real-time donor capture in modern Senate history: ran as a progressive bisexual social worker in 2018, shifted to Wall Street and private equity funding by 2021, blocked the carried interest loophole closure that would have cost her new donors $6.5–14 billion over a decade, then moved directly to the industries she protected within months of leaving office.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Kyrsten Sinema is the defining illustration of donor-class capture functioning at maximum efficiency. The carried interest kill alone — her decision to block a tax provision that would have cost the private equity industry $6.5–14 billion per decade — reveals the anatomy of modern political corruption: a senator receives concentrated donations from a narrow industry ($1 million+ from Wall Street in the single year before she killed the provision), then performs that industry's legislative agenda in exchange. But Sinema's case is cleaner, more efficient, and more damning than most donor-class relationships because the timeline is transparent and the exchange is unambiguous. She received $3.5 million+ from securities/investment industry donors over her career. Nearly $1 million arrived in the year before the IRA vote. She killed the carried interest closure. Private equity kept a $6.5–14 billion tax exemption. The exchange rate is documented. The quid pro quo is inscribed in voting records and donation dates. And once the Senate service was complete, Sinema moved directly onto the boards and advisory councils of the industries she had served — completing the revolving door in under 90 days.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Kyrsten Sinema was elected in 2018 as a progressive Democrat: bisexual, a former social worker, cannabis legalization advocate, vocal about voting rights and drug pricing reform. The candidate marketed herself as an outsider challenging Republican power in Arizona. She received significant small-dollar funding and enthusiastic grassroots support from Democratic voters. By 2021, as a sitting senator, she had pivoted entirely: she opposed voting rights reform (joining Manchin to block the Freedom to Vote Act), opposed drug pricing reform (limiting it to 10 drugs), protected carried interest tax breaks (killing a provision worth $6.5–14 billion to private equity), and voted against wage increases. The Arizona Democratic Party censured her in January 2022. By the time she switched to Independent in December 2022, her funding had shifted dramatically from small-dollar to Wall Street (nearly $1 million from securities/investment industry in 2022 alone). Her post-Senate career confirms the exchange: she joined industries she had legislatively protected. The contradiction is not incidental. It is the defining feature of donor-class capture: the politician runs on one platform, governs on behalf of donors, then joins the donor class upon leaving office. Sinema's biography is the visual flowchart of that process.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Carried Interest Kill and the Wall Street Fundraising Surge:
 - [[The Carried Interest Kill and the Wall Street Fundraising Surge]] — Deep dive on the $6.5–14 billion loophole preservation, quarter-by-quarter fundraising shift, August 2022 IRA negotiations, private equity donations (Blackstone $287K, Carlyle $196K, Apollo $145K), and the 1% stock buyback excise tax as inadequate replacement.
@@ -89,7 +89,7 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Sinema is the vault's clearest case of real-time donor capture. Her fundraising shifted from small-dollar (2018) to Wall Street (2021-2022), and the revolving door completed in under 90 days after leaving the Senate.*
 
@@ -123,7 +123,7 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The maverick brand:** Sinema marketed herself as an "independent thinker" above partisan divides. This positioning obscured the reality: she was not independent of donors; she was independent only from her own party's voters while deeply dependent on Wall Street.
 
@@ -137,7 +137,7 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Villain Framing** — Sinema frames her post-election transition to Independent status and her refusal to seek reelection as principled independence and exhaustion from partisan warfare. She positions herself as above politics. The actual framing obscures: she was censured by her own party, faced strong primary challenger, abandoned her small-dollar base, and moved directly into lobbying for industries she had protected in the Senate. The villain framing (partisan Democrats forcing her out) replaces class analysis (Wall Street and PE donors purchased her loyalty, then hired her after her Senate service ended).
 
@@ -145,7 +145,7 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Kyrsten Sinema Campaign Finance Summary](https://www.fec.gov/data/candidate/H2AZ09019/) (Tier 1)
 - [PBS: Sinema received nearly $1 million from Wall Street while killing tax hike on investors](https://www.pbs.org/newshour/politics/sinema-received-nearly-1-million-from-wall-street-while-killing-tax-hike-on-investors) (Tier 2)
@@ -161,7 +161,7 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 - [Truthout: Private equity gave Sinema $500K, she exempted it from corporate minimum tax](https://truthout.org/articles/private-equity-gave-sinema-500k-so-she-exempted-it-from-corporate-minimum-tax/) (Tier 2)
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

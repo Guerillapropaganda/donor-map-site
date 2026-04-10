@@ -42,26 +42,26 @@ related: [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master 
 
 ---
 
-### Who They Are
+## Who They Are
 
 Steve Scalise. Republican congressman from Louisiana's 1st Congressional District since 2008. House Majority Leader in the 119th Congress — the second-highest position in House Republican leadership. Previously served as House Majority Whip (2014-2019) and House Minority Whip (2019-2023). Former chairman of the Republican Study Committee. Senior member of the House Energy and Commerce Committee, serving on the Energy and Environment Subcommittee and the Commerce, Trade, and Consumer Protection Subcommittee. Before politics, worked as a software engineer and technology company marketing executive. B.S. from Louisiana State University. Survived a mass shooting at a congressional baseball practice in June 2017. Diagnosed with multiple myeloma (blood cancer) in August 2023 — described it as "very treatable." Nominated for House Speaker in October 2023 after Kevin McCarthy's ouster but withdrew his candidacy after failing to secure enough votes, partly due to resurfaced controversy over a 2002 speech to a white supremacist group founded by David Duke. Career fundraising exceeds $85 million through his campaign committee; leadership PAC has raised over $11 million.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Scalise's donor-class function is to serve as the fossil fuel industry's highest-ranking legislative operator in the House. Representing Louisiana — a state whose economy is built on oil, gas, petrochemicals, and offshore drilling — Scalise translates the energy industry's policy agenda into legislative action from the second-most powerful position in House leadership. Four of the five largest PAC donors to his joint fundraising committee come from the oil and gas sector. Koch Industries and Valero Energy are among his top PAC donors. He ranks fourth among all House lawmakers in oil and gas contributions. From the Energy and Commerce Committee, he introduced the Lower Energy Costs Act (H.R. 1) to repeal methane emissions fees, gut EPA regulatory authority, and fast-track fossil fuel permitting — a bill that would sweep away Biden-era climate policy wholesale. His career arc — from the Energy Committee to Majority Whip to Majority Leader — maps to the fossil fuel industry's need for a loyal operator who rises through leadership while never losing focus on their core policy priorities: block climate regulation, expand drilling, and ensure the regulatory state cannot constrain extraction.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Scalise frames himself as fighting for lower energy costs for working families and reducing dependence on "hostile foreign countries." But the primary beneficiaries of his legislative agenda are multinational energy corporations, not Louisiana families paying utility bills. The Lower Energy Costs Act repeals methane emissions fees and EPA regulatory authority — policies designed to protect the air and water quality of communities living near petrochemical plants and refineries, which are disproportionately poor and Black communities in Louisiana's "Cancer Alley." The congressman who survived a shooting and a cancer diagnosis champions the interests of industries whose pollution causes cancer in his own constituents. His district includes some of the most petrochemical-saturated communities in America, and his legislative record ensures they remain that way.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Career campaign fundraising exceeds $85.2 million. Leadership PAC (Scalise Leadership Fund) has raised $11.3M+. Four of the five largest PAC donors to his joint fundraising committee come from the oil and gas sector. Koch Industries and Valero Energy are among top PAC contributors. Ranks 4th among all House lawmakers in 2023-24 oil and gas contributions. AT&T Inc. was the top donor to Team Scalise in the 2024 cycle ($48,818). Top industry sectors include oil and gas, chemicals, building materials, automotive, and accountants.
@@ -82,7 +82,7 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
@@ -97,7 +97,7 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Energy & Fossil Fuels (Core Function):
 - Introduced H.R. 1, the Lower Energy Costs Act — repeals methane emissions fee, eliminates "green bank" for low-carbon projects, guts EPA regulatory authority, fast-tracks fossil fuel permitting
@@ -123,7 +123,7 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **"Lower costs" populism:** Frames every fossil fuel deregulation bill as lowering costs for families — while the structural beneficiaries are energy corporations whose profit margins expand with fewer regulations.
 - **"American energy independence" nationalism:** Casts climate regulation as dependence on "hostile foreign countries" and fossil fuel expansion as patriotic — obscuring that U.S. energy companies are multinational corporations that export product globally.
@@ -132,7 +132,7 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Genuine Win + Structural Limit:** The RESTORE Act (2012) was a real bipartisan win for Louisiana's coast — but it also preserved the energy industry's social license to operate in the Gulf by showing that spill damage gets cleaned up, rather than questioning whether the drilling should continue.
 - **Villain Framing:** Frames EPA, "woke regulators," and the Biden administration as villains threatening Louisiana's economy — never the energy companies whose operations create Cancer Alley.
@@ -142,7 +142,7 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Steve Scalise campaign finance summary](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)
 - [FEC Candidate: Steve Scalise industry contributions 2020](https://www.fec.gov/data/candidate/H0LA01087/) (Tier 1)

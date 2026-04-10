@@ -53,7 +53,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Jim Himes represents Connecticut's 4th Congressional District — Fairfield County, the hedge fund corridor between New York and Boston. Before Congress, he spent twelve years at Goldman Sachs, rising to Vice President in the Latin American finance division. He joined Goldman in 1998, left in 2003 to work at a nonprofit housing developer, and won his House seat in 2008 — the year Goldman's industry detonated the global economy.
 
@@ -63,20 +63,20 @@ Net worth: approximately $9.3 million. District median household income: $117,00
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his party publicly championed. He is the Democratic Party's answer to the revolving door — not a Republican deregulation crusader, but a "thoughtful moderate" who achieves the same outcomes with softer language. His career demonstrates that Wall Street doesn't need to buy Democrats when it can send its own people to Congress.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Himes brands himself as a pragmatic progressive who supports "smart regulation" of the financial industry. His actual record: co-introduced H.R. 992 (the Swaps Regulatory Improvement Act), a bill literally written by Citigroup lobbyists to roll back Dodd-Frank derivatives protections. Voted to raise the bank regulatory threshold from $50 billion to $250 billion in assets — the exact deregulation that contributed to the Silicon Valley Bank collapse five years later. He represents the district where the money lives, sits on the committee that regulates the money, and came from the firm that is the money. The "smart regulation" brand is the regulation Wall Street writes for itself.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising (2024 cycle):
 - Total raised: ~$3.5 million
@@ -106,7 +106,7 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Wall Street → Financial Deregulation
 | Date | Type | Event | Donor | Amount | Gap |
@@ -126,7 +126,7 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door:** Goldman Sachs VP (1998-2003) → Congress (2009-present) → Financial Services Committee. The classic pipeline: learn the industry from inside, then regulate it from a position shaped by that experience and funded by those relationships. Himes didn't need to be lobbied by Goldman — he was Goldman.
 
@@ -138,7 +138,7 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Smart regulation"** — The framing that allows voting for Wall Street's preferred policies while maintaining a pro-regulation brand. Never "deregulation." Always "modernizing" or "improving" or "right-sizing" existing rules.
 
@@ -156,7 +156,7 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jim Himes donor profile](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1)
 - [FEC Candidate: Jim Himes industry donors](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1)
@@ -211,7 +211,7 @@ content-readiness:: ready
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Jim%20Himes%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

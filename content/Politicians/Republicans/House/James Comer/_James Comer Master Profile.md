@@ -45,7 +45,7 @@ donors:
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 James Comer. Republican, Kentucky's 1st District (rural western Kentucky). Born 1972. First elected to Congress in 2016. Chair, House Oversight and Accountability Committee (118th and 119th Congress) — one of only three House committee chairs with unilateral subpoena power, meaning he can issue subpoenas without a committee vote or ranking member consultation.
 
@@ -55,20 +55,20 @@ His district is R+24 (17th most Republican in the country), median household inc
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The Biden family investigation consumed 18+ months, produced zero criminal charges against President Biden, and relied on a central informant (Alexander Smirnov) who was charged with felony lying. Meanwhile, Comer dropped investigations into Trump's presidential profiteering and Jared Kushner's $2 billion Saudi deal, explicitly stating: "There have been so many investigations of President Trump. I don't feel like we need to spend a whole lot of time investigating President Trump." The investigation-as-product is the key: high-profile hearings generate Fox News coverage, which generates donor engagement, which generates campaign cash — regardless of whether the investigation produces evidence. The oversight power isn't being used for oversight. It's being used for content production.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Comer built the Biden investigation around allegations of family financial opacity — shell companies, undisclosed income, loans between relatives. But Comer's own finances mirror the pattern he attacked. His shell company, Farm Team Properties (co-owned with his wife), increased in value from $50,000-$100,000 in 2016 to $500,001-$1,000,000 by 2022. He purchased 6 acres from a campaign donor (Darren Cleary) for $128,000. He provided a $200,000 loan to his brother — the exact type of family financial arrangement he spent 18 months investigating in the Biden family. Family land swaps show his brother buying property for $100,000 and James repurchasing it five months later for $218,000 — an unexplained $18,000 premium. The man who subpoenaed bank records to trace Biden family financial flows has his own financial flows running through the same structures he called suspicious.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **OpenSecrets CID:** N00038260
 **FEC Candidate ID:** H6KY01110
@@ -123,7 +123,7 @@ Comer's stated reasoning: "There have been so many investigations of President T
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount/Value | Source |
 |------|-------|-------------|--------|
@@ -138,7 +138,7 @@ Comer's stated reasoning: "There have been so many investigations of President T
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Investigation-as-Spectacle:** The Biden probe is the vault's purest example of oversight power deployed for content production rather than accountability. The investigation generated 18 months of hearings, press conferences, and media coverage — sustaining GOP base engagement and fundraising — without producing evidence, charges, or policy outcomes. The subpoena power was the product; the investigation was the marketing.
 
@@ -150,7 +150,7 @@ Comer's stated reasoning: "There have been so many investigations of President T
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Comer's rhetorical signature is the promissory note — he consistently promises imminent revelations that never arrive. "We're going to have multiple criminal referrals." "We have the bank records." "This is just the beginning." Each promise generates a news cycle, and the audience never demands delivery because the next promise arrives before the last one expires. The rhetoric is structured like a TV season: cliffhangers that sustain engagement without resolution.
 
@@ -158,7 +158,7 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale �
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: James Comer Campaign Finance Summary](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)
 - [FEC: Comer for Congress (C00588764)](https://www.fec.gov/data/candidate/H6KY01110/) (Tier 1)

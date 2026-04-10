@@ -32,7 +32,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Jim McGovern represents Massachusetts's 2nd Congressional District (Worcester and western Massachusetts) and is the Ranking Member of the House Rules Committee — the committee that controls which bills reach the House floor, under what terms, and with which amendments allowed. He chaired the Rules Committee in the 116th and 117th Congresses (2019-2023). He has served in Congress since 1997.
 
@@ -44,7 +44,7 @@ McGovern is also co-chair of the Tom Lantos Human Rights Commission, former chai
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Jim McGovern is the rare committee leader whose donor profile is genuinely modest and whose policy work centers on issues with no major corporate lobby: hunger, human rights, and procedural reform. His top donors are labor unions, lawyers, and healthcare professionals — the standard Massachusetts Democratic donor base. There is no Lockheed Martin funding his arms sales opposition, no agribusiness funding his SNAP advocacy, no Chinese dissident PAC funding his Tibet work.
 
@@ -52,14 +52,14 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > McGovern has spent two decades advocating for open, transparent House procedures — allowing amendments from both parties, ending closed rules that shut out debate, making the legislative process more democratic. When Democrats controlled the Rules Committee (2019-2023), McGovern was chairman. He used the same closed rules and restrictive amendment processes he had criticized Republicans for using. Structured rules increased under his chairmanship. The procedural reformer became the procedural gatekeeper. McGovern's defense: the minority party abuses open rules with poison-pill amendments designed to kill legislation. The structural reality: the Rules Committee exists to concentrate power in the majority, and every chairman — reformer or not — uses it that way.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Labor unions: significant (standard Massachusetts Democratic base)
@@ -87,7 +87,7 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Human Rights Advocacy (Non-Donor-Driven)
 | Date | Type | Event | Donor | Amount | Gap |
@@ -110,7 +110,7 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (procedural):** McGovern's Rules Committee chairmanship (2019-2023) was a genuine win — he controlled the House floor schedule, shaped legislation, and prioritized Democratic priorities. The structural limit: the Rules Committee is the majority's instrument. The moment Democrats lost the majority, McGovern's power evaporated. The RM position is a megaphone, not a gavel. His hunger, human rights, and procedural reform agendas are all structurally dependent on majority control.
 
@@ -120,7 +120,7 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Hunger is a political condition"** — The structural framing for food insecurity. The function: make SNAP and school meals debates about political choices, not charity — positioning hunger as a policy failure, not an individual one.
 
@@ -130,7 +130,7 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jim McGovern donor profile](https://www.fec.gov/data/candidate/H6FL06225/) (Tier 1)
 - [Congress.gov: James P. McGovern](https://www.congress.gov/member/james-mcgovern/M000312) (Tier 1)
@@ -192,14 +192,14 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400263) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
 <!-- auto:committee-assignments end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

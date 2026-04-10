@@ -48,7 +48,7 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Tom Steyer. Billionaire investor and political activist. Net worth: $1.6–$2.1 billion. Founder of Farallon Capital Management (1986–2012), hedge fund that managed $20 billion in capital. Founder of NextGen America (climate/youth mobilization PAC). 2020 presidential candidate (self-funded $200M+, won zero delegates). 2026 California governor candidate (self-funded $66.7M and counting). Co-founder, One California Bank (now Beneficial State Bank).
 
@@ -56,20 +56,20 @@ Peak income: $189.3 million (2014). Combined income 2009–2017 with spouse: $1.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Tom Steyer is the billionaire who wants to tax billionaires — the donor class's self-appointed class traitor. His campaign is built on the most visible contradiction in this vault: a man who made billions from fossil fuel hedge fund investments now runs as a climate-focused populist promising to break up utility monopolies and make corporations pay their fair share. The class analysis question is not whether Steyer is sincere (he likely is) but whether a billionaire can buy structural change that threatens the class he belongs to, or whether self-funded campaigns are just another way the billionaire class maintains control — by offering voters a "good billionaire" alternative to the donor-class system rather than dismantling the system itself.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Steyer made his fortune through Farallon Capital, which invested hundreds of millions in coal mines, coal-fired power plants, and oil companies across Indonesia, China, and Australia over 15 years. The coal projects Farallon funded will generate tens of millions of tons of carbon pollution through 2030 and beyond — long after Steyer's 2012 "divestment" and 2014 "complete divestment." He now runs as a climate crusader promising to break up utility monopolies and lower energy bills by 25%. The contradiction is not hypocrisy — it's the structural reality of capitalist wealth. Every fortune extracted from fossil fuels cannot be un-extracted by spending that fortune on climate politics. The carbon is already in the atmosphere. The profits are now funding the campaign.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 Steyer's profile is unique in this vault: he is simultaneously the donor and the candidate. There is no external donor class map because the money comes from one person.
 
@@ -87,7 +87,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Steyer's NextGen America spending has genuinely elected climate-focused candidates to office and built grassroots climate infrastructure. These are real policy victories at the margin. But they stop short of structural change: fossil fuel production continues, carbon emissions continue, oil prices continue to control energy policy. His climate activism is real but bounded by the reality that individual politicians, even climate-focused ones, cannot overcome structural energy industry power. The structural limit: billions spent on climate candidates has not resulted in structural energy transformation.
 
@@ -136,7 +136,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The reformed sinner:** "I made money in fossil fuels, and then I changed." The conversion narrative makes climate credibility personal rather than structural.
 2. **The outsider billionaire:** "Sacramento is broken. I'm not part of it." Positions wealth as independence rather than privilege.
@@ -145,7 +145,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Steyer is a self-funder. The "Donor" column tracks his own investment history (the source of his wealth) and his own political spending (how he deploys it). The table documents the contradiction between fossil fuel extraction and climate activism.*
 
@@ -177,7 +177,7 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 
 ---
 
-### Sources
+## Sources
 
 - [SF Examiner: Steyer self-funding analysis](https://www.sfexaminer.com/news/politics/steyer-self-funding-spending-dwarfs-gubernatorial-rivals/article_111f9db5-5cb0-412b-b7bd-59825b45df7c.html) (Tier 2)
 - [Mercury News: Campaign spending breakdown](https://www.mercurynews.com/2026/02/03/california-governors-race-tom-steyer/) (Tier 2)

@@ -1,7 +1,7 @@
 ---
 title: "Cori Bush"
 type: politician
-content-readiness: verified
+content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -24,60 +24,47 @@ source-types:
   - FEC
   - GovTrack
 corroboration-count: 3
-editorial-review-date: "2026-04-09"
+editorial-review-date: "2026-04-08"
 editorial-reviewer: "Research Claude"
-editorial-result: pass
+editorial-result: block
 editorial-blockers: []
 verified-blocks:
   - voting-records
-  - committee-assignments
-  - bills
   - fec-data
   - source-diversity
-  - connections
   - enriched
+  - connections
   - contradiction-review
   - orphan-claims
   - editorial-quality
-  - sign-off
 checklist-na:
   - "committee-assignments: Lost 2024 primary, no longer in 119th Congress"
-last-verified-by: editorial
 last-enriched: "2026-04-09"
 internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515"
-issues:
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Environmental Protection"
-  - "Health"
-  - "Housing and Community Development"
-  - "International Affairs"
-  - "Transportation and Public Works"
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
 
-### Who They Are
+## Who They Are
 
 Cori Bush. Born July 21, 1976, St. Louis, Missouri. U.S. Representative for Missouri's 1st Congressional District from 2021 to 2025. The first Black woman and first nurse to represent Missouri in Congress. The first Black Lives Matter activist elected to Congress. A frontline protester during the 2014 Ferguson uprising and member of the progressive "Squad." She lost the 2024 Democratic primary to Wesley Bell and announced a 2026 comeback bid in October 2025. In August 2025, a federal grand jury indicted Bush and her husband Cortney Merritts on charges related to campaign security payments.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents. AIPAC's United Democracy Project spent $8.5M to defeat her in the 2024 primary, making her race one of the most expensive in the country. Her subsequent federal indictment over campaign security payments (totaling ~$750K, including $102,500+ to her husband) compounds her political vulnerability. Whether the indictment is politically motivated or reflects genuine misconduct, the sequencing tells the story: AIPAC spending, then primary loss, then DOJ investigation, then indictment. Multiple pressure vectors converging on a progressive legislator who broke with the donor class consensus on Israel.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction-cleared]
 > **Anti-establishment brand vs. self-dealing conduct.** Bush ran as a grassroots activist and was destroyed by establishment spending ($9.96M AIPAC, $2.79M Fairshake — per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)). The DOJ then indicted her over $102K in security payments to her husband ([Time, 2024](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/)). Both facts are true simultaneously: she was genuinely targeted by donor-class spending AND she engaged in conduct (paying family members from campaign funds for unlicensed services) that undermines the anti-corruption brand. The contradiction is structural, not resolvable — it demonstrates that progressive insurgents face both external destruction (AIPAC) and internal vulnerability (self-dealing). Resolution: documented as inherent tension, not factual dispute. Both claims are FEC/DOJ sourced.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Bush raised $3.93M in 2023–2024 and spent $3.92M. Her funding was primarily from individual donors: 62.58% from large individual contributions, 32.24% from small donors, 5.17% from PACs. The small-donor share is high for Congress but doesn't match the grassroots-only narrative. The $750K in campaign security spending, including payments to her husband, is the financial vulnerability that enabled the indictment.
@@ -99,7 +86,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -115,7 +102,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Lived Experience Frame.** Bush leads with personal testimony. Ferguson protester who was tear-gassed. Nurse who treated the uninsured. Eviction survivor who slept in her car with her children. Every policy position is anchored to a biographical moment. This makes her positions feel grounded in community rather than ideology, and makes attacks on her positions feel like attacks on her lived experience.
 
@@ -127,28 +114,14 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ---
 
-### Class Analysis
-
-Bush's career is a textbook study of how the donor class disciplines labor-aligned politicians. She entered Congress as a working-class organizer: a nurse, a pastor, an eviction survivor who slept in her car. Her policy agenda (Medicare for All, defunding police, ceasefire in Gaza, housing as a right) directly threatened capital interests in healthcare, defense contracting, real estate, and the Israel lobby's bipartisan consensus.
-
-**Who benefits from her removal?** AIPAC's $9.96M against Bush protected the defense and foreign policy consensus that channels billions in military aid through contractors. Fairshake's $2.79M protected the crypto industry's deregulatory agenda. Combined, $13.97M in outside opposition spending replaced a labor-aligned progressive with Wesley Bell, a moderate prosecutor who poses no threat to these capital flows.
-
-**The donor class mechanism:** Bush's funding base was individual donors (62.58% large, 32.24% small, 5.17% PAC). She didn't take corporate PAC money. This made her independent of donor-class control but also financially vulnerable to outside spending. The donor class didn't need to buy her. They bought her opponent. The primary system itself is the mechanism: flood a low-turnout election with negative advertising, and the donor class can override the preferences of a progressive constituency.
-
-**The indictment as class discipline:** The $102K in security payments to her husband is the kind of arrangement common in Congress but selectively prosecuted. The sequencing matters: AIPAC spending, primary loss, DOJ investigation, indictment. Whether or not the charges are legally justified, the effect is to make the cost of progressive insurgency visible to every future candidate. Break with the donor consensus, and you face not just electoral defeat but criminal exposure.
-
-**Labor vs. capital scorecard:** Bush's legislative record (ceasefire resolutions, End Solitary Confinement Act, Unhoused Persons Bill of Rights, People's Response Act) consistently prioritized the working class, incarcerated people, and the unhoused over defense contractors, police unions, and real estate interests. Her removal from Congress is a net loss for labor-class representation and a net gain for the donor class that funded her opposition.
-
----
-
-### Analytical Patterns
+## Analytical Patterns
 
 - **Donor-Class Override.** AIPAC's $8.5M spending overrode the democratic preference of a progressive district by flooding the primary with negative advertising. The donor class replaced a progressive with a moderate.
 - **Villain Framing.** Bush frames AIPAC as the villain that destroyed her career. AIPAC frames Bush's anti-Israel votes as the justification. Both framings obscure the structural power dynamic: that a single-issue lobby can veto a member of Congress regardless of their domestic policy record.
 
 ---
 
-### Sources
+## Sources
 
 #### Verified
 - [FEC Candidate: Cori Bush campaign finance summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1) (VERIFIED)
@@ -171,35 +144,22 @@ Bush's career is a textbook study of how the donor class disciplines labor-align
 <!-- auto:congress-legislation start -->
 | Metric | Value |
 |--------|-------|
-| Scope | Career Total (117th-118th Congress) |
+| Congress | 117th-118th |
 | Party | Democrat |
 | State | Missouri |
 | District | 1st |
 | Bills Sponsored | 39 |
 | Bills Cosponsored | 756 |
 
-**Policy areas:** Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Environmental Protection, Health, Housing and Community Development, International Affairs, Transportation and Public Works
-
-**Notable sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| H.Res. 786 | Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine | Referred to House Foreign Affairs |
-| H.R. 634 | Unhoused Persons Bill of Rights | Referred to subcommittee |
-| H.R. 4972 | End Solitary Confinement Act | Referred to House Judiciary |
-| H.R. 4901 | Reproductive Health Care Accessibility Act | Referred to subcommittee |
-| H.R. 4699 | The People’s Response Act | Referred to subcommittee |
-| H.R. 8470 | Helping Families Heal Act of 2024 | Referred to subcommittee |
-
-- [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1) (VERIFIED)
+- [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1) (VERIFIED: Removed from bad)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |
 |--------|-------|
-| Bills Sponsored | 39 |
-| Bills Cosponsored | 756 |
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
 | Total Votes Cast | 2,239 |
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1) (VERIFIED)
@@ -239,14 +199,14 @@ Bush's career is a textbook study of how the donor class disciplines labor-align
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
-_No committee data. Bush left Congress January 2025 after losing 2024 primary._
+_No committee data found for the 119th Congress._
 
-- [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

@@ -35,26 +35,26 @@ profile-status:: ready
 
 ---
 
-### Who He Is
+## Who He Is
 
 Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015–2019). 2012 Vice Presidential nominee (with Mitt Romney). Fox Corporation board member (2019–present). Koch network beneficiary and ideological aligned congressman — chairman of the House Budget Committee (2011–2015) and Ways & Means Committee (2015–2019). Presented himself as "policy wonk" and "serious fiscal conservative" focused on deficit reduction and entitlement reform. Net worth: $6–15 million (2019 disclosure).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Paul Ryan exemplifies the donor-class politician masked as principled conservative. His public brand is "fiscal hawk" concerned about deficits and wasteful spending. But his legislative record contradicts this entirely: as Speaker, he authored the 2017 Tax Cuts and Jobs Act, which increased the deficit by $1.9 trillion — the largest upward wealth transfer in a generation. The Act delivered the Koch network's top legislative priority (corporate and individual tax cuts), benefited Wall Street (his primary donor base), and immediately after passage, Ryan announced his retirement from Congress. The pattern: the tax cut was the deal; retirement was the payout. Ryan's post-House career moved seamlessly to Fox Corporation (media platform), where he provides ideological credibility for corporate-friendly policies. His "fiscal conservative" brand was a marketing tool for delivering Koch/Wall Street legislation.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Ryan's identity is built on being a "serious policy intellectual" concerned about fiscal responsibility and budget deficits. His early congressional career focused on "entitlement reform" and balanced budget amendments. He wrote op-eds about the dangers of deficit spending. He positioned himself as the Republican Party's intellectual wing. But the 2017 Tax Cuts and Jobs Act contradicts this entirely: Ryan authored a bill that increased the deficit by $1.9 trillion — not to address a recession or crisis, but to cut corporate tax rates from 35% to 21% and provide massive individual tax cuts that predominantly benefited the wealthy. The Act was pure upward wealth transfer. Ryan called it "fiscally responsible growth." Within 18 months of the Act's passage, Ryan announced his retirement. The contradiction: Ryan spent 18 years posturing as a deficit hawk, then delivered a $1.9 trillion deficit increase, then immediately retired. He was never a fiscal conservative — he was a delivery mechanism for Koch network and Wall Street policy priorities. His "policy wonk" brand was marketing designed to make corporate tax cuts sound intellectually serious.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 #### The Koch Network (Ideological + Financial)
 - **Americans for Prosperity:** Koch-founded and funded; primary advocacy group supporting Ryan's tax cut legislation
@@ -105,7 +105,7 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Policy Wonk Frame:** "I've studied budget numbers since my youth" (childhood reading of Ayn Rand); positions tax cuts as serious fiscal policy
 2. **The Deficit Hawk Mask:** Years of op-eds about deficit danger, then delivers $1.9 trillion deficit increase framed as "fiscally responsible growth"
@@ -114,7 +114,7 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** Ryan's entire congressional career was shaped by donor-class interests (Koch network, finance sector), not constituent interests. Wisconsin workers did not benefit from corporate tax cuts; Wall Street and Koch Industries did. Ryan's rhetoric about fiscal responsibility was purely performative — designed to make donor-class legislation sound intellectually serious.
 
@@ -126,7 +126,7 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Paul Ryan donor profile](https://www.fec.gov/data/candidate/P80003353/) (Tier 1)
 - [FEC: Paul Ryan campaign finance (CID: N00004357)](https://www.fec.gov/data/candidate/H2WI01055/) (Tier 1)
@@ -140,7 +140,7 @@ Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015�
 profile-status:: ready
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -184,7 +184,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400351) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

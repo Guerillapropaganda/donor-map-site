@@ -57,7 +57,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Shelley Moore Capito is the senior senator from West Virginia and chairs the Senate Environment and Public Works Committee — the body with jurisdiction over the EPA, Clean Air Act, Clean Water Act, Superfund, highway infrastructure, and environmental regulation. She has served in the Senate since 2015 and previously represented West Virginia's 2nd Congressional District in the House for 14 years (2001-2015).
 
@@ -69,7 +69,7 @@ West Virginia's economy has historically depended on coal (declining) and natura
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Shelley Moore Capito chairs the committee that regulates the fossil fuel industry — and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Air Act, and every major environmental regulation that affects coal and natural gas. Capito's position: unshackle fossil fuels from environmental regulation. She celebrated the Trump EPA's repeal of Biden-era coal regulations and opposes the Clean Power Plan.
 
@@ -77,14 +77,14 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Capito chairs the "Environment" and Public Works Committee. Her legislative agenda is the systematic dismantling of the environmental regulations her committee was created to enforce. She celebrated the repeal of Clean Power Plan provisions, opposes emissions standards, and advocates for "unshackling" fossil fuels. The EPW chair's goal is to neutralize the EPA — the agency her committee oversees. This isn't a contradiction of rhetoric vs. record. It's a deliberate inversion: the committee designed to protect the environment is chaired by the fossil fuel industry's most reliable Senate advocate. The fox isn't guarding the henhouse. The fox is the hen house architect.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Oil & gas: top donor sector (career)
@@ -112,7 +112,7 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Fossil Fuel Industry → EPA Deregulation
 | Date | Type | Event | Donor | Amount | Gap |
@@ -143,7 +143,7 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door (dynastic version):** The Moore-Capito family has been entangled with West Virginia's fossil fuel industry for over 50 years across three generations. This isn't a revolving door between government and industry — it's a permanent open doorway. The family and the industry are structurally fused. Arch Moore's corruption was the crude version. Shelley Capito's committee chairmanship is the legal version. Same structural function: protect fossil fuel interests from within government.
 
@@ -155,7 +155,7 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Unshackle American energy"** — The freedom framing for deregulation. Environmental regulations become "shackles" on energy production. The function: make EPA enforcement sound like oppression rather than public health protection.
 
@@ -165,7 +165,7 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Shelley Moore Capito donor profile](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
 - [FEC Candidate: Shelley Moore Capito industry donors](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
@@ -264,7 +264,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400061) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

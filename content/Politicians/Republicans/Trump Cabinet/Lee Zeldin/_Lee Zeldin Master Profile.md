@@ -38,26 +38,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Previously U.S. Representative for New York's 1st District (Long Island, 2015–2023). 2022 New York governor candidate — closest Republican finish since 1994 (46.7% vs. Hochul 53.1%). League of Conservation Voters lifetime score: 14%. Called the EPA's 2009 Endangerment Finding the "'Holy Grail' of the 'climate change religion.'" March 2025: announced 31 deregulatory rollbacks — "the greatest and most consequential day of deregulation in U.S. history." Proposed EPA budget cut: 54.5% ($4.2 billion). Considering firing 50–75% of EPA scientists (770–1,155 of 1,540). Projected impact of 12 of 31 rollbacks: ~200,000 premature deaths through 2050, 100 million additional asthma attacks. Guaranteed "absolutely" no adverse health effects. Congressional donors: oil and gas $410K+, Koch Industries $60K+. Post-government: Zeldin Strategies CEO ($775K salary, $1–5M dividends). Paid by [[Leonard Leo|Leonard Leo]]'s CRC Advisors ($3K+) for op-eds promoting fossil fuel interests. Paid by CGCN Group ($98K) for published and unpublished op-eds in Newsweek, Washington Examiner, Washington Times. Ronald Lauder (World Jewish Congress President): $11M to super PACs for 2022 governor race. Real estate donors: $400K+. [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire, America First Policy Institute co-founder): organization Zeldin sat on board of. The fossil fuel industry's man running the agency designed to regulate the fossil fuel industry.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Lee Zeldin's EPA appointment is the donor-to-deregulation pipeline in its most transparent form. Congressional career: oil and gas industry donated $410K+, Koch Industries $60K+. Post-government: [[Leonard Leo|Leonard Leo]]'s CRC Advisors paid him $3K+ for fossil fuel-friendly op-eds representing [[Chevron|Chevron]]. CGCN Group paid $98K for published and unpublished op-eds. He sat on the board of America First Policy Institute, co-founded by [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire). Now as EPA Administrator, he rolls back the regulations those donors opposed: vehicle emissions standards eliminated, power plant emissions rules rewritten, Endangerment Finding targeted for repeal, oil/gas wastewater protections reconsidered. The 31 "historic" deregulatory actions of March 2025 are estimated to cause 200,000 premature deaths and 100 million additional asthma attacks through 2050. Zeldin guaranteed "absolutely" no adverse health effects. The fossil fuel donors who funded the career, funded the post-government consulting, and funded the op-eds now receive the deregulation they paid for. The 200,000 projected deaths are the externality the donor class doesn't pay for.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Lee Zeldin is an environmental regulator with a 14% lifetime conservation score who called climate regulation a "religion." He was chosen not despite his opposition to environmental protection but because of it — Trump valued him as a "personal ally, fierce defender and frequent visitor to Mar-a-Lago," not a "policy wonk with deep knowledge of regulatory policy." The contradiction isn't accidental — it's the design. The EPA was created to protect public health from industrial pollution. Zeldin was installed to protect the polluters from the EPA. His guarantee of "absolutely" no adverse health effects from deregulation contradicts the EPA's own data: the agency's analysis of just 12 of 31 rollbacks projects 200,000 premature deaths. The man who guarantees safety is dismantling the agency that measures it.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Fossil Fuel Op-Ed Pipeline and the CRC Advisors Connection:
 - [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] — Oil/gas donors $410K+ (career). [[Koch Industries]] $60K+. [[Leonard Leo|Leonard Leo]]'s CRC Advisors $3K+ ([[Chevron|Chevron]] client). CGCN Group $98K for published and unpublished op-eds. [[Tim Dunn|Tim Dunn]] ($2.2B fracking) AFPI board. Now: 31 deregulatory rollbacks. Endangerment Finding repeal. Vehicle/power plant emissions standards eliminated. 200,000 projected premature deaths. The money trail runs from donor to op-ed to deregulation.
@@ -70,7 +70,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Zeldin is the donor-to-deregulation pipeline in its most transparent form — oil/gas funded the career, Leonard Leo funded the op-eds, and now he rolls back the regulations those donors opposed. The 200,000 projected premature deaths are the externality the donor class doesn't pay for.*
 
@@ -103,7 +103,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The deregulation champion:** "Greatest day of deregulation in U.S. history" — framing the removal of health protections as liberation. The function: make public health regulation sound like oppression.
 2. **The climate religion framer:** Endangerment Finding as "Holy Grail of the climate change religion." The function: frame scientific consensus as faith, making deregulation look like reason.
@@ -111,7 +111,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Zeldin implemented 31 deregulatory rollbacks and proposed 54.5% EPA budget cuts, achieving major de facto elimination of environmental protections. Yet these actions operate within executive administrative authority — they don't fundamentally restructure environmental governance, they optimize it for industry compliance while maintaining the appearance of regulatory process.
 
@@ -134,7 +134,7 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 
 <!-- auto:govtrack end -->
 
-### Sources
+## Sources
 
 - [FEC Candidate: Zeldin congressional fundraising](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1)
 - [E&E News: EPA deregulatory actions and Zeldin consulting fees](https://www.eenews.net/articles/epas-zeldin-emerges-as-project-2025-frontman/) (Tier 2)

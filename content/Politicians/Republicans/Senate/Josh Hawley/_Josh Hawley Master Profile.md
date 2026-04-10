@@ -40,26 +40,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Attorney General (2017–2019). Judiciary Committee. Yale Law, Stanford undergrad. Worked at Becket Fund for Religious Liberty (2011–2015). Wife Erin Hawley is ADF senior counsel. Author, "The Tyranny of Big Tech" ($467K royalties 2021). Net worth: ~$2.8 million. The senator who raised his fist at January 6 protesters and was rewarded with $969,000 in a single month from 12,000 new donors.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Josh Hawley is the MAGA donor class's prototype for a new kind of Republican: the manufactured populist. His 2018 election was funded by $20.7M from McConnell's [[Senate Leadership Fund|Senate Leadership Fund]] and $3.9M from the Koch network. His January 6 fist pump — which cost him corporate PACs — was immediately replaced by $969K in MAGA small-dollar donations. His "anti-corporate" brand generates $467K+ in annual book royalties. His wife earns income from Alliance Defending Freedom ($104M/year in revenue). His top 2024 donor is a $2 billion hedge fund. 77% of his individual donors are from outside Missouri. The "populist" is a product of the dark money infrastructure he claims to oppose, monetizing anti-corporate rhetoric while being funded by corporate-adjacent networks at every level.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Hawley wrote "The Tyranny of Big Tech" calling for breaking up corporate monopolies. His election was bankrolled by McConnell's Wall Street-funded super PAC ($20.7M) and the Koch brothers' deregulation machine ($3.9M). He pledged to refuse corporate PAC money — but accepts PACs funded by corporate donors (the loophole that makes the pledge meaningless). His reform bill targets "business corporation" spending while exempting wealthy individual PAC spending — preserving the exact system that funds him. The anti-corporate populist is funded by hedge funds, dark money, book deals, and his household's ties to a $104M Christian legal organization. The populism is the brand. The donor class is the business model.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The J6 Fundraising Miracle:
 - [[January 6 Fist Pump and the Donor Paradox]] — Fist pump → corporate PAC freeze (Hallmark demanded $7K back). January 2021: $969K from 12,000 new individual donors (8x normal). MAGA small-dollar pipeline replaced corporate PACs immediately. The "pariah" moment was the most profitable gesture in Senate history. "No corporate PAC" pledge rebranded the freeze as principle.
@@ -72,7 +72,7 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Hawley inverts the typical donor-policy model. Instead of donors buying policy, Hawley's media performances generate the donations. The January 6 fist pump was not funded — it funded him.*
 
@@ -105,7 +105,7 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Pilot Program** — Hawley's SMART Act (Social Media Addiction Reduction Technology) is presented as a genuine anti-corporate technology regulation initiative. However, it functions as a "pilot program" that creates the appearance of Big Tech challenge without achieving legislative outcomes. The bill generates media coverage and small-donor fundraising spikes, but the actual policy mechanism is ineffectual—a demonstration project that allows Hawley to perform anti-corporate positioning while Koch/Leo networks maintain their judicial and deregulation investments in his Senate seat.
 
@@ -113,7 +113,7 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The fist pump:** The single gesture that defined Hawley's brand — defiance of the establishment, identification with MAGA base. The gesture cost him corporate PACs and gained him more. Every subsequent fundraising appeal references the moment.
 2. **The anti-tech crusader:** Writes books, introduces bills, interrogates tech CEOs at hearings. The activism generates media coverage, the coverage generates book sales, the book sales generate personal income. The policy outcomes are irrelevant — no major tech antitrust legislation has passed.
@@ -122,7 +122,7 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Hawley career donors, 2018 outside spending, 2024 cycle](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
 - [Salon/Detroit News: post-J6 fundraising boom](https://www.salon.com/2021/03/18/josh-hawley-marjorie-taylor-greene-report-record-donations-as-gop-sees-post-riot-financial-boom/) (Tier 2)
@@ -165,7 +165,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S8MO00160/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

@@ -30,26 +30,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Kash Patel. FBI Director (2025–present). Former Chief of Staff to Acting Secretary of Defense (2020–2021). Former Principal Deputy Director of National Intelligence (2020). Former NSC Senior Director for Counterterrorism (2019–2020). Former House Intelligence Committee aide and primary author of the Nunes Memo (2017–2018). Founder, Trishul LLC (consulting firm, $2.1M in 2024). Author, "Government Gangsters" (NYT bestseller). Net worth: $5–30 million. Confirmed 51-49. The first FBI Director whose entire pre-appointment career was built on loyalty to the president who appointed him.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Kash Patel is the logical endpoint of the Trump loyalty economy — a system where demonstrated willingness to use institutional power against Trump's enemies is the only qualification for advancement. Patel authored the Nunes Memo (2018), which gave Trump the "FBI is corrupt" narrative. This single act launched a career trajectory from committee aide to FBI Director in seven years. His consulting firm earned $2.1 million in 2024 — almost entirely from Trump-adjacent clients (Save America PAC, Trump Media, MAGA media). His foundation funded January 6 defendants. His foreign consulting clients (Qatar, Czech arms) create the conflicts his FBI is supposed to investigate. Patel doesn't represent donor-class capture in the traditional sense — he represents something newer: the MAGA patronage economy, where loyalty replaces money as the currency of power. Trump's donors fund the ecosystem; Patel's career is the product it manufactures.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Patel's stated mission is ending the "politicization" of the FBI. His actual career is the most thoroughgoing politicization of the FBI in its history. He was hired for writing a political memo. Promoted for political loyalty. Funded by political PACs ($544K from Save America and Gaetz PACs). And he uses the FBI to fire agents who investigated his political patron. The 60-name "enemies list" in "Government Gangsters" is now the FBI Director's target list. Patel's FBI isn't depoliticized — it's a loyalty enforcement bureau. The "deep state" narrative he helped create is now the justification for replacing independent law enforcement with political obedience. The man who alleged FBI corruption is the FBI's most corrupting director.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Trump Loyalty Economy:
 - [[Trishul LLC and the Trump Loyalty Economy]] — $2.1M consulting (2024). Save America PAC: $400K. Friends of [[_Matt Gaetz Master Profile|Matt Gaetz]] PAC: $145K. Trump Media board: $120K/year. Epoch Times: $99K. "Government Gangsters" royalties: $100K–$1M. Kash Foundation: $1M+ granted, funded J6 defendants, $275K to VP's own company. Total 2024 income: $3M+ — entirely from Trump ecosystem.
@@ -62,7 +62,7 @@ Kash Patel. FBI Director (2025–present). Former Chief of Staff to Acting Secre
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Patel represents the MAGA patronage economy at full maturity — the Nunes Memo created the "deep state" narrative, the narrative made Patel valuable, and $3M+/year in ecosystem payments preceded the FBI appointment. Traditional corruption moves from donation to policy; the Patel model is a subscription.*
 
@@ -90,7 +90,7 @@ Kash Patel. FBI Director (2025–present). Former Chief of Staff to Acting Secre
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Patel executed FBI personnel purges (Mar-a-Lago agents, J6 investigators, intelligence analysts fired), achieving major organizational restructuring toward political loyalty. Yet these purges operate within existing administrative dismissal authorities — they don't fundamentally restructure FBI governance, they optimize it for subservience to the patron.
 
@@ -129,7 +129,7 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The patriot warrior:** Military-adjacent language ("fight," "battle," "enemies") frames FBI purges as national defense rather than political retaliation.
 2. **The deep state narrative:** A framework Patel helped create (Nunes Memo) that now justifies his every action. Circular logic: the deep state is whoever Patel says it is, and the FBI exists to neutralize them.
@@ -138,7 +138,7 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 
 ---
 
-### Sources
+## Sources
 
 - [Senate Judiciary Committee: Patel financial disclosures and ethics concerns](https://www.judiciary.senate.gov/press/rep/releases/grassley-opening-statement-at-executive-business-meeting-on-the-nomination-of-kash-patel-to-be-fbi-director) (Tier 1)
 - [ABC News: Kash Patel consulting income](https://abcnews.com/US/kash-patel-trumps-pick-fbi-director-made-26m/story?id=118447126?id=118447126) (Tier 2)
@@ -177,7 +177,7 @@ content-readiness:: ready
 - ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
 <!-- auto:congress-legislation end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

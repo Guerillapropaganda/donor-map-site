@@ -43,26 +43,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Reverend Dr. Raphael Gamaliel Warnock. U.S. Senator from Georgia (2021–present). Senior Pastor of Ebenezer Baptist Church, Atlanta (2005–present). Fifth and youngest pastor to lead Ebenezer Baptist Church, the historic pulpit where Martin Luther King Jr. preached. Ph.D. in Theology from Union Theological Seminary. Age 54. Married with two children. Elected in 2020 in special election (defeating appointed Republican Kelly Loeffler); re-elected in 2022. Combined 2020–2022 fundraising: $170+ million. Net worth: ~$1–2 million.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Raphael Warnock represents the moral authority brand in Democratic politics: a pastor from MLK's pulpit brings authenticity and historic weight to political messaging, particularly on racial justice and inequality. Yet Warnock's donor base and policy positions reveal a critical question: does moral authority create structural challenge to donor-class interests, or does it provide progressive cover for a fundamentally corporate-aligned Democratic Party? Warnock's $170+ million campaign funded by non-Georgia donors, combined with his positioning on healthcare (aligned against single-payer despite CNA pressure), suggests the answer is the latter. The moral authority brand produces legitimacy; the policy serves donors.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Warnock's power derives from Ebenezer Baptist Church's historic association with Martin Luther King Jr. and his legacy of radical economic demands: the Poor People's Campaign, opposition to militarism, critique of poverty. Yet Warnock's Senate donor base and policy positions do not reflect King's economic vision. He accepts healthcare corporate donors despite union pressure for single-payer support. His $170+ million combined fundraising from 2020–2022 came overwhelmingly from outside Georgia (92% in 2022: only $8.7M from Georgia, $161M from elsewhere). His Senate record reflects corporate-Democratic alignment more than King's legacy. Warnock's use of MLK's pulpit grants him moral authority to represent "the poor and marginalized"; his policy serves the interests of the healthcare and tech sectors that fund his campaigns. This is not hypocrisy—it's structure. The moral authority is real. The policy constraints are real. The contradiction is the system working as designed.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The $170 Million Georgia Machine and the National Donor Base:
 - [[The $170 Million Georgia Machine and the National Donor Base]] — Combined 2020–2022 fundraising: $170+ million. 2022: $161 million from non-Georgia; only $8.7 million (5%) from Georgia donors. Largest donor states: California ($13.4M), Georgia ($7.3M), New York ($6.9M). Tech/entertainment/finance donors dominate. This is not a Georgia politician powered by Georgia; this is a national Democratic machine using Georgia as a launchpad.
@@ -120,7 +120,7 @@ This is the corporate-democrat template: use moral authority language ("everyone
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Warnock's $170M+ combined fundraising is overwhelmingly non-Georgian — 95.2% from out-of-state in 2022. The senator from Georgia is funded by California, New York, and Massachusetts. The moral authority of MLK's pulpit is real; the funding base is a national Democratic donor operation using Georgia as a launchpad.*
 
@@ -154,7 +154,7 @@ This is the corporate-democrat template: use moral authority language ("everyone
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The pulpit-to-Senate bridge:** Warnock moves seamlessly between church language (justice, care for the poor, moral obligation) and Senate language (bipartisan healthcare expansion, market mechanisms). The moral authority transfers between settings.
 
@@ -210,7 +210,7 @@ This is the corporate-democrat template: use moral authority language ("everyone
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Warnock's 2020 special election victory over Kelly Loeffler represented a genuine grassroots mobilization of Georgia voters, powered by the moral authority of Ebenezer Baptist Church and authentic grassroots fundraising (low-net-worth median donor). However, by 2022, the fundraising model had shifted to high-net-worth donors ($95.2% from out-of-state), and Warnock still delivered real policy (insulin cap, drug price negotiation). The structural limit is that moral authority + senate seat = moderate healthcare reform (not single-payer), demonstrating that even the most credentialed progressive voice operates within constraints set by healthcare-sector donors.
 
@@ -218,7 +218,7 @@ This is the corporate-democrat template: use moral authority language ("everyone
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Raphael Warnock Campaign Finance Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 - [FEC: Raphael Warnock Candidate Profile](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
@@ -230,7 +230,7 @@ This is the corporate-democrat template: use moral authority language ("everyone
 - [Senator Warnock Official Website: About The Senator](https://www.warnock.senate.gov/about/) (Tier 1)
 content-readiness:: ready
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
@@ -302,7 +302,7 @@ _No committee data found for the 119th Congress._
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456858) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

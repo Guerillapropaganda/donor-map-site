@@ -49,26 +49,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Eric Swalwell. U.S. Representative (CA-15, East Bay, 2013–present). 2019 presidential candidate (briefly, withdrew before Iowa caucuses). 2026 California governor candidate. Leading in March 2026 polling (17%, Emerson College). Won 24% of delegates at February 2026 Democratic Convention — highest of any candidate. Net worth: $200,000–$1.2 million (2023 disclosure).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Eric Swalwell is the media profile candidate — his visibility derives from cable news appearances (MSNBC, CNN, Fox News) and his prominent role in Trump impeachment proceedings, not from legislative accomplishment. His political brand is "anti-Trump, young progressive Democrat" marketed through media platforms. His donor base reflects this: SEIU provides labor legitimacy (750,000 members), Hollywood celebrities provide fundraising glamour and endorsement photos, and corporate PACs provide modest baseline funding. Swalwell's path to the top-two in the 2026 primary relies on SEIU's ground game, convention delegate momentum (24% at February convention), and the fractured Democratic field allowing a media-brand candidate to consolidate moderate institutional votes. The contradiction: his 17% polling lead is narrow in a field with 25% undecided; his congressional record shows modest legislative accomplishment relative to media visibility; his base in a single Bay Area district gives him weak statewide infrastructure. If the primary consolidates around a single establishment candidate (Becerra or Steyer), Swalwell's media profile advantage may evaporate.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Swalwell's political identity is built on Trump opposition and anti-Trump impeachment work — his media profile comes entirely from cable news appearances criticizing Trump and defending the impeachment investigation. This is genuine political activity. But the contradiction is that his impeachment work did not result in Trump conviction (Senate Republicans blocked conviction), and his media profile has not translated into legislative accomplishment (he missed 8.7% of votes in Congress, far above the median, and his sponsored bills are largely symbolic). His congressional voting record shows 100% alignment with Biden positions, indicating institutional Democrat rather than independent power broker. His small-dollar fundraising ($3.1 million) is modest compared to Steyer ($66.7M) or Mahan ($24M), but his SEIU endorsement provides ground game infrastructure that money alone cannot buy. The contradiction is between media visibility (cable news appearances = high profile) and political power (legislative record = modest). Swalwell's path to governor relies on proving that media profile can substitute for legislative accomplishment — a question that California voters may answer in the primary.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Current Campaign Fundraising (2026):
 - Total raised: $3.1 million (H2 2025, since November campaign launch)
@@ -101,7 +101,7 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Swalwell's impeachment work was genuine congressional activity, and his impeachment votes were real legislative positions. But impeachment stopped short of structural consequence: Trump was acquitted, survived presidency, ran again in 2024. The impeachment investigation provided cable news visibility but did not result in conviction or structural constraint on presidential power. Swalwell's anti-Trump messaging was real but limited to investigation rhetoric, not legislative structural reform.
 
@@ -115,7 +115,7 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Institutional Democratic Machine
 
@@ -154,7 +154,7 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Trump Impeachment Credential:** References Trump impeachment work in every campaign speech; positioned as defender of democracy
 2. **The Anti-Trump Brand:** Entire campaign identity built on opposition to Trump, not affirmative progressive policy
@@ -163,7 +163,7 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Eric Swalwell campaign finance](https://www.fec.gov/data/candidate/H2CA15094/) (Tier 1)
 - ~~[FollowTheMoney.org: Eric Swalwell 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Eric%20Swalwell#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
@@ -178,7 +178,7 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 profile-status:: ready
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -212,7 +212,7 @@ content-readiness:: ready
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Eric%20Swalwell%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

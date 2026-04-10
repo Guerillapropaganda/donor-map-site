@@ -32,7 +32,7 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 David Sacks. White House AI and Crypto Czar (appointed December 2024, Special Government Employee). Former COO of PayPal (late 1990s). Co-founder and general partner of Craft Ventures ($3.3 billion AUM). Co-host of the All-In Podcast alongside Chamath Palihapitiya, Jason Calacanis, and David Friedberg. Core node of the PayPal Mafia network now embedded in the executive branch alongside Musk (DOGE) and Thiel (via Vance). Estimated net worth: $800 million–$1.2 billion [Source: [Rolling Stone: Who is David Sacks](https://www.rollingstone.com/culture/culture-news/david-sacks-trump-ai-crypto-czar-1235195832/) (Tier 2)].
 
@@ -42,20 +42,20 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Sacks is the PayPal Mafia's man in government — a tech VC (Craft Ventures) who went from funding companies to funding deregulation of the industries he's invested in. His AI/Crypto Czar role puts a venture capitalist in charge of regulating the technologies his portfolio companies depend on. The conflict of interest IS the point. Sacks donated $1 million+ to build the Trump coalition, hosted a $12 million Trump fundraiser, received the appointment, and now shapes policy that directly benefits 449+ AI companies in his portfolio — while claiming $200 million in crypto divestments resolves his conflicts. The divestments are a performance of ethical compliance; the portfolio appreciation from deregulation dwarfs what he sold.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > January 2021: Sacks called Trump "clearly responsible" for January 6th and said he had "disqualified himself" as a presidential candidate. By June 2024, Sacks was hosting a $12 million Trump fundraiser at his San Francisco home. By July 2024, he delivered a six-minute speech at the Republican National Convention attacking "forever wars" and Biden's Ukraine policy. By December 2024, he was appointed to shape federal AI and crypto policy. The transformation from "Trump is disqualified" to "I am Trump's tech policy architect" took exactly three years. The All-In Podcast tracked the same arc — from tech centrist commentary to the primary vehicle for normalizing Silicon Valley's alignment with the MAGA donor class.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The PayPal Mafia Power Structure — Three Nodes of Federal Control:
 - [[The PayPal Mafia and the Venture Capital Governing Class]] — Sacks, Musk, and Thiel represent the three prongs of PayPal Mafia government capture. Sacks and Thiel co-authored "The Diversity Myth" at Stanford (1995). Craft Ventures invested in SpaceX (Musk), Palantir (Thiel co-founded), and X.ai (Musk). The ideological partnership predates PayPal by years; the political partnership crystallized in 2024. Musk → DOGE (government restructuring). Thiel → [[_JD Vance Master Profile|JD Vance]] as VP (political patronage). Sacks → AI/Crypto Czar (tech regulatory capture). The network's investments, political donations, and government appointments are interlocking. Mark Woolway (early PayPal → Craft Ventures) was on Trump 1.0 Treasury transition team — the network's influence in Trump 1.0 anticipated Trump 2.0. Michael Kratsios (Thiel Capital chief of staff → White House OSTP → PCAST co-chair with Sacks) embeds the network within executive science policy. Ken Howery (PayPal CFO → Founders Fund → U.S. Ambassador to Denmark) represents international deployment of network influence.
@@ -72,7 +72,7 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Sacks is the PayPal Mafia's man in the White House — $12M fundraiser → AI Czar in 60 days. He writes crypto policy while his fund holds crypto positions. The conflict is the design.*
 
@@ -104,7 +104,7 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 > **$20M inaugural fund → Biden AI EO revoked on Day 30:** The tech industry's inaugural fund investment (Sacks coordinates $20M+) → Biden's AI safety executive order revoked within 30 days. The order required safety testing for the largest AI models. Its removal directly benefits the companies whose founders donated to the inaugural fund.
 
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Let the private sector cook":** Full deregulation as neutral technical principle. The function: positions removing oversight from his own portfolio companies as common-sense innovation policy. Regulatory capture reframed as growth strategy.
 2. **The Ukraine contrarian:** All-In Podcast's most consistent anti-Ukraine voice — "Russians are not our enemy," characterizes supporters as "bloodthirsty warmongers." The function: establishes Sacks as anti-establishment even while serving the establishment; positions isolationism as the libertarian default that happens to align with tech industry preference for domestic deregulation over foreign policy spending.
@@ -112,7 +112,7 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Sacks authored the crypto executive order and revoked Biden's AI safety requirements, achieving major deregulation victories for tech industries in his portfolio. Yet he maintains selective regulatory framework (AI surveillance tools, defense tech integration) — these wins limit themselves to protecting his own investor class while appearing to fight regulatory capture.
 
@@ -122,7 +122,7 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 
 ---
 
-### Sources
+## Sources
 
 - [NPR: Sacks AI investment conflicts — failed to disclose Palantir as AI company](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts) (Tier 2)
 - [Gizmodo: 438+ conflict of interest reasons](https://gizmodo.com/david-sacks-possible-conflicts-2000693709) (Tier 2)
@@ -145,7 +145,7 @@ research-status:: developed — Research expansion added April 2026. New data: P
 content-readiness:: developed
  
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

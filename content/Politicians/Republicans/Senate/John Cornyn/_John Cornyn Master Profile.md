@@ -62,7 +62,7 @@ SORT file.name ASC
 
 ---
 
-### Who They Are
+## Who They Are
 
 John Cornyn, U.S. Senator from Texas (2002–present). Senior senator. Former Senate Majority Whip (2015–2019). Former chair of the National Republican Senatorial Committee (2009–2013). Member of the Judiciary, Finance, and Intelligence committees. Before the Senate: Texas Attorney General (1999–2002), Texas Supreme Court justice (1991–1997). Lead Republican negotiator on the Bipartisan Safer Communities Act (2022), the first significant federal gun legislation in 30 years.
 
@@ -72,22 +72,22 @@ John Cornyn, U.S. Senator from Texas (2002–present). Senior senator. Former Se
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional counterweight to Ted Cruz's populist performance. Where Cruz generates media attention and base enthusiasm, Cornyn delivers outcomes for the Texas donor class: $5B+ in F-35 funding for Lockheed Martin's Fort Worth plant, consistent opposition to environmental regulation, and a Judiciary Committee seat that processes judicial nominees who received $44K+ in contributions from Cornyn's own campaign donors. His Finance Committee role gives him jurisdiction over tax and trade policy affecting Texas's energy economy. Cornyn is the quiet machine that produces results while Cruz is the loud machine that produces attention. Both serve the same donor class — the stylistic difference is the product, not a defect.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > **Cornyn positions himself as a "common-sense conservative" who works across the aisle — evidenced by his lead role on the Bipartisan Safer Communities Act (2022) following the Uvalde massacre.** But his career NRA rating was A+ until that vote, and his legislative record on every other issue — immigration, environmental regulation, labor, healthcare — reflects undiluted corporate Republican orthodoxy. The gun bill was a single exception to a career of donor-class service, produced by the political emergency of a mass shooting of 19 children and two teachers in his own state. He was booed at the Republican Party of Texas convention for his role. The exception proves the rule: it took 21 dead people in Uvalde for Cornyn to deviate from donor orthodoxy on a single issue, once — and even then the bill stopped well short of assault weapons restrictions, universal background checks, or red flag law mandates that would threaten firearms industry revenue.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Oil & Gas / Energy
 
@@ -126,7 +126,7 @@ John Cornyn is the Texas corporate establishment's Senate operator — a reliabl
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### The Gun Bill Exception (Bipartisan Safer Communities Act, 2022)
 
@@ -147,7 +147,7 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Common-sense conservative"** — Cornyn's self-designation that frames corporate Republican orthodoxy as moderation. "Common sense" means: deregulation of oil and gas, defense spending increases, tax cuts for capital, and judicial appointments that protect corporate interests — presented as pragmatic centrism rather than donor service.
 
@@ -159,7 +159,7 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Both-Sides Illusion (Cornyn-Cruz):** Texas's two senators present as opposites — Cornyn the institutionalist, Cruz the populist. Both serve the same donor class. The stylistic difference allows Texas corporate interests to maintain relationships with both wings of the party while voters believe they have a choice between pragmatism and ideology. The 2026 primary (Cornyn vs. Paxton) is the stress test: when the institutional and populist wings of the donor class compete for the same seat.
 
@@ -171,7 +171,7 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
 - [FEC Candidate: John Cornyn top industries (2019–2024)](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
@@ -223,7 +223,7 @@ content-readiness:: developed
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

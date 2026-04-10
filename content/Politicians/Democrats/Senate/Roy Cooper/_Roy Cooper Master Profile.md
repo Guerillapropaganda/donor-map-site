@@ -46,26 +46,26 @@ related:: [[North Carolina 2026 Senate Race]] [[Roy Cooper Health Insurance Indu
 donors:: [[Blue Cross Blue Shield Association]] [[Anthem PAC]] [[Centene Corporation PAC]] CVS Health PAC [[UnitedHealth Group - Optum|UnitedHealth Group PAC]]
 ---
 
-### Who They Are
+## Who They Are
 
 Roy Asberry Cooper III served as the 75th Governor of North Carolina from 2017 to 2025, after winning two consecutive statewide elections with strong margins. Before his governorship, he served 16 years as North Carolina Attorney General (2001-2017), the longest tenure in state history, following earlier service as a state legislator and deputy attorney general. Cooper is a lawyer educated at the University of North Carolina. As governor, he championed environmental protection and healthcare expansion—he negotiated the Clean Energy Act that commits North Carolina utilities to 70% carbon emission reductions by 2030 and 100% carbon neutrality by 2050. He also secured Medicaid expansion through a bipartisan deal that by early 2025 had brought healthcare coverage to over 650,000 previously uninsured North Carolinians. In July 2025, Cooper announced his candidacy for the U.S. Senate seat being vacated by retiring Republican [[_Thom Tillis Master Profile|Thom Tillis]], immediately establishing himself as the Democratic frontrunner through record-breaking first-day fundraising of $3.4 million.
 
 ---
 
-### Central Thesis
+## Central Thesis
 
 [[_Roy Cooper Master Profile|Roy Cooper]]'s political career reflects the core tension of donor-first Democratic politics: he delivers genuine working-class policy wins—Medicaid expansion covering 650,000 people, clean energy legislation, teacher pay raises—while simultaneously funding his campaigns through the very corporate interests those policies nominally challenge. His 2026 Senate campaign has raised over $21 million, with major donors including health insurance executives and PACs from companies ([[Anthem - Elevance Health|Anthem]], Centene, CVS, United Health Group, Blue Cross & Blue Shield) whose profit models depend on the cost structures he publicly criticizes. The pattern is consistent: real material gains for constituents that stop well short of structural redistribution or threatening donor capital accumulation. His healthcare expansion preserved North Carolina's private insurance market rather than pursuing public options that would threaten insurer dominance. His clean energy wins happened through negotiation with utilities rather than confrontation. His Senate campaign message promises to fight insurance companies while taking money from the insurance industry.
 
 ---
 
-### Core Contradiction
+## Core Contradiction
 
 > [!contradiction]
 > Cooper's rhetorical position is populist and class-conscious: he campaigns against insurance companies that "line their pockets" while North Carolinians struggle with skyrocketing healthcare costs. Yet his campaign fundraising directly contradicts this message. He has received over $160,000 from health insurance industry PACs and executives, including $84,000+ from [[Anthem - Elevance Health|Anthem]] PAC, Blue Cross & Blue Shield NC Employee PAC, Centene, Cigna, United Health Group, and CVS Health PACs. Individual donations came from Mike Woodard (President of Molina NC Plan, $4,000), David Lamb (Blue Cross NC Managing Counsel, $500), Tricia Garland ($450), and Jason Beverly ($250). This is not a donor class incidental to his campaign—it is a central funding stream. Meanwhile, his signature gubernatorial accomplishment on healthcare (Medicaid expansion) left the private insurance system intact and continued steering public money into for-profit insurers' networks. The contradiction is not accidental; it is structural. He can deliver redistribution through government programs (Medicaid) while leaving the underlying profit architecture untouched. Donors get paid, constituents get coverage, everyone is satisfied except those who asked why public healthcare couldn't exist.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Top Donors & Funding Networks
 
@@ -94,13 +94,13 @@ Roy Asberry Cooper III served as the 75th Governor of North Carolina from 2017 t
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Cooper employs classic progressive populism coupled with executive pragmatism. When attacking opponents or policies, he frames the issue as one of fairness and working-class protection—"insurance companies lining their pockets," "raising teacher pay to attract good teachers," "protecting North Carolina's environment." He rarely acknowledges material constraints or cost trade-offs; instead, he presents victories as total wins (Medicaid covers 650,000, period; the Clean Energy Act hits targets, period). When discussing his own corporate funding, he either doesn't address it or pivots to the small-dollar donor narrative (90% of donations under $100). He is extremely cautious about revolutionary language—he never questions whether the private insurance system itself is legitimate, only whether insurers are "playing fair." His rhetorical move on healthcare is classic: he will say the system is broken by corporate greed, then implement a fix that leaves the system's ownership structure intact. This allows him to claim victory while leaving donor interests protected. On energy, he frames the clean energy transition as economic opportunity ("jobs in clean energy") rather than as a redistributive choice away from fossil fuel interests. When challenged on contradictions between his rhetoric and his funding, he deflects to intent: his policies prove his values, his campaign funding is incidental to his mission.
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Cooper campaigns against insurance company greed while accepting $160K+ from health insurance PACs. His signature accomplishment (Medicaid expansion covering 650,000) preserved the private insurance system rather than threatening it. Donors fund the candidate who delivers real benefits while protecting their structural position.*
 
@@ -125,7 +125,7 @@ Cooper employs classic progressive populism coupled with executive pragmatism. W
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Cooper's Medicaid expansion (covering 650,000 previously uninsured North Carolinians) represents a genuine policy victory, delivering material benefits to real constituents. The Clean Energy Act's decarbonization targets are also real accomplishments. However, both wins operate within structural limits set by corporate interests: Medicaid expansion preserved private insurance company enrollment and profit models rather than creating public systems that would threaten them. Clean energy targets were negotiated with utilities through timelines allowing continued fossil fuel operations. Real gains that stop short of structural threat.
 
@@ -133,7 +133,7 @@ Cooper employs classic progressive populism coupled with executive pragmatism. W
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Cooper's Medicaid expansion (covering 650,000 previously uninsured North Carolinians) and Clean Energy Act (70% carbon reduction by 2030, 100% by 2050) are genuine policy victories delivering real material benefits. The structural limit: Medicaid expansion preserved private insurance company enrollment and profit models rather than creating public options that would threaten insurer dominance. Clean energy targets were negotiated with utilities through timelines allowing continued fossil fuel operations. Real gains that stop well short of structural threat.
 
@@ -143,7 +143,7 @@ Cooper employs classic progressive populism coupled with executive pragmatism. W
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: Roy Cooper Candidate Profile](https://www.fec.gov/data/candidate/S6NC00407/) (Tier 1)
 - ~~[FollowTheMoney.org: Roy Cooper North Carolina Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46064532)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)

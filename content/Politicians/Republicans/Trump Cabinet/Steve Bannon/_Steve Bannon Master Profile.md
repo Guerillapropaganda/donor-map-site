@@ -44,26 +44,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 months). Trump campaign CEO (August–November 2016). Breitbart News Executive Chairman (2012–2018). [[Goldman Sachs|Goldman Sachs]] VP, Mergers & Acquisitions (1985–1990, ~$450K/year). Seinfeld residuals: swapped Goldman advisory fees for syndication equity stake (estimated $25-50 million cumulative from $3.1 billion in reruns). Breitbart salary: $750K/year. Government Accountability Institute co-founder with Peter Schweizer ($376K salary for 30 hrs/week — dual compensation with Breitbart). Cambridge Analytica VP ($125K+, named the company). Entirely funded by one family: [[Robert Mercer|Robert Mercer]] invested $10 million in Breitbart, $15-20 million in Cambridge Analytica, $3.7 million in GAI. Met Mercers at 2011 [[Club for Growth|Club for Growth]] event (introduced by Andrew Breitbart). Directed Mercer money from Cruz to Trump in 2016 — the most consequential donor-candidate redirection in modern political history. We Build the Wall fraud: $25M raised, $1M to Bannon personally. Federal charges pardoned by Trump (January 19, 2021, final hours of first term). New York state guilty plea (February 2025, scheme to defraud, 3-year conditional discharge). Contempt of Congress: convicted July 2022, 4 months federal prison (served July-October 2024). War Room podcast as ongoing influence operation. Mercer estrangement since January 2018 ("Fire and Fury" fallout + Roy Moore support). The [[Goldman Sachs|Goldman Sachs]] banker turned populist warrior, funded by a hedge fund billionaire, convicted of defrauding the donors he claimed to serve.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Steve Bannon's entire political rise was funded by a single billionaire: [[Robert Mercer|Robert Mercer]]. Breitbart ($10M investment), Cambridge Analytica ($15-20M, Bannon as VP), Government Accountability Institute ($3.7M for "Clinton Cash" operation), Make America Number 1 PAC ($15.5M). Bannon met the Mercers at a 2011 [[Club for Growth|Club for Growth]] event, drew up the Breitbart business plan that convinced them to invest $10M, co-founded Cambridge Analytica on Mercer's yacht, directed the Mercer family's $13.5M from [[_Ted Cruz Master Profile|Ted Cruz]] to [[_Donald Trump Master Profile|Donald Trump]] in 2016 — the pivot that shaped the election. The "populist revolution" was a hedge fund billionaire's investment, managed by a [[Goldman Sachs|Goldman Sachs]] banker, using data harvested from 87 million Facebook users without consent. Bannon's "deconstruction of the administrative state" served the donor class that funded it: deregulation benefits [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement|Renaissance Technologies]], not working-class voters. When Bannon's usefulness expired (White House firing, "Fire and Fury" comments, Roy Moore endorsement), the Mercers cut him off. The populist warrior without his billionaire patron became a podcast host and a convicted fraudster. The fraud conviction — $1M personal take from "We Build the Wall" donors — is the biography in miniature: a man who built a career claiming to serve ordinary people while taking their money.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Steve Bannon is a Goldman Sachs banker ($450K/year) who built a career as an anti-Wall Street populist. A Harvard MBA who dismisses intellectual frameworks as "not living in the real world." A man funded entirely by hedge fund billionaire [[Robert Mercer|Robert Mercer]] ($30M+ total investment) who campaigns against the "donor class." A "drain the swamp" architect who was convicted of defrauding donors in a border wall scheme ($1M personal take, $25M raised) and pleaded guilty to state fraud charges. A "patriot" who was pardoned by the president he served hours before that president left office — the pardon covering federal charges but not the state prosecution that produced a guilty plea. Every element of the Bannon brand — populist, anti-elite, anti-corruption, patriotic — is contradicted by the biography. The Goldman banker, the Mercer dependent, the convicted fraudster.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Mercer Investment and the Populist Infrastructure:
 - [[The Mercer Investment and the Construction of Populist Infrastructure]] — Met Mercers 2011 [[Club for Growth|Club for Growth]]. Drew Breitbart business plan ($10M investment). Cambridge Analytica VP ($15-20M Mercer, named the company, 87M Facebook users harvested). GAI ($3.7M Mercer, "Clinton Cash"). Directed Mercer money Cruz → Trump (2016). Estrangement January 2018. Total Mercer investment in Bannon's infrastructure: $30M+.
@@ -73,7 +73,7 @@ Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 mo
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Bannon's entire political infrastructure was funded by a single family — Robert and Rebekah Mercer invested $30M+ across Breitbart, Cambridge Analytica, and GAI. When the Mercers cut him off, Bannon turned to defrauding the small donors who believed the populist brand.*
 
@@ -103,7 +103,7 @@ Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 mo
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The "Leninist" disruptor:** Told the Daily Beast he's a "Leninist" who wants to "destroy the state." The function: frame deregulation as revolution. The reality: the "state" being "deconstructed" is the regulatory apparatus that constrains Mercer's hedge fund and the donor class's corporate interests. Bannon destroyed the regulations; the billionaires kept the profits.
 2. **The economic nationalist:** Anti-free trade, closed borders, infrastructure spending, tax increases on the rich. The function: populist positioning that distinguishes Bannon from libertarian Republicans. The reality: the policies were never implemented because the donor class that funded Bannon (Mercer, Renaissance Technologies) opposes them. Economic nationalism was the brand; deregulation was the product.
@@ -111,7 +111,7 @@ Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 mo
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Bannon executed NSC placement, regulatory rollback facilitation, and media platform influence, advancing Mercer network deregulatory interests. Yet these actions operated within advisory authority structures (White House Chief Strategist, 7.5 months) — they don't fundamentally restructure institutions, they optimize them temporarily for the patron's interests before institutional pushback forces removal.
 
@@ -121,7 +121,7 @@ Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 mo
 
 ---
 
-### Sources
+## Sources
 
 - [DOJ: Contempt of Congress sentencing](https://www.justice.gov/usao-dc/pr/stephen-k-bannon-sentenced-four-months-prison-two-counts-contempt-congress) (Tier 1)
 - [Washington Post: Mercer-Bannon partnership funding](https://www.washingtonpost.com/graphics/politics/mercer-bannon/) (Tier 2)

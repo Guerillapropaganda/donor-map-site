@@ -39,26 +39,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Tommy Tuberville. Junior Senator from Alabama (2021–present). Former head football coach at Auburn University (1999–2008), Ole Miss (1995–1998), Texas Tech (2010–2012), and University of Cincinnati (2013–2016). No prior political experience before winning the 2020 Senate race against Democratic incumbent Doug Jones. Member of the Senate Armed Services Committee, Agriculture Committee, and Veterans' Affairs Committee. First-time political candidate who had never held elected office before age 65. Voted to object to the 2020 presidential election certification on January 6, 2021.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Tommy Tuberville demonstrates that the donor class doesn't need competent politicians — it needs compliant ones. His ignorance of basic governance (named the three branches of government as "the House, the Senate, and the executive"; described D-Day as liberating France from "socialism and communism") is a feature, not a bug. A senator who doesn't understand what he's doing cannot audit what he's being used for. Tuberville's value to the donor class is his committee seats: Armed Services and Agriculture, two of the most lucrative regulatory perches in government. He traded stocks in defense companies while blocking military promotions on the Armed Services Committee. He received donations from defense contractors while holding up 450+ military promotions. He violated the STOCK Act more than 130 times with zero enforcement consequences. The ignorance is the cover. The committee seats are the product. The donors collect the rent.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Alabama is the fifth-poorest state in America. It ranks 46th in healthcare access, 48th in education. Tuberville opposes social safety net programs that keep his constituents solvent. Meanwhile, he traded defense stocks while sitting on the Armed Services Committee, received donations from the same defense contractors whose personnel promotions he was blocking, and violated disclosure laws for financial trades worth up to $3.56 million without facing any penalty. His military promotion blockade — framed as a pro-life stand — left Pacific Fleet, Pacific Air Forces, and Cyber Command without confirmed commanders for 10 months while he collected defense contractor donations. A senator who doesn't know the three branches of government was somehow positioned to hold the entire senior military leadership of the United States hostage. Alabama's working-class voters delivered him a Senate seat; defense contractors collected the dividends.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The STOCK Act Violations:
 - [[The STOCK Act Violations and the Enforcement Void]] — 130+ trades worth up to $3.56M disclosed late in 2021 alone. 400+ stock trades in 2023, 270+ in 2024. Ranked top 5 in Congress for trading volume. Defense stock trading while on Armed Services Committee. Zero enforcement consequences despite watchdog ethics complaints filed.
@@ -90,7 +90,7 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Manufactured Populist** — Tuberville's value to the donor class is his celebrity credibility (famous football coach) combined with his ignorance (doesn't understand basic governance structures). The ignorance is structural: a senator who doesn't understand what he's doing cannot audit what he's being used for. His committees (Armed Services, Agriculture) are among the most lucrative in Congress for defense contractors and agricultural corporations. The donor class gets legislative access without requiring a functionally competent legislator to understand the implications of what he's voting for.
 
@@ -98,7 +98,7 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Tuberville is the manufactured populist — a famous football coach whose ignorance of governance is structural, not accidental. A senator who doesn't understand what he's doing can't audit what he's being used for. The 9-month military blockade achieved zero policy but generated $3M+ in fundraising.*
 
@@ -131,7 +131,7 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 > **Defense contractor contradiction:** Tuberville's military holds damaged military readiness while he received defense contractor donations. The pattern reveals the contradiction: he takes defense industry money but his actions harm military capabilities — because the fundraising value of the hold outweighed the donor relationship cost.
 
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The coach analogy:** Everything is framed through football metaphor — discipline, teamwork, winning. The analogy masks policy illiteracy with cultural credibility. Alabama voters trust a coach; donors trust a compliant committee member.
 2. **The culture war blockade:** Tuberville uses social-conservative framing (abortion, woke military) to cover actions that primarily serve financial interests (committee access, trading windows, donor maintenance). The abortion framing of the military blockade is the case study.
@@ -140,7 +140,7 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Tuberville campaign finance summary](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: Tuberville industry donors](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded) (Tier 1)
@@ -173,7 +173,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456796) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

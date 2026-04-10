@@ -29,7 +29,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Lisa Murkowski is the senior senator from Alaska, serving since 2002. She chairs the Senate Indian Affairs Committee and serves on Energy and Natural Resources, Appropriations, and HELP (Health, Education, Labor, and Pensions). She previously chaired the Energy and Natural Resources Committee (2015-2021), the most powerful energy policy position in the Senate.
 
@@ -41,7 +41,7 @@ Alaska's economy is dominated by oil and gas (which funds approximately 80% of t
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Lisa Murkowski is Alaska's oil ambassador — a senator whose state's economy is so dependent on fossil fuel extraction that representing Alaska and representing the oil industry are structurally identical. She received $611,000+ from oil and gas over a six-year period, making it her second-largest donor sector. She "put everything she had" into getting the ConocoPhillips Willow Project approved — a massive Arctic drilling project — trading political capital from her bipartisan work with Biden to secure it. She championed opening ANWR to drilling (achieved in the 2017 tax bill), though the lease sales were, by her own admission, "a flop."
 
@@ -49,14 +49,14 @@ Murkowski is not a simple industry puppet. She supports climate science, biparti
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Murkowski sits on the Climate Solutions Caucus, supports renewable energy research, and acknowledges the science of climate change. She also spent years fighting to open the Arctic National Wildlife Refuge to drilling and invested all her political capital in getting the Willow Project — which will produce 180,000+ barrels of oil per day — approved in the Arctic. She acknowledges ANWR "has not worked out" while simultaneously celebrating the Willow Project as proof that Arctic drilling attracts industry interest. The contradiction is that she genuinely believes in addressing climate change AND genuinely fights to expand oil production. For most politicians, this would be hypocrisy. For Murkowski, it's the structural reality of representing a petrostate within a federation.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Oil & gas industry: $611,531+ over six years (second-largest donor sector)
@@ -82,7 +82,7 @@ Murkowski is not a simple industry puppet. She supports climate science, biparti
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Oil Industry → ANWR Opening
 | Date | Type | Event | Donor | Amount | Gap |
@@ -112,7 +112,7 @@ Murkowski is not a simple industry puppet. She supports climate science, biparti
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Murkowski's bipartisan infrastructure work is genuine. The Infrastructure Investment and Jobs Act delivers real benefits — broadband, roads, ports, clean water. She genuinely supports renewable energy research and climate science. The structural limit: all of this exists alongside her primary policy commitment (Arctic oil extraction) and never challenges it. The "moderate Republican" positioning creates space for oil policy that a hardline Republican couldn't achieve. Her bipartisanship IS the tool that delivers for the oil industry.
 
@@ -124,7 +124,7 @@ Murkowski is not a simple industry puppet. She supports climate science, biparti
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Alaska is an energy state"** — The framing that makes oil extraction synonymous with Alaskan identity. The function: position any opposition to Arctic drilling as anti-Alaskan.
 
@@ -134,7 +134,7 @@ Murkowski is not a simple industry puppet. She supports climate science, biparti
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Lisa Murkowski donor profile](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)
 - [FEC Candidate: Lisa Murkowski industry donors](https://www.fec.gov/data/candidate/S4AK00099/) (Tier 1)

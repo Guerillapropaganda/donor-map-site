@@ -43,26 +43,26 @@ profile-status:: ready
 
 ---
 
-### Who She Is
+## Who She Is
 
 Condoleezza Rice. National Security Advisor (2001–2005), Secretary of State (2005–2009) under George W. Bush. Stanford University professor and Provost (1993–2001); returned to Stanford as director of Stanford's Center for International Security and Cooperation (2009–present). Chevron board of directors (1991–2001); oil tanker MV Condoleezza Rice named after her during board tenure. Hoover Institution fellow. Foreign policy intellectual with academic credentials and corporate-backed credibility.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Condoleezza Rice exemplifies the academic-military-industrial revolving door. Her Stanford provost credentials and intellectual framing ("mushroom cloud" rhetoric, democracy promotion doctrine) provided moral cover for the Iraq War — the most consequential foreign policy disaster in modern U.S. history. Her Chevron board seat (1991–2001) represented direct energy industry access to national security architecture during the transition to post-Cold War oil geopolitics. She then returned to Stanford after government, rebuilding intellectual credibility. The pattern: use academic authority to sell war that benefits defense contractors and energy interests, then return to academia to rebuild reputation. Her career demonstrates how the donor class deploys credibility institutions (Stanford, Hoover) to legitimize donor-class military and energy objectives.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Rice's political identity is as an intellectual and "realist" foreign policy theorist — her book "Democracy and American Foreign Policy" (2008) positions her as a thoughtful scholar of international relations. This intellectual brand rests on credibility and sophisticated analysis. But the Iraq War contradicts this: Rice presented fraudulent intelligence to justify invasion (Iraq had no WMDs), used the "mushroom cloud" metaphor to terrify the American public, and her "democracy promotion" doctrine became cover for regime change in oil-rich countries. Rice's Chevron board service (1991–2001) overlapped with the 1991 Gulf War and Iraq sanctions regime — energy interests aligned with military intervention. The contradiction: her reputation as a serious intellectual is built on arguments that were demonstrably false. The "mushroom cloud" was never real. Democracy promotion doctrine masked energy access and defense contractor benefit. Rice's credibility was the weapon — the most trusted foreign policy voice in American government used to sell a war that killed 600,000+ Iraqis and cost $2 trillion.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 #### Energy Sector (Chevron)
 - **Chevron board of directors (1991–2001):** $250,000+ in board compensation and stock options; direct access to energy sector strategic planning during post-Cold War oil transition
@@ -107,7 +107,7 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The "Mushroom Cloud" Frame:** Terrifying imagery to justify preventive war without evidence
 2. **Democracy Promotion Doctrine:** Framing military intervention as advancing human freedom (cover for energy access)
@@ -116,7 +116,7 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door (Energy → Government → Academia):** Rice's career exemplifies the revolving door at the intersection of energy, defense, and academia. Chevron board seat gave her energy sector insiderness; government positions deployed that knowledge to shape foreign policy; return to Stanford provided credibility recovery after war's failure.
 
@@ -128,7 +128,7 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: Condoleezza Rice campaign finance (if applicable)](https://www.fec.gov/data/candidate/) (Tier 1)
 - [Stanford University: Condoleezza Rice bio - CISAC Director](https://cisac.stanford.edu/about/director) (Tier 1)

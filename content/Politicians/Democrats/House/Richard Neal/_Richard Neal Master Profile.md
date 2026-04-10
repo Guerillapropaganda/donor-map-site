@@ -45,7 +45,7 @@ profile-status:: ready
 
 ---
 
-### Who He Is
+## Who He Is
 
 Richard Edward Neal. U.S. Representative, Massachusetts's 1st District (1989–present). Democrat. Chair, House Ways & Means Committee (2019-2023), the most powerful committee in Congress — with jurisdiction over healthcare, taxation, Social Security, Medicare, and all federal revenue. Career campaign financing: $3.5M+ from insurance industry, $750K+ from pharmaceutical manufacturers. His institutional function: not to pass healthcare reform, but to prevent it. His district — the First Congressional District of Massachusetts — voted 73% for Medicare for All in a non-binding 2018 referendum. [[_Richard Neal Master Profile|Richard Neal]] opposed it, and he received $472,000 in career contributions from MassMutual alone, the largest insurance company in his district. His signature role: killing surprise medical billing reform (2019), blocking Medicare price negotiation (2015-2021), and preventing any federal universal healthcare legislation from reaching a floor vote. The insurance industry's single most valuable investment: a Massachusetts Democrat positioned to prevent progressive healthcare policy from the most powerful committee in Congress.
 
@@ -53,20 +53,20 @@ Born 1949 in Springfield, Massachusetts. Elected to House 1988. Political positi
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Richard Neal's congressional career is the institutional mechanism by which the insurance and pharmaceutical industries prevented American healthcare reform for 35 years. His job was never to pass legislation advancing working-class healthcare interests — his job was to block it. As the senior Massachusetts Democrat, he had the standing to shape healthcare policy. He used that standing to preserve the private insurance model while giving superficial credence to progressive healthcare rhetoric. Every meaningful healthcare reform — Medicare for All, drug price negotiation, surprise medical billing elimination — was killed in the Ways & Means Committee under his leadership. His district voted for Medicare for All. His donors paid him to prevent it. The contradiction is total: he is a Massachusetts Democrat, from the state that pioneered universal healthcare in 2006, whose career function was to prevent the federal replication of his own state's model. This is not ideological disagreement. This is the institutional architecture of donor service: a legislative gatekeeper paid to keep structural healthcare change off the table while allowing incremental, donor-compatible reforms to pass.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Richard Neal represents Massachusetts's 1st District — the state whose healthcare system is the most universal in the nation (2006 model, 95%+ coverage). His district voted 73% for Medicare for All in 2018. The Bay Area sent him to Congress with a progressive mandate on healthcare. Simultaneously, he received $472K from MassMutual (his largest individual donor), $300K from Fidelity, $173K from MetLife, $166K from NAIFA (insurance agents' association). These donations funded his career for 35 years. His job was not to advance his constituents' healthcare interests — it was to block them. His role as Ways & Means Chair (2019-2023) gave him the formal authority to shape national healthcare policy. He used that authority to prevent Medicare price negotiation, kill surprise medical billing reform, and block any floor debate on single-payer healthcare. When asked about the contradiction, he claimed pragmatism: incremental progress is better than structural failure. The contradiction reveals the lie: he was not pragmatic. He was paid. The insurance industry funded him specifically to prevent structural healthcare change. He delivered. The result: Americans pay twice per capita what other developed nations pay for worse health outcomes. The insurance industry profits soar. Richard Neal retires with honor as a "statesman." His constituents die uninsured.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Insurance Industry: $3.5M+ Career
 [See: Insurance Industry Donations to Richard Neal]
@@ -82,7 +82,7 @@ Born 1949 in Springfield, Massachusetts. Elected to House 1988. Political positi
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Richard Neal received credit for incremental healthcare expansions: some Affordable Care Act strengthening, modest pharmaceutical transparency provisions, and minor Medicare pilot programs. These are genuine wins for constituencies that received them. However, the structural limit is absolute: every major healthcare reform — Medicare for All, drug price negotiation, surprise medical billing elimination, single-payer — was killed in the Ways & Means Committee under his leadership. The genuine wins are permitted because they don't threaten the insurance industry's structural power. The structural reforms are blocked because they do.
 
@@ -124,7 +124,7 @@ Ten million Americans received surprise bills in 2020-2024. Median bill: $4,200.
 
 ---
 
-### The Son's Lobbying Firm: Converting Access to Leverage
+## The Son's Lobbying Firm: Converting Access to Leverage
 
 Richard Neal Jr., the congressman's son, founded Cornerstone Government Affairs in 2010. The firm lobbies for healthcare clients. A Cornerstone client list includes insurance companies and pharmaceutical manufacturers.
 
@@ -135,7 +135,7 @@ This is not unique to Neal. It is the standard operating pattern of congressiona
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Neal is the insurance industry's most valuable congressional investment — $3.5M+ career from insurance, $750K+ from pharma. His district voted 73% for Medicare for All in 2018. He spent his career preventing it. The calendar is redundant — the structural capture is continuous.*
 
@@ -162,7 +162,7 @@ This is not unique to Neal. It is the standard operating pattern of congressiona
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 ### The "Pragmatism vs. Purity" Frame
 Neal's central rhetorical position: "Pragmatic incrementalism is better than ideological purity that accomplishes nothing." The rhetorical structure acknowledges progressive healthcare goals while claiming they are unachievable. The contradiction: other developed nations achieved universal healthcare. Neal claimed it was impossible in America — while his insurance donors paid him to prevent it. The pragmatism was real. The direction of the compromise was always toward his donors' interests.
@@ -181,7 +181,7 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Richard Neal Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00007222) (Tier 1)
 
@@ -254,7 +254,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400291) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

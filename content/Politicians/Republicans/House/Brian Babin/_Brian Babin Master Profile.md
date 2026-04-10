@@ -41,7 +41,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Brian Babin represents Texas's 36th Congressional District (southeast Texas — Beaumont, Orange, Jasper, Liberty County, parts of Harris County) and is Chairman of the House Science, Space, and Technology Committee. He has served in Congress since 2015.
 
@@ -53,7 +53,7 @@ The Science, Space, and Technology Committee has jurisdiction over NASA, NOAA, t
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Brian Babin is a dentist from the most petrochemical-dense congressional district in America who now chairs the committee that oversees federal climate science. His first year as chairman has been dedicated to dismantling climate research infrastructure: applauding the repeal of the 2009 Endangerment Finding (the legal basis for all EPA greenhouse gas regulation), canceling NOAA's Billion-Dollar Weather and Climate Disasters dataset, and investigating the $27 billion Greenhouse Gas Reduction Fund as a politically motivated slush fund.
 
@@ -61,14 +61,14 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > The Science, Space, and Technology Committee exists to advance American scientific leadership. Its chairman is using it to dismantle climate science — canceling datasets, repealing findings, investigating research funding. Babin frames this as "accountability" and "methodological rigor," but the pattern is clear: every action targets climate research that threatens the petrochemical industry in his district. The Science Committee chairman is anti-science on the one scientific question that directly affects his donors and constituents. He champions NASA funding (Johnson Space Center is nearby, space is bipartisan, and aerospace contractors donate) while attacking NOAA and EPA climate research (which threatens refineries). The contradiction is selective: Babin loves science that employs his constituents and hates science that regulates them. The committee's name is "Science" — its chairman's agenda is "Science That Doesn't Threaten Fossil Fuels."
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Oil & gas: dominant sector (refinery corridor, petrochemical companies)
@@ -97,7 +97,7 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Petrochemical Industry → Climate Science Destruction
 | Date | Type | Event | Donor | Amount | Gap |
@@ -119,7 +119,7 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (climate science):** The scientific consensus on climate change directly threatens the petrochemical refining industry — Babin's primary donor class and constituent employer. Babin uses the Science Committee chairmanship to override scientific findings with industry interests: canceling datasets, repealing regulatory frameworks, investigating climate funding. The national interest in climate science is overridden by the district and donor interest in continued fossil fuel production. The Science Committee serves the refineries, not the science.
 
@@ -131,7 +131,7 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Accountability and transparency"** — The oversight framing for attacking climate science. The function: make defunding climate research sound like good governance rather than industry protection. Every investigation is framed as "accountability" rather than "suppression."
 
@@ -141,7 +141,7 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Brian Babin donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00005736) (Tier 1)
 - [FEC Candidate: Brian Babin industry donors](https://www.fec.gov/data/candidate/H6TX02079/) (Tier 1)

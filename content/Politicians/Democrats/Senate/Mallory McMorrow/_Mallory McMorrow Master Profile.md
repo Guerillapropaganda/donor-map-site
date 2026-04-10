@@ -48,19 +48,19 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Mallory McMorrow. Michigan State Senator (SD-8), representing parts of suburban Michigan north of Detroit (2019–present). Helped flip Michigan state senate blue for first time in nearly 40 years. Senate Majority Whip. Age: ~33. Background: organizer and educator; less established political infrastructure than typical Senate candidates, but with outsized national recognition from her April 2022 viral floor speech. National profile amplified by DNC keynote address (2024). Raised $250,000 in 24 hours after viral speech. Total 2026 Senate fundraising (to date): $5+ million, representing roughly 3x what her primary opponent [[_Abdul El-Sayed Master Profile|Abdul El-Sayed]] has raised.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Mallory McMorrow represents the establishment progressive model: a viral moment + exceptional fundraising charisma that translates to national donor networks, allowing a relatively junior state legislator to compete in a Senate primary against more experienced candidates. But the question is whether this fundraising model is sustainable once she hits the Senate itself. Her donor base appears to be a hybrid: small-dollar progressives attracted by her 2022 viral speech (drawing from the online left), PLUS larger individual donors and potentially corporate-compatible sources (including tech sector figures like Ron Klain). She positions herself as a "fighter" on social issues while remaining economically moderate. The vault's question: once in the Senate, will McMorrow's donor base expect her to trade cultural victories (which don't threaten capital) for economic accommodation? Will she follow the arc of AOC-style viral progressives who eventually become establishment-integrated?
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > McMorrow's 2022 floor speech went viral because it was authentic — a direct, unscripted rebuke of right-wing culture war attacks. It resonated with millions because it felt like genuine conviction. But the same speech that built her base has now become her brand in a way that constrains her. She is locked into being the "fighter against culture war attacks" candidate. Her economic policy positions are substantially less developed, less combative, and more capital-compatible than her social/cultural positioning. As she moves to the Senate, the question becomes: can the energy and fundraising that flowed from the culture war speech sustain a Senate career, or will she gradually drift toward the economics of her donor base (tech sector, wealthy professionals) while maintaining cultural progressivism? In other words, has the viral moment created a sustainable political movement, or just a fundraising moment that will end the moment cultural salience shifts?
@@ -173,7 +173,7 @@ This is a wildcard with potential to shift the primary landscape.
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: McMorrow's $250K one-day fundraising haul came from 6,200 small-dollar progressives responding to an authentic cultural moment. Three years later, her Senate fundraising includes Ron Klain ($4K, Biden's former chief of staff and Airbnb general counsel) and Duo Security founders. The trajectory tracks the Warren model: cultural authenticity opens the door, then tech wealth fills the runway.*
 
@@ -198,7 +198,7 @@ This is a wildcard with potential to shift the primary landscape.
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The personal authenticity frame:** "I'm a straight mom," "I'm a teacher," "I'm a wife" — McMorrow uses personal identity descriptors to establish authenticity and relatability. This is distinct from credential-based framing (El-Sayed's medical credentials) or policy framing (Sanders' economic analysis).
 
@@ -234,7 +234,7 @@ The Michigan primary cannot tell us which path McMorrow will follow. But it can 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Pilot Program** — McMorrow's viral moment created a short-term fundraising spike ($250K in 24 hours, $2.35M total in 2022), but the sustained 2026 fundraising model ($5M+ with mix of small-dollar and tech wealth donors) shows that viral moments alone cannot sustain Senate campaigns. Her state legislative record on social issues (gun violence, abortion, LGBTQ+ rights) represents genuine policy victories, but these are pilot programs: targeted reforms that don't threaten structural capital interests. Her $15 minimum wage and Medicaid expansion victories are real gains for constituents but fall short of single-payer or wealth redistribution that would threaten her tech-sector donor base.
 
@@ -242,7 +242,7 @@ The Michigan primary cannot tell us which path McMorrow will follow. But it can 
 
 ---
 
-### Sources
+## Sources
 
 - [Mallory McMorrow - FEC Candidate Page](https://www.fec.gov/data/candidate/S6MI00392/) (Tier 1)
 - ~~[MCMORROW, MALLORY - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44066166&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
@@ -297,7 +297,7 @@ content-readiness:: ready
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Mallory%20McMorrow%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

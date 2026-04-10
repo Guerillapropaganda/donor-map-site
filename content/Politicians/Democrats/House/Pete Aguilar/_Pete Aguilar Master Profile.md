@@ -32,7 +32,7 @@ SORT file.name ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Pete Aguilar. U.S. Representative for California's 33rd District (San Bernardino, Inland Empire) and Chair of the House Democratic Caucus — the third-ranking Democrat in the House. Aguilar is the highest-ranking Latino member of House Democratic leadership and a key figure in the party's moderate institutional wing. Former mayor of Redlands, California. Serves on the House Appropriations Committee, giving him direct access to federal spending allocation.
 
@@ -40,13 +40,13 @@ Aguilar served on the January 6th Select Committee, where he led the investigati
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Pete Aguilar represents the Democratic Party's leadership pipeline: moderate enough for donors, diverse enough for the base, loyal enough for leadership.** His rise from a Southern California inland district to the third-ranking House Democrat illustrates how the party selects leaders — not through ideological conviction but through institutional loyalty, fundraising ability, and the capacity to bridge the party's moderate-progressive divide without threatening either wing's donor relationships. His Appropriations Committee seat is the structural reward: direct control over federal spending allocation, which makes him indispensable to both the caucus and the donor class that funds it.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Aguilar represents one of the most economically distressed metropolitan regions in California. San Bernardino County has a median household income of approximately $65,000 — well below the state average — with some of the highest rates of logistics industry employment, air pollution, and warehouse worker exploitation in the state. The Inland Empire contains over 4,000 warehouses generating 600,000+ daily truck trips. An estimated 86% of logistics workers in Riverside and San Bernardino counties earn below a living wage, and the majority are Black and Latino.
 
@@ -57,7 +57,7 @@ Aguilar's leadership position requires maintaining relationships with the corpor
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 **Career fundraising:** $8.2 million total (2011–2024). #1 career donor: AIPAC at $722,698 ($620,903 in the 2024 cycle alone). Pro-Israel sector totaled $678,468 in the 2024 cycle — his single largest industry category. Also the #1 House recipient of credit union contributions in the 2024 cycle. Aguilar maintains the Aguilar Leadership Fund PAC and is affiliated with BOLD PAC (Congressional Hispanic Caucus).
 
@@ -107,7 +107,7 @@ The January 6th work created no donor conflicts because defending democracy agai
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Bipartisan Bridge:** Aguilar presents himself as the adult in the room — pragmatic, institutionally loyal, willing to work across the aisle. This framing obscures that "bipartisan" in practice means acceptable to corporate donors on both sides.
 
@@ -117,7 +117,7 @@ The January 6th work created no donor conflicts because defending democracy agai
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The federal housing and community development funds are real investments in a distressed region. But they operate within a framework that accepts the logistics economy's dominance rather than challenging it. Federal subsidies that make warehouse-dependent communities more livable without addressing the warehouse economy's extractive nature.
 
@@ -133,7 +133,7 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Pete Aguilar campaign finance summary](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
 - [FEC Candidate: Pete Aguilar top contributors — career](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)

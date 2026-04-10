@@ -44,7 +44,7 @@ donors:
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Ron Wyden. Democrat, Oregon. Senior Senator since 1996. Ranking Member, Senate Finance Committee (119th Congress); previously Chair (118th Congress). The Finance Committee controls approximately 50% of the federal budget — all federal tax legislation, Social Security, Medicare, Medicaid, trade, and the debt ceiling. As ranking member, Wyden remains the Democratic Party's lead voice on every tax and healthcare policy debate.
 
@@ -54,20 +54,20 @@ Married to Nancy Bass Wyden — CEO and owner of the Strand Book Store, the icon
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021, 2023, 2025). He has fought Section 702 surveillance reauthorization for over a decade. He has proposed the most comprehensive privacy legislation in U.S. history. None of it has become law. Meanwhile, the policies he successfully advances — CHIPS Act semiconductor funding for Intel's Oregon operations ($36 billion investment), trade promotion authority that benefits tech companies, crypto tax-reporting rules that satisfy innovation-first framing — serve the donor class and his wife's portfolio. Nancy Bass Wyden holds $3 million+ in Big Tech stocks (Apple, Microsoft, Amazon, Google). Wyden led the Biden administration to adopt what the Revolving Door Project called "Big Tech's anti-regulatory framework in international trade negotiations." Five ethics experts told Rolling Stone the situation "poses a conflict of interest." The reform brand is real as aspiration; the structural function is to propose ambitious legislation that fails while advancing donor-friendly policy that succeeds.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Wyden introduces the Billionaires Income Tax to close the "buy, borrow, die" loophole that lets the ultrawealthy avoid taxes on unrealized gains. He frames it as the defining fight of our time. It has never passed. It has never come close to passing. He reintroduces it every Congress, knowing it will fail, and the reintroduction generates progressive media coverage that sustains his reform brand. Meanwhile, his wife holds $500K-$1M in Apple, $500K-$1M in Microsoft, $500K-$1M in Amazon, $500K in Google — the exact class of concentrated wealth that benefits from the tax code Wyden writes but claims to want to reform. She purchased $115-200K in additional Amazon stock after Wyden publicly characterized Amazon as a threat to her Strand Book Store business. The privacy champion's trade advocacy prevents states from enacting privacy regulations that would constrain the tech companies his wife is invested in. The billionaire-tax champion is married to a multimillionaire whose wealth grows under the tax code he controls.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **OpenSecrets CID:** N00007724
 **FEC Candidate ID:** S6OR00110
@@ -101,7 +101,7 @@ Wyden is the reform Democrat whose reforms never pass. His brand is powerful: pr
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount/Value | Source |
 |------|-------|-------------|--------|
@@ -120,7 +120,7 @@ Wyden is the reform Democrat whose reforms never pass. His brand is powerful: pr
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Wyden's Medicaid defense is genuine — he helped block $1.2 trillion in Medicaid cuts (2015) and $880 billion (2025-2026). His ACA defense is consistent and real. His CHIPS Act advocacy delivered tangible jobs to Oregon. But his most ambitious proposals — billionaire tax, privacy overhaul, surveillance reform — never pass. The genuine wins protect the existing system; the aspirational proposals that would restructure it remain aspirational. The structural limit is that reforms threatening to his donor class (tech regulation, billionaire taxation) are introduced but never enacted, while policies serving his donor class (CHIPS funding, trade promotion, innovation-friendly crypto rules) become law.
 
@@ -132,7 +132,7 @@ Wyden is the reform Democrat whose reforms never pass. His brand is powerful: pr
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Wyden's signature is the policy-wonk reformer — he leads with technical proposals (mark-to-market taxation, warrant requirements for Section 702 searches, comprehensive privacy frameworks) that signal seriousness and expertise. The technical framing serves a dual purpose: it impresses policy-engaged progressives who want substance, and it makes the failure to pass seem like a technical challenge rather than a structural one. "The bill is complex" is a more comfortable explanation than "the bill threatens my donors."
 
@@ -142,7 +142,7 @@ On tax policy, he frames himself as the counterweight to Crapo — the progressi
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Ron Wyden Campaign Finance Summary](https://www.fec.gov/data/candidate/H0OR03026/) (Tier 1)
 - [FEC: Ron Wyden Candidate Profile (S6OR00110)](https://www.fec.gov/data/candidate/S6OR00110/) (Tier 1)

@@ -49,7 +49,7 @@ SORT title ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Pramila Jayapal. Democrat, Washington's 7th District (Seattle and surrounding areas). Chair of the Congressional Progressive Caucus 2021–2024 — the largest ideological caucus in the Democratic Party, with 100+ members. Before Congress, Jayapal was a community organizer and immigrant rights activist who founded OneAmerica, the largest immigrant advocacy organization in Washington State. Elected to Congress in 2016.
 
@@ -59,7 +59,7 @@ Her district presents a structural tension that defines her entire tenure: WA-7 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Jayapal represents the progressive wing's structural challenge: the CPC has enough numerical power to block any bill that Democratic leadership wants to pass, but has never successfully sustained that leverage when party leadership applies direct pressure.** The Build Back Better negotiations (2021) were the defining test: Jayapal explicitly threatened to block the bipartisan infrastructure bill until it was linked to the $3.5T social spending package. The caucus held for months. When Pelosi, Biden, and centrist senators applied maximum pressure, the CPC delinked the bills, infrastructure passed alone, and BBB was cut from $3.5T to $1.75T — with progressive priorities as the first casualties.
 
@@ -67,7 +67,7 @@ The lesson: progressive caucus leverage is real in theory and paper-thin in prac
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Jayapal leads the largest ideological caucus in the House. The CPC has 100+ members — enough to block any legislation the Republican minority cannot pass alone. In two terms as CPC chair, Jayapal never successfully used that blocking power against donor-class-aligned Democratic leadership priorities. The caucus's size is its theoretical power; its institutional dependence on party infrastructure is its structural limit. The Two-Audience Problem runs through every CPC communication: the caucus tells progressive voters it's fighting for transformative policy; it tells Democratic leadership it won't actually block bills when the moment of maximum leverage arrives.
@@ -94,7 +94,7 @@ The Build Back Better negotiations documented the CPC leverage failure in real t
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 Jayapal's fundraising is genuinely distinct from most House Democrats — small-dollar donations constitute a larger share than PAC money, and her top organizational donors are labor unions:
 
@@ -145,7 +145,7 @@ This is the clearest donor-class tension in her record: genuine antitrust aggres
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Two-Audience Problem (Progressive Caucus):** The CPC tells progressive voters it will block legislation to force structural policy wins. It tells Democratic leadership it won't actually follow through. Both audiences believe different things about the same caucus. The BBB leverage failure documented this in real time.
 
@@ -155,7 +155,7 @@ This is the clearest donor-class tension in her record: genuine antitrust aggres
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **"Medicare for All is not a fringe position":** Deploys cosponsor counts as legitimacy evidence while avoiding the structural question of why majority-supported policy never gets a floor vote.
 - **Immigrant Rights as Embodied Authority:** As the first South Asian woman elected to Congress and a naturalized citizen, Jayapal deploys biographical authority on immigration policy — making personal narrative a rhetorical shield against "special interest" framing.
@@ -163,7 +163,7 @@ This is the clearest donor-class tension in her record: genuine antitrust aggres
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Pramila Jayapal campaign finance summary](https://www.fec.gov/data/candidate/H6WA07458/) (Tier 1)
 - [Congress.gov: Pramila Jayapal member profile](https://www.congress.gov/member/pramila-jayapal/J000298) (Tier 1)

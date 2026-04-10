@@ -39,13 +39,13 @@ Inhofe was the fossil fuel industry's most reliable Senate asset for three decad
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Inhofe served two donor classes simultaneously: the fossil fuel industry and the defense industry. As chair of both the Environment and Armed Services committees at different points, he was perfectly positioned to deliver for both. For oil and gas, he provided the most aggressive climate denial in the Senate — blocking environmental legislation, attacking EPA authority, and providing intellectual cover for the industry's resistance to regulation. For defense contractors, he championed record military spending bills and protected Oklahoma's five military installations. Both donor classes got exactly what they paid for.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Inhofe represented one of America's poorest states while serving its wealthiest industries. Oklahoma ranks in the bottom ten states for median household income, healthcare access, and education outcomes. Inhofe's three decades of fossil fuel deregulation enriched extractive industries while leaving Oklahoma communities bearing the environmental costs — including a dramatic increase in earthquakes linked to fracking wastewater injection that Inhofe refused to investigate.
 
@@ -54,7 +54,7 @@ Inhofe represented one of America's poorest states while serving its wealthiest 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **Career oil and gas industry contributions:** $2,139,220 (OpenSecrets career total)
 
@@ -105,7 +105,7 @@ Inhofe represented one of America's poorest states while serving its wealthiest 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** Oklahoma's citizens needed healthcare expansion, education funding, and environmental protection from fracking-induced earthquakes. Inhofe delivered fossil fuel deregulation and defense spending. The gap between constituent need and policy output was bridged entirely by donor money.
 
@@ -115,7 +115,7 @@ Inhofe represented one of America's poorest states while serving its wealthiest 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jim Inhofe career industry contributions](https://www.fec.gov/data/candidate/H6OK01102/) (Tier 1)
 - [OpenSecrets: Jim Inhofe campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00005582) (Tier 1)

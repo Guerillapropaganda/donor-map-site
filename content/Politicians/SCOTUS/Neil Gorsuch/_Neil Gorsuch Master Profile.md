@@ -30,26 +30,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First Trump appointee, filling the seat [[_Mitch McConnell Master Profile|Mitch McConnell]] held open for 293 days by refusing to give Merrick Garland a hearing — the longest pending period for a Supreme Court nominee in American history. Confirmed 54-45 (party-line plus three Democratic defectors: Manchin, Heitkamp, Donnelly). Born August 29, 1967, Denver, Colorado. Columbia University, Harvard Law School, Oxford (Rhodes Scholar). Tenth Circuit Court of Appeals (2006–2017). Estimated net worth: $4M–$16M. [[Leonard Leo|Leonard Leo]] selected Gorsuch through the Federalist Society pipeline; the [[Judicial Crisis Network|Judicial Crisis Network]] spent $10M+ in dark money on his confirmation campaign. Mother: Anne Gorsuch Burford — Reagan's EPA administrator who cut the EPA budget 22%, slashed staff 20%, and became the first cabinet-level official held in contempt of Congress for refusing to turn over Superfund enforcement documents. Nine days after confirmation, Gorsuch sold Colorado property to the CEO of Greenberg Traurig (a law firm with regular Supreme Court practice) — then participated in 12 of their subsequent cases, siding with their clients in 8. The donor class's return on McConnell's gamble.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Neil Gorsuch is the donor class's return on the most audacious power play in modern Senate history. McConnell held Scalia's seat open for 293 days — blocking a president's constitutional authority to fill a vacancy — so that the Federalist Society's [[Leonard Leo|Leonard Leo]] could hand-pick the replacement. The Judicial Crisis Network spent $10M+ in anonymous dark money to manufacture consent for confirmation. What the donor class bought: a justice whose judicial philosophy ("textualism") consistently delivers deregulation, weakened labor protections, and expanded corporate rights. Gorsuch authored Epic Systems (2018), blocking workers from filing class actions — forcing them into individual arbitration where corporations hold structural advantage. He concurred in West Virginia v. EPA (2022), grounding the "major questions doctrine" that limits regulatory agency authority. He celebrated Loper Bright (2024) as placing a "tombstone on [[Chevron|Chevron]]" — ending 40 years of judicial deference to expert agencies. The deregulation project is multi-generational: his mother Anne Gorsuch Burford gutted EPA enforcement from inside the agency in 1981–83; her son dismantles regulatory authority from the Supreme Court bench. The libertarian branding — Bostock v. Clayton County (LGBTQ workplace protections), occasional criminal justice departures — provides intellectual cover for an overwhelmingly pro-business, anti-worker, anti-regulatory record. The textualism is real. So is who it serves.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Neil Gorsuch authored Bostock v. Clayton County (2020), extending Title VII protections to LGBTQ workers through literal textual reading — a landmark civil rights ruling. He also authored Epic Systems Corp. v. Lewis (2018), using the same textualist method to strip workers of their right to file class action lawsuits against employers. On the Tenth Circuit, he was the sole dissent in the "frozen trucker" case — arguing that an employer could legally fire a truck driver who detached his trailer and drove to safety in subzero temperatures rather than freeze to death with a broken-down vehicle. The textualism produces civil rights wins when the text happens to align. It produces anti-worker outcomes when the text can be read to favor employers. The method is neutral. The pattern is not. Gorsuch sits in a seat that was stolen from Merrick Garland through 293 days of Senate obstruction — then lectures on the importance of following the rules as written.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Stolen Seat and the McConnell-Leo Pipeline:
 - [[The Stolen Seat and the McConnell-Leo Pipeline]] — 293-day Garland blockade (longest in history). Leo selected Gorsuch from Federalist Society shortlist. JCN spent $10M+ in dark money on confirmation ads across swing-state markets (Indiana, Missouri, North Dakota, Montana). JCN's funding: 75%+ from a single anonymous $17M donation. Leo's interlocking nonprofits (85 Fund, Concord Fund, Rule of Law Trust) channeled hundreds of millions. 2022: Barre Seid donated $1.6 billion to Leo's [[Marble Freedom Trust|Marble Freedom Trust]] — largest known donation to a political advocacy group in U.S. history. The seat cost tens of millions in dark money. What it bought: a 6-3 conservative supermajority.
@@ -59,7 +59,7 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Gorsuch sits in a stolen seat — 293 days of McConnell obstruction + $10M in JCN dark money. Every 5-4 ruling where Gorsuch provides the fifth vote is a ruling that would have gone the other way with Garland.*
 
@@ -100,7 +100,7 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Stolen Seat as Founding Illegitimacy:** Every Gorsuch ruling carries the structural weight of the Garland blockade. McConnell held the seat open for 293 days — an unprecedented exercise of raw political power — so that Leo's Federalist Society pipeline could fill it with a donor-class-aligned justice. Gorsuch's jurisprudence may be intellectually coherent, but it operates from a seat obtained through constitutional hardball that fundamentally altered the Court's composition. Every 5-4 ruling in which Gorsuch provides the fifth vote is a ruling that would have gone the other way with Garland.
 
@@ -110,7 +110,7 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The textualist:** Gorsuch frames every ruling as following the text wherever it leads — even when it leads to outcomes conservatives dislike (Bostock). The framing positions his pro-business rulings as equally neutral textual conclusions rather than policy preferences. When the text produces worker protections, it's principled textualism. When it strips worker protections, it's also principled textualism. The method cannot be wrong because it has no values — only the judge applying it does.
 2. **The libertarian:** Gorsuch occasionally breaks from conservative orthodoxy on criminal justice issues (Fourth Amendment, overcriminalization), producing a "libertarian" brand that distinguishes him from Thomas and Alito's pure social conservatism. The libertarian departures on criminal justice provide intellectual cover for libertarian outcomes on economic regulation — both framed as limiting government power, but only one consistently serves the donor class.
@@ -119,7 +119,7 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 
 ---
 
-### Sources
+## Sources
 
 - [NPR: What Happened With Merrick Garland In 2016 And Why It Matters Now](https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now) (Tier 2)
 - [OpenSecrets: Secretive Conservative Legal Group Funded by $17M Mystery Donor](https://www.opensecrets.org/news/2019/05/dark-money-group-funded-by-17million-mystery-donor-before-kavanaugh/) (Tier 2)
@@ -138,7 +138,7 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 - [WBUR/NPR: Contempt — How Reagan's EPA Head Became the First Cabinet-Level Official Cited for Contempt of Congress](https://www.wbur.org/hereandnow/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress) (Tier 2)
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -152,7 +152,7 @@ content-readiness:: ready
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

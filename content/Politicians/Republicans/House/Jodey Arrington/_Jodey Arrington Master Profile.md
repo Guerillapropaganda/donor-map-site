@@ -47,7 +47,7 @@ donors: [[Americans for Prosperity]] [[American Farm Bureau Federation]] [[Herit
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Jodey Arrington. Republican, Texas's 19th District (Lubbock — one of the largest agriculture and energy districts in the nation). Chair of the House Budget Committee and senior member of the House Ways and Means Committee. First elected in 2016. Before Congress, Arrington served as Chief of Staff at the FDIC under George W. Bush (one of the youngest in FDIC history at age 28), worked in the Bush White House as Associate Director of Presidential Personnel, then moved to Texas Tech University System as Vice Chancellor, and finally served as President of Scott Laboratories, a Lubbock healthcare innovation company. Announced retirement in November 2025 after shepherding Trump's reconciliation megabill through his committee.
 
@@ -58,20 +58,20 @@ His district produces nearly 70% of the world's cotton supply across 14+ million
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Jodey Arrington's structural function is to translate corporate tax and energy priorities into the federal budget. As Budget Committee chair, he controls the reconciliation process — the procedural vehicle that bypasses the Senate filibuster and sets the parameters for tax policy, entitlement spending, and regulatory scope. His committee determines how much can be cut and from where, creating the fiscal architecture that other committees fill with industry-specific giveaways. The oil and gas industry, agribusiness, and corporate tax beneficiaries that fund him don't need Arrington to vote for specific bills — they need him to set budget parameters that make their preferred outcomes inevitable. He is the architect, not the bricklayer.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Arrington frames himself as a fiscal hawk obsessed with the national debt. His stated position: "Out-of-control deficit spending and unsustainable debt are the greatest threat to our country." Yet the reconciliation package he shepherded through the Budget Committee in 2025–2026 includes $5.8 trillion in new costs against only $4 billion in enforceable savings in the Senate version. He demanded $1.5–$2 trillion in spending cuts while simultaneously extending tax cuts that reduce federal revenue by trillions. The "fiscal responsibility" brand is a framing device for cutting social spending while preserving corporate tax benefits and defense largesse — a net transfer from public programs to donor-class priorities.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Top Contributing Industries:
 | Industry | 2019–2020 Amount | Alignment |
@@ -110,7 +110,7 @@ The FDIC experience at 28 gave Arrington insider knowledge of financial regulati
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -154,7 +154,7 @@ Arrington voted to overturn Arizona and Pennsylvania electoral results on Januar
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Arrington delivers real benefits to his district — cotton Farm Bill restoration, energy industry protection. These are genuine wins for TX-19. But the structural limit is what he won't do: challenge the corporate tax structure that his national donors depend on, or allow climate policy that would constrain fossil fuel extraction. The wins stop where donor-class interests begin.
 
@@ -166,7 +166,7 @@ Arrington voted to overturn Arizona and Pennsylvania electoral results on Januar
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Fiscal responsibility" as selective austerity:** Arrington uses debt crisis language to justify cuts to social programs while simultaneously extending tax cuts that increase the deficit. The rhetoric treats government spending on people as waste and government spending on corporate tax relief as investment.
 
@@ -176,13 +176,13 @@ Arrington voted to overturn Arizona and Pennsylvania electoral results on Januar
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 Arrington serves the oil and gas industry, corporate tax beneficiaries, and agribusiness — the three pillars of Texas Republican donor politics. His structural function is uniquely powerful: the Budget Committee chair controls reconciliation, the single most consequential legislative vehicle in Congress. Through reconciliation, Arrington determines how much money flows to defense versus social programs, whether corporate tax cuts are extended or expire, and what fiscal constraints apply to every other committee's work. His donors don't buy votes — they buy the budget architecture that makes their preferred outcomes the path of least resistance. His retirement after passage confirms the transactional logic: the job was to deliver the reconciliation package, and he did.
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jodey Arrington campaign finance summary](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
 - [FEC: Jodey Arrington candidate overview](https://www.fec.gov/data/candidate/H6TX19099/) (Tier 1)
@@ -246,7 +246,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412726) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

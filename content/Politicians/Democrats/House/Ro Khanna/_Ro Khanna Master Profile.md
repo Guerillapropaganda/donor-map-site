@@ -67,7 +67,7 @@ SORT title ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Ro Khanna (Rohit Khanna). Democrat, California's 17th District (Silicon Valley — Cupertino, Santa Clara, Fremont, Sunnyvale). The district contains the headquarters of Apple and Intel and sits at the center of the global tech industry's physical infrastructure. First South Asian elected to Congress from Northern California. Before Congress: patent attorney, Stanford and Santa Clara University lecturer, and Deputy Assistant Secretary of Commerce under Obama. Elected in 2016 after defeating incumbent Mike Honda. Re-elected in 2018, 2020, 2022, 2024. Member of the House Armed Services Committee (Ranking Member, Subcommittee on Cyber, Innovative Technologies and Information Systems) and House Oversight and Government Reform Committee.
 
@@ -77,7 +77,7 @@ By 2025–2026 he had openly positioned himself for a potential 2028 presidentia
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Khanna is the test case for whether progressive politics and tech industry money can coexist — and the answer so far is: barely, and with visible structural compromises.** His district is the tech industry. His individual donors are tech executives and employees. His policy positions on defense, healthcare, and climate are genuinely progressive. But on the policy areas where tech has the most financial stake — antitrust enforcement, AI regulation, gig worker protections — his positions are calibrated to maintain access without triggering the donor-class backlash that would make his district unworkable.
 
@@ -85,14 +85,14 @@ The contradiction sharpened in 2025–2026 as Khanna backed a wealth tax on bill
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Khanna co-founded the Congressional Antitrust Caucus and has grilled tech CEOs on monopoly power — while Alphabet/Google employees are his single largest individual donor group ($535,248 career total per OpenSecrets). He advocates for workers' rights while representing the district that produces the most aggressive anti-union tech industry practices in America. He endorses Medicare for All while tech executives who benefit most from the current employer-based insurance system (lower compensation costs disguised as "benefits") are among his top supporters. The contradiction is managed through selective application: aggressive on fossil fuels, defense waste, and Amazon's specific practices; careful on AI regulation, Microsoft's market position, and gig worker classification in sectors where his district's economy is most exposed. Google Cloud CEO Thomas Kurian is among his individual donors — Khanna grills Google on antitrust while accepting money from its executive suite.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 #### Career Fundraising (2003–2024)
 
@@ -147,7 +147,7 @@ Committee: RO FOR CONGRESS INC (C00503185).
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Silicon Valley / Tech
 
@@ -207,7 +207,7 @@ This mirrors the Bowman case at a different register: Bowman was removed via AIP
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Two-Audience Problem:** Khanna tells progressive voters he will hold tech accountable. He tells tech donors and constituents he understands the industry and will protect American innovation. The wealth tax broke this equilibrium — it was a structural position that the tech donor class couldn't absorb through relationship management. The Agarwal primary challenge is the donor class's response to a structural threat.
 
@@ -223,7 +223,7 @@ This mirrors the Bowman case at a different register: Bowman was removed via AIP
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **"Economic Patriotism":** Frames progressive trade and industrial policy in nationalist language — designed to appeal to working-class voters without triggering the "socialist" framing that has damaged other progressive presidential attempts.
 - **No PAC as Identity:** Deploys the No PAC pledge as a substitute for the deeper structural independence question (individual tech donors vs. corporate PACs). The 93% large-donor ratio undermines the implied grassroots positioning.
@@ -233,7 +233,7 @@ This mirrors the Bowman case at a different register: Bowman was removed via AIP
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 Khanna represents the structural contradiction of progressive politics funded by the class it claims to regulate. His career illustrates a precise hierarchy of donor tolerance:
 
@@ -247,7 +247,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Ro Khanna campaign finance summary (career)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
 - [FEC Candidate: Ro Khanna campaign finance summary (2024 cycle)](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
@@ -266,7 +266,7 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 profile-status:: developed
 content-readiness:: developed
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -362,7 +362,7 @@ content-readiness:: developed
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Ro%20Khanna%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

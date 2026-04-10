@@ -41,7 +41,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Brian Mast represents Florida's 21st Congressional District and chairs the House Foreign Affairs Committee — the body with jurisdiction over foreign aid, arms exports, international organizations, and the State Department. Trump personally lobbied the Republican Steering Committee to install Mast as chair.
 
@@ -53,7 +53,7 @@ AIPAC is his #1 career donor — nearly $700,000 over his career, including $197
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Brian Mast is AIPAC's man in the chairman's seat — the House Foreign Affairs Committee chair who has received nearly $700,000 from the pro-Israel lobby, volunteered with the Israeli military, wore an IDF uniform in Congress, compared Palestinian civilians to Nazis, and was personally installed by Trump. The Foreign Affairs Committee oversees $3.8 billion in annual military aid to Israel, arms export authorizations, and U.S. policy at the United Nations. AIPAC's $700,000 investment didn't just buy a friendly vote — it bought the gavel that controls the committee managing the U.S.-Israel military relationship.
 
@@ -61,14 +61,14 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Mast chairs the committee responsible for overseeing U.S. foreign policy — a role that requires evaluating the interests of the United States, weighing relationships with dozens of nations, and making judgment calls about aid, arms, and diplomacy. He volunteered for a foreign military. His #1 donor ($700K) is the lobby for that foreign nation's interests. He compared an entire civilian population to Nazis. He ordered his staff to use that foreign government's preferred terminology for disputed territory. The Foreign Affairs Committee chair is not evaluating U.S. interests in the Middle East — he is advocating for one side of a conflict while holding the gavel that oversees U.S. policy toward that conflict. This isn't a conflict of interest. It's the elimination of the concept of "interest" separate from Israel's.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - AIPAC: ~$700,000 career (#1 donor — $197,661 in 2023-2024 alone)
@@ -96,7 +96,7 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: AIPAC → Foreign Affairs Committee Chair
 | Date | Type | Event | Donor | Amount | Gap |
@@ -119,7 +119,7 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (AIPAC → Foreign Policy):** The Foreign Affairs Committee is supposed to evaluate U.S. interests across the entire world — China, Russia, NATO, the Middle East, Africa, Latin America. Mast's chairmanship, funded by $700K from AIPAC, has effectively subordinated the committee's global mandate to a single bilateral relationship. The donor class (pro-Israel lobby) has overridden the committee's institutional function (broad foreign policy oversight) by installing a chair whose identity, funding, and personal history are defined by one country.
 
@@ -131,7 +131,7 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Judea and Samaria"** — The biblical/Israeli government terminology for the West Bank, mandated for committee staff. The function: adopt the Israeli right's framing of disputed territory as historically Israeli, making occupation sound like homecoming.
 
@@ -141,7 +141,7 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Brian Mast donor profile](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
 - [FEC Candidate: Brian Mast contributors](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)

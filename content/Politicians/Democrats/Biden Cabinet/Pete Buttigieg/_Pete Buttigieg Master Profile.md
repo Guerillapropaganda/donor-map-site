@@ -32,26 +32,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Pete Buttigieg. Former U.S. Secretary of Transportation (2021–2025). Former Mayor of South Bend, Indiana (2012–2020). 2020 Democratic presidential candidate (withdrew February 2020, endorsed Biden). Rhodes Scholar. Harvard graduate. McKinsey & Company consultant (2007–2010). U.S. Navy Reserve intelligence officer (Afghanistan deployment 2014). Married to Chasten Buttigieg; first openly gay major-party presidential candidate to win delegates. Born 1982, South Bend, Indiana. Net worth: modest (on political scale, no significant personal wealth). Named Secretary of Transportation by Biden in January 2021; served through January 2025. Widely viewed as a top-tier 2028 presidential candidate.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Buttigieg is the McKinsey candidate — a donor-class product designed in a lab. His 2020 campaign was funded by bundlers from finance, tech, and consulting; his Transportation tenure delivered bipartisan infrastructure money that flowed disproportionately to the same industries. He speaks the language of progressive values (equity, climate, worker protection) while governing as a technocratic centrist who finds sophisticated reasons why structural change is difficult. The McKinsey background is not incidental — it's the operating system: identify the problem, recommend the solution that preserves existing power arrangements, present it as the only rational option, bill the client. In politics, the client is the donor class. The McKinsey operating system optimizes for the donor class's preferred outcomes while generating progressive-coded justifications for every decision. Buttigieg is not cynical — he genuinely believes the technocratic framework. That's what makes him so useful.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Pete Buttigieg represented South Bend, Indiana — a postindustrial Rust Belt city where Studebaker's collapse left a manufacturing void that never recovered. As mayor, his flagship "1,000 Houses in 1,000 Days" program demolished houses in predominantly Black and Latino west-side neighborhoods, generating gentrification concerns and direct community criticism. Residents said he was never present in poor neighborhoods: "I ain't ever seen the dude." His 2020 presidential campaign, which centered on working-class Midwestern narrative, was funded by 39 billionaires, bundlers from [[Goldman Sachs|Goldman Sachs]] and Bain Capital, and a $900 Cabernet Sauvignon wine cave fundraiser in Napa Valley. As Transportation Secretary, he oversaw the distribution of $570+ billion in infrastructure funding — much of it to the same construction, engineering, and transportation industries represented in his donor network. East Palestine, Ohio burned toxic chemicals into the air while Buttigieg took 10 days to publicly respond and 20 days to visit. The candidate who speaks about equity, about lifting Rust Belt communities, about transportation as a justice issue — governed in a way that consistently optimized for the donor class and left the most vulnerable behind.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The McKinsey Foundation:
 - [[The McKinsey Years and the Consulting-to-Politics Pipeline]] — what Buttigieg actually did at McKinsey (Blue Cross Blue Shield of Michigan, U.S. Postal Service, Best Buy, NRDC, EPA, DOE, DOD); the nondisclosure agreement that hid the client list until primary pressure; the consulting industry's broader pattern of shaping "rational" policy toward corporate interests; what technocratic governance looks like in practice.
@@ -61,7 +61,7 @@ Pete Buttigieg. Former U.S. Secretary of Transportation (2021–2025). Former Ma
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Buttigieg's airline consumer protections (refund rules, service standards) represent genuine wins for air travelers. However, the structural limit is visible: the airline industry's structural market concentration (high barriers to entry, regulatory capture, legacy carrier dominance) remains entirely unchallenged during his Transportation tenure. Buttigieg addressed consumer symptoms while leaving the industry structure intact. The function: deliver visible wins that don't threaten donor-class economic power.
 
@@ -98,7 +98,7 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Buttigieg led all 2020 Democratic candidates in Wall Street contributions ($935K through Q3 2019) and billionaire donors (39). The wine cave wasn't a gaffe — it was a statement of values.*
 
@@ -132,7 +132,7 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The complexity pivot:** "This is a complicated problem that requires a nuanced approach" — Buttigieg never says yes or no when he can say "it depends." The complexity pivot is the McKinsey move: present the problem as too complicated for blunt interventions, which protects existing arrangements from structural challenge.
 2. **The vocabulary flex:** Buttigieg speaks eight languages, quotes Ulysses, and can deploy policy jargon or philosophical framework on demand. The display of intelligence is not incidental — it's the credential that licenses technocratic authority. If he sounds this smart, surely his policy choices are correct.
@@ -142,7 +142,7 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Pete Buttigieg 2020 presidential campaign donors](https://www.opensecrets.org/2020-presidential-race/candidate?id=N00044183) (Tier 1)
 - [NPR: Buttigieg releases list of McKinsey clients under pressure](https://www.npr.org/2019/12/10/786912801/facing-scrutiny-pete-buttigieg-releases-list-of-mckinsey-clients) (Tier 2)
@@ -178,7 +178,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010298/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

@@ -39,26 +39,26 @@ profile-status:: ready
 
 ---
 
-### Who She Is
+## Who She Is
 
 [[_Kay Granger Master Profile|Kay Granger]]. U.S. Representative (TX-12, Fort Worth, 1997–2024; retired 2024). Chair, House Appropriations Committee (2023–2024). Co-founder, Joint Strike Fighter Caucus (2011). Representing Fort Worth's 12th district, home to [[Lockheed Martin|Lockheed Martin]]'s F-35 production line. Former mayor of Fort Worth (1991–1999). Net worth: $5–$14 million (2023 disclosure). Retired from Congress in 2024.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Kay Granger was, effectively, [[Lockheed Martin|Lockheed Martin]]'s $634,000+ congressional employee — with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. She co-founded the Joint Strike Fighter Caucus to organize congressional advocates for the program. As Appropriations Committee chair (2023–2024), she directed $9.4 billion to 93 F-35 aircraft — a 16-aircraft increase over what the Pentagon itself requested. The defense contractor ROI was perfectly geographic: [[Lockheed Martin|Lockheed Martin]] builds the plane in her district, funds her campaigns, and she appropriates billions more than even the military asks for. By mid-2024, Granger had effectively stopped showing up to Congress entirely, living in a senior care facility with reported cognitive decline, while her staff continued running the office and managing the Appropriations Committee. She was a puppet chair of the most powerful spending committee in Congress while incapacitated.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Granger branded herself as a "fiscal conservative" and budget hawk, particularly on non-defense spending. Her rhetoric opposed "wasteful government" and "bloated bureaucracy." Yet her appropriations record shows she consistently added billions in defense spending that the Pentagon did not request. In 2024, she appropriated 93 F-35 aircraft when the Pentagon asked for 77 — a $16 billion+ addition to military budget because her district manufactures the plane. This is not "fiscal responsibility" — it is defense contractor subsidy hidden inside "national security" language. The contradiction deepens: by July 2024, reports emerged that Granger had significant cognitive decline and was living in a senior care facility, yet she remained officially chair of the Appropriations Committee, with staff managing committee functions. She was a figurehead chair — a Lockheed asset with dementia, rubber-stamping Pentagon budgets written by her staff and the contractors who funded her. The fiscal conservatism rhetoric collides with the reality: she weaponized the most powerful spending committee in Congress to feed Lockheed Martin's production line.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Lockheed Martin Donations (Career):
 - Total identified: $634,000–$800,000+ (career contributions)
@@ -106,7 +106,7 @@ This was not coincidence. Granger created institutional infrastructure to defend
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Granger was Lockheed Martin's $634K+ congressional employee — co-founded the Joint Strike Fighter Caucus, then as Appropriations chair appropriated 16 more F-35s than the Pentagon requested. By mid-2024 she had dementia and was living in a senior care facility while nominally chairing the Pentagon budget.*
 
@@ -175,7 +175,7 @@ This is the ultimate expression of donor capture: not just funding a politician,
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Granger's defense contractor funding victories (Lockheed Martin contracts, military base allocation) are real policy wins benefiting her donors, but stop short of threatening military procurement structure itself. Her wins advance contractor profits without dismantling defense spending.
 
@@ -185,7 +185,7 @@ This is the ultimate expression of donor capture: not just funding a politician,
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Jobs for Fort Worth":** Every F-35 appropriation framed as employment for constituent district, not contractor profit
 2. **"National Security" Language:** F-35 spending defended in terms of military readiness and deterrence, not contractor ROI
@@ -195,7 +195,7 @@ This is the ultimate expression of donor capture: not just funding a politician,
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Kay Granger donor profile, 2020 cycle](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)
 - [FEC Candidate: Kay Granger PAC receipts, defense sector](https://www.fec.gov/data/candidate/H6TX12060/) (Tier 1)

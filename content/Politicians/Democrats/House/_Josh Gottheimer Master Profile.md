@@ -30,21 +30,21 @@ donors: [[Palantir]] [[Wall Street Finance PACs]] Hedge Fund Industry Tech Corpo
 
 ---
 
-### Who They Are
+## Who They Are
 
 Rep [[_Josh Gottheimer Master Profile|Josh Gottheimer]] represents New Jersey's 5th Congressional District (Bergen County suburbs, North Jersey affluent areas) and co-chairs the Problem Solvers Caucus — a bipartisan group of ~50 House members that positions itself as pragmatic, anti-partisan, and focused on "getting things done." A five-term congressman from a light-blue district (D+1 after redistricting), Gottheimer has built his career as Wall Street and tech's inside man within the Democratic caucus. He functions as insurance policy: if progressive economic legislation threatens corporate interests, Gottheimer and his centrist bloc can negotiate watered-down compromises or kill bills entirely while maintaining Democratic control and bipartisan credibility.
 
-### The Central Thesis
+## The Central Thesis
 
 The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanship. Progressives propose wealth taxes; Gottheimer's caucus negotiates them down. Labor pushes for stronger enforcement; Gottheimer's bloc proposes compromise that keeps loopholes open. He does not win by voting against these proposals — he wins by making them so weak that capital can absorb the impact. His donors fund him precisely for this moderating function, not in spite of it.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Pilot Program** — Gottheimer's Problem Solvers Caucus functions as a pilot program for corporate-Democratic compromise on major legislation. Rather than Democrats holding unified positions and negotiating as a bloc, the Problem Solvers identify progressive legislation, negotiate internal compromises with corporate beneficiaries, and then present the watered-down result as the Democratic caucus's official position. The wealth tax is negotiated away quietly. Drug price negotiation is carved with loopholes. Antitrust bills are drafted with escape hatches. The progressive proposal enters committee; the Problem Solvers version exits. The model works for the donor class because it eliminates public accountability — there's no losing vote, just a "pragmatic compromise" that preserves capital's interests.
 
 **The Two-Audience Problem** — Gottheimer talks left and votes center: he endorses progressive priorities while working to weaken them. On wealth taxes, he claims concern about growth while opposing taxation. On drug pricing, he claims support for affordability while supporting pharma-friendly carve-outs. On antitrust, he claims concern about competition while opposing structural enforcement. Each audience — progressives seeking compromise and donors seeking protection — believes Gottheimer is really on their side. The function: make capital-friendly outcomes look like reasonable compromise rather than clear donor preference.
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Gottheimer brands himself as a pragmatic moderate fighting for New Jersey families and small businesses. Yet he has accepted more corporate PAC money than almost any House Democrat — in some cycles, his corporate PAC total rivals his small-dollar fundraising. Most notably, he remained one of the largest recipients of [[Palantir Technologies|Palantir Technologies]] donations (totaling $13.6K+) even after other Democrats refused Palantir money due to the company's Immigration & Customs Enforcement (ICE) surveillance contracts. Gottheimer accepted the money anyway. This is not pragmatism; this is a choice. It reveals that his moderation is not the absence of ideology — it is pro-capital ideology, disguised as non-ideology. He speaks the language of bipartisan problem-solving while his policy votes consistently solve problems *for capital*.
@@ -52,7 +52,7 @@ The centrist Democrat as corporate insurance policy. Gottheimer's structural rol
 > [!money]
 > **The Palantir exception:** When most House Democrats returned or refused Palantir money due to ICE contracts, Gottheimer kept taking it. The $13.6K+ in Palantir executive donations reveal his actual priorities: corporate relationships that extend to surveillance capitalism outweigh human rights concerns that most of his caucus considered disqualifying. The choice to accept Palantir money while others refused is the most visible marker that Gottheimer's "pragmatism" means "corporate alignment."
 
-### Donor Class Map
+## Donor Class Map
 
 ### [[Palantir Technologies|Palantir Technologies]] (Unique Position):
 - Executive/employee donations: $13.6K+ (2020-2024)
@@ -88,7 +88,7 @@ The centrist Democrat as corporate insurance policy. Gottheimer's structural rol
 - Meta PAC: $14K+
 - Combined big tech: $72K+
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Contribution/Event | Amount | Policy Action | Time Gap |
 |------|--------|--------|-------|----------|
@@ -129,7 +129,7 @@ Gottheimer talks antitrust but votes antitrust-light. When bills came for a vote
 ### Labor & Union Issues:
 Gottheimer has been lukewarm on card-check (union authorization simplification) and strong union power bills. Private equity and hedge funds — his second-largest donor category — have structural interests in union busting (PE firms often bust unions after acquisition). Gottheimer never opposed unions; he just didn't fight for them. Absence of support is the centrist function.
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Pragmatism Frame:** Gottheimer consistently argues that progressive proposals are "unrealistic" and "will never pass the Senate." This is often accurate — but it is also self-fulfilling. By refusing to push hard for progressive bills, Gottheimer ensures they don't pass, then blames Senate Republicans for the failure. This allows him to appear reasonable ("I wanted to do this, but Republicans won't cooperate") while his donors get what they want (no progressive taxation, no antitrust action, no drug price regulation).
 
@@ -160,7 +160,7 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 - Clean record (no major scandals or ethical violations)
 - Frequently travels to early primary states (2024 Harris vetting, potential 2028 presidential positioning)
 
-### Sources
+## Sources
 
 - [FEC Candidate: Rep Josh Gottheimer Donor Profile](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1)
 - [Wall Street PAC Contributions, 2020-2024 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)

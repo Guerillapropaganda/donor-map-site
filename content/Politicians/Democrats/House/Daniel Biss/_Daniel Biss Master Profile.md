@@ -44,25 +44,25 @@ donors: J Street PAC · Progressive Donors · Chicago-Based Pro-Israel Donors ·
 
 ---
 
-### Who They Are
+## Who They Are
 
 Daniel K. Biss was born in Bloomington, Indiana, and earned a B.A. from Harvard University and a Ph.D. in mathematics from MIT. He served as an assistant professor of mathematics at the University of Chicago from 2002 to 2008. Biss entered electoral politics in 2010, winning a seat in the Illinois House of Representatives representing the 17th District (2011-2013). In 2012, he was elected to the Illinois State Senate, representing the 9th District from 2013 to 2019. He was a candidate for Illinois governor in 2018, finishing second to J.B. Pritzker. In 2021, Biss was elected Mayor of Evanston. On March 17, 2026, he won the Democratic primary for Illinois' 9th Congressional District with 29.6% of the vote, defeating 15 other candidates including state Sen. Laura Fine and Palestinian-American activist Kat Abughazaleh.
 
-### The Central Thesis
+## The Central Thesis
 
 [[_Daniel Biss Master Profile|Daniel Biss]] won his 2026 primary in Illinois' 9th District—a heavily Democratic, intellectually-aligned Chicago suburb—by positioning himself as a pro-Palestinian, climate-conscious progressive who is "not for sale" to [[AIPAC - American Israel Public Affairs Committee|AIPAC]] money. This positioning is partially genuine: unlike his main opponent Laura Fine, Biss rejected AIPAC's overt support and claimed he would not accept their endorsement. Yet Biss's actual funding base reveals a more complex picture: he received bundled support from J Street PAC ($200K+) and a pro-Israel super PAC affiliate ($150K+). The central thesis is that Biss represents a newer donor strategy within the pro-Israel political economy: the illusion of independent progressivism while maintaining deep ties to pro-Israel infrastructure. AIPAC spent $7M trying to defeat Biss in favor of Fine, but this represented not a genuine loss for AIPAC but a strategic pivot—Biss is more valuable as a "progressive who can't be bought" while still delivering on Israel policy through alternative funding channels and his genuine ideological alignment with liberal Zionism.
 
 > [!money]
 > Total 2026 primary funding: Biss raised approximately $1.5M in the primary. J Street PAC bundled $200K+ to his campaign, and J Street's affiliated super PAC spent $150K in his favor. He received approximately 29.6% of the primary vote on March 17, 2026.
 
-### The Core Contradiction
+## The Core Contradiction
 
 Biss's core contradiction is between his anti-AIPAC rhetoric and his integration into the broader pro-Israel donor infrastructure. He explicitly states he rejected AIPAC's money, claimed "the 9th District is not for sale," and ran on a platform opposing "unconditional aid to the Israeli government." Yet he simultaneously received $350K+ in bundled and super PAC support from J Street, which is itself part of the pro-Israel lobby ecosystem, just positioned to Biss's left on Palestinian issues. The contradiction: Biss poses as a politician who rejected donor money on principle, when in fact he simply chose a different, more ideologically-aligned donor base within the pro-Israel political economy. His rhetoric of anti-AIPAC independence masks his continued integration into liberal pro-Israel power networks.
 
 > [!contradiction]
 > Biss claimed in his victory speech that "AIPAC found out the hard way: the 9th District is not for sale," positioning himself as a politician who rejected outside influence. Yet he simultaneously received $200K+ in J Street PAC bundles and $150K from J Street's super PAC—both part of the pro-Israel political economy. His independence from AIPAC specifically masked his dependence on alternative pro-Israel funding sources. The central contradiction: he framed his primary win as a rejection of donor influence generally, when it was actually a choice of which donor network to join.
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/PAC | Total Donated | Key Policy Outcome | Timeline | Time Gap |
 |-----------|---------------|-------------------|----------|----------|
@@ -71,7 +71,7 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 | Progressive Individual Donors | Data pending | Primary support; climate and social justice alignment | 2026 primary | 0 (concurrent) |
 | Chicago-Based Pro-Israel Donors | Data pending | Support via J Street bundling; community reputation as "progressive" on Israel | 2026 primary | 0 (concurrent) |
 
-### Policy Area Notes
+## Policy Area Notes
 
 | Sub-Note | Status | Summary |
 |----------|--------|---------|
@@ -79,7 +79,7 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 | Israel Policy - Daniel Biss | raw | Stated opposition to unconditional aid; alignment with liberal Zionism framework |
 | Academic Background and Class Position | raw | Math professor-turned-politician; intellectual elite credentials; Evanston mayor experience |
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Biss rejected AIPAC while accepting $350K+ from J Street — both part of the pro-Israel political economy, just positioned at different points on the spectrum. AIPAC spent $7M trying to defeat him; J Street spent $350K helping him win. The "not for sale" narrative was itself a donor strategy.*
 
@@ -104,7 +104,7 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Two-Audience Problem** — Biss campaigned as someone opposed to "unconditional aid to the Israeli government" while simultaneously receiving $350K+ from J Street, both organizations part of the pro-Israel political economy. He delivers one message to Palestine-concerned progressives who fear AIPAC money, and a materially identical message to J Street donors: both support Israel's security, differ on Palestinian statehood rhetoric. The contradiction is structural, not rhetorical — two different audiences believe they've bought different policies when they've bought access to the same donor-compatible position on Israel.
 
@@ -112,7 +112,7 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Not For Sale"** — Biss's central rhetorical move in the 2026 primary was claiming he couldn't be bought by AIPAC, positioning himself as a principled anti-donor-influence politician. This rhetoric is powerful precisely because it's partially true (he rejected AIPAC support), but it obscures his actual integration into J Street's pro-Israel donor network.
 
@@ -144,7 +144,7 @@ Biss's core contradiction is between his anti-AIPAC rhetoric and his integration
 
 **Website:** [danielbiss.com](https://www.danielbiss.com/?q=Daniel%20Biss)
 
-### Sources
+## Sources
 
 - [FEC Candidate: Daniel Biss 2026 Campaign Finance](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1)
 - [FEC: 2026 Primary Results - Illinois 9th District](https://www.fec.gov/data/elections/house/IL/09/2026/) (Tier 1)
@@ -189,7 +189,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL09228/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

@@ -43,19 +43,19 @@ related:: [[_Susan Collins Master Profile|Susan Collins]] [[_Graham Platner Mast
 donors:: [[Democratic Senatorial Campaign Committee]] DSCC Partners and Leadership PACs
 ---
 
-### Who They Are
+## Who They Are
 
 Janet Trafton Mills, born December 30, 1947, served as Maine's 75th Governor from 2019 to 2025, becoming the state's first female governor. Before her governorship, she was Maine Attorney General for four nonconsecutive terms (2009-2011, 2013-2019), again the first woman to hold the position. Mills has a long legal career: she served as Assistant Attorney General (1976-1980), District Attorney (1980-1995)—the first woman elected DA in New England—and Maine House member (2002-2009) where she co-founded the Maine Women's Lobby. She earned her BA from the University of Massachusetts Boston and JD from the University of Maine School of Law. In October 2025, Mills announced her candidacy for the U.S. Senate seat being vacated by retiring Republican [[_Thom Tillis Master Profile|Thom Tillis]], immediately establishing herself as the Democratic frontrunner despite facing a contentious primary challenge from oyster farmer [[_Graham Platner Master Profile|Graham Platner]]. Mills's Senate campaign has raised $2.7 million as of February 2026, though her initial fundraising claims have been disputed: she announced raising $1 million in her first 24 hours with "98 percent of the donations $100 or less," but FEC records showed $465,000 came from itemized contributions of $200 or more—46.5% of the $1 million total.
 
 ---
 
-### Central Thesis
+## Central Thesis
 
 [[_Janet Mills Master Profile|Janet Mills]] represents the Democratic establishment's preferred profile: a career progressive prosecutor with genuine female leadership credentials and real working-class policy achievements, now positioning herself as a Senate candidate through a combination of personal fundraising advantage over primary opponent [[_Graham Platner Master Profile|Graham Platner]] and DSCC institutional support. The contradiction at the heart of her campaign is structural: she attacks Republican [[_Susan Collins Master Profile|Susan Collins]]' corporate funding and out-of-state money dependency while simultaneously funding her own campaign through the Democratic establishment (DSCC joint fundraising committee, leadership PACs from national Democratic senators), positioning herself as the institutional Democratic choice despite her progressive rhetoric. Her opioid litigation as AG (which resulted in Maine securing $235+ million in settlements against pharmaceutical companies) is genuine redistributive accomplishment, yet her Senate campaign fundraising suggests accommodation with pharmaceutical sector interests rather than confrontation. Mills embodies the donor-class logic: she delivers real progressive policy outcomes while accepting funding from interests nominally opposed to her stated positions—or, conversely, she accepts funding from Democratic institutional sources who expect her Senate service to benefit corporate interests. The pattern differs from [[_Susan Collins Master Profile|Susan Collins]] (who openly serves corporate interests) primarily in rhetorical framing, not material positioning.
 
 ---
 
-### Core Contradiction
+## Core Contradiction
 
 Mills campaigns on fighting corporate power and [[_Susan Collins Master Profile|Susan Collins]]' Wall Street dependency. Yet her campaign fundraising architecture reveals institutional Democratic donor-class alignment. She and the DSCC formed a joint fundraising committee ("Maine Senate Victory 2026") that bundles donations from Democratic leadership PACs: Schumer's [[Senate Majority PAC|Senate Majority PAC]] ($20K), Gillibrand's PAC ($20K), Hassan's PAC ($10K), Warnock's PAC ($10K), Cortez Masto's PAC ($10K), Wyden's PAC ($10K), Schiff's PAC ($10K), Whitmer's PAC ($10K), Beshear's PAC ($5K), Pritzker's personal donations ($7K), Murphy's donation ($3.5K). Total from Democratic establishment: $126K+ in first four months of campaign. Meanwhile, her first primary opponent [[_Graham Platner Master Profile|Graham Platner]]—despite attacking her as an establishment favorite—actually performs better with grassroots small-donor fundraising, raising $4.6 million in Q4 2025 to Mills' $2.7 million, with Platner leading in both cash-on-hand and small-donor volume. The contradiction: Mills attacks corporate power (Collins) while accepting institutional Democratic power; Platner attacks institutional Democrats while actually demonstrating stronger small-donor support. Mills' response is intent-based ("my record proves my values") rather than structural ("I'm changing my funding sources").
 
@@ -64,7 +64,7 @@ Mills campaigns on fighting corporate power and [[_Susan Collins Master Profile|
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Mills's opioid litigation as AG secured $235+ million in settlements against pharmaceutical manufacturers — real money recovered from corporate wrongdoing. This is genuine. But the structural limit is that settlements do not eliminate the business model: pharmaceutical companies continue operating, opioid companies continue manufacturing opioids, prices continue rising. Her litigation prosecuted individual corporate malpractice without restructuring the underlying drug distribution system or pricing power. The settlement extracted money but left the structure intact.
 
@@ -72,7 +72,7 @@ Mills campaigns on fighting corporate power and [[_Susan Collins Master Profile|
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **Democratic Establishment Leadership PACs** ($126,000+)
 - [[Senate Majority PAC|Senate Majority PAC]] (Schumer): $20,000
@@ -104,7 +104,7 @@ Mills campaigns on fighting corporate power and [[_Susan Collins Master Profile|
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Donor Connection | Significance | Time Gap |
 |------|-------|-----------------|--------------|-----------|
@@ -125,13 +125,13 @@ Mills campaigns on fighting corporate power and [[_Susan Collins Master Profile|
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Mills employs prosecutor-turned-executive pragmatism: she frames issues through a law-and-order populism ("I will fight for Maine families"). When attacking opponents (particularly Susan Collins), she emphasizes out-of-state funding ("Wall Street money," "corporate interests"). When discussing her own establishment Democratic funding, she either doesn't address it or pivots to: (1) intent signaling ("my record as AG and Governor proves I fight corporate interests"), (2) small-dollar narrative (the disputed 90% under $100 claim), or (3) comparative framing ("Republicans get more corporate money"). She rarely addresses the contradiction between her anti-corporate rhetoric and her reliance on Democratic institutional fundraising. On opioid litigation as AG, she frames the pharmaceutical settlements as complete victory ("We won $235 million for Maine families"), omitting that pharmaceutical companies continue operating, prices continue rising, and the settlement structure preserves their business model (which is now being defended by her institutional Democratic supporters who rely on healthcare industry donations). Her signature move on healthcare: prosecute individual bad actors (pharmaceutical companies) while leaving the underlying corporate structure intact. On energy policy as Governor: negotiate with utilities rather than confront them. On Senate campaign funding: accept institutional Democratic support while claiming grassroots small-donor backing.
 
 ---
 
-### Sources
+## Sources
 
 - [Janet Mills - Wikipedia](https://en.wikipedia.org/wiki/Janet_Mills) (Tier 3)
 - [About the Governor | Office of Governor Janet T. Mills](https://www.maine.gov/governor/mills/about) (Tier 1 - primary source) (Tier 2)
@@ -166,7 +166,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4ME02085/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

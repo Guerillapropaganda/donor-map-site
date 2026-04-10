@@ -21,26 +21,26 @@ related: [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Mast
 
 ---
 
-### Who They Are
+## Who They Are
 
 Ron Johnson. Republican senator from Wisconsin since 2011. Won his seat in 2010 by defeating three-term incumbent Russ Feingold, won a rematch against Feingold in 2016, and narrowly defeated Lt. Governor Mandela Barnes in 2022. Current term expires 2029. Former chairman of the Senate Homeland Security and Governmental Affairs Committee (2015-2021). Currently serves on the Finance Committee, Homeland Security and Governmental Affairs Committee, and Special Committee on Aging in the 119th Congress. Before entering politics, Johnson was CEO of PACUR LLC, a polyester and plastics manufacturing company in Oshkosh, Wisconsin, from the mid-1980s to 2010. Self-funded $9 million of his $15.2 million 2010 campaign. Estimated net worth between $18 million and $88 million (2023 financial disclosure). Received $10 million in deferred compensation from PACUR after winning his Senate seat in 2010, and reported $5-25 million from the sale of PACUR in 2020.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Johnson's donor-class function is to serve as the billionaire manufacturing and pass-through business class's enforcer in the Senate — a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like himself and his mega-donors. His defining legislative act was threatening to tank the 2017 Tax Cuts and Jobs Act unless the pass-through business deduction was increased from 17.4% to 23% — a provision that saved his top donors Diane Hendricks and the Uihleins tens of millions of dollars each and directed 60% of its benefits to the top 1% of earners. Those same donors then spent $22.7 million through super PACs to re-elect him in 2022. The cycle is explicit: Johnson delivers tax policy worth hundreds of millions to a handful of Wisconsin billionaires, and those billionaires fund his campaigns. He supplements this core function with aggressive partisan investigations (Hunter Biden), COVID misinformation that aligned with donor-class opposition to public health mandates, and Russia-skeptic positioning that serves no obvious constituency interest.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Johnson brands himself as a successful businessman who went to Washington to fight for Wisconsin's working families and small businesses. But his signature legislative achievement — the pass-through tax deduction — overwhelmingly benefits ultra-wealthy business owners, not small operators. The Joint Committee on Taxation found that by 2024, the provision would deliver $60 billion in savings with 60% going to owners earning over $500,000 per year. ProPublica estimated that the Uihlein family alone saved $43.5 million in 2018 from this provision, and Diane Hendricks saved $35.9 million. Johnson himself benefited personally from the same deduction through his PACUR holdings. The "small business" champion wrote a tax break for billionaires, benefited from it himself, and then was re-elected with those billionaires' money.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Johnson's donor profile is dominated by a small number of Wisconsin-based billionaires and national conservative mega-donors. In 2022, Diane Hendricks (ABC Supply Co., net worth ~$15B) and Elizabeth and Richard Uihlein (Uline shipping supplies, net worth ~$9B) contributed $22.7 million to the Wisconsin Truth super PAC backing Johnson's re-election — funding over 90% of the PAC's total. In 2016, the same donors gave $20 million to support his re-election. Career oil and gas contributions exceed $750,000. Securities and investment, real estate, and manufacturing are top industry sectors. Self-funded $9 million in 2010.
@@ -60,7 +60,7 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
@@ -75,7 +75,7 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Tax Policy (Core Function):
 - Threatened to kill the 2017 Tax Cuts and Jobs Act unless the pass-through business deduction was increased — successfully raised it from 17.4% to 23%
@@ -103,7 +103,7 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **"Small business" framing:** Calls the pass-through deduction a "small business" tax cut when 60% of benefits go to the wealthiest 1%. Uses his own CEO background to claim authenticity while obscuring the billionaire-class beneficiaries.
 - **"Accountability" investigations:** Frames partisan investigations as government oversight and accountability, using committee subpoena power for campaign-season opposition research.
@@ -112,7 +112,7 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Donor-Class Override:** Johnson's pass-through tax amendment is the vault's clearest example of a senator delivering a specific policy provision worth tens of millions to identifiable individual donors. Wisconsin working families got marginal tax relief; Hendricks and the Uihleins got $79.4 million in combined savings in a single year.
 - **Two-Audience Problem:** Tells Wisconsin voters the tax cut helps "small businesses and their employees." Tells mega-donors — through legislative action, not words — that their pass-through income will be taxed at dramatically lower rates.
@@ -122,7 +122,7 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Ron Johnson campaign finance summary](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)
 - [FEC Candidate: Ron Johnson career industry contributions](https://www.fec.gov/data/candidate/S2PA00513/) (Tier 1)

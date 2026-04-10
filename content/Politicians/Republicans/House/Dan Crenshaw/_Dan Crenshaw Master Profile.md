@@ -55,7 +55,7 @@ SORT title ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Dan Crenshaw. Republican, formerly representing Texas's 2nd Congressional District (Houston suburbs), 2019–2027. Former Navy SEAL officer who lost his right eye to an IED in Afghanistan (2012). Served on Energy and Commerce Committee and Permanent Select Committee on Intelligence. Career fundraising: $24.9M+ (2017–2024 cycles). Net worth: $1.5M–$3.4M.
 
@@ -65,20 +65,20 @@ In March 2026, Crenshaw lost his Republican primary to Steve Toth by 15 points �
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Crenshaw is the case study in how the modern Republican media-brand model serves the donor class while appearing independent — until the base turns on the brand. His Navy SEAL credentials and media presence generated a national following that made him appear to be an independent political brand, but his legislative output was functionally identical to any other Houston-area Republican: pro-energy, anti-EPA, pro-defense, pro-Israel. Career fundraising of $24.9M broke down to: Energy & Natural Resources $1.53M, Finance/Insurance/Real Estate $3.76M, Ideological/Single-Issue $4.85M (including $233K pro-Israel). The media brand created the illusion of independence; the money revealed alignment. His 2026 primary loss to a Trump-backed challenger demonstrates that media-brand Republicanism — even when backed by energy PAC money and AIPAC support — cannot survive without base loyalty in the post-Trump GOP.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Crenshaw's "independent thinker" brand — cultivated through media appearances, podcast debates, and social media engagement — masked a legislative record indistinguishable from the energy industry's wish list. He opposed EPA methane regulation, supported expedited drilling permits, defended fossil fuel tax preferences, and opposed climate legislation — precisely what Houston energy companies wanted from their congressman. His top career industry donor was Oil & Gas at $1.23M, but he performed as a media-savvy moderate to maintain a national small-dollar fundraising base ($1.2M in sub-$200 donations in 2024 alone). The contradiction sharpened when Trump's base demanded ideological purity over media polish: Crenshaw voted to certify Biden's 2020 win, supported Ukraine funding, and backed Afghan ally resettlement — positions that served the defense establishment but infuriated the populist right. His $4M in 2024 fundraising (outpacing Toth by $1.3M) couldn't buy back the base. Money couldn't overcome the brand problem: in Trump's GOP, sounding smart is suspect.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Career Fundraising: $24.9M (2017–2024)
 
@@ -128,7 +128,7 @@ In March 2026, Crenshaw lost his Republican primary to Steve Toth by 15 points �
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Energy Committee and Houston Petrochemical Pipeline
 See: [[The Energy Committee and Houston Petrochemical Pipeline]]
@@ -162,7 +162,7 @@ Crenshaw was the only House Republican on the Texas ballot without a Trump endor
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Intellectual conservative** — Crenshaw positioned himself as the "thinking person's Republican," engaging in podcast debates and social media arguments that projected intellectual seriousness. This brand differentiated him from the Freedom Caucus populists but ultimately became his vulnerability: in Trump's GOP, sounding smart reads as insufficiently loyal.
 
@@ -174,7 +174,7 @@ Crenshaw was the only House Republican on the Texas ballot without a Trump endor
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Media Brand as Donor Cover** — Crenshaw's national media profile created a political identity distinct from his legislative record. Media consumers saw an independent thinker engaging in good-faith debate. Houston energy companies saw a reliable vote on every industry priority. The media brand and the donor service function operated on parallel tracks — until the base rejected the brand. This is the pattern: media performance creates the appearance of independence; donor alignment provides the substance. When the base cares more about loyalty than performance, the model fails.
 
@@ -186,7 +186,7 @@ Crenshaw was the only House Republican on the Texas ballot without a Trump endor
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Dan Crenshaw campaign finance summary](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
 - [FEC Candidate: Dan Crenshaw career industry totals](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
@@ -242,7 +242,7 @@ content-readiness:: developed
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8TX02166/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

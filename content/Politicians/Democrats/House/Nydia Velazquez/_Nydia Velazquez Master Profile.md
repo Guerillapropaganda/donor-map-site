@@ -37,7 +37,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Nydia Velazquez represents New York's 7th Congressional District (parts of Brooklyn, Lower Manhattan, and Queens) and is the Ranking Member of the House Small Business Committee — the committee overseeing the Small Business Administration, access to capital for small firms, and federal contracting set-asides. She has served in Congress since 1993 — over three decades.
 
@@ -47,7 +47,7 @@ Her district includes some of New York's most economically diverse neighborhoods
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Nydia Velazquez is the Small Business Committee's institutional memory — 30+ years focused on SBA lending, minority business access, and federal contracting for small firms. Her donor profile is modest by congressional standards and dominated by real estate (reflecting her New York district), lawyers, and financial services. The analytical question for Velazquez isn't donor capture — it's the structural gap between the Small Business Committee's mission (help small businesses compete) and the reality of who benefits from the programs it oversees.
 
@@ -55,14 +55,14 @@ During the pandemic, Velazquez led the Democratic response on PPP loans — and 
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Velazquez has spent three decades championing small and minority-owned businesses — the authentic constituency of her Brooklyn/Manhattan district. But the committee she leads primarily operates through the SBA loan system, which is administered by banks and financial intermediaries. The PPP program exposed this structural contradiction at scale: $800B+ flowed through banks that prioritized their largest existing customers, while small businesses in communities like Velazquez's district waited weeks for relief. Velazquez identified the problem, demanded investigations, secured community lender set-asides — and the banks still got the lion's share. The champion of small business operates through a system designed to serve the financial intermediaries, not the businesses themselves.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Real estate: top sector (New York district — Brooklyn/Manhattan development)
@@ -90,7 +90,7 @@ During the pandemic, Velazquez led the Democratic response on PPP loans — and 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: PPP Oversight → Bank Accountability
 | Date | Type | Event | Donor | Amount | Gap |
@@ -111,7 +111,7 @@ During the pandemic, Velazquez led the Democratic response on PPP loans — and 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Velazquez delivered real wins: the first Hispanic woman to chair a House committee, $60B in community lender PPP set-asides, three decades of protecting SBA programs for minority and small businesses. The structural limit: the SBA system itself routes capital through banks, and the banks capture the largest share of value. Velazquez can reform the edges — set-asides, community lender preferences, fraud investigations — but the fundamental architecture benefits financial intermediaries.
 
@@ -121,7 +121,7 @@ During the pandemic, Velazquez led the Democratic response on PPP loans — and 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"The backbone of our economy"** — The small business dignity framing. The function: make SBA programs sound like economic patriotism rather than government intervention in markets.
 
@@ -131,7 +131,7 @@ During the pandemic, Velazquez led the Democratic response on PPP loans — and 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Nydia Velazquez donor profile](https://www.fec.gov/data/candidate/H2NY00010/) (Tier 1)
 - [FEC Candidate: Nydia Velazquez industry donors](https://www.fec.gov/data/candidate/H2NY00010/) (Tier 1)

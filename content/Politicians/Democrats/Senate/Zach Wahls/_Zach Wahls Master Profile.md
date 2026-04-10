@@ -33,19 +33,19 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Zach Wahls. Iowa State Senator (District 37, representing Coralville area). Age: 34 (born July 15, 1991). Son of two lesbian mothers (Terry Wahls, internal medicine physician, and her partner); has younger sister (same sperm donor). Mothers married in 2009 following Iowa legalization of same-sex marriage. Gained national attention at age 19 (2011) with viral testimony before Iowa House Judiciary Committee defending his mothers' marriage rights. Three-minute YouTube video became the year's most-watched political video (15+ million views by 2012). Spoke at 2012 Democratic National Convention. Transitioned from LGBTQ+ advocacy to electoral politics; elected to Iowa state senate. 2026 Senate campaign launched June 11, 2025. Raised $1.3 million to date (as of fall 2025 reporting period). [[_Elizabeth Warren Master Profile|Elizabeth Warren]] endorsed Wahls.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Iowa is a long-shot Democratic pickup, but Zach Wahls represents the Democratic Party's *bet* that a Warren-endorsed, small-dollar funded, LGBTQ+ and progressive candidate can compete in a deep-red state that voted for Obama twice, then Trump twice. The donor class question is fundamental: will national progressive money flow to a long-shot Iowa race, or will the DSCC write it off as unwinnable? Who funds a Democratic Senate campaign in deep-red Iowa, and what do they expect in return? Wahls' campaign tests whether progressive identity politics (his mothers' marriage, his LGBTQ+ advocacy history) can mobilize voters in a rural, working-class state. His 2026 race is both a genuine long-shot AND a signal about where progressive energy goes in unwinnable races.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Zach Wahls is a genuinely compelling political figure: his 2011 testimony for his mothers was culturally powerful, he has maintained authentic LGBTQ+ advocacy credentials, his Warren endorsement is legitimate. But Iowa is hostile territory for Democrats. The state went Obama twice, then Trump twice. Republican incumbent [[_Joni Ernst Master Profile|Joni Ernst]] is strong. Wahls' campaign raises money ($1.3M so far), but this is drastically less than competitive Senate races ($10-20M typical). The fundamental contradiction: does Wahls' identity politics (representation of LGBTQ+ families, cultural progressivism) resonate enough with rural Iowa voters to overcome the structural Democratic weakness in the state? Or is his campaign primarily a vehicles for national progressive donors to signal their values, while the actual outcome is predetermined (Republican wins)? In other words, is the Wahls campaign a genuine contender, or is it a cause célèbre for progressives that will lose anyway?
@@ -191,7 +191,7 @@ The 2026 general election will likely pit Wahls against Republican incumbent Jon
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Wahls has raised $1.3M for a Senate race that typically requires $10-20M. His Republican opponent has $4M+ and Senate Leadership Fund backing. Warren's endorsement provides credibility but Iowa's 8+ point Trump margin means even well-funded Democrats face structural disadvantage.*
 
@@ -216,7 +216,7 @@ The 2026 general election will likely pit Wahls against Republican incumbent Jon
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The family authenticity:** "I'm the proud son of two moms." Wahls' political brand rests on this singular fact. It makes him distinctive and gives him credibility on LGBTQ+ issues.
 
@@ -245,7 +245,7 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Pilot Program** — Wahls' 2011 viral testimony functioned as a pilot program for LGBTQ+ rights advocacy, demonstrating that direct, personal appeals around family rights could mobilize voters and reshape cultural conversation. His 2018 state senate election victory demonstrated that this model could work locally in a blue-leaning district. However, the 2026 Senate campaign tests whether pilot programs scale: can identity-based advocacy around family rights mobilize voters in a state that decisively rejected Democrats in 2016 and 2020? The structural question is whether cultural progressivism translates to electoral viability in electorally hostile territory, or whether it remains limited to favorable environments.
 
@@ -253,7 +253,7 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 
 ---
 
-### Sources
+## Sources
 
 - [Zach Wahls - FEC Candidate Profile](https://www.fec.gov/data/candidate/S6IA00272/) (Tier 1)
 - [Zach Wahls - Wikipedia](https://en.wikipedia.org/wiki/Zach_Wahls) (Tier 3)

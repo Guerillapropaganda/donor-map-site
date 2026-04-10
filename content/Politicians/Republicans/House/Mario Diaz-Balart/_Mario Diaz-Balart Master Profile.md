@@ -33,7 +33,7 @@ profile-status:: developed
 
 ---
 
-### Who He Is
+## Who He Is
 
 Mario Diaz-Balart. U.S. Representative, Florida's 26th Congressional District (R). Serving since 2003 — the longest-serving Cuban-American member of Congress. Vice Chair of the House Committee on Appropriations. Chairman of the Subcommittee on National Security, Department of State, and Related Programs (NSRP). Born September 25, 1961, Fort Lauderdale, FL, to Cuban exile parents.
 
@@ -43,20 +43,20 @@ Career arc: Florida House (1988-2000) → Florida Senate (2000-2002) → U.S. Ho
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His Appropriations position — specifically the NSRP subcommittee chairmanship — gives him direct control over State Department funding, Cuba democracy programs, Radio/TV Martí, and the legislative language that governs U.S.-Cuba relations. While Rubio executes Cuba policy diplomatically and SOUTHCOM executes it militarily, Diaz-Balart ensures Congress funds the operation and prohibits any policy reversal. He is the legislative shield for the sugar-defense-exile donor triangle.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Diaz-Balart insists the Cuba embargo is binding law — not executive prerogative — and advocates "maximum pressure" with no exceptions. Yet when Trump allowed a Russian tanker to deliver 700,000 barrels to Cuba on March 31, 2026, the "maximum pressure" architect accepted the exception without public objection. The law is rigid when it serves the donor class; flexible when the White House needs negotiating leverage. The embargo is a tool, not a principle. Diaz-Balart's selective interpretation reveals the structural function: the embargo exists to control the terms of Cuba's eventual opening, not to prevent it permanently.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Diaz-Balart is the top congressional recipient of sugar industry contributions. The Fanjul family — owners of Florida Crystals/Domino Sugar — provides direct personal donations through multiple family members (Lourdes, Alex, Jose Jr., Nicole, Jose F., Emilia — each at $2,700 max individual). Total sugar industry contributions in 2018 alone: $48,200 from U.S. Sugar, American Crystal Sugar, and Fanjul-affiliated entities. Career total from sugar PACs: $27,200+.
@@ -80,7 +80,7 @@ Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His A
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Sugar Industry / Cuba Embargo
 
@@ -109,7 +109,7 @@ Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His A
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The binding law frame:** Diaz-Balart insists the Helms-Burton Act makes the embargo a matter of law, not executive discretion. Function: removes Cuba policy from the realm of democratic debate and places it under legislative lock that only Congress (where sugar PAC money flows) can change.
 2. **The family narrative:** As Fidel Castro's nephew by marriage, Diaz-Balart frames every Cuba position as personal and moral. Function: deflects class analysis — the sugar industry's economic interest in the embargo becomes invisible behind the family's genuine trauma.
@@ -117,7 +117,7 @@ Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His A
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** The sugar industry's $27,200+ in PAC contributions controls a committee position that shapes $60B+ in annual spending. The ROI exceeds any other documented sugar industry political investment in the vault.
 
@@ -127,7 +127,7 @@ Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His A
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Mario Diaz-Balart campaign finance summary](https://www.fec.gov/data/candidate/H2FL25018/) (Tier 1)
 - [Miami New Times: Florida Algae Bloom — Rep. Diaz-Balart Took $27,200 From Big Sugar](https://www.miaminewtimes.com/news/florida-algae-bloom-miami-rep-mario-diaz-balart-took-27200-from-big-sugar-10605348/) (Tier 2)

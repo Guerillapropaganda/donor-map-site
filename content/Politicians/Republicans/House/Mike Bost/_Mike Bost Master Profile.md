@@ -28,7 +28,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Mike Bost represents Illinois's 12th Congressional District (Southern Illinois) and chairs the House Veterans' Affairs Committee — the body with jurisdiction over VA healthcare, benefits, disability compensation, the GI Bill, and the Veterans Health Administration's $300+ billion budget. He has chaired the committee since 2023 and was reelected to the chairmanship for the 119th Congress.
 
@@ -38,7 +38,7 @@ Southern Illinois is working-class, rural, and historically dependent on coal mi
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Mike Bost championed the PACT Act — the landmark legislation expanding VA healthcare for veterans exposed to burn pits and toxic substances. It was his signature achievement, a genuinely important law that extended care to millions of post-9/11 veterans. Then DOGE came for the VA workforce.
 
@@ -48,14 +48,14 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Bost's defining legislative achievement is the PACT Act — expanding VA healthcare for burn pit veterans. The law's implementation requires hiring thousands of VA employees to process claims, provide care, and manage the expanded caseload. In 2025, DOGE and the Trump administration targeted 83,000 VA workers for layoffs, specifically including PACT Act staffing increases. Bost — the PACT Act's champion — initially questioned the cuts, then endorsed the Trump administration's plan. The congressman who wrote the law to help veterans is now supporting the cuts that prevent the law from being implemented. The PACT Act promises burn pit veterans care. DOGE eliminates the workers who deliver it. Bost backs both.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - PAC contributions: 51% of total fundraising (2023-2024)
@@ -84,7 +84,7 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: PACT Act Champion → DOGE Acquiescence
 | Date | Type | Event | Donor | Amount | Gap |
@@ -108,7 +108,7 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The PACT Act is a genuine, significant legislative achievement — millions of burn pit veterans gained access to VA healthcare. Bost deserves credit for championing it. The structural limit: the law's implementation depends on VA staffing that the administration is now cutting. The genuine win is being hollowed out from the inside. Bost cannot defend his achievement without confronting the president whose support he needs for his chairmanship.
 
@@ -120,7 +120,7 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"As a Marine"** — The veteran credential that converts military service into policy authority. The function: make criticism of his VA decisions sound like attacks on a veteran. The Marine-turned-chairman occupies the same credential space as Brian Mast: military sacrifice as rhetorical shield.
 
@@ -130,7 +130,7 @@ This is the Veterans' Affairs Committee's structural trap: the chair needs Trump
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Mike Bost donor profile](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: Mike Bost](https://www.congress.gov/member/mike-bost/B001295) (Tier 1)

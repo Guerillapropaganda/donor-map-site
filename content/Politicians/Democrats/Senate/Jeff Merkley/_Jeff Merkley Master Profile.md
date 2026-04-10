@@ -52,7 +52,7 @@ donors: [[Labor Unions]] · Environmental Groups · [[Small Dollar Donors - ActB
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Jeff Merkley Master Profile|Jeff Merkley]] is the junior United States Senator from Oregon, serving since January 2009. Born October 24, 1956, in Myrtle Creek, Oregon. B.A. in international relations from Stanford University. M.P.P. from the Woodrow Wilson School at Princeton University (now the School of Public and International Affairs). Worked as a presidential management fellow at the Congressional Budget Office and the Office of the Secretary of Defense. Program director at the World Affairs Council of Oregon. Executive director of Portland Habitat for Humanity (1993–1996) — launched Walk for Humanity, started YouthBuild pilot for gang-affected youth building homes in their own neighborhoods. Oregon House of Representatives (1999–2008). Speaker of the Oregon House (2007–2009) after leading Democrats to their first majority in a decade. Elected to the Senate in 2008, defeating Republican incumbent Gordon Smith. Reelected 2014 and 2020. Running for reelection in 2026.
 
@@ -62,7 +62,7 @@ donors: [[Labor Unions]] · Environmental Groups · [[Small Dollar Donors - ActB
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Merkley is the vault's control case — the senator who most consistently operates against the donor-class model that defines his colleagues. He stopped taking corporate PAC money. He was the only senator to endorse Sanders. He authored the Volcker Rule banning banks from gambling with federally insured deposits. He introduced legislation to ban hedge funds from buying single-family homes. His funding base is built on small-dollar grassroots contributions and labor/environmental support rather than the corporate PAC and securities industry money that funds most of his colleagues. But the structural story isn't about Merkley's individual choices — it's about the institutional limits those choices run into. The Volcker Rule was weakened by Obama-era regulators and further gutted under Trump. The End Hedge Fund Control of American Homes Act hasn't passed. The Budget Committee Ranking Member position has no legislative power in the minority. Merkley demonstrates both what's possible when a senator breaks from the donor-class model and what's impossible when one progressive senator operates inside an institution where 90+ colleagues haven't.
 
@@ -71,14 +71,14 @@ Merkley is the vault's control case — the senator who most consistently operat
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > The contradiction in Merkley's profile isn't between his rhetoric and his donors — it's between his legislative ambitions and the institution he operates in. He authored the Volcker Rule, the strongest banking regulation to emerge from the 2008 financial crisis, then watched it get weakened by the regulators who implemented it and gutted by subsequent administrations. He introduced the End Hedge Fund Control of American Homes Act in 2024, then watched [[_Brian Schatz Master Profile|Brian Schatz]] — a senator who "Schatzes" bills that threaten corporate power — vote to protect private equity's ability to buy single-family homes. He campaigns against billionaire money flooding elections while operating in a Senate where his colleagues collect it. The contradiction isn't personal hypocrisy. It's the structural gap between what one progressive senator can propose and what an institutionally captured body will enact. Merkley's career demonstrates the ceiling: even a senator who does everything right on the donor model — rejects corporate PACs, builds a small-dollar base, legislates against Wall Street — can't overcome the 90+ colleagues whose donor relationships define the institution's limits.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -90,7 +90,7 @@ Merkley is the vault's control case — the senator who most consistently operat
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -111,7 +111,7 @@ Merkley is the vault's control case — the senator who most consistently operat
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Inverted):** In most vault profiles, the genuine win is a modest progressive achievement within a donor-serving framework. Merkley inverts the pattern: the genuine wins are substantial (Volcker Rule, corporate PAC rejection, housing legislation) and the structural limits come from outside — from the institution's capture by the donor class, not from Merkley's own donor relationships. The Volcker Rule was a genuine win against Wall Street. The structural limit was that the regulators and subsequent administrations hollowed it out. The housing bill was a genuine win. The structural limit was that colleagues like Schatz voted to protect private equity. The constraint is external, not internal.
 
@@ -121,7 +121,7 @@ Merkley is the vault's control case — the senator who most consistently operat
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **Habitat for Humanity Origins:** Merkley anchors his housing and poverty credentials in his years running Portland Habitat for Humanity — building homes for low-income families, creating YouthBuild programs. The credentials are genuine and predate his political career. Unlike most politicians who adopt policy positions, Merkley's housing work predates his Senate candidacy by more than a decade.
 
@@ -135,7 +135,7 @@ Merkley is the vault's control case — the senator who most consistently operat
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jeff Merkley Campaign Finance Summary](https://www.fec.gov/data/candidate/S8OR00207/) (Tier 1)
 - [FEC: Jeff Merkley for Oregon (C00437277)](https://www.fec.gov/data/committee/C00437277/) (Tier 1)

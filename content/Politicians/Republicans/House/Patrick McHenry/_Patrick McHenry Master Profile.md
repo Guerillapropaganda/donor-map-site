@@ -56,7 +56,7 @@ profile-status:: ready
 
 ---
 
-### Who He Is
+## Who He Is
 
 [[_Patrick McHenry Master Profile|Patrick McHenry]]. U.S. Representative, North Carolina's 10th District (2005–present). Republican. Chair, House Financial Services Committee (2023-2024). The most consequential financial deregulation architect in the 118th Congress. Career campaign financing: $5M+ from securities, banking, and crypto sectors. His signature legislative achievement: FIT21 (Financial Innovation and Technology for the 21st Century Act) — the crypto industry's dream bill, passed May 2024, that preempts state crypto regulation and creates a federal framework written by the industry it supposedly regulates. Six weeks after leaving office in January 2025, McHenry took six jobs in the financial sector simultaneously. The revolving door made explicit: he was hired by the industries he regulated because his regulation was actually deregulation written in their handwriting.
 
@@ -64,20 +64,20 @@ Born 1975 in North Carolina. Career positioning: "free market conservative." The
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Patrick McHenry's congressional career is the perfected architecture of Wall Street legislative capture: a Congressman who spent 20 years writing financial regulation that explicitly benefited his donors, then cashed out to those same donors' firms within weeks of leaving office. His role was never to protect consumers or financial markets — it was to translate industry demands into legislative language while maintaining the rhetorical cover of "free market principles." FIT21 is the explicit proof: crypto industry wrote the bill; McHenry shepherded it through the House Financial Services Committee; the bill preempts state-level consumer protection while creating federal jurisdiction controlled by industry-aligned regulators. Six weeks later, McHenry was hired by Robinhood, Citadel, and four other financial firms — the companies that drafted the bill whose passage he engineered. This is not a conspiracy. This is the institutional architecture of financial sector capture made visible. McHenry is the specimen case that proves the pattern.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Patrick McHenry positioned himself as a "free market conservative" opposed to regulatory overreach while spending his entire career writing regulations that overreach specifically in favor of his donors. He claimed to protect consumers and market integrity while presiding over the weakening of consumer protections and the destruction of state-level financial oversight. He positioned himself as defending the Constitution and limited government while authoring bills that centralized financial regulation in a federal apparatus controlled by the industries he claimed to regulate. He claimed to oppose "corporate capture" of regulatory agencies while being the prime architect of capture. He left office claiming the need for "rest" and "family time" — and then took six jobs within six weeks because those jobs paid more than Congress. The contradiction between his stated principles (free markets, limited government, integrity) and his material function (industry capture, deregulation, revenue extraction) is total and irreconcilable. His response: leverage the contradiction into immediate financial gain.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Securities & Investment Industry: $2.6M Career
 [See: Financial Services Industry Donations to Patrick McHenry]
@@ -138,7 +138,7 @@ The simultaneity is the point: McHenry was not hired by these firms because he p
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: McHenry is the perfected revolving door — 20 years writing financial regulation that benefited his donors, then 5 simultaneous industry jobs within 71 days of leaving office. The crypto industry wrote FIT21; McHenry shepherded it through committee; then the industry hired him.*
 
@@ -170,7 +170,7 @@ The simultaneity is the point: McHenry was not hired by these firms because he p
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — McHenry's FIT21 passage is a real legislative victory for crypto industry donors, preempting state regulation and creating federal jurisdiction controlled by industry-aligned regulators. But the victory stops short of fully deregulating crypto; federal framework still exists, just written in industry-friendly language rather than consumer-protective language.
 
@@ -182,7 +182,7 @@ The simultaneity is the point: McHenry was not hired by these firms because he p
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 ### The "Innovation vs. Regulation" False Choice
 McHenry's primary rhetorical move was framing all financial sector regulation as "anti-innovation." Consumer protection = stifling innovation. State oversight = anti-competitive federalism. CFPB enforcement = government overreach. The rhetorical structure requires forgetting that the 2008 financial crisis killed innovation — it killed people's homes, savings, and livelihoods. FIT21 was framed as "clearing regulatory uncertainty" when it actually created legal space for fraud.
@@ -192,7 +192,7 @@ When questioned about consumer harm or fraud risk, McHenry invoked "free market 
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Patrick McHenry Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00026354) (Tier 1)
 
@@ -235,7 +235,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NC10047/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

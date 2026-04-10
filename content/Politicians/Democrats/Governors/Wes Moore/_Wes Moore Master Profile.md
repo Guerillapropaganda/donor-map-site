@@ -44,7 +44,7 @@ SORT content-readiness ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Wes Moore. Governor of Maryland (2023–present). Former CEO of the Robin Hood Foundation (2017–2021) — the hedge fund billionaires' anti-poverty charity. Former Citigroup and Deutsche Bank investment banker. Rhodes Scholar (Oxford). 82nd Airborne combat deployment (Afghanistan 2005–2006). Bronze Star — finally received December 2024, 18 years after service, amid controversy over claiming it on his 2006 White House Fellowship application before receiving it. Author of "The Other Wes Moore" — criticized for exaggerating Baltimore ties (born in Washington, D.C., raised in the Bronx, New York).
 
@@ -56,13 +56,13 @@ Robin Hood Foundation under Moore's leadership (2017-2021): raised $650M+ in tot
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Wes Moore is the Democratic donor class's ideal product: a candidate manufactured at the intersection of Wall Street (Citigroup, Deutsche Bank), hedge fund philanthropy (Robin Hood Foundation), military service (82nd Airborne), and nonprofit leadership — each credential designed to appeal to a different Democratic constituency while the underlying donor base remains the same. Robin Hood's board — 12 of 19 positions held by hedge fund managers — provided Moore with the network, the fundraising infrastructure, and the political brand that made a gubernatorial run possible. The anti-poverty mission served as the moral cover. The hedge fund donors provided the launch pad. Moore didn't rise from poverty to power — he rose from Citigroup to the Robin Hood board to the governor's mansion, financed at every step by the same Wall Street donor class his nonprofit claimed to fight.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Wes Moore ran the Robin Hood Foundation — an organization that "fights poverty" — whose board is dominated by hedge fund billionaires who are among the primary architects of the economic inequality that produces poverty. Robin Hood invested its assets in hedge funds managed by its own board members, paying $14M in fees to affiliated funds. The Hedge Clippers — a left-wing pressure group — estimated that for every $1 donated to Robin Hood, board members received the equivalent of $44 in tax avoidance and support for tax policy advocacy that favored their interests. The foundation raised $650M during Moore's tenure — from the same financial class that extracts billions from the communities Robin Hood claims to serve. GiveWell, the charity evaluator, concluded Robin Hood had "essentially no transparency, and essentially no accountability, to the public and to its donors." Moore then leveraged the foundation's network and reputation to run for governor, funded by the same Wall Street donors. The anti-poverty organization functioned as a political incubator for a candidate whose entire career was financed by the wealth that poverty generates.
@@ -72,7 +72,7 @@ Robin Hood Foundation under Moore's leadership (2017-2021): raised $650M+ in tot
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Robin Hood Pipeline — From Hedge Fund Charity to Statehouse:
 - [[The Robin Hood Pipeline - From Hedge Fund Charity to Statehouse]] — Board: Paul Tudor Jones (founder, Tudor Investment Corp), Glenn Dubin (Highbridge Capital), [[George Soros|George Soros]] ($50M matching grant in 2009), Stanley Druckenmiller, [[Goldman Sachs|Goldman Sachs]] CEO, JPMorgan Chase CEO. $650M raised in 4 years. $14M in fees to board-affiliated hedge funds. MFA Chairman = Tudor Investment CFO — the lobbying arm and the charity share leadership. Oprah Winfrey fundraiser ($100K+). $2.3M out-of-state in 2022 campaign (concentrated in NYC — where the board members live). The anti-poverty foundation as political launch pad.
@@ -91,7 +91,7 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Moore is a state-level politician, so federal disclosure through OpenSecrets/FEC is limited. State campaign finance data (Maryland State Board of Elections) and FollowTheMoney provide the primary financial record. Moore's political viability is directly downstream from Robin Hood Foundation board relationships.*
 
@@ -117,7 +117,7 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Wes Moore's crime reduction record represents a genuine policy win for communities most affected by violence. Baltimore recorded back-to-back years of the largest single-year homicide declines in the city's history: 201 homicides in 2024 (23% decrease), following a 20% drop in 2023. Non-fatal shootings declined 34%. Juvenile victims of homicides and non-fatal shootings dropped 74%. The data is real; the improvement is material. However, the structural limit is the underlying cause: Moore addressed violence symptoms through enforcement and emergency intervention while the underlying wealth inequality and lack of economic opportunity that produces violence remain structurally unchanged. Crime reduction benefits the real estate developers and corporate investors on Robin Hood's board whose property values depend on perceived safety. The genuine win and the donor-class benefit are aligned.
 
@@ -127,7 +127,7 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The military-nonprofit hybrid:** Rhodes Scholar + 82nd Airborne + Robin Hood CEO. The brand combines intellectual authority, military credibility, and social mission. Each credential appeals to a different Democratic faction. The function: make a Wall Street-funded candidacy look like a grassroots movement. The Bronze Star controversy reveals how central military credentials are to the brand — Moore claimed the medal 18 years before receiving it because the brand required it.
 
@@ -139,7 +139,7 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 
 ---
 
-### Sources
+## Sources
 
 - [Robin Hood Foundation: Board of Directors and Governance](https://robinhood.org/about/governance/) (Tier 1)
 - [InfluenceWatch: Robin Hood Foundation — board composition, hedge fund connections, $14M fees, Hedge Clippers analysis](https://www.influencewatch.org/non-profit/robin-hood-foundation/) (Tier 2)
@@ -157,7 +157,7 @@ Moore publicly ruled out a 2028 presidential run on NBC's Meet the Press: "I'm n
 - [Ballotpedia: Wes Moore](https://ballotpedia.org/Wes_Moore) (Tier 3)
 content-readiness:: developed
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

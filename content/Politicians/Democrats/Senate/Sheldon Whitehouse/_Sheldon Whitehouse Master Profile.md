@@ -78,7 +78,7 @@ SORT file.name ASC
 
 ---
 
-### Who They Are
+## Who They Are
 
 Sheldon Whitehouse. U.S. Senator from Rhode Island (2007–present). Born November 20, 1955, in New York City to career diplomat Charles Sheldon Whitehouse (whose grandfather was a diplomat to Italy and Guatemala). Grew up in diplomatic households in Saigon, Africa, and Washington. Yale undergraduate (1978), University of Virginia School of Law (1982). Rhode Island Attorney General (1999–2003) before winning his Senate seat in 2006. Personal net worth estimated at $4–6M per public financial disclosures — old-money background, not self-made wealth.
 
@@ -90,7 +90,7 @@ Career fundraising total: $21.2M+ across 5 election cycles (2006–2024). Most r
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Whitehouse is the Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His "Scheme" floor speech series (80+ documented speeches, 2016–present) is the most detailed public accounting of right-wing judicial donor infrastructure — specifically [[Leonard Leo|Leonard Leo]], the [[Federalist Society]], and the $580M dark money pipeline that captured the Supreme Court through the appointments of Gorsuch, Kavanaugh, and Barrett. His investigations are accurate and materially significant for understanding judicial capture.
 
@@ -100,7 +100,7 @@ Whitehouse proves the donor-first thesis applies even to its most credible criti
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Whitehouse has documented the Federalist Society/Leo network with stunning precision — his floor speeches name the dark money entities (85 Fund, Concord Fund), the individual mega-donors (Dunn, Uihlein, others), the policy objectives (capture the courts), and the sequence of donations before judicial appointments. But his ethics record reveals three interlocking contradictions:
 
@@ -115,9 +115,9 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Trial Lawyers / Litigation
 
@@ -171,7 +171,7 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 **Dark Money & Judicial Reform:** Whitehouse's 80+ "Scheme" floor speeches (2016–present) and 300+ "Time to Wake Up" climate speeches represent the most sustained investigative effort by any sitting senator. His work documenting the Leonard Leo / Federalist Society / $580M judicial capture pipeline — including the $1.6B Barre Seid donation to Marble Freedom Trust — is the most comprehensive public mapping of conservative dark money infrastructure. He authored the DISCLOSE Act (every Congress since 2010, never passed) and the Supreme Court Ethics Act. His SCOTUS investigations exposed Clarence Thomas's $4.2M in undisclosed Harlan Crow gifts and Samuel Alito's luxury trips from Paul Singer. See: [[The Dark Money Crusade and Judicial Reform]] · [[The Dark Money Crusader and Court Reform]]
 
@@ -181,7 +181,7 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **1. The Investigator Frame.** Whitehouse positions himself as the sleuth uncovering hidden corruption. His 80+ "Scheme" speeches adopt the voice of a prosecutor building a case — naming names, tracing money flows, documenting the constitutional damage. This creates credibility and moral authority. The frame obscures that he operates within the same donor infrastructure he documents.
 
@@ -195,7 +195,7 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit** — Whitehouse's 80+ "Scheme" floor speeches and SCOTUS ethics investigations are genuinely important public records documenting how anonymous donor money captures judicial appointments. His exposure of Clarence Thomas's $4.2M in undisclosed gifts produced the first meaningful accountability for Supreme Court conflicts of interest. The structural limit: his investigations never threaten the broader dark money system that funds left-wing infrastructure, nor do they address his own family's financial entanglement with policy beneficiaries. The DISCLOSE Act has been blocked for 15+ years by the same networks it would regulate — the investigation substitutes for the reform.
 
@@ -207,7 +207,7 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Sheldon Whitehouse campaign finance summary](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
 - [FEC Candidate: Sheldon Whitehouse career industry breakdown](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
@@ -267,7 +267,7 @@ content-readiness:: developed
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00221/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

@@ -42,7 +42,7 @@ profile-status:: developed
 
 ---
 
-### Who She Is
+## Who She Is
 
 Debbie Wasserman Schultz. U.S. Representative, Florida's 25th Congressional District (D). Serving since 2005. Former Chair of the Democratic National Committee (2011-2016). Born September 27, 1966, Queens, NY. Moved to Florida for college (University of Florida).
 
@@ -52,20 +52,20 @@ Career arc: Florida House (1992-2000) → Florida Senate (2000-2004) → U.S. Ho
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo — and the sugar subsidy system it protects — survives not because of Republican ideology but because of bipartisan donor capture. When the Fanjul brothers split their donations between parties, Wasserman Schultz is one of the Democrats who receives.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Wasserman Schultz presents as a progressive Democrat — former DNC Chair, advocate for healthcare access, women's rights champion. Meanwhile, she is one of the top congressional recipients of sugar industry PAC money ($15,000+ from eight sugar-related PACs) and has received $909,000+ from AIPAC and the Israel lobby across her career. The "progressive" label is performative; the donor map is indistinguishable from her Republican counterparts on the two issues that matter most to the Florida donor class: sugar subsidies and Israel. The sugar program she protects costs American consumers $2.4-$4 billion annually and contributes to Everglades environmental devastation — positions that contradict any progressive environmental or consumer protection platform.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > The sugar-AIPAC axis: Wasserman Schultz's two largest sector-based donor categories are the sugar industry ($15,000+ from sugar PACs) and the Israel lobby ($909,000+ career from AIPAC). These are the same two categories that dominate Rubio's and Diaz-Balart's donor maps. The bipartisan sugar coalition ensures the program survives regardless of which party controls Congress.
@@ -88,7 +88,7 @@ Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funde
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -121,7 +121,7 @@ The sugar program survives because both parties are funded by the same donors. W
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Both-Sides Illusion:** The defining pattern of this profile. Wasserman Schultz and the Republican Cuba hawks receive money from the same sugar PACs and Israel lobby organizations. The "opposition" between parties on Florida issues is performative; the donor overlap is structural.
 
@@ -131,7 +131,7 @@ The sugar program survives because both parties are funded by the same donors. W
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Debbie Wasserman Schultz campaign finance summary](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
 - [NBC News: DNC Chief Wasserman Schultz stepping aside in wake of scandal](https://www.nbcnews.com/storyline/2016-conventions/democratic-national-committee-chief-stepping-aside-after-convention-n615826) (Tier 2)

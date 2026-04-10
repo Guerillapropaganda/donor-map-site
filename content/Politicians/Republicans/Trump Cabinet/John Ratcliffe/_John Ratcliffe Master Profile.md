@@ -39,26 +39,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Director of National Intelligence (May 2020–January 2021). Previously U.S. Representative for Texas's 4th District (2015–2020, R+16). Previously mayor of Heath, Texas (population 7,000, 2004–2012). No intelligence community background. First person to hold both DNI and CIA Director positions. Net worth $2–6 million. Post-government consulting income (2021–2024): $2.2 million itemized, including Blackstone ($1.3M), Starlight Futures ($1.2M salary), US Trinity Energy Services ($500K). Advisory board: Latent AI (military AI/ISR contractor, stock options). Heritage Foundation visiting fellow ($80–90K). Congressional donors: defense sector ($110.5K), [[Club for Growth|Club for Growth]] ($111K), L3 Technologies PAC ($28K), AT&T ($10K), Northrop Grumman ($10K). Resume inflation: claimed "dozens" of terrorism investigations and "put terrorists in prison" — office could not name any terrorism suspects sent to prison. 2005 admission: "My background isn't in law enforcement and I don't have any real specialized training." Rose to power through Trump impeachment defense — named to Trump's defense team, emerged as "fiercest defender." The intelligence community skeptic who now runs the intelligence community, funded by the defense contractors the intelligence community oversees.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > John Ratcliffe's career arc — small-town mayor → congressman → Trump impeachment defender → DNI → defense consultant ($2.2M+) → CIA Director — represents loyalty-as-qualification in its purest form. He has no intelligence community background, inflated his resume to include terrorism prosecutions he didn't conduct, and admitted in 2005 he had no law enforcement background or "specialized training." He gained Trump's attention through aggressive impeachment defense, received DNI despite Senate Republicans initially blocking him for insufficient credentials, and used the DNI position to politicize intelligence (declassifying CIA memos before the 2020 election against CIA Director Gina Haspel's objections, pressuring analysts to emphasize China over Russia as election threat). Between government terms, he collected $1.3M from Blackstone, $500K from US Trinity Energy Services (oil/gas), and advisory board stock options from Latent AI (military AI contractor) — then returned to control the intelligence budgets and priorities affecting those same industries. The March 2025 Signal chat incident — where he exposed the name of an active undercover CIA officer — is the resume inflation made operational: the unqualified loyalist endangering intelligence assets. The defense contractor donors ($110.5K as congressman) invested in access; the consulting fees ($2.2M+) were the intermediate return; the CIA directorship is the final payout.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > John Ratcliffe built his political career criticizing the "deep state" — career intelligence professionals he accused of political bias against Trump. He now runs the deepest part of that state: the CIA. As DNI, he declassified intelligence assessments for political purposes and pressured analysts to change their conclusions. As CIA Director, he plans to cut 1,200 personnel, revoked 67 security clearances, and extended buyout offers to the entire workforce. The man who accused intelligence analysts of politicization is the most political intelligence director in modern history. The man with no intelligence background — who inflated his resume to claim terrorism prosecutions — now manages the nation's human intelligence operations. The Signal chat incident (March 2025), where he exposed an undercover CIA officer's identity, is not a bug — it's the predictable consequence of appointing an unqualified loyalist to lead an organization that depends on operational security.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Defense Contractor Revolving Door:
 - [[The Defense Contractor Revolving Door and the Consulting Pipeline]] — Congressional donors: defense sector $110.5K, [[Club for Growth|Club for Growth]] $111K, L3 Technologies $28K. Post-government: Blackstone $1.3M, US Trinity Energy $500K, Latent AI stock options (military AI/ISR). [[Heritage Foundation]] $80–90K. Total post-government: $2.2M+ itemized, $3.3M total 2024 income. The congressman who took defense money → the consultant who took defense money → the CIA director who controls defense budgets.
@@ -68,7 +68,7 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Ratcliffe's career is the revolving door as recurring subscription — congressional defense money → DNI → intelligence politicization → defense consulting ($2.2M+) → CIA Director. The money flows in both directions.*
 
@@ -101,7 +101,7 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The deep state reformer:** Claims restructuring eliminates "politicization" while his tenure is the most political in modern history. The function: frame loyalty-based purges as institutional reform.
 2. **The national security hawk:** Intelligence Committee credentials, terrorism prosecution claims. The function: dress thin qualifications in security language. The reality: 2005 admission of no law enforcement background; resume inflation documented by CNN, ABC News, Newsweek.
@@ -109,7 +109,7 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Ratcliffe executed intelligence personnel restructuring (1,200 cuts, 67 clearances revoked, buyout offers) that align with ideological priorities. Yet these cuts operate within existing budgetary and administrative authority — they don't fundamentally restructure intelligence governance, they optimize it for loyalty by removing personnel who resist politicization.
 
@@ -119,7 +119,7 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Ratcliffe congressional fundraising](https://www.fec.gov/data/candidate/H4TX04153/) (Tier 1)
 - [The Intercept: Ratcliffe AI advisory positions](https://theintercept.com/2025/01/23/cia-nominee-john-ratcliffe-ai/) (Tier 2)
@@ -141,7 +141,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412653) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

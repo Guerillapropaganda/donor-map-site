@@ -43,7 +43,7 @@ proclamations: 761
 
 ---
 
-### Who They Are
+## Who They Are
 
 William Jefferson Clinton (born August 19, 1946). 42nd President of the United States (1993–2001). Governor of Arkansas (1979–1981, 1983–1992). Chairman of the Democratic Leadership Council (1990–1991). Rhodes Scholar. Yale Law School graduate. The architect of the DLC's "Third Way" — the ideological project that realigned the Democratic Party from its postwar labor-union base toward Wall Street, tech, and corporate donor alignment.
 
@@ -68,7 +68,7 @@ Clinton relied heavily on presidential public funds ($75.2M — 61% of total rec
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Clinton is the pivot point in American political history where the Democratic Party became structurally indistinguishable from Republican finance capitalism on economic policy. He did not accidentally drift toward Wall Street — he was cultivated by the Democratic Leadership Council specifically to execute the corporate donor class's agenda while maintaining the Democratic brand. The DLC offered Clinton a national platform for his presidential ambitions and — crucially — entree into Wall Street and New York fundraising communities. Early in the 1992 primaries, Clinton's key Wall Street support was almost exclusively DLC-based, especially at Goldman Sachs.
 
@@ -76,7 +76,7 @@ The Third Way was not a compromise between left and right; it was the capture of
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Clinton ran as the "Man from Hope" — a populist, anti-establishment figure who would challenge corporate power and fight for working families. His presidency delivered the exact opposite: Glass-Steagall repeal (enabling the 2008 financial crisis), NAFTA (estimated 700,000+ net U.S. jobs displaced by 2010 per the Economic Policy Institute), the 1994 Crime Bill ($9.7B for prisons and policing, incarceration doubled to 2M+ disproportionately Black), welfare reform (4.7 million families removed from cash assistance within four years), and the Telecommunications Act (consolidated media ownership from 50+ companies to 6 dominant corporations). Each policy served specific donor classes while being presented as pragmatic necessity. The populist brand and the Wall Street execution were not in contradiction — they were the same political project. The brand was what made the execution possible.
@@ -96,9 +96,9 @@ Clinton was the DLC's signature product. As DLC chairman (1990–1991), he used 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance
 
@@ -199,7 +199,7 @@ The Clinton administration's revolving door with Wall Street was the most extens
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 ### Pattern: Genuine Win + Structural Limit
 Clinton achieved genuine economic growth (1995–2000 expansion), unemployment fell to 4.0%, and the federal budget reached surplus in 1998–2001. These are real achievements. However, they occurred within structural limits set by the donor class: union membership declined from 15.5% to 13.5% during Clinton's presidency; income inequality accelerated (Gini coefficient rose); wealth concentrated in finance, tech, and real estate while manufacturing was offshored; environmental regulation was weakened. The economic expansion benefited asset owners and financial sector workers, not the working class that formed the Democratic base.
@@ -215,7 +215,7 @@ The DLC refused to disclose its donor list while positioning itself as a force f
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 Clinton's presidency was the completion of the long counter-revolution against the New Deal coalition. By dismantling Glass-Steagall, passing NAFTA, signing welfare reform, expanding incarceration, and consolidating media, Clinton executed the exact policy agenda that the donor class — finance, tech, telecom, defense — had been funding the DLC to deliver for a decade.
 
@@ -227,7 +227,7 @@ The long-term class consequence: Clinton's realignment of the Democratic Party t
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: Clinton, William Jefferson — candidate overview (ID: P20000642)](https://www.fec.gov/data/candidate/P20000642/) (Tier 1)
 - [Congress.gov: Gramm-Leach-Bliley Act (S.900, 106th Congress)](https://www.congress.gov/bill/106th-congress/senate-bill/900) (Tier 1)

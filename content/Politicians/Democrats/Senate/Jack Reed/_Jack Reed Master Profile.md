@@ -42,7 +42,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Jack Reed is the senior senator from Rhode Island and the Ranking Member (formerly Chair) of the Senate Armed Services Committee — the body that authorizes every dollar the Pentagon spends and confirms every senior military appointment. He has held his Senate seat since 1997 and served in the House from 1991 to 1997.
 
@@ -52,7 +52,7 @@ Reed's net worth is among the lowest in the Senate — reported between negative
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Jack Reed is the military-industrial complex's most credentialed Democrat. West Point, Army Ranger, 82nd Airborne, Harvard Kennedy School, Harvard Law — the CV is impeccable. He parlayed it into the Senate's most important defense position, where he oversees the authorization of $800+ billion in annual Pentagon spending. His top career donor is General Dynamics Electric Boat — the submarine manufacturer headquartered in his state that builds the most expensive weapons systems in the Navy's fleet.
 
@@ -60,14 +60,14 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Reed has never voted to cut the defense budget. Not once in 29 years in the Senate. He represents a state where defense spending is 8% of GDP and 34,000 jobs depend on military contracts. His top donor is the submarine manufacturer in his state. He sits on the committee that authorizes the money that flows to that manufacturer. He votes for every defense authorization. He is the Democrat the Pentagon points to when accused of partisanship. The contradiction isn't between his words and his votes — those are perfectly aligned. The contradiction is between the Democratic Party's rhetorical commitment to rebalancing military and domestic spending and its most senior defense voice, who has never supported rebalancing in any concrete vote.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising (career):
 - Defense sector: ~$1 million+ career total
@@ -100,7 +100,7 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Defense Industry → Armed Services Authorization
 | Date | Type | Event | Donor | Amount | Gap |
@@ -127,7 +127,7 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Reed has pushed for genuine military reforms — better oversight of contractor fraud, improved veteran healthcare, accountability for Pentagon procurement failures. These wins are real but bounded. They improve how the money is spent without ever questioning how much money is spent. The structural limit: the defense budget itself is never on the table.
 
@@ -139,7 +139,7 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Military credentials as authority** — West Point, Ranger, 82nd Airborne. The biography is invoked whenever defense spending is questioned. The function: make it impossible to challenge the defense budget from the left without appearing to challenge a combat veteran's judgment. Reed's credentials are the Democratic Party's shield against defense cuts.
 
@@ -157,7 +157,7 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jack Reed donor profile](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
 - [FEC Candidate: Jack Reed industry donors](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)

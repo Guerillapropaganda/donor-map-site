@@ -44,7 +44,7 @@ SORT title ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Tammy Baldwin. U.S. Senator from Wisconsin (2013–present). First openly gay person elected to the U.S. Senate — defeating former Republican Governor Tommy Thompson in 2012 in a race that attracted national attention. Reelected in 2018 and 2024. The 2024 race was one of the most expensive Senate contests in the cycle: Baldwin raised $58.5M versus Eric Hovde's $31.6M, with outside spending exceeding $119M combined. She won by roughly one point in a state Donald Trump carried by three — the highest-profile Democratic swing-state Senate survival of the 2024 cycle.
 
@@ -56,7 +56,7 @@ Career fundraising: $82M+ (1997–2024). Top non-retired industry sectors: Lawye
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 ### Baldwin is the rare progressive who wins in a swing state by anchoring her progressive economic agenda to specific Wisconsin industries — dairy, manufacturing, healthcare — rather than abstract ideology. Her donor architecture reveals the structural limits of that populism.
 
@@ -66,7 +66,7 @@ The HELP Committee jurisdiction is the structural mechanism: the same health sec
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Baldwin campaigns as a populist fighting corporate power while operating within the same corporate fundraising system as every other senator. She has accepted over $350,000 from corporate PACs including Amazon, Google, Honeywell, and Lockheed Martin since 2018 — while simultaneously campaigning against corporate influence. Her HELP Committee seat gives her jurisdiction over healthcare, and the health sector has contributed $5M+ career. The contradiction is managed through selective populism: aggressive on drug pricing (which polls well and targets pharmaceutical companies), moderate on insurance regulation (which could alienate the healthcare donors who fund HELP Committee members), and vocal on Buy American provisions that serve Wisconsin manufacturers while providing populist messaging.
 
@@ -75,7 +75,7 @@ Baldwin campaigns as a populist fighting corporate power while operating within 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Healthcare / HELP Committee
 
@@ -124,7 +124,7 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 **Buy American** — Baldwin's signature legislative brand. The Made in America Act identifies federal programs funding infrastructure projects not currently subject to Buy America standards and requires domestically produced materials. This serves Wisconsin manufacturers while providing populist messaging. It is the rare policy position that simultaneously serves donor interests (manufacturing sector contributions), constituency interests (Wisconsin factory jobs), and electoral interests (populist branding in a swing state).
 
@@ -136,7 +136,7 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit** — Baldwin's Buy American provisions deliver real benefits to Wisconsin manufacturers, and her dairy legislation has materially supported 250+ Midwest dairy operations. Her drug pricing advocacy produced real provisions in the Inflation Reduction Act. These are genuine policy wins. The structural limit: her economic populism operates within the Democratic Party's corporate fundraising architecture. She accepts corporate PAC money from the same industries she claims to fight, and her $6.4M career total from finance/insurance/real estate dwarfs her $2.3M from labor. The wins are real but structurally bounded to avoid threatening the donor relationships that fund her campaigns.
 
@@ -148,7 +148,7 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Buy American frame** — Baldwin's signature legislative brand: Buy American provisions in infrastructure and procurement bills serve Wisconsin manufacturers while providing populist messaging. The Made in America Act is both policy and branding — it works because it aligns donor interests (manufacturing sector) with constituency interests (Wisconsin factory jobs).
 
@@ -162,7 +162,7 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Tammy Baldwin campaign finance summary](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
 - [FEC Candidate: Tammy Baldwin career industry breakdown](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)

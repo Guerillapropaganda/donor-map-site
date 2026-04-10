@@ -50,26 +50,26 @@ related: [[Koch Network - Charles Koch|Koch Network]] · [[_John Barrasso Master
 
 ---
 
-### Who They Are
+## Who They Are
 
 John Hoeven. Republican senator from North Dakota since 2011. Previously served as North Dakota's governor for ten years (2000-2010) — the longest-serving governor in the state's history. Serves on the Agriculture, Nutrition, and Forestry Committee and the Appropriations Committee in the 119th Congress, chairing the Agriculture Appropriations Subcommittee. Also sits on the Energy and Water Development, Defense, Interior, and Transportation Appropriations subcommittees. Former member of the Senate Energy and Natural Resources Committee and the Indian Affairs Committee. Before politics, spent over a decade in banking, including serving as president of the Bank of North Dakota (the nation's only state-owned bank) from 1993 to 2000. Estimated net worth $22-97 million (varying estimates), making him one of the wealthiest U.S. senators. Significant personal wealth derived from banking — he and his wife own up to $55 million in Westbrand Inc., a private bank holding company. Also holds personal investments in 68 oil-producing wells in North Dakota through Mainstream Investors LLC, plus 33 additional Bakken wells through Whiting Petroleum. PAC contributions: 43.56% of fundraising in 2019-2024 cycle.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Hoeven's donor-class function is to serve as the intersection point where North Dakota's extraction economy meets federal appropriations power. A banker-turned-governor-turned-senator who personally invests in Bakken oil wells while writing federal energy and agriculture policy, Hoeven doesn't just serve the extraction class — he is the extraction class. He championed both the Keystone XL pipeline (introduced Senate Bill 1 to approve it) and the Dakota Access Pipeline (while personally invested in 68+ oil wells that would benefit from pipeline access), and sits on the Indian Affairs Committee despite the Standing Rock Sioux Tribe's opposition to the pipeline that crosses their treaty lands. His Appropriations Committee position controls the federal dollars flowing to agriculture and energy — the two industries that dominate North Dakota's economy and his personal financial portfolio. The donor-class function and the personal financial interest are indistinguishable.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Hoeven frames himself as a defender of North Dakota's economic interests — its farmers, ranchers, and energy workers. But his most consequential energy advocacy — championing the Dakota Access Pipeline — directly conflicted with the Standing Rock Sioux Tribe's sovereign interests, water safety concerns, and treaty rights. He sits on the Indian Affairs Committee while personally investing in the oil wells that benefit from the pipeline the tribes opposed. He championed the Keystone XL pipeline as "energy independence" while the primary beneficiaries were Canadian oil companies transporting tar sands crude to Gulf Coast refineries for export. The banker who ran the state-owned Bank of North Dakota now uses federal appropriations power to direct resources to the industries he personally profits from.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Hoeven's fundraising is heavily PAC-dependent: 43.56% of 2019-2024 cycle funds came from PACs, with only 3.63% from small donors. Top industries include oil and gas, agriculture, banking/finance, and real estate — all sectors where Hoeven has personal financial interests. But the most significant "donation" isn't from donors to Hoeven — it's Hoeven's own investments in 68 oil-producing wells through Mainstream Investors LLC and 33 Bakken wells through Whiting Petroleum, creating a direct personal financial stake in the energy policy he shapes.
@@ -88,7 +88,7 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
@@ -102,7 +102,7 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Energy & Pipelines (Core Function):
 - Introduced Senate Bill 1 (2015) to approve Keystone XL pipeline — first legislation of the session
@@ -124,7 +124,7 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **"Energy independence" nationalism:** Every pipeline and drilling expansion is framed as reducing dependence on foreign oil and strengthening national security — never as enriching the extraction companies (and the senator personally) who profit from increased production.
 - **"Safety" framing for pipelines:** Argues pipelines are safer than rail for oil transport — a real argument, but one that conveniently forecloses the question of whether extraction should expand at all.
@@ -133,7 +133,7 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Donor-Class Override:** The Standing Rock Sioux Tribe — whose reservation sits in Hoeven's state — opposed the Dakota Access Pipeline over water safety and treaty rights. Hoeven championed the pipeline anyway, while personally profiting from Bakken oil investments. The Indian Affairs Committee member chose extraction profits over tribal sovereignty.
 - **Self-Funding as Independence (Inverted):** Hoeven's wealth comes from the same industries he regulates — banking and energy. Unlike billionaire self-funders who claim independence, Hoeven's personal investments create direct conflicts of interest that are never framed as corruption.
@@ -142,7 +142,7 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: John Hoeven campaign finance summary](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)
 - [FEC: John Hoeven candidate overview](https://www.fec.gov/data/candidate/S0ND00093/) (Tier 1)

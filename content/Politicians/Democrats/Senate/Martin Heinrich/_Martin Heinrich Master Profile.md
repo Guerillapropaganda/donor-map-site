@@ -55,7 +55,7 @@ donors: [[Defense Industry]] · National Labs Complex · Energy Industry · [[Te
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Martin Heinrich Master Profile|Martin Heinrich]] is the senior United States Senator from New Mexico, serving since January 2013. Born October 17, 1971, in Fallon, Nevada. B.S. in mechanical engineering from the University of Missouri. Moved to Albuquerque, New Mexico, where he began his career as a contractor working on directed energy technology at Phillips Laboratory (now Air Force Research Laboratory) at Kirtland Air Force Base. Albuquerque City Council (2004–2008), elected council president — championed minimum wage increase, community policing, and campaign finance reform. U.S. House of Representatives, 1st District (2009–2013). Elected to the Senate in 2012. Reelected 2018 and 2024. Among the first Democratic senators to encourage President Biden to suspend his 2024 reelection campaign.
 
@@ -65,7 +65,7 @@ donors: [[Defense Industry]] · National Labs Complex · Energy Industry · [[Te
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Heinrich is the nuclear weapons complex's senator — an engineer who started his career inside the weapons labs, built his committee portfolio around the agencies that fund them, and has doubled their budgets. New Mexico's economy is structurally dependent on the national laboratories: Los Alamos ($4.2 billion annual budget, 17,000+ employees) and Sandia (operated by Honeywell subsidiary NTESS, $4.6 billion budget) are the state's economic backbone. Heinrich's Energy and Natural Resources Committee oversees DOE nuclear programs. His Armed Services seat authorizes the NDAA that funds NNSA at $26 billion. His Intelligence Committee seat covers classified weapons programs. Every committee assignment touches the national labs. The FY2026 NDAA alone authorized $1.7 billion for Los Alamos R&D plus dedicated Sandia funding including $40 million for the MESA photolithography capability and $52.2 million for survivability testing. Heinrich's AI Caucus co-chairmanship adds the technology industry as a second jurisdiction — and the labs are increasingly AI-adjacent through computational physics and machine learning applications. The constituency interest (jobs), the donor-class interest (lab contractors), and the committee portfolio all point in the same direction.
 
@@ -74,14 +74,14 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Heinrich presents himself as a progressive clean energy champion and technology innovator — AI Caucus co-founder, renewable energy advocate, climate policy supporter. He championed NSA surveillance reform, opposed bulk data collection, and earned a reputation as a civil liberties progressive. But his committee portfolio and legislative record are dominated by the nuclear weapons complex — the single largest component of U.S. defense spending that is neither defensive nor clean. The NNSA's $26 billion annual budget funds the modernization of nuclear warheads, plutonium pit production at Los Alamos, and the weapons testing infrastructure at Sandia. Heinrich doubled these budgets. The clean energy work (solar, renewable, energy efficiency) operates alongside — and never in competition with — the nuclear weapons spending that dwarfs it. The progressive credentialing on surveillance and civil liberties coexists with an Intelligence Committee seat that provides oversight of the classified weapons programs Heinrich funds through Armed Services. The clean energy senator's primary legislative achievement is expanding the nuclear weapons budget.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -94,7 +94,7 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -115,7 +115,7 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door (Origin Variant):** Heinrich's career began inside the nuclear weapons complex — as a contractor at Phillips Laboratory (now AFRL) at Kirtland AFB working on directed energy weapons. He moved from the weapons lab to city council to Congress to the Senate committees that fund the weapons labs. The revolving door didn't spin after his political career. It spun before it, establishing the technical fluency and institutional relationships that define his legislative portfolio.
 
@@ -125,7 +125,7 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **Engineer Identity:** Mechanical engineering degree, career origin at the weapons labs. Heinrich frames his technical background as qualification for the committees he serves on — the engineer-senator who understands the science. The credential is real. It also normalizes the career path from weapons contractor to weapons funder.
 
@@ -160,7 +160,7 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 
 <!-- auto:govtrack end -->
 
-### Sources
+## Sources
 
 - [FEC Candidate: Martin Heinrich Campaign Finance Summary](https://www.fec.gov/data/candidate/H8NM01224/) (Tier 1)
 - [FEC: Martin Heinrich for Senate (S2NM00088)](https://www.fec.gov/data/candidate/S2NM00088/) (Tier 1)
@@ -232,7 +232,7 @@ content-readiness:: ready
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Martin%20Heinrich%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

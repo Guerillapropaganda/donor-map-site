@@ -32,7 +32,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 James Lankford is the senior senator from Oklahoma and chairs the Senate Select Committee on Ethics. He also serves on the Finance Committee, the Homeland Security and Governmental Affairs Committee, and the Indian Affairs Committee. He has served in the Senate since 2015, after representing Oklahoma's 5th Congressional District in the House (2011-2015).
 
@@ -42,7 +42,7 @@ Oklahoma's economy runs on oil and gas. The state is the 4th-largest crude oil p
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 James Lankford is the pastor-senator from oil country — a Baptist minister who chairs the Ethics Committee while his largest career donor sector ($1.5 million+) is the oil and gas industry that dominates his state's economy. On the Finance Committee, he fought to restore investment deductions for energy producers that the Biden administration had eliminated. On Homeland Security, he negotiated the most significant bipartisan border security deal in a generation — then watched his own party kill it at Trump's command.
 
@@ -50,14 +50,14 @@ The border deal collapse is the defining event of Lankford's career and the clea
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Lankford chairs the Senate Ethics Committee — the body responsible for investigating ethical violations by senators. He is also Oklahoma's top recipient of oil and gas money ($1.5M+ career) while serving on the Finance Committee that writes the tax code governing the oil industry's deductions, credits, and subsidies. The senator who polices ethical violations is himself the textbook case of industry-funded legislators writing rules for their donors. The Ethics Committee chairmanship functions as a shield: the senator who decides which ethical complaints merit investigation is the least likely to investigate industry-funded conflicts of interest — because he embodies them.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Oil & gas: $1.5M+ career (largest sector by far)
@@ -85,7 +85,7 @@ The border deal collapse is the defining event of Lankford's career and the clea
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Oil & Gas → Tax Code / Energy Deductions
 | Date | Type | Event | Donor | Amount | Gap |
@@ -107,7 +107,7 @@ The border deal collapse is the defining event of Lankford's career and the clea
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (oil & gas → tax policy):** Oklahoma voters need economic diversification, healthcare, and infrastructure. Lankford's Finance Committee work centers on oil and gas tax preferences — deductions that benefit Devon Energy and Continental Resources more than they benefit Oklahoma families. The donor class (oil & gas) shapes the senator's committee priorities regardless of broader constituency needs.
 
@@ -119,7 +119,7 @@ The border deal collapse is the defining event of Lankford's career and the clea
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Oklahoma families and energy producers"** — The framing that yokes family welfare to oil industry prosperity. The function: make energy industry tax breaks sound like family policy.
 
@@ -129,7 +129,7 @@ The border deal collapse is the defining event of Lankford's career and the clea
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: James Lankford donor profile](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1)
 - [FEC Candidate: James Lankford industry donors](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1)

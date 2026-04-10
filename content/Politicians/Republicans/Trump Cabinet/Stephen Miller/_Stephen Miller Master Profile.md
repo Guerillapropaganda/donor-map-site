@@ -38,33 +38,33 @@ donors: [[DonorsTrust]] [[Bradley Impact Fund]]
 
 ---
 
-### Who He Is
+## Who He Is
 
 Stephen Miller. Deputy Chief of Staff for Policy and Homeland Security Adviser (January 2025–present). Previously White House Senior Advisor (2017–2021) and founder/president of America First Legal (2021–2024). The policy architect of immigration restriction across two administrations. Biography: Duke University 2003 (BA Politics), conservative columnist at The Chronicle, then president of Duke Students for Academic Freedom. Joined Alabama Senator Jeff Sessions as communications director (2009–2016), co-authoring immigration restriction agenda. Trump campaign senior policy advisor (2016). White House policy architect (2017–2021). Founded America First Legal post-term (2021–2024) funded by dark money ($44.4M in 2022 revenue, $27M from Bradley Impact Fund alone, $21.3M from DonorsTrust in 2024). Miller's compensation at AFL grew from $77K to $567K+ including $75K bonus and $100K "below market" adjustment awarded just before White House return. Current White House salary $195,200. No previous Pentagon, intelligence, or law enforcement experience. No diplomatic background. His entire career path flows through immigration restriction advocacy, white nationalist media networking (documented leaked emails to Breitbart showing affinity for extremist literature), and dark money funding of legal infrastructure designed to enforce anti-immigration policy. The most powerful unelected policy architect in the federal government. His great-grandfather fled anti-Jewish pogroms in Belarus in 1903; Miller now architects policies targeting the descendants of refugees like his own family.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > [!money]
 > Stephen Miller is the ideological architect of Trump's immigration, DEI, and culture war agenda, funded by dark money that cannot be traced to its ultimate donors. Unlike donor-class Republicans who follow billionaire directives, Miller is a true believer whose motivation is white nationalist ideology. The donors fund him because his agenda serves their labor discipline interests and demographic control interests, even though his ideological drivers are distinct from their profit-maximization calculus. His dark money infrastructure (America First Legal seeded by dark money foundations, funded by Bradley Impact Fund and DonorsTrust) exists to sustain him between government terms and provide legal enforcement mechanisms for policies he implements. The closed loop: anonymous donors fund AFL → AFL employs Miller at $567K+ → Miller returns to government → implements policies AFL was designed to advance → AFL sues to defend those policies. Every deportation, every denaturalization, every visa restriction is the dividend on a dark money bet. Miller's personal motivation (ideological extremism rooted in white nationalism) aligns with capital's interests (labor constraint, demographic control, property speculation, workforce terror) without requiring direct donor coordination. The system self-optimizes.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Stephen Miller's family fled anti-Jewish pogroms in Belarus in 1903 seeking refuge in America. His great-grandfather Wolf-Leib Glosser arrived with nothing and built a life. Seventy-four family members were murdered in the Holocaust because they could not escape due to the Immigration Exclusion Act of 1925. Of 2,000 Jews in his family's hometown Antopol, only seven survived the war. His uncle David Glosser wrote publicly: "I shudder at the thought of what would have become of the Glossers had the same policies Stephen so coolly espouses — the travel ban, the radical decrease in refugees, the separation of children from their parents — been in effect when Wolf-Leib made his desperate bid for freedom." Miller descends from refugees and now architects the most restrictive immigration regime in modern American history, specifically targeting the descendants of refugees and asylum seekers. His own family's survival depended on Open borders America; his policies eliminate that America for others. The contradiction is structural. He witnessed his family history. He chose to invert it.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 [[America First Legal and the Dark Money Architecture]] — Co-founded April 2021 with Mark Meadows and Gene Hamilton. Seeded by Conservative Partnership Institute. Revenue trajectory: $6M (2021) → $44.4M (2022) → $9.6M (2023) → $21.3M DonorsTrust alone in 2024. Bradley Impact Fund donated $27M in 2022 (61% of annual revenue). Miller compensation rose from $77K (2021) to $567K+ (2024) including golden parachute bonuses just before White House return. AFL functions as Miller's holding pattern between administrations while maintaining compensation and building legal arguments for policies he implements. The organization bills itself as "conservative ACLU" — a legal arm dedicated to blocking diversity programs, immigration protections, voting rights expansion, and progressive state policies. Filed 30+ lawsuits in 2022 alone targeting DEI programs, voter registration initiatives, Title IX transgender protections. Donor network remains anonymous through donor-advised fund structure designed to obscure ultimate funding sources.
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Miller doesn't serve a single donor — his white nationalist ideology aligns perfectly with three capital interests (labor discipline, property speculation, conservative legal infrastructure) without requiring explicit coordination. The dark money network funds the holding pattern; Miller's policies are the return on $70M+ in anonymous investment.*
 
@@ -154,7 +154,7 @@ November 2019: SPLC released leaked emails obtained by Hatewatch from former Bre
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 The policy architect operating in shadows Miller does not campaign, fundraise, hold press conferences, or engage in public debate. He writes executive orders and directs litigation. Maximum policy impact with minimum public accountability. Intentional obscurity protects his extremism from popular democratic pressure. When asked directly about white nationalist emails, he does not deny, justify, or explain — he remains silent and lets leadership defend him. The strategy: unelected policy architect with more power than elected officials, hidden behind Trump's public persona. Trump takes political risk of controversy while Miller controls policy direction. Perfect delegation of accountability.
 
@@ -166,7 +166,7 @@ The dark money operator AFL as ostensibly independent legal organization actuall
 
 ---
 
-### Class Analysis
+## Class Analysis
 
 Miller's immigration restriction agenda serves labor discipline and demographic control interests, even though Miller's personal ideology (white nationalism) differs from donors' profit-maximization calculus. The alignment is structural rather than conspiratorial. Miller's ideological goals happen to serve capital interests in multiple ways simultaneously.
 
@@ -188,7 +188,7 @@ Conservative Partnership Institute seeded America First Legal at founding (2021)
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 The Genuine Win + Structural Limit Miller's second-term escalation (3,000 daily ICE arrests, Alien Enemies Act invocations, birthright citizenship, denaturalization) represents maximum expansion of executive authority over immigration enforcement and regulatory interpretation. Yet these actions operate entirely within existing statutory authority — they do not fundamentally restructure immigration law, they maximize enforcement and reinterpretation within existing statute. Birthright citizenship EO immediately blocked in court because it violates 14th Amendment. Denaturalization operates within existing law but requires individual cases (quota system unlikely to meet 5,000+ monthly targets). Mass deportation under Alien Enemies Act requires legal theory (Venezuelan gang as "invasion") contradicted by lack of war declaration. The actions are genuine policy escalations but structurally limited by Constitution and judicial review. Miller's strategy: push limits until courts block, then claim courts prevent his agenda, then return to maximum possible enforcement within what survives legal challenge.
 
@@ -198,7 +198,7 @@ The Villain Framing Miller frames immigrants and immigration advocates as the th
 
 ---
 
-### Sources
+## Sources
 
 - [Stephen Miller biography](https://en.wikipedia.org/wiki/Stephen_Miller_%28political_advisor%29) (Tier 3)
 - [NPR: Stephen Miller Deputy Chief of Staff appointment](https://www.npr.org/2024/11/11/g-s1-33741/trump-stephen-miller-deputy-chief-of-staff-immigration-policy-deportations) (Tier 2)

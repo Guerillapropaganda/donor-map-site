@@ -43,7 +43,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Maria Cantwell is the junior senator from Washington State, serving since 2001. She chairs (or serves as ranking member of) the Senate Commerce, Science, and Transportation Committee — the first woman to hold that position. The committee's jurisdiction spans aviation (FAA), telecommunications, internet policy, consumer protection, surface transportation, and the Coast Guard. She also sits on Finance and Energy and Natural Resources.
 
@@ -53,7 +53,7 @@ Washington State is headquarters to Amazon, Microsoft, Boeing, T-Mobile, Costco,
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Maria Cantwell is the tech-aerospace industry's Senate anchor — a former tech executive who chairs the committee with jurisdiction over the industries that dominate her state's economy. She receives more campaign donations from the airline and telecommunications industries than any other senator — both industries her committee directly oversees. Her top donors include employees of T-Mobile, Microsoft, Amazon, United, and Delta.
 
@@ -61,14 +61,14 @@ Like Jack Reed's defense alignment with Rhode Island, Cantwell's industry alignm
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Cantwell positions herself as a champion of consumer protection, internet privacy, and airline passenger safety. She chairs the committee that regulates the tech companies headquartered in her state — Amazon, Microsoft, T-Mobile — and the aerospace industry dominated by Boeing. She receives more money from airlines and telecom than any other senator. The "consumer protection champion" is funded by the industries she's supposed to protect consumers from. When Cantwell pushes for airline passenger protections, she does so carefully enough to never threaten the airline industry's business model. When she advocates for tech privacy legislation, it never passes — and Big Tech continues operating without comprehensive federal privacy regulation from her committee.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Top Senate recipient from: airline industry, telecommunications industry
@@ -98,7 +98,7 @@ Cantwell made her wealth as VP of Marketing at RealNetworks in the late 1990s. S
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Airlines → FAA Oversight
 | Date | Type | Event | Donor | Amount | Gap |
@@ -125,7 +125,7 @@ Cantwell made her wealth as VP of Marketing at RealNetworks in the late 1990s. S
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Both-Sides Illusion:** Cantwell (Democrat) and her Republican Commerce Committee counterpart receive money from the same airlines, telecom companies, and tech firms. The partisan fights on the committee are about regulatory details, not whether the industries will be fundamentally constrained. Big Tech operates without comprehensive privacy regulation under both parties' committee leadership. The bipartisan consensus IS the industry's preferred outcome.
 
@@ -137,7 +137,7 @@ Cantwell made her wealth as VP of Marketing at RealNetworks in the late 1990s. S
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Washington State's innovation economy"** — The framing that makes protecting Amazon, Microsoft, and Boeing synonymous with protecting the state's economic future. The function: make industry advocacy sound like constituent service.
 
@@ -147,7 +147,7 @@ Cantwell made her wealth as VP of Marketing at RealNetworks in the late 1990s. S
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Maria Cantwell donor profile](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
 - [OpenSecrets: Maria Cantwell net worth](https://www.opensecrets.org/personal-finances/maria-cantwell/net-worth?cid=N00007836) (Tier 1)
@@ -236,7 +236,7 @@ content-readiness:: ready
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

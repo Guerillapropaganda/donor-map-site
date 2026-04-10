@@ -27,7 +27,7 @@ related: [[_Donald Trump Master Profile|Trump]] · [[_Markwayne Mullin Master Pr
 
 ---
 
-### Who She Is
+## Who She Is
 
 Kristi Lynn Noem (born November 30, 1971). Republican politician who served as the 8th United States Secretary of Homeland Security from January 2025 until her removal in March 2026. Previously the 33rd Governor of South Dakota (2019–2025) and U.S. Representative for South Dakota's at-large congressional district (2011–2019). State legislator (2007–2011).
 
@@ -37,13 +37,13 @@ Fired by Trump in March 2026 after a $220 million taxpayer-funded DHS advertisin
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That brand secured a Cabinet appointment. At DHS, she used taxpayer money to continue building the brand — a $220 million ad campaign featuring herself on horseback at Mount Rushmore. The scandal that ended her tenure wasn't that she was corrupt; it was that the corruption was so visually absurd (horse rentals, hair and makeup) that it became impossible to defend.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Noem built a national profile on anti-government libertarianism — "South Dakota is open for business" during COVID, opposition to federal overreach, small-government rhetoric. Then as DHS Secretary, she authorized one of the largest taxpayer-funded self-promotional ad campaigns in federal history, awarded through no-bid contracts to firms connected to her political operation.
 
@@ -52,7 +52,7 @@ Noem built a national profile on anti-government libertarianism — "South Dakot
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **Dark money pipeline:** While governor, Noem supplemented her income by secretly accepting $80,000 from a dark money nonprofit that promoted her political career — routed through a personal company she established in Delaware. The nonprofit's donors remain undisclosed. ProPublica described this as "a highly unusual arrangement."
 
@@ -93,7 +93,7 @@ Congressional Democrats probed companies awarded the $220M ad contract for ties 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door:** Noem moved from governor → Cabinet secretary → personal enrichment, using each position to build the brand and the donor network for the next position. The dark money → Delaware company → personal income pipeline during her governorship previewed the DHS → no-bid contracts → political network enrichment pattern.
 
@@ -103,7 +103,7 @@ Congressional Democrats probed companies awarded the $220M ad contract for ties 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Kristi Noem campaign finance summary](https://www.fec.gov/data/candidate/H0SD00054/) (Tier 1)
 - [ProPublica: Kristi Noem secretly took personal cut of political donations](https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics) (Tier 1)

@@ -40,20 +40,20 @@ opposes: >-
 
 ---
 
-### Who They Are
+## Who They Are
 
 Hillary Clinton has held four major political positions: First Lady (1993–2001), U.S. Senator from New York (2001–2009), Secretary of State (2009–2013), and 2016 Democratic presidential nominee. Her career spans 25 years of institutional Democratic politics, marked by a public positioning as a progressive achiever while maintaining the closest donor relationships with Wall Street of any Democratic presidential candidate in history.
 
-### The Central Thesis
+## The Central Thesis
 
 Clinton embodies the "progressive who delivers for Wall Street" archetype. Her fundraising model and donor base are indistinguishable from Republican establishment finance — Goldman Sachs, Citigroup, JPMorgan Chase — yet she maintained credibility within progressive circles through rhetorical commitment to workers' rights and gender equity. The three Goldman Sachs speeches ($675,000 for 40 minutes each, 2013–2015) became the symbol of the donor-class capture of the Democratic Party.
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Clinton campaigned as a fighter for working people while accepting more Wall Street funding than any Democratic presidential nominee in history. Her 2016 campaign raised $1.3 billion, with Wall Street contributing an estimated $45+ million. The leaked private speeches revealed a candidate explicitly maintaining "public and private positions" — her own phrase — a textbook two-audience problem that gave ammunition to critics that the Democratic establishment had abandoned working-class interests entirely.
 
-### Donor Class Map
+## Donor Class Map
 
 ### Top donors and policy returns:
 
@@ -76,7 +76,7 @@ Clinton embodies the "progressive who delivers for Wall Street" archetype. Her f
 
 **Israel Policy:** Clinton's relationship with Haim Saban ($20M+ lifetime donor to Clinton initiatives) shaped Middle East policy as Secretary of State. No public pressure on Israeli settlements despite official administration policy opposing their expansion. Saban's donations, which constitute a form of soft foreign influence, directly enabled pro-Netanyahu policy outcomes that contradicted stated U.S. Middle East neutrality.
 
-### Analytical Patterns
+## Analytical Patterns
 
 ### Pattern: Two-Audience Problem
 Clinton's leaked private speeches to Goldman Sachs revealed a candidate maintaining different policy positions for Wall Street than for public audiences. Her explicit words: "You need to have both a public and private position" — a confession of the two-audience strategy. This pattern delegitimized the Democratic nominee among working-class voters who recognized they were not the audience for the "private position."
@@ -87,13 +87,13 @@ As Secretary of State, Clinton achieved genuine wins for women's rights and LGBT
 ### Pattern: Donor-Class Override
 Clinton's opposition to Glass-Steagall reinstatement, despite being the signature financial policy demand of the Sanders campaign and substantial Democratic grassroots, directly reflected Goldman Sachs and Wall Street's interests over her constituency. She chose donor interests over voter demands on the central economic issue of the 2016 race.
 
-### Class Analysis
+## Class Analysis
 
 Clinton's political career illustrates the complete integration of Democratic leadership into donor-class interests. Her rise through the 1990s DLC (Democratic Leadership Council) realignment, her Senate fundraising from Wall Street despite representing New York's working-class outer boroughs, her State Department tenure managing trade deals and financial policy for global finance, and her 2016 campaign's unprecedented Wall Street funding all trace a single arc: the Democratic Party becoming the reliable second home of U.S. capital.
 
 The Goldman Sachs speeches were not anomalous; they were the clearest articulation of a strategy that had defined Clinton's entire career. Wall Street funded her because she had already proven she would deliver for them. The speeches just made the relationship explicit.
 
-### Sources
+## Sources
 
 - [FEC 2016 Presidential Campaign Finance](https://www.fec.gov/data/candidate/P00003392/) (Tier 1)
 - [Hillary Clinton Goldman Sachs Speeches Leaked, WikiLeaks](https://wikileaks.org/podesta-emails/emailid/927) (Tier 2)
