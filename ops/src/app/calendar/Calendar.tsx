@@ -1,8 +1,8 @@
 "use client"
 
-import { useState, useMemo, useCallback } from "react"
-import type { SprintSchedule, SprintState, TaskStatus } from "./types"
-import { PHASE_COLORS, TARGET_COLORS, progressFraction, todayIso } from "./types"
+import { useState, useMemo, useCallback, useEffect } from "react"
+import type { SprintSchedule, SprintState, TaskStatus, Task } from "./types"
+import { PHASE_COLORS, TARGET_COLORS, OWNER_COLORS, OWNER_LABELS, progressFraction, todayIso } from "./types"
 import { MonthGrid } from "./MonthGrid"
 import { PhaseBar } from "./PhaseBar"
 import { DayModal } from "./DayModal"
@@ -10,13 +10,22 @@ import { DayModal } from "./DayModal"
 interface Props {
   schedule: SprintSchedule
   initialState: SprintState
+  serverDate: string   // YYYY-MM-DD from the server — authoritative "today"
+  serverTime: string   // ISO timestamp from the server
 }
 
-export function Calendar({ schedule, initialState }: Props) {
+export function Calendar({ schedule, initialState, serverDate, serverTime }: Props) {
   const [state, setState] = useState<SprintState>(initialState)
   const [openDay, setOpenDay] = useState<string | null>(null)
+  const [liveTime, setLiveTime] = useState<string>(serverTime ?? new Date().toISOString())
 
-  const today = todayIso()
+  // Tick every 30s so the displayed clock stays fresh
+  useEffect(() => {
+    const id = setInterval(() => setLiveTime(new Date().toISOString()), 30_000)
+    return () => clearInterval(id)
+  }, [])
+
+  const today = serverDate   // use server-side date as the authoritative "today"
   const sprintStart = schedule.metadata.start_date
   const sprintEnd = schedule.metadata.end_date
 
@@ -89,6 +98,15 @@ export function Calendar({ schedule, initialState }: Props) {
             </h1>
           </div>
           <div className="flex items-baseline gap-6 text-[11px] font-mono tracking-wider text-[var(--color-text-dim)]">
+            {/* Live clock — ticks every 30s, seeded from server time */}
+            <div className="text-[10px] font-mono" title="Server time — authoritative today">
+              <span className="text-[var(--color-amber)]">
+                {liveTime.slice(0, 10)}
+              </span>
+              <span className="text-[var(--color-text-dim)] ml-1">
+                {liveTime.slice(11, 16)}
+              </span>
+            </div>
             <div>
               <span className="text-[var(--color-text-dim)]">DAY </span>
               <span className="text-[var(--color-text)] text-base font-bold">{dayOfSprint}</span>
@@ -172,6 +190,55 @@ export function Calendar({ schedule, initialState }: Props) {
           onToggleTask={toggleTask}
         />
       )}
+
+      {/* Ad-hoc log — tasks added mid-sprint not in the original plan */}
+      {(() => {
+        const adhocTasks = schedule.allTasks.filter(
+          (t) => (t as Task & { added_adhoc?: boolean }).added_adhoc
+        )
+        if (adhocTasks.length === 0) return null
+        return (
+          <section className="border border-[var(--color-border)] bg-[var(--color-bg-card)]">
+            <div className="px-5 py-3 border-b border-[var(--color-border)] flex items-baseline justify-between">
+              <div className="text-[10px] tracking-[0.25em] text-[var(--color-amber)] font-mono font-bold">
+                AD-HOC LOG — {adhocTasks.length} UNPLANNED TASKS COMPLETED THIS SPRINT
+              </div>
+              <div className="text-[9px] text-[var(--color-text-dim)] font-mono">
+                not in original sprint plan
+              </div>
+            </div>
+            <div className="divide-y divide-[var(--color-border)]">
+              {adhocTasks.map((task) => {
+                const taskWithCtx = task as Task & { phase: string; owner: string; added_adhoc?: boolean }
+                const taskStatus = state.task_states[task.id]?.status ?? task.status
+                const ownerColor = OWNER_COLORS[taskWithCtx.owner] ?? "#7a7a86"
+                const ownerLabel = OWNER_LABELS[taskWithCtx.owner] ?? "??"
+                const isDone = taskStatus === "done"
+                return (
+                  <div key={task.id} className="px-5 py-2 flex items-start gap-3 text-[10px] font-mono">
+                    <span style={{ color: isDone ? "#22c55e" : "#7a7a86" }}>{isDone ? "☒" : "☐"}</span>
+                    <span
+                      className="px-1 border text-[8px] flex-shrink-0"
+                      style={{ color: ownerColor, borderColor: ownerColor + "80" }}
+                    >
+                      {ownerLabel}
+                    </span>
+                    <span className="text-[var(--color-text-dim)] w-16 flex-shrink-0">{task.id}</span>
+                    <span className={isDone ? "line-through text-[var(--color-text-dim)]" : "text-[var(--color-text)]"}>
+                      {task.task}
+                    </span>
+                    {task.completed_date && (
+                      <span className="ml-auto flex-shrink-0 text-[var(--color-text-dim)]">
+                        {task.completed_date}
+                      </span>
+                    )}
+                  </div>
+                )
+              })}
+            </div>
+          </section>
+        )
+      })()}
 
       {/* Legend */}
       <section className="border border-[var(--color-border)] bg-[var(--color-bg-card)] p-4">

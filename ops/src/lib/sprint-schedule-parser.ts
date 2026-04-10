@@ -75,6 +75,7 @@ export interface Task {
   pages?: string[]
   keywords?: string[]
   scheduled?: string
+  added_adhoc?: boolean
   target_file?: string
   spec_file?: string
   backlog_file?: string
