@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 issues:
   - "Wall Street & Finance"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]] · [[Intra-Republican Contradiction Map]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Stephen Schwarzman|Stephen Schwarzman]] · [[Paul Singer|Paul Singer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Elliott Management|Elliott Management]] · [[Blackstone|Blackstone]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
 ---
 #investigation #contradiction #schwarzman #singer #wall-street #republican #class-analysis
 tags: #analysis #story

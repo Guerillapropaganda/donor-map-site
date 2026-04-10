@@ -39,7 +39,7 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13D/A"
   - "TEXT-EXTRACT"
-related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Democratic Party Infrastructure]] · [[Future Forward USA Action]] · [[FTX - Sam Bankman-Fried]] · [[Silicon Valley Democratic Donor Network]]"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Democratic Party Infrastructure]] · [[Future Forward USA Action]] · [[FTX - Sam Bankman-Fried]] · [[Silicon Valley Democratic Donor Network]] · [[Senate Majority PAC]]"
 court-cases: 47
 last-enriched: "2026-04-09"
 court-jurisdictions:

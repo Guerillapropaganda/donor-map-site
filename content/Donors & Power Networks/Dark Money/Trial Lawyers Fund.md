@@ -17,7 +17,7 @@ court-cases: 1
 last-enriched: "2026-04-08"
 court-jurisdictions:
   - "District Court, D. Massachusetts"
-related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]]"
+related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]]"
 ---
 #trial-lawyers #tort #litigation #democratic #donor #aat #plaintiffs
 

@@ -15,7 +15,7 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
-related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Peter Thiel]] · [[Founders Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Defense Industry Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Lockheed Martin]] · [[BAE Systems]]"
+related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Peter Thiel]] · [[Founders Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Defense Industry Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Lockheed Martin]] · [[BAE Systems]] · [[Anduril Industries]]"
 ---
 #palantir #surveillance #thiel #defense #ice #data #government-contracts #revolving-door #ai #immigration
 

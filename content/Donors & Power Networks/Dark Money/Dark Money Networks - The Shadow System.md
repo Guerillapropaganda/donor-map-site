@@ -9,7 +9,7 @@ sector: "Dark Money"
 entity-type: "Story"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[The Both-Sides Dark Money Illusion]] · [[DonorsTrust]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Marble Freedom Trust]] · [[Bradley Impact Fund]] · [[Majority Forward]] · [[Koch vs Soros Mirror Image Dark Money Machines]]"
+related: "[[The Both-Sides Dark Money Illusion]] · [[DonorsTrust]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Marble Freedom Trust]] · [[Bradley Impact Fund]] · [[Majority Forward]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[CREW - Citizens for Responsibility and Ethics in Washington]]"
 ---
 #dark-money #501c4 #shadow-system #citizens-united #anonymous #bipartisan
 

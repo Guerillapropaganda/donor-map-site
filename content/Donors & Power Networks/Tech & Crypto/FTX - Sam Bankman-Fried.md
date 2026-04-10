@@ -13,7 +13,7 @@ issues:
   - "Technology"
   - "Dark Money & Campaign Finance"
 last-enriched: "2026-04-08"
-related: "[[French Hill]] · [[Sam Bankman-Fried]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Coinbase]]"
+related: "[[French Hill]] · [[Sam Bankman-Fried]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Coinbase]] · [[Dustin Moskovitz]]"
 ---
 #donor #crypto #dark-money #fraud #class-analysis #follow-the-money #both-sides-illusion #regulatory-capture
 

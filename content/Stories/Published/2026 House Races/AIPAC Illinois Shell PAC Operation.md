@@ -8,7 +8,7 @@ parent: null
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 2026 Senate Race]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[2026 House Money Map]] · [[Intra-Republican Contradiction Map]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 2026 Senate Race]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[2026 House Money Map]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]]"
 ---
 #2026-election #house #illinois #aipac #shell-pac #dark-money #class-analysis
 

@@ -21,7 +21,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(4)"
 total-revenue: 1057103
 total-assets: 79716
-related: "[[Democratic Senatorial Campaign Committee]] · [[ActBlue]] · [[House Majority PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
+related: "[[Democratic Senatorial Campaign Committee]] · [[ActBlue]] · [[House Majority PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Majority Forward]]"
 ---
 #donor-node #super-pac #democratic #women #fundraising-infrastructure #pro-choice #gatekeeper #donor
 

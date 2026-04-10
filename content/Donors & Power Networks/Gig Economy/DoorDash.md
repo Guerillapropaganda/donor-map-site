@@ -25,7 +25,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Wage and Hour Division"
-related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[Lyft]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]]"
+related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[Lyft]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]]"
 ---
 #donor #gig-economy #tech #doordash #labor-opponent #prop-22 #follow-the-money #silicon-valley #california #flex-association #ipo
 

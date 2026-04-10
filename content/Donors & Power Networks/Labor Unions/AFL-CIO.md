@@ -42,7 +42,7 @@ regulatory-agencies:
   - "Financial Stability Oversight Council"
   - "Food Safety and Inspection Service"
   - "Health and Human Services Department"
-related: "[[The Progressive Caucus and the Squad's Institutional Wing]] · [[Adam Schiff]] · [[Brendan Boyle]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers|IBEW]] · [[UAW - United Auto Workers|UAW]] · [[National Education Association|NEA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[United Farm Workers]]"
+related: "[[The Progressive Caucus and the Squad's Institutional Wing]] · [[Adam Schiff]] · [[Brendan Boyle]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers|IBEW]] · [[UAW - United Auto Workers|UAW]] · [[National Education Association|NEA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[United Farm Workers]] · [[Ohio Federation of Teachers]]"
 ---
 #afl-cio #labor #unions #federation #democratic #organizing #wages #pro-act #class-analysis #follow-the-money
 

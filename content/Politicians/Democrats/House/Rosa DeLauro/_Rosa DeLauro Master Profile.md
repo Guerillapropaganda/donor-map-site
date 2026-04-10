@@ -18,7 +18,7 @@ top-donors:
   - "Lockheed Martin"
   - "AIPAC"
 donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]]"
-related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
+related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]] · [[Adam Smith]]"
 total-received: "$689,298"
 fec-candidate-id: "H0CT03072"
 govtrack-id: 400103

@@ -11,7 +11,7 @@ issues:
   - "Wall Street & Finance"
   - "Dark Money & Campaign Finance"
   - "Regulatory Capture"
-related: "[[Cory Booker]] · [[Wall Street Bloc]] · [[Financial Services Donors]] · [[Finance and Tech Bundler Network]] · [[Goldman Sachs - Wall Street Titan]] · [[JPMorgan]] · [[Citadel - Kenneth Griffin]] · [[Blackstone Group]] · [[Elliott Management]] · [[Morgan Stanley]] · [[Hedge Fund Industry Bloc]] · [[Private Equity Industry Bloc]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Donald Trump Master Profile|Donald Trump]] · [[JPMorgan Chase]]"
+related: "[[Cory Booker]] · [[Wall Street Bloc]] · [[Financial Services Donors]] · [[Finance and Tech Bundler Network]] · [[Goldman Sachs - Wall Street Titan]] · [[JPMorgan]] · [[Citadel - Kenneth Griffin]] · [[Blackstone Group]] · [[Elliott Management]] · [[Morgan Stanley]] · [[Hedge Fund Industry Bloc]] · [[Private Equity Industry Bloc]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Donald Trump Master Profile|Donald Trump]] · [[JPMorgan Chase]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
 source-types:
   - FEC
 known-gaps:

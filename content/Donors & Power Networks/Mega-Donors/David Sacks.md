@@ -58,7 +58,7 @@ court-jurisdictions:
   - 'District Court, N.D. Ohio'
   - 'District Court, S.D. New York'
 donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[Narya Capital]] · [[Trump 2024 Campaign]]"
-related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Trump Crypto - The President as Personal Profiteer]]"
 stories: '[[The Billionaire Cabinet - Wealthiest Administration in History]]'
 ---
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast

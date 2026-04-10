@@ -11,6 +11,140 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Research + Code (both hats, single operator)
+Date: 2026-04-10 afternoon (root-cause fix for recurring Whitehouse YAML bug, Cori Bush cleanup + promotion to ready, Pipeline Guide Perplexity merge documented)
+
+### Root-cause fix: Recurring donors-field YAML corruption
+
+**The bug that kept coming back:** Sheldon Whitehouse's `donors` frontmatter field kept getting corrupted into a hybrid string+list format that broke YAML parsing. I fixed it twice in this session and it came back each time. Mark Kelly, Tucker Carlson, and Hillary Clinton hit the same pattern during yesterday's merge script run.
+
+**Root cause identified — 3 Ops API routes with the same bug:**
+1. `ops/src/app/api/relationships/route.ts` line 71
+2. `ops/src/app/api/suggestions/route.ts` line 232
+3. `ops/src/app/api/profile/connections/route.ts` (regex-based approach that ignores multi-line YAML lists)
+
+**The bug pattern:**
+```typescript
+const fmValue = fm[relationshipType] as string | undefined
+// ...
+fm[relationshipType] = fmValue ? `${fmValue} · ${wikilink}` : wikilink
+```
+
+The TypeScript cast LIES. When `donors` is a YAML list in the file, `fmValue` is a JS array at runtime. The template literal `${fmValue}` calls `Array.prototype.toString()`, which joins with `,` (no spaces), producing corrupted output like `"item1,item2,item3 · [[new]]"`. gray-matter then writes this as a string value at `donors:`, and on the next read the old list items orphan below it — YAML parse fails.
+
+**Reproduced the bug in an isolated Node test** using gray-matter to confirm.
+
+**Fix applied:** Added `normalizeFieldForCheck()` and `appendRelationship()` helpers that:
+- Detect whether the existing value is an array or string
+- Preserve the existing shape (array stays array, string stays string)
+- **CRITICAL:** never use template literal on an array value
+
+Applied the fix to all three routes (both POST adds and DELETE removes). Rewrote `profile/connections/route.ts` entirely to use gray-matter + shared helpers instead of regex (the regex version only matched the first line of multi-line YAML lists, which is why it was silently corrupting profiles with list-format fields for months before anyone noticed).
+
+**Verification:** Ran a unit test with 3 input cases (array, string, undefined) — all produce correct output. Ran a vault-wide YAML parse scan — 0 errors after the fix. Sheldon Whitehouse's donors field is now a clean 10-item YAML list, no hybrid state.
+
+**Documented in `content/Pipeline Guide.md`** under the new "Ops application frontmatter write rules" section. Explains the bug pattern, the critical rule ("never stringify an array via template literal"), and notes that if a 4th frontmatter writer is added, the helpers should be copied verbatim or extracted to `ops/src/lib/`.
+
+### Cori Bush: Pass 2 — pipeline integration editorial pass (commit `e7985c62`)
+
+After Pass 1 cleanup (below), ran a second editorial pass to integrate fresh pipeline data into the body narrative. Research Claude lane — cites auto-block facts in the body, does NOT edit auto-blocks themselves.
+
+**What the pass produced:**
+
+- **Central Thesis** — integrated **H.Res. 786** (Oct 25, 2023 ceasefire resolution) as the named trigger event that moved Bush from AIPAC watchlist to primary target. Previously the narrative said "ceasefire resolutions" generically; now cites the specific resolution number with Congress.gov link. Added the 3.3-to-1 opposition-to-fundraising ratio ($13.97M opposition IE vs $4.17M own fundraising) as the disciplinary-scale spending signal.
+
+- **Donor Class Map** — rewrote with fresh FEC data:
+  - 5-cycle fundraising arc table (2018 $177K → 2020 $1.43M → 2022 $2.45M → 2024 $4.17M → 2026 $534K)
+  - Full 2024 IE spending breakdown (UDP $9.96M opposed, Fairshake $2.79M, Mainstream Democrats PAC $992K opposed, Justice Democrats $2.76M supporting, WFP $878K supporting)
+  - 3.17-to-1 outside spending ratio documented as largest anti-Squad ratio of 2024
+
+- **Donation-to-Policy Timeline** — expanded from 9 rows to 15:
+  - Oct 25, 2023 H.Res. 786 ceasefire resolution bolded as trigger event
+  - H.Res. 634 (Unhoused Persons Bill of Rights), H.Con.Res. 92 (Mary Meachum Freedom Crossing), H.R. 8470 (Helping Families Heal Act) — all cited by number with Congress.gov links
+  - Iron Dome no-vote specific context (420-9 vote, 1 of 9)
+  - 2026 cycle: $534K raised, $0 PAC, 70.6% individual
+  - 38 bills sponsored / 756 cosponsored / 2,239 total votes from fresh GovTrack
+
+- **Rhetorical Signature Moves** — Grassroots-Only Rebrand strengthened with concrete $0 PAC number
+
+- **Analytical Patterns** — expanded from 2 to 5 to match the depth of the other verified-candidates:
+  1. Donor-Class Override (strengthened with exact numbers)
+  2. Villain Framing (strengthened with bills-that-triggered vs bills-that-didn't)
+  3. **Multi-Pressure Vector Targeting** (NEW) — documents compound-pressure sequence
+  4. **Fundraising Arc Inversion** (NEW) — frames comeback as AIPAC enforcement reversal test
+  5. **Grassroots Insulation Limit** (NEW) — asks whether there's a floor below which grassroots model fails
+
+**Analytical depth parity check:**
+
+| Profile | Analytical Patterns |
+|---|---|
+| Tlaib | 3 |
+| Omar | 3 |
+| Pressley | 4 |
+| Khanna | 6 |
+| Whitehouse | 4 |
+| Warnock | 4 |
+| **Cori Bush (post-integration)** | **5** |
+
+304 lines total (up from 261), all YAML parses clean, 0 auto-block edits. She's now at the same depth as the other verified-candidates and ready for David's verified sign-off decision.
+
+**Cori Bush status:** `content-readiness: ready`, `editorial-result: pass`, two-pass review logged in `editorial-notes`. Not flagged as verified-candidate per the rule (Research Claude flags, David signs off). David's call whether to re-promote her alongside the other 6 verified-candidates from this morning.
+
+### Cori Bush: Pass 1 — pipeline verification + cleanup + promoted to ready
+
+**Pipeline verification after this morning's engine fixes + 452-file API enrichment batch:**
+
+All 6 engine-layer fixes from 2026-04-10 morning HELD for Cori Bush:
+- ✅ `auto:congress-legislation` — clean, bioguide `B001224`, Missouri, 117-118 Congress, 39 bills sponsored, 756 cosponsored. **A000383 bug fixed.**
+- ✅ `auto:fec-politician` — clean, 2026 cycle $534,492 raised for comeback, accurate top outside spenders (UDP $9.96M opposed, Fairshake $2.79M opposed)
+- ✅ `auto:voting-record` — clean, actual 118th Congress votes
+- ✅ `auto:govtrack pending-merge` — clean data (38/756/2,239), **GovTrack cache invalidation fix worked**
+- ✅ No `auto:doj-press` block (engine DOJ sanity cap working)
+- ✅ No `auto:nhtsa-recalls` block (non-auto matching fix working — she's not auto-adjacent)
+- ✅ No `auto:sam-contracts` block (she's not a contractor)
+- ✅ Committee assignments correctly empty (she's not in 119th Congress)
+
+**Editorial cleanup applied (7 issues):**
+1. Folded `auto:govtrack pending-merge` block into main `auto:govtrack` block (Code Claude's pending-merge pattern worked — fresh data preserved without overwriting prior edits)
+2. Fixed non-standard `[!contradiction-cleared]` → `[!contradiction]`
+3. Fixed broken wikilinks in `related`: `[[Jamaal Bowman Master Profile]]` → `[[_Jamaal Bowman Master Profile|Jamaal Bowman]]`, `[[Justice Democrats]]` → `[[Justice Democrats and Brand New Congress - The Infrastructure He Built]]`, `[[Ayanna Pressley Master Profile]]` → `[[_Ayanna Pressley Master Profile|Ayanna Pressley]]`
+4. Expanded `related` with UDP, Fairshake PAC
+5. Structured `donors` as YAML list (3 items) and `opposes` as YAML list (5 items)
+6. Added `issues` field (6 items), `fec-committee-id` (C00638767), `known-gaps` (restored — was lost in a merge)
+7. Updated `editorial-review-date` from stale 2026-04-08 → 2026-04-10, `editorial-result: block` → `pass`, `chamber: House` → `Former House`, added N/A note under dangling empty Committee Assignments section
+8. **Promoted `content-readiness: draft` → `ready`** for David's review
+
+**NOT promoted to verified-candidate** — awaiting David's explicit sign-off per the rule (Research Claude flags, David signs off). David previously said Cori Bush was "the only REAL A+" before the contamination was discovered, so she's close, but the call is his.
+
+### Also this session (context for the above work)
+
+- Pushed Pipeline Guide merge with Perplexity research for all 12 Tier 1 pipelines (commit `3777470e`, pushed to origin/v4 as `5b2bcb72`). 2,562 lines total, each pipeline has its own "Known incidents (our vault)" subsection with the specific bugs we fixed 2026-04-10 documented with commit hashes.
+- Pipeline Research Protocol codified in 3 locations: `CLAUDE.md`, `content/Vault Rules.md`, and auto-memory (`feedback_pipeline_research_protocol.md`). The rule: before building or fixing any pipeline, check the Pipeline Guide cheatsheet first. When building a NEW pipeline, request Perplexity research from David first. If research unavailable, revert to common REST conventions and document quirks as learned.
+- Merged Code Claude's cc_05 (562 profiles dataview cleanup) + cc_06 (Ops editor rule comments) from origin/v4.
+
+### Sprint progress after this afternoon's work
+
+| Metric | Status |
+|---|---|
+| Verified-candidates flagged for David sign-off | 6 (Tlaib, Omar, Pressley, Khanna, Whitehouse, Warnock) — all from this morning |
+| Cori Bush status | Back at `ready` (was draft after Code Claude demoted for contamination). Awaiting David's decision on verified-candidate re-flag. |
+| Pipeline bugs closed | **7 of 7** — all known pipeline bugs now resolved (6 engine-layer + 1 Ops API array-toString bug fixed this afternoon) |
+| Critical build fixes | 3 (Tucker Carlson morning, Hillary Clinton morning, Whitehouse afternoon — root cause now fixed at source) |
+| Draft→ready promotions this session | 8 (7 morning + Cori Bush afternoon) |
+
+### Next session priorities (Phase 1 Day 2, 2026-04-11)
+
+1. **David: review 6 verified-candidates + Cori Bush re-review.** Phase 1 exit target is ≥12 verified profiles by 2026-04-16.
+2. **David: deploy the Ops relationship-writer bug fix.** Ops app needs a restart/rebuild for the fix to take effect on the running instance (the code change is committed but the running server may still have the old module loaded).
+3. **Continue Research Claude depth reviews** — Brian Schatz (paused mid-review this morning), then Jon Ossoff, Fetterman, Gary Peters, Chris Murphy, Martin Heinrich, Ed Markey, Tammy Baldwin.
+4. **David: continue conflict triage** (readiness-conflicts.md, target 25-30/day, ~528 remaining).
+5. **Research Claude: build out Summer Lee stub from raw → ready** (already has substantive body content, just needs source restructuring).
+6. **David: Perplexity research one Tier 2 pipeline** (Federal Register, CourtListener, or EPA ECHO next).
+7. **Quarterly refresh target: 2026-07-10.** Pipeline Guide cheatsheets should be re-verified every 90 days per the `Last verified` date discipline.
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-10 (Phase 1 Day 1 — Calendar tab + cc_05 root-cause + cc_06 rule comments)
 

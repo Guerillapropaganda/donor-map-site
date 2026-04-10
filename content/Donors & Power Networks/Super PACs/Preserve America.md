@@ -2,7 +2,7 @@
 title: "Preserve America"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -16,7 +16,7 @@ federal-register-mentions: 489
 regulatory-agencies:
   - "Federal Highway Administration"
   - "Transportation Department"
-related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]]"
+related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]] · [[Trump 2024 Campaign]]"
 ---
 #donor #super-pac #republican #trump #adelson #israel-lobby #casino-regulation
 

@@ -9,7 +9,7 @@ sector: "Tech & Crypto"
 entity-type: "Story"
 issues:
   - "Technology"
-related: "[[AI Safety and Regulatory Capture]] · [[Anthropic]] · [[OpenAI]] · [[Google - Alphabet]] · [[Microsoft]] · [[Nvidia]] · [[Think Big AI PAC]] · [[Marc Andreessen & Horowitz]] · [[AI Deregulation Super PAC - Leading the Future]]"
+related: "[[AI Safety and Regulatory Capture]] · [[Anthropic]] · [[OpenAI]] · [[Google - Alphabet]] · [[Microsoft]] · [[Nvidia]] · [[Think Big AI PAC]] · [[Marc Andreessen & Horowitz]] · [[AI Deregulation Super PAC - Leading the Future]] · [[Silicon Valley Democratic Donor Network]]"
 source-types:
   - Congress
 ---

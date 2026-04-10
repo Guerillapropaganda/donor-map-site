@@ -11,7 +11,7 @@ politicians-funded:
   - "Maria Cantwell"
 issues:
   - "Defense & Military"
-related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Raytheon (RTX)]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Leidos]]"
+related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Raytheon (RTX)]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"

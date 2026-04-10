@@ -5,6 +5,7 @@ note-type: research
 priority: urgent
 status: open
 last-updated: 2026-04-10
+related: "[[QVT Financial]]"
 ---
 
 # Investigation Queue

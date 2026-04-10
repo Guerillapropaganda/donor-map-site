@@ -224,6 +224,34 @@ This includes:
 
 **Why:** David verifies URLs personally to ensure source integrity. Automated URL hunting by Claude risks citing wrong entities (wrong FEC IDs, title/URL mismatches, dead aggregators). URL verification is an editorial control, not a task to delegate. See `content/Vault Rules.md` for the canonical rule.
 
+### Pipeline research protocol (rule codified 2026-04-10)
+
+**Before building, fixing, or significantly modifying any pipeline, BOTH Claudes must check `content/Pipeline Guide.md` first.**
+
+The Pipeline Guide contains cheatsheets for all 12 priority pipelines (FEC, Congress.gov, Senate LDA, USASpending/SAM.gov, ProPublica Nonprofit, SEC EDGAR, GovTrack, FARA, GLEIF, DOJ Press, NHTSA, LobbyView). Each cheatsheet has:
+- Identity, API access, Core endpoints, Identifiers
+- Canonical URL format for citations
+- Known quirks / gotchas (from public documentation)
+- **Known incidents (our vault)** — bugs we actually hit and fixed, with commit hashes
+- Quality signals, Fallback sources, Recent changes
+
+**When fixing an existing pipeline bug:**
+1. Read the cheatsheet section first. Check "Known quirks" + "Known incidents (our vault)" + "Quality signals".
+2. If the bug matches a documented pattern, use the documented fix approach.
+3. If the bug is new, fix it, then **add an entry to "Known incidents (our vault)"** with: root cause, fix commit hash, vault cleanup done, quality-check rule that would catch it in the future.
+
+**When building a NEW pipeline (API not in the Tier 1 checklist):**
+1. **STOP. Do not start implementation blind.**
+2. **Request Perplexity research from David** before writing any code. Ask him to run the Perplexity prompt template (see `content/Pipeline Guide.md` § Cheatsheet Template) against the new API. Wait for results.
+3. **If research is provided,** add it as a new section in Pipeline Guide following the existing format. Include an empty "Known incidents (our vault)" subsection to fill in as incidents occur.
+4. **If research cannot be found** (obscure API, no Perplexity signal, no public docs):
+   - Revert to common logic: generic REST conventions (base URL, offset/limit pagination, JSON responses, 429 rate limit handling, exponential backoff).
+   - Document the gap in the new section with a prominent warning: "No research available — implementation uses generic REST conventions".
+   - Every incident or quirk discovered during implementation MUST be documented in "Known incidents (our vault)" as you learn it.
+5. **Never build a pipeline without a cheatsheet section.** If you can't write the cheatsheet before coding, ask David for more information.
+
+**Why this rule exists:** On 2026-04-09 and 2026-04-10 we hit 6 separate pipeline bugs that could have been prevented with upfront research — A000383 fuzzy-match, DOJ API index-size, SAM.gov fuzzy name-match, NHTSA non-auto entity, redirect file enrichment, GovTrack stale cache. All 6 cost hours to diagnose and required retroactive vault cleanup on 95+177+6 profiles. Perplexity research up-front (~20 min per pipeline) is far cheaper than a production pipeline bug.
+
 ### What NOT to change in ops/
 The `ops/` directory is David's app. Don't modify it unless David specifically asks. It has its own `package.json`, `node_modules`, and Next.js config. It doesn't affect the Quartz site build.
 

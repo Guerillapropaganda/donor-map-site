@@ -14,7 +14,7 @@ issues:
 ein: "833690373"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"
-related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]]"
+related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]] · [[Emilys List]]"
 court-cases: 36
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"
@@ -22,6 +22,7 @@ court-jurisdictions:
   - "District Court, E.D. Virginia"
   - "District Court, M.D. Georgia"
   - "District Court, N.D. Georgia"
+opposes: "[[Josh Hawley Master Profile]]"
 ---
 #majority-forward #dark-money #democratic #501c4 #senate #schumer #dark-money-symmetry
 

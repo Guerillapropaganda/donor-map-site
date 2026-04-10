@@ -2,7 +2,7 @@
 title: Vivek Ramaswamy Master Profile
 type: politician
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -32,7 +32,7 @@ known-gaps:
 checklist-na:
   - "voting-records: Never held elected office (candidate)"
   - "committee-assignments: Never held elected office (candidate)"
-related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]]"
+related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Ross Stevens]]"
 ---
 #vivek-ramaswamy #republican #doge #ohio #biotech #pharma #anti-woke #class-analysis #follow-the-money
 

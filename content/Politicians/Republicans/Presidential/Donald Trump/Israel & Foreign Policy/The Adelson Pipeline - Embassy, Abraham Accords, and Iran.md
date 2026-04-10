@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[_Marco Rubio Master Profile]] · [[The Iran War Money Trail - From Adelson to Airstrikes]]"
+related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[_Marco Rubio Master Profile]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Israel and Foreign Policy - Donors and Backers]]"
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"

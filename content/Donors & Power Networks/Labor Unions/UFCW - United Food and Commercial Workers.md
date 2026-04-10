@@ -22,7 +22,7 @@ ein: 530220586
 annual-revenue: "$240.0M"
 net-assets: "$531.3M"
 tax-year: "2022"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[California Labor Federation]] · [[California Restaurant Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[Ash Kalra]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[California Labor Federation]] · [[California Restaurant Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[Ash Kalra]] · [[Teamsters - International Brotherhood of Teamsters]]"
 ---
 #donor #union #UFCW #grocery #retail #labor #class-analysis #follow-the-money #california #national #kroger #albertsons #walmart #strike #two-tier
 

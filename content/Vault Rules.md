@@ -158,6 +158,24 @@ Neither Research Claude nor Code Claude fixes, hunts, replaces, or verifies sour
 
 **Why:** David verifies URLs personally to ensure source integrity. Automated URL hunting by Claude risks citing wrong entities (the exact problem documented in CLAUDE.md under "Common mistakes to avoid" — wrong FEC IDs, title/URL mismatches, dead aggregators). URL verification is an editorial control, not a task to delegate.
 
+**Pipeline Research Protocol (rule codified 2026-04-10).**
+
+Before building, fixing, or significantly modifying any pipeline, BOTH Claudes must check `content/Pipeline Guide.md` first. The Pipeline Guide has cheatsheets for all 12 priority pipelines with API mechanics, identifiers, canonical URLs, known quirks, known incidents (our vault), quality signals, and fallback sources.
+
+**When fixing an existing pipeline bug:**
+1. Read the cheatsheet section first. Check "Known quirks" + "Known incidents (our vault)" + "Quality signals".
+2. If the bug matches a documented pattern, use the documented fix approach.
+3. If the bug is new, fix it, then **add an entry to "Known incidents (our vault)"** with root cause, fix commit, vault cleanup, and a quality-check rule.
+
+**When building a NEW pipeline (API not in the Tier 1 checklist):**
+1. **STOP.** Do not start implementation blind.
+2. **Request Perplexity research from David** before writing code. Wait for results.
+3. If research is provided, add it to Pipeline Guide following the existing cheatsheet format.
+4. **If research cannot be found**, revert to common logic (generic REST conventions: offset/limit pagination, JSON, 429 handling, exponential backoff). Document the gap with a "No research available" warning. Document every quirk in "Known incidents (our vault)" as you learn it.
+5. **Never build a pipeline without a cheatsheet section.** If you can't write the cheatsheet before coding, ask David for more information.
+
+**Why:** On 2026-04-09 and 2026-04-10 we hit 6 pipeline bugs that could have been prevented with upfront research — A000383 fuzzy-match, DOJ API index-size, SAM.gov fuzzy name-match, NHTSA non-auto entity, redirect file enrichment, GovTrack stale cache. All 6 cost hours of diagnosis + retroactive vault cleanup on 95+177+6 profiles. Perplexity research up-front is far cheaper.
+
 **Editorial Review System (A+ Promotion):**
 
 Three-stage review: Research Claude → Code Claude → Editor (David). Each stage reviews, fixes what it can, documents everything, and hands off.

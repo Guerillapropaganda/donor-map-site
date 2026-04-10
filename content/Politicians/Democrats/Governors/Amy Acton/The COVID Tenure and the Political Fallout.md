@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
-related: "[[Amy Acton Master Profile]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]]"
+related: "[[Amy Acton Master Profile]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]] · [[The Healthcare Platform and the Insurance Industry Question]]"
 ---
 #acton #covid-19 #ohio #health-director #class-analysis #follow-the-money #republican-pressure #corruption
 

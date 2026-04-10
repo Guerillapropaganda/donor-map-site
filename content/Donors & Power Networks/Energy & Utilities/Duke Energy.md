@@ -2,7 +2,7 @@
 title: "Duke Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -53,7 +53,7 @@ regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
   - "Nuclear Regulatory Commission"
-related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[Southern Company]] · [[NextEra Energy]]"
+related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[Southern Company]] · [[NextEra Energy]] · [[Valero Energy]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 21294251
 total-assets: 1868586

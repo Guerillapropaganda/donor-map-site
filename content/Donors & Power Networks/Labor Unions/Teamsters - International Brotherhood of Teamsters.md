@@ -20,7 +20,7 @@ net-assets: "$13.2M"
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Katie Porter Master Profile]] · [[Bob Casey]] · [[Gretchen Whitmer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[_JD Vance Master Profile]] · [[California Labor Federation]] · [[UFCW - United Food and Commercial Workers]] · [[IBEW Local 477 - San Bernardino]] · [[Sherrod Brown]]"
+related: "[[Bernie Sanders Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Katie Porter Master Profile]] · [[Bob Casey]] · [[Gretchen Whitmer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Kamala Harris Master Profile]] · [[_JD Vance Master Profile]] · [[California Labor Federation]] · [[UFCW - United Food and Commercial Workers]] · [[IBEW Local 477 - San Bernardino]] · [[Sherrod Brown]] · [[Koch Network - Charles Koch]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

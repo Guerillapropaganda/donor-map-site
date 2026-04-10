@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Nancy Pelosi Master Profile]]
-related: "[[The Biden Exit and Harris Installation]] · [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[The Biden Exit and Harris Installation]] · [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Legislative Record as Speaker]]"
 source-types:
   - FEC
 ---
