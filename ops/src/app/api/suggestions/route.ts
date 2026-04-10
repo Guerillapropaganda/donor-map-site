@@ -205,6 +205,31 @@ export async function GET(request: Request) {
   }
 }
 
+// Helper: normalize a frontmatter relationship field value for containment checks.
+// Field can be a string ("[[A]] · [[B]]") or a YAML list (["A", "B"]).
+// Returns lowercased string joinable into ` · ` for `.includes()` checks.
+function normalizeFieldForCheck(value: unknown): string {
+  if (!value) return ""
+  if (Array.isArray(value)) return value.map((s) => String(s)).join(" \u00b7 ").toLowerCase()
+  return String(value).toLowerCase()
+}
+
+// Helper: append a new relationship to a frontmatter field value, preserving its shape.
+// CRITICAL: never stringify an array via template literal. Array.toString() produces
+// a comma-joined string with no spaces, which was the April 2026 bug that corrupted
+// Sheldon Whitehouse's donors field repeatedly (see Pipeline Guide Known incidents).
+function appendRelationship(existing: unknown, targetTitle: string): string | string[] {
+  const wikilink = `[[${targetTitle}]]`
+  if (Array.isArray(existing)) {
+    // Preserve list form — append bare title to match the convention of existing list items
+    return [...existing.map((s) => String(s)), targetTitle]
+  }
+  if (existing) {
+    return `${String(existing)} \u00b7 ${wikilink}`
+  }
+  return wikilink
+}
+
 // Shared logic for adding a connection to a profile file
 function addConnectionToVault(sourcePath: string, targetTitle: string, relationshipType: string): { success: boolean; error?: string } {
   try {
@@ -213,9 +238,10 @@ function addConnectionToVault(sourcePath: string, targetTitle: string, relations
 
     const wikilink = `[[${targetTitle}]]`
 
-    // Check if connection already exists
-    const fmValue = fm[relationshipType] as string | undefined
-    if (fmValue && fmValue.includes(targetTitle)) {
+    // Check if connection already exists. fmValue can be string OR YAML list — normalize first.
+    const fmValue = fm[relationshipType]
+    const fmValueNormalized = normalizeFieldForCheck(fmValue)
+    if (fmValueNormalized && fmValueNormalized.includes(targetTitle.toLowerCase())) {
       return { success: true } // already exists, no-op
     }
     const bodyRegex = new RegExp(`^${relationshipType}:.*${targetTitle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`, "m")
@@ -223,13 +249,14 @@ function addConnectionToVault(sourcePath: string, targetTitle: string, relations
       return { success: true } // already exists in body
     }
 
-    // Add to body field if it exists there, otherwise frontmatter
+    // Add to body field if it exists there, otherwise frontmatter.
+    // CRITICAL: use appendRelationship() to preserve existing field shape (string vs list).
     const fieldRegex = new RegExp(`^(${relationshipType}:\\s*)(.+)$`, "m")
     let updatedBody = bodyContent
     if (fieldRegex.test(bodyContent)) {
       updatedBody = bodyContent.replace(fieldRegex, `$1$2 \u00b7 ${wikilink}`)
     } else {
-      fm[relationshipType] = fmValue ? `${fmValue} \u00b7 ${wikilink}` : wikilink
+      fm[relationshipType] = appendRelationship(fmValue, targetTitle)
     }
 
     fm["last-updated"] = new Date().toISOString().split("T")[0]
@@ -252,9 +279,17 @@ function removeConnectionFromVault(sourcePath: string, targetTitle: string, rela
     let found = false
     let updatedBody = bodyContent
 
-    // Try frontmatter first
-    const fmValue = fm[relationshipType] as string | undefined
-    if (fmValue && fmValue.includes(targetTitle)) {
+    // Try frontmatter first. Handle both string ("[[A]] · [[B]]") and YAML list (["A", "B"]).
+    const fmValue = fm[relationshipType]
+    if (Array.isArray(fmValue)) {
+      const targetLower = targetTitle.toLowerCase()
+      const filtered = fmValue.filter((item) => !String(item).toLowerCase().includes(targetLower))
+      if (filtered.length !== fmValue.length) {
+        if (filtered.length === 0) delete fm[relationshipType]
+        else fm[relationshipType] = filtered
+        found = true
+      }
+    } else if (typeof fmValue === "string" && fmValue.includes(targetTitle)) {
       const links = fmValue.split("\u00b7").map((s: string) => s.trim()).filter((s: string) => !s.includes(targetTitle))
       if (links.length === 0) delete fm[relationshipType]
       else fm[relationshipType] = links.join(" \u00b7 ")
