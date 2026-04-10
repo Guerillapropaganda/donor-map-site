@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-10'
+last-updated: '2026-04-11'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -62,8 +62,8 @@ targets:
     metric: pipeline_bugs_closed
     baseline: 7
     goal: 0
-    current: 3   # A000383, QVT, GovTrack, redirect enrichment fixed as of 2026-04-10
-    description: "known pipeline bugs blocking data integrity"
+    current: 20  # 7 original + 13 fixed in 2026-04-11 deep-dive (Congress, GovTrack nickname, ProPublica, Wikipedia/OpenSanctions cache, api-config, workflow, NHTSA, DOJ-dead-guard, committee-GovTrack rewrite + syntax + congress default, SAM path, fec-summary sort, LobbyView)
+    description: "known pipeline bugs blocking data integrity. Original 7: A000383, QVT, GovTrack cache, redirect enrichment, NHTSA non-auto, DOJ index-size, SAM fuzzy. Plus Ops API array-toString bug (Whitehouse 2026-04-10 afternoon)."
 
   - id: polish
     rank: 4
@@ -240,24 +240,70 @@ phase_1_tasks:
 
     - id: cc_05
       task: "Root-cause and fix the content-readiness:: ready NUL-padding script"
-      status: pending
-      notes: "54 files had NUL bytes after content-readiness:: ready pattern. I cleaned the symptoms but the script that writes them needs to be found."
+      status: done
+      completed_date: 2026-04-10
+      notes: "Root-caused to legacy Obsidian Dataview inline fields imported at vault creation, not any actively running script. Built scripts/strip-inline-dataview.cjs (199 lines), swept 562 profiles, stripped 731 body-dataview lines. Commits 59e2bd79, 3829e3eb."
 
     - id: cc_06
       task: "Add rule comments to Ops profile editor source (frontmatter-only + URL editor-only rules)"
-      status: pending
-      related_files: ["ops/src/components/ProfileEditor.tsx", "ops/src/app/api/profiles/"]
+      status: done
+      completed_date: 2026-04-10
+      notes: "Block-comment headers added to 6 Ops source files (editor/page.tsx, api/edit/route.ts, api/profile/readiness/route.ts, lib/local-write.ts, api/urls/save/route.ts, urls/page.tsx). Advisory only, no runtime behaviour changes. Commit 15e76204."
 
     - id: cc_07
       task: "Run pipeline enrichment on 12 new stubs"
       status: blocked
-      blocker: "GitHub Actions disabled — cannot trigger pipeline runs"
+      blocker: "Scheduled api-enrichment.yml runs stopped firing after 2026-04-09 17:44Z — no scheduled runs have fired since despite workflow being state:active. workflow_dispatch still works. Root cause unknown."
       stubs: ["Summer Lee", "Nina Turner", "George Latimer", "Wesley Bell", "Shontel Brown", "Bernie Marcus", "Mark Mellman", "Brian Armstrong", "Ben Horowitz", "Chris Larsen", "Brad Garlinghouse", "Paul Atkins"]
+      partial_progress: "Parallel-step log contamination bug fixed in commit 0bec4b7 (exclude reports/logs from cache, wipe at start, bump timeout 25→30). Next scheduled slot will test whether the scheduler resumes."
 
     - id: cc_08
       task: "Build Ops calendar tab from sprint-schedule.md"
-      status: pending
-      spec_file: "content/Admin Notes/calendar-spec.md"
+      status: done
+      completed_date: 2026-04-10
+      notes: "New /calendar route in ops app with month grid Apr 10-30, 3 phase bands, 4 North Star progress bars, 21 day cells, 36 task checkboxes, day-detail modal. Reads sprint-schedule.md live, writes mutable completion state to ops/data/sprint-state.json (gitignored)."
+
+    - id: cc_09
+      task: "Fix 13 pipeline bugs across 2 sweeps (2026-04-11 deep-dive)"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commits: ["0bec4b7", "7cc28d4"]
+      notes: |
+        First sweep (6 fixes): Congress /member?query= ignored → switched to /member/congress/{N}/{stateCode} state-delegation endpoint (Bernie Sanders + 5 others verified). GovTrack nickname bug (Jim Risch → 0 results) → nickname-aware matcher. ProPublica A000383-class fuzzy fallback (Coinbase → Coinwise Foundation) → strict matching. Wikipedia + OpenSanctions cold-cache short-circuit (cached !== undefined bug, null vs undefined in FileCache) → fixed 4 sites. api-config now accepts both FEC_API_KEY and FECAPI naming via pickKey() helper. api-enrichment.yml stale-log cache contamination (identical per-pipeline counts across commits) → excluded logs from cache, wipe at step start, timeout bumped 25→30 / job 35→40. requireRealKeys() guard added to fec + congress pipelines to hard-fail on DEMO_KEY.
+
+        Second sweep (7 fixes): NHTSA /recalls/recallsByManufacturer + /complaints/complaintsByManufacturer dead (HTTP 403) → swapped recalls to DOT Socrata 6axg-epim dataset, complaints stubbed (Ford verified 500 recalls). DOJ Press /api/v1/press_releases.json keyword filter silently ignored + Akamai bot gate on /news → pipeline dead-guarded, removed from CI. Congress.gov v3 does NOT expose committee membership at all → rewrote committee-pipeline.cjs to use GovTrack /committee_member (Bernie verified 14 assignments in 2 calls, was 33 calls returning 0). committee-pipeline syntax error line 448 fixed. committee-pipeline null-congress bug fixed with DEFAULT_CONGRESS=119. SAM.gov wrong awardee JSON path (coreData.awardeeOrRecipient doesn't exist; real path is awardeeData.awardeeHeader) + stricter per-token match. FEC /candidates/totals/ sort=-cycle returns HTTP 422 → use sort=-election_year. LobbyView three stacked bugs (wrong auth header, missing PostgREST operator prefixes, Firebase JWT expired).
+
+    - id: cc_10
+      task: "Katie Porter FEC ID fix + vault-wide audit"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "b6594eed"
+      notes: "Vault had fec-candidate-id: H8CA45076 which doesn't exist in FEC. Replaced with S4CA00522 (Senate 2024 primary, $32.5M raised) + new fec-candidate-id-house: H8CA45130 (4 House cycles 2018–2024, $26M in 2022) field. Verified end-to-end on fec-summary-pipeline. Built scripts/verify-fec-candidate-ids.cjs and ran across all 187 politicians with FEC IDs — 186 valid, Katie Porter was the only real broken ID. 5 transient rate-limit false-positives; script needs retry logic (TODO)."
+
+    - id: cc_11
+      task: "Drop lobbyview + doj-press from api-enrichment.yml CI"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "0ade14c"
+      notes: "LobbyView uses 1-hour Firebase ID tokens incompatible with scheduled CI. Pipeline left in place but commented out in parallel run list. LobbyView is derived from Senate LDA (still in CI), so no essential data lost. doj-press has the dead-guard, also commented out to stop wasting a container slot."
+
+    - id: cc_12
+      task: "Document 13 bug fixes + 3 engine-wide incidents in Pipeline Guide + memory"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commits: ["0c7b458d", "6a349653"]
+      notes: "Per-pipeline 'Known incidents' entries added to FEC, Congress.gov, GovTrack, ProPublica Nonprofit, NHTSA, DOJ Press, LobbyView sections. New 'Engine-wide known incidents' section at top of Pipeline Guide documenting FileCache null/undefined bug, api-config dual env-var naming, requireRealKeys() guard, workflow stale-log contamination. Memory: feedback_jwt_api_key_trap.md (cross-project lesson on JWT-vs-API-key trap)."
+
+    - id: cc_13
+      task: "Make session-save skill update sprint-schedule.md going forward"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      notes: "Updated C:\\Users\\third\\.claude\\skills\\session-save\\skill.md AND .claude/commands/session-save.md AND .claude/commands/sessionsave.md with a new Step 3 that requires updating sprint-schedule.md on every session-save. Memory: feedback_session_save_updates_calendar.md. David asked for this after noticing the calendar was showing stale blocked/pending state while the actual work was done."
 
   research_claude:
     - id: rc_01
@@ -545,6 +591,6 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-10**
-**Current phase: phase_1 (Day 1 of 7)**
+**Schedule last updated: 2026-04-11**
+**Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**

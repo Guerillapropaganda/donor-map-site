@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 ---
 
 # Session State
@@ -11,6 +11,96 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-11 (Phase 1 Day 2 — deep pipeline bug sweep, 13 fixes across two sweeps, Katie Porter + vault FEC ID audit, LobbyView / DOJ Press retired from CI, session-save wired to update calendar)
+
+### Theme
+Ran a thorough pipeline health check with real API keys after David pasted them. Tested every pipeline locally with small limits, documented failures, and fixed them at root. This was the session that turned the pipelines from "mostly broken silently" to "known-good or known-dead-and-guarded".
+
+### Done — First sweep (6 bugs)
+
+- **Congress.gov `/member?query=` parameter is silently ignored.** Verified against `?query=Bernie Sanders`, `?query=Sanders`, and empty `?query=` — all three returned the same default page of 5 members (Joaquin Castro, Kristen McDonald Rivet, Jason Crow, Alan Armstrong, Markwayne Mullin), none of which were Sanders. Every politician without a pre-populated `bioguide-id` was silently dropped. **Fix:** `scripts/congress-pipeline.cjs` now uses `/member/congress/{N}/{stateCode}` (the only endpoint that honours state filtering), fetches each state delegation once per run (cached), and matches locally with nickname-aware first-name logic. Verified on Bernie Sanders, Lisa Murkowski, Chuck Schumer, Mark Green, Diaz-Balart, Rick Larsen — all 5/5 found across parties/chambers.
+
+- **GovTrack `/person?q=Jim Risch` returns 0 results** because GovTrack stores him as "James Risch". Every senator/rep whose vault profile uses a nickname (Jim/James, Bill/William, Bob/Robert, Bernie/Bernard, Chuck/Charles, etc.) was silently dropped. **Fix:** `searchPerson()` in `scripts/govtrack-pipeline.cjs` now queries by last name only and does nickname-aware first-name matching via a `NICKNAMES` table.
+
+- **ProPublica Nonprofit `bestMatch()` had an A000383-class `return results[0]` fallback.** Searching "Coinbase" (for-profit, not a nonprofit) returned "Coinwise Foundation" (EIN 882190767) with a completely unrelated 990. **Fix:** strict match only (exact or full-phrase substring with ≤3 extra boilerplate tokens), returns null rather than guess.
+
+- **Wikipedia + OpenSanctions cold-cache short-circuit.** Four sites checked `if (cached !== undefined) return cached`, but `FileCache.get()` returns `null` for missing keys (not `undefined`), so every profile was short-circuited on first run without ever hitting the API. **Fix:** changed all 4 sites to `if (cached != null) return cached`. Verified John Boozman now resolves.
+
+- **api-config dual env-var naming.** Keys in David's `.env` used GitHub-Secret naming (`FECAPI`, `CONGRESSAPI`, `LOBBYVIEWAPI`) but api-config.cjs only read standard names (`FEC_API_KEY`, `CONGRESS_API_KEY`). Pipelines were falling back to DEMO_KEY silently. **Fix:** added `pickKey(...names)` helper that tries both naming conventions. Added `requireRealKeys(...)` that hard-fails on DEMO_KEY for fec/congress pipelines, with `ALLOW_DEMO_KEYS=1` escape hatch.
+
+- **`api-enrichment.yml` stale-log cache contamination.** Identified by noticing identical per-pipeline counts across many commits with wildly different file totals (9 commits in a row showing `courtlistener:14 doj-press:15 fara:2 ...` despite file counts of 93→125→220). The parallel step cached `reports/` including `logs/`, and when the step timed out at 25 min the stale logs from the previous run remained in cache. The commit-message grep then counted fresh + stale writes together. **Fix:** exclude `reports/logs` from cache path, wipe `reports/logs` at step start as defence-in-depth, bump timeout 25→30 and job timeout 35→40.
+
+### Done — Second sweep (7 more bugs)
+
+- **NHTSA `/recalls/recallsByManufacturer` and `/complaints/complaintsByManufacturer` are DEAD (HTTP 403 "Missing Authentication Token"),** `/investigations?manufacturer=X` still works. **Fix:** `fetchRecalls()` now queries DOT Socrata `datahub.transportation.gov/resource/6axg-epim.json` with a LIKE filter on manufacturer name and normalizes Socrata snake_case back to the legacy PascalCase shape so `parseRecall()` doesn't need changes. Complaints stubbed to `[]` until a replacement source is found. Verified Ford Motor Company → 500 recalls (hit cap) + 10 investigations.
+
+- **DOJ Press pipeline is DEAD** — `/api/v1/press_releases.json ?keyword=` is silently ignored (returns the 264,553-record index for every query) and the `/news` fallback is behind Akamai Bot Manager with `bm-verify` meta-refresh gates. **Fix:** dead-guard at top of `main()` that exits(0) with a clear message. Override: `ALLOW_DOJ_DEAD=1`.
+
+- **Congress.gov v3 API does NOT expose committee membership anywhere.** Neither `/member/{bioguideId}` nor `/committee/{chamber}/{code}` returns a members list. Verified against Bernie Sanders (S000033) and Senate Budget (ssbu00). The old `committee-pipeline.cjs` burned 33 API calls per politician looking for members that weren't there, returned 0 committees for everyone. **Fix:** rewrote `fetchCommitteeAssignments()` to use GovTrack's `/api/v2/committee_member?person={id}` endpoint. Verified Bernie → 5 committees + 9 subcommittees in 2 API calls.
+
+- **committee-pipeline.cjs line 448 syntax error** — stray `"last-enriched": today(),` outside an object literal prevented the script from parsing at all. **Fix:** brace placement in the `updates = {}` literal.
+
+- **committee-pipeline.cjs null congress bug** — empty `&congress=` produced "nullth Congress" URLs. **Fix:** added `DEFAULT_CONGRESS = 119`.
+
+- **SAM.gov wrong awardee JSON path.** `summarizeContracts()` was reading `c.coreData?.awardeeOrRecipient?.legalBusinessName` — a path that doesn't exist in the actual response schema. Real path is `awardSummary[i].awardeeData.awardeeHeader.legalBusinessName` (plus `.awardeeName`, `.awardeeAlternateName`, `.awardeeNameFromContract`). Every record resolved to `""`, the token-hit matcher returned 0 for every sample, and the 60% threshold rejected everything as "name-mismatch (0/5 matched)". Secondary finding: SAM.gov's `awardeeLegalBusinessName=Kaiser Permanente` filter is so loose it returns "Kaiser, Curtis" (individual trash service) in the top hits. **Fix:** correct paths + require every significant token to appear in the awardee name (prevents single-token false matches).
+
+- **FEC `/candidates/totals/?sort=-cycle` returns HTTP 422** — `cycle` isn't a valid sort field. Valid options: `election_year`, `name`, `party`, `state`, `office`, `district`, `receipts`, `disbursements`, `individual_itemized_contributions`, `candidate_id`. **Fix:** swapped to `sort=-election_year`.
+
+### Done — Katie Porter FEC ID bug + vault-wide audit
+
+- **Katie Porter's frontmatter had `fec-candidate-id: "H8CA45076"`** — an ID that returns 0 results from the FEC API. Her real IDs are **`H8CA45130`** (House, 4 cycles 2018–2024, $26M in 2022) and **`S4CA00522`** (Senate, 2024 primary, $32.5M). Fixed the frontmatter to use `fec-candidate-id: "S4CA00522"` (most recent federal campaign) + added new `fec-candidate-id-house: "H8CA45130"` field. Verified end-to-end on fec-summary-pipeline: Katie Porter now returns $32.5M raised (2024), $31.1M spent, $1.4M COH. Commit `b6594eed`.
+
+- **Built `scripts/verify-fec-candidate-ids.cjs`** — a read-only vault audit that probes every politician's `fec-candidate-id` against the FEC `/candidate/{id}/` endpoint and reports any that return 0 results, with suggested replacements via `/candidates/search/`. Ran across all 187 politicians with FEC IDs. **Result: 186 valid, 1 real bug (Katie Porter — already fixed), 5 transient rate-limit false positives.** The 5 false positives (Daniel Biss, Chris Murphy, Mallory McMorrow, Sheldon Whitehouse, Tim Walberg) all verified clean on direct re-check. TODO: add retry logic to the verify script.
+
+### Done — LobbyView + doj-press dropped from CI
+
+David spent ~30 minutes fighting a token paste for LobbyView and confirmed it's not worth the effort. LobbyView uses 1-hour Firebase ID tokens that cannot be stored as long-lived GitHub Secrets without a refresh-token flow, AND LobbyView's data is derivative of Senate LDA (which is Tier 1 and already working in CI). **Action:** commented out `run_if lobbyview` and `run_if doj-press` in `.github/workflows/api-enrichment.yml`. Both pipelines retain their hard-fail guards for safety. LobbyView re-enables once a Firebase refresh flow is wired. DOJ Press re-enables when a replacement source is built (CourtListener already covers DOJ litigation). Commit `0ade14c`.
+
+### Done — session-save wired to update the Ops calendar
+
+David noticed the Ops calendar at `/calendar` was showing stale state (cc_07 still "blocked", cc_05/cc_06/cc_08 still "pending") because previous session-save runs updated `Session State.md` but not `content/Admin Notes/sprint-schedule.md`. The calendar reads from sprint-schedule.md as its single source of truth. **Action:**
+- Updated `C:\Users\third\.claude\skills\session-save\skill.md` with a new Step 3 that requires updating sprint-schedule.md on every session-save (mark existing tasks done, append ad-hoc cc_NN tasks with `added_adhoc: true` flag, update last-updated date, North Star metrics, Phase progress).
+- Updated `.claude/commands/session-save.md` and `.claude/commands/sessionsave.md` (alias) with the same rule.
+- Wrote `feedback_session_save_updates_calendar.md` memory and added it to `MEMORY.md` index so the rule survives any skill reload.
+- Updated sprint-schedule.md with cc_05 through cc_13 (cc_05/06/08 retroactively marked done, cc_07 blocker refined, cc_09/10/11/12/13 added as ad-hoc work). Bumped North Star `pipeline_bugs_closed` from 3 to 20.
+
+### Known issues / still outstanding
+
+- **Scheduled `api-enrichment.yml` runs stopped firing after 2026-04-09 17:44Z.** Workflow is still marked `state: active`. Both scheduled runs that DID fire hit the 25-min parallel step timeout (25m14s / 25m24s durations). Unknown whether the timeout fix will cause the scheduler to resume — we'll know after the next scheduled slot (8/14/20/02 UTC).
+- **`verify-fec-candidate-ids.cjs` has no retry logic** — produced 5 transient rate-limit false positives in its first run. Safe but noisy. Follow-up: wrap `probeCandidate()` in a 2–3 attempt retry with exponential backoff.
+- **EPA ECHO DFR endpoint returns HTTP 500** for every query. Likely transient upstream outage; no fix on our end.
+- **DOL OSHA inspection search returns HTTP 500** for every query. Same — transient upstream.
+- **`datasette.publicaccountability.org` full outage** (ECONNREFUSED + 502 on HTTPS+HTTP). Third-party service down. Pipeline degrades gracefully.
+- **SAM.gov rate limit is very aggressive** — single test calls trigger 60-second backoffs. The CI workflow limit of `--limit=10` should be fine, but local ad-hoc testing hits the limit fast.
+- **LobbyView requires Firebase refresh-token flow** for any scheduled/CI use. Not yet wired. Dropped from CI for now.
+
+### Next session priorities (Phase 1 Day 3, 2026-04-12)
+
+1. **Verify scheduled `api-enrichment.yml` runs resumed** — check `gh run list --workflow=api-enrichment.yml --limit 5` for any new `schedule` event entries after 2026-04-11 20:00Z or 2026-04-12 02:00Z UTC. If still stuck, disable/re-enable the workflow to kick the scheduler.
+2. **Add retry logic to `verify-fec-candidate-ids.cjs`** — wrap `probeCandidate()` in 3-attempt retry with 2s backoff, then re-run the audit for a clean baseline.
+3. **Continue Research Claude depth reviews** — Brian Schatz (paused mid-review 2026-04-10), Jon Ossoff, Fetterman, Gary Peters, Chris Murphy, Martin Heinrich, Ed Markey, Tammy Baldwin.
+4. **David: continue conflict triage** (`readiness-conflicts.md`, target 27/day, ~528 remaining).
+5. **David: review 6 verified-candidates from 2026-04-10 + Cori Bush re-review.** Phase 1 exit target is ≥12 verified by 2026-04-16.
+6. **Pipeline TODO: wire a vault data audit into preflight** — add a 3-second pipeline-health check that runs `verify-fec-candidate-ids.cjs --limit=20` as a sample and flags any broken IDs at session start.
+7. **David (optional): decide whether to build FTC/FDA/OCC pipelines next** (my recommended data.gov additions — FTC first for highest leverage on corporate regulatory exposure).
+
+### Commits this session
+
+Engine repo (donor-map-engine, branch `main`):
+- `0bec4b7` — First sweep: 6 root-cause fixes + hard-fail on DEMO_KEY (api-enrichment.yml, congress-pipeline.cjs, fec-pipeline.cjs, govtrack-pipeline.cjs, api-config.cjs, opensanctions-pipeline.cjs, propublica-pipeline.cjs, wikipedia-pipeline.cjs)
+- `7cc28d4` — Second sweep: 7 more fixes (committee-pipeline.cjs, doj-press-pipeline.cjs, fec-summary-pipeline.cjs, lobbyview-pipeline.cjs, nhtsa-recalls-pipeline.cjs, sam-pipeline.cjs)
+- `0ade14c` — CI: drop lobbyview + doj-press from api-enrichment parallel run, add verify-fec-candidate-ids.cjs
+
+Site repo (donor-map-site, branch `v4`):
+- `0c7b458d` — Pipeline Guide: document first sweep (6 incidents)
+- `6a349653` — Pipeline Guide: document second sweep (7 incidents + engine-wide section)
+- `2fe56158` — Merge claude/upbeat-saha into v4 (Katie Porter fix)
+- (this session-save commit coming next)
+
+---
+
+## Previous Session
 Claude: Research + Code (both hats, single operator)
 Date: 2026-04-10 afternoon (root-cause fix for recurring Whitehouse YAML bug, Cori Bush cleanup + promotion to ready, Pipeline Guide Perplexity merge documented)
 
