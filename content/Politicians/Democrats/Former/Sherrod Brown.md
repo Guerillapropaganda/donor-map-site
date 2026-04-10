@@ -13,7 +13,7 @@ party: "Democrat"
 chamber: "Senate"
 state: "Ohio"
 state-abbr: "OH"
-donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic Party]] · [[Ken Griffin]] · [[Fraternal Order of Police]]"
+donors: "[[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic Party]] · [[Ken Griffin]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]]"
 related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Crypto Industry Bloc]] · [[_JD Vance Master Profile]] · [[Ohio Federation of Teachers]]"
 editorial-review-date: "2026-04-08"
 editorial-reviewer: "Research Claude"
@@ -32,6 +32,16 @@ known-gaps:
   - "Committee assignments missing (chaired Banking)"
   - "Bills sponsored/cosponsored data wrong (shows 0)"
   - "No source-types detected"
+opensanctions-status: "pep-sanctioned"
+opensanctions-matches: 2
+opensanctions-datasets:
+  - "wd_categories"
+  - "ann_pep_positions"
+  - "everypolitician"
+  - "us_congress"
+  - "wd_peps"
+  - "wikidata"
+  - "ru_mfa_sanctions"
 ---
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
 tags: #democrat
@@ -149,3 +159,21 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400050) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | PEP + Sanctioned Entity |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Sanctions Records | 1 |
+| Source Databases | wd_categories, ann_pep_positions, everypolitician, us_congress, wd_peps, wikidata +1 more |
+| Topics | role.pol, sanction.counter, role.pep, role.rca |
+
+**Matched records:**
+- [Sherrod Brown](https://www.opensanctions.org/entities/Q381880/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+- [Sherrod Brown](https://www.opensanctions.org/entities/Q381880/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Sherrod%20Brown) (Tier 1)
+<!-- auto:opensanctions end -->

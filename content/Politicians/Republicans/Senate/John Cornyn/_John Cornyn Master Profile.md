@@ -32,7 +32,7 @@ stock-trade-tickers:
   - "AAPL"
 last-enriched: "2026-04-07"
 related: "[[Tim Scott]] · [[US Chamber of Commerce]] · [[_John Thune Master Profile|John Thune]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Chevron]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]"
-donors: "[[Harlan Crow]] · [[Insurance Industry]] · [[Fraternal Order of Police]]"
+donors: "[[Harlan Crow]] · [[Insurance Industry]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]]"
 ---
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz
 

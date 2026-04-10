@@ -2,7 +2,7 @@
 title: "International Association of Chiefs of Police"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
@@ -31,6 +31,8 @@ known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
 related: "[[Fraternal Order of Police]] · [[PORAC - Peace Officers Research Association of California]]"
+lobbying-spend: 2245088
+lobbying-filings: 142
 ---
 #iacp #law-enforcement #police #lobbying #qualified-immunity #surveillance #reform
 
@@ -97,3 +99,22 @@ IACP's political significance: the organization provides an "expert" voice that 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530227813) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $2.2M |
+| Quarterly Filings | 142 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 81 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Alcohol and Drug Abuse, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Food Industry (safety, labeling, etc.), Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Intelligence, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Real Estate/Land Use/Conservation, Religion, Science/Technology, Small Business, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Tobacco, Trade (domestic/foreign), Transportation, Travel/Tourism, Urban Development/Municipalities, Welfare
+
+**Lobbying firms:** ACCELERATE STRATEGIES, ACTIVE POLICY SOLUTIONS, LLC, ADVANTAGE ASSOCIATES INTERNATIONAL, ALIGNMENT GOVERNMENT STRATEGIES, ALPINE GROUP PARTNERS, LLC., AMERICAN DEFENSE INTERNATIONAL, INC., ARENTFOX SCHIFF LLP, ARISTOTLE INTERNATIONAL, INC., ASCEND CONSULTING, AUBURN HEALTH STRATEGIES, LLC, AVOQ, LLC, BAKER & HOSTETLER LLP, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BIFMA INTERNATIONAL, BRIDGE PUBLIC AFFAIRS, LLC, BRIMLEY GROUP INC., BROADWATER INTERNATIONAL, INC., BROWNSTEIN HYATT FARBER SCHRECK, LLP, BUILDING OWNERS AND MANAGERS ASSOCIATION INTERNATIONAL, BURRELL INTERNATIONAL GROUP LLC, CAPITOL COUNSEL LLC, CAPITOL HILL CONSULTING GROUP, CARD & ASSOCIATES, LLC, CENTER HILL SOLUTIONS, CGCN GROUP, LLC, CHARTWELL STRATEGY GROUP LLC, CHECKMATE GOVERNMENT RELATIONS, CHIMES INTERNATIONAL, CONTINENTAL STRATEGY, LLC, CORNERSTONE GOVERNMENT AFFAIRS, INC., CROSSROADS STRATEGIES, LLC, CRUISE LINES INTERNATIONAL ASSOCIATION, DAVIDOFF HUTCHER & CITRON, LLP, DB3, LLC (FKA THE DASCHLE GROUP), DEFENDING OUR COUNTRY, LLC, DIAMOND CAPITAL INTERNATIONAL LLC, DQB INTERNATIONAL, EDINGTON, PEEL & ASSOCIATES, INC., FARRAGUT PARTNERS LLP, FORWARD GLOBAL, FOX POTOMAC RESOURCES, LLC, GILLILAND & MCKINNEY INTERNATIONAL COUNSELLORS (D/B/A GMI COUNSEL), GOOD GROUND INTERNATIONAL LLC, ICEBREAKER STRATEGIES, LLC, INSTITUTE OF INTERNATIONAL BANKERS, INTERNATIONAL ASSOCATION OF DRILLING CONTRACTORS, INTERNATIONAL ASSOCIATION OF CHIEFS OF POLICE, INTERNATIONAL INTELLECTUAL PROPERTY ALLIANCE, INTERNATIONAL LAW GROUP OF HUMAN AND CIVIL RIGHTS ATTORNEYS, P.C., INTERNATIONAL MOTOR VEHICLE TRADE ASSOCIATION, INTERNATIONAL REFUGEE ASSISTANCE PROJECT (IRAP), INTERNATIONAL TRADEMARK ASSOCIATION, JAPAN BANK FOR INTERNATIONAL COOPERATION, JEWISH WOMEN INTERNATIONAL, K&L GATES, LLP, KOREA INTERNATIONAL TRADE ASSOCIATION, KRL INTERNATIONAL LLC, LOT SIXTEEN LLC, MERCURY PUBLIC AFFAIRS, LLC, MILLER & CHEVALIER CHARTERED, MORRISON PUBLIC AFFAIRS GROUP, MWMURRAY CONSULTING LLC, NVG, LLC, O'KEEFFE SHAHMORADI STRATEGIES, LLC, OSCAR POLICY GROUP, LLC, POTOMAC STRATEGIC CONSULTING LLC, PUTALASTRATEGIES, REPUBLIC CONSULTING, LLC, S-3 GROUP, SALINAS STRATEGIES LLC, SALT POINT STRATEGIES, SERVICE EMPLOYEES INTERNATIONAL UNION CTW-CLC, TATA AMERICA INTERNATIONAL CORPORATION, THE CONAFAY GROUP, LLC, THE DUBERSTEIN GROUP INC., THE INTERNATIONAL ANTICOUNTERFEITING COALITION, INC., THE NATHANIEL GROUP LLC, THE PETRIZZO GROUP, INC., THE VOGEL GROUP, THORSEN FRENCH ADVOCACY LLC, TORREY ADVISORY GROUP (FORMERLY MICHAEL TORREY ASSOCIATES, LLC)
+
+**Agencies contacted:** Bureau of Alcohol Tobacco Firearms & Explosives, Bureau of Justice Assistance, Bureau of Justice Statistics, Commerce, Dept of (DOC), Energy, Dept of, Executive Office of the President (EOP), Export-Import Bank of the United States (EXIM Bank), Federal Bureau of Investigation (FBI), Federal Deposit Insurance Corporation (FDIC), Federal Reserve System +29 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=International%20Association%20of%20Chiefs%20of%20Police) (Tier 1)
+<!-- auto:lda-lobbying end -->

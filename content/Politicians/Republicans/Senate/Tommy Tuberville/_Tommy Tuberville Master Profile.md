@@ -2,7 +2,7 @@
 title: "Tommy Tuberville Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -10,7 +10,16 @@ chamber: "Senate"
 state: "Alabama"
 state-abbr: "AL"
 issues:
-  - "Defense & Military"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
+  - "Labor and Employment"
+  - "Social Welfare"
 top-donors:
   - "Defense Industry Bloc"
 govtrack-id: 456796
@@ -26,6 +35,14 @@ known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[Defense Contractors and the Permanent War Donor Base]]"
+last-enriched: "2026-04-10"
+bioguide-id: "C001091"
+committees:
+  - "Senate Committee on Agriculture, Nutrition, and Forestry"
+  - "Senate Committee on Armed Services"
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - "Senate Committee on Veterans' Affairs"
+  - "Senate Special Committee on Aging"
 ---
 #tommy-tuberville #senate #alabama #defense #stock-act #military #class-analysis #football-to-politics
 
@@ -179,3 +196,56 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Alabama |
+| Chamber | Senate |
+| Bills Sponsored | 306 |
+| Bills Cosponsored | 644 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, Labor and Employment, Social Welfare, Sports and Recreation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4177 | Student Athlete Act of 2026 | Read twice and referred to the Committee on Commerce, Science, and Transportation. |
+| — |  | Proposed amendment SA 4421 withdrawn in Senate. |
+| — |  | — |
+| 3936 | USDA Loan Modernization Act | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
+| 524 | A resolution recognizing the 90th anniversary of the Alabama Highway Patrol and … | Referred to the Committee on the Judiciary. (text: CR S8485) |
+| 3121 | UBER Act | Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| 3124 | Protection on the Picket Line Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 3009 | Preserving a Sharia-Free America Act | Read twice and referred to the Committee on the Judiciary. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/T000278) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- Senate Committee on Agriculture, Nutrition, and Forestry
+- Senate Committee on Armed Services
+- Senate Committee on Health, Education, Labor, and Pensions
+- Senate Committee on Veterans' Affairs
+- Senate Special Committee on Aging
+
+**Subcommittees:**
+
+- Commodities, Derivatives, Risk Management, and Trade
+- Education and the American Family
+- Employment and Workplace Safety
+- Food and Nutrition, Specialty Crops, Organics, and Research
+- Personnel
+- Rural Development, Energy, and Credit
+- Seapower
+- Strategic Forces
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

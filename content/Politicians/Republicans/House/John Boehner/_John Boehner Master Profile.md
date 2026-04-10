@@ -27,6 +27,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]]"
 related: "[[JPMorgan Chase]] · [[Koch network]] · [[Koch Network - Charles Koch|Koch Network]] · [[Paul Ryan]] · [[Donald Trump]] · [[Tobacco Industry]] · [[Cannabis Legalization Movement]] · [[Reynolds American]] · [[Altria]]"
+last-enriched: "2026-04-10"
+govtrack-id: 400036
+bills-sponsored: 130
+bills-cosponsored: 1725
 ---
 #john-boehner #speaker-of-house #tobacco #cannabis #revolving-door #koch-network #finance #class-analysis
 
@@ -198,3 +202,35 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 130 |
+| Bills Cosponsored | 1,725 |
+| Total Votes Cast | 12,814 |
+
+**Recent bills sponsored:**
+
+- H.R. 10: SOAR Reauthorization Act — *This bill was introduced in a previous session of Congress and was passed by the House on October 21, 2015 but was never passed by the Senate.*
+- H.R. 3461: To approve the Joint Comprehensive Plan of Action, signed at Vienna on July 14, 2015, relating to the nuclear program of — *This bill failed in the House on September 11, 2015.*
+- H.Con.Res. 146: Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the S — *This resolution was introduced in a previous session of Congress and was passed by the House on December 21, 2012 but was never passed by the Senate.*
+- H.Res. 786: Honoring the four United States public servants who died in Libya and condemning the attacks on United States diplomatic — *This simple resolution was agreed to on September 19, 2012. That is the end of the legislative process for a simple resolution.*
+- H.Res. 497: To provide for the placement of a statue or bust of Sir Winston Churchill in the United States Capitol. — *This simple resolution was agreed to on December 19, 2011. That is the end of the legislative process for a simple resolution.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2015-10-29 | Election of the Speaker | Ryan (WI) | Ryan (WI) |
+| 2015-10-29 | Call of the House | Present | Passed |
+| 2015-10-28 | H.R. 1314: Trade Act of 2015 | Yea | Passed |
+| 2015-07-08 | H.R. 5: Student Success Act | Aye | Passed |
+| 2015-06-18 | H.R. 2146: Defending Public Safety Employees’ Retirement Act | Aye | Passed |
+| 2015-06-12 | H.R. 644: Trade Facilitation and Trade Enforcement Act of 2015 | Aye | Passed |
+| 2015-06-12 | Concurring in portion of senate amendment preceding title II: H R 1314 Trade Act… | Aye | Passed |
+| 2015-06-12 | Concurring in portion of Senate Amdt comprising title II (except section 212): H… | No | Failed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400036) (Tier 1)
+<!-- auto:govtrack end -->

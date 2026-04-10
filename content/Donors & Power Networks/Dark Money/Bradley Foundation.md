@@ -23,7 +23,7 @@ net-assets: "$3.5M"
 tax-year: "2023"
 total-political-spend: "$150,500"
 last-enriched: "2026-04-10"
-related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]] · [[National Education Association]] · [[US Chamber of Commerce]]"
+related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]]"
 sec-filings: 1623
 sec-form-types:
   - "10-K"
@@ -48,6 +48,9 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, S.D. Texas"
+nonprofit-status: "501(c)(3)"
+total-revenue: 9465
+total-assets: 3513570
 ---
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
 

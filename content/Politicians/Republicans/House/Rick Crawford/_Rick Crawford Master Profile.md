@@ -2,7 +2,7 @@
 title: "Rick Crawford"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -27,6 +27,11 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile|Trump]]"
+total-raised: "$525,029"
+total-spent: "$342,238"
+cash-on-hand: "1013618.58"
+fec-cycle: 2026
+last-enriched: "2026-04-10"
 ---
 #rick-crawford #republican #arkansas #house #chairman #intelligence #agriculture #ukraine #fisa #tiktok #trump-loyalty #farm-bill #rice #surveillance #phase-6-gavel-power
 
@@ -188,3 +193,30 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 
 ### Voting Record
 
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $525,029 |
+| Total Spent | $342,238 |
+| Cash on Hand | 1013618.58 |
+| Individual Contributions | $182,850 |
+| PAC Contributions | $302,500 |
+| Coverage Through | 2026-02-11 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $525,029 | $342,238 | 1013618.58 |
+| 2024 | $1,098,029 | $889,705 | 830826.86 |
+| 2022 | $1,087,410 | $647,616 | 622502.33 |
+| 2020 | $966,801 | $1,095,518 | 182708.24 |
+| 2018 | $1,019,464 | $966,617 | 311424.52 |
+| 2016 | $669,502 | $808,955 | 258577.00 |
+| ... | 3 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1)
+<!-- auto:fec-summary end -->

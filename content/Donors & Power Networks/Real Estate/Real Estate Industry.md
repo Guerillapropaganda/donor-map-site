@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Housing"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -55,6 +55,18 @@ sec-form-types:
 total-political-spend: "$15,000"
 lobbying-spend: 32210838
 lobbying-filings: 101
+court-cases: 2453
+court-jurisdictions:
+  - "District Court, C.D. California"
+  - "District Court, D. Colorado"
+  - "District Court, D. Maryland"
+  - "District Court, E.D. New York"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. California"
+  - "District Court, S.D. Florida"
+  - "District Court, S.D. New York"
+  - "District Court, S.D. Ohio"
+  - "District Court, S.D. Texas"
 ---
 #real-estate #nar #housing #1031-exchange #rent #zoning #bipartisan
 
@@ -245,3 +257,22 @@ The industry's political priorities are bipartisan by structural necessity: mort
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 2,453 |
+| Courts | District Court, C.D. California, District Court, D. Colorado, District Court, D. Maryland, District Court, E.D. New York, District Court, M.D. Florida, District Court, N.D. California, District Court, S.D. Florida, District Court, S.D. New York +4 more |
+| Case Types | 190 Contract: Other, 360 P.I.: Other, 370 Other Fraud, 791 Labor: E.R.I.S.A., 820 Copyright |
+
+**Notable cases:**
+- WE Alliance Secured Income Fund, LLC v. Pacific Freedom Fund, LLC (2026) — District Court, N.D. California
+- Braemar Hotels & Resorts Inc. v. Ghassemieh (2026) — District Court, D. Maryland
+- Tutor v. Alexander (2026) — District Court, S.D. New York
+- Kvek v. Cushman & Wakefield US Inc (2026) — District Court, W.D. Washington
+- VSI Aerials, LLC v. Drone Ops Solutions of New York, Corp. (2026) — District Court, E.D. New York
+- Real Estate Board of New York v. City of New York (2026) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Real%20Estate%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

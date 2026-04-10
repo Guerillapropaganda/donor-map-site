@@ -7,10 +7,12 @@ source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Corporation"
-related: "[[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
+lobbying-spend: 21190000
+lobbying-filings: 56
 ---
 #cvs #aetna #health-insurance #pbm #pharmacy #vertical-integration #lobbying
 
@@ -98,3 +100,22 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CVS%20Health%20-%20Aetna) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $21.2M |
+| Quarterly Filings | 56 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 12 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Advertising, Consumer Issues/Safety/Products, Health Issues, Insurance, Labor Issues/Antitrust/Workplace, Medicare/Medicaid, Pharmacy, Taxation/Internal Revenue Code
+
+**Lobbying firms:** ALB SOLUTIONS, ALSTON & BIRD LLP, BGR GOVERNMENT AFFAIRS, BOCKORNY GROUP, INC., CAPITOL HILL CONSULTING GROUP, CONTINENTAL STRATEGY, LLC, CVS HEALTH (AND SUBSIDIARIES), KEEFE STRATEGIES LLC (FKA KEEFE SINGISER PARTNERS), KLEIN/JOHNSON GROUP, KOUNTOUPES DENHAM CARR & REID, LLC, MICHAEL BEST STRATEGIES LLC, THEGROUP DC, LLC
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), SENATE, White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CVS%20Health%20-%20Aetna) (Tier 1)
+<!-- auto:lda-lobbying end -->

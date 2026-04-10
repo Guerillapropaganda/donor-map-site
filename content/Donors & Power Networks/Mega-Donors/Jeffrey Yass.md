@@ -17,7 +17,7 @@ federal-register-mentions: 4
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Securities and Exchange Commission"
-related: "[[Intra-Republican Contradiction Map]] · [[The Ohio Governor Race and the Billionaire Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[_Vivek Ramaswamy Master Profile|Ramaswamy]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Rand Paul Master Profile|Rand Paul]] · [[Club for Growth]] · [[MAGA Inc]] · [[Fairshake PAC]] · [[Susquehanna International Group]] · [[Congressional Leadership Fund]] · [[Trump Donor Coalition]]"
+related: "[[Intra-Republican Contradiction Map]] · [[The Ohio Governor Race and the Billionaire Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[_Vivek Ramaswamy Master Profile|Ramaswamy]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Rand Paul Master Profile|Rand Paul]] · [[Club for Growth]] · [[MAGA Inc]] · [[Fairshake PAC]] · [[Susquehanna International Group]] · [[Congressional Leadership Fund]] · [[Trump Donor Coalition]] · [[Trump 2024 Campaign]]"
 sec-filings: 6
 sec-form-types:
   - "EX-99.1"

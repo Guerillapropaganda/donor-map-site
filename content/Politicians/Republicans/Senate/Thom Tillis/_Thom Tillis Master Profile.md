@@ -2,7 +2,7 @@
 title: Thom Tillis Master Profile
 type: politician
 content-readiness: draft
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -33,7 +33,7 @@ stock-trade-tickers:
   - TYPE
   - TXRH
 total-received: '$8,072,231'
-fec-candidate-id: S4NC00162
+fec-candidate-id: "S4NC00162"
 source-types:
   - Congress
   - FEC
@@ -43,6 +43,11 @@ known-gaps:
   - No mapped relationships
 opposes: "[[SMP]] · [[DSCC]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[SENATE MAJORITY PAC]] · [[NEA ADVOCACY FUND]]"
 related: "[[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
+total-raised: "$8,072,231"
+total-spent: "$5,232,134"
+cash-on-hand: "3675005.14"
+fec-cycle: 2026
+last-enriched: "2026-04-10"
 ---
 #thom-tillis #senate #north-carolina #pharmaceutical #drug-pricing #research-triangle #intellectual-property #class-analysis
 
@@ -272,3 +277,26 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 
 ### Voting Record
 
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $8,072,231 |
+| Total Spent | $5,232,134 |
+| Cash on Hand | 3675005.14 |
+| Individual Contributions | $4,196,275 |
+| PAC Contributions | $2,847,324 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $8,072,231 | $5,232,134 | 3675005.14 |
+| 2020 | $26,718,700 | $26,370,206 | 834908.56 |
+| 2014 | $11,000,378 | $10,513,963 | 486415.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
+<!-- auto:fec-summary end -->

@@ -26,6 +26,19 @@ bills-sponsored: 29
 bills-cosponsored: 179
 website: "https://delauro.house.gov"
 phone: "202-225-3661"
+last-enriched: "2026-04-10"
+bioguide-id: "D000216"
+issues:
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
 ---
 #rosa-delauro #democrat #connecticut #house #appropriations #ranking-member #phase-6-gavel-power
 
@@ -195,3 +208,32 @@ c
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400103) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Connecticut |
+| Chamber | House of Representatives |
+| Bills Sponsored | 634 |
+| Bills Cosponsored | 6485 |
+
+**Policy areas:** Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Foreign Trade and International Finance, Government Operations and Politics, Health, International Affairs, Labor and Employment, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7867 | Infant Formula Safety Modernization Act of 2026 | Referred to the House Committee on Energy and Commerce. |
+| 7822 | Tariff Relief for Consumers Act | Referred to the House Committee on Ways and Means. |
+| 1096 | Providing for consideration of the bill (H.R. 4213) making appropriations for th… | Motion to Discharge Committee filed by Ms. DeLauro. Petition No: 119-17. (<a href="https://clerk.house.gov/DischargePetition/2026031817">Discharge petition</a> text with signatures.) |
+| 7531 | Healthy Families Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on House Administration, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7481 | Department of Homeland Security Appropriations Act, 2026 | Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7424 | American Business for American Companies Act of 2026 | Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6786 | Schedules That Work Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6567 | Federal Food Administration Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/D000216) (Tier 1)
+<!-- auto:congress-legislation end -->

@@ -206,3 +206,21 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 - [Congress.gov: Dick Durbin](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
 
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Legal Sector Donors** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
+
+**Donors who lobby (by spend):**
+
+- [[Legal Sector Donors]] — $7.7M lobbying spend (Accounting, Advertising, Alcohol and Drug Abuse)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

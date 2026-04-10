@@ -46,7 +46,7 @@ known-gaps:
   - "No mapped relationships"
 lobbying-spend: 9397596
 lobbying-filings: 95
-related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]]"
+related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]]"
 total-political-spend: "$3,998,524"
 politicians-funded:
   - "Bill Clinton"
@@ -291,3 +291,19 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Media%20Matters) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Bill Clinton]] — lobbying: $9.4M
+- [[Hillary Clinton]] — lobbying: $9.4M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

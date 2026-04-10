@@ -13,10 +13,12 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Humana]] · [[The Insurance Industry Public Option Kill]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Johnson & Johnson]] · [[Moderna]]"
+related: "[[Humana]] · [[The Insurance Industry Public Option Kill]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
+ftc-enforcement-actions: 0
+ftc-hsr-notices: 12
 ---
 #anthem #elevance #insurance #aca #medicaid #managed-care #lobbying
 
@@ -85,3 +87,23 @@ The structural position: Elevance profits from Medicaid expansion (more enrollee
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Anthem%20-%20Elevance%20Health%20Political%20Operation) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 0 |
+| HSR early termination notices (merger filings) | 12 |
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Anthem, Inc. → BVO Holdings, LLC](https://www.ftc.gov/legal-library/browse/early-termination-notices/20191538) (2019-07-05)
+- [Anthem, Inc. → Aspire Health, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181403) (2018-06-08)
+- [Anthem, Inc. → Kiran C. Patel](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180259) (2017-11-30)
+- [Anthem, Inc. → Highland Investor Holdings, LLC](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180008) (2017-10-11)
+- [Anthem, Inc. → Miguel B. Fernandez](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150471) (2015-01-22)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Anthem%20-%20Elevance%20Health%20Political%20Operation).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Anthem%20-%20Elevance%20Health%20Political%20Operation) (Tier 1)
+<!-- auto:ftc-enforcement end -->

@@ -2,7 +2,7 @@
 title: "Chuck Schumer Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-03-23
+last-updated: 2026-04-10
 source-tier: 1
 career-total: "$100M"
 parent: null
@@ -13,9 +13,16 @@ state-abbr: "NY"
 leadership-roles:
   - "Majority Leader"
 issues:
-  - "Wall Street & Finance"
-  - "Israel & Foreign Policy"
-  - "Dark Money & Campaign Finance"
+  - "Agriculture and Food"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Law"
+  - "Native Americans"
+  - "Science, Technology, Communications"
 top-donors:
   - "Goldman Sachs"
   - "AIPAC - American Israel Public Affairs Committee"
@@ -26,6 +33,11 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[_Benjamin Netanyahu Master Profile]] · [[_Nancy Pelosi Master Profile]]"
+last-enriched: "2026-04-10"
+bioguide-id: "C001091"
+committees:
+  - "Senate Committee on Rules and Administration"
+  - "Senate Select Committee on Intelligence"
 ---
 #chuck-schumer #senate #majority-leader #new-york #wall-street #aipac #dark-money #class-analysis
 
@@ -257,3 +269,42 @@ conte
 
 ### Voting Record
 
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | New York |
+| Chamber | House of Representatives |
+| Bills Sponsored | 2437 |
+| Bills Cosponsored | 8059 |
+
+**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, International Affairs, Labor and Employment, Law, Native Americans, Science, Technology, Communications, Taxation, Water Resources Development
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 149 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| — |  | — |
+| 4124 | A bill to prohibit funds made available to the Department of Justice from being … | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 359. |
+| — |  | — |
+| — |  | — |
+| 4007 | Family Grocery and Farmer Relief Act | Read twice and referred to the Committee on the Judiciary. (text: CR S883-887) |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000148) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- Senate Committee on Rules and Administration
+- Senate Select Committee on Intelligence
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

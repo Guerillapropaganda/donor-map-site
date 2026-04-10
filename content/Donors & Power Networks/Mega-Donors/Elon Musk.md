@@ -15,7 +15,35 @@ issues:
   - "Technology"
 total-political-spend: "$367,346,137"
 last-enriched: "2026-04-10"
-related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[Howard Lutnick Master Profile]] · [[The Transition Pipeline and the 21 Million Dollar Buy-In]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[Mike Collins Master Profile]] · [[Media and Propaganda - Donors and Backers]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[Labor - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Vivek Ramaswamy Master Profile]] · [[The 32-Day DOGE Tenure and the Musk Divorce]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[Peter Thiel]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto Industry Bloc]] · [[Environment - Donors and Backers]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Adelson 250M Republican Kingmaker Pledge]]"
+related: "[[Georgia 2026 Senate Race]] · [[The 2024 Tech Billionaire Network]] · [[Scott Bessent Master Profile]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[Howard Lutnick Master Profile]] · [[The Transition Pipeline and the 21 Million Dollar Buy-In]] · [[The PayPal Mafia and the Venture Capital Governing Class]] · [[Mike Collins Master Profile]] · [[Media and Propaganda - Donors and Backers]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[Labor - Donors and Backers]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Vivek Ramaswamy Master Profile]] · [[The 32-Day DOGE Tenure and the Musk Divorce]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[DOGE - The Billionaires Government]] · [[Peter Thiel]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Crypto Industry Bloc]] · [[Environment - Donors and Backers]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[2028 Presidential Landscape]]"
+sec-filings: 4522
+sec-form-types:
+  - "4"
+  - "4/A"
+  - "425"
+  - "5"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "DFAN14A"
+  - "EX-10.1"
+  - "EX-10.17"
+  - "EX-10.9"
+  - "EX-31.1"
+  - "EX-31.3"
+  - "EX-32.1"
+  - "EX-4.1"
+  - "EX-4.2"
+  - "EX-4.2E"
+  - "EX-99.1"
+  - "EX1A-13 TST WTRS"
+  - "LETTER"
+  - "PX14A6G"
+  - "PX14A6N"
+  - "SC 13D"
+  - "SC 13D/A"
+  - "TEXT-EXTRACT"
 ---
 #donor #musk #oligarch #tech #class-analysis #follow-the-money #DOGE #tesla #spacex #twitter #xai #labor-busting #federal-contracts #america-pac #foreign-interference #afd
 
@@ -452,3 +480,24 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+<!-- auto:sec-edgar pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Filings | 4,522 |
+| Form Types | 4, 4/A, 425, 5, 8-K, CORRESP, DEF 14A, DEFA14A +18 more |
+
+**Notable filings:**
+
+- 2022-06-22 — **EX1A-13 TST WTRS**: TESTING THE WATERS MATERIALS RELATING TO SERIES #ELON1
+- 2018-05-09 — **PX14A6G**: PX14A6G
+- 2023-04-24 — **PX14A6N**: PX14A6N
+- 2016-11-02 — **425**: 425
+- 2024-05-21 — **PX14A6G**: PX14A6G
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
+
+<!-- auto:sec-edgar pending-merge end -->

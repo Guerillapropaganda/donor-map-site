@@ -2,7 +2,7 @@
 title: "Tim Walz"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,6 +12,11 @@ state-abbr: "MN"
 total-received: "$113,151"
 fec-candidate-id: "H6MN01174"
 donors: "[[Democracy Alliance]]"
+wikidata-id: "Q2434360"
+last-enriched: "2026-04-10"
+wikipedia-url: "https://en.wikipedia.org/wiki/Tim_Walz"
+wikipedia-extract: "Timothy James Walz is an American politician, former educator, and Army National Guard veteran serving since 2019 as the 41st governor of Minnesota. He was a member of the U.S."
+born: "1964-04-06"
 ---
 
 #politician #labor-aligned #authenticity-brand #two-audience-problem #minnesota
@@ -109,3 +114,20 @@ He is not corrupt in the transactional sense. He believes in progressive values 
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Timothy James Walz is an American politician, former educator, and Army National Guard veteran serving since 2019 as the 41st governor of Minnesota. He was a member of the U.S.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q2434360](https://www.wikidata.org/wiki/Q2434360) |
+| Description | American politician (born 1964) |
+| Born | 1964-04-06 |
+| Website | [https://kamalaharris.com/meet-governor-tim-walz/](https://kamalaharris.com/meet-governor-tim-walz/) |
+| X/Twitter | [@GovTimWalz](https://x.com/GovTimWalz) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Tim_Walz_official_photo.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Tim_Walz) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q2434360) (Tier 2)
+<!-- auto:wikipedia end -->

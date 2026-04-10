@@ -2,7 +2,7 @@
 title: "Chris Coons Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -28,8 +28,15 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 related: "[[_Joe Biden Master Profile|Joe Biden]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+committees:
+  - "Senate Committee on Appropriations"
+  - "Senate Committee on Foreign Relations"
+  - "Senate Committee on Small Business and Entrepreneurship"
+  - "Senate Committee on the Judiciary"
+  - "Senate Select Committee on Ethics"
+bioguide-id: "C001091"
 ---
 #chris-coons #democrat #delaware #senate #pharma #patent-law #corporate-incorporation #biden-seat #israel #class-analysis #follow-the-money
 
@@ -213,3 +220,33 @@ research-status:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- Senate Committee on Appropriations
+- Senate Committee on Foreign Relations
+- Senate Committee on Small Business and Entrepreneurship
+- Senate Committee on the Judiciary
+- Senate Select Committee on Ethics
+
+**Subcommittees:**
+
+- Africa and Global Health Policy
+- Border Security and Immigration
+- Commerce, Justice, Science, and Related Agencies
+- Crime and Counterterrorism
+- Department of Defense
+- East Asia, the Pacific, and International Cybersecurity Policy
+- Energy and Water Development
+- Financial Services and General Government
+- Intellectual Property
+- Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy
+- Privacy, Technology, and the Law
+- State Department and USAID Management, International Operations, and Bilateral International Development
+- State, Foreign Operations, and Related Programs
+- Transportation, Housing and Urban Development, and Related Agencies
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -38,6 +38,10 @@ known-gaps:
 last-enriched: "2026-04-10"
 total-received: "$1,134,454"
 fec-candidate-id: "H2PA18200"
+committees:
+  - "House Committee on Education and Workforce"
+  - "House Committee on Oversight and Government Reform"
+bioguide-id: "C001091"
 ---
 
 #summer-lee #pa-12 #pittsburgh #squad #progressive #first-black-congresswoman-pa #aipac-survivor #dsa #class-analysis #follow-the-money
@@ -190,3 +194,19 @@ UDP returned to PA-12 in 2024 but with reduced spending compared to 2022. Lee wo
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2PA18200/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Education and Workforce
+- House Committee on Oversight and Government Reform
+
+**Subcommittees:**
+
+- Early Childhood, Elementary, and Secondary Education
+- Federal Law Enforcement
+- Health, Employment, Labor, and Pensions
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

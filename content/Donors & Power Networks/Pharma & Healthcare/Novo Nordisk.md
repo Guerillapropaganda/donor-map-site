@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 17065000
 lobbying-filings: 70
 federal-register-mentions: 80
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Antitrust Division"
   - "Commerce Department"
@@ -32,7 +32,7 @@ court-cases: 9469
 court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, E.D. Pennsylvania"
-related: "[[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[PhRMA]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[PhRMA]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]]"
 lei: "529900UTAHSVRYZL0380"
 lei-jurisdiction: "DK"
 sec-filings: 10000
@@ -71,6 +71,13 @@ sec-form-types:
   - "SC TO-C"
   - "SC14D9C"
   - "SCHEDULE 13G/A"
+opensanctions-status: "sanctioned"
+opensanctions-matches: 1
+opensanctions-datasets:
+  - "eu_esma_saris"
+federal-awards-total: 2137722
+federal-contracts-count: 0
+federal-grants-count: 1
 ---
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
 
@@ -263,3 +270,36 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Novo%20Nordisk%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | Sanctioned Entity |
+| Best Match Score | 87% |
+| Sanctions Records | 1 |
+| Source Databases | eu_esma_saris |
+
+**Matched records:**
+- [NOVO NORDISK A/S](https://www.opensanctions.org/entities/NK-YsNuKz2PpjoRPQB3tMfhgM/) — 87% match (eu_esma_saris)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Novo%20Nordisk) (Tier 1)
+<!-- auto:opensanctions end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $2.1M |
+| Contracts (recent 3yr) | 0 ($0 sampled) |
+| Grants (recent 3yr) | 1 ($2.1M sampled) |
+| Federal Agencies | 1 |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $2.1M | National Science Foundation | IDEAS LAB: USPRD: ENABLING CELL-FREE SYNTHESIS OF LONGER HUMAN MILK OLIOGOSACCHARIDES -ENABLING CELL |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/957f1cea-f42c-bcea-e5c0-b8df5fb0d67d-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

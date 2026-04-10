@@ -2,7 +2,7 @@
 title: "Jamie Raskin"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,6 +23,19 @@ website: "https://raskin.house.gov"
 phone: "202-225-5341"
 donors: "[[UNITE HERE]] · [[Demand Justice]]"
 related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
+last-enriched: "2026-04-10"
+bioguide-id: "R000606"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Environmental Protection"
+  - "Foreign Trade and International Finance"
 ---
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment
 
@@ -197,3 +210,32 @@ On campaign finance reform, he leads with the structural argument — corporatio
 - [Congress.gov: Jamie Raskin](https://www.congress.gov/member/c001091) (Tier 1)
 - [GovTrack: Jamie Raskin](https://www.govtrack.us/congress/members/412708) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Maryland |
+| Chamber | House of Representatives |
+| Bills Sponsored | 127 |
+| Bills Cosponsored | 3681 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Environmental Protection, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Law, Public Lands and Natural Resources, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8122 | To amend the Public Health Service Act to award grants to eligible crisis center… | Referred to the House Committee on Energy and Commerce. |
+| 8123 | To amend the Commodity Exchange Act to prohibit certain event contracts on predi… | Referred to the House Committee on Agriculture. |
+| 8124 | To amend the Public Health Service Act to establish a grant program to support m… | Referred to the House Committee on Energy and Commerce. |
+| 6761 | People’s White House Historic Preservation Act | Referred to the House Committee on Natural Resources. |
+| 6589 | Ranked Choice Voting Act | Referred to the House Committee on House Administration. |
+| 913 | Expressing the opposition of the House of Representatives to any grant of commut… | Referred to the House Committee on the Judiciary. |
+| 6310 | To designate the facility of the United States Postal Service located at 3570 Ol… | Ordered to be Reported by the Yeas and Nays: 38 - 2. |
+| 797 | Expressing concern about the growing problem of book banning and the proliferati… | Referred to the Committee on Education and Workforce, and in addition to the Committees on the Judiciary, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/R000606) (Tier 1)
+<!-- auto:congress-legislation end -->

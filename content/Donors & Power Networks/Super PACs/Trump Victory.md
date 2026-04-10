@@ -23,7 +23,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
   - "PX14A6G"
-related: "[[WinRed]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]]"
+related: "[[WinRed]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]]"
 ---
 #donor #pac #joint-fundraising #trump #rnc #state-parties #mega-donors #dark-money #legal-fees #contribution-limits
 

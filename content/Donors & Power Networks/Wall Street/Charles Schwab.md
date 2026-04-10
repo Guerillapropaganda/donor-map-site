@@ -2,7 +2,7 @@
 title: "Charles Schwab"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -19,7 +19,7 @@ federal-grants-count: 0
 top-federal-agency: "Department of the Treasury"
 top-naics-code: "523120"
 federal-register-mentions: 298
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Federal Trade Commission"
   - "Securities and Exchange Commission"
@@ -59,6 +59,10 @@ known-gaps:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Goldman Sachs]] · [[Morgan Stanley]] · [[JPMorgan Chase]]"
+occ-enforcement-actions: 1
+occ-active-actions: 1
+occ-charter-numbers:
+  - "718077"
 ---
 #schwab #wall-street #brokerage #retirement #fiduciary #401k #retail-investing
 
@@ -223,3 +227,30 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Charles%20Schwab) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### OCC Enforcement Actions
+<!-- auto:occ-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Legal name (OCC) | Charles Schwab Bank |
+| Charter number(s) | 718077 |
+| Total OCC enforcement actions | 1 |
+| **Active actions** | **1** |
+| Most recent action | 04/24/2017 |
+
+**Action types:**
+
+- Prohibition/Removal Orders: 1
+
+**Subject areas (2012+):** Breach of Fiduciary Duty; Fraud/Forgery; Insider Issues; Theft / Misappropriation of Funds; Violation Cited (Criminal Statute)
+
+**Still-active enforcement actions:**
+
+- [AA-EC-2017-18: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2017-038.pdf) (04/24/2017)
+
+**Recent enforcement history:**
+
+- [AA-EC-2017-18: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2017-038.pdf) (04/24/2017)
+
+- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Charles%20Schwab&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+<!-- auto:occ-enforcement end -->

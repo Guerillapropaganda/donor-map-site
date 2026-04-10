@@ -2,7 +2,7 @@
 title: "Josh Gottheimer Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,11 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Palantir]] · [[Wall Street Finance PACs]]"
+last-enriched: "2026-04-10"
+committees:
+  - "House Committee on Financial Services"
+  - "House Permanent Select Committee on Intelligence"
+bioguide-id: "C001091"
 ---
 #politician #democrat #house #josh-gottheimer #donor-pipeline #corporate-democrat #problem-solvers
 tags: #democrat
@@ -209,3 +214,21 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 
 - [Congress.gov: Josh Gottheimer](https://www.congress.gov/member/b001296) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Financial Services
+- House Permanent Select Committee on Intelligence
+
+**Subcommittees:**
+
+- Capital Markets
+- Defense Intelligence and Overhead Architecture
+- Digital Assets, Financial Technology, and Artificial Intelligence
+- National Security Agency and Cyber
+- National Security, Illicit Finance, and International Financial Institutions
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -2,7 +2,7 @@
 title: "Lee Zeldin Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -26,6 +26,11 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile]] · [[_Doug Burgum Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+wikidata-id: "Q16221257"
+last-enriched: "2026-04-10"
+wikipedia-url: "https://en.wikipedia.org/wiki/Lee_Zeldin"
+wikipedia-extract: "Lee Michael Zeldin is an American politician and lawyer serving as the 17th administrator of the Environmental Protection Agency (EPA) since January 2025."
+born: "1980-01-30"
 ---
 #lee-zeldin #republican #epa #deregulation #fossil-fuels #real-estate #pro-israel #leonard-leo #class-analysis #follow-the-money
 
@@ -174,3 +179,20 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY01148/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Lee Michael Zeldin is an American politician and lawyer serving as the 17th administrator of the Environmental Protection Agency (EPA) since January 2025.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q16221257](https://www.wikidata.org/wiki/Q16221257) |
+| Description | American politician (born 1980) |
+| Born | 1980-01-30 |
+| Website | [http://www.nysenate.gov/senator/lee-m-zeldin](http://www.nysenate.gov/senator/lee-m-zeldin) |
+| X/Twitter | [@RepLeeZeldin](https://x.com/RepLeeZeldin) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Lee-Zeldin-EPA-Official-Portrait.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Lee_Zeldin) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q16221257) (Tier 2)
+<!-- auto:wikipedia end -->

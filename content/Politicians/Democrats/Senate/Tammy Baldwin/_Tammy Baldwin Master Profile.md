@@ -2,7 +2,7 @@
 title: "Tammy Baldwin Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,8 +10,15 @@ chamber: "Senate"
 state: "Wisconsin"
 state-abbr: "WI"
 issues:
-  - "Healthcare"
-  - "Labor & Workers"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Native Americans"
+  - "Taxation"
+  - "Transportation and Public Works"
 top-donors:
   - "Blue Cross Blue Shield Association"
   - "SEIU"
@@ -26,6 +33,8 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Ron Johnson Master Profile|Ron Johnson]] · [[_Amy Klobuchar Master Profile|Klobuchar]] · [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Elizabeth Warren Master Profile|Warren]]"
+last-enriched: "2026-04-10"
+bioguide-id: "B001230"
 ---
 #baldwin #wisconsin #healthcare #labor #dairy #manufacturing #lgbtq #swing-state #help-committee #buy-american #class-analysis
 
@@ -205,3 +214,32 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8WI00018/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Wisconsin |
+| Chamber | House of Representatives |
+| Bills Sponsored | 725 |
+| Bills Cosponsored | 6796 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Government Operations and Politics, Health, International Affairs, Labor and Employment, Native Americans, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4186 | Perinatal Workforce Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| — |  | — |
+| 114 | A joint resolution to direct the removal of United States Armed Forces from host… | Read twice and referred to the Committee on Foreign Relations. |
+| 3987 | Secure Tracks Act | Read twice and referred to the Committee on Commerce, Science, and Transportation. |
+| — |  | — |
+| — |  | Amendment SA 5112 agreed to in Senate by Unanimous Consent. |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001230) (Tier 1)
+<!-- auto:congress-legislation end -->

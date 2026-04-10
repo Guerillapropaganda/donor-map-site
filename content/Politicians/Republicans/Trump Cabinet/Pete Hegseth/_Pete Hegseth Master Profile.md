@@ -2,7 +2,7 @@
 title: "Pete Hegseth Master Profile"
 type: politician
 content-readiness: draft
-last-updated: "2026-04-05"
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 party: "Republican"
@@ -19,6 +19,11 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Concerned Veterans for America]] · [[Defense Contractors Bloc]] · [[Fox News Pipeline to Power]]"
+total-raised: "$202,554"
+total-spent: "$202,555"
+cash-on-hand: "0.00"
+fec-cycle: 2012
+last-enriched: "2026-04-10"
 ---
 > [!warning] DUPLICATE — DO NOT EDIT
 > This file is a stale duplicate. The canonical version is at [[_Pete Hegseth Master Profile]] in `Trump Cabinet/Pete Hegseth/`. This copy should be deleted once confirmed.
@@ -241,3 +246,18 @@ No ethics filing shows Hegseth divested defense contractor stocks before taking 
 
 ---
 
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2012 |
+| Total Raised | $202,554 |
+| Total Spent | $202,555 |
+| Cash on Hand | 0.00 |
+| Individual Contributions | $152,989 |
+| PAC Contributions | $3,600 |
+| Coverage Through | 2012-06-30 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2MN00258/) (Tier 1)
+<!-- auto:fec-summary end -->

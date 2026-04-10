@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 34
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eleventh Circuit"
@@ -27,7 +27,11 @@ nonprofit-status: "501(c)(4)"
 sec-filings: 1
 sec-form-types:
   - "D"
-related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Save America PAC]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]]"
+related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Save America PAC]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]]"
+wikidata-id: "Q123281082"
+wikipedia-url: "https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc."
+wikipedia-extract: "Make America Great Again Inc. is an American super PAC that supports Donald Trump. It was founded on September 23, 2022."
+founded: "2022-09-23"
 ---
 #donor-node #super-pac #trump #mega-donors #dark-money
 
@@ -185,3 +189,18 @@ The legal framework that enables this — *Citizens United* allowing unlimited s
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MAGA%20Inc%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Make America Great Again Inc. is an American super PAC that supports Donald Trump. It was founded on September 23, 2022.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q123281082](https://www.wikidata.org/wiki/Q123281082) |
+| Description | American political action committee (2022-) |
+| Founded | 2022-09-23 |
+| Website | [https://www.magapac.com/](https://www.magapac.com/) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc.) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q123281082) (Tier 2)
+<!-- auto:wikipedia end -->

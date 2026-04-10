@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Healthcare"
 court-cases: 31551
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, E.D. Pennsylvania"
 lobbying-spend: 7030293
@@ -26,7 +26,7 @@ federal-contracts-count: 2
 federal-grants-count: 0
 top-federal-agency: "Department of Defense"
 top-naics-code: "325412"
-related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Merck]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Koch Industries]] · [[PhRMA]] · [[AbbVie]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Congressional Leadership Fund]] · [[American Action Network]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Merck]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Koch Industries]] · [[PhRMA]] · [[AbbVie]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Congressional Leadership Fund]] · [[American Action Network]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"
@@ -61,6 +61,12 @@ sec-form-types:
   - "SC TO-T"
   - "SC14D9C"
   - "SCHEDULE 13G/A"
+ftc-enforcement-actions: 1
+ftc-hsr-notices: 29
+fda-recalls: 5
+fda-recalls-class-i: 1
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money
 
@@ -360,3 +366,80 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Eli%20Lilly%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 1 |
+| HSR early termination notices (merger filings) | 29 |
+| Most recent enforcement action | 2014-12-22 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 1
+
+**Recent enforcement actions (historical):**
+
+- [Eli Lilly/Novartis AG](http://www.ftc.gov/enforcement/cases-proceedings/141-0142/eli-lilly-company-novartis-ag-matter) (2014-12-22) — Health Care � Prescription Drugs
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Eli Lilly and Company → CSL Limited](https://www.ftc.gov/legal-library/browse/early-termination-notices/20261058) (2026-04-02)
+- [Eli Lilly and Company → InSilico Medicine Cayman TopCo](https://www.ftc.gov/legal-library/browse/early-termination-notices/20261000) (2026-03-26)
+- [Eli Lilly and Company → Innovent Biologics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260933) (2026-03-23)
+- [Eli Lilly and Company → Ventyx Biosciences, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260767) (2026-02-11)
+- [Eli Lilly and Company → ABL Bio Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260440) (2025-12-19)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Eli%20Lilly).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Eli%20Lilly) (Tier 1)
+<!-- auto:ftc-enforcement end -->
+
+### FDA Enforcement (openFDA)
+<!-- auto:fda-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Total FDA recalls | 5 |
+| Drug recalls | 5 |
+| **Class I (life-threatening)** | **1** |
+| Class II (temporary/reversible) | 3 |
+| Class III (unlikely to cause harm) | 1 |
+| Most recent | 2024-03-12 |
+| Earliest | 2018-11-08 |
+
+**Class I recalls (life-threatening):**
+
+- [drug] **D-0009-2022** (2021-09-24): Glucagon Emergency Kit for Low Blood Sugar, Glucagon for Injection, 1 mg per vial; Diluent for Glucagon, 1 mL syringe. Rx only, Marketed by: Lilly USA, LLC, Indianapolis, IN 46285; Glucagon, NDC: 0002
+  - Reason: SUBPOTENT DRUG: Vial contained a liquid substance, instead of the expected powder substance.  There was also a lack of full drug effect upon administration.
+
+**Recent recalls:**
+
+- [drug] [Class II] D-0445-2024 (2024-03-12): Sterile Diluent, HUMALOG U-100 (insulin lispro injection), HUMULIN R U-100 REGULAR (insulin human injection), Insulin Lispro Injection u-100, 10 mL, Use ONLY with Insulins listed on carton, Marketed b
+- [drug] [Class I] D-0009-2022 (2021-09-24): Glucagon Emergency Kit for Low Blood Sugar, Glucagon for Injection, 1 mg per vial; Diluent for Glucagon, 1 mL syringe. Rx only, Marketed by: Lilly USA, LLC, Indianapolis, IN 46285; Glucagon, NDC: 0002
+- [drug] [Class II] D-0773-2021 (2021-08-19): Trulicity (dulaglutide), 0.75 mg/0.5 mL, 4 Single-Dose Pens per box, Rx only, Eli Lilly and Company, Indianapolis, IN 46285, NDC 0002-1433-80
+- [drug] [Class II] D-0720-2021 (2021-06-29): Zyprexa Intramuscular, Olanzapine for Injection, 10 MG per Single Use Vial, Rx only, Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, NDC# 0002-7597-01
+- [drug] [Class III] D-0248-2019 (2018-11-08): ERBITUX CETUXIMAB Injection, 200 mg/100 mL (2 mg/mL), 100 mL per single-use vial, Rx only, Manufactured by:  ImClone LLC, a wholly-owned subsidiary of Eli Lilly and Company, Branchburg, NJ 08876 USA. 
+
+_Variant firm names in FDA data: Eli Lilly & Company; Eli Lilly & Co_
+
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Eli%20Lilly) (Tier 1)
+<!-- auto:fda-enforcement end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Lilly) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

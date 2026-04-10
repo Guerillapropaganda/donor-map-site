@@ -24,9 +24,9 @@ federal-contracts: "622714"
 federal-awards-total: 0
 federal-contracts-count: 2
 federal-grants-count: 0
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]] · [[Mike Lee]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Koch Network - Charles Koch]] · [[Wall Street Finance Networks]] · [[Senate Leadership Fund]] · [[Stephen Schwarzman]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Carlyle Group]] · [[KKR]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Securities & Investment Industry]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]] · [[Mike Lee]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Koch Network - Charles Koch]] · [[Wall Street Finance Networks]] · [[Senate Leadership Fund]] · [[Stephen Schwarzman]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Carlyle Group]] · [[KKR]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Securities & Investment Industry]] · [[Private Equity Industry Bloc]]"
 court-cases: 1595
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, D. Delaware"
@@ -38,6 +38,11 @@ court-jurisdictions:
   - "District Court, E.D. Texas"
   - "District Court, N.D. California"
   - "District Court, N.D. New York"
+occ-enforcement-actions: 1
+occ-active-actions: 0
+occ-charter-numbers:
+  - "14534"
+occ-cmp-dollars: 11000
 ---
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying
 
@@ -442,3 +447,25 @@ Blackstone is the vault's purest case study of how financial capital converts po
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Group%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### OCC Enforcement Actions
+<!-- auto:occ-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Legal name (OCC) | First National Bank In Bogata |
+| Charter number(s) | 14534 |
+| Total OCC enforcement actions | 1 |
+| Civil Money Penalties | 1 |
+| Total CMP dollars | $11,000 |
+| Most recent action | 05/25/1990 |
+
+**Action types:**
+
+- Civil Money Penalty (CMP): 1
+
+**Recent enforcement history:**
+
+- [AA-EC-89-134: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea86.pdf) (05/25/1990) — $11,000
+
+- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Blackstone%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+<!-- auto:occ-enforcement end -->

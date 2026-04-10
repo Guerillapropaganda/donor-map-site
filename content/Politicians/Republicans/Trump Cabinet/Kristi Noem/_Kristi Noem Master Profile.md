@@ -114,3 +114,10 @@ Congressional Democrats probed companies awarded the $220M ad contract for ties 
 - [Wikipedia: Kristi Noem](https://en.wikipedia.org/wiki/Kristi_Noem) (Tier 3)
 
 ---
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Kristi Noem](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

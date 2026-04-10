@@ -34,6 +34,21 @@ bills-sponsored: 106
 bills-cosponsored: 879
 website: "https://www.hickenlooper.senate.gov"
 phone: "202-224-5941"
+opensanctions-status: "pep-sanctioned"
+opensanctions-matches: 2
+opensanctions-datasets:
+  - "ann_pep_positions"
+  - "wd_categories"
+  - "wd_peps"
+  - "wikidata"
+  - "ru_mfa_sanctions"
+  - "us_congress"
+committees:
+  - "Senate Committee on Commerce, Science, and Transportation"
+  - "Senate Committee on Energy and Natural Resources"
+  - "Senate Committee on Health, Education, Labor, and Pensions"
+  - "Senate Committee on Small Business and Entrepreneurship"
+bioguide-id: "C001091"
 ---
 #politician #democrat #senate #colorado #oil-gas #fracking #tech #brewery #moderate #follow-the-money #class-analysis #2026-election
 
@@ -269,3 +284,45 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456797) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | PEP + Sanctioned Entity |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Sanctions Records | 1 |
+| Source Databases | ann_pep_positions, wd_categories, wd_peps, wikidata, ru_mfa_sanctions, us_congress |
+| Topics | sanction.counter, role.rca, role.pol, role.pep |
+
+**Matched records:**
+- [John Hickenlooper](https://www.opensanctions.org/entities/Q430518/) — 100% match (ann_pep_positions, wd_categories, wd_peps)
+- [John Hickenlooper](https://www.opensanctions.org/entities/Q430518/) — 100% match (ann_pep_positions, wd_categories, wd_peps)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=John%20Hickenlooper) (Tier 1)
+<!-- auto:opensanctions end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- Senate Committee on Commerce, Science, and Transportation
+- Senate Committee on Energy and Natural Resources
+- Senate Committee on Health, Education, Labor, and Pensions
+- Senate Committee on Small Business and Entrepreneurship
+
+**Subcommittees:**
+
+- Aviation, Space, and Innovation
+- Consumer Protection, Technology, and Data Privacy
+- Employment and Workplace Safety
+- Energy
+- Primary Health and Retirement Security
+- Public Lands, Forests, and Mining
+- Science, Manufacturing, and Competitiveness
+- Telecommunications and Media
+- Water and Power
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -2,7 +2,7 @@
 title: Ashley Hinson Master Profile
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Republican
@@ -17,7 +17,7 @@ bills-sponsored: 26
 bills-cosponsored: 196
 website: 'https://hinson.house.gov'
 phone: 202-225-2911
-fec-candidate-id: S6IA00314
+fec-candidate-id: "S6IA00314"
 source-types:
   - FEC
   - GovTrack
@@ -32,6 +32,11 @@ opposes: >-
 related: >-
   [[_Zach Wahls Master Profile|Zach Wahls]] · [[Senate Leadership Fund]] ·
   [[Winning for Women PAC]]
+total-raised: "$4,892,227"
+total-spent: "$1,650,040"
+cash-on-hand: "5170262.53"
+fec-cycle: 2026
+last-enriched: "2026-04-10"
 ---
 #politician #republican #senate #iowa #2026-candidate
 tags: #republican
@@ -210,6 +215,35 @@ research-status:: active
 - [GovTrack: Ashley Hinson](https://www.govtrack.us/congress/members/456816) (Tier 1)
 <!-- auto:voting-record end -->
 
+<!-- auto:voting-record pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **Aye** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Yea** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Yea** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Yea** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Yea** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **Aye** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Yea** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Yea** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Yea** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **Aye** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Aye** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Yea** | Passed |
+
+**Sources**
+
+- [Congress.gov: Ashley Hinson](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Ashley Hinson](https://www.govtrack.us/congress/members/456816) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |
@@ -240,3 +274,18 @@ research-status:: active
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0IA01174/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $4,892,227 |
+| Total Spent | $1,650,040 |
+| Cash on Hand | 5170262.53 |
+| Individual Contributions | $2,154,967 |
+| PAC Contributions | $1,399,500 |
+| Coverage Through | 2025-12-31 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IA00314/) (Tier 1)
+<!-- auto:fec-summary end -->

@@ -2,7 +2,7 @@
 title: "Student Loan Servicer Industry"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Education"
@@ -16,6 +16,10 @@ related: "[[The Student Loan Gambit - Promise Block and Political Credit]] · [[
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+court-cases: 1
+last-enriched: "2026-04-10"
+court-jurisdictions:
+  - "District Court, District of Columbia"
 ---
 #student-loans #education #navient #nelnet #mohela #servicing #debt
 
@@ -52,3 +56,17 @@ Opposition to broad student loan forgiveness (which would reduce the loan portfo
 - [CFPB: Student loan servicing examination reports](https://www.consumerfinance.gov/data-research/research-reports/) (Tier 1)
 - [Ballotpedia: Student loan servicers](https://ballotpedia.org/Student_Loan_Servicer_Industry) (Tier 3)
 
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1 |
+| Courts | District Court, District of Columbia |
+| Case Types | 950 Constitutional - State Statute |
+
+**Notable cases:**
+- STUDENT LOAN SERVICING ALLIANCE v. TAYLOR (2018) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Student%20Loan%20Servicer%20Industry%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

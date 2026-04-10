@@ -8,6 +8,16 @@ parent: null
 category: centrist
 tax-status: 501c3
 related: "[[_Think Tank Framework]] · [[_Think Tank Index]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Center for American Progress]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
+court-cases: 66
+last-enriched: "2026-04-10"
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Colorado"
+  - "District Court, D. North Dakota"
+  - "District Court, District of Columbia"
+  - "District Court, N.D. California"
+  - "District Court, W.D. Virginia"
 ---
 
 #think-tank #centrist #defense #national-security #revolving-door #military-industrial-complex #class-analysis
@@ -221,3 +231,22 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Center%20for%20a%20New%20American%20Security%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 66 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Colorado, District Court, D. North Dakota, District Court, District of Columbia, District Court, N.D. California, District Court, W.D. Virginia |
+| Case Types | 2440 Other Civil Rights, 360 P.I.: Other, 440 Civil Rights: Other, 446 Civil Rights: Americans with Disabilities - Other, 820 Copyright |
+
+**Notable cases:**
+- X. AI LLC v. WEISER (2026) — District Court, D. Colorado
+- Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
+- Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
+- Balva v. Binance Holdings Limited (2025) — District Court, D. North Dakota
+- WILSON v. ERICSSON INC. (2025) — District Court, District of Columbia
+- Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20a%20New%20American%20Security%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

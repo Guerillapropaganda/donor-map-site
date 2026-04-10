@@ -45,7 +45,7 @@ net-assets: "$206.9M"
 tax-year: "2023"
 lobbying-spend: 3106887
 lobbying-filings: 143
-related: "[[Starbucks]] · [[McDonalds Corporation]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[UNITE HERE]] · [[Bryan Steil]] · [[Ron Johnson]]"
+related: "[[Starbucks]] · [[McDonalds Corporation]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[UNITE HERE]] · [[Bryan Steil]] · [[Ron Johnson]] · [[Steve Scalise]]"
 total-political-spend: "$1,807,500"
 politicians-funded:
   - "Steve Scalise"

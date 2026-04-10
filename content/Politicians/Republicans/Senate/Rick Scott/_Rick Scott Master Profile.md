@@ -2,7 +2,7 @@
 title: "Rick Scott Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -28,6 +28,25 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
+last-enriched: "2026-04-10"
+bioguide-id: "C001091"
+issues:
+  - "Agriculture and Food"
+  - "Animals"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Energy"
+committees:
+  - "Senate Committee on Armed Services"
+  - "Senate Committee on Foreign Relations"
+  - "Senate Committee on Homeland Security and Governmental Affairs"
+  - "Senate Committee on the Budget"
+  - "Senate Special Committee on Aging"
 ---
 #rick-scott #senate #florida #medicare-fraud #columbia-hca #self-funded #billionaire #class-analysis
 
@@ -186,3 +205,56 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412838) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Florida |
+| Chamber | Senate |
+| Bills Sponsored | 628 |
+| Bills Cosponsored | 1710 |
+
+**Policy areas:** Agriculture and Food, Animals, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Energy, Environmental Protection, Government Operations and Politics, Health, Immigration, International Affairs, Public Lands and Natural Resources, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4229 | A bill to require the Secretary of Veterans Affairs to establish a comprehensive… | Read twice and referred to the Committee on Veterans' Affairs. |
+| 4231 | A bill to amend title 38, United States Code, to increase flexibility in the tra… | Read twice and referred to the Committee on Veterans' Affairs. |
+| 30 | A concurrent resolution expressing the sense of Congress that the Ratepayer Prot… | Referred to the Committee on Energy and Natural Resources. (text: CR S1618-1619) |
+| 4184 | Senior Citizens’ Freedom to Work Act of 2026 | Read twice and referred to the Committee on Finance. |
+| 4150 | District of Columbia Home Rule Improvement Act of 2026 | Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| 647 | A resolution designating March 21, 2026, as "National Osceola Turkey Day". | Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1690) |
+| — |  | — |
+| 4026 | American Dream Accounts Act of 2026 | Read twice and referred to the Committee on Finance. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S001217) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- Senate Committee on Armed Services
+- Senate Committee on Foreign Relations
+- Senate Committee on Homeland Security and Governmental Affairs
+- Senate Committee on the Budget
+- Senate Special Committee on Aging
+
+**Subcommittees:**
+
+- Disaster Management, District of Columbia, and Census
+- Near East, South Asia, Central Asia, and Counterterrorism
+- Permanent Subcommittee on Investigations
+- Personnel
+- Readiness and Management Support
+- Seapower
+- State Department and USAID Management, International Operations, and Bilateral International Development
+- Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

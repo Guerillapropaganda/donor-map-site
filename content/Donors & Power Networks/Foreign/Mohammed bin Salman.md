@@ -28,7 +28,9 @@ sec-form-types:
   - "FWP"
   - "N-CSR"
   - "PX14A6G"
-related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]]"
+related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Christians United for Israel]]"
+lei: "2549005BTTUZTS9QQP67"
+lei-jurisdiction: "SA"
 ---
 #donor-node #foreign #saudi-arabia #sovereign-wealth #arms-sales #class-analysis
 
@@ -175,3 +177,18 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mohammed%20bin%20Salman%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [2549005BTTUZTS9QQP67](https://search.gleif.org/#/record/2549005BTTUZTS9QQP67) |
+| Legal Name | شركة مرود للإستثمار |
+| Jurisdiction | SA |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2024-09-16T17:03:58Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

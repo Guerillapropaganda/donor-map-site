@@ -43,7 +43,7 @@ subawards-received-amount: 51876611853
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
-related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[_Lloyd Austin Master Profile|Lloyd Austin]] · [[_Mark Esper Master Profile|Mark Esper]] · [[Defense Contractors Bloc]] · [[ExxonMobil]] · [[Valero Energy]]"
+related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[_Lloyd Austin Master Profile|Lloyd Austin]] · [[_Mark Esper Master Profile|Mark Esper]] · [[Defense Contractors Bloc]] · [[ExxonMobil]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]]"
 lobbying-spend: 2200000
 lobbying-filings: 50
 ---

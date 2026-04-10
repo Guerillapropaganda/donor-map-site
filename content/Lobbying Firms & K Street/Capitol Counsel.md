@@ -2,14 +2,20 @@
 title: "Capitol Counsel"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 annual-revenue: "$25.4M"
 lobbyist-count: 38
 revolving-door-pct: "73.7%"
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[ExxonMobil]] · [[AT&T - WarnerMedia|AT&T]] · [[Comcast - NBCUniversal|Comcast]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
+court-cases: 59
+court-jurisdictions:
+  - "District Court, D. South Carolina"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Texas"
+  - "United States Bankruptcy Court, D. New Jersey"
 ---
 
 #lobbying #k-street #revolving-door #healthcare #pharma #tax #finance #defense #agriculture #bipartisan
@@ -239,3 +245,22 @@ The Kott case is the most explicit example of the ideological infrastructure the
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 59 |
+| Courts | District Court, D. South Carolina, District Court, N.D. Georgia, District Court, N.D. Texas, United States Bankruptcy Court, D. New Jersey |
+| Case Types | 160 Stockholders Suits, 480 Consumer Credit |
+
+**Notable cases:**
+- Frasier v. Nelnet Servicing LLC (2025) — District Court, D. South Carolina
+- Everhart v. Credit One Bank NA (2025) — District Court, D. South Carolina
+- White v. Credit One Bank NA (2025) — District Court, D. South Carolina
+- Groves v. Citibank NA (2025) — District Court, D. South Carolina
+- Goold v. First Financial Federal Credit Union (2025) — District Court, D. South Carolina
+- McFadden v. Security Finance Corporation of Spartanburg (2025) — District Court, D. South Carolina
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Capitol%20Counsel%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

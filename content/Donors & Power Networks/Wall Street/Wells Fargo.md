@@ -2,7 +2,7 @@
 title: "Wells Fargo"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,7 +13,7 @@ federal-awards-total: 3800000
 federal-contracts-count: 1
 federal-grants-count: 0
 court-cases: 268613
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Maryland"
@@ -76,6 +76,16 @@ top-federal-agency: "Pension Benefit Guaranty Corporation"
 top-naics-code: "523920"
 lei: "984500EB0D67AAL6D588"
 lei-jurisdiction: "GB"
+occ-enforcement-actions: 116
+occ-active-actions: 95
+occ-charter-numbers:
+  - "500017"
+  - "1741"
+  - "12517"
+  - "3728"
+  - "22863"
+  - "1"
+occ-cmp-dollars: 899171205
 ---
 #wells-fargo #wall-street #consumer #fraud #fake-accounts #banking #charlotte
 
@@ -283,3 +293,50 @@ Removal of the Federal Reserve asset cap (which limits Wells Fargo's growth), re
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### OCC Enforcement Actions
+<!-- auto:occ-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Legal name (OCC) | Wells Fargo Bank, National Association |
+| Charter number(s) | 500017, 1741, 12517, 3728, 22863, 1 |
+| Total OCC enforcement actions | 116 |
+| **Active actions** | **95** |
+| Civil Money Penalties | 10 |
+| Total CMP dollars | $899,171,205 |
+| Most recent action | 12/23/2024 |
+| Earliest action | 01/05/2026 |
+
+**Action types:**
+
+- Prohibition/Removal Orders: 68
+- Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D): 20
+- Civil Money Penalty (CMP): 10
+- 1829 Prohibition Notification: 9
+- C&D or PC&D Requiring Restitution: 4
+- Formal Agreement: 3
+- Notice of Charges: 1
+- GLBA Agreement: 1
+
+**Subject areas (2012+):** Fraud/Forgery; Insider Issues; Theft / Misappropriation of Funds; Violation Cited (Criminal Statute); BSA Internal Controls; BSA Pillar Violation / 12 CFR 21.21(d); BSA Risk Assessment; BSA Training; BSA Violation Cited; BSA/AML; Customer/Enhanced Due Diligence (CDD/EDD); Sales Practices
+
+**Still-active enforcement actions:**
+
+- [AA-ENF-2024-41: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-41.pdf) (12/23/2024)
+- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-41.pdf) (12/19/2024)
+- [AA-EC-2018-80: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2018-107.pdf) (12/18/2018)
+- [AA-EC-97-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea97-92.pdf) (12/17/1997)
+- [: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2003-157.pdf) (12/12/2003)
+
+**Recent enforcement history:**
+
+- [AA-ENF-2024-41: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-41.pdf) (12/23/2024)
+- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-41.pdf) (12/19/2024)
+- [AA-EC-2018-80: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2018-107.pdf) (12/18/2018)
+- [AA-EC-97-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea97-92.pdf) (12/17/1997)
+- [: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2003-157.pdf) (12/12/2003)
+- [AA-EC-11-97: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2011-175.pdf) (12/08/2011) — $20,000,000
+- ... and 110 more
+
+- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Wells%20Fargo&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+<!-- auto:occ-enforcement end -->

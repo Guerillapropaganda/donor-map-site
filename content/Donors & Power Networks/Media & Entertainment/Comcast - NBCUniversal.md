@@ -14,7 +14,7 @@ subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 1
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Federal Communications Commission"
 ein: 510390132
@@ -49,7 +49,9 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SC 13D/A"
-related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]] · [[Walt Disney Company]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Verizon]]"
+ftc-enforcement-actions: 1
+ftc-hsr-notices: 26
 ---
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts
 
@@ -243,3 +245,32 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Comcast%20-%20NBCUniversal%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 1 |
+| HSR early termination notices (merger filings) | 26 |
+| Most recent enforcement action | 2011-12-16 |
+
+**Enforcement by type:**
+
+- Civil Penalty (7a): 1
+
+**Recent enforcement actions (historical):**
+
+- [Brian L. Roberts / Comcast](http://www.ftc.gov/os/caselist/1010034/index.shtm) (2011-12-16)
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Trian Star Trust → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201632) (2020-10-16)
+- [Trian Partners, L.P. → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201633) (2020-10-16)
+- [Trian Partners Strategic Investment Fund-N, L.P. → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201634) (2020-10-16)
+- [Comcast Corporation → Newco](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200803) (2020-03-30)
+- [Michael Angelakis → Comcast Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180843) (2018-03-06)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Comcast%20-%20NBCUniversal).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Comcast%20-%20NBCUniversal) (Tier 1)
+<!-- auto:ftc-enforcement end -->

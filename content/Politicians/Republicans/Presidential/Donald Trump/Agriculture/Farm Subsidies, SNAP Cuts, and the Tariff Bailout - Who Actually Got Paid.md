@@ -134,3 +134,10 @@ Iowa farmers received approximately $893 million in Farm Bureau Association prog
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

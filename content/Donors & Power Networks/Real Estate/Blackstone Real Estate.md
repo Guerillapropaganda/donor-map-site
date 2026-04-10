@@ -34,7 +34,7 @@ court-jurisdictions:
   - "District Court, S.D. Mississippi"
   - "United States Bankruptcy Court, C.D. California"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Real Estate Industry]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Roundtable]] · [[Stephen Schwarzman]] · [[National Rental Home Council]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[Real Estate Industry Bloc]] · [[Lennar Corporation]]"
+related: "[[Real Estate Industry]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Roundtable]] · [[Stephen Schwarzman]] · [[National Rental Home Council]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[Real Estate Industry Bloc]] · [[Lennar Corporation]] · [[CBRE Group]]"
 ein: "333183362"
 nonprofit-status: "501(c)(3)"
 lobbying-spend: 4450000

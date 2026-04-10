@@ -25,9 +25,9 @@ subawards-received: 1
 subawards-received-amount: 308700
 top-federal-agency: "Department of Defense"
 top-naics-code: "325412"
-related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[Eli Lilly]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[Eli Lilly]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Gilead Sciences]]"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 total-revenue: 45354708
 total-assets: 328259324
 cpsc-recalls: 1
@@ -42,6 +42,12 @@ regulatory-agencies:
   - "Foreign-Trade Zones Board"
   - "Health and Human Services Department"
   - "Veterans Affairs Department"
+ftc-enforcement-actions: 3
+ftc-hsr-notices: 38
+fda-recalls: 12
+fda-recalls-class-i: 1
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
 
@@ -269,3 +275,87 @@ Opposition to Medicare drug price negotiation expansion (particularly before Key
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Merck%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 3 |
+| HSR early termination notices (merger filings) | 38 |
+| Most recent enforcement action | 2009-10-29 |
+| Earliest enforcement action | 1998-08-27 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 3
+
+**Recent enforcement actions (historical):**
+
+- [Merck / Schering-Plough](http://www.ftc.gov/os/caselist/0910075/index.shtm) (2009-10-29) — Health Care � Prescription Drugs
+- [Merck KGaA / Mylan Laboratories, Inc. and Mylan Pharmaceuticals, Inc.](http://www.ftc.gov/os/caselist/0710164/0710164.shtm#http://www.ftc.gov/os/caselist/0710164/0710164.shtm) (2007-09-27) — Health Care � Prescription Drugs
+- [Merck & Co., Inc.](http://www.ftc.gov/os/caselist/c3853.shtm) (1998-08-27) — Health Care � Prescription Drugs
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Merck & Co., Inc. → Cidara Therapeutics, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260455) (2025-12-19)
+- [Merck & Co., Inc. → Jiangsu Hengrui Pharmaceuticals Co., Ltd.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20251160) (2025-05-20)
+- [Merck & Co., Inc. → OncoImmune, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210445) (2020-12-16)
+- [Merck & Co., Inc. → Lumos Pharma, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201328) (2020-08-27)
+- [Merck & Co., Inc. → Themis Bioscience GmbH](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201099) (2020-06-17)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Merck).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Merck) (Tier 1)
+<!-- auto:ftc-enforcement end -->
+
+### FDA Enforcement (openFDA)
+<!-- auto:fda-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Total FDA recalls | 12 |
+| Drug recalls | 11 |
+| Device recalls | 1 |
+| **Class I (life-threatening)** | **1** |
+| Class II (temporary/reversible) | 7 |
+| Class III (unlikely to cause harm) | 4 |
+| Ongoing | 3 |
+| Most recent | 2025-12-12 |
+| Earliest | 2014-01-13 |
+
+**Class I recalls (life-threatening):**
+
+- [drug] **D-0093-2022** (2021-10-19): Cubicin (daptomycin for injection), 500 mg per vial, Single-dose vial, Rx only. Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA. Manuf. by: 
+  - Reason: Presence of Particulate Matter: Identified as Glass Particles
+
+**Recent recalls:**
+
+- [drug] [Class II] D-0241-2026 (2025-12-12): Merck Emend (aprepitant) for oral suspension, 125 mg, Single-Dose Kit, Rx Only, Manufactured for: Merck Sharpe & Dohme LLC, Rahway, NJ 07065, USA, Manufactured by:  Novo Nordisk Production Ireland Lim
+- [drug] [Class II] D-0242-2026 (2025-12-12): Noxafil Powdermix (posaconazole) for Delayed-Release Oral Suspension, 300 mg, 8 packets per carton, Rx Only, Manufactured for: Merck Sharp & Doohme LLC, Rahway, NJ 07056 USA, Manufactured by: N.V. Org
+- [drug] [Class II] D-0584-2025 (2025-07-21): Belsomra (suvorexant) tablets, 10mg, 30 Tablets in 3 Blister Cards per Carton, Each Blister Card contains 10 Tablets, Rx only, Merck Sharp & Dohme LLC, Rahway, NJ 07065, USA, NDC 0006-0033-10 (Shellpa
+- [drug] [Class II] D-0746-2022 (2022-03-31): Janumet (sitagliptin and metformin HCl) tablets, 50 mg/500 mg, 14-count bottle, packaged as 2 bottles per carton , Sample-Not For Sale, Rx Only, Manufactured for Merck Sharp & Dohme Corp., a subsidiar
+- [drug] [Class I] D-0093-2022 (2021-10-19): Cubicin (daptomycin for injection), 500 mg per vial, Single-dose vial, Rx only. Manuf. for: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc., Whitehouse Station, NJ 08889, USA. Manuf. by: 
+- [drug] [Class II] D-0176-2021 (2020-12-21): Zerbaxa (ceftolozane and tazobactam) 1.5g per vial for injection, Single-Dose vial, Rx only, Manuf. for: Merck Sharp & Dohme Corp. a subsidiary of Merck & Co., Inc., NDC 67919-030-01
+- ... and 6 more
+
+_Variant firm names in FDA data: Merck Sharp & Dohme LLC; Merck & Co. Inc; MERCK SHARP & DOHME CORP; Merck Sharp & Dohme; Merck Millipore Ltd._
+
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Merck) (Tier 1)
+<!-- auto:fda-enforcement end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Merck) (Tier 1)
+<!-- auto:nhtsa-recalls end -->

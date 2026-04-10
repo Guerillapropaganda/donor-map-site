@@ -2,7 +2,7 @@
 title: "Zoe Lofgren"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -16,13 +16,22 @@ committees:
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Technology"
-  - "Immigration"
-  - "Antitrust & Monopoly"
+  - "Animals"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Energy"
+  - "Finance and Financial Sector"
 total-received: "$1,274,233"
 fec-candidate-id: "H4CA16049"
 donors: "[[Tech Industry]] · [[Google - Alphabet]]"
 related: "[[Brian Babin]] · [[_Donald Trump Master Profile|Trump]]"
+last-enriched: "2026-04-10"
+bioguide-id: "L000397"
 ---
 #zoe-lofgren #democrat #california #house #ranking-member #science-space-technology #silicon-valley #big-tech #immigration #h1b #antitrust #january-6 #apple #google #meta #phase-6-gavel-power
 
@@ -174,3 +183,32 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | California |
+| Chamber | House of Representatives |
+| Bills Sponsored | 370 |
+| Bills Cosponsored | 8354 |
+
+**Policy areas:** Animals, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Economics and Public Finance, Education, Energy, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Science, Technology, Communications, Water Resources Development
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8111 | To amend title 28, United States Code, to modify venue requirements relating to … | Referred to the House Committee on the Judiciary. |
+| 154 | Providing for congressional disapproval under chapter 8 of title 5, United State… | Referred to the House Committee on the Judiciary. |
+| 8014 | To provide for individual rights relating to privacy of personal information, to… | Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7836 | Real Courts, Rule of Law Act of 2026 | Referred to the Committee on the Judiciary, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6870 | GRACE Act | Referred to the House Committee on the Judiciary. |
+| 6207 | Chip EQUIP Act | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5449 | Redistricting Reform Act of 2025 | Referred to the House Committee on the Judiciary. |
+| 4999 | Fusion Workforce Act | Referred to the House Committee on Science, Space, and Technology. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/L000397) (Tier 1)
+<!-- auto:congress-legislation end -->

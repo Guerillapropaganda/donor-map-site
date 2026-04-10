@@ -18,6 +18,8 @@ regulatory-agencies:
   - "Labor Department"
   - "National Oceanic and Atmospheric Administration"
   - "Occupational Safety and Health Administration"
+lei: "213800383E8Z6FGMAH59"
+lei-jurisdiction: "GB"
 ---
 
 #think-tank #centrist #NATO #defense-industry #foreign-government-funding #DFRLab #Burisma #class-analysis
@@ -269,3 +271,18 @@ The Burisma scandal reveals the corruption beneath the prestige. A Ukrainian ene
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Atlantic%20Council%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [213800383E8Z6FGMAH59](https://search.gleif.org/#/record/213800383E8Z6FGMAH59) |
+| Legal Name | THE COUNTY COUNCIL OF THE CITY AND COUNTY OF CARDIFF |
+| Jurisdiction | GB |
+| Entity Status | ACTIVE |
+| Category | RESIDENT_GOVERNMENT_ENTITY |
+| Registration | LAPSED |
+| Last Updated | 2025-01-19T00:05:10Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

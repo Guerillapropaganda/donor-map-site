@@ -19,7 +19,9 @@ shareable-stat: "$2.9M donated. $1.9T in tax cuts. 655,172x return."
 issues:
   - "Dark Money & Campaign Finance"
   - "Energy & Climate"
-related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Doug Burgum Master Profile]] · [[Chris Wright Master Profile]] · [[The Koch Network Pipeline and Climate Denial as Policy]] · [[Thom Tillis Master Profile]] · [[Ted Cruz Master Profile]] · [[Oil Gas and the Texas Energy Donor Base]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[Peter Thiel]] · [[Elon Musk]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Miriam Adelson]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CCPOA - California Correctional Peace Officers Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[California Labor Federation]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[WSPA - Western States Petroleum Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[California Building and Construction Trades Council]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Mitch McConnell Master Profile]]"
+related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Doug Burgum Master Profile]] · [[Chris Wright Master Profile]] · [[The Koch Network Pipeline and Climate Denial as Policy]] · [[Thom Tillis Master Profile]] · [[Ted Cruz Master Profile]] · [[Oil Gas and the Texas Energy Donor Base]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[Peter Thiel]] · [[Elon Musk]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Miriam Adelson]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CCPOA - California Correctional Peace Officers Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[California Labor Federation]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[WSPA - Western States Petroleum Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[California Building and Construction Trades Council]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]]"
+lobbying-spend: 21285000
+lobbying-filings: 55
 ---
 #donor #koch #mega-donor #libertarian #anti-union #dark-money #deregulation #fossil-fuel #national #class-analysis #follow-the-money #right-to-work #project-2025 #janus
 
@@ -999,3 +1001,22 @@ This architecture allows the Koch Network to:
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $21.3M |
+| Quarterly Filings | 55 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 16 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Banking, Bankruptcy, Budget/Appropriations, Chemicals/Chemical Industry, Clean Air and Water (quality), Constitution, Defense, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Immigration, Law Enforcement/Crime/Criminal Justice, Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Utilities
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, CAPITOL TAX PARTNERS, LLP, CROSSROADS STRATEGIES, LLC, HOLLAND & KNIGHT LLP, HUNTON ANDREWS KURTH LLP, KOCH GOVERNMENT AFFAIRS, LLC, LONGBOW PUBLIC POLICY GROUP, LLC, MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, MINDSET ADVOCACY, LLC, PHRONESISDC, LLC, RESEARCH SERVICE BUREAU, S-3 GROUP, TAFT STETTINIUS & HOLLISTER LLP DBA TAFT ADVISORS LLC FKA (TAFT, STETTINIUS & HOLLISTER,LLP), THE NICKLES GROUP, LLC, VALCOUR LLC
+
+**Agencies contacted:** Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, SENATE, State, Dept of (DOS), Treasury, Dept of, U.S. Trade Representative (USTR)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Koch%20Network%20-%20Charles%20Koch) (Tier 1)
+<!-- auto:lda-lobbying end -->

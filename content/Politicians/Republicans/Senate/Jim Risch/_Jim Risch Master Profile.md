@@ -12,12 +12,22 @@ state-abbr: "ID"
 committees:
   - "Foreign Relations"
 issues:
-  - "Defense & Military"
-  - "Israel & Foreign Policy"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Energy"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
+  - "International Affairs"
+  - "Law"
 top-donors:
   - "AIPAC"
 related: "[[Idaho 2026 Senate Race]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[NORPAC]] · [[Heritage Foundation]]"
+last-enriched: "2026-04-10"
+bioguide-id: "R000584"
 ---
 #jim-risch #republican #idaho #senate #committee-chair #foreign-relations #nuclear #defense #arms-sales #general-atomics #micron #china #israel #phase-6-gavel-power
 
@@ -153,3 +163,32 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 - [Ballotpedia: Jim Risch](https://ballotpedia.org/Jim_Risch) (Tier 3)
 - [Wikipedia: Jim Risch](https://en.wikipedia.org/wiki/Jim_Risch) (Tier 3)
 
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Idaho |
+| Chamber | Senate |
+| Bills Sponsored | 632 |
+| Bills Cosponsored | 2824 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Crime and Law Enforcement, Education, Energy, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Law, Science, Technology, Communications, Transportation and Public Works, Water Resources Development
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4108 | Veteran Burial Benefit Correction Act | Read twice and referred to the Committee on Veterans' Affairs. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/R000584) (Tier 1)
+<!-- auto:congress-legislation end -->

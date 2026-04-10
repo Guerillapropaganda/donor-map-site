@@ -65,7 +65,7 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Novo Nordisk]] · [[AbbVie]] · [[Merck]] · [[Pfizer]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Novo Nordisk]] · [[AbbVie]] · [[Merck]] · [[Pfizer]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 111952387
 total-assets: 161936520

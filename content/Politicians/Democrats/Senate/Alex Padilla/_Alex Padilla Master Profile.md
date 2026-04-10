@@ -2,7 +2,7 @@
 title: "Alex Padilla"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -25,6 +25,16 @@ known-gaps:
   - "No mapped relationships"
 internal-notes: "[URL Check 2026-04-09] 11 checked: 9 ok, 1 broken, 1 slow. | BROKEN: Congress.gov: Alex Padilla | SLOW: Senate.gov: Padilla elected top Democrat on Rules and Administration Committee"
 related: "[[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Trump]]"
+last-enriched: "2026-04-10"
+committees:
+  - "Joint Committee of Congress on the Library"
+  - "Joint Committee on Printing"
+  - "Senate Committee on Energy and Natural Resources"
+  - "Senate Committee on Environment and Public Works"
+  - "Senate Committee on Rules and Administration"
+  - "Senate Committee on the Budget"
+  - "Senate Committee on the Judiciary"
+bioguide-id: "C001091"
 ---
 #alex-padilla #democrat #california #senate #ranking-member #rules-committee #election-administration #voting-rights #immigration #daca #latino #secretary-of-state #mit #pacoima #phase-6-gavel-power
 
@@ -180,3 +190,31 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2CA00955/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- Joint Committee of Congress on the Library
+- Joint Committee on Printing
+- Senate Committee on Energy and Natural Resources
+- Senate Committee on Environment and Public Works
+- Senate Committee on Rules and Administration
+- Senate Committee on the Budget
+- Senate Committee on the Judiciary
+
+**Subcommittees:**
+
+- Border Security and Immigration
+- Clean Air, Climate, and Nuclear Innovation and Safety
+- Energy
+- Federal Courts, Oversight, Agency Action, and Federal Rights
+- Fisheries, Wildlife, and Water
+- Privacy, Technology, and the Law
+- Public Lands, Forests, and Mining
+- Transportation and Infrastructure
+- Water and Power
+- the Constitution
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

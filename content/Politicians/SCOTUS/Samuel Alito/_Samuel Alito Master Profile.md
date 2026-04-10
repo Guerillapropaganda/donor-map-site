@@ -2,7 +2,7 @@
 title: "Samuel Alito Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-03-24
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 chamber: "SCOTUS"
@@ -16,6 +16,11 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Koch Network - Charles Koch]]"
+wikidata-id: "Q11138"
+last-enriched: "2026-04-10"
+wikipedia-url: "https://en.wikipedia.org/wiki/Samuel_Alito"
+wikipedia-extract: "Samuel Anthony Alito Jr. is an American jurist who serves as an associate justice of the Supreme Court of the United States. He was nominated to the high court by President George W."
+born: "1950-01-01"
 ---
 #samuel-alito #scotus #paul-singer #leonard-leo #federalist-society #donor-capture #class-analysis
 
@@ -140,3 +145,25 @@ Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Samuel Anthony Alito Jr. is an American jurist who serves as an associate justice of the Supreme Court of the United States. He was nominated to the high court by President George W.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q11138](https://www.wikidata.org/wiki/Q11138) |
+| Description | Associate Justice of the Supreme Court of the United States since 2006 |
+| Born | 1950-01-01 |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Justice_Alito_official.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Samuel_Alito) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q11138) (Tier 2)
+<!-- auto:wikipedia end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Samuel Alito](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

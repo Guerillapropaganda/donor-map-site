@@ -15,7 +15,7 @@ committees:
 top-donors:
   - "Real Estate Roundtable"
 fec-candidate-id: "H4MO08162"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
 govtrack-id: 412596
 bills-sponsored: 7
 bills-cosponsored: 27
@@ -23,6 +23,18 @@ website: "https://jasonsmith.house.gov"
 phone: "202-225-4404"
 donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Real Estate Roundtable]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Mike Crapo]]"
+bioguide-id: "S001195"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Environmental Protection"
+  - "Families"
+  - "Foreign Trade and International Finance"
 ---
 #jason-smith #republican #missouri #house #committee-chair #phase-6-gavel-power #ways-and-means #tax-policy #class-analysis #follow-the-money
 
@@ -209,3 +221,32 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 - [GovTrack: Jason Smith](https://www.govtrack.us/congress/members/412596) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Missouri |
+| Chamber | House of Representatives |
+| Bills Sponsored | 123 |
+| Bills Cosponsored | 1080 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Environmental Protection, Families, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 6599 | Leasing and Infrastructure Act of 2025 | Committee Hearings Held |
+| 6500 | AGOA Extension Act | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 320. |
+| 212 | Returning Senate Joint Resolution 3 to the Senate. | Motion to reconsider laid on the table Agreed to without objection. |
+| 1156 | Pandemic Unemployment Fraud Enforcement Act | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 29. |
+| 109 | Providing amounts for the expenses of the Committee on Ways and Means in the One… | Referred to the House Committee on House Administration. |
+| 591 | Defending American Jobs and Investment Act | Referred to the Committee on Ways and Means, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 33 | To amend the Internal Revenue Code of 1986 to provide special rules for the taxa… | Received in the Senate and Read twice and referred to the Committee on Finance. |
+| 8813 | Preventing Child Welfare Entry Caused by Poverty Act | Referred to the Subcommittee on Work and Welfare. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S001195) (Tier 1)
+<!-- auto:congress-legislation end -->

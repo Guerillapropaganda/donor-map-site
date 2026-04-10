@@ -34,7 +34,7 @@ sec-form-types:
   - "N-CSRS"
   - "PART II"
   - "PX14A6G"
-related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]] · [[TikTok - ByteDance]] · [[Silicon Valley Donors]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]] · [[TikTok - ByteDance]] · [[Silicon Valley Donors]] · [[Nvidia]]"
 lobbying-spend: 36516328
 lobbying-filings: 107
 ---

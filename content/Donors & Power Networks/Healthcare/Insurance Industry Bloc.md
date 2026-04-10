@@ -13,7 +13,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
 ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
-related: "[[Insurance Industry]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Barack Obama Master Profile]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Humana]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation]] · [[Healthcare Sector]] · [[Centene Corporation]]"
+related: "[[Insurance Industry]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Barack Obama Master Profile]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Humana]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation]] · [[Healthcare Sector]] · [[Centene Corporation]] · [[Anthem PAC]]"
 ---
 #insurance #industry-bloc #healthcare #aca #public-option #lobbying #managed-care
 

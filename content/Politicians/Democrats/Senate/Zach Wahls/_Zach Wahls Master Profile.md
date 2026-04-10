@@ -2,7 +2,7 @@
 title: "Zach Wahls Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,6 +20,8 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Iowa Long Shot and the Rural Democrat Question]]"
+last-enriched: "2026-04-10"
+bioguide-id: "C001091"
 ---
 #zach-wahls #iowa #senate #2026 #progressive #same-sex-parents #rural-democrat #warren-endorsed #class-analysis
 
@@ -286,3 +288,10 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -57,7 +57,7 @@ subawards-received: 50
 subawards-received-amount: 9882497978
 top-federal-agency: "Department of Transportation"
 top-naics-code: "336413"
-related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]]"
+related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Leidos]]"
 lei: "549300UTE50ZMDBG8A20"
 lei-jurisdiction: "US-DE"
 ---

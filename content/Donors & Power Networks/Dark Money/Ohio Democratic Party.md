@@ -36,7 +36,7 @@ total-political-spend: "$9,177,680"
 politicians-funded:
   - "Sherrod Brown"
   - "Richard Neal"
-related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]] · [[Sherrod Brown]] · [[UAW - United Auto Workers|UAW]] · [[Democratic Party Infrastructure]] · [[AFL-CIO]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[Senate Majority PAC]] · [[ActBlue]] · [[Small Dollar Donors - ActBlue]]"
+related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]] · [[Sherrod Brown]] · [[UAW - United Auto Workers|UAW]] · [[Democratic Party Infrastructure]] · [[AFL-CIO]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[Senate Majority PAC]] · [[ActBlue]] · [[Small Dollar Donors - ActBlue]] · [[Democratic Small Dollar Networks]]"
 ein: "273554312"
 nonprofit-status: "tax-exempt"
 fara-status: "registrant"

@@ -17,7 +17,7 @@ ein: "854202763"
 annual-revenue: "$27.3M"
 net-assets: "$9.9M"
 tax-year: "2023"
-related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]] · [[DeVos Family]] · [[American Federation for Children]]"
+related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

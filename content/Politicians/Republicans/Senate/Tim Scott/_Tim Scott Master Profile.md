@@ -2,7 +2,7 @@
 title: "Tim Scott"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -10,8 +10,14 @@ chamber: "Senate"
 state: "South Carolina"
 state-abbr: "SC"
 issues:
-  - "Technology"
-  - "Wall Street & Finance"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Health"
+  - "Labor and Employment"
+  - "Public Lands and Natural Resources"
 top-donors:
   - "Goldman Sachs"
   - "Blackstone"
@@ -23,6 +29,8 @@ related: "[[Bank of America]] · [[John Cornyn]] · [[_Donald Trump Master Profi
 donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]]"
 total-received: "$1,539"
 fec-candidate-id: "S4SC00240"
+last-enriched: "2026-04-10"
+bioguide-id: "S001184"
 ---
 #master-profile #republican #senate #south-carolina #opportunity-zones #corporate-donor #presidential #banking-committee #crypto #wall-street #israel-lobby
 
@@ -163,6 +171,33 @@ Scott's presidential bid raised $45.8M combined: $12.5M campaign committee, $22M
 - [Ballotpedia: Tim Scott](https://ballotpedia.org/Tim_Scott) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | South Carolina |
+| Chamber | House of Representatives |
+| Bills Sponsored | 449 |
+| Bills Cosponsored | 1876 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Health, Labor and Employment, Public Lands and Natural Resources
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4242 | A bill to amend part A of title IV of the Social Security Act to clarify the aut… | Read twice and referred to the Committee on Finance. |
+| 4048 | PREDICT Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 4047 | Kids in Classes Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| — |  | Amendment SA 4307 agreed to in Senate by Voice Vote. |
+| — |  | Amendment SA 4308, as amended, agreed to in Senate by Yea-Nay Vote. 84 - 10. Record Vote Number: 51. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S001184) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ## Committee Assignments (Congress.gov)
 

@@ -139,3 +139,17 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P40013518/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Harold Hamm]] — $70K lobbying spend (Energy/Nuclear, Manufacturing, Taxation/Internal Revenue Code)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

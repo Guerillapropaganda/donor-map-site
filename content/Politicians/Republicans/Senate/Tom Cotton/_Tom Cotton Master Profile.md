@@ -2,7 +2,7 @@
 title: "Tom Cotton Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -10,8 +10,14 @@ chamber: "Senate"
 state: "Arkansas"
 state-abbr: "AR"
 issues:
-  - "Israel & Foreign Policy"
-  - "Defense & Military"
+  - "Armed Forces and National Security"
+  - "Crime and Law Enforcement"
+  - "Energy"
+  - "Immigration"
+  - "International Affairs"
+  - "Public Lands and Natural Resources"
+  - "Taxation"
+  - "Transportation and Public Works"
 top-donors:
   - "AIPAC - American Israel Public Affairs Committee"
   - "Paul Singer"
@@ -29,6 +35,8 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
+last-enriched: "2026-04-10"
+bioguide-id: "C001095"
 ---
 #tom-cotton #republican #senate #arkansas #neoconservative #aipac #defense #iran #bill-kristol #paul-singer #class-analysis #follow-the-money
 
@@ -161,3 +169,32 @@ Tom Cotton. Republican senator from Arkansas (2015–present). The neoconservati
 
 ### Voting Record
 
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Arkansas |
+| Chamber | House of Representatives |
+| Bills Sponsored | 556 |
+| Bills Cosponsored | 1918 |
+
+**Policy areas:** Armed Forces and National Security, Crime and Law Enforcement, Energy, Immigration, International Affairs, Public Lands and Natural Resources, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4235 | A bill to prohibit executive agencies from procuring or operating certain unmann… | Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| 4206 | Know Your American Customer Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4165 | Educational Visa Transparency Act of 2026 | Read twice and referred to the Committee on the Judiciary. |
+| 4158 | A bill to temporarily suspend the clean electricity production credit to support… | Read twice and referred to the Committee on Finance. |
+| 4105 | Naturalization Accountability Act | Read twice and referred to the Committee on the Judiciary. |
+| 4106 | Rx ACCESS Act | Read twice and referred to the Committee on the Judiciary. |
+| 4077 | Trucking Security and CCP Disclosure Act of 2026 | Read twice and referred to the Committee on Armed Services. |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001095) (Tier 1)
+<!-- auto:congress-legislation end -->

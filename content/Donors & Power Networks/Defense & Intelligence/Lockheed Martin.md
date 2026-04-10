@@ -28,7 +28,10 @@ subawards-received: 50
 subawards-received-amount: 2946802998
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "561990"
-related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[Koch Industries]] · [[Eli Lilly]]"
+related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[Koch Industries]] · [[Eli Lilly]] · [[ExxonMobil]]"
+ftc-enforcement-actions: 2
+ftc-hsr-notices: 23
+last-enriched: "2026-04-10"
 ---
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
 
@@ -504,3 +507,34 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lockheed%20Martin%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 2 |
+| HSR early termination notices (merger filings) | 23 |
+| Most recent enforcement action | 2006-10-03 |
+| Earliest enforcement action | 1996-04-18 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 2
+
+**Recent enforcement actions (historical):**
+
+- [The Boeing Company / Lockheed Martin Corp](http://www.ftc.gov/os/caselist/0510165/0510165.shtm) (2006-10-03) — Defense � Equipment and Engineering Services
+- [Lockheed Martin Corp.](http://www.ftc.gov/os/caselist/c3685.shtm) (1996-04-18) — Defense � Other
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [New Mountain Partners IV, L.P. → Lockheed Martin Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200141) (2019-11-08)
+- [Lockheed Martin Corporation → Albert Nardslico](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150158) (2014-11-21)
+- [Lockheed Martin Corporation → Marc Turtletaub](https://www.ftc.gov/legal-library/browse/early-termination-notices/20140697) (2014-04-01)
+- [Lockheed Martin Corporation → Spectrum Equity Investors IV, L.P.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111344) (2011-09-12)
+- [Lindsay Goldberg III L.P. → Lockheed Martin Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20110609) (2011-03-11)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Lockheed%20Martin).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Lockheed%20Martin) (Tier 1)
+<!-- auto:ftc-enforcement end -->

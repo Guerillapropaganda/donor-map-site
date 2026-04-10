@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Infrastructure"
-related: "[[American Petroleum Institute]] · [[North Carolina 2026 Senate Race]] · [[Nebraska 2026 Senate Race]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[National Republican Senatorial Committee]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]] · [[American Action Network]]"
+related: "[[American Petroleum Institute]] · [[North Carolina 2026 Senate Race]] · [[Nebraska 2026 Senate Race]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[National Republican Senatorial Committee]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]] · [[American Action Network]] · [[National Association of Manufacturers]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

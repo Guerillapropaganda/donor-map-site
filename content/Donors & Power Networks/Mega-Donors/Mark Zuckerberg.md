@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Technology"
   - "Antitrust & Monopoly"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 related: "[[Cory Booker]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Paul Ryan]] · [[John Boehner]] · [[Meta - Facebook]] · [[Elon Musk]] · [[Silicon Valley Democratic Donor Network]] · [[Joel Kaplan]] · [[Chan Zuckerberg Initiative]] · [[TikTok - ByteDance]] · [[Fairshake PAC - Crypto Super PAC]] · [[Jeff Bezos]]"
 total-political-spend: "$114,701"
 politicians-funded:
@@ -22,6 +22,23 @@ politicians-funded:
   - "Katie Porter"
   - "Cory Booker"
 
+sec-filings: 9611
+sec-form-types:
+  - "144"
+  - "4"
+  - "SC 13G/A"
+court-cases: 1764
+court-jurisdictions:
+  - "Court of Appeals for the Eighth Circuit"
+  - "Court of Appeals for the First Circuit"
+  - "Court of Appeals for the Third Circuit"
+  - "District Court, D. Delaware"
+  - "District Court, D. New Jersey"
+  - "District Court, E.D. New York"
+  - "District Court, M.D. Florida"
+  - "District Court, M.D. Pennsylvania"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Illinois"
 ---
 #zuckerberg #meta #facebook #tech #mega-donor #trump-realignment #lobbying #antitrust #ai #section-230
 
@@ -218,3 +235,40 @@ The structural function Zuckerberg serves for the donor class: he demonstrates t
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Mark%20Zuckerberg) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 9,611 |
+| Form Types | 144, 4, SC 13G/A |
+
+**Notable filings:**
+
+- 2025-02-12 — **144**: 144
+- 2024-01-09 — **144**: 144
+- 2024-03-08 — **144**: 144
+- 2024-01-31 — **144**: 144
+- 2025-01-22 — **144**: 144
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mark%20Zuckerberg%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 1,764 |
+| Courts | Court of Appeals for the Eighth Circuit, Court of Appeals for the First Circuit, Court of Appeals for the Third Circuit, District Court, D. Delaware, District Court, D. New Jersey, District Court, E.D. New York, District Court, M.D. Florida, District Court, M.D. Pennsylvania +5 more |
+| Case Types | 190 Contract: Other, 320 Assault Libel & Slander, 360 P.I.: Other, 365 Personal Inj. Prod. Liability, 820 Copyright |
+
+**Notable cases:**
+- Curry v. The RealReal, Inc. (2026) — District Court, N.D. California
+- CurioXR, Inc. v. Meta Platforms, Inc. (2026) — District Court, W.D. Texas
+- Doe v. Perplexity AI, Inc. (2026) — District Court, N.D. California
+- Ballentine v. Meta Platforms, Inc. (2026) — District Court, M.D. Florida
+- Shirazi v. Meta Platforms, Inc. (2026) — District Court, N.D. California
+- Kang v. Meta Platforms, Inc. (2026) — District Court, N.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mark%20Zuckerberg%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

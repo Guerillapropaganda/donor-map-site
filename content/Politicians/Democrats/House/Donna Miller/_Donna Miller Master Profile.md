@@ -2,7 +2,7 @@
 title: "Donna Miller Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,6 +22,11 @@ known-gaps:
   - "No mapped relationships"
 bioguide-id: "B001296"
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Affordable Chicago Now PAC]]"
+wikidata-id: "Q101318343"
+last-enriched: "2026-04-10"
+wikipedia-url: "https://en.wikipedia.org/wiki/Donna_Miller"
+wikipedia-extract: "Donna Lynne Miller is an American politician currently serving as a Cook County commissioner, representing the board's 6th district."
+born: "1965-09-07"
 ---
 #democrat #politician #house
 tags: #democrat
@@ -181,3 +186,18 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Donna Lynne Miller is an American politician currently serving as a Cook County commissioner, representing the board's 6th district.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q101318343](https://www.wikidata.org/wiki/Q101318343) |
+| Description | American politician |
+| Born | 1965-09-07 |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cook_County_Commissioner_Donna_Miller_at_May_Day_2025.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Donna_Miller) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q101318343) (Tier 2)
+<!-- auto:wikipedia end -->

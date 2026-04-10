@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
   - "U.S. Citizenship and Immigration Services"
-related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]] · [[Flex Association]] · [[Fossil Fuel Bloc]]"
+related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]]"
 ---
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
 

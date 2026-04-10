@@ -16,12 +16,16 @@ total-received: "$7,843,280"
 fec-candidate-id: "H0LA01087"
 donors: "[[American Gaming Association]] · [[Valero Energy]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Larry Ellison]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[Valero Energy]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 govtrack-id: 412261
 bills-sponsored: 3
 bills-cosponsored: 5
 website: "https://scalise.house.gov"
 phone: "202-225-3015"
+wikidata-id: "Q1857141"
+wikipedia-url: "https://en.wikipedia.org/wiki/Steve_Scalise"
+wikipedia-extract: "Stephen Joseph Scalise is an American politician who has been the House majority leader since 2023 and the U.S. representative for Louisiana's 1st congressional district since 2008."
+born: "1965-10-06"
 ---
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power
 
@@ -214,3 +218,20 @@ Scalise's donor-class function is to serve as the fossil fuel industry's highest
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412261) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Stephen Joseph Scalise is an American politician who has been the House majority leader since 2023 and the U.S. representative for Louisiana's 1st congressional district since 2008.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q1857141](https://www.wikidata.org/wiki/Q1857141) |
+| Description | American politician (born 1965) |
+| Born | 1965-10-06 |
+| Website | [http://scalise.house.gov](http://scalise.house.gov) |
+| X/Twitter | [@stevescalise](https://x.com/stevescalise) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Steve_Scalise.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Steve_Scalise) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1857141) (Tier 2)
+<!-- auto:wikipedia end -->

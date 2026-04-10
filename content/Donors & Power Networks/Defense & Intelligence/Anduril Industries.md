@@ -26,7 +26,7 @@ sec-form-types:
   - "EX-99.2"
   - "NPORT-EX"
   - "NPORT-P"
-related: "[[Palantir Technologies]] · [[David Sacks]] · [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]]"
+related: "[[Palantir Technologies]] · [[David Sacks]] · [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[Raytheon Technologies]]"
 subawards-issued: 50
 subawards-issued-amount: 156117244
 subawards-received: 50
@@ -58,6 +58,8 @@ regulatory-agencies:
   - "Justice Department"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
+lobbying-spend: 5830000
+lobbying-filings: 44
 ---
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
 
@@ -326,3 +328,22 @@ research-status:: draft — Financial profile, valuation history, contract award
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anduril%20Industries%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $5.8M |
+| Quarterly Filings | 44 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 6 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Defense, Foreign Relations, Homeland Security, Intelligence
+
+**Lobbying firms:** ANDURIL INDUSTRIES, INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., ICEBREAKER STRATEGIES, LLC, INVARIANT LLC, MEHLMAN CONSULTING, INC., THORN RUN PARTNERS
+
+**Agencies contacted:** Defense, Dept of (DOD), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Natl Security Council (NSC), Office of Management & Budget (OMB), SENATE, State, Dept of (DOS), Transportation, Dept of (DOT)
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Anduril%20Industries) (Tier 1)
+<!-- auto:lda-lobbying end -->

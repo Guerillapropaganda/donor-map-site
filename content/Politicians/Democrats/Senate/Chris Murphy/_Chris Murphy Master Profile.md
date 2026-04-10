@@ -234,3 +234,10 @@ However, the foreign policy portfolio receives far less attention than gun contr
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Chris Murphy](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

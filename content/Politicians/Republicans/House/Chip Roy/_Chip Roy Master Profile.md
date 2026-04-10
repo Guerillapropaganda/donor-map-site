@@ -2,7 +2,7 @@
 title: "Chip Roy Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -27,6 +27,19 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 related: "[[_Ted Cruz Master Profile|Cruz]] · [[Club for Growth]] · [[Koch Industries]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Mike Lee Master Profile|Mike Lee]] · [[_Mike Johnson Master Profile|Mike Johnson]]"
+last-enriched: "2026-04-10"
+bioguide-id: "R000614"
+issues:
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Emergency Management"
+  - "Energy"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
+  - "Immigration"
 ---
 #roy #texas #freedom-caucus #spending #border #libertarian #cruz-ally #rules-committee #judiciary #club-for-growth
 
@@ -166,6 +179,33 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 - [Ballotpedia: Chip Roy](https://ballotpedia.org/Chip_Roy) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Texas |
+| Chamber | House of Representatives |
+| Bills Sponsored | 215 |
+| Bills Cosponsored | 1180 |
+
+**Policy areas:** Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Emergency Management, Energy, Government Operations and Politics, Health, Housing and Community Development, Immigration, Law, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8236 | To direct the Secretary of the Treasury to list the Council on American-Islamic … | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 8206 | Homeland Security and Further Additional Continuing Appropriations Act, 2026 | Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 8064 | Career Criminal Accountability Act of 2026 | Referred to the House Committee on the Judiciary. |
+| 7776 | Highway Formula Fairness Act | Referred to the House Committee on Transportation and Infrastructure. |
+| — |  | On agreeing to the Roy amendment (A001) Agreed to without objection. |
+| 1057 | Providing for consideration of the bill (S. 1383) to establish the Veterans Advi… | Motion to reconsider laid on the table Agreed to without objection. |
+| 7296 | SAVE America Act | Referred to the House Committee on House Administration. |
+| — |  | On agreeing to the Roy amendment (A001) Failed by recorded vote: 163 - 257, 1 Present (Roll no. 26). |
+
+- [Source: Congress.gov](https://www.congress.gov/member/R000614) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

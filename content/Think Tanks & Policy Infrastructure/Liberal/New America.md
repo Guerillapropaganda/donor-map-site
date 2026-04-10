@@ -2,14 +2,14 @@
 title: "New America"
 type: think-tank
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 lei: "549300C6JPZKHI5YDM10"
 lei-jurisdiction: "KY"
-related: "[[Goldman Sachs]] · [[Gates Foundation]]"
+related: "[[Goldman Sachs]] · [[Gates Foundation]] · [[Brookings Institution]]"
 known-gaps:
   - "No FEC contribution data"
 sec-filings: 10000

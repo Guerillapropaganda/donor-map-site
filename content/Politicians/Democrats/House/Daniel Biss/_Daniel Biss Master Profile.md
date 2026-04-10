@@ -192,3 +192,10 @@ _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Daniel Biss](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

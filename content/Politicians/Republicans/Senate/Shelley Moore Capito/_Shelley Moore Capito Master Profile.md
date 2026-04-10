@@ -282,7 +282,7 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 - [GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-09 -->
+<!-- auto:voting-record pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -306,7 +306,7 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 
 **Sources**
 
-- ~~[Congress.gov: Shelley Moore Capito](https://www.congress.gov/member/a000383)~~ (archived - wrong bioguide ID from pipeline bug, needs correct ID on next run)
+- [Congress.gov: Shelley Moore Capito](https://www.congress.gov/member/c001091) (Tier 1)
 - [GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

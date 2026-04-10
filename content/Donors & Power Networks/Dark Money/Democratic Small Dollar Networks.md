@@ -15,7 +15,7 @@ politicians-funded:
   - "Joe Biden"
   - "Nancy Pelosi"
   - "Chuck Schumer"
-related: "[[Small Dollar Donors - ActBlue]] · [[Ohio 2026 Special Senate Election]] · [[North Carolina 2026 Senate Race]] · [[ActBlue]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Kamala Harris Master Profile|Harris]] · [[_Joe Biden Master Profile|Biden]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[MAGA Small Dollar Base]]"
+related: "[[Small Dollar Donors - ActBlue]] · [[Ohio 2026 Special Senate Election]] · [[North Carolina 2026 Senate Race]] · [[ActBlue]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Kamala Harris Master Profile|Harris]] · [[_Joe Biden Master Profile|Biden]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[MAGA Small Dollar Base]] · [[Ohio Democratic Party]]"
 ---
 #small-dollar #actblue #democratic #grassroots #progressive #fundraising #campaign-finance #winred
 

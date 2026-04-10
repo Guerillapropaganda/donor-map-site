@@ -2,7 +2,7 @@
 title: "Joseph Morelle Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,6 +24,13 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]]"
+last-enriched: "2026-04-10"
+committees:
+  - "House Committee on Appropriations"
+  - "House Committee on House Administration"
+  - "Joint Committee of Congress on the Library"
+  - "Joint Committee on Printing"
+bioguide-id: "C001091"
 ---
 #joseph-morelle #democrat #new-york #house #house-administration #voting-rights #election-security #albany-machine #assembly-leader #rochester #class-analysis #follow-the-money
 
@@ -164,3 +171,21 @@ research-status:: ready
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Appropriations
+- House Committee on House Administration
+- Joint Committee of Congress on the Library
+- Joint Committee on Printing
+
+**Subcommittees:**
+
+- Commerce, Justice, Science, and Related Agencies
+- Defense
+- Modernization and Innovation
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

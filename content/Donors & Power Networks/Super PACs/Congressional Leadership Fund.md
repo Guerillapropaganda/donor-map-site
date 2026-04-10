@@ -21,7 +21,7 @@ ein: "852656340"
 nonprofit-status: "501(c)(4)"
 total-revenue: 9647510
 total-assets: 714325
-related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving Door Explosion of 2025]] · [[American Action Network]] · [[Senate Leadership Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]]"
+related: "[[Senate Majority PAC]] · [[Mike Lawler Master Profile]] · [[The Revolving Door Explosion of 2025]] · [[American Action Network]] · [[Senate Leadership Fund]] · [[Club for Growth]] · [[Fossil Fuel Bloc]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Winning for Women PAC]]"
 opposes: "[[Kyrsten Sinema Master Profile]]"
 ---
 #donor-node #super-pac #republican #house #leadership-pac #dark-money #american-action-network #class-analysis #follow-the-money

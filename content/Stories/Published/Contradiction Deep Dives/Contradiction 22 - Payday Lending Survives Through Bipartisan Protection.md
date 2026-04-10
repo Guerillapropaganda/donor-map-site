@@ -5,7 +5,7 @@ content-readiness: raw
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
 ---
 #contradiction #payday-lending #consumer-protection #CFPB #class-analysis
 

@@ -22,7 +22,7 @@ annual-revenue: "$21.9M"
 net-assets: "$77.4M"
 tax-year: "2023"
 federal-register-mentions: 4
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - "Antitrust Division"
   - "Employment and Training Administration"
@@ -41,7 +41,7 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. California"
   - "United States Bankruptcy Court, C.D. California"
-related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CNA - California Nurses Association]] · [[Kaiser Permanente]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]]"
+related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CNA - California Nurses Association]] · [[Kaiser Permanente]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]]"
 ---
 #donor #healthcare-industry #insurance #blue-shield #california #follow-the-money #no-bid-contracts #single-payer-opponent
 

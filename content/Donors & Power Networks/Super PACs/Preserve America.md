@@ -16,7 +16,7 @@ federal-register-mentions: 489
 regulatory-agencies:
   - "Federal Highway Administration"
   - "Transportation Department"
-related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]] · [[Trump 2024 Campaign]]"
+related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]] · [[Trump 2024 Campaign]] · [[WinRed]]"
 ---
 #donor #super-pac #republican #trump #adelson #israel-lobby #casino-regulation
 

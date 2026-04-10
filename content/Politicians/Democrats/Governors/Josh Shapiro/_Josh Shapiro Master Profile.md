@@ -124,3 +124,10 @@ Josh Shapiro. Governor of Pennsylvania (2023–present). Former Pennsylvania Att
 - Reuters: Pennsylvania Catholic Church grand jury report (Tier 2)
 - StateImpact Pennsylvania: Shapiro fracking policy (Tier 2)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Josh Shapiro](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

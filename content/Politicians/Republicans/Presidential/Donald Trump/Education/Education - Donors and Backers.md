@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[_Donald Trump Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Charter Schools and the Billionaire Reform Movement]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[_Donald Trump Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]]"
 ---
 #donald-trump #education #donors #backers #devos #american-federation-for-children #walton #for-profit-colleges #charter-schools #vouchers #follow-the-money #research-node
 

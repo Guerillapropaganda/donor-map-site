@@ -2,7 +2,7 @@
 title: "Bobby Scott"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -28,6 +28,15 @@ total-received: "$135,250"
 fec-candidate-id: "H6VA01117"
 donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]]"
 related: "[[Tim Walberg]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[SEIU - Service Employees International Union|SEIU]]"
+opensanctions-status: "pep"
+opensanctions-matches: 1
+opensanctions-datasets:
+  - "ann_pep_positions"
+  - "wd_categories"
+  - "everypolitician"
+  - "wd_peps"
+  - "wikidata"
+  - "us_congress"
 ---
 #bobby-scott #democrat #virginia #house #ranking-member #education #labor #unions #phase-6-gavel-power
 
@@ -212,3 +221,19 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 - [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | Politically Exposed Person (PEP) |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Source Databases | ann_pep_positions, wd_categories, everypolitician, wd_peps, wikidata, us_congress |
+| Topics | role.pep, role.pol |
+
+**Matched records:**
+- [Bobby Scott](https://www.opensanctions.org/entities/Q888668/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Bobby%20Scott) (Tier 1)
+<!-- auto:opensanctions end -->

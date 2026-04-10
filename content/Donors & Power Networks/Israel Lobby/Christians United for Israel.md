@@ -18,7 +18,7 @@ sec-form-types:
   - "EX-99.1"
   - "FWP"
   - "PRE 14A"
-related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[JCRC Bay Area]]"
+related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]]"
 ---
 #cufi #christian-zionism #israel #evangelical #hagee #lobbying #republican
 

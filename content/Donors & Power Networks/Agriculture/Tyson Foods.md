@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Federal Maritime Commission"
   - "Food and Nutrition Service"
   - "Health and Human Services Department"
-related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]] · [[John Deere]]"
+related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]] · [[John Deere]] · [[ADM - Archer Daniels Midland]]"
 court-cases: 14521
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
@@ -47,6 +47,9 @@ court-jurisdictions:
   - "District Court, W.D. Oklahoma"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+federal-awards-total: 219988618
+federal-contracts-count: 25
+federal-grants-count: 0
 ---
 #tyson #agriculture #poultry #meatpacking #labor #arkansas #immigration
 
@@ -223,3 +226,25 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tyson%20Foods) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $220.0M |
+| Contracts (recent 3yr) | 25 ($490.1M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 1 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $29.6M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000009015/4400001627/4100026817/CHICKEN WHOLE BAGGED FRZ CTN-36 |
+| $28.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010990/4100032985/CHICKEN LARGE CHILLED -BULK |
+| $27.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010352/4100031038/CHICKEN LARGE CHILLED -BULK |
+| $26.7M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010261/4100030713/CHICKEN LARGE CHILLED -BULK |
+| $25.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011083/4100033455/CHICKEN LARGE CHILLED -BULK |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/388ab88d-74c2-54ac-19e4-cb2df60ad520-C/latest) (Tier 1)
+<!-- auto:usaspending end -->

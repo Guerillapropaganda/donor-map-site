@@ -2,7 +2,7 @@
 title: "Dan Osborn Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Independent"
@@ -20,6 +20,12 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Senate Majority PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
+total-raised: "$2,121,436"
+total-spent: "$1,608,939"
+cash-on-hand: "575663.35"
+fec-cycle: 2026
+last-enriched: "2026-04-10"
+fec-debt: "33492.00"
 ---
 #politician #independent #senate
 tags: #independent
@@ -202,3 +208,26 @@ research-status:: active
 
 - [Congress.gov: Dan Osborn](https://www.congress.gov/member/k000401) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,121,436 |
+| Total Spent | $1,608,939 |
+| Cash on Hand | 575663.35 |
+| Debt | 33492.00 |
+| Individual Contributions | $1,102,835 |
+| PAC Contributions | $40,868 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $2,121,436 | $1,608,939 | 575663.35 |
+| 2024 | $15,129,327 | $15,066,161 | 63165.92 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1)
+<!-- auto:fec-summary end -->

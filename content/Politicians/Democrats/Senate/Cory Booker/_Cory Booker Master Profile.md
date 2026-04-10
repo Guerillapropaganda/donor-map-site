@@ -10,9 +10,16 @@ chamber: "Senate"
 state: "New Jersey"
 state-abbr: "NJ"
 issues:
-  - "Healthcare"
-  - "Wall Street & Finance"
-  - "Criminal Justice"
+  - "Agriculture and Food"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Health"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Native Americans"
 top-donors:
   - "Goldman Sachs"
   - "JPMorgan Chase"
@@ -43,7 +50,8 @@ donors: "[[JB Pritzker]] · [[Mark Zuckerberg]]"
 total-received: "$26,085,174"
 fec-candidate-id: "S4NJ00185"
 internal-notes: "[URL Check 2026-04-09] 17 checked: 11 ok, 5 broken, 1 slow. | BROKEN: Congress.gov: Cory Booker member profile | BROKEN: Congress.gov: First Step Act | BROKEN: The Hill: Booker puts pause on pharma fundraising | BROKEN: Source: Senate Stock Watcher | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
+bioguide-id: "B001288"
 ---
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door
 
@@ -323,3 +331,32 @@ The development was real. The question is who benefited: corporate headquarters 
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | New Jersey |
+| Chamber | Senate |
+| Bills Sponsored | 970 |
+| Bills Cosponsored | 4125 |
+
+**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Environmental Protection, Finance and Financial Sector, Health, International Affairs, Labor and Employment, Native Americans, Taxation, Water Resources Development
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4225 | A bill to require the Secretary of Veterans Affairs to establish a pilot program… | Read twice and referred to the Committee on Veterans' Affairs. |
+| 154 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 661 | A resolution recognizing the 205th anniversary of the independence of Greece and… | Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1609; text: CR S1617-1618) |
+| 4143 | Fair Wages for Incarcerated Workers Act of 2026 | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 4136 | Sentencing Commission Improvements Act | Read twice and referred to the Committee on the Judiciary. |
+| 646 | A resolution recognizing March 14, 2026, as "Black Midwives Day" and the longsta… | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S1094-1095) |
+| 4096 | A bill to amend the Consolidated Farm and Rural Development Act to modify provis… | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
+| 4042 | Keep Your Pay Act | Read twice and referred to the Committee on Finance. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001288) (Tier 1)
+<!-- auto:congress-legislation end -->

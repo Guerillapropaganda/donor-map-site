@@ -11,10 +11,15 @@ politicians-funded:
   - "Gavin Newsom"
 issues:
   - "Israel & Foreign Policy"
-related: "[[Haim Saban]] · [[Ethnic Studies - Whose History Gets Taught]] · [[DMFI - Democratic Majority for Israel]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]] · [[Christians United for Israel]]"
+related: "[[Haim Saban]] · [[Ethnic Studies - Whose History Gets Taught]] · [[DMFI - Democratic Majority for Israel]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
+ein: "510647928"
+nonprofit-status: "501(c)(3)"
+last-enriched: "2026-04-10"
+total-revenue: 631909
+total-assets: 1038719
 ---
 #donor #israel #JCRC #pro-israel #bay-area #community-relations #donor-network #pressure-network #california
 
@@ -81,3 +86,28 @@ Israel — community relationship management, post-October 7 response, ethnic st
 
 research-status:: ready — Bay Area pro-Israel community org, Newsom staff Zoom damage control, ethnic studies reversal role, Federation/JCRC/JPAC network structure. 2 sources, Tier 1-2. All ### headers. Promoted Session 38m.
 
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 510647928 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $632K |
+| Total Assets | $1.0M |
+| NTEE Code | G30 |
+| IRS Ruling Date | 2014-05-01 |
+| Filings on Record | 6 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/510647928/2019)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/510647928) (Tier 1)
+<!-- auto:nonprofit-990 end -->

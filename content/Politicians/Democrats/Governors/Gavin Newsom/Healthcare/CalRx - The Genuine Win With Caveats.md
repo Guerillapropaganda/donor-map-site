@@ -5,7 +5,7 @@ content-readiness: raw
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Mental Health CARE Court and Forced Treatment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
+related: "[[Mental Health CARE Court and Forced Treatment]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Biden Exit and Harris Installation]]"
 ---
 #newsom #healthcare #calrx #prescription-drugs #insulin #generic-drugs #rhetoric-vs-record #genuine-win
 

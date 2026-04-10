@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Corporate Subsidies and the Business Climate Argument]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]]"
+related: "[[Corporate Subsidies and the Business Climate Argument]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]]"
 ---
 #newsom #economic-policy #budget #priorities #spending #class-analysis #california #prisons-vs-schools #follow-the-money #fiscal-policy
 

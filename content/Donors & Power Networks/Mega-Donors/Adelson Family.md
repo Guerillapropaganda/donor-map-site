@@ -2,7 +2,7 @@
 title: "Adelson Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -11,13 +11,16 @@ politicians-funded:
   - "Nikki Haley"
 issues:
   - "Israel & Foreign Policy"
-ein: 223769645
+ein: "223769645"
 annual-revenue: "$706K"
 net-assets: "$5.9M"
 tax-year: "2023"
 related: "[[Catherine Cortez Masto]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile|Trump]] · [[_Benjamin Netanyahu Master Profile|Netanyahu]] · [[_Marco Rubio Master Profile|Rubio]] · [[Preserve America]] · [[MAGA Inc]] · [[Koch Network - Charles Koch]] · [[Timothy Mellon]] · [[Haim Saban]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[UNITE HERE]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 total-political-spend: "$1,000"
+nonprofit-status: "501(c)(3)"
+total-revenue: 4067997
+total-assets: 6954685
 ---
 #donor #adelson #mega-donor #republican #israel #casino #las-vegas #sheldon #miriam #las-vegas-sands #wire-act #online-gambling #class-analysis #follow-the-money #preserve-america #anti-online-gambling
 
@@ -274,3 +277,28 @@ This concentration of funding created structural dependency: Republican leadersh
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Adelson%20Family) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 223769645 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $4.1M |
+| Total Assets | $7.0M |
+| NTEE Code | T21 |
+| IRS Ruling Date | 2001-03-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1)
+<!-- auto:nonprofit-990 end -->

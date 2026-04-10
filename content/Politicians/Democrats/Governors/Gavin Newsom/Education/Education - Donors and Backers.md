@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Economic Policy - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Universal Pre-K and Transitional Kindergarten]] · [[_Gavin Newsom Master Profile]] · [[The Education Committee and Labor Alignment]] · [[Legislative Record as Speaker]]"
+related: "[[Economic Policy - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Universal Pre-K and Transitional Kindergarten]] · [[_Gavin Newsom Master Profile]] · [[The Education Committee and Labor Alignment]] · [[Legislative Record as Speaker]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #education #donors #backers #CTA #charter-schools #billionaire-philanthropy #follow-the-money #research-node #donor-tension #class-analysis
 

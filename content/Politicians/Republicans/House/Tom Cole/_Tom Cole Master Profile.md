@@ -2,7 +2,7 @@
 title: "Tom Cole"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,8 +13,16 @@ district: "4"
 committees:
   - "Appropriations"
 issues:
-  - "Defense & Military"
-  - "Energy & Climate"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Energy"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Native Americans"
 top-donors:
   - "Boeing"
   - "Northrop Grumman"
@@ -23,7 +31,8 @@ top-donors:
 total-received: "$501,840"
 fec-candidate-id: "H2OK04055"
 related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Adam Smith]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]] · [[Heritage Foundation]]"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-10"
+bioguide-id: "C001053"
 ---
 #tom-cole #republican #oklahoma #house #committee-chair #appropriations #defense #energy #oil-gas #tribal #chickasaw #phase-6-gavel-power
 
@@ -221,3 +230,32 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 ## Voting Record
 
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Oklahoma |
+| Chamber | House of Representatives |
+| Bills Sponsored | 227 |
+| Bills Cosponsored | 3256 |
+
+**Policy areas:** Congress, Crime and Law Enforcement, Economics and Public Finance, Energy, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Labor and Employment, Native Americans, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7744 | Department of Homeland Security Appropriations Act, 2026 | Received in the Senate and Read twice and referred to the Committee on Appropriations. |
+| 7490 | Tribal Warrant Fairness Act | Referred to the House Committee on the Judiciary. |
+| 7325 | Truth and Healing Commission on Indian Boarding School Policies Act of 2026 | Referred to the Committee on Education and Workforce, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7147 | Further Additional Continuing Appropriations Act, 2026 | Message on Senate action sent to the House. |
+| 7148 | Consolidated Appropriations Act, 2026 | Became Public Law No: 119-75. |
+| 7006 | Financial Services and General Government and National Security, Department of S… | Received in the Senate. |
+| 6938 | Commerce, Justice, Science; Energy and Water Development; and Interior and Envir… | Became Public Law No: 119-74. |
+| 747 | Directing the Clerk of the House of Representatives to request the Senate to ret… | Motion to reconsider laid on the table Agreed to without objection. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001053) (Tier 1)
+<!-- auto:congress-legislation end -->

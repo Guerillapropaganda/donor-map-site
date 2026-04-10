@@ -2,7 +2,7 @@
 title: "Glenn Thompson"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,6 +18,11 @@ total-received: "$1,227,441"
 fec-candidate-id: "H8PA05071"
 donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]]"
 related: "[[John Boozman]] · [[_Donald Trump Master Profile|Trump]]"
+total-raised: "$1,227,441"
+total-spent: "$1,152,094"
+cash-on-hand: "867140.16"
+fec-cycle: 2026
+last-enriched: "2026-04-10"
 ---
 #glenn-thompson #republican #pennsylvania #house #committee-chair #agriculture #farm-bill #crop-insurance #snap #dairy #sugar #agribusiness #phase-6-gavel-power
 
@@ -189,3 +194,30 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 ### Voting Record
 
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,227,441 |
+| Total Spent | $1,152,094 |
+| Cash on Hand | 867140.16 |
+| Individual Contributions | $485,931 |
+| PAC Contributions | $652,418 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,227,441 | $1,152,094 | 867140.16 |
+| 2024 | $2,857,767 | $2,419,749 | 791793.90 |
+| 2022 | $2,692,356 | $2,431,757 | 353776.05 |
+| 2020 | $1,726,998 | $1,866,009 | 93176.62 |
+| 2018 | $1,390,787 | $1,442,650 | 232188.35 |
+| 2016 | $1,206,124 | $1,232,583 | 284051.79 |
+| ... | 4 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
+<!-- auto:fec-summary end -->

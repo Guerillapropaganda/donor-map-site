@@ -2,7 +2,7 @@
 title: "Brian Mast"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -28,6 +28,16 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[NORPAC]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]"
+opensanctions-status: "pep-sanctioned"
+opensanctions-matches: 2
+opensanctions-datasets:
+  - "wd_categories"
+  - "ann_pep_positions"
+  - "everypolitician"
+  - "wd_peps"
+  - "wikidata"
+  - "us_congress"
+  - "ru_mfa_sanctions"
 ---
 #brian-mast #republican #florida #house #committee-chair #foreign-affairs #israel #aipac #idf #military-veteran #amputee #gaza #arms-sales #sugar #phase-6-gavel-power
 
@@ -186,3 +196,21 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | PEP + Sanctioned Entity |
+| Best Match Score | 100% |
+| PEP Records | 1 |
+| Sanctions Records | 1 |
+| Source Databases | wd_categories, ann_pep_positions, everypolitician, wd_peps, wikidata, us_congress +1 more |
+| Topics | role.pep, role.pol, sanction.counter |
+
+**Matched records:**
+- [Brian Mast](https://www.opensanctions.org/entities/Q27733854/) — 100% match (wd_categories, ann_pep_positions, everypolitician)
+- [Brian Jeffery Mast](https://www.opensanctions.org/entities/ru-mfa-c245e7a7e83731e1eb236cf2f4e4ac4cf680ea8b/) — 95% match (ru_mfa_sanctions)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Brian%20Mast) (Tier 1)
+<!-- auto:opensanctions end -->

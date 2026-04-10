@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Defense & Military"
 court-cases: 35992
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, D. Oregon"
   - "District Court, D. South Carolina"
@@ -92,7 +92,11 @@ nhtsa-complaints: 0
 nonprofit-status: "501(c)(6)"
 total-revenue: 1031754
 total-assets: 589361
-related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[_Kay Granger Master Profile|Kay Granger]] · [[Mark Kelly]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Tammy Duckworth]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[L3Harris Technologies]]"
+related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[_Kay Granger Master Profile|Kay Granger]] · [[Mark Kelly]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Tammy Duckworth]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[L3Harris Technologies]] · [[Booz Allen Hamilton]]"
+wikidata-id: "Q66"
+wikipedia-url: "https://en.wikipedia.org/wiki/Boeing"
+wikipedia-extract: "The Boeing Company is an American multinational corporation that designs and manufactures airplanes, rotorcraft, rockets, satellites, and missiles worldwide."
+founded: "1916-07-15"
 ---
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
 
@@ -500,3 +504,20 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1)
 <!-- auto:nonprofit-990 end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+The Boeing Company is an American multinational corporation that designs and manufactures airplanes, rotorcraft, rockets, satellites, and missiles worldwide.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q66](https://www.wikidata.org/wiki/Q66) |
+| Description | American global aerospace and defense corporation |
+| Founded | 1916-07-15 |
+| Website | [https://boeing.com/](https://boeing.com/) |
+| X/Twitter | [@Boeing](https://x.com/Boeing) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/2004-09-14_1680x3000_chicago_boeing_building.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Boeing) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q66) (Tier 2)
+<!-- auto:wikipedia end -->

@@ -55,8 +55,8 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]]"
-ein: 464439930
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]]"
+ein: "464439930"
 annual-revenue: "$5.1M"
 net-assets: "$13.4M"
 tax-year: "2020"
@@ -87,6 +87,9 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
 lei: "3BNYRYQHD39K4LCKQF12"
 lei-jurisdiction: "US-DE"
+nonprofit-status: "501(c)(3)"
+total-revenue: 2916203
+total-assets: 1240962
 ---
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
 
@@ -444,3 +447,26 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 464439930 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $2.9M |
+| Total Assets | $1.2M |
+| IRS Ruling Date | 2014-08-01 |
+| Filings on Record | 5 |
+
+**Filing history:** 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2019)
+- [2015 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2015)
+- [2014 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2014)
+- [2013 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2013)
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1)
+<!-- auto:nonprofit-990 end -->

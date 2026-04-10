@@ -14,7 +14,11 @@ total-received: "$707,083"
 fec-candidate-id: "H2AZ01024"
 donors: "[[Patrick Soon-Shiong]] · [[Christopher Ruddy]]"
 related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
+total-raised: "$707,083"
+total-spent: "$524,237"
+cash-on-hand: "192781.00"
+fec-cycle: 1984
 ---
 
 #politician #republican #senator #presidential2008 #maverick-brand #keating-five
@@ -114,3 +118,25 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 1984 |
+| Total Raised | $707,083 |
+| Total Spent | $524,237 |
+| Cash on Hand | 192781.00 |
+| Individual Contributions | $0 |
+| PAC Contributions | $0 |
+| Coverage Through | 1984-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 1984 | $707,083 | $524,237 | 192781.00 |
+| 1982 | $454,665 | $442,760 | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1)
+<!-- auto:fec-summary end -->

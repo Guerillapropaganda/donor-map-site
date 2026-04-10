@@ -16,10 +16,10 @@ subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 1
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 regulatory-agencies:
   - Federal Trade Commission
-related: "[[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[_David Sacks Master Profile|David Sacks]] · [[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]] · [[Narya Capital and the Venture Capital Pipeline]]"
+related: "[[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[_David Sacks Master Profile|David Sacks]] · [[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Hillbilly Elegy and the Class Fraud]]"
 lobbying-spend: 1684850
 lobbying-filings: 106
 stories: >-
@@ -31,6 +31,22 @@ stories: >-
   History]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] ·
   [[The Silicon Valley Billionaire Donor Map]] · [[The Thiel Pipeline - From
   Yale to VP]]
+court-cases: 261
+court-jurisdictions:
+  - "Court of Appeals for the Fifth Circuit"
+  - "Court of Appeals for the Tenth Circuit"
+  - "District Court, D. Colorado"
+  - "District Court, D. Delaware"
+  - "District Court, D. Massachusetts"
+  - "District Court, E.D. North Carolina"
+  - "District Court, N.D. California"
+  - "District Court, N.D. Georgia"
+  - "District Court, N.D. Ohio"
+  - "District Court, N.D. Texas"
+wikidata-id: "Q705525"
+wikipedia-url: "https://en.wikipedia.org/wiki/Peter_Thiel"
+wikipedia-extract: "Peter Andreas Thiel is a German and American entrepreneur, venture capitalist, and conservative political activist."
+born: "1967-10-11"
 ---
 #donor #thiel #palantir #surveillance #paypal-mafia #class-analysis #follow-the-money #anti-democracy #dark-enlightenment #kingmaker #venture-capital #trump #vance
 
@@ -285,3 +301,38 @@ Media/free press — Gawker precedent as billionaire weapon against journalism
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 261 |
+| Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the Tenth Circuit, District Court, D. Colorado, District Court, D. Delaware, District Court, D. Massachusetts, District Court, E.D. North Carolina, District Court, N.D. California, District Court, N.D. Georgia +4 more |
+| Case Types | 02 Other (e.g. other actions that would have been brought in state court if unrelated to bankruptcy); 13 Recovery of money/property - 548 fraudulent transfer, 320 Assault Libel & Slander, 360 P.I.: Other, 440 Civil Rights: Other, 820 Copyright |
+
+**Notable cases:**
+- Goddard v. Anthropic PBC (2026) — District Court, N.D. California
+- Aaron v. Hunsicker (2026) — District Court, S.D. New York
+- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
+- Moore v. City and County of San Francisco (2025) — District Court, N.D. California
+- Gaikwad v. Hanson (2025) — District Court, D. Massachusetts
+- Taibbi v. Higgins (2025) — District Court, S.D. New York
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Peter%20Thiel%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Peter Andreas Thiel is a German and American entrepreneur, venture capitalist, and conservative political activist.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q705525](https://www.wikidata.org/wiki/Q705525) |
+| Description | German-American entrepreneur and venture capitalist (born 1967) |
+| Born | 1967-10-11 |
+| X/Twitter | [@peterthiel](https://x.com/peterthiel) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Peter_Thiel_by_Gage_Skidmore.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Peter_Thiel) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q705525) (Tier 2)
+<!-- auto:wikipedia end -->

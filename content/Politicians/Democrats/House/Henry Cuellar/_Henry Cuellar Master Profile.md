@@ -2,7 +2,7 @@
 title: "Henry Cuellar Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -28,6 +28,12 @@ bills-cosponsored: 150
 website: "https://cuellar.house.gov"
 phone: "202-225-1640"
 related: "[[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile]]"
+total-raised: "$1,189,858"
+total-spent: "$754,501"
+cash-on-hand: "483316.29"
+fec-cycle: 2026
+last-enriched: "2026-04-10"
+fec-debt: "238000.00"
 ---
 #cuellar #master-profile #house #texas #blue-dog #corruption #foreign-agent #oil-gas #pardoned #bribery
 
@@ -210,3 +216,31 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400657) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,189,858 |
+| Total Spent | $754,501 |
+| Cash on Hand | 483316.29 |
+| Debt | 238000.00 |
+| Individual Contributions | $562,160 |
+| PAC Contributions | $292,300 |
+| Coverage Through | 2026-02-11 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,189,858 | $754,501 | 483316.29 |
+| 2024 | $2,492,809 | $2,489,675 | 47958.91 |
+| 2022 | $4,711,961 | $6,217,609 | 44825.34 |
+| 2020 | $2,752,019 | $3,747,550 | 1550472.73 |
+| 2018 | $1,659,082 | $1,191,862 | 2545003.97 |
+| 2016 | $1,689,932 | $929,900 | 2077784.05 |
+| ... | 7 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2TX23082/) (Tier 1)
+<!-- auto:fec-summary end -->

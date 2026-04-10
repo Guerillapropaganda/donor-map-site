@@ -17,7 +17,7 @@ net-assets: "$34.1M"
 tax-year: "2023"
 lobbying-spend: 10479974
 lobbying-filings: 106
-related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Blue Shield of California]] · [[Haim Saban]]"
+related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Blue Shield of California]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]]"
 ---
 #donor #charter-schools #CCSA #education #privatization #billionaire-reform #class-analysis #follow-the-money #california #silicon-valley-money
 

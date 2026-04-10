@@ -50,8 +50,22 @@ sec-form-types:
   - "SC 13G"
 lei: "5493006YU7R03XUJSX56"
 lei-jurisdiction: "US-DC"
-related: "[[American Federation for Children]] · [[Project 2025 - The Blueprint They Followed]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Federalist Society]] · [[_Donald Trump Master Profile|Trump]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] · [[DeVos Family]] · [[Bradley Foundation]] · [[National Education Association]] · [[US Chamber of Commerce]]"
+related: "[[American Federation for Children]] · [[Project 2025 - The Blueprint They Followed]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Federalist Society]] · [[_Donald Trump Master Profile|Trump]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] · [[DeVos Family]] · [[Bradley Foundation]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]]"
 total-political-spend: "$1,007,158"
+federal-register-mentions: 139
+regulatory-agencies:
+  - "Commodity Futures Trading Commission"
+  - "Education Department"
+  - "Employment and Training Administration"
+  - "Energy Department"
+  - "Executive Office of the President"
+  - "Federal Communications Commission"
+  - "Federal Railroad Administration"
+  - "Federal Trade Commission"
+  - "Homeland Security Department"
+  - "Interior Department"
+lobbying-spend: 1622000
+lobbying-filings: 57
 ---
 #donor #think-tank #project-2025 #dark-money #conservative #501c3 #judicial #tax-policy #deregulation #revolving-door
 
@@ -303,3 +317,45 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Heritage%20Foundation) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 139 |
+| Final Rules | 46 |
+| Proposed Rules | 17 |
+| Notices | 75 |
+| Presidential Documents | 1 |
+| Agencies | Commodity Futures Trading Commission, Education Department, Employment and Training Administration, Energy Department, Executive Office of the President, Federal Communications Commission, Federal Railroad Administration, Federal Trade Commission +7 more |
+
+**Recent regulatory activity:**
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
+- [Protecting Against National Security Threats to the Communications Supply Chain Through the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/11/25/2025-21001/protecting-against-national-security-threats-to-the-communications-supply-chain-through-the) (2025-11-25) — Federal Communications Commission
+- [Applications for New Awards; Fund for the Improvement of Postsecondary Education-Special Projects (FIPSE-SP)](https://www.federalregister.gov/documents/2025/11/12/2025-19843/applications-for-new-awards-fund-for-the-improvement-of-postsecondary-education-special-projects) (2025-11-12) — Education Department
+- [Removal of the Automatic Extension of Employment Authorization Documents](https://www.federalregister.gov/documents/2025/10/30/2025-19702/removal-of-the-automatic-extension-of-employment-authorization-documents) (2025-10-30) — Homeland Security Department
+- [Review of Submarine Cable Landing License Rules and Procedures To Assess Evolving National Security, Law Enforcement, Foreign Policy, and Trade Policy Risks](https://www.federalregister.gov/documents/2025/10/27/2025-19658/review-of-submarine-cable-landing-license-rules-and-procedures-to-assess-evolving-national-security) (2025-10-27) — Federal Communications Commission
+- [Promoting the Integrity and Security of Telecommunications Certification Bodies, Measurement Facilities, and the Equipment Authorization Program](https://www.federalregister.gov/documents/2025/08/07/2025-14970/promoting-the-integrity-and-security-of-telecommunications-certification-bodies-measurement) (2025-08-07) — Federal Communications Commission
+- ... and 133 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heritage%20Foundation%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.6M |
+| Quarterly Filings | 57 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 16 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Arts/Entertainment, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Communications/Broadcasting/Radio/TV, Computer Industry, Constitution, Copyright/Patent/Trademark, Defense, District of Columbia, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Firearms/Guns/Ammunition, Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Immigration, Indian/Native American Affairs, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Media (information/publishing), Medicare/Medicaid, Natural Resources, Real Estate/Land Use/Conservation, Retirement, Roads/Highway, Science/Technology, Taxation/Internal Revenue Code, Telecommunications, Trade (domestic/foreign), Transportation, Travel/Tourism, Veterans, Welfare
+
+**Lobbying firms:** BOSE PUBLIC AFFAIRS GROUP, CAPITOL RESOURCES, LLC, DA VINCI GROUP, FREEMYER & ASSOCIATES P.C., HERITAGE ACTION FOR AMERICA, INTERSECT PUBLIC AFFAIRS, LLC, K&L GATES, LLP, METCALF FEDERAL RELATIONS, MICHAEL BEST STRATEGIES LLC, MORAN GLOBAL STRATEGIES, INC., NATURAL RESOURCE RESULTS LLC, RBW GROUP, LLC, RUFFALO AND ASSOCIATES, LLC, THE BERNHARDT GROUP LLC, THE DLM GROUP, WASHINGTON & MADISON, LLC
+
+**Agencies contacted:** Army, Dept of (Corps of Engineers), Bureau of Indian Affairs (BIA), Defense, Dept of (DOD), Environmental Protection Agency (EPA), HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Interior, Dept of (DOI), Justice, Dept of (DOJ), Labor, Dept of (DOL), SENATE +3 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Heritage%20Foundation) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -11,14 +11,24 @@ state: "Wisconsin"
 state-abbr: "WI"
 district: "1"
 issues:
-  - "Wall Street & Finance"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
 top-donors:
   - "Koch Network"
 total-received: "$3,443,146"
 fec-candidate-id: "H8WI01156"
 donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 related: "[[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
+bioguide-id: "S001213"
 ---
 #bryan-steil #republican #wisconsin #house #committee-chair #house-administration #election-law #voter-id #wall-street #paul-ryan #campaign-finance #fec #phase-6-gavel-power
 
@@ -182,3 +192,32 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Wisconsin |
+| Chamber | House of Representatives |
+| Bills Sponsored | 90 |
+| Bills Cosponsored | 606 |
+
+**Policy areas:** Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Native Americans, Public Lands and Natural Resources, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7300 | Make Elections Great Again Act | Referred to the Committee on House Administration, and in addition to the Committees on Oversight and Government Reform, the Judiciary, Homeland Security, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 1007 | Expressing the sense of the House of Representatives with respect to the use of … | Placed on the House Calendar, Calendar No. 67. |
+| 7008 | Stop Insider Trading Act | Placed on the Union Calendar, Calendar No. 409. |
+| 5924 | Pay Our Capitol Police Act | Referred to the House Committee on Appropriations. |
+| 5891 | Withhold Member Pay During Shutdowns Act | Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 10 - 0. |
+| 5074 | Protecting Young Minds Online Act | Referred to the House Committee on Energy and Commerce. |
+| 4735 | Business of Insurance Regulatory Reform Act of 2025 | Referred to the House Committee on Financial Services. |
+| 4430 | Expanding WKSI Eligibility Act | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S001213) (Tier 1)
+<!-- auto:congress-legislation end -->

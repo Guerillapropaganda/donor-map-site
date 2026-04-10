@@ -2,7 +2,7 @@
 title: "CalSTRS - California State Teachers' Retirement System"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -22,6 +22,17 @@ known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
 related: "[[CalPERS]] · [[National Education Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[CTA - California Teachers Association]] · [[Blackstone - Blackstone Group|Blackstone]] · [[Koch Network - Charles Koch|Koch Network]]"
+sec-filings: 245
+sec-form-types:
+  - "EX-10.1"
+  - "EX-10.2"
+  - "N-CSR"
+  - "N-CSR/A"
+  - "N-CSRS"
+  - "N-MFP"
+  - "N-MFP/A"
+  - "N-Q"
+  - "N-Q/A"
 ---
 #calstrs #pension #california #teachers #wall-street #investment #education #private-equity #fossil-fuels
 
@@ -132,3 +143,21 @@ The governance structure completes the capture. Gubernatorial appointees, electe
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 245 |
+| Form Types | EX-10.1, EX-10.2, N-CSR, N-CSR/A, N-CSRS, N-MFP, N-MFP/A, N-Q +1 more |
+
+**Notable filings:**
+
+- 2011-06-06 — **N-MFP**: N-MFP
+- 2011-04-07 — **N-MFP**: N-MFP
+- 2011-08-04 — **N-MFP**: N-MFP
+- 2011-05-06 — **N-MFP**: N-MFP
+- 2011-09-07 — **N-MFP**: N-MFP
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CalSTRS%20-%20California%20State%20Teachers'%20Retirement%20System%22) (Tier 1)
+<!-- auto:sec-edgar end -->

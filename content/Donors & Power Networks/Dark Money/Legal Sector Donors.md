@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
-related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Ocean Conservancy]]"
+related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]]"
 last-enriched: "2026-04-09"
 lobbying-spend: 7682631
 lobbying-filings: 99
@@ -53,3 +53,22 @@ The legal sector's political power extends beyond contributions: lawyers are the
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Legal%20Sector%20Donors) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Immigration** → Funds **Dick Durbin** → Sits on **Judiciary**
+
+**Funded politicians:**
+
+- [[Dick Durbin]] (Judiciary) — lobbying: $7.7M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+<!-- auto:influence-cross-ref end -->

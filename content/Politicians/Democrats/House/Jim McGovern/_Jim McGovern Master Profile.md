@@ -2,7 +2,7 @@
 title: "Jim McGovern"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,6 +19,17 @@ website: "https://mcgovern.house.gov"
 phone: "202-225-6101"
 donors: "[[National Nurses United]]"
 related: "[[_Donald Trump Master Profile|Trump]]"
+opensanctions-status: "pep-sanctioned"
+opensanctions-matches: 4
+opensanctions-datasets:
+  - "ann_pep_positions"
+  - "wd_categories"
+  - "everypolitician"
+  - "cn_sanctions"
+  - "wd_peps"
+  - "wikidata"
+  - "ru_mfa_sanctions"
+  - "us_congress"
 ---
 #jim-mcgovern #democrat #massachusetts #house #rules-committee #ranking-member #human-rights #hunger #snap #tibet #china #saudi-arms #procedural #phase-6-gavel-power
 
@@ -200,3 +211,52 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 
 - [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Jim McGovern](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
+### Sanctions & PEP Screening (OpenSanctions)
+<!-- auto:opensanctions start -->
+| Metric | Value |
+|--------|-------|
+| Status | PEP + Sanctioned Entity |
+| Best Match Score | 100% |
+| PEP Records | 3 |
+| Sanctions Records | 1 |
+| Source Databases | ann_pep_positions, wd_categories, everypolitician, cn_sanctions, wd_peps, wikidata +2 more |
+| Topics | sanction.counter, role.pol, role.pep |
+
+**Matched records:**
+- [Jim McGovern](https://www.opensanctions.org/entities/Q1337459/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+- [Jim McGovern](https://www.opensanctions.org/entities/Q1337459/) — 100% match (ann_pep_positions, wd_categories, everypolitician)
+- [Jim McGovern](https://www.opensanctions.org/entities/Q584351/) — 80% match (ann_pep_positions, wd_categories, everypolitician)
+- [James F. McGovern](https://www.opensanctions.org/entities/Q16107422/) — 77% match (wd_categories, wikidata, wd_peps)
+
+- [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Jim%20McGovern) (Tier 1)
+<!-- auto:opensanctions end -->
