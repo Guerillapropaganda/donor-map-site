@@ -26,7 +26,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-opposes: '[[HOUSE MAJORITY PAC]]'
+opposes: '[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]'
 ---
 
 
