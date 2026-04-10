@@ -76,6 +76,10 @@ export const defaultContentPageLayout: PageLayout = {
       },
     }),
     Component.ConditionalRender({
+      component: Component.ContradictionCard(),
+      condition: (page) => !!page.fileData.frontmatter?.["say-vs-pay"],
+    }),
+    Component.ConditionalRender({
       component: Component.ProfileTabs(),
       condition: isProfilePage,
     }),

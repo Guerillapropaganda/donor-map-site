@@ -1,80 +1,138 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
+// Sector → color mapping for money trail bar
+const SECTOR_COLORS: Record<string, string> = {
+  "Pharma & Healthcare": "#16a34a",
+  "Healthcare": "#16a34a",
+  "Insurance Industry": "#16a34a",
+  "Wall Street": "#fbbf24",
+  "Finance": "#fbbf24",
+  "Defense & Intelligence": "#6b7280",
+  "Tech & Crypto": "#3b82f6",
+  "Energy & Utilities": "#e63946",
+  "Mega-Donors": "#a855f7",
+  "Israel Lobby": "#f59e0b",
+  "Agriculture": "#84cc16",
+  "Real Estate": "#d97706",
+  "Labor Unions": "#1d4ed8",
+  "Dark Money": "#555",
+  "Media & Entertainment": "#a855f7",
+}
+
+function getSectorColor(sector: string): string {
+  for (const [key, color] of Object.entries(SECTOR_COLORS)) {
+    if (sector.toLowerCase().includes(key.toLowerCase())) return color
+  }
+  return "#999"
+}
+
 const EvidencePanel: QuartzComponent = ({
   fileData,
+  allFiles,
   displayClass,
 }: QuartzComponentProps) => {
   const slug = String(fileData.slug ?? "")
   const fm = fileData.frontmatter
 
-  // Skip index pages and the landing page
   if (slug === "index" || slug.endsWith("/index")) return null
-
-  // Only show on content pages that have frontmatter
   if (!fm) return null
 
   const type = String(fm?.type ?? "")
-  const readiness = String(fm?.["content-readiness"] ?? "")
-  const sourceTier = String(fm?.["source-tier"] ?? "")
-  const lastUpdated = String(fm?.["last-updated"] ?? "")
-
-  // Skip pages without a meaningful type
   if (!type || type === "unknown" || type === "undefined") return null
 
-  // Determine evidence status from content-readiness
-  let evidenceStatus = "DRAFT"
-  let evidenceClass = "ep-draft"
-  if (readiness === "verified") {
-    evidenceStatus = "VERIFIED"
-    evidenceClass = "ep-verified"
-  } else if (readiness === "publication-ready" || readiness === "ready") {
-    evidenceStatus = "SOURCED"
-    evidenceClass = "ep-sourced"
-  } else if (readiness === "in-progress") {
-    evidenceStatus = "IN PROGRESS"
-    evidenceClass = "ep-progress"
-  } else if (readiness === "raw" || readiness === "placeholder") {
-    evidenceStatus = "LIMITED SOURCES"
-    evidenceClass = "ep-limited"
-  } else if (readiness === "needs-review") {
-    evidenceStatus = "NEEDS REVIEW"
-    evidenceClass = "ep-review"
-  }
-
-  // Source tier display
-  let tierDisplay = ""
-  if (sourceTier === "1") tierDisplay = "PRIMARY SOURCES"
-  else if (sourceTier === "2") tierDisplay = "SECONDARY SOURCES"
-  else if (sourceTier === "3") tierDisplay = "TERTIARY SOURCES"
-
-  // Count sources from raw content
-  const rawContent = fileData.text ?? ""
-  const tier1Count = (rawContent.match(/\(Tier 1\)/gi) || []).length
-  const tier2Count = (rawContent.match(/\(Tier 2\)/gi) || []).length
-  const tier3Count = (rawContent.match(/\(Tier 3\)/gi) || []).length
-  const totalSources = tier1Count + tier2Count + tier3Count
-
-  // Count external URLs as fallback if no tiered sources
-  const urlCount = totalSources > 0 ? totalSources
-    : (rawContent.match(/https?:\/\/[^\s)\]]+/g) || []).length
-
-  // Type badge
+  const lastUpdated = String(fm?.["last-updated"] ?? "")
   const typeLabel = type.charAt(0).toUpperCase() + type.slice(1).replace(/-/g, " ")
 
-  // Entity subtype for donors
-  const entityType = String(fm?.["entity-type"] ?? "")
-  const sector = String(fm?.sector ?? "")
+  // Context
   const party = String(fm?.party ?? "")
   const chamber = String(fm?.chamber ?? "")
-  const state = String(fm?.["state-abbr"] ?? "")
+  const stateAbbr = String(fm?.["state-abbr"] ?? "")
+  const sector = String(fm?.sector ?? "")
+  const entityType = String(fm?.["entity-type"] ?? "")
 
-  // FEC party split data (written by fec-pipeline --write)
+  const contextParts: string[] = []
+  if (party && party !== "undefined") contextParts.push(party)
+  if (chamber && chamber !== "undefined") contextParts.push(chamber)
+  if (stateAbbr && stateAbbr !== "undefined") contextParts.push(stateAbbr)
+  if (sector && sector !== "undefined") contextParts.push(sector)
+  if (entityType && entityType !== "undefined" && entityType !== "Individual Donor") contextParts.push(entityType)
+
+  // ─── Say-vs-pay corruption headline ───
+  const svp = fm?.["say-vs-pay"] as any
+  const gapStat = svp?.["gap-stat"] ? String(svp["gap-stat"]) : ""
+
+  // ─── Connection counts ───
+  const profileTitle = String(fm?.title ?? "").toLowerCase()
+  let donorCount = 0
+  let lobbyCount = 0
+  let thinkTankCount = 0
+  let polCount = 0
+
+  // Count from frontmatter arrays
+  const topDonors = Array.isArray(fm?.["top-donors"]) ? fm["top-donors"] as string[] : []
+  const politiciansFunded = Array.isArray(fm?.["politicians-funded"]) ? fm["politicians-funded"] as string[] : []
+  const related = Array.isArray(fm?.related) ? fm.related as string[] : []
+
+  // For politicians: top-donors count = donor connections
+  if (type === "politician") {
+    donorCount = topDonors.length
+  }
+  // For donors: politicians-funded count
+  if (type === "donor" || type === "corporation" || type === "pac") {
+    polCount = politiciansFunded.length
+  }
+
+  // Count related by type using allFiles lookup
+  if (allFiles && related.length > 0) {
+    for (const rel of related) {
+      const relName = String(rel).replace(/\[\[/g, "").replace(/\]\]/g, "").split("|")[0].toLowerCase()
+      const found = allFiles.find((f) => {
+        const fSlug = (f.slug ?? "").toLowerCase()
+        return fSlug.endsWith(relName.replace(/ /g, "-")) || String(f.frontmatter?.title ?? "").toLowerCase() === relName
+      })
+      if (found) {
+        const fType = String(found.frontmatter?.type ?? "")
+        if (fType === "lobbying-firm") lobbyCount++
+        else if (fType === "think-tank") thinkTankCount++
+        else if (fType === "donor" || fType === "corporation") donorCount++
+      }
+    }
+  }
+
+  const hasConnections = donorCount > 0 || lobbyCount > 0 || thinkTankCount > 0 || polCount > 0
+
+  // ─── Money trail bar (sector breakdown for politicians) ───
+  interface SectorSegment { sector: string; color: string; pct: number }
+  const sectorSegments: SectorSegment[] = []
+
+  if (type === "politician" && topDonors.length > 0 && allFiles) {
+    const sectorCounts: Record<string, number> = {}
+    for (const donorName of topDonors) {
+      const name = String(donorName).replace(/\[\[/g, "").replace(/\]\]/g, "").split("|")[0].trim()
+      const donorFile = allFiles.find((f) =>
+        String(f.frontmatter?.title ?? "").toLowerCase() === name.toLowerCase()
+      )
+      if (donorFile) {
+        const s = String(donorFile.frontmatter?.sector ?? "Other")
+        sectorCounts[s] = (sectorCounts[s] || 0) + 1
+      }
+    }
+    const total = Object.values(sectorCounts).reduce((a, b) => a + b, 0)
+    if (total > 0) {
+      for (const [s, count] of Object.entries(sectorCounts).sort((a, b) => b[1] - a[1])) {
+        sectorSegments.push({
+          sector: s,
+          color: getSectorColor(s),
+          pct: Math.round((count / total) * 100),
+        })
+      }
+    }
+  }
+
+  // ─── FEC party split (for donors) ───
   const fecPartySplit = String(fm?.["fec-party-split"] ?? "")
   const totalPoliticalSpend = String(fm?.["total-political-spend"] ?? "")
-  const isOrgDonor = entityType === "Corporation" || entityType === "PAC"
-
-  // Parse "68% Dem / 32% Rep" → { demPct: 68, repPct: 32 }
   let demPct: number | null = null
   let repPct: number | null = null
   if (fecPartySplit) {
@@ -84,30 +142,82 @@ const EvidencePanel: QuartzComponent = ({
     if (repMatch) repPct = parseInt(repMatch[1])
   }
 
-  // Build context line
-  const contextParts: string[] = []
-  if (party && party !== "undefined") contextParts.push(party)
-  if (chamber && chamber !== "undefined") contextParts.push(chamber)
-  if (state && state !== "undefined") contextParts.push(state)
-  if (sector && sector !== "undefined") contextParts.push(sector)
-  if (entityType && entityType !== "undefined" && entityType !== "Individual Donor") contextParts.push(entityType)
-
-  // Simplified evidence panel: type + verified date only
-  // Source counts, party splits, methodology links are editorial — hidden from readers
   return (
-    <div class={classNames(displayClass, "ep-panel")} data-evidence-status={evidenceStatus.toLowerCase()}>
-      <div class="ep-row-top">
-        <div class="ep-status-group">
-          <span class="ep-type-badge">{typeLabel}</span>
+    <div class={classNames(displayClass, "signal-bar")}>
+      {/* Row 1: Corruption headline (if say-vs-pay exists) */}
+      {gapStat && (
+        <div class="signal-headline">
+          <span class="signal-headline-label">THE SIGNAL</span>
+          <span class="signal-headline-text">{gapStat}</span>
+        </div>
+      )}
+
+      {/* Row 1b: Donor signal (for donor profiles) */}
+      {!gapStat && (type === "donor" || type === "corporation") && (polCount > 0 || totalPoliticalSpend) && (
+        <div class="signal-headline">
+          <span class="signal-headline-label">THE SIGNAL</span>
+          <span class="signal-headline-text">
+            {polCount > 0 && `FUNDS ${polCount} POLITICIANS`}
+            {polCount > 0 && fecPartySplit && ` · `}
+            {fecPartySplit && fecPartySplit}
+            {totalPoliticalSpend && totalPoliticalSpend !== "undefined" && ` · ${totalPoliticalSpend} TOTAL SPEND`}
+          </span>
+        </div>
+      )}
+
+      {/* Row 2: Money trail bar (sector breakdown) */}
+      {sectorSegments.length > 0 && (
+        <div class="signal-trail">
+          <div class="signal-trail-bar">
+            {sectorSegments.map((seg) => (
+              <div
+                class="signal-segment"
+                style={{ width: `${seg.pct}%`, background: seg.color }}
+                title={`${seg.sector}: ${seg.pct}%`}
+              />
+            ))}
+          </div>
+          <div class="signal-trail-labels">
+            {sectorSegments.slice(0, 4).map((seg) => (
+              <span class="signal-trail-label" style={{ color: seg.color }}>
+                {seg.sector.replace(/ & /g, "/")} {seg.pct}%
+              </span>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Row 2b: Party split bar (for donors) */}
+      {demPct !== null && repPct !== null && (
+        <div class="signal-trail">
+          <div class="signal-trail-bar">
+            <div class="signal-segment" style={{ width: `${demPct}%`, background: "#1d4ed8" }} title={`Democrat: ${demPct}%`} />
+            <div class="signal-segment" style={{ width: `${repPct}%`, background: "#e63946" }} title={`Republican: ${repPct}%`} />
+          </div>
+        </div>
+      )}
+
+      {/* Row 3: Meta bar */}
+      <div class="signal-meta">
+        <div class="signal-meta-left">
+          <span class="signal-type-badge">{typeLabel}</span>
           {contextParts.length > 0 && (
-            <span class="ep-context">{contextParts.join(" · ")}</span>
+            <span class="signal-context">{contextParts.join(" · ")}</span>
+          )}
+          {hasConnections && (
+            <span class="signal-counts">
+              {donorCount > 0 && <span class="signal-count">{donorCount} donors</span>}
+              {lobbyCount > 0 && <span class="signal-count">{lobbyCount} lobbyists</span>}
+              {thinkTankCount > 0 && <span class="signal-count">{thinkTankCount} think tanks</span>}
+              {polCount > 0 && <span class="signal-count">{polCount} politicians</span>}
+            </span>
           )}
         </div>
-        <div class="ep-right">
+        <div class="signal-meta-right">
           {lastUpdated && lastUpdated !== "undefined" && (
-            <span class="ep-updated">UPDATED {lastUpdated}</span>
+            <span class="signal-updated">UPDATED {lastUpdated}</span>
           )}
-          <a href="/About-The-Donor-Map" class="ep-verify-link">HOW WE VERIFY →</a>
+          <a href="/About-The-Donor-Map" class="signal-verify-link">HOW WE VERIFY →</a>
         </div>
       </div>
     </div>
@@ -116,29 +226,91 @@ const EvidencePanel: QuartzComponent = ({
 
 EvidencePanel.css = `
 /* ═══════════════════════════════════════════════
-   EVIDENCE PANEL — Simplified: type + date only
+   SIGNAL BAR — The gut-punch at the top
    ═══════════════════════════════════════════════ */
 
-.ep-panel {
-  border-bottom: 1px solid #ddd;
-  padding: 0 0 12px 0;
+.signal-bar {
   margin-bottom: 20px;
   font-family: 'Space Mono', monospace;
 }
 
-.ep-row-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.ep-status-group {
+/* ── Row 1: Corruption headline ── */
+.signal-headline {
+  background: #0a0a0a;
+  padding: 12px 16px;
+  margin-bottom: 8px;
   display: flex;
   align-items: center;
   gap: 12px;
 }
 
-.ep-type-badge {
+.signal-headline-label {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #fbbf24;
+  white-space: nowrap;
+}
+
+.signal-headline-text {
+  font-size: 12px;
+  font-weight: 700;
+  color: #f5f0eb;
+  letter-spacing: 0.5px;
+}
+
+/* ── Row 2: Money trail bar ── */
+.signal-trail {
+  margin-bottom: 8px;
+}
+
+.signal-trail-bar {
+  display: flex;
+  height: 8px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.signal-segment {
+  min-width: 2px;
+  transition: width 0.3s ease;
+}
+
+.signal-trail-labels {
+  display: flex;
+  gap: 12px;
+  margin-top: 4px;
+}
+
+.signal-trail-label {
+  font-size: 9px;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+/* ── Row 3: Meta bar ── */
+.signal-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.signal-meta-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.signal-meta-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.signal-type-badge {
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -146,28 +318,38 @@ EvidencePanel.css = `
   color: #0a0a0a;
   padding: 4px 12px;
   background: #fbbf24;
-  border: none;
 }
 
-.ep-context {
+.signal-context {
   font-size: 10px;
   letter-spacing: 1px;
   color: #999;
 }
 
-.ep-right {
+.signal-counts {
   display: flex;
-  align-items: center;
-  gap: 16px;
+  gap: 8px;
 }
 
-.ep-updated {
+.signal-count {
+  font-size: 10px;
+  color: #555;
+  letter-spacing: 0.5px;
+}
+
+.signal-count::before {
+  content: '·';
+  margin-right: 8px;
+  color: #ddd;
+}
+
+.signal-updated {
   font-size: 10px;
   letter-spacing: 1px;
   color: #999;
 }
 
-.ep-verify-link {
+.signal-verify-link {
   font-size: 10px;
   font-weight: 700;
   letter-spacing: 1.5px;
@@ -177,173 +359,27 @@ EvidencePanel.css = `
   padding-bottom: 1px;
 }
 
-.ep-verify-link:hover {
+.signal-verify-link:hover {
   color: #fbbf24 !important;
 }
 
-.ep-row-bottom {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.ep-source-counts {
-  display: flex;
-  gap: 6px;
-  flex-wrap: wrap;
-}
-
-.ep-source-badge {
-  font-size: 10px;
-  font-weight: 600;
-  letter-spacing: 0.5px;
-  padding: 2px 8px;
-  border-radius: 0;
-}
-
-.ep-source-primary {
-  color: #16a34a;
-  background: rgba(34, 197, 94, 0.08);
-}
-
-.ep-source-secondary {
-  color: #0a0a0a;
-  background: rgba(91, 141, 206, 0.08);
-}
-
-.ep-source-tertiary {
-  color: #777;
-  background: rgba(161, 161, 170, 0.08);
-}
-
-.ep-source-none {
-  color: #e63946;
-  background: rgba(239, 68, 68, 0.08);
-}
-
-.ep-context {
-  font-size: 10px;
-  letter-spacing: 1px;
-  color: #8a8a96;
-}
-
-.ep-methodology-link {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 1.2px;
-  color: #0a0a0a;
-  text-decoration: none;
-  padding: 2px 8px;
-  border: 1px solid rgba(91, 141, 206, 0.25);
-  border-radius: 0;
-  background: rgba(91, 141, 206, 0.06);
-  white-space: nowrap;
-  transition: all 0.15s ease;
-  margin-left: auto;
-}
-
-.ep-methodology-link:hover {
-  background: rgba(91, 141, 206, 0.15);
-  border-color: rgba(91, 141, 206, 0.5);
-  color: #7ba4de;
-}
-
-/* FEC Party Split Row */
-.ep-fec-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  margin-top: 10px;
-  padding-top: 10px;
-  border-top: 1px solid #ddd;
-  flex-wrap: wrap;
-}
-
-.ep-spend-label {
-  font-size: 10px;
-  color: #999;
-  letter-spacing: 0.5px;
-  white-space: nowrap;
-}
-
-.ep-spend-amount {
-  color: #fbbf24;
-  font-weight: 700;
-}
-
-.ep-party-split {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  flex: 1;
-  min-width: 160px;
-}
-
-.ep-split-label {
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 1.5px;
-  color: #8a8a96;
-  white-space: nowrap;
-}
-
-.ep-split-bar {
-  display: flex;
-  flex: 1;
-  height: 16px;
-  border-radius: 0;
-  overflow: hidden;
-  background: #ddd;
-}
-
-.ep-split-dem {
-  background: #3b72b8;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 2px;
-  transition: width 0.3s ease;
-}
-
-.ep-split-rep {
-  background: #b83b3b;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 2px;
-  transition: width 0.3s ease;
-}
-
-.ep-split-pct {
-  font-size: 10px;
-  font-weight: 700;
-  color: rgba(255,255,255,0.9);
-  letter-spacing: 0.5px;
-  padding: 0 4px;
-}
-
-/* Mobile */
+/* ── Mobile ── */
 @media (max-width: 800px) {
-  .ep-panel {
-    padding: 10px 12px;
-  }
-
-  .ep-row-top, .ep-row-bottom {
+  .signal-headline {
     flex-direction: column;
     align-items: flex-start;
-    gap: 6px;
+    gap: 4px;
   }
 
-  .ep-fec-row {
+  .signal-meta {
     flex-direction: column;
     align-items: flex-start;
+    gap: 8px;
   }
 
-  .ep-party-split {
-    width: 100%;
+  .signal-trail-labels {
+    flex-wrap: wrap;
+    gap: 8px;
   }
 }
 `
