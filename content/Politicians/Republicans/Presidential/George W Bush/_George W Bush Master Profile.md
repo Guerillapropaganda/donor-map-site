@@ -21,6 +21,7 @@ presidential-memoranda: 131
 proclamations: 942
 last-enriched: '2026-04-08'
 opposes: '[[DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE]]'
+donors: '[[REPUBLICAN NATIONAL COMMITTEE]]'
 ---
 
 #politician #republican #president #2001-2009 #bush-administration #iraq-war #texas-governor
