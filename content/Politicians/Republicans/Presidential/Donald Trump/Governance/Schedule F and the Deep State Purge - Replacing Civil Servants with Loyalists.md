@@ -16,7 +16,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #donald-trump #governance #schedule-f #civil-service #deep-state #loyalty-test #administrative-state #project-2025 #follow-the-money
 
 related: [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]]
@@ -150,8 +149,4 @@ content-readiness:: ready
 <!-- auto:ofac-sdn end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

@@ -18,7 +18,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #neil-gorsuch #scotus #stolen-seat #leonard-leo #federalist-society #mcconnell #deregulation #chevron #anne-gorsuch-burford #class-analysis
 
 related: [[Leonard Leo]] · [[_John Roberts Master Profile]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[Koch Network - Charles Koch]]
@@ -153,8 +152,4 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

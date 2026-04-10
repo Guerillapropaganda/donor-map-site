@@ -188,17 +188,6 @@ profile-status:: ready
 content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -215,8 +204,4 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Virginia Foxx](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

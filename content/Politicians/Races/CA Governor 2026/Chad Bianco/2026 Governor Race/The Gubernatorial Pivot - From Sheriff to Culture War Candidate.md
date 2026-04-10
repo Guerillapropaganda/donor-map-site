@@ -12,7 +12,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #bianco #governor #2026 #california #republican #class-analysis #culture-war #trump #campaign #follow-the-money #gubernatorial
 
 related: [[_Chad Bianco Master Profile]] | [[COVID Mandate Refusal - The Brand-Building Moment]] | [[287(g) and the Sanctuary State Contradiction]] | [[Oath Keepers Membership and the Constitutional Sheriff Movement]]
@@ -122,8 +121,4 @@ A Bianco governorship would test whether the constitutional sheriff doctrine can
 content-readiness:: ready
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: The Gubernatorial Pivot - From Sheriff to Culture War Candidate](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

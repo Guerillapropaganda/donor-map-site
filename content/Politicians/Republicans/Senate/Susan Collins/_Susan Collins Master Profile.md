@@ -34,7 +34,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #susan-collins #senate #maine #moderate #kavanaugh #private-equity #corporate-pacs #class-analysis
 
 related: [[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]]
@@ -148,17 +147,6 @@ $200 million total spending — the most expensive in Maine history:
 content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:congress-legislation end -->
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -224,8 +212,4 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

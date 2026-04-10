@@ -146,7 +146,6 @@ The flag removal is the clearest example in Haley's record of a moment that was 
 >
 > **UN Ambassador as AIPAC delivery mechanism:** Haley's UN record (14 vetoes, Human Rights Council withdrawal, embassy move support) represents the Israel lobby's most complete capture of a UN Ambassador in history. The sequence runs: AIPAC donor access → UN Ambassador role → UN policy becomes AIPAC priority checklist.
 
-
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Haley's corporate tax positions are real donor victories for her Wall Street funding base, but stop short of eliminating corporate taxation entirely. Her policy wins advance capital-aligned interests without comprehensive tax system restructuring.
@@ -234,8 +233,4 @@ content-readiness:: ready
 <!-- auto:doj-press end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Nikki Haley](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

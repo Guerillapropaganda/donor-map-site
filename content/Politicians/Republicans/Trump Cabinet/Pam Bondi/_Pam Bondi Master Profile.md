@@ -17,7 +17,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #pam-bondi #trump-cabinet #attorney-general #doj #trump-university #qatar #lobbying #pay-to-play #class-analysis
 
 related: [[_Donald Trump Master Profile]]
@@ -139,11 +138,6 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 **March 2026 — NJ US Attorney Appointment Ruled Illegal:** A federal judge ruled Bondi violated federal law when she replaced the interim NJ US attorney with a "triumvirate" of attorneys — calling it an illegal attempt to circumvent the constitutional appointment process. Ongoing pattern of Bondi treating the DOJ's structural rules as obstacles to executive control.
 - [Democracy Docket: Judge disqualifies 'triumvirate' leading NJ US attorney's office](https://www.democracydocket.com/news-alerts/judge-disqualifies-new-jersey-us-attorneys-office-trio/) (Tier 2)
 content-readiness:: ready
- 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Pam Bondi](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

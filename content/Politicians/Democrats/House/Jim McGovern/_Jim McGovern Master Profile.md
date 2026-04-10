@@ -20,7 +20,6 @@ phone: "202-225-6101"
 donors: "[[National Nurses United]]"
 ---
 
-
 #jim-mcgovern #democrat #massachusetts #house #rules-committee #ranking-member #human-rights #hunger #snap #tibet #china #saudi-arms #procedural #phase-6-gavel-power
 
 related: [[_Donald Trump Master Profile|Trump]]
@@ -148,17 +147,6 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -193,11 +181,6 @@ content-readiness:: ready
 <!-- auto:govtrack end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ## Voting Record
 <!-- auto:voting-record start -->

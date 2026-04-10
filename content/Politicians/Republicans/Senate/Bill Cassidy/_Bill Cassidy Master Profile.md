@@ -24,7 +24,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #bill-cassidy #senate #louisiana #physician #petrochemical #fossil-fuel #impeachment #bipartisan #class-analysis
 
 related: [[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · Bipartisan Infrastructure Group
@@ -151,7 +150,6 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 - [19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/) (Tier 2)
 - [U.S. Senator Bill Cassidy: Bipartisan group introduces nation's first comprehensive CO2 infrastructure bill](https://www.cassidy.senate.gov/newsroom/press-releases/bipartisan-group-introduces-nations-first-comprehensive-co2-infrastructure-bill/) (Tier 1)
 content-readiness:: ready
- 
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -168,8 +166,4 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Bill Cassidy](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

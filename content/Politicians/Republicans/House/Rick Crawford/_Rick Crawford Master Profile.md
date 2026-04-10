@@ -28,7 +28,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #rick-crawford #republican #arkansas #house #chairman #intelligence #agriculture #ukraine #fisa #tiktok #trump-loyalty #farm-bill #rice #surveillance #phase-6-gavel-power
 
 related: [[_Donald Trump Master Profile|Trump]]
@@ -194,8 +193,4 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Rick Crawford](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

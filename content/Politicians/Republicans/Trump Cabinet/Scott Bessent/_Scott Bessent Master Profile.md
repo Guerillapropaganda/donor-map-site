@@ -20,7 +20,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #scott-bessent #treasury-secretary #trump-cabinet #hedge-fund #soros #wall-street #deregulation #class-analysis
 
 related: [[_Donald Trump Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]] · [[_Chuck Schumer Master Profile]] · [[Elon Musk|Elon Musk - Tesla SpaceX X]]
@@ -156,11 +155,6 @@ Bessent holds $250K–$500K in iShares Bitcoin Trust ETF and has positioned Trea
 - [Fortune: Treasury to oversee $180B in defaulted student loans](https://fortune.com/2026/03/20/scott-bessent-treasury-department-student-debt-loans-management/) (Tier 2)
 - [Bloomberg: Bessent flags potential oil reserve release](https://www.bloomberg.com/news/articles/2026-03-19/bessent-flags-potential-reserve-release-no-market-intervention) (Tier 2)
 content-readiness:: ready
- 
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

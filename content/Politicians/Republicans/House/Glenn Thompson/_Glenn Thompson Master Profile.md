@@ -20,7 +20,6 @@ donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Sh
 related: "[[John Boozman]]"
 ---
 
-
 #glenn-thompson #republican #pennsylvania #house #committee-chair #agriculture #farm-bill #crop-insurance #snap #dairy #sugar #agribusiness #phase-6-gavel-power
 
 related: [[_Donald Trump Master Profile|Trump]]
@@ -196,8 +195,4 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Glenn Thompson](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

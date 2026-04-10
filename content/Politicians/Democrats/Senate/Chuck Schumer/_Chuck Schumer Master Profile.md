@@ -27,7 +27,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #chuck-schumer #senate #majority-leader #new-york #wall-street #aipac #dark-money #class-analysis
 
 related: [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[_Benjamin Netanyahu Master Profile]] · [[_Nancy Pelosi Master Profile]]
@@ -261,8 +260,4 @@ research-status:: ready — Full citation pass complete. $10.4M Wall Street care
 conte
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Chuck Schumer](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

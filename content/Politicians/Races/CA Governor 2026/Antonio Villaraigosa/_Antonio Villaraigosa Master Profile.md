@@ -22,7 +22,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #antonio-villaraigosa #california #governor-2026 #real-estate #la-machine #development-friendly #class-analysis
 
 related: [[California Building and Construction Trades Council]] · [[California Apartment Association]] · [[Charter Schools and the Billionaire Reform Movement]] · [[_Gavin Newsom Master Profile]]
@@ -183,8 +182,4 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

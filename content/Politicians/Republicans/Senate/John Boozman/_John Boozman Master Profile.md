@@ -21,7 +21,6 @@ donors: "[[Walmart - Walton Family]] · [[Tyson Foods]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
 ---
 
-
 #john-boozman #republican #arkansas #senate #committee-chair #agriculture #appropriations #tyson-foods #poultry #meatpacking #farm-bill #snap #crop-insurance #phase-6-gavel-power
 
 related: [[_Glenn Thompson Master Profile|Glenn Thompson]] [[_Donald Trump Master Profile|Trump]]
@@ -150,16 +149,6 @@ This is the Arkansas agricultural-industrial complex made senator. Boozman doesn
 content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

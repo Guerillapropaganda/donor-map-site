@@ -34,7 +34,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #amy-coney-barrett #scotus #dark-money #leonard-leo #federalist-society #people-of-praise #dobbs #class-analysis #follow-the-money
 
 related: [[_Brett Kavanaugh Master Profile]] [[_Samuel Alito Master Profile]] [[_Clarence Thomas Master Profile]] [[Leonard Leo]] [[_Mitch McConnell Master Profile]]
@@ -145,7 +144,6 @@ Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 5
 - [SCOTUSblog: Tuesday round-up - The confirmation of Amy Coney Barrett](https://www.scotusblog.com/2020/10/tuesday-round-up-the-confirmation-of-amy-coney-barrett/) (Tier 2)
 - [Brennan Center: Dark Money in Judicial Confirmations](https://www.brennancenter.org/topics/money-politics/influence-big-money/dark-money) (Tier 2)
 content-readiness:: ready
- 
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -182,8 +180,4 @@ content-readiness:: ready
 <!-- auto:doj-press end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Amy Coney Barrett](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

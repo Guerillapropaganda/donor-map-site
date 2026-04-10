@@ -21,7 +21,6 @@ known-gaps:
   - No mapped relationships
 ---
 
-
 #jb-pritzker #democrat #governor #illinois #hyatt #billionaire #self-funded #2028 #class-analysis
 
 related: [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]]
@@ -127,8 +126,4 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 content-readiness:: ready
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: JB Pritzker](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

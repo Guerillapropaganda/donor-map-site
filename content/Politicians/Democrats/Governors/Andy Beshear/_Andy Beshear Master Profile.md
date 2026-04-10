@@ -16,7 +16,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #andy-beshear #democrat #governor #kentucky #red-state #political-dynasty #2028 #class-analysis
 
 related: [[_Kamala Harris Master Profile]]
@@ -117,8 +116,4 @@ Andy Beshear. Governor of Kentucky (2019–present). Son of Steve Beshear (61st 
 content-readiness:: ready
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Andy Beshear](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

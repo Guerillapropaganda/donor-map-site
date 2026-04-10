@@ -13,7 +13,6 @@ source-types:
   - Congress
 ---
 
-
 #trump #DOGE #elon-musk #class-analysis #follow-the-money #administrative-state #deregulation #conflict-of-interest #federal-workforce
 
 related: [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]
@@ -181,8 +180,4 @@ content-readiness:: ready
 - [CNN: DOGE cuts hamper US war readiness](https://www.cnn.com/2026/03/10/politics/doge-government-spending-cuts-iran-war) (Tier 2)
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: DOGE - The Billionaires Government](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

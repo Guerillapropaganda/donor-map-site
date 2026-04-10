@@ -140,17 +140,6 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

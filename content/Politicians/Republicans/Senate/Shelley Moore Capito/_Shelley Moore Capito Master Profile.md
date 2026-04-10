@@ -313,7 +313,7 @@ content-readiness:: ready
 
 **Sources**
 
-- [Congress.gov: Shelley Moore Capito](https://www.congress.gov/member/a000383) (Tier 1)
+- ~~[Congress.gov: Shelley Moore Capito](https://www.congress.gov/member/a000383)~~ (archived - wrong bioguide ID from pipeline bug, needs correct ID on next run)
 - [GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

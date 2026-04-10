@@ -26,7 +26,6 @@ doj-components:
   - "USAO - New Jersey"
 ---
 
-
 #donald-trump #media #propaganda #fox-news #murdoch #donors #in-kind-contribution #follow-the-money #research-node
 
 related: [[Media and Propaganda - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Trump Donor Network - The Full Map]]
@@ -203,18 +202,8 @@ The democratization of information through digital platforms promised to solve t
 content-readiness:: ready
 
 ### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: The Fox News Pipeline - How Media Money Shaped the MAGA Machine](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

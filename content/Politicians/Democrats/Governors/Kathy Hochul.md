@@ -93,12 +93,4 @@ profile-status:: ready
 content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->

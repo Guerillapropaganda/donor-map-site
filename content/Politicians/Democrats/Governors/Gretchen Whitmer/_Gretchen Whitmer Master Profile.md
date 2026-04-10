@@ -31,7 +31,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #gretchen-whitmer #michigan #governor #democrat #auto-industry #ev-subsidies #2028-presidential #class-analysis
 
 related: [[_Pete Buttigieg Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[United Auto Workers]] · [[Koch Network - Charles Koch]] · [[General Motors]] · [[Ford Motor Company]]
@@ -175,8 +174,4 @@ content-readiness:: ready
 <!-- auto:doj-press end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Gretchen Whitmer](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

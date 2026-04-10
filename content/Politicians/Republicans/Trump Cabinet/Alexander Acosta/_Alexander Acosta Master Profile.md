@@ -31,7 +31,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #alexander-acosta #labor-secretary #epstein #plea-deal #trump-cabinet #class-analysis #revolving-door
 
 related: [[_Donald Trump Master Profile]] · [[Jeffrey Epstein Network|Jeffrey Epstein]] · [[Leonard Leo]] · [[Federalist Society]]
@@ -199,8 +198,4 @@ profile-status:: developed — Epstein NPA documented (53-page indictment abando
 <!-- auto:doj-press end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

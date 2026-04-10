@@ -8,7 +8,6 @@ parent: null
 related: "[[The Contractor Beneficiaries - Who Replaced the Civil Servants]]"
 ---
 
-
 #donald-trump #doge #federal-workforce #class-analysis #follow-the-money #schedule-f #probationary #fork-in-the-road #usaid #cfpb #social-security #veterans
 
 related: [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[The NLRB Gutting and the Biggest Union Bust in American History]]
@@ -114,21 +113,6 @@ The positions that were cut were not abstract "bureaucracy." They were food safe
 research-status:: Workforce totals from GAO, Federal News Network, and Challenger Gray. Agency cuts from individual agency reporting and congressional testimony. Schedule F from executive order text. Union responses from AFGE, NTEU, NFFE press releases and court filings. Remaining. Specific probationary employee numbers by agency, court injunction case numbers and outcomes, SSA processing time impact data, VA wait time increase figures.
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

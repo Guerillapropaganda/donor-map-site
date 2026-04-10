@@ -28,7 +28,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #aoc #alexandria-ocasio-cortez #house #new-york #bronx #small-dollar #green-new-deal #dsa #progressive #class-analysis #squad
 
 related:: [[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]]
@@ -143,7 +142,6 @@ Without corporate donor dependency, AOC's policy positions are structurally unco
 >
 > **$0 fossil fuel → Green New Deal.** $0 AIPAC → ceasefire votes. $0 pharma → M4A co-sponsorship. $0 crypto → anti-deregulation votes. The correlation works in reverse and is complete across every sector. The donor data predicts the vote — the donor is just different.
 
-
 ## Rhetorical Signature Moves
 
 1. **The lived experience anchor:** AOC regularly deploys her bartender-to-Congress story as class credentials. This is authentic in origin but has become a rhetorical device that insulates her from elite criticism while her institutional position evolves.
@@ -238,14 +236,8 @@ Sources: [FEC: Ocasio-Cortez](https://www.fec.gov/data/candidate/H8NY15148/) (Ti
 
 ---
 content-readiness:: ready
- 
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

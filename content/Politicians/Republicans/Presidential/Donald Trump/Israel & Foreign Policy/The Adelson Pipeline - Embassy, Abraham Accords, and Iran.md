@@ -13,7 +13,6 @@ source-types:
   - Congress
 ---
 
-
 #donald-trump #israel #adelson #miriam-adelson #aipac #jerusalem #abraham-accords #iran #jcpoa #soleimani #saudi-arabia #kushner #class-analysis #follow-the-money
 
 related: [[_Donald Trump Master Profile]] · [[_Marco Rubio Master Profile]]
@@ -128,8 +127,4 @@ The spending created a structural veto over Middle East policy debate in Congres
 research-status:: Adelson donation timeline documented from FEC. Abraham Accords from State Department records. Kushner Saudi deal from NYT investigation. Iran war spending from DOD budget documents. AIPAC 2024 cycle from OpenSecrets. Miriam Adelson West Bank sovereignty reporting needs additional sourcing. Iran war casualty and scope data still developing as of March 2026.
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: The Adelson Pipeline - Embassy, Abraham Accords, and Iran](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

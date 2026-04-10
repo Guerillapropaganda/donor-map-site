@@ -37,7 +37,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #eric-swalwell #california #governor-2026 #cable-news #hollywood #[[SEIU - Service Employees International Union|SEIU]] #east-bay #class-analysis
 
 related: [[SEIU - Service Employees International Union]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Gavin Newsom Master Profile]] · [[California Nurses Association]]
@@ -213,15 +212,6 @@ content-readiness:: ready
 <!-- auto:doj-press end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Eric Swalwell](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

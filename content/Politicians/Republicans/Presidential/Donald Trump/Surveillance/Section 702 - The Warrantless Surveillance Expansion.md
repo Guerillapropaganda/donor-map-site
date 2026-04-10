@@ -8,7 +8,6 @@ parent: null
 related: "[[Signalgate - The Yemen Strike Chat and the Security Theater]]"
 ---
 
-
 #donald-trump #surveillance #section-702 #fisa #nsa #warrantless #class-analysis #follow-the-money #privacy #tech
 
 related: [[The Palantir State - Surveillance as Policy]] · [[_Donald Trump Master Profile]] · [[Peter Thiel]]
@@ -83,21 +82,6 @@ The surveillance expansion serves the defense contractor and tech donor class di
 research-status:: Vote counts from congressional records and NPR. Trump position shifts from social media posts and NPR. Tech company compliance from transparency reports. FISA Court violations from declassified opinions. Palantir connection from USASpending.gov. Remaining. Specific intelligence agency budget allocations for 702 collection, defense contractor lobbying specifically for surveillance authority, complete list of warrant amendment vote.
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

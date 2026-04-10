@@ -125,30 +125,6 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 <!-- auto:fec-politician end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2018-08-23 | H.R. 6157: Department of Defense Appropriations Act, 2019 | **Not Voting** | Bill Passed |
-| 2018-08-23 | S.Amdt. 3967 (Paul) to H.R. 6157: To prohibit Federal funds being made available to a prohibited entity. | **Not Voting** | Amendment Rejected |
-| 2018-08-23 | Motion to Invoke Cloture Amdt. No. 3695 to H. R. 6157 | **Not Voting** | Cloture Motion Agreed to |
-| 2018-08-21 | S.Amdt. 3703 (Kennedy) to H.R. 6157: To increase funding for the National Suicide Prevention Lifeline. | **Not Voting** | Amendment Agreed to |
-| 2018-08-21 | S.Amdt. 3773 (Nelson) to H.R. 6157: To require a Comptroller General of the United States report on the implementation o | **Not Voting** | Amendment Agreed to |
-| 2018-08-20 | S.Amdt. 3706 (Fischer) to H.R. 6157: To appropriate an additional $10,000,000 for Operation and Maintenance, Defense-Wid | **Not Voting** | Amendment Agreed to |
-| 2018-08-20 | S.Amdt. 3705 (Menéndez) to H.R. 6157: To provide funding for the Firefighter Cancer Registry Act of 2018. | **Not Voting** | Amendment Agreed to |
-| 2018-08-16 | On the Nomination PN1897: Julius Ness Richardson, of South Carolina, to be United States Circuit Judge for the Fourth Ci | **Not Voting** | Nomination Confirmed |
-| 2018-08-16 | Motion to Invoke Cloture: Julius Ness Richardson, of South Carolina, to be U.S. Circuit Court Judge for the Fourth Circu | **Not Voting** | Cloture Motion Agreed to |
-| 2018-08-16 | On the Nomination PN1895: A. Marvin Quattlebaum, Jr., of South Carolina, to be United States Circuit Judge for the Fourt | **Not Voting** | Nomination Confirmed |
-| 2018-08-15 | Motion to Invoke Cloture: A. Marvin Quattlebaum, Jr. to be U.S. Circuit Judge for the Fourth Circuit: A. Marvin Quattleb | **Not Voting** | Cloture Motion Agreed to |
-| 2018-08-01 | H.R. 5515: John S. McCain National Defense Authorization Act for Fiscal Year 2019 | **Not Voting** | Conference Report Agreed to |
-| 2018-08-01 | H.R. 6147: Interior, Environment, Financial Services, and General Government Appropriations Act, 2019 | **Not Voting** | Bill Passed |
-| 2018-08-01 | S.Amdt. 3524 (Baldwin) to H.R. 6147: To appropriate funds to carry out programs relating to the innovation, process impr | **Not Voting** | Amendment Agreed to |
-| 2018-08-01 | S.Amdt. 3522 (Lee) to H.R. 6147: To prohibit the use of funds to enforce standards of identity with respect to certain f | **Not Voting** | Amendment Rejected |
-
-**Sources**
-
-- [Congress.gov: John McCain](https://www.congress.gov/member/a000383) (Tier 1)
-- [GovTrack: John McCain](https://www.govtrack.us/congress/members/300071) (Tier 1)
-<!-- auto:voting-record end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

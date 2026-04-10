@@ -17,7 +17,6 @@ leadership-roles:
 donors: "[[Tech Industry]] · [[Booz Allen Hamilton]]"
 ---
 
-
 #gerry-connolly #democrat #virginia #house #oversight #ranking-member #federal-workforce #government-contractors #FITARA #IT-modernization #doge #deceased #phase-6-gavel-power
 
 related: [[_Donald Trump Master Profile|Trump]]
@@ -142,8 +141,4 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 content-readiness:: ready
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Gerry Connolly](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

@@ -34,7 +34,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #mitch-mcconnell #senate #minority-leader #kentucky #koch #dark-money #citizens-united #judicial-pipeline #class-analysis
 
 related: [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]]
@@ -292,8 +291,4 @@ profile-status:: ready — Dark money gatekeeper role documented ($3B+ coordinat
 <!-- auto:voting-record end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

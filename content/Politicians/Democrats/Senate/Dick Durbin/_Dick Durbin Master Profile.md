@@ -205,8 +205,4 @@ profile-status:: developed
 content-readiness:: developed
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Dick Durbin](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

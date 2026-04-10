@@ -25,7 +25,6 @@ donors: '[[National Nurses United]]'
 opposes: '[[AMERICANS FOR TAX REFORM]]'
 ---
 
-
 #raul-grijalva #democrat #arizona #house #ranking-member #natural-resources #public-lands #environment #mining #indigenous #progressive-caucus #deceased #phase-6-gavel-power
 
 related: [[_Bruce Westerman Master Profile|Bruce Westerman]]
@@ -183,17 +182,6 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

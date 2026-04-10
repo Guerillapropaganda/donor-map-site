@@ -25,7 +25,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #abdul-el-sayed #michigan #senate #2026 #progressive #medicare-for-all #bernie-endorsed #small-dollar #class-analysis
 
 related: [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Mallory McMorrow Master Profile|Mallory McMorrow]] · Progressive Primary Challenge Model
@@ -177,7 +176,6 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 - [Abdul El-Sayed, MD, DPhil - Paul & Daisy Soros Fellowships for New Americans](https://pdsoros.org/fellows/abdul-el-sayed/) (Tier 1) (VERIFIED)
 
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -219,21 +217,6 @@ content-readiness:: ready
 <!-- auto:ofac-sdn end -->
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

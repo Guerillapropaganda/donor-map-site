@@ -8,7 +8,6 @@ parent: null
 related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]]"
 ---
 
-
 #donald-trump #judicial #leonard-leo #federalist-society #scotus #gorsuch #kavanaugh #barrett #mcconnell #garland #dark-money #chevron #dobbs #class-analysis #follow-the-money
 
 related: [[_Donald Trump Master Profile]] · [[_Neil Gorsuch Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]] · [[Judicial Crisis Network]]
@@ -145,19 +144,6 @@ The lower courts matter because the Supreme Court hears approximately 70 cases p
 research-status:: Appointment counts from Federal Judicial Center and Ballotpedia. Confirmation votes from Senate records. Leo network funding from ProPublica and CREW. JCN spending from SourceWatch and Documented. Rulings from SCOTUSblog. Circuit flip data from Courthouse News. Second term appointment demographics from Balls and Strikes. $1.6B Seid donation documented from multiple Tier 2 sources.
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

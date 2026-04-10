@@ -46,7 +46,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #mike-johnson #republican #speaker #house #louisiana #aipac #adf #election-denial #religious-right #class-analysis #follow-the-money
 
 related: [[_Donald Trump Master Profile]] [[Leonard Leo]] [[Peter Thiel]] [[AIPAC - American Israel Public Affairs Committee]]
@@ -123,7 +122,6 @@ Mike Johnson. Speaker of the House (October 2023–present). Representative for 
 >
 > **Project 2025 alignment:** Heritage Foundation/Koch network investment in Johnson's career → Speaker uses gavel to advance Heritage priority list. Johnson's speakership is the institutional delivery mechanism for the donor-class agenda compiled in Project 2025.
 
-
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Johnson's Heritage Foundation/Project 2025 policy victories (Medicare work requirements, DEI elimination, EPA rollback) are real regulatory accomplishments benefiting the Koch donor network, but stop short of threatening AIPAC's Israel funding priorities or fossil fuel subsidies. His policy wins serve the deregulatory coalition without threatening the military-industrial complex that funds him.
@@ -155,17 +153,6 @@ Mike Johnson. Speaker of the House (October 2023–present). Representative for 
 content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

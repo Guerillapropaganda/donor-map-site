@@ -39,7 +39,6 @@ doj-components:
   - "USAO - Michigan, Western"
 ---
 
-
 #harris #master-profile #vice-president #president #democrat #class-analysis #follow-the-money #california #prosecutor #labor #donor-class #2024 #tech #hollywood #silicon-valley
 
 related: [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[California Labor Federation]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]]
@@ -279,8 +278,4 @@ content-readiness:: ready
 <!-- auto:doj-press end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Kamala Harris](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

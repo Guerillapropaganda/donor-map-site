@@ -45,7 +45,6 @@ bills-sponsored: 0
 bills-cosponsored: 0
 ---
 
-
 #mchenry #master-profile #house #north-carolina #financial-services #crypto #revolving-door #wall-street #fit21
 
 related: [[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]
@@ -198,7 +197,6 @@ When questioned about consumer harm or fraud risk, McHenry invoked "free market 
 
 profile-status:: ready
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -236,11 +234,6 @@ content-readiness:: ready
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press start -->

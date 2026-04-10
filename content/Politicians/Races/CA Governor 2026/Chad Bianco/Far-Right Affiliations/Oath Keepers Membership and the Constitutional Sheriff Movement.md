@@ -8,7 +8,6 @@ parent: null
 related: "[[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]"
 ---
 
-
 #bianco #oath-keepers #far-right #militia #constitutional-sheriff #class-analysis #follow-the-money #extremism #posse-comitatus #january-6
 
 related: [[_Chad Bianco Master Profile]] | [[CSPOA - The Anti-Government Sheriff Network]] | [[COVID Mandate Refusal - The Brand-Building Moment]] | [[RSA - The Single-Patron Sheriff]]
@@ -116,14 +115,4 @@ Bianco is the most prominent California example. He is also the one running for 
 content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Congress | 119th |
-| Party | Republican |
-| State | Oklahoma |
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
 
-- [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
-<!-- auto:congress-legislation end -->

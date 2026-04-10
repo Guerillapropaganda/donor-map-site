@@ -36,7 +36,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #mallory-mcmorrow #michigan #senate #2026 #progressive #viral-politics #warren-endorsed #national-fundraising #class-analysis
 
 related: [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Abdul El-Sayed Master Profile]] · [[Viral Moment Pipeline and National Fundraising]]
@@ -255,7 +254,6 @@ The Michigan primary cannot tell us which path McMorrow will follow. But it can 
 - [Mallory McMorrow - Wikipedia](https://en.wikipedia.org/wiki/Mallory_McMorrow) (Tier 3)
 
 content-readiness:: ready
- 
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -298,8 +296,4 @@ content-readiness:: ready
 <!-- auto:doj-press end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->

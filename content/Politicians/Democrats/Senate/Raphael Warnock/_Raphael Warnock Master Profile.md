@@ -31,7 +31,6 @@ opposes: >-
   [[NRSC]]
 ---
 
-
 #raphael-warnock #senate #georgia #mlk #ebenezer-baptist #moral-authority #fundraising #corporate-democrat #class-analysis
 
 related: [[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]]
@@ -231,11 +230,6 @@ This is the corporate-democrat template: use moral authority language ("everyone
 content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -28,7 +28,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #rand-paul #senate #kentucky #libertarian #koch-network #ukraine #class-analysis #isolationism
 
 related: [[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · _Ron Paul · [[_Donald Trump Master Profile]]
@@ -144,7 +143,6 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 >
 > **The Koch abandonment:** Koch Network pulling support in 2016 after Paul's presidential failure is the clearest demonstration of Koch donor logic — investment is conditional on political performance. Ideology is secondary to viability.
 
-
 ## Rhetorical Signature Moves
 
 1. **The principle stand:** Paul frames every obstruction as a principled stand for liberty or fiscal responsibility. The $40 billion Ukraine blockade was "I just want oversight." The Medicaid opposition is "government dependency destroys freedom." The principle framing makes donor-serving positions sound like conscience votes.
@@ -201,11 +199,6 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ## Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found for the 119th Congress._
-
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
-<!-- auto:committee-assignments end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -91,8 +91,4 @@ profile-status:: ready
 content-readiness:: ready
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Brian Kemp](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->

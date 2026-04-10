@@ -26,7 +26,6 @@ known-gaps:
   - "No mapped relationships"
 ---
 
-
 #marco-rubio #secretary-of-state #florida #sugar-industry #defense-contractors #class-analysis #follow-the-money #cuba #venezuela #fanjul #gang-of-eight #immigration-flip #hawkish #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #little-marco
 
 related: [[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Rick Scott Master Profile|Rick Scott]] · [[_Maria Elvira Salazar Master Profile|Salazar]]
@@ -112,7 +111,6 @@ Miami auto dealer Norman Braman was Rubio's major early backer — during the 20
 >
 > **Norman Braman $10M → $0 presidential return:** Miami's most prominent political donor bet $10M on Rubio's presidential viability. Rubio lost his home state by 19 points. The investment reveals the limits of donor capital when candidate quality is insufficient — but also how a single Miami donor could fund an entire presidential campaign.
 
-
 ### The 2026 Cuba Blockade — The Policy Executed
 
 In January 2026, Rubio's career-long Cuba hawkishness became operational policy. Trump's January 29 executive order declared a national emergency; Joint Task Force Southern Spear interdicted fuel shipments; Cuba's power grid collapsed March 16. As Secretary of State, Rubio manages the policy that his sugar, defense, and exile donor base funded for two decades.
@@ -173,8 +171,4 @@ content-readiness:: ready
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Marco Rubio](https://www.congress.gov/member/a000383) (Tier 1)
-<!-- auto:voting-record end -->
