@@ -2,7 +2,7 @@
 title: Kyrsten Sinema Master Profile
 type: politician
 content-readiness: draft
-last-updated: '2026-04-09'
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: Independent
@@ -22,7 +22,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-opposes: '[[DEFENDARIZONA]]'
+opposes: '[[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]]'
 ---
 
 
