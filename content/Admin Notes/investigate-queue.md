@@ -10,7 +10,7 @@ related: "[[QVT Financial]]"
 
 # Investigation Queue
 
-37 relationships queued for Research Claude. **2 PRIORITY** (David flagged). 35 standard (auto-queued from approvals).
+38 relationships queued for Research Claude. **2 PRIORITY** (David flagged). 36 standard (auto-queued from approvals).
 
 ## PRIORITY (David flagged)
 
@@ -28,6 +28,11 @@ related: "[[QVT Financial]]"
 - **ID**: `NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND::Kyrsten Sinema Master Profile::donors`
 
 ## Standard (approved relationships)
+
+### OPPORTUNITY MATTERS FUND, INC. → Ashley Hinson Master Profile
+- **Type**: donors
+- **Flagged**: 4/10/2026
+- **ID**: `OPPORTUNITY MATTERS FUND, INC.::Ashley Hinson Master Profile::donors`
 
 ### DCCC → Ashley Hinson Master Profile
 - **Type**: opposes
