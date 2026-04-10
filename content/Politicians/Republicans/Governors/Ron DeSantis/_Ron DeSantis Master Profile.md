@@ -25,7 +25,7 @@ known-gaps:
   - No mapped relationships
 executive-actions: 25
 last-enriched: '2026-04-09'
-opposes: '[[SFA FUND, INC]]'
+opposes: '[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]'
 ---
 
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028
