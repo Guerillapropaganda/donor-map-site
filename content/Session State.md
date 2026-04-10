@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-10
+last-updated: 2026-04-09
 ---
 
 # Session State
@@ -12,88 +12,55 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-10 (profile AHA redesign, signal bar, contradiction card, 5 polish touches, site-wide heading fix)
+Date: 2026-04-09 (Ops app professional polish + suggestions system + contradiction detection)
 
-Done:
-- **Profile page AHA redesign** — 3 phases implemented:
-  - Phase 1: `ContradictionCard.tsx` — new server-rendered component. Split card above tabs showing passed/blocked legislation + top donors + yellow verdict bar. Reads `say-vs-pay` frontmatter. Registered in `index.ts` and `quartz.layout.ts`.
-  - Phase 2: `ProfileHeader.tsx` — added position line ("House Democrat from California"), thesis extraction (grabs Central Thesis paragraph, displays in serif italic), removed TIER/READY badges.
-  - Phase 3: `EvidencePanel.tsx` rewritten as Signal Bar — corruption headline ("THE SIGNAL" + gap-stat), money trail bar (colored segments by donor sector), party split bar (for donors), connection counts, "FUNDS BOTH SIDES" badge, type badge + context + date + HOW WE VERIFY link.
-- **5 AHA polish touches** — all in `ProfileHeader.tsx`:
-  1. Total Raised counter (red monospace next to badges: "$1.6B", "$534,492")
-  2. Both Sides badge (yellow, on donors funding both parties via politicians-funded lookup or fec-party-split)
-  3. Key stat pullout (big number: bills sponsored or politicians funded)
-  4. Source count dot (green 8+, yellow 3-7, red <3)
-  5. Top donors ticker (horizontal line: "TOP DONORS AIPAC · Goldman Sachs · PhRMA")
-- **Trump profile tabs fixed** — h3 sections promoted to h2 (12 headings). Tabs now work.
-- **229 profiles fixed site-wide** — `### → ##` heading promotion for 1,959 headings across 229 Master Profile files. All profiles now have proper tab support.
-- **Search overlay reskin** — `search.scss` rewritten. Dark blurred backdrop, yellow focus ring on input, yellow hover on results, no border-radius, Space Mono font.
-- **Build error fixed** — `demPct` variable used before initialization in EvidencePanel. Moved FEC party split parsing before Both Sides detection.
-- **GitHub Actions restored** — deploy workflow running successfully. Live site deploying.
-- **Removed renderSayVsPay** from ProfileHeader afterDOMLoaded (moved to server-side ContradictionCard).
+Done (Suggestions System):
+- **Suggestions API** (`ops/src/app/api/suggestions/route.ts`) — GET with server-side filtering/pagination/search + POST handling 8 action types (approve, reject, defer, investigate, uninvestigate, undo, note)
+- **Approve writes to vault** via gray-matter. Empty sourcePath (FEC-IE PACs) writes to target profile instead.
+- **Undo reverses vault writes**. Per-card notepad. Priority research flag (manual=urgent, approve=normal auto-queue).
+- **Pending/All/History toggle**, history stats, search box, compact mode, bulk select + batch actions.
+- **New Profiles: Flag for Research** on unnamed entities.
+- **Partisan flow fix** — opposes now shows attacker's alignment, not target's.
+- **Contradiction detection** (`scripts/relationship-discovery.cjs`) — same entity funds AND opposes same candidate. 4 cards, 2 pairs (NRA + National Right to Life hedging on Bush).
+- **Contradiction UI** — yellow star badge + "BOTH SIDES" banner with amounts/ratio.
+- **Vault Rules Section 3** — Contradiction Detection spec with role assignments.
+
+Done (Ops App Polish):
+- **ToastProvider** (`ops/src/components/ToastProvider.tsx`) — global toast system with success/error/warning/info types, auto-dismiss, stack up to 3, slide-in animation. Wrapped in `ClientProviders.tsx`.
+- **Sidebar badges** (`ops/src/components/Sidebar.tsx`) — live count badges polling `/api/status` every 60s. Red on Alerts (critical count), amber on Notes (open count), green on Relationships (high pending suggestions).
+- **GET /api/status** (`ops/src/app/api/status/route.ts`) — lightweight endpoint returning alert/notes/suggestions/pipeline counts for sidebar badges.
+- **Dashboard overhaul** (`ops/src/app/page.tsx`) — Quick Actions row (Run Scan, Check URLs, Enrich Profiles, View Alerts), Vault Health circular gauge with verified/draft/raw breakdown, unified Activity Feed with actor colors and type filters.
+- **GET /api/activity** (`ops/src/app/api/activity/route.ts`) — aggregates git commits + suggestion actions + URL triages into unified feed with actor detection (David/Code Claude/Pipeline).
+- **Alerts upgrade** (`ops/src/app/alerts/page.tsx`) — sorted by severity then affected count, resolve/unresolve per alert (localStorage), show-resolved toggle, auto-refresh toggle (5min), full affected profiles list (no truncation).
+- **Editor upgrade** (`ops/src/app/editor/page.tsx`) — inline Add Field form replaces prompt(), unsaved changes beforeunload warning, duplicate field detection.
+- **Pipelines grid** (`ops/src/app/pipelines/page.tsx`) — 8 pipeline cards (FEC, Congress, GovTrack, LobbyView, Committee, Relationships, Federal Register, USASpending) with emoji icons, descriptions, hover-to-reveal Run buttons.
+- **Breadcrumbs** (`ops/src/components/Breadcrumbs.tsx`) — reusable component built, not yet wired to individual pages.
 
 Known issues:
-- Only Nancy Pelosi has say-vs-pay data — ContradictionCard shows on 1 profile. Need Research Claude to add data across top profiles.
-- Mobile layout not yet polished for new Signal Bar, ContradictionCard, ProfileHeader elements.
-- Interactive pages (Power Rankings, Issue Explorer, etc) still have some faint contrast issues.
+- Breadcrumbs component built but not wired to pages yet.
+- ToastProvider built but individual pages still use inline showToast (migration pending).
+- Scanner LOW noise still high (8,000+ wikilink mentions).
+- Only 2 contradiction pairs found (both Bush). More will surface as vault grows.
 
 Next session priorities:
-1. **Mobile polish** — test Signal Bar, ContradictionCard, ProfileHeader on 375px viewport. Fix responsive issues.
-2. **Say-vs-pay data system** — build template/guide for Research Claude to add contradiction data to top 20-50 profiles.
-3. **Interactive pages contrast** — audit Power Rankings, Issue Explorer, Who Funds Your Rep for faint text/borders.
-4. **Policy page interactive** — new page showing policy → donor money → blocked legislation pipeline. Needs planning session.
-5. **Turn off construction mode** — flip the flag when ready to launch new design.
-6. Continue A+ reviews.
-7. Fix congress pipeline (engine).
+1. **Wire breadcrumbs** to all Ops pages + migrate pages to use global useToast()
+2. **Tune scanner** — reduce LOW noise from wikilink-mention strategy (8K+ results)
+3. **Build contradiction markers for website** — split-color graph lines, asterisk on profile widgets
+4. **Add relationship discovery rules to Ops Rules tab**
+5. **Test all profile types after design reskin** — politician, donor, corporation, think tank
+6. **Turn off construction mode** when GitHub Actions re-enabled
 
 ---
 
 ## Previous Session
-Claude: Code
-Date: 2026-04-09 (marathon — brutalist design system, site-wide reskin, profile polish, auto-link script)
+Claude: Code + Research
+Date: 2026-04-09 (Ops polish run + congress pipeline fix + Cori Bush A+ review)
 
 Done:
-- **Brutalist prototypes** — v2 (dark) and v3 (light/cream, approved). Prototype server at localhost:8096.
-- **Design System doc** — `content/Design System.md`. Full rules: hybrid light/dark, colors, typography, components, animations, decisions log.
-- **Construction page live** — brutalist cream bg, yellow highlight "Follow the Money.", 655,172x teaser. Deployed to thedonormap.org.
-- **Landing page v3 ported to Quartz** — full rewrite of `LandingPage.tsx`. 6 sections: hero, receipt, connection board, split cards, state lookup, explore grid. Client JS for ticker, scroll reveals, connection board animation, state lookup.
-- **ROOT FIX: quartz.config.ts theme colors** — was the source of ALL color inconsistencies. CSS variables (--dark, --light, etc) were inverted from old dark theme. Now correct: light=#f5f0eb, dark=#0a0a0a, secondary=#e63946, tertiary=#fbbf24.
-- **Site-wide CSS reskin** — custom.scss fully swapped. 288+ lines. All dark colors → light equivalents.
-- **29 component files reskinned** — bulk color swap across all TSX components. 650 lines.
-- **Profile page yellow accents** — H2 yellow left borders, article title yellow underline, active tab yellow indicator, type badge yellow bg, section card yellow borders, callout borders, wikilinks get yellow underline.
-- **Evidence panel simplified** — shows only: yellow POLITICIAN badge + context + UPDATED date + HOW WE VERIFY link.
-- **Profile header simplified** — removed TIER 1 and READY badges. Party dot + type only.
-- **Both sidebars light** — header also light. Dark reserved for graph/data viz only.
-- **Graph widget** — dark bg, legend hidden in compact view, filter buttons colored by category (green donors, blue politicians, purple media, yellow think tanks, grey K Street, red opposition).
-- **Footer restyled** — cream bg, black top border, yellow column labels.
-- **Bold text yellow underline** — all `article strong` gets yellow highlight. Fixed mobile override that was forcing near-white.
-- **Internal wikilinks yellow underline** — ALL `a.internal` links get yellow underline + hover grows highlight. Consistent across linked and bold-linked names.
-- **Auto-link script** — `scripts/link-unlinked-names.cjs`. Found 16,261 unlinked names, fixed 1,330 across 238 files. Names that match profiles now properly wikilinked.
-- **4 Claude Code skills** — /deploy, /session-save, /design-audit, /preflight. In both .claude/commands/ and ~/.claude/skills/.
-- **Removed fade-in-on-scroll animation** — felt like loading, not design.
-- **GitHub Actions still disabled** — David contacted support, waiting.
-
-Known issues:
-- Trump profile missing tabs (ProfileTabs not triggering — likely a heading structure issue)
-- Some profiles may still have unlinked names the script missed (conservative matching)
-- Network graph node colors could be more readable on dark bg
-- Profile page structure is still "database entry" — needs AHA moment redesign
-
-Profile page redesign direction (agreed with David):
-- **Beat 1: The Signal** — corruption signal bar at top (took $X from Y, voted against Z), money trail bar (colored sectors), connection count
-- **Beat 2: The Profile** — name + one-line class position + central thesis in serif italic
-- **Beat 3: The Contradiction** — split-card from homepage style (what they say vs who pays), front and center
-- **Beat 4: The Money Map** — visual donor blocks sized by amount, colored by sector
-- **Beat 5: The Evidence** — tabs for deep readers (voting, committees, sources). Below the fold. Casual visitors already got the story from Beats 1-3.
-- Key principle: AHA moments on the profile landing, tabs separate dense data so it doesn't cluster. Homepage energy but for individual profiles.
-
-Next session priorities:
-1. **Profile page AHA redesign** — implement Beats 1-3 (signal bar, profile header, contradiction card). This is the big one.
-2. **Fix Trump profile tabs** — investigate why ProfileTabs don't trigger on that profile
-3. **Money trail bar component** — visual sector breakdown under profile name
-4. **Test on live site** when GitHub Actions re-enabled
-5. Continue A+ reviews
-6. Fix congress pipeline (engine)
+- Ops polish run COMPLETE (10/10 items audited). Key fixes: 46 bioguide URLs archived, 7 bogus IDs removed, search focus bug fixed, connection count flash fixed, mobile responsive tabs.
+- Congress/committee/govtrack pipeline fixes (all-congresses default, bioguide-first lookup).
+- Cori Bush promoted to A+ verified.
+- Relationship Discovery Engine: scanner built (7 strategies, 11,735 suggestions), Vault Rules Section 3, suggestions UI with filters/meters/pagination, transparency scores, partisan flow, dollar magnitude.
 
 ---
 
