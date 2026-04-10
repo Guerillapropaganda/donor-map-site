@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 ---
 
 # Session State
@@ -12,51 +12,39 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-09 (Suggestions system complete + contradiction detection)
+Date: 2026-04-10 (profile AHA redesign, signal bar, contradiction card, 5 polish touches, site-wide heading fix)
 
 Done:
-- **Suggestions API built from scratch** (`ops/src/app/api/suggestions/route.ts`) — GET with server-side filtering/pagination/search + POST handling 8 action types (approve, reject, defer, investigate, uninvestigate, undo, note)
-- **Suggestions scan API** (`ops/src/app/api/suggestions/scan/route.ts`) — triggers `scripts/relationship-discovery.cjs` from Ops UI
-- **Approve writes to vault** — adds `[[target]]` wikilink to profile frontmatter/body via gray-matter. When source has no vault file (FEC-IE PACs), writes to target profile instead. Stores sourcePath/targetTitle/relationshipType for undo.
-- **Undo reverses vault writes** — removes wikilink from profile, clears action from suggestion-actions.json
-- **Per-card notepad** — inline text input on every suggestion card, blur/Enter saves to `ops/data/suggestion-notes.json`, note badge on card header
-- **Priority research flag** — checkbox on each card. Manual flag = urgent priority. Approve auto-queues at normal priority. Writes to `ops/data/investigate-queue.json` + auto-generates `content/Admin Notes/investigate-queue.md` split into PRIORITY and Standard sections.
-- **Pending/All/History toggle** — replaced boolean checkbox with 3-way filter. History view shows acted-on cards with date + undo button.
-- **History stats** — "X approved, Y rejected, Z deferred" in suggestions header
-- **Search box** — debounced server-side name filter across source/target in 12K+ suggestions
-- **Compact mode** — toggle hides transparency/partisan meters + reasoning for fast triage
-- **Bulk select + batch actions** — checkboxes on pending cards, batch approve/reject/defer bar
-- **New Profiles: Flag for Research** — hover unnamed entities (PhRMA, Raytheon, Jeff Yass etc), click to send to Research Claude queue as urgent
-- **Partisan flow fix** — opposes connections now show attacker's party alignment, not target's. Patriots Prevail PAC (Dem) opposing Hawley (GOP) was showing "GOP-Aligned", now correctly shows "Dem-Aligned".
-- **Empty sourcePath fix** — FEC-IE PAC suggestions with no vault file were crashing with "EISDIR: illegal operation on a directory". Now writes to target profile instead.
-- **Contradiction detection** (`scripts/relationship-discovery.cjs`) — scanner flags when same committee has both Support > $100K and Oppose > $100K for same candidate. Found 4 contradiction cards across 2 pairs: NRA Political Victory Fund + National Right to Life PAC, both hedging on George W. Bush.
-- **Contradiction UI** — yellow star CONTRADICTION badge on card headers + detailed "BOTH SIDES" banner showing this-side amount, counterpart amount, total influence, and ratio.
-- **Vault Rules Section 3 updated** — added Contradiction Detection spec with role assignments for Code Claude and Research Claude. Contradictions are priority for class analysis.
-- **Memory saved** — `project_contradictions.md` for future sessions.
+- **Profile page AHA redesign** — 3 phases implemented:
+  - Phase 1: `ContradictionCard.tsx` — new server-rendered component. Split card above tabs showing passed/blocked legislation + top donors + yellow verdict bar. Reads `say-vs-pay` frontmatter. Registered in `index.ts` and `quartz.layout.ts`.
+  - Phase 2: `ProfileHeader.tsx` — added position line ("House Democrat from California"), thesis extraction (grabs Central Thesis paragraph, displays in serif italic), removed TIER/READY badges.
+  - Phase 3: `EvidencePanel.tsx` rewritten as Signal Bar — corruption headline ("THE SIGNAL" + gap-stat), money trail bar (colored segments by donor sector), party split bar (for donors), connection counts, "FUNDS BOTH SIDES" badge, type badge + context + date + HOW WE VERIFY link.
+- **5 AHA polish touches** — all in `ProfileHeader.tsx`:
+  1. Total Raised counter (red monospace next to badges: "$1.6B", "$534,492")
+  2. Both Sides badge (yellow, on donors funding both parties via politicians-funded lookup or fec-party-split)
+  3. Key stat pullout (big number: bills sponsored or politicians funded)
+  4. Source count dot (green 8+, yellow 3-7, red <3)
+  5. Top donors ticker (horizontal line: "TOP DONORS AIPAC · Goldman Sachs · PhRMA")
+- **Trump profile tabs fixed** — h3 sections promoted to h2 (12 headings). Tabs now work.
+- **229 profiles fixed site-wide** — `### → ##` heading promotion for 1,959 headings across 229 Master Profile files. All profiles now have proper tab support.
+- **Search overlay reskin** — `search.scss` rewritten. Dark blurred backdrop, yellow focus ring on input, yellow hover on results, no border-radius, Space Mono font.
+- **Build error fixed** — `demPct` variable used before initialization in EvidencePanel. Moved FEC party split parsing before Both Sides detection.
+- **GitHub Actions restored** — deploy workflow running successfully. Live site deploying.
+- **Removed renderSayVsPay** from ProfileHeader afterDOMLoaded (moved to server-side ContradictionCard).
 
 Known issues:
-- Only 2 contradiction pairs found (both Bush). More will surface as vault grows.
-- Relationship discovery rules not yet added to Ops Rules tab.
-- Scanner LOW noise still high (8,000+ wikilink mentions).
+- Only Nancy Pelosi has say-vs-pay data — ContradictionCard shows on 1 profile. Need Research Claude to add data across top profiles.
+- Mobile layout not yet polished for new Signal Bar, ContradictionCard, ProfileHeader elements.
+- Interactive pages (Power Rankings, Issue Explorer, etc) still have some faint contrast issues.
 
 Next session priorities:
-1. **Add relationship discovery rules to Ops Rules tab** — Section 3 from Vault Rules should display in Ops
-2. **Tune scanner** — reduce LOW noise from wikilink-mention strategy (8K+ results)
-3. **Build contradiction markers for website** — split-color graph lines, asterisk on profile widgets, power rankings, landing page split cards
-4. **Test all profile types after design reskin** — politician, donor, corporation, think tank colors/readability
-5. **Turn off construction mode** when GitHub Actions re-enabled
-
----
-
-## Previous Session
-Claude: Code + Research
-Date: 2026-04-09 (Ops polish run + congress pipeline fix + Cori Bush A+ review)
-
-Done:
-- Ops polish run COMPLETE (10/10 items audited). Key fixes: 46 bioguide URLs archived, 7 bogus IDs removed, search focus bug fixed, connection count flash fixed, mobile responsive tabs.
-- Congress/committee/govtrack pipeline fixes (all-congresses default, bioguide-first lookup).
-- Cori Bush promoted to A+ verified.
-- Relationship Discovery Engine: scanner built (7 strategies, 11,735 suggestions), Vault Rules Section 3, suggestions UI with filters/meters/pagination, transparency scores, partisan flow, dollar magnitude.
+1. **Mobile polish** — test Signal Bar, ContradictionCard, ProfileHeader on 375px viewport. Fix responsive issues.
+2. **Say-vs-pay data system** — build template/guide for Research Claude to add contradiction data to top 20-50 profiles.
+3. **Interactive pages contrast** — audit Power Rankings, Issue Explorer, Who Funds Your Rep for faint text/borders.
+4. **Policy page interactive** — new page showing policy → donor money → blocked legislation pipeline. Needs planning session.
+5. **Turn off construction mode** — flip the flag when ready to launch new design.
+6. Continue A+ reviews.
+7. Fix congress pipeline (engine).
 
 ---
 
