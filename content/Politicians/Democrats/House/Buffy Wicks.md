@@ -89,8 +89,5 @@ Wicks represents the current iteration of procedural gatekeeping: a progressive-
 - ~~[FollowTheMoney.org: Buffy Wicks Campaign Finance](https://www.followthemoney.org/tools/election-overview?eid=44493619)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Ballotpedia: Buffy Wicks](https://ballotpedia.org/Buffy_Wicks) (Tier 2)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Committee Assignments (Congress.gov)
 

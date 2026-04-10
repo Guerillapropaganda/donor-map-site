@@ -13,8 +13,6 @@ related: "[[_Howard Lutnick Master Profile]] · [[_Scott Bessent Master Profile]
 
 donors: [[Elon Musk]]
 
-content-readiness:: ready
-
 ---
 
 ### The Transition Pipeline and the $21 Million Buy-In

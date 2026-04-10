@@ -147,7 +147,6 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 ---
 
 research-status:: draft — Financial profile, valuation history, contract awards, lobbying data, and political connections documented. Gaps: detailed lobbying issue breakdown, Palmer Luckey individual donation records (FEC API needed), Thiel network mapping, complete contract list, Arsenal-1 factory details, revenue projections by contract. FEC API available for Luckey donation records.
-content-readiness:: draft
 
 ---
 

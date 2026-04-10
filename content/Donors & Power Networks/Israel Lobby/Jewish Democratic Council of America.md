@@ -73,7 +73,6 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 
 ---
 
-`content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

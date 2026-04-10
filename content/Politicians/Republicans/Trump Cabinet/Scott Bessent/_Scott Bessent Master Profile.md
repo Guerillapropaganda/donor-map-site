@@ -24,8 +24,6 @@ related: "[[_Donald Trump Master Profile]] · [[Goldman Sachs]] · [[The Wall St
 
 donors: [[Goldman Sachs]] · [[Elon Musk]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -153,7 +151,6 @@ Bessent holds $250K–$500K in iShares Bitcoin Trust ETF and has positioned Trea
 
 - [Fortune: Treasury to oversee $180B in defaulted student loans](https://fortune.com/2026/03/20/scott-bessent-treasury-department-student-debt-loans-management/) (Tier 2)
 - [Bloomberg: Bessent flags potential oil reserve release](https://www.bloomberg.com/news/articles/2026-03-19/bessent-flags-potential-reserve-release-no-market-intervention) (Tier 2)
-content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
 

@@ -309,4 +309,3 @@ The third file covers the national federation (distinct). The first two cover th
 
 ---
 
-content-readiness:: ready

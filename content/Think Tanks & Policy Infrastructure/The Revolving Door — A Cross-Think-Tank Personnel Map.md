@@ -14,7 +14,6 @@ known-gaps:
 
 #think-tank #cross-comparison #revolving-door #class-analysis #personnel #policy-pipeline #regulatory-capture
 
-
 ---
 
 ### The Argument
@@ -259,5 +258,3 @@ The clearest evidence: across 35 revolving door movements tracked here, spanning
 - [Quincy Institute: Think Tank Funding and U.S. Foreign Policy](https://responsiblestatecraft.org/2020/05/20/think-tank-funding-and-u-s-foreign-policy/) *(source unavailable)* (Tier 2)
 
 ---
-
-content-readiness:: ready

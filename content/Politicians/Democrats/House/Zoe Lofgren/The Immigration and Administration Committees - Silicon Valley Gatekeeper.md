@@ -42,4 +42,3 @@ Lofgren's district contains both Silicon Valley tech campuses and large Latino i
 - [FEC Candidate: Zoe Lofgren campaign finance summary](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
 - [Ballotpedia: Zoe Lofgren](https://ballotpedia.org/Zoe_Lofgren) (Tier 3)
 
-content-readiness:: ready

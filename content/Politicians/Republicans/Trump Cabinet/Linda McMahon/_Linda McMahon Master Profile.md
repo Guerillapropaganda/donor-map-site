@@ -30,8 +30,6 @@ related: "[[_Donald Trump Master Profile]] · [[_Howard Lutnick Master Profile]]
 
 donors: [[MAGA Inc]] · Trump Victory Fund · [[America First Policy Institute]] · Connecticut GOP · [[US CHAMBER OF COMMERCE]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -123,7 +121,6 @@ Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World
 - [Inside Philanthropy: AFPI funding and Trump administration ties](https://www.insidephilanthropy.com/home/the-501c3-america-first-policy-institutes-deep-ties-to-the-new-trump-administration) (Tier 2)
 - [19th News: McMahon confirmed Education Secretary](https://19thnews.org/2025/03/linda-mcmahon-confirmed-education-secretary/) (Tier 2)
 - [FEC: Linda McMahon contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=mcmahon,+linda) (Tier 1)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

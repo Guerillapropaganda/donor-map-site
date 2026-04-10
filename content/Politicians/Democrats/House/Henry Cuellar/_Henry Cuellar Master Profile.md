@@ -33,8 +33,6 @@ related: "[[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile]]"
 
 donors: Azerbaijan State Oil Company (SOCAR), Mexico Banking Sector, Eagle Ford Shale Oil & Gas Industry
 
-profile-status:: ready
-
 ---
 
 ## Who He Is
@@ -148,9 +146,6 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 
 - [DOJ Indictment: United States v. Henry Cuéllar](https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and) (Tier 1)
 - [OpenSecrets: Henry Cuéllar Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00000840) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

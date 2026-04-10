@@ -20,8 +20,6 @@ related: "[[_Kamala Harris Master Profile]]"
 
 donors: Churchill Downs · Morgan & Morgan · Red Mile · ECL Entertainment
 
-profile-status:: ready
-
 ---
 ---
 
@@ -112,7 +110,6 @@ Andy Beshear. Governor of Kentucky (2019–present). Son of Steve Beshear (61st 
 - LPM: In This Together PAC fundraising (Tier 2)
 - NPR: Kentucky red state Democrat (Tier 2)
 - Boston Globe: Beshear success key (Tier 2)
-content-readiness:: ready
 
 ### Voting Record
 

@@ -16,7 +16,6 @@ known-gaps:
 
 #lobbying #k-street #democratic-machine #shadow-lobbying #fara #comms-as-lobbying #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -233,4 +232,3 @@ The Israel FARA episode is the exception that proves the rule. For one brief mom
 - [PR Week: SKDK acquires digital ad shop Wavelength Strategy (Feb 2026)](https://www.prweek.com/article/1947402/skdk-acquires-digital-ad-shop-wavelength-strategy) (Tier 2)
 - [O'Dwyer's PR News: SKDK Makes Move on Wavelength Strategy (Feb 5, 2026)](https://www.odwyerpr.com/story/public/24257/2026-02-05/pr-firm-news-skdk-makes-move-wavelength-strategy.html) (Tier 3)
 
-content-readiness:: ready

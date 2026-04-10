@@ -45,4 +45,3 @@ The pattern: Paul's libertarianism is deployed against government functions that
 - [Senate.gov: Paul filibuster records](https://www.senate.gov/senators/senators-contact.htm) (Tier 1)
 - [Ballotpedia: Rand Paul](https://ballotpedia.org/Rand_Paul) (Tier 3)
 
-content-readiness:: ready

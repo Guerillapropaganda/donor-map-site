@@ -132,9 +132,6 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 - [Kaiser Family Foundation: Medicare Drug Negotiation Analysis](https://www.kff.org/medicare/issue-brief/explaining-the-pharmaceutical-provisions-in-the-inflation-reduction-act/) (Tier 2)
 - [House Energy & Commerce Committee: Pharmaceutical Oversight Jurisdiction](https://energycommerce.house.gov/subcommittees) (Tier 1)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

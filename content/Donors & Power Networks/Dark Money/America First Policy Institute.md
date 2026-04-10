@@ -59,8 +59,6 @@ Deregulation across all sectors (energy, finance, healthcare), immigration restr
 - [ProPublica: Nonprofit Explorer - AFPI](https://projects.propublica.org/nonprofits/organizations/854202763) (Tier 2)
 - [Ballotpedia: America First Policy Institute](https://ballotpedia.org/America_First_Policy_Institute) (Tier 3)
 
-content-readiness:: ready
-
 ### Foreign Agent Activity (FARA)
 <!-- auto:fara-foreign-agents start -->
 | Metric | Value |

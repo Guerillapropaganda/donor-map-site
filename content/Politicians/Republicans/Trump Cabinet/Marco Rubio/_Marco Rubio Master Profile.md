@@ -30,8 +30,6 @@ related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - Am
 
 donors: [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -153,7 +151,6 @@ See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeli
 - [Foreign Policy: Under Trump and Rubio, U.S. might intervene more in Latin America](https://foreignpolicy.com/2024/11/13/trump-rubio-secretary-state-latin-america-cuba-venezuela/) (Tier 2)
 - [Wikipedia: Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio) (Tier 3)
 - [FEC: Marco Rubio contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=rubio,+marco) (Tier 1)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

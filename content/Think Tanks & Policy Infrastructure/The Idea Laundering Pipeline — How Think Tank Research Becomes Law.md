@@ -14,7 +14,6 @@ known-gaps:
 
 #think-tank #cross-comparison #model-legislation #idea-laundering #policy-pipeline #class-analysis #heritage #federalist-society #mercatus #manhattan-institute #alec
 
-
 ---
 
 ### The Argument
@@ -304,5 +303,3 @@ The pipeline's durability is its most important feature. It does not depend on a
 - [EPI: Minimum Wage Tracker](https://www.epi.org/minimum-wage-tracker/) (Tier 1)
 
 ---
-
-content-readiness:: ready

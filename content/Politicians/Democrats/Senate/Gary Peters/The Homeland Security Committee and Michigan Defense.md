@@ -42,4 +42,3 @@ Peters chaired the Democratic Senatorial Campaign Committee (DSCC) for the 2020 
 - [FEC Candidate: Gary Peters campaign finance summary](https://www.fec.gov/data/candidate/H8MI09068/) (Tier 1)
 - [Ballotpedia: Gary Peters](https://ballotpedia.org/Gary_Peters) (Tier 3)
 
-content-readiness:: ready

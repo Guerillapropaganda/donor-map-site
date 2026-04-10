@@ -143,9 +143,6 @@ When progressive members of Congress proposed redirecting small portions of the 
 - [Congressional Budget Office: Defense Budget Analysis](https://www.cbo.gov/publication/59251) (Tier 1)
 - [Lockheed Martin Political Spending Analysis](https://www.opensecrets.org/orgs/lockheed-martin/summary) (Tier 1)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |

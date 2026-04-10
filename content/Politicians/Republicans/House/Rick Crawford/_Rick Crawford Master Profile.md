@@ -32,8 +32,6 @@ related: "[[_Donald Trump Master Profile|Trump]]"
 
 donors:
 
-profile-status:: ready
-
 ---
 ---
 
@@ -152,8 +150,6 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 - [The Intercept: With Support From Nancy Pelosi, House Gives Trump Administration Broad Latitude to Spy on Americans](https://theintercept.com/2018/01/11/nsa-pelosi-democrats-spy-american-section-702/) (Tier 2)
 - [Encyclopedia of Arkansas: Rick Crawford](https://encyclopediaofarkansas.net/entries/rick-crawford-8438/) (Tier 3)
 - [Wikipedia: Rick Crawford](https://en.wikipedia.org/wiki/Rick_Crawford_%28politician%29) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

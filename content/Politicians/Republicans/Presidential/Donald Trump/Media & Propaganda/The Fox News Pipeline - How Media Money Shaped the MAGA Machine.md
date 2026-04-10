@@ -186,8 +186,6 @@ The democratization of information through digital platforms promised to solve t
 
 ---
 
-content-readiness:: ready
-
 ### Committee Assignments (Congress.gov)
 
 ### Voting Record

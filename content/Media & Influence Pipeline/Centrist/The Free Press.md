@@ -12,7 +12,6 @@ related: "[[Bari Weiss]] · [[The Platform Dependency Spectrum — Revenue Vulne
 
 #media-pipeline #centrist #media-network #heterodox #bari-weiss #free-press #tech-money
 
-
 ---
 
 ### Who They Are
@@ -71,4 +70,3 @@ Is 'heterodox centrist' functioning as a branding strategy for tech billionaire 
 
 *No sources yet — raw placeholder.*
 
-content-readiness:: raw

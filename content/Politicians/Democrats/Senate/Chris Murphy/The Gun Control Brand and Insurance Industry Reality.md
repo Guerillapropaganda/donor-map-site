@@ -44,4 +44,3 @@ Murphy's insurance industry donors receive no comparable scrutiny to his gun con
 - [FEC Candidate: Chris Murphy campaign finance summary](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
 - [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy_(Connecticut)) (Tier 3)
 
-content-readiness:: ready

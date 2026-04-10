@@ -150,9 +150,8 @@ Hinson campaigns as a fresh face bringing "communication skills" and "outsider p
 office:: U.S. Representative (IA-02, 2021-present); Senate Candidate (2026)
 state:: IA
 party:: Republican
-profile-status:: ready
+
 research-status:: active
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

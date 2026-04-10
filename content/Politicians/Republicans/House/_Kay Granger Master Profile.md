@@ -32,8 +32,6 @@ related: "[[Lockheed Martin]]"
 
 donors: [[Lockheed Martin]] · Defense Aerospace Industry · [[Oil & Gas PACs]]
 
-profile-status:: ready
-
 ---
 
 ## Who She Is
@@ -203,9 +201,6 @@ This is the ultimate expression of donor capture: not just funding a politician,
 - [House Appropriations Committee: Appropriations Committees Release 2024 Government Funding Legislation](https://democrats-appropriations.house.gov/news/press-releases/appropriations-committees-release-2024-government-funding-legislation) (Tier 1)
 - [Congress.gov: House Appropriations Committee](https://www.congress.gov/committee/house-appropriations/hsap00) (Tier 1)
 - [ProPublica: Kay Granger voting record](https://projects.propublica.org/represent/) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

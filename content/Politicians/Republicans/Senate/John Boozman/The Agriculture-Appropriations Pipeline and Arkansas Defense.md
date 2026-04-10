@@ -42,4 +42,3 @@ Walmart's headquarters in Bentonville, Arkansas makes the company a structural p
 - [FEC Candidate: John Boozman campaign finance summary](https://www.fec.gov/data/candidate/H2AR03176/) (Tier 1)
 - [Ballotpedia: John Boozman](https://ballotpedia.org/John_Boozman) (Tier 3)
 
-content-readiness:: ready

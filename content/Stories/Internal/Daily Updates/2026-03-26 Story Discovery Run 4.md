@@ -198,4 +198,3 @@ The structural function: the "threats" to contractors are political theater for 
 
 ---
 
-content-readiness:: draft

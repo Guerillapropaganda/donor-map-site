@@ -13,8 +13,6 @@ related: "[[_Tom Steyer Master Profile]] · [[CNA - California Nurses Associatio
 
 donors: [[SEIU - Service Employees International Union|SEIU]]
 
-content-readiness:: ready
-
 ---
 
 ### The Populist Billionaire Contradiction

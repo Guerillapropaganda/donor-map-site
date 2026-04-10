@@ -31,8 +31,6 @@ related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]
 
 donors: [[Defense Industry Bloc]] · Agriculture Bloc
 
-profile-status:: ready
-
 ---
 ---
 
@@ -148,7 +146,6 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 - [CNN: Tuberville three-branches-of-government gaffe](https://www.cnn.com/videos/politics/2020/11/13/tommy-tuberville-branches-of-government-vpx.cnn) (Tier 2)
 - [Slate: Tuberville D-Day/WWII confusion](https://slate.com/news-and-politics/2020/11/alabama-senator-tommy-tuberville-blockhead-interview-wwii-socialism-american-government.html) (Tier 2)
 - [Wikipedia: Tommy Tuberville](https://en.wikipedia.org/wiki/Tommy_Tuberville) (Tier 3)
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

@@ -21,8 +21,6 @@ related: "[[DOGE - The Billionaires Government]] · [[The Federal Workforce Gutt
 
 donors: [[Elon Musk]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]]
 
-content-readiness:: ready
-
 ---
 
 ### The Contractor Beneficiaries. Who Replaced the Civil Servants

@@ -241,5 +241,3 @@ No ethics filing shows Hegseth divested defense contractor stocks before taking 
 
 ---
 
-profile-status:: ready
-content-readiness:: ready

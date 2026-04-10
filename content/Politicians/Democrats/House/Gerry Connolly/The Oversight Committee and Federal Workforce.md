@@ -38,4 +38,3 @@ Northern Virginia's economy runs on government contracting. [[Booz Allen Hamilto
 - [Congress.gov: Gerry Connolly campaign finance summary](https://www.congress.gov/search?q=Gerry%20Connolly&searchResultViewType=expanded) (Tier 1)
 - [Ballotpedia: Gerry Connolly](https://ballotpedia.org/Gerry_Connolly) (Tier 3)
 
-content-readiness:: ready

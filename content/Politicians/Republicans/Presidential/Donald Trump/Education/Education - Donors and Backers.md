@@ -61,4 +61,3 @@ Maps the donor network driving Trump's education policy. The dominant force is t
 
 - [Center for American Progress: DeVos Analysis](https://www.americanprogress.org/?s=Education%20-%20Donors%20and%20Backers) (Tier 2)
 
-content-readiness:: ready

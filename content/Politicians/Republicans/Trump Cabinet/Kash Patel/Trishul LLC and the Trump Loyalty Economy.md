@@ -13,8 +13,6 @@ related: "[[_Kash Patel Master Profile]] · [[_Donald Trump Master Profile]] · 
 
 donors: [[Trump Media & Technology Group]] The Epoch Times
 
-content-readiness:: ready
-
 ---
 
 ### Trishul LLC and the Trump Loyalty Economy

@@ -13,8 +13,6 @@ related: "[[_Matt Mahan Master Profile]] · [[Peter Thiel]] · [[Mithril Capital
 
 donors: [[Peter Thiel]]
 
-content-readiness:: ready
-
 ---
 
 ### The Thiel-Adjacent Tech Pipeline

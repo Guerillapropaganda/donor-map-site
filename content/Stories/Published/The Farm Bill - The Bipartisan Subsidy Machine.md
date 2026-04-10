@@ -44,4 +44,3 @@ This alliance — the "food stamp coalition" — was engineered in the 1970s to 
 - [Congress.gov: What Is the Farm Bill? (CRS Report)](https://www.congress.gov/crs-product/RS22131) (Tier 1)
 - [Ballotpedia: Farm Bill](https://ballotpedia.org/Farm_Bill) (Tier 3)
 
-content-readiness:: ready

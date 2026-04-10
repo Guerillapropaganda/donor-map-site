@@ -42,4 +42,3 @@ Capito's most significant legislative engagement was the 2021 infrastructure neg
 - [FEC Candidate: Shelley Moore Capito campaign finance summary](https://www.fec.gov/data/candidate/S4WV00159/) (Tier 1)
 - [Ballotpedia: Shelley Moore Capito](https://ballotpedia.org/Shelley_Moore_Capito) (Tier 3)
 
-content-readiness:: ready

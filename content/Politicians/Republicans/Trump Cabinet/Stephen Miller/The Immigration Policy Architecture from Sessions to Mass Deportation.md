@@ -13,8 +13,6 @@ related: "[[_Stephen Miller Master Profile]] · [[_Donald Trump Master Profile]]
 
 donors: [[Bradley Impact Fund]], [[DonorsTrust]]
 
-content-readiness:: ready
-
 ---
 
 ### The Immigration Policy Architecture from Sessions to Mass Deportation

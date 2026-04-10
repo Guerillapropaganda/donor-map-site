@@ -37,8 +37,6 @@ related: "[[_Donald Trump Master Profile]] Â· [[_Mike Johnson Master Profile]] Â
 
 donors: [[Securities & Investment Industry]], Commercial Banks Bloc, [[Citadel - Kenneth Griffin|Kenneth Griffin]], [[Crypto Industry Bloc]], Capital One, Sallie Mae
 
-profile-status:: ready
-
 ---
 
 ## Who He Is
@@ -180,9 +178,6 @@ When questioned about consumer harm or fraud risk, McHenry invoked "free market 
 ## Sources
 
 - [OpenSecrets: Patrick McHenry Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00026354) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

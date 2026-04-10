@@ -178,5 +178,3 @@ Example: `- [Congress.gov: Jim Jordan donor profile](https://www.congress.gov/se
 | **4** | Partisan/single-sourced | Low — flag explicitly | Campaign sites, Heritage Foundation analysis, America First Legal framing |
 
 ---
-
-content-readiness:: ready

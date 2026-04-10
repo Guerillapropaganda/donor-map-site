@@ -42,4 +42,3 @@ Williams partially self-funds his campaigns — a pattern that creates the appea
 - [FEC Candidate: Roger Williams campaign finance and personal finances](https://www.fec.gov/data/candidate/H2TX33040/) (Tier 1)
 - [Ballotpedia: Roger Williams](https://ballotpedia.org/Roger_Williams_(Texas)) (Tier 3)
 
-content-readiness:: ready

@@ -13,8 +13,6 @@ related: "[[_Scott Bessent Master Profile]] · [[Goldman Sachs]] · [[The Wall S
 
 donors: [[JPMorgan]] [[Goldman Sachs]] [[Citigroup]]
 
-content-readiness:: ready
-
 ---
 
 ### Wall Street Deregulation and the 3-3-3 Agenda

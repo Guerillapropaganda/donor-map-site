@@ -13,8 +13,6 @@ related: "[[_Scott Bessent Master Profile]] · [[_Donald Trump Master Profile]] 
 
 donors: [[JPMorgan]] [[Elon Musk]] [[Goldman Sachs]] Hayman Capital
 
-content-readiness:: ready
-
 ---
 
 ### The Trump Fundraiser Pipeline and Wall Street Nomination Battle

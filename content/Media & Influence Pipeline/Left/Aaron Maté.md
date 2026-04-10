@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #left #grayzone #russiagate #syria-coverage #funding-questions
 
-
 ---
 
 ### Who They Are
@@ -171,5 +170,3 @@ Patreon revenue (60-70%), freelance journalism (20-30%), speaking engagements (1
 - [Aaron Maté wins Izzy Award for Russiagate coverage — Various sources](https://www.izzieaward.org/) *(source unavailable)* (Tier 2) (Chrome verified 2026-03-27)
 - [Useful Idiots with Aaron Maté and Katie Halper — Podcast](https://www.usefulidiotspodcast.com/) (Tier 2) (Chrome verified 2026-03-27)
 - [Aaron Maté — The Grayzone](https://thegrayzone.com/author/aaron-mate/) (Tier 2) (Chrome verified 2026-03-27)
-
-content-readiness:: ready

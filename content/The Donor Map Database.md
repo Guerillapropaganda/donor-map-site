@@ -119,4 +119,3 @@ The database is expanding. Committee power mapping — which donors buy seats on
 
 ---
 
-content-readiness:: ready

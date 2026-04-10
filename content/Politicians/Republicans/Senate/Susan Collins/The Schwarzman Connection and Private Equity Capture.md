@@ -13,8 +13,6 @@ related: "[[_Susan Collins Master Profile]] · [[The Wall Street-Schumer Funding
 
 donors: [[Stephen Schwarzman]]
 
-content-readiness:: ready
-
 ---
 
 ### The Schwarzman Connection and Private Equity Capture

@@ -140,8 +140,6 @@ The Thiel network builds defense companies. The Thiel network funds politicians 
 - [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2)
 - [Fortune: Peter Thiel's protégés: a common thread runs through Trump's tech team](https://fortune.com/2025/05/21/peter-thiel-silicon-valley-trump-administration-elon-musk-jd-vance/) (Tier 2)
 
-content-readiness:: ready
-
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
 | Metric | Value |

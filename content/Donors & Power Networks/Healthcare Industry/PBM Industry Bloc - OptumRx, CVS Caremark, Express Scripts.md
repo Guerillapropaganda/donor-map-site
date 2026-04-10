@@ -64,4 +64,4 @@ The PBM industry's bipartisan protection is the clearest example of donor class 
 - [Federal Trade Commission. Interim Report on PBM Practices (2024)](https://www.ftc.gov/reports/pharmacy-benefit-managers-report) (Tier 1)
 
 research-status:: ready — 80% market share, FTC 2024 report, rebate model documented, both-sides protection table, OptumRx/CVS Caremark/Express Scripts. 3 sources, Tier 1. All ### headers. Promoted Session 38m.
-content-readiness:: ready
+

@@ -17,8 +17,6 @@ tags: #democrat
 
 donors: [[Tech and Media Donors]] · [[Entertainment and Hollywood Donors]]
 
-content-readiness:: ready
-
 ---
 
 ### The Pre-Political Brand: Investigative Journalist Holding Power Accountable

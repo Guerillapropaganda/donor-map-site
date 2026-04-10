@@ -13,8 +13,6 @@ related: "[[_Pam Bondi Master Profile]] · [[_Donald Trump Master Profile]]"
 
 donors: [[_Donald Trump Master Profile]]
 
-content-readiness:: ready
-
 ---
 
 ### The Trump University $25K and the Pay-to-Play Model

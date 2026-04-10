@@ -29,8 +29,6 @@ related: "[[SEIU - Service Employees International Union]] · [[_Katie Porter Ma
 
 donors: [[SEIU - Service Employees International Union]] · [[California Nurses Association]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -159,9 +157,6 @@ Swalwell's labor endorsement (SEIU, CNA) represents public sector and healthcare
 - [PBS News: Swalwell sees attacks from left and right as California's race for governor heats up](https://www.pbs.org/newshour/politics/swalwell-sees-attacks-from-left-and-right-as-californias-race-for-governor-heats-up) (Tier 2)
 - [ProPublica: Rep. Eric Swalwell Voting Record](https://projects.propublica.org/represent/members/S001193-eric-swalwell/) (Tier 1)
 - [GovTrack: Rep. Eric Swalwell Congressional Record](https://www.govtrack.us/congress/members/eric_swalwell/412514) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

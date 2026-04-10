@@ -52,4 +52,3 @@ Opposition to broad student loan forgiveness (which would reduce the loan portfo
 - [CFPB: Student loan servicing examination reports](https://www.consumerfinance.gov/data-research/research-reports/) (Tier 1)
 - [Ballotpedia: Student loan servicers](https://ballotpedia.org/Student_Loan_Servicer_Industry) (Tier 3)
 
-content-readiness:: ready

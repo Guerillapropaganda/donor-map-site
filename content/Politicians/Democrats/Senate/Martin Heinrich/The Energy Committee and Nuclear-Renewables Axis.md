@@ -43,4 +43,3 @@ Heinrich advocates for clean energy transition while supporting nuclear weapons 
 - [NNSA: Los Alamos and Sandia National Laboratories](https://www.energy.gov/nnsa/national-nuclear-security-administration) (Tier 1)
 - [Ballotpedia: Martin Heinrich](https://ballotpedia.org/Martin_Heinrich) (Tier 3)
 
-content-readiness:: ready

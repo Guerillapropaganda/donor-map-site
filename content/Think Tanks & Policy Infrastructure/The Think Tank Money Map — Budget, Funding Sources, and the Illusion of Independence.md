@@ -14,7 +14,6 @@ known-gaps:
 
 #think-tank #cross-comparison #budget-analysis #funding-sources #class-analysis #government-contractor #dark-money #illusion-of-independence
 
-
 ---
 
 > [!money]
@@ -241,4 +240,3 @@ All financial figures derived from IRS 990 filings accessed via ProPublica Nonpr
 - [Transparify / TTCSP: Global Go To Think Tank Index 2019 — $1.029B/$1.078B defense contractor figure](https://repository.upenn.edu/entities/publication/07977660-60a1-4a63-9646-031d4610f1c0) (Tier 2) (Chrome-verified 2026-03-27 — old handle URL broken, corrected to repository items URL)
 - All individual vault profiles (ready status, all Chrome-verified): [[Heritage Foundation]] · [[Federalist Society]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Manhattan Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Hudson Institute]] · [[Heartland Institute]] · [[Mercatus Center]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[Roosevelt Institute]] · [[New America]] · [[Urban Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[RAND Corporation]] · [[Bipartisan Policy Center]] · [[Third Way]] · [[Aspen Institute]] · [[Atlantic Council]] · [[Center for a New American Security]]
 
-content-readiness:: ready

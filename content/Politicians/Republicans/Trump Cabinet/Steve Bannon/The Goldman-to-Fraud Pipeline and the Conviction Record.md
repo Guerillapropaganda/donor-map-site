@@ -15,8 +15,6 @@ related: "[[_Steve Bannon Master Profile]]"
 
 donors: [[Robert Mercer]], [[Rebekah Mercer]]
 
-content-readiness:: ready
-
 ---
 
 ### The Goldman-to-Fraud Pipeline and the Conviction Record

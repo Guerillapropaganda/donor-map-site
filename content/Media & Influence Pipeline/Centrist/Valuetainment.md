@@ -12,7 +12,6 @@ related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]] · [[T
 
 #media-pipeline #centrist #media-network #valuetainment #patrick-bet-david #business-media
 
-
 ---
 
 ### Who They Are
@@ -71,4 +70,3 @@ Valuetainment is the 'business influencer to political pipeline' model. Does pac
 
 *No sources yet — raw placeholder.*
 
-content-readiness:: raw

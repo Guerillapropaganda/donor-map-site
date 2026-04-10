@@ -234,4 +234,3 @@ Confirmed: No Epstein content is in the approved publication scope.
 
 ---
 
-content-readiness:: ready

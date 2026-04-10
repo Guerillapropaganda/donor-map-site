@@ -268,4 +268,3 @@ Publish Roadmap (status tracking — no rules defined here)
 
 ---
 
-content-readiness:: ready

@@ -152,7 +152,6 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 ---
 
 research-status:: draft — Revenue growth, electoral spending, Scorecard function, dark money inflows, and lobbying data documented. Gaps: detailed 2024 candidate spending by race, LCV Victory Fund complete disbursements, Sixteen Thirty Fund relationship details, state affiliate financial data, historical Scorecard impact analysis. OpenSecrets and FEC data available for deeper analysis.
-content-readiness:: draft
 
 ---
 

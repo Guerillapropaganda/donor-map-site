@@ -72,4 +72,3 @@ The working class has no PAC. The donor class has dozens. The policy outcomes fo
 - [OpenSecrets: Musk Donations](https://www.opensecrets.org/members-of-congress/summary?name=Labor) (Tier 1)
 - [OpenSecrets: NAM and Chamber Lobbying](https://www.opensecrets.org/members-of-congress/summary?name=Labor) (Tier 1)
 
-content-readiness:: ready

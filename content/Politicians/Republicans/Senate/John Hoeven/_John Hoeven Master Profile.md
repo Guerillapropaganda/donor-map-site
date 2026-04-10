@@ -155,9 +155,6 @@ Hoeven's donor-class function is to serve as the intersection point where North 
 
 ---
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

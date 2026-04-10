@@ -138,9 +138,8 @@ Merkley is the vault's control case — the senator who most consistently operat
 office:: Senate
 state:: Oregon
 party:: Democrat
-profile-status:: ready
+
 research-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

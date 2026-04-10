@@ -22,8 +22,6 @@ related: "[[_Donald Trump Master Profile]] · [[Walton Family Foundation]]"
 
 donors: Trump Network Small-Dollar Donors · [[Walton Family Foundation]] · Arkansas Business Class
 
-profile-status:: ready
-
 ---
 ---
 
@@ -171,4 +169,4 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 - [Arkansas Times: Jim Walton gives $500K to defend Arkansas school vouchers](https://arktimes.com/arkansas-blog/2024/05/16/jim-walton-gives-500k-to-defend-arkansas-school-vouchers-from-ballot-measure) (Tier 2)
 - [In These Times: Arkansas Teachers Strike against corporate school privatizers](https://inthesetimes.com/article/little-rock-arkansas-strike-teachers-waltons-walmart) (Tier 2)
 - [NEA Arkansas: Inside the web of Arkansas school privatization empire](https://www.aeaonline.org/resource-library/inside-web-arkansass-school-privatization-empire) (Tier 2)
-content-readiness:: ready
+

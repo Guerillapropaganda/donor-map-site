@@ -10,7 +10,6 @@ related: "[[_Think Tank Framework]] · [[_Media Pipeline Framework]] · [[Resear
 
 #lobbying #k-street #methodology #framework #class-analysis
 
-
 ---
 
 ### Purpose
@@ -190,4 +189,3 @@ Identical to main vault:
 2. Remove the Lobbying Firms section from `_VAULT_INDEX.md` (one edit)
 3. Done.
 
-content-readiness:: ready

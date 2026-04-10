@@ -15,8 +15,6 @@ source-types:
 ---
 #pelosi #mccarthy #both-sides #donor-class #defense #stock-trading #dark-money #israel #class-analysis #follow-the-money #california #house-speakers
 
-content-readiness:: draft
-
 ---
 
 ### Pelosi and McCarthy. Same Corporate Apparatus, Different Brand
@@ -132,4 +130,4 @@ Sub-notes for full sourcing:
 - AIPAC cross-spectrum: [[AIPAC - American Israel Public Affairs Committee]]
 
 research-status:: draft — 4 sectors documented: defense/NDAA, stock trading reform, dark money architecture, Israel/AIPAC. 10 sources (all Chrome-verified 2026-03-27). FEC committee ID corrected (C00573519 → C00504530). Temporal mapping table with 10 entries. 3 callout blocks. Added to Cross-Politician Contradiction Map index.
-content-readiness:: draft
+

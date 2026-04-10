@@ -13,8 +13,6 @@ source-types:
 
 donors: [[AIPAC - American Israel Public Affairs Committee]]
 
-content-readiness:: ready
-
 ---
 
 ### Defense Contractors and the Permanent War Donor Base

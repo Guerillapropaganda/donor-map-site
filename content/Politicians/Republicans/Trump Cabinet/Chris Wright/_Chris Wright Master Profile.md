@@ -25,8 +25,6 @@ related: "[[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]]"
 
 donors: [[Koch Network - Charles Koch]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -118,7 +116,6 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 - [Common Dreams: Big oil's $445M investment in Trump](https://www.commondreams.org/news/big-oil-donations-trump) (Tier 2)
 - [FEC: Chris Wright contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=wright,+chris) (Tier 1)
 - [OpenSecrets.org: Chris Wright donation profile](https://www.opensecrets.org/individuals/chris-wright) (Tier 1)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -13,8 +13,6 @@ related: "[[_Doug Burgum Master Profile]]"
 
 donors: [[Harold Hamm|Harold Hamm]]
 
-content-readiness:: ready
-
 ---
 
 ### The [[Harold Hamm|Harold Hamm]] Pipeline and the Continental Resources Conflict

@@ -88,4 +88,3 @@ The donor class doesn't need to defeat Sanders directly. He's in a safe Vermont 
 - [FEC: United Democracy Project independent expenditure filings](https://www.fec.gov/data/filings/) (Tier 1)
 - [Sludge: AIPAC 2024 election spending totals](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2)
 
-content-readiness:: ready

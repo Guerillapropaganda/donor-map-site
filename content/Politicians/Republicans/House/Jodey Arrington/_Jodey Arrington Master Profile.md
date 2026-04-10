@@ -196,9 +196,6 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 - [Ballotpedia: Jodey Arrington](https://ballotpedia.org/Jodey_Arrington) (Tier 3)
 - [Wikipedia: Jodey Arrington](https://en.wikipedia.org/wiki/Jodey_Arrington) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Legislative Activity (Congress.gov)
 
 ### Legislative Activity (GovTrack)

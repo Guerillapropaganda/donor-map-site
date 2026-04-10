@@ -168,4 +168,3 @@ This policy applies to all vault sections: Stories, Contradiction Deep Dives, Ma
 
 research-status:: reference
 
-content-readiness:: ready

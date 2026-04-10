@@ -205,4 +205,3 @@ If progressives win Maine (and Michigan), they will have demonstrated that they 
 - [Praising Platner's 'Fighting Spirit,' Warren Is Latest Senator to Endorse Maine Senate Candidate](https://www.commondreams.org/news/warren-platner) (Tier 2)
 - [Iraq and Afghanistan veteran launches Democratic campaign against Sen. Susan Collins in Maine](https://www.nbcnews.com/politics/2026-election/iraq-afghanistan-veteran-launches-democratic-campaign-sen-susan-collin-rcna225703) (Tier 2)
 
-content-readiness:: ready

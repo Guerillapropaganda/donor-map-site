@@ -80,4 +80,4 @@ Israel — community relationship management, post-October 7 response, ethnic st
 - [J Weekly: Newsom staff Zoom with Jewish leaders after "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (Tier 2)
 
 research-status:: ready — Bay Area pro-Israel community org, Newsom staff Zoom damage control, ethnic studies reversal role, Federation/JCRC/JPAC network structure. 2 sources, Tier 1-2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
+

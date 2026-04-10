@@ -52,4 +52,3 @@ Whitehouse connects dark money to climate policy: fossil fuel companies fund dar
 - [Congress.gov: DISCLOSE Act of 2023 (S.512, 118th Congress)](https://www.congress.gov/bill/118th-congress/senate-bill/512) (Tier 1)
 - [Ballotpedia: Sheldon Whitehouse](https://ballotpedia.org/Sheldon_Whitehouse) (Tier 3)
 
-content-readiness:: ready

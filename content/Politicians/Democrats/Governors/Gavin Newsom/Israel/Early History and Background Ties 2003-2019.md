@@ -111,4 +111,3 @@ Newsom's approach to Israel is presented as relationship-building and strategic 
 - [SF Bay View: CA-Israel business ties](https://sfbayview.com/2009/02/will-san-francisco-mayor-gavin-newsom-face-of-israel-be-the-next-governor-of-california/) (Tier 4)
 - [Black Agenda Report: "Zionist in Waiting" overview](https://www.blackagendareport.com/gavin-newsom-zionist-waiting) (Tier 4)
 
-content-readiness:: ready

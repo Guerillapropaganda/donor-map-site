@@ -157,9 +157,8 @@ related: Display Name Donor - Full Name
 
 ---
 
-profile-status:: raw
 research-status:: active
-content-readiness:: raw
+
 ```
 
 ### Critical elements:
@@ -213,7 +212,6 @@ donors: Donor - Full Name Another Donor
 
 ---
 
-content-readiness:: raw
 research-status:: [reference|active|archived]
 ```
 
@@ -282,7 +280,7 @@ related: Name Rival Donor
 ---
 
 research-status:: [reference|active|archived]
-content-readiness:: raw
+
 ```
 
 ### Critical elements:
@@ -328,9 +326,8 @@ This note exists as a breadcrumb. [Name] appears in the vault as [connection: e.
 
 ---
 
-content-readiness:: placeholder
 research-status:: reference
-profile-status:: placeholder
+
 ```
 
 ---
@@ -689,4 +686,3 @@ Use this when building or updating notes:
 ---
 
 research-status:: reference
-content-readiness:: ready

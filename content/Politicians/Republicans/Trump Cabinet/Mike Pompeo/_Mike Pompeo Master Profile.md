@@ -27,8 +27,6 @@ related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
 
 donors: [[Koch Network - Charles Koch]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -150,7 +148,6 @@ The pattern: think tank → PAC → speaking fees → board memberships → law 
 - [SourceWatch: Mike Pompeo](https://sourcewatch.org/index.php/Mike_Pompeo) (Tier 3)
 - [Wikipedia: Mike Pompeo](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3)
 - [FEC: Mike Pompeo contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=pompeo,+mike) (Tier 1)
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

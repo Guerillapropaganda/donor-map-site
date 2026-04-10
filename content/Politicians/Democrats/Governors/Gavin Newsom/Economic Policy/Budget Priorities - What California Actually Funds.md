@@ -81,8 +81,6 @@ Newsom significantly built up California's rainy day fund — the Budget Stabili
 - [NBC Los Angeles: $3B deficit, less money from federal govt — what we know about California's 2026 budget](https://www.nbclosangeles.com/news/local/california-budget-proposal-2026-newsom/3829461/) (Tier 2)
 - [CalMatters: Opinion — Newsom's last budget belies his 'California for All' pledge, February 2026](https://calmatters.org/commentary/2026/02/newsom-budget-california-for-all/) (Tier 2)
 
-content-readiness:: ready
-
 ---
 
 ### 2026 Update — Newsom's Final Budget: The Retreat in Numbers

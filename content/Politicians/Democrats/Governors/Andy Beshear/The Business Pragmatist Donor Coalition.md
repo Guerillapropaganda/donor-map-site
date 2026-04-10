@@ -13,8 +13,6 @@ related: "[[_Andy Beshear Master Profile]]"
 
 donors: Trial Lawyers Bloc, Gambling Industry Bloc
 
-content-readiness:: ready
-
 ---
 
 ### The Business Pragmatist Donor Coalition

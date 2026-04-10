@@ -90,4 +90,4 @@ The Bannon relationship became a liability. The Mercers adapted — shifting fro
 - [CNBC: Wealthy Mercer family scaled back giving to conservative causes](https://www.cnbc.com/2020/11/24/mercer-family-dramatically-scaled-back-giving-to-conservative-causes-heading-into-2020.html) (Tier 2)
 
 research-status:: ready — $10M Breitbart, $42-47M total ecosystem, Bannon hire pipeline, GAI/Clinton Cash, media-to-WH pipeline, 72% traffic decline, Bannon legal timeline. 4 sources, Tier 2. All ### headers. Promoted Session 38m.
-content-readiness:: ready
+

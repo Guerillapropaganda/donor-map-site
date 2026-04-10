@@ -105,9 +105,6 @@ Hilton deploys populist rhetoric ("Make California Golden Again," attacks on "on
 
 ---
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Committee Assignments (Congress.gov)
 
 ### Voting Record

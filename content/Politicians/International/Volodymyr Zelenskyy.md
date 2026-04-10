@@ -84,5 +84,3 @@ Of $175 billion in approved U.S. aid, a significant portion is military equipmen
 - [President of Ukraine Official: Zelenskyy Meets U.S. Defense Company Leaders](https://www.president.gov.ua/en/news/prezident-ukrayini-zustrivsya-z-kerivnikami-oboronnih-kompan-87685) (Tier 1)
 - [Army Recognition: U.S. Approves Support Package for Ukraine's F-16s](https://www.armyrecognition.com/focus-analysis-conflicts/army/conflicts-in-the-world/ukraine-russia-conflict/united-states-approves-new-support-package-for-ukraines-f-16s-multirole-fighter) (Tier 2)
 
-profile-status:: ready
-content-readiness:: ready

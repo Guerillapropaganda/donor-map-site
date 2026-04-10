@@ -107,4 +107,3 @@ The ethnic studies fight is a pure class power story. Who decides what history g
 - [EdSource: Ethnic studies revision process](https://edsource.org/2020/california-revised-ethnic-studies-curriculum) (Tier 2)
 - [Arab American Institute: Palestinian American community response](https://www.aaiusa.org/) (Tier 2)
 
-content-readiness:: ready

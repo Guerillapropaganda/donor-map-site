@@ -42,4 +42,3 @@ Boyle's donor profile reflects Philadelphia's union economy: building trades, pu
 - [FEC Candidate: Brendan Boyle campaign finance summary](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
 - [Ballotpedia: Brendan Boyle](https://ballotpedia.org/Brendan_Boyle) (Tier 3)
 
-content-readiness:: ready

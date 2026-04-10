@@ -42,4 +42,3 @@ Pressley's choice to work within committee structures — rather than confrontin
 - [FEC Candidate: Ayanna Pressley campaign finance summary](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
 - [Ballotpedia: Ayanna Pressley](https://ballotpedia.org/Ayanna_Pressley) (Tier 3)
 
-content-readiness:: ready

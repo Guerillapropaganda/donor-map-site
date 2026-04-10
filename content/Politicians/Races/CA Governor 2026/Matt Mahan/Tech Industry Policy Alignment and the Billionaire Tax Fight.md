@@ -13,8 +13,6 @@ related: "[[_Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Don
 
 donors: (Silicon Valley tech billionaires, developer networks)
 
-content-readiness:: ready
-
 ---
 
 ### Tech Industry Policy Alignment and the Billionaire Tax Fight

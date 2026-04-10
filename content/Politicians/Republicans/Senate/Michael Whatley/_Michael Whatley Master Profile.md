@@ -147,9 +147,6 @@ Whatley employs Trump-aligned populist anti-establishment rhetoric combined with
 
 ---
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

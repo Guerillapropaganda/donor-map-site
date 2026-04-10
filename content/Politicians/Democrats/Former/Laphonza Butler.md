@@ -87,9 +87,6 @@ Butler represents the structural barrier labor faces in capitalist democracy: un
 - [Wikipedia: Laphonza Butler](https://en.wikipedia.org/wiki/Laphonza_Butler) (Tier 3)
 - [CalMatters: Newsom Picks Laphonza Butler, Political Ally and Power Player](https://calmatters.org/category/politics/2023/10/laphonza-butler-senate-newsom/) (Tier 2)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Committee Assignments (Congress.gov)
 
 ### Voting Record

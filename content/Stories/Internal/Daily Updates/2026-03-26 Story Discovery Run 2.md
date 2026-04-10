@@ -206,4 +206,3 @@ URLs referenced in search results but NOT yet Chrome-verified (mark `UNVERIFIED`
 
 ---
 
-content-readiness:: draft

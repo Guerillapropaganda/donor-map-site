@@ -23,8 +23,6 @@ related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warr
 
 donors: Progressive Donor Networks · Dual Sanders-Warren Backing · Schumer Opposition
 
-profile-status:: ready
-
 ---
 ---
 
@@ -254,5 +252,3 @@ If Mills defeats Platner despite Sanders + Warren backing:
 - [Iraq and Afghanistan veteran launches Democratic campaign against Sen. Susan Collins in Maine](https://www.nbcnews.com/politics/2026-election/iraq-afghanistan-veteran-launches-democratic-campaign-sen-susan-collin-rcna225703) (Tier 2)
 - [How Graham Platner's complicated past shapes his run for U.S. Senate](https://www.pressherald.com/2025/12/18/how-graham-platners-complicated-past-shapes-his-run-for-u-s-senate/) (Tier 2)
 - [Warren endorses Platner in Maine Senate primary after Mills rips him for remarks on rape](https://www.washingtontimes.com/news/2026/mar/19/elizabeth-warren-endorses-platner-maine-senate-primary-mills-rips/) (Tier 2)
-
-content-readiness:: ready

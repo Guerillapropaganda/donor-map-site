@@ -96,4 +96,3 @@ The following vault notes were already updated through March 23 and contained al
 
 ---
 
-content-readiness:: ready

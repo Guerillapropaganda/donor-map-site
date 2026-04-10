@@ -41,8 +41,6 @@ known-gaps:
 
 United Auto Workers. A redirect node. See [[UAW - United Auto Workers]] for the full profile.
 
-content-readiness:: raw
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

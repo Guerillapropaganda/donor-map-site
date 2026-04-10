@@ -43,4 +43,3 @@ Booker's political origin story is Newark — one of the poorest cities in Ameri
 - [Senate.gov: Klobuchar-Sanders drug importation amendment vote](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00020.htm) (Tier 1)
 - [Ballotpedia: Cory Booker](https://ballotpedia.org/Cory_Booker) (Tier 3)
 
-content-readiness:: ready

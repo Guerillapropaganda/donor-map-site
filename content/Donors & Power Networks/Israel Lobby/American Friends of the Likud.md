@@ -102,4 +102,4 @@ AFL sits within broader U.S.-Israel political finance ecosystem. Mega-donors (Ad
 ---
 
 research-status:: ready — 501(c)(3) Likud conduit, Abramowitz NGN Capital $450M, Netanyahu 90%+ US funding, tax-deductible party funding model, Conference of Presidents membership, educational fiction contradiction. 12 sources, Tier 2-3. All ### headers. Promoted Session 38l.
-content-readiness:: ready
+

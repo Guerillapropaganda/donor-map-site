@@ -121,4 +121,3 @@ Built in [Obsidian](https://obsidian.md/?q=The%20Donor%20Map%20Database). Publis
 
 ---
 
-content-readiness:: ready

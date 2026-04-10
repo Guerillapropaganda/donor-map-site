@@ -11,7 +11,6 @@ related: "[[_Think Tank Framework]] · [[_VAULT_INDEX]]"
 
 #think-tank #index
 
-
 ---
 
 ### Think Tanks & Policy Infrastructure — File Manifest
@@ -83,8 +82,6 @@ related: "[[_Think Tank Framework]] · [[_VAULT_INDEX]]"
 | `Center on Budget and Policy Priorities.md` | **ready** (2026-03-27) | Greenstein-founded safety net defense, $52.5M budget, Ford/Casey/MacArthur/Gates/Soros funding, Stacy Dean 24yr→USDA SNAP pipeline, Parrott 3-tour revolving door, SPP $40B state revenue claims, "managed amelioration" class analysis; Executive Action Watch tracker documenting Trump $167B non-defense cuts, 10% federal workforce reduction, illegal fund withholding — 17 sources, all Chrome-verified |
 | `Brennan Center for Justice.md` | **ready** (2026-03-27) | NYU Law hybrid think tank/litigation shop, Soros $7.47M, $57.9M budget, $266.6M net assets (8x growth 2019-2024), AVR in 23 states, Myrna Pérez→Second Circuit, Vanita Gupta→DOJ #3, Waldman (Clinton speechwriter), "Genuine Win + Structural Limit"; Trump voting EO litigation: *League of Women Voters v. Trump* filed Apr 2025, "show-your-papers" permanently enjoined Oct 2025; DOJ voting section purged — Brennan Center now *de facto* institutional replacement for federal voting rights enforcement; real-time anti-voting EO tracker — 18 sources, all Chrome-verified |
 
-
-
 ---
 
 ### Centrist/Bipartisan — Phase 1 (4 / 4)
@@ -149,4 +146,3 @@ related: "[[_Think Tank Framework]] · [[_VAULT_INDEX]]"
 - **Isolation status:** Clean — zero main vault files reference this section
 - **Publish status:** Excluded from Publication Manifest
 
-content-readiness:: ready

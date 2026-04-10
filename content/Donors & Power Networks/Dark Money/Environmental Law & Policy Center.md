@@ -69,8 +69,6 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - [IRS Form 990: ELPC nonprofit financials](https://projects.propublica.org/nonprofits/organizations/521544430) (Tier 1)
 - [Inside Philanthropy: Environmental foundation funding](https://www.insidephilanthropy.com/environmental-nonprofits/) (Tier 2)
 
-`content-readiness:: ready
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

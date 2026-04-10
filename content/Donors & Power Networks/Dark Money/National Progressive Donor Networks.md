@@ -39,8 +39,6 @@ The progressive donor network extends beyond DA to include: the Arabella Advisor
 - [IRS: Democracy Alliance-funded 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=National%20Progressive%20Donor%20Networks&city=&state=All+States&country=US) (Tier 1)
 - [Ballotpedia: Progressive donor networks](https://ballotpedia.org/National_Progressive_Donor_Networks) (Tier 3)
 
-content-readiness:: ready
-
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 

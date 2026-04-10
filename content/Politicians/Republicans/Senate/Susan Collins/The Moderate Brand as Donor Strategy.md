@@ -15,8 +15,6 @@ related: "[[_Susan Collins Master Profile]]"
 
 donors: [[PhRMA]] · [[Insurance Industry]] · [[Lockheed Martin]]
 
-content-readiness:: ready
-
 ---
 
 ### The "Moderate" Brand as Donor Strategy

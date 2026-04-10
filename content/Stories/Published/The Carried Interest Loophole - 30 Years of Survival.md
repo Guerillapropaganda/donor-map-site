@@ -61,4 +61,3 @@ The most revealing carried interest episode: Senator Kyrsten Sinema (I-AZ) deman
 - [OpenSecrets: American Investment Council lobbying](https://www.opensecrets.org/orgs/american-investment-council/summary?id=D000067336) (Tier 1)
 - [Congress.gov: Inflation Reduction Act legislative history](https://www.congress.gov/bill/117th-congress/house-bill/5376) (Tier 1)
 
-content-readiness:: ready

@@ -19,4 +19,3 @@ known-gaps:
 
 See **[[Marc Andreessen & Horowitz]]** for the full donor node — FEC contributions, Fairshake PAC, Leading the Future super PAC, PCAST appointment, revolving door, class analysis.
 
-content-readiness:: ready

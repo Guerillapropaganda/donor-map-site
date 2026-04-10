@@ -25,8 +25,6 @@ related: "[[_Donald Trump Master Profile]] · [[_Scott Bessent Master Profile]] 
 
 donors: [[Elon Musk]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -117,4 +115,4 @@ Howard Lutnick. Secretary of Commerce (2025–present). CEO and 60% owner of Can
 - [Newsweek: Lutnick sons tariff profits investigation](https://www.newsweek.com/howard-lutnicks-son-under-investigation-over-alleged-tariff-ruling-profits-11595677) (Tier 2)
 - [Salon: "Five-star rating for conflicts of interest"](https://www.salon.com/2025/04/24/a-5-star-rating-for-conflicts-of-interest-commerce-sec-howard-lutnicks-finances-raise-red-flags/) (Tier 2)
 - [FEC: Howard Lutnick contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=lutnick,+howard) (Tier 1)
-content-readiness:: ready
+

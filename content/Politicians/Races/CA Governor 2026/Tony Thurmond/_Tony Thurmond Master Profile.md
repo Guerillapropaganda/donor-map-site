@@ -26,8 +26,6 @@ related: "[[CTA - California Teachers Association]] · [[Charter Schools and the
 
 donors: [[CTA - California Teachers Association]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -164,9 +162,6 @@ This unresolved contradiction makes the CTA endorsement decision even more signi
 - [EdSource: Tony Thurmond cruises to reelection as California state superintendent](https://edsource.org/2022/tony-thurmond-cruises-to-re-election-as-california-state-superintendent/681035) (Tier 2)
 - [EdSource: Schools chief uses influence to shape policy during pandemic, but lacks power to make big decisions](https://edsource.org/2021/state-schools-chief-lacks-power-to-make-big-decisions-uses-influence-to-shape-policy-during-pandemic/651480) (Tier 2)
 - [CalMatters: What has Tony Thurmond done as California schools chief?](https://calmatters.org/education/2022/06/tony-thurmond-california-schools/) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

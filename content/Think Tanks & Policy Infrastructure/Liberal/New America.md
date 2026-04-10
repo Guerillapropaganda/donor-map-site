@@ -46,7 +46,6 @@ sec-form-types:
 
 #think-tank #liberal #tech-policy #google #silicon-valley #national-security #education #obama-pipeline #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -260,8 +259,6 @@ New America is the most important case study in the vault of how Silicon Valley 
 - [New America: Funding disclosure page — donor list and transparency](https://www.newamerica.org/about/funding/) (Tier 3)
 - [NPR: Google-Funded Think Tank Fires Scholar Who Criticized Tech Giant (2017)](https://www.npr.org/2017/08/31/547491063/google-funded-think-tank-fires-scholar-who-criticized-tech-giant) (Tier 2)
 - [SourceWatch: New America Foundation — funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/New_America_Foundation) (Tier 3)
-
-content-readiness:: ready
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

@@ -29,8 +29,6 @@ related: "[[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democrat
 
 donors: [[Ohio Democratic Party]], [[Ohio Federation of Teachers]], [[UAW - United Auto Workers|UAW]], [[AFGE - American Federation of Government Employees|AFGE]], [[Ohio AFL-CIO]]
 
-profile-status:: ready
-
 ---
 
 ```dataview
@@ -183,9 +181,8 @@ Her contrast to [[_Vivek Ramaswamy Master Profile|Ramaswamy]] is particularly ef
 office:: Democratic Candidate for Governor (Ohio, 2026)
 state:: OH
 party:: Democrat
-profile-status:: ready
+
 research-status:: active
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

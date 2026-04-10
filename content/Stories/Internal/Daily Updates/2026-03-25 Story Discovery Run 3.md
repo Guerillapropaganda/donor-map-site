@@ -162,4 +162,3 @@ Brad Lander, the former New York City comptroller challenging incumbent Rep. Dan
 - **[[Crypto Industry Bloc]]** — CLARITY Act stablecoin yield fight, Fairshake NY targeting
 - **New nodes needed:** Leading the Future PAC (AI super PAC), CLARITY Act sub-note
 
-content-readiness:: draft

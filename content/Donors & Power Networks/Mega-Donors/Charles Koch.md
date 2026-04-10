@@ -59,8 +59,6 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 - [OpenSecrets: Koch Industries political spending](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186) (Tier 1)
 - [Ballotpedia: Charles Koch](https://ballotpedia.org/Charles_Koch) (Tier 3)
 
-content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

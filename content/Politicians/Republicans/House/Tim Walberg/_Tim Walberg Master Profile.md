@@ -34,8 +34,6 @@ related: "[[_Bobby Scott Master Profile|Bobby Scott]] · [[_Donald Trump Master 
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -158,8 +156,6 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 - [AFL-CIO: Tim Walberg Legislative Scorecard](https://aflcio.org/scorecard/legislators/tim-walberg) (Tier 2)
 - [Ballotpedia: Tim Walberg](https://ballotpedia.org/Tim_Walberg) (Tier 3)
 - [Wikipedia: Tim Walberg](https://en.wikipedia.org/wiki/Tim_Walberg) (Tier 3)
-
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

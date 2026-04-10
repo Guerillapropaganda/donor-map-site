@@ -11,7 +11,6 @@ related: "[[_Media Pipeline Framework]] · [[_VAULT_INDEX]]"
 
 #media-pipeline #index
 
-
 ---
 
 ### Media & Influence Pipeline — File Manifest
@@ -366,4 +365,3 @@ These existing vault donor nodes are expected to appear in media profiles:
 - **2026-03-26 run 6 session work:** Promoted `Sean Hannity.md` developed→ready (verified 2 UNVERIFIED sources via Chrome; now 9 Chrome-verified sources). Promoted `Mehdi Hasan.md` developed→ready (rewrote FEC Record section with API-verified $0 data; verified 4 UNVERIFIED sources via Chrome including corrected Truthout URL slug; now 8 Chrome-verified sources). Built `Don Lemon.md` (Left, Phase 3 — CNN 17 years → fired Apr 2023 → $24.5M settlement → X/Musk $1.5M deal voided after confrontational interview → YouTube independence → Jan 2026 Minnesota arrest; $0 FEC; purest sponsor veto in vault; commentator-to-activist transformation; 9 sources: 8 Chrome-verified + 1 FEC API). Updated FEC consolidated table (+Don Lemon). **Pipeline status: 39 ready, 0 developed — all profiles at ready.**
 - **2026-03-26 run 7 session work:** Built `Greg Gutfeld.md` (Right, Phase 3 — Fox News *Gutfeld!* #1 late-night 2.2M nightly + *The Five* #1 cable news co-host; ~$7M/yr; purest institutional media product — zero independent platform; Smartmatic/Watters texts reveal ratings-over-truth logic; pharma ad dependency $390M; $0 FEC; 6 Chrome-verified sources). Built `Abby Martin.md` (Left, Phase 3 — RT America → teleSUR → crowdfunded independent; on-air Crimea dissent; U.S. sanctions killed teleSUR funding; *Martin v. Wrigley* federal court struck down Georgia anti-BDS law; *Gaza Fights for Freedom*; $0 FEC; genuinely independent left test case; 7 Chrome-verified sources). Updated FEC consolidated table (+2 entries: Gutfeld right-wing $0, Martin left-wing $0). Added AIPAC donor node connection (Martin anti-BDS lawsuit). **Pipeline status: 41 ready, 0 developed — all profiles at ready.**
 
-content-readiness:: ready

@@ -29,8 +29,6 @@ related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] ·
 
 donors: [[Koch Network - Charles Koch]] · [[Kenneth Griffin]] · Paul Singer Elliott Management
 
-profile-status:: ready
-
 ---
 ---
 
@@ -171,7 +169,6 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 - [Hollywood Life: Nikki Haley Endorses Trump, After Calling Him Unfit for Presidency](https://hollywoodlife.com/2024/07/17/nikki-haley-endorses-trump-after-calling-him-unfit-for-presidency/) (Tier 3)
 - [NBC News: Nikki Haley ends presidential campaign with 'no regrets'](https://www.nbcnews.com/politics/2024-election/nikki-haley-ends-presidential-campaign-trump-gop-primary-rcna134811) (Tier 2)
 - [Wikipedia: Nikki Haley](https://en.wikipedia.org/wiki/Nikki_Haley) (Tier 3)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

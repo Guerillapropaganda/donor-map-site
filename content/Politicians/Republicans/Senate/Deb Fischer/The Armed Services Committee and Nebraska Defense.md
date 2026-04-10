@@ -43,4 +43,3 @@ Nebraska's economy runs on agriculture (beef, corn, soybeans) and defense (STRAT
 - [CBO: Nuclear triad modernization cost estimates](https://www.cbo.gov/publication/57240) (Tier 1)
 - [Ballotpedia: Deb Fischer](https://ballotpedia.org/Deb_Fischer) (Tier 3)
 
-content-readiness:: ready

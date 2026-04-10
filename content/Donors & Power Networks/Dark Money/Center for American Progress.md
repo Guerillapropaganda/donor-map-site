@@ -160,8 +160,6 @@ The revolving door between CAP and Democratic administrations reveals **structur
 - [Salon: Center for American Progress and revolving door politics](https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/) (Tier 3)
 - [The American Prospect: CAP's role in Democratic strategy](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 3)
 
-content-readiness:: ready
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

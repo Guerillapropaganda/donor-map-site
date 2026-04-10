@@ -13,8 +13,6 @@ related: "[[_Pam Bondi Master Profile]]"
 
 donors: [[GEO Group]] · [[Ballard Partners]]
 
-content-readiness:: ready
-
 ---
 
 ### Qatar Lobbying and the Revolving Door to DOJ

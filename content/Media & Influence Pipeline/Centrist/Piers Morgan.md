@@ -12,7 +12,6 @@ related: "[[Fox News - Murdoch Media Empire]]"
 
 #media-pipeline #centrist #british-tabloid-culture #murdoch-pipeline #cross-platform-controversy #international-media
 
-
 ---
 
 ### Who They Are
@@ -156,4 +155,3 @@ Morgan's format trains audiences to see political engagement as entertainment co
 - [Piers Morgan returns to News UK to join TalkTV — Press Gazette](https://pressgazette.co.uk/news/piers-morgan-salary-talktv/) (Tier 2) (Chrome verified 2026-03-27)
 - [TalkTV lost another £50m before Piers Morgan quit — Yahoo Finance](https://finance.yahoo.com/news/talktv-lost-another-50m-piers-130427328.html) (Tier 2) (Chrome verified 2026-03-27)
 
-content-readiness:: ready

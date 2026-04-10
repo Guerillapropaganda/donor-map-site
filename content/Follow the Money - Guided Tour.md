@@ -134,4 +134,3 @@ Start with [[AIPAC - American Israel Public Affairs Committee|AIPAC]] — the mo
 
 ---
 
-content-readiness:: ready

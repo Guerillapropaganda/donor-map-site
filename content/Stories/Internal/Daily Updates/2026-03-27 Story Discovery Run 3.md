@@ -142,4 +142,3 @@ Based on this scan, in order of vault impact and novelty vs. prior runs:
 
 ---
 
-content-readiness:: draft

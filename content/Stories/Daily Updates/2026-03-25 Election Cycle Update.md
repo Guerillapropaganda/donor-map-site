@@ -108,4 +108,3 @@ Debate access is a form of non-monetary political capital that compounds with fu
 - **CA Governor story:** "The Structural Whiteness of Debate Criteria" — connect donation thresholds, polling feedback loops, and racial exclusion as a systemic pattern (not just a USC/KABC decision)
 - **New donor node needed:** Derek Dooley, Mike Collins, and Buddy Carter don't have profiles but are now relevant as Georgia Senate 2026 challengers; not creating them here (profile-builder's job)
 
-content-readiness:: draft

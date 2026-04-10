@@ -12,7 +12,6 @@ related: "[[David French]] · [[Jonah Goldberg]] · [[Steve Hayes]]"
 
 #media-pipeline #centrist #media-network #dispatch #conservative-intellectual #never-trump
 
-
 ---
 
 ### Who They Are
@@ -71,4 +70,3 @@ Does The Dispatch represent what the Republican donor class actually wants (free
 
 *No sources yet — raw placeholder.*
 
-content-readiness:: raw

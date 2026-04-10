@@ -13,8 +13,6 @@ source-types:
 
 donors: [[Real Estate Industry]]
 
-content-readiness:: ready
-
 ---
 
 ### The Money

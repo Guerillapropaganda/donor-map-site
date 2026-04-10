@@ -145,9 +145,8 @@ Coons is Big Pharma's man in the Senate — Jacobin's phrase, but the evidence i
 office:: Senate
 state:: Delaware
 party:: Democrat
-profile-status:: ready
+
 research-status:: ready
-content-readiness:: ready
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

@@ -55,8 +55,6 @@ Blackstone Real Estate's political significance: the firm's massive housing port
 - [SEC: Blackstone 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Blackstone%20Real%20Estate%20Political%20Operation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 - [Ballotpedia: Private equity political spending](https://ballotpedia.org/Blackstone_Real_Estate_Political_Operation) (Tier 3)
 
-content-readiness:: ready
-
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |

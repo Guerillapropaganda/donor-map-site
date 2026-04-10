@@ -55,4 +55,3 @@ The sequence:
 - [Congress.gov: ACA legislative history](https://www.congress.gov/bill/111th-congress/house-bill/3590) (Tier 1)
 - [CBO: Public option cost estimates](https://www.cbo.gov/topics/health) (Tier 1)
 
-content-readiness:: ready

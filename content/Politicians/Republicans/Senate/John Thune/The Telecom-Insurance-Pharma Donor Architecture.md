@@ -15,8 +15,6 @@ related: "[[_John Thune Master Profile]]"
 
 donors: [[PhRMA]] · (Telecom industry — AT&T, Verizon, Comcast) · (Insurance industry)
 
-content-readiness:: ready
-
 ---
 
 ### The Telecom-Insurance-Pharma Donor Architecture

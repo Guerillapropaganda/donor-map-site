@@ -13,8 +13,6 @@ related: "[[_Katie Porter Master Profile]] · [[Fairshake and the Crypto Industr
 
 donors: (ActBlue small-dollar network)
 
-content-readiness:: ready
-
 ---
 
 ### The Whiteboard Brand and the Corporate Accountability Record

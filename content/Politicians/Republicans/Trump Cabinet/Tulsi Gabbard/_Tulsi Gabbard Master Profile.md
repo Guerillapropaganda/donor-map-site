@@ -29,8 +29,6 @@ related: "[[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] 
 
 donors: Hindu Nationalist Organizations · Adelson Network · Anti-Interventionist Small Dollar · [[MAGA Inc]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -161,7 +159,6 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 - [ABC News: Gabbard's views on Russia shaped in part by Kremlin propaganda outlet, ex-aides say](https://abcnews.com/US/gabbards-views-russia-shaped-part-kremlin-propaganda-outlet/story?id=116430097) (Tier 2)
 - [Honolulu Civil Beat: Senators urged to examine Gabbard's 'deep and intense' ties to Hawaii sect](https://www.civilbeat.org/2024/12/senators-urged-to-examine-gabbards-deep-and-intense-ties-to-hawaii-sect/) (Tier 2)
 - [FEC: Tulsi Gabbard contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=gabbard,+tulsi) (Tier 1)
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

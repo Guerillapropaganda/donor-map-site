@@ -92,8 +92,6 @@ The Nevada machine illustrates how a regional power can balance labor alliance w
 
 ---
 
-content-readiness:: ready
-
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |

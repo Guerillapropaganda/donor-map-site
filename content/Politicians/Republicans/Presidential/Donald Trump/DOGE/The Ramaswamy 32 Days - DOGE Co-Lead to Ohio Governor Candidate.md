@@ -17,8 +17,6 @@ donors: "[[Rebekah Mercer]] · [[Christopher Ruddy]]"
 
 donors: [[Elon Musk]]
 
-content-readiness:: ready
-
 ---
 
 ### The Ramaswamy 32 Days. DOGE Co-Lead to Ohio Governor Candidate

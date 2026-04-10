@@ -90,8 +90,6 @@ Christopher Ruddy exemplifies how media proprietorship can be weaponized as a di
 
 ---
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

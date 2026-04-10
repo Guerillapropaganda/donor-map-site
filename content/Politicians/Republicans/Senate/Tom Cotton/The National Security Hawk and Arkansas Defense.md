@@ -49,4 +49,3 @@ Cotton's Intelligence Committee position gives him access to classified informat
 - [Congress.gov: Tom Cotton member page](https://www.congress.gov/member/tom-cotton/C001095) (Tier 1)
 - [Ballotpedia: Tom Cotton](https://ballotpedia.org/Tom_Cotton) (Tier 3)
 
-content-readiness:: ready

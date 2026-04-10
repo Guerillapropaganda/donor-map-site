@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #centrist #streaming #debate-bro #twitch #youtube #platform-ban
 
-
 ---
 
 ### Who They Are
@@ -155,4 +154,3 @@ Bonnell's format trains audiences to see political engagement as entertainment, 
 - [Destiny Net Worth and Earnings — Net Worth Spot](https://www.networthspot.com/destiny/net-worth/) (Tier 3) (Chrome verified 2026-03-27)
 - [The Left Wants Nearly Nothing to Do With Destiny — Medium](https://richardlentrup-11161.medium.com/the-left-wants-nearly-nothing-to-do-with-destiny-so-where-can-he-go-from-here-a530ccb6ea4a) (Tier 3) (Chrome verified 2026-03-27)
 
-content-readiness:: ready

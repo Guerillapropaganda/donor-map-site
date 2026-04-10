@@ -13,8 +13,6 @@ related: "[[_Steve Bannon Master Profile]] · [[Robert Mercer]] · [[Rebekah Mer
 
 donors: [[Robert Mercer]], [[Rebekah Mercer]]
 
-content-readiness:: ready
-
 ---
 
 ### The Mercer Investment and the Construction of Populist Infrastructure

@@ -43,4 +43,3 @@ Michigan is simultaneously an auto manufacturing state and a major agricultural 
 - [Congressional Research Service: Farm Bill primer](https://crsreports.congress.gov/product/pdf/IF/IF12047) (Tier 1)
 - [Ballotpedia: Debbie Stabenow](https://ballotpedia.org/Debbie_Stabenow) (Tier 3)
 
-content-readiness:: ready

@@ -26,8 +26,6 @@ related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt 
 
 donors: [[MAGA Small Dollar Base]] · Construction Industry - Taylor Commercial
 
-profile-status:: ready
-
 ---
 ---
 
@@ -164,7 +162,6 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 - [BuzzFeed News: CrossFit and MTG](https://www.buzzfeednews.com/article/ryancbrooks/marjorie-taylor-greene-qanon-crossfit) (Tier 2)
 - [NOTUS: MTG fundraising cash](https://www.notus.org/georgia/marjorie-taylor-greene-fundraising) (Tier 2)
 - [Capitol Beat: MTG Georgia's top congressional fundraiser](https://capitol-beat.org/2024/04/marjorie-taylor-greene-georgias-top-congressional-fundraiser/) (Tier 2)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

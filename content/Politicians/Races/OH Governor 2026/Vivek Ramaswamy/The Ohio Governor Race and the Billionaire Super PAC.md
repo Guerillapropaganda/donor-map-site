@@ -13,8 +13,6 @@ related: "[[_Vivek Ramaswamy Master Profile]] · [[Jeffrey Yass]] · [[Ross Stev
 
 donors: [[Jeffrey Yass]] [[Ross Stevens]] [[Susquehanna International Group]]
 
-content-readiness:: ready
-
 ---
 
 ### The Ohio Governor Race and the Billionaire Super PAC

@@ -41,4 +41,3 @@ The structural critique: Durbin's judicial confirmation success served the Democ
 - [Senate Judiciary Committee: Confirmation data](https://www.judiciary.senate.gov/nominations) (Tier 1)
 - [Ballotpedia: Dick Durbin](https://ballotpedia.org/Dick_Durbin) (Tier 3)
 
-content-readiness:: ready

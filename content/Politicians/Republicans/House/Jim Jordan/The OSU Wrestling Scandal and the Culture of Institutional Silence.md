@@ -13,8 +13,6 @@ related: "[[_Jim Jordan Master Profile]]"
 
 donors: (No specific donors identified in text)
 
-content-readiness:: ready
-
 ---
 
 ### The OSU Wrestling Scandal and the Culture of Institutional Silence

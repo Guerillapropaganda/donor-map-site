@@ -15,8 +15,6 @@ related: "[[_Russell Vought Master Profile]]"
 
 donors: [[Conservative Partnership Institute]], Klingenstein Fund, [[Bradley Impact Fund]], [[DonorsTrust]]
 
-content-readiness:: ready
-
 ---
 
 ### Christian Nationalism and the Theological Budget

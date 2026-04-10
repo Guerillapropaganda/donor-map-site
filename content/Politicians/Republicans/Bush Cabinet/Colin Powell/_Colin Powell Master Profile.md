@@ -28,8 +28,6 @@ related: "[[George W Bush]] · [[Dick Cheney]] · [[Lockheed Martin]] · [[Boein
 
 donors: [[Lockheed Martin]] · [[Boeing]] · [[Kleiner Perkins]] · [[Salesforce]]
 
-profile-status:: ready
-
 ---
 
 ## Who He Is
@@ -126,9 +124,6 @@ The pattern: military authority → government deployment of credibility for def
 - [Council on Foreign Relations: Colin Powell biography and board service](https://www.cfr.org/experts/colin-powell) (Tier 2)
 - [Defense News: Defense contractor profit analysis - Iraq War (2003–2023)](https://www.defensenews.com/industry/2023/03/20/the-true-cost-of-iraq-war/) (Tier 2)
 - [Salon: Colin Powell's lucrative post-government career](https://www.salon.com/2021/10/19/colin-powell-served-defense-contractors-well-after-government/) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

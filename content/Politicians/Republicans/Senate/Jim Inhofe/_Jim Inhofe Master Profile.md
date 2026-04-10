@@ -126,4 +126,3 @@ Inhofe represented one of America's poorest states while serving its wealthiest 
 
 ---
 
-content-readiness:: ready

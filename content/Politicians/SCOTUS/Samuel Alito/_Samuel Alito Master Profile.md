@@ -21,8 +21,6 @@ related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Koch Netwo
 
 donors: [[Leonard Leo]], [[Paul Singer]], [[Koch Network - Charles Koch]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -114,8 +112,6 @@ Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated 
 2. **The aggrieved conservative:** Alito has publicly complained about criticism of the Court, describing himself as a target of unfair attacks. The grievance narrative deflects from the substance of ethics complaints.
 3. **The categorical denial:** When confronted with evidence of donor conflicts (Singer trip, Schenck allegations), Alito's response is total denial rather than engagement. The strategy works because there is no enforcement mechanism to compel transparency.
 4. **The flag defense:** Martha-Ann Alito's flags were attributed to a "neighborhood dispute." The defense reframes political signaling as personal conflict — erasing the connection between the Alito household's political alignment and the cases before the Court.
-
-content-readiness:: ready
 
 ---
 

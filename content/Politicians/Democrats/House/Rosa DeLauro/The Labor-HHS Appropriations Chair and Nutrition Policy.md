@@ -41,4 +41,3 @@ The structural limit: DeLauro's nutrition advocacy does not extend to structural
 - [FEC Candidate: Rosa DeLauro campaign finance summary](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
 - [Ballotpedia: Rosa DeLauro](https://ballotpedia.org/Rosa_DeLauro) (Tier 3)
 
-content-readiness:: ready

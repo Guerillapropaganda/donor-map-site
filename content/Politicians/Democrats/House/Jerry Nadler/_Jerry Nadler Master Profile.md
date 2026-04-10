@@ -145,5 +145,3 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 
 ---
 
-profile-status:: ready
-content-readiness:: ready

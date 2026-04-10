@@ -13,8 +13,6 @@ related: "[[_John Ratcliffe Master Profile]]"
 
 donors: (Neoconservative donors — no specific nodes yet)
 
-content-readiness:: ready
-
 ---
 
 ### The Intelligence Politicization Pattern from DNI to CIA

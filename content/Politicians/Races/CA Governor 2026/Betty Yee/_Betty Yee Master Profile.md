@@ -26,8 +26,6 @@ related: "[[_Gavin Newsom Master Profile]] · [[CalPERS]] · [[CalSTRS]]"
 
 donors: [[CalPERS]] · [[CalSTRS]] · [[SEIU - Service Employees International Union|SEIU]] · Public Employee Unions
 
-profile-status:: ready
-
 ---
 ---
 
@@ -160,9 +158,6 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 - [CapRadio: Former state Controller Betty Yee announces campaign for California governor](https://www.capradio.org/articles/2024/03/27/former-state-controller-betty-yee-announces-campaign-for-california-governor/) (Tier 2)
 - [CBS San Francisco: Former state Controller Betty Yee latest to announce 2026 run for California governor](https://www.cbsnews.com/sanfrancisco/news/betty-yee-former-california-controller-2026-campaignf-for-governor/) (Tier 2)
 - [Pensions & Investments: Controller Yee: 'More work' ahead for CalPERS board](https://www.pionline.com/governance/controller-yee-more-work-ahead-calpers-board) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
 

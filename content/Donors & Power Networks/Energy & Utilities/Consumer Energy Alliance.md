@@ -73,8 +73,6 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 - [Center for Responsive Politics: CEA lobbying spending](https://www.opensecrets.org/organizations/consumer-energy-alliance) (Tier 1)
 - [DeSmog: Consumer Energy Alliance (CEA) — fossil fuel industry front group profile](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2)
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

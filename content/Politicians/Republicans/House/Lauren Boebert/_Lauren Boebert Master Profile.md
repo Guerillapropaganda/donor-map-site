@@ -179,9 +179,6 @@ The restaurant was never a successful business — it was a brand-building exerc
 - [GovTrack: Lauren Boebert 2022 report card](https://www.govtrack.us/congress/members/lauren_boebert/456805/report-card/2022) (Tier 3)
 - [Ballotpedia: Lauren Boebert](https://ballotpedia.org/Lauren_Boebert) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

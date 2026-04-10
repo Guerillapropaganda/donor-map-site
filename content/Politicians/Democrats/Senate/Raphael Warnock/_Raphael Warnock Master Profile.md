@@ -242,7 +242,6 @@ This is the corporate-democrat template: use moral authority language ("everyone
 - [Washington Post: Ebenezer Baptist: MLK's church central to Raphael Warnock's Senate victory in Georgia](https://www.washingtonpost.com/history/2021/01/03/ebenezer-baptist-king-mlk-warnock/) (Tier 2)
 - [Ebenezer Baptist Church: Our Pastor - Raphael Warnock](https://www.ebenezeratl.org/our-pastor/) (Tier 1)
 - [Senator Warnock Official Website: About The Senator](https://www.warnock.senate.gov/about/) (Tier 1)
-content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
 

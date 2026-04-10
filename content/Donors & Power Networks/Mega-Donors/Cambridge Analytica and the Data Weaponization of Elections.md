@@ -92,7 +92,6 @@ Cambridge Analytica was hired as consultant by Leave.EU and UKIP during the 2016
 - [Campaign Legal Center: Coordination violation complaint](https://campaignlegal.org/document/clc-supplemental-complaint-re-cambridge-analytica-and-make-america-number-1) (Tier 2)
 
 research-status:: ready — $15-20M Mercer investment, 87M Facebook profiles, psychographic OCEAN model, Cruz→Trump deployment, FEC coordination complaint, $5B Facebook fine, Emerdata successor. 6 sources, Tier 1-3. All ### headers. Promoted Session 38m.
-content-readiness:: ready
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

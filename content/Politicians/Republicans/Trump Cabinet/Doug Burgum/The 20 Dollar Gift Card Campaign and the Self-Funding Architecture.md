@@ -13,8 +13,6 @@ related: "[[_Doug Burgum Master Profile]]"
 
 donors: Miles White - Abbott Labs
 
-content-readiness:: ready
-
 ---
 
 ### The $20 Gift Card Campaign and the Self-Funding Architecture

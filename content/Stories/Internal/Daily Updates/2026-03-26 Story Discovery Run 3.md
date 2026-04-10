@@ -191,5 +191,3 @@ The structural function: DOGE creates the appearance of fiscal discipline while 
 5. **`The DOGE Exemption.md`** (cross-politician analysis) — Silver, defense contractor donor class preserved
 
 ---
-
-content-readiness:: draft

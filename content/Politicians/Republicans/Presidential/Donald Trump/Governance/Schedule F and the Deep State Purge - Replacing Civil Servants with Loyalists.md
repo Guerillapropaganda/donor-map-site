@@ -109,8 +109,6 @@ No legislation required. No public debate. No voted-on compromise. Just executiv
 
 ---
 
-content-readiness:: ready
-
 ---
 
 ### SOURCES

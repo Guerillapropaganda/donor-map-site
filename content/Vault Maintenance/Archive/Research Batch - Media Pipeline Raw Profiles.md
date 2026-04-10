@@ -170,5 +170,3 @@ For every data point, cite the source as [Source Name: Description](URL).
 4. Any claims that can't be sourced become `(URL NEEDED)` tags for manual hunting
 
 **Expected output:** 25 profiles worth of pre-sourced research material. Should cut build time roughly in half per profile.
-
-content-readiness:: raw

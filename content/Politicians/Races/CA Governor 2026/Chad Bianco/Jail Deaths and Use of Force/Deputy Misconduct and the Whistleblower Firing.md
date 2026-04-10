@@ -126,7 +126,5 @@ This is the structural endpoint of the accountability gap documented across the 
 - [KFI AM 640 — Flores lawsuit](https://kfiam640.iheart.com/content/2025-09-19-ca-sheriff-chad-bianco-faces-lawsuit-amid-jail-deaths/) (Tier 2)
 - [KESQ — $77M in misconduct settlements](https://kesq.com/news/2022/03/11/riverside-county-paid-77m-in-settlements-for-police-misconduct-report/) (Tier 2)
 
-content-readiness:: ready
-
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

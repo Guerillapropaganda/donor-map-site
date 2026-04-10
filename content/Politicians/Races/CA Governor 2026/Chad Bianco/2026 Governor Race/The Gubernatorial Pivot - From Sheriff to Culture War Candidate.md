@@ -120,7 +120,5 @@ A Bianco governorship would test whether the constitutional sheriff doctrine can
 - [Daily News — legal bills fundraising](https://www.dailynews.com/2025/11/26/chad-bianco-whos-running-for-governor-asks-donors-to-help-pay-legal-bills/) (Tier 2)
 - [Press Enterprise — 5 things to know](https://www.pressenterprise.com/2025/02/18/5-things-to-know-about-chad-bianco-republican-candidate-for-california-governor/) (Tier 2)
 
-content-readiness:: ready
-
 ### Voting Record
 

@@ -42,4 +42,3 @@ Schatz's fundraising is notable for its small-dollar composition. His ActBlue re
 - [FEC Candidate: Brian Schatz campaign finance summary](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
 - [Ballotpedia: Brian Schatz](https://ballotpedia.org/Brian_Schatz) (Tier 3)
 
-content-readiness:: ready

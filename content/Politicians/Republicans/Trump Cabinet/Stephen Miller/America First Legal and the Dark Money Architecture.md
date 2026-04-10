@@ -13,8 +13,6 @@ related: "[[_Stephen Miller Master Profile]] · [[_Russell Vought Master Profile
 
 donors: [[Bradley Impact Fund]], [[DonorsTrust]], [[Conservative Partnership Institute]]
 
-content-readiness:: ready
-
 ---
 
 ### America First Legal and the Dark Money Architecture

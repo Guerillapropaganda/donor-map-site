@@ -13,8 +13,6 @@ related: "[[_Kash Patel Master Profile]] · [[_Donald Trump Master Profile]] · 
 
 donors: Trump political network
 
-content-readiness:: ready
-
 ---
 
 ### The Nunes Pipeline and the Loyalty Promotion System

@@ -49,4 +49,3 @@ Advanced U.S. weapons systems (F-35, drones, missile defense), diplomatic suppor
 - [State Department: Abraham Accords](https://www.state.gov/the-abraham-accords/) (Tier 1)
 - [Ballotpedia: UAE-US relations](https://ballotpedia.org/United_Arab_Emirates_-_Influence_Operation) (Tier 3)
 
-content-readiness:: ready

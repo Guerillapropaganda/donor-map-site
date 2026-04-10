@@ -32,8 +32,6 @@ related:
 
 donors:
 
-profile-status:: ready
-
 ---
 ---
 
@@ -144,5 +142,3 @@ During the pandemic, Velazquez led the Democratic response on PPP loans — and 
 - [House Natural Resources Democrats: Grijalva, Velazquez on PPP equity for territories](https://democrats-naturalresources.house.gov/media/press-releases/chairs-grijalva-velazquez-ppp-loan-distribution-must-be-equitable-for-small-businesses-in-us-territories) (Tier 1)
 - [Ballotpedia: Nydia Velazquez](https://ballotpedia.org/Nydia_Vel%C3%A1zquez) (Tier 3)
 - [Wikipedia: Nydia Velazquez](https://en.wikipedia.org/wiki/Nydia_Vel%C3%A1zquez) (Tier 3)
-
-content-readiness:: ready

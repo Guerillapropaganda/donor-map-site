@@ -24,7 +24,5 @@ Located at: `topics/Donors & Power Networks/Mega-Donors/Jeffrey Yass.md`
 
 This file existed as a duplicate at the root of Donors & Power Networks. Individual mega-donors belong in Mega-Donors/. Redirected 2026-04-01.
 
-content-readiness:: raw
-
 ### Lobbying Activity
 

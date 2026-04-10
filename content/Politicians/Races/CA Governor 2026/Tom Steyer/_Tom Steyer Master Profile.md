@@ -29,8 +29,6 @@ related: "[[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt M
 
 donors: [[Michael Bloomberg]] · [[CNA - California Nurses Association]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -172,7 +170,6 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 - California Nurses Association: CNA endorsement announcement (Tier 1)
 - [CalMatters: Governor race reporting](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - The Hill: Farallon divestment timeline (Tier 2)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

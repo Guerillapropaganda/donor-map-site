@@ -49,8 +49,6 @@ related: "[[PhRMA]] · [[Pharmaceutical Industry]]"
 
 PhRMA - Pharmaceutical Research and Manufacturers of America. A redirect node for the full-name wikilink. See [[PhRMA]] for the complete profile of the pharmaceutical industry's trade association and lobbying powerhouse.
 
-content-readiness:: raw
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

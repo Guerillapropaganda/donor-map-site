@@ -25,8 +25,6 @@ related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Eric Schmidt]] · [[Marc A
 
 donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -150,7 +148,6 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 - CNBC: billionaire tax opposition (Tier 2)
 - [CalMatters: Governor race fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
 - San Jose Inside: VC donor bandwagon (Tier 2)
-content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
 

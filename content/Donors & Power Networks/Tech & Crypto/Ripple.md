@@ -69,8 +69,6 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 
 ---
 
-`content-readiness:: ready
-
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |

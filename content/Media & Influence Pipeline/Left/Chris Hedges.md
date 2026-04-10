@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #left #institutional-transition #pulitzer-prize #editorial-constraints
 
-
 ---
 
 ### Who They Are
@@ -198,4 +197,3 @@ Substack paid subscriptions (primary), book royalties (secondary), speaking enga
 - [The Chris Hedges Report — The Real News Network](https://therealnews.com/chris-hedges-report) (Tier 2) (Chrome verified 2026-03-27)
 - [Chris Hedges — Substack](https://chrishedges.substack.com/) (Tier 2) (Chrome verified 2026-03-27)
 
-content-readiness:: ready

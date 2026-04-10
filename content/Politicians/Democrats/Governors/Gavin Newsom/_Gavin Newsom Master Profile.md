@@ -223,9 +223,6 @@ The new fault line: AI. Labor unions publicly conditioned 2028 support on AI reg
 - [FPPC: California Campaign Finance Records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [OpenSecrets: Gavin Newsom Campaign Finance](https://www.opensecrets.org/officeholders/gavin-newsom/summary?cycle=2021&id=312332) (Tier 1)
 
-profile-status:: ready — all policy areas have individual notes (healthcare, Israel, housing, labor, immigration, environment, criminal justice, education, economic policy). All bold headers converted to ### format. Donor class map with 10 sector links. Donation-to-policy timeline with temporal mapping. Rhetorical signature moves documented. 2028 positioning tracked. Analytical patterns applied. All major claims inline-cited with Tier 1-2 sources (FPPC, OpenSecrets, CalMatters). Promoted to ready Session 38h (March 23, 2026).
-content-readiness:: ready
-
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |

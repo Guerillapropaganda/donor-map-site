@@ -108,4 +108,3 @@ California's legal resistance to Trump is framed as a model of federalism and st
 - [LA Times: Special session and immigration focus](https://www.latimes.com/california/story/2025-01-06/newsom-special-session-trump) (Tier 2)
 - [Migration Policy Institute: Comparing the Biden and Trump Deportation Records](https://www.migrationpolicy.org/article/biden-deportation-record) (Tier 2)
 
-content-readiness:: ready

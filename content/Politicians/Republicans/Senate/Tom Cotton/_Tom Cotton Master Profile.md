@@ -34,8 +34,6 @@ related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public A
 
 donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [[Defense Industry]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -126,7 +124,6 @@ Tom Cotton. Republican senator from Arkansas (2015–present). The neoconservati
 - [Snopes: Army Ranger claim fact check](https://www.snopes.com/fact-check/tom-cotton-army-ranger/) (Tier 2)
 - [Washington Post: NYT editorial page editor resigns after uproar over Cotton op-ed](https://www.washingtonpost.com/lifestyle/media/new-york-times-editorial-page-editor-resigns-after-uproar-over-cotton-op-ed/2020/06/07/bca09606-a8fd-11ea-9063-e69bd6520940_story.html) (Tier 2)
 - [Daily Beast: Cotton as neocon darling](https://www.thedailybeast.com/cruz-trashed-trump-and-vance-in-secret-recordings-f-you-ted/) (Tier 2)
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

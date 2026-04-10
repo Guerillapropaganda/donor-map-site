@@ -282,8 +282,6 @@ Unverified sources (marked inline): 3 (Washington Post Musk, Fortune DOGE, NBC N
 
 ---
 
-content-readiness:: draft
-
 ---
 
 ### Run 2 — 2026-03-26 (Automated — story-discovery)

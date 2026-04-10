@@ -168,4 +168,3 @@ The CTA non-endorsement through March 2026 may reflect CTA's uncertainty about w
 - [EdSource: Tony Thurmond cruises to reelection as California state superintendent](https://edsource.org/2022/tony-thurmond-cruises-to-re-election-as-california-state-superintendent/681035) (Tier 2)
 - [San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html) (Tier 2)
 
-content-readiness:: ready

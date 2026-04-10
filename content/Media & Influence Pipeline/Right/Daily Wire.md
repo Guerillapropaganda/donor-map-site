@@ -12,7 +12,6 @@ related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Michael Knowles]] · [[Andrew K
 
 #media-pipeline #right #media-network #wilks-brothers #daily-wire #fossil-fuel-money #subscription-model
 
-
 ---
 
 ### Who They Are
@@ -185,4 +184,3 @@ The Crowder rejection and the Owens firing reveal the enforcement architecture. 
 - [Status News / Oliver Darcy: The Daily Wire's Woes (April 1, 2025)](https://www.status.news/p/daily-wire-jeremy-boreing-layoffs) (Tier 2) (WebFetch verified 2026-03-31 — executive departures, staff cuts, entertainment division strain)
 - [Alternet via MEXC: Conservative Hollywood dream "in ruins" — Pendragon Cycle production costs](https://www.mexc.com/news/590548) (Tier 3) (WebFetch verified 2026-03-31 — $14M-$67M range, "seven figures" per episode, Boreing departure context)
 
-content-readiness:: ready

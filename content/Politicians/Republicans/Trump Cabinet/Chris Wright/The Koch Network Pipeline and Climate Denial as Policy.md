@@ -13,8 +13,6 @@ related: "[[_Chris Wright Master Profile]] · [[Koch Network - Charles Koch]]"
 
 donors: [[Koch Network - Charles Koch]]
 
-content-readiness:: ready
-
 ---
 
 ### The [[Koch Network - Charles Koch|Koch Network]] Pipeline and Climate Denial as Policy

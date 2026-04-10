@@ -49,8 +49,6 @@ related: "[[_Joe Manchin Master Profile|Manchin]] · [[_Donald Trump Master Prof
 
 donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE]] · [[TAKE ME HOME WV ACTION]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -177,8 +175,6 @@ The dynastic element deepens the story. Her father — a governor convicted of e
 - [Ballotpedia: Shelley Moore Capito](https://ballotpedia.org/Shelley_Moore_Capito) (Tier 3)
 - [Wikipedia: Shelley Moore Capito](https://en.wikipedia.org/wiki/Shelley_Moore_Capito) (Tier 3)
 - [WV Encyclopedia: Shelley Moore Capito](https://www.wvencyclopedia.org/entries/903) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

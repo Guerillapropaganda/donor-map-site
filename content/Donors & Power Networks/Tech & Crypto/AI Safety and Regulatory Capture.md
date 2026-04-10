@@ -41,4 +41,3 @@ AI industry personnel move between companies, government advisory bodies, and re
 
 - [Ballotpedia: AI policy](https://ballotpedia.org/AI_Safety_and_Regulatory_Capture) (Tier 3)
 
-content-readiness:: ready

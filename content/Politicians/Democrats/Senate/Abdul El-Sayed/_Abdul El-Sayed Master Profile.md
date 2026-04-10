@@ -29,8 +29,6 @@ related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[2026 Senate Pri
 
 donors: Small-Dollar Progressive Networks · Sanders Endorsement Effect
 
-profile-status:: ready
-
 ---
 ---
 
@@ -172,8 +170,6 @@ El-Sayed's 2018 campaign is instructive for understanding his 2026 strategy and 
 - [Abdul El-Sayed - Wikipedia](https://en.wikipedia.org/wiki/Abdul_El-Sayed) (Tier 3) (VERIFIED)
 - [Abdul El-Sayed - Ballotpedia](https://ballotpedia.org/Abdul_El-Sayed) (Tier 3) (VERIFIED)
 - [Abdul El-Sayed, MD, DPhil - Paul & Daisy Soros Fellowships for New Americans](https://pdsoros.org/fellows/abdul-el-sayed/) (Tier 1) (VERIFIED)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -65,8 +65,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - [IRS Form 990: Brady Campaign nonprofit financials](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1)
 - [Washington Post: After El Paso and Dayton shootings, gun-control groups seize momentum](https://www.washingtonpost.com/politics/2019/08/13/people-are-fed-up-after-el-paso-dayton-shootings-gun-control-groups-seize-momentum/) (Tier 2)
 
-`content-readiness:: ready
-
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
 | Metric | Value |

@@ -11,8 +11,6 @@ related: "[[NextGen America and the Climate-to-Politics Pipeline]] · [[_Tom Ste
 
 donors: [[Fossil Fuel Bloc]]
 
-content-readiness:: ready
-
 ---
 
 ### Farallon Capital and the Fossil Fuel Fortune

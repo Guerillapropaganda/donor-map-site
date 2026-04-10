@@ -168,4 +168,3 @@ Private equity healthcare acquisitions continued through January 2026 despite gr
 
 ---
 
-content-readiness:: draft

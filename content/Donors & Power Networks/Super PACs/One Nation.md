@@ -101,7 +101,6 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 
 ---
 
-`content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

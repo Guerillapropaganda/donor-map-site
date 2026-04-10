@@ -130,7 +130,7 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 ---
 
 research-status:: draft — Financial profile and political contribution data documented from research dossier and OpenSecrets. Gaps: detailed lobbying issue analysis, specific policy outcomes linked to contributions, historical contribution trends, connections to specific legislation (pipeline permitting bills, MLP tax provisions). FEC API available for deeper contribution analysis.
-content-readiness:: draft
+
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

@@ -13,8 +13,6 @@ related: "[[_Josh Shapiro Master Profile]]"
 
 donors: [[Fossil Fuel Bloc]]
 
-content-readiness:: ready
-
 ---
 
 ### The Fracking Alliance and the Energy Contradiction

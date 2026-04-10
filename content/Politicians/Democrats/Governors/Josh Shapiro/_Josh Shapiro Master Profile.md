@@ -25,8 +25,6 @@ related: "[[_Andy Beshear Master Profile]] · [[_Wes Moore Master Profile]] · [
 
 donors: [[Michael Bloomberg]] · [[AIPAC - American Israel Public Affairs Committee]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -125,4 +123,4 @@ Josh Shapiro. Governor of Pennsylvania (2023–present). Former Pennsylvania Att
 - Associated Press: Shapiro VP vetting and AIPAC concerns (Tier 2)
 - Reuters: Pennsylvania Catholic Church grand jury report (Tier 2)
 - StateImpact Pennsylvania: Shapiro fracking policy (Tier 2)
-content-readiness:: ready
+

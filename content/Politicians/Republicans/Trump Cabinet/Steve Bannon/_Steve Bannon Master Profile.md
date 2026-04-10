@@ -25,8 +25,6 @@ related: "[[_Donald Trump Master Profile]] · [[Robert Mercer]] · [[Rebekah Mer
 
 donors: [[Robert Mercer]] · [[Rebekah Mercer]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -116,7 +114,6 @@ Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 mo
 - [Axios: Breitbart $750K salary](https://www.axios.com/2017/12/15/breitbart-paid-bannon-750000year-1513300900) (Tier 2)
 - [CNN: Cambridge Analytica and Bannon](https://www.cnn.com/2018/03/30/politics/bannon-cambridge-analytica) (Tier 2)
 - [FEC: Steve Bannon contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=bannon,+steve) (Tier 1)
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

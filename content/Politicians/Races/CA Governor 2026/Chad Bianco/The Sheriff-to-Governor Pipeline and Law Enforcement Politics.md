@@ -50,4 +50,3 @@ The law enforcement funding model: police unions advocate for higher pay, expand
 - [FPPC: Chad Bianco campaign filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [Ballotpedia: Chad Bianco](https://ballotpedia.org/Chad_Bianco) (Tier 3)
 
-content-readiness:: ready

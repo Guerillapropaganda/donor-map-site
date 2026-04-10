@@ -174,9 +174,6 @@ The key electoral mechanism: Baldwin didn't run as a national progressive — sh
 
 ---
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

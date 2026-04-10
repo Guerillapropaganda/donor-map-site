@@ -44,4 +44,3 @@ The structural limit: Murphy's Yemen advocacy challenged a specific military ope
 - [FEC Candidate: Chris Murphy donor profile](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
 - [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy) (Tier 3)
 
-content-readiness:: ready

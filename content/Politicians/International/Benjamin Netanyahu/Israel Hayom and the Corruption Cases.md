@@ -84,5 +84,3 @@ This is a pure protection racket. Media owner faces competition from Adelson's I
 - [Times of Israel — Netanyahu trial updates](https://www.timesofisrael.com/tag/netanyahu-trial/) (Tier 2)
 - [Haaretz — Netanyahu corruption cases analysis](https://www.haaretz.com/misc/tags/TAG_netanyahu_corruption) (Tier 2)
 
-profile-status:: ready Master Profile sub-note
-content-readiness:: ready

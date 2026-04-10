@@ -38,8 +38,6 @@ related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]]
 
 donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [[Fossil Fuel Bloc]], Religious Right Donor Network
 
-profile-status:: ready
-
 ---
 ---
 
@@ -136,7 +134,6 @@ Mike Johnson. Speaker of the House (October 2023–present). Representative for 
 - The Hill: Speaker fundraising records (Tier 2)
 - Democracy Docket: Election denier Speaker (Tier 2)
 - DeSmog: Oil and gas industry donations (Tier 2)
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 

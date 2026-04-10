@@ -58,5 +58,4 @@ Sector-specific donor networks:
 
 ---
 
-content-readiness:: ready
 research-status:: active

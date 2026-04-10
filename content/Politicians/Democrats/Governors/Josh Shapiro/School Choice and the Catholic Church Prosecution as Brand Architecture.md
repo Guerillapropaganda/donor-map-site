@@ -11,8 +11,6 @@ related: "[[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [
 
 donors: [[Michael Bloomberg]]
 
-content-readiness:: ready
-
 ---
 
 ### School Choice and the Catholic Church Prosecution as Brand Architecture

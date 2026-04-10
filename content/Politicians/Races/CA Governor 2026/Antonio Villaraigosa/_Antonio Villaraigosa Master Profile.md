@@ -26,8 +26,6 @@ related: "[[California Building and Construction Trades Council]] · [[Californi
 
 donors: [[California Building and Construction Trades Council]] · [[California Apartment Association]] · Charter Schools Coalition
 
-profile-status:: ready
-
 ---
 ---
 
@@ -160,9 +158,6 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 - [NBC News: California governor debate canceled after criticism of criteria that excluded candidates of color](https://www.nbcnews.com/politics/2026-election/california-governor-debate-canceled-criticism-candidates-color-rcna264945) (Tier 2)
 - [OPB: University cancels California governor debate after accusations of bias from candidates of color](https://www.opb.org/article/2026/03/24/university-cancels-california-governor-debate-after-accusations-of-bias-from-candidates-of-color/) (Tier 2)
 - [CalMatters Opinion: CA governor's race gets weirder with debate cancellation](https://calmatters.org/commentary/2026/03/california-governors-race-debate-cancellation/) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

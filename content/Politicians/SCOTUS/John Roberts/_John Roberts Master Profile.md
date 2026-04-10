@@ -24,8 +24,6 @@ related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Al
 
 donors: [[Leonard Leo]], [[Koch Network - Charles Koch]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -138,7 +136,6 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 - [CNN: How John Roberts Killed the Census Citizenship Question](https://www.cnn.com/2019/09/12/politics/john-roberts-census-citizenship-supreme-court) (Tier 2)
 - [NPR: Supreme Court Justices' Disclosures Reveal Details of Their Wealth](https://www.npr.org/2023/06/28/1183337280/supreme-court-ethics-financial-disclosures-possible-conflicts-of-interest) (Tier 2)
 - [Congress.gov: Loper Bright and the Future of Agency Interpretations](https://www.congress.gov/crs-product/R48320) (Tier 1)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

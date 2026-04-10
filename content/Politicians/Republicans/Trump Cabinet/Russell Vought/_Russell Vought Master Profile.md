@@ -21,8 +21,6 @@ related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]]"
 
 donors: [[Leonard Leo]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -114,7 +112,6 @@ Russell Vought. OMB Director (second term, confirmed February 2025, 53-47 party-
 - [SourceWatch: Center for Renewing America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_Renewing_America) (Tier 3)
 - [Baptist News Global: Vought Christian nationalist statements](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/) (Tier 2)
 - [Congress.gov: Russell Vought fundraising and contributions](https://www.congress.gov/search?q=Search&searchResultViewType=expanded) (Tier 1)
-content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
 

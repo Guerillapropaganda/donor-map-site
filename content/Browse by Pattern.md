@@ -109,4 +109,3 @@ The committee assignment creates the donor pipeline, not the other way around.
 
 ### Return to [[The Donor Map Database]]** · **[[Politicians Index]]** · **[[Donors & Power Networks Index]]** · **[[Follow the Money - Guided Tour]]
 
-content-readiness:: ready

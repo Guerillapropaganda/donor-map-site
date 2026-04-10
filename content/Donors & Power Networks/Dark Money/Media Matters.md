@@ -160,7 +160,6 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 - [CNN: Elon Musk sues Media Matters](https://www.cnn.com/technology/elon-musk-sues-media-matters/index.html) *(source unavailable)* (Tier 3)
 - [Media Matters: About Us and Research](https://www.mediamatters.org/about-us) (Tier 2)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

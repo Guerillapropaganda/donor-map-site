@@ -13,8 +13,6 @@ related: "[[_Mitch McConnell Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch 
 
 donors: [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]
 
-content-readiness:: ready
-
 ---
 
 ### Kentucky Inc — Coal, Tobacco, Bourbon, and Pharma

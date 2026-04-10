@@ -11,8 +11,6 @@ related: "[[_Barack Obama Master Profile]] · [[Google]] · [[Apple]] · [[Silic
 
 donors: [[Google]], [[Apple]], [[Silicon Valley Democratic Donor Network]]
 
-content-readiness:: ready
-
 ---
 
 ### The Silicon Valley Presidency - Google Surveillance and Market Dominance
@@ -152,7 +150,6 @@ The post-presidency funding flows confirm: Silicon Valley tech billionaires beca
 - [USPTO: Obama Administration Patent Policy Changes](https://www.uspto.gov/about-us/performance-and-planning/agency-strategic-documents) *(source unavailable)* (Tier 1)
 - [FTC: Google Antitrust Investigation Closure Statement (January 2013)](https://www.ftc.gov/system/files/attachments/merger-investigation-matters/130103googlewirthabstandingstatement.pdf) *(source unavailable)* (Tier 1)
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel Appendix
@@ -181,4 +178,4 @@ Section 215 bulk collection: ended November 29, 2015 under USA Freedom Act. PRIS
 ---
 
 research-status:: draft -- Dossier material from Surveillance (lines 1007-1115) and Tech/Silicon Valley (lines 1445-1550) sections merged into existing note. New material added: Clapper perjury timeline, Espionage Act prosecution record, FISA July 2008 flip, revolving door named officials, donation amounts by cycle, net neutrality timeline, EU vs. US antitrust disparity, Booz Allen/Clapper connection, USA Freedom Act reform gap. All new sources marked (UNVERIFIED) pending Chrome verification. Source tier: Tier 1 (FTC press release, Obama White House archive). FEC API data pending Chrome execution for full contribution verification.
-content-readiness:: draft
+

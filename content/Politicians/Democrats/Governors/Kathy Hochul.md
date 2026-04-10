@@ -87,8 +87,5 @@ Hochul represents the exhaustion of Democratic executive authority when confront
 - [NY1: Hochul Donors Include Executives Seeking State Business](https://ny1.com/nyc/all-boroughs/politics/2022/10/14/as-companies-look-for-state-business--executives-contribute-to-hochul) (Tier 2)
 - [Grist: Caving on Climate: Kathy Hochul Axes Congestion Pricing in New York](https://grist.org/transportation/kathy-hochul-congestion-pricing-new-york/) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Legislative Activity (Congress.gov)
 

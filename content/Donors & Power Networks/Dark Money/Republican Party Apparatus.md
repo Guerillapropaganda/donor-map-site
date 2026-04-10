@@ -36,4 +36,3 @@ The Trump era transformed the Republican Party apparatus from an institution tha
 - [OpenSecrets: Republican Party fundraising](https://www.opensecrets.org/parties/) (Tier 1)
 - [Ballotpedia: Republican National Committee](https://ballotpedia.org/Republican_Party_Apparatus) (Tier 3)
 
-content-readiness:: ready

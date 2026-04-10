@@ -185,4 +185,3 @@ A fiscal watchdog who watches state spending but not corporate tax avoidance or 
 - [Pensions & Investments: Controller Yee: 'More work' ahead for CalPERS board](https://www.pionline.com/governance/controller-yee-more-work-ahead-calpers-board) (Tier 2)
 - [Naked Capitalism: CalPERS, CalSTRS Board Member Betty Yee Asks the SEC to Rescue Public Pension Funds](https://www.nakedcapitalism.com/2016/02/calpers-calstrs-board-member-betty-yee-asks-the-sec-to-rescue-public-pension-funds-from-themselves.html) (Tier 3)
 
-content-readiness:: ready

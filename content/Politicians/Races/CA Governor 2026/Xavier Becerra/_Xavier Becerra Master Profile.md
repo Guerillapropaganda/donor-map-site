@@ -23,8 +23,6 @@ related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] 
 
 donors: California State Council of Laborers
 
-profile-status:: ready
-
 ---
 ---
 
@@ -138,9 +136,6 @@ Becerra had $1.4 million remaining from an abandoned 2022 re-election bid for at
 - [ABC7 San Francisco: Dana Williamson, Ex-aide to Gov. [[Gavin Newsom]], indicted for alleged theft of campaign funds](https://abc7news.com/post/dana-williamson-ex-aide-gov-gavin-newsom-indicted-alleged-theft-campaign-funds-health-sec-xavier-becerra/18148679/) (Tier 2)
 - [NBC News: California governor debate canceled after criticism of criteria that excluded candidates of color](https://www.nbcnews.com/politics/2026-election/california-governor-debate-canceled-criticism-candidates-color-rcna264945) (Tier 2)
 - [OPB: University cancels California governor debate after accusations of bias from candidates of color](https://www.opb.org/article/2026/03/24/university-cancels-california-governor-debate-after-accusations-of-bias-from-candidates-of-color/) (Tier 2)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

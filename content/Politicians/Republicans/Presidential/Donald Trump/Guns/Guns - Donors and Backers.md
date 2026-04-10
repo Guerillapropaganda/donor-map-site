@@ -77,4 +77,3 @@ No major donor funds gun violence prevention at scale comparable to the gun lobb
 
 - [OpenSecrets: NRA Spending Data](https://www.opensecrets.org/members-of-congress/summary?name=Guns) (Tier 1)
 
-content-readiness:: ready

@@ -36,4 +36,3 @@ The 2026 primaries are where the vault's donor-policy analysis becomes predictiv
 - [Cook Political Report: 2026 Senate ratings](https://www.cookpolitical.com/?q=2026%20Senate%20Primary%20Races) (Tier 3)
 - [Ballotpedia: 2026 Senate elections](https://ballotpedia.org/2026_Senate_Primary_Races) (Tier 3)
 
-content-readiness:: ready

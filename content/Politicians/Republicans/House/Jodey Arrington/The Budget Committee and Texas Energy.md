@@ -43,4 +43,3 @@ The Permian Basin produces over 6 million barrels of oil per day — approximate
 - [EIA: Permian Basin production data](https://www.eia.gov/petroleum/drilling/) (Tier 1)
 - [Ballotpedia: Jodey Arrington](https://ballotpedia.org/Jodey_Arrington) (Tier 3)
 
-content-readiness:: ready

@@ -13,8 +13,6 @@ related: "[[_Linda McMahon Master Profile]] · [[_Donald Trump Master Profile]]"
 
 donors: [[_Donald Trump Master Profile]] · [[MAGA Inc]]
 
-content-readiness:: ready
-
 ---
 
 ### The $50 Million Pipeline from WWE to the Cabinet

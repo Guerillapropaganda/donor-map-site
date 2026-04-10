@@ -26,8 +26,6 @@ known-gaps:
 
 GEO Group - Private Prisons. A redirect node for "GEO Group - Private Prisons" wikilinks. See [[GEO Group]] for the full profile covering the private prison industry's political operation, ICE detention contracts, and the incarceration-profit pipeline.
 
-content-readiness:: raw
-
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
 | Metric | Value |

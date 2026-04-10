@@ -125,9 +125,6 @@ Goldman represents the final stage of Democratic realignment: dynastic wealth in
 - [Track AIPAC: Dan Goldman AIPAC contributions and alignment](https://www.trackaipac.com/congress) (Tier 2)
 - [Jewish Telegraphic Agency: Dan Goldman pro-Israel stance 2022 primary](https://www.jta.org/2026/02/18/ny/dan-goldman-in-heated-ny-10-primary-defends-his-pro-israel-stance-as-consistent-with-his-progressive-values) (Tier 2)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

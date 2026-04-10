@@ -23,8 +23,6 @@ related: "[[Koch Network - Charles Koch]] · [[The Carlyle Group and the Private
 
 donors: [[Carlyle Group|Carlyle Group (self)]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -167,4 +165,4 @@ His liabilities: the 2024 election cycle revealed that Republican primary voters
 - [VPM / PolitiFact: Youngkin's CRT Claims Rated 'False'](https://www.vpm.org/news/2021-08-10/politifact-va-youngkins-crt-claims-rated-false) (Tier 2)
 - [ProgressVA: Glenn Youngkin's Push to Ban Accurate History is About Making Money for The Carlyle Group](https://progressva.org/press-release/glenn-youngkins-push-to-ban-accurate-history-is-about-making-money-for-the-carlyle-group/) (Tier 4 — flag: progressive advocacy publication) (Tier 2)
 - [Wikipedia: The Carlyle Group](https://en.wikipedia.org/wiki/The_Carlyle_Group) (Tier 3)
-content-readiness:: ready
+

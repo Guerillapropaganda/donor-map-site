@@ -44,4 +44,3 @@ Analytical pieces and working files, separated for clean publishing.
 - Published stories: `type: story`
 - Internal daily updates: `type: daily-update`
 
-content-readiness:: ready

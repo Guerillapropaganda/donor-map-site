@@ -13,8 +13,6 @@ related: "[[_Russell Vought Master Profile]] · [[Leonard Leo]]"
 
 donors: [[Leonard Leo]], [[Robert Mercer]], [[DonorsTrust]], [[Conservative Partnership Institute]]
 
-content-readiness:: ready
-
 ---
 
 ### The Project 2025 Pipeline and the Center for Renewing America

@@ -13,8 +13,6 @@ related: "[[_Andy Beshear Master Profile]]"
 
 donors: []
 
-content-readiness:: ready
-
 ---
 
 ### The Political Dynasty and the Red State Model

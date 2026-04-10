@@ -128,9 +128,6 @@ When Britt moved from BCA to the Senate, she carried that donor list and alignme
 
 ---
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

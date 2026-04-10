@@ -60,8 +60,6 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 
 ---
 
-`content-readiness:: ready
-
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |

@@ -129,4 +129,3 @@ known-gaps:
 
 The Diamond fossil fuel story overlaps with coverage in Run 5 (Brennan Center was referenced in passing). This run provides substantially more detail on the specific dollar figures, the Energy Transfer Partners pipeline, and the endangerment finding repeal timeline. The pharma story, defense buyback story, PE healthcare story, and Armed Services saturation data are all new to this run.
 
-content-readiness:: draft

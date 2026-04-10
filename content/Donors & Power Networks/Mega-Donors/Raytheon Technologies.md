@@ -40,8 +40,6 @@ known-gaps:
 
 Raytheon Technologies. A redirect node — the company is now RTX Corporation. See [[Raytheon (RTX)]] for the full profile.
 
-content-readiness:: raw
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

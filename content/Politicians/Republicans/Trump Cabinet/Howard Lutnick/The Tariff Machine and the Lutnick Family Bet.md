@@ -13,8 +13,6 @@ related: "[[_Howard Lutnick Master Profile]]"
 
 donors: (Cantor Fitzgerald — internal family firm)
 
-content-readiness:: ready
-
 ---
 
 ### The Tariff Machine and the Lutnick Family Bet

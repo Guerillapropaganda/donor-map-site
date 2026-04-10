@@ -236,4 +236,3 @@ Public Citizen's Corporate Enforcement Tracker documents 31 corporations that do
 
 ---
 
-content-readiness:: draft

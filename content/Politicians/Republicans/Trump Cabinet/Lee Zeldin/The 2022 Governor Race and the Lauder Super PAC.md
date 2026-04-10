@@ -13,8 +13,6 @@ related: "[[_Lee Zeldin Master Profile]]"
 
 donors: [[Miriam Adelson]], Real Estate Industry - NYC
 
-content-readiness:: ready
-
 ---
 
 ### The 2022 Governor Race and the Lauder Super PAC

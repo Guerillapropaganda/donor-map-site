@@ -105,8 +105,6 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 - [FEC Receipts: Defense sector political spending overview](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 - [The Intercept: Surveillance and Border Security Contractors See Big Money in Donald Trump's Immigration Agenda](https://theintercept.com/2016/12/06/defense-companies-trump/) (Tier 2)
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

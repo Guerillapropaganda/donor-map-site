@@ -84,8 +84,6 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 
 ---
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

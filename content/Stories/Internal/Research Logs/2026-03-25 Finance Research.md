@@ -362,4 +362,3 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 
 ---
 
-content-readiness:: draft

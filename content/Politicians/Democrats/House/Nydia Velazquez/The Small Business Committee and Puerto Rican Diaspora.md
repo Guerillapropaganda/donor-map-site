@@ -42,4 +42,3 @@ Velazquez was the first Puerto Rican woman elected to Congress (1992) and has be
 - [FEC Candidate: Nydia Velazquez campaign finance summary](https://www.fec.gov/data/candidate/H2NY00010/) (Tier 1)
 - [Ballotpedia: Nydia Velazquez](https://ballotpedia.org/Nydia_Vel%C3%A1zquez) (Tier 3)
 
-content-readiness:: ready

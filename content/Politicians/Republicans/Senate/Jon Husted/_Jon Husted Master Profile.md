@@ -152,9 +152,8 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 office:: Senate
 state:: Ohio
 party:: Republican
-profile-status:: ready
+
 research-status:: active
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

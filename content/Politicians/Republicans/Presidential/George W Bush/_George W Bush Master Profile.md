@@ -86,8 +86,6 @@ Bush's use of faith-based rhetoric, patriotic framing post-9/11, and "compassion
 
 ---
 
-`content-readiness:: ready`
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

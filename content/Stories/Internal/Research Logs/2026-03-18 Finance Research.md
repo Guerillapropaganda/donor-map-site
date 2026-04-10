@@ -80,4 +80,3 @@ File: `Donors & Power Networks/[[Riverside Sheriffs Association|Riverside Sherif
 ---
 
 *Next session: Move to Queue Item #2 — [[CCPOA - California Correctional Peace Officers Association|CCPOA]] (Newsom contributions, overtime cost data)*
-content-readiness:: raw

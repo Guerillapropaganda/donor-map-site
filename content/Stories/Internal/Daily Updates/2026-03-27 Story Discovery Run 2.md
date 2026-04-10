@@ -170,5 +170,3 @@ Based on today's scan, in order of vault impact:
 4. **Pharma EPIC Act 74% figure (S-3)** — Single sourced metric from Public Citizen that can be dropped directly into `Healthcare Sector.md` (currently `developed`).
 
 ---
-
-content-readiness:: draft

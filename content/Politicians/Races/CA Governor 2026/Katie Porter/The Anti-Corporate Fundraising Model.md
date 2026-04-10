@@ -13,8 +13,6 @@ source-types:
 
 donors: (ActBlue small-dollar network)
 
-content-readiness:: ready
-
 ---
 
 ### The Anti-Corporate Fundraising Model

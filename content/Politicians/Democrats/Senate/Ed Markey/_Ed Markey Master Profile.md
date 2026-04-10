@@ -36,8 +36,6 @@ related: "[[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] 
 
 donors:
 
-profile-status:: ready
-
 ---
 ---
 
@@ -157,8 +155,6 @@ The Small Business Committee RM position is secondary to Markey's real portfolio
 - [GovTrack: Ed Markey](https://www.govtrack.us/congress/members/edward_markey/400253) (Tier 3)
 - [Ballotpedia: Ed Markey](https://ballotpedia.org/Edward_Markey) (Tier 3)
 - [Wikipedia: Ed Markey](https://en.wikipedia.org/wiki/Ed_Markey) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

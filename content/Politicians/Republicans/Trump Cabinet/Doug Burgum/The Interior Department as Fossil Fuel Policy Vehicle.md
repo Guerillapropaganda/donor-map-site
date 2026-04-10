@@ -13,8 +13,6 @@ related: "[[_Doug Burgum Master Profile]] · [[_Chris Wright Master Profile]]"
 
 donors: [[Harold Hamm|Harold Hamm]], [[Leonard Leo]]
 
-content-readiness:: ready
-
 ---
 
 ### The Interior Department as Fossil Fuel Policy Vehicle

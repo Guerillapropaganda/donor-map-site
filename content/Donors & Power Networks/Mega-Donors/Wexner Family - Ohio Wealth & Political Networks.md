@@ -20,4 +20,3 @@ known-gaps:
 
 Wexner Family - Ohio Wealth & Political Networks. A redirect node. See [[Les Wexner - Wexner Family Enterprises]] for the full profile.
 
-content-readiness:: raw

@@ -33,8 +33,6 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Pu
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Fanjul Family - Florida Crystals]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -153,8 +151,6 @@ Mast's committee also oversees foreign affairs broadly — China, Russia, Iran, 
 - [Times of Israel: Pro-Israel US Army vet runs for Congress](https://www.timesofisrael.com/pro-israel-us-army-vet-runs-for-congress-on-prosthetic-legs/) (Tier 3)
 - [Ballotpedia: Brian Mast](https://ballotpedia.org/Brian_Mast) (Tier 3)
 - [Wikipedia: Brian Mast](https://en.wikipedia.org/wiki/Brian_Mast) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

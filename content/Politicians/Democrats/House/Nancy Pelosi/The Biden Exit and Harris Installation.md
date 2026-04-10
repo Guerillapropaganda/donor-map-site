@@ -62,4 +62,3 @@ See [[The Billion-Dollar Campaign - 2024 Finance]] for the full picture: Soros $
 - [Axios: Kamala Harris rakes in $81M in 24 hours after Biden's exit](https://www.axios.com/2024/07/22/kamala-harris-record-81-million-24-hours) (Tier 2)
 - [CNBC: Democratic donors push Biden to drop out as Kamala Harris events fill up](https://www.cnbc.com/2024/07/18/democratic-donors-biden-drop-out-kamala-harris.html) (Tier 2)
 
-content-readiness:: ready

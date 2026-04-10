@@ -10,7 +10,6 @@ related: "[[_Media Pipeline Framework]] · [[Cross-Politician Contradiction Map 
 
 #think-tank #methodology #framework #class-analysis
 
-
 ---
 
 ### Purpose
@@ -203,4 +202,3 @@ Identical to main vault. A think tank profile cannot be promoted to `ready` with
 2. Remove the Think Tank section from `_VAULT_INDEX.md` (one edit)
 3. Done. Zero main vault files affected.
 
-content-readiness:: ready

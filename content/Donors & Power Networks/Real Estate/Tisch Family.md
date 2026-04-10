@@ -74,8 +74,6 @@ The Tisch family represents the bipartisan donor consensus: both major parties s
 - [Bloomberg: Tisch family wealth and business interests](https://www.bloomberg.com/news/articles/tisch-family-loews) (Tier 2)
 - [New York Times: Tisch family political contributions](https://www.nytimes.com/2024/01/tisch-donor-profile.html) (Tier 2)
 
-`content-readiness:: ready
-
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 

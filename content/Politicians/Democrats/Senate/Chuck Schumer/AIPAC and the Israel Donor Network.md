@@ -15,8 +15,6 @@ related: "[[_Chuck Schumer Master Profile]] · [[AIPAC - American Israel Public 
 
 donors: [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]]
 
-content-readiness:: ready
-
 ---
 
 ### [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and the Israel Donor Network

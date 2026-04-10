@@ -190,9 +190,6 @@ Ponzi schemer Allen Stanford asked Meeks to meet with Hugo Chávez on his behalf
 - [Ballotpedia: Gregory Meeks](https://ballotpedia.org/Gregory_Meeks) (Tier 3)
 - [GovTrack: Gregory Meeks profile](https://www.govtrack.us/congress/members/gregory_meeks/400271) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

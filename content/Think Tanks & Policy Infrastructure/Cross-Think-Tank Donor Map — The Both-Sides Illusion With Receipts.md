@@ -14,7 +14,6 @@ known-gaps:
 
 #think-tank #cross-comparison #shared-donors #both-sides-illusion #class-analysis #goldman-sachs #defense-industry #dark-money
 
-
 ---
 
 ### The Argument
@@ -250,4 +249,3 @@ The donors who fund "opposing" think tanks are not confused or wasteful. They ar
 
 ---
 
-content-readiness:: ready

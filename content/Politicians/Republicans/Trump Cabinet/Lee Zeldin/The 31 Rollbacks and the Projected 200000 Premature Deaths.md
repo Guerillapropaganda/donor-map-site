@@ -13,8 +13,6 @@ related: "[[_Lee Zeldin Master Profile]] · [[_Doug Burgum Master Profile]] · [
 
 donors: [[Leonard Leo]], Fossil Fuel Industry
 
-content-readiness:: ready
-
 ---
 
 ### The 31 Rollbacks and the Projected 200,000 Premature Deaths

@@ -36,4 +36,3 @@ The structural symmetry is exact: both sides use 501(c)(4) and DAF structures to
 - [IRS: 501(c)(4) organization filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Dark%20Money%20Networks%20-%20The%20Shadow%20System&city=&state=All+States&country=US) (Tier 1)
 - [Ballotpedia: Dark money in politics](https://ballotpedia.org/Dark_Money_Networks_-_The_Shadow_System) (Tier 3)
 
-content-readiness:: ready

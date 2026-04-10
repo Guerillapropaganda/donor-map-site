@@ -220,5 +220,3 @@ This is the same capital pool buying influence across two regulatory domains (cr
 - American Priorities PAC (counter-AIPAC progressive PAC)
 - Leading the Future PAC (AI super PAC)
 - Energy Transfer / Kelcy Warren (MAGA Inc $25M donor)
-
-content-readiness:: draft

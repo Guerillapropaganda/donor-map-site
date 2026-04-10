@@ -13,8 +13,6 @@ related: "[[_Chris Wright Master Profile]] · [[_Donald Trump Master Profile]]"
 
 donors: [[Harold Hamm]]
 
-content-readiness:: ready
-
 ---
 
 ### The $445 Million Oil Investment and Wright's Buy-In

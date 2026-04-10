@@ -165,8 +165,6 @@ America Votes also reveals **structural inequality in progressive politics:**
 - [Democracy Fund: Voter contact efficiency and coordination](https://democracyfund.org/grants/voter-contact-coordination-research/) (Tier 2)
 - [America Votes: About Us and Coordination](https://americavotes.org/about/) (Tier 2)
 
-content-readiness:: ready
-
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |
