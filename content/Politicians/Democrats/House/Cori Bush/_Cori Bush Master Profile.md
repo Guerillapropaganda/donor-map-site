@@ -1,12 +1,12 @@
 ---
 title: "Cori Bush"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-10
+content-readiness: ready
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "House"
+chamber: "Former House"
 state: "Missouri"
 state-abbr: "MO"
 district: "1"
@@ -16,17 +16,33 @@ bills-sponsored: 38
 bills-cosponsored: 756
 total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
-related: "[[Jamaal Bowman Master Profile]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]] · [[Ayanna Pressley Master Profile]]"
-donors: "[[Justice Democrats]]"
-opposes: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Wesley Bell]]"
+fec-committee-id: "C00638767"
+issues:
+  - Israel & Foreign Policy
+  - Healthcare
+  - Housing
+  - Police Reform
+  - Climate
+  - Campaign Finance
+related: "[[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]] · [[_Ayanna Pressley Master Profile|Ayanna Pressley]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]]"
+donors:
+  - "Justice Democrats PAC"
+  - "Working Families Party PAC"
+  - "Small dollar grassroots"
+opposes:
+  - "AIPAC"
+  - "United Democracy Project"
+  - "Fairshake PAC"
+  - "Mainstream Democrats PAC"
+  - "Wesley Bell"
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
-editorial-review-date: "2026-04-08"
+editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
-editorial-result: block
+editorial-result: pass
 editorial-blockers: []
 verified-blocks:
   - voting-records
@@ -39,6 +55,9 @@ verified-blocks:
   - editorial-quality
 checklist-na:
   - "committee-assignments: Lost 2024 primary, no longer in 119th Congress"
+known-gaps:
+  - 2026 comeback campaign ongoing — state-level polling and endorsements not yet fully documented
+  - Federal indictment (Aug 2025) outcome pending — court filings need citation once resolved
 last-enriched: "2026-04-10"
 internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515 | [CODE @ 2026-04-10] DEMOTED ready→draft. Reasons: (1) auto:congress-legislation and auto:committee-assignments blocks contained wrong bioguide A000383 (pipeline fuzzy-match bug, now fixed) — removed. (2) auto:govtrack block showed 0/0 bills but frontmatter says 39/756 — stripped for re-run. (3) Body marker falsely said (VERIFIED) on stale data. Needs Research Claude re-review after pipelines run fresh. | [CODE @ 2026-04-10] Pipeline: govtrack completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24252644830"
 ---
@@ -59,7 +78,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ## The Core Contradiction
 
-> [!contradiction-cleared]
+> [!contradiction]
 > **Anti-establishment brand vs. self-dealing conduct.** Bush ran as a grassroots activist and was destroyed by establishment spending ($9.96M AIPAC, $2.79M Fairshake — per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)). The DOJ then indicted her over $102K in security payments to her husband ([Time, 2024](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/)). Both facts are true simultaneously: she was genuinely targeted by donor-class spending AND she engaged in conduct (paying family members from campaign funds for unlicensed services) that undermines the anti-corruption brand. The contradiction is structural, not resolvable — it demonstrates that progressive insurgents face both external destruction (AIPAC) and internal vulnerability (self-dealing). Resolution: documented as inherent tension, not factual dispute. Both claims are FEC/DOJ sourced.
 
 ---
@@ -156,15 +175,6 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
-_Stripped 2026-04-10 — stale 0/0 data contradicted frontmatter (39 sponsored, 756 cosponsored). Awaiting fresh pipeline run._
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
-<!-- auto:govtrack end -->
-
-<!-- auto:govtrack pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
 | Metric | Value |
 |--------|-------|
 | Bills Sponsored | 38 |
@@ -173,7 +183,7 @@ _Stripped 2026-04-10 — stale 0/0 data contradicted frontmatter (39 sponsored, 
 
 **Recent bills sponsored:**
 
-- H.Res. 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropriat — *This resolution was introduced on June 5, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropriation — *This resolution was introduced on June 5, 2024, in a previous session of Congress, but it did not receive a vote.*
 - H.R. 8470: Helping Families Heal Act of 2024 — *This bill was introduced on May 21, 2024, in a previous session of Congress, but it did not receive a vote.*
 - H.Con.Res. 92: Honoring the Mary Meachum Freedom Crossing. — *This resolution was introduced on February 20, 2024, in a previous session of Congress, but it did not receive a vote.*
 - H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine. — *This resolution was introduced on October 25, 2023, in a previous session of Congress, but it did not receive a vote.*
@@ -193,8 +203,7 @@ _Stripped 2026-04-10 — stale 0/0 data contradicted frontmatter (39 sponsored, 
 | 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
+<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -231,6 +240,8 @@ _Stripped 2026-04-10 — stale 0/0 data contradicted frontmatter (39 sponsored, 
 <!-- auto:fec-politician end -->
 
 ## Committee Assignments (Congress.gov)
+
+_N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer serving in the 119th Congress. Committee assignments from her 117th–118th Congress tenure (Judiciary Committee, Oversight Committee, Education & Labor) are documented in the body narrative above. If her 2026 comeback bid succeeds, this section will repopulate with 120th Congress assignments._
 
 ## Voting Record
 <!-- auto:voting-record start -->

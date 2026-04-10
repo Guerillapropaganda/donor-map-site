@@ -58,7 +58,7 @@ opposes:
   - "DonorsTrust"
   - "Judicial Crisis Network"
   - "Marble Freedom Trust"
-donors: "League of Conservation Voters ($193K career, #1),Trial Lawyers Fund,Motley Rice LLC,Thornton Law Firm,Environmental Law & Policy Center,Ocean Conservancy,Demand Justice,Brady Campaign,AIPAC network ($147K 2024 cycle),Fraternal Order of Police · [[Fraternal Order of Police]]"
+donors:
   - "League of Conservation Voters ($193K career, #1)"
   - "Trial Lawyers Fund"
   - "Motley Rice LLC"
@@ -73,7 +73,7 @@ editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4+ Tier 1 source types (FEC candidate page, Congress.gov DISCLOSE Act, multiple whitehouse.senate.gov primary-source speeches, Senate Budget Committee). EXCEPTIONAL class analysis: 'the dark money crusader who is himself embedded in the donor infrastructure he critiques.' Three contradictions documented with numbers: (1) Sandra Whitehouse $2.69M from Ocean Conservancy while Whitehouse voted for $6.9M in 2024 federal grants to Ocean Conservancy, (2) silence on AIPAC's $127M 2024 spending while AIPAC was his #1 2024 contributor at $147K, (3) Democratic dark money symmetry (Arabella, Demand Justice mirror the Leo infrastructure he critiques). 80+ 'Scheme' floor speeches + 300+ 'Time to Wake Up' climate speeches are the vault's most-cited primary-source watchdog work. FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: replaced single-entry 'Fraternal Order of Police' frontmatter donors field with the real donor list (merge script artifact from yesterday's consolidate-dual-related-fields run). FIXED: removed stale DOJ from source-types (vault DOJ blocks all stripped — engine false positive). Added bioguide-id W000802, structured opposes (Leo/Federalist/Koch), former-committees (Budget Chair 118th), expanded issues. No (URL NEEDED) tags. No A000383 contamination. DOJ block already cleaned this morning. Ready for editor review."
-related: "[[League of Conservation Voters]] · [[DonorsTrust]]"
+related: "[[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[Federalist Society]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Judicial Crisis Network]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[League of Conservation Voters]]"
 ---
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel
 

@@ -2494,6 +2494,26 @@ Query parameters use PostgREST-style operators (e.g., `field=eq.VALUE`, `field=i
    - Every incident or quirk discovered during implementation MUST be documented in "Known incidents (our vault)" as you learn it.
 5. **Never build a pipeline without a cheatsheet section.** If you can't write the cheatsheet before coding, ask David for more information.
 
+### Ops application frontmatter write rules (2026-04-10 incident learnings)
+
+The Ops app has three API routes that add/remove relationships on profile frontmatter:
+- `ops/src/app/api/relationships/route.ts` — generic add/remove
+- `ops/src/app/api/suggestions/route.ts` — auto-suggestion approval flow
+- `ops/src/app/api/profile/connections/route.ts` — profile-scoped connections
+
+**All three routes MUST use gray-matter to parse frontmatter, not regex.** Regex-based matching only catches the first line of multi-line YAML fields (e.g., `donors:` followed by `- item1`, `- item2`), and any field update then corrupts the file.
+
+**All three routes MUST preserve the existing field shape** when appending a new relationship:
+- If the existing value is a **YAML list** (array in the parsed object), push the new target onto the list. Do NOT convert to string.
+- If the existing value is a **string** (inline ` · ` separated wikilinks), concat with ` · ` and the new wikilink.
+- If the field doesn't exist yet, create a new single-wikilink string.
+
+**CRITICAL: Never stringify a JS array via template literal.** `${fmValue}` on an array calls `Array.prototype.toString()`, which joins with `,` (no spaces). The result looks like `"item1,item2,item3 · [[new]]"` in the file, and on the next read gray-matter sees a STRING at the `donors` key but the OLD LIST is still in the file as orphan list items. YAML fails to parse. Build breaks. This was the Whitehouse bug.
+
+**Shared helper functions** — both relationships and suggestions routes have these locally (see `normalizeFieldForCheck` and `appendRelationship` in each route). If adding a fourth writer, copy these helpers verbatim or extract to `ops/src/lib/` as a shared module.
+
+**Quality check rule:** Before any commit that touches relationship fields in frontmatter, run a YAML parse scan on the affected file. A 3-second check prevents hours of build-failure diagnosis.
+
 ### Why this rule exists
 
 Yesterday and today we hit 6 separate pipeline bugs that could have been prevented with upfront research:
