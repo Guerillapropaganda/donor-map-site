@@ -102,6 +102,18 @@ const EvidencePanel: QuartzComponent = ({
 
   const hasConnections = donorCount > 0 || lobbyCount > 0 || thinkTankCount > 0 || polCount > 0
 
+  // ─── FEC party split (for donors) — must be before Both Sides check ───
+  const fecPartySplit = String(fm?.["fec-party-split"] ?? "")
+  const totalPoliticalSpend = String(fm?.["total-political-spend"] ?? "")
+  let demPct: number | null = null
+  let repPct: number | null = null
+  if (fecPartySplit) {
+    const demMatch = fecPartySplit.match(/(\d+)%\s*Dem/i)
+    const repMatch = fecPartySplit.match(/(\d+)%\s*Rep/i)
+    if (demMatch) demPct = parseInt(demMatch[1])
+    if (repMatch) repPct = parseInt(repMatch[1])
+  }
+
   // ─── #2: Both Sides badge (donors who fund both parties) ───
   let fundsBothSides = false
   if ((type === "donor" || type === "corporation" || type === "pac") && politiciansFunded.length > 0 && allFiles) {
@@ -151,18 +163,6 @@ const EvidencePanel: QuartzComponent = ({
         })
       }
     }
-  }
-
-  // ─── FEC party split (for donors) ───
-  const fecPartySplit = String(fm?.["fec-party-split"] ?? "")
-  const totalPoliticalSpend = String(fm?.["total-political-spend"] ?? "")
-  let demPct: number | null = null
-  let repPct: number | null = null
-  if (fecPartySplit) {
-    const demMatch = fecPartySplit.match(/(\d+)%\s*Dem/i)
-    const repMatch = fecPartySplit.match(/(\d+)%\s*Rep/i)
-    if (demMatch) demPct = parseInt(demMatch[1])
-    if (repMatch) repPct = parseInt(repMatch[1])
   }
 
   return (
