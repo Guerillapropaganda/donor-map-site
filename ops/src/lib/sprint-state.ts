@@ -45,6 +45,19 @@ async function ensureDataDir(): Promise<void> {
 }
 
 /**
+ * Coerce a YAML status string (which may use "in-progress" with a hyphen)
+ * into the canonical TaskStatus union (which uses underscores).
+ */
+function normalizeYamlStatus(status: unknown): TaskStatus {
+  if (typeof status !== "string") return "pending"
+  const s = status.replace(/-/g, "_").toLowerCase()
+  if (s === "done" || s === "in_progress" || s === "blocked" || s === "pending") {
+    return s as TaskStatus
+  }
+  return "pending"
+}
+
+/**
  * Build a fresh empty state seeded with every task id from the current schedule.
  * Task status is copied from the schedule's status field so already-done Phase 1 tasks
  * stay checked on first load.
@@ -54,7 +67,7 @@ async function buildInitialState(): Promise<SprintState> {
   const taskStates: Record<string, TaskState> = {}
   for (const task of schedule.allTasks) {
     if (!task.id) continue
-    const status: TaskStatus = (task.status as TaskStatus) || "pending"
+    const status = normalizeYamlStatus(task.status)
     const s: TaskState = { status }
     if (status === "done" && task.completed_date) {
       s.completed_at = task.completed_date + "T00:00:00Z"
@@ -74,6 +87,74 @@ async function buildInitialState(): Promise<SprintState> {
 }
 
 /**
+ * Merge the current YAML status of each task into the stored state. This is
+ * strictly additive: YAML can PROMOTE a task (pending → done/blocked/in_progress),
+ * but user clicks that marked a task done won't be reverted if the YAML later
+ * shows the same task as pending. Without this reconcile step, a session-save
+ * that updates sprint-schedule.md never propagates to the calendar's checkbox
+ * state file (which is frozen at initial seed).
+ *
+ * Returns true if any entry was mutated, so the caller can decide to persist.
+ */
+function reconcileScheduleIntoState(
+  schedule: Awaited<ReturnType<typeof parseSprintSchedule>>,
+  state: SprintState
+): boolean {
+  let mutated = false
+  for (const task of schedule.allTasks) {
+    if (!task.id) continue
+    const yamlStatus = normalizeYamlStatus(task.status)
+    const existing = state.task_states[task.id]
+
+    if (!existing) {
+      // Task added to YAML after initial seed.
+      const s: TaskState = { status: yamlStatus }
+      if (yamlStatus === "done" && task.completed_date) {
+        s.completed_at = task.completed_date + "T00:00:00Z"
+      }
+      if (yamlStatus === "blocked" && task.blocker) {
+        s.blocked_reason = task.blocker
+      }
+      state.task_states[task.id] = s
+      mutated = true
+      continue
+    }
+
+    // Promote: YAML says done, state doesn't.
+    if (yamlStatus === "done" && existing.status !== "done") {
+      state.task_states[task.id] = {
+        ...existing,
+        status: "done",
+        completed_at: task.completed_date
+          ? task.completed_date + "T00:00:00Z"
+          : existing.completed_at ?? new Date().toISOString(),
+      }
+      mutated = true
+      continue
+    }
+
+    // Promote: YAML says blocked, state isn't done/blocked.
+    if (yamlStatus === "blocked" && existing.status !== "done" && existing.status !== "blocked") {
+      state.task_states[task.id] = {
+        ...existing,
+        status: "blocked",
+        blocked_reason: task.blocker ?? existing.blocked_reason ?? "see task",
+      }
+      mutated = true
+      continue
+    }
+
+    // Promote: YAML says in_progress, state is still pending.
+    if (yamlStatus === "in_progress" && existing.status === "pending") {
+      state.task_states[task.id] = { ...existing, status: "in_progress" }
+      mutated = true
+      continue
+    }
+  }
+  return mutated
+}
+
+/**
  * Atomic write: tmp file + rename.
  */
 async function writeAtomic(state: SprintState): Promise<void> {
@@ -86,11 +167,15 @@ async function writeAtomic(state: SprintState): Promise<void> {
 
 /**
  * Load the state file. If missing, auto-create it seeded from the schedule.
+ * On every load, reconcile YAML status into stored state so session-save
+ * updates to sprint-schedule.md propagate to calendar checkboxes without
+ * requiring the json file to be deleted.
  */
 export async function loadSprintState(): Promise<SprintState> {
+  let state: SprintState
   try {
     const raw = await fs.readFile(STATE_FILE, "utf8")
-    return JSON.parse(raw) as SprintState
+    state = JSON.parse(raw) as SprintState
   } catch (err: unknown) {
     const code = (err as NodeJS.ErrnoException).code
     if (code === "ENOENT") {
@@ -100,6 +185,19 @@ export async function loadSprintState(): Promise<SprintState> {
     }
     throw err
   }
+
+  try {
+    const schedule = await parseSprintSchedule()
+    if (reconcileScheduleIntoState(schedule, state)) {
+      await writeAtomic(state)
+    }
+  } catch (err) {
+    // Reconcile is best-effort — if the schedule can't be parsed, fall back to
+    // the stored state as-is rather than failing the entire calendar load.
+    console.error("[sprint-state] reconcile failed:", err)
+  }
+
+  return state
 }
 
 /**
