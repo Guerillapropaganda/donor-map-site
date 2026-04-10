@@ -1,8 +1,8 @@
 ---
 title: "Rashida Tlaib"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-06
+content-readiness: ready
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,6 +10,7 @@ chamber: "House"
 state: "Michigan"
 state-abbr: "MI"
 district: "12"
+bioguide-id: "T000481"
 committees:
   - "Oversight & Reform"
 govtrack-id: 412787
@@ -19,14 +20,37 @@ website: "https://tlaib.house.gov"
 phone: "202-225-5126"
 total-received: "$1,896,063"
 fec-candidate-id: "H8MI13250"
+issues:
+  - Israel & Foreign Policy
+  - Environmental Justice
+  - Labor
+  - Housing
+  - Banking
+  - Healthcare
 source-types:
   - Congress
   - FEC
   - GovTrack
-corroboration-count: 3
+  - HouseOversight
+corroboration-count: 4
 known-gaps:
-  - "No mapped relationships"
-related: "[[_Ilhan Omar Master Profile|Omar]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[J Street]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[Marathon Petroleum]] · [[Haim Saban]]"
+  - Body text references Drain the Swamp Act but no direct Congress.gov citation
+  - Marathon Petroleum refinery leak details cited via DeSmog (Tier 2) — could benefit from direct EPA ECHO Tier 1 backup
+opposes:
+  - "AIPAC"
+  - "United Democracy Project"
+  - "DMFI PAC"
+  - "Marathon Petroleum"
+  - "Koch Network"
+donors:
+  - "Small Dollar Donors (grassroots)"
+  - "Arab-American community organizations"
+  - "DSA network"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: verified-candidate
+editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC, Congress.gov with verified bioguide T000481, GovTrack, House Oversight Democrats primary source), strong class analysis, documented core contradiction, extensive AIPAC War section with real spending numbers, November 2023 censure documented, Marathon Petroleum Oversight investigation cited. No defamation-prone claims. No (URL NEEDED) tags. No (UNVERIFIED) tags. No A000383 contamination (verified clean). Zero inline dataview markers. Ready for editor review."
+related: "[[_Ilhan Omar Master Profile|Omar]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[J Street]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[Marathon Petroleum]] · [[Haim Saban]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]"
 ---
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice
 

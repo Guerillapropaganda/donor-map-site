@@ -1,8 +1,8 @@
 ---
 title: "Ilhan Omar Master Profile"
 type: politician
-content-readiness: draft
-last-updated: 2026-04-07
+content-readiness: ready
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,23 +10,47 @@ chamber: "House"
 state: "Minnesota"
 state-abbr: "MN"
 district: "5"
+bioguide-id: "O000173"
+fec-committee-id: "C00680934"
 committees:
-  - "Foreign Affairs"
   - "Budget"
   - "Education & Labor"
+former-committees:
+  - "Foreign Affairs (removed February 2, 2023 by 218-211 House vote)"
 issues:
   - "Israel & Foreign Policy"
   - "Education"
+  - "Refugee Policy"
+  - "Labor"
+  - "Healthcare"
+  - "Climate"
 total-received: "$3,125,783"
 fec-candidate-id: "H8MN05239"
 source-types:
   - Congress
   - FEC
-corroboration-count: 2
+  - HouseOfficial
+corroboration-count: 3
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
-related: "[[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel]] · [[_Bernie Sanders Master Profile]]"
+  - No voting record auto-block (needs pipeline enrichment)
+  - GovTrack data not in source-types list (verify fresh pipeline run populates this)
+  - Legislative Record section references resolutions without direct Congress.gov citations
+opposes:
+  - "AIPAC"
+  - "United Democracy Project"
+  - "Don Samuels"
+donors:
+  - "Small Dollar Donors (grassroots)"
+  - "Somali-American community"
+  - "SEIU"
+  - "AFSCME Council 5"
+  - "Teamsters Joint Council 32"
+  - "National Nurses United"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: verified-candidate
+editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 3 Tier 1 source types (Congress.gov with verified bioguide O000173, FEC candidate + committee, omar.house.gov official press releases), 4 Tier 2 journalism sources documenting the Committee removal, strong class analysis with 'grassroots immunity vs institutional vulnerability' framing, documented Foreign Affairs committee removal (Feb 2, 2023, 218-211), 2022 vs 2024 AIPAC strategy comparison with specific dollar amounts, donation-to-policy timeline. No defamation-prone claims. No (URL NEEDED) tags. No A000383 contamination. FIXED: moved OpenSecrets source from Tier 1 to Archived per Vault Rules demotion. Ready for editor review."
+related: "[[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Cori Bush]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[_Bernie Sanders Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]"
 ---
 #omar #minnesota #progressive #squad #foreign-affairs #israel #somalia #refugee #budget #education
 
@@ -169,26 +193,27 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 
 ## Sources
 
+### Verified
 - [Congress.gov: Ilhan Omar member profile](https://www.congress.gov/member/ilhan-omar/O000173) (Tier 1)
 - [FEC Candidate: Ilhan Omar campaign finance summary](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
-- [FEC: Omar candidate profile](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
+- [FEC: Ilhan for Congress committee (C00680934)](https://www.fec.gov/data/committee/C00680934/?tab=summary) (Tier 1)
+- [Omar.house.gov: Statement on Foreign Aid Supplemental Bills](https://omar.house.gov/media/press-releases/rep-omar-statement-foreign-aid-supplemental-bills) (Tier 1)
 - [NPR: House Republicans vote to remove Omar from Foreign Affairs Committee](https://www.npr.org/2023/02/02/1153472237/ilhan-omar-foreign-affairs-committee-vote-republicans-remove) (Tier 2)
 - [CNN: House passes resolution to remove Omar from committees](https://www.cnn.com/2023/02/02/politics/house-vote-ilhan-omar-committees) (Tier 2)
 - [Jewish Insider: United Democracy Project spent $350,000 in Omar race](https://jewishinsider.com/2022/09/don-samuels-ilhan-omar-united-democracy-project-filing/) (Tier 2)
 - [The Intercept: "Zionists for Don Samuels" WhatsApp fundraising group](https://theintercept.com/2024/08/11/ilhan-omar-don-samuels-primary-super-pac-israel/) (Tier 2)
-- [Ilhan for Congress: Q1 2024 fundraising — biggest quarter ever, $1.7M](https://ilhanomar.com/news/congresswoman-ilhan-omar-has-biggest-fundraising-quarter-ever-raising-nearly-1-7-million-in-the-first-quarter-of-2024/) (Tier 3)
 - [Minnesota Reformer: Samuels fundraising disadvantage analysis](https://minnesotareformer.com/2024/07/16/samuels-undeterred-by-omars-massive-cash-advantage-in-minnesota-congressional-race/) (Tier 2)
-- [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3)
 - [Roll Call: House passes Iron Dome funding with Democratic defections](https://rollcall.com/2021/09/23/house-passes-israel-iron-dome-funding-with-some-democratic-defections/) (Tier 2)
 - [Star Tribune: Omar one of few voting no on Iron Dome defense funding](https://www.startribune.com/omar-one-of-few-voting-no-on-iron-dome-defense-funding/600100514) (Tier 2)
 - [Star Tribune: Rep. Ilhan Omar's small-dollar fundraising haul sparks FEC inquiry](https://www.startribune.com/rep-ilhan-omar-s-small-dollar-fundraising-haul-sparks-inquiry-from-fec/566574162) (Tier 2)
 - [CBS News: Hill Harper offered $20M to mount a primary challenge against Rashida Tlaib](https://www.cbsnews.com/detroit/news/hill-harper-said-he-was-offered-20-million-to-mount-a-primary-challenge-against-rep-rashida-tlaib/) (Tier 2)
 - [Middle East Eye: Pro-Israel donors raise hundreds of thousands in last-minute funds to unseat Ilhan Omar](https://www.middleeasteye.net/news/pro-israel-donors-raise-hundreds-thousands-last-minute-funds-oust-ilhan-omar) (Tier 2)
-- [OpenSecrets News: Pro-Israel PACs poised to spend big to unseat progressive Congress members in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/) (Tier 1)
+- [Ilhan for Congress: Q1 2024 fundraising — biggest quarter ever, $1.7M](https://ilhanomar.com/news/congresswoman-ilhan-omar-has-biggest-fundraising-quarter-ever-raising-nearly-1-7-million-in-the-first-quarter-of-2024/) (Tier 3)
 - [Minneapolis Regional Labor Federation: Omar seeks re-election as labor champion](https://minneapolisunions.org/news/mlr-2024-07-27-omar-runs-as-labor-champion) (Tier 3)
-- [Omar.house.gov: Statement on Foreign Aid Supplemental Bills](https://omar.house.gov/media/press-releases/rep-omar-statement-foreign-aid-supplemental-bills) (Tier 1)
+- [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3)
 
-- [FEC: Ilhan for Congress committee summary](https://www.fec.gov/data/committee/C00680934/?tab=summary) (Tier 1)
+### Archived
+- ~~[OpenSecrets News: Pro-Israel PACs poised to spend big to unseat progressive Congress members in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — use FEC/Jewish Insider sources above for same data)
 
 profile-status:: ready
 content-readiness:: ready
