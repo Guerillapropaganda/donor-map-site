@@ -45,7 +45,52 @@ Applied the fix to all three routes (both POST adds and DELETE removes). Rewrote
 
 **Documented in `content/Pipeline Guide.md`** under the new "Ops application frontmatter write rules" section. Explains the bug pattern, the critical rule ("never stringify an array via template literal"), and notes that if a 4th frontmatter writer is added, the helpers should be copied verbatim or extracted to `ops/src/lib/`.
 
-### Cori Bush: pipeline verification + cleanup + promoted to ready
+### Cori Bush: Pass 2 — pipeline integration editorial pass (commit `e7985c62`)
+
+After Pass 1 cleanup (below), ran a second editorial pass to integrate fresh pipeline data into the body narrative. Research Claude lane — cites auto-block facts in the body, does NOT edit auto-blocks themselves.
+
+**What the pass produced:**
+
+- **Central Thesis** — integrated **H.Res. 786** (Oct 25, 2023 ceasefire resolution) as the named trigger event that moved Bush from AIPAC watchlist to primary target. Previously the narrative said "ceasefire resolutions" generically; now cites the specific resolution number with Congress.gov link. Added the 3.3-to-1 opposition-to-fundraising ratio ($13.97M opposition IE vs $4.17M own fundraising) as the disciplinary-scale spending signal.
+
+- **Donor Class Map** — rewrote with fresh FEC data:
+  - 5-cycle fundraising arc table (2018 $177K → 2020 $1.43M → 2022 $2.45M → 2024 $4.17M → 2026 $534K)
+  - Full 2024 IE spending breakdown (UDP $9.96M opposed, Fairshake $2.79M, Mainstream Democrats PAC $992K opposed, Justice Democrats $2.76M supporting, WFP $878K supporting)
+  - 3.17-to-1 outside spending ratio documented as largest anti-Squad ratio of 2024
+
+- **Donation-to-Policy Timeline** — expanded from 9 rows to 15:
+  - Oct 25, 2023 H.Res. 786 ceasefire resolution bolded as trigger event
+  - H.Res. 634 (Unhoused Persons Bill of Rights), H.Con.Res. 92 (Mary Meachum Freedom Crossing), H.R. 8470 (Helping Families Heal Act) — all cited by number with Congress.gov links
+  - Iron Dome no-vote specific context (420-9 vote, 1 of 9)
+  - 2026 cycle: $534K raised, $0 PAC, 70.6% individual
+  - 38 bills sponsored / 756 cosponsored / 2,239 total votes from fresh GovTrack
+
+- **Rhetorical Signature Moves** — Grassroots-Only Rebrand strengthened with concrete $0 PAC number
+
+- **Analytical Patterns** — expanded from 2 to 5 to match the depth of the other verified-candidates:
+  1. Donor-Class Override (strengthened with exact numbers)
+  2. Villain Framing (strengthened with bills-that-triggered vs bills-that-didn't)
+  3. **Multi-Pressure Vector Targeting** (NEW) — documents compound-pressure sequence
+  4. **Fundraising Arc Inversion** (NEW) — frames comeback as AIPAC enforcement reversal test
+  5. **Grassroots Insulation Limit** (NEW) — asks whether there's a floor below which grassroots model fails
+
+**Analytical depth parity check:**
+
+| Profile | Analytical Patterns |
+|---|---|
+| Tlaib | 3 |
+| Omar | 3 |
+| Pressley | 4 |
+| Khanna | 6 |
+| Whitehouse | 4 |
+| Warnock | 4 |
+| **Cori Bush (post-integration)** | **5** |
+
+304 lines total (up from 261), all YAML parses clean, 0 auto-block edits. She's now at the same depth as the other verified-candidates and ready for David's verified sign-off decision.
+
+**Cori Bush status:** `content-readiness: ready`, `editorial-result: pass`, two-pass review logged in `editorial-notes`. Not flagged as verified-candidate per the rule (Research Claude flags, David signs off). David's call whether to re-promote her alongside the other 6 verified-candidates from this morning.
+
+### Cori Bush: Pass 1 — pipeline verification + cleanup + promoted to ready
 
 **Pipeline verification after this morning's engine fixes + 452-file API enrichment batch:**
 
