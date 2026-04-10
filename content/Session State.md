@@ -11,6 +11,53 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-10 (Phase 1 Day 1 — Calendar tab + cc_05 root-cause + cc_06 rule comments)
+
+Done (Ops Calendar tab — shipped earlier this session):
+- New `/calendar` route in ops app with month grid Apr 10-30, 3 phase bands, 4 North Star progress bars, 21 day cells, 36 task checkboxes, day-detail modal. Reads `content/Admin Notes/sprint-schedule.md` live via a YAML block parser. Writes mutable completion state to `ops/data/sprint-state.json` (gitignored). Task toggles persist via `/api/sprint-state/task` and survive reload. Initial state seeded from the schedule's `status:` fields — cc_01-04 show done, cc_07+rc_05 show blocked.
+- Files added: `ops/src/app/calendar/{page,Calendar,MonthGrid,DayCell,PhaseBar,TaskCheckbox,DayModal,utils,types}.tsx`, `ops/src/lib/{sprint-schedule-parser,sprint-state}.ts`, `ops/src/app/api/sprint-state/{route,task/route,day/route,snapshot/route}.ts`, sidebar nav item.
+- js-yaml installed in ops/ (spec said "already in deps" but wasn't). Parser uses JSON_SCHEMA so ISO dates stay as strings.
+- Design decision: the Ops app is **excluded** from `content/Design System.md`. Cream/brutalist rules are website-only; Ops stays dark. Saved to memory (`feedback_ops_excluded_from_design_system.md`).
+
+Done (cc_05 — root-caused + fixed the inline-dataview resurgence):
+- **Root cause analysis:** NUL-byte variant (54 files) was cleaned 2026-04-09 by Research Claude's sweep, so NULs are 0 now. But 562 files still had `` `content-readiness:: ready `` (and `profile-status::`, 1 `last-updated::`) as stale body-level Obsidian Dataview inline fields with NO NUL byte. Git blame on a sample traces these lines back to `f5590025 Quartz site initial setup` — they are **legacy Obsidian vault import cruft** from before the frontmatter-only rule was codified, not output from any actively-running script. **No current code writes `field::` inline dataview syntax**, so cc_05 was a cleanup, not a code fix.
+- **New script** `scripts/strip-inline-dataview.cjs` (199 lines) — walks content/, splits frontmatter from body, strips body lines matching `/^\s*\`?(content-readiness|profile-status|source-tier|last-updated|last-enriched|last-verified-by|content-type|editorial-result|editorial-reviewer|editorial-review-date|corroboration-count)::/m`, collapses any 3+ newline runs back to 2, never touches frontmatter. Dry-run default, `--write` to apply, `--verbose` for per-file output.
+- **Sweep applied:** 562 files touched, 731 lines removed (content-readiness 571, profile-status 159, last-updated 1). Post-sweep re-run reports 0 remaining matches.
+
+Done (cc_06 — rule comments on Ops profile editor sources):
+- Added block-comment rule headers to 6 files so future edits honor the frontmatter-only rule, URL editor-only rule, and the Research-flags/David-signs verified-promotion rule:
+  - `ops/src/app/editor/page.tsx` — profile editor UI
+  - `ops/src/app/api/edit/route.ts` — PUT/DELETE content
+  - `ops/src/app/api/profile/readiness/route.ts` — readiness tier updates
+  - `ops/src/lib/local-write.ts` — low-level vault writer
+  - `ops/src/app/api/urls/save/route.ts` — URL triage save endpoint
+  - `ops/src/app/urls/page.tsx` — URL Manager UI
+- Comments are advisory only; no runtime behavior changes. Rules trace to Vault Rules.md + CLAUDE.md.
+
+Commits on v4 (all pushed):
+- `59e2bd79` cc_05: strip-inline-dataview.cjs sweep script
+- `3829e3eb` cc_05: strip 731 legacy body-dataview lines from 562 profiles
+- `15e76204` cc_06: rule comment headers on Ops profile editor sources
+- (Earlier same session: calendar feature chunks + `aa64f85f` conflict resolution + merge)
+
+Known issues / still outstanding:
+- **cc_07** — 12 stub enrichment still blocked on GitHub Actions re-enablement.
+- Investigate-queue.md was updated externally mid-session (37 → 38 items, +OPPORTUNITY MATTERS FUND→Ashley Hinson). Left uncommitted since it's an external edit.
+- Research Claude's open question #2 (Sheldon Whitehouse `donors` field string+list hybrid corruption) not yet investigated.
+- Research Claude's prevention rule suggestion: extend `auto:* pending-merge` pattern to frontmatter field updates — not yet implemented.
+
+Next session priorities:
+1. **cc_07** when GitHub Actions re-enabled: trigger pipeline runs for the 12 stubs + the 95 cleaned profiles + Cori Bush/Bowman re-review with fresh govtrack data.
+2. **Wire Breadcrumbs** to all Ops pages + migrate pages to use global `useToast()`.
+3. **Build-success polling** in `/session-save` and `/deploy` — per Research Claude's lesson-learned Red Flag #7, poll `gh run list --limit 2` after push and alert on failure.
+4. **YAML parse scan** in `/preflight` — per lesson-learned Good Idea #10, 3-second scan at session start prevents silent build-break states.
+5. **Investigate Sheldon Whitehouse `donors` string+list hybrid** — find the tool that can produce a frontmatter field with both string and list values at the same key.
+6. **Contradiction markers for website** — split-color graph lines, asterisks on profile widgets.
+
+---
+
+## Previous Session
 Claude: Research
 Date: 2026-04-10 (Phase 1 Day 1: 7 depth reviews + critical build fix + vault cleanups + pipeline cheatsheet template + lessons-learned doc)
 
