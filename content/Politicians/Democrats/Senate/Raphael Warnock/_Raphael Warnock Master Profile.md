@@ -42,7 +42,7 @@ known-gaps:
   - CNA single-payer pressure documented in body but no direct CNA primary source cited
   - $170M combined 2020-2022 fundraising figure needs FEC filing cross-check (currently cited via aggregated state-level breakdowns without URL)
 opposes: "[[AMERICAN CROSSROADS]] · [[SENATE LEADERSHIP FUND]] · [[PEACHTREE PAC]] · [[NRSC]]"
-related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]] · [[Tech and Media Donors]]"
+related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]] · [[Tech and Media Donors]] · [[Healthcare Sector]]"
 donors:
   - "Tech and Media Donors (national)"
   - "Healthcare Sector"

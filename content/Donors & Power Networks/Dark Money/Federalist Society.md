@@ -50,7 +50,7 @@ sec-form-types:
   - "PRE 14A"
   - "PX14A6G"
   - "U-13-60"
-related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]] · [[National Education Association]]"
+related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
 ---
 #donor #dark-money #judicial #federalist-society #leonard-leo #scotus #501c3 #conservative #judicial-pipeline
 

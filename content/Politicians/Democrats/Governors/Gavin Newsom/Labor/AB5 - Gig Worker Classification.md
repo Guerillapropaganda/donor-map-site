@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Biden Exit and Harris Installation]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #labor #AB5 #gig-workers #classification #dynamex #ABC-test #uber #lyft #doordash #carveouts #rhetoric-vs-record
 

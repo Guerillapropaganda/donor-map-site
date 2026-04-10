@@ -16,7 +16,7 @@ ofac-programs:
   - "GLOMAG"
   - "SDGT] [IFSR"
   - "RUSSIA-EO14024"
-related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]]"
+related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]]"
 ---
 #financial-services #banking #wall-street #donors #bipartisan #dodd-frank #deregulation
 

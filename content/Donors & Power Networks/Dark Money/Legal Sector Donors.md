@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
-related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Ocean Conservancy]]"
+related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]]"
 last-enriched: "2026-04-09"
 lobbying-spend: 7682631
 lobbying-filings: 99

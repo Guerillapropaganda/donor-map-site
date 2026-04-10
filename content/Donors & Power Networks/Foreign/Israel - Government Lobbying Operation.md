@@ -16,7 +16,7 @@ fara-records: 2
 fara-countries:
   - "QATAR"
 opposes: "[[Abby Martin]]"
-related: "[[Christians United for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[AIPAC Super PAC Spending Map]] · [[Haim Saban]] · [[JCRC Bay Area]]"
+related: "[[Christians United for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[United Democracy Project - UDP]] · [[AIPAC Super PAC Spending Map]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]]"
 ---
 #israel #foreign #lobbying #aipac #aid #arms #settlements #gaza
 

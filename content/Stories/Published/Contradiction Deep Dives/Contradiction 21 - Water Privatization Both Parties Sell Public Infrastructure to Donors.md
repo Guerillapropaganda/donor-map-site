@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 issues:
   - "Infrastructure"
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Contradiction 20 — Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
 ---
 #contradiction #water #privatization #infrastructure #class-analysis
 

@@ -2,7 +2,7 @@
 title: "Dan Goldman"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 govtrack-id: 456923
@@ -20,6 +20,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securities & Investment Industry]] · [[_Nancy Pelosi Master Profile]]"
+donors: "[[Republican Jewish Coalition]]"
 ---
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat
 tags: #democrat

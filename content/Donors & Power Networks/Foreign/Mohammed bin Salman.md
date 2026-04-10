@@ -28,7 +28,7 @@ sec-form-types:
   - "FWP"
   - "N-CSR"
   - "PX14A6G"
-related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]]"
+related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Christians United for Israel]]"
 lei: "2549005BTTUZTS9QQP67"
 lei-jurisdiction: "SA"
 ---

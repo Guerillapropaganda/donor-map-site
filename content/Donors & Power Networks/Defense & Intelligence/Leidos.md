@@ -69,7 +69,7 @@ regulatory-agencies:
 federal-awards-total: 10432350765
 federal-contracts-count: 25
 federal-grants-count: 9
-related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]]"
+related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[L3Harris Technologies]]"
 lobbying-spend: 10260000
 lobbying-filings: 54
 ---

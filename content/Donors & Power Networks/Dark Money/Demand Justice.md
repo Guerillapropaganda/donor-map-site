@@ -19,7 +19,7 @@ total-assets: 1534141
 total-political-spend: "$20,000"
 lobbying-spend: 650000
 lobbying-filings: 45
-related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[Leonard Leo]] · [[Federalist Society]] · [[The 85 Fund]] · [[Ocean Conservancy]]"
+related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[Leonard Leo]] · [[Federalist Society]] · [[The 85 Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]]"
 court-cases: 240
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"

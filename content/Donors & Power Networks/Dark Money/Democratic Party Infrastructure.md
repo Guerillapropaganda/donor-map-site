@@ -13,7 +13,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "BALKANS"
-related: "[[Ohio Democratic Party]] · [[Center for American Progress]] · [[Democratic Donor Network]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[ActBlue]] · [[Senate Majority PAC]] · [[National Progressive Donor Networks]] · [[Ohio Federation of Teachers]]"
+related: "[[Ohio Democratic Party]] · [[Center for American Progress]] · [[Democratic Donor Network]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[ActBlue]] · [[Senate Majority PAC]] · [[National Progressive Donor Networks]] · [[Ohio Federation of Teachers]] · [[Trial Lawyers Fund]]"
 fara-status: "registrant"
 fara-records: 2
 fara-countries:

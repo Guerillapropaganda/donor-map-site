@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Gun and Public Safety - Donors and Backers]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[The $1.6 Billion Fundraising Machine]] · [[Legislative Record as Speaker]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Gun and Public Safety - Donors and Backers]] · [[The Biden Exit and Harris Installation]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[The $1.6 Billion Fundraising Machine]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
 ---
 #newsom #israel #early-history #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #donor-network #california-israel #business-pipeline #ethnic-studies #nakba #background
 

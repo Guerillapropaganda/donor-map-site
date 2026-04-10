@@ -11,7 +11,7 @@ issues:
   - "Dark Money & Campaign Finance"
   - "Healthcare"
   - "Defense & Military"
-related: "[[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Chuck Schumer Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
+related: "[[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Chuck Schumer Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Majority Forward and the Democratic Dark Money Operation]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
 ---
 #schumer #mcconnell #both-sides #donor-class #wall-street #goldman-sachs #aipac #dark-money #pharma #defense #class-analysis #follow-the-money #senate-leadership
 

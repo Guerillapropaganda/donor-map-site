@@ -25,7 +25,7 @@ known-gaps:
   - "No mapped relationships"
 last-enriched: "2026-04-10"
 total-political-spend: "$10,212"
-related: "[[_Donald Trump Master Profile]] · [[Oracle]]"
+related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]]"
 federal-register-mentions: 2
 regulatory-agencies:
   - "Fish and Wildlife Service"

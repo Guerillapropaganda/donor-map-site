@@ -36,7 +36,7 @@ source-types:
 known-gaps:
   - IRS 990 auto-block shows 0 filings on record (EIN 833298146, 501c4). Need to verify filing status.
   - Only 1 Tier 1 source type (FEC). Need second for verified promotion.
-related: "[[JCRC Bay Area]] · [[AIPAC and the Progressive Purge]] · [[_John Fetterman Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[_Bernie Sanders Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[NORPAC]] · [[Reid Hoffman]] · [[Wesley Bell Master Profile]] · [[Summer Lee Master Profile]]"
+related: "[[JCRC Bay Area]] · [[AIPAC and the Progressive Purge]] · [[_John Fetterman Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[_Bernie Sanders Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[United Democracy Project - UDP|UDP]] · [[NORPAC]] · [[Reid Hoffman]] · [[Wesley Bell Master Profile]] · [[Summer Lee Master Profile]] · [[Shontel Brown Master Profile]]"
 opposes: "[[Jamaal Bowman Master Profile]]"
 ---
 #donor #israel #DMFI #pro-israel #national #super-pac #democratic-primary #follow-the-money #class-analysis #aipac #progressive-opposition

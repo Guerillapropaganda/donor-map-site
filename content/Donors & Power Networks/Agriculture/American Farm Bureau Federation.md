@@ -58,7 +58,7 @@ sec-form-types:
   - "PRE 14A"
   - "SC TO-I"
   - "SC TO-I/A"
-related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[American Federation for Children]] · [[National Education Association]]"
+related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
 court-cases: 330
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"

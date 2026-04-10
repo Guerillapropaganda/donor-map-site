@@ -17,7 +17,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-07"
 regulatory-agencies:
   - "Federal Election Commission"
-related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]] · [[ActBlue]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]]"
+related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]] · [[ActBlue]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]]"
 sec-filings: 2
 sec-form-types:
   - "10-K"

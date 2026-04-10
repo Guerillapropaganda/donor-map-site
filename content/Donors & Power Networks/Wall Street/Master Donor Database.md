@@ -6,7 +6,7 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
-related: "[[Senate Majority PAC]] · [[_VAULT_INDEX]] · [[Financial Services Donors]] · [[Democratic Donor Network]] · [[Trump Donor Coalition]] · [[Senate Leadership Fund]] · [[MAGA Inc]]"
+related: "[[Senate Majority PAC]] · [[_VAULT_INDEX]] · [[Financial Services Donors]] · [[Democratic Donor Network]] · [[Trump Donor Coalition]] · [[Senate Leadership Fund]] · [[MAGA Inc]] · [[House Majority PAC]]"
 ---
 #master-donor-database #reference #index #methodology
 

@@ -2,7 +2,7 @@
 title: "Bill Clinton"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,6 +23,7 @@ known-gaps:
 executive-orders: 310
 presidential-memoranda: 89
 proclamations: 761
+donors: "[[Media Matters]]"
 ---
 
 #politician #dlc #third-way #class-realignment #wall-street #deregulation #nafta #crime-bill #telecom #welfare-reform #revolving-door #follow-the-money #class-analysis

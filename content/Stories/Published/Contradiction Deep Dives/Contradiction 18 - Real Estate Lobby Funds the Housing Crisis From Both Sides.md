@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 issues:
   - "Housing"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[_Jason Smith Master Profile|Jason Smith]] · [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[_Jason Smith Master Profile|Jason Smith]] · [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 ---
 #investigation #contradiction #real-estate #housing #nar #zoning #rent-control #bipartisan-consensus #class-analysis #tax-policy
 tags: #analysis #story

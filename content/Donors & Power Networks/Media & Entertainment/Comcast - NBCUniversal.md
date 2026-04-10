@@ -49,7 +49,7 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SC 13D/A"
-related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]] · [[Walt Disney Company]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Verizon]]"
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 26
 ---

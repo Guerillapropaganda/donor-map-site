@@ -12,7 +12,7 @@ politicians-funded:
   - "Alexandria Ocasio-Cortez"
 issues:
   - "Infrastructure"
-related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]] · [[ActBlue]] · [[Democratic Small Dollar Networks]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Democratic Party Infrastructure]] · [[WinRed]] · [[Ohio Democratic Party]]"
+related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]] · [[ActBlue]] · [[Democratic Small Dollar Networks]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Democratic Party Infrastructure]] · [[WinRed]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]]"
 ---
 #actblue #small-dollar #democratic #grassroots #online #platform #conduit #infrastructure #winred
 

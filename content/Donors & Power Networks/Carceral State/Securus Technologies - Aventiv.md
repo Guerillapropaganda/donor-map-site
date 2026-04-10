@@ -11,7 +11,7 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]] · [[Immigration Enforcement - The Detention Economy]] · [[GEO Group - Private Prisons]]"
+related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]] · [[Immigration Enforcement - The Detention Economy]] · [[GEO Group - Private Prisons]] · [[CoreCivic - Private Prisons]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"

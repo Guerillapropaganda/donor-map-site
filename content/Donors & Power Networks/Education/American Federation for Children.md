@@ -26,7 +26,7 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. California"
   - "District Court, W.D. Washington"
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]]"
 sec-filings: 9
 sec-form-types:
   - "DEF 14A"

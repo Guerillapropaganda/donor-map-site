@@ -96,7 +96,7 @@ subawards-received: 2
 subawards-received-amount: 4556712
 top-federal-agency: "Department of the Interior"
 top-naics-code: "561210"
-related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]] · [[CoreCivic - Private Prisons]]"
+related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]] · [[CoreCivic - Private Prisons]] · [[GEO Group - Private Prisons]]"
 ---
 #donor #aramark #carceral-state #prison-food #commissary #national #follow-the-money #class-analysis #food-services #private-sector
 

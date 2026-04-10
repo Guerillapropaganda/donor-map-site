@@ -38,7 +38,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Federal Trade Commission"
   - "International Trade Administration"
-related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]] · [[US Chamber of Commerce]] · [[Business Roundtable]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[_Donald Trump Master Profile|Trump]] · [[ALEC - American Legislative Exchange Council]] · [[American Federation for Children]] · [[National Education Association]]"
+related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]] · [[US Chamber of Commerce]] · [[Business Roundtable]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[_Donald Trump Master Profile|Trump]] · [[ALEC - American Legislative Exchange Council]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
 sec-filings: 5021
 sec-form-types:
   - "10-K"

@@ -18,7 +18,7 @@ total-revenue: 40154470
 total-assets: 139880517
 lobbying-spend: 680000
 lobbying-filings: 12
-related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]]"
+related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]]"
 ---
 #donor #healthcare-industry #insurance #anthem #elevance #single-payer-opponent #follow-the-money #california #medicare-advantage #lobbying #pbm
 

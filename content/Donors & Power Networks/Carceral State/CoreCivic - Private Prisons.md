@@ -12,7 +12,7 @@ issues:
 last-enriched: "2026-04-10"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]] · [[ViaPath Technologies - GTL]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]]"
 ---
 #corecivic #private-prison #carceral #cca #immigration #detention #lobbying #incarceration #ice #revolving-door #trump
 

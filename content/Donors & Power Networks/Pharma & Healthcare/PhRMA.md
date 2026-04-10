@@ -24,7 +24,7 @@ regulatory-agencies:
   - "Health and Human Services Department"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Healthcare - Donors and Backers]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[2026-03-26 Finance Research]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[Pharmaceutical Industry]] · [[_Richard Neal Master Profile|Richard Neal]] · [[_Brett Guthrie Master Profile|Guthrie]] · [[_Billy Tauzin Master Profile|Tauzin]] · [[Pfizer]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[AbbVie]] · [[American Action Network]] · [[Partnership for Safe Medicines]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]]"
+related: "[[Healthcare - Donors and Backers]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[2026-03-26 Finance Research]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[Pharmaceutical Industry]] · [[_Richard Neal Master Profile|Richard Neal]] · [[_Brett Guthrie Master Profile|Guthrie]] · [[_Billy Tauzin Master Profile|Tauzin]] · [[Pfizer]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[AbbVie]] · [[American Action Network]] · [[Partnership for Safe Medicines]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]]"
 ---
 #donor #pharma #healthcare #lobbying #corporation #medicare-part-d #ira #patent-thicket #dark-money #trade-association
 

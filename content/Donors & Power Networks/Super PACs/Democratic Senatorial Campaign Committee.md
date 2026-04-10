@@ -13,7 +13,7 @@ regulatory-agencies:
   - "Federal Election Commission"
   - "Postal Regulatory Commission"
   - "Securities and Exchange Commission"
-related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[ActBlue]] · [[EMILY's List]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]]"
+related: "[[Priorities USA Action]] · [[New Hampshire 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[Janet Mills Master Profile]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]] · [[Emilys List]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[ActBlue]] · [[EMILY's List]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]] · [[One Nation]]"
 sec-filings: 145
 sec-form-types:
   - "10-K"
@@ -38,7 +38,7 @@ sec-form-types:
   - "S-1"
   - "S-1/A"
   - "U-13-60"
-opposes: "[[Linda McMahon Master Profile]]"
+opposes: "[[Linda McMahon Master Profile]] · [[Thom Tillis Master Profile]]"
 court-cases: 218
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"

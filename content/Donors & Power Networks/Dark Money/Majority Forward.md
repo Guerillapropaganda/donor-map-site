@@ -14,7 +14,7 @@ issues:
 ein: "833690373"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"
-related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]] · [[Emilys List]]"
+related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]] · [[Emilys List]] · [[Dark Money Networks - The Shadow System]]"
 court-cases: 36
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"

@@ -9,7 +9,7 @@ issues:
   - "Defense & Military"
   - "Dark Money & Campaign Finance"
   - "Israel & Foreign Policy"
-related: "[[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Nancy Pelosi Master Profile]] · [[_Kevin McCarthy Master Profile]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money Different Caucuses]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]]"
+related: "[[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Nancy Pelosi Master Profile]] · [[_Kevin McCarthy Master Profile]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money Different Caucuses]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
 source-types:
   - FEC
 ---

@@ -23,7 +23,7 @@ ein: "956203844"
 annual-revenue: "$4.8M"
 net-assets: "$5.8M"
 tax-year: "2023"
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Bail Bond Industry]] · [[_Chad Bianco Master Profile]] · [[RSA - The Single-Patron Sheriff]] · [[2022 Jail Death Crisis]] · [[CA DOJ Investigation - Pattern and Practice]] · [[Deputy Misconduct and the Whistleblower Firing]] · [[PORAC - Peace Officers Research Association of California]] · [[IBEW Local 477 - San Bernardino]]"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Bail Bond Industry]] · [[_Chad Bianco Master Profile]] · [[RSA - The Single-Patron Sheriff]] · [[2022 Jail Death Crisis]] · [[CA DOJ Investigation - Pattern and Practice]] · [[Deputy Misconduct and the Whistleblower Firing]] · [[PORAC - Peace Officers Research Association of California]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]]"
 sec-filings: 23
 sec-form-types:
   - "424B3"

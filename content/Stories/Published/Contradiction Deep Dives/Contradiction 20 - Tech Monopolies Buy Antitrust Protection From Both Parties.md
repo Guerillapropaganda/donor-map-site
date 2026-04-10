@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 issues:
   - "Antitrust & Monopoly"
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 19 — Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
 ---
 #contradiction #big-tech #antitrust #lobbying #AICOA #revolving-door #class-analysis
 

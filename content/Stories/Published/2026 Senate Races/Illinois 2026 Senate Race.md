@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Georgia 2026 Senate Race]] · [[_Juliana Stratton Master Profile|Juliana Stratton Master Profile]] · [[Fairshake PAC]] · [[Illinois Future PAC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
+related: "[[Georgia 2026 Senate Race]] · [[_Juliana Stratton Master Profile|Juliana Stratton Master Profile]] · [[Fairshake PAC]] · [[Illinois Future PAC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]]"
 ---
 #2026-election #senate #illinois #race-frame
 

@@ -17,7 +17,7 @@ court-cases: 1
 last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, D. Massachusetts"
-related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]]"
+related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 191325
 total-assets: 304648

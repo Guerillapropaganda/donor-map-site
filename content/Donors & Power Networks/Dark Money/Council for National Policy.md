@@ -28,7 +28,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 4179564
 total-assets: 3694941
-related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Federation for Children]] · [[National Education Association]]"
+related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
 fara-status: "registrant"
 fara-records: 4
 fara-countries:

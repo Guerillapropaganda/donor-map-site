@@ -29,7 +29,7 @@ ofac-programs:
   - "DPRK2"
   - "ILLICIT-DRUGS-EO14059"
   - "TCO"
-related: "[[Housing - Donors and Backers]] · [[Jason Smith]] · [[The Real Estate President and the Fair Housing Demolition]] · [[_Donald Trump Master Profile|Trump]] · [[Real Estate Industry Bloc]] · [[CBRE Group]]"
+related: "[[Housing - Donors and Backers]] · [[Jason Smith]] · [[The Real Estate President and the Fair Housing Demolition]] · [[_Donald Trump Master Profile|Trump]] · [[Real Estate Industry Bloc]] · [[CBRE Group]] · [[Blackstone Real Estate]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 8265540
 total-assets: 6316098

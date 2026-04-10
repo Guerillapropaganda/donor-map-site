@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[The $1.6 Billion Fundraising Machine]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]]"
 ---
 #newsom #housing #rent-control #prop-10 #prop-21 #prop-33 #tenant-rights #california-apartment-association #donor-class #ballot-measure #class-analysis #follow-the-money
 

@@ -27,7 +27,7 @@ federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 359319
 total-assets: 1224754

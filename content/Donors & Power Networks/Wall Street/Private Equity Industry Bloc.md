@@ -15,7 +15,7 @@ issues:
   - "Housing"
 lobbying-spend: 2239378
 lobbying-filings: 64
-related: "[[The Education Committee and For-Profit College Pipeline]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Wall Street Finance Networks]]"
+related: "[[The Education Committee and For-Profit College Pipeline]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Wall Street Finance Networks]] · [[Hedge Fund Industry Bloc]]"
 ---
 #private-equity #wall-street #carried-interest #leveraged-buyout #extraction #healthcare #housing
 
