@@ -1,5 +1,37 @@
 "use client"
 
+/**
+ * Profile Editor — ops/src/app/editor/page.tsx
+ *
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ * RULES (do not violate when modifying this file)
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ *
+ * 1. FRONTMATTER-ONLY for structured fields.
+ *    Fields like `content-readiness`, `type`, `source-tier`, `party`,
+ *    `related`, `donors`, `opposes` are authoritative in YAML frontmatter
+ *    only. NEVER write them as `field:: value` inline-dataview syntax in
+ *    the body. See `content/Vault Rules.md` § Profile Schema.
+ *    This editor serializes state via `matter.stringify(body, fm)` which
+ *    writes frontmatter at the top and preserves the body verbatim — that
+ *    is correct. Do not add code that injects structured fields into body.
+ *
+ * 2. URL editor-only (David). Neither Research Claude nor Code Claude
+ *    hunts, replaces, or verifies source URLs. If this editor gains URL
+ *    hunting / auto-fixing features, STOP and flag for David. URL triage
+ *    lives in the URL Manager (`/urls`) and is David's manual workflow.
+ *    See `content/Vault Rules.md` § URL Policy and CLAUDE.md.
+ *
+ * 3. Research Claude flags `editorial-result: verified-candidate`; only
+ *    David signs off on `content-readiness: verified`. Do not wire any
+ *    auto-promote-to-verified path into this editor.
+ *
+ * If a future feature conflicts with any of these rules, stop and ask
+ * before implementing. These are load-bearing for the investigative
+ * integrity of the site and have been re-learned the hard way.
+ * ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ */
+
 import { useState, useEffect } from "react"
 import { useSearchParams } from "next/navigation"
 import matter from "gray-matter"

@@ -1,5 +1,26 @@
 "use client"
 
+/**
+ * URL Manager — ops/src/app/urls/page.tsx
+ *
+ * RULES (re-learned 2026-04-09; see `content/Vault Rules.md` § URL Policy):
+ *
+ * 1. URL fixing is EDITOR-ONLY (David). This UI is David's manual triage
+ *    workflow. Neither Research Claude nor Code Claude is permitted to
+ *    hunt, replace, or auto-verify URLs. The Claudes may FLAG broken URLs
+ *    in Session State or Admin Notes, but never edit them.
+ * 2. Do NOT add auto-fix, auto-replace, or bulk-URL-hunt buttons to this UI
+ *    without explicit sign-off from David. Any such feature must preserve
+ *    the rule that URL changes come only from deliberate editor actions.
+ * 3. Triage writes (via `/api/urls/save`) are the one place profile body
+ *    text gets edited directly (to strikethrough a broken link or add a
+ *    `(NEEDS REVIEW)` marker). This is intentional and the one exception
+ *    to the frontmatter-only rule.
+ * 4. If a future feature needs to auto-fix URLs from a source hunter, that
+ *    belongs in a SEPARATE suggestions queue that David approves manually
+ *    — never wired directly into this save path.
+ */
+
 import { useState, useEffect, useMemo, useCallback } from "react"
 
 interface VaultUrl {

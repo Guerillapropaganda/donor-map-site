@@ -1,6 +1,23 @@
 import { NextResponse } from "next/server"
 import { writeAndPush, deleteAndPush, readFile } from "@/lib/local-write"
 
+/**
+ * Profile edit API — ops/src/app/api/edit/route.ts
+ *
+ * RULES:
+ * 1. FRONTMATTER-ONLY for structured fields. Callers of PUT must hand in
+ *    content whose structured fields live in the YAML frontmatter block,
+ *    NOT as `field:: value` body-inline dataview. The editor page uses
+ *    gray-matter's `matter.stringify` which does this correctly. Do not
+ *    accept content from new callers without verifying the same.
+ * 2. DELETE is used by David from the Ops app only. Never call DELETE as
+ *    part of an automated cleanup — deleting profiles requires explicit
+ *    operator confirmation per the session protocol.
+ * 3. URL editing: neither Claude is permitted to rewrite URLs. If a future
+ *    PUT payload looks like a URL replacement, that must be routed through
+ *    the URL Manager triage workflow (David-only), not this endpoint.
+ */
+
 // Save edited content to a profile
 export async function PUT(request: Request) {
   try {
