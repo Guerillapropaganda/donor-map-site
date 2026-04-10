@@ -30,6 +30,7 @@ bills-sponsored: 199
 bills-cosponsored: 4972
 website: "https://adamsmith.house.gov"
 phone: "202-225-8901"
+internal-notes: "[CODE @ 2026-04-10] Pipeline: fec completed for Adam Smith. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24267974287"
 ---
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power
 
