@@ -2,37 +2,61 @@
 title: "Elizabeth Warren Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: "Democrat"
 chamber: "Senate"
 state: "Massachusetts"
 state-abbr: "MA"
+bioguide-id: "W000817"
+fec-candidate-id: "S2MA00170"
 issues:
-  - "Wall Street & Finance"
+  - "Wall Street & Financial Regulation"
+  - "Consumer Protection (CFPB architect)"
+  - "Wealth Tax & Billionaire Accountability"
+  - "Student Debt Cancellation"
+  - "Medicare for All"
+  - "Antitrust & Corporate Power"
+  - "Cryptocurrency Regulation"
+  - "Big Tech & Platform Accountability"
+committees:
+  - "Banking, Housing & Urban Affairs"
+  - "Finance"
+  - "Armed Services"
+  - "Health, Education, Labor & Pensions"
 top-donors:
-  - "ActBlue"
+  - "Small-dollar individual donors (2024: 96.2% of $9.04M raised)"
+  - "Education / Academia sector"
+  - "Law & Legal Services sector"
+  - "ActBlue (platform)"
   - "Emily's List"
 total-received: "$131,368,112"
-fec-candidate-id: "S2MA00170"
 stock-trades: 1
 last-enriched: "2026-04-07"
 source-types:
-  - DOJ
   - FEC
-corroboration-count: 2
+corroboration-count: 1
+needs-reenrichment: true
+reenrich-reason: "Congress + GovTrack enrichment never populated; bioguide-id W000817 just added so pipeline can now look her up. Also: source-types previously listed DOJ which was a false-positive from the engine scan — removed."
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
-related: "[[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[_Katie Porter Master Profile]] · [[The CFPB and the Limits of Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The 2020 Campaign and the Donor Class Consolidation]]"
+  - "Congress.gov legislative record not yet populated (bioguide-id W000817 added 2026-04-10; awaits next pipeline run)"
+  - "GovTrack voting record not yet populated (awaits pipeline run)"
+  - "CFPB dismantlement timeline under Trump II needs complete cataloging (partially documented)"
+  - "Wealth tax proposal votes and co-sponsor retreat pattern needs full enumeration"
+related: "[[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Kenneth Griffin]] · [[The CFPB and the Limits of Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The 2020 Campaign and the Donor Class Consolidation]]"
+opposes:
+  - "Fairshake PAC (crypto industry)"
+  - "Kenneth Griffin / Citadel"
+  - "Corporate PACs (refuses all corporate PAC money)"
+  - "Wall Street consolidation"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: ready-candidate
+editorial-notes: "Depth review 2026-04-10. BODY NOT TOUCHED — the central thesis ('what happens when a politician's funding IS clean'), donor class map (96.2% individual contributions, 0.7% PAC), and the CFPB architect → CFPB destroyed arc are all excellent. Structural test case for the vault. FIXED (Research Claude): added bioguide-id W000817 (unblocks Congress pipeline — was the reason 'No legislative record from Congress.gov' was a persistent gap), removed false-positive DOJ from source-types (engine scan artifact, same class of error as Whitehouse DOJ strip), expanded issues 1→8 entries, added committees (Banking / Finance / Armed Services / HELP), restructured top-donors to lead with the small-dollar model (96.2% individual), added structured opposes (Fairshake, Griffin, corporate PACs), expanded related to include full anti-donor + squad coalition, cleaned known-gaps (removed factually-wrong 'No mapped relationships' — 12+ wikilinks exist). REMOVED: body inline dataview 'donors: [[ActBlue]] · ...' per frontmatter-only rule. REMOVED: double '---' separator artifact. STAYS draft per tightened Vault Rules: known-gaps explicitly cite missing Congress.gov + GovTrack pipeline data. Flagged needs-reenrichment: true. Once clean pipeline data lands, ready to promote to ready and flag verified-candidate."
 ---
 #politician #democrat #senate #massachusetts #2026-election #cfpb #wall-street #consumer-protection #class-analysis #financial-regulation #small-dollar
 
-donors: [[ActBlue]] · [[EMILY's List|Emily's List]] · Education/Academia sector · Law and Legal Services sector
-
----
 ---
 
 ## Who She Is

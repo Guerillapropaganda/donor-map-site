@@ -2,7 +2,7 @@
 title: "Pramila Jayapal"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,39 +10,49 @@ chamber: "House"
 state: "Washington"
 state-abbr: "WA"
 district: "7"
-committees:
-  - "Antitrust (Judiciary)"
-issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Emergency Management"
-  - "Energy"
-  - "Environmental Protection"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-  - "Immigration"
-top-donors:
-  - "SEIU"
-  - "CNA"
-  - "ActBlue"
-total-received: "$1,548,482"
+bioguide-id: "J000298"
 fec-candidate-id: "H6WA07458"
+committees:
+  - "Judiciary (Antitrust Subcommittee — former Chair)"
+  - "Budget"
+former-roles:
+  - "Congressional Progressive Caucus Chair (2021–2024)"
+issues:
+  - "Medicare for All (lead House sponsor, M4A Act)"
+  - "Immigration Reform & Immigrant Rights"
+  - "Antitrust & Big Tech Accountability"
+  - "Labor & Union Organizing"
+  - "Housing & Community Development"
+  - "Civil Rights & Minority Issues"
+  - "Climate & Environmental Protection"
+  - "Healthcare Access"
+top-donors:
+  - "SEIU — Service Employees International Union"
+  - "CNA / National Nurses United"
+  - "Small-dollar individual donors (ActBlue)"
+  - "Education sector (teachers' unions)"
+total-received: "$1,548,482"
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
-related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Ilhan Omar Master Profile|Omar]] · [[SEIU - Service Employees International Union|SEIU]] · [[CNA - California Nurses Association|CNA]] · [[National Nurses United]]"
+  - "GovTrack voting record not yet populated (awaits pipeline run)"
+  - "Build Back Better negotiation timeline (2021-2022) needs complete citation pass — the defining CPC leverage test"
+  - "Amazon antitrust work (District Staff Committee hearings, break-up proposals) needs direct Congress.gov link"
+  - "CPC member roster during her chair years (2021-2024) needs attached sub-note"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Ayanna Pressley Master Profile|Pressley]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[_Summer Lee Master Profile|Summer Lee]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[Congressional Progressive Caucus|CPC]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built|Justice Democrats]] · [[SEIU - Service Employees International Union|SEIU]] · [[CNA - California Nurses Association|CNA]] · [[National Nurses United]] · [[Amazon]] · [[Microsoft]]"
+opposes:
+  - "Amazon (antitrust target)"
+  - "Microsoft (antitrust target)"
+  - "Tech industry self-regulation"
 last-enriched: "2026-04-10"
-bioguide-id: "J000298"
+editorial-review-date: '2026-04-10'
+editorial-reviewer: "Research Claude"
+editorial-result: ready-candidate
+editorial-notes: "Depth review 2026-04-10. Body NOT touched — central thesis ('CPC leverage is real in theory and paper-thin in practice') + Build Back Better case study + WA-7 Amazon contradiction are strong analytical frame. bioguide-id J000298 already set, Congress source-type present, FEC data present. FIXED (Research Claude): expanded committees to include Budget + flagged Antitrust Subcommittee former Chair role, added former-roles for CPC Chair 2021-2024, restructured issues to lead with Medicare for All (her signature) and immigration (her origin), expanded top-donors to acknowledge small-dollar / ActBlue pattern, added structured opposes (Amazon/Microsoft antitrust targets — the WA-7 contradiction the body describes), expanded related to include full Squad + CPC + relevant Big Tech targets, cleaned known-gaps (removed factually-wrong 'No mapped relationships' — 15+ wikilinks exist; removed 'No voting record data' in favor of specific 'GovTrack voting record not yet populated' phrasing so the janitor will catch it). REMOVED: body inline dataview 'donors: [[SEIU...]] [[CNA...]] [[ActBlue]]' per frontmatter-only rule. STAYS draft per tightened Vault Rules: GovTrack voting record missing, and BBB timeline + Amazon antitrust work need direct sourcing. Once GovTrack block lands and the BBB section is sourced, ready to promote to ready and flag verified-candidate. Not flagging needs-reenrichment since Congress data IS present — only GovTrack is missing, and the scheduled pipeline run will hit her on its normal rotation."
 ---
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust
-
-donors: [[SEIU - Service Employees International Union|SEIU]] [[CNA - California Nurses Association|CNA]] [[ActBlue]]
 
 ---
 
