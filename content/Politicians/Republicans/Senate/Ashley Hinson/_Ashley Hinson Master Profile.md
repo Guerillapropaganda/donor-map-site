@@ -2,7 +2,7 @@
 title: Ashley Hinson Master Profile
 type: politician
 content-readiness: draft
-last-updated: '2026-04-09'
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: Republican
@@ -28,7 +28,7 @@ known-gaps:
 opposes: >-
   [[UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN
   AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES
-  AND CANADA)]]
+  AND CANADA)]] · [[HOUSE MAJORITY PAC]]
 ---
 
 #politician #republican #senate #iowa #2026-candidate
