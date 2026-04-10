@@ -360,6 +360,50 @@ Next session priorities:
 
 ## Previous Session
 Claude: Code
+Date: 2026-04-10 (Phase 1 Day 1 — Ops Calendar tab shipped)
+
+Done (Ops Calendar tab — `ops/src/app/calendar/`):
+- **New worktree** `.claude/worktrees/calendar` on branch `claude/calendar` (Research Claude is parallel on `reverent-hugle`, no collision — I only touch `ops/`).
+- **Sprint schedule parser** (`ops/src/lib/sprint-schedule-parser.ts`) — reads `content/Admin Notes/sprint-schedule.md` on every request (no cache), extracts ```yaml fenced blocks under each H2 heading via js-yaml with JSON_SCHEMA so ISO dates stay strings. Handles missing file with a readable error.
+- **Mutable sprint state lib** (`ops/src/lib/sprint-state.ts`) — atomic writes to `ops/data/sprint-state.json` (already gitignored). First-load seeds task_states from the schedule's status fields so cc_01-04 show as done and cc_07/rc_05 show as blocked.
+- **API routes** — `GET/POST /api/sprint-state`, `POST /api/sprint-state/task`, `POST /api/sprint-state/day`, `POST /api/sprint-state/snapshot`.
+- **Calendar components** — `page.tsx` (server component, dynamic = "force-dynamic"), `Calendar.tsx` (client, optimistic task toggle), `PhaseBar.tsx` (3 color-coded segments), `MonthGrid.tsx` (7-col Mon-Sun with empty pad cells for the Fri-start + Thu-end), `DayCell.tsx` (weekday, day #, phase label, task count, scrollable task list, phase-exit / launch / hard-stop markers), `TaskCheckbox.tsx` (status-aware, owner chip, blocked disabled), `DayModal.tsx` (daily template + anchored tasks, ESC to close), `utils.ts` (client-safe helpers split out so client bundle doesn't pull fs), `types.ts` (phase colors, owner colors, progressFraction, tasksByDay).
+- **Sidebar nav item** — `Calendar` added between Money Trail and Alerts with a calendar SVG.
+- **js-yaml installed** — spec said "already in deps" but wasn't. `npm install js-yaml @types/js-yaml` in ops/.
+
+Acceptance criteria verified via preview_eval at `localhost:3334/calendar`:
+- 21 day cells ✓ · 36 task checkboxes ✓ · 3 phase bar segments ✓ · 4 North Star progress bars ✓
+- TODAY marker on Apr 10 ✓ · SOFT LAUNCH on Apr 27 ✓ · PUBLIC LAUNCH on Apr 30 ✓
+- Task toggle POST persists to `ops/data/sprint-state.json`, survives reload ✓
+- Initial state correctly seeds cc_01-04 as done, cc_07/rc_05 as blocked ✓
+- No console errors, no NaN rendering after switching js-yaml to JSON_SCHEMA ✓
+
+Design decision saved to memory (`feedback_ops_excluded_from_design_system.md`):
+- The ops/ app is **excluded** from `content/Design System.md`. The brutalist cream/yellow/square rules are website-only. Ops stays dark (`--color-bg: #0c0c0f`, Tailwind utility classes, rounded corners OK). David clarified mid-build: "this is specifically for the Operations App. Those visual aspects are/should be excluded inside the Operations build. The cream bg is for the website."
+
+Commits on `claude/calendar`:
+- `5461c70c` ops: add js-yaml for sprint schedule parsing
+- `9cbced5b` ops: sprint schedule parser + mutable sprint-state lib
+- `cd9acbcd` ops: /api/sprint-state routes
+- `7fe9b30c` ops: Calendar tab with month grid, phase bar, day modal
+
+Known issues:
+- `content/Admin Notes/sprint-schedule.md` and `calendar-spec.md` live in Research Claude's `reverent-hugle` worktree. They're excluded from my calendar worktree via `.git/info/exclude` so dev testing works without polluting my commits. Once Research Claude merges their worktree to v4, the spec files land via pull. Until then, if you run the calendar at a fresh v4 checkout, add `content/Admin Notes/sprint-schedule.md` first.
+- `content-readiness:: ready\n\0` NUL-padding script root cause (cc_05) still pending.
+- Ops profile editor frontmatter-only + URL editor-only rule comments (cc_06) still pending.
+- 12 stub enrichment (cc_07) still blocked on GitHub Actions re-enablement.
+
+Next session priorities:
+1. **cc_05** — find and fix the NUL-padding script
+2. **cc_06** — add rule comments to Ops profile editor source
+3. **Test the calendar at `localhost:3333`** after Research Claude's spec file lands on v4 (verify default ops-dashboard port still works)
+4. **Wire Breadcrumbs** to all Ops pages + migrate ToastProvider usage
+5. **cc_07** — trigger pipeline runs when GitHub Actions re-enabled
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-10 (Pipeline quality fixes + red flag cleanup — redirect contamination, A000383 bug, GovTrack stale cache, Cori Bush demotion)
 
 Done (Pipeline Quality Fixes in `donor-map-engine`):
