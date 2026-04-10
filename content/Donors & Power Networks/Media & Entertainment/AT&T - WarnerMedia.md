@@ -2,7 +2,7 @@
 title: "AT&T"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -25,7 +25,7 @@ lobbying-spend: 21040000
 lobbying-filings: 28
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Walt Disney Company]]"
+related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Walt Disney Company]] · [[iHeartMedia]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 91608
 total-assets: 252342

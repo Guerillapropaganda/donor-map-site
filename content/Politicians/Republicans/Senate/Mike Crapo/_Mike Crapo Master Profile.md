@@ -2,7 +2,7 @@
 title: "Mike Crapo"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -14,7 +14,7 @@ committees:
 top-donors:
   - "Koch Network - Charles Koch"
 donors: "[[Harlan Crow]]"
-related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Jason Smith Master Profile|Jason Smith]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Jason Smith Master Profile|Jason Smith]] · [[Ron Wyden]]"
 govtrack-id: 300030
 bills-sponsored: 27
 bills-cosponsored: 254

@@ -2,10 +2,10 @@
 title: "The AIPAC Primary Machine and Foreign Affairs Removal"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-10
 source-tier: 1
 parent: "[[_Ilhan Omar Master Profile]]"
-related: "[[_Ilhan Omar Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[AIPAC Super PAC Spending Map]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]]"
+related: "[[_Ilhan Omar Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[AIPAC Super PAC Spending Map]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[The Endorsement Economy - Courage to Change PAC]]"
 ---
 #omar #aipac #foreign-affairs #israel #palestine #primary #committee-removal #united-democracy-project #squad
 

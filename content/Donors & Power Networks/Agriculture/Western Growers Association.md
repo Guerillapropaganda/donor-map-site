@@ -2,7 +2,7 @@
 title: "Western Growers Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -64,7 +64,7 @@ regulatory-agencies:
   - "Interior Department"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]]"
 ---
 #donor #agricultural-employer #western-growers #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
 

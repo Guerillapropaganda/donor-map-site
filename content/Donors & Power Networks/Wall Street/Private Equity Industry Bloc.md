@@ -2,7 +2,7 @@
 title: "Private Equity Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -15,7 +15,7 @@ issues:
   - "Housing"
 lobbying-spend: 2239378
 lobbying-filings: 64
-related: "[[The Education Committee and For-Profit College Pipeline]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Apollo Global Management]]"
+related: "[[The Education Committee and For-Profit College Pipeline]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]]"
 ---
 #private-equity #wall-street #carried-interest #leveraged-buyout #extraction #healthcare #housing
 

@@ -2,7 +2,7 @@
 title: "Trump Organization"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -12,7 +12,7 @@ politicians-funded:
   - "Jared Kushner"
 issues:
   - "Housing"
-related: "[[Housing - Donors and Backers]] · [[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Kushner]] · [[Trump Donor Coalition]]"
+related: "[[Housing - Donors and Backers]] · [[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Kushner]] · [[Trump Donor Coalition]] · [[Trump Media & Technology Group]]"
 sec-filings: 1884
 sec-form-types:
   - "10-K"

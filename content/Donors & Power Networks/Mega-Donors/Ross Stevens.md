@@ -2,7 +2,7 @@
 title: "Ross Stevens"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -43,7 +43,7 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "TEXT-EXTRACT"
-related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Ohio 2026 Governor Race - The Structural Landscape]] · [[Fairshake PAC - Crypto Super PAC]] · [[Crypto Industry Bloc]] · [[Coinbase]] · [[Club for Growth]] · [[Vivek Ramaswamy]]"
+related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Ohio 2026 Governor Race - The Structural Landscape]] · [[Fairshake PAC - Crypto Super PAC]] · [[Crypto Industry Bloc]] · [[Coinbase]] · [[Club for Growth]] · [[Vivek Ramaswamy]] · [[Vivek Ramaswamy Master Profile]]"
 lobbying-spend: 925000
 lobbying-filings: 70
 lei: "549300Q6W4JNCJR4LU44"

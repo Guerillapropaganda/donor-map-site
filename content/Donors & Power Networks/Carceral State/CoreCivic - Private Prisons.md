@@ -2,7 +2,7 @@
 title: "CoreCivic - Private Prisons"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -12,7 +12,7 @@ issues:
 last-enriched: "2026-04-08"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]]"
 ---
 #corecivic #private-prison #carceral #cca #immigration #detention #lobbying #incarceration #ice #revolving-door #trump
 

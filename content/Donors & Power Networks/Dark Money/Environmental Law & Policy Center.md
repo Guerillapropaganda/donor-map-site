@@ -2,7 +2,7 @@
 title: "Environmental Law & Policy Center"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -15,7 +15,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 150007
 total-assets: 254525
-related: "[[Sheldon Whitehouse]]"
+related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]]"
 fara-status: "registrant"
 fara-records: 3
 fara-countries:

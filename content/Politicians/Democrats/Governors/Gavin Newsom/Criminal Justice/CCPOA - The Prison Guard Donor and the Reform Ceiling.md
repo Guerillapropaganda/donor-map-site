@@ -2,10 +2,10 @@
 title: "CCPOA - The Prison Guard Donor and the Reform Ceiling"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Budget Priorities - What California Actually Funds]] · [[Policing Reform - George Floyd Era]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Budget Priorities - What California Actually Funds]] · [[Policing Reform - George Floyd Era]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]]"
 ---
 #newsom #criminal-justice #[[CCPOA - California Correctional Peace Officers Association|CCPOA]] #prison-guards #donor-class #reform-ceiling #follow-the-money #class-analysis #carceral-state #union-as-capital
 

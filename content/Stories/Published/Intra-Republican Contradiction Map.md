@@ -2,10 +2,10 @@
 title: "Intra-Republican Contradiction Map"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[How Money Captures Media — The Donor Map Media Pipeline]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Session Timeline]] · [[Research Methodology and Data Sources]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[How Money Captures Media — The Donor Map Media Pipeline]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Session Timeline]] · [[Research Methodology and Data Sources]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
 ---
 #contradiction-map #republican-party #class-analysis #follow-the-money #intra-party
 tags: #story

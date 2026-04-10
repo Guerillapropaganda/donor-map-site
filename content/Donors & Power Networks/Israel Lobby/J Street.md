@@ -2,7 +2,7 @@
 title: "J Street"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -16,7 +16,7 @@ ein: 261507828
 annual-revenue: "$4.0M"
 net-assets: "$4.5M"
 tax-year: "2023"
-related: "[[Entertainment and Hollywood Donors]] · [[Rashida Tlaib]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[United Democracy Project - UDP|UDP]] · [[Haim Saban]] · [[_Jerry Nadler Master Profile|Jerry Nadler]] · [[_Bernie Sanders Master Profile|Bernie Sanders]]"
+related: "[[Entertainment and Hollywood Donors]] · [[Rashida Tlaib]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[United Democracy Project - UDP|UDP]] · [[Haim Saban]] · [[_Jerry Nadler Master Profile|Jerry Nadler]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[JCRC Bay Area]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

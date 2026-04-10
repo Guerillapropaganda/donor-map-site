@@ -2,10 +2,10 @@
 title: "Rent Control - Props 10, 21, and 33"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
 #newsom #housing #rent-control #prop-10 #prop-21 #prop-33 #tenant-rights #california-apartment-association #donor-class #ballot-measure #class-analysis #follow-the-money
 

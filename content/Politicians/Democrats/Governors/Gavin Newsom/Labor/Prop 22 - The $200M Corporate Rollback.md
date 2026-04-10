@@ -2,10 +2,10 @@
 title: "Prop 22 - The $200M Corporate Rollback"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[Immigration - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[Immigration - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]]"
 ---
 #newsom #labor #prop-22 #gig-workers #uber #lyft #doordash #instacart #ballot-measure #corporate-rollback #donor-class #silence #flip-history #follow-the-money
 

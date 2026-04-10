@@ -2,7 +2,7 @@
 title: "Leidos"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -69,7 +69,7 @@ regulatory-agencies:
 federal-awards-total: 10432350765
 federal-contracts-count: 25
 federal-grants-count: 9
-related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]]"
+related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Raytheon Technologies]]"
 lobbying-spend: 10260000
 lobbying-filings: 54
 ---

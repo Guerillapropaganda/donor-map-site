@@ -2,10 +2,10 @@
 title: "Ethnic Studies - Whose History Gets Taught"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Pro-Israel Donor Network Deep Dive]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Pro-Israel Donor Network Deep Dive]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[The Biden Exit and Harris Installation]]"
 ---
 #newsom #education #ethnic-studies #curriculum #whose-history #[[JPAC - Jewish Public Affairs Committee of California|JPAC]] #ADL #capitulation #class-analysis #narrative-control #BDS #palestine
 

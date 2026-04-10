@@ -2,10 +2,10 @@
 title: "The Palantir State - Surveillance as Policy"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Valinor Enterprises]] · [[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[_JD Vance Master Profile]] · [[_Chad Bianco Master Profile]] · [[GEO Group]] · [[CoreCivic]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Valinor Enterprises]] · [[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[_JD Vance Master Profile]] · [[_Chad Bianco Master Profile]] · [[GEO Group]] · [[CoreCivic]] · [[Section 702 - The Warrantless Surveillance Expansion]]"
 ---
 #trump #palantir #surveillance #peter-thiel #class-analysis #follow-the-money #ICE #military-industrial #data #privacy #JD-Vance
 

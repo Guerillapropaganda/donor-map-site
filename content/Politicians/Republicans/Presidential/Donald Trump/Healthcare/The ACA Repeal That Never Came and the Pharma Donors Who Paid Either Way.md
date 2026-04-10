@@ -2,10 +2,10 @@
 title: "The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Pfizer Inc.]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]]"
+related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Pfizer Inc.]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Healthcare - Donors and Backers]]"
 ---
 #donald-trump #healthcare #aca #obamacare #pharma #rfk-jr #medicaid #operation-warp-speed #covid #class-analysis #follow-the-money
 

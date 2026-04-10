@@ -2,7 +2,7 @@
 title: "Williams Companies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -45,7 +45,7 @@ lei-jurisdiction: "US"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
-related: "[[InfluenceMap]] · [[Enterprise Products Partners]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Joe Manchin]]"
+related: "[[InfluenceMap]] · [[Enterprise Products Partners]] · [[American Fuel and Petrochemical Manufacturers|AFPM]] · [[Joe Manchin]] · [[League of Conservation Voters]]"
 federal-register-mentions: 135
 regulatory-agencies:
   - "Energy Department"

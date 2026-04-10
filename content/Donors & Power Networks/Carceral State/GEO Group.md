@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -30,7 +30,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lobbying-spend: 2624500
 lobbying-filings: 106
-related: "[[Uber]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[CoreCivic]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Save America PAC]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Pam Bondi Master Profile|Pam Bondi]]"
+related: "[[Uber]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[CoreCivic]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Save America PAC]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Pam Bondi Master Profile|Pam Bondi]] · [[Lyft]]"
 ---
 #donor #private-prison #immigration-detention #GEO-group #ICE #for-profit-detention #republican-donor #trump #class-analysis #follow-the-money #revolving-door #carceral-state #detention-expansion #ankle-monitor #bi-incorporated #electronic-monitoring #e-carceration #pam-bondi #sedition-caucus #forced-labor #racial-disparity
 

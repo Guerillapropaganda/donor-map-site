@@ -2,7 +2,7 @@
 title: "Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric"
 type: story
 content-readiness: raw
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 issues:
@@ -11,7 +11,7 @@ issues:
   - "Housing"
   - "Immigration"
   - "Dark Money & Campaign Finance"
-related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
+related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]]"
 ---
 #trump #newsom #both-sides #donor-class #gig-economy #pharma #israel #housing #immigration #dark-money #class-analysis #follow-the-money
 

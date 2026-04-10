@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]] · [[Lee Camp]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]] · [[Lee Camp]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]]"
 ---
 
 #media-pipeline #left #youtube #rumble #force-the-vote #audience-swap #anti-establishment

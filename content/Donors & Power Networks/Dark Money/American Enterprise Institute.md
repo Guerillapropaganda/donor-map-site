@@ -2,7 +2,7 @@
 title: "American Enterprise Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -41,7 +41,7 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 104831056
 total-assets: 353111569
 total-political-spend: "$6,625"
-related: "[[Bradley Impact Fund]] · [[Heritage Foundation]] · [[Bradley Foundation]] · [[Koch Industries]] · [[Council for National Policy]]"
+related: "[[Bradley Impact Fund]] · [[Heritage Foundation]] · [[Bradley Foundation]] · [[Koch Industries]] · [[Council for National Policy]] · [[DeVos Family]]"
 ---
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative
 

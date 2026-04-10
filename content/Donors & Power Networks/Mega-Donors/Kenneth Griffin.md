@@ -2,7 +2,7 @@
 title: "Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -47,7 +47,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Securities and Exchange Commission"
   - "Transportation Department"
-related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Patrick McHenry Master Profile]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Nikki Haley Master Profile]] · [[Blackstone Real Estate Political Operation]] · [[_Donald Trump Master Profile]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Patrick McHenry Master Profile]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Nikki Haley Master Profile]] · [[Blackstone Real Estate Political Operation]] · [[_Donald Trump Master Profile]] · [[Securities & Investment Industry]]"
 ---
 #donor #griffin #citadel #hedge-fund #wall-street #class-analysis #follow-the-money #financial-deregulation #anti-tariff #desantis #republican
 

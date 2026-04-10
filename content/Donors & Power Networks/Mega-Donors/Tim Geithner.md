@@ -2,7 +2,7 @@
 title: "Tim Geithner"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -27,7 +27,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
 total-political-spend: "$469,350"
-related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]] · [[Goldman Sachs]] · [[_Barack Obama Master Profile|Obama]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Citigroup]]"
+related: "[[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Tim Geithner Political Operation]] · [[Goldman Sachs]] · [[_Barack Obama Master Profile|Obama]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
 court-cases: 46
 last-enriched: "2026-04-08"
 court-jurisdictions:

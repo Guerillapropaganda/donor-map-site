@@ -2,10 +2,10 @@
 title: "Labor - Donors and Backers"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Immigration - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Healthcare - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[FAST Act and the AB 1228 Deal]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Immigration - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Healthcare - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[FAST Act and the AB 1228 Deal]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Post-October 7 Positions and Flip History]]"
 ---
 #newsom #labor #donors #backers #follow-the-money #uber #lyft #doordash #restaurant-industry #agricultural-employers #research-node
 

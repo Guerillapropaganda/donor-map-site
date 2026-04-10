@@ -2,7 +2,7 @@
 title: "WSPA - Western States Petroleum Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -18,7 +18,7 @@ nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-07"
 total-revenue: 56147294
 total-assets: 16493191
-related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[Marathon Petroleum]] · [[_Gavin Newsom Master Profile|Gavin Newsom]]"
+related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[Marathon Petroleum]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[NextEra Energy]]"
 ---
 #wspa #petroleum #california #lobbying #oil #gas #refining #cap-and-trade
 

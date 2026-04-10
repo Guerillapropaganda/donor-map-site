@@ -2,14 +2,14 @@
 title: "Agribusiness Donor Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
 entity-type: "Individual Donor"
 issues:
   - "Agriculture"
-related: "[[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]] · [[The Veterans Affairs and Iowa Agriculture]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[Monsanto - Bayer]] · [[Tyson Foods]] · [[John Deere]] · [[American Farm Bureau Federation]] · [[Ethanol Industry]]"
+related: "[[Joni Ernst Master Profile]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]] · [[The Veterans Affairs and Iowa Agriculture]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[Monsanto - Bayer]] · [[Tyson Foods]] · [[John Deere]] · [[American Farm Bureau Federation]] · [[Ethanol Industry]] · [[Meatpacking Corporations]]"
 last-enriched: "2026-04-08"
 ---
 #agribusiness #agriculture #industry-bloc #subsidies #farm-bill #lobbying #consolidation

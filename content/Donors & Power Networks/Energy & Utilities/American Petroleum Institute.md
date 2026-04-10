@@ -2,7 +2,7 @@
 title: "American Petroleum Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -21,7 +21,7 @@ ofac-programs:
 nonprofit-status: "501(c)(6)"
 total-revenue: 268010806
 total-assets: 109879063
-related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]] · [[Ron Johnson]] · [[John Barrasso]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch|Koch network]] · [[Americans for Prosperity|AFP]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Better Jobs Together]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]]"
+related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]] · [[Ron Johnson]] · [[John Barrasso]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch|Koch network]] · [[Americans for Prosperity|AFP]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Better Jobs Together]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Western States Petroleum Association]]"
 total-political-spend: "$24,891,220"
 politicians-funded:
   - "Steve Scalise"

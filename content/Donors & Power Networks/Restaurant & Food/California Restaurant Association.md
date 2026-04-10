@@ -2,7 +2,7 @@
 title: "California Restaurant Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -47,7 +47,7 @@ ein: 951241045
 annual-revenue: "$5.4M"
 net-assets: "$20.8M"
 tax-year: "2023"
-related: "[[UFCW - United Food and Commercial Workers]] · [[_Gavin Newsom Master Profile]] · [[FAST Act and the AB 1228 Deal]] · [[Labor - Donors and Backers]]"
+related: "[[UFCW - United Food and Commercial Workers]] · [[_Gavin Newsom Master Profile]] · [[FAST Act and the AB 1228 Deal]] · [[Labor - Donors and Backers]] · [[Western States Petroleum Association]]"
 court-cases: 97
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"

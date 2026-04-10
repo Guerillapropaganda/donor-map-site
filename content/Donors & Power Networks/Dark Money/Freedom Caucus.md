@@ -2,7 +2,7 @@
 title: "House Freedom Caucus"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -19,7 +19,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
 total-revenue: 1000410
 total-assets: 485221
-related: "[[US Chamber of Commerce]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Chip Roy Master Profile|Chip Roy]] · [[Koch Network - Charles Koch|Koch Network]] · [[Club for Growth]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[_Andy Harris Master Profile|Andy Harris]] · [[_Scott Perry Master Profile|Scott Perry]]"
+related: "[[US Chamber of Commerce]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Chip Roy Master Profile|Chip Roy]] · [[Koch Network - Charles Koch|Koch Network]] · [[Club for Growth]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[_Andy Harris Master Profile|Andy Harris]] · [[_Scott Perry Master Profile|Scott Perry]] · [[DeVos Family]]"
 lobbying-spend: 2440844
 lobbying-filings: 100
 ---

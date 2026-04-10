@@ -2,10 +2,10 @@
 title: "Melissa Bean's Corporate Background"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-10
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
-related: "[[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Think Big AI PAC and AI Policy Alignment]]"
+related: "[[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Elect Chicago Women Shell PAC Operation]]"
 ---
 #democrat #politician #house #illinois #revolving-door #jpmorgan #finance #mesirow #corporate-background
 

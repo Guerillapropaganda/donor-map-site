@@ -23,7 +23,7 @@ top-donors:
   - "PhRMA"
 total-received: "$1,311,209"
 fec-candidate-id: "H8NJ03073"
-donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]]"
+donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Pfizer]] · [[PhRMA]]"
 ---
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power

@@ -7,7 +7,7 @@ source-tier: null
 parent: null
 category: centrist
 platform: youtube
-related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[Patrick Bet-David]] · [[Ana Kasparian]] · [[Rachel Maddow]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]]"
 ---
 
 #media-pipeline #centrist #media-network #valuetainment #patrick-bet-david #business-media

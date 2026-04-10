@@ -2,7 +2,7 @@
 title: "NextEra Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -62,7 +62,7 @@ sec-form-types:
   - "S-3ASR"
   - "S-3D"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]]"
+related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]]"
 ---
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
 

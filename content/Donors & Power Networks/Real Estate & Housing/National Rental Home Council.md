@@ -2,7 +2,7 @@
 title: "National Rental Home Council"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -43,7 +43,7 @@ sec-form-types:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
-related: "[[Invitation Homes - Institutional Landlords]] · [[National Multifamily Housing Council]] · [[Bill Pulte]] · [[Invitation Homes]] · [[American Homes 4 Rent]]"
+related: "[[Invitation Homes - Institutional Landlords]] · [[National Multifamily Housing Council]] · [[Bill Pulte]] · [[Invitation Homes]] · [[American Homes 4 Rent]] · [[Blackstone Real Estate]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 4375683
 total-assets: 467752

@@ -2,7 +2,7 @@
 title: "Meta - Facebook"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -34,7 +34,7 @@ sec-form-types:
   - "N-CSRS"
   - "PART II"
   - "PX14A6G"
-related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]] · [[TikTok - ByteDance]]"
 lobbying-spend: 36516328
 lobbying-filings: 107
 ---

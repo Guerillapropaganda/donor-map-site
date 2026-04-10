@@ -2,7 +2,7 @@
 title: "Bank of America"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -29,7 +29,7 @@ regulatory-agencies:
   - "Housing and Urban Development Department"
   - "Justice Department"
   - "Securities and Exchange Commission"
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[_French Hill Master Profile|French Hill]] · [[_Tim Scott Master Profile|Tim Scott]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[_French Hill Master Profile|French Hill]] · [[_Tim Scott Master Profile|Tim Scott]] · [[Wells Fargo]]"
 subawards-issued: 9
 subawards-issued-amount: 912260
 subawards-received: 9

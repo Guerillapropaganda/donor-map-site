@@ -2,7 +2,7 @@
 title: "Wall Street Finance Networks"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,7 +11,7 @@ issues:
   - "Wall Street & Finance"
   - "Dark Money & Campaign Finance"
   - "Regulatory Capture"
-related: "[[Cory Booker]] · [[Wall Street Bloc]] · [[Financial Services Donors]] · [[Finance and Tech Bundler Network]] · [[Goldman Sachs - Wall Street Titan]] · [[JPMorgan]] · [[Citadel - Kenneth Griffin]] · [[Blackstone Group]] · [[Elliott Management]] · [[Morgan Stanley]] · [[Hedge Fund Industry Bloc]] · [[Private Equity Industry Bloc]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Donald Trump Master Profile|Donald Trump]]"
+related: "[[Cory Booker]] · [[Wall Street Bloc]] · [[Financial Services Donors]] · [[Finance and Tech Bundler Network]] · [[Goldman Sachs - Wall Street Titan]] · [[JPMorgan]] · [[Citadel - Kenneth Griffin]] · [[Blackstone Group]] · [[Elliott Management]] · [[Morgan Stanley]] · [[Hedge Fund Industry Bloc]] · [[Private Equity Industry Bloc]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Donald Trump Master Profile|Donald Trump]] · [[JPMorgan Chase]]"
 source-types:
   - FEC
 known-gaps:

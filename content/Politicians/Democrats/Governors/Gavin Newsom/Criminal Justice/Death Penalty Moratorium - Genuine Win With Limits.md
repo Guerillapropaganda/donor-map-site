@@ -2,10 +2,10 @@
 title: "Death Penalty Moratorium - Genuine Win With Limits"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]]"
+related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]]"
 ---
 #newsom #criminal-justice #death-penalty #moratorium #genuine-win #executive-order #class-analysis #reversible #race #poverty
 

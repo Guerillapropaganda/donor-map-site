@@ -2,12 +2,12 @@
 title: "Real Estate Lobby Funds the Housing Crisis From Both Sides"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 issues:
   - "Housing"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[_Jason Smith Master Profile|Jason Smith]] · [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[_Jason Smith Master Profile|Jason Smith]] · [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]]"
 ---
 #investigation #contradiction #real-estate #housing #nar #zoning #rent-control #bipartisan-consensus #class-analysis #tax-policy
 tags: #analysis #story

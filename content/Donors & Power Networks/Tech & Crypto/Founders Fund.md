@@ -2,7 +2,7 @@
 title: "Founders Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -22,7 +22,7 @@ net-assets: "$421K"
 tax-year: "2023"
 lei: "254900B4R5J7N0865R59"
 lei-jurisdiction: "LU"
-related: "[[Joe Rogan]] · [[Invariant]] · [[Ajay Royan]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Mithril Capital]] · [[Elon Musk]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]]"
+related: "[[Joe Rogan]] · [[Invariant]] · [[Ajay Royan]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Mithril Capital]] · [[Elon Musk]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Silicon Valley Donors]]"
 court-cases: 157
 last-enriched: "2026-04-09"
 court-jurisdictions:

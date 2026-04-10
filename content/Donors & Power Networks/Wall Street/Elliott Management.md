@@ -2,7 +2,7 @@
 title: "Elliott Management"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -13,7 +13,7 @@ issues:
   - "Energy & Climate"
   - "Israel & Foreign Policy"
 total-political-spend: "$707"
-related: "[[Schwarzman and Singer Fund Every Republican Faction]] · [[Mitt Romney]] · [[_Donald Trump Master Profile|Trump]] · [[_Marco Rubio Master Profile|Marco Rubio]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Samuel Alito Master Profile|Samuel Alito]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[MAGA Inc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Fossil Fuel Deregulation - The Climate Donors]]"
+related: "[[Schwarzman and Singer Fund Every Republican Faction]] · [[Mitt Romney]] · [[_Donald Trump Master Profile|Trump]] · [[_Marco Rubio Master Profile|Marco Rubio]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Samuel Alito Master Profile|Samuel Alito]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[MAGA Inc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Wall Street Finance Networks]]"
 lei: "SUHPWJ4TBNAH1YMQM073"
 lei-jurisdiction: "US-DE"
 ---

@@ -2,7 +2,7 @@
 title: "CTA - California Teachers Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Education"
@@ -18,7 +18,7 @@ net-assets: "$316K"
 tax-year: "2023"
 lobbying-spend: 160000
 lobbying-filings: 8
-related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[Buffy Wicks]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]]"
+related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[Buffy Wicks]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"

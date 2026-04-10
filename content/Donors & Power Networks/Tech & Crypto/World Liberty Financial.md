@@ -2,7 +2,7 @@
 title: "World Liberty Financial"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -21,7 +21,7 @@ ein: "813552287"
 nonprofit-status: "501(c)(3)"
 lobbying-spend: 1859712
 lobbying-filings: 106
-related: "[[The Grift Machine - How Trump Monetized the Presidency]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Steve Witkoff Master Profile|Steve Witkoff]] · [[Fairshake PAC]] · [[Trump Crypto - The President as Personal Profiteer]]"
+related: "[[The Grift Machine - How Trump Monetized the Presidency]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Steve Witkoff Master Profile|Steve Witkoff]] · [[Fairshake PAC]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Emoluments and Self Dealing - Donors and Backers]]"
 ---
 #world-liberty-financial #wlfi #crypto #trump #emoluments #stablecoin #uae #self-dealing #foreign-interference #class-analysis #follow-the-money
 

@@ -2,14 +2,14 @@
 title: "Dark Money Networks - The Shadow System"
 type: story
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Story"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[The Both-Sides Dark Money Illusion]] · [[DonorsTrust]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Marble Freedom Trust]] · [[Bradley Impact Fund]] · [[Majority Forward]]"
+related: "[[The Both-Sides Dark Money Illusion]] · [[DonorsTrust]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Marble Freedom Trust]] · [[Bradley Impact Fund]] · [[Majority Forward]] · [[Koch vs Soros Mirror Image Dark Money Machines]]"
 ---
 #dark-money #501c4 #shadow-system #citizens-united #anonymous #bipartisan
 

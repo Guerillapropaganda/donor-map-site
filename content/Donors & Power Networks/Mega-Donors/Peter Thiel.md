@@ -19,7 +19,7 @@ federal-register-mentions: 1
 last-enriched: "2026-04-09"
 regulatory-agencies:
   - Federal Trade Commission
-related: "[[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[_David Sacks Master Profile|David Sacks]] · [[The Thiel Pipeline - From Yale to VP]]"
+related: "[[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[_David Sacks Master Profile|David Sacks]] · [[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]]"
 lobbying-spend: 1684850
 lobbying-filings: 106
 stories: >-

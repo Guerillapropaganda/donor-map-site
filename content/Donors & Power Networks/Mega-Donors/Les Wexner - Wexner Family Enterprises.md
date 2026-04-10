@@ -2,7 +2,7 @@
 title: "Les Wexner - Wexner Family Enterprises"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -14,7 +14,7 @@ politicians-funded:
   - "John Kasich"
 issues:
   - "Israel & Foreign Policy"
-related: "[[Epstein Files and Les Wexner Controversy]] · [[_Jon Husted Master Profile|Husted]] · [[_Mike DeWine Master Profile|DeWine]] · [[_Donald Trump Master Profile|Trump]] · [[Jeffrey Epstein Network]] · [[_John Kasich Master Profile|Kasich]]"
+related: "[[Epstein Files and Les Wexner Controversy]] · [[_Jon Husted Master Profile|Husted]] · [[_Mike DeWine Master Profile|DeWine]] · [[_Donald Trump Master Profile|Trump]] · [[Jeffrey Epstein Network]] · [[_John Kasich Master Profile|Kasich]] · [[Wexner Family - Ohio Wealth & Political Networks]]"
 ---
 #les-wexner #abigail-wexner #ohio #mega-donor #republican #limited-brands #l-brands #victoria-secret #epstein #columbus #new-albany #retail #wexner-foundation #israel #osu #jobsohio #data-centers #class-analysis #follow-the-money
 

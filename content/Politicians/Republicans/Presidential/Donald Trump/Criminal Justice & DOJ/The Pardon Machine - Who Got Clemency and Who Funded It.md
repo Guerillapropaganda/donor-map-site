@@ -2,10 +2,10 @@
 title: "The Pardon Machine - Who Got Clemency and Who Funded It"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[_Donald Trump Master Profile]] · [[_Kash Patel Master Profile]]"
+related: "[[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[_Donald Trump Master Profile]] · [[_Kash Patel Master Profile]] · [[Criminal Justice and DOJ - Donors and Backers]]"
 ---
 #donald-trump #pardons #clemency #january-6 #doj #kash-patel #donor-pardons #jack-smith #class-analysis #follow-the-money
 

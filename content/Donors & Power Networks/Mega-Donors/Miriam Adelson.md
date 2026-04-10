@@ -2,7 +2,7 @@
 title: "Miriam Adelson"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -37,7 +37,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 3842
 total-assets: 92607
-related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]] · [[Bill Hagerty]] · [[Brian Kemp]] · [[Catherine Cortez Masto]] · [[Jan Koum]] · [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[UNITE HERE]] · [[_JD Vance Master Profile]] · [[Haim Saban]] · [[Timothy Mellon]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[NORPAC]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]] · [[Bill Hagerty]] · [[Brian Kemp]] · [[Catherine Cortez Masto]] · [[Jan Koum]] · [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[UNITE HERE]] · [[_JD Vance Master Profile]] · [[Haim Saban]] · [[Timothy Mellon]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[NORPAC]] · [[2028 Presidential Landscape]]"
 ---
 #donor #adelson #casino #class-analysis #follow-the-money #israel #las-vegas-sands #west-bank #annexation #sheldon-adelson #mega-donor #media-ownership #mavericks #texas-gambling #huckabee
 

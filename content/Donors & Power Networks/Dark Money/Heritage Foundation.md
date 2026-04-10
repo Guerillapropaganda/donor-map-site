@@ -2,7 +2,7 @@
 title: "Heritage Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -50,7 +50,7 @@ sec-form-types:
   - "SC 13G"
 lei: "5493006YU7R03XUJSX56"
 lei-jurisdiction: "US-DC"
-related: "[[American Federation for Children]] · [[Project 2025 - The Blueprint They Followed]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Federalist Society]] · [[_Donald Trump Master Profile|Trump]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] · [[DeVos Family]] · [[Bradley Foundation]]"
+related: "[[American Federation for Children]] · [[Project 2025 - The Blueprint They Followed]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[Federalist Society]] · [[_Donald Trump Master Profile|Trump]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns|Leo Judicial Pipeline]] · [[DeVos Family]] · [[Bradley Foundation]] · [[National Education Association]]"
 total-political-spend: "$1,007,158"
 ---
 #donor #think-tank #project-2025 #dark-money #conservative #501c3 #judicial #tax-policy #deregulation #revolving-door

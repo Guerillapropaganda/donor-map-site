@@ -2,10 +2,10 @@
 title: "The Corporate-Democratic Donor Coalition and AIPAC Connection"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Josh Shapiro Master Profile]]
-related: "[[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]] · [[_Josh Shapiro Master Profile]]"
+related: "[[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]] · [[_Josh Shapiro Master Profile]] · [[Pro-Israel Donor Network Deep Dive]]"
 ---
 #josh-shapiro #donors #aipac #bloomberg #soros #corporate-democrat #class-analysis #follow-the-money
 

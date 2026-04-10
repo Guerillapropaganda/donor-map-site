@@ -2,7 +2,7 @@
 title: "Comcast - NBCUniversal"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -49,7 +49,7 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SC 13D/A"
-related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]]"
 ---
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts
 

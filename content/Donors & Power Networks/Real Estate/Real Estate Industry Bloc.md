@@ -2,7 +2,7 @@
 title: "Real Estate Industry Bloc"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -24,7 +24,7 @@ ofac-programs:
   - "TCO"
 lobbying-spend: 32185838
 lobbying-filings: 100
-related: "[[Blackstone Real Estate Political Operation]] · [[National Association of Realtors]] · [[Blackstone Real Estate]] · [[CBRE Group]] · [[Invitation Homes - Institutional Landlords]] · [[Lennar Corporation]] · [[Real Estate Roundtable]]"
+related: "[[Blackstone Real Estate Political Operation]] · [[National Association of Realtors]] · [[Blackstone Real Estate]] · [[CBRE Group]] · [[Invitation Homes - Institutional Landlords]] · [[Lennar Corporation]] · [[Real Estate Roundtable]] · [[Real Estate Industry]]"
 ---
 #real-estate #industry-bloc #housing #lobbying #1031-exchange #zoning #reit #landlord
 

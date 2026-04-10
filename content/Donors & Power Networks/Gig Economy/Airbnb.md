@@ -2,7 +2,7 @@
 title: "Airbnb"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
   - "U.S. Citizenship and Immigration Services"
-related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]]"
+related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]] · [[Flex Association]]"
 ---
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
 

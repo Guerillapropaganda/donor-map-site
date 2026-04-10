@@ -2,12 +2,12 @@
 title: "QVT Financial"
 type: corporation
 content-readiness: ready
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
 entity-type: "Corporation"
-related: "[[_Vivek Ramaswamy Master Profile]] · [[The Roivant Fortune and the FDA Deregulation Conflict]]"
+related: "[[_Vivek Ramaswamy Master Profile]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Investigation Queue]]"
 source-types:
   - SEC
   - GLEIF

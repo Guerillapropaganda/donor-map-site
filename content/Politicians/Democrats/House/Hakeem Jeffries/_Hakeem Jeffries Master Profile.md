@@ -2,7 +2,7 @@
 title: "Hakeem Jeffries Master Profile"
 type: politician
 content-readiness: ready
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -42,7 +42,7 @@ editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: ready
 editorial-notes: "Promoted draft→ready. Strong editorial content (4 analytical patterns, donor class map, central thesis on gentrification dynamics, Pelosi-to-Jeffries institutional continuity table), but ONLY 1 Tier 1 source type (FEC). Does NOT qualify for verified-candidate status — needs Congress.gov member profile + House.gov leadership page before verified sign-off. FIXED: moved OpenSecrets from Tier 1 to Archived per Vault Rules. FIXED: removed inline dataview markers (donors::, profile-status::) per frontmatter-only rule. FIXED: removed duplicate ---. Zero A000383 contamination. Zero (URL NEEDED) tags. Re-review for verified after Congress.gov and House leadership sources added."
-related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Team Blue PAC]] · [[Jobs, Education and Family First]]"
+related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Chuck Schumer Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Team Blue PAC]] · [[Jobs, Education and Family First]] · [[Real Estate Industry]]"
 ---
 #hakeem-jeffries #house-minority-leader #new-york #brooklyn #real-estate #aipac #corporate-democrat #class-analysis
 

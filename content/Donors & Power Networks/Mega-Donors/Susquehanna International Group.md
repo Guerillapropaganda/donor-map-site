@@ -2,7 +2,7 @@
 title: "Susquehanna International Group"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -16,7 +16,7 @@ federal-register-mentions: 179
 last-enriched: "2026-04-06"
 regulatory-agencies:
   - "Securities and Exchange Commission"
-related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Club for Growth]] · [[Fairshake PAC - Crypto Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Club for Growth]] · [[Fairshake PAC - Crypto Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Jeffrey Yass]]"
 lei: "549300UHLZVQ1CWNT812"
 lei-jurisdiction: "US-DE"
 sec-filings: 2228

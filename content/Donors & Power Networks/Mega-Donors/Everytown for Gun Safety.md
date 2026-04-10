@@ -2,7 +2,7 @@
 title: "Everytown for Gun Safety"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -32,7 +32,7 @@ ein: 208802884
 annual-revenue: "$60.7M"
 net-assets: "$23.2M"
 tax-year: "2023"
-related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]] · [[Michael Bloomberg]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]]"
+related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]] · [[Michael Bloomberg]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[Adam Schiff]]"
 lobbying-spend: 5215000
 lobbying-filings: 42
 ---

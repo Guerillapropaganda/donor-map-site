@@ -2,7 +2,7 @@
 title: "Chris Larsen"
 type: donor
 content-readiness: raw
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: null
 parent: null
 sector: "Tech & Crypto"
@@ -11,7 +11,7 @@ issues:
   - Cryptocurrency Regulation
 politicians-funded:
   - "Kamala Harris"
-related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[Future Forward]] · [[_Kamala Harris Master Profile]]"
+related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[Future Forward]] · [[_Kamala Harris Master Profile]] · [[Brad Garlinghouse]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

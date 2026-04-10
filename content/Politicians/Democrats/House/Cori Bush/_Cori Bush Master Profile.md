@@ -12,11 +12,11 @@ state-abbr: "MO"
 district: "1"
 bioguide-id: "B001224"
 govtrack-id: 456829
-bills-sponsored: 39
+bills-sponsored: 38
 bills-cosponsored: 756
 total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
-related: "[[Jamaal Bowman Master Profile]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]]"
+related: "[[Jamaal Bowman Master Profile]] · [[Justice Democrats]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]] · [[Ayanna Pressley Master Profile]]"
 donors: "[[Justice Democrats]]"
 opposes: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Wesley Bell]]"
 source-types:
@@ -39,7 +39,7 @@ verified-blocks:
   - editorial-quality
 checklist-na:
   - "committee-assignments: Lost 2024 primary, no longer in 119th Congress"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-10"
 internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515 | [CODE @ 2026-04-10] DEMOTED ready→draft. Reasons: (1) auto:congress-legislation and auto:committee-assignments blocks contained wrong bioguide A000383 (pipeline fuzzy-match bug, now fixed) — removed. (2) auto:govtrack block showed 0/0 bills but frontmatter says 39/756 — stripped for re-run. (3) Body marker falsely said (VERIFIED) on stale data. Needs Research Claude re-review after pipelines run fresh."
 ---
 
@@ -160,6 +160,41 @@ _Stripped 2026-04-10 — stale 0/0 data contradicted frontmatter (39 sponsored, 
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
 <!-- auto:govtrack end -->
+
+<!-- auto:govtrack pending-merge 2026-04-10 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 38 |
+| Bills Cosponsored | 756 |
+| Total Votes Cast | 2,239 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropriat — *This resolution was introduced on June 5, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 8470: Helping Families Heal Act of 2024 — *This bill was introduced on May 21, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Con.Res. 92: Honoring the Mary Meachum Freedom Crossing. — *This resolution was introduced on February 20, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine. — *This resolution was introduced on October 25, 2023, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 634: Unhoused Persons Bill of Rights — *This resolution was introduced on July 28, 2023, in a previous session of Congress, but it did not receive a vote.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
+
+<!-- auto:govtrack pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

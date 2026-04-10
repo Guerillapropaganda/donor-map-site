@@ -2,14 +2,14 @@
 title: "IBEW Local 440 - Riverside"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
-related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]]"
+related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 477 - San Bernardino]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[California Building and Construction Trades Council]]"
 last-enriched: "2026-04-09"
 ---
 #donor #union #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #local-440 #building-trades #labor #class-analysis #follow-the-money #inland-empire #riverside #prevailing-wage

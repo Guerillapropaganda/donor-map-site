@@ -2,14 +2,14 @@
 title: Mark Kelly
 type: politician
 content-readiness: ready
-last-updated: '2026-04-09'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 total-received: '$33,067,827'
 fec-candidate-id: S0AZ00350
 last-enriched: '2026-04-08'
 donors: '[[Ken Griffin]]'
-related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]]"
+related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Boeing]]"
 opposes: >-
   [[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH
   ACTION]] · [[THE SENTINEL ACTION FUND]]

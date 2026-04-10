@@ -2,10 +2,10 @@
 title: "The COVID Tenure and the Political Fallout"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
-related: "[[Amy Acton Master Profile]] · [[Amy Acton]]"
+related: "[[Amy Acton Master Profile]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]]"
 ---
 #acton #covid-19 #ohio #health-director #class-analysis #follow-the-money #republican-pressure #corruption
 

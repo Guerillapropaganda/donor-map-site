@@ -2,7 +2,7 @@
 title: "Saudi Arabia - Kingdom Investment"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -11,7 +11,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "SDGT"
-related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]]"
+related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]]"
 ---
 #saudi-arabia #foreign #oil #arms-sales #mbs #pif #lobbying #khashoggi
 

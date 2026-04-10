@@ -2,7 +2,7 @@
 title: "Flex Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -23,7 +23,7 @@ court-jurisdictions:
   - "United States Bankruptcy Court, N.D. Illinois"
 ein: "394827006"
 nonprofit-status: "501(c)(3)"
-related: "[[Instacart]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Prop 22 - The $200M Corporate Rollback]]"
+related: "[[Instacart]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Airbnb]]"
 ---
 #flex-association #gig-economy #uber #lyft #doordash #instacart #prop-22 #worker-classification #lobbying #class-analysis #follow-the-money
 

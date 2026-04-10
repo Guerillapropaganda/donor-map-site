@@ -2,12 +2,12 @@
 title: "Goldman Sachs Funds Both Sides of Financial Regulation"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 issues:
   - "Wall Street & Finance"
-related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Goldman Sachs]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[Cory Booker]]"
+related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Goldman Sachs]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[Cory Booker]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 ---
 #investigation #contradiction #goldman-sachs #both-sides #wall-street #revolving-door #class-analysis
 tags: #analysis #story

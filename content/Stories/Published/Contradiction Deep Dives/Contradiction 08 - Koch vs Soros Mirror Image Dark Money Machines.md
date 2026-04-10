@@ -2,12 +2,12 @@
 title: "Koch vs Soros Mirror Image Dark Money Machines"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[The Both-Sides Dark Money Illusion]] · [[Koch network]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Stand Together]] · [[Americans for Prosperity]] · [[George Soros]] · [[Open Society Foundations]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[New Venture Fund]] · [[Citizens United and the Architecture of Unlimited Political Money|Citizens United]]"
+related: "[[The Both-Sides Dark Money Illusion]] · [[Koch network]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Stand Together]] · [[Americans for Prosperity]] · [[George Soros]] · [[Open Society Foundations]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[New Venture Fund]] · [[Citizens United and the Architecture of Unlimited Political Money|Citizens United]] · [[Dark Money Networks - The Shadow System]]"
 ---
 #investigation #contradiction #koch #soros #dark-money #both-sides #class-analysis
 tags: #analysis #story

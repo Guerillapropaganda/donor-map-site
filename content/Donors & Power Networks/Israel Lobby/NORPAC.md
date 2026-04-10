@@ -2,7 +2,7 @@
 title: "NORPAC"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -39,7 +39,7 @@ ein: "352841377"
 nonprofit-status: "501(c)(4)"
 total-revenue: 2327
 total-assets: 51394
-related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]] · [[Jim Risch]] · [[Bernie Moreno]] · [[Tim Walberg]] · [[Brian Mast]] · [[John Hickenlooper]] · [[Jack Reed]] · [[Gregory Meeks]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Republican Jewish Coalition]] · [[Miriam Adelson]]"
+related: "[[Ritchie Torres]] · [[Jamaal Bowman Master Profile]] · [[Jim Risch]] · [[Bernie Moreno]] · [[Tim Walberg]] · [[Brian Mast]] · [[John Hickenlooper]] · [[Jack Reed]] · [[Gregory Meeks]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Republican Jewish Coalition]] · [[Miriam Adelson]] · [[United Democracy Project - UDP]]"
 total-political-spend: "$1,857,124"
 court-cases: 141
 court-jurisdictions:

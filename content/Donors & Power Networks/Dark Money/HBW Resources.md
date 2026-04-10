@@ -2,7 +2,7 @@
 title: "HBW Resources"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -20,7 +20,7 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
-related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]] · [[Valero Energy]]"
 sec-filings: 19
 sec-form-types:
   - "10-K"

@@ -2,7 +2,7 @@
 title: "Sinclair Broadcast Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -27,7 +27,7 @@ lei: "529900879GWQV880PQ28"
 lei-jurisdiction: "US"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[The Telecom and Media Monopoly Oversight]] · [[News Corp - Fox Corporation]] · [[iHeartMedia]] · [[Comcast - NBCUniversal]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[News Corp - Fox Corporation]] · [[iHeartMedia]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]]"
 ein: "911500276"
 nonprofit-status: "501(c)(3)"
 total-revenue: 210851

@@ -2,7 +2,7 @@
 title: "Apollo Global Management"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -53,7 +53,7 @@ sec-form-types:
   - "S-8"
   - "S-8 POS"
   - "SCHEDULE 13G/A"
-related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]] · [[Patrick McHenry Master Profile]] · [[Subject Matter (now Avoq)]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Blackstone Group]] · [[Private Equity Industry Bloc]] · [[_Virginia Foxx Master Profile|Virginia Foxx]] · [[Goldman Sachs]]"
+related: "[[Mike Lee]] · [[The Education Committee and For-Profit College Pipeline]] · [[Patrick McHenry Master Profile]] · [[Subject Matter (now Avoq)]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Brownstein Hyatt Farber Schreck]] · [[Blackstone Group]] · [[Private Equity Industry Bloc]] · [[_Virginia Foxx Master Profile|Virginia Foxx]] · [[Goldman Sachs]] · [[The Carried Interest Loophole - 30 Years of Survival]]"
 federal-register-mentions: 7
 regulatory-agencies:
   - "Energy Department"

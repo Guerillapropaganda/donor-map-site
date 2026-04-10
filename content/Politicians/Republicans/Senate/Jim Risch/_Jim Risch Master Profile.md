@@ -17,7 +17,7 @@ issues:
 top-donors:
   - "AIPAC"
 related: "[[Idaho 2026 Senate Race]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
-donors: "[[NORPAC]]"
+donors: "[[NORPAC]] · [[Heritage Foundation]]"
 ---
 #jim-risch #republican #idaho #senate #committee-chair #foreign-relations #nuclear #defense #arms-sales #general-atomics #micron #china #israel #phase-6-gavel-power
 

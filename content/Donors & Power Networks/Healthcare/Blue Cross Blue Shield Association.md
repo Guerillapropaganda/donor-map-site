@@ -2,7 +2,7 @@
 title: "Blue Cross Blue Shield Association"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -41,7 +41,7 @@ ein: 135656874
 annual-revenue: "$819.1M"
 net-assets: "$1.1B"
 tax-year: "2023"
-related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
+related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]]"
 court-cases: 825
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"

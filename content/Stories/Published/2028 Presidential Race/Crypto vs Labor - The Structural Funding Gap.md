@@ -2,13 +2,13 @@
 title: "Crypto vs Labor - The Structural Funding Gap"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 issues:
   - "Technology"
   - "Labor & Workers"
-related: "[[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[New York House Races 2026]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[AIPAC Illinois Shell PAC Operation]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Fairshake PAC]] · [[Think Big AI PAC]]"
+related: "[[Georgia 2026 Senate Race]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[New York House Races 2026]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[AIPAC Illinois Shell PAC Operation]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Intra-Republican Contradiction Map]]"
 ---
 #2028-election #crypto #labor #fairshake #funding-gap #class-analysis
 

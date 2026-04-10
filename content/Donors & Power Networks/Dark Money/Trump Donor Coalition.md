@@ -2,7 +2,7 @@
 title: "Trump Donor Coalition"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]] · [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]]"
+related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]] · [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Haim Saban]]"
 lobbying-spend: 40000
 lobbying-filings: 4
 ein: "363550786"

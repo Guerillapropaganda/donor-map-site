@@ -2,7 +2,7 @@
 title: "United Farm Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -30,7 +30,7 @@ regulatory-agencies:
   - "Executive Office for Immigration Review"
   - "Executive Office of the President"
   - "Federal Register, Administrative Committee"
-related: "[[Labor - Donors and Backers]] · [[AFL-CIO]] · [[SEIU - Service Employees International Union]] · [[Tyson Foods]] · [[Cargill]]"
+related: "[[Labor - Donors and Backers]] · [[AFL-CIO]] · [[SEIU - Service Employees International Union]] · [[Tyson Foods]] · [[Cargill]] · [[Agricultural Labor Vulnerability Donors]]"
 sec-filings: 40
 sec-form-types:
   - "10-K"

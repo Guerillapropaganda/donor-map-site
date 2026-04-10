@@ -2,10 +2,10 @@
 title: "Private Equity Buys Regulatory Immunity Across the Aisle"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Richard Neal Master Profile|Richard Neal]] · [[_Mike Crapo Master Profile|Mike Crapo]] · [[_Ron Wyden Master Profile|Ron Wyden]] · [[_Mark Warner Master Profile|Mark Warner]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Jason Smith Master Profile|Jason Smith]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]] · [[_Jon Ossoff Master Profile|Jon Ossoff]] · [[_Raphael Warnock Master Profile|Raphael Warnock]] · [[_Susan Collins Master Profile|Susan Collins]]"
+related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Richard Neal Master Profile|Richard Neal]] · [[_Mike Crapo Master Profile|Mike Crapo]] · [[_Ron Wyden Master Profile|Ron Wyden]] · [[_Mark Warner Master Profile|Mark Warner]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Jason Smith Master Profile|Jason Smith]] · [[_Josh Gottheimer Master Profile|Josh Gottheimer]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]] · [[_Jon Ossoff Master Profile|Jon Ossoff]] · [[_Raphael Warnock Master Profile|Raphael Warnock]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 ---
 #investigation #contradiction #private-equity #carried-interest #blackstone #apollo #carlyle #kkr #bipartisan-consensus #class-analysis #revolving-door #tax-policy
 tags: #analysis #story

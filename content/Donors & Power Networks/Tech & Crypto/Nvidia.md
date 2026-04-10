@@ -2,7 +2,7 @@
 title: "Nvidia"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -12,7 +12,7 @@ issues:
   - "Defense & Military"
 lei: "549300S4KLFTLO7GSQ80"
 lei-jurisdiction: "US-DE"
-related: "[[OpenAI]] · [[Microsoft]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apple]]"
+related: "[[OpenAI]] · [[Microsoft]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apple]] · [[Anthropic]]"
 cpsc-recalls: 2
 last-enriched: "2026-04-09"
 ---

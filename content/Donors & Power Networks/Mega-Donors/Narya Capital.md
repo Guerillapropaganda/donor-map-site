@@ -2,7 +2,7 @@
 title: "Narya Capital"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -41,7 +41,7 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
 last-enriched: "2026-04-07"
-related: "[[Mithril Capital]] · [[Ajay Royan]] · [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]]"
+related: "[[Mithril Capital]] · [[Ajay Royan]] · [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]]"
 ---
 #narya-capital #jd-vance #venture-capital #thiel #tech #ohio #appalachia #defense #carried-interest #conflict-of-interest
 

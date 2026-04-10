@@ -2,10 +2,10 @@
 title: "Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Trade and Tariffs - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[Agriculture - Donors and Backers]]"
 last-enriched: "2026-04-08"
 ---
 #donald-trump #agriculture #farm-bill #snap #tariff-bailout #ethanol #meatpacking #rfk-jr #fda #subsidies #class-analysis #follow-the-money

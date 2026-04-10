@@ -1,7 +1,7 @@
 ---
 title: "Auto-Enrichment Log"
 type: reference
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: null
 ---
 
@@ -198,6 +198,15 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-10 16:18 UTC — 1 profile
+
+**GovTrack — 1 profile:**
+- Cori Bush — 38 sponsored, 756 cosponsored ⚠️ CONFLICT
+
+**Conflicts detected: 1** (see `pending-merge` blocks in the listed profiles)
+
+---
 ## 2026-04-09 06:27 UTC — 1 profile
 
 **Congress.gov — 1 profile:**

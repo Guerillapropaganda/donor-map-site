@@ -2,10 +2,10 @@
 title: "Think Big AI PAC and AI Policy Alignment"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-27
+last-updated: 2026-04-10
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
-related: "[[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean's Corporate Background]] · [[Peter Thiel]] · [[Mark Zuckerberg]]"
+related: "[[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean's Corporate Background]] · [[Peter Thiel]] · [[Mark Zuckerberg]] · [[Elect Chicago Women Shell PAC Operation]]"
 ---
 #democrat #politician #house #illinois #ai-pac #think-big #leading-the-future #openai #a16z #deregulation #tech-donor
 

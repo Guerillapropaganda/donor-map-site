@@ -2,7 +2,7 @@
 title: "Real Estate Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -40,7 +40,7 @@ lei: "254900I73YTKE7MJ8E15"
 lei-jurisdiction: "US-NY"
 ein: "991696593"
 nonprofit-status: "501(c)(6)"
-related: "[[Chris Christie]] · [[Gary Peters Master Profile]] · [[Brian Schatz Master Profile]] · [[Hakeem Jeffries Master Profile]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Real Estate Industry Bloc]] · [[Blackstone Real Estate Political Operation|Blackstone Real Estate]] · [[_Jared Kushner Master Profile|Kushner]]"
+related: "[[Chris Christie]] · [[Gary Peters Master Profile]] · [[Brian Schatz Master Profile]] · [[Hakeem Jeffries Master Profile]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Real Estate Industry Bloc]] · [[Blackstone Real Estate Political Operation|Blackstone Real Estate]] · [[_Jared Kushner Master Profile|Kushner]] · [[Kevin McCarthy Master Profile]]"
 sec-filings: 10000
 sec-form-types:
   - "4"

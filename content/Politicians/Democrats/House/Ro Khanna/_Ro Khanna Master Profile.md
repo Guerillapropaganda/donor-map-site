@@ -2,7 +2,7 @@
 title: "Ro Khanna Master Profile"
 type: politician
 content-readiness: ready
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -61,7 +61,7 @@ editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC candidate page, Congress.gov with verified bioguide K000389, GovTrack, khanna.house.gov official press release on NDAA vote), 7 Tier 2 journalism sources documenting the 2026 wealth tax backlash, exceptional class analysis (tolerated/managed/intolerable dissent hierarchy), detailed donation-to-policy timeline with specific amounts, Influence Network Cross-Reference auto-block showing Apple/Microsoft donate→lobby→committee chains. The 2026 Silicon Valley backlash section is the vault's clearest contemporary case study of donor-class enforcement: wealth tax endorsement triggered coordinated primary challenge (Ethan Agarwal, Garry Tan, Chamath Palihapitiya) within weeks. FIXED: removed stale DOJ from source-types (all vault DOJ blocks stripped this session — bogus API index-size bug). FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: known-gaps (was wrongly listing 'No mapped relationships'). Added bioguide-id, fec-committee-id, structured opposes/donors. No A000383 contamination. No (URL NEEDED) tags. Ready for editor review."
-related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[Alphabet - Google|Google]] · [[Apple]] · [[Marc Andreessen & Horowitz]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]] · [[Wilson Sonsini Goodrich & Rosati]] · [[Accel Partners]] · [[Ethan Agarwal]] · [[Garry Tan]] · [[Chamath Palihapitiya]]"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[Alphabet - Google|Google]] · [[Apple]] · [[Marc Andreessen & Horowitz]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]] · [[Wilson Sonsini Goodrich & Rosati]] · [[Accel Partners]] · [[Ethan Agarwal]] · [[Garry Tan]] · [[Chamath Palihapitiya]] · [[Microsoft]]"
 ---
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028
 

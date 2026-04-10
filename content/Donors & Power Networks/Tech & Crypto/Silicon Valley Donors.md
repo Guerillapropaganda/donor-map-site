@@ -2,7 +2,7 @@
 title: "Silicon Valley Donors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -14,7 +14,7 @@ issues:
   - "Technology"
 lobbying-spend: 1258000
 lobbying-filings: 51
-related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]] · [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]]"
+related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]] · [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Tech and Media Donors]]"
 ein: "330152369"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"

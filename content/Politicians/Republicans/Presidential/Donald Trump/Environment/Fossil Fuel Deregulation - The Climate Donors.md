@@ -2,10 +2,10 @@
 title: "Fossil Fuel Deregulation - The Climate Donors"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
-related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[IBEW - International Brotherhood of Electrical Workers]]"
+related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]]"
 ---
 #trump #fossil-fuel #deregulation #climate #class-analysis #follow-the-money #EPA #drilling #emissions #energy-emergency
 

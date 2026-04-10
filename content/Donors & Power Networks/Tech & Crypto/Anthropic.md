@@ -2,7 +2,7 @@
 title: "Anthropic"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -34,7 +34,7 @@ sec-form-types:
   - "NPORT-EX"
   - "NPORT-P"
   - "PX14A6G"
-related: "[[OpenAI]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[Nvidia]]"
+related: "[[OpenAI]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[Nvidia]] · [[AI Safety and Regulatory Capture]]"
 ein: "920526891"
 nonprofit-status: "501(c)(3)"
 top-federal-agency: "Department of State"

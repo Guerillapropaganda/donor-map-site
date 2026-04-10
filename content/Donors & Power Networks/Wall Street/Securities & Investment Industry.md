@@ -2,7 +2,7 @@
 title: "Securities & Investment Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -26,7 +26,7 @@ sec-form-types:
   - "PRE 14C"
   - "PRER14A"
   - "S-4"
-related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Kenneth Griffin]]"
+related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Kenneth Griffin]] · [[Wall Street Finance PACs]]"
 ---
 #securities #investment #wall-street #hedge-fund #private-equity #carried-interest #bipartisan
 

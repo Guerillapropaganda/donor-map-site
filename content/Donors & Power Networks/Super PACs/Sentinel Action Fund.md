@@ -2,7 +2,7 @@
 title: "Sentinel Action Fund"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
 total-revenue: 2903054
 total-assets: 15309069
-related: "[[Marble Freedom Trust]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[Barre Seid]] · [[The 85 Fund]]"
+related: "[[Marble Freedom Trust]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[Barre Seid]] · [[The 85 Fund]] · [[Great Lakes Conservatives Fund]]"
 ---
 #sentinel-action-fund #super-pac #heritage-foundation #republican #mega-donor #judicial #2022-midterms
 

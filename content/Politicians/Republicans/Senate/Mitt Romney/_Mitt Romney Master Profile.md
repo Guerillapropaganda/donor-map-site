@@ -12,7 +12,7 @@ fec-candidate-id: "S8UT00176"
 govtrack-id: 412841
 bills-sponsored: 0
 bills-cosponsored: 0
-donors: "[[Elliott Management]] · [[Rebekah Mercer]]"
+donors: "[[Elliott Management]] · [[Rebekah Mercer]] · [[Christopher Ruddy]]"
 related: "[[Paul Ryan]]"
 ---
 

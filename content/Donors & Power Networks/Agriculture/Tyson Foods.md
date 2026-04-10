@@ -2,7 +2,7 @@
 title: "Tyson Foods"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Federal Maritime Commission"
   - "Food and Nutrition Service"
   - "Health and Human Services Department"
-related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]]"
+related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]]"
 court-cases: 14521
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"

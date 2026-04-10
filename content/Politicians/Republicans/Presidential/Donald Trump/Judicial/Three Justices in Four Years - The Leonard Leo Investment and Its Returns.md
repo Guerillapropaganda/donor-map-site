@@ -2,10 +2,10 @@
 title: "Three Justices in Four Years - The Leonard Leo Investment and Its Returns"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Neil Gorsuch Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]] · [[Judicial Crisis Network]]"
+related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Neil Gorsuch Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]] · [[Judicial Crisis Network]] · [[The NRA Investment and the Second Amendment Theater]]"
 ---
 #donald-trump #judicial #leonard-leo #federalist-society #scotus #gorsuch #kavanaugh #barrett #mcconnell #garland #dark-money #chevron #dobbs #class-analysis #follow-the-money
 

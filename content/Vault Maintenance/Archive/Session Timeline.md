@@ -2,10 +2,10 @@
 title: "Session Timeline"
 type: reference
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]]"
+related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]]"
 ---
 
 #session-log #vault-maintenance #handoff

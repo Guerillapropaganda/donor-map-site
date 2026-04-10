@@ -2,7 +2,7 @@
 title: "Carlyle Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -38,7 +38,7 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 top-federal-agency: "Department of Defense"
 top-naics-code: "336611"
-related: "[[American Enterprise Institute]] · [[Council on Foreign Relations]] · [[Blackstone Real Estate Political Operation]] · [[_Glenn Youngkin Master Profile|Glenn Youngkin]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Defense Industry Bloc]] · [[Private Equity Industry Bloc]] · [[Lockheed Martin]] · [[ManTech International]] · [[Koch Network - Charles Koch|Koch Network]]"
+related: "[[American Enterprise Institute]] · [[Council on Foreign Relations]] · [[Blackstone Real Estate Political Operation]] · [[_Glenn Youngkin Master Profile|Glenn Youngkin]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Defense Industry Bloc]] · [[Private Equity Industry Bloc]] · [[Lockheed Martin]] · [[ManTech International]] · [[Koch Network - Charles Koch|Koch Network]] · [[Securities & Investment Industry]]"
 lei: "529900NGGVF94UK6PG95"
 lei-jurisdiction: "US-DE"
 court-cases: 847

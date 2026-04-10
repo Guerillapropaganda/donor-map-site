@@ -2,14 +2,14 @@
 title: "IBEW Local 477 - San Bernardino"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Labor Unions"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Chad Bianco"
-related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]]"
+related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW California State Association]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[_Chad Bianco Master Profile]] · [[Riverside Sheriffs Association]] · [[Teamsters - International Brotherhood of Teamsters]]"
 ein: "812607816"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
