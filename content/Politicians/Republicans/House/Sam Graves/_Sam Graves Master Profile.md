@@ -37,7 +37,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Sam Graves has represented Missouri's 6th Congressional District since 2001 — now in his 13th term — and chairs the House Transportation and Infrastructure Committee. The T&I Committee has jurisdiction over every mode of American transportation: aviation (FAA), highways and bridges (Federal Highway Administration), transit and rail (FRA, Amtrak), pipelines (PHMSA), maritime transport, and the Army Corps of Engineers. It is the largest committee in Congress and oversees trillions in infrastructure spending.
 
@@ -47,7 +47,7 @@ His net worth is modest by congressional standards — approximately $473,000 (2
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Sam Graves chairs the largest committee in Congress — and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, with top-three rankings in sea transport and construction services. This is the jurisdiction premium in its purest form: the committee chair IS the industry's investment, and every transportation sector pays tribute.
 
@@ -55,14 +55,14 @@ The T&I Committee controls the authorization of the surface transportation bill 
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Graves brands himself as a Missouri farmer and small-government conservative. He chairs the committee that authorizes the largest infrastructure spending in American history — $1.2 trillion in the Bipartisan Infrastructure Law alone. He is the top recipient of airline, trucking, and railroad money in Congress while overseeing FAA, FHWA, and FRA regulation of those same industries. The "small government" conservative oversees the largest government spending committee in the House and is funded by the companies that receive those government contracts. Infrastructure spending is always good for Missouri. It's only "big government" when it's someone else's district.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Top recipient in Congress from: Air transport (#1), Airlines (#1), Railroads (#1), Trucking (#1)
@@ -92,7 +92,7 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors �
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Transportation Industry → T&I Authorization
 | Date | Type | Event | Donor | Amount | Gap |
@@ -121,7 +121,7 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors �
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** The jurisdiction premium pattern is so complete that the distinction between "donor influence" and "committee function" collapses. When every transportation company funds the T&I chair, and the T&I chair authorizes every transportation program, the system isn't being corrupted — it IS the system. The donors aren't overriding public interest. They've defined their interest AS the public interest through infrastructure framing.
 
@@ -131,7 +131,7 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors �
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Infrastructure isn't partisan"** — The bipartisan framing that protects transportation spending from fiscal scrutiny. The function: ensure T&I authorizations pass with large bipartisan majorities, insulating the spending from the budget fights that affect other committees.
 
@@ -141,7 +141,7 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors �
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Sam Graves donor profile](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)
 - [FEC Candidate: Sam Graves industry donors](https://www.fec.gov/data/candidate/H0MO06073/) (Tier 1)

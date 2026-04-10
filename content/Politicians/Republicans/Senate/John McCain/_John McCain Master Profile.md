@@ -33,20 +33,20 @@ doj-components:
 
 **related:** [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon Technologies]] · [[Northrop Grumman]] · [[AT&T - American Telephone & Telegraph|AT&T]] · [[Hensley & Co]]
 
-### Who They Are
+## Who They Are
 
 John McCain (1936–2018) served as U.S. Senator from Arizona (1987–2018) and was the 2008 Republican presidential nominee. A Navy pilot and Vietnam War POW (shot down 1967, held captive 5.5 years), McCain built his political brand on military service, "maverick" independence, and campaign finance reform. His Keating Five scandal (1989) involved improper influence from savings & loan tycoon Charles Keating; McCain was cleared but damaged.
 
-### The Central Thesis
+## The Central Thesis
 
 McCain positioned himself as a reformer fighting corruption and excess campaign spending, while simultaneously serving as one of the Senate's most reliable advocates for defense spending increases and weapons contractor interests. His "maverick" brand obscured deep structural alignment with the military-industrial complex he claimed to scrutinize. The contradiction between reform rhetoric and defense-contractor dependence defines his political economy.
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > McCain campaigned as a campaign finance reformer (McCain-Feingold, 2002) while receiving career totals of $4.7M+ from defense contractors—among the highest in Senate history. His 2008 presidential campaign promised ethics reforms while running a bundler-based system identical to what he publicly opposed. The Keating Five scandal (1989) involved implicit quid pro quo pressure; McCain was technically cleared but the pattern of donor access persisted throughout his career.
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Sector | Career Total | Key Years |
 |---|---|---|
@@ -68,7 +68,7 @@ McCain positioned himself as a reformer fighting corruption and excess campaign 
 > **Telecom Deregulation → AT&T/Telecom PACs**
 > McCain supported telecom deregulation (consistent with his "market champion" brand) while receiving sustained funding from AT&T and related carriers. The Keating Five scandal involved S&L deregulation pressure; defense contractor pressure followed a similar implicit quid pro quo structure.
 
-### Class Analysis
+## Class Analysis
 
 McCain represents the **"reform-branded defense contractor proxy"** pattern. His Keating Five involvement and subsequent spending on defense contractor bundlers reveal a consistent structural alignment: the reformer posture allows bipartisan credibility while the defense dependency locks him into the military-industrial establishment. His 2008 presidential bid relied on Pioneer/Ranger bundlers ($100K/$200K thresholds) identical to the systems he had publicly opposed.
 
@@ -76,7 +76,7 @@ The "maverick" brand worked precisely because it allowed McCain to advocate for 
 
 His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017) showed consistent defense-contractor alignment even when it meant breaking with a Republican president—revealing that McCain's loyalty was to his donor base, not party or Trump's authority.
 
-### Sources
+## Sources
 
 - [FEC Candidate: John McCain donor profile](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1)
 - [FEC campaign finance records: McCain presidential 2008](https://www.fec.gov) (Tier 1)
@@ -124,7 +124,7 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2AZ01024/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

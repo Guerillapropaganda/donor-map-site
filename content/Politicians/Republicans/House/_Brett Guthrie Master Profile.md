@@ -33,21 +33,21 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] P
 
 ---
 
-### Who They Are
+## Who They Are
 
 Rep [[_Brett Guthrie Master Profile|Brett Guthrie]] represents Kentucky's 2nd Congressional District and currently chairs the House Energy & Commerce Committee (2025). A 12-term congressman from a reliably Republican district (R+19), he has built his career as the pharmaceutical industry's most dependable vote in Congress. His district includes parts of Louisville, Bowling Green, and rural Kentucky.
 
-### The Central Thesis
+## The Central Thesis
 
 > [!money]
 > Pharma's favorite committee chair. Guthrie has received more pharmaceutical industry money than virtually any other Congress member in the past two decades — $1.8M+ lifetime, with $507K arriving in 2024 alone — and was subsequently elevated to chair the committee that directly controls drug pricing policy. The money-to-power pipeline is transparent: as [[PhRMA|PhRMA]]'s most reliable legislative asset, he gets the gavel. The committee decides Medicare drug price negotiation scope, orphan drug exemptions, pharmacy benefit manager regulation, and federal drug approval processes. Every dollar to Guthrie converts directly to committee power over what drugs Americans can afford.
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Guthrie presents himself as a Kentucky small-town conservative and free-market ideologue while functioning as Big Pharma's legislative instrument. In campaign messaging, he champions "market solutions" and federal spending restraint. Yet as Energy & Commerce chair, he blocks every structural reform that would let Medicare negotiate drug prices directly — a policy that would directly threaten his major donors' profit margins. When constituents in Kentucky cannot afford insulin or cancer medications, Guthrie's donors get the legislative protection to maintain 300-400% markup ratios. The contradiction resolves in his donor class alignment: he serves capital efficiency for pharmaceutical manufacturers, not constituent health outcomes.
 
-### Donor Class Map
+## Donor Class Map
 
 ### Pharmaceutical PACs (Top Donors):
 - [[PhRMA|PhRMA]]: $507K (2024 alone) — the industry trade association
@@ -59,7 +59,7 @@ Rep [[_Brett Guthrie Master Profile|Brett Guthrie]] represents Kentucky's 2nd Co
 ### Health Insurance PACs (Connected Block):
 - UnitedHealth PAC, [[Anthem - Elevance Health|Anthem]] PAC, Cigna PAC: $120K+ combined (negotiate PBM reform that protects insurers, not patients)
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Contribution/Event | Amount | Policy Action | Time Gap |
 |------|--------|--------|-------|----------|
@@ -94,7 +94,7 @@ The IRA (2022) allowed Medicare to negotiate prices for 10 drugs in year one. Gu
 ### PBM "Reform" That Protects Insurers, Not Patients:
 Guthrie supports PBM transparency requirements and fee disclosure — which mollifies critics without reducing what patients actually pay. He opposes vertical integration caps that would prevent insurers from owning PBMs (the real driver of exploitation). Health insurance PACs fund this distinction carefully.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Guthrie's drug pricing opposition is a real legislative victory for his pharma donors, but stops short of threatening the patent system or pharmaceutical company profit margins structurally. His orphan drug exemption protection preserves high-margin specialty drugs without challenging the pricing model itself.
 
@@ -106,7 +106,7 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Free Market Argument:** Guthrie frames pharmaceutical price caps as "government price controls" that would stifle innovation and hurt patients in the long run. The pharmaceutical industry's economic research (funded by pharma) supports this; public health research contradicts it. But Guthrie consistently cites industry-funded analyses and ignores independent research. This is donor class ideology masquerading as economic principle.
 
@@ -124,7 +124,7 @@ Guthrie supports PBM transparency requirements and fee disclosure — which moll
 - No major scandals or ethical violations on record (clean voting career narrative aids donor access)
 - Energy & Commerce Committee chair (2025-present) — the second-most powerful committee in House after Ways & Means
 
-### Sources
+## Sources
 
 - [FEC Candidate: Rep Brett Guthrie Donor Profile](https://www.fec.gov/data/candidate/H8KY02031/) (Tier 1)
 - [PhRMA 2024 Campaign Finance Data](https://www.opensecrets.org/orgs/pharmaceuticals-health-products/summary?id=D000000149) (Tier 1)

@@ -38,7 +38,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Jerry Moran is the senior senator from Kansas and chairs the Senate Veterans' Affairs Committee. He also serves on the Appropriations Committee, the Commerce Committee (where he chairs the Aviation, Space, and Innovation Subcommittee), Agriculture, Indian Affairs, and the Select Committee on Intelligence. He has served in the Senate since 2011, after 14 years representing Kansas's 1st Congressional District ("the Big First" — western Kansas) in the House (1997-2011).
 
@@ -48,7 +48,7 @@ Kansas is the "Air Capital of the World" — Wichita is home to Spirit AeroSyste
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries — headquartered in his state — is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to privatize VA healthcare. Moran has been the Senate's leading champion of "community care" — routing veterans from the VA system to private healthcare providers. The Koch network's policy goal (dismantle government healthcare) flows through their funded advocacy group (CVA), through their funded senator (Moran), through his committee chairmanship (Veterans' Affairs), into law (the MISSION Act and its successors).
 
@@ -56,14 +56,14 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Moran positions himself as the Senate's foremost champion of veterans' healthcare access. He holds hearings demanding the VA stop restricting community care, highlights individual veterans denied care, and frames himself as fighting a bureaucracy that blocks veterans from getting treatment. But the "community care" he champions IS the Koch network's privatization agenda — routing veterans out of the government-run VA system and into private healthcare providers. The senator who says he's fighting for veterans' access to care is implementing the Koch brothers' plan to dismantle the VA as a functioning public healthcare system. When Moran highlights a veteran denied community care, he's not just advocating for that veteran — he's building the case for his largest donor's ideological project: proving government healthcare doesn't work.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Koch Industries: #2 career donor (Kansas home state)
@@ -96,7 +96,7 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Koch Network → VA Privatization
 | Date | Type | Event | Donor | Amount | Gap |
@@ -120,7 +120,7 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (Koch → Veterans):** Kansas veterans need functioning VA healthcare. The Koch network wants to dismantle it. Moran implements the Koch agenda while framing it as veterans' advocacy. The "community care" expansion sounds pro-veteran — and it is, for veterans who can navigate private healthcare networks. But the structural effect is to defund and delegitimize the VA as a public healthcare system, which is the Koch network's ideological goal. The donor class (Koch) overrides the constituency need (reliable public healthcare for veterans) by rebranding privatization as "choice."
 
@@ -132,7 +132,7 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Veterans deserve choice"** — The freedom framing for privatization. "Choice" means routing veterans to private providers. The function: make VA privatization sound like patient empowerment rather than Koch Industries' ideological agenda.
 
@@ -142,7 +142,7 @@ The aviation side completes the Kansas picture: Moran chairs the Commerce Subcom
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jerry Moran donor profile](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1)
 - [FEC Candidate: Jerry Moran industry donors](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1)
@@ -212,7 +212,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6KS01096/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

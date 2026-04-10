@@ -32,26 +32,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominated by George W. Bush, confirmed 78-22. Born January 27, 1955, Buffalo, New York. Harvard College (three years, summa cum laude), Harvard Law School (managing editor, Law Review). Clerked for Justice William Rehnquist. Twelve years at Hogan & Hartson earning $700K+ annually. Estimated net worth: $17–27 million. Wife Jane Roberts runs a legal recruiting firm generating millions in annual income. [[Leonard Leo|Leonard Leo]] led the $15 million dark money campaign securing Roberts's nomination. Author of Shelby County v. Holder (gutting the Voting Rights Act), Loper Bright v. Raimondo (overturning [[Chevron|Chevron]] deference). Member of the 5-4 majority in Citizens United v. FEC (unlimited corporate political spending). Joined Dobbs majority but wrote separately — wanted to uphold Mississippi's ban without overturning Roe, preserving the Court's institutional credibility for future rulings. The Chief Justice who manages the Court's legitimacy so it can keep delivering for the donor class.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > John Roberts is the donor class's long-game strategist on the Supreme Court. While Thomas and Alito deliver reliable conservative votes and accumulate ethics scandals, Roberts manages the Court's institutional legitimacy — strategically joining liberal majorities (ACA individual mandate, census citizenship question, June Medical abortion restrictions) when a conservative loss would provoke a legitimacy crisis that threatens the Court's power to keep ruling. The strategy works because it makes the devastating wins look principled: Citizens United (unlimited dark money in politics — $4.3 billion since 2010), Shelby County (gutting the Voting Rights Act — 29 states passed 94 voter restriction laws in the following decade), and Loper Bright (overturning [[Chevron|Chevron]] deference — shifting power from regulatory agencies to corporate-friendly courts). His "institutionalist" brand IS the strategy: maintain enough public trust to keep delivering 5-4 and 6-3 rulings that dismantle the regulatory state, deregulate campaign finance, and suppress the vote. The occasional liberal defection is not a break from the project — it's what makes the project sustainable.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > John Roberts authored Shelby County v. Holder, which gutted the Voting Rights Act by declaring its coverage formula based on "40-year-old data" — then authored Loper Bright v. Raimondo citing Marbury v. Madison (1803) as authority. He joined Citizens United on the premise that unlimited corporate spending would be transparent — then watched $4.3 billion in dark money flow through undisclosed channels without lifting a finger. He saved the Affordable Care Act (2012) and blocked the census citizenship question (2019), earning "institutionalist" praise — then joined the Dobbs majority overturning 50 years of abortion precedent. He wrote separately in Dobbs calling the full reversal of Roe a "serious jolt to the legal system" — but still voted to uphold the Mississippi ban that made the jolt possible. The pattern: defect on the cases that would damage the Court's credibility, deliver on the cases that transfer power to the donor class.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Citizens United Dark Money Architecture:
 - [[Citizens United and the Architecture of Unlimited Political Money]] — Roberts joined 5-4 majority (2010). Enabled unlimited corporate and union independent expenditures. Dark money spending: $139M (2010 midterms) → $313M (2012) → $1.9 billion (2024 — record). Total since ruling: $4.3 billion+ in dark money federal election spending. The donor class's single most valuable Supreme Court ruling — it legalized the purchase of American democracy.
@@ -64,7 +64,7 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Roberts is the long-game strategist — the $15M Leo investment in 2005 has returned incalculable value through 19 years of structural rulings. The defections are not breaks from the project; they are what makes the project sustainable.*
 
@@ -105,7 +105,7 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Legitimacy Manager:** Roberts's strategic defections are not evidence of moderation — they are the mechanism that enables the Court's most consequential conservative rulings. By occasionally siding with liberals on high-profile cases (ACA, census, abortion restrictions), Roberts maintains enough institutional credibility that the public and political establishment accept the 5-4 and 6-3 rulings that reshape American governance. The institutionalist brand is not separate from the conservative project — it is what makes the conservative project sustainable.
 
@@ -115,7 +115,7 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The institutionalist:** Roberts frames himself as guardian of the Court's legitimacy — "the Court's role is to decide legal questions, not to take sides in political disputes." The framing positions his devastating conservative rulings as neutral legal interpretation while his occasional liberal defections demonstrate principled independence. The audience for this performance is the public and the legal establishment, not the donor class — they already know what they're getting.
 2. **The incrementalist:** Roberts prefers narrow rulings that move the law gradually rather than dramatic reversals — except when he doesn't (Citizens United, Shelby County, Loper Bright). The incrementalist brand provides cover for the moments when he authors sweeping transformations of American law.
@@ -124,7 +124,7 @@ John G. Roberts Jr. Chief Justice of the United States (2005–present). Nominat
 
 ---
 
-### Sources
+## Sources
 
 - [Brennan Center: Citizens United, Explained](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained) (Tier 2)
 - [OpenSecrets: More Money, Less Transparency — A Decade Under Citizens United](https://www.opensecrets.org/news/reports/a-decade-under-citizens-united) (Tier 2)

@@ -28,7 +28,7 @@ donors: [[PORAC - Peace Officers Research Association of California]], [[CCPOA -
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Chad Bianco. Born October 8, 1967. Republican. Sheriff-Coroner of [[IBEW Local 440 - Riverside|Riverside]] County since January 2019. 30-year veteran of the Riverside County Sheriff's Department before winning office. Ran in 2014 and lost; ran again in 2018, defeated incumbent Stan Sniff with massive police union backing. Re-elected 2022 with roughly 60% of the vote. Announced candidacy for California Governor in February 2025.
 
@@ -36,7 +36,7 @@ Bianco is not donor-class in the Newsom sense. He is police-class — built, fun
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Bianco represents a different species than the donor-class Democrat. He is the authoritarian-right sheriff: a constitutional sheriff movement adherent who believes the county sheriff's authority supersedes federal and state government, a former Oath Keepers member, and a Fox News-friendly culture war figure who built a national brand by refusing to enforce COVID mandates. His class function is not to manage contradictions between a progressive base and corporate donors — it is to assert law enforcement as an autonomous power center, accountable to neither the state government above nor the communities below.
 
@@ -44,7 +44,7 @@ The class analysis here is not rhetoric-vs-record in the Newsom sense (progressi
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Bianco's brand is built on two claims that are structurally incompatible:
@@ -74,7 +74,7 @@ America First Legal ([[_Stephen Miller Master Profile|Stephen Miller]]'s organiz
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Oath Keepers and Far-Right Affiliations
 [[Oath Keepers Membership and the Constitutional Sheriff Movement]] | [[CSPOA - The Anti-Government Sheriff Network]]
@@ -93,7 +93,7 @@ America First Legal ([[_Stephen Miller Master Profile|Stephen Miller]]'s organiz
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Constitutional Shield:** Frame every act of defiance as constitutional principle rather than political choice. Refusing to enforce COVID mandates is not partisan — it's defending the Constitution. Ignoring sanctuary law is not anti-immigrant — it's defending federalism. The Constitution functions as an authority higher than any state law, conveniently interpreted by the sheriff himself.
 
@@ -105,7 +105,7 @@ America First Legal ([[_Stephen Miller Master Profile|Stephen Miller]]'s organiz
 
 ---
 
-### Connections to Existing Vault
+## Connections to Existing Vault
 
 Bianco is a direct foil to Newsom on several policy areas already documented:
 
@@ -129,7 +129,7 @@ Bianco is a direct foil to Newsom on several policy areas already documented:
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 | Date | Contribution/Event | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|----------------|-----------|
 | 2014 | Chad Bianco Oath Keepers membership (1-year dues payment) | $40 | Constitutional sheriff ideology adoption; anti-government sovereignty claims foundation; affiliated through CSPOA membership | 4 years before election |
@@ -148,7 +148,7 @@ Bianco is a direct foil to Newsom on several policy areas already documented:
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Bianco's COVID defiance did force confrontation with state authority (real victory for his constituency); however, the victory stopped short of threatening police union power itself. The RSA continued backing him. He defied state health mandates but never attacked the police union structure that fully funds him, creating a boundary where his "constitutional sheriff" authority meets the institutional interests that sustain his career.
 
@@ -158,7 +158,7 @@ Bianco is a direct foil to Newsom on several policy areas already documented:
 
 ---
 
-### Sources
+## Sources
 
 - [NPR: Oath Keepers / Bianco](https://www.npr.org/2021/10/06/1043651361/oath-keepers-california-sheriff-chad-bianco-january-6-us-capitol) (Tier 2) (VERIFIED)
 - [LAist: Oath Keepers defense, CSPOA affiliation](https://laist.com/news/criminal-justice/riverside-sheriff-chad-bianco-once-was-an-oath-keeper-defends-the-extremist-group) (Tier 2) (VERIFIED)
@@ -193,7 +193,7 @@ Bianco's investigators claim citizen volunteers reviewing public records found 6
 - [Press Enterprise: Alleged irregularities in elections probed](https://www.pressenterprise.com/2026/03/17/alleged-irregularities-in-elections-probed-by-riverside-county-sheriffs-office/) (Tier 2) (VERIFIED)
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

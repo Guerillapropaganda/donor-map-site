@@ -32,26 +32,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Josh Shapiro. Governor of Pennsylvania (2023–present). Former Pennsylvania Attorney General (2017–2023) — won 2020 AG re-election by 4 points while Biden carried the state by 1.2. Won 2022 governor's race with $68 million, outraising Doug Mastriano 16:1 ($68M vs $4.2M). The most expensive governor's race in Pennsylvania history. Top donors: [[Michael Bloomberg|Michael Bloomberg]] ($2.5M), [[George Soros|George Soros]] ($500K), Steven Spielberg ($100K), 240+ CEOs for his re-election. Coal executive Robindale Energy donated $271K. [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-aligned donor network so significant it became the central issue in his 2024 VP vetting — Hamas-linked media called him "an agent of the Israeli government," progressive groups threatened revolt. Biden chose Walz. Now the 2028 frontrunner who bridges corporate donors and progressive positioning — fracking advocate funded by CNX Resources, school choice supporter who proposed a $100M voucher program (PASS Scholarships), Catholic Church abuse prosecutor who built a national reputation. The donor base is business-Democrat: finance, energy, real estate, and trial lawyers — not progressive movement money. The question for 2028: can the most corporate-friendly Democrat in the field survive a progressive primary?
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Josh Shapiro's political rise is a case study in corporate-Democratic coalition building. His $68M gubernatorial race — the most expensive in Pennsylvania history — was funded by Bloomberg ($2.5M), Soros ($500K), 240+ corporate CEOs, coal executives ($271K from Robindale Energy), and a deep AIPAC-aligned donor network. He governs accordingly: fracking advocate who partnered with CNX Resources, corporate tax cutter who reduced Pennsylvania's rate to 4.99%, school voucher proponent who proposed $100M in PASS Scholarships. The progressive credentials (Catholic Church abuse prosecution, abortion defense, infrastructure spending) coexist with a donor base that looks more like a moderate Republican's than a progressive Democrat's. The AIPAC connection was significant enough to cost him the VP slot in 2024 — progressive groups and Arab-American organizations threatened revolt if Biden chose him. The 2028 question: a candidate this corporate-funded will face a primary electorate that increasingly views corporate money as disqualifying. Shapiro's strength (the donor base) is also his vulnerability.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Josh Shapiro built his national reputation prosecuting the Catholic Church's child abuse cover-up — 301 priests, 1,000+ victims, a grand jury report that became a model for other states. He positioned himself as the prosecutor who takes on powerful institutions. His donor base is those powerful institutions: Bloomberg, Soros, 240+ CEOs, coal executives, AIPAC-aligned networks. He proposed $100M in school vouchers (PASS Scholarships) — a policy the teachers' unions (his party's base) actively oppose. He advocates fracking — a position that serves his CNX Resources donors and Pennsylvania's energy economy but contradicts Democratic climate orthodoxy. The prosecutor who took on the powerful is funded by the powerful. The question isn't whether the contradiction is disqualifying — it's whether a primary electorate will notice.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Corporate-Democratic Donor Coalition:
 - [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] — Bloomberg $2.5M. Soros $500K. Spielberg $100K. Robindale Energy $271K. CNX Resources fracking partnership. 240+ CEOs for re-election. AIPAC-aligned network. The donor base of a business Democrat — finance, energy, real estate — not progressive movement money. Corporate tax cut to 4.99%. The money funds a governor who governs for the money.
@@ -64,7 +64,7 @@ Josh Shapiro. Governor of Pennsylvania (2023–present). Former Pennsylvania Att
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Shapiro is the vault's clearest case of a business Democrat — the $68M governor's race (most expensive in PA history) was funded by a corporate coalition that received corresponding policy returns within 12 months.*
 
@@ -103,7 +103,7 @@ Josh Shapiro. Governor of Pennsylvania (2023–present). Former Pennsylvania Att
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Shapiro's Catholic Church abuse prosecution (301 priests, 1,000+ victims) and abortion defense represent genuine policy wins that don't reduce to donor interests. His infrastructure spending benefits working-class communities. However, the structural limit is stark: Shapiro funds his campaign with Bloomberg ($2.5M) and coal executives ($271K), then acts accordingly. He explicitly protects fracking (CNX Resources partnership), cuts corporate taxes (to 4.99%), and withdraws from RGGI carbon pricing. The wins for working-class constituencies are real; the protection for his donor base is primary.
 
@@ -111,7 +111,7 @@ Josh Shapiro. Governor of Pennsylvania (2023–present). Former Pennsylvania Att
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The prosecutor-governor:** Catholic Church abuse investigation, election defense against Trump, institutional accountability framing. The function: position as someone who fights powerful interests while being funded by them.
 2. **The pragmatic energy Democrat:** "I will not ban fracking" — the clearest break from progressive orthodoxy. Serves both Pennsylvania's energy economy and the fossil fuel donors. The function: inoculate against "radical liberal" attacks while maintaining the donor base.
@@ -119,7 +119,7 @@ Josh Shapiro. Governor of Pennsylvania (2023–present). Former Pennsylvania Att
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Campaign Finance Data](https://www.opensecrets.org/members-of-congress/summary?displayname=Josh%20Shapiro) (Tier 1)
 - [Philadelphia Inquirer: Shapiro donor analysis and business fundraising](https://www.inquirer.com/politics/pennsylvania/josh-shapiro-campaign-donors-pa-reelection-20260304.html) (Tier 2)

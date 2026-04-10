@@ -28,31 +28,31 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Pam Bondi. Attorney General of the United States (2025–present). Former Florida Attorney General (2011–2019). Confirmed 54-46 (one Democrat — Fetterman — voted yes). Nominated after [[_Matt Gaetz Master Profile|Matt Gaetz]] withdrew. The defining story: in 2013, Bondi personally solicited a $25,000 donation from Trump's Foundation to her PAC while her office was reviewing whether to join New York's fraud lawsuit against Trump University. She dropped the investigation. Trump Foundation later paid a $2,500 IRS fine for the illegal political contribution. Post-AG: Ballard Partners lobbyist ($1M+/year) for 30+ clients including Amazon, [[Uber|Uber]], GM, [[GEO Group|GEO Group]] (private prisons), and Qatar ($115K/month FARA-registered foreign lobbying). Defended Trump in first impeachment trial. Now runs the DOJ — overseeing enforcement against her former lobbying clients. White House ethics agreement expires after one year. Directed millions from businesses under investigation to unregistered charities as Florida AG. Fired two attorneys investigating foreclosure fraud by LPS — a donor. The Attorney General whose career is a case study in how donor money shapes prosecutorial decisions.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Pam Bondi is the proof that the revolving door doesn't just create conflicts of interest — it is the operating model. As Florida AG, she dropped the Trump University fraud investigation after soliciting a $25,000 donation. She fired attorneys investigating LPS foreclosure fraud — a donor — and the office "never issued another subpoena to any foreclosure mill" afterward. She directed $20.2M from businesses under investigation to charities, some with connections to her office. Then she became a lobbyist for 30+ clients ($1M+/year), including a foreign government (Qatar, $115K/month). Now she runs the DOJ — the agency that prosecutes fraud, enforces lobbying law, and oversees national security. Her former client [[GEO Group|GEO Group]] profits from her immigration enforcement. Her former employer Ballard Partners lobbies the DOJ she runs. The ethics agreement expires after one year. The system works perfectly — for the people who pay.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Pam Bondi dropped the Trump University fraud investigation after receiving $25,000 from Trump's Foundation. As Florida AG, she fired the attorneys investigating LPS foreclosure fraud — then her office never subpoenaed another foreclosure mill. She then lobbied for Amazon (which faced $25M DOJ penalty), GM (DOJ discrimination settlement), [[GEO Group|GEO Group]] (profits from DOJ immigration enforcement), and Qatar ($115K/month for a foreign government). Now she runs the DOJ — indicting Trump's political opponents (Comey, Letitia James) while overseeing enforcement against her former clients. The woman who dropped a fraud investigation for a $25K donation now decides which fraud investigations the entire Department of Justice pursues. The pattern isn't corruption despite the system. It is the system.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Trump University $25K and the Pay-to-Play Model:
 - [[The Trump University 25K and the Pay-to-Play Model]] — 2013: Bondi personally solicited $25K from Trump Foundation while reviewing whether to join NY AG's Trump University fraud case. Donation received 4 days after review announcement. Investigation dropped. Trump Foundation: $2,500 IRS fine. Florida students: no restitution. LPS foreclosure: fired investigating attorneys, never subpoenaed again. $20.2M directed from investigated businesses to charities. The AG office as a fundraising instrument.
 
-### Qatar Lobbying and the Revolving Door to DOJ:
+## Qatar Lobbying and the Revolving Door to DOJ:
 - [[Qatar Lobbying and the Revolving Door to DOJ]] — Ballard Partners: $1M+/year for 30+ clients. Qatar: $115K/month FARA-registered (July 2019–2024). [[Amazon]], [[Uber|Uber]], GM, GEO Group. Impeachment defense (November 2019). One-year ethics agreement. GEO Group profits from her immigration enforcement. Ballard Partners lobbies the DOJ she runs. The ethics agreement expires; the conflicts don't.
 
 ### The DOJ as Political Weapon:
@@ -60,7 +60,7 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Bondi is the revolving door as operating model — $25K Trump Foundation donation killed a fraud investigation; $5M+ in lobbying fees funded the career transition to AG; the one-year ethics agreement is a countdown timer on the appearance of propriety.*
 
@@ -94,7 +94,7 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The law-and-order prosecutor:** Bondi's brand as Florida AG was tough prosecution — pill mills, sex trafficking, consumer protection. The brand obscures the pattern: aggressive enforcement against targets without donor protection, minimal enforcement against donors. The brand is the price of the exemptions.
 2. **The Trump defender:** Impeachment trial loyalty proved her value. The defense was audition, not conviction. Loyalty to Trump purchased the AG nomination when Gaetz failed.
@@ -103,7 +103,7 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Bondi executed selective prosecutorial actions (Comey indictment, political opponent targeting, GEO Group detention expansion) that serve Trump's interests. Yet these actions operate within executive prosecutorial authority — they don't fundamentally restructure DOJ institutional independence, they optimize it for political loyalty through personnel pressure ("zealous advocacy" directives) while maintaining the appearance of institutional process.
 
@@ -113,7 +113,7 @@ Pam Bondi. Attorney General of the United States (2025–present). Former Florid
 
 ---
 
-### Sources
+## Sources
 
 - [Senate Judiciary Committee: Bondi lobbying conflicts](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 1)
 - [CREW: Trump Foundation Pam Bondi scandal](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-trump-foundation-pam-bondi-scandal/) (Tier 2)

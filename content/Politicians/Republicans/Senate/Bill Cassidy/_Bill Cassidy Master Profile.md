@@ -36,19 +36,19 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Bill Cassidy. U.S. Senator from Louisiana (2015–present). Born September 8, 1957, in Highland Park, Illinois. Medical doctor (LSU School of Medicine, 1984). Family medicine physician and cardiologist. Served in U.S. House (2009–2015) representing Louisiana's 6th District. Voted to convict President Trump during his second impeachment (February 2021) — one of only seven Republicans to do so. Running for reelection in 2026 facing Trump-backed primary challenger Julia Letlow. The rarest Republican unicorn: a physician-politician who broke with Trump and survived (barely) in a deep-red state.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Bill Cassidy is the vault's case study in how petrochemical and fossil fuel industry dominance in Louisiana's economy functions as a structural replacement for standard donor-class influence. Cassidy represents a state where the donor class and the state geography are identical: petrochemicals are Louisiana's entire economy (15% of the state's GDP, 80% of industrial employment). His vote to convict Trump should have been political suicide in a MAGA state — but it was insulated from normal electoral consequences because Louisiana's oil and gas industry needed a senator who could work across the aisle on energy infrastructure. The bipartisan infrastructure bill (which Cassidy co-authored) funneled federal money to Louisiana's petrochemical corridor and carbon capture pipelines. His political survival is purchased by the same industry that pollutes Cancer Alley. His Trump vote was permitted because it didn't threaten industry interests — it actually served them by preserving his dealmaking capacity.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Cassidy is a physician who voted to convict Trump on constitutional grounds, condemning the January 6 attack and defending democratic norms. He was censured by the Louisiana Republican Party for this vote. He's positioned himself as a responsible institutionalist defending the Constitution.
@@ -59,7 +59,7 @@ Bill Cassidy is the vault's case study in how petrochemical and fossil fuel indu
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Petrochemical Corridor:
 - Louisiana Petrochemical Industry — The entire state's industrial base. 15% of state GDP, 80% of industrial manufacturing jobs. Cassidy's physician background gives him credibility on health claims the industry denies. His bipartisan brand (infrastructure co-author) justifies channeling $1.2 trillion federal infrastructure money through Louisiana's petrochemical and energy infrastructure. Cancer Alley environmental justice costs are externalized; the infrastructure subsidies flow to donors.
@@ -89,7 +89,7 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Cassidy's impeachment vote should have been career-ending in deep-red Louisiana. Instead, petrochemical industry support insulated him because his dealmaking capacity — bipartisan infrastructure authorship funneling billions to Louisiana's petrochemical corridor — was more valuable than Trump loyalty.*
 
@@ -118,7 +118,7 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Cassidy's bipartisan infrastructure bill ($1.2 trillion) represents a real policy victory and genuine dealmaking capacity across party lines. However, the "win" stops short of threatening donor interests: the infrastructure billions flowed to Louisiana's petrochemical corridor and carbon capture pipelines that serve fossil fuel companies, not to healthcare or environmental remediation for Cancer Alley communities. The policy victory serves donor class interests while appearing to serve public interest.
 
@@ -126,7 +126,7 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Institutionalist:** Cassidy presents himself as a constitutionalist defending democratic norms (his Trump vote, his bipartisan infrastructure work). This brand provides political cover for petrochemical industry alignment — he can claim to be "fighting for Louisiana" when he's actually fighting for petrochemical subsidies.
 
@@ -138,7 +138,7 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Bill Cassidy campaign finance summary](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded) (Tier 1)
 - [FEC: Bill Cassidy candidate profile](https://www.fec.gov/data/candidate/S4LA00107/) (Tier 1)
@@ -153,7 +153,7 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 content-readiness:: ready
  
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

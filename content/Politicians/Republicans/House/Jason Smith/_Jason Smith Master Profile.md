@@ -47,7 +47,7 @@ donors: [[Real Estate Roundtable]]
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Jason Smith. Republican, Missouri's 8th District (rural southeast Missouri). Won a 2013 special election at age 29. Chair, House Ways and Means Committee — the most powerful tax-writing body in Congress, with jurisdiction over all federal tax policy, trade and tariffs, Social Security, Medicare, and welfare programs. Youngest Ways & Means Chair in over 150 years and the first Missourian since John Phelps in 1859.
 
@@ -57,20 +57,20 @@ His district is the poorest in Missouri: median household income ~$56,000, pover
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded the moment he took the chair. PAC donations surged from $16,000 in Q1 2021 to $618,000 in Q1 2023 — a 38x increase that maps precisely to his ascension. His signature legislative achievement — making the Section 199A pass-through deduction permanent in the "One Big Beautiful Bill" (July 2025) — delivers nearly 60% of its benefits to the top 1% of earners. He frames it as relief for "26 million small businesses." The framing is the product: a rural poverty biography that makes corporate tax policy sound like populism.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Smith grew up in a trailer pumping cistern water in one of Missouri's poorest districts (15.5% poverty rate, median income ~$56K). He frames every tax vote as fighting for "waitresses, mechanics, nurses, and farmers." His flagship achievement — making Section 199A permanent — costs $730 billion over 10 years. ProPublica's analysis of secret IRS files found nearly 60% of the deduction's benefits flow to the top 1%, with the largest share going to the top 0.1%. His SALT cap increase ($10K → $40K) primarily benefits high-income property owners in expensive-housing states — not rural southeast Missouri. Carried interest was preserved (benefits hedge fund managers). 1031 exchanges were preserved (benefits real estate investors — like Smith himself, a former real estate agent). Bonus depreciation was made permanent (benefits capital-intensive corporations). The man from the trailer writes tax law for the penthouse.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **OpenSecrets CID:** N00035282
 **FEC Candidate ID:** H2MO08100
@@ -99,7 +99,7 @@ Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount/Value | Source |
 |------|-------|-------------|--------|
@@ -116,7 +116,7 @@ Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Two-Audience Problem:** One message for rural Missouri ("tax relief for waitresses, mechanics, nurses, and farmers"), another for the PACs that fund him (Section 199A permanence, carried interest preservation, 1031 exchange defense). The biography does the work: Smith's poverty backstory makes corporate tax policy sound like populism. He claimed the OBBB delivered a "21% tax cut for families earning $15,000-$30,000" while the flagship provision sends 60% of its benefits to the top 1%.
 
@@ -128,7 +128,7 @@ Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Smith's signature is the biographical pivot — every tax policy argument routes through the trailer, the cistern, the family farm. He opens with poverty, pivots to "small business," and lands on corporate tax provisions. The rhetorical trick is the word "small": Section 199A covers "26 million small businesses," but the deduction's primary beneficiaries are pass-through entities with $1M+ income. The word "small" does the populist work while the policy does the donor-class work.
 
@@ -136,7 +136,7 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jason Smith Campaign Finance Summary](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
 - [FEC: Jason Smith for Congress Committee (C00541862)](https://www.fec.gov/data/committee/C00541862/) (Tier 1)
@@ -219,7 +219,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412596) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

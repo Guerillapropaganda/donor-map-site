@@ -33,26 +33,26 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Marjorie Taylor Greene. Born May 27, 1974, Milledgeville, Georgia. Republican. U.S. Representative for Georgia's 14th congressional district (2021–present). Businesswoman prior to politics: co-owner and manager of Taylor Commercial, her father's commercial construction company (origin of her personal wealth). CrossFit gym owner. QAnon adherent before election, who partially recanted conspiracy theories after taking office under political pressure. Stripped of committee assignments in February 2021 — the first such action since 1979 — then reinstated to the Budget Committee and Homeland Security Committee in 2023 when Republicans took the majority. Closest House ally of [[_Donald Trump Master Profile|Donald Trump]]. Raised $12.5 million in the 2022 cycle, $72.7% from small-dollar donors — the highest small-dollar share of any federal lawmaker at that point. Never not in controversy.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > MTG monetizes outrage — her donor model is built on small-dollar fundraising triggered by controversy, making her the right-wing mirror of the progressive fundraising model. But unlike AOC, whose controversies emerge from substantive policy challenges to donor-class power, MTG's controversies serve the donor class by keeping the discourse on culture war rather than class war. She does not threaten the carried interest loophole. She does not threaten pharmaceutical pricing. She does not threaten fossil fuel subsidies. She threatens trans athletes, government vaccine mandates, and the "deep state." Her controversies are maximally engaging to her base and maximally unthreatening to concentrated wealth. This is not a conspiracy; it is the perfect alignment of incentives. The MAGA small-dollar base wants cultural confrontation. The donor class wants deregulation. MTG provides cultural confrontation and votes for deregulation. Both get what they want.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Greene positions herself as an anti-establishment populist fighting for "the people" against corrupt elites. Her personal wealth comes from Taylor Commercial — a construction company founded by her father, funded substantially through government contracts, and managed through family connection rather than her own enterprise. She is not self-made; she is an heir to a construction business with government contracting revenue. Her CrossFit gym ownership provided the small-business-owner credential she used to enter politics. Her donor model generates millions by convincing ordinary working people to give small amounts to a millionaire heiress's campaign. The class analysis: MTG's supporters are disproportionately working-class white Americans whose economic interests (universal healthcare, union rights, corporate accountability, pharmaceutical pricing) she actively opposes, while she fundraises on the cultural anxieties that prevent those same constituents from recognizing the material conflict between their interests and hers.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Outrage Fundraising Machine:
 - [[The Outrage Fundraising Machine - How Controversy Becomes Cash]] — $12.5M raised in 2022, 72.7% from small-dollar donors. Every controversy generates a donation spike. The email list is the core asset; the controversies are the content. Raised nearly $5M in early 2024. Committee removal (2021) was her single largest fundraising trigger.
@@ -102,7 +102,7 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: MTG inverts the normal donor model — she manufactures controversy that drives small-dollar fundraising rather than doing favors for large donors. The donors ARE the base. 72.7% from small-dollar donors.*
 
@@ -135,7 +135,7 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 > **The McCarthy kill:** MAGA megadonors opposed to McCarthy's Ukraine/bipartisan deals → MTG files motion to vacate → McCarthy ousted. The first Speaker removal in House history executed by a member whose primary asset is small-donor base loyalty.
 
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Greene's procedural obstruction (amendment bombs, motion to vacate) produces real institutional chaos that paralyzes House function, benefiting the deregulatory donor class by making new regulation impossible. But her obstruction stops short of threatening her own family's government-dependent construction business (Taylor Commercial).
 
@@ -147,7 +147,7 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The confrontation as content:** Greene is skilled at creating confrontational moments — ambushing colleagues in hallways, screaming at reporters, filing politically targeted motions — that generate media coverage, which generates donation emails, which generate cash.
 2. **The Trump mirror:** Greene's central identity is loyalty to Trump. Every Trump position she amplifies; every Trump enemy she attacks. This keeps her in Trump's favor and in the MAGA media ecosystem simultaneously.
@@ -156,7 +156,7 @@ Greene aligned with the Department of Government Efficiency (DOGE) framework and
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Marjorie Taylor Greene campaign finance summary](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
 - [OpenSecrets: MTG heads for the exit after controversy-fueled fundraising trail](https://www.opensecrets.org/news/2025/12/marjorie-taylor-greene-heads-for-the-exit-having-blazed-a-controversy-fueled-fundraising-trail/) (Tier 1)
@@ -200,7 +200,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0GA06192/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

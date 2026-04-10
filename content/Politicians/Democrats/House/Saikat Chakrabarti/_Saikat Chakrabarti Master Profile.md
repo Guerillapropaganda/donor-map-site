@@ -39,26 +39,26 @@ donors:: [[Small Dollar Donors - ActBlue]]
 
 ---
 
-### Who He Is
+## Who He Is
 
 Saikat Chakrabarti. Born January 12, 1986, Fort Worth, Texas. Bengali immigrant family — father born in Dhaka, displaced during Partition, squatted in an abandoned house in Kolkata, emigrated to the US in 1979 with no money. Paul Laurence Dunbar High School, Fort Worth. BA in Computer Science, Harvard University, 2007. One year at Bridgewater Associates (Ray Dalio's hedge fund) straight out of Harvard. Co-founded Mockingbird (web wireframing startup) in San Francisco, 2009. Founding engineer (second engineer) at Stripe, February 2011 to May 2013 — approximately 27 months. Director of Organizing Technology on [[_Bernie Sanders Master Profile|Bernie Sanders]]' 2016 presidential campaign. Co-founded Brand New Congress (April 2016) and Justice Democrats (January 2017). Served as [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]'s first Chief of Staff, January to August 2019 — the seven months that produced the Green New Deal resolution. Co-founded New Consensus think tank (2017). Currently a candidate for Congress in California's 11th district (San Francisco), the seat [[_Nancy Pelosi Master Profile|Nancy Pelosi]] held for 37 years. Top-two primary: June 2, 2026.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Chakrabarti is the vault's most structurally unusual figure: a centimillionaire ($167M+ disclosed net worth) who built the progressive insurgent infrastructure that the donor class has spent the last decade trying to contain. He designed the Justice Democrats' casting-call model that produced AOC, Bowman, and Bush. He drafted the Green New Deal. He ran the PAC-to-LLC financial architecture that the FEC investigated and deadlocked on. Now he is attempting to convert tech wealth into congressional power directly — self-funding 83% of his CA-11 campaign — in a seat vacated by the woman whose institutional authority he spent years trying to dismantle. The class analysis question is not whether he's progressive (his policy positions are structurally progressive) but whether a centimillionaire can build working-class political infrastructure without reproducing the donor-class capture model in a different form. His Stripe equity, Blackstone holdings (divested after disclosure), and Lowercarbon Capital LP stakes place him inside the asset-owning class whose structural power his organizations were designed to challenge.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Chakrabarti rejects corporate PAC money and has taken $0 in PAC contributions for his CA-11 campaign. But 83.1% of his campaign funding is self-loans ($1,470,000) from a fortune built at Stripe — a payments infrastructure company whose valuation depends on the same financial system his policy platform proposes to restructure. His House financial disclosure reveals Stripe equity worth >$50M, a Fidelity government securities fund worth >$50M, Lowercarbon Capital LP stakes (climate tech VC), Blue Owl GP Stakes funds, and — until media attention forced divestment — a $1-5M position in Blackstone Private Credit Fund. He earned at least $16 million in investment income in the 2024-mid 2025 period alone. His defense is structurally honest: "I did not work harder than teachers or nurses, and the American economy shouldn't be organized as a winner-take-all battle for survival." But the structural question remains: when a centimillionaire self-funds a congressional campaign, is that freedom from donor capture — or is it the donor class capturing the seat directly, just with better politics?
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > CA-11 campaign total receipts through end of 2025: $1,769,247.61. Of that, $1,470,000.00 (83.1%) is candidate self-loans. Individual contributions: $298,247.61. PAC money: $0.00. Cash on hand: $112,266.36. Burn rate: 93.7%. 5,724 individual donors in one quarter vs. Wiener's 2,226 — grassroots volume despite low dollar totals. [FEC: Saikat for Congress C00897314](https://www.fec.gov/data/committee/C00897314/) (Tier 1)
@@ -87,7 +87,7 @@ Everybody Techworks, Inc. (voter data tools, $50K–$100K), Reach Progress PBC (
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Chakrabarti inverts the vault's standard model. He doesn't receive donations that predict his votes — he deploys personal wealth that builds political infrastructure. The timeline tracks wealth → organization → policy rather than donation → politician → policy.*
 
@@ -123,7 +123,7 @@ Everybody Techworks, Inc. (voter data tools, $50K–$100K), Reach Progress PBC (
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The immigrant origin anchor:** Deploys his father's Partition displacement and immigration-with-nothing story as class credentials. Authentic in origin but serves the same structural function as AOC's bartender-to-Congress narrative — insulating a wealthy candidate from elite criticism.
 
@@ -135,7 +135,7 @@ Everybody Techworks, Inc. (voter data tools, $50K–$100K), Reach Progress PBC (
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 ### Self-Funding as Independence
 
@@ -152,7 +152,7 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: Saikat for Congress C00897314](https://www.fec.gov/data/committee/C00897314/) (Tier 1)
 - [FEC: Candidate H6CA11219](https://www.fec.gov/data/candidate/H6CA11219/) (Tier 1)

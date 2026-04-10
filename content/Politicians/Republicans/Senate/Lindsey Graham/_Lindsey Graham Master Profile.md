@@ -39,7 +39,7 @@ SORT file.name ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Lindsey Graham. Senior Senator from South Carolina (2003–present). Armed Services Committee, Judiciary Committee, Appropriations Committee, Budget Committee. Former U.S. Representative (1995–2003). JAG Corps lawyer, Air Force Reserve Colonel (retired). John McCain's closest Senate ally until McCain's death (August 2018), then Trump's closest Senate ally. Failed 2016 presidential candidate — dropped out before primaries, called Trump a "race-baiting, xenophobic, religious bigot."
 
@@ -49,7 +49,7 @@ Top career contributors reveal the dual pillars: defense (Lockheed Martin $158K,
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Lindsey Graham is the Senate's purest demonstration that political identity follows money. He was John McCain's ideological twin — interventionist, bipartisan, immigration-moderate — because McCain's donor network rewarded that positioning. When McCain died (August 2018) and Trump captured the Republican donor base, Graham transformed into Trump's most loyal Senate defender, because the Trump donor pipeline rewarded that positioning instead. The Kavanaugh hearing (September 2018) was the transformation moment — his performed rage at Democrats produced a 21-point approval jump in South Carolina (51% to 72%) and an immediate fundraising surge that saved him from a primary challenge.
 
@@ -59,14 +59,14 @@ Graham's 90% out-of-state funding in 2020 means he doesn't represent South Carol
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > "Race-baiting, xenophobic, religious bigot" (Graham on Trump, December 2015). "One of the best people I've ever met" (Graham on Trump, 2019). The contradiction isn't between two different Grahams — it's between two different donor networks. The McCain network valued bipartisan credibility and rewarded moderate positioning on immigration, campaign finance reform, and judicial independence. The Trump network values loyalty performance and rewards aggressive partisanship. Graham calculated — correctly — that the Trump pipeline generates $28M per quarter while the McCain pipeline died with McCain. His 2020 Fox News plea ("I'm getting killed financially — please help me") generated a fundraising surge that made the South Carolina race the most expensive in Senate history at the time. Graham spent $73 per vote; Harrison spent $118. Both raised approximately 90% from out of state. The voters are an audience; the donors are the constituency.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 #### Finance, Insurance & Real Estate ($13.4M career)
 
@@ -86,7 +86,7 @@ The Center for Public Integrity documented that Graham collects among the highes
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Defense / Military-Industrial Complex
 
@@ -122,7 +122,7 @@ The Center for Public Integrity documented that Graham collects among the highes
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 - [[The McCain-to-Trump Transformation and Donor Base Shift]] — The political identity pivot analyzed through donor network analysis
 - [[Defense Contractors and the Permanent War Donor Base]] — The Intercept documentation of super PAC funding; Armed Services Committee service agreement
@@ -149,7 +149,7 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Emotional Performance:** Kavanaugh hearings, impeachment defense, Judiciary Committee outbursts. Graham discovered that performed rage generates more fundraising than performed moderation. Each viral clip becomes a fundraising spike. The Kavanaugh hearing alone generated $1M+ in immediate donations and a 21-point approval jump. The business model: political emotion as revenue generator.
 
@@ -161,7 +161,7 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Two-Audience Problem:** Graham performs different political identities — McCain institutionalist, then Trump loyalist — depending on which donor network is ascendant. His actual policy outputs remain constant: hawkish defense spending, pro-Israel unconditional aid, interventionist foreign policy, corporate-friendly judiciary. The political persona changes while the donor service continues. Voters receive political theater; the defense industry, AIPAC, and Wall Street receive consistent legislative outcomes. The 2018 pivot proved the persona is disposable; the donor service is permanent.
 
@@ -176,7 +176,7 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Lindsey Graham campaign finance summary](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)
 - [FEC Candidate: Lindsey Graham career industries](https://www.fec.gov/data/candidate/H4SC03087/) (Tier 1)

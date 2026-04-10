@@ -47,7 +47,7 @@ SORT title ASC
 
 ---
 
-### Who They Are
+## Who They Are
 
 Chris Murphy. Democrat, Connecticut. Senator since 2013. Former House member (2007-2013) representing Connecticut's 5th District when the Sandy Hook Elementary School shooting occurred in December 2012 — an event that transformed Murphy from a backbench congressman into the Senate's most vocal gun control advocate. Member of the Foreign Relations Committee (top Democrat on the Middle East subcommittee), Health, Education, Labor and Pensions (HELP) Committee, and Appropriations Committee.
 
@@ -57,25 +57,25 @@ Labor contributes $1.24M career, but the composition is revealing: $1.21M comes 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Murphy is the Democratic Party's gun control specialist — and the geographic constraint of representing Connecticut's insurance-and-finance economy defines the limits of his progressivism on every other issue.** His Sandy Hook connection provides moral authority that generates small-dollar donations, media coverage, and progressive credibility on firearms. But his FIRE-sector funding ($6.85M career) and Connecticut's economic dependence on commercial insurance create a structural ceiling on healthcare reform. Murphy advocates for healthcare access while representing the state whose largest employers profit from the existing commercial insurance model. The gun control brand is genuine; the healthcare progressivism is geographically constrained.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Murphy represents the "Insurance Capital of the World" — Hartford, home to Aetna (now CVS Health), The Hartford, Travelers, and Cigna. Insurance industry donors have contributed $1.01M to Murphy's career campaigns. Hartford Financial Services alone is his fifth-largest career contributor ($140K). When Bernie Sanders proposed Medicare for All in 2019, Murphy distanced himself: "I favor putting the choice in the hands of the consumer" — a framing that preserves the private insurance model his state's economy depends on. Connecticut Democrats openly acknowledged the conflict: with thousands of insurance jobs at stake, Medicare for All was "too extreme." Murphy's progressive healthcare rhetoric stops precisely where Connecticut's insurance economy begins. He criticizes healthcare consolidation (opposing the CVS-Aetna merger's consequences) while defending the market structure that makes consolidation profitable.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money]
 > Murphy's career fundraising ($49.34M) is powered by Connecticut's professional-class economy. The FIRE sector ($6.85M) dwarfs Labor ($1.24M) by 5.5:1 — and the FIRE money is overwhelmingly individual contributions ($5.43M individuals vs. $1.42M PAC), indicating genuine donor relationships with hedge fund managers, insurance executives, and real estate developers, not just institutional PAC checks.
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance / Insurance
 
@@ -139,7 +139,7 @@ However, the foreign policy portfolio receives far less attention than gun contr
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Bipartisan Safer Communities Act):** The first federal gun legislation in 30 years was a real policy win. But it stopped short of assault weapons bans, universal background checks, or federal red flag laws. The win was calibrated to what the firearms industry's allies would tolerate.
 
@@ -151,7 +151,7 @@ However, the foreign policy portfolio receives far less attention than gun contr
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Sandy Hook moral authority** — Murphy invokes Sandy Hook as the moral foundation for gun legislation. The connection is genuine and personal — he represented the district — and it provides an emotional authenticity that other gun control advocates cannot replicate.
 
@@ -163,7 +163,7 @@ However, the foreign policy portfolio receives far less attention than gun contr
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Chris Murphy campaign finance summary](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
 - [FEC Candidate: Chris Murphy career industries](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
@@ -205,7 +205,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2WI00409/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

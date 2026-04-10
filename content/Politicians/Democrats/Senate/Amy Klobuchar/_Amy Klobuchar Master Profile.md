@@ -59,7 +59,7 @@ SORT title ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Amy Klobuchar. Democrat, Minnesota. Senator since 2007. Chair of the Judiciary Subcommittee on Competition Policy, Antitrust, and Consumer Rights â€” the Senate's primary antitrust jurisdiction. Former Hennepin County Attorney (1999-2007). 2020 presidential candidate. Klobuchar has positioned herself as the Senate's antitrust champion, authoring the American Innovation and Choice Online Act (targeting Big Tech self-preferencing) and the Competition and Antitrust Law Enforcement Reform Act.
 
@@ -70,7 +70,7 @@ Minnesota's economy anchors her donor base: 3M, Cargill, General Mills, Medtroni
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Amy Klobuchar is the Senate's antitrust brand â€” and the brand is the product.** Her antitrust subcommittee chairmanship gives her jurisdiction over the largest corporations in America. Her legislative proposals would meaningfully constrain Big Tech's market power. But none of her major antitrust bills have received floor votes. The companies her legislation targets â€” Google, Amazon, Apple, Meta â€” collectively spent $95 million lobbying against her American Innovation and Choice Online Act alone. The antitrust brand generates media attention and policy credibility without producing antitrust outcomes. The legislation is proposed, marked up, advanced through committee, and stalled â€” while the companies it targets grow larger with each session of Congress.
 
@@ -78,14 +78,14 @@ The smaller, less threatening bills pass easily. The Merger Filing Fee Moderniza
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Klobuchar authored the most comprehensive antitrust reform legislation in decades and chairs the subcommittee that oversees its jurisdiction. Her American Innovation and Choice Online Act passed the Senate Judiciary Committee 16-6 in January 2022 with bipartisan support. It never received a floor vote. Her Competition and Antitrust Law Enforcement Reform Act has been introduced in 2021 and again in 2024 â€” neither version advanced. The companies her legislation targets spent $95 million lobbying against it. Meanwhile, Big Tech spent an additional $36 million on TV and digital ads opposing the bills, versus $193,000 spent by supporters. Klobuchar proposes reform; the targets of reform prevent it; Klobuchar gets the brand credit for proposing reform that never passes. The cycle repeats each Congress.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Sector | Key Donors | What They Want | What They Get |
 |--------|-----------|---------------|---------------|
@@ -127,7 +127,7 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 â
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Bipartisan Antitrust Frame:** Klobuchar consistently presents antitrust as a nonpartisan consumer issue rather than a class analysis issue. Tech monopoly is framed as hurting innovation and small business, not as a structural feature of concentrated capital. This framing attracts Republican co-sponsors (Tom Cotton, Chuck Grassley) while avoiding the class dimension that would alienate corporate donors.
 
@@ -137,7 +137,7 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 â
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Primary):** Klobuchar's antitrust analysis is substantively correct. Big Tech companies hold monopoly power that harms competition and consumers. Her legislative proposals would meaningfully address the problem. The structural limit is the lobbying spend of the companies she targets: Google, Amazon, Apple, and Meta collectively spent $95 million lobbying against her signature bill. The genuine wins are real but small â€” merger fee updates, state enforcement venue reform. The structural reforms never pass.
 
@@ -147,7 +147,7 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 â
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Amy Klobuchar campaign finance summary](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
 - [FEC Candidate: Amy Klobuchar top industries](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
@@ -164,7 +164,7 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 â
 profile-status:: ready
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

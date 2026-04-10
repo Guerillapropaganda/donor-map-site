@@ -59,7 +59,7 @@ SORT file.name ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 John Wright Hickenlooper Jr. (born February 7, 1952). Democratic U.S. Senator from Colorado since 2021. Previously the 42nd Governor of Colorado (2011–2019) and Mayor of Denver (2003–2011). Geologist turned brewpub founder turned politician. Up for reelection in 2026 — has confirmed this will be his final Senate campaign. Serves on the Senate Energy and Natural Resources Committee, Commerce Committee, and Small Business and Entrepreneurship Committee. Leadership PAC: Giddy Up PAC.
 
@@ -67,7 +67,7 @@ Born in Narberth, Pennsylvania. BA and MS in geology from Wesleyan University. W
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Hickenlooper is the fossil fuel industry's preferred kind of Democrat — one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas campaign contributions and the primary mediator in efforts to remove both pro- and anti-fracking ballot measures. His function: prevent the Democratic Party from becoming hostile to fossil fuel extraction by occupying the "reasonable moderate" position that accepts fracking as a bridge fuel and treats industry contributions as pragmatic rather than compromising.
 
@@ -75,7 +75,7 @@ But the donor data reveals something more complex than a simple oil-and-gas pupp
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Hickenlooper represents Colorado — a state with growing progressive environmental sentiment — while maintaining the closest relationship with the fossil fuel industry of any Democratic senator. He built his career on the claim that fracking and environmental protection are compatible, even as Colorado communities documented water contamination, air quality degradation, and seismic activity near fracking operations.
 
@@ -84,7 +84,7 @@ Hickenlooper represents Colorado — a state with growing progressive environmen
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Career Federal Campaign Finance (OpenSecrets, 2019–2024):
 
@@ -124,7 +124,7 @@ Hickenlooper represents Colorado — a state with growing progressive environmen
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Oil & Gas / Energy
 
@@ -179,7 +179,7 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"The Brewpub Governor"** — The origin story does heavy lifting. Hickenlooper was a geologist who lost his job in the oil bust, founded Denver's first brewpub, and revitalized a neighborhood. The narrative codes him as an independent entrepreneur, not a career politician or industry figure. The brewery story functions as a class disguise: it makes a petroleum geologist who became the oil industry's preferred governor appear to be a small-business everyman. Every campaign bio leads with the brewpub. The geology career and Buckhorn Petroleum disappear.
 
@@ -191,7 +191,7 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** SB 19-181 was a real reform — shifting Colorado's oil and gas regulation from "fostering" to "regulating" development. The methane pollution limits he championed in the Senate were genuine environmental measures. But the structural limit was baked in: the bill didn't ban fracking, didn't impose a moratorium, and didn't give local communities the unilateral right to prohibit drilling. The industry could live with it. His Senate vote for the IRA included genuine clean energy investment ($369B) but also mandatory federal oil and gas lease sales — the structural limit that ensured fossil fuel extraction continues on public lands.
 
@@ -214,7 +214,7 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: John Hickenlooper campaign finance summary](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
 - [FEC Candidate: John Hickenlooper top industries (career)](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)

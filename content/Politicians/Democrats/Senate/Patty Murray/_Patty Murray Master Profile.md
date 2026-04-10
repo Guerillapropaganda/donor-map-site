@@ -45,15 +45,15 @@ donors: [[Boeing]] · [[Defense Industry Bloc]] · [[Pharmaceutical Industry Blo
 
 ---
 
-### Who They Are
+## Who They Are
 
 Patty Murray, U.S. Senator from Washington (1993–present). Vice Chair of Senate Appropriations Committee (formerly Chair, 2021–2023). Member of Senate HELP Committee (formerly Chair, 2019–2020). Most powerful spending position in the Senate: Appropriations controls all discretionary federal spending. Washington's largest employer is [[Boeing|Boeing]] ($53K+ in direct and executive donations to Murray); second largest industry cluster is pharma/biotech. Murray's 30-year Senate tenure built on constituency service, defense industry expansion, and corporate-friendly labor relationships. Brand: "mom in tennis shoes" (1992 campaign slogan); grassroots symbolism concealing establishment power and defense contractor alignment.
 
-### Central Thesis — The Institutional Power Broker Nobody Profiles
+## Central Thesis — The Institutional Power Broker Nobody Profiles
 
 Patty Murray exemplifies the unsexy, unglamorous accumulation of structural power in the Senate: appropriations control, committee seniority, and the ability to direct billions of dollars to home-state industries. Unlike dramatic figures who draw media attention, Murray operates through institutional machinery — committee votes, spending bill language, appropriations earmarks — that distribute wealth to [[Boeing|Boeing]], pharma, and tech without narrative scrutiny. Her function: convert Democratic Party control of Senate spending into Washington state defense contractor prosperity and pharmaceutical industry protection. As HELP Committee chair (2019–2020), she positioned herself as healthcare reformer while voting with pharma interests on critical votes. As Appropriations chair/vice-chair, she has directed the KC-46A tanker program ($2.4B+ annual contracts) to Boeing while simultaneously accepting funding from Boeing's lobbying apparatus. The contradiction is institutional, not personal: appropriations power creates aligned financial incentives between politician and contractor that operate independent of formal corruption.
 
-### Core Contradiction — Healthcare Reformer, Pharma Protector
+## Core Contradiction — Healthcare Reformer, Pharma Protector
 
 **Stated position (as HELP Committee chair):** Support drug price reduction, Medicare negotiation, generic drug accessibility.
 
@@ -64,7 +64,7 @@ Yet these initiatives went nowhere. The generic drug and importation provisions 
 
 **The Appropriations contradiction:** As Appropriations chair (2021–2023), Murray controlled the Senate budget authority that funds all federal agencies, including CMS and FDA. She could have used appropriations restrictions to force drug price negotiations. Instead, she appropriated money to both agencies while drug prices remained uncontrolled. The power existed; the will did not.
 
-### Donor Class Map
+## Donor Class Map
 
 | Date | Event/Contribution | Amount | Policy Action/Outcome | Time Gap |
 |------|-------------------|--------|----------------------|----------|
@@ -110,7 +110,7 @@ None of these occurred. Murray instead used appropriations to distribute defense
 | Earmarking power | Yes | Deployed for Boeing KC-46A | $2.4B+ contracts directed to home-state contractor |
 | Committee language authority | Yes | No (healthcare); Yes (defense) | Defense spending prioritized; healthcare reform performed but not implemented |
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Lifesaving drugs don't do anyone any good if people can't afford them"** — Direct statement at pharma CEO hearing (2019). Stated as fact; used as hearing theater without corresponding appropriations or legislative leverage.
 
@@ -124,7 +124,7 @@ Murray represents a specific Democratic establishment function: the appropriatio
 
 This is why Murray rarely appears in national media: she operates in the less visible machinery of appropriations and committee process. Her power is no less real because it is less glamorous. She controls more federal dollars than any senator. She has positioned her state's largest employer as the priority defense contractor. And she has protected pharmaceutical pricing while performing healthcare activism.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Murray's HELP Committee work on drug prices (hearings, legislation introduction) and appropriations control (directing billions to Washington state) represent genuine institutional power. The structural limit: her pharmaceutical industry donations ($1M+ while controlling healthcare agency funding) and Boeing partnerships ($53K+ while directing KC-46A contracts) mean no structural threats to donor profitability. Her healthcare rhetoric generated visibility; her appropriations power served defense contractors and pharma without forcing price controls.
 
@@ -132,7 +132,7 @@ This is why Murray rarely appears in national media: she operates in the less vi
 
 **The Institutional Power Pattern** — Murray's power operates through unglamorous appropriations machinery and committee procedure rather than dramatic legislative battles. This obscures that she controls more federal dollars than any senator. Her ability to direct KC-46A contracts to Boeing ($2.4B+ annually) demonstrates that appropriations authority can be deployed with surgical precision for donor benefit while simultaneously performing healthcare activism and pharmaceutical regulation.
 
-### Sources
+## Sources
 
 - [FEC Candidate: Sen. Patty Murray campaign finance summary](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
 - [FEC Candidate: Sen. Patty Murray elections 2024](https://www.fec.gov/data/candidate/S2WA00189/) (Tier 1)
@@ -158,7 +158,7 @@ content-readiness:: ready
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

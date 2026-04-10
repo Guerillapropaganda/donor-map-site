@@ -37,7 +37,7 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Marco Rubio. U.S. Secretary of State (confirmed 99-0, January 20, 2025 — first Latino to serve as Secretary of State) ([ABC News](https://abcnews.com/Politics/marco-rubio-unanimously-confirmed-secretary-state-becoming-member/story?id=117914119), Tier 2). Former U.S. Senator from Florida (2011–2025). 2016 Republican presidential candidate. Born May 28, 1971, Miami, FL, to Cuban immigrant parents who came to the United States in the late 1950s before Castro's revolution. West Miami neighborhood. Catholic. University of Florida → University of Miami Law School.
 
@@ -45,20 +45,20 @@ Career arc: Florida House of Representatives (2000–2008, including Speaker) �
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Rubio went from "Little Marco" to Secretary of State by becoming useful — his hawkish foreign policy (anti-China, anti-Cuba, pro-Israel) serves defense contractor donors and his conversion from Trump critic to loyalist mirrors the entire Republican establishment's submission. Florida's defense industry and Latin American exile donor base drive his foreign policy positions. The Gang of Eight immigration bill — the most ambitious reform legislation in a generation, which Rubio co-authored — was abandoned by Rubio himself when the MAGA donor base demanded it. No other figure in the Cabinet demonstrates more clearly how donor-driven position reversal works: propose reform when chamber donor-class moderates reward it, abandon it when the base primary threat emerges, and watch your funding base recalibrate around you.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > In 2013, Marco Rubio co-authored the Border Security, Economic Opportunity, and Immigration Modernization Act — the Gang of Eight bill. It passed the Senate 68-32 with strong bipartisan support and would have provided a path to citizenship for 11 million undocumented immigrants. Rubio toured Spanish-language media defending it. Then the House Tea Party killed it. Then Rubio ran for president. Under pressure from Trump and Cruz in the 2016 primary, Rubio said the bill "was never intended to become law" ([NBC News](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936), Tier 2) — claiming his own signature legislation was a performance piece. He called comprehensive immigration reform "not achievable right now." The man who wrote the most comprehensive immigration reform of his era said he never meant it to pass. He then served in a Senate that passed zero immigration reform during his tenure. The Fanjul family — who needed cheap agricultural labor and had funded Rubio's career — got their crop picked either way.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Florida Sugar Industry and Defense Contractors:
 - [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] — Rubio regularly hosts campaign fundraisers at events organized by lobbyists for [[Boeing|Boeing]], General Dynamics, and Honeywell. His Senate assignments — Intelligence Committee, Foreign Relations Committee — gave him direct oversight of the contractors he fundraised from. The defense industry investment returned dividends: Rubio's hawkish posture on Iran (maximum pressure), China (technology sanctions), Venezuela (military option on table), and Cuba (tightest possible embargo) aligns with defense contractor interests in sustained military tension and procurement funding. As Secretary of State, Rubio is now executing the foreign policy that his donor base paid for — including the Iran war that began February 28, 2026, the fourth deliverable in the [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran|Adelson pipeline]] (embassy → JCPOA withdrawal → Abraham Accords → Iran confrontation). Rubio's career-long Iran hawkishness (he led Senate opposition to the JCPOA in 2013-2015) made him the ideal Secretary of State to execute what Sheldon Adelson publicly advocated: military confrontation with Iran. The [[The Iran War Money Trail - From Adelson to Airstrikes|Iran War Money Trail]] documents how three donor constituencies — defense contractors, fossil fuel majors, and the Israel lobby — all extract returns from the same war Rubio now manages.
@@ -74,7 +74,7 @@ Miami auto dealer Norman Braman was Rubio's major early backer — during the 20
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Rubio went from "Little Marco" to Secretary of State by becoming useful — the Gang of Eight bill was abandoned when the MAGA donor base demanded it, proving donor-driven position reversal is his operating model.*
 
@@ -123,7 +123,7 @@ See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeli
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The exile narrative:** Rubio deploys his family's Cuban migration story regardless of its accuracy (they left before Castro, not after). The function: establishes visceral anti-communist credentials that override factual scrutiny. The narrative makes his Cuba/Venezuela hawkishness feel personal and principled rather than donor-driven.
 2. **The bipartisan cover-then-abandon:** Rubio co-authors legislation with Democrats (Gang of Eight), generates positive press as a "reasonable Republican," then abandons the legislation when the base turns against it, claiming it was always just a negotiating position. The function: collects centrist donor and press credit for the proposal, then collects MAGA donor credit for killing it. Double dipping on a single bill.
@@ -131,7 +131,7 @@ See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeli
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Rubio's Gang of Eight immigration bill was genuine bipartisan legislative achievement with Senate passage (68-32). Yet this win limits itself to procedural passage without enactment — the House rejected it, Rubio abandoned it under primary pressure, and he served a Senate that passed zero immigration reform, maintaining the structural dysfunction his bill proposed to address.
 
@@ -141,7 +141,7 @@ See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeli
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Marco Rubio career donor industries](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
 - [FEC Candidate: Marco Rubio campaign finance summary](https://www.fec.gov/data/candidate/P60006723/) (Tier 1)
@@ -158,7 +158,7 @@ See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeli
 - [FEC: Marco Rubio contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=rubio,+marco) (Tier 1)
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

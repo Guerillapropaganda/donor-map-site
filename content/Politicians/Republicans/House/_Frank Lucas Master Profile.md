@@ -59,7 +59,7 @@ profile-status:: ready
 
 ---
 
-### Who He Is
+## Who He Is
 
 Frank Dean Lucas. Born January 6, 1960, in Cheyenne, Oklahoma. U.S. Representative from Oklahoma's 3rd district (1994–present, 30 years continuous service). Rancher (third generation). Chairman of the House Agriculture Committee (2011–2015, 2019–2021). Currently Chairman of the House Science, Space, and Technology Committee (2023–present).
 
@@ -69,7 +69,7 @@ Frank Dean Lucas. Born January 6, 1960, in Cheyenne, Oklahoma. U.S. Representati
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Frank Lucas is the man who votes on his own subsidy checks. He sits on the committee that writes the Farm Bill, directly benefiting from the legislation he authors. This is not accidental. It is structural corruption protected by both parties and by a campaign finance system that cannot distinguish between a donor and a subsidy recipient.
 
@@ -79,7 +79,7 @@ Lucas's double jurisdiction as both Agriculture and Science Committee chair crea
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Lucas campaigns as a "small government conservative" opposing "welfare" and federal waste. His 30-year voting record emphasizes fiscal responsibility, skepticism of government overreach, and the need to cut federal spending.
@@ -97,7 +97,7 @@ The contradiction is total. It cannot be resolved by redefining terms. Lucas is 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Agricultural Commodity Producers (Direct Beneficiaries of Farm Bill):
 - [[American Farm Bureau Federation]] — largest agricultural lobbying organization; Lucas receives donations from this organization while chairing the committee that legislates farm policy
@@ -197,7 +197,7 @@ This is not accidental. Lucas was given the Science Committee specifically becau
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Lucas votes on his own subsidy checks — $100K+ in USDA farm payments while authoring every Farm Bill since 1996. The man who wrote the legislation directly benefits from the programs it created. Every expansion increased his ranch income.*
 
@@ -225,7 +225,7 @@ This is not accidental. Lucas was given the Science Committee specifically becau
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Lucas's Farm Bill victories (expanded commodity subsidies, favorable crop insurance terms) are real policy wins for agricultural commodity producers including himself, but stop short of dismantling the farm subsidy system itself. His wins expand existing subsidy structures without fundamentally threatening agricultural capital concentration.
 
@@ -237,7 +237,7 @@ This is not accidental. Lucas was given the Science Committee specifically becau
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Farm Security" = Subsidy Defense** — Lucas frames every Farm Bill expansion as necessary to protect family farmers and rural America. The rhetoric obscures that the subsidies disproportionately benefit large operations (Lucas's ranch among them) and harm small farmers through commodity price suppression.
 
@@ -317,7 +317,7 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Frank Lucas donor profile and campaign finance](https://www.fec.gov/data/candidate/H4OK06056/) (Tier 1)
 - [OpenSecrets: Congressional members receiving farm subsidies](https://www.opensecrets.org/news/) (Tier 1)
@@ -354,7 +354,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400247) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

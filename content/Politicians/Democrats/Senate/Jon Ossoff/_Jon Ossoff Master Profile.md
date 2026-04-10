@@ -53,26 +53,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Jonathan Ossoff. U.S. Senator from Georgia (2021–present). Age 37. Former investigative journalist and documentary filmmaker (2013–2021); managing director of Insight TWI, a London-based investigative production company. Former national security staffer and legislative assistant to U.S. Representative Hank Johnson. 2017: ran in Georgia's 6th Congressional District special election (House race), raising $30 million—then the most expensive House race in history. 2020: ran in Georgia Senate special election/runoff, raising $106.8 million—then the most-funded Senate race in history. Defeated Republican David Perdue in January 2021 runoff. Reelected in 2022. Net worth: ~$500,000–$1 million. Married, no children.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Jon Ossoff is the template for next-generation corporate Democrats: young, visually polished, media-savvy, positioned as anti-establishment "outsider" despite strong establishment backing. His documentary filmmaker brand provided authenticity cover for a career built on access to elite networks. The gap between his "investigative journalism" branding (exposing corruption, holding power accountable) and his Senate record (voting with establishment Democrats, accepting tech/entertainment donor dominance) reveals how populist aesthetics can disguise corporate alignment. Ossoff is the proof of concept: the outsider brand can be created, deployed, and then converted into establishment service without visible contradiction.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Ossoff's pre-political brand was investigative journalism: documenting corruption, exposing power abuse, holding institutions accountable. His production company, Insight TWI, made documentaries about foreign corruption, war crimes, and institutional dysfunction. This brand—the journalist, the truth-teller, the anti-establishment voice—was then converted into electoral politics. Yet Ossoff's Senate record reflects establishment alignment: he votes with Democratic leadership, accepts corporate donor dominance ($106M from tech/entertainment/finance), and doesn't distinguish himself with anti-establishment investigations or accountability demands. The investigative journalist became the investigative object. The contradiction is that his pre-political brand positioned him as accountability-seeker; his political career positions him as recipient of accountability-free access. This is what next-generation corporate Democrats look like: using outsider authenticity narratives to gain power, then exercising that power on behalf of establishment interests.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The $30 Million Special Election and the National Donor Flood (2017):
 - [[The $30 Million Special Election and the National Donor Flood]] — 2017 Georgia 6th House race: Ossoff raised $30 million (record House race at the time), 91% from outside Georgia. Early signal of national donor network mobilization around Ossoff brand.
@@ -161,7 +161,7 @@ These donor bases are not distributed randomly. They cluster around:
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Ossoff raised $137M combined across two races — $30.2M for a House seat (2017) and $106.8M for a Senate seat (2020) — 91-95% from outside Georgia, dominated by California tech and entertainment donors. The "investigative journalist" who documented corruption has conducted zero investigations of the sectors that fund him.*
 
@@ -203,7 +203,7 @@ This is not corruption in a legal sense. It's structural: the campaign finance r
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The "outsider" brand despite elite backing:** Ossoff positions himself as anti-establishment despite $106M in establishment donor backing. The documentary filmmaker career provides authenticity cover.
 
@@ -263,7 +263,7 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Ossoff's 2020 $106.8M fundraising represented a genuine mobilization of national Democratic donors around a competitive Senate race in a state Trump had won. The victory proved something real: massive donor network investment can overcome deficit in electoral infrastructure and local rooting. However, the structural limit is clear: Ossoff's victory was expensive ($106.8M for 50.6%-49.4% margin) and depended entirely on outside money ($95%+ from non-Georgia sources). The win was donor-purchased rather than voter-built. His 2026 campaign ($25M+ COH entering 2026, $9.9M raised Q4 2025 alone from 303,000+ donors) is structurally different: 99% small-dollar, 157/159 Georgia counties represented — a genuine grassroots defense of a Democratic seat under Trump. The analytical question is whether this small-dollar surge represents genuine political alignment with Ossoff or defensive anti-MAGA mobilization that would abandon him if the threat receded.
 
@@ -271,7 +271,7 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jon Ossoff Campaign Finance Summary](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
 - [FEC: Jon Ossoff Candidate Profile](https://www.fec.gov/data/candidate/S8GA00180/) (Tier 1)
@@ -286,7 +286,7 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 - [Newsweek: Jon Ossoff's Chances of Winning as His Fundraising Outpaces Republicans](https://www.newsweek.com/jon-ossoff-chances-winning-fundraising-outpaces-republicans-2100816) (Tier 2)
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -345,7 +345,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8GA06195/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

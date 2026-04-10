@@ -44,7 +44,7 @@ SORT file.name ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Amy Acton, born February 16, 1966, in Youngstown, Ohio. Democratic candidate for Governor of Ohio (2026). Former Ohio Department of Health Director under Republican Governor Mike DeWine (January 2019 – June 2020). Physician (MD, Northeastern Ohio University College of Medicine), public health specialist (MPH, Ohio State University). Former Associate Professor of Practice at Ohio State University, Director of Project LOVE (vaccination initiative), Vice President for Human:Kind at the Columbus Foundation.
 
@@ -54,7 +54,7 @@ Acton became a household name during COVID-19: her daily press conferences with 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Amy Acton represents a structurally different Democratic funding model: a genuinely grassroots-financed campaign ($5.3 million raised, 96% of contributions under $100, $28 average donation, 52,000 individual donors) backed by institutional labor union support (Ohio AFL-CIO, UAW, OFT, AFGE — representing 1.2 million workers). This is closer to the Sanders organizing template than the typical Democratic establishment donor architecture. The distinction matters analytically because it tests whether alternative funding sources produce alternative governance outcomes.
 
@@ -64,14 +64,14 @@ Acton's biography differs materially from most Democratic governors in the vault
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Acton raised $5.3 million with 96% of contributions under $100 and an average donation of $28 — a genuinely grassroots small-dollar model comparable to [[_Bernie Sanders Master Profile|Bernie Sanders]]' fundraising patterns. Yet her largest single donor is the Ohio Democratic Party ($125,000), she carries EMILY's List institutional endorsement (which brings Democratic establishment fundraising infrastructure), and her labor union support (Ohio AFL-CIO, UAW, steelworkers) operates as institutional Democratic infrastructure rather than rank-and-file grassroots power. If she wins, she governs Ohio with a Republican legislature that controls the state budget, regulatory power, and legislative agenda. The two-audience problem will test whether the grassroots funding model survives contact with governance reality: do grassroots donors accept compromise with Republican legislators and corporate interests, or do they demand the healthcare policy victories she promised? Does the institutional Democratic support (party money, EMILY's List, union leadership) function to moderate her policy ambitions, as it does for most Democratic governors? The contradiction is not hypocrisy but structure: small-dollar funding cannot insulate a governor from the legislative and corporate constraints that force compromise.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Grassroots Individual Donations ($5.3 million total)
 
@@ -112,7 +112,7 @@ Acton's biography differs materially from most Democratic governors in the vault
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Healthcare
 See: [[The Healthcare Platform and the Insurance Industry Question]]
@@ -143,7 +143,7 @@ The broadest labor coalition in Ohio Democratic governor's race history: 1.2 mil
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Acton employs physician-public health pragmatism combined with working-class origin story authenticity. Her signature framing: "I come from nothing. I know what working families face." This is literal rather than rhetorical performance. On healthcare, she emphasizes cost and access without attacking insurance companies or pharmaceutical firms by name — she attacks the structural problem. On broader economics, she uses family security language: "lowering costs: groceries, gas, healthcare, energy bills" and "cracking down on Ohio Statehouse corruption."
 
@@ -151,7 +151,7 @@ Her contrast to [[_Vivek Ramaswamy Master Profile|Ramaswamy]] is particularly ef
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Working-Class Biography + Structural Governance Constraint** — Acton's poverty origin is not a brand narrative: she lived homelessness, food insecurity, and parental abuse. This legitimacy cannot be performed by a candidate with a finance sector background. Yet legitimacy of origin does not determine governance capacity. If elected, she becomes Ohio's first female governor but governs where Republicans control the legislature and healthcare interests have significant political power. The pattern: authentic origin story meets structural powerlessness.
 
@@ -165,7 +165,7 @@ Her contrast to [[_Vivek Ramaswamy Master Profile|Ramaswamy]] is particularly ef
 
 ---
 
-### Sources
+## Sources
 
 - [Amy Acton - Wikipedia](https://en.wikipedia.org/wiki/Amy_Acton) (Tier 3)
 - [Amy Acton - Ballotpedia](https://ballotpedia.org/Amy_Acton) (Tier 3)
@@ -189,7 +189,7 @@ profile-status:: ready
 research-status:: active
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -222,7 +222,7 @@ content-readiness:: ready
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

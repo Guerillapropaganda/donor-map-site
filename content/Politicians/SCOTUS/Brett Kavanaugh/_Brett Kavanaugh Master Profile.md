@@ -45,26 +45,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-48). The most expensive Supreme Court confirmation in history: $17.1 million from a single anonymous donor to the Judicial Crisis Network (now Concord Fund), $10 million+ deployed by JCN for confirmkavanaugh.com and ad campaigns. [[Leonard Leo|Leonard Leo]] personally orchestrated the confirmation, told Alliance donors he needed to raise $10 million "as fast as possible" when the nomination was "teetering" after Christine Blasey Ford's testimony. Pre-SCOTUS: Ken Starr investigation (principal author of Starr Report), Bush v. Gore legal team (Florida recount, 2000), Bush White House Staff Secretary (approved every document reaching the president's desk). DC Circuit (2006-2018): consistent advocate for expanded executive power, unitary executive theory, NSA warrantless surveillance. The debt mystery: $60K-$200K in reported debts (2016-2017, "baseball tickets") disappeared before confirmation — never fully explained. Key rulings: joined West Virginia v. EPA majority (gutting EPA regulatory authority), authored NEPA narrowing (blocking cumulative environmental harm consideration), expanded corporate standing to challenge regulations. Leo "hand-walked" Kavanaugh to the top of Trump's list — Kavanaugh "auditioned harder than anyone," filling DC Circuit decisions with Federalist Society signaling and setting the record for speeches to the organization.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Brett Kavanaugh's confirmation represents the dark money capture of the Supreme Court at its most explicit. A single anonymous donor gave $17.1 million to JCN specifically for Supreme Court battles. [[Leonard Leo|Leonard Leo]] — who had spent two decades building the Federalist Society pipeline — personally selected Kavanaugh, managed the confirmation campaign, and directed the emergency $10 million fundraising when Christine Blasey Ford's testimony threatened to derail the nomination. Kavanaugh's pre-SCOTUS career was an audition: the Starr Report demonstrated partisan willingness, Bush v. Gore demonstrated institutional loyalty, the DC Circuit demonstrated executive power advocacy. His SCOTUS rulings deliver for the donor class: West Virginia v. EPA gutted the EPA's regulatory authority (serving fossil fuel donors), NEPA narrowing blocked cumulative environmental harm reviews (serving developers and extractors), corporate standing expansion privileged corporate economic claims over public interest. The $17.1 million investment in his confirmation purchased a justice who rules as the investment demands.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Brett Kavanaugh was confirmed as an "impartial" justice through $17.1 million in anonymous dark money — from a single donor whose identity remains unknown. He carries $60K-$200K in mysterious debts that disappeared before confirmation, attributed to "baseball tickets" but never fully explained. He advocates "judicial restraint" while his rulings systematically expand executive power and reduce regulatory authority — the opposite of restraint when it serves the donor class. The Starr Report author who investigated executive misconduct now rules to expand executive immunity. The "originalist" who claims to follow the Constitution's text was selected from a Federalist Society shortlist curated by [[Leonard Leo|Leonard Leo]] and confirmed through the largest dark money campaign in judicial history. The process that installed him is incompatible with the impartiality he claims to practice.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The $17 Million Confirmation and the Leo Pipeline:
 - [[The 17 Million Dollar Confirmation and the Leonard Leo Pipeline]] — JCN: $17.1M from single anonymous donor. Leo directed $10M emergency fundraise. confirmkavanaugh.com launched day of announcement. Carrie Severino (Thomas clerk) runs Concord Fund. Kavanaugh "auditioned harder than anyone" — record Federalist Society speeches. Leo "hand-walked" him to top of Trump's list.
@@ -74,7 +74,7 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Kavanaugh's confirmation was the most expensive dark money judicial investment at the time ($17.1M from a single anonymous donor). The $17.1M investment now earns compound returns through Loper Bright — a meta-ruling that makes every future deregulatory challenge easier to win.*
 
@@ -109,7 +109,7 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit:** Kavanaugh delivers on regulatory deregulation and executive power expansion, the donor class's primary agenda. His NEPA narrowing and corporate standing expansion are victories within bounds — they reshape regulatory capture without threatening property rights or the fundamental capital allocation system that the donor class depends on.
 
@@ -119,14 +119,14 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The institutionalist:** Appeals to precedent, judicial modesty, narrow rulings. The function: make donor-class outcomes look like principled jurisprudence. The reality: West Virginia v. EPA was the most aggressive assertion of judicial power over agency authority in decades.
 2. **The "I like beer" everyman:** Confirmation hearings emotional testimony. The function: humanize a Yale/Georgetown Prep/DC Circuit insider. The debt mystery: the "baseball tickets" explanation for $60K-$200K in disappearing debts remains the biography's unresolved question.
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Brett Kavanaugh — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1)
 - [OpenSecrets: Web of secret money hides one mega-donor funding conservative court](https://www.opensecrets.org/news/2017/11/web-of-secret-money-hides-one-mega-donor-funding-conservative-court/) (Tier 1)
@@ -136,7 +136,7 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 content-readiness:: ready
  
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

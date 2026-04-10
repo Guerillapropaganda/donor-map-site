@@ -28,26 +28,26 @@ None yet. Potential sub-notes: Real estate donor relationships, SB 35/SB 50 hous
 
 ---
 
-### Who They Are
+## Who They Are
 
 Scott Wiener (born May 11, 1970, San Francisco) represents California's 11th Senate District (San Francisco and parts of San Mateo County) since 2016. Previously served on the SF Board of Supervisors representing Harvey Milk's former District 8. Harvard Law graduate. Chairs the Senate Budget & Fiscal Review and Elections Committees. Co-chaired the CA Legislative Jewish Caucus (stepped down February 2026). A prominent LGBTQ legislator who has authored over 100 bills on housing, transit, climate, and technology. Running for Congress (CA-11) with $2.78M raised and $2.27M cash on hand.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat whose landmark bills (SB 35, SB 50, SB 827) have reshaped California development policy. But his funding reveals the core tension: over $500K from real estate interests across his career. He serves the progressive constituency's desire for more housing while also serving real estate developers' desire for fewer regulatory barriers to construction. These interests align on housing supply but diverge on tenant protections, rent control, and the question of who profits from new construction.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Wiener champions housing affordability while receiving $500K+ from real estate developers. His bills streamline housing approvals (good for tenants who need more supply) but also remove regulatory barriers that developers find costly (good for developer profits). He is simultaneously praised by YIMBYs for increasing housing production and criticized by tenant advocates who see him as too developer-friendly. The question is whether "build more housing" serves tenants or developers more — and Wiener's funding suggests the answer his donors are betting on.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Wiener's congressional campaign has raised $2.78M with $2.27M cash on hand. His career fundraising shows significant real estate sector funding — $500K+ from real estate interests, drawing criticism from housing activists.
@@ -67,7 +67,7 @@ Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat w
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -76,7 +76,7 @@ Wiener is the YIMBY movement's legislative champion — a pro-housing Democrat w
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 No sub-notes built yet. Key policy areas:
 - Housing (SB 35, SB 50, SB 827 — pro-density, streamlined approvals)
@@ -88,20 +88,20 @@ No sub-notes built yet. Key policy areas:
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Wiener uses technocratic framing — "supply and demand," "evidence-based housing policy," "cutting red tape" — that appeals to both progressive urbanists and developer interests. This language obscures the distributional question: more housing built by whom, for whom, at what price point? He positions opposition to his bills as NIMBYism, which is effective but collapses legitimate tenant protection concerns into bad-faith obstructionism.
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Genuine Win + Structural Limit** — His housing bills genuinely increase supply, but stop short of requiring affordability mandates that would threaten developer profit margins.
 - **Two-Audience Problem** — One message for YIMBY activists and housing advocates (more housing, lower rents), another message implicit in his donor relationships (fewer regulations, higher returns on development).
 
 ---
 
-### Sources
+## Sources
 
 - [Senator Wiener: Biography](https://sd11.senate.ca.gov/biography) (Tier 1)
 - [Wikipedia: Scott Wiener](https://en.wikipedia.org/wiki/Scott_Wiener) (Tier 4)

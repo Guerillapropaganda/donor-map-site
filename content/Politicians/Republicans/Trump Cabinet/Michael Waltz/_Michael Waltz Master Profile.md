@@ -34,26 +34,26 @@ None yet. Potential sub-notes: Signalgate controversy, Metis Solutions defense c
 
 ---
 
-### Who They Are
+## Who They Are
 
 Michael Waltz (born January 31, 1974, Florida) is a retired U.S. Army Colonel and Green Beret — the first Green Beret elected to Congress. He represented Florida's 6th District from 2019 to 2025, served briefly as National Security Advisor (January–May 2025), and became U.S. Ambassador to the United Nations in September 2025. Before politics, he co-founded Metis Solutions, a defense consulting firm sold to PAE for $92 million in 2020. He served in Bush administration policy roles under Rumsfeld, Gates, and Cheney. Net worth: ~$3M (assets $4–9M, liabilities $1–2.2M). Capital gains of $5–25M from the Metis Solutions sale.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Waltz is a military-industrial revolving door figure who built personal wealth through defense contracting (Metis Solutions, $92M sale), then used that wealth and military credentials to enter Congress, then leveraged political loyalty to Trump into national security positions. His career demonstrates how defense industry insiders use military service as credential laundering for political careers that serve the defense sector's interests.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Waltz built his political brand on military competence and national security expertise, then created the "Signalgate" security breach by accidentally adding a journalist to a Signal chat where senior officials discussed Yemen military strikes. The national security expert was responsible for one of the most embarrassing operational security failures in recent White House history — leading to his removal as NSA and reassignment to UN Ambassador.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Waltz's campaign and Warrior Diplomat PAC raised $2.79M in 2023–2024. Top donors include AIPAC ($102K) and securities/investment firms ($292K). The AIPAC connection is analytically significant — Waltz is hawkish on Israel and supportive of military aid.
@@ -71,7 +71,7 @@ Waltz is a military-industrial revolving door figure who built personal wealth t
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -81,7 +81,7 @@ Waltz is a military-industrial revolving door figure who built personal wealth t
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 No sub-notes built yet. Key policy areas:
 - China hawkishness (boycott 2022 Olympics, anti-espionage bills)
@@ -92,13 +92,13 @@ No sub-notes built yet. Key policy areas:
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Waltz uses military credentialing as his primary rhetorical frame — "Green Beret," "combat veteran," "national security expert." This framing allows him to position hawkish defense and foreign policy positions as expertise-driven rather than ideological or donor-driven. The Signalgate incident undermined this frame significantly.
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Revolving Door** — Defense consulting (Metis Solutions) → Congress (Armed Services Committee) → NSA → UN Ambassador. Each position serves the defense sector's interests from a different angle.
 - **Self-Funding as Independence** — The Metis Solutions wealth ($5–25M in capital gains) provides financial independence from donors, but his policy positions still align with defense industry interests because that's where his wealth originates.
@@ -106,7 +106,7 @@ Waltz uses military credentialing as his primary rhetorical frame — "Green Ber
 
 ---
 
-### Sources
+## Sources
 
 - [Wikipedia: Mike Waltz](https://en.wikipedia.org/wiki/Mike_Waltz) (Tier 4)
 - [FEC Candidate: Michael Waltz summary](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1)

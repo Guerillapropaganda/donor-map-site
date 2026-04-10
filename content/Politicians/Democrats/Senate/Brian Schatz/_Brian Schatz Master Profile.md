@@ -40,7 +40,7 @@ donors: Charter Communications · [[Private Equity Industry Bloc|Private Equity 
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Brian Schatz Master Profile|Brian Schatz]] is the senior United States Senator from Hawaii, serving since December 2012. Born October 20, 1972, in Ann Arbor, Michigan, raised in Hawaii from age two. Punahou School graduate (same elite Honolulu prep school as Barack Obama). B.A. in philosophy from Pomona College (1994). Served in the Hawaii House of Representatives (1998–2006), as chairman of the Democratic Party of Hawaii (2008–2010), and as lieutenant governor (2010–2012). Became senator when Governor Neil Abercrombie appointed him to fill Daniel Inouye's seat after Inouye's death — bypassing Inouye's own deathbed request that Congresswoman Colleen Hanabusa be appointed. Before politics, served as CEO of Helping Hands Hawaii, a nonprofit social service agency. Won a tight 2014 special election against Hanabusa, then reelected comfortably in 2016 and 2022.
 
@@ -50,7 +50,7 @@ donors: Charter Communications · [[Private Equity Industry Bloc|Private Equity 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Schatz is the Democratic Party's next power broker — Schumer's chosen successor — building his leadership bid by signaling reliability to the donor class while maintaining a progressive public brand. His committee portfolio gives him jurisdiction over telecom regulation (Commerce), federal housing spending (Appropriations THUD), and Native community funding (Indian Affairs). His top donors — Charter Communications ($48,900 via leadership PAC), telecom PACs, securities/investment firms, real estate — map directly onto the committees he chairs or has chaired. The March 2026 housing bill vote, where he was the lone Democrat to vote against a bipartisan bill that restricted private equity from buying single-family homes, crystallized the thesis: progressive rhetoric, capital-aligned votes when it matters.
 
@@ -59,14 +59,14 @@ Schatz is the Democratic Party's next power broker — Schumer's chosen successo
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Schatz brands himself as a progressive champion on climate, housing, and broadband access. He led the Senate Democrats' Special Committee on the Climate Crisis. He chairs the Appropriations subcommittee that funds homelessness grants ($4.32B in FY2025). He secured $1.6 billion in Maui wildfire housing recovery. But in March 2026, he was the only Democrat to vote against the 21st Century ROAD to Housing Act — a bipartisan bill that passed 89–10 — because it included a provision blocking private equity firms from holding single-family homes. Elizabeth Warren called it a deliberate policy choice with bipartisan support. Schatz claimed it was a "drafting error." His colleagues saw it differently: a former top-level Hill staffer told The American Prospect that "to 'Schatz' something is starting to be used as a verb, by which I mean undermining bills that take on corporate power, pretending to be motivated by progressive concerns, when it is transparent to everyone involved that he is just trying to build chits with powerful industries." The senator who funds homelessness grants is the same senator who voted to protect private equity's ability to buy up the housing supply.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -78,7 +78,7 @@ Schatz is the Democratic Party's next power broker — Schumer's chosen successo
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -99,7 +99,7 @@ Schatz is the Democratic Party's next power broker — Schumer's chosen successo
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The Maui wildfire recovery is the genuine win — $1.6B in federal housing funds for a devastated community, $2.1B total in disaster aid. The THUD subcommittee chairmanship produces real funding for homelessness ($4.32B), Native housing (record $1.3B+), and FAA safety ($22B). These are material goods. The structural limit: the senator who funds homelessness grants voted to protect private equity's ability to buy up the housing supply that creates homelessness. The genuine wins operate within a boundary that never threatens the investor class.
 
@@ -109,7 +109,7 @@ Schatz is the Democratic Party's next power broker — Schumer's chosen successo
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **Progressive Credentialing via Committee:** Uses climate committee chairmanship, THUD appropriations, and Indian Affairs as proof of progressive values. The committee work is real but functions as cover for capital-aligned votes elsewhere.
 
@@ -123,7 +123,7 @@ Schatz is the Democratic Party's next power broker — Schumer's chosen successo
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Brian Schatz Campaign Finance Summary](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)
 - [FEC: Candidate Brian Schatz (S4HI00136)](https://www.fec.gov/data/candidate/S4HI00136/) (Tier 1)

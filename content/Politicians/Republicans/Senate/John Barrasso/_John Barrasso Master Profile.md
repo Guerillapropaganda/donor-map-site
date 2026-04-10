@@ -28,26 +28,26 @@ related: [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Mast
 
 ---
 
-### Who They Are
+## Who They Are
 
 John Barrasso. Republican senator from Wyoming since 2007 (appointed to fill the seat of the late Craig Thomas, won special election in 2008, re-elected 2012, 2018, 2024). Senate Majority Whip in the 119th Congress — the second-highest position in Senate Republican leadership. Former chairman of the Senate Republican Conference (2019-2025). Former chairman of the Senate Environment and Public Works Committee (2019-2021). Former ranking member of the Senate Energy and Natural Resources Committee (2021-2025). Board-certified orthopedic surgeon in private practice in Casper, Wyoming from 1983 to 2007. Estimated net worth $8.3 million (2018). Wyoming's senior senator.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Barrasso's donor-class function is to serve as the fossil fuel industry's highest-ranking champion in the Senate leadership. From the Environment and Public Works Committee to Energy and Natural Resources to the Majority Whip position, his career arc maps perfectly to what the oil, gas, coal, and mining industries need: a surgeon-turned-senator who can translate industry talking points into policy obstruction with clinical precision. He blocked EPA climate regulations, weakened the Endangered Species Act to clear land for extraction, and championed permitting reform that accelerates fossil fuel development. The reward: $1.3 million in career oil and gas contributions, plus hundreds of thousands more from mining, chemicals, and electric utilities. Wyoming produces more coal, has the second-largest natural gas reserves, and ranks eighth in crude oil production of any state — and Barrasso ensures federal policy never threatens that extraction economy.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Barrasso frames himself as a doctor who cares about Wyoming communities and their economic wellbeing. But the communities most harmed by climate change — ranchers facing drought, rural residents near extraction sites, indigenous communities dealing with water contamination — are in Wyoming. The doctor who swore an oath to "first, do no harm" has spent two decades ensuring the industries that harm his constituents' air, water, and climate face no federal regulation. He reframes every environmental protection as an economic attack on Wyoming workers — while his top donors are multinational energy corporations whose executives don't live in Casper.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Career oil and gas contributions: $1.33M+. Top industry: Oil & Gas (consistently #1 or #2 across every cycle). Chemicals: #1 recipient in Senate (2017-2018). Electric Utilities: #1 recipient in Senate (2017-2018). Pharmaceutical manufacturing: #2 recipient in Senate (2017-2018). In 2019-2024 cycle, Securities & Investment surged to top industry at $1.15M — reflecting Wall Street's interest in the Majority Whip position. 87% of contributions from business sources, <1% from labor. From 2011-2016 alone: $458,466 from oil/gas + $241,706 from mining.
@@ -65,7 +65,7 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |------|-------------------|--------|---------------|----------|
@@ -80,7 +80,7 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Energy & Extraction:
 - Blocked EPA regulation of greenhouse gases — argued economic impact, not scientific denial
@@ -96,7 +96,7 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **"Energy security" framing:** Every climate regulation is reframed as a threat to American energy independence and Wyoming jobs — never as a protection against documented environmental harm.
 - **Doctor's authority:** Leverages MD credentials to give technocratic polish to industry-friendly positions, especially on healthcare.
@@ -105,7 +105,7 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Genuine Win + Structural Limit:** The bipartisan permitting reform bill with Manchin included some renewable energy provisions — but the structural winner was fossil fuel infrastructure that gets decades of locked-in production.
 - **Villain Framing:** Consistently frames the EPA and "Washington bureaucrats" as the villains threatening Wyoming communities — never the extraction companies operating in those communities.
@@ -115,7 +115,7 @@ Barrasso's donor-class function is to serve as the fossil fuel industry's highes
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: John Barrasso campaign finance summary](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)
 - [FEC Candidate: Barrasso career industry contributions](https://www.fec.gov/data/candidate/S6WY00068/) (Tier 1)

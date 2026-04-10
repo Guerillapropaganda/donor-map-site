@@ -58,7 +58,7 @@ donors: [[BAE Systems]] · [[Raytheon]] · [[Northrop Grumman]] · Sierra Nevada
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]] is the senior United States Senator from New Hampshire, serving since January 2009. Born January 28, 1947, in St. Charles, Missouri. B.A. in English from Shippensburg University of Pennsylvania. M.S.S. in political science from the University of Mississippi. Taught high school in Mississippi before moving to New Hampshire in 1973, where she also taught school. New Hampshire State Senate (1990–1996). Governor of New Hampshire (1997–2003) — the first woman to serve as governor of the state. Lost a 2002 Senate race to John E. Sununu. Won the 2008 rematch against Sununu. Reelected 2014 (51.6%) and 2020 (57%). First woman in American history elected both governor and U.S. senator. Announced March 12, 2025, that she would not seek reelection in 2026.
 
@@ -68,7 +68,7 @@ donors: [[BAE Systems]] · [[Raytheon]] · [[Northrop Grumman]] · Sierra Nevada
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Shaheen is the defense industry's ideal Democratic senator — a three-committee portfolio covering every stage of the defense spending pipeline, from the foreign policy that creates demand for weapons systems to the budget authorization that approves them to the appropriation that writes the checks. Five defense contractors sit in her top 20 career donors: BAE Systems, Raytheon, Northrop Grumman, Sierra Nevada Corporation, and Honeywell. She was the number one Senate recipient of BAE Systems donations and number two for Sierra Nevada during the 2018–2020 cycle. Raytheon employees, including CEO Thomas Kennedy, donated nearly $30,000 to her campaigns. On Armed Services, she ranks sixth among all 26 senators in defense industry receipts. On Appropriations, fifth of 30. On Foreign Relations, third of 24. BAE Systems is New Hampshire's largest industrial manufacturing employer — three times larger than the number two — and Shaheen helped secure $35.5 million in CHIPS Act funding for BAE's Nashua microelectronics facility. The defense economy accounts for $3.1 billion of New Hampshire's GDP (3.5%, ranking 14th nationally). Every foreign policy position Shaheen takes — Ukraine aid, NATO spending, opposition to the Afghanistan withdrawal — maps onto the economic interests of the defense contractors who fund her and employ her constituents.
 
@@ -77,14 +77,14 @@ Shaheen is the defense industry's ideal Democratic senator — a three-committee
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Shaheen presents herself as a principled national security leader — former governor, first woman elected both governor and senator, bipartisan Foreign Relations Ranking Member standing firm for Ukraine and NATO against authoritarianism. The foreign policy work is substantive and her Ukraine advocacy is genuine. But the American Prospect documented the structural conflict: when the Afghanistan withdrawal threatened to end a 20-year revenue stream for defense contractors, Shaheen was among the most vocal opponents of the pullout — and five of those contractors sit in her top 20 donors. She framed opposition as "conditions-based withdrawal," but the conditions that mattered most were the financial conditions of BAE Systems, Raytheon, and Northrop Grumman, each of which reaped billions from the Afghanistan operation. The senator who secures $35.5 million in CHIPS funding for BAE Systems in Nashua is the same senator who ranks among the top defense industry recipients on every committee she sits on. The national security brand is real. The question is whether the national security positions are shaped by threat assessment or by the $3.1 billion defense economy that her donor class depends on.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -98,7 +98,7 @@ Shaheen is the defense industry's ideal Democratic senator — a three-committee
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -118,7 +118,7 @@ Shaheen is the defense industry's ideal Democratic senator — a three-committee
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The Ukraine advocacy is the genuine win — Shaheen has been one of the Senate's most consistent voices against Russian aggression, co-chairing the NATO Observer Group and pushing bipartisan military aid packages. The ACA work was another genuine win. The structural limit: every foreign policy position that increases defense spending — Ukraine aid, NATO burden-sharing demands, opposition to withdrawal from Afghanistan — also increases revenue for the five defense contractors in her top 20 donors. The genuine security work and the donor-class interest never conflict because they point in the same direction.
 
@@ -128,7 +128,7 @@ Shaheen is the defense industry's ideal Democratic senator — a three-committee
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The National Security Moderate:** Shaheen frames every defense-aligned position as bipartisan security leadership — Ukraine aid with Murkowski, NATO spending with Tillis, conditions-based withdrawal language on Afghanistan. The bipartisan framing makes defense industry-aligned positions look like national interest rather than donor service.
 
@@ -142,7 +142,7 @@ Shaheen is the defense industry's ideal Democratic senator — a three-committee
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Jeanne Shaheen Campaign Finance Summary](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1)
 - [FEC: Jeanne Shaheen for Senate (S0NH00219)](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1)
@@ -184,7 +184,7 @@ content-readiness:: ready
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

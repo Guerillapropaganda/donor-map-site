@@ -43,19 +43,19 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Alexander Acosta. Born January 16, 1969, Miami, Florida. Cuban-American. Harvard Law School (1994). Career trajectory: NLRB member (2002–2003) → Assistant Attorney General, Civil Rights Division (2003–2005) → U.S. Attorney, Southern District of Florida (2005–2009) → Dean, FIU College of Law (2009–2017) → U.S. Secretary of Labor (2017–2019). Resigned July 19, 2019 under bipartisan pressure over the Epstein plea deal. Currently partner at Holdun Family Office and senior advisor to DLA Piper's New York office. Federalist Society member. Confirmed as Labor Secretary 60-38 (April 28, 2017).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Acosta is the vault's clearest example of the Federalist Society pipeline producing consequences that extend beyond judicial philosophy. His appointment as Labor Secretary was a product of the same network — Federalist Society membership, Republican legal establishment connections — that produced every Trump judicial nominee. But Acosta brought with him a decade-old decision that would become the Trump administration's most damaging scandal intersection: the 2008 Epstein non-prosecution agreement. The plea deal that let a serial sex trafficker serve 13 months in a county jail with work release was not an isolated prosecutorial decision — it was the product of a system where wealthy defendants with powerful lawyers and political connections receive outcomes unavailable to ordinary defendants. Acosta's career is the revolving door in miniature: government prosecutor → lenient deal for connected defendant → law school dean → cabinet appointment by the president most connected to the defendant he let walk.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Acosta was appointed to lead the Department of Labor — the agency responsible for protecting workers from exploitation, including labor trafficking. He had previously signed a non-prosecution agreement that shielded a serial sex trafficker from federal charges, granted immunity to unnamed co-conspirators, and was negotiated in secret without notifying the victims (violating the Crime Victims' Rights Act, per a federal judge's 2019 ruling). The man tasked with protecting workers had demonstrably failed to protect victims. The DOJ Office of Professional Responsibility found he exercised "poor judgment" but committed no professional misconduct — a distinction that says more about the standard than the conduct.
@@ -130,7 +130,7 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Details | Significance |
 |------|-------|---------|-------------|
@@ -149,7 +149,7 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 
 ---
 
-### Class Analysis — The Two-Tier Justice System
+## Class Analysis — The Two-Tier Justice System
 
 > [!money]
 > The Acosta-Epstein case is the vault's most direct illustration of class-based justice. A defendant with $500M+ in assets and connections to presidents, princes, and prime ministers assembled a legal team that included a former Solicitor General, a former White House policy advisor, and multiple celebrity defense attorneys. The federal prosecutor — facing this institutional pressure — agreed to a deal that: dropped federal charges carrying life imprisonment, granted immunity to unnamed co-conspirators, required only 13 months in county jail with work release, and was kept secret from the victims.
@@ -158,7 +158,7 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 
 ---
 
-### Sources
+## Sources
 
 - [NPR: Alexander Acosta steps down as Labor Secretary amid Epstein controversy](https://www.npr.org/2019/07/12/739881163/alexander-acosta-steps-down-as-labor-secretary-amid-epstein-controversy) (Tier 2)
 - [CNN: DOJ review finds Acosta used "poor judgment" in Epstein deal](https://www.cnn.com/2020/11/12/politics/department-of-justice-alex-acosta-epstein) (Tier 2)
@@ -198,7 +198,7 @@ profile-status:: developed — Epstein NPA documented (53-page indictment abando
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Alexander%20Acosta%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

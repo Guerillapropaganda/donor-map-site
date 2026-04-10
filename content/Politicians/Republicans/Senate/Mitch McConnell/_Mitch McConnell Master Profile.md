@@ -46,26 +46,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 [[_Mitch McConnell Master Profile|Mitch McConnell]]. U.S. Senate Republican Leader (2007–2025, longest-serving Senate leader in American history). Senior Senator from Kentucky (1985–present, retiring 2026). Now serves as Senate Rules Committee Chairman. Net worth: ~$35 million (largely through wife Elaine Chao's family shipping fortune). Career campaign fundraising: $47+ million to campaign committees. Announced February 20, 2025 (his 83rd birthday) that he will not seek reelection.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > [[_Mitch McConnell Master Profile|Mitch McConnell]] is not a politician who uses donor money — he is the architect of the system through which donor money controls American politics. His three structural achievements — killing campaign finance reform (McConnell v. FEC → Citizens United), building the dark money infrastructure ([[Senate Leadership Fund|Senate Leadership Fund]] + One Nation = $400M+ combined), and capturing the federal judiciary (234 Trump judges, 3 Supreme Court justices via Federalist Society/[[Leonard Leo|Leonard Leo]] pipeline) — transformed the American political system more than any legislation he passed or blocked. McConnell didn't just serve the donor class. He built the machine that ensures the donor class controls everything.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > McConnell represents Kentucky — one of the poorest states in America (46th in median household income, 45th in poverty rate). His donor base is the wealthiest class of corporate interests in the country: Koch Industries, Big Tobacco ($650K+ career), Big Pharma (Pfizer $1M to KY GOP HQ alone), defense contractors, and Wall Street. His legislative achievements — Citizens United, tax cuts for the wealthy, judicial appointments that gut labor protections and environmental regulation — systematically benefit his donors while his constituents remain among the poorest Americans. Kentucky's poverty is not despite McConnell's power — it's structurally irrelevant to his power, which derives entirely from the donor class.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Dark Money Machine:
 - [[The McConnell Dark Money Empire - SLF and One Nation]] — [[Senate Leadership Fund|Senate Leadership Fund]] ($211M in 2024, $291M in 2022) + One Nation c4 ($172M in 2020 from anonymous eight-figure donors). Run by Steven Law, McConnell's former chief of staff. The largest Republican dark money operation in America. FTX fraudsters gave $15.5M before collapse.
@@ -113,7 +113,7 @@ NBC News reported that Koch and Leo networks together poured $55M+ into organiza
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — McConnell has secured genuine policy victories: Citizens United (campaign finance liberation), 234 Trump judges (constitutional capture), tax cuts for wealthy (capital preferencing), deregulation framework. These are real, substantial wins that reshape American politics and law for decades. However, they stop short of threatening the fundamental wealth concentration architecture: tax cuts still preserve some nominally progressive structure; deregulation still maintains regulatory agencies; judicial capture still operates within constitutional constraints. The victories are systemic but remain within the boundaries that preserve donor class dominance while appearing to operate within democratic institutions.
 
@@ -141,7 +141,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Fossil Fuel / Coal
 
@@ -177,7 +177,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The procedural weapon:** McConnell doesn't argue policy — he controls procedure. The filibuster, the floor calendar, the confirmation schedule. Power through process, not persuasion.
 2. **The strategic silence:** Says nothing when controversy serves his interests. Refused to comment on Trump for weeks after January 6, then condemned him only after acquittal made the condemnation consequence-free.
@@ -186,7 +186,7 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: McConnell career finance](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1)
 - [CREW: dark money investigations — SLF, One Nation, FTX connections](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2)
@@ -217,7 +217,7 @@ profile-status:: ready — Dark money gatekeeper role documented ($3B+ coordinat
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300072) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -266,7 +266,7 @@ profile-status:: ready — Dark money gatekeeper role documented ($3B+ coordinat
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2KY00012/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 
@@ -291,7 +291,7 @@ profile-status:: ready — Dark money gatekeeper role documented ($3B+ coordinat
 - [GovTrack: Mitch McConnell](https://www.govtrack.us/congress/members/300072) (Tier 1)
 <!-- auto:voting-record end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

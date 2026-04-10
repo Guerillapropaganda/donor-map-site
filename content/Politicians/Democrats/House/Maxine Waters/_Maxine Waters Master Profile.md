@@ -45,7 +45,7 @@ donors: [[Goldman Sachs]]
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Maxine Waters. Democrat, California's 43rd District (South Los Angeles, Inglewood, Hawthorne). First elected 1990. Ranking Member, House Financial Services Committee — the committee with primary jurisdiction over Wall Street, banking regulation, housing policy, insurance, and digital assets. Chaired the committee from 2019-2023. As ranking member, she serves as ex officio member on all Financial Services subcommittees, including Capital Markets, Housing and Insurance, National Security and Illicit Finance, Digital Assets, and Oversight and Investigations.
 
@@ -53,20 +53,20 @@ Waters represents one of the most economically disadvantaged districts in Los An
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Waters is the populist gatekeeper of Wall Street regulation. Her Financial Services Committee position makes her the person every bank, insurer, crypto exchange, and real estate lobby needs to engage with — whether she's in the majority or minority. The "Auntie Maxine" brand — fierce, unapologetic, anti-Wall Street — is genuine in its emotional resonance and often genuine in her voting record. She has consistently defended Dodd-Frank against deregulation and championed fair lending enforcement. But the structural reality is that Financial Services Committee leadership is one of the most lucrative fundraising positions in Congress. Finance, insurance, and real estate (FIRE sector) donations tripled when she rose to committee leadership. She takes the money, maintains consumer-protection positions that the financial sector can absorb, and stops short of pushing for radical restructuring — no break-up-the-banks, no criminal prosecution of executives, no fundamental challenge to Wall Street's power. The OneUnited Bank scandal revealed how family financial interests can blur the line between legitimate minority-banking advocacy and personal enrichment.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Waters brands as Wall Street's fiercest opponent — "Auntie Maxine," the populist who will hold banks accountable. Her voting record on Dodd-Frank defense is genuinely consistent. But PAC contributions comprise 59% of her campaign fundraising while small donors under $200 represent less than 5%. Finance, insurance, and real estate sector giving tripled as she rose to committee leadership. She held a Wall Street fundraiser at the Elmendorf Ryan lobbying firm attended by representatives from Goldman Sachs, JPMorgan Chase, Bank of America, and Bank of New York Mellon. The OneUnited Bank ethics case showed her husband's $250,000-$500,000 financial stake in a bank that received $12M in TARP bailout funds after Waters arranged a Treasury meeting. She was technically cleared; her chief of staff took the reproval. The anti-Wall Street crusader's funding structure is built on Wall Street access.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **OpenSecrets CID:** N00006690
 **FEC Candidate ID:** H4CA23011
@@ -114,7 +114,7 @@ Waters is the populist gatekeeper of Wall Street regulation. Her Financial Servi
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -128,7 +128,7 @@ Waters is the populist gatekeeper of Wall Street regulation. Her Financial Servi
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Waters has genuinely defended Dodd-Frank against every Republican deregulation attempt. She championed fair lending enforcement, minority homeownership programs, and the Downpayment Toward Equity Act. These are real wins for her constituents. But she has never proposed breaking up the big banks, never pushed for criminal prosecution of bank executives after the 2008 crisis, and never challenged the fundamental structure of Wall Street's power. Her consumer protection victories are wins the financial sector can afford — they establish regulatory floors that prevent the worst abuses while leaving the profit structure intact.
 
@@ -140,7 +140,7 @@ Waters is the populist gatekeeper of Wall Street regulation. Her Financial Servi
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Waters' rhetorical power is performative confrontation. Committee hearings become viral moments — she interrupts, she challenges, she refuses to yield time. The "reclaiming my time" moment became a cultural phenomenon and the centerpiece of her progressive brand.
 
@@ -150,7 +150,7 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Maxine Waters donor profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1)
 - [FEC: Maxine Waters candidate profile](https://www.fec.gov/data/candidate/H4CA23011/) (Tier 1)
@@ -210,14 +210,14 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400422) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

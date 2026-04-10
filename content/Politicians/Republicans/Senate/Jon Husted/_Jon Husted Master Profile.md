@@ -34,27 +34,27 @@ donors: [[Les Wexner - Wexner Family Enterprises|Les Wexner]] · [[Centene Corpo
 ### JON HUSTED MASTER PROFILE
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Jon Husted Master Profile|Jon Husted]] is the junior United States Senator from Ohio since 2025, serving after his appointment to fill the seat vacated by [[_JD Vance Master Profile|JD Vance]] when Vance became Vice President. Born in the Detroit area in 1967 and raised in Montpelier, Ohio, Husted graduated from the University of Dayton with bachelor's and master's degrees, where he played on the winning NCAA Division III National Championship football team in 1989. His political career spans over two decades: he served in the Ohio House of Representatives from 2001 to 2009, including five years as Speaker (2005–2009), and in the Ohio State Senate from 2009 to 2011. He served as Ohio Secretary of State from 2011 to 2019 before becoming the state's Lieutenant Governor from 2019 to 2025 under Governor Mike DeWine. Husted is married with three children.
 
-### The Central Thesis
+## The Central Thesis
 
 Husted represents the establishment Republican faction in Ohio—a reliable vote for corporate donors and wealthy individuals with regulatory interests before state and federal agencies. His long tenure in Ohio Republican politics positions him as a safe conduit for business donors seeking legislative protection from Democratic-controlled interests. His 2026 Senate run against former Senator Sherrod Brown, who lost his seat in 2024 but represents residual working-class Democratic power in Ohio, frames this race as a test of whether Ohio's rightward shift is permanent or contingent on Democratic infrastructure collapse. Husted's funding base reflects networks built during his years as Secretary of State and Lt. Governor—business PACs, real estate developers, and wealthy individuals with state regulatory exposure.
 
 > [!money]
 > As of December 2025, Husted's "Husted for Senate" committee raised $7.3 million in total receipts for his 2025–2026 cycle, with approximately $6 million in cash on hand. Major funding comes from corporate PACs, wealthy individual donors, and affiliated Republican committees.
 
-### The Core Contradiction
+## The Core Contradiction
 
 Husted frames himself as a defender of Ohio jobs and workers while accepting substantial funding from donors with direct conflicts with working-class interests. He sits on the Senate Committee on Health, Education, Labor, and Pensions, where he advocates for business-friendly healthcare and labor policies, yet he accepted $116,892 from Les Wexner—the Epstein associate later identified as a co-conspirator in the Epstein federal investigation—between 2001 and 2025, including a $3,500 donation in July 2025. Two months after that July donation, Husted voted to block the bipartisan Senate amendment to release Epstein investigation documents, creating the appearance of quid pro quo on behalf of a donor with catastrophic reputational liability.
 
 > [!contradiction]
 > On September 10, 2025, Husted voted against releasing Epstein investigation documents just two months after receiving $3,500 from Les Wexner (July 3, 2025). Husted claimed he would donate the money to charity, and later reported donating $34,300 combined from Les and Abigail Wexner to Freedom a la Cart Cafe, a sex trafficking survivors' nonprofit. However, the timing—donation followed by vote—exposes the structural relationship: wealthy donors make contributions, then expect responsive votes on issues affecting them personally. Husted's earlier vote to block the documents contradicts his later public claim that the Epstein files matter; it shows he acts on donor pressure first, public opinion second.
 
-### Donor Class Map
+## Donor Class Map
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: the Wexner-Epstein sequence is the starkest in the vault — $3,500 donation from an Epstein co-conspirator on July 3, 2025, followed 69 days later by a vote to block Epstein document release. The 24-year, $116,892 investment in Husted produced a protective vote when Wexner needed it most.*
 
@@ -90,7 +90,7 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Husted has secured genuine policy victories on business regulatory relief and tax framework issues that serve his corporate PAC donors. However, these wins are narrowly constructed: relief flows to established corporations (Centene, real estate interests, financial services) while avoiding threats to the wealth extraction mechanisms themselves. His votes on healthcare and labor policy protect corporate donor interests without challenging the structural imbalances his committee jurisdiction oversees.
 
@@ -98,7 +98,7 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 | Sub-Note | Status | Summary |
 |---|---|---|
@@ -106,7 +106,7 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 | [[Epstein Files and Les Wexner Controversy]] | developed | Timeline of Wexner donations, September 2025 vote, and charitable response |
 | Senate Voting Record 2025-2026 | raw | Health, Education, Labor, and Pensions committee votes and co-sponsorships |
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **Jobs and Workers Language**: Husted invokes Ohio manufacturing and working-class economic concerns in campaign messaging, contrasting himself with Democrats as a defender of "real Ohio." This rhetoric masks the corporate-donor funding driving his policy positions.
 
@@ -136,7 +136,7 @@ Husted frames himself as a defender of Ohio jobs and workers while accepting sub
 
 **Website**: [husted.senate.gov](https://www.husted.senate.gov/)
 
-### Sources
+## Sources
 
 - [FEC.gov: Candidate Jon Husted (S6OH00304)](https://www.fec.gov/data/candidate/S6OH00304/) (Tier 1)
 - [FEC.gov: Committee "Husted for Senate" (C00896019)](https://www.fec.gov/data/committee/C00896019/) (Tier 1)
@@ -158,7 +158,7 @@ profile-status:: ready
 research-status:: active
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

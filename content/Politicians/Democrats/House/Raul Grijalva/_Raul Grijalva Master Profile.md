@@ -36,7 +36,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Raul Grijalva represented Arizona's 7th Congressional District (southern Arizona — Tucson, Yuma, border communities) and served as Ranking Member and Chair Emeritus of the House Natural Resources Committee until his death on November 29, 2025, at age 78. He served in Congress from 2003 to 2025 and was co-chair of the Congressional Progressive Caucus (2009-2015).
 
@@ -46,7 +46,7 @@ Before Congress, Grijalva served on the Tucson Unified School District governing
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Raul Grijalva was the extractive industry's adversary on the Natural Resources Committee — funded by environmental organizations, labor unions, and small donors rather than the mining, oil, and timber companies his committee regulates. He spent two decades blocking uranium mining near the Grand Canyon, fighting to protect Oak Flat (Apache sacred site) from Resolution Copper (a Rio Tinto subsidiary), and opposing Republican efforts to open public lands to extraction at reduced royalty rates.
 
@@ -54,14 +54,14 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Grijalva was the Progressive Caucus co-chair who championed environmental justice, indigenous sovereignty, and conservation — causes with no major corporate lobby. His structural problem wasn't donor capture but powerlessness. As ranking member, Grijalva could hold hearings, issue press releases, and introduce bills that would never receive committee votes. Westerman's chairmanship advanced legislation opening public lands; Grijalva's ranking membership could only slow it down. The most progressive member of the Natural Resources Committee had the least power to shape natural resources policy. The contradiction isn't between rhetoric and record — it's between values and institutional structure. The minority position on a committee whose majority is funded by extractive industries is structurally designed to lose.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Environmental organizations: significant (League of Conservation Voters, Sierra Club PAC)
@@ -91,7 +91,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Environmental Groups → Public Lands Protection
 | Date | Type | Event | Donor | Amount | Gap |
@@ -113,7 +113,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Anti-Pattern (mirror image of extractive capture):** Grijalva is the structural opposite of Westerman, Murkowski, and Capito. Same committee jurisdiction (natural resources, public lands, mining), opposite donor base (environmental groups vs. extractive industry), opposite policy outcomes (protection vs. extraction). The anti-pattern proves the pattern: when the committee leader is funded by the environmental movement rather than the extractive industry, the policy agenda centers conservation rather than extraction. The money determines the agenda.
 
@@ -123,7 +123,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Sacred lands are not for sale"** — The sovereignty framing for anti-mining advocacy. The function: elevate land protection from environmental policy to indigenous rights, making opposition to mining a moral position rather than a regulatory one.
 
@@ -133,7 +133,7 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Raul Grijalva donor profile](https://www.fec.gov/data/candidate/H2AZ07070/) (Tier 1)
 - [Congress.gov: Raul M. Grijalva](https://www.congress.gov/member/raul-grijalva/G000551) (Tier 1)
@@ -223,7 +223,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400162) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

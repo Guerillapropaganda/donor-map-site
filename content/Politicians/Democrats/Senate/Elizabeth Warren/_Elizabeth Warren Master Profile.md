@@ -52,7 +52,7 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Elizabeth Herring Warren. Born June 22, 1949. Harvard Law professor, bankruptcy law expert, and architect of the Consumer Financial Protection Bureau. U.S. Senator from Massachusetts (2013–present). 2020 Democratic presidential candidate (third place). Author of 19 books on economic policy and family finances. The most intellectually serious financial critic in the Senate and the rare Democratic politician whose policy agenda genuinely threatens the donor class.
 
@@ -60,14 +60,14 @@ Warren's political origin story is working-class: grew up in Oklahoma, her famil
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > [!contradiction]
 > Warren is the vault's test case for "what happens when a politician's funding IS clean." The answer: the system still constrains them through party structure, Senate rules, and the donor class operating through colleagues. Warren's $9.04 million in 2024 Senate funding is 96% individual contributions — she has categorically rejected corporate PAC money. She is small-dollar funded, and her funding base structurally matches her rhetoric about Wall Street accountability. This is genuine. The contradiction isn't in her funding but in what she has and hasn't been able to achieve. She built the CFPB but cannot defend it from Trump's dismantlement. She proposes wealth taxes, crypto regulation, and financial systemic reform that never reach a vote. She is the one major Democratic politician whose anti-donor-class agenda is consistent with her funding model — and the political system's response to that consistency reveals how power actually works.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Warren simultaneously:
 — Created the CFPB, returning $21+ billion to defrauded consumers
@@ -83,7 +83,7 @@ Warren proves that clean funding is necessary but not sufficient. An individual 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Top Donors & Funding Networks — The Anti-Model
 > **2024 Senate cycle:** $9.04 million raised / $7.91 million spent
@@ -153,7 +153,7 @@ And she is also the proof of why that model, while possible, doesn't change the 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Let me tell you about..."** — Warren's characteristic structure is narrative-driven: tell the story of one family destroyed by predatory lending, then pivot to the structural analysis. The rhetorical move from personal to systemic is the signature of her academic training. Other politicians tell stories and stop. Warren tells stories to make the structural argument.
 
@@ -167,7 +167,7 @@ And she is also the proof of why that model, while possible, doesn't change the 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Warren's timeline inverts the standard donor-to-policy model. She is funded almost entirely by small-dollar donors. The key dynamics are: (1) what her clean-money model built, (2) how the donor class responded to destroy it.*
 
@@ -215,7 +215,7 @@ And she is also the proof of why that model, while possible, doesn't change the 
 
 ---
 
-### Class Analysis — The Exception That Proves the Rule
+## Class Analysis — The Exception That Proves the Rule
 
 Warren is the vault's exception and the exception proves the rule in reverse: she is the politician whose funding model actually breaks from the donor class, yet she is still structurally constrained.
 
@@ -236,7 +236,7 @@ Warren is the vault's case study in the limits of individual resistance within a
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Elizabeth Warren Campaign Finance Summary](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)
 - [FEC Candidate: Elizabeth Warren 2024 Donor Industries](https://www.fec.gov/data/candidate/P00009621/) (Tier 1)

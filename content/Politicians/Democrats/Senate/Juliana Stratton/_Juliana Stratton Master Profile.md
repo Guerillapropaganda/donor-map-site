@@ -26,25 +26,25 @@ donors: [[_JB Pritzker Master Profile|JB Pritzker]] · Pritzker Family · Illino
 ### JULIANA STRATTON MASTER PROFILE
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Juliana Stratton Master Profile|Juliana Stratton]] is the Lieutenant Governor of Illinois and the 2026 Democratic nominee for U.S. Senate, positioned to succeed retiring Senator Dick Durbin. A graduate of Harvard Law School, Stratton has built her career as a criminal justice reformer and progressive advocate. She served in the Illinois state legislature and as Chair of the Illinois Sentencing Policy Advisory Council before being elected Lieutenant Governor alongside Governor [[_JB Pritzker Master Profile|JB Pritzker]] in 2018. On March 17, 2026, she won a commanding primary victory with 39.7% of the vote in a crowded 10-candidate field, defeating U.S. Representatives Raja Krishnamoorthi (33.4%) and Robin Kelly (18.4%). If elected to the Senate, she would become the sixth Black woman to serve in that chamber.
 
-### The Central Thesis
+## The Central Thesis
 
 Stratton's political identity is built on dual narratives of grassroots progressivism and executive proximity to the Pritzker billionaire network. She positions herself as a criminal justice reformer opposed to corporate influence in politics, yet the 2026 primary revealed the material reality: Pritzker's personal wealth and political apparatus—not grassroots fundraising—delivered her the Democratic nomination. The Pritzker family controlled 82% of the roughly $6.3 million raised by her outside super PAC. This creates a foundational contradiction: Stratton frames her candidacy as "fighting for ordinary people" while depending almost entirely on billionaire patronage for electoral viability. The primary exposed which interests truly control her political movement.
 
 > [!money]
 > Illinois Future PAC, backed overwhelmingly by Pritzker family money, spent $10-12 million supporting Stratton's primary campaign. Pritzker contributed $5 million personally in December 2025. Relatives, including cousin Jennifer Pritzker and spouse, contributed another $1.1 million, accounting for $6.1 million—82%—of the PAC's $6.3 million in 2025 fundraising. Stratton's direct campaign raised only $3.2 million, making her dependent on outside billionaire spending for electoral dominance.
 
-### The Core Contradiction
+## The Core Contradiction
 
 In July 2025, Stratton pledged publicly that her Senate campaign would reject corporate PAC contributions—positioning herself as a corruption-fighter aligned with groups like End Citizens United. This pledge earned her an endorsement from End Citizens United in November 2025. Yet simultaneously, she accepted millions in unrestricted personal donations from billionaire [[_JB Pritzker Master Profile|JB Pritzker]] and his family while her outside super PAC functioned as a vehicle for Pritzker family wealth. When her campaign returned a $5,000 contribution from Marquis Energy's corporate PAC (to uphold the pledge), the same family controlling Marquis simultaneously contributed $21,000 in personal donations to her campaign. The contradiction is not incidental: it reveals the distinction between "corporate PAC" restrictions (framed as anti-corruption) and unrestricted billionaire cash (treated as acceptable). What does rejecting corporate PACs mean when your campaign is 82% funded by one family's personal wealth?
 
 > [!contradiction]
 > Stratton pledged in July 2025 to reject corporate PAC contributions for Senate, earning an End Citizens United endorsement in November. Yet the Pritzker family controlled 82% of her outside PAC's $6.3 million in fundraising, and she personally received $21,000 from Marquis family members while returning their $5,000 PAC check. The rhetoric is "grassroots" and "anti-corruption"; the material reality is billionaire patronage replacing small-dollar fundraising.
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/PAC | Total Donated | Key Policy Outcome | Timeline |
 |-----------|---------------|-------------------|----------|
@@ -56,14 +56,14 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 | Stratton direct campaign donors | $3.2 million | Small-dollar fundraising; diluted by 82% reliance on billionaire outside PAC | 2025-2026 |
 | [[AIPAC - American Israel Public Affairs Committee|AIPAC]] donor network | ~27 individual [[AIPAC - American Israel Public Affairs Committee|AIPAC]] donors | Indirect backing; AIPAC stayed officially neutral while donors gave to Stratton campaign | 2026 |
 
-### Policy Area Notes
+## Policy Area Notes
 
 | Sub-Note | Status | Summary |
 |----------|--------|---------|
 | [[Illinois Senate Primary Money War]] | developed | How Pritzker's $10M+ spending and crypto PAC opposition shaped a race where billionaire funds dominated over small-dollar fundraising. |
 | [[Corporate PAC Pledge and Its Limits]] | developed | Stratton pledged corporate PAC rejection but accepted $6.1M in Pritzker family personal donations—analysis of what "grassroots" means under billionaire patronage. |
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Stratton pledged to reject corporate PAC contributions and earned an End Citizens United endorsement, then accepted $6.1M from the Pritzker family through a personal-donation super PAC. She returned a $5K corporate PAC check while keeping $21K in personal donations from the same family. What does "rejecting corporate influence" mean when 82% of your outside funding comes from one family?*
 
@@ -88,7 +88,7 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Criminal Justice Reformer"** — Stratton consistently positions herself as a progressive voice on sentencing reform and police accountability, rooted in her work with the Illinois Sentencing Policy Advisory Council. This rhetoric appeals to Democratic base voters but obscures her dependence on Pritzker's patronage and political apparatus for electoral viability.
 
@@ -116,7 +116,7 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 
 **Website:** [Juliana Stratton for U.S. Senate](https://www.julianastratton.com/?q=Juliana%20Stratton)
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Corporate PAC Theater** — Stratton pledged to reject corporate PAC contributions and earned an End Citizens United endorsement, but this pledge became cover for accepting $6.1M from the Pritzker family through personal donations to her outside PAC. She returned a $5K corporate PAC check while accepting $21K in personal donations from the same family members. The pattern: corporate PAC restrictions (which sound anti-corruption) become meaningless when billionaire personal donations replace them. What appears as an anti-corruption pledge is actually a rebranding of corruption that redirects money through less-transparent personal donation channels.
 
@@ -124,7 +124,7 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: STRATTON, JULIANA - Candidate overview](https://www.fec.gov/data/candidate/S6IL00458/) (Tier 1)
 - [NBC News: Lt. Gov. Juliana Stratton wins Democratic Senate primary in Illinois](https://www.nbcnews.com/politics/2026-election/lt-gov-juliana-stratton-wins-democratic-senate-primary-illinois-rcna263528) (Tier 3)
@@ -176,7 +176,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S6IL00458/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

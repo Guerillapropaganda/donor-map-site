@@ -36,7 +36,7 @@ donors: [[SEIU - Service Employees International Union]], [[CNA - California Nur
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Bernard Sanders. Born September 8, 1941, Brooklyn, New York. Independent (caucuses with Democrats). U.S. Senator from Vermont (2007–present). Former U.S. Representative (1991–2007). Former Mayor of Burlington, Vermont (1981–1989). 2016 and 2020 Democratic presidential candidate.
 
@@ -44,7 +44,7 @@ The longest-serving independent in U.S. congressional history. Self-described de
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Sanders is the vault's exception — the politician who built a funding model independent of the donor class and ran it at presidential scale. Twice. The exception proves the rule: the institutional Democratic Party mobilized every available mechanism to ensure the anti-donor-class candidate lost and the donor-class-compatible candidate won. The 2020 consolidation (three candidates dropping out in 72 hours to endorse Biden) is the most visible example. The [[AIPAC - American Israel Public Affairs Committee|AIPAC]] primary purge of Sanders-aligned progressives ($23M+ to unseat Bowman and Bush) is the most recent.
 
@@ -52,7 +52,7 @@ Sanders proved the alternative is possible. The donor class proved it has the in
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Sanders simultaneously:
 — Raised $487 million+ across two presidential campaigns from working-class donors
@@ -64,7 +64,7 @@ The contradiction is the vault's central question in reverse: if donors control 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 Sanders doesn't have a donor class map in the traditional vault sense. He has an anti-donor map — the forces that opposed him and the alliance that supported him:
 
@@ -82,7 +82,7 @@ Budget Committee: Amazon investigation, Walmart $6.2B taxpayer subsidy, Raise th
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Sanders is the vault's control variable. His donor profile inverts every other politician's pattern: policy positions precede endorsements, not vice versa. The arrow runs from ideology to donor, not donor to ideology.*
 
@@ -112,7 +112,7 @@ Budget Committee: Amazon investigation, Walmart $6.2B taxpayer subsidy, Raise th
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Class Frame:** Sanders names the enemy — "the billionaire class," "the corporate elite," "the oligarchy." No other major Democratic politician uses class language this directly. Newsom says "California values." Harris says "the future we can build." Sanders says "billionaires are buying elections." The directness is what makes him dangerous to the donor class and why the institutional party had to contain him.
 
@@ -135,7 +135,7 @@ Budget Committee: Amazon investigation, Walmart $6.2B taxpayer subsidy, Raise th
 
 ---
 
-### Class Analysis — The Exception That Proves the Rule
+## Class Analysis — The Exception That Proves the Rule
 
 The vault's central thesis: donors control politicians. Sanders is the exception — and the exception proves the rule.
 
@@ -149,7 +149,7 @@ For IBEW members: Sanders's Raise the Wage Act, PRO Act co-sponsorship, and prev
 
 ---
 
-### Sources
+## Sources
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 

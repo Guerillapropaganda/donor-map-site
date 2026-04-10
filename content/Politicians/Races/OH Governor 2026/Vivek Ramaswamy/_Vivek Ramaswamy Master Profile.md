@@ -38,26 +38,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now running for Ohio governor (2026). Net worth $2.4 billion, built entirely on Roivant Sciences — a biotech company that buys failed pharmaceutical patents and restructures them through subsidiary "Vant" companies. Roivant stake: ~$565–670 million (10% ownership, $15.1B market cap). Additional wealth: Strive Asset Management ($1.7B AUM, anti-ESG positioning, funded by [[Peter Thiel|Peter Thiel]], [[_JD Vance Master Profile|JD Vance]], Bill Ackman). 2024 presidential primary: raised $66.2 million, self-funded $26 million+, dropped out after 4th place Iowa (8%), endorsed Trump same night. DOGE tenure lasted 32 days before Musk forced him out — H-1B visa comments criticizing American workers ("venerated mediocrity over excellence") alienated the MAGA base and Trump himself. Ohio governor race: $19.8 million raised (state record), [[Jeff Yass|Jeff Yass]] $10 million to super PAC, Ross Stevens $5 million. The "anti-woke" pharma billionaire whose entire fortune depends on the FDA he wants to "gut." The 2028 audition is the Ohio statehouse.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Vivek Ramaswamy's political brand — anti-regulation, anti-DEI, anti-"woke capitalism" — is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical company that profits from FDA-regulated drug development; his political platform calls for gutting the FDA. His anti-DEI book ("Woke, Inc.") launched a political career while his own company (Roivant Social Ventures) ran pro-DEI and pro-ESG initiatives. His DOGE tenure — 32 days of proposing 75% federal workforce cuts and $2 trillion in spending reductions — ended when Musk forced him out after his H-1B comments revealed the gap between populist rhetoric and billionaire class interests. The Ohio governor race is funded by [[Jeff Yass|Jeff Yass]] ($10M) and Ross Stevens ($5M) — 83% of his super PAC comes from two billionaires. The "grassroots outsider" with 88,950 unique donors is a $2.4 billion pharma executive running on deregulation that directly benefits his personal holdings. The anti-establishment brand is the establishment in populist costume.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Ramaswamy campaigns to "gut" the FDA — calling it the "Failed Drug Administration" — while his entire $2.4 billion fortune depends on FDA-regulated drug development. Roivant Sciences has 3 drugs in development that could reach FDA review during Trump's second term. His anti-DEI political brand was built while his own company ran pro-DEI initiatives (Roivant Social Ventures). He positioned himself as a DOGE "efficiency expert" but lasted 32 days before being pushed out by Musk. He claims independence from super PACs while his Ohio race is 46% funded by a super PAC dominated by two billionaires ($15M of $16.8M). The populist brand exists to serve the pharma-billionaire class interest it claims to oppose.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Pharma-to-Politics Pipeline:
 - [[The Roivant Fortune and the FDA Deregulation Conflict]] — Roivant Sciences $15.1B market cap. 10% stake ($565–670M). Bermuda incorporation (tax haven). Axovant $360M raise → trial failure → $40M personal stock sale. QVT Financial hedge fund → biotech entrepreneur → anti-regulation politician. The fortune that funds the politics that deregulates the fortune.
@@ -70,7 +70,7 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Ramaswamy is the deregulation self-interest loop — his $2.4B fortune depends on FDA-regulated pharma, his political platform calls for gutting the FDA, and his campaigns are funded by the billionaire class his "anti-woke" brand claims to challenge.*
 
@@ -99,7 +99,7 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The anti-woke entrepreneur:** "Woke, Inc." — corporate DEI is a "self-interested scam." The function: position pharma wealth as anti-establishment. The reality: his own company ran pro-DEI initiatives while he wrote the book.
 2. **The outsider self-funder:** Claims independence from donor class while super PAC takes $15M from two billionaires. The 88,950 small donors provide the narrative; Yass and Stevens provide the money.
@@ -107,7 +107,7 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Ramaswamy proposed 75% federal workforce cuts and $2 trillion spending reductions during DOGE tenure, advancing deregulatory interests of tech and pharma billionaires. Yet these proposals operated within advisory authority (32-day tenure) — they don't fundamentally restructure the federal system, they propose downsizing within existing authority structures that the donors funding his politics benefit from.
 
@@ -117,7 +117,7 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Ramaswamy 2024 presidential fundraising](https://www.opensecrets.org/2024-presidential-race?id=N00052397) (Tier 1)
 - [Forbes/Fortune: Ramaswamy net worth](https://fortune.com/2023/08/24/vivek-ramaswamy-gop-debate-republican-net-worth/) (Tier 2)
@@ -141,7 +141,7 @@ content-readiness:: ready
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

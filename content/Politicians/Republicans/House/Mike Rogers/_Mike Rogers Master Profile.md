@@ -33,7 +33,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Mike Rogers has represented Alabama's 3rd Congressional District since 2003 and chairs the House Armed Services Committee — the body that authorizes every dollar of Pentagon spending and every major weapons system acquisition. He's a lawyer by training (Birmingham School of Law, Jacksonville State University) who served on the Calhoun County Commission before entering Congress.
 
@@ -43,7 +43,7 @@ Rogers has served in Congress for over two decades, receiving $2 million+ from t
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Mike Rogers is the defense industry's highest-paid congressional employee. Over $2 million in career defense donations — more than any other House member in the current Congress — bought the most reliable advocate the military-industrial complex has in Washington. Rogers doesn't just vote for defense budgets. He creates new markets for defense contractors. He was instrumental in establishing the Space Force as a separate military branch (2019), creating an entirely new procurement pipeline worth tens of billions. He then championed relocating Space Command to Huntsville, Alabama — steering the command's headquarters (and its contractor ecosystem) directly into his state's defense corridor.
 
@@ -51,14 +51,14 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Rogers campaigns as a fiscal conservative and deficit hawk. He chairs the committee that authorizes $886 billion in annual defense spending (FY2024 NDAA) — the largest single discretionary spending item in the federal budget. He has never voted to reduce defense spending. He has actively created new spending categories (Space Force) and steered procurement to his state. The "fiscal conservative" framing applies to every budget item except the one his donors pay for. Defense spending is always "national security." Everything else is "government waste."
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Defense sector: $2 million+ career total (top sector since 2012)
@@ -84,7 +84,7 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Defense Industry → Armed Services Authorization
 | Date | Type | Event | Donor | Amount | Gap |
@@ -114,7 +114,7 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** Rogers represents AL-03 — a district with real poverty, healthcare access problems, and infrastructure needs. His committee's jurisdiction ensures that federal money flowing to Alabama comes primarily through defense procurement, not domestic programs. Anniston Army Depot and the Huntsville defense corridor receive billions. Rural healthcare and education in the district receive whatever's left after the Pentagon is funded.
 
@@ -126,7 +126,7 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"National security requires..."** — The framing that places defense spending beyond fiscal scrutiny. Every weapons system, every base, every contract is "national security." The function: insulate the defense budget from the fiscal conservatism Rogers applies to every other spending category.
 
@@ -145,7 +145,7 @@ His #1 career donor is Lockheed Martin — the company competing for the Next Ge
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Mike Rogers donor profile](https://www.congress.gov/search?q=Mike%20D%20Rogers&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: Mike Rogers top contributors](https://www.congress.gov/search?q=Mike%20D%20Rogers&searchResultViewType=expanded) (Tier 1)

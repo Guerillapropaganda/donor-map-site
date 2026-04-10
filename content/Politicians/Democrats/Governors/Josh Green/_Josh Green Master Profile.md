@@ -31,7 +31,7 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Joshua Booth Green, Jr. Governor of Hawaii (2022–present). Physician; emergency room doctor with 20+ years of practice. Member of Hawaii State Legislature (2004–2018). Lieutenant Governor of Hawaii (2018–2022). First generation Japanese American. Built political identity around healthcare access, social justice positioning, and local community roots.
 
@@ -39,7 +39,7 @@ Green's distinguishing feature: he is the first sitting physician to become a mo
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Josh Green represents a different political archetype than Abbott or Sanders: he is not a donor-captured politician in the traditional sense. Instead, Green embodies the donor-embedded expert — a politician whose professional expertise (medicine) provides ideological cover for maintaining the healthcare industry status quo.
 
@@ -51,7 +51,7 @@ Hawaii's unique healthcare context (employer mandate since 1974) means insurance
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Josh Green is a physician-governor in America's most expensive healthcare system. Hawaii has the best health outcomes of any state and the longest life expectancy; it also has the highest cost of living and healthcare access concentrated among employed populations. Green spent 20 years as an ER doctor seeing patients without insurance and under-resourced (many undocumented immigrants, low-income residents). He then became governor during the state's greatest crisis: the August 2023 Maui wildfires, which killed 102 people and burned 6,200+ acres.
@@ -60,7 +60,7 @@ Hawaii's unique healthcare context (employer mandate since 1974) means insurance
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Healthcare Industry (Insurance, Hospital Systems, Pharma):
 - [[UnitedHealth Group - Optum|UnitedHealth Group]]/Optum and other insurers
@@ -84,7 +84,7 @@ Hawaii's unique healthcare context (employer mandate since 1974) means insurance
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Green is the physician-governor whose signature healthcare achievement is a tax cut for healthcare providers ($74M/year). His HECO donors ($19K+) received a settlement that capped their liability at $1.99B against $5.5B in actual wildfire damages. The "doctor" brand provides cover for industry accommodation.*
 
@@ -185,7 +185,7 @@ The material question: does the brand translate to policy challenging healthcare
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Green's disaster response to the August 2023 Maui wildfires (housing programs, $4B settlement negotiation) represents genuine crisis management and visible accountability to affected communities. His healthcare worker support and SB 1035 reimbursement increases are real material gains. However, the structural limit is immediate: his response preserved private insurance company profitability while claiming healthcare equity. The settlement money flowed to established contractors and insurance adjusters rather than being restructured to create community ownership or public control of rebuilding infrastructure. Green managed the crisis without threatening the insurance industry's structural position.
 
@@ -193,7 +193,7 @@ The material question: does the brand translate to policy challenging healthcare
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Medical Expertise Authority:** Green frames policy decisions through healthcare professional expertise. When challenged on healthcare costs or access, response is framed as medical knowledge applied to complex problems — neutral expertise rather than political choice.
 
@@ -205,7 +205,7 @@ The material question: does the brand translate to policy challenging healthcare
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Josh Green donor profile](https://www.opensecrets.org/members-of-congress/) (Tier 1 — Hawaii statewide) (Tier 1)
 - [Governor Hawaii: Gov. Green Renews Commitment to House FEMA-Ineligible Maui Wildfire Survivors](https://governor.hawaii.gov/featured/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/) (Tier 1)
@@ -218,7 +218,7 @@ The material question: does the brand translate to policy challenging healthcare
 content-readiness:: ready
  
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

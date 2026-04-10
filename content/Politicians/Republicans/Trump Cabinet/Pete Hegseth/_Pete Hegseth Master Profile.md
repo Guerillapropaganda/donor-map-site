@@ -31,19 +31,19 @@ donors: [[Defense Contractors Bloc]] [[Concerned Veterans for America]] [[Koch N
 
 ---
 
-### Who He Is.
+## Who He Is.
 
 Pete Hegseth is Trump's Secretary of Defense. He is a Fox News television personality without traditional Pentagon expertise, Army National Guard veteran with combat deployments to Iraq and Afghanistan, and former executive director of Concerned Veterans for America, a Koch network organization advocating VA privatization. His appointment signals ideological alignment with Trump over bureaucratic qualification. His confirmation in January 2025 succeeded by VP Vance's tie breaking vote after three Republican senators opposed him. He is one of the most contested Cabinet nominees in recent history.
 
 ---
 
-### The Central Thesis.
+## The Central Thesis.
 
 Hegseth's appointment represents the transformation of the Pentagon into an ideological arm of Trump's political project rather than an independent military institution. He was selected for media presence and political loyalty, not strategic expertise or administrative experience. His main credential is a willingness to weaponize defense policy for Trump's messaging needs and to implement the Koch network's privatization agenda at the Pentagon. The defense secretary's role under Hegseth has shifted from managing military readiness to performing military readiness for cable television.
 
 ---
 
-### The Core Contradiction.
+## The Core Contradiction.
 
 Hegseth frames himself as the warrior champion of American troops while implementing DOGE cuts that systematically gut military readiness, decimate the civilian workforce that supports active duty personnel, and redirect funds from logistics and supply chains to weapons production. He requested $200 billion in supplemental funding for Iran war operations while simultaneously pushing Pentagon budget cuts and civilian hiring freezes. He cut tuition assistance to military families at elite universities while defending Pentagon excess spending on luxury food purchases. The contradiction reveals that his project is not military strength but military theater.
 
@@ -61,7 +61,7 @@ Hegseth's career path reveals a deliberate routing of ideological assets from me
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Hegseth has no traditional campaign finance trail — he moved from Koch-funded think tank executive to Fox News personality to Cabinet appointment. The "donor" here is a network pipeline: CVA funded him as an ideological asset, Fox News built his political viability, and defense contractors now benefit from the Pentagon policies he implements. The investment is in the pipeline, not in a campaign contribution.*
 
@@ -152,7 +152,7 @@ Intelligence analysis of Iran war preparedness in 2026 shows military readiness 
 
 ---
 
-### Rhetorical Signature Moves.
+## Rhetorical Signature Moves.
 
 Warrior authenticity theater. Hegseth consistently positions himself as the "warrior champion of the troops" by emphasizing his combat deployments and military rank. He wears military language and references his National Guard service. But his actual policies degrade military readiness, cut support for military families, and implement DOGE efficiency measures that harm the enlisted personnel he claims to represent. The rhetoric creates distance from the policy outcomes.
 
@@ -164,7 +164,7 @@ Populist anti-elite positioning. Hegseth presents himself as an outsider challen
 
 ---
 
-### Class Analysis: Who Wins, Who Loses, What Gets Paid.
+## Class Analysis: Who Wins, Who Loses, What Gets Paid.
 
 Hegseth's Pentagon serves three constituencies, in order of priority: defense contractors, ideological movement (Trump's base), and the military institution itself. His policies consistently extract resources from two and redirect to one.
 
@@ -218,7 +218,7 @@ No ethics filing shows Hegseth divested defense contractor stocks before taking 
 
 ---
 
-### Sources.
+## Sources.
 
 - [NPR: Pete Hegseth Senate Confirmation](https://www.npr.org/2025/01/24/nx-s1-5272854/trump-cabinet-picks-pete-hegseth-senate-confirmation-vote) (Tier 2)
 - [CBS News: Pete Hegseth Confirmation Vote 51-50](https://www.cbsnews.com/news/pete-hegseth-confirmation-vote-senate-defense-secretary/) (Tier 2)

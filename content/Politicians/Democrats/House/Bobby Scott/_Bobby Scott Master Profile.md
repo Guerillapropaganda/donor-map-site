@@ -42,7 +42,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Bobby Scott has represented Virginia's 3rd Congressional District since 1993 — over three decades. He was the first Black congressman from Virginia since Reconstruction. His district spans the Hampton Roads region: Norfolk, Newport News, and parts of Richmond. It's a majority-minority district anchored by military installations (Naval Station Norfolk, Newport News Shipbuilding) and historically Black communities.
 
@@ -52,20 +52,20 @@ Scott is one of the most consistent labor-aligned Democrats in the House, with n
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivism. He authored the Raise the Wage Act, championed the PRO Act, architected the Every Student Succeeds Act, and secured the $90 billion American Rescue Plan pension bailout. The pension rescue passed. The wage increase didn't. The PRO Act didn't. ESSA passed only because it served bipartisan deregulation interests. The pattern: Scott gets his wins when they align with or don't threaten corporate power. When they do threaten it, the bills die in the Senate — and the system works exactly as the donor class designed it.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Scott's contradiction is not personal — it's structural. He is genuinely aligned with labor. His voting record, his legislation, and his donor base all point the same direction. The contradiction is that three decades of genuine commitment to workers' rights, positioned at the exact committee where labor legislation originates, has produced one major win (pension rescue) and a graveyard of dead bills. The Raise the Wage Act has been introduced four or more times. The PRO Act passed the House and died in the Senate. The committee chair who writes the bills that workers need cannot get them past the donor-class veto point in the Senate. Scott is the proof that the system isn't broken — it's working. The blockage is the feature.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising (2024 cycle):
 - Total raised: modest by House standards (safe district, no competitive races)
@@ -79,7 +79,7 @@ Bobby Scott is the labor movement's legislative architect — the committee chai
 4. AFSCME (American Federation of State, County and Municipal Employees)
 5. AFL-CIO
 
-### Industry Sectors:
+## Industry Sectors:
 - Public sector unions (education, government workers)
 - Building trades
 - Lawyers & law firms
@@ -93,7 +93,7 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Teachers' Unions → Education Policy
 | Date | Type | Event | Donor | Amount | Gap |
@@ -113,7 +113,7 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The defining pattern. The pension rescue ($90 billion) passed because it was embedded in the American Rescue Plan — a must-pass COVID relief bill where the political cost of blocking it was too high. The Raise the Wage Act and PRO Act, introduced as standalone legislation, died in the Senate where the donor-class veto operates. Scott's genuine wins happen when they're smuggled past the structural limit. His standalone labor bills hit the wall every time.
 
@@ -123,7 +123,7 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Every worker deserves..."** — The moral framing that precedes legislative proposals that will die in the Senate. The language is sincere. The structural reality is that moral framing doesn't overcome donor-class opposition.
 
@@ -140,7 +140,7 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Bobby Scott donor profile](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
 - [FEC Candidate: Bobby Scott industry donors](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
@@ -196,7 +196,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

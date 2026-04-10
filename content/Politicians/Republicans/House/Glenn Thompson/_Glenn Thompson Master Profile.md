@@ -32,7 +32,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Glenn "GT" Thompson represents Pennsylvania's 15th Congressional District and chairs the House Agriculture Committee — the body that writes the Farm Bill, the single largest piece of legislation governing federal agriculture, nutrition, and rural programs. He is the first Pennsylvanian to chair the Agriculture Committee in nearly 170 years.
 
@@ -42,7 +42,7 @@ His gavel controls the Farm Bill — a five-year authorization that typically ru
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Glenn Thompson is the agribusiness industry's Farm Bill architect — the committee chair who writes the legislation that determines who gets fed and who gets subsidized, funded by the industries that benefit from the answer. Since becoming chair in 2023, he became the single largest House recipient of agribusiness PAC money ($158,000+ in the 2024 cycle), and one of every seven PAC dollars he received in the first half of 2023 came from organizations that had never donated to him before. The gavel created the donor base.
 
@@ -50,14 +50,14 @@ His Farm Bill approach tells the story: $53 billion increase in farm subsidies (
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Thompson voted against the Respect for Marriage Act — legislation protecting same-sex marriage — three days before attending his own gay son's wedding. He told his son in advance that he'd vote against it. At the wedding, he gave a speech about how "blessed" he felt. This personal contradiction mirrors his policy contradiction: he represents rural Pennsylvania communities that depend on SNAP for food security while cutting $30 billion from SNAP to fund $53 billion in farm subsidies for the agribusiness corporations that fund his campaign. In both cases, Thompson chooses the donor class (party orthodoxy, agribusiness money) over the people closest to him (his son, his constituents).
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - #1 House recipient from: Agricultural services, Crop production, Dairy, Farm bureaus, Sugar cane & sugar beets (2022 cycle)
@@ -87,7 +87,7 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Agribusiness → Farm Bill Subsidies
 | Date | Type | Event | Donor | Amount | Gap |
@@ -120,7 +120,7 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** Thompson's rural Pennsylvania constituents rely on SNAP at higher rates than the national average. His Farm Bill cuts $30 billion from SNAP while adding $53 billion to farm subsidies for the agribusiness corporations that fund him. The donor class (agribusiness) gets the subsidy increase. The constituency gets the nutrition cut. Same bill, opposite outcomes, same chair.
 
@@ -132,7 +132,7 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"As a descendant of dairy farmers"** — The heritage credential that positions agribusiness policy as personal. The function: make subsidy expansion feel like family preservation rather than corporate welfare.
 
@@ -142,7 +142,7 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Glenn Thompson donor profile](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)
 - [FEC Candidate: Glenn Thompson industry donors](https://www.fec.gov/data/candidate/H8PA05071/) (Tier 1)

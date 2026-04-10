@@ -75,7 +75,7 @@ SORT title ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Cory Booker. Democrat, New Jersey. Senator since 2013. Former Mayor of Newark (2006-2013). 2020 presidential candidate. Member of the Judiciary, Foreign Relations, and Agriculture committees. In April 2025, Booker broke the Senate record for longest floor speech — 25 hours and 5 minutes — protesting Trump's health care and Social Security executive orders.
 
@@ -86,7 +86,7 @@ Booker is the most Wall Street-funded progressive in the Senate. New Jersey's ec
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Cory Booker is the Two-Audience Problem incarnate — and the pharma vote is the receipt.** His progressive brand (criminal justice reform, racial equity, environmental justice, veganism) plays to the national Democratic base. His donor profile (Wall Street, pharma, real estate) plays to New Jersey's corporate economy. The two audiences rarely collide — criminal justice reform does not threaten Goldman Sachs; veganism does not threaten Pfizer. But when they do collide, the donors prevail.
 
@@ -96,14 +96,14 @@ Booker later supported drug pricing reform in the Inflation Reduction Act (2022)
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Booker advocates for healthcare equity while representing the pharmaceutical industry's home state. He champions criminal justice reform while the First Step Act he co-authored left untouched the private prison profitability, prosecutorial incentive structures, and economic drivers of mass incarceration. His 2017 Canadian drug importation vote — cast as the Senate's largest pharma recipient — was the single most revealing vote of his career. His 2017 "pause" on pharma fundraising was a public relations response to criticism, not a principled stance: he continued accepting donations from pharmaceutical executives through 2019 and returned one only after ABC News reported it.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Wall Street / NJ Financial Corridor:
 - [[Goldman Sachs]] ($158,871), Morgan Stanley, Apollo Global, Prudential — $2.2M from securities/investment in 2013-14 alone. NJ's economic geography makes this structural: the financial corridor between Manhattan and Newark generates the donor base. No aggressive financial regulation; Judiciary Committee access.
@@ -119,7 +119,7 @@ Booker later supported drug pricing reform in the Inflation Reduction Act (2022)
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Booker is the Two-Audience Problem incarnate — progressive brand for the national base, corporate donor profile for NJ's economy. When the two audiences collide, the donors prevail. The 2017 pharma vote is the receipt.*
 
@@ -173,7 +173,7 @@ The development was real. The question is who benefited: corporate headquarters 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Bipartisan Criminal Justice Reformer:** Booker partners with libertarian-right figures (Koch-funded Right on Crime, Rand Paul) on criminal justice, creating bipartisan credibility that makes the reform seem like common sense rather than structural critique. The bipartisan frame limits the analysis to federal sentencing mechanics and avoids the economic drivers of mass incarceration.
 
@@ -183,7 +183,7 @@ The development was real. The question is who benefited: corporate headquarters 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Two-Audience Problem (Severe — Primary Pattern):** Booker's progressive national brand and corporate New Jersey donor base create the widest gap between rhetoric and fundraising of any Senate Democrat. The gap is managed through issue selection: Booker pushes hardest on issues that do not threaten his donor base (criminal justice, food policy, racial equity, veganism) and treads carefully on issues that do (drug pricing, financial regulation). When the two audiences collide — as in the 2017 pharma vote — the donors prevail.
 
@@ -193,7 +193,7 @@ The development was real. The question is who benefited: corporate headquarters 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Cory Booker campaign finance summary](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 - [FEC Candidate: Cory Booker top industries](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
@@ -214,7 +214,7 @@ The development was real. The question is who benefited: corporate headquarters 
 profile-status:: ready
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -256,7 +256,7 @@ content-readiness:: ready
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
@@ -319,7 +319,7 @@ _No committee data found for the 119th Congress._
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

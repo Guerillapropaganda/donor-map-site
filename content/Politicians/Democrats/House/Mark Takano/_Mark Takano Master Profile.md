@@ -31,7 +31,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Mark Takano represents California's 39th Congressional District (Riverside, Moreno Valley, Jurupa Valley, Perris) and is the Ranking Member of the House Veterans' Affairs Committee. He chaired the committee in the 117th Congress (2021-2023), during which the PACT Act — the largest expansion of VA benefits in decades — was signed into law.
 
@@ -41,7 +41,7 @@ He is also known for introducing the 32-Hour Workweek Act (four-day work week le
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Mark Takano is the PACT Act's Democratic architect — the chairman who shepherded the largest VA healthcare expansion in decades through committee and into law. His donor profile is modest: labor unions, teachers' unions, LGBTQ advocacy groups, and small donors. No private healthcare industry money drives his VA agenda. No defense contractor money shapes his committee work.
 
@@ -49,14 +49,14 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Takano's PACT Act is his defining achievement — expanding VA healthcare for 3.5 million toxic-exposed veterans. But the bill's implementation depends on VA staffing that the Trump administration is cutting, and Takano cannot stop those cuts from the minority. The law exists. The workforce to implement it is being eliminated. The ranking member who wrote the law has no institutional mechanism to protect it. This isn't a contradiction between rhetoric and record — it's a contradiction between legislative achievement and institutional power. Takano delivered the law. The committee structure prevents him from defending it.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Labor unions: significant (teachers' unions, public sector, building trades)
@@ -86,7 +86,7 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: PACT Act → Implementation Under Threat
 | Date | Type | Event | Donor | Amount | Gap |
@@ -108,7 +108,7 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The PACT Act is a genuine, historic win — 3.5 million toxic-exposed veterans gained healthcare access. The structural limit: the law's implementation depends on executive branch staffing that the opposition party's administration is cutting. Takano can write laws but not control their implementation when Republicans hold the White House. The institutional gap between legislation and execution is the structural limit.
 
@@ -118,7 +118,7 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"We made a promise to our veterans"** — The covenant framing for VA benefits. The function: make PACT Act implementation sound like honoring a sacred obligation rather than a budget line item — making cuts feel like broken promises.
 
@@ -128,7 +128,7 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Mark Takano donor profile](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1)
 - [Congress.gov: Mark Takano](https://www.congress.gov/member/mark-takano/T000472) (Tier 1)

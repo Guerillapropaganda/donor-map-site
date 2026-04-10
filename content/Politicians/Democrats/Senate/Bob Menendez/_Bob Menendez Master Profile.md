@@ -43,7 +43,7 @@ profile-status:: developed
 
 ---
 
-### Who He Is
+## Who He Is
 
 Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services fraud. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee — the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
 
@@ -53,20 +53,20 @@ Career arc: Union City Mayor → NJ State Legislature → U.S. House (1993-2006)
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Menendez is the vault's most extreme case of the foreign policy-to-corruption pipeline. His SFRC chairmanship gave him unilateral power to block nominations, hold hearings, and shape every diplomatic relationship. He used that power to serve three constituencies simultaneously: the Miami Cuban exile community (Cuba embargo enforcement), the Israel lobby (JCPOA opposition), and — most damningly — foreign governments that paid cash and gold for his official acts. He is the proof that the donor-class model isn't just about campaign contributions; when the institutional controls fail, it scales to outright bribery.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Menendez built his public brand as an anti-corruption champion and human rights defender — particularly on Cuba, where he framed the embargo as a moral stand against authoritarianism. Meanwhile, he was accepting cash, gold bars, and a Mercedes-Benz from Egyptian businessmen and officials in exchange for using his SFRC chairmanship to benefit the Egyptian military government. The "anti-corruption" senator was the most corrupt member of the chamber. The "human rights" champion sold his committee power to authoritarian governments. The man who insisted on maximum pressure against Cuba's dictatorship was literally a paid agent of Egypt's.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Menendez's donor map operates on two levels: the legal campaign finance layer (NorPAC, AIPAC, law firms, real estate) and the illegal bribery layer (Egypt, Qatar, Salomon Melgen). The legal layer funded the career; the illegal layer was the career's product — the monetization of committee power.
@@ -101,7 +101,7 @@ He opposed Obama-Castro normalization (2014), calling it "a reward that a totali
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -116,7 +116,7 @@ He opposed Obama-Castro normalization (2014), calling it "a reward that a totali
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Both-Sides Illusion:** Menendez (D) and Rubio (R) — from opposite parties — enforced identical Cuba embargo policy from different institutional positions (SFRC vs. State Department). Both funded by AIPAC and the exile community. The bipartisan Cuba consensus is donor-funded, not constituency-driven.
 
@@ -126,7 +126,7 @@ He opposed Obama-Castro normalization (2014), calling it "a reward that a totali
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Bob Menendez campaign finance summary](https://www.fec.gov/data/candidate/H2NJ08232/) (Tier 1)
 - [OpenSecrets: Menendez used donor cash for legal costs ahead of conviction](https://www.opensecrets.org/news/2024/07/menendez-used-donor-cash-for-legal-costs-ahead-of-conviction/) (Tier 2)

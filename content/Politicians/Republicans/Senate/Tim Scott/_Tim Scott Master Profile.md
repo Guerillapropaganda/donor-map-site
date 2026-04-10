@@ -40,7 +40,7 @@ SORT file.name ASC
 
 ---
 
-### Who They Are
+## Who They Are
 
 Tim Scott, U.S. Senator from South Carolina (2013–present). Chairman of the Senate Banking, Housing, and Urban Affairs Committee (2025–present; Ranking Member 2023–2024). Also serves on the Finance Committee and Foreign Relations Committee. Only Black Republican senator. 2024 presidential candidate (suspended November 2023). Author of Opportunity Zones legislation in the 2017 Tax Cuts and Jobs Act. Evangelical Christian. Endorsed Trump for president in January 2024 after dropping his own bid; became VP shortlist finalist before JD Vance was selected.
 
@@ -50,22 +50,22 @@ Tim Scott, U.S. Senator from South Carolina (2013–present). Chairman of the Se
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Tim Scott is the Republican donor class's most structurally valuable senator: a Black conservative who provides racial cover for economic policies that harm Black communities, occupying the chairmanship of the committee that regulates the industries funding him. His signature legislative achievement — Opportunity Zones — was marketed as helping distressed neighborhoods but functioned as a $1.6 trillion tax shelter for real estate developers and hedge funds. His career donor profile is dominated by Wall Street ($4.5M securities/investment, $3.7M real estate, $2.2M insurance, $882K commercial banks — over $11M from the financial sector alone), and he now chairs the committee with jurisdiction over all of them. His 2024 presidential campaign raised $45.8M combined (campaign + outside groups), funded overwhelmingly by billionaires and financial industry donors — Jeffrey Yass ($600K to his super PAC), Stanley Druckenmiller ($150K), Nelson Peltz — while polling under 5% with actual voters. When the donor money couldn't translate to votes, Scott dropped out, endorsed Trump, and was rewarded with the Banking Committee chairmanship. The donor class gets both the racial cover and the committee gavel; Scott gets institutional power.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > **Scott markets himself as proof that "America is not a racist country" while chairing the committee that regulates the industries paying him to ensure wealth flows upward, away from Black communities.** His Opportunity Zones — presented as his signature achievement for distressed (disproportionately Black) neighborhoods — delivered tax breaks to developers who explicitly targeted wealthy, gentrifying areas. Cadre, the Kushner-linked investment firm, publicly stated it had no interest in zones with "unfavorable growth prospects" and targeted Upper East Side Manhattan, Miami Beach, and Menlo Park instead of the Mississippi Delta or Detroit. Scott champions the policy while its primary beneficiaries openly bypass poor communities. His "opportunity" rhetoric provides the moral framing; the capital flows tell the opposite story.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance
 
@@ -97,7 +97,7 @@ Tim Scott is the Republican donor class's most structurally valuable senator: a 
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 ### Opportunity Zones — The Flagship
 
@@ -121,7 +121,7 @@ Scott's presidential bid raised $45.8M combined: $12.5M campaign committee, $22M
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"America is not a racist country"** — Scott's most famous public statement (2021 State of the Union response). Functions as permission structure for the Republican donor class: if the only Black Republican senator says systemic racism doesn't exist, then policies that concentrate wealth upward cannot be racist by definition. The statement makes class analysis impossible within the Republican frame.
 
@@ -133,7 +133,7 @@ Scott's presidential bid raised $45.8M combined: $12.5M campaign committee, $22M
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Opportunity Zones):** Scott authored genuine legislation (Tax Cuts and Jobs Act, 2017) that delivered real tax benefits — but exclusively to real estate developers and investors. The zones were real; the investment was real; the benefits to poor communities were structurally limited by design. QOFs have no requirement to hire locally, build affordable housing, or serve existing residents. The genuine policy achievement stops precisely at the point where it would threaten donor returns.
 
@@ -147,7 +147,7 @@ Scott's presidential bid raised $45.8M combined: $12.5M campaign committee, $22M
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Tim Scott campaign finance summary (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
 - [FEC Candidate: Tim Scott top industries (career)](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
@@ -181,7 +181,7 @@ content-readiness:: developed
 - [Source: Congress.gov](https://www.congress.gov/member/A000383) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

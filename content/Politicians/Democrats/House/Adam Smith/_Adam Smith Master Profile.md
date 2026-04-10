@@ -35,26 +35,26 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Adam Smith. Democrat, Washington's 9th Congressional District (Redmond to Tacoma — Boeing country). First elected 1996. Ranking Member, House Armed Services Committee — the committee that writes the annual National Defense Authorization Act (NDAA), the single largest discretionary spending bill in the federal budget. Served as chairman 2019-2023. Self-described "raging moderate." Member of the New Democrat Coalition (pro-business caucus). 60% of his campaign donations come from PACs, with defense contractors dominating the pipeline. Created a leadership PAC called ADAM (American Defense & Military) PAC — virtually 100% funded by defense contractors and lobbyists.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — [[Boeing]], [[Northrop Grumman]], and [[Raytheon (RTX)|Raytheon]] — are three of the Big Five defense contractors. He calls himself progressive on domestic issues while opposing progressive efforts to cut the Pentagon budget, labeling colleagues who want a 20% reduction "extremists." The defense industry doesn't just fund him — it defines him. His leadership PAC is literally named after defense and military interests, and it is funded exclusively by them.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Smith publicly supports campaign finance reform, states that "corporations are not people," and calls for overturning Citizens United. Meanwhile, **60% of his campaign comes from PACs** — dominated by the defense contractors his committee oversees. His top three career donors ([[Boeing]] at $163,450, [[Northrop Grumman]] at $150,250, [[Raytheon (RTX)|Raytheon]] at $117,000) total **$430,700 from just three weapons manufacturers.** His leadership PAC (ADAM PAC) raised $51,000 — virtually all from defense contractors and lobbyists. The man who wants to get money out of politics has built his entire political operation on money from the industry his committee regulates.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising Overview:
 - 60% of campaign donations from PACs
@@ -78,7 +78,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -92,7 +92,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Two-Audience Problem:** Smith tells progressive voters he supports campaign finance reform, Medicare for All, climate action, and gun control. He tells the defense industry — through his PAC structure, his votes, and his committee leadership — that the Pentagon budget is sacrosanct. When progressives proposed a 10% Pentagon cut in July 2020, Smith didn't just vote no — he called supporters of a 20% cut "extremists." Not Trump. Not a Republican. The Democratic chairman of the Armed Services Committee called his own party's peace caucus extremists — while cashing $235,750 from defense PACs that same cycle.
 
@@ -102,7 +102,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Raging Moderate:** Smith was once described as a "raging moderate" by the Seattle Times. This self-identification as moderate — in a safe Democratic district — serves to preemptively deflect criticism from the left. He's not captured by defense money; he's simply "moderate." The framing turns structural alignment with the military-industrial complex into a personality trait.
 
@@ -112,7 +112,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 ---
 
-### Sources
+## Sources
 
 - ~~[FEC Candidate: Adam Smith campaign finance summary](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~[FEC: Adam Smith candidate filings](https://www.fec.gov/data/candidate/H6WA09025/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -152,7 +152,7 @@ content-readiness:: ready
 - ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

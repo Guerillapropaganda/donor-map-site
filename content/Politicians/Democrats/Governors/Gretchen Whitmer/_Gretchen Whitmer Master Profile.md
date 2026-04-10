@@ -43,26 +43,26 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Gretchen Whitmer. Governor of Michigan (2019–present). Former Michigan State Senate Minority Leader. Re-elected in 2022 by 10+ points in a competitive swing state. Democratic Governors Association vice chair as of late 2025. Survived a domestic terror kidnapping plot (2020) by militia extremists. Author of *True Gretch* (2023). Known for "Fix the Damn Roads" infrastructure branding and the "Big Gretch" persona — magenta lipstick, no-nonsense Midwestern affect, relatable toughness. Successfully campaigned alongside Michigan's Proposal 3 (2022) which enshrined reproductive rights in the state constitution. Net worth: estimated $1–2 million (modest by major politician standards). Currently one of the top-tier names for 2028.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Whitmer is the donor class's ideal 2028 vehicle — progressive branding (reproductive rights, infrastructure, "Fix the Damn Roads") layered over a pro-business, auto industry-aligned governing record. Michigan's EV manufacturing subsidies are simultaneously good climate policy AND massive corporate welfare for donors. The question is whether the progressive wins are real or are the marketing budget for corporate-friendly governance. The kidnapping plot made her a martyr of democratic norms; reproductive rights gave her a genuine constituency win; but the SOAR fund — $1.75 billion to Ford, hundreds of millions to GM, with 200 jobs produced after $1 billion spent — is where donor-class interests and governing record converge. Whitmer is the candidate who can say "I fought for your abortion rights" while distributing $2 billion in taxpayer money to the auto executives who fund her campaigns.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Michigan's EV battery plant subsidy program — the SOAR fund — spent over $1 billion in taxpayer money and produced approximately 200 jobs as of 2024, one-fifth of the 24,966 jobs promised across major deals. The Ford battery plant in Marshall received $1.75 billion in state subsidies and was named "2023's Worst Economic Development Deal of the Year" by the Center for Economic Accountability. After Michigan spent "big on subsidies," Ford retreated from EVs. GM sold its stake in a state-subsidized Michigan EV battery factory. The political groups tied to Whitmer ran a dark-money PR campaign against Marshall-area residents who opposed the Ford deal. The governor who built her brand on "Fix the Damn Roads" — on infrastructure serving ordinary Michiganders — built her second-term economic record on corporate giveaways to the same auto executives whose executives donated to her campaign. The roads and the reproductive rights are real. The EV industrial policy may be the most expensive corporate welfare program in Michigan history.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Auto Industry Alliance:
 - [[The Auto Industry Alliance and EV Manufacturing Subsidies]] — Ford, GM, Stellantis donor relationships; the SOAR fund ($2B created 2022); $1.75B Ford Marshall plant deal (named worst economic development deal of 2023); GM Orion Township subsidies; GM CEO Mary Barra direct donation; auto executive bundler networks; the fine line between industrial policy and corporate welfare.
@@ -72,7 +72,7 @@ Gretchen Whitmer. Governor of Michigan (2019–present). Former Michigan State S
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Whitmer's Proposal 3 (reproductive rights) is a genuine policy win that doesn't reduce to donor-class interests — it represents a real constituency demand (Michigan women) that won against structures that might have opposed it. The "Fix the Damn Roads" infrastructure spending is similarly real. However, the structural limit is stark: the SOAR fund corporate welfare ($1B+ spent, ~200 jobs created) demonstrates that Whitmer will use public funds and executive discretion to benefit auto industry donors, producing policy outcomes that directly contradict her infrastructure branding. She can deliver genuine working-class wins and donor-class corporate welfare simultaneously. The former provides cover for the latter.
 
@@ -95,7 +95,7 @@ Not every Whitmer win is donor-class service. The analytical framework demands a
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Whitmer demonstrates the progressive cover formula — genuine constituency wins (Proposal 3 reproductive rights) provide political cover for corporate welfare (SOAR fund $1.75B Ford deal). The class analysis requires holding both simultaneously.*
 
@@ -128,7 +128,7 @@ Not every Whitmer win is donor-class service. The analytical framework demands a
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Midwestern everyman:** "Fix the Damn Roads" — Whitmer positions herself as a practical problem-solver who cuts through ideological noise. The affect is authentic; the donor base is not.
 2. **The survivor narrative:** The kidnapping plot, the COVID pandemic, the reproductive rights fight — Whitmer's brand is built on having faced real adversity. The narrative is accurate. It also functions to insulate against policy critique.
@@ -138,7 +138,7 @@ Not every Whitmer win is donor-class service. The analytical framework demands a
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Gretchen Whitmer 2022 contributors and industries](https://www.opensecrets.org/officeholders/gretchen-e-whitmer/industries?cycle=2022&id=253478) (Tier 1)
 - ~~[FollowTheMoney: Gretchen Whitmer donor profile](https://www.followthemoney.org/entity-details?eid=253478)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)

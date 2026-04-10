@@ -38,7 +38,7 @@ SORT title ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Lauren Boebert. Republican Representative, originally from Colorado's 3rd District (2021-2025), relocated to Colorado's 4th District for the 2024 cycle after barely surviving her 2022 re-election by 546 votes. Gun rights activist, former owner of Shooters Grill (a gun-themed restaurant in Rifle, Colorado), Freedom Caucus Communications Chair. No college degree. No prior political experience before 2020.
 
@@ -53,13 +53,13 @@ The 2024 collapse is the key data point: once Boebert moved to a safe R+26 seat,
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Boebert is the culture war economy personified: she converts media attention into campaign donations without producing legislation or serving donor-class interests in the traditional sense.** Her fundraising operates outside the committee-jurisdiction-to-donor pipeline that governs most members. Instead, she monetizes outrage — each controversial statement generates media coverage, which generates small-dollar donations, which funds the next cycle of outrage. But her real structural function is as an energy-sector proxy: her husband earned $938,987 from oil and gas consulting while she legislated to open federal lands for drilling, and she has passed multiple energy-industry bills through appropriations riders — all while maintaining the public appearance of grassroots populism.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Boebert's national brand — the gun-toting, lib-owning, anti-establishment firebrand — conceals a conventional energy-sector conflict of interest. While her public persona suggests independence from institutional donors, the money trail tells a different story:
 
@@ -85,7 +85,7 @@ Boebert's move from CO-3 to CO-4 is a case study in the culture-war economy's li
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Sector | Key Donors | What They Want | What They Get |
 |--------|-----------|---------------|---------------|
@@ -141,7 +141,7 @@ The restaurant was never a successful business — it was a brand-building exerc
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Anti-Establishment Outsider:** Boebert frames herself as the working-class restaurant owner who went to Washington to fight the elite. The framing obscures her family's near-million-dollar oil and gas income and her seeding by institutional conservative PACs.
 
@@ -151,7 +151,7 @@ The restaurant was never a successful business — it was a brand-building exerc
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Self-Funding as Independence (inverted):** Boebert's small-dollar model is presented as evidence of grassroots independence — she serves "the people," not PACs. The reality: she was seeded into Congress by Club for Growth and Cruz PAC money, her family income comes from oil and gas consulting, and her legislative output serves energy interests. The small-dollar fundraising is real but functions as camouflage for conventional industry-proxy behavior.
 
@@ -163,7 +163,7 @@ The restaurant was never a successful business — it was a brand-building exerc
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Lauren Boebert campaign finance summary](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)
 - [FEC: Lauren Boebert committee filings](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)

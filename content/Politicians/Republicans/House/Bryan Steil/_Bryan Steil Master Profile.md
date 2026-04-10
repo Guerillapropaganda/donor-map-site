@@ -31,7 +31,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Bryan Steil represents Wisconsin's 1st Congressional District (southeast Wisconsin — Janesville, Racine, Kenosha) and chairs the House Administration Committee — the committee with jurisdiction over federal election law, campaign finance, House operations, FEC oversight, contested elections, and the Capitol complex. He also serves on the Financial Services Committee.
 
@@ -41,7 +41,7 @@ The House Administration Committee is often called "the Mayor of Capitol Hill" �
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Bryan Steil chairs the committee that writes federal election law — and his top donor sector is securities and investment ($721,840 in 2023-2024 alone), with Blackstone Group as a top individual donor ($56,500). Wall Street banks (Wells Fargo, Morgan Stanley, Citigroup, BMO) and major corporations (Comcast, Deloitte, Koch Industries) all gave maximum PAC contributions. The committee that governs how money flows into elections is chaired by a congressman funded by the financial industry that benefits most from the current campaign finance system.
 
@@ -49,14 +49,14 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Steil chairs the committee that oversees campaign finance law and FEC enforcement. His committee investigates how money flows into politics. His own top donor sector ($721,840 from securities & investment in one cycle) is the financial industry that benefits most from loose campaign finance regulation. Steil launched an investigation into ActBlue (Democratic online donation platform) for alleged donation verification failures — while his own campaign accepts maximum PAC donations from the same Wall Street institutions that the campaign finance system was designed to regulate. The committee chair investigating how Democrats raise money is funded by the same Wall Street PACs that fund both parties. The campaign finance cop is on the financial industry's payroll.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising (2023-2024):
 - Securities & investment: $721,840 (#1 sector)
@@ -87,7 +87,7 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Wall Street → Campaign Finance / Election Law
 | Date | Type | Event | Donor | Amount | Gap |
@@ -111,7 +111,7 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (systemic):** Steil's Wall Street funding doesn't override his constituents' interests on a single policy issue — it overrides democratic infrastructure itself. The election laws his committee writes determine who votes, how campaigns are financed, and which candidates are viable. When Wall Street funds the election-law chairman, it's not buying a vote on banking regulation. It's buying influence over the rules of the game that determine every other policy outcome.
 
@@ -123,7 +123,7 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Election integrity"** — The framing that makes voting restrictions sound like fraud prevention. The function: position restrictions on who can vote as protection of the vote's value rather than suppression of eligible voters.
 
@@ -133,7 +133,7 @@ Steil's election reform agenda — the "Make Elections Great Again" (MEGA) Act �
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Bryan Steil donor profile](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)
 - [FEC Candidate: Bryan Steil industry donors](https://www.fec.gov/data/candidate/H8WI01156/) (Tier 1)

@@ -47,7 +47,7 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Tom Cole. Republican, Oklahoma's 4th Congressional District (Norman, Lawton, southern Oklahoma City suburbs — home to Fort Sill, Tinker Air Force Base, and the Chickasaw Nation). First elected 2002. Chairman, House Appropriations Committee — elected to the gavel April 2024, making him the first Native American and first Oklahoman to control the spending committee. Former Chairman of the NRCC (2006-2008). Former RNC Chief of Staff (1999-2001). Member of the Chickasaw Nation — the longest-serving Native American in the history of the U.S. House of Representatives.
 
@@ -62,20 +62,20 @@ A congressman who controls $1.7 trillion in annual discretionary spending raises
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Tom Cole is the man who writes the checks. As Appropriations Chairman, he controls the allocation of approximately $1.7 trillion in annual federal discretionary spending across 12 appropriations bills — half of which goes to defense. His district is built on military bases and energy production. His donors are the defense contractors and energy companies that receive the money he allocates. His committee position doesn't just attract donor money — it IS the donor money. Every defense contractor, every oil company, every healthcare system that depends on federal appropriations must pass through Cole's committee. The Appropriations gavel is the most direct pipeline between campaign contributions and federal spending decisions in the entire Congress, and Cole sits at the valve.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Cole brands himself as a **fiscal conservative** who lectures about deficit reduction and government overspending. He simultaneously chairs the committee that approves **$1.7 trillion in annual discretionary spending** and has never voted against a defense appropriations bill. His personal net worth grew from **$3.2 million (2008) to $9.4 million (2024)** while in office — largely through his consulting firm partnership, real estate appreciation, and personal holdings in oil and energy stocks. He owns energy stocks while directing energy appropriations. He votes for every defense spending bill while defense PACs fund his campaigns. The fiscal conservative who controls the checkbook has never closed it.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising Overview:
 - 2024 cycle: 44.81% PAC contributions, 49.42% large individual contributions, 4.09% small donors
@@ -93,7 +93,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 > [!money]
 > **The Appropriations Premium:** Cole's fundraising structure reveals the unique power of the Appropriations gavel. Unlike authorizing committees that set policy but not funding levels, Appropriations directly controls dollar amounts flowing to contractors, agencies, and programs. Every defense contractor, pharmaceutical company, energy firm, and healthcare system that depends on federal funding has a financial interest in who holds this gavel. Cole's 44.81% PAC rate is actually lower than many Appropriations members because his safe Oklahoma seat reduces competitive pressure — the money comes regardless because the jurisdiction demands it. The Appropriations Chairman doesn't need to fundraise aggressively. The money comes to him.
 
-### Key Donor Connections:
+## Key Donor Connections:
 - [[Boeing]] — major defense contractor; Boeing operations at Tinker Air Force Base in adjacent OK-05 connect to Cole's district economy
 - [[Lockheed Martin]] — top defense contractor; dependent on Defense Appropriations Subcommittee for contract funding
 - [[Raytheon (RTX)|Raytheon]] — missile and defense systems; Cole's subcommittee controls their procurement budgets
@@ -107,7 +107,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -124,7 +124,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Tribal Sovereignty):** Cole has a legitimate record on tribal issues — 24 tribal bills sponsored, 200+ cosponsored, consistent advocacy for tribal self-determination, the Indian Healthcare Improvement Act, strengthening Violence Against Women Act protections for Native women, and the Tribal Labor Sovereignty Act. These are real policy wins. But Cole opposed online poker legislation that could have expanded tribal gaming revenue, stating it would "destroy an industry that employs tens of thousands" — protecting existing brick-and-mortar gaming interests (including non-tribal casinos) over tribal economic expansion. The wins are real; the structural limit protects the existing gaming industry's market position.
 
@@ -136,7 +136,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Fiscal Conservative Who Controls the Checkbook:** Cole regularly invokes deficit concerns and fiscal responsibility. He frames appropriations as "difficult choices" and "prioritization." But the Appropriations Chairman has never met a defense spending bill he didn't like. The fiscal conservatism is rhetorical cover for selective spending — cut domestic programs, fund defense and energy. The "tough choices" always land in the same direction.
 
@@ -148,7 +148,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Tom Cole campaign finance summary](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1)
 - [FEC Candidate: Tom Cole top industries](https://www.fec.gov/data/candidate/H6MO06013/) (Tier 1)
@@ -166,7 +166,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 - [Indianz.com: Cole on tribal sovereignty and self-determination](https://indianz.com/News/2023/11/27/tom-cole-promoting-tribal-sovereignty-and-self-determination-in-congress/) (Tier 2)
 - [Ballotpedia: Tom Cole (Oklahoma)](https://ballotpedia.org/Tom_Cole_(Oklahoma)) 
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -233,7 +233,7 @@ Tom Cole is the man who writes the checks. As Appropriations Chairman, he contro
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Tom%20Cole%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 

@@ -35,7 +35,7 @@ SORT file.name ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Markwayne Mullin. Republican Senator from Oklahoma (2023-2026), Cherokee Nation citizen, former plumbing company owner, and Trump's confirmed Secretary of Homeland Security as of March 23, 2026. Mullin served in the House (2013-2023) representing Oklahoma's 2nd District before winning the special election for Jim Inhofe's Senate seat. He brands himself as the "blue-collar senator" — a working-class plumber who built a multimillion-dollar business before entering politics.
 
@@ -45,7 +45,7 @@ He sits on the Armed Services Committee and the Environment and Public Works Com
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Mullin is the energy industry's blue-collar brand — a senator whose working-class narrative provides populist cover for fossil fuel donor priorities. His structural function: replace Jim Inhofe (the Senate's most famous climate denier) with a younger, more telegenic version of the same donor-class relationship. The policy continuity is complete; only the packaging changed. Oil and gas has been his top donor industry across his entire congressional career ($1.3 million total), and his voting record on energy policy is indistinguishable from Inhofe's.
 
@@ -53,7 +53,7 @@ The deeper story is the wealth accumulation. The New York Times documented that 
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Mullin's brand is the self-made Cherokee plumber who represents working people. The reality is a multimillionaire senator who violated the STOCK Act by failing to disclose millions in trades, whose businesses received $1.45 million in PPP loans during COVID, whose family sold a restaurant property to the Cherokee Nation for $700,000 above its assessed value, and whose stock portfolio — heavy in defense contractors — outperformed the market by 8% while he sat on the committee overseeing those same contractors.
 
@@ -62,7 +62,7 @@ Mullin's brand is the self-made Cherokee plumber who represents working people. 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Oil and Gas ($1.3M career total)
 Mullin's top donor industry across his entire career. [[Devon Energy]], Oklahoma's largest independent energy company, is his single biggest contributor ($104,950 from employees and PAC combined). His Environment and Public Works Committee seat gives him direct jurisdiction over EPA regulation and fossil fuel infrastructure — the exact regulatory framework his donors need managed.
@@ -129,7 +129,7 @@ The 15.57% self-financing rate and low small-dollar percentage undercut the "blu
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Blue-Collar Plumber**: Every policy position filtered through the small business owner narrative — regulations hurt plumbers, taxes hurt plumbers, government hurts plumbers. The plumbing company was sold for tens of millions; the brand remains.
 
@@ -139,7 +139,7 @@ The 15.57% self-financing rate and low small-dollar percentage undercut the "blu
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Markwayne Mullin donor profile](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
 - [FEC Candidate: Mullin industry donors (career)](https://www.fec.gov/data/candidate/S2OK00186/) (Tier 1)
@@ -224,7 +224,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412568) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

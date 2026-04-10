@@ -32,26 +32,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family fortune (Hyatt Hotels empire). Personal net worth: $3.6–3.7 billion. Family net worth: $33.5–36.9 billion (15th wealthiest globally, 11 billionaires in the family). Self-funded campaigns: $171M (2018) + $152M (2022) = $323M of his own money on two governor's races. DGA contributions: $24–27M (2022 cycle). Think Big America PAC: reproductive rights ballot measures. Illinois Future PAC: $12M+ into 2026 Illinois Senate primary. Probable 2028 presidential candidate. Sister Penny Pritzker: Obama Commerce Secretary. Offshore Bahamas trusts: 11 trust accounts, estimated $47M in avoided taxes. Removed five toilets from a $3.7M Chicago mansion to reduce its assessment and save $330K in property taxes. The billionaire who governs a state while minimizing what he pays it — and who may buy the presidency the same way he bought the statehouse.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > JB Pritzker is the Democratic donor class in its purest form: the donor IS the politician. He didn't need bundlers, super PACs, or industry favors — he wrote himself $323 million in checks. The self-funding eliminates the intermediary between wealth and power, but it doesn't eliminate the class function. Pritzker governs as a pro-labor, progressive Democrat — assault weapons ban, $15 minimum wage, abortion protections, cannabis legalization — while his family's Hyatt Hotels empire fights unionization, his offshore trusts shelter wealth from taxation, and his DGA contributions purchase influence over other states' elections. The contradiction isn't hypocrisy. It's the operating model of liberal billionaire politics: fund progressive policy from a fortune built on labor exploitation and tax avoidance, then use the progressive record to seek higher office.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > JB Pritzker calls himself "the most pro-labor, pro-worker governor in the nation" and signed legislation banning anti-union "captive audience" meetings. His family's Hyatt Hotels classifies housekeepers under conditions that produce 2x the injury rate of the lowest-injury hotel company — and fired ~100 Boston housekeepers in 2009, replacing them with minimum-wage subcontractors. His own entertainment cruise company warned employees against unionizing. He champions progressive taxation while holding 11 Bahamas trusts that sheltered an estimated $47M from the IRS. He removed toilets from a mansion to avoid $330K in property taxes. The billionaire signs the labor laws. The billionaire's companies fight the unions. The same person holds both positions — and the $3.6 billion fortune makes the contradiction sustainable.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The $323 Million Self-Funded Model:
 - [[The 323 Million Dollar Self-Funded Governor]] — $171M (2018) + $152M (2022). Record-breaking self-funded campaigns. $24-27M to DGA (purchased influence over other states' elections — DGA spent $19M in his primary to boost his preferred GOP opponent). Think Big America PAC: reproductive rights ballot measures. Illinois Future PAC: $12M+ into 2026 Senate primary. The self-funding doesn't eliminate donor influence — it concentrates it in one donor.
@@ -64,7 +64,7 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Pritzker's progressive legislative record (assault weapons ban, $15 minimum wage, abortion protections, cannabis legalization, SAFE-T Act bail reform) represents genuine wins that serve working-class constituencies and progressive base. These are not donor-class compatible policies that stop short — they are structural wins that threaten specific donor interests (gun manufacturers, cannabis competitors, real estate interests in criminal justice reform). Pritzker was willing to enact them. However, the structural limit is his personal wealth: $323M self-funded campaigns purchase freedom from specific donor relationships, but they create a different problem: a $3.6B fortune governs without donor accountability or democratic accountability. The money is the boss. The Bahamas trusts and the toilet removal demonstrate that the billionaire who signs progressive laws personally avoids the taxation those laws impose.
 
@@ -72,7 +72,7 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Pritzker inverts the standard donor model — he IS the donor class. The quid pro quo is not donation→policy but wealth→political power→policy environment that preserves wealth. $323M self-funded: the largest self-funded governor campaign in American history.*
 
@@ -104,7 +104,7 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The self-funded outsider:** Pritzker frames self-funding as freedom from special interests. The reality: the self-funder IS the special interest — $3.6B in wealth that governs without intermediary.
 2. **The progressive billionaire:** Assault weapons ban, abortion protections, cannabis legalization, $15 minimum wage. The progressive record is real. Its function: provide moral cover for a fortune built on labor exploitation and sheltered from taxation.
@@ -112,7 +112,7 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: JB Pritzker Campaign Finance](https://www.congress.gov/search?q=Jb%20Pritzker&searchResultViewType=expanded) (Tier 1)
 - [FEC: 2022 Illinois Governor Campaign Finance Filings](https://www.fec.gov/data/filings/) (Tier 1)

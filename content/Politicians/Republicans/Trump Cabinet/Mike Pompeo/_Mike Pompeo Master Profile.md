@@ -34,7 +34,7 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Mike Pompeo. 70th U.S. Secretary of State (April 2018–January 2021). Director of the CIA (January 2017–April 2018). U.S. Representative from Kansas's 4th Congressional District (January 2011–January 2017). Born December 30, 1963, Orange, CA. U.S. Military Academy at West Point, 1986 (first in his class). Harvard Law School, 1994. Army cavalry officer, 1986–1991 (left as captain). Koch-funded aerospace entrepreneur in Wichita, KS. Conservative politician dubbed "the Congressman from Koch."
 
@@ -42,20 +42,20 @@ Career arc: West Point → Army → Harvard Law → Koch-funded Wichita aerospac
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Pompeo is the Koch brothers' direct product — Koch Industries funded his Kansas congressional campaigns, he built his pre-political business career with Koch venture capital seed money, he served their interests at CIA and State, and his post-government career completed the revolving door. He represents the clearest Koch-to-government-to-industry pipeline in any modern Cabinet. Koch Industries' headquarters is in Wichita, Kansas. Pompeo represented Wichita. The overlap was not coincidence — it was the architecture. Since his first bid for Congress in 2010, Pompeo received $400,500 from Koch Industries, making him the top recipient of Koch-related congressional donations in the country. Each policy position — anti-Iran, climate denial, fossil fuel protection — served the Koch portfolio directly.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Pompeo graduated first in his class at West Point. As Secretary of State, he received the CIA's own assessment that Saudi Crown Prince [[Mohammed bin Salman]] (MBS) had ordered the assassination of Washington Post journalist Jamal Khashoggi. Pompeo traveled to Riyadh after the killing, met with MBS, and returned to publicly downplay the CIA's findings. He subsequently participated in the decision not to sanction MBS personally, despite the finding that he had ordered the murder of an American resident and journalist. The West Point Honor Code — "A cadet will not lie, cheat, steal, or tolerate those who do" — was the foundation of Pompeo's stated values. He built his political career on projecting personal integrity. He then helped cover for a state assassination of a journalist. The honor is decorative. The Koch-and-Saudi relationships are functional.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Koch Pipeline:
 - [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] — Koch Industries, headquartered in Wichita, KS-4, was Pompeo's top donor from his first campaign. $400,500 total from Koch Industries since 2010 — #1 recipient of Koch money among all federal politicians. Pompeo built his pre-political aerospace businesses with Koch Venture Capital seed money. He became president of Sentry International, an oilfield equipment manufacturer partnered with Koch Industries. The geographic overlap (KS-4 = Wichita = Koch headquarters) and the financial overlap (Koch money in both his business and his campaigns) made Pompeo uniquely the Koch network's congressional representative.
@@ -69,7 +69,7 @@ Saudi Arabia relationship → Koch Industries has business relationships with Sa
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Pompeo is the "Congressman from Koch" who graduated to Secretary of State — $450K+ in Koch money purchased wind energy obstruction, then the same network elevated him to CIA and State where he delivered the JCPOA withdrawal, the single largest foreign policy gift to a combined donor network in modern diplomatic history.*
 
@@ -106,7 +106,7 @@ Saudi Arabia relationship → Koch Industries has business relationships with Sa
 > **Saudi arms sales over congressional objections:** Pompeo uses an emergency declaration to bypass congressional review and approve $8B+ in arms sales to Saudi Arabia. Raytheon and [[Boeing|Boeing]] — whose PACs funded Pompeo — manufacture the weapons used in Yemen. The sequence is complete: defense contractor donations → emergency declaration → $8B contract.
 
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The evangelical Christian framing:** Pompeo regularly invokes his Christian faith in foreign policy contexts — including a speech at the American University of Cairo in which he quoted scripture and positioned U.S. policy as aligned with divine purpose. The function: provides moral cover for transactional decisions (Khashoggi cover, Iran hawkishness, Saudi arms sales) by embedding them in a religious framework that preempts purely ethical critique.
 2. **The West Point honor theater:** Pompeo consistently deploys his West Point finish-first credentials to project integrity and competence. The function: the military credential insulates him from attacks on his character, making the Khashoggi episode look like an anomaly rather than the pattern it represents.
@@ -132,7 +132,7 @@ The pattern: think tank → PAC → speaking fees → board memberships → law 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Pompeo achieved JCPOA withdrawal and maximum pressure sanctions on Iran, advancing major foreign policy victories for the Koch and AIPAC networks. Yet these policies operate within executive authority for sanctions and executive withdrawal — they don't fundamentally restructure U.S. foreign policy institutions, they redirect them toward the specific adversaries that benefit Koch's petroleum interests and AIPAC's Israel policy.
 
@@ -142,7 +142,7 @@ The pattern: think tank → PAC → speaking fees → board memberships → law 
 
 ---
 
-### Sources
+## Sources
 
 - [ThinkProgress: Pompeo is the #1 all-time recipient of Koch Industries money](https://archive.thinkprogress.org/secretary-of-state-pick-pompeo-top-koch-money-recipient-e910ba9e14fd/) (Tier 2)
 - [The Nation: The Koch Brothers get their own Secretary of State](https://www.thenation.com/article/archive/the-koch-brothers-get-their-very-own-secretary-of-state/) (Tier 2)

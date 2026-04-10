@@ -46,26 +46,26 @@ profile-status:: ready
 
 ---
 
-### Who He Is
+## Who He Is
 
 Colin Powell. Four-star general, Chairman of the Joint Chiefs of Staff (1989–1993), highest-ranking African American military officer in U.S. history until his appointment. Secretary of State (2001–2005) under George W. Bush. February 5, 2003: presented fabricated WMD evidence to UN Security Council to justify Iraq invasion. Post-government board member (Kleiner Perkins, Salesforce, AOL). Died October 19, 2021, age 84. Built political brand on military credibility and national trust; deployed that credibility to sell a war based on lies.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Colin Powell's career demonstrates how credibility operates as political currency for the donor class. His military authority, his status as "the most trusted man in America," and his African American identity made him uniquely valuable to the Bush administration. The administration's strategy was simple: have the most credible figure in U.S. government present fraudulent intelligence to the UN Security Council. Powell's credibility was the weapon. The WMDs were not real (Powell later called his speech "a blot" on his record). But Powell's presentation was so persuasive that it overwhelmed skepticism and enabled a war that cost $2 trillion and killed 600,000+ Iraqis. Powell's post-government career (defense contractor boards, venture capital, corporate directorates) represents the financial payoff for credibility deployment. Defense contractors benefited from 20 years of Iraq War spending. Powell received board seats and compensation. The pattern: credibility → war justification → defense contractor benefit → financial reward.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Powell's military identity is built on honor, integrity, and respect for civilian authority. His autobiography frames him as a principled officer who advised presidents and served his nation with distinction. But the Iraq War contradicts this: Powell knowingly presented fraudulent intelligence to the UN Security Council. The "mushroom cloud" rhetorics, the claim that Iraq possessed active WMD programs, the assertion that Iraq had connections to Al Qaeda — all were false or fabricated. Powell's credibility as "the most trusted man in America" was the mechanism that made the false case persuasive. He deployed his reputation for integrity to legitimize a lie. Powell later called the speech "a blot" on his record, but 600,000+ Iraqis were dead before he admitted the lie. The contradiction: Powell's identity as a principled officer depends on his credibility and honor; the Iraq War was built on him using that honor to sell a lie. He cannot simultaneously be a man of integrity and a man who deployed his greatest asset (credibility) in service of fraudulent war.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 #### Defense Contractors (Post-Government Benefit)
 - **Lockheed Martin:** Primary beneficiary of Iraq War defense spending; Powell's post-government association provides defense contractor network access
@@ -109,7 +109,7 @@ The pattern: military authority → government deployment of credibility for def
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Military Authority Frame:** Presenting military expertise as basis for intelligence judgments (but intelligence came from CIA, not military analysis)
 2. **The Credibility Hammer:** Using personal reputation to overcome skepticism ("trust me on this")
@@ -118,7 +118,7 @@ The pattern: military authority → government deployment of credibility for def
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Credibility as Weapon:** Powell's primary asset was not military rank or policy expertise — it was the fact that Americans trusted him. The Bush administration deployed that trust to legitimate fraud. This is credibility weaponization: converting personal reputation into political capability.
 
@@ -130,7 +130,7 @@ The pattern: military authority → government deployment of credibility for def
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: Colin Powell candidate finance (if applicable)](https://www.fec.gov/data/candidate/) (Tier 1)
 - [Wikipedia: Colin Powell - UN WMD Speech, February 5, 2003](https://en.wikipedia.org/wiki/Colin_Powell) (Tier 3)

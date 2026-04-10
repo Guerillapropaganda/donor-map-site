@@ -29,26 +29,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominated by George H.W. Bush. Confirmed 52-48 (narrowest SCOTUS confirmation in a century). Net worth: $1–2M (disclosed). [[Harlan Crow|Harlan Crow]] gifts: $4.75M+ (Senate Judiciary Committee investigation, December 2024). Invoked marriage to Ginni Thomas — $686K Heritage Foundation income (undisclosed 2003–2007), Liberty Central founding, January 6 text messages to Mark Meadows. RV loan from Anthony Welters: $267K (forgiven, never reported). [[Leonard Leo|Leonard Leo]]: personal friend, godfather to Leo's child. Koch donor summit attendee. 20+ years of financial disclosure failures. The most documented case of donor capture on the Supreme Court.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Clarence Thomas is the Supreme Court's proof of concept for donor capture. Over 30+ years, a network of billionaire donors — [[Harlan Crow|Harlan Crow]] ($4.75M+ in gifts), the Koch brothers (donor summit access), and [[Leonard Leo|Leonard Leo]] (the architect) — have provided Thomas with a lifestyle his salary could never support: superyacht cruises, private jet travel, luxury real estate, boarding school tuition, and a $267K RV loan that was quietly forgiven. In return, Thomas has been the Court's most reliable vote for the donor class's agenda: gutting campaign finance law, weakening unions, rolling back voting rights, and eliminating regulatory authority. His wife Ginni operates as the political arm — $686K from Heritage Foundation, anonymous donations to Liberty Central, consulting fees routed through [[Leonard Leo|Leonard Leo]]'s network — while Thomas rules on cases directly affecting his donors' financial interests. The gifts aren't gifts. They're the operating costs of a captured institution.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Clarence Thomas accepted $4.75 million in undisclosed gifts from [[Harlan Crow|Harlan Crow]] over two decades while ruling on cases affecting Crow's business interests. He attended Koch donor summits while voting to dismantle campaign finance regulation (Citizens United). His wife earned $686K from the Heritage Foundation — an organization that files amicus briefs before his court — and he failed to disclose it for years. He received a $267K RV loan that was forgiven and never reported. When caught, his defense was that he "misunderstood" the disclosure rules. A justice who has authored opinions on the precise meaning of constitutional text claimed he couldn't understand a financial disclosure form. The man who decides what the law means says he didn't know he had to follow it.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Crow Patronage Network:
 - [[The Harlan Crow Gift Empire]] — $4.75M+ total (Senate investigation). $500K+ Indonesia trip (superyacht + private jet). Savannah real estate ($133K — Thomas's mother's home, plus $36K+ renovations). Boarding school tuition for grand-nephew. $19K Bible. $15K Lincoln bust. Bohemian Grove. Adirondacks summers. 25+ year relationship. None of it disclosed until ProPublica forced it into public view.
@@ -64,7 +64,7 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Thomas represents sustained patronage capture, not transactional donation-to-policy. The $4.75M+ from Harlan Crow over three decades is the longest-running documented patron-justice relationship in modern history.*
 
@@ -104,7 +104,7 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Sustained Patronage + Ideological Alignment:** Thomas receives extraordinary patronage from Harlan Crow ($4.75M+), yet his rulings align consistently with the interests of his patron. The gift levels would be inexplicable if Thomas were not already ideologically aligned with the donor class project. He's not being captured by new money — he was selected into the network because his philosophy already matched it.
 
@@ -114,7 +114,7 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The originalist:** Thomas's jurisprudence claims fidelity to constitutional text as written. The irony: the man who insists on precise textual meaning claimed he "misunderstood" financial disclosure requirements for two decades.
 2. **The silent justice:** Thomas famously went 10 years without asking a question during oral arguments (2006–2016). The silence served a purpose — it minimized public scrutiny while maximizing private influence through written opinions.
@@ -123,7 +123,7 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Clarence Thomas — Supreme Court Justice](https://www.opensecrets.org/news/) (Tier 1)
 - [ProPublica: Clarence Thomas Secretly Accepted Luxury Trips From GOP Donor](https://www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow) (Tier 2)
@@ -137,7 +137,7 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 content-readiness:: ready
  
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

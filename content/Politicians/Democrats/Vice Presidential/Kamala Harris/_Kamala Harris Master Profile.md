@@ -49,7 +49,7 @@ donors: [[Michael Bloomberg]], [[Haim Saban]], [[SEIU - Service Employees Intern
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Kamala Devi Harris. Born October 20, 1964, Oakland, California. Democrat. 49th Vice President of the United States (2021–2025). 2024 Democratic presidential nominee. Former U.S. Senator from California (2017–2021). Former California Attorney General (2011–2017). Former San Francisco District Attorney (2004–2011).
 
@@ -57,7 +57,7 @@ The California pipeline: DA → AG → Senator → VP → presidential nominee. 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Harris is the California donor-class Democrat at the national level. Newsom is the state version; Harris is the federal expression of the same model. Raised $2.3 billion in the most expensive losing campaign in history, backed by Soros ($60M), Bloomberg ($50M), Gates ($50M), Hoffman ($16.6M), and 28+ billionaires — yet lost because the working class that every union institution endorsed her to represent voted for Trump (Teamster rank-and-file: 60% Trump, 34% Harris).
 
@@ -65,7 +65,7 @@ Her career arc — prosecutor who declined to charge bank fraud, Senator who co-
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Harris simultaneously:
 — Raised more money than any losing candidate in history ($2.3B total)
@@ -77,7 +77,7 @@ The contradiction is structural, not personal: the Democratic Party's candidate 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 Key institutional donors and their policy returns — each links to a detailed sub-note:
 
@@ -95,7 +95,7 @@ Kavanaugh hearings (viral moments, no legislation) · FOSTA-SESTA (anti-traffick
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Harris's VP record produced genuine labor wins: IIJA prevailing wage, IRA with 5x prevailing wage bonus (400K+ union jobs created), Davis-Bacon modernization, Abruzzo NLRB confirmation (Harris tiebreak). These wins serve union members and working-class constituencies directly. However, the structural limit is total: the PRO Act (union organizing expansion) never reached a floor vote with momentum during a period when Harris could have pushed for it. The genuine wins are infrastructure spending (doesn't threaten capital's structural position) and regulatory appointments (don't require Senate filibuster workarounds). The structural reforms (labor organizing rights, Medicare for All, wealth redistribution) never materialized.
 
@@ -124,7 +124,7 @@ For labor: immigration enforcement in agriculture and construction depresses wag
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Wall Street / Finance
 
@@ -167,7 +167,7 @@ For labor: immigration enforcement in agriculture and construction depresses wag
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Viral Committee Moment:** Harris's primary tool for building national profile. Kavanaugh hearings, Barr hearings, Intelligence Committee questioning. Sharp questions that generate clips, media coverage, and donor enthusiasm — but produce no legislation, no structural change, no policy outcomes. The performance of accountability without the substance.
 
@@ -181,7 +181,7 @@ For labor: immigration enforcement in agriculture and construction depresses wag
 
 ---
 
-### The 2024 Loss — Class Analysis
+## The 2024 Loss — Class Analysis
 
 Harris raised $2.3 billion. Every institutional union endorsed her. Hollywood, Silicon Valley, Wall Street, and the philanthropy class were unified behind her. She outspent Trump across every metric. She lost.
 
@@ -191,7 +191,7 @@ Harris's loss is the vault's clearest proof of the thesis: the donor class contr
 
 ---
 
-### Sources
+## Sources
 
 Detailed sourcing is in each sub-note. Key sources for the master profile:
 
@@ -243,7 +243,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009423/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

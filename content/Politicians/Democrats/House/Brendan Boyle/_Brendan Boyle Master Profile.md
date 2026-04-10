@@ -47,7 +47,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Brendan Boyle represents Pennsylvania's 2nd Congressional District (entirely within Philadelphia — Northeast Philadelphia, Kensington, Olney, the riverwards) and is the Ranking Member of the House Budget Committee. He has served in Congress since 2015.
 
@@ -59,7 +59,7 @@ His district is one of the most union-dense in America — Philadelphia building
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Brendan Boyle is the Budget Committee's working-class Democrat — funded by labor unions, trial lawyers, and the Philadelphia Democratic machine rather than Wall Street or corporate PACs. His donor profile reflects Philadelphia ward politics more than K Street influence. The analytical interest isn't donor capture but structural mismatch: the Budget Committee RM position sounds powerful (the person challenging the majority's entire fiscal framework) but is functionally powerless. Boyle can denounce Republican tax cuts and spending cuts — and he does, prolifically — but the reconciliation process is designed to bypass the minority entirely.
 
@@ -67,14 +67,14 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Boyle's brand is working-class Philadelphia: the SEPTA custodian's son, the Blue Collar Caucus co-chair, the union-backed populist. His Budget Committee rhetoric frames every Republican fiscal proposal as class warfare — billionaires vs. the middle class. But the Budget Committee is the most abstract committee in Congress. It doesn't create programs, doesn't fund agencies, doesn't regulate industries. It writes a resolution that sets top-line numbers. Boyle's populist class analysis is applied to the committee most removed from tangible policy outcomes. The contradiction isn't hypocrisy — it's structural. The most class-conscious Democrat on the most procedural committee. The rhetoric is about working families; the jurisdiction is about budget baselines and reconciliation instructions. The disconnect between Boyle's voice and his committee's power is the story.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Labor unions: dominant (IBEW, building trades, AFSCME, SEIU, teachers' unions)
@@ -104,7 +104,7 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Labor Unions → Working-Class Fiscal Advocacy
 | Date | Type | Event | Donor | Amount | Gap |
@@ -127,7 +127,7 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Budget RM):** Boyle's opposition to the Republican reconciliation bill was substantive — he identified real distributional consequences (17 million losing healthcare, SNAP cuts, $4 trillion in new debt for billionaire tax breaks). The structural limit: the Budget Committee is designed so the majority writes reconciliation instructions and the minority watches. Boyle's 12-hour markup opposition was genuine advocacy with zero legislative effect. The reconciliation process is the majority's tool — the RM position is a megaphone, not a veto.
 
@@ -137,7 +137,7 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Billionaire tax cuts"** — The class framing for every Republican budget resolution. The function: convert abstract reconciliation math into a class narrative — every dollar of tax relief is reframed as a transfer from working families to the wealthy.
 
@@ -147,7 +147,7 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Brendan Boyle donor profile](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
 - [FEC Candidate: Brendan Boyle industry donors](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)

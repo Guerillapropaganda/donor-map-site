@@ -40,26 +40,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Rand Paul. Junior Senator from Kentucky (2011–present). Son of former Representative Ron Paul (TX), the libertarian movement's patriarch. Ophthalmologist who practiced in Bowling Green, Kentucky. Self-certified by a board he created himself (National Board of Ophthalmologists) after objecting to the American Board of Ophthalmology's recertification requirements. Ran for President in 2016; dropped out after poor showing in Iowa. Senate Foreign Relations Committee, Homeland Security and Governmental Affairs Committee. Net worth: estimated $2–3 million. The Senate's most prominent self-described libertarian.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Rand Paul sells libertarianism as principle but delivers it as policy that benefits the donor class — specifically: deregulation for finance and tech, tax cuts for the wealthy, and obstruction of social spending that the working class depends on. Kentucky is the 6th-poorest state in America. It has the 6th-highest Medicaid enrollment rate, is heavily dependent on federal transfer payments, and would face economic catastrophe under the budget Paul describes as his ideal. Paul opposes Medicare, Medicaid, and federal social spending on libertarian principle; he collects donations from the Koch network and cryptocurrency industry on libertarian alignment; and he represents a state where one in four residents depends on Medicaid to survive. His libertarianism is not principled anti-statism — it is selective anti-statism that exempts the state functions that serve the working class while targeting the ones that constrain capital. The Koch network figured this out before Kentucky did.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Kentucky receives $2.41 in federal spending for every $1.00 it pays in federal taxes — one of the highest dependency ratios in the country. It is the 6th-poorest state. One in four Kentuckians is on Medicaid. Thirty-five of the hospitals most at risk of closing under proposed Medicaid cuts are in Kentucky — more than any other state. Paul's ideal budget would eliminate or drastically cut the federal transfers that keep Kentucky's healthcare system, economy, and rural communities solvent. He has opposed the ACA, proposed eliminating Medicare and Medicaid, blocked Ukraine aid that had bipartisan support, and framed federal assistance as an affront to liberty. His constituents are disproportionately the Americans who would suffer most from his policy vision. He wins anyway — because the libertarian brand plays well in a culturally conservative state, because he runs against "government" in a state that would collapse without it, and because his donor class lives in Virginia, California, and Texas, not in Appalachian Kentucky.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Libertarian Brand and the [[Koch Network - Charles Koch|Koch Network]]:
 - [[The Libertarian Brand and the Koch Network Reality]] — Koch Industries has donated directly to Paul; the broader Koch network ([[Americans for Prosperity|Americans for Prosperity]], CATO Institute, Reason Foundation) has provided political infrastructure, endorsements, and ideological legitimacy. Paul was the first presidential candidate to accept Bitcoin donations (2015), positioning him in the cryptocurrency donor community early. The libertarian brand is the interface; the Koch network and tech-finance donors are the economic constituency behind it.
@@ -96,7 +96,7 @@ His solution: he created his own certification board. The National Board of Opht
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Villain Framing** — Paul frames federal spending and social programs as "government overreach" and "lack of liberty" rather than engaging with class analysis of who benefits from federal spending reduction. He blames government bureaucrats for healthcare problems rather than examining how Medicaid cuts would devastate rural Kentucky hospitals. He positions federal transfer payments as violations of freedom rather than as the mechanism that keeps his economically dependent state solvent. This reframing allows him to advocate policies that harm his constituents while claiming principled libertarian consistency.
 
@@ -112,7 +112,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Paul is the only Republican senator who consistently blocks foreign aid. The donor data explains the outlier: he receives $0 from defense contractors. His colleagues who take defense money never vote against military aid. Paul's isolation is donor-predicted.*
 
@@ -145,7 +145,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 > **The Koch abandonment:** Koch Network pulling support in 2016 after Paul's presidential failure is the clearest demonstration of Koch donor logic — investment is conditional on political performance. Ideology is secondary to viability.
 
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The principle stand:** Paul frames every obstruction as a principled stand for liberty or fiscal responsibility. The $40 billion Ukraine blockade was "I just want oversight." The Medicaid opposition is "government dependency destroys freedom." The principle framing makes donor-serving positions sound like conscience votes.
 2. **The filibuster performance:** Paul has used actual talking filibusters (drone policy, 2013; NSA surveillance, 2015) to build the libertarian brand. The performance of principled obstruction generates fundraising and media attention regardless of legislative outcome.
@@ -154,7 +154,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Rand Paul campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00030836) (Tier 1)
 - [OpenSecrets: Rand Paul career contributors](https://www.opensecrets.org/members-of-congress/contributors?cid=N00030836&cycle=CAREER) (Tier 1)
@@ -186,7 +186,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412492) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -200,7 +200,7 @@ content-readiness:: ready
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
@@ -218,7 +218,7 @@ _No committee data found for the 119th Congress._
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4OH19044/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

@@ -39,26 +39,26 @@ profile-status:: ready
 
 ---
 
-### Who She Is
+## Who She Is
 
 John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (2011–2015). Former tobacco lobbyist and House floor check-distributor for tobacco industry. Post-House career: board member, cannabis legalization advocate, lobbying contracts. Known for "regular guy" brand (tanning, golf, crying at press conferences). Constructed public persona as everyman conservative while serving as legislative manager for corporate donor class. Net worth: $1–5 million (2015 disclosure).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > John Boehner exemplifies the professional legislative operative deployed by the donor class to manage Congress. His public brand is "regular guy conservative" — orange tan, golf outings, emotional authenticity (crying at press conferences). This brand masks his actual function: legislative delivery mechanism for tobacco industry, Koch network, and corporate finance interests. Boehner literally distributed tobacco industry checks on the House floor in 1995 (documented photo). He then served as Speaker, delivering tax cut legislation and deregulation prioritized by donors. Post-House, he moved seamlessly to cannabis legalization advocacy and lobbying contracts, representing the industries he regulated while in Congress. The pattern: use an approachable public persona to legitimize corporate donor-class legislative priorities, manage internal congressional dissent, then cash out through lobbying and board compensation.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Boehner's public identity is as an everyman, a "regular guy" who plays golf and cries at appropriate moments — his humanity and authenticity are his brand. This persona is carefully constructed to make him relatable, non-threatening, someone who "gets it." But the contradiction is that Boehner spent 24 years in Congress as a delivery mechanism for corporate interests that contradicted the interests of his Ohio constituents. He delivered tobacco industry legislative protection while smoking killed Ohioans. He supported Koch network tax cuts and deregulation while Ohio manufacturing workers faced job losses. He distributed tobacco industry checks on the House floor. His "regular guy" brand was designed to obscure his actual function: managing a congressional caucus on behalf of donors. Boehner's post-House career in cannabis legalization reveals the full scope of the contradiction: he's willing to work for any industry that pays him, regardless of consistency or prior positions. His authenticity was performance; his actual loyalty was to the highest-paying donor.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 #### Tobacco Industry (Primary 1991–2015)
 - **Reynolds American (now Altria):** Boehner's primary donor source throughout House career; tobacco PAC contributions and individual donations from tobacco executives
@@ -120,7 +120,7 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Regular Guy Frame:** "I play golf, I cry, I'm authentic" (brand designed to obscure corporate delivery function)
 2. **The Emotional Authenticity:** Crying at press conferences to generate human interest stories (deflects from tobacco lobby protection)
@@ -129,7 +129,7 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Revolving Door (Tobacco → Cannabis):** Boehner's post-House career reveals the full scope of the revolving door pattern. He moved from tobacco industry representation to cannabis industry representation without any ideological consistency or principle. His actual function was industry representation; the specific industry was irrelevant. Tobacco paid more when he was in Congress; cannabis pays more now. His willingness to work for both industries reveals that his "regular guy" brand was purely functional — designed to make industry representation seem authentic.
 
@@ -141,7 +141,7 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: John Boehner donor profile](https://www.fec.gov/data/candidate/H0OH08029/) (Tier 1)
 - [FEC: John Boehner campaign finance (CID: N00003675)](https://www.fec.gov/data/candidate/H2OH08055/) (Tier 1)
@@ -155,7 +155,7 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 profile-status:: ready
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

@@ -45,26 +45,26 @@ internal-notes: "[URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BR
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
 
-### Who They Are
+## Who They Are
 
 Cori Bush. Born July 21, 1976, St. Louis, Missouri. U.S. Representative for Missouri's 1st Congressional District from 2021 to 2025. The first Black woman and first nurse to represent Missouri in Congress. The first Black Lives Matter activist elected to Congress. A frontline protester during the 2014 Ferguson uprising and member of the progressive "Squad." She lost the 2024 Democratic primary to Wesley Bell and announced a 2026 comeback bid in October 2025. In August 2025, a federal grand jury indicted Bush and her husband Cortney Merritts on charges related to campaign security payments.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents. AIPAC's United Democracy Project spent $8.5M to defeat her in the 2024 primary, making her race one of the most expensive in the country. Her subsequent federal indictment over campaign security payments (totaling ~$750K, including $102,500+ to her husband) compounds her political vulnerability. Whether the indictment is politically motivated or reflects genuine misconduct, the sequencing tells the story: AIPAC spending, then primary loss, then DOJ investigation, then indictment. Multiple pressure vectors converging on a progressive legislator who broke with the donor class consensus on Israel.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction-cleared]
 > **Anti-establishment brand vs. self-dealing conduct.** Bush ran as a grassroots activist and was destroyed by establishment spending ($9.96M AIPAC, $2.79M Fairshake — per [FEC IE data](https://www.fec.gov/data/candidate/H8MO01143/)). The DOJ then indicted her over $102K in security payments to her husband ([Time, 2024](https://time.com/6590139/cori-bush-justice-department-investigation-security-spending/)). Both facts are true simultaneously: she was genuinely targeted by donor-class spending AND she engaged in conduct (paying family members from campaign funds for unlicensed services) that undermines the anti-corruption brand. The contradiction is structural, not resolvable — it demonstrates that progressive insurgents face both external destruction (AIPAC) and internal vulnerability (self-dealing). Resolution: documented as inherent tension, not factual dispute. Both claims are FEC/DOJ sourced.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Bush raised $3.93M in 2023–2024 and spent $3.92M. Her funding was primarily from individual donors: 62.58% from large individual contributions, 32.24% from small donors, 5.17% from PACs. The small-donor share is high for Congress but doesn't match the grassroots-only narrative. The $750K in campaign security spending, including payments to her husband, is the financial vulnerability that enabled the indictment.
@@ -86,7 +86,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -102,7 +102,7 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Lived Experience Frame.** Bush leads with personal testimony. Ferguson protester who was tear-gassed. Nurse who treated the uninsured. Eviction survivor who slept in her car with her children. Every policy position is anchored to a biographical moment. This makes her positions feel grounded in community rather than ideology, and makes attacks on her positions feel like attacks on her lived experience.
 
@@ -114,14 +114,14 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Donor-Class Override.** AIPAC's $8.5M spending overrode the democratic preference of a progressive district by flooding the primary with negative advertising. The donor class replaced a progressive with a moderate.
 - **Villain Framing.** Bush frames AIPAC as the villain that destroyed her career. AIPAC frames Bush's anti-Israel votes as the justification. Both framings obscure the structural power dynamic: that a single-issue lobby can veto a member of Congress regardless of their domestic policy record.
 
 ---
 
-### Sources
+## Sources
 
 #### Verified
 - [FEC Candidate: Cori Bush campaign finance summary](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1) (VERIFIED)
@@ -199,14 +199,14 @@ Bush's political trajectory is a case study in how the donor class neutralizes p
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

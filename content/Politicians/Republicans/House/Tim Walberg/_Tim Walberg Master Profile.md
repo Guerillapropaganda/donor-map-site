@@ -54,7 +54,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Tim Walberg represents Michigan's 5th Congressional District and chairs the House Education and Workforce Committee — the committee with jurisdiction over K-12 education, higher education, labor standards, workplace safety, pension policy, and the National Labor Relations Board. He was first elected in 2006, lost in 2008, and won the seat back in 2010.
 
@@ -64,7 +64,7 @@ The pastor's son of a union organizer now chairs the committee that oversees bot
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Tim Walberg is the anti-labor pastor who chairs the labor committee — funded by billionaires who want to dismantle public education and weaken unions. His top donors include the DeVos family ($76,700+ since 2007), Marc Rowan (Apollo Global Management CEO, $21,000 in a single contribution after Walberg became chair), and AIPAC-connected billionaires. This is the Education and Workforce Committee weaponized against the constituencies it's supposed to serve: students get school vouchers that defund public schools, and workers get NLRB "reform" that guts their organizing rights.
 
@@ -72,14 +72,14 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Walberg grew up in a union household. His father was a machinist and union organizer. Walberg worked at U.S. Steel after high school — unionized industrial labor. He now chairs the committee that oversees the NLRB and has introduced legislation to restructure the NLRB to dilute its pro-worker function, opposes the PRO Act, and supports right-to-work laws. The union organizer's son is the union-busting committee chair. He frames this as "protecting worker choice" — the choice to not join the unions his father organized.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - DeVos family (Betsy DeVos, school choice billionaire): $76,700+ since 2007
@@ -107,7 +107,7 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: DeVos Family → School Choice / Education Privatization
 | Date | Type | Event | Donor | Amount | Gap |
@@ -137,7 +137,7 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** Walberg's Michigan district includes working-class communities that benefit from union organizing, public education, and worker protections. His committee agenda — school vouchers, NLRB restructuring, right-to-work advocacy — systematically weakens the institutions his constituents depend on. The DeVos family and private equity billionaires get the education policy they want. Michigan workers get weaker organizing rights.
 
@@ -149,7 +149,7 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"School choice is about children"** — The framing that makes education privatization sound like child liberation. The function: obscure the financial interests (DeVos, Apollo, private equity) behind the emotional appeal of "helping kids."
 
@@ -159,7 +159,7 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Tim Walberg donor profile](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
 - [FEC Candidate: Tim Walberg top contributors](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)

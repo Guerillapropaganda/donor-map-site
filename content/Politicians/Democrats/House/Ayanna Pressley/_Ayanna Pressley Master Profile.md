@@ -56,7 +56,7 @@ SORT title ASC
 
 ---
 
-### Who She Is
+## Who She Is
 
 Ayanna Pressley. Democratic Representative from Massachusetts's 7th District (Boston, Cambridge, parts of Milton and Randolph). First Black woman elected to Congress from Massachusetts. Original "Squad" member alongside AOC, Ilhan Omar, and Rashida Tlaib. Serves on the Financial Services Committee. Elected in 2018 by defeating 20-year incumbent Michael Capuano in the Democratic primary — not on policy differences (their voting records were nearly identical) but on representation, generational change, and constituent accountability. Pressley herself acknowledged during the campaign: "We will vote the same way, but lead differently." Capuano was a reliable progressive vote; Pressley's argument was that representation itself is a form of power.
 
@@ -66,20 +66,20 @@ Pressley is the least media-visible Squad member but arguably the most legislati
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Pressley is the Squad member who chose institutional integration over institutional confrontation — building power within committee structures rather than through media insurgency.** Her Financial Services Committee seat gives her formal jurisdiction over Wall Street regulation, consumer protection, and housing policy — the policy areas most directly relevant to her majority-minority, working-class Boston district. Her approach demonstrates the progressive institutional trade-off: she is more legislatively productive than Omar or Tlaib but less visible as a movement icon. The question the vault asks: does institutional integration deliver more for her constituents than external pressure would? The evidence is ambiguous.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Pressley sits on the Financial Services Committee — the committee with direct jurisdiction over the financial industry — while representing one of the most financially extracted congressional districts in New England. Her district includes communities with high predatory lending exposure, banking deserts, and student debt concentration. The Financial Services Committee is also one of the most donor-targeted committees in Congress: the financial industry systematically cultivates relationships with committee members across party lines. Pressley navigates this by focusing on consumer-side financial services issues (predatory lending, student debt, banking deserts) rather than systemic Wall Street reform — addressing symptoms of financial extraction without challenging the structural mechanisms that produce that extraction. The work is real. The structural limit is real. Her FIRE sector donors ($525,326 career, all individual contributions — not PAC money) indicate access relationships without the explicit PAC capture that marks more compromised committee members. The structural constraint is not crude bribery; it is the ambient pressure of committee membership itself.
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Financial Services / FIRE
 
@@ -135,7 +135,7 @@ The notable absence: no Glass-Steagall restoration co-sponsorship, no financial 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The criminal justice reform resolution (H.Res.702) represents genuine policy ambition — the specific provisions would materially benefit Pressley's constituents. None advanced. The structural limit is the donor class's control over what a committee agenda will actually consider versus what can be introduced symbolically.
 
@@ -147,7 +147,7 @@ The notable absence: no Glass-Steagall restoration co-sponsorship, no financial 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **The Representation Argument:** "The people closest to the pain should be closest to the power." Frames her presence on Financial Services as structural accountability rather than just legislative efficiency.
 - **Criminal Justice as Economic Justice:** Consistently links carceral policy to economic extraction — cash bail as a poverty tax, incarceration as workforce displacement, policing costs as community disinvestment.
@@ -155,7 +155,7 @@ The notable absence: no Glass-Steagall restoration co-sponsorship, no financial 
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Ayanna Pressley member profile](https://www.congress.gov/member/ayanna-pressley/P000617) (Tier 1)
 - [FEC Candidate: Ayanna Pressley campaign finance summary](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
@@ -191,7 +191,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412782) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

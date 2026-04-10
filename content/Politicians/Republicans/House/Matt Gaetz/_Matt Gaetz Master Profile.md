@@ -35,26 +35,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Matt Gaetz. Born May 7, 1982, Hollywood, Florida. Republican. U.S. Representative for Florida's 1st congressional district (2017–November 2024). Resigned from Congress after Trump nominated him as Attorney General — before the House Ethics Committee could release its report on him. The Ethics report was released in December 2024 after his resignation. His father, Don Gaetz, is the former Florida Senate President and co-founder of VITAS Healthcare, which sold for $406 million in 2004. Don and Victoria Gaetz's net worth: approximately $29.6 million. Matt Gaetz's own net worth: estimated $700,000–$1 million, largely from his congressional salary — he is functionally dependent on his family's wealth for his political position. Never indicted by the DOJ on sex trafficking charges despite FBI investigation beginning 2021. Attorney General nomination withdrawn November 21, 2024, after Senate Republicans signaled they would not confirm him.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Gaetz is the donor class's chaos agent — his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the donor class the way most politicians do, making him useful as a seemingly "independent" disruptor who nonetheless serves deregulation interests. The McCarthy ouster — the most consequential institutional act of his congressional career — paralyzed the House for three weeks and produced a speaker ([[_Mike Johnson Master Profile|Mike Johnson]]) more aligned with MAGA maximalism. The DOJ sex trafficking investigation, which never produced charges, and the House Ethics probe, which found "substantial evidence" of statutory rape and drug use but was never acted on while he served, both demonstrate the same principle: the rules that govern ordinary Americans do not apply to the children of the wealthy political class. His father used the healthcare industry's legislative infrastructure to create a fortune; Matt used the political institution's chaos architecture to remain powerful without accountability.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Gaetz positioned himself as an anti-establishment populist — the congressman who took on the Speaker, who fought for "the people" against the swamp. But his political career exists because of his father's $29.6 million fortune, built by lobbying Congress to pass the Hospice Care Reimbursement Act and then converting a nonprofit hospice into a for-profit company (VITAS Healthcare) to capitalize on the legislation Don Gaetz had personally helped pass. Gaetz's "independence" from the donor class is itself a form of donor-class privilege: he doesn't need corporate money because he has family money. He is not a populist disruptor; he is an heir who can afford to be disruptive because his family's wealth provides the security that ordinary political careers require donor funding to achieve. The chaos he generates — government dysfunction, institutional paralysis, regulatory uncertainty — benefits the donor class's deregulatory interests without requiring Gaetz to be owned by any specific donor.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Family Fortune:
 - [[The Gaetz Family Fortune and the Self-Funded Disruptor]] — Don Gaetz co-founded VITAS Healthcare. The Hospice Care Reimbursement Act (1982), which Don successfully lobbied Congress to pass, made hospice costs reimbursable by Medicare. Don then helped convert a nonprofit hospice into VITAS, a for-profit company that sold for $406 million in 2004. This is the original accumulation of the Gaetz family fortune: a politician lobbied for Medicare coverage of his industry, then profited from the coverage he created.
@@ -100,7 +100,7 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Gaetz inverts the normal donor model — his family's $29.6M fortune makes him independent of corporate donors, which makes him useful as a chaos agent whose dysfunction benefits the deregulatory donor class without requiring direct patronage. The family fortune is itself the product of legislative capture: Don Gaetz lobbied Congress to pass hospice Medicare reimbursement, then profited from the market he created.*
 
@@ -134,7 +134,7 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Gaetz's McCarthy ouster is a real institutional victory producing three weeks of House paralysis, which benefits the deregulatory donor class by preventing new regulation and slowing congressional function. But this victory stops short of threatening his family's for-profit healthcare industry base (VITAS Healthcare), and he maintains Republican control of the House.
 
@@ -146,7 +146,7 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The outsider brand:** Gaetz performed hostility to the institutional norms of Congress — calling colleagues corrupt, attacking leadership, threatening procedural chaos — as a fundraising and media strategy. The "chaos" is the product.
 2. **The MAGA maximalism:** Gaetz consistently positioned himself as the most pure Trump loyalist in the House. This served multiple functions: it differentiated him within the caucus, generated small-dollar donations from the MAGA base, and provided political protection — attacking Gaetz meant attacking Trump.
@@ -155,7 +155,7 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Matt Gaetz donor profile and campaign finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1)
 - [House Ethics Committee: Report on Matt Gaetz investigation (December 2024)](https://ethics.house.gov/wp-content/uploads/2024/12/Committee-Report.pdf) (Tier 1)
@@ -204,7 +204,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6FL01119/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

@@ -36,7 +36,7 @@ SORT file.name ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Dick Durbin. U.S. Senator from Illinois since 1997. Senate Minority Whip — the #2 Democrat in the Senate. Former Senate Majority Whip (2005–2015, 2021–2025). Former Chair of the Senate Judiciary Committee (2021–2025), now Ranking Member. Age 81. Announced April 2025 he will not seek reelection in 2026 — ending a 44-year congressional career (House: 1983–1997, Senate: 1997–2027). Net worth: $3–8 million.
 
@@ -48,20 +48,20 @@ AIPAC's first successful recruit: in 1982, AIPAC helped Durbin unseat Republican
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Durbin's 44-year career demonstrates how managed opposition functions as institutional power. His donor base — lawyers ($7.1M career), securities/investment ($2.4M), health professionals ($1.6M), pro-Israel ($1.1M), insurance ($831K) — maps precisely onto the industries his committee work claims to regulate. As Judiciary Committee chair, he held hearings on credit card fees, drug pricing, and corporate monopolies. None produced structural legislation. His Credit Card Competition Act, first introduced in 2010 as the Durbin Amendment (debit cards) and reintroduced for credit cards in every Congress since 2022, has never passed in its credit card form. His drug pricing hearings generate press but not law. Meanwhile, the industries funding his campaigns continue operating without structural constraint. Durbin's function within the Democratic Party: manage the performance of corporate accountability while ensuring legislative failure. His real power — judicial gatekeeping — serves party interests (advancing progressive judges) rather than the consumer-protection brand. Retiring in 2027, his legacy is the architecture of managed opposition: genuine institutional skill deployed to perform resistance while ensuring donor-class interests remain protected through legislative failure.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Durbin built the most successful consumer-protection brand in the Senate — credit card fee reform, drug price controls, student loan bankruptcy discharge — while raising $5.9M career from Finance/Insurance/Real Estate and $3.0M from Health. His Credit Card Competition Act would threaten the Visa/Mastercard duopoly that controls 85% of the credit card market. Yet in 14 years, the credit card version has never passed. His drug pricing hearings document pharmaceutical abuse — NIH funds 99% of new drugs, pharma spends $6B/year on ads (the size of the entire FDA budget) — while health industry donors continue funding his campaigns. His 2010 Durbin Amendment (debit cards) actually passed and saves merchants $9.4B/year in reduced interchange fees — proving he *can* win when the political math works. The credit card version fails because the financial services lobby (his donor base) mobilizes $51M+ against it every cycle. The contradiction: Durbin proved legislative success is possible (2010), then spent 14 years performing the attempt without repeating it.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 #### Lawyers & Lobbyists — The Illinois Trial Bar ($8.5M career)
 
@@ -89,7 +89,7 @@ Public Sector Unions ($584K), Transportation Unions ($510K), Building Trade Unio
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Lawyers & Lobbyists / Judiciary
 
@@ -125,7 +125,7 @@ Public Sector Unions ($584K), Transportation Unions ($510K), Building Trade Unio
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 - [[The Immigration Reform Stall and Judiciary Leadership]] — Durbin's DREAM Act, introduced repeatedly since 2001, has never passed as standalone legislation. Immigration reform mirrors the credit card pattern: introduce, generate press, fail, reintroduce.
 - [[The Judiciary Committee and Criminal Justice Reform Limits]] — Criminal justice reform efforts contrasted with judicial gatekeeping role.
@@ -158,7 +158,7 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The Consumer Prosecutor:** Durbin speaks in courtroom language — detailed legal briefs on bank overdraft fees, pharmaceutical price gouging, credit card routing restrictions. His Judiciary Committee hearings are prosecutorial performances: he calls CEOs to testify (Visa and Mastercard CEOs refused in 2024, prompting a Senate floor speech calling them out), documents industry abuses, frames issues as moral failures. The rhetorical skill is genuine. The legislative outcomes are not.
 
@@ -168,7 +168,7 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** The 2010 Durbin Amendment is the genuine win — real legislative victory that saves merchants $9.4B/year. The structural limit: the credit card version (introduced every Congress since 2022, never passed) demonstrates that one victory triggered $51M+ in industry lobbying to prevent a repeat. The pharmaceutical hearings follow the same pattern — genuine investigation (documenting NIH funding 99% of new drugs, $6B pharma ad spending) that stops short of legislation threatening donor interests.
 
@@ -183,7 +183,7 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Dick Durbin campaign finance summary](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: Dick Durbin career industries](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded) (Tier 1)

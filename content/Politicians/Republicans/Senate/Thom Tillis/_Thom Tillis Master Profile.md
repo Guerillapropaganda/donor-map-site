@@ -55,19 +55,19 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Thom Tillis. U.S. Senator from North Carolina (2015–2025, retired). Born August 30, 1960, in Jacksonville, Florida. Businessman and real estate developer. Served as North Carolina House Speaker (2011–2014) before being elected to Senate. Announced June 29, 2025, that he would not seek reelection to a third term in 2026. Narrowly reelected in 2020 (50.7%), raising concerns about 2026 vulnerability in a swing state. The pharmaceutical industry's most reliable Senate investment—with voting record and legislative sponsorship data to prove it.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech interests trace directly to pharmaceutical industry donations. The North Carolina Research Triangle (home to major pharma, biotech, and life sciences companies: Novo Nordisk, GlaxoSmithKline, Biogen facilities) makes the donor-policy connection geographic as well as financial. Tillis didn't become the pharma-friendly senator because he was pre-disposed to that position—he became it because the industry funded him to become it. His voting record and legislative sponsorship provide a detailed map of pharmaceutical industry preferences translated into Senate action.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Tillis positions himself as a free-market Republican defending business interests against regulatory overreach. He invokes constitutional limits on government power and free speech principles in defending pharmaceutical industry positions.
@@ -80,7 +80,7 @@ Thom Tillis is the pharmaceutical industry's most documented senator in the vaul
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Pharmaceutical and Biotech Industry:
 - [[Pharmaceutical Industry Bloc]] — The primary beneficiary of Tillis's legislative record. $156,000+ from pharma PACs in 2019 alone (largest total of any Congress member). Top donors: Genentech ($22,500, documented largest), Biogen ($20,000), Pfizer ($20,000), Amgen ($19,500). Across his Senate career (2015–2025), documented pharma donations: $262,126+. Tillis's legislative sponsorship of pharma-friendly bills (Lower Costs, More Cures Act, patent extension provisions in multiple bills) directly benefited these donors.
@@ -96,7 +96,7 @@ Thom Tillis is the pharmaceutical industry's most documented senator in the vaul
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Tillis received more pharma PAC money than any other Congress member in 2019 ($156K+) and co-sponsored the industry-preferred alternative to Grassley's drug pricing cap within weeks of peak donation accumulation. The timing is not coincidental — the industry was purchasing legislative sponsorship.*
 
@@ -126,7 +126,7 @@ Thom Tillis is the pharmaceutical industry's most documented senator in the vaul
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Tillis has secured genuine policy victories on pharmaceutical industry protection: opposition to drug price caps, support for patent extension provisions, advocacy for innovation incentives without price controls. These are real, material wins that benefit pharmaceutical PAC donors and his North Carolina biotech district. However, the victories stop short of threatening the underlying pharmaceutical profit extraction mechanism: innovation incentives preserve patent monopolies rather than challenging pharmaceutical pricing power structures; opposition to price negotiation maintains industry revenue extraction while avoiding broader questions about healthcare access equity.
 
@@ -134,7 +134,7 @@ Thom Tillis is the pharmaceutical industry's most documented senator in the vaul
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Free Market Constitutionalist:** Tillis defends pharmaceutical industry positions using constitutional arguments about property rights and limiting regulatory overreach. The intellectual packaging makes donor service look principled.
 
@@ -187,7 +187,7 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 
 <!-- auto:govtrack end -->
 
-### Sources
+## Sources
 
 - [FEC Candidate: Thom Tillis campaign finance summary](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
 - [FEC: Thom Tillis candidate profile](https://www.fec.gov/data/candidate/S4NC00162/) (Tier 1)
@@ -229,7 +229,7 @@ content-readiness:: ready
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 <!-- auto:stock-trades end -->
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -240,7 +240,7 @@ content-readiness:: ready
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

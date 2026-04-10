@@ -39,7 +39,7 @@ related: [[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profi
 
 ---
 
-### Who He Is
+## Who He Is
 
 Steven Charles Witkoff (born March 15, 1957) is an American real estate developer, investor, and Trump's Special Envoy to the Middle East — appointed November 2024. Founder of the Witkoff Group, a Manhattan-based real estate firm that buys, finances, and constructs commercial and residential properties. Net worth estimated at $2 billion (Forbes, May 2025).
 
@@ -49,13 +49,13 @@ No formal diplomatic experience before his envoy appointment. His qualifications
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Witkoff is the purest embodiment of the Trump administration's merger of personal profit and public diplomacy. As Middle East envoy, he negotiates with the same Gulf state leaders whose sovereign wealth funds invest in his business ventures and the Trump family's crypto operation. The appointment converts a real estate donor into a diplomatic asset — and converts diplomatic access into business opportunity. Every deal Witkoff brokers creates potential financial benefit for the Trump family, the Witkoff family, or both.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 Witkoff is simultaneously a U.S. diplomatic envoy negotiating with Gulf states AND a co-founder of World Liberty Financial, a crypto venture with Trump family members that received a **$2 billion investment from Sheikh Tahnoon's UAE investment firms** — weeks before the White House granted the UAE access to hundreds of thousands of advanced AI chips, many going to a Tahnoon-controlled technology firm. The diplomacy and the deal-making are inseparable.
 
@@ -64,7 +64,7 @@ Witkoff is simultaneously a U.S. diplomatic envoy negotiating with Gulf states A
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 **Personal political donations:** $2 million+ to Trump political action groups (ProPublica, 2021). Served as outside advisor during Trump's first term on tax cuts, opioids, and COVID-19 business reopening.
 
@@ -119,7 +119,7 @@ UAE sovereign wealth → World Liberty Financial → Trump family + Witkoff fami
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door (variant — simultaneous):** Witkoff doesn't rotate between government and business — he occupies both simultaneously. The real estate developer becomes the diplomat while retaining financial interests in ventures connected to the countries he's negotiating with.
 
@@ -129,7 +129,7 @@ UAE sovereign wealth → World Liberty Financial → Trump family + Witkoff fami
 
 ---
 
-### Sources
+## Sources
 
 - [Wikipedia: Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) (Tier 3)
 - [Britannica: Steve Witkoff](https://www.britannica.com/biography/Steve-Witkoff) (Tier 3)

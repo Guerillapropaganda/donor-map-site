@@ -43,7 +43,7 @@ SORT title ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Chip Roy. Republican Representative from Texas's 21st District (Austin suburbs to San Antonio). First elected 2018. Former chief of staff to Senator [[_Ted Cruz Master Profile|Ted Cruz]] and former First Assistant Attorney General of Texas under Ken Paxton. Freedom Caucus member. Serves on Judiciary, Rules, and Budget committees.
 
@@ -53,20 +53,20 @@ Career fundraising: $12.08M raised (2017-2024), $9.81M spent. Roy's financial pr
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Roy is the House Republican who most consistently applies fiscal conservatism against his own party's spending — but the consistency stops at revenue.** He opposes government spending programs, bipartisan omnibus bills, and even Trump-backed reconciliation packages when they increase deficits. His willingness to vote against Republican leadership on spending grounds makes him a genuine ideological actor within the Freedom Caucus, not just a performative obstructionist. However, his funding architecture reveals the limit: the Club for Growth and Securities & Investment donors ($721K career) who bankroll Roy's campaigns want spending cuts AND tax cuts simultaneously — a combination that produces structural deficits rather than fiscal balance. Roy's anti-spending absolutism serves the donor class interest of shrinking government programs (which benefit working-class taxpayers) while preserving the tax architecture (which benefits wealthy taxpayers).
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Roy brands himself as a deficit hawk, but his donor base funds him specifically to cut taxes AND spending — a combination that mathematically increases deficits. When the Senate proposed using a "current policy baseline" to score TCJA extensions as deficit-neutral, Roy called it "fairy dust" and said proponents were "full of crap." Yet Roy himself supports making the 2017 tax cuts permanent — which CBO scores as adding $4.6 trillion to deficits over a decade. His demand is that spending cuts must offset the tax cuts, but the $1.02 trillion in Medicaid cuts from the OBBBA falls far short of the revenue loss. Roy's fiscal conservatism is genuine in its willingness to impose costs on Republican allies, but structurally it serves the Club for Growth's core project: smaller government programs for working people, lower taxes for wealthy people.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money]
 > Roy's career fundraising ($12.08M) is powered by an unusual model: ideological infrastructure plus wealthy individuals, with minimal traditional PAC money. The Ideological/Single-Issue sector dominates at $2.44M (25% of career total), followed by FIRE at $1.69M (17%). The near-zero labor money ($3,000 career — less than a single individual contribution) is the clearest signal of his class alignment.
@@ -131,7 +131,7 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit (Speaker Fight):** The Rules Committee seat was a real structural win for the Freedom Caucus — procedural veto power that junior members never get. But the limit is that Roy's leverage depends on Republican leadership needing his vote. When leadership can build bipartisan coalitions (debt ceiling, omnibus bills), Roy's opposition is theatrical rather than effective.
 
@@ -141,7 +141,7 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **Spending absolutism** — Roy frames every vote as a spending question, opposing omnibus bills, continuing resolutions, and bipartisan compromises on fiscal grounds. His January 2025 floor speech: he believes in making the 2017 tax cuts permanent, but does "not believe in magic fairy dust that says the budget will magically balance if you cut taxes and never cut spending."
 
@@ -153,7 +153,7 @@ Roy and three other fiscal conservatives ultimately changed their votes to "pres
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Chip Roy campaign finance summary](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1)
 - [FEC Candidate: Chip Roy career industries](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1)
@@ -236,7 +236,7 @@ content-readiness:: developed
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

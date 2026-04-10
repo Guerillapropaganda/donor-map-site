@@ -39,7 +39,7 @@ SORT title ASC
 
 ---
 
-### Who He Is
+## Who He Is
 
 Jamaal Bowman. Democratic Representative from New York's 16th District (Westchester County and portions of the Bronx), 2021–2025. One-term member of the Congressional Progressive Caucus and the Squad's broader orbit. Before Congress, Bowman founded and served as principal of Cornerstone Academy for Social Action, a public middle school in the Bronx — making him one of the few members of Congress with a career rooted in urban public education rather than law, business, or party infrastructure.
 
@@ -49,7 +49,7 @@ Bowman's NY-16 sits at the intersection of two very different electoral geograph
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 **Bowman is the vault's canonical case study for Donor-Class Override through primary election spending: a one-term incumbent with genuine constituent alignment on every major policy position was removed from office not because his district rejected him, but because AIPAC and affiliated pro-Israel donors spent $14.5+ million — the most ever in a House primary — to install a replacement.** His defeat demonstrates the ceiling of the progressive electoral model in any district with a mobilizable voter bloc that pro-Israel donors can activate. Geographic safety (safe progressive district) is not sufficient protection when the donor class can turn a significant demographic sub-group into an extraction mechanism.
 
@@ -57,7 +57,7 @@ The Bowman case pairs with the Omar case in the vault's donor-class map: both sh
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Bowman represented a majority-minority district where his constituents — Black, Latino, and Arab-American residents — had direct material interests in his anti-war and pro-Palestinian positions. He was elected specifically because progressive grassroots infrastructure identified him as the kind of outsider candidate who would represent those interests rather than the donor class's preferences. He was then removed by a donor class that had no interest in his district's actual composition — and replaced by Westchester County Executive George Latimer, a conventional Democrat whose policy positions more reliably align with the pro-Israel donor network that funded his campaign. The mechanism that was supposed to produce accountability (democratic primaries) was used to eliminate accountability by flooding the zone with outside money.
@@ -170,7 +170,7 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Bowman's case inverts the standard donation-to-policy model. Here, the money flows AGAINST the politician — and the "policy outcome" is his removal. The donor class didn't buy Bowman's votes; they bought his replacement.*
 
@@ -201,7 +201,7 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Sector | Key Donors | What They Want | What They Got |
 |--------|-----------|---------------|---------------|
@@ -235,7 +235,7 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override:** The defining pattern of Bowman's tenure. His constituency (majority-minority, economically diverse, significant Arab-American and Palestinian-American community in northern Bronx) elected him and supported his positions. A donor class with no geographic stake in his district removed him anyway. This is not an electoral accountability story — Bowman was accountable to his constituents. It is an outside-money story: the primary mechanism was deployed as an override tool.
 
@@ -247,7 +247,7 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 - **Connected Justice:** Bowman consistently linked Gaza ceasefire advocacy to domestic racial justice — "the same systems that oppress Palestinians oppress Black and brown Americans." This framing resonated with his core constituency and antagonized the pro-Israel donor class simultaneously.
 - **Educator as Authority:** Deployed his background as a school founder and principal as moral credibility — not just a politician, but someone with a record of serving Black and Brown children directly.
@@ -255,7 +255,7 @@ The House voted 214–191 to censure Bowman on December 7, 2023 — one of only 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC: Bowman candidate financial summary 2024](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
 - [FEC: Independent expenditures opposing Bowman — all spenders](https://www.fec.gov/data/independent-expenditures/?most_recent=true?data_type=processed&is_notice=false&candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1)

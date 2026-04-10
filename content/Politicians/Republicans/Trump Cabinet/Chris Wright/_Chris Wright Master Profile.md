@@ -32,26 +32,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty Energy ($4.31B revenue, ~$4.5B market cap) — a hydraulic fracturing services company that fracs approximately 20% of all U.S. onshore wells. Net worth: $67M–$1.5B (estimates vary; ~$40-53M in Liberty stock alone). CEO compensation (2023): $5.6M. Confirmed 59-38 — the most bipartisan of Trump's controversial cabinet picks. Koch donor network member: contributed $100K to [[Americans for Prosperity|Americans for Prosperity]] Action (2024), $15K to Freedom Partners Action Fund (2014), wrote that he and his wife "proudly stand with the Kochs." Personal Trump contributions: $528K ($228K Trump 47 Committee, $175K co-hosted fundraiser). LinkedIn video (January 2023): "There is no climate crisis and we're not in the midst of an energy transition either." Reversed LNG export pause within weeks. Proposed 70% cut to renewable energy research. The first active fossil fuel CEO to serve as Energy Secretary — the industry isn't lobbying the regulator anymore. The industry is the regulator.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Chris Wright is regulatory capture without the middleman. Previous Energy Secretaries were politicians who served fossil fuel interests from a distance — Rick Perry, Ernest Moniz, Jennifer Granholm all maintained the fiction of separation between industry and regulator. Wright eliminates the fiction. He was running a $4.3 billion fracking company the day before he was confirmed to regulate fracking. He reversed the LNG export pause that his industry opposed. He proposed cutting renewable energy research by 70% — removing the competition. He shifted national lab priorities toward nuclear and away from solar and wind. Every policy decision he makes as Energy Secretary is a decision his former company benefits from. The $528K in Trump contributions didn't buy influence over energy policy. It bought the Energy Department itself.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Chris Wright told LinkedIn in January 2023 that "there is no climate crisis." The Union of Concerned Scientists responded that Wright "deliberately misrepresents climate data and research." As Energy Secretary, he proposed cutting renewable energy research by 70% while accelerating LNG exports and fracking permits — policies that his former company Liberty Energy directly profits from. He holds 2.6-3 million shares of Liberty stock ($40-53M) with a 90-day divestiture window that allows him to set policy before selling. Wright describes his agenda as "a golden era of American energy dominance." The oil industry invested $445 million to influence the 2024 election. The golden era is for the investors. The 20% of onshore wells that Liberty fracs will keep being fracked by the company the Energy Secretary built.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The [[Koch Network - Charles Koch|Koch Network]] Integration and Climate Denial Pipeline:
 - [[The Koch Network Pipeline and Climate Denial as Policy]] — $100K to [[Americans for Prosperity|Americans for Prosperity]] Action (2024). $15K to Freedom Partners Action Fund (2014). "We proudly stand with the Kochs." Koch network provided pathway to Trump's inner circle. "Energy sobriety" and "climate realism" — the intellectual framework for deregulation. Liberty Energy's 180-page "Bettering Human Lives" manifesto. Bjorn Lomborg friendship. Union of Concerned Scientists rebuttal.
@@ -64,7 +64,7 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Wright is regulatory capture without the middleman — the first active fossil fuel CEO to serve as Energy Secretary. No revolving door required. The industry IS the regulator.*
 
@@ -92,7 +92,7 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The "climate realist":** Wright doesn't deny warming — he minimizes urgency. "Energy sobriety" reframes climate science as hysteria. The rhetorical function: create intellectual permission for inaction.
 2. **The humanitarian capitalist:** "Bettering Human Lives" — Liberty Energy's manifesto argues fossil fuels lifted billions from poverty. The framing: criticizing oil is criticizing human progress. The function: moral cover for regulatory capture.
@@ -100,7 +100,7 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Wright reversed the LNG export pause and proposed 70% cuts to renewable energy research, achieving major fossil fuel industry victories. These policies directly benefit Liberty Energy (his former company, where he still holds $40-53M in stock), yet stop short of structural climate denial — they're framed as "energy sobriety" and pragmatism rather than explicit rejection of climate science.
 
@@ -110,7 +110,7 @@ Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty E
 
 ---
 
-### Sources
+## Sources
 
 - [U.S. DOE: Secretary Wright accomplishments](https://www.energy.gov/articles/secretary-wright-highlights-100-days-unleashing-american-energy-under-president-trump) (Tier 1)
 - [OpenSecrets: Trump administration profile — Chris Wright](https://www.opensecrets.org/news/2025/09/trump-administration-profile-chris-wright/) (Tier 2)

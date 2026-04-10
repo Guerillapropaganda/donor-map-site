@@ -43,19 +43,19 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Joni Ernst. U.S. Senator from Iowa (2015–2026, retiring). Born July 1, 1970, in Montgomery County, Iowa. Iraq War combat veteran (Lieutenant Colonel, U.S. Army Reserve). Iowa State Senator (2011–2014). Famous for farm-based brand identity ("make 'em squeal" TV ads from her 2014 House campaign referencing pig farming background). Won her Senate seat in 2014 with massive [[Koch Network - Charles Koch|Koch Network]] support. Reelected in 2020 with 6.6-point margin (51.8%) — comfortable but showing Iowa's gradual shift away from Republicans. Announced September 2, 2025, that she would not seek reelection in 2026. The vault's case study in how Koch Network money and agribusiness donations fund politicians whose "family farmer" brand masks corporate agricultural capture.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Joni Ernst rode the Tea Party wave and rural authenticity (farm background, military service) into the Senate, but her donor base is Koch money and corporate agribusiness, not family farmers. Iowa's agricultural consolidation over the past 40 years has concentrated farmland into corporate agriculture operations. Ernst represents the interests of ethanol corporations, meatpacking conglomerates, and agricultural input companies (Monsanto/Bayer, John Deere, fertilizer manufacturers) — not the family farmers who still claim to be her constituency. She explicitly credited the Koch Network with "starting my trajectory." Her legislative record — farm bill votes, ethanol subsidies, opposition to concentrated animal feeding operation (CAFO) regulation, fossil fuel alignment — reflects Koch Network and agribusiness priorities, not family farm interests. The contradiction between her "make 'em squeal" farm brand and her corporate agriculture donor base is the core of her political function.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Ernst campaigns as a family farmer defending family farming against external threats. Her 2014 Senate campaign featured a TV ad where she spoke about castrating hogs: "I grew up castrating hogs and tattooing pigs. I can cut pork barrel spending." The ad was designed to evoke rural authenticity, family farming, and the work ethic of managing a small family operation.
@@ -66,7 +66,7 @@ Joni Ernst rode the Tea Party wave and rural authenticity (farm background, mili
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Koch Network:
 - [[Koch Network - Charles Koch]] — the single largest political force in Ernst's career. [[Charles Koch]], his wife, his son and daughter-in-law each maxed out contributions ($2,600 each) to Ernst. Koch Industries directly donated $5,000. But Koch Network outside spending was the decisive factor: $12 million+ in 2014 from Koch-aligned super PACs ([[Americans for Prosperity|Americans for Prosperity]], Freedom Partners Action Fund, 60 Plus Association, American Future Fund, National Federation of Independent Business). Ernst acknowledged the Koch Network "started my trajectory." The relationship has been continuous throughout her Senate career.
@@ -127,7 +127,7 @@ But CAFO regulation would threaten Tyson Foods, Cargill, JBS USA — the multina
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Koch Network spent $12M+ to elect Ernst — equal to her own fundraising. She publicly thanked them: "really started my trajectory." The "hog farm" brand is the product; corporate agriculture is the customer. Retirement in 2025 avoids exposing the contradiction in a competitive reelection.*
 
@@ -159,7 +159,7 @@ But CAFO regulation would threaten Tyson Foods, Cargill, JBS USA — the multina
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Ernst has secured genuine policy victories on ethanol subsidies, farm bill provisions, and agricultural infrastructure that deliver real benefits to Iowa's agricultural sector. However, these victories accrue primarily to large-scale industrial agriculture, agribusiness conglomerates, and input manufacturers—not to family farmers. Her "support for Iowa farmers" is structurally real but directed at corporate agriculture rather than at the family farm consolidation crisis that actually threatens her constituency.
 
@@ -167,7 +167,7 @@ But CAFO regulation would threaten Tyson Foods, Cargill, JBS USA — the multina
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Farm Girl Brand:** Ernst's "make 'em squeal" hog castration ad and repeated invocation of her farm background are political branding designed to evoke family farming and rural authenticity. The brand is maintained even though her actual legislative record serves corporate agriculture, not family farmers.
 
@@ -191,7 +191,7 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Sen. Joni Ernst campaign finance summary](https://www.fec.gov/data/candidate/S4IA00129/) (Tier 1)
 - [The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/) (Tier 2)
@@ -203,7 +203,7 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 - [Wikipedia: 2026 United States Senate election in Iowa](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa) (Tier 3)
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
@@ -253,7 +253,7 @@ content-readiness:: ready
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412667) (Tier 1)
 <!-- auto:govtrack end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

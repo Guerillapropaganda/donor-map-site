@@ -27,7 +27,7 @@ donors: [[Miriam Adelson]]
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Jared Kushner. Trump's son-in-law. Senior White House adviser (2017–2021) managing Middle East policy, Saudi relationship, Abraham Accords, criminal justice reform, COVID response, and Mexico border wall. Left White House January 20, 2021. Incorporated Affinity Partners January 21, 2021. Received $2 billion from Saudi PIF by December 2021. Senate Finance Committee stated evidence that Kushner "acted as an unregistered foreign agent of the Kingdom of Saudi Arabia."
 
@@ -35,13 +35,13 @@ Net worth while in office: $140–181 million in disclosed assets; outside incom
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Kushner is not a politician who later monetized his connections. He is a business vehicle that briefly held a government position. The January 20 → January 21 timeline — leaves White House one day, incorporates private equity fund the next — is the clearest documentation in this vault of the revolving door between government power and personal enrichment. The Abraham Accords he brokered in office created the relationships he now monetizes. The $2 billion from Saudi PIF is the return on his government service, collected through management fees rather than a paycheck.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Kushner simultaneously:
@@ -55,7 +55,7 @@ Kushner is not a politician who later monetized his connections. He is a busines
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 Key financial relationships and their government-to-private pipeline — each links to a detailed sub-note:
 
@@ -87,7 +87,7 @@ The monetization concentrated exclusively on Middle East policy — the one area
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Kushner perfected the revolving door into a closed circuit — government service creates relationships, relationships create investment opportunities, fees create wealth, and the cycle repeats. The January 20→21 timeline is the key document.*
 
@@ -117,7 +117,7 @@ The monetization concentrated exclusively on Middle East policy — the one area
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Quiet Competence Claim:** Kushner's brand is the competent operator behind the chaos. The "adults in the room" narrative positions him as the reasonable one in Trump's orbit — obscuring that his competence is deployed in service of personal enrichment.
 
@@ -131,7 +131,7 @@ The monetization concentrated exclusively on Middle East policy — the one area
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Kushner drove criminal justice reform (First Step Act), a genuinely bipartisan policy achievement that appears unmonetized. This win limits itself to sentencing reform and good-time credits rather than addressing underlying incarceration infrastructure — it delivers real relief while allowing the carceral system to persist, functioning as reputation laundering for the family's extraction-based business model.
 
@@ -141,7 +141,7 @@ The monetization concentrated exclusively on Middle East policy — the one area
 
 ---
 
-### Class Analysis — The Revolving Door, Perfected
+## Class Analysis — The Revolving Door, Perfected
 
 Kushner perfected a model that most politicians only approximate: hold government power, create valuable relationships, leave office, monetize those relationships, return to advise on the same portfolio while collecting fees from the governments you're advising on. The revolving door usually requires multiple actors — a politician, a lobbyist, a fund manager. Kushner is all three simultaneously.
 
@@ -180,7 +180,7 @@ For the vault's class analysis: Kushner is the purest case of government-as-inve
 
 ---
 
-### Sources
+## Sources
 
 - [Senate Finance Committee: Wyden investigation of Kushner firm](https://www.finance.senate.gov/chairmans-news/wyden-investigation-of-kushner-firm-continues-new-letter-outlines-affinity-partners-fee-structure-lack-of-return-to-investors-questionable-deals-with-foreign-governments) (Tier 1)
 - [CREW: Jared and Ivanka White House income investigation](https://www.citizensforethics.org/reports-investigations/crew-investigations/jared-and-ivanka-made-up-to-640-million-in-the-white-house/) (Tier 2)

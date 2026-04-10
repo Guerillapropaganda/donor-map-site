@@ -28,7 +28,7 @@ profile-status:: developed
 
 ---
 
-### Who He Is
+## Who He Is
 
 Mike Waltz. National Security Advisor (Trump administration, January 2025 – May 2025). Subsequently moved to U.S. Ambassador to the United Nations. Former U.S. Representative, Florida's 6th Congressional District (R, 2019-2025). Green Beret (Army Special Forces). Pentagon policy official. Co-founder of Metis Solutions, a defense/intelligence contractor.
 
@@ -38,20 +38,20 @@ Career arc: Army Special Forces (Green Beret) → Pentagon policy official → c
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Waltz is the defense contractor revolving door operating at the highest level of national security decision-making. He co-founded a company that received $930 million in Pentagon contracts, sold it for $92 million just before the Afghanistan withdrawal eliminated its primary revenue stream, then entered Congress to advocate for continued military spending, and was rewarded with the National Security Advisor position — where he helps set the policy that determines which contractors profit. Every career transition increased his proximity to the decisions that generate defense contractor revenue.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Waltz publicly advocated for continued U.S. military presence in Afghanistan throughout his congressional career — arguing it was essential for national security. Meanwhile, his personal fortune derived from Metis Solutions, a defense contractor whose revenue depended on the Afghanistan mission continuing. He sold Metis to PAE for $92 million in November 2020, earning $5-25 million in capital gains, just before both Trump and Biden announced the end of the Afghan war. SIGAR (Special Inspector General for Afghanistan Reconstruction) audited Metis and found it "met few to none of contract deliverables." Waltz profited from a war he advocated continuing, through a company that failed to deliver on its contracts, then moved to the position that shapes the next generation of military deployments.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Waltz's donor profile is dominated by the defense industry — the sector he came from and returned to influence as NSA. His career finances reveal the symbiosis: defense contractors fund the politicians who fund the contractors.
@@ -103,7 +103,7 @@ As National Security Advisor during the early months of Operation Southern Spear
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -113,7 +113,7 @@ As National Security Advisor during the early months of Operation Southern Spear
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door:** The defining pattern. Military → Pentagon → defense contractor → Congress → NSA → UN Ambassador. Every transition serves the same structural function: converting military/policy expertise into donor relationships and back into policy influence.
 
@@ -123,7 +123,7 @@ As National Security Advisor during the early months of Operation Southern Spear
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Mike Waltz campaign finance summary](https://www.fec.gov/data/candidate/H8FL06148/) (Tier 1)
 - [OpenSecrets News: Trump administration profile — Mike Waltz](https://www.opensecrets.org/news/2025/03/trump-administration-profile-mike-waltz) (Tier 1)

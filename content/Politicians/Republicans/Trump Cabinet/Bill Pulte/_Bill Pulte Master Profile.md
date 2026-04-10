@@ -23,31 +23,31 @@ None yet. Potential sub-notes: GAO probe, politically motivated mortgage fraud r
 
 ---
 
-### Who They Are
+## Who They Are
 
 Bill Pulte (born May 28, 1988, Michigan/Washington, D.C.) is the grandson of PulteGroup founder William J. Pulte. He founded Pulte Capital Partners (2011), a private equity firm in building products ($30M revenue by 2014). He gained fame for "Twitter philanthropy" — giving away money to followers starting in 2019. He served on the PulteGroup board (2016–2020) and founded the Blight Authority (2015) for urban renewal. Confirmed as FHFA Director 56–43 in March 2025. Estimated net worth: $100–105M.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Pulte is a trust fund heir who leveraged inherited wealth into a political brand (Twitter philanthropy, Trump loyalty) and then into a regulatory position (FHFA Director) where he controls Fannie Mae and Freddie Mac — the entities that backstop the entire U.S. housing market. His tenure has been marked by the weaponization of regulatory authority: using FHFA's power to refer Trump critics to the DOJ for mortgage fraud investigations. He represents the donor-class capture of a regulatory agency — not through industry lobbying, but through direct installation of a political loyalist.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Pulte built a public brand around generosity (Twitter philanthropy, giving away money to followers) while using his regulatory position to punish political opponents. The man who tweeted $100 bills to strangers now wields federal mortgage oversight as a weapon against Trump critics — referring New York AG Letitia James, Rep. [[Adam Schiff]], Fed Governor Lisa Cook, and Rep. Eric Swalwell to the DOJ.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 > [!money] Follow the Money
 > Pulte is a heavy Republican donor and close Trump ally. His political spending operates through personal donations and LLC structures. A $500K contribution via LLC to a pro-Trump PAC in 2021 was alleged to be an illegal conduit donation.
 
-### Known political spending:
+## Known political spending:
 - $500K via LLC to pro-Trump PAC (2021) — alleged illegal conduit donation
 - Close Trump ally with personal relationship
 - Republican donor (specific federal contribution records need FEC API pull)
@@ -56,14 +56,14 @@ Pulte is a trust fund heir who leveraged inherited wealth into a political brand
 - Team Pulte Inc. (philanthropic foundation) funded with $200K
 - Team Pulte made $65K donation to One World Love LLC (2023) — questioned as potential conduit for Trump-related legal funds
 
-### Net worth sources:
+## Net worth sources:
 - Pulte Capital Partners (private equity, building products)
 - PulteGroup board compensation (2016–2020)
 - Family wealth (PulteGroup founder's grandson)
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
@@ -77,7 +77,7 @@ Pulte is a trust fund heir who leveraged inherited wealth into a political brand
 
 ---
 
-### Policy Area Notes
+## Policy Area Notes
 
 No sub-notes built yet. Key policy areas:
 - FHFA weaponization (politically motivated DOJ referrals)
@@ -89,13 +89,13 @@ No sub-notes built yet. Key policy areas:
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 Pulte uses populist framing — "fighting fraud," "protecting taxpayers" — to justify politically motivated actions. The mortgage fraud referrals are framed as regulatory enforcement rather than political retaliation. His Twitter persona (generous, direct, man-of-the-people) provides cover for wielding institutional power on behalf of a political faction.
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 - **Donor-Class Override** — Pulte uses FHFA regulatory authority to serve Trump's political interests rather than housing market stability. The DOJ referrals target Trump critics, not actual fraud patterns.
 - **Self-Funding as Independence** — His $100M+ net worth from family wealth and private equity provides financial independence, but his policy actions serve Trump's political loyalty test rather than independent judgment.
@@ -103,7 +103,7 @@ Pulte uses populist framing — "fighting fraud," "protecting taxpayers" — to 
 
 ---
 
-### Sources
+## Sources
 
 - [Wikipedia: Bill Pulte](https://en.wikipedia.org/wiki/Bill_Pulte) (Tier 4)
 - [Detroit Chamber: Bill Pulte bio](https://www.detroitchamber.com/bios/bill-pulte/) (Tier 3)

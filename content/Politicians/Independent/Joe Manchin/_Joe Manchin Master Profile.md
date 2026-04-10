@@ -35,19 +35,19 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Governor of West Virginia (2005–2010). Switched from Democrat to Independent in 2024 after declining to seek reelection. Explored a No Labels presidential bid before withdrawing. Founder of Enersystems Inc., a coal brokerage firm that paid him ~$500,000/year in dividends while he served in the Senate. Daughter Heather Bresch served as CEO of Mylan Pharmaceuticals during the EpiPen price scandal (391% increase). Net worth: ~$8 million.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator — one vote — killed $186 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then extracted the Mountain Valley Pipeline and mandatory fossil fuel lease sales as the price of passing the reduced Inflation Reduction Act. But unlike other fossil fuel-funded senators, Manchin's service to the fossil fuel industry is also self-service: his own company, Enersystems, paid him $5.2 million in coal dividends during the same period he was blocking climate legislation. The donor class didn't need to buy Manchin's vote — his personal financial interests and theirs were identical. He is the purest example of donor-class capture in the Senate: the senator IS the donor.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > West Virginia is the third-poorest state in America. Life expectancy: 47th. Opioid death rate: highest in the nation. Coal employment: collapsed from 60,000+ (1980s) to under 12,000 (2024). Manchin's personal coal company paid him $500,000/year. His daughter made $18.9 million/year pricing EpiPens beyond his constituents' reach. His No Labels flirtation was funded by $70 million from corporate donors seeking a centrist alternative. Every aspect of Manchin's career — the coal income, the pharmaceutical family wealth, the dark money presidential exploration — represents the extraction of value from a state too poor to demand better representation. West Virginia's poverty is not incidental to Manchin's power. It is the condition that makes his power possible: a captured electorate that re-elects based on cultural identity while the senator profits from their economic suffering.
@@ -104,7 +104,7 @@ Manchin and [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] operated as a two-
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Manchin's timeline has no "donations → policy" lag because Manchin IS the donor. The $500K/year Enersystems coal income means his personal financial interest is identical to his fossil fuel donors' policy interest.*
 
@@ -140,7 +140,7 @@ Manchin attended No Labels events, publicly considered the bid, and ultimately d
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The reluctant no:** "I just can't get there" — Manchin frames every donor-class vote as a painful personal struggle. The reluctance is the brand. The anguish is performed. The vote is predetermined by the financial interest.
 2. **The houseboat:** Manchin lives on a houseboat docked on the Potomac — "Almost Heaven," named after the John Denver song about West Virginia. The folksy touch masks the $500,000/year coal income and the $8 million net worth.
@@ -149,7 +149,7 @@ Manchin attended No Labels events, publicly considered the bid, and ultimately d
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Villain Framing** — Manchin frames his coal industry opposition to climate policy as representing the interests of West Virginia constituents ("I have to represent my state") rather than acknowledging that his personal coal income ($500K/year from Enersystems) creates identical interests with fossil fuel donors. When critics point to his conflict of interest, he frames opposition to his votes as coastal elitist condescension to West Virginia values, converting structural class analysis into regional resentment.
 
@@ -157,7 +157,7 @@ Manchin attended No Labels events, publicly considered the bid, and ultimately d
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Joe Manchin Campaign Finance Summary](https://www.fec.gov/data/candidate/S0WV00090/) (Tier 1)
 - [Senate financial disclosures: Enersystems dividends](https://www.senate.gov/senators/senators-contact.htm) (Tier 1)

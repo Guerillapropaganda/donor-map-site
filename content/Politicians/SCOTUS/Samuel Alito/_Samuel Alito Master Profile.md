@@ -29,26 +29,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated by George W. Bush after Harriet Miers withdrew — [[Leonard Leo|Leonard Leo]] orchestrated the switch. Confirmed 58-42. Author of Dobbs v. Jackson (overturning Roe v. Wade). 2008 Alaska fishing trip with hedge fund billionaire [[Paul Singer|Paul Singer]] (private jet, $100K+ value, undisclosed). Singer's NML Capital subsequently had 10+ cases before the Court — Alito never recused. Robin Arkley II provided free luxury lodge accommodations. Martha-Ann Alito: upside-down American flag (January 2021), Appeal to Heaven flag — refused recusal from J6 cases. Fossil fuel portfolio: $60K–$245K across 7 companies, triggering more recusals than any other sitting justice. The second proof of concept for donor capture on the Supreme Court.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Samuel Alito is the quieter version of the Thomas model — fewer gifts, the same structural capture. His 2008 Alaska fishing trip with [[Paul Singer|Paul Singer]] was arranged by [[Leonard Leo|Leonard Leo]], the same architect who secured Alito's nomination after engineering Harriet Miers's withdrawal. Singer's hedge fund went on to have 10+ cases before the Court; Alito participated without recusing and the Court ruled in Singer's favor in the Argentina debt case — a $2.4 billion outcome for Singer's fund. Leo arranged the trip, Leo arranged the nomination, Leo arranged the legal pipeline that brings donor-preferred cases to the Court. Alito doesn't receive Thomas-level patronage because he doesn't need to — his capture operates through social access, ideological alignment, and the structural fact that the same network that put him on the bench continues to litigate before him.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Samuel Alito accepted a fishing trip from [[Paul Singer|Paul Singer]] worth $100,000+ in private jet travel alone — then participated in Singer's $2.4 billion Argentina debt case without recusing. He holds $60K–$245K in fossil fuel stocks, requiring more recusals than any other justice — but only for the cases he can't avoid. His wife flew the upside-down American flag associated with "Stop the Steal" during January 2021 — then he refused to recuse from election and January 6 cases. When Rob Schenck alleged that wealthy donors used "Operation Higher Court" to gain dinner access to Alito and potentially received advance notice of the Hobby Lobby ruling, Alito called the allegations "completely false." The pattern: accept the benefit, deny the conflict, rule for the donor.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Singer Fishing Trip and Argentina Payday:
 - [[The Paul Singer Alaska Trip and the Argentina Payday]] — 2008 Alaska trip: private jet ($100K+), Robin Arkley II's lodge ($3K+), arranged by [[Leonard Leo|Leonard Leo]]. Singer's NML Capital: 10+ subsequent SCOTUS cases. Republic of Argentina v. NML Capital (2014): 7-1 ruling in Singer's favor, $2.4B settlement outcome. Alito never disclosed. Alito never recused.
@@ -61,7 +61,7 @@ Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Alito's capture operates through social access and ideological alignment rather than Thomas-level patronage. The Singer Alaska trip is the documented proof point: $100K+ in travel → $2.4B ruling in Singer's favor, no recusal.*
 
@@ -101,7 +101,7 @@ Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Fossil Fuel Masking:** Alito delivers on the religious right donor agenda (Dobbs, Hobby Lobby) while simultaneously benefiting from fossil fuel holdings he disclosed. The class analysis should address: the religious right rulings mask the fossil fuel capture he participates in. His most recusals of any justice (53 over three terms) reveal the fossil fuel conflicts he normally ignores.
 
@@ -111,7 +111,7 @@ Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The constitutionalist:** Alito's opinions claim fidelity to constitutional history and tradition. Dobbs relied on 17th-century English legal sources. The historical framing provides intellectual cover for outcomes that serve the donor class's policy preferences — deregulation, religious liberty as corporate shield, weakened administrative state.
 2. **The aggrieved conservative:** Alito has publicly complained about criticism of the Court, describing himself as a target of unfair attacks. The grievance narrative deflects from the substance of ethics complaints.
@@ -122,7 +122,7 @@ content-readiness:: ready
 
 ---
 
-### Sources
+## Sources
 
 - [Senate Judiciary Committee: Samuel Alito Confirmation Hearings (2006)](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
 - [Supreme Court: Justice Alito Official Financial Disclosure](https://www.supremecourt.gov/errors/PageNotFound.aspx?aspxerrorpath=/about/justices-associate-justices.aspx) (Tier 1)
@@ -135,7 +135,7 @@ content-readiness:: ready
 - [Washington Post: Martha-Ann Alito told The Post in 2021 that flag was 'signal of distress'](https://www.washingtonpost.com/politics/2024/05/25/alito-flag-martha-ann-washington-post/) (Tier 2)
  
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

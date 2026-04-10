@@ -27,20 +27,20 @@ known-gaps:
 
 ---
 
-### Who They Are
+## Who They Are
 
 Harry Reid was U.S. Senator from Nevada (1987–2017) and Senate Majority/Minority Leader (2005–2017) — the most powerful Democrat in the Senate for a full decade. He died in December 2021. Reid built the modern Democratic political machine in Nevada, a state whose economy is dominated by casino and gaming corporations, real estate development, and tourism. His career illustrates the complete integration of Democratic leadership with regional extractive industries.
 
-### The Central Thesis
+## The Central Thesis
 
 Reid was a powerful progressive on selected issues (labor alliance, some environmental stands, healthcare reform) while serving Nevada's gaming, real estate, and development donor base with absolute fidelity. He managed this by maintaining a progressive voting record on national issues while ensuring Nevada's wealth extraction apparatus remained unregulated and untouched. The Nevada machine: gaming corporations provide money, Reid delivers regulatory capture and state development policy, voters are told he fights for them because he votes for Democratic bills on their floor.
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Reid was both the Senate Democrat most aligned with labor unions (Culinary Workers Union, SEIU) AND the architect of state-level policies that protected casino wages at minimum levels while extracting enormous wealth from Nevada's tourism economy for corporate shareholders. He championed labor-friendly federal votes while ensuring Nevada's workers remained in low-wage service sectors. He positioned himself as a progressive fighter while being funded by the exact industries that kept his constituents poor — and he delivered for those funders first.
 
-### Donor Class Map
+## Donor Class Map
 
 ### Top Nevada donors and policy returns:
 
@@ -63,7 +63,7 @@ Reid was a powerful progressive on selected issues (labor alliance, some environ
 
 **Union Wages Without Profit-Sharing:** Reid maintained his alliance with the Culinary Workers Union and SEIU by supporting union organizing and wage improvements. However, he did not push for profit-sharing, ownership structures, or wealth distribution that would have fundamentally altered the gaming industry's extraction model. Union members got slightly higher wages while corporations maintained 85%+ profit margins. This is the genuine win + structural limit pattern: real wage gains that stop short of threatening capital accumulation.
 
-### Analytical Patterns
+## Analytical Patterns
 
 ### Pattern: Two-Audience Problem
 Reid performed progressivism on national votes (healthcare, labor, tax policy) while delivering capture on Nevada state issues (gaming, development, mining). His national voting record was real; his state-level delivery to donors was equally real. Voters saw the votes; they didn't see the regulatory permits and water rights.
@@ -74,13 +74,13 @@ Reid secured real healthcare reform (ACA), real labor support, real votes agains
 ### Pattern: Revolving Door (Light Version)
 Reid's post-Senate career includes a lobbying firm (The Reid Group) and consulting work directly with Nevada corporations and foreign entities. His Senate power translated directly into post-Senate income from the industries he regulated.
 
-### Class Analysis
+## Class Analysis
 
 Reid represents the democratic socialist paradox: a politician genuinely aligned with labor unions and progressive voting records who nonetheless executed capital's agenda on the issue that mattered most to his constituents — how Nevada's enormous wealth was distributed. The gaming companies did not fear Reid because he opposed them; they funded him because his politics were compatible with their wealth extraction.
 
 The Nevada machine illustrates how a regional power can balance labor alliance with donor service: give workers wage victories they can celebrate while keeping the ownership structure, profit distribution, and development patterns unchanged. It's not corruption in the legal sense; it's the normal operation of a donor-class political system that has successfully incorporated labor as a junior partner.
 
-### Sources
+## Sources
 
 - [FEC Campaign Finance: Harry Reid](https://www.fec.gov/data/candidate/S0702061/) (Tier 1)
 - [Nevada Secretary of State: Campaign Finance Database](https://sos.nv.gov/) (Tier 1)

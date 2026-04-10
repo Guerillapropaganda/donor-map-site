@@ -48,7 +48,7 @@ profile-status:: ready
 
 ---
 
-### Who He Is
+## Who He Is
 
 Kevin Owen McCarthy. Born January 26, 1965, in Bakersfield, California. U.S. Representative from California's 20th and 23rd districts (2007–2023). House Minority Leader (2019–2023). Speaker of the House (January–September 2023). Ousted by motion to vacate October 3, 2023, after 269 days as Speaker. Currently a lobbyist and political consultant.
 
@@ -58,13 +58,13 @@ McCarthy's politics are straightforward: he represents oil and gas interests in 
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 [[_Kevin McCarthy Master Profile|Kevin McCarthy]] is the fossil fuel industry's Speaker. His entire 16-year House career was funded by oil and gas money — $2.1 million lifetime, concentrated heavily after he became Leadership. As Speaker, he embedded $430 million in fossil fuel giveaways into the debt ceiling bill. His "Lower Energy Costs Act" was the oil industry's legislative wish list repackaged as populism. McCarthy proves the donor-first thesis at the leadership level: the Speaker doesn't set the agenda — the Speaker's donors do. When McCarthy could no longer deliver the agenda the billionaire class demanded, he was sacrificed. The man who raised $350 million+ through leadership PACs funded by corporate interests couldn't survive the populist base he was supposed to control. McCarthy is the answer to the question: what happens to the donor class's favorite fundraiser when the machine breaks?
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > McCarthy built his entire political brand on the claim that he was a "man of the people" — an outsider who understood rural California, opposed the "blob" of Washington insiders, and would fight for working Americans.
@@ -75,7 +75,7 @@ McCarthy's January 6 reversal crystallizes the contradiction. On January 10, 202
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Oil and Gas ($2.1M Career, $616K in 2022):
 - [[Chevron]] — single largest donor across multiple election cycles; refinery operations in Kern County
@@ -101,7 +101,7 @@ McCarthy's January 6 reversal crystallizes the contradiction. On January 10, 202
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Fossil Fuel / Oil & Gas
 
@@ -171,7 +171,7 @@ McCarthy introduced H.R. 4127 in July 2023 as a standalone bill to comprehensive
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — McCarthy's fossil fuel protection votes (RGGI withdrawal advocacy, clean energy rollback blocking) are real legislative victories for his oil/gas donors, but stop short of dismantling renewable energy infrastructure entirely. His wins protect legacy energy industry profits without fundamentally restructuring energy policy.
 
@@ -181,7 +181,7 @@ McCarthy introduced H.R. 4127 in July 2023 as a standalone bill to comprehensive
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Energy Independence" = More Drilling** — McCarthy frames fossil fuel expansion as about American independence and self-sufficiency. The rhetoric is nationalist; the outcome is oil company profits.
 
@@ -225,7 +225,7 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Kevin McCarthy donor profile](https://www.fec.gov/data/candidate/H6CA22125/) (Tier 1)
 - [FEC Receipts: Oil and gas contributions to McCarthy by cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)

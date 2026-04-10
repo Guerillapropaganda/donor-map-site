@@ -36,7 +36,7 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Tulsi Gabbard. Born April 12, 1981, Leloaloa, American Samoa. Republican (formerly Democrat, then Independent). U.S. Representative from Hawaii's 2nd district (2013–2021). 2020 Democratic presidential candidate. Director of National Intelligence (February 2025–present). Major, Hawaii Army National Guard. Iraq War veteran (2004–2005 deployment, Combat Medical Badge).
 
@@ -44,20 +44,20 @@ Career arc: Hawaii State Legislature (2002–2004) → Iraq deployment (2004–2
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Gabbard's journey from progressive Democrat (endorsed Bernie 2016) to Trump's DNI nominee is the most ideologically incoherent appointment in the Cabinet — unless understood through the lens of useful contrarianism. Her anti-establishment brand (left the DNC, opposed regime change, attacked Harris on criminal justice from the left) made her valuable to both right-wing media and foreign state propaganda. Assad meeting, RT appearances, Hindu nationalist donor connections, and the surveillance state reversal (from Section 702 opponent to DNI overseeing Section 702) complete the picture. The donor-class immune response to her Sanders endorsement ejected her from the Democratic Party; the Republican donor class received her as a cross-partisan validator who damaged the Democratic establishment from the inside.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > As a congresswoman, Gabbard introduced legislation in December 2020 to repeal Section 702 of FISA — the warrantless surveillance provision she called an "unconstitutional, illegal assault on our civil liberties." She cited FBI abuse of the surveillance system as her primary concern. At her DNI confirmation hearing in January 2025, she reversed course and endorsed Section 702, claiming FISA reforms had addressed her concerns. Senator [[_Susan Collins Master Profile|Susan Collins]] noted her written answers were "very hedged." The anti-surveillance congresswoman became the surveillance state's director. The anti-interventionist veteran now oversees the intelligence apparatus that enables interventions. The Sanders endorser now serves the administration that Sanders's "Hands Off!" rallies oppose. Each position reversal moved Gabbard closer to institutional power and further from the principles that originally distinguished her.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Anti-Establishment Brand and Its Backers:
 - [[The Anti-Establishment Brand and the Foreign Influence Questions]] — Gabbard's political transition from Democratic insurgent to Republican DNI is documented through her donor shifts, foreign media amplification, and Hindu nationalist funding connections. Her 2020 presidential campaign was 61–69% small-dollar funded — genuinely populist in structure. The transition to Republican alignment involved new donor relationships: Hindu nationalist organizations with RSS connections (Vishwa Hindu Parishad of America, Hindu Swayamsevak Sangh), right-wing media platform fees, and the implicit patronage of the Trump donor network that rewarded her for damaging Democratic candidates (the Harris debate, 2019).
@@ -73,7 +73,7 @@ Harris's polling never recovered — she dropped from ~15% to single digits and 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Gabbard's currency isn't traditional donor money — it's cross-partisan damage to Democrats. The Harris debate attack was the investment; the DNI appointment was the return. The "useful defector" circuit replaces the traditional donor-policy pipeline.*
 
@@ -105,7 +105,7 @@ Harris's polling never recovered — she dropped from ~15% to single digits and 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The anti-war veteran:** Gabbard's Iraq combat deployment (Combat Medical Badge, 2005) gives her anti-interventionist positions an authenticity that separates her from civilian politicians with the same views. The function: the military credential authenticates the anti-war message, which in turn authenticates her populist outsider brand. The veteran who opposes the wars is harder to dismiss than the civilian who does.
 2. **The left-attack on Democrats:** Gabbard consistently attacked Democratic establishment figures from their left flank — Harris on the prosecutor record, the DNC on corporate money, Biden on foreign policy continuity. The function: the left-coded attack is more credible than right-coded attacks, allowing her positions to be amplified by both progressive disillusionment and conservative opposition simultaneously. She became the preferred Democratic critic for Fox News precisely because she attacked Democrats on grounds that resonated with the left.
@@ -135,7 +135,7 @@ The Section 702 reversal is the defining irony: the congresswoman who called war
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Gabbard executed 50% ODNI staff cuts and $700M budget reduction, achieving significant downsizing of intelligence infrastructure. Yet these actions operate within executive authority over agency staffing and budget reallocation — they don't fundamentally restructure intelligence governance, they optimize it for Trump-aligned personnel and priorities while maintaining the appearance of institutional continuity.
 
@@ -151,7 +151,7 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Gabbard 2020 presidential campaign finance](https://www.fec.gov/data/candidate/H2HI02508/) (Tier 1)
 - [NPR: Gabbard confirmed as DNI (52-48, February 12, 2025)](https://www.npr.org/2025/02/12/nx-s1-5294635/tulsi-gabbard-confirmed-dni-intelligence-senate) (Tier 2)

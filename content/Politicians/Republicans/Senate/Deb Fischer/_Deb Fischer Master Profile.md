@@ -40,7 +40,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Deb Fischer is the senior senator from Nebraska and chairs the Senate Armed Services Subcommittee on Strategic Forces — the subcommittee with jurisdiction over U.S. Strategic Command (STRATCOM, headquartered at Offutt Air Force Base in Nebraska), the nuclear triad, missile defense, and the Department of Energy's nuclear weapons programs. She also sits on the Commerce Committee and the Agriculture Committee.
 
@@ -50,7 +50,7 @@ Nebraska is home to Offutt Air Force Base (STRATCOM headquarters), a major cattl
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Deb Fischer chairs the subcommittee that oversees the $141 billion Sentinel ICBM replacement program — built by Northrop Grumman — while STRATCOM headquarters sits in her state. She secured over $4 billion in Sentinel funding in the FY2026 NDAA alone. Defense contractors have donated $1.2 million to members of the Senate ICBM Coalition, and Fischer sits at the center of that coalition. The nuclear weapons modernization pipeline runs through Nebraska (STRATCOM) and through Fischer's subcommittee (Strategic Forces).
 
@@ -58,14 +58,14 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Fischer brands herself as a Nebraska rancher fighting for cattle producers. She is a member of the Nebraska Cattlemen, the National Cattlemen's Beef Association, and the Sandhills Cattle Association. But when legislation to reform cattle pricing and break meatpacker market power came before her Agriculture Committee in 2021, Fischer intervened to significantly weaken the bill — at the behest of the dominant meatpackers who have given her $1.5 million+ over her career. The compromise she brokered never passed. Independent ranchers are still waiting for relief. The rancher-senator sided with the meatpackers who exploit ranchers, because the meatpackers pay and the ranchers don't — at least not in campaign contributions.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Meatpacking / agribusiness: $1.5M+ career (JBS, Tyson, Cargill)
@@ -98,7 +98,7 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Defense Industry → Nuclear Modernization / Sentinel ICBM
 | Date | Type | Event | Donor | Amount | Gap |
@@ -127,7 +127,7 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Donor-Class Override (meatpackers vs. ranchers):** Nebraska's independent cattle ranchers — Fischer's nominal constituency — have pleaded for decades for market reform against the meatpacking oligopoly. Fischer, who receives $1.5M+ from those meatpackers, killed the reform. The donor class (JBS, Tyson, Cargill) overrode the constituency need (fair cattle prices). Fischer IS a rancher — but her campaign funding comes from the companies that squeeze other ranchers.
 
@@ -139,7 +139,7 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"As a rancher, I understand"** — The biographical credential that makes meatpacker-funded policy sound like agricultural authenticity. The function: inoculate against the charge that she serves corporate agriculture by claiming personal experience with ranch life.
 
@@ -149,7 +149,7 @@ Meanwhile, on Agriculture, Fischer has received over $1.5 million career from me
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Deb Fischer donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00033443) (Tier 1)
 - [FEC Candidate: Deb Fischer industry donors](https://www.fec.gov/data/candidate/S2NE00094/) (Tier 1)

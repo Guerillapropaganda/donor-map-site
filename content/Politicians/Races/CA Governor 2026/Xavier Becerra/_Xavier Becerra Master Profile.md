@@ -32,26 +32,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Xavier Becerra. U.S. Secretary of Health and Human Services (2021–2025, Biden administration). Former California Attorney General (2017–2021, appointed by Gov. Jerry Brown to replace [[_Kamala Harris Master Profile|Kamala Harris]]). Former U.S. Representative (CA-31, CA-34, 1993–2017, 24 years in Congress). 2026 California governor candidate. Net worth: $500,000–$1.8 million (2023 disclosure).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Xavier Becerra is the institutional Democratic Party candidate — his entire career has been built within Democratic power structures (Congress for 24 years, AG appointed by a Democratic governor, Cabinet secretary under a Democratic president). His appeal is seniority, institutional credibility, and a demonstrated record on pharmaceutical industry accountability (pay-for-delay settlements, drug pricing negotiations as HHS Secretary). But the central question for class analysis is: whose interests were served by his pharmaceutical industry enforcement, and what conflicts of interest exist between HHS experience managing drug pricing policy and pharmaceutical industry relationships? His Attorney General record shows aggressive prosecution of pay-for-delay schemes, but AG records are selective — which cases did he NOT bring? As HHS Secretary, he negotiated lower drug prices under the Inflation Reduction Act, but the negotiations were constrained by existing law and industry influence. The governor's race question is whether an institutional Democrat with a pharmaceutical industry enforcement record represents genuine healthcare accountability, or a managed containment of pharmaceutical industry power within Democratic governance.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Becerra's political identity is built on pharmaceutical industry accountability — his AG tenure included multiple pay-for-delay settlements and antitrust cases against drug makers, and his HHS tenure included drug price negotiations that achieved 38–79% discounts. This is genuine policy accomplishment. But the contradiction is structural: pharmaceutical industry power is not actually constrained by enforcement actions — it is managed by them. Becerra's settlements extracted money from companies (penalty payments) without forcing structural changes to drug pricing. His price negotiations under the IRA applied only to 10 drugs in 2023, leaving thousands of patented drugs at uncontrolled prices. His HHS tenure occurred in an administration that received massive pharmaceutical industry campaign contributions. The contradiction is not that Becerra is corrupt — it is that he represents managed pharmaceutical accountability: enough enforcement to maintain Democratic credibility on healthcare, not enough to actually restructure drug pricing power. His $3.8M cash-on-hand advantage (the highest in the field) comes from accumulated campaign accounts and institutional Democratic fundraising — he has proven ability to raise money from healthcare industry networks, suggesting his version of "accountability" is compatible with continued pharmaceutical industry political access.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Current Campaign Fundraising (2026):
 - Total raised: $2.6 million (H2 2025)
@@ -69,7 +69,7 @@ Becerra had $1.4 million remaining from an abandoned 2022 re-election bid for at
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Becerra's pharmaceutical enforcement as AG (pay-for-delay settlements, $69M from Teva, AB 824 ban on delay schemes) represented real legal victories against corporate malpractice. These are genuine. But they stopped short of structural change: pharmaceutical companies continued operating, drug prices continued rising, profit margins remained robust. His HHS drug price negotiations (38–79% discounts on 10 drugs) were real but limited to a tiny fraction of prescription drugs. The structural limit: regulatory enforcement against individual corporate violations does not threaten the underlying business model of high pharmaceutical pricing.
 
@@ -83,7 +83,7 @@ Becerra had $1.4 million remaining from an abandoned 2022 re-election bid for at
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Healthcare / Pharmaceutical Industry
 
@@ -122,7 +122,7 @@ Becerra had $1.4 million remaining from an abandoned 2022 re-election bid for at
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The HHS Accomplishment Claim:** "Under my leadership, we negotiated lower drug prices for seniors" — references IRA implementation but credits personally
 2. **The Pharmaceutical Accountability Record:** "I've fought drug companies my entire career — pay-for-delay settlements, antitrust cases" — establishes credentials without detailing limitations
@@ -131,7 +131,7 @@ Becerra had $1.4 million remaining from an abandoned 2022 re-election bid for at
 
 ---
 
-### Sources
+## Sources
 
 - ~~[FollowTheMoney.org: Xavier Becerra 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Xavier%20Becerra#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [FEC Candidate: Xavier Becerra campaign finance](https://www.fec.gov/data/candidate/H2CA30143/) (Tier 1)
@@ -178,7 +178,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA30143/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

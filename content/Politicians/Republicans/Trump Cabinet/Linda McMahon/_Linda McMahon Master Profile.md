@@ -48,26 +48,26 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World Wrestling Entertainment). Net worth: $3.2 billion. Combined McMahon family wealth: $3.9 billion. TKO Group Holdings: 16% family ownership (~$2.3B). Total Trump-aligned donations: $50M+ across three election cycles ($21M+ in 2024 alone to [[MAGA Inc|MAGA Inc]].). Self-funded two Connecticut Senate campaigns ($97M combined, lost both). SBA Administrator first Trump term (2017–2019, confirmed 81-19). Co-chaired Trump-Vance transition team with Lutnick. Founding chairperson of America First Policy Institute — the dark money think tank ($27.3M revenue, 2023) that drafted 86% of Trump's first 100 days policies and placed 73 alumni across the administration. Confirmed Education Secretary 51-45. Prior education experience: one year on Connecticut State Board of Education (2009). The $3.2 billion wrestling fortune that purchased control of American education policy.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Linda McMahon is the purest donor-to-cabinet pipeline in the Trump administration. $50M+ in political contributions purchased: SBA Administrator (first term), transition co-chair, and Education Secretary (second term). AFPI — the think tank she founded and chaired — drafted the policies she now implements: 86% enacted in Trump's first 100 days, with 73 AFPI alumni embedded across the government. She designs the agenda, leaves before implementation, then returns as cabinet secretary to execute her own policy designs. The education agenda — vouchers, school choice, defunding public schools — serves the private school industry, religious institutions, and for-profit education companies that constitute the donor class she represents. McMahon didn't buy influence over education policy. She bought the Department of Education itself.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Linda McMahon spent $97 million trying to buy two Senate seats in Connecticut. She lost both. She then spent $50M+ on Trump and received two cabinet positions without winning a single election. The democratic route failed. The donor route succeeded. Now she runs the Department of Education — the agency responsible for ensuring equal access to education for all Americans — while championing policies that redirect public school funding to private and religious institutions. The woman who co-founded a company that classifies its workers as independent contractors to deny them health insurance now oversees the education of 50 million American children. WWE wrestlers earn less than 10% of company revenue. The teacher shortage worsens. The class analysis is the same: extract from workers, redirect to owners.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The $50 Million Buy-In and the AFPI Pipeline:
 - [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] — $7.2M (2016 cycle), $4.5M+ (2020 cycle, plus $83M raised as America First Action chair), $21M+ (2024 cycle including $20M to [[MAGA Inc|MAGA Inc]].). Two failed $97M Senate campaigns. SBA (2017). Transition co-chair (2024). Education Secretary (2025). AFPI: 86% policy enactment rate, 73 alumni placed. The most expensive résumé in American politics.
@@ -80,7 +80,7 @@ Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: McMahon is the purest donor-to-cabinet pipeline — $50M+ purchased SBA (first term), AFPI policy design (interim), transition co-chair, and Education Secretary (second term). AFPI's 86% policy enactment rate means McMahon designs the agenda, then returns to implement it.*
 
@@ -109,7 +109,7 @@ Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The successful businesswoman:** McMahon frames herself as a self-made entrepreneur who built WWE from a small wrestling promotion. The framing obscures that the fortune was built on worker exploitation — independent contractor misclassification that denies healthcare to people suffering brain injuries for entertainment.
 2. **The philanthropist-donor:** $50M+ to Trump positioned as civic participation. The contributions are investments, not donations — each dollar purchased specific policy authority.
@@ -118,7 +118,7 @@ Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — McMahon championed school choice, vouchers, and charter expansion, achieving major redirection of public education funding to private and religious institutions. Yet these policies operate within existing educational authority structures — they don't fundamentally restructure education governance, they redirect the revenue stream toward the private sector donors who fund her politics.
 
@@ -128,7 +128,7 @@ Linda McMahon. Secretary of Education (2025–present). Co-founder of WWE (World
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Trump administration profile — McMahon](https://www.opensecrets.org/news/2025/01/trump-administration-profile-linda-mcmahon/) (Tier 2)
 - [Wrestlenomics: McMahon political donations breakdown](https://wrestlenomics.com/articles/2024/linda-mcmahon-contributed-more-than-10-million-to-help-elect-donald-trump-in-2024-a-breakdown-of-her-political-donations/) (Tier 2)

@@ -34,25 +34,25 @@ donors: [[Senate Majority PAC]] · [[ActBlue]] · Working Families PAC · [[Labo
 
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Dan Osborn Master Profile|Dan Osborn]] is an independent U.S. Senate candidate from Nebraska running in 2026 against incumbent Republican Pete Ricketts. He is a U.S. Navy veteran and industrial mechanic with over two decades of labor union organizing experience. Osborn served as president of Bakery, Confectionery, Tobacco Workers and Grain Millers International Union Local 50G in Omaha and led the major strike at Kellogg's Omaha plant in 2021, gaining national attention for his working-class organizing. His 2024 Senate campaign against Deb Fischer was one of the most competitive independent campaigns in Nebraska history, losing by only 7 points (47%–53%) in a state that broke for Trump by 20+ points. In late 2024, Osborn founded the Working Class Heroes Fund, a hybrid PAC designed to support working-class candidates for office. In July 2025, he announced his candidacy for the 2026 race.
 
-### The Central Thesis
+## The Central Thesis
 
 Osborn represents an emerging independent working-class model that is primarily funded by national Democratic infrastructure while maintaining an "independent" brand to appeal to Nebraska moderates and right-leaning working-class voters skeptical of the Democratic Party. His funding sources—[[Senate Majority PAC|Senate Majority PAC]] ($3.85M in 2024), the Democratic Senatorial Campaign Committee ($57,800), [[_Elizabeth Warren Master Profile|Elizabeth Warren]]'s PAC, and [[ActBlue|ActBlue]]'s donor network—show he is functionally a Democratic candidate with an "independent" label. The contradiction is fundamental: Osborn campaigns as anti-establishment while being bankrolled by the Democratic establishment, creating the illusion of working-class agency while delivering votes to Democratic leadership. His appeal is to Nebraska working-class voters who want a labor voice but are positioned as a vehicle for [[_Chuck Schumer Master Profile|Chuck Schumer]]'s Senate control.
 
 > [!money]
 > In 2024, Osborn raised over $1 million from 17,000+ donors (averaging $43.46 per contribution), but this understates his true fundraising: [[Senate Majority PAC|Senate Majority PAC]] spent $3.85 million supporting his candidacy, and the DSCC contributed $57,800 directly. For 2026, he has again raised over $1 million and continues to receive infrastructure support from Democratic super PACs and Senate leadership.
 
-### The Core Contradiction
+## The Core Contradiction
 
 Osborn campaigns as an "independent" outsider fighting against corporate-backed politicians and special interests, while his actual funding model is entirely dependent on Democratic Party infrastructure—specifically [[_Chuck Schumer Master Profile|Chuck Schumer]]'s [[Senate Majority PAC|Senate Majority PAC]], the DSCC, and [[ActBlue|ActBlue]] donors. He frames his mission as empowering working-class people to "vote in their own economic self-interest," yet his funding sources (wealthy out-of-state Democratic donors, mostly from California, New York, Massachusetts, and Washington, D.C.) represent the exact "billionaires and special interests" he rhetorically opposes. In 2024 and 2026, just 4 percent of his funding came from Nebraska; 96 percent came from national Democratic money. Additionally, Osborn's own campaign has paid family members over $370,000 across both cycles, converting campaign resources into family income while presenting himself as a labor advocate.
 
 > [!contradiction]
 > Osborn says his mission is to empower working-class voters against "special interests and billionaires." Yet 96 percent of his 2024 funding came from out-of-state Democratic donors, with Senate Majority PAC ($3.85M) and the DSCC operating as his de facto Super PAC. His wife, daughter, and sister-in-law received $370,000+ from his campaigns and Working Class Heroes Fund. For someone positioning as an anti-corruption, working-class champion, Osborn's family payroll—combined with his dependence on Democratic establishment money—contradicts his outsider brand.
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Total Donated/Spent | Key Policy Outcome/Intent | Timeline |
 |---|---|---|---|
@@ -63,7 +63,7 @@ Osborn campaigns as an "independent" outsider fighting against corporate-backed 
 | [[_Elizabeth Warren Master Profile|Elizabeth Warren]] PAC | ~$5,000 | Endorsement credibility and progressive movement alignment | 2024 |
 | Family Members (payroll) | $370,000+ | Campaign infrastructure and family income supplementation | 2024–2026 |
 
-### Policy Area Notes
+## Policy Area Notes
 
 | Sub-Note | Status | Summary |
 |---|---|---|
@@ -71,7 +71,7 @@ Osborn campaigns as an "independent" outsider fighting against corporate-backed 
 | Working Class Heroes Fund and Family Payroll | raw | PAC structure, family compensation, and contradiction with anti-corruption rhetoric |
 | Labor Union Endorsements and Working-Class Positioning | developed | UAW, union leadership support, and how labor legitimizes Democratic infrastructure funding |
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Senate Majority PAC spent $3.85M supporting Osborn — more than his own campaign raised. The DSCC contributed directly. Warren endorsed. 96% of his funding came from out-of-state Democratic donors. The "working-class hero" brand was manufactured by the same national Democratic infrastructure that funds every competitive Senate race.*
 
@@ -96,7 +96,7 @@ Osborn campaigns as an "independent" outsider fighting against corporate-backed 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Working Class Like You" Framing**: Osborn leads with his mechanic and union background, positioning himself as fundamentally different from establishment politicians. This obscures his dependence on Democratic establishment funding.
 
@@ -108,7 +108,7 @@ Osborn campaigns as an "independent" outsider fighting against corporate-backed 
 
 5. **Victim Framing on Corruption**: After his 2024 loss, Osborn has framed the race as lost to Republican establishment power and money. This ignores that he lost partly due to his own political model's limitations and partly to voter skepticism about his "independent" claims given his Democratic-establishment funding.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Osborn's labor organizing credentials (Kellogg's 2021 strike leadership) are genuine and represent real working-class power. His 2024 Senate campaign (47% in a +20 Trump state) was a genuine competitive performance. However, the structural limit is his funding model: 96% out-of-state money, primarily from wealthy Democratic donors in coastal states, contradicts his "working-class hero" brand. The genuine win (competitive campaign in red state) is constrained by the structural reality (totally dependent on Democratic establishment money). He can organize workers; he cannot build power independent of Democratic infrastructure.
 
@@ -136,7 +136,7 @@ Osborn campaigns as an "independent" outsider fighting against corporate-backed 
 
 **Campaign Website**: [osbornforsenate.com](https://www.osbornforsenate.com/?q=Dan%20Osborn)
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Osborn's 2024 campaign came within 7 points of unseating a Republican in a state Trump won by 20+, which represents genuine grassroots labor mobilization. His local 50G strike leadership and union credentials are authentic. However, the structural limit is clear: even with Senate Majority PAC ($3.85M), DSCC ($57.8K), and ActBlue small-dollar network, he still lost. His "independent" branding masks that the fundraising infrastructure and strategic support came entirely from Democratic Party apparatus. The win would have proven something; the loss proves that even well-funded labor candidates dependent on Democratic infrastructure face structural ceilings in red states.
 
@@ -144,7 +144,7 @@ Osborn campaigns as an "independent" outsider fighting against corporate-backed 
 
 ---
 
-### Sources
+## Sources
 
 - [FEC.gov: Candidate Dan Osborn (S4NE00207)](https://www.fec.gov/data/candidate/S4NE00207/) (Tier 1)
 - [Nebraska Examiner: Dan Osborn raises more than $1 million for second Nebraska U.S. Senate race against Ricketts](https://nebraskaexaminer.com/2025/10/02/dan-osborn-raises-more-than-1-million-for-second-nebraska-u-s-senate-race-against-ricketts/) (Tier 2)

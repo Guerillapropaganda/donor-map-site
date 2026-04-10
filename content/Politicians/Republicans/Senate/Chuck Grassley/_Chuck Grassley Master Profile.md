@@ -35,7 +35,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Chuck Grassley is 92 years old and the longest-serving Republican senator in history. He has held his Iowa Senate seat since 1981 — 45 years. He is President pro tempore of the Senate (third in the presidential line of succession) and chairs the Judiciary Committee, the body that confirms every federal judge, Supreme Court justice, and Attorney General in America.
 
@@ -45,7 +45,7 @@ Grassley brands himself as the Iowa farmer who still lives on the family farm. H
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Chuck Grassley is the gatekeeper of the federal judiciary and the pharmaceutical industry's most useful contradiction. He holds the single most powerful position in American judicial politics — Judiciary Committee chair — and has used it to reshape the federal bench for a generation. He blocked Merrick Garland's Supreme Court nomination for 293 days (the longest blockade in modern history), creating the vacancy that gave Trump his first Supreme Court pick. He shepherded Brett Kavanaugh through the most contested confirmation in decades.
 
@@ -53,14 +53,14 @@ But Grassley is also a genuine whistleblower champion who has spent decades prot
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Grassley has received $997K from insurance and $1.4M+ from pharma over his career. He chairs the committee that confirms the judges who rule on insurance and pharmaceutical cases. He also co-authored the Wyden-Grassley drug pricing bill — genuine legislation to lower prescription drug prices — which was killed not by Democrats but by his own party leadership (McConnell refused to bring it to the floor). Grassley's drug pricing work is real and repeatedly sabotaged by the same Republican infrastructure he enables through judicial confirmations. He builds the conservative judicial pipeline that protects corporate power while simultaneously trying to use legislation to constrain pharmaceutical pricing. The judiciary outlasts the legislation every time.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising (career):
 - Insurance industry: $997,000+
@@ -90,7 +90,7 @@ Grassley's son Robin has received over $1.4 million in USDA farm subsidies. Gras
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Conservative Legal Movement → Judicial Transformation
 | Date | Type | Event | Donor | Amount | Gap |
@@ -122,7 +122,7 @@ Grassley's son Robin has received over $1.4 million in USDA farm subsidies. Gras
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Genuine Win + Structural Limit:** Grassley's whistleblower protection work is the genuine win — decades of real legislation protecting government employees who expose fraud. The structural limit: the judges he confirms through Judiciary undermine whistleblower protections through narrow rulings on standing, qualified immunity, and retaliation claims. Grassley builds the legislative framework and the judicial framework simultaneously, and the judicial framework wins in the long run.
 
@@ -134,7 +134,7 @@ Grassley's son Robin has received over $1.4 million in USDA farm subsidies. Gras
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Iowa common sense"** — The farm-boy framing that positions Grassley as the anti-Washington outsider despite 67 years in elected office. He tweets about farming and uses folksy language. The function: maintain the brand of independence while chairing the most powerful committee in Washington.
 
@@ -153,7 +153,7 @@ Grassley's son Robin has received over $1.4 million in USDA farm subsidies. Gras
 
 ---
 
-### Sources
+## Sources
 
 - [Congress.gov: Chuck Grassley donor profile](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)
 - [Congress.gov: Chuck Grassley industry donors](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded) (Tier 1)

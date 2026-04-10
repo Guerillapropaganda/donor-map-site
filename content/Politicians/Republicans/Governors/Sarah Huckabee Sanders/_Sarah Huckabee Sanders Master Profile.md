@@ -30,7 +30,7 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Sarah Elisabeth Huckabee Sanders. Born August 13, 1982. Governor of Arkansas (2023–present). Former White House Press Secretary (2017–2019). Daughter of Mike Huckabee (former Arkansas Governor 1996–2007). Political career built entirely on proximity to power and family dynasty.
 
@@ -38,7 +38,7 @@ Sanders became nationally known through her role as Trump's Press Secretary, whe
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Sarah Huckabee Sanders monetized the Trump brand into a governorship and is now using that governorship to implement a corporate donor agenda that mirrors the national Republican platform. She is not a independent political force; she is a transmission mechanism for downstream capital interests. Her signature policies — the LEARNS Act (education vouchers), child labor law rollback, and general business deregulation — serve Arkansas's wealthiest interests (primarily the Walton family of Walmart) while her rhetorical brand remains anchored to Trump loyalty and culture war positioning.
 
@@ -48,7 +48,7 @@ The $19,000 lectern scandal reveals the underlying dynamic: Sanders' office enga
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Sarah Huckabee Sanders became politically famous by defending Trump's policies — a political brand built on proximity and loyalty. She then won office as Governor of Arkansas in a state with the 47th-worst median income in America and child poverty among the worst in the nation. Her governing record: education vouchers (funnel public money to private schools, benefiting wealthy families and the Walton Foundation), child labor law rollback (fewer protections for working-class children), and spending $19,000 on a custom lectern while her administration cut public school funding relative to inflation.
@@ -57,7 +57,7 @@ The $19,000 lectern scandal reveals the underlying dynamic: Sanders' office enga
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Trump Network:
 - Small-dollar donors nationwide who see Sanders as a Trump political product
@@ -109,7 +109,7 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Sanders monetized the Trump brand into a governorship, then used it to implement the Walton Family Foundation's privatization agenda. 66% of her $12.8M came from out-of-state Trump supporters; the policy outcomes serve Arkansas's wealthiest family.*
 
@@ -138,7 +138,7 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Trump Loyalty Brand:** Sanders' entire political identity is anchored to Trump proximity and loyalty. She frames policies through culture war language (education "freedom," anti-woke positioning) while implementing corporate policy. The Trump brand provides political cover for privatization and deregulation.
 
@@ -150,7 +150,7 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Sanders' LEARNS Act (education vouchers) is a real policy victory for privatization donors, but stops short of threatening the Trump base that funds her campaign. The voucher program extracts public money to private schools without dismantling public education entirely, maintaining both the appearance of choice and the donor-class advantage.
 
@@ -160,7 +160,7 @@ The scandal reveals the personal enrichment pattern: Sanders' office engages in 
 
 ---
 
-### Sources
+## Sources
 
 - [Ballotpedia: Sarah Huckabee Sanders — campaign finance and donor data](https://ballotpedia.org/Sarah_Huckabee_Sanders) (Tier 3)
 - [Arkansas Secretary of State: Campaign contributions](https://www.sos.arkansas.gov/elections/campaign-finance) (Tier 1)

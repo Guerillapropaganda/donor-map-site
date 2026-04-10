@@ -37,26 +37,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 John Thune. Senate Majority Leader (2025–present). Republican senator from South Dakota (2005–present, 4th term). The man [[_Mitch McConnell Master Profile|Mitch McConnell]] chose as his successor. Won the leadership race 29-24 over John Cornyn on the second ballot after [[_Rick Scott Master Profile|Rick Scott]] (Trump/Musk-backed) was eliminated in the first round. Career fundraising: $20+ million this cycle, $4 million single transfer to NRSC (largest ever by a Senate Republican). Top corporate donor: NextEra Energy (~$300K since 2016). Insurance industry: $361K (PAC + individual). Telecom: $928K+ career from ISPs (AT&T, Verizon, Comcast) — second-highest Senate recipient of telecom money in 2015-16. Led opposition to net neutrality. Pharma CEOs: $35K in a single month (Pfizer, Gilead, Eli Lilly CEOs in February 2022). Finance: [[Goldman Sachs|Goldman Sachs]], Citigroup, Blackstone, Capital Group. Called for Trump to withdraw in October 2016 ("[[_Donald Trump Master Profile|Donald Trump]] should withdraw and Mike Pence should be our nominee") — Trump threatened to primary him. March 2024 Mar-a-Lago reconciliation dinner. Now clearing Trump nominees and blocking tariff resolutions. The agricultural-state senator funded by telecom, insurance, and Wall Street who campaigns on "South Dakota values" from the Senate Majority Leader's office.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > John Thune's 20-year Senate career demonstrates the corporate capture model at its most institutionally successful. An agricultural-state senator from South Dakota — population 900,000, median household income $65K — is funded primarily by NextEra Energy ($300K), ISP conglomerates ($928K+ career), insurance PACs ($361K), pharmaceutical executives ($35K in a single month), and Wall Street firms. He governs accordingly: led the fight against net neutrality (serving AT&T/Verizon/Comcast), supported Dodd-Frank rollbacks (serving [[Goldman Sachs|Goldman Sachs]]/Citigroup), and blocked bipartisan tariff rebukes (serving Trump's corporate agenda despite personal tariff skepticism). The "South Dakota values" brand masks the most establishment-captured senator in the chamber. His rise to Majority Leader was a McConnell succession plan — not a populist mandate. The secret ballot that elected him preserved his donor-class support while allowing MAGA-aligned senators to publicly posture for Trump.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > John Thune campaigns on South Dakota agricultural values — farm bills, Conservation Stewardship Program, rural broadband, "home-grown American energy." His donor base is telecom conglomerates ($928K+ from ISPs), insurance PACs ($361K), pharmaceutical executives, and Wall Street. The senator who champions rural broadband access opposes the net neutrality rules that would prevent his telecom donors from throttling rural internet service. The senator who called for Trump's withdrawal in 2016 now blocks bipartisan resolutions rebuking Trump's tariffs. The senator from an agricultural state where tariffs hurt farmers most defends the tariff regime because the president who threatened to primary him now needs defending. Every contradiction maps to the same structure: donor interest over constituent interest, Trump alliance over principle.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Telecom-Insurance-Pharma Donor Architecture:
 - [[The Telecom-Insurance-Pharma Donor Architecture]] — ISPs $928K+ career (AT&T, Verizon, Comcast). Insurance PACs $233.5K + individuals $127.6K. Pharma CEOs $35K in February 2022 alone (Pfizer $5.8K, Gilead $5.8K, Eli Lilly $2.9K). NextEra Energy ~$300K. [[Goldman Sachs]], Citigroup, Blackstone. Net neutrality opposition serves telecom donors. ACA skepticism serves insurance donors. "South Dakota values" messaging masks corporate donor architecture.
@@ -66,7 +66,7 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: the "South Dakota values" senator is funded by telecom conglomerates ($928K+), insurance PACs ($361K), pharmaceutical executives, and Wall Street — every vote on net neutrality, drug pricing, and financial regulation traces to these donors, not to South Dakota farmers.*
 
@@ -100,7 +100,7 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Two-Audience Problem** — Thune campaigns on South Dakota agricultural values (farm bills, rural broadband, conservation programs) while his actual donor base is telecom conglomerates ($928K+ career from AT&T, Verizon, Comcast), insurance PACs, pharmaceutical executives, and Wall Street. He promised rural broadband access but opposed net neutrality rules that would prevent telecom donors from throttling that same service. South Dakota's agriculture faces tariff damage from Trump's trade policies, yet Thune blocks bipartisan resolutions rebuking those tariffs because the president who threatened to primary him needs defending.
 
@@ -108,7 +108,7 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The South Dakota farm senator:** Conservation programs, rural broadband, "home-grown energy." The function: mask the telecom/insurance/pharma donor base with agricultural identity. South Dakota's economy depends on agriculture; Thune's fundraising depends on corporations that have nothing to do with farming.
 2. **The reluctant Trump ally:** Called for withdrawal in 2016, threatened with primary, Mar-a-Lago reconciliation in 2024, now clearing nominees and blocking tariff rebukes. The function: maintain donor-class credibility (corporate donors want stability) while serving Trump's political needs (nominees confirmed, tariffs protected from rebuke).
@@ -116,7 +116,7 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Thune career fundraising and industry donors](https://www.fec.gov/data/candidate/H6SD00085/) (Tier 1)
 - [FEC.gov: Thune campaign filings](https://www.fec.gov/data/candidate/S2SD00068/) (Tier 1)
@@ -127,7 +127,7 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 - [The Hill: Tariff resolution and Thune blocking](https://thehill.com/homenews/senate/5225742-thune-republicans-trump-tariffs/) (Tier 2)
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

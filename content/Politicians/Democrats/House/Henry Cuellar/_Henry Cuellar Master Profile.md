@@ -40,7 +40,7 @@ profile-status:: ready
 
 ---
 
-### Who He Is
+## Who He Is
 
 Henry Cuéllar. U.S. Representative, Texas's 28th District (2005–present). Democrat. The first Congressman to be convicted of bribery in 36 years. FBI raided his home in June 2022. Indicted May 2024 on 14 counts: money laundering, receiving bribes from a foreign government, conspiracy to commit bribery, FARA violations. December 2025: Trump issued a presidential pardon, erasing the conviction. The most explicit corruption case in this vault — not a lobbyist proxy, not a policy quid pro quo, but literal cash payments from a foreign government to a Congressman's bank account with recorded floor speeches and legislative language insertion in return.
 
@@ -48,20 +48,20 @@ Born 1955 in Laredo, Texas, on the U.S.-Mexico border. Son of a former Congressm
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Henry Cuéllar is the most explicit donor-to-policy case in this vault: foreign bribes converted directly into legislative action. Azerbaijan's state oil company paid $300,000+ to Cuéllar through intermediaries 2014-2021. The payments were documented by FBI investigators and DOJ prosecutors. In return, Cuéllar delivered: floor speeches supporting Azerbaijan's geopolitical position, legislative language inserted into bills advancing Azerbaijan's interests, and violation of Foreign Agents Registration Act (FARA) disclosure requirements. He did not hide this as legal campaign financing or lobbying — he hid it in offshore accounts and reported it as consulting income to tax authorities. Trump's pardon (December 2025) erased the conviction and sent a clear message: foreign bribery is only a crime if you are an enemy of the incoming administration. The Blue Dog brand — conservative enough to take oil money, Democratic enough for party protection — was the structural vulnerability that made him available for this arrangement.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Cuéllar represents Texas's 28th District — a border area with 99% Hispanic population (2020 census). He claims the "independent moderate" mantle, positioning himself as pragmatic, pro-border-security, pro-business. Simultaneously, he was literally on the payroll of Azerbaijan's state oil company — a dictatorial petrostate with zero connection to his district, zero constituent interest. He claimed to represent Texas oil interests and border working-class voters while taking bribes from a foreign oligarchy with a human rights record rated among the worst in the world. His defense: "independent advocate." The prosecution's evidence: bank transfers, recorded conversations, FARA filings he failed to make. The pardon: presidential erasure of accountability. The function: The Blue Dog model created political space for taking money that would have destroyed a progressive.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Foreign Bribery Network — Azerbaijan
 [See: Azerbaijan State Oil Company (SOCAR) Bribery of Henry Cuellar]
@@ -99,7 +99,7 @@ The Mexico banking money was more sophisticated than Azerbaijan's: it came throu
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Cuellar is the most explicit corruption case in the vault — literal cash payments from a foreign government to a Congressman's bank account. Azerbaijan's SOCAR paid $360K through sham consulting; Banco Azteca paid $236K through intermediaries. Trump's pardon erased the conviction.*
 
@@ -126,7 +126,7 @@ The Mexico banking money was more sophisticated than Azerbaijan's: it came throu
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Cuellar's Blue Dog positioning on border security and fiscal conservatism represents a genuine political identity that resonates in his border district. His votes on border security matters reflect consistent ideological positioning, not pure donor capture. However, the structural limit is absolute: the Blue Dog brand — "conservative enough to take corporate money" — created the vulnerability that made him available for foreign bribery. The genuine policy position and the donor corruption are not separate phenomena. They are connected: the brand that enables one enables the other.
 
@@ -134,7 +134,7 @@ The Mexico banking money was more sophisticated than Azerbaijan's: it came throu
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 ### The "Independent Moderate" Framing
 Cuéllar built his career on the claim of independence: not a progressive, not a right-wing extremist, just a pragmatist from the border who understands business and border security. This rhetoric created cover for taking money from interests that would have been politically toxic to a Democrat in a progressive district. The Blue Dog caucus exists precisely to provide this cover — it is a licensing arrangement where "moderation" is the brand that permits oil money, foreign money, and deregulation voting without triggering internal party accountability.
@@ -147,7 +147,7 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 
 ---
 
-### Sources
+## Sources
 
 - [DOJ Indictment: United States v. Henry Cuéllar](https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and) (Tier 1)
 - [OpenSecrets: Henry Cuéllar Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00000840) (Tier 1)

@@ -34,26 +34,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Tony Thurmond. California Superintendent of Public Instruction (2019–present). Former State Assemblymember (2014–2019). 2026 California governor candidate. First and only African American elected to statewide office running in 2026 race. Net worth: $100,000–$400,000 (2023 disclosure).
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Tony Thurmond is the education establishment candidate — his superintendent tenure represents the interests of [[CTA - California Teachers Association|California Teachers Association]] (CTA) and public education institutional networks, in direct conflict with the charter school billionaire coalition backing Villaraigosa. His candidacy puts the charter school-vs.-teachers union war at the center of the 2026 race. The central contradiction: Thurmond's fundraising is devastatingly weak ($256,000 raised, lowest of any candidate), making his campaign viability entirely dependent on a CTA endorsement that has not yet materialized (as of March 2026). If CTA endorses him, his campaign becomes viable through union ground game and endorsement legitimacy. If CTA stays neutral, Thurmond finishes far outside the top-two. This is the starkest class analysis of any 2026 candidate: one union (CTA, 325,000 members) holds power to make or break an entire candidacy. The governor's race becomes a referendum on whether teachers union political power can compete with billionaire education reform money.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Thurmond's political identity is built on public education leadership and institutional education networks — his superintendent tenure shows genuine commitment to education policy. He secured $6.6B in pandemic school funding, distributed face masks and tests, advocated for equity initiatives. This is real accomplishment. But the contradiction is his near-complete inability to convert that accomplishment into campaign fundraising. At $256,000 raised, his fundraising is at the poverty line of 2026 California governor campaigns. He cannot purchase media, cannot staff a statewide campaign, cannot compete with Steyer's $66.7M or Mahan's $24M. His campaign viability depends entirely on external institutional support: either CTA endorsement + ground game, or he becomes a historical curiosity (an education leader running for governor but unable to fundraise enough to be taken seriously). The contradiction is not a personal failure — it reflects a structural imbalance: billionaire education reformers (Reed Hastings' $7M+ in 2018) can purchase political viability, while the teachers union (CTA) must prove whether democratic membership endorsement and ground game can compete. Thurmond is not the candidate — he is the vessel for testing whether union power can match billionaire education money.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Current Campaign Fundraising (2026):
 - Total raised: $256,000 (lowest of any candidate)
@@ -86,7 +86,7 @@ None of the major state labor unions (CTA, [[Teamsters - International Brotherho
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Thurmond secured $6.6 billion in pandemic education funding and distributed masks, tests, and PPE to schools. This is real accomplishment. But it stopped short of structural education transformation: school closures lasted longer than in other states (pandemic crisis management, not policy choice), and no permanent transformation of education investment followed. The structural limit: pandemic funding was temporary; permanent public education funding remains strained. Thurmond administered the crisis without restructuring the system that made schools vulnerable to crisis in the first place.
 
@@ -100,7 +100,7 @@ None of the major state labor unions (CTA, [[Teamsters - International Brotherho
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Thurmond's table is notable for the absence of major donors. No significant education donor network (CTA neutral, no billionaire charter school money, no major labor endorsements). $256K fundraising total is a symbolic candidacy, not a viable race.*
 
@@ -137,7 +137,7 @@ None of the major state labor unions (CTA, [[Teamsters - International Brotherho
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The Superintendent Credential:** Emphasizes statewide education leadership
 2. **The Pandemic Response Frame:** Points to $6.6B funding secured, masks/tests distributed
@@ -160,7 +160,7 @@ This unresolved contradiction makes the CTA endorsement decision even more signi
 
 ---
 
-### Sources
+## Sources
 
 - ~~[FollowTheMoney.org: Tony Thurmond 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Tony%20Thurmond#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2)
@@ -171,7 +171,7 @@ This unresolved contradiction makes the CTA endorsement decision even more signi
 profile-status:: ready
 content-readiness:: ready
 
-### Influence Network (Cross-Reference)
+## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|

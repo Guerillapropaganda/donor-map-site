@@ -45,26 +45,26 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Ted Cruz. Senior Senator from Texas (2013–present). Princeton undergraduate, Harvard Law (magna cum laude), Supreme Court clerk (Chief Justice Rehnquist), Texas Solicitor General. 2016 Republican presidential candidate (second to Trump). Won 2024 reelection in the most expensive Senate race in American history ($192M total). Net worth: ~$4.5 million (plus Heidi Cruz's [[Goldman Sachs|Goldman Sachs]] Managing Director compensation). The most publicly disliked Republican senator who keeps winning because the money never stops.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Ted Cruz is the perfect case study in donor-class override of personal unpopularity. He is consistently rated the least-liked senator among his own colleagues. His favorability ratings are among the lowest of any incumbent senator. He fled to Cancún while his constituents froze to death. He publicly humiliated himself by phone-banking for the man who attacked his wife and father. And he won reelection in 2024 because $192 million in donor money — led by [[Robert Mercer|Robert Mercer]]'s $31M+ career investment, $4.8M from oil and gas, and an emerging crypto donor base — made his personal toxicity irrelevant. Cruz proves the thesis: in the donor-class system, electability is purchased, not earned.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Cruz ran for Senate as a Tea Party outsider fighting the "Washington cartel." His campaign was secretly financed by $1.43 million in undisclosed [[Goldman Sachs|Goldman Sachs]] and Citibank loans — from the bank where his wife is a Managing Director. He rails against the elite while his household income depends on Goldman Sachs profitability. He campaigns as a populist while [[Robert Mercer|Robert Mercer]] ($31M+), fracking billionaires ($15M), and oil companies ($4.8M career) finance his career. The "outsider" brand is the product. The donor class is the customer. The voters are the audience.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Texas Energy Machine:
 - [[Oil Gas and the Texas Energy Donor Base]] — $4.8M career from oil and gas. Wilks brothers (fracking billionaires) gave $15M in 2012 alone. Climate denial as legislative service. Texas grid failure (246+ dead) caused by the deregulatory framework his donors fund him to maintain. Cruz fled to Cancún; his donors' profits were unaffected.
@@ -93,7 +93,7 @@ Cruz's relationship with Trump reveals the donor-class hierarchy:
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Two-Audience Problem** — Cruz performs "America First" populist messaging to Trump voters while his household income depends on Goldman Sachs profitability (wife is Managing Director) and his campaign is funded by Robert Mercer ($31M+), fracking billionaires ($15M), and emerging crypto networks. His leaked 2026 recordings reveal private criticism of Trump's tariffs to donor audiences while he performs public MAGA loyalty. Voters receive populist theater; the donor class receives consistent service on deregulation and capital preferencing.
 
@@ -101,7 +101,7 @@ Cruz's relationship with Trump reveals the donor-class hierarchy:
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Fossil Fuel / Oil & Gas
 
@@ -136,7 +136,7 @@ Cruz's relationship with Trump reveals the donor-class hierarchy:
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The constitutional originalist:** Princeton debate champion turned Supreme Court litigator. Deploys elaborate constitutional arguments to justify positions that happen to align perfectly with donor interests. The intellectual packaging makes the donor service look principled.
 2. **The culture warrior:** Cancún Ted pivots to culture war attacks (CRT, trans athletes, "woke" corporations) when donor-class issues require distraction. The culture war is the cover for the donor-class agenda.
@@ -145,7 +145,7 @@ Cruz's relationship with Trump reveals the donor-class hierarchy:
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Cruz career donors, oil/gas totals, 2024 race spending](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
 - [FEC: undisclosed loan violations, Bitcoin Freedom PAC](https://www.fec.gov/data/committee/C00822775/?tab=filings) (Tier 1)
@@ -208,7 +208,7 @@ conte
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S2TX00312/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

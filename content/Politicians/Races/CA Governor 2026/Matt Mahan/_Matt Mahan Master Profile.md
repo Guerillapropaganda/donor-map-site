@@ -33,7 +33,7 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — founded Causes (Facebook civic engagement app, 190 million users), co-founded Brigade Media. Harvard graduate (same class as Zuckerberg). Teach for America alum (middle school English/History, Alum Rock). Running for California governor 2026.
 
@@ -41,20 +41,20 @@ Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — found
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Matt Mahan is the Silicon Valley donor class's preferred candidate for California governor. His campaign is not funded by tech billionaires because he happens to be from San Jose — it's funded by tech billionaires because his policy platform serves their material interests: opposition to the billionaire tax, housing deregulation that benefits developers, light-touch AI regulation, and "common-sense governance" that means less regulation of the companies his donors run. The 25+ billionaires who maxed out didn't discover Mahan after he announced. They chose him because his career, from Causes to City Hall, was built within their network. He is the tech class's candidate for the tech class's state.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Mahan positions himself as a pragmatic moderate — a problem-solver who happens to attract tech support. But the sequence tells the real story: he announced opposition to California's proposed billionaire tax, then billionaires maxed out contributions within weeks. The policy came first; the money followed. Mahan claims his anti-tax position is about preventing capital flight — "working people will pick up the tab" — but the primary beneficiaries of killing the billionaire tax are the 25+ billionaires who fund his campaign. He is using populist language ("rising economic tide lifts all boats") to defend the interests of the wealthiest class of donors in this vault.
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Mahan's San Jose housing deregulation produced real housing permits and real units built (30-day permitting, cap on fees). These are genuine. But they stop short of solving housing affordability: units are market-rate, not affordable; the cap on fees is modest relative to total development costs; the policy benefits developers more than housing-insecure residents. The structural limit: housing deregulation without affordability requirements or public ownership provides the appearance of housing action while serving developer interests.
 
@@ -62,7 +62,7 @@ Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — found
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Billionaire Network:
 - [[The Silicon Valley Billionaire Donor Map]] — 25+ billionaires, $8.6M+ direct, $24M+ total. Sergey Brin, Garry Tan, David Baszucki, Rick Caruso, Kyle Vogt, Marc Merrill, Chris Wanstrath. The concentration is extraordinary: 86% of all billionaire donations in the race.
@@ -78,7 +78,7 @@ Matt Mahan. San Jose Mayor (2023–present). Democrat. Former tech CEO — found
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Tech Billionaire Network
 
@@ -134,7 +134,7 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Common sense" framing:** Every position is presented as pragmatic rather than ideological. The tech industry's preferred regulatory environment becomes "common sense governance."
 2. **The bootstrap narrative:** Harvard → Teach for America → tech founder → mayor. Emphasizes public service origins to obscure that his political career is funded by the wealthiest people in California.
@@ -143,7 +143,7 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 
 ---
 
-### Sources
+## Sources
 
 - ~~[FollowTheMoney.org: Matt Mahan 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Matt%20Mahan#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [OpenSecrets: Matt Mahan campaign finance](https://www.opensecrets.org/members-of-congress/summary?displayname=Matt%20Mahan) (Tier 1)
@@ -155,7 +155,7 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 - San Jose Inside: VC donor bandwagon (Tier 2)
 content-readiness:: ready
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

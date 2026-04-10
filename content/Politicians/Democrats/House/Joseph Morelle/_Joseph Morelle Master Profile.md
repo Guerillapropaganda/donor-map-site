@@ -35,7 +35,7 @@ donors: [[Labor Unions]] · Corporate PACs · Democratic Leadership PACs
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 [[_Joseph Morelle Master Profile|Joseph Morelle]] is the U.S. Representative for New York's 25th Congressional District (Rochester area), serving since November 2018. Born April 29, 1957, in Utica, New York. B.A. from SUNY Geneseo. Got his political start as a constituent services representative and legislative aide for State Senator John D. Perry. Elected to the Monroe County Legislature. Elected to the New York State Assembly in 1990, representing the 136th District (eastern Rochester and Monroe County suburbs) for 28 years. Appointed Assembly Majority Leader by Speaker Sheldon Silver in January 2013. Served as acting speaker in the Speaker's absence. Won a special election in November 2018 to succeed the late Louise Slaughter, the longtime progressive champion who held the Rochester seat. Reelected 2020, 2022, and 2024 in a safe Democratic district. Son of a Korean War veteran and lifelong Plumbers and Pipefitters union member.
 
@@ -45,7 +45,7 @@ donors: [[Labor Unions]] · Corporate PACs · Democratic Leadership PACs
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Morelle is the institutional Democrat — a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His donor model is party-machine rather than industry-capture: PAC contributions ($702,000 in his first campaign, more than half his total) tilted toward unions and Democratic leadership committees rather than corporate interests. His fundraising reflects institutional positioning — Harris Corporation PAC ($10,000), UnitedHealth Group ($2,500), Walmart ($2,000) — but the dominant donor class is organized labor (boilermakers, bricklayers, postal workers, machinists, teachers, aerospace workers) and Democratic committee money. This is the profile of a party operator, not an industry senator. The analytical value is different from a Schatz or Coons: Morelle represents the institutional infrastructure of the Democratic Party itself — the machine that manages elections, controls House operations, and maintains the party's procedural power.
 
@@ -54,14 +54,14 @@ Morelle is the institutional Democrat — a career legislator who spent nearly t
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Morelle now serves as the Democratic Party's top voice on election security and voting rights — rejecting the SAVE Act as voter suppression, releasing reports on Native American voting barriers, defending overseas voting access. But Morelle is himself a product of one of the most institutionally controlled political succession systems in the country: the New York State Assembly under Sheldon Silver. Silver elevated Morelle to Majority Leader. When Louise Slaughter died, the local party cleared the field for Morelle. His 28 years in the Assembly and subsequent congressional succession represent the machine politics model — insider advancement through institutional loyalty — that progressive voting rights advocates often critique. The man defending democratic access to elections was installed through a system where access is controlled by party leadership. The contradiction isn't hypocrisy — Morelle's voting rights work is substantive. It's structural: the Democratic Party's election security champion came up through a machine that decides who gets to run before voters get to decide who wins.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 | Donor/Entity | Relationship | Key Policy Intersection |
 |---|---|---|
@@ -73,7 +73,7 @@ Morelle is the institutional Democrat — a career legislator who spent nearly t
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Type | Event | Donor/Amount | Gap |
 |------|------|-------|-------------|-----|
@@ -90,7 +90,7 @@ Morelle is the institutional Democrat — a career legislator who spent nearly t
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Machine Politics as Structure:** Morelle's career represents the Democratic Party's internal power structure — advancement through institutional loyalty (28 years in the Assembly, elevated by Silver, succession to Slaughter's seat, House Administration Ranking Member). The machine model operates differently from donor-class capture: instead of industry money driving policy, party loyalty drives committee assignment, and committee assignment serves the party's institutional interests (election management, voting rights, Capitol operations).
 
@@ -100,7 +100,7 @@ Morelle is the institutional Democrat — a career legislator who spent nearly t
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **Louise Slaughter's Successor:** Morelle inherits the progressive credentialing of Louise Slaughter, Rochester's beloved longtime representative. Framing the succession as continuity with Slaughter's legacy positions Morelle within a progressive tradition he may not fully share — Slaughter was an activist progressive; Morelle is a party institutionalist.
 
@@ -112,7 +112,7 @@ Morelle is the institutional Democrat — a career legislator who spent nearly t
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Joseph Morelle Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00043207) (Tier 1)
 - [FEC: Joe Morelle for Congress](https://www.fec.gov/data/committee/C00660407/) (Tier 1)

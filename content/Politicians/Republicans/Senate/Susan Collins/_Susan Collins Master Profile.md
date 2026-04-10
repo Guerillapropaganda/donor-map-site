@@ -46,26 +46,26 @@ profile-status:: ready
 ---
 ---
 
-### Who She Is
+## Who She Is
 
 Susan Collins. Senior Senator from Maine (1997–present). Armed Services, Appropriations, Health Committee. Career fundraising: $36.4M+. 95% from out-of-state in 2020 cycle. $5.7M from corporate PACs (most in Maine history). Cast the deciding vote on Kavanaugh confirmation and Trump tax bill. The Senate's designated "moderate" — a brand that generates premium donor pricing for reliable corporate service.
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Susan Collins has perfected the most profitable brand in the Senate: the reluctant moderate. Her "careful deliberation" on every major vote generates maximum fundraising pressure from both sides — and she reliably delivers for the donor class every time. Kavanaugh: decided vote, $1.8M in Q4 from national conservatives ($19K from Maine). Tax bill: Schwarzman gave $2M on June 27, Collins voted yes on June 28, carried interest amendment dropped. Private equity: $500K+ in 2020 (more than any senator). Corporate PACs: $5.7M career. Insurance: $1.17M. 95% out-of-state money. Collins doesn't represent Maine — she represents the national corporate donor class that pays premium for a vote that looks independent. The "moderate" brand converts donor service into the appearance of deliberation.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Collins represents Maine — a rural, aging, moderate state where voters value independence and bipartisanship. Her donor base is Wall Street (Schwarzman $2M, private equity $500K+, securities $1M+), corporate PACs ($5.7M, 3x more than Maine residents), and national conservative networks ($1.8M post-Kavanaugh, $19K from Maine). 95% of her 2020 money came from outside Maine. The "Maine moderate" brand is a product sold to national corporate donors, not a reflection of Maine values. The voters provide the seat. The donors provide the money. The policy serves the donors.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The Kavanaugh Premium:
 - [[The Kavanaugh Vote and the Donor Realignment]] — Deciding vote. Q4 2018: $1.8M career-best outside election cycle. $19K from Maine out of $900K individual donors. CrowdPAC $1M+ opposition fundraising failed to outweigh national conservative reward. The "principled legal analysis" speech was the packaging; the money was the product.
@@ -78,7 +78,7 @@ Susan Collins. Senior Senator from Maine (1997–present). Armed Services, Appro
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Two-Audience Problem** — Collins performs careful deliberation and institutional independence to Maine voters ("I'll think about this seriously") while delivering reliable donor service to national corporate networks ($5.7M corporate PACs, $1.8M national conservative premium for Kavanaugh). Her "moderate" brand generates maximum fundraising pressure and allows her to claim independence while voting predictably for corporate donor interests. The performance of deliberation converts reliable donor service into the appearance of principled independence.
 
@@ -96,7 +96,7 @@ $200 million total spending — the most expensive in Maine history:
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 *Note: Collins's "moderate" brand is the product. The deliberation is performed. The outcomes are donor-class reliable.*
 
@@ -129,7 +129,7 @@ $200 million total spending — the most expensive in Maine history:
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **"Concerned":** Collins expresses "concern" about every controversial nominee, bill, or policy — then votes for it. The concern is the product. It signals to donors that the vote is available for purchase through the appearance of deliberation.
 2. **The floor speech:** Extended, detailed speeches explaining her votes — Kavanaugh (45 minutes), tax bill, ACA. Each speech provides intellectual packaging for a donor-aligned outcome.
@@ -138,7 +138,7 @@ $200 million total spending — the most expensive in Maine history:
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Collins career donors, industry totals, 2020 race](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
 - [ProPublica: private equity and carried interest](https://www.propublica.org/article/susan-collins-backed-down-from-a-fight-with-private-equity-now-theyre-underwriting-her-reelection) (Tier 2)
@@ -223,7 +223,7 @@ content-readiness:: ready
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S6ME00159/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-### Committee Assignments (Congress.gov)
+## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 

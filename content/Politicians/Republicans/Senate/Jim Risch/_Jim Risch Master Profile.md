@@ -32,7 +32,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Jim Risch is the junior senator from Idaho and chairs the Senate Foreign Relations Committee — the body with jurisdiction over treaties, arms sales, foreign aid, the State Department, USAID, and U.S. diplomatic relations worldwide. He also sits on the Energy and Natural Resources Committee, the Select Committee on Intelligence, and the Small Business Committee.
 
@@ -42,7 +42,7 @@ Idaho is home to the Idaho National Laboratory (INL) — the birthplace of comme
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Jim Risch chairs the committee that oversees arms sales, foreign aid, and international diplomacy — and his top donors include General Atomics (a major defense contractor and nuclear technology company), defense industry PACs, and pro-Israel organizations that lobby for U.S. military aid to Israel. The Foreign Relations Committee's jurisdiction over the Arms Export Control Act means Risch controls the congressional oversight mechanism for billions in weapons transfers. His donors manufacture the weapons. His committee approves the sales.
 
@@ -50,14 +50,14 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Risch was a vocal NATO supporter and Ukraine defender — until Trump signaled otherwise. In early 2025, as Foreign Relations chair, Risch went conspicuously silent on NATO and Ukraine after years of championing both. The Idaho Capital Sun asked: "Why has Idaho's U.S. Sen. Jim Risch suddenly gone silent on supporting NATO and Ukraine?" The senator who built his foreign policy brand on hawkish internationalism abandoned that brand the moment it conflicted with his party's leader. The Foreign Relations Committee chair's foreign policy convictions are negotiable when presidential politics demand it. The hawk became a dove on command.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Defense industry: significant career contributor (General Atomics among top organizational donors)
@@ -90,7 +90,7 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Defense Industry → Arms Sales Oversight
 | Date | Type | Event | Donor | Amount | Gap |
@@ -121,7 +121,7 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Revolving Door (wealth-class version):** Risch didn't revolve between government and industry — he accumulated wealth through trial law WHILE serving in government for five decades. His $19M–$88M fortune means his class interests naturally align with the investment, real estate, and corporate sectors. He doesn't need donor money to think like a donor. He IS the donor class. The wealthiest senators don't need to be bought — they arrive pre-aligned.
 
@@ -133,7 +133,7 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"Nuclear is the silver bullet"** — The energy framing that makes nuclear expansion sound like national salvation. The function: justify massive investment in nuclear technology (benefiting INL and General Atomics) as patriotic energy independence rather than industry subsidy.
 
@@ -143,7 +143,7 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 ---
 
-### Sources
+## Sources
 
 - [OpenSecrets: Jim Risch donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00029441) (Tier 1)
 - [FEC Candidate: Jim Risch industry donors](https://www.fec.gov/data/candidate/S8ID00092/) (Tier 1)

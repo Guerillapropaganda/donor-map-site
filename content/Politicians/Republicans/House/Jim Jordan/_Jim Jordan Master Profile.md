@@ -37,7 +37,7 @@ profile-status:: ready
 ---
 ---
 
-### Who He Is
+## Who He Is
 
 Jim Jordan. U.S. Representative, Ohio's 4th District (2007–present). Chairman, House Judiciary Committee (2023–present). Co-founder, House Freedom Caucus (2015, with Mark Meadows). Failed Speaker candidate (October 2023 — lost three ballots, opposition grew from 12 to 25 Republicans). The most aggressive Trump defender in Congress — and the congressman who spent 15 years receiving zero NRCC contributions, then received $1.7 million when he pursued committee leadership.
 
@@ -49,20 +49,20 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 > Jim Jordan's career is the institutional architecture of performative aggression in service of donor-class protection. The Freedom Caucus exists to block legislation that threatens the Koch/[[Club for Growth|Club for Growth]] deregulation agenda. The Judiciary Committee exists to investigate the investigators — turning oversight power against the institutions (FBI, DOJ, intelligence community) that threaten Trump and the donor network surrounding him. The "Weaponization" subcommittee exists to discredit the concept of federal law enforcement itself. Jordan has authored zero significant legislation in 17 years — because legislation is not his function. His function is destruction: of regulatory capacity, of institutional credibility, of the norms that constrain the donor class. The OSU scandal reveals the pattern at its origin: a man who witnessed institutional abuse and chose silence, then built a career on performing outrage at institutional abuse that threatens his allies. The selective outrage is the product. The silence is the method.
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Jim Jordan has issued 91+ subpoenas as Judiciary Chairman while defying his own subpoena from the January 6th Committee. He demands testimony from DOJ officials, FBI agents, and intelligence officers — while refusing to testify about his own communications with Trump on the day of the Capitol attack. He built the "Weaponization of the Federal Government" subcommittee to investigate government overreach — while using committee power to shield Trump from accountability. He claims to defend the Constitution — while he voted to overturn the 2020 election results and received the Presidential Medal of Freedom from Trump for doing so. He performs outrage about institutional failures — while six former wrestlers testify he was silent about institutional failure at Ohio State. The outrage is always selective. The principle is always convenient. The function is always protection: of Trump, of the donor class, of himself.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### The OSU Wrestling Scandal and the Culture of Institutional Silence:
 - [[The OSU Wrestling Scandal and the Culture of Institutional Silence]] — Dr. Richard Strauss: 177+ victims across multiple sports. Jordan assistant coach 1987-1995. Six wrestlers publicly stated Jordan knew. Referee Feeney: "Yeah, that's Strauss." $60M+ university settlements. Jordan denies all knowledge. No formal investigation of Jordan's role.
@@ -75,7 +75,7 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 #### Koch Network / Club for Growth (Austerity Agenda)
 
@@ -105,7 +105,7 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 > **Weaponization protection racket:** MAGA megadonors fund committee → Jordan investigates the prosecutors investigating Trump's donor network. The committee's function is donor protection through the oversight mechanism.
 
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Jordan's successful blocking of bipartisan spending deals through the Freedom Caucus is a real victory for his Koch/Club for Growth donors, but stops short of threatening the donor class's core interests in tax avoidance and regulatory exemption. His governance victories achieve austerity (which benefits wealthy donors by reducing public spending) without challenging the tax structure itself.
 
@@ -117,14 +117,14 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 1. **The jacketless interrogator:** No suit jacket, rolled sleeves, rapid-fire questioning in hearings. The function: perform blue-collar aggression while serving the Koch/Club for Growth deregulation agenda. The aesthetic of populism masking the substance of donor service. The hearing room as content production — clips designed for Fox News and social media, not legislative outcomes.
 2. **The constitutional warrior:** Invokes the Constitution in every hearing while voting to overturn a constitutional election. Demands transparency from every institution while defying his own subpoena. The constitutional language is decorative — it provides the rhetoric for institutional destruction while the Constitution itself is the target.
 
 ---
 
-### Sources
+## Sources
 
 - [NBC News: Former Ohio State University wrestlers say Jim Jordan betrayed them](https://www.nbcnews.com/politics/politics-news/former-osu-wrestlers-say-jim-jordan-betrayed-shouldnt-house-speaker-rcna119116) (Tier 2)
 - [House Select Committee on January 6th: Select Committee Subpoenas Five Members of Congress](https://www.house.gov/committees/committees-no-longer-standing) (Tier 1)

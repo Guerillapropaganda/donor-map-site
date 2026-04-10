@@ -52,7 +52,7 @@ profile-status:: ready
 ---
 ---
 
-### Who They Are
+## Who They Are
 
 Richard Blumenthal is the senior U.S. Senator from Connecticut and the Ranking Member of the Senate Veterans' Affairs Committee. He also serves on the Judiciary Committee, the Armed Services Committee, and the Homeland Security and Governmental Affairs Committee (where he ranks on the Permanent Subcommittee on Investigations). He was elected in 2010 and reelected in 2016 and 2022.
 
@@ -64,7 +64,7 @@ The Veterans' Affairs Committee oversees the VA healthcare system, disability be
 
 ---
 
-### The Central Thesis
+## The Central Thesis
 
 Richard Blumenthal is the attorney general-turned-senator who built a career on holding powerful institutions accountable — and then became the ranking member of the committee that oversees the institution responsible for veteran care. His donor profile reflects the Connecticut wealth corridor: lawyers, securities, real estate, insurance — the financial industry ecosystem of Stamford, Hartford, and Greenwich. No private healthcare company funds his VA work. No defense contractor shapes his Armed Services Committee positions.
 
@@ -72,14 +72,14 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 
 ---
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Blumenthal's defining personal controversy is his Vietnam service record. He received five military deferments from 1965 to 1970, then joined the Marine Reserves — a path that virtually guaranteed he would not be sent to Vietnam. He served stateside in Washington, D.C., organizing Toys for Tots drives and fixing a campground. Yet on multiple occasions, he said "when I served in Vietnam" and "when we returned" from Vietnam — implying combat service he never saw. He later said he "misspoke" on "a few occasions" and took "full responsibility." He now ranks on the Veterans' Affairs Committee — overseeing benefits for veterans who actually served in Vietnam and in combat zones. The senator who inflated his own service record now oversees the benefits system for veterans whose service was real. The contradiction isn't in his policy positions (which are consistently pro-veteran) but in the credibility gap: the Veterans' Affairs RM's most prominent personal characteristic is that he misrepresented his own military service.
 
 ---
 
-### Donor Class Map
+## Donor Class Map
 
 ### Campaign Fundraising:
 - Lawyers & law firms: dominant (Connecticut legal establishment, AG network)
@@ -107,7 +107,7 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 
 ---
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 ### Pipeline: Attorney General → Senate Consumer Protection
 | Date | Type | Event | Donor | Amount | Gap |
@@ -129,7 +129,7 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 
 ---
 
-### Analytical Patterns
+## Analytical Patterns
 
 **Anti-Pattern (non-donor-driven committee work):** Like McGovern, Takano, and Grijalva, Blumenthal's donor profile shows no industry capture of his committee jurisdiction. Connecticut lawyers and financial firms fund the senator; no VA-adjacent industry shapes his veterans' policy. The anti-pattern is consistent across Democratic VA committee leaders: union/progressive funding produces defense of public VA healthcare, while Koch/healthcare industry funding (Moran, Republican side) produces privatization.
 
@@ -139,7 +139,7 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **"As Connecticut's attorney general for twenty years"** — The prosecutorial credential. The function: establish accountability expertise — I've spent my career holding powerful institutions accountable, and I'll do the same for the VA.
 
@@ -149,7 +149,7 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 
 ---
 
-### Sources
+## Sources
 
 - [FEC Candidate: Richard Blumenthal donor profile](https://www.fec.gov/data/candidate/S0CT00177/) (Tier 1)
 - [OpenSecrets: Richard Blumenthal personal finances](https://www.opensecrets.org/personal-finances/richard-blumenthal/net-worth?cid=N00031685) (Tier 1)
@@ -266,7 +266,7 @@ content-readiness:: ready
 - [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Richard%20Blumenthal%22&sort=date) (Tier 1)
 <!-- auto:doj-press end -->
 
-### Voting Record
+## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
 

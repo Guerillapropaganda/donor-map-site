@@ -53,21 +53,21 @@ donors: Lockheed Martin PAC [[Raytheon (RTX)|Raytheon PAC]] Northrop Grumman PAC
 
 ---
 
-### Who They Are
+## Who They Are
 
 Rep [[_Ken Calvert Master Profile|Ken Calvert]] represents California's 42nd Congressional District (Inland Empire, [[IBEW Local 440 - Riverside|Riverside]]/[[IBEW Local 477 - San Bernardino|San Bernardino]] area) and currently chairs the Defense Appropriations Subcommittee (2025). A 16-term congressman from a solidly Republican district (R+15), he has built his career as the weapons industry's most dependable allocator of federal money. As a member of the full Appropriations Committee and chair of the Defense Subcommittee, Calvert controls how the Pentagon budget gets carved into specific contracts, bases, and weapon systems — and whose campaign gets funded for the privilege.
 
-### The Central Thesis
+## The Central Thesis
 
 > [!money]
 > The man who literally writes the checks for the people who fund his campaigns. In the first half of 2025 alone, Calvert received $1.7M from defense PACs — more than any other single member of Congress — while chairing the subcommittee that allocates their budgets. The contractor-to-appropriator relationship is mechanically simple: [[Lockheed Martin|Lockheed Martin]], Raytheon, Northrop Grumman, and [[Boeing|Boeing]] have a structural interest in the Pentagon budget growing faster than inflation and in earmarks flowing to their specific programs. Calvert has a structural interest in receiving their contributions and maintaining his subcommittee chair position. The money flows in; the budget allocations flow out. This is not corruption in a legal sense — it is the institutionalized structure of the military-industrial complex, working exactly as designed.
 
-### The Core Contradiction
+## The Core Contradiction
 
 > [!contradiction]
 > Calvert campaigns as a fiscal conservative fighting government waste and defending American taxpayer dollars. Yet as Defense Appropriations chair, he has never encountered a defense budget increase he would not approve. His own district has benefited substantially from military spending (March Air Reserve Base, several contractors with CA-42 operations), which creates local political cover for his appropriations expansion votes. The contradiction resolves in his class alignment: he serves weapons manufacturers' profit expansion (framed as national security), not fiscal responsibility for ordinary taxpayers.
 
-### Donor Class Map
+## Donor Class Map
 
 ### Aerospace & Defense PACs (Primary Donors):
 - [[Lockheed Martin|Lockheed Martin]] PAC: $89K+ (F-35, missile systems, space)
@@ -80,7 +80,7 @@ Rep [[_Ken Calvert Master Profile|Ken Calvert]] represents California's 42nd Con
 ### Connected Defense Subcontractors:
 - L3Harris, Airbus, Textron, Leidos, SAIC, Booz Allen Hamilton: $280K+ combined
 
-### Donation-to-Policy Timeline
+## Donation-to-Policy Timeline
 
 | Date | Contribution/Event | Amount | Policy Action | Time Gap |
 |------|--------|--------|-------|----------|
@@ -118,7 +118,7 @@ Defense Appropriations bills contain "earmarks" — explicit allocation of funds
 ### Block Attempts to Prioritize Other Pentagon Spending:
 When progressive members of Congress proposed redirecting small portions of the Pentagon budget toward non-weapons priorities (military housing quality, healthcare for service members, environmental remediation at bases), Calvert's subcommittee blocked these proposals or minimized funding. The argument: "We cannot afford to divert resources from readiness." The effect: contractor profit protection at the expense of service member welfare.
 
-### Analytical Patterns
+## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Calvert's defense contractor funding victories (Lockheed Martin, Raytheon contracts) are real policy wins benefiting his donors, but stop short of threatening military procurement reform itself. His wins advance contractor profits without comprehensive defense spending restructuring.
 
@@ -128,7 +128,7 @@ When progressive members of Congress proposed redirecting small portions of the 
 
 ---
 
-### Rhetorical Signature Moves
+## Rhetorical Signature Moves
 
 **The National Security Frame:** Calvert frames every defense budget increase as necessary for "maintaining American military superiority" and countering Chinese/Russian threats. This is not technically false — but it is incomplete. It omits that the same military capabilities could be maintained at lower cost through efficiency improvements, and that some budget increases are driven by contractor lobbying rather than military necessity. By conflating military necessity with contractor profit, Calvert makes defense spending growth seem inevitable rather than a choice.
 
@@ -147,7 +147,7 @@ When progressive members of Congress proposed redirecting small portions of the 
 - One ethical incident early career (1993 resignation demanded over affair with lobbyist, not criminal), resolved without legal consequences
 - Clean record since 1994 (ethical issues don't disqualify from appropriations leadership)
 
-### Sources
+## Sources
 
 - [FEC Candidate: Rep Ken Calvert Donor Profile](https://www.fec.gov/data/candidate/H2CA37023/) (Tier 1)
 - [Defense PAC Contributions, 2024-2025 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
