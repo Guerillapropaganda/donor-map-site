@@ -1,30 +1,31 @@
 ---
-title: "Ron DeSantis Master Profile"
+title: Ron DeSantis Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Governor"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: Governor
+state: Florida
+state-abbr: FL
 top-donors:
-  - "Kenneth Griffin"
-  - "Koch Network - Charles Koch"
-  - "Fossil Fuel Bloc"
-  - "Club for Growth"
-  - "Lennar Corporation"
-total-received: "$375,129"
-fec-candidate-id: "P40013039"
+  - Kenneth Griffin
+  - Koch Network - Charles Koch
+  - Fossil Fuel Bloc
+  - Club for Growth
+  - Lennar Corporation
+total-received: '$375,129'
+fec-candidate-id: P40013039
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 executive-actions: 25
-last-enriched: "2026-04-09"
+last-enriched: '2026-04-09'
+opposes: '[[SFA FUND, INC]]'
 ---
 
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028
