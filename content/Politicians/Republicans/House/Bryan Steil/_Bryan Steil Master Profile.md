@@ -1,7 +1,7 @@
 ---
 title: "Bryan Steil"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -27,8 +27,13 @@ total-received: "$3,443,146"
 fec-candidate-id: "H8WI01156"
 donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
 related: "[[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 bioguide-id: "S001213"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #bryan-steil #republican #wisconsin #house #committee-chair #house-administration #election-law #voter-id #wall-street #paul-ryan #campaign-finance #fec #phase-6-gavel-power
 

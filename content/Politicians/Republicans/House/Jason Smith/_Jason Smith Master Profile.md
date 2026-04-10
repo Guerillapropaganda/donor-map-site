@@ -1,7 +1,7 @@
 ---
 title: "Jason Smith"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ top-donors:
   - "Real Estate Roundtable"
 fec-candidate-id: "H4MO08162"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
 govtrack-id: 412596
 bills-sponsored: 7
 bills-cosponsored: 27
@@ -35,6 +37,9 @@ issues:
   - "Environmental Protection"
   - "Families"
   - "Foreign Trade and International Finance"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #jason-smith #republican #missouri #house #committee-chair #phase-6-gavel-power #ways-and-means #tax-policy #class-analysis #follow-the-money
 

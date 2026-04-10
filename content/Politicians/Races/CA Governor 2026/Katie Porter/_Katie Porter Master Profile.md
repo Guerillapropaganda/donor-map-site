@@ -1,7 +1,7 @@
 ---
 title: "Katie Porter Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -47,6 +47,8 @@ known-gaps:
   - State-level CA gubernatorial campaign finance not pipeline-enriched (state jurisdiction, not FEC)
   - Several sources lack proper URLs (Emerson polling, Daily Beast, ABC7)
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
 related: "[[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[_Gavin Newsom Master Profile]]"
 opensanctions-status: "pep"
 opensanctions-matches: 1
@@ -57,6 +59,10 @@ opensanctions-datasets:
   - "wd_peps"
   - "wikidata"
   - "us_congress"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #katie-porter #california #governor-2026 #anti-corporate #small-dollar #consumer-protection #crypto-opposition #class-analysis
 

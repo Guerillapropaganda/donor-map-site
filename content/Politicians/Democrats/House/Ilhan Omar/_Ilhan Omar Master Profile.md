@@ -1,7 +1,7 @@
 ---
 title: "Ilhan Omar Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: '2026-04-10'
 source-tier: 1
 parent: null
@@ -51,6 +51,11 @@ editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 3 Tier 1 source types (Congress.gov with verified bioguide O000173, FEC candidate + committee, omar.house.gov official press releases), 4 Tier 2 journalism sources documenting the Committee removal, strong class analysis with 'grassroots immunity vs institutional vulnerability' framing, documented Foreign Affairs committee removal (Feb 2, 2023, 218-211), 2022 vs 2024 AIPAC strategy comparison with specific dollar amounts, donation-to-policy timeline. No defamation-prone claims. No (URL NEEDED) tags. No A000383 contamination. FIXED: moved OpenSecrets source from Tier 1 to Archived per Vault Rules demotion. Ready for editor review."
 related: "[[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Cori Bush]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[_Bernie Sanders Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #omar #minnesota #progressive #squad #foreign-affairs #israel #somalia #refugee #budget #education
 

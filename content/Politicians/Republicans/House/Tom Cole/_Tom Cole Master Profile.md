@@ -1,7 +1,7 @@
 ---
 title: "Tom Cole"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -32,7 +32,13 @@ total-received: "$501,840"
 fec-candidate-id: "H2OK04055"
 related: "[[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Adam Smith]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]] · [[Heritage Foundation]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
 bioguide-id: "C001053"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #tom-cole #republican #oklahoma #house #committee-chair #appropriations #defense #energy #oil-gas #tribal #chickasaw #phase-6-gavel-power
 

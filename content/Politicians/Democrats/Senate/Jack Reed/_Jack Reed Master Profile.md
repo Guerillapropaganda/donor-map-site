@@ -1,7 +1,7 @@
 ---
 title: "Jack Reed"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -31,12 +31,17 @@ fec-candidate-id: "S6RI00163"
 donors: "[[General Dynamics]] · [[NORPAC]]"
 related: "[[General Dynamics]] · [[_Roger Wicker Master Profile|Wicker]] · [[Lockheed Martin]] · [[Boeing]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
 govtrack-id: 300081
 bills-sponsored: 35
 bills-cosponsored: 238
 website: "https://www.reed.senate.gov"
 phone: "202-224-4642"
 bioguide-id: "R000122"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #jack-reed #democrat #rhode-island #senate #ranking-member #armed-services #defense #military #west-point #phase-6-gavel-power
 

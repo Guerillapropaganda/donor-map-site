@@ -1,7 +1,7 @@
 ---
 title: "Zoe Lofgren"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -31,7 +31,12 @@ fec-candidate-id: "H4CA16049"
 donors: "[[Tech Industry]] · [[Google - Alphabet]]"
 related: "[[Brian Babin]] · [[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run congress pipeline"
 bioguide-id: "L000397"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #zoe-lofgren #democrat #california #house #ranking-member #science-space-technology #silicon-valley #big-tech #immigration #h1b #antitrust #january-6 #apple #google #meta #phase-6-gavel-power
 

@@ -1,7 +1,7 @@
 ---
 title: "Jim Himes"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -26,7 +26,12 @@ bills-cosponsored: 157
 website: "https://himes.house.gov"
 phone: "202-225-5541"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "re-run fec pipeline"
 related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #jim-himes #democrat #connecticut #house #ranking-member #intelligence #financial-services #wall-street #goldman-sachs #phase-6-gavel-power
 

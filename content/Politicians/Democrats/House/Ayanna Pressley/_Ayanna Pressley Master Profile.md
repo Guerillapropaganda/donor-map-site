@@ -1,7 +1,7 @@
 ---
 title: "Ayanna Pressley Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: '2026-04-10'
 source-tier: 1
 parent: null
@@ -36,6 +36,8 @@ corroboration-count: 4
 known-gaps:
   - DOJ press pipeline data stripped 2026-04-10 (was false positive index-size bug — 264,413 generic mentions). Needs re-enrichment after DOJ pipeline sanity cap takes effect.
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "demote to draft; re-run fec pipeline; re-run congress pipeline"
 opposes:
   - "Predatory lenders"
   - "Private prison industry"
@@ -50,6 +52,11 @@ editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (Congress.gov with verified bioguide P000617, FEC, GovTrack, Pressley official House.gov press releases), H.Res.702 and H.R.3412 with direct Congress.gov citations, nuanced class analysis distinguishing PAC capture from ambient committee-membership pressure, documented Capuano replacement logic, donor architecture broken down by industry with career totals. FIXED: stripped auto:doj-press block (false positive — 264,413 mentions from DOJ API index-size bug that main's engine fix now caps at 10K). FIXED: moved OpenSecrets career industries from Tier 1 to Archived per Vault Rules. FIXED: removed inline content-readiness/profile-status markers per frontmatter-only rule. Zero A000383 contamination. Zero (URL NEEDED) tags. Ready for editor review."
 related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Maxine Waters Master Profile|Waters]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Cory Booker Master Profile|Booker]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Cori Bush]]"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • The profile's own known-gaps field says it needs a fresh pipeline run.
+  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #pressley #massachusetts #progressive #squad #financial-services #criminal-justice #boston
 

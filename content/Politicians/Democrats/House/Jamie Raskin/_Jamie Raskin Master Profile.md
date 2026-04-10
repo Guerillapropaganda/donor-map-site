@@ -1,7 +1,7 @@
 ---
 title: "Jamie Raskin"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -24,6 +24,8 @@ phone: "202-225-5341"
 donors: "[[UNITE HERE]] · [[Demand Justice]]"
 related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
 bioguide-id: "R000606"
 issues:
   - "Agriculture and Food"
@@ -36,6 +38,10 @@ issues:
   - "Education"
   - "Environmental Protection"
   - "Foreign Trade and International Finance"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment
 
