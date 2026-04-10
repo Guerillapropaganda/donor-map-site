@@ -1,7 +1,7 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 ---
 
 # Session State
@@ -11,6 +11,157 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Research
+Date: 2026-04-10 (Phase 1 Day 1: 7 depth reviews + critical build fix + vault cleanups + pipeline cheatsheet template + lessons-learned doc)
+
+### Part 1: Phase 1 Kickoff — Overnight Merge Resolution
+
+Resolved overnight merge between Research Claude's `claude/reverent-hugle` worktree and main repo's v4 branch. Main had advanced 9 commits with Code Claude's pipeline quality fixes (A000383 cleanup, QVT false positives, GovTrack cache, redirect enrichment, 6 redirect files cleaned, Cori Bush demotion, auto-connection engine run).
+
+Strategy:
+- **Reverse merge** `origin/v4` into the worktree branch
+- **94 conflicts** resolved:
+  - 55 whitespace-only → took ours (my inline marker removals stand)
+  - 30 related-field → unioned both sides' wikilinks with dedup
+  - 7 mixed-field → kept both (e.g., my `related:` + their `donors:` on same profile)
+  - Cori Bush → took theirs (respects demotion for A000383 contamination)
+  - **Jamaal Bowman → demoted verified→ready** (same A000383 reasoning — his 3 Tier 1 source types included contaminated Congress.gov data)
+  - AOC, David Sacks → took ours (inline marker removals per frontmatter-only rule)
+  - QVT Financial → kept mine for source-tier 1, noted pipeline fixes resolved the flags
+
+Merge commit: `3c1028d9`. Pushed via fast-forward to `origin/v4`.
+
+### Part 2: Sprint Infrastructure (schedule + calendar spec + pipeline cheatsheet template)
+
+Wrote three companion files committed as `572f5cc2`:
+
+1. **`content/Admin Notes/sprint-schedule.md`** — Structured schedule for Apr 10-30 sprint with YAML blocks for phases, daily block template, phase-specific tasks by owner (Code Claude / Research Claude / David), risk register, April 30 review process. Parseable by the Ops calendar component. Single source of truth for both Claude sessions AND the calendar UI.
+
+2. **`content/Admin Notes/calendar-spec.md`** — Self-contained build spec for Code Claude to build the Ops Calendar tab. Reads sprint-schedule.md, writes mutable completion state to `ops/data/sprint-state.json` (gitignored). Month-grid view for Apr 10-30 with phase coloring. Brutalist design per Design System. v1 desktop-only, mobile Phase 2.
+
+3. **`content/Pipeline Guide.md`** — Added new Cheatsheets section with standardized 12-pipeline template pre-filled with known gotchas from today's fixes (A000383 bug, QVT false positives, DOJ sanity cap, GovTrack cache, redirect enrichment). Perplexity research checklist at top. David filling in one per day during the sprint.
+
+### Part 3: Phase 1 Day 1 Depth Reviews (7 profiles)
+
+Squad/leadership depth review per the sprint plan `rc_03` task. **6 profiles flagged as verified-candidates** for David's sign-off (only David signs off per the rule). **1 profile promoted to `ready` only** (insufficient Tier 1 source types).
+
+Profiles reviewed:
+
+| # | Profile | Before | After | Verified-candidate? | Tier 1 source types |
+|---|---|---|---|---|---|
+| 1 | **Rashida Tlaib** (MI-12) | draft | ready | ✅ Yes | 4 (FEC, Congress, GovTrack, House Oversight primary) |
+| 2 | **Ilhan Omar** (MN-5) | draft | ready | ✅ Yes | 3 (Congress bioguide O000173, FEC, omar.house.gov) |
+| 3 | **Ayanna Pressley** (MA-7) | draft | ready | ✅ Yes | 4 (Congress P000617, FEC, GovTrack, House.gov) |
+| 4 | **Greg Casar** (TX-35) | — | — | — | **GAP** — no profile exists, added to stub build backlog |
+| 5 | **Hakeem Jeffries** (NY-8) | draft | ready | ❌ No | Only 1 (FEC). Needs Congress.gov + House leadership page. |
+| 6 | **Ro Khanna** (CA-17) | draft | ready | ✅ Yes | 4 (FEC, Congress K000389, GovTrack, khanna.house.gov) |
+| 7 | **Sheldon Whitehouse** (RI Senate) | draft | ready | ✅ Yes | 4+ (FEC, Congress DISCLOSE Act, multiple whitehouse.senate.gov primary speeches, Senate Budget Committee) |
+| 8 | **Raphael Warnock** (GA Senate) | draft | ready | ✅ Yes | 4 (FEC, Congress W000790, GovTrack, warnock.senate.gov) |
+
+**Verified-candidates flagged for David sign-off (6 total):**
+1. Rashida Tlaib — MI-12 Squad
+2. Ilhan Omar — MN-5 Squad
+3. Ayanna Pressley — MA-7 Squad
+4. Ro Khanna — CA-17 progressive-tech
+5. Sheldon Whitehouse — RI Senate dark money watchdog
+6. Raphael Warnock — GA Senate
+
+Standard fixes applied to each: frontmatter cleanup (bioguide-id added, fec-committee-id added where known, `known-gaps` fixed from "No mapped relationships" to real gaps, structured `opposes`/`donors`/`issues` fields, committees/former-committees expanded), sources restructured with Verified/Archived sections, OpenSecrets Tier 1 citations moved to Archived per Vault Rules, inline dataview markers removed, `editorial-result: verified-candidate` flag added with detailed notes.
+
+### Part 4: Vault-Wide Data Quality Cleanups
+
+Three vault-wide sweeps this session:
+
+1. **DOJ false-positive cleanup** — **177 profiles** had contaminated `auto:doj-press` blocks showing ~264,413 mentions (the API index-size bug main fixed at the engine layer but never retroactively cleaned from vault data). All 177 stripped with a removal note documenting the fix and that blocks will repopulate correctly on next pipeline run. Commit `f3a6da46`.
+
+2. **CRITICAL: YAML parse error fix** — Tucker Carlson and Hillary Clinton profiles had malformed `related`/`donors` fields. **Every push since 2026-04-09 was breaking the Quartz build for hours** before the user noticed. Root cause: yesterday's `consolidate-dual-related-fields.py` captured the YAML folded-scalar marker `>-` as literal text inside a quoted string. YAML re-parsed the marker inside the value, breaking the frontmatter. Fixed by rewriting both as inline single-line quoted strings with all 25+3 wikilinks preserved. Verified build succeeded. Commit `2c3ee728`.
+
+3. **Preventive YAML folded-scalar conversion** — Vault-wide scan found 11 additional profiles using folded-scalar YAML on structured fields (Cortez Masto, Mark Kelly, Fetterman, Sinema, MTG, George W Bush, Hinson, Hawley, Tillis, Linda McMahon, Michael Waltz). Currently parsing fine but vulnerable to the same merge script bug. Converted all 11 to inline format. Commit `4df3f172`.
+
+Bonus cleanup: Sheldon Whitehouse profile was corrupted mid-session by an unknown linter/auto-merger that combined a string-format `donors:` with a list-format `donors:` on the same YAML key, breaking parse. Fixed with a clean list.
+
+### Part 5: Pipeline Enrichment Merge
+
+`origin/v4` advanced during work with Code Claude's 537-file API enrichment batch (`69552d45`). Merged into worktree, resolved Mark Kelly conflict (unioned related field with new Boeing wikilink from pipeline, kept my inline `opposes` format). Merge commit: `e29ecd40`.
+
+**Important pattern discovered:** Code Claude's pipeline enrichment now uses `<!-- auto:* pending-merge -->` blocks. When the pipeline detects prior Research Claude edits, it drops new data in a marked block for manual review instead of overwriting. Seen on Cori Bush's govtrack block. **Keep this pattern. Extend to other auto blocks and eventually to frontmatter fields.**
+
+### Part 6: Rules Codification
+
+Added new universal rule to `content/Vault Rules.md` (§ YAML formatting for structured fields):
+
+> **Never use YAML folded-scalar (`>`, `>-`, `>+`) or literal-block (`|`, `|-`, `|+`) syntax on `related`, `donors`, `opposes`, `politicians-funded`, `politicians-opposed`, or `top-donors` fields.**
+>
+> Always use single-line quoted string with ` · ` separator OR block-style YAML list.
+
+Prevention rationale documented in the rule: merge scripts that parse and re-quote values capture the scalar indicator as literal text, creating second-order YAML parse errors that break the Quartz build.
+
+### Part 7: Lessons Learned Document
+
+Wrote `content/Admin Notes/lessons-learned-2026-04-10.md` — append-only postmortem documenting 8 red flags + 10 good ideas from this session. Each red flag has a prevention rule. Each good idea has a repeat pattern. Future sessions should read this on kickoff.
+
+Key red flags for Code Claude to investigate:
+1. **`consolidate-dual-related-fields.py` has a latent bug** — doesn't strip YAML scalar indicators before re-quoting. Fix before next full-vault run.
+2. **Unknown linter/auto-merger corrupted Sheldon Whitehouse's YAML** — combined string + list at same key. Reproducing the sequence to identify the tool.
+3. **Something is re-adding inline dataview markers** to profiles after the 2026-04-09 sweep. Source unknown.
+4. **GitHub Actions build failures were silent for hours.** `/session-save` should verify build success before declaring done.
+
+### Done list (condensed)
+
+- Merged overnight Code Claude pipeline fixes into worktree, resolved 94 conflicts
+- Wrote sprint-schedule.md, calendar-spec.md, Pipeline Guide cheatsheet template
+- 6 Squad/leadership profiles promoted draft→ready + flagged verified-candidate (Tlaib, Omar, Pressley, Khanna, Whitehouse, Warnock)
+- 1 profile promoted draft→ready only (Jeffries — insufficient Tier 1 sources)
+- 1 profile gap flagged (Greg Casar — no master profile exists)
+- Jamaal Bowman demoted verified→ready (A000383 contamination affected his Congress source count)
+- 177 profiles stripped of bogus DOJ press auto-blocks (vault-wide sweep)
+- 2 profiles YAML-parse-error fixed (Tucker Carlson, Hillary Clinton) — unblocked Quartz build
+- 11 profiles preventively converted from folded-scalar to inline YAML
+- Sheldon Whitehouse YAML corruption repaired (linter/auto-merger bug)
+- Merged Code Claude's 537-file pipeline enrichment run, resolved Mark Kelly conflict
+- Added YAML folded-scalar prohibition rule to Vault Rules
+- Wrote lessons-learned-2026-04-10.md (8 red flags + 10 good ideas + open questions)
+
+### Known issues carried forward
+
+- **`/session-save` and `/deploy` should verify build success** via `gh run list` after push. Today's build failures were silent for hours.
+- **`consolidate-dual-related-fields.py` needs YAML scalar indicator stripping** before next full-vault run.
+- **Something is re-adding inline dataview markers** — tool unknown, investigate.
+- **Something corrupted Sheldon Whitehouse's YAML** — tool unknown, investigate.
+- **Pipeline enrichment runs are still blocked on GitHub Actions** for the 12 new stubs built 2026-04-09 + re-review of Cori Bush and Bowman after contamination cleanup.
+- **Only Nancy Pelosi has say-vs-pay data** (carried from earlier sessions) — ContradictionCard shows on 1 profile.
+- **Mobile layout not yet polished** for Signal Bar / ContradictionCard / ProfileHeader (Phase 2 task).
+- **Interactive pages contrast issues** (Power Rankings, Issue Explorer, etc — Phase 2 task).
+
+### In progress (paused for session-save)
+
+- **Brian Schatz depth review** — read the file (lines 1-80), identified the profile structure, haven't committed edits yet. Resume next Research Claude session as next depth candidate.
+- **Pipeline cheatsheet merge** — user provided Perplexity research file at `C:\Users\third\Downloads\00-MASTER-PIPELINE-CHEATSHEETS.md`. Queued to merge into `content/Pipeline Guide.md` after session-save.
+
+### Next session priorities (Phase 1 Day 2, 2026-04-11)
+
+1. **Merge Perplexity pipeline cheatsheets** from `C:\Users\third\Downloads\00-MASTER-PIPELINE-CHEATSHEETS.md` into `content/Pipeline Guide.md`. Reconcile with pre-filled gotchas. Update Perplexity research checklist.
+2. **Resume Brian Schatz depth review** (next on the Phase 1 Senate candidate list).
+3. **Continue depth reviews from the draft queue**: Jon Ossoff (GA), Gary Peters (MI), John Fetterman (PA), Martin Heinrich (NM), Chris Murphy (CT), Tammy Baldwin (WI), Ed Markey (MA), Brian Schatz (HI). Target: 4 more verified-candidates by end of Day 2.
+4. **David: review 6 verified-candidates flagged today** (Tlaib, Omar, Pressley, Khanna, Whitehouse, Warnock) and sign off on any that pass editorial review. Target: 2-4 true `verified` promotions to hit the Phase 1 exit target of ≥12 verified total.
+5. **David: continue conflict triage** from `content/Admin Notes/readiness-conflicts.md` (target: 25-30/day × 6 days remaining in Phase 1 = 150-180 more resolved, bringing backlog from 528 → ~350).
+6. **Code Claude: investigate and fix the `consolidate-dual-related-fields.py` YAML scalar indicator bug** before running it again.
+7. **Code Claude: investigate the inline dataview marker re-addition source** and the Sheldon Whitehouse YAML corruption source.
+8. **Code Claude: build the Ops Calendar tab** per `content/Admin Notes/calendar-spec.md` (in parallel, separate session).
+9. **Code Claude: run pipeline enrichment** on the 12 new stubs once GitHub Actions re-enabled.
+10. **David: Perplexity research one more pipeline** for the Pipeline Guide (top priority: FEC if not already submitted, then Congress.gov, then Senate LDA).
+
+### Phase 1 progress vs targets
+
+- **Verified profiles:** 3 (baseline). Today: 0 new `verified` (6 verified-candidates awaiting David sign-off). Phase 1 exit target: ≥12. **Status: behind target pending David's review.**
+- **Draft → ready promotions:** 7 today (Tlaib, Omar, Pressley, Jeffries, Khanna, Whitehouse, Warnock). Phase 1 exit target: ≥25 this week. **Status: on track.**
+- **Pipeline bugs closed:** 4 of 7 (A000383, QVT false positives, redirect enrichment, GovTrack cache). Remaining: NUL-padding script root cause, Ops profile editor rule comments, pipeline enrichment runs. **Status: 57% done, on track.**
+- **Readiness conflicts triaged:** 0 today (David's task). Phase 1 exit target: ≥175. **Status: David's backlog, not blocking.**
+- **Ops rule docs (`ops/CLAUDE.md`, `ops/RULES.md`):** not started. **Status: behind, move to Day 2.**
+
+---
+
+## Previous Session
 Claude: Research
 Date: 2026-04-09 (full day: queue resolution + readiness promotions + 12 stubs + data quality sweeps + rules codification + Apr 10-30 sprint plan)
 

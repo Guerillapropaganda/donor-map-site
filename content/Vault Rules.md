@@ -526,6 +526,38 @@ This rule was adopted 2026-04-09 after a vault-wide cleanup discovered systemic 
 
 **Exception:** Dataview `table` / `query` code blocks inside fenced ` ```dataview ` blocks are fine — those are queries for display, not data storage.
 
+### YAML formatting for structured fields
+
+Adopted 2026-04-10 after a merge-script bug on Tucker Carlson and Hillary Clinton broke the Quartz build for hours.
+
+**Never use YAML folded-scalar (`>`, `>-`, `>+`) or literal-block (`|`, `|-`, `|+`) syntax on these frontmatter fields:**
+- `related`, `donors`, `opposes`, `politicians-funded`, `politicians-opposed`, `top-donors`
+
+**Always use one of these two valid formats:**
+
+1. **Single-line quoted string with ` · ` separator (preferred for short-to-medium lists with aliases):**
+```yaml
+related: "[[Link 1]] · [[Link 2|Alias]] · [[Link 3]]"
+```
+
+2. **Block-style YAML list (preferred for structured data without aliases):**
+```yaml
+donors:
+  - "Labor unions ($278K career)"
+  - "Ideological donors"
+  - "Small dollar grassroots"
+```
+
+**Why this rule exists:** YAML folded-scalar syntax (`related: >-` with indented continuation lines) is valid YAML and parses correctly on fresh reads, BUT any script that extracts the parsed value and re-writes it as a quoted string will capture the `>-` marker as LITERAL TEXT inside the new string. YAML then re-parses that text as another folded-scalar indicator, breaking the entire frontmatter block. This has happened twice (2026-04-09 and 2026-04-10) and cost hours of build-failure diagnosis.
+
+**Preventive scan:** Before running any vault-wide frontmatter script, run this 3-second check to catch latent bombs:
+```python
+import re
+PATTERN = re.compile(r'^(related|donors|opposes|politicians-funded|politicians-opposed|top-donors):\s*[>|][-+]?\s*$', re.MULTILINE)
+# ... scan every .md file's frontmatter, report hits
+```
+If this scan returns any files, convert them to inline format before proceeding. Keep running this as a session-start sanity check.
+
 ### Frontmatter (required on every profile):
 ```yaml
 title: Name
