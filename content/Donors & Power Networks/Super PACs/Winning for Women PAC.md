@@ -9,7 +9,7 @@ sector: "Super PACs"
 entity-type: "PAC"
 politicians-funded:
   - "Elise Stefanik"
-related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]] · [[Senate Leadership Fund]]"
+related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]] · [[Senate Leadership Fund]] · [[Senate Majority PAC]]"
 ---
 #winning-for-women #republican #women #pac #senate #house #gop #carey-committee #primary-intervention #paul-singer #citadel #class-analysis
 

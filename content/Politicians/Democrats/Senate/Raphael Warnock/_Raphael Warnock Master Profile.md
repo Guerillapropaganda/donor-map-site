@@ -2,7 +2,7 @@
 title: Raphael Warnock Master Profile
 type: politician
 content-readiness: ready
-last-updated: '2026-04-10'
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Democrat
@@ -42,7 +42,7 @@ known-gaps:
   - CNA single-payer pressure documented in body but no direct CNA primary source cited
   - $170M combined 2020-2022 fundraising figure needs FEC filing cross-check (currently cited via aggregated state-level breakdowns without URL)
 opposes: "[[AMERICAN CROSSROADS]] · [[SENATE LEADERSHIP FUND]] · [[PEACHTREE PAC]] · [[NRSC]]"
-related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]]"
+related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]] · [[Tech and Media Donors]]"
 donors:
   - "Tech and Media Donors (national)"
   - "Healthcare Sector"

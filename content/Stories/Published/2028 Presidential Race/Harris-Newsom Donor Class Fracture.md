@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
-related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Michael Bloomberg]] · [[George Soros]] · [[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Intra-Republican Contradiction Map]]"
+related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Michael Bloomberg]] · [[George Soros]] · [[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]]"
 ---
 #2028-election #democratic-primary #donor-networks #harris #newsom #establishment-split
 

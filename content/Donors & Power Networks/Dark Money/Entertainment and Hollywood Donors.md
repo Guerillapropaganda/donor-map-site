@@ -13,7 +13,7 @@ politicians-funded:
   - "Hillary Clinton"
 federal-contracts: "997000"
 last-enriched: "2026-04-07"
-related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]]"
+related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]]"
 lobbying-spend: 24863936
 lobbying-filings: 93
 ---

@@ -11,7 +11,7 @@ issues:
   - "Wall Street & Finance"
 lobbying-spend: 1048100
 lobbying-filings: 87
-related: "[[Kyrsten Sinema Master Profile]] · [[The Carried Interest Kill and the Wall Street Fundraising Surge]] · [[Financial Services Donors]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Wall Street Finance Networks]]"
+related: "[[Kyrsten Sinema Master Profile]] · [[The Carried Interest Kill and the Wall Street Fundraising Surge]] · [[Financial Services Donors]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Wall Street Finance Networks]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
 ---
 #wall-street #bloc #banking #finance #bipartisan #revolving-door
 

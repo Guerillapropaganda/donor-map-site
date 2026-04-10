@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
+related: "[[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Rebekah Mercer]] · [[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Jimmy Dore]]"
 stories: >-
   [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political
   Media]]

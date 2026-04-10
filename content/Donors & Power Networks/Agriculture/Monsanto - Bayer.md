@@ -46,7 +46,7 @@ sec-form-types:
   - "N-CSRS"
   - "PREM14A"
   - "SC 14D9"
-related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]] · [[Tyson Foods]]"
+related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]] · [[Tyson Foods]] · [[Agribusiness Donor Bloc]]"
 lobbying-spend: 840000
 lobbying-filings: 16
 ---

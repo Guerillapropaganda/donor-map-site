@@ -26,7 +26,7 @@ ein: "264486735"
 annual-revenue: "$181.4M"
 net-assets: "$139.9M"
 tax-year: "2023"
-related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]] · [[Center for American Progress]] · [[Arabella Advisors]] · [[Demand Justice]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Ocean Conservancy]]"
+related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]] · [[Center for American Progress]] · [[Arabella Advisors]] · [[Demand Justice]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]]"
 nonprofit-status: "501(c)(4)"
 total-revenue: 284289469
 total-assets: 106501029

@@ -25,7 +25,7 @@ lobbying-spend: 21040000
 lobbying-filings: 28
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Walt Disney Company]] · [[iHeartMedia]]"
+related: "[[News Corp - Fox Corporation]] · [[Capitol Counsel]] · [[Comcast - NBCUniversal]] · [[Verizon]] · [[Walt Disney Company]] · [[iHeartMedia]] · [[Sinclair Broadcast Group]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 91608
 total-assets: 252342

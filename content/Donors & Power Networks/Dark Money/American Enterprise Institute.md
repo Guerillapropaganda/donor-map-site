@@ -41,7 +41,7 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 104831056
 total-assets: 353111569
 total-political-spend: "$6,625"
-related: "[[Bradley Impact Fund]] · [[Heritage Foundation]] · [[Bradley Foundation]] · [[Koch Industries]] · [[Council for National Policy]] · [[DeVos Family]]"
+related: "[[Bradley Impact Fund]] · [[Heritage Foundation]] · [[Bradley Foundation]] · [[Koch Industries]] · [[Council for National Policy]] · [[DeVos Family]] · [[American Federation for Children]]"
 ---
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative
 

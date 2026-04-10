@@ -26,7 +26,7 @@ sec-form-types:
   - "PRE 14C"
   - "PRER14A"
   - "S-4"
-related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Kenneth Griffin]] · [[Wall Street Finance PACs]]"
+related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Kenneth Griffin]] · [[Wall Street Finance PACs]] · [[Wall Street Bloc]]"
 ---
 #securities #investment #wall-street #hedge-fund #private-equity #carried-interest #bipartisan
 

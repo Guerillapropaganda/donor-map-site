@@ -13,7 +13,7 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
-related: "[[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Pfizer]] · [[Eli Lilly]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Pfizer]] · [[Eli Lilly]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
 ---
 #purdue #sackler #opioid #oxycontin #crisis #bankruptcy #doj #lobbying #accountability #revolving-door #dark-money #pharma #fda
 

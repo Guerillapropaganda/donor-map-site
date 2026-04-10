@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: [[_Nancy Pelosi Master Profile]]
-related: "[[The $1.6 Billion Fundraising Machine]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]] · [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Legislative Record as Speaker]]"
+related: "[[The $1.6 Billion Fundraising Machine]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]] · [[_Nancy Pelosi Master Profile]] · [[_Kamala Harris Master Profile]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
 ---
 #pelosi #biden #harris #2024 #class-analysis #follow-the-money #nomination #donor-class #anointment
 

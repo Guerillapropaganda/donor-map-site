@@ -21,7 +21,7 @@ sec-form-types:
   - "DEF 14A"
 lobbying-spend: 2680000
 lobbying-filings: 53
-related: "[[Wall Street Finance Networks]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Club for Growth]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Elon Musk]] · [[Hedge Fund Industry Bloc]]"
+related: "[[Wall Street Finance Networks]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Club for Growth]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Elon Musk]] · [[Hedge Fund Industry Bloc]] · [[Ken Griffin]]"
 ---
 #citadel #kenneth-griffin #hedge-fund #wall-street #mega-donor #market-making #florida #payment-for-order-flow #pfof #deregulation #class-analysis #follow-the-money
 

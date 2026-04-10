@@ -22,7 +22,7 @@ top-naics-code: "325412"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
-related: "[[Merck]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Johnson & Johnson]] · [[AbbVie]] · [[UnitedHealth Group - Optum]] · [[Pfizer]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]] · [[Purdue Pharma - Sackler Family]]"
+related: "[[Merck]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Johnson & Johnson]] · [[AbbVie]] · [[UnitedHealth Group - Optum]] · [[Pfizer]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"

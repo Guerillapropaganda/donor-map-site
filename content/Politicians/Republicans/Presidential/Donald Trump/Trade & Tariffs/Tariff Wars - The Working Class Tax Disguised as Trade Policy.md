@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Trade and Tariffs - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]]"
+related: "[[Trade and Tariffs - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Agriculture - Donors and Backers]]"
 ---
 #donald-trump #tariffs #trade #liberation-day #usmca #china #farm-bailout #consumer-costs #nucor #class-analysis #follow-the-money
 

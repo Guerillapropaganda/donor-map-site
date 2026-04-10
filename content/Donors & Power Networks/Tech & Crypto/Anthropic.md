@@ -34,7 +34,7 @@ sec-form-types:
   - "NPORT-EX"
   - "NPORT-P"
   - "PX14A6G"
-related: "[[OpenAI]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[Nvidia]] · [[AI Safety and Regulatory Capture]]"
+related: "[[OpenAI]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[Nvidia]] · [[AI Safety and Regulatory Capture]] · [[AI Regulation and Tech Donors]]"
 ein: "920526891"
 nonprofit-status: "501(c)(3)"
 top-federal-agency: "Department of State"

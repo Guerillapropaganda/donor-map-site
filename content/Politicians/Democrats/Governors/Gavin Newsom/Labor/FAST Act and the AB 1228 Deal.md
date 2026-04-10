@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Prop 22 - The $200M Corporate Rollback]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #labor #FAST-act #AB257 #AB1228 #fast-food #minimum-wage #fast-food-council #joint-liability #restaurant-industry #deal #who-benefits
 

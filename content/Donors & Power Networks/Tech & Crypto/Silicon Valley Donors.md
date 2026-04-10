@@ -14,7 +14,7 @@ issues:
   - "Technology"
 lobbying-spend: 1258000
 lobbying-filings: 51
-related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]] · [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Tech and Media Donors]]"
+related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]] · [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Tech and Media Donors]] · [[Tech Industry]]"
 ein: "330152369"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"

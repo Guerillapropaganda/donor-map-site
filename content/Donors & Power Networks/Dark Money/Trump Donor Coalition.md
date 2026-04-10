@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]] · [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Haim Saban]]"
+related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]] · [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Haim Saban]] · [[American Friends of the Likud]]"
 lobbying-spend: 40000
 lobbying-filings: 4
 ein: "363550786"

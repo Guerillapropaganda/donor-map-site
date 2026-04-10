@@ -15,7 +15,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 150007
 total-assets: 254525
-related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]]"
+related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]]"
 fara-status: "registrant"
 fara-records: 3
 fara-countries:

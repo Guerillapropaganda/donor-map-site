@@ -16,7 +16,7 @@ total-political-spend: "$319,800"
 sec-filings: 1
 sec-form-types:
   - "EX-10.1"
-related: "[[Tom Steyer Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Medicare for All - The Policy That Broke the Party]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Populist Billionaire Contradiction]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Tom Steyer Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Medicare for All - The Policy That Broke the Party]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Populist Billionaire Contradiction]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Michael Bloomberg]]"
 last-enriched: "2026-04-09"
 ---
 #donor #union #CNA #NNU #nurses #healthcare #labor #class-analysis #follow-the-money #california #national #single-payer #CalCare #staffing-ratios #kaiser

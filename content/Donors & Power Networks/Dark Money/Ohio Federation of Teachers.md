@@ -15,7 +15,7 @@ subawards-received-amount: 1009778941592127500
 sec-filings: 1
 sec-form-types:
   - "424B3"
-related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]] · [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]] · [[Democratic Donor Network]]"
+related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]] · [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]] · [[Democratic Donor Network]] · [[Democratic Party Infrastructure]]"
 lobbying-spend: 2868540
 lobbying-filings: 96
 ---

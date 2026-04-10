@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Corporate Subsidies and the Business Climate Argument]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Corporate Subsidies and the Business Climate Argument]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #economic-policy #tax-policy #wealth-tax #corporate-tax #class-analysis #california #budget #follow-the-money #inequality
 
