@@ -2,7 +2,7 @@
 title: "Aramark"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -96,7 +96,7 @@ subawards-received: 2
 subawards-received-amount: 4556712
 top-federal-agency: "Department of the Interior"
 top-naics-code: "561210"
-related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]]"
+related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]] · [[CoreCivic - Private Prisons]]"
 ---
 #donor #aramark #carceral-state #prison-food #commissary #national #follow-the-money #class-analysis #food-services #private-sector
 

@@ -25,7 +25,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Occupational Safety and Health Administration"
   - "Transportation Department"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Nancy Pelosi Master Profile]] · [[Labor - Donors and Backers]] · [[IBEW California State Association]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[SEIU - Service Employees International Union]] · [[California Building and Construction Trades Council]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Nancy Pelosi Master Profile]] · [[Labor - Donors and Backers]] · [[IBEW California State Association]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[SEIU - Service Employees International Union]] · [[California Building and Construction Trades Council]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 ---
 #donor #union #california-labor-federation #AFL-CIO #labor #class-analysis #follow-the-money #california #statewide #endorsements #coordination #Democratic-Party
 

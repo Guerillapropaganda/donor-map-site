@@ -27,7 +27,7 @@ lei: "529900879GWQV880PQ28"
 lei-jurisdiction: "US"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[The Telecom and Media Monopoly Oversight]] · [[News Corp - Fox Corporation]] · [[iHeartMedia]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[News Corp - Fox Corporation]] · [[iHeartMedia]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[Verizon]]"
 ein: "911500276"
 nonprofit-status: "501(c)(3)"
 total-revenue: 210851

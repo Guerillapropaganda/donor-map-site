@@ -17,7 +17,7 @@ net-assets: "$10.7M"
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Adam Schiff]] · [[Ana Kasparian]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Barack Obama Master Profile|Obama]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Cenk Uygur]] · [[Tech and Media Donors]]"
+related: "[[Adam Schiff]] · [[Ana Kasparian]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Barack Obama Master Profile|Obama]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Cenk Uygur]] · [[Tech and Media Donors]] · [[Priorities USA Action]]"
 total-political-spend: "$13,889,097"
 ---
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money

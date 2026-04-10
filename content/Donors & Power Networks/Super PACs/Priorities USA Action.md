@@ -9,12 +9,13 @@ sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[EMILY's List]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[John Fetterman Master Profile]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
+related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[EMILY's List]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[John Fetterman Master Profile]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Majority Forward]]"
 ein: "833099604"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 226709
 total-assets: 108753
+opposes: "[[Josh Hawley Master Profile]]"
 ---
 #priorities-usa #super-pac #democratic #obama #clinton #biden #digital #advertising #dark-money
 

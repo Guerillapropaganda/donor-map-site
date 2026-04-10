@@ -17,7 +17,7 @@ last-enriched: "2026-04-09"
 lei: "549300KDUEM5IEU30490"
 lei-jurisdiction: "VN"
 lei-parent: "ARCHER-DANIELS-MIDLAND COMPANY"
-related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[_Dick Durbin Master Profile|Durbin]] · [[Tyson Foods]]"
+related: "[[Monsanto - Bayer]] · [[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[_Dick Durbin Master Profile|Durbin]] · [[Tyson Foods]] · [[Ethanol Industry]]"
 federal-register-mentions: 8
 regulatory-agencies:
   - "Securities and Exchange Commission"

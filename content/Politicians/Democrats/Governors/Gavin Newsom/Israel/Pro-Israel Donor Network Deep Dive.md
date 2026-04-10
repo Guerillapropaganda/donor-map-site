@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Trump Resistance and the 2028 Play]] · [[Ethnic Studies - Whose History Gets Taught]] · [[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]] · [[Benjamin Netanyahu Master Profile]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[_Gavin Newsom Master Profile]] · [[The Biden Exit and Harris Installation]]"
+related: "[[Trump Resistance and the 2028 Play]] · [[Ethnic Studies - Whose History Gets Taught]] · [[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]] · [[Benjamin Netanyahu Master Profile]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[_Gavin Newsom Master Profile]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #israel #donor-network #[[JPAC - Jewish Public Affairs Committee of California|JPAC]] #JCRC #haim-saban #silicon-valley #follow-the-money #behested-payments #california-israel #entertainment #two-audience-problem #class-analysis
 

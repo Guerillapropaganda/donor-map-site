@@ -33,7 +33,7 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13D"
   - "SCHEDULE 13D/A"
-related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Tech and Media Donors]]"
+related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Tech and Media Donors]] · [[Silicon Valley Donors]]"
 federal-register-mentions: 2
 last-enriched: "2026-04-08"
 regulatory-agencies:

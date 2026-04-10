@@ -20,7 +20,7 @@ nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-09"
 lei: "54930053JDKWMZI3NN64"
 lei-jurisdiction: "CA"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]] · [[Ash Kalra]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]] · [[Ash Kalra]] · [[National Restaurant Association]]"
 federal-register-mentions: 91
 regulatory-agencies:
   - "Commodity Futures Trading Commission"

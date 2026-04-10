@@ -18,7 +18,7 @@ court-jurisdictions:
   - "District Court, E.D. Virginia"
   - "District Court, S.D. Iowa"
   - "District Court, S.D. New York"
-related: "[[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]] · [[America PAC - Elon Musk]] · [[MAGA Small Dollar Base]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Jeffrey Yass]] · [[a16z - Andreessen Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[MAGA Inc]]"
+related: "[[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]] · [[America PAC - Elon Musk]] · [[MAGA Small Dollar Base]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Jeffrey Yass]] · [[a16z - Andreessen Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[MAGA Inc]] · [[WinRed]]"
 ---
 #trump #2024 #campaign #fundraising #super-pac #mega-donor #maga #dark-money #billionaire #transactional
 

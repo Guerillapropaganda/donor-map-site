@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Federal Maritime Commission"
   - "Food and Nutrition Service"
   - "Health and Human Services Department"
-related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]]"
+related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]] · [[John Deere]]"
 court-cases: 14521
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"

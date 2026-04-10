@@ -12,7 +12,7 @@ issues:
   - "Defense & Military"
 lei: "549300S4KLFTLO7GSQ80"
 lei-jurisdiction: "US-DE"
-related: "[[OpenAI]] · [[Microsoft]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apple]] · [[Anthropic]]"
+related: "[[OpenAI]] · [[Microsoft]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apple]] · [[Anthropic]] · [[AI Regulation and Tech Donors]]"
 cpsc-recalls: 2
 last-enriched: "2026-04-09"
 ---

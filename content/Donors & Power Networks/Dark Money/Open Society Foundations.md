@@ -18,7 +18,7 @@ net-assets: "$553"
 tax-year: "2016"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
-related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]] · [[George Soros]] · [[_Gavin Newsom Master Profile]] · [[Democracy Alliance]]"
+related: "[[Center on Budget and Policy Priorities]] · [[Ryan Grim]] · [[Jeremy Scahill]] · [[Drop Site News]] · [[Crooked Media]] · [[George Soros]] · [[_Gavin Newsom Master Profile]] · [[Democracy Alliance]] · [[Sixteen Thirty Fund]]"
 court-cases: 138
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"

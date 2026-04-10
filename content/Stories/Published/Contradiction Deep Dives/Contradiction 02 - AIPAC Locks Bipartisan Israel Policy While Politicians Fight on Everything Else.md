@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 issues:
   - "Israel & Foreign Policy"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Cory Booker Master Profile|Cory Booker]] · [[Ritchie Torres]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[United Democracy Project - UDP|United Democracy Project]] · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Cory Booker Master Profile|Cory Booker]] · [[Ritchie Torres]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[United Democracy Project - UDP|United Democracy Project]] · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 ---
 #investigation #contradiction #aipac #israel #both-sides #bipartisan #primary-weapon #class-analysis
 tags: #analysis #story

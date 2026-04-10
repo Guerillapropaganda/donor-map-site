@@ -11,7 +11,7 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
 ofac-programs:
   - "SDGT"
-related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]]"
+related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]]"
 ---
 #saudi-arabia #foreign #oil #arms-sales #mbs #pif #lobbying #khashoggi
 

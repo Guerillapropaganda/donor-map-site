@@ -42,7 +42,7 @@ regulatory-agencies:
   - "Fish and Wildlife Service"
   - "Food Safety and Inspection Service"
   - "Interior Department"
-related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]]"
+related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 56531773
 total-assets: 37287895

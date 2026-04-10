@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
   - "Technology"
-related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]] · [[Goldman Sachs]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]]"
+related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]] · [[Goldman Sachs]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]]"
 last-enriched: "2026-04-08"
 lobbying-spend: 7197209
 lobbying-filings: 102

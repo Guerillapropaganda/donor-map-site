@@ -15,7 +15,7 @@ issues:
   - "Immigration"
 lobbying-spend: 1860000
 lobbying-filings: 51
-related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Immigration Enforcement - The Detention Economy]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Miriam Adelson]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Adelson 250M Republican Kingmaker Pledge]]"
+related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Immigration Enforcement - The Detention Economy]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Miriam Adelson]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[2028 Presidential Landscape]]"
 ---
 #donor #mellon #banking-dynasty #class-analysis #follow-the-money #immigration #border-wall #old-money #reclusive #MAGA #generational-wealth #project-2025 #military-pay #heritage
 

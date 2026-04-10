@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Neil Gorsuch Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]] · [[Judicial Crisis Network]] · [[The NRA Investment and the Second Amendment Theater]]"
+related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Neil Gorsuch Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]] · [[Judicial Crisis Network]] · [[The NRA Investment and the Second Amendment Theater]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]]"
 ---
 #donald-trump #judicial #leonard-leo #federalist-society #scotus #gorsuch #kavanaugh #barrett #mcconnell #garland #dark-money #chevron #dobbs #class-analysis #follow-the-money
 

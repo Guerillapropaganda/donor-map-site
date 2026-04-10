@@ -20,7 +20,7 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, S.D. Texas"
-related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]] · [[Valero Energy]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]] · [[Valero Energy]] · [[PG&E - Pacific Gas and Electric]]"
 sec-filings: 19
 sec-form-types:
   - "10-K"

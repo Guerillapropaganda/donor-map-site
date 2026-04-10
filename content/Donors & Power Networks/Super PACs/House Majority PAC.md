@@ -24,8 +24,8 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - "10-K"
-related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Senate Leadership Fund]]"
-opposes: "[[Michael Waltz]]"
+related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]]"
+opposes: "[[Michael Waltz]] · [[Mark Green]]"
 ---
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor
 

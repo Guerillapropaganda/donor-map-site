@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]]"
+related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Sources Master Node]]"
 ---
 
 #session-log #vault-maintenance #handoff

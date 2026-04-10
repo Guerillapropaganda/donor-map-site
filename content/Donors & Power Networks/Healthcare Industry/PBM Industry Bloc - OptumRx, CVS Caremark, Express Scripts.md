@@ -9,7 +9,7 @@ sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]] · [[UnitedHealth Group - Optum]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]]"
+related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]] · [[UnitedHealth Group - Optum]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"

@@ -2,7 +2,7 @@
 title: "Instacart"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -17,7 +17,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Labor Department"
   - "Wage and Hour Division"
-related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]]"
+related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]] · [[Fossil Fuel Bloc]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 815

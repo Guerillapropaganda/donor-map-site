@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Budget Priorities - What California Actually Funds]] · [[Policing Reform - George Floyd Era]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]]"
+related: "[[Budget Priorities - What California Actually Funds]] · [[Policing Reform - George Floyd Era]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]] · [[Prop 22 - The $200M Corporate Rollback]]"
 ---
 #newsom #criminal-justice #san-quentin #covid #prison #deaths-in-custody #accountability #rehabilitation #class-analysis #CDCR #symbolic-reform
 

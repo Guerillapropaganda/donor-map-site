@@ -30,7 +30,7 @@ lobbying-filings: 52
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 0
-related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_French Hill Master Profile|French Hill]] · [[The Financial Services Committee and Wall Street Oversight]]"
+related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_French Hill Master Profile|French Hill]] · [[The Financial Services Committee and Wall Street Oversight]] · [[Wells Fargo]]"
 sec-filings: 10000
 sec-form-types:
   - "424B2"

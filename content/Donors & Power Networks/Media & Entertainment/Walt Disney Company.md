@@ -37,7 +37,7 @@ ein: 956037079
 annual-revenue: "$2.3M"
 net-assets: "$681K"
 tax-year: "2023"
-related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[_Ron DeSantis Master Profile|DeSantis]] · [[iHeartMedia]]"
+related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[_Ron DeSantis Master Profile|DeSantis]] · [[iHeartMedia]] · [[Verizon]]"
 ---
 #disney #media #entertainment #lobbying #copyright #florida #desantis
 

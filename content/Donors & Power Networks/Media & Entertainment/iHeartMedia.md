@@ -13,7 +13,7 @@ subawards-received: 1
 subawards-received-amount: 30000
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541810"
-related: "[[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]]"
+related: "[[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[Verizon]]"
 court-cases: 769
 last-enriched: "2026-04-08"
 court-jurisdictions:

@@ -14,7 +14,7 @@ issues:
 sec-filings: 1
 sec-form-types:
   - "EX-99.(P)(II)"
-related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]] · [[Democratic Senatorial Campaign Committee]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee|NRSC]] · [[Priorities USA Action]]"
+related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]] · [[Democratic Senatorial Campaign Committee]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee|NRSC]] · [[Priorities USA Action]] · [[Emilys List]]"
 ---
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis
 

@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, D. Utah"
   - "District Court, District of Columbia"
   - "District Court, W.D. Michigan"
-related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[WinRed]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Senate Majority PAC]]"
+related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[WinRed]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Senate Majority PAC]] · [[Winning for Women PAC]]"
 ---
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money
 

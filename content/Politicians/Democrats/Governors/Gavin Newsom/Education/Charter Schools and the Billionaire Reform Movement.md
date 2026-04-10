@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Pro-Israel Donor Network Deep Dive]]"
 ---
 #newsom #education #charter-schools #billionaire-donors #CTA #CCSA #AB1505 #privatization #class-analysis #donor-tension #broad #walton #gates
 

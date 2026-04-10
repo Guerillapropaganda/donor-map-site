@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Carceral State"
 entity-type: "Corporation"
-related: "[[Aramark]] · [[Securus Technologies - Aventiv]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Prison Policy Initiative]]"
+related: "[[Aramark]] · [[Securus Technologies - Aventiv]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Prison Policy Initiative]] · [[CoreCivic - Private Prisons]]"
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"

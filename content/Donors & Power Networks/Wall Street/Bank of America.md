@@ -29,7 +29,7 @@ regulatory-agencies:
   - "Housing and Urban Development Department"
   - "Justice Department"
   - "Securities and Exchange Commission"
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[_French Hill Master Profile|French Hill]] · [[_Tim Scott Master Profile|Tim Scott]] · [[Wells Fargo]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[_French Hill Master Profile|French Hill]] · [[_Tim Scott Master Profile|Tim Scott]] · [[Wells Fargo]] · [[Morgan Stanley]]"
 subawards-issued: 9
 subawards-issued-amount: 912260
 subawards-received: 9

@@ -21,7 +21,7 @@ subawards-issued: 1
 subawards-issued-amount: 19500000
 subawards-received: 1
 subawards-received-amount: 19500000
-related: "[[AI Deregulation Super PAC - Leading the Future]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Microsoft]] · [[Nvidia]] · [[Anthropic]] · [[Google - Alphabet]] · [[AI Safety and Regulatory Capture]]"
+related: "[[AI Deregulation Super PAC - Leading the Future]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Microsoft]] · [[Nvidia]] · [[Anthropic]] · [[Google - Alphabet]] · [[AI Safety and Regulatory Capture]] · [[AI Regulation and Tech Donors]]"
 lei: "9845004F11A8N695DD79"
 lei-jurisdiction: "IE"
 sec-filings: 2332

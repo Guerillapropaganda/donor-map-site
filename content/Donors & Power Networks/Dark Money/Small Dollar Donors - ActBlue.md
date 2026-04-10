@@ -2,7 +2,7 @@
 title: "Small Dollar Donors - ActBlue"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,7 +12,7 @@ politicians-funded:
   - "Alexandria Ocasio-Cortez"
 issues:
   - "Infrastructure"
-related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]] · [[ActBlue]] · [[Democratic Small Dollar Networks]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Democratic Party Infrastructure]] · [[WinRed]]"
+related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]] · [[ActBlue]] · [[Democratic Small Dollar Networks]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Democratic Party Infrastructure]] · [[WinRed]] · [[Ohio Democratic Party]]"
 ---
 #actblue #small-dollar #democratic #grassroots #online #platform #conduit #infrastructure #winred
 

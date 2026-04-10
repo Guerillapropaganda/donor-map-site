@@ -36,7 +36,7 @@ cpsc-recalls: 2
 nonprofit-status: "501(c)(3)"
 total-revenue: 5056273
 total-assets: 23768481
-related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]]"
+related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]] · [[Walt Disney Company]]"
 lei: "549300P62FU7SYVYQG84"
 lei-jurisdiction: "FR"
 ---

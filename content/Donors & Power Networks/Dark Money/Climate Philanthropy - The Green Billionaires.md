@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
   - "Environment"
-related: "[[Silicon Valley Democratic Donor Network]] · [[Michael Bloomberg]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Laurene Powell Jobs]]"
+related: "[[Silicon Valley Democratic Donor Network]] · [[Michael Bloomberg]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Laurene Powell Jobs]] · [[Ocean Conservancy]]"
 source-types:
   - FEC
 ---

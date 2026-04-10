@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Mental Health CARE Court and Forced Treatment]] · [[Rent Control - Props 10, 21, and 33]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]] · [[3.5 Million Units - Broken Promise]] · [[Mental Health CARE Court and Forced Treatment]] · [[Rent Control - Props 10, 21, and 33]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Biden Exit and Harris Installation]]"
 ---
 #newsom #housing #homelessness #encampments #spending #accountability #grants-pass #CARE-court #criminalize-poverty #results #class-analysis #california #follow-the-money
 
