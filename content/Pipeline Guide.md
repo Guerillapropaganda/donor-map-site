@@ -188,6 +188,29 @@ Secondary impact: the `wait` step in the parallel runner never returned when a s
 
 **Follow-up:** If the scheduler stops again after this fix holds, the cause is NOT the timeout-induced pause — it's something else (repo inactivity auto-disable, workflow file corruption, GitHub-side incident). Check `gh api /repos/.../actions/workflows/{id} --jq '.state'` first.
 
+### updateFrontmatter scalar/list hybrid corruption (fixed 2026-04-10)
+
+**Incident:** `scripts/lib/shared.cjs::updateFrontmatter()` had two code paths for writing frontmatter fields — scalar and array — and each had its own regex for finding the existing field. Neither path correctly handled the case where the existing value was in a DIFFERENT form than the new value being written. Specifically: when a pipeline wrote `donors: "comma,separated,string"` to a profile whose existing `donors:` field was a YAML list, the scalar-write regex `/^donors:.*$/m` replaced only the `donors:` line itself but left the indented `  - "..."` continuation lines underneath, creating:
+
+```yaml
+donors: "League of Conservation Voters,Trial Lawyers,..."
+  - "League of Conservation Voters"   ← orphaned from previous list form
+  - "Trial Lawyers Fund"
+  - "..."
+```
+
+This is invalid YAML (`bad indentation of a mapping entry`) and broke the Quartz deploy on Sheldon Whitehouse's profile in commit `865e0156` ("API enrichment: 412 files"). The bad state then shipped through a second deploy (`24267993437`) before the root cause was identified. Same failure pattern exists in reverse if an array-write lands on a profile with an orphaned scalar.
+
+Smoking gun in the diff: a single 2-line change on 2026-04-10 at 22:59Z converted `donors:` from a clean list to the hybrid state, and the deploy log showed `content/Politicians/Democrats/Senate/Sheldon Whitehouse/_Sheldon Whitehouse Master Profile.md: bad indentation of a mapping entry (64:3)`.
+
+**Fix (fixed in engine commit after this Pipeline Guide edit):** Both write paths in `updateFrontmatter()` now use a single `fullFieldRegex(key)` helper that matches the key line PLUS any indented continuation lines (list items, wrapped values, etc.) before replacement. This guarantees the old field is fully removed regardless of its existing form. Test suite exercises four scenarios: scalar-replacing-list, array-replacing-list, array-replacing-scalar, and new-key insertion — all pass.
+
+**Quality check rule:** Any regex that replaces a YAML mapping entry in frontmatter MUST consume continuation lines (`[ \t]{2,}[^\n]*` pattern) or it will leak orphaned continuation lines when the value type changes. If you see a regex like `^key:.*$` used for frontmatter replacement, assume it's broken and switch to the full-field pattern.
+
+**Preventive: vault-wide YAML sanity scan.** `scripts/yaml-sanity-scan.cjs` in the site repo validates every profile's frontmatter with `js-yaml` and reports any that fail. Run it after any bulk pipeline run that writes frontmatter fields. Zero-tolerance: any broken YAML blocks the Quartz deploy, so catch it pre-commit.
+
+**Root cause of the pipeline passing scalar donors to begin with:** separate issue — some pipeline (suspected: auto-connection or a merge script) was passing a comma-separated string where the field semantically should be an array. The `updateFrontmatter` fix makes this class of mismatch safe regardless of caller intent, but the caller-side bug should still be identified and corrected in a follow-up.
+
 ## How Data Lands in Profiles
 
 ### 1. Frontmatter (numbers)
