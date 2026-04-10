@@ -252,10 +252,10 @@ phase_1_tasks:
 
     - id: cc_07
       task: "Run pipeline enrichment on 12 new stubs"
-      status: blocked
-      blocker: "Scheduled api-enrichment.yml runs stopped firing after 2026-04-09 17:44Z — no scheduled runs have fired since despite workflow being state:active. workflow_dispatch still works. Root cause unknown."
+      status: in-progress
+      blocker: "Scheduler was stuck since 2026-04-09 17:44Z — kicked via gh workflow disable/enable at 2026-04-10 20:32Z (see cc_14). Verification pending: next scheduled slot (02:00Z or 08:00Z UTC 2026-04-11) will confirm whether the scheduler resumed."
       stubs: ["Summer Lee", "Nina Turner", "George Latimer", "Wesley Bell", "Shontel Brown", "Bernie Marcus", "Mark Mellman", "Brian Armstrong", "Ben Horowitz", "Chris Larsen", "Brad Garlinghouse", "Paul Atkins"]
-      partial_progress: "Parallel-step log contamination bug fixed in commit 0bec4b7 (exclude reports/logs from cache, wipe at start, bump timeout 25→30). Next scheduled slot will test whether the scheduler resumes."
+      partial_progress: "Parallel-step log contamination bug fixed in commit 0bec4b7. Timeout bumped 25→30 min, job timeout 35→40 min. Scheduler toggled in cc_14. Once scheduled runs resume, the 12 stubs will be enriched automatically on the next cron tick."
 
     - id: cc_08
       task: "Build Ops calendar tab from sprint-schedule.md"
@@ -304,6 +304,60 @@ phase_1_tasks:
       completed_date: 2026-04-11
       added_adhoc: true
       notes: "Updated C:\\Users\\third\\.claude\\skills\\session-save\\skill.md AND .claude/commands/session-save.md AND .claude/commands/sessionsave.md with a new Step 3 that requires updating sprint-schedule.md on every session-save. Memory: feedback_session_save_updates_calendar.md. David asked for this after noticing the calendar was showing stale blocked/pending state while the actual work was done."
+
+    - id: cc_14
+      task: "Kick stuck api-enrichment.yml scheduler via disable/enable toggle"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      notes: "Scheduled runs had been dead since 2026-04-09 17:44Z (4 missed slots). Ran gh workflow disable + enable. Workflow updated_at refreshed to 2026-04-10 20:32Z. Should resume on next scheduled slot — preflight will verify."
+
+    - id: cc_15
+      task: "Infrastructure safety nets: verify-fec-candidate-ids retry + /preflight YAML scan + /deploy polling"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commits: ["c9025e8", "de43d755"]
+      notes: |
+        Three safety nets in one commit batch.
+        (1) verify-fec-candidate-ids.cjs: probeCandidate() now retries 3 attempts with 2s/4s backoff. Eliminates the 5 transient false positives from the first audit run.
+        (2) /preflight new Step 6: 3-second js-yaml parse scan across content/ at session start. Catches silent build-break states before any session work begins. Treats YAML errors as blocking.
+        (3) /deploy new Step 8 + /session-save Step 5: poll deploy.yml for completion after push, hard-fail on failure/cancelled/timed-out. Red Flag #7 from 2026-04-10 lesson log. Validated live on this session's own deploys — run 24263270533 caught on attempt 5, run 24264591063 caught on attempt 1.
+        (4) Documented stuck-scheduler incident in Pipeline Guide § Engine-wide known incidents.
+        (5) Synced global skills (~/.claude/skills/preflight/deploy/session-save) with the repo-local command versions.
+
+    - id: cc_16
+      task: "Build FDA openFDA enforcement pipeline"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "9a7a07e"
+      notes: "scripts/fda-pipeline.cjs (420+ lines). Queries /drug/enforcement.json, /device/enforcement.json, /food/enforcement.json per profile. Strict firm verification with corporate-suffix stripping. 38 FDA-adjacent profiles filtered from 384. Verified: Pfizer → 103 recalls (14 Class I), J&J → 110 recalls (2 Class I). Auth optional (no key: 240 req/min/IP, fine for our scale)."
+
+    - id: cc_17
+      task: "Build OCC bank enforcement pipeline"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "9a7a07e"
+      notes: |
+        scripts/occ-pipeline.cjs (460+ lines). Queries /EnforcementActions/list/{variant} and dedupes by DocketNumber. Skips /Institutions/List/1 because it's broken (searching JPMorgan returns Charter 1 = Wells Fargo predecessors — documented in Pipeline Guide). Name variants + word-boundary strict match. Parses Amount-as-string defensively. Verified: Wells Fargo → 116 actions, 95 active, $899M CMPs. JPMorgan Chase → 78 actions, 58 active, $1.22B CMPs. Uses the FEC api.data.gov key automatically via api-config fallback.
+
+    - id: cc_18
+      task: "Build FTC enforcement + HSR merger pipeline"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "9a7a07e"
+      notes: |
+        scripts/ftc-pipeline.cjs (470+ lines). Combines two sources because FTC has NO enforcement search API: (1) three static enforcement CSVs loaded at startup (644 records covering FY1996–FY2021), and (2) HSR Early Termination Notices via /v0/hsr-early-termination-notices. In-tree CSV parser (no dependency). Bug caught in testing: first regex `\\bmeta` matched "Commercial Metals Company" — fixed with full word boundary on both sides, same fix applied to FDA simultaneously. Verified: Meta - Facebook → 1 historical (Facebook/Instagram 2020), 0 false positives. Documents CSV cutoff caveat in every auto-block.
+
+    - id: cc_19
+      task: "Wire FDA/OCC/FTC into Ops app"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      notes: "ops/src/lib/pipelines.ts: added FDA/OCC/FTC to PIPELINES array under 'AUTO-FILL — pure data'. ops/src/app/api/enrichment-history/route.ts: added human-readable labels for fda/fda-enforcement/occ/occ-enforcement/ftc/ftc-enforcement so they render in Enrichment History view. ops/src/components/PipelineDataViewer.tsx: added fda-enforcement/occ-enforcement/ftc-enforcement to BLOCK_LABELS for profile data viewer rendering. All three now visible in Ops app pipeline dropdown + trigger UI."
 
   research_claude:
     - id: rc_01
@@ -591,6 +645,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-11**
+**Schedule last updated: 2026-04-11 (evening session — cc_14 thru cc_19 added)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
+**New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

@@ -38,6 +38,12 @@ const PIPELINE_LABELS: Record<string, string> = {
   wikipedia: "Wikipedia/Wikidata",
   fcc: "FCC Broadcasting Data",
   gleif: "GLEIF Legal Entity Data",
+  "fda-enforcement": "FDA Drug/Device/Food Enforcement",
+  "fda": "FDA Drug/Device/Food Enforcement",
+  "occ-enforcement": "OCC National Bank Enforcement",
+  "occ": "OCC National Bank Enforcement",
+  "ftc-enforcement": "FTC Enforcement & Mergers",
+  "ftc": "FTC Enforcement & Mergers",
 }
 
 export async function GET() {

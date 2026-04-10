@@ -41,6 +41,9 @@ const BLOCK_LABELS: Record<string, string> = {
   "federal-register": "Federal Register (Rules & Notices)",
   "executive-orders": "Executive Orders",
   "influence-cross-ref": "Influence Cross-Reference",
+  "fda-enforcement": "FDA Drug/Device/Food Recalls",
+  "occ-enforcement": "OCC Bank Enforcement Actions",
+  "ftc-enforcement": "FTC Enforcement & Mergers",
 }
 
 const BLOCK_COLORS: Record<string, string> = {
