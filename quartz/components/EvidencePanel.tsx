@@ -102,6 +102,29 @@ const EvidencePanel: QuartzComponent = ({
 
   const hasConnections = donorCount > 0 || lobbyCount > 0 || thinkTankCount > 0 || polCount > 0
 
+  // ─── #2: Both Sides badge (donors who fund both parties) ───
+  let fundsBothSides = false
+  if ((type === "donor" || type === "corporation" || type === "pac") && politiciansFunded.length > 0 && allFiles) {
+    let hasDem = false
+    let hasRep = false
+    for (const polName of politiciansFunded) {
+      const name = String(polName).replace(/\[\[/g, "").replace(/\]\]/g, "").split("|")[0].trim().toLowerCase()
+      const polFile = allFiles.find((f) =>
+        String(f.frontmatter?.title ?? "").toLowerCase() === name
+      )
+      if (polFile) {
+        const p = String(polFile.frontmatter?.party ?? "").toLowerCase()
+        if (p.startsWith("dem")) hasDem = true
+        if (p.startsWith("rep")) hasRep = true
+      }
+      if (hasDem && hasRep) { fundsBothSides = true; break }
+    }
+  }
+  // Also detect from fec-party-split
+  if (!fundsBothSides && demPct !== null && repPct !== null && demPct >= 10 && repPct >= 10) {
+    fundsBothSides = true
+  }
+
   // ─── Money trail bar (sector breakdown for politicians) ───
   interface SectorSegment { sector: string; color: string; pct: number }
   const sectorSegments: SectorSegment[] = []
@@ -201,6 +224,9 @@ const EvidencePanel: QuartzComponent = ({
       <div class="signal-meta">
         <div class="signal-meta-left">
           <span class="signal-type-badge">{typeLabel}</span>
+          {fundsBothSides && (
+            <span class="signal-both-sides">FUNDS BOTH SIDES</span>
+          )}
           {contextParts.length > 0 && (
             <span class="signal-context">{contextParts.join(" · ")}</span>
           )}
@@ -318,6 +344,15 @@ EvidencePanel.css = `
   color: #0a0a0a;
   padding: 4px 12px;
   background: #fbbf24;
+}
+
+.signal-both-sides {
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: #0a0a0a;
+  background: #fbbf24;
+  padding: 3px 10px;
 }
 
 .signal-context {
