@@ -1,6 +1,7 @@
 "use client"
 
 import { useState, useEffect } from "react"
+import { useRouter } from "next/navigation"
 import type { Profile, VaultStats } from "@/lib/vault"
 import { StatsBar } from "@/components/StatsBar"
 import { VaultGrid } from "@/components/VaultGrid"
@@ -8,14 +9,28 @@ import { ProfileDetail } from "@/components/ProfileDetail"
 import { ActivityFeed } from "@/components/ActivityFeed"
 import { TypeBreakdown } from "@/components/TypeBreakdown"
 import { ContentBreakdown } from "@/components/ContentBreakdown"
+import { Breadcrumbs } from "@/components/Breadcrumbs"
+
+interface ActivityItem { id: string; type: string; actor: string; action: string; detail: string; timestamp: string; link?: string }
+
+const ACTOR_COLORS: Record<string, string> = {
+  "David": "#f59e0b",
+  "Code Claude": "#5b8dce",
+  "Research Claude": "#a855f7",
+  "Pipeline": "#22c55e",
+}
 
 export default function Dashboard() {
+  const router = useRouter()
   const [profiles, setProfiles] = useState<Profile[]>([])
   const [stats, setStats] = useState<VaultStats | null>(null)
   const [loading, setLoading] = useState(true)
   const [selected, setSelected] = useState<Profile | null>(null)
   const [error, setError] = useState<string | null>(null)
   const [lastRefresh, setLastRefresh] = useState<Date | null>(null)
+  const [activity, setActivity] = useState<ActivityItem[]>([])
+  const [activityFilter, setActivityFilter] = useState("all")
+  const [statusData, setStatusData] = useState<{ alerts?: { critical: number }; suggestions?: { highPending: number }; notes?: { open: number } }>({})
 
   const loadVault = (refresh = false) => {
     setLoading(true)
@@ -38,9 +53,37 @@ export default function Dashboard() {
       })
   }
 
+  const loadActivity = async (type = "all") => {
+    try {
+      const res = await fetch(`/api/activity?limit=15&type=${type}`)
+      const data = await res.json()
+      setActivity(data.items || [])
+    } catch { /* skip */ }
+  }
+
+  const loadStatus = async () => {
+    try {
+      const res = await fetch("/api/status")
+      if (res.ok) setStatusData(await res.json())
+    } catch { /* skip */ }
+  }
+
   useEffect(() => {
     loadVault()
+    loadActivity()
+    loadStatus()
   }, [])
+
+  const timeAgo = (ts: string) => {
+    const diff = Date.now() - new Date(ts).getTime()
+    const mins = Math.floor(diff / 60000)
+    if (mins < 1) return "just now"
+    if (mins < 60) return `${mins}m ago`
+    const hrs = Math.floor(mins / 60)
+    if (hrs < 24) return `${hrs}h ago`
+    const days = Math.floor(hrs / 24)
+    return `${days}d ago`
+  }
 
   return (
     <div className={`transition-all ${selected ? "mr-96" : ""}`}>
@@ -108,15 +151,112 @@ export default function Dashboard() {
         </div>
       )}
 
-      {/* Stats */}
-      <StatsBar stats={stats} loading={loading} />
+      {/* Quick Actions */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
+        {[
+          { label: "Run Scan", desc: `${statusData.suggestions?.highPending || 0} high pending`, icon: "M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z", color: "#22c55e", href: "/relationships" },
+          { label: "Check URLs", desc: "Triage broken links", icon: "M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9", color: "#5b8dce", href: "/urls" },
+          { label: "Enrich Profiles", desc: "Run pipelines", icon: "M13 10V3L4 14h7v7l9-11h-7z", color: "#f59e0b", href: "/pipelines" },
+          { label: "View Alerts", desc: `${statusData.alerts?.critical || 0} critical`, icon: "M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9", color: "#ef4444", href: "/alerts" },
+        ].map(qa => (
+          <button key={qa.label} onClick={() => router.push(qa.href)}
+            className="flex items-center gap-3 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg hover:border-opacity-50 transition-all text-left group"
+            style={{ borderLeftWidth: 3, borderLeftColor: qa.color }}>
+            <div className="w-9 h-9 rounded-lg flex items-center justify-center transition-colors" style={{ backgroundColor: `${qa.color}15` }}>
+              <svg width={16} height={16} fill="none" stroke={qa.color} viewBox="0 0 24 24" strokeWidth={1.5}>
+                <path strokeLinecap="round" strokeLinejoin="round" d={qa.icon} />
+              </svg>
+            </div>
+            <div>
+              <p className="text-[11px] font-bold text-[var(--color-text)] group-hover:text-[var(--color-steel)]">{qa.label}</p>
+              <p className="text-[8px] text-[var(--color-text-dim)]">{qa.desc}</p>
+            </div>
+          </button>
+        ))}
+      </div>
 
-      {/* Charts Row */}
+      {/* Vault Health + Pipeline Status + Activity Feed */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+        {/* Vault Health */}
+        <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
+          <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">Vault Health</h3>
+          {stats ? (() => {
+            const total = profiles.length || 1
+            const verified = profiles.filter(p => (p as Record<string, unknown>)["content-readiness"] === "verified" || (p as Record<string, unknown>)["content-readiness"] === "ready").length
+            const draft = profiles.filter(p => (p as Record<string, unknown>)["content-readiness"] === "draft" || (p as Record<string, unknown>)["content-readiness"] === "developed").length
+            const raw = profiles.filter(p => (p as Record<string, unknown>)["content-readiness"] === "raw" || !(p as Record<string, unknown>)["content-readiness"]).length
+            const healthPct = Math.round(((verified * 3 + draft * 1.5) / (total * 3)) * 100)
+            const color = healthPct > 60 ? "#22c55e" : healthPct > 30 ? "#f59e0b" : "#ef4444"
+            return (
+              <div>
+                <div className="flex items-center gap-4 mb-3">
+                  <div className="relative w-16 h-16">
+                    <svg viewBox="0 0 36 36" className="w-16 h-16 -rotate-90">
+                      <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="var(--color-border)" strokeWidth="3" />
+                      <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke={color} strokeWidth="3" strokeDasharray={`${healthPct}, 100`} strokeLinecap="round" />
+                    </svg>
+                    <span className="absolute inset-0 flex items-center justify-center text-[14px] font-bold" style={{ color }}>{healthPct}%</span>
+                  </div>
+                  <div className="flex-1 space-y-1.5">
+                    <div className="flex items-center justify-between text-[8px]">
+                      <span className="text-[#22c55e]">Verified/Ready</span>
+                      <span className="font-bold text-[var(--color-text)]">{verified}</span>
+                    </div>
+                    <div className="flex items-center justify-between text-[8px]">
+                      <span className="text-[#f59e0b]">Draft/Developed</span>
+                      <span className="font-bold text-[var(--color-text)]">{draft}</span>
+                    </div>
+                    <div className="flex items-center justify-between text-[8px]">
+                      <span className="text-[#ef4444]">Raw/Missing</span>
+                      <span className="font-bold text-[var(--color-text)]">{raw}</span>
+                    </div>
+                  </div>
+                </div>
+                <div className="text-[8px] text-[var(--color-text-dim)]">{total} total profiles</div>
+              </div>
+            )
+          })() : <div className="animate-pulse h-16 bg-[var(--color-bg)] rounded" />}
+        </div>
+
+        {/* Charts */}
         <ContentBreakdown profiles={profiles} />
         <TypeBreakdown stats={stats} />
-        <ActivityFeed />
       </div>
+
+      {/* Activity Feed */}
+      <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4 mb-6">
+        <div className="flex items-center justify-between mb-3">
+          <h3 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)]">Activity Feed</h3>
+          <div className="flex gap-1">
+            {["all", "git", "suggestion", "url"].map(f => (
+              <button key={f} onClick={() => { setActivityFilter(f); loadActivity(f) }}
+                className={`text-[7px] px-2 py-0.5 rounded transition-all ${activityFilter === f ? "bg-[var(--color-steel)]/15 text-[var(--color-steel)] font-bold" : "text-[var(--color-text-dim)] hover:text-[var(--color-text)]"}`}>
+                {f === "all" ? "All" : f === "git" ? "Git" : f === "suggestion" ? "Suggestions" : "URLs"}
+              </button>
+            ))}
+          </div>
+        </div>
+        <div className="space-y-1.5 max-h-64 overflow-y-auto">
+          {activity.length === 0 ? (
+            <p className="text-[9px] text-[var(--color-text-dim)] py-4 text-center">No activity yet</p>
+          ) : activity.map(item => (
+            <div key={item.id} className="flex items-start gap-2.5 py-1.5 px-2 rounded hover:bg-[var(--color-bg-hover)] transition-colors group">
+              <span className="w-1.5 h-1.5 rounded-full mt-1.5 flex-shrink-0" style={{ backgroundColor: ACTOR_COLORS[item.actor] || "#7a7a86" }} />
+              <div className="flex-1 min-w-0">
+                <div className="flex items-center gap-2">
+                  <span className="text-[8px] font-bold" style={{ color: ACTOR_COLORS[item.actor] || "#7a7a86" }}>{item.actor}</span>
+                  <span className="text-[8px] text-[var(--color-text)]">{item.action}</span>
+                </div>
+                {item.detail && <p className="text-[7px] text-[var(--color-text-dim)] truncate">{item.detail}</p>}
+              </div>
+              <span className="text-[7px] text-[var(--color-text-dim)] whitespace-nowrap flex-shrink-0">{timeAgo(item.timestamp)}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {/* Stats */}
+      <StatsBar stats={stats} loading={loading} />
 
       {/* Vault Grid */}
       <div className="mb-4">

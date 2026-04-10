@@ -46,6 +46,36 @@ export default function PipelinesPage() {
         )}
       </div>
 
+      {/* Pipeline Overview Grid */}
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
+        {[
+          { name: "FEC", desc: "Campaign finance data", icon: "\uD83C\uDFDB", color: "#22c55e", pipeline: "fec-pipeline" },
+          { name: "Congress", desc: "Bills, votes, committees", icon: "\uD83D\uDCDC", color: "#5b8dce", pipeline: "congress-pipeline" },
+          { name: "GovTrack", desc: "Voting records", icon: "\uD83D\uDDF3", color: "#a855f7", pipeline: "govtrack-pipeline" },
+          { name: "LobbyView", desc: "Lobbying disclosures", icon: "\uD83D\uDD0D", color: "#f59e0b", pipeline: "lobbyview-pipeline" },
+          { name: "Committee", desc: "Committee assignments", icon: "\uD83D\uDC65", color: "#ec4899", pipeline: "committee-pipeline" },
+          { name: "Relationships", desc: "Connection scanner", icon: "\uD83D\uDD17", color: "#ef4444", pipeline: "relationship-discovery" },
+          { name: "Federal Register", desc: "Executive orders", icon: "\uD83D\uDCF0", color: "#7a7a86", pipeline: "exec-orders-pipeline" },
+          { name: "USASpending", desc: "Federal contracts", icon: "\uD83D\uDCB0", color: "#22c55e", pipeline: "usaspending-pipeline" },
+        ].map(p => (
+          <div key={p.name} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-3 hover:border-[var(--color-text-dim)]/30 transition-all group">
+            <div className="flex items-center gap-2 mb-2">
+              <span className="text-sm">{p.icon}</span>
+              <span className="text-[10px] font-bold text-[var(--color-text)]">{p.name}</span>
+            </div>
+            <p className="text-[8px] text-[var(--color-text-dim)] mb-3">{p.desc}</p>
+            <button
+              onClick={() => triggerPipeline(p.pipeline, 25)}
+              disabled={triggering}
+              className="w-full text-[8px] py-1.5 rounded border transition-all opacity-0 group-hover:opacity-100 disabled:opacity-50"
+              style={{ color: p.color, borderColor: `${p.color}40`, backgroundColor: `${p.color}10` }}
+            >
+              {triggering ? "Running..." : "Run"}
+            </button>
+          </div>
+        ))}
+      </div>
+
       {/* Tabs */}
       <div className="flex gap-1 mb-6 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-1 w-fit">
         <button
