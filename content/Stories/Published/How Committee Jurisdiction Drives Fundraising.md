@@ -62,4 +62,3 @@ Committee jurisdiction drives fundraising during service; it drives employment a
 - [OpenSecrets: Committee campaign contributions analysis](https://www.opensecrets.org/cong-cmtes) (Tier 1)
 - [Ballotpedia: Congressional committees](https://ballotpedia.org/Committees_of_the_United_States_Congress) (Tier 3)
 
-content-readiness:: ready

@@ -39,4 +39,3 @@ Illinois Future PAC exemplifies the Self-Funding as Independence pattern: Pritzk
 
 - [Ballotpedia: JB Pritzker campaign finance](https://ballotpedia.org/Illinois_Future_PAC) (Tier 3)
 
-content-readiness:: ready

@@ -12,7 +12,6 @@ related: "[[Chris Hedges]] · [[Aaron Maté]] · [[Mehdi Hasan]] · [[Novara Med
 
 #media-pipeline #left #UK #guardian #labour #democratic-socialism #platform-dependency #institutional-left
 
-
 ---
 
 ### Who They Are
@@ -160,4 +159,3 @@ Jones's capture architecture is institutional rather than corporate-advertiser i
 - [Owen Jones YouTube channel — @owenjonestalks](https://www.youtube.com/@owenjonestalks) (Tier 3) (Chrome-verified 2026-03-27)
 - [Owen Jones — The Guardian columnist profile](https://www.theguardian.com/profile/owen-jones) (Tier 2) (Chrome-verified 2026-03-27)
 
-content-readiness:: ready

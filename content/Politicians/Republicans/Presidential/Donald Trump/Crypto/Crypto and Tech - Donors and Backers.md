@@ -108,4 +108,3 @@ The retail investors. Always. Meme coins like $TRUMP have no underlying value. 8
 - [OpenSecrets: Fairshake Spending](https://www.opensecrets.org/members-of-congress/summary?name=Crypto%20and%20Tech) (Tier 1)
 - [SEC Press Releases: Enforcement Reversals](https://www.sec.gov/cgi-bin/browse-edgar?company=Crypto%20and%20Tech%20-%20Donors%20and%20Backers&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1)
 
-content-readiness:: ready

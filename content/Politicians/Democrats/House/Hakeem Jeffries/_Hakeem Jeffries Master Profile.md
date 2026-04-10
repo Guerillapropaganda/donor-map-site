@@ -238,7 +238,6 @@ Similarly, Jeffries frames his AIPAC alignment as "just representing my district
 The transition is the most visible evidence that Democratic leadership is a donor-class institution, not an ideological one. Jeffries was selected because he would replicate the function, not transform it. His presence as the first Black House leader proves that the donor class has learned to distribute diversity cosmetically while preserving structural control.
 
 --- (Tier 3)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

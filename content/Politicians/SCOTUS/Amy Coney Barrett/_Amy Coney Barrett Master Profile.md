@@ -26,8 +26,6 @@ related: "[[_Brett Kavanaugh Master Profile]] · [[_Samuel Alito Master Profile]
 
 donors: [[Leonard Leo]], [[Judicial Crisis Network]], Religious Right Donor Network
 
-profile-status:: ready
-
 ---
 ---
 
@@ -129,7 +127,6 @@ Amy Coney Barrett. Associate Justice, Supreme Court (2020–present, confirmed 5
 - [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [SCOTUSblog: Tuesday round-up - The confirmation of Amy Coney Barrett](https://www.scotusblog.com/2020/10/tuesday-round-up-the-confirmation-of-amy-coney-barrett/) (Tier 2)
 - [Brennan Center: Dark Money in Judicial Confirmations](https://www.brennancenter.org/topics/money-politics/influence-big-money/dark-money) (Tier 2)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

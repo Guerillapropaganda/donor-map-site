@@ -15,8 +15,6 @@ related: "[[_Rick Scott Master Profile]]"
 
 donors: (Columbia/HCA — source of fortune, not donor to politics)
 
-content-readiness:: ready
-
 ---
 
 ### Columbia/HCA and the Largest Medicare Fraud in History

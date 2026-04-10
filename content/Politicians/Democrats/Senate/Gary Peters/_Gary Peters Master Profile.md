@@ -176,9 +176,8 @@ Peters is the Democratic Party's quiet operator — a former Wall Street investm
 office:: Senate
 state:: Michigan
 party:: Democrat
-profile-status:: ready
+
 research-status:: ready
-content-readiness:: ready
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

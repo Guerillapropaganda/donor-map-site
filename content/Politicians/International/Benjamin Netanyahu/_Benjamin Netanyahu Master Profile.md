@@ -161,9 +161,7 @@ Netanyahu's coalition depends on Ben-Gvir and Smotrich (20 of 67 seats). Settlem
 - [Peace Now: Settlement activity 2024](https://peacenow.org.il/en/) (Tier 2)
 - [ProPublica: Biden State Department and Israel accountability](https://www.propublica.org/article/biden-blinken-state-department-israel-gaza-human-rights-horrors) (Tier 2)
 
-profile-status:: ready
 research-status:: ready — Full citation pass complete. Temporal mapping (10 entries), Adelson $106M pipeline, corruption Cases 1000/2000/4000, $250M+ Bezeq regulatory benefits, 50,000 settlement units, $110B defense expansion. All ### headers, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

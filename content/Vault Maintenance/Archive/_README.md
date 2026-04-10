@@ -28,4 +28,3 @@ Infrastructure and process documents that govern how the vault operates.
 - When Session Timeline exceeds ~2000 lines, archive older sessions to _SESSION_HISTORY_ARCHIVE.md
 - The Publish Roadmap is the strategic document — check it for current phase before starting work
 
-content-readiness:: raw

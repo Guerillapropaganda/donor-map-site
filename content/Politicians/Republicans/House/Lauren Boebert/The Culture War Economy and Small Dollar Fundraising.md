@@ -42,4 +42,3 @@ Boebert's gun rights brand — she famously carries a Glock pistol on her hip an
 - [FEC Candidate: Lauren Boebert fundraising analysis](https://www.fec.gov/data/candidate/H0CO03165/) (Tier 1)
 - [Ballotpedia: Lauren Boebert](https://ballotpedia.org/Lauren_Boebert) (Tier 3)
 
-content-readiness:: ready

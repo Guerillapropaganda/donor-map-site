@@ -18,8 +18,6 @@ corroboration-count: 2
 ---
 #booker #scott #both-sides #donor-class #wall-street #pharma #israel #opportunity-zones #criminal-justice #class-analysis #follow-the-money #race
 
-content-readiness:: draft
-
 ---
 
 ### Two Black Senators. Same Money. Opposite Brands.

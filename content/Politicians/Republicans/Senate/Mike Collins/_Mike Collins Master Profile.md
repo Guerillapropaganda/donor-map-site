@@ -36,8 +36,6 @@ related: "[[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] · 
 
 donors: [[Fairshake PAC]] [[AIPAC - American Israel Public Affairs Committee]] [[Winklevoss Twins]] [[Elon Musk]] [[Club for Growth]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -141,8 +139,6 @@ Mike Collins is a cargo-cult populist being bankrolled by two mega-donor blocs (
 - [Georgia Recorder: Mike Collins ethics investigation](https://georgiarecorder.com/briefs/more-details-released-about-ethics-investigation-into-congressman-mike-collins-and-former-top-aide/) (Tier 2)
 - [CNBC: Fairshake PAC $193M+ cash on hand 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2)
 - [Track AIPAC: Georgia congressional delegation AIPAC tracking](https://www.trackaipac.com/states/georgia) (Tier 3)
-
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

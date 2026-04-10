@@ -165,9 +165,8 @@ Bean's central contradiction is between her identity as a former congresswoman m
 office:: House
 state:: IL
 party:: Democrat
-profile-status:: ready
+
 research-status:: active
-content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

@@ -52,8 +52,6 @@ IACP's political significance: the organization provides an "expert" voice that 
 - [IACP: Policy positions](https://www.theiacp.org/resources/policy-center) (Tier 1)
 - [Ballotpedia: Law enforcement policy](https://ballotpedia.org/International_Association_of_Chiefs_of_Police) (Tier 3)
 
-content-readiness:: ready
-
 ### Federal Register Activity
 <!-- auto:federal-register start -->
 | Metric | Value |

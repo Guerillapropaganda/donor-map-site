@@ -44,4 +44,3 @@ Cantwell's tech positions are industry-friendly: she supports immigration reform
 - [Congress.gov: Maria Cantwell](https://www.congress.gov/member/maria-cantwell/C000127) (Tier 1)
 - [Ballotpedia: Maria Cantwell](https://ballotpedia.org/Maria_Cantwell) (Tier 3)
 
-content-readiness:: ready

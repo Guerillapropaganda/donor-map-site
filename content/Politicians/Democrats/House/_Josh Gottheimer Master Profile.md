@@ -168,9 +168,6 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 - [CNN: How allies of AI are ramping up their political donations for the midterms](https://www.cnn.com/2026/02/11/politics/palantir-midterms-artificial-intelligence-ai) (Tier 2)
 - [Tech PAC Contributions to Congress, 2020-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

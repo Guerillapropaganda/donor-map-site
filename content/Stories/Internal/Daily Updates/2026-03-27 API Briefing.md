@@ -234,4 +234,3 @@ The FEC DEMO_KEY rate limit was exceeded before this run began. No independent e
 - [USASpending API: Federal contracts, March 2026, defense contractors](https://api.usaspending.gov/api/v2/search/spending_by_award/) (Tier 1) (API)
 - [FEC Developer registration](https://www.fec.gov/developers/) (reference)
 
-content-readiness:: raw

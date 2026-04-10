@@ -112,4 +112,3 @@ This is different from other veto patterns. The veto wasn't protected by an exte
 - [CalMatters: California farmworkers ask Newsom to sign voting bill](https://calmatters.org/california-divide/2022/04/california-farmworkers-voting-bill/) (Tier 2)
 - [California Agricultural Relations Board: mail-ballot implementation data](https://www.dfeh.ca.gov/carb/) (Tier 1)
 
-content-readiness:: ready

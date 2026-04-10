@@ -53,4 +53,3 @@ This creates a structural incentive to continue high-profile investigations even
 - [Washington Post: Raskin's role as lead impeachment manager](https://www.washingtonpost.com/local/md-politics/raskin-son-impeachment/2021/01/11/b9cd33d4-5420-11eb-a931-5b162d0d033d_story.html) (Tier 2)
 - [Ballotpedia: Jamie Raskin](https://ballotpedia.org/Jamie_Raskin) (Tier 3)
 
-content-readiness:: ready

@@ -13,8 +13,6 @@ related: "[[_Chris Wright Master Profile]]"
 
 donors: (Liberty Energy, fossil fuel industry — no separate nodes)
 
-content-readiness:: ready
-
 ---
 
 ### Liberty Energy and the Regulator-CEO Merger

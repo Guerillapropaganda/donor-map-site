@@ -13,7 +13,6 @@ donors: "[[Wilks Brothers]]"
 
 #media-pipeline #right #conservative #self-help #anti-climate #daily-wire #academic #radicalization-funnel #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -178,4 +177,3 @@ Jordan Peterson represents **the academic-credentialed radicalization funnel** â
 
 ---
 
-content-readiness:: ready

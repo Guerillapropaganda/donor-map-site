@@ -153,7 +153,6 @@ For IBEW members: The Teamsters' rank-and-file politics mirror the building trad
 - [Ballotpedia: Proposition 22 spending data](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
 
 research-status:: ready
-content-readiness:: ready
 
 ---
 

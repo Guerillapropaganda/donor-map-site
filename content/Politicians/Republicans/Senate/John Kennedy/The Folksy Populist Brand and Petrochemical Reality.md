@@ -43,4 +43,3 @@ Louisiana's 85-mile stretch between Baton Rouge and New Orleans — known as "Ca
 - [ProPublica: Cancer Alley investigation](https://www.propublica.org/series/sacrifice-zones) (Tier 2)
 - [Ballotpedia: John Kennedy](https://ballotpedia.org/John_Kennedy_(Louisiana)) (Tier 3)
 
-content-readiness:: ready

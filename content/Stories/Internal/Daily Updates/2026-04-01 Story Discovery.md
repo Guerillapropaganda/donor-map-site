@@ -195,5 +195,3 @@ Both PAC networks explicitly fund Republicans AND Democrats. Both use neutral-so
 | a16z crossover (crypto + AI) | Crossover flag | Flag for David. Do not write full piece. |
 
 ---
-
-content-readiness:: draft

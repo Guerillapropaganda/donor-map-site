@@ -53,8 +53,6 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 
 ---
 
-`content-readiness:: ready
-
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |

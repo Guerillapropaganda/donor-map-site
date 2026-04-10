@@ -38,8 +38,6 @@ related: "[[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[_Donald Trump 
 
 donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -192,8 +190,6 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 - [American Oversight: Chao IG investigation](https://americanoversight.org/transportation-dept-watchdog-says-former-secretary-elaine-chao-misused-her-office-echoing-american-oversight-investigations/) (Tier 1)
 - [ProPublica: Leonard Leo Supreme Court reporting](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [Kentucky Lantern: fundraising decline reporting](https://kentuckylantern.com/2024/10/24/mcconnells-fundraising-total-the-lowest-in-years/) (Tier 2)
-content-readiness:: ready
-profile-status:: ready — Dark money gatekeeper role documented ($3B+ coordinated infrastructure: SLF/One Nation $800M+, Koch $578M, Leo $1.6B). Three-network convergence mapped. Donation-to-policy timeline (7 entries), Citizens United arc, Chao fortune, Kentucky donor streams (coal $350K+, tobacco $650K+, pharma $1M+). All ### headers, Tier 1-2 sources verified. Promoted to ready Session 38i.
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

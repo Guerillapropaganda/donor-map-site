@@ -98,4 +98,3 @@ These are settings changes David needs to make in the Obsidian desktop app to co
 
 ---
 
-content-readiness:: ready

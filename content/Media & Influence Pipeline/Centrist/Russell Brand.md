@@ -13,7 +13,6 @@ donors: "[[Peter Thiel]]"
 
 #media-profile #centrist #entertainer #rumble #youtube #sexual-assault #conspiracy #audience-capture #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -161,4 +160,3 @@ Russell Brand represents **algorithmic audience capture as political radicalizat
 
 ---
 
-content-readiness:: ready

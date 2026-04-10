@@ -13,4 +13,3 @@ known-gaps:
 >
 > Original copy preserved at `topics/Vault Maintenance/Archive/Session Instructions.md`.
 
-content-readiness:: ready

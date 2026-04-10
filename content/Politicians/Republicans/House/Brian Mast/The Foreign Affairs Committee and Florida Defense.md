@@ -42,4 +42,3 @@ Mast is one of AIPAC's most reliable allies in the House. He volunteered with th
 - [FEC Candidate: Brian Mast campaign finance summary](https://www.fec.gov/data/candidate/H6FL18097/) (Tier 1)
 - [Ballotpedia: Brian Mast](https://ballotpedia.org/Brian_Mast) (Tier 3)
 
-content-readiness:: ready

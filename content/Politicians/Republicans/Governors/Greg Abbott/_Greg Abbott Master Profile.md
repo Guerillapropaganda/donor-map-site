@@ -27,8 +27,6 @@ related: "[[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bian
 
 donors: [[Timothy Mellon]] · Javaid Anwar - Midland Oil Executive · [[Koch Network - Charles Koch]] · [[Kelcy Warren - Energy Transfer Partners]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -134,7 +132,6 @@ The immigration enforcement apparatus (Operation Lone Star, border wall fund) is
 - [Texas Tribune: ERCOT blackout and power grid failure analysis](https://www.texastribune.org/2024/04/22/texas-border-migrant-apprehensions-abbott-operation-lone-star/) (Tier 2)
 - [Wikipedia: 2021 Texas power crisis](https://en.wikipedia.org/wiki/2021_Texas_power_crisis) (Tier 3)
 - [Al Jazeera: Operation Lone Star border enforcement](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint) (Tier 2)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

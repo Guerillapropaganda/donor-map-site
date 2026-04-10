@@ -45,4 +45,3 @@ The Minnesota connection: Minnesota is home to Target, UnitedHealth Group, 3M, a
 - [Senate Judiciary Subcommittee on Competition hearings](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1)
 - [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3)
 
-content-readiness:: ready

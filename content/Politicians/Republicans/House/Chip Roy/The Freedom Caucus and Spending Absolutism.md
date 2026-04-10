@@ -42,4 +42,3 @@ Roy's primary institutional donor is the Club for Growth — the anti-tax, anti-
 - [FEC Candidate: Chip Roy campaign finance summary](https://www.fec.gov/data/candidate/H8TX21307/) (Tier 1)
 - [Ballotpedia: Chip Roy](https://ballotpedia.org/Chip_Roy) (Tier 3)
 
-content-readiness:: ready

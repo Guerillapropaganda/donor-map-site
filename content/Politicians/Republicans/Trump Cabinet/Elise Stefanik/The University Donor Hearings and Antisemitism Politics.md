@@ -44,4 +44,3 @@ The pattern revealed how elite university governance actually works: when congre
 - [FEC Candidate: Elise Stefanik donor profile](https://www.fec.gov/data/candidate/H4NY21079/) (Tier 1)
 - [Ballotpedia: Elise Stefanik](https://ballotpedia.org/Elise_Stefanik) (Tier 3)
 
-content-readiness:: ready

@@ -34,4 +34,3 @@ This is the main vault root for The Donor Map Database. All political research l
 - Master profiles use `_` prefix for sort ordering
 - Source citations must include URLs and tier ratings
 
-content-readiness:: raw

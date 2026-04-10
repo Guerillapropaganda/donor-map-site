@@ -21,4 +21,3 @@ related: "[[Tim Geithner]]"
 
 Tim Geithner Political Operation. A redirect node. See [[Tim Geithner]] for the full profile.
 
-content-readiness:: raw

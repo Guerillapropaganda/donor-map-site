@@ -25,8 +25,6 @@ related: "[[George W Bush]] · [[Dick Cheney]] · [[Chevron]] · [[Hoover Instit
 
 donors: [[Chevron]] · [[Hoover Institution]] · [[Stanford University]]
 
-profile-status:: ready
-
 ---
 
 ## Who She Is
@@ -124,9 +122,6 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 - ProPublica: Condoleezza Rice on Lockheed Martin connections (Tier 2) (URL NEEDED — fabricated slug; no ProPublica article found on Rice/private equity/Lockheed connections)
 - [Council on Foreign Relations: Condoleezza Rice biography](https://www.cfr.org/experts/condoleezza-rice) (Tier 2)
 - [Hoover Institution: Condoleezza Rice - Senior Fellow](https://www.hoover.org/profiles/condoleezza-rice) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

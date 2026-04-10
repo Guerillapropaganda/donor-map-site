@@ -44,4 +44,3 @@ The alignment between libertarian constitutionalism and tech industry preference
 - [FEC Candidate: Mike Lee campaign finance summary](https://www.fec.gov/data/candidate/S0UT00165/) (Tier 1)
 - [Ballotpedia: Mike Lee](https://ballotpedia.org/Mike_Lee_(Utah)) (Tier 3)
 
-content-readiness:: ready

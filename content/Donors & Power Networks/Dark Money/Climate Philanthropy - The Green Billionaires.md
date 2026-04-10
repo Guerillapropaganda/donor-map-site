@@ -43,4 +43,3 @@ Climate philanthropy contains a class contradiction: billionaires whose fortunes
 - [IRS: Climate philanthropy 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Climate%20Philanthropy%20-%20The%20Green%20Billionaires&city=&state=All+States&country=US) (Tier 1)
 - [Ballotpedia: Climate philanthropy](https://ballotpedia.org/Climate_Philanthropy_-_The_Green_Billionaires) (Tier 3)
 
-content-readiness:: ready

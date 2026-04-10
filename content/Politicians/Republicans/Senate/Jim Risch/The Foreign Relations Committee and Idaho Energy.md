@@ -41,4 +41,3 @@ Risch sits on Energy and Small Business committees alongside Foreign Relations â
 - [INL: Idaho National Laboratory overview](https://inl.gov/about-inl/) (Tier 1)
 - [Ballotpedia: Jim Risch](https://ballotpedia.org/Jim_Risch) (Tier 3)
 
-content-readiness:: ready

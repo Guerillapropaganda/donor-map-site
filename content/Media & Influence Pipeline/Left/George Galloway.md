@@ -12,7 +12,6 @@ related: "[[Lee Camp]] · [[Chris Hedges]] · [[Owen Jones]] · [[Abby Martin]]"
 
 #media-pipeline #left #UK #RT-america #russian-state-media #iranian-state-media #anti-war #populist #independence-theater #dark-money #workers-party
 
-
 ---
 
 ### Who They Are
@@ -172,4 +171,3 @@ Galloway's consistent positions across all platforms and political periods:
 - [Byline Times: After Galloway's Rochdale Victory — What Does His Workers' Party Actually Stand For? (March 2024)](https://bylinetimes.com/2024/03/08/after-george-galloways-rochdale-victory-what-does-his-workers-party-actually-stand-for/) (Tier 2) (Chrome-verified 2026-03-27)
 - [South China Morning Post: George Galloway detained under UK terrorism act, questioned on China views (September 2025)](https://www.scmp.com/news/world/europe/article/3327172/ex-british-mp-george-galloway-held-9-hours-counterterror-police-uk-airport) (Tier 3) (Chrome-verified 2026-03-27)
 
-content-readiness:: ready

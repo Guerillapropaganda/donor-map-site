@@ -55,5 +55,4 @@ Dark money networks:
 
 ---
 
-content-readiness:: ready
 research-status:: active

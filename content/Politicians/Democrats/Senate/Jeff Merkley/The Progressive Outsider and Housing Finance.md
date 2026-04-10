@@ -42,4 +42,3 @@ Merkley's housing advocacy includes the most aggressive affordable housing propo
 - [Congress.gov: Financial Reform — Overview of the Volcker Rule (CRS Report)](https://www.congress.gov/crs-product/IF10923) (Tier 1)
 - [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3)
 
-content-readiness:: ready

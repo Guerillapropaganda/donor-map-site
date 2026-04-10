@@ -11,8 +11,6 @@ related: "[[The 323 Million Dollar Self-Funded Governor]] · [[_JB Pritzker Mast
 
 donors: [[_JB Pritzker Master Profile|JB Pritzker]]
 
-content-readiness:: ready
-
 ---
 
 ### Offshore Trusts, Toilet Schemes, and the Tax Avoidance Architecture

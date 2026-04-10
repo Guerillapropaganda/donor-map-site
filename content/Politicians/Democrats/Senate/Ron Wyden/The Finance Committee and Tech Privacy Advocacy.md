@@ -45,4 +45,3 @@ The structural limit: Wyden's tax reform proposals generate media attention and 
 - [Senate Finance Committee hearings](https://www.finance.senate.gov/hearings) (Tier 1)
 - [Ballotpedia: Ron Wyden](https://ballotpedia.org/Ron_Wyden) (Tier 3)
 
-content-readiness:: ready

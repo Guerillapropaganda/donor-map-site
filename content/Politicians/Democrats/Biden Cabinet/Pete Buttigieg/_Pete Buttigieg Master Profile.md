@@ -24,8 +24,6 @@ related: "[[_Gretchen Whitmer Master Profile]] · [[_Kamala Harris Master Profil
 
 donors: [[Finance and Tech Bundler Network]] · McKinsey Alumni Network · Wine Cave Donor Class
 
-profile-status:: ready
-
 ---
 ---
 
@@ -151,7 +149,6 @@ South Bend is Buttigieg's biography — "Mayor Pete" is the entire brand. But So
 - [ABC News: Buttigieg bundlers raised $550K for Warren's past campaigns](https://abcnews.go.com/Politics/buttigieg-bundlers-raised-550000-warrens-past-campaigns/story?id=68519640) (Tier 2)
 - [CNN: Pete Buttigieg starts to rethink role after East Palestine](https://www.cnn.com/2023/03/05/politics/pete-buttigieg-ohio-train-derailment/index.html) (Tier 2)
 - [Wikipedia: Pete Buttigieg](https://en.wikipedia.org/wiki/Pete_Buttigieg) (Tier 3)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -43,4 +43,3 @@ Arkansas's 1st District depends on federal agricultural subsidies: rice producti
 - [EWG: Farm subsidy database — Arkansas](https://farm.ewg.org/region.php?fips=05000) (Tier 1)
 - [Ballotpedia: Rick Crawford](https://ballotpedia.org/Rick_Crawford_(Arkansas)) (Tier 3)
 
-content-readiness:: ready

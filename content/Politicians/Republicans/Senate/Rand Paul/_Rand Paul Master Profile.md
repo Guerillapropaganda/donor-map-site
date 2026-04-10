@@ -32,8 +32,6 @@ related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]]
 
 donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]] · Libertarian Donor Network
 
-profile-status:: ready
-
 ---
 ---
 
@@ -161,7 +159,6 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 - [KFF Health News: Rand Paul opposed federal handouts while taking Medicare patients](https://kffhealthnews.org/morning-breakout/reform-politics-and-personalities/) (Tier 2)
 - [CNN Money: Rand Paul first presidential candidate to accept Bitcoin](https://money.cnn.com/2015/04/07/technology/rand-paul-bitcoin/index.html) (Tier 2)
 - [Wikipedia: Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) (Tier 3)
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

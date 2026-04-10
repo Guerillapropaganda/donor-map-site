@@ -13,8 +13,6 @@ related: "[[_John Thune Master Profile]] · [[_Mitch McConnell Master Profile]]"
 
 donors: [[PhRMA]] · [[NextEra Energy]] · (Goldman Sachs, Citigroup, Blackstone — finance sector)
 
-content-readiness:: ready
-
 ---
 
 ### The McConnell Succession and the Majority Leader Fundraising Machine

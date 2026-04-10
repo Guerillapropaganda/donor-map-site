@@ -11,7 +11,6 @@ related: "[[_Lobbying Firms Framework]] · [[_VAULT_INDEX]]"
 
 #lobbying #k-street #index
 
-
 ---
 
 ### Lobbying Firms & K Street — File Manifest
@@ -96,4 +95,3 @@ related: "[[_Lobbying Firms Framework]] · [[_VAULT_INDEX]]"
 - **Isolation status:** Clean — zero main vault files reference this section
 - **Publish status:** Excluded from Publication Manifest
 
-content-readiness:: ready

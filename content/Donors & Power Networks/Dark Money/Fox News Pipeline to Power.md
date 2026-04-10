@@ -38,4 +38,3 @@ The Fox pipeline is distinct from the traditional revolving door (government →
 - [FCC: Fox Television Stations, Inc. License Records](https://www.fcc.gov/document/fox-television-stations-inc-16) (Tier 1)
 - [Ballotpedia: Media-to-politics pipeline](https://ballotpedia.org/Fox_News_Pipeline_to_Power) (Tier 3)
 
-content-readiness:: ready

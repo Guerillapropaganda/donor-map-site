@@ -43,4 +43,3 @@ The structural irony: the petrochemical industry that funds Cassidy's campaigns 
 - [Senate Finance Committee: Healthcare hearings](https://www.finance.senate.gov/hearings) (Tier 1)
 - [Ballotpedia: Bill Cassidy](https://ballotpedia.org/Bill_Cassidy) (Tier 3)
 
-content-readiness:: ready

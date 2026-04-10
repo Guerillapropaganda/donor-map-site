@@ -48,8 +48,6 @@ related: "[[Pharmaceutical Industry Bloc]] · [[Tech IP and Patent Lobbying]] ·
 
 donors: [[Pharmaceutical Industry Bloc]], [[Tech IP and Patent Lobbying]], [[Koch Network - Charles Koch]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -198,7 +196,6 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 - [The Hill: GOP senator: 'Immoral' to kill border deal to help Trump](https://www.thehill.com/homenews/senate/4432079-thom-tillis-immoral-kill-border-deal-trump/) (Tier 2)
 - [Spectrum Local News: Why Tillis changed his position on immigration compromise](https://spectrumlocalnews.com/nc/charlotte/news/2024/02/08/why-tillis-changed-his-position-on-immigration-compromise) (Tier 2)
 - [WUNC News: Senate race in NC expected to be most expensive ever](https://www.wunc.org/term/news/2025-12-02/most-expensive-senate-race-ever) (Tier 2)
-content-readiness:: ready
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

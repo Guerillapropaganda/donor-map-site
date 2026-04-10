@@ -138,8 +138,6 @@ Domestic — campus free speech, antisemitism definition debates (opposes confla
 
 ---
 
-content-readiness:: ready
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

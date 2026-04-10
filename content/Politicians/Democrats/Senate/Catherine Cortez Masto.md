@@ -92,9 +92,6 @@ Cortez Masto represents the precise labor-containment function: she maintains la
 - ~~[FollowTheMoney.org: Catherine Cortez Masto Campaign Finance](https://www.followthemoney.org/tools/election-overview?eid=13010255)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CBS News: Who is Catherine Cortez Masto?](https://www.cbsnews.com/news/laphonza-butler-senate-california-gavin-newsom-dianne-feinstein-seat-rcna118052) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

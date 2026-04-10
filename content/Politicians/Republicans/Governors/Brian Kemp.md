@@ -85,8 +85,5 @@ Kemp's resistance to Trump was not democratic principle—it was institutional b
 - [American Prospect: Georgia's Latest Attack on the Right to Vote](https://prospect.org/2024/04/01/2024-04-01-georgia-vote-suppression-brian-kemp-democracy/) (Tier 2)
 - [ACLU: Kemp Used Absentee Ballot, Then Signed Voter Suppression Law](https://www.aclu.org/press-releases/aclu-georgia-kemp-used-absentee-ballot-and-drop-box-in-november-then-signed-voter) (Tier 2)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Voting Record
 

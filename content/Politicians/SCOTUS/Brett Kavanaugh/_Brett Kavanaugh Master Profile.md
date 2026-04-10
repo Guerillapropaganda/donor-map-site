@@ -25,8 +25,6 @@ related: "[[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]
 
 donors: [[Leonard Leo]], [[Fossil Fuel Bloc]], [[Judicial Crisis Network]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -118,7 +116,6 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 - [ProPublica: We Don't Talk About Leonard - The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 - [Brennan Center: Courting Disaster - The Trouble with Brett Kavanaugh's Views of Executive Power](https://www.brennancenter.org/our-work/analysis-opinion/courting-disaster-trouble-brett-kavanaughs-views-executive-power-age) (Tier 2)
 - [CBS News: Brett Kavanaugh Confirmed To Supreme Court With 50-48 Vote](https://www.cbsnews.com/news/brett-kavanaugh-confirmed-to-supreme-court-by-smallest-margin-in-modern-history/) (Tier 2)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

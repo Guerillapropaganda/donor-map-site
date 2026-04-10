@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #centrist #youtube #creator-economy #platform-dependency
 
-
 ---
 
 ### Who They Are
@@ -156,4 +155,3 @@ DeFranco's centrist frame trains audiences to distrust left-wing institutional c
 - [The Philip DeFranco Show — Wikipedia](https://en.wikipedia.org/wiki/The_Philip_DeFranco_Show) (Tier 3) (Chrome verified 2026-03-27)
 - [SourceFed - Wikipedia](https://en.wikipedia.org/wiki/SourceFed) (Tier 3) (Chrome verified 2026-03-27)
 
-content-readiness:: ready

@@ -34,8 +34,6 @@ related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC - American Is
 
 donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[PRIORITIES USA ACTION]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -197,8 +195,6 @@ John Fetterman's post-election transformation raises a fundamental question abou
 - [AIPAC Tracker on X: Fetterman AIPAC donations ($250,000)](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3)
 - [Pennsylvania Capital-Star: What we say when we talk about Fetterman's hoodie](https://penncapital-star.com/commentary/what-we-say-and-what-we-mean-when-we-talk-about-fettermans-hoodie-heather-macdonald-pennsylvania-capital-star/) *(source unavailable)* (Tier 2)
 - [Common Dreams: Pennsylvania's Fetterman Brings in Bernie-esque Grassroots Fundraising Haul](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2)
-content-readiness:: ready
-last-updated:: 2026-03-24
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

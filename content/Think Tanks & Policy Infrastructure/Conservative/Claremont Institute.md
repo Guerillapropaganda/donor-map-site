@@ -15,7 +15,6 @@ known-gaps:
 
 #think-tank #conservative #new-right #natural-law #straussian #Jan6 #personnel-pipeline #anti-progressive #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -229,4 +228,3 @@ The Claremont Institute is the most intellectually important conservative think 
 - [The Free Press: MAGA's Machiavelli — The Quiet Rise of Michael Anton](https://www.thefp.com/p/magas-machiavelli-the-quiet-rise-of-michael-anton) (Tier 2)
 - [POLITICO: Trump's Washington is packed with Claremont fellows. That's no accident. (Messerly & Nerozzi, Jan. 5, 2026)](https://www.politico.com/news/2026/01/05/how-the-claremont-institute-became-a-power-center-in-trumps-washington-00700147) (Tier 2)
 
-content-readiness:: ready

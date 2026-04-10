@@ -104,7 +104,6 @@ Freedom Partners was the Koch network's central bank — a mechanism for the bil
 ---
 
 research-status:: draft — Core financial profile and grant distribution documented from Perplexity research dossier. Gaps: individual donor identities (shielded by 501(c)(6) status), complete grant recipient list, detailed policy-outcome temporal mapping. FEC API data available for super PAC spending; IRS 990 data available via ProPublica for revenue figures.
-content-readiness:: draft
 
 ---
 

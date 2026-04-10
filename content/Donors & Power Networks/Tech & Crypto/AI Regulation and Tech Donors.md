@@ -43,4 +43,3 @@ The industry's core strategy: frame AI regulation as a binary choice between Ame
 - [Congress.gov: AI Research, Innovation, and Accountability Act of 2024](https://www.congress.gov/bill/118th-congress/senate-bill/3312) (Tier 1)
 - [Ballotpedia: AI regulation](https://ballotpedia.org/AI_Regulation_and_Tech_Donors) (Tier 3)
 
-content-readiness:: ready

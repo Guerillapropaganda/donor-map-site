@@ -112,4 +112,3 @@ The appointment represented a logical endpoint for the Stefanik trajectory: Harv
 - [TIME: How Elise Stefanik Went From Moderate to MAGA](https://time.com/6046674/elise-stefanik-liz-cheney-republican/) (Tier 2)
 - [Wikipedia: Elise Stefanik — career and political positions](https://en.wikipedia.org/wiki/Elise_Stefanik) (Tier 3)
 
-content-readiness:: ready

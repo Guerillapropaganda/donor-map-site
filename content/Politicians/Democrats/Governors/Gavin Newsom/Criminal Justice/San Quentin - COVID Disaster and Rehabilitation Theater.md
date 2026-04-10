@@ -110,4 +110,3 @@ The San Quentin rehabilitation transformation is explicitly a pilot. The rhetori
 - [CalMatters: San Quentin prison — Newsom plan calls for rehab focus](https://calmatters.org/justice/2023/03/san-quentin-prison-gavin-newsom/) (Tier 2)
 - [NY Times: Norway prison model comparison](https://www.nytimes.com/2023/03/17/us/san-quentin-prison-california-newsom.html) (Tier 3)
 
-content-readiness:: ready

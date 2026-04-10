@@ -82,8 +82,6 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 - [Energy and Policy Institute: Alabama Power paid millions to shadowy consulting groups involved in scandals](https://energyandpolicy.org/alabama-power-matrix-scandals/) (Tier 2)
 - [OpenSecrets: Drummond lobbying spending](https://www.opensecrets.org/orgs/drummond) (Tier 1)
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

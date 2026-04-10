@@ -144,9 +144,8 @@ Stabenow is the Farm Bill senator — the Democrat who controlled more agribusin
 office:: Senate
 state:: Michigan
 party:: Democrat
-profile-status:: ready
+
 research-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

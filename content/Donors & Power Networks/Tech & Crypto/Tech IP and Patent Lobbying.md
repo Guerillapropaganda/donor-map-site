@@ -30,4 +30,3 @@ The IP lobbying landscape splits the tech industry internally: established compa
 
 - [Ballotpedia: Patent reform legislation](https://ballotpedia.org/Tech_IP_and_Patent_Lobbying) (Tier 3)
 
-content-readiness:: ready

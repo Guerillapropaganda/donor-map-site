@@ -13,8 +13,6 @@ related: "[[_Josh Hawley Master Profile]] · [[_Donald Trump Master Profile]]"
 
 donors: (MAGA small-dollar network — replacing corporate PACs)
 
-content-readiness:: ready
-
 ---
 
 ### January 6 Fist Pump and the Donor Paradox

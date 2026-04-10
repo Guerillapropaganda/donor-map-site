@@ -20,8 +20,6 @@ related: "[[The Palantir State - Surveillance as Policy]] · [[Section 702 - The
 
 donors: []
 
-content-readiness:: ready
-
 ---
 
 ### Signalgate. The Yemen Strike Chat and the Security Theater

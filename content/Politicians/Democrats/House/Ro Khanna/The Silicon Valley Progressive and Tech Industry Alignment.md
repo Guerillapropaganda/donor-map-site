@@ -64,4 +64,3 @@ The strategy: Khanna's Silicon Valley fundraising base gives him access to the D
 - [Congress.gov: Ro Khanna member page](https://www.congress.gov/member/ro-khanna/K000389) (Tier 1)
 - [Ballotpedia: Ro Khanna](https://ballotpedia.org/Ro_Khanna) (Tier 3)
 
-content-readiness:: ready

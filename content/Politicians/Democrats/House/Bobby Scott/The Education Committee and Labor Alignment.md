@@ -40,4 +40,3 @@ Scott's signature legislative effort — the Raise the Wage Act, proposing a $15
 - [FEC Candidate: Bobby Scott campaign finance summary](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
 - [Ballotpedia: Bobby Scott](https://ballotpedia.org/Bobby_Scott) (Tier 3)
 
-content-readiness:: ready

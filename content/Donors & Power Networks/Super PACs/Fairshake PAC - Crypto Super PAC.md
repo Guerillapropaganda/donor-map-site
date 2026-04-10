@@ -22,4 +22,3 @@ Located at: `topics/Donors & Power Networks/Tech & Crypto/Fairshake PAC.md`
 
 All content from this file has been merged into the canonical node. Redirected 2026-04-01.
 
-content-readiness:: raw

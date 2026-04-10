@@ -9,8 +9,6 @@ related: "[[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] ·
 ---
 #donald-trump #donors #dark-money #mega-donors #adelson #musk #thiel #leo #koch #defense #pharma #fossil-fuels #crypto #follow-the-money #class-analysis
 
-content-readiness:: ready
-
 ---
 
 ### Trump Donor Network. The Full Map
@@ -212,7 +210,5 @@ Every sector follows the same structure. Donors fund the campaign. The campaign 
 The dark money layer (Leo, JCN, Donors Trust, Marble Freedom Trust) makes much of this spending invisible. The policy returns are public. The donations are not. The system is designed so that the returns are visible and the investments are hidden. That asymmetry is not a bug. It is the product.
 
 ---
-
-content-readiness:: ready
 
 research-status:: Major donor sectors mapped with documented spending and policy returns. Individual FEC filings need deeper per donor documentation. Dark money totals estimated from ProPublica, CREW, and OpenSecrets reporting. Defense contractor spending from OpenSecrets. Pharma spending from OpenSecrets and lobbying disclosures. Some amounts are cycle level estimates pending itemized verification.

@@ -34,8 +34,6 @@ donors: "[[Fraternal Order of Police]]"
 
 donors:
 
-profile-status:: ready
-
 ---
 ---
 
@@ -162,8 +160,6 @@ Then he left for the private sector, where the real money is.
 - [Ballotpedia: Mark Green](https://ballotpedia.org/Mark_Green_(Tennessee)) (Tier 3)
 - [Wikipedia: Mark Green (Tennessee politician)](https://en.wikipedia.org/wiki/Mark_Green_%28Tennessee_politician%29) (Tier 3)
 - [TriStar Daily: Former Tennessee Congressman Green Launches New Company](https://tristardaily.com/former-tennessee-congressman-mark-green-launches-new-company/) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

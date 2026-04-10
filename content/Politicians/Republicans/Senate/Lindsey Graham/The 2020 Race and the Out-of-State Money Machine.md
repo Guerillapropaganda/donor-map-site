@@ -15,8 +15,6 @@ related: "[[_Lindsey Graham Master Profile]] · [[The McConnell Dark Money Empir
 
 donors: [[Senate Leadership Fund]] · (One Nation — dark money)
 
-content-readiness:: ready
-
 ---
 
 ### The 2020 Race and the Out-of-State Money Machine

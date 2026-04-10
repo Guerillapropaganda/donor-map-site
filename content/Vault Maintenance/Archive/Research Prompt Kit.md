@@ -222,5 +222,3 @@ Cite every source as [Source Name: Description](URL).
 - **Don't trust the URLs blindly.** Research tools occasionally generate incorrect URLs or cite pages that have moved. Every URL still needs Chrome verification in the session before it goes in the vault.
 - **Batch your source hunting.** Collect 5-10 `(URL NEEDED)` tags and run them in one batch query. More efficient than one at a time.
 - **Time-bound your news queries.** "Past 24 hours" or "past week" keeps results current. Unbounded news queries return stale results.
-
-content-readiness:: ready

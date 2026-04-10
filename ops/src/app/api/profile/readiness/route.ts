@@ -1,6 +1,24 @@
 import { NextResponse } from "next/server"
 import { readFile, writeAndPush } from "@/lib/local-write"
 
+/**
+ * Readiness update API — ops/src/app/api/profile/readiness/route.ts
+ *
+ * RULES:
+ * 1. FRONTMATTER-ONLY. This endpoint updates `content-readiness` in the
+ *    YAML frontmatter via regex on `^content-readiness:\s*.+$`. NEVER add
+ *    a codepath that writes `content-readiness::` inline in the body — that
+ *    is Obsidian Dataview legacy syntax and is banned per Vault Rules.
+ *    The 2026-04-10 cleanup sweep removed 562 files that had the legacy
+ *    pattern; don't reintroduce it.
+ * 2. `verified` is David-only. Research Claude flags
+ *    `editorial-result: verified-candidate`; only David's sign-off promotes
+ *    to `content-readiness: verified`. Do not wire auto-promote logic here
+ *    or anywhere upstream.
+ * 3. This endpoint commits + pushes via `writeAndPush`. Any failure leaves
+ *    local state but not upstream — callers should surface the error.
+ */
+
 const VALID_TIERS = ["raw", "draft", "ready", "verified"]
 const TIER_LABELS: Record<string, string> = {
   raw: "D-F",

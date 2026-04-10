@@ -23,4 +23,3 @@ Located at: `topics/Donors & Power Networks/Mega-Donors/David Sacks.md`
 
 All content from this file has been merged into the canonical donor node. Redirected 2026-04-01.
 
-content-readiness:: raw

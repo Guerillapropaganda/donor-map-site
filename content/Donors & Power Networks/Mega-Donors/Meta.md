@@ -29,7 +29,5 @@ This file existed as a duplicate in Mega-Donors. Meta is a corporation, not an i
 
 For Mark Zuckerberg's individual donor profile, see: [[Mark Zuckerberg]]
 
-content-readiness:: raw
-
 ### Vehicle Safety (NHTSA)
 

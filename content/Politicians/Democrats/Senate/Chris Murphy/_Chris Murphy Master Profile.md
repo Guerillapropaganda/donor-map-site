@@ -176,9 +176,6 @@ However, the foreign policy portfolio receives far less attention than gun contr
 - [Wikipedia: Chris Murphy gun control filibuster](https://en.wikipedia.org/wiki/Chris_Murphy_gun_control_filibuster) (Tier 3)
 - [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Legislative Activity (Congress.gov)
 
 ### Campaign Finance (FEC)

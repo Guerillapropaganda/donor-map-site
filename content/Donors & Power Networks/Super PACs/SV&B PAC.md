@@ -50,4 +50,3 @@ SV&B PAC exemplifies how emerging industries can prevent taxation through concen
 - [ProPublica: Sports betting industry lobbying](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2)
 - [CalMatters: California Prop 27 — Online Sports Betting ballot measure](https://calmatters.org/california-voter-guide-2022/propositions/prop-27-sports-betting-online/) (Tier 2)
 
-`content-readiness:: ready

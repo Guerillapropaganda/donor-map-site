@@ -13,8 +13,6 @@ related: "[[_Rick Scott Master Profile]] · [[_Mitch McConnell Master Profile]] 
 
 donors: [[Senate Leadership Fund]] · NRSC - National Republican Senatorial Committee
 
-content-readiness:: ready
-
 ---
 
 ### NRSC Chair and the McConnell Spending War

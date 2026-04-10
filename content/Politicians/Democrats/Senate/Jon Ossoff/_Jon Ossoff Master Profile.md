@@ -33,8 +33,6 @@ related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile
 
 donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Hollywood Donors]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -269,7 +267,6 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 - [CBS Atlanta: Jon Ossoff enters 2026 race with $25 million on hand](https://www.cbsnews.com/atlanta/news/jon-ossoff-enters-2026-race-with-25-million-on-hand-as-georgia-senate-battle-heats-up/) (Tier 2)
 - [The Hill: Ossoff starts 2026 midterm reelection effort with $25M in bank](https://thehill.com/homenews/campaign/5690552-jon-ossoff-war-chest-senate-race-2026/) (Tier 2)
 - [Newsweek: Jon Ossoff's Chances of Winning as His Fundraising Outpaces Republicans](https://www.newsweek.com/jon-ossoff-chances-winning-fundraising-outpaces-republicans-2100816) (Tier 2)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -151,4 +151,3 @@ Ranked by analytical impact and reference volume.
 
 ---
 
-`content-readiness:: raw`

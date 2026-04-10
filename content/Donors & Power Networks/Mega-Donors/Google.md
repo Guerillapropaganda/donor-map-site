@@ -25,7 +25,5 @@ Located at: `topics/Donors & Power Networks/Tech & Crypto/Google - Alphabet.md`
 
 This file existed as a duplicate in Mega-Donors. Google/Alphabet is a corporation, not an individual mega-donor, and belongs in Tech & Crypto. Redirected 2026-04-01.
 
-content-readiness:: raw
-
 ### DOJ Press Releases
 

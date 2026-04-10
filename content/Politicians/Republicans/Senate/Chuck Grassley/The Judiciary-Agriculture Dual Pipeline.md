@@ -49,4 +49,3 @@ Grassley chaired the Judiciary Committee during the Merrick Garland blockade (20
 - [Washington Post: Republicans refuse to budge following Garland nomination to Supreme Court](https://www.washingtonpost.com/news/powerpost/wp/2016/03/16/republicans-refuse-to-budge-following-garland-nomination-to-supreme-court/) (Tier 2)
 - [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3)
 
-content-readiness:: ready

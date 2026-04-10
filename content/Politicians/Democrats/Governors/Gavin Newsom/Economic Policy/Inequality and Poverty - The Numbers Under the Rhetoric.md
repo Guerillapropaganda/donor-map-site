@@ -88,4 +88,3 @@ A state can be both the world's fifth-largest economy and a place where millions
 - [National Low Income Housing Coalition: Out of Reach report (minimum wage vs. rent)](https://nlihc.org/oor) (Tier 2)
 - [CalMatters: California poverty analysis](https://calmatters.org/category/economy/) (Tier 2)
 
-content-readiness:: ready

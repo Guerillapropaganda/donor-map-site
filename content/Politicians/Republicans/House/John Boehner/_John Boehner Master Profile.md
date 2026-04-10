@@ -32,8 +32,6 @@ related: "[[JPMorgan Chase]] · [[Koch network]] · [[Koch Network - Charles Koc
 
 donors: [[Tobacco Industry/Reynolds American]] · [[Altria - Philip Morris]] · [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Real Estate/Commercial Property]]
 
-profile-status:: ready
-
 ---
 
 ## Who She Is
@@ -148,9 +146,6 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 - [Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5/) (Tier 2)
 - [Congress.gov: John Boehner voting record](https://www.congress.gov/member/john-boehner/B000589) (Tier 1)
 - [Wikipedia: John Boehner - tobacco industry and post-House career](https://en.wikipedia.org/wiki/John_Boehner) (Tier 3)
-
-profile-status:: ready
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -118,9 +118,6 @@ The class analysis: when a wealthy senator becomes incapacitated, do the institu
 - [The Real Deal: Feinstein's Pacific Heights Mansion Sales](https://therealdeal.com/san-francisco/2025/07/03/dianne-feinsteins-pacific-heights-mansion-sells/) (Tier 3)
 - [EPIC v. CIA: CIA Spying on Congress](https://epic.org/documents/epic-v-cia-cia-spying-on-congress/) (Tier 1)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Legislative Activity (Congress.gov)
 
 ### Congressional Stock Trades (STOCK Act)

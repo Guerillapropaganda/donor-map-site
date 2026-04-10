@@ -13,8 +13,6 @@ related: "[[_JB Pritzker Master Profile]]"
 
 donors: [[SEIU - Service Employees International Union|SEIU]], UNITE HERE - Hotel and Service Workers
 
-content-readiness:: ready
-
 ---
 
 ### The Hyatt Fortune and the Labor Contradiction

@@ -243,4 +243,3 @@ The $3.1B figure and 55-company admin-ties breakdown add quantitative precision 
 
 ### Total: 8 items (3 Gold new, 2 Gold updates, 2 Silver, 1 Crossover flag)
 
-content-readiness:: draft

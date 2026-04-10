@@ -13,8 +13,6 @@ related: "[[_Lee Zeldin Master Profile]] · [[Leonard Leo]] · [[Koch Network - 
 
 donors: [[Leonard Leo]], [[Koch Network - Charles Koch]], [[Chevron]]
 
-content-readiness:: ready
-
 ---
 
 ### The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map

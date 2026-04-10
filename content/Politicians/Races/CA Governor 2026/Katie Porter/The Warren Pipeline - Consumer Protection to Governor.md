@@ -15,8 +15,6 @@ related: "[[_Katie Porter Master Profile]] · [[_Elizabeth Warren Master Profile
 
 donors: (ActBlue small-dollar network)
 
-content-readiness:: ready
-
 ---
 
 ### The Warren Pipeline — Consumer Protection to Governor

@@ -56,4 +56,3 @@ Politicians/
 - Every politician must be linked to at least one donor node
 - Placeholders use `content-readiness: raw` and include build-out priorities
 
-content-readiness:: ready

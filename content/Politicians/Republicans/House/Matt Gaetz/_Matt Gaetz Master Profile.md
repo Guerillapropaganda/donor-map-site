@@ -26,8 +26,6 @@ related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Ca
 
 donors: Don Gaetz Family Fortune · [[MAGA Small Dollar Base]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -163,7 +161,6 @@ The DOJ investigated beginning in 2021 and declined to bring charges. Gaetz resi
 - [NBC News: Gaetz withdraws bid for AG amid sexual misconduct allegations](https://www.nbcnews.com/politics/justice-department/matt-gaetz-withdraws-bid-attorney-general-sexual-misconduct-allegation-rcna181206) (Tier 2)
 - [IBTimes: Matt Gaetz net worth and family wealth](https://www.ibtimes.com/matt-gaetz-net-worth-lawmakers-parents-among-americas-ultra-rich-1-3255577) (Tier 2)
 - [Government Executive: What we know about investigations into Matt Gaetz](https://www.govexec.com/management/2024/11/heres-what-we-know-about-investigations-matt-gaetz/401143/) (Tier 2)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

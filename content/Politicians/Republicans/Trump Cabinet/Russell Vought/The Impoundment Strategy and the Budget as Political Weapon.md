@@ -13,8 +13,6 @@ related: "[[_Russell Vought Master Profile]]"
 
 donors: (Financial industry, no specific nodes)
 
-content-readiness:: ready
-
 ---
 
 ### The Impoundment Strategy and the Budget as Political Weapon

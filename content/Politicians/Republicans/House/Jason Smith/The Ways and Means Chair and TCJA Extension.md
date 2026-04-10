@@ -45,4 +45,3 @@ Smith's Ways and Means Committee is the vehicle for this extension. The committe
 - [FEC Candidate: Jason Smith top industries](https://www.fec.gov/data/candidate/P20005559/) (Tier 1)
 - [Ballotpedia: Jason Smith](https://ballotpedia.org/Jason_Smith_(Missouri)) (Tier 3)
 
-content-readiness:: ready

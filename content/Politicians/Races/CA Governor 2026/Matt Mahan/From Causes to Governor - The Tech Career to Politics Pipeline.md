@@ -13,8 +13,6 @@ related: "[[_Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Don
 
 donors: (Silicon Valley tech billionaires, venture capital networks)
 
-content-readiness:: ready
-
 ---
 
 ### From Causes to Governor — The Tech Career to Politics Pipeline

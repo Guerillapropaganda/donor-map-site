@@ -35,8 +35,6 @@ related: "[[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]] · [[Et
 
 donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol Industry]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -198,7 +196,6 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 - [NBC News: Republican Sen. Joni Ernst won't seek re-election in Iowa in 2026](https://www.nbcnews.com/politics/2026-election/republican-sen-joni-ernst-wont-seek-re-election-iowa-2026-rcna228053) (Tier 2)
 - [CBS News: Sen. Ernst officially announces she won't seek reelection in 2026, opening Iowa Senate seat](https://www.cbsnews.com/news/joni-ernst-retiring-2026-iowa-senate/) (Tier 2)
 - [Wikipedia: 2026 United States Senate election in Iowa](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Iowa) (Tier 3)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -125,4 +125,3 @@ The SB 1137 setback law is real, but it is a single regulation in a complex perm
 - [CalGEM: drilling permit database](https://www.conservation.ca.gov/calgem) (Tier 1)
 - [CalMatters: Oil industry withdraws controversial oil well ballot measure](https://calmatters.org/category/environment/2024/06/oil-ballot-california/) (Tier 2)
 
-content-readiness:: ready

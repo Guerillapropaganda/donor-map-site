@@ -81,4 +81,3 @@ Pelosi's relationship with the progressive caucus follows the vault's containmen
 - [Washington Post: Fact-checking Nancy Pelosi's fundraising numbers](https://www.washingtonpost.com/news/fact-checker/wp/2018/02/14/fact-checking-nancy-pelosis-fundraising-numbers/) (Tier 2)
 - [Newsweek: AOC Loses Battle With Pelosi Over Oversight Committee Post](https://www.newsweek.com/alexandria-ocasio-cortez-loses-oversight-gerry-connolly-2002263) (Tier 2)
 
-content-readiness:: ready

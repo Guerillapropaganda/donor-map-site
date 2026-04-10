@@ -27,8 +27,6 @@ Located at: `topics/Donors & Power Networks/Tech & Crypto/Meta - Facebook.md`
 
 This 39-line thin stub was superseded by the full Meta - Facebook corporation node. Redirected 2026-04-01.
 
-content-readiness:: raw
-
 ### Vehicle Safety (NHTSA)
 
 ### DOJ Press Releases

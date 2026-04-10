@@ -49,4 +49,3 @@ Mass incarceration is a $182 billion annual industry. The beneficiaries include:
 - [Vera Institute: Incarceration cost analysis](https://www.vera.org/publications/price-of-prisons-2015-state-spending-trends) (Tier 2)
 - [Ballotpedia: Mass incarceration](https://ballotpedia.org/Mass_incarceration_in_the_United_States) (Tier 3)
 
-content-readiness:: ready

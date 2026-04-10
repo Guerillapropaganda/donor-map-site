@@ -11,8 +11,6 @@ related: "[[Susan Collins Master Profile]] · [[The Kavanaugh Vote and the Donor
 
 donors: [[Leonard Leo]] · [[Koch Network - Charles Koch]]
 
-content-readiness:: ready
-
 ---
 
 ### The McConnell-Leo Judicial Pipeline

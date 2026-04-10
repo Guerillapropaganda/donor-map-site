@@ -31,8 +31,6 @@ related: "[[_Donald Trump Master Profile|Trump]]"
 
 donors:
 
-profile-status:: ready
-
 ---
 ---
 
@@ -161,8 +159,6 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 - [CBT News: Texas congressman promotes LIFO accounting method benefiting his car dealerships](https://www.cbtnews.com/roger-williams-last-in-first-out/) (Tier 2)
 - [Ballotpedia: Roger Williams](https://ballotpedia.org/Roger_Williams_(Texas)) (Tier 3)
 - [Wikipedia: Roger Williams (Texas politician)](https://en.wikipedia.org/wiki/Roger_Williams_%28Texas_politician%29) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

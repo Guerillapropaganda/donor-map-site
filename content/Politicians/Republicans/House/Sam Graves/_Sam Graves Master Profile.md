@@ -29,8 +29,6 @@ related: "[[_Donald Trump Master Profile|Trump]]"
 
 donors:
 
-profile-status:: ready
-
 ---
 ---
 
@@ -152,8 +150,6 @@ The T&I Committee jurisdiction-to-donor overlap is near-total. Aviation donors â
 - [NAM: Q&A Rep. Graves on Infrastructure and Transportation](https://nam.org/qa-rep-graves-on-infrastructure-and-transportation-35904/) (Tier 2)
 - [Ballotpedia: Sam Graves](https://ballotpedia.org/Sam_Graves) (Tier 3)
 - [Wikipedia: Sam Graves](https://en.wikipedia.org/wiki/Sam_Graves) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

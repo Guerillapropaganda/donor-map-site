@@ -11,8 +11,6 @@ related: "[[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Dono
 
 donors: [[Michael Bloomberg]], [[George Soros]], [[AIPAC - American Israel Public Affairs Committee]]
 
-content-readiness:: ready
-
 ---
 
 ### The Corporate-Democratic Donor Coalition and [[AIPAC - American Israel Public Affairs Committee|AIPAC]] Connection

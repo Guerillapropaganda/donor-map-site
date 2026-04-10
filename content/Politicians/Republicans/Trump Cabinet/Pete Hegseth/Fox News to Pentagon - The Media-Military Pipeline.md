@@ -13,8 +13,6 @@ related: "[[_Pete Hegseth Master Profile]] · [[Rupert Murdoch]]"
 
 donors: [[Rupert Murdoch]] [[Koch Network - Charles Koch]]
 
-content-readiness:: ready
-
 ---
 
 ### Fox News to Pentagon — The Media-Military Pipeline

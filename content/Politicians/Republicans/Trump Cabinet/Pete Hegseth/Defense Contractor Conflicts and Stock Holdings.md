@@ -13,8 +13,6 @@ related: "[[_Pete Hegseth Master Profile]]"
 
 donors: [[Lockheed Martin]] [[Northrop Grumman]] [[Honeywell]]
 
-content-readiness:: ready
-
 ---
 
 ### Defense Contractor Conflicts and Stock Holdings

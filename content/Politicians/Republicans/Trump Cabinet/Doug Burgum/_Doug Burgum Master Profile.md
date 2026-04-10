@@ -26,8 +26,6 @@ related: "[[_Donald Trump Master Profile]] · [[_Chris Wright Master Profile]] �
 
 donors: [[Koch Network - Charles Koch]] · [[Harold Hamm]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -118,7 +116,6 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 - [Fortune: Burgum Interior confirmation](https://fortune.com/2025/01/31/senate-confirms-doug-burgum-as-trumps-interior-secretary-tasked-with-boosting-fossil-fuel-production-to-achieve-energy-dominance/) (Tier 2)
 - [CNN: $20 gift card campaign strategy](https://www.cnn.com/2023/07/11/politics/2024-fundraising-strategy-burgum/index.html) (Tier 2)
 - [FEC: Doug Burgum contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=burgum,+doug) (Tier 1)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

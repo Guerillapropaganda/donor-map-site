@@ -58,8 +58,6 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 
 ---
 
-`content-readiness:: ready
-
 ### Federal Register Activity
 <!-- auto:federal-register start -->
 | Metric | Value |

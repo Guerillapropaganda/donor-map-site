@@ -78,8 +78,6 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 
 ---
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

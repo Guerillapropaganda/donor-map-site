@@ -42,4 +42,3 @@ The structural irony: Grassley publicly criticizes agricultural consolidation (o
 - [EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Oversight%20Legacy%20and%20Agricultural%20Protection) (Tier 2)
 - [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3)
 
-content-readiness:: ready

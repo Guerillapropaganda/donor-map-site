@@ -42,4 +42,3 @@ Walberg frames workforce policy through the "skills gap" narrative: the problem 
 - [FEC Candidate: Tim Walberg campaign finance summary](https://www.fec.gov/data/candidate/H4MI07103/) (Tier 1)
 - [Ballotpedia: Tim Walberg](https://ballotpedia.org/Tim_Walberg) (Tier 3)
 
-content-readiness:: ready

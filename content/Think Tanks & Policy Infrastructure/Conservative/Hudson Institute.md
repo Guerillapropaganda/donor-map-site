@@ -15,7 +15,6 @@ known-gaps:
 
 #think-tank #conservative #neoconservative #foreign-policy #defense #china-hawk #taiwan #national-security #class-analysis
 
-
 ---
 
 ### Who They Are
@@ -212,4 +211,3 @@ The Hudson Institute reveals the defense-intellectual complex in its purest form
 - [Newsweek: Nikki Haley Responds After Donald Trump Rules Out Administration Role (Pompeo also excluded)](https://www.newsweek.com/nikki-haley-donald-trump-administration-role-mike-pompeo-1983398) (Tier 2)
 - [Axios: Mike Pompeo to join Columbia University as fellow — departs Hudson Institute (February 2025)](https://www.axios.com/2025/02/24/mike-pompeo-columbia-university-fellow) (Tier 2)
 
-content-readiness:: ready

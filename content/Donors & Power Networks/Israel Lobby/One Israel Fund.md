@@ -48,8 +48,6 @@ One Israel Fund exemplifies how U.S. tax law is weaponized to support foreign oc
 
 ---
 
-`content-readiness:: ready
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

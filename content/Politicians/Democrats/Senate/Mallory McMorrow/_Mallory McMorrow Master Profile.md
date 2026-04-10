@@ -28,8 +28,6 @@ related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate
 
 donors: [[National Progressive Donor Networks]] · Warren Endorsement Effect · Tech Sector Donors · Viral-Moment Fundraising Model
 
-profile-status:: ready
-
 ---
 ---
 
@@ -238,8 +236,6 @@ The Michigan primary cannot tell us which path McMorrow will follow. But it can 
 - [Mallory McMorrow tops fundraising in U.S. Senate race](https://www.crainsdetroit.com/politics-policy/mallory-mcmorrow-tops-fundraising-us-senate-race/) (Tier 2)
 - [Rogers, Stevens lead Michigan U.S. Senate fundraising with wealthy and corporate donors](https://michiganadvance.com/2026/01/05/rogers-stevens-lead-michigan-u-s-senate-fundraising-with-wealthy-and-corporate-donors/) (Tier 2)
 - [Mallory McMorrow - Wikipedia](https://en.wikipedia.org/wiki/Mallory_McMorrow) (Tier 3)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

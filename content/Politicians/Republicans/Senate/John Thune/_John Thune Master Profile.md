@@ -29,8 +29,6 @@ related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]
 
 donors: [[NextEra Energy]], [[Goldman Sachs]], [[Insurance Industry]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -122,7 +120,6 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 - [NBC News: Senate Majority Leader election](https://www.nbcnews.com/politics/congress/senate-republicans-choose-new-leader-mitch-mcconnell-steps-rcna179670) (Tier 2)
 - [NPR: Thune-Trump relationship evolution](https://www.npr.org/2024/11/14/nx-s1-5186649/newly-elected-senate-majority-leader-john-thune-has-his-work-cut-out-for-him) (Tier 2)
 - [The Hill: Tariff resolution and Thune blocking](https://thehill.com/homenews/senate/5225742-thune-republicans-trump-tariffs/) (Tier 2)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

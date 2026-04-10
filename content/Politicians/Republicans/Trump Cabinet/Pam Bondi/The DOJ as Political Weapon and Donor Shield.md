@@ -13,8 +13,6 @@ related: "[[_Pam Bondi Master Profile]] · [[_Donald Trump Master Profile]]"
 
 donors: [[GEO Group]] · [[Ballard Partners]]
 
-content-readiness:: ready
-
 ---
 
 ### The DOJ as Political Weapon and Donor Shield

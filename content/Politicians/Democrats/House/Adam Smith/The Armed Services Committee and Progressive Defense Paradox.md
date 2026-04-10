@@ -47,4 +47,3 @@ Boeing's commercial and military operations in Washington State make the company
 - [House Armed Services Committee](https://armedservices.house.gov/) (Tier 1)
 - [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington)) (Tier 3)
 
-content-readiness:: ready

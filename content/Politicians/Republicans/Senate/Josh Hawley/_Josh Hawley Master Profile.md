@@ -30,8 +30,6 @@ related: "[[_Donald Trump Master Profile]] · [[The McConnell Dark Money Empire 
 
 donors: [[Koch Network - Charles Koch]], [[Leonard Leo]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -124,7 +122,6 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 - [STLPR: 2018 outside money analysis](https://www.stlpr.org/2019-04-17/dark-money-groups-spent-millions-to-influence-missouri-voters-report-finds) (Tier 2)
 - [Missouri Independent: out-of-state donor analysis](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2)
 - [The Hill/CNN: corporate PAC pledge analysis](https://thehill.com/homenews/senate/4288563-hawley-mcconnell-battle-gut-citizens-united-ruling/) (Tier 2)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

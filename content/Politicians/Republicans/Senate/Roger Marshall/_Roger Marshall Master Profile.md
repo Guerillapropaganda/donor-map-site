@@ -137,9 +137,6 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 
 ---
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

@@ -264,7 +264,6 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 
 ---
 research-status:: ready — Full citation pass complete. Anti-donor model ($487M from small donors), 2020 consolidation analysis, AIPAC progressive purge, Medicare for All policy break, ActBlue dependency, analytical patterns (4 patterns). All ### headers, source format standardized, Tier 1-2 sources verified. Promoted Session 38j.
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

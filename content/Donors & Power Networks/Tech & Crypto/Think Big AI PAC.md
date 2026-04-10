@@ -44,4 +44,3 @@ Innovation-friendly AI regulation (industry self-regulation rather than governme
 
 - [Ballotpedia: AI policy](https://ballotpedia.org/Think_Big_AI_PAC) (Tier 3)
 
-content-readiness:: ready

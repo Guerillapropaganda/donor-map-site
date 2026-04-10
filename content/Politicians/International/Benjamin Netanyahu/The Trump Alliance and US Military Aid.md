@@ -102,5 +102,3 @@ Netanyahu's diplomatic expansion to Saudi Arabia, UAE, and Bahrain (Abraham Acco
 - [ProPublica — Biden weapons restrictions and Israel aid](https://www.propublica.org/article/biden-blinken-state-department-israel-gaza-human-rights-horrors) (Tier 2)
 - [U.S. State Department — Foreign Military Sales to Israel](https://www.state.gov/defense-trade-controls/) (Tier 1)
 
-profile-status:: ready Master Profile sub-note
-content-readiness:: ready

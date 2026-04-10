@@ -15,8 +15,6 @@ related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] 
 ---
 #trump #newsom #both-sides #donor-class #gig-economy #pharma #israel #housing #immigration #dark-money #class-analysis #follow-the-money
 
-content-readiness:: ready
-
 ---
 
 ### Trump and Newsom. Same Money, Different Rhetoric

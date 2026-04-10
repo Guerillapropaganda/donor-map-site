@@ -221,9 +221,7 @@ The Villain Framing Miller frames immigrants and immigration advocates as the th
 
 ---
 
-profile-status:: ready
 research-status:: ready — Full citation pass complete. AFL dark money ($44.4M revenue, $27M Bradley Impact Fund), SPLC leaked emails, first-term policies (Muslim ban, family separation, public charge rule), second-term escalation (birthright citizenship EO, Alien Enemies Act, 3000 ICE daily quota, denaturalization), Heritage/Project 2025 network, class analysis. 19 sources Tier 1-3 with URLs. All ### headers. Promoted Session 38n.
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

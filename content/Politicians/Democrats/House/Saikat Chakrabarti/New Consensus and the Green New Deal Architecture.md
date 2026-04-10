@@ -125,8 +125,6 @@ Total assets as of FY2023: $145,593 — a 91% decline from FY2019 peak.
 
 research-status:: Primary sources verified via ProPublica 990 database, Politico reporting, and founder interviews. Missing: detailed donor identification (Schedule B protected), board minutes, and strategic planning documents.
 
-content-readiness:: Developed. Core facts established; gaps remain in identifying funding sources and internal decision-making architecture.
-
 ---
 
 ### Sources

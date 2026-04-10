@@ -87,5 +87,3 @@ Religious Zionism receives funding through American pro-settlement organizations
 - [Britannica: Bezalel Smotrich Biography](https://www.britannica.com/biography/Bezalel-Smotrich) (Tier 2)
 - [Foundation for Middle East Peace: Settlement & Annexation Report](https://fmep.org/blog/resourcetag/settler-organizations/) (Tier 1)
 
-profile-status:: ready
-content-readiness:: ready

@@ -49,4 +49,3 @@ The pattern is consistent: viral moment → media coverage → small-dollar fund
 - [Congress.gov: Katie Porter member page](https://www.congress.gov/member/katie-porter/P000618) (Tier 1)
 - [Ballotpedia: Katie Porter](https://ballotpedia.org/Katie_Porter) (Tier 3)
 
-content-readiness:: ready

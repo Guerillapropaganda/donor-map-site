@@ -13,8 +13,6 @@ related: "[[_Pete Hegseth Master Profile]] · [[Koch Network - Charles Koch]]"
 
 donors: [[Koch Network - Charles Koch]]
 
-content-readiness:: ready
-
 ---
 
 ### The [[Koch Network - Charles Koch|Koch Network]] and Concerned Veterans for America

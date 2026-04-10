@@ -71,8 +71,6 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 ---
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

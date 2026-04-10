@@ -44,4 +44,3 @@ McHenry received substantial crypto industry contributions: Coinbase PAC and emp
 - [FEC Candidate: Patrick McHenry campaign finance summary](https://www.fec.gov/data/candidate/H4NC10047/) (Tier 1)
 - [Ballotpedia: Patrick McHenry](https://ballotpedia.org/Patrick_McHenry) (Tier 3)
 
-content-readiness:: ready

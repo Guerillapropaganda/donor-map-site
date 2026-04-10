@@ -63,4 +63,3 @@ The structural limit: small-dollar fundraising works for individual members in s
 - [Congress.gov: Medicare for All Act co-sponsors](https://www.congress.gov/bill/118th-congress/house-bill/3421/cosponsors) (Tier 1)
 - [Ballotpedia: Pramila Jayapal](https://ballotpedia.org/Pramila_Jayapal) (Tier 3)
 
-content-readiness:: ready

@@ -91,9 +91,6 @@ Hagerty's career path reveals the private equity class conversion mechanism: acc
 - [Tennessee Lookout: GOP Senate hopeful serves with donors on White House panel](https://tennesseelookout.com/2020/05/08/tenn-senate-campaign-lures-cash-from-gop-politicos-megadonors/) (Tier 2)
 - [Solana Compass: Senator Hagerty on Crypto Regulation](https://solanacompass.com/learn/Validated/the-2024-pro-crypto-election-w-senator-bill-hagerty-r-tn) (Tier 3)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |

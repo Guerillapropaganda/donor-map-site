@@ -13,8 +13,6 @@ related: "[[_Josh Hawley Master Profile]] · [[The McConnell Dark Money Empire -
 
 donors: [[Koch Network - Charles Koch]]
 
-content-readiness:: ready
-
 ---
 
 ### Dark Money and the 2018 Missouri Machine

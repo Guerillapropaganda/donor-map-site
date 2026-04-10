@@ -42,4 +42,3 @@ The Boeing 737 MAX crisis — two crashes killing 346 people (Lion Air, October 
 - [FEC Candidate: Rick Larsen campaign finance summary](https://www.fec.gov/data/candidate/H0WA02080/) (Tier 1)
 - [Ballotpedia: Rick Larsen](https://ballotpedia.org/Rick_Larsen) (Tier 3)
 
-content-readiness:: ready

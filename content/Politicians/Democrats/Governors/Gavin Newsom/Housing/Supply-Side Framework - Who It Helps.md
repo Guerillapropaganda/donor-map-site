@@ -123,4 +123,3 @@ The supply-side framework is itself a pilot program / delay mechanism. Instead o
 - [CalMatters: California housing — will zoning bill help ease the crisis?](https://calmatters.org/housing/2021/08/california-housing-crisis-zoning-bill/) (Tier 2)
 - [Terner Center for Housing Innovation (UC Berkeley): filtering theory and California application](https://ternercenter.berkeley.edu/) (Tier 2)
 
-content-readiness:: ready

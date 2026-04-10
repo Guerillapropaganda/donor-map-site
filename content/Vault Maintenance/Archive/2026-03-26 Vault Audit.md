@@ -191,4 +191,3 @@ This is the vault's outstanding verification debt. These tags must be resolved b
 | Wikilink integrity | ~98% | 1/50 broken in sample |
 | Source verification | 86.3% | 172 unverified tags across vault |
 
-content-readiness:: ready

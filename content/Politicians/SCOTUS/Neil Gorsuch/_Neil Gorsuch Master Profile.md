@@ -22,8 +22,6 @@ related: "[[Leonard Leo]] · [[_John Roberts Master Profile]] · [[_Clarence Tho
 
 donors: [[Leonard Leo]], [[Koch Network - Charles Koch]], [[Judicial Crisis Network]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -133,7 +131,6 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 - [Congress.gov: Nomination of Neil M. Gorsuch (Official Record)](https://www.congress.gov/nomination/115th-congress/55) (Tier 1)
 - [U.S. Senate: Roll Call Vote — Gorsuch Confirmation 54-45](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00111.htm) (Tier 1)
 - [WBUR/NPR: Contempt — How Reagan's EPA Head Became the First Cabinet-Level Official Cited for Contempt of Congress](https://www.wbur.org/hereandnow/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress) (Tier 2)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

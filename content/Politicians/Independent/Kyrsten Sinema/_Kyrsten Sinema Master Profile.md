@@ -29,8 +29,6 @@ related: "[[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · 
 
 donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Industry]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -154,7 +152,6 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 - [Coinbase: Welcomes Four New Political and Economic Leaders to Global Advisory Council](https://www.coinbase.com/blog/Coinbase-Welcomes-Four-New-Political-and-Economic-Leaders-to-the-Global-Advisory-Council) (Tier 2)
 - [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2)
 - [Truthout: Private equity gave Sinema $500K, she exempted it from corporate minimum tax](https://truthout.org/articles/private-equity-gave-sinema-500k-so-she-exempted-it-from-corporate-minimum-tax/) (Tier 2)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

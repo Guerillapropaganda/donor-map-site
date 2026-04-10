@@ -188,9 +188,7 @@ For the vault's class analysis: Kushner is the purest case of government-as-inve
 - [CBS News: Kushner and Saudi investment, MBS relationship](https://www.cbsnews.com/news/jared-kushner-post-white-house-business-moves-saudis-wealth-fund-mohammed-bin-salman-jamal-khashoggi/) (Tier 2)
 - [House Oversight Committee: Kushner foreign investment investigation](https://oversight.house.gov/news/press-releases/committees-announce-investigation-into-trump-administrations-financial-dealings-saudi-arabia-and-other-foreign-governments) (Tier 1)
 
-profile-status:: ready
 research-status:: ready — Full citation pass complete. $2B Saudi PIF, $157M management fees, $6.16B AUM (99% foreign), 666 Fifth Ave $1.2B bailout, Abraham Accords monetization pipeline, Iran war involvement (March 2026), $5B fundraising ask, donation-to-policy timeline (11 entries), March 2026 Wyden/Garcia investigation. 7 sources, Tier 1-2. All ### headers. Promoted Session 38j.
-content-readiness:: ready
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

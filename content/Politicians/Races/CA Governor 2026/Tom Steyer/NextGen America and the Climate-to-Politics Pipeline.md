@@ -13,8 +13,6 @@ related: "[[_Tom Steyer Master Profile]] · [[Farallon Capital and the Fossil Fu
 
 donors: [[Michael Bloomberg]]
 
-content-readiness:: ready
-
 ---
 
 ### NextGen America and the Climate-to-Politics Pipeline

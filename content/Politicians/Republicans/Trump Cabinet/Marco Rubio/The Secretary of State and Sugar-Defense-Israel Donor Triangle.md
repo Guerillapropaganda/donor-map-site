@@ -41,4 +41,3 @@ The Fanjul family — Alfonso and Jose "Pepe" Fanjul — controls Florida Crysta
 - [State.gov: Secretary of State biography](https://www.state.gov/biographies/secretary-of-state/) (Tier 1)
 - [Ballotpedia: Marco Rubio](https://ballotpedia.org/Marco_Rubio) (Tier 3)
 
-content-readiness:: ready

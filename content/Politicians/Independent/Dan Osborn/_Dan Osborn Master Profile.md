@@ -161,9 +161,8 @@ Osborn campaigns as an "independent" outsider fighting against corporate-backed 
 office:: Senate
 state:: Nebraska
 party:: Independent
-profile-status:: ready
+
 research-status:: active
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

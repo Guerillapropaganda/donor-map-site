@@ -176,9 +176,6 @@ Mace's flip on transgender rights is the clearest possible case study of donor-d
 
 ---
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

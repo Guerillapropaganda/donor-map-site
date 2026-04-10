@@ -25,8 +25,6 @@ related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate
 
 donors: [[National Progressive Donor Networks]] · Small-Dollar Fundraising Model · Rural Democrat Funding Question
 
-profile-status:: ready
-
 ---
 ---
 
@@ -261,8 +259,6 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 - [Zach Wahls – Iowa State Senator](https://repbio.org/zach-wahls/) (Tier 3)
 - [Ten years later, Zach Wahls reflects on 2011 viral speech about family](https://cbs2iowa.com/news/local/ten-years-later-zach-wahls-reflects-on-2011-viral-speech-about-family) (Tier 2)
 - ~~[FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

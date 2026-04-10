@@ -33,8 +33,6 @@ Anthem PAC's contribution pattern is aggressively bipartisan: the PAC funds comm
 - [OpenSecrets: Anthem/Elevance Health PAC](https://www.opensecrets.org/orgs/elevance-health/summary?id=D000029305) (Tier 1)
 - [Ballotpedia: Health insurance PACs](https://ballotpedia.org/Anthem_PAC) (Tier 3)
 
-content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

@@ -23,4 +23,3 @@ This is the canonical session log for the vault. It is split into two files for 
 - Only read [[_SESSION_HISTORY_ARCHIVE]] if you need historical context about early vault decisions
 - When the Session Timeline grows too large again (>2000 lines), archive older sessions to the archive file
 
-content-readiness:: raw

@@ -52,5 +52,4 @@ Donor networks:
 
 ---
 
-content-readiness:: ready
 research-status:: active

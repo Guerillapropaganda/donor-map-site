@@ -32,8 +32,6 @@ related: "[[_Donald Trump Master Profile]] · [[Kenneth Griffin]] · [[Koch Netw
 
 donors: [[Kenneth Griffin]] · [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Club for Growth]] · [[Lennar Corporation]] · [[NEVER BACK DOWN INC.]] · [[GOOD FIGHT]] · [[READY TO WIN]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -189,7 +187,6 @@ DeSantis's second gubernatorial term ends in January 2027. He is term-limited an
 - [CNBC: Disney and Florida settle lawsuits over DeSantis special district fight](https://www.cnbc.com/2024/03/27/disney-and-florida-settle-lawsuits-over-desantis-special-district-fight-dont-say-gay-bill.html) (Tier 2)
 - [NBC News: Club for Growth post-Trump positioning](https://www.nbcnews.com/meet-the-press/meetthepressblog/eyes-2024-club-post-trump-growth-rcna69468) (Tier 2)
 - [FactCheck.org: Never Back Down Inc.](https://www.factcheck.org/2024/01/never-back-down-inc/) (Tier 2)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -41,4 +41,3 @@ Meeks is one of the most pro-trade Democrats in the House — supporting TPP, US
 - [FEC Candidate: Gregory Meeks top industries](https://www.fec.gov/data/candidate/H8NY06048/) (Tier 1)
 - [Ballotpedia: Gregory Meeks](https://ballotpedia.org/Gregory_Meeks) (Tier 3)
 
-content-readiness:: ready

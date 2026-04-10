@@ -150,5 +150,3 @@ known-gaps:
 5. **PBM Reform — Who Voted No?** — 217-214 is razor-thin. Who were the holdouts, and what pharma money did they take?
 
 ---
-
-content-readiness:: draft

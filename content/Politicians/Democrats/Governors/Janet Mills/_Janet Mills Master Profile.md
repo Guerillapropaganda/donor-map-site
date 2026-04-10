@@ -136,9 +136,8 @@ Mills employs prosecutor-turned-executive pragmatism: she frames issues through 
 office:: Governor (2019-2025); Senate Candidate (2026)
 state:: ME
 party:: Democrat
-profile-status:: ready
+
 research-status:: active
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

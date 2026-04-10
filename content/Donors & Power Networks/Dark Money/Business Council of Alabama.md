@@ -71,8 +71,6 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 - [Alabama Reflector: How Alabama Power kept bills up and foes out (includes business council regulatory dynamics)](https://alabamareflector.com/2025/11/04/how-alabama-power-kept-bills-up-and-foes-out-to-become-one-of-the-nations-most-powerful-utitilies/) (Tier 2)
 - [OpenSecrets: Alabama business lobbying spending](https://www.opensecrets.org/organizations/alabama) (Tier 1)
 
-`content-readiness:: ready
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

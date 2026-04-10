@@ -49,4 +49,3 @@ Cantwell championed federal privacy legislation — the American Privacy Rights 
 - [FEC Candidate: Maria Cantwell top industries](https://www.fec.gov/data/candidate/H2WA01054/) (Tier 1)
 - [Ballotpedia: Maria Cantwell](https://ballotpedia.org/Maria_Cantwell) (Tier 3)
 
-content-readiness:: ready

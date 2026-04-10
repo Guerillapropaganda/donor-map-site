@@ -13,8 +13,6 @@ related: "[[_Scott Bessent Master Profile]] · [[Goldman Sachs]]"
 
 donors: [[George Soros]]
 
-content-readiness:: ready
-
 ---
 
 ### From Soros CIO to Trump Treasury — The Class Defection

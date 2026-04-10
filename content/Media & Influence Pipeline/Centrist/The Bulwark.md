@@ -12,7 +12,6 @@ related: "[[Charlie Sykes]] · [[Tim Miller]] · [[Sarah Longwell]]"
 
 #media-pipeline #centrist #media-network #never-trump #bulwark #omidyar
 
-
 ---
 
 ### Who They Are
@@ -71,4 +70,3 @@ Does The Bulwark function as a pressure valve — channeling conservative anti-T
 
 *No sources yet — raw placeholder.*
 
-content-readiness:: raw

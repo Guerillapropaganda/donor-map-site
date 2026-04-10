@@ -25,8 +25,6 @@ related: "[[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]
 
 donors: [[Democratic Governors Association]] · [[UNITE HERE]] · Illinois Labor Unions · Think Big America PAC
 
-profile-status:: ready
-
 ---
 ---
 
@@ -122,7 +120,6 @@ JB Pritzker. Governor of Illinois (2019–present). Heir to the Pritzker family 
 - In These Times: Hyatt workers stage national actions against Pritzkers (Tier 2)
 - NBC News: Pritzker gave DGA $24M (Tier 2)
 - CNN: Pritzker 2028 positioning (Tier 2)
-content-readiness:: ready
 
 ### Voting Record
 

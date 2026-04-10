@@ -75,8 +75,6 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 
 - [New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html) (Tier 2)
 
-`content-readiness:: ready
-
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |

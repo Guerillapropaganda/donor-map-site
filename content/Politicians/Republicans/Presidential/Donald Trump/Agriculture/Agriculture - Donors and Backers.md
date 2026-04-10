@@ -87,6 +87,4 @@ Trump promised year round E15 fuel sales to Iowa audiences. Simultaneously his a
 - Crop insurance industry subsidy concentration data
 - Montaire Farms political spending ($12 million or more, 2024 cycle, largest individual agribusiness donor)
 
-content-readiness:: ready
-
 research-status:: Agribusiness spending from OpenSecrets sector summary. Meatpacking executive order drafting from ProPublica and Investigate Midwest. Tariff bailout distribution from EWG and CFR. SNAP cuts from CBPP. Subsidy concentration from EWG. Ethanol exemptions from EPA and farmdoc daily. Farm Bureau and NCBA from OpenSecrets. Remaining. Individual company FEC filings and Montaire Farms documentation needed.

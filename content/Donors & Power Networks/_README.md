@@ -54,4 +54,3 @@ All donor nodes organized by sector. This is the analytical backbone of the vaul
 - Every donor node must have at least one documented policy outcome
 - Source citations follow the standard format with tier ratings
 
-content-readiness:: ready

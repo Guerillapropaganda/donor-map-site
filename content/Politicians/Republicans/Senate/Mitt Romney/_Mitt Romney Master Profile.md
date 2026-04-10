@@ -73,8 +73,6 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 ---
 
-`content-readiness:: ready`
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

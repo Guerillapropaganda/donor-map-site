@@ -49,4 +49,3 @@ Reed's most consequential parochial interest is submarine construction. Electric
 - [FEC Candidate: Jack Reed top industries](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
 - [Ballotpedia: Jack Reed](https://ballotpedia.org/Jack_Reed_(Rhode_Island)) (Tier 3)
 
-content-readiness:: ready

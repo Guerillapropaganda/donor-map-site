@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #centrist #celebrity-to-commentator #valuetainment #fitness-brand #political-platform
 
-
 ---
 
 ### Who They Are
@@ -152,4 +151,3 @@ Michaels' fitness celebrity status pre-programs audiences toward accepting her p
 - [Pro-Trump Pundit Throws a Tampon at Liberal Co-Host During Debate — Mediaite](https://www.mediaite.com/media/podcasts/watch-pro-trump-pundit-throws-a-tampon-at-liberal-co-host-during-utterly-bizarre-debate/) (Tier 2) (Chrome verified 2026-03-27)
 - [Ana Kasparian - Wikipedia](https://en.wikipedia.org/wiki/Ana_Kasparian) (Tier 3) (Chrome verified 2026-03-27)
 
-content-readiness:: ready

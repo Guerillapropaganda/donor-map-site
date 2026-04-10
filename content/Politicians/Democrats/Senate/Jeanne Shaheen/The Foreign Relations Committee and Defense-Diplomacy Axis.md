@@ -42,4 +42,3 @@ Shaheen's legislative brand is bipartisan pragmatism — working across the aisl
 - [FEC Candidate: Jeanne Shaheen campaign finance summary](https://www.fec.gov/data/candidate/S0NH00219/) (Tier 1)
 - [Ballotpedia: Jeanne Shaheen](https://ballotpedia.org/Jeanne_Shaheen) (Tier 3)
 
-content-readiness:: ready

@@ -38,8 +38,6 @@ related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] 
 
 donors: [[MassMutual]], [[Fidelity Investments]], MetLife, NAIFA - National Association of Insurance and Financial Advisors, New York Life, [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]], Pharma Industry PACs
 
-profile-status:: ready
-
 ---
 
 ## Who He Is
@@ -181,9 +179,6 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 ## Sources
 
 - [OpenSecrets: Richard Neal Campaign Finance](https://www.opensecrets.org/members-of-congress/summary?cid=N00007222) (Tier 1)
-
-profile-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

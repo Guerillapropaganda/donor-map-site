@@ -40,4 +40,3 @@ Lawler's foreign policy positions are calibrated to maintain AIPAC support: unco
 - [Congress.gov: Mike Lawler campaign finance summary](https://www.congress.gov/search?q=Mike%20Lawler&searchResultViewType=expanded) (Tier 1)
 - [Ballotpedia: Mike Lawler](https://ballotpedia.org/Mike_Lawler) (Tier 3)
 
-content-readiness:: ready

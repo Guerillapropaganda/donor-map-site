@@ -90,7 +90,6 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 - [OpenSecrets: Bechtel lobbying and contributions](https://www.opensecrets.org/orgs/bechtel-corp/summary) (Tier 1)
 - [ProPublica: Iraq War contracting and Bechtel](https://www.propublica.org/article/100-billion-to-contractors-in-iraq-812) (Tier 2)
 
-`content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

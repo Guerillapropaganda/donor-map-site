@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #centrist #audience-capture #independence-theater #centrist-laundering #climate-denial #covid-misinformation #spotify #ufc
 
-
 ---
 
 ### Who They Are
@@ -195,4 +194,3 @@ The **Both-Sides Illusion (Media)** pattern applies cleanly: Rogan is described 
 - [Medium / Joshua Schall: Unilever Adds Onnit to Growing "Supplement Brands" Portfolio](https://joshua-schall.medium.com/unilever-acquires-onnit-a1230dba013a) (Tier 3)
 - [WellbeingPort: Does Joe Rogan own Onnit?](https://wellbeingport.com/does-joe-rogan-own-onnit/) (Tier 3)
 
-content-readiness:: ready

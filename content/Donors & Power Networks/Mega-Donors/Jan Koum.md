@@ -188,7 +188,6 @@ This is the key analytical section for Koum. His pattern exemplifies how tech fo
 
 ---
 
-content-readiness:: ready
 research-status:: ready
 ---
 

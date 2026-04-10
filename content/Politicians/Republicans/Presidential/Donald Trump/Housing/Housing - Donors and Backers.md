@@ -67,4 +67,3 @@ The real estate industry spends $86 million to eliminate the constraints that pr
 - [AP: Kushner Cadre OZ Analysis](https://apnews.com/?q=Housing) (Tier 2)
 - [CNBC: Kushner Opportunity Zones](https://www.cnbc.com/?q=Housing) (Tier 2)
 
-content-readiness:: ready

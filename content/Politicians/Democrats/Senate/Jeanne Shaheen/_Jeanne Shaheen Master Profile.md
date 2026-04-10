@@ -145,9 +145,8 @@ Shaheen is the defense industry's ideal Democratic senator — a three-committee
 office:: Senate
 state:: New Hampshire
 party:: Democrat
-profile-status:: ready
+
 research-status:: ready
-content-readiness:: ready
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

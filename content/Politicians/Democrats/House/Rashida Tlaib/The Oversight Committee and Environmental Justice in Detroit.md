@@ -42,4 +42,3 @@ This media dynamic serves the donor class: attention focused on Palestine means 
 - [Michigan EGLE: 48217 pollution data](https://www.michigan.gov/egle) (Tier 1)
 - [Ballotpedia: Rashida Tlaib](https://ballotpedia.org/Rashida_Tlaib) (Tier 3)
 
-content-readiness:: ready

@@ -163,9 +163,8 @@ Heinrich is the nuclear weapons complex's senator — an engineer who started hi
 office:: Senate
 state:: New Mexico
 party:: Democrat
-profile-status:: ready
+
 research-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

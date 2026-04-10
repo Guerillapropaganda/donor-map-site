@@ -133,9 +133,8 @@ office:: House
 state:: Minnesota
 district:: 2
 party:: Democrat
-profile-status:: ready
+
 research-status:: ready
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

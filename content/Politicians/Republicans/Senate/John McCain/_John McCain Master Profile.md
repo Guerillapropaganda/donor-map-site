@@ -75,8 +75,6 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 ---
 
-`content-readiness:: ready`
-
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |

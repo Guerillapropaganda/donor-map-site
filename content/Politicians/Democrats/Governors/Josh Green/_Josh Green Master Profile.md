@@ -22,8 +22,6 @@ related: "[[UnitedHealth Group - Optum]] · [[Hawaiian Electric Company]]"
 
 donors: Healthcare Industry Donors · Hawaii Tourism Industry · Labor Unions - HGEA · Hawaii Business Council
 
-profile-status:: ready
-
 ---
 ---
 
@@ -210,8 +208,6 @@ The material question: does the brand translate to policy challenging healthcare
 - [Governing: Gov. Josh Green Reflects on Maui Wildfires a Year Later](https://www.governing.com/resilience/gov-josh-green-reflects-on-maui-wildfires-a-year-later) (Tier 2)
 - [Associated Press: Hawaii Gov. Josh Green tells AP $4B settlement for 2023 Maui wildfire](https://www.hawaiinewsnow.com/2024/08/03/gov-green-announces-historic-4-billion-settlement-maui-wildfire-anniversary-nears/) (Tier 2)
 - [Maui Now: Gov. Green Renews Commitment with 450-unit Ka La'i Ola project](https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/) (Tier 2)
-
-content-readiness:: ready
 
 ## Committee Assignments (Congress.gov)
 

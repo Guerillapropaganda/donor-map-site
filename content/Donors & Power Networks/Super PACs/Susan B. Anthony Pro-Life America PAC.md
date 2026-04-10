@@ -51,4 +51,3 @@ Susan B. Anthony Pro-Life America exemplifies single-issue donor power in Americ
 - [OpenSecrets: Susan B. Anthony Pro-Life America organizational profile](https://www.opensecrets.org/orgs/susan-b-anthony-list/summary?id=D000029113) (Tier 1)
 - [The Guardian: Anti-abortion PAC political influence](https://www.theguardian.com/us-news/2024/abortion-pac-influence) (Tier 2)
 
-`content-readiness:: ready

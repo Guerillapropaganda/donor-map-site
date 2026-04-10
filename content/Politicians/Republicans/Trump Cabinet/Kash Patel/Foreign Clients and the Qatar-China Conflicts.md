@@ -13,8 +13,6 @@ related: "[[_Kash Patel Master Profile]] · [[_Benjamin Netanyahu Master Profile
 
 donors: Embassy of Qatar Elite Depot Ltd. Czechoslovak Group
 
-content-readiness:: ready
-
 ---
 
 ### Foreign Clients and the Qatar-China Conflicts

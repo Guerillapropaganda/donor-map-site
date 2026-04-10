@@ -62,8 +62,6 @@ TPUSA represents a new oligarchic model: dark money youth mobilization disguised
 - [Rolling Stone: Charlie Kirk TPUSA investigation](https://www.rollingstone.com/politics/politics-news/charlie-kirk-turning-point-usa-founder-dead-1235424931/) (Tier 2)
 - [SourceWatch: Turning Point USA — dark money funding, donors, and organizational profile](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA) (Tier 3)
 
-`content-readiness:: ready
-
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
 | Metric | Value |

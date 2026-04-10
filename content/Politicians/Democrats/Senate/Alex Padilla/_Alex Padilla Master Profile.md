@@ -30,8 +30,6 @@ related: "[[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Kamala Harris Mast
 
 donors:
 
-profile-status:: ready
-
 ---
 ---
 
@@ -151,8 +149,6 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 - [GovTrack: Alex Padilla](https://www.govtrack.us/congress/members/alejandro_padilla/456856) (Tier 3) (VERIFIED)
 - [Ballotpedia: Alex Padilla](https://ballotpedia.org/Alex_Padilla) (Tier 3) (VERIFIED)
 - [Wikipedia: Alex Padilla](https://en.wikipedia.org/wiki/Alex_Padilla) (Tier 3) (VERIFIED)
-
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -33,8 +33,6 @@ related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]
 
 donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -143,7 +141,6 @@ Scott's legislative record on healthcare is the most direct conflict of interest
 - [New York Times: "blind in name only" trust](https://www.politifact.com/article/2010/jun/11/rick-scott-and-fraud-case-columbiahca/) (Tier 2)
 - [CNN: NRSC spending failure, McConnell feud](https://www.cnn.com/2022/09/06/politics/rick-scott-mitch-mcconnell-republican-senate-fundraising) (Tier 2)
 - [Florida Politics: Big Sugar donors, healthcare votes](https://www.wlrn.org/politics/2013-09-27/seminole-tribe-u-s-sugar-among-big-donors-to-gov-scott-re-election-committee) (Tier 2)
-content-readiness:: ready
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

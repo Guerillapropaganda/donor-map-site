@@ -136,4 +136,3 @@ The pharma astroturf story (Silver) extends Run 6's Diamond pharma story with ne
 3. **Ballard Partners node update:** The $88.1M record and Trump fundraiser connection should be added to both existing Ballard nodes.
 4. **PhRMA donor node update:** The Public Citizen astroturf data (74% front-group financial ties) should be added to the PhRMA donor node as a documented dark money distribution network.
 
-content-readiness:: draft

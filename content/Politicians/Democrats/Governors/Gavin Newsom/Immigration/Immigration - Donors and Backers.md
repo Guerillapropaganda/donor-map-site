@@ -102,4 +102,3 @@ California's sanctuary state is framed as a moral/political statement — but it
 - [OpenSecrets: Western Growers Association federal lobbying disclosure](https://www.opensecrets.org/orgs) (Tier 1)
 - [CalMatters: As extreme heat rises, Newsom blocks bill to protect California farmworkers](https://calmatters.org/california-divide/2024/09/california-farmworkers-newsom-heat-bill/) (Tier 2)
 
-content-readiness:: ready

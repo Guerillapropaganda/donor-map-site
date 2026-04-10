@@ -31,8 +31,6 @@ related: "[[_Donald Trump Master Profile]] · [[_Doug Burgum Master Profile]] ·
 
 donors: [[Leonard Leo]] · [[Koch Network - Charles Koch]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -141,7 +139,6 @@ Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Prev
 - [CREW: Energy interests supporting Zeldin](https://www.citizensforethics.org/reports-investigations/crew-investigations/report-suggests-energy-interests-sought-to-secretly-support-epa-administrators-campaign/) (Tier 2)
 - [DeSmog: Tim Dunn fracking billionaire backing Zeldin](https://www.desmog.com/2024/11/13/trump-epa-pick-lee-zeldin-backed-by-texas-fracking-billionaire-tim-dunn/) (Tier 2)
 - [FEC: Lee Zeldin contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=zeldin,+lee) (Tier 1)
-content-readiness:: ready
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -96,8 +96,6 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 - [Alabama Reflector: How Alabama Power kept bills up and foes out](https://alabamareflector.com/2025/11/04/how-alabama-power-kept-bills-up-and-foes-out-to-become-one-of-the-nations-most-powerful-utitilies/) (Tier 2)
 - [OpenSecrets: Alabama Power lobbying spending](https://www.opensecrets.org/orgs/southern-company) (Tier 1)
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

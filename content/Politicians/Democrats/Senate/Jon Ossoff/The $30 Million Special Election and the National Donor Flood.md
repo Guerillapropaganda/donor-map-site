@@ -17,8 +17,6 @@ tags: #democrat
 
 donors: [[Tech and Media Donors]] · [[Entertainment and Hollywood Donors]]
 
-content-readiness:: ready
-
 ---
 
 ### The 2017 Special Election: National Proxy War for a House Seat

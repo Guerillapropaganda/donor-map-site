@@ -13,8 +13,6 @@ related: "[[_Howard Lutnick Master Profile]]"
 
 donors: [[Crypto Industry Bloc]]
 
-content-readiness:: ready
-
 ---
 
 ### Cantor Fitzgerald, Tether, and the Crypto Reserve Play

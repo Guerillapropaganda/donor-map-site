@@ -45,8 +45,6 @@ David Sacks exemplifies the revolving door in its purest form: a venture capital
 
 ---
 
-`content-readiness:: ready
-
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
 | Metric | Value |

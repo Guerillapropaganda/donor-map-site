@@ -38,8 +38,6 @@ related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pi
 
 donors: [[Blackstone]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -142,7 +140,6 @@ $200 million total spending — the most expensive in Maine history:
 - [Common Dreams/Rolling Stone: Schwarzman-tax bill timeline](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2)
 - [Maine Public: post-Kavanaugh fundraising](https://www.mainepublic.org/politics/2019-02-04/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote) (Tier 2)
 - [19th News: 2020 race spending](https://19thnews.org/2020/12/susan-collins-senate-race-2020-defied-the-odds/) (Tier 2)
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 

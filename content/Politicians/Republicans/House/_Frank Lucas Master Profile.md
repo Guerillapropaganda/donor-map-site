@@ -40,8 +40,6 @@ related: "[[American Farm Bureau Federation]] · [[National Cattlemen's Beef Ass
 
 donors: [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · Agricultural Equipment Manufacturers Coalition · Oklahoma Oil and Gas Producers Association
 
-profile-status:: ready
-
 ---
 
 ## Who He Is
@@ -316,8 +314,6 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 - [Roll Call: Lucas's scientific research funding decisions and energy sector donations](https://www.rollcall.com/news/frank-lucas-science-committee-chair/) (Tier 2)
 - [Public Citizen: Congressional Farm Subsidy Recipients](https://www.citizen.org/article/farm-subsidy-analysis-congress/) (Tier 2)
 - [EWG: Farm subsidy database — Frank Lucas district data](https://farm.ewg.org/) (Tier 2)
-
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

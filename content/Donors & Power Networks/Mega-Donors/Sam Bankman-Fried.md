@@ -76,8 +76,6 @@ Favorable crypto regulation (specifically, regulation that would have required o
 - [SEC: FTX enforcement action](https://www.sec.gov/litigation/complaints/2022/comp-pr2022-219.pdf) (Tier 1)
 - [Ballotpedia: Sam Bankman-Fried](https://ballotpedia.org/Sam_Bankman-Fried) (Tier 3)
 
-content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

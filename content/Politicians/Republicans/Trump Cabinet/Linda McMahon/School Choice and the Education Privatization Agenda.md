@@ -13,8 +13,6 @@ related: "[[_Linda McMahon Master Profile]]"
 
 donors: (Private education and for-profit charter networks — no specific nodes)
 
-content-readiness:: ready
-
 ---
 
 ### School Choice and the Education Privatization Agenda

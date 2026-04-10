@@ -13,8 +13,6 @@ related: "[[_John Ratcliffe Master Profile]]"
 
 donors: Blackstone - Stephen Schwarzman, [[L3 Technologies]], [[Northrop Grumman]], Latent AI
 
-content-readiness:: ready
-
 ---
 
 ### The Defense Contractor Revolving Door and the Consulting Pipeline

@@ -297,4 +297,3 @@ known-gaps:
 
 ---
 
-content-readiness:: draft

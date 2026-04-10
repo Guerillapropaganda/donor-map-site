@@ -86,9 +86,6 @@ Ben-Gvir's demands for settlement expansion aren't abstract territorial claims. 
 - [Wikipedia: Itamar Ben-Gvir](https://en.wikipedia.org/wiki/Itamar_Ben-Gvir) (Tier 2)
 - [Foundation for Middle East Peace: Settlement & Annexation Report](https://fmep.org/resource/settlement-annexation-report-august-8-2025/) (Tier 1)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 

@@ -23,8 +23,6 @@ related: "[[_Donald Trump Master Profile]] · [[Jeffrey Epstein Network|Jeffrey 
 
 donors: N/A — Acosta is an appointee, not an elected official. No campaign committee. Donor analysis focuses on the networks that placed him.
 
-profile-status:: ready
-
 ---
 ---
 
@@ -159,9 +157,6 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 - [FIU News: FIU Law Dean Acosta nominated for U.S. labor secretary post](https://newsarchives.fiu.edu/2017/02/fiu-law-dean-acosta-nominated-for-u-s-labor-secretary-post) (Tier 3)
 - [House Oversight Committee: Epstein Prosecutor Acosta Interview Transcript](https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-statement-public-release-epstein-prosecutor-and-former) (Tier 2)
 - [NELP: On the Confirmation of Alexander Acosta as Labor Secretary](https://www.nelp.org/on-the-confirmation-of-alexander-acosta-as-labor-secretary/) (Tier 2)
-
-content-readiness:: ready
-profile-status:: developed — Epstein NPA documented (53-page indictment abandoned, 13-month sentence, immunity for co-conspirators, CVRA violation), defense team mapped (Starr, Dershowitz, Lefkowitz), Labor Secretary tenure and resignation timeline, DOJ OPR review, "intelligence" claim noted, class analysis. All ### headers, Tier 1-2 sources. Session 38i.
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

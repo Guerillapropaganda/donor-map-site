@@ -176,8 +176,6 @@ Sinclair's success also reveals **regulatory capture in media:** FCC nominally r
 - [FCC: Broadcast station ownership limits and Sinclair compliance](https://www.fcc.gov/document/sinclair-broadcast-group-approval) (Tier 1)
 - [Pew Research: Local news trust and Sinclair's market penetration](https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/) (Tier 2)
 
-content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

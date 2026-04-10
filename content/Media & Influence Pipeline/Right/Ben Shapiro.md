@@ -14,7 +14,6 @@ source-types:
 
 #media-pipeline #right #climate-denial #israel-lobby #fossil-fuel-media #conservative-media #daily-wire
 
-
 > [!money]
 > **Wilks Brothers donor node now exists** (created 2026-03-26). The Wilks-to-Shapiro pipeline is the central funding relationship in this profile. See [[Wilks Brothers]] for full donor anatomy. Relevant adjacent nodes: [[Koch Network - Charles Koch]] (funds same TPUSA ecosystem), [[Tim Dunn]] (adjacent Texas fossil fuel mega-donor network).
 
@@ -224,4 +223,3 @@ The **Both-Sides Illusion** applies in reverse here: Shapiro's rhetorical pose a
 - [Canada's National Observer: Danielle Smith and Ben Shapiro discuss Canada electing 'solid allies' to Trump at Florida PragerU event](https://www.nationalobserver.com/2025/03/27/news/danielle-smith-ben-shapiro-prageru-fundraiser) (Tier 2)
 - [Edison Research: The Top 50 U.S. Podcasts Q4 2024](https://www.edisonresearch.com/the-top-50-u-s-podcasts-q4-2024/) (Tier 2)
 
-content-readiness:: ready

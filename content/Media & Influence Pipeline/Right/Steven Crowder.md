@@ -12,7 +12,6 @@ related: "[[Peter Thiel]] · [[Koch Network - Charles Koch]] · [[Tucker Carlson
 
 #media-pipeline #right #conservative-media #youtube #rumble #daily-wire #billionaire-funding #anti-union #culture-war
 
-
 ---
 
 ### Who They Are
@@ -168,4 +167,3 @@ The "Change My Mind" format is the perfect metaphor for Crowder's structural rol
 - [Wikipedia: Steven Crowder](https://en.wikipedia.org/wiki/Steven_Crowder) (Tier 3)
 - [Media Bias/Fact Check: Louder With Crowder](https://mediabiasfactcheck.com/louder-with-crowder/) (Tier 3)
 
-content-readiness:: ready

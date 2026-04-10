@@ -256,7 +256,6 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 
 ---
 
-content-readiness:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

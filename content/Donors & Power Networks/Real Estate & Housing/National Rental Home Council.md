@@ -127,7 +127,7 @@ NRHC represents the corporate landlord class — private equity-backed firms tha
 ---
 
 research-status:: draft — Core profile, lobbying data, and revolving-door analysis documented. Gaps: complete member company list with financial data, detailed PAC contribution recipients, specific policy outcomes tied to lobbying (GSE reform details), tenant complaint data from member companies, FHFA relationship under Pulte directorship. OpenSecrets PAC data available for deeper analysis.
-content-readiness:: draft
+
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

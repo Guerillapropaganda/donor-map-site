@@ -106,4 +106,4 @@ Ten states have no licensure requirements for bail agents. Only 22 states requir
 - [Color of Change: Endeavour Capital Statement](https://colorofchange.org/blog/internal_press/aclu-and-color-of-change-statement-on-endeavour-capitals-divestment-from-predatory-for-profit-bail-industry/) (Tier 3) (VERIFIED)
 
 research-status:: ready — $2-3.5B annual market, Prop 25 $11.26M No campaign, Endeavour/Triton $2.79M, CCPOA $2M, Humphrey decision, SB 262, class analysis, 6 insurance company domination. 8 sources, Tier 1-3. All ### headers. Promoted Session 38l.
-content-readiness:: ready
+

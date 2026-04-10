@@ -23,8 +23,6 @@ related: "[[_Pete Buttigieg Master Profile]] · [[_Kamala Harris Master Profile]
 
 donors: Auto Industry Donors · SOAR Fund Corporate Beneficiaries
 
-profile-status:: ready
-
 ---
 ---
 
@@ -137,7 +135,6 @@ Not every Whitmer win is donor-class service. The analytical framework demands a
 - [Axios: Whitmer retreats from 2028 presidential race spotlight](https://www.axios.com/2025/11/24/whitmer-retreat-campaign-president-2028) (Tier 2)
 - [The Hill: Whitmer launching Substack amid 2028 speculation](https://thehill.com/homenews/state-watch/5718752-whitmer-substack-bipartisan-solutions/) (Tier 2)
 - [Wikipedia: Gretchen Whitmer kidnapping plot](https://en.wikipedia.org/wiki/Gretchen_Whitmer_kidnapping_plot) (Tier 3)
-content-readiness:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

@@ -97,8 +97,6 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 - [SEC: Regulation Best Interest](https://www.sec.gov/regulation-best-interest) (Tier 1)
 - [Ballotpedia: Charles Schwab](https://ballotpedia.org/Charles_Schwab_Corporation) (Tier 3)
 
-content-readiness:: ready
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

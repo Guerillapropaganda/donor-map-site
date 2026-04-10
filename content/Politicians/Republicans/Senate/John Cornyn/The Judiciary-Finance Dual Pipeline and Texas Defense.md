@@ -44,4 +44,3 @@ The border is Cornyn's other jurisdiction-donor alignment: he negotiated the fai
 - [FEC Candidate: John Cornyn campaign finance summary](https://www.fec.gov/data/candidate/S2TX00106/) (Tier 1)
 - [Ballotpedia: John Cornyn](https://ballotpedia.org/John_Cornyn) (Tier 3)
 
-content-readiness:: ready

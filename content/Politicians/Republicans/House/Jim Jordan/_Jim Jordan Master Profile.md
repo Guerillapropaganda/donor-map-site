@@ -29,8 +29,6 @@ related: "[[_Mike Johnson Master Profile]] Â· [[_Donald Trump Master Profile]] Â
 
 donors: [[Koch Network - Charles Koch]], [[Club for Growth]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -127,7 +125,6 @@ Career funding: Koch Industries $60,000+. [[Club for Growth|Club for Growth]] li
 - [OpenSecrets: Rep. Jim Jordan - Campaign Finance Summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00027894) (Tier 1)
 - [Club for Growth: Jim Jordan Scorecard](https://www.clubforgrowth.org/scorecards/legislator/J000289/Jim-Jordan/) (Tier 3)
 - [CNN: Jim Jordan's speakership bid ends after third lost vote](https://www.cnn.com/politics/live-news/house-speaker-vote-10-20-23/index.html) (Tier 2)
-content-readiness:: ready
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

@@ -44,4 +44,3 @@ The structural irony: the man who built his fortune on Medicare fraud proposed e
 - [FEC Candidate: Rick Scott donor profile](https://www.fec.gov/data/candidate/S8FL00273/) (Tier 1)
 - [Ballotpedia: Rick Scott](https://ballotpedia.org/Rick_Scott) (Tier 3)
 
-content-readiness:: ready

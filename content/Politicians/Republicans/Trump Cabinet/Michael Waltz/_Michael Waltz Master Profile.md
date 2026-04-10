@@ -119,9 +119,6 @@ Waltz uses military credentialing as his primary rhetorical frame — "Green Ber
 
 ---
 
-profile-status:: draft
-content-readiness:: draft
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

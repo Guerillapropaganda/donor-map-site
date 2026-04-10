@@ -215,9 +215,6 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 ### Archived
 - ~~[OpenSecrets News: Pro-Israel PACs poised to spend big to unseat progressive Congress members in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — use FEC/Jewish Insider sources above for same data)
 
-profile-status:: ready
-content-readiness:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

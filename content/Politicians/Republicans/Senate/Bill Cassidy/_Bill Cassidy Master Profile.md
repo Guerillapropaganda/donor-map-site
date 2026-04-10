@@ -28,8 +28,6 @@ related: "[[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]] · [[Koch Netw
 
 donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - Charles Koch]]
 
-profile-status:: ready
-
 ---
 ---
 
@@ -147,7 +145,6 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 - [NBC News: GOP Sen. Bill Cassidy draws primary challenger citing Trump impeachment vote](https://www.nbcnews.com/politics/congress/gop-sen-bill-cassidy-draws-primary-challenger-trump-impeachment-rcna182940) (Tier 2)
 - [19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/) (Tier 2)
 - [U.S. Senator Bill Cassidy: Bipartisan group introduces nation's first comprehensive CO2 infrastructure bill](https://www.cassidy.senate.gov/newsroom/press-releases/bipartisan-group-introduces-nations-first-comprehensive-co2-infrastructure-bill/) (Tier 1)
-content-readiness:: ready
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

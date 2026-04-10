@@ -21,8 +21,6 @@ last-enriched: "2026-04-09"
 
 All research, sources, and analysis have been merged into the canonical file at `topics/Donors & Power Networks/Wall Street/Blackstone Group.md`.
 
-content-readiness:: ready
-
 ### Federal Contracts
 
 ### DOJ Press Releases

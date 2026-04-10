@@ -3,6 +3,30 @@ import fs from "fs"
 import path from "path"
 import { execSync } from "child_process"
 
+/**
+ * URL triage save API — ops/src/app/api/urls/save/route.ts
+ *
+ * RULES (critical — re-learned 2026-04-09):
+ * 1. URL fixing is EDITOR-ONLY. Only David (the human editor) triages URLs
+ *    through the Ops URL Manager UI. Neither Research Claude nor Code Claude
+ *    is permitted to:
+ *    - Hunt for replacement URLs
+ *    - Auto-verify URLs
+ *    - Write automated URL-fixing scripts or pipelines
+ *    - Populate this endpoint from a bot or scheduled job
+ *    This endpoint is called exclusively by the Ops URL Manager page when
+ *    David clicks a triage button. If any new caller appears, flag it.
+ * 2. Statuses this endpoint accepts: ok, broken, slow, unsure, yellow.
+ *    "broken" gets strikethrough in the profile; "unsure"/"yellow" gets a
+ *    `(NEEDS REVIEW)` marker. Both Claudes must honor those markers and
+ *    never overwrite them.
+ * 3. Profile body writes here are the one exception to the frontmatter-only
+ *    rule: they modify the inline markdown link text for an archived URL.
+ *    That is David's triage action and intentional.
+ *
+ * If a future feature needs to bulk-update URLs, stop and ask David.
+ */
+
 interface UrlChange {
   url: string
   label: string

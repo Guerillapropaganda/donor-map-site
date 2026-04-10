@@ -64,8 +64,6 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 - [FEC: Club for Growth PAC spending 2022-2024](https://www.fec.gov/data/committee/C00432260/) (Tier 1)
 - [Politico: How Club for Growth shapes Republican primaries](https://www.politico.com/news/2024/01/15/club-for-growth-republican-primary-influence) (Tier 2)
 
-`content-readiness:: ready
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

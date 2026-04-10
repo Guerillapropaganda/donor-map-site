@@ -142,9 +142,8 @@ Schatz is the Democratic Party's next power broker — Schumer's chosen successo
 office:: Senate
 state:: Hawaii
 party:: Democrat
-profile-status:: ready
+
 research-status:: ready
-content-readiness:: ready
 
 ### Legislative Activity (Congress.gov)
 

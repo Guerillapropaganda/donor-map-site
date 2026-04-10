@@ -33,8 +33,6 @@ related: "[[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Donald Trump Master 
 
 donors:
 
-profile-status:: ready
-
 ---
 ---
 
@@ -154,5 +152,3 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 - [Center for American Progress: Climate deniers of the 119th Congress](https://www.americanprogress.org/article/climate-deniers-of-the-119th-congress-and-the-second-trump-administration/) (Tier 2)
 - [Ballotpedia: Brian Babin](https://ballotpedia.org/Brian_Babin) (Tier 3)
 - [Wikipedia: Brian Babin](https://en.wikipedia.org/wiki/Brian_Babin) (Tier 3)
-
-content-readiness:: ready

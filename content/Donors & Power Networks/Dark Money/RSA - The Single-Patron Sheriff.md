@@ -31,4 +31,3 @@ The single-patron sheriff pattern appears across multiple vault profiles: Chad B
 - [FPPC: California sheriff campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)
 - [Ballotpedia: Sheriff elections](https://ballotpedia.org/RSA_-_The_Single-Patron_Sheriff) (Tier 3)
 
-content-readiness:: ready

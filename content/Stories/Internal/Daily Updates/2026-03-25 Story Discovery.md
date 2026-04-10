@@ -175,4 +175,3 @@ These items surfaced during scanning but need deeper research before they can be
 
 ---
 
-content-readiness:: draft
