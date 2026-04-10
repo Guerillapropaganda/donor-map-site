@@ -2683,6 +2683,106 @@ Query parameters use PostgREST-style operators (e.g., `field=eq.VALUE`, `field=i
 
 ---
 
+## FDA (openFDA)
+**Last verified:** 2026-04-11
+
+### Identity
+- **What it is:** openFDA, the REST/JSON API published by the FDA at `api.fda.gov`, Elasticsearch-backed, covering drug/device/food recalls (enforcement reports), adverse events (FAERS + MAUDE), drug approvals (Drugs@FDA), 510(k) clearances, PMA approvals, and structured drug labels. Tier 1 primary source for pharma/device/food accountability.
+- **Auth:** OPTIONAL api_key from `https://open.fda.gov/apis/authentication/`. The openFDA signup is SEPARATE from `api.data.gov` — no shared key. Without a key the rate limit is 240 requests/minute per IP, 1000/day per IP, which is plenty for our 15-per-run batches.
+- **Rate limit with key:** 240 requests/minute per key, 120,000/day per key.
+- **Known gotcha:** 0 results returns HTTP 404, not 200-with-empty-array. Pipeline handles this as "no data found", not an error.
+- **Date format:** `YYYYMMDD` (no separators) in enforcement records. Pipeline normalizes to ISO.
+- **Schema quirk:** `recall_number` is the publicly-cited ID (`D-321-2016` for drugs, `Z-2372-2023` for devices, `F-0276-2017` for food); `event_id` is an internal numeric key. Cite `recall_number`.
+
+### Pipeline behaviour
+- **File:** `scripts/fda-pipeline.cjs`
+- **Profile filter:** `isFDAAdjacent()` — includes NAICS 3254 (pharma), 3391 (medical equipment), 311 (food manufacturing), 445 (food & beverage stores), plus ~40 hard-coded big-pharma / big-device / big-food brand names (pfizer, j&j, merck, abbvie, lilly, moderna, medtronic, tyson, cargill, nestle, pepsico, coca-cola, kraft, altria, etc.). Filtered 384 → 38 in testing.
+- **Endpoints queried per profile:** `/drug/enforcement.json`, `/device/enforcement.json`, `/food/enforcement.json` — 3 API calls per profile, each with `search=recalling_firm:"NAME"`.
+- **Strict firm verification:** After fetching, every returned record is re-checked against the profile name using a token-based word-boundary match. `extractFirmTokens()` strips corporate suffixes (`inc`, `corp`, `llc`, `pharmaceuticals`, etc.) before matching so "Pfizer Inc." tokenizes to just `["pfizer"]` instead of `["pfizer", "inc"]`. This prevents the A000383-class substring bugs ("meta" matching "metals", "amgen" matching "amgenesis").
+- **Summary includes:** total recalls, drug/device/food breakdown, **Class I (life-threatening) count highlighted**, Class II/III counts, ongoing count, date range, variant firm names for audit.
+- **Frontmatter written:** `fda-recalls`, `fda-recalls-class-i`, `last-enriched`.
+- **Auto-block inserted:** `### FDA Enforcement (openFDA)` with metric table, Class I highlight, 6 most-recent recalls, variant firm names.
+
+### Verified working
+- Pfizer Inc. → 103 recalls (100 drug, 3 device, 0 food), **14 Class I life-threatening**, 15 ongoing. Latest: 2025-08-04 epinephrine vial label.
+- Johnson & Johnson → 110 recalls (24 drug, 86 device), 2 Class I, 41 ongoing. Latest: 2025-06-12 ACUVUE OASYS MAX.
+
+### Known incidents (our vault)
+**None yet — pipeline is new as of 2026-04-11.**
+
+**Quality check rule:** If an `auto:fda-enforcement` block shows Class I counts > 20 for a non-pharma profile (e.g., a hedge fund or bank), suspect a profile-filter leak — the strict firm-verification step should reject non-matches, but audit before citing as Tier 1. Class I recalls are the highest-impact number on the page and deserve manual verification for any profile with >10.
+
+---
+
+## OCC (Office of the Comptroller of the Currency)
+**Last verified:** 2026-04-11
+
+### Identity
+- **What it is:** OCC is the federal regulator of national banks and federal savings associations. Enforcement actions back to August 1989 are published via `api.occ.gov`. This is the authoritative source for national bank accountability — no secondary source is more complete. State-chartered banks (Goldman Sachs Bank USA, Morgan Stanley Bank) are supervised by FDIC/Fed, NOT OCC — check `CharterType` before assuming.
+- **Auth:** API key via `api.data.gov` infrastructure. **Shares the same key as FEC, Congress.gov, FTC, USDA, NASA, SAM.gov, and every other api.data.gov-fronted API.** Our `api-config.cjs` falls back to the FEC key automatically if no dedicated `OCC_API_KEY` / `OCCAPI` env var is set.
+- **Rate limit:** 1,000 requests/hour per key (api.data.gov standard tier).
+- **Key quirks:**
+  - `Amount` is a STRING, not a number. Values include `"2614456.00"`, `"0.00"`, `"See Order"`, `""`. Pipeline parses defensively.
+  - `TerminationDate` of `""` means still active; `"N/A"` means non-terminable (CMPs never terminate by design); a date string means terminated.
+  - `SubjectMatters` array is EMPTY for pre-2012 actions. Don't infer topic absence from empty arrays on old records.
+  - No pagination — all results for a keyword return in a single array.
+  - **Critical gotcha:** Bank names in enforcement records reflect the institution's name at the time the action became final, NOT the current legal name. JPMorgan Chase appears under predecessor names (Chase Manhattan, Bank One, etc.) in pre-merger actions.
+
+### Pipeline behaviour
+- **File:** `scripts/occ-pipeline.cjs`
+- **Profile filter:** `isOCCAdjacent()` — includes NAICS 5221 (depository credit), 5223 (credit intermediation), 5231 (securities/commodity), financial-services keywords, and ~35 hard-coded big-bank names. Filtered 384 → 30 in testing.
+- **Endpoint queried:** `/EnforcementActions/list/{keyword}` ONLY. We DO NOT use `/Institutions/List/1` because that keyword search is broken — searching for "JPMorgan" returns Charter 1 (Wells Fargo's predecessors CoreStates/Wachovia) instead of JPMorgan. Verified 2026-04-11.
+- **Name variants:** Vault titles like "JPMorgan - Chase Bank" are split on `-` into variants `["JPMorgan", "Chase Bank"]` (with corporate suffixes stripped). Pipeline queries enforcement for each variant and dedupes by `DocketNumber`.
+- **Strict verification:** Each returned action is filtered so its `Institution` / `Company` / `Individual` field contains every significant token from AT LEAST ONE variant as a full-word match. Prevents "Chase" from matching "Chase Creek Bank".
+- **Charter numbers:** Derived FROM the matched actions (not from a separate lookup step), ensuring what we display is what OCC attributed to the entity.
+- **Canonical institution name:** The most-common `Institution` value across matched actions. Handles predecessor cases where a bank has multiple historical legal names.
+- **Frontmatter written:** `occ-enforcement-actions`, `occ-active-actions`, `occ-charter-numbers` (array), `occ-cmp-dollars` (if > 0), `last-enriched`.
+- **Auto-block inserted:** `### OCC Enforcement Actions` with legal name + charter number table, action type breakdown, subject areas (2012+), still-active actions list with PDF links, recent enforcement history.
+
+### Verified working
+- Wells Fargo → **116 actions, 95 active, $899,171,205 in civil money penalties.** Latest: 2024-12-23 Prohibition/Removal Orders.
+- JPMorgan Chase → **78 actions, 58 active, $1,222,035,000 in CMPs** (~$1.22B). Latest: 2025-12-15 1829 Prohibition Notification.
+
+### Known incidents (our vault)
+**None yet — pipeline is new as of 2026-04-11.**
+
+**`/Institutions/List/1` is broken** — documented above. Pipeline avoids it entirely.
+
+**Quality check rule:** If an `auto:occ-enforcement` block shows `CMP dollars > $100M`, verify by spot-checking 2 of the cited docket numbers against the OCC EASearch UI (`https://apps.occ.gov/EASearch`). CMP dollar totals are load-bearing for donor accountability stories.
+
+---
+
+## FTC (Federal Trade Commission)
+**Last verified:** 2026-04-11
+
+### Identity
+- **What it is:** FTC publishes a thin API (`api.ftc.gov/v0`) with only TWO endpoints: HSR Early Termination Notices (real-time merger filings with granted ET) and Do Not Call complaints. There is NO enforcement action search API. Historical enforcement data exists only as three static CSVs last updated FY2021 (`ftc_merger_enforcement_actions_2.csv`, `ftc_nonmerger_enforcement_actions_2.csv`, `ftc_civil_penalty_actions_2.csv`). Post-2021 cases are HTML-only on ftc.gov/legal-library.
+- **Auth:** Same `api.data.gov` key as FEC/OCC. Pipeline reuses the FEC key via `api-config.cjs`.
+- **Coverage gap:** Enforcement CSVs end at FY2020/2021. For post-2021 cases, pipeline documents the gap in the auto-block and links to the FTC Legal Library search UI.
+- **HSR early termination gap:** February 2021 – February 2025, the ET program was suspended. No ET notices exist for that window — this is expected, not a data bug.
+
+### Pipeline behaviour
+- **File:** `scripts/ftc-pipeline.cjs`
+- **Profile filter:** `isFTCAdjacent()` — all corporation/donor profiles EXCEPT pure individuals, PACs, and bloc/aggregate profiles (which would never match by strict name). Filtered 384 → 151 in testing.
+- **CSV load:** One-time fetch of all three enforcement CSVs at pipeline startup (644 records total as of 2026-04-11). Cached in memory for the full run. Minimal in-tree CSV parser handles quoted fields with embedded commas — no csv library dependency.
+- **HSR API:** Queried per name variant via `/hsr-early-termination-notices?filter[title][value]=X&filter[title][operator]=CONTAINS` (JSON:API format). Dedupe by entry ID.
+- **Name variants:** `nameVariants()` splits vault titles like "Meta - Facebook" on `-` and strips corporate suffixes, producing candidates like `["Meta", "Facebook"]`. Each variant is queried/filtered independently.
+- **Strict match:** `strictMatchAnyVariant()` checks whether ANY variant's tokens all appear as full words in the target field. **Full word-boundary regex on both sides** — prevents "meta" matching "metals" in "Commercial Metals Company" (actual false positive caught in testing).
+- **Frontmatter written:** `ftc-enforcement-actions`, `ftc-hsr-notices`, `last-enriched`.
+- **Auto-block inserted:** `### FTC Enforcement & Merger Review` with enforcement + HSR counts, enforcement-by-type breakdown, recent actions list with links, HSR filings list, explicit CSV-cutoff caveat.
+
+### Verified working
+- Meta – Facebook → 1 historical enforcement (Facebook/Instagram 2020), 0 HSR (correct — Meta files under "Meta Platforms" which post-dates the 2021 CSV cutoff), 0 false positives (earlier "Commercial Metals Company" false match eliminated by the word-boundary fix).
+
+### Known incidents (our vault)
+**None yet — pipeline is new as of 2026-04-11.**
+
+**`\b${token}` regex without trailing `\b` is dangerous.** The first version of the pipeline matched "Meta" against "Commercial Metals Company" because `\bmeta` allowed any suffix. Fix: use `\b${token}\b` on both sides. Same trap fixed in `fda-pipeline.cjs` simultaneously. Watch for this when writing any future pipeline that uses regex-based strict matching.
+
+**Quality check rule:** FTC CSVs are frozen at FY2021. If a high-profile post-2021 enforcement action is missing from a profile (e.g., Amazon/Prime FTC lawsuit from 2023, Meta/Cambridge Analytica follow-on), it's NOT a bug — it's the documented cutoff. The auto-block includes a footer link to the current FTC Legal Library search so editors can check manually.
+
+---
+
 ## How to use these cheatsheets
 
 **Code Claude:**
