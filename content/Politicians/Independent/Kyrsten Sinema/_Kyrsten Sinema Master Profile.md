@@ -32,7 +32,7 @@ opposes: >-
 
 related: [[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · [[_Chuck Schumer Master Profile]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]]
 
-donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Industry]]
+donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Industry]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]]
 
 profile-status:: ready
 
