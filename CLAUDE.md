@@ -107,6 +107,28 @@ The Donor Map (thedonormap.org) — open-source political donor intelligence dat
 
 ## Frontmatter Schema
 
+### Frontmatter is the ONLY source of truth for structured fields
+
+**All structured profile data lives in YAML frontmatter.** Never in body dataview inline fields (`field:: value`). This includes:
+
+- `content-readiness`, `profile-status`, `research-status`, `readiness`
+- `related`, `donors`, `opposes`, `politicians-funded`, `politicians-opposed`, `top-donors`
+- `source-tier`, `source-types`, `corroboration-count`, `known-gaps`
+- Any other schema field listed below
+
+**Why:** Dual sources of truth caused major data drift in the vault (discovered 2026-04-09): 535 profiles had inline `content-readiness::` disagreeing with frontmatter `content-readiness:`; 632 profiles had `related::` in the body containing completely different links from frontmatter `related:`. Two systems, two sources, no way to tell which was correct. Consolidated into frontmatter-only.
+
+**Rules for both Claudes:**
+1. When adding or editing structured data on a profile, write it to frontmatter. Never create body `field:: value` lines.
+2. When reviewing profiles, if you encounter a body `field:: value` line, **merge its content into frontmatter and delete the body line**. Never leave both.
+3. `related:` field values should be strings in the format `"[[Link 1]] · [[Link 2|Alias]] · [[Link 3]]"` — preserves display aliases and is consistent with existing vault convention.
+4. Scripts and pipelines (Code Claude's lane) must only read from and write to frontmatter for structured fields. Never to body inline fields.
+5. Obsidian dataview inline syntax (`field:: value`) is legacy. If you see it on a profile, it's a bug to fix, not a feature to use.
+
+**Exception:** Dataview `table` / `query` code blocks inside fenced ```` ```dataview ```` blocks are fine — those are queries, not data storage.
+
+---
+
 **Politician profiles:**
 ```yaml
 title, type (politician), party, chamber, state, state-abbr, district,
@@ -181,7 +203,26 @@ When you resolve a note, update its status to `done` with `resolved-by` and `res
 David triages URLs in the Ops app URL Manager. When he saves:
 - **Broken URLs** → get `~~strikethrough~~` in the profile markdown (Archived per Vault Rules)
 - **Unsure URLs** → get `(NEEDS REVIEW)` tag in the profile
-- Both Claudes should check for `(NEEDS REVIEW)` tags and resolve them
+- Both Claudes should flag these for David, not resolve them
+
+### URL fixing is Editor-only (David)
+
+**Neither Research Claude nor Code Claude fixes, hunts, replaces, or verifies source URLs. David handles all URL work personally.**
+
+This includes:
+- Broken URL replacement (no URL searching, no substitute hunting)
+- `(URL NEEDED)`, `(UNVERIFIED)`, `(NEEDS REVIEW)` tag resolution
+- Browser-based URL verification
+- Running the `url-fixer` skill — **do not invoke this skill**
+- Any URL triage beyond flagging
+
+**What both Claudes do instead:**
+- Leave broken/missing URLs tagged `(URL NEEDED)` or `~~strikethrough~~` them in the Archived sources section
+- Document the gap in `known-gaps` frontmatter
+- Flag counts in Session State (e.g., "AOC has 5 URL NEEDED blocking verified promotion")
+- **Never** substitute a different URL, search for replacements, or run url-fixer — even when offered
+
+**Why:** David verifies URLs personally to ensure source integrity. Automated URL hunting by Claude risks citing wrong entities (wrong FEC IDs, title/URL mismatches, dead aggregators). URL verification is an editorial control, not a task to delegate. See `content/Vault Rules.md` for the canonical rule.
 
 ### What NOT to change in ops/
 The `ops/` directory is David's app. Don't modify it unless David specifically asks. It has its own `package.json`, `node_modules`, and Next.js config. It doesn't affect the Quartz site build.
