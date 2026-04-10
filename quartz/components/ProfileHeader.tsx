@@ -39,9 +39,25 @@ const ProfileHeader: QuartzComponent = ({
     : type === "donor" ? "ph-type-donor"
     : "ph-type-other"
 
-  // Say vs Pay data from frontmatter
-  const svp = fm?.["say-vs-pay"] as any
-  const svpJson = svp ? JSON.stringify(svp) : ""
+  // Build position line
+  const chamber = String(fm?.chamber ?? "")
+  const state = String(fm?.state ?? "")
+  const sector = String(fm?.sector ?? "")
+  const entityType = String(fm?.["entity-type"] ?? "")
+
+  let positionLine = ""
+  if (type === "politician") {
+    const parts = []
+    if (chamber && chamber !== "undefined") parts.push(chamber)
+    if (partyLabel) parts.push(partyLabel)
+    if (state && state !== "undefined") parts.push(`from ${state}`)
+    positionLine = parts.join(" ")
+  } else {
+    const parts = []
+    if (entityType && entityType !== "undefined" && entityType !== "Individual Donor") parts.push(entityType)
+    if (sector && sector !== "undefined") parts.push(sector)
+    positionLine = parts.join(" · ")
+  }
 
   return (
     <div class={classNames(displayClass, "ph-header")} data-profile-type={type}>
@@ -51,12 +67,11 @@ const ProfileHeader: QuartzComponent = ({
         )}
         <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
       </div>
-      {lastUpdated && (
-        <div class="ph-meta">UPDATED {lastUpdated}</div>
+      {positionLine && (
+        <div class="ph-position">{positionLine}</div>
       )}
-      {svpJson && (
-        <div id="svp-data" data-svp={svpJson} style="display:none" />
-      )}
+      <div id="ph-thesis" class="ph-thesis" style={{ display: "none" }}></div>
+      {/* say-vs-pay now handled by ContradictionCard component (server-side) */}
     </div>
   )
 }
@@ -334,15 +349,40 @@ function enhanceTables() {
 }
 
 wrapProfileSections();
+extractThesis();
 hideDataviewFields();
 hideDuplicateNotices();
-renderSayVsPay();
 enhanceTables();
 document.addEventListener('nav', function() {
   var art = document.querySelector('article');
   if (art) art.dataset.sectionsWrapped = '';
-  setTimeout(function() { wrapProfileSections(); hideDataviewFields(); hideDuplicateNotices(); renderSayVsPay(); enhanceTables(); animateProfile(); }, 100);
+  setTimeout(function() { wrapProfileSections(); extractThesis(); hideDataviewFields(); hideDuplicateNotices(); enhanceTables(); animateProfile(); }, 100);
 });
+
+// ─── Thesis extraction ───
+function extractThesis() {
+  var thesisDiv = document.getElementById('ph-thesis');
+  if (!thesisDiv) return;
+
+  // Find the Central Thesis section card
+  var thesisCard = document.querySelector('.psc-thesis');
+  if (!thesisCard) return;
+
+  // Get first paragraph text
+  var firstP = thesisCard.querySelector('p');
+  if (!firstP || !firstP.textContent) return;
+
+  var text = firstP.textContent.trim();
+  // Truncate at sentence boundary around 200 chars
+  if (text.length > 220) {
+    var cut = text.lastIndexOf('.', 220);
+    if (cut > 100) text = text.substring(0, cut + 1);
+    else text = text.substring(0, 220) + '...';
+  }
+
+  thesisDiv.textContent = text;
+  thesisDiv.style.display = 'block';
+}
 
 // ─── Profile page animations ───
 function animateProfile() {

@@ -27,6 +27,7 @@ import DonorMapSidebar from "./DonorMapSidebar"
 import InteractiveGraphs from "./InteractiveGraphs"
 import LandingPage from "./LandingPage"
 import DiscoveryPanel from "./DiscoveryPanel"
+import ContradictionCard from "./ContradictionCard"
 import EvidencePanel from "./EvidencePanel"
 import IssueExplorer from "./IssueExplorer"
 import PowerRankings from "./PowerRankings"
@@ -49,6 +50,7 @@ import AdminBar from "./AdminBar"
 export {
   ArticleTitle,
   DiscoveryPanel,
+  ContradictionCard,
   EvidencePanel,
   IssueExplorer,
   Content,
