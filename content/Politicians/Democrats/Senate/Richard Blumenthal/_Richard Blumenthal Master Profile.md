@@ -23,19 +23,7 @@ bills-cosponsored: 625
 website: "https://www.blumenthal.senate.gov"
 phone: "202-224-2823"
 stock-trades: 50
-doj-press-mentions: "264349"
 last-enriched: "2026-04-07"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
 donors: "[[Google - Alphabet]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Jerry Moran Master Profile|Jerry Moran]] · [[_Ed Markey Master Profile|Ed Markey]] · [[_Donald Trump Master Profile|Trump]]"
 ---
@@ -239,24 +227,7 @@ The analytical interest is the personal wealth dimension. Blumenthal is a $100M+
 <!-- auto:stock-trades end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264349 |
-| DOJ Components | Civil Rights Division, Cyber Division (FBI), Federal Bureau of Investigation (FBI), National Security Division (NSD), USAO - Florida, Middle, USAO - Florida, Northern +8 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Illinois man pleads guilty to traveling to Zanesville to engage in sex acts with minor after meeting online](https://www.justice.gov/usao-sdoh/pr/illinois-man-pleads-guilty-traveling-zanesville-engage-sex-acts-minor-after-meeting) — USAO - Ohio, Southern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Tax preparer indicted for filing false tax returns causing thousands in fraudulent claims](https://www.justice.gov/usao-sdtx/pr/tax-preparer-indicted-filing-false-tax-returns-causing-thousands-fraudulent-claims) — USAO - Texas, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Orleans Parish Resident Sentenced to 144 Months for Assault on a Postal Employee and Felon in Possession of a Firearm](https://www.justice.gov/usao-edla/pr/orleans-parish-resident-sentenced-144-months-assault-postal-employee-and-felon) — USAO - Louisiana, Eastern
-- ... and 264,343 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Richard%20Blumenthal%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ## Voting Record
 <!-- auto:voting-record start -->

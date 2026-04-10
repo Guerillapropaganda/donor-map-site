@@ -25,18 +25,6 @@ court-jurisdictions:
 nonprofit-status: "501(c)(4)"
 total-revenue: 13380498
 total-assets: 4294171
-doj-press-mentions: "264310"
-doj-components:
-  - "Civil Rights Division"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Kentucky, Eastern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
-  - "USAO - Ohio, Northern"
-  - "USAO - Ohio, Southern"
 related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]]"
 ---
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson
@@ -214,21 +202,4 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 <!-- auto:nonprofit-990 end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264310 |
-| DOJ Components | Civil Rights Division, USAO - Florida, Middle, USAO - Florida, Northern, USAO - Kentucky, Eastern, USAO - Louisiana, Eastern, USAO - Massachusetts +5 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) — USAO - New York, Northern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) — USAO - Ohio, Southern
-- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) — USAO - Ohio, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) — USAO - Massachusetts
-- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) — USAO - Massachusetts
-- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) — USAO - Massachusetts
-- ... and 264,304 more
-
-- [Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Republican%20Jewish%20Coalition%22&sort=date) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

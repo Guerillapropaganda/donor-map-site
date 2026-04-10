@@ -21,19 +21,7 @@ top-donors:
 govtrack-id: 412733
 bills-sponsored: 0
 bills-cosponsored: 0
-doj-press-mentions: '264312'
 last-enriched: "2026-04-08"
-doj-components:
-  - Civil Rights Division
-  - 'USAO - Florida, Middle'
-  - 'USAO - Florida, Northern'
-  - 'USAO - Kentucky, Eastern'
-  - 'USAO - Louisiana, Eastern'
-  - USAO - Massachusetts
-  - 'USAO - Missouri, Western'
-  - 'USAO - New York, Northern'
-  - 'USAO - Ohio, Northern'
-  - 'USAO - Ohio, Southern'
 opposes: "[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]]"
 donors: "[[Elon Musk]] · [[Peter Thiel]] · [[Miriam Adelson]] · [[Jeffrey Yass]] · [[Timothy Mellon]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]] · [[GEO Group]]"
 related: "[[The Culture War Economy - Who Profits From Division]] · [[Vivek Ramaswamy Master Profile]] · [[_Chad Bianco Master Profile]] · [[Jeff Yass]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[Rupert Murdoch]] · [[CoreCivic]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Trump Donor Network - The Full Map]] · [[Term 1 vs Term 2 - Trump Comparison]] · [[Trump Crypto - The President as Personal Profiteer]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Palantir State - Surveillance as Policy]] · [[Immigration Enforcement - The Detention Economy]] · [[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Ken Griffin]]"
@@ -371,24 +359,7 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 <!-- auto:govtrack end -->
 
 ### DOJ Press Releases
-<!-- auto:doj-press start -->
-| Metric | Value |
-|--------|-------|
-| DOJ Press Mentions | 264312 |
-| DOJ Components | Civil Rights Division, USAO - Florida, Middle, USAO - Florida, Northern, USAO - Kentucky, Eastern, USAO - Louisiana, Eastern, USAO - Massachusetts +5 more |
-
-**Recent press releases:**
-
-- 2026-04-07 — [Oneida County Man Pleads Guilty to Money Order Fraud](https://www.justice.gov/usao-ndny/pr/oneida-county-man-pleads-guilty-money-order-fraud) (VERIFIED) — USAO - New York, Northern
-- 2026-04-07 — [Columbus man pleads guilty to cyberstalking exes, creating AI-generated obscene material of adults &amp; children](https://www.justice.gov/usao-sdoh/pr/columbus-man-pleads-guilty-cyberstalking-exes-creating-ai-generated-obscene-material) (VERIFIED) — USAO - Ohio, Southern
-- 2026-04-07 — [Former financial advisor sentenced to 5 years in prison for running $8.6M Ponzi scheme](https://www.justice.gov/usao-sdoh/pr/former-financial-advisor-sentenced-5-years-prison-running-86m-ponzi-scheme) (VERIFIED) — USAO - Ohio, Southern
-- 2026-04-07 — [Former Post Office Employee Sentenced for Mail Theft](https://www.justice.gov/usao-ma/pr/former-post-office-employee-sentenced-mail-theft) (VERIFIED) — USAO - Massachusetts
-- 2026-04-07 — [Two Men Plead Guilty to Cocaine Trafficking](https://www.justice.gov/usao-ma/pr/two-men-plead-guilty-cocaine-trafficking) (VERIFIED) — USAO - Massachusetts
-- 2026-04-07 — [H Block Gang Associate Sentenced to More Than Four Years in Prison for Drug Conspiracy](https://www.justice.gov/usao-ma/pr/h-block-gang-associate-sentenced-more-four-years-prison-drug-conspiracy) (VERIFIED) — USAO - Massachusetts
-- ... and 264,306 more
-
-- ~~[Source: DOJ Press Releases](https://www.justice.gov/news?query=%22Donald%20Trump%22&sort=date)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-<!-- auto:doj-press end -->
+<!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -12,19 +12,7 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
-doj-press-mentions: "264457"
 last-enriched: "2026-04-09"
-doj-components:
-  - "Criminal - Human Rights and Special Prosecution Section"
-  - "Criminal - Office of International Affairs"
-  - "Criminal Division"
-  - "Federal Bureau of Investigation (FBI)"
-  - "USAO - Florida, Middle"
-  - "USAO - Idaho"
-  - "USAO - Massachusetts"
-  - "USAO - Michigan, Western"
-  - "USAO - Minnesota"
-  - "USAO - New Jersey"
 ---
 
 #redirect

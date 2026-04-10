@@ -14,19 +14,7 @@ source-types:
 known-gaps:
   - No FEC committee data (operates through individual contributions, not registered PAC)
   - Pipeline false positives RESOLVED 2026-04-10 by Code Claude: DOJ sanity cap, SAM validation, NHTSA auto-adjacent filter deployed. Auto-blocks stripped.
-doj-press-mentions: "264349"
 last-enriched: "2026-04-08"
-doj-components:
-  - "Civil Rights Division"
-  - "Cyber Division (FBI)"
-  - "Federal Bureau of Investigation (FBI)"
-  - "National Security Division (NSD)"
-  - "USAO - Florida, Middle"
-  - "USAO - Florida, Northern"
-  - "USAO - Louisiana, Eastern"
-  - "USAO - Massachusetts"
-  - "USAO - Missouri, Western"
-  - "USAO - New York, Northern"
 lei: "549300JMMSS9C5S2HO30"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
