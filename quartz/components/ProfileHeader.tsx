@@ -59,19 +59,87 @@ const ProfileHeader: QuartzComponent = ({
     positionLine = parts.join(" · ")
   }
 
+  // ─── #1: Total raised / career total ───
+  const totalReceived = String(fm?.["total-received"] ?? "")
+  const careerTotal = String(fm?.["career-total"] ?? "")
+  const lobbyingSpend = String(fm?.["lobbying-spend"] ?? "")
+  const moneyDisplay = careerTotal && careerTotal !== "undefined" ? careerTotal
+    : totalReceived && totalReceived !== "undefined" ? totalReceived
+    : ""
+  // For donors, show lobbying spend
+  const donorMoneyDisplay = lobbyingSpend && lobbyingSpend !== "undefined" && lobbyingSpend !== "0"
+    ? `$${Number(lobbyingSpend).toLocaleString()} lobbying`
+    : ""
+
+  // ─── #3: Key stat (big number) ───
+  const billsSponsored = Number(fm?.["bills-sponsored"] ?? 0)
+  const billsCosponsored = Number(fm?.["bills-cosponsored"] ?? 0)
+  const polsFunded = Array.isArray(fm?.["politicians-funded"]) ? (fm["politicians-funded"] as string[]).length : 0
+  let keyStat = ""
+  let keyStatLabel = ""
+  if (type === "politician" && billsSponsored > 0) {
+    keyStat = String(billsSponsored)
+    keyStatLabel = "BILLS SPONSORED"
+  } else if ((type === "donor" || type === "corporation") && polsFunded > 0) {
+    keyStat = String(polsFunded)
+    keyStatLabel = "POLITICIANS FUNDED"
+  }
+
+  // ─── #4: Source count dot ───
+  const rawContent = fileData.text ?? ""
+  const sourceCount = (rawContent.match(/\(Tier [1-4]\)/gi) || []).length
+    || (rawContent.match(/https?:\/\/[^\s)\]]+/g) || []).length
+  const sourceDotClass = sourceCount >= 8 ? "ph-dot-green"
+    : sourceCount >= 3 ? "ph-dot-yellow"
+    : "ph-dot-red"
+
+  // ─── #5: Top donors ticker ───
+  const topDonors = Array.isArray(fm?.["top-donors"]) ? (fm["top-donors"] as string[]).slice(0, 5) : []
+
   return (
     <div class={classNames(displayClass, "ph-header")} data-profile-type={type}>
-      <div class="ph-badges">
-        {partyKey && (
-          <span class={`ph-party-dot ph-party-${partyKey.toLowerCase()}`} title={partyLabel}></span>
+      {/* Row 1: Badges + money raised */}
+      <div class="ph-row-top">
+        <div class="ph-badges">
+          <span class={`ph-source-dot ${sourceDotClass}`} title={`${sourceCount} sources`}></span>
+          {partyKey && (
+            <span class={`ph-party-dot ph-party-${partyKey.toLowerCase()}`} title={partyLabel}></span>
+          )}
+          <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
+        </div>
+        {(moneyDisplay || donorMoneyDisplay) && (
+          <span class="ph-money">{moneyDisplay || donorMoneyDisplay}</span>
         )}
-        <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
       </div>
-      {positionLine && (
-        <div class="ph-position">{positionLine}</div>
-      )}
+
+      {/* Row 2: Position + key stat */}
+      <div class="ph-row-mid">
+        {positionLine && (
+          <div class="ph-position">{positionLine}</div>
+        )}
+        {keyStat && (
+          <div class="ph-key-stat">
+            <span class="ph-key-stat-num">{keyStat}</span>
+            <span class="ph-key-stat-label">{keyStatLabel}</span>
+          </div>
+        )}
+      </div>
+
+      {/* Row 3: Thesis (populated by client JS) */}
       <div id="ph-thesis" class="ph-thesis" style={{ display: "none" }}></div>
-      {/* say-vs-pay now handled by ContradictionCard component (server-side) */}
+
+      {/* Row 4: Top donors ticker */}
+      {topDonors.length > 0 && type === "politician" && (
+        <div class="ph-donors-ticker">
+          <span class="ph-donors-label">TOP DONORS</span>
+          {topDonors.map((d, i) => (
+            <span class="ph-donor-item">
+              {i > 0 && <span class="ph-donor-sep">·</span>}
+              {String(d).replace(/\[\[/g, "").replace(/\]\]/g, "").split("|")[0]}
+            </span>
+          ))}
+        </div>
+      )}
     </div>
   )
 }
