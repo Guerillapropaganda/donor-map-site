@@ -22,7 +22,9 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-opposes: '[[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]]'
+opposes: >-
+  [[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] ·
+  [[AMERICAN FUTURE FUND]]
 ---
 
 
