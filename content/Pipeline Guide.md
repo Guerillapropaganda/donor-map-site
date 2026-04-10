@@ -570,6 +570,24 @@ All 12 priority pipelines completed 2026-04-10. Refresh quarterly.
 
 **Vault convention:** FEC URLs in profiles should always use canonical committee/candidate page format, never complex receipts search URLs (which are unstable and often fail to load).
 
+---
+
+**`/candidates/totals/?sort=-cycle` returns HTTP 422 (fixed 2026-04-11):** `scripts/fec-summary-pipeline.cjs` was requesting the candidates/totals endpoint with `sort=-cycle`, but the FEC API does NOT allow sorting on `cycle`. Valid sort fields on `/candidates/totals/` (per 422 error body verified 2026-04-11):
+
+```
+election_year, name, party, party_full, state, office, district,
+receipts, disbursements, individual_itemized_contributions,
+candidate_id
+```
+
+Every fec-summary request was failing with HTTP 422 and returning `null` totals, so every profile silently reported "No financial totals available". **Fix:** use `sort=-election_year` instead (semantically equivalent — election_year increments monotonically with each 2-year cycle).
+
+---
+
+**Vault data bug: Katie Porter's `fec-candidate-id` frontmatter is wrong (flagged 2026-04-11, NOT yet fixed):** Her profile has `fec-candidate-id: H8CA45076`. That ID returns 0 results from both `/candidate/H8CA45076/` and `/candidate/H8CA45076/totals/`. The correct FEC candidate ID for her is **`H8CA45130`** (legal name: "PORTER, KATHERINE", House cycles 2018, 2020, 2022, 2024 — verified via `/candidates/search/?q=Porter&state=CA&office=H`). She also ran for Senate in 2024 under a separate Senate candidate ID starting with `S`.
+
+This is not a pipeline bug — it's a vault frontmatter data error. The fec-summary pipeline is working correctly (trusts the frontmatter ID, queries it, gets 0 results, reports "No financial totals available"). **Action item:** search the vault for other profiles with `fec-candidate-id` values that return 0 on the FEC API and fix them. A one-off `scripts/verify-fec-candidate-ids.cjs` would scan the entire vault and list all mismatches — worth building before cc_07 runs enrich-everything.
+
 ## Congress.gov API
 **Last verified:** 2026-04-10
 
@@ -784,6 +802,30 @@ All 12 priority pipelines completed 2026-04-10. Refresh quarterly.
 **Quality check rule:** If a Congress.gov pipeline run reports "Not found" for more than ~5% of current congressional profiles without an explicit `bioguide-id` override, investigate immediately — it means either the `/member/congress/{N}/{stateCode}` endpoint has been retired, or the `CURRENT_CONGRESS` constant in the pipeline needs bumping (January of odd years).
 
 **Do NOT use on the `/member` collection:** `query`, `state`, `stateCode`, `district`, `party`, or any other filter param you might expect from a REST API. They are accepted without error and silently ignored. Use path parameters instead: `/member/{bioguideId}`, `/member/congress/{N}`, `/member/congress/{N}/{stateCode}`, `/member/congress/{N}/{stateCode}/{district}`.
+
+---
+
+**Committee membership is NOT exposed by the Congress.gov v3 API at all (discovered + worked around 2026-04-11):** Neither `/member/{bioguideId}` nor `/committee/{chamber}/{systemCode}` returns committee member lists. Verified 2026-04-11 against Bernie Sanders (S000033) and the Senate Budget Committee (ssbu00):
+
+- `/member/S000033` returns: `addressInformation`, `bioguideId`, `birthYear`, `cosponsoredLegislation`, `currentMember`, `depiction`, `directOrderName`, `firstName`, `honorificName`, `invertedOrderName`, `lastName`, `nickName`, `officialWebsiteUrl`, `partyHistory`, `previousNames`, `sponsoredLegislation`, `state`, `terms`, `updateDate`. **No `committees` field.**
+- `/committee/senate/ssbu00` returns: `bills`, `committeeWebsiteUrl`, `communications`, `history`, `isCurrent`, `nominations`, `reports`, `systemCode`, `type`, `updateDate`. **No `members` field.**
+
+The old `committee-pipeline.cjs` ran a Strategy 3 loop that iterated committees and checked each committee's member list — but since that list is never returned, every politician got 0 assignments after 33 wasted API calls. A stray `"last-enriched": today(),` on a bare line (line 448) compounded the problem by causing a `SyntaxError: Unexpected token ':'` that prevented the pipeline from parsing at all.
+
+**Engine fix:** `scripts/committee-pipeline.cjs`:
+- Syntax error fixed (brace placement in the `updates = {}` literal).
+- `DEFAULT_CONGRESS = 119` (current, 2025–2027) added so the previously-empty `&congress=` path parameter no longer produces "nullth Congress" URLs. Bump alongside `CURRENT_CONGRESS` in `congress-pipeline.cjs` every January of odd years.
+- `fetchCommitteeAssignments()` rewritten to use **GovTrack** as the data source:
+  ```
+  GET https://www.govtrack.us/api/v2/committee_member?person={govtrack_id}&limit=100
+  ```
+  GovTrack tracks committee membership with roles (`member`, `chair`, `ranking_member`, `exofficio`) and parent-committee relationships for subcommittees. No API key needed.
+- `searchPerson` step before the committee fetch uses the same nickname-aware last-name matching as `govtrack-pipeline.cjs` (Bernie↔Bernard, Jim↔James, …).
+- `current` filter is NOT supported on the GovTrack `committee_member` endpoint — passing it returns HTTP 400 `FieldError("Cannot resolve keyword 'current'")`. The endpoint returns only current assignments by default; historical membership lives in a separate endpoint.
+
+**Verified working post-fix:** Bernie Sanders → 5 committees (Environment, Finance, HELP, VA, Budget) + 9 subcommittees, 14 total assignments, 2 API calls (vs. 33 in the broken version).
+
+**Quality check rule:** If a sitting member of Congress shows 0 committees in their auto-block, it's almost certainly a pipeline regression, not reality — every current member serves on at least one committee. Watch for this as a Phase 1 data-quality metric.
 
 ## Senate LDA API
 **Last verified:** 2026-04-10
@@ -1277,6 +1319,25 @@ is_excluded = data.get("totalRecords", 0) > 0
 **Vault cleanup:** QVT Financial manually stripped of `auto:sam-contracts` (7670 fake entries) on 2026-04-10. Other potentially-affected entities should be spot-checked.
 
 **Red flag for editorial review:** If an entity with more than 100 federal contracts is a hedge fund, pure financial firm, think tank, or similar non-contracting entity — suspect false positive. Spot-check contractor legal names against entity title.
+
+---
+
+**Wrong awardee JSON path made the sanity check fire on everything (fixed 2026-04-11):** The `summarizeContracts()` validator in `scripts/sam-pipeline.cjs` was reading awardee names from `c.coreData?.awardeeOrRecipient?.legalBusinessName` — a path that **does not exist** in the actual SAM.gov `/contract-awards/v1/search` response schema. Every record's `coreData` only contains contracting-organization data (`federalOrganization`, `acquisitionData`, `legislativeMandates`, `principalPlaceOfPerformance`, `productOrServiceInformation`, …) — no awardee info at all.
+
+The real awardee names live at `awardSummary[i].awardeeData.awardeeHeader.legalBusinessName` (plus `.awardeeName`, `.awardeeAlternateName`, `.awardeeNameFromContract`).
+
+Consequence: every record's computed awardee name was `""`. The token-hit matcher (`searchTokens.filter(t => awardeeName.includes(t)).length`) returned 0 for every sample, the 60% threshold failed, and `summarizeContracts()` returned `rejected: name-mismatch (0/5 matched)` for every profile. Verified 2026-04-11 against Kaiser Permanente, Tyson Foods, Nvidia — all three rejected despite being legitimate federal contractors.
+
+Secondary finding: the SAM.gov filter `awardeeLegalBusinessName=Kaiser+Permanente` is **very** loose — the top results for that query include "Kaiser, Curtis" (an individual trash-service proprietor with UEI NWG5RMQKE965) and "Kaiser Trash Service". SAM is matching on any substring containing "Kaiser". The post-filter match verification is not optional; it's the only thing protecting the vault from wrong-contractor contamination.
+
+**Engine fix:**
+- `summarizeContracts()` now reads awardee names from the correct `awardeeData.awardeeHeader.*` fields, with fallbacks to the old path and to a top-level `awardeeLegalBusinessName` in case SAM rotates the schema again.
+- Match logic now requires **every** significant search token (≥3 chars) to appear in at least one of the candidate awardee fields, not just 60% of tokens. This is what rejects "Kaiser, Curtis" when searching for "Kaiser Permanente" while still accepting "Kaiser Foundation Hospitals" or "Kaiser Permanente Inc".
+- 60% cross-sample threshold retained on top of the stricter per-record match.
+
+**Follow-up TODO:** Ideally SAM queries should use the Entity API (`/entity-information/v3/entities`) to resolve a UEI first, then filter contract searches by `awardeeUEI=<exact>` instead of by legal business name. UEIs are stable unique identifiers and bypass the fuzzy name matching entirely. Not yet implemented because the Entity API uses a different auth path (header instead of query param) and is rate-limited separately.
+
+**Quality check rule:** If a vault profile's `auto:sam-contracts` block shows a small number of contracts (under 20) and the top awardee legal names don't obviously correspond to the profile, suspect the fuzzy-match problem and audit before citing as Tier 1.
 
 ## ProPublica Nonprofit Explorer API
 **Last verified:** 2026-04-10
@@ -2206,6 +2267,26 @@ For the political donor / corporate verification use case: require `registration
 
 **Quality check rule:** Any `doj-press-mentions` count greater than 10,000 for a single entity is almost certainly the API index-size bug. Reject. Any count greater than 1,000 for a sitting politician or small nonprofit should be spot-checked against a sample of 3 press releases to verify they actually mention the entity.
 
+---
+
+**DOJ Press API is DEAD and pipeline is DISABLED (2026-04-11):** Two separate failures make `/api/v1/press_releases.json` unusable:
+
+1. The `keyword=X` filter parameter is **silently ignored**. Verified 2026-04-11 with `keyword=Raytheon`, `keyword="Raytheon"`, `keyword=asdfgibberish` — all three returned `metadata.resultset.count = 264553` (the entire press-release index) and the identical first result (a 2008 Mukasey statement). The previous sanity-cap detection catches and rejects the 264K count, but no query ever produces real results.
+
+2. The fallback HTML/JSON endpoints at `https://www.justice.gov/news?_format=json&search=X` are now protected by **Akamai Bot Manager**. Responses contain `bm-verify=...` meta-refresh redirects instead of data, and cannot be consumed programmatically without a headless browser.
+
+**Engine fix:** `scripts/doj-press-pipeline.cjs` is now guarded by a hard-fail at the top of `main()`. It prints a clear dead-API message and exits(0) so the parent `api-enrichment.yml` workflow doesn't fail the whole run. Override for local debugging only with `ALLOW_DOJ_DEAD=1`.
+
+**Vault cleanup:** Not yet done. Any existing `auto:doj-press` blocks written BEFORE the 2026-04-10 sanity cap may cite wrong press releases (the API returned the default index page as "results"). Blocks written AFTER the cap are safe (they're empty). Audit any profile with `doj-press-mentions > 50` — if the cited releases do not actually mention the profile, strip the block.
+
+**Alternative data sources for future rebuild:**
+- **CourtListener** — already have a pipeline, covers DOJ litigation
+- **DOJ Office of Public Affairs RSS** — if they publish one (none found 2026-04-11)
+- **Google Custom Search JSON API** with `site:justice.gov/opa/pr` — requires Google Cloud key + quota
+- **Direct scraping of `/opa/pr/` via headless browser** — bot-blocked, expensive
+
+**Quality check rule:** Treat the DOJ Press pipeline as dead until a replacement source is wired in. Do NOT remove the dead-guard until both the keyword-param bug and the Akamai bot gate are resolved upstream.
+
 ## NHTSA
 **Last verified:** 2026-04-10
 
@@ -2405,6 +2486,27 @@ For the political donor / corporate verification use case: require `registration
 
 **Quality check rule:** If a profile's type is not `corporation` in the auto sector (or NAICS 3361-3363), any `auto:nhtsa-recalls` block is almost certainly contaminated. Spot-check against the entity's actual industry before accepting.
 
+---
+
+**NHTSA `/recalls/recallsByManufacturer` and `/complaints/complaintsByManufacturer` endpoints went DEAD (fixed 2026-04-11):** As of 2026-04-11, both manufacturer-scoped endpoints on `api.nhtsa.gov` return HTTP 403 `{"message":"Missing Authentication Token"}`. The `/investigations?manufacturer=X` endpoint on the same host still works. The `/recalls/recallsByVehicle?make=X&model=Y&modelYear=Z` (vehicle-scoped, different query shape) also still works. Only the two manufacturer-scoped endpoints are affected. Verified 2026-04-11 against Honda.
+
+**Engine fix:** `fetchRecalls()` in `scripts/nhtsa-recalls-pipeline.cjs` now queries the **DOT Socrata open-data platform** instead:
+```
+https://datahub.transportation.gov/resource/6axg-epim.json
+  ?$where=upper(manufacturer) like '%HONDA%'
+  &$order=report_received_date DESC
+  &$limit=500
+```
+Socrata's `6axg-epim` resource is the "NHTSA Recalls" dataset, kept in sync with the same upstream feed that fed the dead `api.nhtsa.gov` endpoint. Records are normalized to the legacy PascalCase shape (`NHTSACampaignNumber`, `Manufacturer`, `Subject`, `Component`, `ReportReceivedDate`, `Summary`, `Consequence`, `Remedy`, `PotentialNumberofUnitsAffected`) inside `fetchRecalls()` so `parseRecall()` doesn't need to change.
+
+`fetchInvestigations()` is unchanged — the investigations endpoint on `api.nhtsa.gov` still works.
+
+`fetchComplaints()` is **stubbed to return []**. No drop-in replacement has been located — the ODI Complaints datasets listed in the Socrata catalog (`pve6-prnz`, `s84w-cs4i`, `8qbs-9p4c`, etc.) return HTTP 403 "no row or column access to non-tabular tables" when queried via SODA. When a working complaints source is found (possibly the ODI flat files at `static.nhtsa.gov/odi/ffdd/`), restore the fetch logic and update this section.
+
+**Verified working post-fix:** Ford Motor Company → 500 recalls (hit cap, latest "Incorrectly Installed Piston Circlips") + 10 investigations, 2 API calls total.
+
+**Quality check rule:** If a new NHTSA pipeline run reports 0 recalls for a known auto-industry profile that previously had recall data, check the console for HTTP 500 or 403 — an upstream Socrata outage or endpoint change would look like that. Watch for the `$where` filter getting rejected (Socrata occasionally rotates reserved-word behavior); if it starts failing, try `$select=count(*)` on the same endpoint to verify connectivity before diagnosing deeper.
+
 ## LobbyView (MIT)
 **Last verified:** 2026-04-10
 
@@ -2533,7 +2635,31 @@ Query parameters use PostgREST-style operators (e.g., `field=eq.VALUE`, `field=i
 
 **Upstream bug warning:** LobbyView inherits any Senate LDA data quality issues. The domain migration (lda.senate.gov to lda.gov) may affect LobbyView's refresh cadence. Check last-updated dates before trusting values.
 
+---
 
+**Wrong auth header + missing PostgREST operators + Firebase token (fixed 2026-04-11):** Three stacked bugs made the LobbyView pipeline fail silently for every profile:
+
+1. **Wrong HTTP auth header.** The pipeline was sending `Authorization: Token <x>` (some APIs use this shape). LobbyView actually expects a custom header named **`token`** (lowercase, no `Bearer`/`Token` prefix) containing the JWT value. Wrong header returned HTTP 400 with an empty response body.
+
+2. **Missing PostgREST operator prefixes.** LobbyView's REST is a PostgREST front. Every filter param requires an operator prefix:
+   - `client_name=eq.Apple` — exact match
+   - `client_name=ilike.*apple*` — case-insensitive wildcard
+   - `client_uuid=eq.<uuid>` — UUID lookup
+   Bare `client_name=Apple` returns HTTP 400. The pipeline was sending bare values for all four endpoints (`/api/clients`, `/api/reports`, `/api/networks`, `/api/issues`).
+
+3. **Expired Firebase ID token.** `LOBBYVIEWAPI=` in `donor-map-engine/.env` was a ~969-char JWT starting with `eyJhbGciOiJSUzI1NiI...`. Decoding revealed it was a Firebase ID token (`iss: https://securetoken.google.com/github-73504`) that expired on 2026-04-08 03:29 UTC, 2.6 days before the pipeline was tested.
+
+**Important distinction — DO NOT flag LobbyView JWTs as "wrong" by default.** LobbyView's official docs page (https://rest-api.lobbyview.org) hands out Firebase ID tokens as the intended auth mechanism — the "Your Token" box auto-refreshes a fresh JWT on every page load and users are explicitly told to paste it as the `token:` header. Firebase ID tokens live ~1 hour. The trap is that they look like "real API keys" in `.env` but decay silently.
+
+**Engine fix:**
+- `fetchLobbyView()` now sends `token: ${LV_KEY}` as the HTTP header.
+- `searchClient()` now sends `client_name=ilike.*${escaped}*`. Added a `postgrestSafe()` escaper that strips PostgREST-reserved `,` and `*` from input.
+- `getClientReports()`, `getClientNetworks()`, `getClientIssues()` all use `client_uuid=eq.${uuid}`.
+- Startup check decodes the JWT and hard-fails with a clear "token is EXPIRED" message + the "Your Token" URL, so future stale tokens don't burn the daily request budget.
+
+**Follow-up for CI/scheduled runs:** Scheduled runs via `api-enrichment.yml` cannot use a static JWT from GitHub Secrets — by the time a cron job fires, the token is stale. Need to either (a) wire the Firebase refresh-token flow into the workflow's `Create .env from secrets` step, or (b) swap LobbyView for BICAM/direct LDA as a CI-safe alternative. Not yet implemented.
+
+**API key sanity check (general lesson):** A long base64-ish string starting with `eyJ` and two `.` separators is a JWT. If you can decode the middle segment and see an `iss` claim pointing at `securetoken.google.com` / `accounts.google.com` / `appleid.apple.com`, the key is a session token from an OAuth/Firebase flow, not a traditional API key. Build decode-and-expiry-check logic into any pipeline that consumes JWT-style credentials — expired tokens should hard-fail with a loud error, not run silently and burn the quota. See `feedback_jwt_api_key_trap.md` in Claude's memory.
 
 ---
 
