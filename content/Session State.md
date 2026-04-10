@@ -12,39 +12,43 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
-Date: 2026-04-09 (Suggestions system complete + contradiction detection)
+Date: 2026-04-09 (Ops app professional polish + suggestions system + contradiction detection)
 
-Done:
-- **Suggestions API built from scratch** (`ops/src/app/api/suggestions/route.ts`) — GET with server-side filtering/pagination/search + POST handling 8 action types (approve, reject, defer, investigate, uninvestigate, undo, note)
-- **Suggestions scan API** (`ops/src/app/api/suggestions/scan/route.ts`) — triggers `scripts/relationship-discovery.cjs` from Ops UI
-- **Approve writes to vault** — adds `[[target]]` wikilink to profile frontmatter/body via gray-matter. When source has no vault file (FEC-IE PACs), writes to target profile instead. Stores sourcePath/targetTitle/relationshipType for undo.
-- **Undo reverses vault writes** — removes wikilink from profile, clears action from suggestion-actions.json
-- **Per-card notepad** — inline text input on every suggestion card, blur/Enter saves to `ops/data/suggestion-notes.json`, note badge on card header
-- **Priority research flag** — checkbox on each card. Manual flag = urgent priority. Approve auto-queues at normal priority. Writes to `ops/data/investigate-queue.json` + auto-generates `content/Admin Notes/investigate-queue.md` split into PRIORITY and Standard sections.
-- **Pending/All/History toggle** — replaced boolean checkbox with 3-way filter. History view shows acted-on cards with date + undo button.
-- **History stats** — "X approved, Y rejected, Z deferred" in suggestions header
-- **Search box** — debounced server-side name filter across source/target in 12K+ suggestions
-- **Compact mode** — toggle hides transparency/partisan meters + reasoning for fast triage
-- **Bulk select + batch actions** — checkboxes on pending cards, batch approve/reject/defer bar
-- **New Profiles: Flag for Research** — hover unnamed entities (PhRMA, Raytheon, Jeff Yass etc), click to send to Research Claude queue as urgent
-- **Partisan flow fix** — opposes connections now show attacker's party alignment, not target's. Patriots Prevail PAC (Dem) opposing Hawley (GOP) was showing "GOP-Aligned", now correctly shows "Dem-Aligned".
-- **Empty sourcePath fix** — FEC-IE PAC suggestions with no vault file were crashing with "EISDIR: illegal operation on a directory". Now writes to target profile instead.
-- **Contradiction detection** (`scripts/relationship-discovery.cjs`) — scanner flags when same committee has both Support > $100K and Oppose > $100K for same candidate. Found 4 contradiction cards across 2 pairs: NRA Political Victory Fund + National Right to Life PAC, both hedging on George W. Bush.
-- **Contradiction UI** — yellow star CONTRADICTION badge on card headers + detailed "BOTH SIDES" banner showing this-side amount, counterpart amount, total influence, and ratio.
-- **Vault Rules Section 3 updated** — added Contradiction Detection spec with role assignments for Code Claude and Research Claude. Contradictions are priority for class analysis.
-- **Memory saved** — `project_contradictions.md` for future sessions.
+Done (Suggestions System):
+- **Suggestions API** (`ops/src/app/api/suggestions/route.ts`) — GET with server-side filtering/pagination/search + POST handling 8 action types (approve, reject, defer, investigate, uninvestigate, undo, note)
+- **Approve writes to vault** via gray-matter. Empty sourcePath (FEC-IE PACs) writes to target profile instead.
+- **Undo reverses vault writes**. Per-card notepad. Priority research flag (manual=urgent, approve=normal auto-queue).
+- **Pending/All/History toggle**, history stats, search box, compact mode, bulk select + batch actions.
+- **New Profiles: Flag for Research** on unnamed entities.
+- **Partisan flow fix** — opposes now shows attacker's alignment, not target's.
+- **Contradiction detection** (`scripts/relationship-discovery.cjs`) — same entity funds AND opposes same candidate. 4 cards, 2 pairs (NRA + National Right to Life hedging on Bush).
+- **Contradiction UI** — yellow star badge + "BOTH SIDES" banner with amounts/ratio.
+- **Vault Rules Section 3** — Contradiction Detection spec with role assignments.
+
+Done (Ops App Polish):
+- **ToastProvider** (`ops/src/components/ToastProvider.tsx`) — global toast system with success/error/warning/info types, auto-dismiss, stack up to 3, slide-in animation. Wrapped in `ClientProviders.tsx`.
+- **Sidebar badges** (`ops/src/components/Sidebar.tsx`) — live count badges polling `/api/status` every 60s. Red on Alerts (critical count), amber on Notes (open count), green on Relationships (high pending suggestions).
+- **GET /api/status** (`ops/src/app/api/status/route.ts`) — lightweight endpoint returning alert/notes/suggestions/pipeline counts for sidebar badges.
+- **Dashboard overhaul** (`ops/src/app/page.tsx`) — Quick Actions row (Run Scan, Check URLs, Enrich Profiles, View Alerts), Vault Health circular gauge with verified/draft/raw breakdown, unified Activity Feed with actor colors and type filters.
+- **GET /api/activity** (`ops/src/app/api/activity/route.ts`) — aggregates git commits + suggestion actions + URL triages into unified feed with actor detection (David/Code Claude/Pipeline).
+- **Alerts upgrade** (`ops/src/app/alerts/page.tsx`) — sorted by severity then affected count, resolve/unresolve per alert (localStorage), show-resolved toggle, auto-refresh toggle (5min), full affected profiles list (no truncation).
+- **Editor upgrade** (`ops/src/app/editor/page.tsx`) — inline Add Field form replaces prompt(), unsaved changes beforeunload warning, duplicate field detection.
+- **Pipelines grid** (`ops/src/app/pipelines/page.tsx`) — 8 pipeline cards (FEC, Congress, GovTrack, LobbyView, Committee, Relationships, Federal Register, USASpending) with emoji icons, descriptions, hover-to-reveal Run buttons.
+- **Breadcrumbs** (`ops/src/components/Breadcrumbs.tsx`) — reusable component built, not yet wired to individual pages.
 
 Known issues:
-- Only 2 contradiction pairs found (both Bush). More will surface as vault grows.
-- Relationship discovery rules not yet added to Ops Rules tab.
+- Breadcrumbs component built but not wired to pages yet.
+- ToastProvider built but individual pages still use inline showToast (migration pending).
 - Scanner LOW noise still high (8,000+ wikilink mentions).
+- Only 2 contradiction pairs found (both Bush). More will surface as vault grows.
 
 Next session priorities:
-1. **Add relationship discovery rules to Ops Rules tab** — Section 3 from Vault Rules should display in Ops
+1. **Wire breadcrumbs** to all Ops pages + migrate pages to use global useToast()
 2. **Tune scanner** — reduce LOW noise from wikilink-mention strategy (8K+ results)
-3. **Build contradiction markers for website** — split-color graph lines, asterisk on profile widgets, power rankings, landing page split cards
-4. **Test all profile types after design reskin** — politician, donor, corporation, think tank colors/readability
-5. **Turn off construction mode** when GitHub Actions re-enabled
+3. **Build contradiction markers for website** — split-color graph lines, asterisk on profile widgets
+4. **Add relationship discovery rules to Ops Rules tab**
+5. **Test all profile types after design reskin** — politician, donor, corporation, think tank
+6. **Turn off construction mode** when GitHub Actions re-enabled
 
 ---
 
