@@ -306,6 +306,7 @@ export function readinessColor(status: string): string {
     case "draft": return "#f59e0b"    // amber — C
     case "ready": return "#10b981"    // green — B
     case "verified": return "#fbbf24" // gold — A+ (investigative standard)
+    case "s-tier": return "#a78bfa"   // violet — S (original investigation / story grade)
     default: return "#6b7280"
   }
 }
