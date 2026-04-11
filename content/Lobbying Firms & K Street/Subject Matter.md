@@ -1,7 +1,7 @@
 ---
 title: "Subject Matter (now Avoq)"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -9,6 +9,13 @@ annual-revenue: "$18.7M"
 lobbyist-count: 18
 revolving-door-pct: "72.2%"
 related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Capitol Counsel]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
+cross-vault-triangulation-count: 20
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #democratic #biden #bundling #tech #finance #crypto #healthcare #clean-energy #chinese-military

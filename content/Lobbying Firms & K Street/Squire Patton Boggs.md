@@ -1,7 +1,7 @@
 ---
 title: "Squire Patton Boggs"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -20,6 +20,12 @@ related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs — The
 lei: "259400PVBJ4RB4LUZ721"
 lei-jurisdiction: "PL"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
+cross-vault-triangulation-count: 3
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #defense #trade #appropriations #transportation #foreign-governments #revolving-door #bipartisan #fara

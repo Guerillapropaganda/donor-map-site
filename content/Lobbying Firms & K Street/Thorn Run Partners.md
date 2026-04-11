@@ -1,7 +1,7 @@
 ---
 title: "Thorn Run Partners"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -18,6 +18,13 @@ sec-form-types:
   - "PX14A6G"
   - "S-1"
   - "S-1/A"
+cross-vault-triangulation-count: 19
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #healthcare #pharma #defense #tech #telecom #appropriations #bipartisan

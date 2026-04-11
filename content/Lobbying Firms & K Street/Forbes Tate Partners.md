@@ -1,7 +1,7 @@
 ---
 title: "Forbes Tate Partners"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -15,12 +15,18 @@ fara-countries:
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Blackstone Group]] · [[Raytheon (RTX)|RTX Corp]] · [[_Lobbying Firms Framework]] · [[Thorn Run Partners]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Crossroads Strategies]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[K&L Gates]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
 court-cases: 6
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Eleventh Circuit"
   - "District Court, District of Columbia"
   - "District Court, N.D. Alabama"
   - "District Court, N.D. California"
   - "United States Bankruptcy Court, N.D. California"
+cross-vault-triangulation-count: 20
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #pharma #healthcare #tobacco #grassroots #tax-policy #telecom #defense #bipartisan-access #clinton-orbit

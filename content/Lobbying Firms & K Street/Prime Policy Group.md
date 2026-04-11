@@ -1,7 +1,7 @@
 ---
 title: "Prime Policy Group"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[Cassidy &
 ein: "841989534"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 120000
 total-assets: 2901
 fara-status: "registrant"
@@ -36,6 +38,10 @@ fara-countries:
   - "SOUTH AFRICA"
   - "UNITED ARAB EMIRATES"
   - "UNITED KINGDOM"
+cross-vault-triangulation-count: 18
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #defense #foreign-policy #energy #healthcare #bipartisan #republican-establishment #dictators

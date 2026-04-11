@@ -12,6 +12,106 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-11 late overnight (Phase 1 Day 3 close — S-tier plan full ship + parseWikilinks hotfix + first full A+ audit pass)
+
+### Theme
+Final stretch of the marathon 2026-04-11 day. Capped off the overnight S-tier work with: (1) browser-verified the grouped checklist UI on a politician profile in the ops preview server, (2) diagnosed and fixed a pre-existing `parseWikilinks` crash on array-shaped `related:` fields that was blocking the Ayanna Pressley profile detail page, (3) ran the first full janitor `--tier=a-plus --cohort --write` pass against the entire vault — 256 demotions + 124 `audit-a-plus-passed` stamps + cohort metrics on all 380 audited profiles. Also wrote a comprehensive project brief for David to hand off to another chat for S-tier / media-pipeline riffing.
+
+### Done — Browser verification of Step 4 grouped checklist
+
+- Restarted the preview server (previous SWC cache was stuck with a stale compile error)
+- Navigated to Koch Network donor profile → rendered cleanly with grouped layout, "CORE 5/8 (63%)" section visible
+- Navigated to Ayanna Pressley politician profile → surfaced a runtime `value.match is not a function` crash
+- Extracted stack trace via shadow DOM inspection: `src/app/profile/page.tsx:58 @ parseWikilinks`
+
+### Done — Hotfix: parseWikilinks defensive input handling (commit `c22110b4`, deploy `24274279849`)
+
+Pre-existing bug in `ops/src/app/profile/page.tsx::parseWikilinks`. The function signature was `(value: string)` but in practice received arrays from YAML-list `related:` fields. The old guard `if (!value) return []` didn't catch arrays (truthy), and `Array.prototype.match` doesn't exist, so the call crashed. Ayanna Pressley's profile has `related:` as a YAML list, reliably triggering it.
+
+Fix: signature changed to `(value: unknown)`. Now handles four shapes:
+- Falsy → `[]` (unchanged)
+- Array → recursive flatMap through each item → handles YAML lists
+- Non-string non-array → `[]` (defensive)
+- String → original `.match()` path
+
+Bug was latent for some time; surfaced only because this session touched the profile-loading code path indirectly (new fields added to Profile interface). Fix is 9 lines.
+
+Verified: Ayanna Pressley profile now renders with the full grouped Tier A/B/C/D + locked S-tier checklist. 10/27 items passing. Promotion blocker correctly shows "ready blocked — FEC fundraising data, Committee-relevant regulatory cross-ref +15 more". Screenshot captured as visual proof.
+
+### Done — First full janitor audit pass (commit `6fd0f141` / merge `fc06bb76`, deploy `24274692104`)
+
+Ran `node scripts/pipeline-janitor.cjs --tier=a-plus --cohort --write` against the full vault for the first time. This is the "run the janitor sweep on donors, corporations, PACs, lobbying-firms" task from the first session-save that was outstanding.
+
+**Results:**
+- 1753 profiles scanned
+- 380 ready/verified audited (non-exempt types)
+- **256 demoted ready→draft** — donors, corporations, PACs, lobbying-firms, think-tanks that had been promoted without pipeline data. Each got a plain-English [JANITOR] note explaining which check(s) failed.
+- **124 stamped `audit-a-plus-passed: 2026-04-11`** — these profiles passed every automated A+ check and are waiting ONLY on David's manual editorial sign-off. **This is the first-ever population of that new field.**
+- All 380 audited profiles stamped with `cross-vault-triangulation-count: N` (some 0, some >0 depending on network centrality)
+- Anomaly-flagged profiles got `anomaly-flags: [...]` populated (e.g., `total-received-3x-cohort-median`, `unusually-many-committees-N`)
+
+Merge required `-X theirs` to resolve ~41 conflicts from concurrent remote writes (enrichment pipeline auto-commits). Worktree version authoritative.
+
+### Done — Comprehensive project brief for David's chat handoff
+
+Wrote a ~2000-word brief describing the project architecture, readiness tier system, S-tier plan state, what's shipped, what's pending, where the media pipeline fits, and 6 riff prompts (media pipeline expansion, S-tier forcing function for media, donor-to-media flow tracking, cross-vault triangulation for media, blind spots the vault isn't catching, S-tier expansion candidates beyond Whitehouse). David will paste it into another chat tomorrow to riff on media pipeline ideas + S-tier expansion while he's away from dispatch.
+
+### Commits this final stretch
+
+Site repo (`donor-map-site`, branch `v4`):
+- `c22110b4` — Hotfix: parseWikilinks defensive input handling
+- `6fd0f141` → merge `fc06bb76` — Full janitor audit pass: 256 demotions + 124 A+ stamps
+- This session-save commit
+
+Deploys (all green):
+- `24274279849` — parseWikilinks hotfix
+- `24274692104` — Full audit pass
+
+### New vault state (final)
+
+```
+raw:         39
+draft:      904  (was 648; +256 from this audit)
+ready:      563  (was 819; -256 to draft)
+verified:     0
+s-tier:       0
+stamped:    124  (audit-a-plus-passed — NEW field, first population)
+```
+
+The 124 stamped profiles are the queue for David's next manual editorial sign-off pass. Mechanical A+ gates all pass — the narrative + class analysis review is the remaining gate.
+
+### Known issues / still outstanding
+
+- **124 profiles awaiting David's manual sign-off** to become A+ verified. This is a new queue — previously there was no automated way to identify "mechanically ready" profiles.
+- **Zero profiles at s-tier.** Infrastructure is complete, content is not. First S-tier candidate pass (Whitehouse recommended) is queued.
+- **Non-politician checklists still flat.** Donor, corporation, pac, lobbying-firm, media-profile, think-tank types don't yet have the Tier A/B/C/D grouped buildout. Only Congress politicians do.
+- **Media pipeline gaps** — FCC ownership database, podcast/YouTube revenue tracking, think-tank→media influence mapping, advertiser-boycott tracking, media-politician feedback loop — all listed in the brief David is riffing on.
+- **Quartz-side homepage gating** still pending. WeeklySpotlight, PowerRankings, LandingPage still feature curated `featured-date:` profiles regardless of tier. Migration to `getFeaturedPool()` happens when S-tier pool ≥ 3.
+- **ts/cjs helper drift lint** not implemented. The two copies of checklist-helpers and committee-pipeline-map stay in sync by hand.
+
+### Next session priorities (2026-04-12 Saturday night — David's return)
+
+1. **Review David's handoff-chat ideas** — the brief was written with 6 riff prompts on media pipeline + S-tier expansion. Whatever comes back drives the first work of the session.
+2. **First S-tier candidate depth pass on Sheldon Whitehouse.** His editorial notes already document 3 strong contradictions with dollar figures. Research Claude writes `angle:`, `exclusive-connections:`, `original-finding:`, `central-thesis:`, `story-grade:`. David reviews and sets `editorial-signoff-narrative:`. Run `node scripts/pipeline-janitor.cjs --tier=s --write` to stamp `audit-s-tier-passed: true`. Promote via the readiness API.
+3. **Review the 124 `audit-a-plus-passed` profiles for manual sign-off.** David opens the ops app, filters to audit-a-plus-passed, walks through each, signs off where ready.
+4. **Media pipeline v1** — whatever the other chat surfaces as high-value additions.
+5. **Research Claude depth passes** on the 17 bioguide-recovered profiles to add central-thesis / story-grade / lawyer-dispute fields.
+6. **Non-politician checklist tiering** — extend the grouped Tier A/B/C/D structure to donor and corporation types at minimum.
+
+### Session end state: fully verified + deployed
+- **All 6 S-tier plan steps shipped + deployed** (dbfe3336 → 2f837495)
+- **All 3 engine bugs fixed** (updateFrontmatter full-field, selectTargets reenrich, updateFrontmatter quote-escape)
+- **parseWikilinks crash fixed** — politician profile detail page loads clean
+- **First full janitor audit pass written through** — 256 demotions, 124 A+ stamps, cohort metrics on 380 profiles
+- **David has a complete project brief** to hand off to another chat for media pipeline + S-tier riffing
+- **Latest deploy:** `24274692104` ✓
+
+David checking out at 2026-04-11 21:25 local. Back tomorrow night.
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-11 overnight (Phase 1 Day 3 early — S-tier verification plan shipped in full, all 6 steps + engine fixes)
 
 ### Theme

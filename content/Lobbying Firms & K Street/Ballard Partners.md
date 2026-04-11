@@ -1,7 +1,7 @@
 ---
 title: "Ballard Partners"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ revolving-door-pct: "29.7%"
 related: "[[Palantir Technologies]] · [[GEO Group]] · [[JPMorgan Chase]] · [[UnitedHealth Group - Optum|UnitedHealth Group]] · [[Fossil Fuel Bloc]] · [[_Lobbying Firms Framework]] · [[K&L Gates]] · [[Brownstein Hyatt Farber Schreck]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Alpine Group]] · [[Forbes Tate Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[The DOJ as Political Weapon and Donor Shield]] · [[Qatar Lobbying and the Revolving Door to DOJ]]"
 court-cases: 33
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, D. Nevada"
   - "District Court, District of Columbia"
@@ -22,6 +24,10 @@ court-jurisdictions:
   - "United States Bankruptcy Court, S.D. Florida."
 fara-status: "registrant"
 fara-records: 1
+cross-vault-triangulation-count: 22
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #trump #revolving-door #fara #foreign-government #tech #defense #pharma #energy #crypto

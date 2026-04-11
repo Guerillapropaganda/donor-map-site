@@ -1,7 +1,7 @@
 ---
 title: "Brownstein Hyatt Farber Schreck"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ revolving-door-pct: "53.1%"
 related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Apollo Global Management]] · [[Palantir Technologies]] · [[PhRMA]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cassidy & Associates]] · [[Capitol Counsel]] · [[Ballard Partners]] · [[BGR Group]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[John Hickenlooper]]"
 federal-register-mentions: 6
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Antitrust Division"
   - "Consumer Product Safety Commission"
@@ -48,6 +50,10 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, District of Columbia"
+cross-vault-triangulation-count: 22
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #energy #real-estate #cannabis #gaming #foreign-lobbying #defense #pharma #tech

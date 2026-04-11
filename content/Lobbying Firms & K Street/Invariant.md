@@ -1,7 +1,7 @@
 ---
 title: "Invariant"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ lobbyist-count: 59
 revolving-door-pct: "54.2%"
 court-cases: 793
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, C.D. California"
@@ -51,6 +53,10 @@ sec-form-types:
   - "EX-99.2"
   - "FWP"
   - "NT 20-F"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #tech #defense #pharma-healthcare #finance #crypto #bipartisan-access

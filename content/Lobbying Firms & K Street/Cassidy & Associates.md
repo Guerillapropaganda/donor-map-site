@@ -1,7 +1,7 @@
 ---
 title: "Cassidy & Associates"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ revolving-door-pct: "70.6%"
 related: "[[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[Lockheed Martin]] · [[Prime Policy Group]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Crossroads Strategies]] · [[Ballard Partners]] · [[K&L Gates]] · [[Akin Gump Strauss Hauer & Feld]] · [[Subject Matter (now Avoq)]] · [[Thorn Run Partners]] · [[Mehlman Consulting]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Capitol Counsel]] · [[BGR Group]] · [[Alpine Group]]"
 court-cases: 7
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, D. Maryland"
   - "District Court, District of Columbia"
@@ -18,6 +20,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, S.D. New York"
+cross-vault-triangulation-count: 19
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #appropriations #earmarks #defense #energy #universities #bipartisan

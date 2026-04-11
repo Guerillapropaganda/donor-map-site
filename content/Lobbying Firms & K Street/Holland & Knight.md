@@ -1,7 +1,7 @@
 ---
 title: "Holland & Knight"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -23,6 +23,8 @@ related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [
 ein: "311472972"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 2407347
 total-assets: 2689293
 sec-filings: 9195
@@ -52,6 +54,10 @@ regulatory-agencies:
   - "Energy Department"
   - "Federal Communications Commission"
   - "Grain Inspection, Packers and Stockyards Administration"
+cross-vault-triangulation-count: 3
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #chemicals #defense #tech #healthcare #cannabis #trade #real-estate

@@ -1,7 +1,7 @@
 ---
 title: "K&L Gates"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ revolving-door-pct: "63.6%"
 ein: "387169824"
 nonprofit-status: "501(c)(9)"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 3025110
 total-assets: 74501
 fara-status: "registrant"
@@ -47,6 +49,10 @@ sec-form-types:
   - "EX-99.N.1"
   - "EX-99.N.2"
   - "POS EX"
+cross-vault-triangulation-count: 18
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #maritime #financial-services #energy #transportation #tech #steel #defense
