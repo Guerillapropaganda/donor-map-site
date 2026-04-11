@@ -7,7 +7,7 @@ last-updated: 2026-04-11
 source-tier: 1
 parent: null
 last-enriched: "2026-04-07"
-related: "[[Medicare for All - The Policy That Broke the Party]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[CNA - California Nurses Association]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[Buffy Wicks]]"
+related: "[[Medicare for All - The Policy That Broke the Party]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[CNA - California Nurses Association]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[Buffy Wicks]] · [[Anthony Rendon]]"
 ---
 #kalra #assemblymember #california #democrat #class-analysis #follow-the-money #single-payer #CalCare #san-jose #labor #criminal-justice #housing
 

@@ -37,7 +37,7 @@ court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Arizona"
   - "District Court, D. Idaho"
-related: "[[Janet Mills Master Profile]] · [[Senate Leadership Fund]] · [[Democratic Senatorial Campaign Committee]] · [[American Action Network]] · [[Congressional Leadership Fund]]"
+related: "[[Janet Mills Master Profile]] · [[Senate Leadership Fund]] · [[Democratic Senatorial Campaign Committee]] · [[American Action Network]] · [[Congressional Leadership Fund]] · [[Winning for Women PAC]]"
 sec-filings: 7585
 sec-form-types:
   - "10KSB"

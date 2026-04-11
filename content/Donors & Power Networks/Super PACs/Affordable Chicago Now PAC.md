@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Donna Miller Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elect Chicago Women PAC]] · [[United Democracy Project - UDP]]"
+related: "[[Donna Miller Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elect Chicago Women PAC]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]]"
 cross-vault-triangulation-count: 2
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

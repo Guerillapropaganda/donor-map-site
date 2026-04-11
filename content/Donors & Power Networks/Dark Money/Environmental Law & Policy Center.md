@@ -17,7 +17,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 total-revenue: 150007
 total-assets: 254525
-related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]]"
+related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]]"
 fara-status: "registrant"
 fara-records: 3
 fara-countries:

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[Immigration - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[Immigration - Donors and Backers]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]]"
 ---
 #newsom #labor #prop-22 #gig-workers #uber #lyft #doordash #instacart #ballot-measure #corporate-rollback #donor-class #silence #flip-history #follow-the-money
 

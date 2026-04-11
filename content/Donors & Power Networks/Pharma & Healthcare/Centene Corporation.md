@@ -68,7 +68,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
-related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]] · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[_Joe Manchin Master Profile|Manchin]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]]"
+related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]] · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[_Joe Manchin Master Profile|Manchin]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 top-federal-agency: "General Services Administration"
 top-naics-code: "624190"
 lei: "549300Z7JJ4TQSQGT333"

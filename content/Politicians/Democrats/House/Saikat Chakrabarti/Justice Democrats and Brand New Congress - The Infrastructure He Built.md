@@ -11,7 +11,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - No standalone Justice Democrats PAC master profile in Donors & Power Networks folder (currently exists only as this sub-note)
-related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Bush]] · [[_AOC Squad]] · [[Progressive PACs and Funding Networks]] · [[Summer Lee Master Profile]] · [[Rashida Tlaib]] · [[Nina Turner Master Profile]] · [[Ilhan Omar Master Profile]]"
+related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Bush]] · [[_AOC Squad]] · [[Progressive PACs and Funding Networks]] · [[Summer Lee Master Profile]] · [[Rashida Tlaib]] · [[Nina Turner Master Profile]] · [[Ilhan Omar Master Profile]] · [[Greg Casar Master Profile]]"
 ---
 #justice-democrats #brand-new-congress #pac #recruitment #casting-call #aoc #squad #class-analysis #follow-the-money
 

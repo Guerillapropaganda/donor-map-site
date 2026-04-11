@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Private Detention - AB 32]] · [[287(g) and the Sanctuary State Contradiction]] · [[Trump Resistance and the 2028 Play]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]]"
+related: "[[Private Detention - AB 32]] · [[287(g) and the Sanctuary State Contradiction]] · [[Trump Resistance and the 2028 Play]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]]"
 ---
 #newsom #immigration #sanctuary-state #sb54 #ice #enforcement-gap #rhetoric-vs-record #california-values-act
 

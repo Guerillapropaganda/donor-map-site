@@ -28,6 +28,7 @@ politicians-funded:
   - "Shontel Brown"
   - "Kamala Harris"
   - "Barack Obama"
+related: "[[Sherrod Brown]]"
 ---
 
 #larry-summers #wall-street #treasury #harvard #obama-advisor #economic-policy

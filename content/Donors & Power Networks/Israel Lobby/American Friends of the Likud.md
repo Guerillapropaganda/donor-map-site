@@ -9,7 +9,7 @@ sector: "Israel Lobby"
 entity-type: "Individual Donor"
 politicians-funded:
   - "Benjamin Netanyahu"
-related: "[[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]]"
+related: "[[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Blue Shield of California]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

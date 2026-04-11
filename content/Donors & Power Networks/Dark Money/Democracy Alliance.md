@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 total-political-spend: "$116,675"
-related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Media Matters]] · [[Center for American Progress]] · [[America Votes]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]]"
+related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Media Matters]] · [[Center for American Progress]] · [[America Votes]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Legal Sector Donors]]"
 ein: "204366413"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"
@@ -22,6 +22,8 @@ total-revenue: 615075
 total-assets: 280838
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
+lobbying-spend: 1422000
+lobbying-filings: 68
 ---
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor
 
@@ -222,3 +224,22 @@ The result: Democratic Party doesn't set its own strategy. Wealthy donor consens
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.4M |
+| Quarterly Filings | 68 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 17 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Advertising, Aerospace, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Defense, Energy/Nuclear, Environment/Superfund, Foreign Relations, Government Issues, Health Issues, Medicare/Medicaid, Pharmacy
+
+**Lobbying firms:** DEMOCRACY 21, DEMOCRACY SENTRY, DISABILITY COMMUNITY FOR DEMOCRACY, INC., FAHMY HUDOME INTERNATIONAL, LLC, FORZA DC, LLC, GEORGE H. DENISON, MISSION STRATEGIES LLC, PORT SIDE STRATEGIES, LLC, PROTECT DEMOCRACY UNITED (FORMERLY KNOWN AS UNITED TO PROTECT DEMOCRACY), SCHAERR JAFFE LLP, SIC GROUP USA LLC, SONOSKY, CHAMBERS, SACHSE, ENDRESON & PERRY, LLP, THE INGRAM GROUP LLC, THE MCKEON GROUP, INC., TIBER CREEK GROUP, VNF SOLUTIONS, LLC, WAXMAN STRATEGIES
+
+**Agencies contacted:** Election Assistance Commission (EAC), Executive Office of the President (EOP), Federal Bureau of Investigation (FBI), Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Justice, Dept of (DOJ), Natl Security Council (NSC), Office of Management & Budget (OMB) +4 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Democracy%20Alliance) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -271,6 +271,13 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-11 11:21 UTC — 1 profile
+
+**LDA (Senate Lobbying) — 1 profile:**
+- Democracy Alliance — 1.4M spend, 68 filings
+
+---
 ## 2026-04-11 10:06 UTC — 17 profiles
 
 **FEC — 17 profiles:**

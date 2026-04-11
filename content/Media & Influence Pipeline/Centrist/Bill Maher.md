@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]] · [[Dave Rubin]]"
+related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]] · [[Dave Rubin]] · [[Tucker Carlson]]"
 ---
 
 #media-pipeline #centrist #hbo #comedy #corporate-media #anti-woke #centrist-laundering #independence-theater

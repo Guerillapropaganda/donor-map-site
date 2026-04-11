@@ -13,7 +13,7 @@ ein: "472066714"
 annual-revenue: "$81K"
 net-assets: "$1.9M"
 tax-year: "2023"
-related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]] · [[Michael Bennet]] · [[Buffy Wicks]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[National Education Association]] · [[US Chamber of Commerce]]"
+related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]] · [[Michael Bennet]] · [[Buffy Wicks]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Insurance Industry]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

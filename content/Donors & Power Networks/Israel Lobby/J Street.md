@@ -16,7 +16,7 @@ ein: 261507828
 annual-revenue: "$4.0M"
 net-assets: "$4.5M"
 tax-year: "2023"
-related: "[[Entertainment and Hollywood Donors]] · [[Rashida Tlaib]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[United Democracy Project - UDP|UDP]] · [[Haim Saban]] · [[_Jerry Nadler Master Profile|Jerry Nadler]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
+related: "[[Entertainment and Hollywood Donors]] · [[Rashida Tlaib]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[United Democracy Project - UDP|UDP]] · [[Haim Saban]] · [[_Jerry Nadler Master Profile|Jerry Nadler]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[Blue Shield of California]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

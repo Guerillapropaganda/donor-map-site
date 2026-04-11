@@ -25,7 +25,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(4)"
 total-revenue: 13380498
 total-assets: 4294171
-related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]] · [[John Cornyn]]"
+related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]] · [[John Cornyn]] · [[Dan Goldman]]"
 total-political-spend: "$3,644,594"
 politicians-funded:
   - "Lindsey Graham"

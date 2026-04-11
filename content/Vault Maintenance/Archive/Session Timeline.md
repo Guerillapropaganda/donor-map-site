@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-11
 source-tier: 1
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Research Methodology and Data Sources]]"
+related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Research Methodology and Data Sources]] · [[Methodology Compliance Audit - March 2026]]"
 ---
 
 #session-log #vault-maintenance #handoff

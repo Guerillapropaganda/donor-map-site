@@ -15,7 +15,7 @@ issues:
   - "Housing"
 lobbying-spend: 2239378
 lobbying-filings: 64
-related: "[[The Education Committee and For-Profit College Pipeline]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Wall Street Finance Networks]] · [[Hedge Fund Industry Bloc]] · [[Carlyle Group]]"
+related: "[[The Education Committee and For-Profit College Pipeline]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Wall Street Finance Networks]] · [[Hedge Fund Industry Bloc]] · [[Carlyle Group]] · [[Hospital Corporation of America - HCA]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]]"
+related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]]"
 ---
 #newsom #criminal-justice #death-penalty #moratorium #genuine-win #executive-order #class-analysis #reversible #race #poverty
 

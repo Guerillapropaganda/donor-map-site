@@ -51,7 +51,7 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SC 13D/A"
-related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Verizon]] · [[Sinclair Broadcast Group]]"
+related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Verizon]] · [[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]]"
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 26
 cross-vault-triangulation-count: 10

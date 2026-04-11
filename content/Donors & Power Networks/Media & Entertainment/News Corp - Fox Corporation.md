@@ -15,7 +15,7 @@ lei: "984500CF6457BDCFAD28"
 lei-jurisdiction: "US-DE"
 lobbying-spend: 7016500
 lobbying-filings: 62
-related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[AT&T - WarnerMedia]] · [[Trump Media & Technology Group]] · [[iHeartMedia]] · [[Sinclair Broadcast Group]] · [[Tech and Media Donors]]"
+related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[AT&T - WarnerMedia]] · [[Trump Media & Technology Group]] · [[iHeartMedia]] · [[Sinclair Broadcast Group]] · [[Tech and Media Donors]] · [[Fox News Pipeline to Power]]"
 ein: "850803187"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"

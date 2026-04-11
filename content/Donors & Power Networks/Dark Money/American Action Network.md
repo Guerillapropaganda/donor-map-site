@@ -32,7 +32,7 @@ total-revenue: 74081200
 total-assets: 35265577
 fara-status: "registrant"
 fara-records: 1
-related: "[[National Association of Manufacturers]] · [[Congressional Leadership Fund]] · [[Heritage Foundation]] · [[US Chamber of Commerce]] · [[Republican Party Apparatus]] · [[PhRMA]] · [[One Nation]] · [[ALEC - American Legislative Exchange Council]] · [[Business Roundtable]] · [[American Petroleum Institute]] · [[Insurance Industry]] · [[DeVos Family]] · [[National Education Association]]"
+related: "[[National Association of Manufacturers]] · [[Congressional Leadership Fund]] · [[Heritage Foundation]] · [[US Chamber of Commerce]] · [[Republican Party Apparatus]] · [[PhRMA]] · [[One Nation]] · [[ALEC - American Legislative Exchange Council]] · [[Business Roundtable]] · [[American Petroleum Institute]] · [[Insurance Industry]] · [[DeVos Family]] · [[National Education Association]] · [[Walton Family Foundation]]"
 total-political-spend: "$176,798,895"
 politicians-funded:
   - "Gary Peters"

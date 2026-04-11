@@ -14,7 +14,7 @@ annual-revenue: "$101.8M"
 net-assets: "$97.6M"
 tax-year: "2023"
 total-political-spend: "$250"
-related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Bradley Foundation]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]]"
+related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Bradley Foundation]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]]"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-11"
 total-revenue: 125427282
