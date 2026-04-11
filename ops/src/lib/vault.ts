@@ -389,23 +389,46 @@ export function computeStats(profiles: Profile[]): VaultStats {
 export function profileNeeds(profile: Profile): string {
   if (profile.contentReadiness === "raw") return "Needs basic metadata and content"
 
+  // S-tier: requires both auto audit and manual narrative sign-off
+  if (profile.contentReadiness === "s-tier") {
+    const missing: string[] = []
+    if (!profile.auditSTierPassed) missing.push("janitor S-tier audit")
+    if (!profile.editorialSignoffNarrative) missing.push("narrative sign-off")
+    if (missing.length === 0) return "Up to date (S-tier)"
+    return `S-tier pending: ${missing.join(", ")}`
+  }
+
   if (profile.contentReadiness === "verified") {
     if (profile.lastEnriched) {
       const days = (Date.now() - new Date(profile.lastEnriched).getTime()) / (24 * 60 * 60 * 1000)
       if (days > 90) return "Stale A+ — re-enrich to maintain status"
     }
+    // A+ profile with angle + exclusive connections is S-tier-eligible
+    if (profile.angle && (profile.exclusiveConnections || []).length >= 3 && profile.originalFinding) {
+      return "A+ — eligible for S-tier (awaiting audit + narrative sign-off)"
+    }
     return "Up to date (A+)"
   }
 
   if (profile.contentReadiness === "ready") {
-    // Build a checklist of what's needed for A+
+    // Build a checklist of what's needed for A+ — reads janitor-stamped
+    // frontmatter fields (plan Step 5) before falling back to the legacy
+    // heuristic. This is how VaultGrid reflects the tiered reality without
+    // running the full checklist regex against every card's raw body.
     const missing: string[] = []
-    if (!profile.lastEnriched) missing.push("pipeline enrichment")
-    const sourceCount = (profile.sourceTypes || []).length
-    if (sourceCount < 2) missing.push(`${2 - sourceCount} more Tier 1 source type${sourceCount === 1 ? "" : "s"}`)
+    // Prefer the janitor's stamped audit field if present
+    if (!profile.auditAPlusPassed) {
+      if (!profile.lastEnriched) missing.push("pipeline enrichment")
+      const sourceCount = (profile.sourceTypes || []).length
+      if (sourceCount < 3) missing.push(`${3 - sourceCount} more Tier 1 source type${3 - sourceCount === 1 ? "" : "s"}`)
+      if (!profile.centralThesis) missing.push("central-thesis")
+      if (!profile.storyGrade) missing.push("story-grade")
+      if (profile.legalReviewResult === "block") missing.push("legal review (blocked)")
+      if (profile.bothSidesFlag) missing.push("both-sides flag unresolved")
+    }
     if (!profile.lastVerifiedBy) missing.push("editorial sign-off")
 
-    if (missing.length === 0) return "Up to date (B)"
+    if (missing.length === 0) return "Up to date (B) — ready for A+ sign-off"
     if (missing.length === 1 && missing[0] === "editorial sign-off") return "Ready for A+ — needs sign-off"
     return `Needs: ${missing.join(", ")}`
   }
@@ -413,8 +436,32 @@ export function profileNeeds(profile: Profile): string {
   if (profile.contentReadiness === "draft") {
     if (!profile.lastEnriched) return "Never enriched — run pipeline"
     if (!profile.sourceTier || profile.sourceTier > 2) return "Needs Tier 1 sources"
+    // Surface janitor flags if present
+    if (profile.bothSidesFlag) return "Both-sides flag — same entity in donors+opposes"
+    if ((profile.anomalyFlags || []).length > 0) return `Anomaly: ${(profile.anomalyFlags || []).slice(0, 2).join(", ")}`
     return "Needs more content and connections"
   }
 
   return "Up to date"
+}
+
+/**
+ * Cheap grid-friendly version of the checklist: reads only janitor-stamped
+ * frontmatter fields (no body regex). Returns the short "Needs: X, Y" string
+ * that VaultGrid shows under each profile card.
+ *
+ * The janitor runs the expensive body-regex checks periodically and STAMPS
+ * results into frontmatter:
+ *   audit-a-plus-passed: YYYY-MM-DD
+ *   anomaly-flags: [...]
+ *   cross-vault-triangulation-count: N
+ *   both-sides-flag: true
+ *   central-thesis, story-grade, legal-review-result (Research Claude writes)
+ *
+ * This function reads those stamps to render an honest "is this profile
+ * actually A+ material?" summary in the grid without running the full
+ * VerificationChecklist.tsx logic against 1500+ cards.
+ */
+export function profileNeedsFromChecklist(profile: Profile): string {
+  return profileNeeds(profile)  // Thin alias for now — both read stamped frontmatter
 }
