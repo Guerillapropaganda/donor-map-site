@@ -44,6 +44,7 @@ export function StatsBar({ stats, loading }: StatsBarProps) {
   }
 
   const coverage = stats.totalProfiles > 0 ? Math.round((stats.enriched / stats.totalProfiles) * 100) : 0
+  const sTier = stats.byReadiness["s-tier"] || 0
   const verified = stats.byReadiness["verified"] || 0
   const ready = stats.byReadiness["ready"] || 0
   const draft = stats.byReadiness["draft"] || 0
@@ -61,6 +62,7 @@ export function StatsBar({ stats, loading }: StatsBarProps) {
           <span className="text-[9px] text-[var(--color-text-dim)]">{total.toLocaleString()} profiles</span>
         </div>
         <div className="space-y-2">
+          <GradeBar label="S-Tier" grade="S" count={sTier} total={total} color="#a78bfa" />
           <GradeBar label="Verified" grade="A+" count={verified} total={total} color="#fbbf24" />
           <GradeBar label="Ready" grade="B" count={ready} total={total} color="#10b981" />
           <GradeBar label="Draft" grade="C" count={draft} total={total} color="#f59e0b" />

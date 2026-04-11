@@ -23,6 +23,13 @@
 const fs = require("fs")
 const path = require("path")
 const { walkDir, parseFrontmatter, writeReport, parseAllWikilinks, resolveProfileTitle, extractFrontmatterConnections } = require("./lib/shared.cjs")
+const relationshipsStore = require("./lib/relationships-store.cjs")
+const {
+  TYPE_META,
+  normalizeTitle: normalizeEdgeTitle,
+  computeEdgeId,
+  buildTitleIndex,
+} = require("./lib/relationship-edge-validator.cjs")
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, "..", "content")
 const OPS_DATA = path.join(__dirname, "..", "ops", "data")
@@ -33,6 +40,10 @@ const STRATEGY_FLAG = args.find(a => a.startsWith("--strategy="))
 const STRATEGY = STRATEGY_FLAG ? STRATEGY_FLAG.split("=")[1] : "all"
 const CHANGED_ONLY = args.includes("--changed-only")
 const DRY_RUN = args.includes("--dry-run")
+// Phase 3 Part 2: when set, the script also emits validated edges to
+// data/relationships.jsonl via scripts/lib/relationships-store.cjs.
+// Default false so the existing JSON report workflow is unchanged.
+const WRITE_EDGES = args.includes("--write-edges")
 
 // ─── Parse Wikilinks (from frontmatter values) ──────────────────
 
@@ -760,6 +771,162 @@ function filterRejected(results, actions) {
 
 // ─── Main ────────────────────────────────────────────────────────
 
+// ─── Phase 3 Part 2: JSONL edge emission ─────────────────────────────
+
+// Map the discovery-scanner's own type enum (which uses the legacy
+// frontmatter field names "related" / "donors" / "opposes" / "stories")
+// to the Phase 3 relationship-edge type enum.
+const DISCOVERY_TYPE_MAP = {
+  related: "related",
+  donors: "monetary",
+  opposes: "political-opposition",
+  stories: "story-link",
+}
+
+// Map discovery-scanner's low/medium/high confidence tiers to numeric
+// 0.0-1.0 values from the Phase 3 confidence scale.
+const DISCOVERY_CONFIDENCE_MAP = {
+  low: 0.55,
+  medium: 0.70,
+  high: 0.85,
+}
+
+function emitSuggestionsAsJsonlEdges(suggestions) {
+  console.log("\n  Phase 3 Part 2: emitting suggestions as JSONL edges...")
+
+  // Build the title index once. This is the same index the validator
+  // uses — includes top-level rulebook type + subcategory per profile.
+  const titleIndex = buildTitleIndex()
+  console.log(`    Title index: ${titleIndex.size} profiles`)
+
+  const timestamp = new Date().toISOString()
+  const edges = []
+  let skippedUnknownType = 0
+  let skippedMissingEndpoint = 0
+  let skippedCollision = 0
+
+  for (const s of suggestions) {
+    // Skip contradiction-type suggestions — those are cross-references,
+    // not standalone edges. They get represented in the JSONL as two
+    // separate edges (the monetary and the opposition), not as a new
+    // type.
+    if (s.contradiction) continue
+
+    const eType = DISCOVERY_TYPE_MAP[s.type]
+    if (!eType) {
+      skippedUnknownType++
+      continue
+    }
+
+    const fromTitle = normalizeEdgeTitle(s.source)
+    const toTitle = normalizeEdgeTitle(s.target)
+    if (!fromTitle || !toTitle || fromTitle === toTitle) continue
+
+    const fromEntry = titleIndex.get(fromTitle)
+    const toEntry = titleIndex.get(toTitle)
+    if (!fromEntry || !toEntry) {
+      skippedMissingEndpoint++
+      continue
+    }
+    // Collision = multiple profiles share the title. Skip — cannot
+    // disambiguate without from_slug/to_slug, which the discovery
+    // scanner doesn't track.
+    if (Array.isArray(fromEntry) || Array.isArray(toEntry)) {
+      skippedCollision++
+      continue
+    }
+    // Both endpoints must have a top-level type resolved from the
+    // rulebook. Skip when either side lacks a type (admin notes, daily
+    // updates, and other files without a type: frontmatter field). These
+    // aren't edge-worthy profiles.
+    if (!fromEntry.type || !toEntry.type) {
+      skippedMissingEndpoint++
+      continue
+    }
+
+    const meta = TYPE_META[eType]
+    const confidence = DISCOVERY_CONFIDENCE_MAP[s.confidence] || 0.5
+
+    const evidence = []
+    if (Array.isArray(s.strategies)) {
+      evidence.push(`discovery-strategies: ${s.strategies.join(", ")}`)
+    }
+    if (s.reasoning && typeof s.reasoning === "string") {
+      evidence.push(s.reasoning.slice(0, 280))
+    }
+
+    // Type-specific default extras that the discovery-scanner doesn't
+    // populate but that TYPE_META.requires demands for non-migration sources.
+    // story-link requires role ∈ {subject, source, mentioned} — we default
+    // to "mentioned" since the scanner found this via wikilink proximity,
+    // which is the weakest of the three (not subject, not a named source).
+    const defaultRole = eType === "story-link" ? "mentioned" : null
+
+    let edge = {
+      id: "",
+      from: fromTitle,
+      from_slug: null,
+      from_type: fromEntry.type,
+      from_subcategory: fromEntry.subcategory,
+      to: toTitle,
+      to_slug: null,
+      to_type: toEntry.type,
+      to_subcategory: toEntry.subcategory,
+      type: eType,
+      direction: meta && meta.directed === false ? "undirected" : "directed",
+      confidence,
+      source: "discovery-scanner",
+      source_url: null,
+      evidence: evidence.length > 0 ? evidence : null,
+      amount: null,
+      cycle: null,
+      date_range: null,
+      role: defaultRole,
+      first_seen: timestamp,
+      last_verified: timestamp,
+      status: "active",
+    }
+
+    // Normalize undirected edges to canonical from < to order
+    if (meta && meta.directed === false && edge.from > edge.to) {
+      const tmpFrom = edge.from
+      const tmpFromType = edge.from_type
+      const tmpFromSub = edge.from_subcategory
+      edge.from = edge.to
+      edge.from_type = edge.to_type
+      edge.from_subcategory = edge.to_subcategory
+      edge.to = tmpFrom
+      edge.to_type = tmpFromType
+      edge.to_subcategory = tmpFromSub
+    }
+
+    edge.id = computeEdgeId(edge)
+    edges.push(edge)
+  }
+
+  console.log(
+    `    Mapped ${edges.length} edges. Skipped: ${skippedUnknownType} unknown type, ` +
+      `${skippedMissingEndpoint} missing endpoint, ${skippedCollision} title collision`
+  )
+
+  if (edges.length === 0) {
+    console.log("    No edges to emit.")
+    return
+  }
+
+  const result = relationshipsStore.upsertEdges(edges)
+  console.log(
+    `    Upsert result: ${result.added} added, ${result.updated} updated, ` +
+      `${result.skipped} unchanged, ${result.invalid} invalid. Store now at ${result.total} edges.`
+  )
+  if (result.invalid > 0 && result.errors.length > 0) {
+    console.log("    First 5 invalid edges:")
+    for (const err of result.errors.slice(0, 5)) {
+      console.log(`      - ${err.from} → ${err.to} (${err.type}): ${err.error}`)
+    }
+  }
+}
+
 function main() {
   console.log("\n===============================================")
   console.log("  THE DONOR MAP — Relationship Discovery")
@@ -869,6 +1036,16 @@ function main() {
   // Always write reports
   if (!fs.existsSync(REPORTS_DIR)) fs.mkdirSync(REPORTS_DIR, { recursive: true })
   fs.writeFileSync(path.join(REPORTS_DIR, "relationship-discovery.json"), JSON.stringify(output, null, 2))
+
+  // Phase 3 Part 2: opt-in JSONL edge emission. Maps suggestions to
+  // edges using the same title index the validator builds and calls
+  // relationships-store.upsertEdges() to merge them into
+  // data/relationships.jsonl. Existing edges (e.g. from frontmatter-migration)
+  // are upgraded to the higher discovery-scanner confidence. New edges
+  // are appended. Source: discovery-scanner.
+  if (WRITE_EDGES && !DRY_RUN) {
+    emitSuggestionsAsJsonlEdges(suggestions)
+  }
 
   // Write markdown report
   const mdLines = [
