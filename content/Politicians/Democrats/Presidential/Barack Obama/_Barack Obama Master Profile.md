@@ -68,7 +68,7 @@ related: >-
   [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth
   Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] ·
   [[Barack Obama Donor Network - The Full Map]] · [[Barack Obama Executive
-  Orders Timeline]] · [[Term 1 vs Term 2 - Obama Comparison]]
+  Orders Timeline]]
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
