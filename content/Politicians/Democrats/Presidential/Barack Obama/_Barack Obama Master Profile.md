@@ -70,8 +70,7 @@ related: >-
   Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] ·
   [[DACA and the Limits of Executive Action]] · [[Dodd-Frank and the Wall Street
   Bailout]] · [[ACA and the Insurance Industry Negotiation]] · [[The Bank
-  Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry
-  Capture Disguised as Healthcare Reform]]
+  Bailout and the Prosecution That Never Came]]
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
