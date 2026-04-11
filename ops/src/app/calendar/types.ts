@@ -39,6 +39,50 @@ export const OWNER_COLORS: Record<string, string> = {
 }
 
 /**
+ * Live vault counts computed server-side from getLocalProfiles() and
+ * passed into the Calendar. Used to drive the North Star progress bars
+ * with real vault state instead of the static `current:` field in
+ * sprint-schedule.md YAML.
+ *
+ * Before: `current: 3` for depth was hand-edited and lied whenever vault
+ * state changed. After: verifiedCount reads straight from the file system.
+ */
+export interface LiveVaultCounts {
+  verifiedCount: number  // profiles at content-readiness: verified
+  sTierCount: number     // profiles at content-readiness: s-tier
+  readyCount: number     // profiles at content-readiness: ready
+  draftCount: number     // profiles at content-readiness: draft
+  signoffQueue: number   // profiles with audit-a-plus-passed but no last-verified-by: editorial
+  stampedTotal: number   // all profiles with audit-a-plus-passed (signed off + not yet)
+}
+
+/**
+ * Given the static schedule.targets + live vault counts, return an
+ * object with the effective `current` value for each target. This is
+ * the bridge between "what YAML says" and "what the vault actually looks
+ * like right now."
+ */
+export function effectiveTargetCurrent(
+  target: { id: string; current: number | boolean },
+  counts: LiveVaultCounts | undefined
+): number | boolean {
+  if (!counts) return target.current
+  switch (target.id) {
+    case "depth":
+      // Depth = verified + s-tier profiles (both count as A+ or above)
+      return counts.verifiedCount + counts.sTierCount
+    case "breadth":
+      // Breadth was originally "draft profiles promoted to ready tier" with a
+      // decreasing-draft-count goal (288 → 188). Showing "ready profiles
+      // currently at tier" is a clearer success metric per David's ask.
+      return counts.readyCount + counts.verifiedCount + counts.sTierCount
+    default:
+      // systems / polish stay at the YAML value
+      return target.current
+  }
+}
+
+/**
  * Normalize date comparison. All dates are YYYY-MM-DD UTC strings.
  */
 export function todayIso(): string {

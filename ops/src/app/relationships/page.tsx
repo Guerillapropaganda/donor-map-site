@@ -1233,12 +1233,27 @@ export default function RelationshipsPage() {
                     <span className="text-[9px] font-bold text-[var(--color-text)] px-2 leading-tight">{selected.title}</span>
                   </div>
 
+                  {/* Both-sides detection: entities that appear in donors/related AND opposes */}
+                  {(() => null)()}
                   {/* Orbiting nodes — draggable */}
-                  {[...selected.related.map((n, i) => ({ name: n, type: "related" as const, i })),
-                    ...selected.donors.map((n, i) => ({ name: n, type: "donors" as const, i: i + selected.related.length })),
-                    ...selected.opposes.map((n, i) => ({ name: n, type: "opposes" as const, i: i + selected.related.length + selected.donors.length })),
-                    ...selected.stories.map((n, i) => ({ name: n, type: "stories" as const, i: i + selected.related.length + selected.donors.length + selected.opposes.length })),
-                  ].map((node, idx, arr) => {
+                  {(() => {
+                    // Normalize a name for fuzzy matching across the wikilink aliases
+                    const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/i, "").trim().toLowerCase()
+                    const opposesNorm = new Set(selected.opposes.map(norm))
+                    const fundsNorm = new Set([...selected.donors, ...selected.related].map(norm))
+                    // A "both-sides" entity is in opposes AND also in donors/related.
+                    // Mark such nodes so we can render them in red dashed.
+                    const allNodes = [
+                      ...selected.related.map((n, i) => ({ name: n, type: "related" as const, i })),
+                      ...selected.donors.map((n, i) => ({ name: n, type: "donors" as const, i: i + selected.related.length })),
+                      ...selected.opposes.map((n, i) => ({ name: n, type: "opposes" as const, i: i + selected.related.length + selected.donors.length })),
+                      ...selected.stories.map((n, i) => ({ name: n, type: "stories" as const, i: i + selected.related.length + selected.donors.length + selected.opposes.length })),
+                    ].map(n => ({
+                      ...n,
+                      bothSides: opposesNorm.has(norm(n.name)) && fundsNorm.has(norm(n.name)),
+                    }))
+                    return allNodes
+                  })().map((node, idx, arr) => {
                     const angle = (idx / arr.length) * 2 * Math.PI - Math.PI / 2
                     const radius = Math.min(38, 25 + arr.length * 0.3)
                     const defaultX = 50 + radius * Math.cos(angle)
@@ -1253,11 +1268,12 @@ export default function RelationshipsPage() {
                     return (
                       <div key={node.name + idx}>
                         <svg className="absolute inset-0 w-full h-full pointer-events-none" style={{ zIndex: 1 }}>
+                          {/* Both-sides entities get a thick red dashed stroke — warning indicator */}
                           <line x1="50%" y1="50%" x2={`${x}%`} y2={`${y}%`}
-                            stroke={REL_COLORS[node.type]}
-                            strokeWidth={node.type === "opposes" ? 1 : node.type === "stories" ? 1 : 1.5}
-                            strokeDasharray={node.type === "opposes" ? "4 2" : node.type === "stories" ? "2 2" : "none"}
-                            opacity={0.4} />
+                            stroke={node.bothSides ? "#ef4444" : REL_COLORS[node.type]}
+                            strokeWidth={node.bothSides ? 2.5 : node.type === "opposes" ? 1 : node.type === "stories" ? 1 : 1.5}
+                            strokeDasharray={node.bothSides ? "6 3" : node.type === "opposes" ? "4 2" : node.type === "stories" ? "2 2" : "none"}
+                            opacity={node.bothSides ? 0.9 : 0.4} />
                         </svg>
                         <div
                           className={`absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node ${draggingNode === node.name ? "cursor-grabbing" : "cursor-grab"}`}
@@ -1285,8 +1301,14 @@ export default function RelationshipsPage() {
                           }}>
                           <div
                             className="w-full h-full rounded-full flex items-center justify-center text-center select-none"
-                            style={{ backgroundColor: `${REL_COLORS[node.type]}15`, border: `1.5px solid ${REL_COLORS[node.type]}50` }}
-                            title={hasNote ? `${node.name}\n--- Note ---\n${relationNotes[noteKey].note}` : node.name}>
+                            style={{
+                              backgroundColor: node.bothSides ? "rgba(239, 68, 68, 0.15)" : `${REL_COLORS[node.type]}15`,
+                              border: node.bothSides ? "2px solid #ef4444" : `1.5px solid ${REL_COLORS[node.type]}50`,
+                              boxShadow: node.bothSides ? "0 0 0 2px rgba(239, 68, 68, 0.25)" : undefined,
+                            }}
+                            title={node.bothSides
+                              ? `⚠ BOTH-SIDES: ${node.name} appears in both donors/related AND opposes. Investigate this contradiction.`
+                              : hasNote ? `${node.name}\n--- Note ---\n${relationNotes[noteKey].note}` : node.name}>
                             <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3 pointer-events-none">{node.name}</span>
                           </div>
                           {/* Note indicator — always visible when note exists */}
@@ -1326,11 +1348,12 @@ export default function RelationshipsPage() {
               </div>
 
               {/* Legend */}
-              <div className="flex items-center justify-center gap-4 mt-2">
+              <div className="flex items-center justify-center gap-4 mt-2 flex-wrap">
                 <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-6 h-0 border-t border-[#5b8dce]" /> Related</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-6 h-0 border-t border-[#22c55e]" /> Donors</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-6 h-0 border-t border-dashed border-[#ef4444]" /> Opposes</span>
                 <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-6 h-0 border-t border-dotted border-[#ec4899]" /> Stories</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ef4444] font-bold" title="Entity appears in BOTH donors/related AND opposes — warrants investigation"><span className="w-6 h-0 border-t-2 border-dashed border-[#ef4444]" /> ⚠ Both-sides</span>
                 <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Scroll to zoom · Click+drag to pan</span>
               </div>
 

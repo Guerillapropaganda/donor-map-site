@@ -1,8 +1,8 @@
 "use client"
 
 import { useState, useMemo, useCallback, useEffect } from "react"
-import type { SprintSchedule, SprintState, TaskStatus, Task } from "./types"
-import { PHASE_COLORS, TARGET_COLORS, OWNER_COLORS, OWNER_LABELS, progressFraction, todayIso } from "./types"
+import type { SprintSchedule, SprintState, TaskStatus, Task, LiveVaultCounts } from "./types"
+import { PHASE_COLORS, TARGET_COLORS, OWNER_COLORS, OWNER_LABELS, progressFraction, todayIso, effectiveTargetCurrent } from "./types"
 import { MonthGrid } from "./MonthGrid"
 import { PhaseBar } from "./PhaseBar"
 import { DayModal } from "./DayModal"
@@ -12,9 +12,28 @@ interface Props {
   initialState: SprintState
   serverDate: string   // YYYY-MM-DD from the server — authoritative "today"
   serverTime: string   // ISO timestamp from the server
+  liveCounts?: LiveVaultCounts  // Live vault counts for the North Star meters
 }
 
-export function Calendar({ schedule, initialState, serverDate, serverTime }: Props) {
+/**
+ * Compute hours worked per day from sprint-state.json task completion
+ * timestamps. Each completed task is credited 0.25h as a minimum estimate
+ * (the actual work might have taken longer but this is a signal, not a
+ * timesheet). Tasks completed on the same day accumulate.
+ *
+ * Returns: { 'YYYY-MM-DD': hoursEstimate }
+ */
+function computeHoursPerDay(state: SprintState): Record<string, number> {
+  const byDay: Record<string, number> = {}
+  for (const [_, taskState] of Object.entries(state.task_states || {})) {
+    if (taskState.status !== "done" || !taskState.completed_at) continue
+    const day = taskState.completed_at.slice(0, 10)
+    byDay[day] = (byDay[day] || 0) + 0.25  // 15 min per task minimum
+  }
+  return byDay
+}
+
+export function Calendar({ schedule, initialState, serverDate, serverTime, liveCounts }: Props) {
   const [state, setState] = useState<SprintState>(initialState)
   const [openDay, setOpenDay] = useState<string | null>(null)
   const [liveTime, setLiveTime] = useState<string>(serverTime ?? new Date().toISOString())
@@ -78,11 +97,18 @@ export function Calendar({ schedule, initialState, serverDate, serverTime }: Pro
 
   // Depth / breadth / systems / polish rendering
   const verifiedTarget = schedule.targets.find((t) => t.id === "depth")
-  const verifiedCurrent = verifiedTarget ? Number(verifiedTarget.current) : 0
+  const effectiveDepthCurrent = verifiedTarget
+    ? Number(effectiveTargetCurrent(verifiedTarget, liveCounts))
+    : 0
   const verifiedGoal = verifiedTarget ? Number(verifiedTarget.goal) : 40
 
   const taskCountInSprint = schedule.allTasks.filter((t) => t.id).length
   const doneCount = Object.values(state.task_states).filter((s) => s.status === "done").length
+
+  // Hours-per-day computed from task completion timestamps
+  const hoursPerDay = useMemo(() => computeHoursPerDay(state), [state])
+  const hoursToday = hoursPerDay[today] || 0
+  const hoursTotalSoFar = Object.values(hoursPerDay).reduce((a, b) => a + b, 0)
 
   return (
     <div className="p-4 md:p-6 space-y-6 min-h-screen">
@@ -112,16 +138,20 @@ export function Calendar({ schedule, initialState, serverDate, serverTime }: Pro
               <span className="text-[var(--color-text)] text-base font-bold">{dayOfSprint}</span>
               <span className="text-[var(--color-text-dim)]"> / {schedule.metadata.duration_days}</span>
             </div>
-            <div>
-              <span className="text-[var(--color-text-dim)]">BUDGET </span>
+            <div title="Total hours budgeted for the whole sprint (not a daily target)">
+              <span className="text-[var(--color-text-dim)]">TOTAL BUDGET </span>
               <span className="text-[var(--color-text)]">{schedule.metadata.total_hour_budget}H</span>
             </div>
-            <div>
-              <span className="text-[var(--color-text-dim)]">HARD STOP </span>
+            <div title="Stop working at this time every day to protect sleep">
+              <span className="text-[var(--color-text-dim)]">STOP WORK </span>
               <span className="text-[var(--color-red)]">{schedule.metadata.hard_stop_time}</span>
             </div>
-            <div>
-              <span className="text-[var(--color-text-dim)]">TASKS </span>
+            <div title={`Hours worked today = ${hoursToday.toFixed(2)}, total so far = ${hoursTotalSoFar.toFixed(2)}. Estimated from task completion timestamps (15 min credit per task).`}>
+              <span className="text-[var(--color-text-dim)]">HOURS TODAY </span>
+              <span className="text-[var(--color-amber)]">{hoursToday > 0 ? hoursToday.toFixed(1) + "H" : "—"}</span>
+            </div>
+            <div title="Tasks completed / total tasks in the sprint plan">
+              <span className="text-[var(--color-text-dim)]">TASKS DONE </span>
               <span className="text-[var(--color-green)]">{doneCount}</span>
               <span className="text-[var(--color-text-dim)]">/{taskCountInSprint}</span>
             </div>
@@ -130,17 +160,30 @@ export function Calendar({ schedule, initialState, serverDate, serverTime }: Pro
         <div className="px-5 py-3 text-[10px] tracking-[0.2em] text-[var(--color-text-dim)] font-mono">
           {sprintStart} → {sprintEnd}
           <span className="mx-3 text-[var(--color-border)]">|</span>
-          VERIFIED {verifiedCurrent}/{verifiedGoal}
+          VERIFIED {effectiveDepthCurrent}/{verifiedGoal}
+          {liveCounts && liveCounts.signoffQueue > 0 && (
+            <>
+              <span className="mx-3 text-[var(--color-border)]">|</span>
+              <a href="/signoff-queue" className="text-[var(--color-amber)] hover:underline">
+                {liveCounts.signoffQueue} READY FOR SIGN-OFF →
+              </a>
+            </>
+          )}
           <span className="mx-3 text-[var(--color-border)]">|</span>
           DEPTH WINS WHEN STREAMS CONFLICT
         </div>
       </header>
 
-      {/* North Star progress bars */}
+      {/* North Star progress bars — now reads live vault counts for depth + breadth */}
       <section className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-3">
         {schedule.targets.map((target) => {
-          const frac = progressFraction(target)
+          // Override the static `current:` field with live vault counts
+          // where applicable (depth reads verifiedCount, breadth reads readyCount).
+          const liveCurrent = effectiveTargetCurrent(target, liveCounts)
+          const effectiveTarget = { ...target, current: liveCurrent }
+          const frac = progressFraction(effectiveTarget)
           const color = TARGET_COLORS[target.id] ?? "#fbbf24"
+          const pct = Math.round(frac * 100)
           return (
             <div key={target.id} className="border border-[var(--color-border)] bg-[var(--color-bg-card)] p-3">
               <div className="flex items-baseline justify-between">
@@ -148,17 +191,23 @@ export function Calendar({ schedule, initialState, serverDate, serverTime }: Pro
                   #{target.rank} {target.id.toUpperCase()}
                 </div>
                 <div className="text-[10px] text-[var(--color-text-dim)] font-mono">
-                  {typeof target.current === "boolean" ? (target.current ? "YES" : "NO") : target.current}
+                  {typeof liveCurrent === "boolean" ? (liveCurrent ? "YES" : "NO") : liveCurrent}
                   {typeof target.goal !== "boolean" && (
                     <span className="text-[var(--color-text-dim)]"> / {String(target.goal)}</span>
                   )}
                 </div>
               </div>
-              <div className="mt-2 h-2 bg-[var(--color-bg)] border border-[var(--color-border)]">
+              <div className="mt-2 h-2 bg-[var(--color-bg)] border border-[var(--color-border)] relative">
                 <div
                   className="h-full transition-all"
-                  style={{ width: `${Math.round(frac * 100)}%`, backgroundColor: color }}
+                  style={{ width: `${pct}%`, backgroundColor: color }}
                 />
+                {/* Percent label overlaid on the bar */}
+                {pct >= 5 && (
+                  <div className="absolute inset-0 flex items-center justify-center text-[9px] font-bold font-mono" style={{ color: pct > 20 ? "#000" : "var(--color-text-dim)" }}>
+                    {pct}%
+                  </div>
+                )}
               </div>
               <div className="mt-2 text-[10px] text-[var(--color-text-dim)] leading-snug">
                 {target.description}
@@ -191,35 +240,49 @@ export function Calendar({ schedule, initialState, serverDate, serverTime }: Pro
         />
       )}
 
-      {/* Ad-hoc log — tasks added mid-sprint not in the original plan */}
+      {/* Unplanned Extras — tasks completed that weren't in the original sprint plan.
+          Renamed from "Ad-hoc log" per David's feedback — "ad-hoc" isn't plain English. */}
       {(() => {
         const adhocTasks = schedule.allTasks.filter(
           (t) => (t as Task & { added_adhoc?: boolean }).added_adhoc
         )
         if (adhocTasks.length === 0) return null
+        // Sort by completion timestamp (newest first) so the most recent work is at the top
+        const sorted = [...adhocTasks].sort((a, b) => {
+          const aAt = state.task_states[a.id]?.completed_at || a.completed_date || ""
+          const bAt = state.task_states[b.id]?.completed_at || b.completed_date || ""
+          return bAt.localeCompare(aAt)
+        })
         return (
           <section className="border border-[var(--color-border)] bg-[var(--color-bg-card)]">
             <div className="px-5 py-3 border-b border-[var(--color-border)] flex items-baseline justify-between">
               <div className="text-[10px] tracking-[0.25em] text-[var(--color-amber)] font-mono font-bold">
-                AD-HOC LOG — {adhocTasks.length} UNPLANNED TASKS COMPLETED THIS SPRINT
+                UNPLANNED EXTRAS — {adhocTasks.length} TASKS DONE OUTSIDE THE DAILY PLAN
               </div>
               <div className="text-[9px] text-[var(--color-text-dim)] font-mono">
-                not in original sprint plan
+                surprise work that wasn&apos;t on the schedule
               </div>
             </div>
             <div className="divide-y divide-[var(--color-border)]">
-              {adhocTasks.map((task) => {
+              {sorted.map((task) => {
                 const taskWithCtx = task as Task & { phase: string; owner: string; added_adhoc?: boolean }
                 const taskStatus = state.task_states[task.id]?.status ?? task.status
                 const ownerColor = OWNER_COLORS[taskWithCtx.owner] ?? "#7a7a86"
                 const ownerLabel = OWNER_LABELS[taskWithCtx.owner] ?? "??"
                 const isDone = taskStatus === "done"
+                // Prefer live timestamp from sprint-state.json (ISO), fall back to static completed_date
+                const liveTimestamp = state.task_states[task.id]?.completed_at
+                const displayDate = liveTimestamp
+                  ? liveTimestamp.slice(0, 10)
+                  : task.completed_date
+                const displayTime = liveTimestamp ? liveTimestamp.slice(11, 16) : null
                 return (
                   <div key={task.id} className="px-5 py-2 flex items-start gap-3 text-[10px] font-mono">
                     <span style={{ color: isDone ? "#22c55e" : "#7a7a86" }}>{isDone ? "☒" : "☐"}</span>
                     <span
                       className="px-1 border text-[8px] flex-shrink-0"
                       style={{ color: ownerColor, borderColor: ownerColor + "80" }}
+                      title={`Worked by: ${ownerLabel === "CC" ? "Code Claude (infrastructure/scripts)" : ownerLabel === "RC" ? "Research Claude (profile writing)" : ownerLabel === "DC" ? "David (editorial + decisions)" : "either Claude"}`}
                     >
                       {ownerLabel}
                     </span>
@@ -227,9 +290,13 @@ export function Calendar({ schedule, initialState, serverDate, serverTime }: Pro
                     <span className={isDone ? "line-through text-[var(--color-text-dim)]" : "text-[var(--color-text)]"}>
                       {task.task}
                     </span>
-                    {task.completed_date && (
-                      <span className="ml-auto flex-shrink-0 text-[var(--color-text-dim)]">
-                        {task.completed_date}
+                    {displayDate && (
+                      <span
+                        className="ml-auto flex-shrink-0 text-[var(--color-text-dim)]"
+                        title={liveTimestamp ? `Completed ${liveTimestamp}` : `Completed ${displayDate}`}
+                      >
+                        {displayDate}
+                        {displayTime && <span className="text-[var(--color-text-dim)]/60 ml-1">{displayTime}</span>}
                       </span>
                     )}
                   </div>
