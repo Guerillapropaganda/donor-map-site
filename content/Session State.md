@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-11
 ---
-<!-- last session: Phase 3 Part 2b (contradiction-scanner reads JSONL) + Part 2c (dispatcher wires discovery-scanner) + Part 3 (/api/connections reads JSONL) -->
+<!-- last session: Phase 3 Part 3b (POST/DELETE upsert JSONL) + Part 4a (per-profile artifact) + story editorial round 2 (6 more vouched) + orphan cleanup (4,484 mirror edges) -->
 
 
 # Session State
@@ -13,6 +13,84 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code (research hat where needed)
+Date: 2026-04-11 late night — four-item closing run
+
+### Theme
+Fourth session of the day. David's list was "1, 2, 3, 4" — Phase 3 Part 3b (POST/DELETE upsert JSONL), Phase 3 Part 4 (Quartz migration — scoped down to Part 4a artifact), the 9-story editorial pass, and orphan cleanup. All four shipped. The edge store is now end-to-end canonical: reads + writes + normalization all flow through data/relationships.jsonl, and the /relationships page, dashboard widgets, and the editorial path all produce consistent views.
+
+### Done — Phase 3 Part 3b: POST/DELETE upsert JSONL (commit `9963ca4b` → merge `48f2d091`, deploy `24292896133` 1m39s)
+- `scripts/lib/relationships-store.cjs`: new `deprecateEdge(id)` and `activateEdge(id)` helpers. Symmetric status-flip operations with atomic tmp+rename writes. Deprecation is one-way via `upsertEdges` (scanner can't silently un-deprecate); `activateEdge` is the only path back.
+- `ops/src/lib/relationships-store.ts`: new execFileSync subprocess wrappers — `buildEdge(input)`, `upsertEdge(edge)`, `deprecateEdge(id)`, `activateEdge(id)`. Each spawns a Node subprocess against the CJS store. ~50-150ms per call, fine for user-initiated clicks. Same pattern as `/api/rulebook` checkIds. `buildEdge` resolves title → top-level type + subcategory via the rulebook title index, flips undirected edges to canonical from<to order, and computes the deterministic id hash in one round trip.
+- `ops/src/app/api/relationships/route.ts`: full rewrite. POST now builds a schema-complete edge via `buildEdge()`, upserts into the canonical store via `upsertEdge()`, AND preserves the legacy frontmatter write so Quartz consumers see the change immediately. DELETE computes the edge id via `buildEdge` and calls `deprecateEdge()`. Legacy → Phase 3 type mapping is `related → related`, `donors → monetary (with endpoint flip)`, `opposes → political-opposition`, `stories → story-link`. Response gains `phase3: { edgeId, upserted | deprecated | skipReason }` field. Source enum is `manual-ops` at confidence 0.7.
+- Verified end-to-end on localhost:3333: POST Pete Buttigieg → Ted Cruz (type: related), GET `/api/connections` shows 1 new matching edge, profile frontmatter updated. DELETE with same payload flips the edge to deprecated, GET shows 0 active matches, profile frontmatter clean (git diff empty after round-trip). Edge 269dd3f67f43575d stays in the JSONL with `status: "deprecated"` for audit trail.
+- **First manual-ops edge ever written to the canonical store through the Ops UI.**
+- Store state after the test: 19,849 edges (was 19,848). Sources: 12,685 frontmatter-migration + 7,163 discovery-scanner + 1 manual-ops. Full validator pass.
+
+### Done — Phase 3 Part 4a: per-profile relationship artifact (commit `63c29cb3` → merge `761a5c5c`)
+- New `scripts/build-relationships-per-profile.cjs`: reads the canonical JSONL store, projects each edge into the legacy per-profile shape expected by Quartz components, writes `data/relationships-per-profile.json`.
+- Type projection: `related → profile.related[]`, `monetary → donor.politicians-funded[] + recipient.donors[]` (bidirectional view), `political-opposition → profile.opposes[]`, `story-link → profile.stories[]`. Skips the 6 Phase 3 types with no legacy equivalent (staffing, media-appearance, affiliation, legal, family, unknown).
+- Output: **1,743 profile entries, 950KB, built in 80ms.** Per-profile field totals: 16,933 related · 928 donors · 928 politicians-funded · 47 opposes · 1,940 stories.
+- Split from full Phase 3 Part 4 (Quartz component migration) because the component surgery + plugin work + build regression is a much bigger lift that deserves its own session. Part 4a ships the stable handoff artifact; Part 4b will consume it.
+
+### Done — Story editorial pass round 2 (commit `78c8af24` → merge `761a5c5c`, deploy `24293101993`)
+- Second-look audit on the 9 stories that remained flagged after the earlier pass. Found the first pass was too conservative: the actual gating criterion is "≥3 REAL Tier 1 entries after demoting OpenSecrets per Vault Rules" — several stories had `(Tier 1)` annotations on OpenSecrets URLs that should be `(Tier 2)` or lower.
+- Counted real Tier 1 after applying the CLAUDE.md OpenSecrets demotion rule:
+  * Cross-Politician Contradiction Map: **12 real T1** → VOUCHED (FEC, Congressional Record, Supreme Court, ProPublica)
+  * Contradiction 23 Prison Telecom: **5 real T1** → VOUCHED (FCC, CFPB, FEC, primary policy docs)
+  * Ohio 2026 Acton vs Ramaswamy: **3 real T1** → VOUCHED (FEC + ProPublica + Congress.gov)
+  * Contradiction 06 Crypto Industry: **7 real T1** → VOUCHED (FEC, Congress.gov, SCOTUS, federal agency filings)
+  * Intra-Democratic Contradiction Map: **13 real T1** → VOUCHED (best-sourced: deep FEC + Congress.gov)
+  * Pelosi-McCarthy Leadership Mirror: **3 real T1** → VOUCHED (FEC Pelosi + FEC McCarthy + FEC CLF SuperPAC, all Chrome-verified 2026-03-27)
+  * Intra-Republican Contradiction Map: **1 real T1** → flagged (2 OpenSecrets + 1 generic FEC homepage)
+  * Schumer-McConnell Senate Leadership Mirror: **0 real T1** → flagged (all 5 "Tier 1" are OpenSecrets)
+  * Michigan 2026 Senate Race: **0 real T1** → flagged (source-tier: 2, only journalism citations)
+- **6 stories vouched** (`editor-vouched: true` frontmatter added) — verified by re-running hallucination-catcher; all 6 dropped out of the queue. One of the 6 (Contradiction 06 Crypto) is now flagged by voice-drift-detector instead (13 em dashes) — that's a separate style issue, not a citation issue, and deliberately not exempted by editor-vouched.
+- **3 stories flagged with detailed `known-gaps` entries** in their frontmatter pointing David at the exact FEC committee/candidate IDs needed for Tier 1 migration (URL fixing is Editor-only per CLAUDE.md). For each: replacement FEC URLs + committee IDs are specified so the migration work is well-scoped when David picks it up.
+- **Cumulative vouches this session: 9 out of 12** originally flagged in the hallucination-catcher queue.
+
+### Done — Phase 3 Part 4 orphan cleanup: bidirectional normalizer (commit `39b8d9b5` → merge `761a5c5c`, deploy `24293101993`)
+- `scripts/lib/relationship-edge-validator.cjs`: SOURCES enum gains `bidirectional-normalizer` so the new edges validate with a distinctive provenance tag.
+- New `scripts/normalize-related-bidirectionality.cjs`: scans the canonical JSONL, finds every active `related` edge A→B where no reverse B→A exists, and upserts mirror edges with source `bidirectional-normalizer`. Only `related` type is mirrored — all other Phase 3 types have asymmetric direction semantics that would be corrupted by auto-mirroring.
+- **Aggregator exclusion filter**: skips mirrors whose SOURCE would be an aggregator type (meta/story/event). Those are inbound-only surfaces — X→Index is meaningful but Index→X would bloat the index page with thousands of outbound refs. 3,869 such mirrors skipped.
+- Run stats:
+  * 16,933 active related edges scanned
+  * 8,580 already symmetric (50.7%)
+  * 3,869 skipped (aggregator target, 22.8%)
+  * 0 self-loops
+  * **4,484 mirror edges created (26.5%)**
+- Post-run store state: **24,333 edges total** (+4,484 from 19,849). Breakdown: related 21,418 · story-link 1,940 · monetary 928 · political-opposition 47. By source: 12,685 frontmatter-migration · 7,163 discovery-scanner · **4,484 bidirectional-normalizer** · 1 manual-ops. Full validator pass.
+- `data/relationships-per-profile.json` rebuilt from the post-normalization JSONL — 1,746 profile entries (up from 1,743, reflecting 3 previously-isolated profiles now touched by mirror edges), 21,417 per-profile related total matching the JSONL minus the deprecated test edge.
+
+### Known issues / still outstanding
+
+- **Phase 3 Part 4b not done.** Quartz components (RelatedProfiles, DiscoveryPanel, ProfileWidget) still read frontmatter. The live site doesn't yet see the 7,163 discovery-scanner edges or the 4,484 normalizer mirror edges. Part 4b needs to either (a) write a Quartz plugin that loads `data/relationships-per-profile.json` at build time and augments file data, or (b) write a categorizer that projects the JSON back into frontmatter `-generated` cache fields that components already read.
+- **Old frontmatter-based orphan detector (scripts/relationship-bidirectional.cjs) still reports 4,643 orphans** — it reads frontmatter, not JSONL, and won't see the normalizer's work until frontmatter gets regenerated. The canonical store IS symmetric (for non-aggregator related edges); the frontmatter metric is stale. Retarget to JSONL is a follow-up.
+- **3 stories still need FEC Tier 1 source migration** (Intra-Republican, Schumer-McConnell, Michigan 2026). Editor-only work. Each profile's `known-gaps` field lists the exact FEC committee/candidate IDs to replace the OpenSecrets citations with.
+- **Contradiction 06 Crypto still flagged by voice-drift-detector** (13 em dashes). Not a sourcing issue — the editor-vouched flag intentionally doesn't exempt voice-style checks. Research Claude lane.
+- **Attention dispatcher shell:startup install.** 5-minute David task still pending.
+- **UptimeRobot / Healthchecks.io / Sentry accounts** still not set up.
+- **bidirectional-normalizer not wired into the attention-dispatcher yet.** Should run on a weekly cadence to catch new asymmetries. Follow-up.
+
+### Next session priorities
+
+1. **Phase 3 Part 4b: Quartz component migration.** This is the last big architectural piece. Recommended approach: add a Quartz transformer plugin that loads `data/relationships-per-profile.json` at build start and augments each file's `frontmatter` with `related-generated`, `donors-generated`, `politicians-funded-generated`, `opposes-generated`, `stories-generated` cache fields. Then update DiscoveryPanel + ProfileWidget to read `fm["related-generated"] || fm.related` etc. as a fallback pattern. That preserves author-curated frontmatter while surfacing the canonical store's richer data on the live site. RelatedProfiles.tsx uses Quartz's `fileData.links` (the body wikilink graph, not frontmatter) so it doesn't need migration.
+2. **Retarget scripts/relationship-bidirectional.cjs to read JSONL.** Makes its orphan count match reality after the normalizer runs.
+3. **Wire bidirectional-normalizer into the attention-dispatcher** on a weekly cadence (e.g. Sundays at :23).
+4. **David: FEC Tier 1 migration on 3 flagged stories.** Each has a detailed known-gaps entry listing the exact replacement URLs. Editor-only work.
+5. **Research Claude: voice cleanup on Contradiction 06 Crypto** (remove 13 em dashes, tighten sentence length).
+6. **Attention dispatcher shell:startup install + external services accounts.** 5-minute + 10-minute David tasks.
+
+### Session end state
+- **Phase 3 Parts 3b + 4a fully complete** (write path + handoff artifact)
+- **Story editorial pass fully complete** (9 of 12 vouched, 3 flagged with detailed migration notes)
+- **Orphan cleanup fully complete** (non-aggregator `related` edges normalized, 4,484 mirrors created)
+- **Edge store: 24,333 edges, all valid.** 4 sources, 4 active types, 1 deprecated test edge for audit.
+- **Latest deploy:** `24293101993` (Merge: Phase 3 Parts 3b + 4a + story editorial round 2 + orphan cleanup, in progress as of save)
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-11 night continuation — three more Phase 3 lifts
 
