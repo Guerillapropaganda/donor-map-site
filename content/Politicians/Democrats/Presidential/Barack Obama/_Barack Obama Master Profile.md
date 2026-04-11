@@ -42,7 +42,8 @@ stories: >-
   [[Infrastructure: The Shovel-Ready Betrayal]] · [[Education: Race to the Top]]
   · [[Climate: All of the Above Betrayal]] · [[The Drone Presidency - Seven
   Countries Bombed and the Peace Prize Paradox]] · [[The Post-Presidency
-  Capitalization - From Hope and Change to Martha's Vineyard]]
+  Capitalization - From Hope and Change to Martha's Vineyard]] · [[The HAMP
+  Betrayal - Foaming the Runway While 9 Million Homes Were Lost]]
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   VOTING data is missing entirely. This profile was promoted to ready without
