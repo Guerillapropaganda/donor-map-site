@@ -75,9 +75,7 @@ related: >-
   of the Above Betrayal - Climate Rhetoric, Record Oil Production, and Who
   Funded Both|Climate: All of the Above Betrayal]] · [[Race to the Top - Charter
   Mandates, Hedge Fund Reformers, and the Union Coalition Obama Broke|Education:
-  Race to the Top]] · [[The Shovel-Ready Betrayal - ARRA Infrastructure, the
-  Solyndra Donor Scandal, and Eight Years at D+|Infrastructure: The Shovel-Ready
-  Betrayal]]
+  Race to the Top]]
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
