@@ -162,6 +162,28 @@ export function isHallucinationScanned(type: string): boolean {
 }
 
 /**
+ * Resolve a flat vault type value (e.g. "corporation", "senator",
+ * "investigation") to its top-level rulebook type (e.g. "entity",
+ * "politician", "story"). Mirrors the CJS `resolveTopLevelType` in
+ * scripts/lib/profile-type-rulebook.cjs.
+ *
+ * Lookup order:
+ *   1. If `type` is itself a top-level rulebook entry, return it unchanged.
+ *   2. If `type` matches any top-level type's sub-category, return the parent.
+ *   3. Otherwise return null.
+ */
+export function resolveTopLevelType(type: string | undefined | null): string | null {
+  if (!type) return null
+  const r = loadRulebook()
+  if (r.types[type]) return type
+  for (const [topName, topEntry] of Object.entries(r.types)) {
+    const subs = topEntry["sub-categories"] || {}
+    if (type in subs) return topName
+  }
+  return null
+}
+
+/**
  * Compose the effective check list for (type, category, tier) by applying
  * sub-category overrides onto the base rulebook. Mirrors the CJS
  * `resolveChecks` function in scripts/lib/profile-type-rulebook.cjs.

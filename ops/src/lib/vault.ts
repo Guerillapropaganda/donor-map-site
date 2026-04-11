@@ -200,42 +200,144 @@ export function parseProfile(path: string, content: string): Profile {
   }
 }
 
-// Profile completeness score (0-100)
-// Scored on 5 dimensions: frontmatter, sources, connections, content, enrichment
-export function completenessScore(profile: Profile, content: string): number {
-  let score = 0
+// Per-type weights for the 5 scoring dimensions. Sum to 100 per row.
+//
+// Why the weights differ:
+//   - Stories don't run through the FEC/LDA enrichment pipelines — they're
+//     synthesis of already-enriched donor/politician profiles. Penalizing
+//     them 20 points for "never enriched" is a false negative, which is
+//     why vault-health stats used to report stories as perpetually below
+//     50%. Stories lean into content (body length) and connections instead.
+//
+//   - Media profiles are themselves the primary sources — a podcaster
+//     profile IS where a citation lives, not a profile citing three other
+//     Tier 1 sources. Dropping sources weight lets them get honest scores.
+//
+//   - Events are ephemeral — a digest or filing note doesn't need deep
+//     connections or long body text. Frontmatter validity + a source URL
+//     is the whole standard.
+//
+//   - Meta / admin-note / system files exist purely as infrastructure.
+//     Scoring them on completeness is a category error; we push almost
+//     everything to frontmatter hygiene.
+//
+// Top-level types come from scripts/lib/profile-type-rulebook.cjs. The
+// resolveTopLevelType() helper in ops/src/lib/profile-type-rulebook.ts maps
+// flat vault types ("corporation", "senator") to their top-level parent
+// ("entity", "politician") before lookup here. Unknown types fall through
+// to DEFAULT_WEIGHTS.
+interface CompletenessWeights {
+  frontmatter: number
+  sources: number
+  connections: number
+  content: number
+  enrichment: number
+}
 
-  // 1. Frontmatter (20 points) — has key metadata fields
+const WEIGHTS_BY_TYPE: Record<string, CompletenessWeights> = {
+  politician: { frontmatter: 15, sources: 25, connections: 20, content: 20, enrichment: 20 },
+  donor:      { frontmatter: 15, sources: 25, connections: 20, content: 20, enrichment: 20 },
+  entity:     { frontmatter: 15, sources: 25, connections: 20, content: 20, enrichment: 20 },
+  judicial:   { frontmatter: 15, sources: 25, connections: 20, content: 20, enrichment: 20 },
+  media:      { frontmatter: 20, sources: 10, connections: 25, content: 30, enrichment: 15 },
+  story:      { frontmatter: 10, sources: 25, connections: 25, content: 40, enrichment:  0 },
+  event:      { frontmatter: 35, sources: 20, connections:  5, content: 40, enrichment:  0 },
+  meta:       { frontmatter: 50, sources: 10, connections: 10, content: 30, enrichment:  0 },
+}
+const DEFAULT_WEIGHTS: CompletenessWeights = {
+  frontmatter: 20,
+  sources: 20,
+  connections: 20,
+  content: 20,
+  enrichment: 20,
+}
+
+// Tier 1 source floor per top-level type. Types that ARE sources (media)
+// or don't cite traditional Tier 1 filings (story, event, meta) have
+// relaxed or zero floors.
+const TIER1_FLOOR_BY_TYPE: Record<string, number> = {
+  politician: 3,
+  donor: 3,
+  entity: 3,
+  judicial: 3,
+  media: 1,
+  story: 3, // stories still need Tier 1 — they're citing pipeline data
+  event: 1,
+  meta: 0,
+}
+
+/**
+ * Profile completeness score (0-100).
+ *
+ * Type-aware as of Phase 1d. Each profile is scored against its own
+ * top-level rulebook type's weight row. Pass topLevelType explicitly
+ * from the vault walker (local-vault.ts) so we only resolve types once
+ * per vault load.
+ */
+export function completenessScore(
+  profile: Profile,
+  content: string,
+  topLevelType?: string | null,
+): number {
+  const weights = (topLevelType && WEIGHTS_BY_TYPE[topLevelType]) || DEFAULT_WEIGHTS
+  const tier1Floor = (topLevelType && TIER1_FLOOR_BY_TYPE[topLevelType]) ?? 3
+
+  // 1. Frontmatter — has key metadata fields. Scale the 0..1 fraction
+  // by the weight.
   const hasFm = [
     !!profile.type && profile.type !== "unknown",
     !!profile.lastUpdated,
     !!profile.sourceTier,
     profile.contentReadiness !== "raw",
   ]
-  score += Math.round((hasFm.filter(Boolean).length / hasFm.length) * 20)
+  const fmFraction = hasFm.filter(Boolean).length / hasFm.length
+  let score = fmFraction * weights.frontmatter
 
-  // 2. Sources (20 points) — has Tier 1 sources
+  // 2. Sources. Tier 1 floor is per-type. Below floor we scale linearly.
   const sources = countSources(content)
-  if (sources.tier1 >= 3) score += 20
-  else if (sources.tier1 >= 1) score += 15
-  else if (sources.total >= 1) score += 5
+  if (tier1Floor === 0) {
+    // Meta types: any source at all gets full credit; zero sources gets 0.
+    if (sources.total >= 1) score += weights.sources
+  } else if (sources.tier1 >= tier1Floor) {
+    score += weights.sources
+  } else if (sources.tier1 >= 1) {
+    score += weights.sources * 0.75
+  } else if (sources.total >= 1) {
+    score += weights.sources * 0.25
+  }
 
-  // 3. Connections (20 points) — has related/donors/opposes
+  // 3. Connections — has related/donors/opposes. Events get a partial
+  // credit floor so they're not unduly penalized for being short notes.
   const hasRelated = !!(profile.related || content.match(/^related:\s*.+/m))
   const hasDonors = !!(profile.donors || content.match(/^donors:\s*.+/m))
-  if (hasRelated && hasDonors) score += 20
-  else if (hasRelated || hasDonors) score += 10
+  if (hasRelated && hasDonors) {
+    score += weights.connections
+  } else if (hasRelated || hasDonors) {
+    score += weights.connections * 0.5
+  } else if (topLevelType === "event" || topLevelType === "meta") {
+    // Events/meta don't require connections — give them the floor anyway.
+    score += weights.connections * 0.5
+  }
 
-  // 4. Content (20 points) — has editorial body text
+  // 4. Content — editorial body text. Thresholds scale with the weight
+  // so that story profiles (weight 40) actually reward long-form writing
+  // while entity profiles (weight 20) cap out at shorter lengths.
   const bodyLength = content.split("---").slice(2).join("---").trim().length
-  if (bodyLength > 2000) score += 20
-  else if (bodyLength > 500) score += 15
-  else if (bodyLength > 100) score += 5
+  if (bodyLength > 2000) score += weights.content
+  else if (bodyLength > 500) score += weights.content * 0.75
+  else if (bodyLength > 100) score += weights.content * 0.25
 
-  // 5. Enrichment (20 points) — has been enriched by pipelines
-  if (profile.lastEnriched) score += 20
+  // 5. Enrichment — pipelines stamp lastEnriched. Stories / events / meta
+  // have enrichment weight = 0 so they're not penalized for never running
+  // through FEC or LDA.
+  if (weights.enrichment > 0 && profile.lastEnriched) {
+    score += weights.enrichment
+  } else if (weights.enrichment === 0) {
+    // Silent full credit — the dimension doesn't apply to this type.
+    // Not adding score here; the 0 weight is the whole point.
+  }
 
-  return score
+  return Math.round(score)
 }
 
 // Count sources in markdown content
