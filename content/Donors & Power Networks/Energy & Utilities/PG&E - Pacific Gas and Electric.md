@@ -2,7 +2,7 @@
 title: "PG&E - Pacific Gas and Electric"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -23,6 +23,34 @@ regulatory-agencies:
   - "Energy Efficiency and Renewable Energy Office"
   - "Federal Energy Regulatory Commission"
   - "Western Area Power Administration"
+sec-filings: 363
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "10-Q/A"
+  - "8-K"
+  - "DEF 14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.11"
+  - "EX-10.18"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.3"
+  - "EX-10.34"
+  - "EX-10.4"
+  - "EX-21"
+  - "EX-21.0"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.10"
+  - "EX-99.3"
+  - "EX-99.4"
+  - "EX-99.6"
+  - "N-CSR"
+  - "N-CSRS"
+  - "NPORT-EX"
 ---
 #pge #pacific-gas-electric #california #utility #wildfire #camp-fire #monopoly #negligence
 
@@ -110,3 +138,21 @@ PG&E represents the extreme case of utility political capture: a company that ha
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 363 |
+| Form Types | 10-K, 10-K/A, 10-Q, 10-Q/A, 8-K, DEF 14A, EX-10, EX-10.1 +18 more |
+
+**Notable filings:**
+
+- 2015-02-10 — **EX-21.0**: SUBSIDIARIES OF THE REGISTRANT
+- 2012-02-16 — **EX-21**: SUBSIDIARIES OF THE REGISTRANT
+- 2014-02-11 — **EX-21.0**: SUBSIDIARIES OF THE REGISTRANT
+- 2009-02-24 — **EX-21**: SIGNIFICANT SUBSIDIARIES
+- 2009-02-24 — **EX-21**: SIGNIFICANT SUBSIDIARIES
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1)
+<!-- auto:sec-edgar end -->

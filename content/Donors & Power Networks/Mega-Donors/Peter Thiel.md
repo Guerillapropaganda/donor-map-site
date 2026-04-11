@@ -296,7 +296,7 @@ Media/free press — Gawker precedent as billionaire weapon against journalism
 - [[Vivek Ramaswamy]] — lobbying: $1.7M
 - [[Mike Johnson]] — lobbying: $1.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

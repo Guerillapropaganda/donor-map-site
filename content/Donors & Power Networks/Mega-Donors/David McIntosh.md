@@ -2,7 +2,7 @@
 title: "David McIntosh"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -14,7 +14,7 @@ politicians-funded:
   - "Roy Cooper"
   - "Donald Trump"
 related: "[[Club for Growth]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 federal-register-mentions: 10
 regulatory-agencies:
   - "Energy Department"
@@ -24,6 +24,18 @@ regulatory-agencies:
   - "Occupational Safety and Health Administration"
   - "State Department"
 total-political-spend: "$53,369"
+court-cases: 98
+court-jurisdictions:
+  - "Court of Appeals for the D.C. Circuit"
+  - "Court of Appeals for the Ninth Circuit"
+  - "District Court, D. Arizona"
+  - "District Court, D. Massachusetts"
+  - "District Court, D. South Carolina"
+  - "District Court, M.D. Florida"
+  - "District Court, N.D. Ohio"
+  - "District Court, S.D. New York"
+  - "District Court, W.D. Arkansas"
+  - "District Court, W.D. Texas"
 ---
 
 #mega-donor #republican #primary-kingmaker #club-for-growth
@@ -128,3 +140,22 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=David%20McIntosh) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 98 |
+| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Arizona, District Court, D. Massachusetts, District Court, D. South Carolina, District Court, M.D. Florida, District Court, N.D. Ohio, District Court, S.D. New York +6 more |
+| Case Types | 365 Personal Inj. Prod. Liability, 367 Personal Injury: Health Care/Pharmaceutical Personal Injury Product Liability, 480 Consumer Credit, 840 Trademark, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
+
+**Notable cases:**
+- American Public Health Association v. EPA (2026) — Court of Appeals for the D.C. Circuit
+- Armstrong v. 3M Company (2025) — District Court, D. South Carolina
+- Eggers v. 3M Company, f/k/a Minnesota Mining and Manufacturing Co. (2025) — District Court, D. South Carolina
+- In re: Suboxone (Buprenorphine/Naloxone) Film Products Liability Litigation (2025) — District Court, N.D. Ohio
+- President and Fellows of Harvard College v. US Department of Health and Human Services (2025) — District Court, D. Massachusetts
+- Gjovik v. Apple Inc. (2025) — Court of Appeals for the Ninth Circuit
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22David%20McIntosh%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

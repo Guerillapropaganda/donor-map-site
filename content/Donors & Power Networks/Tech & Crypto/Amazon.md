@@ -2,7 +2,7 @@
 title: "Amazon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -51,6 +51,8 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Texas"
   - "District Court, S.D. Florida"
+lei: "894500WLF86O68OWI258"
+lei-jurisdiction: "IN"
 ---
 #donor #tech #corporation #anti-union #lobbying #government-contracts #labor #surveillance #revolving-door #bezos
 
@@ -312,7 +314,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -335,7 +337,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - [[Donald Trump]] — lobbying: $42.1M
 - [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $42.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -478,3 +480,18 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Amazon%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [894500WLF86O68OWI258](https://search.gleif.org/#/record/894500WLF86O68OWI258) |
+| Legal Name | Amazon Seeds |
+| Jurisdiction | IN |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-05-09T06:18:05Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -325,7 +325,14 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 |--------|-------|
 | Politicians Funded | 6 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | None |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Budget/Appropriations** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **Chris Coons** → Sits on **Senate Committee on the Judiciary**
+- Lobbies on **Defense** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
+- Lobbies on **Foreign Relations** → Funds **Chris Coons** → Sits on **Senate Committee on Foreign Relations**
 
 **Funded politicians:**
 
@@ -333,8 +340,8 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 - [[Brett Guthrie]] — lobbying: $2.7M
 - [[Billy Tauzin]] — lobbying: $2.7M
 - [[Frank Pallone]] (Energy & Commerce, Environment & Public Works) — lobbying: $2.7M
-- [[Chris Coons]] — lobbying: $2.7M
+- [[Chris Coons]] (Senate Committee on Appropriations, Senate Committee on Foreign Relations, Senate Committee on Small Business and Entrepreneurship) — lobbying: $2.7M
 - [[Cory Booker]] — lobbying: $2.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

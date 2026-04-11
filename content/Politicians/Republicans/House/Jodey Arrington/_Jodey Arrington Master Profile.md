@@ -290,3 +290,22 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 - [GovTrack: Jodey Arrington](https://www.govtrack.us/congress/members/412726) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Heritage Foundation** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **Heritage Foundation** donates → Lobbies on **Budget/Appropriations** → This member sits on **Budget**
+
+**Donors who lobby (by spend):**
+
+- [[Heritage Foundation]] — $1.6M lobbying spend (Agriculture, Arts/Entertainment, Banking)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

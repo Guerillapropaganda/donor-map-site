@@ -2,7 +2,7 @@
 title: "Bernie Sanders Master Profile"
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Independent"
@@ -13,15 +13,16 @@ state-abbr: "VT"
 bioguide-id: "S000033"
 fec-candidate-id: "S4VT00033"
 issues:
-  - "Labor & Workers Rights"
-  - "Medicare for All / Single Payer Healthcare"
-  - "Small-Dollar Campaign Finance"
-  - "Dark Money & Oligarchy"
-  - "Climate & Green New Deal"
-  - "$15+ Minimum Wage"
-  - "Student Debt & Higher Education"
-  - "Israel & Foreign Policy"
-  - "Antitrust & Anti-Monopoly"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Social Welfare"
+  - "Taxation"
 committees:
   - "Health, Education, Labor & Pensions (Ranking Member, 119th Congress)"
 former-committees:
@@ -52,6 +53,7 @@ editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: ready-candidate
 editorial-notes: "Depth review 2026-04-10. BODY IS EXCEPTIONAL — arguably the strongest class analysis narrative in the vault. 'Exception that proves the rule' framing is the vault's canonical anti-donor case study. Four analytical patterns documented (Small-Dollar Model + Structural Limit, Two-Audience Problem / Sheepdog Function, ActBlue Dependency, Billionaire-Class vs Party-as-Institution Villain Framing). Body not touched in this pass. FIXED (Research Claude): party Democrat→Independent with caucus: Democratic (he's the longest-serving Independent in Congress, this was a factual error), added bioguide-id S000033 (enables Congress pipeline), expanded issues list from 1 to 9 entries, added committees + former-committees (HELP Ranking Member, Budget Chair 118th), expanded top-donors to include small-dollar model, structured opposes field, expanded related wikilinks to include Squad members and anti-donor coalition, cleaned known-gaps (removed factually-wrong 'No mapped relationships' — 17 wikilinks exist). REMOVED: body inline dataview 'donors: [[...]]' line per frontmatter-only rule. REMOVED: body inline dataview 'research-status:: ready' line. REMOVED: double '---' separator artifact. STAYS draft per tightened Vault Rules: known-gaps explicitly cite missing Congress.gov + GovTrack pipeline data, and stale FEC auto-block (shows 2006 cycle). Cannot promote to ready until pipeline repopulates with correct bioguide-driven enrichment. Flagged needs-reenrichment: true so next pipeline run picks him up. Once clean data lands, re-review for verified-candidate flag."
+last-enriched: "2026-04-11"
 ---
 #sanders #master-profile #senator #independent #democratic-socialist #class-analysis #follow-the-money #vermont #labor #single-payer #medicare-for-all #small-dollar #anti-donor
 
@@ -322,4 +324,38 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 <!-- auto:fec-politician end -->
 
 ### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
 
+- [Congress.gov: Bernie Sanders](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
+
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Independent |
+| State | VT |
+| Chamber | Senate |
+| Bills Sponsored | 1164 |
+| Bills Cosponsored | 7839 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Finance and Financial Sector, Government Operations and Politics, International Affairs, Labor and Employment, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4272 | A bill to keep professional sports franchises in their home communities, and for… | Read twice and referred to the Committee on Commerce, Science, and Transportation. |
+| 4214 | A bill to impose a moratorium on the construction of new data centers until legi… | Read twice and referred to the Committee on Commerce, Science, and Transportation. |
+| 138 | A joint resolution providing for congressional disapproval of the proposed forei… | Read twice and referred to the Committee on Foreign Relations. |
+| 137 | A joint resolution providing for congressional disapproval of the proposed forei… | Read twice and referred to the Committee on Foreign Relations. |
+| 136 | A joint resolution providing for congressional disapproval of the proposed licen… | Read twice and referred to the Committee on Foreign Relations. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000033) (Tier 1)
+<!-- auto:congress-legislation end -->

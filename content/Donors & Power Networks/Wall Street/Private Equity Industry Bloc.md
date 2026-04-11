@@ -89,5 +89,5 @@ Additional priorities: favorable SEC regulation of fund disclosures, opposition 
 
 - [[Kyrsten Sinema]] — lobbying: $2.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

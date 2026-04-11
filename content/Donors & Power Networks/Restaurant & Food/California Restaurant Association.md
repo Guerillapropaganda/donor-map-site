@@ -313,5 +313,5 @@ Labor — FAST Act, AB 1228, fast food minimum wage, joint liability
 
 - [[Gavin Newsom]] — lobbying: $10.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

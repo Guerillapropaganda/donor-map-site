@@ -259,5 +259,5 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 
 - [[Vivek Ramaswamy]] — lobbying: $925K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

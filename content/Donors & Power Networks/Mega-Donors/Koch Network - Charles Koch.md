@@ -1020,3 +1020,68 @@ This architecture allows the Koch Network to:
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Koch%20Network%20-%20Charles%20Koch) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 32 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 10 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
+- Lobbies on **Immigration** → Funds **Jim Jordan** → Sits on **Judiciary**
+- Lobbies on **Banking** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Cornyn** → Sits on **Finance**
+- Lobbies on **Immigration** → Funds **John Cornyn** → Sits on **Judiciary**
+- Lobbies on **Agriculture** → Funds **Joni Ernst** → Sits on **Agriculture**
+- Lobbies on **Banking** → Funds **Mike Crapo** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **Mike Crapo** → Sits on **Finance**
+- Lobbies on **Immigration** → Funds **Ted Cruz** → Sits on **Senate Committee on the Judiciary**
+- Lobbies on **Transportation** → Funds **Ted Cruz** → Sits on **Senate Committee on Commerce, Science, and Transportation**
+- Lobbies on **Banking** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Banking** → Funds **Paul Ryan** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **Paul Ryan** → Sits on **Finance**
+- Lobbies on **Agriculture** → Funds **Jerry Moran** → Sits on **Agriculture**
+- Lobbies on **Immigration** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
+
+**Funded politicians:**
+
+- [[Donald Trump]] — lobbying: $21.3M
+- [[Gavin Newsom]] — lobbying: $21.3M
+- [[Nikki Haley]] — lobbying: $21.3M
+- [[Mike Rogers]] (Armed Services) — lobbying: $21.3M
+- [[Greg Abbott]] — lobbying: $21.3M
+- [[Ron DeSantis]] — lobbying: $21.3M
+- [[Jim Jordan]] (Judiciary) — lobbying: $21.3M
+- [[Bill Cassidy]] — lobbying: $21.3M
+- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $21.3M
+- [[Joni Ernst]] (Agriculture) — lobbying: $21.3M
+- [[Josh Hawley]] — lobbying: $21.3M
+- [[Mike Crapo]] (Finance) — lobbying: $21.3M
+- [[Mitch McConnell]] — lobbying: $21.3M
+- [[Rand Paul]] — lobbying: $21.3M
+- [[Ted Cruz]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Foreign Relations, Senate Committee on Rules and Administration) — lobbying: $21.3M
+- [[Thom Tillis]] — lobbying: $21.3M
+- [[Tim Scott]] — lobbying: $21.3M
+- [[Chris Wright]] — lobbying: $21.3M
+- [[Doug Burgum]] — lobbying: $21.3M
+- [[Lee Zeldin]] — lobbying: $21.3M
+- [[Mike Pompeo]] — lobbying: $21.3M
+- [[Clarence Thomas]] — lobbying: $21.3M
+- [[John Roberts]] — lobbying: $21.3M
+- [[Neil Gorsuch]] — lobbying: $21.3M
+- [[Samuel Alito]] — lobbying: $21.3M
+- [[Bryan Steil]] — lobbying: $21.3M
+- [[John Boehner]] (Finance) — lobbying: $21.3M
+- [[Paul Ryan]] (Finance) — lobbying: $21.3M
+- [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $21.3M
+- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $21.3M
+- [[Shelley Moore Capito]] (Environment & Public Works) — lobbying: $21.3M
+- [[Pete Hegseth]] — lobbying: $21.3M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "Adelson Family"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -16,7 +16,7 @@ annual-revenue: "$706K"
 net-assets: "$5.9M"
 tax-year: "2023"
 related: "[[Catherine Cortez Masto]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile|Trump]] · [[_Benjamin Netanyahu Master Profile|Netanyahu]] · [[_Marco Rubio Master Profile|Rubio]] · [[Preserve America]] · [[MAGA Inc]] · [[Koch Network - Charles Koch]] · [[Timothy Mellon]] · [[Haim Saban]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[UNITE HERE]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 total-political-spend: "$1,000"
 nonprofit-status: "501(c)(3)"
 total-revenue: 4067997

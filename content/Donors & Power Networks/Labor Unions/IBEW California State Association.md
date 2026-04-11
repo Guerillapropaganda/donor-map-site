@@ -2,7 +2,7 @@
 title: "IBEW California State Association"
 type: donor
 content-readiness: draft
-last-updated: 2026-03-24
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -14,6 +14,11 @@ known-gaps:
   - "No lobbying disclosure data"
   - "No mapped relationships"
 related: "[[IBEW - International Brotherhood of Electrical Workers]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[California Building and Construction Trades Council]] · [[PG&E]] · [[_Gavin Newsom Master Profile]] · [[California Labor Federation]]"
+ein: "940362021"
+nonprofit-status: "501(c)(5)"
+last-enriched: "2026-04-11"
+total-revenue: 4354834
+total-assets: 13058415
 ---
 #donor #union #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #california #building-trades #labor #class-analysis #follow-the-money #state-level #prevailing-wage #[[PG&E|PG&E]] #clean-energy
 
@@ -71,3 +76,27 @@ The California locals vary politically by region. Bay Area locals operate in a s
 
 research-status:: ready — Promoted Session 39. — Local 1245/PG&E relationship documented, SB 410 win documented, SB 984 loss documented. Full Cal-Access pull needed for aggregate California IBEW PAC spending across all locals. Individual local membership numbers not yet compiled.
 
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 940362021 |
+| Tax-Exempt Status | 501(c)(5) |
+| Total Revenue | $4.4M |
+| Total Assets | $13.1M |
+| IRS Ruling Date | 1984-06-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940362021) (Tier 1)
+<!-- auto:nonprofit-990 end -->

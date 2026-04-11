@@ -98,7 +98,7 @@ The Pentagon has failed its financial audit every year since audits began in 201
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -106,20 +106,23 @@ The Pentagon has failed its financial audit every year since audits began in 201
 |--------|-------|
 | Politicians Funded | 2 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
+| Committee Overlap Detected | 2 politicians |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Budget/Appropriations** → Funds **Patty Murray** → Sits on **Appropriations**
 - Lobbies on **Defense** → Funds **Patty Murray** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **Tommy Tuberville** → Sits on **Senate Committee on Armed Services**
+- Lobbies on **Health Issues** → Funds **Tommy Tuberville** → Sits on **Senate Committee on Health, Education, Labor, and Pensions**
+- Lobbies on **Defense & Military** → Funds **Tommy Tuberville** → Sits on **Senate Committee on Armed Services**
 
 **Funded politicians:**
 
 - [[Patty Murray]] (Appropriations) — lobbying: $2.0M
-- [[Tommy Tuberville]] — lobbying: $2.0M
+- [[Tommy Tuberville]] (Senate Committee on Agriculture, Nutrition, and Forestry, Senate Committee on Armed Services, Senate Committee on Health, Education, Labor, and Pensions) — lobbying: $2.0M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

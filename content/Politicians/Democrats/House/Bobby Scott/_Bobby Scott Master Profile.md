@@ -2,7 +2,7 @@
 title: "Bobby Scott"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -15,8 +15,16 @@ committees:
 leadership-roles:
   - "Ranking Member"
 issues:
+  - "Agriculture and Food"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Economics and Public Finance"
   - "Education"
-  - "Labor & Workers"
+  - "Environmental Protection"
+  - "Families"
+  - "Health"
+  - "Labor and Employment"
 top-donors:
   - "SEIU"
 govtrack-id: 400364
@@ -37,6 +45,8 @@ opensanctions-datasets:
   - "wd_peps"
   - "wikidata"
   - "us_congress"
+last-enriched: "2026-04-11"
+bioguide-id: "S000185"
 ---
 #bobby-scott #democrat #virginia #house #ranking-member #education #labor #unions #phase-6-gavel-power
 
@@ -237,3 +247,32 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 - [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Bobby%20Scott) (Tier 1)
 <!-- auto:opensanctions end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Virginia |
+| Chamber | House of Representatives |
+| Bills Sponsored | 331 |
+| Bills Cosponsored | 4485 |
+
+**Policy areas:** Agriculture and Food, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Economics and Public Finance, Education, Environmental Protection, Families, Health, Labor and Employment, Public Lands and Natural Resources, Sports and Recreation, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7340 | Rebuild America’s Schools Act of 2026 | Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6893 | Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and S… | Subcommittee Hearings Held |
+| 6597 | LET’S Protect Workers Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5740 | WIC Benefits Protection Act | Referred to the House Committee on Education and Workforce. |
+| 4862 | LOAN Act | Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 4771 | Transformation to Competitive Integrated Employment Act | Referred to the House Committee on Education and Workforce. |
+| 4418 | Child Care for Working Families Act | Referred to the House Committee on Education and Workforce. |
+| 3997 | Protecting Children Act | Referred to the House Committee on Education and Workforce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000185) (Tier 1)
+<!-- auto:congress-legislation end -->

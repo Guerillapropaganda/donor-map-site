@@ -2,7 +2,7 @@
 title: "Cori Bush"
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -18,12 +18,16 @@ total-received: "$534,492"
 fec-candidate-id: "H8MO01143"
 fec-committee-id: "C00638767"
 issues:
-  - Israel & Foreign Policy
-  - Healthcare
-  - Housing
-  - Police Reform
-  - Climate
-  - Campaign Finance
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
 related: "[[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]] · [[_Ayanna Pressley Master Profile|Ayanna Pressley]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]]"
 donors:
   - "Justice Democrats PAC"
@@ -59,7 +63,7 @@ checklist-na:
 known-gaps:
   - 2026 comeback campaign ongoing — state-level polling and endorsements not yet fully documented
   - Federal indictment (Aug 2025) outcome pending — court filings need citation once resolved
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
@@ -67,6 +71,15 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 
 [URL Check 2026-04-09] 12 checked: 8 ok, 3 broken, 1 slow. | BROKEN: bush.house.gov: About | BROKEN: Politico: Cori Bush comeback bid | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us | [RESEARCH] Needs Research Claude: Connections sparse: only 1 in YAML, body mentions AIPAC/Justice Democrats/DMFI not mapped | [RESEARCH] Needs Research Claude: Unresolved [!contradiction] about anti-establishment brand vs self-dealing | [RESEARCH] Needs Research Claude: bush.house.gov marked (URL NEEDED) — site likely dead since she left office | [RESEARCH] Needs Research Claude: committee-assignments: N/A (lost 2024 primary, no longer in Congress) | [URL Check 2026-04-09] 11 checked: 8 ok, 3 broken, 0 slow. | BROKEN: Politico: Cori Bush announces 2026 comeback bid | BROKEN: Source: Congress.gov | BROKEN: Source: Congress.gov | [CODE @ 2026-04-09] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24174767515 | [CODE @ 2026-04-10] DEMOTED ready→draft. Reasons: (1) auto:congress-legislation and auto:committee-assignments blocks contained wrong bioguide A000383 (pipeline fuzzy-match bug, now fixed) — removed. (2) auto:govtrack block showed 0/0 bills but frontmatter says 39/756 — stripped for re-run. (3) Body marker falsely said (VERIFIED) on stale data. Needs Research Claude re-review after pipelines run fresh. | [CODE @ 2026-04-10] Pipeline: govtrack completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24252644830 | [CODE @ 2026-04-10] Pipeline: congress completed for Cori Bush. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24254283707"
+total-raised: "$534,492"
+total-spent: "$352,962"
+cash-on-hand: "203864.16"
+fec-cycle: 2026
+fec-debt: "13374.55"
+wikidata-id: "Q98084800"
+wikipedia-url: "https://en.wikipedia.org/wiki/Cori_Bush"
+wikipedia-extract: "Cori Anika Bush is an American politician, nurse, pastor, and Black Lives Matter activist who served as the U.S. representative for Missouri's 1st congressional district from 2021 to 2025."
+born: "1976-07-21"
 ---
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
@@ -212,6 +225,38 @@ AIPAC's spending against Bush was not proportional to her Israel critique — it
 - [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1) (VERIFIED: Removed from bad)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | MO |
+| Chamber | Former House |
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 756 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Social Welfare, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1278 | Affirming the importance of the survival of Garífuna culture and identity, conde… | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 8470 | Helping Families Heal Act of 2024 | Referred to the Subcommittee on Health. |
+| 92 | Honoring the Mary Meachum Freedom Crossing. | Sponsor introductory remarks on measure. (CR H769) |
+| 786 | Calling for an immediate deescalation and cease-fire in Israel and occupied Pale… | Referred to the House Committee on Foreign Affairs. |
+| 634 | Unhoused Persons Bill of Rights | Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture. |
+| 4972 | End Solitary Confinement Act | Referred to the House Committee on the Judiciary. |
+| 4901 | Reproductive Health Care Accessibility Act | Referred to the Subcommittee on Health. |
+| 4699 | The People’s Response Act | Referred to the Subcommittee on Health. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001224) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |
@@ -243,6 +288,41 @@ AIPAC's spending against Bush was not proportional to her Israel critique — it
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
 <!-- auto:govtrack end -->
+
+<!-- auto:govtrack pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 38 |
+| Bills Cosponsored | 756 |
+| Total Votes Cast | 2,239 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropriat — *This resolution was introduced on June 5, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 8470: Helping Families Heal Act of 2024 — *This bill was introduced on May 21, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Con.Res. 92: Honoring the Mary Meachum Freedom Crossing. — *This resolution was introduced on February 20, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine. — *This resolution was introduced on October 25, 2023, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 634: Unhoused Persons Bill of Rights — *This resolution was introduced on July 28, 2023, in a previous session of Congress, but it did not receive a vote.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
+
+<!-- auto:govtrack pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -308,3 +388,82 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 
 - [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Yea** | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Yea** | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Yea** | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Yea** | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Yea** | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Yea** | Passed |
+| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Nay** | Passed |
+| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **No** | Passed |
+| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Yea** | Passed |
+| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Yea** | Passed |
+| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Yea** | Passed |
+| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Yea** | Passed |
+| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Cori Bush](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $534,492 |
+| Total Spent | $352,962 |
+| Cash on Hand | 203864.16 |
+| Debt | 13374.55 |
+| Individual Contributions | $377,596 |
+| PAC Contributions | $0 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $534,492 | $352,962 | 203864.16 |
+| 2024 | $4,165,846 | $4,154,359 | 22333.49 |
+| 2022 | $2,448,937 | $2,522,593 | 10847.18 |
+| 2020 | $1,429,837 | $1,345,334 | 84502.71 |
+| 2018 | $177,038 | $177,038 | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Cori Anika Bush is an American politician, nurse, pastor, and Black Lives Matter activist who served as the U.S. representative for Missouri's 1st congressional district from 2021 to 2025.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q98084800](https://www.wikidata.org/wiki/Q98084800) |
+| Description | American politician, nurse, and activist (born 1976) |
+| Born | 1976-07-21 |
+| Website | [https://coribush.org/](https://coribush.org/) |
+| X/Twitter | [@CoriBush](https://x.com/CoriBush) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cori_Bush_117th_U.S_Congress.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q98084800) (Tier 2)
+<!-- auto:wikipedia end -->

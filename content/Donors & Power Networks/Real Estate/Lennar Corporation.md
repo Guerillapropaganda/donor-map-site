@@ -2,7 +2,7 @@
 title: "Lennar Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -53,6 +53,38 @@ known-gaps:
   - "No lobbying disclosure data"
 lobbying-spend: 0
 lobbying-filings: 8
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-K/A"
+  - "10-Q"
+  - "424B2"
+  - "424B3"
+  - "425"
+  - "8-K"
+  - "CORRESP"
+  - "DEF 14A"
+  - "EX-10"
+  - "EX-10.1"
+  - "EX-10.16"
+  - "EX-10.18"
+  - "EX-10.19"
+  - "EX-10.2"
+  - "EX-10.20"
+  - "EX-10.3"
+  - "EX-21"
+  - "EX-3.2"
+  - "EX-99"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "EX-99.3"
+  - "FWP"
+  - "PROXY VOTING RECORD"
+  - "S-8"
+  - "S-8 POS"
+  - "SC 13D/A"
+  - "SC 13G/A"
+  - "SC TO-I/A"
 ---
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
 
@@ -287,3 +319,21 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Lennar%20Corporation) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-K/A, 10-Q, 424B2, 424B3, 425, 8-K, CORRESP +22 more |
+
+**Notable filings:**
+
+- 2024-06-27 — **CORRESP**: CORRESP
+- 2008-01-25 — **EX-10.3**: SECOND AMENDMENT TO CREDIT AGREEMENT DATED JANUARY 23, 2008
+- 2007-08-27 — **EX-10.2**: FIRST AMENDMENT TO CREDIT AGREEMENT
+- 2004-10-28 — **EX-99.1**: CONSOLIDATED FINANCIAL STATEMENTS
+- 2016-10-27 — **EX-99.1**: EX-99.1
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lennar%20Corporation%22) (Tier 1)
+<!-- auto:sec-edgar end -->

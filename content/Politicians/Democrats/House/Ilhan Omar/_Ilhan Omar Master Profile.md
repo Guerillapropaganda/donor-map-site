@@ -2,7 +2,7 @@
 title: "Ilhan Omar Master Profile"
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,17 +13,21 @@ district: "5"
 bioguide-id: "O000173"
 fec-committee-id: "C00680934"
 committees:
-  - "Budget"
-  - "Education & Labor"
+  - "House Committee on Education and Workforce"
+  - "House Committee on the Budget"
 former-committees:
   - "Foreign Affairs (removed February 2, 2023 by 218-211 House vote)"
 issues:
-  - "Israel & Foreign Policy"
-  - "Education"
-  - "Refugee Policy"
-  - "Labor"
-  - "Healthcare"
-  - "Climate"
+  - "Agriculture and Food"
+  - "Animals"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Energy"
+  - "Environmental Protection"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
+  - "International Affairs"
 total-received: "$3,125,783"
 fec-candidate-id: "H8MN05239"
 source-types:
@@ -56,6 +60,15 @@ reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-11"
+total-raised: "$3,125,783"
+total-spent: "$2,329,199"
+cash-on-hand: "1120804.52"
+fec-cycle: 2026
+wikidata-id: "Q26436159"
+wikipedia-url: "https://en.wikipedia.org/wiki/Ilhan_Omar"
+wikipedia-extract: "Ilhan Abdullahi Omar is an American politician serving as the U.S. representative for Minnesota's 5th congressional district since 2019. She is a member of the Democratic Party."
+born: "1982-10-04"
 ---
 #omar #minnesota #progressive #squad #foreign-affairs #israel #somalia #refugee #budget #education
 
@@ -262,3 +275,89 @@ The FEC opened an inquiry into Omar's small-dollar fundraising patterns — the 
 - [Congress.gov: Ilhan Omar](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
 
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | MN |
+| Chamber | House |
+| Bills Sponsored | 122 |
+| Bills Cosponsored | 2177 |
+
+**Policy areas:** Agriculture and Food, Animals, Commerce, Crime and Law Enforcement, Energy, Environmental Protection, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Native Americans, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 5720 | Federal Worker Childcare Protection Act of 2025 | Referred to the House Committee on Oversight and Government Reform. |
+| 5655 | No Shame at School Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 51 | To direct the removal of United States Armed Forces from hostilities that have n… | Referred to the House Committee on Foreign Affairs. |
+| 669 | Honoring the victims and survivors of the mass shooting at Annunciation Catholic… | Referred to the House Committee on Oversight and Government Reform. |
+| 606 | Supporting the goals and ideals of World Drowning Prevention Day. | Referred to the House Committee on Foreign Affairs. |
+| 4714 | End Polluter Welfare Act of 2025 | Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Science, Space, and Technology, Energy and Commerce, Agriculture, Appropriations, Financial Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 4241 | Syria Sanctions Relief Act | Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 451 | Expressing condemnation for police brutality wherever in the world it occurs. | Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/O000173) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Education and Workforce
+- House Committee on the Budget
+
+**Subcommittees:**
+
+- Higher Education and Workforce Development
+- Workforce Protections
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,125,783 |
+| Total Spent | $2,329,199 |
+| Cash on Hand | 1120804.52 |
+| Individual Contributions | $1,052,716 |
+| PAC Contributions | $35,829 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $3,125,783 | $2,329,199 | 1120804.52 |
+| 2024 | $8,335,875 | $8,063,371 | 324220.63 |
+| 2022 | $3,111,918 | $3,227,971 | 51716.15 |
+| 2020 | $5,810,874 | $5,697,934 | 167769.73 |
+| 2018 | $1,084,183 | $1,029,354 | 54829.27 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Ilhan Abdullahi Omar is an American politician serving as the U.S. representative for Minnesota's 5th congressional district since 2019. She is a member of the Democratic Party.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q26436159](https://www.wikidata.org/wiki/Q26436159) |
+| Description | American politician (born 1982) |
+| Born | 1982-10-04 |
+| Website | [https://ilhanomar.com/](https://ilhanomar.com/) |
+| X/Twitter | [@IlhanMN](https://x.com/IlhanMN) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ilhan_Omar) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q26436159) (Tier 2)
+<!-- auto:wikipedia end -->

@@ -2,7 +2,7 @@
 title: "Securus Technologies - Aventiv"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -14,7 +14,7 @@ subawards-received-amount: 51876611853
 related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]] · [[Immigration Enforcement - The Detention Economy]] · [[GEO Group - Private Prisons]] · [[CoreCivic - Private Prisons]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 ---
 #donor #securus #aventiv #carceral-state #prison-telecom #surveillance #private-equity #platinum-equity #national #california #follow-the-money #class-analysis
 

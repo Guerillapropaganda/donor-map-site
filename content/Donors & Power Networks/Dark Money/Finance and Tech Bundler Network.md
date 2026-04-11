@@ -69,5 +69,5 @@ The bundler network operates through fundraising events (dinners, receptions, re
 
 - [[Pete Buttigieg]] — lobbying: $7.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

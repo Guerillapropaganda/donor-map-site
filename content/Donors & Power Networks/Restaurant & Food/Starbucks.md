@@ -2,7 +2,7 @@
 title: "Starbucks"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -44,7 +44,7 @@ sec-form-types:
   - "SCHEDULE 13G/A"
   - "SD"
 cpsc-recalls: 11
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[McDonalds Corporation]] · [[National Restaurant Association]] · [[Amazon]]"
@@ -54,6 +54,28 @@ total-revenue: 2762084
 total-assets: 22542308
 lobbying-spend: 4663000
 lobbying-filings: 45
+court-cases: 12667
+court-jurisdictions:
+  - "Court of Appeals for the Second Circuit"
+  - "District Court, C.D. California"
+  - "District Court, D. Delaware"
+  - "District Court, D. New Jersey"
+  - "District Court, E.D. California"
+  - "District Court, E.D. Pennsylvania"
+  - "District Court, E.D. Wisconsin"
+  - "District Court, M.D. Florida"
+federal-register-mentions: 42
+regulatory-agencies:
+  - "Antitrust Division"
+  - "Defense Department"
+  - "Drug Enforcement Administration"
+  - "Environmental Protection Agency"
+  - "Federal Communications Commission"
+  - "Federal Trade Commission"
+  - "Justice Department"
+  - "National Highway Traffic Safety Administration"
+  - "National Labor Relations Board"
+  - "Navy Department"
 ---
 #starbucks #coffee #anti-union #nlrb #progressive-brand #labor #howard-schultz
 
@@ -243,3 +265,44 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Starbucks) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 12,667 |
+| Courts | Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, D. Delaware, District Court, D. New Jersey, District Court, E.D. California, District Court, E.D. Pennsylvania, District Court, E.D. Wisconsin, District Court, M.D. Florida |
+| Case Types | 442 Civil Rights: Jobs, 463 Habeas Corpus - Alien Detainee, 830 Patent, 840 Property Rights: Trademark |
+
+**Notable cases:**
+- Fong v. Brandon Auto Management LLC (2026) — District Court, M.D. Florida
+- Asmi Toloza v. Schmidt (2026) — District Court, E.D. Wisconsin
+- California Gold Development Corporation v. Starbucks Corporation (2026) — District Court, E.D. California
+- Quantion LLC v. Warner Bros. Entertainment, Inc. (2026) — District Court, D. Delaware
+- Quantion LLC v. The Coca-Cola Company (2026) — District Court, D. Delaware
+- Quantion LLC v. Six Continents Hotels, Inc. (2026) — District Court, D. Delaware
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Starbucks%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 42 |
+| Final Rules | 6 |
+| Proposed Rules | 9 |
+| Notices | 27 |
+| Agencies | Antitrust Division, Defense Department, Drug Enforcement Administration, Environmental Protection Agency, Federal Communications Commission, Federal Trade Commission, Justice Department, National Highway Traffic Safety Administration +4 more |
+
+**Recent regulatory activity:**
+- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (2025-01-08) — Justice Department
+- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (2024-10-29) — Justice Department
+- [Representation-Case Procedures: Election Bars; Proof of Majority Support in Construction Industry Collective-Bargaining Relationships](https://www.federalregister.gov/documents/2024/08/01/2024-16535/representation-case-procedures-election-bars-proof-of-majority-support-in-construction-industry) (2024-08-01) — National Labor Relations Board ★
+- [Multi-Pollutant Emissions Standards for Model Years 2027 and Later Light-Duty and Medium-Duty Vehicles](https://www.federalregister.gov/documents/2024/04/18/2024-06214/multi-pollutant-emissions-standards-for-model-years-2027-and-later-light-duty-and-medium-duty) (2024-04-18) — Environmental Protection Agency
+- [Notice Pursuant to the National Cooperative Research and Production Act of 1993-TM Forum, A New Jersey Non-Profit Corporation](https://www.federalregister.gov/documents/2024/04/16/2024-07981/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-tm-forum-a-new) (2024-04-16) — Justice Department
+- [National Security Division; Provisions Regarding Access to Americans' Bulk Sensitive Personal Data and Government-Related Data by Countries of Concern](https://www.federalregister.gov/documents/2024/03/05/2024-04594/national-security-division-provisions-regarding-access-to-americans-bulk-sensitive-personal-data-and) (2024-03-05) — Justice Department
+- ... and 36 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Starbucks%22) (Tier 1)
+<!-- auto:federal-register end -->

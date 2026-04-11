@@ -131,3 +131,10 @@ Timothy James Walz is an American politician, former educator, and Army National
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Tim_Walz) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q2434360) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Tim Walz](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

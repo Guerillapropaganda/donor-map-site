@@ -2,7 +2,7 @@
 title: "Jim Himes"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,11 +11,21 @@ state: "Connecticut"
 state-abbr: "CT"
 district: "4"
 committees:
-  - "Intelligence"
+  - "House Committee on Financial Services"
+  - "House Permanent Select Committee on Intelligence"
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Wall Street & Finance"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Energy"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
 top-donors:
   - "Goldman Sachs"
 total-received: "$803,939"
@@ -25,13 +35,22 @@ bills-sponsored: 3
 bills-cosponsored: 157
 website: "https://himes.house.gov"
 phone: "202-225-5541"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline"
 related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bioguide-id: "C001091"
+total-raised: "$803,939"
+total-spent: "$672,395"
+cash-on-hand: "2238362.21"
+fec-cycle: 2026
+wikidata-id: "Q1689111"
+wikipedia-url: "https://en.wikipedia.org/wiki/Jim_Himes"
+wikipedia-extract: "James Andrew Himes is an American businessman and politician serving as the U.S. representative for Connecticut's 4th congressional district since 2009. Himes is a member of the Democratic Party."
+born: "1966-07-05"
 ---
 #jim-himes #democrat #connecticut #house #ranking-member #intelligence #financial-services #wall-street #goldman-sachs #phase-6-gavel-power
 
@@ -203,3 +222,150 @@ The district-donor-committee triangle is nearly perfect. CT-04 is the hedge fund
 
 - [GovTrack: Jim Himes](https://www.govtrack.us/congress/members/412282) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Jim Himes](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Jim Himes](https://www.govtrack.us/congress/members/412282) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Connecticut |
+| Chamber | House of Representatives |
+| Bills Sponsored | 110 |
+| Bills Cosponsored | 2527 |
+
+**Policy areas:** Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Economics and Public Finance, Energy, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Labor and Employment, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7792 | Property Improvement and Manufactured Housing Loan Modernization Act of 2026 | Referred to the House Committee on Financial Services. |
+| 3542 | CLEAR (Committee Leadership and Enhanced Accountability for Resilience) Defense … | Referred to the House Committee on Financial Services. |
+| 3395 | Middle Market IPO Cost Act | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 10026 | Multi-State Worker Tax Fairness Act of 2024 | Referred to the House Committee on the Judiciary. |
+| 6405 | Lori Jackson-Nicolette Elias Domestic Violence Survivor Protection Act | Referred to the House Committee on the Judiciary. |
+| 5557 | Combatting Foreign Surveillance Spyware Sanctions Act | Reported (Amended) by the Committee on Financial Services. H. Rept. 118-802, Part I. |
+| 5522 | Combatting Foreign Surveillance Spyware Sanctions Act | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5440 | Protecting Americans from Foreign Commercial Spyware Act | Referred to the House Committee on Foreign Affairs. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/H001047) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Financial Services
+- House Permanent Select Committee on Intelligence
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $803,939 |
+| Total Spent | $672,395 |
+| Cash on Hand | 2238362.21 |
+| Individual Contributions | $208,082 |
+| PAC Contributions | $469,500 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $803,939 | $672,395 | 2238362.21 |
+| 2024 | $2,120,398 | $1,672,878 | 2106818.46 |
+| 2022 | $1,695,712 | $1,859,613 | 1659298.80 |
+| 2020 | $1,632,647 | $2,199,740 | 1823199.61 |
+| 2018 | $2,028,483 | $1,706,354 | 2390293.07 |
+| 2016 | $2,167,399 | $1,144,648 | 2068163.93 |
+| ... | 4 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $803,939 |
+| Individual Contributions | $208,082 |
+| PAC Contributions | $469,500 |
+| Cash on Hand | 2238362.21 |
+| IE Support (Super PAC) | $1,349,084 |
+| IE Opposition (Super PAC) | $168,655 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $803,939 | $208,082 | $469,500 |
+| 2024 | $2,120,398 | $821,094 | $1,034,000 |
+| 2022 | $1,695,712 | $625,375 | $881,961 |
+| 2020 | $1,632,647 | $555,988 | $831,650 |
+| 2018 | $2,028,483 | $755,958 | $959,328 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,276,129 | $0 |
+| LEAGUE OF CONSERVATION VOTERS INC | $71,850 | $0 |
+| TRINITY PAC | $0 | $64,118 |
+| CONNECTICUT TAXPAYERS ALLIANCE | $0 | $40,000 |
+| COMMON SENSE FOR CONNECTICUT | $0 | $39,058 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CT04172/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+James Andrew Himes is an American businessman and politician serving as the U.S. representative for Connecticut's 4th congressional district since 2009. Himes is a member of the Democratic Party.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q1689111](https://www.wikidata.org/wiki/Q1689111) |
+| Description | United States Representative from Connecticut |
+| Born | 1966-07-05 |
+| Website | [http://himes.house.gov](http://himes.house.gov) |
+| X/Twitter | [@JAHimes](https://x.com/JAHimes) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Jim_Himes.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Jim_Himes) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1689111) (Tier 2)
+<!-- auto:wikipedia end -->

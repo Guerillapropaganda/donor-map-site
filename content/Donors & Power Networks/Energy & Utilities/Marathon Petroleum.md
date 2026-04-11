@@ -411,7 +411,7 @@ When confronted by E&E News about the covert campaign, Marathon spokesman Chuck 
 - [[Cathy McMorris Rodgers]] (Energy & Commerce) — contracts: $51K
 - [[Kevin McCarthy]] — contracts: $51K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

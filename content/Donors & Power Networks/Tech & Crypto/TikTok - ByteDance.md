@@ -2,7 +2,7 @@
 title: "TikTok - ByteDance"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -15,6 +15,8 @@ sec-filings: 2
 sec-form-types:
   - "253G1"
   - "PART II AND III"
+lobbying-spend: 4590000
+lobbying-filings: 51
 ---
 #tiktok #bytedance #china #social-media #ban #data #lobbying #foreign
 
@@ -84,3 +86,22 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22TikTok%20-%20ByteDance%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $4.6M |
+| Quarterly Filings | 51 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 8 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Homeland Security, Telecommunications, Trade (domestic/foreign)
+
+**Lobbying firms:** AND PARTNERS LLC, BALLARD PARTNERS, COZEN O'CONNOR PUBLIC STRATEGIES, CROSSROADS STRATEGIES, LLC, DENTONS US LLP, IGGY VENTURES LLC, MEHLMAN CONSULTING, INC., TIKTOK USDS JOINT VENTURE LLC
+
+**Agencies contacted:** Federal Communications Commission (FCC), HOUSE OF REPRESENTATIVES, SENATE, Veterans Affairs, Dept of (VA), White House Office
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=TikTok%20-%20ByteDance) (Tier 1)
+<!-- auto:lda-lobbying end -->

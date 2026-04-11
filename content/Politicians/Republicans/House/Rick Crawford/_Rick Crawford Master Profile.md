@@ -2,7 +2,7 @@
 title: "Rick Crawford"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"
@@ -16,7 +16,16 @@ committees:
 leadership-roles:
   - "Chair"
 issues:
-  - "Agriculture"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Environmental Protection"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
+  - "Labor and Employment"
 total-received: "$525,029"
 fec-candidate-id: "H0AR01083"
 source-types:
@@ -31,7 +40,8 @@ total-raised: "$525,029"
 total-spent: "$342,238"
 cash-on-hand: "1013618.58"
 fec-cycle: 2026
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
+bioguide-id: "C001087"
 ---
 #rick-crawford #republican #arkansas #house #chairman #intelligence #agriculture #ukraine #fisa #tiktok #trump-loyalty #farm-bill #rice #surveillance #phase-6-gavel-power
 
@@ -220,3 +230,32 @@ Crawford's prior career was agriculture. His donor base is agribusiness, defense
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0AR01083/) (Tier 1)
 <!-- auto:fec-summary end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Arkansas |
+| Chamber | House of Representatives |
+| Bills Sponsored | 140 |
+| Bills Cosponsored | 1608 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Congress, Crime and Law Enforcement, Environmental Protection, Foreign Trade and International Finance, Government Operations and Politics, Health, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8035 | To amend the FISA Amendments Act of 2008 to extend the authorities of title VII … | Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7571 | GusNIP Expansion Act of 2026 | Referred to the House Committee on Agriculture. |
+| 987 | Denouncing Nicolás Maduro's authoritarian, despotic, and murderous regime and co… | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| — |  | On agreeing to the Crawford amendment (A005) Agreed to by voice vote. |
+| 5710 | Bridge the Gap for Rural Communities Act | Referred to the House Committee on Agriculture. |
+| 5620 | Prioritizing Offensive Agricultural Disputes and Enforcement Act | Referred to the House Committee on Ways and Means. |
+| 5563 | DRIVE-SAFE Act | Referred to the Subcommittee on Highways and Transit. |
+| 5167 | Intelligence Authorization Act for Fiscal Year 2026 | Placed on the Union Calendar, Calendar No. 339. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001087) (Tier 1)
+<!-- auto:congress-legislation end -->

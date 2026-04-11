@@ -2,7 +2,7 @@
 title: "Maria Elvira Salazar"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
@@ -16,7 +16,7 @@ district: "27"
 top-donors:
   - "AIPAC"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 ofac-programs:
   - "SDNTK"
 total-received: "$922,124"
@@ -30,6 +30,17 @@ committees:
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S000168. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+issues:
+  - "Animals"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Education"
+  - "Energy"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
 ---
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana
 
@@ -117,6 +128,33 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 ---
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | FL |
+| Chamber | House |
+| Bills Sponsored | 70 |
+| Bills Cosponsored | 1277 |
+
+**Policy areas:** Animals, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Education, Energy, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Science, Technology, Communications, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7777 | To amend the Defense Production Act of 1950 to ensure the supply of certain medi… | Referred to the House Committee on Financial Services. |
+| 6892 | To authorize the Secretary of the Treasury to subscribe to additional shares of … | Referred to the House Committee on Financial Services. |
+| 6763 | Shelter Act | Referred to the House Committee on Ways and Means. |
+| 6540 | Anti-Communism Week Act | Referred to the House Committee on Oversight and Government Reform. |
+| 58 | Denouncing the horrors of socialism. | Received in the Senate. |
+| 5556 | Flight Refund Fairness Act | Referred to the Subcommittee on Aviation. |
+| 5246 | To provide for the political affairs authorities of the Department of State, and… | Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 0. |
+| 4393 | DIGNIDAD (Dignity) Act of 2025 | Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, Transportation and Infrastructure, Education and Workforce, Oversight and Government Reform, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000168) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
@@ -190,3 +228,10 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Maria Elvira Salazar](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

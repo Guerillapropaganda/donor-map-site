@@ -2,7 +2,7 @@
 title: "Joseph Morelle Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,7 +11,16 @@ state: "New York"
 state-abbr: "NY"
 district: "25"
 issues:
-  - "Voting Rights"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
 top-donors:
   - "Labor Unions"
 total-received: "$1,130,491"
@@ -27,7 +36,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 committees:
   - "House Committee on Appropriations"
   - "House Committee on House Administration"
@@ -36,6 +45,14 @@ committees:
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: M001206. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+total-raised: "$1,130,491"
+total-spent: "$880,386"
+cash-on-hand: "630309.86"
+fec-cycle: 2026
+wikidata-id: "Q6285623"
+wikipedia-url: "https://en.wikipedia.org/wiki/Joseph_Morelle"
+wikipedia-extract: "Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018."
+born: "1957-04-29"
 ---
 #joseph-morelle #democrat #new-york #house #house-administration #voting-rights #election-security #albany-machine #assembly-leader #rochester #class-analysis #follow-the-money
 
@@ -194,3 +211,81 @@ research-status:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 131 |
+| Bills Cosponsored | 1815 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1098 | Expressing support for the designation of March 3, 2026, as "National Triple-Neg… | Referred to the House Committee on Oversight and Government Reform. |
+| 7404 | Fair Repair Act | Referred to the House Committee on Energy and Commerce. |
+| 982 | Providing for consideration of the bill (H.R. 6039) to advance commonsense prior… | Motion to Discharge Committee filed by Mr. Morelle. Petition No: 119-14. (<a href="https://clerk.house.gov/DischargePetition/2026012114">Discharge petition</a> text with signatures.) |
+| 6694 | To designate the facility of the United States Postal Service located at 130 Nor… | Referred to the House Committee on Oversight and Government Reform. |
+| 6471 | Justice in Sentencing for Survivors Act of 2025 | Referred to the House Committee on the Judiciary. |
+| 6307 | Hunger Clearinghouse Enhancement Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 5918 | Protect Law Enforcement Task Forces Act | Referred to the House Committee on the Judiciary. |
+| 726 | Supporting the recognition of September 16, 2025, as "National Voter Registratio… | Referred to the House Committee on House Administration. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001206) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,130,491 |
+| Total Spent | $880,386 |
+| Cash on Hand | 630309.86 |
+| Individual Contributions | $350,565 |
+| PAC Contributions | $561,400 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,130,491 | $880,386 | 630309.86 |
+| 2024 | $2,154,065 | $1,826,736 | 380204.28 |
+| 2022 | $2,251,296 | $2,358,596 | 52875.19 |
+| 2020 | $1,417,965 | $1,317,025 | 160175.38 |
+| 2018 | $1,896,368 | $1,837,133 | 59235.42 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY25105/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Joseph Morelle](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q6285623](https://www.wikidata.org/wiki/Q6285623) |
+| Description | American politician (born 1957) |
+| Born | 1957-04-29 |
+| Website | [https://morelle.house.gov/](https://morelle.house.gov/) |
+| X/Twitter | [@joemorelle](https://x.com/joemorelle) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Joe_Morelle_official_photo.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Joseph_Morelle) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q6285623) (Tier 2)
+<!-- auto:wikipedia end -->

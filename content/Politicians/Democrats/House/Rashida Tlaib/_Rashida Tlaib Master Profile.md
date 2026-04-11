@@ -2,7 +2,7 @@
 title: "Rashida Tlaib"
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,7 +12,8 @@ state-abbr: "MI"
 district: "12"
 bioguide-id: "T000481"
 committees:
-  - "Oversight & Reform"
+  - "House Committee on Financial Services"
+  - "House Committee on Oversight and Government Reform"
 govtrack-id: 412787
 bills-sponsored: 32
 bills-cosponsored: 871
@@ -21,12 +22,16 @@ phone: "202-225-5126"
 total-received: "$1,896,063"
 fec-candidate-id: "H8MI13250"
 issues:
-  - Israel & Foreign Policy
-  - Environmental Justice
-  - Labor
-  - Housing
-  - Banking
-  - Healthcare
+  - "Agriculture and Food"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Emergency Management"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
 source-types:
   - Congress
   - FEC
@@ -56,6 +61,15 @@ reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-11"
+total-raised: "$1,896,063"
+total-spent: "$1,250,673"
+cash-on-hand: "4908945.01"
+fec-cycle: 2026
+wikidata-id: "Q7294939"
+wikipedia-url: "https://en.wikipedia.org/wiki/Rashida_Tlaib"
+wikipedia-extract: "Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. representative from Michigan since 2019, representing the state's 12th congressional district since 2023."
+born: "1976-07-24"
 ---
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice
 
@@ -267,3 +281,118 @@ Tlaib's floor defense: she was calling for a ceasefire, not violence against Isr
 
 - [GovTrack: Rashida Tlaib](https://www.govtrack.us/congress/members/412787) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Rashida Tlaib](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Rashida Tlaib](https://www.govtrack.us/congress/members/412787) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | MI |
+| Chamber | House |
+| Bills Sponsored | 130 |
+| Bills Cosponsored | 3200 |
+
+**Policy areas:** Agriculture and Food, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Education, Emergency Management, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Social Welfare, Sports and Recreation, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1146 | Standing with the people of Lebanon against the illegal invasion, war crimes, an… | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 83 | Directing the President, pursuant to section 5(c) of the War Powers Resolution, … | Referred to the House Committee on Foreign Affairs. |
+| 7930 | To amend title 18, United States Code, to increase the mens rea requirements for… | Referred to the House Committee on the Judiciary. |
+| 7854 | Medicines for the People Act | Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7637 | Head Start for America’s Children Act | Referred to the House Committee on Education and Workforce. |
+| 1038 | Expressing the sense of the House of Representatives that the United States must… | Referred to the House Committee on the Judiciary. |
+| 1028 | Expressing the sense of the House of Representatives that the United States must… | Referred to the Committee on the Judiciary, and in addition to the Committees on House Administration, Ways and Means, Education and Workforce, Energy and Commerce, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7125 | Stop Body Camera Paywalls Act | Referred to the House Committee on the Judiciary. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/T000481) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Financial Services
+- House Committee on Oversight and Government Reform
+
+**Subcommittees:**
+
+- Housing and Insurance
+- Oversight and Investigations
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,896,063 |
+| Total Spent | $1,250,673 |
+| Cash on Hand | 4908945.01 |
+| Individual Contributions | $1,017,837 |
+| PAC Contributions | $25,100 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,896,063 | $1,250,673 | 4908945.01 |
+| 2024 | $8,473,097 | $4,446,846 | 4263554.98 |
+| 2022 | $3,337,996 | $3,492,424 | 237303.81 |
+| 2020 | $4,093,645 | $3,769,569 | 391731.92 |
+| 2018 | $1,666,003 | $1,598,348 | 67655.29 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MI13250/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. representative from Michigan since 2019, representing the state's 12th congressional district since 2023.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q7294939](https://www.wikidata.org/wiki/Q7294939) |
+| Description | American politician and lawyer (born 1976) |
+| Born | 1976-07-24 |
+| Website | [https://tlaib.house.gov/](https://tlaib.house.gov/) |
+| X/Twitter | [@RashidaTlaib](https://x.com/RashidaTlaib) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Rashida_Tlaib%2C_official_portrait%2C_116th_Congress.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Rashida_Tlaib) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q7294939) (Tier 2)
+<!-- auto:wikipedia end -->

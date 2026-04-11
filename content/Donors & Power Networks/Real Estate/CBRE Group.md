@@ -2,7 +2,7 @@
 title: "CBRE Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Real Estate"

@@ -2,7 +2,7 @@
 title: "Jack Reed"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -30,7 +30,7 @@ stock-trades: 1
 fec-candidate-id: "S6RI00163"
 donors: "[[General Dynamics]] · [[NORPAC]]"
 related: "[[General Dynamics]] · [[_Roger Wicker Master Profile|Wicker]] · [[Lockheed Martin]] · [[Boeing]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 govtrack-id: 300081
@@ -42,6 +42,7 @@ bioguide-id: "R000122"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-received: "$3,297,809"
 ---
 #jack-reed #democrat #rhode-island #senate #ranking-member #armed-services #defense #military #west-point #phase-6-gavel-power
 
@@ -208,6 +209,44 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P60023777/) (Tier 1)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,297,809 |
+| Individual Contributions | $1,948,848 |
+| PAC Contributions | $1,160,085 |
+| Cash on Hand | 3190821.18 |
+| IE Support (Super PAC) | $193 |
+| IE Opposition (Super PAC) | $8,297 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $3,297,809 | $1,948,848 | $1,160,085 |
+| 2020 | $4,028,130 | $1,908,787 | $1,857,482 |
+| 2014 | $3,960,335 | $1,672,567 | $1,938,137 |
+| 2008 | $4,735,246 | $2,297,153 | $1,846,423 |
+| 2002 | $3,764,624 | $0 | $1,461,048 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $75,759 |
+| PATRIOT VOICES PAC | $0 | $8,232 |
+| PLANNED PARENTHOOD VOTES | $124 | $0 |
+| CAMPAIGN FOR WORKING FAMILIES | $0 | $66 |
+| ENVIRONMENT AMERICA INC | $59 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6RI00163/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |
@@ -268,3 +307,29 @@ Reed is not corrupt in the transactional sense. He doesn't take money and delive
 
 - [Source: Congress.gov](https://www.congress.gov/member/R000122) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Nay** | Cloture Motion Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Nay** | Nomination Confirmed |
+| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Nay** | Cloture Motion Agreed to |
+| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Nay** | Nomination Confirmed |
+| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Nay** | Cloture Motion Agreed to |
+| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Yea** | Cloture Motion Rejected |
+| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Nay** | Cloture Motion Rejected |
+| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Nay** | Nomination Confirmed |
+| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Nay** | Cloture Motion Agreed to |
+| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
+| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
+
+**Sources**
+
+- [Congress.gov: Jack Reed](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Jack Reed](https://www.govtrack.us/congress/members/300081) (Tier 1)
+<!-- auto:voting-record end -->

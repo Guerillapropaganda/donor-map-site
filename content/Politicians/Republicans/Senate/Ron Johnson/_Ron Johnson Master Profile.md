@@ -2,7 +2,7 @@
 title: "Ron Johnson"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,6 +13,10 @@ fec-candidate-id: "S0WI00197"
 stock-trades: 2
 donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]]"
 related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[John Kennedy Master Profile]]"
+last-enriched: "2026-04-11"
+bioguide-id: "J000293"
+issues:
+  - "International Affairs"
 ---
 #politician #republican #senate #wisconsin #tax-policy #manufacturing #covid #russia #class-analysis #follow-the-money #gavel-power
 
@@ -181,3 +185,32 @@ Johnson's donor-class function is to serve as the billionaire manufacturing and 
 
 - [Congress.gov: Ron Johnson](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Wisconsin |
+| Chamber | Senate |
+| Bills Sponsored | 596 |
+| Bills Cosponsored | 1326 |
+
+**Policy areas:** International Affairs
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| — |  | — |
+| — |  | Amendment SA 5178 agreed to in Senate by Unanimous Consent. |
+| — |  | Amendment SA 5179 agreed to in Senate by Unanimous Consent. |
+| — |  | — |
+| — |  | — |
+| — |  | Motion to table amendment SA 4859 agreed to in Senate by Yea-Nay Vote. 67 - 31. Record Vote Number: 110. (consideration: CR S4535) |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/J000293) (Tier 1)
+<!-- auto:congress-legislation end -->

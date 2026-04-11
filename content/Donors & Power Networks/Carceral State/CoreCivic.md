@@ -215,7 +215,7 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 - [[Donald Trump]] — contracts: $608
 - [[Chad Bianco]] — contracts: $608
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Subawards & Spending Breakdown

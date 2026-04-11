@@ -2,7 +2,7 @@
 title: "Paul Singer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 aliases: ["Paul Singer", "Elliott Management"]
 source-tier: 1
 parent: null
@@ -16,7 +16,7 @@ annual-revenue: "$53.9M"
 net-assets: "$276.4M"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 total-revenue: 227044787
 total-assets: 172417068
 court-cases: 155
@@ -35,6 +35,12 @@ lobbying-spend: 1268033
 lobbying-filings: 104
 total-political-spend: "$16,466,849"
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]] · [[Manhattan Institute for Policy Research]] · [[The National Security-to-Senate Pipeline]] · [[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Winning for Women PAC]] · [[Great Lakes Conservatives Fund]]"
+federal-register-mentions: 1
+regulatory-agencies:
+  - "Health Resources and Services Administration"
+  - "Health and Human Services Department"
+lei: "969500N6PIFXEKYUTE03"
+lei-jurisdiction: "FR"
 ---
 #paul-singer #donor #hedge-fund #elliott-management #vulture-fund #argentina #alito #pro-israel #class-analysis #follow-the-money
 
@@ -245,7 +251,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -266,7 +272,7 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 - [[Tom Cotton]] — lobbying: $1.3M
 - [[Samuel Alito]] — lobbying: $1.3M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -312,3 +318,32 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Paul%20Singer%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Notice | 1 |
+| Agencies | Health Resources and Services Administration, Health and Human Services Department |
+
+**Recent regulatory activity:**
+- [National Vaccine Injury Compensation Program; List of Petitions Received](https://www.federalregister.gov/documents/2003/08/05/03-19798/national-vaccine-injury-compensation-program-list-of-petitions-received) (2003-08-05) — Health and Human Services Department
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Paul%20Singer%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [969500N6PIFXEKYUTE03](https://search.gleif.org/#/record/969500N6PIFXEKYUTE03) |
+| Legal Name | GARAGE SINGER |
+| Jurisdiction | FR |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-03-19T22:10:37Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

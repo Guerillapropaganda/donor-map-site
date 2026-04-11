@@ -2,7 +2,7 @@
 title: "Nucor Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -17,7 +17,7 @@ top-federal-agency: "Department of Agriculture"
 top-naics-code: "331110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 1
@@ -27,6 +27,12 @@ court-jurisdictions:
   - "District Court, S.D. Indiana"
   - "District Court, S.D. Texas"
   - "United States Court of International Trade"
+federal-register-mentions: 775
+regulatory-agencies:
+  - "Commerce Department"
+  - "Environmental Protection Agency"
+  - "International Trade Administration"
+  - "International Trade Commission"
 ---
 #donor #steel #tariffs #manufacturing #class-analysis #follow-the-money #trade-policy #lobbying
 
@@ -220,3 +226,25 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Nucor%20Corporation%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 775 |
+| Final Rules | 10 |
+| Proposed Rules | 6 |
+| Notices | 759 |
+| Agencies | Commerce Department, Environmental Protection Agency, International Trade Administration, International Trade Commission |
+
+**Recent regulatory activity:**
+- [Certain Hot-Rolled Steel Flat Products From Japan: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024](https://www.federalregister.gov/documents/2026/04/10/2026-07008/certain-hot-rolled-steel-flat-products-from-japan-preliminary-results-and-rescission-in-part-of) (2026-04-10) — Commerce Department
+- [Certain Hot-Rolled Steel Flat Products From the Republic of Korea: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2026/04/10/2026-07001/certain-hot-rolled-steel-flat-products-from-the-republic-of-korea-preliminary-results-and-rescission) (2026-04-10) — Commerce Department
+- [Certain Corrosion-Resistant Steel Products from the Republic of Korea: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/04/02/2026-06449/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-initiation-of-circumvention) (2026-04-02) — Commerce Department
+- [Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/03/25/2026-05808/certain-corrosion-resistant-steel-products-from-the-socialist-republic-of-vietnam-initiation-of) (2026-03-25) — Commerce Department
+- [Certain Corrosion-Resistant Steel Products From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders](https://www.federalregister.gov/documents/2026/03/25/2026-05807/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of) (2026-03-25) — Commerce Department
+- [Steel Concrete Reinforcing Bar From Mexico: Final Results of the Expedited Second Sunset Review of the Antidumping Duty Order](https://www.federalregister.gov/documents/2026/03/12/2026-04883/steel-concrete-reinforcing-bar-from-mexico-final-results-of-the-expedited-second-sunset-review-of) (2026-03-12) — Commerce Department
+- ... and 769 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Nucor%20Corporation%22) (Tier 1)
+<!-- auto:federal-register end -->

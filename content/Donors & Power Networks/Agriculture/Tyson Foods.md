@@ -2,7 +2,7 @@
 title: "Tyson Foods"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -106,7 +106,7 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -123,7 +123,7 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 
 - [[John Boozman]] (Agriculture, Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -143,6 +143,26 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 
 - ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Agriculture ($1.1B) |
+| Primary NAICS Sector | Poultry Processing |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Poultry Processing (311615) | $1.1B |
+| Animal (except Poultry) Slaughtering (311611) | $38.8M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

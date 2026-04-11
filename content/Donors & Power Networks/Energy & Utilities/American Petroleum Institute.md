@@ -784,3 +784,21 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Petroleum%20Institute%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Energy & Climate** → Funds **John Hickenlooper** → Sits on **Senate Committee on Energy and Natural Resources**
+
+**Funded politicians:**
+
+- [[John Hickenlooper]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Energy and Natural Resources, Senate Committee on Health, Education, Labor, and Pensions)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->
