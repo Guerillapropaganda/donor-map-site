@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server"
 import fs from "fs"
 import path from "path"
+import { execFileSync } from "node:child_process"
 import { clearRulebookCache, loadRulebook, type Rulebook } from "@/lib/profile-type-rulebook"
 
 // Resolve rulebook path from ops/ cwd or repo root (mirrors profile-type-rulebook.ts)
@@ -17,27 +18,50 @@ function rulebookPath(): string {
 
 // Pull the authoritative check-id list from scripts/lib/checklist-helpers.cjs.
 // That file is the single source of truth for what a check id means.
-function loadCheckIds(): string[] {
-  try {
-    const helpersPath = path.resolve(
-      process.cwd(),
-      "..",
-      "scripts",
-      "lib",
-      "checklist-helpers.cjs",
-    )
-    // eslint-disable-next-line @typescript-eslint/no-require-imports
-    const helpers = require(helpersPath) as {
-      CHECK_IDS?: () => string[]
-      CHECKS?: Record<string, unknown>
+//
+// We shell out to a plain `node -e` subprocess rather than trying to `require`
+// the CJS module from within the Next server bundle. Next/Turbopack either
+// statically rewrites dynamic requires or runs under a module-resolution base
+// that can't find arbitrary absolute paths on Windows, so this is the most
+// reliable path. The result is cached in module scope so we only pay the
+// subprocess cost once per dev-server restart.
+let _checkIdCache: { ids: string[]; error: string | null } | null = null
+
+function loadCheckIds(): { ids: string[]; error: string | null } {
+  if (_checkIdCache) return _checkIdCache
+  const candidates = [
+    path.resolve(process.cwd(), "..", "scripts", "lib", "checklist-helpers.cjs"),
+    path.resolve(process.cwd(), "scripts", "lib", "checklist-helpers.cjs"),
+  ]
+  const helpersPath = candidates.find((c) => fs.existsSync(c))
+  if (!helpersPath) {
+    _checkIdCache = {
+      ids: [],
+      error: `checklist-helpers.cjs not found. Tried: ${candidates.join(", ")}`,
     }
-    const ids =
-      (typeof helpers.CHECK_IDS === "function" && helpers.CHECK_IDS()) ||
-      Object.keys(helpers.CHECKS || {})
-    return ids.sort()
-  } catch {
-    return []
+    return _checkIdCache
   }
+  try {
+    // JSON.stringify to safely escape the Windows backslash path for the JS
+    // expression passed via -e.
+    const expr = `const h=require(${JSON.stringify(helpersPath)}); process.stdout.write(JSON.stringify((typeof h.CHECK_IDS==='function'?h.CHECK_IDS():Object.keys(h.CHECKS||{}))));`
+    const out = execFileSync("node", ["-e", expr], {
+      encoding: "utf-8",
+      windowsHide: true,
+    })
+    const parsed = JSON.parse(out)
+    const ids = Array.isArray(parsed) ? parsed.slice().sort() : []
+    _checkIdCache = { ids, error: null }
+    return _checkIdCache
+  } catch (e) {
+    _checkIdCache = { ids: [], error: (e as Error).message }
+    return _checkIdCache
+  }
+}
+
+// Exported so POST can bust the cache if the user edits helpers externally.
+function clearCheckIdCache(): void {
+  _checkIdCache = null
 }
 
 const GATE_ENUM = ["auto", "manual", "none", "hybrid"] as const
@@ -234,10 +258,11 @@ export async function GET() {
   try {
     clearRulebookCache()
     const rulebook = loadRulebook()
-    const checkIds = loadCheckIds()
+    const { ids: checkIds, error: checkIdsError } = loadCheckIds()
     return NextResponse.json({
       rulebook,
       checkIds,
+      checkIdsError,
       gates: GATE_ENUM,
     })
   } catch (error: unknown) {
@@ -254,7 +279,8 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "Missing rulebook in body" }, { status: 400 })
     }
 
-    const validCheckIds = new Set(loadCheckIds())
+    const { ids: validCheckIdList } = loadCheckIds()
+    const validCheckIds = new Set(validCheckIdList)
     const result = validateRulebook(incoming, validCheckIds)
     if (!result.ok) {
       return NextResponse.json(
