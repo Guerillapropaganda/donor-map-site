@@ -1,6 +1,7 @@
 ---
 title: "Anthony Rendon"
-type: politician
+type: state-politician
+current-office: "Former Speaker of the California State Assembly (2016–2023)"
 content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1

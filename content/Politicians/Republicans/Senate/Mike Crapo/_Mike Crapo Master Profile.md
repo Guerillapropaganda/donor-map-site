@@ -1,7 +1,7 @@
 ---
 title: "Mike Crapo"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -20,6 +20,13 @@ bills-sponsored: 27
 bills-cosponsored: 254
 website: "https://www.crapo.senate.gov"
 phone: "202-224-6142"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #mike-crapo #republican #idaho #senate #committee-chair #phase-6-gavel-power #finance #tax-policy #class-analysis #follow-the-money
 

@@ -1,7 +1,7 @@
 ---
 title: "Richard Blumenthal"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -24,8 +24,13 @@ website: "https://www.blumenthal.senate.gov"
 phone: "202-224-2823"
 stock-trades: 50
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline"
 donors: "[[Google - Alphabet]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Jerry Moran Master Profile|Jerry Moran]] · [[_Ed Markey Master Profile|Ed Markey]] · [[_Donald Trump Master Profile|Trump]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #richard-blumenthal #democrat #connecticut #senate #ranking-member #veterans-affairs #judiciary #armed-services #gun-control #children-online-safety #attorney-general #vietnam-controversy #empire-state-building #malkin #wealthy #phase-6-gavel-power
 

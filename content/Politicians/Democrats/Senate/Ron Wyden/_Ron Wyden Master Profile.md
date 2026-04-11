@@ -1,7 +1,7 @@
 ---
 title: "Ron Wyden"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -20,6 +20,12 @@ fec-candidate-id: "S6OR00110"
 stock-trades: 10
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Mike Crapo Master Profile|Mike Crapo]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #ron-wyden #democrat #oregon #senate #ranking-member #phase-6-gavel-power #finance #tax-policy #privacy #tech #class-analysis #follow-the-money
 

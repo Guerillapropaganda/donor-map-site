@@ -1,7 +1,7 @@
 ---
 title: "Paul Ryan"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -23,6 +23,12 @@ related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boeh
 donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]]"
 total-received: "$483,642,897"
 fec-candidate-id: "H8WI01024"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #paul-ryan #speaker-of-house #tax-cuts-jobs-act #deficit-hawk #koch-network #fox-corporation #finance #class-analysis
 

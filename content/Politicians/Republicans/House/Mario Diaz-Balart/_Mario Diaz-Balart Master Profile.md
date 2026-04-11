@@ -1,7 +1,7 @@
 ---
 title: "Mario Diaz-Balart"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -22,6 +22,13 @@ donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Donald Trump Master Profile|Trump]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 total-received: "$1,175,788"
 fec-candidate-id: "H2FL25018"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #politician #republican #house #florida #cuba #sugar #fanjul #appropriations #class-analysis #follow-the-money #aipac #israel #defense
 

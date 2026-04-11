@@ -1,7 +1,7 @@
 ---
 title: "Steve Scalise"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ fec-candidate-id: "H0LA01087"
 donors: "[[American Gaming Association]] · [[Valero Energy]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Larry Ellison]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[Valero Energy]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline"
 govtrack-id: 412261
 bills-sponsored: 3
 bills-cosponsored: 5
@@ -26,6 +28,9 @@ wikidata-id: "Q1857141"
 wikipedia-url: "https://en.wikipedia.org/wiki/Steve_Scalise"
 wikipedia-extract: "Stephen Joseph Scalise is an American politician who has been the House majority leader since 2023 and the U.S. representative for Louisiana's 1st congressional district since 2008."
 born: "1965-10-06"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power
 

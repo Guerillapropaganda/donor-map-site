@@ -1,7 +1,7 @@
 ---
 title: "Mitt Romney"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,12 @@ bills-sponsored: 0
 bills-cosponsored: 0
 donors: "[[Elliott Management]] · [[Rebekah Mercer]] · [[Christopher Ruddy]]"
 related: "[[Paul Ryan]]"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #politician #republican #senator #presidential2012 #bain-capital #self-funding #private-equity

@@ -1,6 +1,6 @@
 ---
 title: "The Fox News Pipeline - How Media Money Shaped the MAGA Machine"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1

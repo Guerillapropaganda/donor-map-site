@@ -1,7 +1,7 @@
 ---
 title: "James Lankford"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ total-received: "$1,589,488"
 fec-candidate-id: "S4OK00232"
 donors: "[[Devon Energy]]"
 related: "[[_Donald Trump Master Profile|Trump]]"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #james-lankford #republican #oklahoma #senate #ethics-chair #finance #homeland-security #oil-gas #border #immigration #pastor #baptist #energy #phase-6-gavel-power
 

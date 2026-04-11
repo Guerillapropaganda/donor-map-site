@@ -1,6 +1,6 @@
 ---
 title: "Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1

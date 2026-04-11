@@ -46,6 +46,7 @@ const REPORT_PATH = path.join(CONTENT_DIR, 'Admin Notes', 'pipeline-janitor-repo
 const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 const ZOMBIES_ONLY = process.argv.includes('--zombies-only');
+const TYPE_FILTER = (process.argv.find(a => a.startsWith('--type=')) || '').split('=')[1] || null;
 
 // Types that don't require federal pipeline enrichment — never audit these
 // for missing Congress.gov / GovTrack / Committee auto-blocks. A media figure
@@ -145,6 +146,11 @@ function auditProfile(filePath, content) {
 
   // Exempt types that don't require pipeline enrichment
   if (EXEMPT_TYPES.has(type)) {
+    return { skipped: true };
+  }
+
+  // Optional --type=X filter
+  if (TYPE_FILTER && type !== TYPE_FILTER) {
     return { skipped: true };
   }
 

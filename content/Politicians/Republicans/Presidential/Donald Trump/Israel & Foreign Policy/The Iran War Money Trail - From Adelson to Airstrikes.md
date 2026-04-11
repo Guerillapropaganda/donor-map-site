@@ -1,6 +1,6 @@
 ---
 title: "The Iran War Money Trail - From Adelson to Airstrikes"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1

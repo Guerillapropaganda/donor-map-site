@@ -1,6 +1,6 @@
 ---
 title: "Deputy Misconduct and the Whistleblower Firing"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 2

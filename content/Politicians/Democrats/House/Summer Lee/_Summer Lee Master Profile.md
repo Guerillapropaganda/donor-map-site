@@ -1,7 +1,7 @@
 ---
 title: "Summer Lee Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -39,11 +39,17 @@ known-gaps:
   - FEC candidate ID H2PA18200 may reflect pre-redistricting district number (PA-18 before redrawn to PA-12) — verify same entity
   - 2024 primary UDP spending total needs verification against FEC IE records
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; re-run congress pipeline"
 total-received: "$1,134,454"
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: ready-candidate
 editorial-notes: "Strong draft promoted to ready 2026-04-10. Central thesis, AIPAC survival analysis, FEC auto-block populated, class analysis added. Core gaps: committee assignments, bill counts, GovTrack. FEC ID H2PA18200 may reflect old district — flag for David to verify. Candidate for verified promotion once committee/bill data added via pipeline."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • Congress.gov data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #summer-lee #pa-12 #pittsburgh #squad #progressive #first-black-congresswoman-pa #aipac-survivor #dsa #class-analysis #follow-the-money

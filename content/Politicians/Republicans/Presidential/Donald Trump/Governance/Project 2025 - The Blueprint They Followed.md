@@ -1,6 +1,6 @@
 ---
 title: "Project 2025 - The Blueprint They Followed"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1
