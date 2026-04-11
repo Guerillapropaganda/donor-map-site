@@ -44,7 +44,7 @@ fec-cycle: 2026
 fec-debt: "13611.65"
 wikidata-id: "Q218217"
 wikipedia-url: "https://en.wikipedia.org/wiki/Zoe_Lofgren"
-wikipedia-extract: "Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S. representative from California."
+wikipedia-extract: 'Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S. representative from California.'
 born: "1947-12-21"
 ---
 #zoe-lofgren #democrat #california #house #ranking-member #science-space-technology #silicon-valley #big-tech #immigration #h1b #antitrust #january-6 #apple #google #meta #phase-6-gavel-power

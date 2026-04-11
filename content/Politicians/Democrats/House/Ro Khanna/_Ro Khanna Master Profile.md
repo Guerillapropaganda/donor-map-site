@@ -78,7 +78,7 @@ fec-cycle: 2026
 fec-debt: "89348.30"
 wikidata-id: "Q7339221"
 wikipedia-url: "https://en.wikipedia.org/wiki/Ro_Khanna"
-wikipedia-extract: "Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California's 17th congressional district since 2017."
+wikipedia-extract: 'Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California''s 17th congressional district since 2017.'
 born: "1976-09-13"
 ---
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028
