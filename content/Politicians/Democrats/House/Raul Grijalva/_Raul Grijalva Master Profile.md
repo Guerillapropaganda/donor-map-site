@@ -2,7 +2,7 @@
 title: Raul Grijalva
 type: politician
 content-readiness: draft
-last-updated: '2026-04-09'
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: Democrat
@@ -15,7 +15,16 @@ committees:
 leadership-roles:
   - Ranking Member
 issues:
-  - Environment
+  - "Armed Forces and National Security"
+  - "Congress"
+  - "Education"
+  - "Families"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Native Americans"
 total-received: '$17,388'
 fec-candidate-id: H2AZ07070
 govtrack-id: 400162
@@ -30,6 +39,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-11"
+bioguide-id: "G000606"
 ---
 #raul-grijalva #democrat #arizona #house #ranking-member #natural-resources #public-lands #environment #mining #indigenous #progressive-caucus #deceased #phase-6-gavel-power
 
@@ -182,6 +193,33 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Arizona |
+| Chamber | House of Representatives |
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 187 |
+
+**Policy areas:** Armed Forces and National Security, Congress, Education, Families, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Labor and Employment, Native Americans, Public Lands and Natural Resources, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1139 | Supporting the goals and ideals of "National Middle-Level Education Month". | Referred to the House Committee on Education and Workforce. |
+| 8048 | AI/AN CAPTA | Referred to the House Committee on Education and Workforce. |
+| 7957 | Preserve the Traditional Cultural Place Chí’chil Biłdagoteel Historic District A… | Referred to the House Committee on Natural Resources. |
+| 7828 | Supplemental Security Income Restoration Act of 2026 | Referred to the House Committee on Ways and Means. |
+| 7101 | No Delay in Representation Act | Referred to the House Committee on House Administration. |
+| 6440 | Right to Read Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 6391 | Save Oak Flat from Foreign Mining Act | Referred to the House Committee on Natural Resources. |
+| 911 | Recognizing National Native American Heritage Month and celebrating the heritage… | Referred to the House Committee on Oversight and Government Reform. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/G000606) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -238,3 +276,32 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 
 - [GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
+| 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | **Not Voting** | Passed |
+| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | **Not Voting** | Passed |
+| 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval u | **Not Voting** | Passed |
+| 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | **Not Voting** | Passed |
+| 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | **Not Voting** | Passed |
+| 2025-03-10 | H.R. 495: Subterranean Border Defense Act | **Not Voting** | Passed |
+| 2025-03-06 | H.Res. 189: Censuring Representative Al Green of Texas. | **Not Voting** | Passed |
+| 2025-03-06 | S.J.Res. 11: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code,  | **Not Voting** | Passed |
+| 2025-03-05 | H.J.Res. 42: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
+| 2025-03-05 | H.J.Res. 61: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
+| 2025-03-04 | H.Res. 177: Providing for consideration of the joint resolution (H.J. Res. 42) providing for congressional disapproval u | **Not Voting** | Passed |
+| 2025-03-03 | H.R. 758: Mail Traffic Deaths Reporting Act of 2025 | **Not Voting** | Passed |
+| 2025-03-03 | H.R. 856: Safe and Smart Federal Purchasing Act | **Not Voting** | Passed |
+| 2025-02-27 | H.J.Res. 20: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
+
+**Sources**
+
+- [Congress.gov: Raul Grijalva](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->

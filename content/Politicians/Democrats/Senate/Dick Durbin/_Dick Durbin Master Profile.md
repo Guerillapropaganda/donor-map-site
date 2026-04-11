@@ -218,12 +218,14 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
+| Donors Who Also Lobby | 1 of 2 |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
 - **Legal Sector Donors** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
+- **Financial Services Donors** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
+- **Financial Services Donors** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
 
 **Donors who lobby (by spend):**
 

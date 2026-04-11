@@ -2,7 +2,7 @@
 title: "Maxine Waters"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -21,13 +21,27 @@ website: "https://waters.house.gov"
 phone: "202-225-2201"
 donors: "[[California Nurses Association]]"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]] · [[_Donald Trump Master Profile|Trump]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run congress pipeline"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bioguide-id: "C001091"
+issues:
+  - "Animals"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+committees:
+  - "House Committee on Financial Services"
 ---
 #maxine-waters #democrat #california #house #financial-services #ranking-member #phase-6-gavel-power
 
@@ -154,6 +168,33 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 - [VoteSmart: Maxine Waters key votes](https://justfacts.votesmart.org/candidate/key-votes/26759/maxine-waters) (Tier 2)
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | California |
+| Chamber | House of Representatives |
+| Bills Sponsored | 621 |
+| Bills Cosponsored | 4741 |
+
+**Policy areas:** Animals, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Economics and Public Finance, Education, Environmental Protection, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8030 | DPA Transparency Act of 2026 | Referred to the House Committee on Financial Services. |
+| 7886 | To provide Federal financial regulators with clawback authority over executive c… | Referred to the House Committee on Financial Services. |
+| 7888 | Closing the Enhanced Prudential Standards Loophole Act | Referred to the House Committee on Financial Services. |
+| 7887 | Incentivizing Safe and Sound Banking Act | Referred to the House Committee on Financial Services. |
+| 1109 | Supporting the goals and ideals of National Women and Girls HIV/AIDS Awareness D… | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 1106 | Honoring the life and legacy of Rev. Jesse Louis Jackson, Sr. | Referred to the House Committee on Oversight and Government Reform. |
+| 7565 | Food for Palestinian Children and Families in Gaza Act of 2026 | Referred to the House Committee on Foreign Affairs. |
+| 1039 | Supporting the goals and ideals of "National Black HIV/AIDS Awareness Day". | Referred to the House Committee on Energy and Commerce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000187) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -214,5 +255,43 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 - [GovTrack: Maxine Waters](https://www.govtrack.us/congress/members/400422) (Tier 1)
 <!-- auto:voting-record end -->
 
+<!-- auto:voting-record pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Maxine Waters](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Maxine Waters](https://www.govtrack.us/congress/members/400422) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Financial Services
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

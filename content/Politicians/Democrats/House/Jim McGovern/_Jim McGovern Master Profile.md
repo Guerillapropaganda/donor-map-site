@@ -2,7 +2,7 @@
 title: "Jim McGovern"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -37,6 +37,22 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-11"
+bioguide-id: "C001091"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
+  - "Immigration"
+  - "International Affairs"
+committees:
+  - "House Committee on Agriculture"
+  - "House Committee on Rules"
 ---
 #jim-mcgovern #democrat #massachusetts #house #rules-committee #ranking-member #human-rights #hunger #snap #tibet #china #saudi-arms #procedural #phase-6-gavel-power
 
@@ -159,6 +175,33 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 - [Wikipedia: Jim McGovern](https://en.wikipedia.org/wiki/Jim_McGovern_%28American_politician%29) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Massachusetts |
+| Chamber | House of Representatives |
+| Bills Sponsored | 434 |
+| Bills Cosponsored | 11799 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Congress, Foreign Trade and International Finance, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1068 | Providing for consideration of the joint resolution (H.J. Res. 143) enabling Con… | Referred to the House Committee on Rules. |
+| 7521 | United States-Cuba Trade Act of 2026 | Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Energy and Commerce, the Judiciary, Agriculture, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7546 | To amend title XVIII of the Social Security Act to provide coverage for wigs as … | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 143 | Resolution Act. | Referred to the Subcommittee on Health. |
+| 999 | Providing for the consideration of the resolution (H. Res. 997) enabling the Hou… | Referred to the House Committee on Rules. |
+| 997 | Enabling the House of Representatives to be responsive to its membership. | Referred to the Committee on House Administration, and in addition to the Committees on Rules, and Ethics, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 986 | Providing for consideration of the bill (H.R. 7007) to govern on behalf of the A… | Referred to the House Committee on Rules. |
+| 7007 | Governing for the People Act | Referred to the Subcommittee on Health. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M000312) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -219,7 +262,7 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 - [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-10 -->
+<!-- auto:voting-record pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -267,3 +310,18 @@ The analytical interest isn't donor capture — it's structural powerlessness. T
 
 - [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Jim%20McGovern) (Tier 1)
 <!-- auto:opensanctions end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Agriculture
+- House Committee on Rules
+
+**Subcommittees:**
+
+- Nutrition and Foreign Agriculture
+- Rules and Organization of the House
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->

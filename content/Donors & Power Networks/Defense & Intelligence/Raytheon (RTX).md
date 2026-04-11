@@ -476,9 +476,9 @@ RTX represents the defense sector's structural capture of the American state. Th
 - Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
 - Lobbies on **Defense** → Funds **Adam Smith** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
-- Lobbies on **Budget/Appropriations** → Funds **Rosa DeLauro** → Sits on **Appropriations**
-- Lobbies on **Defense** → Funds **Rosa DeLauro** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **Appropriations**
+- Lobbies on **Budget/Appropriations** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
+- Lobbies on **Defense** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
+- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
 - Lobbies on **Budget/Appropriations** → Funds **Rick Scott** → Sits on **Senate Committee on the Budget**
 - Lobbies on **Defense** → Funds **Rick Scott** → Sits on **Senate Committee on Armed Services**
 - Lobbies on **Government Issues** → Funds **Rick Scott** → Sits on **Senate Committee on Homeland Security and Governmental Affairs**
@@ -496,7 +496,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [[Adam Smith]] (Armed Services) — lobbying: $2.2M
 - [[Salud Carbajal]] — lobbying: $2.2M
 - [[Seth Moulton]] — lobbying: $2.2M
-- [[Rosa DeLauro]] (Appropriations) — lobbying: $2.2M
+- [[Rosa DeLauro]] (House Committee on Appropriations) — lobbying: $2.2M
 - [[Hal Rogers]] — lobbying: $2.2M
 - [[Mike Simpson]] — lobbying: $2.2M
 - [[Mike Johnson]] — lobbying: $2.2M

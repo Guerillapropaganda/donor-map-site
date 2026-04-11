@@ -331,10 +331,14 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 |--------|-------|
 | Politicians Funded | 6 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
+| Committee Overlap Detected | 2 politicians |
 
 **Lobby → Donate → Committee chains:**
 
+- Lobbies on **Health Issues** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
+- Lobbies on **Medicare/Medicaid** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
+- Lobbies on **Pharmacy** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
+- Lobbies on **Healthcare** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
 - Lobbies on **Budget/Appropriations** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
 - Lobbies on **Copyright/Patent/Trademark** → Funds **Chris Coons** → Sits on **Senate Committee on the Judiciary**
 - Lobbies on **Defense** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
@@ -345,7 +349,7 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 - [[Richard Neal]] (Ways & Means) — lobbying: $2.7M
 - [[Brett Guthrie]] — lobbying: $2.7M
 - [[Billy Tauzin]] — lobbying: $2.7M
-- [[Frank Pallone]] (Energy & Commerce, Environment & Public Works) — lobbying: $2.7M
+- [[Frank Pallone]] (House Committee on Energy and Commerce) — lobbying: $2.7M
 - [[Chris Coons]] (Senate Committee on Appropriations, Senate Committee on Foreign Relations, Senate Committee on Small Business and Entrepreneurship) — lobbying: $2.7M
 - [[Cory Booker]] — lobbying: $2.7M
 

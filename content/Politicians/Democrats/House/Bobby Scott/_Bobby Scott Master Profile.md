@@ -2,7 +2,7 @@
 title: "Bobby Scott"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -32,7 +32,7 @@ bills-sponsored: 17
 bills-cosponsored: 154
 website: "https://bobbyscott.house.gov"
 phone: "202-225-8351"
-total-received: "$135,250"
+total-received: "$290,963"
 fec-candidate-id: "H6VA01117"
 donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]]"
 related: "[[Tim Walberg]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[SEIU - Service Employees International Union|SEIU]]"
@@ -51,6 +51,13 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-11"
+bioguide-id: "S000185"
+total-raised: "$290,963"
+total-spent: "$358,184"
+cash-on-hand: "95642.17"
+fec-cycle: 2026
+fec-debt: "3191.43"
 ---
 #bobby-scott #democrat #virginia #house #ranking-member #education #labor #unions #phase-6-gavel-power
 
@@ -211,6 +218,43 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6GA02115/) (Tier 1)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $290,963 |
+| Individual Contributions | $131,043 |
+| PAC Contributions | $143,341 |
+| Cash on Hand | 95642.17 |
+| IE Support (Super PAC) | $11,762 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $290,963 | $131,043 | $143,341 |
+| 2024 | $869,637 | $351,896 | $483,757 |
+| 2022 | $851,699 | $312,225 | $497,700 |
+| 2020 | $875,926 | $187,435 | $653,550 |
+| 2018 | $653,415 | $150,593 | $459,669 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $0 | $11,357 |
+| UNITED WE CAN | $4,631 | $0 |
+| DEMOCRATIC PARTY OF VIRGINIA | $4,606 | $0 |
+| SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND | $984 | $0 |
+| TOGETHER WE THRIVE | $750 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
@@ -235,6 +279,35 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 - [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Bobby Scott](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
@@ -280,3 +353,38 @@ Education & Workforce Committee jurisdiction maps directly to union donor base: 
 
 - [Source: Congress.gov](https://www.congress.gov/member/S000185) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000185) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $290,963 |
+| Total Spent | $358,184 |
+| Cash on Hand | 95642.17 |
+| Debt | 3191.43 |
+| Individual Contributions | $131,043 |
+| PAC Contributions | $143,341 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $290,963 | $358,184 | 95642.17 |
+| 2024 | $869,637 | $899,213 | 162841.47 |
+| 2022 | $851,699 | $856,030 | 192336.91 |
+| 2020 | $875,926 | $837,219 | 210393.19 |
+| 2018 | $653,415 | $615,208 | 148742.68 |
+| 2016 | $771,224 | $765,805 | 110924.80 |
+| ... | 13 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
+<!-- auto:fec-summary end -->

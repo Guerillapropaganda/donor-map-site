@@ -2,7 +2,7 @@
 title: "CCPOA - California Correctional Peace Officers Association"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -12,7 +12,7 @@ politicians-funded:
 federal-contracts: "172495"
 ein: "941490964"
 nonprofit-status: "501(c)(5)"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 35012065
@@ -263,6 +263,33 @@ Ballot measures — Prop 36 (supported, $300K), Prop 1 (supported via Newsom, $1
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/941490964) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 941490964 |
+| Tax-Exempt Status | 501(c)(5) |
+| Total Revenue | $35.0M |
+| Total Assets | $50.7M |
+| IRS Ruling Date | 1973-12-01 |
+| Filings on Record | 13 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/941490964/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/941490964) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

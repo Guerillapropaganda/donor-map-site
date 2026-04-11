@@ -2,7 +2,7 @@
 title: "Securus Technologies - Aventiv"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -21,6 +21,8 @@ cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+lei: "549300EBCNNXVCJ2FW66"
+lei-jurisdiction: "US-DE"
 ---
 #donor #securus #aventiv #carceral-state #prison-telecom #surveillance #private-equity #platinum-equity #national #california #follow-the-money #class-analysis
 
@@ -155,3 +157,18 @@ The $315M California contract is the countervailing force. Even as rates are reg
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300EBCNNXVCJ2FW66](https://search.gleif.org/#/record/549300EBCNNXVCJ2FW66) |
+| Legal Name | Aventiv Technologies, LLC |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | LAPSED |
+| Last Updated | 2023-12-22T13:30:05Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

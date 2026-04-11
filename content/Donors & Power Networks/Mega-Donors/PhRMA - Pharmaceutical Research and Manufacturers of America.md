@@ -145,6 +145,40 @@ PhRMA - Pharmaceutical Research and Manufacturers of America. A redirect node fo
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 6 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 2 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Health Issues** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
+- Lobbies on **Medicare/Medicaid** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
+- Lobbies on **Pharmacy** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
+- Lobbies on **Healthcare** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
+- Lobbies on **Budget/Appropriations** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
+- Lobbies on **Copyright/Patent/Trademark** → Funds **Chris Coons** → Sits on **Senate Committee on the Judiciary**
+- Lobbies on **Defense** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
+- Lobbies on **Foreign Relations** → Funds **Chris Coons** → Sits on **Senate Committee on Foreign Relations**
+
+**Funded politicians:**
+
+- [[Richard Neal]] (Ways & Means) — lobbying: $2.7M
+- [[Brett Guthrie]] — lobbying: $2.7M
+- [[Billy Tauzin]] — lobbying: $2.7M
+- [[Frank Pallone]] (House Committee on Energy and Commerce) — lobbying: $2.7M
+- [[Chris Coons]] (Senate Committee on Appropriations, Senate Committee on Foreign Relations, Senate Committee on Small Business and Entrepreneurship) — lobbying: $2.7M
+- [[Cory Booker]] — lobbying: $2.7M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### Federal Register Activity
 <!-- auto:federal-register start -->
 | Metric | Value |

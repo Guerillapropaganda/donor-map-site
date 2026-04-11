@@ -2,7 +2,7 @@
 title: "Maria Elvira Salazar"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:

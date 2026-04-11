@@ -2,7 +2,7 @@
 title: "Boeing"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Defense & Military"
 court-cases: 35992
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 court-jurisdictions:
@@ -84,9 +84,9 @@ sec-form-types:
   - "EX-4.7"
   - "SCHEDULE 13G/A"
 subawards-issued: 50
-subawards-issued-amount: 51876611853
+subawards-issued-amount: 6331905785
 subawards-received: 50
-subawards-received-amount: 51876611853
+subawards-received-amount: 6331905785
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "336414"
 nhtsa-recalls: 0
@@ -103,6 +103,11 @@ cross-vault-triangulation-count: 22
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+ftc-enforcement-actions: 3
+ftc-hsr-notices: 16
+federal-awards-total: 21586241485
+federal-contracts-count: 25
+federal-grants-count: 23
 ---
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
 
@@ -471,6 +476,63 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($6.3B sampled) |
+| Subawards Received (as sub) | 50 ($6.3B sampled) |
+| Top Federal Agency | National Aeronautics and Space Administration ($8.5B) |
+| Primary NAICS Sector | Guided Missile and Space Vehicle Manufacturing |
+
+**Subcontractors receiving federal money from Boeing:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| THE BOEING COMPANY | $6.3B | 48 |
+| TATA BOEING AEROSPACE LIMITED | $50.8M | 2 |
+
+**Prime contractors funneling federal money to Boeing:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $5.8B | 36 |
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $421.4M | 10 |
+| BOOZ ALLEN HAMILTON INC. | $54.6M | 2 |
+| THE BOEING COMPANY | $50.8M | 2 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| National Aeronautics and Space Administration | $8.5B |
+| General Services Administration | $63.9M |
+| Department of Homeland Security | $59.9M |
+| Department of Justice | $8.8M |
+| Department of Transportation | $8.2M |
+| Department of Energy | $5.7M |
+| Department of Commerce | $3.3M |
+| Department of the Treasury | $2.9M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Guided Missile and Space Vehicle Manufacturing (336414) | $7.8B |
+| Aircraft Engine and Engine Parts Manufacturing (336412) | $4.8B |
+| Ammunition (except Small Arms) Manufacturing (332993) | $4.4B |
+| Engineering Services (541330) | $4.1B |
+| Research and Development in Biotechnology (except Nanobiotechnology) (541714) | $2.4B |
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $2.2B |
+| Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $2.0B |
+| Other Support Activities for Air Transportation (488190) | $1.9B |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
+
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
 | Metric | Value |
@@ -529,3 +591,67 @@ The Boeing Company is an American multinational corporation that designs and man
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Boeing) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q66) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 3 |
+| HSR early termination notices (merger filings) | 16 |
+| Most recent enforcement action | 2006-10-03 |
+| Earliest enforcement action | 1996-12-06 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 3
+
+**Recent enforcement actions (historical):**
+
+- [The Boeing Company / Lockheed Martin Corp](http://www.ftc.gov/os/caselist/0510165/0510165.shtm) (2006-10-03) — Defense � Equipment and Engineering Services
+- [Boeing Co / Hughes Electronics](http://www.ftc.gov/os/caselist/c3992.shtm) (2000-09-27) — Defense � Equipment and Engineering Services
+- [The Boeing Co](http://www.ftc.gov/os/caselist/c3723.shtm) (1996-12-06) — Defense � Equipment and Engineering Services
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Boeing Employees' Credit Union → SAFE Credit Union](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260777) (2026-02-13)
+- [The Boeing Company → Argon ST, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100883) (2010-07-19)
+- [The Boeing Company → United Launch Alliance, L.L.C.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20051491) (2006-10-06)
+- [Onex Partners L.P. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050684) (2005-03-18)
+- [L-3 Communications Holdings, Inc. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050339) (2005-02-11)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing) (Tier 1)
+<!-- auto:ftc-enforcement end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $21.6B |
+| Contracts (recent 3yr) | 25 ($229.5B sampled) |
+| Grants (recent 3yr) | 23 ($121.0M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $32.0B | Department of Defense | KC-X MODERNIZATION PROGRAM |
+| $22.4B | National Aeronautics and Space Administration | INTERNATIONAL SPACE STATION |
+| $18.8B | Department of Defense | 200112!000108!9700!ZD60 !BALLISTIC MISSILE DEFENSE ORG. !HQ000601C0001 !A!N!*!N! !20001222!20080930! |
+| $18.1B | Department of Defense | USN P-8A FRP II LONG LEAD MATERIAL |
+| $11.2B | Department of Defense | RSAF F-15 FLEET MODERNIZATION PROGRAM |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $45.9M | National Aeronautics and Space Administration | 1. P1.TPC.IMP: THERMOPLASTICS - INTEGRATED MASTER SCHEDULE & PLAN DEVELOPMENT  2. RESIN INFUSION - I |
+| $15.0M | Department of Defense | GRANT |
+| $10.8M | Department of Defense | NEXT GENERATION ROTORCRAFT TRANSMISSION |
+| $10.0M | National Aeronautics and Space Administration | SINGLE SOURCE: TRANSONIC TRUSS BRACED WING VISION VEHICLE TECHNOLOGY DEVELOPMENT (5 JULY 2023) |
+| $6.0M | Department of Defense | RESILIENT, VERSATILE SPACE PHOTOVOLTAIC FACTORY FOR CONTESTED SPACE ENVIRONMENTS AND AN EVOLVING MAR |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1)
+<!-- auto:usaspending end -->

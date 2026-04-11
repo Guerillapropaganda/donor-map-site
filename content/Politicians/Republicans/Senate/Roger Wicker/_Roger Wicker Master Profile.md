@@ -2,7 +2,7 @@
 title: "Roger Wicker"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"

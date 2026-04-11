@@ -119,3 +119,22 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Lawrence%20Summers) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 5 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Joe Biden]] — lobbying: $68K
+- [[Sherrod Brown]] — lobbying: $68K
+- [[Shontel Brown]] — lobbying: $68K
+- [[Kamala Harris]] — lobbying: $68K
+- [[Barack Obama]] — lobbying: $68K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

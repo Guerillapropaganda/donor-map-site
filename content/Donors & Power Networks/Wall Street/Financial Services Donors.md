@@ -2,7 +2,7 @@
 title: "Financial Services Donors"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -87,3 +87,22 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Financial%20Services%20Donors) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Copyright/Patent/Trademark** → Funds **Dick Durbin** → Sits on **Judiciary**
+- Lobbies on **Immigration** → Funds **Dick Durbin** → Sits on **Judiciary**
+
+**Funded politicians:**
+
+- [[Dick Durbin]] (Judiciary)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

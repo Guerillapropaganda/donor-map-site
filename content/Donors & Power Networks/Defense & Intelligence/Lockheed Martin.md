@@ -2,7 +2,7 @@
 title: "Lockheed Martin"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -356,7 +356,7 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 - Lobbies on **Defense & Military** → Funds **Ken Calvert** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
 - Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
@@ -368,7 +368,7 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 - [[Ken Calvert]] (Appropriations)
 - [[Mike Rogers]] (Armed Services)
 - [[Adam Smith]] (Armed Services)
-- [[Rosa DeLauro]] (Appropriations)
+- [[Rosa DeLauro]] (House Committee on Appropriations)
 - [[Jack Reed]] (Armed Services)
 - [[Tammy Duckworth]] (Armed Services)
 - [[Tom Cole]] (Appropriations)
@@ -448,6 +448,65 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($2.9B sampled) |
+| Subawards Received (as sub) | 50 ($2.9B sampled) |
+| Top Federal Agency | National Aeronautics and Space Administration ($4.0B) |
+| Primary NAICS Sector | All Other Support Services |
+
+**Subcontractors receiving federal money from Lockheed Martin:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $2.8B | 45 |
+| RAYTHEON/LOCKHEED MARTIN JAVELIN JV | $48.4M | 2 |
+| LOCKHEED MARTIN CORP | $42.8M | 1 |
+| LOCKHEED MARTIN GLOBAL, INC | $38.0M | 1 |
+| LOCKHEED MARTIN SIPPICAN, INC. | $22.7M | 1 |
+
+**Prime contractors funneling federal money to Lockheed Martin:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $1.5B | 25 |
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $568.9M | 10 |
+| BELL TEXTRON INC. | $343.1M | 3 |
+| RAYTHEON COMPANY | $242.6M | 1 |
+| BOEING COMPANY, THE | $152.2M | 5 |
+| JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC, THE | $42.8M | 1 |
+| THE BOEING COMPANY | $37.1M | 1 |
+| ELECTRIC BOAT CORPORATION | $24.3M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| National Aeronautics and Space Administration | $4.0B |
+| Department of Homeland Security | $670.2M |
+| Department of Commerce | $488.9M |
+| Department of Transportation | $170.9M |
+| General Services Administration | $130.2M |
+| Department of Justice | $34.1M |
+| Department of the Interior | $13.8M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| All Other Support Services (561990) | $3.9B |
+| Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing (336415) | $3.1B |
+| Research and Development in the Physical, Engineering, and Life Sciences (541710) | $2.3B |
+| Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing (336419) | $2.3B |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

@@ -2,7 +2,7 @@
 title: "House Freedom Caucus"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -16,7 +16,7 @@ issues:
   - "Dark Money & Campaign Finance"
 ein: "994082114"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 total-revenue: 1000410
@@ -28,6 +28,9 @@ cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+wikidata-id: "Q19881038"
+wikipedia-url: "https://en.wikipedia.org/wiki/Freedom_Caucus"
+wikipedia-extract: "The Freedom Caucus, also known as the House Freedom Caucus, is a congressional caucus of conservative members of the Republican Party in the United States House of Representatives."
 ---
 #freedom-caucus #house #republican #maga #obstruction #koch #tea-party #right-flank #dark-money #small-dollar #club-for-growth #heritage-action
 
@@ -205,3 +208,19 @@ The counter-funding dynamic — where Chamber of Commerce, AIPAC, and Main Stree
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+The Freedom Caucus, also known as the House Freedom Caucus, is a congressional caucus of conservative members of the Republican Party in the United States House of Representatives.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q19881038](https://www.wikidata.org/wiki/Q19881038) |
+| Description | American congressional caucus |
+| Founded | 2015-01-26 |
+| X/Twitter | [@freedomcaucus](https://x.com/freedomcaucus) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/House_Freedom_Caucus_Membership.png?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Freedom_Caucus) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q19881038) (Tier 2)
+<!-- auto:wikipedia end -->

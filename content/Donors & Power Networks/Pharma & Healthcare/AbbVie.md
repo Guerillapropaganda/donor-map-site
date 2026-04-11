@@ -2,7 +2,7 @@
 title: "AbbVie"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 subawards-issued: 50

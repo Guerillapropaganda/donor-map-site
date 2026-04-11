@@ -2,7 +2,7 @@
 title: "Securities & Investment Industry"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -114,3 +114,17 @@ The industry's political priorities are bipartisan by design: carried interest t
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Securities%20%26%20Investment%20Industry) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Patrick McHenry]]
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "ActBlue"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -18,17 +18,17 @@ sec-form-types:
   - "40-APP/A"
   - "EX-99"
 federal-register-mentions: 9
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Federal Election Commission"
-ein: 455097038
+ein: "455097038"
 annual-revenue: "$2.0M"
 net-assets: "$8.5M"
 tax-year: "2023"
 related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Pramila Jayapal]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[The Education Committee and Labor Alignment]] · [[Democratic Small Dollar Networks]] · [[WinRed]] · [[Democratic Donor Network]] · [[Future Forward USA Action]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]]"
-court-cases: 140
+court-cases: 141
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. New Mexico"
@@ -42,6 +42,12 @@ cross-vault-triangulation-count: 21
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+nonprofit-status: "501(c)(4)"
+total-revenue: 3117422
+total-assets: 9477177
+wikidata-id: "Q4676589"
+wikipedia-url: "https://en.wikipedia.org/wiki/ActBlue"
+wikipedia-extract: "ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure."
 ---
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis
 
@@ -213,3 +219,65 @@ The structural difference is minor. Both are payment processors with embedded po
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 141 |
+| Courts | District Court, C.D. California, District Court, D. New Mexico, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Illinois, United States Bankruptcy Court, D. Massachusetts |
+| Case Types | 370 Other Fraud, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
+
+**Notable cases:**
+- COMMITTEE TO ELECT YAIDA FORD v. ACTBLUE LLC. (2026) — District Court, District of Columbia
+- JUDICIAL WATCH, INC. v. FEDERAL ELECTION COMMISSION (2026) — District Court, District of Columbia
+- PROTECT DEMOCRACY PROJECT v. U.S. DEPARTMENT OF THE TREASURY (2025) — District Court, District of Columbia
+- Center for Civic Action v. City of Albuquerque Board of Ethics and Campaign Practices (2025) — District Court, D. New Mexico
+- Campbell's Company v. Campbell (2025) — District Court, E.D. Michigan
+- Park 54 Restaurant Group LLC (2025) — United States Bankruptcy Court, D. Massachusetts
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r) (Tier 1)
+
+<!-- auto:courtlistener-cases pending-merge end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 455097038 |
+| Tax-Exempt Status | 501(c)(4) |
+| Total Revenue | $3.1M |
+| Total Assets | $9.5M |
+| NTEE Code | Z99 |
+| IRS Ruling Date | 2013-10-01 |
+| Filings on Record | 11 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q4676589](https://www.wikidata.org/wiki/Q4676589) |
+| Description | political nonprofit organization |
+| Founded | 2004-00-00 |
+| Website | [https://secure.actblue.com/](https://secure.actblue.com/) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/ActBlue) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q4676589) (Tier 2)
+<!-- auto:wikipedia end -->

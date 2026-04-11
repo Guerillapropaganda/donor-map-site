@@ -2,7 +2,7 @@
 title: "Cargill"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Agriculture"
   - "Trade"
-ein: 416020221
+ein: "416020221"
 annual-revenue: "$2.5M"
 net-assets: "$255.2M"
 tax-year: "2023"
@@ -24,7 +24,7 @@ federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Ethanol Industry]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 sec-filings: 10000
@@ -59,7 +59,6 @@ sec-form-types:
   - "EX-10.II.H"
   - "EX-10.II.HH"
   - "EX-10.II.JJ"
-  - "EX-10.II.L"
   - "EX-10.II.P"
   - "EX-10.II.S"
   - "EX-2"
@@ -78,7 +77,7 @@ sec-form-types:
   - "SC 13D"
   - "SC 13D/A"
   - "XML"
-court-cases: 12432
+court-cases: 12441
 court-jurisdictions:
   - "Court of Appeals for the Federal Circuit"
   - "Court of Appeals for the Tenth Circuit"
@@ -96,6 +95,29 @@ cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+nonprofit-status: "501(c)(3)"
+total-revenue: 144285452
+total-assets: 307345903
+wikidata-id: "Q1036056"
+wikipedia-url: "https://en.wikipedia.org/wiki/Cargill"
+wikipedia-extract: "Cargill, Incorporated is an American multinational food corporation based in Minnetonka, Minnesota."
+founded: "1865-01-01"
+lei: "549300B5ALGB4HZFWU97"
+lei-jurisdiction: "NL"
+federal-register-mentions: 820
+regulatory-agencies:
+  - "Agricultural Marketing Service"
+  - "Agriculture Department"
+  - "Coast Guard"
+  - "Commerce Department"
+  - "Drug Enforcement Administration"
+  - "Environmental Protection Agency"
+  - "Federal Mine Safety and Health Review Commission"
+  - "Food and Drug Administration"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+lobbying-spend: 4875000
+lobbying-filings: 50
 ---
 #cargill #agriculture #commodities #grain #trade #private #family
 
@@ -147,6 +169,22 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
+<!-- auto:propublica-990 pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $2.5M |
+| Total Contributions | $0 |
+| Total Expenses | $25.6M |
+| Net Assets | $255.2M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 416020221](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
+
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->
 | Metric | Value |
@@ -190,6 +228,52 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 - ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 1 ($97K sampled) |
+| Subawards Received (as sub) | 1 ($97K sampled) |
+| Top Federal Agency | Department of Agriculture ($662.4M) |
+| Primary NAICS Sector | All Other Miscellaneous Food Manufacturing |
+
+**Subcontractors receiving federal money from Cargill:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| CARGILL, INCORPORATED | $97K | 1 |
+
+**Prime contractors funneling federal money to Cargill:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| ASRC FEDERAL FACILITIES LOGISTICS LLC | $97K | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Agriculture | $662.4M |
+| Department of the Interior | $2.1M |
+| Department of Transportation | $94K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| All Other Miscellaneous Food Manufacturing (311999) | $591.9M |
+| Poultry Processing (311615) | $34.2M |
+| Animal (except Poultry) Slaughtering (311611) | $21.5M |
+| Soybean and Other Oilseed Processing (311224) | $12.2M |
+| All Other Specialty Trade Contractors (238990) | $2.6M |
+| Other Animal Food Manufacturing (311119) | $2.1M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
+
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
 | Metric | Value |
@@ -222,6 +306,41 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/a31654c7-f5ff-71fe-90d8-91a59745fb51-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
+<!-- auto:usaspending pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $49.2M |
+| Contracts (recent 3yr) | 25 ($228.9M sampled) |
+| Grants (recent 3yr) | 10 ($26.4M sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $32.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000008995/4210006396/WHEAT, HARD RED WINTER BULK |
+| $26.2M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000009094/4210006495/WHEAT, HARD RED WINTER BULK |
+| $13.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010260/4100030841/TURKEY BREAST DELI SLC FRZ PKG-20/2 LB |
+| $13.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010329/4210007112/SORGHUM BULK |
+| $12.0M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011135/4210007475/WHEAT, HARD RED WINTER BULK |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $23.9M | Agency for International Development | TRANSFORMATIONAL STRATEGIES FOR FARM OUTPUT RISK MITIGATION (TRANSFORM) |
+| $528K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
+| $459K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
+| $383K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
+| $340K | Department of Agriculture | GRANT FOR PROD OF ADV BIOFUEL |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a31654c7-f5ff-71fe-90d8-91a59745fb51-C/latest) (Tier 1)
+
+<!-- auto:usaspending pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
@@ -243,6 +362,27 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cargill%22) (Tier 1) (NEEDS REVIEW: Just a bunch of code. Not sure if this is useful as a source)
 <!-- auto:sec-edgar end -->
 
+<!-- auto:sec-edgar pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-Q, 35-CERT, 424B3, 425, 8-K, CORRESP, DEF 14A, DEFA14A +40 more |
+
+**Notable filings:**
+
+- 2009-08-14 — **EX-10.2**: EX-10.2
+- 2007-05-15 — **EX-10.10**: PIONEER TRAIL ENERGY, LLC-CORN SUPPLY AGMNT
+- 2009-08-14 — **EX-10.1**: EX-10.1
+- 2006-08-11 — **EX-10.II.P**: SERVICES AGREEMENT FOR LOGISTICS AND GENERAL SERVICES
+- 2002-05-31 — **EX-99.77Q1**: EXHIBIT A - LIST OF GUARANTEES
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cargill%22) (Tier 1)
+
+<!-- auto:sec-edgar pending-merge end -->
+
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
 | Metric | Value |
@@ -261,6 +401,28 @@ Favorable agricultural trade policy (opposition to tariffs on grain exports), co
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 12,441 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Nebraska, District Court, District of Columbia, District Court, E.D. California, District Court, M.D. Florida, District Court, M.D. Pennsylvania +3 more |
+| Case Types | 410 Anti-Trust, 463 Habeas Corpus - Alien Detainee, 830 Patent Infringement (Fed. Qst.), 890 Other Statutory Actions |
+
+**Notable cases:**
+- REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
+- Dennis v. Cargill, Incorporated (2026) — District Court, D. Nebraska
+- Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
+- Strahl v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
+- In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
+- Sue Kim v. Target Corporation (2026) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r) (Tier 1)
+
+<!-- auto:courtlistener-cases pending-merge end -->
 
 ### FDA Enforcement (openFDA)
 <!-- auto:fda-enforcement start -->
@@ -319,3 +481,100 @@ _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Ca
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill) (Tier 1)
 <!-- auto:ftc-enforcement end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 416020221 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $144.3M |
+| Total Assets | $307.3M |
+| IRS Ruling Date | 1954-04-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Cargill, Incorporated is an American multinational food corporation based in Minnetonka, Minnesota.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q1036056](https://www.wikidata.org/wiki/Q1036056) |
+| Description | American-based international food conglomerate |
+| Founded | 1865-01-01 |
+| Website | [http://cargill.com](http://cargill.com) |
+| X/Twitter | [@Cargill](https://x.com/Cargill) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Cargill_grain_elevator_and_terminal.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Cargill) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1036056) (Tier 2)
+<!-- auto:wikipedia end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300B5ALGB4HZFWU97](https://search.gleif.org/#/record/549300B5ALGB4HZFWU97) |
+| Legal Name | CARGILL BIOINDUSTRIAL |
+| Jurisdiction | NL |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-04-15T15:17:13Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 820 |
+| Final Rules | 62 |
+| Proposed Rules | 43 |
+| Notices | 715 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Coast Guard, Commerce Department, Drug Enforcement Administration, Environmental Protection Agency, Federal Mine Safety and Health Review Commission, Food and Drug Administration +6 more |
+
+**Recent regulatory activity:**
+- [Erythritol From China; Determinations](https://www.federalregister.gov/documents/2026/03/26/2026-05850/erythritol-from-china-determinations) (2026-03-26) — International Trade Commission
+- [Citric Acid and Certain Citrate Salts From China; Scheduling of Expedited Five-Year Reviews](https://www.federalregister.gov/documents/2026/03/26/2026-05848/citric-acid-and-certain-citrate-salts-from-china-scheduling-of-expedited-five-year-reviews) (2026-03-26) — International Trade Commission
+- [Public Hearing](https://www.federalregister.gov/documents/2026/03/25/2026-05817/public-hearing) (2026-03-25) — Susquehanna River Basin Commission
+- [Citric Acid and Certain Citrate Salts From Canada and India: Postponement of Preliminary Determination in the Countervailing Duty Investigations](https://www.federalregister.gov/documents/2026/03/25/2026-05806/citric-acid-and-certain-citrate-salts-from-canada-and-india-postponement-of-preliminary) (2026-03-25) — Commerce Department
+- [Citric Acid and Certain Citrate Salts From Canada and India; Determinations](https://www.federalregister.gov/documents/2026/03/12/2026-04783/citric-acid-and-certain-citrate-salts-from-canada-and-india-determinations) (2026-03-12) — International Trade Commission
+- [Citric Acid and Certain Citrate Salts From Canada and India: Initiation of Less-Than-Fair-Value Investigations](https://www.federalregister.gov/documents/2026/02/17/2026-03061/citric-acid-and-certain-citrate-salts-from-canada-and-india-initiation-of-less-than-fair-value) (2026-02-17) — Commerce Department
+- ... and 814 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cargill%22) (Tier 1)
+<!-- auto:federal-register end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $4.9M |
+| Quarterly Filings | 50 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 7 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Civil Rights/Civil Liberties, Economics/Economic Development, Energy/Nuclear, Environment/Superfund, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Immigration, Labor Issues/Antitrust/Workplace, Science/Technology, Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Utilities
+
+**Lobbying firms:** AKIN GUMP STRAUSS HAUER & FELD, CARGILL, INC., FEDERAL STREET STRATEGIES, LLC, FORETHOUGHT ADVISORS, LLC, GLOBAL BUSINESS POLICY-DC, HARBINGER STRATEGIES, LLC, THE RUSSELL GROUP, INC.
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Centers For Disease Control & Prevention (CDC), Commerce, Dept of (DOC), Defense, Dept of (DOD), Energy, Dept of, Environmental Protection Agency (EPA), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE +8 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cargill) (Tier 1)
+<!-- auto:lda-lobbying end -->

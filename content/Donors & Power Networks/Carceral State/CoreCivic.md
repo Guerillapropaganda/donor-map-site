@@ -2,7 +2,7 @@
 title: "CoreCivic"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -11,11 +11,11 @@ politicians-funded:
   - "Gavin Newsom"
   - "Donald Trump"
   - "Chad Bianco"
-federal-awards-total: 559918230
+federal-awards-total: 549517348
 federal-contracts-count: 25
 federal-grants-count: 0
-court-cases: 3032
-last-enriched: "2026-04-10"
+court-cases: 3042
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 court-jurisdictions:
@@ -25,6 +25,8 @@ court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, District of Columbia"
   - "District Court, E.D. California"
+  - "District Court, E.D. Michigan"
+  - "District Court, M.D. Tennessee"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. California"
 ein: "823851866"
@@ -50,6 +52,30 @@ cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "10-Q"
+  - "11-K"
+  - "144"
+  - "4"
+  - "424B5"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-19"
+  - "EX-21.1"
+  - "EX-23.1"
+  - "EX-5.1"
+  - "EX-5.2"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "SCHEDULE 13G/A"
+wikidata-id: "Q1135278"
+wikipedia-url: "https://en.wikipedia.org/wiki/CoreCivic"
+wikipedia-extract: "CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States."
+founded: "1983-01-01"
 ---
 #donor #private-prison #immigration-detention #CoreCivic #opponent #AB32 #ICE #for-profit-detention #republican-donor #trump #bipartisan-money #class-analysis #follow-the-money
 
@@ -152,6 +178,31 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 - [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic) (Tier 1) (NEEDS REVIEW: Results page lands with no results)
 <!-- auto:usaspending end -->
 
+<!-- auto:usaspending pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $549.5M |
+| Contracts (recent 3yr) | 25 ($1.9B sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 2 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $558.7M | Department of Justice | DETENTION SERVICES - LAS VERGAS, NV |
+| $313.4M | Department of Justice | DETENTION SERVICES (OTAY MESA DETENTION CENTER)- FUNDED BY USMS - $40,605,970.00 |
+| $114.3M | Department of Homeland Security | DETENTION SERVICES FOR SAN DIEGO AOR AT OTAY MESA |
+| $103.7M | Department of Homeland Security | FUNDS FOR NEW TASK ORDER FOR CDF SAN DIEGO, CA. |
+| $87.9M | Department of Homeland Security | NEW TASK ORDER FOR DETENTION SERVICES AT THE OTAY MESA DETENTION CENTER |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b7ab6cd4-f511-cfe7-c92f-b20d45921e9c-P/latest) (Tier 1)
+
+<!-- auto:usaspending pending-merge end -->
+
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
 | Metric | Value |
@@ -171,6 +222,28 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CoreCivic%22&type=r) (Tier 1) (NEEDS REVIEW: bout 3,000 Cases and 27,000 Docket Entries  311ms Sanford v. CoreCivic (W.D. Tenn. 2019) Docket Number: 1:19-cv-01139 Date Filed: July 9th, 2019 Date Terminated: September 23rd, 2021 Nature of Suit: Prisoner: Civil Rights Cause: 42:1983 Prisoner Civil Rights Jury Demand: Plaintiff Assigned To: James Dale Todd Referred To: Charmiane Griffin Claxton Parties: CoreCivic, Gerald A. Sanford, Sr., Aaron Ivey Attorneys: Gerald A. Sanford, Sr. Document #1  Date Filed: June 28th, 2019 Description: COMPLAINT against CoreCivic, Aaron Ivey, filed by Gerald A. Sanford, Sr. (Attachment: # 1 Cover Letter)(as) [Transferred from Tennessee Middle on 7/9/2019.] (Entered: 07/01/2019) …  Document #17 (11 pages) Date Filed: November 18th, 2019 Description: ORDER SEVERING CLAIMS, PARTIALLY DISMISSING COMPLAINT AND DIRECTING CLERK TO ISSUE A THIRD-PARTY SUBPOENA. Signed by Judge James D. Todd on 11/18/19. (mbm) … ) CORECIVIC, ET AL., ) …  Order — Document #36 (3 pages) Date Filed: September 23rd, 2021 Description: ORDER DISMISSING CASE WITHOUT PREJUDICE, CERTIFYING AN APPEAL WOULD NOT BE TAKEN IN GOOD FAITH, AND DENYING LEAVE TO APPEAL IN FORMA PAUPERIS. Signed by Judge James D. Todd on 9/23/2021. (mbm) … ) CORECIVIC and AARON IVEY, ) …    Kirk v. CoreCivic (M.D. Tenn. 2017) Docket Number: 1:17-cv-00041 Date Filed: May 3rd, 2017 Date Terminated: May 24th, 2018 Nature of Suit: 550 Prisoner: Civil Rights Cause: 42:1983 Prisoner Civil Rights Jury Demand: Plaintiff Assigned To: Waverly David Crenshaw Jr. Referred To: Joe B. Brown Parties: Damon Hininger, Rebecca Rich, f/n/u White, f/n/u Deathridge, f/n/u Roberts, Leigh Staggs, Cherry …  Attorneys: Jason W. Kirk Document #1  Date Filed: May 3rd, 2017 Description: COMPLAINT against William Bryant, Kristen Buttram, CoreCivic, f/n/u Deathridge, Daniel Dodd, Damon Hininger, Cherry Lindamood, Shane McClain, Scott Peeler, Rebecca Rich, f/n/u Roberts, Leigh Staggs, f/n/u White, filed by Jason W. Kirk. (Attachments: # 1 Exhibits 1 - 9 - Supporting Documents, # 2 Attachment envelope)(eh) (Entered: 05/04/2017) …  Document #4 (7 pages) Date Filed: May 25th, 2017 Description: MEMORANDUM OPINION OF THE COURT. Signed by Chief Judge Waverly D. Crenshaw, Jr on 5/25/2017. (xc:Pro se party by regular mail. ) (DOCKET TEXT SUMMARY ONLY-ATTORNEYS MUST OPEN THE PDF AND READ THE ORDER.)(jw) … ) CHIEF JUDGE CRENSHAW CORECIVIC, et al., ) …  Document #2  Date Filed: May 3rd, 2017 Description: APPLICATION for Leave to Proceed In Forma Pauperis by Jason W. Kirk. (eh) (Entered: 05/04/2017) … DOes this relate???)
 <!-- auto:courtlistener-cases end -->
 
+<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 3,042 |
+| Courts | District Court, D. Arizona, District Court, D. Montana, District Court, D. Nevada, District Court, D. New Jersey, District Court, District of Columbia, District Court, E.D. California, District Court, E.D. Michigan, District Court, M.D. Tennessee +2 more |
+| Case Types | 440 Civil Rights: Other, 463 Habeas Corpus - Alien Detainee, 895 Freedom of Information Act, 950 Constitutional - State Statute |
+
+**Notable cases:**
+- United States v. Washtenaw, County of (2026) — District Court, E.D. Michigan
+- Hidalgo v. Corecivic of Tennessee, LLC (2026) — District Court, S.D. California
+- Turpin v. CoreCivic of Tennessee, LLC (2026) — District Court, M.D. Tennessee
+- Ruiz v. U.S. Immigration & Customs Enforcement (2026) — District Court, E.D. California
+- DAVIS v. CORECIVIC OF TENNESSEE, LLC (2026) — District Court, D. New Jersey
+- Newell v. CoreCivic, Inc. (2026) — District Court, N.D. Ohio
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CoreCivic%22&type=r) (Tier 1)
+
+<!-- auto:courtlistener-cases pending-merge end -->
+
 ### Financial Overview (990 Filing — 2024)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
@@ -182,6 +255,21 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 
 - [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
+
+<!-- auto:propublica-990 pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $511K |
+| Total Contributions | $683K |
+| Total Expenses | $583K |
+| Net Assets | $52K |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->
@@ -270,6 +358,37 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED: Lands on search page with no results)
 <!-- auto:usaspending-subawards end -->
 
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Top Federal Agency | Department of Homeland Security ($978.1M) |
+| Primary NAICS Sector | Security Guards and Patrol Services |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Homeland Security | $978.1M |
+| Department of Justice | $551.2M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Security Guards and Patrol Services (561612) | $1.1B |
+| Other Justice, Public Order, and Safety Activities (922190) | $238.4M |
+| Other Residential Care Facilities (623990) | $122.5M |
+| Facilities Support Services (561210) | $90.1M |
+| Furniture Merchant Wholesalers (423210) | $500K |
+| Painting and Wall Covering Contractors (238320) | $27K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
+
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
 | Metric | Value |
@@ -294,6 +413,34 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| EIN | 823851866 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $709K |
+| Total Assets | $28K |
+| NTEE Code | P20 |
+| IRS Ruling Date | 2018-06-01 |
+| Filings on Record | 6 |
+
+**Filing history:** 2024, 2023, 2022, 2021, 2020, 2019
+
+**View 990 filings:**
+- [2024 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2024)
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2020)
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1)
+
+<!-- auto:nonprofit-990 pending-merge end -->
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
@@ -327,3 +474,40 @@ SCOTUS — Al Otro Lado asylum arrival doctrine
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 11-K, 144, 4, 424B5, 8-K, ARS +10 more |
+| CIK | 1070985 |
+| Ticker | CXW |
+
+**Notable filings:**
+
+- 2026-04-10 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1070985/000119312526151239/0001193125-26-151239-index.htm)
+- 2026-04-01 — **4**: [4](https://www.sec.gov/Archives/edgar/data/1070985/000119312526138138/0001193125-26-138138-index.htm)
+- 2026-03-31 — **144**: [144](https://www.sec.gov/Archives/edgar/data/1070985/000199652726000004/0001996527-26-000004-index.htm)
+- 2026-03-31 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1070985/000114036126012102/0001140361-26-012102-index.htm)
+- 2026-03-31 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1070985/000114036126012101/0001140361-26-012101-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CoreCivic%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q1135278](https://www.wikidata.org/wiki/Q1135278) |
+| Description | US prison-operating company |
+| Founded | 1983-01-01 |
+| Website | [https://www.corecivic.com/](https://www.corecivic.com/) |
+| X/Twitter | [@corecivic](https://x.com/corecivic) |
+| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/EdenDetCenterEdenTX.JPG/330px-EdenDetCenterEdenTX.JPG) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/CoreCivic) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2)
+<!-- auto:wikipedia end -->

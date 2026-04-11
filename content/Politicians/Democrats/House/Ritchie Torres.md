@@ -136,3 +136,10 @@ Example 4: District Abandonment. Torres's stated priority is addressing Bronx ho
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY15160/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Ritchie Torres](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

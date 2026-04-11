@@ -2,7 +2,7 @@
 title: "Concerned Veterans for America"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -17,7 +17,7 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: "853318501"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-cases: 5

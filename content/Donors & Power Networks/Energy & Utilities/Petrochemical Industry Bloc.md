@@ -2,7 +2,7 @@
 title: "Petrochemical Industry Bloc"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 36374000
 lobbying-filings: 51
 ofac-sdn-match: "true"
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:

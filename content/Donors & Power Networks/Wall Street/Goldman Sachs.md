@@ -249,13 +249,14 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 5 |
-| Committee Overlap Detected | 5 politicians |
+| Politicians Funded | 6 |
+| Committee Overlap Detected | 6 politicians |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Wall Street & Finance** → Funds **John Kennedy** → Sits on **Banking**
 - Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
+- Lobbies on **Wall Street & Finance** → Funds **Jim Himes** → Sits on **House Committee on Financial Services**
 - Lobbies on **Wall Street & Finance** → Funds **John Boehner** → Sits on **Finance**
 - Lobbies on **Wall Street & Finance** → Funds **Paul Ryan** → Sits on **Finance**
 - Lobbies on **Wall Street & Finance** → Funds **John Cornyn** → Sits on **Finance**
@@ -264,6 +265,7 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 
 - [[John Kennedy]] (Judiciary, Banking)
 - [[French Hill]] (Banking)
+- [[Jim Himes]] (House Committee on Financial Services, House Permanent Select Committee on Intelligence)
 - [[John Boehner]] (Finance)
 - [[Paul Ryan]] (Finance)
 - [[John Cornyn]] (Judiciary, Intelligence, Finance)

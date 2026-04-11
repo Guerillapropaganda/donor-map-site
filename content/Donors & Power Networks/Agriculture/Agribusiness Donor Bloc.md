@@ -2,7 +2,7 @@
 title: "Agribusiness Donor Bloc"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -17,6 +17,8 @@ cross-vault-triangulation-count: 9
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+lobbying-spend: 480000
+lobbying-filings: 17
 ---
 #agribusiness #agriculture #industry-bloc #subsidies #farm-bill #lobbying #consolidation
 
@@ -95,3 +97,22 @@ The four pillars:
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $480K |
+| Quarterly Filings | 17 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 2 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Agriculture, Budget/Appropriations
+
+**Lobbying firms:** COMBEST, SELL & ASSOCIATES, LLC, THE PETERSON GROUP INC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), HOUSE OF REPRESENTATIVES, SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Agribusiness%20Donor%20Bloc) (Tier 1)
+<!-- auto:lda-lobbying end -->

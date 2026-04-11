@@ -2,7 +2,7 @@
 title: "General Dynamics"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -18,7 +18,7 @@ net-assets: "$11K"
 tax-year: "2019"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 subawards-issued: 50
@@ -62,6 +62,8 @@ cross-vault-triangulation-count: 20
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+ftc-enforcement-actions: 1
+ftc-hsr-notices: 30
 ---
 #general-dynamics #defense #submarine #gulfstream #lobbying #military-industrial
 
@@ -284,6 +286,68 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($5.7B sampled) |
+| Subawards Received (as sub) | 50 ($5.7B sampled) |
+| Top Federal Agency | General Services Administration ($4.5B) |
+| Primary NAICS Sector | Computer Systems Design Services |
+
+**Subcontractors receiving federal money from General Dynamics:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| GENERAL DYNAMICS MISSION SYSTEMS, INC. | $3.6B | 28 |
+| GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. | $1.1B | 10 |
+| GENERAL DYNAMICS-OTS, INC. | $885.1M | 11 |
+| GENERAL DYNAMICS INFORMATION TECHNOLOGY INC | $178.7M | 1 |
+
+**Prime contractors funneling federal money to General Dynamics:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $3.0B | 18 |
+| LOCKHEED MARTIN CORPORATION | $1.6B | 20 |
+| RAYTHEON COMPANY | $328.4M | 4 |
+| SECURIGENCE LLC | $270.7M | 2 |
+| CACI, INC. - FEDERAL | $223.1M | 2 |
+| LOCKHEED MARTIN CORP | $80.6M | 1 |
+| KBR WYLE SERVICES, LLC | $60.0M | 1 |
+| LEIDOS, INC. | $55.2M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| General Services Administration | $4.5B |
+| Department of Health and Human Services | $4.2B |
+| Department of Homeland Security | $2.3B |
+| Department of State | $2.1B |
+| Department of Veterans Affairs | $890.2M |
+| Department of Transportation | $862.2M |
+| Department of Commerce | $792.0M |
+| Department of the Interior | $730.4M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Computer Systems Design Services (541512) | $9.0B |
+| Ammunition (except Small Arms) Manufacturing (332993) | $6.9B |
+| Custom Computer Programming Services (541511) | $3.3B |
+| Other Computer Related Services (541519) | $1.9B |
+| Computer Facilities Management Services (541513) | $1.8B |
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $1.6B |
+| Facilities Support Services (561210) | $1.5B |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
+
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
 | Metric | Value |
@@ -357,3 +421,32 @@ The final FY2026 bill included **$58.8 million for 4 tanks** — reduced from th
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22General%20Dynamics%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 1 |
+| HSR early termination notices (merger filings) | 30 |
+| Most recent enforcement action | 2006-12-28 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 1
+
+**Recent enforcement actions (historical):**
+
+- [General Dynamics OTS (Aerospace), inc. / SNC Technologies Inc.](http://www.ftc.gov/os/caselist/0610150/index.shtm) (2006-12-28) — Defense � Ammunitions
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [General Dynamics Corporation → Medico Industries, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201190) (2020-07-13)
+- [Odyssey Investment Partners Fund V, LP → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20191792) (2020-06-04)
+- [CACI International Inc. → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181671) (2018-08-06)
+- [Marlin Equity IV, L.P. → General Dynamics Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150824) (2015-04-13)
+- [General Dynamics Corporation → Jerrold L. Miller](https://www.ftc.gov/legal-library/browse/early-termination-notices/20120995) (2012-06-27)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=General%20Dynamics).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=General%20Dynamics) (Tier 1)
+<!-- auto:ftc-enforcement end -->

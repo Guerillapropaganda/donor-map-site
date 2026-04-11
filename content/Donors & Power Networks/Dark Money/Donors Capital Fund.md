@@ -2,7 +2,7 @@
 title: "Donors Capital Fund"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 13
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -22,7 +22,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Florida"
   - "District Court, W.D. Washington"
-ein: "541934032"
+ein: 541934032
 annual-revenue: "$696K"
 net-assets: "$9.5M"
 tax-year: "2023"
@@ -62,6 +62,9 @@ cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+wikidata-id: "Q17011069"
+wikipedia-url: "https://en.wikipedia.org/wiki/DonorsTrust"
+wikipedia-extract: 'DonorsTrust is an American nonprofit donor-advised fund that was founded in 1999 with the goal of "safeguarding the intent of libertarian and conservative donors".'
 ---
 #donor #dark-money #donor-advised-fund #501c3 #conservative #koch-network #class-analysis #follow-the-money
 
@@ -221,3 +224,18 @@ research-status:: draft — Core financial profile and grant distribution docume
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Donors%20Capital%20Fund%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+DonorsTrust is an American nonprofit donor-advised fund that was founded in 1999 with the goal of "safeguarding the intent of libertarian and conservative donors".
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q17011069](https://www.wikidata.org/wiki/Q17011069) |
+| Description | organization |
+| Founded | 1999-00-00 |
+| Website | [http://www.donorscapitalfund.org](http://www.donorscapitalfund.org) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/DonorsTrust) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q17011069) (Tier 2)
+<!-- auto:wikipedia end -->
