@@ -32,10 +32,21 @@
  */
 const fs = require('fs');
 const path = require('path');
+const { recordRejection, getRejectedPatterns } = require('./false-positive-log.cjs');
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', '..', 'content');
 const QUEUE_FILE = path.join(CONTENT_DIR, 'Admin Notes', 'Attention Queue.md');
 const STORE_FILE = path.join(CONTENT_DIR, 'Admin Notes', '.attention-queue-store.json');
+
+/**
+ * Stable identifier for an entry, used for rejection tracking. The combination
+ * of (source, where, what) uniquely identifies a surfaced item even if the
+ * ranking or cost estimate changes between runs. Producers do NOT need to
+ * coordinate on pattern keys — rejection works universally through this.
+ */
+function entrySignature(entry) {
+  return `${entry.source || ''}|${entry.where || ''}|${entry.what || ''}`;
+}
 
 /**
  * Load the persisted store (JSON keyed by source name → entries[]).
@@ -92,15 +103,55 @@ function normalizeEntry(entry, sourceName) {
  * REPLACE all entries from a given source with the new entries.
  * Other sources' entries are untouched. Regenerates the queue file.
  *
+ * Entries whose signature `(source|where|what)` matches a prior rejection
+ * in the false-positive log are auto-filtered — producers don't need to
+ * coordinate on pattern keys, rejection is universal.
+ *
  * @param {string} sourceName — the script that's contributing (e.g., "contradiction-miner")
  * @param {object[]} entries — array of entry objects
  */
 function addEntries(sourceName, entries) {
   const store = loadStore();
-  store[sourceName] = entries.map(e => normalizeEntry(e, sourceName));
+  const rejected = getRejectedPatterns(sourceName);
+  const normalized = entries
+    .map(e => normalizeEntry(e, sourceName))
+    .filter(e => !rejected.has(entrySignature(e)));
+  store[sourceName] = normalized;
   saveStore(store);
   regenerateQueueFile(store);
   return store[sourceName].length;
+}
+
+/**
+ * Mark a specific entry as a false positive and remove it from the queue.
+ * The rejection is recorded with the signature `(source|where|what)` so the
+ * next producer run will filter it out automatically.
+ *
+ * @param {string} sourceName — which producer surfaced the entry
+ * @param {object} match — { where, what } identifying the entry to reject
+ * @param {string} reason — optional plain-English explanation
+ * @returns {boolean} true if an entry was removed, false if not found
+ */
+function rejectEntry(sourceName, match, reason) {
+  const store = loadStore();
+  const entries = store[sourceName] || [];
+  const idx = entries.findIndex(
+    e => e.where === match.where && e.what === match.what
+  );
+  if (idx === -1) return false;
+  const removed = entries[idx];
+  const signature = entrySignature(removed);
+  recordRejection(
+    sourceName,
+    signature,
+    `${removed.what} @ ${removed.where}`,
+    reason || 'rejected from /attention UI'
+  );
+  entries.splice(idx, 1);
+  store[sourceName] = entries;
+  saveStore(store);
+  regenerateQueueFile(store);
+  return true;
 }
 
 /**
@@ -251,6 +302,8 @@ module.exports = {
   addEntries,
   clearSource,
   loadQueue,
+  rejectEntry,
+  entrySignature,
   QUEUE_FILE,
   STORE_FILE,
 };

@@ -77,6 +77,12 @@ export default function AttentionPage() {
     "all"
   )
   const [sourceFilter, setSourceFilter] = useState<string>("all")
+  const [rejecting, setRejecting] = useState<string | null>(null)
+
+  const refetch = () =>
+    fetch("/api/attention-queue")
+      .then((r) => r.json())
+      .then((d: AttentionResponse) => setData(d))
 
   useEffect(() => {
     fetch("/api/attention-queue")
@@ -87,6 +93,38 @@ export default function AttentionPage() {
       })
       .catch(() => setLoading(false))
   }, [])
+
+  async function rejectItem(e: AttentionEntry) {
+    const key = `${e.source}|${e.where}|${e.what}`
+    if (rejecting) return
+    const reason = window.prompt(
+      `Reject this item as a false positive?\n\n"${e.what}"\n\nReason (optional — helps the script learn):`
+    )
+    if (reason === null) return
+    setRejecting(key)
+    try {
+      const res = await fetch("/api/attention-queue/reject", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({
+          source: e.source,
+          where: e.where,
+          what: e.what,
+          reason: reason || undefined,
+        }),
+      })
+      if (!res.ok) {
+        const err = await res.json().catch(() => ({}))
+        window.alert(`Reject failed: ${err.error || res.statusText}`)
+        return
+      }
+      await refetch()
+    } catch (err) {
+      window.alert(`Reject failed: ${(err as Error).message}`)
+    } finally {
+      setRejecting(null)
+    }
+  }
 
   if (loading) {
     return (
@@ -252,6 +290,8 @@ node scripts/promotion-candidate-queue.cjs`}
               const linkHref = isFilePath
                 ? `/profile?path=${encodeURIComponent(e.where)}`
                 : e.where
+              const rejectKey = `${e.source}|${e.where}|${e.what}`
+              const isRejecting = rejecting === rejectKey
               return (
                 <div
                   key={i}
@@ -287,8 +327,18 @@ node scripts/promotion-candidate-queue.cjs`}
                   <p className="text-[11px] text-[var(--color-text)] leading-snug mb-2">
                     {e.why}
                   </p>
-                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono">
-                    {e.where}
+                  <div className="flex items-center justify-between gap-3">
+                    <div className="text-[9px] text-[var(--color-text-dim)] font-mono truncate">
+                      {e.where}
+                    </div>
+                    <button
+                      onClick={() => rejectItem(e)}
+                      disabled={isRejecting}
+                      title="Mark as false positive. The script will learn to skip this pattern on future runs."
+                      className="flex-shrink-0 text-[9px] uppercase tracking-wider px-2 py-1 rounded border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-red)] hover:border-[var(--color-red)] disabled:opacity-50 disabled:cursor-wait transition-colors"
+                    >
+                      {isRejecting ? "rejecting…" : "✕ reject"}
+                    </button>
                   </div>
                 </div>
               )

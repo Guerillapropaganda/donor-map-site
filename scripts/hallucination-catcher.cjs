@@ -43,38 +43,67 @@ const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'conte
 const WRITE = process.argv.includes('--write');
 const SOURCE_NAME = 'hallucination-catcher';
 
-// Patterns that signal a factual claim
+// Verbs that turn a number into an actual claim needing a citation.
+// "Koch gave $500 million" is a claim. "The $500 million threshold" is not.
+const CLAIM_VERBS =
+  '(paid|spent|donated|gave|contributed|received|raised|funneled|committed|pledged|bundled|wrote|invested|channel(ed|led)?|routed|transferred|funded|bankrolled|poured|backed|sank|deposited|laundered|concealed|reported|disclosed|earned|collected|lost)';
+const CLAIM_VERB_RE = new RegExp(`\\b${CLAIM_VERBS}\\b`, 'i');
+
+// Patterns that signal a factual claim. Each one MUST be paired with a
+// verb or a contextual noun to count — bare numbers are not flagged.
 const CLAIM_PATTERNS = [
   {
     name: 'dollar-amount',
+    // "$500 million" / "$2.3B" etc. — Only flagged if a claim verb appears
+    // within 80 chars of the match (checked post-hoc in scanParagraph).
     regex: /\$\s*\d[\d,.]*\s*(million|billion|thousand|m\b|b\b|k\b)/gi,
     severity: 'high',
+    requiresVerbNearby: true,
   },
   {
     name: 'percentage',
-    regex: /\b\d+(\.\d+)?\s*%/g,
+    // "80% of voters" / "a 12% increase" — the percentage MUST be followed
+    // by "of <word>" or preceded by a contextual noun. Bare "80%" is ignored.
+    regex: /\b\d+(\.\d+)?\s*%\s+(of|increase|decrease|growth|decline|margin|share|drop|rise|jump|cut|gain|loss)\b/gi,
     severity: 'medium',
+    requiresVerbNearby: false,
   },
   {
     name: 'year-action',
-    // Year 2010-2030 paired with an action verb within 30 characters
-    regex: /\b(201\d|202\d|203\d)[^.]{0,80}\b(voted|gave|received|donated|contributed|spent|raised|passed|blocked|sponsored)\b/gi,
+    // Year 2010-2030 paired with an action verb within 80 characters.
+    regex: /\b(201\d|202\d|203\d)[^.]{0,80}\b(voted|gave|received|donated|contributed|spent|raised|passed|blocked|sponsored|introduced|signed|vetoed)\b/gi,
     severity: 'medium',
-  },
-  {
-    name: 'bill-reference',
-    regex: /\b(H\.?R\.?|S\.?)\s*\d{1,5}\b/g,
-    severity: 'low',
+    requiresVerbNearby: false,
   },
   {
     name: 'multiplier',
+    // "3x more" / "twice as much"
     regex: /\b\d+(\.\d+)?\s*(x|times|fold)\s+(more|higher|greater|less|fewer)/gi,
     severity: 'medium',
+    requiresVerbNearby: false,
   },
 ];
+// Note: bill-reference ("H.R. 3755") was dropped — bill numbers are self-
+// citing and don't need a separate source link.
 
-function hasLinkInParagraph(paragraph) {
-  return /\[[^\]]+\]\(https?:\/\/[^)]+\)/.test(paragraph);
+// A claim is considered cited if any of these appear within 150 chars of the
+// match: an inline markdown link `](http`, a footnote ref `[^N]`, or a named
+// citation like `[cite]`. Same-paragraph is no longer enough — proximity is.
+const CITATION_PROXIMITY = 150;
+function isCitedNear(paragraphText, matchIndex, matchLength) {
+  const start = Math.max(0, matchIndex - CITATION_PROXIMITY);
+  const end = Math.min(paragraphText.length, matchIndex + matchLength + CITATION_PROXIMITY);
+  const window = paragraphText.slice(start, end);
+  if (/\]\(https?:\/\//.test(window)) return true;
+  if (/\[\^\w[\w-]*\]/.test(window)) return true;
+  if (/\[cite[^\]]*\]/i.test(window)) return true;
+  return false;
+}
+
+function hasVerbNear(paragraphText, matchIndex, matchLength) {
+  const start = Math.max(0, matchIndex - 80);
+  const end = Math.min(paragraphText.length, matchIndex + matchLength + 80);
+  return CLAIM_VERB_RE.test(paragraphText.slice(start, end));
 }
 
 function splitIntoParagraphs(body) {
@@ -131,21 +160,39 @@ function splitIntoParagraphs(body) {
 function scanParagraph(paragraph) {
   if (paragraph.inBlockquote) return [];
   // Exempt sections: Class Analysis is interpretive, Sources is where citations live
-  const exemptSections = [/^Sources/i, /^Class Analysis/i, /^Related/i];
+  const exemptSections = [
+    /^Sources/i,
+    /^Class Analysis/i,
+    /^Related/i,
+    /^References/i,
+    /^Citations/i,
+    /^Notes/i,
+  ];
   if (exemptSections.some((re) => re.test(paragraph.section))) return [];
-  // Exempt tables (they're usually citation lists themselves, not prose claims)
+  // Exempt tables — they're reference structures, not prose claims
   if (paragraph.text.trim().startsWith('|')) return [];
-  if (hasLinkInParagraph(paragraph.text)) return [];
+  // Exempt bullet lists — usually structured data, not narrative claims
+  if (/^\s*[-*]\s/.test(paragraph.text.trim())) return [];
 
   const findings = [];
   for (const pattern of CLAIM_PATTERNS) {
-    const matches = paragraph.text.matchAll(pattern.regex);
+    const matches = Array.from(paragraph.text.matchAll(pattern.regex));
     for (const m of matches) {
+      const matchIdx = m.index || 0;
+      const matchLen = m[0].length;
+      // Per-claim citation check (proximity, not whole-paragraph)
+      if (isCitedNear(paragraph.text, matchIdx, matchLen)) continue;
+      // Verb-nearby check when the pattern requires it
+      if (pattern.requiresVerbNearby && !hasVerbNear(paragraph.text, matchIdx, matchLen)) {
+        continue;
+      }
       findings.push({
         pattern: pattern.name,
         severity: pattern.severity,
         claim: m[0],
-        context: paragraph.text.slice(Math.max(0, m.index - 40), (m.index || 0) + m[0].length + 60).replace(/\s+/g, ' '),
+        context: paragraph.text
+          .slice(Math.max(0, matchIdx - 40), matchIdx + matchLen + 60)
+          .replace(/\s+/g, ' '),
         section: paragraph.section || '(no section)',
       });
     }
