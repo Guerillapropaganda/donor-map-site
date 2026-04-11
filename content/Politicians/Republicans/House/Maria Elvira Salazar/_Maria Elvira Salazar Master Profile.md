@@ -1,8 +1,8 @@
 ---
 title: "Maria Elvira Salazar"
 type: politician
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
@@ -27,7 +27,12 @@ related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master P
 committees:
   - "House Committee on Financial Services"
   - "House Committee on Foreign Affairs"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S000168. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • Internal notes say pipeline data was damaged or needs repopulation.
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[MANUAL 2026-04-11] Bioguide recovered: S000168. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 issues:

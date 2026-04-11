@@ -1,16 +1,22 @@
 ---
 title: Mark Kelly
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
 total-received: '$33,067,827'
 fec-candidate-id: S0AZ00350
 last-enriched: '2026-04-08'
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline"
 donors: '[[Ken Griffin]]'
 related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Boeing]]"
 opposes: "[[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH ACTION]] · [[THE SENTINEL ACTION FUND]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
 

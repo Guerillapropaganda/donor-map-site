@@ -1,7 +1,7 @@
 ---
 title: "Kevin McCarthy Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -22,7 +22,13 @@ top-donors:
 total-received: "$15,739,442"
 fec-candidate-id: "H6CA22125"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline"
 related: "[[Cathy McMorris Rodgers Master Profile]] · [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[_Matt Gaetz Master Profile]] · [[Fossil Fuel Bloc]] · [[Real Estate Industry]] · [[Defense Contractors]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #kevin-mccarthy #master-profile #house #california #speaker #fossil-fuel #oil-gas #ousted #energy-industry
 

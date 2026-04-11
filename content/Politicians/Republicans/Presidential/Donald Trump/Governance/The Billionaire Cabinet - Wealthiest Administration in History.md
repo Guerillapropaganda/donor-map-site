@@ -1,6 +1,6 @@
 ---
 title: "The Billionaire Cabinet - Wealthiest Administration in History"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1

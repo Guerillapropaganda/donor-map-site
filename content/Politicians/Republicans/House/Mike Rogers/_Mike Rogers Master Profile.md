@@ -1,7 +1,7 @@
 ---
 title: "Mike Rogers"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -20,11 +20,17 @@ top-donors:
 donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]]"
 related: "[[The Armed Services Committee and Progressive Defense Paradox]] · [[_Jack Reed Master Profile|Reed]] · [[Lockheed Martin]] · [[Boeing]] · [[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run congress pipeline"
 govtrack-id: 400341
 bills-sponsored: 82
 bills-cosponsored: 1979
 website: "https://mikerogers.house.gov"
 phone: "202-225-3261"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #mike-rogers #republican #alabama #house #committee-chair #armed-services #defense #lockheed-martin #space-force #space-command #phase-6-gavel-power
 

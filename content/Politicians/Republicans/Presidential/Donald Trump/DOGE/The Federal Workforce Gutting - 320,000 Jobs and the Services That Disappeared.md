@@ -1,6 +1,6 @@
 ---
 title: "The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 1

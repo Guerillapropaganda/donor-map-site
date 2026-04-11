@@ -1,6 +1,6 @@
 ---
 title: "Three Justices in Four Years - The Leonard Leo Investment and Its Returns"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1

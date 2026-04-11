@@ -1,6 +1,6 @@
 ---
 title: "The Adelson Pipeline - Embassy, Abraham Accords, and Iran"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1

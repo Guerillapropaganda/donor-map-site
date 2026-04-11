@@ -1,6 +1,6 @@
 ---
 title: "The Palantir State - Surveillance as Policy"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1

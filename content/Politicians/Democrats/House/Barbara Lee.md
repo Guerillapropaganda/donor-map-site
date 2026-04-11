@@ -1,18 +1,23 @@
 ---
 title: "Barbara Lee"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
 total-received: "$375,046"
 fec-candidate-id: "H8CA09060"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline"
 donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"
 govtrack-id: 400237
 bills-sponsored: 0
 bills-cosponsored: 0
 related: "[[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Adam Schiff|Adam Schiff]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
 tags: #democrat

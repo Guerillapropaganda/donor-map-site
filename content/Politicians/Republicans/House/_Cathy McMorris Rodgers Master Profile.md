@@ -1,7 +1,7 @@
 ---
 title: "Cathy McMorris Rodgers Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -20,6 +20,13 @@ top-donors:
 total-received: "$3,631,602"
 fec-candidate-id: "H4WA05077"
 related: "[[Kevin McCarthy Master Profile]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Marathon Petroleum]] · [[Chevron]] · [[Microsoft]] · [[Amazon]]"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #master-profile #republican #house #washington #energy-commerce #telecom #net-neutrality #pac-money
 

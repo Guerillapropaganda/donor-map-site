@@ -1,7 +1,7 @@
 ---
 title: "John Kennedy Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -26,6 +26,12 @@ stock-trade-tickers:
   - "MTUM"
 fec-candidate-id: "S4LA00065"
 related: "[[Dan Crenshaw Master Profile]] · [[_Bill Cassidy Master Profile|Cassidy]] · [[ExxonMobil]] · [[Koch Industries]] · [[ConocoPhillips]] · [[_Lindsey Graham Master Profile|Graham]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley
 

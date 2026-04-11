@@ -1,7 +1,7 @@
 ---
 title: "Patty Murray"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -35,6 +35,13 @@ donors: "[[Jeff Bezos]]"
 total-received: "$3,798,925"
 fec-candidate-id: "S2WA00189"
 related: "[[Boeing]] · [[Pharmaceutical Industry Bloc]] · [[Defense Industry Bloc]] · [[Microsoft]]"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis
 tags: #democrat

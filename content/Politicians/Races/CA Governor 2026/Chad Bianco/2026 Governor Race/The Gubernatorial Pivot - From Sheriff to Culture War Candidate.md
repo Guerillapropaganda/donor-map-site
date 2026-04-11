@@ -1,6 +1,6 @@
 ---
 title: "The Gubernatorial Pivot - From Sheriff to Culture War Candidate"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2

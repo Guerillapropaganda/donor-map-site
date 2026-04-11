@@ -1,6 +1,7 @@
 ---
 title: "Brian Kemp"
-type: politician
+type: state-politician
+current-office: "Governor of Georgia (2019–present)"
 content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 1

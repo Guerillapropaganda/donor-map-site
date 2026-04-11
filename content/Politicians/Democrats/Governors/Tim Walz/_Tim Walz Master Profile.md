@@ -1,7 +1,7 @@
 ---
 title: "Tim Walz"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,9 +14,15 @@ fec-candidate-id: "H6MN01174"
 donors: "[[Democracy Alliance]]"
 wikidata-id: "Q2434360"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline"
 wikipedia-url: "https://en.wikipedia.org/wiki/Tim_Walz"
 wikipedia-extract: "Timothy James Walz is an American politician, former educator, and Army National Guard veteran serving since 2019 as the 41st governor of Minnesota. He was a member of the U.S."
 born: "1964-04-06"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #politician #labor-aligned #authenticity-brand #two-audience-problem #minnesota

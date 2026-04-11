@@ -1,6 +1,6 @@
 ---
 title: "Signalgate - The Yemen Strike Chat and the Security Theater"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-04-07
 source-tier: 1

@@ -1,6 +1,7 @@
 ---
 title: "Kathy Hochul"
-type: politician
+type: state-politician
+current-office: "Governor of New York (2021–present)"
 content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1

@@ -1,8 +1,8 @@
 ---
 title: "Bobby Scott"
 type: politician
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -45,8 +45,12 @@ opensanctions-datasets:
   - "wd_peps"
   - "wikidata"
   - "us_congress"
-last-enriched: "2026-04-11"
-bioguide-id: "S000185"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #bobby-scott #democrat #virginia #house #ranking-member #education #labor #unions #phase-6-gavel-power
 

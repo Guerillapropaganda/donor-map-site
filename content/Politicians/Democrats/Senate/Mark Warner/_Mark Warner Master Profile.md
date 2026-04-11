@@ -1,7 +1,7 @@
 ---
 title: "Mark Warner"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -29,8 +29,13 @@ bills-cosponsored: 248
 website: "https://www.warner.senate.gov"
 phone: "202-224-2023"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline"
 donors: "[[Tech Industry]] · [[Insurance Industry]] · [[Goldman Sachs]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Eric Schmidt]] · [[Silicon Valley Donors]] · [[Telecom Industry]] · [[Defense Contractors]] · [[_Joe Biden Master Profile]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #mark-warner #senate #virginia #intelligence #telecom #venture-capital #personal-wealth #class-analysis #democrat
 tags: #democrat

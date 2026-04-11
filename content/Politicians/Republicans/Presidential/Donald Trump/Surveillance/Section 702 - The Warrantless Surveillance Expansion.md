@@ -1,6 +1,6 @@
 ---
 title: "Section 702 - The Warrantless Surveillance Expansion"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-09
 source-tier: 2

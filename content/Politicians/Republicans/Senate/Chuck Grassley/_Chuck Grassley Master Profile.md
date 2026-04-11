@@ -1,7 +1,7 @@
 ---
 title: "Chuck Grassley"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -21,6 +21,13 @@ bills-cosponsored: 202
 website: "https://www.grassley.senate.gov"
 phone: "202-224-3744"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Mike Lee]]"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #chuck-grassley #republican #iowa #senate #committee-chair #judiciary #agriculture #pharma #insurance #whistleblower #phase-6-gavel-power
 

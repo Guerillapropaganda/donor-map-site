@@ -1,8 +1,8 @@
 ---
 title: "John Cornyn"
 type: politician
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Republican"
@@ -37,10 +37,15 @@ fec-candidate-id: "S2TX00106"
 stock-trades: 2
 stock-trade-tickers:
   - "AAPL"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline"
 related: "[[Tim Scott]] · [[US Chamber of Commerce]] · [[_John Thune Master Profile|John Thune]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Chevron]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]"
 donors: "[[Harlan Crow]] · [[Insurance Industry]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]]"
-bioguide-id: "C001056"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz
 

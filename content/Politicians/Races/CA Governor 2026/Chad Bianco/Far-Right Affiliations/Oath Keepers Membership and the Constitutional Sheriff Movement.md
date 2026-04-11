@@ -1,6 +1,6 @@
 ---
 title: "Oath Keepers Membership and the Constitutional Sheriff Movement"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1

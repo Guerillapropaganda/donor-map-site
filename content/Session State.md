@@ -11,6 +11,139 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code (with earlier Research work now superseded by bulk cleanup)
+Date: 2026-04-11 late night (Phase 1 Day 2 second session-save — bioguide recovery + taxonomy expansion + mass politician cleanup)
+
+### Theme
+Continued directly after the first session-save with manual bioguide recovery for the 22 contaminated profiles from the earlier session. Recovered 17 via David's bioguide.congress.gov lookups + Rick Scott via direct Congress.gov API query. The remaining 5 turned out to be state/local politicians that shouldn't have had bioguides in the first place — surfacing the need for new profile types. Shipped `state-politician` / `local-politician` / `candidate-for` taxonomy, then used that to catch a much larger problem: the Ops app grid showed stories, media, and genuinely-incomplete politicians at "ready" across the board. A full politician-only janitor pass demoted 64 additional profiles (on top of the 32 from earlier) that had never passed pipeline enrichment. Zero politicians at ready anywhere in the vault now.
+
+### Done — 17 bioguide recoveries
+
+- **`scripts/recover-bioguide.cjs`** (new, ~210 lines) — single-profile and batch mode. Applies a verified bioguide to a previously-cleared contaminated profile: inserts `bioguide-id` after `fec-candidate-id`/`state-abbr`/`chamber`, removes the "bioguide-id needs manual verification" known-gap entry, flips `needs-reenrichment: true` with a recovery-dated reason, and prepends a `[MANUAL YYYY-MM-DD]` note to `internal-notes`. Includes **duplicate-bioguide detection** — refuses to apply a bioguide if it's already in use by another profile (second line of defense against re-contamination). Commit `660e5e35` + `422e7988`.
+- **Batch of 15** applied via `scripts/bioguide-recovery-batch.json`:
+  Morelle M001206, Pelosi P000197, Gottheimer G000583, Padilla P000145, Coons C001088, Schumer S000148, Clinton C001041, Hickenlooper H000273, Sinema S001191, Crenshaw C001120, Salazar S000168, Gaetz G000578, Ted Cruz C001098, Tuberville T000278, Bean B001253. Three of these (Padilla, Hickenlooper, Crenshaw) were auto-extracted from Congress.gov citation URLs already in their profile bodies; David confirmed them afterward.
+- **Bowman** (B001223) — applied first, single-profile call.
+- **Rick Scott** (S001217) — David's bioguide.congress.gov search didn't surface him. Worked around by querying the Congress.gov API directly: `GET /v3/member/congress/119/FL?format=json` returned both Florida senators (Rick Scott + Ashley Moody). Applied via recover-bioguide.cjs. Documents a new quality-check rule: when the bioguide.congress.gov web UI fails to find a known current member, fall back to `/v3/member/congress/{N}/{stateCode}` for authoritative state delegation.
+
+### Done — new profile type taxonomy (state/local/candidate)
+
+Per user approval, introduced three new frontmatter values to support edge cases:
+
+- **`type: state-politician`** — Governors, Lt Governors, state legislators, state AGs, etc. Congress.gov + GovTrack + Committee pipelines SKIPPED. FEC still fires if `fec-candidate-id` exists (state politicians running for federal office legitimately file with FEC).
+- **`type: local-politician`** — Mayors, city council, county commissioners, DAs, sheriffs, school board. Same pipeline behavior as state-politician.
+- **`candidate-for:` field** — optional, additive to any `type:`. Marks anyone currently running for federal office with a value like `"US Senate 2026 (IL, Democratic primary)"`. Remove after election is decided; if they win they become `politician` on next sync.
+
+**Vault Rules** — new "Politician type taxonomy (three tiers)" and "Candidate tracking" sections added under Frontmatter schema. Both Claudes must respect these going forward.
+
+**Janitor** — `EXEMPT_TYPES` in `scripts/pipeline-janitor.cjs` now includes `state-politician` and `local-politician`. They're skipped by the auto-block audit because Congress/GovTrack don't apply.
+
+**Applied to 5 profiles** that were cleared in the contamination cleanup and should never have had federal bioguides:
+- **Juliana Stratton** → state-politician (IL Lt Gov) + candidate-for: US Senate 2026 (IL)
+- **Roy Cooper** → state-politician (former NC Governor 2017–2025) + candidate-for: US Senate 2026 (NC)
+- **Zach Wahls** → state-politician (IA State Senator 2019–present) + candidate-for: US Senate 2026 (IA)
+- **Daniel Biss** → local-politician (Evanston Mayor 2021–present) + former-roles: IL State Senator 2013–2019, US House IL-9 candidate 2018 (lost)
+- **Donna Miller** → local-politician (Cook County Commissioner D6) + candidate-for: US House 2026 (IL, exact district pending FEC filing verification)
+
+Each of the 5 also had the stale "bioguide-id needs manual verification" known-gap entry cleaned up, and got real known-gap entries pointing at the sources that DO apply (state legislature sites, county board minutes, city government sites). Commit `8c3191c9` / merged as `c36a1c12`.
+
+### Done — full politician cleanup (96 total demotions)
+
+After the taxonomy shipped, David pointed out that the Ops app grid was still showing lots of profiles at "ready" that were obviously not done — stories, media, and half-finished politicians. Investigation revealed three mixed problems that required a full audit pass:
+
+**Wave A: 27 topical sub-notes mis-typed as `politician`** — `scripts/find-mistyped-politicians.cjs` + `scripts/classify-mistyped-politicians.cjs` found 52 non-master files with `type: politician`. Splitting them by filename heuristic showed 27 were actually topical sub-notes nested under a parent politician's directory:
+- 22 Trump policy deep-dives (Project 2025, DOGE, Pardon Machine, Iran War Money Trail, Fox News Pipeline, Section 702, Palantir State, Tariff Wars, Schedule F, Billionaire Cabinet, Adelson Pipeline, etc.)
+- 6 Chad Bianco sheriff-era stories (CA DOJ Investigation, Deputy Misconduct, CSPOA, Oath Keepers Membership, Gubernatorial Pivot, COVID Mandate Refusal)
+
+All retyped to `sub-note` via `scripts/apply-type-reclassification.cjs`. Impact: these disappear from the Ops app politician grid and the checklist correctly stops demanding pipeline enrichment from them.
+
+**Wave B: 5 state politicians mis-typed as `politician`** — same classifier flagged:
+- Kathy Hochul (NY Governor) → state-politician
+- Brian Kemp (GA Governor) → state-politician
+- Ash Kalra (CA State Assembly) → state-politician
+- Anthony Rendon (Former CA State Assembly Speaker) → state-politician
+- Buffy Wicks (CA State Assembly) → state-politician
+
+Each got `current-office:` as an informational field (e.g., "Governor of New York (2021–present)").
+
+**Wave C: 64 politicians at `ready` demoted to `draft`** — ran `pipeline-janitor.cjs --type=politician` (new `--type` filter added). Every single one of the 64 audited politicians failed the new strict Vault Rules for `ready`:
+- 97 `missing-block` issues (no FEC, no Congress, no GovTrack auto-blocks at all)
+- 38 `never-enriched` (no `last-enriched` date — pipelines had literally never touched them)
+- 3 `internal-notes-pipeline` (pipeline cleanup damage from earlier incidents)
+- 1 `zombie-block`
+
+Examples: Gerry Connolly, Bob Casey, Dick Cheney, Virginia Foxx, Jim McGovern, AOC, Bennie Thompson, Brendan Boyle, Debbie Wasserman Schultz. Pattern across all 64: manually promoted to ready by Research Claude based on body content alone, no pipeline ever run. Each now has `needs-reenrichment: true` + a plain-English [JANITOR] note.
+
+**Result: zero politicians at `ready` anywhere in the vault.** 246 politicians at draft (up from ~181). The Ops app grid will finally tell the truth — every politician in the Ready tab is either one of the ~3 legit verified profiles or doesn't exist there.
+
+### Done — 3 Tier 1 incidents documented in Pipeline Guide
+
+Added new entries to `content/Pipeline Guide.md` § "Engine-wide known incidents":
+- **"updateFrontmatter scalar/list hybrid corruption (fixed 2026-04-11)"** — root cause, smoking-gun commit, fix approach, quality-check rule
+- **"Bulk bioguide contamination — C001091 (Castro) + B001296 waves (fixed 2026-04-11)"** — root cause, real-time near-miss, four new quality-check rules covering the candidates[0] fallback pattern, duplicate-bioguide detection, pipeline-side dedupe defense, and the `q=` parameter truth
+
+### Tooling shipped this session
+
+Seven new scripts + two new YAML fields + two new profile types:
+
+```
+scripts/pipeline-janitor.cjs              (audit ready/verified profiles; auto-demote zombies, self-heal)
+scripts/yaml-sanity-scan.cjs              (vault-wide YAML parse validator)
+scripts/fix-bioguide-contamination.cjs    (clears contaminated bioguides with [JANITOR] notes)
+scripts/recover-bioguide.cjs              (single/batch manual bioguide recovery with duplicate detection)
+scripts/find-mistyped-politicians.cjs     (quick diagnostic for wrong type: politician)
+scripts/classify-mistyped-politicians.cjs (splits mis-typed into real/sub-note/state/international)
+scripts/apply-type-reclassification.cjs   (one-shot bulk type rewrite; kept for audit trail)
+scripts/bioguide-recovery-batch.json      (the 15-profile recovery batch)
+```
+
+Engine patches (`donor-map-engine` main):
+- `061c2c7` — `selectTargets` honors `needs-reenrichment: true` flag (bypasses enrichedKey skip + notFoundCache, prioritizes flagged profiles first)
+- `4b23618` — `updateFrontmatter` uses `fullFieldRegex(key)` helper to consume continuation lines (prevents scalar/list hybrid corruption)
+
+### Commits this session-save cycle
+
+Site repo (`donor-map-site`, branch `v4`):
+- `596ebeb4` — First session-save (moved to Previous Session by this update)
+- `660e5e35` — Bioguide recovery: 16 profiles (Bowman + batch of 15)
+- `8c3191c9` — Taxonomy: state-politician + local-politician + candidate-for + Rick Scott recovery
+- `9ae94152` — Full politician cleanup: 32 type reclassifications + 64 demotions (101 files changed)
+- Deploys: `24270279903` ✓ (first session-save), `24272235465` ✓ (taxonomy), `24272545408` ✓ (cleanup)
+
+Engine repo (`donor-map-engine`, branch `main`):
+- No new commits this session-save cycle (all engine work was in the previous session-save cycle at `061c2c7` and `4b23618`).
+
+### Known issues / still outstanding
+
+- **22 contaminated profiles → 17 recovered, 5 reclassified.** None of the 22 have wrong bioguides anymore. Full recovery.
+- **Enrichment pipeline runs dispatched:** `24269046614` cancelled at ~24 minutes (contamination save), `24272289750` dispatched after recoveries and currently running. When the new run completes it will populate the 17 recovered profiles with CORRECT Congress.gov data for the first time. Spot-check Bowman next session to verify.
+- **Not yet audited by the full janitor:** donors (184 at ready), corporations (140 at ready), PACs (35 at ready), lobbying-firms (21 at ready), think-tanks (21 at ready). Same "ready but actually incomplete" problem is almost certainly present in these. Next session priority #1 per David's instruction.
+- **3 international politicians** (Smotrich, Ben-Gvir, Zelenskyy) still at `type: politician` — need either a new `international-politician` type or a manual exemption. Deferred.
+- **~39 stub profiles still at `raw`** — eventual draft→ready path but not urgent.
+- **Bowman / Cori Bush verified review (rc_05)** — Bush is ready for sign-off, Bowman needs pipeline run `24272289750` to complete before re-review.
+
+### Next session priorities (2026-04-12)
+
+1. **Run full janitor sweep on donors, corporations, PACs, lobbying-firms, think-tanks.** Same pattern as tonight's politician sweep. Use `--type=donor`, `--type=corporation`, etc. Expect another 100-200 profiles demoted ready→draft. **David explicitly asked for this: "and we will start looking at other profiles for flags."**
+2. **Verify enrichment run `24272289750` finished cleanly** — check `gh run list --workflow=api-enrichment.yml` for its conclusion. Spot-check Bowman's profile body for a `<!-- auto:congress -->` block containing **Bowman's** actual legislative record (not Joaquin Castro's). This is the definitive proof that the contamination chain is fully broken.
+3. **Re-run janitor self-healing pass** to clear `needs-reenrichment` flags on profiles whose auto-blocks are now populated by run `24272289750`.
+4. **rc_05 finale: Bowman + Bush verified re-review** once fresh pipeline data lands.
+5. **Investigate the 3 international politicians** — propose `international-politician` type or exemption.
+6. **Research Claude depth passes** on the newly-draft politicians — Gerry Connolly, Bob Casey, AOC, Bennie Thompson, Brendan Boyle, Debbie Wasserman Schultz, etc. Now that they're honestly at draft, Research Claude can work through them with pipeline data as the foundation instead of manually curating without data.
+7. **David**: conflict triage backlog (~528 remaining, target 27/day).
+8. **David**: sign off on Cori Bush verified candidate (she's been ready for it since earlier today).
+
+### Session end state: dramatically cleaner foundation
+- **22 bioguide contaminations fully resolved** (17 recovered + 5 reclassified to non-federal types)
+- **32 mis-typed profiles fixed** (27 sub-notes + 5 state politicians)
+- **64 additional politicians demoted** from ready → draft (honest readiness)
+- **0 politicians at ready** (none meet the strict Vault Rules definition yet)
+- **Zero broken YAML, zero duplicate bioguides, zero mis-typed politician sub-notes**
+- **2 new profile types + 1 new optional field** in the schema
+- **7 new tools** in `scripts/` for future audits
+
+---
+
+## Previous Session
 Claude: Both (Code + Research, switched as needed)
 Date: 2026-04-11 night (Phase 1 Day 2 final session — Pipeline Janitor + bioguide contamination near-miss + 4 depth passes)
 
