@@ -62,8 +62,8 @@ targets:
     metric: pipeline_bugs_closed
     baseline: 7
     goal: 0
-    current: 22
-    description: "known pipeline bugs blocking data integrity. Original 7: A000383, QVT, GovTrack cache, redirect enrichment, NHTSA non-auto, DOJ index-size, SAM fuzzy. Plus Ops API array-toString bug. Plus updateFrontmatter scalar/list (2026-04-11), bulk-bioguide C001091/B001296 contamination (2026-04-11)."
+    current: 23
+    description: "known pipeline bugs blocking data integrity. Original 7: A000383, QVT, GovTrack cache, redirect enrichment, NHTSA non-auto, DOJ index-size, SAM fuzzy. Plus Ops API array-toString bug. Plus updateFrontmatter scalar/list (2026-04-11), bulk-bioguide C001091/B001296 contamination (2026-04-11), and updateFrontmatter quote-escape (2026-04-11 overnight — Wikipedia extract Ro Khanna/Zoe Lofgren root cause)."
 
   - id: polish
     rank: 4
@@ -484,6 +484,94 @@ phase_1_tasks:
 
         Tooling: scripts/find-mistyped-politicians.cjs (diagnostic), scripts/classify-mistyped-politicians.cjs (splits real vs sub-note vs state), scripts/apply-type-reclassification.cjs (bulk rewrite), scripts/pipeline-janitor.cjs (added --type=X filter). 101 files changed in the commit.
 
+    - id: cc_31
+      task: "Engine: updateFrontmatter picks quote style (Wikipedia-extract corruption root-cause fix)"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      engine_commit: "b96f99e"
+      notes: "donor-map-engine@b96f99e. Fixes the root cause of two deploy failures earlier tonight (24272801987, 24273360093). Both scalar and array writers in scripts/lib/shared.cjs::updateFrontmatter() now pick single-quoted, double-quoted with \\\" escape, or legacy double-quoted based on the value's content. Test suite validates 4 scenarios (Ro Khanna nickname, California apostrophe, mixed both-quotes, plain-text control)."
+
+    - id: cc_32
+      task: "Hotfix: Ro Khanna + Zoe Lofgren YAML (vault-side)"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "9429f0ff"
+      notes: "Converted corrupted wikipedia-extract lines to single-quoted YAML strings. Unblocked the deploy chain. Root cause fixed separately in cc_31."
+
+    - id: cc_33
+      task: "S-tier plan Step 1: schema additions + Vault Rules § 2 rewrite"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "dbfe3336"
+      deploy: "24273405179"
+      notes: |
+        Added 16 new optional fields to the Profile interface in ops/src/lib/vault.ts (centralThesis, storyGrade, lawyerDispute, legalReviewDate, legalReviewResult, boardSeats, stockTrades, bothSidesFlag, crossVaultTriangulationCount, anomalyFlags, auditAPlusPassed, angle, exclusiveConnections, originalFinding, auditSTierPassed, editorialSignoffData, editorialSignoffNarrative) plus ContentReadinessTier type export.
+        Rewrote content/Vault Rules.md § 2 Content Readiness from 4-tier to 5-tier system with new A+ sub-tier breakdown (A/B/C/D) and full S-tier requirements section.
+        Pure schema + docs. Zero enforcement. Backward compatible. Profiles without the new fields render identically.
+
+    - id: cc_34
+      task: "S-tier plan Step 2: extract shared checklist helpers (pure refactor)"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "93881d87"
+      deploy: "24273624255"
+      notes: |
+        New files: ops/src/lib/checklist-helpers.ts (236 lines) and scripts/lib/checklist-helpers.cjs (190 lines) — TS + CJS parallel copies. Exports hasAutoBlock, countTier1InBody, hasHeading, hasCallout, hasDonationPolicyTimeline, hasDarkMoneyTrace, hasRevolvingDoor, runLegalReviewCheck, detectBothSidesEntities, isEnrichedWithin, countMarkdownUrls, countWikilinks.
+        Replaced 6 inline source-diversity, 4 enriched-90d, and 5+ URL/wikilink count patterns in VerificationChecklist.tsx with helper calls.
+        pipeline-janitor.cjs imports helpers for Step 3 use. Existing zombie/missing-block logic unchanged.
+        Pure refactor — identical behavior.
+
+    - id: cc_35
+      task: "S-tier plan Step 3: committee→pipeline map + janitor A+ audit (dry-run)"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "c1d454d0"
+      deploy: "24273715402"
+      notes: |
+        New files: scripts/lib/committee-pipeline-map.cjs (115 lines) + ops/src/lib/committee-pipeline-map.ts (86 lines, TS mirror). Single source of truth for "which regulatory pipelines are required by which committees." Covers Banking, HELP/Agriculture, Judiciary, Intel/Foreign, Armed Services, Commerce, Energy, Ways and Means, Appropriations, Transportation.
+        pipeline-janitor.cjs added --tier=a-plus flag (dry-run only) and new A+ issue kinds: a-plus-committee-cross-ref, a-plus-source-floor (3+), a-plus-legal-review (defamation word scan with blockquote exception), a-plus-both-sides, a-plus-missing-thesis, a-plus-missing-story-grade. Each has a plain-English translation in laymanNote().
+
+    - id: cc_36
+      task: "S-tier plan Step 4: grouped checklist UI + tier breakdown evaluator"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "48e93fc0"
+      deploy: "24273851210"
+      notes: |
+        ChecklistItem interface gained group (core/tier-a/tier-b/tier-c/tier-d/s-tier) and blockingFor (ready/verified/s-tier) fields. Populated ~20 new items across 5 groups on the Congress politician checklist. Non-politician and non-Congress chambers keep flat config for now.
+        Grouped collapsible render via <details> sections. S-tier section is LOCKED (🔒) until every non-s-tier group passes. Each group shows its own passed/total count + percentage.
+        evaluateReadinessEligibility() signature expanded to return tierBreakdown: Record<ChecklistGroup, {passed,total,pct}>. New maxTier logic returns "s-tier" only when all groups pass.
+
+    - id: cc_37
+      task: "S-tier plan Step 5: VaultGrid tiered fields + cohort checks + --write stamping"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "abbd9049"
+      deploy: "24273931396"
+      notes: |
+        ops/src/lib/vault.ts: profileNeeds() now reads janitor-stamped frontmatter (audit-a-plus-passed, centralThesis, storyGrade, bothSidesFlag, anomalyFlags) instead of inline regex. Source-type floor raised from 2 to 3 for A+. S-tier recognized as first-class readiness. New profileNeedsFromChecklist() thin alias.
+        pipeline-janitor.cjs added --cohort flag for whole-vault comparative analysis. New helpers: loadAllProfiles, computeAnomalyFlags (3x cohort median), computeTriangulationCount, buildEntityIndex, stampAuditFields. Cohort pass with --write stamps cross-vault-triangulation-count and anomaly-flags. A+ audit with --write stamps audit-a-plus-passed when all checks clear.
+        Tested: --tier=a-plus --cohort loads 1745 profiles / 1727 unique entities cleanly.
+
+    - id: cc_38
+      task: "S-tier plan Step 6: s-tier readiness API + tier.ts helpers"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "2f837495"
+      deploy: "24274019304"
+      notes: |
+        ops/src/app/api/profile/readiness/route.ts: VALID_TIERS expanded from 4 to 5. New S-tier promotion gate rejects HTTP 400 unless ALL of: audit-s-tier-passed, editorial-signoff-narrative, angle, original-finding, and 3+ exclusive-connections are present. Structured missing[] in error response for UI.
+        ops/src/lib/tier.ts (99 lines, new) — central S-tier render-time helpers: isSTier (three-check gate), isVerified, getFeaturedPool (graceful degradation to A+), tierLabel, tierColor (purple for S-tier).
+        Quartz-side homepage components (WeeklySpotlight, PowerRankings, LandingPage) intentionally NOT wired. Current featured profiles (Raytheon, AIPAC, Koch Network) are below A+ — strict filter would break the live site. Migration deferred to a separate commit when the A+ pool is large enough.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -814,7 +902,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-11 (late night session — cc_28 thru cc_30 added; rc_09 done; full politician cleanup complete)**
+**Schedule last updated: 2026-04-11 (overnight session — cc_31 thru cc_38 added; S-tier plan all 6 steps shipped; engine quote-escape fix)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

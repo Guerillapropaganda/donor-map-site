@@ -11,6 +11,121 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-11 overnight (Phase 1 Day 3 early — S-tier verification plan shipped in full, all 6 steps + engine fixes)
+
+### Theme
+Executed the full 6-step S-tier verification plan from `C:\Users\third\.claude\plans\keen-inventing-wall.md`. Expanded the verified (A+) tier from "has FEC + Congress data" to a four-sub-tier investigative standard (Data Breadth + Investigation Depth + Narrative Quality + automated Uniqueness). Added a new S-tier above A+ gated on an `angle:` forcing function, 3+ "damning" exclusive-connections, an original-finding, and TWO sign-offs (janitor automated audit + David manual narrative sign-off). Also fixed two pre-existing engine bugs that were causing deploy failures (updateFrontmatter quote-escape for Wikipedia extracts, fresh Ro Khanna + Zoe Lofgren YAML hotfix).
+
+### Done — S-tier plan (all 6 steps)
+
+**Step 1: Schema + Vault Rules** (commit `dbfe3336`, deploy `24273405179`)
+- `ops/src/lib/vault.ts`: added 16 new optional fields to Profile interface — centralThesis, storyGrade, lawyerDispute, legalReviewDate, legalReviewResult, boardSeats, stockTrades, bothSidesFlag, crossVaultTriangulationCount, anomalyFlags, auditAPlusPassed, angle, exclusiveConnections, originalFinding, auditSTierPassed, editorialSignoffData, editorialSignoffNarrative. Plus `ContentReadinessTier` type export.
+- `content/Vault Rules.md` § 2 Content Readiness rewritten from 4-tier to 5-tier system with full A+ sub-tier breakdown (A/B/C/D) and new S-tier requirements section.
+- Zero enforcement. Pure schema + docs. Backward compatible.
+
+**Step 2: Extract shared checklist helpers** (commit `93881d87`, deploy `24273624255`)
+- `ops/src/lib/checklist-helpers.ts` (236 lines, new) — TypeScript helpers
+- `scripts/lib/checklist-helpers.cjs` (190 lines, new) — CJS parallel
+- Exported: `hasAutoBlock`, `hasAnyAutoBlock`, `countTier1InBody`, `countSourceTypes`, `hasHeading`, `hasCallout`, `hasDonationPolicyTimeline`, `hasDarkMoneyTrace`, `hasRevolvingDoor`, `runLegalReviewCheck`, `detectBothSidesEntities`, `normalizeEntityList`, `normalizeEntityName`, `isEnrichedWithin`, `countMarkdownUrls`, `countWikilinks`.
+- `VerificationChecklist.tsx`: replaced 6 inline source-diversity patterns, 4 enriched-90d patterns, 3+ URL count checks, 3+ wikilink count checks with helper calls. Pure refactor — identical behavior before and after.
+- `scripts/pipeline-janitor.cjs`: imports helpers for use in Step 3 checks. Existing zombie-block / missing-block logic unchanged.
+
+**Step 3: Committee map + janitor A+ audit** (commit `c1d454d0`, deploy `24273715402`)
+- `scripts/lib/committee-pipeline-map.cjs` (115 lines, new) — single source of truth for "which regulatory pipelines are required by which committees." Exports `getRequiredPipelinesForCommittees()` and `getRequirementReasons()`. Covers Banking, HELP/Agriculture, Judiciary, Intel/Foreign, Armed Services, Commerce, Energy, Ways and Means, Appropriations, Transportation.
+- `ops/src/lib/committee-pipeline-map.ts` (86 lines, new) — TypeScript mirror, kept in sync by hand, lint check planned.
+- `scripts/pipeline-janitor.cjs`: added `--tier=a-plus` flag (dry-run only in Step 3), added new A+ issue kinds:
+  - `a-plus-committee-cross-ref` (uses the committee map)
+  - `a-plus-source-floor` (3+ Tier 1 raised from 2)
+  - `a-plus-legal-review` (defamation-prone word scan with blockquote exception)
+  - `a-plus-both-sides` (donors ∩ opposes entity detection)
+  - `a-plus-missing-thesis` / `a-plus-missing-story-grade`
+- Each new issue kind gets a plain-English translation in `laymanNote()`.
+
+**Step 4: Grouped checklist UI + tier breakdown evaluator** (commit `48e93fc0`, deploy `24273851210`)
+- `ChecklistItem` interface gained `group: ChecklistGroup` and `blockingFor: "ready"|"verified"|"s-tier"` fields. New exported types: `ChecklistGroup`, `ChecklistBlockingFor`.
+- Congress politician checklist populated with ~20 new items across 5 groups (Tier A/B/C/D + S-tier). Legacy common items marked group: "core".
+- Rendered as 5 collapsible `<details>` sections with per-group progress bars. S-tier section is LOCKED (🔒) and grayed-out until every non-s-tier group passes.
+- `evaluateReadinessEligibility()` signature expanded to return `tierBreakdown: Record<ChecklistGroup, { passed, total, pct }>`. New `maxTier` logic: returns `"s-tier"` when all groups pass, `"verified"` when non-s-tier groups pass, degrades to ready/draft.
+- `Profile` interface gained `stockTrades?: number | string` for financial-disclosure check.
+
+**Step 5: VaultGrid tiered fields + cohort checks + --write stamping** (commit `abbd9049`, deploy `24273931396`)
+- `ops/src/lib/vault.ts`: `profileNeeds()` now reads janitor-stamped frontmatter (audit-a-plus-passed, centralThesis, storyGrade, bothSidesFlag, anomalyFlags) instead of inline regex. Source-type floor raised from 2 to 3 for A+. S-tier recognized as a first-class readiness. Added thin-alias `profileNeedsFromChecklist()` export.
+- `scripts/pipeline-janitor.cjs`: added `--cohort` flag for whole-vault comparative analysis. New helpers: `loadAllProfiles()`, `computeAnomalyFlags()`, `computeTriangulationCount()`, `normalizeRelatedList()`, `buildEntityIndex()`, `stampAuditFields()`. Cohort pass stamps `cross-vault-triangulation-count` and `anomaly-flags` into frontmatter with `--write`. A+ audit with `--write` also stamps `audit-a-plus-passed: YYYY-MM-DD` on profiles that clear all checks.
+- Tested: `node scripts/pipeline-janitor.cjs --tier=a-plus --cohort` loads 1745 profiles, 1727 unique entities, runs cleanly.
+
+**Step 6: S-tier readiness API + tier helpers** (commit `2f837495`, deploy `24274019304`)
+- `ops/src/app/api/profile/readiness/route.ts`: VALID_TIERS expanded from 4 to 5 values, TIER_LABELS gets "s-tier" → "S". New S-tier promotion gate rejects HTTP 400 unless ALL of: `audit-s-tier-passed: true`, `editorial-signoff-narrative:`, `angle:`, `original-finding:`, and 3+ `exclusive-connections` items are present. Structured `missing[]` array in the error response for UI use.
+- `ops/src/lib/tier.ts` (99 lines, new) — central S-tier render-time helpers. Exports: `isSTier(profile)` (three-check gate), `isVerified(profile)`, `getFeaturedPool(profiles, minCount)` (graceful degradation to A+), `tierLabel(readiness)`, `tierColor(readiness)` (purple for S-tier).
+- Quartz-side homepage components (WeeklySpotlight, PowerRankings, LandingPage) intentionally NOT wired. They currently feature 3 profiles (Raytheon, AIPAC, Koch) that are below A+. Adding a strict tier filter would break the live site; migration happens as a separate commit when the S-tier pool is ready.
+
+### Done — Engine fixes (shipped mid-session)
+
+**Engine: updateFrontmatter picks quote style to prevent Wikipedia-extract corruption** (`donor-map-engine@b96f99e` on main)
+- Root cause fix for the Ro Khanna + Zoe Lofgren YAML corruption that broke 2 deploys tonight.
+- Both scalar and array writers in `scripts/lib/shared.cjs::updateFrontmatter()` now pick a quote style based on the value's contents: single-quoted when value contains `"` but not `'`; double-quoted with `\"` escape when value contains both; legacy default otherwise.
+- Test suite validates 4 scenarios (Ro Khanna `"Ro"` case, California apostrophe, mixed both-quotes, plain-text control). All pass.
+- Prevents recurrence on all future enrichment runs.
+
+**Site: Ro Khanna + Zoe Lofgren YAML hotfix** (commit `9429f0ff`)
+- Vault-side patch: converted the broken `wikipedia-extract: "Rohit "Ro" Khanna..."` lines to single-quoted YAML strings. Unblocked the deploy.
+
+### Commits this session (8 site + 1 engine)
+
+Site repo (`donor-map-site`, branch `v4`):
+- `9429f0ff` — Hotfix: escape wikipedia-extract double quotes
+- `dbfe3336` — S-tier plan Step 1: schema additions + Vault Rules § 2 rewrite
+- `93881d87` — S-tier plan Step 2: extract shared checklist helpers
+- `c1d454d0` — S-tier plan Step 3: committee→pipeline map + A+ audit (dry-run)
+- `48e93fc0` — S-tier plan Step 4: grouped checklist UI + tier breakdown evaluator
+- `abbd9049` — S-tier plan Step 5: VaultGrid tiered fields + cohort checks + stamping
+- `2f837495` — S-tier plan Step 6: s-tier readiness API + tier.ts helpers
+- This session-save commit
+
+Engine repo (`donor-map-engine`, branch `main`):
+- `b96f99e` — updateFrontmatter picks quote style
+
+Deploys (all green):
+- `24273405179` (hotfix + Step 1)
+- `24273624255` (Step 2)
+- `24273715402` (Step 3)
+- `24273851210` (Step 4)
+- `24273931396` (Step 5)
+- `24274019304` (Step 6)
+
+### Known issues / still outstanding
+
+- **S-tier pool is empty.** No profile in the vault currently has `angle:`, `exclusive-connections:`, or `original-finding:` populated. Research Claude will need to do depth passes to populate these fields on candidate profiles (Whitehouse, Warren, Sanders, Jayapal, Jeffries, and eventually others). The infrastructure is ready; the content is not.
+- **Zero politicians at `ready`.** After tonight's earlier cleanup demoted 96 politicians to draft, the janitor's A+ audit has nothing to stamp. The next pipeline run should re-enrich the 17 bioguide-recovered profiles + populate fresh data for others. Research Claude can then re-review and re-promote.
+- **Weekly Spotlight still renders non-A+ profiles.** Raytheon, AIPAC, and Koch Network have `featured-date` set but are below A+. The S-tier gate is intentionally not enforced in Quartz components yet. This migration happens when the A+ pool is large enough to support it.
+- **Non-politician types still have flat checklists.** Step 4's grouped layout only applies to Congress politician profiles. Donor, corporation, pac, lobbying-firm, and think-tank checklists are still flat. Migration to the grouped format is a future cleanup.
+- **Lint check for ts/cjs helper drift not yet implemented.** The two copies of checklist-helpers and committee-pipeline-map stay in sync by hand. A simple normalized-string-compare lint script should run in CI. Follow-up.
+
+### Next session priorities (2026-04-12)
+
+1. **Run the A+ audit + cohort pass with --write on the full vault.** `node scripts/pipeline-janitor.cjs --tier=a-plus --cohort --write` will stamp `audit-a-plus-passed:`, `cross-vault-triangulation-count:`, and `anomaly-flags:` into frontmatter for every ready/verified profile that passes. This populates the uniqueness signals the VaultGrid now reads.
+2. **Run the full janitor sweep on donors, corporations, PACs, lobbying-firms, think-tanks** (David's earlier request from the first session-save — still outstanding because tonight was spent on S-tier). Same `--type=<X>` pattern as the politician sweep. Expect 100-200 more demotions.
+3. **First S-tier candidate depth pass.** Pick one profile (Whitehouse is the obvious first — his editorial notes already document 3 strong contradictions, a clean class analysis, and exclusive connections). Research Claude writes `angle:`, `exclusive-connections:`, `original-finding:`, `central-thesis:`, `story-grade:`. David reviews and signs off `editorial-signoff-narrative:`. Run `node scripts/pipeline-janitor.cjs --tier=s --write` to stamp `audit-s-tier-passed: true`. Then promote via the readiness API.
+4. **Wire Quartz homepage features to the A+ gate.** WeeklySpotlight, PowerRankings, Landing page each need a tier check. Start with "A+ or higher" (graceful degradation). Upgrade to "S-tier or higher" once pool ≥ 3.
+5. **Research Claude depth passes.** Populate `central-thesis:`, `story-grade:`, `lawyer-dispute:` on the 17 bioguide-recovered profiles (Bowman, Pelosi, Schumer, etc.) now that they have correct Congress data.
+6. **Document the 6-step plan completion in Pipeline Guide.** The S-tier verification system rewrite is significant enough to warrant a § in the guide.
+7. **David**: start using the new grouped checklist. Mark items N/A where appropriate. The janitor stamps will populate as you work.
+
+### Session end state: the A+ / S-tier foundation is in place
+- **All 6 S-tier plan steps shipped + deployed** across 7 commits and 6 deploy runs
+- **1 engine bug fixed** (updateFrontmatter quote-escape)
+- **2 deploy failures resolved** (Ro Khanna/Zoe Lofgren hotfix + root cause)
+- **Vault Rules § 2 documents the full 5-tier system with all sub-tier requirements**
+- **Janitor has `--tier=a-plus` + `--cohort` audit modes with stamping**
+- **VerificationChecklist renders grouped Tier A/B/C/D + locked S-tier section**
+- **Readiness API validates S-tier promotion gates before accepting**
+- **Zero breaking changes to existing profiles, components, or deploys**
+
+The foundation is ready. The product differentiation (angle, exclusive connections, original findings) now has a place to live in the schema and a system to enforce it. Research Claude's next job is to fill that foundation with actual investigative work.
+
+---
+
+## Previous Session
 Claude: Code (with earlier Research work now superseded by bulk cleanup)
 Date: 2026-04-11 late night (Phase 1 Day 2 second session-save — bioguide recovery + taxonomy expansion + mass politician cleanup)
 
