@@ -38,6 +38,7 @@ const path = require('path');
 const { walkDir, parseFrontmatter } = require('./lib/shared.cjs');
 const { addEntries, clearSource } = require('./lib/attention-queue.cjs');
 const { getRejectedPatterns } = require('./lib/false-positive-log.cjs');
+const { isHallucinationScanned } = require('./lib/profile-type-rulebook.cjs');
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const WRITE = process.argv.includes('--write');
@@ -219,9 +220,13 @@ function main() {
     const readiness = data['content-readiness'];
     if (readiness !== 'ready' && readiness !== 'verified' && readiness !== 's-tier') continue;
 
-    // Skip admin notes, sub-notes, stories, events
-    const skipTypes = ['admin-note', 'sub-note', 'story', 'event', 'daily-update', 'digest', 'reference', 'methodology', 'system', 'page', 'index'];
-    if (skipTypes.includes(data.type)) continue;
+    // Rulebook-driven: skip types marked hallucination-scanned:false in the
+    // rulebook (event, meta and all meta sub-categories). IMPORTANT CHANGE
+    // from the old hardcoded skipTypes: `story` was previously excluded here
+    // and is NOW INCLUDED by the rulebook. Stories are supposed to be the
+    // hallucination-catcher's primary target because the "every-claim-sourced"
+    // check is the hard gate for story verification.
+    if (!isHallucinationScanned(data.type)) continue;
 
     const paragraphs = splitIntoParagraphs(body);
     const unsupported = [];

@@ -20,15 +20,6 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Something is broken or will break soon. These block other work — handle first.*
 
-### The 22 Million Dollar Confirmation and the McConnell Precedent Reversal: voice rule violations
-
-Ready profile contains 14 em dashes in body, avg sentence length 17 words (target ~29), passive voice 1.2/100 words (target < 0.2). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/SCOTUS/Amy Coney Barrett/The 22 Million Dollar Confirmation and the McConnell Precedent Reversal.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
 ### Colorado 2026 Senate Race: voice rule violations
 
 Ready profile contains 10 em dashes in body, avg sentence length 17 words (target ~29), hedging language usage 1.0/100 words (target < 0.0). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
@@ -164,119 +155,128 @@ Ready profile contains 3 em dashes in body, avg sentence length 17 words (target
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Fox News - Murdoch Media Empire: voice rule violations
+### DCCC Red-to-Blue Targets 2026: voice rule violations
 
-Ready profile contains 23 em dashes in body, avg sentence length 14 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 5 em dashes in body, avg sentence length 13 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Media & Influence Pipeline/Fox News - Murdoch Media Empire.md`
+- **Where:** `content/Stories/Published/2026 House Races/DCCC Red-to-Blue Targets 2026.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Abby Martin: voice rule violations
+### Illinois House Primaries 2026 - The PAC Laboratory: voice rule violations
 
-Ready profile contains 23 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 12 em dashes in body, avg sentence length 16 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Media & Influence Pipeline/Left/Abby Martin.md`
+- **Where:** `content/Stories/Published/2026 House Races/Illinois House Primaries 2026 - The PAC Laboratory.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Briahna Joy Gray: voice rule violations
+### Minnesota 2026 Senate Race: voice rule violations
 
-Ready profile contains 40 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 9 em dashes in body, avg sentence length 13 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Media & Influence Pipeline/Left/Briahna Joy Gray.md`
+- **Where:** `content/Stories/Published/2026 Senate Races/Minnesota 2026 Senate Race.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### David Pakman: voice rule violations
+### Ohio 2026 Special Senate Election: voice rule violations
 
-Ready profile contains 27 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 29 em dashes in body, avg sentence length 53 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Media & Influence Pipeline/Left/David Pakman.md`
+- **Where:** `content/Stories/Published/2026 Senate Races/Ohio 2026 Special Senate Election.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Hasan Piker: voice rule violations
+### Texas 2026 Senate Race: voice rule violations
+
+Ready profile contains 3 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Stories/Published/2026 Senate Races/Texas 2026 Senate Race.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Virginia 2026 Senate Race: voice rule violations
+
+Ready profile contains 14 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Stories/Published/2026 Senate Races/Virginia 2026 Senate Race.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### 2028 Presidential Landscape: voice rule violations
+
+Ready profile contains 9 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Stories/Published/2028 Presidential Race/2028 Presidential Landscape.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Adelson 250M Republican Kingmaker Pledge: voice rule violations
+
+Ready profile contains 7 em dashes in body, hedging language usage 0.6/100 words (target < 0.0). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+
+- **Where:** `content/Stories/Published/2028 Presidential Race/Adelson 250M Republican Kingmaker Pledge.md`
+- **Cost:** ~3 min
+- **Leverage:** ★★★★★
+- **Surfaced by:** `voice-drift-detector`
+
+### Goldman Sachs Funds Both Sides of Financial Regulation: voice rule violations
 
 Ready profile contains 20 em dashes in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Media & Influence Pipeline/Left/Hasan Piker.md`
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 01 - Goldman Sachs Funds Both Sides of Financial Regulation.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### John Oliver: voice rule violations
+### AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else: voice rule violations
 
-Ready profile contains 34 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 8 em dashes in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Media & Influence Pipeline/Left/John Oliver.md`
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 02 - AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Kyle Kulinski: voice rule violations
+### Lockheed Martin Buys Defense Hawks in Both Parties: voice rule violations
 
-Ready profile contains 24 em dashes in body, avg sentence length 16 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 17 em dashes in body, avg sentence length 14 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Media & Influence Pipeline/Left/Kyle Kulinski.md`
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 04 - Lockheed Martin Buys Defense Hawks in Both Parties.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Matt Walsh: voice rule violations
+### Kenneth Griffin Hedges the Republican Primary: voice rule violations
 
-Ready profile contains 39 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 1 em dash in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Media & Influence Pipeline/Right/Matt Walsh.md`
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 05 - Kenneth Griffin Hedges the Republican Primary.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### CCPOA - The Prison Guard Donor and the Reform Ceiling: voice rule violations
+### Crypto Industry Buys Both Parties in One Cycle: voice rule violations
 
-Ready profile contains 16 em dashes in body, avg sentence length 16 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 13 em dashes in body, avg sentence length 16 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/CCPOA - The Prison Guard Donor and the Reform Ceiling.md`
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 06 - Crypto Industry Buys Both Parties in One Cycle.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
 
-### Gun and Public Safety - Donors and Backers: voice rule violations
+### Schwarzman and Singer Fund Every Republican Faction: voice rule violations
 
-Ready profile contains 31 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
+Ready profile contains 11 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
 
-- **Where:** `content/Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/Gun and Public Safety - Donors and Backers.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Policing Reform - George Floyd Era: voice rule violations
-
-Ready profile contains 18 em dashes in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Governors/Gavin Newsom/Criminal Justice/Policing Reform - George Floyd Era.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### Education - Donors and Backers: voice rule violations
-
-Ready profile contains 15 em dashes in body, avg sentence length 16 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Governors/Gavin Newsom/Education/Education - Donors and Backers.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
-
-### 3.5 Million Units - Broken Promise: voice rule violations
-
-Ready profile contains 22 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Politicians/Democrats/Governors/Gavin Newsom/Housing/3.5 Million Units - Broken Promise.md`
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 07 - Schwarzman and Singer Fund Every Republican Faction.md`
 - **Cost:** ~3 min
 - **Leverage:** ★★★★★
 - **Surfaced by:** `voice-drift-detector`
@@ -375,111 +375,12 @@ This profile passed every automated A+ check. Only David's sign-off (janitor sta
 - **Leverage:** ★★★★★
 - **Surfaced by:** `promotion-candidate-queue`
 
-### Lennar Corporation: 8 unsupported claims
+### Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts: 30 unsupported claims
 
-Ready profile has "30% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$500M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Donors & Power Networks/Real Estate/Lennar Corporation.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### CalPERS: 8 unsupported claims
-
-Ready profile has "40% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Wall Street/CalPERS.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Goldman Sachs: 8 unsupported claims
-
-Ready profile has "$3.5 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Wall Street/Goldman Sachs.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Tenet Media: 8 unsupported claims
-
-Ready profile has "$10 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Media & Influence Pipeline/Right/Tenet Media.md`
-- **Cost:** ~10 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Walmart: 9 unsupported claims
-
-Ready profile has "73% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Wall Street/Walmart.md`
-- **Cost:** ~11 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media: 9 unsupported claims
-
-Ready profile has "25% cut" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Media & Influence Pipeline/The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media.md`
-- **Cost:** ~11 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Lyft: 10 unsupported claims
-
-Ready profile has "$49.0 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Gig Economy/Lyft.md`
-- **Cost:** ~12 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Dave Rubin: 10 unsupported claims
-
-Ready profile has "2016-2018):** After going independent, The Rubin Report received" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Media & Influence Pipeline/Right/Dave Rubin.md`
-- **Cost:** ~12 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Elon Musk: 11 unsupported claims
-
-Ready profile has "$5.9 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Elon Musk.md`
-- **Cost:** ~13 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Atlantic Council: 11 unsupported claims
-
-Ready profile has "$69.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Atlantic Council.md`
-- **Cost:** ~13 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### American Farm Bureau Federation: 12 unsupported claims
-
-Ready profile has "$732 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
-- **Cost:** ~14 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Kenneth Griffin: 12 unsupported claims
-
-Ready profile has "8% increase" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md`
-- **Cost:** ~14 min
+- **Where:** `content/Stories/Published/Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md`
+- **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
@@ -519,6 +420,42 @@ Ready profile has "70% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
+### The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media: 24 unsupported claims
+
+Ready profile has "$10.8 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Media & Influence Pipeline/The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Geographic Donor Clustering - Where the Money Actually Comes From: 23 unsupported claims
+
+Ready profile has "95% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Geographic Donor Clustering - Where the Money Actually Comes From.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Intra-Republican Contradiction Map: 23 unsupported claims
+
+Ready profile has "$16M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Intra-Republican Contradiction Map.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System: 21 unsupported claims
+
+Ready profile has "$3.87 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Cross-Politician Analysis/Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
 ### UAW - United Auto Workers: 20 unsupported claims
 
 Ready profile has "$6.2 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
@@ -537,6 +474,15 @@ Ready profile has "58% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
+### Prison Telecom Monopoly Profits From Bipartisan Neglect: 19 unsupported claims
+
+Ready profile has "$1.2 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 23 - Prison Telecom Monopoly Profits From Bipartisan Neglect.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
 ### American Action Network: 17 unsupported claims
 
 Ready profile has "$170 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
@@ -546,11 +492,20 @@ Ready profile has "$170 million" in the (no section) section with no source link
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Rumble: 17 unsupported claims
+### Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses: 17 unsupported claims
 
-Ready profile has "900% increase" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$800M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Media & Influence Pipeline/Right/Rumble.md`
+- **Where:** `content/Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Leadership Mirror - Same Money Different Caucuses.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy: 17 unsupported claims
+
+Ready profile has "$19.8M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -560,6 +515,24 @@ Ready profile has "900% increase" in the (no section) section with no source lin
 Ready profile has "90% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Eli Lilly.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Michigan 2026 Senate Race: 16 unsupported claims
+
+Ready profile has "$2.1M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/2026 Senate Races/Michigan 2026 Senate Race.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Crypto Industry Buys Both Parties in One Cycle: 16 unsupported claims
+
+Ready profile has "2024 by neutralizing the one mechanism that had previously blocked" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 06 - Crypto Industry Buys Both Parties in One Cycle.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -582,6 +555,15 @@ Ready profile has "2020, shortly after Prop 22 passed" in the (no section) secti
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
+### Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion: 14 unsupported claims
+
+Ready profile has "$1.2 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
 ### Stand Together: 13 unsupported claims
 
 Ready profile has "$578 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
@@ -596,6 +578,24 @@ Ready profile has "$578 million" in the (no section) section with no source link
 Ready profile has "86.4% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Jeff Yass Follows TikTok Money Across Every Candidate: 13 unsupported claims
+
+Ready profile has "$46 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 10 - Jeff Yass Follows TikTok Money Across Every Candidate.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand: 13 unsupported claims
+
+Ready profile has "2022 received" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Cross-Politician Analysis/Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`

@@ -90,15 +90,48 @@ function getPromotionGate(type, tier) {
   return gates[tier] || null;
 }
 
+/**
+ * Returns the effective top-level type for a raw frontmatter `type:` value.
+ *
+ * Real vault files use flat type values like `type: reference`, `type: event`,
+ * `type: sub-note`, etc. In the rulebook those are modeled as sub-categories
+ * of the `meta` or `event` top-level types. This helper bridges the two
+ * representations so the rulebook's top-level flags (voice-scanned,
+ * hallucination-scanned) apply correctly to files using the flat form.
+ *
+ * Lookup order:
+ *   1. If `type` is itself a top-level rulebook entry, return it unchanged.
+ *   2. If `type` matches any top-level type's sub-category, return the
+ *      parent top-level type.
+ *   3. Otherwise return null (unknown type).
+ */
+function resolveTopLevelType(type) {
+  if (!type) return null;
+  const r = loadRulebook();
+  if (r.types[type]) return type;
+  for (const [topName, topEntry] of Object.entries(r.types)) {
+    const subs = topEntry['sub-categories'] || {};
+    if (subs[type]) return topName;
+  }
+  return null;
+}
+
 function isVoiceScanned(type) {
-  const entry = getTypeRulebook(type);
-  if (!entry) return false;
+  const topLevel = resolveTopLevelType(type);
+  if (!topLevel) {
+    // Unknown types default to NOT scanned. This matches the legacy
+    // hardcoded nonProfileTypes behavior: anything we don't explicitly
+    // recognize as an editorial profile type is skipped by voice rules.
+    return false;
+  }
+  const entry = getTypeRulebook(topLevel);
   return entry['voice-scanned'] !== false;
 }
 
 function isHallucinationScanned(type) {
-  const entry = getTypeRulebook(type);
-  if (!entry) return false;
+  const topLevel = resolveTopLevelType(type);
+  if (!topLevel) return false;
+  const entry = getTypeRulebook(topLevel);
   return entry['hallucination-scanned'] !== false;
 }
 
@@ -292,6 +325,7 @@ module.exports = {
   getPromotionGate,
   isVoiceScanned,
   isHallucinationScanned,
+  resolveTopLevelType,
   resolveChecks,
   validate,
 };

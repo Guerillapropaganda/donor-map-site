@@ -42,6 +42,7 @@ const path = require('path');
 const { walkDir, parseFrontmatter } = require('./lib/shared.cjs');
 const { addEntries, clearSource } = require('./lib/attention-queue.cjs');
 const { getRejectedPatterns } = require('./lib/false-positive-log.cjs');
+const { isVoiceScanned } = require('./lib/profile-type-rulebook.cjs');
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const SOURCE_NAME = 'voice-drift-detector';
@@ -220,8 +221,12 @@ function main() {
     if (!data || !data.title) continue;
 
     // Skip non-editorial types
-    const skipTypes = ['admin-note', 'daily-update', 'digest', 'reference', 'methodology', 'system', 'page', 'index'];
-    if (skipTypes.includes(data.type)) continue;
+    // Rulebook-driven: skip types marked voice-scanned:false in the rulebook
+    // (event, meta and all meta sub-categories: admin-note, daily-update,
+    // digest, reference, methodology, page, index, sub-note, story-seed).
+    // Story type is NOW scanned (was previously skipped) because story voice
+    // matters as much as politician voice once Part 2 is live.
+    if (!isVoiceScanned(data.type)) continue;
 
     // Only audit ready / verified / s-tier profiles
     const readiness = data['content-readiness'];
