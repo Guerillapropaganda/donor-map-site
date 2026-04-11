@@ -1,8 +1,8 @@
 ---
 title: "Squire Patton Boggs"
 type: lobbying-firm
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 annual-revenue: "$23.5M"
@@ -19,19 +19,13 @@ fara-countries:
 related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
 lei: "259400PVBJ4RB4LUZ721"
 lei-jurisdiction: "PL"
-last-enriched: "2026-04-11"
-court-cases: 1940
-court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Arizona"
-  - "District Court, D. Delaware"
-  - "District Court, D. Maryland"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Ohio"
+last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
+cross-vault-triangulation-count: 3
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #defense #trade #appropriations #transportation #foreign-governments #revolving-door #bipartisan #fara

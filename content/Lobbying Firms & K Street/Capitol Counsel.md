@@ -1,7 +1,7 @@
 ---
 title: "Capitol Counsel"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -10,12 +10,18 @@ lobbyist-count: 38
 revolving-door-pct: "73.7%"
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[Lockheed Martin]] · [[ExxonMobil]] · [[AT&T - WarnerMedia|AT&T]] · [[Comcast - NBCUniversal|Comcast]] · [[Thorn Run Partners]] · [[Forbes Tate Partners]] · [[BGR Group]] · [[Cornerstone Government Affairs]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Brownstein Hyatt Farber Schreck]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Prime Policy Group]] · [[K&L Gates]] · [[Crossroads Strategies]] · [[Cassidy & Associates]] · [[Ballard Partners]] · [[Alpine Group]] · [[Akin Gump Strauss Hauer & Feld]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-cases: 59
 court-jurisdictions:
   - "District Court, D. South Carolina"
   - "District Court, N.D. Georgia"
   - "District Court, N.D. Texas"
   - "United States Bankruptcy Court, D. New Jersey"
+cross-vault-triangulation-count: 21
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #revolving-door #healthcare #pharma #tax #finance #defense #agriculture #bipartisan

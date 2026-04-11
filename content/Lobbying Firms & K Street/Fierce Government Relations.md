@@ -1,7 +1,7 @@
 ---
 title: "Fierce Government Relations"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ related: "[[Google - Alphabet]] · [[Meta - Facebook]] · [[Apollo Global Manage
 ein: "520852291"
 nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 250555
 total-assets: 98413
 fara-status: "registrant"
@@ -22,6 +24,10 @@ fara-countries:
   - "PANAMA"
   - "QATAR"
   - "ROMANIA"
+cross-vault-triangulation-count: 19
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #republican #bush-white-house #trump-white-house #tech #telecom #healthcare #energy #trade

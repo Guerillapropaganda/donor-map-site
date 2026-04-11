@@ -1,7 +1,7 @@
 ---
 title: "Mercury Public Affairs"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ lobbyist-count: 24
 revolving-door-pct: "45.8%"
 court-cases: 145
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, D. Massachusetts"
@@ -50,6 +52,10 @@ sec-form-types:
   - "PRE 14A"
   - "S-4"
   - "S-4/A"
+cross-vault-triangulation-count: 0
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #fara #foreign-government #china #ukraine #manafort #revolving-door #bipartisan

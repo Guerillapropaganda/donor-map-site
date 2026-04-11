@@ -1,7 +1,7 @@
 ---
 title: "Akin Gump Strauss Hauer & Feld"
 type: lobbying-firm
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -38,6 +38,8 @@ fara-countries:
   - "UZBEKISTAN"
 federal-register-mentions: 7
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Antitrust Division"
   - "Commerce Department"
@@ -46,6 +48,10 @@ regulatory-agencies:
   - "Federal Communications Commission"
   - "Justice Department"
   - "Nuclear Regulatory Commission"
+cross-vault-triangulation-count: 25
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #lobbying #k-street #pharma #defense #finance #tech #trade #bipartisan #revolving-door
