@@ -40,6 +40,7 @@ opposes: '[[Donald Trump Master Profile]]'
 stories: >-
   [[Pharmaceutical: The PhRMA Deal]] · [[Civil Rights: The Ceiling]] ·
   [[Infrastructure: The Shovel-Ready Betrayal]] · [[Education: Race to the Top]]
+  · [[Climate: All of the Above Betrayal]]
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   VOTING data is missing entirely. This profile was promoted to ready without
