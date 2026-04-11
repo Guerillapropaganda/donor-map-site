@@ -16,13 +16,16 @@ total-received: "$6,772,979"
 fec-candidate-id: "H6FL01119"
 source-types:
   - FEC
+needs-reenrichment: false
+reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
 related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]]"
 last-enriched: "2026-04-10"
-bioguide-id: "C001091"
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #matt-gaetz #house #florida #freedom-caucus #trump-loyalist #sex-trafficking #ethics #family-wealth #chaos-agent #class-analysis #maga
 

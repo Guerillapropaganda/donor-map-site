@@ -24,9 +24,12 @@ source-types:
   - DOJ
   - FEC
 corroboration-count: 3
+needs-reenrichment: false
+reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
+  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
 donors: "[[NORPAC]]"
 related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]]"
 govtrack-id: 456797
@@ -48,7 +51,7 @@ committees:
   - "Senate Committee on Energy and Natural Resources"
   - "Senate Committee on Health, Education, Labor, and Pensions"
   - "Senate Committee on Small Business and Entrepreneurship"
-bioguide-id: "C001091"
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #politician #democrat #senate #colorado #oil-gas #fracking #tech #brewery #moderate #follow-the-money #class-analysis #2026-election
 

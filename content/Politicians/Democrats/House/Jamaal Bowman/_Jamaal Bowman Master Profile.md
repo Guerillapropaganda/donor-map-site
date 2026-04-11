@@ -29,7 +29,10 @@ corroboration-count: 2
 known-gaps:
   - GovTrack shows 0 bills sponsored/cosponsored — needs fresh pipeline run (cache invalidation fix deployed 2026-04-10 awaits next run)
   - Congress.gov auto-blocks stripped in 2026-04-10 A000383 cleanup (pipeline fuzzy-match bug, now fixed). Needs fresh pipeline run for correct Congress data.
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
+  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+
+[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • The profile's own known-gaps field says it needs a fresh pipeline run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 
@@ -40,7 +43,6 @@ related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "demote to draft"
-bioguide-id: "C001091"
 ---
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
 
