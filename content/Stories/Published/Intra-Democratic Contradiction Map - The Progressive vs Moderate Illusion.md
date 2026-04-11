@@ -2,6 +2,7 @@
 title: "Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion"
 type: story
 content-readiness: ready
+editor-vouched: true
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

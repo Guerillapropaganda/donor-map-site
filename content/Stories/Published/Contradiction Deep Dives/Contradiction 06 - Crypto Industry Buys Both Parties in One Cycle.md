@@ -2,6 +2,7 @@
 title: "Crypto Industry Buys Both Parties in One Cycle"
 type: story
 content-readiness: ready
+editor-vouched: true
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
