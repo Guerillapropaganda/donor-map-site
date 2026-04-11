@@ -590,11 +590,33 @@ If this scan returns any files, convert them to inline format before proceeding.
 ### Frontmatter (required on every profile):
 ```yaml
 title: Name
-type: politician | donor | corporation | pac | think-tank | lobbying-firm | media-profile | event | story
+type: politician | state-politician | local-politician | donor | corporation | pac | think-tank | lobbying-firm | media-profile | event | story
 content-readiness: raw | draft | ready | verified
 source-tier: 1-4 (highest tier source in the file)
 last-updated: YYYY-MM-DD
 ```
+
+### Politician type taxonomy (three tiers, added 2026-04-11)
+
+| `type:` value | Covers | Example | Pipeline behavior |
+|--------------|--------|---------|-------------------|
+| `politician` | Sitting or former **U.S. federal** officials — House, Senate, President, VP | Bernie Sanders, Nancy Pelosi, Donald Trump | Full: Congress.gov + GovTrack + FEC + Committee assignments all fire. Expects `bioguide-id`. |
+| `state-politician` | Sitting or former **state-level** elected officials — Governors, Lt Governors, state legislators, state AGs, state treasurers, etc. | Roy Cooper (former NC Gov), Juliana Stratton (IL Lt Gov), Zach Wahls (IA state senate) | FEC fires if `fec-candidate-id` exists (federal campaign filings are legitimate). Congress.gov + GovTrack + Committee assignments are SKIPPED — no bioguide expected. Janitor exempts these from missing-auto-block checks. |
+| `local-politician` | Sitting or former **municipal / county** elected officials — Mayors, city council, county commissioners, DAs, sheriffs, school board, etc. | Daniel Biss (Evanston Mayor), Donna Miller (Cook County Commissioner) | FEC fires only if they've filed federally. All federal-data pipelines otherwise SKIPPED. Janitor exempts. |
+
+**Key rule:** Having `fec-candidate-id` does NOT make someone a federal officeholder. State and local politicians legitimately file with the FEC when running for federal office. The `type` field is about their actual office, not their filing history.
+
+**Janitor handling:** `state-politician` and `local-politician` are in `EXEMPT_TYPES` in `scripts/pipeline-janitor.cjs`. The janitor will not flag them as zombies for missing Congress.gov or GovTrack auto-blocks because those pipelines don't run on them.
+
+### Candidate tracking (optional field, added 2026-04-11)
+
+A separate `candidate-for:` field marks anyone — of any `type:` — who is currently running for federal office but not yet elected. This is additive, not a replacement for `type:`.
+
+```yaml
+candidate-for: "US Senate 2026 (IL, Democratic primary)"
+```
+
+Valid on `state-politician`, `local-politician`, and `politician` (for incumbents running for higher office, e.g., a House member running for Senate). Remove the field once the election is decided — if they win, they become `politician` on the next sync; if they lose, they revert to their original type.
 
 ### Relationship fields (on profiles with connections):
 ```yaml

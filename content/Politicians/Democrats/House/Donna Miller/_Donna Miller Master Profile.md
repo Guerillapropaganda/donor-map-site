@@ -1,13 +1,14 @@
 ---
 title: "Donna Miller Master Profile"
-type: politician
+type: local-politician
+current-office: "Cook County Commissioner, District 6 (Illinois)"
+candidate-for: "US House 2026 (Illinois, Democratic primary — exact district needs verification from FEC filing H6IL02355)"
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "House"
-district: "6"
+chamber: "House"  # refers to the federal race she is running in, not a current seat
 top-donors:
   - "AIPAC"
   - "United Democracy Project"
@@ -16,13 +17,11 @@ total-received: "$1,971,085"
 fec-candidate-id: "H6IL02355"
 source-types:
   - FEC
-needs-reenrichment: false
-reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
+# needs-reenrichment cleared 2026-04-11: as a local-politician, Congress.gov / GovTrack are not applicable. FEC runs on fec-candidate-id.
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
-  - "bioguide-id needs manual verification — was contaminated with B001296 ((unknown — smaller 3-file contamination)) by a past bulk-set bug, cleared 2026-04-11"
+  - "Cook County Commissioner voting record needs direct sourcing from cookcountyil.gov board minutes"
+  - "IL-2 US House 2026 campaign messaging / issue platform needs direct sourcing from campaign site"
+  - "AIPAC / UDP independent expenditure detail needs FEC pipeline pass on H6IL02355"
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Affordable Chicago Now PAC]]"
 wikidata-id: "Q101318343"
 last-enriched: "2026-04-10"

@@ -47,13 +47,22 @@ const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 const ZOMBIES_ONLY = process.argv.includes('--zombies-only');
 
-// Types that don't require pipeline enrichment — never audit these.
-// A media figure who was once a politician is still rare enough to handle
-// manually via the N/A buttons in the Ops app.
+// Types that don't require federal pipeline enrichment — never audit these
+// for missing Congress.gov / GovTrack / Committee auto-blocks. A media figure
+// who was once a politician is still rare enough to handle manually via the
+// N/A buttons in the Ops app.
+//
+// state-politician and local-politician are exempt because the federal
+// pipelines (Congress.gov, GovTrack, Committee) legitimately don't apply to
+// state governors, state legislators, mayors, etc. They may still have
+// fec-candidate-id if they've filed for federal office — that's fine, FEC
+// pipeline runs on them normally. See Vault Rules § "Politician type
+// taxonomy" for the full three-tier rule (added 2026-04-11).
 const EXEMPT_TYPES = new Set([
   'media-profile', 'think-tank', 'story', 'event', 'sub-note',
   'daily-update', 'reference', 'methodology', 'system', 'page',
   'index', 'digest', 'admin-note',
+  'state-politician', 'local-politician',
 ]);
 
 // Expected pipeline auto-blocks by profile type.
