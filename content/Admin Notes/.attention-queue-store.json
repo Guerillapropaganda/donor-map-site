@@ -2,345 +2,9 @@
   "hallucination-catcher": [
     {
       "bucket": "deciding",
-      "what": "Raytheon (RTX Corporation): 96 unsupported claims",
-      "why": "Ready profile has \"$88.6 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 96,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Heritage Foundation: 78 unsupported claims",
-      "why": "Ready profile has \"$133.9 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "what": "Heritage Foundation: 30 unsupported claims",
+      "why": "Ready profile has \"60% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 78,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Atlantic Council: 70 unsupported claims",
-      "why": "Ready profile has \"$69.9 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Atlantic Council.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 70,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Aspen Institute: 66 unsupported claims",
-      "why": "Ready profile has \"$443.8 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Aspen Institute.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 66,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "GEO Group - Private Prison Industrial Complex: 65 unsupported claims",
-      "why": "Ready profile has \"70%\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Carceral State/GEO Group.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 65,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "American Petroleum Institute: 53 unsupported claims",
-      "why": "Ready profile has \"$252.3 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 53,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Newsmax: 50 unsupported claims",
-      "why": "Ready profile has \"$20 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Media & Influence Pipeline/Right/Newsmax.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 50,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "AIPAC - American Israel Public Affairs Committee: 49 unsupported claims",
-      "why": "Ready profile has \"$5 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 49,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Elon Musk: 48 unsupported claims",
-      "why": "Ready profile has \"$38 Billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Elon Musk.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 48,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "American Enterprise Institute: 47 unsupported claims",
-      "why": "Ready profile has \"$20 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Conservative/American Enterprise Institute.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 47,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "UAW - United Auto Workers: 46 unsupported claims",
-      "why": "Ready profile has \"$6.2 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Labor Unions/UAW - United Auto Workers.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 46,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "David Sacks: 44 unsupported claims",
-      "why": "Ready profile has \"$1.2 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Mega-Donors/David Sacks.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 44,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Rumble: 43 unsupported claims",
-      "why": "Ready profile has \"900%\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Media & Influence Pipeline/Right/Rumble.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 43,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Mercatus Center: 43 unsupported claims",
-      "why": "Ready profile has \"$39.3M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Mercatus Center.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 43,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Mark Zuckerberg: 40 unsupported claims",
-      "why": "Ready profile has \"58%\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Mark Zuckerberg.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 40,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Democracy Alliance: 39 unsupported claims",
-      "why": "Ready profile has \"$500K\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Dark Money/Democracy Alliance.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 39,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Sixteen Thirty Fund: 39 unsupported claims",
-      "why": "Ready profile has \"$180M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Dark Money/Sixteen Thirty Fund.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 39,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Walmart: 39 unsupported claims",
-      "why": "Ready profile has \"$432 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Wall Street/Walmart.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 39,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Third Way: 38 unsupported claims",
-      "why": "Ready profile has \"$31.7 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Third Way.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 38,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "David Pakman: 37 unsupported claims",
-      "why": "Ready profile has \"$600K\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Media & Influence Pipeline/Left/David Pakman.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 37,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Kyle Kulinski: 35 unsupported claims",
-      "why": "Ready profile has \"$300K\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Media & Influence Pipeline/Left/Kyle Kulinski.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 35,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Cato Institute: 34 unsupported claims",
-      "why": "Ready profile has \"97%\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Cato Institute.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 34,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Center on Budget and Policy Priorities: 34 unsupported claims",
-      "why": "Ready profile has \"$52.5 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Liberal/Center on Budget and Policy Priorities.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 34,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Bernard Marcus: 31 unsupported claims",
-      "why": "Ready profile has \"$10.3 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Bernard Marcus.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 31,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Heartland Institute: 30 unsupported claims",
-      "why": "Ready profile has \"$100M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Think Tanks & Policy Infrastructure/Conservative/Heartland Institute.md",
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
@@ -349,26 +13,345 @@
         "claimCount": 30,
         "readiness": "ready"
       }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Raytheon (RTX Corporation): 25 unsupported claims",
+      "why": "Ready profile has \"$88.6 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 25,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "AIPAC - American Israel Public Affairs Committee: 25 unsupported claims",
+      "why": "Ready profile has \"$126.9 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 25,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "GEO Group - Private Prison Industrial Complex: 24 unsupported claims",
+      "why": "Ready profile has \"70% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Carceral State/GEO Group.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 24,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "UAW - United Auto Workers: 20 unsupported claims",
+      "why": "Ready profile has \"$6.2 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Labor Unions/UAW - United Auto Workers.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 20,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Mark Zuckerberg: 20 unsupported claims",
+      "why": "Ready profile has \"58% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Mark Zuckerberg.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 20,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "American Action Network: 17 unsupported claims",
+      "why": "Ready profile has \"$170 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Dark Money/American Action Network.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 17,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Rumble: 17 unsupported claims",
+      "why": "Ready profile has \"900% increase\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Media & Influence Pipeline/Right/Rumble.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 17,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Eli Lilly: 16 unsupported claims",
+      "why": "Ready profile has \"90% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Pharma & Healthcare/Eli Lilly.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 16,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Chevron: 14 unsupported claims",
+      "why": "Ready profile has \"$90 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Chevron.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 14,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Uber: 14 unsupported claims",
+      "why": "Ready profile has \"2020, shortly after Prop 22 passed\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Gig Economy/Uber.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 14,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Stand Together: 13 unsupported claims",
+      "why": "Ready profile has \"$578 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Dark Money/Stand Together.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "American Petroleum Institute: 13 unsupported claims",
+      "why": "Ready profile has \"86.4% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md",
+      "cost_min": 15,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 13,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "American Farm Bureau Federation: 12 unsupported claims",
+      "why": "Ready profile has \"$732 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Kenneth Griffin: 12 unsupported claims",
+      "why": "Ready profile has \"8% increase\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Elon Musk: 11 unsupported claims",
+      "why": "Ready profile has \"$5.9 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Elon Musk.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Atlantic Council: 11 unsupported claims",
+      "why": "Ready profile has \"$69.9 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Think Tanks & Policy Infrastructure/Centrist/Atlantic Council.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Lyft: 10 unsupported claims",
+      "why": "Ready profile has \"$49.0 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Gig Economy/Lyft.md",
+      "cost_min": 12,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 10,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Dave Rubin: 10 unsupported claims",
+      "why": "Ready profile has \"2016-2018):** After going independent, The Rubin Report received\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Media & Influence Pipeline/Right/Dave Rubin.md",
+      "cost_min": 12,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 10,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Walmart: 9 unsupported claims",
+      "why": "Ready profile has \"73% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Wall Street/Walmart.md",
+      "cost_min": 11,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 9,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media: 9 unsupported claims",
+      "why": "Ready profile has \"25% cut\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Media & Influence Pipeline/The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media.md",
+      "cost_min": 11,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 9,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Lennar Corporation: 8 unsupported claims",
+      "why": "Ready profile has \"30% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Real Estate/Lennar Corporation.md",
+      "cost_min": 10,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 8,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "CalPERS: 8 unsupported claims",
+      "why": "Ready profile has \"40% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Wall Street/CalPERS.md",
+      "cost_min": 10,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 8,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Goldman Sachs: 8 unsupported claims",
+      "why": "Ready profile has \"$3.5 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Wall Street/Goldman Sachs.md",
+      "cost_min": 10,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 8,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Tenet Media: 8 unsupported claims",
+      "why": "Ready profile has \"$10 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Media & Influence Pipeline/Right/Tenet Media.md",
+      "cost_min": 10,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 8,
+        "readiness": "ready"
+      }
     }
   ],
   "voice-drift-detector": [
-    {
-      "bucket": "blocking",
-      "what": "Economic Policy Institute: voice rule violations",
-      "why": "Ready profile contains 41 em dashes in body, 1x \"in the realm of\". These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Think Tanks & Policy Infrastructure/Liberal/Economic Policy Institute.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "41 em dashes in body",
-          "1x \"in the realm of\""
-        ],
-        "drift": 0
-      }
-    },
     {
       "bucket": "blocking",
       "what": "The 22 Million Dollar Confirmation and the McConnell Precedent Reversal: voice rule violations",
