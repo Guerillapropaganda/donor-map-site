@@ -4,7 +4,7 @@ type: local-politician
 current-office: "Cook County Commissioner, District 6 (Illinois)"
 candidate-for: "US House 2026 (Illinois, Democratic primary — exact district needs verification from FEC filing H6IL02355)"
 content-readiness: draft
-last-updated: '2026-04-11'
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,7 +22,7 @@ known-gaps:
   - "Cook County Commissioner voting record needs direct sourcing from cookcountyil.gov board minutes"
   - "IL-2 US House 2026 campaign messaging / issue platform needs direct sourcing from campaign site"
   - "AIPAC / UDP independent expenditure detail needs FEC pipeline pass on H6IL02355"
-related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Affordable Chicago Now PAC]]"
+related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Affordable Chicago Now PAC]] · [[Daniel Biss Master Profile]]"
 wikidata-id: "Q101318343"
 last-enriched: "2026-04-10"
 wikipedia-url: "https://en.wikipedia.org/wiki/Donna_Miller"

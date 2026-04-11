@@ -2,7 +2,7 @@
 title: "Defense Industry"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -30,7 +30,7 @@ regulatory-agencies:
   - "International Trade Administration"
 lei: "5299006DUWIX3AEL2A58"
 lei-jurisdiction: "US-DE"
-related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] · [[Jeanne Shaheen Master Profile]] · [[Gary Peters Master Profile]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[Fanjul Family - Florida Crystals]]"
+related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] · [[Jeanne Shaheen Master Profile]] · [[Gary Peters Master Profile]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[Fanjul Family - Florida Crystals]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 995455
 total-assets: 1266724
@@ -101,7 +101,7 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -118,7 +118,7 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 
 - [[Jeanne Shaheen]] (Foreign Relations, Armed Services)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

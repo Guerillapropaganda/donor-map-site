@@ -2,7 +2,7 @@
 title: "Blackstone Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -24,7 +24,7 @@ federal-contracts: "622714"
 federal-awards-total: 0
 federal-contracts-count: 2
 federal-grants-count: 0
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]] · [[Mike Lee]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Koch Network - Charles Koch]] · [[Wall Street Finance Networks]] · [[Senate Leadership Fund]] · [[Stephen Schwarzman]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Carlyle Group]] · [[KKR]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Securities & Investment Industry]] · [[Private Equity Industry Bloc]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Ways and Means Chair and TCJA Extension]] · [[The Housing Progressive and Wall Street Tension]] · [[Subject Matter (now Avoq)]] · [[Forbes Tate Partners]] · [[Alpine Group]] · [[Blackstone Real Estate Political Operation]] · [[Mike Lee]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[Koch Network - Charles Koch]] · [[Wall Street Finance Networks]] · [[Senate Leadership Fund]] · [[Stephen Schwarzman]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Carlyle Group]] · [[KKR]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Securities & Investment Industry]] · [[Private Equity Industry Bloc]] · [[Citadel - Kenneth Griffin]] · [[CalPERS]]"
 court-cases: 1595
 last-enriched: "2026-04-10"
 court-jurisdictions:
@@ -363,7 +363,7 @@ Blackstone is the vault's purest case study of how financial capital converts po
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -381,11 +381,11 @@ Blackstone is the vault's purest case study of how financial capital converts po
 **Funded politicians:**
 
 - [[Donald Trump]] — lobbying: $4.5M — contracts: $623K
-- [[Chuck Schumer]] — lobbying: $4.5M — contracts: $623K
+- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — lobbying: $4.5M — contracts: $623K
 - [[Susan Collins]] — lobbying: $4.5M — contracts: $623K
 - [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M — contracts: $623K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -471,3 +471,21 @@ Blackstone is the vault's purest case study of how financial capital converts po
 
 - [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Blackstone%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
 <!-- auto:occ-enforcement end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 3, 3/A, 4, EX-23.1, EX-99, EX-99.3, NPORT-EX, S-8 POS +2 more |
+
+**Notable filings:**
+
+- 2008-04-21 — **EX-99.3**: EX-99.3
+- 2015-06-26 — **3**: 3
+- 2020-05-01 — **SC 13D/A**: AMENDMENT NO. 2 TO SCHEDULE 13D
+- 2020-01-22 — **4**: FORM 4 SUBMISSION
+- 2018-03-19 — **4**: FORM 4 SUBMISSION
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Blackstone%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->

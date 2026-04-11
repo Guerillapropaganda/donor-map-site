@@ -287,7 +287,7 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 4 |
+| Politicians Funded | 3 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
@@ -296,9 +296,8 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 - [[Barack Obama]] — lobbying: $5.4M
 - [[Jon Ossoff]] — lobbying: $5.4M
 - [[Cory Booker]] — lobbying: $5.4M
-- [[Juliana Stratton]] — lobbying: $5.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

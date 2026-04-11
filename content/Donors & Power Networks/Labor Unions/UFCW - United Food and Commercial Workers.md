@@ -2,7 +2,7 @@
 title: "UFCW - United Food and Commercial Workers"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -15,7 +15,7 @@ politicians-funded:
 issues:
   - "Labor & Workers"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:

@@ -2,7 +2,7 @@
 title: "Oil & Gas PACs"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Energy & Climate"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:

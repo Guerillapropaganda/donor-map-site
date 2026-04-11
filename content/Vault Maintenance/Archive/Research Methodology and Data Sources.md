@@ -2,10 +2,10 @@
 title: "Research Methodology and Data Sources"
 type: methodology
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]] · [[Think Tank & Policy Infrastructure Framework]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Media & Influence Pipeline Framework]] · [[Lobbying Firms & K Street Framework]] · [[Session Timeline]] · [[Quality Standards]] · [[API Pipeline]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Methodology Compliance Audit - March 2026]] · [[Sources Master Node]]"
+related: "[[Vault Standards and Agent Instructions]] · [[API Pipeline — Data Collection Layer]] · [[Think Tank & Policy Infrastructure Framework]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Media & Influence Pipeline Framework]] · [[Lobbying Firms & K Street Framework]] · [[Session Timeline]] · [[Quality Standards]] · [[API Pipeline]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Methodology Compliance Audit - March 2026]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Intra-Republican Contradiction Map]]"
 source-types:
   - LDA
 ---

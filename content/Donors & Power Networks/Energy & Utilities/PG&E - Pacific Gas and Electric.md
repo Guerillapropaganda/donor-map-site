@@ -2,7 +2,7 @@
 title: "PG&E - Pacific Gas and Electric"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -16,7 +16,7 @@ needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 397265
 total-assets: 358665
-related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Hawaiian Electric Company]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]]"
+related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Hawaiian Electric Company]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]]"
 lei: "R0KNQ1I1NAJLDR51ER82"
 lei-jurisdiction: "US-CA"
 federal-register-mentions: 5
@@ -116,3 +116,21 @@ PG&E represents the extreme case of utility political capture: a company that ha
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 363 |
+| Form Types | 10-K, 10-K/A, 10-Q, 10-Q/A, 8-K, DEF 14A, EX-10, EX-10.1 +18 more |
+
+**Notable filings:**
+
+- 2015-02-10 — **EX-21.0**: SUBSIDIARIES OF THE REGISTRANT
+- 2012-02-16 — **EX-21**: SUBSIDIARIES OF THE REGISTRANT
+- 2014-02-11 — **EX-21.0**: SUBSIDIARIES OF THE REGISTRANT
+- 2009-02-24 — **EX-21**: SIGNIFICANT SUBSIDIARIES
+- 2009-02-24 — **EX-21**: SIGNIFICANT SUBSIDIARIES
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1)
+<!-- auto:sec-edgar end -->

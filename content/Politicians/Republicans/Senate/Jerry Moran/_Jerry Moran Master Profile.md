@@ -2,7 +2,7 @@
 title: "Jerry Moran"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"
@@ -30,6 +30,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+donors: "[[Western Growers Association]] · [[California Farm Bureau Federation]]"
 ---
 #jerry-moran #republican #kansas #senate #committee-chair #veterans-affairs #aviation #aerospace #koch #va-privatization #agriculture #wichita #phase-6-gavel-power
 

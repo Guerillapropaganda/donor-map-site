@@ -2,7 +2,7 @@
 title: "Trump Donor Coalition"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]] · [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]]"
+related: "[[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Bill Hagerty]] · [[_Donald Trump Master Profile|Trump]] · [[Miriam Adelson]] · [[Elon Musk]] · [[Timothy Mellon]] · [[America PAC - Elon Musk]] · [[Jeffrey Yass]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]]"
 lobbying-spend: 40000
 lobbying-filings: 4
 ein: "363550786"
@@ -197,7 +197,7 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 
 - [[Donald Trump]] — lobbying: $40K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

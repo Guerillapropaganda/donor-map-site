@@ -2,7 +2,7 @@
 title: "Meta - Facebook"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -34,7 +34,7 @@ sec-form-types:
   - "N-CSRS"
   - "PART II"
   - "PX14A6G"
-related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]] · [[TikTok - ByteDance]] · [[Silicon Valley Donors]] · [[Nvidia]]"
+related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]] · [[TikTok - ByteDance]] · [[Silicon Valley Donors]] · [[Nvidia]] · [[Mark Zuckerberg]] · [[Comcast - NBCUniversal]]"
 lobbying-spend: 36516328
 lobbying-filings: 107
 cross-vault-triangulation-count: 18
@@ -388,5 +388,5 @@ Meta is the vault's clearest case of surveillance capitalism — a business mode
 - [[Donald Trump]] — lobbying: $36.5M
 - [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $36.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

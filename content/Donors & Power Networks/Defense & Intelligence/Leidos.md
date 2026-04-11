@@ -2,7 +2,7 @@
 title: "Leidos"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -69,7 +69,7 @@ regulatory-agencies:
 federal-awards-total: 10432350765
 federal-contracts-count: 25
 federal-grants-count: 9
-related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[L3Harris Technologies]]"
+related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[L3Harris Technologies]] · [[Anduril Industries]] · [[Defense Contractors Bloc]]"
 lobbying-spend: 10260000
 lobbying-filings: 54
 cross-vault-triangulation-count: 11
@@ -417,3 +417,23 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Leidos) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493006I78VIN6J1BQ95](https://search.gleif.org/#/record/5493006I78VIN6J1BQ95) |
+| Legal Name | LEIDOS, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-01-12T18:01:23Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [LEIDOS HOLDINGS, INC.](https://search.gleif.org/#/record/549300IUTGTP6EJP8124) (US-DE)
+- LEIDOS, INC. (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

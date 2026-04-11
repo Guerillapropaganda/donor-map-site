@@ -2,7 +2,7 @@
 title: "American Federation for Children"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Education"
@@ -26,7 +26,7 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. California"
   - "District Court, W.D. Washington"
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]] · [[Insurance Industry]] · [[The 85 Fund]]"
 sec-filings: 9
 sec-form-types:
   - "DEF 14A"
@@ -215,7 +215,7 @@ The American Federation for Children represents the school privatization movemen
 
 - [[Virginia Foxx]] (Education & Labor) — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)

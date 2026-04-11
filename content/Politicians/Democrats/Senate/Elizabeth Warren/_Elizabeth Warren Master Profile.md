@@ -2,7 +2,7 @@
 title: "Elizabeth Warren Master Profile"
 type: politician
 content-readiness: draft
-last-updated: '2026-04-10'
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,14 +12,16 @@ state-abbr: "MA"
 bioguide-id: "W000817"
 fec-candidate-id: "S2MA00170"
 issues:
-  - "Wall Street & Financial Regulation"
-  - "Consumer Protection (CFPB architect)"
-  - "Wealth Tax & Billionaire Accountability"
-  - "Student Debt Cancellation"
-  - "Medicare for All"
-  - "Antitrust & Corporate Power"
-  - "Cryptocurrency Regulation"
-  - "Big Tech & Platform Accountability"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Education"
+  - "Families"
+  - "Finance and Financial Sector"
+  - "Health"
+  - "Immigration"
+  - "Labor and Employment"
+  - "Native Americans"
 committees:
   - "Banking, Housing & Urban Affairs"
   - "Finance"
@@ -31,9 +33,9 @@ top-donors:
   - "Law & Legal Services sector"
   - "ActBlue (platform)"
   - "Emily's List"
-total-received: "$131,368,112"
+total-received: "$3,079,771"
 stock-trades: 1
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-11"
 source-types:
   - FEC
 corroboration-count: 1
@@ -44,7 +46,7 @@ known-gaps:
   - "GovTrack voting record not yet populated (awaits pipeline run)"
   - "CFPB dismantlement timeline under Trump II needs complete cataloging (partially documented)"
   - "Wealth tax proposal votes and co-sponsor retreat pattern needs full enumeration"
-related: "[[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Kenneth Griffin]] · [[The CFPB and the Limits of Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The 2020 Campaign and the Donor Class Consolidation]]"
+related: "[[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Kenneth Griffin]] · [[The CFPB and the Limits of Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[ActBlue]]"
 opposes:
   - "Fairshake PAC (crypto industry)"
   - "Kenneth Griffin / Citadel"
@@ -362,3 +364,73 @@ party:: Democrat
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | MA |
+| Chamber | Senate |
+| Bills Sponsored | 861 |
+| Bills Cosponsored | 4300 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Commerce, Education, Families, Finance and Financial Sector, Health, Immigration, Labor and Employment, Native Americans, Science, Technology, Communications, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4246 | A bill to amend the Internal Revenue Code of 1986 to impose a tax on the net val… | Read twice and referred to the Committee on Finance. |
+| 4212 | A bill to require contractors of the Department of Defense to prioritize meeting… | Read twice and referred to the Committee on Armed Services. |
+| 142 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 651 | A resolution honoring the USS Massachusetts (SSN-798) Virginia Class nuclear sub… | Referred to the Committee on Armed Services. (text: CR S1380-1381) |
+| 4050 | Failed Bank Executives Clawback Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4029 | A bill to reinforce the Foreign Corrupt Practices Act of 1977 by establishing a … | Read twice and referred to the Committee on the Judiciary. |
+| 4001 | Supplemental Security Income Restoration Act of 2026 | Read twice and referred to the Committee on Finance. |
+| 113 | A joint resolution providing congressional disapproval under chapter 8 of title … | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000817) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2030 |
+| Total Raised | $3,079,771 |
+| Individual Contributions | $783,815 |
+| PAC Contributions | $10,000 |
+| Cash on Hand | 3909555.76 |
+| IE Support (Super PAC) | $1,304,412 |
+| IE Opposition (Super PAC) | $6,588,827 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2030 | $3,079,771 | $783,815 | $10,000 |
+| 2024 | $21,088,321 | $8,693,452 | $67,800 |
+| 2018 | $35,204,951 | $10,844,780 | $446,128 |
+| 2012 | $42,506,349 | $22,393,743 | $686,708 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| AMERICA 360 COMMITTEE | $0 | $1,693,306 |
+| CROSSROADS GRASSROOTS POLICY STRATEGIES | $0 | $1,198,424 |
+| FUTURE45 | $0 | $1,015,974 |
+| AMERICANS FOR TAX REFORM | $0 | $878,468 |
+| COMMONWEALTH UNITY FUND | $0 | $785,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2MA00170/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Elizabeth Warren](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

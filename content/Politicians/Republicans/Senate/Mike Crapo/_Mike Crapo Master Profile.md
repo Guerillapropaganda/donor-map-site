@@ -183,3 +183,22 @@ His nuclear energy advocacy is the most authentic throughline — it directly se
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/300030) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Koch Network - Charles Koch** donates → Lobbies on **Banking** → This member sits on **Finance**
+- **Koch Network - Charles Koch** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
+
+**Donors who lobby (by spend):**
+
+- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

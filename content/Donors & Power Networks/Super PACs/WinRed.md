@@ -2,7 +2,7 @@
 title: "WinRed"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -19,7 +19,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Federal Election Commission"
-related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]] · [[ActBlue]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]]"
+related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]] · [[ActBlue]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]] · [[Preserve America]] · [[National Republican Senatorial Committee]]"
 sec-filings: 2
 sec-form-types:
   - "10-K"

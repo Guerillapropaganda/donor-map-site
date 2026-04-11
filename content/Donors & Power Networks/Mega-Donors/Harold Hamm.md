@@ -351,5 +351,5 @@ Hamm's wealth and power illustrate how extraction industries structure themselve
 - [[Donald Trump]] — lobbying: $70K
 - [[Doug Burgum]] — lobbying: $70K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

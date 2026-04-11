@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prisons"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,7 +12,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 total-revenue: 143756
 total-assets: 118562
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[CoreCivic - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[2026-03-26 Finance Research]] · [[GEO Group]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[CoreCivic - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[2026-03-26 Finance Research]] · [[GEO Group]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]]"
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"

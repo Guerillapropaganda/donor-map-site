@@ -2,7 +2,7 @@
 title: "Majority Forward"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -16,7 +16,7 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
-related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]] · [[Emilys List]] · [[Dark Money Networks - The Shadow System]]"
+related: "[[DSCC - Democratic Senatorial Campaign Committee]] · [[Senate Majority PAC]] · [[_Chuck Schumer Master Profile|Schumer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Advocacy Fund]] · [[Democratic Senatorial Campaign Committee]] · [[Priorities USA Action]] · [[Emilys List]] · [[Dark Money Networks - The Shadow System]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]]"
 court-cases: 36
 court-jurisdictions:
   - "Court of Appeals for the Fourth Circuit"

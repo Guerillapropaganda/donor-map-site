@@ -2,13 +2,13 @@
 title: "Sinclair Broadcast Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
 entity-type: "Corporation"
 court-cases: 605
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-11"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eighth Circuit"
@@ -230,3 +230,43 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 - [Source: SAM.gov Contract Awards](https://sam.gov/search/?q=Sinclair%20Broadcast%20Group&page=1&index=opp) (Tier 1)
 <!-- auto:sam-contracts end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 0 |
+| HSR early termination notices (merger filings) | 16 |
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Sinclair Broadcast Group, Inc. → The Tennis Channel Holdings, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20160710) (2016-02-24)
+- [Sinclair Broadcast Group, Inc. → James E. Rogers Trust](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141539) (2014-09-19)
+- [Mercury New Holdco Inc. → Sinclair Broadcast Group, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141478) (2014-09-08)
+- [Sinclair Broadcast Group, Inc. → Perpetual Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20131165) (2014-07-21)
+- [Sinclair Broadcast Group, Inc. → Pilot Group LP](https://www.ftc.gov/legal-library/browse/early-termination-notices/20130692) (2013-11-06)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Sinclair%20Broadcast%20Group).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Sinclair%20Broadcast%20Group) (Tier 1)
+<!-- auto:ftc-enforcement end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-K/A, 10-Q, 11-K, 3, 4, 8-K, ARS +22 more |
+| CIK | 1099160 |
+| Ticker | BBGI |
+
+**Notable filings:**
+
+- 2026-04-08 — **10-K**: [10-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526147594/0001193125-26-147594-index.htm)
+- 2026-04-08 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526146436/0001193125-26-146436-index.htm)
+- 2026-04-01 — **NT 10-K**: [NT 10-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526137920/0001193125-26-137920-index.htm)
+- 2026-03-20 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526117853/0001193125-26-117853-index.htm)
+- 2026-02-03 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526034347/0001193125-26-034347-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sinclair%20Broadcast%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->

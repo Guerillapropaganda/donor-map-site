@@ -2,7 +2,7 @@
 title: "Rosa DeLauro"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,7 +11,7 @@ state: "Connecticut"
 state-abbr: "CT"
 district: "3"
 committees:
-  - "Appropriations"
+  - "House Committee on Appropriations"
 leadership-roles:
   - "Ranking Member"
 top-donors:
@@ -26,7 +26,7 @@ bills-sponsored: 29
 bills-cosponsored: 179
 website: "https://delauro.house.gov"
 phone: "202-225-3661"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 bioguide-id: "D000216"
@@ -44,6 +44,14 @@ issues:
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: "$689,298"
+total-spent: "$675,149"
+cash-on-hand: "239597.33"
+fec-cycle: 2026
+wikidata-id: "Q434952"
+wikipedia-url: "https://en.wikipedia.org/wiki/Rosa_DeLauro"
+wikipedia-extract: "Rosa Luisa DeLauro is an American politician serving as the U.S. representative for Connecticut's 3rd congressional district since 1991. She is a member of the Democratic Party."
+born: "1943-03-02"
 ---
 #rosa-delauro #democrat #connecticut #house #appropriations #ranking-member #phase-6-gavel-power
 
@@ -242,3 +250,86 @@ c
 
 - [Source: Congress.gov](https://www.congress.gov/member/D000216) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Appropriations
+
+**Subcommittees:**
+
+- Labor, Health and Human Services, Education, and Related Agencies
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $689,298 |
+| Total Spent | $675,149 |
+| Cash on Hand | 239597.33 |
+| Individual Contributions | $273,092 |
+| PAC Contributions | $317,000 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $689,298 | $675,149 | 239597.33 |
+| 2024 | $1,751,635 | $1,639,642 | 225448.09 |
+| 2022 | $2,182,549 | $2,228,822 | 113454.90 |
+| 2020 | $1,956,686 | $1,813,322 | 159728.33 |
+| 2018 | $1,305,047 | $1,303,899 | 16363.94 |
+| 2016 | $1,146,730 | $1,150,879 | 15216.06 |
+| ... | 13 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0CT03072/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Rosa DeLauro](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Rosa DeLauro](https://www.govtrack.us/congress/members/400103) (Tier 1)
+<!-- auto:voting-record end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Rosa Luisa DeLauro is an American politician serving as the U.S. representative for Connecticut's 3rd congressional district since 1991. She is a member of the Democratic Party.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q434952](https://www.wikidata.org/wiki/Q434952) |
+| Description | U.S. Representative from Connecticut |
+| Born | 1943-03-02 |
+| Website | [http://delauro.house.gov](http://delauro.house.gov) |
+| X/Twitter | [@RosaDeLauro](https://x.com/RosaDeLauro) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Hq_DeLauro.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Rosa_DeLauro) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q434952) (Tier 2)
+<!-- auto:wikipedia end -->

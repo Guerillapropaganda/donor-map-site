@@ -215,24 +215,28 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
+| Donors Who Also Lobby | 3 of 3 |
+| Committee Overlap Detected | 3 donors |
 
 **Donate → Lobby → Committee chains:**
 
+- **Koch Network - Charles Koch** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
+- **Agribusiness Donor Bloc** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 - **Ethanol Industry** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
 
 **Donors who lobby (by spend):**
 
+- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[Ethanol Industry]] — $2.3M lobbying spend (Agriculture, Copyright/Patent/Trademark, Energy/Nuclear)
+- [[Agribusiness Donor Bloc]] — $480K lobbying spend (Agriculture, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

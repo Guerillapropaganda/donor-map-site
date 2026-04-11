@@ -2,7 +2,7 @@
 title: "Melissa Bean Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,16 +12,16 @@ top-donors:
   - "Think Big AI PAC"
   - "AIPAC"
 issues:
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
+  - "Armed Forces and National Security"
+  - "Commemorations"
+  - "Commerce"
   - "Congress"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
+  - "Energy"
   - "Families"
+  - "Finance and Financial Sector"
   - "Foreign Trade and International Finance"
   - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
+  - "Housing and Community Development"
 total-received: "$2,292,879"
 fec-candidate-id: "H2IL08088"
 bioguide-id: "B001253"
@@ -38,6 +38,16 @@ related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Think Big AI
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: B001253. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+last-enriched: "2026-04-11"
+total-raised: "$2,292,879"
+total-spent: "$2,451,348"
+cash-on-hand: "25239.79"
+fec-cycle: 2010
+fec-debt: "12800.00"
+wikidata-id: "Q445046"
+wikipedia-url: "https://en.wikipedia.org/wiki/Melissa_Bean"
+wikipedia-extract: "Melissa Bean is an American politician who served as the U.S. representative for Illinois's 8th congressional district from 2005 to 2011. Bean is a member of the Democratic Party."
+born: "1962-01-22"
 ---
 #democrat #politician #house
 tags: #democrat
@@ -180,6 +190,16 @@ _No committee data found for the 119th Congress._
 - [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |
@@ -213,3 +233,79 @@ _No committee data found for the 119th Congress._
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| Chamber | House |
+| Bills Sponsored | 50 |
+| Bills Cosponsored | 555 |
+
+**Policy areas:** Armed Forces and National Security, Commemorations, Commerce, Congress, Energy, Families, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Housing and Community Development, International Affairs, Labor and Employment, Public Lands and Natural Resources, Science, Technology, Communications, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| — |  | On agreeing to the Bean amendment (A004) Agreed to by recorded vote: 234 - 190 (Roll no. 264).  |
+| 5583 | Keep Small Businesses Profitable Act of 2006 | Referred to the House Committee on Ways and Means. |
+| 4982 | SAFER NET Act | Sponsor introductory remarks on measure. (CR H3234) |
+| 4856 | Energy Star Homes Act of 2006 | Sponsor introductory remarks on measure. (CR H648) |
+| 4092 | Advocates Dedicated to Older Child Parental Tax Credit (ADOPT) Act of 2005 | Referred to the House Committee on Ways and Means. |
+| 3140 | Consumer Data Security and Notification Act of 2005 | Referred to the House Committee on Financial Services. |
+| 1069 | Notification of Risk to Personal Data Act | Referred to the Subcommittee on Financial Institutions and Consumer Credit. |
+| 797 | Directing the Clerk to post on the public Internet site of the Office of the Cle… | Sponsor introductory remarks on measure. (CR H3500) |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001253) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2010 |
+| Total Raised | $2,292,879 |
+| Total Spent | $2,451,348 |
+| Cash on Hand | 25239.79 |
+| Debt | 12800.00 |
+| Individual Contributions | $761,312 |
+| PAC Contributions | $1,369,307 |
+| Coverage Through | 2010-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2010 | $2,292,879 | $2,451,348 | 25239.79 |
+| 2008 | $3,107,771 | $2,986,007 | 183708.38 |
+| 2006 | $4,337,076 | $4,299,595 | 61944.70 |
+| 2004 | $1,603,232 | $1,586,835 | 24463.84 |
+| 2002 | $329,028 | $320,960 | 8066.54 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2IL08088/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Melissa Bean](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Melissa Bean is an American politician who served as the U.S. representative for Illinois's 8th congressional district from 2005 to 2011. Bean is a member of the Democratic Party.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q445046](https://www.wikidata.org/wiki/Q445046) |
+| Description | American politician |
+| Born | 1962-01-22 |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Melissa_Bean_Official.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Melissa_Bean) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q445046) (Tier 2)
+<!-- auto:wikipedia end -->

@@ -2,7 +2,7 @@
 title: "John Boehner"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"
@@ -25,7 +25,7 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
-donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]]"
+donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]] · [[California Farm Bureau Federation]]"
 related: "[[JPMorgan Chase]] · [[Koch network]] · [[Koch Network - Charles Koch|Koch Network]] · [[Paul Ryan]] · [[Donald Trump]] · [[Tobacco Industry]] · [[Cannabis Legalization Movement]] · [[Reynolds American]] · [[Altria]]"
 last-enriched: "2026-04-10"
 govtrack-id: 400036
@@ -168,7 +168,7 @@ John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (201
 
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

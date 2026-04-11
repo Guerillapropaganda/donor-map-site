@@ -2,7 +2,7 @@
 title: "Bradley Impact Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -18,7 +18,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
 total-revenue: 130264386
 total-assets: 200316165
-related: "[[American Enterprise Institute]] · [[Stephen Miller Master Profile]] · [[The Immigration Policy Architecture from Sessions to Mass Deportation]] · [[America First Legal and the Dark Money Architecture]] · [[Christian Nationalism and the Theological Budget]] · [[Conservative Partnership Institute]] · [[Charlie Kirk]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Council for National Policy]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]]"
+related: "[[American Enterprise Institute]] · [[Stephen Miller Master Profile]] · [[The Immigration Policy Architecture from Sessions to Mass Deportation]] · [[America First Legal and the Dark Money Architecture]] · [[Christian Nationalism and the Theological Budget]] · [[Conservative Partnership Institute]] · [[Charlie Kirk]] · [[Bradley Foundation]] · [[DonorsTrust]] · [[Council for National Policy]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[National Education Association]] · [[Insurance Industry]]"
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 ---

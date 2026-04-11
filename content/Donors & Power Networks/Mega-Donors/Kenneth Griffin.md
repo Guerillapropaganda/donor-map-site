@@ -2,7 +2,7 @@
 title: "Kenneth Griffin"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -48,7 +48,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Securities and Exchange Commission"
   - "Transportation Department"
-related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Patrick McHenry Master Profile]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Nikki Haley Master Profile]] · [[Blackstone Real Estate Political Operation]] · [[_Donald Trump Master Profile]] · [[Securities & Investment Industry]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Patrick McHenry Master Profile]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Nikki Haley Master Profile]] · [[Blackstone Real Estate Political Operation]] · [[_Donald Trump Master Profile]] · [[Securities & Investment Industry]] · [[DOGE - The Billionaires Government]] · [[Maria Elvira Salazar]]"
 total-political-spend: "$108,324,551"
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
@@ -327,3 +327,21 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kenneth%20Griffin) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Wall Street & Finance** → Funds **Maria Elvira Salazar** → Sits on **House Committee on Financial Services**
+
+**Funded politicians:**
+
+- [[Maria Elvira Salazar]] (House Committee on Financial Services, House Committee on Foreign Affairs)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

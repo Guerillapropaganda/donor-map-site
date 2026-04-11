@@ -2,7 +2,7 @@
 title: Justice Democrats and Brand New Congress - The Infrastructure He Built
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: "[[_Saikat Chakrabarti Master Profile]]"
 source-types:
@@ -11,7 +11,7 @@ source-types:
 corroboration-count: 2
 known-gaps:
   - No standalone Justice Democrats PAC master profile in Donors & Power Networks folder (currently exists only as this sub-note)
-related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Bush]] · [[_AOC Squad]] · [[Progressive PACs and Funding Networks]] · [[Summer Lee Master Profile]] · [[Rashida Tlaib]] · [[Nina Turner Master Profile]]"
+related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Bush]] · [[_AOC Squad]] · [[Progressive PACs and Funding Networks]] · [[Summer Lee Master Profile]] · [[Rashida Tlaib]] · [[Nina Turner Master Profile]] · [[Ilhan Omar Master Profile]] · [[Greg Casar Master Profile]]"
 ---
 #justice-democrats #brand-new-congress #pac #recruitment #casting-call #aoc #squad #class-analysis #follow-the-money
 

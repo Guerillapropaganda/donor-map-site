@@ -2,7 +2,7 @@
 title: "National Rifle Association"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -44,7 +44,7 @@ ein: "351046434"
 annual-revenue: "$175.7M"
 net-assets: "$168.1M"
 tax-year: "2023"
-related: "[[The Culture War Economy and Small Dollar Fundraising]] · [[Lauren Boebert]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The NRA Investment and the Second Amendment Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Guns - Donors and Backers]] · [[Koch Network - Charles Koch]] · [[WinRed]] · [[Trump Victory]] · [[Save America PAC]]"
+related: "[[The Culture War Economy and Small Dollar Fundraising]] · [[Lauren Boebert]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The NRA Investment and the Second Amendment Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Guns - Donors and Backers]] · [[Koch Network - Charles Koch]] · [[WinRed]] · [[Trump Victory]] · [[Save America PAC]] · [[Fairshake PAC]] · [[Preserve America]]"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-10"
 needs-reenrichment: true

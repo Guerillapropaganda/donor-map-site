@@ -2,7 +2,7 @@
 title: "Americans for Prosperity"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -30,7 +30,7 @@ ein: "753148958"
 annual-revenue: "$186.4M"
 net-assets: "$45.0M"
 tax-year: "2023"
-related: "[[Senate Majority PAC]] · [[Jodey Arrington]] · [[State Policy Network]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Koch - Koch Industries|Koch Industries]] · [[Stand Together]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Richard and Elizabeth Uihlein]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[MAGA Inc]]"
+related: "[[Senate Majority PAC]] · [[Jodey Arrington]] · [[State Policy Network]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Koch - Koch Industries|Koch Industries]] · [[Stand Together]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Richard and Elizabeth Uihlein]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[MAGA Inc]] · [[Priorities USA Action]] · [[One Nation]]"
 nonprofit-status: "501(c)(4)"
 total-revenue: 224037344
 total-assets: 60720666

@@ -2,7 +2,7 @@
 title: "John Hoeven"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"
@@ -43,6 +43,7 @@ bills-cosponsored: 190
 website: "https://www.hoeven.senate.gov"
 phone: "202-224-2551"
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[_John Barrasso Master Profile|Barrasso]] · [[_Joe Manchin Master Profile|Manchin]]"
+donors: "[[Western Growers Association]]"
 ---
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power
 

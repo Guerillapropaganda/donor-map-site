@@ -2,7 +2,7 @@
 title: "Raja Krishnamoorthi"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,7 +11,9 @@ state: "Illinois"
 state-abbr: "IL"
 district: "8"
 committees:
-  - "Oversight & Reform"
+  - "House Committee on Oversight and Government Reform"
+  - "House Permanent Select Committee on Intelligence"
+  - "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"
 issues:
   - "Agriculture and Food"
   - "Arts, Culture, Religion"
@@ -31,13 +33,22 @@ bills-cosponsored: 578
 website: "https://krishnamoorthi.house.gov"
 phone: "202-225-3711"
 related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Tech Industry|Tech Industry Bloc]] · [[Palantir]] · [[Meta]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 bioguide-id: "K000391"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: "$3,915,957"
+total-spent: "$20,754,302"
+cash-on-hand: "273149.11"
+fec-cycle: 2026
+fec-debt: "99495.82"
+wikidata-id: "Q7285471"
+wikipedia-url: "https://en.wikipedia.org/wiki/Raja_Krishnamoorthi"
+wikipedia-extract: "Subramanian Raja Krishnamoorthi is an American attorney and politician serving as the U.S. representative for Illinois's 8th congressional district since 2017. He is a member of the Democratic Party."
+born: "1973-07-19"
 ---
 #raja-krishnamoorthi #illinois #house #democrat #oversight #tech #tiktok #india #ccp-committee #senate-2026 #maga-donors
 
@@ -230,6 +241,35 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 - [GovTrack: Raja Krishnamoorthi](https://www.govtrack.us/congress/members/412701) (Tier 1)
 <!-- auto:voting-record end -->
 
+<!-- auto:voting-record pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Not Voting** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Not Voting** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Not Voting** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **Not Voting** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Not Voting** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Not Voting** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Not Voting** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Raja Krishnamoorthi](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Raja Krishnamoorthi](https://www.govtrack.us/congress/members/412701) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
 | Metric | Value |
@@ -258,3 +298,63 @@ The Stratton victory showed that institutional Democratic support (governor's ba
 
 - [Source: Congress.gov](https://www.congress.gov/member/K000391) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Oversight and Government Reform
+- House Permanent Select Committee on Intelligence
+- House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
+
+**Subcommittees:**
+
+- Central Intelligence Agency
+- Health Care and Financial Services
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,915,957 |
+| Total Spent | $20,754,302 |
+| Cash on Hand | 273149.11 |
+| Debt | 99495.82 |
+| Individual Contributions | $2,945,095 |
+| PAC Contributions | $366,600 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $3,915,957 | $20,754,302 | 273149.11 |
+| 2024 | $10,897,838 | $4,973,013 | 17111494.43 |
+| 2022 | $8,498,368 | $5,739,546 | 11186669.45 |
+| 2020 | $6,411,078 | $2,259,903 | 8427846.93 |
+| 2018 | $5,315,280 | $1,964,491 | 4276671.79 |
+| 2016 | $3,572,635 | $2,646,752 | 925882.71 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6IL08147/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Subramanian Raja Krishnamoorthi is an American attorney and politician serving as the U.S. representative for Illinois's 8th congressional district since 2017. He is a member of the Democratic Party.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q7285471](https://www.wikidata.org/wiki/Q7285471) |
+| Description | American lawyer and politician (born 1973) |
+| Born | 1973-07-19 |
+| Website | [https://krishnamoorthi.house.gov/](https://krishnamoorthi.house.gov/) |
+| X/Twitter | [@congressmanraja](https://x.com/congressmanraja) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Raja_Krishnamoorthi_official_photo.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Raja_Krishnamoorthi) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q7285471) (Tier 2)
+<!-- auto:wikipedia end -->

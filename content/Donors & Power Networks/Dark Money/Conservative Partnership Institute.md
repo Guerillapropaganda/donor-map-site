@@ -2,7 +2,7 @@
 title: "Conservative Partnership Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -24,7 +24,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. Florida"
   - "District Court, S.D. New York"
-related: "[[DeVos Family]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[Bradley Impact Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[America First Policy Institute]] · [[DonorsTrust]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
+related: "[[DeVos Family]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[Bradley Impact Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[America First Policy Institute]] · [[DonorsTrust]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]]"
 ein: "821470217"
 annual-revenue: "$19.5M"
 net-assets: "$71.1M"

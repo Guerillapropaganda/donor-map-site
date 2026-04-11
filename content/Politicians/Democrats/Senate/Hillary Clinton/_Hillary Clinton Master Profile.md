@@ -11,11 +11,20 @@ parent: null
 party: Democrat
 chamber: Senate
 issues:
-  - Wall Street & Finance
-total-received: '$7,102,485'
-fec-candidate-id: S0NY00188
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Education"
+  - "Emergency Management"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Science, Technology, Communications"
+total-received: "$7,102,485"
+fec-candidate-id: "S0NY00188"
 bioguide-id: "C001041"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 donors: "[[Entertainment and Hollywood Donors]] · [[UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]] · [[FAIR SHARE ACTION]] · [[Media Matters]]"
 opposes: >-
   [[KENTUCKIANS FOR STRONG LEADERSHIP]] · [[STOP UNION POLITICAL ABUSE (SUPA)]]
@@ -143,3 +152,38 @@ _No committee data found._
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| Chamber | Senate |
+| Bills Sponsored | 713 |
+| Bills Cosponsored | 2678 |
+
+**Policy areas:** Armed Forces and National Security, Commerce, Education, Emergency Management, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Labor and Employment, Science, Technology, Communications
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 211 | Calling for 2-1-1 Act of 2009 | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 1390 | Perpetual Purple Heart Stamp Act | Committee on Homeland Security and Governmental Affairs referred to Subcommittee on Federal Financial Management, Government Information, Federal Services, and International Security. |
+| 1876 | Holocaust Victims' Assets, Restitution Policy, and Remembrance Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 511 | Student Borrower Bill of Rights Act of 2007 | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 844 | Title X Family Planning Services Act of 2005 | Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 78. |
+| 485 | A resolution to express the sense of the Senate concerning the value of family p… | Referred to the Committee on Health, Education, Labor, and Pensions. (text of measure as introduced: CR S4896) |
+| 2916 | Unintended Pregnancy Reduction Act of 2006 | Read twice and referred to the Committee on Finance. |
+| 2415 | Protection Against Transmission of HIV for Women and Youth Act of 2007 | Read twice and referred to the Committee on Foreign Relations. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001041) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Hillary Clinton](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "Ocean Conservancy"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -26,7 +26,7 @@ regulatory-agencies:
   - "Ocean Energy Management Bureau"
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
-related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]] · [[Climate Philanthropy - The Green Billionaires]] · [[Democratic Donor Network]] · [[Environmental Law & Policy Center]] · [[New Venture Fund]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]]"
+related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]] · [[Climate Philanthropy - The Green Billionaires]] · [[Democratic Donor Network]] · [[Environmental Law & Policy Center]] · [[New Venture Fund]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Open Society Foundations]] · [[Media Matters]]"
 ein: "237245152"
 annual-revenue: "$48.6M"
 net-assets: "$96.1M"

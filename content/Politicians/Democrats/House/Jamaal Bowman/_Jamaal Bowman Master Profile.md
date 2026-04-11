@@ -2,7 +2,7 @@
 title: Jamaal Bowman Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: Democrat
@@ -11,14 +11,18 @@ state: New York
 state-abbr: NY
 district: '16'
 issues:
-  - Israel & Foreign Policy
-  - Education
-  - Climate
-  - Healthcare
-  - Housing
-  - Cryptocurrency Regulation
-total-received: '$6,052,176'
-fec-candidate-id: H0NY16143
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Emergency Management"
+  - "Energy"
+  - "Environmental Protection"
+total-received: "$6,052,176"
+fec-candidate-id: "H0NY16143"
 bioguide-id: "B001223"
 govtrack-id: 456839
 bills-sponsored: 0
@@ -42,9 +46,18 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]] · [[DMFI - Democratic Majority for Israel]]'
 donors: '[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]]'
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): B001223. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
+total-raised: "$6,052,176"
+total-spent: "$5,993,808"
+cash-on-hand: "79884.30"
+fec-cycle: 2024
+fec-debt: "13261.52"
+wikidata-id: "Q96419280"
+wikipedia-url: "https://en.wikipedia.org/wiki/Jamaal_Bowman"
+wikipedia-extract: "Jamaal Anthony Bowman is an American politician and former educator who served from 2021 to 2025 as the United States representative for New York's 16th congressional district."
+born: "1976-04-01"
 ---
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
 
@@ -353,3 +366,99 @@ _No committee data found._
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 1108 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Emergency Management, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1617 | Expressing the sense of the House of Representatives that it is the duty of the … | Referred to the Committee on Education and the Workforce, and in addition to the Committees on Energy and Commerce, Transportation and Infrastructure, Financial Services, Agriculture, the Judiciary, and Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 8797 | Ending Corporate Greed Act | Referred to the House Committee on Ways and Means. |
+| 8678 | FAIR Costs Act | Referred to the House Committee on Financial Services. |
+| 7924 | ACCESS in Mental Health Act | Sponsor introductory remarks on measure. (CR H2869) |
+| 988 | Supporting the values of the Equity or Else quality-of-life platform and acknowl… | Referred to the House Committee on the Judiciary. |
+| 6616 | College Athlete Right to Organize Act | Referred to the House Committee on Education and the Workforce. |
+| 5784 | Green New Deal for Public Schools Act of 2023 | Referred to the House Committee on Education and the Workforce. |
+| 4900 | Fair College Admissions for Students Act | Referred to the House Committee on Education and the Workforce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001223) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $6,052,176 |
+| Total Spent | $5,993,808 |
+| Cash on Hand | 79884.30 |
+| Debt | 13261.52 |
+| Individual Contributions | $3,819,429 |
+| PAC Contributions | $295,120 |
+| Coverage Through | 2024-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2024 | $6,052,176 | $5,993,808 | 79884.30 |
+| 2022 | $1,877,493 | $1,933,450 | 21516.46 |
+| 2020 | $2,915,373 | $2,837,899 | 77473.96 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H0NY16143/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Not Voting** | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Not Voting** | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Not Voting** | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Not Voting** | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Not Voting** | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Not Voting** | Passed |
+| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Not Voting** | Passed |
+| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **Not Voting** | Passed |
+| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Not Voting** | Passed |
+| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Not Voting** | Passed |
+| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Not Voting** | Passed |
+| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Not Voting** | Passed |
+| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Jamaal Bowman](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Jamaal Bowman](https://www.govtrack.us/congress/members/456839) (Tier 1)
+<!-- auto:voting-record end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Jamaal Anthony Bowman is an American politician and former educator who served from 2021 to 2025 as the United States representative for New York's 16th congressional district.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q96419280](https://www.wikidata.org/wiki/Q96419280) |
+| Description | American politician and educator (born 1976) |
+| Born | 1976-04-01 |
+| Website | [https://www.bowmanforcongress.com](https://www.bowmanforcongress.com) |
+| X/Twitter | [@JamaalBowmanNY](https://x.com/JamaalBowmanNY) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Jamaal_Bowman_117th_U.S_Congress.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamaal_Bowman) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q96419280) (Tier 2)
+<!-- auto:wikipedia end -->

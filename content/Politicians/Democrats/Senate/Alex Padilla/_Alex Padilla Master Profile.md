@@ -2,7 +2,7 @@
 title: "Alex Padilla"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,8 +12,16 @@ state-abbr: "CA"
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Voting Rights"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Emergency Management"
+  - "Energy"
+  - "Environmental Protection"
+  - "Health"
+  - "Housing and Community Development"
   - "Immigration"
+  - "International Affairs"
 total-received: "$1,908,371"
 fec-candidate-id: "S2CA00955"
 bioguide-id: "P000145"
@@ -32,7 +40,7 @@ internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: P000145. Previously cle
 
 [URL Check 2026-04-09] 11 checked: 9 ok, 1 broken, 1 slow. | BROKEN: Congress.gov: Alex Padilla | SLOW: Senate.gov: Padilla elected top Democrat on Rules and Administration Committee"
 related: "[[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Trump]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 committees:
   - "Joint Committee of Congress on the Library"
   - "Joint Committee on Printing"
@@ -41,6 +49,11 @@ committees:
   - "Senate Committee on Rules and Administration"
   - "Senate Committee on the Budget"
   - "Senate Committee on the Judiciary"
+total-raised: "$1,908,371"
+total-spent: "$2,184,375"
+cash-on-hand: "7177222.88"
+fec-cycle: 2028
+fec-debt: "225.58"
 ---
 #alex-padilla #democrat #california #senate #ranking-member #rules-committee #election-administration #voting-rights #immigration #daca #latino #secretary-of-state #mit #pacoima #phase-6-gavel-power
 
@@ -224,3 +237,62 @@ His immigration work adds a parallel track: as the first Latino to chair the Jud
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | CA |
+| Chamber | Senate |
+| Bills Sponsored | 518 |
+| Bills Cosponsored | 2027 |
+
+**Policy areas:** Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Emergency Management, Energy, Environmental Protection, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Native Americans, Public Lands and Natural Resources, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4271 | A bill to amend title 5, United States Code, to provide rest and recuperation le… | Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| 152 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on the Judiciary. |
+| — |  | — |
+| 4103 | Save Our Sequoias Act | Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S1056) |
+| 4075 | Pay FEMA Personnel Act of 2026 | Read twice and referred to the Committee on Appropriations. |
+| 4053 | A bill to take certain land in the State of California into trust for the benefi… | Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S1011) |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/P000145) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2028 |
+| Total Raised | $1,908,371 |
+| Total Spent | $2,184,375 |
+| Cash on Hand | 7177222.88 |
+| Debt | 225.58 |
+| Individual Contributions | $507,600 |
+| PAC Contributions | $320,555 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2028 | $1,908,371 | $2,184,375 | 7177222.88 |
+| 2022 | $12,026,093 | $4,572,867 | 7453226.66 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S2CA00955/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Alex Padilla](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

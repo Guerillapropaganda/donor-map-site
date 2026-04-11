@@ -2,7 +2,7 @@
 title: "Verizon"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -38,7 +38,7 @@ cpsc-recalls: 2
 nonprofit-status: "501(c)(3)"
 total-revenue: 5056273
 total-assets: 23768481
-related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Sinclair Broadcast Group]]"
+related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Sinclair Broadcast Group]] · [[Telecom Industry]]"
 lei: "549300P62FU7SYVYQG84"
 lei-jurisdiction: "FR"
 cross-vault-triangulation-count: 8

@@ -2,7 +2,7 @@
 title: "Barre Seid"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -14,7 +14,7 @@ annual-revenue: "$642K"
 net-assets: "$341K"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-11"
 total-revenue: 701289
 total-assets: 279469
 related: "[[Federalist Society]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Sentinel Action Fund]] · [[_Clarence Thomas Master Profile|Thomas]]"

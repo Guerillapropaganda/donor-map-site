@@ -226,3 +226,10 @@ Steil's election reform agenda â€” the "Make Elections Great Again" (MEGA) Act â
 
 - [Source: Congress.gov](https://www.congress.gov/member/S001213) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Bryan Steil](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

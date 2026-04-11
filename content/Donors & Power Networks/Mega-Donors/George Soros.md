@@ -2,7 +2,7 @@
 title: "George Soros"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -49,7 +49,7 @@ lei-jurisdiction: "KY"
 lei-parent: "Quantum Partners LP"
 lobbying-spend: 1515500
 lobbying-filings: 100
-related: "[[Harris-Newsom Donor Class Fracture]] · [[From Soros CIO to Trump Treasury - The Class Defection]] · [[The Biden Exit and Harris Installation]] · [[Wes Moore Master Profile]] · [[The Robin Hood Pipeline - From Hedge Fund Charity to Statehouse]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Center on Budget and Policy Priorities]] · [[Pod Save America]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]]"
+related: "[[Harris-Newsom Donor Class Fracture]] · [[From Soros CIO to Trump Treasury - The Class Defection]] · [[The Biden Exit and Harris Installation]] · [[Wes Moore Master Profile]] · [[The Robin Hood Pipeline - From Hedge Fund Charity to Statehouse]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Center on Budget and Policy Priorities]] · [[Pod Save America]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Donor Network]] · [[Democracy Alliance]]"
 cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -311,5 +311,5 @@ A secondary contradiction emerged sharply during the 2022-2024 period: Soros's [
 - [[Gavin Newsom]] — lobbying: $1.5M
 - [[Wes Moore]] — lobbying: $1.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "Centene Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -68,7 +68,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
-related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]] · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[_Joe Manchin Master Profile|Manchin]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]]"
+related: "[[Blue Cross Blue Shield Association]] · [[Jon Husted Master Profile]] · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[_Joe Manchin Master Profile|Manchin]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 top-federal-agency: "General Services Administration"
 top-naics-code: "624190"
 lei: "549300Z7JJ4TQSQGT333"
@@ -214,7 +214,7 @@ Centene's structural function in American healthcare is converting public health
 - [[Joe Manchin]] — lobbying: $10.6M
 - [[Jon Husted]] — lobbying: $10.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)

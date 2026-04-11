@@ -2,13 +2,13 @@
 title: "Council on Foreign Relations"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 category: centrist
 tax-status: 501c3
 court-cases: 777
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-11"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Massachusetts"
@@ -39,6 +39,18 @@ sec-form-types:
   - "EX-99.9"
   - "N-30D"
   - "SC 13D/A"
+federal-register-mentions: 47
+regulatory-agencies:
+  - "Centers for Medicare & Medicaid Services"
+  - "Employment and Training Administration"
+  - "Health and Human Services Department"
+  - "Homeland Security Department"
+  - "Labor Department"
+  - "National Highway Traffic Safety Administration"
+  - "Securities and Exchange Commission"
+  - "Transportation Department"
+  - "U.S. Citizenship and Immigration Services"
+  - "U.S. Immigration and Customs Enforcement"
 ---
 
 #think-tank #centrist #foreign-policy #defense #wall-street #revolving-door #idea-laundering #bipartisan-credibility-shield
@@ -324,3 +336,25 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Council%20on%20Foreign%20Relations%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 47 |
+| Final Rules | 12 |
+| Proposed Rules | 4 |
+| Notices | 31 |
+| Agencies | Centers for Medicare & Medicaid Services, Employment and Training Administration, Health and Human Services Department, Homeland Security Department, Labor Department, National Highway Traffic Safety Administration, Securities and Exchange Commission, Transportation Department +2 more |
+
+**Recent regulatory activity:**
+- [Termination of the Designation of Yemen for Temporary Protected Status](https://www.federalregister.gov/documents/2026/03/03/2026-04179/termination-of-the-designation-of-yemen-for-temporary-protected-status) (2026-03-03) — Homeland Security Department
+- [Employment Authorization Reform for Asylum Applicants](https://www.federalregister.gov/documents/2026/02/23/2026-03595/employment-authorization-reform-for-asylum-applicants) (2026-02-23) — Homeland Security Department ★
+- [Termination of the Designation of Somalia for Temporary Protected Status](https://www.federalregister.gov/documents/2026/01/14/2026-00596/termination-of-the-designation-of-somalia-for-temporary-protected-status) (2026-01-14) — Homeland Security Department
+- [Termination of Family Reunification Parole Processes for Colombians, Cubans, Ecuadorians, Guatemalans, Haitians, Hondurans, and Salvadorans](https://www.federalregister.gov/documents/2025/12/15/2025-22744/termination-of-family-reunification-parole-processes-for-colombians-cubans-ecuadorians-guatemalans) (2025-12-15) — Homeland Security Department
+- [Termination of the Designation of Syria for Temporary Protected Status](https://www.federalregister.gov/documents/2025/09/22/2025-18322/termination-of-the-designation-of-syria-for-temporary-protected-status) (2025-09-22) — Homeland Security Department
+- [Termination of the 2021 Designation of Venezuela for Temporary Protected Status](https://www.federalregister.gov/documents/2025/09/08/2025-17087/termination-of-the-2021-designation-of-venezuela-for-temporary-protected-status) (2025-09-08) — Homeland Security Department
+- ... and 41 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Council%20on%20Foreign%20Relations%22) (Tier 1)
+<!-- auto:federal-register end -->

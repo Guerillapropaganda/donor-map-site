@@ -2,7 +2,7 @@
 title: "Gulf State Money - Saudi Arabia, UAE, Qatar"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -12,7 +12,7 @@ politicians-funded:
   - "Jared Kushner"
   - "Benjamin Netanyahu"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-07"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -21,7 +21,7 @@ lobbying-spend: 918000
 lobbying-filings: 71
 lei: "894500LPEZD0PA4A6I95"
 lei-jurisdiction: "IN"
-related: "[[Haim Saban]] · [[Affinity Partners and the Saudi Pipeline]] · [[Abraham Accords as Business Development]] · [[666 Fifth Avenue and Financial Desperation]] · [[Steve Witkoff]] · [[Trump Donor Coalition]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Christians United for Israel]]"
+related: "[[Haim Saban]] · [[Affinity Partners and the Saudi Pipeline]] · [[Abraham Accords as Business Development]] · [[666 Fifth Avenue and Financial Desperation]] · [[Steve Witkoff]] · [[Trump Donor Coalition]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Christians United for Israel]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]]"
 cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -204,7 +204,7 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 - [[Jared Kushner]] — lobbying: $918K
 - [[Benjamin Netanyahu]] — lobbying: $918K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Corporate Structure (GLEIF)

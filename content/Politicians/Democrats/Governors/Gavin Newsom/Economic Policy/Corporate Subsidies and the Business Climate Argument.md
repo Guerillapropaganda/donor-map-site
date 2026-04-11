@@ -2,10 +2,10 @@
 title: "Corporate Subsidies and the Business Climate Argument"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Budget Priorities - What California Actually Funds]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]]"
+related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Budget Priorities - What California Actually Funds]] · [[Tax Policy - Who Pays and Who Doesnt]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
 ---
 #newsom #economic-policy #corporate-subsidies #tax-breaks #film-tax-credit #business-climate #class-analysis #california #follow-the-money #corporate-welfare
 

@@ -2,7 +2,7 @@
 title: "L3Harris Technologies"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -15,7 +15,7 @@ federal-awards-total: 5907320427
 federal-contracts-count: 25
 federal-grants-count: 2
 court-cases: 166
-last-enriched: "2026-04-06"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 court-jurisdictions:
@@ -59,13 +59,15 @@ subawards-received: 50
 subawards-received-amount: 9882497978
 top-federal-agency: "Department of Transportation"
 top-naics-code: "336413"
-related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Leidos]]"
+related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[Booz Allen Hamilton]] · [[Boeing Defense]]"
 lei: "549300UTE50ZMDBG8A20"
 lei-jurisdiction: "US-DE"
 cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+ftc-enforcement-actions: 0
+ftc-hsr-notices: 1
 ---
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #electronic-warfare #space #missiles #iran #golden-dome #surveillance #communications
 
@@ -394,6 +396,66 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($9.9B sampled) |
+| Subawards Received (as sub) | 50 ($9.9B sampled) |
+| Top Federal Agency | Department of Transportation ($3.3B) |
+| Primary NAICS Sector | Other Aircraft Parts and Auxiliary Equipment Manufacturing |
+
+**Subcontractors receiving federal money from L3Harris Technologies:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| L3HARRIS TECHNOLOGIES, INC. | $9.8B | 49 |
+| L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P. | $40.7M | 1 |
+
+**Prime contractors funneling federal money to L3Harris Technologies:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $5.6B | 10 |
+| LOCKHEED MARTIN CORPORATION | $3.8B | 32 |
+| SCIENCE APPLICATIONS INTERNATIONAL CORPORATION | $276.0M | 4 |
+| AMERICAN RHEINMETALL VEHICLES, LLC | $79.3M | 1 |
+| ASRC FEDERAL FACILITIES LOGISTICS, LLC | $45.7M | 1 |
+| HII MISSION TECHNOLOGIES CORP | $40.7M | 1 |
+| BAE SYSTEMS INFORMATION AND ELECTRONIC SYSTEMS INTEGRATION INC. | $39.6M | 1 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Transportation | $3.3B |
+| National Aeronautics and Space Administration | $1.6B |
+| Department of Commerce | $645.8M |
+| Department of Homeland Security | $223.1M |
+| General Services Administration | $220.7M |
+| Department of Energy | $77.3M |
+| Department of the Interior | $19.6M |
+| Department of Justice | $13.1M |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $7.9B |
+| Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $6.1B |
+| Engineering Services (541330) | $4.8B |
+| Other Communications Equipment Manufacturing (334290) | $3.8B |
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $3.1B |
+| Telecommunications Resellers (517310) | $3.0B |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $1.5B |
+| Aircraft Manufacturing (336411) | $1.4B |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
+
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
@@ -408,3 +470,19 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 0 |
+| HSR early termination notices (merger filings) | 1 |
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Leidos Holdings, Inc. → L3Harris Technologies, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200784) (2020-04-29)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3Harris%20Technologies).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3Harris%20Technologies) (Tier 1)
+<!-- auto:ftc-enforcement end -->

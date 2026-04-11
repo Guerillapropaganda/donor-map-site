@@ -2,7 +2,7 @@
 title: "Affordable Chicago Now PAC"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Donna Miller Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elect Chicago Women PAC]]"
+related: "[[Donna Miller Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elect Chicago Women PAC]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]]"
 cross-vault-triangulation-count: 2
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

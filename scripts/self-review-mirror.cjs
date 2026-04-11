@@ -131,24 +131,72 @@ function getAfterContent(filePath) {
 }
 
 /**
- * Get only the newly added lines for a staged file (content on `+` lines in a
- * zero-context diff). For brand-new files, this is effectively the whole body.
- * For modifications, this is ONLY what the current commit is introducing —
- * pre-existing em dashes from months ago are not flagged.
+ * Get only the newly added lines for a staged file that are in AUTHORED PROSE —
+ * not inside auto-blocks (API data) or blockquotes (quoted sources). Uses a
+ * full-context diff so auto-block open/close markers and blockquote state can
+ * be tracked even across unchanged lines.
+ *
+ * Returned string contains ONLY the `+` lines that are:
+ *   - outside `<!-- auto:X -->` ... `<!-- auto:X end -->` blocks
+ *   - outside blockquote lines (`> ...`)
+ *
+ * For brand-new files this is effectively the whole prose body.
+ * For modifications, this is ONLY what the current commit is introducing in
+ * authored prose — pre-existing content and new pipeline API data are exempt.
  */
 function getAddedLines(filePath) {
   try {
-    const out = execSync(`git diff --cached -U0 -- "${filePath}"`, {
+    // Full-context diff so we can track block state across unchanged lines
+    const out = execSync(`git diff --cached -U999999 -- "${filePath}"`, {
       cwd: REPO_ROOT,
       encoding: 'utf-8',
       stdio: ['ignore', 'pipe', 'ignore'],
+      maxBuffer: 10 * 1024 * 1024,
     });
     const added = [];
-    for (const line of out.split(/\r?\n/)) {
-      if (line.startsWith('+++')) continue;
-      if (line.startsWith('---')) continue;
-      if (line.startsWith('@@')) continue;
-      if (line.startsWith('+')) added.push(line.slice(1));
+    let inAutoBlock = false;
+    let inHunk = false;
+
+    for (const rawLine of out.split(/\r?\n/)) {
+      if (rawLine.startsWith('+++')) continue;
+      if (rawLine.startsWith('---')) continue;
+      if (rawLine.startsWith('diff --git')) continue;
+      if (rawLine.startsWith('index ')) continue;
+      if (rawLine.startsWith('new file') || rawLine.startsWith('deleted file')) continue;
+      if (rawLine.startsWith('@@')) { inHunk = true; continue; }
+      if (!inHunk) continue;
+
+      // Skip fully removed lines ('-') — they're gone from the file
+      if (rawLine.startsWith('-')) continue;
+
+      // Content line: either ' ' (context) or '+' (added)
+      const isAdded = rawLine.startsWith('+');
+      const content = rawLine.slice(1);
+
+      // Track auto-block state (considering BOTH context and added lines, so
+      // we can tell whether a new '+' line lands inside an existing block)
+      if (/<!--\s*auto:[\w-]+\s+start/.test(content) || /<!--\s*auto:[\w-]+\s+pending-merge/.test(content) || /<!--\s*auto:[\w-]+\s*-->/.test(content)) {
+        inAutoBlock = true;
+        // But if the same line also contains 'end', re-close immediately
+        if (/<!--\s*auto:[\w-]+\s*end/.test(content)) inAutoBlock = false;
+        continue;
+      }
+      if (/<!--\s*auto:[\w-]+\s*end/.test(content)) {
+        inAutoBlock = false;
+        continue;
+      }
+
+      if (!isAdded) continue;
+      if (inAutoBlock) continue;
+      if (/^\s*>/.test(content)) continue; // blockquote
+      // Bulleted wikilink data lines are structured enumerations, not prose.
+      // The pipeline often writes lines like:
+      //   - [[John Boozman]] (Agriculture, Appropriations) — lobbying: $5.0M
+      // The em dash there is a data annotation separator, not voice.
+      // Narrow exemption: bullet lines that contain a wikilink.
+      if (/^\s*[-*]\s.*\[\[/.test(content)) continue;
+
+      added.push(content);
     }
     return added.join('\n');
   } catch {
@@ -170,24 +218,72 @@ function splitFrontmatter(content) {
 }
 
 /**
- * Scan body for banned phrases. Returns array of {label, matches} per rule.
- * Blockquote lines (starting with `>`) are exempt — quoted source material
- * can use any language.
+ * Strip content that should be exempt from voice rules:
+ *   - Blockquotes (quoted source material)
+ *   - Auto-blocks (API data from pipelines)
+ *   - Wikilink bullet list lines (structured data enumerations)
+ * Returns the cleaned body for scanning.
  */
-function scanBannedPhrases(body) {
-  const safeBody = body
-    .split(/\r?\n/)
-    .filter((line) => !/^\s*>/.test(line))
-    .join('\n');
-  const findings = [];
+function stripExemptContent(body) {
+  const lines = body.split(/\r?\n/);
+  const out = [];
+  let inAutoBlock = false;
+  for (const line of lines) {
+    // Auto-block tracking
+    if (/<!--\s*auto:[\w-]+\s+start/.test(line) ||
+        /<!--\s*auto:[\w-]+\s+pending-merge/.test(line) ||
+        /<!--\s*auto:[\w-]+\s*-->/.test(line)) {
+      inAutoBlock = true;
+      if (/<!--\s*auto:[\w-]+\s*end/.test(line)) inAutoBlock = false;
+      continue;
+    }
+    if (/<!--\s*auto:[\w-]+\s*end/.test(line)) {
+      inAutoBlock = false;
+      continue;
+    }
+    if (inAutoBlock) continue;
+    if (/^\s*>/.test(line)) continue; // blockquote
+    if (/^\s*[-*]\s.*\[\[/.test(line)) continue; // wikilink bullet list
+    if (/^#{1,6}\s/.test(line)) continue; // headings are labels, not prose
+    out.push(line);
+  }
+  return out.join('\n');
+}
+
+/**
+ * Count banned phrases per rule in authored prose content (exempt content
+ * already stripped). Returns a map of {label → {count, sample}}.
+ */
+function countBannedPhrases(cleanBody) {
+  const counts = {};
   for (let i = 0; i < BANNED_PHRASES.length; i++) {
     const re = BANNED_PHRASES[i];
-    const matches = safeBody.match(re);
+    const matches = cleanBody.match(re);
     if (matches && matches.length > 0) {
+      counts[BANNED_LABELS[i]] = { count: matches.length, sample: matches[0] };
+    }
+  }
+  return counts;
+}
+
+/**
+ * Find NET NEW banned phrase violations by comparing before and after.
+ * A pipeline that changes "990 Filing — 2018" to "990 Filing — 2019" changes
+ * the whole line but introduces zero new em dashes — count stays the same,
+ * so nothing is flagged. Only genuinely new violations are reported.
+ */
+function netNewBannedPhrases(beforeBody, afterBody) {
+  const beforeCounts = countBannedPhrases(stripExemptContent(beforeBody || ''));
+  const afterCounts = countBannedPhrases(stripExemptContent(afterBody || ''));
+  const findings = [];
+  for (const label of Object.keys(afterCounts)) {
+    const beforeCount = (beforeCounts[label] && beforeCounts[label].count) || 0;
+    const afterCount = afterCounts[label].count;
+    if (afterCount > beforeCount) {
       findings.push({
-        label: BANNED_LABELS[i],
-        count: matches.length,
-        sample: matches[0],
+        label,
+        count: afterCount - beforeCount,
+        sample: afterCounts[label].sample,
       });
     }
   }
@@ -195,20 +291,35 @@ function scanBannedPhrases(body) {
 }
 
 /**
- * Check if defamation-prone words appear outside blockquotes without a
- * legal-review-result: pass frontmatter.
+ * Count defamation-prone word occurrences in authored prose (exempt content
+ * already stripped).
  */
-function scanDefamation(data, body) {
-  if (data['legal-review-result'] === 'pass') return [];
-  const lines = body.split(/\r?\n/);
+function countDefamationHits(cleanBody) {
+  const lines = cleanBody.split(/\r?\n/);
   const hits = [];
   for (const line of lines) {
-    if (/^\s*>/.test(line)) continue; // blockquote exempt
     if (DEFAMATION_WORDS.test(line)) {
       hits.push(line.trim().slice(0, 200));
     }
   }
   return hits;
+}
+
+/**
+ * Net-new defamation detection: only flag occurrences the current commit
+ * actually introduces. A pipeline rewording an existing line with the word
+ * "fraud" in it (e.g. updating a case docket number) doesn't count as new.
+ */
+function netNewDefamation(data, beforeBody, afterBody) {
+  if (data['legal-review-result'] === 'pass') return [];
+  const beforeHits = countDefamationHits(stripExemptContent(beforeBody || ''));
+  const afterHits = countDefamationHits(stripExemptContent(afterBody || ''));
+  const net = afterHits.length - beforeHits.length;
+  if (net <= 0) return [];
+  // Find likely new hits — anything in afterHits not in beforeHits
+  const beforeSet = new Set(beforeHits);
+  const genuinelyNew = afterHits.filter((h) => !beforeSet.has(h));
+  return genuinelyNew.length > 0 ? genuinelyNew.slice(0, net) : afterHits.slice(-net);
 }
 
 /**
@@ -271,21 +382,35 @@ function main() {
     if (filePath.includes('/Admin Notes/')) continue;
     // Skip non-profile content
     if (!after.data || !after.data.title) continue;
+    // Skip system / log / reference files AND ingest types — they're
+    // bot-written metadata or external news content, not editorial profiles.
+    // Voice rules apply to profile prose only.
+    const nonProfileTypes = new Set([
+      'reference', 'system', 'methodology', 'index', 'page', 'digest',
+      'daily-update', 'event', 'sub-note',
+    ]);
+    if (nonProfileTypes.has(after.data.type)) continue;
 
-    // Get ONLY the newly added lines for this file — pre-existing violations
-    // from months ago do not block the commit. Only what this commit adds.
-    const addedLines = getAddedLines(filePath);
+    // Read the HEAD version of the file for net-new comparison. New files
+    // get an empty before body, which means every violation counts as new.
+    const beforeContent = getBeforeContent(filePath);
+    const before = beforeContent
+      ? splitFrontmatter(beforeContent)
+      : { data: {}, body: '' };
 
-    // Rule 1-2: banned phrases (ADDED CONTENT ONLY)
-    const banned = scanBannedPhrases(addedLines);
+    // Rule 1-2: banned phrases — NET NEW only.
+    // Pipeline-rewriting a line that already had an em dash (e.g. year bump)
+    // does not count. Auto-blocks and blockquotes and wikilink bullet lists
+    // are stripped from both before and after before counting.
+    const banned = netNewBannedPhrases(before.body, after.body);
     for (const b of banned) {
       reasons.push(
         `introduces banned language: ${b.label} (${b.count} new occurrence${b.count > 1 ? 's' : ''}, first: "${b.sample}")`
       );
     }
 
-    // Rule 3: defamation check (ADDED CONTENT ONLY)
-    const defamation = scanDefamation(after.data, addedLines);
+    // Rule 3: defamation — NET NEW only.
+    const defamation = netNewDefamation(after.data, before.body, after.body);
     if (defamation.length > 0) {
       reasons.push(
         `${defamation.length} new defamation-prone phrase${defamation.length > 1 ? 's' : ''} outside blockquotes without legal-review-result: pass — first: "${defamation[0].slice(0, 80)}"`
@@ -293,13 +418,9 @@ function main() {
     }
 
     // Rule 4-6: regressions on verified profiles
-    const beforeContent = getBeforeContent(filePath);
-    if (beforeContent) {
-      const before = splitFrontmatter(beforeContent);
-      if (!before.yamlError) {
-        const regressions = detectRegressions(before, after);
-        reasons.push(...regressions);
-      }
+    if (beforeContent && !before.yamlError) {
+      const regressions = detectRegressions(before, after);
+      reasons.push(...regressions);
     }
 
     if (reasons.length > 0) {
