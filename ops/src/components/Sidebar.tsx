@@ -20,7 +20,8 @@ const NAV_ITEMS = [
   { href: "/calendar", label: "Calendar", icon: "calendar" },
   { href: "/alerts", label: "Alerts", icon: "bell" },
   { href: "/distribution", label: "Distribution", icon: "share" },
-  { href: "/rules", label: "Rules", icon: "book" },
+  { href: "/rules", label: "Rulebook", icon: "target" },
+  { href: "/docs", label: "System Docs", icon: "book" },
   { href: "/scripts", label: "Scripts", icon: "terminal" },
 ]
 
