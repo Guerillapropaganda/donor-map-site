@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useMemo, useRef } from "react"
+import { useState, useMemo, useRef, useEffect } from "react"
 import { useRouter } from "next/navigation"
 import type { Profile } from "@/lib/vault"
 import { readinessColor, typeColor, profileNeeds } from "@/lib/vault"
@@ -10,6 +10,22 @@ interface VaultGridProps {
   loading: boolean
   onSelect: (profile: Profile) => void
   selectedPath: string | null
+}
+
+// Map a flat vault type value (e.g. "corporation", "senator") to its top-level
+// rulebook type (e.g. "entity", "politician"). Populated from /api/rulebook on
+// mount so client-side S-Tier eligibility checks don't have to walk the rulebook.
+function flatToTopLevel(
+  flat: string,
+  rulebookTypes: Record<string, { "sub-categories"?: Record<string, unknown> }>,
+): string | null {
+  if (!flat) return null
+  if (rulebookTypes[flat]) return flat
+  for (const [topName, topEntry] of Object.entries(rulebookTypes)) {
+    const subs = topEntry["sub-categories"] || {}
+    if (flat in subs) return topName
+  }
+  return null
 }
 
 const TYPE_LABELS: Record<string, string> = {
@@ -24,7 +40,8 @@ const TYPE_LABELS: Record<string, string> = {
   event: "Events",
 }
 
-const READINESS_LABELS = ["raw", "draft", "ready", "verified"]
+// Ordered by tier height. Index used as the sort key — higher index = better.
+const READINESS_LABELS = ["raw", "draft", "ready", "verified", "s-tier"]
 
 export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGridProps) {
   const [search, setSearch] = useState("")
@@ -32,8 +49,52 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
   const [readinessFilter, setReadinessFilter] = useState<string>("all")
   const [sortBy, setSortBy] = useState<"name" | "readiness" | "updated" | "completeness" | "stale">("name")
   const [letterFilter, setLetterFilter] = useState<string>("all")
+  const [sTierEligibleTopLevels, setSTierEligibleTopLevels] = useState<Set<string>>(new Set())
+  const [flatToTopLevelMap, setFlatToTopLevelMap] = useState<Record<string, string>>({})
   const gridRef = useRef<HTMLDivElement>(null)
   const router = useRouter()
+
+  // Fetch the rulebook once and derive which TOP-LEVEL types have a non-null
+  // s-tier promotion gate. A top-level type is "s-tier eligible" when its
+  // base-rulebook.promotion-gate.s-tier is present and not "none". Consumers
+  // use this to grey out the S-Tier filter when an ineligible type filter
+  // is active, and to omit ineligible profiles from s-tier counts.
+  useEffect(() => {
+    let cancelled = false
+    fetch("/api/rulebook")
+      .then((r) => r.json())
+      .then((data) => {
+        if (cancelled) return
+        const types = (data?.rulebook?.types || {}) as Record<
+          string,
+          {
+            "base-rulebook"?: { "promotion-gate"?: { "s-tier"?: string } }
+            "sub-categories"?: Record<string, unknown>
+          }
+        >
+        const eligible = new Set<string>()
+        const flatMap: Record<string, string> = {}
+        for (const [topName, topEntry] of Object.entries(types)) {
+          const gate = topEntry["base-rulebook"]?.["promotion-gate"]?.["s-tier"]
+          if (gate && gate !== "none") eligible.add(topName)
+          flatMap[topName] = topName
+          const subs = topEntry["sub-categories"] || {}
+          for (const sub of Object.keys(subs)) {
+            flatMap[sub] = topName
+          }
+        }
+        setSTierEligibleTopLevels(eligible)
+        setFlatToTopLevelMap(flatMap)
+      })
+      .catch(() => {
+        // Rulebook unreachable — fail open: treat all types as eligible.
+        // The filter still works; we just can't grey out ineligible ones.
+        setSTierEligibleTopLevels(new Set())
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [])
 
   const types = useMemo(() => {
     const t = new Set(profiles.map((p) => p.type))
@@ -95,6 +156,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
         // Score: higher = closer to A+. Verified at top, then by source types + completeness + enrichment
         const scoreProfile = (p: typeof a) => {
           let s = 0
+          if (p.contentReadiness === "s-tier") s += 2000
           if (p.contentReadiness === "verified") s += 1000
           if (p.contentReadiness === "ready") s += 500
           if (p.contentReadiness === "draft") s += 100
@@ -178,21 +240,53 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
         <span className="text-[9px] text-[var(--color-text-dim)] uppercase tracking-wider flex-shrink-0">Grade:</span>
         {[
           { value: "all", label: "All", grade: "", color: "#7a7a86" },
+          { value: "s-tier", label: "S-Tier", grade: "S", color: "#a78bfa" },
           { value: "verified", label: "Verified", grade: "A+", color: "#fbbf24" },
           { value: "ready", label: "Ready", grade: "B", color: "#10b981" },
           { value: "draft", label: "Draft", grade: "C", color: "#f59e0b" },
           { value: "raw", label: "Raw", grade: "D-F", color: "#6b7280" },
         ].map((r) => {
-          const count = r.value === "all" ? profiles.length : profiles.filter(p => p.contentReadiness === r.value).length
+          // Count only profiles that match this tier AND, for s-tier, only
+          // types that are actually s-tier eligible per the rulebook.
+          let count: number
+          if (r.value === "all") {
+            count = profiles.length
+          } else if (r.value === "s-tier" && sTierEligibleTopLevels.size > 0) {
+            count = profiles.filter((p) => {
+              if (p.contentReadiness !== "s-tier") return false
+              const topLevel = flatToTopLevelMap[p.type] || p.type
+              return sTierEligibleTopLevels.has(topLevel)
+            }).length
+          } else {
+            count = profiles.filter((p) => p.contentReadiness === r.value).length
+          }
           const isActive = readinessFilter === r.value
+          // Grey out S-Tier when a type filter is active AND that type is
+          // not s-tier eligible. Clicking it still works (shows zero), but
+          // the visual hint is there.
+          let disabledBySTierRule = false
+          if (
+            r.value === "s-tier" &&
+            typeFilter !== "all" &&
+            sTierEligibleTopLevels.size > 0
+          ) {
+            const topLevel = flatToTopLevelMap[typeFilter] || typeFilter
+            if (!sTierEligibleTopLevels.has(topLevel)) disabledBySTierRule = true
+          }
           return (
-            <button key={r.value} onClick={() => setReadinessFilter(r.value)}
-              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[10px] font-bold transition-all flex-shrink-0 ${isActive ? "" : "opacity-70 hover:opacity-100"}`}
+            <button
+              key={r.value}
+              onClick={() => setReadinessFilter(r.value)}
+              title={disabledBySTierRule ? `${typeFilter} is not S-Tier eligible per the rulebook` : undefined}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-[10px] font-bold transition-all flex-shrink-0 ${
+                isActive ? "" : "opacity-70 hover:opacity-100"
+              } ${disabledBySTierRule ? "opacity-30 hover:opacity-40" : ""}`}
               style={{
                 color: r.color,
                 backgroundColor: isActive ? `${r.color}20` : `${r.color}08`,
                 border: `1px solid ${isActive ? `${r.color}50` : "transparent"}`,
-              }}>
+              }}
+            >
               {r.grade && <span className="text-[8px]">{r.grade}</span>}
               <span>{r.label}</span>
               <span className="text-[8px] opacity-60">{count}</span>
@@ -247,6 +341,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
       {/* Legend */}
       <div className="flex flex-wrap items-center gap-x-4 gap-y-1 mb-3 text-[9px]">
         <span className="text-[var(--color-text-dim)] uppercase tracking-wider font-bold">Legend:</span>
+        <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full" style={{background:"#a78bfa", boxShadow:"0 0 4px rgba(167,139,250,0.5)"}} />S Original Investigation</span>
         <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full" style={{background:"#fbbf24", boxShadow:"0 0 4px rgba(251,191,36,0.5)"}} />A+ Verified</span>
         <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full" style={{background:"#10b981"}} />B Ready</span>
         <span className="flex items-center gap-1"><span className="w-2 h-2 rounded-full" style={{background:"#f59e0b"}} />C Draft</span>
@@ -363,7 +458,7 @@ export function VaultGrid({ profiles, loading, onSelect, selectedPath }: VaultGr
                 className="h-full rounded-full transition-all"
                 style={{
                   backgroundColor: readinessColor(profile.contentReadiness),
-                  width: `${({ raw: 10, draft: 35, ready: 65, verified: 100 }[profile.contentReadiness] || 10)}%`,
+                  width: `${({ raw: 10, draft: 30, ready: 55, verified: 80, "s-tier": 100 }[profile.contentReadiness] || 10)}%`,
                 }}
               />
             </div>
