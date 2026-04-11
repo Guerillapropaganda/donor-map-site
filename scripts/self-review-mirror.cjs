@@ -49,6 +49,25 @@ const yaml = require('js-yaml');
 const REPO_ROOT = path.resolve(__dirname, '..');
 const ALLOW_REGRESSION = process.env.ALLOW_REGRESSION === '1';
 
+// Phase 2a Part 2 wiring: read type-scan flags from the rulebook instead of
+// hardcoding a nonProfileTypes set. Falls back to a safe hardcoded list if
+// the rulebook can't be loaded (e.g., during early bootstrap or if the file
+// is temporarily broken) so the pre-commit gate never breaks the commit path
+// on a config issue.
+let isVoiceScanned;
+try {
+  const rulebook = require('./lib/profile-type-rulebook.cjs');
+  isVoiceScanned = rulebook.isVoiceScanned;
+} catch (e) {
+  // Fallback: previous hardcoded behavior. Kept for safety — if the rulebook
+  // file is missing or corrupted we want the gate to still work, not crash.
+  const FALLBACK_EXEMPT = new Set([
+    'reference', 'system', 'methodology', 'index', 'page', 'digest',
+    'daily-update', 'event', 'sub-note',
+  ]);
+  isVoiceScanned = (type) => !FALLBACK_EXEMPT.has(type);
+}
+
 // Hard rules — these are the editorial floor for the whole vault.
 const BANNED_PHRASES = [
   /—/g,  // em dash
@@ -382,14 +401,13 @@ function main() {
     if (filePath.includes('/Admin Notes/')) continue;
     // Skip non-profile content
     if (!after.data || !after.data.title) continue;
-    // Skip system / log / reference files AND ingest types — they're
-    // bot-written metadata or external news content, not editorial profiles.
-    // Voice rules apply to profile prose only.
-    const nonProfileTypes = new Set([
-      'reference', 'system', 'methodology', 'index', 'page', 'digest',
-      'daily-update', 'event', 'sub-note',
-    ]);
-    if (nonProfileTypes.has(after.data.type)) continue;
+    // Skip types the rulebook says aren't voice-scanned. This replaces a
+    // hardcoded nonProfileTypes Set with a read from
+    // config/profile-type-rulebook.json. Types currently exempt: event, meta.
+    // Any legacy non-editorial types (reference, system, methodology, index,
+    // page, digest, daily-update, sub-note) are captured by the rulebook's
+    // meta sub-category list and return false from isVoiceScanned.
+    if (!isVoiceScanned(after.data.type)) continue;
 
     // Read the HEAD version of the file for net-new comparison. New files
     // get an empty before body, which means every violation counts as new.

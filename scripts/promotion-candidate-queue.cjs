@@ -26,67 +26,74 @@ const path = require('path');
 const { walkDir, parseFrontmatter } = require('./lib/shared.cjs');
 const { addEntries, clearSource } = require('./lib/attention-queue.cjs');
 const { getRejectedPatterns } = require('./lib/false-positive-log.cjs');
+const {
+  resolveChecks,
+  getPromotionGate,
+  resolveTopLevelType,
+} = require('./lib/profile-type-rulebook.cjs');
+const { runCheck } = require('./lib/checklist-helpers.cjs');
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const SOURCE_NAME = 'promotion-candidate-queue';
 
+// Per-check effort estimates (minutes). Unknown checks default to 5 min.
+// These are editorial time estimates, not pipeline time estimates.
+const EFFORT_BY_CHECK = {
+  'class-analysis-heading': 15,
+  'central-thesis-present': 5,
+  'legal-review-if-defamation': 5,
+  'tier1-source-count-gte-3': 10,
+  'tier1-source-count-gte-2': 7,
+  'story-grade-set': 2,
+  'editorial-signoff-present': 3,
+  'audit-a-plus-passed-stamp': 2,
+  'last-enriched-within-90-days': 1,
+  'last-enriched-within-180-days': 1,
+};
+
 function assessProfile(data, body) {
+  // If the janitor already stamped audit-a-plus-passed AND we're just waiting
+  // on editorial sign-off, this is the cheapest path to A+. Report that
+  // specifically so the UI can surface "ready for your review" items.
+  if (data['audit-a-plus-passed'] && data['last-verified-by'] !== 'editorial') {
+    return {
+      missing: [`David's sign-off (janitor stamped ${data['audit-a-plus-passed']})`],
+      effort: 2,
+      signoffOnly: true,
+    };
+  }
+
+  // Otherwise, consult the rulebook for this profile's type + category.
+  // Use the top-level type so flat values like "corporation" (a sub-category
+  // of entity) resolve correctly. resolveChecks applies sub-category
+  // overrides (adds/removes/replaces) so e.g. a president's rulebook adds
+  // executive-orders-documented and removes voting-record, while a media
+  // figure uses tier1-source-count-gte-2.
+  const topLevel = resolveTopLevelType(data.type) || data.type;
+  // If the flat type IS a sub-category (e.g. corporation → entity), pass
+  // the flat type as the category so its overrides apply.
+  let category;
+  if (topLevel !== data.type) {
+    category = data.type; // flat type is the sub-category
+  } else {
+    category = Array.isArray(data.category) ? data.category[0] : data.category;
+  }
+  const resolved = resolveChecks(topLevel, category, 'verified');
+
   const missing = [];
   let totalEffortMin = 0;
-
-  // Pipeline data present?
-  const hasFec = /^fec-(candidate|committee)-id:/m.test(body) ? false : !!data['fec-candidate-id'] || !!data['fec-committee-id'];
-  const hasSourceTypes3Plus = Array.isArray(data['source-types']) && data['source-types'].length >= 3;
-  if (!hasSourceTypes3Plus) {
-    missing.push(`needs 3+ Tier 1 source types (has ${(data['source-types'] || []).length})`);
-    totalEffortMin += 10;
-  }
-
-  // Narrative required fields
-  if (!data['central-thesis']) {
-    missing.push('no central-thesis field');
-    totalEffortMin += 5;
-  }
-  if (!data['story-grade']) {
-    missing.push('no story-grade field');
-    totalEffortMin += 2;
-  }
-
-  // Class analysis section
-  const hasClassAnalysis = /^##\s+Class Analysis/m.test(body);
-  if (!hasClassAnalysis) {
-    missing.push('no ## Class Analysis section');
-    totalEffortMin += 15;
-  }
-
-  // Legal review
-  if (!data['legal-review-result'] || data['legal-review-result'] !== 'pass') {
-    // Check if body has any defamation-prone words outside blockquotes
-    const lines = body.split(/\r?\n/);
-    let hasRiskyWord = false;
-    for (const line of lines) {
-      if (/^\s*>/.test(line)) continue;
-      if (/\b(fraud|criminal|corrupt|scheme|conspired|bribed|embezzled|kickback)\b/i.test(line)) {
-        hasRiskyWord = true;
-        break;
-      }
-    }
-    if (hasRiskyWord) {
-      missing.push('legal review needed (risky language present)');
-      totalEffortMin += 5;
-    }
-  }
-
-  // Editorial sign-off
-  if (data['last-verified-by'] !== 'editorial') {
-    missing.push("David's sign-off");
-    totalEffortMin += 3;
-  }
-
-  // Bonus: janitor already stamped it? Reduce the effort estimate
-  if (data['audit-a-plus-passed'] && data['last-verified-by'] !== 'editorial') {
-    // Only waiting on sign-off — the janitor already validated everything else
-    return { missing: [`David's sign-off (janitor stamped ${data['audit-a-plus-passed']})`], effort: 2, signoffOnly: true };
+  for (const checkId of resolved.required) {
+    const result = runCheck(checkId, data, body, {
+      type: topLevel,
+      category,
+      tier: 'verified',
+    });
+    if (result.passed || result.na) continue;
+    // Skip reasons from stubbed checks — they always pass so they won't
+    // reach here, but be defensive.
+    if (result.reason && result.reason.startsWith('[stub:')) continue;
+    missing.push(`${checkId}: ${result.reason || 'failed'}`);
+    totalEffortMin += EFFORT_BY_CHECK[checkId] || 5;
   }
 
   return { missing, effort: totalEffortMin, signoffOnly: false };
@@ -105,9 +112,15 @@ function main() {
 
     // Only look at ready profiles
     if (data['content-readiness'] !== 'ready') continue;
-    // Skip non-editorial types
-    const skipTypes = ['admin-note', 'sub-note', 'story', 'event', 'daily-update', 'digest', 'reference', 'methodology', 'system', 'page', 'index'];
-    if (skipTypes.includes(data.type)) continue;
+    // Skip types whose verified promotion gate is "none" in the rulebook
+    // (event, meta and all meta sub-categories). They don't promote.
+    // Note: `story` IS promotable now — stories have a verified tier.
+    // resolveTopLevelType handles flat type values like "corporation"
+    // which are sub-categories of the top-level `entity` type.
+    const topLevel = resolveTopLevelType(data.type);
+    if (!topLevel) continue; // unknown type, skip
+    const verifiedGate = getPromotionGate(topLevel, 'verified');
+    if (verifiedGate === 'none' || verifiedGate === null) continue;
 
     const { missing, effort, signoffOnly } = assessProfile(data, body);
     const patternKey = `${data.title}:promo`;

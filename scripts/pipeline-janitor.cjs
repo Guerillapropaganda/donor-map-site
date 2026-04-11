@@ -48,6 +48,36 @@ const {
   detectBothSidesEntities,
 } = require('./lib/checklist-helpers.cjs');
 const { getRequiredPipelinesForCommittees, getRequirementReasons } = require('./lib/committee-pipeline-map.cjs');
+// Phase 2a Part 2 wiring: consult the rulebook for which types are
+// exempt from federal-pipeline audits. Only the rulebook-knowable
+// exemptions are pulled here; the legacy state-politician /
+// local-politician exemptions are preserved inline because they're about
+// federal-pipeline scope, not top-level scan eligibility.
+let rulebookExemptTypes = new Set();
+try {
+  const rb = require('./lib/profile-type-rulebook.cjs');
+  for (const t of rb.listAllTypes()) {
+    const entry = rb.getTypeRulebook(t);
+    // Types whose verified promotion gate is "none" never get federal
+    // audit coverage (event, meta, their sub-categories).
+    const gate = entry['base-rulebook']?.['promotion-gate']?.verified;
+    if (gate === 'none') {
+      rulebookExemptTypes.add(t);
+      for (const sub of Object.keys(entry['sub-categories'] || {})) {
+        rulebookExemptTypes.add(sub);
+      }
+    }
+  }
+  // Story type is promotable but does NOT use federal pipeline blocks —
+  // it's editorial narrative content. Keep it exempt from federal audits.
+  rulebookExemptTypes.add('story');
+  const storyEntry = rb.getTypeRulebook('story');
+  for (const sub of Object.keys(storyEntry['sub-categories'] || {})) {
+    rulebookExemptTypes.add(sub);
+  }
+} catch (e) {
+  // Rulebook unavailable — fall through to the legacy hardcoded set.
+}
 
 // ─── Config ────────────────────────────────────────────────────
 
@@ -67,21 +97,27 @@ const RUN_A_PLUS_AUDIT = TIER_FILTER === 'a-plus' || TIER_FILTER === 's';
 const RUN_COHORT_CHECKS = process.argv.includes('--cohort');
 
 // Types that don't require federal pipeline enrichment — never audit these
-// for missing Congress.gov / GovTrack / Committee auto-blocks. A media figure
-// who was once a politician is still rare enough to handle manually via the
-// N/A buttons in the Ops app.
+// for missing Congress.gov / GovTrack / Committee auto-blocks.
 //
-// state-politician and local-politician are exempt because the federal
-// pipelines (Congress.gov, GovTrack, Committee) legitimately don't apply to
-// state governors, state legislators, mayors, etc. They may still have
-// fec-candidate-id if they've filed for federal office — that's fine, FEC
-// pipeline runs on them normally. See Vault Rules § "Politician type
-// taxonomy" for the full three-tier rule (added 2026-04-11).
+// Two sources:
+//   1. The rulebook (via rulebookExemptTypes above) contributes all types
+//      whose verified promotion gate is "none" (event + meta + meta
+//      sub-categories) plus story + story sub-categories (editorial
+//      narrative content doesn't use federal pipelines).
+//   2. Legacy hardcoded exemptions below for types the rulebook can't yet
+//      distinguish: state-politician and local-politician (federal
+//      pipelines legitimately don't apply), media-profile and think-tank
+//      (these used to be top-level types before the media/entity taxonomy
+//      lock — kept for backward compat until migration).
+//
+// The federal-pipeline-specific exemptions live here rather than in the
+// rulebook because they're about pipeline scope, not about whether the
+// type is promotable at all.
 const EXEMPT_TYPES = new Set([
-  'media-profile', 'think-tank', 'story', 'event', 'sub-note',
-  'daily-update', 'reference', 'methodology', 'system', 'page',
-  'index', 'digest', 'admin-note',
+  'media-profile', 'think-tank',
   'state-politician', 'local-politician',
+  'system', // legacy type value used by some early vault metadata files
+  ...rulebookExemptTypes,
 ]);
 
 // Expected pipeline auto-blocks by profile type.
