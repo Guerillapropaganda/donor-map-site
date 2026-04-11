@@ -56,30 +56,90 @@ Every factual claim in the vault must cite a government record. Articles provide
 
 ## 2. Content Readiness (Investigative Journalism Standards)
 
-4-tier grading system modeled on newsroom fact-check standards. Every tier reflects actual data quality, not just completeness.
+**5-tier grading system** modeled on newsroom fact-check standards. Every tier reflects actual data quality, not just completeness. The NEW S-tier (above A+) is reserved for profiles with genuine original investigative findings — the "no one else has seen this" layer.
 
 | Grade | Status | What it means | Who promotes |
 |-------|--------|--------------|-------------|
 | D-F | `raw` | Stub — needs everything | Auto-created |
 | C | `draft` | Content under active development. **Any missing pipeline data, any blocking known-gap, any "needs fresh pipeline run" note = draft, not ready.** | Pipeline or Research Claude |
 | B | `ready` | **99% done. Only David's verified sign-off remains.** All pipeline data populated and clean. All expected auto-blocks present for the profile type. 2+ Tier 1 source types corroborating. Class analysis written. No unresolved contradictions. `known-gaps` contains only non-blocking items (e.g., pre-Congress bio detail). | Pipeline or Research Claude (both must enforce the gate) |
-| A+ | `verified` | Gold standard. Everything required for `ready` PLUS editorial sign-off. `last-verified-by: editorial`. | Editorial sign-off required (pipeline CANNOT auto-promote) |
+| A+ | `verified` | **Investigative floor.** Everything in `ready` PLUS all four A+ sub-tiers (A/B/C/D below). **Only David signs off.** No pipeline auto-promotion. | Editorial sign-off required (pipeline CANNOT auto-promote) |
+| **S** | **`s-tier`** | **Original-finding standard.** Everything in `verified` PLUS `angle:` field populated + 3+ "damning" exclusive-connections + original-finding + TWO sign-offs (janitor automated + David manual). Gate for homepage features (Weekly Spotlight, Power Rankings hero, Landing featured cards). | Janitor `audit-s-tier-passed: true` AND David `editorial-signoff-narrative` — **both required**, neither alone sufficient. |
 
-**Promotion rules:**
+### § 2a — A+ (verified) sub-tier requirements
+
+For a profile to be promoted `ready → verified (A+)`, ALL four sub-tiers below must pass. The janitor automates most of this via a new `--tier=a-plus` audit mode; the stamped field is `audit-a-plus-passed: YYYY-MM-DD`.
+
+**Tier A — Data Breadth** (raised floor from "2+ Tier 1" to real cross-referencing)
+- **3+ Tier 1 source types** (raised from 2 — 2 is the draft-to-ready floor, 3 is the verified floor)
+- **Committee-relevant regulatory cross-ref** — conditional on committee assignment, automated via `scripts/lib/committee-pipeline-map.cjs`:
+  - Banking / Financial Services → OCC + SEC EDGAR required
+  - HELP / Agriculture → FDA required
+  - Judiciary → CourtListener + DOJ Press required
+  - Intelligence / Foreign Affairs → FARA + OpenSanctions required
+  - Armed Services → USASpending contracts required
+  - Commerce → FTC required
+  - Energy → Federal Register EPA rulemaking required
+- **Financial disclosure block** — stock trades + `board-seats` field. N/A-able if the politician isn't in Congress.
+- **Nonprofit ties** — IRS 990 via ProPublica Nonprofit for any politician with affiliated foundations. N/A-able.
+- **Foreign angle** — FARA + OpenSanctions check. N/A-able if clean.
+- **Legal angle** — CourtListener check. N/A-able if clean.
+
+**Tier B — Investigation Depth** (the layer that distinguishes this from OpenSecrets)
+- **Donation-to-Policy Timeline table present** in body — not just a donor list, a structured table: date of donation → bill or vote → policy outcome → beneficiary.
+- **1+ contradiction callout with dollar figures** — `> [!contradiction]` or `> [!money]` callout documenting a specific "said X, voted Y, received $Z" pattern.
+- **Cross-network 4-hop chain** — at least one chain like "donor → committee → policy → beneficiary." Could be a `## The Chain` heading or a structured sub-section.
+- **Revolving door / family network check** — spouse employer, chief-of-staff destinations, pre-Congress career mapped. If clean, say so explicitly. If there's a hit, document it.
+- **Dark money chain traced** — every politician has some dark-money intake if you look hard enough. Required outcome: "traced — result: [found chain X / clean / inconclusive]."
+
+**Tier C — Narrative Quality** (the editorial layer)
+- **`central-thesis:` frontmatter field** populated — one sentence answering "what is this profile saying?"
+- **Core contradiction callout** present in body (`> [!contradiction]`)
+- **`## Class Analysis` section** present (already mandatory per ANALYTICAL RULE 1 below)
+- **3+ top claims extracted as sub-notes** — each with independent Tier 1 sourcing. The story lives in the sub-notes.
+- **`story-grade:` frontmatter field** assigned — `story` (1-4 URLs) / `report` (5-9) / `investigation` (10+, 3+ Tier 1)
+- **Automated legal-review pass** — janitor greps body for defamation-prone words (fraud/criminal/corrupt/scheme/conspired/bribed/embezzled/kickback). Each hit must either be inside a blockquote (primary source quote) OR profile must have `legal-review-date:` + `legal-review-result: pass` frontmatter.
+- **`lawyer-dispute:` field or `## Legal Exposure` section** — one explicit paragraph answering "what would the subject's lawyer fight us on, and how do we respond?"
+
+**Tier D — Uniqueness (automated, janitor-written)**
+- `cross-vault-triangulation-count:` — number of `related:` entries that also appear in 2+ otherwise-unrelated vault profiles. Zero triangulations gets a warning flag but doesn't block A+.
+- `anomaly-flags:` — janitor outlier detection vs cohort median (total-received 3x median, votes-against-party 40%+ above peers, unusual donor sector mix, etc.). Informational.
+- `both-sides-flag:` — set to `true` if the same entity appears in both `donors:` and `opposes:` frontmatter. Doesn't auto-block A+ but requires Research Claude to address.
+
+### § 2b — S-tier requirements (above A+)
+
+**S-tier is not a quality floor — it's a discovery floor.** A+ means "we did the journalism cleanly." S-tier means "we uncovered something nobody else had." For a profile to reach S-tier, ALL of A+ is required, PLUS:
+
+- **`angle:` frontmatter field populated** — one sentence answering: *"What does this profile show that OpenSecrets, Ballotpedia, and GovTrack do NOT?"* This is THE forcing function. If Research Claude can't write it, the profile is A+ at best.
+- **`exclusive-connections:` array with 3+ "damning" entries** — each entry describes a specific connection not visible in mainstream donor-tracking sources AND demonstrating obvious foul play or something genuinely crazy. Three is the minimum; quality bar on each is the real gate.
+- **`original-finding:` field populated** — one specific, verifiable, citable claim that this vault surfaces first.
+- **`audit-s-tier-passed: true`** — janitor automated audit passed (runs with `node scripts/pipeline-janitor.cjs --tier=s`)
+- **`editorial-signoff-narrative:` date** — David manually reviewed narrative and originality
+
+**The two-sign-off rule:** both `audit-s-tier-passed: true` AND `editorial-signoff-narrative` must be present. Setting `content-readiness: s-tier` alone does not make a profile S-tier; the rendering layer in the ops app and public site both double-check via `isSTier(profile)` helper. This is deliberate — prevents accidental promotions, prevents single-point-of-failure audit, and requires both automated data integrity + human narrative judgment.
+
+**S-tier is the gate for homepage features** — Weekly Spotlight, Power Rankings hero, Landing page featured cards. Profiles below S-tier still render normally in grids and detail pages, but cannot be featured. Graceful degradation: if S-tier pool is too small, features fall back to A+ (verified) profiles.
+
+### Promotion rules (updated for 5-tier system)
+
 - `raw → draft`: Any substantive content added (body > 100 chars or Tier 1 source exists)
-- `draft → ready`: Body > 500 chars + **all expected pipeline auto-blocks populated (no missing `<!-- auto:X start -->` blocks for the profile type)** + 2+ Tier 1 source types + class analysis written + connections mapped + **no known-gap that references missing pipeline data, stale data, or a pending re-enrichment**. Pipeline can auto-promote only when every gate passes.
-- `ready → verified`: Everything required for `ready` is already satisfied by definition. Only adds: editorial sign-off (`last-verified-by: editorial`). **Pipeline cannot auto-promote to this tier.**
+- `draft → ready`: Body > 500 chars + all expected pipeline auto-blocks populated + 2+ Tier 1 source types + class analysis written + connections mapped + **no known-gap that references missing pipeline data, stale data, or a pending re-enrichment**. Pipeline can auto-promote when every gate passes.
+- `ready → verified (A+)`: Everything in ready PLUS all four sub-tiers (A/B/C/D in § 2a). Janitor stamps `audit-a-plus-passed:` when automated checks clear, David adds `last-verified-by: editorial`. **Pipeline cannot auto-promote to this tier.**
+- `verified → s-tier`: `angle:` + 3+ damning `exclusive-connections:` + `original-finding:` + `audit-s-tier-passed: true` (janitor) + `editorial-signoff-narrative:` (David). **Pipeline cannot auto-promote. Neither David's sign-off alone nor the janitor's audit alone is sufficient.**
 
-**Hard rule: `ready` means David's sign-off is the only thing left.**
+**Hard rule: `ready` means David's sign-off is the only thing left for A+.**
 If a profile has any of these, it is `draft` — not `ready`:
-- Missing pipeline auto-blocks expected for its type (e.g., a politician without `<!-- auto:fec-politician` or `<!-- auto:govtrack`)
-- `known-gaps` mentions "needs fresh pipeline run", "awaits pipeline", "not yet enriched", "cache refresh pending", or similar
+- Missing pipeline auto-blocks expected for its type
+- `known-gaps` mentions "needs fresh pipeline run", "awaits pipeline", "not yet enriched", etc.
 - `internal-notes` says data was stripped/contaminated and needs repopulation
 - Any blocking issue Research Claude or Code Claude would need to fix before David could sign off
 - Fewer than 2 Tier 1 source types
 - Missing class analysis section
 
-**Both Claudes must enforce this gate.** If Research Claude encounters a profile marked `ready` that fails any of the above, demote to `draft` and document the blocker in `editorial-notes`. Do not leave it at `ready` with a caveat. `ready` is a promise to David that the only remaining work is his sign-off.
+**Both Claudes must enforce this gate.** If Research Claude encounters a profile marked `ready` that fails any of the above, demote to `draft` and document the blocker in `editorial-notes`. Do not leave it at `ready` with a caveat.
+
+**Hard rule: `verified (A+)` means David has signed off on investigative quality.**
+A profile cannot reach A+ if any of the four sub-tiers fail. Research Claude cannot promote to A+; only David can, and only after the janitor's `--tier=a-plus` audit stamps `audit-a-plus-passed:`.
 
 **Staleness decay (automatic demotion):**
 - `verified → ready`: After 90 days without re-enrichment. A+ profiles must stay current.

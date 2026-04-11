@@ -59,7 +59,58 @@ export interface Profile {
   federalContracts?: number
   federalAwardsTotal?: number
   leadershipRoles?: string[]
+  // ───────────────────────────────────────────────────────────────
+  // A+ (verified) baseline additions — 2026-04-11 plan step 1
+  // All optional at the YAML-parse level. Enforcement comes later
+  // in checklist (step 4) + janitor audit (step 3). See plan
+  // C:\Users\third\.claude\plans\keen-inventing-wall.md for rules.
+  // ───────────────────────────────────────────────────────────────
+  /** One-sentence answer: what is this profile saying? */
+  centralThesis?: string
+  /** URL-count-based grade: story (1-4 sourced URLs) | report (5-9) | investigation (10+, 3+ Tier 1) */
+  storyGrade?: "story" | "report" | "investigation"
+  /** "What the subject's lawyer would dispute and how we answer" paragraph */
+  lawyerDispute?: string
+  /** Date David cleared any defamation-prone language (fraud/corrupt/bribed/etc.) */
+  legalReviewDate?: string
+  /** Outcome of David's legal review pass */
+  legalReviewResult?: "pass" | "block" | "defer"
+  /** Board memberships — past or present. Tier 1 financial disclosure signal. */
+  boardSeats?: string[]
+  /** Same entity appears in both donors: AND opposes: — suspicious but not inherently wrong */
+  bothSidesFlag?: boolean
+  /** Connections in related: that also appear in 2+ otherwise-unrelated vault profiles */
+  crossVaultTriangulationCount?: number
+  /** Janitor-detected outliers vs cohort median */
+  anomalyFlags?: string[]
+  /** ISO date — janitor stamped this after all A+ automated checks passed */
+  auditAPlusPassed?: string
+  // ───────────────────────────────────────────────────────────────
+  // S-tier additions — above A+, for profiles with genuine original
+  // investigative findings. Requires BOTH automated audit AND manual
+  // David sign-off (neither alone is sufficient).
+  // ───────────────────────────────────────────────────────────────
+  /** FORCING FUNCTION: what does this profile show that OpenSecrets/Ballotpedia/GovTrack does NOT? */
+  angle?: string
+  /** Minimum 3 for S-tier. Each must be "damning" — obvious foul play or something crazy. */
+  exclusiveConnections?: string[]
+  /** One specific verifiable claim this vault surfaces first. */
+  originalFinding?: string
+  /** Janitor stamps this when S-tier automated checks pass. */
+  auditSTierPassed?: boolean
+  /** ISO date — data integrity sign-off. Janitor writes after A+ audit clean. */
+  editorialSignoffData?: string
+  /** ISO date — narrative / originality sign-off. Only David writes this. */
+  editorialSignoffNarrative?: string
 }
+
+/**
+ * Valid content-readiness tier values.
+ * Ordered worst-to-best. New in 2026-04-11: s-tier (above verified).
+ * NOTE: /api/profile/readiness still rejects "s-tier" until plan Step 6
+ * ships. Until then, no profile can be promoted via the API to S-tier.
+ */
+export type ContentReadinessTier = "raw" | "draft" | "ready" | "verified" | "s-tier"
 
 // Parse frontmatter from markdown content
 export function parseProfile(path: string, content: string): Profile {
@@ -125,6 +176,24 @@ export function parseProfile(path: string, content: string): Profile {
     federalContracts: data["federal-contracts"] ? parseInt(data["federal-contracts"]) : undefined,
     federalAwardsTotal: data["federal-awards-total"] ? parseInt(data["federal-awards-total"]) : undefined,
     leadershipRoles: data["leadership-roles"],
+    // A+ baseline additions (2026-04-11 plan step 1)
+    centralThesis: data["central-thesis"],
+    storyGrade: data["story-grade"],
+    lawyerDispute: data["lawyer-dispute"],
+    legalReviewDate: data["legal-review-date"],
+    legalReviewResult: data["legal-review-result"],
+    boardSeats: data["board-seats"],
+    bothSidesFlag: data["both-sides-flag"],
+    crossVaultTriangulationCount: data["cross-vault-triangulation-count"],
+    anomalyFlags: data["anomaly-flags"],
+    auditAPlusPassed: data["audit-a-plus-passed"],
+    // S-tier additions (above A+)
+    angle: data.angle,
+    exclusiveConnections: data["exclusive-connections"],
+    originalFinding: data["original-finding"],
+    auditSTierPassed: data["audit-s-tier-passed"],
+    editorialSignoffData: data["editorial-signoff-data"],
+    editorialSignoffNarrative: data["editorial-signoff-narrative"],
   }
 }
 
