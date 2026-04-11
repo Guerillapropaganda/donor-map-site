@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-11
 ---
-<!-- last session: Phase 2a Part 3 followups + Phase 3 Part 1 + Phase 2b + Phase 1d + editor-vouched + story pass (3 vouched) + Phase 3 Part 2a (discovery→JSONL) + S-Tier stat card row -->
+<!-- last session: Phase 3 Part 2b (contradiction-scanner reads JSONL) + Part 2c (dispatcher wires discovery-scanner) + Part 3 (/api/connections reads JSONL) -->
 
 
 # Session State
@@ -13,6 +13,70 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-11 night continuation — three more Phase 3 lifts
+
+### Theme
+Short follow-up after the eight-phase marathon earlier tonight. Closed out Phase 3 Parts 2b, 2c, and 3 (read-path). The canonical relationship edge store is now the source of truth for the dispatcher's scheduled refresh, for the contradiction-scanner's bothsides/opposition-funded detection, AND for the Ops `/api/connections` GET endpoint that feeds the `/relationships` page and the dashboard widgets.
+
+### Done — Phase 3 Part 2b: contradiction-scanner reads JSONL (commit `ebf98769` → merge `aefaa483`, deploy `24291972761` 1m33s)
+- `scripts/contradiction-scanner.cjs`: checks 1 (shared-donor contradictions) and 2 (both-sides donors) now query `data/relationships.jsonl` via `scripts/lib/relationships-store.cjs` instead of walking profile frontmatter.
+- New `loadPoliticianMetadata()` and `loadDonorEntityMetadata()` helpers do quick frontmatter walks for profile metadata that isn't denormalized in JSONL (party, state, chamber, sector). ~250 politician profiles + ~576 donor/entity profiles loaded in under a second.
+- `findSharedDonorContradictions(politicianMeta)`: queries monetary + political-opposition edges once, builds a Set of unordered opposition pairs, groups monetary edges by donor, checks each recipient pair against the opposition-pair set.
+- `findBothSidesDonors(politicianMeta, donorEntityMeta)`: queries monetary edges once, groups by donor, buckets recipients by party, dedupes recipients per party.
+- Checks 3 + 4 (cross-ref mismatches, opposition gaps) unchanged — they're frontmatter integrity linters and stay useful until Phase 3 Parts 3b+4 rewire every write-side consumer.
+- `main()` loads edge-based metadata only when needed and frontmatter vault walker only when needed. `--check=both-sides` skips the frontmatter walk entirely.
+- Report JSON gains `edgeCount` and `source: "phase3-part2b"` fields.
+- Numbers (full scan): 19,848 edges loaded, 252 politicians, 576 donors/entities, 928 monetary edges, 47 opposition edges, **15 opposition-funded contradictions**, **78 both-sides donors** (27 high story potential, 51 medium). Frontmatter linters unchanged: 12 cross-ref mismatches, 4 definite miscategorizations, 92 cross-party connections to review.
+
+### Done — Phase 3 Part 2c: relationship-discovery wired into attention-dispatcher (commit `c1c6bfe7` → merge `82a1f66e`, deploy `24292012983` 1m39s)
+- `scripts/attention-dispatcher.cjs`: PRODUCERS registry now supports optional `args: []` and `timeout_ms: number` fields. The existing 5 producers unchanged.
+- New `relationship-discovery` producer registered with `schedule: "17 */4 * * *"` (every 4 hours at :17, staggered against the existing hourly and 2-hourly schedules), `args: ["--write-edges"]`, `timeout_ms: 180_000` (3-minute override for the scanner's slower full-vault pass).
+- `runProducer()` now reads `producer.args` (default `[]`) and `producer.timeout_ms` (default 60_000), threads args through `spawn()`, and uses the per-producer timeout for the kill fallback. Timeout log message shows the actual value.
+- `--run-now` verification: all 6 producers run serially without errors. relationship-discovery completes in 5.6 seconds on 1,858 profiles (well under the 3-min budget). Post-run JSONL state: 19,848 edges, still all valid.
+
+### Done — Phase 3 Part 3: /api/connections GET reads JSONL (commit `6ae7b5dd` → merge `cd9dfee8`, deploy `24292093101` in progress)
+- `ops/src/app/api/connections/route.ts` full rewrite. Replaces the frontmatter walker with `loadEdges()` from `ops/src/lib/relationships-store.ts`.
+- Response shape preserved 1:1 so the 1,477-line `/relationships` page, the RelatedProfiles dashboard widget, and any future ops consumers continue to work unchanged.
+- New `mapToLegacyType()` translates the Phase 3 10-type enum back to the legacy 4-value enum: `monetary → donors`, `political-opposition → opposes`, `story-link → stories`, `related → related`. The other 6 types (staffing, media-appearance, affiliation, legal, family) are dropped from the legacy response.
+- New `flipForLegacy()` flips monetary edge endpoints. JSONL stores `{from: donor, to: politician, type: monetary}`, but the legacy API expressed the same relationship as `{source: politician, target: donor, relationshipType: "donors"}` because the old model was "politician's view of its donors field." Monetary is the only type that needs flipping.
+- New `buildProfileMetadataMap()` walks content/ once to build `title → {path, type, mtime}`. Path metadata is profile-level, not relationship-level, so it's not in JSONL. Normalizes titles (strip leading `_` and trailing ` Master Profile`) to match the JSONL store's convention.
+- Recent-connections logic preserved (sort files by mtime, grab top 30 most-recently-modified profiles, emit their Connection rows until 40 fill, dedup by composite key).
+- Invalidation hook preserved: POST/DELETE route sets `__connectionsInvalidated` global, GET clears both its local cache AND `relationships-store.clearEdgesCache()` so next read reflects fresh store state.
+- Response gains `source: "phase3-part3-jsonl"` marker.
+- Live numbers on localhost:3333 after the retarget:
+  * totalConnections: **19,357** (up from ~13k the old walker produced)
+  * breakdown: 16,442 related · 928 donors · 47 opposes · 1,940 stories (**stories jumped from ~17 to 1,940** — the discovery-scanner's wikilink-proximity edges are now visible to every ops consumer)
+  * topConnected: Politicians Index 171, Gavin Newsom 150, Donald Trump 146, Donors & Power Networks Index 136, Follow the Money Guided Tour 103, Cross-Politician Contradiction Map 97, Koch Network 91
+  * unconnectedCount: 50 (down from ~600 — the discovery scanner's new edges touch ~550 previously-isolated profiles)
+  * /relationships page rendered cleanly with no console errors, header "19357 connections across the vault" matched, breakdown chips all correct, recent connections list shows discovery-scanner findings like "Koch Network - Charles Koch funds 3 Judiciary committee members → Jim Jordan / Ted Cruz / Mike Lee" that the old walker could never see.
+
+### Known issues / still outstanding
+
+- **Phase 3 Part 3b not done.** `/api/relationships` POST/DELETE still writes frontmatter. New relationships added through the Ops UI take up to 4 hours (next `:17` dispatcher tick) to appear in `/api/connections`. Retarget requires either porting `computeEdgeId`/`upsertEdges` to `ops/src/lib/relationships-store.ts` (~100 lines of TS) or shelling out via `execFileSync` to the CJS store (following the rulebook `checkIds` pattern).
+- **Phase 3 Part 4 not done.** Quartz components (`RelatedProfiles.tsx`, `DiscoveryPanel.tsx`, `ProfileWidget.tsx`) still read frontmatter. The live site doesn't yet show the discovery-scanner's ~1,900 new story-link edges — they're only visible in the Ops app's `/relationships` page and anywhere else that consumes `/api/connections` or the TS relationships-store.
+- **Orphan baseline: 4,645 pairs** (unchanged from earlier session). A bidirectional normalizer is still deferred.
+- **9 story profiles still in hallucination-catcher Attention Queue.** Research Claude lane.
+- **Attention dispatcher shell:startup install.** 5-minute David task still pending.
+- **UptimeRobot / Healthchecks.io / Sentry accounts** still not set up.
+
+### Next session priorities
+
+1. **Phase 3 Part 3b: retarget POST/DELETE to upsert the JSONL store.** Port `computeEdgeId` and `upsertEdges` to `ops/src/lib/relationships-store.ts` so the write handlers can call them directly. On every write, invalidate both the route cache AND `relationships-store.clearEdgesCache()` so next GET reflects the change. Still write frontmatter during the migration window so Quartz consumers don't lose the field immediately.
+2. **Phase 3 Part 4: Quartz component migration.** Choose between (a) a Quartz plugin that reads `data/relationships.jsonl` at build time and injects relationship sections into profile pages, or (b) a categorizer that writes `related-generated` / `top-donors-generated` cache fields back into frontmatter that the existing components already read. The CLAUDE.md amendment supports either path. Option (b) is lower-risk (no plugin changes) but creates a new regenerated field pattern; option (a) is cleaner but touches the build pipeline.
+3. **9-story editorial pass.** For each of the 9 remaining flagged stories, either add inline citations, restructure sources, or reduce standalone numeric claim density. Research Claude's lane.
+4. **Orphan cleanup.** With JSONL as source of truth, write `relationship-bidirectional-normalizer.cjs` that iterates the 4,645 orphan pairs and auto-corrects where direction is unambiguous.
+5. **Attention dispatcher shell:startup install walkthrough** and external services accounts.
+
+### Session end state
+- **Phase 3 Parts 2b, 2c, 3 fully complete** (read-path and automation)
+- **Edge store:** still 19,848 edges, all valid
+- **Live ops data:** 19,357 connections visible in /api/connections, /relationships page, dashboard widgets
+- **Latest deploy:** `24292093101` (Part 3 merge, in progress as of save)
+
+---
+
+## Previous Session
 Claude: Code (with research hat in final stretch per David's explicit permission)
 Date: 2026-04-11 night — eight-phase marathon continuation
 
