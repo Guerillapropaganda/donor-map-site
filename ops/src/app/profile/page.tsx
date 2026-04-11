@@ -53,8 +53,15 @@ const READINESS_STEPS = ["raw", "draft", "ready", "verified"]
 const REL_COLORS = { related: "#5b8dce", donors: "#22c55e", opposes: "#ef4444" }
 const REL_LABELS = { related: "Related", donors: "Funded By", opposes: "Opposes" }
 
-function parseWikilinks(value: string): string[] {
+function parseWikilinks(value: unknown): string[] {
   if (!value) return []
+  // Some profiles have `related:` as a YAML list (array of strings) rather than
+  // a single wikilink-formatted string. Handle both shapes defensively —
+  // the old guard only caught null/undefined, which let arrays crash on .match.
+  if (Array.isArray(value)) {
+    return value.flatMap(v => parseWikilinks(v))
+  }
+  if (typeof value !== "string") return []
   const matches = value.match(/\[\[([^\]]+)\]\]/g) || []
   return matches.map((m) => {
     const inner = m.replace("[[", "").replace("]]", "")
