@@ -1,0 +1,24 @@
+#!/usr/bin/env sh
+# Pre-push gate for the Donor Map vault.
+#
+# Runs a fast build smoke test so deploy failures surface locally instead of
+# in GitHub Actions after you've already pushed.
+#
+# To bypass in an emergency: SKIP_HOOKS=1 git push ...
+
+if [ "$SKIP_HOOKS" = "1" ]; then
+  echo "[hooks] SKIP_HOOKS=1 — bypassing pre-push gate"
+  exit 0
+fi
+
+echo "--- pre-push gate ---"
+echo "  -> TypeScript compile check (tsc --noEmit)"
+npx tsc --noEmit
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] tsc --noEmit failed. Fix TypeScript errors before pushing."
+  echo "    Emergency bypass: SKIP_HOOKS=1 git push ..."
+  exit 1
+fi
+
+echo "--- pre-push gate passed ---"

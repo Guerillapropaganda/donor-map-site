@@ -1,0 +1,49 @@
+#!/usr/bin/env sh
+# Pre-commit gate for the Donor Map vault.
+#
+# Runs three fast sentinels before every commit:
+#   1. self-review-mirror    — em dashes, banned AI vocab, defamation-prone words,
+#                              verified-profile regressions
+#   2. yaml-sanity-scan      — catches broken frontmatter before it lands
+#   3. duplicate-bioguide    — catches politician ID collisions
+#
+# If any fail, the commit is blocked. To bypass in an emergency:
+#   SKIP_HOOKS=1 git commit ...
+# (Do not make this a habit — the hooks exist to protect the vault.)
+
+if [ "$SKIP_HOOKS" = "1" ]; then
+  echo "[hooks] SKIP_HOOKS=1 — bypassing pre-commit gate"
+  exit 0
+fi
+
+echo "--- pre-commit gate ---"
+
+# 1. Self-review mirror (voice + defamation + regression)
+echo "  -> self-review-mirror"
+node scripts/self-review-mirror.cjs
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] self-review-mirror blocked the commit."
+  echo "    Fix the issues above, or set ALLOW_REGRESSION=1 for intentional demotions."
+  exit 1
+fi
+
+# 2. YAML sanity (broken frontmatter)
+echo "  -> yaml-sanity-scan"
+node scripts/yaml-sanity-scan.cjs
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] yaml-sanity-scan found broken frontmatter."
+  exit 1
+fi
+
+# 3. Duplicate bioguide sentinel (politician ID collisions)
+echo "  -> duplicate-bioguide-sentinel"
+node scripts/duplicate-bioguide-sentinel.cjs
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] duplicate-bioguide-sentinel found ID collisions."
+  exit 1
+fi
+
+echo "--- all gates passed ---"
