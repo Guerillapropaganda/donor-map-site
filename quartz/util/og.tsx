@@ -6,9 +6,6 @@ import { JSXInternal } from "preact/src/jsx"
 import { FontSpecification, getFontSpecificationName, ThemeKey } from "./theme"
 import path from "path"
 import { QUARTZ } from "./path"
-import { formatDate, getDate } from "../components/Date"
-import readingTime from "reading-time"
-import { i18n } from "../i18n"
 import { styleText } from "util"
 
 const defaultHeaderWeight = [700]
@@ -180,9 +177,8 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
   title,
   description,
   fileData,
-  iconBase64,
 }) => {
-  const { colorScheme } = userOpts
+  void userOpts
   const bodyFont = getFontSpecificationName(cfg.theme.typography.body)
   const headerFont = getFontSpecificationName(cfg.theme.typography.header)
 
@@ -197,7 +193,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
   const useSmallerFont = cleanTitle.length > fontBreakPoint
 
   // Profile metadata from frontmatter
-  const fm = fileData.frontmatter ?? {}
+  const fm = (fileData.frontmatter ?? {}) as Record<string, unknown>
   const type = String(fm.type ?? "").toLowerCase()
   const party = String(fm.party ?? "")
   const chamber = String(fm.chamber ?? "")
