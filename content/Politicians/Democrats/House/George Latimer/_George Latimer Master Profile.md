@@ -108,10 +108,3 @@ Source: [[United Democracy Project - UDP]], [[_Jamaal Bowman Master Profile]] va
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4NY16087/) (Tier 1)
 <!-- auto:fec-politician end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: George Latimer](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

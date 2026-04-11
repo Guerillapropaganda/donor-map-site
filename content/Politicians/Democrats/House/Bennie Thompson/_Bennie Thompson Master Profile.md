@@ -2,7 +2,7 @@
 title: "Bennie Thompson"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,40 +11,24 @@ state: "Mississippi"
 state-abbr: "MS"
 district: "6"
 committees:
-  - "House Committee on Homeland Security"
+  - "Homeland Security"
 leadership-roles:
   - "Ranking Member"
 total-received: "$497,950"
 fec-candidate-id: "H4MS02068"
 govtrack-id: 400402
-bills-sponsored: 238
-bills-cosponsored: 5514
+bills-sponsored: 14
+bills-cosponsored: 355
 website: "https://benniethompson.house.gov"
 phone: "202-225-5876"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]]"
-last-enriched: "2026-04-11"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]]"
+last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-bioguide-id: "C001091"
-issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Emergency Management"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-total-raised: "$497,950"
-total-spent: "$579,555"
-cash-on-hand: "1544559.15"
-fec-cycle: 2026
 ---
 #bennie-thompson #democrat #mississippi #house #ranking-member #homeland-security #january-6 #surveillance #civil-rights #phase-6-gavel-power
 
@@ -237,131 +221,5 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400402) (Tier 1)
 <!-- auto:govtrack end -->
 
-<!-- auto:govtrack pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 238 |
-| Bills Cosponsored | 5,514 |
-| Total Votes Cast | 20,697 |
-
-**Recent bills sponsored:**
-
-- H.R. 4467: Vicksburg National Military Park Boundary Modification Act — *This bill passed in the House on March 16, 2026 and goes to the Senate next for consideration.*
-- H.R. 7382: Nonprofit Security Grant Program Transparency Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Res. 1035: Condemning Federal workforce reductions that undermine preparedness, response, and recovery, and expressing concern rega — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7124: Realigning Mobile Phone Biometrics for American Privacy Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6548: DHS Suicide Prevention and Resiliency for Law Enforcement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400402) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
-
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democratic |
-| State | Mississippi |
-| Chamber | House of Representatives |
-| Bills Sponsored | 255 |
-| Bills Cosponsored | 5513 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Emergency Management, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Public Lands and Natural Resources, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 7382 | Nonprofit Security Grant Program Transparency Act | Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 1035 | Condemning Federal workforce reductions that undermine preparedness, response, a… | Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7124 | Realigning Mobile Phone Biometrics for American Privacy Protection Act | Referred to the House Committee on Homeland Security. |
-| 6548 | DHS Suicide Prevention and Resiliency for Law Enforcement Act | Referred to the House Committee on Homeland Security. |
-| 698 | Recognizing the victims, survivors, and thousands of other Americans impacted by… | Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 4971 | Terrorist Watchlist Data Accuracy and Transparency Act | Referred to the House Committee on Homeland Security. |
-| 4579 | FEMA Cybersecurity Improvement Act | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
-| 4467 | Vicksburg National Military Park Boundary Modification Act | Received in the Senate. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/T000193) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-**Committees:**
-
-- House Committee on Homeland Security
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
-<!-- auto:committee-assignments end -->
-
-### Campaign Finance Summary (FEC)
-<!-- auto:fec-summary start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $497,950 |
-| Total Spent | $579,555 |
-| Cash on Hand | 1544559.15 |
-| Individual Contributions | $119,332 |
-| PAC Contributions | $370,598 |
-| Coverage Through | 2026-02-18 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $497,950 | $579,555 | 1544559.15 |
-| 2024 | $1,245,201 | $1,349,946 | 1626164.23 |
-| 2022 | $1,515,666 | $1,308,305 | 1730909.56 |
-| 2020 | $1,379,892 | $1,099,404 | 1523548.27 |
-| 2018 | $1,020,602 | $1,034,484 | 1243060.41 |
-| 2016 | $1,029,909 | $1,029,507 | 1256941.99 |
-| ... | 11 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
-<!-- auto:fec-summary end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Not Voting** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
-
-**Sources**
-
-- [Congress.gov: Bennie Thompson](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402) (Tier 1)
-<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "Jerry Nadler"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-03-25
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -25,7 +25,6 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[J Street]]"
-donors: "[[Brady Campaign]]"
 ---
 #politician #democrat #house #new-york #judiciary #antitrust #real-estate #israel #class-analysis #follow-the-money #gavel-power
 

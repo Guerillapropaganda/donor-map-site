@@ -155,9 +155,9 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 **Funded politicians:**
 
-- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — contracts: $23K
+- [[Chuck Schumer]] — contracts: $23K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)
@@ -239,49 +239,3 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
-
-### OCC Enforcement Actions
-<!-- auto:occ-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| Legal name (OCC) | Morgan Stanley Bank, N.A. |
-| Charter number(s) | 24908 |
-| Total OCC enforcement actions | 2 |
-| Civil Money Penalties | 2 |
-| Total CMP dollars | $60,007,500 |
-| Most recent action | 10/08/2020 |
-| Earliest action | 09/30/2019 |
-
-**Action types:**
-
-- Civil Money Penalty (CMP): 2
-
-**Subject areas (2012+):** General IT Controls; GLBA (12 CFR 30, Appx B); Information Technology; Third Party Risk Management; Unauthorized Disclosure of OCC Information
-
-**Recent enforcement history:**
-
-- [AA-EC-20-66: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2020-058.pdf) (10/08/2020) — $60,000,000
-- [AA-EC-2019-50: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2019-061.pdf) (09/30/2019) — $7,500
-
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Morgan%20Stanley&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
-<!-- auto:occ-enforcement end -->
-
-### FTC Enforcement & Merger Review
-<!-- auto:ftc-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| FTC enforcement actions (historical, ≤FY2021) | 0 |
-| HSR early termination notices (merger filings) | 50 |
-
-**Recent HSR merger filings (early terminations granted):**
-
-- [Mr. Edward Pick → Morgan Stanley](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260536) (2026-01-09)
-- [Morgan Stanley → Eaton Vance Corp.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210192) (2020-11-10)
-- [Morgan Stanley → Solium Capital, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20190875) (2019-03-06)
-- [Energy Trading Innovations LLC → Morgan Stanley](https://www.ftc.gov/legal-library/browse/early-termination-notices/20151128) (2015-06-23)
-- [Morgan Stanley Infrastructure Partners II, LP → Eureka Hunter Holdings, LLC](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150621) (2015-02-27)
-
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Morgan%20Stanley).
-
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Morgan%20Stanley) (Tier 1)
-<!-- auto:ftc-enforcement end -->

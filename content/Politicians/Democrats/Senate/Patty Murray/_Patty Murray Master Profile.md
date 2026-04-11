@@ -2,7 +2,7 @@
 title: "Patty Murray"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -174,7 +174,7 @@ This is why Murray rarely appears in national media: she operates in the less vi
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -198,7 +198,7 @@ This is why Murray rarely appears in national media: she operates in the less vi
 - [[Microsoft]] — $20.7M lobbying spend (Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry)
 - [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

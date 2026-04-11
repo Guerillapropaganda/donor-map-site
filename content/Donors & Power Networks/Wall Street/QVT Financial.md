@@ -2,7 +2,7 @@
 title: "QVT Financial"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -14,7 +14,7 @@ source-types:
 known-gaps:
   - No FEC committee data (operates through individual contributions, not registered PAC)
   - Pipeline false positives RESOLVED 2026-04-10 by Code Claude: DOJ sanity cap, SAM validation, NHTSA auto-adjacent filter deployed. Auto-blocks stripped.
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "demote to draft"
 lei: "549300JMMSS9C5S2HO30"
@@ -31,22 +31,6 @@ sec-form-types:
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • The profile's own known-gaps field says it needs a fresh pipeline run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-federal-register-mentions: 2
-regulatory-agencies:
-  - "Nuclear Regulatory Commission"
-court-cases: 56
-court-jurisdictions:
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, D. Delaware"
-  - "District Court, D. Massachusetts"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, S.D. New York"
-  - "United States Bankruptcy Court, S.D. Texas"
-  - "United States Judicial Panel on Multidistrict Litigation"
-wikidata-id: "Q104480161"
-founded: "2003-01-01"
 ---
 #vivek-ramaswamy #hedge-fund #biotech-investments #roivant-sciences #venture-capital
 
@@ -128,49 +112,3 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22QVT%20Financial%22) (Tier 1)
 <!-- auto:sec-edgar end -->
-
-### Federal Register Activity
-<!-- auto:federal-register start -->
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 2 |
-| Notice | 2 |
-| Agencies | Nuclear Regulatory Commission |
-
-**Recent regulatory activity:**
-- [MP Mine Operations, LLC](https://www.federalregister.gov/documents/2020/10/08/2020-22314/mp-mine-operations-llc) (2020-10-08) — Nuclear Regulatory Commission
-- [In the Matter of MP Mine Operations LLC; Order Approving Direct Transfers of Control of Licenses](https://www.federalregister.gov/documents/2017/12/12/2017-26748/in-the-matter-of-mp-mine-operations-llc-order-approving-direct-transfers-of-control-of-licenses) (2017-12-12) — Nuclear Regulatory Commission
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22QVT%20Financial%22) (Tier 1)
-<!-- auto:federal-register end -->
-
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 56 |
-| Courts | Court of Appeals for the Second Circuit, District Court, D. Delaware, District Court, D. Massachusetts, District Court, E.D. Pennsylvania, District Court, S.D. New York, United States Bankruptcy Court, D. Delaware, United States Bankruptcy Court, S.D. New York, United States Bankruptcy Court, S.D. Texas +1 more |
-| Case Types | 13 Recovery of money/property - 548 fraudulent transfer; 14 Recovery of money/property - other, 190 Contract: Other, 320 Assault Libel & Slander, 410 Other Statutes: Anti-Trust, 422 Bankruptcy Appeal (801) |
-
-**Notable cases:**
-- Vertex Energy, Inc. (2024) — United States Bankruptcy Court, S.D. Texas
-- Grifols, S.A. v. Yu (2024) — District Court, S.D. New York
-- Clovis Oncology, Inc. (2022) — United States Bankruptcy Court, D. Delaware
-- FTX Trading Ltd. (2022) — United States Bankruptcy Court, D. Delaware
-- IN RE WELLS FARGO & COMPANY SECURITIES LITIGATION (2020) — District Court, S.D. New York
-- United States v. Litvak (2017) — Court of Appeals for the Second Circuit
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22QVT%20Financial%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q104480161](https://www.wikidata.org/wiki/Q104480161) |
-| Description | company in New York, United States |
-| Founded | 2003-01-01 |
-| Website | [https://qvt.com/](https://qvt.com/) |
-
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q104480161) (Tier 2)
-<!-- auto:wikipedia end -->

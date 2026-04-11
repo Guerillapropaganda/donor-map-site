@@ -2,7 +2,7 @@
 title: "John Hickenlooper"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,24 +10,16 @@ chamber: "Senate"
 state: "Colorado"
 state-abbr: "CO"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
+  - "Energy & Climate"
+  - "Technology"
 top-donors:
   - "Fossil Fuel Bloc"
   - "American Petroleum Institute"
   - "Brownstein Hyatt Farber Schreck"
-total-received: "$7,607,184"
+total-received: "$3,509,495"
 fec-candidate-id: "S0CO00575"
 bioguide-id: "H000273"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 source-types:
   - Congress
   - DOJ
@@ -263,41 +255,6 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P00010520/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $7,607,184 |
-| Individual Contributions | $4,226,430 |
-| PAC Contributions | $844,277 |
-| Cash on Hand | 3877765.39 |
-| IE Support (Super PAC) | $7,715,842 |
-| IE Opposition (Super PAC) | $33,536,139 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $7,607,184 | $4,226,430 | $844,277 |
-| 2020 | $44,246,118 | $25,067,941 | $786,813 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| SENATE LEADERSHIP FUND | $0 | $15,707,048 |
-| NRSC | $0 | $15,464,768 |
-| SMP | $5,256,392 | $0 |
-| FAIR SHARE ACTION | $1,511,450 | $0 |
-| ESAFUND | $0 | $1,050,000 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CO00575/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
-
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
@@ -374,58 +331,3 @@ Hickenlooper initially refused to appear at the commission's remote hearing, lea
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | CO |
-| Chamber | Senate |
-| Bills Sponsored | 225 |
-| Bills Cosponsored | 991 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Energy, Environmental Protection, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Labor and Employment, Native Americans, Public Lands and Natural Resources, Science, Technology, Communications, Taxation, Water Resources Development
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-
-- [Source: Congress.gov](https://www.congress.gov/member/H000273) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Nay** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Nay** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Nay** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Nay** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Nay** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Yea** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Nay** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Nay** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Nay** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [Congress.gov: John Hickenlooper](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: John Hickenlooper](https://www.govtrack.us/congress/members/456797) (Tier 1)
-<!-- auto:voting-record end -->

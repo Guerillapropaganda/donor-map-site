@@ -150,15 +150,14 @@ The Louisiana petrochemical industry tolerated his Trump vote because it served 
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
+| Donors Who Also Lobby | 1 of 1 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
 - [[Petrochemical Industry Bloc]] — $36.4M lobbying spend (Budget/Appropriations, Chemicals/Chemical Industry, Energy/Nuclear)
-- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

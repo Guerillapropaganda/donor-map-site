@@ -2,10 +2,10 @@
 title: "AB5 - Gig Worker Classification"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #labor #AB5 #gig-workers #classification #dynamex #ABC-test #uber #lyft #doordash #carveouts #rhetoric-vs-record
 

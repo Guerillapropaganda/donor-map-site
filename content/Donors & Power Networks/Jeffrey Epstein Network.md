@@ -176,7 +176,7 @@ This section documents categories of Epstein-related claims that exist in public
 - [[Steve Bannon]] — lobbying: $1.7M
 - [[Robert F. Kennedy Jr.]] — lobbying: $1.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

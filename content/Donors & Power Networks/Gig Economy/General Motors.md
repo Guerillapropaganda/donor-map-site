@@ -2,7 +2,7 @@
 title: "General Motors"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -20,7 +20,7 @@ annual-revenue: "$25K"
 net-assets: "$130K"
 tax-year: "2023"
 court-cases: 52314
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - "District Court, D. Colorado"
   - "District Court, E.D. Michigan"
@@ -165,7 +165,7 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 - [[Joe Biden]] — lobbying: $61.2M
 - [[Barack Obama]] — lobbying: $61.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -310,34 +310,3 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22General%20Motors%22) (Tier 1)
 <!-- auto:federal-register end -->
-
-### Vehicle Safety (NHTSA)
-<!-- auto:nhtsa-recalls start -->
-| Metric | Value |
-|--------|-------|
-| Vehicle Recalls | 500 |
-| Consumer Complaints | 0 |
-| NHTSA Investigations | 10 |
-| Recall Components | EXTERIOR LIGHTING, BACK OVER PREVENTION, FUEL SYSTEM, GASOLINE, TIRES, EQUIPMENT |
-| Most Recent Recall | 2026-04-02 |
-| Earliest Recall | 2010-04-26 |
-
-**Recent recalls:**
-
-- [26V213000: Missing Warning for Rear Turn Signal Failure/FMVSS 108](https://www.nhtsa.gov/recalls?nhtsaId=26V213000) (2026-04-02)
-- [26V212000: Rearview Camera May Display Distorted or Blank Image](https://www.nhtsa.gov/recalls?nhtsaId=26V212000) (2026-04-02)
-- [26V166000: Roof Rail Air Bag Inflator Endcap May Detach](https://www.nhtsa.gov/recalls?nhtsaId=26V166000) (2026-03-19)
-- [26V129000: Engine Stall Due to Disabled Rear Fuel Pump](https://www.nhtsa.gov/recalls?nhtsaId=26V129000) (2026-03-05)
-- [26V127000: Tire Sidewall Damage](https://www.nhtsa.gov/recalls?nhtsaId=26V127000) (2026-03-05)
-- [26V114000: Missing Owner's Manual/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V114000) (2026-02-26)
-- ... and 494 more
-
-**Active/recent investigations:**
-
-- DP26003: Fuel smell and loss of motive power (2026-03-30)
-- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
-- DP26001: All wheel drive allegation (2026-03-06)
-- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
-
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=General%20Motors) (Tier 1)
-<!-- auto:nhtsa-recalls end -->

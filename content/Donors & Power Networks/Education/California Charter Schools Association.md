@@ -2,7 +2,7 @@
 title: "California Charter Schools Association"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Education"
@@ -17,7 +17,7 @@ net-assets: "$34.1M"
 tax-year: "2023"
 lobbying-spend: 10479974
 lobbying-filings: 106
-related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Blue Shield of California]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]]"
+related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Blue Shield of California]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]]"
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"
@@ -148,5 +148,5 @@ Education — charter school expansion, school funding formula, district account
 
 - [[Gavin Newsom]] — lobbying: $10.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "Brendan Boyle"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,22 +11,12 @@ state: "Pennsylvania"
 state-abbr: "PA"
 district: "2"
 committees:
-  - "House Committee on Ways and Means"
-  - "House Committee on the Budget"
+  - "Budget"
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Congress"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
-  - "Labor and Employment"
-  - "Public Lands and Natural Resources"
-last-enriched: "2026-04-11"
+  - "Labor & Workers"
+last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[UNITE HERE]] · [[AFL-CIO]]"
@@ -36,11 +26,6 @@ fec-candidate-id: "H4PA13199"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-bioguide-id: "C001091"
-total-raised: "$1,522,158"
-total-spent: "$548,110"
-cash-on-hand: "4812331.40"
-fec-cycle: 2026
 ---
 #brendan-boyle #democrat #pennsylvania #house #ranking-member #budget #debt-ceiling #labor #philadelphia #working-class #reconciliation #blue-collar-caucus #phase-6-gavel-power
 
@@ -210,74 +195,3 @@ The deeper tension is between Boyle's working-class brand and the Budget Committ
 
 - [Congress.gov: Brendan Boyle](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democratic |
-| State | Pennsylvania |
-| Chamber | House of Representatives |
-| Bills Sponsored | 128 |
-| Bills Cosponsored | 2260 |
-
-**Policy areas:** Congress, Economics and Public Finance, Education, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Sports and Recreation, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 7763 | Protecting American History Act | Referred to the House Committee on Natural Resources. |
-| 960 | Expressing support for the designation of November 2025 as "National Lung Cancer… | Referred to the House Committee on Energy and Commerce. |
-| 5708 | Federal Employees Civil Relief Act | Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Financial Services, Ways and Means, the Judiciary, Education and Workforce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 5380 | Labor Market Response Act | Referred to the House Committee on Ways and Means. |
-| 5220 | Congressional Power of the Purse Act | Referred to the Committee on the Budget, and in addition to the Committees on Oversight and Government Reform, Transportation and Infrastructure, Rules, Foreign Affairs, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 4634 | Debt Ceiling Reform Act | Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 3271 | Medicare and Social Security Fair Share Act | Referred to the House Committee on Ways and Means. |
-| 2753 | Hands Off Medicaid and SNAP Act of 2025 | Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-**Committees:**
-
-- House Committee on Ways and Means
-- House Committee on the Budget
-
-**Subcommittees:**
-
-- Health
-- Trade
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
-<!-- auto:committee-assignments end -->
-
-### Campaign Finance Summary (FEC)
-<!-- auto:fec-summary start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $1,522,158 |
-| Total Spent | $548,110 |
-| Cash on Hand | 4812331.40 |
-| Individual Contributions | $358,434 |
-| PAC Contributions | $502,235 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $1,522,158 | $548,110 | 4812331.40 |
-| 2024 | $2,337,216 | $843,874 | 3838283.35 |
-| 2022 | $1,708,550 | $832,350 | 2344941.15 |
-| 2020 | $1,560,584 | $760,250 | 1468741.37 |
-| 2018 | $1,174,515 | $967,575 | 668407.46 |
-| 2016 | $1,088,645 | $1,042,401 | 461467.13 |
-| ... | 1 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
-<!-- auto:fec-summary end -->

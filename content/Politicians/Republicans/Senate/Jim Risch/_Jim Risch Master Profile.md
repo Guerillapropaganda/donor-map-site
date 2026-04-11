@@ -197,10 +197,3 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 - [Source: Congress.gov](https://www.congress.gov/member/R000584) (Tier 1)
 <!-- auto:congress-legislation end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Jim Risch](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

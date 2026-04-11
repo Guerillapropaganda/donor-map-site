@@ -2,7 +2,7 @@
 title: "Pfizer Inc."
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -13,7 +13,7 @@ federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 1
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 sec-filings: 10000
 sec-form-types:
   - "10-12G"
@@ -50,7 +50,7 @@ sec-form-types:
 court-cases: 62892
 court-jurisdictions:
   - "District Court, N.D. Florida"
-ein: "136083839"
+ein: 132986156
 annual-revenue: "$82.1M"
 net-assets: "$1.4M"
 tax-year: "2016"
@@ -80,9 +80,6 @@ lobbying-filings: 66
 related: "[[The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way]] · [[PhRMA]] · [[Healthcare - Donors and Backers]]"
 fda-recalls: 103
 fda-recalls-class-i: 14
-nonprofit-status: "501(c)(3)"
-total-revenue: 29100015
-total-assets: 255288291
 ---
 #donor #pharma #corporation #lobbying #healthcare #covid #revolving-door #drug-pricing #warp-speed
 
@@ -444,27 +441,3 @@ _Variant firm names in FDA data: PFIZER INC; Pfizer Inc.; PFIZER, INC; Pfizer In
 
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Pfizer%20Inc.) (Tier 1)
 <!-- auto:fda-enforcement end -->
-
-### Tax Filings (IRS 990)
-<!-- auto:nonprofit-990 start -->
-| Metric | Value |
-|--------|-------|
-| EIN | 136083839 |
-| Tax-Exempt Status | 501(c)(3) |
-| Total Revenue | $29.1M |
-| Total Assets | $255.3M |
-| IRS Ruling Date | 1955-03-01 |
-| Filings on Record | 8 |
-
-**Filing history:** 2023, 2022, 2021, 2020, 2019, 2013, 2012, 2011
-
-**View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2019)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136083839) (Tier 1)
-<!-- auto:nonprofit-990 end -->

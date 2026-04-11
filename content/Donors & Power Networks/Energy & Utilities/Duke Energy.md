@@ -2,7 +2,7 @@
 title: "Duke Energy"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -55,7 +55,7 @@ regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
   - "Nuclear Regulatory Commission"
-related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[Southern Company]] · [[NextEra Energy]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]]"
+related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[Southern Company]] · [[NextEra Energy]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 21294251
 total-assets: 1868586
@@ -315,23 +315,3 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1)
 <!-- auto:nonprofit-990 end -->
-
-### FTC Enforcement & Merger Review
-<!-- auto:ftc-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| FTC enforcement actions (historical, ≤FY2021) | 0 |
-| HSR early termination notices (merger filings) | 44 |
-
-**Recent HSR merger filings (early terminations granted):**
-
-- [Duke Energy Corporation → Piedmont Natural Gas Company, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20160426) (2015-12-21)
-- [Duke Energy Corporation → Sumitomo Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20151205) (2015-06-30)
-- [Duke Energy Corporation → Calpine Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150544) (2015-02-27)
-- [Dynegy Inc. → Duke Energy Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20141555) (2014-11-07)
-- [DTE Energy Company → Duke Energy Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20121155) (2012-08-01)
-
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Duke%20Energy).
-
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Duke%20Energy) (Tier 1)
-<!-- auto:ftc-enforcement end -->

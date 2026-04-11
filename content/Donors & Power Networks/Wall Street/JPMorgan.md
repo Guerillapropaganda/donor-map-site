@@ -2,7 +2,7 @@
 title: "JPMorgan Chase"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -45,7 +45,7 @@ subawards-received-amount: 1009778941592127500
 top-federal-agency: "Pension Benefit Guaranty Corporation"
 top-naics-code: "523930"
 federal-register-mentions: 395
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-09"
 regulatory-agencies:
   - "Comptroller of the Currency"
   - "Consumer Financial Protection Bureau"
@@ -64,7 +64,7 @@ lei-jurisdiction: "US-DE"
 nonprofit-status: "501(c)(3)"
 total-revenue: 2245488721
 total-assets: 1219377637
-related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[John Boehner]] · [[The Whiteboard Populism and Legislative Limits]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Melissa Bean's Corporate Background]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Brookings Institution]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Ballard Partners]] · [[Charles Schwab]] · [[Paul Ryan]] · [[Cory Booker]] · [[Goldman Sachs - Wall Street Titan]] · [[BlackRock]] · [[Blackstone Group]] · [[Wall Street Finance PACs]] · [[Morgan Stanley]] · [[Bank of America]] · [[Wells Fargo]] · [[Goldman Sachs]] · [[Citigroup]] · [[Wall Street Finance Networks]] · [[_Chuck Schumer Master Profile]] · [[_French Hill Master Profile]] · [[PhRMA]] · [[The Wall Street-Schumer Funding Axis]] · [[Wall Street Bloc]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[Financial Services Donors]] · [[Citadel - Kenneth Griffin]]"
+related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[John Boehner]] · [[The Whiteboard Populism and Legislative Limits]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[Melissa Bean's Corporate Background]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Brookings Institution]] · [[The Shared Sponsor Map — Corporate Advertisers Funding Both Left and Right Political Media]] · [[Ballard Partners]] · [[Charles Schwab]] · [[Paul Ryan]] · [[Cory Booker]] · [[Goldman Sachs - Wall Street Titan]] · [[BlackRock]] · [[Blackstone Group]] · [[Wall Street Finance PACs]] · [[Morgan Stanley]] · [[Bank of America]] · [[Wells Fargo]] · [[Goldman Sachs]] · [[Citigroup]] · [[Wall Street Finance Networks]] · [[_Chuck Schumer Master Profile]] · [[_French Hill Master Profile]] · [[PhRMA]] · [[The Wall Street-Schumer Funding Axis]] · [[Wall Street Bloc]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
 cross-vault-triangulation-count: 33
 audit-a-plus-passed: "2026-04-11"
 ---
@@ -250,7 +250,7 @@ The "too big to fail" designation is the vault's clearest example of **Donor-Cla
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -277,7 +277,7 @@ The "too big to fail" designation is the vault's clearest example of **Donor-Cla
 - [[John Boehner]] (Finance) — lobbying: $9.8M
 - [[Paul Ryan]] (Finance) — lobbying: $9.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -467,48 +467,3 @@ The "too big to fail" designation is the vault's clearest example of **Donor-Cla
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
-
-### OCC Enforcement Actions
-<!-- auto:occ-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| Legal name (OCC) | JPMorgan Chase Bank, National Association |
-| Charter number(s) | 8 |
-| Total OCC enforcement actions | 78 |
-| **Active actions** | **58** |
-| Civil Money Penalties | 8 |
-| Total CMP dollars | $1,222,035,000 |
-| Most recent action | 12/15/2025 |
-| Earliest action | 01/04/2016 |
-
-**Action types:**
-
-- Prohibition/Removal Orders: 50
-- Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D): 8
-- Civil Money Penalty (CMP): 8
-- Notice of Charges: 5
-- 1829 Prohibition Notification: 4
-- Formal Agreement: 3
-
-**Subject areas (2012+):** Violation Cited (Criminal Statute); Inaccurate / Incomplete / False Books and Records; Insider Issues; Theft / Misappropriation of Funds; Audit; Internal Audit; Trust Activities; Fraud/Forgery; Compliance Risk Management; Foreign Exchange (FX); Trading & Securities; Trading Issues
-
-**Still-active enforcement actions:**
-
-- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2025-17.pdf) (12/15/2025)
-- [AA-ENF-2022-57: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2022-064.pdf) (12/07/2022)
-- [AA-EC-09-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2009-226.pdf) (12/01/2009)
-- [AA-EC-10-78: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2010-249.pdf) (11/29/2010)
-- [AA-ENF-2024-92: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-92.pdf) (11/20/2024)
-
-**Recent enforcement history:**
-
-- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2025-17.pdf) (12/15/2025)
-- [AA-ENF-2022-57: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2022-064.pdf) (12/07/2022)
-- [AA-EC-09-03: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2009-226.pdf) (12/01/2009)
-- [AA-EC-10-78: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/ea2010-249.pdf) (11/29/2010)
-- [AA-ENF-2020-70: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2020-067.pdf) (11/24/2020) — $250,000,000
-- [AA-ENF-2024-92: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-92.pdf) (11/20/2024)
-- ... and 72 more
-
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=JPMorgan%20Chase&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
-<!-- auto:occ-enforcement end -->

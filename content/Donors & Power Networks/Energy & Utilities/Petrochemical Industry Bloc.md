@@ -2,7 +2,7 @@
 title: "Petrochemical Industry Bloc"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -12,12 +12,12 @@ issues:
 lobbying-spend: 36374000
 lobbying-filings: 51
 ofac-sdn-match: "true"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-06"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "NPWMD] [IFSR"
-related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]] · [[Western States Petroleum Association]]"
+related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]]"
 cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -81,7 +81,7 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 
 - [[Bill Cassidy]] — lobbying: $36.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### OFAC Sanctions Screening

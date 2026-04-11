@@ -2,7 +2,7 @@
 title: "Devon Energy"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -22,7 +22,7 @@ net-assets: "$1"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Valero Energy]] · [[ConocoPhillips]] · [[Koch Industries]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[_James Lankford Master Profile|Lankford]] · [[_Markwayne Mullin Master Profile|Mullin]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]]"
+related: "[[Valero Energy]] · [[ConocoPhillips]] · [[Koch Industries]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[_James Lankford Master Profile|Lankford]] · [[_Markwayne Mullin Master Profile|Mullin]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 1
 total-assets: 1
@@ -150,7 +150,7 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 - [[Markwayne Mullin]] (Armed Services) — lobbying: $810K
 - [[John Fetterman]] — lobbying: $810K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

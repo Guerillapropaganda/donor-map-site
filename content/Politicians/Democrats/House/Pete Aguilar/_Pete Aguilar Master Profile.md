@@ -2,7 +2,7 @@
 title: "Pete Aguilar"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,19 +23,6 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-11"
-bioguide-id: "A000371"
-issues:
-  - "Agriculture and Food"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-  - "Immigration"
 ---
 #aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc
 
@@ -200,39 +187,3 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA31125/) (Tier 1)
 <!-- auto:fec-politician end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democratic |
-| State | California |
-| Chamber | House of Representatives |
-| Bills Sponsored | 91 |
-| Bills Cosponsored | 1823 |
-
-**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, Labor and Employment, Science, Technology, Communications, Social Welfare, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 1048 | Electing a Member to a certain standing committee of the House of Representative… | Motion to reconsider laid on the table Agreed to without objection. |
-| 954 | Electing a Member to a certain standing committee of the House of Representative… | Motion to reconsider laid on the table Agreed to without objection. |
-| 890 | Expressing support for the designation of November 19, 2025, as "National GIS Da… | Referred to the House Committee on Science, Space, and Technology. |
-| 721 | Electing Members to certain standing committees of the House of Representatives. | Motion to reconsider laid on the table Agreed to without objection. |
-| 4874 | Affordable Housing Resident Services Act | Referred to the House Committee on Financial Services. |
-| 538 | Ranking a Certain Member on a certain standing committee of the House of Represe… | Motion to reconsider laid on the table Agreed to without objection. |
-| 430 | Electing Members to certain standing committees of the House of Representatives. | Motion to reconsider laid on the table Agreed to without objection. |
-| 2402 | No Hungry Kids in Schools Act | Referred to the House Committee on Education and Workforce. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/A000371) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Pete Aguilar](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

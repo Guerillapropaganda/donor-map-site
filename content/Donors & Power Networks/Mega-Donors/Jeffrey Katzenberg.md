@@ -2,7 +2,7 @@
 title: "Jeffrey Katzenberg"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -17,7 +17,7 @@ net-assets: "$10.7M"
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Adam Schiff]] · [[Ana Kasparian]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Barack Obama Master Profile|Obama]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Cenk Uygur]] · [[Tech and Media Donors]] · [[Priorities USA Action]] · [[Hollywood Democratic Donor Network]] · [[Finance and Tech Bundler Network]]"
+related: "[[Adam Schiff]] · [[Ana Kasparian]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Barack Obama Master Profile|Obama]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Cenk Uygur]] · [[Tech and Media Donors]] · [[Priorities USA Action]] · [[Hollywood Democratic Donor Network]]"
 total-political-spend: "$13,889,097"
 cross-vault-triangulation-count: 12
 needs-reenrichment: true

@@ -2,7 +2,7 @@
 title: "Chris Coons Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -10,16 +10,8 @@ chamber: "Senate"
 state: "Delaware"
 state-abbr: "DE"
 issues:
-  - "Agriculture and Food"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
-  - "Public Lands and Natural Resources"
+  - "Healthcare"
+  - "Israel & Foreign Policy"
 top-donors:
   - "PhRMA"
 stock-trades: 24
@@ -39,7 +31,7 @@ needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): C001088. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
   - "No mapped relationships"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 related: "[[_Joe Biden Master Profile|Joe Biden]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 committees:
   - "Senate Committee on Appropriations"
@@ -263,39 +255,3 @@ research-status:: ready
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | DE |
-| Chamber | Senate |
-| Bills Sponsored | 763 |
-| Bills Cosponsored | 4041 |
-
-**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Education, Finance and Financial Sector, Health, Immigration, International Affairs, Public Lands and Natural Resources, Science, Technology, Communications, Sports and Recreation, Taxation, Transportation and Public Works, Water Resources Development
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| 4144 | ESCRA Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
-| 4145 | Pro Codes Act of 2026 | Read twice and referred to the Committee on the Judiciary. |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001088) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Chris Coons](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "iHeartMedia"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -13,7 +13,7 @@ subawards-received: 1
 subawards-received-amount: 30000
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541810"
-related: "[[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[Verizon]] · [[AT&T]] · [[Telecom Industry]]"
+related: "[[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[Verizon]] · [[AT&T]]"
 court-cases: 769
 last-enriched: "2026-04-08"
 needs-reenrichment: true

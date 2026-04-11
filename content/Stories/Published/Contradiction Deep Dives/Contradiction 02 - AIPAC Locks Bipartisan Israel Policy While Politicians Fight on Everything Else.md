@@ -2,12 +2,12 @@
 title: "AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else"
 type: story
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 issues:
   - "Israel & Foreign Policy"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Cory Booker Master Profile|Cory Booker]] · [[Ritchie Torres]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[United Democracy Project - UDP|United Democracy Project]] · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Cory Booker Master Profile|Cory Booker]] · [[Ritchie Torres]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[United Democracy Project - UDP|United Democracy Project]] · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 ---
 #investigation #contradiction #aipac #israel #both-sides #bipartisan #primary-weapon #class-analysis
 tags: #analysis #story

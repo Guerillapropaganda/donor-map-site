@@ -2,7 +2,7 @@
 title: "Zoe Lofgren"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,8 +11,8 @@ state: "California"
 state-abbr: "CA"
 district: "6"
 committees:
-  - "House Committee on Science, Space, and Technology"
-  - "House Committee on the Judiciary"
+  - "Science, Space & Technology"
+  - "Antitrust (Judiciary)"
 leadership-roles:
   - "Ranking Member"
 issues:
@@ -30,22 +30,13 @@ total-received: "$1,274,233"
 fec-candidate-id: "H4CA16049"
 donors: "[[Tech Industry]] · [[Google - Alphabet]]"
 related: "[[Brian Babin]] · [[_Donald Trump Master Profile|Trump]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 bioguide-id: "L000397"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-raised: "$1,274,233"
-total-spent: "$797,141"
-cash-on-hand: "716844.09"
-fec-cycle: 2026
-fec-debt: "13611.65"
-wikidata-id: "Q218217"
-wikipedia-url: "https://en.wikipedia.org/wiki/Zoe_Lofgren"
-wikipedia-extract: 'Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S. representative from California.'
-born: "1947-12-21"
 ---
 #zoe-lofgren #democrat #california #house #ranking-member #science-space-technology #silicon-valley #big-tech #immigration #h1b #antitrust #january-6 #apple #google #meta #phase-6-gavel-power
 
@@ -226,71 +217,3 @@ The H-1B visa issue completes the tech industry alignment: Lofgren's immigration
 
 - [Source: Congress.gov](https://www.congress.gov/member/L000397) (Tier 1)
 <!-- auto:congress-legislation end -->
-
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-**Committees:**
-
-- House Committee on Science, Space, and Technology
-- House Committee on the Judiciary
-
-**Subcommittees:**
-
-- Courts, Intellectual Property, Artificial Intelligence, and the Internet
-- Immigration Integrity, Security, and Enforcement
-- The Administrative State, Regulatory Reform, and Antitrust
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
-<!-- auto:committee-assignments end -->
-
-### Campaign Finance Summary (FEC)
-<!-- auto:fec-summary start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $1,274,233 |
-| Total Spent | $797,141 |
-| Cash on Hand | 716844.09 |
-| Debt | 13611.65 |
-| Individual Contributions | $538,016 |
-| PAC Contributions | $325,450 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $1,274,233 | $797,141 | 716844.09 |
-| 2024 | $2,327,180 | $2,498,797 | 239752.35 |
-| 2022 | $2,022,557 | $2,771,725 | 411369.83 |
-| 2020 | $1,795,702 | $1,771,846 | 1160537.44 |
-| 2018 | $1,733,955 | $1,872,385 | 1136681.80 |
-| 2016 | $1,381,140 | $1,157,331 | 1275112.09 |
-| ... | 11 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA16049/) (Tier 1)
-<!-- auto:fec-summary end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Zoe Lofgren](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S. representative from California.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q218217](https://www.wikidata.org/wiki/Q218217) |
-| Description | American politician |
-| Born | 1947-12-21 |
-| Website | [https://lofgren.house.gov](https://lofgren.house.gov) |
-| X/Twitter | [@RepZoeLofgren](https://x.com/RepZoeLofgren) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Zoe_Lofgren_headshot.jpg?width=300) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Zoe_Lofgren) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q218217) (Tier 2)
-<!-- auto:wikipedia end -->

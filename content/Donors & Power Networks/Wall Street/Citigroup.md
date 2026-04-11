@@ -2,7 +2,7 @@
 title: "Citigroup"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -30,7 +30,7 @@ lobbying-filings: 52
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 0
-related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_French Hill Master Profile|French Hill]] · [[The Financial Services Committee and Wall Street Oversight]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[Tim Geithner]]"
+related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_French Hill Master Profile|French Hill]] · [[The Financial Services Committee and Wall Street Oversight]] · [[Wells Fargo]] · [[Morgan Stanley]]"
 sec-filings: 10000
 sec-form-types:
   - "424B2"
@@ -162,7 +162,7 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -180,12 +180,12 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 **Funded politicians:**
 
-- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — lobbying: $11.6M
+- [[Chuck Schumer]] — lobbying: $11.6M
 - [[French Hill]] (Banking) — lobbying: $11.6M
 - [[Wes Moore]] — lobbying: $11.6M
 - [[Joe Biden]] — lobbying: $11.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

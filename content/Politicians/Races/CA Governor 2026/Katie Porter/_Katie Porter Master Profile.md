@@ -2,7 +2,7 @@
 title: "Katie Porter Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,16 +17,12 @@ fec-candidate-id-house: "H8CA45130"
 bills-sponsored: 174
 bills-cosponsored: 1848
 issues:
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Energy"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
+  - Consumer Protection
+  - Campaign Finance
+  - Healthcare
+  - Housing
+  - Cryptocurrency Regulation
+  - Labor
 top-donors:
   - "Small Dollar Donors (ActBlue)"
   - "UAW Region 6"
@@ -50,7 +46,7 @@ known-gaps:
   - GovTrack auto-block shows 0 bills sponsored/cosponsored (pipeline query gap — 3-term House member should have data)
   - State-level CA gubernatorial campaign finance not pipeline-enriched (state jurisdiction, not FEC)
   - Several sources lack proper URLs (Emerson polling, Daily Beast, ABC7)
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
 related: "[[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[_Gavin Newsom Master Profile]]"
@@ -257,58 +253,3 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 - [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Katie%20Porter) (Tier 1)
 <!-- auto:opensanctions end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | CA |
-| Chamber | Candidate |
-| Bills Sponsored | 187 |
-| Bills Cosponsored | 1848 |
-
-**Policy areas:** Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Energy, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Labor and Employment, Law, Public Lands and Natural Resources, Science, Technology, Communications, Sports and Recreation, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| — |  | On agreeing to the Porter amendment (A011) Agreed to by voice vote. |
-| — |  | On agreeing to the Porter amendment (A010) Agreed to by recorded vote: 399 - 28, 1 Present (Roll no. 685). |
-| 10554 | Pentagon Medical Malpractice Claims Reporting Act | Referred to the House Committee on Armed Services. |
-| 10162 | RESERVE Federal Land Act | Referred to the Subcommittee on Forestry. |
-| 9736 | Corporate Management Accountability Act of 2024 | Referred to the House Committee on Financial Services. |
-| 9663 | Open-Source Standards Reporting Act of 2024 | Referred to the House Committee on Armed Services. |
-| 9664 | Accurate Industrial Policy Budgeting Act of 2024 | Referred to the House Committee on Armed Services. |
-| 9507 | Expanding Security Assistance Notification Act | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/P000618) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Not Voting** | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Not Voting** | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Not Voting** | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Not Voting** | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Not Voting** | Passed |
-| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **Not Voting** | Passed |
-| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Not Voting** | Passed |
-| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Not Voting** | Passed |
-| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Not Voting** | Passed |
-| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Not Voting** | Passed |
-| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Nay** | Passed |
-
-**Sources**
-
-- [Congress.gov: Katie Porter](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Katie Porter](https://www.govtrack.us/congress/members/412758) (Tier 1)
-<!-- auto:voting-record end -->

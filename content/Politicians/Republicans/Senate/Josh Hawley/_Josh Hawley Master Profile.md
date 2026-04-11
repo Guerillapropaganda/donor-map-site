@@ -188,17 +188,3 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/405245) (Tier 1)
 <!-- auto:govtrack end -->
-
-### Influence Network (Cross-Reference)
-<!-- auto:influence-cross-ref start -->
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | None |
-
-**Donors who lobby (by spend):**
-
-- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
-<!-- auto:influence-cross-ref end -->

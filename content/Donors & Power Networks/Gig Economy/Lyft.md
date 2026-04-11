@@ -2,7 +2,7 @@
 title: "Lyft"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -34,7 +34,7 @@ court-jurisdictions:
   - "District Court, E.D. Michigan"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
-related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Airbnb]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[DoorDash]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]]"
+related: "[[Instacart]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Airbnb]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[DoorDash]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"
@@ -268,7 +268,7 @@ Climate/EV — Prop 30 ($8M spent, Newsom opposed)
 
 - [[Gavin Newsom]] — lobbying: $3.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Spending (USASpending)

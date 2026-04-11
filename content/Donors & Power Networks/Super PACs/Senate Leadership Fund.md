@@ -2,7 +2,7 @@
 title: "Senate Leadership Fund"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -27,8 +27,8 @@ sec-form-types:
   - "DEF 14A"
 ein: "862883453"
 nonprofit-status: "501(c)(4)"
-related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim Scott]] · [[John Cornyn]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Winning for Women PAC]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Priorities USA Action]] · [[House Majority PAC]]"
-opposes: "[[Raphael Warnock Master Profile]] · [[Mark Kelly]] · [[John Fetterman Master Profile]] · [[Catherine Cortez Masto]]"
+related: "[[Senate Majority PAC]] · [[North Carolina 2026 Senate Race]] · [[Maine 2026 Senate Race]] · [[Iowa 2026 Senate Race]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Jon Husted Master Profile]] · [[Ashley Hinson Master Profile]] · [[Kenneth Griffin Hedges the Republican Primary]] · [[2026-03-25 Finance Research]] · [[Tim Scott]] · [[John Cornyn]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Citadel - Kenneth Griffin|Citadel / Ken Griffin]] · [[One Nation]] · [[Blackstone Group|Blackstone]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Winning for Women PAC]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]]"
+opposes: "[[Raphael Warnock Master Profile]] · [[Mark Kelly]]"
 cross-vault-triangulation-count: 19
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

@@ -2,7 +2,7 @@
 title: "American Farm Bureau Federation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -58,7 +58,7 @@ sec-form-types:
   - "PRE 14A"
   - "SC TO-I"
   - "SC TO-I/A"
-related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]]"
+related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
 court-cases: 330
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
@@ -312,7 +312,7 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -331,7 +331,7 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 - [[Jodey Arrington]] (Budget, Ways & Means, Agriculture)
 - [[Frank Lucas]] (Agriculture)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

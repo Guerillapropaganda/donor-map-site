@@ -2,7 +2,7 @@
 title: "Stephen Schwarzman"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -56,7 +56,7 @@ sec-form-types:
   - "SC 13D/A"
   - "SC 13G"
   - "SC 14D9"
-related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Schwarzman Connection and Private Equity Capture]] · [[_Donald Trump Master Profile]] · [[Private Equity Industry Bloc|Private Equity Industry]] · [[MAGA Inc]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Blackstone Group]] · [[Great Lakes Conservatives Fund]] · [[Blackstone Real Estate]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Schwarzman Connection and Private Equity Capture]] · [[_Donald Trump Master Profile]] · [[Private Equity Industry Bloc|Private Equity Industry]] · [[MAGA Inc]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Blackstone Group]] · [[Great Lakes Conservatives Fund]]"
 court-cases: 25
 court-jurisdictions:
   - "District Court, D. Maryland"
@@ -277,7 +277,7 @@ The deeper pattern: Schwarzman positions himself as a statesman (Yale scholar, m
 
 - [[Donald Trump]] — lobbying: $3.0M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

@@ -7,37 +7,37 @@ type: reference
 
 | Category | Count |
 |----------|-------|
-| **Total Profiles** (politicians + donors) | 645 |
-| Politicians | 252 |
-| Donors / Corporations | 393 |
+| **Total Profiles** (politicians + donors) | 670 |
+| Politicians | 282 |
+| Donors / Corporations | 388 |
 | Stories | 105 |
-| Events | 239 |
-| All .md files scanned | 1791 |
+| Events | 202 |
+| All .md files scanned | 1735 |
 
 ## Readiness Breakdown
 
 | Level | Count |
 |-------|-------|
-| Raw (D-F) | 39 |
-| Draft (C) | 904 |
-| Ready (B) | 563 |
+| Raw (D-F) | 29 |
+| Draft (C) | 566 |
+| Ready (B) | 898 |
 | Verified (A+) | 0 |
-| Unknown / Not Set | 285 |
+| Unknown / Not Set | 242 |
 
 ## Verification Status
 
 | Tag | Files |
 |-----|-------|
 | Files with (UNVERIFIED) | 58 |
-| Files with (URL NEEDED) | 29 |
+| Files with (URL NEEDED) | 22 |
 
 ## Coverage
 
 | Metric | Count |
 |--------|-------|
-| Politicians with top-donors populated | 157 |
-| Politicians missing top-donors | 95 |
-| Donors with politicians-funded populated | 222 |
+| Politicians with top-donors populated | 161 |
+| Politicians missing top-donors | 121 |
+| Donors with politicians-funded populated | 214 |
 
 ## Recent Activity
 
@@ -45,16 +45,16 @@ Last 10 profiles updated (by `last-updated` frontmatter):
 
 | Profile | Type | Last Updated |
 |---------|------|--------------|
-| Pipeline Janitor Report | admin-note | '2026-04-11' |
-| Sprint Schedule | admin-note | '2026-04-11' |
-| Agribusiness Donor Bloc | donor | 2026-04-11 |
-| Agricultural Labor Vulnerability Donors | donor | 2026-04-11 |
-| California Farm Bureau Federation | donor | 2026-04-11 |
-| Cargill | corporation | 2026-04-11 |
-| John Deere | corporation | 2026-04-11 |
-| National Cattlemen's Beef Association | donor | 2026-04-11 |
-| Tyson Foods | corporation | 2026-04-11 |
-| Western Growers Association | donor | 2026-04-11 |
+| Cori Bush | politician | 2026-04-10 |
+| Jamaal Bowman Master Profile | politician | '2026-04-10' |
+| Kyrsten Sinema Master Profile | politician | '2026-04-10' |
+| Ron DeSantis Master Profile | politician | '2026-04-10' |
+| Marjorie Taylor Greene Master Profile | politician | '2026-04-10' |
+| Mark Green | politician | '2026-04-10' |
+| George W. Bush | politician | '2026-04-10' |
+| Ashley Hinson Master Profile | politician | '2026-04-10' |
+| Session State | system | 2026-04-10 |
+| Investigation Queue | admin-note | '2026-04-09' |
 
 ## Stale Profiles
 
@@ -62,4 +62,4 @@ Profiles where `last-updated` is 90+ days ago: **0**
 
 ---
 
-*Generated: 2026-04-11 07:55:34 UTC*
+*Generated: 2026-04-10 08:56:57 UTC*

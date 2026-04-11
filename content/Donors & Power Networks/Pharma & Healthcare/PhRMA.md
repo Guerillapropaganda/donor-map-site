@@ -2,7 +2,7 @@
 title: "PhRMA - Pharmaceutical Research and Manufacturers of America"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Pharma & Healthcare"
@@ -26,7 +26,7 @@ regulatory-agencies:
   - "Health and Human Services Department"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Healthcare - Donors and Backers]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[2026-03-26 Finance Research]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[Pharmaceutical Industry]] · [[_Richard Neal Master Profile|Richard Neal]] · [[_Brett Guthrie Master Profile|Guthrie]] · [[_Billy Tauzin Master Profile|Tauzin]] · [[Pfizer]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[AbbVie]] · [[American Action Network]] · [[Partnership for Safe Medicines]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]] · [[Gilead Sciences]] · [[Centene Corporation]]"
+related: "[[Healthcare - Donors and Backers]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[2026-03-26 Finance Research]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[Pharmaceutical Industry]] · [[_Richard Neal Master Profile|Richard Neal]] · [[_Brett Guthrie Master Profile|Guthrie]] · [[_Billy Tauzin Master Profile|Tauzin]] · [[Pfizer]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[AbbVie]] · [[American Action Network]] · [[Partnership for Safe Medicines]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]]"
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
@@ -331,27 +331,16 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 |--------|-------|
 | Politicians Funded | 6 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Health Issues** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Medicare/Medicaid** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Pharmacy** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Healthcare** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Budget/Appropriations** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Chris Coons** → Sits on **Senate Committee on the Judiciary**
-- Lobbies on **Defense** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
-- Lobbies on **Foreign Relations** → Funds **Chris Coons** → Sits on **Senate Committee on Foreign Relations**
+| Committee Overlap Detected | None |
 
 **Funded politicians:**
 
 - [[Richard Neal]] (Ways & Means) — lobbying: $2.7M
 - [[Brett Guthrie]] — lobbying: $2.7M
 - [[Billy Tauzin]] — lobbying: $2.7M
-- [[Frank Pallone]] (House Committee on Energy and Commerce) — lobbying: $2.7M
-- [[Chris Coons]] (Senate Committee on Appropriations, Senate Committee on Foreign Relations, Senate Committee on Small Business and Entrepreneurship) — lobbying: $2.7M
+- [[Frank Pallone]] (Energy & Commerce, Environment & Public Works) — lobbying: $2.7M
+- [[Chris Coons]] — lobbying: $2.7M
 - [[Cory Booker]] — lobbying: $2.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

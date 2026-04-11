@@ -2,12 +2,12 @@
 title: "Patrick Bet-David"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Mark Levin]] · [[Valuetainment]] · [[Jillian Michaels]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Jimmy Dore]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]]"
+related: "[[Koch Network - Charles Koch]] · [[Fox News - Murdoch Media Empire]] · [[Mark Levin]] · [[Valuetainment]] · [[Jillian Michaels]] · [[Sean Hannity]] · [[Greg Gutfeld]] · [[Crooked Media]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Jimmy Dore]] · [[Christopher Rufo]] · [[Charlie Kirk]]"
 ---
 
 #media-pipeline #right #mlm #entrepreneurship #trump #immigration #youtube #podcast

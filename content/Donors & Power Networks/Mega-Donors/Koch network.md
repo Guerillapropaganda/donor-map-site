@@ -2,7 +2,7 @@
 title: "Koch network"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -20,7 +20,7 @@ court-jurisdictions:
   - "District Court, S.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Washington"
-related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]] · [[The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch - Koch Industries]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Ron Johnson]] · [[Markwayne Mullin]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]"
+related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]] · [[The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch - Koch Industries]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Ron Johnson]]"
 lei: "391200KFDASVUTIYEP51"
 lei-jurisdiction: "DE"
 cross-vault-triangulation-count: 19

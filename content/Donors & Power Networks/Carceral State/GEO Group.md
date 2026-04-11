@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -15,7 +15,7 @@ politicians-funded:
   - "Pam Bondi"
 federal-contracts: "959292"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 ofac-programs:
   - "NPWMD] [IFSR"
   - "IRAN-EO13871"
@@ -30,7 +30,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lobbying-spend: 2624500
 lobbying-filings: 106
-related: "[[Uber]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[CoreCivic]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Save America PAC]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Pam Bondi Master Profile|Pam Bondi]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]]"
+related: "[[Uber]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[CoreCivic]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Save America PAC]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Pam Bondi Master Profile|Pam Bondi]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]]"
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
 ---
@@ -592,7 +592,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [[Marco Rubio]] — lobbying: $2.6M — contracts: $959K
 - [[Pam Bondi]] — lobbying: $2.6M — contracts: $959K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### OFAC Sanctions Screening

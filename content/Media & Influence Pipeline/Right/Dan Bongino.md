@@ -2,11 +2,11 @@
 title: "Dan Bongino"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
-related: "[[Tucker Carlson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[Russell Brand]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Jimmy Dore]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]]"
+related: "[[Tucker Carlson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[Russell Brand]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Jimmy Dore]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]]"
 donors: "[[Peter Thiel]]"
 ---
 

@@ -2,19 +2,13 @@
 title: "Western Growers Association"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "John Hoeven"
-  - "Kevin McCarthy"
-  - "Henry Cuellar"
-  - "Jerry Moran"
-  - "Roger Marshall"
-  - "Mike Johnson"
-  - "Ron Johnson"
+  - "Gavin Newsom"
 issues:
   - "Immigration"
 ein: "751972150"
@@ -23,7 +17,7 @@ net-assets: "$849K"
 tax-year: "2023"
 total-political-spend: "$481,034"
 court-cases: 44
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -72,14 +66,11 @@ regulatory-agencies:
   - "Interior Department"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]]"
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q19321870"
-wikipedia-url: "https://en.wikipedia.org/wiki/Western_Growers_Association"
-wikipedia-extract: "The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico."
 ---
 #donor #agricultural-employer #western-growers #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
 
@@ -193,28 +184,6 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Western%20Growers%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 44 |
-| Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, E.D. California, District Court, S.D. California, District Court, W.D. New York |
-| Case Types | 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute, Constitutional - State Statute |
-
-**Notable cases:**
-- California League of Food Producers v. Bonta (2026) — District Court, S.D. California
-- California Chamber of Commerce, et al. v. Bonta, et al. (2025) — Court of Appeals for the Ninth Circuit
-- United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
-- Daimler Truck North America LLC v. CA Air Resources Board (2025) — District Court, E.D. California
-- Western Growers Association v. Agricultural Labor Relations Board (2025) — District Court, E.D. California
-- California Chamber of Commerce v. Bonta (2024) — District Court, E.D. California
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Western%20Growers%20Association%22&type=r) (Tier 1)
-
-<!-- auto:courtlistener-cases pending-merge end -->
-
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
 | Metric | Value |
@@ -239,33 +208,6 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
-<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| EIN | 751972150 |
-| Tax-Exempt Status | 501(c)(6) |
-| Total Revenue | $266K |
-| Total Assets | $703K |
-| IRS Ruling Date | 1989-05-01 |
-| Filings on Record | 13 |
-
-**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
-
-**View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/751972150/2019)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/751972150) (Tier 1)
-
-<!-- auto:nonprofit-990 pending-merge end -->
-
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |
@@ -283,27 +225,6 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20Growers%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
-
-<!-- auto:sec-edgar pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 61 |
-| Form Types | 10-K, 10-K/A, 10KSB, 20-F, 20-F/A, 424B4, 485BPOS, 8-K +14 more |
-
-**Notable filings:**
-
-- 2018-08-02 — **8-K**: 8-K
-- 2018-08-02 — **EX-99.1**: EX-99.1
-- 2021-02-25 — **DEF 14A**: DEF 14A
-- 2003-05-28 — **10KSB**: 10KSB
-- 2001-08-20 — **SB-2**: SB-2
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20Growers%20Association%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -327,68 +248,5 @@ Immigration — H-2A program, undocumented workforce, sanctuary policy
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20Growers%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 22 |
-| Final Rules | 8 |
-| Proposed Rules | 8 |
-| Notices | 6 |
-| Agencies | Agricultural Marketing Service, Agriculture Department, Environmental Protection Agency, Fish and Wildlife Service, Food and Drug Administration, Health and Human Services Department, Homeland Security Department, Interior Department +2 more |
-
-**Recent regulatory activity:**
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2015/11/27/2015-28159/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (2015-11-27) — Health and Human Services Department ★
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2013/01/16/2013-00123/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (2013-01-16) — Health and Human Services Department ★
-- [Perishable Agricultural Commodities Act: Increase in License Fees](https://www.federalregister.gov/documents/2010/08/24/2010-20978/perishable-agricultural-commodities-act-increase-in-license-fees) (2010-08-24) — Agriculture Department
-- [Draft Guidance for Industry: Guide to Minimize Microbial Food Safety Hazards of Leafy Greens; Availability](https://www.federalregister.gov/documents/2009/08/03/E9-18451/draft-guidance-for-industry-guide-to-minimize-microbial-food-safety-hazards-of-leafy-greens) (2009-08-03) — Health and Human Services Department
-- [Hazardous Materials: Miscellaneous Cargo Tank Motor Vehicle and Cylinder Issues; Petitions for Rulemaking](https://www.federalregister.gov/documents/2009/04/09/E9-8021/hazardous-materials-miscellaneous-cargo-tank-motor-vehicle-and-cylinder-issues-petitions-for) (2009-04-09) — Transportation Department
-- [Safe Harbor Procedures for Employers Who Receive a No-Match Letter: Clarification; Final Regulatory Flexibility Analysis](https://www.federalregister.gov/documents/2008/10/28/E8-25544/safe-harbor-procedures-for-employers-who-receive-a-no-match-letter-clarification-final-regulatory) (2008-10-28) — Homeland Security Department
-- ... and 16 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20Growers%20Association%22) (Tier 1)
-
-<!-- auto:federal-register pending-merge end -->
-
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
-
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $481,034 |
-| Contributions | 323 |
-
-**Top recipients:**
-
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| AMERICAN FUTURE FUND POLITICAL ACTION | $120,000 | — |
-| HOEVEN FOR SENATE | $17,500 | REP |
-| RNC REPUBLICAN NATIONAL STATE ELECTION COMMITTEE | $15,863 | — |
-| MCCARTHY VICTORY FUND | $15,000 | — |
-| KEVIN MCCARTHY FOR CONGRESS | $12,500 | REP |
-| FRIENDS OF DENNIS CARDOZA | $10,000 | DEM |
-| TEXANS FOR HENRY CUELLAR CONGRESSIONAL CAMPAIGN | $9,000 | DEM |
-| YVETTE4CONGRESS | $8,800 | NNE |
-| TEXANS FOR RONNY JACKSON | $8,500 | REP |
-| FINSTAD FOR CONGRESS | $8,500 | REP |
-
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1)
-<!-- auto:fec-donor end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q19321870](https://www.wikidata.org/wiki/Q19321870) |
-| Description | association representing farmers in the states of California and Arizona |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Western_Growers_Association) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2)
-<!-- auto:wikipedia end -->

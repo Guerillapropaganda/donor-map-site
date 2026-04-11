@@ -2,7 +2,7 @@
 title: "Trial Lawyers Fund"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -19,7 +19,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, D. Massachusetts"
-related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]]"
+related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 191325
 total-assets: 304648

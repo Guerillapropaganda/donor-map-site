@@ -216,24 +216,3 @@ Scott's presidential bid raised $45.8M combined: $12.5M campaign committee, $22M
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P80008063/) (Tier 1)
 <!-- auto:fec-politician end -->
-
-### Influence Network (Cross-Reference)
-<!-- auto:influence-cross-ref start -->
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | None |
-
-**Donors who lobby (by spend):**
-
-- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
-<!-- auto:influence-cross-ref end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Tim Scott](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "John Boozman"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"

@@ -2,7 +2,7 @@
 title: "Gerry Connolly"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,19 +24,6 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-11"
-bioguide-id: "C001091"
-issues:
-  - "Agriculture and Food"
-  - "Animals"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Environmental Protection"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
 ---
 #gerry-connolly #democrat #virginia #house #oversight #ranking-member #federal-workforce #government-contractors #FITARA #IT-modernization #doge #deceased #phase-6-gavel-power
 
@@ -156,45 +143,4 @@ The analytical interest is what this alignment obscures: Connolly was the Democr
 - [Wikipedia: Gerry Connolly](https://en.wikipedia.org/wiki/Gerry_Connolly) (Tier 3)
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- [Congress.gov: Gerry Connolly](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->
-
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democratic |
-| State | Virginia |
-| Chamber | House of Representatives |
-| Bills Sponsored | 355 |
-| Bills Cosponsored | 4563 |
-
-**Policy areas:** Agriculture and Food, Animals, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Environmental Protection, Government Operations and Politics, Health, International Affairs, Labor and Employment, Law, Public Lands and Natural Resources, Science, Technology, Communications, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 3490 | Gerald E. Connolly Esophageal Cancer Awareness Act of 2025 | Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
-| 3317 | Honoring Civil Servants Killed in the Line of Duty Act | Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Veterans' Affairs, Transportation and Infrastructure, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 403 | Expressing the sense of the House of Representatives that public servants should… | Referred to the House Committee on Oversight and Government Reform. |
-| — |  | On agreeing to the Connolly amendment (A015) Failed by recorded vote: 215 - 218 (Roll no. 437). |
-| 324 | Raising awareness of esophageal cancer by expressing support for the designation… | Referred to the House Committee on Energy and Commerce. |
-| 2622 | Russia-North Korea Cooperation Sanctions Act | Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Ways and Means, Financial Services, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 2416 | Taiwan International Solidarity Act | Received in the Senate and Read twice and referred to the Committee on Foreign Relations. |
-| 2417 | Strengthening Agency Management and Oversight of Software Assets Act | Referred to the House Committee on Oversight and Government Reform. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001078) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-_No committee data found._
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
-<!-- auto:committee-assignments end -->

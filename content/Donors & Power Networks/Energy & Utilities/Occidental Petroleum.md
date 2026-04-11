@@ -2,14 +2,14 @@
 title: "Occidental Petroleum"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
 lei: "IM7X0T3ECJW4C1T7ON55"
 lei-jurisdiction: "US-DE"
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]] · [[Koch Industries]] · [[ConocoPhillips]] · [[Devon Energy]] · [[Halliburton]] · [[ExxonMobil]] · [[Chevron]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]] · [[Koch Industries]] · [[ConocoPhillips]] · [[Devon Energy]] · [[Halliburton]] · [[ExxonMobil]] · [[Chevron]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]]"
 court-cases: 2807
 last-enriched: "2026-04-09"
 needs-reenrichment: true

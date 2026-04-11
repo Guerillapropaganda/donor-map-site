@@ -2,7 +2,7 @@
 title: "National Republican Senatorial Committee"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -10,7 +10,7 @@ entity-type: "PAC"
 politicians-funded:
   - "Rick Scott"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -27,7 +27,7 @@ court-jurisdictions:
   - "District Court, D. Utah"
   - "District Court, District of Columbia"
   - "District Court, W.D. Michigan"
-related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[WinRed]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[MAGA Inc]] · [[Trump Victory]] · [[Fairshake PAC]]"
+related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[WinRed]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[MAGA Inc]]"
 federal-register-mentions: 22
 regulatory-agencies:
   - "Federal Election Commission"

@@ -341,13 +341,3 @@ When questioned about consumer harm or fraud risk, McHenry invoked "free market 
 - [Congress.gov: Patrick McHenry](https://www.congress.gov/member/c001091) (Tier 1)
 - [GovTrack: Patrick McHenry](https://www.govtrack.us/congress/members/400644) (Tier 1)
 <!-- auto:voting-record end -->
-
-### Influence Network (Cross-Reference)
-<!-- auto:influence-cross-ref start -->
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 0 of 1 |
-| Committee Overlap Detected | None |
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
-<!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "Amy Klobuchar"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,16 +14,9 @@ committees:
   - "Judiciary"
   - "Agriculture"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
+  - "Antitrust & Monopoly"
+  - "Agriculture"
+  - "Technology"
 top-donors:
   - "Google - Alphabet"
   - "Amazon"
@@ -34,13 +27,12 @@ total-received: "$2,401,862"
 fec-candidate-id: "S6MN00267"
 donors: "[[Jewish Democratic Council of America]] · [[Fraternal Order of Police]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Google]] · [[Meta]] · [[Michael Bloomberg]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-bioguide-id: "K000367"
 ---
 #amy-klobuchar #democrat #minnesota #senate #antitrust #judiciary #agriculture #tech #genuine-win-structural-limit #two-audience-problem #revolving-door
 
@@ -190,7 +182,7 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 �
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -220,79 +212,9 @@ Klobuchar's office has 18 documented revolving door staff movements since 2000 �
 - [[Meta - Facebook]] — $36.5M lobbying spend (Automotive Industry, Aviation/Airlines/Airports, Banking)
 - [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democratic |
-| State | Minnesota |
-| Chamber | Senate |
-| Bills Sponsored | 1409 |
-| Bills Cosponsored | 5559 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Commerce, Crime and Law Enforcement, Education, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Native Americans, Science, Technology, Communications
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| — |  | Amendment SA 4785 agreed to in Senate by Unanimous Consent. |
-| 4148 | Homegrown Fertilizer Act | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
-| 648 | A resolution honoring the memory, service, and sacrifice of Master Sergeant Nico… | Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent. (text: CR S1610) |
-| 4107 | Antitrust Accountability and Transparency Act | Read twice and referred to the Committee on the Judiciary. |
-| 4062 | Next Generation 9–1–1 Act | Read twice and referred to the Committee on Commerce, Science, and Transportation. |
-| 4020 | Housing Supply and Affordability Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
-| — |  | — |
-| — |  | — |
-
-- [Source: Congress.gov](https://www.congress.gov/member/K000367) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2030 |
-| Total Raised | $2,401,862 |
-| Individual Contributions | $843,116 |
-| PAC Contributions | $149,000 |
-| Cash on Hand | 2030458.38 |
-| IE Support (Super PAC) | $455,793 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2030 | $2,401,862 | $843,116 | $149,000 |
-| 2024 | $21,873,759 | $7,889,228 | $1,368,278 |
-| 2018 | $10,860,151 | $5,306,003 | $2,332,760 |
-| 2012 | $10,616,213 | $5,120,858 | $2,776,697 |
-| 2006 | $9,068,105 | $4,265,185 | $905,058 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| EMILY'S LIST | $133,005 | $0 |
-| PROGRESSIVE TURNOUT PROJECT | $87,327 | $0 |
-| PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND | $70,488 | $0 |
-| UNITED BREAST CANCER SUPPORT PAC | $57,125 | $0 |
-| AFSCME WORKING FAMILIES FUND | $36,702 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6MN00267/) (Tier 1)
-<!-- auto:fec-politician end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Amy Klobuchar](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

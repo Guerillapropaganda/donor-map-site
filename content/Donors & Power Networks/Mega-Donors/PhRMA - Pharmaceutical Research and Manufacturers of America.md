@@ -2,7 +2,7 @@
 title: "PhRMA - Pharmaceutical Research and Manufacturers of America"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -40,10 +40,6 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 related: "[[PhRMA]] · [[Pharmaceutical Industry]]"
-federal-register-mentions: 1
-last-enriched: "2026-04-11"
-regulatory-agencies:
-  - "Health and Human Services Department"
 ---
 #phrma #redirect #pharma #lobbying
 
@@ -124,14 +120,7 @@ PhRMA - Pharmaceutical Research and Manufacturers of America. A redirect node fo
 |--------|-------|
 | Politicians Funded | 6 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Budget/Appropriations** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Chris Coons** → Sits on **Senate Committee on the Judiciary**
-- Lobbies on **Defense** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
-- Lobbies on **Foreign Relations** → Funds **Chris Coons** → Sits on **Senate Committee on Foreign Relations**
+| Committee Overlap Detected | None |
 
 **Funded politicians:**
 
@@ -139,56 +128,8 @@ PhRMA - Pharmaceutical Research and Manufacturers of America. A redirect node fo
 - [[Brett Guthrie]] — lobbying: $2.7M
 - [[Billy Tauzin]] — lobbying: $2.7M
 - [[Frank Pallone]] (Energy & Commerce, Environment & Public Works) — lobbying: $2.7M
-- [[Chris Coons]] (Senate Committee on Appropriations, Senate Committee on Foreign Relations, Senate Committee on Small Business and Entrepreneurship) — lobbying: $2.7M
+- [[Chris Coons]] — lobbying: $2.7M
 - [[Cory Booker]] — lobbying: $2.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
-
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 6 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Health Issues** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Medicare/Medicaid** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Pharmacy** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Healthcare** → Funds **Frank Pallone** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Budget/Appropriations** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Chris Coons** → Sits on **Senate Committee on the Judiciary**
-- Lobbies on **Defense** → Funds **Chris Coons** → Sits on **Senate Committee on Appropriations**
-- Lobbies on **Foreign Relations** → Funds **Chris Coons** → Sits on **Senate Committee on Foreign Relations**
-
-**Funded politicians:**
-
-- [[Richard Neal]] (Ways & Means) — lobbying: $2.7M
-- [[Brett Guthrie]] — lobbying: $2.7M
-- [[Billy Tauzin]] — lobbying: $2.7M
-- [[Frank Pallone]] (House Committee on Energy and Commerce) — lobbying: $2.7M
-- [[Chris Coons]] (Senate Committee on Appropriations, Senate Committee on Foreign Relations, Senate Committee on Small Business and Entrepreneurship) — lobbying: $2.7M
-- [[Cory Booker]] — lobbying: $2.7M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
-
-### Federal Register Activity
-<!-- auto:federal-register start -->
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 1 |
-| Proposed Rule | 1 |
-| Agencies | Health and Human Services Department |
-
-**Recent regulatory activity:**
-- [Clinical Trials Registration and Results Submission](https://www.federalregister.gov/documents/2014/11/21/2014-26197/clinical-trials-registration-and-results-submission) (2014-11-21) — Health and Human Services Department
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22PhRMA%20-%20Pharmaceutical%20Research%20and%20Manufacturers%20of%20America%22) (Tier 1)
-<!-- auto:federal-register end -->

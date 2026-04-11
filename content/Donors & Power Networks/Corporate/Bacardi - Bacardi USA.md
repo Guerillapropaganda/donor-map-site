@@ -2,7 +2,7 @@
 title: "Bacardi - Bacardi USA"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Corporate"
@@ -21,9 +21,6 @@ known-gaps:
   - "No FEC contribution data"
 lobbying-spend: 1832500
 lobbying-filings: 36
-ftc-enforcement-actions: 0
-ftc-hsr-notices: 2
-last-enriched: "2026-04-11"
 ---
 #bacardi #cuba #embargo #trademark #rum #lobbying #helms-burton #class-analysis #follow-the-money
 
@@ -162,38 +159,19 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 |--------|-------|
 | Politicians Funded | 5 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
+| Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Budget/Appropriations** → Funds **Mario Diaz-Balart** → Sits on **Appropriations**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **Maria Elvira Salazar** → Sits on **House Committee on Financial Services**
-- Lobbies on **Foreign Relations** → Funds **Maria Elvira Salazar** → Sits on **House Committee on Foreign Affairs**
 
 **Funded politicians:**
 
 - [[Marco Rubio]] — lobbying: $1.8M
 - [[Mario Diaz-Balart]] (Appropriations) — lobbying: $1.8M
-- [[Maria Elvira Salazar]] (House Committee on Financial Services, House Committee on Foreign Affairs) — lobbying: $1.8M
+- [[Maria Elvira Salazar]] — lobbying: $1.8M
 - [[Carlos Gimenez]] (Transportation & Infrastructure) — lobbying: $1.8M
 - [[Debbie Wasserman Schultz]] — lobbying: $1.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
-
-### FTC Enforcement & Merger Review
-<!-- auto:ftc-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| FTC enforcement actions (historical, ≤FY2021) | 0 |
-| HSR early termination notices (merger filings) | 2 |
-
-**Recent HSR merger filings (early terminations granted):**
-
-- [Bacardi Limited → John Paul Dejoria](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180738) (2018-02-26)
-- [Bacardi U.S.A., Inc. → Tequila Cazadores, S.A. de C.V.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20020361) (2002-01-28)
-
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Bacardi%20-%20Bacardi%20USA).
-
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Bacardi%20-%20Bacardi%20USA) (Tier 1)
-<!-- auto:ftc-enforcement end -->

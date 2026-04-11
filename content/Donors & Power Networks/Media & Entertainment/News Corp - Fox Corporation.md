@@ -2,7 +2,7 @@
 title: "News Corp - Fox Corporation"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -15,7 +15,7 @@ lei: "984500CF6457BDCFAD28"
 lei-jurisdiction: "US-DE"
 lobbying-spend: 7016500
 lobbying-filings: 62
-related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[AT&T - WarnerMedia]] · [[Trump Media & Technology Group]] · [[iHeartMedia]] · [[Sinclair Broadcast Group]] · [[Tech and Media Donors]] · [[Fox News Pipeline to Power]]"
+related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[AT&T - WarnerMedia]] · [[Trump Media & Technology Group]] · [[iHeartMedia]] · [[Sinclair Broadcast Group]]"
 ein: "850803187"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"

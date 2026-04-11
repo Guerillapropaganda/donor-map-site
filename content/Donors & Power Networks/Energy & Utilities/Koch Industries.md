@@ -2,7 +2,7 @@
 title: "Koch Industries"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -25,7 +25,7 @@ tax-year: "2023"
 federal-awards-total: 0
 federal-contracts-count: 10
 federal-grants-count: 0
-related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Veterans Affairs and Iowa Agriculture]] · [[John Kennedy Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[WSPA - Western States Petroleum Association]] · [[Chevron]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Agriculture-Appropriations Pipeline and Arkansas Defense]] · [[The Foreign Relations Committee and Idaho Energy]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[Kevin McCarthy Master Profile]] · [[Cathy McMorris Rodgers Master Profile]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[Fossil Fuel Bloc]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[US Chamber of Commerce]] · [[Federalist Society]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Freedom Caucus]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[The Small Business Committee and Texas Oil-Auto Pipeline]] · [[Blue Cross Blue Shield Association]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
+related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Veterans Affairs and Iowa Agriculture]] · [[John Kennedy Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[WSPA - Western States Petroleum Association]] · [[Chevron]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Agriculture-Appropriations Pipeline and Arkansas Defense]] · [[The Foreign Relations Committee and Idaho Energy]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[Kevin McCarthy Master Profile]] · [[Cathy McMorris Rodgers Master Profile]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[Fossil Fuel Bloc]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[US Chamber of Commerce]] · [[Federalist Society]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Freedom Caucus]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[The Small Business Committee and Texas Oil-Auto Pipeline]] · [[Blue Cross Blue Shield Association]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]]"
 nonprofit-status: "501(c)(9)"
 last-enriched: "2026-04-09"
 needs-reenrichment: true

@@ -108,6 +108,7 @@ function getBeforeContent(filePath) {
     return execSync(`git show HEAD:"${filePath}"`, {
       cwd: REPO_ROOT,
       encoding: 'utf-8',
+      stdio: ['ignore', 'pipe', 'ignore'],
     });
   } catch {
     return '';
@@ -122,6 +123,7 @@ function getAfterContent(filePath) {
     return execSync(`git show :"${filePath}"`, {
       cwd: REPO_ROOT,
       encoding: 'utf-8',
+      stdio: ['ignore', 'pipe', 'ignore'],
     });
   } catch {
     return '';
@@ -139,6 +141,7 @@ function getAddedLines(filePath) {
     const out = execSync(`git diff --cached -U0 -- "${filePath}"`, {
       cwd: REPO_ROOT,
       encoding: 'utf-8',
+      stdio: ['ignore', 'pipe', 'ignore'],
     });
     const added = [];
     for (const line of out.split(/\r?\n/)) {

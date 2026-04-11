@@ -2,7 +2,7 @@
 title: "American Gaming Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -23,7 +23,7 @@ politicians-funded:
   - "Kevin McCarthy"
 
 nonprofit-status: "501(c)(6)"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-07"
 total-revenue: 24597723
 total-assets: 36994357
 sec-filings: 2157
@@ -44,7 +44,7 @@ sec-form-types:
   - "EX-99.4"
   - "N-Q"
   - "SC TO-C"
-related: "[[Sports Gambling Industry State Capture]] · [[Steve Scalise]] · [[Jason Smith]] · [[Glenn Thompson]] · [[Bennie Thompson]] · [[National Association of Manufacturers]] · [[Adam Smith]] · [[Blue Shield of California]] · [[Miriam Adelson]] · [[Sheldon Adelson]] · [[Las Vegas Sands]] · [[MGM Resorts International]] · [[Caesars Entertainment]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]]"
+related: "[[Sports Gambling Industry State Capture]] · [[Steve Scalise]] · [[Jason Smith]] · [[Glenn Thompson]] · [[Bennie Thompson]] · [[National Association of Manufacturers]] · [[Adam Smith]] · [[Blue Shield of California]] · [[Miriam Adelson]] · [[Sheldon Adelson]] · [[Las Vegas Sands]] · [[MGM Resorts International]] · [[Caesars Entertainment]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]]"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 ---
@@ -310,44 +310,3 @@ The prediction market schism reveals the limits of trade association governance 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Gaming%20Association%22) (Tier 1)
 <!-- auto:sec-edgar end -->
-
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 81 |
-| Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the Fourth Circuit, Court of Appeals for the Ninth Circuit, District Court, D. Arizona, District Court, D. Nevada, District Court, E.D. Kentucky, District Court, E.D. Louisiana, District Court, S.D. Florida +2 more |
-| Case Types | 890 Other Statutes: Other Statutory Actions, 890 Other Statutory Actions, 950 Constitutional - State Statute |
-
-**Notable cases:**
-- Robinhood Derivatives LLC v. Griffin (2026) — District Court, W.D. Washington
-- State of Washington v. KalshiEX LLC (2026) — District Court, W.D. Washington
-- KalshiEX LLC v. Johnson (2026) — District Court, D. Arizona
-- Keohohou v. North American Derivatives Exchange, Inc. (2026) — District Court, S.D. Florida
-- Hallman v. KalshiEX LLC (2026) — District Court, S.D. New York
-- Robinhood Derivatives, LLC v. Dreitzer, et al. (2025) — Court of Appeals for the Ninth Circuit
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Gaming%20Association%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->
-
-### Federal Register Activity
-<!-- auto:federal-register start -->
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 19 |
-| Proposed Rule | 4 |
-| Notice | 11 |
-| Rule | 4 |
-| Agencies | Coast Guard, Federal Trade Commission, Financial Crimes Enforcement Network, Homeland Security Department, Indian Affairs Bureau, Interior Department, Treasury Department |
-
-**Recent regulatory activity:**
-- [Anti-Money Laundering and Countering the Financing of Terrorism Programs](https://www.federalregister.gov/documents/2026/04/10/2026-07033/anti-money-laundering-and-countering-the-financing-of-terrorism-programs) (2026-04-10) — Treasury Department
-- [Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change on Information Sharing Between Government Agencies and Financial Institutions](https://www.federalregister.gov/documents/2025/09/30/2025-18928/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-on) (2025-09-30) — Treasury Department
-- [Agency Information Collection Activities: Proposed New Information Collection; Survey of the Costs of AML/CFT Compliance; Comment Request](https://www.federalregister.gov/documents/2025/09/30/2025-18918/agency-information-collection-activities-proposed-new-information-collection-survey-of-the-costs-of) (2025-09-30) — Treasury Department
-- [Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change of Reports of Transactions With Foreign Financial Agencies](https://www.federalregister.gov/documents/2025/05/23/2025-09310/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-of) (2025-05-23) — Treasury Department
-- [Agency Information Collection Activities; Proposed Renewal; Comment Request; Renewal Without Change of Additional Records To Be Made and Retained by Casinos](https://www.federalregister.gov/documents/2025/04/23/2025-06938/agency-information-collection-activities-proposed-renewal-comment-request-renewal-without-change-of) (2025-04-23) — Treasury Department
-- [Trade Regulation Rule on Unfair or Deceptive Fees](https://www.federalregister.gov/documents/2025/01/10/2024-30293/trade-regulation-rule-on-unfair-or-deceptive-fees) (2025-01-10) — Federal Trade Commission
-- ... and 13 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Gaming%20Association%22) (Tier 1)
-<!-- auto:federal-register end -->

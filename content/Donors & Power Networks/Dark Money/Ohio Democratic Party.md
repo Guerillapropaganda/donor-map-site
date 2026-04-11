@@ -2,7 +2,7 @@
 title: "Ohio Democratic Party"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -36,7 +36,7 @@ total-political-spend: "$9,177,680"
 politicians-funded:
   - "Sherrod Brown"
   - "Richard Neal"
-related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]] · [[Sherrod Brown]] · [[UAW - United Auto Workers|UAW]] · [[Democratic Party Infrastructure]] · [[AFL-CIO]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[Senate Majority PAC]] · [[ActBlue]] · [[Small Dollar Donors - ActBlue]] · [[Democratic Small Dollar Networks]] · [[The Healthcare Platform and the Insurance Industry Question]]"
+related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]] · [[Sherrod Brown]] · [[UAW - United Auto Workers|UAW]] · [[Democratic Party Infrastructure]] · [[AFL-CIO]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[Senate Majority PAC]] · [[ActBlue]] · [[Small Dollar Donors - ActBlue]] · [[Democratic Small Dollar Networks]]"
 ein: "273554312"
 nonprofit-status: "tax-exempt"
 fara-status: "registrant"
@@ -236,7 +236,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - [[Richard Neal]] (Ways & Means) — lobbying: $2.8M
 - [[Amy Acton]] — lobbying: $2.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

@@ -2,10 +2,10 @@
 title: "Farmworker Union Rights - AB 2183 Veto and Reversal"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Prop 22 - The $200M Corporate Rollback]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[AB5 - Gig Worker Classification]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]]"
 ---
 #newsom #labor #farmworkers #ab2183 #ufw #union-elections #veto-reversal #flip-history #agricultural-workers #mail-ballot
 

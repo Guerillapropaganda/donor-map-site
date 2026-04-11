@@ -206,7 +206,7 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 
 - [[Rand Paul]] — lobbying: $90K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

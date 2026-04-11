@@ -2,10 +2,10 @@
 title: "Georgia 2026 Senate Race"
 type: story
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[New York House Races 2026]] · [[Illinois 2026 Senate Race]] · [[_Jon Ossoff Master Profile]] · [[_Mike Collins Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Senate Leadership Fund]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[New York House Races 2026]] · [[Illinois 2026 Senate Race]] · [[_Jon Ossoff Master Profile]] · [[_Mike Collins Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Senate Leadership Fund]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
 ---
 #2026-election #senate #georgia #race-frame #analysis
 tags: #story

@@ -2,7 +2,7 @@
 title: "ALEC - American Legislative Exchange Council"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,15 +12,10 @@ issues:
   - "Energy & Climate"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[DeVos Family]] · [[2026-03-25 Finance Research]] · [[Freedom Partners Chamber of Commerce]] · [[Koch Industries]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Federalist Society]] · [[GEO Group]] · [[ExxonMobil]] · [[PhRMA]] · [[State Policy Network]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Petroleum Institute]]"
+related: "[[DeVos Family]] · [[2026-03-25 Finance Research]] · [[Freedom Partners Chamber of Commerce]] · [[Koch Industries]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Federalist Society]] · [[GEO Group]] · [[ExxonMobil]] · [[PhRMA]] · [[State Policy Network]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
-sec-filings: 14
-sec-form-types:
-  - "N-CSR"
-  - "N-CSRS"
-  - "PX14A6G"
 ---
 #alec #dark-money #model-legislation #corporate #state-level #lobbying #koch #stand-your-ground #voter-id #right-to-work #tort-reform #anti-union #fossil-fuel #ag-gag #anti-esg #class-analysis
 
@@ -537,21 +532,3 @@ The pattern that defines ALEC is **Donor-Class Override at industrial scale**: c
 - [Ballotpedia: ALEC](https://ballotpedia.org/American_Legislative_Exchange_Council) (Tier 3)
 
 ### Federal Subawards & Spending Breakdown
-
-### SEC Filing Activity
-<!-- auto:sec-edgar start -->
-| Metric | Value |
-|--------|-------|
-| Total Filings | 14 |
-| Form Types | N-CSR, N-CSRS, PX14A6G |
-
-**Notable filings:**
-
-- 2020-04-27 — **PX14A6G**: PX14A6G
-- 2021-03-29 — **PX14A6G**: PX14A6G
-- 2022-04-27 — **PX14A6G**: PX14A6G
-- 2020-05-06 — **PX14A6G**: PX14A6G
-- 2020-04-27 — **PX14A6G**: PX14A6G
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ALEC%20-%20American%20Legislative%20Exchange%20Council%22) (Tier 1)
-<!-- auto:sec-edgar end -->

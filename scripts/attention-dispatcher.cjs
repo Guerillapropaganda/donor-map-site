@@ -8,18 +8,25 @@
  *
  * Schedule (all local time):
  *   - Every 30 min  → voice-drift-detector       (cheap, catches AI slop fast)
- *   - Every 30 min  → self-review-mirror (check) (defamation + voice regressions)
  *   - Every  1 hr   → hallucination-catcher      (claim/citation matching)
  *   - Every  1 hr   → promotion-candidate-queue  (what's cheapest to ship today)
  *   - Every  2 hr   → contradiction-miner        (story seed generator)
  *   - Every  2 hr   → missing-profile-detector   (who gets referenced but has no page)
  *
  * Logs to:
- *   content/Admin Notes/.attention-dispatcher.log  (append-only)
+ *   content/Admin Notes/.attention-dispatcher.log  (append-only, rotated at 1MB)
+ *   content/Admin Notes/.attention-dispatcher.log.1 (previous rotation)
+ *
+ * Optional external monitoring:
+ *   HEALTHCHECKS_PING_URL  — if set, the dispatcher pings this URL on every
+ *                            successful producer cycle. Point it at a
+ *                            Healthchecks.io check with a 40-min grace period
+ *                            to get an email if the dispatcher dies silently.
+ *                            No-op when unset, so it's safe to leave off.
  *
  * Usage:
  *   node scripts/attention-dispatcher.cjs
- *   node scripts/attention-dispatcher.cjs --run-now   # fire every producer once immediately then exit
+ *   node scripts/attention-dispatcher.cjs --run-now   # fire every producer once, exit
  *   node scripts/attention-dispatcher.cjs --daemon    # run forever, reschedule on cron
  *
  * To install as a background service:
@@ -28,16 +35,24 @@
  *
  * Design notes:
  *   - Every producer is idempotent. Running it twice is safe.
- *   - Failures are logged but do not kill the dispatcher.
- *   - 30-second timeout per script. If a producer hangs, we move on.
+ *   - Failures are logged but do not kill the dispatcher. Every callback is
+ *     wrapped in try/catch and process.on('uncaughtException') catches anything
+ *     that slips through.
+ *   - 60-second timeout per script. If a producer hangs, we move on.
  *   - Never runs two producers at once. Serialized queue prevents vault contention.
+ *   - Log file rotates at 1MB to prevent unbounded growth.
  */
 const { spawn } = require('child_process');
 const fs = require('fs');
 const path = require('path');
+const http = require('http');
+const https = require('https');
 
 const ROOT = path.join(__dirname, '..');
 const LOG_FILE = path.join(ROOT, 'content', 'Admin Notes', '.attention-dispatcher.log');
+const LOG_ROTATE_FILE = LOG_FILE + '.1';
+const LOG_MAX_BYTES = 1024 * 1024; // 1 MB
+const HEALTHCHECKS_URL = process.env.HEALTHCHECKS_PING_URL || '';
 
 // Producer registry
 const PRODUCERS = [
@@ -52,19 +67,70 @@ const PRODUCERS = [
 const runQueue = [];
 let running = false;
 
+/**
+ * Rotate the log file if it's bigger than LOG_MAX_BYTES. Keeps one previous
+ * rotation at .log.1. Silent failure if the rotation can't happen — we'd
+ * rather keep running than die because of a log issue.
+ */
+function rotateLogIfNeeded() {
+  try {
+    const stat = fs.statSync(LOG_FILE);
+    if (stat.size < LOG_MAX_BYTES) return;
+    try { fs.unlinkSync(LOG_ROTATE_FILE); } catch {}
+    fs.renameSync(LOG_FILE, LOG_ROTATE_FILE);
+  } catch {
+    // File doesn't exist yet, or rename failed — no-op
+  }
+}
+
 function log(msg) {
   const line = `[${new Date().toISOString()}] ${msg}\n`;
   process.stdout.write(line);
   try {
+    rotateLogIfNeeded();
     fs.appendFileSync(LOG_FILE, line);
-  } catch { /* log file unwritable — keep running */ }
+  } catch {
+    // Log file unwritable — keep running
+  }
+}
+
+/**
+ * Ping the Healthchecks.io URL (if configured) with a status suffix.
+ * Fire-and-forget — any error is swallowed so we never block on network.
+ */
+function healthcheckPing(suffix) {
+  if (!HEALTHCHECKS_URL) return;
+  try {
+    const url = HEALTHCHECKS_URL + (suffix ? '/' + suffix : '');
+    const client = url.startsWith('https:') ? https : http;
+    const req = client.get(url, (res) => {
+      res.on('data', () => {});
+      res.on('end', () => {});
+    });
+    req.on('error', () => {});
+    req.setTimeout(5000, () => {
+      try { req.destroy(); } catch {}
+    });
+  } catch {
+    // Swallow — healthchecks is best-effort monitoring, never blocks work
+  }
 }
 
 function runProducer(producer) {
   return new Promise((resolve) => {
     log(`→ running ${producer.name}`);
     const started = Date.now();
-    const child = spawn('node', [producer.script], { cwd: ROOT, stdio: ['ignore', 'pipe', 'pipe'] });
+    let child;
+    try {
+      child = spawn('node', [producer.script], {
+        cwd: ROOT,
+        stdio: ['ignore', 'pipe', 'pipe'],
+      });
+    } catch (e) {
+      log(`✗ ${producer.name} spawn threw: ${e.message}`);
+      resolve({ ok: false });
+      return;
+    }
     let out = '';
     let err = '';
     child.stdout.on('data', (d) => { out += d.toString(); });
@@ -81,15 +147,16 @@ function runProducer(producer) {
       const tail = out.trim().split('\n').slice(-3).join(' | ');
       if (code === 0) {
         log(`✓ ${producer.name} (${ms}ms) — ${tail || 'ok'}`);
+        resolve({ ok: true });
       } else {
         log(`✗ ${producer.name} exit=${code} (${ms}ms) — ${(err || out).trim().split('\n').slice(-2).join(' | ')}`);
+        resolve({ ok: false });
       }
-      resolve();
     });
     child.on('error', (e) => {
       clearTimeout(timeout);
       log(`✗ ${producer.name} spawn error: ${e.message}`);
-      resolve();
+      resolve({ ok: false });
     });
   });
 }
@@ -97,11 +164,20 @@ function runProducer(producer) {
 async function processQueue() {
   if (running) return;
   running = true;
+  let allOk = true;
   while (runQueue.length > 0) {
     const producer = runQueue.shift();
-    await runProducer(producer);
+    try {
+      const result = await runProducer(producer);
+      if (!result.ok) allOk = false;
+    } catch (e) {
+      log(`✗ processQueue caught error on ${producer.name}: ${e.message}`);
+      allOk = false;
+    }
   }
   running = false;
+  // Ping after a full cycle clears the queue — marks dispatcher as alive
+  healthcheckPing(allOk ? '' : 'fail');
 }
 
 function enqueue(producer) {
@@ -111,24 +187,55 @@ function enqueue(producer) {
     return;
   }
   runQueue.push(producer);
-  processQueue();
+  // Wrap processQueue invocation so cron callback crashes can't kill the daemon
+  processQueue().catch((e) => {
+    log(`✗ processQueue rejected: ${e.message}`);
+    running = false;
+  });
 }
 
 // --- Entry points ---
 
 async function runNow() {
   log('--- attention-dispatcher: --run-now mode ---');
+  let allOk = true;
   for (const producer of PRODUCERS) {
-    await runProducer(producer);
+    try {
+      const result = await runProducer(producer);
+      if (!result.ok) allOk = false;
+    } catch (e) {
+      log(`✗ runNow caught error on ${producer.name}: ${e.message}`);
+      allOk = false;
+    }
   }
   log('--- all producers done ---');
+  healthcheckPing(allOk ? '' : 'fail');
 }
 
 function daemon() {
   log('--- attention-dispatcher: daemon mode ---');
-  const cron = require('node-cron');
+  if (HEALTHCHECKS_URL) {
+    log(`  healthchecks: ${HEALTHCHECKS_URL.slice(0, 40)}...`);
+  } else {
+    log('  healthchecks: not configured (set HEALTHCHECKS_PING_URL to enable)');
+  }
+  healthcheckPing('start');
+  let cron;
+  try {
+    cron = require('node-cron');
+  } catch (e) {
+    log(`✗ failed to load node-cron: ${e.message}`);
+    log('  Install it: npm install node-cron');
+    process.exit(1);
+  }
   for (const producer of PRODUCERS) {
-    cron.schedule(producer.schedule, () => enqueue(producer));
+    cron.schedule(producer.schedule, () => {
+      try {
+        enqueue(producer);
+      } catch (e) {
+        log(`✗ cron callback threw for ${producer.name}: ${e.message}`);
+      }
+    });
     log(`  scheduled ${producer.name} @ ${producer.schedule}`);
   }
   log('Dispatcher running. Logs: content/Admin Notes/.attention-dispatcher.log');
@@ -136,6 +243,19 @@ function daemon() {
   // Fire everything once on startup so the queue is immediately fresh
   for (const producer of PRODUCERS) enqueue(producer);
 }
+
+// Top-level crash guards — never let the daemon die silently
+process.on('uncaughtException', (err) => {
+  log(`✗ UNCAUGHT EXCEPTION: ${err.message}`);
+  log(`  stack: ${(err.stack || '').split('\n').slice(0, 3).join(' | ')}`);
+  healthcheckPing('fail');
+  // Keep running — don't exit. Next cron tick will retry whatever failed.
+});
+process.on('unhandledRejection', (reason) => {
+  const msg = reason instanceof Error ? reason.message : String(reason);
+  log(`✗ UNHANDLED REJECTION: ${msg}`);
+  healthcheckPing('fail');
+});
 
 const arg = process.argv[2];
 if (arg === '--run-now') {

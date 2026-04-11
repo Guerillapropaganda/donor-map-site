@@ -2,7 +2,7 @@
 title: "UNITE HERE"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Labor Unions"
@@ -20,7 +20,7 @@ nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-10"
 lei: "54930053JDKWMZI3NN64"
 lei-jurisdiction: "CA"
-related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]] · [[Ash Kalra]] · [[National Restaurant Association]] · [[Miriam Adelson]] · [[Adelson Family]]"
+related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]] · [[Ash Kalra]] · [[National Restaurant Association]] · [[Miriam Adelson]]"
 federal-register-mentions: 91
 regulatory-agencies:
   - "Commodity Futures Trading Commission"

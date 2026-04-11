@@ -2,7 +2,7 @@
 title: "CREW - Citizens for Responsibility and Ethics in Washington"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -12,20 +12,16 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 court-cases: 2
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, District of Columbia"
-related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[New Venture Fund]] · [[Democratic Donor Network]] · [[Dark Money Networks - The Shadow System]] · [[Judicial Watch]] · [[America First Legal]] · [[Democracy Forward]] · [[_Donald Trump Master Profile|Trump]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Media Matters]]"
+related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[New Venture Fund]] · [[Democratic Donor Network]] · [[Dark Money Networks - The Shadow System]] · [[Judicial Watch]] · [[America First Legal]] · [[Democracy Forward]] · [[_Donald Trump Master Profile|Trump]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]]"
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-ein: "30445391"
-nonprofit-status: "501(c)(3)"
-total-revenue: 12386233
-total-assets: 13408716
 ---
 #crew #ethics #watchdog #nonprofit #dark-money #14th-amendment #accountability #legal-advocacy #foia #progressive-infrastructure
 
@@ -180,28 +176,3 @@ CREW occupies a specific structural position in the American political ecosystem
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CREW%20-%20Citizens%20for%20Responsibility%20and%20Ethics%20in%20Washington%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
-
-### Tax Filings (IRS 990)
-<!-- auto:nonprofit-990 start -->
-| Metric | Value |
-|--------|-------|
-| EIN | 30445391 |
-| Tax-Exempt Status | 501(c)(3) |
-| Total Revenue | $12.4M |
-| Total Assets | $13.4M |
-| NTEE Code | W20 |
-| IRS Ruling Date | 2002-10-01 |
-| Filings on Record | 13 |
-
-**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
-
-**View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/30445391/2019)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/30445391) (Tier 1)
-<!-- auto:nonprofit-990 end -->

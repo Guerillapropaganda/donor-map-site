@@ -2,7 +2,7 @@
 title: "Ayanna Pressley Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,24 +12,19 @@ state-abbr: "MA"
 district: "7"
 bioguide-id: "P000617"
 committees:
-  - "House Committee on Financial Services"
-  - "House Committee on Oversight and Government Reform"
+  - "Financial Services"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
+  - "Criminal Justice"
+  - "Student Debt"
+  - "Financial Services Reform"
+  - "Housing"
+  - "Labor"
+  - "Healthcare"
 total-received: "$687,535"
 fec-candidate-id: "H8MA07032"
 govtrack-id: 412782
-bills-sponsored: 136
-bills-cosponsored: 1817
+bills-sponsored: 29
+bills-cosponsored: 230
 website: "https://pressley.house.gov"
 phone: "202-225-5111"
 source-types:
@@ -40,7 +35,7 @@ source-types:
 corroboration-count: 4
 known-gaps:
   - DOJ press pipeline data stripped 2026-04-10 (was false positive index-size bug — 264,413 generic mentions). Needs re-enrichment after DOJ pipeline sanity cap takes effect.
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "demote to draft; re-run fec pipeline; re-run congress pipeline"
 opposes:
@@ -62,14 +57,6 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-raised: "$687,535"
-total-spent: "$706,959"
-cash-on-hand: "98796.68"
-fec-cycle: 2026
-wikidata-id: "Q13562359"
-wikipedia-url: "https://en.wikipedia.org/wiki/Ayanna_Pressley"
-wikipedia-extract: "Ayanna Soyini Pressley is an American politician who has served as the U.S. representative for Massachusetts's 7th congressional district since 2019."
-born: "1974-02-03"
 ---
 #pressley #massachusetts #progressive #squad #financial-services #criminal-justice #boston
 
@@ -218,41 +205,6 @@ The notable absence: no Glass-Steagall restoration co-sponsorship, no financial 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412782) (Tier 1)
 <!-- auto:govtrack end -->
 
-<!-- auto:govtrack pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 136 |
-| Bills Cosponsored | 1,817 |
-| Total Votes Cast | 3,663 |
-
-**Recent bills sponsored:**
-
-- H.R. 8235: To require certain libraries to maintain a diverse collection of books, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on April 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8185: To create a database of eviction information, establish grant programs for eviction prevention and legal aid, and limit  — *This bill is in the first stage of the legislative process. It was introduced into Congress on April 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8063: SPARK Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Con.Res. 78: Expressing support for the recognition of March 10, 2026, as “Abortion Provider Appreciation Day”. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7804: BLS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412782) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
-
 ## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
@@ -278,155 +230,4 @@ The notable absence: no Glass-Steagall restoration co-sponsorship, no financial 
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
-
-**Sources**
-
-- [Congress.gov: Ayanna Pressley](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
-
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing 264,413 DOJ mentions from the API index-size false-positive bug (same pattern as QVT Financial). Main's engine fix (commit d1ceb91) caps at 10K + validates 60% name match. Block will repopulate correctly on next pipeline run. -->
-
-### Campaign Finance Summary (FEC)
-<!-- auto:fec-summary start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $687,535 |
-| Total Spent | $706,959 |
-| Cash on Hand | 98796.68 |
-| Individual Contributions | $353,529 |
-| PAC Contributions | $36,500 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $687,535 | $706,959 | 98796.68 |
-| 2024 | $1,432,055 | $1,636,121 | 118221.41 |
-| 2022 | $1,467,293 | $1,646,044 | 322287.03 |
-| 2020 | $2,190,613 | $1,775,676 | 501037.26 |
-| 2018 | $1,491,070 | $1,404,970 | 86099.78 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
-<!-- auto:fec-summary end -->
-
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-**Committees:**
-
-- House Committee on Financial Services
-- House Committee on Oversight and Government Reform
-
-**Subcommittees:**
-
-- Digital Assets, Financial Technology, and Artificial Intelligence
-- Federal Law Enforcement
-- Housing and Insurance
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
-<!-- auto:committee-assignments end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | MA |
-| Chamber | House |
-| Bills Sponsored | 147 |
-| Bills Cosponsored | 1817 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, Labor and Employment, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 8235 | To require certain libraries to maintain a diverse collection of books, and for … | Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 8185 | To create a database of eviction information, establish grant programs for evict… | Referred to the House Committee on Financial Services. |
-| 8063 | SPARK Act | Referred to the House Committee on Small Business. |
-| 78 | Expressing support for the recognition of March 10, 2026, as "Abortion Provider … | Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7804 | BLS Act | Referred to the House Committee on Education and Workforce. |
-| 1088 | Recognizing and celebrating the significance of Black history museums and cultur… | Referred to the Committee on Natural Resources, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7583 | BE HEARD in the Workplace Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on the Judiciary, House Administration, Oversight and Government Reform, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7513 | GSIB Act of 2026 | Referred to the House Committee on Financial Services. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/P000617) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Campaign Finance (FEC)
-<!-- auto:fec-politician start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $687,535 |
-| Individual Contributions | $353,529 |
-| PAC Contributions | $36,500 |
-| Cash on Hand | 98796.68 |
-| IE Support (Super PAC) | $187,429 |
-| IE Opposition (Super PAC) | $294,644 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $687,535 | $353,529 | $36,500 |
-| 2024 | $1,432,055 | $748,329 | $136,850 |
-| 2022 | $1,467,293 | $671,248 | $108,492 |
-| 2020 | $2,190,613 | $857,768 | $161,598 |
-| 2018 | $1,491,070 | $1,028,408 | $119,574 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| HONORING AMERICAN LAW ENFORCEMENT PAC | $0 | $127,500 |
-| LAW ENFORCEMENT FOR A SAFER AMERICA PAC | $0 | $127,500 |
-| SUPERMAJORITY PAC | $45,120 | $0 |
-| INDIVISIBLE PROJECT INC. | $41,981 | $0 |
-| WE DECIDE | $0 | $35,256 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
-<!-- auto:fec-politician end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-Ayanna Soyini Pressley is an American politician who has served as the U.S. representative for Massachusetts's 7th congressional district since 2019.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q13562359](https://www.wikidata.org/wiki/Q13562359) |
-| Description | U.S. Representative from Massachusetts |
-| Born | 1974-02-03 |
-| Website | [https://ayannapressley.com/](https://ayannapressley.com/) |
-| X/Twitter | [@AyannaPressley](https://x.com/AyannaPressley) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ayanna_Pressley_117_cropped.jpg?width=300) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ayanna_Pressley) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q13562359) (Tier 2)
-<!-- auto:wikipedia end -->

@@ -20,9 +20,24 @@ interface ScriptEntry {
   purpose: string
   plainEnglish: string
   output: string
-  when: "daily" | "weekly" | "on-demand" | "one-shot" | "hourly" | "when-needed"
+  when:
+    | "daily"
+    | "weekly"
+    | "on-demand"
+    | "one-shot"
+    | "hourly"
+    | "every-2-hours"
+    | "when-needed"
   danger: "safe" | "writes-profiles" | "destructive"
-  category: "health-check" | "audit" | "cleanup" | "research" | "pipeline" | "reporting"
+  category:
+    | "health-check"
+    | "audit"
+    | "cleanup"
+    | "research"
+    | "pipeline"
+    | "reporting"
+    | "intelligence"
+    | "gate"
 }
 
 const SCRIPTS: ScriptEntry[] = [
@@ -67,7 +82,7 @@ const SCRIPTS: ScriptEntry[] = [
     command: "node scripts/yaml-sanity-scan.cjs",
     purpose: "Make sure every profile's frontmatter parses cleanly.",
     plainEnglish:
-      "Walks every .md file in the vault and tries to parse its YAML frontmatter. If any file is broken (like when a Wikipedia extract contains unescaped quotes), this script catches it BEFORE the Quartz deploy fails. Should always return 0 broken. Run before every push.",
+      "Walks every .md file in the vault and tries to parse its YAML frontmatter. If any file is broken (like when a Wikipedia extract contains unescaped quotes), this script catches it BEFORE the Quartz deploy fails. Should always return 0 broken. Also runs automatically as part of the husky pre-commit hook — broken YAML blocks the commit.",
     output: "Console only — exits 1 if any broken files found",
     when: "on-demand",
     danger: "safe",
@@ -78,7 +93,7 @@ const SCRIPTS: ScriptEntry[] = [
     command: "node scripts/duplicate-bioguide-sentinel.cjs",
     purpose: "Catch wrong-bioguide contamination waves.",
     plainEnglish:
-      "Scans the vault for any bioguide-id appearing on more than one profile. Bioguides are unique per person (it's a government ID) — any duplicate is definitionally wrong. On 2026-04-11 we caught 22 profiles sharing wrong IDs (19 Castro + 3 B001296) and this script exists to catch the next wave within an hour of it landing.",
+      "Scans the vault for any bioguide-id appearing on more than one profile. Bioguides are unique per person (it's a government ID) — any duplicate is definitionally wrong. On 2026-04-11 we caught 22 profiles sharing wrong IDs (19 Castro + 3 B001296) and this script exists to catch the next wave within an hour of it landing. Also runs automatically as part of the husky pre-commit hook — any duplicate blocks the commit.",
     output: "Console + content/Admin Notes/bioguide-contamination-alert.md (on failure)",
     when: "hourly",
     danger: "safe",
@@ -211,20 +226,133 @@ const SCRIPTS: ScriptEntry[] = [
     danger: "writes-profiles",
     category: "cleanup",
   },
+
+  // ─── INTELLIGENCE / ATTENTION QUEUE PRODUCERS ─────────────────
+  // These scripts all contribute entries to the Attention Queue via
+  // scripts/lib/attention-queue.cjs. They're serialized and auto-run by
+  // scripts/attention-dispatcher.cjs. Never run directly unless debugging —
+  // the dispatcher keeps them all fresh on a schedule.
+  {
+    name: "Attention Dispatcher (daemon)",
+    command: "node scripts/attention-dispatcher.cjs --daemon",
+    purpose: "Auto-runs all 5 Attention Queue producers on a schedule.",
+    plainEnglish:
+      "Background node-cron daemon that fires each Attention Queue producer on its own cadence (voice-drift every 30 min, hallucination-catcher hourly, missing-profile-detector every 2 hr, etc). Serialized so producers never contend for the vault. 60-sec timeout per producer. Top-level crash guards so cron callback errors never kill the daemon. Logs rotate at 1MB to .attention-dispatcher.log.1. Set HEALTHCHECKS_PING_URL env var to get an email if the daemon dies silently. Install on Windows by dropping scripts/attention-dispatcher.bat into shell:startup.",
+    output: "content/Admin Notes/.attention-dispatcher.log (rotated at 1MB)",
+    when: "daily",
+    danger: "safe",
+    category: "intelligence",
+  },
+  {
+    name: "Attention Dispatcher (run-now)",
+    command: "node scripts/attention-dispatcher.cjs --run-now",
+    purpose: "Force-run every Attention Queue producer once, then exit.",
+    plainEnglish:
+      "Same as the daemon but runs all producers sequentially once and exits. Use this to force-refresh the Attention Queue after editing vault content — saves you running each producer by hand. About 2 seconds total across all 5 producers.",
+    output: "content/Admin Notes/.attention-queue-store.json + Attention Queue.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "intelligence",
+  },
+  {
+    name: "Voice Drift Detector",
+    command: "node scripts/voice-drift-detector.cjs",
+    purpose: "Flag profiles that drift from your voice baseline.",
+    plainEnglish:
+      "Compares every ready/verified profile against a baseline voice signature (avg sentence length, hedging frequency, passive voice, numbers density). Hard-fail rules are always enforced regardless of baseline drift: em dashes, banned AI vocabulary (delve, moreover, furthermore, tapestry, plethora, 'navigating the complexities'). Hard fails land in the Attention Queue blocking bucket; soft drift lands in deciding.",
+    output: "Attention Queue (bucket: blocking for hard fails, deciding for drift)",
+    when: "hourly",
+    danger: "safe",
+    category: "intelligence",
+  },
+  {
+    name: "Hallucination Catcher",
+    command: "node scripts/hallucination-catcher.cjs",
+    purpose: "Find unsupported factual claims needing citations.",
+    plainEnglish:
+      "Scans every paragraph for specific factual claims (dollar amounts paired with claim verbs, percentages with contextual nouns, year-actions, multipliers). Checks whether each claim has a citation within 150 chars — inline markdown links, [^N] footnotes, or [cite] marks. Flags only claims without a nearby citation. Exempts blockquotes, auto-blocks, Sources sections, Class Analysis sections, tables, and bullet lists. Verified profiles → blocking bucket. Ready profiles → deciding bucket.",
+    output: "Attention Queue (bucket: blocking/deciding, top 25 profiles by claim count)",
+    when: "hourly",
+    danger: "safe",
+    category: "intelligence",
+  },
+  {
+    name: "Contradiction Miner (story seeds)",
+    command: "node scripts/contradiction-miner.cjs",
+    purpose: "Surface story-worthy contradictions across the vault.",
+    plainEnglish:
+      "Cross-references donor profiles, politician profiles, and committee data to find contradictions worth writing about: same donor funds both sides of an issue, cross-party donors, issue-contradiction (donor gives to climate and fossil fuel), committee capture (donor gives to committee members overseeing their industry). Each hit becomes a standalone markdown seed file at content/Story Seeds/ that Research Claude can expand. Top 15 also go to the Attention Queue deciding bucket.",
+    output: "content/Story Seeds/ + Attention Queue (deciding bucket)",
+    when: "daily",
+    danger: "safe",
+    category: "intelligence",
+  },
+  {
+    name: "Missing Profile Detector",
+    command: "node scripts/missing-profile-detector.cjs",
+    purpose: "Find entities referenced but not yet profiled.",
+    plainEnglish:
+      "Walks every profile body looking for `[[Wikilinks]]` to profiles that don't exist. Normalizes names (strips _, 'Master Profile' suffix, lowercases) to avoid false positives. Ranks by unique inbound reference count — the more profiles reference an entity, the higher priority it gets. Top 15 become compounding-bucket entries in the Attention Queue.",
+    output: "content/Admin Notes/missing-profiles.md + Attention Queue (compounding)",
+    when: "every-2-hours",
+    danger: "safe",
+    category: "intelligence",
+  },
+  {
+    name: "Promotion Candidate Queue",
+    command: "node scripts/promotion-candidate-queue.cjs",
+    purpose: "Rank ready profiles by cheapest path to A+.",
+    plainEnglish:
+      "Walks every content-readiness: ready profile and scores how far it is from A+. Profiles that already have audit-a-plus-passed stamp need only David's sign-off (~2 min). Profiles missing central-thesis or story-grade need small Research Claude work (~8 min). Profiles missing pipeline data or Class Analysis are bigger effort (~20-30 min). Sorted cheapest first so you see the biggest wins per minute at the top.",
+    output: "Attention Queue (deciding bucket, top 10 cheapest promotions)",
+    when: "hourly",
+    danger: "safe",
+    category: "intelligence",
+  },
+
+  // ─── PRE-COMMIT GATES ─────────────────────────────────────────
+  // These run automatically on every git commit via the husky hook in
+  // .husky/pre-commit. You don't invoke them by hand. They're listed here
+  // so you remember they exist and know how to override them.
+  {
+    name: "Self-Review Mirror",
+    command: "node scripts/self-review-mirror.cjs",
+    purpose: "Pre-commit gate — blocks banned language + regressions.",
+    plainEnglish:
+      "Reads only the NEW lines in staged .md files (via `git diff --cached`) and blocks the commit if the new content contains em dashes, banned AI vocabulary (delve, moreover, furthermore, plethora, tapestry, testament to), or defamation-prone words (fraud, corrupt, scheme, bribed) outside blockquotes on profiles without legal-review-result: pass. Also blocks regressions: verified profiles can't silently lose Tier 1 source types or the ## Class Analysis heading. Pre-existing violations are NOT flagged — only what this commit adds. Emergency bypass: ALLOW_REGRESSION=1 git commit.",
+    output: "Pre-commit console only — exits 1 to block the commit",
+    when: "on-demand",
+    danger: "safe",
+    category: "gate",
+  },
+  {
+    name: "Attention Dispatcher (Healthchecks)",
+    command: "HEALTHCHECKS_PING_URL=https://hc-ping.com/... node scripts/attention-dispatcher.cjs --daemon",
+    purpose: "Enable external health monitoring of the dispatcher.",
+    plainEnglish:
+      "Sign up at healthchecks.io (free, 10 min), create a check with a 40-min grace period, copy its ping URL, set it as HEALTHCHECKS_PING_URL before launching the dispatcher. Every successful producer cycle pings the URL. If Healthchecks stops hearing from the dispatcher for 40+ min, it emails you. Catches the 'daemon died silently' failure mode. Leave unset to disable — dispatcher runs fine without it.",
+    output: "Pings HEALTHCHECKS_PING_URL on every cycle",
+    when: "daily",
+    danger: "safe",
+    category: "intelligence",
+  },
 ]
 
 const CATEGORY_LABELS: Record<string, string> = {
-  reporting: "📊 Daily Reports",
-  "health-check": "🩺 Health Checks",
-  audit: "🔍 Audits",
-  research: "🧠 Research Tools",
-  cleanup: "🧹 Cleanup",
-  pipeline: "🚰 Pipeline",
+  reporting: "Daily Reports",
+  "health-check": "Health Checks",
+  audit: "Audits",
+  research: "Research Tools",
+  cleanup: "Cleanup",
+  pipeline: "Pipeline",
+  intelligence: "Intelligence / Attention Queue",
+  gate: "Pre-Commit Gates",
 }
 
-const WHEN_LABELS: Record<ScriptEntry["when"], string> = {
+const WHEN_LABELS: Record<string, string> = {
   daily: "Run daily (or automate as cron)",
   hourly: "Run hourly (or automate as cron)",
+  "every-2-hours": "Run every 2 hours (auto by dispatcher)",
   weekly: "Run weekly",
   "on-demand": "Run when you need it",
   "one-shot": "Run once",
@@ -250,7 +378,16 @@ export default function ScriptsPage() {
     return acc
   }, {} as Record<string, ScriptEntry[]>)
 
-  const categoryOrder: string[] = ["reporting", "health-check", "audit", "research", "cleanup", "pipeline"]
+  const categoryOrder: string[] = [
+    "intelligence",
+    "gate",
+    "reporting",
+    "health-check",
+    "audit",
+    "research",
+    "cleanup",
+    "pipeline",
+  ]
 
   return (
     <div className="min-h-screen bg-[var(--color-bg)] text-[var(--color-text)] p-6">

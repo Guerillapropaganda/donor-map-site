@@ -2,27 +2,23 @@
 title: "CoreCivic - Private Prisons"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Carceral State"
 entity-type: "Corporation"
 issues:
   - "Immigration"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]] · [[GEO Group - Private Prison Industrial Complex]] · [[Uber]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[GEO Group - Private Prisons]] · [[Criminal Justice - Donors and Backers]] · [[GEO Group]] · [[Prison Policy Initiative]] · [[Fraternal Order of Police]] · [[CoreCivic]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]]"
 cross-vault-triangulation-count: 9
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-ein: "474543845"
-nonprofit-status: "501(c)(3)"
-total-revenue: 143756
-total-assets: 118562
 ---
 #corecivic #private-prison #carceral #cca #immigration #detention #lobbying #incarceration #ice #revolving-door #trump
 
@@ -166,27 +162,3 @@ Immigration enforcement and ICE funding, criminal justice reform, mandatory mini
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic%20-%20Private%20Prisons) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
-
-### Tax Filings (IRS 990)
-<!-- auto:nonprofit-990 start -->
-| Metric | Value |
-|--------|-------|
-| EIN | 474543845 |
-| Tax-Exempt Status | 501(c)(3) |
-| Total Revenue | $144K |
-| Total Assets | $119K |
-| NTEE Code | I05 |
-| IRS Ruling Date | 2015-11-01 |
-| Filings on Record | 5 |
-
-**Filing history:** 2023, 2022, 2021, 2020, 2019
-
-**View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2019)
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474543845) (Tier 1)
-<!-- auto:nonprofit-990 end -->

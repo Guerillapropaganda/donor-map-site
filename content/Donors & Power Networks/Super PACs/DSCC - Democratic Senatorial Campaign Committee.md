@@ -2,7 +2,7 @@
 title: "DSCC - Democratic Senatorial Campaign Committee"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -14,7 +14,7 @@ issues:
 sec-filings: 1
 sec-form-types:
   - "EX-99.(P)(II)"
-related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]] · [[Democratic Senatorial Campaign Committee]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee|NRSC]] · [[Priorities USA Action]] · [[Emilys List]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]]"
+related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]] · [[Democratic Senatorial Campaign Committee]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee|NRSC]] · [[Priorities USA Action]] · [[Emilys List]]"
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

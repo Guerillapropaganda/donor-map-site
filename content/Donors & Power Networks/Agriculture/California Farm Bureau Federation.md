@@ -2,27 +2,21 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "John Boehner"
-  - "Kevin McCarthy"
-  - "Bennie Thompson"
-  - "Glenn Thompson"
-  - "Debbie Stabenow"
-  - "Jerry Moran"
-  - "Lindsey Graham"
+  - "Gavin Newsom"
 issues:
   - "Immigration"
-ein: 940357610
+ein: "940357610"
 annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
@@ -47,7 +41,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(5)"
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]]"
 sec-filings: 291
 sec-form-types:
   - "10-Q"
@@ -70,10 +64,6 @@ cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q126731054"
-total-political-spend: "$891,442"
-lobbying-spend: 10689974
-lobbying-filings: 112
 ---
 #donor #agricultural-employer #farm-bureau #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
 
@@ -156,24 +146,6 @@ Immigration — H-2A program, undocumented workforce
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $12.9M |
-| Total Contributions | $47K |
-| Program Service Revenue | $3.0M |
-| Investment Income | $1.3M |
-| Total Expenses | $16.3M |
-| Net Assets | $73.5M |
-| Officer Compensation | $1.1M |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 940357610](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1)
-
-<!-- auto:propublica-990 pending-merge end -->
-
 ### Sources
 
 - [OpenSecrets: California Farm Bureau Federation](https://www.opensecrets.org/orgs/california-farm-bureau/summary?id=D000070197) (Tier 1) (VERIFIED) (NEEDS REVIEW: https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1007762&session=2023 seems to be the correct link verify dates for california farm burea federaton)
@@ -201,31 +173,6 @@ Immigration — H-2A program, undocumented workforce
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 23 |
-| Final Rules | 10 |
-| Proposed Rules | 7 |
-| Notices | 6 |
-| Agencies | Alcohol and Tobacco Tax and Trade Bureau, Commerce Department, Environmental Protection Agency, Federal Motor Carrier Safety Administration, Fish and Wildlife Service, Food and Drug Administration, Health and Human Services Department, Homeland Security Department +7 more |
-
-**Recent regulatory activity:**
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption Relating to Agricultural Water](https://www.federalregister.gov/documents/2021/12/06/2021-26127/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption-relating) (2021-12-06) — Health and Human Services Department ★
-- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/11/10/2021-24365/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (2021-11-10) — Interior Department ★
-- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/01/15/2021-00484/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (2021-01-15) — Interior Department ★
-- [Hours of Service of Drivers](https://www.federalregister.gov/documents/2019/08/22/2019-17810/hours-of-service-of-drivers) (2019-08-22) — Transportation Department ★
-- [Amendments To Implement Certain Provisions of the Fixing America's Surface Transportation Act or “FAST Act”](https://www.federalregister.gov/documents/2016/07/22/2016-17114/amendments-to-implement-certain-provisions-of-the-fixing-americas-surface-transportation-act-or-fast) (2016-07-22) — Transportation Department
-- [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2016/05/12/2016-10443/improve-tracking-of-workplace-injuries-and-illnesses) (2016-05-12) — Labor Department ★
-- ... and 17 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1)
-
-<!-- auto:federal-register pending-merge end -->
-
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
 | Metric | Value |
@@ -244,28 +191,6 @@ Immigration — H-2A program, undocumented workforce
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
-
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 111 |
-| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, E.D. California, District Court, W.D. Washington, United States Bankruptcy Court, D. Delaware |
-| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/Corrupt Organization |
-
-**Notable cases:**
-- United Farm Workers v. United States Department of Labor (2025) — District Court, E.D. California
-- California Chamber of Commerce, et al. v. Bonta, et al. (2025) — Court of Appeals for the Ninth Circuit
-- Moreno v. Rivas (2025) — District Court, E.D. California
-- Kohleriter v. U.S. Dept. of Agriculture (2025) — District Court, E.D. California
-- San Luis Obispo Coastkeeper, et al. v. County of San Luis Obispo (2024) — Court of Appeals for the Ninth Circuit
-- Baker Ranches, Inc., et al. v. Haaland, et al. (2024) — Court of Appeals for the Ninth Circuit
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r) (Tier 1)
-
-<!-- auto:courtlistener-cases pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -291,33 +216,6 @@ Immigration — H-2A program, undocumented workforce
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
 
-<!-- auto:nonprofit-990 pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| EIN | 940357610 |
-| Tax-Exempt Status | 501(c)(5) |
-| Total Revenue | $29.9M |
-| Total Assets | $75.9M |
-| IRS Ruling Date | 1948-12-01 |
-| Filings on Record | 13 |
-
-**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
-
-**View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2019)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1)
-
-<!-- auto:nonprofit-990 pending-merge end -->
-
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |
@@ -335,112 +233,3 @@ Immigration — H-2A program, undocumented workforce
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Farm%20Bureau%20Federation%22) (Tier 1) (NEEDS REVIEW: page full of text...not sure what it referances)
 <!-- auto:sec-edgar end -->
-
-<!-- auto:sec-edgar pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 291 |
-| Form Types | 10-Q, 485APOS, 485BPOS, 497, 8-K, ARS, EX-2.1, EX-2.2 +8 more |
-
-**Notable filings:**
-
-- 2009-09-28 — **497**: 497
-- 2004-11-05 — **497**: 25144_GMF_497
-- 2001-06-18 — **497**: NATIONWIDE MUTUAL FUNDS       497(E)
-- 2012-09-19 — **497**: 497
-- 2006-08-22 — **8-K**: FORM 8-K DATED AUGUST 21, 2006
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Farm%20Bureau%20Federation%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q126731054](https://www.wikidata.org/wiki/Q126731054) |
-| Description | corporation with its principal place of business in Auburn, California |
-| Website | [https://www.cfbf.com/](https://www.cfbf.com/) |
-
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2)
-<!-- auto:wikipedia end -->
-
-### Campaign Finance (FEC)
-<!-- auto:fec-donor start -->
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $891,442 |
-| Contributions | 243 |
-
-**Top recipients:**
-
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| NRCC | $100,400 | REP |
-| TAKE BACK THE HOUSE CALIFORNIA 2022 | $100,000 | — |
-| BOEHNER FOR SPEAKER | $50,000 | — |
-| MAJORITY COMMITTEE PAC--MC PAC | $32,500 | — |
-| MCCARTHY VICTORY FUND | $30,400 | — |
-| TAKE BACK THE HOUSE 2022 | $25,000 | — |
-| RYAN-MCCARTHY VICTORY | $25,000 | — |
-| FRIENDS OF GLENN THOMPSON | $16,000 | REP |
-| PETERSON FOR CONGRESS | $15,500 | DEM |
-| JIM COSTA FOR CONGRESS | $15,000 | DEM |
-
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Farm%20Bureau%20Federation) (Tier 1)
-<!-- auto:fec-donor end -->
-
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $10.7M |
-| Quarterly Filings | 112 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 52 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Accounting, Agriculture, Banking, Bankruptcy, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Railroads, Retirement, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Torts, Trade (domestic/foreign), Transportation, Trucking/Shipping, Unemployment, Urban Development/Municipalities, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
-
-**Lobbying firms:** ACG ADVOCACY, ALSTON & BIRD LLP, ASSOCIATION OF CALIFORNIA WATER AGENCIES, BGR GOVERNMENT AFFAIRS, BLUE SHIELD OF CALIFORNIA, CALIFORNIA AND NEVADA CREDIT UNION LEAGUES, CALIFORNIA ASSOCIATION OF REALTORS, CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION, CALIFORNIA FORESTRY ASSOCIATION, CALIFORNIA HOSPITAL ASSOCIATION, CALIFORNIA LIFE SCIENCES, CALIFORNIA MEDICAL ASSOCIATION INC., CALIFORNIA STATE UNIVERSITY, CAPITOL CORE GROUP, INC., CARPI & CLAY, INC, CONNECTOR INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DENTONS US LLP, DOWNS GOVERNMENT AFFAIRS, DUTKO WORLDWIDE, LLC, EHRLICH & ASSOCIATES, ENS RESOURCES, INC., FONTENOT HEALTH POLICY LLC, FORBES-TATE, GOVERNMENT COUNSEL, LLC, HALEY & ASSOCIATES, HARO SOLUTIONS LLC, HOLLAND & KNIGHT LLP, IMPACT HEALTH POLICY PARTNERS, KANNER & ASSOCIATES, LLC, MARK VARGAS, MCALLISTER & QUINN, LLC, METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, MG HOUSING STRATEGIES LLC, MO STRATEGIES, INC., NATIONAL GROUP, LLP, NORTHERN CALIFORNIA POWER AGENCY, OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, ORSO GROUP, PACIFIC ATLANTIC PARTNERS, PAUL V. BEDDOE GOVERNMENT AFFAIRS, LLC, POTOMAC PARTNERS DC, POWERS PYLES SUTTER & VERVILLE, P.C., RBW GROUP, LLC, ROBERTSON, MONAGLE, & EASTAUGH LLC (FKA ROBERTSON, MONAGLE & EASTAUGH PC), SOUTHERN CALIFORNIA PUBLIC RADIO, TELEGRAPH AVENUE ADVISORS, TROUTMAN STATEGIES, TRUMAN KEITH JONES, UNIVERSITY OF CALIFORNIA, UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION
-
-**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Farm%20Bureau%20Federation) (Tier 1)
-<!-- auto:lda-lobbying end -->
-
-### Influence Network (Cross-Reference)
-<!-- auto:influence-cross-ref start -->
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 7 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 5 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Banking** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Medicare/Medicaid** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Homeland Security** → Funds **Bennie Thompson** → Sits on **House Committee on Homeland Security**
-- Lobbies on **Immigration** → Funds **Bennie Thompson** → Sits on **House Committee on Homeland Security**
-- Lobbies on **Agriculture** → Funds **Glenn Thompson** → Sits on **Agriculture**
-- Lobbies on **Agriculture** → Funds **Debbie Stabenow** → Sits on **Agriculture**
-- Lobbies on **Agriculture** → Funds **Jerry Moran** → Sits on **Agriculture**
-- Lobbies on **Veterans** → Funds **Jerry Moran** → Sits on **Veterans' Affairs**
-
-**Funded politicians:**
-
-- [[John Boehner]] (Finance) — lobbying: $10.7M
-- [[Kevin McCarthy]] — lobbying: $10.7M
-- [[Bennie Thompson]] (House Committee on Homeland Security) — lobbying: $10.7M
-- [[Glenn Thompson]] (Agriculture) — lobbying: $10.7M
-- [[Debbie Stabenow]] (Agriculture) — lobbying: $10.7M
-- [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $10.7M
-- [[Lindsey Graham]] — lobbying: $10.7M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
-<!-- auto:influence-cross-ref end -->

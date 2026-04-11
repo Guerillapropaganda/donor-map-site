@@ -2,7 +2,7 @@
 title: "Raytheon (RTX Corporation)"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -43,7 +43,7 @@ subawards-received-amount: 51876611853
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
-related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[_Lloyd Austin Master Profile|Lloyd Austin]] · [[_Mark Esper Master Profile|Mark Esper]] · [[Defense Contractors Bloc]] · [[ExxonMobil]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]]"
+related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[_Lloyd Austin Master Profile|Lloyd Austin]] · [[_Mark Esper Master Profile|Mark Esper]] · [[Defense Contractors Bloc]] · [[ExxonMobil]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]]"
 lobbying-spend: 2200000
 lobbying-filings: 50
 cross-vault-triangulation-count: 18
@@ -460,7 +460,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -468,21 +468,17 @@ RTX represents the defense sector's structural capture of the American state. Th
 |--------|-------|
 | Politicians Funded | 21 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 5 politicians |
+| Committee Overlap Detected | 4 politicians |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
-- Lobbies on **Budget/Appropriations** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
-- Lobbies on **Defense** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
-- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
-- Lobbies on **Budget/Appropriations** → Funds **Rick Scott** → Sits on **Senate Committee on the Budget**
-- Lobbies on **Defense** → Funds **Rick Scott** → Sits on **Senate Committee on Armed Services**
-- Lobbies on **Government Issues** → Funds **Rick Scott** → Sits on **Senate Committee on Homeland Security and Governmental Affairs**
-- Lobbies on **Defense & Military** → Funds **Rick Scott** → Sits on **Senate Committee on Armed Services**
+- Lobbies on **Defense** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Budget/Appropriations** → Funds **Rosa DeLauro** → Sits on **Appropriations**
+- Lobbies on **Defense** → Funds **Rosa DeLauro** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **Appropriations**
 - Lobbies on **Defense** → Funds **Roger Wicker** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
 
@@ -493,24 +489,24 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [[Mark Esper]] — lobbying: $2.2M
 - [[Mike Rogers]] (Armed Services) — lobbying: $2.2M
 - [[Rob Wittman]] — lobbying: $2.2M
-- [[Adam Smith]] (House Committee on Armed Services) — lobbying: $2.2M
+- [[Adam Smith]] (Armed Services) — lobbying: $2.2M
 - [[Salud Carbajal]] — lobbying: $2.2M
 - [[Seth Moulton]] — lobbying: $2.2M
-- [[Rosa DeLauro]] (House Committee on Appropriations) — lobbying: $2.2M
+- [[Rosa DeLauro]] (Appropriations) — lobbying: $2.2M
 - [[Hal Rogers]] — lobbying: $2.2M
 - [[Mike Simpson]] — lobbying: $2.2M
 - [[Mike Johnson]] — lobbying: $2.2M
 - [[Steve Scalise]] — lobbying: $2.2M
 - [[Hakeem Jeffries]] — lobbying: $2.2M
 - [[Katherine Clark]] — lobbying: $2.2M
-- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) — lobbying: $2.2M
+- [[Rick Scott]] — lobbying: $2.2M
 - [[Martin Heinrich]] (Intelligence) — lobbying: $2.2M
 - [[Roger Wicker]] (Armed Services) — lobbying: $2.2M
 - [[John Barrasso]] — lobbying: $2.2M
 - [[Mark Meadows]] — lobbying: $2.2M
 - [[Greg Gianforte]] — lobbying: $2.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

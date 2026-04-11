@@ -2,7 +2,7 @@
 title: "Goldman Sachs"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -31,7 +31,7 @@ regulatory-agencies:
   - "Labor Department"
   - "Securities and Exchange Commission"
   - "Treasury Department"
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Thune Master Profile]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FIT21 Act and Crypto Industry Capture]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[Mark Warner]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Chuck Schumer Master Profile]] · [[The Wall Street-Schumer Funding Axis]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Chris Murphy Master Profile]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Bank Bailout and the Prosecution That Never Came]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Trump Fundraiser Pipeline and Wall Street Nomination Battle]] · [[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Thune Master Profile]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FIT21 Act and Crypto Industry Capture]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[Mark Warner]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Chuck Schumer Master Profile]] · [[The Wall Street-Schumer Funding Axis]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Chris Murphy Master Profile]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[Barack Obama Master Profile]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 47401657
 total-assets: 690470487
@@ -243,21 +243,19 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 7 |
-| Committee Overlap Detected | 7 politicians |
+| Politicians Funded | 5 |
+| Committee Overlap Detected | 5 politicians |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Wall Street & Finance** → Funds **John Kennedy** → Sits on **Banking**
 - Lobbies on **Wall Street & Finance** → Funds **French Hill** → Sits on **Banking**
-- Lobbies on **Wall Street & Finance** → Funds **Jim Himes** → Sits on **House Committee on Financial Services**
-- Lobbies on **Wall Street & Finance** → Funds **Maxine Waters** → Sits on **House Committee on Financial Services**
 - Lobbies on **Wall Street & Finance** → Funds **John Boehner** → Sits on **Finance**
 - Lobbies on **Wall Street & Finance** → Funds **Paul Ryan** → Sits on **Finance**
 - Lobbies on **Wall Street & Finance** → Funds **John Cornyn** → Sits on **Finance**
@@ -266,13 +264,11 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 
 - [[John Kennedy]] (Judiciary, Banking)
 - [[French Hill]] (Banking)
-- [[Jim Himes]] (House Committee on Financial Services, House Permanent Select Committee on Intelligence)
-- [[Maxine Waters]] (House Committee on Financial Services)
 - [[John Boehner]] (Finance)
 - [[Paul Ryan]] (Finance)
 - [[John Cornyn]] (Judiciary, Intelligence, Finance)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

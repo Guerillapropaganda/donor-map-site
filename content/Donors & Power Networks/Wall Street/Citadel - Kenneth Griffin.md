@@ -243,7 +243,7 @@ Griffin's political investment protects this arrangement from regulation. His $1
 
 - [[Donald Trump]] — lobbying: $2.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

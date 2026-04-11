@@ -144,13 +144,12 @@ Doug Burgum. Secretary of the Interior (2025–present). Chair of the National E
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
+| Donors Who Also Lobby | 1 of 1 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
-- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[Harold Hamm]] — $70K lobbying spend (Energy/Nuclear, Manufacturing, Taxation/Internal Revenue Code)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

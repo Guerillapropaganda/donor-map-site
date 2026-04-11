@@ -3,7 +3,7 @@ title: "Buffy Wicks"
 type: state-politician
 current-office: "California State Assembly Member, District 14 (2018–present)"
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-06
 source-tier: 1
 parent: null
 source-types:
@@ -12,7 +12,7 @@ known-gaps:
   - "No FEC contribution data"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Gavin Newsom Master Profile]] · [[Anthony Rendon]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Walton Family Foundation]] · [[California Charter Schools Association]] · [[CTA - California Teachers Association]] · [[Ash Kalra]]"
+related: "[[_Gavin Newsom Master Profile]] · [[Anthony Rendon]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Walton Family Foundation]] · [[California Charter Schools Association]] · [[CTA - California Teachers Association]]"
 ---
 #wicks #democrat #california #appropriations-committee #class-analysis #charter-school-money #single-payer-killer
 tags: #democrat

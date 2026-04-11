@@ -2,7 +2,7 @@
 title: "Walt Disney Company"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -37,7 +37,7 @@ ein: 956037079
 annual-revenue: "$2.3M"
 net-assets: "$681K"
 tax-year: "2023"
-related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[_Ron DeSantis Master Profile|DeSantis]] · [[iHeartMedia]] · [[Verizon]] · [[Sinclair Broadcast Group]] · [[AT&T]]"
+related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Google - Alphabet]] · [[_Ron DeSantis Master Profile|DeSantis]] · [[iHeartMedia]] · [[Verizon]] · [[Sinclair Broadcast Group]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline; run pipelines"

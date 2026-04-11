@@ -13,16 +13,8 @@ district: "5"
 committees:
   - "Education & Labor"
 issues:
-  - "Arts, Culture, Religion"
-  - "Congress"
-  - "Economics and Public Finance"
   - "Education"
-  - "Energy"
-  - "Families"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Immigration"
+  - "Labor & Workers"
 top-donors:
   - "DeVos Family"
   - "American Federation for Children"
@@ -198,33 +190,6 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 - [AFL-CIO: Virginia Foxx scorecard](https://aflcio.org/scorecard/legislators/virginia-foxx) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Republican |
-| State | North Carolina |
-| Chamber | House of Representatives |
-| Bills Sponsored | 259 |
-| Bills Cosponsored | 1747 |
-
-**Policy areas:** Arts, Culture, Religion, Congress, Economics and Public Finance, Education, Energy, Families, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Science, Technology, Communications
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 8102 | Workforce Investments Accountability Act | Referred to the House Committee on Education and Workforce. |
-| 1115 | Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of … | Motion to reconsider laid on the table Agreed to without objection. |
-| 7723 | Safeguarding Taxpayer Dollars in Child Care Act of 2026 | Placed on the Union Calendar, Calendar No. 509. |
-| — |  | On agreeing to the Foxx amendment (A001) Agreed to by the Yeas and Nays: 427 - 0 (Roll no. 40). |
-| 1014 | Providing for consideration of the bill (H.R. 7148) making further consolidated … | Motion to reconsider laid on the table Agreed to without objection. |
-| 992 | Providing for consideration of the bill (H.R. 7006) making further consolidated … | Motion to reconsider laid on the table Agreed to without objection. |
-| 6188 | To amend title 36, United States Code, to designate the composition known as "He… | Referred to the House Committee on the Judiciary. |
-| 6139 | Union Members Right to Know Act | Referred to the House Committee on Education and Workforce. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/F000450) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -237,7 +202,7 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 
 - [[American Federation for Children]] — $3.1M lobbying spend (Aerospace, Agriculture, Animals)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

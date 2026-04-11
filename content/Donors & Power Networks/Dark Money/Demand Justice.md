@@ -2,7 +2,7 @@
 title: "Demand Justice"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -19,7 +19,7 @@ total-assets: 1534141
 total-political-spend: "$20,000"
 lobbying-spend: 650000
 lobbying-filings: 45
-related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[Leonard Leo]] · [[Federalist Society]] · [[The 85 Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[National Progressive Donor Networks]]"
+related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[Leonard Leo]] · [[Federalist Society]] · [[The 85 Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]]"
 court-cases: 240
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
@@ -269,9 +269,9 @@ Republicans frame judicial appointments as "restoring constitutional integrity."
 
 **Funded politicians:**
 
-- [[Jamie Raskin]] (House Committee on the Judiciary) — lobbying: $650K
+- [[Jamie Raskin]] (Judiciary) — lobbying: $650K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

@@ -2,7 +2,7 @@
 title: "Alliance Defending Freedom"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,9 +14,9 @@ annual-revenue: "$101.8M"
 net-assets: "$97.6M"
 tax-year: "2023"
 total-political-spend: "$250"
-related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Bradley Foundation]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]]"
+related: "[[DeVos Family]] · [[The Culture War Economy - Who Profits From Division]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Bradley Foundation]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 total-revenue: 125427282
 total-assets: 102769051
 federal-register-mentions: 1

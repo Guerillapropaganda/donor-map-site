@@ -2,7 +2,7 @@
 title: "Halliburton"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -21,7 +21,7 @@ total-revenue: 4436307
 total-assets: 1150303
 lei: "ENYF8GB5SMQZ25S06U51"
 lei-jurisdiction: "US-DE"
-related: "[[Valero Energy]] · [[John Barrasso]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]]"
+related: "[[Valero Energy]] · [[John Barrasso]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]]"
 sec-filings: 10000
 sec-form-types:
   - "144"

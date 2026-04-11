@@ -2,7 +2,7 @@
 title: "MBNA Corporation"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -19,7 +19,7 @@ lei: "9SRTZ2L9ZJUILAT91D80"
 lei-jurisdiction: "US"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 sec-filings: 5981
@@ -54,10 +54,6 @@ cross-vault-triangulation-count: 3
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-occ-enforcement-actions: 4
-occ-active-actions: 4
-occ-charter-numbers:
-  - "22381"
 ---
 #mbna #credit-card #delaware #biden #bankruptcy #wall-street #banking
 
@@ -149,36 +145,3 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22MBNA%20Corporation%22) (Tier 1)
 <!-- auto:sec-edgar end -->
-
-### OCC Enforcement Actions
-<!-- auto:occ-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| Legal name (OCC) | Mbna America Bank, N.A. |
-| Charter number(s) | 22381 |
-| Total OCC enforcement actions | 4 |
-| **Active actions** | **4** |
-| Most recent action | 07/28/2006 |
-| Earliest action | 04/07/2000 |
-
-**Action types:**
-
-- Prohibition/Removal Orders: 3
-- C&D or PC&D Requiring Restitution: 1
-
-**Still-active enforcement actions:**
-
-- [AA-EC-06-40: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2006-132.pdf) (07/28/2006)
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002)
-- [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
-
-**Recent enforcement history:**
-
-- [AA-EC-06-40: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2006-132.pdf) (07/28/2006)
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002)
-- [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
-
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
-<!-- auto:occ-enforcement end -->

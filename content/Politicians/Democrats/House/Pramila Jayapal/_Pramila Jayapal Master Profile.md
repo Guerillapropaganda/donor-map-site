@@ -2,7 +2,7 @@
 title: "Pramila Jayapal"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: '2026-04-10'
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -41,7 +41,7 @@ known-gaps:
   - "Build Back Better negotiation timeline (2021-2022) needs complete citation pass — the defining CPC leverage test"
   - "Amazon antitrust work (District Staff Committee hearings, break-up proposals) needs direct Congress.gov link"
   - "CPC member roster during her chair years (2021-2024) needs attached sub-note"
-related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Ayanna Pressley Master Profile|Pressley]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[_Summer Lee Master Profile|Summer Lee]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[Congressional Progressive Caucus|CPC]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built|Justice Democrats]] · [[SEIU - Service Employees International Union|SEIU]] · [[CNA - California Nurses Association|CNA]] · [[National Nurses United]] · [[Amazon]] · [[Microsoft]] · [[ActBlue]]"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Ayanna Pressley Master Profile|Pressley]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[_Summer Lee Master Profile|Summer Lee]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[Congressional Progressive Caucus|CPC]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built|Justice Democrats]] · [[SEIU - Service Employees International Union|SEIU]] · [[CNA - California Nurses Association|CNA]] · [[National Nurses United]] · [[Amazon]] · [[Microsoft]]"
 opposes:
   - "Amazon (antitrust target)"
   - "Microsoft (antitrust target)"

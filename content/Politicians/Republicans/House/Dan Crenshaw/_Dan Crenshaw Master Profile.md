@@ -14,16 +14,8 @@ state: "Texas"
 state-abbr: "TX"
 district: "2"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
+  - "Defense & Military"
+  - "Israel & Foreign Policy"
 top-donors:
   - "ExxonMobil"
   - "ConocoPhillips"
@@ -32,7 +24,7 @@ top-donors:
 total-received: "$2,138,124"
 fec-candidate-id: "H8TX02166"
 bioguide-id: "C001120"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 related: "[[John Kennedy Master Profile]] · [[_Brian Mast Master Profile|Mast]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ted Cruz Master Profile|Ted Cruz]]"
 committees:
   - "House Committee on Energy and Commerce"
@@ -250,18 +242,13 @@ party:: Republican
 | Metric | Value |
 |--------|-------|
 | Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **ConocoPhillips** donates → Lobbies on **Energy/Nuclear** → This member sits on **House Committee on Energy and Commerce**
-- **ConocoPhillips** donates → Lobbies on **Environment/Superfund** → This member sits on **House Committee on Energy and Commerce**
+| Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
 - [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases
@@ -284,39 +271,3 @@ party:: Republican
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Republican |
-| State | TX |
-| Chamber | House |
-| Bills Sponsored | 96 |
-| Bills Cosponsored | 1247 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Congress, Crime and Law Enforcement, Education, Energy, Environmental Protection, Government Operations and Politics, Health, Immigration, International Affairs, Native Americans, Public Lands and Natural Resources
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 7572 | No Vigilante Checkpoints and Civil Rights Protection Act of 2026 | Referred to the House Committee on the Judiciary. |
-| 7420 | Stop Gender Trafficking of Minors Act | Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7208 | PROTECT the Grid Act | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, Oversight and Government Reform, Ways and Means, Intelligence (Permanent Select), and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 6566 | Recycling Technology Innovation Act | Referred to the House Committee on Energy and Commerce. |
-| 4880 | Primacy Certainty Act of 2025 | Referred to the House Committee on Energy and Commerce. |
-| 4165 | To amend the Public Health Service Act to provide for the inclusion of a biologi… | Referred to the House Committee on Energy and Commerce. |
-| 3859 | Returning Illegals over Turmoil Act | Referred to the House Committee on the Judiciary. |
-| 3756 | FISH Act of 2025 | Subcommittee Hearings Held |
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001120) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Dan Crenshaw](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

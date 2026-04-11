@@ -2,7 +2,7 @@
 title: "Robert Mercer"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -13,7 +13,7 @@ issues:
   - "Dark Money & Campaign Finance"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 related: "[[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[Rebekah Mercer]] · [[_Donald Trump Master Profile]] · [[_Ted Cruz Master Profile]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[Renaissance Technologies and the 7 Billion Dollar Tax Settlement]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]]"
 lei: "213800EIIUUJGZ8VRD59"
 lei-jurisdiction: "GB"

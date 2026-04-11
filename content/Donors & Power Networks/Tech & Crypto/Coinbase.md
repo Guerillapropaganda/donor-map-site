@@ -2,7 +2,7 @@
 title: "Coinbase"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -36,7 +36,7 @@ lei: "549300QHD76EP6ZKTT48"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[From Senate to K Street - The Revolving Door]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Cryptocurrency Industry Bloc — Fairshake PAC Network]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_French Hill Master Profile|French Hill]] · [[FTX - Sam Bankman-Fried]] · [[Paul Atkins Master Profile]] · [[Brian Armstrong]] · [[Winklevoss Twins]] · [[Ross Stevens]]"
+related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[The FIT21 Act and Crypto Industry Capture]] · [[From Senate to K Street - The Revolving Door]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Cryptocurrency Industry Bloc — Fairshake PAC Network]] · [[Crypto Industry Bloc]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Marc Andreessen & Horowitz]] · [[_French Hill Master Profile|French Hill]] · [[FTX - Sam Bankman-Fried]] · [[Paul Atkins Master Profile]] · [[Brian Armstrong]] · [[Winklevoss Twins]]"
 federal-awards-total: 0
 federal-contracts-count: 3
 federal-grants-count: 0
@@ -239,41 +239,3 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/92758004-9797-9b84-aca3-932d2c0322e5-P/latest) (Tier 1)
 <!-- auto:usaspending end -->
-
-<!-- auto:usaspending pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Contracts (recent 3yr) | 3 ($7.9M sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
-
-**Top contracts:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $7.0M | Department of Justice | AFD: CRYPTOCURRENCY MANAGED SERVICES - CLASS 1 BASE YEAR  POP JULY 1, 2024 TO JUNE 30, 32025 |
-| $910K | Department of Homeland Security | COINBASE ANALYTICS LICENSES |
-| $29K | Department of Homeland Security | COINBASE ANALYTICS PLATFORM LICENSES |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/92758004-9797-9b84-aca3-932d2c0322e5-C/latest) (Tier 1)
-
-<!-- auto:usaspending pending-merge end -->
-
-### FTC Enforcement & Merger Review
-<!-- auto:ftc-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| FTC enforcement actions (historical, ≤FY2021) | 0 |
-| HSR early termination notices (merger filings) | 1 |
-
-**Recent HSR merger filings (early terminations granted):**
-
-- [Andreessen Horowitz LSV Fund I, L.P. → Coinbase Global, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20201484) (2020-09-22)
-
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Coinbase).
-
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Coinbase) (Tier 1)
-<!-- auto:ftc-enforcement end -->

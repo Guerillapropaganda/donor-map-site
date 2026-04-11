@@ -2,7 +2,7 @@
 title: "Ro Khanna Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,20 +13,16 @@ district: "17"
 bioguide-id: "K000389"
 fec-committee-id: "C00503185"
 committees:
-  - "House Committee on Armed Services"
-  - "House Committee on Oversight and Government Reform"
-  - "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"
+  - "Armed Services (Ranking Member, CITI Subcommittee)"
+  - "Oversight & Reform"
+  - "Antitrust (Judiciary)"
 issues:
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Energy"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
+  - "Technology"
+  - "Defense & Military"
+  - "Antitrust & Monopoly"
+  - "Wealth Tax"
+  - "Trade Policy"
+  - "Medicare for All"
 top-donors:
   - "Alphabet/Google employees ($535K career)"
   - "Wilson Sonsini law firm ($254K career)"
@@ -40,7 +36,7 @@ website: "https://khanna.house.gov"
 phone: "202-225-2631"
 total-received: "$9,579,628"
 fec-candidate-id: "H4CA12055"
-last-enriched: "2026-04-11"
+last-enriched: '2026-04-10'
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 source-types:
@@ -71,15 +67,6 @@ related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapa
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-raised: "$9,579,628"
-total-spent: "$4,833,756"
-cash-on-hand: "15454963.11"
-fec-cycle: 2026
-fec-debt: "89348.30"
-wikidata-id: "Q7339221"
-wikipedia-url: "https://en.wikipedia.org/wiki/Ro_Khanna"
-wikipedia-extract: 'Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California''s 17th congressional district since 2017.'
-born: "1976-09-13"
 ---
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028
 
@@ -393,124 +380,3 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 - [GovTrack: Ro Khanna](https://www.govtrack.us/congress/members/412684) (Tier 1)
 <!-- auto:voting-record end -->
-
-<!-- auto:voting-record pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
-
-**Sources**
-
-- [Congress.gov: Ro Khanna](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Ro Khanna](https://www.govtrack.us/congress/members/412684) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | CA |
-| Chamber | House |
-| Bills Sponsored | 182 |
-| Bills Cosponsored | 3600 |
-
-**Policy areas:** Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Commerce, Energy, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 8107 | To require the establishment of a list identifying program areas and administrat… | Referred to the House Committee on Oversight and Government Reform. |
-| 8108 | To amend the Internal Revenue Code of 1986 to provide for an end date for the cr… | Referred to the House Committee on Ways and Means. |
-| 7960 | To amend the Internal Revenue Code of 1986 to impose a windfall profits excise t… | Referred to the House Committee on Ways and Means. |
-| 7907 | AI-Ready Bio-Data Standards Act | Referred to the House Committee on Science, Space, and Technology. |
-| 7832 | To establish the America's Living Library Project, and for other purposes. | Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, House Administration, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7767 | To amend the Internal Revenue Code of 1986 to impose an annual tax on the net va… | Referred to the Committee on Ways and Means, and in addition to the Committees on Energy and Commerce, Financial Services, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 1092 | Condemning Israeli settlement expansion, settler violence, and related human rig… | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 1093 | Acknowledging oppression, forced eviction, and suffering experienced by tens of … | Referred to the House Committee on Foreign Affairs. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/K000389) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-**Committees:**
-
-- House Committee on Armed Services
-- House Committee on Oversight and Government Reform
-- House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
-
-**Subcommittees:**
-
-- Cyber, Information Technologies, and Innovation
-- Cybersecurity, Information Technology, and Government Innovation
-- Economic Growth, Energy Policy, and Regulatory Affairs
-- Seapower and Projection Forces
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
-<!-- auto:committee-assignments end -->
-
-### Campaign Finance Summary (FEC)
-<!-- auto:fec-summary start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $9,579,628 |
-| Total Spent | $4,833,756 |
-| Cash on Hand | 15454963.11 |
-| Debt | 89348.30 |
-| Individual Contributions | $8,151,718 |
-| PAC Contributions | $500 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $9,579,628 | $4,833,756 | 15454963.11 |
-| 2024 | $10,570,516 | $5,149,946 | 10709091.40 |
-| 2022 | $5,949,744 | $2,922,351 | 5288521.07 |
-| 2020 | $3,917,727 | $2,535,202 | 2261128.43 |
-| 2018 | $2,745,646 | $1,922,134 | 878603.52 |
-| 2016 | $3,732,538 | $3,679,116 | 55091.87 |
-| ... | 3 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4CA12055/) (Tier 1)
-<!-- auto:fec-summary end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California's 17th congressional district since 2017.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q7339221](https://www.wikidata.org/wiki/Q7339221) |
-| Description | U.S. Representative from California |
-| Born | 1976-09-13 |
-| Website | [http://www.rokhanna.com/](http://www.rokhanna.com/) |
-| X/Twitter | [@RepRoKhanna](https://x.com/RepRoKhanna) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Ro_Khanna%2C_official_portrait%2C_115th_Congress.jpg?width=300) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Ro_Khanna) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q7339221) (Tier 2)
-<!-- auto:wikipedia end -->

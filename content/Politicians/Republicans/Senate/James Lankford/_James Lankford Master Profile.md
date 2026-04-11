@@ -13,16 +13,8 @@ committees:
   - "Finance"
   - "Homeland Security"
 issues:
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Public Lands and Natural Resources"
-  - "Sports and Recreation"
-  - "Taxation"
+  - "Energy & Climate"
+  - "Immigration"
 total-received: "$1,589,488"
 fec-candidate-id: "S4OK00232"
 donors: "[[Devon Energy]]"
@@ -188,32 +180,3 @@ The border deal collapse is the defining event of Lankford's career and the clea
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/S4OK00232/) (Tier 1)
 <!-- auto:fec-politician end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Republican |
-| State | Oklahoma |
-| Chamber | House of Representatives |
-| Bills Sponsored | 647 |
-| Bills Cosponsored | 2344 |
-
-**Policy areas:** Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, Public Lands and Natural Resources, Sports and Recreation, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 649 | A resolution commemorating the 250th anniversary of the passage of the resolutio… | Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1202; text: CR S1207) |
-| 4016 | Stop Unemployment Fraud Act | Read twice and referred to the Committee on Finance. |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-
-- [Source: Congress.gov](https://www.congress.gov/member/L000575) (Tier 1)
-<!-- auto:congress-legislation end -->

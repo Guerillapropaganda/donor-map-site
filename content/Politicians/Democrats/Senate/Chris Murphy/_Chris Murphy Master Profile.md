@@ -2,7 +2,7 @@
 title: "Chris Murphy Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,16 +13,7 @@ committees:
   - "Foreign Relations"
   - "Appropriations"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-  - "Science, Technology, Communications"
+  - "Israel & Foreign Policy"
 top-donors:
   - "Everytown for Gun Safety"
   - "Silicon Valley Democratic Donor Network"
@@ -38,8 +29,6 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Jim Himes Master Profile|Jim Himes]] · [[Everytown for Gun Safety]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Richard Blumenthal Master Profile|Blumenthal]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Blue Cross Blue Shield Association]] · [[Michael Bloomberg]] · [[Insurance Industry]] · [[Defense Contractors]] · [[_Joe Biden Master Profile]]"
-last-enriched: "2026-04-11"
-bioguide-id: "M001169"
 ---
 #chris-murphy #democrat #connecticut #senate #gun-control #foreign-policy #insurance #sandy-hook #HELP-committee #foreign-relations #appropriations
 
@@ -188,33 +177,6 @@ However, the foreign policy portfolio receives far less attention than gun contr
 - [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democratic |
-| State | Connecticut |
-| Chamber | House of Representatives |
-| Bills Sponsored | 600 |
-| Bills Cosponsored | 3410 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Commerce, Crime and Law Enforcement, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Science, Technology, Communications, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 4147 | Fair Prices for Local Businesses Act | Read twice and referred to the Committee on the Judiciary. |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-
-- [Source: Congress.gov](https://www.congress.gov/member/M001169) (Tier 1)
-<!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -249,7 +211,7 @@ However, the foreign policy portfolio receives far less attention than gun contr
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -269,7 +231,7 @@ However, the foreign policy portfolio receives far less attention than gun contr
 - [[Everytown for Gun Safety]] — $5.2M lobbying spend (Budget/Appropriations, Firearms/Guns/Ammunition, Health Issues)
 - [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

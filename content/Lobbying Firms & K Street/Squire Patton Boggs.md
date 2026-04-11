@@ -262,22 +262,3 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
-
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 1,940 |
-| Courts | District Court, C.D. California, District Court, D. Arizona, District Court, D. Delaware, District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. Virginia, District Court, M.D. Florida, District Court, N.D. California +7 more |
-| Case Types | 355 Motor Vehicle Prod. Liability, 480 Consumer Credit, 830 Patent, 896 Other Statutes: Arbitration |
-
-**Notable cases:**
-- Cochran v. Equifax Information Services LLC (2026) — District Court, M.D. Florida
-- Ryan v. Equifax Information Services LLC (2026) — District Court, M.D. Florida
-- Kaneka Corporation v. Danimer Scientific LLC (2026) — District Court, D. Delaware
-- Lea v. Equifax Information Services, LLC (2026) — District Court, M.D. Florida
-- IN RE: The University of Phoenix, Inc., Data Breach Litigation (2026) — United States Judicial Panel on Multidistrict Litigation
-- Urban Red LLC (2026) — United States Bankruptcy Court, E.D. North Carolina
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Squire%20Patton%20Boggs%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->

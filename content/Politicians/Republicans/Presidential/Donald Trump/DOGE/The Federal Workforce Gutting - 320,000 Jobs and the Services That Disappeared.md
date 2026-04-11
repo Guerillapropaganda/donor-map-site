@@ -110,10 +110,3 @@ The positions that were cut were not abstract "bureaucracy." They were food safe
 
 ### Committee Assignments (Congress.gov)
 
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "AbbVie"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 subawards-issued: 50
@@ -29,7 +29,7 @@ total-assets: 217738010
 federal-awards-total: 378082
 federal-contracts-count: 20
 federal-grants-count: 0
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
 federal-register-mentions: 121
 regulatory-agencies:
   - "Centers for Medicare & Medicaid Services"
@@ -277,31 +277,3 @@ AbbVie filed 132 patents on Humira — covering the drug itself, the delivery de
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AbbVie%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
-
-### FDA Enforcement (openFDA)
-<!-- auto:fda-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| Total FDA recalls | 19 |
-| Drug recalls | 15 |
-| Device recalls | 4 |
-| Class II (temporary/reversible) | 13 |
-| Class III (unlikely to cause harm) | 6 |
-| Ongoing | 3 |
-| Most recent | 2024-09-16 |
-| Earliest | 2013-08-01 |
-
-**Recent recalls:**
-
-- [drug] [Class II] D-0664-2024 (2024-09-16): Refresh P.M., (Mineral Oil 42.5%, White Petrolatum 57.3%) Lubricant Eye Ointment, Net wt, 0.12 oz (3.5g) Tube, Distributed by: Allergen, an AbbVie company, Madison, NJ 07940,  UPC code: 300230667043,
-- [drug] [Class II] D-0665-2024 (2024-09-16): Refresh LACRI-LUBE, (42.5% Mineral Oil, 57.3% White Petrolatum) Lubricant Eye Ointment, Net wt, 0.12 oz (3.5g) Tube, Distributed by: Allergen, an AbbVie company, Madison, NJ 07940,   UPC code: 3002303
-- [drug] [Class III] D-0088-2024 (2023-10-17): Synthroid, Levothyroxine Sodium Tablets, USP 125mcg (0.125mg), 100-count bottle, Rx Only AbbVie Inc. North Chicago, IL 60064, U.S.A. NDC 0074-7068-11
-- [drug] [Class III] D-0412-2018 (2018-01-22): Ultane (sevoflurane), 250 mL, Inhalation Anesthetic, Rx only, Manufactured by:  AbbVie Inc., North Chicago, IL 60064, USA. NDC 0074-4456-51
-- [drug] [Class III] D-0034-2018 (2017-09-08): AndroGel (testosterone gel) 1.62%, 40.5mg in 2.5g aluminum foil packet, 30 Packets per carton. Rx Only.  Marketed by:  AbbVie Inc., North Chicago, IL 60064 USA.  NDC:  0051-8462-30
-- [drug] [Class III] D-0033-2018 (2017-09-08): AndroGel (testosterone gel) 1.62%, 88 gm metered-dose pump, 20.25 mg of testosterone per pump actuation, 60 metered pump actuations, Rx Only, Marketed by:  AbbVie Inc., North Chicago, IL 60064 USA.  N
-- ... and 13 more
-
-_Variant firm names in FDA data: AbbVie Inc.; AbbVie Inc_
-
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=AbbVie) (Tier 1)
-<!-- auto:fda-enforcement end -->

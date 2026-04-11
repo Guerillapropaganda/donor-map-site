@@ -2,7 +2,7 @@
 title: "ViaPath Technologies - GTL"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -14,9 +14,6 @@ known-gaps:
   - "No lobbying disclosure data"
 lobbying-spend: 140000
 lobbying-filings: 17
-nhtsa-recalls: 0
-nhtsa-complaints: 0
-last-enriched: "2026-04-11"
 ---
 #donor #viapath #gtl #carceral-state #prison-telecom #private-equity #american-securities #national #california #follow-the-money #class-analysis
 
@@ -90,21 +87,3 @@ research-status:: ready — 37% prison telecom market, GTL rebrand 2022, America
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=ViaPath%20Technologies%20-%20GTL) (Tier 1)
 <!-- auto:lda-lobbying end -->
-
-### Vehicle Safety (NHTSA)
-<!-- auto:nhtsa-recalls start -->
-| Metric | Value |
-|--------|-------|
-| Vehicle Recalls | 0 |
-| Consumer Complaints | 0 |
-| NHTSA Investigations | 10 |
-
-**Active/recent investigations:**
-
-- DP26003: Fuel smell and loss of motive power (2026-03-30)
-- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
-- DP26001: All wheel drive allegation (2026-03-06)
-- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
-
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ViaPath%20Technologies%20-%20GTL) (Tier 1)
-<!-- auto:nhtsa-recalls end -->

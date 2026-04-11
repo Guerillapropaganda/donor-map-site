@@ -2,7 +2,7 @@
 title: "Financial Services Donors"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-06"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -18,7 +18,7 @@ ofac-programs:
   - "GLOMAG"
   - "SDGT] [IFSR"
   - "RUSSIA-EO14024"
-related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]] · [[Master Donor Database]] · [[Goldman Sachs — The Government Sachs Alumni Network]]"
+related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]]"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -68,41 +68,3 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
-
-### Lobbying Activity
-<!-- auto:lda-lobbying start -->
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $23.6M |
-| Quarterly Filings | 114 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 67 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Accounting, Automotive Industry, Banking, Budget/Appropriations, Commodities (big ticket), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Financial Institutions/Investments/Securities, Government Issues, Health Issues, Housing, Immigration, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Medicare/Medicaid, Natural Resources, Religion, Retirement, Small Business, Taxation/Internal Revenue Code, Telecommunications, Torts, Travel/Tourism
-
-**Lobbying firms:** ALLON ADVOCACY, LLC, AMERICAN FINANCIAL SERVICES ASSOCIATION, AVOQ, LLC, BALLARD PARTNERS, BGR GOVERNMENT AFFAIRS, BROWNSTEIN HYATT FARBER SCHRECK, LLP, BRYAN CAVE LEIGHTON PAISNER LLP, BWC CONSULTING, CAPITAL ONE FINANCIAL CORPORATION, CAROLINA FINANCIAL GROUP, CERTIFIED FINANCIAL PLANNER BOARD OF STANDARDS, INC., CITIZENS FINANCIAL GROUP, INC., CLERGY FINANCIAL STRATEGY AND TAX PLANNING INC, COLTON STREET GROUP, CORCORAN & ASSOCIATES, INC. DBA CORCORAN PARTNERS, COREBRIDGE FINANCIAL, INC. AND AFFILIATES, CROSSROADS STRATEGIES, LLC, DANEA KEHOE, DISCOVER FINANCIAL SERVICES, EMERGENT STRATEGIES, FEDERAL HALL POLICY ADVISORS, LLC, FINANCIAL ACCOUNTING FOUNDATION, FINANCIAL INDUSTRY REGULATORY AUTHORITY, FINANCIAL SERVICES FORUM, FINANCIAL SERVICES INSTITUTE, GENWORTH FINANCIAL, INC., HARTFORD INSURANCE GROUP (FKA HARTFORD FINANCIAL SERVICES GROUP), HEALTHCARE FINANCIAL MANAGEMENT ASSOCIATION, HOLLAND & KNIGHT LLP, INVARIANT LLC, JOHN LADD & ASSOCIATES, INC., K&L GATES, LLP, KNIGHT CAPITOL CONSULTANTS, LOBBYIT.COM, LPL FINANCIAL, LXR GROUP, M FINANCIAL, MCCARTY FINANCIAL LLC, MELLON FINANCIAL SERVICES CORPORATION #1, MINDSET ADVOCACY, LLC, NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS, NATIONAL ASSOCIATION OF STUDENT FINANCIAL AID ADMINISTRATORS, OPPORTUNITY FINANCIAL, LLC, PENN AVENUE PARTNERS, POTOMAC STRATEGIC CONSULTING LLC, PRINCIPAL FINANCIAL GROUP, PRUDENTIAL FINANCIAL, INC., REGIONS FINANCIAL CORP, RESOLUTION PUBLIC AFFAIRS, LLC, RICH FEUER ANDERSON, RICHARD BURNESS, S-3 GROUP, SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION, SOBBA PUBLIC, LLC, SOCIETY FOR WORLDWIDE INTERBANK FINANCIAL TELECOMMUNICATION, SC, STUMPTOWN STRATEGIES, SUN LIFE FINANCIAL (U.S.) SERVICES COMPANY INC., SYNCHRONY FINANCIAL, THE PNC FINANCIAL SERVICES GROUP, THE RESERVE COMPONENT, THE WILLIAMS GROUP, THOMPSON COBURN LLP, THORN RUN PARTNERS, THRIVENT FINANCIAL FOR LUTHERANS, TIGER HILL PARTNERS LLC, TRUIST FINANCIAL CORPORATION (FORMERLY KNOWN AS BB&T), VENABLE LLP
-
-**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commodity Futures Trading Commission (CFTC), Consumer Financial Protection Bureau (CFPB), Defense, Dept of (DOD), Education, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), Federal Deposit Insurance Corporation (FDIC), Federal Housing Finance Agency (FHFA), Federal Reserve System +17 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Financial%20Services%20Donors) (Tier 1)
-<!-- auto:lda-lobbying end -->
-
-### Influence Network (Cross-Reference)
-<!-- auto:influence-cross-ref start -->
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 1 |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Dick Durbin** → Sits on **Judiciary**
-- Lobbies on **Immigration** → Funds **Dick Durbin** → Sits on **Judiciary**
-
-**Funded politicians:**
-
-- [[Dick Durbin]] (Judiciary)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
-<!-- auto:influence-cross-ref end -->

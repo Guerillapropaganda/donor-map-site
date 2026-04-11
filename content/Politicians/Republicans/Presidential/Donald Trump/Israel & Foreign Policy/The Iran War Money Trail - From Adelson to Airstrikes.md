@@ -2,11 +2,11 @@
 title: "The Iran War Money Trail - From Adelson to Airstrikes"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 last-enriched: "2026-04-08"
-related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Miriam Adelson]] · [[DOGE - The Billionaires Government]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Trump Alliance and US Military Aid|Netanyahu - The Trump Alliance and US Military Aid]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Adelson Family]] · [[Northrop Grumman]] · [[L3Harris Technologies]]"
+related: "[[Jared Kushner Master Profile]] · [[Sheldon & Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Miriam Adelson]] · [[DOGE - The Billionaires Government]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[The Trump Alliance and US Military Aid|Netanyahu - The Trump Alliance and US Military Aid]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Adelson Family]] · [[Northrop Grumman]]"
 source-types:
   - DOJ
 known-gaps:

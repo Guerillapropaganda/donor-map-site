@@ -2,7 +2,7 @@
 title: "Pharmaceutical Industry Bloc"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
   - "Social Safety Net"
 federal-contracts: "5976"
-related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]] · [[Bob Casey]] · [[PhRMA]] · [[Pfizer]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Novo Nordisk]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Purdue Pharma - Sackler Family]] · [[Cory Booker]] · [[Pharmaceutical Industry]] · [[Moderna]] · [[Healthcare Sector]]"
+related: "[[New Hampshire 2026 Senate Race]] · [[Thom Tillis Master Profile]] · [[The Pharma Senator and the Research Triangle Donor Pipeline]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[Patty Murray]] · [[Bob Casey]] · [[PhRMA]] · [[Pfizer]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Novo Nordisk]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Purdue Pharma - Sackler Family]] · [[Cory Booker]] · [[Pharmaceutical Industry]] · [[Moderna]]"
 cross-vault-triangulation-count: 17
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"
@@ -108,5 +108,5 @@ Medicare covers 4,000+ drugs. Negotiation on 10-20 drugs leaves 99%+ of the drug
 - [[Patty Murray]] (Appropriations) — contracts: $6K
 - [[Thom Tillis]] — contracts: $6K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

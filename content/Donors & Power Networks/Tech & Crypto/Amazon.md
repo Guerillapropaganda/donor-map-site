@@ -2,7 +2,7 @@
 title: "Amazon"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -17,7 +17,7 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-10"
 lobbying-spend: 42075000
 lobbying-filings: 59
-related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Alpine Group]] · [[Amy Klobuchar]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[_Donald Trump Master Profile|Trump]] · [[Labor - Donors and Backers]] · [[Elon Musk]] · [[Cathy McMorris Rodgers Master Profile]] · [[Oracle]] · [[Microsoft]] · [[Pramila Jayapal]] · [[Meta - Facebook]]"
+related: "[[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Alpine Group]] · [[Amy Klobuchar]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[_Donald Trump Master Profile|Trump]] · [[Labor - Donors and Backers]] · [[Elon Musk]] · [[Cathy McMorris Rodgers Master Profile]] · [[Oracle]] · [[Microsoft]]"
 subawards-issued: 50
 subawards-issued-amount: 683597304
 subawards-received: 50
@@ -314,7 +314,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -337,7 +337,7 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - [[Donald Trump]] — lobbying: $42.1M
 - [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $42.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -480,18 +480,3 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Amazon%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
-
-### Corporate Structure (GLEIF)
-<!-- auto:gleif-lei start -->
-| Field | Value |
-|-------|-------|
-| LEI | [894500WLF86O68OWI258](https://search.gleif.org/#/record/894500WLF86O68OWI258) |
-| Legal Name | Amazon Seeds |
-| Jurisdiction | IN |
-| Entity Status | ACTIVE |
-| Category | GENERAL |
-| Registration | ISSUED |
-| Last Updated | 2025-05-09T06:18:05Z |
-
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
-<!-- auto:gleif-lei end -->

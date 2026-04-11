@@ -2,7 +2,7 @@
 title: "Northrop Grumman"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -61,7 +61,7 @@ sec-form-types:
 federal-awards-total: 9185964914
 federal-contracts-count: 25
 federal-grants-count: 12
-related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[L3 Technologies]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The National Security-to-Senate Pipeline]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[Volodymyr Zelenskyy]] · [[The Energy Committee and Nuclear-Renewables Axis]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)]] · [[Israel and Foreign Policy - Donors and Backers]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Jeanne Shaheen Master Profile]] · [[Koch Industries]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]]"
+related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[L3 Technologies]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The National Security-to-Senate Pipeline]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[Volodymyr Zelenskyy]] · [[The Energy Committee and Nuclear-Renewables Axis]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)]] · [[Israel and Foreign Policy - Donors and Backers]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Jeanne Shaheen Master Profile]] · [[Koch Industries]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]]"
 lei: "RIMU48P07456QXSO0R61"
 lei-jurisdiction: "US-DE"
 subawards-issued: 50
@@ -71,7 +71,7 @@ subawards-received-amount: 25770235047
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "541330"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 15858568
@@ -80,8 +80,6 @@ cross-vault-triangulation-count: 25
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-ftc-enforcement-actions: 1
-ftc-hsr-notices: 13
 ---
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #nuclear #missiles #space #iran #golden-dome
 
@@ -367,7 +365,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -379,7 +377,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
@@ -387,13 +385,13 @@ Northrop Grumman represents the defense sector's most refined form of structural
 **Funded politicians:**
 
 - [[Donald Trump]] — contracts: $94K
-- [[Adam Smith]] (House Committee on Armed Services) — contracts: $94K
+- [[Adam Smith]] (Armed Services) — contracts: $94K
 - [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — contracts: $94K
 - [[Tom Cole]] (Appropriations) — contracts: $94K
 - [[Roger Wicker]] (Armed Services) — contracts: $94K
 - [[John Ratcliffe]] (Intelligence) — contracts: $94K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -504,7 +502,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-09 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -541,7 +539,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 | Social Security Administration | $254.5M |
 | General Services Administration | $205.7M |
 | Department of Health and Human Services | $167.2M |
-| Department of Transportation | $89.1M |
+| Department of Transportation | $88.7M |
 | Department of the Treasury | $71.6M |
 | Department of State | $67.3M |
 
@@ -622,32 +620,3 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1)
 <!-- auto:nonprofit-990 end -->
-
-### FTC Enforcement & Merger Review
-<!-- auto:ftc-enforcement start -->
-| Metric | Value |
-|--------|-------|
-| FTC enforcement actions (historical, ≤FY2021) | 1 |
-| HSR early termination notices (merger filings) | 13 |
-| Most recent enforcement action | 2018-06-05 |
-
-**Enforcement by type:**
-
-- Consent Order Accepted for Comment: 1
-
-**Recent enforcement actions (historical):**
-
-- [Northrop Grumman/Orbital](https://www.ftc.gov/news-events/press-releases/2018/06/ftc-imposes-conditions-northrop-grummans-acquisition-solid-rocket) (2018-06-05) — Defense � Ammunitions
-
-**Recent HSR merger filings (early terminations granted):**
-
-- [The Veritas Capital Fund VII, L.P. → Northrop Grumman Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20210728) (2021-01-12)
-- [Northrop Grumman Corporation → Orbital ATK, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180022) (2018-06-05)
-- [Birch Holdco, LP → Northrop Grumman Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100129) (2009-12-11)
-- [Northrop Grumman Corporation → SAIC, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20071542) (2007-07-11)
-- [Northrop Grumman Corporation → Essex Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20070377) (2007-01-23)
-
-> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Northrop%20Grumman).
-
-- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Northrop%20Grumman) (Tier 1)
-<!-- auto:ftc-enforcement end -->

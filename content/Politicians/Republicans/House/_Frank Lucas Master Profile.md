@@ -2,7 +2,7 @@
 title: "Frank Lucas Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
 party: "Republican"
@@ -13,16 +13,8 @@ district: "3"
 committees:
   - "Agriculture"
 issues:
-  - "Agriculture and Food"
-  - "Commerce"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Energy"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
+  - "Agriculture"
+  - "Energy & Climate"
 top-donors:
   - "American Farm Bureau Federation"
   - "National Cattlemen's Beef Association"
@@ -33,7 +25,7 @@ website: "https://lucas.house.gov"
 phone: "202-225-5565"
 total-received: "$472,295"
 fec-candidate-id: "H4OK06056"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-08"
 source-types:
   - Congress
   - DOJ
@@ -43,7 +35,6 @@ corroboration-count: 4
 known-gaps:
   - "No mapped relationships"
 related: "[[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Koch Network - Charles Koch|Koch Industries]] · [[_Gavin Newsom Master Profile]]"
-bioguide-id: "L000491"
 ---
 #frank-lucas #master-profile #house #oklahoma #agriculture #science #farm-subsidies #self-dealing #fossil-fuel #structural-corruption
 
@@ -361,7 +352,7 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -378,7 +369,7 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 
 - [[National Cattlemen's Beef Association]] — $3.1M lobbying spend (Advertising, Agriculture, Animals)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -419,32 +410,3 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Republican |
-| State | Oklahoma |
-| Chamber | House of Representatives |
-| Bills Sponsored | 123 |
-| Bills Cosponsored | 2130 |
-
-**Policy areas:** Agriculture and Food, Commerce, Congress, Crime and Law Enforcement, Energy, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Native Americans, Public Lands and Natural Resources, Science, Technology, Communications, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 8087 | Main Street Depositor Protection Act | Referred to the House Committee on Financial Services. |
-| 6967 | Public Company Advisory Committee Act of 2026 | Placed on the Union Calendar, Calendar No. 479. |
-| 5089 | Weather Act Reauthorization Act of 2025 | Ordered to be Reported (Amended) by Voice Vote. |
-| 4459 | MINT Act of 2025 | Referred to the House Committee on Financial Services. |
-| 3816 | Weather Act Reauthorization Act of 2025 | Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Natural Resources, Energy and Commerce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 3690 | Securing Innovation in Financial Regulation Act | Referred to the Committee on Financial Services, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 3244 | CASH Act | Referred to the House Committee on Small Business. |
-| 2563 | Aviation Education Remaining Operational Act | Referred to the Subcommittee on Aviation. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/L000491) (Tier 1)
-<!-- auto:congress-legislation end -->

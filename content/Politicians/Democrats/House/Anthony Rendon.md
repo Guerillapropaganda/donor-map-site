@@ -3,10 +3,10 @@ title: "Anthony Rendon"
 type: state-politician
 current-office: "Former Speaker of the California State Assembly (2016–2023)"
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 1
 parent: null
-related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Apartment Association]] · [[_Nancy Pelosi Master Profile]] · [[Ash Kalra]]"
+related: "[[Buffy Wicks]] · [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[California Apartment Association]] · [[_Nancy Pelosi Master Profile]]"
 known-gaps:
   - "No FEC contribution data"
   - "No voting record data"

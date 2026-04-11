@@ -2,7 +2,7 @@
 title: "Federalist Society"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Dark Money & Campaign Finance"
 federal-register-mentions: 2
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
@@ -52,14 +52,11 @@ sec-form-types:
   - "PRE 14A"
   - "PX14A6G"
   - "U-13-60"
-related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]]"
+related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q5440666"
-wikipedia-url: "https://en.wikipedia.org/wiki/Federalist_Society"
-wikipedia-extract: "The Federalist Society for Law and Public Policy Studies (FedSoc) is an American conservative and libertarian legal organization that advocates for a textualist and originalist interpretation of the U..."
 ---
 #donor #dark-money #judicial #federalist-society #leonard-leo #scotus #501c3 #conservative #judicial-pipeline
 
@@ -303,20 +300,3 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Federalist%20Society%22) (Tier 1)
 <!-- auto:sec-edgar end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-The Federalist Society for Law and Public Policy Studies (FedSoc) is an American conservative and libertarian legal organization that advocates for a textualist and originalist interpretation of the U...
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q5440666](https://www.wikidata.org/wiki/Q5440666) |
-| Description | American conservative organization |
-| Founded | 1982-04-23 |
-| Website | [http://www.fed-soc.org/](http://www.fed-soc.org/) |
-| X/Twitter | [@fedsoc](https://x.com/fedsoc) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Office_of_the_Secretary_-_Federalist_Society_Convention_and_Republican_Attorneys_General_Dinner_-_DPLA_-_d828ea03ce68b1895b6f9c576a38d1d2.jpg?width=300) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Federalist_Society) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q5440666) (Tier 2)
-<!-- auto:wikipedia end -->

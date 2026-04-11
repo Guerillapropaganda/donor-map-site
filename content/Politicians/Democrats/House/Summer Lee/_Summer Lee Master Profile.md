@@ -2,7 +2,7 @@
 title: "Summer Lee Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -38,7 +38,7 @@ known-gaps:
   - PA state legislature tenure (2019-2023) record needs detail
   - FEC candidate ID H2PA18200 may reflect pre-redistricting district number (PA-18 before redrawn to PA-12) — verify same entity
   - 2024 primary UDP spending total needs verification against FEC IE records
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; re-run congress pipeline"
 total-received: "$1,134,454"
@@ -199,15 +199,3 @@ The darker implication: her safety is not a product of principle or popularity. 
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2PA18200/) (Tier 1)
 <!-- auto:fec-politician end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | PA |
-| Chamber | House |
-
-- [Source: Congress.gov](https://www.congress.gov/member/L000299) (Tier 1)
-<!-- auto:congress-legislation end -->

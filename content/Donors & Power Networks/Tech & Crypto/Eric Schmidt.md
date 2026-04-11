@@ -2,7 +2,7 @@
 title: "Eric Schmidt"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -28,7 +28,7 @@ regulatory-agencies:
   - "Federal Communications Commission"
   - "Federal Deposit Insurance Corporation"
   - "National Security Commission on Artificial Intelligence"
-related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Matt Mahan Master Profile]] · [[Ro Khanna Master Profile]] · [[Google - Alphabet]] · [[_JD Vance Master Profile|JD Vance]] · [[The 2024 Tech Billionaire Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Peter Thiel]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Mike Lee Master Profile|Mike Lee]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[The Silicon Valley Billionaire Donor Map]] · [[Mark Warner]] · [[Think Big AI PAC]] · [[Silicon Valley Donors]]"
+related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Matt Mahan Master Profile]] · [[Ro Khanna Master Profile]] · [[Google - Alphabet]] · [[_JD Vance Master Profile|JD Vance]] · [[The 2024 Tech Billionaire Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Peter Thiel]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Mike Lee Master Profile|Mike Lee]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[The Silicon Valley Billionaire Donor Map]] · [[Mark Warner]]"
 cross-vault-triangulation-count: 15
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -290,22 +290,3 @@ Schmidt exemplifies the most sophisticated revolving door in the vault — one t
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Eric%20Schmidt%22) (Tier 1)
 <!-- auto:federal-register end -->
-
-### Federal Court Records (CourtListener)
-<!-- auto:courtlistener-cases start -->
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 464 |
-| Courts | Court of Appeals for the Fifth Circuit, Court of Appeals for the Ninth Circuit, Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Colorado, District Court, D. Nevada, District Court, D. New Jersey, District Court, D. Utah +7 more |
-| Case Types | 160 Stockholders Suits, 320 Assault Libel & Slander, 360 P.I.: Other, 365 Personal Inj. Prod. Liability, 830 Patent |
-
-**Notable cases:**
-- RANGE ENERGY INC. v. HYLIION INC. (2026) — District Court, N.D. California
-- City of Hollywood Police Officers Retirement System v. Cook (2026) — District Court, N.D. California
-- ORIGEN.AI, INC. v. BADAWI (2026) — District Court, D. New Jersey
-- In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
-- City of New York v. Meta Platforms, Inc. (2025) — District Court, N.D. California
-- WILSON v. ERICSSON INC. (2025) — District Court, District of Columbia
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eric%20Schmidt%22&type=r) (Tier 1)
-<!-- auto:courtlistener-cases end -->

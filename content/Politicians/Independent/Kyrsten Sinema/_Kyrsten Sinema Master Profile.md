@@ -2,7 +2,7 @@
 title: Kyrsten Sinema Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Independent
@@ -10,16 +10,8 @@ chamber: Senate
 state: Arizona
 state-abbr: AZ
 issues:
-  - "Armed Forces and National Security"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
-  - "Labor and Employment"
+  - Healthcare
+  - Voting Rights
 top-donors:
   - Wall Street Bloc
   - Pharmaceutical Industry
@@ -39,7 +31,7 @@ total-raised: "$17,050,976"
 total-spent: "$12,945,617"
 cash-on-hand: "4276880.44"
 fec-cycle: 2024
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S001191. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
@@ -183,7 +175,7 @@ Sinema and [[_Joe Manchin Master Profile|Joe Manchin]] operated as a two-person 
 
 - [[Wall Street Bloc]] — $1.0M lobbying spend (Aviation/Airlines/Airports, Budget/Appropriations, Defense)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)
@@ -245,39 +237,3 @@ _No committee data found._
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Independent |
-| State | AZ |
-| Chamber | Senate |
-| Bills Sponsored | 181 |
-| Bills Cosponsored | 2430 |
-
-**Policy areas:** Armed Forces and National Security, Congress, Crime and Law Enforcement, Education, Energy, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Native Americans, Public Lands and Natural Resources, Science, Technology, Communications, Taxation, Water Resources Development
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 1657 | La Paz County Solar Energy and Job Creation Act | Placed on Senate Legislative Calendar under General Orders. Calendar No. 279. |
-| 1420 | SMART Act of 2019 | Placed on Senate Legislative Calendar under General Orders. Calendar No. 147. |
-| — |  | Amendment SA 3325 agreed to in Senate by Unanimous Consent. |
-| 5274 | Critical Mineral Consistency Act of 2024 | Read twice and referred to the Committee on Energy and Natural Resources. |
-| 5265 | Tonto Apache Land Transfer Act | Read twice and referred to the Committee on Energy and Natural Resources. |
-| 59 | Chance to Compete Act of 2024 | Became Public Law No: 118-188. |
-| 2546 | A bill to designate the facility of the United States Postal Service located at … | Held at the desk. |
-| — |  | — |
-
-- [Source: Congress.gov](https://www.congress.gov/member/S001191) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [Congress.gov: Kyrsten Sinema](https://www.congress.gov/member/c001091) (Tier 1)
-<!-- auto:voting-record end -->

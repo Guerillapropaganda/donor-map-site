@@ -2,12 +2,12 @@
 title: "Jesse Watters"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Tucker Carlson]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]] · [[Dan Bongino]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Jimmy Dore]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]]"
+related: "[[Tucker Carlson]] · [[Laura Ingraham]] · [[_Media Pipeline Framework]] · [[Dan Bongino]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Jimmy Dore]] · [[Sam Seder]] · [[Rachel Maddow]]"
 donors: "[[Fox Corp - Rupert Murdoch]]"
 ---
 

@@ -37,21 +37,3 @@ See [[Financial Services Donors]] and [[Securities & Investment Industry]] for c
 
 - [FEC Receipts: Finance sector PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
-
-### Influence Network (Cross-Reference)
-<!-- auto:influence-cross-ref start -->
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 1 |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Wall Street & Finance** → Funds **Josh Gottheimer** → Sits on **House Committee on Financial Services**
-
-**Funded politicians:**
-
-- [[Josh Gottheimer]] (House Committee on Financial Services, House Permanent Select Committee on Intelligence)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
-<!-- auto:influence-cross-ref end -->

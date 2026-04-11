@@ -2,7 +2,7 @@
 title: "Roger Marshall"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-07
 source-tier: 1
 parent: null
 party: "Republican"
@@ -12,16 +12,8 @@ state-abbr: "KS"
 committees:
   - "Agriculture"
 issues:
-  - "Agriculture and Food"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Emergency Management"
-  - "Energy"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "Labor and Employment"
+  - "Agriculture"
+  - "Healthcare"
 fec-candidate-id: "S0KS00315"
 source-types:
   - Congress
@@ -31,9 +23,6 @@ corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
 related: "[[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
-last-enriched: "2026-04-11"
-bioguide-id: "M001198"
-donors: "[[Western Growers Association]]"
 ---
 #politician #republican #senate #kansas #agriculture #healthcare #pharma #covid #class-analysis #follow-the-money #gavel-power
 
@@ -185,32 +174,3 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 - [Congress.gov: Roger Marshall](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
 
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Republican |
-| State | Kansas |
-| Chamber | House of Representatives |
-| Bills Sponsored | 504 |
-| Bills Cosponsored | 1776 |
-
-**Policy areas:** Agriculture and Food, Crime and Law Enforcement, Education, Emergency Management, Energy, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, Labor and Employment, Public Lands and Natural Resources, Sports and Recreation, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| — |  | — |
-| — |  | — |
-| 3842 | 21st Century WIC Act of 2026 | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
-| 3799 | Healthy Start Reauthorization Act of 2026 | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
-| 593 | A resolution honoring the victims of the 2025 Potomac River mid-air collision. | Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S397; text: CR S381-382) |
-| 3642 | WALZ Act | Read twice and referred to the Committee on Finance. |
-| 3637 | ACE Agriculture Act of 2026 | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
-| 3623 | Credit Card Competition Act of 2026 | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/M001198) (Tier 1)
-<!-- auto:congress-legislation end -->

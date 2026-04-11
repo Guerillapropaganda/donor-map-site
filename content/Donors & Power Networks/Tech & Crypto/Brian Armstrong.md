@@ -2,7 +2,7 @@
 title: "Brian Armstrong"
 type: donor
 content-readiness: raw
-last-updated: 2026-04-11
+last-updated: '2026-04-09'
 source-tier: null
 parent: null
 sector: "Tech & Crypto"
@@ -18,16 +18,6 @@ known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
   - Full build required: Coinbase founding/CEO history, personal FEC contributions, advocacy activity
   - No FEC contribution ID compilation
-federal-register-mentions: 31
-last-enriched: "2026-04-11"
-regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Energy Department"
-  - "Federal Aviation Administration"
-  - "Justice Department"
-  - "National Oceanic and Atmospheric Administration"
-  - "Transportation Department"
 ---
 
 #brian-armstrong #coinbase #crypto #fairshake #mega-donor #ceo #class-analysis
@@ -79,23 +69,3 @@ Source: [[Fairshake PAC]], [[Coinbase]] vault entries.
 ---
 
 **Status:** Stub created 2026-04-09 to preserve vault connections. Full build-out requires Armstrong's personal FEC contribution history (separate from Coinbase corporate), the SEC dismissal documentation, and his role in the broader PayPal Mafia / crypto political network.
-
-### Federal Register Activity
-<!-- auto:federal-register start -->
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 31 |
-| Notices | 31 |
-| Agencies | Antitrust Division, Commerce Department, Energy Department, Federal Aviation Administration, Justice Department, National Oceanic and Atmospheric Administration, Transportation Department |
-
-**Recent regulatory activity:**
-- [Marine Mammals and Endangered Species](https://www.federalregister.gov/documents/2020/01/13/2020-00316/marine-mammals-and-endangered-species) (2020-01-13) — Commerce Department
-- [Marine Mammals; File No. 23169](https://www.federalregister.gov/documents/2019/10/25/2019-23320/marine-mammals-file-no-23169) (2019-10-25) — Commerce Department
-- [Notice of Release From Federal Grant Assurance Obligations at Bob Hope Airport, Burbank, Los Angeles County, California](https://www.federalregister.gov/documents/2016/09/13/2016-21939/notice-of-release-from-federal-grant-assurance-obligations-at-bob-hope-airport-burbank-los-angeles) (2016-09-13) — Transportation Department
-- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations at Santa Maria Public Airport, Santa Maria, Santa Barbara County, California](https://www.federalregister.gov/documents/2016/01/21/2016-01207/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-at-santa-maria-public) (2016-01-21) — Transportation Department
-- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations at Oxnard Airport, Oxnard, Ventura County, California](https://www.federalregister.gov/documents/2016/01/21/2016-01205/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-at-oxnard-airport) (2016-01-21) — Transportation Department
-- [Notice of Release From Quitclaim Deed and Federal Grant Assurance Obligations for Delano Municipal Airport, Delano, CA](https://www.federalregister.gov/documents/2013/02/05/2013-02475/notice-of-release-from-quitclaim-deed-and-federal-grant-assurance-obligations-for-delano-municipal) (2013-02-05) — Transportation Department
-- ... and 25 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brian%20Armstrong%22) (Tier 1)
-<!-- auto:federal-register end -->

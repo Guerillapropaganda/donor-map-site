@@ -2,36 +2,31 @@
 title: Raphael Warnock Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: Democrat
 chamber: Senate
 state: Georgia
 state-abbr: GA
-bioguide-id: "W000790"
+bioguide-id: W000790
 committees:
   - "Agriculture, Nutrition, and Forestry"
   - "Banking, Housing, and Urban Affairs"
   - "Commerce, Science, and Transportation"
   - "Special Committee on Aging"
 issues:
-  - "Agriculture and Food"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Health"
-  - "Public Lands and Natural Resources"
-  - "Taxation"
+  - "Healthcare"
+  - "Voting Rights"
+  - "Racial Justice"
+  - "Religious Authority / Moral Framing"
+  - "Tech & Media Policy"
 top-donors:
   - "National tech / media donors ($13.4M from California 2022)"
   - "Healthcare sector PAC donors"
   - "Out-of-state individual donors (92% of 2022 cycle)"
-total-received: "$6,047,785"
-fec-candidate-id: "S0GA00559"
+total-received: '$6,047,785'
+fec-candidate-id: S0GA00559
 govtrack-id: 456858
 bills-sponsored: 24
 bills-cosponsored: 297
@@ -62,7 +57,6 @@ reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-11"
 ---
 #raphael-warnock #senate #georgia #mlk #ebenezer-baptist #moral-authority #fundraising #corporate-democrat #class-analysis
 
@@ -334,58 +328,3 @@ This is the corporate-democrat template: use moral authority language ("everyone
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | GA |
-| Chamber | Senate |
-| Bills Sponsored | 245 |
-| Bills Cosponsored | 1222 |
-
-**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Education, Finance and Financial Sector, Foreign Trade and International Finance, Health, Public Lands and Natural Resources, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| — |  | — |
-| 4195 | Kira Johnson Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
-| 4167 | HBCU Research Capacity Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
-| — |  | — |
-
-- [Source: Congress.gov](https://www.congress.gov/member/W000790) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Nay** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Nay** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Nay** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Nay** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Nay** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Yea** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Nay** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Nay** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Nay** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [Congress.gov: Raphael Warnock](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Raphael Warnock](https://www.govtrack.us/congress/members/456858) (Tier 1)
-<!-- auto:voting-record end -->

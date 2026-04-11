@@ -2,7 +2,7 @@
 title: "Josh Gottheimer Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,32 +23,13 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Palantir]] · [[Wall Street Finance PACs]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 committees:
   - "House Committee on Financial Services"
   - "House Permanent Select Committee on Intelligence"
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000583. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
-issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Emergency Management"
-  - "Families"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
-total-raised: "$1,892,291"
-total-spent: "$12,309,298"
-cash-on-hand: "10295485.93"
-fec-cycle: 2026
-wikidata-id: "Q6288908"
-wikipedia-url: "https://en.wikipedia.org/wiki/Josh_Gottheimer"
-wikipedia-extract: "Joshua S. Gottheimer is an American politician, attorney, writer, and public policy adviser serving as the U.S. representative for New Jersey's 5th congressional district since 2017."
-born: "1975-03-08"
 ---
 #politician #democrat #house #josh-gottheimer #donor-pipeline #corporate-democrat #problem-solvers
 tags: #democrat
@@ -239,16 +220,6 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 - [Congress.gov: Josh Gottheimer](https://www.congress.gov/member/b001296) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-- [Congress.gov: Josh Gottheimer](https://www.congress.gov/member/c001091) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
-
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 **Committees:**
@@ -266,74 +237,3 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
-
-### Legislative Activity (Congress.gov)
-<!-- auto:congress-legislation start -->
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| Chamber | House |
-| Bills Sponsored | 191 |
-| Bills Cosponsored | 3134 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Emergency Management, Families, Government Operations and Politics, Health, Immigration, International Affairs, Law, Public Lands and Natural Resources, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 8138 | DPA Specialized Staffing Act | Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7870 | ICE Standards Act | Referred to the House Committee on the Judiciary. |
-| 75 | Directing the President, pursuant to section 5(c) of the War Powers Resolution, … | Referred to the House Committee on Foreign Affairs. |
-| 7694 | To direct the Secretary of Health and Human Services to carry out a public aware… | Referred to the House Committee on Energy and Commerce. |
-| 7693 | Leo’s Law | Referred to the House Committee on Energy and Commerce. |
-| 1079 | Recognizing the significance of Charcot-Marie-Tooth disease and the need for rob… | Referred to the House Committee on Energy and Commerce. |
-| 7576 | AI Workforce Training Act | Referred to the House Committee on Ways and Means. |
-| 7465 | Federal Investment in Grants for Health Transportation and Flu-vaccination Local… | Referred to the House Committee on Energy and Commerce. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/G000583) (Tier 1)
-<!-- auto:congress-legislation end -->
-
-### Campaign Finance Summary (FEC)
-<!-- auto:fec-summary start -->
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $1,892,291 |
-| Total Spent | $12,309,298 |
-| Cash on Hand | 10295485.93 |
-| Individual Contributions | $1,104,838 |
-| PAC Contributions | $417,050 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $1,892,291 | $12,309,298 | 10295485.93 |
-| 2024 | $10,246,424 | $2,879,879 | 20712493.06 |
-| 2022 | $8,856,162 | $3,859,312 | 13345948.22 |
-| 2020 | $7,799,294 | $3,593,230 | 8349098.41 |
-| 2018 | $7,000,276 | $2,936,326 | 4143034.85 |
-| 2016 | $4,799,702 | $4,720,617 | 79085.06 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6NJ05171/) (Tier 1)
-<!-- auto:fec-summary end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-Joshua S. Gottheimer is an American politician, attorney, writer, and public policy adviser serving as the U.S. representative for New Jersey's 5th congressional district since 2017.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q6288908](https://www.wikidata.org/wiki/Q6288908) |
-| Description | American politician from New Jersey |
-| Born | 1975-03-08 |
-| Website | [http://josh4congress.com/](http://josh4congress.com/) |
-| X/Twitter | [@RepJoshG](https://x.com/RepJoshG) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Josh_Gottheimer_Photo.jpg?width=300) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Josh_Gottheimer) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q6288908) (Tier 2)
-<!-- auto:wikipedia end -->

@@ -2,7 +2,7 @@
 title: "Frank Pallone"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,7 +11,8 @@ state: "New Jersey"
 state-abbr: "NJ"
 district: "6"
 committees:
-  - "House Committee on Energy and Commerce"
+  - "Energy & Commerce"
+  - "Environment & Public Works"
 leadership-roles:
   - "Ranking Member"
 issues:
@@ -32,7 +33,7 @@ total-received: "$1,311,209"
 fec-candidate-id: "H8NJ03073"
 donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Pfizer]] · [[PhRMA]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 govtrack-id: 400308
@@ -48,10 +49,6 @@ fec-cycle: 2026
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q965289"
-wikipedia-url: "https://en.wikipedia.org/wiki/Frank_Pallone"
-wikipedia-extract: "Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party."
-born: "1951-10-30"
 ---
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power
 
@@ -195,30 +192,6 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
-
-**Sources**
-
-- [Congress.gov: Frank Pallone](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308) (Tier 1)
-<!-- auto:voting-record end -->
 
 
 ### Legislative Activity (GovTrack)
@@ -308,29 +281,3 @@ Energy and Commerce jurisdiction covers virtually every major regulated industry
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
 <!-- auto:fec-summary end -->
-
-### Committee Assignments (Congress.gov)
-<!-- auto:committee-assignments start -->
-**Committees:**
-
-- House Committee on Energy and Commerce
-
-- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
-<!-- auto:committee-assignments end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q965289](https://www.wikidata.org/wiki/Q965289) |
-| Description | American lawyer and politician (born 1951) |
-| Born | 1951-10-30 |
-| Website | [https://pallone.house.gov](https://pallone.house.gov) |
-| X/Twitter | [@FrankPallone](https://x.com/FrankPallone) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Frank_Pallone.jpg?width=300) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Frank_Pallone) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q965289) (Tier 2)
-<!-- auto:wikipedia end -->

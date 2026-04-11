@@ -2,7 +2,7 @@
 title: "Media Matters"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -46,7 +46,7 @@ known-gaps:
   - "No mapped relationships"
 lobbying-spend: 9397596
 lobbying-filings: 95
-related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]]"
+related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]]"
 total-political-spend: "$3,998,524"
 politicians-funded:
   - "Bill Clinton"
@@ -305,5 +305,5 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 - [[Bill Clinton]] — lobbying: $9.4M
 - [[Hillary Clinton]] — lobbying: $9.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->

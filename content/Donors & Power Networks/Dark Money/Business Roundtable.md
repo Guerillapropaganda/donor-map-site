@@ -2,7 +2,7 @@
 title: "Business Roundtable"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -17,7 +17,7 @@ ein: 237236607
 annual-revenue: "$64.5M"
 net-assets: "$47.8M"
 tax-year: "2023"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 federal-register-mentions: 172
@@ -31,7 +31,7 @@ regulatory-agencies:
   - "Safety and Environmental Enforcement Bureau"
   - "Securities and Exchange Commission"
   - "Veterans Employment and Training Service"
-related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]]"
+related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]]"
 sec-filings: 10000
 sec-form-types:
   - "8-K"
@@ -47,12 +47,6 @@ cross-vault-triangulation-count: 14
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-nonprofit-status: "501(c)(6)"
-total-revenue: 79436895
-total-assets: 50178043
-wikidata-id: "Q5001792"
-wikipedia-url: "https://en.wikipedia.org/wiki/Business_Roundtable"
-wikipedia-extract: "The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies."
 ---
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
 
@@ -207,7 +201,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 - [[Donald Trump]] — lobbying: $4.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -267,45 +261,3 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Business%20Roundtable%22) (Tier 1)
 <!-- auto:sec-edgar end -->
-
-### Tax Filings (IRS 990)
-<!-- auto:nonprofit-990 start -->
-| Metric | Value |
-|--------|-------|
-| EIN | 237236607 |
-| Tax-Exempt Status | 501(c)(6) |
-| Total Revenue | $79.4M |
-| Total Assets | $50.2M |
-| NTEE Code | J99 |
-| IRS Ruling Date | 2017-11-01 |
-| Filings on Record | 13 |
-
-**Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
-
-**View 990 filings:**
-- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2023)
-- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2022)
-- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2021)
-- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2020)
-- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/237236607/2019)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1)
-<!-- auto:nonprofit-990 end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q5001792](https://www.wikidata.org/wiki/Q5001792) |
-| Description | conservative lobbying organization in the United States |
-| Founded | 1972-00-00 |
-| Website | [http://businessroundtable.org/](http://businessroundtable.org/) |
-| X/Twitter | [@BizRoundtable](https://x.com/BizRoundtable) |
-| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Business_Roundtable_logo.svg?width=300) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Business_Roundtable) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q5001792) (Tier 2)
-<!-- auto:wikipedia end -->

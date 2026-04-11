@@ -303,7 +303,7 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -319,7 +319,7 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 - [[Insurance Industry]] — $25.6M lobbying spend (Accounting, Agriculture, Alcohol and Drug Abuse) + $11K in contracts
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

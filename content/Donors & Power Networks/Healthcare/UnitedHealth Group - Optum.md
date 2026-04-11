@@ -2,7 +2,7 @@
 title: "UnitedHealth Group - Optum"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -35,11 +35,11 @@ subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 2
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-08"
 regulatory-agencies:
   - "Employment and Training Administration"
   - "Labor Department"
-related: "[[Civica Rx]] · [[Healthcare - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[Kamala Harris Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Moderna]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Nancy Pelosi Master Profile]] · [[Kaiser Permanente]] · [[Legislative Record as Speaker]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[The Insurance Industry Public Option Kill]] · [[Bernie Sanders Master Profile]] · [[Barack Obama Master Profile]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Josh Green Master Profile]] · [[_Gavin Newsom Master Profile]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Single-Payer Broken Promise]] · [[Uber]] · [[Lyft]] · [[Anthem - Elevance Health Political Operation]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]]"
+related: "[[Civica Rx]] · [[Healthcare - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[Kamala Harris Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Moderna]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Nancy Pelosi Master Profile]] · [[Kaiser Permanente]] · [[Legislative Record as Speaker]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[The Insurance Industry Public Option Kill]] · [[Bernie Sanders Master Profile]] · [[Barack Obama Master Profile]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Josh Green Master Profile]] · [[_Gavin Newsom Master Profile]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Single-Payer Broken Promise]] · [[Uber]] · [[Lyft]] · [[Anthem - Elevance Health Political Operation]]"
 cross-vault-triangulation-count: 25
 audit-a-plus-passed: "2026-04-11"
 ---
@@ -187,7 +187,7 @@ Healthcare — COVID contracts, PBM regulation, single-payer
 - [[Joe Biden]] — lobbying: $25.1M
 - [[Kamala Harris]] — lobbying: $25.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity
@@ -253,21 +253,3 @@ Healthcare — COVID contracts, PBM regulation, single-payer
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22UnitedHealth%20Group%20-%20Optum%22) (Tier 1)
 <!-- auto:federal-register end -->
-
-### Vehicle Safety (NHTSA)
-<!-- auto:nhtsa-recalls start -->
-| Metric | Value |
-|--------|-------|
-| Vehicle Recalls | 0 |
-| Consumer Complaints | 0 |
-| NHTSA Investigations | 10 |
-
-**Active/recent investigations:**
-
-- DP26003: Fuel smell and loss of motive power (2026-03-30)
-- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
-- DP26001: All wheel drive allegation (2026-03-06)
-- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
-
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=UnitedHealth%20Group%20-%20Optum) (Tier 1)
-<!-- auto:nhtsa-recalls end -->

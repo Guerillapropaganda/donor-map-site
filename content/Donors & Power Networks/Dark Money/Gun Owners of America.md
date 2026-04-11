@@ -2,7 +2,7 @@
 title: "Gun Owners of America"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
 federal-register-mentions: 4
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
@@ -18,7 +18,7 @@ regulatory-agencies:
   - "Interior Department"
   - "Justice Department"
   - "Treasury Department"
-ein: 521256643
+ein: "521256643"
 nonprofit-status: "501(c)(4)"
 total-revenue: 7676175
 total-assets: 2172940
@@ -29,12 +29,6 @@ cross-vault-triangulation-count: 2
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-annual-revenue: "$9.6M"
-net-assets: "$6.9M"
-tax-year: "2023"
-wikidata-id: "Q1771871"
-wikipedia-url: "https://en.wikipedia.org/wiki/Gun_Owners_of_America"
-wikipedia-extract: "Gun Owners of America (GOA) is a gun rights organization in the United States. It makes efforts to differentiate itself from the larger National Rifle Association (NRA) and has publicly criticized the..."
 ---
 #gun-owners-of-america #GOA #hardline-gun-rights #NRA-alternative #dark-money #second-amendment #Republican-donor
 
@@ -230,34 +224,3 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Gun%20Owners%20of%20America) (Tier 1)
 <!-- auto:lda-lobbying end -->
-
-### Financial Overview (990 Filing — 2023)
-<!-- auto:propublica-990 start -->
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $9.6M |
-| Total Contributions | $9.6M |
-| Investment Income | $11K |
-| Total Expenses | $8.9M |
-| Net Assets | $6.9M |
-| Officer Compensation | $327K |
-
-- [Source: ProPublica Nonprofit Explorer — EIN 521256643](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1)
-<!-- auto:propublica-990 end -->
-
-### Wikipedia
-<!-- auto:wikipedia start -->
-Gun Owners of America (GOA) is a gun rights organization in the United States. It makes efforts to differentiate itself from the larger National Rifle Association (NRA) and has publicly criticized the...
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q1771871](https://www.wikidata.org/wiki/Q1771871) |
-| Description | organization |
-| Founded | 1975-00-00 |
-| Website | [http://www.gunowners.org/](http://www.gunowners.org/) |
-| X/Twitter | [@gunowners](https://x.com/gunowners) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Gun_Owners_of_America_Logo.svg/330px-Gun_Owners_of_America_Logo.svg.png) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Gun_Owners_of_America) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1771871) (Tier 2)
-<!-- auto:wikipedia end -->

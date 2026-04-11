@@ -2,7 +2,7 @@
 title: "Cory Booker"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -47,14 +47,14 @@ website: "https://www.booker.senate.gov"
 phone: "202-224-3224"
 related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[PhRMA]] · [[Pfizer]] · [[Merck]] · [[Johnson & Johnson]] · [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
 donors: "[[JB Pritzker]] · [[Mark Zuckerberg]]"
-total-received: "$30,106,071"
+total-received: "$26,085,174"
 fec-candidate-id: "S4NJ00185"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 
 [URL Check 2026-04-09] 17 checked: 11 ok, 5 broken, 1 slow. | BROKEN: Congress.gov: Cory Booker member profile | BROKEN: Congress.gov: First Step Act | BROKEN: The Hill: Booker puts pause on pharma fundraising | BROKEN: Source: Senate Stock Watcher | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 bioguide-id: "B001288"
@@ -222,7 +222,7 @@ The development was real. The question is who benefited: corporate headquarters 
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 - [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -251,36 +251,6 @@ The development was real. The question is who benefited: corporate headquarters 
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
-
-<!-- auto:stock-trades pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 13 |
-| Purchases | 0 |
-| Sales | 13 |
-| Est. Value Range | $104,013 – $385,000 |
-
-**Top tickers traded:** IRM, AMT, NFLX, NKE, IBM, FB, AMZN, AAPL
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 08/08/2014 | NKE | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | IRM | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | IBM | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | FB | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | AMZN | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | AAPL | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | DISH | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | AMT | Sale | $50,001 - $100,000 | Self |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ## Committee Assignments (Congress.gov)
 
@@ -340,42 +310,6 @@ The development was real. The question is who benefited: corporate headquarters 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/P00009795/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $30,106,071 |
-| Individual Contributions | $7,856,086 |
-| PAC Contributions | $523,290 |
-| Cash on Hand | 21904743.82 |
-| IE Support (Super PAC) | $2,661,367 |
-| IE Opposition (Super PAC) | $995,883 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $30,106,071 | $7,856,086 | $523,290 |
-| 2020 | $16,619,139 | $7,005,908 | $1,265,745 |
-| 2014 | $18,368,139 | $14,218,105 | $1,880,427 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| INDEPENDENCE USA PAC | $1,465,072 | $0 |
-| THE MOBILIZATION PROJECT | $1,064,894 | $0 |
-| AMERICAN PRINCIPLES FUND | $0 | $511,500 |
-| AMERICAN COMMITMENT ACTION FUND | $0 | $371,600 |
-| POWERPACPLUS | $81,401 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S4NJ00185/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
-
 ## Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
@@ -400,35 +334,6 @@ The development was real. The question is who benefited: corporate headquarters 
 
 - [GovTrack: Cory Booker](https://www.govtrack.us/congress/members/412598) (Tier 1)
 <!-- auto:voting-record end -->
-
-<!-- auto:voting-record pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Nay** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Nay** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Nay** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Nay** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Not Voting** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Yea** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Nay** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Nay** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Nay** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Present** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [Congress.gov: Cory Booker](https://www.congress.gov/member/c001091) (Tier 1)
-- [GovTrack: Cory Booker](https://www.govtrack.us/congress/members/412598) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
