@@ -44,6 +44,23 @@ export function DayModal({ date, schedule, state, onClose, onToggleTask }: Props
   const byDay = tasksByDay(schedule)
   const dayTasks = byDay[date] ?? []
 
+  // Compute hours worked from task completion timestamps on this day
+  // (15 min credit per completed task — see Calendar.tsx::computeHoursPerDay)
+  const autoHours = Object.values(state.task_states || {}).reduce((sum, ts) => {
+    if (ts.status === "done" && ts.completed_at?.slice(0, 10) === date) return sum + 0.25
+    return sum
+  }, 0)
+  const displayHours = dayState.actual_hours_worked ?? (autoHours > 0 ? autoHours : undefined)
+
+  // Tasks completed on this day with their exact times — helps reconstruct "when did what happen"
+  const completedOnThisDay = Object.entries(state.task_states || {})
+    .filter(([_, ts]) => ts.status === "done" && ts.completed_at?.slice(0, 10) === date)
+    .map(([taskId, ts]) => {
+      const task = schedule.allTasks.find(t => t.id === taskId)
+      return { taskId, task: task?.task || taskId, completedAt: ts.completed_at || "" }
+    })
+    .sort((a, b) => a.completedAt.localeCompare(b.completedAt))
+
   return (
     <div
       className="fixed inset-0 z-50 flex items-start justify-center p-4 md:p-8 bg-black/70 overflow-y-auto"
@@ -156,21 +173,24 @@ export function DayModal({ date, schedule, state, onClose, onToggleTask }: Props
 
             <div>
               <div className="text-[10px] tracking-[0.25em] text-[var(--color-text-dim)] font-mono mb-2">
-                DAY STATE
+                HOW THE DAY WENT
               </div>
               <div className="text-[10px] font-mono text-[var(--color-text-dim)] space-y-1">
-                <div>
+                <div title="Estimated from task completion timestamps (15 min credit per task). If you logged real hours manually, those override the estimate.">
                   HOURS WORKED:{" "}
                   <span className="text-[var(--color-text)]">
-                    {dayState.actual_hours_worked ?? "—"}
+                    {displayHours !== undefined ? `${displayHours.toFixed(1)}H` : "—"}
                   </span>
+                  {autoHours > 0 && dayState.actual_hours_worked === undefined && (
+                    <span className="text-[7px] text-[var(--color-text-dim)] ml-1">(estimated)</span>
+                  )}
                 </div>
-                <div>
-                  CRUNCH:{" "}
+                <div title="Extended-hours day — worked past the usual stop-work time">
+                  EXTENDED HOURS:{" "}
                   <span className="text-[var(--color-text)]">{dayState.crunch_day ? "YES" : "NO"}</span>
                 </div>
-                <div>
-                  REST 1/2:{" "}
+                <div title="Half-day rest — worked only part of the day on purpose">
+                  HALF-DAY REST:{" "}
                   <span className="text-[var(--color-text)]">
                     {dayState.rest_half_day ? "YES" : "NO"}
                   </span>
@@ -181,6 +201,26 @@ export function DayModal({ date, schedule, state, onClose, onToggleTask }: Props
                   </div>
                 )}
               </div>
+
+              {/* Completion timeline — every task closed on this day with its exact time */}
+              {completedOnThisDay.length > 0 && (
+                <div className="mt-4">
+                  <div className="text-[10px] tracking-[0.25em] text-[var(--color-text-dim)] font-mono mb-2">
+                    COMPLETION TIMELINE
+                  </div>
+                  <div className="text-[10px] font-mono space-y-1">
+                    {completedOnThisDay.map((c, idx) => (
+                      <div key={`${c.taskId}-${idx}`} className="flex gap-2">
+                        <span className="text-[var(--color-text-dim)] w-10 flex-shrink-0">
+                          {c.completedAt.slice(11, 16)}
+                        </span>
+                        <span className="text-[var(--color-green)] flex-shrink-0">✓</span>
+                        <span className="text-[var(--color-text)] truncate">{c.task}</span>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
           </div>
         </div>
