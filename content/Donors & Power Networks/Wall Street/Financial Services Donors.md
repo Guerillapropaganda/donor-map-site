@@ -1,7 +1,7 @@
 ---
 title: "Financial Services Donors"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,12 +11,18 @@ issues:
   - "Wall Street & Finance"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
   - "GLOMAG"
   - "SDGT] [IFSR"
   - "RUSSIA-EO14024"
 related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]]"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #financial-services #banking #wall-street #donors #bipartisan #dodd-frank #deregulation
 

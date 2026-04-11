@@ -1,7 +1,7 @@
 ---
 title: "Democratic Senatorial Campaign Committee"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -9,6 +9,8 @@ sector: "Super PACs"
 entity-type: "PAC"
 federal-register-mentions: 33
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Federal Election Commission"
   - "Postal Regulatory Commission"
@@ -51,6 +53,10 @@ court-jurisdictions:
   - "District Court, E.D. North Carolina"
   - "District Court, N.D. Florida"
   - "District Court, S.D. Texas"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #dscc #senate #democratic #campaign #fundraising #party-committee
 

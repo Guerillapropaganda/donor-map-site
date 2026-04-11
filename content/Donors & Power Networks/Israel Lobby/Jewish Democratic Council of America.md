@@ -24,6 +24,8 @@ fara-records: 2
 fara-countries:
   - "SYRIA"
 related: "[[John Fetterman Master Profile]] · [[Paul Ryan]] · [[Amy Klobuchar]]"
+cross-vault-triangulation-count: 2
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #jdca #jewish-democratic-council #israel-lobby #democratic-party #pro-israel

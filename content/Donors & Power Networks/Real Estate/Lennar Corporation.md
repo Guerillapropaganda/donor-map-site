@@ -53,6 +53,8 @@ known-gaps:
   - "No lobbying disclosure data"
 lobbying-spend: 0
 lobbying-filings: 8
+cross-vault-triangulation-count: 10
+audit-a-plus-passed: "2026-04-11"
 ---
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
 

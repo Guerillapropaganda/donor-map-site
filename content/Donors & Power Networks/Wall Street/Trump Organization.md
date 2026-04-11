@@ -1,7 +1,7 @@
 ---
 title: "Trump Organization"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -48,6 +48,13 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13D"
   - "SCHEDULE 13D/A"
+cross-vault-triangulation-count: 5
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #trump #organization #real-estate #branding #conflicts-of-interest #emoluments
 

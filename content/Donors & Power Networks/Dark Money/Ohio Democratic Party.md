@@ -43,6 +43,8 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "TAIWAN"
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class
 

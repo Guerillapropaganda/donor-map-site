@@ -24,6 +24,8 @@ regulatory-agencies:
   - "Occupational Safety and Health Administration"
   - "State Department"
 total-political-spend: "$53,369"
+cross-vault-triangulation-count: 1
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #mega-donor #republican #primary-kingmaker #club-for-growth

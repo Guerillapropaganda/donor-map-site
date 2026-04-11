@@ -1,7 +1,7 @@
 ---
 title: "Marathon Petroleum"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -20,6 +20,8 @@ top-naics-code: "324110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 sec-filings: 10000
 sec-form-types:
   - "10-12B/A"
@@ -90,6 +92,10 @@ lei-jurisdiction: "US-DE"
 nonprofit-status: "501(c)(3)"
 total-revenue: 2916203
 total-assets: 1240962
+cross-vault-triangulation-count: 18
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #marathon #oil #refining #petrochemical #pollution #cancer-alley #lobbying #detroit #covert-anti-ev-campaign #dark-money #republican-aligned
 

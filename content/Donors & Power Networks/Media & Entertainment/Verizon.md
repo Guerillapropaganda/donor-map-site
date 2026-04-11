@@ -1,7 +1,7 @@
 ---
 title: "Verizon"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ein: "133319048"
 annual-revenue: "$7.5M"
 net-assets: "$26.0M"
@@ -39,6 +41,10 @@ total-assets: 23768481
 related: "[[News Corp - Fox Corporation]] · [[The Telecom and Media Monopoly Oversight]] · [[Akin Gump Strauss Hauer & Feld]] · [[AT&T - WarnerMedia]] · [[Comcast - NBCUniversal]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Sinclair Broadcast Group]]"
 lei: "549300P62FU7SYVYQG84"
 lei-jurisdiction: "FR"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #verizon #telecom #broadband #net-neutrality #wireless #spectrum #lobbying
 

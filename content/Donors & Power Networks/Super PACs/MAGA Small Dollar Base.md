@@ -1,7 +1,7 @@
 ---
 title: "MAGA Small Dollar Base"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -10,6 +10,13 @@ entity-type: "Individual Donor"
 politicians-funded:
   - "Donald Trump"
 related: "[[Matt Gaetz Master Profile]] · [[The McCarthy Ouster and the Politics of Institutional Destruction]] · [[Marjorie Taylor Greene Master Profile]] · [[The Outrage Fundraising Machine - How Controversy Becomes Cash]] · [[From QAnon to DOGE - The Mainstreaming Pipeline]] · [[_Donald Trump Master Profile|Trump]] · [[Republican Party Apparatus]] · [[America PAC - Elon Musk]] · [[Trump Donor Coalition]] · [[Trump 2024 Campaign]] · [[ActBlue]] · [[Democratic Small Dollar Networks]]"
+cross-vault-triangulation-count: 7
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #maga #small-dollar #donors #trump #grassroots #winred #fundraising #recurring-donations #indictment-fundraising #class-analysis #follow-the-money
 

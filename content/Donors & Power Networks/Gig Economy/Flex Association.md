@@ -1,7 +1,7 @@
 ---
 title: "Flex Association"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -9,6 +9,8 @@ sector: "Gig Economy"
 entity-type: "Corporation"
 federal-register-mentions: 2
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Federal Trade Commission"
   - "Labor Department"
@@ -24,6 +26,10 @@ court-jurisdictions:
 ein: "394827006"
 nonprofit-status: "501(c)(3)"
 related: "[[Instacart]] · [[Uber]] · [[Lyft]] · [[DoorDash]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Airbnb]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]]"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #flex-association #gig-economy #uber #lyft #doordash #instacart #prop-22 #worker-classification #lobbying #class-analysis #follow-the-money
 

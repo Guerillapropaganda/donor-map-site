@@ -1,7 +1,7 @@
 ---
 title: "L3Harris Technologies"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ federal-contracts-count: 25
 federal-grants-count: 2
 court-cases: 166
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Maryland"
@@ -60,6 +62,10 @@ top-naics-code: "336413"
 related: "[[Palantir Technologies Political Operation]] · [[Tammy Duckworth]] · [[Lockheed Martin]] · [[Raytheon (RTX)|Raytheon]] · [[Northrop Grumman]] · [[Boeing]] · [[General Dynamics]] · [[_Donald Trump Master Profile|Trump]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Heritage Foundation]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Leidos]]"
 lei: "549300UTE50ZMDBG8A20"
 lei-jurisdiction: "US-DE"
+cross-vault-triangulation-count: 13
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #electronic-warfare #space #missiles #iran #golden-dome #surveillance #communications
 

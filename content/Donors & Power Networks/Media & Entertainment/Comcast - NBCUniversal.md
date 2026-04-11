@@ -1,7 +1,7 @@
 ---
 title: "Comcast - NBCUniversal"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 1
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Federal Communications Commission"
 ein: 510390132
@@ -52,6 +54,10 @@ sec-form-types:
 related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Verizon]]"
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 26
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #comcast #nbcuniversal #telecom #media #lobbying #net-neutrality #cable #broadband #monopoly #revolving-door #brian-roberts
 

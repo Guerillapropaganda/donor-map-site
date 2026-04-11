@@ -29,6 +29,8 @@ court-jurisdictions:
   - "District Court, S.D. Indiana"
 related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Council for National Policy]] · [[The Dark Money Crusader and Court Reform]] · [[The Dark Money Crusade and Judicial Reform]] · [[Leonard Leo]] · [[_Neil Gorsuch Master Profile|Gorsuch]] · [[_Amy Coney Barrett Master Profile|Barrett]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Koch Network - Charles Koch]] · [[Donors Trust]] · [[Federalist Society]] · [[_Sheldon Whitehouse Master Profile|Whitehouse]] · [[_Clarence Thomas Master Profile|Thomas]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
 total-political-spend: "$75,000"
+cross-vault-triangulation-count: 18
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga
 

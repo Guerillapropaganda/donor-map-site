@@ -64,6 +64,8 @@ regulatory-agencies:
   - "Environmental Protection Agency"
 lobbying-spend: 10579974
 lobbying-filings: 109
+cross-vault-triangulation-count: 5
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #restaurant-industry #labor-opponent #CRA #fast-food #minimum-wage #FAST-act #AB1228 #follow-the-money #california #lobbying
 

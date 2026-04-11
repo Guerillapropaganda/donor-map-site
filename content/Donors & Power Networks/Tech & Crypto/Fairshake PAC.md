@@ -1,7 +1,7 @@
 ---
 title: "Fairshake PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -33,6 +33,13 @@ known-gaps:
   - 70+ source URLs marked UNVERIFIED, need browser verification by Code Claude
   - Only 1 Tier 1 source type (FEC). Need second Tier 1 for verified promotion.
   - OpenSecrets URLs in sources need archiving per Vault Rules
+cross-vault-triangulation-count: 26
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #fairshake #crypto #super-pac #class-analysis #follow-the-money #deregulation #2024-election #2026-midterms #coinbase #a16z #ripple
 

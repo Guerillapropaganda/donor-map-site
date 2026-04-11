@@ -10,8 +10,8 @@ generated-by: scripts/pipeline-janitor.cjs
 
 # Pipeline Janitor Report
 
-Generated: 2026-04-11T03:44:59.498Z
-Mode: DRY RUN (report only)
+Generated: 2026-04-11T04:26:41.087Z
+Mode: **WRITE** (applied fixes)
 
 ## Summary
 

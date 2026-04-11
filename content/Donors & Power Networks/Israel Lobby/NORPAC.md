@@ -53,6 +53,8 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, D. Utah"
   - "United States Bankruptcy Court, M.D. Florida"
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #norpac #israel-lobby #pro-israel #pac #bundling #new-jersey #bipartisan #dinner-fundraiser #follow-the-money
 

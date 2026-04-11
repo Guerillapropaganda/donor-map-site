@@ -36,6 +36,8 @@ wikidata-id: "Q559844"
 wikipedia-url: "https://en.wikipedia.org/wiki/Haim_Saban"
 wikipedia-extract: "Haim Saban is an Israeli and American media proprietor, investor, musical composer and producer of records, film, and television."
 born: "1944-10-15"
+cross-vault-triangulation-count: 27
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #israel #haim-saban #billionaire #entertainment #single-issue #democratic-mega-donor #follow-the-money #class-analysis #california #beverly-hills
 

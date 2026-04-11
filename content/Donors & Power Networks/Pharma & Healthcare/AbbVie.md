@@ -1,7 +1,7 @@
 ---
 title: "AbbVie"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -50,6 +52,10 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, E.D. Virginia"
+cross-vault-triangulation-count: 12
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #abbvie #pharma #humira #drug-pricing #patent #lobbying
 

@@ -1,7 +1,7 @@
 ---
 title: "Johnson & Johnson"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ net-assets: "$1.3M"
 tax-year: "2023"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ofac-programs:
   - "GLOMAG"
 subawards-issued: 2
@@ -35,6 +37,10 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 ftc-enforcement-actions: 6
 ftc-hsr-notices: 50
+cross-vault-triangulation-count: 17
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
 

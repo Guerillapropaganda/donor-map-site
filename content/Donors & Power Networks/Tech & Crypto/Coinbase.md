@@ -1,7 +1,7 @@
 ---
 title: "Coinbase"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
   - "Technology"
 court-cases: 3698
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, D. Nevada"
   - "District Court, D. New Jersey"
@@ -38,6 +40,10 @@ related: "[[Crypto PAC Regulatory Capture - Fairshake 2026]] · [[Crypto and AIP
 federal-awards-total: 0
 federal-contracts-count: 3
 federal-grants-count: 0
+cross-vault-triangulation-count: 12
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #coinbase #crypto #lobbying #sec #deregulation #fairshake
 

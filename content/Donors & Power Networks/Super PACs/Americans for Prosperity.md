@@ -1,7 +1,7 @@
 ---
 title: "Americans for Prosperity"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 780
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eighth Circuit"
@@ -32,6 +34,10 @@ related: "[[Senate Majority PAC]] · [[Jodey Arrington]] · [[State Policy Netwo
 nonprofit-status: "501(c)(4)"
 total-revenue: 224037344
 total-assets: 60720666
+cross-vault-triangulation-count: 15
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money
 

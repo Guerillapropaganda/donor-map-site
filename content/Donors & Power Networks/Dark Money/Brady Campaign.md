@@ -1,7 +1,7 @@
 ---
 title: "Brady Campaign"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -9,6 +9,8 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 court-cases: 407
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Kansas"
@@ -26,6 +28,10 @@ lobbying-filings: 34
 nonprofit-status: "501(c)(4)"
 total-revenue: 4821088
 total-assets: 6223865
+cross-vault-triangulation-count: 1
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #gun-violence-prevention #democratic-donor #advocacy-organization #brady-pac

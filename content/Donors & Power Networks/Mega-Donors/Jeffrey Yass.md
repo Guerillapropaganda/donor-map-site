@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey Yass"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ politicians-funded:
   - "Rand Paul"
 federal-register-mentions: 4
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Securities and Exchange Commission"
 related: "[[Intra-Republican Contradiction Map]] · [[The Ohio Governor Race and the Billionaire Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[_Vivek Ramaswamy Master Profile|Ramaswamy]] · [[_Tom Cotton Master Profile|Tom Cotton]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Rand Paul Master Profile|Rand Paul]] · [[Club for Growth]] · [[MAGA Inc]] · [[Fairshake PAC]] · [[Susquehanna International Group]] · [[Congressional Leadership Fund]] · [[Trump Donor Coalition]] · [[Trump 2024 Campaign]]"
@@ -22,6 +24,10 @@ sec-filings: 6
 sec-form-types:
   - "EX-99.1"
   - "SC 13D"
+cross-vault-triangulation-count: 13
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #yass #tiktok #bytedance #trading #libertarian #class-analysis #follow-the-money #trump #school-choice #club-for-growth #mega-donor #pennsylvania-money
 

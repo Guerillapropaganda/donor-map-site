@@ -1,7 +1,7 @@
 ---
 title: "Winklevoss Twins"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
 related: "[[Georgia 2026 Senate Race]] · [[Mike Collins Master Profile]] · [[Fairshake PAC - Crypto Super PAC]] · [[Cryptocurrency Industry]] · [[Coinbase]] · [[Crypto Industry Bloc]]"
 court-cases: 46
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Federal Circuit"
   - "Court of Appeals for the Fifth Circuit"
@@ -20,6 +22,10 @@ court-jurisdictions:
   - "District Court, N.D. Georgia"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #winklevoss #crypto #bitcoin #gemini #mega-donor #republican #trump #regulation
 

@@ -1,7 +1,7 @@
 ---
 title: "Winning for Women PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -10,6 +10,13 @@ entity-type: "PAC"
 politicians-funded:
   - "Elise Stefanik"
 related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]] · [[Senate Leadership Fund]] · [[Senate Majority PAC]] · [[Priorities USA Action]]"
+cross-vault-triangulation-count: 7
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #winning-for-women #republican #women #pac #senate #house #gop #carey-committee #primary-intervention #paul-singer #citadel #class-analysis
 

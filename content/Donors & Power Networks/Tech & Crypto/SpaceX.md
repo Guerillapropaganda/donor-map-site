@@ -1,7 +1,7 @@
 ---
 title: "SpaceX"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ net-assets: "$13K"
 tax-year: "2023"
 federal-register-mentions: 166
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Air Force Department"
   - "Coast Guard"
@@ -40,6 +42,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. Florida"
   - "District Court, S.D. Texas"
+cross-vault-triangulation-count: 5
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #spacex #musk #defense #nasa #faa #starlink #military #launch
 

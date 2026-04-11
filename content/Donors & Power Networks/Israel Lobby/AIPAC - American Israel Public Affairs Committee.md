@@ -31,6 +31,8 @@ ein: "530217164"
 nonprofit-status: "501(c)(4)"
 total-revenue: 191055934
 total-assets: 229573060
+cross-vault-triangulation-count: 33
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #israel #AIPAC #pro-israel #national #lobbying #super-pac #UDP #follow-the-money #class-analysis #foreign-policy #congress #primary-weapon
 

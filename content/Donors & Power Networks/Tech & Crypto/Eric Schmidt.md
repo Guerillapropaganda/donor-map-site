@@ -1,7 +1,7 @@
 ---
 title: "Eric Schmidt"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -20,6 +20,8 @@ issues:
 ein: "237155170"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 federal-register-mentions: 9
 regulatory-agencies:
   - "Defense Department"
@@ -27,6 +29,10 @@ regulatory-agencies:
   - "Federal Deposit Insurance Corporation"
   - "National Security Commission on Artificial Intelligence"
 related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Matt Mahan Master Profile]] · [[Ro Khanna Master Profile]] · [[Google - Alphabet]] · [[_JD Vance Master Profile|JD Vance]] · [[The 2024 Tech Billionaire Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Peter Thiel]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Mike Lee Master Profile|Mike Lee]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[The Silicon Valley Billionaire Donor Map]] · [[Mark Warner]]"
+cross-vault-triangulation-count: 15
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #tech #google #defense #AI #revolving-door #mega-donor #nscai #schmidt-futures #china #dark-money #class-analysis #follow-the-money
 

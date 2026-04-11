@@ -1,7 +1,7 @@
 ---
 title: "Future Forward USA Action"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: null
 parent: null
@@ -15,6 +15,8 @@ net-assets: "$7.5M"
 tax-year: "2022"
 court-cases: 4
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, District of Columbia"
@@ -24,6 +26,10 @@ related: "[[Senate Majority PAC]] · [[Dustin Moskovitz]] · [[Michael Bloomberg
 nonprofit-status: "501(c)(4)"
 total-revenue: 624582324
 total-assets: 26668352
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #super-pac #democratic #dark-money #501c4
 

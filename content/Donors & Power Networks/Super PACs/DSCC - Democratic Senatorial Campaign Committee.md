@@ -1,7 +1,7 @@
 ---
 title: "DSCC - Democratic Senatorial Campaign Committee"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,13 @@ sec-filings: 1
 sec-form-types:
   - "EX-99.(P)(II)"
 related: "[[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn Master Profile]] · [[Democratic Senatorial Campaign Committee]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee|NRSC]] · [[Priorities USA Action]] · [[Emilys List]]"
+cross-vault-triangulation-count: 9
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #dscc #senate #democratic #campaign-committee #fundraising #gatekeeper #dark-money #class-analysis
 

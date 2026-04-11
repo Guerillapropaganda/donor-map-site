@@ -19,6 +19,8 @@ related: "[[Verizon]] · [[Fox News - Murdoch Media Empire]] · [[Megyn Kelly]] 
 ein: "850803187"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #fox #newscorp #murdoch #media #propaganda #deregulation #defamation
 

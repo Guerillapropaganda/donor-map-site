@@ -50,6 +50,8 @@ court-jurisdictions:
   - "District Court, S.D. California"
 lobbying-spend: 480000
 lobbying-filings: 14
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #calpers #pension #california #public-employees #wall-street #private-equity #investment #lobbying #placement-agents #corruption #class-analysis #follow-the-money
 

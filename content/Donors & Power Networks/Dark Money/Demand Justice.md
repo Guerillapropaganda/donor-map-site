@@ -33,6 +33,8 @@ court-jurisdictions:
 federal-register-mentions: 1
 regulatory-agencies:
   - "Executive Office of the President"
+cross-vault-triangulation-count: 11
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor-node #dark-money #democrat #judicial-appointments #court-capture #class-analysis #donor
 

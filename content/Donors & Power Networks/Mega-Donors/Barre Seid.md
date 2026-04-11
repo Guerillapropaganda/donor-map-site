@@ -19,6 +19,8 @@ total-revenue: 701289
 total-assets: 279469
 related: "[[Federalist Society]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Sentinel Action Fund]] · [[_Clarence Thomas Master Profile|Thomas]]"
 total-political-spend: "$266,480"
+cross-vault-triangulation-count: 6
+audit-a-plus-passed: "2026-04-11"
 ---
 #barre-seid #mega-donor #judicial #Leonard-Leo #Marble-Freedom-Trust #tax-avoidance #judicial-capture
 

@@ -86,6 +86,8 @@ sec-form-types:
   - "EX-99.2"
   - "PX14A6G"
   - "SCHEDULE 13G/A"
+cross-vault-triangulation-count: 3
+audit-a-plus-passed: "2026-04-11"
 ---
 #walmart #walton #retail #anti-union #minimum-wage #arkansas #bipartisan #corporate-welfare #estate-tax #school-choice #pac
 

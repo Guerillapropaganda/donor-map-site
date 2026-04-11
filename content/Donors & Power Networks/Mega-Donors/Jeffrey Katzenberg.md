@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey Katzenberg"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -19,6 +19,12 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 related: "[[Adam Schiff]] · [[Ana Kasparian]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Barack Obama Master Profile|Obama]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Cenk Uygur]] · [[Tech and Media Donors]] · [[Priorities USA Action]] · [[Hollywood Democratic Donor Network]]"
 total-political-spend: "$13,889,097"
+cross-vault-triangulation-count: 12
+needs-reenrichment: true
+reenrich-reason: "run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money
 

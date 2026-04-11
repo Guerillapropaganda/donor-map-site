@@ -36,7 +36,8 @@ related: "[[National Association of Manufacturers]] · [[Congressional Leadershi
 total-political-spend: "$176,798,895"
 politicians-funded:
   - "Gary Peters"
-
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money
 

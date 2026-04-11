@@ -23,6 +23,8 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 11
+audit-a-plus-passed: "2026-04-11"
 ---
 #adm #agriculture #commodities #ethanol #grain #biofuel #illinois
 

@@ -1,7 +1,7 @@
 ---
 title: "Defense Industry"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ net-assets: "$202K"
 tax-year: "2023"
 federal-register-mentions: 200
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Air Force Department"
   - "Antitrust Division"
@@ -41,6 +43,10 @@ court-jurisdictions:
   - "District Court, E.D. California"
   - "District Court, E.D. Pennsylvania"
   - "United States Bankruptcy Court, E.D. California"
+cross-vault-triangulation-count: 5
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #defense #industry #military #ndaa #pentagon #bipartisan
 

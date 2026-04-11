@@ -1,7 +1,7 @@
 ---
 title: "New Venture Fund"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ lobbying-spend: 976282
 lobbying-filings: 109
 court-cases: 83
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Fifth Circuit"
@@ -60,6 +62,10 @@ total-revenue: 664320202
 total-assets: 624857462
 lei: "254900MM5ZP0GCJ89Q85"
 lei-jurisdiction: "US"
+cross-vault-triangulation-count: 9
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #new-venture-fund #arabella #dark-money #liberal #501c3 #fiscal-sponsorship
 

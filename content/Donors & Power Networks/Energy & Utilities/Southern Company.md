@@ -43,6 +43,8 @@ lobbying-filings: 105
 nonprofit-status: "501(c)(3)"
 total-revenue: 426162
 total-assets: 98362
+cross-vault-triangulation-count: 7
+audit-a-plus-passed: "2026-04-11"
 ---
 #southern-company #utility #georgia #nuclear #coal #monopoly #rate-base
 

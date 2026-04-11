@@ -1,7 +1,7 @@
 ---
 title: "Las Vegas Sands"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -46,6 +46,8 @@ sec-form-types:
 related: "[[Catherine Cortez Masto]] · [[American Gaming Association]]"
 court-cases: 1929
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
   - "District Court, C.D. California"
@@ -61,6 +63,10 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 2
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #sheldon-adelson #casino #megadonor #republican #single-family-donor

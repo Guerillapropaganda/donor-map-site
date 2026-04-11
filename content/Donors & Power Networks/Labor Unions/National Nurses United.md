@@ -34,6 +34,8 @@ regulatory-agencies:
 lobbying-spend: 3106887
 lobbying-filings: 143
 related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]] · [[Jim McGovern]]"
+cross-vault-triangulation-count: 1
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #nnu #nurses-union #medicare-for-all #progressive #labor #225k-members

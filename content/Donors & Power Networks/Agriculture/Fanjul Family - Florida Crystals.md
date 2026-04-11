@@ -1,7 +1,7 @@
 ---
 title: "Fanjul Family - Florida Crystals"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,13 @@ issues:
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 related: "[[Defense Industry Bloc]] · [[The Nuestra América Convoy — How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[LARA Fund - Mauricio Claver-Carone]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Immigration Flip - From Gang of Eight to Border Hawk]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Rick Scott Master Profile]] · [[Brian Mast]] · [[Maria Elvira Salazar]] · [[Bob Menendez]] · [[National Cattlemen's Beef Association]] · [[Mario Diaz-Balart]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Donald Trump Master Profile|Trump]] · [[_Carlos Gimenez Master Profile|Carlos Gimenez]] · [[American Farm Bureau Federation]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Norman Braman]] · [[Reclaim America PAC]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon]] · [[Mauricio Claver-Carone]] · [[Michael Waltz]] · [[LARA Fund]] · [[Cubaexport]] · [[Pernod Ricard]] · [[Bacardi]] · [[Nicolás Maduro]] · [[Brian Walsh]] · [[Victor Cervino]] · [[Darrell Issa]] · [[Debbie Wasserman Schultz]] · [[Chris Dodd]] · [[Collin Peterson]] · [[Combest, Sell & Associates]] · [[The Peterson Group]] · [[Jared Moskowitz]] · [[DeVos Family]] · [[Defense Contractors]] · [[Defense Contractors Bloc]]"
+cross-vault-triangulation-count: 20
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #mega-donor #agriculture #sugar #florida #bipartisan-donor #both-sides-illusion #forced-labor #everglades #lobbying #subsidy #cuba-policy #foreign-policy #defense-industry #regime-change #caribbean #revolving-door #k-street
 

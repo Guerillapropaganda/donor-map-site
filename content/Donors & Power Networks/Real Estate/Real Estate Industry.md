@@ -67,6 +67,8 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Ohio"
   - "District Court, S.D. Texas"
+cross-vault-triangulation-count: 6
+audit-a-plus-passed: "2026-04-11"
 ---
 #real-estate #nar #housing #1031-exchange #rent #zoning #bipartisan
 

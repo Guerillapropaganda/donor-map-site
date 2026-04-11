@@ -1,7 +1,7 @@
 ---
 title: "California Farm Bureau Federation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Alcohol and Tobacco Tax and Trade Bureau"
   - "Commerce Department"
@@ -58,6 +60,10 @@ sec-form-types:
   - "N-1A"
   - "N-4"
   - "N-6"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #agricultural-employer #farm-bureau #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
 

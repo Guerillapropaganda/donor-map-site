@@ -1,13 +1,15 @@
 ---
 title: "Tisch Family"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
 sector: "Real Estate"
 entity-type: "Individual Donor"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 sec-filings: 443
 sec-form-types:
   - "10-K"
@@ -33,6 +35,10 @@ ein: 134037377
 annual-revenue: "$72.1M"
 net-assets: "$225.5M"
 tax-year: "2023"
+cross-vault-triangulation-count: 1
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #mega-donors #nyc-real-estate #loews-corporation #bipartisan-donors #hotel-insurance-empire

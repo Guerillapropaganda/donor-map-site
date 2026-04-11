@@ -1,7 +1,7 @@
 ---
 title: "DeVos Family"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -20,6 +20,8 @@ net-assets: "$5K"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 total-revenue: 10147492
 total-assets: 2950
 related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[American Farm Bureau Federation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[American Federation for Children]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Koch Network - Charles Koch]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]]"
@@ -31,6 +33,10 @@ court-jurisdictions:
   - "District Court, N.D. Florida"
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
+cross-vault-triangulation-count: 20
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #mega-donor #education #school-choice #privatization #dark-money #religious-right #michigan #amway #revolving-door #erik-prince
 

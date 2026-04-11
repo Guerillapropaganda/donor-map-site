@@ -1,7 +1,7 @@
 ---
 title: "National Multifamily Housing Council"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -36,6 +36,8 @@ known-gaps:
   - "No lobbying disclosure data"
 court-cases: 144
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Eighth Circuit"
   - "Court of Appeals for the Fifth Circuit"
@@ -47,6 +49,10 @@ court-jurisdictions:
   - "District Court, D. North Dakota"
   - "District Court, D. Utah"
   - "District Court, N.D. Texas"
+cross-vault-triangulation-count: 2
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #real-estate #housing #trade-association #multifamily #bipartisan #lobbying #class-analysis #follow-the-money
 

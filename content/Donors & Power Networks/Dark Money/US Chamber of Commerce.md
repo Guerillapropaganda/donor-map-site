@@ -1,7 +1,7 @@
 ---
 title: "US Chamber of Commerce"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 149
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Massachusetts"
@@ -66,6 +68,10 @@ regulatory-agencies:
   - "National Oceanic and Atmospheric Administration"
   - "Occupational Safety and Health Administration"
   - "Pipeline and Hazardous Materials Safety Administration"
+cross-vault-triangulation-count: 23
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis
 

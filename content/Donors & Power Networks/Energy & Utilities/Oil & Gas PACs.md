@@ -1,7 +1,7 @@
 ---
 title: "Oil & Gas PACs"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Energy & Climate"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "SDGT] [NPWMD] [IRGC] [IFSR"
   - "IRAN"
@@ -25,6 +27,10 @@ related: "[[Texas 2026 Senate Race]] · [[Kay Granger Master Profile]] · [[Cath
 court-cases: 1
 court-jurisdictions:
   - "United States Bankruptcy Court, D. Puerto Rico"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #oil #gas #pacs #fossil-fuel #republican #bipartisan #energy
 

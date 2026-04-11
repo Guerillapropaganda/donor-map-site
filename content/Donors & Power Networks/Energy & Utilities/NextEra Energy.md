@@ -1,7 +1,7 @@
 ---
 title: "NextEra Energy"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ federal-grants-count: 2
 ein: "650031452"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 23163816
 total-assets: 78162606
 federal-register-mentions: 797
@@ -65,6 +67,10 @@ sec-form-types:
 related: "[[Valero Energy]] · [[John Thune Master Profile]] · [[The McConnell Succession and the Majority Leader Fundraising Machine]] · [[ExxonMobil]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]]"
 top-federal-agency: "Department of Defense"
 top-naics-code: "221112"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #nextera #energy #renewables #solar #wind #florida #utility #fpl
 

@@ -1,7 +1,7 @@
 ---
 title: "CoreCivic"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3032
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, D. Arizona"
   - "District Court, D. Montana"
@@ -44,6 +46,10 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: "529900JFA3K6PTLT8B15"
 lei-jurisdiction: "US-MD"
+cross-vault-triangulation-count: 16
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #private-prison #immigration-detention #CoreCivic #opponent #AB32 #ICE #for-profit-detention #republican-donor #trump #bipartisan-money #class-analysis #follow-the-money
 

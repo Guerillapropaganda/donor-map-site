@@ -1,7 +1,7 @@
 ---
 title: "Trial Lawyers Fund"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,12 +15,18 @@ net-assets: "$222K"
 tax-year: "2023"
 court-cases: 1
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, D. Massachusetts"
 related: "[[Entertainment and Hollywood Donors]] · [[Sheldon Whitehouse]] · [[Democratic Donor Network]] · [[_Joe Biden Master Profile|Biden]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 191325
 total-assets: 304648
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #trial-lawyers #tort #litigation #democratic #donor #aat #plaintiffs
 

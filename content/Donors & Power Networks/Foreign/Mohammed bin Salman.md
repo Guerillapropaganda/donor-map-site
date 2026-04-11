@@ -1,7 +1,7 @@
 ---
 title: "Mohammed bin Salman"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -31,6 +31,13 @@ sec-form-types:
 related: "[[Saudi Arabia - Kingdom Investment]] · [[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Christians United for Israel]]"
 lei: "2549005BTTUZTS9QQP67"
 lei-jurisdiction: "SA"
+cross-vault-triangulation-count: 7
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #foreign #saudi-arabia #sovereign-wealth #arms-sales #class-analysis
 

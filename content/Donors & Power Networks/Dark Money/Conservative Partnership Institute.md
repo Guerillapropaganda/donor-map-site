@@ -33,6 +33,8 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 34690942
 total-assets: 72296824
 total-political-spend: "$5,380"
+cross-vault-triangulation-count: 11
+audit-a-plus-passed: "2026-04-11"
 ---
 #conservative-partnership-institute #cpi #dark-money #maga #jim-demint #mark-meadows #january-6
 

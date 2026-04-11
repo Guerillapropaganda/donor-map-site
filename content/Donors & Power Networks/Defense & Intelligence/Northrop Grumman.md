@@ -1,7 +1,7 @@
 ---
 title: "Northrop Grumman"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -72,8 +72,14 @@ top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "541330"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 15858568
 total-assets: 20131005
+cross-vault-triangulation-count: 25
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #nuclear #missiles #space #iran #golden-dome
 

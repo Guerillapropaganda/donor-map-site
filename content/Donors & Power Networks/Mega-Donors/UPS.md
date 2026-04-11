@@ -1,7 +1,7 @@
 ---
 title: "UPS"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ federal-grants-count: 25
 related: "[[Brian Kemp]] · [[The Caucus Chair and Inland Empire Logistics Economy]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]] · [[Ford Motor Company]] · [[FedEx]] · [[Amazon]] · [[US Chamber of Commerce]]"
 cpsc-recalls: 31
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 sec-filings: 10000
@@ -66,6 +68,10 @@ sec-form-types:
   - "SC 13D"
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
+cross-vault-triangulation-count: 5
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #ups #logistics #shipping #teamsters #labor #bipartisan #trade #postal #transportation #revolving-door #class-analysis #follow-the-money
 

@@ -1,7 +1,7 @@
 ---
 title: "PG&E - Pacific Gas and Electric"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ politicians-funded:
 ein: "201337481"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 397265
 total-assets: 358665
 related: "[[Environment - Donors and Backers]] · [[100% Clean Energy and the 2035 EV Mandate]] · [[Economic Policy - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[Valero Energy]] · [[Marathon Petroleum]] · [[Chevron]] · [[Koch Industries]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[Hawaiian Electric Company]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]]"
@@ -23,6 +25,10 @@ regulatory-agencies:
   - "Energy Efficiency and Renewable Energy Office"
   - "Federal Energy Regulatory Commission"
   - "Western Area Power Administration"
+cross-vault-triangulation-count: 16
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #pge #pacific-gas-electric #california #utility #wildfire #camp-fire #monopoly #negligence
 

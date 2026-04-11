@@ -30,6 +30,8 @@ court-jurisdictions:
   - "District Court, S.D. Ohio"
   - "District Court, W.D. Oklahoma"
   - "United States Bankruptcy Court, E.D. Michigan"
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #robert-mercer #mega-donor #renaissance-technologies #breitbart #cambridge-analytica #hedge-fund #dark-money #class-analysis
 

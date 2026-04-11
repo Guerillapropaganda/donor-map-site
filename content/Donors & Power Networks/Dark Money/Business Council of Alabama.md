@@ -30,6 +30,8 @@ nonprofit-status: "501(c)(6)"
 total-revenue: 7267008
 total-assets: 8134872
 total-political-spend: "$11,000"
+cross-vault-triangulation-count: 1
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #alabama-politics #business-lobby #regulatory-capture #dark-money #state-control

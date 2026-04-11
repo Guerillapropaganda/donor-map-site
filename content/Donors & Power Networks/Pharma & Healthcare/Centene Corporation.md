@@ -75,6 +75,8 @@ lei: "549300Z7JJ4TQSQGT333"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 8
+audit-a-plus-passed: "2026-04-11"
 ---
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca
 

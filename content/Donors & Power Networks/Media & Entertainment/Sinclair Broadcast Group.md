@@ -35,6 +35,8 @@ total-assets: 149613
 lobbying-spend: 4000000
 lobbying-filings: 52
 federal-contracts: "626681"
+cross-vault-triangulation-count: 7
+audit-a-plus-passed: "2026-04-11"
 ---
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation
 

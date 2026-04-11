@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Industry Bloc"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Housing"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -25,6 +27,10 @@ ofac-programs:
 lobbying-spend: 32185838
 lobbying-filings: 100
 related: "[[Blackstone Real Estate Political Operation]] · [[National Association of Realtors]] · [[Blackstone Real Estate]] · [[CBRE Group]] · [[Invitation Homes - Institutional Landlords]] · [[Lennar Corporation]] · [[Real Estate Roundtable]] · [[Real Estate Industry]]"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #real-estate #industry-bloc #housing #lobbying #1031-exchange #zoning #reit #landlord
 

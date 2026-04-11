@@ -1,7 +1,7 @@
 ---
 title: "National Republican Senatorial Committee"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ politicians-funded:
   - "Rick Scott"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "BALKANS"
   - "BELARUS"
@@ -29,6 +31,10 @@ related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida
 federal-register-mentions: 22
 regulatory-agencies:
   - "Federal Election Commission"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money
 

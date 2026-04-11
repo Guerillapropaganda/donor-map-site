@@ -1,7 +1,7 @@
 ---
 title: "Les Wexner - Wexner Family Enterprises"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -15,6 +15,13 @@ politicians-funded:
 issues:
   - "Israel & Foreign Policy"
 related: "[[Epstein Files and Les Wexner Controversy]] · [[_Jon Husted Master Profile|Husted]] · [[_Mike DeWine Master Profile|DeWine]] · [[_Donald Trump Master Profile|Trump]] · [[Jeffrey Epstein Network]] · [[_John Kasich Master Profile|Kasich]] · [[Wexner Family - Ohio Wealth & Political Networks]]"
+cross-vault-triangulation-count: 3
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #les-wexner #abigail-wexner #ohio #mega-donor #republican #limited-brands #l-brands #victoria-secret #epstein #columbus #new-albany #retail #wexner-foundation #israel #osu #jobsohio #data-centers #class-analysis #follow-the-money
 

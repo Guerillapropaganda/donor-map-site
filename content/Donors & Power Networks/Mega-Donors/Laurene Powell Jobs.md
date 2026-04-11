@@ -1,7 +1,7 @@
 ---
 title: "Laurene Powell Jobs"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ issues:
   - "Immigration"
 court-cases: 22
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, D. Maryland"
@@ -51,6 +53,10 @@ sec-form-types:
   - "S-4/A"
   - "SC 13G"
   - "SC 13G/A"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #mega-donor #media #democrat #philanthropy #class-analysis #emerson-collective #the-atlantic #education-reform #immigration
 

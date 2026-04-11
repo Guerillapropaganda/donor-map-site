@@ -1,7 +1,7 @@
 ---
 title: "Entertainment and Hollywood Donors"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,9 +13,15 @@ politicians-funded:
   - "Hillary Clinton"
 federal-contracts: "997000"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]]"
 lobbying-spend: 24863936
 lobbying-filings: 93
+cross-vault-triangulation-count: 12
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #hollywood #entertainment #donors #democratic #bundling #cultural-influence #israel-lobby #revolving-door #copyright #mpaa
 

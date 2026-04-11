@@ -1,7 +1,7 @@
 ---
 title: "Cayre Family"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -9,12 +9,18 @@ sector: "Real Estate"
 entity-type: "Individual Donor"
 court-cases: 7
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, D. Maryland"
   - "District Court, E.D. New York"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, S.D. New York"
 related: "[[Kathy Hochul]]"
+cross-vault-triangulation-count: 1
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #nyc-real-estate #mega-donors #hochul-donors #midtown-development #real-estate-dynasty

@@ -61,6 +61,8 @@ sec-form-types:
   - "PREN14A"
   - "PRRN14A"
   - "PX14A6G"
+cross-vault-triangulation-count: 5
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #energy #fossil-fuel #trade-association #lobbying #republican-lean #climate-obstruction #class-analysis #follow-the-money
 

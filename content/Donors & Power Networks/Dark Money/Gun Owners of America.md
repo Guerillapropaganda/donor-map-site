@@ -1,7 +1,7 @@
 ---
 title: "Gun Owners of America"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Dark Money & Campaign Finance"
 federal-register-mentions: 4
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
   - "Interior Department"
@@ -23,6 +25,10 @@ total-assets: 2172940
 related: "[[Guns - Donors and Backers]] · [[National Rifle Association]]"
 lobbying-spend: 11561787
 lobbying-filings: 68
+cross-vault-triangulation-count: 2
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #gun-owners-of-america #GOA #hardline-gun-rights #NRA-alternative #dark-money #second-amendment #Republican-donor
 

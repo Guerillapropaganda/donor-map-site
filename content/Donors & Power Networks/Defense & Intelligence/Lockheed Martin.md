@@ -1,7 +1,7 @@
 ---
 title: "Lockheed Martin"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -32,6 +32,12 @@ related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Government
 ftc-enforcement-actions: 2
 ftc-hsr-notices: 23
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
+cross-vault-triangulation-count: 24
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #defense #military-industrial #f35 #lobbying #revolving-door
 

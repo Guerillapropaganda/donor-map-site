@@ -1,7 +1,7 @@
 ---
 title: "Moinian Group"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 2
 parent: null
@@ -36,6 +36,12 @@ sec-form-types:
   - "FWP"
   - "PRE 14A"
   - "XML"
+cross-vault-triangulation-count: 1
+needs-reenrichment: true
+reenrich-reason: "run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #nyc-real-estate #developer #hochul-donor #commercial-real-estate #moinian

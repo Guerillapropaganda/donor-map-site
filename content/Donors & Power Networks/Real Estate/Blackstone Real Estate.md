@@ -41,6 +41,8 @@ lobbying-spend: 4450000
 lobbying-filings: 51
 lei: "549300T4DTSY6511ZQ86"
 lei-jurisdiction: "US-DE"
+cross-vault-triangulation-count: 11
+audit-a-plus-passed: "2026-04-11"
 ---
 #blackstone #real-estate #housing #rents #private-equity #schwarzman #institutional-landlord #institutional-landlords #invitation-homes #breit #landlordism
 

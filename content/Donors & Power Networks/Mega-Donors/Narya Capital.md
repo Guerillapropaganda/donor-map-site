@@ -1,7 +1,7 @@
 ---
 title: "Narya Capital"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -41,7 +41,13 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 related: "[[Mithril Capital]] · [[Ajay Royan]] · [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]]"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #narya-capital #jd-vance #venture-capital #thiel #tech #ohio #appalachia #defense #carried-interest #conflict-of-interest
 

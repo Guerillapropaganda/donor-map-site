@@ -1,7 +1,7 @@
 ---
 title: "George Soros"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ issues:
 total-political-spend: "$188,381,113"
 court-cases: 600
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, C.D. California"
@@ -48,6 +50,10 @@ lei-parent: "Quantum Partners LP"
 lobbying-spend: 1515500
 lobbying-filings: 100
 related: "[[Harris-Newsom Donor Class Fracture]] · [[From Soros CIO to Trump Treasury - The Class Defection]] · [[The Biden Exit and Harris Installation]] · [[Wes Moore Master Profile]] · [[The Robin Hood Pipeline - From Hedge Fund Charity to Statehouse]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Center on Budget and Policy Priorities]] · [[Pod Save America]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]]"
+cross-vault-triangulation-count: 13
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #billionaire #democratic #progressive #dark-money #open-society
 

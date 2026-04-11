@@ -1,7 +1,7 @@
 ---
 title: "Tenet Healthcare"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ lei: "0W9AIBT6U6ADJ2I8HK17"
 lei-jurisdiction: "US-NV"
 federal-register-mentions: 50
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Antitrust Division"
   - "Employment and Training Administration"
@@ -71,6 +73,10 @@ total-revenue: 23648810
 total-assets: 24419400
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "811210"
+cross-vault-triangulation-count: 9
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
 

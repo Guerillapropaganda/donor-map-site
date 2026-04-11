@@ -1,7 +1,7 @@
 ---
 title: "Boeing"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ issues:
   - "Defense & Military"
 court-cases: 35992
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, D. Oregon"
   - "District Court, D. South Carolina"
@@ -97,6 +99,10 @@ wikidata-id: "Q66"
 wikipedia-url: "https://en.wikipedia.org/wiki/Boeing"
 wikipedia-extract: "The Boeing Company is an American multinational corporation that designs and manufactures airplanes, rotorcraft, rockets, satellites, and missiles worldwide."
 founded: "1916-07-15"
+cross-vault-triangulation-count: 22
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor
 

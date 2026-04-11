@@ -1,7 +1,7 @@
 ---
 title: "Marble Freedom Trust"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,7 +12,13 @@ issues:
 ein: "850784793"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 related: "[[Sentinel Action Fund]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Leonard Leo]] · [[Federalist Society]] · [[Barre Seid]] · [[The 85 Fund]] · [[DonorsTrust]] · [[Dark Money Networks - The Shadow System]]"
+cross-vault-triangulation-count: 9
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #dark-money #judicial-capture #leonard-leo #conservative #mega-donation #federalist-society
 

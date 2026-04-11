@@ -1,7 +1,7 @@
 ---
 title: "Consumer Energy Alliance"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Dark Money & Campaign Finance"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "IRAN-EO13846"
 court-cases: 44
@@ -42,6 +44,10 @@ sec-form-types:
   - "PRE 14A"
   - "PREC14A"
   - "PX14A6G"
+cross-vault-triangulation-count: 3
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #fossil-fuel-astroturf #energy-lobby #dark-money #greenwashing #regulatory-capture

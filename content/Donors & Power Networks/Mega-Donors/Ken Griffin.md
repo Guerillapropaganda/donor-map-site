@@ -56,6 +56,8 @@ sec-form-types:
   - "PART II AND III"
 lei: "2138007A496CEYCJKZ25"
 lei-jurisdiction: "GB"
+cross-vault-triangulation-count: 4
+audit-a-plus-passed: "2026-04-11"
 ---
 #ken-griffin #citadel #hedge-fund #mega-donor #republican #Trump #DeSantis #libertarian
 

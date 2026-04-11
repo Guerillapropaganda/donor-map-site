@@ -35,6 +35,8 @@ lobbying-spend: 1268033
 lobbying-filings: 104
 total-political-spend: "$16,466,849"
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]] · [[Manhattan Institute for Policy Research]] · [[The National Security-to-Senate Pipeline]] · [[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Winning for Women PAC]] · [[Great Lakes Conservatives Fund]]"
+cross-vault-triangulation-count: 11
+audit-a-plus-passed: "2026-04-11"
 ---
 #paul-singer #donor #hedge-fund #elliott-management #vulture-fund #argentina #alito #pro-israel #class-analysis #follow-the-money
 

@@ -1,7 +1,7 @@
 ---
 title: "MassMutual"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 2
 parent: null
@@ -19,6 +19,8 @@ lei-parent: "MASSMUTUAL PREMIER FUNDS"
 related: "[[Richard Neal Master Profile]]"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 58873009
 total-assets: 34302568
 sec-filings: 10000
@@ -86,6 +88,10 @@ sec-form-types:
 federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 0
+cross-vault-triangulation-count: 0
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #insurance #financial-services #pac-donor #house-financial-services

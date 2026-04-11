@@ -1,7 +1,7 @@
 ---
 title: "Cigna Group"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Healthcare"
 federal-register-mentions: 1
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Federal Trade Commission"
 lei: "549300VIWYMSIGT1U456"
@@ -29,6 +31,10 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
+cross-vault-triangulation-count: 11
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare
 

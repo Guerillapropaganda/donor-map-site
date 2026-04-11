@@ -1,7 +1,7 @@
 ---
 title: "Trump Victory"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -24,6 +24,13 @@ sec-form-types:
   - "N-CSRS"
   - "PX14A6G"
 related: "[[WinRed]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]]"
+cross-vault-triangulation-count: 7
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #pac #joint-fundraising #trump #rnc #state-parties #mega-donors #dark-money #legal-fees #contribution-limits
 

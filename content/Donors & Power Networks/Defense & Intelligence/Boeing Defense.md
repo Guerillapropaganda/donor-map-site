@@ -1,7 +1,7 @@
 ---
 title: "Boeing Defense"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,12 @@ related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
+cross-vault-triangulation-count: 16
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #boeing #defense #aerospace #military #lobbying #government-contracts #safety #revolving-door #too-big-to-fail
 

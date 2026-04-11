@@ -45,6 +45,8 @@ lobbying-spend: 21330000
 lobbying-filings: 58
 lei: "969500QP03W2YD1S4389"
 lei-jurisdiction: "FR"
+cross-vault-triangulation-count: 5
+audit-a-plus-passed: "2026-04-11"
 ---
 #oracle #tech #cloud #government-contracts #lobbying #larry-ellison #tiktok
 

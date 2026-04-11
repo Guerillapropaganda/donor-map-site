@@ -1,7 +1,7 @@
 ---
 title: "ActBlue"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -19,6 +19,8 @@ sec-form-types:
   - "EX-99"
 federal-register-mentions: 9
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Federal Election Commission"
 ein: 455097038
@@ -36,6 +38,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Illinois"
   - "United States Bankruptcy Court, D. Massachusetts"
+cross-vault-triangulation-count: 21
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis
 

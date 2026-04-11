@@ -1,7 +1,7 @@
 ---
 title: "House Majority PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 23
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, District of Columbia"
@@ -26,6 +28,10 @@ sec-form-types:
   - "10-K"
 related: "[[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]]"
 opposes: "[[Michael Waltz]] · [[Mark Green]]"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #super-pac #democratic #house #leadership-pac #dark-money #house-majority-forward #donor
 

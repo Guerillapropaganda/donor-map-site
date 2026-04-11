@@ -45,6 +45,8 @@ donors: "[[Illinois Future PAC]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 216153059
 total-assets: 281327431
+cross-vault-triangulation-count: 10
+audit-a-plus-passed: "2026-04-11"
 ---
 #jb-pritzker #illinois #hyatt #billionaire #self-funder #democratic #governor #mega-donor #dark-money #2028 #think-big-america #dga #class-analysis
 

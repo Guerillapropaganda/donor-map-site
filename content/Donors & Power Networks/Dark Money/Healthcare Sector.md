@@ -1,7 +1,7 @@
 ---
 title: "Healthcare Sector"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ issues:
   - "Social Safety Net"
 court-cases: 1439
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Delaware"
@@ -28,6 +30,10 @@ court-jurisdictions:
 related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]] · [[The $170 Million Georgia Machine and the National Donor Base]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]] · [[Blue Cross Blue Shield Association]] · [[Insurance Industry]] · [[American Hospital Association]] · [[Medicare for All]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Mitch McConnell Master Profile|McConnell]] · [[Insurance Industry Bloc]] · [[US Chamber of Commerce]] · [[Stand Together]]"
 lei: "54930024HJBJ7HNLBO26"
 lei-jurisdiction: "US"
+cross-vault-triangulation-count: 9
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #healthcare #sector #lobbying #bipartisan #pharma #insurance #hospitals #aca #medicare #drug-pricing #class-analysis #follow-the-money
 

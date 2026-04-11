@@ -36,6 +36,8 @@ total-assets: 8950006
 related: "[[Doug Burgum Master Profile]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[The Harold Hamm Pipeline and the Continental Resources Conflict]] · [[The 445 Million Dollar Oil Investment and Wrights Buy-In]] · [[Environment - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Chevron]] · [[PG&E]]"
 lobbying-spend: 70000
 lobbying-filings: 4
+cross-vault-triangulation-count: 6
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor-node #mega-donor #fossil-fuel #fracking #oklahoma #republican #class-analysis #continental-resources #bakken #energy-policy #trump-advisor #donor
 

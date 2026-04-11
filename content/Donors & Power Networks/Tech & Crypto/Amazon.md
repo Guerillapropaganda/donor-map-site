@@ -51,6 +51,8 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Texas"
   - "District Court, S.D. Florida"
+cross-vault-triangulation-count: 15
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #tech #corporation #anti-union #lobbying #government-contracts #labor #surveillance #revolving-door #bezos
 

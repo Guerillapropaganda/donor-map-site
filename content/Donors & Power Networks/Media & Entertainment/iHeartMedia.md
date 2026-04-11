@@ -1,7 +1,7 @@
 ---
 title: "iHeartMedia"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ top-naics-code: "541810"
 related: "[[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Walt Disney Company]] · [[Verizon]] · [[AT&T]]"
 court-cases: 769
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Maryland"
@@ -30,6 +32,10 @@ court-jurisdictions:
 federal-awards-total: 0
 federal-contracts-count: 3
 federal-grants-count: 0
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #iheartmedia #radio #media #consolidation #deregulation #clear-channel #telecom-act
 

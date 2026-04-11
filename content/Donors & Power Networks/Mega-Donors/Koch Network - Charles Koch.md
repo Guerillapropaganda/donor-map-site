@@ -1,7 +1,7 @@
 ---
 title: "Koch Network - Charles Koch"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 aliases: ["Koch Network", "Koch Brothers", "Charles Koch", "Koch Industries", "Americans for Prosperity", "AFP"]
 source-tier: 1
@@ -22,6 +22,13 @@ issues:
 related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Doug Burgum Master Profile]] · [[Chris Wright Master Profile]] · [[The Koch Network Pipeline and Climate Denial as Policy]] · [[Thom Tillis Master Profile]] · [[Ted Cruz Master Profile]] · [[Oil Gas and the Texas Energy Donor Base]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[Peter Thiel]] · [[Elon Musk]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Miriam Adelson]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CCPOA - California Correctional Peace Officers Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[California Labor Federation]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[WSPA - Western States Petroleum Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[California Building and Construction Trades Council]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]]"
 lobbying-spend: 21285000
 lobbying-filings: 55
+cross-vault-triangulation-count: 32
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #koch #mega-donor #libertarian #anti-union #dark-money #deregulation #fossil-fuel #national #class-analysis #follow-the-money #right-to-work #project-2025 #janus
 

@@ -1,7 +1,7 @@
 ---
 title: "Purdue Pharma - Sackler Family"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,7 +13,13 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 related: "[[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Johnson & Johnson]] · [[AbbVie]] · [[Pfizer]] · [[Eli Lilly]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]]"
+cross-vault-triangulation-count: 9
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #purdue #sackler #opioid #oxycontin #crisis #bankruptcy #doj #lobbying #accountability #revolving-door #dark-money #pharma #fda
 

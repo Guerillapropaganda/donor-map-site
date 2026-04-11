@@ -65,6 +65,8 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 1852719
 total-assets: 290992
 related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]] · [[Bryan Steil]] · [[The Criminal Justice Reform and Bipartisan Alliance]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Cato Institute]] · [[Donors Trust]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[DeVos Family]] · [[Insurance Industry]] · [[National Education Association]]"
+cross-vault-triangulation-count: 14
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #dark-money #koch-network #501c3 #501c4 #policy-infrastructure #libertarian #class-analysis #follow-the-money
 

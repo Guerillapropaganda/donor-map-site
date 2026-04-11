@@ -1,7 +1,7 @@
 ---
 title: "Western Growers Association"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ tax-year: "2023"
 total-political-spend: "$481,034"
 court-cases: 44
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"
   - "Court of Appeals for the Second Circuit"
@@ -65,6 +67,10 @@ regulatory-agencies:
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
 related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]]"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #agricultural-employer #western-growers #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent
 

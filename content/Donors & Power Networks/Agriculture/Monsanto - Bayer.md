@@ -49,6 +49,8 @@ sec-form-types:
 related: "[[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[The Oversight Legacy and Agricultural Protection]] · [[ADM - Archer Daniels Midland]] · [[Cargill]] · [[American Farm Bureau Federation]] · [[Koch Industries]] · [[Tyson Foods]] · [[Agribusiness Donor Bloc]]"
 lobbying-spend: 840000
 lobbying-filings: 16
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #monsanto #bayer #agriculture #gmo #roundup #glyphosate #seeds #patents
 

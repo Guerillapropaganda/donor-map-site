@@ -40,6 +40,8 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
 lei: "54930042348RKR3ZPN35"
 lei-jurisdiction: "US-DE"
+cross-vault-triangulation-count: 10
+audit-a-plus-passed: "2026-04-11"
 ---
 #devon #energy #oklahoma #shale #fracking #permian #oil-gas
 

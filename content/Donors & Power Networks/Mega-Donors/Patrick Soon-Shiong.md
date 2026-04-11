@@ -19,6 +19,8 @@ last-enriched: "2026-04-09"
 related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]] · [[_Donald Trump Master Profile|Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[Entertainment and Hollywood Donors]] · [[Media & Influence Pipeline]]"
 lobbying-spend: 0
 lobbying-filings: 1
+cross-vault-triangulation-count: 5
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #mega-donor #la-times #biotech #billionaire #media-owner #republican #trump #editorial-capture #pharma-influence #class-analysis #follow-the-money
 

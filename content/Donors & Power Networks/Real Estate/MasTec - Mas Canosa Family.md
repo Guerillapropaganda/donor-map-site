@@ -30,6 +30,8 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No SEC corporate filings"
+cross-vault-triangulation-count: 10
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money
 

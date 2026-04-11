@@ -38,6 +38,8 @@ regulatory-agencies:
   - "Labor Department"
   - "Labor-Management Standards Office"
   - "National Labor Relations Board"
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #nea #education #union #teachers #democratic #vouchers #charter #political-spending
 

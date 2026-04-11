@@ -1,7 +1,7 @@
 ---
 title: "Environmental Law & Policy Center"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -13,6 +13,8 @@ net-assets: "$38.0M"
 tax-year: "2023"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 total-revenue: 150007
 total-assets: 254525
 related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]]"
@@ -28,6 +30,10 @@ court-jurisdictions:
   - "Court of Appeals for the Eighth Circuit"
   - "Court of Appeals for the Third Circuit"
   - "District Court, D. North Dakota"
+cross-vault-triangulation-count: 4
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #environmental-advocacy #clean-energy #midwest #litigation #nonprofit

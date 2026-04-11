@@ -54,6 +54,8 @@ total-revenue: 2762084
 total-assets: 22542308
 lobbying-spend: 4663000
 lobbying-filings: 45
+cross-vault-triangulation-count: 2
+audit-a-plus-passed: "2026-04-11"
 ---
 #starbucks #coffee #anti-union #nlrb #progressive-brand #labor #howard-schultz
 

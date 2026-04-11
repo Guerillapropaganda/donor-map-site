@@ -59,6 +59,8 @@ related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron J
 nonprofit-status: "501(c)(6)"
 total-revenue: 8044067
 total-assets: 10548735
+cross-vault-triangulation-count: 10
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #steel #tariffs #lobbying #trade-policy #class-analysis #follow-the-money #revolving-door #national-security
 

@@ -50,6 +50,8 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 18
+audit-a-plus-passed: "2026-04-11"
 ---
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis
 

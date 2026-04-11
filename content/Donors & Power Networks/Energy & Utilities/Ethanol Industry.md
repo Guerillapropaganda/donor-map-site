@@ -1,7 +1,7 @@
 ---
 title: "Ethanol Industry"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -32,6 +32,8 @@ net-assets: "$172K"
 tax-year: "2019"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 total-revenue: 25479
 total-assets: 172173
 lei: "984500B40IB4DF09CF40"
@@ -43,6 +45,10 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #ethanol #corn #biofuel #rfs #agriculture #iowa #mandates #subsidies
 

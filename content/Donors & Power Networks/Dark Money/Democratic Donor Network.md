@@ -1,7 +1,7 @@
 ---
 title: "Democratic Donor Network"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,10 +14,16 @@ issues:
   - "Dark Money & Campaign Finance"
 related: "[[Ohio Democratic Party]] · [[Pod Save America]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]] · [[ActBlue]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[George Soros]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFL-CIO]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[American Bridge 21st Century]] · [[Future Forward USA Action]] · [[Ohio Federation of Teachers]] · [[Open Society Foundations]] · [[Small Dollar Donors - ActBlue]]"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ein: "943062436"
 nonprofit-status: "501(c)(3)"
 total-revenue: 161294238
 total-assets: 73379796
+cross-vault-triangulation-count: 18
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #democratic #donor-network #bundling #wall-street #hollywood #tech #labor #dark-money #super-pac #class-analysis #follow-the-money
 

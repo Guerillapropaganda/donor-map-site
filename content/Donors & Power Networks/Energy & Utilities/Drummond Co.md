@@ -42,6 +42,8 @@ court-jurisdictions:
   - "District Court, S.D. Florida"
 lei: "213800LE7MRYU5XL6J42"
 lei-jurisdiction: "GB"
+cross-vault-triangulation-count: 1
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #coal-mining #alabama-politics #fossil-fuel #environmental-violations #political-donor

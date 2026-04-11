@@ -45,6 +45,8 @@ sec-form-types:
   - "N-Q"
   - "SC TO-C"
 related: "[[Sports Gambling Industry State Capture]] · [[Steve Scalise]] · [[Jason Smith]] · [[Glenn Thompson]] · [[Bennie Thompson]] · [[National Association of Manufacturers]] · [[Adam Smith]] · [[Blue Shield of California]] · [[Miriam Adelson]] · [[Sheldon Adelson]] · [[Las Vegas Sands]] · [[MGM Resorts International]] · [[Caesars Entertainment]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]]"
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money
 

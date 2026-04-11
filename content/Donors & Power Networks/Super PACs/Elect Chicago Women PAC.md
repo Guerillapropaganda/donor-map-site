@@ -1,7 +1,7 @@
 ---
 title: "Elect Chicago Women PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -11,6 +11,13 @@ issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
 related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]] · [[Daniel Biss Master Profile]] · [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Affordable Chicago Now PAC]] · [[United Democracy Project - UDP]]"
+cross-vault-triangulation-count: 4
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #elect-chicago-women-pac #AIPAC #shell-pac #Israel-lobby #2024-Illinois-House #dark-money #disclosure-avoidance
 

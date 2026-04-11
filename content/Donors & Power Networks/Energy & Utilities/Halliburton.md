@@ -1,7 +1,7 @@
 ---
 title: "Halliburton"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ tax-year: "2022"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 nonprofit-status: "501(c)(3)"
 total-revenue: 4436307
 total-assets: 1150303
@@ -86,6 +88,10 @@ regulatory-agencies:
   - "Pipeline and Hazardous Materials Safety Administration"
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 8
+cross-vault-triangulation-count: 9
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #halliburton #energy #oilfield-services #cheney #iraq #fracking #permian
 
