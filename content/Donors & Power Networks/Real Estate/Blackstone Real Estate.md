@@ -2,7 +2,7 @@
 title: "Blackstone Real Estate"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -34,7 +34,7 @@ court-jurisdictions:
   - "District Court, S.D. Mississippi"
   - "United States Bankruptcy Court, C.D. California"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Real Estate Industry]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Roundtable]] · [[Stephen Schwarzman]] · [[National Rental Home Council]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[Real Estate Industry Bloc]] · [[Lennar Corporation]] · [[CBRE Group]]"
+related: "[[Real Estate Industry]] · [[Blackstone Group]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Roundtable]] · [[Stephen Schwarzman]] · [[National Rental Home Council]] · [[National Association of Realtors]] · [[National Multifamily Housing Council]] · [[Real Estate Industry Bloc]] · [[Lennar Corporation]] · [[CBRE Group]] · [[Airbnb]]"
 ein: "333183362"
 nonprofit-status: "501(c)(3)"
 lobbying-spend: 4450000

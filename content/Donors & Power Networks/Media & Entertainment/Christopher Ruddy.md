@@ -2,7 +2,7 @@
 title: "Christopher Ruddy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Media & Entertainment"
@@ -44,7 +44,7 @@ sec-form-types:
   - "SB-2"
   - "SB-2/A"
   - "SCHEDULE 13D"
-related: "[[Media and Propaganda - Donors and Backers]] · [[John McCain]] · [[Mitt Romney]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[John McCain]] · [[Mitt Romney]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[Mike Rogers]]"
 last-enriched: "2026-04-09"
 total-political-spend: "$2,273,803"
 politicians-funded:

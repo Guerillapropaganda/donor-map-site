@@ -2,10 +2,10 @@
 title: "100% Clean Energy and the 2035 EV Mandate"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Economic Policy - Donors and Backers]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Biden Exit and Harris Installation]]"
+related: "[[Economic Policy - Donors and Backers]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #environment #clean-energy #EV-mandate #2035 #SB100 #genuine-win #class-analysis #who-benefits #green-new-deal #carbon-neutrality
 

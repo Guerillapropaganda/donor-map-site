@@ -18,7 +18,7 @@ ofac-programs:
   - "GLOMAG"
   - "SDGT] [IFSR"
   - "RUSSIA-EO14024"
-related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]]"
+related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]] · [[Master Donor Database]]"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

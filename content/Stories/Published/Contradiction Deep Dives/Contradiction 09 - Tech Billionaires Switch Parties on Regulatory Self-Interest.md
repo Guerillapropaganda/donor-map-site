@@ -2,12 +2,12 @@
 title: "Tech Billionaires Switch Parties on Regulatory Self-Interest"
 type: story
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 issues:
   - "Technology"
-related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Marc Andreessen & Horowitz|Marc Andreessen]] · [[Elon Musk]] · [[Reid Hoffman]] · [[David Sacks]] · [[Dustin Moskovitz]] · [[Eric Schmidt]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Crypto Industry Bloc]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]]"
+related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Marc Andreessen & Horowitz|Marc Andreessen]] · [[Elon Musk]] · [[Reid Hoffman]] · [[David Sacks]] · [[Dustin Moskovitz]] · [[Eric Schmidt]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Crypto Industry Bloc]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
 ---
 #investigation #contradiction #tech #silicon-valley #party-switching #class-analysis
 tags: #analysis #story

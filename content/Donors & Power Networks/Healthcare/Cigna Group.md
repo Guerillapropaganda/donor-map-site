@@ -2,7 +2,7 @@
 title: "Cigna Group"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -19,7 +19,7 @@ lei: "549300VIWYMSIGT1U456"
 lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[Blue Shield of California]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
+related: "[[Johnson & Johnson]] · [[The Insurance Industry Public Option Kill]] · [[Tenet Healthcare]] · [[Blue Cross Blue Shield Association]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[Blue Shield of California]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]]"
 court-cases: 1995
 court-jurisdictions:
   - "District Court, D. Connecticut"

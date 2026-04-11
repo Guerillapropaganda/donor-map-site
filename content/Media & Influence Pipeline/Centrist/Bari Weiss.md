@@ -2,11 +2,11 @@
 title: "Bari Weiss"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 category: centrist
-related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]]"
+related: "[[Glenn Greenwald]] · [[Lex Fridman]] · [[Megyn Kelly]] · [[_Media Pipeline Framework]] · [[Jordan Peterson]] · [[Matt Walsh]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]]"
 donors: "[[Marc Andreessen and a16z]] · [[Peter Thiel]]"
 ---
 

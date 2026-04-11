@@ -2,10 +2,10 @@
 title: "COVID School Closures - Learning Loss and Class Division"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Pro-Israel Donor Network Deep Dive]] · [[Post-October 7 Positions and Flip History]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Charter Schools and the Billionaire Reform Movement]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Pro-Israel Donor Network Deep Dive]] · [[Post-October 7 Positions and Flip History]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
 ---
 #newsom #education #covid #school-closures #learning-loss #class-analysis #CTA #teacher-unions #working-class #private-schools #reopening
 

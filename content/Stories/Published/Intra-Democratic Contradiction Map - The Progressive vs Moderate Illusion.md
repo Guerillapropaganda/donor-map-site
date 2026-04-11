@@ -2,10 +2,10 @@
 title: "Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion"
 type: story
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
-related: "[[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Harris-Newsom Donor Class Fracture]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Session Timeline]] · [[Research Methodology and Data Sources]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
+related: "[[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Harris-Newsom Donor Class Fracture]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Session Timeline]] · [[Research Methodology and Data Sources]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]]"
 ---
 #contradiction-map #democratic-party #class-analysis #follow-the-money #intra-party
 tags: #story

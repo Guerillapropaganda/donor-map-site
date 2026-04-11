@@ -2,10 +2,10 @@
 title: "Universal Pre-K and Transitional Kindergarten"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Ethnic Studies - Whose History Gets Taught]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Post-October 7 Positions and Flip History]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
+related: "[[Ethnic Studies - Whose History Gets Taught]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Post-October 7 Positions and Flip History]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]]"
 ---
 #newsom #education #pre-k #transitional-kindergarten #tk #universal #genuine-win #early-childhood #class-analysis #who-benefits
 

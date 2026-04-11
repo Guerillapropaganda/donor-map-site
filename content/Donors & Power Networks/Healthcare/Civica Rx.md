@@ -2,7 +2,7 @@
 title: "Civica Rx"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -24,7 +24,7 @@ court-cases: 2
 court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, N.D. Ohio"
-related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]]"
+related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 sec-filings: 7
 sec-form-types:
   - "DEF 14A"
