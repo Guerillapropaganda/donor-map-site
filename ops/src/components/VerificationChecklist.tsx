@@ -332,6 +332,30 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
         </div>
       </div>
 
+      {/* ─── ANGLE BANNER — the forcing function for S-tier ─── */}
+      {/* Plan step: "move angle: to the top as a leading prompt, not a trailing gate" */}
+      {profile.angle && profile.angle.trim().length > 10 ? (
+        <div className="mb-3 p-3 rounded border" style={{ borderColor: "var(--color-purple)", backgroundColor: "rgba(168, 85, 247, 0.08)" }}>
+          <div className="text-[9px] uppercase tracking-wider mb-1" style={{ color: "var(--color-purple)" }}>
+            ★ The Angle
+          </div>
+          <div className="text-[11px] italic text-[var(--color-text)] leading-snug">
+            "{profile.angle}"
+          </div>
+        </div>
+      ) : (
+        <div className="mb-3 p-3 rounded border border-dashed" style={{ borderColor: "var(--color-amber)", backgroundColor: "rgba(245, 158, 11, 0.08)" }}>
+          <div className="text-[9px] uppercase tracking-wider mb-1" style={{ color: "var(--color-amber)" }}>
+            ★ The Angle — NOT SET
+          </div>
+          <div className="text-[10px] text-[var(--color-text-dim)] leading-snug">
+            What does this profile show that OpenSecrets / Ballotpedia / GovTrack does NOT?
+            One sentence. This is the forcing function for S-tier. If you can&apos;t write it, the profile is A+ at best.
+            Add <code className="text-[var(--color-steel)]">angle:</code> to frontmatter.
+          </div>
+        </div>
+      )}
+
       {/* Grouped checklist: renders core + tier-a + tier-b + tier-c + tier-d + s-tier */}
       {visibleGroups.map((group) => {
         const groupItems = itemsByGroup[group]
