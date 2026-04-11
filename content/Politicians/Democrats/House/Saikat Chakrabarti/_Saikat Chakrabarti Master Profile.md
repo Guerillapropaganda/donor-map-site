@@ -1,9 +1,8 @@
 ---
 title: "Saikat Chakrabarti Master Profile"
 type: politician
-content-readiness: verified
+content-readiness: ready
 last-updated: '2026-04-09'
-last-verified-by: editorial
 source-tier: 1
 parent: null
 party: "Democrat"
