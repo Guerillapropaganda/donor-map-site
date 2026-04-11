@@ -9,7 +9,34 @@ import {
   isEnrichedWithin,
   countMarkdownUrls,
   countWikilinks,
+  hasDonationPolicyTimeline,
+  hasDarkMoneyTrace,
+  hasRevolvingDoor,
+  hasCallout,
+  hasHeading,
+  runLegalReviewCheck,
+  detectBothSidesEntities,
 } from "@/lib/checklist-helpers"
+import { getRequiredPipelinesForCommittees } from "@/lib/committee-pipeline-map"
+
+/**
+ * Checklist tier groups (plan Step 4). See content/Vault Rules.md § 2a.
+ *
+ * - "tier-a" — Data Breadth. 3+ Tier 1 sources, committee-relevant cross-ref,
+ *              financial disclosure, nonprofit ties, foreign/legal angle.
+ * - "tier-b" — Investigation Depth. Donation-to-Policy Timeline, contradictions
+ *              with numbers, 4-hop chain, revolving door, dark money traced.
+ * - "tier-c" — Narrative Quality. central-thesis, core contradiction, class
+ *              analysis, sub-notes, story-grade, legal-review, lawyer-dispute.
+ * - "tier-d" — Uniqueness (automated). Cross-vault triangulation, anomaly flags.
+ * - "s-tier" — Original findings. angle, exclusive-connections, original-finding.
+ * - "core"   — Pre-tier legacy items (enriched-90d, connections, sign-off).
+ *              These still render but aren't grouped under any Tier.
+ */
+export type ChecklistGroup = "core" | "tier-a" | "tier-b" | "tier-c" | "tier-d" | "s-tier"
+
+/** Which tier this item blocks promotion to. "ready" = blocks B→A+. */
+export type ChecklistBlockingFor = "ready" | "verified" | "s-tier"
 
 interface ChecklistItem {
   id: string
@@ -17,6 +44,8 @@ interface ChecklistItem {
   check: (profile: Profile, raw: string) => boolean
   naAllowed?: boolean  // Can be marked N/A
   pipeline?: string    // Pipeline script name (e.g., "fec", "congress", "govtrack")
+  group?: ChecklistGroup        // NEW (plan Step 4) — defaults to "core" if unset
+  blockingFor?: ChecklistBlockingFor  // NEW — defaults to "verified" for unset core items
 }
 
 // Role-specific politician checklists
@@ -60,12 +89,78 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     ]
   }
 
-  // Default: Congress (Senate/House)
+  // Default: Congress (Senate/House) — grouped by A+ tier (plan Step 4)
   return [
-    { id: "voting-records", label: "Voting records exist", pipeline: "govtrack", check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record") },
-    { id: "committee-assignments", label: "Committee assignments", pipeline: "committee", check: (p, raw) => !!p.committees || raw.includes("<!-- auto:committee-assignments") },
-    { id: "bills", label: "Bills sponsored/cosponsored", pipeline: "congress", check: (p) => (p.billsSponsored || 0) > 0 || (p.billsCosponsored || 0) > 0, naAllowed: true },
-    ...common,
+    // ─── Tier A: Data Breadth ────────────────────────────────────────
+    { id: "voting-records", label: "Voting records exist", pipeline: "govtrack", group: "tier-a", blockingFor: "verified",
+      check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record") },
+    { id: "committee-assignments", label: "Committee assignments", pipeline: "committee", group: "tier-a", blockingFor: "verified",
+      check: (p, raw) => !!p.committees || raw.includes("<!-- auto:committee-assignments") },
+    { id: "bills", label: "Bills sponsored/cosponsored", pipeline: "congress", group: "tier-a", blockingFor: "verified", naAllowed: true,
+      check: (p) => (p.billsSponsored || 0) > 0 || (p.billsCosponsored || 0) > 0 },
+    { id: "fec-data", label: "FEC fundraising data", pipeline: "fec", group: "tier-a", blockingFor: "verified",
+      check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec-fundraising") || raw.includes("<!-- auto:fec-politician") },
+    { id: "source-diversity-3", label: "3+ Tier 1 source types (A+ floor)", group: "tier-a", blockingFor: "verified",
+      check: (p, raw) => (p.sourceTypes || []).length >= 3 || countTier1InBody(raw) >= 3 },
+    { id: "committee-cross-ref", label: "Committee-relevant regulatory cross-ref",  group: "tier-a", blockingFor: "verified", naAllowed: true,
+      check: (p, raw) => {
+        const required = getRequiredPipelinesForCommittees(p.committees)
+        if (required.length === 0) return true  // no requirement = pass
+        return required.every(r => hasAutoBlock(raw, r))
+      }
+    },
+    { id: "financial-disclosure", label: "Financial disclosure (stock trades / board seats)", group: "tier-a", blockingFor: "verified", naAllowed: true,
+      check: (p, raw) => !!p.stockTrades || (p.boardSeats || []).length > 0 || raw.toLowerCase().includes("stock trade") },
+
+    // ─── Tier B: Investigation Depth ─────────────────────────────────
+    { id: "donation-policy-timeline", label: "Donation-to-Policy Timeline present", group: "tier-b", blockingFor: "verified",
+      check: (_, raw) => hasDonationPolicyTimeline(raw) },
+    { id: "contradiction-with-numbers", label: "1+ contradiction callout with dollar figures", group: "tier-b", blockingFor: "verified",
+      check: (_, raw) => hasCallout(raw, "contradiction") || hasCallout(raw, "money") },
+    { id: "revolving-door", label: "Revolving door / family network documented", group: "tier-b", blockingFor: "verified", naAllowed: true,
+      check: (_, raw) => hasRevolvingDoor(raw) },
+    { id: "dark-money-trace", label: "Dark money chain traced", group: "tier-b", blockingFor: "verified", naAllowed: true,
+      check: (_, raw) => hasDarkMoneyTrace(raw) },
+
+    // ─── Tier C: Narrative Quality ───────────────────────────────────
+    { id: "central-thesis", label: "central-thesis field populated", group: "tier-c", blockingFor: "verified",
+      check: (p) => !!p.centralThesis },
+    { id: "class-analysis", label: "## Class Analysis section present", group: "tier-c", blockingFor: "verified",
+      check: (_, raw) => hasHeading(raw, "Class Analysis") },
+    { id: "story-grade", label: "story-grade field assigned", group: "tier-c", blockingFor: "verified",
+      check: (p) => !!p.storyGrade },
+    { id: "legal-review", label: "Legal-review pass (no defamation-prone words outside quotes)", group: "tier-c", blockingFor: "verified",
+      check: (p, raw) => runLegalReviewCheck(p, raw).passed },
+    { id: "lawyer-dispute", label: "Lawyer-dispute paragraph present", group: "tier-c", blockingFor: "verified", naAllowed: true,
+      check: (p, raw) => !!p.lawyerDispute || hasHeading(raw, "Legal Exposure") || hasHeading(raw, "What Their Lawyer") },
+
+    // ─── Tier D: Uniqueness (automated) ──────────────────────────────
+    { id: "both-sides-clean", label: "No both-sides conflict (donors ∩ opposes = ∅)", group: "tier-d", blockingFor: "verified", naAllowed: true,
+      check: (p) => detectBothSidesEntities(p).length === 0 },
+
+    // ─── S-tier (gated above A+) ─────────────────────────────────────
+    { id: "angle", label: "angle: field populated (what OpenSecrets does NOT show)", group: "s-tier", blockingFor: "s-tier",
+      check: (p) => !!p.angle && p.angle.trim().length > 10 },
+    { id: "exclusive-connections", label: "3+ damning exclusive-connections", group: "s-tier", blockingFor: "s-tier",
+      check: (p) => (p.exclusiveConnections || []).length >= 3 },
+    { id: "original-finding", label: "original-finding field populated", group: "s-tier", blockingFor: "s-tier",
+      check: (p) => !!p.originalFinding && p.originalFinding.trim().length > 10 },
+    { id: "audit-s-tier-passed", label: "Janitor S-tier audit passed", group: "s-tier", blockingFor: "s-tier",
+      check: (p) => !!p.auditSTierPassed },
+    { id: "editorial-signoff-narrative", label: "David's narrative sign-off", group: "s-tier", blockingFor: "s-tier",
+      check: (p) => !!p.editorialSignoffNarrative },
+
+    // ─── Core tail (legacy items that don't fit a specific tier) ─────
+    { id: "source-diversity", label: "2+ Tier 1 source types (ready floor)", group: "core", blockingFor: "ready",
+      check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
+    { id: "connections", label: "Connections mapped (donors + related)", group: "core", blockingFor: "ready",
+      check: (p) => !!(p.related || p.donors) },
+    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", group: "core", blockingFor: "verified",
+      check: (p) => isEnrichedWithin(p, 90) },
+    { id: "contradiction-review", label: "Contradiction investigation complete (Research Claude)", group: "core", blockingFor: "verified",
+      check: (_, raw) => raw.includes("[!contradiction-cleared]") || !raw.includes("[!contradiction]") },
+    { id: "sign-off", label: "Editorial sign-off", group: "core", blockingFor: "verified",
+      check: (p) => p.lastVerifiedBy === "editorial" },
   ]
 }
 
@@ -195,11 +290,36 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
     onSaveNa(naItems.filter((n) => !n.startsWith(`${id}:`)))
   }
 
+  // Group items by tier for the new grouped rendering (plan Step 4).
+  // Items without a group default to "core" (legacy flat items).
+  const groupOrder: ChecklistGroup[] = ["core", "tier-a", "tier-b", "tier-c", "tier-d", "s-tier"]
+  const groupLabels: Record<ChecklistGroup, string> = {
+    "core": "CORE",
+    "tier-a": "TIER A — Data Breadth",
+    "tier-b": "TIER B — Investigation Depth",
+    "tier-c": "TIER C — Narrative Quality",
+    "tier-d": "TIER D — Uniqueness (automated)",
+    "s-tier": "S-TIER (above A+ — original findings)",
+  }
+  const itemsByGroup: Record<ChecklistGroup, ChecklistItem[]> = {
+    "core": [], "tier-a": [], "tier-b": [], "tier-c": [], "tier-d": [], "s-tier": [],
+  }
+  for (const item of items) {
+    itemsByGroup[item.group || "core"].push(item)
+  }
+  // Only show groups that have items (non-Congress chambers won't have tier-a/b/c/d yet)
+  const visibleGroups = groupOrder.filter(g => itemsByGroup[g].length > 0)
+
+  // Is the profile eligible for S-tier yet? (all non-s-tier groups fully passed)
+  const aPlusPassed = visibleGroups
+    .filter(g => g !== "s-tier")
+    .every(g => itemsByGroup[g].every(item => isNa(item.id) || item.check(profile, raw)))
+
   return (
     <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
       <div className="flex items-center justify-between mb-3">
         <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)]">
-          A+ Verification Checklist
+          A+ / S-Tier Verification Checklist
         </h3>
         <div className="flex items-center gap-2">
           <span className="text-[10px] font-bold" style={{ color: gradeColor }}>
@@ -212,8 +332,28 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
         </div>
       </div>
 
-      <div className="space-y-1">
-        {items.map((item) => {
+      {/* Grouped checklist: renders core + tier-a + tier-b + tier-c + tier-d + s-tier */}
+      {visibleGroups.map((group) => {
+        const groupItems = itemsByGroup[group]
+        const groupPassed = groupItems.filter(item => !isNa(item.id) && item.check(profile, raw)).length
+        const groupTotal = groupItems.filter(item => !isNa(item.id)).length
+        const groupPct = groupTotal > 0 ? Math.round((groupPassed / groupTotal) * 100) : 0
+        const groupColor = groupPct === 100 ? "#10b981" : groupPct >= 50 ? "#f59e0b" : "#ef4444"
+        const isSTier = group === "s-tier"
+        const locked = isSTier && !aPlusPassed
+        return (
+          <details key={group} open={!locked} className="mb-2">
+            <summary className={`text-[9px] uppercase tracking-wider mb-1 cursor-pointer flex items-center justify-between ${locked ? "opacity-40" : ""}`}>
+              <span className="text-[var(--color-text-dim)]">
+                {groupLabels[group]} {locked && "🔒"}
+              </span>
+              <span className="text-[9px] font-bold" style={{ color: groupColor }}>
+                {groupPassed}/{groupTotal} ({groupPct}%)
+              </span>
+            </summary>
+            {!locked && (
+              <div className="space-y-1 pl-2 mt-1">
+                {groupItems.map((item) => {
           const na = isNa(item.id)
           const passed = !na && item.check(profile, raw)
           const naReasonText = getNaReason(item.id)
@@ -280,8 +420,17 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
               )}
             </div>
           )
-        })}
-      </div>
+                })}
+              </div>
+            )}
+            {locked && (
+              <div className="text-[9px] text-[var(--color-text-dim)] italic pl-2 mt-1">
+                S-tier checks are locked until all A+ tiers pass.
+              </div>
+            )}
+          </details>
+        )
+      })}
 
       {/* Pipeline data blocks found */}
       {(() => {
@@ -309,11 +458,14 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
   )
 }
 
-// Exported utility: evaluate what tier a profile is eligible for based on checklist
+// Exported utility: evaluate what tier a profile is eligible for based on checklist.
+// Returns the max auto-eligible tier (promotion still gated by manual sign-off for
+// verified/s-tier) plus a per-group breakdown used by the grouped UI in Step 4+.
 export function evaluateReadinessEligibility(profile: Profile, raw: string): {
-  maxTier: "raw" | "draft" | "ready" | "verified"
+  maxTier: "raw" | "draft" | "ready" | "verified" | "s-tier"
   pct: number
   failingItems: string[]
+  tierBreakdown: Record<ChecklistGroup, { passed: number; total: number; pct: number }>
 } {
   const items = profile.type === "politician"
     ? getPoliticianChecklist(profile.chamber)
@@ -333,13 +485,44 @@ export function evaluateReadinessEligibility(profile: Profile, raw: string): {
   const total = items.length - naCount
   const pct = total > 0 ? Math.round((checked / total) * 100) : 0
 
-  // Determine max eligible tier
-  let maxTier: "raw" | "draft" | "ready" | "verified" = "raw"
-  if (pct === 100) maxTier = "verified"
+  // Per-group breakdown (plan Step 4)
+  const groupKeys: ChecklistGroup[] = ["core", "tier-a", "tier-b", "tier-c", "tier-d", "s-tier"]
+  const tierBreakdown: Record<ChecklistGroup, { passed: number; total: number; pct: number }> = {
+    "core":   { passed: 0, total: 0, pct: 0 },
+    "tier-a": { passed: 0, total: 0, pct: 0 },
+    "tier-b": { passed: 0, total: 0, pct: 0 },
+    "tier-c": { passed: 0, total: 0, pct: 0 },
+    "tier-d": { passed: 0, total: 0, pct: 0 },
+    "s-tier": { passed: 0, total: 0, pct: 0 },
+  }
+  for (const item of items) {
+    if (isNa(item.id)) continue
+    const g = item.group || "core"
+    tierBreakdown[g].total++
+    if (item.check(profile, raw)) tierBreakdown[g].passed++
+  }
+  for (const g of groupKeys) {
+    const t = tierBreakdown[g]
+    t.pct = t.total > 0 ? Math.round((t.passed / t.total) * 100) : 0
+  }
+
+  // Determine max eligible tier.
+  // - verified (A+) requires all non-s-tier groups at 100%
+  // - s-tier requires ALL groups including s-tier at 100%
+  // - ready at ≥50% overall pct (legacy behavior)
+  // - draft at >0% overall pct
+  const aPlusPassed = groupKeys
+    .filter(g => g !== "s-tier")
+    .every(g => tierBreakdown[g].total === 0 || tierBreakdown[g].pct === 100)
+  const sTierPassed = aPlusPassed && (tierBreakdown["s-tier"].total === 0 || tierBreakdown["s-tier"].pct === 100)
+
+  let maxTier: "raw" | "draft" | "ready" | "verified" | "s-tier" = "raw"
+  if (sTierPassed && tierBreakdown["s-tier"].total > 0) maxTier = "s-tier"
+  else if (aPlusPassed) maxTier = "verified"
   else if (pct >= 50) maxTier = "ready"
   else if (pct > 0) maxTier = "draft"
 
-  return { maxTier, pct, failingItems: failing }
+  return { maxTier, pct, failingItems: failing, tierBreakdown }
 }
 
 // Story-specific grading based on URL count
