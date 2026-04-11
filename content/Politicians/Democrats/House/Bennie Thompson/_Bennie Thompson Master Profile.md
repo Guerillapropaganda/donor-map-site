@@ -2,7 +2,7 @@
 title: "Bennie Thompson"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,7 +22,7 @@ bills-cosponsored: 355
 website: "https://benniethompson.house.gov"
 phone: "202-225-5876"
 donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]]"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
@@ -223,3 +223,29 @@ Homeland Security Committee jurisdiction includes DHS ($60B+ budget), TSA, FEMA,
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Not Voting** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Bennie Thompson](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402) (Tier 1)
+<!-- auto:voting-record end -->

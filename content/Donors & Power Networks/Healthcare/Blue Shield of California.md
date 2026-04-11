@@ -239,7 +239,7 @@ Healthcare — Single-payer, COVID contracts, PBM regulation
 |--------|-------|
 | Politicians Funded | 10 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 4 politicians |
+| Committee Overlap Detected | 5 politicians |
 
 **Lobby → Donate → Committee chains:**
 
@@ -248,6 +248,7 @@ Healthcare — Single-payer, COVID contracts, PBM regulation
 - Lobbies on **Government Issues** → Funds **Rick Scott** → Sits on **Senate Committee on Homeland Security and Governmental Affairs**
 - Lobbies on **Intelligence** → Funds **Rick Scott** → Sits on **Senate Committee on Armed Services**
 - Lobbies on **Government Issues** → Funds **Gary Peters** → Sits on **Homeland Security**
+- Lobbies on **Government Issues** → Funds **Bennie Thompson** → Sits on **Homeland Security**
 - Lobbies on **Agriculture** → Funds **Glenn Thompson** → Sits on **Agriculture**
 - Lobbies on **Budget/Appropriations** → Funds **Pete Aguilar** → Sits on **Appropriations**
 - Lobbies on **Defense** → Funds **Pete Aguilar** → Sits on **Appropriations**
@@ -259,7 +260,7 @@ Healthcare — Single-payer, COVID contracts, PBM regulation
 - [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) — lobbying: $3.8M
 - [[Tim Scott]] — lobbying: $3.8M
 - [[Gary Peters]] (Homeland Security) — lobbying: $3.8M
-- [[Bennie Thompson]] (House Committee on Homeland Security) — lobbying: $3.8M
+- [[Bennie Thompson]] (Homeland Security) — lobbying: $3.8M
 - [[Glenn Thompson]] (Agriculture) — lobbying: $3.8M
 - [[Pete Aguilar]] (Appropriations) — lobbying: $3.8M
 - [[Gavin Newsom]] — lobbying: $3.8M

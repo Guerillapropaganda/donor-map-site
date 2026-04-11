@@ -425,8 +425,9 @@ Immigration — H-2A program, undocumented workforce
 - Lobbies on **Banking** → Funds **John Boehner** → Sits on **Finance**
 - Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Boehner** → Sits on **Finance**
 - Lobbies on **Medicare/Medicaid** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Homeland Security** → Funds **Bennie Thompson** → Sits on **House Committee on Homeland Security**
-- Lobbies on **Immigration** → Funds **Bennie Thompson** → Sits on **House Committee on Homeland Security**
+- Lobbies on **Government Issues** → Funds **Bennie Thompson** → Sits on **Homeland Security**
+- Lobbies on **Homeland Security** → Funds **Bennie Thompson** → Sits on **Homeland Security**
+- Lobbies on **Immigration** → Funds **Bennie Thompson** → Sits on **Homeland Security**
 - Lobbies on **Agriculture** → Funds **Glenn Thompson** → Sits on **Agriculture**
 - Lobbies on **Agriculture** → Funds **Debbie Stabenow** → Sits on **Agriculture**
 - Lobbies on **Agriculture** → Funds **Jerry Moran** → Sits on **Agriculture**
@@ -436,7 +437,7 @@ Immigration — H-2A program, undocumented workforce
 
 - [[John Boehner]] (Finance) — lobbying: $10.7M
 - [[Kevin McCarthy]] — lobbying: $10.7M
-- [[Bennie Thompson]] (House Committee on Homeland Security) — lobbying: $10.7M
+- [[Bennie Thompson]] (Homeland Security) — lobbying: $10.7M
 - [[Glenn Thompson]] (Agriculture) — lobbying: $10.7M
 - [[Debbie Stabenow]] (Agriculture) — lobbying: $10.7M
 - [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $10.7M

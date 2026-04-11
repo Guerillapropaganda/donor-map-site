@@ -2,7 +2,7 @@
 title: "Debbie Wasserman Schultz"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,7 +17,7 @@ top-donors:
   - "AIPAC"
 total-received: "$1,785,365"
 fec-candidate-id: "H4FL20023"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]]"
@@ -167,3 +167,10 @@ The sugar program survives because both parties are funded by the same donors. W
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
