@@ -10,11 +10,11 @@ generated-by: scripts/relationship-bidirectional.cjs
 
 # Orphan Relationship Report
 
-Generated: 2026-04-11T20:14:04.492Z
+Generated: 2026-04-11T22:31:47.075Z
 Mode: DRY RUN (report only)
 
 Scanned 1850 profiles.
-Orphan pairs: **4645**.
+Orphan pairs: **4643**.
 
 An orphan is a connection where A lists B in its `related:` but B does NOT reference A in any relationship field (related, donors, opposes, politicians-funded). Usually a data-quality bug — one side of the edit dropped.
 
@@ -220,4 +220,4 @@ An orphan is a connection where A lists B in its `related:` but B does NOT refer
 - **Americans for Tax Reform - Grover Norquist** (donor) → **Insurance Industry** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
 - **Americans for Tax Reform - Grover Norquist** (donor) → **Walton Family Foundation** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
 - **Americans for Tax Reform - Grover Norquist** (donor) → **American Federation for Children** (donor) — `Donors & Power Networks/Dark Money/Americans for Tax Reform - Grover Norquist.md`
-- _...and 4445 more_
+- _...and 4443 more_
