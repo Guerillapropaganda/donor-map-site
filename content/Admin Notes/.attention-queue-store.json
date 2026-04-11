@@ -2,20 +2,6 @@
   "hallucination-catcher": [
     {
       "bucket": "deciding",
-      "what": "Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts: 30 unsupported claims",
-      "why": "Ready profile has \"$500M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 30,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
       "what": "Heritage Foundation: 30 unsupported claims",
       "why": "Ready profile has \"60% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md",
@@ -128,20 +114,6 @@
     },
     {
       "bucket": "deciding",
-      "what": "Prison Telecom Monopoly Profits From Bipartisan Neglect: 19 unsupported claims",
-      "why": "Ready profile has \"$1.2 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 23 - Prison Telecom Monopoly Profits From Bipartisan Neglect.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 19,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
       "what": "American Action Network: 17 unsupported claims",
       "why": "Ready profile has \"$170 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Donors & Power Networks/Dark Money/American Action Network.md",
@@ -159,20 +131,6 @@
       "what": "Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses: 17 unsupported claims",
       "why": "Ready profile has \"$800M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Leadership Mirror - Same Money Different Caucuses.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 17,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy: 17 unsupported claims",
-      "why": "Ready profile has \"$19.8M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy.md",
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
@@ -212,20 +170,6 @@
     },
     {
       "bucket": "deciding",
-      "what": "Crypto Industry Buys Both Parties in One Cycle: 16 unsupported claims",
-      "why": "Ready profile has \"2024 by neutralizing the one mechanism that had previously blocked\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 06 - Crypto Industry Buys Both Parties in One Cycle.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 16,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
       "what": "Chevron: 14 unsupported claims",
       "why": "Ready profile has \"$90 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Donors & Power Networks/Energy & Utilities/Chevron.md",
@@ -254,20 +198,6 @@
     },
     {
       "bucket": "deciding",
-      "what": "Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion: 14 unsupported claims",
-      "why": "Ready profile has \"$1.2 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 14,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
       "what": "Stand Together: 13 unsupported claims",
       "why": "Ready profile has \"$578 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Donors & Power Networks/Dark Money/Stand Together.md",
@@ -285,20 +215,6 @@
       "what": "American Petroleum Institute: 13 unsupported claims",
       "why": "Ready profile has \"86.4% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 13,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand: 13 unsupported claims",
-      "why": "Ready profile has \"2022 received\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Cross-Politician Analysis/Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand.md",
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
@@ -347,6 +263,90 @@
       "created": "2026-04-11",
       "metadata": {
         "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Texas 2026 Senate Race: 12 unsupported claims",
+      "why": "Ready profile has \"47% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2026 Senate Races/Texas 2026 Senate Race.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Insurance Industry Writes Its Own Regulation Through Both Parties: 12 unsupported claims",
+      "why": "Ready profile has \"$853 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 17 - Insurance Industry Writes Its Own Regulation Through Both Parties.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Elon Musk: 11 unsupported claims",
+      "why": "Ready profile has \"$5.9 billion\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Elon Musk.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "New Hampshire 2026 Senate Race: 11 unsupported claims",
+      "why": "Ready profile has \"$2.3B\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2026 Senate Races/New Hampshire 2026 Senate Race.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Harris-Newsom Donor Class Fracture: 11 unsupported claims",
+      "why": "Ready profile has \"$24M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2028 Presidential Race/Harris-Newsom Donor Class Fracture.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides: 11 unsupported claims",
+      "why": "Ready profile has \"10% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 16 - Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides.md",
+      "cost_min": 13,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 11,
         "readiness": "ready"
       }
     }

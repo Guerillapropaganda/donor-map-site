@@ -159,6 +159,11 @@ const SOURCES = [
   'body-migration-april-9',
   'manual-ops',
   'research-claude',
+  // Phase 3 Part 4: auto-mirror source for the bidirectional normalizer
+  // (scripts/normalize-related-bidirectionality.cjs). Creates reverse
+  // edges for one-way `related` edges so the canonical store matches
+  // the natural symmetry of the `related` relationship type.
+  'bidirectional-normalizer',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];

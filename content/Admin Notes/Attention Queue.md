@@ -375,6 +375,42 @@ This profile passed every automated A+ check. Only David's sign-off (janitor sta
 - **Leverage:** ★★★★★
 - **Surfaced by:** `promotion-candidate-queue`
 
+### Elon Musk: 11 unsupported claims
+
+Ready profile has "$5.9 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Elon Musk.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### New Hampshire 2026 Senate Race: 11 unsupported claims
+
+Ready profile has "$2.3B" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/2026 Senate Races/New Hampshire 2026 Senate Race.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Harris-Newsom Donor Class Fracture: 11 unsupported claims
+
+Ready profile has "$24M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/2028 Presidential Race/Harris-Newsom Donor Class Fracture.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides: 11 unsupported claims
+
+Ready profile has "10% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 16 - Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
 ### American Farm Bureau Federation: 12 unsupported claims
 
 Ready profile has "$732 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
@@ -402,12 +438,21 @@ Ready profile has "2024 cycle, UDP spent" in the (no section) section with no so
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts: 30 unsupported claims
+### Texas 2026 Senate Race: 12 unsupported claims
 
-Ready profile has "$500M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "47% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Stories/Published/Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts.md`
-- **Cost:** ~15 min
+- **Where:** `content/Stories/Published/2026 Senate Races/Texas 2026 Senate Race.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Insurance Industry Writes Its Own Regulation Through Both Parties: 12 unsupported claims
+
+Ready profile has "$853 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 17 - Insurance Industry Writes Its Own Regulation Through Both Parties.md`
+- **Cost:** ~14 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
@@ -483,15 +528,6 @@ Ready profile has "58% of" in the (no section) section with no source link in th
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Prison Telecom Monopoly Profits From Bipartisan Neglect: 19 unsupported claims
-
-Ready profile has "$1.2 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 23 - Prison Telecom Monopoly Profits From Bipartisan Neglect.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
 ### American Action Network: 17 unsupported claims
 
 Ready profile has "$170 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
@@ -506,15 +542,6 @@ Ready profile has "$170 million" in the (no section) section with no source link
 Ready profile has "$800M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Stories/Published/Cross-Politician Analysis/Schumer-McConnell Senate Leadership Mirror - Same Money Different Caucuses.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy: 17 unsupported claims
-
-Ready profile has "$19.8M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -537,15 +564,6 @@ Ready profile has "$2.1M" in the (no section) section with no source link in the
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Crypto Industry Buys Both Parties in One Cycle: 16 unsupported claims
-
-Ready profile has "2024 by neutralizing the one mechanism that had previously blocked" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 06 - Crypto Industry Buys Both Parties in One Cycle.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
 ### Chevron: 14 unsupported claims
 
 Ready profile has "$90 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
@@ -564,15 +582,6 @@ Ready profile has "2020, shortly after Prop 22 passed" in the (no section) secti
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion: 14 unsupported claims
-
-Ready profile has "$1.2 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
 ### Stand Together: 13 unsupported claims
 
 Ready profile has "$578 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
@@ -587,15 +596,6 @@ Ready profile has "$578 million" in the (no section) section with no source link
 Ready profile has "86.4% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand: 13 unsupported claims
-
-Ready profile has "2022 received" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Cross-Politician Analysis/Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`

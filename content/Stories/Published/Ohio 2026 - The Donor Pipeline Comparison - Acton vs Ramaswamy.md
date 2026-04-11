@@ -2,6 +2,7 @@
 title: "Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy"
 type: story
 content-readiness: ready
+editor-vouched: true
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

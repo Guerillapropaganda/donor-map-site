@@ -5,6 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-11
 source-tier: 1
 parent: null
+known-gaps: "Tier 1 source migration needed before editor-vouched. All 5 'Tier 1' entries in the Sources section are OpenSecrets URLs (Schumer career summary, McConnell career summary, Goldman Sachs PAC profile, Lockheed Martin PAC 2024 recipients, Senate Leadership Fund summary) — OpenSecrets is demoted per Vault Rules and no longer counts as Tier 1. Replace with: FEC candidate summary pages for Schumer (S0NY00028) and McConnell (S2KY00012), FEC committee page for Goldman Sachs Group PAC (C00043390), FEC committee page for Lockheed Martin PAC (C00303024), FEC committee page for Senate Leadership Fund (C00571703). All 5 have direct FEC equivalents. Editor-only work per the URL fixing scope boundary."
 issues:
   - "Wall Street & Finance"
   - "Israel & Foreign Policy"

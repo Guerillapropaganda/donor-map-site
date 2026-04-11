@@ -2,6 +2,7 @@
 title: "Prison Telecom Monopoly Profits From Bipartisan Neglect"
 type: story
 content-readiness: ready
+editor-vouched: true
 last-updated: 2026-04-08
 source-tier: 2
 parent: null

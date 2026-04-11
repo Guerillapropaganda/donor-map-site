@@ -2,6 +2,7 @@
 title: "Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand"
 type: story
 content-readiness: ready
+editor-vouched: true
 last-updated: 2026-04-11
 source-tier: 2
 parent: null
