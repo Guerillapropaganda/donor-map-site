@@ -319,9 +319,9 @@ export function Calendar({ schedule, initialState, serverDate, serverTime, liveC
               <span className="text-[var(--color-text-dim)]">{info.label}</span>
             </div>
           ))}
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2" title="Stop working at this time every day to protect sleep">
             <span className="inline-block w-3 h-3 border-2 border-[var(--color-red)]" />
-            <span className="text-[var(--color-text-dim)]">HARD STOP</span>
+            <span className="text-[var(--color-text-dim)]">STOP WORK</span>
           </div>
           <div className="flex items-center gap-2">
             <span className="inline-block w-3 h-3 bg-[var(--color-green)]" />
