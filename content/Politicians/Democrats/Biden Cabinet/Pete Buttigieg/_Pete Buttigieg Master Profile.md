@@ -1,24 +1,27 @@
 ---
-title: "Pete Buttigieg Master Profile"
+title: Pete Buttigieg Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-06
+last-updated: '2026-04-11'
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Cabinet"
-state: "Indiana"
-state-abbr: "IN"
+party: Democrat
+chamber: Cabinet
+state: Indiana
+state-abbr: IN
 top-donors:
-  - "Finance and Tech Bundler Network"
-fec-candidate-id: "P00010298"
+  - Finance and Tech Bundler Network
+fec-candidate-id: P00010298
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
-related: "[[_Gretchen Whitmer Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Wes Moore Master Profile|Wes Moore]]"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
+related: >-
+  [[_Gretchen Whitmer Master Profile]] · [[_Kamala Harris Master Profile]] ·
+  [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Wes Moore Master
+  Profile|Wes Moore]] · [[Ted Cruz]]
 ---
 #pete-buttigieg #indiana #south-bend #transportation-secretary #democrat #mckinsey #2020-presidential #2028-presidential #class-analysis
 
