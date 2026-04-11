@@ -129,6 +129,31 @@ function getAfterContent(filePath) {
 }
 
 /**
+ * Get only the newly added lines for a staged file (content on `+` lines in a
+ * zero-context diff). For brand-new files, this is effectively the whole body.
+ * For modifications, this is ONLY what the current commit is introducing —
+ * pre-existing em dashes from months ago are not flagged.
+ */
+function getAddedLines(filePath) {
+  try {
+    const out = execSync(`git diff --cached -U0 -- "${filePath}"`, {
+      cwd: REPO_ROOT,
+      encoding: 'utf-8',
+    });
+    const added = [];
+    for (const line of out.split(/\r?\n/)) {
+      if (line.startsWith('+++')) continue;
+      if (line.startsWith('---')) continue;
+      if (line.startsWith('@@')) continue;
+      if (line.startsWith('+')) added.push(line.slice(1));
+    }
+    return added.join('\n');
+  } catch {
+    return '';
+  }
+}
+
+/**
  * Split frontmatter and body.
  */
 function splitFrontmatter(content) {
