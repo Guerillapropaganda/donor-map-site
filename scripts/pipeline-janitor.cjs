@@ -39,9 +39,6 @@ const fs = require('fs');
 const path = require('path');
 const { walkDir, parseFrontmatter } = require('./lib/shared.cjs');
 // Shared check helpers — see also ops/src/lib/checklist-helpers.ts
-// These are used by new checks added in plan Step 3 (committee cross-ref,
-// legal review, both-sides detection). Existing zombie/missing-block
-// checks continue to use the janitor's local hasAnyBlock() for now.
 const {
   hasAutoBlock,
   hasAnyAutoBlock,
@@ -50,6 +47,7 @@ const {
   runLegalReviewCheck,
   detectBothSidesEntities,
 } = require('./lib/checklist-helpers.cjs');
+const { getRequiredPipelinesForCommittees, getRequirementReasons } = require('./lib/committee-pipeline-map.cjs');
 
 // ─── Config ────────────────────────────────────────────────────
 
@@ -59,6 +57,10 @@ const WRITE = process.argv.includes('--write');
 const VERBOSE = process.argv.includes('--verbose');
 const ZOMBIES_ONLY = process.argv.includes('--zombies-only');
 const TYPE_FILTER = (process.argv.find(a => a.startsWith('--type=')) || '').split('=')[1] || null;
+// --tier=a-plus adds the A+ audit layer on top of the zombie/missing-block
+// checks. Dry-run only for now (plan Step 3). Writes will come in Step 4.
+const TIER_FILTER = (process.argv.find(a => a.startsWith('--tier=')) || '').split('=')[1] || null;
+const RUN_A_PLUS_AUDIT = TIER_FILTER === 'a-plus' || TIER_FILTER === 's';
 
 // Types that don't require federal pipeline enrichment — never audit these
 // for missing Congress.gov / GovTrack / Committee auto-blocks. A media figure
@@ -234,6 +236,80 @@ function auditProfile(filePath, content) {
     });
   }
 
+  // ─── A+ audit checks (Step 3, dry-run only) ──────────────────────
+  // These only fire when --tier=a-plus or --tier=s is passed. They layer
+  // on top of the existing zombie/missing-block checks and produce
+  // advisory issues (kind: "a-plus-*") that don't demote anything yet.
+  // Write-mode for A+ audit stamps comes in plan Step 4.
+  if (RUN_A_PLUS_AUDIT && type === 'politician') {
+    // A+ Tier A: committee-relevant regulatory cross-ref
+    const requiredPipelines = getRequiredPipelinesForCommittees(data.committees);
+    if (requiredPipelines.length > 0) {
+      const missing = requiredPipelines.filter(p => !hasAutoBlock(body, p));
+      if (missing.length > 0) {
+        const reasons = getRequirementReasons(data.committees);
+        const reasonText = reasons.map(r => r.reason).join(' ');
+        issues.push({
+          kind: 'a-plus-committee-cross-ref',
+          detail: `missing committee-relevant pipelines: ${missing.join(', ')}. ${reasonText}`,
+          fix: `run pipelines: ${missing.join(', ')}`,
+        });
+      }
+    }
+
+    // A+ Tier A: source-type floor raised from 2 to 3 for verified
+    const srcCount = Math.max((data['source-types'] || []).length, countTier1InBody(body));
+    if (srcCount < 3) {
+      issues.push({
+        kind: 'a-plus-source-floor',
+        detail: `only ${srcCount} Tier 1 source types (A+ requires 3+)`,
+        fix: 'add more Tier 1 sources or run more cross-ref pipelines',
+      });
+    }
+
+    // A+ Tier C: automated legal-review pass
+    const legalCheck = runLegalReviewCheck(
+      {
+        legalReviewDate: data['legal-review-date'],
+        legalReviewResult: data['legal-review-result'],
+      },
+      body
+    );
+    if (!legalCheck.passed) {
+      issues.push({
+        kind: 'a-plus-legal-review',
+        detail: `${legalCheck.hits.length} defamation-prone phrases outside blockquotes: ${legalCheck.hits.slice(0, 2).map(h => h.slice(0, 80)).join(' | ')}`,
+        fix: 'David must legal-review and set legal-review-result: pass, OR rewrite the flagged phrases',
+      });
+    }
+
+    // A+ Tier D: both-sides detection (same entity in donors + opposes)
+    const bothSides = detectBothSidesEntities({ donors: data.donors, opposes: data.opposes });
+    if (bothSides.length > 0) {
+      issues.push({
+        kind: 'a-plus-both-sides',
+        detail: `entities appear in both donors: and opposes: — ${bothSides.slice(0, 3).join(', ')}`,
+        fix: 'Research Claude should reconcile or document the both-sides pattern',
+      });
+    }
+
+    // A+ Tier C: required frontmatter fields
+    if (!data['central-thesis']) {
+      issues.push({
+        kind: 'a-plus-missing-thesis',
+        detail: 'central-thesis field not populated',
+        fix: 'add central-thesis: "<one sentence>" to frontmatter',
+      });
+    }
+    if (!data['story-grade']) {
+      issues.push({
+        kind: 'a-plus-missing-story-grade',
+        detail: 'story-grade field not populated',
+        fix: 'add story-grade: story|report|investigation',
+      });
+    }
+  }
+
   return { issues, readiness, type };
 }
 
@@ -269,6 +345,18 @@ function laymanNote(issues) {
       notes.push(`  • The profile's own known-gaps field says it needs a fresh pipeline run.`);
     } else if (i.kind === 'internal-notes-pipeline') {
       notes.push(`  • Internal notes say pipeline data was damaged or needs repopulation.`);
+    } else if (i.kind === 'a-plus-committee-cross-ref') {
+      notes.push(`  • A+ FAIL: ${i.detail}. The committee this politician sits on has regulatory overlap that wasn't cross-referenced.`);
+    } else if (i.kind === 'a-plus-source-floor') {
+      notes.push(`  • A+ FAIL: ${i.detail}. Verified profiles need at least 3 Tier 1 source types; this has fewer.`);
+    } else if (i.kind === 'a-plus-legal-review') {
+      notes.push(`  • A+ FAIL (legal): defamation-prone words appear outside blockquotes. David must legal-review and set legal-review-result: pass, OR the phrases must be rewritten.`);
+    } else if (i.kind === 'a-plus-both-sides') {
+      notes.push(`  • A+ FAIL: ${i.detail}. Same entity appears in both donors: and opposes: — needs Research Claude to reconcile.`);
+    } else if (i.kind === 'a-plus-missing-thesis') {
+      notes.push(`  • A+ FAIL: central-thesis field is empty. Research Claude must write a one-sentence thesis for the profile.`);
+    } else if (i.kind === 'a-plus-missing-story-grade') {
+      notes.push(`  • A+ FAIL: story-grade field is empty. Must be one of story/report/investigation based on URL count.`);
     }
   }
   notes.push(`The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.`);
