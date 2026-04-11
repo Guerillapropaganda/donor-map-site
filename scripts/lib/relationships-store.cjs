@@ -308,6 +308,94 @@ function upsertEdges(newEdges) {
   };
 }
 
+/**
+ * Mark an edge as deprecated by setting its status to "deprecated" and
+ * bumping last_verified. Deprecated edges stay in the file for audit
+ * trail but are filtered out of getEdgesFrom / getEdgesTo / queryEdges
+ * by default (those filter by `status === 'active'` unless the caller
+ * opts in to `status: 'all'`).
+ *
+ * Prefer this over physical removal — it preserves history and lets
+ * the discovery-scanner's next run re-emit the edge if the underlying
+ * data still justifies it (status gets flipped back to active via
+ * upsert merge rules).
+ *
+ * Returns { ok, existed, total } where existed indicates whether an
+ * edge with that id was found in the store before the flip.
+ */
+function deprecateEdge(edgeId) {
+  if (!edgeId || typeof edgeId !== 'string') {
+    return { ok: false, existed: false, total: loadEdges().length, error: 'edgeId required' };
+  }
+  const existing = loadEdges();
+  const byId = new Map();
+  for (const e of existing) byId.set(e.id, e);
+
+  const cur = byId.get(edgeId);
+  if (!cur) {
+    return { ok: false, existed: false, total: existing.length, error: `edge ${edgeId} not found` };
+  }
+
+  const updated = {
+    ...cur,
+    status: 'deprecated',
+    last_verified: new Date().toISOString(),
+  };
+  byId.set(edgeId, updated);
+
+  const sorted = Array.from(byId.values()).sort((a, b) =>
+    a.id < b.id ? -1 : a.id > b.id ? 1 : 0
+  );
+
+  const tmp = `${EDGE_FILE}.tmp-${process.pid}-${Date.now()}`;
+  const body = sorted.map((e) => JSON.stringify(e)).join('\n') + '\n';
+  fs.writeFileSync(tmp, body, 'utf-8');
+  fs.renameSync(tmp, EDGE_FILE);
+  clearEdgesCache();
+
+  return { ok: true, existed: true, total: sorted.length };
+}
+
+/**
+ * Flip an edge's status to "active" and bump last_verified. Symmetric
+ * to deprecateEdge. Use this when a user explicitly un-deprecates an
+ * edge through the Ops UI (e.g. realizing the deprecation was wrong).
+ * The scanner won't auto-un-deprecate via upsertEdges — that's a
+ * one-way rule — so this helper is the only path back to active.
+ */
+function activateEdge(edgeId) {
+  if (!edgeId || typeof edgeId !== 'string') {
+    return { ok: false, existed: false, total: loadEdges().length, error: 'edgeId required' };
+  }
+  const existing = loadEdges();
+  const byId = new Map();
+  for (const e of existing) byId.set(e.id, e);
+
+  const cur = byId.get(edgeId);
+  if (!cur) {
+    return { ok: false, existed: false, total: existing.length, error: `edge ${edgeId} not found` };
+  }
+
+  const updated = {
+    ...cur,
+    status: 'active',
+    last_verified: new Date().toISOString(),
+  };
+  byId.set(edgeId, updated);
+
+  const sorted = Array.from(byId.values()).sort((a, b) =>
+    a.id < b.id ? -1 : a.id > b.id ? 1 : 0
+  );
+
+  const tmp = `${EDGE_FILE}.tmp-${process.pid}-${Date.now()}`;
+  const body = sorted.map((e) => JSON.stringify(e)).join('\n') + '\n';
+  fs.writeFileSync(tmp, body, 'utf-8');
+  fs.renameSync(tmp, EDGE_FILE);
+  clearEdgesCache();
+
+  return { ok: true, existed: true, total: sorted.length };
+}
+
 module.exports = {
   loadEdges,
   clearEdgesCache,
@@ -318,6 +406,8 @@ module.exports = {
   queryEdges,
   countEdges,
   upsertEdges,
+  deprecateEdge,
+  activateEdge,
   EDGE_FILE,
 };
 

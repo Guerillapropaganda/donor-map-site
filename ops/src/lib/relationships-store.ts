@@ -10,6 +10,7 @@
  */
 import fs from "fs"
 import path from "path"
+import { execFileSync } from "node:child_process"
 
 // ─── Shared schema types ───────────────────────────────────────────────
 
@@ -202,4 +203,182 @@ export function queryEdges(filter: EdgeFilter = {}): RelationshipEdge[] {
 
 export function countEdges(opts?: EdgeQueryOpts): number {
   return applyOpts(loadEdges(), opts).length
+}
+
+// ─── Write helpers (Phase 3 Part 3b) ───────────────────────────────────
+//
+// These shell out to the CJS store via a Node subprocess. Same pattern
+// as /api/rulebook checkIds: Turbopack can't statically analyze dynamic
+// require() calls, and Next's server bundle resolution doesn't reliably
+// handle absolute Windows paths via createRequire. A plain `node -e`
+// subprocess is the simplest reliable path to the canonical CJS store
+// while keeping the schema logic in a single place.
+//
+// Cost: ~50-150ms per call (Node startup + tiny script evaluation).
+// These are user-initiated actions (clicks on the /relationships page),
+// not a hot path, so the cost is fine. For batch writes, call upsertEdges
+// directly in a long-running Node process instead.
+
+function resolveCjsStorePath(): string {
+  const candidates = [
+    path.resolve(process.cwd(), "..", "scripts", "lib", "relationships-store.cjs"),
+    path.resolve(process.cwd(), "scripts", "lib", "relationships-store.cjs"),
+  ]
+  for (const c of candidates) {
+    if (fs.existsSync(c)) return c
+  }
+  return candidates[0]
+}
+
+interface UpsertResult {
+  added: number
+  updated: number
+  skipped: number
+  invalid: number
+  total: number
+  errors: Array<{ id?: string; from?: string; to?: string; type?: string; error?: string }>
+}
+
+interface StatusFlipResult {
+  ok: boolean
+  existed: boolean
+  total: number
+  error?: string
+}
+
+function resolveCjsValidatorPath(): string {
+  const candidates = [
+    path.resolve(process.cwd(), "..", "scripts", "lib", "relationship-edge-validator.cjs"),
+    path.resolve(process.cwd(), "scripts", "lib", "relationship-edge-validator.cjs"),
+  ]
+  for (const c of candidates) {
+    if (fs.existsSync(c)) return c
+  }
+  return candidates[0]
+}
+
+export interface BuildEdgeInput {
+  from: string
+  to: string
+  type: RelationshipType
+  source: RelationshipSource
+  confidence: number
+  source_url?: string | null
+  evidence?: string[] | null
+  amount?: number | null
+  cycle?: string | null
+  date_range?: string | null
+  role?: string | null
+}
+
+/**
+ * Build a schema-complete RelationshipEdge from minimal input. Handles:
+ *   - title normalization (strip leading "_" and trailing " Master Profile")
+ *   - type + subcategory resolution from the canonical title index
+ *   - direction lookup from TYPE_META (directed vs undirected)
+ *   - canonical from<to order for undirected edges
+ *   - deterministic id hash via computeEdgeId
+ *   - first_seen / last_verified / status defaults
+ *
+ * Shells out to the CJS validator once. Returns a full edge ready for
+ * upsertEdge(), or null if either endpoint can't be resolved in the
+ * title index (caller should treat as a user error).
+ */
+export function buildEdge(input: BuildEdgeInput): RelationshipEdge | null {
+  const storePath = resolveCjsStorePath()
+  const validatorPath = resolveCjsValidatorPath()
+  const expr =
+    `const v=require(${JSON.stringify(validatorPath)});` +
+    `const input=${JSON.stringify(input)};` +
+    `const idx=v.buildTitleIndex();` +
+    `const fromTitle=v.normalizeTitle(input.from);` +
+    `const toTitle=v.normalizeTitle(input.to);` +
+    `const fromEntry=idx.get(fromTitle);` +
+    `const toEntry=idx.get(toTitle);` +
+    `if(!fromEntry||!toEntry){process.stdout.write('null');process.exit(0);}` +
+    `if(Array.isArray(fromEntry)||Array.isArray(toEntry)){process.stdout.write('null');process.exit(0);}` +
+    `const meta=v.TYPE_META[input.type];` +
+    `const direction=meta&&meta.directed===false?'undirected':'directed';` +
+    `let edge={id:'',from:fromTitle,from_slug:null,from_type:fromEntry.type,from_subcategory:fromEntry.subcategory,to:toTitle,to_slug:null,to_type:toEntry.type,to_subcategory:toEntry.subcategory,type:input.type,direction,confidence:input.confidence,source:input.source,source_url:input.source_url||null,evidence:input.evidence||null,amount:typeof input.amount==='number'?input.amount:null,cycle:input.cycle||null,date_range:input.date_range||null,role:input.role||null,first_seen:new Date().toISOString(),last_verified:new Date().toISOString(),status:'active'};` +
+    `if(meta&&meta.directed===false&&edge.from>edge.to){const tf=edge.from,tft=edge.from_type,tfs=edge.from_subcategory;edge.from=edge.to;edge.from_type=edge.to_type;edge.from_subcategory=edge.to_subcategory;edge.to=tf;edge.to_type=tft;edge.to_subcategory=tfs;}` +
+    `edge.id=v.computeEdgeId(edge);` +
+    `process.stdout.write(JSON.stringify(edge));`
+  try {
+    const out = execFileSync("node", ["-e", expr], {
+      encoding: "utf-8",
+      windowsHide: true,
+    })
+    if (out.trim() === "null") return null
+    return JSON.parse(out) as RelationshipEdge
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+  } catch (_e) {
+    return null
+  }
+  // storePath is referenced to silence unused-var warnings in case of
+  // future refactors; buildEdge currently only uses validatorPath.
+  void storePath
+}
+
+/**
+ * Upsert a single edge into the canonical store. Shells out to the
+ * CJS upsertEdges helper via a Node subprocess. The caller is
+ * responsible for building a schema-complete edge (all required fields
+ * present). The server-side CJS validator will reject malformed edges
+ * and return them in the `errors` array — check result.invalid.
+ *
+ * After a successful upsert, calls clearEdgesCache() so the next
+ * loadEdges() call reflects the new state.
+ */
+export function upsertEdge(edge: Partial<RelationshipEdge>): UpsertResult {
+  const storePath = resolveCjsStorePath()
+  const expr =
+    `const s=require(${JSON.stringify(storePath)});` +
+    `const edge=${JSON.stringify(edge)};` +
+    `process.stdout.write(JSON.stringify(s.upsertEdges([edge])));`
+  const out = execFileSync("node", ["-e", expr], {
+    encoding: "utf-8",
+    windowsHide: true,
+  })
+  const result = JSON.parse(out) as UpsertResult
+  clearEdgesCache()
+  return result
+}
+
+/**
+ * Flip an edge's status to "deprecated" and bump last_verified.
+ * Soft-delete: the edge stays in the file for audit trail but is
+ * filtered out of the default loadEdges view.
+ */
+export function deprecateEdge(edgeId: string): StatusFlipResult {
+  const storePath = resolveCjsStorePath()
+  const expr =
+    `const s=require(${JSON.stringify(storePath)});` +
+    `process.stdout.write(JSON.stringify(s.deprecateEdge(${JSON.stringify(edgeId)})));`
+  const out = execFileSync("node", ["-e", expr], {
+    encoding: "utf-8",
+    windowsHide: true,
+  })
+  const result = JSON.parse(out) as StatusFlipResult
+  clearEdgesCache()
+  return result
+}
+
+/**
+ * Flip an edge's status back to "active". Use this when a user
+ * explicitly un-deprecates through the Ops UI. The scanner will NOT
+ * auto-un-deprecate via upsertEdges (that's a one-way rule), so this
+ * is the only path back to active.
+ */
+export function activateEdge(edgeId: string): StatusFlipResult {
+  const storePath = resolveCjsStorePath()
+  const expr =
+    `const s=require(${JSON.stringify(storePath)});` +
+    `process.stdout.write(JSON.stringify(s.activateEdge(${JSON.stringify(edgeId)})));`
+  const out = execFileSync("node", ["-e", expr], {
+    encoding: "utf-8",
+    windowsHide: true,
+  })
+  const result = JSON.parse(out) as StatusFlipResult
+  clearEdgesCache()
+  return result
 }
