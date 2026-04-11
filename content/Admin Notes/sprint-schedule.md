@@ -789,6 +789,42 @@ phase_1_tasks:
       notes: |
         scripts/lib/relationships-store.cjs new upsertEdges(newEdges) helper with merge semantics (higher-confidence source overwrites, non-null fields win, evidence arrays dedup-merged, first_seen preserved). scripts/relationship-discovery.cjs new --write-edges flag, DISCOVERY_TYPE_MAP (related/donors/opposes/stories → related/monetary/political-opposition/story-link), DISCOVERY_CONFIDENCE_MAP (low 0.55 / medium 0.70 / high 0.85), emitSuggestionsAsJsonlEdges() maps each suggestion, builds title index once, skips contradictions/unknown types/missing endpoints/collisions/typeless endpoints. story-link edges default to role "mentioned". Data after run: 19,848 edges total (up from 12,737, +7,111 new + 52 upgraded). story-link jumped 17 → 1,940 (discovery scanner's wikilink-proximity found ~1,900 profile↔story links migration missed). By source: 12,685 frontmatter-migration + 7,163 discovery-scanner. Full validator pass. connection-suggester.cjs intentionally NOT retargeted (proposes hypotheses, not facts). contradiction-scanner.cjs deferred to Phase 3 Part 2b (it's a query, not a producer — its input should read JSONL).
 
+    - id: cc_58
+      task: "Phase 3 Part 2b: contradiction-scanner reads JSONL edge store"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T14:25:00-07:00"
+      added_adhoc: true
+      commit: "ebf98769"
+      merge: "aefaa483"
+      deploy: "24291972761"
+      notes: |
+        scripts/contradiction-scanner.cjs: checks 1 (shared-donor contradictions) and 2 (both-sides donors) rewritten to query monetary + political-opposition edges via scripts/lib/relationships-store.cjs. New loadPoliticianMetadata() and loadDonorEntityMetadata() helpers do quick frontmatter walks for party/state/chamber/sector metadata that isn't denormalized in JSONL. findSharedDonorContradictions builds Set of unordered opposition pairs from 47 opposition edges, groups 928 monetary edges by donor, checks recipient pairs — found 15 opposition-funded contradictions. findBothSidesDonors buckets 928 monetary edges by donor→party, dedupes recipients per party — found 78 both-sides donors (27 high story potential, 51 medium). Checks 3+4 (cross-ref mismatches, opposition gaps) preserved as frontmatter linters for hand-edit drift. main() conditionally loads edge metadata vs frontmatter walker based on --check flag so --check=both-sides skips the vault walk entirely. Report JSON gains edgeCount and source:"phase3-part2b" markers.
+
+    - id: cc_59
+      task: "Phase 3 Part 2c: wire relationship-discovery --write-edges into attention-dispatcher"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T14:30:00-07:00"
+      added_adhoc: true
+      commit: "c1c6bfe7"
+      merge: "82a1f66e"
+      deploy: "24292012983"
+      notes: |
+        scripts/attention-dispatcher.cjs: PRODUCERS registry gains optional args:[] and timeout_ms:number fields (existing 5 producers unchanged). New relationship-discovery producer registered with schedule "17 */4 * * *" (every 4 hours at :17, staggered against hourly/2-hourly schedules), args ["--write-edges"], timeout_ms 180_000 (3 min override for slower full-vault pass). runProducer() threads producer.args through spawn() and uses per-producer timeout for kill fallback. Verified via --run-now: all 6 producers run serially, relationship-discovery completes in 5.6s (well under 3-min budget), other producers 200-500ms each. Post-run canonical store still at 19,848 edges, all valid. Closes the loop — JSONL store stays current as profiles change without manual intervention.
+
+    - id: cc_60
+      task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T14:40:00-07:00"
+      added_adhoc: true
+      commit: "6ae7b5dd"
+      merge: "cd9dfee8"
+      deploy: "24292093101"
+      notes: |
+        ops/src/app/api/connections/route.ts full rewrite. Replaces frontmatter walker with loadEdges() from ops/src/lib/relationships-store.ts. Response shape preserved 1:1 so the 1,477-line /relationships page, RelatedProfiles dashboard widget, and any future ops consumers work unchanged. New mapToLegacyType() translates Phase 3 10-type enum back to legacy 4-value enum (monetary→donors, political-opposition→opposes, story-link→stories, related→related). New flipForLegacy() flips monetary edge endpoints (JSONL stores donor→politician, legacy API expected politician's view of its donors: field). New buildProfileMetadataMap() walks content/ once to build title→path/type/mtime map (path metadata is profile-level, not edge-level). Live preview_eval on localhost:3333 confirmed 19,357 connections (up from ~13k old walker), breakdown 16,442 related / 928 donors / 47 opposes / 1,940 stories (stories up from ~17 — discovery-scanner's wikilink-proximity edges now visible to every ops consumer), unconnectedCount 50 (down from ~600). /relationships page rendered cleanly, headline "19357 connections across the vault", all breakdown chips correct, Recent Connections shows discovery-scanner findings like "Koch Network funds 3 Judiciary committee members → Jim Jordan/Ted Cruz/Mike Lee" that the old walker could never see. Phase 3 Part 3b (POST/DELETE retarget) and Part 4 (Quartz component migration) remain. Response gains source:"phase3-part3-jsonl" marker.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -1119,7 +1155,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-11 (night continuation — cc_50 through cc_57 added: Phase 2a Part 3 editor UI + followups, Phase 3 Part 1 canonical JSONL edge store + Part 2a discovery→JSONL, Phase 1d type-aware vault health, Phase 2b S-Tier filter + stat card, editor-vouched escape hatch, story editorial pass 3-of-12)**
+**Schedule last updated: 2026-04-11 (night continuation #2 — cc_58, cc_59, cc_60 added: Phase 3 Part 2b contradiction-scanner reads JSONL, Part 2c relationship-discovery wired into attention-dispatcher, Part 3 /api/connections GET reads JSONL. The canonical edge store is now the source of truth for both read and automation paths; write path and Quartz consumers still pending.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
