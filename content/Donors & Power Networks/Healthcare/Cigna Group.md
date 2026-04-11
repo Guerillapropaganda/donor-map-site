@@ -2,7 +2,7 @@
 title: "Cigna Group"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -29,6 +29,32 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
+sec-filings: 10000
+sec-form-types:
+  - "10-K"
+  - "11-K"
+  - "144"
+  - "3"
+  - "4"
+  - "424B2"
+  - "424B5"
+  - "8-K"
+  - "ARS"
+  - "DEF 14A"
+  - "DEFA14A"
+  - "EX-10.01"
+  - "EX-10.14C"
+  - "EX-19.1"
+  - "EX-32.1"
+  - "EX-32.2"
+  - "EX-99.1"
+  - "NPORT-P"
+  - "PRE 14A"
+  - "PROXY VOTING RECORD"
+  - "S-3ASR"
+  - "SCHEDULE 13G/A"
+lobbying-spend: 20960000
+lobbying-filings: 54
 ---
 #cigna #health-insurance #lobbying #pbm #express-scripts #healthcare
 
@@ -164,3 +190,42 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cigna%20Group%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 11-K, 144, 3, 4, 424B2, 424B5, 8-K +14 more |
+| CIK | 1739940 |
+| Ticker | CI |
+
+**Notable filings:**
+
+- 2026-04-03 — **3**: [FORM 3](https://www.sec.gov/Archives/edgar/data/1739940/000173994026000025/0001739940-26-000025-index.htm)
+- 2026-03-26 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/1739940/000010290926000482/0000102909-26-000482-index.htm)
+- 2026-03-13 — **ARS**: [ARS](https://www.sec.gov/Archives/edgar/data/1739940/000114036126009402/0001140361-26-009402-index.htm)
+- 2026-03-13 — **DEFA14A**: [DEFA14A](https://www.sec.gov/Archives/edgar/data/1739940/000114036126009400/0001140361-26-009400-index.htm)
+- 2026-03-13 — **DEF 14A**: [DEF 14A](https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/0001739940-26-000023-index.htm)
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Cigna%20Group%22) (Tier 1)
+<!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $21.0M |
+| Quarterly Filings | 54 |
+| Year Range | 2024-2025 |
+| Lobbying Firms | 10 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Budget/Appropriations, Defense, Health Issues, Labor Issues/Antitrust/Workplace, Medicare/Medicaid, Pharmacy, Taxation/Internal Revenue Code
+
+**Lobbying firms:** ATLAS CROSSING LLC, BANNER PUBLIC AFFAIRS, LLC, BELLWETHER GOVERNMENT AFFAIRS LLC, CAPITOL HILL CONSULTING GROUP, INVARIANT LLC, POLARIS GOVERNMENT RELATIONS, LLC, SALT POINT STRATEGIES, THE CIGNA GROUP AND SUBSIDIARIES (FORMERLY CIGNA CORPORATION AND SUBSIDIARIES), TIBER CREEK GROUP, WILMER CUTLER PICKERING HALE AND DORR LLP
+
+**Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Executive Office of the President (EOP), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), SENATE
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cigna%20Group) (Tier 1)
+<!-- auto:lda-lobbying end -->

@@ -2,7 +2,7 @@
 title: "Securities & Investment Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -27,6 +27,8 @@ sec-form-types:
   - "PRER14A"
   - "S-4"
 related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Kenneth Griffin]] · [[Wall Street Finance PACs]] · [[Wall Street Bloc]] · [[Financial Services Donors]]"
+lobbying-spend: 18617694
+lobbying-filings: 66
 ---
 #securities #investment #wall-street #hedge-fund #private-equity #carried-interest #bipartisan
 
@@ -89,3 +91,22 @@ The industry's political priorities are bipartisan by design: carried interest t
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Securities%20%26%20Investment%20Industry%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $18.6M |
+| Quarterly Filings | 66 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 20 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Accounting, Banking, Budget/Appropriations, Commodities (big ticket), Environment/Superfund, Financial Institutions/Investments/Securities, Homeland Security, Labor Issues/Antitrust/Workplace, Retirement, Taxation/Internal Revenue Code, Trade (domestic/foreign)
+
+**Lobbying firms:** ADISA - ALTERNATIVE & DIRECT INVESTMENT, ADVANCED POLICY CONSULTING, LLC, AMERICAN BANKERS ASSOCIATION SECURITIES ASSOCIATION (ABASA), AMERICAN SECURITIES ASSOCIATION, AVOQ, LLC, BGR GOVERNMENT AFFAIRS, CAPITOL TAX PARTNERS, LLP, CROSSROADS STRATEGIES, LLC, ERNST & YOUNG LLP (WASHINGTON COUNCIL ERNST & YOUNG), FEDERAL HALL POLICY ADVISORS, LLC, HARBINGER STRATEGIES, LLC, HILLSTAFFER, LLC, MINDSET ADVOCACY, LLC, PRICEWATERHOUSECOOPERS, RICH FEUER ANDERSON, SECURITIES INDUSTRY AND FINANCIAL MARKETS ASSOCIATION, STEPTOE LLP, T CAP SOLUTIONS, LLC, THE PENNSYLVANIA AVENUE GROUP, TIBER CREEK GROUP
+
+**Agencies contacted:** Commodity Futures Trading Commission (CFTC), Congressional Budget Office (CBO), Executive Office of the President (EOP), Federal Deposit Insurance Corporation (FDIC), Federal Housing Finance Agency (FHFA), Federal Reserve System, HOUSE OF REPRESENTATIVES, Homeland Security, Dept of (DHS), Internal Revenue Service (IRS), Labor, Dept of (DOL) +6 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Securities%20%26%20Investment%20Industry) (Tier 1)
+<!-- auto:lda-lobbying end -->

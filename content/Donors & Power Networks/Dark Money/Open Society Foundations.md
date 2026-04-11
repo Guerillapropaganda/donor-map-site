@@ -218,7 +218,7 @@ OSF operates within a broader ecosystem of Democratic mega-donor funding:
 
 - [[Gavin Newsom]] — contracts: $19K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

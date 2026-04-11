@@ -2,7 +2,7 @@
 title: "Honeywell International"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -52,6 +52,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+lei: "5493009W7CBW32FX0K77"
+lei-jurisdiction: "CH"
+lei-parent: "HONEYWELL INTERNATIONAL INC."
 ---
 
 #defense-contractor #aerospace #pac-donor #defense-committee #bipartisan
@@ -259,3 +262,23 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [5493009W7CBW32FX0K77](https://search.gleif.org/#/record/5493009W7CBW32FX0K77) |
+| Legal Name | HONEYWELL INTERNATIONAL SÀRL |
+| Jurisdiction | CH |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2026-04-01T08:25:14Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [HONEYWELL INTERNATIONAL INC.](https://search.gleif.org/#/record/ISRPG12PN4EIEOEMW547) (US-DE)
+- HONEYWELL INTERNATIONAL SÀRL (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

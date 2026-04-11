@@ -2,7 +2,7 @@
 title: "Mark Takano"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,7 +11,8 @@ state: "California"
 state-abbr: "CA"
 district: "39"
 committees:
-  - "Veterans' Affairs"
+  - "House Committee on Education and Workforce"
+  - "House Committee on Veterans' Affairs"
 leadership-roles:
   - "Ranking Member"
 total-received: "$524,547"
@@ -23,6 +24,27 @@ reenrich-reason: "re-run fec pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-11"
+bioguide-id: "C001091"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Energy"
+  - "Government Operations and Politics"
+  - "Health"
+total-raised: "$524,547"
+total-spent: "$617,219"
+cash-on-hand: "176497.76"
+fec-cycle: 2026
+wikidata-id: "Q399593"
+wikipedia-url: "https://en.wikipedia.org/wiki/Mark_Takano"
+wikipedia-extract: "Mark Allan Takano is an American politician and academic who has served in the United States House of Representatives since 2013, representing California's 41st congressional district from 2013 to 202..."
+born: "1960-12-10"
 ---
 #mark-takano #democrat #california #house #ranking-member #veterans-affairs #pact-act #lgbtq #teacher #doge #va-workforce #toxic-exposure #phase-6-gavel-power
 
@@ -149,3 +171,127 @@ The analytical interest is the PACT Act's fate after Takano lost the chairmanshi
 
 - [Congress.gov: Mark Takano](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | California |
+| Chamber | House of Representatives |
+| Bills Sponsored | 223 |
+| Bills Cosponsored | 3827 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Economics and Public Finance, Education, Energy, Government Operations and Politics, Health, Immigration, Labor and Employment, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1162 | Supporting the goals and ideals of Glisten's (formerly GLSEN's) 2026 Day of Sile… | Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7853 | PrEP Access and Coverage Act of 2026 | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Oversight and Government Reform, Ways and Means, Veterans' Affairs, Armed Services, Natural Resources, Financial Services, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7238 | Commission on Equity and Reconciliation in the Uniformed Services Act | Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7048 | Unsubscribe Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+| 5786 | White House NOT FOR SALE Act | Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5787 | BALL Act | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
+| 5723 | Fraud Reduction And Uncovering Deception (FRAUD) in VA Disability Exams Act | Forwarded by Subcommittee to Full Committee by Voice Vote. |
+| 5535 | Veteran Service Recognition Act of 2025 | Referred to the Committee on the Judiciary, and in addition to the Committees on Veterans' Affairs, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/T000472) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Education and Workforce
+- House Committee on Veterans' Affairs
+
+**Subcommittees:**
+
+- Health, Employment, Labor, and Pensions
+- Higher Education and Workforce Development
+- Workforce Protections
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $524,547 |
+| Total Spent | $617,219 |
+| Cash on Hand | 176497.76 |
+| Individual Contributions | $230,172 |
+| PAC Contributions | $222,250 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $524,547 | $617,219 | 176497.76 |
+| 2024 | $1,289,818 | $1,511,854 | 269169.88 |
+| 2022 | $1,254,504 | $927,262 | 491205.72 |
+| 2020 | $1,033,950 | $962,989 | 163964.12 |
+| 2018 | $1,076,805 | $1,100,015 | 93002.94 |
+| 2016 | $1,075,393 | $999,113 | 116212.76 |
+| ... | 4 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $524,547 |
+| Individual Contributions | $230,172 |
+| PAC Contributions | $222,250 |
+| Cash on Hand | 176497.76 |
+| IE Support (Super PAC) | $519,517 |
+| IE Opposition (Super PAC) | $440,000 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $524,547 | $230,172 | $222,250 |
+| 2024 | $1,289,818 | $569,298 | $537,500 |
+| 2022 | $1,254,504 | $713,601 | $393,944 |
+| 2020 | $1,033,950 | $612,350 | $347,364 |
+| 2018 | $1,076,805 | $639,232 | $341,100 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| US CHAMBER OF COMMERCE | $0 | $440,000 |
+| EQUALITY PROJECT PAC | $282,249 | $0 |
+| CALIFORNIANS FOR SACRED SITES PROTECTION | $144,114 | $0 |
+| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $70,135 | $0 |
+| PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC | $11,245 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2CA43245/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Mark Allan Takano is an American politician and academic who has served in the United States House of Representatives since 2013, representing California's 41st congressional district from 2013 to 202...
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q399593](https://www.wikidata.org/wiki/Q399593) |
+| Description | American politician (born 1960) |
+| Born | 1960-12-10 |
+| Website | [https://takano.house.gov](https://takano.house.gov) |
+| X/Twitter | [@RepMarkTakano](https://x.com/RepMarkTakano) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/TakanoM-CA41D.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Mark_Takano) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q399593) (Tier 2)
+<!-- auto:wikipedia end -->

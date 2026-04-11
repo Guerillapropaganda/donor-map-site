@@ -224,3 +224,10 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 - [Source: Congress.gov](https://www.congress.gov/member/W000821) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Bruce Westerman](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

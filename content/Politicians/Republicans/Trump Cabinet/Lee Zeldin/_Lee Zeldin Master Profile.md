@@ -196,3 +196,17 @@ Lee Michael Zeldin is an American politician and lawyer serving as the 17th admi
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Lee_Zeldin) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q16221257) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | None |
+
+**Donors who lobby (by spend):**
+
+- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

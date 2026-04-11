@@ -2,7 +2,7 @@
 title: "Kaiser Permanente"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Healthcare"
@@ -21,7 +21,7 @@ net-assets: "$30.0M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-11"
 nonprofit-status: "501(c)(5)"
 total-revenue: 23524060
 total-assets: 28875574

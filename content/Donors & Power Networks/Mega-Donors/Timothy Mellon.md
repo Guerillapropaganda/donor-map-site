@@ -286,7 +286,7 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 - [[JD Vance]] — lobbying: $1.9M
 - [[Mitch McConnell]] — lobbying: $1.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

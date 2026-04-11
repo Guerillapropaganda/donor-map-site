@@ -2,7 +2,7 @@
 title: "GEO Group - Private Prison Industrial Complex"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Carceral State"
@@ -15,7 +15,7 @@ politicians-funded:
   - "Pam Bondi"
 federal-contracts: "959292"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 ofac-programs:
   - "NPWMD] [IFSR"
   - "IRAN-EO13871"
@@ -590,7 +590,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [[Marco Rubio]] — lobbying: $2.6M — contracts: $959K
 - [[Pam Bondi]] — lobbying: $2.6M — contracts: $959K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### OFAC Sanctions Screening

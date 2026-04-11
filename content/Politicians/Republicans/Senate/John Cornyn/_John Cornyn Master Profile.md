@@ -14,9 +14,16 @@ committees:
   - "Intelligence"
   - "Finance"
 issues:
-  - "Energy & Climate"
-  - "Defense & Military"
-  - "Gun Policy"
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
+  - "International Affairs"
+  - "Law"
 top-donors:
   - "ExxonMobil"
   - "Chevron"
@@ -234,17 +241,20 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 2 |
-| Committee Overlap Detected | 1 donor |
+| Donors Who Also Lobby | 2 of 3 |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
+- **Koch Network - Charles Koch** donates → Lobbies on **Banking** → This member sits on **Finance**
+- **Koch Network - Charles Koch** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
+- **Koch Network - Charles Koch** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
 - **US Chamber of Commerce** donates → Lobbies on **Banking** → This member sits on **Finance**
 - **US Chamber of Commerce** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
 - **US Chamber of Commerce** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
@@ -254,9 +264,10 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 
 **Donors who lobby (by spend):**
 
+- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[US Chamber of Commerce]] — $790K lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -283,3 +294,32 @@ In the 2026 Republican primary, Cornyn faces Ken Paxton (backed by Trump-aligned
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Texas |
+| Chamber | Senate |
+| Bills Sponsored | 1592 |
+| Bills Cosponsored | 4023 |
+
+**Policy areas:** Armed Forces and National Security, Commerce, Congress, Crime and Law Enforcement, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Law, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4260 | Child Predators Accountability Act | Read twice and referred to the Committee on the Judiciary. |
+| 4224 | A bill to amend title 18, United States Code, to prohibit certain aliens from pr… | Read twice and referred to the Committee on the Judiciary. |
+| 4205 | No Funding to Honor Crime Scenes Act | Read twice and referred to the Committee on Energy and Natural Resources. |
+| — |  | Amendment SA 4707 agreed to in Senate by Unanimous Consent. |
+| 4123 | End Special Treatment for Congress at Airports Act of 2026 | Held at the desk. |
+| 4117 | Federal Law Enforcement Officer Service Weapon Purchase Act of 2026 | Read twice and referred to the Committee on the Judiciary. |
+| 4078 | Stop Somali CASH Fraud Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| — |  | Amendment SA 5115 agreed to in Senate by Unanimous Consent. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001056) (Tier 1)
+<!-- auto:congress-legislation end -->

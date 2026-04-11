@@ -200,6 +200,28 @@ The industry's structural function for the donor class: maintain Democratic cult
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Active Lobbyist | Yes |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Barack Obama]] — lobbying: $24.9M — contracts: $997K
+- [[Joe Biden]] — lobbying: $24.9M — contracts: $997K
+- [[Hillary Clinton]] — lobbying: $24.9M — contracts: $997K
+- [[Jon Ossoff]] — lobbying: $24.9M — contracts: $997K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 

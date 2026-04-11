@@ -2,7 +2,7 @@
 title: "Jamie Raskin"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,7 +11,7 @@ state: "Maryland"
 state-abbr: "MD"
 district: "8"
 committees:
-  - "Judiciary"
+  - "House Committee on the Judiciary"
 leadership-roles:
   - "Ranking Member"
 total-received: "$4,396,225"
@@ -23,7 +23,7 @@ website: "https://raskin.house.gov"
 phone: "202-225-5341"
 donors: "[[UNITE HERE]] · [[Demand Justice]]"
 related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
 bioguide-id: "R000606"
@@ -42,6 +42,14 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: "$4,396,225"
+total-spent: "$2,984,270"
+cash-on-hand: "6377157.84"
+fec-cycle: 2026
+wikidata-id: "Q640835"
+wikipedia-url: "https://en.wikipedia.org/wiki/Jamie_Raskin"
+wikipedia-extract: "Jamin Ben Raskin is an American attorney, law professor, and politician serving as the U.S. representative for Maryland's 8th congressional district since 2017."
+born: "1962-12-13"
 ---
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment
 
@@ -245,3 +253,89 @@ On campaign finance reform, he leads with the structural argument — corporatio
 
 - [Source: Congress.gov](https://www.congress.gov/member/R000606) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on the Judiciary
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $4,396,225 |
+| Total Spent | $2,984,270 |
+| Cash on Hand | 6377157.84 |
+| Individual Contributions | $2,009,801 |
+| PAC Contributions | $272,483 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $4,396,225 | $2,984,270 | 6377157.84 |
+| 2024 | $4,843,711 | $2,999,507 | 4965203.04 |
+| 2022 | $4,701,192 | $2,918,723 | 3120998.44 |
+| 2020 | $2,111,542 | $1,438,142 | 1338529.72 |
+| 2018 | $1,185,776 | $872,438 | 665129.75 |
+| 2016 | $2,555,285 | $2,203,493 | 351791.83 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-politician start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $4,396,225 |
+| Individual Contributions | $2,009,801 |
+| PAC Contributions | $272,483 |
+| Cash on Hand | 6377157.84 |
+| IE Support (Super PAC) | $103,431 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $4,396,225 | $2,009,801 | $272,483 |
+| 2024 | $4,843,711 | $2,213,756 | $472,573 |
+| 2022 | $4,701,192 | $2,749,422 | $394,230 |
+| 2020 | $2,111,542 | $1,378,571 | $421,500 |
+| 2018 | $1,185,776 | $623,387 | $339,300 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FREETHOUGHT EQUALITY SUPER PAC | $72,200 | $0 |
+| NEA ADVOCACY FUND | $13,321 | $0 |
+| NEA FUND FOR CHILDREN AND PUBLIC EDUCATION | $10,000 | $0 |
+| MAYDAY PAC | $7,717 | $0 |
+| PLANNED PARENTHOOD VOTES | $124 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MD08457/) (Tier 1)
+<!-- auto:fec-politician end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Jamin Ben Raskin is an American attorney, law professor, and politician serving as the U.S. representative for Maryland's 8th congressional district since 2017.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q640835](https://www.wikidata.org/wiki/Q640835) |
+| Description | American lawyer, politician, and U.S. Representative from Maryland since 2017 |
+| Born | 1962-12-13 |
+| Website | [https://jamieraskin.com/](https://jamieraskin.com/) |
+| X/Twitter | [@RepRaskin](https://x.com/RepRaskin) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Jamie_Raskin_Official_Portrait_2019.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamie_Raskin) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q640835) (Tier 2)
+<!-- auto:wikipedia end -->

@@ -168,3 +168,21 @@ The February 28, 2026 US-Israel strikes on Iran and the subsequent Strait of Hor
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search/?hash=subaward-Fossil%20Fuel%20Bloc) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Energy & Climate** → Funds **John Hickenlooper** → Sits on **Senate Committee on Energy and Natural Resources**
+
+**Funded politicians:**
+
+- [[John Hickenlooper]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Energy and Natural Resources, Senate Committee on Health, Education, Labor, and Pensions)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

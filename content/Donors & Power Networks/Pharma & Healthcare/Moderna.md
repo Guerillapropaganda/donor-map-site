@@ -2,7 +2,7 @@
 title: "Moderna"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -63,6 +63,11 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SCHEDULE 13G/A"
+federal-awards-total: 64957786
+federal-contracts-count: 6
+federal-grants-count: 1
+lei: "549300EI6OKH5K5Q2G38"
+lei-jurisdiction: "US-DE"
 ---
 #moderna #pharma #mrna #covid #vaccine #pricing #nih #public-funding #patent
 
@@ -209,3 +214,46 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moderna%22) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+### Federal Spending (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $65.0M |
+| Contracts (recent 3yr) | 6 ($10.0B sampled) |
+| Grants (recent 3yr) | 1 ($998K sampled) |
+| Federal Agencies | 4 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $8.2B | Department of Defense | 100M SARS-COV-2 MRNA-1273 VACCINE DOSES |
+| $1.8B | Department of Health and Human Services | DEVELOPMENT OF MRNA VACCINE TO LICENSURE FOR THE PREVENTION OF COVID-19. CLIN 0001 - PRE-AWARD COST, |
+| $73.0M | Department of Health and Human Services | MODERNA THERAPEUTICS, INC:ADVANCE THE DEVELOPMENT OF AN MRNA VACCINE FOR THE PREVENTION OF ZIKA VIRU |
+| $15K | Department of Agriculture | PROCURE A TRIMBLE R750 GNSS RECEIVER AND BASE STATION |
+| $12K | Department of Veterans Affairs | COVID VACCINES |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $998K | Department of Agriculture | REAP RENEWABLE ENERGY SYSTEM (RES) GRANT UNRESTRICTED AMOUNT |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/66590305-5fdd-1563-0f35-a5154ede043a-C/latest) (Tier 1)
+<!-- auto:usaspending end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300EI6OKH5K5Q2G38](https://search.gleif.org/#/record/549300EI6OKH5K5Q2G38) |
+| Legal Name | MODERNA, INC. |
+| Jurisdiction | US-DE |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-12-16T10:33:56Z |
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -2,7 +2,7 @@
 title: "Everytown for Gun Safety"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -35,6 +35,19 @@ tax-year: "2023"
 related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]] · [[Michael Bloomberg]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[Adam Schiff]]"
 lobbying-spend: 5215000
 lobbying-filings: 42
+sec-filings: 15
+sec-form-types:
+  - "10-K"
+  - "424B4"
+  - "ARS"
+  - "DEF 14A"
+  - "DRS"
+  - "EX-99.1"
+  - "EX-99.2"
+  - "PRE 14A"
+  - "PX14A6G"
+  - "S-1"
+  - "S-1/A"
 ---
 #donor #gun-control #bloomberg #class-analysis #follow-the-money #everytown #moms-demand-action #national #california
 
@@ -232,7 +245,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -251,6 +264,24 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 - [[Hakeem Jeffries]] — lobbying: $5.2M
 - [[Chris Murphy]] (Foreign Relations, Appropriations) — lobbying: $5.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 15 |
+| Form Types | 10-K, 424B4, ARS, DEF 14A, DRS, EX-99.1, EX-99.2, PRE 14A +3 more |
+
+**Notable filings:**
+
+- 2018-04-24 — **PX14A6G**: NOTICE OF EXEMPT SOLICITATION
+- 2022-08-16 — **PX14A6G**: PX14A6G
+- 2019-02-08 — **EX-99.1**: EX-99.1
+- 2023-04-28 — **DEF 14A**: DEF 14A
+- 2024-04-09 — **PRE 14A**: PRE 14A
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Everytown%20for%20Gun%20Safety%22) (Tier 1)
+<!-- auto:sec-edgar end -->

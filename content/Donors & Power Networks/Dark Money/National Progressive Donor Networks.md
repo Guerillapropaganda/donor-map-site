@@ -65,7 +65,7 @@ The progressive donor network extends beyond DA to include: the Arabella Advisor
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 2 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
@@ -73,7 +73,6 @@ The progressive donor network extends beyond DA to include: the Arabella Advisor
 
 - [[Tom Steyer]] — lobbying: $3.1M
 - [[Mallory McMorrow]] — lobbying: $3.1M
-- [[Zach Wahls]] — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

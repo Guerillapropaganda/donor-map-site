@@ -229,5 +229,5 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 
 - [[Legal Sector Donors]] — $7.7M lobbying spend (Accounting, Advertising, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

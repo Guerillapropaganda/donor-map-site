@@ -2,7 +2,7 @@
 title: "Hospital Corporation of America - HCA"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -12,7 +12,9 @@ issues:
 related: "[[Humana]] · [[The Medicare Fraud Governor and Senate Campaign]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[UnitedHealth Group - Optum]] · [[CVS Health - Aetna]] · [[Private Equity Industry Bloc]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
+ftc-enforcement-actions: 1
+ftc-hsr-notices: 6
 ---
 #hca #healthcare #hospitals #for-profit #private-equity #frist #tennessee
 
@@ -82,3 +84,32 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Hospital%20Corporation%20of%20America%20-%20HCA) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 1 |
+| HSR early termination notices (merger filings) | 6 |
+| Most recent enforcement action | 1998-07-30 |
+
+**Enforcement by type:**
+
+- Civil Penalty (Order Violation): 1
+
+**Recent enforcement actions (historical):**
+
+- [Columbia / HCA HealthCare Corp](http://www.ftc.gov/os/caselist/c3544.shtm) (1998-07-30)
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [HCA Healthcare, Inc. → Isleworth Partners, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20191234) (2019-05-17)
+- [HCA Healthcare, Inc. → North Cypress Medical Center Operation Company, LTD](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181355) (2018-06-06)
+- [HCA Healthcare, Inc. → Memorial Health, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180288) (2017-12-08)
+- [HCA Healthcare, Inc. → Community Health System, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171251) (2017-06-29)
+- [HCA Healthcare, Inc. → Tenet Healthcare Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171206) (2017-06-29)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Hospital%20Corporation%20of%20America%20-%20HCA).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Hospital%20Corporation%20of%20America%20-%20HCA) (Tier 1)
+<!-- auto:ftc-enforcement end -->

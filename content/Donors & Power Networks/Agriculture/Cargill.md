@@ -2,7 +2,7 @@
 title: "Cargill"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -24,7 +24,7 @@ federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Ethanol Industry]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 sec-filings: 10000
 sec-form-types:
   - "10-Q"
@@ -90,6 +90,8 @@ court-jurisdictions:
   - "United States Bankruptcy Court, N.D. Florida"
 fda-recalls: 42
 fda-recalls-class-i: 10
+ftc-enforcement-actions: 0
+ftc-hsr-notices: 30
 ---
 #cargill #agriculture #commodities #grain #trade #private #family
 
@@ -293,3 +295,23 @@ _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Ca
 
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Cargill) (Tier 1)
 <!-- auto:fda-enforcement end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 0 |
+| HSR early termination notices (merger filings) | 30 |
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Cargill, Incorporated → CW Brand Holdings, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180220) (2017-11-28)
+- [Mitsubishi Corporation → Cargill Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20172017) (2017-09-29)
+- [Cargill, Incorporated → Southern States Cooperative, Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171826) (2017-09-05)
+- [Macquarie Group Limited → Cargill Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171540) (2017-07-18)
+- [Macquarie Group Limited → Cargill, Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171126) (2017-05-19)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill) (Tier 1)
+<!-- auto:ftc-enforcement end -->

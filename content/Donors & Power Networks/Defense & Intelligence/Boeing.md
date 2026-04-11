@@ -308,18 +308,19 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 7 |
-| Committee Overlap Detected | 7 politicians |
+| Politicians Funded | 8 |
+| Committee Overlap Detected | 8 politicians |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
+- Lobbies on **Defense & Military** → Funds **Elizabeth Warren** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
@@ -330,6 +331,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 **Funded politicians:**
 
 - [[Kay Granger]] (Appropriations)
+- [[Elizabeth Warren]] (Banking, Housing & Urban Affairs, Finance, Armed Services)
 - [[Adam Smith]] (Armed Services)
 - [[Jack Reed]] (Armed Services)
 - [[Patty Murray]] (Appropriations)
@@ -337,7 +339,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 - [[Mike Rogers]] (Armed Services)
 - [[Tom Cole]] (Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

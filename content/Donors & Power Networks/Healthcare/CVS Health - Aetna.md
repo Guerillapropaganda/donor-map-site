@@ -2,7 +2,7 @@
 title: "CVS Health - Aetna"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -10,9 +10,11 @@ entity-type: "Corporation"
 related: "[[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 lobbying-spend: 21190000
 lobbying-filings: 56
+ftc-enforcement-actions: 0
+ftc-hsr-notices: 17
 ---
 #cvs #aetna #health-insurance #pbm #pharmacy #vertical-integration #lobbying
 
@@ -119,3 +121,23 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=CVS%20Health%20-%20Aetna) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 0 |
+| HSR early termination notices (merger filings) | 17 |
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Mitchell Topco Holdings, Inc. → CVS Health Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200892) (2020-04-08)
+- [CVS Health Corporation → Centene Corporation](https://www.ftc.gov/legal-library/browse/early-termination-notices/20200409) (2020-01-22)
+- [Aetna Inc. → bSwift LLC](https://www.ftc.gov/legal-library/browse/early-termination-notices/20150179) (2014-11-20)
+- [Aetna Inc. → Oak Investment Partners XII, Limited Partnership](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111179) (2011-08-05)
+- [Aetna Inc. → Genworth Financial, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20111076) (2011-07-11)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=CVS%20Health%20-%20Aetna).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=CVS%20Health%20-%20Aetna) (Tier 1)
+<!-- auto:ftc-enforcement end -->

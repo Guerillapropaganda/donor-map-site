@@ -2,7 +2,7 @@
 title: "Jeff Merkley Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,8 +13,14 @@ committees:
   - "Budget"
   - "Environment & Public Works"
 issues:
-  - "Housing"
-  - "Environment"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Energy"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Health"
+  - "International Affairs"
+  - "Native Americans"
+  - "Transportation and Public Works"
 top-donors:
   - "Labor Unions"
   - "Small Dollar Donors"
@@ -27,8 +33,9 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Chuck Schumer Master Profile|Chuck Schumer]]"
+bioguide-id: "M001176"
 ---
 #jeff-merkley #democrat #oregon #senate #progressive #volcker-rule #wall-street-reform #housing #no-corporate-pac #budget #environment #class-analysis #follow-the-money
 
@@ -177,3 +184,32 @@ research-status:: ready
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Oregon |
+| Chamber | Senate |
+| Bills Sponsored | 1216 |
+| Bills Cosponsored | 4846 |
+
+**Policy areas:** Civil Rights and Liberties, Minority Issues, Energy, Environmental Protection, Finance and Financial Sector, Health, International Affairs, Native Americans, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 156 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4222 | End Polluter Welfare for Enhanced Oil Recovery Act of 2026 | Read twice and referred to the Committee on Finance. |
+| 4259 | Blue Skies for Taiwan Act of 2026 | Read twice and referred to the Committee on Foreign Relations. |
+| 4226 | A bill to amend the Commodity Exchange Act to prohibit certain event contracts o… | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
+| 666 | A resolution designating the first week of April as "National Asbestos Awareness… | Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S1690; text: CR S1675) |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001176) (Tier 1)
+<!-- auto:congress-legislation end -->

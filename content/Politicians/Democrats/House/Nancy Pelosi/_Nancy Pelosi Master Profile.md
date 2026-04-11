@@ -2,7 +2,7 @@
 title: "Nancy Pelosi Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 career-total: "$1.6B"
 parent: null
@@ -35,7 +35,16 @@ district: "12"
 leadership-roles:
   - "Speaker"
 issues:
-  - "Technology"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
+  - "International Affairs"
+  - "Labor and Employment"
 top-donors:
   - "Michael Bloomberg"
   - "Haim Saban"
@@ -48,7 +57,7 @@ top-donors:
 total-received: "$2,408,010"
 fec-candidate-id: "H8CA05035"
 bioguide-id: "P000197"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 source-types:
   - DOJ
   - FEC
@@ -67,6 +76,10 @@ born: "1940-03-26"
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: P000197. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+total-raised: "$2,408,010"
+total-spent: "$3,306,927"
+cash-on-hand: "1179149.96"
+fec-cycle: 2026
 ---
 #pelosi #master-profile #speaker #democrat #california #class-analysis #follow-the-money #san-francisco #donor-class #tech #stock-trading #dccc #gatekeeper
 
@@ -229,7 +242,7 @@ research-status:: ready — Full citation pass complete. $1.6B fundraising machi
 - [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
 - [[Blue Shield of California]] — $3.8M lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)
@@ -293,3 +306,66 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Nancy_Pelosi) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q170581) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | CA |
+| Chamber | House |
+| Bills Sponsored | 199 |
+| Bills Cosponsored | 5074 |
+
+**Policy areas:** Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Private Legislation, Public Lands and Natural Resources
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 742 | Expressing the profound sorrow of the House of Representatives on the death of t… | Motion to reconsider laid on the table Agreed to without objection. |
+| 621 | Expressing support for the designation of August 3, 2023, as "Tony Bennett Day". | Referred to the House Committee on Education and the Workforce. |
+| 118 | Authorizing the use of the rotunda of the Capitol for a ceremony to present Cong… | Message on Senate action sent to the House. |
+| 626 | Expressing the sense of the House of Representatives regarding the terrorist att… | Motion to reconsider laid on the table Agreed to without objection. |
+| 503 | Establishing the Select Committee to Investigate the January 6th Attack on the U… | Motion to reconsider laid on the table Agreed to without objection. |
+| 3325 | To award four congressional gold medals to the United States Capitol Police and … | Became Public Law No: 117-32. |
+| 1085 | To award three congressional gold medals to the United States Capitol Police and… | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 111 | Electing Members to certain standing committees of the House of Representatives. | Motion to reconsider laid on the table Agreed to without objection. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/P000197) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $2,408,010 |
+| Total Spent | $3,306,927 |
+| Cash on Hand | 1179149.96 |
+| Individual Contributions | $808,796 |
+| PAC Contributions | $33,000 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $2,408,010 | $3,306,927 | 1179149.96 |
+| 2024 | $10,223,364 | $11,739,026 | 2078066.46 |
+| 2022 | $25,577,528 | $28,283,173 | 3593728.76 |
+| 2020 | $27,976,365 | $22,681,810 | 6299373.34 |
+| 2018 | $4,622,035 | $5,438,035 | 1004817.82 |
+| 2016 | $4,416,893 | $3,577,236 | 1820817.85 |
+| ... | 14 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA05035/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Nancy Pelosi](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "Roger Williams"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"
@@ -26,6 +26,19 @@ bills-cosponsored: 182
 website: "https://williams.house.gov"
 phone: "202-225-9896"
 related: "[[_Donald Trump Master Profile|Trump]]"
+last-enriched: "2026-04-11"
+bioguide-id: "W000816"
+issues:
+  - "Agriculture and Food"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Energy"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
 ---
 #roger-williams #republican #texas #house #committee-chair #small-business #auto-dealer #self-funding #conflict-of-interest #phase-6-gavel-power
 
@@ -226,3 +239,58 @@ This is the Self-Funding as Independence pattern in its purest form, inverted: W
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412578) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | Texas |
+| Chamber | House of Representatives |
+| Bills Sponsored | 138 |
+| Bills Cosponsored | 1367 |
+
+**Policy areas:** Agriculture and Food, Commerce, Crime and Law Enforcement, Education, Energy, Environmental Protection, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7412 | Put America on Commission Act of 2026 | Placed on the Union Calendar, Calendar No. 425. |
+| 6683 | Safer Schools Act of 2025 | Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6546 | Merger Process Review Act | Placed on the Union Calendar, Calendar No. 453. |
+| 914 | Recognizing November 29, 2025, as "Small Business Saturday" and supporting effor… | Referred to the House Committee on Small Business. |
+| 5832 | REAL Meats Act | Referred to the House Committee on Energy and Commerce. |
+| 5763 | Main Street Parity Act | Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship. |
+| 5672 | Reducing Unnecessary Slowdowns in Handling Act | Referred to the House Committee on the Judiciary. |
+| 5291 | Merchant Banking Modernization Act | Placed on the Union Calendar, Calendar No. 320. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000816) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **Aye** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Yea** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Yea** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Yea** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Yea** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **Aye** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Yea** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Yea** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Yea** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **Aye** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Aye** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Yea** | Passed |
+
+**Sources**
+
+- [Congress.gov: Roger Williams](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Roger Williams](https://www.govtrack.us/congress/members/412578) (Tier 1)
+<!-- auto:voting-record end -->

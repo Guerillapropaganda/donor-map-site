@@ -136,14 +136,15 @@ Neil M. Gorsuch. Associate Justice, U.S. Supreme Court (2017–present). First T
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
+| Donors Who Also Lobby | 2 of 2 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
+- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[Judicial Crisis Network]] — $248K lobbying spend (Constitution, Government Issues)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ## Committee Assignments (Congress.gov)

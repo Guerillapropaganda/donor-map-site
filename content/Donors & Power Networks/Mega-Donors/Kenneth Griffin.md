@@ -325,3 +325,21 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Kenneth%20Griffin) (Tier 1)
 <!-- auto:fec-donor end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Wall Street & Finance** → Funds **Maria Elvira Salazar** → Sits on **House Committee on Financial Services**
+
+**Funded politicians:**
+
+- [[Maria Elvira Salazar]] (House Committee on Financial Services, House Committee on Foreign Affairs)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

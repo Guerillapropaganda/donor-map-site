@@ -2,7 +2,7 @@
 title: "Ford Motor Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -16,7 +16,7 @@ annual-revenue: "$30.0M"
 net-assets: "$243K"
 tax-year: "2016"
 court-cases: 21936
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, E.D. California"
@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. Texas"
   - "United States Court of International Trade"
-nhtsa-recalls: 0
+nhtsa-recalls: 500
 nhtsa-complaints: 0
 nonprofit-status: "501(c)(17)"
 subawards-issued: 50
@@ -141,6 +141,40 @@ Ford's refusal of TARP funds in 2009 gave the company a unique political asset: 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+<!-- auto:nhtsa-recalls pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 500 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+| Recall Components | ENGINE AND ENGINE COOLING, VISIBILITY, AIR BAGS, BACK OVER PREVENTION, FUEL SYSTEM, DIESEL |
+| Most Recent Recall | 2026-03-31 |
+| Earliest Recall | 2019-05-13 |
+
+**Recent recalls:**
+
+- [26V205000: Incorrectly Installed Piston Circlips](https://www.nhtsa.gov/recalls?nhtsaId=26V205000) (2026-03-31)
+- [26V204000: Windshield Wipers May Fail](https://www.nhtsa.gov/recalls?nhtsaId=26V204000) (2026-03-31)
+- [26V202000: Inoperative Defrosting and Defogging System](https://www.nhtsa.gov/recalls?nhtsaId=26V202000) (2026-03-31)
+- [26V201000: Front Passenger Air Bag May Not Deploy/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V201000) (2026-03-31)
+- [26V165000: Loss of Rearview Camera Image and ADAS Features](https://www.nhtsa.gov/recalls?nhtsaId=26V165000) (2026-03-19)
+- [26V159000: Improperly Secured Seat Belt Anchors](https://www.nhtsa.gov/recalls?nhtsaId=26V159000) (2026-03-17)
+- ... and 494 more
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1)
+
+<!-- auto:nhtsa-recalls pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

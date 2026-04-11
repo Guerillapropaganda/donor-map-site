@@ -195,7 +195,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 - [[Donald Trump]] — lobbying: $4.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)

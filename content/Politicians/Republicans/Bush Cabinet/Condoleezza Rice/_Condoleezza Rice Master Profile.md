@@ -130,7 +130,7 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 | Donors Who Also Lobby | 0 of 1 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

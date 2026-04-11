@@ -2,7 +2,7 @@
 title: "Sheldon Whitehouse"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,11 +17,16 @@ committees:
 former-committees:
   - "Budget (Chair, 118th Congress 2023-2025)"
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Environment & Climate"
-  - "Judicial Reform"
-  - "Supreme Court Ethics"
-  - "Trial Lawyer Rights"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Energy"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
 top-donors:
   - "League of Conservation Voters ($193K career, #1 contributor)"
   - "Trial Lawyers / Law Firms ($3.3M career)"
@@ -42,7 +47,7 @@ stock-trade-tickers:
   - "C"
   - "AAPL"
   - "AMGN"
-last-enriched: '2026-04-10'
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 source-types:
@@ -364,3 +369,32 @@ Whitehouse has documented the Federalist Society/Leo network with stunning preci
 
 - [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Sheldon%20Whitehouse) (Tier 1)
 <!-- auto:opensanctions end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | RI |
+| Chamber | Senate |
+| Bills Sponsored | 751 |
+| Bills Cosponsored | 4813 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Commerce, Crime and Law Enforcement, Education, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Social Welfare, Taxation, Water Resources Development
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4248 | Enhancing Long-Term, Efficient, and Viable Alternatives to Empower Flood-Prone C… | Read twice and referred to the Committee on Environment and Public Works. |
+| 155 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 143 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 4185 | Stop Subsidizing Giant Mergers Act | Read twice and referred to the Committee on Finance. |
+| 144 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 659 | A resolution celebrating the 100th anniversary of the American Shore and Beach P… | Read twice and referred to the Committee on the Judiciary. (text: CR S1546) |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000802) (Tier 1)
+<!-- auto:congress-legislation end -->

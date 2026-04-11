@@ -2,7 +2,7 @@
 title: "Lawrence Summers"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -17,10 +17,17 @@ known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
 federal-register-mentions: 2
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 regulatory-agencies:
   - "Commodity Futures Trading Commission"
   - "State Department"
+total-political-spend: "$401,797"
+politicians-funded:
+  - "Joe Biden"
+  - "Sherrod Brown"
+  - "Shontel Brown"
+  - "Kamala Harris"
+  - "Barack Obama"
 ---
 
 #larry-summers #wall-street #treasury #harvard #obama-advisor #economic-policy
@@ -87,3 +94,28 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Lawrence%20Summers%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $401,797 |
+| Contributions | 138 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| DNC SERVICES CORP / DEMOCRATIC NATIONAL COMMITTEE | $83,900 | DEM |
+| HOUSE VICTORY PROJECT 2020 | $56,000 | — |
+| BIDEN ACTION FUND | $50,000 | — |
+| OHIO GRASSROOTS VICTORY FUND | $12,000 | — |
+| ROSEN FOR NEVADA | $11,000 | DEM |
+| FRIENDS OF SHERROD BROWN | $10,300 | DEM |
+| HARRIS VICTORY FUND | $10,000 | — |
+| DEMOCRATIC EXECUTIVE COMMITTEE OF FLORIDA | $10,000 | DEM |
+| DEMOCRATIC PARTY OF WISCONSIN | $10,000 | DEM |
+| ACTBLUE | $7,520 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Lawrence%20Summers) (Tier 1)
+<!-- auto:fec-donor end -->
