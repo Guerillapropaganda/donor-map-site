@@ -58,9 +58,13 @@ const VERBOSE = process.argv.includes('--verbose');
 const ZOMBIES_ONLY = process.argv.includes('--zombies-only');
 const TYPE_FILTER = (process.argv.find(a => a.startsWith('--type=')) || '').split('=')[1] || null;
 // --tier=a-plus adds the A+ audit layer on top of the zombie/missing-block
-// checks. Dry-run only for now (plan Step 3). Writes will come in Step 4.
+// checks. Plan Step 5 enables --write for the audit-a-plus-passed stamp.
 const TIER_FILTER = (process.argv.find(a => a.startsWith('--tier=')) || '').split('=')[1] || null;
 const RUN_A_PLUS_AUDIT = TIER_FILTER === 'a-plus' || TIER_FILTER === 's';
+// --cohort adds whole-vault comparative checks (anomaly detection,
+// cross-vault triangulation). Adds ~20-30s to a run but produces the
+// uniqueness signals Tier D needs.
+const RUN_COHORT_CHECKS = process.argv.includes('--cohort');
 
 // Types that don't require federal pipeline enrichment — never audit these
 // for missing Congress.gov / GovTrack / Committee auto-blocks. A media figure
@@ -479,17 +483,153 @@ function writeReport(findings, totals) {
 
 // ─── Main ───────────────────────────────────────────────────────
 
+// ─── Cohort analysis (plan Step 5) ────────────────────────────────
+// Runs when --cohort is passed. Computes two whole-vault signals that
+// can't be calculated from a single profile in isolation:
+//   1. anomaly-flags — outliers vs type/chamber cohort median
+//   2. cross-vault-triangulation-count — connections that also appear
+//      in 2+ other unrelated vault profiles
+//
+// These get stamped into frontmatter (with --write) so the VaultGrid
+// can read them cheaply without running the cohort scan per card.
+
+function loadAllProfiles(files) {
+  const all = [];
+  for (const f of files) {
+    try {
+      const content = fs.readFileSync(f, 'utf-8');
+      const { data } = parseFrontmatter(content);
+      if (data && data.title) {
+        all.push({ filePath: f, data, content });
+      }
+    } catch {}
+  }
+  return all;
+}
+
+function computeAnomalyFlags(profile, cohort) {
+  const flags = [];
+  const parseAmount = (s) => {
+    if (!s) return 0;
+    const n = parseFloat(String(s).replace(/[^0-9.]/g, ''));
+    return isNaN(n) ? 0 : n;
+  };
+  const myTotal = parseAmount(profile.data['total-received'] || profile.data['total-raised']);
+  if (myTotal > 0 && cohort.length >= 5) {
+    const cohortTotals = cohort
+      .map(p => parseAmount(p.data['total-received'] || p.data['total-raised']))
+      .filter(n => n > 0)
+      .sort((a, b) => a - b);
+    if (cohortTotals.length >= 3) {
+      const median = cohortTotals[Math.floor(cohortTotals.length / 2)];
+      if (median > 0 && myTotal >= 3 * median) {
+        flags.push(`total-received-${Math.round(myTotal / median)}x-cohort-median`);
+      }
+    }
+  }
+  // Unusual committee count
+  const committees = profile.data.committees;
+  const committeeCount = Array.isArray(committees) ? committees.length : (committees ? 1 : 0);
+  if (committeeCount >= 5) flags.push(`unusually-many-committees-${committeeCount}`);
+  return flags;
+}
+
+function computeTriangulationCount(profile, allProfiles, byEntity) {
+  const related = profile.data.related;
+  if (!related) return 0;
+  const entities = normalizeRelatedList(related);
+  let count = 0;
+  for (const e of entities) {
+    const key = e.toLowerCase().trim();
+    const profilesReferencing = byEntity.get(key);
+    // Triangulation: entity is referenced by 2+ OTHER unrelated profiles
+    if (profilesReferencing && profilesReferencing.size >= 3) count++;
+  }
+  return count;
+}
+
+function normalizeRelatedList(field) {
+  if (!field) return [];
+  if (Array.isArray(field)) return field.map(String);
+  if (typeof field !== 'string') return [];
+  const matches = field.match(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g);
+  if (matches) {
+    return matches.map(m => m.replace(/^\[\[/, '').replace(/\]\]$/, '').split('|')[0]);
+  }
+  return [];
+}
+
+// Build entity→profilePaths index for triangulation scoring
+function buildEntityIndex(allProfiles) {
+  const byEntity = new Map();
+  for (const p of allProfiles) {
+    const related = p.data.related;
+    const entities = normalizeRelatedList(related);
+    for (const e of entities) {
+      const key = e.toLowerCase().trim();
+      if (!byEntity.has(key)) byEntity.set(key, new Set());
+      byEntity.get(key).add(p.filePath);
+    }
+  }
+  return byEntity;
+}
+
+// Stamp A+ audit passed + cohort metrics into frontmatter
+function stampAuditFields(filePath, content, updates) {
+  const match = content.match(/^(---\r?\n)([\s\S]*?)(\r?\n---)/);
+  if (!match) return { changed: false };
+  let yaml = match[2];
+  for (const [key, value] of Object.entries(updates)) {
+    if (value === null || value === undefined) continue;
+    const line = Array.isArray(value)
+      ? `${key}:\n${value.map(v => `  - "${v}"`).join('\n')}`
+      : typeof value === 'boolean' || typeof value === 'number'
+        ? `${key}: ${value}`
+        : `${key}: "${value}"`;
+    const re = new RegExp(`^${key}:.*(?:\\r?\\n[ \\t]{2,}[^\\n]*)*`, 'm');
+    if (re.test(yaml)) {
+      yaml = yaml.replace(re, line);
+    } else {
+      yaml = yaml.trimEnd() + '\n' + line;
+    }
+  }
+  const newContent = match[1] + yaml + match[3] + content.slice(match[0].length);
+  fs.writeFileSync(filePath, newContent, 'utf-8');
+  return { changed: true };
+}
+
 function main() {
   console.log('═══════════════════════════════════════════════════');
   console.log('  Pipeline Janitor — Data Integrity Audit');
   console.log('═══════════════════════════════════════════════════');
   console.log(`  Mode: ${WRITE ? 'WRITE' : 'DRY RUN'}`);
   console.log(`  Scope: pipeline data only (no URLs, no wikilinks)`);
+  if (RUN_A_PLUS_AUDIT) console.log(`  A+ audit: ENABLED (--tier=${TIER_FILTER})`);
+  if (RUN_COHORT_CHECKS) console.log(`  Cohort checks: ENABLED (--cohort)`);
   console.log('');
 
   const files = walkDir(CONTENT_DIR, '.md');
   const findings = [];
-  const totals = { scanned: 0, audited: 0, fixed: 0 };
+  const totals = { scanned: 0, audited: 0, fixed: 0, stamped: 0, cohortFlagged: 0 };
+
+  // Pre-load all profiles for cohort analysis (only if --cohort is set)
+  let allProfiles = null;
+  let entityIndex = null;
+  let cohortsByType = null;
+  if (RUN_COHORT_CHECKS) {
+    console.log('  Loading all profiles for cohort analysis...');
+    allProfiles = loadAllProfiles(files);
+    entityIndex = buildEntityIndex(allProfiles);
+    // Bucket by type+chamber for median calculations
+    cohortsByType = new Map();
+    for (const p of allProfiles) {
+      const key = `${p.data.type || 'unknown'}:${p.data.chamber || 'none'}`;
+      if (!cohortsByType.has(key)) cohortsByType.set(key, []);
+      cohortsByType.get(key).push(p);
+    }
+    console.log(`  Loaded ${allProfiles.length} profiles, ${entityIndex.size} unique entities`);
+    console.log('');
+  }
 
   for (const filePath of files) {
     totals.scanned++;
@@ -506,10 +646,40 @@ function main() {
       issues = issues.filter(i => i.kind === 'zombie-block' || i.kind === 'known-gap-pipeline' || i.kind === 'internal-notes-pipeline');
     }
 
+    const { data: preData } = parseFrontmatter(content);
+
+    // Cohort stamping (runs before self-healing so cohort metrics are always fresh)
+    if (RUN_COHORT_CHECKS && allProfiles) {
+      const key = `${preData.type || 'unknown'}:${preData.chamber || 'none'}`;
+      const cohort = (cohortsByType.get(key) || []).filter(p => p.filePath !== filePath);
+      const anomalyFlags = computeAnomalyFlags({ filePath, data: preData }, cohort);
+      const triangulationCount = computeTriangulationCount({ filePath, data: preData }, allProfiles, entityIndex);
+      if (WRITE) {
+        const stampUpdates = {
+          'cross-vault-triangulation-count': triangulationCount,
+        };
+        if (anomalyFlags.length > 0) stampUpdates['anomaly-flags'] = anomalyFlags;
+        stampAuditFields(filePath, content, stampUpdates);
+        content = fs.readFileSync(filePath, 'utf-8'); // reload for subsequent writes
+        if (anomalyFlags.length > 0) totals.cohortFlagged++;
+      }
+    }
+
+    // A+ audit stamp: if --tier=a-plus and profile has NO A+ failures, stamp the passed date
+    if (RUN_A_PLUS_AUDIT && WRITE) {
+      const aPlusFailures = issues.filter(i => i.kind && i.kind.startsWith('a-plus-'));
+      const hasOtherBlockers = issues.filter(i => i.kind === 'zombie-block' || i.kind === 'missing-block' || i.kind === 'never-enriched').length > 0;
+      if (aPlusFailures.length === 0 && !hasOtherBlockers && preData['content-readiness'] === 'ready') {
+        const today = new Date().toISOString().slice(0, 10);
+        stampAuditFields(filePath, content, { 'audit-a-plus-passed': today });
+        content = fs.readFileSync(filePath, 'utf-8');
+        totals.stamped++;
+      }
+    }
+
     // Self-healing pass: if a previously-flagged profile has no issues anymore,
     // clear the flag so the pipeline stops reprocessing it. This runs regardless
     // of --zombies-only because flag-clearing is always safe.
-    const { data: preData } = parseFrontmatter(content);
     if (issues.length === 0 && preData['needs-reenrichment'] === true) {
       if (WRITE) clearReenrichFlag(filePath, content);
       totals.cleared = (totals.cleared || 0) + 1;
@@ -536,6 +706,9 @@ function main() {
   console.log(`  Audited (ready/verified): ${totals.audited}`);
   console.log(`  With issues: ${findings.length}`);
   if (WRITE) console.log(`  Demoted: ${totals.fixed}`);
+  if (WRITE && totals.stamped) console.log(`  Stamped audit-a-plus-passed: ${totals.stamped}`);
+  if (WRITE && totals.cohortFlagged) console.log(`  Cohort anomaly-flagged: ${totals.cohortFlagged}`);
+  if (WRITE && totals.cleared) console.log(`  Self-healed (cleared reenrich flag): ${totals.cleared}`);
   console.log('');
 
   if (findings.length > 0) {
