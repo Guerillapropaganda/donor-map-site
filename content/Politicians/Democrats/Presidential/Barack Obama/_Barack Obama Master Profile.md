@@ -37,7 +37,9 @@ top-donors:
   - Apple
 fec-candidate-id: S6CA00808
 opposes: '[[Donald Trump Master Profile]]'
-stories: '[[Pharmaceutical: The PhRMA Deal]] · [[Civil Rights: The Ceiling]]'
+stories: >-
+  [[Pharmaceutical: The PhRMA Deal]] · [[Civil Rights: The Ceiling]] ·
+  [[Infrastructure: The Shovel-Ready Betrayal]]
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   VOTING data is missing entirely. This profile was promoted to ready without
