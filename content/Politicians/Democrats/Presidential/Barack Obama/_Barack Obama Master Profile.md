@@ -70,8 +70,7 @@ related: >-
   Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom
   Master Profile]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] ·
   [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth
-  Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] ·
-  [[Barack Obama Donor Network - The Full Map]]
+  Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]]
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
