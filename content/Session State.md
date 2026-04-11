@@ -12,6 +12,94 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-11 late-next-day continuation (Phase 2a Part 2 — wire all 5 Attention Queue producer scripts to the profile-type rulebook)
+
+### Theme
+Short continuation from the previous save. One focused goal: take the rulebook that Part 1 shipped and actually wire the 5 scripts to read from it. Shipped one commit (`5377faa5`) covering all 5 wirings, each with a before/after regression check. Also added a critical `resolveTopLevelType()` helper to the rulebook reader to handle flat vault type values (corporation, investigation, admin-note) that are sub-categories in the rulebook.
+
+### Done — Part 2.1: self-review-mirror wired
+- `scripts/self-review-mirror.cjs`: replaced hardcoded `nonProfileTypes` Set with `isVoiceScanned(type)` call from the rulebook reader. Fallback path preserves the old hardcoded list if the rulebook can't be loaded, so the pre-commit gate never breaks commits on a config issue.
+- Regression: 4 test cases pass — politician blocks, reference skipped, event skipped, story blocks.
+
+### Done — Part 2.2: voice-drift-detector wired
+- `scripts/voice-drift-detector.cjs`: replaced hardcoded `skipTypes` array with `isVoiceScanned(type)`.
+- Regression: Attention Queue count identical 29 → 29.
+
+### Done — Part 2.3: hallucination-catcher wired (legitimate behavior change)
+- `scripts/hallucination-catcher.cjs`: replaced hardcoded `skipTypes` array with `isHallucinationScanned(type)`. **Story type is now scanned where it previously was not.** This is the intended behavior change from the rulebook design — the every-claim-sourced check is the hard gate for story verification.
+- Regression: count stable at 25 (top-25 cap), but composition changed meaningfully. **12 real story findings now in the Attention Queue:** Cross-Politician Contradiction Map (30 unsupported claims), Geographic Donor Clustering (23), Intra-Republican Contradiction Map (23), and 9 more. These are legitimate editorial work items, not noise.
+
+### Done — Part 2.4: promotion-candidate-queue wired (full refactor)
+- `scripts/promotion-candidate-queue.cjs`: replaced the hardcoded `assessProfile()` function with a rulebook-driven implementation using `resolveChecks()` + `runCheck()`. Each ready profile's missing-for-verified fields are now computed from its own type's rulebook, not a uniform politician-centric checklist. Per-check effort estimates preserved in `EFFORT_BY_CHECK` map.
+- **Caught a regression during testing.** First cut used `getPromotionGate(data.type, 'verified')` which returned null for `type: corporation` (because corporation is a sub-category of entity in the rulebook, not a top-level type). This silently dropped all corporation profiles from the candidate queue. Fixed by using `resolveTopLevelType()` to map flat type values to their top-level parent before the gate lookup.
+- Regression after fix: 124 sign-off-only count matches baseline exactly; top candidate is still ADM at 2 min; candidate mix now correctly includes 3 corporations + 7 donors (was all-donor in the buggy first cut).
+
+### Done — Part 2.5: pipeline-janitor wired (minimal)
+- `scripts/pipeline-janitor.cjs`: minimal wiring since the janitor is complex and federal-pipeline-specific. Only rulebook-knowable exemptions are pulled (event + meta + meta sub-categories + story + story sub-categories). Legacy federal-pipeline exemptions preserved inline (state-politician, local-politician, media-profile, think-tank, system).
+- Verified the new `EXEMPT_TYPES` set diff vs old: new set gains `meta`, `story-seed`, `investigation`, `explainer`, `profile-deep-dive`, `network-map`, `narrative-feature` (all correct additions); keeps `system` as a legacy hardcoded exemption since it's not in the rulebook.
+- Regression: dry-run janitor report identical to baseline — 0 issues on 124 audited ready/verified profiles across 1850 scanned.
+
+### Done — resolveTopLevelType helper
+- `scripts/lib/profile-type-rulebook.cjs`: new `resolveTopLevelType(type)` helper. Given a flat type value like `corporation`, `investigation`, or `admin-note`, walks every top-level type's sub-categories to find the real parent (`entity`, `story`, `meta`). Used by `isVoiceScanned`, `isHallucinationScanned`, and `promotion-candidate-queue` to correctly dispatch on flat type values. Unknown types return `null` so callers can decide how to handle them.
+- Fixed a latent bug in `isVoiceScanned` / `isHallucinationScanned`: both now call `resolveTopLevelType` first, so `isVoiceScanned('reference')` correctly returns false (reference is a meta sub-category).
+
+### Full dispatcher end-to-end verification after all 5 wirings
+- `voice-drift-detector`: 29 flagged (30 hard fails, 0 drift)
+- `hallucination-catcher`: 25 flagged including 12 stories
+- `promotion-candidate-queue`: 10 ranked, 124 sign-off-only
+- `contradiction-miner`: 6 committee-capture + 4 issue seeds
+- `missing-profile-detector`: 15 top entries
+
+### Commits this session
+
+Feature branch (`claude/naughty-satoshi`):
+- `5377faa5` — Phase 2a part 2: wire all 5 scripts to the profile-type-rulebook (9 files, 509 insertions, 2487 deletions — the deletions are mostly old audit output regeneration in the attention-queue-store.json)
+- This session-save commit
+
+Deploys (all green):
+- `24289116181` — Part 2 script wirings
+
+### Known issues / still outstanding
+
+- **Phase 2a Part 3 not started.** `/rules` Ops app editor UI is the biggest lift in Phase 2a — saved for a separate session with fresh context. It's a full new page (`/rules`), a new API route (`/api/rulebook`), schema validation, a table editor for 8 types × 5 tiers × dozens of checks, visual identity editor, sidebar nav entry. Roughly Calendar-component scope.
+- **12 story profiles now in the hallucination-catcher Attention Queue.** First time stories are being scanned. Each has 15-30 unsourced claims. These are real editorial work items — for each, options are: add inline citations, convert claims to blockquotes, use `[cite:...]` markers, set `editor-vouched: true` frontmatter flag, or reject via the Attention Queue button.
+- **Phase 2a Part 2 left two deeper refactors unfinished by design:**
+  1. `pipeline-janitor.cjs` `EXPECTED_BLOCKS` map still hardcoded for politician/donor/corporation/lobbying-firm/pac. Could become a rulebook `required-pipelines:` field in a follow-up.
+  2. `pipeline-janitor.cjs` A+ audit still gated on `type === 'politician'` at line 248. The rulebook has per-type audits but wiring them requires a bigger refactor of the audit loop. Not a blocker for Phase 2a.
+- **Phase 2b S-Tier filter, Phase 1d vault-health audit** — both previously gated on Part 2 being done. Now unblocked. Neither started yet.
+- **Phase 3 relationship model discussion** still deferred. Needs a plan-mode design session before any code.
+- **Attention dispatcher not yet auto-started.** Windows `shell:startup` shortcut for `scripts/attention-dispatcher.bat` still pending David's manual action.
+- **UptimeRobot / Healthchecks.io / Sentry accounts** not yet created. `HEALTHCHECKS_PING_URL` env var not set. Documented in `content/Admin Notes/External Services Setup.md`.
+- **Pre-existing TS errors** in `quartz/*`, `ops/src/app/page.tsx` (lines 303-305), `ops/src/app/profile/page.tsx`, `ops/src/app/relationships/page.tsx`, `ops/src/components/VaultGrid.tsx`. None introduced this session. Pre-push hook warns but doesn't block.
+
+### Next session priorities (Phase 2a Part 3 and beyond)
+
+1. **Phase 2a Part 3: `/rules` Ops app editor UI.** Biggest lift remaining in Phase 2a. Write the API route first (`ops/src/app/api/rulebook/route.ts` — GET/POST with validation), then the page component (`ops/src/app/rules/page.tsx` — editable tables per type, tier columns, per-cell required/recommended/N/A dropdowns, visual identity editor), then the sidebar nav entry. Atomic write via tmp+rename when saving the JSON back. Validate on save: check-ids exist in helpers, hex colors valid, icon names known, enum values valid, no orphan sub-categories, schema version matches.
+
+2. **Phase 1d vault-health audit** (now unblocked). Rewrite the dashboard vault-health computation to score each profile against its own type's rulebook verified tier instead of a uniform checklist. Should produce more honest numbers: stories don't get penalized for missing FEC data, media doesn't get penalized for Tier 1 count <3, etc.
+
+3. **Phase 2b S-Tier filter** (now unblocked). Dashboard filter + VaultGrid sort option reads `getPromotionGate(type, 's-tier')` from the rulebook to know which types are eligible. Filter the grid to profiles where `content-readiness === 's-tier'`.
+
+4. **First batch of story hallucination cleanup.** Walk through the 12 newly-surfaced stories in the hallucination-catcher Attention Queue. Decide per-claim: add citation, convert to blockquote, use `[cite:...]`, or reject via the false-positive button.
+
+5. **Phase 3 relationship model** — plan-mode design session. Before any code: walk through the relationship taxonomy (related / bothsides / monetary / story-link / media-appearance / staffing / legal) with `from` / `to` / `confidence` / `source` fields. Lock the data model first, then write the categorizer script, then update the profile view relationships panel.
+
+6. **Attention dispatcher `shell:startup` install walkthrough.** 5-minute David task. Drop a shortcut to `scripts/attention-dispatcher.bat` into the Windows startup folder. Confirmation test: reboot, dispatcher runs on login automatically.
+
+### Session end state: fully verified + deployed
+- **Phase 2a Part 1 foundation shipped** (previous session)
+- **Phase 2a Part 2 wiring shipped** (this session) — all 5 scripts consult the rulebook
+- **resolveTopLevelType helper added** — unblocks correct dispatch on flat vault type values
+- **Regression checks passed on every wiring commit**
+- **12 legitimate story findings newly surfaced** in hallucination-catcher Attention Queue — real editorial work, not noise
+- **Latest deploy:** `24289116181` ✓
+
+David pausing here to save and restart in a fresh conversation for Phase 2a Part 3 (`/rules` editor UI). The fresh context will give full headroom for the biggest lift remaining in Phase 2a.
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-11 next-day (Phase 2a rulebook foundation — automation hardening, dashboard bugs, Phase 0 vault cleanup, Phase 2a Part 1 rulebook file)
 
 ### Theme

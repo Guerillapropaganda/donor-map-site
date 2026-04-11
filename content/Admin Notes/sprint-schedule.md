@@ -682,6 +682,17 @@ phase_1_tasks:
       notes: |
         config/profile-type-rulebook.json (1172 lines) — source of truth for all 8 top-level types (politician/donor/entity/media/judicial/story/event/meta) + 50+ sub-categories, tier requirements, override grammar (adds/removes/replaces), promotion-gate rules, visual identity (color-light/color-dark/icon), voice-scanned/hallucination-scanned flags. scripts/lib/profile-type-rulebook.cjs (320 lines, new) CJS reader with --validate CLI. ops/src/lib/profile-type-rulebook.ts (202 lines, new) TS mirror with typed interfaces. Extended scripts/lib/checklist-helpers.cjs (180 → 551) and ops/src/lib/checklist-helpers.ts (240 → 545) with CHECKS registry: 265 check-ids total (64 real — frontmatter presence, counts, thresholds, body scanners reusing existing helpers; 201 stubbed as always-pass with [stub: id] reason for Part 2). Validation: rulebook valid, 8 types, 266 check ids, 0 missing. resolveChecks(politician/president/verified) correctly composes base + president overrides. Part 1 has zero runtime effect — nothing reads from the rulebook yet. Part 2 wires the scripts.
 
+    - id: cc_49
+      task: "Phase 2a Part 2: wire all 5 Attention Queue producer scripts to the profile-type rulebook"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T18:50:00-07:00"
+      added_adhoc: true
+      commit: "5377faa5"
+      deploy: "24289116181"
+      notes: |
+        Replaced hardcoded type lists and promotion criteria with rulebook reads across all 5 producers. Regression check between each script wiring. Part 2.1 self-review-mirror: nonProfileTypes Set → isVoiceScanned(type) with fallback (4 test cases pass). Part 2.2 voice-drift-detector: skipTypes → isVoiceScanned(type), count 29 → 29. Part 2.3 hallucination-catcher: skipTypes → isHallucinationScanned(type), **story type now scanned** — 12 real story findings in the queue (Cross-Politician Contradiction Map 30 claims, Geographic Donor Clustering 23, etc.). Part 2.4 promotion-candidate-queue: full refactor to resolveChecks() + runCheck() per profile's rulebook, 124 sign-off-only matches baseline, 3 corporations + 7 donors in top 10. Part 2.5 pipeline-janitor: minimal wiring for rulebook-knowable exemptions, legacy federal-pipeline exemptions preserved, dry-run identical to baseline. Also added resolveTopLevelType() helper to the rulebook reader so flat type values (corporation, investigation, admin-note) correctly map to top-level parents (entity, story, meta). Caught a regression in promotion-candidate-queue first cut where corporation profiles were silently dropped — fixed by using resolveTopLevelType before getPromotionGate lookup. Full dispatcher end-to-end verification all green.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -1012,7 +1023,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-11 (next-day session — cc_39 thru cc_48 added; Attention Queue feedback loop, dispatcher hardening, Phase 0 bulk enrichment, Phase 1 dashboard bugs, Phase 2a Part 1 rulebook foundation)**
+**Schedule last updated: 2026-04-11 (late-next-day continuation — cc_49 added; Phase 2a Part 2 all 5 scripts wired to profile-type rulebook)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
