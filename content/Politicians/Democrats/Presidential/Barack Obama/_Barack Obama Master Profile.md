@@ -44,7 +44,8 @@ stories: >-
   Countries Bombed and the Peace Prize Paradox]] · [[The Post-Presidency
   Capitalization - From Hope and Change to Martha's Vineyard]] · [[The HAMP
   Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The ACA -
-  Insurance Industry Capture Disguised as Healthcare Reform]]
+  Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Bank
+  Bailout and the Prosecution That Never Came]]
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   VOTING data is missing entirely. This profile was promoted to ready without
