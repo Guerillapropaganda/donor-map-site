@@ -572,6 +572,116 @@ phase_1_tasks:
         ops/src/lib/tier.ts (99 lines, new) — central S-tier render-time helpers: isSTier (three-check gate), isVerified, getFeaturedPool (graceful degradation to A+), tierLabel, tierColor (purple for S-tier).
         Quartz-side homepage components (WeeklySpotlight, PowerRankings, LandingPage) intentionally NOT wired. Current featured profiles (Raytheon, AIPAC, Koch Network) are below A+ — strict filter would break the live site. Migration deferred to a separate commit when the A+ pool is large enough.
 
+    - id: cc_39
+      task: "Attention Queue reject button + universal signature filter"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T11:30:00-07:00"
+      added_adhoc: true
+      commit: "c0e7dc9c"
+      deploy: "24281367092"
+      notes: |
+        ops/src/app/attention/page.tsx: per-entry ✕ reject button with prompt for optional reason, POSTs to new /api/attention-queue/reject. ops/src/app/api/attention-queue/reject/route.ts (new) mutates both the queue store and the false-positive log. scripts/lib/attention-queue.cjs addEntries() now auto-filters entries whose (source|where|what) signature matches a prior rejection — universal across all 5 producers with no per-script wiring. Verified live: rejected an EPI voice-drift entry, reran producer, 30 → 29 (persisted).
+
+    - id: cc_40
+      task: "Hallucination-catcher regex tightening (96 → 25 false positives on Raytheon)"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T11:35:00-07:00"
+      added_adhoc: true
+      commit: "c0e7dc9c"
+      deploy: "24281367092"
+      notes: |
+        scripts/hallucination-catcher.cjs: dollar-amount requires a claim verb within 80 chars; percentage requires contextual noun (of/increase/share/etc); bill-reference pattern dropped (self-citing); per-claim citation proximity check (150 chars) replaces whole-paragraph exemption; footnote refs [^N] and [cite] count as citations; bullet lists and tables exempt. Raytheon: 96 → 25 (71 FPs eliminated). Lowest count is now 8 real claims (Goldman Sachs).
+
+    - id: cc_41
+      task: "Dispatcher crash recovery + log rotation + Healthchecks placeholder"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T11:45:00-07:00"
+      added_adhoc: true
+      commit: "ee2eccd6"
+      deploy: "24281756494"
+      notes: |
+        scripts/attention-dispatcher.cjs: uncaughtException + unhandledRejection top-level guards; try/catch around spawn() and each processQueue iteration; cron callbacks wrapped per-producer; log rotation at 1MB threshold to .log.1 (one keep); HEALTHCHECKS_PING_URL env var placeholder (fire-and-forget on start / successful cycle / failure, 5-sec timeout, no-op when unset). Verified log rotation by pre-writing a 1.2MB file; correctly rotated on next run.
+
+    - id: cc_42
+      task: "Register new scripts in /scripts ops page + rules docs updates"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T11:50:00-07:00"
+      added_adhoc: true
+      commit: "ee2eccd6"
+      deploy: "24281756494"
+      notes: |
+        ops/src/app/scripts/page.tsx: new Intelligence / Attention Queue (8 entries) and Pre-Commit Gates (1 entry) categories pinned to top. Entries for attention-dispatcher (daemon/run-now/healthchecks), voice-drift-detector, hallucination-catcher, contradiction-miner, missing-profile-detector, promotion-candidate-queue, self-review-mirror. yaml-sanity-scan and duplicate-bioguide-sentinel updated to note they also run as pre-commit gates. CLAUDE.md new 'Automation you should know about' section; content/Vault Rules.md new § 9 Automation Layers (Decisions Log bumped to § 10).
+
+    - id: cc_43
+      task: "Phase 0: audit 619 modified + 44 untracked files, ship pipeline enrichment bulk commit"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T12:10:00-07:00"
+      added_adhoc: true
+      commit: "ab7221d0"
+      deploy: "24282337750"
+      notes: |
+        Audited the uncommitted pipeline pile: 307 frontmatter-only (date bumps + related list extensions), 193 frontmatter+body (+ new auto-block sections with Wikidata/LEI/Federal Register data), 53 pipeline-only, 65 body-only timestamp rerenders, 1 site-status.md recalc. Untracked: 38 RSS Event drafts, 3 Story Seeds, 1 bioguide-contamination-alert. Trimmed Auto-Enrichment Log: 260 empty padding lines removed (all 2026-04-11 entries preserved). Gitignored .attention-dispatcher.log[.1]. Bulk commit: 662 files.
+
+    - id: cc_44
+      task: "self-review-mirror net-new scanning with 5 exemptions"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T12:05:00-07:00"
+      added_adhoc: true
+      commit: "427a5827"
+      deploy: "24282337750"
+      notes: |
+        Patched scripts/self-review-mirror.cjs to fix false-positive cascade that would have blocked 188 files with "new em dash" errors from pipeline enrichment. Changes: net-new comparison (count banned phrases before/after, flag only net increases); auto-block exemption (<!-- auto:X -->); heading exemption (# through ######); wikilink-bullet exemption (- [[...]] lines); non-editorial type exemption (reference/system/methodology/index/page/digest/daily-update/event/sub-note). Tested against entire 619-file pipeline pile: 0 false positives after patch, 188+ before. New prose em dash regression test still blocks correctly.
+
+    - id: cc_45
+      task: "Phase 1a: Calendar clock timezone (UTC → local)"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T12:40:00-07:00"
+      added_adhoc: true
+      commit: "ec7cdb94"
+      deploy: "24286226374"
+      notes: |
+        ops/src/app/calendar/Calendar.tsx stored liveTime as ISO string and sliced UTC positions. David on PT saw 11:40 at 4:41am local. Fix: store as Date object, format with getHours()/getMinutes()/getFullYear()/getMonth()/getDate(). Verified live: preview renders 08:38 matching new Date().
+
+    - id: cc_46
+      task: "Phase 1b: Session-save completed_at timestamps"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T12:50:00-07:00"
+      added_adhoc: true
+      commit: "ec7cdb94"
+      deploy: "24286226374"
+      notes: |
+        Three-part fix: (1) ops/src/lib/sprint-schedule-parser.ts Task type gains optional completed_at field; (2) ops/src/lib/sprint-state.ts new resolveCompletedAt() helper prefers YAML completed_at over midnight-UTC fallback, used in both buildInitialState and reconcileScheduleIntoState; (3) .claude/commands/session-save.md instructions now require writing completed_at as a full ISO 8601 timestamp with local offset. Fixes the bug where session-saved tasks always landed at midnight UTC in the calendar's hours-today meter.
+
+    - id: cc_47
+      task: "Phase 1c: Alerts dashboard ↔ /api/alerts sync"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T13:00:00-07:00"
+      added_adhoc: true
+      commit: "ec7cdb94"
+      deploy: "24286226374"
+      notes: |
+        ops/src/app/api/status/route.ts was counting "critical" by scanning profiles missing content-readiness — a fake heuristic unrelated to real alerts. /alerts page used /api/alerts (stale / never-enriched / broken wikilinks / pipeline failures / contradictions). Fix: /api/status now delegates to /api/alerts for summary counts. Dashboard card upgraded from "{N} critical" to "{N} critical, {M} warning". Dead walkMarkdown helper removed. Verified: both endpoints return matching summary.critical and summary.warning; dashboard UI shows "View Alerts · 1 critical, 2 warning".
+
+    - id: cc_48
+      task: "Phase 2a Part 1: profile type rulebook + CJS/TS readers + check-helpers catalog"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T13:40:00-07:00"
+      added_adhoc: true
+      commit: "ee147d6e"
+      deploy: "24288685353"
+      notes: |
+        config/profile-type-rulebook.json (1172 lines) — source of truth for all 8 top-level types (politician/donor/entity/media/judicial/story/event/meta) + 50+ sub-categories, tier requirements, override grammar (adds/removes/replaces), promotion-gate rules, visual identity (color-light/color-dark/icon), voice-scanned/hallucination-scanned flags. scripts/lib/profile-type-rulebook.cjs (320 lines, new) CJS reader with --validate CLI. ops/src/lib/profile-type-rulebook.ts (202 lines, new) TS mirror with typed interfaces. Extended scripts/lib/checklist-helpers.cjs (180 → 551) and ops/src/lib/checklist-helpers.ts (240 → 545) with CHECKS registry: 265 check-ids total (64 real — frontmatter presence, counts, thresholds, body scanners reusing existing helpers; 201 stubbed as always-pass with [stub: id] reason for Part 2). Validation: rulebook valid, 8 types, 266 check ids, 0 missing. resolveChecks(politician/president/verified) correctly composes base + president overrides. Part 1 has zero runtime effect — nothing reads from the rulebook yet. Part 2 wires the scripts.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -902,7 +1012,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-11 (overnight session — cc_31 thru cc_38 added; S-tier plan all 6 steps shipped; engine quote-escape fix)**
+**Schedule last updated: 2026-04-11 (next-day session — cc_39 thru cc_48 added; Attention Queue feedback loop, dispatcher hardening, Phase 0 bulk enrichment, Phase 1 dashboard bugs, Phase 2a Part 1 rulebook foundation)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
