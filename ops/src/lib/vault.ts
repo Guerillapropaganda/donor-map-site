@@ -77,6 +77,8 @@ export interface Profile {
   legalReviewResult?: "pass" | "block" | "defer"
   /** Board memberships — past or present. Tier 1 financial disclosure signal. */
   boardSeats?: string[]
+  /** Stock trading activity (set by pipeline from financial disclosures). */
+  stockTrades?: number | string
   /** Same entity appears in both donors: AND opposes: — suspicious but not inherently wrong */
   bothSidesFlag?: boolean
   /** Connections in related: that also appear in 2+ otherwise-unrelated vault profiles */
@@ -183,6 +185,7 @@ export function parseProfile(path: string, content: string): Profile {
     legalReviewDate: data["legal-review-date"],
     legalReviewResult: data["legal-review-result"],
     boardSeats: data["board-seats"],
+    stockTrades: data["stock-trades"],
     bothSidesFlag: data["both-sides-flag"],
     crossVaultTriangulationCount: data["cross-vault-triangulation-count"],
     anomalyFlags: data["anomaly-flags"],
