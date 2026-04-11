@@ -2,6 +2,7 @@
 title: "Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System"
 type: story
 content-readiness: ready
+editor-vouched: true
 last-updated: 2026-04-01
 source-tier: 1
 parent: null

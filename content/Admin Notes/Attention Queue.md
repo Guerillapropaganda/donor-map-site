@@ -375,6 +375,33 @@ This profile passed every automated A+ check. Only David's sign-off (janitor sta
 - **Leverage:** ★★★★★
 - **Surfaced by:** `promotion-candidate-queue`
 
+### American Farm Bureau Federation: 12 unsupported claims
+
+Ready profile has "$732 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Kenneth Griffin: 12 unsupported claims
+
+Ready profile has "8% increase" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### 2026 House Money Map: 12 unsupported claims
+
+Ready profile has "2024 cycle, UDP spent" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Stories/Published/2026 House Races/2026 House Money Map.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
 ### Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts: 30 unsupported claims
 
 Ready profile has "$500M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
@@ -429,29 +456,11 @@ Ready profile has "$10.8 billion" in the (no section) section with no source lin
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Geographic Donor Clustering - Where the Money Actually Comes From: 23 unsupported claims
-
-Ready profile has "95% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Geographic Donor Clustering - Where the Money Actually Comes From.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
 ### Intra-Republican Contradiction Map: 23 unsupported claims
 
 Ready profile has "$16M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Stories/Published/Intra-Republican Contradiction Map.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System: 21 unsupported claims
-
-Ready profile has "$3.87 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Cross-Politician Analysis/Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
@@ -578,15 +587,6 @@ Ready profile has "$578 million" in the (no section) section with no source link
 Ready profile has "86.4% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Jeff Yass Follows TikTok Money Across Every Candidate: 13 unsupported claims
-
-Ready profile has "$46 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Stories/Published/Contradiction Deep Dives/Contradiction 10 - Jeff Yass Follows TikTok Money Across Every Candidate.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
