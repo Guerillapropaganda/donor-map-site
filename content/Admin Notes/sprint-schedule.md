@@ -54,7 +54,7 @@ targets:
     metric: draft_to_ready_promotions
     baseline: 288  # draft count at sprint start
     goal: 188       # ≤188 means ≥100 promotions
-    current: 319   # 288 − 1 (Summer Lee draft→ready) + 32 (janitor zombie demotions ready→draft). Expected to decrease sharply once the 32 demoted profiles get fresh pipeline data and are re-promoted.
+    current: 383   # politician-only draft count after full cleanup (246 politicians at draft + estimated ~137 other types still in the same bucket). Expected to climb temporarily as the donor/corp/pac/lobbying-firm audit runs next session, then decrease as re-enrichment + manual depth passes promote them back.
     description: "draft profiles promoted to ready tier"
 
   - id: systems
@@ -62,8 +62,8 @@ targets:
     metric: pipeline_bugs_closed
     baseline: 7
     goal: 0
-    current: 22  # 20 previous + 2 fixed in 2026-04-11 night session (updateFrontmatter scalar/list hybrid corruption, 22-profile bioguide contamination cleanup with 4 new quality-check rules)
-    description: "known pipeline bugs blocking data integrity. Original 7: A000383, QVT, GovTrack cache, redirect enrichment, NHTSA non-auto, DOJ index-size, SAM fuzzy. Plus Ops API array-toString bug (Whitehouse 2026-04-10 afternoon). Plus updateFrontmatter scalar/list (2026-04-11) and bulk-bioguide contamination (2026-04-11)."
+    current: 22
+    description: "known pipeline bugs blocking data integrity. Original 7: A000383, QVT, GovTrack cache, redirect enrichment, NHTSA non-auto, DOJ index-size, SAM fuzzy. Plus Ops API array-toString bug. Plus updateFrontmatter scalar/list (2026-04-11), bulk-bioguide C001091/B001296 contamination (2026-04-11)."
 
   - id: polish
     rank: 4
@@ -435,6 +435,55 @@ phase_1_tasks:
 
         Affected profiles need manual bioguide verification at bioguide.congress.gov/search next session (next session priority #1).
 
+    - id: cc_28
+      task: "Bioguide recovery: 17 profiles verified + applied (rc_09 companion)"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commits: ["660e5e35", "422e7988"]
+      notes: |
+        scripts/recover-bioguide.cjs (new, ~210 lines) — single + batch mode. Includes duplicate-detection: refuses to apply a bioguide if already in use by another profile (second line of defense against re-contamination). Applied 16 via batch json (Bowman B001223, Morelle M001206, Pelosi P000197, Gottheimer G000583, Padilla P000145, Coons C001088, Schumer S000148, Clinton C001041, Hickenlooper H000273, Sinema S001191, Crenshaw C001120, Salazar S000168, Gaetz G000578, Ted Cruz C001098, Tuberville T000278, Bean B001253). Applied Rick Scott S001217 separately via Congress.gov API /v3/member/congress/119/FL since bioguide.congress.gov web UI failed to surface him. 3 recoveries (Padilla, Hickenlooper, Crenshaw) were auto-extracted from Congress.gov citation URLs already in their profile bodies and confirmed by David. The remaining 5 contaminated profiles (Stratton, Cooper, Wahls, Biss, Miller) were reclassified as state/local politicians in cc_29 instead.
+
+    - id: cc_29
+      task: "Taxonomy expansion: state-politician + local-politician + candidate-for"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "8c3191c9"
+      notes: |
+        New taxonomy shipped per David's approval. Added three frontmatter values:
+        (1) type: state-politician — governors, lt govs, state legislators. Congress.gov/GovTrack/Committee SKIPPED. FEC still fires if fec-candidate-id exists.
+        (2) type: local-politician — mayors, city council, county commissioners. Same pipeline behavior.
+        (3) candidate-for: field — optional, additive to any type, marks federal candidates not yet elected.
+
+        Vault Rules updated with "Politician type taxonomy (three tiers)" and "Candidate tracking" sections. pipeline-janitor.cjs EXEMPT_TYPES updated to include state-politician + local-politician.
+
+        Applied to 5 profiles from the contamination cleanup that shouldn't have had federal bioguides:
+          Juliana Stratton → state-politician (IL Lt Gov) + US Senate 2026 candidate
+          Roy Cooper → state-politician (former NC Gov) + US Senate 2026 candidate
+          Zach Wahls → state-politician (IA State Senator) + US Senate 2026 candidate
+          Daniel Biss → local-politician (Evanston Mayor)
+          Donna Miller → local-politician (Cook County Commissioner) + US House 2026 candidate
+
+    - id: cc_30
+      task: "Full politician cleanup: 32 type reclassifications + 64 demotions"
+      status: done
+      completed_date: 2026-04-11
+      added_adhoc: true
+      commit: "9ae94152"
+      notes: |
+        David identified the problem: Ops app grid was still showing stories, media, and half-finished politicians at "ready". Investigation surfaced three mixed issues fixed in one pass.
+
+        (A) 27 topical sub-notes mis-typed as type: politician. Trump policy deep-dives (Project 2025, DOGE, Pardon Machine, Iran War Money Trail, Fox News Pipeline, etc.) and Chad Bianco sheriff-era stories (CA DOJ Investigation, Oath Keepers Membership, CSPOA). Retyped to sub-note. Disappear from politician grid.
+
+        (B) 5 state politicians mis-typed as type: politician: Hochul, Kemp, Kalra, Rendon, Wicks. Retyped to state-politician with current-office field.
+
+        (C) 64 politicians demoted ready→draft by pipeline-janitor.cjs --type=politician --write. Every single one failed the new strict ready rules: 97 missing-block issues, 38 never-enriched, 3 internal-notes-pipeline, 1 zombie-block. Examples: Gerry Connolly, Bob Casey, Dick Cheney, Virginia Foxx, Jim McGovern, AOC, Bennie Thompson, Brendan Boyle, Debbie Wasserman Schultz. All had been manually promoted to ready by Research Claude based on body content alone without ever running pipelines.
+
+        Result: ZERO politicians at ready anywhere in the vault. 246 politicians at draft (up from ~181). Ops grid finally tells the truth.
+
+        Tooling: scripts/find-mistyped-politicians.cjs (diagnostic), scripts/classify-mistyped-politicians.cjs (splits real vs sub-note vs state), scripts/apply-type-reclassification.cjs (bulk rewrite), scripts/pipeline-janitor.cjs (added --type=X filter). 101 files changed in the commit.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -501,10 +550,12 @@ phase_1_tasks:
 
     - id: rc_09
       task: "Manual bioguide recovery for 22 contaminated profiles (C001091 + B001296 waves)"
-      status: pending
-      blocker: ""
+      status: done
+      completed_date: 2026-04-11
       target_files: "22 profiles — see scripts/fix-bioguide-contamination.cjs wave lists"
-      notes: "Next session priority #1. Look up each at bioguide.congress.gov/search, verify against profile title + state + chamber, write correct bioguide to frontmatter, flip needs-reenrichment from false→true. Estimated 15-20 min for all 22. Unblocks rc_05 (Bowman re-review)."
+      commits: ["660e5e35", "8c3191c9"]
+      notes: |
+        17 recovered via bioguide.congress.gov/search lookups (David verified each), 5 reclassified as state-politician / local-politician (no federal bioguide needed). Bowman B001223, Morelle M001206, Pelosi P000197, Gottheimer G000583, Padilla P000145, Coons C001088, Schumer S000148, Clinton C001041, Hickenlooper H000273, Sinema S001191, Crenshaw C001120, Salazar S000168, Gaetz G000578, Ted Cruz C001098, Tuberville T000278, Bean B001253, Rick Scott S001217 (last one via Congress.gov API /v3/member/congress/119/FL since David's UI search failed). scripts/recover-bioguide.cjs handles single + batch mode with duplicate-detection. Unblocks rc_05.
 
   david:
     - id: dc_01
@@ -763,7 +814,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-11 (night session — cc_20 thru cc_27 + rc_06 thru rc_09 added; rc_05 blocked pending bioguide recovery)**
+**Schedule last updated: 2026-04-11 (late night session — cc_28 thru cc_30 added; rc_09 done; full politician cleanup complete)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
