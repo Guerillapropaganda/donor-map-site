@@ -244,19 +244,23 @@ function main() {
     // Skip non-profile content
     if (!after.data || !after.data.title) continue;
 
-    // Rule 1-2: banned phrases
-    const banned = scanBannedPhrases(after.body);
+    // Get ONLY the newly added lines for this file — pre-existing violations
+    // from months ago do not block the commit. Only what this commit adds.
+    const addedLines = getAddedLines(filePath);
+
+    // Rule 1-2: banned phrases (ADDED CONTENT ONLY)
+    const banned = scanBannedPhrases(addedLines);
     for (const b of banned) {
       reasons.push(
-        `contains banned language: ${b.label} (found ${b.count} occurrence${b.count > 1 ? 's' : ''}, first: "${b.sample}")`
+        `introduces banned language: ${b.label} (${b.count} new occurrence${b.count > 1 ? 's' : ''}, first: "${b.sample}")`
       );
     }
 
-    // Rule 3: defamation check
-    const defamation = scanDefamation(after.data, after.body);
+    // Rule 3: defamation check (ADDED CONTENT ONLY)
+    const defamation = scanDefamation(after.data, addedLines);
     if (defamation.length > 0) {
       reasons.push(
-        `${defamation.length} defamation-prone phrase${defamation.length > 1 ? 's' : ''} outside blockquotes without legal-review-result: pass — first: "${defamation[0].slice(0, 80)}"`
+        `${defamation.length} new defamation-prone phrase${defamation.length > 1 ? 's' : ''} outside blockquotes without legal-review-result: pass — first: "${defamation[0].slice(0, 80)}"`
       );
     }
 
