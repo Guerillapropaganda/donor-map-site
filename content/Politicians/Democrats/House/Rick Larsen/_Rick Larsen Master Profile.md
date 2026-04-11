@@ -1,7 +1,7 @@
 ---
 title: "Rick Larsen"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -28,6 +28,12 @@ bills-cosponsored: 187
 website: "https://larsen.house.gov"
 phone: "202-225-2605"
 related: "[[_Sam Graves Master Profile|Graves]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Boeing]]"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #rick-larsen #democrat #washington #house #ranking-member #transportation #infrastructure #boeing #aviation #aerospace #labor #phase-6-gavel-power
 

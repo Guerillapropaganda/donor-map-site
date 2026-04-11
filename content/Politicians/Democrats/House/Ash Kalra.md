@@ -1,6 +1,7 @@
 ---
 title: "Ash Kalra"
-type: politician
+type: state-politician
+current-office: "California State Assembly Member, District 25 (2016–present)"
 content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1

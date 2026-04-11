@@ -1,7 +1,7 @@
 ---
 title: "Brendan Boyle"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -17,10 +17,15 @@ leadership-roles:
 issues:
   - "Labor & Workers"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline"
 donors: "[[UNITE HERE]] · [[AFL-CIO]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Donald Trump Master Profile|Trump]]"
 total-received: "$1,522,158"
 fec-candidate-id: "H4PA13199"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #brendan-boyle #democrat #pennsylvania #house #ranking-member #budget #debt-ceiling #labor #philadelphia #working-class #reconciliation #blue-collar-caucus #phase-6-gavel-power
 

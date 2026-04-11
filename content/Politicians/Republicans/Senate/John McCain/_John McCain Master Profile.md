@@ -1,7 +1,7 @@
 ---
 title: "John McCain"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,10 +15,15 @@ fec-candidate-id: "H2AZ01024"
 donors: "[[Patrick Soon-Shiong]] · [[Christopher Ruddy]]"
 related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline"
 total-raised: "$707,083"
 total-spent: "$524,237"
 cash-on-hand: "192781.00"
 fec-cycle: 1984
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #politician #republican #senator #presidential2008 #maverick-brand #keating-five

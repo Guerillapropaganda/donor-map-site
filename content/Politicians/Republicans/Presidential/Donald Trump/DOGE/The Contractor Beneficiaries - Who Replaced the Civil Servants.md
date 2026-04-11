@@ -1,6 +1,6 @@
 ---
 title: "The Contractor Beneficiaries - Who Replaced the Civil Servants"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1

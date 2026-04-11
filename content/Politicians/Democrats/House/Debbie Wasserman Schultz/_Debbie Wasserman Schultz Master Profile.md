@@ -1,7 +1,7 @@
 ---
 title: "Debbie Wasserman Schultz"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -18,8 +18,14 @@ top-donors:
 total-received: "$1,785,365"
 fec-candidate-id: "H4FL20023"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline"
 donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]]"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master Profile|Menendez]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #politician #democrat #house #florida #sugar #aipac #dnc #both-sides-illusion #class-analysis #follow-the-money
 

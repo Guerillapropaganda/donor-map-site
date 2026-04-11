@@ -1,7 +1,7 @@
 ---
 title: "Ritchie Torres"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -9,6 +9,13 @@ total-received: "$5,052,480"
 fec-candidate-id: "H0NY15160"
 donors: "[[AFSCME - American Federation of State County and Municipal Employees]]"
 related: "[[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[NORPAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[Demand Justice]]"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #master-profile #democrat #house #bronx #new-york #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #crypto #class-contradiction
 

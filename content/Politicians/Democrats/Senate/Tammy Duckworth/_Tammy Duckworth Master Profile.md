@@ -1,7 +1,7 @@
 ---
 title: "Tammy Duckworth"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -41,6 +41,12 @@ bills-cosponsored: 423
 website: "https://www.duckworth.senate.gov"
 phone: "202-224-2854"
 related: "[[_Dick Durbin Master Profile|Durbin]] · [[Boeing]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[Defense Contractors Bloc]] · [[Dick Durbin]] · [[_Kamala Harris Master Profile]] · [[Northrop Grumman]]"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion
 

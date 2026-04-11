@@ -1,6 +1,6 @@
 ---
 title: "The NRA Investment and the Second Amendment Theater"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-08
 source-tier: 1

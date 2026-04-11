@@ -1,7 +1,7 @@
 ---
 title: "Bennie Thompson"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -23,7 +23,12 @@ website: "https://benniethompson.house.gov"
 phone: "202-225-5876"
 donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]]"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #bennie-thompson #democrat #mississippi #house #ranking-member #homeland-security #january-6 #surveillance #civil-rights #phase-6-gavel-power
 

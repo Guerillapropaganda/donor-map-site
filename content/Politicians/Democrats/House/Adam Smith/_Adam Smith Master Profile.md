@@ -1,7 +1,7 @@
 ---
 title: "Adam Smith"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -25,12 +25,18 @@ fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]]"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run congress pipeline"
 govtrack-id: 400379
 bills-sponsored: 199
 bills-cosponsored: 4972
 website: "https://adamsmith.house.gov"
 phone: "202-225-8901"
-internal-notes: "[CODE @ 2026-04-10] Pipeline: fec completed for Adam Smith. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24267974287"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[CODE @ 2026-04-10] Pipeline: fec completed for Adam Smith. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24267974287"
 ---
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power
 

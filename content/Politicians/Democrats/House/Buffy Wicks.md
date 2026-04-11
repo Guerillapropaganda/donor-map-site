@@ -1,6 +1,7 @@
 ---
 title: "Buffy Wicks"
-type: politician
+type: state-politician
+current-office: "California State Assembly Member, District 14 (2018–present)"
 content-readiness: draft
 last-updated: 2026-04-06
 source-tier: 1

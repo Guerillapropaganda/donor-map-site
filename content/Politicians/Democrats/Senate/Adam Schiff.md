@@ -1,14 +1,22 @@
 ---
 title: "Adam Schiff"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
 fec-candidate-id: "H0CA27085"
 donors: "[[AFL-CIO]]"
 related: "[[Barbara Lee]] · [[Laphonza Butler]] · [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Katie Porter Master Profile]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[Senate Majority PAC]] · [[Everytown for Gun Safety]]"
-internal-notes: "[URL Check 2026-04-08] 8 checked: 6 ok, 2 broken, 0 slow. | BROKEN: CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean? | BROKEN: Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
+  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+
+[URL Check 2026-04-08] 8 checked: 6 ok, 2 broken, 0 slow. | BROKEN: CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean? | BROKEN: Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support"
+needs-reenrichment: true
+reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
 ---
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis
 tags: #democrat

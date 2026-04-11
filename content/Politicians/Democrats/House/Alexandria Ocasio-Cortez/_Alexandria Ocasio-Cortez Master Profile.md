@@ -1,7 +1,7 @@
 ---
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -49,6 +49,11 @@ opensanctions-datasets:
   - "wikidata"
   - "ru_mfa_sanctions"
   - "us_congress"
+needs-reenrichment: true
+reenrich-reason: "run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #aoc #alexandria-ocasio-cortez #house #new-york #bronx #small-dollar #green-new-deal #dsa #progressive #class-analysis #squad
 

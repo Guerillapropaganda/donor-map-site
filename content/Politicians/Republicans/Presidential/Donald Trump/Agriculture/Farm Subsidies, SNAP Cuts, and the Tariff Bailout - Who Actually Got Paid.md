@@ -1,6 +1,6 @@
 ---
 title: "Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid"
-type: politician
+type: sub-note
 content-readiness: ready
 last-updated: 2026-04-10
 source-tier: 1

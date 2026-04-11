@@ -1,6 +1,6 @@
 ---
 title: "Israel and Foreign Policy - Donors and Backers"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1

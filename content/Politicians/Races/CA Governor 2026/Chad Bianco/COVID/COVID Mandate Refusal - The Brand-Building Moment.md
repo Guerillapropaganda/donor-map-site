@@ -1,6 +1,6 @@
 ---
 title: "COVID Mandate Refusal - The Brand-Building Moment"
-type: politician
+type: sub-note
 content-readiness: draft
 last-updated: 2026-03-24
 source-tier: 2
