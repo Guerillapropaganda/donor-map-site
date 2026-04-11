@@ -19,6 +19,7 @@ issues:
   - Cryptocurrency Regulation
 total-received: '$6,052,176'
 fec-candidate-id: H0NY16143
+bioguide-id: "B001223"
 govtrack-id: 456839
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -29,8 +30,9 @@ corroboration-count: 2
 known-gaps:
   - GovTrack shows 0 bills sponsored/cosponsored — needs fresh pipeline run (cache invalidation fix deployed 2026-04-10 awaits next run)
   - Congress.gov auto-blocks stripped in 2026-04-10 A000383 cleanup (pipeline fuzzy-match bug, now fixed). Needs fresh pipeline run for correct Congress data.
-  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
-internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: B001223. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+
+[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 
 [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • The profile's own known-gaps field says it needs a fresh pipeline run.
@@ -42,7 +44,7 @@ donors: '[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]]'
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "demote to draft"
+reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): B001223. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 ---
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester
 
