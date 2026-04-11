@@ -21,7 +21,7 @@ known-gaps:
 related: >-
   [[_Gretchen Whitmer Master Profile]] · [[_Kamala Harris Master Profile]] ·
   [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_Wes Moore Master
-  Profile|Wes Moore]] · [[Ted Cruz]]
+  Profile|Wes Moore]]
 ---
 #pete-buttigieg #indiana #south-bend #transportation-secretary #democrat #mckinsey #2020-presidential #2028-presidential #class-analysis
 
