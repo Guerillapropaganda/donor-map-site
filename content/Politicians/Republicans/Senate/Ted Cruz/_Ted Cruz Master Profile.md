@@ -24,16 +24,16 @@ website: "https://www.cruz.senate.gov"
 phone: "202-224-5922"
 total-received: "$6,442,446"
 fec-candidate-id: "S2TX00312"
+bioguide-id: "C001098"
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
-needs-reenrichment: false
-reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
+needs-reenrichment: true
+reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): C001098. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
-  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
 related: "[[Koch Network - Charles Koch]] · [[Robert Mercer]] · [[Goldman Sachs]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
 last-enriched: "2026-04-10"
 committees:
@@ -41,7 +41,9 @@ committees:
   - "Senate Committee on Foreign Relations"
   - "Senate Committee on Rules and Administration"
   - "Senate Committee on the Judiciary"
-internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: C001098. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+
+[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #ted-cruz #senate #texas #oil-gas #goldman-sachs #robert-mercer #crypto #class-analysis
 

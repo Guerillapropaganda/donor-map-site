@@ -16,16 +16,16 @@ top-donors:
   - "Labor Unions"
 total-received: "$1,130,491"
 fec-candidate-id: "H8NY25105"
+bioguide-id: "M001206"
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
-needs-reenrichment: false
-reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
+needs-reenrichment: true
+reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): M001206. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
-  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]]"
 last-enriched: "2026-04-10"
 committees:
@@ -33,7 +33,9 @@ committees:
   - "House Committee on House Administration"
   - "Joint Committee of Congress on the Library"
   - "Joint Committee on Printing"
-internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: M001206. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+
+[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #joseph-morelle #democrat #new-york #house #house-administration #voting-rights #election-security #albany-machine #assembly-leader #rochester #class-analysis #follow-the-money
 
