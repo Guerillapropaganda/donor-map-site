@@ -132,7 +132,8 @@ export function DayModal({ date, schedule, state, onClose, onToggleTask }: Props
                         {block.work}
                       </div>
                       <div className="text-[9px] text-[var(--color-text-dim)] font-mono mt-0.5">
-                        {block.block}
+                        {/* Layman label for block type — plain English, not the raw YAML slug */}
+                        {block.block === "hard_stop" ? "end of workday" : block.block.replace(/_/g, " ")}
                         {block.duration_hours ? ` · ${block.duration_hours}h` : ""}
                       </div>
                     </div>
