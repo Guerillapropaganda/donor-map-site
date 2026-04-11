@@ -15,7 +15,7 @@ issues:
   - "Immigration"
 top-federal-agency: "Department of Agriculture"
 top-naics-code: "311615"
-ein: "476014039"
+ein: 476014039
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
@@ -172,15 +172,17 @@ Opposition to EPA regulation of agricultural waste (poultry litter runoff), favo
 | Metric | Value |
 |--------|-------|
 | Politicians Funded | 1 |
+| Active Lobbyist | Yes |
 | Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Agriculture** → Funds **John Boozman** → Sits on **Agriculture**
+- Lobbies on **Budget/Appropriations** → Funds **John Boozman** → Sits on **Appropriations**
 
 **Funded politicians:**
 
-- [[John Boozman]] (Agriculture, Appropriations)
+- [[John Boozman]] (Agriculture, Appropriations) — lobbying: $5.0M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 

@@ -355,7 +355,7 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 - Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Ken Calvert** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
 - Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
 - Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
@@ -367,7 +367,7 @@ Lockheed Martin executives sitting on Pentagon advisory boards while board membe
 - [[Kay Granger]] (Appropriations)
 - [[Ken Calvert]] (Appropriations)
 - [[Mike Rogers]] (Armed Services)
-- [[Adam Smith]] (Armed Services)
+- [[Adam Smith]] (House Committee on Armed Services)
 - [[Rosa DeLauro]] (House Committee on Appropriations)
 - [[Jack Reed]] (Armed Services)
 - [[Tammy Duckworth]] (Armed Services)

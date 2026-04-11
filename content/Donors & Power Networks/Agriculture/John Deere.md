@@ -13,7 +13,7 @@ issues:
 federal-awards-total: 13881681
 federal-contracts-count: 25
 federal-grants-count: 0
-ein: "366051024"
+ein: 366051024
 annual-revenue: "$17.7M"
 net-assets: "$212.6M"
 tax-year: "2023"
@@ -319,6 +319,27 @@ The right-to-repair fight is a case study in how intellectual property law conve
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1) (NEEDS REVIEW: Just a bunch of code...not sure context)
 <!-- auto:sec-edgar end -->
+
+<!-- auto:sec-edgar pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 8-K, 8-K/A, EX-2.2, EX-21 |
+
+**Notable filings:**
+
+- 2005-12-20 — **EX-21**: SUBSIDIARIES OF THE REGISTRANT
+- 2014-12-19 — **EX-21**: EX-21
+- 2012-12-17 — **EX-21**: EX-21
+- 2010-12-17 — **EX-21**: EX-21
+- 2015-12-18 — **EX-21**: EX-21
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1)
+
+<!-- auto:sec-edgar pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

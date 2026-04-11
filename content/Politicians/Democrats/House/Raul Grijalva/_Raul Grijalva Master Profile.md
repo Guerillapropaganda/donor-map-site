@@ -281,24 +281,6 @@ The analytical significance is the contrast with his counterpart, Bruce Westerma
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-**Key Votes**
-
-| 2025-03-11 | H.J.Res. 25: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1968: Full-Year Continuing Appropriations and Extensions Act, 2025 | **Not Voting** | Passed |
-| 2025-03-11 | H.R. 1156: Pandemic Unemployment Fraud Enforcement Act | **Not Voting** | Passed |
-| 2025-03-11 | H.Res. 211: Providing for consideration of the joint resolution (H.J. Res. 25) providing for congressional disapproval u | **Not Voting** | Passed |
-| 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | **Not Voting** | Passed |
-| 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | **Not Voting** | Passed |
-| 2025-03-10 | H.R. 495: Subterranean Border Defense Act | **Not Voting** | Passed |
-| 2025-03-06 | H.Res. 189: Censuring Representative Al Green of Texas. | **Not Voting** | Passed |
-| 2025-03-06 | S.J.Res. 11: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code,  | **Not Voting** | Passed |
-| 2025-03-05 | H.J.Res. 42: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
-| 2025-03-05 | H.J.Res. 61: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
-| 2025-03-04 | H.Res. 177: Providing for consideration of the joint resolution (H.J. Res. 42) providing for congressional disapproval u | **Not Voting** | Passed |
-| 2025-03-03 | H.R. 758: Mail Traffic Deaths Reporting Act of 2025 | **Not Voting** | Passed |
-| 2025-03-03 | H.R. 856: Safe and Smart Federal Purchasing Act | **Not Voting** | Passed |
-| 2025-02-27 | H.J.Res. 20: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitt | **Not Voting** | Passed |
-
 **Sources**
 
 - [Congress.gov: Raul Grijalva](https://www.congress.gov/member/c001091) (Tier 1)

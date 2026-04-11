@@ -199,13 +199,14 @@ National Nurses United represents class analysis embedded within labor organizin
 |--------|-------|
 | Politicians Funded | 6 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
+| Committee Overlap Detected | 3 politicians |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Health Issues** → Funds **Bernie Sanders** → Sits on **Health, Education, Labor & Pensions (Ranking Member, 119th Congress)**
 - Lobbies on **Medicare/Medicaid** → Funds **Bernie Sanders** → Sits on **Health, Education, Labor & Pensions (Ranking Member, 119th Congress)**
 - Lobbies on **Veterans** → Funds **Mark Takano** → Sits on **House Committee on Veterans' Affairs**
+- Lobbies on **Agriculture** → Funds **Jim McGovern** → Sits on **House Committee on Agriculture**
 
 **Funded politicians:**
 
@@ -214,7 +215,7 @@ National Nurses United represents class analysis embedded within labor organizin
 - [[Mark Takano]] (House Committee on Education and Workforce, House Committee on Veterans' Affairs) — lobbying: $3.1M
 - [[Raul Grijalva]] (Environment & Public Works) — lobbying: $3.1M
 - [[Tammy Baldwin]] — lobbying: $3.1M
-- [[Jim McGovern]] — lobbying: $3.1M
+- [[Jim McGovern]] (House Committee on Agriculture, House Committee on Rules) — lobbying: $3.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 

@@ -23,7 +23,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Federal Election Commission"
-ein: "455097038"
+ein: 455097038
 annual-revenue: "$2.0M"
 net-assets: "$8.5M"
 tax-year: "2023"

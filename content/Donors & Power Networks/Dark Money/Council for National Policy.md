@@ -9,7 +9,7 @@ sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: "720921017"
+ein: 720921017
 annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"

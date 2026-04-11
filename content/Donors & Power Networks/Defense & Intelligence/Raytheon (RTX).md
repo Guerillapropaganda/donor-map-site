@@ -474,8 +474,8 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 - Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense** → Funds **Adam Smith** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
 - Lobbies on **Budget/Appropriations** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
 - Lobbies on **Defense** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
 - Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
@@ -493,7 +493,7 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [[Mark Esper]] — lobbying: $2.2M
 - [[Mike Rogers]] (Armed Services) — lobbying: $2.2M
 - [[Rob Wittman]] — lobbying: $2.2M
-- [[Adam Smith]] (Armed Services) — lobbying: $2.2M
+- [[Adam Smith]] (House Committee on Armed Services) — lobbying: $2.2M
 - [[Salud Carbajal]] — lobbying: $2.2M
 - [[Seth Moulton]] — lobbying: $2.2M
 - [[Rosa DeLauro]] (House Committee on Appropriations) — lobbying: $2.2M

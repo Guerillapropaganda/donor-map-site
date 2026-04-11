@@ -332,7 +332,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 
 - Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Elizabeth Warren** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
 - Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Patty Murray** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
@@ -343,7 +343,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 
 - [[Kay Granger]] (Appropriations)
 - [[Elizabeth Warren]] (Banking, Housing & Urban Affairs, Finance, Armed Services)
-- [[Adam Smith]] (Armed Services)
+- [[Adam Smith]] (House Committee on Armed Services)
 - [[Jack Reed]] (Armed Services)
 - [[Patty Murray]] (Appropriations)
 - [[Tammy Duckworth]] (Armed Services)

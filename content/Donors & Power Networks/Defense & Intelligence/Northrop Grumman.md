@@ -379,7 +379,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 **Lobby → Donate → Committee chains:**
 
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **Armed Services**
+- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
 - Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
 - Lobbies on **Defense & Military** → Funds **Tom Cole** → Sits on **Appropriations**
 - Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
@@ -387,7 +387,7 @@ Northrop Grumman represents the defense sector's most refined form of structural
 **Funded politicians:**
 
 - [[Donald Trump]] — contracts: $94K
-- [[Adam Smith]] (Armed Services) — contracts: $94K
+- [[Adam Smith]] (House Committee on Armed Services) — contracts: $94K
 - [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — contracts: $94K
 - [[Tom Cole]] (Appropriations) — contracts: $94K
 - [[Roger Wicker]] (Armed Services) — contracts: $94K

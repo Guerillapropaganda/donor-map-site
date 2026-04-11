@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Agriculture"
   - "Trade"
-ein: "416020221"
+ein: 416020221
 annual-revenue: "$2.5M"
 net-assets: "$255.2M"
 tax-year: "2023"

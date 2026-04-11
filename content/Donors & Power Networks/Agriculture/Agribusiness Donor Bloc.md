@@ -81,6 +81,7 @@ The four pillars:
 | Metric | Value |
 |--------|-------|
 | Politicians Funded | 1 |
+| Active Lobbyist | Yes |
 | Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
@@ -89,7 +90,7 @@ The four pillars:
 
 **Funded politicians:**
 
-- [[Joni Ernst]] (Agriculture)
+- [[Joni Ernst]] (Agriculture) — lobbying: $480K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 

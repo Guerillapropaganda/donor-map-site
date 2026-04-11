@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Agriculture"
-ein: "840738973"
+ein: 840738973
 annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"

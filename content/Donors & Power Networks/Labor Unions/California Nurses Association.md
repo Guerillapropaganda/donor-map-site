@@ -180,13 +180,16 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 |--------|-------|
 | Politicians Funded | 7 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
+| Committee Overlap Detected | 3 politicians |
 
 **Lobby → Donate → Committee chains:**
 
 - Lobbies on **Budget/Appropriations** → Funds **Jeff Merkley** → Sits on **Budget**
 - Lobbies on **Copyright/Patent/Trademark** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
 - Lobbies on **Immigration** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
+- Lobbies on **Banking** → Funds **Maxine Waters** → Sits on **House Committee on Financial Services**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **Maxine Waters** → Sits on **House Committee on Financial Services**
+- Lobbies on **Housing** → Funds **Maxine Waters** → Sits on **House Committee on Financial Services**
 
 **Funded politicians:**
 
@@ -195,7 +198,7 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 - [[Sherrod Brown]] — lobbying: $10.4M
 - [[Barbara Lee]] — lobbying: $10.4M
 - [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $10.4M
-- [[Maxine Waters]] — lobbying: $10.4M
+- [[Maxine Waters]] (House Committee on Financial Services) — lobbying: $10.4M
 - [[Eric Swalwell]] — lobbying: $10.4M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*

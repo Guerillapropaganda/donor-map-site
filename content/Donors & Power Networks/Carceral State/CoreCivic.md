@@ -29,7 +29,7 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. Ohio"
   - "District Court, S.D. California"
-ein: "823851866"
+ein: 823851866
 annual-revenue: "$511K"
 net-assets: "$52K"
 tax-year: "2024"

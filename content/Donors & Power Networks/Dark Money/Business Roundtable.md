@@ -13,7 +13,7 @@ issues:
   - "Labor & Workers"
 lobbying-spend: 4861010
 lobbying-filings: 104
-ein: "237236607"
+ein: 237236607
 annual-revenue: "$64.5M"
 net-assets: "$47.8M"
 tax-year: "2023"

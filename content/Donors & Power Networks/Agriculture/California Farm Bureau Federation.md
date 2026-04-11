@@ -17,7 +17,7 @@ politicians-funded:
   - "Lindsey Graham"
 issues:
   - "Immigration"
-ein: "940357610"
+ein: 940357610
 annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
@@ -411,3 +411,36 @@ Immigration — H-2A program, undocumented workforce
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Farm%20Bureau%20Federation) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 7 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 5 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Banking** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Medicare/Medicaid** → Funds **John Boehner** → Sits on **Finance**
+- Lobbies on **Homeland Security** → Funds **Bennie Thompson** → Sits on **House Committee on Homeland Security**
+- Lobbies on **Immigration** → Funds **Bennie Thompson** → Sits on **House Committee on Homeland Security**
+- Lobbies on **Agriculture** → Funds **Glenn Thompson** → Sits on **Agriculture**
+- Lobbies on **Agriculture** → Funds **Debbie Stabenow** → Sits on **Agriculture**
+- Lobbies on **Agriculture** → Funds **Jerry Moran** → Sits on **Agriculture**
+- Lobbies on **Veterans** → Funds **Jerry Moran** → Sits on **Veterans' Affairs**
+
+**Funded politicians:**
+
+- [[John Boehner]] (Finance) — lobbying: $10.7M
+- [[Kevin McCarthy]] — lobbying: $10.7M
+- [[Bennie Thompson]] (House Committee on Homeland Security) — lobbying: $10.7M
+- [[Glenn Thompson]] (Agriculture) — lobbying: $10.7M
+- [[Debbie Stabenow]] (Agriculture) — lobbying: $10.7M
+- [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $10.7M
+- [[Lindsey Graham]] — lobbying: $10.7M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->
