@@ -71,8 +71,7 @@ related: >-
   Bailout]] · [[ACA and the Insurance Industry Negotiation]] · [[The Bank
   Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry
   Capture Disguised as Healthcare Reform]] · [[The HAMP Betrayal - Foaming the
-  Runway While 9 Million Homes Were Lost]] · [[The Post-Presidency
-  Capitalization - From Hope and Change to Martha's Vineyard]]
+  Runway While 9 Million Homes Were Lost]]
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
