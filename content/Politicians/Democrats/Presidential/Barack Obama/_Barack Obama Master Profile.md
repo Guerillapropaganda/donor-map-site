@@ -47,7 +47,8 @@ stories: >-
   Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Bank
   Bailout and the Prosecution That Never Came]] · [[ACA and the Insurance
   Industry Negotiation]] · [[Dodd-Frank and the Wall Street Bailout]] · [[DACA
-  and the Limits of Executive Action]]
+  and the Limits of Executive Action]] · [[The Deportation Machine - Obama to
+  Biden and the Apparatus Trump Inherited]]
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   VOTING data is missing entirely. This profile was promoted to ready without
