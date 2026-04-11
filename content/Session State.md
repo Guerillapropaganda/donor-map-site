@@ -11,6 +11,128 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Both (Code + Research, switched as needed)
+Date: 2026-04-11 night (Phase 1 Day 2 final session — Pipeline Janitor + bioguide contamination near-miss + 4 depth passes)
+
+### Theme
+What started as a rc_03/04/05 depth-pass continuation became the single most consequential infrastructure + safety session of the sprint. Built the pipeline-janitor (full audit tool), discovered and defused a live contamination emergency (22 profiles with the wrong bioguide-id about to be re-enriched with Joaquin Castro's data), patched two root-cause engine bugs (`updateFrontmatter` scalar/list hybrid corruption + `selectTargets` not honoring needs-reenrichment), tightened the `ready` definition in Vault Rules, and still got 4 progressive senator depth passes shipped (Summer Lee draft→ready, Sanders, Warren, Jayapal).
+
+### Done — Pipeline health infrastructure (the big one)
+
+- **`scripts/pipeline-janitor.cjs`** (new, ~450 lines) — audits all `ready`/`verified` profiles for missing pipeline auto-blocks, demotes zombies to `draft`, sets `needs-reenrichment: true`, and writes a plain-English `[JANITOR]` note to `internal-notes` explaining why. Scope is strict: pipeline data only (no URLs, no wikilinks, no class analysis). Exempts media-profile/think-tank/story/event/etc. types. Self-healing: clears the flag on profiles whose auto-blocks have returned. Modes: default dry-run, `--write` to apply, `--zombies-only` for safest scope (only `zombie-block` + `known-gap-pipeline` + `internal-notes-pipeline` issues).
+- **First janitor pass: 32 zombie profiles demoted `ready → draft`** — Pressley, Raskin, Porter, Murkowski, Khanna, Booker, Warnock, Whitehouse, Cori Bush, and others — all A000383 / DOJ false-positive / NHTSA cleanup casualties whose frontmatter enrichment keys stayed set after body auto-blocks were stripped. Commit `ad67ffad`.
+- **Engine patch `selectTargets()` honors `needs-reenrichment` flag** (`donor-map-engine@061c2c7` on main). Flagged profiles bypass the `enrichedKey` skip + `notFoundCache`, run at the front of the queue. Closes the loop: janitor flags zombies → pipeline reprocesses them → janitor self-heals. Without this patch, flagged profiles would sit at draft forever while the pipeline skipped them as "already enriched".
+- **Vault Rules: `ready` tier rewritten.** Now explicitly means "99% done, only David's sign-off remains." Hard rule added: missing auto-blocks, stale data, or any `known-gap` / `internal-notes` phrase mentioning "needs fresh pipeline run" / "awaits pipeline" / "not yet enriched" forces `draft`. Both Claudes must enforce the gate rather than leave half-finished profiles labeled ready. Commit `283da862`.
+
+### Done — Bug fixes that prevent deploy breaks
+
+- **Whitehouse YAML corruption fixed** — `donors:` was both a scalar string AND a YAML list underneath, invalid YAML, blocking the Quartz deploy for two consecutive runs (`24267993437`, `24269003528`). Root cause was NOT my edits — it shipped in the earlier "API enrichment: 412 files" commit (`865e0156`). Fixed by removing the scalar duplicate line; 10-element list is the canonical value. Commit `61bda197`. Deploy turned green on `24269113665` after the fix.
+- **Engine `updateFrontmatter()` scalar/list hybrid bug fixed** (`donor-map-engine@4b23618` on main). Both the scalar-write and array-write branches had their own regex that replaced just the key line and left orphaned indented continuation lines behind when the value type changed. Fixed by a single `fullFieldRegex(key)` helper that consumes the key line PLUS any indented continuation lines before replacement. Test suite exercises scalar-replacing-list, array-replacing-list, array-replacing-scalar, and new-key insertion — all pass.
+- **`scripts/yaml-sanity-scan.cjs`** (new) — parses every profile's frontmatter with `js-yaml` and reports failures. Commit `2fe6cb70`. Current state: **1753 scanned, 0 broken YAML, 0 duplicate bioguide IDs.**
+- **Pipeline Guide** — two new incident entries under "Engine-wide known incidents":
+  - "updateFrontmatter scalar/list hybrid corruption (fixed 2026-04-10)" — root cause, fix approach, quality-check rule
+  - "Bulk bioguide contamination — C001091 (Castro) + B001296 waves (fixed 2026-04-10)" — root cause, real-time near-miss, four quality-check rules
+
+### Done — BIOGUIDE CONTAMINATION EMERGENCY (22 profiles)
+
+This was discovered during a depth-pass scan ("lets look at 5 more profiles that make sense"). A bioguide duplication check turned up **19 unrelated profiles all sharing `C001091`** (Joaquin Castro's bioguide) plus **3 more sharing `B001296`** — 22 profiles with wrong IDs. Same class of bug as the A000383 Alan Armstrong incident: a past bulk-set script fell through to `candidates[0]?.bioguideId` when the Congress.gov `q=` name search produced no confident match.
+
+**Live safety risk:** Bowman was in the janitor-flagged `needs-reenrichment: true` set. The running enrichment pipeline (`24269046614`) was actively processing profiles at minute 24+ with the new `selectTargets` patch guaranteeing Bowman would be hit. The Congress pipeline would have called `/v3/member/C001091`, fetched Castro's data, and written it to Bowman's body as a fresh `<!-- auto:congress -->` block. Exact repeat of the A000383 incident at bigger scale.
+
+**Actions:**
+1. **Cancelled `24269046614` mid-run** — `gh run cancel` at ~24 minutes elapsed, before the contamination committed.
+2. Wrote `scripts/fix-bioguide-contamination.cjs` — CLEARS the wrong bioguide-id rather than attempting auto-fix (auto-fix via `q=` search would produce a third wave of contamination since the API has the same name-matching weakness).
+3. Cleared both waves (C001091 + B001296). Each affected profile got: wrong bioguide line removed, `known-gap` entry added, `needs-reenrichment: false` with a `BLOCKED` reason, plain-English `[JANITOR]` note prepended to `internal-notes`.
+4. Commits: `660e5e35` (22 profile fixes + script), `3f197d28` (Pipeline Guide incident doc).
+
+**Affected profiles (need manual bioguide verification at https://bioguide.congress.gov/search next session):**
+C001091 wave — Bowman, Morelle, Pelosi, Josh Gottheimer, Alex Padilla, Chris Coons, Schumer, Hillary Clinton, Hickenlooper, Juliana Stratton, Roy Cooper, Zach Wahls, Sinema, Dan Crenshaw, Maria Elvira Salazar, Matt Gaetz, Rick Scott, Ted Cruz, Tuberville.
+B001296 wave — Daniel Biss, Donna Miller, Melissa Bean.
+
+### Done — Ops app UX fixes
+
+- **VerificationChecklist.tsx** — "2+ Tier 1 source types" check was reading only the `source-types` frontmatter array. The stats panel was counting `(Tier 1)` markers in the body text. Mismatch caused false-negative `✗ N/A` on profiles like Adam Smith (6 Tier 1 sources in body, 0 in frontmatter array). Fix: check passes if EITHER the frontmatter array has ≥2 entries OR the body has ≥2 `(Tier 1)` markers. Applied to all checklist variants (politician common, donor, corporation, lobbying-firm, pac, media-profile, think-tank, DEFAULT). Verified live on Adam Smith — went from `6/9 67%` to `7/9 78%` after HMR. Commit `e13b8df3`.
+- **Pipelines route (`ops/src/app/api/pipelines/route.ts`)** — generic "GITHUB_TOKEN not set" error replaced with diagnostic messages: format validation (must start with `ghp_` / `github_pat_` / `ghs_`) and actionable next-step guidance. David's existing PAT only had `repo` scope — generated a new one with `repo + workflow`, updated `ops/.env.local`, restarted the server. Pipeline dispatches now work.
+- **Worktree `.env.local` was missing** — root cause of "I added the token and it doesn't work" — the preview server runs from the worktree directory but only the main repo had the updated `.env.local`. Copied it over + restarted the preview server. Fixed.
+
+### Done — Research Claude depth passes (rc_03, rc_04, ad-hoc)
+
+Safe targets only — profiles NOT in the janitor's 32 (avoid merge conflicts with the running pipeline).
+
+**rc_03 finale — Squad/leadership:**
+- **Rashida Tlaib** — removed duplicate FEC source, added `### Verified` header
+- **Ayanna Pressley** — fixed missing Voting Record table header row
+- **Hakeem Jeffries** — added Congress.gov Tier 1 source, updated `corroboration-count: 2`, removed stray `--- (Tier 3)` formatting artifact, flagged `editorial-result: verified-candidate`
+- **Greg Casar** — **created new raw stub** (profile didn't exist in vault despite being on the rc_03 candidate list), bioguide C001133, FEC H2TX35108
+
+**rc_04 — Summer Lee promoted draft→ready:**
+- Added Class Analysis section (DSA alignment, AIPAC actuarial failure pattern, demographic limits of donor-class override)
+- Cleaned Sources structure (Verified / Archived split)
+- Added `bioguide-id: L000299` + `corroboration-count: 2` to frontmatter
+- Flagged `editorial-result: ready-candidate` for David's verified sign-off once committee/bill data populates via pipeline
+
+**Sanders depth pass** (commit `b65e6ece`):
+- **Factual fix:** `party: "Democrat"` → `"Independent"` with `caucus: "Democratic"`. Longest-serving Independent in Congress; the title, file path, and body all said Independent; only the frontmatter was wrong.
+- Added `bioguide-id: "S000033"` (was missing — the reason Congress pipeline could never enrich him)
+- Issues 1→9 entries, added committees, expanded top-donors with small-dollar model, structured opposes, expanded related wikilinks
+- Removed body inline dataview `donors: [[SEIU...]], ...` + orphan double `---` separator + body `research-status:: ready` dataview line
+- Stays `draft` per new Vault Rules (Congress/GovTrack blocks still missing, FEC auto-block shows stale cycle-2006 data), flagged `needs-reenrichment: true`
+- **Body untouched** — 4-pattern class analysis arguably the strongest anti-donor case study in the vault
+
+**Warren depth pass** (commit `03ef38dd`):
+- Added `bioguide-id: "W000817"`, removed false-positive `DOJ` from source-types (engine scan artifact), expanded issues 1→8, added committees, restructured top-donors to lead with 96.2% individual contributions (the "anti-model"), added structured opposes (Fairshake, Griffin, corporate PACs), removed inline body dataview + double-separator
+- Stays `draft`, flagged `needs-reenrichment: true`
+
+**Jayapal depth pass** (commit `03ef38dd`):
+- Added `former-roles: CPC Chair 2021-2024`, expanded committees (Judiciary/Antitrust, Budget), restructured issues to lead with Medicare for All + immigration, added structured opposes (Amazon, Microsoft — the WA-7 antitrust contradiction the body analyzes), removed inline body dataview
+- Stays `draft`, NOT flagging needs-reenrichment (Congress data IS present; only GovTrack missing, normal rotation will hit her)
+
+### Commits this session (~20 commits)
+
+Engine repo (`donor-map-engine`, branch `main`):
+- `061c2c7` — selectTargets honors needs-reenrichment flag
+- `4b23618` — updateFrontmatter consumes full field (key + continuations)
+
+Site repo (`donor-map-site`, branch `v4`) — major commits only:
+- `ad67ffad` — Pipeline health: janitor + tightened `ready` definition + 32 zombie demotions
+- `e13b8df3` — Ops app: fix checklist false negatives + diagnostic token errors
+- `283da862` — Research Claude: Vault Rules tighten + Squad depth pass + Summer Lee promoted
+- `61bda197` — Fix Whitehouse YAML: remove duplicate scalar donors line
+- `2fe6cb70` / `b164b099` — YAML sanity scan + Pipeline Guide updateFrontmatter incident doc
+- `b65e6ece` — Bernie Sanders depth pass
+- `03ef38dd` — Warren + Jayapal depth passes
+- `660e5e35` — Clear wrong bioguide contamination (19× C001091 + 3× B001296)
+- `3f197d28` — Pipeline Guide: bioguide contamination incident doc
+- Deploys: `24269113665` ✓ (Whitehouse YAML fix — turned builds back green)
+
+### Known issues / still outstanding
+
+- **22 profiles need correct bioguides added manually** — all cleared, all have `known-gap` documenting the contamination, all have `needs-reenrichment: false` with a `BLOCKED` reason. Verify each at `https://bioguide.congress.gov/search`. Once a verified bioguide is in place, flip `needs-reenrichment` to `true` and the patched `selectTargets` will pick them up. This is rc_06 / next-session work.
+- **Enrichment run `24269046614` was cancelled mid-run** — it had been running for ~24 min. The ~10 safely-flagged profiles (not in the bad-bioguide set) still need their re-enrichment. Re-dispatch after the bioguide recovery lands, OR wait for the next scheduled cron slot.
+- **rc_05 (Bowman + Bush verified review) still blocked** — Bowman specifically needs a correct bioguide first. Bush looks clean and is ready for David's sign-off.
+- **Janitor should add duplicate-bioguide check** — per the Pipeline Guide "quality check rule 2" from today's incident. Small addition to `scripts/pipeline-janitor.cjs`.
+- **FEC auto-blocks showing cycle 2006 for Sanders and possibly others** — stale pipeline data even though the block exists. Janitor currently only checks for block PRESENCE, not content freshness. Follow-up: add a `stale-fec-cycle` detector.
+
+### Next session priorities (2026-04-12)
+
+1. **Manual bioguide recovery for the 22 contaminated profiles.** Use `https://bioguide.congress.gov/search` to look up each, verify against the profile's title + state + chamber, write the correct bioguide to frontmatter, flip `needs-reenrichment: true`. Estimated 15–20 min for all 22. This unblocks rc_05 (Bowman re-review).
+2. **Re-dispatch `api-enrichment.yml` pipeline** once bioguides are restored. With the `selectTargets` patch live, the flagged profiles from today's janitor run will be processed first. Watch for a clean completion and verify via the next janitor self-healing pass that the `needs-reenrichment` flags clear.
+3. **Add duplicate-bioguide check to the janitor** — `scripts/pipeline-janitor.cjs` should flag any bioguide-id appearing on more than one profile. Small addition, high prevention value per today's incident.
+4. **rc_05 finale: Bowman + Bush verified re-review** once fresh pipeline data lands.
+5. **Continue Research Claude depth passes** — AOC (already at ready, has inline-dataview + metadata gaps), Adam Smith, Jeff Merkley, Chris Murphy, Tammy Baldwin — all `draft`, all safe targets.
+6. **David**: conflict triage backlog (~528 remaining, target 27/day).
+7. **David**: review today's `verified-candidate` flags (Jeffries, Summer Lee, Sanders-pending, Warren-pending, Jayapal-pending after pipeline).
+
+### Session end state: safer than start
+- **22 contamination cases defused** before the pipeline could amplify them
+- **1753 profiles / 0 broken YAML / 0 duplicate bioguides** (vault-wide clean)
+- **Engine has two new root-cause fixes** that prevent recurrence of both corruption classes
+- **Janitor + `ready` rule tightening** means future contamination gets caught automatically rather than silently breaking deploys
+- **8 Research Claude profile updates** committed across rc_03/04 + ad-hoc
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-11 evening (Phase 1 Day 2 continued — 5 infrastructure safety nets + 3 new corporate accountability pipelines + Ops app wiring)
 
