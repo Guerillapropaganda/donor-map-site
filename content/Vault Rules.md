@@ -8,6 +8,8 @@ related: "[[Ally 1]] · [[Funder 2]]"
 
 Single source of truth for both Code Claude and Research Claude. No other methodology doc overrides this file. When in doubt, this wins.
 
+> **Phase 3 — canonical relationships.** As of 2026-04-11, the canonical source for every relationship between profiles lives in `data/relationships.jsonl`. Legacy frontmatter fields (`related`, `donors`, `top-donors`, `politicians-funded`, `opposes`, `stories`) are still readable by existing consumers but **new relationship data should go through the canonical store**. Schema + validator: `scripts/lib/relationship-edge-validator.cjs`. Reader: `scripts/lib/relationships-store.cjs` (CJS) / `ops/src/lib/relationships-store.ts` (TS mirror). See the CLAUDE.md frontmatter-only section for the `-generated` cache-field exception.
+
 ---
 
 ## 1. Tier 1 First (The Core Rule)
