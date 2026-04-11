@@ -2,7 +2,7 @@
 title: "Adam Smith"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -11,11 +11,20 @@ state: "Washington"
 state-abbr: "WA"
 district: "9"
 committees:
-  - "Armed Services"
+  - "House Committee on Armed Services"
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Defense & Military"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Energy"
+  - "Environmental Protection"
+  - "Foreign Trade and International Finance"
+  - "Health"
 top-donors:
   - "Boeing"
   - "Northrop Grumman"
@@ -24,7 +33,7 @@ top-donors:
 fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 govtrack-id: 400379
@@ -37,6 +46,12 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
 
 [CODE @ 2026-04-10] Pipeline: fec completed for Adam Smith. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24267974287"
+bioguide-id: "S000510"
+total-raised: "$786,535"
+total-spent: "$659,320"
+cash-on-hand: "697967.61"
+fec-cycle: 2026
+total-received: "$786,535"
 ---
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power
 
@@ -146,7 +161,72 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 - ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $786,535 |
+| Individual Contributions | $412,258 |
+| PAC Contributions | $326,250 |
+| Cash on Hand | 697967.61 |
+| IE Support (Super PAC) | $31,191 |
+| IE Opposition (Super PAC) | $50,926 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $786,535 | $412,258 | $326,250 |
+| 2024 | $1,677,916 | $899,896 | $714,400 |
+| 2022 | $1,386,776 | $601,760 | $727,000 |
+| 2020 | $1,327,196 | $523,669 | $776,312 |
+| 2018 | $1,415,994 | $562,795 | $809,946 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NARAL | $0 | $48,944 |
+| SUSAN B ANTHONY LIST INC | $0 | $39,906 |
+| TOGETHER FOR PROGRESS PAC | $7,797 | $0 |
+| PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 | $0 |
+| THE 60 PLUS ASSOCIATION | $0 | $6,122 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Washington |
+| Chamber | House of Representatives |
+| Bills Sponsored | 232 |
+| Bills Cosponsored | 4972 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Economics and Public Finance, Education, Energy, Environmental Protection, Foreign Trade and International Finance, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 6281 | CHARGE Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+| 5859 | Behavioral Health Crisis Care Centers Act of 2025 | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5807 | Empowering Individuals to Succeed Through Education and Workforce Training Act | Referred to the House Committee on Education and Workforce. |
+| 5806 | Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 5785 | Voluntary Grazing Permit Retirement Act of 2025 | Referred to the House Committee on Natural Resources. |
+| 5532 | To direct the Secretary of Education to establish a program to facilitate the tr… | Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5531 | Career and Technical Education Access Act | Referred to the House Committee on Education and Workforce. |
+| 5492 | PAAF Act | Referred to the House Committee on the Judiciary. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -163,7 +243,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -175,9 +255,9 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 **Donate → Lobby → Committee chains:**
 
-- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **House Committee on Armed Services**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -212,3 +292,65 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400379) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Armed Services
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $786,535 |
+| Total Spent | $659,320 |
+| Cash on Hand | 697967.61 |
+| Individual Contributions | $412,258 |
+| PAC Contributions | $326,250 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $786,535 | $659,320 | 697967.61 |
+| 2024 | $1,677,916 | $1,701,114 | 570752.82 |
+| 2022 | $1,386,776 | $1,378,653 | 593950.77 |
+| 2020 | $1,327,196 | $933,145 | 585827.81 |
+| 2018 | $1,415,994 | $1,623,913 | 191776.67 |
+| 2016 | $925,645 | $1,105,447 | 399695.38 |
+| ... | 10 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Adam Smith](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1)
+<!-- auto:voting-record end -->

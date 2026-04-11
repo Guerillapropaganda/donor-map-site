@@ -2,7 +2,7 @@
 title: "Anthem - Elevance Health"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -20,7 +20,7 @@ total-revenue: 40154470
 total-assets: 139880517
 lobbying-spend: 680000
 lobbying-filings: 12
-related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]]"
+related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]]"
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -196,5 +196,5 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 
 - [[Gavin Newsom]] — lobbying: $680K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

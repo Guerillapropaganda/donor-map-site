@@ -2,7 +2,7 @@
 title: "Preserve America"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -18,7 +18,7 @@ federal-register-mentions: 489
 regulatory-agencies:
   - "Federal Highway Administration"
   - "Transportation Department"
-related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]] · [[Trump 2024 Campaign]] · [[WinRed]]"
+related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]] · [[Trump 2024 Campaign]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]]"
 cross-vault-triangulation-count: 6
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
@@ -175,3 +175,21 @@ Preserve America does not operate in isolation. It coordinates with:
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Preserve%20America%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### SEC Filing Activity
+<!-- auto:sec-edgar start -->
+| Metric | Value |
+|--------|-------|
+| Total Filings | 21 |
+| Form Types | 10-K, 10-Q, 253G2, 424B3, EX-99.1, PART II AND III, S-1 |
+
+**Notable filings:**
+
+- 2006-12-22 — **EX-99.1**: PRESS RELEASE DATED DECEMBER 18, 2006
+- 2020-12-03 — **EX-99.1**: EXHIBIT 99.1
+- 2020-08-06 — **EX-99.1**: EXHIBIT 99.1
+- 2020-10-30 — **10-Q**: FORM 10-Q
+- 2020-08-05 — **10-Q**: 10-Q
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Preserve%20America%22) (Tier 1)
+<!-- auto:sec-edgar end -->

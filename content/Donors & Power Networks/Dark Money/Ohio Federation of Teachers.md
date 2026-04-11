@@ -2,7 +2,7 @@
 title: "Ohio Federation of Teachers"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,7 +15,7 @@ subawards-received-amount: 1009778941592127500
 sec-filings: 1
 sec-form-types:
   - "424B3"
-related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]] · [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]] · [[Democratic Donor Network]] · [[Democratic Party Infrastructure]] · [[Small Dollar Donors - ActBlue]]"
+related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]] · [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]] · [[Democratic Donor Network]] · [[Democratic Party Infrastructure]] · [[Small Dollar Donors - ActBlue]] · [[Democratic Small Dollar Networks]]"
 lobbying-spend: 2868540
 lobbying-filings: 96
 cross-vault-triangulation-count: 9
@@ -192,5 +192,5 @@ The deeper pattern: OFT represents workers who serve the public. The donor class
 
 - [[Amy Acton]] — lobbying: $2.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

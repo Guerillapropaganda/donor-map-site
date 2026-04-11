@@ -2,7 +2,7 @@
 title: "Rick Larsen"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -15,8 +15,16 @@ committees:
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Infrastructure"
-  - "Labor & Workers"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Emergency Management"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Health"
+  - "Immigration"
 top-donors:
   - "Boeing"
 donors: "[[IBEW - International Brotherhood of Electrical Workers]]"
@@ -34,6 +42,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-11"
+bioguide-id: "L000560"
 ---
 #rick-larsen #democrat #washington #house #ranking-member #transportation #infrastructure #boeing #aviation #aerospace #labor #phase-6-gavel-power
 
@@ -225,3 +235,58 @@ This is the structural alignment pattern in its Democratic variant: like Cantwel
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400232) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Not Voting** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Not Voting** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Not Voting** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Rick Larsen](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Rick Larsen](https://www.govtrack.us/congress/members/400232) (Tier 1)
+<!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Washington |
+| Chamber | House of Representatives |
+| Bills Sponsored | 176 |
+| Bills Cosponsored | 3627 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Emergency Management, Environmental Protection, Finance and Financial Sector, Health, Immigration, International Affairs, Labor and Employment, Native Americans, Science, Technology, Communications, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 6530 | AI Training for National Security Act | Referred to the House Committee on Armed Services. |
+| 6451 | VA Transit Act | Referred to the Subcommittee on Highways and Transit. |
+| 6348 | Transportation Assistance for Olympic and World Cup Cities Act of 2025 | Referred to the House Committee on Transportation and Infrastructure. |
+| 6148 | Patients Over Paperwork Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+| 4855 | Veteran Families Health Services Act of 2025 | Referred to the Subcommittee on Health. |
+| 3773 | PROTECT Act of 2025 | Referred to the Committee on the Judiciary, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 3477 | Ensuring Airline Resiliency to Reduce Delays and Cancellations Act | Ordered to be Reported by the Yeas and Nays: 57 - 7. |
+| 2860 | Northwest Straits Marine Conservation Initiative Reauthorization Act of 2025 | Placed on the Union Calendar, Calendar No. 376. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/L000560) (Tier 1)
+<!-- auto:congress-legislation end -->

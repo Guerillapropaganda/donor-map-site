@@ -2,7 +2,7 @@
 title: "Johnson & Johnson"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -14,7 +14,7 @@ annual-revenue: "$477K"
 net-assets: "$1.3M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 ofac-programs:
@@ -29,7 +29,7 @@ federal-awards-total: 41140658
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 359319
 total-assets: 1224754
@@ -41,6 +41,8 @@ cross-vault-triangulation-count: 17
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+fda-recalls: 110
+fda-recalls-class-i: 2
 ---
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing
 
@@ -315,3 +317,39 @@ Bipartisan distribution targeting Finance Committee (Medicare drug pricing), Jud
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Johnson%20%26%20Johnson) (Tier 1)
 <!-- auto:ftc-enforcement end -->
+
+### FDA Enforcement (openFDA)
+<!-- auto:fda-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| Total FDA recalls | 110 |
+| Drug recalls | 24 |
+| Device recalls | 86 |
+| **Class I (life-threatening)** | **2** |
+| Class II (temporary/reversible) | 107 |
+| Class III (unlikely to cause harm) | 1 |
+| Ongoing | 41 |
+| Most recent | 2025-06-12 |
+| Earliest | 2012-03-12 |
+
+**Class I recalls (life-threatening):**
+
+- [drug] **D-0844-2021** (2021-07-14): Neutrogena Beach Defense water+sun protection sunscreen spray BROAD SPECTRUM SPF 50, Avobenzone (3%), Homosalate (10%), Octisalate (5%), Octocrylene (10%), NET WT. 6.5 OZ. (184 g) aerosol can, Distrib
+  - Reason: Chemical Contamination: presence of benzene
+- [drug] **D-0845-2021** (2021-07-14): Neutrogena Beach Defense water+sun protection sunscreen spray BROAD SPECTRUM SPF 60+, Avobenzone (3%), Homosalate (10%), Octisalate (5%), Octocrylene (10%)  NET WT. 8.5 OZ. (240 g) aerosol can, Distri
+  - Reason: Chemical Contamination: presence of benzene
+
+**Recent recalls:**
+
+- [device] [Class II] Z-2163-2025 (2025-06-12): ACUVUE¿ OASYS MAX 1-Day MULTIFOCAL
+- [device] [Class II] Z-1314-2025 (2025-02-24): COR Disposable Kit, 8 mm. Cartilage Transplant System.
+- [device] [Class II] Z-1315-2025 (2025-02-24): COR Disposable Kit, 8 mm w/ Perpendicularity. Cartilage Transplant System.
+- [device] [Class II] Z-2406-2024 (2024-06-11): SURGICEL FIBRILLAR 1INX2IN(2.5CMX5.1CM), Product Number: 1961
+- [device] [Class II] Z-2407-2024 (2024-06-11): SURGICEL FIBRILLAR 1INX2IN(2.5CMX5.1CM), Product Number: 1963
+- [device] [Class II] Z-1755-2024 (2024-03-14): Johnson & Johnson VISION Reusable LAMINAR High Flow Irrigation Sleeve and Test Chamber   21 Gauge REF OPOHF21L    The irrigation sleeve is a device intended to direct irrigation solution across the sh
+- ... and 104 more
+
+_Variant firm names in FDA data: Johnson & Johnson Vision Care, Inc.; DePuy Mitek, Inc., a Johnson & Johnson Co.; Ethicon Sarl, a Johnson & Johnson Company; Johnson & Johnson Surgical Vision, Inc.; Johnson & Johnson Surgical Vision Inc_
+
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Johnson%20%26%20Johnson) (Tier 1)
+<!-- auto:fda-enforcement end -->

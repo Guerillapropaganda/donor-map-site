@@ -175,7 +175,7 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 
 - [[CalPERS]] — $480K lobbying spend (Budget/Appropriations, Health Issues, Retirement)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

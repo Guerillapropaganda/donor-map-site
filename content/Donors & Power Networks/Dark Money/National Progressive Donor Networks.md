@@ -2,7 +2,7 @@
 title: "National Progressive Donor Networks"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Tom Steyer"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]]"
+related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
@@ -65,7 +65,7 @@ The progressive donor network extends beyond DA to include: the Arabella Advisor
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 2 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
@@ -73,7 +73,6 @@ The progressive donor network extends beyond DA to include: the Arabella Advisor
 
 - [[Tom Steyer]] — lobbying: $3.1M
 - [[Mallory McMorrow]] — lobbying: $3.1M
-- [[Zach Wahls]] — lobbying: $3.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

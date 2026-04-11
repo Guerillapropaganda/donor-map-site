@@ -2,7 +2,7 @@
 title: "Bradley Foundation"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -23,7 +23,7 @@ net-assets: "$3.5M"
 tax-year: "2023"
 total-political-spend: "$150,500"
 last-enriched: "2026-04-10"
-related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]]"
+related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Defense Contractors Bloc]]"
 sec-filings: 1623
 sec-form-types:
   - "10-K"
@@ -289,7 +289,7 @@ The 2022 grant of $27.1 million to America First Legal — 61% of AFL's budget �
 
 - [[Donald Trump]] — lobbying: $3.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Subawards & Spending Breakdown

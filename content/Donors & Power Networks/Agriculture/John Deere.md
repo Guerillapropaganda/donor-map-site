@@ -2,7 +2,7 @@
 title: "John Deere"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -19,7 +19,7 @@ net-assets: "$212.6M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 subawards-issued: 50
@@ -55,6 +55,24 @@ cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+court-cases: 16500
+court-jurisdictions:
+  - "District Court, C.D. Illinois"
+  - "District Court, D. Kansas"
+  - "District Court, D. Maine"
+  - "District Court, D. Minnesota"
+  - "District Court, D. North Dakota"
+  - "District Court, District of Columbia"
+  - "District Court, E.D. Arkansas"
+  - "District Court, E.D. Kentucky"
+  - "District Court, E.D. Tennessee"
+  - "District Court, M.D. Alabama"
+nonprofit-status: "501(c)(3)"
+total-revenue: 132817572
+total-assets: 220477766
+wikidata-id: "Q98642757"
+lobbying-spend: 1714623
+lobbying-filings: 130
 ---
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
 
@@ -111,6 +129,31 @@ The right-to-repair fight is a case study in how intellectual property law conve
 
 <!-- auto:usaspending end -->
 
+<!-- auto:usaspending pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $13.9M |
+| Contracts (recent 3yr) | 25 ($41.4M sampled) |
+| Grants (recent 3yr) | 0 ($0 sampled) |
+| Federal Agencies | 4 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $7.6M | Department of Defense | 8511618895!WHEEL LOADER |
+| $7.0M | Department of Defense | 8508745369!WHEEL LOADER |
+| $6.7M | Department of Defense | 8510172333!TRACK LOADER |
+| $6.4M | Department of Defense | 8511246304!MTR GRADER |
+| $1.9M | Department of Defense | 8511345881!MOTOR GRADER |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/62fbfb7a-aa79-01e2-9bd7-941bd1c0a434-C/latest) (Tier 1)
+
+<!-- auto:usaspending pending-merge end -->
+
 ### Sources
 
 - [OpenSecrets: Deere & Company organizational profile](https://www.opensecrets.org/orgs/deere-co/summary?id=D000000504) (Tier 1)
@@ -129,6 +172,22 @@ The right-to-repair fight is a case study in how intellectual property law conve
 - [Source: ProPublica Nonprofit Explorer — EIN 366051024](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1) (VERIFIED)
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
+
+<!-- auto:propublica-990 pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $17.7M |
+| Total Contributions | $0 |
+| Total Expenses | $42.5M |
+| Net Assets | $212.6M |
+
+- [Source: ProPublica Nonprofit Explorer — EIN 366051024](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
+- [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1)
+
+<!-- auto:propublica-990 pending-merge end -->
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
@@ -194,6 +253,55 @@ The right-to-repair fight is a case study in how intellectual property law conve
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (NEEDS REVIEW: Generic search results)
 <!-- auto:usaspending-subawards end -->
 
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($7.0M sampled) |
+| Subawards Received (as sub) | 50 ($7.0M sampled) |
+| Top Federal Agency | Department of Defense ($56.3M) |
+| Primary NAICS Sector | Construction Machinery Manufacturing |
+
+**Subcontractors receiving federal money from John Deere:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| JOHN DEERE ELECTRONIC SOLUTIONS, INC | $7.0M | 50 |
+
+**Prime contractors funneling federal money to John Deere:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| AM GENERAL LLC | $4.1M | 2 |
+| OSHKOSH DEFENSE, LLC | $3.0M | 48 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $56.3M |
+| Department of the Interior | $14.3M |
+| Department of Agriculture | $1.9M |
+| Department of Homeland Security | $837K |
+| Department of Transportation | $443K |
+| National Aeronautics and Space Administration | $365K |
+| Department of Energy | $332K |
+| Department of Justice | $285K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Construction Machinery Manufacturing (333120) | $74.6M |
+| Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers (423810) | $435K |
+| Farm Machinery and Equipment Manufacturing (333111) | $89K |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
+
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |
@@ -211,6 +319,27 @@ The right-to-repair fight is a case study in how intellectual property law conve
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1) (NEEDS REVIEW: Just a bunch of code...not sure context)
 <!-- auto:sec-edgar end -->
+
+<!-- auto:sec-edgar pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Filings | 10,000 |
+| Form Types | 10-K, 10-Q, 8-K, 8-K/A, EX-2.2, EX-21 |
+
+**Notable filings:**
+
+- 2005-12-20 — **EX-21**: SUBSIDIARIES OF THE REGISTRANT
+- 2014-12-19 — **EX-21**: EX-21
+- 2012-12-17 — **EX-21**: EX-21
+- 2010-12-17 — **EX-21**: EX-21
+- 2015-12-18 — **EX-21**: EX-21
+
+- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22John%20Deere%22) (Tier 1)
+
+<!-- auto:sec-edgar pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -234,6 +363,31 @@ The right-to-repair fight is a case study in how intellectual property law conve
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22John%20Deere%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
+<!-- auto:federal-register pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 157 |
+| Final Rules | 29 |
+| Proposed Rules | 16 |
+| Notices | 112 |
+| Agencies | Antitrust Division, Commerce Department, Consumer Product Safety Commission, Environmental Protection Agency, Federal Communications Commission, International Trade Administration, International Trade Commission, Justice Department +1 more |
+
+**Recent regulatory activity:**
+- [Certain New Pneumatic Off-the-Road Tires From India: Final Results of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2026/03/19/2026-05440/certain-new-pneumatic-off-the-road-tires-from-india-final-results-of-countervailing-duty) (2026-03-19) — Commerce Department
+- [Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results of Countervailing Duty Administrative Review; 2023](https://www.federalregister.gov/documents/2025/07/11/2025-12948/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-of-countervailing-duty) (2025-07-11) — Commerce Department
+- [Certain New Pneumatic Off-the-Road Tires From India: Preliminary Results and Partial Recission of Antidumping Duty Administrative Review; 2023-2024](https://www.federalregister.gov/documents/2025/07/11/2025-12947/certain-new-pneumatic-off-the-road-tires-from-india-preliminary-results-and-partial-recission-of) (2025-07-11) — Commerce Department
+- [Initiation of Antidumping and Countervailing Duty Administrative Reviews](https://www.federalregister.gov/documents/2025/05/20/2025-08970/initiation-of-antidumping-and-countervailing-duty-administrative-reviews) (2025-05-20) — Commerce Department
+- [Initiation of Antidumping and Countervailing Duty Administrative Reviews](https://www.federalregister.gov/documents/2025/04/28/2025-07286/initiation-of-antidumping-and-countervailing-duty-administrative-reviews) (2025-04-28) — Commerce Department
+- [Air Plan Approval; Wisconsin; Revised Format for Materials Incorporated by Reference](https://www.federalregister.gov/documents/2025/04/22/2025-06618/air-plan-approval-wisconsin-revised-format-for-materials-incorporated-by-reference) (2025-04-22) — Environmental Protection Agency
+- ... and 151 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22John%20Deere%22) (Tier 1)
+
+<!-- auto:federal-register pending-merge end -->
+
 ### Product Recalls (CPSC)
 <!-- auto:cpsc-recalls start -->
 | Metric | Value |
@@ -256,6 +410,31 @@ The right-to-repair fight is a case study in how intellectual property law conve
 - ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
+<!-- auto:cpsc-recalls pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total CPSC Recalls | 43 |
+| Most Recent Recall | 2025-01-02 |
+| Earliest Recall | 1984-07-09 |
+| Hazard Types | The voltage regulator in the mower's engine can fail during use or while the product is being stored, causing the engine to overheat, posing fire and burn hazards., The front bell crank in the brake linkage can fail causing the tractor to lose braking, resulting in a crash hazard., The recalled engines can overheat, posing fire and burn hazards., Fuel can leak from under the fuel cap, posing a fire hazard., The wheel hubs were not manufactured to specifications and can fail, causing the tractor to lose braking and propulsion, posing crash and injury hazards. |
+
+**Recent recalls:**
+
+- [Kawasaki Motors USA Recalls John Deere ZTrak Zero Turn Mowers with Kawasaki Engines Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/25083) (2025-01-02) — The voltage regulator in the mower's engine can fail during use or while the product is being stored, causing the engine to overheat, posing fire and burn hazards.
+- [John Deere Recalls Compact Utility Tractors Due to Crash Hazard](https://www.cpsc.gov/Recalls/24377) (2024-09-26) — The front bell crank in the brake linkage can fail causing the tractor to lose braking, resulting in a crash hazard.
+- [Kawasaki Motors USA Recalls Engines Used in Bad Boy Mowers, BigDog, Bobcat, Cub Cadet, Hustler, John Deere and Kubota Brand Lawn and Garden Equipment Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/24256) (2024-06-06) — The recalled engines can overheat, posing fire and burn hazards.
+- [John Deere Recalls XUV590 Gator Utility Vehicles Due to Fire Hazard (Recall Alert)](https://www.cpsc.gov/Recalls/23768) (2023-06-08) — Fuel can leak from under the fuel cap, posing a fire hazard.
+- [John Deere Recalls Lawn Tractors Due to Crash and Injury Hazards (Recall Alert)](https://www.cpsc.gov/Recalls/22756) (2022-07-07) — The wheel hubs were not manufactured to specifications and can fail, causing the tractor to lose braking and propulsion, posing crash and injury hazards.
+- [John Deere Recalls Compact Utility Tractors Due to Risk of Injury (Recall Alert)](https://www.cpsc.gov/Recalls/21776) (2021-08-19) — Rear wheel spacer bolts that were torqued improperly during manufacturing can cause the wheel to fall off during use. This can result in the tractor overturning, posing an injury hazard to the operator.
+- ... and 37 more
+
+- [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere) (Tier 1)
+
+<!-- auto:cpsc-recalls pending-merge end -->
+
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |
@@ -270,3 +449,75 @@ The right-to-repair fight is a case study in how intellectual property law conve
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 <!-- auto:gleif-lei end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 16,500 |
+| Courts | District Court, C.D. Illinois, District Court, D. Kansas, District Court, D. Maine, District Court, D. Minnesota, District Court, D. North Dakota, District Court, District of Columbia, District Court, E.D. Arkansas, District Court, E.D. Kentucky +7 more |
+| Case Types | 110 Insurance, 360 P.I.: Other, 440 Civil Rights: Other, 485 Telephone Consumer Protection Act (TCPA), 840 Trademark |
+
+**Notable cases:**
+- AVE-PLP, LLC v. AgriVision, LLC (2026) — District Court, D. Kansas
+- Tiede v. Brandt Equities, LP (2026) — District Court, D. North Dakota
+- Mulford Construction Co., Inc. (2026) — United States Bankruptcy Court, D. Maryland
+- Nationwide Agribusiness Insurance Company v. Orris (2026) — District Court, C.D. Illinois
+- Berger v. Monroe County, Tennessee (2026) — District Court, E.D. Tennessee
+- HERNANDEZ GONZALES v. MADURO MOROS (2026) — District Court, District of Columbia
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22John%20Deere%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->
+
+### Tax Filings (IRS 990)
+<!-- auto:nonprofit-990 start -->
+| Metric | Value |
+|--------|-------|
+| EIN | 366051024 |
+| Tax-Exempt Status | 501(c)(3) |
+| Total Revenue | $132.8M |
+| Total Assets | $220.5M |
+| IRS Ruling Date | 1949-10-01 |
+| Filings on Record | 10 |
+
+**Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
+
+**View 990 filings:**
+- [2023 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2023)
+- [2022 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2022)
+- [2021 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2021)
+- [2020 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2020)
+- [2019 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2019)
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
+<!-- auto:nonprofit-990 end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q98642757](https://www.wikidata.org/wiki/Q98642757) |
+| Description | brand of Deere & Company |
+
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q98642757) (Tier 2)
+<!-- auto:wikipedia end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $1.7M |
+| Quarterly Filings | 130 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 47 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Constitution, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Fuel/Gas/Oil, Health Issues, Housing, Insurance, Manufacturing, Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Retirement, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation, Trucking/Shipping, Veterans
+
+**Lobbying firms:** ABI ASSOCIATES, BECKER & POLIAKOFF, P.A., BRICK STREET STRATEGY, BROWNSTEIN HYATT FARBER SCHRECK, LLP, CASSIDY & ASSOCIATES, INC., CAVAROCCHI RUSCIO DENNIS ASSOCIATES, L.L.C., CORNERSTONE GOVERNMENT AFFAIRS, INC., COVINGTON & BURLING LLP, DAUGHERTY STRATEGIES LLC, DOWNS GOVERNMENT AFFAIRS, DYKEMA GOSSETT PLLC, ERVIN GRAVES STRATEGY GROUP, LLC, FLYWHEEL GOVERNMENT SOLUTIONS, FOLEY & LARDNER LLP, HALL, RENDER, KILLIAN, HEATH & LYMAN, P.C., HANCE SCARBOROUGH, HB STRATEGIES, HOLLAND & KNIGHT LLP, INVARIANT LLC, JOHN BIRCH SOCIETY, JOHN DUNCAN AND ASSOCIATES, LLC, JOHN W. CONRAD III DBA JOHN W. CONRAD III AND COMPANY, JOHNSON MATTHEY INC., JOHNSTON GROUP, LLC, KEYS GROUP, LLC, LAW OFFICE OF JOHN J. FASO, P.C, LOBBYIT.COM, MALONEY GOVERNMENT RELATIONS, LLC, MAYFORTH GROUP, LLC., MEAD JOHNSON & COMPANY, LLC, MINDSET ADVOCACY, LLC, MR. JOHN HOWES, NATURAL RESOURCE RESULTS LLC, O'DONNELL & ASSOCIATES LLC, OCULUS STRATEGIES, LLC, POBLETE TAMARGO, LLP, PROSPERING SOLUTIONS, LLC FKA JOHN C. SNYDER III, RICHARD BURNESS, RICHARD MCGIVERN, S.C. JOHNSON & SON, INC., TELEGRAPH AVENUE ADVISORS, THE COMPLETE AGENCY, THE FERGUSON GROUP, THE WASHINGTON TAX & PUBLIC POLICY GROUP, TIBER CREEK GROUP, WILLIAM CASTLE, WINNING STRATEGIES WASHINGTON
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Defense, Dept of (DOD), Energy, Dept of, Federal Aviation Administration (FAA), HOUSE OF REPRESENTATIVES, Natl Park Service (NPS), Natl Security Council (NSC), Office of Management & Budget (OMB), SENATE +6 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=John%20Deere) (Tier 1)
+<!-- auto:lda-lobbying end -->

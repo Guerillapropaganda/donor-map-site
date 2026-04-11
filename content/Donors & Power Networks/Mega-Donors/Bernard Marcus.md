@@ -2,7 +2,7 @@
 title: "Bernard Marcus"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -61,7 +61,7 @@ sec-form-types:
 lei: "213800MWAHGQE6BU9654"
 lei-jurisdiction: "GB"
 related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Heritage Foundation]] · [[Federalist Society]] · [[American Enterprise Institute]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 total-political-spend: "$31,938,031"
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"

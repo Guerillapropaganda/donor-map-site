@@ -2,7 +2,7 @@
 title: "Hakeem Jeffries Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,10 +13,16 @@ district: "8"
 bioguide-id: "J000294"
 leadership-role: "House Minority Leader (2023-present)"
 issues:
-  - "Housing"
-  - "Israel & Foreign Policy"
-  - "Financial Services"
-  - "Party Leadership"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
+  - "Labor and Employment"
 top-donors:
   - "Real Estate Industry ($365K 2022 cycle)"
   - "Wall Street / Finance ($600K+ 2022 cycle)"
@@ -59,6 +65,20 @@ reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-11"
+total-raised: "$10,327,241"
+total-spent: "$9,417,063"
+cash-on-hand: "5864742.02"
+fec-cycle: 2026
+wikidata-id: "Q5640425"
+wikipedia-url: "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+wikipedia-extract: "Hakeem Sekou Jeffries is an American politician and attorney who has served as House minority leader and leader of the House Democratic Caucus since 2023."
+born: "1970-08-04"
+govtrack-id: 412561
+bills-sponsored: 120
+bills-cosponsored: 1582
+website: "https://jeffries.house.gov"
+phone: "202-225-5936"
 ---
 #hakeem-jeffries #house-minority-leader #new-york #brooklyn #real-estate #aipac #corporate-democrat #class-analysis
 
@@ -306,3 +326,152 @@ The transition is the most visible evidence that Democratic leadership is a dono
 
 - [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Hakeem%20Jeffries) (Tier 1)
 <!-- auto:opensanctions end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 133 |
+| Bills Cosponsored | 1582 |
+
+**Policy areas:** Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 625 | Recognizing the 50th anniversary of the independence of the Republic of Cabo Ver… | Referred to the House Committee on Foreign Affairs. |
+| 13 | Reserved for the Minority Leader. | — |
+| 11 | Reserved for the Minority Leader. | — |
+| 19 | Reserved for the Minority Leader. | — |
+| 16 | Reserved for the Minority Leader. | — |
+| 1396 | Recognizing a half century of the independence of the Republic of Cabo Verde and… | Referred to the House Committee on Foreign Affairs. |
+| 19 | Reserved for the Minority Leader. | Introduced in House |
+| 18 | Reserved for the Minority Leader. | Introduced in House |
+
+- [Source: Congress.gov](https://www.congress.gov/member/J000294) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $10,327,241 |
+| Total Spent | $9,417,063 |
+| Cash on Hand | 5864742.02 |
+| Individual Contributions | $2,259,645 |
+| PAC Contributions | $1,224,500 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $10,327,241 | $9,417,063 | 5864742.02 |
+| 2024 | $22,977,197 | $20,238,858 | 4954564.65 |
+| 2022 | $6,037,500 | $5,966,557 | 2216225.11 |
+| 2020 | $4,201,480 | $3,325,841 | 2145321.91 |
+| 2018 | $1,744,153 | $1,486,075 | 1269682.34 |
+| 2016 | $1,294,870 | $791,629 | 1011604.86 |
+| ... | 2 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
+| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
+| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
+
+**Sources**
+
+- [Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Hakeem Jeffries](https://www.govtrack.us/congress/members/412561) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
+### Wikipedia
+<!-- auto:wikipedia start -->
+Hakeem Sekou Jeffries is an American politician and attorney who has served as House minority leader and leader of the House Democratic Caucus since 2023.
+
+| Fact | Value |
+|------|-------|
+| Wikidata ID | [Q5640425](https://www.wikidata.org/wiki/Q5640425) |
+| Description | American politician (born 1970) |
+| Born | 1970-08-04 |
+| Website | [http://jeffries.house.gov](http://jeffries.house.gov) |
+| X/Twitter | [@RepJeffries](https://x.com/RepJeffries) |
+| Image | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Special:FilePath/Hakeem_Jeffries_official_portrait.jpg?width=300) |
+
+- [Source: Wikipedia](https://en.wikipedia.org/wiki/Hakeem_Jeffries) (Tier 3)
+- [Source: Wikidata](https://www.wikidata.org/wiki/Q5640425) (Tier 2)
+<!-- auto:wikipedia end -->
+
+### Legislative Activity (GovTrack)
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 120 |
+| Bills Cosponsored | 1,582 |
+| Total Votes Cast | 7,402 |
+| Leadership | House Minority Leader |
+
+**Recent bills sponsored:**
+
+- H.Res. 625: Recognizing the 50th anniversary of the independence of the Republic of Cabo Verde and celebrating the contributions of  — *This resolution is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1396: Recognizing a half century of the independence of the Republic of Cabo Verde and celebrating the contributions of Cabo V — *This resolution was introduced on July 30, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 18: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 19: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 13: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412561) (Tier 1)
+<!-- auto:govtrack end -->

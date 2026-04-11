@@ -118,13 +118,17 @@ research-status:: ready — $15-20M Mercer investment, 87M Facebook profiles, ps
 |--------|-------|
 | Politicians Funded | 3 |
 | Active Lobbyist | Yes |
-| Committee Overlap Detected | None |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Transportation** → Funds **Ted Cruz** → Sits on **Senate Committee on Commerce, Science, and Transportation**
 
 **Funded politicians:**
 
 - [[Donald Trump]] — lobbying: $790K
-- [[Ted Cruz]] — lobbying: $790K
+- [[Ted Cruz]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Foreign Relations, Senate Committee on Rules and Administration) — lobbying: $790K
 - [[Steve Bannon]] — lobbying: $790K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

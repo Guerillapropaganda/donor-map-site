@@ -2,12 +2,12 @@
 title: "Christopher Rufo"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 category: right
 platform: substack
-related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]] · [[James O'Keefe]] · [[Charlie Kirk]] · [[Dave Rubin]] · [[Matt Walsh]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Jimmy Dore]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]]"
+related: "[[DonorsTrust]] · [[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Manhattan Institute for Policy Research]] · [[James O'Keefe]] · [[Charlie Kirk]] · [[Dave Rubin]] · [[Matt Walsh]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Jimmy Dore]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]]"
 ---
 
 #media-pipeline #right #anti-dei #manhattan-institute #policy-architect #dark-money #donorstrust #bradley-foundation

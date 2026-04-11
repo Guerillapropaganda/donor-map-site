@@ -2,7 +2,7 @@
 title: "Chevron"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -25,7 +25,7 @@ ein: 510189525
 annual-revenue: "$222K"
 net-assets: "$781K"
 tax-year: "2023"
-related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
+related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]]"
 federal-awards-total: 192677628
 federal-contracts-count: 25
 federal-grants-count: 5
@@ -421,7 +421,7 @@ THE OBJECTIVE  |
 - [[Kevin McCarthy]]
 - [[John Cornyn]] (Judiciary, Intelligence, Finance)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Corporate Structure (GLEIF)

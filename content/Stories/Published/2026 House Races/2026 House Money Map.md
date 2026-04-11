@@ -2,10 +2,10 @@
 title: "2026 House Money Map"
 type: story
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[DCCC Red-to-Blue Targets 2026]] · [[California Razor-Thin Districts 2026]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Koch - Koch Industries]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[DCCC Red-to-Blue Targets 2026]] · [[California Razor-Thin Districts 2026]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[Koch - Koch Industries]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
 source-types:
   - FEC
 internal-notes: "[URL Check 2026-04-08] 19 checked: 16 ok, 3 broken, 0 slow. | BROKEN: United Democracy Project Recipients, 2024 • OpenSecrets | BROKEN: MAGA Inc. super PAC enters 2026 with $300 million stockpile - Fox News | BROKEN: Lawler decides not to run for governor in 2026, will seek reelection in NY-17 instead - WAMC"

@@ -2,7 +2,7 @@
 title: "Boeing Defense"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Maria Cantwell"
 issues:
   - "Defense & Military"
-related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Raytheon (RTX)]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[BAE Systems]]"
+related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Raytheon (RTX)]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[Anduril Industries]] · [[Defense Contractors]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
@@ -161,3 +161,22 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Boeing%20Defense) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Federal Court Records (CourtListener)
+<!-- auto:courtlistener-cases start -->
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 104 |
+| Courts | District Court, C.D. California, District Court, E.D. Missouri, District Court, E.D. New York, District Court, E.D. Virginia, District Court, E.D. Wisconsin, District Court, N.D. Illinois, District Court, S.D. New York, District Court, W.D. Oklahoma +1 more |
+| Case Types | 160 Stockholders Suits, 190 Contract: Other, 315 Airplane Product Liability, 440 Civil Rights: Other, 720 Labor: Labor/Mgt. Relations |
+
+**Notable cases:**
+- Khan v. Lockheed Martin Corporation (2025) — District Court, S.D. New York
+- Stephanie King v. The Boeing Company (2025) — District Court, C.D. California
+- Patrzalek v. United States Department of Defense (2025) — District Court, W.D. Oklahoma
+- Sadigh v. Army Intelligence (2025) — District Court, E.D. New York
+- Oklahoma Firefighters Pension and Retirement System v. Calhoun (2024) — District Court, E.D. Virginia
+- Craig M Garriott v. The Boeing Company (2024) — District Court, C.D. California
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%20Defense%22&type=r) (Tier 1)
+<!-- auto:courtlistener-cases end -->

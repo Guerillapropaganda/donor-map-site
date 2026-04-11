@@ -2,12 +2,12 @@
 title: "Barbara Lee"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 total-received: "$375,046"
 fec-candidate-id: "H8CA09060"
-last-enriched: "2026-04-08"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"
@@ -18,6 +18,10 @@ related: "[[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]]
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: "$375,046"
+total-spent: "$427,255"
+cash-on-hand: "144.39"
+fec-cycle: 2024
 ---
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
 tags: #democrat
@@ -161,3 +165,56 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400237) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $375,046 |
+| Total Spent | $427,255 |
+| Cash on Hand | 144.39 |
+| Individual Contributions | $308,954 |
+| PAC Contributions | $11,800 |
+| Coverage Through | 2024-09-30 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2024 | $375,046 | $427,255 | 144.39 |
+| 2022 | $2,183,373 | $2,341,393 | 52353.25 |
+| 2020 | $1,888,202 | $1,810,132 | 210373.72 |
+| 2018 | $1,875,867 | $1,781,696 | 132303.44 |
+| 2016 | $1,328,822 | $1,374,381 | 38131.96 |
+| 2014 | $1,139,240 | $1,100,730 | 83690.60 |
+| ... | 8 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
+<!-- auto:fec-summary end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Yea** | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Yea** | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Yea** | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Yea** | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Yea** | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Yea** | Passed |
+| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Nay** | Passed |
+| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **No** | Passed |
+| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Yea** | Passed |
+| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Yea** | Passed |
+| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Yea** | Passed |
+| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Yea** | Passed |
+| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Not Voting** | Passed |
+
+**Sources**
+
+- [Congress.gov: Barbara Lee](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1)
+<!-- auto:voting-record end -->

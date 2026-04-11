@@ -2,7 +2,7 @@
 title: "Matt Gaetz Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"
@@ -24,10 +24,21 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]]"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000578. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+issues:
+  - "Animals"
+  - "Armed Forces and National Security"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
 ---
 #matt-gaetz #house #florida #freedom-caucus #trump-loyalist #sex-trafficking #ethics #family-wealth #chaos-agent #class-analysis #maga
 
@@ -213,3 +224,39 @@ _No committee data found._
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Republican |
+| State | FL |
+| Chamber | House |
+| Bills Sponsored | 96 |
+| Bills Cosponsored | 1727 |
+
+**Policy areas:** Animals, Armed Forces and National Security, Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Public Lands and Natural Resources, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| — |  | On agreeing to the Gaetz amendment (A007) Failed by recorded vote: 115 - 312 (Roll no. 466). |
+| — |  | On agreeing to the Gaetz amendment (A032) Failed by recorded vote: 145 - 273, 1 Present (Roll no. 634). |
+| — |  | On agreeing to the Gaetz amendment (A042) Agreed to by voice vote. |
+| — |  | On agreeing to the Gaetz amendment (A032) Failed by recorded vote: 210 - 221 (Roll no. 321). |
+| — |  | On agreeing to the Gaetz amendment (A011) Failed by recorded vote: 70 - 358 (Roll no. 304). |
+| 10066 | JAIL for Alien Voters Act of 2024 | Referred to the House Committee on the Judiciary. |
+| 10067 | HARRIS Act of 2024 | Referred to the House Committee on Ways and Means. |
+| 1549 | Expressing the sense of the House of Representatives on contract breaches and ot… | Referred to the House Committee on Armed Services. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/G000578) (Tier 1)
+<!-- auto:congress-legislation end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Matt Gaetz](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

@@ -2,7 +2,7 @@
 title: "Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class"
 type: story
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 issues:
@@ -10,7 +10,7 @@ issues:
   - "Healthcare"
   - "Israel & Foreign Policy"
   - "Criminal Justice"
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Cory Booker Master Profile]] · [[_Tim Scott Master Profile]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[PhRMA]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Cory Booker Master Profile]] · [[_Tim Scott Master Profile]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[PhRMA]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[How Money Captures Media — The Donor Map Media Pipeline]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
 source-types:
   - Congress
   - FEC

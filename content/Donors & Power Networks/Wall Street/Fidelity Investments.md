@@ -173,3 +173,24 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fidelity%20Investments%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Corporate Structure (GLEIF)
+<!-- auto:gleif-lei start -->
+| Field | Value |
+|-------|-------|
+| LEI | [549300N8042Y2BO9SS82](https://search.gleif.org/#/record/549300N8042Y2BO9SS82) |
+| Legal Name | FIDELITY INVESTMENTS CANADA ULC |
+| Jurisdiction | CA-AB |
+| Entity Status | ACTIVE |
+| Category | GENERAL |
+| Registration | ISSUED |
+| Last Updated | 2025-11-06T18:13:19Z |
+
+**Ownership chain:**
+
+- Ultimate Parent: [483A Bay Street Holdings LP](https://search.gleif.org/#/record/549300JXX7K6ZOP6RG83) (BM)
+- Direct Parent: [FIDELITY CANADA HOLDINGS (UK) LIMITED](https://search.gleif.org/#/record/254900BVJKQKFIHJEE38) (GB)
+- FIDELITY INVESTMENTS CANADA ULC (this entity)
+
+- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
+<!-- auto:gleif-lei end -->

@@ -2,7 +2,7 @@
 title: "Blue Shield of California"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -41,7 +41,7 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. California"
   - "United States Bankruptcy Court, C.D. California"
-related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CNA - California Nurses Association]] · [[Kaiser Permanente]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]]"
+related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CNA - California Nurses Association]] · [[Kaiser Permanente]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
 cross-vault-triangulation-count: 27
 audit-a-plus-passed: "2026-04-11"
 ---
@@ -231,7 +231,7 @@ Healthcare — Single-payer, COVID contracts, PBM regulation
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -243,8 +243,11 @@ Healthcare — Single-payer, COVID contracts, PBM regulation
 
 **Lobby → Donate → Committee chains:**
 
+- Lobbies on **Budget/Appropriations** → Funds **Rick Scott** → Sits on **Senate Committee on the Budget**
+- Lobbies on **Defense** → Funds **Rick Scott** → Sits on **Senate Committee on Armed Services**
+- Lobbies on **Government Issues** → Funds **Rick Scott** → Sits on **Senate Committee on Homeland Security and Governmental Affairs**
+- Lobbies on **Intelligence** → Funds **Rick Scott** → Sits on **Senate Committee on Armed Services**
 - Lobbies on **Government Issues** → Funds **Gary Peters** → Sits on **Homeland Security**
-- Lobbies on **Government Issues** → Funds **Bennie Thompson** → Sits on **Homeland Security**
 - Lobbies on **Agriculture** → Funds **Glenn Thompson** → Sits on **Agriculture**
 - Lobbies on **Budget/Appropriations** → Funds **Pete Aguilar** → Sits on **Appropriations**
 - Lobbies on **Defense** → Funds **Pete Aguilar** → Sits on **Appropriations**
@@ -253,16 +256,16 @@ Healthcare — Single-payer, COVID contracts, PBM regulation
 
 - [[Nancy Pelosi]] — lobbying: $3.8M
 - [[Bobby Scott]] (Education & Labor) — lobbying: $3.8M
-- [[Rick Scott]] — lobbying: $3.8M
+- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) — lobbying: $3.8M
 - [[Tim Scott]] — lobbying: $3.8M
 - [[Gary Peters]] (Homeland Security) — lobbying: $3.8M
-- [[Bennie Thompson]] (Homeland Security) — lobbying: $3.8M
+- [[Bennie Thompson]] (House Committee on Homeland Security) — lobbying: $3.8M
 - [[Glenn Thompson]] (Agriculture) — lobbying: $3.8M
 - [[Pete Aguilar]] (Appropriations) — lobbying: $3.8M
 - [[Gavin Newsom]] — lobbying: $3.8M
 - [[Kamala Harris]] — lobbying: $3.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

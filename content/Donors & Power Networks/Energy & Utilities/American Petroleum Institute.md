@@ -2,7 +2,7 @@
 title: "American Petroleum Institute"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -21,7 +21,7 @@ ofac-programs:
 nonprofit-status: "501(c)(6)"
 total-revenue: 268010806
 total-assets: 109879063
-related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]] · [[Ron Johnson]] · [[John Barrasso]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch|Koch network]] · [[Americans for Prosperity|AFP]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Better Jobs Together]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Western States Petroleum Association]] · [[Trump Donor Coalition]] · [[American Action Network]]"
+related: "[[Petrochemical Industry Bloc]] · [[The Energy Committee and Alaska Oil Dependency]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Environment - Donors and Backers]] · [[The Oversight Chair and the Investigation Theater]] · [[John Hickenlooper]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Jim Inhofe]] · [[Lauren Boebert]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Republican Party Apparatus]] · [[Ron Johnson]] · [[John Barrasso]] · [[Steve Scalise]] · [[Bruce Westerman]] · [[ExxonMobil]] · [[Chevron]] · [[Koch Network - Charles Koch|Koch network]] · [[Americans for Prosperity|AFP]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Better Jobs Together]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Western States Petroleum Association]] · [[Trump Donor Coalition]] · [[American Action Network]] · [[National Association of Manufacturers]] · [[American Gaming Association]]"
 total-political-spend: "$24,891,220"
 politicians-funded:
   - "Steve Scalise"
@@ -786,3 +786,21 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Petroleum%20Institute%22) (Tier 1)
 <!-- auto:federal-register end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | 1 politician |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Energy & Climate** → Funds **John Hickenlooper** → Sits on **Senate Committee on Energy and Natural Resources**
+
+**Funded politicians:**
+
+- [[John Hickenlooper]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Energy and Natural Resources, Senate Committee on Health, Education, Labor, and Pensions)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "Michael Bennet"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 stock-trades: 7

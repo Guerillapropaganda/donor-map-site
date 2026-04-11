@@ -2,7 +2,7 @@
 title: "BAE Systems"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -35,7 +35,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: "8SVCSVKSGDWMW2QHOH83"
 lei-jurisdiction: "GB"
-related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]]"
+related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Northrop Grumman]] · [[Valero Energy]]"
 nonprofit-status: "501(c)(9)"
 total-revenue: 534243661
 total-assets: 33156493
@@ -149,7 +149,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-10 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -170,7 +170,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 - [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — lobbying: $10.6M — contracts: $816K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

@@ -2,7 +2,7 @@
 title: "Eli Broad Foundation"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Education"
@@ -18,7 +18,7 @@ total-revenue: 163352987
 total-assets: 1860562867
 lei: "549300MEWH8MEHZXWM71"
 lei-jurisdiction: "US-CA"
-related: "[[CTA - California Teachers Association]] · [[Michael Bennet]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Walton Family Foundation]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
+related: "[[CTA - California Teachers Association]] · [[Michael Bennet]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Walton Family Foundation]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 10
@@ -188,3 +188,36 @@ Education — charter schools, superintendent appointments, teacher accountabili
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Broad%20Foundation) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
+
+### Lobbying Activity
+<!-- auto:lda-lobbying start -->
+| Metric | Value |
+|--------|-------|
+| Total Lobbying Spend | $7.1M |
+| Quarterly Filings | 107 |
+| Year Range | 2024-2026 |
+| Lobbying Firms | 35 |
+| Individual Lobbyists | 0 |
+
+**Issues lobbied:** Aerospace, Agriculture, Banking, Budget/Appropriations, Clean Air and Water (quality), Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Economics/Economic Development, Education, Energy/Nuclear, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Foreign Relations, Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Medicare/Medicaid, Pharmacy, Real Estate/Land Use/Conservation, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Trade (domestic/foreign), Transportation, Urban Development/Municipalities
+
+**Lobbying firms:** ACTUM I, LLC, B HALL STRATEGIES, LLC, CAPGOV, LLC, CAPITALEDGE STRATEGIES, LLC, CARDINAL POINT PARTNERS, CHECKMATE GOVERNMENT RELATIONS, DLA PIPER LLP (US), ELI LILLY AND COMPANY, ELIAS WALKER, INC., ELITE REAL ESTATE & FINANCE LLC, ELITE STRATEGIC SERVICES, FARRAGUT PARTNERS LLP, FEROX STRATEGIES, GRV STRATEGIES LLC, HAIR OF THE DOG OUTFITTERS, LLC, LEAVITT PARTNERS, LLC, MARSHALL & POPP, LLC, MONUMENT ADVOCACY, MS. ELIZABETH LAVACH, MS. ELIZABETH STEIN, MS. ELIZABETH WALKER, NATIONAL AUTOMATIC MERCHANDISING ASSOCIATION, PETRA STRATEGIES LLC, POBLETE TAMARGO, LLP, ROBERTSON, MONAGLE, & EASTAUGH LLC (FKA ROBERTSON, MONAGLE & EASTAUGH PC), SMITH GARSON, TARPLIN, DOWNS & YOUNG, LLC, TERRAPIN STRATEGY, INC, THE HARPLE GROUP, LLC, THE SIMMONS & RUSSELL GROUP, LLC, TIBER CREEK GROUP, TIBER CREEK HEALTH STRATEGIES, INC., TODD STRATEGY GROUP, VENN STRATEGIES, WILLIAMS AND JENSEN, PLLC
+
+**Agencies contacted:** Agriculture, Dept of (USDA), Air Force, Dept of, Army, Dept of (Corps of Engineers), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Defense, Dept of (DOD), Education, Dept of, Energy, Dept of, Environmental Protection Agency (EPA), Executive Office of the President (EOP) +22 more
+
+- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Eli%20Broad%20Foundation) (Tier 1)
+<!-- auto:lda-lobbying end -->
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 1 |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]]
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+<!-- auto:influence-cross-ref end -->

@@ -2,7 +2,7 @@
 title: "DeVos Family"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Education"
@@ -24,7 +24,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 total-revenue: 10147492
 total-assets: 2950
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[American Farm Bureau Federation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[American Federation for Children]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Koch Network - Charles Koch]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Alliance Defending Freedom]] · [[ALEC - American Legislative Exchange Council]] · [[American Farm Bureau Federation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[American Federation for Children]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Koch Network - Charles Koch]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]] · [[Insurance Industry]] · [[Defense Contractors Bloc]]"
 court-cases: 24
 court-jurisdictions:
   - "Court of Appeals for the Ninth Circuit"

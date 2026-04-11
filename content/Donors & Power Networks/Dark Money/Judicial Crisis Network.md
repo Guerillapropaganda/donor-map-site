@@ -2,7 +2,7 @@
 title: "Judicial Crisis Network"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -27,7 +27,7 @@ court-jurisdictions:
   - "District Court, E.D. Arkansas"
   - "District Court, M.D. Tennessee"
   - "District Court, S.D. Indiana"
-related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Council for National Policy]] · [[The Dark Money Crusader and Court Reform]] · [[The Dark Money Crusade and Judicial Reform]] · [[Leonard Leo]] · [[_Neil Gorsuch Master Profile|Gorsuch]] · [[_Amy Coney Barrett Master Profile|Barrett]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Koch Network - Charles Koch]] · [[Donors Trust]] · [[Federalist Society]] · [[_Sheldon Whitehouse Master Profile|Whitehouse]] · [[_Clarence Thomas Master Profile|Thomas]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
+related: "[[DeVos Family]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Judicial - Donors and Backers]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Council for National Policy]] · [[The Dark Money Crusader and Court Reform]] · [[The Dark Money Crusade and Judicial Reform]] · [[Leonard Leo]] · [[_Neil Gorsuch Master Profile|Gorsuch]] · [[_Amy Coney Barrett Master Profile|Barrett]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Koch Network - Charles Koch]] · [[Donors Trust]] · [[Federalist Society]] · [[_Sheldon Whitehouse Master Profile|Whitehouse]] · [[_Clarence Thomas Master Profile|Thomas]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]]"
 total-political-spend: "$75,000"
 cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
@@ -219,6 +219,28 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
+
+<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 5 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Neil Gorsuch]] — lobbying: $248K
+- [[Amy Coney Barrett]] — lobbying: $248K
+- [[Brett Kavanaugh]] — lobbying: $248K
+- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) — lobbying: $248K
+- [[Clarence Thomas]] — lobbying: $248K
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

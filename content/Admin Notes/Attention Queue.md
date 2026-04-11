@@ -618,6 +618,15 @@ NRA POLITICAL VICTORY FUND appears as both a funder and an adversary of George W
 - **Leverage:** ★★★★★
 - **Surfaced by:** `contradiction-miner`
 
+### California Farm Bureau Federation funds both major parties
+
+California Farm Bureau Federation appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benef
+
+- **Where:** `content/Story Seeds/cross-party-california-farm-bureau-federation-funds-both-major-parties.md`
+- **Cost:** ~25 min
+- **Leverage:** ★★★★☆
+- **Surfaced by:** `contradiction-miner`
+
 ### Bacardi - Bacardi USA funds both major parties
 
 Bacardi - Bacardi USA appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Bacardi
@@ -722,15 +731,6 @@ Blue Shield of California appears in the politicians-funded / related lists of b
 Insurance Industry appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Insurance 
 
 - **Where:** `content/Story Seeds/cross-party-insurance-industry-funds-both-major-parties.md`
-- **Cost:** ~25 min
-- **Leverage:** ★★★★☆
-- **Surfaced by:** `contradiction-miner`
-
-### AIPAC - American Israel Public Affairs Committee funds both major parties
-
-AIPAC - American Israel Public Affairs Committee appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician vote
-
-- **Where:** `content/Story Seeds/cross-party-aipac-american-israel-public-affairs-committee-funds-both-major-part.md`
 - **Cost:** ~25 min
 - **Leverage:** ★★★★☆
 - **Surfaced by:** `contradiction-miner`

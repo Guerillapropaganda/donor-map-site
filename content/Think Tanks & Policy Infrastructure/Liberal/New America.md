@@ -2,14 +2,14 @@
 title: "New America"
 type: think-tank
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 lei: "549300C6JPZKHI5YDM10"
 lei-jurisdiction: "KY"
-related: "[[Goldman Sachs]] · [[Gates Foundation]] · [[Brookings Institution]]"
+related: "[[Goldman Sachs]] · [[Gates Foundation]] · [[Brookings Institution]] · [[Urban Institute]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]]"
 known-gaps:
   - "No FEC contribution data"
 sec-filings: 10000

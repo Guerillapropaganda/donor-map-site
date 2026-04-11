@@ -143,7 +143,7 @@ John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Direc
 | Donors With Federal Contracts | 2 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

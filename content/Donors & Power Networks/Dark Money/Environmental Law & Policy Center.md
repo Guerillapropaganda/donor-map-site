@@ -2,12 +2,12 @@
 title: "Environmental Law & Policy Center"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
-ein: "911687883"
+ein: 363866530
 annual-revenue: "$10.9M"
 net-assets: "$38.0M"
 tax-year: "2023"
@@ -17,7 +17,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 total-revenue: 150007
 total-assets: 254525
-related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]]"
+related: "[[Sheldon Whitehouse]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]]"
 fara-status: "registrant"
 fara-records: 3
 fara-countries:

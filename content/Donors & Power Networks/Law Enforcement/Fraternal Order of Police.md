@@ -2,7 +2,7 @@
 title: "Fraternal Order of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
@@ -45,7 +45,7 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
   - "SC 14F1"
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]] · [[Mark Green]] · [[Markwayne Mullin]] · [[John Cornyn]]"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]] · [[Mark Green]] · [[Markwayne Mullin]] · [[John Cornyn]] · [[Amy Klobuchar]] · [[Sheldon Whitehouse]]"
 federal-register-mentions: 29
 regulatory-agencies:
   - "Defense Department"
@@ -260,5 +260,5 @@ Preservation of qualified immunity (which shields officers from personal liabili
 - [[Markwayne Mullin]] (Armed Services) — lobbying: $2.5M
 - [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) — lobbying: $2.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->

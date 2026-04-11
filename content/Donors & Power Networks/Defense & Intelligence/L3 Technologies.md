@@ -2,7 +2,7 @@
 title: "L3 Technologies"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -12,7 +12,7 @@ federal-awards-total: 367636564
 federal-contracts-count: 25
 federal-grants-count: 0
 federal-register-mentions: 32
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 regulatory-agencies:
@@ -70,6 +70,8 @@ cross-vault-triangulation-count: 2
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+ftc-enforcement-actions: 4
+ftc-hsr-notices: 1
 ---
 
 #defense-contractor #surveillance-technology #military-intelligence #l3harris-merger #weapons-systems
@@ -161,7 +163,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [[John Ratcliffe]] (Intelligence) — contracts: $443K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Spending (USASpending)
@@ -284,6 +286,66 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
+<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Subawards Issued (as prime) | 50 ($1.1B sampled) |
+| Subawards Received (as sub) | 50 ($1.1B sampled) |
+| Top Federal Agency | Department of Defense ($5.9B) |
+| Primary NAICS Sector | Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing |
+
+**Subcontractors receiving federal money from L3 Technologies:**
+
+| Subcontractor | Amount | Awards |
+|---------------|--------|--------|
+| L3 TECHNOLOGIES, INC. | $1.1B | 48 |
+| L3 TECHNOLOGIES INC | $45.0M | 2 |
+
+**Prime contractors funneling federal money to L3 Technologies:**
+
+| Prime Contractor | Amount | Awards |
+|------------------|--------|--------|
+| LOCKHEED MARTIN CORPORATION | $338.8M | 17 |
+| NORTHROP GRUMMAN SYSTEMS CORPORATION | $290.7M | 16 |
+| GENERAL DYNAMICS MISSION SYSTEMS, INC | $120.0M | 3 |
+| GENERAL ATOMICS AERONAUTICAL SYSTEMS, INC. | $86.4M | 3 |
+| TEXTRON SYSTEMS CORPORATION | $65.6M | 2 |
+| THE BOEING COMPANY | $63.0M | 2 |
+| ATLANTIC DIVING SUPPLY, INC. | $52.9M | 2 |
+| ALION SCIENCE AND TECHNOLOGY CORPORATION | $45.0M | 3 |
+
+**Federal agency spending breakdown:**
+
+| Agency | Amount |
+|--------|--------|
+| Department of Defense | $5.9B |
+| General Services Administration | $232.5M |
+| Department of Homeland Security | $46.6M |
+| Department of Justice | $877K |
+| Department of the Interior | $405K |
+| Department of Energy | $18K |
+| Department of State | $3K |
+
+**Federal spending by industry sector (NAICS):**
+
+| Sector | Amount |
+|--------|--------|
+| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $1.6B |
+| Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $1.1B |
+| Other Communications Equipment Manufacturing (334290) | $633.6M |
+| Commercial and Service Industry Machinery Manufacturing (333310) | $531.7M |
+| Engineering Services (541330) | $424.1M |
+| Optical Instrument and Lens Manufacturing (333314) | $351.5M |
+| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $328.4M |
+| Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $220.1M |
+
+- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
+
+<!-- auto:usaspending-subawards pending-merge end -->
+
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
 | Metric | Value |
@@ -320,3 +382,32 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3%20Technologies%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### FTC Enforcement & Merger Review
+<!-- auto:ftc-enforcement start -->
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 4 |
+| HSR early termination notices (merger filings) | 1 |
+| Most recent enforcement action | 2014-01-31 |
+| Earliest enforcement action | 1998-06-26 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 4
+
+**Recent enforcement actions (historical):**
+
+- [Thermo Fisher / Life Technologies](http://www.ftc.gov/enforcement/cases-and-proceedings/cases/131-0134/thermo-fisher-scientific-inc) (2014-01-31) — Health Care � Medical Equipment/Devices
+- [General Dynamics OTS (Aerospace), inc. / SNC Technologies Inc.](http://www.ftc.gov/os/caselist/0610150/index.shtm) (2006-12-28) — Defense � Ammunitions
+- [General Electric Company / InVision Technologies](http://www.ftc.gov/os/caselist/0410106/0410106.shtm) (2004-09-15) — Defense � Equipment and Engineering Services
+- [Global Industries Technologies](http://www.ftc.gov/os/caselist/9810173.shtm) (1998-06-26) — Manufacturing � Industrial Goods
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [American Industrial Partners Capital Fund VI, LP → L3 Technologies, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20181272) (2018-05-29)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3%20Technologies).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3%20Technologies) (Tier 1)
+<!-- auto:ftc-enforcement end -->

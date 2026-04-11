@@ -848,6 +848,20 @@
     },
     {
       "bucket": "deciding",
+      "what": "California Farm Bureau Federation funds both major parties",
+      "why": "California Farm Bureau Federation appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benef",
+      "where": "content/Story Seeds/cross-party-california-farm-bureau-federation-funds-both-major-parties.md",
+      "cost_min": 25,
+      "leverage": 4,
+      "source": "contradiction-miner",
+      "created": "2026-04-11",
+      "metadata": {
+        "type": "cross-party",
+        "confidence": 4
+      }
+    },
+    {
+      "bucket": "deciding",
       "what": "Bacardi - Bacardi USA funds both major parties",
       "why": "Bacardi - Bacardi USA appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Bacardi",
       "where": "content/Story Seeds/cross-party-bacardi-bacardi-usa-funds-both-major-parties.md",
@@ -1005,20 +1019,6 @@
       "what": "Insurance Industry funds both major parties",
       "why": "Insurance Industry appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician voted on that benefited Insurance ",
       "where": "content/Story Seeds/cross-party-insurance-industry-funds-both-major-parties.md",
-      "cost_min": 25,
-      "leverage": 4,
-      "source": "contradiction-miner",
-      "created": "2026-04-11",
-      "metadata": {
-        "type": "cross-party",
-        "confidence": 4
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "AIPAC - American Israel Public Affairs Committee funds both major parties",
-      "why": "AIPAC - American Israel Public Affairs Committee appears in the politicians-funded / related lists of both Democratic AND Republican politicians in this vault. That is the classic transactional-donor pattern: influence flows to whoever wins, not to any ideology. Document the specific cycle splits (FEC data) and the bills each funded politician vote",
-      "where": "content/Story Seeds/cross-party-aipac-american-israel-public-affairs-committee-funds-both-major-part.md",
       "cost_min": 25,
       "leverage": 4,
       "source": "contradiction-miner",

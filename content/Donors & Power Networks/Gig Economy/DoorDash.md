@@ -2,7 +2,7 @@
 title: "DoorDash"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -27,7 +27,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Wage and Hour Division"
-related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[Lyft]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
+related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[Lyft]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]]"
 cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.

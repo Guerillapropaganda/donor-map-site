@@ -2,10 +2,10 @@
 title: "School Choice and the Catholic Church Prosecution as Brand Architecture"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: [[_Josh Shapiro Master Profile]]
-related: "[[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]] · [[_Josh Shapiro Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[The $1.6 Billion Fundraising Machine]] · [[Legislative Record as Speaker]]"
+related: "[[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]] · [[_Josh Shapiro Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[The $1.6 Billion Fundraising Machine]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]]"
 ---
 #josh-shapiro #school-choice #vouchers #catholic-church #attorney-general #class-analysis
 

@@ -2,7 +2,7 @@
 title: "Tim Walz"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,7 +13,7 @@ total-received: "$113,151"
 fec-candidate-id: "H6MN01174"
 donors: "[[Democracy Alliance]]"
 wikidata-id: "Q2434360"
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 wikipedia-url: "https://en.wikipedia.org/wiki/Tim_Walz"
@@ -23,6 +23,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: "$113,151"
+total-spent: "$155,222"
+cash-on-hand: "0.00"
+fec-cycle: 2018
 ---
 
 #politician #labor-aligned #authenticity-brand #two-audience-problem #minnesota
@@ -121,6 +125,44 @@ He is not corrupt in the transactional sense. He believes in progressive values 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-11 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2018 |
+| Total Raised | $113,151 |
+| Individual Contributions | $22,700 |
+| PAC Contributions | $80,650 |
+| Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $941,203 |
+| IE Opposition (Super PAC) | $2,002,818 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2018 | $113,151 | $22,700 | $80,650 |
+| 2016 | $1,572,881 | $588,714 | $773,720 |
+| 2014 | $1,575,565 | $639,514 | $672,763 |
+| 2012 | $1,976,106 | $787,174 | $780,173 |
+| 2010 | $2,163,759 | $952,848 | $751,771 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $0 | $1,935,395 |
+| SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE) | $516,807 | $0 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $212,147 | $0 |
+| BLUEGREEN ALLIANCE | $108,805 | $0 |
+| FREEDOM CLUB FEDERAL PAC | $0 | $66,000 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 Timothy James Walz is an American politician, former educator, and Army National Guard veteran serving since 2019 as the 41st governor of Minnesota. He was a member of the U.S.
@@ -137,3 +179,37 @@ Timothy James Walz is an American politician, former educator, and Army National
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Tim_Walz) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q2434360) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Tim Walz](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2018 |
+| Total Raised | $113,151 |
+| Total Spent | $155,222 |
+| Cash on Hand | 0.00 |
+| Individual Contributions | $22,700 |
+| PAC Contributions | $80,650 |
+| Coverage Through | 2018-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2018 | $113,151 | $155,222 | 0.00 |
+| 2016 | $1,572,881 | $1,610,108 | 42071.16 |
+| 2014 | $1,575,565 | $1,559,503 | 79298.63 |
+| 2012 | $1,976,106 | $1,931,331 | 63236.95 |
+| 2010 | $2,163,759 | $2,175,826 | 18461.30 |
+| 2008 | $2,732,743 | $2,707,390 | 30528.16 |
+| ... | 1 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
+<!-- auto:fec-summary end -->

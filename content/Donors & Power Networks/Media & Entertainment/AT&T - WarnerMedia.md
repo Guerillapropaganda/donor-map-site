@@ -2,7 +2,7 @@
 title: "AT&T"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Media & Entertainment"
@@ -12,7 +12,7 @@ annual-revenue: "$82K"
 net-assets: "$253K"
 tax-year: "2023"
 cpsc-recalls: 1
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 lei: "81560046090960AF7A65"
 lei-jurisdiction: "IT"
 subawards-issued: 50
@@ -261,3 +261,25 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AT%26T%22&type=r) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+### Federal Register Activity
+<!-- auto:federal-register start -->
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 698 |
+| Final Rules | 161 |
+| Proposed Rules | 109 |
+| Notices | 428 |
+| Agencies | Employee Benefits Security Administration, Employment and Training Administration, Energy Department, Environmental Protection Agency, Federal Communications Commission, Federal Energy Regulatory Commission, Internal Revenue Service, Labor Department +4 more |
+
+**Recent regulatory activity:**
+- [Joint Industry Plan; Order Approving an Amendment to the National Market System Plan Governing the Consolidated Audit Trail, as Modified by the Commission, To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2026/04/01/2026-06255/joint-industry-plan-order-approving-an-amendment-to-the-national-market-system-plan-governing-the) (2026-04-01) — Securities and Exchange Commission
+- [Improving Wage Protections for the Temporary and Permanent Employment of Certain Foreign Nationals in the United States](https://www.federalregister.gov/documents/2026/03/27/2026-06017/improving-wage-protections-for-the-temporary-and-permanent-employment-of-certain-foreign-nationals) (2026-03-27) — Labor Department
+- [Proposed Exemption From Certain Prohibited Transaction Restrictions Involving AT&T Inc. (Together With AT&T Inc.'s Affiliates, AT&T or the Applicant) Located in Dallas, Texas](https://www.federalregister.gov/documents/2026/03/17/2026-05165/proposed-exemption-from-certain-prohibited-transaction-restrictions-involving-atandt-inc-together) (2026-03-17) — Labor Department
+- [Joint Industry Plan; Notice of Filing of Amendment to the National Market System Plan Governing the Consolidated Audit Trail To Further Reduce the Costs of the Consolidated Audit Trail](https://www.federalregister.gov/documents/2025/12/31/2025-24050/joint-industry-plan-notice-of-filing-of-amendment-to-the-national-market-system-plan-governing-the) (2025-12-31) — Securities and Exchange Commission
+- [Order Granting Conditional Exemptive Relief, Pursuant to Section 36(a)(1) of the Securities Exchange Act of 1934 (“Exchange Act”) and Rule 608(e) of Regulation NMS Thereunder, From Certain Requirements of the National Market System Plan Governing the Consolidated Audit Trail, Rule 613 of Regulation NMS, and Rule 17a-1 Under the Exchange Act](https://www.federalregister.gov/documents/2025/10/02/2025-19315/order-granting-conditional-exemptive-relief-pursuant-to-section-36a1-of-the-securities-exchange-act) (2025-10-02) — Securities and Exchange Commission
+- [Marlow Hydro LLC; Notice Soliciting Scoping Comments](https://www.federalregister.gov/documents/2025/03/25/2025-04966/marlow-hydro-llc-notice-soliciting-scoping-comments) (2025-03-25) — Energy Department
+- ... and 692 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AT%26T%22) (Tier 1)
+<!-- auto:federal-register end -->

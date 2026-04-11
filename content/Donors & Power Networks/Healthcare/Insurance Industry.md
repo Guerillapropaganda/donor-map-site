@@ -2,7 +2,7 @@
 title: "Insurance Industry"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -39,7 +39,7 @@ regulatory-agencies:
   - "Homeland Security Department"
   - "Housing and Urban Development Department"
   - "Internal Revenue Service"
-related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]]"
+related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[DeVos Family]] · [[Walton Family Foundation]]"
 lobbying-spend: 25607025
 lobbying-filings: 107
 cross-vault-triangulation-count: 17
@@ -290,7 +290,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 - [[Barack Obama]] — lobbying: $25.6M — contracts: $11K
 - [[John Thune]] — lobbying: $25.6M — contracts: $11K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

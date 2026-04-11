@@ -2,7 +2,7 @@
 title: "Tenet Healthcare"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -16,7 +16,7 @@ federal-grants-count: 0
 lei: "0W9AIBT6U6ADJ2I8HK17"
 lei-jurisdiction: "US-NV"
 federal-register-mentions: 50
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 regulatory-agencies:
@@ -67,7 +67,7 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 23648810
 total-assets: 24419400
@@ -77,6 +77,8 @@ cross-vault-triangulation-count: 9
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+nhtsa-recalls: 0
+nhtsa-complaints: 0
 ---
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory
 
@@ -374,3 +376,21 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
 <!-- auto:usaspending-subawards end -->
+
+### Vehicle Safety (NHTSA)
+<!-- auto:nhtsa-recalls start -->
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tenet%20Healthcare) (Tier 1)
+<!-- auto:nhtsa-recalls end -->
