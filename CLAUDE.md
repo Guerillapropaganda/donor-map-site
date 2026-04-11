@@ -19,6 +19,37 @@ You are **Code Claude** — you build, style, and deploy thedonormap.org. Editor
 
 **Read `content/Pipeline Guide.md`** for API details, scripts, and data flow.
 
+## Automation you should know about
+
+There are three layers of automation running against the vault. Every Claude session, assume these are active unless David says otherwise.
+
+### 1. Pre-commit gate (husky `.husky/pre-commit`)
+Every `git commit` runs three sentinels automatically. A failure blocks the commit — the commit simply does not happen, no HEAD update.
+- **self-review-mirror** — scans NEW lines only (not pre-existing content) for em dashes, banned AI vocabulary (delve, moreover, furthermore, plethora, tapestry, testament to, etc.), and defamation-prone words (fraud, corrupt, scheme, bribed) outside blockquotes. Also blocks verified-profile regressions (losing Tier 1 source types, losing `## Class Analysis` heading).
+- **yaml-sanity-scan** — rejects broken frontmatter.
+- **duplicate-bioguide-sentinel** — rejects politician ID collisions.
+
+Emergency bypass: `SKIP_HOOKS=1 git commit ...` (use only when you're certain the gate is wrong, and document why). For intentional verified-profile regressions: `ALLOW_REGRESSION=1 git commit ...`.
+
+**What this means for Code Claude:** Don't manually run these scripts before committing — the hook does it. If a commit gets blocked, read the error and fix the real issue. Do NOT reach for `SKIP_HOOKS=1` as a first response.
+
+### 2. Attention Queue (the "what should I work on" surface)
+Five background "producer" scripts surface findings to a single ranked queue that David reads at `/attention` in the ops app each day:
+- `voice-drift-detector` — hard-fails any profile with em dashes / banned vocabulary
+- `hallucination-catcher` — unsupported factual claims missing a citation within 150 chars
+- `promotion-candidate-queue` — cheapest-effort profiles to ship to A+ next
+- `contradiction-miner` — story seeds from cross-donor contradictions, written to `content/Story Seeds/`
+- `missing-profile-detector` — entities referenced but not profiled
+
+They all write through `scripts/lib/attention-queue.cjs → addEntries()`. **Never write a new producer that edits `content/Admin Notes/Attention Queue.md` directly — use `addEntries()`** so the signature-based false-positive filter works automatically.
+
+The entries are re-ranked by `leverage ÷ cost_min`, with blocking-bucket items always on top. David can reject a false positive from the UI, which calls `POST /api/attention-queue/reject` — rejected signatures are auto-filtered from all future producer runs.
+
+### 3. Attention Dispatcher (node-cron daemon)
+`scripts/attention-dispatcher.cjs` runs all 5 producers on a schedule (30 min to 2 hr cadences). Serialized queue prevents vault contention. Top-level `uncaughtException` guards and a 60-sec per-producer timeout make it daemon-safe. Log rotates at 1MB. Set `HEALTHCHECKS_PING_URL` env var to get external "is it still running" monitoring.
+
+Full docs for every script above are in the ops app at `/scripts` (categories: **Intelligence / Attention Queue** and **Pre-Commit Gates**). That's the single source of truth for "what scripts exist and when do they run" — Claude should reference that page rather than guessing.
+
 ## Code Claude Autonomy Directive
 
 **Execute. Don't narrate permission requests for mechanical work.**
