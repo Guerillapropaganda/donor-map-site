@@ -74,6 +74,8 @@ related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senat
 nonprofit-status: "501(c)(3)"
 total-revenue: 138485
 total-assets: 5548963
+cross-vault-triangulation-count: 21
+audit-a-plus-passed: "2026-04-11"
 ---
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force
 

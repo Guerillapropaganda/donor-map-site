@@ -1,8 +1,8 @@
 ---
 title: "Duke Energy"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -20,7 +20,9 @@ top-federal-agency: "Department of Defense"
 top-naics-code: "221122"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 sec-filings: 10000
 sec-form-types:
   - "10-K"
@@ -57,8 +59,10 @@ related: "[[The Intellectual Property and Banking Donor Pipeline]] · [[Southern
 nonprofit-status: "501(c)(3)"
 total-revenue: 21294251
 total-assets: 1868586
-ftc-enforcement-actions: 0
-ftc-hsr-notices: 44
+cross-vault-triangulation-count: 5
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables
 

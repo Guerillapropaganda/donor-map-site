@@ -1,7 +1,7 @@
 ---
 title: "Club for Growth"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ tax-year: "2023"
 related: "[[Senate Majority PAC]] · [[Intra-Republican Contradiction Map]] · [[John Ratcliffe Master Profile]] · [[Mike Collins Master Profile]] · [[Jim Jordan Master Profile]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[The Freedom Caucus and Spending Absolutism]] · [[The FEC to Congress Pipeline and Election Law]] · [[Ron DeSantis Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Lauren Boebert]] · [[Chip Roy Master Profile]] · [[National Republican Senatorial Committee]] · [[Mike Lee]] · [[Jeffrey Yass]] · [[David McIntosh]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Tax Policy - Who Pays and Who Doesnt|Tax Policy]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[MAGA Inc]] · [[Winning for Women PAC]] · [[House Majority PAC]]"
 court-cases: 115
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Eighth Circuit"
   - "District Court, D. Arizona"
@@ -22,6 +24,10 @@ court-jurisdictions:
   - "District Court, N.D. Texas"
   - "District Court, S.D. New York"
   - "District Court, W.D. Wisconsin"
+cross-vault-triangulation-count: 17
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor
 

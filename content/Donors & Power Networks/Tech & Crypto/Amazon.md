@@ -51,8 +51,8 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, N.D. Texas"
   - "District Court, S.D. Florida"
-lei: "894500WLF86O68OWI258"
-lei-jurisdiction: "IN"
+cross-vault-triangulation-count: 15
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #tech #corporation #anti-union #lobbying #government-contracts #labor #surveillance #revolving-door #bezos
 

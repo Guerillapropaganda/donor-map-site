@@ -60,6 +60,8 @@ regulatory-agencies:
   - "Transportation Department"
 lobbying-spend: 5830000
 lobbying-filings: 44
+cross-vault-triangulation-count: 7
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #defense #tech #ai #autonomous-weapons #trump-admin #silicon-valley #class-analysis #follow-the-money
 

@@ -67,6 +67,8 @@ fda-recalls: 5
 fda-recalls-class-i: 1
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 16
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor-node #lilly #pharma #insulin #drug-pricing #indiana #diabetes #weight-loss #glp1 #lobbying #class-analysis #follow-the-money
 

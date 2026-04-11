@@ -66,6 +66,8 @@ sec-form-types:
   - "S-8"
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
+cross-vault-triangulation-count: 13
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #gig-economy #tech #lyft #labor-opponent #prop-22 #AB5 #follow-the-money #silicon-valley #california #flex-association
 

@@ -50,6 +50,8 @@ regulatory-agencies:
   - "Transportation Department"
 related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Patrick McHenry Master Profile]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Nikki Haley Master Profile]] · [[Blackstone Real Estate Political Operation]] · [[_Donald Trump Master Profile]] · [[Securities & Investment Industry]]"
 total-political-spend: "$108,324,551"
+cross-vault-triangulation-count: 10
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #griffin #citadel #hedge-fund #wall-street #class-analysis #follow-the-money #financial-deregulation #anti-tariff #desantis #republican
 

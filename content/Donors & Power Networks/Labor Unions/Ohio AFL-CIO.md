@@ -39,6 +39,8 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "District Court, S.D. Ohio"
 related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]]"
+cross-vault-triangulation-count: 2
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #labor-union #ohio-politics #democratic-donor #working-class #labor-federation

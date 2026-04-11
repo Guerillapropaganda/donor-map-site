@@ -1,7 +1,7 @@
 ---
 title: "John Deere"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -20,6 +20,8 @@ tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 subawards-issued: 50
 subawards-issued-amount: 7034204
 subawards-received: 50
@@ -49,6 +51,10 @@ regulatory-agencies:
 cpsc-recalls: 43
 lei: "969500UMN0I81FGDFL82"
 lei-jurisdiction: "FR"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #deere #agriculture #manufacturing #right-to-repair #trade #tariffs #iowa
 

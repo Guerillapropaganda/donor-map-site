@@ -1,8 +1,8 @@
 ---
 title: "Preserve America"
 type: pac
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -12,20 +12,17 @@ politicians-funded:
 ein: "561858873"
 nonprofit-status: "tax-exempt"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 federal-register-mentions: 489
 regulatory-agencies:
   - "Federal Highway Administration"
   - "Transportation Department"
 related: "[[Adelson Family]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Miriam Adelson]] · [[MAGA Inc]] · [[Trump 2024 Campaign]] · [[WinRed]]"
-sec-filings: 21
-sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "253G2"
-  - "424B3"
-  - "EX-99.1"
-  - "PART II AND III"
-  - "S-1"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #super-pac #republican #trump #adelson #israel-lobby #casino-regulation
 

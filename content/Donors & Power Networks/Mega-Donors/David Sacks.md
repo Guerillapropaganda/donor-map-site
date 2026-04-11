@@ -64,6 +64,8 @@ federal-register-mentions: 1
 regulatory-agencies:
   - "Health and Human Services Department"
   - "National Institutes of Health"
+cross-vault-triangulation-count: 19
+audit-a-plus-passed: "2026-04-11"
 ---
 #david-sacks #paypal-mafia #craft-ventures #crypto #republican #ai-czar #trump #revolving-door #class-analysis #follow-the-money #defense-tech #stablecoin #genius-act #all-in-podcast
 

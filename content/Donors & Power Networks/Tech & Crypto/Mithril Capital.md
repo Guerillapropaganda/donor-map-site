@@ -22,6 +22,8 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, W.D. Texas"
   - "United States Bankruptcy Court, D. Delaware"
+cross-vault-triangulation-count: 7
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #thiel #venture-capital #defense-tech #biotech #growth-stage
 

@@ -1,7 +1,7 @@
 ---
 title: "Organizing for Action"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -24,6 +24,8 @@ sec-form-types:
   - "S-4EF"
 court-cases: 30
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Maryland"
@@ -39,6 +41,10 @@ lobbying-filings: 44
 nonprofit-status: "501(c)(4)"
 total-revenue: 4780839
 total-assets: 2265284
+cross-vault-triangulation-count: 3
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #ofa #organizing-for-action #obama #501c4 #dark-money #campaign-infrastructure

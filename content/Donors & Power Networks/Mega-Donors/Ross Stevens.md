@@ -1,7 +1,7 @@
 ---
 title: "Ross Stevens"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
   - "Wall Street & Finance"
 court-cases: 24
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, D. Connecticut"
   - "District Court, D. Delaware"
@@ -48,6 +50,10 @@ lobbying-spend: 925000
 lobbying-filings: 70
 lei: "549300Q6W4JNCJR4LU44"
 lei-jurisdiction: "US-WI"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #ross-stevens #stone-ridge #crypto #bitcoin #nydig #mega-donor #wall-street #club-for-growth #ramaswamy #pro-israel
 

@@ -1,8 +1,8 @@
 ---
 title: "Cargill"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -24,7 +24,9 @@ federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Ethanol Industry]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 sec-filings: 10000
 sec-form-types:
   - "10-Q"
@@ -90,8 +92,10 @@ court-jurisdictions:
   - "United States Bankruptcy Court, N.D. Florida"
 fda-recalls: 42
 fda-recalls-class-i: 10
-ftc-enforcement-actions: 0
-ftc-hsr-notices: 30
+cross-vault-triangulation-count: 12
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #cargill #agriculture #commodities #grain #trade #private #family
 

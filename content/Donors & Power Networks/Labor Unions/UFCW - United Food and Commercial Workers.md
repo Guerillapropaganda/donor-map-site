@@ -1,7 +1,7 @@
 ---
 title: "UFCW - United Food and Commercial Workers"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ issues:
   - "Labor & Workers"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "RUSSIA-EO14024"
 ein: "201130122"
@@ -28,6 +30,10 @@ sec-filings: 9
 sec-form-types:
   - "10-K"
   - "10-K/A"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #union #UFCW #grocery #retail #labor #class-analysis #follow-the-money #california #national #kroger #albertsons #walmart #strike #two-tier
 

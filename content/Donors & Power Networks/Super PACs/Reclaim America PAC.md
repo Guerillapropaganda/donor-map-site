@@ -1,7 +1,7 @@
 ---
 title: "Reclaim America PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -9,6 +9,8 @@ sector: "Super PACs"
 entity-type: "PAC"
 court-cases: 2
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, S.D. New York"
 related: "[[Fanjul Family - Florida Crystals]] · [[Marco Rubio]]"
@@ -18,6 +20,10 @@ source-types:
   - Courts
   - FEC
 corroboration-count: 2
+cross-vault-triangulation-count: 1
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #pac #leadership-pac #republican #rubio #trump #class-analysis #follow-the-money
 

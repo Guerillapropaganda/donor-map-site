@@ -52,8 +52,8 @@ regulatory-agencies:
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
   - "U.S. Customs and Border Protection"
-nhtsa-recalls: 500
-nhtsa-complaints: 0
+cross-vault-triangulation-count: 7
+audit-a-plus-passed: "2026-04-11"
 ---
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw
 

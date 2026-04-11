@@ -1,7 +1,7 @@
 ---
 title: "Defense Contractors"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ net-assets: "$2.2M"
 tax-year: "2023"
 federal-register-mentions: 327
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Defense Acquisition Regulations System"
   - "Defense Department"
@@ -64,6 +66,10 @@ sec-form-types:
 nonprofit-status: "501(c)(6)"
 total-revenue: 1233598
 total-assets: 2061369
+cross-vault-triangulation-count: 16
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #defense-contractors #military-industrial #bipartisan #ndaa #revolving-door #lobbying #class-analysis #follow-the-money
 

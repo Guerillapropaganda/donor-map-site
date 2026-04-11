@@ -1,7 +1,7 @@
 ---
 title: "Donors Capital Fund"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 13
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, D. Minnesota"
   - "District Court, D. New Jersey"
@@ -56,6 +58,10 @@ sec-form-types:
   - "PRE 14C"
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #dark-money #donor-advised-fund #501c3 #conservative #koch-network #class-analysis #follow-the-money
 

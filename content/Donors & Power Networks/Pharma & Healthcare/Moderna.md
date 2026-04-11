@@ -1,8 +1,8 @@
 ---
 title: "Moderna"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -22,6 +22,8 @@ top-naics-code: "325412"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 related: "[[Merck]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Johnson & Johnson]] · [[AbbVie]] · [[UnitedHealth Group - Optum]] · [[Pfizer]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
 sec-filings: 10000
 sec-form-types:
@@ -63,11 +65,10 @@ sec-form-types:
   - "PX14A6G"
   - "S-8"
   - "SCHEDULE 13G/A"
-federal-awards-total: 64957786
-federal-contracts-count: 6
-federal-grants-count: 1
-lei: "549300EI6OKH5K5Q2G38"
-lei-jurisdiction: "US-DE"
+cross-vault-triangulation-count: 12
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #moderna #pharma #mrna #covid #vaccine #pricing #nih #public-funding #patent
 

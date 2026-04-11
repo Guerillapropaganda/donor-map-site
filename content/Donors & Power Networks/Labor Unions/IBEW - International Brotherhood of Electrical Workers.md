@@ -31,6 +31,8 @@ total-political-spend: "$4,861,275"
 related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]] · [[Nancy Pelosi Master Profile]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[IBEW California State Association]] · [[California Building and Construction Trades Council]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[PG&E]] · [[California Labor Federation]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]]"
 lei: "984500ACFC0ND2E37927"
 lei-jurisdiction: "CA"
+cross-vault-triangulation-count: 18
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #union #IBEW #building-trades #labor #class-analysis #follow-the-money #california #national #pro-labor #infrastructure #clean-energy #prevailing-wage
 

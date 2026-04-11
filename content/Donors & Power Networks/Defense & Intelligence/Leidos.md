@@ -72,9 +72,8 @@ federal-grants-count: 9
 related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[L3Harris Technologies]]"
 lobbying-spend: 10260000
 lobbying-filings: 54
-lei: "5493006I78VIN6J1BQ95"
-lei-jurisdiction: "US-DE"
-lei-parent: "LEIDOS HOLDINGS, INC."
+cross-vault-triangulation-count: 11
+audit-a-plus-passed: "2026-04-11"
 ---
 #leidos #defense #intelligence #it #government #contractor #cybersecurity #revolving-door #outsourcing #surveillance
 

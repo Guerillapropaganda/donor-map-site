@@ -57,6 +57,8 @@ politicians-funded:
   - "Mike Rogers"
   - "John McCain"
   - "Marco Rubio"
+cross-vault-triangulation-count: 3
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #newsmax #trump-media #right-wing-media #trump-confidant #media-proprietor

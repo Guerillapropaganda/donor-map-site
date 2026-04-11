@@ -1,7 +1,7 @@
 ---
 title: "PhRMA - Pharmaceutical Research and Manufacturers of America"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -17,6 +17,8 @@ issues:
 ein: "530241211"
 nonprofit-status: "501(c)(6)"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 524889625
 total-assets: 349012370
 federal-register-mentions: 1
@@ -25,6 +27,10 @@ regulatory-agencies:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Healthcare - Donors and Backers]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[2026-03-26 Finance Research]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[Pharmaceutical Industry]] · [[_Richard Neal Master Profile|Richard Neal]] · [[_Brett Guthrie Master Profile|Guthrie]] · [[_Billy Tauzin Master Profile|Tauzin]] · [[Pfizer]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[AbbVie]] · [[American Action Network]] · [[Partnership for Safe Medicines]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]]"
+cross-vault-triangulation-count: 16
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #pharma #healthcare #lobbying #corporation #medicare-part-d #ira #patent-thicket #dark-money #trade-association
 

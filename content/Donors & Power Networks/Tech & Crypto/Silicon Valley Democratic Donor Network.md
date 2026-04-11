@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley Democratic Donor Network"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,6 +12,13 @@ issues:
 lobbying-spend: 1258000
 lobbying-filings: 51
 related: "[[The Dark Money Crusader and Court Reform]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Climate Hawk and Green New Deal Limits]] · [[Chris Murphy Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[Center for American Progress]] · [[John Hickenlooper]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Ethan Klein]] · [[Cory Booker]] · [[Reid Hoffman]] · [[Dustin Moskovitz]] · [[Laurene Powell Jobs]] · [[Reed Hastings]] · [[Future Forward USA Action]] · [[Democratic Donor Network]] · [[AI Regulation and Tech Donors]] · [[Climate Philanthropy - The Green Billionaires]] · [[Meta - Facebook]] · [[Google - Alphabet]] · [[Mark Zuckerberg]]"
+cross-vault-triangulation-count: 22
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #donor-network #tech #democratic #2024-realignment #silicon-valley #billionaire-coordination #ai-regulation #immigration-policy
 

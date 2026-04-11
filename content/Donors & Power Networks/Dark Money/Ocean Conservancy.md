@@ -1,7 +1,7 @@
 ---
 title: "Ocean Conservancy"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -14,6 +14,8 @@ lobbying-spend: 5725200
 lobbying-filings: 86
 federal-register-mentions: 87
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Agriculture Department"
   - "Commerce Department"
@@ -32,6 +34,10 @@ tax-year: "2023"
 nonprofit-status: "501(c)(3)"
 total-revenue: 56087482
 total-assets: 95267498
+cross-vault-triangulation-count: 9
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #ocean-conservancy #environment #nonprofit #conservation #fishing #plastics #dark-money #corporate-capture #greenwashing
 

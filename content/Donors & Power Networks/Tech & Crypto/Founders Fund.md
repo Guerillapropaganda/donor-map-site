@@ -1,7 +1,7 @@
 ---
 title: "Founders Fund"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -25,6 +25,8 @@ lei-jurisdiction: "LU"
 related: "[[Joe Rogan]] · [[Invariant]] · [[Ajay Royan]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[_JD Vance Master Profile|JD Vance]] · [[_David Sacks Master Profile|David Sacks]] · [[Mithril Capital]] · [[Elon Musk]] · [[Anduril Industries]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Silicon Valley Donors]] · [[Palantir Technologies Political Operation]] · [[Narya Capital]]"
 court-cases: 157
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Fifth Circuit"
   - "District Court, D. Delaware"
@@ -54,6 +56,10 @@ sec-form-types:
   - "SC 13G"
   - "SC 13G/A"
   - "SCHEDULE 13D"
+cross-vault-triangulation-count: 14
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #founders-fund #peter-thiel #venture-capital #tech #libertarian #palantir #republican #defense #paypal-mafia #dark-money #class-analysis #follow-the-money
 

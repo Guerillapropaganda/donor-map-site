@@ -1,8 +1,8 @@
 ---
 title: "Hospital Corporation of America - HCA"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -12,9 +12,13 @@ issues:
 related: "[[Humana]] · [[The Medicare Fraud Governor and Senate Campaign]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[UnitedHealth Group - Optum]] · [[CVS Health - Aetna]] · [[Private Equity Industry Bloc]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
-ftc-enforcement-actions: 1
-ftc-hsr-notices: 6
+last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #hca #healthcare #hospitals #for-profit #private-equity #frist #tennessee
 

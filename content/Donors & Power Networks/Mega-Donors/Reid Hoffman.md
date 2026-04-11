@@ -1,7 +1,7 @@
 ---
 title: "Reid Hoffman"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -36,8 +36,14 @@ sec-form-types:
 related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Tech and Media Donors]] · [[Silicon Valley Donors]] · [[Silicon Valley Democratic Donor Network]]"
 federal-register-mentions: 2
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Securities and Exchange Commission"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #billionaire #democratic #tech #linkedin #wisconsin
 

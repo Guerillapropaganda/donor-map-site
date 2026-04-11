@@ -41,6 +41,8 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, S.D. Iowa"
   - "District Court, W.D. Washington"
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #union #UNITE-HERE #hospitality #hotel #food-service #labor #class-analysis #follow-the-money #california #national #las-vegas #immigrant-workers #strike
 

@@ -79,6 +79,8 @@ regulatory-agencies:
   - "Justice Department"
   - "National Institutes of Health"
   - "Patent and Trademark Office"
+cross-vault-triangulation-count: 8
+audit-a-plus-passed: "2026-04-11"
 ---
 #gilead #pharma #hiv #hepatitis #pricing #sovaldi #truvada #prep #lobbying
 

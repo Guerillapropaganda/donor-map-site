@@ -1,7 +1,7 @@
 ---
 title: Peter Thiel
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -17,6 +17,8 @@ subawards-received: 50
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 1
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - Federal Trade Commission
 related: "[[The Billionaire Cabinet - Self-Dealing as Governance]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[Mike Johnson Master Profile]] · [[Vivek Ramaswamy Master Profile]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Dan Bongino]] · [[Russell Brand]] · [[Nate Silver]] · [[Lex Fridman]] · [[Glenn Greenwald]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[_David Sacks Master Profile|David Sacks]] · [[The Thiel Pipeline - From Yale to VP]] · [[The 2024 Tech Billionaire Network]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Hillbilly Elegy and the Class Fraud]]"
@@ -47,6 +49,10 @@ wikidata-id: "Q705525"
 wikipedia-url: "https://en.wikipedia.org/wiki/Peter_Thiel"
 wikipedia-extract: "Peter Andreas Thiel is a German and American entrepreneur, venture capitalist, and conservative political activist."
 born: "1967-10-11"
+cross-vault-triangulation-count: 19
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #thiel #palantir #surveillance #paypal-mafia #class-analysis #follow-the-money #anti-democracy #dark-enlightenment #kingmaker #venture-capital #trump #vance
 

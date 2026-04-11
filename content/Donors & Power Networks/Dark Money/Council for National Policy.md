@@ -1,7 +1,7 @@
 ---
 title: "Council for National Policy"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ net-assets: "$3.5M"
 tax-year: "2023"
 court-cases: 21
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, D. Arizona"
@@ -34,6 +36,10 @@ fara-records: 4
 fara-countries:
   - "ERITREA"
   - "IRAN"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #cnp #dark-money #conservative #christian-right #networking #secretive #strategy
 

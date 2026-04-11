@@ -1,7 +1,7 @@
 ---
 title: "IBEW Local 477 - San Bernardino"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -13,8 +13,14 @@ related: "[[UFCW - United Food and Commercial Workers]] · [[IBEW - Internationa
 ein: "812607816"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 total-revenue: 204827
 total-assets: 89679
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #union #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #local-477 #building-trades #labor #class-analysis #follow-the-money #inland-empire #san-bernardino #prevailing-wage #apprenticeship
 

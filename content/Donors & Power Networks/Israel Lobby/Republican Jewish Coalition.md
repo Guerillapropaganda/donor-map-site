@@ -40,6 +40,8 @@ politicians-funded:
   - "Dan Goldman"
   - "Donna Miller"
   - "Stephen Miller"
+cross-vault-triangulation-count: 5
+audit-a-plus-passed: "2026-04-11"
 ---
 #republican-jewish-coalition #RJC #israel-lobby #pro-israel #mega-donor #sheldon-adelson #miriam-adelson
 

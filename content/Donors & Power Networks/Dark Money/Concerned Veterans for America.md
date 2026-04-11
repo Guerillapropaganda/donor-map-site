@@ -1,7 +1,7 @@
 ---
 title: "Concerned Veterans for America"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -18,11 +18,17 @@ subawards-received-amount: 1009778941592127500
 ein: "853318501"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-cases: 5
 court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. Illinois"
 related: "[[DeVos Family]] · [[Koch Network - Charles Koch]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[Doug Collins]] · [[_Donald Trump Master Profile|Trump]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #dark-money #koch #veterans #privatization #va #astroturf #class-analysis #follow-the-money #healthcare
 

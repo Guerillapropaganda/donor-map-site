@@ -1,8 +1,8 @@
 ---
 title: "Fidelity Investments"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,8 @@ issues:
   - "Technology"
 federal-register-mentions: 182
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Employee Benefits Security Administration"
   - "Labor Department"
@@ -37,9 +39,10 @@ court-jurisdictions:
   - "District Court, N.D. Illinois"
   - "District Court, N.D. New York"
   - "District Court, N.D. Ohio"
-lei: "549300N8042Y2BO9SS82"
-lei-jurisdiction: "CA-AB"
-lei-parent: "FIDELITY CANADA HOLDINGS (UK) LIMITED"
+cross-vault-triangulation-count: 0
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #asset-manager #johnson-family #private-equity #financial-deregulation #crypto

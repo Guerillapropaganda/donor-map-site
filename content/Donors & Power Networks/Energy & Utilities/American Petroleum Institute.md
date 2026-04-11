@@ -44,6 +44,8 @@ regulatory-agencies:
   - "Labor Department"
   - "Occupational Safety and Health Administration"
   - "Pipeline and Hazardous Materials Safety Administration"
+cross-vault-triangulation-count: 23
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money
 

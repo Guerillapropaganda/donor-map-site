@@ -17,6 +17,8 @@ related: "[[Schwarzman and Singer Fund Every Republican Faction]] · [[Mitt Romn
 lei: "SUHPWJ4TBNAH1YMQM073"
 lei-jurisdiction: "US-DE"
 last-enriched: "2026-04-10"
+cross-vault-triangulation-count: 15
+audit-a-plus-passed: "2026-04-11"
 ---
 #hedge-fund #paul-singer #republican #national-security #war-hawk #fossil-fuel #israel #neoconservative #scotus #activist-investor #class-analysis #follow-the-money
 

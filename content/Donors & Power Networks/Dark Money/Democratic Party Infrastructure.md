@@ -1,7 +1,7 @@
 ---
 title: "Democratic Party Infrastructure"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Infrastructure"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "BALKANS"
 related: "[[Ohio Democratic Party]] · [[Center for American Progress]] · [[Democratic Donor Network]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[ActBlue]] · [[Senate Majority PAC]] · [[National Progressive Donor Networks]] · [[Ohio Federation of Teachers]] · [[Trial Lawyers Fund]]"
@@ -18,6 +20,10 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "TAIWAN"
+cross-vault-triangulation-count: 9
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #democratic #party #infrastructure #dnc #dccc #dscc #actblue #organizing
 

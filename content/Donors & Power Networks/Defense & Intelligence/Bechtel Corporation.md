@@ -29,6 +29,8 @@ nhtsa-complaints: 0
 related: "[[South Carolina 2026 Senate Race]]"
 lei: "A2351DQ25OUUH2Q6RR89"
 lei-jurisdiction: "US-NV"
+cross-vault-triangulation-count: 1
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #defense-contractor #infrastructure #private-construction #iraq-war #revolving-door

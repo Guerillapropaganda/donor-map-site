@@ -55,6 +55,8 @@ politicians-funded:
   - "Adam Smith"
   - "Jason Smith"
   - "Bryan Steil"
+cross-vault-triangulation-count: 6
+audit-a-plus-passed: "2026-04-11"
 ---
 #nra-restaurants #food #labor #minimum-wage #tipped-workers #lobbying
 

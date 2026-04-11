@@ -1,7 +1,7 @@
 ---
 title: "Stephen Schwarzman"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ net-assets: "$105.5M"
 tax-year: "2023"
 federal-register-mentions: 2
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
@@ -67,6 +69,10 @@ court-jurisdictions:
   - "District Court, S.D. Illinois"
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #billionaire #republican #private-equity #blackstone #wall-street
 

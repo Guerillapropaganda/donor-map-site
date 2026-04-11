@@ -29,6 +29,8 @@ related: "[[Michigan 2026 Senate Race]] · [[Gary Peters Master Profile]] · [[O
 nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-09"
 total-political-spend: "$3,283,200"
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #labor #union #auto-industry #working-class #fain #stand-up-strike #ev-transition #corruption #consent-decree
 

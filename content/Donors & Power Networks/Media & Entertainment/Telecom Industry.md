@@ -33,6 +33,8 @@ regulatory-agencies:
   - "Federal Reserve System"
   - "Rural Utilities Service"
   - "Securities and Exchange Commission"
+cross-vault-triangulation-count: 5
+audit-a-plus-passed: "2026-04-11"
 ---
 #telecom #net-neutrality #spectrum #broadband #lobbying #fcc #bipartisan
 

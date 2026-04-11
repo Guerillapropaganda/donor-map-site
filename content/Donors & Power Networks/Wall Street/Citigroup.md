@@ -57,6 +57,8 @@ sec-form-types:
   - "POSASR"
   - "S-3"
   - "S-3ASR"
+cross-vault-triangulation-count: 14
+audit-a-plus-passed: "2026-04-11"
 ---
 #citigroup #wall-street #banking #too-big-to-fail #derivatives #lobbying #bailout
 

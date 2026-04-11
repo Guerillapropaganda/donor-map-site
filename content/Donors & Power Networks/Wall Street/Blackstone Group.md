@@ -43,18 +43,8 @@ occ-active-actions: 0
 occ-charter-numbers:
   - "14534"
 occ-cmp-dollars: 11000
-sec-filings: 10000
-sec-form-types:
-  - "3"
-  - "3/A"
-  - "4"
-  - "EX-23.1"
-  - "EX-99"
-  - "EX-99.3"
-  - "NPORT-EX"
-  - "S-8 POS"
-  - "SC 13D"
-  - "SC 13D/A"
+cross-vault-triangulation-count: 24
+audit-a-plus-passed: "2026-04-11"
 ---
 #blackstone #private-equity #schwarzman #wall-street #carried-interest #real-estate #trump #republican #revolving-door #class-analysis #follow-the-money #housing #rental #tax-avoidance #sovereign-wealth #lobbying
 

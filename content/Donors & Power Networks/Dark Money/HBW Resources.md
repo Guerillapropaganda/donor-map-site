@@ -1,7 +1,7 @@
 ---
 title: "HBW Resources"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,8 @@ fara-countries:
   - "CANADA"
 court-cases: 4
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, S.D. Texas"
   - "United States Bankruptcy Court, D. Delaware"
@@ -40,6 +42,10 @@ sec-form-types:
   - "S-1/A"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 11
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #hbw-resources #lobbying #energy #fossil-fuel #astroturf #front-group #lng #consumer-energy-alliance #western-states-tribal-nations #oil-gas #influence #dark-money
 

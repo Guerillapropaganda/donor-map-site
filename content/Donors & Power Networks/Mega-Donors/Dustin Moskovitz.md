@@ -1,7 +1,7 @@
 ---
 title: "Dustin Moskovitz"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -42,6 +42,8 @@ sec-form-types:
 related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Democratic Party Infrastructure]] · [[Future Forward USA Action]] · [[FTX - Sam Bankman-Fried]] · [[Silicon Valley Democratic Donor Network]] · [[Senate Majority PAC]]"
 court-cases: 47
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Arizona"
@@ -53,6 +55,10 @@ court-jurisdictions:
 federal-register-mentions: 2
 regulatory-agencies:
   - "Federal Trade Commission"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #billionaire #democratic #tech #dark-money #effective-altruism
 

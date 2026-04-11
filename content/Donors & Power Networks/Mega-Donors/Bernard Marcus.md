@@ -63,6 +63,8 @@ lei-jurisdiction: "GB"
 related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Heritage Foundation]] · [[Federalist Society]] · [[American Enterprise Institute]]"
 last-enriched: "2026-04-11"
 total-political-spend: "$31,938,031"
+cross-vault-triangulation-count: 6
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor-node #mega-donor #retail #home-depot #republican #israel #class-analysis
 

@@ -35,6 +35,8 @@ related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Ill
 nonprofit-status: "501(c)(3)"
 total-revenue: 47401657
 total-assets: 690470487
+cross-vault-triangulation-count: 24
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor
 

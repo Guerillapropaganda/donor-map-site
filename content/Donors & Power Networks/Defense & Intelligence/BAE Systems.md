@@ -56,6 +56,8 @@ regulatory-agencies:
   - "Justice Department"
   - "Pipeline and Hazardous Materials Safety Administration"
   - "Transportation Department"
+cross-vault-triangulation-count: 8
+audit-a-plus-passed: "2026-04-11"
 ---
 #bae #defense #uk #electronic-systems #vehicles #new-hampshire #virginia
 

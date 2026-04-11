@@ -30,6 +30,8 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
 related: "[[Dan Osborn Master Profile]] · [[Jeff Merkley Master Profile]] · [[Joseph Morelle Master Profile]] · [[Texas 2026 Senate Race]] · [[Minnesota 2026 Senate Race]] · [[SEIU - Service Employees International Union|SEIU]] · [[UAW - United Auto Workers|UAW]] · [[California Labor Federation]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]]"
+cross-vault-triangulation-count: 6
+audit-a-plus-passed: "2026-04-11"
 ---
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline
 

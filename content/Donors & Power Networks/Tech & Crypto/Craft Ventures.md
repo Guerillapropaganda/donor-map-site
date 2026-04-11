@@ -15,6 +15,8 @@ last-enriched: "2026-04-07"
 related: "[[David Sacks Master Profile]] · [[The AI-Crypto Czar and the Portfolio Conflict]]"
 lobbying-spend: 1665000
 lobbying-filings: 38
+cross-vault-triangulation-count: 0
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #vc #david-sacks #crypto #ai #conflict-of-interest #trump-czar

@@ -1,7 +1,7 @@
 ---
 title: "PG&E"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ top-naics-code: "221122"
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 2
+cross-vault-triangulation-count: 9
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #utility #PGE #regulated-monopoly #wildfire #ratepayers #california #follow-the-money #criminal-guilty-plea #class-analysis #energy
 

@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Development Industry Bloc"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ issues:
   - "Housing"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ofac-programs:
   - "PAARSSR-EO13894"
   - "SDGT"
@@ -31,6 +33,10 @@ ofac-programs:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Steve Witkoff]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Lennar Corporation]]"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #real-estate #developers #housing #housing-deregulation #pac #california-apartment-association #nar #bipartisan #development-industry #supply-side
 

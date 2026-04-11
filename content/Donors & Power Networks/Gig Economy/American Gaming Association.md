@@ -45,27 +45,8 @@ sec-form-types:
   - "N-Q"
   - "SC TO-C"
 related: "[[Sports Gambling Industry State Capture]] · [[Steve Scalise]] · [[Jason Smith]] · [[Glenn Thompson]] · [[Bennie Thompson]] · [[National Association of Manufacturers]] · [[Adam Smith]] · [[Blue Shield of California]] · [[Miriam Adelson]] · [[Sheldon Adelson]] · [[Las Vegas Sands]] · [[MGM Resorts International]] · [[Caesars Entertainment]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]]"
-court-cases: 81
-court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the Fourth Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Nevada"
-  - "District Court, E.D. Kentucky"
-  - "District Court, E.D. Louisiana"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Washington"
-federal-register-mentions: 19
-regulatory-agencies:
-  - "Coast Guard"
-  - "Federal Trade Commission"
-  - "Financial Crimes Enforcement Network"
-  - "Homeland Security Department"
-  - "Indian Affairs Bureau"
-  - "Interior Department"
-  - "Treasury Department"
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money
 

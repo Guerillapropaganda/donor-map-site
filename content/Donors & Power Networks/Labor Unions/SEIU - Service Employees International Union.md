@@ -22,6 +22,8 @@ last-enriched: "2026-04-11"
 nonprofit-status: "501(c)(5)"
 total-revenue: 16733765
 total-assets: 7578894
+cross-vault-triangulation-count: 21
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #union #SEIU #healthcare #public-sector #labor #class-analysis #follow-the-money #california #national #home-care #minimum-wage #fast-food #fight-for-15
 

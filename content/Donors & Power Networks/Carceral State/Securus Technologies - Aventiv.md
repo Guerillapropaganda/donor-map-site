@@ -1,8 +1,8 @@
 ---
 title: "Securus Technologies - Aventiv"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -14,7 +14,13 @@ subawards-received-amount: 51876611853
 related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]] · [[Immigration Enforcement - The Detention Economy]] · [[GEO Group - Private Prisons]] · [[CoreCivic - Private Prisons]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #securus #aventiv #carceral-state #prison-telecom #surveillance #private-equity #platinum-equity #national #california #follow-the-money #class-analysis
 

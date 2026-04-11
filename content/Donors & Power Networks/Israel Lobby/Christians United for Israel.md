@@ -1,7 +1,7 @@
 ---
 title: "Christians United for Israel"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
 lobbying-spend: 1079410
 lobbying-filings: 8
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 sec-filings: 29
 sec-form-types:
   - "DEF 14A"
@@ -19,6 +21,10 @@ sec-form-types:
   - "FWP"
   - "PRE 14A"
 related: "[[Israel - Government Lobbying Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]]"
+cross-vault-triangulation-count: 5
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #cufi #christian-zionism #israel #evangelical #hagee #lobbying #republican
 

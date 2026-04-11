@@ -1,7 +1,7 @@
 ---
 title: "OpenAI"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ein: "810861541"
 annual-revenue: "$5.4M"
 net-assets: "$22.7M"
@@ -50,6 +52,10 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Justice Department"
   - "Library of Congress"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #openai #ai #chatgpt #altman #microsoft #regulation #nonprofit-conversion
 

@@ -1,7 +1,7 @@
 ---
 title: "Invitation Homes - Institutional Landlords"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,12 @@ subawards-received-amount: 1009778941592127500
 related: "[[The Housing Progressive and Wall Street Tension]] · [[Blackstone Group]] · [[National Rental Home Council]] · [[American Homes 4 Rent]] · [[Pretium/Progress Residential]] · [[FirstKey Homes - Cerberus]] · [[National Association of Realtors]] · [[Real Estate Board of New York]] · [[Real Estate Industry Bloc]] · [[Lennar Corporation]] · [[Blackstone Real Estate]]"
 lobbying-spend: 400000
 lobbying-filings: 14
+cross-vault-triangulation-count: 8
+needs-reenrichment: true
+reenrich-reason: "run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #invitation-homes #institutional-landlord #real-estate #housing #blackstone #rent #private-equity #class-analysis #follow-the-money
 

@@ -1,7 +1,7 @@
 ---
 title: "Carlyle Group"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ein: 850703768
 annual-revenue: "$62.1M"
 net-assets: "$8.9M"
@@ -58,6 +60,10 @@ occ-active-actions: 1
 occ-charter-numbers:
   - "2212"
 occ-cmp-dollars: 3000
+cross-vault-triangulation-count: 13
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #carlyle-group #private-equity #wall-street #defense #revolving-door #bipartisan #carried-interest #lobbying
 

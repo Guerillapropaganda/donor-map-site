@@ -46,6 +46,8 @@ last-enriched: "2026-04-08"
 related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[_Lloyd Austin Master Profile|Lloyd Austin]] · [[_Mark Esper Master Profile|Mark Esper]] · [[Defense Contractors Bloc]] · [[ExxonMobil]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]]"
 lobbying-spend: 2200000
 lobbying-filings: 50
+cross-vault-triangulation-count: 18
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #iran #golden-dome #missiles #saudi-arabia #yemen #ukraine #f-35 #patriot #pac #fraud #stinger #tomahawk
 

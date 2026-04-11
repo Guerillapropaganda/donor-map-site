@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Board of New York"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -9,6 +9,8 @@ sector: "Real Estate"
 entity-type: "Individual Donor"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -37,6 +39,10 @@ lobbying-filings: 101
 nonprofit-status: "501(c)(6)"
 total-revenue: 17247028
 total-assets: 24867283
+cross-vault-triangulation-count: 4
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #real-estate-lobby #nyc-politics #zoning #housing-policy #developer-power #class-analysis #follow-the-money
 

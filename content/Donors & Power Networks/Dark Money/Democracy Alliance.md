@@ -20,6 +20,8 @@ nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-09"
 total-revenue: 615075
 total-assets: 280838
+cross-vault-triangulation-count: 16
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor-consortium #dark-money #democrat #secretive-giving #class-analysis #donor
 

@@ -54,6 +54,8 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
 total-political-spend: "$1,000"
+cross-vault-triangulation-count: 6
+audit-a-plus-passed: "2026-04-11"
 ---
 #ufw #farmworkers #labor #cesar-chavez #agriculture #immigration #california
 

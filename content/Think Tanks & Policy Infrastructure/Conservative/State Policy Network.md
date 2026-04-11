@@ -1,7 +1,7 @@
 ---
 title: "State Policy Network"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -22,6 +22,8 @@ related: "[[Donors Capital Fund]] · [[DonorsTrust]] · [[Freedom Partners]] · 
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 source-types:
   - SEC
   - USASpending
@@ -40,6 +42,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #think-tank #conservative #state-level #deregulation #koch-network #dark-money #class-analysis #follow-the-money

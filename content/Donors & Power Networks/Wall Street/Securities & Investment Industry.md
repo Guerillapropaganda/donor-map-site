@@ -1,8 +1,8 @@
 ---
 title: "Securities & Investment Industry"
 type: donor
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,6 +11,8 @@ issues:
   - "Wall Street & Finance"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "IRAN"
   - "SDGT] [IFSR"
@@ -27,8 +29,10 @@ sec-form-types:
   - "PRER14A"
   - "S-4"
 related: "[[Patrick McHenry Master Profile]] · [[Dan Goldman]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[Carlyle Group]] · [[Kenneth Griffin]] · [[Wall Street Finance PACs]] · [[Wall Street Bloc]] · [[Financial Services Donors]]"
-lobbying-spend: 18617694
-lobbying-filings: 66
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #securities #investment #wall-street #hedge-fund #private-equity #carried-interest #bipartisan
 

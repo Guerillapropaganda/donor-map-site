@@ -49,6 +49,8 @@ regulatory-agencies:
   - "Health and Human Services Department"
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 20
+cross-vault-triangulation-count: 10
+audit-a-plus-passed: "2026-04-11"
 ---
 #humana #health-insurance #medicare-advantage #lobbying #kentucky
 

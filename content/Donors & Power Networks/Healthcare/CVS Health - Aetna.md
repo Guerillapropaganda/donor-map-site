@@ -13,8 +13,8 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-11"
 lobbying-spend: 21190000
 lobbying-filings: 56
-ftc-enforcement-actions: 0
-ftc-hsr-notices: 17
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #cvs #aetna #health-insurance #pbm #pharmacy #vertical-integration #lobbying
 

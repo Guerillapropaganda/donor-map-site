@@ -35,6 +35,8 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
   - "District Court, W.D. Texas"
+cross-vault-triangulation-count: 2
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #crypto #payments #fairshake #sec-lawsuit #regulatory-capture

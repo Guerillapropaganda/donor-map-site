@@ -26,6 +26,8 @@ court-cases: 2
 court-jurisdictions:
   - "District Court, E.D. Virginia"
   - "District Court, S.D. New York"
+cross-vault-triangulation-count: 1
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #sports-betting #dark-money #draftkings-fanduel #gambling-expansion #lobbying

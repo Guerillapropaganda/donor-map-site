@@ -1,7 +1,7 @@
 ---
 title: "Meta - Facebook"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -37,6 +37,12 @@ sec-form-types:
 related: "[[The Judiciary Committee and Tech Accountability]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Amy Klobuchar]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]] · [[Silicon Valley Democratic Donor Network]] · [[David Sacks Political Operation]] · [[TikTok - ByteDance]] · [[Silicon Valley Donors]] · [[Nvidia]]"
 lobbying-spend: 36516328
 lobbying-filings: 107
+cross-vault-triangulation-count: 18
+needs-reenrichment: true
+reenrich-reason: "run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #meta #facebook #tech #lobbying #privacy #section-230 #advertising #zuckerberg #antitrust #ai #surveillance #class-analysis #follow-the-money #revolving-door
 

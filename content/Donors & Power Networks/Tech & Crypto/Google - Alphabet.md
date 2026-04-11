@@ -1,7 +1,7 @@
 ---
 title: "Google - Alphabet"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -23,11 +23,17 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 1
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, N.D. California"
 related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Tech Privacy Advocacy]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Center for American Progress]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Eric Schmidt]] · [[Silicon Valley Democratic Donor Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Nancy Pelosi Master Profile|Nancy Pelosi]] · [[_Ro Khanna Master Profile|Ro Khanna]] · [[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Amy Klobuchar Master Profile|Amy Klobuchar]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[TikTok - ByteDance]] · [[Tech IP and Patent Lobbying]] · [[Silicon Valley Donors]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 32
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #google #alphabet #tech #lobbying #antitrust #surveillance #advertising #data #ai #revolving-door #monopoly #eu-lobbying #california #pac #dark-money #class-analysis #follow-the-money
 

@@ -83,6 +83,8 @@ regulatory-agencies:
   - "Fish and Wildlife Service"
   - "Homeland Security Department"
   - "Interior Department"
+cross-vault-triangulation-count: 11
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #agriculture #lobbying #insurance #corporate-agriculture #epa #deregulation #farm-bill #trade #labor
 

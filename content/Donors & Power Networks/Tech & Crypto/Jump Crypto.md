@@ -1,7 +1,7 @@
 ---
 title: "Jump Crypto"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 2
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Technology"
 court-cases: 24
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Seventh Circuit"
   - "District Court, D. Arizona"
@@ -46,6 +48,10 @@ sec-form-types:
   - "SCHEDULE 13D/A"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 2
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 #crypto #trading #jump-trading #fairshake #political-spending

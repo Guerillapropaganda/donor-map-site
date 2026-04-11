@@ -1,7 +1,7 @@
 ---
 title: "National Rifle Association"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -47,6 +47,8 @@ tax-year: "2023"
 related: "[[The Culture War Economy and Small Dollar Fundraising]] · [[Lauren Boebert]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The NRA Investment and the Second Amendment Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Guns - Donors and Backers]] · [[Koch Network - Charles Koch]] · [[WinRed]] · [[Trump Victory]] · [[Save America PAC]]"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 total-revenue: 3069790
 total-assets: 5024655
 federal-register-mentions: 25
@@ -61,6 +63,10 @@ regulatory-agencies:
   - "Interior Department"
   - "Justice Department"
   - "National Credit Union Administration"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #gun-lobby #pac #nra #dark-money #russian-money #scotus #501c4 #lobbying
 

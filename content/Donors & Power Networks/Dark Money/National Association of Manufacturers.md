@@ -59,6 +59,8 @@ sec-form-types:
   - "EX-99.3"
   - "EX-99.7"
   - "PX14A6G"
+cross-vault-triangulation-count: 16
+audit-a-plus-passed: "2026-04-11"
 ---
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money
 

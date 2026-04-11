@@ -1,7 +1,7 @@
 ---
 title: "Koch network"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 16
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "District Court, District of Columbia"
@@ -21,6 +23,10 @@ court-jurisdictions:
 related: "[[Intra-Republican Contradiction Map]] · [[South Carolina 2026 Senate Race]] · [[Pete Hegseth Master Profile]] · [[Shelley Moore Capito]] · [[Jerry Moran]] · [[Mike Lee]] · [[Veterans and Military - Donors and Backers]] · [[Paul Ryan]] · [[John Boehner]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Kristi Noem]] · [[Doug Burgum Master Profile]] · [[John Hoeven]] · [[John Barrasso]] · [[Jim Inhofe]] · [[The Culture War Economy - Who Profits From Division]] · [[The Freedom Caucus and the Koch Network Politics of Obstruction]] · [[Bryan Steil]] · [[Steve Hilton]] · [[The Both-Sides Illusion (Media Edition) — Shared Infrastructure Behind Opposing Voices]] · [[CalSTRS - California State Teachers' Retirement System]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[Koch - Koch Industries]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Ron Johnson]]"
 lei: "391200KFDASVUTIYEP51"
 lei-jurisdiction: "DE"
+cross-vault-triangulation-count: 19
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #koch #network #dark-money #libertarian #deregulation #afp
 

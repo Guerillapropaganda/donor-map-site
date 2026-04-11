@@ -1,7 +1,7 @@
 ---
 title: "Priorities USA Action"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,9 +13,15 @@ related: "[[Emilys List]] · [[Democratic Senatorial Campaign Committee]] · [[S
 ein: "833099604"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 total-revenue: 226709
 total-assets: 108753
 opposes: "[[Josh Hawley Master Profile]]"
+cross-vault-triangulation-count: 11
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #priorities-usa #super-pac #democratic #obama #clinton #biden #digital #advertising #dark-money
 

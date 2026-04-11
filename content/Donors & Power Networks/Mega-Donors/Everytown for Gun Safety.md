@@ -35,19 +35,8 @@ tax-year: "2023"
 related: "[[Mark Kelly]] · [[Chris Murphy Master Profile]] · [[Gun and Public Safety - Donors and Backers]] · [[Michael Bloomberg]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[Adam Schiff]]"
 lobbying-spend: 5215000
 lobbying-filings: 42
-sec-filings: 15
-sec-form-types:
-  - "10-K"
-  - "424B4"
-  - "ARS"
-  - "DEF 14A"
-  - "DRS"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "PRE 14A"
-  - "PX14A6G"
-  - "S-1"
-  - "S-1/A"
+cross-vault-triangulation-count: 8
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #gun-control #bloomberg #class-analysis #follow-the-money #everytown #moms-demand-action #national #california
 

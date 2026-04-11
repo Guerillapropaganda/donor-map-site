@@ -1,7 +1,7 @@
 ---
 title: "Blue Cross Blue Shield Association"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
   - "Antitrust & Monopoly"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ofac-programs:
   - "SDNTK"
   - "IRAN"
@@ -53,6 +55,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, W.D. Pennsylvania"
   - "United States Bankruptcy Court, S.D. Texas"
+cross-vault-triangulation-count: 19
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money
 

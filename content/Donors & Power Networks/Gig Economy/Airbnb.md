@@ -1,7 +1,7 @@
 ---
 title: "Airbnb"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ federal-grants-count: 0
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ein: 833135259
 annual-revenue: "$18.6M"
 net-assets: "$19.4M"
@@ -33,6 +35,10 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
   - "U.S. Citizenship and Immigration Services"
 related: "[[Lyft]] · [[Instacart]] · [[Uber]] · [[DoorDash]] · [[Blackstone Real Estate]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]]"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #airbnb #gig-economy #housing #short-term-rental #lobbying #zoning #tourism
 

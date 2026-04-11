@@ -37,6 +37,8 @@ total-political-spend: "$1,465,283"
 nonprofit-status: "501(c)(4)"
 total-revenue: 12945313
 total-assets: 6313490
+cross-vault-triangulation-count: 11
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #education #school-choice #privatization #dark-money #devos #vouchers #esa #lobbying #religious-schools #alec
 

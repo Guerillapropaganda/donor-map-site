@@ -42,6 +42,8 @@ total-revenue: 104831056
 total-assets: 353111569
 total-political-spend: "$6,625"
 related: "[[Bradley Impact Fund]] · [[Heritage Foundation]] · [[Bradley Foundation]] · [[Koch Industries]] · [[Council for National Policy]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]]"
+cross-vault-triangulation-count: 8
+audit-a-plus-passed: "2026-04-11"
 ---
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative
 

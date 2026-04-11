@@ -41,6 +41,8 @@ court-jurisdictions:
   - "District Court, E.D. Pennsylvania"
   - "District Court, N.D. California"
   - "District Court, S.D. California"
+cross-vault-triangulation-count: 8
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #revolving-door #wall-street #treasury #warburg-pincus #bailout #financial-crisis #class-analysis #follow-the-money
 

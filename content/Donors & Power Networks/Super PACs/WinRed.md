@@ -1,7 +1,7 @@
 ---
 title: "WinRed"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ net-assets: "$41K"
 tax-year: "2016"
 federal-register-mentions: 1
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Federal Election Commission"
 related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]] · [[ActBlue]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]]"
@@ -22,6 +24,10 @@ sec-filings: 2
 sec-form-types:
   - "10-K"
   - "EX-10"
+cross-vault-triangulation-count: 8
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #winred #republican #fundraising #small-dollar #dark-patterns #online
 

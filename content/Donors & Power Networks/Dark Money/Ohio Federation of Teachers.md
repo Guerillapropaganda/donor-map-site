@@ -1,7 +1,7 @@
 ---
 title: "Ohio Federation of Teachers"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -18,6 +18,13 @@ sec-form-types:
 related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]] · [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]] · [[Democratic Donor Network]] · [[Democratic Party Infrastructure]] · [[Small Dollar Donors - ActBlue]]"
 lobbying-spend: 2868540
 lobbying-filings: 96
+cross-vault-triangulation-count: 9
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #ohio #teachers #union #labor #education #democratic #oft #aft #afl-cio #vouchers #public-education #collective-bargaining
 

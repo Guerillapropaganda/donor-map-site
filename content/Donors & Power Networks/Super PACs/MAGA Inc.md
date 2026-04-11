@@ -1,7 +1,7 @@
 ---
 title: "MAGA Inc"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 2
 parent: null
@@ -13,6 +13,8 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 34
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Eleventh Circuit"
@@ -32,6 +34,10 @@ wikidata-id: "Q123281082"
 wikipedia-url: "https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc."
 wikipedia-extract: "Make America Great Again Inc. is an American super PAC that supports Donald Trump. It was founded on September 23, 2022."
 founded: "2022-09-23"
+cross-vault-triangulation-count: 14
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #super-pac #trump #mega-donors #dark-money
 

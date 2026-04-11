@@ -1,7 +1,7 @@
 ---
 title: "Merck"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -28,6 +28,8 @@ top-naics-code: "325412"
 related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[Eli Lilly]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Gilead Sciences]]"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 45354708
 total-assets: 328259324
 cpsc-recalls: 1
@@ -48,6 +50,10 @@ fda-recalls: 12
 fda-recalls-class-i: 1
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 12
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation
 

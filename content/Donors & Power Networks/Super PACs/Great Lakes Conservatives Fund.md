@@ -1,7 +1,7 @@
 ---
 title: "Great Lakes Conservatives Fund"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
 parent: null
@@ -13,9 +13,15 @@ politicians-funded:
   - "Mallory McMorrow"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "DRCONGO"
 related: "[[Michigan 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[_Mike Rogers Master Profile]] · [[Tim Dunn]] · [[Paul Singer]] · [[Stephen Schwarzman]] · [[Sentinel Action Fund]]"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #super-pac #great-lakes #michigan #mike-rogers #single-candidate-pac #defense-aligned
 

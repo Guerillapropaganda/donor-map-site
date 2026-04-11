@@ -21,6 +21,8 @@ total-political-spend: "$1,000"
 nonprofit-status: "501(c)(3)"
 total-revenue: 4067997
 total-assets: 6954685
+cross-vault-triangulation-count: 13
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #adelson #mega-donor #republican #israel #casino #las-vegas #sheldon #miriam #las-vegas-sands #wire-act #online-gambling #class-analysis #follow-the-money #preserve-america #anti-online-gambling
 

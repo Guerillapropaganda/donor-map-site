@@ -66,6 +66,8 @@ regulatory-agencies:
   - "Interior Department"
 lobbying-spend: 1622000
 lobbying-filings: 57
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #think-tank #project-2025 #dark-money #conservative #501c3 #judicial #tax-policy #deregulation #revolving-door
 

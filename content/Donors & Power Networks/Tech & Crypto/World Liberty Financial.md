@@ -22,6 +22,8 @@ nonprofit-status: "501(c)(3)"
 lobbying-spend: 1859712
 lobbying-filings: 106
 related: "[[The Grift Machine - How Trump Monetized the Presidency]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Steve Witkoff Master Profile|Steve Witkoff]] · [[Fairshake PAC]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Emoluments and Self Dealing - Donors and Backers]]"
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #world-liberty-financial #wlfi #crypto #trump #emoluments #stablecoin #uae #self-dealing #foreign-interference #class-analysis #follow-the-money
 

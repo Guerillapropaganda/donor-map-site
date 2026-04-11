@@ -1,8 +1,8 @@
 ---
 title: "Boeing Defense"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -14,18 +14,13 @@ issues:
 related: "[[Palantir Technologies Political Operation]] · [[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Boeing]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Raytheon (RTX)]] · [[General Dynamics]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[BAE Systems]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
-court-cases: 104
-court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, E.D. Missouri"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Virginia"
-  - "District Court, E.D. Wisconsin"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Oklahoma"
-  - "District Court, W.D. Washington"
+last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
+cross-vault-triangulation-count: 16
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #boeing #defense #aerospace #military #lobbying #government-contracts #safety #revolving-door #too-big-to-fail
 

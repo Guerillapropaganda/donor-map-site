@@ -1,7 +1,7 @@
 ---
 title: "Small Dollar Donors - ActBlue"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,13 @@ politicians-funded:
 issues:
   - "Infrastructure"
 related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]] · [[ActBlue]] · [[Democratic Small Dollar Networks]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Democratic Party Infrastructure]] · [[WinRed]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]]"
+cross-vault-triangulation-count: 10
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #actblue #small-dollar #democratic #grassroots #online #platform #conduit #infrastructure #winred
 

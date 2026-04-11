@@ -1,7 +1,7 @@
 ---
 title: "Hawaiian Electric Company"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -10,6 +10,8 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ein: "990230697"
 nonprofit-status: "501(c)(3)"
 total-revenue: 240019
@@ -46,6 +48,10 @@ court-jurisdictions:
 federal-awards-total: 11258812
 federal-contracts-count: 15
 federal-grants-count: 1
+cross-vault-triangulation-count: 1
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #hawaiian-electric #heco #hawaii #maui #wildfire #utility #energy #monopoly
 

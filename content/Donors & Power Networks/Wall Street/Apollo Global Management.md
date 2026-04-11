@@ -1,7 +1,7 @@
 ---
 title: "Apollo Global Management"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ issues:
   - "Healthcare"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 ofac-programs:
   - "IRAN-EO13846"
 ein: "815163032"
@@ -59,6 +61,10 @@ regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
   - "Securities and Exchange Commission"
+cross-vault-triangulation-count: 13
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #apollo #private-equity #wall-street #university-of-phoenix #for-profit-education #healthcare #insurance
 

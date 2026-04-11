@@ -48,7 +48,8 @@ politicians-funded:
   - "Kamala Harris"
   - "Barack Obama"
   - "CSPOA - The Anti-Government Sheriff Network"
-
+cross-vault-triangulation-count: 4
+audit-a-plus-passed: "2026-04-11"
 ---
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund
 

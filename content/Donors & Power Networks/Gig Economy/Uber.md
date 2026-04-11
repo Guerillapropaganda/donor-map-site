@@ -98,6 +98,8 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. Florida"
   - "District Court, W.D. Texas"
+cross-vault-triangulation-count: 14
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #gig-economy #tech #uber #labor-opponent #prop-22 #AB5 #follow-the-money #silicon-valley #california #uber-innovation-pac #flex-association
 

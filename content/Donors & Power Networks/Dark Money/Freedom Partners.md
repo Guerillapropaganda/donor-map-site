@@ -28,6 +28,8 @@ corroboration-count: 2
 known-gaps:
   - "No FEC contribution data"
 total-political-spend: "$807,270"
+cross-vault-triangulation-count: 9
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #dark-money #koch-network #501c6 #conservative #class-analysis #follow-the-money
 

@@ -28,6 +28,8 @@ regulatory-agencies:
   - "Personnel Management Office"
 related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]]"
 nonprofit-status: "tax-exempt"
+cross-vault-triangulation-count: 2
+audit-a-plus-passed: "2026-04-11"
 ---
 #AFGE #labor-union #federal-employees #government-workers #DOGE #Trump-layoffs #union-resistance
 

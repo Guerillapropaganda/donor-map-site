@@ -1,8 +1,8 @@
 ---
 title: "TikTok - ByteDance"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Tech & Crypto"
@@ -10,13 +10,17 @@ entity-type: "Corporation"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 related: "[[Mark Zuckerberg]] · [[Meta - Facebook]] · [[Google - Alphabet]] · [[Apple]]"
 sec-filings: 2
 sec-form-types:
   - "253G1"
   - "PART II AND III"
-lobbying-spend: 4590000
-lobbying-filings: 51
+cross-vault-triangulation-count: 4
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #tiktok #bytedance #china #social-media #ban #data #lobbying #foreign
 

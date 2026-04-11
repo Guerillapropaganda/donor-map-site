@@ -1,7 +1,7 @@
 ---
 title: "Susquehanna International Group"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ issues:
 total-political-spend: "$500"
 federal-register-mentions: 179
 last-enriched: "2026-04-06"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Securities and Exchange Commission"
 related: "[[The Ohio Governor Race and the Billionaire Super PAC]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Club for Growth]] · [[Fairshake PAC - Crypto Super PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Jeffrey Yass]]"
@@ -44,6 +46,10 @@ fara-status: "registrant"
 fara-records: 2
 fara-countries:
   - "DOMINICAN REPUBLIC"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #mega-donor #sig #susquehanna #jeff-yass #trading #crypto #tiktok #libertarian #school-choice #republican #class-analysis #follow-the-money
 

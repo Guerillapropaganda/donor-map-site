@@ -1,7 +1,7 @@
 ---
 title: "PORAC - Peace Officers Research Association of California"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,7 +12,13 @@ politicians-funded:
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 related: "[[Chad Bianco Master Profile]] · [[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[Gun and Public Safety - Donors and Backers]] · [[International Association of Chiefs of Police]] · [[Bail Bond Industry]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Riverside Sheriffs Association]] · [[_Gavin Newsom Master Profile]] · [[Criminal Justice - Donors and Backers]] · [[Policing Reform - George Floyd Era]] · [[IBEW Local 440 - Riverside]] · [[Securus Technologies - Aventiv]]"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #police-union #PORAC #law-enforcement #california #statewide #follow-the-money #class-analysis #accountability-blocker #clean-record-agreements
 

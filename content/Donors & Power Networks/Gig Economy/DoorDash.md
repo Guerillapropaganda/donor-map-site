@@ -1,7 +1,7 @@
 ---
 title: "DoorDash"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ lei-jurisdiction: "US-DE"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 federal-register-mentions: 7
 regulatory-agencies:
   - "Antitrust Division"
@@ -26,6 +28,10 @@ regulatory-agencies:
   - "Labor Department"
   - "Wage and Hour Division"
 related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[Lyft]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
+cross-vault-triangulation-count: 11
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #gig-economy #tech #doordash #labor-opponent #prop-22 #follow-the-money #silicon-valley #california #flex-association #ipo
 

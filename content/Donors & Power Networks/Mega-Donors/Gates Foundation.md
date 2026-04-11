@@ -1,7 +1,7 @@
 ---
 title: "Gates Foundation"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -36,6 +36,8 @@ tax-year: "2023"
 related: "[[Michael Bennet]] · [[Koch Network - Charles Koch|Koch Network]] · [[Walton Family Foundation]] · [[_Barack Obama Master Profile|Obama]] · [[New America]] · [[Urban Institute]] · [[Brookings Institution]]"
 federal-register-mentions: 18
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Agency for International Development"
   - "Antitrust Division"
@@ -62,6 +64,10 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 8186448170
 total-assets: 78673465696
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #mega-donor #gates-foundation #bill-gates #charter-schools #education-policy #pharma-influence #global-health #common-core #class-analysis #follow-the-money
 

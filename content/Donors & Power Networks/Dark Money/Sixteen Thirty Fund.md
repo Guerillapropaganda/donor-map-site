@@ -31,6 +31,8 @@ nonprofit-status: "501(c)(4)"
 total-revenue: 284289469
 total-assets: 106501029
 total-political-spend: "$101,443,846"
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor-node #dark-money #democrat #arabella #fiscal-sponsorship #class-analysis #donor
 

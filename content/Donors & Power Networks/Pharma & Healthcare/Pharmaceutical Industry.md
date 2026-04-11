@@ -1,7 +1,7 @@
 ---
 title: "Pharmaceutical Industry"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -46,6 +46,8 @@ sec-form-types:
 related: "[[Pam Bondi Master Profile]] · [[Kyrsten Sinema Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Barack Obama Master Profile]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Dick Durbin]] · [[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Gilead Sciences]] · [[Moderna]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Insurance Industry]] · [[Healthcare Sector]] · [[Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides]]"
 federal-register-mentions: 623
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Centers for Medicare & Medicaid Services"
   - "Commerce Department"
@@ -70,6 +72,10 @@ court-jurisdictions:
   - "District Court, E.D. Michigan"
 lei: "558600DGUQYRUVIRPA94"
 lei-jurisdiction: "SA"
+cross-vault-triangulation-count: 17
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #pharma #pharmaceutical #lobbying #drug-pricing #bipartisan #medicare #negotiation #revolving-door #dark-money #class-analysis
 

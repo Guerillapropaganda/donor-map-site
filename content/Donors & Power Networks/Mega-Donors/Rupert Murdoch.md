@@ -1,7 +1,7 @@
 ---
 title: "Rupert Murdoch"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ politicians-funded:
   - "Mitch McConnell"
 court-cases: 415
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, D. Colorado"
@@ -61,6 +63,10 @@ sec-form-types:
 federal-register-mentions: 12
 regulatory-agencies:
   - "Federal Trade Commission"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #murdoch #oligarch #media #fox-news #uk #australia #us
 

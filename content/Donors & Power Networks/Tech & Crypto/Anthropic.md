@@ -1,7 +1,7 @@
 ---
 title: "Anthropic"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ federal-contracts-count: 1
 federal-grants-count: 1
 court-cases: 303
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "Court of Appeals for the D.C. Circuit"
   - "Court of Appeals for the Ninth Circuit"
@@ -42,6 +44,10 @@ top-naics-code: "513210"
 federal-register-mentions: 2
 regulatory-agencies:
   - "Justice Department"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #anthropic #ai #safety #regulation #frontier-models #google #amazon
 

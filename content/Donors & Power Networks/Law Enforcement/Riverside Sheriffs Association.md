@@ -1,7 +1,7 @@
 ---
 title: "Riverside Sheriffs Association"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ lobbying-spend: 1806000
 lobbying-filings: 73
 court-cases: 12
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, E.D. California"
@@ -30,6 +32,10 @@ sec-form-types:
 nonprofit-status: "501(c)(5)"
 total-revenue: 5926651
 total-assets: 5851488
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #police-union #RSA #riverside #sheriff #class-analysis #follow-the-money #single-patron #accountability-blocker #carceral-state
 

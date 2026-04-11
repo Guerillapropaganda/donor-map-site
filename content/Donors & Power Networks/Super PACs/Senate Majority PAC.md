@@ -1,7 +1,7 @@
 ---
 title: "Senate Majority PAC"
 type: pac
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 38
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "Court of Appeals for the Eleventh Circuit"
   - "District Court, C.D. California"
@@ -30,6 +32,10 @@ sec-form-types:
   - "10-K"
   - "144"
 opposes: "[[Shelley Moore Capito]] · [[Thom Tillis Master Profile]]"
+cross-vault-triangulation-count: 19
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor-node #super-pac #democratic #senate #schumer #dark-money #leadership-pac #donor
 

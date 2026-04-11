@@ -68,6 +68,8 @@ politicians-funded:
   - "Amy Klobuchar"
   - "Markwayne Mullin"
   - "Sheldon Whitehouse"
+cross-vault-triangulation-count: 4
+audit-a-plus-passed: "2026-04-11"
 ---
 #fop #police #law-enforcement #union #qualified-immunity #reform-opposition
 

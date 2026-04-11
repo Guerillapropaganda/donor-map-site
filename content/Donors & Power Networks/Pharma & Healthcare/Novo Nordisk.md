@@ -78,6 +78,8 @@ opensanctions-datasets:
 federal-awards-total: 2137722
 federal-contracts-count: 0
 federal-grants-count: 1
+cross-vault-triangulation-count: 8
+audit-a-plus-passed: "2026-04-11"
 ---
 #novo-nordisk #pharma #insulin #ozempic #wegovy #glp1 #obesity #denmark
 

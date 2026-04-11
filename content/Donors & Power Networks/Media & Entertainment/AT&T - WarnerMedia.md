@@ -41,18 +41,8 @@ court-jurisdictions:
   - "District Court, N.D. Georgia"
   - "District Court, N.D. Texas"
   - "District Court, S.D. New York"
-federal-register-mentions: 698
-regulatory-agencies:
-  - "Employee Benefits Security Administration"
-  - "Employment and Training Administration"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Communications Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Internal Revenue Service"
-  - "Labor Department"
-  - "National Highway Traffic Safety Administration"
-  - "Securities and Exchange Commission"
+cross-vault-triangulation-count: 7
+audit-a-plus-passed: "2026-04-11"
 ---
 #att #telecom #media #net-neutrality #lobbying #merger #surveillance #broadband
 

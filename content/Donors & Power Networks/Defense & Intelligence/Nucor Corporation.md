@@ -1,8 +1,8 @@
 ---
 title: "Nucor Corporation"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-09
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -17,7 +17,9 @@ top-federal-agency: "Department of Agriculture"
 top-naics-code: "331110"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 1
@@ -27,12 +29,10 @@ court-jurisdictions:
   - "District Court, S.D. Indiana"
   - "District Court, S.D. Texas"
   - "United States Court of International Trade"
-federal-register-mentions: 775
-regulatory-agencies:
-  - "Commerce Department"
-  - "Environmental Protection Agency"
-  - "International Trade Administration"
-  - "International Trade Commission"
+cross-vault-triangulation-count: 4
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #steel #tariffs #manufacturing #class-analysis #follow-the-money #trade-policy #lobbying
 

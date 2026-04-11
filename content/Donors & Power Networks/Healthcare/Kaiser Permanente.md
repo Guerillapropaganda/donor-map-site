@@ -1,8 +1,8 @@
 ---
 title: "Kaiser Permanente"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 2
 parent: null
 sector: "Healthcare"
@@ -21,7 +21,9 @@ net-assets: "$30.0M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 nonprofit-status: "501(c)(5)"
 total-revenue: 23524060
 total-assets: 28875574
@@ -37,6 +39,10 @@ sec-form-types:
   - "N-MFP1/A"
   - "N-MFP2"
   - "N-MFP3"
+cross-vault-triangulation-count: 21
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #kaiser-permanente #healthcare #california #statewide #nonprofit #behested-payments #medi-cal #mental-health #follow-the-money #class-analysis
 

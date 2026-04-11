@@ -55,6 +55,8 @@ related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropria
 federal-awards-total: 470321891
 federal-contracts-count: 25
 federal-grants-count: 0
+cross-vault-triangulation-count: 18
+audit-a-plus-passed: "2026-04-11"
 ---
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense
 

@@ -1,7 +1,7 @@
 ---
 title: "Democratic Small Dollar Networks"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -16,6 +16,13 @@ politicians-funded:
   - "Nancy Pelosi"
   - "Chuck Schumer"
 related: "[[Small Dollar Donors - ActBlue]] · [[Ohio 2026 Special Senate Election]] · [[North Carolina 2026 Senate Race]] · [[ActBlue]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Kamala Harris Master Profile|Harris]] · [[_Joe Biden Master Profile|Biden]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[MAGA Small Dollar Base]] · [[Ohio Democratic Party]]"
+cross-vault-triangulation-count: 12
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #small-dollar #actblue #democratic #grassroots #progressive #fundraising #campaign-finance #winred
 

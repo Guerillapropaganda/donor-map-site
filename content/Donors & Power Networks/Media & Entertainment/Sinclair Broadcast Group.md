@@ -35,40 +35,8 @@ total-assets: 149613
 lobbying-spend: 4000000
 lobbying-filings: 52
 federal-contracts: "626681"
-ftc-enforcement-actions: 0
-ftc-hsr-notices: 16
-sec-filings: 10000
-sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
-  - "11-K"
-  - "3"
-  - "4"
-  - "8-K"
-  - "ARS"
-  - "EX-10.1"
-  - "EX-10.2"
-  - "EX-10.3"
-  - "EX-10.35"
-  - "EX-10.39"
-  - "EX-10.4"
-  - "EX-10.40"
-  - "EX-23"
-  - "EX-3.1"
-  - "EX-99.1"
-  - "INFORMATION TABLE"
-  - "NT 10-K"
-  - "S-4/A"
-  - "S-8"
-  - "SC 13D"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SC TO-I"
-  - "SC TO-I/A"
-  - "SCHEDULE 13D/A"
-  - "SCHEDULE 13G"
-  - "SCHEDULE 13G/A"
+cross-vault-triangulation-count: 7
+audit-a-plus-passed: "2026-04-11"
 ---
 #sinclair #local-news #media #conservative #must-run #propaganda #consolidation
 

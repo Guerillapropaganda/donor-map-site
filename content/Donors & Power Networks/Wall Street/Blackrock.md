@@ -1,7 +1,7 @@
 ---
 title: "BlackRock"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-09
 source-tier: 1
 parent: null
@@ -12,6 +12,8 @@ issues:
 ein: "882750831"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 subawards-issued: 5
 subawards-issued-amount: 923723
 subawards-received: 5
@@ -45,6 +47,10 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
   - "Treasury Department"
   - "Veterans Employment and Training Service"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #blackrock #asset-management #wall-street #esg #index-funds #lobbying #larry-fink
 

@@ -1,7 +1,7 @@
 ---
 title: "Business Roundtable"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ annual-revenue: "$64.5M"
 net-assets: "$47.8M"
 tax-year: "2023"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 federal-register-mentions: 172
 regulatory-agencies:
   - "Environmental Protection Agency"
@@ -41,6 +43,10 @@ sec-form-types:
   - "PX14A6G"
   - "PX14A6N"
   - "SC 14F1"
+cross-vault-triangulation-count: 14
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #business-roundtable #corporate #lobbying #ceo #tax-policy #deregulation #tcja #stakeholder-capitalism #class-analysis #follow-the-money #pro-act #labor
 

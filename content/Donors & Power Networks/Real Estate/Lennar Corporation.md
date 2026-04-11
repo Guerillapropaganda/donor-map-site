@@ -53,38 +53,8 @@ known-gaps:
   - "No lobbying disclosure data"
 lobbying-spend: 0
 lobbying-filings: 8
-sec-filings: 10000
-sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
-  - "424B2"
-  - "424B3"
-  - "425"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.16"
-  - "EX-10.18"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.20"
-  - "EX-10.3"
-  - "EX-21"
-  - "EX-3.2"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "FWP"
-  - "PROXY VOTING RECORD"
-  - "S-8"
-  - "S-8 POS"
-  - "SC 13D/A"
-  - "SC 13G/A"
-  - "SC TO-I/A"
+cross-vault-triangulation-count: 10
+audit-a-plus-passed: "2026-04-11"
 ---
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money
 

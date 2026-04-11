@@ -1,7 +1,7 @@
 ---
 title: "CREW - Citizens for Responsibility and Ethics in Washington"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,9 +13,15 @@ issues:
   - "Dark Money & Campaign Finance"
 court-cases: 2
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, District of Columbia"
 related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[New Venture Fund]] · [[Democratic Donor Network]] · [[Dark Money Networks - The Shadow System]] · [[Judicial Watch]] · [[America First Legal]] · [[Democracy Forward]] · [[_Donald Trump Master Profile|Trump]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]]"
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #crew #ethics #watchdog #nonprofit #dark-money #14th-amendment #accountability #legal-advocacy #foia #progressive-infrastructure
 

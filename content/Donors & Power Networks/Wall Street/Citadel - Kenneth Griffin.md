@@ -1,7 +1,7 @@
 ---
 title: "Citadel - Kenneth Griffin"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -14,6 +14,8 @@ issues:
 ein: "362167797"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 total-revenue: 285378654
 total-assets: 433034472
 sec-filings: 1
@@ -22,6 +24,10 @@ sec-form-types:
 lobbying-spend: 2680000
 lobbying-filings: 53
 related: "[[Wall Street Finance Networks]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Club for Growth]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Elon Musk]] · [[Hedge Fund Industry Bloc]] · [[Ken Griffin]]"
+cross-vault-triangulation-count: 11
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #citadel #kenneth-griffin #hedge-fund #wall-street #mega-donor #market-making #florida #payment-for-order-flow #pfof #deregulation #class-analysis #follow-the-money
 

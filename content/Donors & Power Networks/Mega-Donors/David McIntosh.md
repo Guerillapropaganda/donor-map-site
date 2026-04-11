@@ -24,18 +24,8 @@ regulatory-agencies:
   - "Occupational Safety and Health Administration"
   - "State Department"
 total-political-spend: "$53,369"
-court-cases: 98
-court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. Arizona"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. South Carolina"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. Ohio"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Arkansas"
-  - "District Court, W.D. Texas"
+cross-vault-triangulation-count: 1
+audit-a-plus-passed: "2026-04-11"
 ---
 
 #mega-donor #republican #primary-kingmaker #club-for-growth

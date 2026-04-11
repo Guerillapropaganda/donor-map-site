@@ -1,7 +1,7 @@
 ---
 title: "House Freedom Caucus"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -17,11 +17,17 @@ issues:
 ein: "994082114"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-08"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 total-revenue: 1000410
 total-assets: 485221
 related: "[[US Chamber of Commerce]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Chip Roy Master Profile|Chip Roy]] · [[Koch Network - Charles Koch|Koch Network]] · [[Club for Growth]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[_Andy Harris Master Profile|Andy Harris]] · [[_Scott Perry Master Profile|Scott Perry]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]]"
 lobbying-spend: 2440844
 lobbying-filings: 100
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #freedom-caucus #house #republican #maga #obstruction #koch #tea-party #right-flank #dark-money #small-dollar #club-for-growth #heritage-action
 

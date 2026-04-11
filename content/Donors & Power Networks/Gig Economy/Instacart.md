@@ -1,7 +1,7 @@
 ---
 title: "Instacart"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -11,6 +11,8 @@ issues:
   - "Labor & Workers"
 federal-register-mentions: 3
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 regulatory-agencies:
   - "Agriculture Department"
   - "Federal Trade Commission"
@@ -32,6 +34,10 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, S.D. New York"
   - "District Court, S.D. Texas"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #instacart #gig-economy #delivery #labor #independent-contractor #prop22
 

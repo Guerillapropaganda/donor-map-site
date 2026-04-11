@@ -1,8 +1,8 @@
 ---
 title: "Morgan Stanley"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -18,7 +18,9 @@ net-assets: "$18.6M"
 tax-year: "2023"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Charles Schwab]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Wall Street Finance Networks]]"
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 10243579
 total-assets: 15848073
 court-cases: 35789
@@ -46,13 +48,10 @@ regulatory-agencies:
   - "Labor Department"
 lei: "IGJSJL3JD5P30I6NJZ34"
 lei-jurisdiction: "US-DE"
-occ-enforcement-actions: 2
-occ-active-actions: 0
-occ-charter-numbers:
-  - "24908"
-occ-cmp-dollars: 60007500
-ftc-enforcement-actions: 0
-ftc-hsr-notices: 50
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #morgan-stanley #wall-street #investment-banking #wealth-management #lobbying
 

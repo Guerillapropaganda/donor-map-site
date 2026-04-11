@@ -1,7 +1,7 @@
 ---
 title: "Tech and Media Donors"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,13 @@ issues:
 lobbying-spend: 9122856
 lobbying-filings: 133
 related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]] · [[The $170 Million Georgia Machine and the National Donor Base]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Reid Hoffman]] · [[News Corp - Fox Corporation]] · [[Tech IP and Patent Lobbying]]"
+cross-vault-triangulation-count: 6
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #tech #media #donors #section-230 #antitrust #streaming #ip #copyright
 

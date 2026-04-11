@@ -31,6 +31,8 @@ court-jurisdictions:
   - "United States Bankruptcy Court, D. Delaware"
 lei: "254900958LQ75NB9GC08"
 lei-jurisdiction: "US-WA"
+cross-vault-triangulation-count: 5
+audit-a-plus-passed: "2026-04-11"
 ---
 #gates #microsoft #philanthropy #education #health #charter-schools #climate
 

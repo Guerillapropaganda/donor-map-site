@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Roundtable"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -18,6 +18,8 @@ net-assets: "$7.1M"
 tax-year: "2024"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "SDNTK"
   - "UKRAINE-EO13662] [RUSSIA-EO14024"
@@ -50,6 +52,10 @@ sec-form-types:
   - "EX-99.1"
   - "LETTER"
   - "PX14A6G"
+cross-vault-triangulation-count: 7
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #real-estate #lobbying #tax-policy #class-analysis #follow-the-money #dark-money #housing
 

@@ -35,6 +35,8 @@ ftc-enforcement-actions: 4
 ftc-hsr-notices: 30
 top-federal-agency: "Department of Defense"
 top-naics-code: "324110"
+cross-vault-triangulation-count: 29
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #oil-industry #chevron #california #refinery #richmond #environmental-justice #fossil-fuels #follow-the-money #corporate-giant #federal-lobbying #senate-leadership-fund
 

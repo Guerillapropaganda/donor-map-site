@@ -1,7 +1,7 @@
 ---
 title: "CCPOA - California Correctional Peace Officers Association"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -13,6 +13,8 @@ federal-contracts: "172495"
 ein: "941490964"
 nonprofit-status: "501(c)(5)"
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 35012065
 total-assets: 50699577
 subawards-issued: 50
@@ -22,6 +24,10 @@ subawards-received-amount: 51876611853
 related: "[[Chad Bianco Master Profile]] · [[Budget Priorities - What California Actually Funds]] · [[Gun and Public Safety - Donors and Backers]] · [[Bail Bond Industry]] · [[Aramark]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[Policing Reform - George Floyd Era]] · [[Criminal Justice - Donors and Backers]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+cross-vault-triangulation-count: 13
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #prison-guards #CCPOA #labor-union #carceral-state #class-analysis #reform-ceiling #california #follow-the-money #union-as-capital-instrument
 

@@ -1,8 +1,8 @@
 ---
 title: "Ford Motor Company"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -16,7 +16,9 @@ annual-revenue: "$30.0M"
 net-assets: "$243K"
 tax-year: "2016"
 court-cases: 21936
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, C.D. California"
   - "District Court, E.D. California"
@@ -48,6 +50,10 @@ federal-awards-total: 739664294
 federal-contracts-count: 25
 federal-grants-count: 7
 related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Alpine Group]] · [[General Motors]] · [[UAW - United Auto Workers]] · [[_Joe Biden Master Profile|Biden]] · [[UPS]]"
+cross-vault-triangulation-count: 6
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #ford #auto #detroit #michigan #manufacturing #ev #uaw #trade
 

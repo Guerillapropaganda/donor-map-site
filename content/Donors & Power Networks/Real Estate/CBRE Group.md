@@ -1,8 +1,8 @@
 ---
 title: "CBRE Group"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -48,6 +48,8 @@ top-federal-agency: "General Services Administration"
 top-naics-code: "236220"
 court-cases: 212
 last-enriched: "2026-04-10"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 court-jurisdictions:
   - "District Court, D. Maryland"
   - "District Court, D. Massachusetts"
@@ -59,6 +61,10 @@ court-jurisdictions:
   - "District Court, N.D. Georgia"
   - "District Court, S.D. Iowa"
   - "District Court, S.D. New York"
+cross-vault-triangulation-count: 4
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #cbre #real-estate #commercial #brokerage #lobbying #1031-exchange
 

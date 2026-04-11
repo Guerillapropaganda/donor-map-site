@@ -22,6 +22,8 @@ related: "[[Eli Broad Foundation]] · [[Tony Thurmond Master Profile]] · [[The 
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+cross-vault-triangulation-count: 14
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #teacher-union #CTA #labor #education #class-analysis #union-as-donor #school-closures #charter-opposition #california #follow-the-money
 

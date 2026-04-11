@@ -97,6 +97,8 @@ sec-form-types:
   - "S-4/A"
   - "SC 13D/A"
   - "SCHEDULE 13G/A"
+cross-vault-triangulation-count: 16
+audit-a-plus-passed: "2026-04-11"
 ---
 #apple #tech #lobbying #antitrust #offshore-tax #app-store #privacy
 

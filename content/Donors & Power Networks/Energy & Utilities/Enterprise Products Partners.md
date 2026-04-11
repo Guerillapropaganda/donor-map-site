@@ -38,6 +38,8 @@ known-gaps:
   - "No FEC contribution data"
 lobbying-spend: 2047000
 lobbying-filings: 118
+cross-vault-triangulation-count: 4
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #energy #midstream #fossil-fuel #pipeline #republican-lean #class-analysis #follow-the-money
 

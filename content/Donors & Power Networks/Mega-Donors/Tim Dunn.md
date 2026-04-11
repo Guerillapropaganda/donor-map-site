@@ -58,6 +58,8 @@ sec-form-types:
   - "PREM14A"
   - "S-4"
   - "S-4/A"
+cross-vault-triangulation-count: 6
+audit-a-plus-passed: "2026-04-11"
 ---
 #donor #mega-donor #texas-oil #christian-nationalist #republican-megadonor #crownquest
 

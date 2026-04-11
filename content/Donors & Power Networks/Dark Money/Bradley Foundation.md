@@ -51,6 +51,8 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 9465
 total-assets: 3513570
+cross-vault-triangulation-count: 23
+audit-a-plus-passed: "2026-04-11"
 ---
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure
 

@@ -1,7 +1,7 @@
 ---
 title: "Fossil Fuel Bloc"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -19,6 +19,13 @@ subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 related: "[[Uber]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Brett Kavanaugh Master Profile]] · [[The Executive Power Portfolio and the Donor-Class Rulings]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Oil Gas and the Texas Energy Donor Base]] · [[Kentucky Inc - Coal Tobacco Bourbon and Pharma]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Mike Johnson Master Profile]] · [[The AIPAC-Thiel-Fossil Fuel Speaker Fundraising Explosion]] · [[Ron DeSantis Master Profile]] · [[The Disney War and the Limits of Culture War Governance]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]] · [[Farallon Capital and the Fossil Fuel Fortune]] · [[Joe Manchin Master Profile]] · [[The BBB Kill and IRA Fossil Fuel Concessions]] · [[Enersystems and the Personal Coal Fortune]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[_Donald Trump Master Profile]] · [[Chevron]] · [[Western States Petroleum Association]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[The Green New Deal - From Resolution to Reality]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]]"
+cross-vault-triangulation-count: 21
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline; run pipelines"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+  • No last-enriched date is set. The pipelines have never touched this file.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #fossil-fuel #oil #gas #climate #class-analysis #follow-the-money #trump #deregulation #EPA #endangerment-finding #chevron #exxon #drilling
 

@@ -1,8 +1,8 @@
 ---
 title: "Eli Broad Foundation"
 type: corporation
-content-readiness: ready
-last-updated: 2026-04-11
+content-readiness: draft
+last-updated: 2026-04-10
 source-tier: 1
 parent: null
 sector: "Education"
@@ -12,6 +12,8 @@ politicians-funded:
 ein: "954686318"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 total-revenue: 163352987
 total-assets: 1860562867
 lei: "549300MEWH8MEHZXWM71"
@@ -19,8 +21,10 @@ lei-jurisdiction: "US-CA"
 related: "[[CTA - California Teachers Association]] · [[Michael Bennet]] · [[_Gavin Newsom Master Profile]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Walton Family Foundation]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-lobbying-spend: 7060293
-lobbying-filings: 107
+cross-vault-triangulation-count: 10
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #billionaire-philanthropy #eli-broad #education-reform #charter-schools #broad-academy #corporate-model #class-analysis #democratic-donor #california #follow-the-money
 

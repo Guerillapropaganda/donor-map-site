@@ -65,6 +65,8 @@ subawards-received: 50
 subawards-received-amount: 926455282
 top-federal-agency: "Department of Veterans Affairs"
 top-naics-code: "541330"
+cross-vault-triangulation-count: 12
+audit-a-plus-passed: "2026-04-11"
 ---
 #booz-allen #defense #intelligence #consulting #nsa #snowden #government-contractor
 

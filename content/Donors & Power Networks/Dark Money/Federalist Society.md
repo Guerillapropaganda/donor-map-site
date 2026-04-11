@@ -1,7 +1,7 @@
 ---
 title: "Federalist Society"
 type: donor
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -15,6 +15,8 @@ issues:
   - "Dark Money & Campaign Finance"
 federal-register-mentions: 2
 last-enriched: "2026-04-07"
+needs-reenrichment: true
+reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Federal Trade Commission"
 ein: "815109948"
@@ -51,6 +53,10 @@ sec-form-types:
   - "PX14A6G"
   - "U-13-60"
 related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
+cross-vault-triangulation-count: 12
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #donor #dark-money #judicial #federalist-society #leonard-leo #scotus #501c3 #conservative #judicial-pipeline
 

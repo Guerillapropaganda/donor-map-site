@@ -23,6 +23,8 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-10"
 total-revenue: 1170447
 total-assets: 3096767
+cross-vault-triangulation-count: 8
+audit-a-plus-passed: "2026-04-11"
 ---
 #harlan-crow #mega-donor #real-estate #clarence-thomas #leonard-leo #scotus #class-analysis
 

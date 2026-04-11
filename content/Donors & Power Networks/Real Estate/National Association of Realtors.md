@@ -1,7 +1,7 @@
 ---
 title: "National Association of Realtors"
 type: corporation
-content-readiness: ready
+content-readiness: draft
 last-updated: 2026-04-10
 source-tier: 1
 parent: null
@@ -37,6 +37,8 @@ sec-form-types:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
+needs-reenrichment: true
+reenrich-reason: "run lda pipeline"
 lei: "549300HH1QGPI9FI1510"
 lei-jurisdiction: "US-IL"
 ein: "361520690"
@@ -56,6 +58,10 @@ regulatory-agencies:
   - "Labor Department"
   - "National Labor Relations Board"
 related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom Master Profile]] · [[The Real Estate President and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] · [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]] · [[Real Estate Board of New York]] · [[Invitation Homes - Institutional Landlords]] · [[CBRE Group]]"
+cross-vault-triangulation-count: 11
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
+  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
+The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #nar #national-association-of-realtors #real-estate #lobbying #housing #fair-housing #class-analysis #follow-the-money #antitrust #revolving-door
 
