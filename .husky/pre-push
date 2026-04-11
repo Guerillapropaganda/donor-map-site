@@ -1,0 +1,33 @@
+#!/usr/bin/env sh
+# Pre-push warning gate for the Donor Map vault.
+#
+# Runs tsc --noEmit in WARN-ONLY mode. It surfaces TypeScript errors so you see
+# them before GitHub Actions does, but it does NOT block the push — the real
+# build verdict comes from the GitHub Actions deploy run, which the deploy skill
+# polls for completion.
+#
+# Why warn-only: the repo currently has a handful of pre-existing TS errors in
+# quartz/components/scripts/networkGraph.inline.ts and networkGraphIndex.ts
+# that are unrelated to day-to-day vault work. Blocking pushes on them would
+# train us to always SKIP_HOOKS=1, which defeats the point.
+#
+# When the baseline is fully clean, flip the 'exit 0' below to 'exit 1' to make
+# this a hard gate.
+#
+# Emergency bypass: SKIP_HOOKS=1 git push ...
+
+if [ "$SKIP_HOOKS" = "1" ]; then
+  echo "[hooks] SKIP_HOOKS=1 — bypassing pre-push check"
+  exit 0
+fi
+
+echo "--- pre-push (warn-only) ---"
+echo "  -> tsc --noEmit"
+npx tsc --noEmit 2>&1 | tail -5
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[!] TypeScript errors present (warn-only). Push continuing."
+  echo "    Watch the GitHub Actions deploy run for the real verdict."
+fi
+
+exit 0
