@@ -120,6 +120,32 @@ function profileFromFile(filePath: string, fullPath: string): Profile {
       donors: data.donors,
       folder,
       subfolder,
+      // Editorial / checklist fields — needed by the dashboard "S-Tier Insights"
+      // cards, the /signoff-queue page, and the Calendar live meters.
+      // Without these reads the new UI always shows 0. Added 2026-04-11 after
+      // discovering profileFromFile() diverged from parseProfile() in vault.ts.
+      sourceTypes: data["source-types"],
+      corroborationCount: data["corroboration-count"],
+      lastVerifiedBy: data["last-verified-by"],
+      knownGaps: data["known-gaps"],
+      checklistNa: data["checklist-na"],
+      committees: data.committees,
+      billsSponsored: data["bills-sponsored"] ? parseInt(data["bills-sponsored"]) : undefined,
+      billsCosponsored: data["bills-cosponsored"] ? parseInt(data["bills-cosponsored"]) : undefined,
+      // A+ baseline additions stamped by the janitor
+      centralThesis: data["central-thesis"],
+      storyGrade: data["story-grade"],
+      bothSidesFlag: data["both-sides-flag"],
+      crossVaultTriangulationCount: data["cross-vault-triangulation-count"],
+      anomalyFlags: data["anomaly-flags"],
+      auditAPlusPassed: data["audit-a-plus-passed"],
+      // S-tier fields
+      angle: data.angle,
+      exclusiveConnections: data["exclusive-connections"],
+      originalFinding: data["original-finding"],
+      auditSTierPassed: data["audit-s-tier-passed"],
+      editorialSignoffData: data["editorial-signoff-data"],
+      editorialSignoffNarrative: data["editorial-signoff-narrative"],
     }
     profile.completeness = completenessScore(profile, content)
     return profile
