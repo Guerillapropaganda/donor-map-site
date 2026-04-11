@@ -33,6 +33,7 @@ known-gaps:
 related: "[[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 last-enriched: "2026-04-11"
 bioguide-id: "M001198"
+donors: "[[Western Growers Association]]"
 ---
 #politician #republican #senate #kansas #agriculture #healthcare #pharma #covid #class-analysis #follow-the-money #gavel-power
 

@@ -2,7 +2,7 @@
 title: "Finance and Tech Bundler Network"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Wall Street & Finance"
   - "Technology"
-related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]] · [[Goldman Sachs]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]]"
+related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]] · [[Goldman Sachs]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]]"
 last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"

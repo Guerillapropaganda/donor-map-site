@@ -2,12 +2,12 @@
 title: "Cenk Uygur"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]] · [[Ana Kasparian]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]]"
+related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]] · [[Ana Kasparian]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]]"
 ---
 
 #media-pipeline #left #independence-theater #audience-capture #revolving-door #labor-contradiction #venture-capital

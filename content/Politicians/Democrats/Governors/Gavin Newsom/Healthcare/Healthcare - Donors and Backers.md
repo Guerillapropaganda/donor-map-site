@@ -2,10 +2,10 @@
 title: "Healthcare - Donors and Backers"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CalRx - The Genuine Win With Caveats]] · [[Mental Health CARE Court and Forced Treatment]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]]"
+related: "[[Legislative Record as Speaker]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[Environment - Donors and Backers]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CalRx - The Genuine Win With Caveats]] · [[Mental Health CARE Court and Forced Treatment]] · [[_Gavin Newsom Master Profile]] · [[Prop 22 - The $200M Corporate Rollback]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
 ---
 #newsom #healthcare #donors #backers #follow-the-money #single-payer #broken-promise #insurance-industry #PBM #CalRx #research-node
 

@@ -17,7 +17,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "NPWMD] [IFSR"
-related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]]"
+related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]] · [[Western States Petroleum Association]]"
 cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

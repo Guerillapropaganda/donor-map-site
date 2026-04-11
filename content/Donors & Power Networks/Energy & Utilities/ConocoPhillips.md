@@ -2,7 +2,7 @@
 title: "ConocoPhillips"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -70,7 +70,7 @@ court-jurisdictions:
   - "United States Court of International Trade"
 lobbying-spend: 17930000
 lobbying-filings: 39
-related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[The Budget Committee and Texas Energy]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Lisa Murkowski Master Profile|Murkowski]] · [[_Dan Sullivan Master Profile|Sullivan]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[The Budget Committee and Texas Energy]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Lisa Murkowski Master Profile|Murkowski]] · [[_Dan Sullivan Master Profile|Sullivan]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 138485
 total-assets: 5548963

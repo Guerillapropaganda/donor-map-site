@@ -2,10 +2,10 @@
 title: "San Quentin - COVID Disaster and Rehabilitation Theater"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Budget Priorities - What California Actually Funds]] · [[Policing Reform - George Floyd Era]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Budget Priorities - What California Actually Funds]] · [[Policing Reform - George Floyd Era]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Death Penalty Moratorium - Genuine Win With Limits]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #criminal-justice #san-quentin #covid #prison #deaths-in-custody #accountability #rehabilitation #class-analysis #CDCR #symbolic-reform
 

@@ -2,7 +2,7 @@
 title: "Trump 2024 Campaign"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -20,7 +20,7 @@ court-jurisdictions:
   - "District Court, E.D. Virginia"
   - "District Court, S.D. Iowa"
   - "District Court, S.D. New York"
-related: "[[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]] · [[America PAC - Elon Musk]] · [[MAGA Small Dollar Base]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Jeffrey Yass]] · [[a16z - Andreessen Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]]"
+related: "[[Fairshake PAC]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Donor Coalition]] · [[America PAC - Elon Musk]] · [[MAGA Small Dollar Base]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Jeffrey Yass]] · [[a16z - Andreessen Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]]"
 sec-filings: 7
 sec-form-types:
   - "424B3"

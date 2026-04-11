@@ -26,7 +26,7 @@ ein: 541934032
 annual-revenue: "$696K"
 net-assets: "$9.5M"
 tax-year: "2023"
-related: "[[DeVos Family]] · [[Freedom Partners]] · [[State Policy Network]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Federalist Society]] · [[America First Legal]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]]"
+related: "[[DeVos Family]] · [[Freedom Partners]] · [[State Policy Network]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Federalist Society]] · [[America First Legal]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 8448130
 total-assets: 10973631

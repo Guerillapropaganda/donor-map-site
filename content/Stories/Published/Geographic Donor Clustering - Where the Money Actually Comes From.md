@@ -2,10 +2,10 @@
 title: "Geographic Donor Clustering - Where the Money Actually Comes From"
 type: story
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
-related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Harris-Newsom Donor Class Fracture]] · [[2028 Presidential Landscape]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Research Methodology and Data Sources]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Intra-Republican Contradiction Map]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
+related: "[[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Harris-Newsom Donor Class Fracture]] · [[2028 Presidential Landscape]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[AIPAC Illinois Shell PAC Operation]] · [[Research Methodology and Data Sources]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Intra-Republican Contradiction Map]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media — The Donor Map Media Pipeline]]"
 ---
 #investigation #methodology-layer #geographic-clustering #donor-geography #class-analysis #follow-the-money
 tags: #story

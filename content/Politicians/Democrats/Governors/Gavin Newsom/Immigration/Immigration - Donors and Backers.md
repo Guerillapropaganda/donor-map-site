@@ -2,10 +2,10 @@
 title: "Immigration - Donors and Backers"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Prop 22 - The $200M Corporate Rollback]] · [[Criminal Justice - Donors and Backers]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Private Detention - AB 32]] · [[Trump Resistance and the 2028 Play]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]]"
+related: "[[Prop 22 - The $200M Corporate Rollback]] · [[Criminal Justice - Donors and Backers]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Private Detention - AB 32]] · [[Trump Resistance and the 2028 Play]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]]"
 ---
 #newsom #immigration #donors #backers #follow-the-money #agricultural-employers #private-prison #GEO-group #[[CoreCivic|CoreCivic]] #western-growers #farm-bureau #research-node
 

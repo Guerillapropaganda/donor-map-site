@@ -2,7 +2,7 @@
 title: "National Restaurant Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Restaurant & Food"
@@ -45,7 +45,7 @@ net-assets: "$206.9M"
 tax-year: "2023"
 lobbying-spend: 3106887
 lobbying-filings: 143
-related: "[[Starbucks]] · [[McDonalds Corporation]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[UNITE HERE]] · [[Bryan Steil]] · [[Ron Johnson]] · [[Steve Scalise]]"
+related: "[[Starbucks]] · [[McDonalds Corporation]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[UNITE HERE]] · [[Bryan Steil]] · [[Ron Johnson]] · [[Steve Scalise]] · [[Jason Smith]]"
 total-political-spend: "$1,807,500"
 politicians-funded:
   - "Steve Scalise"

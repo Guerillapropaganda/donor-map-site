@@ -32,7 +32,7 @@ court-cases: 9469
 court-jurisdictions:
   - "District Court, D. New Jersey"
   - "District Court, E.D. Pennsylvania"
-related: "[[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[PhRMA]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]]"
+related: "[[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[PhRMA]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Johnson & Johnson]]"
 lei: "529900UTAHSVRYZL0380"
 lei-jurisdiction: "DK"
 sec-filings: 10000

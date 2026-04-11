@@ -15,7 +15,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "BALKANS"
-related: "[[Ohio Democratic Party]] · [[Center for American Progress]] · [[Democratic Donor Network]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[ActBlue]] · [[Senate Majority PAC]] · [[National Progressive Donor Networks]] · [[Ohio Federation of Teachers]] · [[Trial Lawyers Fund]]"
+related: "[[Ohio Democratic Party]] · [[Center for American Progress]] · [[Democratic Donor Network]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[ActBlue]] · [[Senate Majority PAC]] · [[National Progressive Donor Networks]] · [[Ohio Federation of Teachers]] · [[Trial Lawyers Fund]] · [[Small Dollar Donors - ActBlue]]"
 fara-status: "registrant"
 fara-records: 2
 fara-countries:

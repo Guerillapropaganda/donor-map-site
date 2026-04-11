@@ -2,7 +2,7 @@
 title: "Walton Family Foundation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Education"
@@ -13,7 +13,7 @@ ein: "472066714"
 annual-revenue: "$81K"
 net-assets: "$1.9M"
 tax-year: "2023"
-related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]] · [[Michael Bennet]] · [[Buffy Wicks]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[National Education Association]]"
+related: "[[Virginia Foxx]] · [[Sarah Huckabee Sanders Master Profile]] · [[The LEARNS Act and the Education Privatization Donor Network]] · [[Michael Bennet]] · [[Buffy Wicks]] · [[Education - Donors and Backers]] · [[Charter Schools and the Billionaire Reform Movement]] · [[California Charter Schools Association]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[National Education Association]] · [[US Chamber of Commerce]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

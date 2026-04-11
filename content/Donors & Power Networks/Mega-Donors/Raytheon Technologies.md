@@ -2,7 +2,7 @@
 title: "Raytheon Technologies"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -22,7 +22,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Securities and Exchange Commission"
-related: "[[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[2026-03-26 Finance Research]] · [[Raytheon (RTX)]] · [[Raytheon]] · [[Leidos]] · [[L3Harris Technologies]] · [[BAE Systems]]"
+related: "[[Defense Contractor 450000 Percent ROI]] · [[South Carolina 2026 Senate Race]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[2026-03-26 Finance Research]] · [[Raytheon (RTX)]] · [[Raytheon]] · [[Leidos]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[Anduril Industries]]"
 source-types:
   - FederalRegister
   - USASpending

@@ -2,7 +2,7 @@
 title: "MAGA Inc"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -29,7 +29,7 @@ nonprofit-status: "501(c)(4)"
 sec-filings: 1
 sec-form-types:
   - "D"
-related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Save America PAC]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]]"
+related: "[[Senate Majority PAC]] · [[GOP House Defense 2026]] · [[Tulsi Gabbard Master Profile]] · [[Linda McMahon Master Profile]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Kash Patel Master Profile]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[Save America PAC]] · [[Elon Musk]] · [[Timothy Mellon]] · [[Jeff Yass]] · [[Miriam Adelson]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Priorities USA Action]]"
 wikidata-id: "Q123281082"
 wikipedia-url: "https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc."
 wikipedia-extract: "Make America Great Again Inc. is an American super PAC that supports Donald Trump. It was founded on September 23, 2022."

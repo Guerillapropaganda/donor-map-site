@@ -2,7 +2,7 @@
 title: "Southern Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -35,7 +35,7 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Labor Department"
   - "Veterans Employment and Training Service"
-related: "[[Duke Energy]] · [[NextEra Energy]] · [[Koch Industries]] · [[US Chamber of Commerce]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]]"
+related: "[[Duke Energy]] · [[NextEra Energy]] · [[Koch Industries]] · [[US Chamber of Commerce]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]]"
 top-federal-agency: "General Services Administration"
 top-naics-code: "221210"
 lobbying-spend: 26933250
