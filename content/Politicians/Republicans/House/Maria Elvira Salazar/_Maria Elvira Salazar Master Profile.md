@@ -3,6 +3,10 @@ title: "Maria Elvira Salazar"
 type: politician
 content-readiness: ready
 last-updated: 2026-04-10
+needs-reenrichment: false
+reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
+known-gaps:
+  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
 source-tier: 1
 parent: null
 party: "Republican"
@@ -23,7 +27,7 @@ related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master P
 committees:
   - "House Committee on Financial Services"
   - "House Committee on Foreign Affairs"
-bioguide-id: "C001091"
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana
 

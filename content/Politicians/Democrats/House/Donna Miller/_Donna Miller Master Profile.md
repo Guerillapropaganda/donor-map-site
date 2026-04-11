@@ -16,17 +16,20 @@ total-received: "$1,971,085"
 fec-candidate-id: "H6IL02355"
 source-types:
   - FEC
+needs-reenrichment: false
+reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-bioguide-id: "B001296"
+  - "bioguide-id needs manual verification — was contaminated with B001296 ((unknown — smaller 3-file contamination)) by a past bulk-set bug, cleared 2026-04-11"
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Affordable Chicago Now PAC]]"
 wikidata-id: "Q101318343"
 last-enriched: "2026-04-10"
 wikipedia-url: "https://en.wikipedia.org/wiki/Donna_Miller"
 wikipedia-extract: "Donna Lynne Miller is an American politician currently serving as a Cook County commissioner, representing the board's 6th district."
 born: "1965-09-07"
+internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
 #democrat #politician #house
 tags: #democrat
