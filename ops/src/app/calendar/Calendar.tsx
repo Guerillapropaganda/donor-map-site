@@ -36,13 +36,23 @@ function computeHoursPerDay(state: SprintState): Record<string, number> {
 export function Calendar({ schedule, initialState, serverDate, serverTime, liveCounts }: Props) {
   const [state, setState] = useState<SprintState>(initialState)
   const [openDay, setOpenDay] = useState<string | null>(null)
-  const [liveTime, setLiveTime] = useState<string>(serverTime ?? new Date().toISOString())
+  // Store as a Date so we can format locally. serverTime is an ISO string
+  // from SSR (UTC), new Date() on the client reflects local time — either
+  // way we format both display components in the user's local timezone so
+  // the clock reads as expected regardless of where it was seeded.
+  const [liveTime, setLiveTime] = useState<Date>(
+    serverTime ? new Date(serverTime) : new Date()
+  )
 
   // Tick every 30s so the displayed clock stays fresh
   useEffect(() => {
-    const id = setInterval(() => setLiveTime(new Date().toISOString()), 30_000)
+    const id = setInterval(() => setLiveTime(new Date()), 30_000)
     return () => clearInterval(id)
   }, [])
+
+  // Local-formatted display strings
+  const localDate = `${liveTime.getFullYear()}-${String(liveTime.getMonth() + 1).padStart(2, "0")}-${String(liveTime.getDate()).padStart(2, "0")}`
+  const localTime = `${String(liveTime.getHours()).padStart(2, "0")}:${String(liveTime.getMinutes()).padStart(2, "0")}`
 
   const today = serverDate   // use server-side date as the authoritative "today"
   const sprintStart = schedule.metadata.start_date
@@ -124,13 +134,13 @@ export function Calendar({ schedule, initialState, serverDate, serverTime, liveC
             </h1>
           </div>
           <div className="flex items-baseline gap-6 text-[11px] font-mono tracking-wider text-[var(--color-text-dim)]">
-            {/* Live clock — ticks every 30s, seeded from server time */}
-            <div className="text-[10px] font-mono" title="Server time — authoritative today">
+            {/* Live clock (local time), ticks every 30s, seeded from server time */}
+            <div className="text-[10px] font-mono" title="Local time in your timezone">
               <span className="text-[var(--color-amber)]">
-                {liveTime.slice(0, 10)}
+                {localDate}
               </span>
               <span className="text-[var(--color-text-dim)] ml-1">
-                {liveTime.slice(11, 16)}
+                {localTime}
               </span>
             </div>
             <div>

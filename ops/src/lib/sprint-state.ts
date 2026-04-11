@@ -1,6 +1,6 @@
 import fs from "fs/promises"
 import path from "path"
-import { parseSprintSchedule } from "./sprint-schedule-parser"
+import { parseSprintSchedule, type Task } from "./sprint-schedule-parser"
 
 // Mutable sprint completion state. Lives in ops/data/ (gitignored) so
 // checkbox clicks don't pollute git history.
@@ -62,6 +62,18 @@ function normalizeYamlStatus(status: unknown): TaskStatus {
  * Task status is copied from the schedule's status field so already-done Phase 1 tasks
  * stay checked on first load.
  */
+/**
+ * Resolve a task's completion timestamp. Prefer the full ISO `completed_at`
+ * when session-save has written one; fall back to `completed_date` + midnight
+ * UTC only if no precise timestamp exists. This is what lets the calendar
+ * show "hours today" correctly for tasks that were finished mid-day.
+ */
+function resolveCompletedAt(task: Task): string | undefined {
+  if (task.completed_at) return task.completed_at
+  if (task.completed_date) return task.completed_date + "T00:00:00Z"
+  return undefined
+}
+
 async function buildInitialState(): Promise<SprintState> {
   const schedule = await parseSprintSchedule()
   const taskStates: Record<string, TaskState> = {}
@@ -69,8 +81,9 @@ async function buildInitialState(): Promise<SprintState> {
     if (!task.id) continue
     const status = normalizeYamlStatus(task.status)
     const s: TaskState = { status }
-    if (status === "done" && task.completed_date) {
-      s.completed_at = task.completed_date + "T00:00:00Z"
+    if (status === "done") {
+      const completedAt = resolveCompletedAt(task)
+      if (completedAt) s.completed_at = completedAt
     }
     if (status === "blocked" && task.blocker) {
       s.blocked_reason = task.blocker
@@ -109,8 +122,9 @@ function reconcileScheduleIntoState(
     if (!existing) {
       // Task added to YAML after initial seed.
       const s: TaskState = { status: yamlStatus }
-      if (yamlStatus === "done" && task.completed_date) {
-        s.completed_at = task.completed_date + "T00:00:00Z"
+      if (yamlStatus === "done") {
+        const completedAt = resolveCompletedAt(task)
+        if (completedAt) s.completed_at = completedAt
       }
       if (yamlStatus === "blocked" && task.blocker) {
         s.blocked_reason = task.blocker
@@ -125,9 +139,8 @@ function reconcileScheduleIntoState(
       state.task_states[task.id] = {
         ...existing,
         status: "done",
-        completed_at: task.completed_date
-          ? task.completed_date + "T00:00:00Z"
-          : existing.completed_at ?? new Date().toISOString(),
+        completed_at:
+          resolveCompletedAt(task) ?? existing.completed_at ?? new Date().toISOString(),
       }
       mutated = true
       continue

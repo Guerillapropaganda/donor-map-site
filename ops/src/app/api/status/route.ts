@@ -9,28 +9,27 @@ function readJSON(file: string): Record<string, unknown> {
   try { return JSON.parse(fs.readFileSync(file, "utf-8")) } catch { return {} }
 }
 
-// Lightweight status endpoint for sidebar badges — polls every 60s
+// Lightweight status endpoint for sidebar badges — polls every 60s.
+// Alert counts are delegated to /api/alerts so the dashboard card matches
+// exactly what the /alerts page lists. Anything else would be a lie —
+// previously this endpoint computed a heuristic count that diverged from
+// the real alert list.
 export async function GET() {
   try {
-    // Alert counts (scan for critical issues)
+    // Alert summary: delegate to /api/alerts (which caches internally for 10 min)
     let alertsCritical = 0
     let alertsWarning = 0
     try {
-      // Quick heuristic: count profiles missing key frontmatter
-      const contentFiles = walkMarkdown(CONTENT_DIR)
-      for (const f of contentFiles) {
-        try {
-          const content = fs.readFileSync(f, "utf-8").replace(/\0/g, "")
-          const fmMatch = content.match(/^---\n([\s\S]*?)\n---/)
-          if (!fmMatch) continue
-          const fm = fmMatch[1]
-          if (fm.includes("type: politician") || fm.includes("type: donor") || fm.includes("type: corporation")) {
-            if (!fm.includes("content-readiness:")) alertsCritical++
-            else if (fm.includes("content-readiness: raw")) alertsWarning++
-          }
-        } catch { /* skip binary/corrupt */ }
+      const baseUrl = process.env.NEXTAUTH_URL || "http://localhost:3333"
+      const alertsRes = await fetch(`${baseUrl}/api/alerts`, { cache: "no-store" })
+      if (alertsRes.ok) {
+        const alertsData = (await alertsRes.json()) as {
+          summary?: { critical?: number; warning?: number }
+        }
+        alertsCritical = alertsData.summary?.critical ?? 0
+        alertsWarning = alertsData.summary?.warning ?? 0
       }
-    } catch { /* skip */ }
+    } catch { /* alerts endpoint unreachable — leave counts at 0 */ }
 
     // Notes: open count
     let notesOpen = 0
@@ -82,18 +81,6 @@ export async function GET() {
   }
 }
 
-function walkMarkdown(dir: string): string[] {
-  const results: string[] = []
-  try {
-    const entries = fs.readdirSync(dir, { withFileTypes: true })
-    for (const e of entries) {
-      const full = path.join(dir, e.name)
-      if (e.isDirectory() && !e.name.startsWith(".") && e.name !== "node_modules") {
-        results.push(...walkMarkdown(full))
-      } else if (e.isFile() && e.name.endsWith(".md")) {
-        results.push(full)
-      }
-    }
-  } catch { /* skip */ }
-  return results
-}
+// walkMarkdown was used by the old heuristic alert-counting path which has
+// been replaced by delegation to /api/alerts. Deleted to keep this endpoint
+// focused on its actual job (sidebar badges).

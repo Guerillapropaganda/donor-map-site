@@ -27,6 +27,7 @@ You are saving the current session's progress before ending.
    a. **Mark existing tasks done.** For every `cc_NN` / `rc_NN` / `dc_NN` task you actually completed this session, update:
       - `status: done` (or `status: blocked` / `in-progress` if appropriate)
       - `completed_date: YYYY-MM-DD` (today, absolute date)
+      - `completed_at:` — full ISO 8601 timestamp with local offset, e.g. `'2026-04-11T14:32:00-07:00'`. Use the actual wall-clock time you're saving the session at. This is what drives the calendar's "hours today" meter — `completed_date` alone defaults to midnight and undercounts. If you genuinely do not know the time, you may omit this field and the calendar will fall back to midnight.
       - `notes:` — 1–3 sentences on what was actually done. File paths, commit hashes, and verification details are valued.
 
    b. **Add ad-hoc tasks you completed that weren't on the schedule.** Append them to the current phase's `code_claude:` / `research_claude:` / `design_claude:` list under a new ID following the existing numbering (cc_09, cc_10, ...). Each ad-hoc task MUST have:
@@ -34,6 +35,7 @@ You are saving the current session's progress before ending.
       - `task:` — one-line description
       - `status: done`
       - `completed_date: YYYY-MM-DD`
+      - `completed_at:` — ISO timestamp with offset (see 3a above)
       - `added_adhoc: true` — flag so future-you can tell it wasn't in the original plan
       - `notes:` — 1–3 sentences with file paths / commit hashes
 
