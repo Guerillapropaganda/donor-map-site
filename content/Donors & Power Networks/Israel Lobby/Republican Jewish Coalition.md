@@ -2,7 +2,7 @@
 title: "Republican Jewish Coalition"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Israel Lobby"
@@ -25,7 +25,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(4)"
 total-revenue: 13380498
 total-assets: 4294171
-related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]]"
+related: "[[Lindsey Graham Master Profile]] · [[Mike Lawler Master Profile]] · [[Jan Koum]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Sheldon Adelson]] · [[Miriam Adelson]] · [[NORPAC]] · [[John Cornyn]]"
 total-political-spend: "$3,644,594"
 politicians-funded:
   - "Lindsey Graham"

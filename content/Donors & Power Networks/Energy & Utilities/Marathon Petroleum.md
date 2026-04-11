@@ -2,7 +2,7 @@
 title: "Marathon Petroleum"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Energy & Utilities"
@@ -57,7 +57,7 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[Cathy McMorris Rodgers Master Profile]] · [[Rashida Tlaib]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Chevron]] · [[ConocoPhillips]] · [[Halliburton]] · [[Koch Industries]] · [[American Fuel and Petrochemical Manufacturers]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[_John Barrasso Master Profile|Barrasso]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Devon Energy]]"
 ein: "464439930"
 annual-revenue: "$5.1M"
 net-assets: "$13.4M"

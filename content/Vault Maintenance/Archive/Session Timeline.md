@@ -2,10 +2,10 @@
 title: "Session Timeline"
 type: reference
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
-related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]]"
+related: "[[Vault Standards and Agent Instructions]] · [[Publication Audit Report]] · [[Vault Integrity Audit - Methodology and Tracker]] · [[Sources Master Node]] · [[Analytical Quality Audit - March 2026]] · [[Research Methodology and Data Sources]]"
 ---
 
 #session-log #vault-maintenance #handoff

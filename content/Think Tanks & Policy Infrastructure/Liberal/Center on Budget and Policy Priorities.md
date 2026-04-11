@@ -2,12 +2,12 @@
 title: "Center on Budget and Policy Priorities"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
-related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]]"
+related: "[[George Soros]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[AFL-CIO]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[The Idea Laundering Pipeline — How Think Tank Research Becomes Law]] · [[The Think Tank Money Map — Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door — A Cross-Think-Tank Personnel Map]] · [[Urban Institute]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map — The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]]"
 court-cases: 159
 last-enriched: "2026-04-08"
 court-jurisdictions:

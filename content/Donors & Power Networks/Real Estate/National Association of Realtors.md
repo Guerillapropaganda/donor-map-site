@@ -2,7 +2,7 @@
 title: "National Association of Realtors"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Real Estate"
@@ -57,7 +57,7 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "National Labor Relations Board"
-related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom Master Profile]] · [[The Real Estate President and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] · [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]] · [[Real Estate Board of New York]] · [[Invitation Homes - Institutional Landlords]] · [[CBRE Group]]"
+related: "[[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom Master Profile]] · [[The Real Estate President and the Fair Housing Demolition]] · [[3.5 Million Units - Broken Promise]] · [[Shannon McGahn]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[Lennar Corporation]] · [[Real Estate Industry Bloc]] · [[Real Estate Board of New York]] · [[Invitation Homes - Institutional Landlords]] · [[CBRE Group]] · [[Blackstone Real Estate]]"
 cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.

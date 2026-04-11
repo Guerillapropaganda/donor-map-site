@@ -2,7 +2,7 @@
 title: "John Boehner"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 party: "Republican"
@@ -25,7 +25,7 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
-donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]]"
+donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]] · [[California Farm Bureau Federation]]"
 related: "[[JPMorgan Chase]] · [[Koch network]] · [[Koch Network - Charles Koch|Koch Network]] · [[Paul Ryan]] · [[Donald Trump]] · [[Tobacco Industry]] · [[Cannabis Legalization Movement]] · [[Reynolds American]] · [[Altria]]"
 last-enriched: "2026-04-10"
 govtrack-id: 400036

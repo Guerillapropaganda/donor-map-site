@@ -2,7 +2,7 @@
 title: "Sixteen Thirty Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -26,7 +26,7 @@ ein: "264486735"
 annual-revenue: "$181.4M"
 net-assets: "$139.9M"
 tax-year: "2023"
-related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]] · [[Center for American Progress]] · [[Arabella Advisors]] · [[Demand Justice]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]]"
+related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]] · [[Center for American Progress]] · [[Arabella Advisors]] · [[Demand Justice]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Media Matters]]"
 nonprofit-status: "501(c)(4)"
 total-revenue: 284289469
 total-assets: 106501029

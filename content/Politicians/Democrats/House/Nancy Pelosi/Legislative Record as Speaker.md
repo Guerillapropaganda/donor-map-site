@@ -2,10 +2,10 @@
 title: "Legislative Record as Speaker"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Nancy Pelosi Master Profile]]
-related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
+related: "[[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]]"
 ---
 #pelosi #speaker #legislation #aca #impeachment #chips #class-analysis #follow-the-money #healthcare #infrastructure
 

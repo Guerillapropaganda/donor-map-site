@@ -2,7 +2,7 @@
 title: "Entertainment and Hollywood Donors"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,7 +15,7 @@ federal-contracts: "997000"
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
-related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]]"
+related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
 lobbying-spend: 24863936
 lobbying-filings: 93
 cross-vault-triangulation-count: 12

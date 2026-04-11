@@ -2,7 +2,7 @@
 title: "IBEW - International Brotherhood of Electrical Workers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 2
 parent: null
 sector: "Labor Unions"
@@ -28,7 +28,7 @@ regulatory-agencies:
 ein: "611602482"
 nonprofit-status: "501(c)(5)"
 total-political-spend: "$4,861,275"
-related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]] · [[Nancy Pelosi Master Profile]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[IBEW California State Association]] · [[California Building and Construction Trades Council]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[PG&E]] · [[California Labor Federation]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]]"
+related: "[[Bernie Sanders Master Profile]] · [[Glenn Thompson]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Rick Larsen]] · [[Legislative Record as Speaker]] · [[Bennie Thompson]] · [[Nancy Pelosi Master Profile]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[IBEW California State Association]] · [[California Building and Construction Trades Council]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[PG&E]] · [[California Labor Federation]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[Elon Musk]]"
 lei: "984500ACFC0ND2E37927"
 lei-jurisdiction: "CA"
 cross-vault-triangulation-count: 18

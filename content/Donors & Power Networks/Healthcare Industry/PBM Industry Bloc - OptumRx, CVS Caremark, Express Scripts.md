@@ -2,14 +2,14 @@
 title: "PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-11
 source-tier: 1
 parent: null
 sector: "Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]] · [[UnitedHealth Group - Optum]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]]"
+related: "[[Johnson & Johnson]] · [[Kaiser Permanente]] · [[Humana]] · [[UnitedHealth Group - Optum]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[PhRMA]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]]"
 known-gaps:
   - "No SEC corporate filings"
   - "No FEC contribution data"
