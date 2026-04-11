@@ -50,7 +50,7 @@ stories: >-
   and the Limits of Executive Action]] · [[The Deportation Machine - Obama to
   Biden and the Apparatus Trump Inherited]] · [[Barack Obama Executive Orders
   Timeline]] · [[Barack Obama Donor Network - The Full Map]] · [[Organizing for
-  Action]]
+  Action]] · [[Term 1 vs Term 2 - Obama Comparison]]
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   VOTING data is missing entirely. This profile was promoted to ready without
