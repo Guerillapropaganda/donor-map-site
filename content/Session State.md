@@ -12,6 +12,146 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Last Session
 Claude: Code
+Date: 2026-04-11 next-day (Phase 2a rulebook foundation — automation hardening, dashboard bugs, Phase 0 vault cleanup, Phase 2a Part 1 rulebook file)
+
+### Theme
+Long continuation session. Four distinct phases shipped:
+
+1. **Attention Queue feedback loop + hallucination-catcher tightening** — reject button on `/attention`, universal signature filter in `addEntries()`, stricter claim-pattern regexes
+2. **Automation hardening** — dispatcher crash guards + log rotation + Healthchecks.io env-var placeholder, new scripts registered in `/scripts` ops page, rules docs updated
+3. **Phase 0 vault cleanup** — audited and committed a 619-file + 44-file pipeline enrichment backlog that had been sitting uncommitted, patched `self-review-mirror` to use net-new comparison + auto-block / heading / wikilink-bullet / type exemptions so the gate stops false-positive blocking
+4. **Phase 1 dashboard bugs** — calendar clock UTC → local, session-save timestamps via new `completed_at` field, alerts dashboard card unified with `/api/alerts` summary (was showing a fake heuristic count)
+5. **Phase 2a Part 1** — shipped `config/profile-type-rulebook.json` (1172 lines) serializing all 8 top-level types + 50+ sub-categories walked through interactively, plus CJS and TS readers, plus extended check-helpers with the CHECKS registry (64 real, 201 stubbed for Part 2)
+
+### Done — Attention Queue polish (commit `c0e7dc9c`, deploy `24281367092`)
+
+- **Reject button on `/attention`.** Per-entry `✕ reject` button prompts for an optional reason and POSTs to new `/api/attention-queue/reject` route. Removes the entry immediately and records a rejection in `.false-positive-log.json` keyed by a stable `(source|where|what)` signature.
+- **Universal filter in `addEntries()`.** `scripts/lib/attention-queue.cjs` `addEntries()` now auto-filters entries whose signature matches a prior rejection. All 5 producers inherit this for free — no per-script wiring. Verified live: rejected "Economic Policy Institute" from voice-drift-detector, reran the producer, 30 → 29 (rejection persisted through a fresh run).
+- **Hallucination-catcher tightened.** Raytheon went from 96 flagged claims → 25 (71 false positives eliminated). Changes: `dollar-amount` requires a claim verb within 80 chars; `percentage` requires contextual noun (of/increase/share/etc); `bill-reference` pattern dropped; per-claim citation proximity check (150 chars) replaces whole-paragraph exemption; footnote refs `[^N]` and `[cite]` count as citations; bullet lists and tables exempt.
+
+### Done — Automation hardening (commit `ee2eccd6`, deploy `24281756494`)
+
+- **`scripts/attention-dispatcher.cjs` crash recovery.** Added `uncaughtException` + `unhandledRejection` top-level guards; try/catch around `spawn()` and each `processQueue` iteration; cron schedule callbacks wrapped per-producer. Log rotation at 1MB threshold → rotates to `.log.1` (one keep). Verified live by pre-writing a 1.2MB log file; dispatcher correctly rotated it to `.log.1` on next run and started a fresh `.log`.
+- **`HEALTHCHECKS_PING_URL` env var placeholder.** Fire-and-forget ping on startup (`/start`), successful queue cycles (bare URL), failures (`/fail`). 5-sec timeout, errors swallowed. No-op when unset; daemon logs state at startup.
+- **`/scripts` ops page registered all new scripts.** New categories **Intelligence / Attention Queue** (8 entries) and **Pre-Commit Gates** (1 entry), pinned to top. Entries for attention-dispatcher (daemon/run-now/healthchecks), voice-drift-detector, hallucination-catcher, contradiction-miner, missing-profile-detector, promotion-candidate-queue, self-review-mirror. yaml-sanity-scan and duplicate-bioguide-sentinel entries updated to note they also run as pre-commit gates.
+- **Rules docs.** `CLAUDE.md` gained a new "Automation you should know about" section describing pre-commit gate, Attention Queue producer discipline (never edit `Attention Queue.md` directly — use `addEntries()`), and dispatcher. `content/Vault Rules.md` gained a new **§ 9 Automation Layers** with the same three sub-sections. Existing § 9 Decisions Log bumped to § 10.
+
+### Done — Phase 0 vault cleanup (commits `427a5827` + `ab7221d0`, deploy `24282337750`)
+
+- **Audited 619 modified + 44 untracked uncommitted files.** Classified by change pattern: 307 frontmatter-only (pipeline `last-updated` / `last-enriched` / `related:` bumps), 193 frontmatter+body (+ new auto-block sections with Wikidata / LEI / Federal Register data), 53 pipeline-only auto-block content, 65 body-only timestamp rerenders, 1 `site-status.md` stats recalc, 38 RSS Event drafts, 3 Story Seeds from contradiction-miner, 1 `bioguide-contamination-alert.md`.
+- **Patched `self-review-mirror` with 5 exemptions.** Fixed the false-positive cascade that would have blocked 188 files with "new em dash" errors from pipeline enrichment:
+  - **Net-new comparison, not per-line matching** — count banned phrase occurrences before/after and flag only net increases. A pipeline rewriting `(990 Filing — 2018)` to `(990 Filing — 2019)` doesn't trigger because the em-dash count is unchanged.
+  - **Auto-block exemption** — content inside `<!-- auto:X -->` blocks is API data, not authored prose
+  - **Heading exemption** — Markdown headings are labels, not prose
+  - **Wikilink-bullet exemption** — bullet lines with wikilinks are structured data enumerations
+  - **Non-editorial file type exemption** — `reference` / `system` / `methodology` / `index` / `page` / `digest` / `daily-update` / `event` / `sub-note` types skipped entirely
+- **Trimmed Auto-Enrichment Log.** 260 empty padding lines removed (preserving all 2026-04-11 legitimate entries).
+- **Gitignored `content/Admin Notes/.attention-dispatcher.log[.1]`** so log rotation artifacts never commit.
+- **Bulk commit: 662 files shipped.** 619 pipeline enrichments + 41 untracked + 1 site-status recalc + 1 auto-enrichment log. Zero uncommitted files remaining.
+
+### Done — Phase 1 dashboard fixes (commit `ec7cdb94`, deploy `24286226374`)
+
+- **1a Calendar clock timezone.** `ops/src/app/calendar/Calendar.tsx` was storing `liveTime` as ISO string and slicing UTC positions — David on PT saw `11:40` at `4:41am`. Fixed: store as Date object, format with `getHours()` / `getMinutes()` / `getFullYear()` etc. Verified live: preview renders `08:38` matching `new Date()`.
+- **1b Session-save timestamps.** `ops/src/lib/sprint-state.ts` reconciler was synthesizing `completed_at = completed_date + "T00:00:00Z"` — always midnight UTC, breaking the "hours today" meter. Three-part fix:
+  - `ops/src/lib/sprint-schedule-parser.ts` Task type gains optional `completed_at` field
+  - `sprint-state.ts` new `resolveCompletedAt()` helper prefers YAML `completed_at` over midnight fallback, used in both `buildInitialState` and `reconcileScheduleIntoState`
+  - `.claude/commands/session-save.md` skill instructions now require Claude to write `completed_at: '2026-04-11T14:32:00-07:00'` alongside `completed_date` for every task it marks done
+- **1c Alerts dashboard sync.** `ops/src/app/api/status/route.ts` counted "critical" by scanning profiles missing `content-readiness:` — a fake heuristic unrelated to real alerts. `/alerts` page used `/api/alerts` (stale / never-enriched / broken wikilinks / pipeline failures / contradictions). Classic drift bug. Fix: `/api/status` now delegates to `/api/alerts` for its summary. Dashboard card label upgraded from just critical count to `{N} critical, {M} warning`. Verified live: both endpoints return matching `summary.critical` and `summary.warning`; dashboard shows "View Alerts · 1 critical, 2 warning".
+
+### Done — Phase 2a Part 1: profile type rulebook (commit `ee147d6e`, deploy `24288685353`)
+
+Walked through all 8 top-level types + 50+ sub-categories interactively with David in session. Every table, every override, every tier requirement was locked in conversation before serialization. Part 1 ships the file and the readers. Nothing consumes it yet.
+
+**New files:**
+- `config/profile-type-rulebook.json` (1172 lines) — 8 top-level types (politician / donor / entity / media / judicial / story / event / meta), 50+ sub-categories with `adds` / `removes` / `replaces` override grammar, tier requirements (raw / draft / ready / verified / s-tier), promotion-gate rules (ready auto, verified manual, s-tier manual across every editorial type), visual identity (color-light / color-dark / icon), `voice-scanned` and `hallucination-scanned` flags.
+- `scripts/lib/profile-type-rulebook.cjs` (320 lines) — CJS reader with `--validate` CLI. Exports `loadRulebook`, `listAllTypes`, `listAllSubCategories`, `getTypeRulebook`, `getSubCategoryOverrides`, `getTierRequirements`, `getTypeVisual`, `getPromotionGate`, `isVoiceScanned`, `isHallucinationScanned`, `resolveChecks`. The `resolveChecks` helper composes sub-category overrides onto base rulebook checks.
+- `ops/src/lib/profile-type-rulebook.ts` (202 lines) — TS mirror with typed interfaces for the JSON schema.
+
+**Extended existing files:**
+- `scripts/lib/checklist-helpers.cjs` (180 → 551 lines) — existing helpers preserved; added `CHECKS` registry with 265 check-ids (64 fully implemented — frontmatter field presence, counts, thresholds, body scanners reusing `hasHeading` / `runLegalReviewCheck` / `isEnrichedWithin` / `countSourceTypes`; 201 stubbed as always-passing with `[stub: id]` reasons so Part 2 integration can identify unwired checks).
+- `ops/src/lib/checklist-helpers.ts` (240 → 545 lines) — same treatment in TS. `Frontmatter` type alias + `CheckFn` signature + `_toProfileShape` adapter for reusing camelCase helpers.
+
+**Key locked decisions from the Phase 2a conversation:**
+- 8 top-level types (not 12) — PAC / think tank / K Street / dark money all collapse into `entity` with sub-categories
+- `judicial` is its own top-level type (not a sub-category of politician) — judges operate under completely different rules
+- `media` is a first-class type — prosecutors/AGs moved into politician as sub-categories
+- Dual-role people (Steyer, Pritzker, Trump, Bloomberg) use a `secondary-types:` array — primary type governs promotion, secondary types add supplementary fields
+- S-tier requires a linked **original `investigation`-grade story we wrote** — not just any story. This is the single most important editorial gate. Prevents S-tier from being minted out of pipeline data alone.
+- Type colors: politician amber, donor green, entity slate, media orange, judicial burgundy, story purple, event cyan, meta gray. Red + blue reserved for party coloring.
+- Sub-categories distinguish by **icon only**, not shade — keeps graph rendering scannable
+- Story grade hierarchy: `story` (report existing reporting) / `report` (synthesis + analysis) / `investigation` (new facts, primary sources, legally reviewed). Only `investigation` grade can anchor s-tier.
+- Hallucination-catcher becomes a hard gate for story verification, with safety-valve override paths: `[cite:...]` inline marker, blockquote conversion, `editor-vouched: true` frontmatter flag, Attention Queue reject button.
+- Media uses `tier1-source-count>=2` (lower than the >=3 of other types) because pipeline coverage for media is the weakest
+- Dark money `funder-triangulation` is required at verified with `N/A acceptable` for "deep research pending" cases (surfaced in Attention Queue for case-by-case upgrade)
+
+**Verification:**
+- `node scripts/lib/profile-type-rulebook.cjs --validate` → clean, 8 types, 266 check ids referenced, 0 missing
+- `resolveChecks('politician', 'president', 'verified')` correctly composes base + president overrides (adds `executive-orders-documented`, `cabinet-appointments-listed`, `nominations-record-present`; removes `voting-record-pipeline`; replaces `fec-fundraising-data` → `previous-cycle-fundraising`)
+- Real check against Elizabeth Warren's profile: `title-present` passes, `class-analysis-heading` passes, `tier1-source-count-gte-3` correctly fails (1 Tier 1 source type, needs ≥3)
+- Stubs return `passed: true` with `[stub: id]` markers
+- TS mirror compiles cleanly; pre-existing errors in `quartz/*`, `page.tsx`, `profile/page.tsx`, `VaultGrid.tsx` are NOT introduced by this commit and do not affect the rulebook infrastructure
+
+**Runtime effect: zero.** Nothing reads from the rulebook yet. The dashboard looks identical, every script still uses its embedded assumptions, every Attention Queue producer still runs the way it did before. The rulebook just exists and can be loaded.
+
+### Commits this session
+
+Feature branch (`claude/naughty-satoshi`):
+- `c0e7dc9c` — Attention Queue polish (reject button + hallucination-catcher tightening)
+- `67f5475d` / amended to `427a5827` — self-review-mirror net-new scanning patch
+- `ee2eccd6` — Automation hardening (dispatcher resilience + scripts page + rules docs)
+- `35bcce69` superseded by `427a5827` — scanner patch (amended during Phase 0 audit)
+- `ab7221d0` — Pipeline enrichment 2026-04-11 bulk commit (662 files)
+- `ec7cdb94` — Phase 1 dashboard fixes
+- `ee147d6e` — **Phase 2a part 1: profile type rulebook + check-helper catalog**
+- This session-save commit
+
+Deploys (all green):
+- `24281367092` — Attention Queue polish
+- `24281756494` — Automation hardening
+- `24282337750` — Phase 0 scanner patch + bulk enrichment
+- `24286226374` — Phase 1 dashboard fixes
+- `24288685353` — Phase 2a Part 1 rulebook foundation
+
+### Known issues / still outstanding
+
+- **Phase 2a Part 2 not started.** Five sequential script wirings pending (self-review-mirror → voice-drift-detector → hallucination-catcher → promotion-candidate-queue → pipeline-janitor). Each needs a before/after regression check. Do NOT skip the regression checks.
+- **Phase 2a Part 3 not started.** `/rules` Ops app editor UI is the biggest lift — saves for a separate session.
+- **Phase 2b S-tier filter** still pending. Depends on Part 2 being wired.
+- **Phase 1d vault-health audit** still pending. Depends on Part 2 being wired (can't meaningfully audit type-specific health until scripts read per-type rules).
+- **Phase 3 relationship model discussion** deferred. User's "relationship meter / bothsides" architecture needs a plan-mode design session before any code.
+- **188 profiles have `N/A` placeholder `voting-record-pipeline` stubs** in the rulebook — stub always-passing means these fields don't currently fail checks. Real logic lands in Part 2.
+- **Attention dispatcher not yet auto-started.** Windows `shell:startup` shortcut for `scripts/attention-dispatcher.bat` still pending David's manual action.
+- **UptimeRobot / Healthchecks.io / Sentry** accounts not yet created. Documented in `content/Admin Notes/External Services Setup.md`.
+- **`HEALTHCHECKS_PING_URL`** env var not set (infrastructure ready, just needs the URL after account creation).
+- **ts/cjs helper drift lint** still not implemented. `checklist-helpers.cjs` ↔ `.ts` stay in sync by hand; now also `profile-type-rulebook.cjs` ↔ `.ts`.
+- **Pre-existing TS errors** in `quartz/components/scripts/networkGraph.inline.ts`, `quartz/plugins/emitters/networkGraphIndex.ts`, `ops/src/app/page.tsx` (lines 303-305), `ops/src/app/profile/page.tsx`, `ops/src/app/relationships/page.tsx`, `ops/src/components/VaultGrid.tsx`. None introduced by this session. Pre-push hook warns (not blocks) on these.
+
+### Next session priorities (Phase 2a continuation)
+
+1. **Part 2.1: wire `self-review-mirror` to rulebook.** Replace the hardcoded `nonProfileTypes` Set with `isVoiceScanned(type)` derived from the rulebook. Meta and event types stay exempt. Regression check: full scan against the vault, confirm the same profiles are flagged (no regression in pre-commit gate behavior). This is the lowest-risk integration — do it first.
+2. **Part 2.2: wire `voice-drift-detector` to rulebook.** Replace readiness-based filter with `isVoiceScanned(type)`. Story type becomes scanned (currently isn't). Regression: Attention Queue count shouldn't balloon.
+3. **Part 2.3: wire `hallucination-catcher` to rulebook.** Replace hardcoded `skipTypes` with `isHallucinationScanned(type)`. Story type becomes required (the gate for story verification). Regression: first batch of story profile findings should be reviewed — they're legitimate but need spot-checking for noise.
+4. **Part 2.4: wire `promotion-candidate-queue` to rulebook.** Replace hardcoded promotion criteria with `getTierRequirements(type, category, 'verified')` + `getTierRequirements(type, category, 's-tier')`. The script computes per-type-aware missing fields.
+5. **Part 2.5: wire `pipeline-janitor` to rulebook.** Highest-risk integration — janitor writes to profile frontmatter. Update `--tier=a-plus` and `--tier=s` audits. Dry-run first, inspect report, only then `--write`.
+6. **After Part 2: Phase 1d vault-health audit** — now that scripts read per-type rules, compute a real vault health number per type.
+7. **Phase 2b S-tier filter** — dashboard filter reads `getPromotionGate(type, 's-tier')` to know which types are eligible.
+8. **Phase 3 design session** — relationship meter / bothsides / money flow model. Plan mode only; no code until locked.
+
+### Session end state: fully verified + deployed
+- **Phase 0 vault cleanup complete** — 662 files committed, zero uncommitted work remaining
+- **Phase 1 dashboard bugs fixed** — calendar clock, session-save timestamps, alerts sync
+- **Phase 2a Part 1 shipped** — rulebook file + readers + check-helpers (64 real checks, 201 stubs)
+- **Automation hardening shipped** — dispatcher crash guards, log rotation, Healthchecks placeholder, scripts page, rules docs
+- **Attention Queue feedback loop complete** — reject button, universal signature filter, hallucination-catcher tightened
+- **self-review-mirror rewritten** — net-new comparison, 5 exemptions (auto-block / heading / wikilink-bullet / type / non-editorial), no more false-positive blocking on pipeline enrichment
+- **Latest deploy:** `24288685353` ✓
+
+David paused here to save session. Phase 2a Part 2 picks up next session with the self-review-mirror wiring (lowest-risk of the 5 script integrations).
+
+---
+
+## Previous Session
+Claude: Code
 Date: 2026-04-11 late overnight (Phase 1 Day 3 close — S-tier plan full ship + parseWikilinks hotfix + first full A+ audit pass)
 
 ### Theme
