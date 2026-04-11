@@ -158,6 +158,12 @@ The Donor Map (thedonormap.org) — open-source political donor intelligence dat
 
 **Exception:** Dataview `table` / `query` code blocks inside fenced ```` ```dataview ```` blocks are fine — those are queries, not data storage.
 
+**`editor-vouched: true` frontmatter flag (hallucination-catcher only).** Long-form story profiles that cite sources in an aggregated Sources section at the bottom of the file (standard magazine format) can set `editor-vouched: true` in frontmatter. This tells `scripts/hallucination-catcher.cjs` to skip the "every claim within 150 chars of a citation" proximity check for that file. Use only when:
+1. Every factual claim in the profile is genuinely backed by an entry in the Sources section or by a wikilink to a fully-cited Master Profile.
+2. Inlining citations throughout the prose would wreck the reading flow (true for synthesis pieces, cross-reference maps, and narrative contradictions — not true for donor-profile bodies or politician-record pages).
+
+The flag does NOT exempt the profile from `voice-drift-detector` (em dashes, banned AI vocab, sentence length) or the pre-commit `self-review-mirror` (defamation words, verified-profile regressions). Those are style/voice checks and fire independently of citation proximity. Setting `editor-vouched: true` on a profile with genuinely unsupported claims is a defamation risk; the editor is personally vouching that the aggregated sources cover every claim.
+
 **Exception for generated cache fields.** Frontmatter fields with a `-generated` suffix (e.g. `related-generated`, `top-donors-generated`, `politicians-funded-generated`) are **write-only caches** produced by the Phase 3 relationship categorizer from the canonical store at `data/relationships.jsonl`. They exist so Obsidian's graph view and legacy Quartz components keep working during the Phase 3 migration window.
 
 Never hand-edit a `-generated` field. If you notice drift, the fix is to update the underlying edge in `data/relationships.jsonl` (via the Ops `/relationships` page, the categorizer, or a targeted script) and re-run the cache rebuild. Hand-edits to generated fields will be overwritten on the next run without warning.

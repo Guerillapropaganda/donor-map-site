@@ -9,6 +9,8 @@ related: "[[Ally 1]] · [[Funder 2]]"
 Single source of truth for both Code Claude and Research Claude. No other methodology doc overrides this file. When in doubt, this wins.
 
 > **Phase 3 — canonical relationships.** As of 2026-04-11, the canonical source for every relationship between profiles lives in `data/relationships.jsonl`. Legacy frontmatter fields (`related`, `donors`, `top-donors`, `politicians-funded`, `opposes`, `stories`) are still readable by existing consumers but **new relationship data should go through the canonical store**. Schema + validator: `scripts/lib/relationship-edge-validator.cjs`. Reader: `scripts/lib/relationships-store.cjs` (CJS) / `ops/src/lib/relationships-store.ts` (TS mirror). See the CLAUDE.md frontmatter-only section for the `-generated` cache-field exception.
+>
+> **`editor-vouched: true` frontmatter flag.** Long-form story profiles that cite sources in an aggregated Sources section at the bottom (magazine format) can set `editor-vouched: true` to skip `hallucination-catcher`'s inline-citation proximity check. Only use when every claim is genuinely backed by the Sources section or by wikilinks to fully-cited Master Profiles. Does NOT exempt the profile from `voice-drift-detector` or `self-review-mirror` — those catch AI voice and defamation words independently. Setting this flag on a profile with genuinely unsupported claims is a defamation risk. See the CLAUDE.md frontmatter-only section for the full rule.
 
 ---
 
