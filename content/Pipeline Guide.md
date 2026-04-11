@@ -211,6 +211,28 @@ Smoking gun in the diff: a single 2-line change on 2026-04-10 at 22:59Z converte
 
 **Root cause of the pipeline passing scalar donors to begin with:** separate issue — some pipeline (suspected: auto-connection or a merge script) was passing a comma-separated string where the field semantically should be an array. The `updateFrontmatter` fix makes this class of mismatch safe regardless of caller intent, but the caller-side bug should still be identified and corrected in a follow-up.
 
+### Bulk bioguide contamination — C001091 (Castro) + B001296 waves (fixed 2026-04-10)
+
+**Incident:** A vault-wide scan of `bioguide-id` frontmatter values turned up **19 unrelated profiles all sharing `C001091`** (Joaquin Castro's bioguide) and **3 more sharing `B001296`** — 22 total profiles with the same wrong-ID pattern. Affected profiles crossed party, chamber, and era: Bowman, Morelle, Pelosi, Gottheimer, Padilla, Coons, Schumer, Clinton, Hickenlooper, Stratton, Cooper, Wahls, Sinema, Crenshaw, Salazar, Gaetz, Rick Scott, Ted Cruz, Tuberville (all C001091); Daniel Biss, Donna Miller, Melissa Bean (all B001296).
+
+**Root cause (pattern-matched):** Same class of bug as the A000383 Alan Armstrong incident. A past bulk-set script almost certainly fell through to `candidates[0]?.bioguideId` when a Congress.gov name search failed. The `q=` parameter on `/v3/member` does NOT do semantic name matching — it returns alphabetical hits. Any script that iterates profile titles and hits the API naively, then uses the first result as a fallback, will pin entire batches to whoever is first alphabetically. A-last-name runs pinned to Alan Armstrong (A000383); C-last-name runs pinned to Joaquin Castro (C001091). B001296 has a smaller footprint, suggesting a partial run on a different batch.
+
+**Critical pipeline safety risk observed in real-time:** Bowman was in the janitor-flagged `needs-reenrichment: true` set from today's zombie-profile cleanup. The running enrichment pipeline (`24269046614`) would have used his Bowman-labeled profile's `bioguide-id: C001091` to call `https://api.congress.gov/v3/member/C001091`, fetched Joaquin Castro's legislative record, and written it to Bowman's body as a fresh `<!-- auto:congress -->` block. Exact repeat of the A000383 incident. Pipeline was cancelled mid-run (`gh run cancel 24269046614` at ~24 minutes elapsed) before the contamination could land.
+
+**Fix:** `scripts/fix-bioguide-contamination.cjs` in the site repo — CLEARS the wrong bioguide-id from every affected profile rather than attempting an auto-fix. Auto-fix via Congress.gov `q=` search would just produce a third wave of contamination since the API has the same name-matching weakness. Per profile: (1) removes the wrong `bioguide-id` line, (2) adds a `known-gap` noting manual verification is needed, (3) sets `needs-reenrichment: false` with a `BLOCKED` reason, (4) prepends a plain-English `[JANITOR]` note to `internal-notes`. With the bioguide cleared, the Congress.gov pipeline will skip the profile on its next run.
+
+**Manual follow-up required:** David or Research Claude must add correct bioguides by verifying each at `https://bioguide.congress.gov/search`. Once a verified bioguide is in place, flip `needs-reenrichment` from `false` to `true` and the engine's patched `selectTargets` will pick it up on the next scheduled run.
+
+**Quality check rules:**
+
+1. **Never use `candidates[0]?.bioguideId` as a fallback.** If a name search fails to produce a confident match, the script must return no-match and log it — never silently accept the first alphabetical hit. Applies to any script hitting `/v3/member?q=`.
+
+2. **Duplicate-bioguide scan belongs in the janitor.** Add a `bulk-contamination` check to `scripts/pipeline-janitor.cjs` that flags any `bioguide-id` value appearing on more than one profile. Duplicate bioguides are definitionally wrong.
+
+3. **Pipeline-side defense.** The Congress.gov pipeline should dedupe its input by bioguide-id and hard-fail if it sees the same bioguide claimed by two profile names that don't match phonetically. Second layer of defense against name-search fallthrough.
+
+4. **Document `q=` truth.** The Congress.gov cheatsheet section below must explicitly note that `q=` is not a semantic name search — it's an alphabetical prefix/filter. Any pipeline using it for name lookup must validate the return against the query term.
+
 ## How Data Lands in Profiles
 
 ### 1. Frontmatter (numbers)
