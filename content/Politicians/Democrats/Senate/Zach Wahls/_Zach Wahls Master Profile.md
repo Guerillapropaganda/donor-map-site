@@ -1,12 +1,14 @@
 ---
 title: "Zach Wahls Master Profile"
-type: politician
+type: state-politician
+current-office: "Iowa State Senator (2019–present)"
+candidate-for: "US Senate 2026 (IA, Democratic primary)"
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "Senate"
+chamber: "Senate"  # refers to the federal race he is running in, not a current seat
 state: "Iowa"
 state-abbr: "IA"
 top-donors:
@@ -15,13 +17,10 @@ total-received: "$2,045,589"
 fec-candidate-id: "S6IA00272"
 source-types:
   - FEC
-needs-reenrichment: false
-reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
-  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
+  - "Federal campaign finance data needs FEC pipeline pass (candidate ID S6IA00272)"
+  - "Iowa state senate voting record (2019–present) needs direct sourcing from Iowa Legislature site"
+  - "Top-donor industry breakdown beyond 'progressive donor networks' generic label"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Iowa Long Shot and the Rural Democrat Question]]"
 last-enriched: "2026-04-10"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."

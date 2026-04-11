@@ -1,16 +1,14 @@
 ---
 title: "Juliana Stratton Master Profile"
-type: politician
+type: state-politician
+current-office: "Lieutenant Governor of Illinois (2019–present)"
+candidate-for: "US Senate 2026 (IL, Democratic primary)"
 content-readiness: ready
-last-updated: 2026-04-10
-needs-reenrichment: false
-reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
-known-gaps:
-  - "bioguide-id needs manual verification — was contaminated with C001091 (Joaquin Castro) by a past bulk-set bug, cleared 2026-04-10"
+last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "Senate"
+chamber: "Senate"  # refers to the federal race she is running in, not a current seat
 top-donors:
   - "JB Pritzker"
 total-received: "$4,058,200"

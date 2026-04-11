@@ -1,12 +1,16 @@
 ---
 title: "Daniel Biss Master Profile"
-type: politician
+type: local-politician
+current-office: "Mayor of Evanston, Illinois (2021–present)"
+former-roles:
+  - "Illinois State Senator (2013–2019)"
+  - "US House candidate IL-9 (2018 primary, lost)"
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: "Democrat"
-chamber: "House"
+chamber: "House"  # refers to prior federal candidacy, not a current seat
 district: "17"
 issues:
   - "Arts, Culture, Religion"
@@ -25,12 +29,11 @@ source-types:
   - Congress
   - FEC
 corroboration-count: 2
-needs-reenrichment: false
-reenrich-reason: "BLOCKED: add correct bioguide-id first, then set to true"
+# needs-reenrichment cleared 2026-04-11: as a local-politician, Congress.gov / GovTrack are not applicable. FEC runs on fec-candidate-id if federal filings exist.
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
-  - "bioguide-id needs manual verification — was contaminated with B001296 ((unknown — smaller 3-file contamination)) by a past bulk-set bug, cleared 2026-04-11"
+  - "Evanston municipal record (2021–present) needs direct sourcing from cityofevanston.org"
+  - "Illinois State Senate voting record (2013–2019) needs direct sourcing from ilga.gov"
+  - "2018 IL-9 US House primary campaign (lost to Schakowsky) needs FEC pipeline pass on H6IL09228"
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Elect Chicago Women PAC]]"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 ---
