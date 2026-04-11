@@ -3,6 +3,13 @@
 import { useState } from "react"
 import type { Profile } from "@/lib/vault"
 import { readinessColor } from "@/lib/vault"
+import {
+  hasAutoBlock,
+  countTier1InBody,
+  isEnrichedWithin,
+  countMarkdownUrls,
+  countWikilinks,
+} from "@/lib/checklist-helpers"
 
 interface ChecklistItem {
   id: string
@@ -16,9 +23,9 @@ interface ChecklistItem {
 function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
   const common: ChecklistItem[] = [
     { id: "fec-data", label: "FEC fundraising data", pipeline: "fec", check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec-fundraising") || raw.includes("<!-- auto:fec-politician") },
-    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || (raw.match(/\(Tier 1\)/g) || []).length >= 2 },
+    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
     { id: "connections", label: "Connections mapped (donors + related)", check: (p) => !!(p.related || p.donors) },
-    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
+    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => isEnrichedWithin(p, 90) },
     { id: "contradiction-review", label: "Contradiction investigation complete (Research Claude)", check: (_, raw) => raw.includes("[!contradiction-cleared]") || !raw.includes("[!contradiction]") },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ]
@@ -69,9 +76,9 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "contribution-amounts", label: "Total contribution amounts", pipeline: "fec", check: (p) => !!p.totalPoliticalSpend || !!p.totalRaised },
     { id: "lobbying", label: "Lobbying spend", pipeline: "lda", check: (p) => !!p.lobbyingSpend, naAllowed: true },
     { id: "sector", label: "Sector classified", check: (p) => !!p.sector },
-    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || (raw.match(/\(Tier 1\)/g) || []).length >= 2 },
+    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
     { id: "connections", label: "Connections mapped", check: (p) => !!(p.related || p.donors) },
-    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
+    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => isEnrichedWithin(p, 90) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   corporation: [
@@ -80,9 +87,9 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "contracts", label: "Federal contracts", pipeline: "usaspending", check: (_, raw) => raw.includes("<!-- auto:usaspending") || raw.includes("<!-- auto:sam-contracts") },
     { id: "sec-filings", label: "SEC filings", pipeline: "sec-edgar", check: (_, raw) => raw.includes("<!-- auto:sec-edgar"), naAllowed: true },
     { id: "regulatory", label: "Regulatory record (EPA/OSHA)", pipeline: "epa-echo", check: (_, raw) => raw.includes("<!-- auto:epa-echo") || raw.includes("<!-- auto:osha"), naAllowed: true },
-    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || (raw.match(/\(Tier 1\)/g) || []).length >= 2 },
+    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
     { id: "connections", label: "Connections mapped", check: (p) => !!(p.related || p.donors) },
-    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
+    { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => isEnrichedWithin(p, 90) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   "media-profile": [
@@ -90,7 +97,7 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "political-lean", label: "Political lean sourced", check: (p) => !!p.category },
     { id: "connected", label: "Connected donors/politicians", check: (p) => !!p.related },
     { id: "platform", label: "Platform documented", check: (p) => !!p.platform },
-    { id: "source-type", label: "1+ Tier 1 source type", pipeline: "fec", check: (p, raw) => (p.sourceTypes || []).length >= 1 || (raw.match(/\(Tier 1\)/g) || []).length >= 1, naAllowed: true },
+    { id: "source-type", label: "1+ Tier 1 source type", pipeline: "fec", check: (p, raw) => (p.sourceTypes || []).length >= 1 || countTier1InBody(raw) >= 1, naAllowed: true },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   "think-tank": [
@@ -98,7 +105,7 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "990-data", label: "990 data (revenue, tax status)", pipeline: "nonprofit-990", check: (p, raw) => !!(p.ein || p.totalRevenue) || raw.includes("<!-- auto:nonprofit-990") },
     { id: "policy-mapped", label: "Policy positions mapped", check: (p) => !!p.related },
     { id: "tax-status", label: "Tax status documented", check: (p) => !!(p.taxStatus || p.nonprofitStatus) },
-    { id: "source-type", label: "1+ Tier 1 source type", check: (p, raw) => (p.sourceTypes || []).length >= 1 || (raw.match(/\(Tier 1\)/g) || []).length >= 1 },
+    { id: "source-type", label: "1+ Tier 1 source type", check: (p, raw) => (p.sourceTypes || []).length >= 1 || countTier1InBody(raw) >= 1 },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   "lobbying-firm": [
@@ -106,35 +113,35 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "lobbying-spend", label: "Lobbying spend totals", pipeline: "lda", check: (p) => !!p.lobbyingSpend },
     { id: "fara", label: "FARA registrations", pipeline: "fara", check: (p, raw) => !!p.faraClients || raw.includes("<!-- auto:fara"), naAllowed: true },
     { id: "revolving-door", label: "Revolving door documented", check: (p) => !!p.revolvingDoorPct, naAllowed: true },
-    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || (raw.match(/\(Tier 1\)/g) || []).length >= 2 },
+    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   pac: [
     { id: "fec-data", label: "FEC fundraising data", pipeline: "fec", check: (_, raw) => raw.includes("<!-- auto:fec") },
     { id: "donors-mapped", label: "Donors mapped", check: (p) => !!p.donors },
     { id: "politicians-funded", label: "Politicians funded", pipeline: "fec", check: (p) => !!p.politiciansFunded || !!p.related },
-    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || (raw.match(/\(Tier 1\)/g) || []).length >= 2 },
+    { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   // Editorial content types — no pipeline enrichment required
   story: [
-    { id: "sourced-urls", label: "Sources cited with URLs", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 1 },
-    { id: "url-threshold", label: "5+ sourced URLs (Report level)", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 5 },
-    { id: "profiles-linked", label: "Profiles linked via wikilinks", check: (_, raw) => (raw.match(/\[\[[^\]]+\]\]/g) || []).length >= 1 },
-    { id: "investigation-level", label: "10+ URLs + 3 Tier 1 (Investigation)", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 10 && (raw.match(/\(Tier 1\)/g) || []).length >= 3, naAllowed: true },
+    { id: "sourced-urls", label: "Sources cited with URLs", check: (_, raw) => countMarkdownUrls(raw) >= 1 },
+    { id: "url-threshold", label: "5+ sourced URLs (Report level)", check: (_, raw) => countMarkdownUrls(raw) >= 5 },
+    { id: "profiles-linked", label: "Profiles linked via wikilinks", check: (_, raw) => countWikilinks(raw) >= 1 },
+    { id: "investigation-level", label: "10+ URLs + 3 Tier 1 (Investigation)", check: (_, raw) => countMarkdownUrls(raw) >= 10 && countTier1InBody(raw) >= 3, naAllowed: true },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   event: [
-    { id: "source-url", label: "Source URL provided", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 1 },
-    { id: "profiles-linked", label: "Profiles linked", check: (_, raw) => (raw.match(/\[\[[^\]]+\]\]/g) || []).length >= 1 },
+    { id: "source-url", label: "Source URL provided", check: (_, raw) => countMarkdownUrls(raw) >= 1 },
+    { id: "profiles-linked", label: "Profiles linked", check: (_, raw) => countWikilinks(raw) >= 1 },
     { id: "date-accurate", label: "Date documented", check: (p) => !!p.lastUpdated },
   ],
   "sub-note": [
-    { id: "sourced", label: "Has sources", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 1 },
-    { id: "profiles-linked", label: "Profiles linked", check: (_, raw) => (raw.match(/\[\[[^\]]+\]\]/g) || []).length >= 1 },
+    { id: "sourced", label: "Has sources", check: (_, raw) => countMarkdownUrls(raw) >= 1 },
+    { id: "profiles-linked", label: "Profiles linked", check: (_, raw) => countWikilinks(raw) >= 1 },
   ],
   "daily-update": [
-    { id: "sourced", label: "Has sources", check: (_, raw) => (raw.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length >= 1 },
+    { id: "sourced", label: "Has sources", check: (_, raw) => countMarkdownUrls(raw) >= 1 },
     { id: "date", label: "Date documented", check: (p) => !!p.lastUpdated },
   ],
 }
@@ -143,7 +150,7 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
 const DEFAULT_CHECKLIST: ChecklistItem[] = [
   { id: "source-type", label: "1+ Tier 1 source type", check: (p) => (p.sourceTypes || []).length >= 1 },
   { id: "connections", label: "Connections mapped", check: (p) => !!(p.related || p.donors) },
-  { id: "enriched", label: "Enriched within 90 days", check: (p) => { if (!p.lastEnriched) return false; return (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000 <= 90 } },
+  { id: "enriched", label: "Enriched within 90 days", check: (p) => isEnrichedWithin(p, 90) },
   { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
 ]
 
