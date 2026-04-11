@@ -54,13 +54,31 @@ const LOG_ROTATE_FILE = LOG_FILE + '.1';
 const LOG_MAX_BYTES = 1024 * 1024; // 1 MB
 const HEALTHCHECKS_URL = process.env.HEALTHCHECKS_PING_URL || '';
 
-// Producer registry
+// Producer registry. Each entry supports:
+//   name:        display name (used in logs)
+//   schedule:    standard 5-field cron expression
+//   script:      path to the producer script (from repo root)
+//   args:        optional CLI args array passed after the script path
+//   timeout_ms:  optional override for the default 60_000ms timeout
 const PRODUCERS = [
   { name: 'voice-drift-detector',       schedule: '*/30 * * * *', script: 'scripts/voice-drift-detector.cjs' },
   { name: 'hallucination-catcher',      schedule: '0 * * * *',    script: 'scripts/hallucination-catcher.cjs' },
   { name: 'promotion-candidate-queue',  schedule: '15 * * * *',   script: 'scripts/promotion-candidate-queue.cjs' },
   { name: 'contradiction-miner',        schedule: '30 */2 * * *', script: 'scripts/contradiction-miner.cjs' },
   { name: 'missing-profile-detector',   schedule: '45 */2 * * *', script: 'scripts/missing-profile-detector.cjs' },
+  // Phase 3 Part 2c: relationship-discovery with --write-edges flag.
+  // Runs every 4 hours at :17 to stagger against the hourly + 2-hourly
+  // producers. 3-minute timeout — the 7-strategy scanner + upsertEdges
+  // on a ~20k-edge JSONL store needs more headroom than the 60-sec
+  // default. Writes discovery-scanner-sourced edges to data/relationships.jsonl
+  // and the existing JSON/markdown reports.
+  {
+    name: 'relationship-discovery',
+    schedule: '17 */4 * * *',
+    script: 'scripts/relationship-discovery.cjs',
+    args: ['--write-edges'],
+    timeout_ms: 180_000,
+  },
 ];
 
 // Serialize execution — never run two producers at once
@@ -120,9 +138,11 @@ function runProducer(producer) {
   return new Promise((resolve) => {
     log(`→ running ${producer.name}`);
     const started = Date.now();
+    const producerArgs = Array.isArray(producer.args) ? producer.args : [];
+    const timeoutMs = typeof producer.timeout_ms === 'number' ? producer.timeout_ms : 60_000;
     let child;
     try {
-      child = spawn('node', [producer.script], {
+      child = spawn('node', [producer.script, ...producerArgs], {
         cwd: ROOT,
         stdio: ['ignore', 'pipe', 'pipe'],
       });
@@ -137,9 +157,9 @@ function runProducer(producer) {
     child.stderr.on('data', (d) => { err += d.toString(); });
 
     const timeout = setTimeout(() => {
-      log(`✗ ${producer.name} timed out after 60s, killing`);
+      log(`✗ ${producer.name} timed out after ${Math.round(timeoutMs / 1000)}s, killing`);
       try { child.kill('SIGKILL'); } catch {}
-    }, 60000);
+    }, timeoutMs);
 
     child.on('close', (code) => {
       clearTimeout(timeout);
