@@ -71,9 +71,7 @@ related: >-
   Capture Disguised as Healthcare Reform]] · [[The HAMP Betrayal - Foaming the
   Runway While 9 Million Homes Were Lost]] · [[The Post-Presidency
   Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Drone
-  Presidency - Seven Countries Bombed and the Peace Prize Paradox]] · [[The All
-  of the Above Betrayal - Climate Rhetoric, Record Oil Production, and Who
-  Funded Both|Climate: All of the Above Betrayal]]
+  Presidency - Seven Countries Bombed and the Peace Prize Paradox]]
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 
