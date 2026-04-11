@@ -228,6 +228,27 @@ function main() {
     // check is the hard gate for story verification.
     if (!isHallucinationScanned(data.type)) continue;
 
+    // Editor-vouched escape hatch. Profiles with `editor-vouched: true` in
+    // their frontmatter are skipped — the author is explicitly vouching that
+    // every claim is supported by the aggregated Sources section at the
+    // bottom, even though no claim has an inline citation within the 150-char
+    // proximity window. This exists for:
+    //   - Editorial long-form stories that cite sources at the end (standard
+    //     magazine format) rather than scattering [links](inline) throughout
+    //   - Synthesis profiles that summarize already-cited Master Profiles
+    //     and link to them via wikilinks
+    //   - Opinion / analytical framings that reference the underlying data
+    //     profiles by wikilink rather than duplicating every URL
+    // DO NOT set this flag on a profile with unsupported original claims —
+    // the pre-commit self-review-mirror and manual review should still catch
+    // anything genuinely fabricated. The flag means "these claims are
+    // sourced; the proximity heuristic is wrong about this file", not "these
+    // claims don't need sources."
+    // shared.cjs's parseFrontmatter returns strings for YAML scalars, so a
+    // YAML `true` comes through as the string "true". Check both forms.
+    const vouched = data['editor-vouched'];
+    if (vouched === true || String(vouched).toLowerCase() === 'true') continue;
+
     const paragraphs = splitIntoParagraphs(body);
     const unsupported = [];
     for (const p of paragraphs) {
