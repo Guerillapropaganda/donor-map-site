@@ -158,6 +158,12 @@ The Donor Map (thedonormap.org) — open-source political donor intelligence dat
 
 **Exception:** Dataview `table` / `query` code blocks inside fenced ```` ```dataview ```` blocks are fine — those are queries, not data storage.
 
+**Exception for generated cache fields.** Frontmatter fields with a `-generated` suffix (e.g. `related-generated`, `top-donors-generated`, `politicians-funded-generated`) are **write-only caches** produced by the Phase 3 relationship categorizer from the canonical store at `data/relationships.jsonl`. They exist so Obsidian's graph view and legacy Quartz components keep working during the Phase 3 migration window.
+
+Never hand-edit a `-generated` field. If you notice drift, the fix is to update the underlying edge in `data/relationships.jsonl` (via the Ops `/relationships` page, the categorizer, or a targeted script) and re-run the cache rebuild. Hand-edits to generated fields will be overwritten on the next run without warning.
+
+**The canonical source for all relationship data is `data/relationships.jsonl`.** The frontmatter `related`, `donors`, `top-donors`, `politicians-funded`, `opposes`, `stories` fields remain readable for now (Phase 3 keeps them in place until downstream consumers are rewired), but **new data should never be written to them**. Add edges through the canonical store. The schema is defined in `scripts/lib/relationship-edge-validator.cjs`; the CJS reader is `scripts/lib/relationships-store.cjs`, the TS mirror is `ops/src/lib/relationships-store.ts`.
+
 ---
 
 **Politician profiles:**
