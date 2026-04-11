@@ -6,6 +6,7 @@ import { usePathname, useRouter } from "next/navigation"
 
 const NAV_ITEMS = [
   { href: "/", label: "Dashboard", icon: "grid" },
+  { href: "/attention", label: "Attention Queue", icon: "target" },
   { href: "/pipelines", label: "Pipelines", icon: "zap" },
   { href: "/signoff-queue", label: "Sign-off Queue", icon: "check" },
   { href: "/notes", label: "Notes & Queues", icon: "clipboard" },
@@ -40,6 +41,7 @@ const ICONS: Record<string, string> = {
   calendar: "M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z",
   check: "M5 13l4 4L19 7",
   terminal: "M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z",
+  target: "M15 12a3 3 0 11-6 0 3 3 0 016 0zM12 4a8 8 0 108 8 8 8 0 00-8-8zm0-2v2m0 16v2m10-10h-2M4 12H2",
 }
 
 interface StatusBadges {

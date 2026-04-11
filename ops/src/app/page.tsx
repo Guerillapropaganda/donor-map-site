@@ -69,10 +69,40 @@ export default function Dashboard() {
     } catch { /* skip */ }
   }
 
+  // Attention Queue — loaded once on mount, displayed in the priority card
+  const [attention, setAttention] = useState<{
+    total: number
+    blocking: number
+    deciding: number
+    compounding: number
+    top3: Array<{ what: string; bucket: string; leverage: number; cost_min: number }>
+  } | null>(null)
+  const loadAttention = async () => {
+    try {
+      const res = await fetch("/api/attention-queue")
+      if (!res.ok) return
+      const d = await res.json()
+      if (d.empty) { setAttention({ total: 0, blocking: 0, deciding: 0, compounding: 0, top3: [] }); return }
+      setAttention({
+        total: d.total,
+        blocking: d.buckets.blocking.length,
+        deciding: d.buckets.deciding.length,
+        compounding: d.buckets.compounding.length,
+        top3: d.ranked.slice(0, 3).map((e: { what: string; bucket: string; leverage: number; cost_min: number }) => ({
+          what: e.what,
+          bucket: e.bucket,
+          leverage: e.leverage,
+          cost_min: e.cost_min,
+        })),
+      })
+    } catch { /* skip */ }
+  }
+
   useEffect(() => {
     loadVault()
     loadActivity()
     loadStatus()
+    loadAttention()
   }, [])
 
   const timeAgo = (ts: string) => {
@@ -176,6 +206,77 @@ export default function Dashboard() {
         ))}
       </div>
 
+      {/* ─── ATTENTION QUEUE — most prominent card on the dashboard ─── */}
+      {/* This is the "start here each morning" card. Every automation
+          script contributes to the queue; David works top-to-bottom and
+          closes the day. Reads /api/attention-queue. */}
+      {attention && (
+        <Link
+          href="/attention"
+          className="block bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4 mb-6 hover:border-[var(--color-text-dim)] transition-colors"
+          style={{ borderLeftWidth: 4, borderLeftColor: attention.blocking > 0 ? "var(--color-red)" : attention.deciding > 0 ? "var(--color-amber)" : "var(--color-green)" }}
+        >
+          <div className="flex items-start justify-between mb-3">
+            <div>
+              <h3 className="text-[11px] uppercase tracking-wider text-[var(--color-text-dim)]">🎯 Attention Queue</h3>
+              <p className="text-[9px] text-[var(--color-text-dim)] mt-0.5">Everything the automation scripts surfaced, ranked by leverage per minute. Start at the top.</p>
+            </div>
+            <div className="text-right">
+              <div className="text-2xl font-bold text-[var(--color-text)]">{attention.total}</div>
+              <div className="text-[8px] text-[var(--color-text-dim)]">total items</div>
+            </div>
+          </div>
+
+          {/* Bucket breakdown */}
+          <div className="flex items-center gap-4 mb-3 text-[10px]">
+            <span className="flex items-center gap-1">
+              <span className="w-2 h-2 rounded-full" style={{ backgroundColor: "var(--color-red)" }} />
+              <span className="text-[var(--color-text-dim)]">Blocking:</span>
+              <span className="font-bold text-[var(--color-red)]">{attention.blocking}</span>
+            </span>
+            <span className="flex items-center gap-1">
+              <span className="w-2 h-2 rounded-full" style={{ backgroundColor: "var(--color-amber)" }} />
+              <span className="text-[var(--color-text-dim)]">Deciding:</span>
+              <span className="font-bold text-[var(--color-amber)]">{attention.deciding}</span>
+            </span>
+            <span className="flex items-center gap-1">
+              <span className="w-2 h-2 rounded-full" style={{ backgroundColor: "var(--color-green)" }} />
+              <span className="text-[var(--color-text-dim)]">Cleanup:</span>
+              <span className="font-bold text-[var(--color-green)]">{attention.compounding}</span>
+            </span>
+          </div>
+
+          {/* Top 3 items preview */}
+          {attention.top3.length > 0 && (
+            <div className="space-y-1 pt-3 border-t border-[var(--color-border)]">
+              <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)] mb-1">Top 3 right now</div>
+              {attention.top3.map((t, i) => {
+                const bucketColor =
+                  t.bucket === "blocking"
+                    ? "var(--color-red)"
+                    : t.bucket === "deciding"
+                    ? "var(--color-amber)"
+                    : "var(--color-green)"
+                return (
+                  <div key={i} className="flex items-center gap-2 text-[10px]">
+                    <span className="w-3 text-[var(--color-text-dim)]">{i + 1}.</span>
+                    <span className="flex-1 text-[var(--color-text)] truncate">{t.what}</span>
+                    <span className="text-[9px]" style={{ color: bucketColor }}>{"★".repeat(t.leverage)}</span>
+                    <span className="text-[9px] text-[var(--color-text-dim)]">~{t.cost_min}m</span>
+                  </div>
+                )
+              })}
+            </div>
+          )}
+
+          {attention.total === 0 && (
+            <div className="text-[10px] text-[var(--color-text-dim)]">
+              Queue is empty. Run <code className="text-[var(--color-steel)]">node scripts/voice-drift-detector.cjs</code> etc. to populate.
+            </div>
+          )}
+        </Link>
+      )}
+
       {/* Vault Health + Pipeline Status + Activity Feed */}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
         {/* Vault Health */}
@@ -228,42 +329,45 @@ export default function Dashboard() {
       {/* These cards surface the new janitor-stamped fields
           (audit-a-plus-passed, cross-vault-triangulation-count,
           anomaly-flags, both-sides-flag) so David doesn't need to
-          hunt through profiles to see queue state. */}
+          hunt through profiles to see queue state.
+          IMPORTANT: parseProfile() in vault.ts maps hyphenated YAML
+          fields to camelCase Profile fields (audit-a-plus-passed →
+          auditAPlusPassed). Access via the camelCase names, not the
+          original YAML keys. */}
       {(() => {
-        const signoffQueue = profiles.filter(p => {
-          const data = p as unknown as Record<string, unknown>
-          return !!data["audit-a-plus-passed"] && data["last-verified-by"] !== "editorial"
-        })
-        const anomalies = profiles
-          .filter(p => {
-            const flags = (p as unknown as Record<string, unknown>)["anomaly-flags"]
-            return Array.isArray(flags) && flags.length > 0
-          })
-        const superConnectors = profiles
-          .map(p => ({
-            p,
-            tri: Number((p as unknown as Record<string, unknown>)["cross-vault-triangulation-count"] || 0),
-          }))
-          .filter(x => x.tri >= 3)
-          .sort((a, b) => b.tri - a.tri)
+        type RawProfile = Profile & {
+          auditAPlusPassed?: string
+          anomalyFlags?: string[]
+          crossVaultTriangulationCount?: number
+          bothSidesFlag?: boolean
+          angle?: string
+          originalFinding?: string
+          exclusiveConnections?: string[]
+        }
+        const rp = profiles as RawProfile[]
+        const signoffQueue = rp.filter(p => !!p.auditAPlusPassed && p.lastVerifiedBy !== "editorial")
+        const anomalies = rp.filter(p => Array.isArray(p.anomalyFlags) && p.anomalyFlags.length > 0)
+        const superConnectors = rp
+          .filter(p => (p.crossVaultTriangulationCount || 0) >= 3)
+          .sort((a, b) => (b.crossVaultTriangulationCount || 0) - (a.crossVaultTriangulationCount || 0))
           .slice(0, 10)
-        const bothSides = profiles.filter(p => (p as unknown as Record<string, unknown>)["both-sides-flag"] === true)
+        const bothSides = rp.filter(p => p.bothSidesFlag === true)
 
-        // Duplicate bioguide check (cheap)
+        // Duplicate bioguide check (cheap) — Profile interface doesn't expose
+        // bioguide-id directly, so cast to any Record to read the raw key.
         const bgCounts: Record<string, number> = {}
         for (const p of profiles) {
-          const bg = (p as unknown as Record<string, unknown>)["bioguide-id"]
+          const raw = p as unknown as Record<string, unknown>
+          const bg = raw["bioguide-id"] || raw.bioguideId
           if (typeof bg === "string" && bg) bgCounts[bg] = (bgCounts[bg] || 0) + 1
         }
         const dupBioguides = Object.values(bgCounts).filter(c => c > 1).length
 
         // Stale verified (>90 days)
-        const stale = profiles.filter(p => {
-          const data = p as unknown as Record<string, unknown>
-          if (data["content-readiness"] !== "verified") return false
-          const le = data["last-enriched"]
-          if (!le || typeof le !== "string") return false
-          const days = (Date.now() - new Date(le).getTime()) / 86400000
+        const stale = rp.filter(p => {
+          if (p.contentReadiness !== "verified") return false
+          if (!p.lastEnriched) return false
+          const days = (Date.now() - new Date(p.lastEnriched).getTime()) / 86400000
           return days > 90
         })
 
