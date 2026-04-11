@@ -65,6 +65,7 @@ export interface Task {
   status: "pending" | "in_progress" | "done" | "blocked"
   notes?: string
   completed_date?: string
+  completed_at?: string  // ISO 8601 timestamp with time component; preferred over completed_date when present
   blocker?: string
   target?: number | string
   daily_target?: number
