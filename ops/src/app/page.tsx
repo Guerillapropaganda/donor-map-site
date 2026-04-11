@@ -31,7 +31,11 @@ export default function Dashboard() {
   const [lastRefresh, setLastRefresh] = useState<Date | null>(null)
   const [activity, setActivity] = useState<ActivityItem[]>([])
   const [activityFilter, setActivityFilter] = useState("all")
-  const [statusData, setStatusData] = useState<{ alerts?: { critical: number }; suggestions?: { highPending: number }; notes?: { open: number } }>({})
+  const [statusData, setStatusData] = useState<{
+    alerts?: { critical: number; warning?: number }
+    suggestions?: { highPending: number }
+    notes?: { open: number }
+  }>({})
 
   const loadVault = (refresh = false) => {
     setLoading(true)
@@ -188,7 +192,19 @@ export default function Dashboard() {
           { label: "Run Scan", desc: `${statusData.suggestions?.highPending || 0} high pending`, icon: "M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z", color: "#22c55e", href: "/relationships" },
           { label: "Check URLs", desc: "Triage broken links", icon: "M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9", color: "#5b8dce", href: "/urls" },
           { label: "Enrich Profiles", desc: "Run pipelines", icon: "M13 10V3L4 14h7v7l9-11h-7z", color: "#f59e0b", href: "/pipelines" },
-          { label: "View Alerts", desc: `${statusData.alerts?.critical || 0} critical`, icon: "M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9", color: "#ef4444", href: "/alerts" },
+          {
+            label: "View Alerts",
+            desc: (() => {
+              const c = statusData.alerts?.critical ?? 0
+              const w = statusData.alerts?.warning ?? 0
+              if (c === 0 && w === 0) return "all clear"
+              if (c === 0) return `${w} warning`
+              return `${c} critical${w > 0 ? `, ${w} warning` : ""}`
+            })(),
+            icon: "M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9",
+            color: "#ef4444",
+            href: "/alerts",
+          },
         ].map(qa => (
           <button key={qa.label} onClick={() => router.push(qa.href)}
             className="flex items-center gap-3 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg hover:border-opacity-50 transition-all text-left group"
