@@ -38,6 +38,18 @@
 const fs = require('fs');
 const path = require('path');
 const { walkDir, parseFrontmatter } = require('./lib/shared.cjs');
+// Shared check helpers — see also ops/src/lib/checklist-helpers.ts
+// These are used by new checks added in plan Step 3 (committee cross-ref,
+// legal review, both-sides detection). Existing zombie/missing-block
+// checks continue to use the janitor's local hasAnyBlock() for now.
+const {
+  hasAutoBlock,
+  hasAnyAutoBlock,
+  countTier1InBody,
+  isEnrichedWithin,
+  runLegalReviewCheck,
+  detectBothSidesEntities,
+} = require('./lib/checklist-helpers.cjs');
 
 // ─── Config ────────────────────────────────────────────────────
 
