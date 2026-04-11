@@ -3,6 +3,7 @@ import path from "path"
 import matter from "gray-matter"
 import type { Profile } from "./vault"
 import { completenessScore, countSources } from "./vault"
+import { resolveTopLevelType } from "./profile-type-rulebook"
 
 // Resolve the vault content directory — works from ops/ or repo root
 function getContentDir(): string {
@@ -147,7 +148,12 @@ function profileFromFile(filePath: string, fullPath: string): Profile {
       editorialSignoffData: data["editorial-signoff-data"],
       editorialSignoffNarrative: data["editorial-signoff-narrative"],
     }
-    profile.completeness = completenessScore(profile, content)
+    // Phase 1d: resolve the flat profile type to its top-level rulebook type
+    // so completenessScore() can apply type-aware weights. resolveTopLevelType
+    // falls through to null on unknown types; completenessScore handles that
+    // via DEFAULT_WEIGHTS.
+    const topLevel = resolveTopLevelType(profile.type)
+    profile.completeness = completenessScore(profile, content, topLevel)
     return profile
   } catch {
     // File read failed — return path-derived data
