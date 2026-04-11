@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { useRouter } from "next/navigation"
+import Link from "next/link"
 import type { Profile, VaultStats } from "@/lib/vault"
 import { StatsBar } from "@/components/StatsBar"
 import { VaultGrid } from "@/components/VaultGrid"
@@ -222,6 +223,146 @@ export default function Dashboard() {
         <ContentBreakdown profiles={profiles} />
         <TypeBreakdown stats={stats} />
       </div>
+
+      {/* ─── S-TIER INSIGHTS — added 2026-04-11 ─────────────────── */}
+      {/* These cards surface the new janitor-stamped fields
+          (audit-a-plus-passed, cross-vault-triangulation-count,
+          anomaly-flags, both-sides-flag) so David doesn't need to
+          hunt through profiles to see queue state. */}
+      {(() => {
+        const signoffQueue = profiles.filter(p => {
+          const data = p as unknown as Record<string, unknown>
+          return !!data["audit-a-plus-passed"] && data["last-verified-by"] !== "editorial"
+        })
+        const anomalies = profiles
+          .filter(p => {
+            const flags = (p as unknown as Record<string, unknown>)["anomaly-flags"]
+            return Array.isArray(flags) && flags.length > 0
+          })
+        const superConnectors = profiles
+          .map(p => ({
+            p,
+            tri: Number((p as unknown as Record<string, unknown>)["cross-vault-triangulation-count"] || 0),
+          }))
+          .filter(x => x.tri >= 3)
+          .sort((a, b) => b.tri - a.tri)
+          .slice(0, 10)
+        const bothSides = profiles.filter(p => (p as unknown as Record<string, unknown>)["both-sides-flag"] === true)
+
+        // Duplicate bioguide check (cheap)
+        const bgCounts: Record<string, number> = {}
+        for (const p of profiles) {
+          const bg = (p as unknown as Record<string, unknown>)["bioguide-id"]
+          if (typeof bg === "string" && bg) bgCounts[bg] = (bgCounts[bg] || 0) + 1
+        }
+        const dupBioguides = Object.values(bgCounts).filter(c => c > 1).length
+
+        // Stale verified (>90 days)
+        const stale = profiles.filter(p => {
+          const data = p as unknown as Record<string, unknown>
+          if (data["content-readiness"] !== "verified") return false
+          const le = data["last-enriched"]
+          if (!le || typeof le !== "string") return false
+          const days = (Date.now() - new Date(le).getTime()) / 86400000
+          return days > 90
+        })
+
+        return (
+          <div className="mb-6">
+            <h2 className="text-[9px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">
+              S-Tier Insights
+            </h2>
+            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
+              {/* Sign-off queue — highest priority */}
+              <Link
+                href="/signoff-queue"
+                className="bg-[var(--color-bg-card)] border border-[var(--color-amber)]/40 rounded p-3 hover:border-[var(--color-amber)] transition-colors block"
+              >
+                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                  Ready for sign-off
+                </div>
+                <div className="text-xl font-bold mt-1 text-[var(--color-amber)]">
+                  {signoffQueue.length}
+                </div>
+                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
+                  Click to review →
+                </div>
+              </Link>
+
+              {/* Super-connectors (triangulation) */}
+              <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-3">
+                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                  Super-connectors
+                </div>
+                <div className="text-xl font-bold mt-1 text-[var(--color-purple)]">
+                  {superConnectors.length}
+                </div>
+                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
+                  3+ triangulations
+                </div>
+              </div>
+
+              {/* Anomaly flags */}
+              <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-3">
+                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                  Anomaly flags
+                </div>
+                <div className="text-xl font-bold mt-1" style={{ color: anomalies.length > 0 ? "var(--color-amber)" : "var(--color-text-dim)" }}>
+                  {anomalies.length}
+                </div>
+                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
+                  Cohort outliers
+                </div>
+              </div>
+
+              {/* Both-sides conflicts */}
+              <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-3">
+                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                  Both-sides conflicts
+                </div>
+                <div className="text-xl font-bold mt-1" style={{ color: bothSides.length > 0 ? "var(--color-red)" : "var(--color-text-dim)" }}>
+                  {bothSides.length}
+                </div>
+                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
+                  Same entity in donors + opposes
+                </div>
+              </div>
+
+              {/* Contamination sentinel — must always be 0 */}
+              <div
+                className="bg-[var(--color-bg-card)] rounded p-3 border"
+                style={{ borderColor: dupBioguides > 0 ? "var(--color-red)" : "var(--color-border)" }}
+              >
+                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                  Duplicate bioguides
+                </div>
+                <div
+                  className="text-xl font-bold mt-1"
+                  style={{ color: dupBioguides > 0 ? "var(--color-red)" : "var(--color-green)" }}
+                >
+                  {dupBioguides === 0 ? "✓" : dupBioguides}
+                </div>
+                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
+                  {dupBioguides === 0 ? "Clean" : "CONTAMINATION"}
+                </div>
+              </div>
+
+              {/* Stale A+ */}
+              <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded p-3">
+                <div className="text-[8px] uppercase tracking-wider text-[var(--color-text-dim)]">
+                  Stale A+
+                </div>
+                <div className="text-xl font-bold mt-1" style={{ color: stale.length > 0 ? "var(--color-amber)" : "var(--color-text-dim)" }}>
+                  {stale.length}
+                </div>
+                <div className="text-[7px] text-[var(--color-text-dim)] mt-0.5">
+                  Enriched &gt; 90 days
+                </div>
+              </div>
+            </div>
+          </div>
+        )
+      })()}
 
       {/* Activity Feed */}
       <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4 mb-6">
