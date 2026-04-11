@@ -15,16 +15,21 @@ import { readFile, writeAndPush } from "@/lib/local-write"
  *    `editorial-result: verified-candidate`; only David's sign-off promotes
  *    to `content-readiness: verified`. Do not wire auto-promote logic here
  *    or anywhere upstream.
- * 3. This endpoint commits + pushes via `writeAndPush`. Any failure leaves
+ * 3. `s-tier` requires BOTH janitor audit (audit-s-tier-passed: true) AND
+ *    David's narrative sign-off (editorial-signoff-narrative: YYYY-MM-DD).
+ *    This endpoint validates both are present before allowing promotion.
+ *    Neither alone is sufficient. See content/Vault Rules.md § 2b.
+ * 4. This endpoint commits + pushes via `writeAndPush`. Any failure leaves
  *    local state but not upstream — callers should surface the error.
  */
 
-const VALID_TIERS = ["raw", "draft", "ready", "verified"]
+const VALID_TIERS = ["raw", "draft", "ready", "verified", "s-tier"]
 const TIER_LABELS: Record<string, string> = {
   raw: "D-F",
   draft: "C",
   ready: "B",
   verified: "A+",
+  "s-tier": "S",
 }
 
 export async function POST(request: Request) {
@@ -42,6 +47,37 @@ export async function POST(request: Request) {
     // Read current file
     const content = readFile(filePath)
 
+    // S-tier promotion gate: requires both janitor audit AND David's manual
+    // narrative sign-off. Reject if either is missing. See Vault Rules § 2b.
+    if (newReadiness === "s-tier") {
+      const hasAudit = /^audit-s-tier-passed:\s*true\b/m.test(content)
+      const hasNarrativeSignoff = /^editorial-signoff-narrative:\s*.+$/m.test(content)
+      if (!hasAudit || !hasNarrativeSignoff) {
+        const missing: string[] = []
+        if (!hasAudit) missing.push("audit-s-tier-passed (janitor)")
+        if (!hasNarrativeSignoff) missing.push("editorial-signoff-narrative (David)")
+        return NextResponse.json({
+          error: `S-tier promotion blocked. Missing: ${missing.join(" + ")}. Both are required per Vault Rules § 2b.`,
+          missing,
+        }, { status: 400 })
+      }
+      // Also require the profile has `angle`, `original-finding`, and 3+ exclusive-connections
+      const hasAngle = /^angle:\s*[^\n]+$/m.test(content)
+      const hasOriginalFinding = /^original-finding:\s*[^\n]+$/m.test(content)
+      const hasExclusiveMatch = content.match(/^exclusive-connections:\s*\n((?:\s{2}-\s.+\n)+)/m)
+      const exclusiveCount = hasExclusiveMatch ? (hasExclusiveMatch[1].match(/^\s{2}-\s/gm) || []).length : 0
+      if (!hasAngle || !hasOriginalFinding || exclusiveCount < 3) {
+        const missing: string[] = []
+        if (!hasAngle) missing.push("angle")
+        if (!hasOriginalFinding) missing.push("original-finding")
+        if (exclusiveCount < 3) missing.push(`exclusive-connections (${exclusiveCount}/3 minimum)`)
+        return NextResponse.json({
+          error: `S-tier promotion blocked. Missing or insufficient: ${missing.join(", ")}.`,
+          missing,
+        }, { status: 400 })
+      }
+    }
+
     // Update content-readiness in frontmatter
     let updated = content
     if (/^content-readiness:\s*.+$/m.test(updated)) {
@@ -51,8 +87,8 @@ export async function POST(request: Request) {
       updated = updated.replace(/\n---\n/, `\ncontent-readiness: ${newReadiness}\n---\n`)
     }
 
-    // If promoting to verified, add editorial sign-off
-    if (newReadiness === "verified" && signOff) {
+    // If promoting to verified or s-tier, add editorial sign-off
+    if ((newReadiness === "verified" || newReadiness === "s-tier") && signOff) {
       if (/^last-verified-by:\s*.+$/m.test(updated)) {
         updated = updated.replace(/^last-verified-by:\s*.+$/m, "last-verified-by: editorial")
       } else {
@@ -60,8 +96,8 @@ export async function POST(request: Request) {
       }
     }
 
-    // If demoting from verified, remove sign-off
-    if (newReadiness !== "verified") {
+    // If demoting below verified, remove sign-off
+    if (newReadiness !== "verified" && newReadiness !== "s-tier") {
       updated = updated.replace(/^last-verified-by:\s*.+\n/m, "")
     }
 
