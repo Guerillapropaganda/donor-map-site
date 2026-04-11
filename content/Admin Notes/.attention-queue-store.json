@@ -86,20 +86,6 @@
     },
     {
       "bucket": "deciding",
-      "what": "Geographic Donor Clustering - Where the Money Actually Comes From: 23 unsupported claims",
-      "why": "Ready profile has \"95% of\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Geographic Donor Clustering - Where the Money Actually Comes From.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 23,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
       "what": "Intra-Republican Contradiction Map: 23 unsupported claims",
       "why": "Ready profile has \"$16M\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
       "where": "content/Stories/Published/Intra-Republican Contradiction Map.md",
@@ -109,20 +95,6 @@
       "created": "2026-04-11",
       "metadata": {
         "claimCount": 23,
-        "readiness": "ready"
-      }
-    },
-    {
-      "bucket": "deciding",
-      "what": "Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System: 21 unsupported claims",
-      "why": "Ready profile has \"$3.87 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Cross-Politician Analysis/Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md",
-      "cost_min": 15,
-      "leverage": 3,
-      "source": "hallucination-catcher",
-      "created": "2026-04-11",
-      "metadata": {
-        "claimCount": 21,
         "readiness": "ready"
       }
     },
@@ -324,9 +296,9 @@
     },
     {
       "bucket": "deciding",
-      "what": "Jeff Yass Follows TikTok Money Across Every Candidate: 13 unsupported claims",
-      "why": "Ready profile has \"$46 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 10 - Jeff Yass Follows TikTok Money Across Every Candidate.md",
+      "what": "Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand: 13 unsupported claims",
+      "why": "Ready profile has \"2022 received\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/Cross-Politician Analysis/Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand.md",
       "cost_min": 15,
       "leverage": 3,
       "source": "hallucination-catcher",
@@ -338,15 +310,43 @@
     },
     {
       "bucket": "deciding",
-      "what": "Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand: 13 unsupported claims",
-      "why": "Ready profile has \"2022 received\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
-      "where": "content/Stories/Published/Cross-Politician Analysis/Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand.md",
-      "cost_min": 15,
+      "what": "American Farm Bureau Federation: 12 unsupported claims",
+      "why": "Ready profile has \"$732 million\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md",
+      "cost_min": 14,
       "leverage": 3,
       "source": "hallucination-catcher",
       "created": "2026-04-11",
       "metadata": {
-        "claimCount": 13,
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Kenneth Griffin: 12 unsupported claims",
+      "why": "Ready profile has \"8% increase\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
+        "readiness": "ready"
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "2026 House Money Map: 12 unsupported claims",
+      "why": "Ready profile has \"2024 cycle, UDP spent\" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.",
+      "where": "content/Stories/Published/2026 House Races/2026 House Money Map.md",
+      "cost_min": 14,
+      "leverage": 3,
+      "source": "hallucination-catcher",
+      "created": "2026-04-11",
+      "metadata": {
+        "claimCount": 12,
         "readiness": "ready"
       }
     }

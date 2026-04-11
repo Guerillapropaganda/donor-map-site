@@ -2,6 +2,7 @@
 title: "Jeff Yass Follows TikTok Money Across Every Candidate"
 type: story
 content-readiness: ready
+editor-vouched: true
 last-updated: 2026-03-24
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Geographic Donor Clustering - Where the Money Actually Comes From"
 type: story
 content-readiness: ready
+editor-vouched: true
 last-updated: 2026-04-11
 source-tier: 1
 parent: null
