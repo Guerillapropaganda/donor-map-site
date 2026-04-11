@@ -10,7 +10,7 @@ generated-by: scripts/missing-profile-detector.cjs
 
 # Missing Profiles
 
-81 entities are referenced via wikilinks from 3+ other profiles but don't have their own profile file yet. Ranked by how many unique profiles reference them — the ones at the top are the highest-leverage builds.
+80 entities are referenced via wikilinks from 3+ other profiles but don't have their own profile file yet. Ranked by how many unique profiles reference them — the ones at the top are the highest-leverage builds.
 
 ## Top 50
 
@@ -67,7 +67,7 @@ generated-by: scripts/missing-profile-detector.cjs
 | 49 | **Restaurant & Food Industry** | 3 | Meatpacking Corporations, Walmart, 2026-04-03 Link Audit |
 | 50 | **American Homes 4 Rent** | 3 | Invitation Homes - Institutional Landlords, National Rental Home Council, 2026-04-03 Link Audit |
 
-_...and 31 more below the fold._
+_...and 30 more below the fold._
 
 ## How to resolve
 

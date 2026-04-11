@@ -12,22 +12,13 @@ generated-by: scripts/lib/attention-queue.cjs
 
 *Auto-generated. Every script that finds something worth your time writes to this file.*
 
-**30** blocking · **50** editorial decisions · **15** background cleanup
+**29** blocking · **50** editorial decisions · **15** background cleanup
 
 ---
 
 ## 🔴 Blocking
 
 *Something is broken or will break soon. These block other work — handle first.*
-
-### Economic Policy Institute: voice rule violations
-
-Ready profile contains 41 em dashes in body, 1x "in the realm of". These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/Economic Policy Institute.md`
-- **Cost:** ~3 min
-- **Leverage:** ★★★★★
-- **Surfaced by:** `voice-drift-detector`
 
 ### The 22 Million Dollar Confirmation and the McConnell Precedent Reversal: voice rule violations
 
@@ -384,7 +375,124 @@ This profile passed every automated A+ check. Only David's sign-off (janitor sta
 - **Leverage:** ★★★★★
 - **Surfaced by:** `promotion-candidate-queue`
 
-### Raytheon (RTX Corporation): 96 unsupported claims
+### Lennar Corporation: 8 unsupported claims
+
+Ready profile has "30% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Real Estate/Lennar Corporation.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### CalPERS: 8 unsupported claims
+
+Ready profile has "40% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/CalPERS.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Goldman Sachs: 8 unsupported claims
+
+Ready profile has "$3.5 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Goldman Sachs.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Tenet Media: 8 unsupported claims
+
+Ready profile has "$10 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Media & Influence Pipeline/Right/Tenet Media.md`
+- **Cost:** ~10 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Walmart: 9 unsupported claims
+
+Ready profile has "73% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Wall Street/Walmart.md`
+- **Cost:** ~11 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media: 9 unsupported claims
+
+Ready profile has "25% cut" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Media & Influence Pipeline/The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media.md`
+- **Cost:** ~11 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Lyft: 10 unsupported claims
+
+Ready profile has "$49.0 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Gig Economy/Lyft.md`
+- **Cost:** ~12 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Dave Rubin: 10 unsupported claims
+
+Ready profile has "2016-2018):** After going independent, The Rubin Report received" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Media & Influence Pipeline/Right/Dave Rubin.md`
+- **Cost:** ~12 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Elon Musk: 11 unsupported claims
+
+Ready profile has "$5.9 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Elon Musk.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Atlantic Council: 11 unsupported claims
+
+Ready profile has "$69.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Atlantic Council.md`
+- **Cost:** ~13 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### American Farm Bureau Federation: 12 unsupported claims
+
+Ready profile has "$732 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Kenneth Griffin: 12 unsupported claims
+
+Ready profile has "8% increase" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md`
+- **Cost:** ~14 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Heritage Foundation: 30 unsupported claims
+
+Ready profile has "60% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+
+- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md`
+- **Cost:** ~15 min
+- **Leverage:** ★★★☆☆
+- **Surfaced by:** `hallucination-catcher`
+
+### Raytheon (RTX Corporation): 25 unsupported claims
 
 Ready profile has "$88.6 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
@@ -393,88 +501,25 @@ Ready profile has "$88.6 billion" in the (no section) section with no source lin
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Heritage Foundation: 78 unsupported claims
+### AIPAC - American Israel Public Affairs Committee: 25 unsupported claims
 
-Ready profile has "$133.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Heritage Foundation.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Atlantic Council: 70 unsupported claims
-
-Ready profile has "$69.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Atlantic Council.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Aspen Institute: 66 unsupported claims
-
-Ready profile has "$443.8 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Aspen Institute.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### GEO Group - Private Prison Industrial Complex: 65 unsupported claims
-
-Ready profile has "70%" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Carceral State/GEO Group.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### American Petroleum Institute: 53 unsupported claims
-
-Ready profile has "$252.3 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Newsmax: 50 unsupported claims
-
-Ready profile has "$20 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Media & Influence Pipeline/Right/Newsmax.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### AIPAC - American Israel Public Affairs Committee: 49 unsupported claims
-
-Ready profile has "$5 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$126.9 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Israel Lobby/AIPAC - American Israel Public Affairs Committee.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Elon Musk: 48 unsupported claims
+### GEO Group - Private Prison Industrial Complex: 24 unsupported claims
 
-Ready profile has "$38 Billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "70% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Elon Musk.md`
+- **Where:** `content/Donors & Power Networks/Carceral State/GEO Group.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### American Enterprise Institute: 47 unsupported claims
-
-Ready profile has "$20 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/American Enterprise Institute.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### UAW - United Auto Workers: 46 unsupported claims
+### UAW - United Auto Workers: 20 unsupported claims
 
 Ready profile has "$6.2 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
@@ -483,128 +528,74 @@ Ready profile has "$6.2 million" in the (no section) section with no source link
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### David Sacks: 44 unsupported claims
+### Mark Zuckerberg: 20 unsupported claims
 
-Ready profile has "$1.2 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/David Sacks.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Rumble: 43 unsupported claims
-
-Ready profile has "900%" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Media & Influence Pipeline/Right/Rumble.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Mercatus Center: 43 unsupported claims
-
-Ready profile has "$39.3M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Mercatus Center.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Mark Zuckerberg: 40 unsupported claims
-
-Ready profile has "58%" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "58% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
 - **Where:** `content/Donors & Power Networks/Mega-Donors/Mark Zuckerberg.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Democracy Alliance: 39 unsupported claims
+### American Action Network: 17 unsupported claims
 
-Ready profile has "$500K" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$170 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Donors & Power Networks/Dark Money/Democracy Alliance.md`
+- **Where:** `content/Donors & Power Networks/Dark Money/American Action Network.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Sixteen Thirty Fund: 39 unsupported claims
+### Rumble: 17 unsupported claims
 
-Ready profile has "$180M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "900% increase" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Donors & Power Networks/Dark Money/Sixteen Thirty Fund.md`
+- **Where:** `content/Media & Influence Pipeline/Right/Rumble.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Walmart: 39 unsupported claims
+### Eli Lilly: 16 unsupported claims
 
-Ready profile has "$432 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "90% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Donors & Power Networks/Wall Street/Walmart.md`
+- **Where:** `content/Donors & Power Networks/Pharma & Healthcare/Eli Lilly.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Third Way: 38 unsupported claims
+### Chevron: 14 unsupported claims
 
-Ready profile has "$31.7 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$90 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Think Tanks & Policy Infrastructure/Centrist/Third Way.md`
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/Chevron.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### David Pakman: 37 unsupported claims
+### Uber: 14 unsupported claims
 
-Ready profile has "$600K" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "2020, shortly after Prop 22 passed" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Media & Influence Pipeline/Left/David Pakman.md`
+- **Where:** `content/Donors & Power Networks/Gig Economy/Uber.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Kyle Kulinski: 35 unsupported claims
+### Stand Together: 13 unsupported claims
 
-Ready profile has "$300K" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "$578 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Media & Influence Pipeline/Left/Kyle Kulinski.md`
+- **Where:** `content/Donors & Power Networks/Dark Money/Stand Together.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`
 
-### Cato Institute: 34 unsupported claims
+### American Petroleum Institute: 13 unsupported claims
 
-Ready profile has "97%" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
+Ready profile has "86.4% of" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
 
-- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Cato Institute.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Center on Budget and Policy Priorities: 34 unsupported claims
-
-Ready profile has "$52.5 million" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Liberal/Center on Budget and Policy Priorities.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Bernard Marcus: 31 unsupported claims
-
-Ready profile has "$10.3 billion" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Donors & Power Networks/Mega-Donors/Bernard Marcus.md`
-- **Cost:** ~15 min
-- **Leverage:** ★★★☆☆
-- **Surfaced by:** `hallucination-catcher`
-
-### Heartland Institute: 30 unsupported claims
-
-Ready profile has "$100M" in the (no section) section with no source link in the same paragraph. Needs a citation before promotion to A+.
-
-- **Where:** `content/Think Tanks & Policy Infrastructure/Conservative/Heartland Institute.md`
+- **Where:** `content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md`
 - **Cost:** ~15 min
 - **Leverage:** ★★★☆☆
 - **Surfaced by:** `hallucination-catcher`

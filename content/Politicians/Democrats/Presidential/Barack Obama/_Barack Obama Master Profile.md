@@ -2,7 +2,7 @@
 title: Barack Obama Master Profile
 type: politician
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: '2026-04-11'
 source-tier: 1
 parent: null
 party: Democrat
@@ -37,20 +37,44 @@ top-donors:
   - Apple
 fec-candidate-id: S6CA00808
 opposes: '[[Donald Trump Master Profile]]'
-stories: '[[Pharmaceutical: The PhRMA Deal]]'
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+stories: >-
+  [[Pharmaceutical: The PhRMA Deal]] · [[Civil Rights: The Ceiling]] ·
+  [[Infrastructure: The Shovel-Ready Betrayal]] · [[Education: Race to the Top]]
+  · [[Climate: All of the Above Betrayal]] · [[The Drone Presidency - Seven
+  Countries Bombed and the Peace Prize Paradox]] · [[The Post-Presidency
+  Capitalization - From Hope and Change to Martha's Vineyard]] · [[The HAMP
+  Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The ACA -
+  Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Bank
+  Bailout and the Prosecution That Never Came]] · [[ACA and the Insurance
+  Industry Negotiation]] · [[Dodd-Frank and the Wall Street Bailout]] · [[DACA
+  and the Limits of Executive Action]] · [[The Deportation Machine - Obama to
+  Biden and the Apparatus Trump Inherited]] · [[Barack Obama Executive Orders
+  Timeline]] · [[Barack Obama Donor Network - The Full Map]] · [[Organizing for
+  Action]] · [[Term 1 vs Term 2 - Obama Comparison]]
+internal-notes: >-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
+  VOTING data is missing entirely. This profile was promoted to ready without
+  ever having voting enrichment run on it. • CONGRESS data is missing entirely.
+  This profile was promoted to ready without ever having congress enrichment run
+  on it. The needs-reenrichment flag has been set. The next scheduled pipeline
+  run will pick it up automatically.
 
-[URL Check 2026-04-08] 15 checked: 12 ok, 3 broken, 0 slow. | BROKEN: OpenSecrets: Obama 2008 Top Contributors | BROKEN: Health Affairs: The Origins And Demise Of The Public Option | BROKEN: Medium/OpenSecrets: Obama-tied operatives and Biden supporters launch $60 million 'dark money' group"
+  [URL Check 2026-04-08] 15 checked: 12 ok, 3 broken, 0 slow. | BROKEN:
+  OpenSecrets: Obama 2008 Top Contributors | BROKEN: Health Affairs: The Origins
+  And Demise Of The Public Option | BROKEN: Medium/OpenSecrets: Obama-tied
+  operatives and Biden supporters launch $60 million 'dark money' group
 executive-orders: 294
 presidential-memoranda: 257
 proclamations: 1230
-last-enriched: "2026-04-08"
+last-enriched: '2026-04-08'
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline"
-related: "[[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] · [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth Group - Optum]] · [[Democracy Alliance]] · [[Organizing for Action]] · [[Barack Obama Donor Network - The Full Map]] · [[Barack Obama Executive Orders Timeline]] · [[Term 1 vs Term 2 - Obama Comparison]] · [[The Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] · [[DACA and the Limits of Executive Action]] · [[Dodd-Frank and the Wall Street Bailout]] · [[ACA and the Insurance Industry Negotiation]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The HAMP Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The Drone Presidency - Seven Countries Bombed and the Peace Prize Paradox]] · [[The All of the Above Betrayal - Climate Rhetoric, Record Oil Production, and Who Funded Both|Climate: All of the Above Betrayal]] · [[Race to the Top - Charter Mandates, Hedge Fund Reformers, and the Union Coalition Obama Broke|Education: Race to the Top]] · [[The Shovel-Ready Betrayal - ARRA Infrastructure, the Solyndra Donor Scandal, and Eight Years at D+|Infrastructure: The Shovel-Ready Betrayal]] · [[The Civil Rights Ceiling - Marriage Equality, Mass Incarceration, and the First Step Act Obama Never Took|Civil Rights: The Ceiling]]"
+reenrich-reason: run voting pipeline; run congress pipeline
+related: >-
+  [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy
+  Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom
+  Master Profile]] · [[Apple]] · [[Tim Geithner]] · [[Larry Summers]] ·
+  [[Insurance Industry Bloc]] · [[Pharmaceutical Industry]] · [[UnitedHealth
+  Group - Optum]] · [[Democracy Alliance]]
 ---
 #obama #master-profile #president #illinois #senate #class-analysis #follow-the-money #wall-street #silicon-valley #healthcare-donor-capture #two-audience-problem
 

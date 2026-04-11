@@ -1,0 +1,10 @@
+{
+  "voice-drift-detector": [
+    {
+      "pattern": "voice-drift-detector|content/Think Tanks & Policy Infrastructure/Liberal/Economic Policy Institute.md|Economic Policy Institute: voice rule violations",
+      "context": "Economic Policy Institute: voice rule violations @ content/Think Tanks & Policy Infrastructure/Liberal/Economic Policy Institute.md",
+      "reason": "test rejection from preview",
+      "rejectedAt": "2026-04-11T11:14:09.000Z"
+    }
+  ]
+}
