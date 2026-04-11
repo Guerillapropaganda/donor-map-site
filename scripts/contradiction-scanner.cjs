@@ -11,17 +11,36 @@
  *   3. Cross-reference mismatches — A lists B as donor, B doesn't list A
  *   4. Opposition gaps — adversarial connections miscategorized as related
  *
+ * As of Phase 3 Part 2b (2026-04-11), checks 1 and 2 read from the
+ * canonical JSONL edge store at data/relationships.jsonl via
+ * scripts/lib/relationships-store.cjs instead of walking profile
+ * frontmatter. This is a QUERY over existing typed edges, not a producer —
+ * the scanner doesn't create new edges. Bothsides detection becomes:
+ *
+ *   queryEdges({ type: 'monetary' })
+ *     group by from (donor)
+ *     for each donor, look up recipient party (via quick politician walk)
+ *     if donor's recipients include both Dem and Rep → bothsides result
+ *
+ * Checks 3 and 4 still walk profile frontmatter because they're
+ * FRONTMATTER INTEGRITY linters — they catch the exact kind of bidirectional
+ * drift that the JSONL store solves by construction. Once all consumers are
+ * rewired in Phase 3 Parts 3-4, checks 3 and 4 become deprecated — they'll
+ * never fire because every new edge goes through the canonical store.
+ *
  * Usage:
  *   node scripts/contradiction-scanner.cjs                        # full scan
  *   node scripts/contradiction-scanner.cjs --check=shared-donors  # just shared donors
  *   node scripts/contradiction-scanner.cjs --check=both-sides     # just both-sides
- *   node scripts/contradiction-scanner.cjs --check=crossref       # just cross-ref
- *   node scripts/contradiction-scanner.cjs --check=opposition     # just opposition gaps
+ *   node scripts/contradiction-scanner.cjs --check=crossref       # just cross-ref (frontmatter)
+ *   node scripts/contradiction-scanner.cjs --check=opposition     # just opposition gaps (frontmatter)
  */
 
 const fs = require('fs');
 const path = require('path');
 const { walkDir, parseFrontmatter, writeReport } = require('./lib/shared.cjs');
+const relationshipsStore = require('./lib/relationships-store.cjs');
+const { normalizeTitle } = require('./lib/relationship-edge-validator.cjs');
 
 const CONTENT_DIR = process.env.CONTENT_DIR || path.join(__dirname, '..', 'content');
 const CHECK_FLAG = process.argv.find(a => a.startsWith('--check='));
@@ -84,110 +103,226 @@ function resolveProfile(name, titleToProfile, cleanTitleToProfile) {
   return titleToProfile.get(name) || cleanTitleToProfile.get(clean) || cleanTitleToProfile.get(name) || null;
 }
 
-// ─── 1. Shared-Donor Contradictions ───────────────────────────
+// ─── Politician metadata loader (for edge-based checks) ──────
 
-function findSharedDonorContradictions(profiles, titleToProfile, cleanTitleToProfile) {
-  console.log('\n═══ Shared-Donor Contradictions ═══');
-  const contradictions = [];
-
-  // Build donor → politicians map
-  const donorToPoliticians = new Map();
-  const politicians = profiles.filter(p => p.type === 'politician');
-
-  for (const pol of politicians) {
-    const allDonorNames = new Set();
-    // From donors: frontmatter
-    for (const d of pol.donors) allDonorNames.add(d.target);
-    // From top-donors: frontmatter
-    for (const d of pol.topDonors) allDonorNames.add(d);
-
-    for (const donorName of allDonorNames) {
-      if (!donorToPoliticians.has(donorName)) donorToPoliticians.set(donorName, []);
-      donorToPoliticians.get(donorName).push(pol);
+/**
+ * Build a map from normalized politician title → { party, state, chamber, path }.
+ * Used by the JSONL-driven bothsides / shared-donor checks — they query
+ * monetary edges from the canonical store but need party metadata to
+ * classify donors as "both sides" or not. Party isn't denormalized on
+ * the edge schema because it's profile-level metadata, not relationship
+ * metadata.
+ *
+ * This is a quick walk (~250 politician profiles out of 1,832 total),
+ * so it's cheap compared to the O(N) frontmatter parse the old scanner
+ * did. It only reads politician files.
+ */
+function loadPoliticianMetadata() {
+  const files = walkDir(CONTENT_DIR, '.md');
+  const byTitle = new Map();
+  for (const filePath of files) {
+    try {
+      const content = fs.readFileSync(filePath, 'utf8');
+      const { data } = parseFrontmatter(content);
+      if (!data || data.type !== 'politician') continue;
+      const rawTitle = data.title;
+      if (!rawTitle) continue;
+      const title = normalizeTitle(rawTitle);
+      if (!title) continue;
+      byTitle.set(title, {
+        title,
+        party: data.party || null,
+        state: data.state || null,
+        chamber: data.chamber || null,
+        path: path.relative(CONTENT_DIR, filePath).replace(/\\/g, '/'),
+        type: 'politician',
+      });
+    } catch {
+      /* skip */
     }
   }
+  return byTitle;
+}
 
-  // Find donors who fund politicians that oppose each other
-  for (const [donorName, pols] of donorToPoliticians) {
-    if (pols.length < 2) continue;
+/**
+ * Build a map from normalized donor/entity title → { type, path } so
+ * the bothsides report can tag each donor with its profile type
+ * (donor vs corporation vs pac vs lobbying-firm etc).
+ */
+function loadDonorEntityMetadata() {
+  const files = walkDir(CONTENT_DIR, '.md');
+  const byTitle = new Map();
+  const DONOR_LIKE = new Set([
+    'donor',
+    'corporation',
+    'pac',
+    'lobbying-firm',
+    'think-tank',
+    'media-profile',
+    'entity',
+  ]);
+  for (const filePath of files) {
+    try {
+      const content = fs.readFileSync(filePath, 'utf8');
+      const { data } = parseFrontmatter(content);
+      if (!data || !data.type) continue;
+      if (!DONOR_LIKE.has(data.type)) continue;
+      const rawTitle = data.title;
+      if (!rawTitle) continue;
+      const title = normalizeTitle(rawTitle);
+      if (!title) continue;
+      byTitle.set(title, {
+        title,
+        type: data.type,
+        sector: data.sector || null,
+        path: path.relative(CONTENT_DIR, filePath).replace(/\\/g, '/'),
+      });
+    } catch {
+      /* skip */
+    }
+  }
+  return byTitle;
+}
 
-    for (let i = 0; i < pols.length; i++) {
-      for (let j = i + 1; j < pols.length; j++) {
-        const a = pols[i];
-        const b = pols[j];
+// ─── 1. Shared-Donor Contradictions (Phase 3 Part 2b — reads JSONL) ─
 
-        // Check if they directly oppose each other
-        const aOpposesB = a.opposes.some(o => {
-          const resolved = resolveProfile(o.target, titleToProfile, cleanTitleToProfile);
-          return resolved && resolved.title === b.title;
-        });
-        const bOpposesA = b.opposes.some(o => {
-          const resolved = resolveProfile(o.target, titleToProfile, cleanTitleToProfile);
-          return resolved && resolved.title === a.title;
-        });
+/**
+ * Find donors whose monetary edges touch politicians that are connected
+ * by a political-opposition edge. Fully driven by data/relationships.jsonl:
+ *
+ *   1. Group all monetary edges by `from` (donor).
+ *   2. For each donor with 2+ recipients, enumerate pairs.
+ *   3. For each pair (A, B), check the store for a political-opposition
+ *      edge between A and B (in either direction).
+ *   4. If yes, emit an opposition-funded contradiction.
+ *
+ * This replaces the old walk-frontmatter-and-parse-wikilinks approach.
+ * The old version had to build its own donor→politicians map from
+ * `donors:` / `top-donors:` fields; the new version reads the canonical
+ * edge store where every monetary edge is already typed and indexed.
+ */
+function findSharedDonorContradictions(politicianMeta) {
+  console.log('\n═══ Shared-Donor Contradictions (via JSONL) ═══');
+  const contradictions = [];
 
-        if (aOpposesB || bOpposesA) {
+  // Load edges once — cached in module scope by relationships-store.cjs
+  const monetary = relationshipsStore.queryEdges({ type: 'monetary' });
+  const opposition = relationshipsStore.queryEdges({ type: 'political-opposition' });
+
+  // Build fast lookup: for each unordered pair {A, B}, does an opposition edge exist?
+  const oppositionPairs = new Set();
+  for (const e of opposition) {
+    const a = e.from;
+    const b = e.to;
+    if (!a || !b) continue;
+    const key = a < b ? `${a}||${b}` : `${b}||${a}`;
+    oppositionPairs.add(key);
+  }
+
+  // Group monetary edges by donor (`from`)
+  const donorToRecipients = new Map();
+  for (const e of monetary) {
+    if (!e.from || !e.to) continue;
+    // Only count edges whose recipient is a politician with known party
+    const meta = politicianMeta.get(e.to);
+    if (!meta || !meta.party) continue;
+    if (!donorToRecipients.has(e.from)) donorToRecipients.set(e.from, []);
+    donorToRecipients.get(e.from).push(meta);
+  }
+
+  for (const [donorName, recipients] of donorToRecipients) {
+    if (recipients.length < 2) continue;
+    for (let i = 0; i < recipients.length; i++) {
+      for (let j = i + 1; j < recipients.length; j++) {
+        const a = recipients[i];
+        const b = recipients[j];
+        if (a.title === b.title) continue;
+        const key = a.title < b.title ? `${a.title}||${b.title}` : `${b.title}||${a.title}`;
+        if (oppositionPairs.has(key)) {
           contradictions.push({
             type: 'opposition-funded',
             donor: donorName,
-            politician1: { title: a.title, party: a.party, path: a.relPath },
-            politician2: { title: b.title, party: b.party, path: b.relPath },
-            direction: aOpposesB && bOpposesA ? 'mutual' : aOpposesB ? `${a.title} opposes ${b.title}` : `${b.title} opposes ${a.title}`,
+            politician1: { title: a.title, party: a.party, path: a.path },
+            politician2: { title: b.title, party: b.party, path: b.path },
+            direction: 'opposition-edge-exists',
           });
         }
       }
     }
   }
 
+  console.log(`  Monetary edges loaded: ${monetary.length}`);
+  console.log(`  Opposition edges loaded: ${opposition.length}`);
+  console.log(`  Donors with 2+ politician recipients: ${[...donorToRecipients.values()].filter(r => r.length >= 2).length}`);
   console.log(`  Found ${contradictions.length} opposition-funded contradictions`);
   return contradictions;
 }
 
-// ─── 2. Both-Sides Donors ─────────────────────────────────────
+// ─── 2. Both-Sides Donors (Phase 3 Part 2b — reads JSONL) ────
 
-function findBothSidesDonors(profiles, titleToProfile, cleanTitleToProfile) {
-  console.log('\n═══ Both-Sides Donors ═══');
+/**
+ * Find donors whose monetary edges span both Democrat and Republican
+ * recipients. Fully driven by data/relationships.jsonl + the politician
+ * metadata map (for party lookup).
+ *
+ * Story potential heuristic is unchanged from the old version:
+ *   - high:   ≥2 Dems AND ≥2 Reps
+ *   - medium: ≥1 Dem AND ≥1 Rep
+ */
+function findBothSidesDonors(politicianMeta, donorEntityMeta) {
+  console.log('\n═══ Both-Sides Donors (via JSONL) ═══');
   const results = [];
 
-  // Build donor → politicians with party
+  const monetary = relationshipsStore.queryEdges({ type: 'monetary' });
+
+  // Group by donor → { Democrat: [...], Republican: [...], Independent: [...] }
   const donorToPartyPols = new Map();
-  const politicians = profiles.filter(p => p.type === 'politician' && p.party);
-
-  for (const pol of politicians) {
-    const allDonorNames = new Set();
-    for (const d of pol.donors) allDonorNames.add(d.target);
-    for (const d of pol.topDonors) allDonorNames.add(d);
-
-    for (const donorName of allDonorNames) {
-      if (!donorToPartyPols.has(donorName)) donorToPartyPols.set(donorName, { Democrat: [], Republican: [], Independent: [] });
-      const bucket = donorToPartyPols.get(donorName);
-      if (bucket[pol.party]) bucket[pol.party].push(pol);
+  for (const e of monetary) {
+    if (!e.from || !e.to) continue;
+    const meta = politicianMeta.get(e.to);
+    if (!meta || !meta.party) continue;
+    if (!donorToPartyPols.has(e.from)) {
+      donorToPartyPols.set(e.from, { Democrat: [], Republican: [], Independent: [] });
     }
+    const bucket = donorToPartyPols.get(e.from);
+    if (bucket[meta.party]) bucket[meta.party].push(meta);
   }
 
   for (const [donorName, parties] of donorToPartyPols) {
     const dems = parties.Democrat || [];
     const reps = parties.Republican || [];
-    if (dems.length > 0 && reps.length > 0) {
-      const donorProfile = resolveProfile(donorName, titleToProfile, cleanTitleToProfile);
-      results.push({
-        donor: donorName,
-        donorType: donorProfile ? donorProfile.type : 'unknown',
-        donorPath: donorProfile ? donorProfile.relPath : null,
-        democrats: dems.map(p => ({ title: p.title, state: p.state, chamber: p.chamber, path: p.relPath })),
-        republicans: reps.map(p => ({ title: p.title, state: p.state, chamber: p.chamber, path: p.relPath })),
-        totalFunded: dems.length + reps.length,
-        storyPotential: dems.length >= 2 && reps.length >= 2 ? 'high' : dems.length >= 1 && reps.length >= 1 ? 'medium' : 'low',
-      });
-    }
+    if (dems.length === 0 || reps.length === 0) continue;
+
+    // Dedupe recipients per party — a donor may have multiple monetary
+    // edges to the same politician (different cycles), but for
+    // storytelling we want one row per recipient.
+    const uniqueDems = [...new Map(dems.map((p) => [p.title, p])).values()];
+    const uniqueReps = [...new Map(reps.map((p) => [p.title, p])).values()];
+
+    const donorProfile = donorEntityMeta.get(donorName) || null;
+    results.push({
+      donor: donorName,
+      donorType: donorProfile ? donorProfile.type : 'unknown',
+      donorPath: donorProfile ? donorProfile.path : null,
+      democrats: uniqueDems.map((p) => ({ title: p.title, state: p.state, chamber: p.chamber, path: p.path })),
+      republicans: uniqueReps.map((p) => ({ title: p.title, state: p.state, chamber: p.chamber, path: p.path })),
+      totalFunded: uniqueDems.length + uniqueReps.length,
+      storyPotential:
+        uniqueDems.length >= 2 && uniqueReps.length >= 2
+          ? 'high'
+          : uniqueDems.length >= 1 && uniqueReps.length >= 1
+          ? 'medium'
+          : 'low',
+    });
   }
 
-  // Sort by total funded descending
   results.sort((a, b) => b.totalFunded - a.totalFunded);
 
+  console.log(`  Monetary edges loaded: ${monetary.length}`);
+  console.log(`  Donors with ≥1 recipient: ${donorToPartyPols.size}`);
   console.log(`  Found ${results.length} both-sides donors`);
-  console.log(`  High story potential: ${results.filter(r => r.storyPotential === 'high').length}`);
-  console.log(`  Medium story potential: ${results.filter(r => r.storyPotential === 'medium').length}`);
+  console.log(`  High story potential: ${results.filter((r) => r.storyPotential === 'high').length}`);
+  console.log(`  Medium story potential: ${results.filter((r) => r.storyPotential === 'medium').length}`);
   return results;
 }
 
@@ -377,28 +512,68 @@ function main() {
   console.log(`Scanning: ${CONTENT_DIR}`);
   console.log(`Check: ${CHECK}`);
 
-  const { profiles, titleToProfile, cleanTitleToProfile } = loadVault();
-  console.log(`Loaded ${profiles.length} profiles`);
-
   let contradictions = [];
   let bothSides = [];
   let mismatches = [];
   let gaps = [];
 
-  if (CHECK === 'all' || CHECK === 'shared-donors') {
-    contradictions = findSharedDonorContradictions(profiles, titleToProfile, cleanTitleToProfile);
-  }
-  if (CHECK === 'all' || CHECK === 'both-sides') {
-    bothSides = findBothSidesDonors(profiles, titleToProfile, cleanTitleToProfile);
-  }
-  if (CHECK === 'all' || CHECK === 'crossref') {
-    mismatches = findCrossRefMismatches(profiles, titleToProfile, cleanTitleToProfile);
-  }
-  if (CHECK === 'all' || CHECK === 'opposition') {
-    gaps = findOppositionGaps(profiles, titleToProfile, cleanTitleToProfile);
+  // Edge-based checks (1 + 2) read from data/relationships.jsonl. Load
+  // politician + donor metadata only if we need them for these checks —
+  // the frontmatter-based checks (3 + 4) bring their own vault walker.
+  const needsEdgeChecks =
+    CHECK === 'all' || CHECK === 'shared-donors' || CHECK === 'both-sides';
+  let politicianMeta = null;
+  let donorEntityMeta = null;
+  if (needsEdgeChecks) {
+    const edgeCount = relationshipsStore.loadEdges().length;
+    console.log(`Loaded ${edgeCount} edges from data/relationships.jsonl`);
+    politicianMeta = loadPoliticianMetadata();
+    console.log(`  Politician metadata: ${politicianMeta.size} profiles`);
+    donorEntityMeta = loadDonorEntityMetadata();
+    console.log(`  Donor/entity metadata: ${donorEntityMeta.size} profiles`);
   }
 
-  const jsonData = { contradictions, bothSides, mismatches, gaps, scannedAt: new Date().toISOString(), profileCount: profiles.length };
+  // Frontmatter-based checks (3 + 4) walk profile frontmatter to catch
+  // bidirectional drift. These are linters, not queries.
+  const needsFrontmatterWalk =
+    CHECK === 'all' || CHECK === 'crossref' || CHECK === 'opposition';
+  let vaultBundle = null;
+  if (needsFrontmatterWalk) {
+    vaultBundle = loadVault();
+    console.log(`Loaded ${vaultBundle.profiles.length} profiles for frontmatter linters`);
+  }
+
+  if (CHECK === 'all' || CHECK === 'shared-donors') {
+    contradictions = findSharedDonorContradictions(politicianMeta);
+  }
+  if (CHECK === 'all' || CHECK === 'both-sides') {
+    bothSides = findBothSidesDonors(politicianMeta, donorEntityMeta);
+  }
+  if (CHECK === 'all' || CHECK === 'crossref') {
+    mismatches = findCrossRefMismatches(
+      vaultBundle.profiles,
+      vaultBundle.titleToProfile,
+      vaultBundle.cleanTitleToProfile
+    );
+  }
+  if (CHECK === 'all' || CHECK === 'opposition') {
+    gaps = findOppositionGaps(
+      vaultBundle.profiles,
+      vaultBundle.titleToProfile,
+      vaultBundle.cleanTitleToProfile
+    );
+  }
+
+  const jsonData = {
+    contradictions,
+    bothSides,
+    mismatches,
+    gaps,
+    scannedAt: new Date().toISOString(),
+    profileCount: vaultBundle ? vaultBundle.profiles.length : null,
+    edgeCount: needsEdgeChecks ? relationshipsStore.loadEdges().length : null,
+    source: 'phase3-part2b',
+  };
   const markdown = generateReport(contradictions, bothSides, mismatches, gaps);
 
   const { jsonPath, mdPath } = writeReport('contradiction-scanner', jsonData, markdown);

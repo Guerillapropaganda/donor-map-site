@@ -180,6 +180,134 @@ function countEdges(opts) {
   return _applyOpts(loadEdges(), opts).length;
 }
 
+/**
+ * Upsert a list of edges into the store.
+ *
+ * Semantics:
+ *   - Each incoming edge is validated against the schema.
+ *   - If an edge with the same id already exists, it is UPDATED:
+ *       * last_verified is set to the new edge's last_verified (or now())
+ *       * if the new edge's confidence is higher, confidence is upgraded
+ *         and source is overwritten with the new source — higher-confidence
+ *         producers (e.g. FEC data) win over lower-confidence producers
+ *         (e.g. frontmatter-migration)
+ *       * non-null fields on the new edge overwrite existing fields
+ *         (amount, cycle, source_url, evidence, role, date_range)
+ *       * first_seen is preserved from the existing edge
+ *   - If no existing edge matches, the new edge is appended.
+ *   - The resulting full store is sorted by id and written atomically
+ *     via tmp+rename to data/relationships.jsonl.
+ *
+ * Validation is delegated to relationship-edge-validator.cjs — any edge
+ * that fails validation is SKIPPED (not thrown). The return value
+ * reports skipped counts so the caller can log them.
+ *
+ * Returns { added, updated, skipped, invalid, total, errors }.
+ */
+function upsertEdges(newEdges) {
+  const { validateEdge } = require('./relationship-edge-validator.cjs');
+
+  const existing = loadEdges();
+  const byId = new Map();
+  for (const e of existing) byId.set(e.id, e);
+
+  let added = 0;
+  let updated = 0;
+  let skipped = 0;
+  let invalid = 0;
+  const errors = [];
+
+  for (const incoming of newEdges) {
+    const result = validateEdge(incoming);
+    if (!result.ok) {
+      invalid++;
+      if (errors.length < 20) {
+        errors.push({
+          id: incoming.id,
+          from: incoming.from,
+          to: incoming.to,
+          type: incoming.type,
+          error: result.errors[0],
+        });
+      }
+      continue;
+    }
+
+    const cur = byId.get(incoming.id);
+    if (!cur) {
+      byId.set(incoming.id, incoming);
+      added++;
+      continue;
+    }
+
+    // Upsert — higher confidence wins on source + confidence fields;
+    // non-null fields on incoming overwrite existing.
+    const merged = { ...cur };
+    merged.last_verified = incoming.last_verified || new Date().toISOString();
+
+    if (typeof incoming.confidence === 'number' && incoming.confidence > (cur.confidence || 0)) {
+      merged.confidence = incoming.confidence;
+      if (incoming.source) merged.source = incoming.source;
+    }
+
+    for (const field of ['amount', 'cycle', 'source_url', 'role', 'date_range']) {
+      if (incoming[field] != null && incoming[field] !== '') {
+        merged[field] = incoming[field];
+      }
+    }
+
+    if (Array.isArray(incoming.evidence) && incoming.evidence.length > 0) {
+      const existingEv = Array.isArray(cur.evidence) ? cur.evidence : [];
+      const seen = new Set(existingEv);
+      const mergedEv = existingEv.slice();
+      for (const ev of incoming.evidence) {
+        if (!seen.has(ev)) {
+          mergedEv.push(ev);
+          seen.add(ev);
+        }
+      }
+      merged.evidence = mergedEv;
+    }
+
+    // Status: if incoming deprecates, respect it; otherwise keep current.
+    if (incoming.status === 'deprecated' || incoming.status === 'disputed') {
+      merged.status = incoming.status;
+    }
+
+    const changed = JSON.stringify(cur) !== JSON.stringify(merged);
+    if (changed) {
+      byId.set(incoming.id, merged);
+      updated++;
+    } else {
+      skipped++;
+    }
+  }
+
+  // Sort by id for stable git diffs
+  const sorted = Array.from(byId.values()).sort((a, b) =>
+    a.id < b.id ? -1 : a.id > b.id ? 1 : 0
+  );
+
+  // Atomic write
+  if (!fs.existsSync(path.dirname(EDGE_FILE))) {
+    fs.mkdirSync(path.dirname(EDGE_FILE), { recursive: true });
+  }
+  const tmp = `${EDGE_FILE}.tmp-${process.pid}-${Date.now()}`;
+  const body = sorted.map((e) => JSON.stringify(e)).join('\n') + '\n';
+  fs.writeFileSync(tmp, body, 'utf-8');
+  fs.renameSync(tmp, EDGE_FILE);
+  clearEdgesCache();
+
+  return {
+    added,
+    updated,
+    skipped,
+    invalid,
+    total: sorted.length,
+    errors,
+  };
+}
+
 module.exports = {
   loadEdges,
   clearEdgesCache,
@@ -189,6 +317,7 @@ module.exports = {
   findEdge,
   queryEdges,
   countEdges,
+  upsertEdges,
   EDGE_FILE,
 };
 

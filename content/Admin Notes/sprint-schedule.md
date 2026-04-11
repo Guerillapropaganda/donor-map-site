@@ -693,6 +693,102 @@ phase_1_tasks:
       notes: |
         Replaced hardcoded type lists and promotion criteria with rulebook reads across all 5 producers. Regression check between each script wiring. Part 2.1 self-review-mirror: nonProfileTypes Set → isVoiceScanned(type) with fallback (4 test cases pass). Part 2.2 voice-drift-detector: skipTypes → isVoiceScanned(type), count 29 → 29. Part 2.3 hallucination-catcher: skipTypes → isHallucinationScanned(type), **story type now scanned** — 12 real story findings in the queue (Cross-Politician Contradiction Map 30 claims, Geographic Donor Clustering 23, etc.). Part 2.4 promotion-candidate-queue: full refactor to resolveChecks() + runCheck() per profile's rulebook, 124 sign-off-only matches baseline, 3 corporations + 7 donors in top 10. Part 2.5 pipeline-janitor: minimal wiring for rulebook-knowable exemptions, legacy federal-pipeline exemptions preserved, dry-run identical to baseline. Also added resolveTopLevelType() helper to the rulebook reader so flat type values (corporation, investigation, admin-note) correctly map to top-level parents (entity, story, meta). Caught a regression in promotion-candidate-queue first cut where corporation profiles were silently dropped — fixed by using resolveTopLevelType before getPromotionGate lookup. Full dispatcher end-to-end verification all green.
 
+    - id: cc_50
+      task: "Phase 2a Part 3: /rules rulebook editor UI in the Ops app"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T12:10:00-07:00"
+      added_adhoc: true
+      commit: "614a62b5"
+      merge: "1924bd2b"
+      deploy: "24289524548"
+      notes: |
+        New /api/rulebook route (GET returns rulebook + valid check-ids + gate enum; POST validates structurally — hex colors, check-ids cross-referenced against checklist-helpers.cjs, gate enum, sub-category override shape — stamps last-updated, atomic tmp+rename write, cache clear). New /rules page: per-type tabs with visual identity editor, voice/hallucination flags, per-tier required/recommended tag lists with check-id autocomplete, promotion gates, sub-category editor with overrides JSON textarea, dirty indicator, reset, save with inline validation. Renamed previous markdown docs viewer /rules → /docs (+ /api/docs). Sidebar gains "Rulebook" (target icon) alongside "System Docs" (book icon). Full preview-verified: 266 check ids loading, 8 types rendered, type tabs reactive, save roundtrip works, validation failures return 422 with precise errors. 1203 insertions, 180 deletions across 5 files.
+
+    - id: cc_51
+      task: "Phase 2a Part 3 followups: turbopack root, checkIds subprocess, rulebook reformat"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T12:25:00-07:00"
+      added_adhoc: true
+      commit: "32c5a8cf"
+      merge: "1bbf436d"
+      deploy: "24289725843"
+      notes: |
+        ops/next.config.js pins turbopack.root = __dirname so dev server runs from a nested worktree (unblocks preview_start for future sessions). ops/src/app/api/rulebook/route.ts swaps dynamic require() of checklist-helpers.cjs for execFileSync('node', ['-e', ...]) subprocess — turbopack was silently eating the require, leaving checkIds: 0 on the GET response. Now surfaces errors as checkIdsError and caches in module scope. config/profile-type-rulebook.json one-time reformat (626+/184−) absorbing the JSON.stringify(null,2) array expansion. All three fixes verified in preview.
+
+    - id: cc_52
+      task: "Phase 3 Part 1: canonical relationship edge store (data/relationships.jsonl)"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T13:20:00-07:00"
+      added_adhoc: true
+      commit: "5ffb2692"
+      merge: "2c89255c"
+      deploy: "24290816976"
+      plan_file: "C:\\Users\\third\\.claude\\plans\\toasty-discovering-dahl.md"
+      notes: |
+        Plan-mode design session + full implementation. New scripts/lib/relationship-edge-validator.cjs (schema, TYPE_META registry with 10 types and their directedness/requires, 15-source enum, 4-status enum, computeEdgeId with per-type key composition, validateEdge with 13 ordered checks, validateFile, buildTitleIndex with resolveTopLevelType integration, normalizeTitle matching shared.cjs convention, MIGRATION_SOURCES allowlist). New scripts/lib/relationships-store.cjs (lazy cache, getEdgesFrom/getEdgesTo/getEdgesByType/findEdge/queryEdges with 9-dimension filter). New ops/src/lib/relationships-store.ts (TypeScript mirror). New scripts/migrate-frontmatter-to-relationships-jsonl.cjs (walks 1857 profiles, 6 frontmatter fields, 12,737 edges emitted, atomic tmp+rename). New scripts/relationship-edge-sentinel.cjs (pre-commit gate 4, only fires on staged JSONL). .husky/pre-commit adds gate 4 after duplicate-bioguide. New data/relationships.jsonl (8 MB, 12,737 edges). CLAUDE.md gains -generated cache field exception. content/Vault Rules.md gains Phase 3 callout. content/Admin Notes/relationship-migration-report.md generated with full accounting. Validator full pass; pre-commit sentinel gate; Quartz build green (1746 → 7142 files, no consumer warnings). Orphan baseline recorded at 4,645 pairs. Cross-type queries: entity→politician monetary = 275, donor→politician monetary = 603.
+
+    - id: cc_53
+      task: "Phase 2b: S-Tier filter + sort in VaultGrid + Readiness Grades stat card row"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T13:40:00-07:00"
+      added_adhoc: true
+      commits: ["eac6fb48", "bfd3d02b"]
+      merge: "ea6d0c2c"
+      notes: |
+        ops/src/lib/vault.ts readinessColor adds s-tier → #a78bfa violet. ops/src/components/VaultGrid.tsx: READINESS_LABELS extends with s-tier at index 4 (sort above verified), nearest-a-plus scorer +2000 bonus, new "S S-Tier" button in grade scroller, progress bar width map redistributed (raw 10 / draft 30 / ready 55 / verified 80 / s-tier 100), legend S Original Investigation chip, on-mount fetch of /api/rulebook builds eligibility set (grey-out when type filter active on ineligible type). Fail-open if rulebook unreachable. ops/src/components/StatsBar.tsx (follow-up): added S-Tier GradeBar row at the top of the 5-row stack so the dashboard stat card matches the VaultGrid filter. Live-verified: grade scroller shows All 1784 · S S-Tier 0 · A+ Verified 0 · B Ready 881 · C Draft 864 · D-F Raw 39, click S-Tier flips filter and count to 0 profiles.
+
+    - id: cc_54
+      task: "Phase 1d: type-aware vault-health completeness scoring"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T13:55:00-07:00"
+      added_adhoc: true
+      commit: "25b6e6ef"
+      merge: "54e8565d"
+      deploy: "24291419121"
+      notes: |
+        ops/src/lib/profile-type-rulebook.ts adds resolveTopLevelType() matching the CJS mirror. ops/src/lib/vault.ts completenessScore() takes optional topLevelType and uses WEIGHTS_BY_TYPE per-type weight rows (sum to 100): politician/donor/entity/judicial 15/25/20/20/20, media 20/10/25/30/15, story 10/25/25/40/0, event 35/20/5/40/0, meta 50/10/10/30/0. TIER1_FLOOR_BY_TYPE relaxes Tier 1 requirement per type (politician=3, media=1, meta=0). ops/src/lib/local-vault.ts resolves topLevelType once per profile during the vault walk. Post-refactor averages: story 106 profiles @ 85% (was ~50-60%), media-profile 94 @ 65% (was penalized <3 Tier 1), event 246 @ 49% (correct), politician 89 / donor 84 / corporation 87 / sub-note 99 / lobbying-firm 85 / pac 78.
+
+    - id: cc_55
+      task: "editor-vouched frontmatter flag (hallucination-catcher escape hatch)"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T13:50:00-07:00"
+      added_adhoc: true
+      commit: "aa585ac0"
+      merge: "ed0d1594"
+      deploy: "24291334295"
+      notes: |
+        scripts/hallucination-catcher.cjs: new check after the rulebook hallucination-scanned gate. Handles both boolean true and YAML string "true" (shared.cjs parseFrontmatter returns scalars as strings). Narrow scope: only hallucination-catcher honors the flag — voice-drift-detector and self-review-mirror continue firing (em dashes, banned AI vocab, defamation words are voice/style issues independent of citation proximity). CLAUDE.md documents the flag under frontmatter-only exceptions with explicit misuse warning. content/Vault Rules.md callout. End-to-end verified: added flag to Pelosi-McCarthy story (13 claims), dropped out of queue; reverted, returned to queue; git diff clean on test file.
+
+    - id: cc_56
+      task: "Story editorial pass: editor-vouched on 3 of 12 flagged stories"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T14:05:00-07:00"
+      added_adhoc: true
+      commit: "83af027c"
+      merge: "b40946b1"
+      deploy: "24291562491"
+      notes: |
+        Delegated the factual audit to an Explore agent (thorough level) which read all 12 files, sampled claims, and classified each covered/partial/thin/uncovered. Three legitimately passed: Geographic Donor Clustering (13 Tier 1 FEC candidate pages + Tier 2 journalism), Defense-Pharma-Carceral-Labor-Wexner Cross-Reference (40+ sources, FEC + LDA + SEC at Tier 1), and Contradiction 10 Jeff Yass (ProPublica investigation + Congress.gov + Supreme Court at Tier 1, Fortune/Axios/WaPo/Inquirer at Tier 2). 9 remain flagged: Cross-Politician Contradiction Map, Intra-Republican Contradiction Map, Intra-Democratic Contradiction Map, Prison Telecom, Michigan 2026, Schumer-McConnell, Ohio 2026 Acton vs Ramaswamy, Contradiction 06 Crypto, Pelosi-McCarthy — each needs per-claim editorial work (Research Claude lane). Frontmatter-only change; no body prose edited.
+
+    - id: cc_57
+      task: "Phase 3 Part 2a: relationship-discovery.cjs emits JSONL edges via upsertEdges"
+      status: done
+      completed_date: 2026-04-11
+      completed_at: "2026-04-11T14:15:00-07:00"
+      added_adhoc: true
+      commit: "997e2f36"
+      merge: "fc7cd63b"
+      deploy: "24291721197"
+      notes: |
+        scripts/lib/relationships-store.cjs new upsertEdges(newEdges) helper with merge semantics (higher-confidence source overwrites, non-null fields win, evidence arrays dedup-merged, first_seen preserved). scripts/relationship-discovery.cjs new --write-edges flag, DISCOVERY_TYPE_MAP (related/donors/opposes/stories → related/monetary/political-opposition/story-link), DISCOVERY_CONFIDENCE_MAP (low 0.55 / medium 0.70 / high 0.85), emitSuggestionsAsJsonlEdges() maps each suggestion, builds title index once, skips contradictions/unknown types/missing endpoints/collisions/typeless endpoints. story-link edges default to role "mentioned". Data after run: 19,848 edges total (up from 12,737, +7,111 new + 52 upgraded). story-link jumped 17 → 1,940 (discovery scanner's wikilink-proximity found ~1,900 profile↔story links migration missed). By source: 12,685 frontmatter-migration + 7,163 discovery-scanner. Full validator pass. connection-suggester.cjs intentionally NOT retargeted (proposes hypotheses, not facts). contradiction-scanner.cjs deferred to Phase 3 Part 2b (it's a query, not a producer — its input should read JSONL).
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -1023,7 +1119,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-11 (late-next-day continuation — cc_49 added; Phase 2a Part 2 all 5 scripts wired to profile-type rulebook)**
+**Schedule last updated: 2026-04-11 (night continuation — cc_50 through cc_57 added: Phase 2a Part 3 editor UI + followups, Phase 3 Part 1 canonical JSONL edge store + Part 2a discovery→JSONL, Phase 1d type-aware vault health, Phase 2b S-Tier filter + stat card, editor-vouched escape hatch, story editorial pass 3-of-12)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
