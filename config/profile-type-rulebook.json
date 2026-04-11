@@ -1,0 +1,1172 @@
+{
+  "$schema": "https://thedonormap.org/schemas/profile-type-rulebook.v1.json",
+  "version": "1.0.0",
+  "last-updated": "2026-04-11",
+  "tier-order": ["raw", "draft", "ready", "verified", "s-tier"],
+  "types": {
+    "politician": {
+      "label": "Politician",
+      "description": "Anyone holding, seeking, or appointed to public office. Measured by roles, votes, money raised, executive orders, appointments.",
+      "visual": {
+        "color-light": "#d97706",
+        "color-dark": "#f59e0b",
+        "icon": "gavel"
+      },
+      "voice-scanned": true,
+      "hallucination-scanned": true,
+      "base-rulebook": {
+        "tiers": {
+          "raw": {
+            "required": ["title-present", "type-is-politician"]
+          },
+          "draft": {
+            "required": [
+              "category-present",
+              "party-present",
+              "state-or-district-present",
+              "full-name-present",
+              "last-updated-present"
+            ],
+            "recommended": ["issues-listed"]
+          },
+          "ready": {
+            "required": [
+              "issues-count-gte-3",
+              "top-donors-count-gte-5",
+              "related-count-gte-5",
+              "fec-fundraising-data",
+              "voting-record-pipeline"
+            ],
+            "recommended": ["last-enriched-within-90-days"]
+          },
+          "verified": {
+            "required": [
+              "last-enriched-within-90-days",
+              "tier1-source-count-gte-3",
+              "class-analysis-heading",
+              "central-thesis-present",
+              "legal-review-if-defamation",
+              "audit-a-plus-passed-stamp",
+              "editorial-signoff-present"
+            ]
+          },
+          "s-tier": {
+            "required": [
+              "story-grade-set",
+              "angle-field-present",
+              "contradiction-investigation-documented",
+              "linked-original-story-investigation-grade"
+            ]
+          }
+        },
+        "promotion-gate": {
+          "ready": "auto",
+          "verified": "manual",
+          "s-tier": "manual"
+        }
+      },
+      "sub-categories": {
+        "president": {
+          "label": "President",
+          "visual": { "icon": "politician-president" },
+          "overrides": {
+            "adds": {
+              "verified": [
+                "executive-orders-documented",
+                "cabinet-appointments-listed",
+                "nominations-record-present"
+              ]
+            },
+            "removes": ["voting-record-pipeline"],
+            "replaces": { "fec-fundraising-data": "previous-cycle-fundraising" }
+          }
+        },
+        "vice-president": {
+          "label": "Vice President",
+          "visual": { "icon": "politician-president" },
+          "overrides": {
+            "adds": { "verified": ["tie-breaker-votes-cast"] }
+          }
+        },
+        "senator": {
+          "label": "US Senator",
+          "visual": { "icon": "politician-senate" },
+          "overrides": {
+            "adds": {
+              "ready": ["committee-assignments-present", "bills-sponsored-count"],
+              "verified": ["committee-capture-analysis"]
+            }
+          }
+        },
+        "representative": {
+          "label": "US Representative",
+          "visual": { "icon": "politician-house" },
+          "overrides": {
+            "adds": {
+              "ready": ["committee-assignments-present", "bills-sponsored-count"],
+              "verified": ["committee-capture-analysis"]
+            }
+          }
+        },
+        "cabinet": {
+          "label": "Cabinet Secretary / Agency Head",
+          "visual": { "icon": "politician-cabinet" },
+          "overrides": {
+            "adds": {
+              "verified": [
+                "confirmation-hearing-summary",
+                "agency-budget-controlled",
+                "prior-industry-ties"
+              ]
+            },
+            "removes": ["voting-record-pipeline"]
+          }
+        },
+        "governor": {
+          "label": "Governor",
+          "visual": { "icon": "politician-governor" },
+          "overrides": {
+            "adds": {
+              "ready": ["state-executive-orders", "state-budget-signed", "vetoes-issued"],
+              "verified": ["state-cabinet-appointments"]
+            },
+            "removes": ["voting-record-pipeline"]
+          }
+        },
+        "lieutenant-governor": {
+          "label": "Lieutenant Governor",
+          "visual": { "icon": "politician-governor" },
+          "overrides": {
+            "adds": { "ready": ["state-executive-orders", "vetoes-issued"] },
+            "removes": ["voting-record-pipeline"]
+          }
+        },
+        "state-legislator": {
+          "label": "State Legislator",
+          "visual": { "icon": "politician-state" },
+          "overrides": {
+            "adds": { "ready": ["state-chamber-present", "state-district-present"] },
+            "replaces": { "voting-record-pipeline": "state-voting-record-if-available" }
+          }
+        },
+        "state-attorney-general": {
+          "label": "State Attorney General",
+          "visual": { "icon": "politician-ag" },
+          "overrides": {
+            "adds": {
+              "verified": ["lawsuits-filed-list", "amicus-briefs-list", "multistate-coalitions"]
+            },
+            "removes": ["voting-record-pipeline"]
+          }
+        },
+        "district-attorney": {
+          "label": "District Attorney (elected)",
+          "visual": { "icon": "politician-da" },
+          "overrides": {
+            "adds": {
+              "ready": ["jurisdiction-present"],
+              "verified": ["charging-patterns", "notable-prosecutions"]
+            },
+            "removes": ["voting-record-pipeline"]
+          }
+        },
+        "us-attorney": {
+          "label": "US Attorney (appointed)",
+          "visual": { "icon": "politician-da" },
+          "overrides": {
+            "adds": {
+              "ready": ["district-present", "appointing-president"],
+              "verified": ["notable-prosecutions", "charging-patterns"]
+            },
+            "removes": ["voting-record-pipeline", "fec-fundraising-data"]
+          }
+        },
+        "special-counsel": {
+          "label": "Special Counsel",
+          "visual": { "icon": "politician-special" },
+          "overrides": {
+            "adds": {
+              "ready": ["appointing-authority", "investigation-scope"],
+              "verified": ["indictments-filed", "final-report"]
+            },
+            "removes": ["voting-record-pipeline", "fec-fundraising-data"]
+          }
+        },
+        "candidate": {
+          "label": "Candidate (not yet seated)",
+          "visual": { "icon": "politician-candidate" },
+          "overrides": {
+            "adds": {
+              "ready": ["campaign-platform", "primary-opponents", "endorsers", "ballot-status"]
+            },
+            "removes": ["voting-record-pipeline"]
+          }
+        },
+        "international": {
+          "label": "International Figure",
+          "visual": { "icon": "politician-world" },
+          "overrides": {
+            "adds": {
+              "verified": ["country-context", "us-relations", "policy-positions-affecting-us"]
+            },
+            "removes": ["voting-record-pipeline", "fec-fundraising-data"],
+            "replaces": { "tier1-source-count-gte-3": "foreign-tier1-source-count-gte-2" }
+          }
+        },
+        "former": {
+          "label": "Former Officeholder",
+          "visual": { "icon": "politician-former" },
+          "overrides": {
+            "replaces": { "last-enriched-within-90-days": "last-enriched-within-180-days" }
+          }
+        }
+      }
+    },
+    "donor": {
+      "label": "Donor",
+      "description": "Individual wealth movers (billionaires, donor families, bundlers, mega-donors). Organizations belong in entity.",
+      "visual": {
+        "color-light": "#16a34a",
+        "color-dark": "#22c55e",
+        "icon": "dollar"
+      },
+      "voice-scanned": true,
+      "hallucination-scanned": true,
+      "base-rulebook": {
+        "tiers": {
+          "raw": {
+            "required": ["title-present", "type-is-donor"]
+          },
+          "draft": {
+            "required": [
+              "category-present",
+              "residence-state-present",
+              "wealth-origin-present"
+            ],
+            "recommended": ["issues-listed"]
+          },
+          "ready": {
+            "required": [
+              "sector-present",
+              "issues-count-gte-3",
+              "politicians-funded-count-gte-5",
+              "top-recipients-with-amounts",
+              "related-count-gte-5",
+              "fec-individual-contributions",
+              "total-giving-cycle"
+            ],
+            "recommended": ["last-enriched-within-90-days"]
+          },
+          "verified": {
+            "required": [
+              "last-enriched-within-90-days",
+              "tier1-source-count-gte-3",
+              "class-analysis-heading",
+              "central-thesis-present",
+              "legal-review-if-defamation",
+              "audit-a-plus-passed-stamp",
+              "editorial-signoff-present"
+            ]
+          },
+          "s-tier": {
+            "required": [
+              "story-grade-set",
+              "angle-field-present",
+              "contradiction-investigation-documented",
+              "linked-original-story-investigation-grade"
+            ]
+          }
+        },
+        "promotion-gate": {
+          "ready": "auto",
+          "verified": "manual",
+          "s-tier": "manual"
+        }
+      },
+      "sub-categories": {
+        "billionaire": {
+          "label": "Billionaire",
+          "visual": { "icon": "donor-crown" },
+          "overrides": {
+            "adds": {
+              "draft": ["net-worth-present", "net-worth-source"],
+              "verified": ["industry-present", "sec-public-holdings-if-applicable"]
+            }
+          }
+        },
+        "donor-family": {
+          "label": "Donor Family",
+          "visual": { "icon": "donor-family" },
+          "overrides": {
+            "adds": {
+              "draft": ["founder-generation", "current-head", "family-members-list"],
+              "ready": ["family-foundation-linked", "family-trust-if-known"],
+              "verified": ["generational-giving-arc"]
+            },
+            "removes": ["net-worth-present"]
+          }
+        },
+        "bundler": {
+          "label": "Bundler",
+          "visual": { "icon": "donor-bundler" },
+          "overrides": {
+            "adds": {
+              "ready": ["bundled-for-campaigns", "bundling-method"]
+            }
+          }
+        },
+        "mega-donor": {
+          "label": "Mega-Donor",
+          "visual": { "icon": "donor-mega" },
+          "overrides": {
+            "adds": {
+              "ready": ["cycle-totals-broken-out", "max-out-recipients"],
+              "verified": ["bundled-vs-direct-ratio"]
+            }
+          }
+        },
+        "small-dollar-aggregator": {
+          "label": "Small-Dollar Aggregator",
+          "visual": { "icon": "donor-platform" },
+          "overrides": {
+            "adds": {
+              "ready": ["platform-name", "platform-volume", "platform-party-alignment"]
+            },
+            "removes": ["top-recipients-with-amounts"]
+          }
+        }
+      }
+    },
+    "entity": {
+      "label": "Entity",
+      "description": "Organizations that aren't people. Corporations, PACs, think tanks, K Street, dark money, foundations, trade groups, consulting firms.",
+      "visual": {
+        "color-light": "#334155",
+        "color-dark": "#64748b",
+        "icon": "building"
+      },
+      "voice-scanned": true,
+      "hallucination-scanned": true,
+      "base-rulebook": {
+        "tiers": {
+          "raw": {
+            "required": ["title-present", "type-is-entity"]
+          },
+          "draft": {
+            "required": [
+              "category-present",
+              "legal-name-formal",
+              "legal-identifier-present",
+              "headquarters-state-present"
+            ],
+            "recommended": ["founded-year-present"]
+          },
+          "ready": {
+            "required": [
+              "founded-year-present",
+              "sector-present",
+              "issues-count-gte-3",
+              "politicians-funded-or-opposed-count-gte-5",
+              "top-recipients-with-amounts",
+              "related-count-gte-5",
+              "total-political-spend",
+              "lobbying-spend-if-registered"
+            ],
+            "recommended": ["executives-listed", "last-enriched-within-90-days"]
+          },
+          "verified": {
+            "required": [
+              "executives-listed",
+              "last-enriched-within-90-days",
+              "tier1-source-count-gte-3",
+              "class-analysis-heading",
+              "central-thesis-present",
+              "legal-review-if-defamation",
+              "audit-a-plus-passed-stamp",
+              "editorial-signoff-present"
+            ]
+          },
+          "s-tier": {
+            "required": [
+              "story-grade-set",
+              "angle-field-present",
+              "contradiction-investigation-documented",
+              "linked-original-story-investigation-grade"
+            ]
+          }
+        },
+        "promotion-gate": {
+          "ready": "auto",
+          "verified": "manual",
+          "s-tier": "manual"
+        }
+      },
+      "sub-categories": {
+        "corporation": {
+          "label": "Corporation",
+          "visual": { "icon": "entity-corp" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "stock-ticker-if-public",
+                "revenue-present",
+                "employees-count",
+                "subsidiaries-listed"
+              ],
+              "verified": [
+                "regulatory-agencies-listed",
+                "federal-contracts-count",
+                "court-cases-count",
+                "sec-edgar-data-if-public"
+              ]
+            }
+          }
+        },
+        "pac": {
+          "label": "Traditional PAC",
+          "visual": { "icon": "entity-pac" },
+          "overrides": {
+            "adds": {
+              "draft": ["fec-id-present"],
+              "ready": [
+                "affiliated-entity-linked",
+                "top-candidate-recipients",
+                "cycle-totals-broken-out"
+              ]
+            },
+            "removes": ["lobbying-spend-if-registered"]
+          }
+        },
+        "super-pac": {
+          "label": "Super PAC",
+          "visual": { "icon": "entity-super-pac" },
+          "overrides": {
+            "adds": {
+              "draft": ["fec-id-present"],
+              "ready": [
+                "independent-expenditures-list",
+                "top-funders-list",
+                "coordination-allegations-if-any"
+              ],
+              "verified": ["dark-money-source-percentage"]
+            },
+            "removes": ["lobbying-spend-if-registered"]
+          }
+        },
+        "501c3": {
+          "label": "501(c)(3) Charity",
+          "visual": { "icon": "entity-nonprofit" },
+          "overrides": {
+            "adds": {
+              "draft": ["ein-present"],
+              "ready": [
+                "propublica-nonprofit-data",
+                "total-revenue",
+                "total-assets",
+                "program-service-revenue"
+              ],
+              "verified": ["political-activity-scrutiny"]
+            }
+          }
+        },
+        "501c4": {
+          "label": "501(c)(4) Dark Money",
+          "visual": { "icon": "entity-dark" },
+          "overrides": {
+            "adds": {
+              "draft": ["ein-present"],
+              "ready": [
+                "propublica-nonprofit-data",
+                "political-spending-ratio",
+                "dark-money-flows-documented"
+              ],
+              "verified": ["funder-triangulation-from-other-990s"]
+            }
+          }
+        },
+        "527": {
+          "label": "527 Political Organization",
+          "visual": { "icon": "entity-527" },
+          "overrides": {
+            "adds": {
+              "draft": ["irs-527-id-or-fec-id"],
+              "ready": ["cycle-totals-broken-out", "top-donors-disclosed"]
+            }
+          }
+        },
+        "think-tank": {
+          "label": "Think Tank",
+          "visual": { "icon": "entity-think-tank" },
+          "overrides": {
+            "adds": {
+              "draft": ["ein-present", "tax-status-specified"],
+              "ready": [
+                "propublica-nonprofit-data",
+                "policy-areas-present",
+                "funder-profile-present"
+              ],
+              "verified": ["revolving-door-documented"]
+            }
+          }
+        },
+        "lobbying-firm": {
+          "label": "Lobbying Firm (K Street)",
+          "visual": { "icon": "entity-lobby" },
+          "overrides": {
+            "adds": {
+              "draft": ["lda-registrant-id"],
+              "ready": [
+                "senate-lda-data",
+                "clients-with-annual-spend",
+                "lobbyists-listed",
+                "issue-areas-present"
+              ],
+              "verified": ["revolving-door-documented", "contract-bundles-present"]
+            }
+          }
+        },
+        "trade-association": {
+          "label": "Trade Association",
+          "visual": { "icon": "entity-trade" },
+          "overrides": {
+            "adds": {
+              "draft": ["ein-present", "tax-status-specified"],
+              "ready": [
+                "propublica-nonprofit-data",
+                "senate-lda-data",
+                "member-companies-listed",
+                "industry-represented-present"
+              ],
+              "verified": ["issue-positions-present", "member-dissent-documented"]
+            }
+          }
+        },
+        "foundation": {
+          "label": "Foundation",
+          "visual": { "icon": "entity-foundation" },
+          "overrides": {
+            "adds": {
+              "draft": ["ein-present", "tax-status-specified"],
+              "ready": [
+                "propublica-nonprofit-data",
+                "grantees-with-amounts",
+                "donor-family-linked",
+                "total-assets"
+              ],
+              "verified": ["grant-pattern-analysis", "donor-advised-fund-usage"]
+            }
+          }
+        },
+        "dark-money-network": {
+          "label": "Dark Money Network",
+          "visual": { "icon": "entity-dark-network" },
+          "overrides": {
+            "adds": {
+              "draft": ["ein-present", "tax-status-specified"],
+              "ready": [
+                "propublica-nonprofit-data",
+                "passthrough-function-described",
+                "known-grantees-listed",
+                "known-funders-listed"
+              ],
+              "verified": ["funder-triangulation-from-other-990s"],
+              "s-tier": ["money-flow-chain-documented"]
+            }
+          }
+        },
+        "consulting-firm": {
+          "label": "Consulting Firm",
+          "visual": { "icon": "entity-consulting" },
+          "overrides": {
+            "adds": {
+              "draft": ["state-business-registration-or-ein"],
+              "ready": ["clients-listed", "services-described", "key-personnel-listed"]
+            },
+            "replaces": { "tier1-source-count-gte-3": "tier1-source-count-gte-2" }
+          }
+        }
+      }
+    },
+    "media": {
+      "label": "Media",
+      "description": "Journalists, pundits, outlets, podcasts, commentators, and social media influencers in the political sphere.",
+      "visual": {
+        "color-light": "#ea580c",
+        "color-dark": "#fb923c",
+        "icon": "broadcast"
+      },
+      "voice-scanned": true,
+      "hallucination-scanned": true,
+      "base-rulebook": {
+        "tiers": {
+          "raw": {
+            "required": ["title-present", "type-is-media"]
+          },
+          "draft": {
+            "required": [
+              "category-present",
+              "sub-category-target-present",
+              "primary-medium-present"
+            ],
+            "recommended": ["ownership-chain-traced", "founded-or-first-active-year"]
+          },
+          "ready": {
+            "required": [
+              "ownership-chain-traced",
+              "founded-or-first-active-year",
+              "beats-count-gte-3",
+              "audience-reach-with-method-and-date",
+              "alignment-bucket-present",
+              "related-count-gte-5",
+              "frequently-covers-listed"
+            ],
+            "recommended": ["last-enriched-within-90-days"]
+          },
+          "verified": {
+            "required": [
+              "last-enriched-within-90-days",
+              "tier1-source-count-gte-2",
+              "class-analysis-heading",
+              "central-thesis-present",
+              "legal-review-if-defamation",
+              "retraction-history-documented",
+              "audit-a-plus-passed-stamp",
+              "editorial-signoff-present"
+            ]
+          },
+          "s-tier": {
+            "required": [
+              "story-grade-set",
+              "angle-field-present",
+              "contradiction-investigation-documented",
+              "linked-original-story-investigation-grade"
+            ]
+          }
+        },
+        "promotion-gate": {
+          "ready": "auto",
+          "verified": "manual",
+          "s-tier": "manual"
+        }
+      },
+      "notes": {
+        "tier1-threshold": "Media uses tier1-source-count-gte-2 instead of >=3 because pipeline coverage for media is the weakest of any type. Real Tier 1 sources for media come from SEC EDGAR (if public-owned), Form 990 (if nonprofit), FEC (if media figure donates), FARA (if foreign ownership), and court records. Setting the bar to 2 keeps verified reachable while preserving data integrity."
+      },
+      "sub-categories": {
+        "outlet": {
+          "label": "Media Outlet",
+          "visual": { "icon": "media-outlet" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "ownership-chain-traced",
+                "annual-revenue-if-available",
+                "key-personalities-listed",
+                "editorial-leadership-listed"
+              ],
+              "verified": ["funding-sources-broken-out", "audience-demographics-if-available"]
+            }
+          }
+        },
+        "journalist": {
+          "label": "Journalist",
+          "visual": { "icon": "media-journalist" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "employer-current-linked",
+                "employer-history",
+                "beats-count-gte-3",
+                "notable-stories-listed"
+              ],
+              "verified": ["awards-listed", "academic-fellowships-if-any"]
+            }
+          }
+        },
+        "pundit": {
+          "label": "Pundit / Columnist",
+          "visual": { "icon": "media-pundit" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "platforms-listed",
+                "political-alignment-editorial",
+                "consulting-work-if-disclosed"
+              ],
+              "verified": ["known-sponsors-listed"],
+              "s-tier": ["incentive-analysis-written"]
+            }
+          }
+        },
+        "host": {
+          "label": "TV / Radio Host",
+          "visual": { "icon": "media-host" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "show-name-present",
+                "network-linked",
+                "show-format",
+                "audience-size-with-method"
+              ],
+              "verified": ["guest-pattern-documented", "advertiser-boycotts-if-any"]
+            }
+          }
+        },
+        "podcast": {
+          "label": "Podcast",
+          "visual": { "icon": "media-podcast" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "hosts-linked",
+                "network-or-independent",
+                "monetization-model",
+                "episode-cadence",
+                "audience-rank-with-date"
+              ],
+              "verified": ["frequent-guests-documented", "topic-clusters-documented"]
+            }
+          }
+        },
+        "social-media-influencer": {
+          "label": "Social Media Influencer",
+          "visual": { "icon": "media-social" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "platforms-with-follower-counts",
+                "primary-platform",
+                "monetization-model"
+              ],
+              "verified": ["funding-triangulation-documented"]
+            }
+          }
+        },
+        "editorial-board": {
+          "label": "Editorial Board",
+          "visual": { "icon": "media-editorial" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "parent-outlet-linked",
+                "members-listed-if-public",
+                "endorsement-history"
+              ],
+              "verified": ["editorial-shifts-documented"]
+            }
+          }
+        }
+      }
+    },
+    "judicial": {
+      "label": "Judicial",
+      "description": "Judges and justices who decide cases from the bench. Prosecutors and AGs live in politician.",
+      "visual": {
+        "color-light": "#7f1d1d",
+        "color-dark": "#b91c1c",
+        "icon": "scales"
+      },
+      "voice-scanned": true,
+      "hallucination-scanned": true,
+      "base-rulebook": {
+        "tiers": {
+          "raw": {
+            "required": ["title-present", "type-is-judicial"]
+          },
+          "draft": {
+            "required": [
+              "category-present",
+              "court-present",
+              "appointment-path-present",
+              "sitting-since-present"
+            ],
+            "recommended": ["nominating-president-if-federal", "confirmation-vote-if-federal"]
+          },
+          "ready": {
+            "required": [
+              "nominating-president-if-federal",
+              "confirmation-vote-if-federal",
+              "prior-career-present",
+              "ideological-network-present",
+              "related-count-gte-5",
+              "landmark-opinions-count-gte-3",
+              "courtlistener-pipeline-data"
+            ],
+            "recommended": [
+              "financial-disclosure-summary",
+              "recusal-record",
+              "last-enriched-within-90-days"
+            ]
+          },
+          "verified": {
+            "required": [
+              "financial-disclosure-summary",
+              "recusal-record",
+              "last-enriched-within-90-days",
+              "tier1-source-count-gte-3",
+              "class-analysis-heading",
+              "central-thesis-present",
+              "ethics-concerns-documented",
+              "legal-review-if-defamation",
+              "audit-a-plus-passed-stamp",
+              "editorial-signoff-present"
+            ]
+          },
+          "s-tier": {
+            "required": [
+              "story-grade-set",
+              "angle-field-present",
+              "contradiction-investigation-documented",
+              "linked-original-story-investigation-grade"
+            ]
+          }
+        },
+        "promotion-gate": {
+          "ready": "auto",
+          "verified": "manual",
+          "s-tier": "manual"
+        }
+      },
+      "sub-categories": {
+        "scotus": {
+          "label": "Supreme Court Justice",
+          "visual": { "icon": "judicial-scotus" },
+          "overrides": {
+            "adds": {
+              "ready": ["dissent-concurrence-pattern", "confirmation-dossier-highlights"],
+              "verified": [
+                "dark-money-confirmation-campaign-documented",
+                "spousal-conflicts-if-any"
+              ],
+              "s-tier": ["propublica-class-accountability-investigation"]
+            }
+          }
+        },
+        "federal-appeals": {
+          "label": "Federal Appeals Judge",
+          "visual": { "icon": "judicial-federal" },
+          "overrides": {
+            "adds": {
+              "ready": ["circuit-present", "reversal-rate"],
+              "verified": ["scotus-feeder-track-if-applicable"]
+            }
+          }
+        },
+        "federal-district": {
+          "label": "Federal District Judge",
+          "visual": { "icon": "judicial-federal" },
+          "overrides": {
+            "adds": {
+              "ready": ["district-present", "prior-position", "notable-case-assignments"]
+            }
+          }
+        },
+        "state-supreme": {
+          "label": "State Supreme Court Justice",
+          "visual": { "icon": "judicial-state" },
+          "overrides": {
+            "adds": {
+              "ready": ["state-present", "retention-method", "partisan-identifier-if-applicable"],
+              "verified": ["campaign-finance-if-elected"]
+            }
+          }
+        },
+        "state-appeals": {
+          "label": "State Appeals Judge",
+          "visual": { "icon": "judicial-state" },
+          "overrides": {
+            "adds": { "ready": ["state-present", "court-level", "retention-method"] }
+          }
+        },
+        "state-trial": {
+          "label": "State Trial Judge",
+          "visual": { "icon": "judicial-state" },
+          "overrides": {
+            "adds": { "ready": ["state-present", "court-level", "retention-method"] }
+          }
+        },
+        "administrative-law-judge": {
+          "label": "Administrative Law Judge",
+          "visual": { "icon": "judicial-alj" },
+          "overrides": {
+            "adds": { "ready": ["agency-present", "appointment-authority"] },
+            "replaces": { "courtlistener-pipeline-data": "agency-adjudication-database" }
+          }
+        },
+        "international": {
+          "label": "International Judge",
+          "visual": { "icon": "judicial-international" },
+          "overrides": {
+            "adds": {
+              "verified": [
+                "international-body-present",
+                "appointing-body",
+                "home-country",
+                "notable-international-opinions"
+              ]
+            },
+            "removes": [
+              "courtlistener-pipeline-data",
+              "nominating-president-if-federal",
+              "confirmation-vote-if-federal"
+            ]
+          }
+        },
+        "nominee": {
+          "label": "Judicial Nominee",
+          "visual": { "icon": "judicial-nominee" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "nomination-date",
+                "hearing-date",
+                "committee-vote",
+                "confirmation-status"
+              ]
+            },
+            "removes": [
+              "landmark-opinions-count-gte-3",
+              "financial-disclosure-summary",
+              "courtlistener-pipeline-data"
+            ]
+          }
+        },
+        "former": {
+          "label": "Former Judge",
+          "visual": { "icon": "judicial-former" },
+          "overrides": {
+            "adds": { "verified": ["post-judicial-activity"] },
+            "replaces": { "last-enriched-within-90-days": "last-enriched-within-180-days" }
+          }
+        }
+      }
+    },
+    "story": {
+      "label": "Story",
+      "description": "Narrative investigations we wrote. Load-bearing infrastructure for S-tier across every other type.",
+      "visual": {
+        "color-light": "#7c3aed",
+        "color-dark": "#a855f7",
+        "icon": "story"
+      },
+      "voice-scanned": true,
+      "hallucination-scanned": true,
+      "base-rulebook": {
+        "tiers": {
+          "raw": {
+            "required": ["title-present", "type-is-story"]
+          },
+          "draft": {
+            "required": [
+              "story-category-present",
+              "author-present",
+              "status-present",
+              "written-date-present",
+              "central-thesis-present",
+              "linked-profiles-count-gte-3"
+            ],
+            "recommended": ["word-count-present"]
+          },
+          "ready": {
+            "required": [
+              "published-date-if-published",
+              "word-count-present",
+              "linked-profiles-count-gte-5",
+              "primary-sources-listed",
+              "story-grade-set"
+            ],
+            "recommended": ["interviews-conducted-noted", "every-claim-sourced"]
+          },
+          "verified": {
+            "required": [
+              "every-claim-sourced",
+              "class-analysis-heading",
+              "legal-review-if-defamation",
+              "audit-a-plus-passed-stamp",
+              "editorial-signoff-present"
+            ]
+          },
+          "s-tier": {
+            "required": [
+              "contradictions-surfaced",
+              "impact-documented",
+              "new-facts-not-in-existing-reporting",
+              "angle-field-present"
+            ]
+          }
+        },
+        "promotion-gate": {
+          "ready": "auto",
+          "verified": "manual",
+          "s-tier": "manual"
+        }
+      },
+      "notes": {
+        "anchoring-rules": "Only investigation-grade stories can anchor S-tier profiles on other types. Report-grade stories can anchor A+ verified. Story-grade cannot anchor either.",
+        "hallucination-gate": "every-claim-sourced is a HARD gate for story verified promotion. Override paths: [cite:...] inline marker, blockquote conversion, editor-vouched:true frontmatter flag, or Attention Queue false-positive rejection."
+      },
+      "sub-categories": {
+        "investigation": {
+          "label": "Investigation",
+          "visual": { "icon": "story-investigation" },
+          "overrides": {
+            "adds": {
+              "ready": ["primary-sources-include-non-public-document"],
+              "verified": ["every-claim-sourced", "interviews-conducted-noted"]
+            }
+          }
+        },
+        "explainer": {
+          "label": "Explainer",
+          "visual": { "icon": "story-explainer" },
+          "overrides": {
+            "adds": { "ready": ["sources-synthesized-count-gte-5"] }
+          }
+        },
+        "profile-deep-dive": {
+          "label": "Profile Deep Dive",
+          "visual": { "icon": "story-profile" },
+          "overrides": {
+            "adds": {
+              "draft": ["subject-linked"],
+              "ready": ["linked-profiles-count-gte-10", "word-count-gte-3000"]
+            }
+          }
+        },
+        "network-map": {
+          "label": "Network Map",
+          "visual": { "icon": "story-network" },
+          "overrides": {
+            "adds": {
+              "ready": [
+                "linked-profiles-count-gte-15",
+                "word-count-gte-2000",
+                "network-structure-described"
+              ]
+            }
+          }
+        },
+        "narrative-feature": {
+          "label": "Narrative Feature",
+          "visual": { "icon": "story-feature" },
+          "overrides": {
+            "adds": {
+              "ready": ["word-count-gte-3000", "narrative-arc-present"]
+            }
+          }
+        }
+      }
+    },
+    "event": {
+      "label": "Event",
+      "description": "News events and RSS ingest. Time-bound. Not editorial content. Feeds stories as primary source material.",
+      "visual": {
+        "color-light": "#0891b2",
+        "color-dark": "#06b6d4",
+        "icon": "calendar"
+      },
+      "voice-scanned": false,
+      "hallucination-scanned": false,
+      "base-rulebook": {
+        "tiers": {
+          "raw": {
+            "required": [
+              "title-present",
+              "type-is-event",
+              "date-present",
+              "source-present",
+              "source-url-present",
+              "status-present",
+              "profiles-linked-count-gte-1",
+              "summary-in-body"
+            ]
+          }
+        },
+        "promotion-gate": {
+          "ready": "none",
+          "verified": "none",
+          "s-tier": "none"
+        }
+      },
+      "notes": {
+        "no-promotion": "Events do not promote between tiers. They are ingest, not editorial. The only quality check is that required fields are present.",
+        "archival": "Events older than 180 days with zero inbound links from stories can be archived by a janitor script. This is not a hard rule."
+      },
+      "sub-categories": {}
+    },
+    "meta": {
+      "label": "Meta",
+      "description": "System files: admin notes, sub-notes, story-seeds, daily-updates, digests, references, methodology, indices, pages.",
+      "visual": {
+        "color-light": "#64748b",
+        "color-dark": "#94a3b8",
+        "icon": "file-text"
+      },
+      "voice-scanned": false,
+      "hallucination-scanned": false,
+      "base-rulebook": {
+        "tiers": {
+          "raw": {
+            "required": ["title-present"]
+          }
+        },
+        "promotion-gate": {
+          "ready": "none",
+          "verified": "none",
+          "s-tier": "none"
+        }
+      },
+      "notes": {
+        "exempt-from-scans": "All meta types are exempt from voice-drift-detector, hallucination-catcher, and promotion logic. The self-review-mirror scanner's nonProfileTypes list is replaced by reading this type's voice-scanned and hallucination-scanned flags."
+      },
+      "sub-categories": {
+        "admin-note": {
+          "label": "Admin Note",
+          "visual": { "icon": "meta-note" },
+          "overrides": {}
+        },
+        "sub-note": {
+          "label": "Sub-Note",
+          "visual": { "icon": "meta-sub" },
+          "overrides": {}
+        },
+        "story-seed": {
+          "label": "Story Seed",
+          "visual": { "icon": "meta-seed" },
+          "overrides": {}
+        },
+        "daily-update": {
+          "label": "Daily Update",
+          "visual": { "icon": "meta-daily" },
+          "overrides": {}
+        },
+        "digest": {
+          "label": "Digest",
+          "visual": { "icon": "meta-digest" },
+          "overrides": {}
+        },
+        "reference": {
+          "label": "Reference",
+          "visual": { "icon": "meta-reference" },
+          "overrides": {}
+        },
+        "methodology": {
+          "label": "Methodology",
+          "visual": { "icon": "meta-methodology" },
+          "overrides": {}
+        },
+        "index": {
+          "label": "Index",
+          "visual": { "icon": "meta-index" },
+          "overrides": {}
+        },
+        "page": {
+          "label": "Page",
+          "visual": { "icon": "meta-page" },
+          "overrides": {}
+        }
+      }
+    }
+  }
+}
