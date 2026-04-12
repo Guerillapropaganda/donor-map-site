@@ -315,8 +315,8 @@ Amazon is the most complete case study in the vault of how a single corporation 
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -334,8 +334,8 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 **Funded politicians:**
 
-- [[Donald Trump]] - lobbying: $42.1M
-- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) - lobbying: $42.1M
+- [[Donald Trump]] — lobbying: $42.1M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $42.1M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
