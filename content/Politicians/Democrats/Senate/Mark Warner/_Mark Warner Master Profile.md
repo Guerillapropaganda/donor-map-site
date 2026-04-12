@@ -38,7 +38,6 @@ related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Eric
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-bioguide-id: "W000805"
 issues:
   - "Congress"
   - "Finance and Financial Sector"

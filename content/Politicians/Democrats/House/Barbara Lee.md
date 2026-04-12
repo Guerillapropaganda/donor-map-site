@@ -14,7 +14,7 @@ last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"
-bioguide-id: "L000551"
+bioguide-id: "C001091"
 govtrack-id: 400237
 bills-sponsored: 604
 bills-cosponsored: 10572
@@ -26,7 +26,17 @@ total-raised: "$375,046"
 total-spent: "$427,255"
 cash-on-hand: "144.39"
 fec-cycle: 2024
-bioguide-id: "C001091"
+issues:
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Energy"
+  - "Environmental Protection"
+  - "Families"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Immigration"
 ---
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
 tags: #democrat
@@ -107,6 +117,32 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 - [Congresswoman Barbara Lee Official: Global Peace & Security Issues Page](https://lee.house.gov/issues/global-peace-and-security?latest=169) (Tier 1)
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| Chamber | House |
+| Bills Sponsored | 186 |
+| Bills Cosponsored | 1649 |
+
+**Policy areas:** Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Energy, Environmental Protection, Families, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7675 | Securing Partner Supply Chains Act | Ordered to be Reported by the Yeas and Nays: 43 - 3. |
+| 1012 | Recognizing and honoring Cristina M. Rodríguez for her historic appointment as d… | Referred to the House Committee on Education and Workforce. |
+| 7059 | No Unauthorized War in Mexico Act | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 969 | Expressing support for the designation of the week beginning on September 8, 202… | Referred to the House Committee on Education and Workforce. |
+| 6910 | United States International Development Corporation Chief Development Officer Ac… | Referred to the House Committee on Foreign Affairs. |
+| 6736 | ARMAS Act of 2025 | Referred to the House Committee on Foreign Affairs. |
+| 6562 | United States Development Finance Corporation Effectiveness Act | Referred to the House Committee on Foreign Affairs. |
+| 6563 | Terrorist Watchlist Modification Review Act | Referred to the House Committee on the Judiciary. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

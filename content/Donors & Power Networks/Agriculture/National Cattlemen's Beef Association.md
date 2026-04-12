@@ -8,7 +8,25 @@ parent: null
 sector: "Agriculture"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Donald Trump"
+  - "Julia Letlow"
+  - "David G. Valadao"
+  - "Jimmy Panetta"
+  - "Leon Panetta"
+  - "Tracey Mann"
+  - "August Pfluger"
+  - "Richard Hudson"
+  - "Bennie Thompson"
+  - "Mike Thompson"
+  - "Glenn Thompson"
+  - "Bruce Westerman"
+  - "Brad Finstad"
+  - "Nathaniel Moran"
+  - "Jerry Moran"
+  - "Harold Rogers"
+  - "Mike Rogers"
+  - "Vince Fong"
+  - "Jim Costa"
+  - "Mike Carey"
 issues:
   - "Agriculture"
 ein: 840738973
@@ -16,7 +34,7 @@ annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"
 court-cases: 85
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -79,6 +97,7 @@ sec-form-types:
 wikidata-id: "Q6971302"
 wikipedia-url: "https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association"
 wikipedia-extract: "National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers."
+total-political-spend: "$452,500"
 ---
 #donor #agriculture #lobbying #meatpacking #consolidation #class-analysis #follow-the-money #astroturf #trade-policy
 
@@ -456,3 +475,28 @@ National Cattlemen's Beef Association (NCBA) is an American trade association an
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $452,500 |
+| Contributions | 100 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| REPUBLICAN NATIONAL COMMITTEE | $60,000 | REP |
+| GREATER TOMORROW POLITICAL ACTION COMMITTEE | $10,000 | — |
+| JULIA LETLOW FOR CONGRESS | $10,000 | REP |
+| VALADAO FOR CONGRESS | $10,000 | REP |
+| MONICA FOR CONGRESS | $10,000 | REP |
+| JIMMY PANETTA FOR CONGRESS | $10,000 | DEM |
+| MANN FOR CONGRESS | $10,000 | REP |
+| AUGUST PFLUGER FOR CONGRESS | $10,000 | REP |
+| HUDSON FOR CONGRESS | $10,000 | REP |
+| FRIENDS OF GLENN THOMPSON | $10,000 | REP |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Cattlemen's%20Beef%20Association) (Tier 1)
+<!-- auto:fec-donor end -->

@@ -37,7 +37,6 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-bioguide-id: "W000779"
 ---
 #ron-wyden #democrat #oregon #senate #ranking-member #phase-6-gavel-power #finance #tax-policy #privacy #tech #class-analysis #follow-the-money
 

@@ -6,7 +6,7 @@ chamber: "House"
 party: "Democrat"
 content-readiness: draft
 central-thesis: "Ritchie Torres represents the optimal donor-capture model for a Democrat with marginalized identity: recruit early, fund generously, shift positions gradually, claim the critic ('I didn't leave the progressive movement; it left me') rather than ac..."
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 total-received: "$5,052,480"
@@ -20,6 +20,18 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-12"
+issues:
+  - "Agriculture and Food"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Emergency Management"
+  - "Environmental Protection"
+  - "Families"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
 ---
 #master-profile #democrat #house #bronx #new-york #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #crypto #class-contradiction
 
@@ -147,3 +159,31 @@ Example 4: District Abandonment. Torres's stated priority is addressing Bronx ho
 
 - [Congress.gov: Ritchie Torres](https://www.congress.gov/member/c001091) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| Chamber | House |
+| Bills Sponsored | 160 |
+| Bills Cosponsored | 1234 |
+
+**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Emergency Management, Environmental Protection, Families, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, Labor and Employment, Public Lands and Natural Resources, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1123 | Recognizing the victims of the Happy Land Social Club fire in the Bronx, New Yor… | Referred to the House Committee on Oversight and Government Reform. |
+| 7717 | Community Health Profiles Act | Referred to the House Committee on Energy and Commerce. |
+| 7519 | Army Corps Congressional Engagement Act | Referred to the House Committee on Transportation and Infrastructure. |
+| 7233 | QR Act | Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7144 | Food Rescue Act | Referred to the House Committee on Agriculture. |
+| 7004 | Public Integrity in Financial Prediction Markets Act of 2026 | Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6727 | Repealing the IMD Exclusion Act | Referred to the House Committee on Energy and Commerce. |
+| 6677 | Professional Degree Access Restoration Act | Referred to the House Committee on Education and Workforce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/T000486) (Tier 1)
+<!-- auto:congress-legislation end -->
