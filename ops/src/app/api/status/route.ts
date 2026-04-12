@@ -58,6 +58,19 @@ export async function GET() {
       } catch { /* skip */ }
     }
 
+    // Tips: new count
+    let tipsNew = 0
+    const tipsDir = path.join(CONTENT_DIR, "Admin Notes", "Tips")
+    if (fs.existsSync(tipsDir)) {
+      const tipFiles = fs.readdirSync(tipsDir).filter(f => f.endsWith(".md"))
+      for (const tf of tipFiles) {
+        try {
+          const content = fs.readFileSync(path.join(tipsDir, tf), "utf-8")
+          if (content.includes("status: new")) tipsNew++
+        } catch { /* skip */ }
+      }
+    }
+
     // Pipeline: last run status
     let pipelineStatus = "unknown"
     let pipelineLastRun = null
@@ -74,6 +87,7 @@ export async function GET() {
       alerts: { critical: alertsCritical, warning: alertsWarning },
       notes: { open: notesOpen },
       suggestions: { highPending: suggestionsHigh },
+      tips: { new: tipsNew },
       pipeline: { status: pipelineStatus, lastRun: pipelineLastRun },
     })
   } catch (error: unknown) {
