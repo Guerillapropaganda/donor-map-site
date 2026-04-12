@@ -2,7 +2,7 @@
 title: "Blue Cross Blue Shield Association"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -11,7 +11,7 @@ issues:
   - "Healthcare"
   - "Antitrust & Monopoly"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 ofac-programs:

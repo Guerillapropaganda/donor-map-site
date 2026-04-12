@@ -2,12 +2,12 @@
 title: "Barbara Lee"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 total-received: "$375,046"
 fec-candidate-id: "H8CA09060"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"

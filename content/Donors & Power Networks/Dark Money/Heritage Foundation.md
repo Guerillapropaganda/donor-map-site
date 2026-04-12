@@ -383,5 +383,5 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 - [[Stephen Miller]] — lobbying: $1.6M
 - [[Jodey Arrington]] (Budget, Ways & Means, Agriculture) — lobbying: $1.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->

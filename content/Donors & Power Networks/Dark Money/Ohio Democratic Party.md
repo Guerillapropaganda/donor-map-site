@@ -236,7 +236,7 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - [[Richard Neal]] (Ways & Means) — lobbying: $2.8M
 - [[Amy Acton]] — lobbying: $2.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

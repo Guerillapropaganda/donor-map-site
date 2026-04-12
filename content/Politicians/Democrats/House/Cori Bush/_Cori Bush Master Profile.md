@@ -2,7 +2,7 @@
 title: "Cori Bush"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -63,7 +63,7 @@ checklist-na:
 known-gaps:
   - 2026 comeback campaign ongoing — state-level polling and endorsements not yet fully documented
   - Federal indictment (Aug 2025) outcome pending — court filings need citation once resolved
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
@@ -389,7 +389,7 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 - [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-11 -->
+<!-- auto:voting-record pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

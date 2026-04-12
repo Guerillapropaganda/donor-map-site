@@ -2,7 +2,7 @@
 title: "John Deere"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -173,7 +173,7 @@ The right-to-repair fight is a case study in how intellectual property law conve
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-11 -->
+<!-- auto:propublica-990 pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

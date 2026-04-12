@@ -205,7 +205,7 @@ Tuberville's political career is the purest expression of celebrity candidacy in
 
 - [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (Congress.gov)

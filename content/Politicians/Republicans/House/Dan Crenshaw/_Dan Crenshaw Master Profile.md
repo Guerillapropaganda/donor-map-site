@@ -261,7 +261,7 @@ party:: Republican
 
 - [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

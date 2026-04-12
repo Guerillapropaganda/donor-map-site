@@ -307,5 +307,5 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 - [[Heritage Foundation]] — $1.6M lobbying spend (Agriculture, Arts/Entertainment, Banking)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->

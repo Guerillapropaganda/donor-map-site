@@ -2,7 +2,7 @@
 title: "California Farm Bureau Federation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -22,7 +22,7 @@ annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
@@ -156,7 +156,7 @@ Immigration — H-2A program, undocumented workforce
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-11 -->
+<!-- auto:propublica-990 pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -443,5 +443,5 @@ Immigration — H-2A program, undocumented workforce
 - [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $10.7M
 - [[Lindsey Graham]] — lobbying: $10.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->

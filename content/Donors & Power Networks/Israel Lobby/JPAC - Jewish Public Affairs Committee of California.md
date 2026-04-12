@@ -2,7 +2,7 @@
 title: "JPAC - Jewish Public Affairs Committee of California"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Israel Lobby"
@@ -12,7 +12,7 @@ politicians-funded:
 issues:
   - "Israel & Foreign Policy"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:

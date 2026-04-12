@@ -137,5 +137,5 @@ Lawrence Summers exemplifies the intellectual capture of the Democratic Party by
 - [[Kamala Harris]] — lobbying: $68K
 - [[Barack Obama]] — lobbying: $68K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->

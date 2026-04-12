@@ -196,5 +196,5 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 
 - [[Gavin Newsom]] — lobbying: $680K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->

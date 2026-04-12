@@ -2,7 +2,7 @@
 title: "Frank Pallone"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -32,7 +32,7 @@ total-received: "$1,311,209"
 fec-candidate-id: "H8NJ03073"
 donors: "[[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UAW - United Auto Workers]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Pfizer]] · [[PhRMA]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 govtrack-id: 400308

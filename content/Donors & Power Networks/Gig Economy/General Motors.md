@@ -165,7 +165,7 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 - [[Joe Biden]] — lobbying: $61.2M
 - [[Barack Obama]] — lobbying: $61.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)

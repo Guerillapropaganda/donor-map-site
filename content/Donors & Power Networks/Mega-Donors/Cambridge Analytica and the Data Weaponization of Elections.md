@@ -130,5 +130,5 @@ research-status:: ready — $15-20M Mercer investment, 87M Facebook profiles, ps
 - [[Ted Cruz]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Foreign Relations, Senate Committee on Rules and Administration) — lobbying: $790K
 - [[Steve Bannon]] — lobbying: $790K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->

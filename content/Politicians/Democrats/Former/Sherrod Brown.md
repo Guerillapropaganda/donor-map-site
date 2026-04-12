@@ -2,7 +2,7 @@
 title: "Sherrod Brown"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"
@@ -51,7 +51,7 @@ total-raised: "$14,356,451"
 total-spent: "$4,456,809"
 cash-on-hand: "9899641.92"
 fec-cycle: 2026
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 bioguide-id: "B001313"
 issues:
   - "Agriculture and Food"
@@ -176,7 +176,7 @@ Brown's response was muted. He had no equivalent funding mechanism. Labor unions
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-11 -->
+<!-- auto:fec-politician pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

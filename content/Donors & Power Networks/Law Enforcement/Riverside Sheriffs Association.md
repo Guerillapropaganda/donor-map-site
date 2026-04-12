@@ -196,7 +196,7 @@ Criminal Justice — structural parallel to CCPOA as law enforcement union block
 
 - [[Chad Bianco]] — lobbying: $1.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

@@ -2,7 +2,7 @@
 title: "Great Lakes Conservatives Fund"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -12,7 +12,7 @@ politicians-funded:
   - "Abdul El-Sayed"
   - "Mallory McMorrow"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:

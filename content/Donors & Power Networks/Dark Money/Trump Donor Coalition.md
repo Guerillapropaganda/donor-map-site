@@ -197,7 +197,7 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 
 - [[Donald Trump]] — lobbying: $40K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

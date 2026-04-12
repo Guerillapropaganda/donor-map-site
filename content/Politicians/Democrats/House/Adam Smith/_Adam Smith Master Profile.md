@@ -2,7 +2,7 @@
 title: "Adam Smith"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -33,7 +33,7 @@ top-donors:
 fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 govtrack-id: 400379
@@ -161,7 +161,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 - ~~[Source: FEC.gov](https://www.fec.gov/data/candidate/S0KS00216/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-11 -->
+<!-- auto:fec-politician pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -243,7 +243,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-11 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -257,7 +257,7 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 
 - **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **House Committee on Armed Services**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

@@ -144,7 +144,7 @@ Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated 
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[Paul Singer]] — $1.3M lobbying spend (Accounting, Aerospace, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### Wikipedia

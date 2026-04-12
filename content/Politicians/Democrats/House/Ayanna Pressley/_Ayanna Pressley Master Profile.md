@@ -2,7 +2,7 @@
 title: "Ayanna Pressley Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -40,7 +40,7 @@ source-types:
 corroboration-count: 4
 known-gaps:
   - DOJ press pipeline data stripped 2026-04-10 (was false positive index-size bug — 264,413 generic mentions). Needs re-enrichment after DOJ pipeline sanity cap takes effect.
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "demote to draft; re-run fec pipeline; re-run congress pipeline"
 opposes:
@@ -278,7 +278,7 @@ The notable absence: no Glass-Steagall restoration co-sponsorship, no financial 
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-11 -->
+<!-- auto:voting-record pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

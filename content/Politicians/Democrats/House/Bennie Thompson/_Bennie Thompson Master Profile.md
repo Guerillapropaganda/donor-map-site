@@ -2,7 +2,7 @@
 title: "Bennie Thompson"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,7 +22,7 @@ bills-cosponsored: 355
 website: "https://benniethompson.house.gov"
 phone: "202-225-5876"
 donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"

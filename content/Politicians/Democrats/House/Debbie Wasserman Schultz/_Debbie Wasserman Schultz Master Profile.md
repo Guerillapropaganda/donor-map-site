@@ -2,7 +2,7 @@
 title: "Debbie Wasserman Schultz"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -17,7 +17,7 @@ top-donors:
   - "AIPAC"
 total-received: "$1,785,365"
 fec-candidate-id: "H4FL20023"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]]"

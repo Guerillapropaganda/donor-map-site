@@ -133,7 +133,7 @@ John Thune. Senate Majority Leader (2025–present). Republican senator from Sou
 
 - [[Insurance Industry]] — $25.6M lobbying spend (Accounting, Agriculture, Alcohol and Drug Abuse) + $11K in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

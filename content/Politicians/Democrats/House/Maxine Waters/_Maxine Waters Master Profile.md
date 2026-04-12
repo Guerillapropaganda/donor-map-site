@@ -214,7 +214,7 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 - [GovTrack: Maxine Waters](https://www.govtrack.us/congress/members/400422) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-11 -->
+<!-- auto:voting-record pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

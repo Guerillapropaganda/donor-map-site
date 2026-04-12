@@ -2,7 +2,7 @@
 title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -57,7 +57,7 @@ reenrich-reason: "run pipelines"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 committees:
   - "House Committee on Energy and Commerce"
 total-raised: "$23,658,045"

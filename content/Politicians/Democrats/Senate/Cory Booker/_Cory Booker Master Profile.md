@@ -2,7 +2,7 @@
 title: "Cory Booker"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -222,7 +222,7 @@ The development was real. The question is who benefited: corporate headquarters 
 - [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
 - [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
 ### Congressional Stock Trades (STOCK Act)
@@ -252,7 +252,7 @@ The development was real. The question is who benefited: corporate headquarters 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-11 -->
+<!-- auto:stock-trades pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

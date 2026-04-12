@@ -2,7 +2,7 @@
 title: "Tim Walz"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -13,7 +13,7 @@ total-received: "$113,151"
 fec-candidate-id: "H6MN01174"
 donors: "[[Democracy Alliance]]"
 wikidata-id: "Q2434360"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 wikipedia-url: "https://en.wikipedia.org/wiki/Tim_Walz"
@@ -125,7 +125,7 @@ He is not corrupt in the transactional sense. He believes in progressive values 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-11 -->
+<!-- auto:fec-politician pending-merge 2026-04-12 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
