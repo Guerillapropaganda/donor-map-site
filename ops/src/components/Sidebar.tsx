@@ -17,6 +17,7 @@ const NAV_ITEMS = [
   { href: "/publisher", label: "Publisher", icon: "plus" },
   { href: "/profile", label: "Profile View", icon: "user" },
   { href: "/money-trail", label: "Money Trail", icon: "dollar" },
+  { href: "/capitol-trades", label: "Capitol Trades", icon: "trending" },
   { href: "/calendar", label: "Calendar", icon: "calendar" },
   { href: "/alerts", label: "Alerts", icon: "bell" },
   { href: "/distribution", label: "Distribution", icon: "share" },
@@ -43,6 +44,7 @@ const ICONS: Record<string, string> = {
   check: "M5 13l4 4L19 7",
   terminal: "M8 9l3 3-3 3m5 0h3M5 20h14a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z",
   target: "M15 12a3 3 0 11-6 0 3 3 0 016 0zM12 4a8 8 0 108 8 8 8 0 00-8-8zm0-2v2m0 16v2m10-10h-2M4 12H2",
+  trending: "M13 7h8m0 0v8m0-8l-8 8-4-4-6 6",
 }
 
 interface StatusBadges {

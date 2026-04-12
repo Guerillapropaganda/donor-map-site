@@ -2955,3 +2955,66 @@ _No incidents yet. Add entries here as bugs are discovered and fixed._
 ```
 
 ---
+
+## 13. Congressional Financial Disclosures (Senate EFDS + House Clerk)
+
+### Identity
+- **Senate EFDS** — Electronic Financial Disclosure System, Office of the Secretary of the Senate
+- **House Clerk** — Office of the Clerk, U.S. House of Representatives, Legislative Resource Center
+- **Legal basis:** STOCK Act (2012) requires members to disclose stock transactions >$1,000 within 45 days
+
+### API access
+- **Senate:** POST API at `https://efdsearch.senate.gov/search/report/data/`
+  - Requires CSRF token from `GET /search/home/` (cookie + hidden form field)
+  - Must POST agreement acceptance first (`prohibition_agreement=1`)
+  - Returns JSON with filing metadata; individual reports are HTML pages
+  - No API key needed, but rate-limit to 1 req/sec to avoid blocks
+- **House:** ASP.NET search form at `https://disclosures-clerk.house.gov/FinancialDisclosure/ViewMemberSearchResult`
+  - Requires `__VIEWSTATE`, `__VIEWSTATEGENERATOR`, `__EVENTVALIDATION` tokens from GET
+  - Individual PTRs are PDFs at `/public_disc/ptr-pdfs/{YEAR}/{ID}.pdf`
+  - No API key needed
+
+### Core endpoints
+- **Senate search:** `POST /search/report/data/` with `report_types=[11]` (PTR), `filer_types=[1]` (Senator), `submitted_start_date`, `submitted_end_date`
+- **Senate report:** `GET /search/view/ptr/{uuid}/` returns HTML transaction table
+- **House search:** `POST /FinancialDisclosure/ViewMemberSearchResult` with `FilingType=P` (PTR), `FilingYear`
+- **House PDFs:** `GET /public_disc/ptr-pdfs/{year}/{id}.pdf`
+
+### Identifiers
+- Senate uses UUIDs for report pages
+- House uses numeric document IDs for PDFs
+- Cross-reference with Congress.gov `bioguide_id` for profile matching
+
+### Canonical URL format
+- **Senate filing:** `https://efdsearch.senate.gov/search/view/ptr/{uuid}/`
+- **House PTR PDF:** `https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/{year}/{id}.pdf`
+- **URLs to AVOID:** Third-party aggregators (Quiver Quantitative, Capitol Trades) are Tier 2/3
+
+### Known quirks / gotchas (from public documentation)
+- Senate EFDS requires cookie-based CSRF token AND a `prohibition_agreement` POST before search works
+- Senate sometimes returns `filer_type` as numeric codes, not strings
+- House PTR PDFs are scanned forms with variable layouts; PDF text extraction is imperfect
+- House ASP.NET ViewState tokens expire; re-fetch the form page if POST returns 500
+- Amount ranges are standardized by law but text formatting varies between chambers
+- Filing delay = `filing_date - transaction_date`; the STOCK Act allows up to 45 days
+- Senate "Periodic Transaction Report" = `report_types=[11]`; Annual = `[7]`
+
+### Quality signals (how to detect contaminated data)
+- Filing with 0 transactions = likely a parse failure, not an empty filing
+- Duplicate filings (same senator + date) = amendments; keep the latest
+- Amount "$0" or missing = data extraction error
+- Ticker "N/A" or "--" = asset is not publicly traded (real estate, funds, etc.)
+
+### Fallback sources
+- Senate Stock Watcher (senatestockwatcher.com) has pre-parsed JSON archives
+- Quiver Quantitative API (Tier 2 aggregator)
+- Lambda Finance API (Tier 2 aggregator)
+
+### Recent changes / deprecations
+- Senate EFDS has been stable since 2020 redesign
+- House Clerk site uses legacy ASP.NET; no planned migration announced
+
+### Known incidents (our vault)
+_No incidents yet. Pipeline created 2026-04-12. Add entries here as bugs are discovered and fixed._
+
+---
