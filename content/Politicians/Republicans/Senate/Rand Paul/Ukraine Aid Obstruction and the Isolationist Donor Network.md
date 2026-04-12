@@ -17,7 +17,7 @@ donors: Libertarian Donor Network · Isolationist Donor Network
 
 [[_Rand Paul Master Profile|Rand Paul]] has blocked or delayed Ukraine aid funding multiple times since Russia's 2022 full-scale invasion:
 
-**May 2022:** Paul placed a hold on the $40 billion Ukraine aid package, preventing unanimous consent passage and delaying the bill by approximately one week. His stated demand: appointment of a special inspector general to oversee how U.S. Ukraine spending is used. He cited gas prices, food prices, and inflation. The bill ultimately passed overwhelmingly — 86–11 in the Senate — after the delay.
+**May 2022:** Paul placed a hold on the $40 billion Ukraine aid package, preventing unanimous consent passage and delaying the bill by approximately one week. His stated demand: appointment of a special inspector general to oversee how U.S. Ukraine spending is used. He cited gas prices, food prices, and inflation. The bill ultimately passed overwhelmingly, 86–11 in the Senate, after the delay.
 
 **February 2024:** Paul used procedural tactics to slow the $95.3 billion foreign aid package (Ukraine, Israel, Taiwan). He stated he was willing to hold the floor "for a week or a month" to force debate on U.S. border policy, demanding that Ukraine border funding be conditioned on U.S. border security measures. The delay forced overtime Senate sessions but ultimately failed to stop the bill.
 
@@ -39,7 +39,7 @@ The fiscal responsibility argument is selective. Paul has voted for tax cuts (th
 
 The oversight argument was addressed in later packages, which included enhanced accountability mechanisms. Paul continued to obstruct.
 
-The diplomacy argument — that U.S. aid prolongs the war — is the most consequential. It aligns with the Russian government's stated preference for reduced U.S. support for Ukraine. It benefits any actor interested in a frozen conflict or Russian territorial gains in Ukraine. It does not obviously benefit the working-class Kentuckians Paul claims to represent.
+The diplomacy argument, that U.S. aid prolongs the war, is the most consequential. It aligns with the Russian government's stated preference for reduced U.S. support for Ukraine. It benefits any actor interested in a frozen conflict or Russian territorial gains in Ukraine. It does not obviously benefit the working-class Kentuckians Paul claims to represent.
 
 > [!contradiction]
 > Paul cited inflation and high gas prices as reasons to block Ukraine aid in May 2022. Russia's invasion of Ukraine was a primary driver of the global energy price spike Paul cited. The solution to energy price inflation caused by Russian aggression was not to reduce aid to the country resisting that aggression — it was to resolve the conflict. Paul's analysis inverted the causal chain in ways that happened to serve Russia's strategic interest in reduced Western support for Ukraine.
@@ -54,7 +54,7 @@ The donor-class lens requires asking: which economic actors benefit from U.S. wi
 
 **American fossil fuel interests:** The Koch network, heavily invested in fossil fuels, benefits from weaker European energy independence. A prolonged Russia-Ukraine conflict keeps European energy markets disrupted and European demand for American LNG elevated. U.S. isolationism that allows Russian energy leverage over Europe serves Koch Industries' export interests.
 
-**Anti-NATO donor networks:** Paul's political base includes donors who oppose U.S. military commitments abroad — not from principled pacifism but from a specific anti-globalist, America-first ideology that intersects with white nationalist and paleoconservative networks. These donors fund isolationist think tanks (Quincy Institute, parts of the Ron Paul network) that provide intellectual cover for Paul's positions.
+**Anti-NATO donor networks:** Paul's political base includes donors who oppose U.S. military commitments abroad, not from principled pacifism but from a specific anti-globalist, America-first ideology that intersects with white nationalist and paleoconservative networks. These donors fund isolationist think tanks (Quincy Institute, parts of the Ron Paul network) that provide intellectual cover for Paul's positions.
 
 **Arms industry competitors:** Some American defense manufacturers who compete with European counterparts for market share benefit from reduced U.S. commitment to NATO-standard interoperability and European defense investment.
 
@@ -65,9 +65,9 @@ The donor-class lens requires asking: which economic actors benefit from U.S. wi
 
 ### The Isolationist Brand and the Ron Paul Inheritance
 
-Paul's Ukraine obstruction is continuous with the Ron Paul foreign policy legacy. Ron Paul ran three presidential campaigns on a platform of radical non-interventionism — withdrawal from NATO, closure of foreign military bases, opposition to all foreign aid. This platform built a dedicated donor base of libertarian-isolationists who remained active through the 2010s and became a component of the broader MAGA coalition.
+Paul's Ukraine obstruction is continuous with the Ron Paul foreign policy legacy. Ron Paul ran three presidential campaigns on a platform of radical non-interventionism, withdrawal from NATO, closure of foreign military bases, opposition to all foreign aid. This platform built a dedicated donor base of libertarian-isolationists who remained active through the 2010s and became a component of the broader MAGA coalition.
 
-[[_Rand Paul Master Profile|Rand Paul]] inherited this base. His Ukraine obstruction activates and retains it. The donors who funded Ron Paul's presidential campaigns — and who now fund organizations like Campaign for Liberty and Young Americans for Liberty — reward Rand Paul's isolationism with continued small-dollar and some large-dollar support.
+[[_Rand Paul Master Profile|Rand Paul]] inherited this base. His Ukraine obstruction activates and retains it. The donors who funded Ron Paul's presidential campaigns, and who now fund organizations like Campaign for Liberty and Young Americans for Liberty, reward Rand Paul's isolationism with continued small-dollar and some large-dollar support.
 
 ---
 
@@ -82,7 +82,7 @@ The question of direct connections between Paul's positions and Russian interest
 
 What is not established: any direct financial or operational connection between Paul and Russian government or oligarch interests.
 
-The honest framing is that Paul's positions align with Russian strategic preferences, that he has made personal diplomatic contact with Russian leadership, and that his obstruction of Ukraine aid has functionally served Russian interests — without evidence of direct coordination. The donor-class analysis does not require a conspiracy: it requires only that the financial interests of Paul's donor base (isolationist libertarians, fossil fuel-aligned Koch network) overlap with Russian geopolitical interests, which they do.
+The honest framing is that Paul's positions align with Russian strategic preferences, that he has made personal diplomatic contact with Russian leadership, and that his obstruction of Ukraine aid has functionally served Russian interests, without evidence of direct coordination. The donor-class analysis does not require a conspiracy: it requires only that the financial interests of Paul's donor base (isolationist libertarians, fossil fuel-aligned Koch network) overlap with Russian geopolitical interests, which they do.
 
 ---
 

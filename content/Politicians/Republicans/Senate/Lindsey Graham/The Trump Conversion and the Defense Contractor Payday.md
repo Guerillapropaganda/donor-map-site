@@ -17,7 +17,7 @@ donors: [[Defense Industry Bloc]] · [[AIPAC - American Israel Public Affairs Co
 
 The Graham-Trump transformation is documented in Graham's own words, across a span of four years:
 
-**2015 (primary season):** Graham calls Trump "a race-baiting, xenophobic, religious bigot." He says Trump is "unfit for office." He says: "If we nominate Trump, we will get destroyed... and we will deserve it." He calls Trump "a jackass." He publicly destroys his phone after Trump reads out his personal cell number at a campaign rally.
+**2015 (primary season):** Graham calls Trump "a race-baiting, xenophobic, religious bigot." He says Trump is "unfit for office." He says: "If we nominate Trump, we will get destroyed.. and we will deserve it." He calls Trump "a jackass." He publicly destroys his phone after Trump reads out his personal cell number at a campaign rally.
 
 **2016 (after McCain endorses Trump):** Graham refuses to vote for Trump in the general election. He writes in his friend John McCain's name.
 
@@ -31,11 +31,11 @@ The Graham-Trump transformation is documented in Graham's own words, across a sp
 
 ### What Changed: The Donor Map
 
-The standard explanation for the Graham transformation is fear — fear of a primary challenge from the right, fear of losing relevance, fear of Trump's wrath. This explanation is incomplete. Fear is real, but the mechanism is financial.
+The standard explanation for the Graham transformation is fear, fear of a primary challenge from the right, fear of losing relevance, fear of Trump's wrath. This explanation is incomplete. Fear is real, but the mechanism is financial.
 
-John McCain died in August 2018. McCain's death removed the anchor of Graham's original political identity — the maverick, bipartisan, McCain-wing Republican who attracted moderate donors and defense-hawk think tank money. Without McCain, Graham needed a new patron network.
+John McCain died in August 2018. McCain's death removed the anchor of Graham's original political identity, the maverick, bipartisan, McCain-wing Republican who attracted moderate donors and defense-hawk think tank money. Without McCain, Graham needed a new patron network.
 
-The Kavanaugh hearing in September 2018 — one month after McCain's death — was the pivot. Graham's viral outrage performance generated a reported fundraising spike. Conservative donors who had never contributed to Graham suddenly opened their checkbooks. The Trump donor pipeline — MAGA small-dollar, conservative super PACs, nationalist mega-donors — became available to Graham the moment he performed loyalty to the Trump agenda.
+The Kavanaugh hearing in September 2018, one month after McCain's death, was the pivot. Graham's viral outrage performance generated a reported fundraising spike. Conservative donors who had never contributed to Graham suddenly opened their checkbooks. The Trump donor pipeline. MAGA small-dollar, conservative super PACs, nationalist mega-donors, became available to Graham the moment he performed loyalty to the Trump agenda.
 
 > [!money]
 > Graham raised $28 million in a single quarter (Q3 2020), during the most expensive Senate race in history at that time, against Democrat Jaime Harrison. That quarter shattered Senate fundraising records. Where did the money come from? Overwhelmingly from out-of-state donors — 86% of Graham's donations came from outside South Carolina. The Trump donor network, activated by Graham's Kavanaugh performance and sustained by his consistent Trump loyalty, funded a South Carolina Senate seat with national MAGA money. Graham didn't change his principles. He changed his patron. The patron changed his money.
@@ -46,7 +46,7 @@ The Kavanaugh hearing in September 2018 — one month after McCain's death — w
 
 The one element of Graham's career that did not change across the McCain-to-Trump transformation is his relationship with defense contractors. Before McCain died, Graham was a defense hawk because the McCain donor network rewarded it. After Trump, Graham remained a defense hawk because the defense contractor donor network never stopped rewarding it.
 
-Since 2018, Graham's campaigns have collected at least $2.1 million directly from defense corporations: [[Lockheed Martin|Lockheed Martin]] ($20K), [[Boeing|Boeing]] ($30K+), Northrop Grumman ($31.5K+), and dozens of smaller defense firms. He has lobbied aggressively for South Carolina's military installations — the state has six major bases (Fort Jackson, Shaw AFB, McEntire JNGB, Marine Corps Air Station Beaufort, Parris Island, and Joint Base Charleston). Graham has requested hundreds of millions in federal construction money for these bases.
+Since 2018, Graham's campaigns have collected at least $2.1 million directly from defense corporations: [[Lockheed Martin|Lockheed Martin]] ($20K), [[Boeing|Boeing]] ($30K+), Northrop Grumman ($31.5K+), and dozens of smaller defense firms. He has lobbied aggressively for South Carolina's military installations, the state has six major bases (Fort Jackson, Shaw AFB, McEntire JNGB, Marine Corps Air Station Beaufort, Parris Island, and Joint Base Charleston). Graham has requested hundreds of millions in federal construction money for these bases.
 
 The economic logic is transparent: South Carolina's military bases generate approximately $30 billion annually in economic activity and support roughly 165,000 jobs. Defense contractors who operate on those bases have a direct financial stake in maintaining a South Carolina senator who will fight for base funding and defense appropriations. Graham is that senator. The donations are retainer fees.
 
@@ -69,7 +69,7 @@ Graham's defense contractor relationship is inseparable from South Carolina's ec
 | Shaw AFB | ~$2B annually | Lockheed (F-16 mission) |
 | MCAS Beaufort/Parris Island | ~$3B annually | Various |
 
-Graham has explicitly linked his Senate role to defense appropriations for these installations. He has requested $230M+ in federal construction money for base projects in a single year. The contractors who operate these bases — [[Boeing|Boeing]] (C-17s at Charleston), Lockheed (F-16/F-35 maintenance), Northrop Grumman (various) — donate to Graham's campaigns and PACs.
+Graham has explicitly linked his Senate role to defense appropriations for these installations. He has requested $230M+ in federal construction money for base projects in a single year. The contractors who operate these bases, [[Boeing|Boeing]] (C-17s at Charleston), Lockheed (F-16/F-35 maintenance), Northrop Grumman (various), donate to Graham's campaigns and PACs.
 
 > [!contradiction]
 > Graham ran in 2020 against Jaime Harrison, a candidate who raised $130 million largely on small-dollar donations from national Democrats who wanted to flip the seat. Graham won with $135 million, almost entirely from out-of-state Republican donors and super PAC money. A South Carolina Senate race became a national money primary. Graham's margin of victory depended not on South Carolina voters' preferences (he won by 10 points) but on the national donor network's willingness to fund his seat as a strategic asset. South Carolina provides the votes; the defense contractors and Trump donor network provide the funding. Graham serves the latter.
@@ -78,11 +78,11 @@ Graham has explicitly linked his Senate role to defense appropriations for these
 
 ### The Conversion Was Not Ideological: The Evidence
 
-If Graham's transformation from Trump critic to Trump loyalist were ideological — a genuine reconsideration of Trump's leadership qualities — we would expect to see it reflected in policy positions. Instead:
+If Graham's transformation from Trump critic to Trump loyalist were ideological, a genuine reconsideration of Trump's leadership qualities, we would expect to see it reflected in policy positions. Instead:
 
 Graham opposed Trump's immigration policies (family separation, Muslim ban) in 2017 and 2018, then stopped mentioning them.
 
-Graham criticized Trump's withdrawal from Syria in 2019 as a "disaster" — one of his few post-conversion dissents — because Syria withdrawal threatened defense contractor and [[AIPAC - American Israel Public Affairs Committee|AIPAC]] interests. His criticism tracked his donor interests, not his stated Trump loyalty.
+Graham criticized Trump's withdrawal from Syria in 2019 as a "disaster", one of his few post-conversion dissents, because Syria withdrawal threatened defense contractor and [[AIPAC - American Israel Public Affairs Committee|AIPAC]] interests. His criticism tracked his donor interests, not his stated Trump loyalty.
 
 Graham said after January 6, 2021: "Count me out. Enough is enough." He was on Fox News defending Trump's election challenges within weeks.
 

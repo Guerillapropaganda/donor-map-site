@@ -14,40 +14,40 @@ donors: [[AIPAC - American Israel Public Affairs Committee]] | [[JPAC - Jewish P
 ---
 
 ### Overview
-This note covers Newsom's documented positions on Israel from October 7, 2023 through March 2026 — the full arc from his immediate pro-Israel response through his "apartheid state" comment and the damage control that followed. The pattern is a politician reading poll numbers in real time and calling it conscience.
+This note covers Newsom's documented positions on Israel from October 7, 2023 through March 2026, the full arc from his immediate pro-Israel response through his "apartheid state" comment and the damage control that followed. The pattern is a politician reading poll numbers in real time and calling it conscience.
 
 ---
 
-### October 2023 — The Immediate Response
-Within days of October 7, Newsom flew to Israel, met with [[_Benjamin Netanyahu Master Profile|Netanyahu]], and ordered the California state Capitol dome lit in Israeli colors. — CalMatters, November 2023.
+### October 2023. The Immediate Response
+Within days of October 7, Newsom flew to Israel, met with [[_Benjamin Netanyahu Master Profile|Netanyahu]], and ordered the California state Capitol dome lit in Israeli colors. CalMatters, November 2023.
 
 Palestinian community leaders waited weeks for a comparable meeting. Gaza aid stalled entirely. No comparable solidarity gesture was made toward Palestinian Californians.
 
 ---
 
-### 2024 — Anti-Protest Legislation
-Newsom signed a package of bills backed by the California Legislative Jewish Caucus and the ADL that critics argued conflated antisemitism with criticism of Israeli military conduct. This included legislation that could strip state funding from universities where teachers discuss the occupation, and measures that criminalized pro-Palestinian leafleting on campuses — all framed as anti-hate legislation. — World Socialist Web Site, October 2024. [Tier 4 — flag: WSWS is a far-left outlet; the legislative record itself is verifiable through primary sources and should be cross-checked.]
+### 2024. Anti-Protest Legislation
+Newsom signed a package of bills backed by the California Legislative Jewish Caucus and the ADL that critics argued conflated antisemitism with criticism of Israeli military conduct. This included legislation that could strip state funding from universities where teachers discuss the occupation, and measures that criminalized pro-Palestinian leafleting on campuses, all framed as anti-hate legislation. World Socialist Web Site, October 2024. [Tier 4, flag: WSWS is a far-left outlet; the legislative record itself is verifiable through primary sources and should be cross-checked.]
 
 The framing is worth noting: the bills were unassailable as presented (nobody opposes anti-hate measures), but the actual text created enforcement mechanisms against speech about Israeli policy specifically.
 
 ---
 
-### January 2026 — The Ben Shapiro Podcast
-On the Ben Shapiro podcast, Newsom said "there was no genocide" in Gaza and declared himself "crystal clear in my love for Israel." — Haaretz, January 2026. [Tier 2]
+### January 2026. The Ben Shapiro Podcast
+On the Ben Shapiro podcast, Newsom said "there was no genocide" in Gaza and declared himself "crystal clear in my love for Israel.". Haaretz, January 2026. [Tier 2]
 
 Context: Shapiro's audience is conservative. This appearance was read as Newsom positioning himself as a center-right voice on Israel ahead of a potential 2028 presidential run.
 
 ---
 
-### February 2026 — The [[AIPAC - American Israel Public Affairs Committee|AIPAC]] Stumble
-Newsom stumbled when asked about AIPAC funding, before landing on: "I never have and never will accept AIPAC money." Technically true — AIPAC doesn't fund state races. He gave them $500 in 2003. [See: [[Early History and Background Ties 2003-2019]]]
+### February 2026. The [[AIPAC - American Israel Public Affairs Committee|AIPAC]] Stumble
+Newsom stumbled when asked about AIPAC funding, before landing on: "I never have and never will accept AIPAC money." Technically true. AIPAC doesn't fund state races. He gave them $500 in 2003. [See: [[Early History and Background Ties 2003-2019]]]
 
 ---
 
-### March 2026 — "Sort of an Apartheid State"
-Weeks after the Shapiro appearance, on a progressive podcast targeting 2028 primary voters, Newsom called Israel "sort of an apartheid state" and said the U.S. would likely have no choice but to reconsider military aid. — The New Republic, March 2026. [Tier 3]
+### March 2026, "Sort of an Apartheid State"
+Weeks after the Shapiro appearance, on a progressive podcast targeting 2028 primary voters, Newsom called Israel "sort of an apartheid state" and said the U.S. would likely have no choice but to reconsider military aid. The New Republic, March 2026. [Tier 3]
 
-His staff immediately convened a Zoom call reassuring Jewish community leaders that his position hadn't changed. — J Weekly, March 2026. [Tier 2]
+His staff immediately convened a Zoom call reassuring Jewish community leaders that his position hadn't changed. J Weekly, March 2026. [Tier 2]
 
 This is the two-audience problem in real time: one statement for progressive primary voters, immediate private reassurance to the donor network that nothing actually changed.
 
@@ -66,11 +66,11 @@ This is the two-audience problem in real time: one statement for progressive pri
 ---
 
 ### Content Angles
-**"The Position Tracker"** — A tight video running the timeline: Oct. 2023 (flies to Israel, lights the dome), Jan. 2026 (no genocide, love for Israel, on Shapiro's show), Feb. 2026 (stumbles on AIPAC question), March 2026 (apartheid state, reconsider military aid). No narration needed. Let the clips do it.
+**"The Position Tracker"**. A tight video running the timeline: Oct. 2023 (flies to Israel, lights the dome), Jan. 2026 (no genocide, love for Israel, on Shapiro's show), Feb. 2026 (stumbles on AIPAC question), March 2026 (apartheid state, reconsider military aid). No narration needed. Let the clips do it.
 
-**"Anti-Hate or Anti-Protest?"** — Drill into the California anti-antisemitism legislation. The framing is unassailable — nobody's for hate. But the actual text created mechanisms to defund universities for teaching about the occupation. Who wrote it? ADL, the Legislative Jewish Caucus. Who benefits?
+**"Anti-Hate or Anti-Protest?"**. Drill into the California anti-antisemitism legislation. The framing is unassailable, nobody's for hate. But the actual text created mechanisms to defund universities for teaching about the occupation. Who wrote it? ADL, the Legislative Jewish Caucus. Who benefits?
 
-**"The Donor Class Translator"** — Use Rep. Ro Khanna's own words: "He doesn't want to offend the donor class. And that explains his position on giving Netanyahu a blank check right after October 7." A Democrat saying it about another Democrat gives you cover and credibility.
+**"The Donor Class Translator"**. Use Rep. Ro Khanna's own words: "He doesn't want to offend the donor class. And that explains his position on giving Netanyahu a blank check right after October 7." A Democrat saying it about another Democrat gives you cover and credibility.
 
 ---
 
@@ -83,7 +83,7 @@ This is the two-audience problem in real time: one statement for progressive pri
 >
 > "Sort of an apartheid state." — Newsom, progressive podcast, March 2026. [Staff immediately convened Zoom damage control with Jewish community leaders afterward, reassuring them his position hadn't changed.]
 
-"He doesn't want to offend the donor class. And that explains his position on giving Netanyahu a blank check right after October 7." — Rep. [[Ro Khanna]], Times of Israel.
+"He doesn't want to offend the donor class. And that explains his position on giving Netanyahu a blank check right after October 7.". Rep. [[Ro Khanna]], Times of Israel.
 
 ---
 

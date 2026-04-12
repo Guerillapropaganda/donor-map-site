@@ -40,11 +40,11 @@ The result: unprecedented spending from crypto PACs (Fairshake), traditional Dem
 
 ### Why Lawler is Vulnerable
 
-[[_Mike Lawler Master Profile|Mike Lawler]] represents one of the most Democratic-leaning districts held by a Republican in the entire House. His political survival depends on split-ticket voting and personal brand strength — but both are being tested in 2026.
+[[_Mike Lawler Master Profile|Mike Lawler]] represents one of the most Democratic-leaning districts held by a Republican in the entire House. His political survival depends on split-ticket voting and personal brand strength, but both are being tested in 2026.
 
 [Vulnerable GOP Rep [[_Mike Lawler Master Profile|Mike Lawler]] brings in over $1M for 2026 House race - Fox News](https://www.foxnews.com/politics/vulnerable-harris-district-republican-brings-over-1-million-dems-scramble-flip-seat) (Tier 3)
 
-**Democratic targeting:** Lawler is the only New Yorker on the DCCC's "Districts in Play" list — a list of the most vulnerable Republicans Democrats believe they can defeat. [Mike Lawler's 17th District targeted by DCCC; big push to flip Hudson Valley seat in 2026 - Yahoo News](https://www.yahoo.news/mike-lawlers-17th-district-targeted-090726858.html) (Tier 3)
+**Democratic targeting:** Lawler is the only New Yorker on the DCCC's "Districts in Play" list, a list of the most vulnerable Republicans Democrats believe they can defeat. [Mike Lawler's 17th District targeted by DCCC; big push to flip Hudson Valley seat in 2026 - Yahoo News](https://www.yahoo.news/mike-lawlers-17th-district-targeted-090726858.html) (Tier 3)
 
 **2026 positioning:** Lawler initially considered running for governor in 2026 but decided to seek reelection to NY-17 instead. He raised $1.1 million in the third quarter of 2025, ending with $2.3 million cash on hand. [Lawler decides not to run for governor in 2026, will seek reelection in NY-17 instead - WAMC](https://www.wamc.org/news/2025-07-23/lawler-decides-not-run-governor-2026-will-seek-reelection-ny-17-instead/) (Tier 3)
 

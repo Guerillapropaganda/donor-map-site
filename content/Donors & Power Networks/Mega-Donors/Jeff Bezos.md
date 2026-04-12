@@ -62,7 +62,7 @@ Jeff Bezos. Founder of Amazon, owner of Blue Origin (space company), and owner o
 
 Bezos's political spending is relatively modest compared to his wealth: he contributed $10 million to a veterans' PAC (2018) and made limited direct campaign contributions. His political influence operates primarily through three channels: Amazon's corporate lobbying ($20+ million annually), The Washington Post's editorial influence, and Blue Origin's competition for government space contracts.
 
-Bezos's 2024 political moment: he blocked The Washington Post from endorsing a presidential candidate for the first time since 1988 — reportedly to avoid antagonizing Trump, whose administration controls federal contracts for Amazon (AWS, DoD) and Blue Origin (NASA, DoD).
+Bezos's 2024 political moment: he blocked The Washington Post from endorsing a presidential candidate for the first time since 1988, reportedly to avoid antagonizing Trump, whose administration controls federal contracts for Amazon (AWS, DoD) and Blue Origin (NASA, DoD).
 
 ---
 
@@ -74,9 +74,9 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 
 ### What He's Gotten
 
-**Washington Post Kill:** Bezos's decision to block the Post's presidential endorsement — overriding the editorial board — demonstrated that media ownership can serve as political insurance: the non-endorsement signaled to Trump that Bezos would not use his media platform against the incoming administration. The implicit trade: editorial restraint in exchange for regulatory restraint against Amazon and Blue Origin.
+**Washington Post Kill:** Bezos's decision to block the Post's presidential endorsement, overriding the editorial board, demonstrated that media ownership can serve as political insurance: the non-endorsement signaled to Trump that Bezos would not use his media platform against the incoming administration. The implicit trade: editorial restraint in exchange for regulatory restraint against Amazon and Blue Origin.
 
-**Blue Origin Government Contracts:** Blue Origin has secured $3.4 billion in NASA Artemis Human Landing System contracts (2023) and competed for national security space launch contracts. Bezos's personal lobbying of members of Congress on NASA funding — and his purchase of a $23 million Washington DC mansion near the Capitol — signals the scale of his government affairs operation.
+**Blue Origin Government Contracts:** Blue Origin has secured $3.4 billion in NASA Artemis Human Landing System contracts (2023) and competed for national security space launch contracts. Bezos's personal lobbying of members of Congress on NASA funding, and his purchase of a $23 million Washington DC mansion near the Capitol, signals the scale of his government affairs operation.
 
 > [!money]
 > Bezos owns three entities with government dependencies: Amazon (AWS government cloud contracts, DoD JWCC, USPS delivery contracts), Blue Origin (NASA contracts, DoD launch services), and The Washington Post (which covers the government that contracts with his companies). The Washington Post endorsement kill demonstrated that all three entities operate as a unified political operation when necessary: Bezos can deploy or withhold media scrutiny to serve his commercial interests. This is not corruption in the legal sense; it is the structural reality of media ownership by government contractors.

@@ -40,18 +40,18 @@ donors: (Self-funded from Columbia/HCA fortune)
 - Jose "Pepe" Fanjul (Florida Crystals): $39,300 to [[_Rick Scott Master Profile|Rick Scott]] Victory Fund
 - "Let's Get to Work" PAC: $1M+ from Big Sugar interests
 - U.S. Sugar: most significant expenditure to any candidate in 2024 cycle
-- The Fanjul brothers control a transnational sugar empire that benefits from federal sugar subsidies and Everglades policy — both areas where Scott has legislative influence
+- The Fanjul brothers control a transnational sugar empire that benefits from federal sugar subsidies and Everglades policy, both areas where Scott has legislative influence
 
 ### Insurance and Real Estate:
 - Jim Henderson (AssuredPartners): $39,300
 - Carlos Beruff (Medallion Home): $39,300
-- Florida's insurance and real estate industries are heavily dependent on state and federal policy — hurricane insurance, flood mapping, building codes — all areas where Scott served as governor
+- Florida's insurance and real estate industries are heavily dependent on state and federal policy, hurricane insurance, flood mapping, building codes, all areas where Scott served as governor
 
 ---
 
 ### The "Blind" Trust
 
-Scott claimed to place his wealth in a "blind trust" to avoid conflicts of interest. The New York Times reported in October 2018 that the trust was "blind in name only" — Scott could determine his exact holdings through various mechanisms.
+Scott claimed to place his wealth in a "blind trust" to avoid conflicts of interest. The New York Times reported in October 2018 that the trust was "blind in name only". Scott could determine his exact holdings through various mechanisms.
 
 ### Ann Scott's portfolio (disclosed 2018):
 - 550+ investment items across three trust funds and family partnership
@@ -60,7 +60,7 @@ Scott claimed to place his wealth in a "blind trust" to avoid conflicts of inter
 - Overlook Partners (Hong Kong): up to $1M annually
 - Total hedge fund earnings (July 2018): $2.9M minimum
 
-**STOCK Act violation (2022):** Scott sold Emida Corporation stock worth up to $450,000 in September 2021 but didn't report it until August 2022 — an 11-month delay violating federal disclosure law.
+**STOCK Act violation (2022):** Scott sold Emida Corporation stock worth up to $450,000 in September 2021 but didn't report it until August 2022, an 11-month delay violating federal disclosure law.
 
 > [!money]
 > The "blind trust" was the thinnest possible legal cover for a senator whose household portfolio includes Cayman Islands hedge funds, tech giants, and 550+ investment items — all affected by the tax, trade, and regulatory policies Scott votes on. He abandoned the trust entirely in February 2019. The facade lasted until it was no longer useful. The wealthiest member of Congress votes on policies that affect his $200–300M portfolio with no blind trust, no divestiture, and a STOCK Act violation on record.

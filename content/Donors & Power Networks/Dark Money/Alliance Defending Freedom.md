@@ -58,7 +58,7 @@ Expanded religious liberty exemptions from anti-discrimination laws, abortion re
 - *Masterpiece Cakeshop v. Colorado* (2018): Religious liberty in commercial services
 - *Burwell v. Hobby Lobby* (2014): Corporate religious liberty exemptions from ACA mandates
 
-Each victory expands the legal territory in which religious objections override anti-discrimination protections — building a constitutional framework that prioritizes religious liberty over civil rights.
+Each victory expands the legal territory in which religious objections override anti-discrimination protections, building a constitutional framework that prioritizes religious liberty over civil rights.
 
 > [!money]
 > ADF's $100+ million annual budget funds the most effective conservative litigation operation in America: 15 Supreme Court victories that have reshaped constitutional law on religious liberty, abortion, and LGBTQ rights. The organization's legal strategy converts conservative Christian theology into constitutional doctrine through the federal court system — using the Federalist Society's judicial pipeline to ensure sympathetic judges hear ADF's cases. The ROI: $100 million annually in organizational spending has produced constitutional precedents that will shape American law for generations.
@@ -71,7 +71,7 @@ Each victory expands the legal territory in which religious objections override 
 - [Supreme Court: ADF case record](https://www.supremecourt.gov/search.aspx?Search=Alliance%20Defending%20Freedom) (Tier 1)
 - [Ballotpedia: Alliance Defending Freedom](https://ballotpedia.org/Alliance_Defending_Freedom) (Tier 3)
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

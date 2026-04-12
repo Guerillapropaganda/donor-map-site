@@ -15,15 +15,15 @@ donors: [[JPMorgan Chase]] [[Bank of America]] [[Goldman Sachs]] [[Citigroup]]
 
 ### The Delaware Inheritance
 
-Chris Coons holds Joe Biden's former Senate seat — a seat that was for 36 years the banking industry's direct line to the Senate. Delaware is the corporate domicile state for 67% of Fortune 500 companies and virtually every major credit card issuer (Bank of America, JPMorgan Chase, Capital One, Citigroup). The state's corporate franchise tax and business-friendly court system (the Court of Chancery) make corporate law Delaware's primary industry.
+Chris Coons holds Joe Biden's former Senate seat, a seat that was for 36 years the banking industry's direct line to the Senate. Delaware is the corporate domicile state for 67% of Fortune 500 companies and virtually every major credit card issuer (Bank of America, JPMorgan Chase, Capital One, Citigroup). The state's corporate franchise tax and business-friendly court system (the Court of Chancery) make corporate law Delaware's primary industry.
 
-Coons inherited not just Biden's seat but Biden's donor infrastructure. Financial services is his top contributing industry in every cycle. The securities and investment sector, commercial banks, and credit card companies fund Coons because his Senate seat carries the obligation to protect Delaware's corporate franchise — the same obligation Biden carried for 36 years before him.
+Coons inherited not just Biden's seat but Biden's donor infrastructure. Financial services is his top contributing industry in every cycle. The securities and investment sector, commercial banks, and credit card companies fund Coons because his Senate seat carries the obligation to protect Delaware's corporate franchise, the same obligation Biden carried for 36 years before him.
 
 ---
 
 ### The Corporate Law Protection Function
 
-Coons' primary structural function is protecting Delaware's status as America's corporate domicile. Any federal legislation that would create a federal corporate chartering system, mandate federal incorporation standards, or preempt Delaware's Court of Chancery jurisdiction directly threatens the state's economic foundation. Coons opposes these proposals as a matter of state economic survival — but the economic survival he's protecting is the corporate sector's preference for Delaware's business-friendly legal environment.
+Coons' primary structural function is protecting Delaware's status as America's corporate domicile. Any federal legislation that would create a federal corporate chartering system, mandate federal incorporation standards, or preempt Delaware's Court of Chancery jurisdiction directly threatens the state's economic foundation. Coons opposes these proposals as a matter of state economic survival, but the economic survival he's protecting is the corporate sector's preference for Delaware's business-friendly legal environment.
 
 > [!money]
 > Delaware's corporate franchise tax generates approximately $2 billion annually — more than 40% of the state's general fund revenue. Protecting this revenue stream is the single most important economic function of Delaware's U.S. senators. When Coons opposes federal corporate governance reform, he is protecting both his state's budget and his donors' preferred legal regime. The constituency interest and the donor interest are identical because the donors ARE the constituency's economic base.
@@ -32,7 +32,7 @@ Coons' primary structural function is protecting Delaware's status as America's 
 
 ### The Biden Alliance
 
-Coons served as Biden's closest Senate ally — his vote was reliable on every Biden priority, and he served as the administration's informal Senate liaison. This loyalty extended to protecting Biden-era corporate compromises: the Inflation Reduction Act's corporate minimum tax was set at 15% (not the 28% Biden originally proposed), and the bill's final form reflected negotiations that preserved significant corporate tax advantages that Delaware-domiciled companies benefit from.
+Coons served as Biden's closest Senate ally, his vote was reliable on every Biden priority, and he served as the administration's informal Senate liaison. This loyalty extended to protecting Biden-era corporate compromises: the Inflation Reduction Act's corporate minimum tax was set at 15% (not the 28% Biden originally proposed), and the bill's final form reflected negotiations that preserved significant corporate tax advantages that Delaware-domiciled companies benefit from.
 
 ---
 

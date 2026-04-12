@@ -15,18 +15,18 @@ donors: [[Pharmaceutical Industry Bloc]], Biotech Industry, Patent and IP Lobbyi
 
 ### The Research Triangle: Geography as Donor Class
 
-North Carolina's Research Triangle Park (RTP) — the corridor between Raleigh, Durham, and Chapel Hill — is one of the pharmaceutical and biotechnology industry's largest innovation and manufacturing hubs in the United States.
+North Carolina's Research Triangle Park (RTP), the corridor between Raleigh, Durham, and Chapel Hill, is one of the pharmaceutical and biotechnology industry's largest innovation and manufacturing hubs in the United States.
 
 The major pharmaceutical and biotech companies with significant Research Triangle presence include:
 
-- **[[Novo Nordisk]]** — Global pharmaceutical giant. GLP-1 drugs (Ozempic, Wegovy) manufactured/developed through RTP operations. One of the world's largest insulin manufacturers.
-- **GlaxoSmithKline (GSK)** — Historically massive presence; though operations have scaled, significant facilities remain.
-- **Biogen** — Neurodegenerative disease focus. Boston-based but maintains significant East Coast biotech networking in the RTP.
-- **Becton Dickinson** — Medical device company (Research Triangle employment).
-- **Endo Pharmaceuticals** — Manufacturing presence.
-- **Smaller biotech companies** — 200+ smaller biotech and life sciences companies cluster in the RTP, creating an ecosystem where pharmaceutical and biotech industry is the dominant economic force in the region.
+- **[[Novo Nordisk]]**. Global pharmaceutical giant. GLP-1 drugs (Ozempic, Wegovy) manufactured/developed through RTP operations. One of the world's largest insulin manufacturers.
+- **GlaxoSmithKline (GSK)**. Historically massive presence; though operations have scaled, significant facilities remain.
+- **Biogen**. Neurodegenerative disease focus. Boston-based but maintains significant East Coast biotech networking in the RTP.
+- **Becton Dickinson**. Medical device company (Research Triangle employment).
+- **Endo Pharmaceuticals**. Manufacturing presence.
+- **Smaller biotech companies**, 200+ smaller biotech and life sciences companies cluster in the RTP, creating an ecosystem where pharmaceutical and biotech industry is the dominant economic force in the region.
 
-This is not peripheral to [[_Thom Tillis Master Profile|Thom Tillis]]'s political geography. Tillis represented North Carolina's 6th District in the House (2009–2015) — a district that includes Wake County, the heart of the Research Triangle. When he ran for Senate statewide in 2014, his strongest financial and political base was the RTP.
+This is not peripheral to [[_Thom Tillis Master Profile|Thom Tillis]]'s political geography. Tillis represented North Carolina's 6th District in the House (2009–2015), a district that includes Wake County, the heart of the Research Triangle. When he ran for Senate statewide in 2014, his strongest financial and political base was the RTP.
 
 ---
 
@@ -35,7 +35,7 @@ This is not peripheral to [[_Thom Tillis Master Profile|Thom Tillis]]'s politica
 Tillis's relationship with the pharmaceutical industry is documented through campaign finance filings. The timing and scale of donations directly correspond to his legislative sponsorships.
 
 ### 2019: The Peak Year
-Kaiser Health News conducted an analysis of pharmaceutical PAC donations in 2019. The results were striking: [[_Thom Tillis Master Profile|Thom Tillis]] received more pharmaceutical PAC donations than any other member of Congress that year — **$156,000+** from pharma PACs in 2019 alone.
+Kaiser Health News conducted an analysis of pharmaceutical PAC donations in 2019. The results were striking: [[_Thom Tillis Master Profile|Thom Tillis]] received more pharmaceutical PAC donations than any other member of Congress that year, **$156,000+** from pharma PACs in 2019 alone.
 
 Top donors:
 - Genentech: $22,500 (largest single donor)
@@ -58,9 +58,9 @@ In December 2019, within weeks of receiving peak pharma PAC donations, Tillis co
 This bill was not coincidental. It was an explicitly pharma-friendly alternative to Senator Chuck Grassley's (R-IA) competing drug pricing proposal.
 
 ### The Key Difference:
-Grassley's bill included a provision that would cap drug prices at inflation rates — a real constraint on pharmaceutical profits.
+Grassley's bill included a provision that would cap drug prices at inflation rates, a real constraint on pharmaceutical profits.
 
-Tillis's "Lower Costs, More Cures Act" omitted this provision. Instead, it focused on regulatory streamlining and innovation incentives (patent extension, longer exclusivity periods) — benefits to pharmaceutical companies without price constraints.
+Tillis's "Lower Costs, More Cures Act" omitted this provision. Instead, it focused on regulatory streamlining and innovation incentives (patent extension, longer exclusivity periods), benefits to pharmaceutical companies without price constraints.
 
 ### The Timing:
 December 19, 2019: Tillis co-sponsors "Lower Costs, More Cures Act"
@@ -72,7 +72,7 @@ This is not a coincidence of timing. This is pharmaceutical industry behavior: f
 
 ### Intellectual Property: The Convergence Point
 
-Beyond drug pricing, Tillis has been aggressive on intellectual property protection — an issue that bridges pharmaceutical and technology sectors.
+Beyond drug pricing, Tillis has been aggressive on intellectual property protection, an issue that bridges pharmaceutical and technology sectors.
 
 Pharmaceutical companies depend on patent monopolies to protect drug prices. The longer a patent lasts, the longer a company can charge monopoly prices before generic competition arrives. Tillis has consistently supported:
 
@@ -91,7 +91,7 @@ The RTP biotech companies (Biogen, smaller biotech firms) also depend on IP prot
 
 A small example illustrates the consistency: in September 2020, ProPublica reported that Tillis had taken pharmaceutical money within two weeks of co-sponsoring drug pricing legislation. Rather than address the timing, Tillis's office provided a defensive response claiming the bills were "legitimate policy disagreements."
 
-But that's precisely the point the timing makes visible. The donations were not the consequence of agreement. They were the incentive for the specific bill structure. Grassley had already introduced a competing proposal. Tillis chose to sponsor the pharma-friendly alternative — and received substantial pharma donations within days.
+But that's precisely the point the timing makes visible. The donations were not the consequence of agreement. They were the incentive for the specific bill structure. Grassley had already introduced a competing proposal. Tillis chose to sponsor the pharma-friendly alternative, and received substantial pharma donations within days.
 
 ---
 
@@ -118,7 +118,7 @@ The Research Triangle is not politically marginal to North Carolina. It is the s
 
 When Tillis received pharma donations, he could frame them not as external industry pressure but as support from "local businesses" in his region. When he sponsored pharma-friendly legislation, he could frame it as defending "North Carolina's innovation economy."
 
-This is how geographic concentration of industry creates structural alignment without requiring explicit donor pressure. The industry is so central to the region's economy that serving the industry *is* serving the region's constituents — at least the wealthy, educated constituents whose campaign contributions matter.
+This is how geographic concentration of industry creates structural alignment without requiring explicit donor pressure. The industry is so central to the region's economy that serving the industry *is* serving the region's constituents, at least the wealthy, educated constituents whose campaign contributions matter.
 
 Working-class North Carolinians who couldn't afford insulin or other expensive drugs were never represented in this donor-policy alignment.
 

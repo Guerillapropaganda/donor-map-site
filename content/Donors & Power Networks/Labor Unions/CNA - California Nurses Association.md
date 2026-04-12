@@ -27,9 +27,9 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-California Nurses Association / National Nurses United — 225,000+ registered nurses nationally, the largest RN organization in the United States. CNA is the California affiliate and the political engine. NNU operates a standard PAC, a Super PAC ("National Nurses United for Patient Protection"), and an active lobbying operation.
+California Nurses Association / National Nurses United, 225,000+ registered nurses nationally, the largest RN organization in the United States. CNA is the California affiliate and the political engine. NNU operates a standard PAC, a Super PAC ("National Nurses United for Patient Protection"), and an active lobbying operation.
 
-CNA/NNU is the most ideologically progressive major union in the vault. They don't just bargain for wages and staffing — they run a sustained political campaign for single-payer healthcare (CalCare) that directly threatens the profit model of every healthcare corporation in the database: Blue Shield, Kaiser, UnitedHealth, [[Anthem - Elevance Health|Anthem]]. The other unions in the vault negotiate within the existing system. CNA is trying to replace the system.
+CNA/NNU is the most ideologically progressive major union in the vault. They don't just bargain for wages and staffing, they run a sustained political campaign for single-payer healthcare (CalCare) that directly threatens the profit model of every healthcare corporation in the database: Blue Shield, Kaiser, UnitedHealth, [[Anthem - Elevance Health|Anthem]]. The other unions in the vault negotiate within the existing system. CNA is trying to replace the system.
 
 ---
 
@@ -51,12 +51,12 @@ CNA/NNU is the most ideologically progressive major union in the vault. They don
 
 ---
 
-### The Single-Payer War — A Legislative History
+### The Single-Payer War. A Legislative History
 
 This is the defining fight. Every version of CalCare follows the same arc: nurses organize, legislators introduce, the healthcare industry mobilizes, and the bill dies.
 
 ### SB 562 (2017):
-Passed the California Senate on June 1, 2017. Assembly Speaker Anthony Rendon blocked it from advancing out of the Assembly Rules Committee. Rendon called it "woefully incomplete" — the bill lacked a financing mechanism. CNA accused Rendon of killing single-payer to protect the healthcare industry donors. Rendon's top donors include healthcare interests. The bill was dead.
+Passed the California Senate on June 1, 2017. Assembly Speaker Anthony Rendon blocked it from advancing out of the Assembly Rules Committee. Rendon called it "woefully incomplete", the bill lacked a financing mechanism. CNA accused Rendon of killing single-payer to protect the healthcare industry donors. Rendon's top donors include healthcare interests. The bill was dead.
 
 ### AB 1400 (2021–2022):
 Introduced by Assemblymember Ash Kalra (see: [[Ash Kalra]]). Cleared Assembly Health Committee. Kalra placed the bill on hold in April 2021 due to assembly concerns over missing funding details. Ultimately withdrawn when floor support was insufficient. CNA/NNU was the lead institutional backer with 250+ endorsing organizations representing 1 million+ workers.
@@ -64,8 +64,8 @@ Introduced by Assemblymember Ash Kalra (see: [[Ash Kalra]]). Cleared Assembly He
 ### AB 2200 / CalCare (2023–2024):
 Introduced February 7, 2024, again by Kalra as the "California Guaranteed Health Care for All Act." Killed May 16, 2024 in Appropriations Committee by chair Assemblymember Buffy Wicks. Same pattern: introduced, organized around, killed in committee before reaching a floor vote.
 
-### SB 770 — The Betrayal:
-Newsom signed SB 770 in 2023. CNA called it "a complete betrayal of nurses' fight for a single-payer health care policy." CNA organizer Alyssa Kang: "This is a flip-flop from a governor who said...'I'm tired of politicians saying they support single payer but it's too soon, too expensive.' This is absolutely unacceptable." SB 770 preserved the market-based system CNA was trying to replace, while claiming to advance "universal coverage."
+### SB 770. The Betrayal:
+Newsom signed SB 770 in 2023. CNA called it "a complete betrayal of nurses' fight for a single-payer health care policy." CNA organizer Alyssa Kang: "This is a flip-flop from a governor who said..'I'm tired of politicians saying they support single payer but it's too soon, too expensive.' This is absolutely unacceptable." SB 770 preserved the market-based system CNA was trying to replace, while claiming to advance "universal coverage."
 
 > [!contradiction] The Newsom Promise and the Newsom Record
 > **2017 campaign:** Newsom said "I'm tired of politicians saying they support single payer but that it's too soon, too expensive or someone else's problem." Pledged to "lead the effort." CNA decorated a campaign bus: "Nurses Trust Newsom. He shares our values and fights for our patients."
@@ -78,7 +78,7 @@ Newsom signed SB 770 in 2023. CNA called it "a complete betrayal of nurses' figh
 
 ### The Staffing Ratio Victory
 
-AB 394 (signed 1999, implemented January 1, 2004) — the first mandatory nurse-to-patient staffing ratio law in the United States. CNA's signature legislative achievement.
+AB 394 (signed 1999, implemented January 1, 2004), the first mandatory nurse-to-patient staffing ratio law in the United States. CNA's signature legislative achievement.
 
 ### Results (documented over 15+ years):
 - RN hours of care per patient day increased 20% on medical-surgical units
@@ -87,20 +87,20 @@ AB 394 (signed 1999, implemented January 1, 2004) — the first mandatory nurse-
 - Steeper declines in mortality and improvements in patient safety indicators vs. other states
 - Total nursing hours per patient day increased 7.4%
 
-The hospital industry fought implementation through litigation. CNA defended the ratios through enforcement campaigns and political pressure. This is what union power looks like when it's used to protect working conditions rather than just fund campaigns — a legal standard that improved patient outcomes and nurse safety simultaneously.
+The hospital industry fought implementation through litigation. CNA defended the ratios through enforcement campaigns and political pressure. This is what union power looks like when it's used to protect working conditions rather than just fund campaigns, a legal standard that improved patient outcomes and nurse safety simultaneously.
 
 ---
 
-### The Kaiser AI Strike — March 2026
+### The Kaiser AI Strike. March 2026
 
 The most recent CNA action at the time of this writing:
 
 **March 18–19, 2026:** 23,000+ CNA/NNU Kaiser nurses across Northern California held a 24-hour unfair labor practice strike in solidarity with 2,400 NUHW mental health clinicians. Core issue: Kaiser's unilateral implementation of artificial intelligence for medical decision-making. CNA President Michelle Gutierrez Vo stated nurses would not stay silent while Kaiser "try to push untested and potentially unsafe or ineffective A.I. on patients."
 
-This is the emerging front: healthcare corporations deploying AI to replace clinical judgment. CNA is framing it as a patient safety issue (AI making medical decisions without adequate oversight) and a labor issue (AI replacing clinical workers). The Kaiser mental health crisis — $250 million in fines and settlements over 15 years, chronic understaffing, NUHW strikes — is the proving ground.
+This is the emerging front: healthcare corporations deploying AI to replace clinical judgment. CNA is framing it as a patient safety issue (AI making medical decisions without adequate oversight) and a labor issue (AI replacing clinical workers). The Kaiser mental health crisis, $250 million in fines and settlements over 15 years, chronic understaffing, NUHW strikes, is the proving ground.
 
 ### Other recent strike activity:
-- January 2025: 30,000+ healthcare workers in California and Hawaii — five-day strike, resulted in 21.5% raise for 31,000 workers
+- January 2025: 30,000+ healthcare workers in California and Hawaii, five-day strike, resulted in 21.5% raise for 31,000 workers
 - October 2024: 2,400 mental health workers at Kaiser struck, tentative agreement reached with NUHW
 - November 2025: 25,000 RNs at 19 UC medical centers ratified four-year contract
 - February 2026: 800 nurses at Community Hospital of the Monterey Peninsula voted to unionize with CNA
@@ -109,22 +109,22 @@ This is the emerging front: healthcare corporations deploying AI to replace clin
 
 ### The NUHW Alliance
 
-CNA and NUHW (National Union of Healthcare Workers — the dissident union formed after [[SEIU - Service Employees International Union|SEIU]]'s 2009 trusteeship of UHW) announced a formal alliance on January 3, 2013. CNA has provided NUHW $2 million in loans/grants since 2009. The alliance coordinates organizing at non-union hospitals and targets SEIU members.
+CNA and NUHW (National Union of Healthcare Workers, the dissident union formed after [[SEIU - Service Employees International Union|SEIU]]'s 2009 trusteeship of UHW) announced a formal alliance on January 3, 2013. CNA has provided NUHW $2 million in loans/grants since 2009. The alliance coordinates organizing at non-union hospitals and targets SEIU members.
 
-The 2026 Kaiser strike demonstrated the alliance in action: CNA nurses struck in sympathy with NUHW mental health clinicians. Two unions, formed from different origins (CNA as an independent progressive union, NUHW as SEIU dissidents), united against the same employer on the same issue. This is the alternative model to the SEIU institutional approach — smaller, more militant, less money but more willingness to fight.
+The 2026 Kaiser strike demonstrated the alliance in action: CNA nurses struck in sympathy with NUHW mental health clinicians. Two unions, formed from different origins (CNA as an independent progressive union, NUHW as SEIU dissidents), united against the same employer on the same issue. This is the alternative model to the SEIU institutional approach, smaller, more militant, less money but more willingness to fight.
 
 ---
 
-### Class Analysis — The Union That Threatens Capital
+### Class Analysis. The Union That Threatens Capital
 
-CNA/NNU occupies a unique position in the vault because their core demand — single-payer healthcare — is existentially threatening to multiple donor nodes simultaneously:
+CNA/NNU occupies a unique position in the vault because their core demand, single-payer healthcare, is existentially threatening to multiple donor nodes simultaneously:
 
 - **[[Blue Shield of California|Blue Shield of California]]** ($299K+ to Newsom): single-payer eliminates their business model
 - **[[Kaiser Permanente|Kaiser Permanente]]** ($35.5M behested to Newsom): single-payer restructures their entire revenue stream
 - **[[UnitedHealth Group - Optum|UnitedHealth Group]]** ($231K+ to Newsom): single-payer eliminates private insurance profits
 - **Anthem/Elevance** (California Medi-Cal managed care): single-payer replaces managed care
 
-Every other union in the vault asks for a bigger share of the existing pie. CNA is asking for a different pie. That's why their legislative efforts keep dying in committee — the healthcare donor class has more money, more lobbyists, and more structural power than any union can mobilize through the Democratic Party.
+Every other union in the vault asks for a bigger share of the existing pie. CNA is asking for a different pie. That's why their legislative efforts keep dying in committee, the healthcare donor class has more money, more lobbyists, and more structural power than any union can mobilize through the Democratic Party.
 
 The paradox: CNA endorsed Newsom. CNA's endorsement helped elect a governor whose healthcare donors directly oppose CNA's core policy demand. CNA's political power is sufficient to elect governors but insufficient to make those governors deliver. This is the structural limit of union political power within the two-party system.
 

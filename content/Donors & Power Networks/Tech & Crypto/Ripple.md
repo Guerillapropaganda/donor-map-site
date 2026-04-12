@@ -61,7 +61,7 @@ Ripple secured a partial legal victory in November 2023 when a federal judge rul
 
 ### Class Analysis
 
-Ripple exemplifies how new industries use political spending to prevent regulation before it's established: by funding politicians and contributing to industry PACs like Fairshake, Ripple and its peers have shaped the regulatory landscape to favor self-regulation and light-touch oversight. The company's successful argument that XRP is not a security despite being traded on retail exchanges reveals how cryptocurrency companies have captured financial regulators through political pressure. Ripple's strategy of funding politicians regardless of party demonstrates that cryptocurrency regulatory policy has transcended partisan divides — both Republicans and Democrats have been captured by industry funding.
+Ripple exemplifies how new industries use political spending to prevent regulation before it's established: by funding politicians and contributing to industry PACs like Fairshake, Ripple and its peers have shaped the regulatory landscape to favor self-regulation and light-touch oversight. The company's successful argument that XRP is not a security despite being traded on retail exchanges reveals how cryptocurrency companies have captured financial regulators through political pressure. Ripple's strategy of funding politicians regardless of party demonstrates that cryptocurrency regulatory policy has transcended partisan divides, both Republicans and Democrats have been captured by industry funding.
 
 ### Sources
 

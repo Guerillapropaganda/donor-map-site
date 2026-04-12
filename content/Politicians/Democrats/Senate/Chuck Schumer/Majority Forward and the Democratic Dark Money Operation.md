@@ -28,7 +28,7 @@ donors: [[Crypto Industry Bloc]]
 - 2024 cycle: $200M+ range
 - Major disclosed donors: [[George Soros|George Soros]], [[Reid Hoffman|Reid Hoffman]], [[Michael Bloomberg|Michael Bloomberg]], labor unions
 
-### Majority Forward (501(c)(4) — Dark Money):
+### Majority Forward (501(c)(4). Dark Money):
 - No donor disclosure required
 - 2020: $74M+ raised from anonymous donors
 - Passes money to [[Senate Majority PAC|Senate Majority PAC]], laundering donor identities
@@ -54,7 +54,7 @@ donors: [[Crypto Industry Bloc]]
 
 Schumer's career pharmaceutical donations: $289,000+ from pharma/health products industry.
 
-The pharmaceutical industry funds both parties' dark money operations. When Medicare drug price negotiation was being debated (Inflation Reduction Act, 2022), Schumer's version limited negotiation to only 10 drugs initially — a significant concession to pharma donors who lobbied aggressively against broader negotiation authority.
+The pharmaceutical industry funds both parties' dark money operations. When Medicare drug price negotiation was being debated (Inflation Reduction Act, 2022), Schumer's version limited negotiation to only 10 drugs initially, a significant concession to pharma donors who lobbied aggressively against broader negotiation authority.
 
 The crypto industry's 2024 spending surge ($170M+) also flowed to Democratic-aligned groups. Schumer's pivot on stablecoin regulation coincided with increased crypto industry donations to Democratic campaigns and dark money groups.
 

@@ -22,7 +22,7 @@ donors: [[Marc Andreessen & Horowitz]] · [[Crypto Industry Bloc]]
 
 ### The 2024 Senate Attack
 
-[[Fairshake PAC|Fairshake PAC]] — the crypto industry's primary political weapon — spent **$10+ million** in attack ads against Porter during the March 2024 California Senate primary. The spending began in February 2024 with an initial $2.9 million wave, then escalated.
+[[Fairshake PAC|Fairshake PAC]], the crypto industry's primary political weapon, spent **$10+ million** in attack ads against Porter during the March 2024 California Senate primary. The spending began in February 2024 with an initial $2.9 million wave, then escalated.
 
 ### Why Porter was targeted:
 - Questioned crypto industry's effect on the power grid in congressional hearings
@@ -55,16 +55,16 @@ The Fairshake funding structure reveals the crypto donor class:
 
 ### The 2026 Threat
 
-Fairshake holds **$116 million** entering the 2026 cycle. Porter is running for California governor — a race where the crypto industry's deregulation agenda intersects with state-level financial regulation authority.
+Fairshake holds **$116 million** entering the 2026 cycle. Porter is running for California governor, a race where the crypto industry's deregulation agenda intersects with state-level financial regulation authority.
 
 **The structural problem for Porter:** California's governor controls:
-- Department of Financial Protection and Innovation (DFPI) — state crypto regulator
-- Attorney General appointments — enforcement authority
+- Department of Financial Protection and Innovation (DFPI), state crypto regulator
+- Attorney General appointments, enforcement authority
 - Legislative agenda on digital asset regulation
 
 A Governor Porter would represent the consumer protection framework applied to the crypto industry at the state level. For Coinbase (headquartered in SF), a16z (headquartered in Menlo Park), and Ripple (headquartered in SF), this is an existential regulatory threat.
 
-**Expected spending:** If Porter advances to the November general election, Fairshake is likely to deploy tens of millions against her — potentially the largest single-candidate expenditure in California gubernatorial history.
+**Expected spending:** If Porter advances to the November general election, Fairshake is likely to deploy tens of millions against her, potentially the largest single-candidate expenditure in California gubernatorial history.
 
 ---
 
@@ -73,7 +73,7 @@ A Governor Porter would represent the consumer protection framework applied to t
 > [!money]
 > The Fairshake-Porter war is the clearest example in this vault of the donor class using money to eliminate political opposition. Porter's crime is not any specific policy position — it's that she represents a model of politics that doesn't require donor permission. The crypto industry doesn't just oppose her regulation; it opposes the precedent that a politician can acquire power through small-dollar donations and consumer protection credibility rather than through donor relationships. If Porter's model works for a governor's race, it threatens the donor class's veto power over all future candidates.
 
-The $116 million war chest is not proportional to any specific regulatory threat. California could raise crypto compliance costs by millions; the industry spends hundreds of millions to prevent it. The spending is disciplinary — it exists to demonstrate to every future candidate that opposing the crypto donor class carries a career-ending price.
+The $116 million war chest is not proportional to any specific regulatory threat. California could raise crypto compliance costs by millions; the industry spends hundreds of millions to prevent it. The spending is disciplinary, it exists to demonstrate to every future candidate that opposing the crypto donor class carries a career-ending price.
 
 ---
 

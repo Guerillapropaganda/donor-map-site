@@ -37,17 +37,17 @@ Shapiro's donor map shows strategic cultivation by establishment: $2.5M Bloomber
 
 ### The Money Map
 ### Republican Donor Architecture:
-- [[Miriam Adelson]] — $250M pledge (December 2025 White House Hanukkah party) for potential Trump third-term bid. [Jerusalem Post: Adelson $250M pledge](https://www.jpost.com/american-politics/article-880539) (Tier 2) Her 2024 donations ($106M to Trump super PACs, additional $6M direct) establish her as largest identifiable Republican donor. If Trump cannot run constitutionally, her $250M becomes kingmaker capital for field. Adelson's sole policy predicate: West Bank annexation (Netanyahu alignment).
-- [[Timothy Mellon]] — [[MAGA Inc|MAGA Inc]] SuperPAC $300M+ war chest, second-largest Republican donor after Adelson. Constructed migration/detention apparatus funding (Mellon → Palantir → ICE surveillance expansion). Border wall proxy (Abbott) received Mellon $53.1M (98% of Mellon border wall spending).
-- [[Elon Musk]] — $48M+ 2024 election spending, unpredictable policy positions. Crypto/AI alignment with tech super-wealthy. Potential 2028 spending trajectory unclear given EPA regulation rollbacks achieved 2025.
-- [[Koch Network - Charles Koch]] — $548M raised/$548M spent 2024 cycle (largest continuous spending operation in U.S. history). Positioned as neutral so far in Republican primary; ready to activate for any nominee.
+- [[Miriam Adelson]], $250M pledge (December 2025 White House Hanukkah party) for potential Trump third-term bid. [Jerusalem Post: Adelson $250M pledge](https://www.jpost.com/american-politics/article-880539) (Tier 2) Her 2024 donations ($106M to Trump super PACs, additional $6M direct) establish her as largest identifiable Republican donor. If Trump cannot run constitutionally, her $250M becomes kingmaker capital for field. Adelson's sole policy predicate: West Bank annexation (Netanyahu alignment).
+- [[Timothy Mellon]], [[MAGA Inc|MAGA Inc]] SuperPAC $300M+ war chest, second-largest Republican donor after Adelson. Constructed migration/detention apparatus funding (Mellon → Palantir → ICE surveillance expansion). Border wall proxy (Abbott) received Mellon $53.1M (98% of Mellon border wall spending).
+- [[Elon Musk]], $48M+ 2024 election spending, unpredictable policy positions. Crypto/AI alignment with tech super-wealthy. Potential 2028 spending trajectory unclear given EPA regulation rollbacks achieved 2025.
+- [[Koch Network - Charles Koch]], $548M raised/$548M spent 2024 cycle (largest continuous spending operation in U.S. history). Positioned as neutral so far in Republican primary; ready to activate for any nominee.
 
 ### Democratic Donor Architecture:
-- [[Haim Saban]] — $12M+ lifetime Democratic donor, $16M in 2016 cycle, $4.5M in 2024. Primary Democratic counterpart to Adelson. Pro-Israel alignment. No 2028 major pledges documented yet.
-- [[Michael Bloomberg]] — $115M to Democratic causes in 2024. Positioned to back establishment candidate (likely Newsom or Shapiro). Charter school funding ($750M+ over 5 years) creates education policy alignment with Shapiro.
-- [[George Soros]] — $60M to Harris campaign 2024. Positioned near Shapiro. Typically backs establishment Democrat with anti-Trump consistency.
-- [[Reid Hoffman]] — $500K to Shapiro in 2025 alone. Tech-billionaire alignment with moderate Pennsylvania governor.
-- [[AIPAC - American Israel Public Affairs Committee]] — $126.9M combined 2024 spending (PAC $51.8M + UDP $37.9M). Primary disciplinary force on Democratic field. Bowman/$9.9M destruction set template for challenging any pro-Palestinian progressive.
+- [[Haim Saban]], $12M+ lifetime Democratic donor, $16M in 2016 cycle, $4.5M in 2024. Primary Democratic counterpart to Adelson. Pro-Israel alignment. No 2028 major pledges documented yet.
+- [[Michael Bloomberg]], $115M to Democratic causes in 2024. Positioned to back establishment candidate (likely Newsom or Shapiro). Charter school funding ($750M+ over 5 years) creates education policy alignment with Shapiro.
+- [[George Soros]], $60M to Harris campaign 2024. Positioned near Shapiro. Typically backs establishment Democrat with anti-Trump consistency.
+- [[Reid Hoffman]], $500K to Shapiro in 2025 alone. Tech-billionaire alignment with moderate Pennsylvania governor.
+- [[AIPAC - American Israel Public Affairs Committee]], $126.9M combined 2024 spending (PAC $51.8M + UDP $37.9M). Primary disciplinary force on Democratic field. Bowman/$9.9M destruction set template for challenging any pro-Palestinian progressive.
 
 ### The Structural Funding Gap:
 Crypto industry deployed [[Fairshake PAC]] $271M+ already in 2026 cycle (exceeds entire 2024 presidential cycle spending). Fairshake has $193M+ on hand as of January 2026. [CoinDesk: Fairshake's Illinois setback](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (Tier 2) Zero union jobs created by crypto industry. Labor movement's $200M 2024 presidential commitment has no equivalent counter-PAC. Class analysis: crypto industry can outspend organized labor by 1.3-to-1 despite representing zero working-class constituency. This asymmetry will shape 2028 regulatory environment around AI, blockchain, and labor standards regardless of which candidate wins.

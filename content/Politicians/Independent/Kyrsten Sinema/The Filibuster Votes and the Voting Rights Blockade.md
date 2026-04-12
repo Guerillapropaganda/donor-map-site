@@ -17,10 +17,10 @@ donors: Corporate PACs
 
 In January 2022, Democrats held a 51-49 Senate majority (counting independents who caucus with Democrats). They attempted to pass two pieces of voting rights legislation:
 
-1. **The Freedom to Vote Act** — comprehensive voting rights reform including same-day voter registration, early voting standards, and restrictions on voter purging
-2. **The John Lewis Voting Rights Act** — restoration of preclearance requirements for states with a history of racial discrimination in voting
+1. **The Freedom to Vote Act**, comprehensive voting rights reform including same-day voter registration, early voting standards, and restrictions on voter purging
+2. **The John Lewis Voting Rights Act**, restoration of preclearance requirements for states with a history of racial discrimination in voting
 
-Both bills required 60 votes to pass under the filibuster rule. Democrats had 51. To pass the bills, they needed to change the filibuster rule — either eliminate it or carve out an exception for voting rights legislation.
+Both bills required 60 votes to pass under the filibuster rule. Democrats had 51. To pass the bills, they needed to change the filibuster rule, either eliminate it or carve out an exception for voting rights legislation.
 
 On January 19, 2022, Democrats voted on a proposal to change the filibuster rule specifically for voting rights. The vote was 52-48 in favor of change. But they needed 50 Democratic votes to invoke the "nuclear option" (using the Vice President to break a 50-50 tie). Two Democratic senators voted against the filibuster carve-out: [[_Joe Manchin Master Profile|Joe Manchin]] (D-WV) and [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] (D-AZ).
 
@@ -34,7 +34,7 @@ The striking feature of Sinema's position on voting rights is the contradiction 
 
 ### What Sinema said:
 - January 20, 2022 (day after voting against filibuster carve-out): "I support the Freedom to Vote Act" and "I support the John Lewis Voting Rights Act"
-- January 2022 statement: "I believe in voting rights ... I have always and will always protect and expand voting rights"
+- January 2022 statement: "I believe in voting rights .. I have always and will always protect and expand voting rights"
 - Multiple interviews: Sinema claimed she supports voting rights but opposes changing the filibuster
 
 ### What Sinema voted:
@@ -54,7 +54,7 @@ The censure resolution stated: "While we take no pleasure in this announcement, 
 Key details of the censure:
 
 - **Vote:** Unanimous (all board members present voted to censure)
-- **Timing:** Announced January 22, 2022 — three days after the filibuster vote
+- **Timing:** Announced January 22, 2022, three days after the filibuster vote
 - **Scope:** Only symbolic but signaled that the state party would not endorse her for reelection
 - **Political impact:** The censure made clear that Sinema no longer represented Democratic voters in Arizona; she represented other constituencies
 
@@ -64,7 +64,7 @@ The Arizona censure was the first formal party repudiation of Sinema's Senate vo
 
 ### Corporate PAC Money: Follow the Donors
 
-During the 2021-2022 cycle, Sinema received approximately $2 million from corporate PACs — money concentrated from industries and interests that benefit from preserving the status quo, i.e., from voting systems that suppress turnout and registration.
+During the 2021-2022 cycle, Sinema received approximately $2 million from corporate PACs, money concentrated from industries and interests that benefit from preserving the status quo, i.e. from voting systems that suppress turnout and registration.
 
 | Donor Source | 2021-2022 Cycle Total | Interest in Voting Status Quo |
 |---|---|---|
@@ -106,10 +106,10 @@ From her January 2022 statement:
 > "I refuse to vote to break the Senate rules that protect the rights of all Americans, regardless of which party is in power...changing the Senate rules requires an open, clear-eyed review of the proposed changes, and unfortunately, the process has become infected with extreme pressure."
 
 The language is carefully constructed:
-- **"breaking Senate rules"** — frames voting rights reform as rule-breaking, not rule-updating
-- **"protect the rights of all Americans"** — suggests filibuster protects rights when it actually suppresses voting rights
-- **"extreme pressure"** — characterizes voting rights advocates as extremists
-- **"bipartisan"** — invokes the fiction that preserving voting obstacles is somehow balanced
+- **"breaking Senate rules"**, frames voting rights reform as rule-breaking, not rule-updating
+- **"protect the rights of all Americans"**, suggests filibuster protects rights when it actually suppresses voting rights
+- **"extreme pressure"**, characterizes voting rights advocates as extremists
+- **"bipartisan"**, invokes the fiction that preserving voting obstacles is somehow balanced
 
 The language obscured the reality: Sinema was voting to suppress voting rights, and the language was designed to make that suppression sound principled.
 
@@ -123,7 +123,7 @@ Sinema's career before the Senate included advocacy work on voting access and ci
 - **Pre-Senate career:** Community organizing, civil rights advocacy
 - **2022 voting record:** Blocked Freedom to Vote Act; blocked John Lewis Voting Rights Act
 
-The contradiction is the story. Sinema pivoted from voting rights advocate to voting rights obstructor because her donor base changed. In 2018, she was funded by small-dollar donors and civil rights organizations. By 2022, she was funded by corporate PACs that benefited from suppressed voting. The pivot was not principled — it was purchased.
+The contradiction is the story. Sinema pivoted from voting rights advocate to voting rights obstructor because her donor base changed. In 2018, she was funded by small-dollar donors and civil rights organizations. By 2022, she was funded by corporate PACs that benefited from suppressed voting. The pivot was not principled, it was purchased.
 
 ---
 
@@ -142,7 +142,7 @@ Sinema's vote killed federal voting rights reform for the entire Biden presidenc
 
 ### The Contradiction as Strategy
 
-Sinema's contradiction was not a flaw — it was a feature. By supporting voting rights in principle while voting to block voting rights legislation, she could:
+Sinema's contradiction was not a flaw, it was a feature. By supporting voting rights in principle while voting to block voting rights legislation, she could:
 
 1. Keep progressives hoping she might eventually support reform
 2. Receive corporate PAC donations from interests that benefited from suppression

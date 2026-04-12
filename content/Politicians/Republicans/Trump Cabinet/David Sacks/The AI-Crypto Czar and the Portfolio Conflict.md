@@ -13,9 +13,9 @@ donors: [[Craft Ventures]]
 
 ---
 
-### The Appointment Structure — Special Government Employee
+### The Appointment Structure. Special Government Employee
 
-Sacks was appointed as a Special Government Employee (SGE) — a designation that allows individuals to work for the government for up to 130 days per year while maintaining private sector positions and business relationships. SGE status carries reduced disclosure requirements compared to full-time federal employees. The AI/Crypto Czar role was explicitly structured to minimize what Sacks would be required to disclose.
+Sacks was appointed as a Special Government Employee (SGE), a designation that allows individuals to work for the government for up to 130 days per year while maintaining private sector positions and business relationships. SGE status carries reduced disclosure requirements compared to full-time federal employees. The AI/Crypto Czar role was explicitly structured to minimize what Sacks would be required to disclose.
 
 The portfolio he brought to the role: Craft Ventures, $3.3 billion AUM, 708+ tech investments, 449 of which involve AI products.
 
@@ -49,28 +49,28 @@ Before taking the role, Sacks divested approximately $200 million in crypto hold
 ### Policy Actions and Portfolio Beneficiaries
 
 ### Rescission of Biden AI Executive Order (January 2025):
-Biden's 2023 AI Executive Order imposed safety testing requirements and disclosure mandates on large AI model developers. Trump rescinded it in his first week. Sacks celebrated the rescission. The AI companies in Craft Ventures' portfolio — including companies developing large language models and AI applications — were directly relieved of compliance costs.
+Biden's 2023 AI Executive Order imposed safety testing requirements and disclosure mandates on large AI model developers. Trump rescinded it in his first week. Sacks celebrated the rescission. The AI companies in Craft Ventures' portfolio, including companies developing large language models and AI applications, were directly relieved of compliance costs.
 
 ### AI Litigation Task Force (2025):
 Sacks pushed a DOJ executive order creating an AI Litigation Task Force to challenge 100+ state AI regulations. The goal: federal preemption of state-level AI laws. Effect: preempting state privacy and AI safety laws reduces compliance costs for AI companies. Portfolio benefit: direct.
 
 ### Crypto Framework:
-Sacks has pushed for a federal crypto regulatory framework that would preempt state-level regulation and establish clearer property rights for digital assets. Crypto companies that survived the $200M divestment — BitGo, Lightning Labs — benefit from regulatory clarity. The broader Craft Ventures thesis (B2B SaaS, fintech) benefits from financial deregulation generally.
+Sacks has pushed for a federal crypto regulatory framework that would preempt state-level regulation and establish clearer property rights for digital assets. Crypto companies that survived the $200M divestment. BitGo, Lightning Labs, benefit from regulatory clarity. The broader Craft Ventures thesis (B2B SaaS, fintech) benefits from financial deregulation generally.
 
 ---
 
-### The Conflict of Interest Structure — Why It's Not Resolved
+### The Conflict of Interest Structure. Why It's Not Resolved
 
-The core problem is not the specific holdings Sacks disclosed — it's the portfolio-wide benefit of deregulation:
+The core problem is not the specific holdings Sacks disclosed, it's the portfolio-wide benefit of deregulation:
 
-1. **Regulatory capture is the product:** Sacks' value to portfolio companies is not just his capital — it's his network and influence. His government role converts regulatory influence into portfolio value in ways that can never be fully captured in an ethics disclosure.
+1. **Regulatory capture is the product:** Sacks' value to portfolio companies is not just his capital, it's his network and influence. His government role converts regulatory influence into portfolio value in ways that can never be fully captured in an ethics disclosure.
 2. **449 companies:** No divestment of individual holdings resolves the conflict when 449 portfolio companies benefit from the same deregulatory policies. The conflict is structural, not individual.
 3. **Future fundraising:** Deregulatory decisions made during government service benefit Craft Ventures' next fund raise. LPs invest in Craft Ventures partly because Sacks has proven he can shape policy that returns value.
 4. **Information asymmetry:** As AI/Crypto Czar, Sacks has access to non-public regulatory decisions that could benefit portfolio companies before those decisions are announced publicly. No divestment eliminates this.
 
 ---
 
-### The Palantir Problem — A Case Study
+### The Palantir Problem. A Case Study
 
 [[Palantir Technologies|Palantir Technologies]] is the sharpest illustration of the unresolved conflict:
 
@@ -88,8 +88,8 @@ The core problem is not the specific holdings Sacks disclosed — it's the portf
 ### Sources
 
 - [NPR: Sacks ethics disclosure failed to classify Palantir as AI company](https://www.npr.org/2025/12/12/nx-s1-5631823/david-sacks-ai-advisor-investment-conflicts) (Tier 2)
-- [Public Citizen: Sacks resignation call — unresolved financial conflicts](https://www.citizen.org/news/david-sacks-financial-conflicts-mean-he-can-no-longer-credibly-serve-as-white-house-ai-advisor-he-should-resign/) (Tier 2)
-- [Gizmodo: 438+ reasons to question Sacks in government — portfolio analysis](https://gizmodo.com/david-sacks-possible-conflicts-2000693709) (Tier 2)
+- [Public Citizen: Sacks resignation call, unresolved financial conflicts](https://www.citizen.org/news/david-sacks-financial-conflicts-mean-he-can-no-longer-credibly-serve-as-white-house-ai-advisor-he-should-resign/) (Tier 2)
+- [Gizmodo: 438+ reasons to question Sacks in government, portfolio analysis](https://gizmodo.com/david-sacks-possible-conflicts-2000693709) (Tier 2)
 - [CNBC: Full breakdown of $200M crypto divestment](https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-taking-wh-job.html) (Tier 2)
 - [Palantir: Corporate AI capabilities description](https://www.palantir.com/platforms/aip/) (Tier 2)
 - [OpenSecrets: David Sacks donor history](https://www.opensecrets.org/donor-lookup/results?name=david+sacks) (Tier 1)

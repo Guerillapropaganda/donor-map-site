@@ -58,9 +58,9 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Monsanto (acquired by Bayer AG for $63 billion in 2018). The most politically controversial agricultural company in American history, Monsanto dominated the seed and herbicide market through patented GMO seeds (Roundup Ready soybeans, corn, cotton) and glyphosate-based Roundup herbicide. After the Bayer acquisition, the Monsanto brand was retired but the political and legal legacy persists — Bayer inherited $16+ billion in Roundup cancer litigation liability.
+Monsanto (acquired by Bayer AG for $63 billion in 2018). The most politically controversial agricultural company in American history, Monsanto dominated the seed and herbicide market through patented GMO seeds (Roundup Ready soybeans, corn, cotton) and glyphosate-based Roundup herbicide. After the Bayer acquisition, the Monsanto brand was retired but the political and legal legacy persists. Bayer inherited $16+ billion in Roundup cancer litigation liability.
 
-Monsanto's political operation was one of the most aggressive in agriculture: $3-5 million per cycle in PAC and individual contributions, $8-10 million annually in lobbying, and extensive revolving door connections between Monsanto and the FDA, USDA, and EPA. The company's legislative priorities — patent protection for GMO seeds, opposition to GMO labeling, and defense of glyphosate — shaped agricultural policy for decades.
+Monsanto's political operation was one of the most aggressive in agriculture: $3-5 million per cycle in PAC and individual contributions, $8-10 million annually in lobbying, and extensive revolving door connections between Monsanto and the FDA, USDA, and EPA. The company's legislative priorities, patent protection for GMO seeds, opposition to GMO labeling, and defense of glyphosate, shaped agricultural policy for decades.
 
 - [OpenSecrets: Monsanto organizational profile](https://www.opensecrets.org/orgs/monsanto-co/summary?id=D000000055) (Tier 1) (VERIFIED)
 
@@ -74,9 +74,9 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 
 ### What They Got
 
-**Seed Patent Enforcement:** Monsanto's patent enforcement against farmers who saved and replanted patented seeds — including the landmark *Bowman v. Monsanto* Supreme Court case (2013) — established that patent exhaustion does not apply to self-replicating technologies. This legal framework allows seed companies to require farmers to purchase new seeds every season, converting a one-time purchase into a recurring revenue stream.
+**Seed Patent Enforcement:** Monsanto's patent enforcement against farmers who saved and replanted patented seeds, including the landmark *Bowman v. Monsanto* Supreme Court case (2013), established that patent exhaustion does not apply to self-replicating technologies. This legal framework allows seed companies to require farmers to purchase new seeds every season, converting a one-time purchase into a recurring revenue stream.
 
-**The "Monsanto Protection Act":** Section 735 of the 2013 Consolidated and Further Continuing Appropriations Act — nicknamed the "Monsanto Protection Act" — stripped federal courts of the authority to halt the planting of GMO crops even if they were later found to pose health or environmental risks. The provision was written by Monsanto's lobbyists and inserted into a must-pass spending bill.
+**The "Monsanto Protection Act":** Section 735 of the 2013 Consolidated and Further Continuing Appropriations Act, nicknamed the "Monsanto Protection Act", stripped federal courts of the authority to halt the planting of GMO crops even if they were later found to pose health or environmental risks. The provision was written by Monsanto's lobbyists and inserted into a must-pass spending bill.
 
 > [!money]
 > Monsanto's seed patent model converted a 10,000-year-old agricultural practice — saving seeds — into intellectual property violation. Farmers who previously saved and replanted seeds were forced into annual seed purchases, transferring billions in value from farmers to Monsanto. The political operation that enabled this extraction — patent law, EPA glyphosate classification, the "Monsanto Protection Act" — cost the company $10-15 million per year. The seed monopoly generated $10+ billion annually. The Bayer acquisition at $63 billion valued this political-regulatory architecture at a premium.
@@ -86,10 +86,10 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 ### Sources
 
 - [OpenSecrets: Monsanto organizational profile](https://www.opensecrets.org/orgs/monsanto-co/summary?id=D000000055) (Tier 1)
-- [Supreme Court: Bowman v. Monsanto Co., 569 U.S. 278 (2013)](https://supreme.justia.com/cases/federal/us/569/278/) (Tier 1) (VERIFIED)
+- [Supreme Court: Bowman v. Monsanto Co. 569 U.S. 278 (2013)](https://supreme.justia.com/cases/federal/us/569/278/) (Tier 1) (VERIFIED)
 - [EPA: Glyphosate interim registration review decision](https://www.epa.gov/ingredients-used-pesticide-products/glyphosate) (Tier 1) (VERIFIED)
 - [NPR: The "Monsanto Protection Act" explained](https://www.npr.org/sections/thesalt/2013/03/21/174973235/did-congress-just-give-gmos-a-free-pass-in-the-courts) (Tier 2) (VERIFIED)
-- ~~[Ballotpedia: Monsanto](https://ballotpedia.org/Monsanto_Company)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+- ~~[Ballotpedia: Monsanto](https://ballotpedia.org/Monsanto_Company)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

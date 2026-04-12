@@ -39,7 +39,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Labor Unions. The collective political operation of America's organized labor movement — the AFL-CIO, Change to Win coalition, and independent unions that represent 14.4 million workers (10% of the workforce, down from 35% in the 1950s). Unions collectively contribute $500M+ per cycle to political campaigns, overwhelmingly (90%+) to Democratic candidates. The union political operation includes PAC contributions, independent expenditures, voter registration, canvassing, phone banking, and Election Day get-out-the-vote operations.
+Labor Unions. The collective political operation of America's organized labor movement, the AFL-CIO, Change to Win coalition, and independent unions that represent 14.4 million workers (10% of the workforce, down from 35% in the 1950s). Unions collectively contribute $500M+ per cycle to political campaigns, overwhelmingly (90%+) to Democratic candidates. The union political operation includes PAC contributions, independent expenditures, voter registration, canvassing, phone banking, and Election Day get-out-the-vote operations.
 
 Labor unions are the largest institutional donor bloc in the Democratic coalition, but their political power has declined proportionally with union membership. At peak membership (1950s), unions could deliver entire states; today, union political power is concentrated in public-sector unions (AFSCME, AFT, SEIU), building trades (IBEW, Operating Engineers, Laborers), and a handful of industrial unions (UAW, USW) that retain significant membership.
 
@@ -48,7 +48,7 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

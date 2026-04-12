@@ -91,7 +91,7 @@ Unlike most tech mega-donors who focus on innovation and venture capital ecosyst
 - Stand for Children (charter advocacy group)
 - Democrats for Education Reform (pro-charter PAC)
 - Charter School Growth Fund (nonprofit supporting charter expansion)
-- Ventures for public charter schools in California, New York, Washington D.C., and other key states
+- Ventures for public charter schools in California, New York, Washington D.C. and other key states
 
 ### Political Conditioning:
 - Public statements threatening to reduce Democratic funding if the party opposes charter schools
@@ -106,7 +106,7 @@ Unlike most tech mega-donors who focus on innovation and venture capital ecosyst
 
 **New York:** Under Mayor Bloomberg (pre-mayoral term, continuing) and then Eric Adams, NYC expanded charter schools to 15% of public enrollment (250+ charters), supported by venture capital funding (Hastings, Walton Foundation) and private philanthropy. This expansion concentrated charter enrollment in low-income communities of color while increasing segregation in NYC schools.
 
-**Washington D.C.:** Washington became the charter school epicenter under Republican-friendly school policies. Charters now serve 40%+ of public school students in D.C. — the highest concentration in any major U.S. city — directly supported by Hastings and allied funders.
+**Washington D.C.:** Washington became the charter school epicenter under Republican-friendly school policies. Charters now serve 40%+ of public school students in D.C. the highest concentration in any major U.S. city, directly supported by Hastings and allied funders.
 
 ### Teacher Union Weakening:
 - Charter school growth directly undercuts teacher union power by creating parallel non-unionized schools
@@ -135,14 +135,14 @@ Hastings' model also illustrates **bifurcated leftwing mega-donor strategy:**
 - Progressive mega-donors focus on advocacy and Democratic Party alignment without structural change demands
 - Both avoid challenging the billionaire-as-decisionmaker model itself
 
-The Hastings funding also shows **donor-class override of constituency interests:** Teachers' unions — a core Democratic constituency — oppose charter expansion as union-weakening and privatization. Yet Democratic candidates accept Hastings funding despite (or sometimes because of) its charter school strings. This reveals that when mega-donor interests (privatization) conflict with constituency interests (public sector jobs, union strength), mega-donors win.
+The Hastings funding also shows **donor-class override of constituency interests:** Teachers' unions, a core Democratic constituency, oppose charter expansion as union-weakening and privatization. Yet Democratic candidates accept Hastings funding despite (or sometimes because of) its charter school strings. This reveals that when mega-donor interests (privatization) conflict with constituency interests (public sector jobs, union strength), mega-donors win.
 
 ---
 
 ### Sources
 
 - [OpenSecrets: Reed Hastings donor profile](https://www.opensecrets.org/individuals/reed-hastings/summary) (Tier 1)
-- [Capital & Main: Reed Hastings — Netflix CEO Goes Nuclear on Public Schools](https://capitalandmain.com/reed-hastings-the-disrupter-1101) (Tier 2)
+- [Capital & Main: Reed Hastings. Netflix CEO Goes Nuclear on Public Schools](https://capitalandmain.com/reed-hastings-the-disrupter-1101) (Tier 2)
 - [CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/) (Tier 2)
 - [Ballotpedia: Charter school funding by mega-donors](https://ballotpedia.org/School_choice) (Tier 3)
 

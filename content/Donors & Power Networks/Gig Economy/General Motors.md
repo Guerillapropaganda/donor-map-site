@@ -61,7 +61,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-General Motors Company (GM). America's largest automaker by volume, generating $170+ billion in annual revenue. GM's political significance spans a century of American industrial politics: the company's fortunes are inseparable from government policy on trade, emissions, labor, and industrial subsidy. The 2009 government bailout ($50+ billion in TARP funds) made GM the most prominent recipient of the Obama-era financial rescue — the company's survival was a political decision funded by taxpayers.
+General Motors Company (GM). America's largest automaker by volume, generating $170+ billion in annual revenue. GM's political significance spans a century of American industrial politics: the company's fortunes are inseparable from government policy on trade, emissions, labor, and industrial subsidy. The 2009 government bailout ($50+ billion in TARP funds) made GM the most prominent recipient of the Obama-era financial rescue, the company's survival was a political decision funded by taxpayers.
 
 GM's political operation is bipartisan by necessity: the company needs Republican support for trade policy and regulatory relief, and Democratic support for EV subsidies and manufacturing investment. GM's PAC and lobbying expenditures ($10-15M annually) target members of both parties on the Commerce, Energy, and Finance committees. The company's political leverage is geographic: GM and its suppliers employ hundreds of thousands of workers across Michigan, Ohio, Indiana, and other swing states, making the company's economic health a political issue in every election cycle.
 

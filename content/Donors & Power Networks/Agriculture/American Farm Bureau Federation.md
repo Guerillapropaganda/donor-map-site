@@ -92,23 +92,23 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-The American Farm Bureau Federation is the most powerful agricultural lobbying organization in the United States — and one of the most successful branding operations in American politics. Founded in 1919, AFBF claims 5.9 million "member families" and bills itself as "The Voice of Agriculture." The critical detail: the United States has approximately 2 million farmers. The majority of AFBF's members are insurance customers who pay dues as a condition of purchasing Farm Bureau-branded insurance policies, not people who farm for a living.
+The American Farm Bureau Federation is the most powerful agricultural lobbying organization in the United States, and one of the most successful branding operations in American politics. Founded in 1919, AFBF claims 5.9 million "member families" and bills itself as "The Voice of Agriculture." The critical detail: the United States has approximately 2 million farmers. The majority of AFBF's members are insurance customers who pay dues as a condition of purchasing Farm Bureau-branded insurance policies, not people who farm for a living.
 
-This is the structural key to understanding AFBF. The federation itself is a nonprofit advocacy organization with $33 million in annual revenue (2017 tax returns). But affiliated state Farm Bureaus own for-profit insurance companies that dwarf the lobbying operation: FBL Financial Group reported $732 million in revenue and $72.5 million in profit (2022); American Agricultural Insurance Company holds $1.8 billion in total assets and $464 million in premiums (2021); Country Financial operates in 17 states; Farm Family Insurance held $1.3 billion in assets (2000). The insurance empire generates the membership base that gives AFBF its political legitimacy — the "6 million members" that make it the largest farm organization in America.
+This is the structural key to understanding AFBF. The federation itself is a nonprofit advocacy organization with $33 million in annual revenue (2017 tax returns). But affiliated state Farm Bureaus own for-profit insurance companies that dwarf the lobbying operation: FBL Financial Group reported $732 million in revenue and $72.5 million in profit (2022); American Agricultural Insurance Company holds $1.8 billion in total assets and $464 million in premiums (2021); Country Financial operates in 17 states; Farm Family Insurance held $1.3 billion in assets (2000). The insurance empire generates the membership base that gives AFBF its political legitimacy, the "6 million members" that make it the largest farm organization in America.
 
-AFBF lobbies on behalf of commodity agriculture and the agribusiness supply chain. It opposes EPA regulation of farm emissions, pesticide application restrictions, and Clean Water Act jurisdiction over agricultural runoff. It supports expanded guest worker programs (cheap agricultural labor), crop insurance subsidies (guaranteed income for large commodity operations), and Farm Bill commodity price floors (taxpayer backstops for overproduction). It represents the interests of the largest agricultural operations — the top 10% of producers who received two-thirds of Trump's trade war bailout payments — while branding itself as the defender of the family farm.
+AFBF lobbies on behalf of commodity agriculture and the agribusiness supply chain. It opposes EPA regulation of farm emissions, pesticide application restrictions, and Clean Water Act jurisdiction over agricultural runoff. It supports expanded guest worker programs (cheap agricultural labor), crop insurance subsidies (guaranteed income for large commodity operations), and Farm Bill commodity price floors (taxpayer backstops for overproduction). It represents the interests of the largest agricultural operations, the top 10% of producers who received two-thirds of Trump's trade war bailout payments, while branding itself as the defender of the family farm.
 
 ---
 
 ### What They Want
 
-**Deregulation of agricultural pollution:** AFBF's top regulatory priority is blocking EPA authority over agricultural emissions and water pollution. The organization lobbied for the Livestock Regulatory Protection Act, which would prohibit EPA from issuing Clean Air Act permits for methane emissions from livestock operations. It led a 22-organization coalition demanding withdrawal of Biden's WOTUS rule, which would have extended Clean Water Act protections to waterways affected by agricultural runoff. Every spending bill since 2010 has contained language — advocated by AFBF — preventing government funding for livestock methane reporting requirements.
+**Deregulation of agricultural pollution:** AFBF's top regulatory priority is blocking EPA authority over agricultural emissions and water pollution. The organization lobbied for the Livestock Regulatory Protection Act, which would prohibit EPA from issuing Clean Air Act permits for methane emissions from livestock operations. It led a 22-organization coalition demanding withdrawal of Biden's WOTUS rule, which would have extended Clean Water Act protections to waterways affected by agricultural runoff. Every spending bill since 2010 has contained language, advocated by AFBF, preventing government funding for livestock methane reporting requirements.
 
-**Farm Bill commodity programs that benefit large operations:** AFBF pushed for 10-21% reference price increases for soybeans, corn, and wheat in the 2025 reconciliation package — price floors that function as taxpayer-guaranteed minimum returns for commodity producers. These programs disproportionately benefit the largest operations: in 2020, the top 10% of producers received two-thirds of all farm subsidy payments. AFBF also opposed USDA payment methodologies that gave higher percentage-based aid to smaller farmers.
+**Farm Bill commodity programs that benefit large operations:** AFBF pushed for 10-21% reference price increases for soybeans, corn, and wheat in the 2025 reconciliation package, price floors that function as taxpayer-guaranteed minimum returns for commodity producers. These programs disproportionately benefit the largest operations: in 2020, the top 10% of producers received two-thirds of all farm subsidy payments. AFBF also opposed USDA payment methodologies that gave higher percentage-based aid to smaller farmers.
 
-**Cheap agricultural labor through guest worker expansion:** AFBF supports expanding the H-2A temporary agricultural worker program (which grew 15% annually from 2012-2022, reaching 371,619 positions) while simultaneously advocating caps on year-to-year wage increases for guest workers. The organization wants more workers at lower cost — the structural interest of agricultural employers, not agricultural workers.
+**Cheap agricultural labor through guest worker expansion:** AFBF supports expanding the H-2A temporary agricultural worker program (which grew 15% annually from 2012-2022, reaching 371,619 positions) while simultaneously advocating caps on year-to-year wage increases for guest workers. The organization wants more workers at lower cost, the structural interest of agricultural employers, not agricultural workers.
 
-**Crop insurance protection:** AFBF advocates for maintaining the federal crop insurance program with no premium cost-share reductions — a program that effectively guarantees revenue for commodity operations regardless of market conditions, with taxpayers covering the downside risk.
+**Crop insurance protection:** AFBF advocates for maintaining the federal crop insurance program with no premium cost-share reductions, a program that effectively guarantees revenue for commodity operations regardless of market conditions, with taxpayers covering the downside risk.
 
 ---
 
@@ -139,7 +139,7 @@ The real PAC spending happens at the state level, where individual state Farm Bu
 | 2025-06-30 | AFBF lobbying spending H1 2025 (reconciliation push) | $660,000 | OpenSecrets |
 | 2002-12-31 | AFBF cumulative lobbying 2002-2012 (45% of top-10 agribusiness spending) | $16,000,000 | OpenSecrets |
 
-AFBF maintains 22+ registered federal lobbyists in its public policy department, plus 20+ state Farm Bureaus with their own registered federal lobbyists — a total lobbying force significantly larger than the national numbers suggest.
+AFBF maintains 22+ registered federal lobbyists in its public policy department, plus 20+ state Farm Bureaus with their own registered federal lobbyists, a total lobbying force significantly larger than the national numbers suggest.
 
 > [!money]
 > AFBF spent $16 million on federal lobbying over the decade 2002-2012 — 45% of the total spent by the ten largest agribusiness interests. The return: Farm Bill commodity programs worth tens of billions per cycle, crop insurance subsidies, EPA regulatory rollbacks, and trade war bailout payments. The 2020 trade bailout alone distributed $20+ billion to farmers, with two-thirds going to the top 10% of producers. AFBF's lobbying investment is a rounding error compared to the subsidies it protects.
@@ -157,7 +157,7 @@ AFBF's political legitimacy rests on its "6 million members" claim. That claim r
 | Country Financial (IL Farm Bureau) | Multi-state operations | 17 states | AFBF/Wikipedia |
 | Farm Family Insurance | $1.3B assets (2000) | Northeast | AFBF/Wikipedia |
 
-The insurance companies are legally separate from AFBF — for-profit entities owned by state Farm Bureaus. But the membership model links them structurally: purchasing a Farm Bureau insurance policy requires paying Farm Bureau dues, which counts the policyholder as a "member." A Missouri analysis found less than one-third of state Farm Bureau members are farmers. The remaining two-thirds are suburbanites with car insurance who are counted as agricultural constituents when AFBF testifies before Congress.
+The insurance companies are legally separate from AFBF, for-profit entities owned by state Farm Bureaus. But the membership model links them structurally: purchasing a Farm Bureau insurance policy requires paying Farm Bureau dues, which counts the policyholder as a "member." A Missouri analysis found less than one-third of state Farm Bureau members are farmers. The remaining two-thirds are suburbanites with car insurance who are counted as agricultural constituents when AFBF testifies before Congress.
 
 > [!contradiction]
 > AFBF tells Congress it represents 5.9 million farm families — more than twice the total number of farmers in America. The membership count includes insurance customers who have never planted a seed. The "Voice of Agriculture" is, by membership composition, primarily the voice of people who bought homeowners' insurance from a company with "Farm" in the name. The political power is real. The agricultural identity is manufactured.
@@ -168,7 +168,7 @@ The insurance companies are legally separate from AFBF — for-profit entities o
 
 #### The Trade War Bailout Pipeline
 
-When Trump's trade war triggered Chinese retaliatory tariffs on agricultural products (soybeans, peanuts, orange juice), AFBF didn't oppose the tariffs. It lobbied for bailout payments — and got them.
+When Trump's trade war triggered Chinese retaliatory tariffs on agricultural products (soybeans, peanuts, orange juice), AFBF didn't oppose the tariffs. It lobbied for bailout payments, and got them.
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
@@ -179,7 +179,7 @@ When Trump's trade war triggered Chinese retaliatory tariffs on agricultural pro
 | 2025-12-08 | Trump announces $11-12B Farmer Bridge Assistance payments | $11-12B | USDA |
 | 2025-12-31 | Reconciliation "One Big Beautiful Bill Act" allocates $66B to farm programs | $66B | AFBF |
 
-**Distribution pattern:** Two-thirds of trade war bailout payments went to the top 10% of producers. Corporations like JBS USA received $67 million. The payments functioned as a subsidy for large commodity operations while small farmers — who were more exposed to trade disruption and less able to absorb losses — received proportionally less.
+**Distribution pattern:** Two-thirds of trade war bailout payments went to the top 10% of producers. Corporations like JBS USA received $67 million. The payments functioned as a subsidy for large commodity operations while small farmers, who were more exposed to trade disruption and less able to absorb losses, received proportionally less.
 
 #### EPA Regulatory Rollbacks
 
@@ -187,11 +187,11 @@ AFBF's regulatory agenda achieved major victories under both Trump terms:
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2017-01-01 | Trump administration rescissions Clean Water Act WOTUS; removes EPA jurisdiction over agricultural waterways | — | Civil Eats |
-| 2019-01-01 | CAFO emissions reporting exemption passes; factory farms no longer required to report air pollution | — | Civil Eats |
-| 2020-01-01 | NEPA rollback reduces environmental review requirements for agricultural development | — | Civil Eats |
-| 2010-01-01 | Annual spending riders block EPA livestock methane reporting (ongoing through present) | — | Inside Climate News |
-| 2023-06-01 | Supreme Court (Sackett v. EPA) narrows Clean Water Act jurisdiction; AFBF supported case | — | SCOTUS |
+| 2017-01-01 | Trump administration rescissions Clean Water Act WOTUS; removes EPA jurisdiction over agricultural waterways |, | Civil Eats |
+| 2019-01-01 | CAFO emissions reporting exemption passes; factory farms no longer required to report air pollution |, | Civil Eats |
+| 2020-01-01 | NEPA rollback reduces environmental review requirements for agricultural development |, | Civil Eats |
+| 2010-01-01 | Annual spending riders block EPA livestock methane reporting (ongoing through present) |, | Inside Climate News |
+| 2023-06-01 | Supreme Court (Sackett v. EPA) narrows Clean Water Act jurisdiction; AFBF supported case |, | SCOTUS |
 
 The livestock methane reporting block is particularly significant: factory farm methane emissions grew 44% (hogs) and 122% (dairy) from 1990 to 2019, but AFBF successfully lobbied to prevent the EPA from even measuring the problem. You can't regulate what you can't count.
 
@@ -204,7 +204,7 @@ The 2025 reconciliation package ("One Big Beautiful Bill Act") delivered AFBF's 
 - Crop insurance program preserved with no premium cost-share reductions
 - Dairy Margin Coverage program retained and updated
 
-AFBF characterized the reconciliation package as a bridge but noted Congress must still pass a comprehensive Farm Bill to address the remaining 20% of programs. The comprehensive bill is where SNAP work requirements, conservation funding, and agricultural labor provisions will be negotiated — giving AFBF leverage to trade its support for nutrition programs in exchange for commodity program protections.
+AFBF characterized the reconciliation package as a bridge but noted Congress must still pass a comprehensive Farm Bill to address the remaining 20% of programs. The comprehensive bill is where SNAP work requirements, conservation funding, and agricultural labor provisions will be negotiated, giving AFBF leverage to trade its support for nutrition programs in exchange for commodity program protections.
 
 ---
 
@@ -212,29 +212,29 @@ AFBF characterized the reconciliation package as a bridge but noted Congress mus
 
 AFBF's agricultural labor position reveals the organization's core class alignment:
 
-**Demand:** More guest workers through the H-2A program, which grew from 85,248 positions (2012) to 371,619 positions (2022) — a 15% annual growth rate.
+**Demand:** More guest workers through the H-2A program, which grew from 85,248 positions (2012) to 371,619 positions (2022), a 15% annual growth rate.
 
 **Simultaneously demand:** Caps on year-to-year wage increases for H-2A workers, changes to wage calculation methodology (to lower wages), and opposition to broader immigration reform that would give agricultural workers paths to permanent residency.
 
-The structural interest: agricultural employers want an expanding pool of temporary workers who cannot organize, cannot bargain collectively, and whose wages are capped by policy rather than set by labor markets. The H-2A program ties workers to specific employers, making them vulnerable to wage theft and exploitation. AFBF's "labor reform" means more workers at lower wages with less bargaining power — the employer's ideal, disguised as immigration policy.
+The structural interest: agricultural employers want an expanding pool of temporary workers who cannot organize, cannot bargain collectively, and whose wages are capped by policy rather than set by labor markets. The H-2A program ties workers to specific employers, making them vulnerable to wage theft and exploitation. AFBF's "labor reform" means more workers at lower wages with less bargaining power, the employer's ideal, disguised as immigration policy.
 
 ---
 
 ### Class Analysis
 
-The American Farm Bureau Federation is a case study in institutional identity fraud — an insurance conglomerate that presents itself as a farm organization, a corporate agriculture lobby that speaks for family farmers, and a deregulation machine that claims to protect the land.
+The American Farm Bureau Federation is a case study in institutional identity fraud, an insurance conglomerate that presents itself as a farm organization, a corporate agriculture lobby that speaks for family farmers, and a deregulation machine that claims to protect the land.
 
 **The membership scam.** AFBF's political power derives from its claim to represent 5.9 million farm families. The actual farmer population is approximately 2 million. The gap is filled by insurance customers who pay Farm Bureau dues as a condition of their policies. Less than one-third of Missouri's Farm Bureau members are farmers. The insurance companies (FBL Financial: $732 million revenue; AAIC: $1.8 billion assets) are the revenue engine. The "membership" is the political cover. Congress hears "six million farmers" when AFBF testifies. The reality is six million insurance policyholders, most of whom have never set foot on a farm.
 
-**The subsidy capture.** AFBF's Farm Bill priorities — commodity reference prices, crop insurance, emergency payments — disproportionately benefit the largest agricultural operations. Two-thirds of trade war bailout payments went to the top 10% of producers. JBS USA, a multinational meatpacking corporation, received $67 million. When AFBF opposed USDA payment methodologies that gave higher percentage-based aid to smaller farmers, it revealed whose interests it actually serves: the commodity agriculture operations that are big enough to lobby, big enough to capture subsidies, and big enough to buy the insurance that funds AFBF's political operation.
+**The subsidy capture.** AFBF's Farm Bill priorities, commodity reference prices, crop insurance, emergency payments, disproportionately benefit the largest agricultural operations. Two-thirds of trade war bailout payments went to the top 10% of producers. JBS USA, a multinational meatpacking corporation, received $67 million. When AFBF opposed USDA payment methodologies that gave higher percentage-based aid to smaller farmers, it revealed whose interests it actually serves: the commodity agriculture operations that are big enough to lobby, big enough to capture subsidies, and big enough to buy the insurance that funds AFBF's political operation.
 
-**The regulation block as pollution subsidy.** AFBF's most structurally significant achievement is the annual spending rider that prevents the EPA from monitoring livestock methane emissions — maintained since 2010 while factory farm methane grew 44% (hogs) and 122% (dairy). By blocking measurement, AFBF ensures regulation is impossible. The Clean Water Act rollbacks, CAFO emissions exemptions, and NEPA weakening serve the same function: externalizing pollution costs onto communities, waterways, and the atmosphere while the operations that generate the pollution pocket the savings. Deregulation is the subsidy that doesn't appear in the Farm Bill.
+**The regulation block as pollution subsidy.** AFBF's most structurally significant achievement is the annual spending rider that prevents the EPA from monitoring livestock methane emissions, maintained since 2010 while factory farm methane grew 44% (hogs) and 122% (dairy). By blocking measurement, AFBF ensures regulation is impossible. The Clean Water Act rollbacks, CAFO emissions exemptions, and NEPA weakening serve the same function: externalizing pollution costs onto communities, waterways, and the atmosphere while the operations that generate the pollution pocket the savings. Deregulation is the subsidy that doesn't appear in the Farm Bill.
 
-**Pattern: Genuine Win + Structural Limit.** AFBF delivers real benefits to farmers — commodity price floors, crop insurance, emergency payments. But these benefits are structured to flow disproportionately to the largest operations while leaving the underlying dynamics (corporate consolidation, market concentration, input cost inflation) untouched. The top 4 seed/agrochemical firms control 60-70% of the global pesticide market and 50-60% of seed sales. AFBF doesn't lobby against market concentration. It lobbies for subsidies that compensate farmers for the prices extracted by the concentrated supply chain.
+**Pattern: Genuine Win + Structural Limit.** AFBF delivers real benefits to farmers, commodity price floors, crop insurance, emergency payments. But these benefits are structured to flow disproportionately to the largest operations while leaving the underlying dynamics (corporate consolidation, market concentration, input cost inflation) untouched. The top 4 seed/agrochemical firms control 60-70% of the global pesticide market and 50-60% of seed sales. AFBF doesn't lobby against market concentration. It lobbies for subsidies that compensate farmers for the prices extracted by the concentrated supply chain.
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

@@ -80,7 +80,7 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 ### What They've Gotten
 
-**The Tipped Minimum Wage Freeze:** The federal tipped minimum wage has been $2.13/hour since 1991 — 35 years without an increase. This freeze represents the NRA's most significant policy victory: maintaining a labor cost structure that shifts worker compensation from employers to customers (through tips) while insulating restaurant owners from wage increases. The tipped minimum wage freeze has survived every federal minimum wage increase since 1991 because the NRA successfully lobbied to decouple tipped and non-tipped minimum wages.
+**The Tipped Minimum Wage Freeze:** The federal tipped minimum wage has been $2.13/hour since 1991, 35 years without an increase. This freeze represents the NRA's most significant policy victory: maintaining a labor cost structure that shifts worker compensation from employers to customers (through tips) while insulating restaurant owners from wage increases. The tipped minimum wage freeze has survived every federal minimum wage increase since 1991 because the NRA successfully lobbied to decouple tipped and non-tipped minimum wages.
 
 **State-Level Victories:** The NRA has successfully blocked minimum wage increases and paid leave mandates in dozens of state legislatures, particularly in Republican-controlled states where the association's lobbying operation combines with Chamber of Commerce and ALEC model legislation.
 

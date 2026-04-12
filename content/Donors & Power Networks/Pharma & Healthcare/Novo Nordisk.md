@@ -87,7 +87,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Novo Nordisk A/S. Danish pharmaceutical company that has become the most valuable company in Europe (market capitalization: $400+ billion, 2024) primarily through its GLP-1 receptor agonist drugs — Ozempic (diabetes), Wegovy (weight loss), and their successors. Revenue: $33 billion (2024). Novo Nordisk is the world's largest insulin producer and, alongside Eli Lilly, dominates the emerging obesity treatment market.
+Novo Nordisk A/S. Danish pharmaceutical company that has become the most valuable company in Europe (market capitalization: $400+ billion, 2024) primarily through its GLP-1 receptor agonist drugs. Ozempic (diabetes), Wegovy (weight loss), and their successors. Revenue: $33 billion (2024). Novo Nordisk is the world's largest insulin producer and, alongside Eli Lilly, dominates the emerging obesity treatment market.
 
 Novo Nordisk's US political operation is managed through its American subsidiary. The company's PAC contributes $1-2 million per cycle, with lobbying spending of $5-8 million annually. As a foreign-headquartered company, Novo Nordisk's US political operation is constrained by FARA requirements, but the company's market dominance in insulin and GLP-1 drugs gives it enormous regulatory leverage.
 
@@ -103,7 +103,7 @@ Opposition to drug price negotiation expansion (particularly for GLP-1 drugs), f
 
 ### What They've Gotten
 
-**GLP-1 Market Dominance:** Novo Nordisk's Ozempic/Wegovy and Eli Lilly's Mounjaro/Zepbound have created a market projected to exceed $100 billion annually by 2030. The companies have successfully framed obesity as a medical condition requiring pharmaceutical treatment — rather than a systemic issue driven by food industry practices, economic stress, and sedentary work environments. This medicalization creates a permanent pharmaceutical revenue stream from a condition affecting 40%+ of Americans.
+**GLP-1 Market Dominance:** Novo Nordisk's Ozempic/Wegovy and Eli Lilly's Mounjaro/Zepbound have created a market projected to exceed $100 billion annually by 2030. The companies have successfully framed obesity as a medical condition requiring pharmaceutical treatment, rather than a systemic issue driven by food industry practices, economic stress, and sedentary work environments. This medicalization creates a permanent pharmaceutical revenue stream from a condition affecting 40%+ of Americans.
 
 **Insulin Oligopoly Preservation:** Novo Nordisk, Eli Lilly, and Sanofi control 90% of the global insulin market. Despite insulin being discovered in 1921 (and the patent sold for $1), the three companies have maintained monopoly pricing through incremental patent modifications ("evergreening"), rebate agreements with PBMs, and regulatory barriers to biosimilar entry.
 

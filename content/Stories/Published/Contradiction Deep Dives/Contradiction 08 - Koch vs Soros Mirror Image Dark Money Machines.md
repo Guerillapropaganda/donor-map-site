@@ -43,7 +43,7 @@ This opposition is performative. Beneath the ideology, the infrastructure is ide
 | **Primary 501(c)(4) Vehicle** | [[Americans for Prosperity]]; [[Stand Together|Stand Together]] C4 Fund | [[Sixteen Thirty Fund|Sixteen Thirty Fund]]; New Venture Fund |
 | **2024 Annual Spending** | $548M (two-year cycle, ~$274M/year) | $1.55B (Arabella total) / $311M (S30 Fund alone) |
 | **Super PAC Arm** | [[Americans for Prosperity]] Action ($157M in 2024) | America Votes (received $27.85M from S30 Fund in 2024) |
-| **Donor Disclosure Required** | No — 501(c)(4) donors not disclosed | No — 501(c)(4) donors not disclosed |
+| **Donor Disclosure Required** | No, 501(c)(4) donors not disclosed | No, 501(c)(4) donors not disclosed |
 | **Stated Position on Dark Money Disclosure** | "Transparency matters but radical transparency harms donors" | "Citizens United's dark money is corrupting democracy" |
 | **Actual Practice on Disclosure** | Funds flow through LLCs to hide sources | Funds flow through fiscal sponsors to hide sources |
 | **Pop-Up Organizations Created** | Branded AFP state affiliates; appears permanent | 40+ temporary advocacy groups per cycle; dissolved post-election |
@@ -58,9 +58,9 @@ This opposition is performative. Beneath the ideology, the infrastructure is ide
 Both networks use the same hierarchy:
 
 ### Step 1: The Funding Vehicle (Dark Money Nonprofit)
-Koch: [[Stand Together|Stand Together]] C4 Fund and [[Americans for Prosperity]] (501c4) — raise money with zero donor disclosure.
+Koch: [[Stand Together|Stand Together]] C4 Fund and [[Americans for Prosperity]] (501c4), raise money with zero donor disclosure.
 
-Soros/Arabella: [[Sixteen Thirty Fund|Sixteen Thirty Fund]] and New Venture Fund (both 501c4s) — raise money with zero donor disclosure.
+Soros/Arabella: [[Sixteen Thirty Fund|Sixteen Thirty Fund]] and New Venture Fund (both 501c4s), raise money with zero donor disclosure.
 
 >[!money]
 >**Key Legal Fact**: Under IRS rules, a 501(c)(4) "social welfare organization" must have its primary activity (>50%) be social welfare, but can allocate up to 49.9% to explicitly political spending. Neither side discloses a single donor. This is legal. Both sides exploit it identically.
@@ -71,14 +71,14 @@ Koch: [[Americans for Prosperity]] C4 receives funds → passes money to [[Ameri
 Soros/Arabella: Sixteen Thirty Fund receives funds → passes money to state and local front groups (40+ per cycle). Provides fiscal sponsorship to "pop-up" advocacy organizations.
 
 ### Step 3: The LLC Opacity Layer
-Koch: CCKC4 (Charles Chase Koch 501c4) passes $125M+ to the Non-Profit 1888 Feeder Fund, LLC — a private investment vehicle with $2.1B in assets as of 2022. The LLC structure allows bypassing nonprofit donor disclosure rules.
+Koch: CCKC4 (Charles Chase Koch 501c4) passes $125M+ to the Non-Profit 1888 Feeder Fund, LLC, a private investment vehicle with $2.1B in assets as of 2022. The LLC structure allows bypassing nonprofit donor disclosure rules.
 
 Soros/Arabella: [[Arabella Advisors|Arabella Advisors]] (for-profit consultancy) manages the four 501c4s (New Venture Fund, Sixteen Thirty Fund, Windward Fund, Hopewell Fund) through pass-through grants and shared infrastructure. The consultancy-nonprofit relationship creates the same opacity: money enters as grants, identity of original donors obscured.
 
 ### Step 4: The Branded Surface
-Koch: [[Americans for Prosperity]] appears as the public face — stable, branded, seemingly transparent ("[[Americans for Prosperity]]"). The underlying network (Stand Together, CCKC4, LLCs) remains invisible to voters.
+Koch: [[Americans for Prosperity]] appears as the public face, stable, branded, seemingly transparent ("[[Americans for Prosperity]]"). The underlying network (Stand Together, CCKC4, LLCs) remains invisible to voters.
 
-Soros/Arabella: Sixteen Thirty Fund appears as the public face — seemingly transparent about being a fiscal sponsor. The underlying donor relationships and funding sources remain hidden. Pop-up groups appear to be grassroots; they dissolve after elections.
+Soros/Arabella: Sixteen Thirty Fund appears as the public face, seemingly transparent about being a fiscal sponsor. The underlying donor relationships and funding sources remain hidden. Pop-up groups appear to be grassroots; they dissolve after elections.
 
 >[!contradiction]
 >**Structural Identity**: Both networks use a single entity as the public face while hiding ownership, funding, and donor relationships behind secondary and tertiary entities. Koch hides behind branded stability; Soros hides behind fiscal sponsorship. The function is identical: opacity with scale.
@@ -93,7 +93,7 @@ The deepest contradiction is Democratic. For a decade (2010–2020), Democrats p
 In 2010–2015: Democrats framed dark money as fundamentally undemocratic. Senate Majority Leader Harry Reid denounced the Koch network as "un-American" for using dark money. Democratic politicians made Citizens United reversal a centerpiece of their platform.
 
 ### The Actual Practice
-In 2016–2024: After a decade attacking undisclosed spending on the right, the Democratic Party embraced dark money with "fresh zeal." A New York Times analysis found Democrats spent $1.5B+ in undisclosed contributions across 2020 and 2024 — outspending Republicans in dark money for the first time in U.S. history.
+In 2016–2024: After a decade attacking undisclosed spending on the right, the Democratic Party embraced dark money with "fresh zeal." A New York Times analysis found Democrats spent $1.5B+ in undisclosed contributions across 2020 and 2024, outspending Republicans in dark money for the first time in U.S. history.
 
 Key vehicles:
 - Sixteen Thirty Fund: $311M in 2024 alone
@@ -106,7 +106,7 @@ Key vehicles:
 >[!quote]
 >**Democratic Justification**: "We aren't going to unilaterally disarm against [[_Donald Trump Master Profile|Donald Trump]] and right-wing conservatives." — Standard Democratic response when pressed on the contradiction, 2020–2024
 
-This is not hypocrisy requiring explanation. It is hypocrisy requiring acknowledgment: Democrats use identical dark money structures to those they publicly condemn — because dark money is not a partisan tool. It is a class tool. Both donor classes discovered it works.
+This is not hypocrisy requiring explanation. It is hypocrisy requiring acknowledgment: Democrats use identical dark money structures to those they publicly condemn, because dark money is not a partisan tool. It is a class tool. Both donor classes discovered it works.
 
 ---
 
@@ -115,7 +115,7 @@ This is not hypocrisy requiring explanation. It is hypocrisy requiring acknowled
 Sixteen Thirty Fund pioneered a technique the Koch network does not match: creating 40+ temporary advocacy organizations per cycle, funding them, running campaigns, then dissolving them post-election.
 
 ### The Model
-Sixteen Thirty Fund (501c4) provides "fiscal sponsorship" to these pop-up groups — administrative infrastructure, payroll, legal compliance, financial management. The groups appear to be independent grassroots organizations. They are not. They are subsidiaries of Arabella/S30.
+Sixteen Thirty Fund (501c4) provides "fiscal sponsorship" to these pop-up groups, administrative infrastructure, payroll, legal compliance, financial management. The groups appear to be independent grassroots organizations. They are not. They are subsidiaries of Arabella/S30.
 
 Example (2024): Sixteen Thirty Fund groups organized abortion ballot measures in Arizona, Missouri, and Montana. They achieved constitutional amendments in all three states, outspending opposition 93-to-1 in Montana. Post-election, these organizations dissolve. No multi-cycle institutional memory. No accountability structure. No public trace.
 
@@ -136,7 +136,7 @@ Soros/Arabella dissolves the organization and the political liability dissolves 
 
 ---
 
-### The Class Analysis: Dark Money Is Not a Partisan Problem — It Is a Donor Class Tool
+### The Class Analysis: Dark Money Is Not a Partisan Problem. It Is a Donor Class Tool
 
 The Koch-Soros mirror image proves a structural truth: dark money is not partisan corruption. It is a class function.
 
@@ -170,52 +170,52 @@ Both networks are funded by billionaires using identical mechanisms. Both billio
 ### Sources
 
 ### [[Koch Network - Charles Koch|Koch Network]] Spending & Structure
-- [Koch political operation spent nearly $550 million during 2024 cycle — DNYUZ](https://dnyuz.com/2025/12/20/koch-political-operation-spent-nearly-550-million-during-2024-cycle/) (Tier 2)
-- [Koch network's flagship super PAC pours big money into 2024 elections — OpenSecrets News](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 2)
-- [Americans for Prosperity Profile: Summary — OpenSecrets](https://www.opensecrets.org/orgs/americans-for-prosperity/summary?id=D000024046) (Tier 1)
-- [Koch Super PAC Shatters Its Election Spending Record — EXPOSEDbyCMD](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/) (Tier 2)
+- [Koch political operation spent nearly $550 million during 2024 cycle. DNYUZ](https://dnyuz.com/2025/12/20/koch-political-operation-spent-nearly-550-million-during-2024-cycle/) (Tier 2)
+- [Koch network's flagship super PAC pours big money into 2024 elections. OpenSecrets News](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 2)
+- [Americans for Prosperity Profile: Summary. OpenSecrets](https://www.opensecrets.org/orgs/americans-for-prosperity/summary?id=D000024046) (Tier 1)
+- [Koch Super PAC Shatters Its Election Spending Record. EXPOSEDbyCMD](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/) (Tier 2)
 
 ### Stand Together & Koch Network Distribution
-- [Charles Koch's "Stand Together" Donor Conduits Move $176 Million — EXPOSEDbyCMD](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
-- [Son of a Koch: $1.2 Billion Infusion Into Chase Koch's Dark Money Group — EXPOSEDbyCMD](https://www.exposedbycmd.org/2022/08/09/son-of-a-koch-1-2-billion-infusion-into-chase-kochs-dark-money-group-suggests-political-ambitions/) (Tier 2)
+- [Charles Koch's "Stand Together" Donor Conduits Move $176 Million. EXPOSEDbyCMD](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/) (Tier 2)
+- [Son of a Koch: $1.2 Billion Infusion Into Chase Koch's Dark Money Group. EXPOSEDbyCMD](https://www.exposedbycmd.org/2022/08/09/son-of-a-koch-1-2-billion-infusion-into-chase-kochs-dark-money-group-suggests-political-ambitions/) (Tier 2)
 
 ### Soros/Arabella Network Spending
 - [Soros Open Society Foundations: Financial Figures](https://www.opensocietyfoundations.org/who-we-are/financials) (Tier 1)
-- [The $1.5 Billion Machine: Inside Arabella Advisors' 2024 Dark Money Blitz — Campaign Now](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 2)
-- [BEST OF 2024 Donors to the Arabella Advisors Network — Capital Research Center](https://capitalresearch.org/article/best-of-2024donors-to-the-arabella-advisors-network/) (Tier 2)
-- [Arabella Advisors — Wikipedia](https://en.wikipedia.org/wiki/Arabella_Advisors) (Tier 3)
-- [Sixteen Thirty Fund — Ballotpedia](https://ballotpedia.org/Sixteen_Thirty_Fund) (Tier 3)
+- [The $1.5 Billion Machine: Inside Arabella Advisors' 2024 Dark Money Blitz. Campaign Now](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 2)
+- [BEST OF 2024 Donors to the Arabella Advisors Network. Capital Research Center](https://capitalresearch.org/article/best-of-2024donors-to-the-arabella-advisors-network/) (Tier 2)
+- [Arabella Advisors. Wikipedia](https://en.wikipedia.org/wiki/Arabella_Advisors) (Tier 3)
+- [Sixteen Thirty Fund. Ballotpedia](https://ballotpedia.org/Sixteen_Thirty_Fund) (Tier 3)
 
 ### Sixteen Thirty Fund & Pop-Up Model
-- [Sixteen Thirty Fund (1630 Fund) — InfluenceWatch](https://www.influencewatch.org/non-profit/sixteen-thirty-fund/) (Tier 3)
-- [Out of Darkness, Cash: Pop! Goes the Protest — Capital Research Center](https://capitalresearch.org/article/out-of-darkness-cash-part-2/) (Tier 2)
-- [Out of Darkness, Cash: Sixteen Thirty in Action — Capital Research Center](https://capitalresearch.org/article/out-of-darkness-cash-part-3/) (Tier 2)
+- [Sixteen Thirty Fund (1630 Fund). InfluenceWatch](https://www.influencewatch.org/non-profit/sixteen-thirty-fund/) (Tier 3)
+- [Out of Darkness, Cash: Pop! Goes the Protest. Capital Research Center](https://capitalresearch.org/article/out-of-darkness-cash-part-2/) (Tier 2)
+- [Out of Darkness, Cash: Sixteen Thirty in Action. Capital Research Center](https://capitalresearch.org/article/out-of-darkness-cash-part-3/) (Tier 2)
 
 ### 501(c)(4) Structure & Dark Money Mechanics
-- [Dark Money Illuminated Report Methodology — Issue One](https://issueone.org/dark-money-illuminated-report-methodology/) (Tier 2)
-- [Billionaires are setting up massive 501c4s. Why? — Inside Philanthropy](https://www.insidephilanthropy.com/home/billionaires-are-setting-up-massive-501c4s-why) (Tier 2)
-- [501(c)(4)s and "Dark Money": Regulatory Struggles — Capital Research Center](https://capitalresearch.org/article/501c4s-and-dark-money-part-3/) (Tier 2)
+- [Dark Money Illuminated Report Methodology. Issue One](https://issueone.org/dark-money-illuminated-report-methodology/) (Tier 2)
+- [Billionaires are setting up massive 501c4s. Why?. Inside Philanthropy](https://www.insidephilanthropy.com/home/billionaires-are-setting-up-massive-501c4s-why) (Tier 2)
+- [501(c)(4)s and "Dark Money": Regulatory Struggles. Capital Research Center](https://capitalresearch.org/article/501c4s-and-dark-money-part-3/) (Tier 2)
 
 ### Republican Attacks on Soros
-- [Ted Cruz Slams SPLC for Calling Soros Criticism Antisemitic — Daily Signal](https://www.dailysignal.com/2024/05/21/exclusive-ted-cruz-slams-splc-calling-criticism-george-soros-funding-antisemitic/) (Tier 3)
-- ['Boogeyman': Why Republicans invoke Soros — Al Jazeera](https://www.aljazeera.com/news/2023/4/5/boogeyman-why-republicans-invoke-soros-to-defend-trump) (Tier 2)
-- [Soros-backed dark money network paid New York Dem candidate's salary — Fox News](https://www.foxnews.com/politics/soros-backed-dark-money-network-paid-new-york-dem-candidates-salary-incredibly-problematic) (Tier 3)
+- [Ted Cruz Slams SPLC for Calling Soros Criticism Antisemitic. Daily Signal](https://www.dailysignal.com/2024/05/21/exclusive-ted-cruz-slams-splc-calling-criticism-george-soros-funding-antisemitic/) (Tier 3)
+- ['Boogeyman': Why Republicans invoke Soros. Al Jazeera](https://www.aljazeera.com/news/2023/4/5/boogeyman-why-republicans-invoke-soros-to-defend-trump) (Tier 2)
+- [Soros-backed dark money network paid New York Dem candidate's salary. Fox News](https://www.foxnews.com/politics/soros-backed-dark-money-network-paid-new-york-dem-candidates-salary-incredibly-problematic) (Tier 3)
 
 ### Democratic Attacks on Koch
-- [Charles Koch's laughable quote on dark money — Sunlight Foundation](https://sunlightfoundation.com/2015/10/13/charles-kochs-laughable-quote-on-dark-money/) (Tier 2)
-- ['Dark Money': Koch Brothers' Donations Push Their Political Agenda — NPR](https://www.npr.org/2016/01/19/463551038/dark-money-delves-into-how-koch-brothers-donations-push-their-political-agenda) (Tier 2)
-- [Capital Rivals: Koch Brothers vs. [[George Soros]] — OpenSecrets](https://www.opensecrets.org/news/2010/09/opensecrets-battle-koch-brothers/) (Tier 2)
+- [Charles Koch's laughable quote on dark money. Sunlight Foundation](https://sunlightfoundation.com/2015/10/13/charles-kochs-laughable-quote-on-dark-money/) (Tier 2)
+- ['Dark Money': Koch Brothers' Donations Push Their Political Agenda. NPR](https://www.npr.org/2016/01/19/463551038/dark-money-delves-into-how-koch-brothers-donations-push-their-political-agenda) (Tier 2)
+- [Capital Rivals: Koch Brothers vs. [[George Soros]]. OpenSecrets](https://www.opensecrets.org/news/2010/09/opensecrets-battle-koch-brothers/) (Tier 2)
 
 ### Democratic Dark Money Hypocrisy
-- [Democrats used to rail against 'dark money.' Now they're better at it than the GOP — NBC News](https://www.nbcnews.com/politics/2020-election/democrats-used-rail-against-dark-money-now-they-re-better-n1239830) (Tier 2)
-- [The Democratic Dilemma on Dark Money — American Prospect](https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/) (Tier 2)
-- [How Democrats use 'dark money' — and win elections — Center for Public Integrity](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)
-- [Democrats used to rail against Citizens United — now they embrace dark money — NBC News](https://www.nbcnews.com/politics/congress/how-democrats-use-dark-money-win-elections-n849391) (Tier 2)
+- [Democrats used to rail against 'dark money.' Now they're better at it than the GOP. NBC News](https://www.nbcnews.com/politics/2020-election/democrats-used-rail-against-dark-money-now-they-re-better-n1239830) (Tier 2)
+- [The Democratic Dilemma on Dark Money. American Prospect](https://prospect.org/2021/12/02/democratic-dilemma-on-dark-money/) (Tier 2)
+- [How Democrats use 'dark money', and win elections. Center for Public Integrity](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2)
+- [Democrats used to rail against Citizens United, now they embrace dark money. NBC News](https://www.nbcnews.com/politics/congress/how-democrats-use-dark-money-win-elections-n849391) (Tier 2)
 
 ### Citizens United & Campaign Finance Reform
-- [Durbin Condemns Dark Money In Politics — Senate Judiciary Committee](https://www.judiciary.senate.gov/press/dem/releases/durbin-condemns-dark-money-in-politics-on-anniversary-of-citizens-united-supreme-court-decision) (Tier 1)
-- [Dark Money — Brennan Center for Justice](https://www.brennancenter.org/topics/money-politics/influence-big-money/dark-money) (Tier 2)
-- [Citizens United, Explained — Brennan Center for Justice](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained) (Tier 2)
+- [Durbin Condemns Dark Money In Politics. Senate Judiciary Committee](https://www.judiciary.senate.gov/press/dem/releases/durbin-condemns-dark-money-in-politics-on-anniversary-of-citizens-united-supreme-court-decision) (Tier 1)
+- [Dark Money. Brennan Center for Justice](https://www.brennancenter.org/topics/money-politics/influence-big-money/dark-money) (Tier 2)
+- [Citizens United, Explained. Brennan Center for Justice](https://www.brennancenter.org/our-work/research-reports/citizens-united-explained) (Tier 2)
 
 ---
 

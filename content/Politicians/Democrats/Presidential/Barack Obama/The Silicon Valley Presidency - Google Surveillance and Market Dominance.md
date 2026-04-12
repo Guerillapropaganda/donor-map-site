@@ -51,7 +51,7 @@ This is not proven corruption (no documents show direct quid pro quo). It is str
 
 ### The PRISM Partnership: Surveillance State Built with Tech Company Cooperation
 
-In June 2013, Edward Snowden revealed the PRISM program — a massive NSA data collection program that operated in partnership with major technology companies. PRISM showed that:
+In June 2013, Edward Snowden revealed the PRISM program, a massive NSA data collection program that operated in partnership with major technology companies. PRISM showed that:
 
 - Google, Apple, Microsoft, Facebook, Yahoo, and other tech companies had provided NSA with direct access to user data
 - The partnerships were not forced; they were negotiated
@@ -72,9 +72,9 @@ The outcome revealed: the largest domestic surveillance program in U.S. history 
 
 The Obama administration's patent policy systematically protected technology sector intellectual property. This included:
 
-1. **Trans-Pacific Partnership (TPP)** — International trade agreement that strengthened patent protections across countries, directly benefiting U.S. tech companies
-2. **Domestic patent extension** — Obama's administration opposed patent limitations that would have reduced tech company monopolies
-3. **DMCA enforcement** — Digital Millennium Copyright Act provisions protecting digital locks on tech products were strengthened, preventing competition/repair
+1. **Trans-Pacific Partnership (TPP)**. International trade agreement that strengthened patent protections across countries, directly benefiting U.S. tech companies
+2. **Domestic patent extension**. Obama's administration opposed patent limitations that would have reduced tech company monopolies
+3. **DMCA enforcement**. Digital Millennium Copyright Act provisions protecting digital locks on tech products were strengthened, preventing competition/repair
 
 Patent protection is not accidental; it is the legal infrastructure that converts market dominance into indefinite profit. Stronger patents = longer monopolies = higher profits for incumbents.
 
@@ -86,13 +86,13 @@ Technology companies understood Obama administration patent policy as favorable.
 
 Despite growing concern about technology sector consolidation, the Obama FTC took no enforcement action against the major technology monopolies:
 
-- **Google** — Search monopoly (>90% market share), advertising dominance, growing vertical integration into maps, shopping, YouTube (acquired 2006)
-- **[[Amazon]]** — Retail/cloud dominance, expanding vertically into media, logistics, devices
-- **Apple** — Operating system/device monopoly in premium market, controlling app distribution
+- **Google**. Search monopoly (>90% market share), advertising dominance, growing vertical integration into maps, shopping, YouTube (acquired 2006)
+- **[[Amazon]]**. Retail/cloud dominance, expanding vertically into media, logistics, devices
+- **Apple**. Operating system/device monopoly in premium market, controlling app distribution
 
-The EU, during the same period, initiated multiple antitrust investigations into Google and other tech companies. The U.S., under Obama, did not follow.
+The EU, during the same period, initiated multiple antitrust investigations into Google and other tech companies. The U.S. under Obama, did not follow.
 
-This is not a mystery. The 427 Google meetings, the patent protections, the PRISM partnership — these represent structural alignment between the Obama administration and Silicon Valley. Antitrust action would have threatened that alignment.
+This is not a mystery. The 427 Google meetings, the patent protections, the PRISM partnership, these represent structural alignment between the Obama administration and Silicon Valley. Antitrust action would have threatened that alignment.
 
 > [!contradiction] **The Privacy President Who Built the Surveillance State.** Obama promised transparency and privacy protections. His NSA director ran the largest domestic surveillance program in history — 3B+ phone records daily — in direct partnership with the same tech companies whose executives met with White House staff 427+ times. When Snowden revealed the program, Obama defended it. The candidate who ran against government overreach had built the infrastructure for government-scale data collection that his successor inherited and expanded.
 
@@ -125,17 +125,17 @@ After leaving office, Obama's relationship with Silicon Valley billionaires deep
 
 These are the tech billionaires who understood that Obama had protected their interests while maintaining progressive rhetoric. Capital rewards those who serve its interests.
 
-The post-presidency funding flows confirm: Silicon Valley tech billionaires became massive Democratic donors after understanding that Obama — despite surveillance concerns, despite monopoly power — had protected their market dominance and enabled their business models.
+The post-presidency funding flows confirm: Silicon Valley tech billionaires became massive Democratic donors after understanding that Obama, despite surveillance concerns, despite monopoly power, had protected their market dominance and enabled their business models.
 
 ---
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Obama's administration invested heavily in renewable energy through stimulus funding (~$80B in clean energy investment). But the structural limit: fossil fuel extraction continued and expanded. Tech innovation happened, but under monopoly structures protected by patent law and non-enforcement of antitrust. Real achievements existed within structures that ensured corporate dominance continued.
+**The Genuine Win + Structural Limit**. Obama's administration invested heavily in renewable energy through stimulus funding (~$80B in clean energy investment). But the structural limit: fossil fuel extraction continued and expanded. Tech innovation happened, but under monopoly structures protected by patent law and non-enforcement of antitrust. Real achievements existed within structures that ensured corporate dominance continued.
 
-**The Two-Audience Problem at Maximum Scale** — Obama told progressives he was protecting privacy while NSA expanded surveillance to historic levels. He told civil liberties advocates he opposed government overreach while building the largest surveillance apparatus in history. He told the public he supported competition while allowing Google, Amazon, and Apple to consolidate market power without challenge. Silicon Valley understood the real message.
+**The Two-Audience Problem at Maximum Scale**. Obama told progressives he was protecting privacy while NSA expanded surveillance to historic levels. He told civil liberties advocates he opposed government overreach while building the largest surveillance apparatus in history. He told the public he supported competition while allowing Google, Amazon, and Apple to consolidate market power without challenge. Silicon Valley understood the real message.
 
-**The Villain Framing** — When surveillance concerns emerged, the response was: "Terrorism requires intelligence." When monopoly concerns emerged, the response was: "Innovation benefits consumers." External justifications (terrorism, consumer benefit) replaced the actual function (capital's consolidation of power).
+**The Villain Framing**. When surveillance concerns emerged, the response was: "Terrorism requires intelligence." When monopoly concerns emerged, the response was: "Innovation benefits consumers." External justifications (terrorism, consumer benefit) replaced the actual function (capital's consolidation of power).
 
 ---
 

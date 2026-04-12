@@ -34,7 +34,7 @@ In October 2019, Newsom signed AB 32, which banned private prisons and private i
 ### This Is a Genuine Win
 Private immigration detention is well-documented as a system of abuse: inadequate medical care, due process violations, deaths in custody, profit incentives to maximize detention length. AB 32 eliminating private detention facilities in California is a real policy win and should be credited as such.
 
-[[GEO Group|GEO Group]] and CoreCivic spent significantly to fight the bill. Neither company is a Newsom donor. This is a case where Newsom signed legislation that cost his opponents something real — and unlike Prop 22, there was no subsequent rollback.
+[[GEO Group|GEO Group]] and CoreCivic spent significantly to fight the bill. Neither company is a Newsom donor. This is a case where Newsom signed legislation that cost his opponents something real, and unlike Prop 22, there was no subsequent rollback.
 
 ---
 
@@ -45,7 +45,7 @@ The result: AB 32's private prison provisions (state corrections) survived. The 
 
 ### What It Didn't Fix
 
-AB 32 did not eliminate immigration detention in California — it only eliminated **privately contracted** detention. ICE can still detain immigrants in California through:
+AB 32 did not eliminate immigration detention in California, it only eliminated **privately contracted** detention. ICE can still detain immigrants in California through:
 - Federal facilities (not regulated by state)
 - County jail contracts (distinct legal arrangement from private prison contracts; state cannot regulate)
 - Agreements with local law enforcement (not contractual private detention)
@@ -57,7 +57,7 @@ AB 32 did not eliminate immigration detention in California — it only eliminat
 
 As of early 2026, ICE continues to detain approximately 2,000-3,000 immigrants per year in California through non-private mechanisms, representing a decline from pre-AB 32 numbers (approximately 6,500 total ICE detainees in private + county facilities) but not elimination of detention.
 
-The distinction matters: AB 32 was a genuine hit on the private prison industry and should be presented as such, but it should not be framed as ending immigration detention in California — it ended one category of a larger system.
+The distinction matters: AB 32 was a genuine hit on the private prison industry and should be presented as such, but it should not be framed as ending immigration detention in California, it ended one category of a larger system.
 
 > [!money]
 > AB 32 was opposed by [[GEO Group|GEO Group]] and CoreCivic, who invested significantly in lobbying and litigation to defeat or weaken the bill. Neither company is a documented Newsom donor (unlike healthcare insurers). This is a case where Newsom signed legislation that directly cost his political opponents something real — loss of billions in future detention contracts. The absence of donor complications (unlike healthcare policy) suggests the veto would not have occurred in a comparable scenario where the affected company was a documented campaign contributor.
@@ -67,22 +67,22 @@ The distinction matters: AB 32 was a genuine hit on the private prison industry 
 
 ### Analytical Patterns
 
-**The Genuine Win** — AB 32 eliminated approximately 4,500 beds of private ICE detention in California (Adelanto, Kern Valley, Otay Mesa, and others). This was a real victory: private detention facilities are documented as having higher rates of abuse, medical neglect, and rights violations than county jails. Removing people from those environments is a legitimate policy win that should be credited.
+**The Genuine Win**. AB 32 eliminated approximately 4,500 beds of private ICE detention in California (Adelanto, Kern Valley, Otay Mesa, and others). This was a real victory: private detention facilities are documented as having higher rates of abuse, medical neglect, and rights violations than county jails. Removing people from those environments is a legitimate policy win that should be credited.
 
-**The Structural Limit** — The law addresses the private/public distinction but not detention itself. As long as ICE has authority to detain and California law allows county jail cooperation, the core mechanism continues. AB 32 is therefore a narrower victory than its rhetoric suggests: it regulated the profit-taking intermediary (private corporations) without eliminating the core coercive practice (detention).
+**The Structural Limit**. The law addresses the private/public distinction but not detention itself. As long as ICE has authority to detain and California law allows county jail cooperation, the core mechanism continues. AB 32 is therefore a narrower victory than its rhetoric suggests: it regulated the profit-taking intermediary (private corporations) without eliminating the core coercive practice (detention).
 
-**The Litigation Contingency** — The Trump DOJ lawsuit against AB 32 (2020) and the Ninth Circuit's partial ruling (2022) created an uncertain legal environment: the private prison ban survived, but the private detention ban was challenged and partially limited. Newsom's administration prevailed in court, but the victory was less than complete. Future administrations could further narrow the ruling. This is consistent with the "pilot program" pattern: announce comprehensive reform, face litigation, accept a weakened version, claim victory.
+**The Litigation Contingency**. The Trump DOJ lawsuit against AB 32 (2020) and the Ninth Circuit's partial ruling (2022) created an uncertain legal environment: the private prison ban survived, but the private detention ban was challenged and partially limited. Newsom's administration prevailed in court, but the victory was less than complete. Future administrations could further narrow the ruling. This is consistent with the "pilot program" pattern: announce comprehensive reform, face litigation, accept a weakened version, claim victory.
 
 ### Timeline
 
 | Date | Event | Key Players | Amount | Significance |
 |------|-------|-------------|--------|--------------|
-| 2019 | AB 32 introduced to ban private prisons and private immigration detention facilities in California | CA legislature, immigrant rights advocates, ACLU | Legislative action | Direct policy threat to GEO Group and CoreCivic's California operations — 8 facilities, ~4,500 ICE detainees |
-| 2019-09 | GEO Group and CoreCivic testify against AB 32; private prison industry mobilizes lobbyists and legal teams | GEO Group, CoreCivic, private prison lobbyists | Industry lobbying spend (undisclosed) | Neither company is a Newsom donor — absence of donor complication allows Newsom to sign without financial cost to his fundraising infrastructure |
-| 2019-10 | Newsom signs AB 32 into law; California becomes first state to ban both private prisons and private immigration detention | Newsom, CA legislature | Policy outcome | Genuine win — eliminates ~4,500 private ICE detention beds and ~3,850 private prison beds; real cost imposed on private prison industry |
+| 2019 | AB 32 introduced to ban private prisons and private immigration detention facilities in California | CA legislature, immigrant rights advocates, ACLU | Legislative action | Direct policy threat to GEO Group and CoreCivic's California operations, 8 facilities, ~4,500 ICE detainees |
+| 2019-09 | GEO Group and CoreCivic testify against AB 32; private prison industry mobilizes lobbyists and legal teams | GEO Group, CoreCivic, private prison lobbyists | Industry lobbying spend (undisclosed) | Neither company is a Newsom donor, absence of donor complication allows Newsom to sign without financial cost to his fundraising infrastructure |
+| 2019-10 | Newsom signs AB 32 into law; California becomes first state to ban both private prisons and private immigration detention | Newsom, CA legislature | Policy outcome | Genuine win, eliminates ~4,500 private ICE detention beds and ~3,850 private prison beds; real cost imposed on private prison industry |
 | 2020-01 | AB 32 takes effect; California stops accepting new private prison contracts; phase-out begins | CDCR, private prison operators | Regulatory action | Implementation begins but 8-year phase-out timeline delays full impact to 2028 |
 | 2020-03 | Trump DOJ sues California claiming AB 32's immigration detention ban is preempted by federal law | Trump DOJ, Jeff Sessions, CA Attorney General | Legal challenge | Federal lawsuit introduces uncertainty; immigration detention component at risk while private prison ban remains intact |
-| 2022-04 | Ninth Circuit rules partially for California: private prison ban upheld, private detention ban partially preempted for federally contracted facilities | Ninth Circuit, CA Attorney General, DOJ | Mixed ruling | Victory narrowed — state can ban private prisons but cannot force ICE to stop using private contractors; the genuine win becomes a partial win |
+| 2022-04 | Ninth Circuit rules partially for California: private prison ban upheld, private detention ban partially preempted for federally contracted facilities | Ninth Circuit, CA Attorney General, DOJ | Mixed ruling | Victory narrowed, state can ban private prisons but cannot force ICE to stop using private contractors; the genuine win becomes a partial win |
 | 2022–2028 | CDCR closes private prison contracts; ~3,850 individuals transferred from private to state facilities over phase-out period | CDCR, state prison system | Gradual implementation | 8-year transition means full impact delayed; private prison industry absorbs loss gradually rather than immediately |
 | 2026-03 | AB 32 evaluation: private detention eliminated but ICE continues detention through county jails; ~2,000-3,000 detainees annually in non-private facilities | ICE, county sheriffs, Newsom administration | Legacy assessment | Structural limit revealed: detention mechanism shifted from private to county jails rather than eliminated; the practice continues through alternative institutional channels |
 

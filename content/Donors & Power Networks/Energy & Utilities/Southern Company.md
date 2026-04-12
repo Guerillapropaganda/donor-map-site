@@ -68,7 +68,7 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 
 ### What They've Gotten
 
-**Plant Vogtle Cost Overruns:** Plant Vogtle Units 3 and 4 — the first new US nuclear reactors in 30 years — were originally budgeted at $14 billion and completed at $35+ billion, with costs passed to Georgia Power ratepayers through PSC-approved rate increases. The project's cost doubled, the schedule slipped by 7+ years, and the contractor (Westinghouse) went bankrupt — but Georgia ratepayers bear the cost because the PSC approved cost recovery through utility bills. The Vogtle project is the definitive case study of a regulated utility socializing losses while privatizing the operational asset.
+**Plant Vogtle Cost Overruns:** Plant Vogtle Units 3 and 4, the first new US nuclear reactors in 30 years, were originally budgeted at $14 billion and completed at $35+ billion, with costs passed to Georgia Power ratepayers through PSC-approved rate increases. The project's cost doubled, the schedule slipped by 7+ years, and the contractor (Westinghouse) went bankrupt, but Georgia ratepayers bear the cost because the PSC approved cost recovery through utility bills. The Vogtle project is the definitive case study of a regulated utility socializing losses while privatizing the operational asset.
 
 **Regulatory Capture:** Southern Company's influence over state PSC appointments in Georgia and Alabama has been documented through campaign contributions to PSC candidates, lobbying of governors who appoint PSC members, and revolving door employment between the company and regulatory bodies. The PSC members who approve Southern Company's rate increases are, in many cases, products of Southern Company's political operation.
 

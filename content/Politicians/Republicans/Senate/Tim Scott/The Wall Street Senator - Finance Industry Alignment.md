@@ -15,17 +15,17 @@ donors: [[Goldman Sachs]] [[JPMorgan Chase]] [[Bank of America]] [[Blackstone Gr
 
 ### The Banking Committee's Republican Architect
 
-Tim Scott has served on the Senate Banking Committee since entering the Senate in 2013 and became its chairman in January 2025. The securities and investment industry has been his top contributor in every election cycle — a pattern that predates his Banking Committee assignment and intensified once he gained jurisdiction over their regulatory environment.
+Tim Scott has served on the Senate Banking Committee since entering the Senate in 2013 and became its chairman in January 2025. The securities and investment industry has been his top contributor in every election cycle, a pattern that predates his Banking Committee assignment and intensified once he gained jurisdiction over their regulatory environment.
 
 Scott's 2024 presidential campaign raised $22 million before he withdrew, with financial services constituting his largest industry donor category. The presidential campaign served a secondary function: it expanded Scott's national donor network among Wall Street executives and hedge fund managers who would later benefit from his Banking Committee chairmanship.
 
 ---
 
-### Opportunity Zones — The Policy Signature
+### Opportunity Zones. The Policy Signature
 
 Scott's single most significant legislative achievement is the Opportunity Zone program, which he championed as a provision of the 2017 Tax Cuts and Jobs Act. Opportunity Zones allow investors to defer and reduce capital gains taxes by investing in designated low-income census tracts. The program was designed to channel private investment into impoverished communities.
 
-In practice, the program was captured by institutional investors — including [[Blackstone Group]], real estate developers, and hedge funds — who used it to build luxury developments in gentrifying neighborhoods that technically qualified as "low-income" on census data. An investigation by ProPublica found that the program directed billions in tax-subsidized investment toward wealthy enclaves like downtown Portland, OR, and waterfront Miami — while genuinely impoverished rural communities received minimal investment.
+In practice, the program was captured by institutional investors, including [[Blackstone Group]], real estate developers, and hedge funds, who used it to build luxury developments in gentrifying neighborhoods that technically qualified as "low-income" on census data. An investigation by ProPublica found that the program directed billions in tax-subsidized investment toward wealthy enclaves like downtown Portland, OR, and waterfront Miami, while genuinely impoverished rural communities received minimal investment.
 
 > [!money]
 > Scott's Opportunity Zone program has generated an estimated $75 billion in private investment. The tax benefit accrues to the investors (capital gains deferral and reduction), not to the communities. ProPublica found that the wealthiest tracts designated as Opportunity Zones received disproportionate investment, while the poorest received almost none. Scott's program redirected public revenue (through tax expenditures) to private investors under the brand of community development.
@@ -34,7 +34,7 @@ In practice, the program was captured by institutional investors — including [
 
 ### The Diversity Brand
 
-Scott is the only Black Republican in the Senate — a distinction he leverages for the party's diversity messaging while advancing a legislative agenda aligned with the overwhelmingly white financial donor class. His 2024 presidential campaign emphasized his personal biography (single mother, poverty, self-improvement) while his policy platform reflected Wall Street's preferences: reduced banking regulation, lower capital gains taxes, and opposition to wealth taxes.
+Scott is the only Black Republican in the Senate, a distinction he leverages for the party's diversity messaging while advancing a legislative agenda aligned with the overwhelmingly white financial donor class. His 2024 presidential campaign emphasized his personal biography (single mother, poverty, self-improvement) while his policy platform reflected Wall Street's preferences: reduced banking regulation, lower capital gains taxes, and opposition to wealth taxes.
 
 The diversity brand serves the financial donor class by providing a messenger who can frame Wall Street-friendly policies as empowering for minority communities. Scott's Opportunity Zone rhetoric targets Black and brown communities; the program's benefits flow to predominantly white institutional investors.
 

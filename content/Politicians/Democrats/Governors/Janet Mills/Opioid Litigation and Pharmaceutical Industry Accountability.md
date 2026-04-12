@@ -39,7 +39,7 @@ Mills' Senate campaign reveals the structural limitation of her opioid litigatio
 
 ### Class Analysis: Redistributive Outcome + Preserved Corporate Structure
 
-The opioid settlements represent the standard Democratic accountability model: extract money from corporations, distribute to affected communities, claim victory, preserve underlying corporate structures. Mills' litigation won $235M for Maine—a real material transfer. But it did not challenge pharmaceutical company business models, pricing power, or political influence. The settlements are redistributive within a framework that preserves corporate dominance. Mills' Senate campaign now positions her as the candidate who will fight for healthcare affordability, but her funding source (Democratic institutional money tied to healthcare industry) suggests her Senate healthcare policy will follow the same pattern: redistribute money to individuals, preserve industry profit models.
+The opioid settlements represent the standard Democratic accountability model: extract money from corporations, distribute to affected communities, claim victory, preserve underlying corporate structures. Mills' litigation won $235M for Maine, a real material transfer. But it did not challenge pharmaceutical company business models, pricing power, or political influence. The settlements are redistributive within a framework that preserves corporate dominance. Mills' Senate campaign now positions her as the candidate who will fight for healthcare affordability, but her funding source (Democratic institutional money tied to healthcare industry) suggests her Senate healthcare policy will follow the same pattern: redistribute money to individuals, preserve industry profit models.
 
 ### Sources
 

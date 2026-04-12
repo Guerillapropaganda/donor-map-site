@@ -28,17 +28,17 @@ donors: [[_Donald Trump Master Profile]]
 
 **The pre-January 6th role:** Jordan participated in White House meetings in December 2020 and January 2021 discussing strategies to challenge the electoral count. He was among the House Republicans who voted to object to certification of Arizona and Pennsylvania electoral votes on January 6-7, even after the Capitol attack.
 
-**The defiance:** The Select Committee issued a subpoena to Jordan on May 12, 2022. Jordan refused to comply, citing separation of powers and claiming the committee was illegitimate. He was never held in contempt — the committee chose not to pursue enforcement against a sitting member. [[_Steve Bannon Master Profile|Steve Bannon]] received a four-month prison sentence for the same defiance. The asymmetry: Bannon was punished; Jordan was not.
+**The defiance:** The Select Committee issued a subpoena to Jordan on May 12, 2022. Jordan refused to comply, citing separation of powers and claiming the committee was illegitimate. He was never held in contempt, the committee chose not to pursue enforcement against a sitting member. [[_Steve Bannon Master Profile|Steve Bannon]] received a four-month prison sentence for the same defiance. The asymmetry: Bannon was punished; Jordan was not.
 
 ---
 
 ### The Weaponization Subcommittee
 
-In January 2023, with Republicans controlling the House, Jordan created the Select Subcommittee on the Weaponization of the Federal Government — a panel within the Judiciary Committee designed to investigate the FBI, DOJ, and intelligence community for alleged political bias against conservatives.
+In January 2023, with Republicans controlling the House, Jordan created the Select Subcommittee on the Weaponization of the Federal Government, a panel within the Judiciary Committee designed to investigate the FBI, DOJ, and intelligence community for alleged political bias against conservatives.
 
-**The function:** Investigate the investigators. Every institution that pursued accountability for January 6th — the FBI, DOJ, the Select Committee — became a target of Jordan's subcommittee. The thesis: federal law enforcement has been "weaponized" against conservatives. The evidence: prosecutions of January 6th defendants, the Mar-a-Lago classified documents investigation, the Trump indictments.
+**The function:** Investigate the investigators. Every institution that pursued accountability for January 6th, the FBI, DOJ, the Select Committee, became a target of Jordan's subcommittee. The thesis: federal law enforcement has been "weaponized" against conservatives. The evidence: prosecutions of January 6th defendants, the Mar-a-Lago classified documents investigation, the Trump indictments.
 
-**The output:** 91+ subpoenas issued. Hearings featuring FBI whistleblowers (several later found to have received payments from [[_Kash Patel Master Profile|Kash Patel]]'s associates). Reports alleging FBI infiltration of Catholic parishes and school board meetings. No legislation produced. No indictments. No structural reforms. The subcommittee's product is content — hearing clips for Fox News, social media, and campaign messaging — not governance.
+**The output:** 91+ subpoenas issued. Hearings featuring FBI whistleblowers (several later found to have received payments from [[_Kash Patel Master Profile|Kash Patel]]'s associates). Reports alleging FBI infiltration of Catholic parishes and school board meetings. No legislation produced. No indictments. No structural reforms. The subcommittee's product is content, hearing clips for Fox News, social media, and campaign messaging, not governance.
 
 > [!money]
 > The Weaponization Subcommittee inverts oversight: instead of Congress investigating executive overreach to protect citizens, Jordan uses congressional power to investigate law enforcement agencies that investigated Trump. The subpoena power — designed to compel testimony in service of democratic accountability — is deployed to discredit the institutions that pursued democratic accountability for January 6th. Jordan defied his own subpoena, then issued 91+ subpoenas to others. The asymmetry is the point: accountability flows in one direction only — toward Trump's opponents, never toward Trump or his allies.
@@ -47,9 +47,9 @@ In January 2023, with Republicans controlling the House, Jordan created the Sele
 
 ### The Presidential Medal of Freedom
 
-On January 20, 2025, [[_Donald Trump Master Profile|Donald Trump]] awarded [[_Jim Jordan Master Profile|Jim Jordan]] the Presidential Medal of Freedom — the nation's highest civilian honor. The medal was awarded on Inauguration Day, alongside other Trump allies. The citation praised Jordan's defense of "conservative values" and "constitutional principles."
+On January 20, 2025, [[_Donald Trump Master Profile|Donald Trump]] awarded [[_Jim Jordan Master Profile|Jim Jordan]] the Presidential Medal of Freedom, the nation's highest civilian honor. The medal was awarded on Inauguration Day, alongside other Trump allies. The citation praised Jordan's defense of "conservative values" and "constitutional principles."
 
-The medal's function: reward the congressman who defied the January 6th subpoena, voted to overturn the election, created the Weaponization Subcommittee to investigate Trump's investigators, and provided the most aggressive public defense of Trump across two impeachments, four indictments, and the Capitol attack. The Medal of Freedom — awarded for "an especially meritorious contribution to the security or national interests of the United States" — was given to the man who texted Meadows strategies for overturning a democratic election.
+The medal's function: reward the congressman who defied the January 6th subpoena, voted to overturn the election, created the Weaponization Subcommittee to investigate Trump's investigators, and provided the most aggressive public defense of Trump across two impeachments, four indictments, and the Capitol attack. The Medal of Freedom, awarded for "an especially meritorious contribution to the security or national interests of the United States", was given to the man who texted Meadows strategies for overturning a democratic election.
 
 ---
 

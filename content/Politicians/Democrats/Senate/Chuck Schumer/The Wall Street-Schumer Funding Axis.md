@@ -31,7 +31,7 @@ donors: [[Goldman Sachs]]
 | Blackstone Group | Significant (bundling) |
 | Securities/Investment sector total | $10,400,000+ |
 
-Schumer has been the top Senate recipient of Wall Street money for most of the last two decades. The contributions come from individuals (executives, traders, partners) and PACs — but the bundling networks are where the real leverage operates. A single Goldman partner hosting a fundraiser can generate $500,000+ in a night.
+Schumer has been the top Senate recipient of Wall Street money for most of the last two decades. The contributions come from individuals (executives, traders, partners) and PACs, but the bundling networks are where the real leverage operates. A single Goldman partner hosting a fundraiser can generate $500,000+ in a night.
 
 ---
 
@@ -39,7 +39,7 @@ Schumer has been the top Senate recipient of Wall Street money for most of the l
 
 The Schumer household's Wall Street entanglement extends beyond campaign donations:
 
-- **Son-in-law:** Works at Blackstone, the world's largest alternative investment manager ($1 trillion+ AUM). Blackstone's business model depends on carried interest tax treatment, private equity deregulation, and commercial real estate policy — all areas where Schumer has legislative influence.
+- **Son-in-law:** Works at Blackstone, the world's largest alternative investment manager ($1 trillion+ AUM). Blackstone's business model depends on carried interest tax treatment, private equity deregulation, and commercial real estate policy, all areas where Schumer has legislative influence.
 - **Daughter Jessica Schumer:** Formerly at Amazon's lobbying operation, then Meta/Facebook. Tech-finance crossover.
 - **Daughter Alison Schumer:** Marketing executive with corporate clients.
 
@@ -52,11 +52,11 @@ The Schumer household's Wall Street entanglement extends beyond campaign donatio
 
 **Dodd-Frank (2010):** Schumer supported the bill publicly but worked behind the scenes to weaken provisions affecting derivatives trading, proprietary trading restrictions, and the Volcker Rule's scope. Wall Street firms reported privately that Schumer was their key ally in softening the bill's impact.
 
-**Carried Interest Loophole:** Private equity managers pay capital gains rates (20%) instead of income tax rates (37%) on their management fees. The loophole costs ~$18 billion per decade. Schumer has never led a serious effort to close it — despite representing the state with the most private equity firms and despite Democratic Party platform positions calling for its elimination.
+**Carried Interest Loophole:** Private equity managers pay capital gains rates (20%) instead of income tax rates (37%) on their management fees. The loophole costs ~$18 billion per decade. Schumer has never led a serious effort to close it, despite representing the state with the most private equity firms and despite Democratic Party platform positions calling for its elimination.
 
-**Tech Antitrust (2022):** Schumer killed the American Innovation and Choice Online Act (Klobuchar's big tech antitrust bill) by refusing to bring it to a floor vote despite bipartisan support. Tech and finance industries spent $277 million lobbying against the bill. Schumer's stated reason: "not enough votes" — but he never tested that claim with an actual vote.
+**Tech Antitrust (2022):** Schumer killed the American Innovation and Choice Online Act (Klobuchar's big tech antitrust bill) by refusing to bring it to a floor vote despite bipartisan support. Tech and finance industries spent $277 million lobbying against the bill. Schumer's stated reason: "not enough votes", but he never tested that claim with an actual vote.
 
-**Crypto Pivot (2024–2025):** As crypto industry spending exploded ($170M+ in 2024 cycle), Schumer shifted from skepticism to accommodation — working with crypto-friendly Democrats on stablecoin legislation and signaling openness to industry-drafted regulatory frameworks.
+**Crypto Pivot (2024–2025):** As crypto industry spending exploded ($170M+ in 2024 cycle), Schumer shifted from skepticism to accommodation, working with crypto-friendly Democrats on stablecoin legislation and signaling openness to industry-drafted regulatory frameworks.
 
 > [!contradiction]
 > Schumer's public identity is "fighting for the middle class." His legislative identity is protecting Wall Street's most lucrative arrangements — carried interest, light derivatives regulation, no antitrust enforcement against tech-finance conglomerates. The contradiction resolves through the donor math: $10.4 million from securities/investment buys a senator who talks populist and legislates for capital.

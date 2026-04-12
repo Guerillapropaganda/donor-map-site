@@ -16,7 +16,7 @@ related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Do
 
 ### Who They Are
 
-The Young Turks (TYT) is the largest online progressive news network by subscriber count, launched in 2002 as a terrestrial radio show and rebuilt on YouTube starting in 2005. The flagship YouTube channel holds 6.53 million subscribers and 7.33 billion lifetime views as of March 2026. TYT operates across YouTube, a paid subscription platform (tyt.com), podcast feeds, and live streaming — a multi-platform progressive media operation built over two decades.
+The Young Turks (TYT) is the largest online progressive news network by subscriber count, launched in 2002 as a terrestrial radio show and rebuilt on YouTube starting in 2005. The flagship YouTube channel holds 6.53 million subscribers and 7.33 billion lifetime views as of March 2026. TYT operates across YouTube, a paid subscription platform (tyt.com), podcast feeds, and live streaming, a multi-platform progressive media operation built over two decades.
 
 TYT's editorial brand is explicitly anti-establishment: critical of corporate media, skeptical of both party donor classes, and positioned as the authentic progressive voice mainstream outlets suppress. That brand was always in structural tension with the funding model: $24M in institutional capital from a Republican private equity fund (2014) and a Hollywood Democratic mega-donor (2017). The tension became impossible to conceal after the 2020 union fight, the 2024 presidential campaign, and the post-election populist pivot.
 
@@ -28,21 +28,21 @@ The network entered a period of institutional fracture in 2024-2025 with co-host
 
 TYT's revenue structure has five layers, listed by analytical importance rather than revenue share:
 
-### Layer 1 — Venture capital (historical, governance-defining):
+### Layer 1. Venture capital (historical, governance-defining):
 - 2014: $4M from Roemer, Robinson, Melville & Co. (RRM), a private equity fund led by former Republican Louisiana Governor Buddy Roemer. The deal included an advisory board seat for RRM and an option to increase to $8M. A Republican PE fund had governance rights over a progressive media network from 2014 onward.
 - 2017: $20M round led by 3L Capital (Shawn Colo), with participation from WndrCo (Jeffrey Katzenberg), Greycroft, and e.ventures. Katzenberg's WndrCo took an equity stake. Board member Kenan Turnacioglu (Pointstate Capital) joined as part of the restructuring.
 - Total institutional capital: $24M. The VC layer defines governance, not just revenue.
 
-### Layer 2 — Subscription revenue (~50% of total):
-TYT operates a paid membership tier at approximately $10/month. At peak (circa 2018), Digiday reported 27,000 paid subscribers — roughly $3.2M/year (Cenk claimed 30K on TYT's website but attributed the discrepancy to a technical error). The 2017 round was explicitly earmarked to grow this line: Cenk Uygur told Digiday the plan was to "build out the rest of our team — tech team, a data team, a product team" to scale subscriptions. Current subscriber count is not publicly disclosed; the Kasparian realignment and Uygur's MAGA pivot likely caused churn, but no independent reporting has quantified it.
+### Layer 2. Subscription revenue (~50% of total):
+TYT operates a paid membership tier at approximately $10/month. At peak (circa 2018), Digiday reported 27,000 paid subscribers, roughly $3.2M/year (Cenk claimed 30K on TYT's website but attributed the discrepancy to a technical error). The 2017 round was explicitly earmarked to grow this line: Cenk Uygur told Digiday the plan was to "build out the rest of our team, tech team, a data team, a product team" to scale subscriptions. Current subscriber count is not publicly disclosed; the Kasparian realignment and Uygur's MAGA pivot likely caused churn, but no independent reporting has quantified it.
 
-### Layer 3 — YouTube ad revenue (~35-40% of total):
+### Layer 3. YouTube ad revenue (~35-40% of total):
 The flagship channel generates an estimated $248K/month in YouTube ad revenue based on 35.9M monthly views. With 71,256 total videos uploaded, TYT is one of the most prolific political channels on the platform. YouTube's algorithm and ad policies are a structural dependency.
 
-### Layer 4 — Live events and merchandise:
+### Layer 4. Live events and merchandise:
 Smaller revenue stream. TYT has held live events and fundraisers, but this is not a major revenue line.
 
-### Layer 5 — Platform diversification (emerging):
+### Layer 5. Platform diversification (emerging):
 Recent expansion into Roku and YouTube Premium streaming. Scale and revenue impact unclear.
 
 > [!money]
@@ -63,7 +63,7 @@ TYT is a privately held media company and does not make political contributions 
 - **Party split:** ~100% Democratic/progressive. No Republican recipients identified in sampled data.
 - **Key recipients:** ActBlue, Harris Victory Fund, Bernie Sanders, Justice Democrats, Rashida Tlaib, Wolf-PAC, Cenk for America
 - **Named employees contributing:** John Iadarola (Host, $25 Harris Victory Fund), William Lahti (Software Engineer, 7× $27 Bernie Sanders), Helena Groom (Producer, $25 Kat for Illinois), Aaron Wysocki (Director of Content Distribution, $60 Harris Victory Fund), Judith Benezra (Head of Programming, $20 George Latimer for Congress), Nicholas J. Forsythe (Marketing, $5 Rashida Tlaib), Jack Gerard (Executive, $33 ActBlue/Campaign for Democracy)
-- **Analytical note:** Unlike the [[Daily Wire]] employee paradox (48% Democratic giving despite conservative editorial line), TYT's employee giving is perfectly aligned with its editorial positioning — 100% progressive/Democratic. This alignment is expected but worth documenting: TYT's institutional political culture matches its editorial output. The interesting finding is scale: individual employee contributions are overwhelmingly small-dollar ($5-$35 per transaction), reflecting the low-salary reality of the operation (confirmed by the IATSE union fight over wages). The 411 total contributions span 2013-2025 but are dominated by small recurring ActBlue donations — consistent with a workforce that supports progressive causes but can't afford meaningful political participation.
+- **Analytical note:** Unlike the [[Daily Wire]] employee paradox (48% Democratic giving despite conservative editorial line), TYT's employee giving is perfectly aligned with its editorial positioning, 100% progressive/Democratic. This alignment is expected but worth documenting: TYT's institutional political culture matches its editorial output. The interesting finding is scale: individual employee contributions are overwhelmingly small-dollar ($5-$35 per transaction), reflecting the low-salary reality of the operation (confirmed by the IATSE union fight over wages). The 411 total contributions span 2013-2025 but are dominated by small recurring ActBlue donations, consistent with a workforce that supports progressive causes but can't afford meaningful political participation.
 
 > [!money]
 > The FEC employee data reveals a structural contrast with the Daily Wire: where Daily Wire employees donated 48% Democratic despite a conservative editorial line (suggesting institutional political culture diverges from content), TYT employees donate 100% progressive but in overwhelmingly small-dollar amounts — $5 to $35 per transaction across 411 contributions (suggesting institutional political culture aligns with content but the workforce can't afford meaningful political participation). Both patterns expose the labor economics underlying media ideology factories.
@@ -75,19 +75,19 @@ TYT is a privately held media company and does not make political contributions 
 
 ### Who Funds Them
 
-### Buddy Roemer (RRM Private Equity) — $4M (2014)
-Roemer was Republican governor of Louisiana (1988–1992) and ran for the Republican and Reform Party presidential nominations in 2012 on a campaign finance reform platform. His investment in TYT was framed around shared campaign finance reform values — Roemer leads The Reform Project, Uygur founded Wolf-PAC. The framing doesn't change the structure: Republican private equity money was the first institutional capital in progressive media's flagship operation. RRM received advisory board governance and an option to double to $8M. Roemer died in 2021; the status of RRM's equity stake and governance rights post-death is unreported.
+### Buddy Roemer (RRM Private Equity), $4M (2014)
+Roemer was Republican governor of Louisiana (1988–1992) and ran for the Republican and Reform Party presidential nominations in 2012 on a campaign finance reform platform. His investment in TYT was framed around shared campaign finance reform values. Roemer leads The Reform Project, Uygur founded Wolf-PAC. The framing doesn't change the structure: Republican private equity money was the first institutional capital in progressive media's flagship operation. RRM received advisory board governance and an option to double to $8M. Roemer died in 2021; the status of RRM's equity stake and governance rights post-death is unreported.
 
-### Jeffrey Katzenberg (WndrCo) — part of $20M round (2017)
-Katzenberg is the former chairman of Walt Disney Studios and co-founder of DreamWorks. He is among the most prolific Democratic mega-donors in Hollywood history — major bundler for Obama, Clinton, and Biden. His mobile-entertainment holding company WndrCo took an equity stake in TYT. Katzenberg's investment brought TYT into the same donor-class orbit as the mainstream Democratic politicians TYT covered. As of 2025, TYT remained on WndrCo's portfolio list — Katzenberg has not exited.
+### Jeffrey Katzenberg (WndrCo), part of $20M round (2017)
+Katzenberg is the former chairman of Walt Disney Studios and co-founder of DreamWorks. He is among the most prolific Democratic mega-donors in Hollywood history, major bundler for Obama, Clinton, and Biden. His mobile-entertainment holding company WndrCo took an equity stake in TYT. Katzenberg's investment brought TYT into the same donor-class orbit as the mainstream Democratic politicians TYT covered. As of 2025, TYT remained on WndrCo's portfolio list. Katzenberg has not exited.
 
-### 3L Capital (Shawn Colo) — led $20M round (2017)
-Growth equity firm that led the 2017 round and placed Colo on TYT's board. Goldman Sachs-funded institutional investor providing oversight of a progressive media operation. Board member Kenan Turnacioglu (Pointstate Capital) joined as part of the restructuring — Turnacioglu was a documented Clinton donor during the 2016 primary.
+### 3L Capital (Shawn Colo), led $20M round (2017)
+Growth equity firm that led the 2017 round and placed Colo on TYT's board. Goldman Sachs-funded institutional investor providing oversight of a progressive media operation. Board member Kenan Turnacioglu (Pointstate Capital) joined as part of the restructuring. Turnacioglu was a documented Clinton donor during the 2016 primary.
 
-### Greycroft (Alan Patricof) — participated in $20M round (2017)
+### Greycroft (Alan Patricof), participated in $20M round (2017)
 Venture capital fund founded by Alan Patricof, who served as Hillary Clinton's national finance chairman. A man who personally raised money for the Democratic establishment's preferred 2016 candidate holds equity in the media network that claimed to challenge that establishment.
 
-### e.ventures — participated in $20M round (2017)
+### e.ventures, participated in $20M round (2017)
 Venture capital fund. Part of the institutional investor stack that holds TYT equity.
 
 > [!money]
@@ -99,15 +99,15 @@ Venture capital fund. Part of the institutional investor stack that holds TYT eq
 
 TYT's editorial output over the 2005-2026 period organized around five persistent positions:
 
-**Anti-establishment progressive politics:** The network's core identity. Persistent criticism of Democratic leadership (Pelosi, Schumer, Clinton, Biden) for capitulation to corporate interests. These critiques were real and often sharp — but almost never extended to examining TYT's own investor-class entanglements. Republican criticism was systematic and well-sourced; Democratic donor-class criticism was softer, more episodic.
+**Anti-establishment progressive politics:** The network's core identity. Persistent criticism of Democratic leadership (Pelosi, Schumer, Clinton, Biden) for capitulation to corporate interests. These critiques were real and often sharp, but almost never extended to examining TYT's own investor-class entanglements. Republican criticism was systematic and well-sourced; Democratic donor-class criticism was softer, more episodic.
 
-**Campaign finance reform:** The explicit ideological bridge to the Roemer investment. Wolf-PAC (Uygur's organization) advocates for a constitutional amendment to overturn Citizens United. The irony: TYT's core thesis — that money corrupts media and politics — was advanced by a VC-backed media company.
+**Campaign finance reform:** The explicit ideological bridge to the Roemer investment. Wolf-PAC (Uygur's organization) advocates for a constitutional amendment to overturn Citizens United. The irony: TYT's core thesis, that money corrupts media and politics, was advanced by a VC-backed media company.
 
 **Medicare for All / economic populism:** Consistent advocacy for single-payer healthcare, $15 minimum wage, and labor rights. These positions were not in tension with TYT's investor base (no major healthcare industry exposure). The labor rights advocacy was in direct tension with TYT's own union-busting (see below).
 
-**Justice Democrats (2017-2018):** Cenk Uygur and Kyle Kulinski co-founded Justice Democrats on January 23, 2017, to recruit and elect progressive primary challengers. JD's organizational infrastructure was deeply intertwined with TYT's audience reach and promotional pipeline. The organization was instrumental in electing Alexandria Ocasio-Cortez and other Squad members in 2018. Uygur was forced out of JD in December 2017 after offensive blog posts from the early 2000s resurfaced. JD's current website makes no mention of Uygur or TYT — the institutional connection has been scrubbed.
+**Justice Democrats (2017-2018):** Cenk Uygur and Kyle Kulinski co-founded Justice Democrats on January 23, 2017, to recruit and elect progressive primary challengers. JD's organizational infrastructure was deeply intertwined with TYT's audience reach and promotional pipeline. The organization was instrumental in electing Alexandria Ocasio-Cortez and other Squad members in 2018. Uygur was forced out of JD in December 2017 after offensive blog posts from the early 2000s resurfaced. JD's current website makes no mention of Uygur or TYT, the institutional connection has been scrubbed.
 
-**Post-2024 anti-establishment populism:** After Trump's November 2024 win, Uygur declared "MAGA is not my mortal enemy" and spoke at Turning Point USA's AmericaFest. He reframed the primary enemy as "the establishment" — a populist frame that collapsed the left-right distinction TYT spent 20 years building. TYT contributor Mondale Robinson (mayor of Enfield, NC) resigned live on air in protest.
+**Post-2024 anti-establishment populism:** After Trump's November 2024 win, Uygur declared "MAGA is not my mortal enemy" and spoke at Turning Point USA's AmericaFest. He reframed the primary enemy as "the establishment", a populist frame that collapsed the left-right distinction TYT spent 20 years building. TYT contributor Mondale Robinson (mayor of Enfield, NC) resigned live on air in protest.
 
 ---
 
@@ -115,16 +115,16 @@ TYT's editorial output over the 2005-2026 period organized around five persisten
 
 TYT's audience capture operated in three distinct phases:
 
-### Phase 1 — Left-audience capture (2005-2022):
+### Phase 1. Left-audience capture (2005-2022):
 YouTube-native progressive content optimized for the platform's algorithm: outrage cycles, Republican-dunking, and progressive validation. The algorithm rewarded emotional intensity. TYT's criticism of Republicans was consistent; its criticism of the Democratic donor class was softer and less likely to name the investors TYT shared with Democratic politicians. At peak, 13M+ subscribers across the network's channels.
 
-### Phase 2 — Fracture (2024-2025):
-Ana Kasparian's public political realignment — breaking with progressive orthodoxy on issues including Israel-Palestine rhetoric — created an existential editorial crisis. On May 1, 2025, Kasparian joined "Her Take," a conservative-leaning panel show created by Patrick Bet-David (Valuetainment), alongside Jillian Michaels and Lindy Li. As of March 2026, Kasparian has not formally departed TYT and continues to appear on the main show — she is simultaneously working for both TYT and Valuetainment. This dual-platform positioning is itself an audience capture phenomenon: Kasparian maintains the TYT salary (Katzenberg equity money) while building an exit ramp through conservative media infrastructure.
+### Phase 2. Fracture (2024-2025):
+Ana Kasparian's public political realignment, breaking with progressive orthodoxy on issues including Israel-Palestine rhetoric, created an existential editorial crisis. On May 1, 2025, Kasparian joined "Her Take," a conservative-leaning panel show created by Patrick Bet-David (Valuetainment), alongside Jillian Michaels and Lindy Li. As of March 2026, Kasparian has not formally departed TYT and continues to appear on the main show, she is simultaneously working for both TYT and Valuetainment. This dual-platform positioning is itself an audience capture phenomenon: Kasparian maintains the TYT salary (Katzenberg equity money) while building an exit ramp through conservative media infrastructure.
 
-The departures and realignments follow a pattern: Jimmy Dore (left-populist exit, April 2019) → Ana Kasparian (centrist/right realignment, 2024-2025, still technically on TYT) → Cenk's MAGA pivot (2024-present). Three fractures from TYT's ideological center in six years. The center did not hold — but unlike Dore's clean break, Kasparian's straddling of both platforms reveals that the fracture is economic as much as ideological.
+The departures and realignments follow a pattern: Jimmy Dore (left-populist exit, April 2019) → Ana Kasparian (centrist/right realignment, 2024-2025, still technically on TYT) → Cenk's MAGA pivot (2024-present). Three fractures from TYT's ideological center in six years. The center did not hold, but unlike Dore's clean break, Kasparian's straddling of both platforms reveals that the fracture is economic as much as ideological.
 
-### Phase 3 — Anti-establishment rebranding (2025-2026):
-Post-Kasparian, the flagship channel holds 6.53M subscribers with ~60K new subscribers and 35.9M views in the most recent 30-day period. The content has shifted toward "anti-establishment populism" — Uygur criticizing both parties in a frame that generates engagement without requiring him to name his own investors. The algorithmic incentive (controversy = views) aligns with the new positioning.
+### Phase 3. Anti-establishment rebranding (2025-2026):
+Post-Kasparian, the flagship channel holds 6.53M subscribers with ~60K new subscribers and 35.9M views in the most recent 30-day period. The content has shifted toward "anti-establishment populism". Uygur criticizing both parties in a frame that generates engagement without requiring him to name his own investors. The algorithmic incentive (controversy = views) aligns with the new positioning.
 
 > [!contradiction]
 > The Three Fractures Pattern reveals TYT's institutional instability: Jimmy Dore departed (April 2019) because TYT wasn't radical enough — clean break, retained his audience. Ana Kasparian realigned (2024-2025) toward the center-right but hasn't departed — she straddles TYT and Valuetainment simultaneously, an economic straddling that reveals the fracture is about income security as much as ideology. Cenk pivoted the institution itself toward anti-establishment populism (2024-present). Three different failure modes: personnel exit, dual-platform hedging, and institutional redefinition. The ideological center that held TYT together for 20 years was never a stable equilibrium but a function of YouTube's algorithm and the personalities managing it. When the personalities fractured, the institution had no independent ideological anchor.
@@ -135,23 +135,23 @@ Post-Kasparian, the flagship channel holds 6.53M subscribers with ~60K new subsc
 
 **Buddy Roemer / RRM:** Advisory board governance rights over a progressive media platform, plus alignment of TYT's editorial focus with campaign finance reform messaging Roemer had already championed. For a Republican former governor seeking bipartisan reformer credibility, an equity stake in progressive media was reputational arbitrage.
 
-**Jeffrey Katzenberg / WndrCo:** Equity in a rapidly scaling digital media company during TYT's peak growth period (2017-2020). More importantly: TYT's coverage of Democratic primary politics during the 2020 cycle never examined Katzenberg's role as a Biden mega-bundler. The platform that most loudly criticized the Democratic donor class — and no on-air disclosure of its largest institutional investor's membership in that class has been documented. Katzenberg remains on the WndrCo portfolio as of 2025 — he has not exited.
+**Jeffrey Katzenberg / WndrCo:** Equity in a rapidly scaling digital media company during TYT's peak growth period (2017-2020). More importantly: TYT's coverage of Democratic primary politics during the 2020 cycle never examined Katzenberg's role as a Biden mega-bundler. The platform that most loudly criticized the Democratic donor class, and no on-air disclosure of its largest institutional investor's membership in that class has been documented. Katzenberg remains on the WndrCo portfolio as of 2025, he has not exited.
 
-**The Democratic establishment (structural):** TYT served as an effective mobilizer for Democratic base voters while leaving the structural question — who funds the Democrats? — largely unasked with respect to TYT's own funders. The network's criticism of Republicans was systematically sharper than its criticism of Democratic donor-class politicians. For the Democratic establishment, TYT was a base-activation asset that generated progressive energy without directing it at the donor class.
+**The Democratic establishment (structural):** TYT served as an effective mobilizer for Democratic base voters while leaving the structural question, who funds the Democrats?, largely unasked with respect to TYT's own funders. The network's criticism of Republicans was systematically sharper than its criticism of Democratic donor-class politicians. For the Democratic establishment, TYT was a base-activation asset that generated progressive energy without directing it at the donor class.
 
-**The Katzenberg-Weinstein test (INVESTIGATED — NO DOCUMENTED COVERAGE):** Katzenberg was Weinstein's former employer at Disney/Miramax and worked alongside him for over 30 years. When the Weinstein scandal broke in October 2017 — two months after the WndrCo investment — Katzenberg publicly called Weinstein a "monster" and refused to vouch for him when Weinstein sent a "desperate" email asking Hollywood executives to oppose his firing. Web searches for TYT coverage linking Katzenberg to Weinstein return zero results. YouTube channel searches for "Weinstein Katzenberg" on The Young Turks channel return no videos. While TYT did cover the Weinstein scandal broadly, no documented instance exists of TYT examining Katzenberg's decades-long professional relationship with Weinstein while Katzenberg held a $20M equity stake in TYT. This is not proof of editorial suppression — absence of coverage is not evidence of deliberate omission — but it is a documented editorial gap on a topic where TYT's investor had direct personal exposure.
+**The Katzenberg-Weinstein test (INVESTIGATED. NO DOCUMENTED COVERAGE):** Katzenberg was Weinstein's former employer at Disney/Miramax and worked alongside him for over 30 years. When the Weinstein scandal broke in October 2017, two months after the WndrCo investment. Katzenberg publicly called Weinstein a "monster" and refused to vouch for him when Weinstein sent a "desperate" email asking Hollywood executives to oppose his firing. Web searches for TYT coverage linking Katzenberg to Weinstein return zero results. YouTube channel searches for "Weinstein Katzenberg" on The Young Turks channel return no videos. While TYT did cover the Weinstein scandal broadly, no documented instance exists of TYT examining Katzenberg's decades-long professional relationship with Weinstein while Katzenberg held a $20M equity stake in TYT. This is not proof of editorial suppression, absence of coverage is not evidence of deliberate omission, but it is a documented editorial gap on a topic where TYT's investor had direct personal exposure.
 
 ---
 
 ### Class Analysis
 
-TYT performed a structural function for the Democratic donor class even while nominally challenging it: the network mobilized progressive base voters, directed their anger primarily at Republicans, and left the Democratic donor-class relationship — including TYT's own investor relationships — largely unexamined.
+TYT performed a structural function for the Democratic donor class even while nominally challenging it: the network mobilized progressive base voters, directed their anger primarily at Republicans, and left the Democratic donor-class relationship, including TYT's own investor relationships, largely unexamined.
 
 The institutional funding trajectory tells the full story: Republican private equity (2014) → Hollywood Democratic mega-donor equity (2017) → subscription model built on VC infrastructure → union-busted the workers who built it (2020) → founder's failed presidential run (2024) → anti-establishment rebrand that avoids naming own investors (2025-2026). At each stage, the "independence" claim survived while the structural reality deepened.
 
-The IATSE fight is the second structural layer. When IATSE launched a unionization drive among TYT production workers in February 2020, Uygur — who regularly advocates for labor rights on air — urged his employees not to unionize. Management refused card-check recognition. Unfair labor practice charges alleged retaliatory firing (Jacorey Palmer) and withheld raises. The New Republic documented the contradiction directly. The subscription model that reduced advertiser dependence was built partly on low wages and union suppression.
+The IATSE fight is the second structural layer. When IATSE launched a unionization drive among TYT production workers in February 2020, Uygur, who regularly advocates for labor rights on air, urged his employees not to unionize. Management refused card-check recognition. Unfair labor practice charges alleged retaliatory firing (Jacorey Palmer) and withheld raises. The New Republic documented the contradiction directly. The subscription model that reduced advertiser dependence was built partly on low wages and union suppression.
 
-The Justice Democrats connection reveals the media-to-political pipeline: TYT co-founded an organization that elected AOC and the Squad, creating a direct link between progressive media infrastructure and electoral outcomes. When Uygur was forced out of JD over old blog posts, the organizational connection was severed on paper but the audience pipeline persisted — JD candidates continued to benefit from TYT coverage.
+The Justice Democrats connection reveals the media-to-political pipeline: TYT co-founded an organization that elected AOC and the Squad, creating a direct link between progressive media infrastructure and electoral outcomes. When Uygur was forced out of JD over old blog posts, the organizational connection was severed on paper but the audience pipeline persisted. JD candidates continued to benefit from TYT coverage.
 
 Patterns present: **Independence Theater** (VC-funded "independent" media), **Audience Capture** (algorithm-driven content shift across three phases), **Labor Contradiction** (progressive boss union-busts own workers), **Both-Sides Illusion (Media)** (post-2024 pivot retains progressive branding while speaking at TPUSA), **Revolving Door (Media)** (Uygur's 2019 congressional run, 2024 presidential campaign), **Genuine Win + Structural Limit** (Justice Democrats elected real progressives but TYT's own donor-class analysis stopped at TYT's investors).
 
@@ -161,7 +161,7 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 
 **Platform funder:** Buddy Roemer $4M (2014, Republican PE), Jeffrey Katzenberg/WndrCo $20M equity (2017, Democratic mega-donor/bundler), 3L Capital/Greycroft/e.ventures (2017, institutional VC). Total institutional capital: $24M.
 **Income dependency:** Subscriptions (~50%), YouTube ads (~35-40%), VC equity relationships (governance). Estimated ~$248K/month YouTube ad revenue (vidIQ algorithmic estimate, not independently verified). Subscriber base of ~27K at peak ($3.2M/yr per Digiday 2018); current count unknown post-Kasparian/post-pivot.
-**Editorial red lines:** Cannot investigate Democratic donor class without examining Katzenberg equity relationship. Cannot fully support labor without confronting own union-busting record. Cannot sustain anti-establishment positioning while VC board members hold governance rights. The Katzenberg-Weinstein editorial test found no documented TYT coverage linking Katzenberg to Weinstein during the 2017-2018 #MeToo peak — a gap consistent with investor editorial constraints, though not proof of deliberate suppression.
+**Editorial red lines:** Cannot investigate Democratic donor class without examining Katzenberg equity relationship. Cannot fully support labor without confronting own union-busting record. Cannot sustain anti-establishment positioning while VC board members hold governance rights. The Katzenberg-Weinstein editorial test found no documented TYT coverage linking Katzenberg to Weinstein during the 2017-2018 #MeToo peak, a gap consistent with investor editorial constraints, though not proof of deliberate suppression.
 
 ---
 
@@ -171,19 +171,19 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 |------|-------|-------------|--------|--------------|
 | 2002 | TYT launches as radio show on Sirius | Cenk Uygur, Ben Mankiewicz | N/A | Origin of platform |
 | Dec 2005 | TYT YouTube channel created | Cenk Uygur | N/A | Migration to platform that defines network's growth |
-| Apr 2014 | $4M investment from Republican PE fund | Buddy Roemer (RRM), Uygur | $4M | First institutional capital — from a Republican governor. Advisory board seat, option to $8M |
+| Apr 2014 | $4M investment from Republican PE fund | Buddy Roemer (RRM), Uygur | $4M | First institutional capital, from a Republican governor. Advisory board seat, option to $8M |
 | Jan 2017 | Justice Democrats co-founded | Cenk Uygur, Kyle Kulinski | N/A | Media-to-political pipeline: TYT audience becomes JD's recruitment base |
 | Aug 2017 | $20M round closes | Katzenberg (WndrCo), 3L Capital, Greycroft | $20M | Democratic mega-donor takes equity. Board seat for 3L. Total institutional capital: $24M |
-| Oct 2017 | Weinstein scandal breaks | Harvey Weinstein, Katzenberg (former employer) | N/A | Katzenberg-Weinstein editorial test begins — no documented TYT coverage of Katzenberg-Weinstein ties found |
+| Oct 2017 | Weinstein scandal breaks | Harvey Weinstein, Katzenberg (former employer) | N/A | Katzenberg-Weinstein editorial test begins, no documented TYT coverage of Katzenberg-Weinstein ties found |
 | Dec 2017 | Uygur forced out of Justice Democrats | Cenk Uygur, JD board | N/A | Old blog posts resurface; organizational link severed on paper |
 | 2018 | Justice Democrats elect AOC, Squad members | AOC, Ilhan Omar, Rashida Tlaib, JD | N/A | TYT's media pipeline produces electoral outcomes |
-| Apr 2019 | Jimmy Dore departs TYT Network | Jimmy Dore | N/A | First major fracture — left-populist exit. Announced via livestream Apr 13, 2019. Workplace conflicts with colleagues and producers cited. Retained independent YouTube channel (1.8M+ subs). Financial terms unreported |
+| Apr 2019 | Jimmy Dore departs TYT Network | Jimmy Dore | N/A | First major fracture, left-populist exit. Announced via livestream Apr 13, 2019. Workplace conflicts with colleagues and producers cited. Retained independent YouTube channel (1.8M+ subs). Financial terms unreported |
 | Feb 2020 | IATSE launches union drive at TYT | IATSE Local 839, TYT workers, Uygur | N/A | Progressive CEO union-busts own employees |
 | Apr 2020 | NLRB unfair labor practice charges | IATSE, Jacorey Palmer, TYT management | N/A | Retaliatory firing and withheld raises alleged |
 | Oct 2023 | Uygur launches presidential campaign | Cenk Uygur, CENK FOR AMERICA | $250K raised | Constitutional eligibility unresolved; drops out Mar 2024 |
 | Nov 2024 | Uygur's post-election populist pivot | Cenk Uygur, Turning Point USA | N/A | "MAGA is not my mortal enemy"; live on-air staff resignation (Mondale Robinson) |
 | 2024-2025 | Kasparian political realignment | Ana Kasparian | N/A | Public break with progressive orthodoxy; editorial crisis at TYT |
-| May 2025 | Kasparian joins Her Take | Ana Kasparian, Patrick Bet-David (Valuetainment) | N/A | Conservative panel show alongside Jillian Michaels, Lindy Li. Retains TYT role — dual-platform straddling |
+| May 2025 | Kasparian joins Her Take | Ana Kasparian, Patrick Bet-David (Valuetainment) | N/A | Conservative panel show alongside Jillian Michaels, Lindy Li. Retains TYT role, dual-platform straddling |
 | Mar 2026 | TYT at 6.53M subs, 7.33B views | TYT Network | ~$248K/mo YouTube est. | 60K new subs/month; content rebranded as anti-establishment populism |
 
 > [!money]
@@ -226,7 +226,7 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 3. **Roemer estate status:** Buddy Roemer died January 2021. What happened to RRM's $4M equity stake and advisory board governance rights? No public reporting exists. If RRM still holds the stake, the governance analysis is live; if not, the "Republican PE" constraint ended in 2021.
 4. **Advertiser/sponsor data:** Who sponsors TYT content in 2025-2026? Corporate sponsors creating editorial constraints would deepen the Capture Architecture.
 5. **Jimmy Dore financial terms:** Confirmed departure April 2019 via livestream. Workplace conflicts documented. But was he salaried, revenue-share, or independent contractor? Financial terms of departure unreported.
-6. **Justice Democrats electoral pipeline mapping:** Specific JD candidates who received TYT promotional coverage — the media-to-electoral pipeline is documented structurally but not mapped candidate-by-candidate.
+6. **Justice Democrats electoral pipeline mapping:** Specific JD candidates who received TYT promotional coverage, the media-to-electoral pipeline is documented structurally but not mapped candidate-by-candidate.
 
 ---
 

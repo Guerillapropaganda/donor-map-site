@@ -13,7 +13,7 @@ known-gaps:
 
 ---
 
-### Story Discovery — March 26, 2026 (Run 3)
+### Story Discovery. March 26, 2026 (Run 3)
 
 Automated scan for unreported donor-to-policy connections. All source URLs Chrome-verified before inclusion. Classification: Diamond / Gold / Silver / Bronze.
 
@@ -21,9 +21,9 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 ---
 
-### DIAMOND — Big Oil's $75M–$450M Campaign Investment → EPA Endangerment Finding Repeal ($80B Public Cost)
+### DIAMOND. Big Oil's $75M–$450M Campaign Investment → EPA Endangerment Finding Repeal ($80B Public Cost)
 
-**Story:** In February 2026, the Trump EPA revoked the 2009 endangerment finding — the legal backbone of all federal greenhouse gas regulation since the Obama era. This eliminates EPA authority to regulate climate pollution from oil and gas operations, vehicles, and power plants. The Union of Concerned Scientists estimates the public cost at $80 billion over the next decade in health and climate damages. The fossil fuel industry donated at least $75 million directly to Trump's campaign and affiliated PACs (Brennan Center figure), with broader estimates reaching $450 million when including industry-wide political spending (Inequality.org). Oil and gas executives gave $11.8 million to Trump's inauguration fund alone.
+**Story:** In February 2026, the Trump EPA revoked the 2009 endangerment finding, the legal backbone of all federal greenhouse gas regulation since the Obama era. This eliminates EPA authority to regulate climate pollution from oil and gas operations, vehicles, and power plants. The Union of Concerned Scientists estimates the public cost at $80 billion over the next decade in health and climate damages. The fossil fuel industry donated at least $75 million directly to Trump's campaign and affiliated PACs (Brennan Center figure), with broader estimates reaching $450 million when including industry-wide political spending (Inequality.org). Oil and gas executives gave $11.8 million to Trump's inauguration fund alone.
 
 The mechanism was explicit: in 2024, Trump asked oil and gas executives at a private dinner to raise $1 billion for his campaign and told them he would grant their policy wish list in return. The Senate Finance and Budget committees launched a joint investigation into this offer in May 2024, calling it a "quid pro quo." The American Petroleum Institute's post-election policy wish list has been satisfied item by item, including the endangerment finding repeal, methane rule delays, and greenhouse gas reporting elimination.
 
@@ -35,11 +35,11 @@ The mechanism was explicit: in 2024, Trump asked oil and gas executives at a pri
 - **Jan 2025:** $11.8M to inauguration fund from oil/gas
 - **2025:** Dozens of fossil fuel industry personnel hired into EPA, DOI, DOE (Inside Climate News documents ties)
 - **Sep 2025:** EPA proposes scrapping greenhouse gas reporting program
-- **Feb 2026:** EPA revokes endangerment finding — largest deregulatory action in EPA history
+- **Feb 2026:** EPA revokes endangerment finding, largest deregulatory action in EPA history
 - **Mar 2026:** Methane compliance deadline (set for March 2026) delayed to January 2027
 
 ### Relevant vault nodes:
-- [[_Donald Trump Master Profile]] — energy donor section needs major expansion
+- [[_Donald Trump Master Profile]], energy donor section needs major expansion
 - [[Koch Network - Charles Koch]] (if exists in `Donors & Power Networks/`)
 - American Petroleum Institute (may need donor node creation in `Donors & Power Networks/Energy & Utilities/`)
 - Oil & Gas sector donors broadly
@@ -52,15 +52,15 @@ The mechanism was explicit: in 2024, Trump asked oil and gas executives at a pri
 - [Senate Finance Committee: Investigation into Trump's Quid Pro Quo Offer to Big Oil](https://www.finance.senate.gov/chairmans-news/finance-budget-committees-launch-joint-investigation-into-donald-trumps-quid-pro-quo-offer-to-big-oil) (Tier 1)
 - [Inside Climate News: Fossil Fuel Ties of Dozens of Trump Administration Hires](https://insideclimatenews.org/news/06102025/trump-administration-fossil-fuel-ties/) (Tier 2)
 
-**Recommended vault action:** This warrants a dedicated sub-note under Trump's master profile: `The $1 Billion Handshake — Big Oil's Policy Capture of the EPA.md`. Also warrants creation of an American Petroleum Institute donor node. Cross-reference to Koch Network node for long-term endangerment finding opposition campaign.
+**Recommended vault action:** This warrants a dedicated sub-note under Trump's master profile: `The $1 Billion Handshake. Big Oil's Policy Capture of the EPA.md`. Also warrants creation of an American Petroleum Institute donor node. Cross-reference to Koch Network node for long-term endangerment finding opposition campaign.
 
 ---
 
-### GOLD — AIPAC's $28M Congressional Funding Machine + $20M Illinois Primary Blitz
+### GOLD. AIPAC's $28M Congressional Funding Machine + $20M Illinois Primary Blitz
 
-**Story:** AIPAC has delivered $28 million to the campaigns of members of Congress in the 2025–2026 cycle, per Sludge's FEC analysis. In the March 2026 Illinois primaries alone, AIPAC-affiliated groups spent over $20 million — including $13.7 million in the Chicago-area Democratic primaries through the United Democracy Project (UDP) super PAC. Critically, UDP's promotional materials never mention AIPAC or Israel; the spending is framed around generic Democratic priorities. AIPAC's PAC gave $625,000 to House Speaker Mike Johnson's fundraising committees and $250,000 to Minority Leader Hakeem Jeffries — funding both party leaderships simultaneously.
+**Story:** AIPAC has delivered $28 million to the campaigns of members of Congress in the 2025–2026 cycle, per Sludge's FEC analysis. In the March 2026 Illinois primaries alone, AIPAC-affiliated groups spent over $20 million, including $13.7 million in the Chicago-area Democratic primaries through the United Democracy Project (UDP) super PAC. Critically, UDP's promotional materials never mention AIPAC or Israel; the spending is framed around generic Democratic priorities. AIPAC's PAC gave $625,000 to House Speaker Mike Johnson's fundraising committees and $250,000 to Minority Leader Hakeem Jeffries, funding both party leaderships simultaneously.
 
-The policy anchor: AIPAC has drawn a hard line on unconditional U.S. military aid to Israel. Every dollar flows toward ensuring no conditions are attached to aid, regardless of party. The Illinois primaries were a test case: AIPAC spent $5.8M supporting Laura Fine and opposing Daniel Biss in IL-9, and $3.9M supporting Melissa Bean in IL-8. Results were mixed — AIPAC went 2-for-4 in Illinois — but the spending volume itself reshapes candidate behavior even in races AIPAC loses.
+The policy anchor: AIPAC has drawn a hard line on unconditional U.S. military aid to Israel. Every dollar flows toward ensuring no conditions are attached to aid, regardless of party. The Illinois primaries were a test case: AIPAC spent $5.8M supporting Laura Fine and opposing Daniel Biss in IL-9, and $3.9M supporting Melissa Bean in IL-8. Results were mixed. AIPAC went 2-for-4 in Illinois, but the spending volume itself reshapes candidate behavior even in races AIPAC loses.
 
 **Why Gold:** Verified dollar amounts from FEC data, bipartisan funding pattern documented (Johnson + Jeffries), specific policy outcome (unconditional aid), and the UDP's deliberate concealment of its Israel lobby function is a structural transparency story. The **Both-Sides Illusion** pattern is textbook: AIPAC funds Democratic and Republican leadership simultaneously to ensure the same policy outcome regardless of which party controls Congress.
 
@@ -71,7 +71,7 @@ The policy anchor: AIPAC has drawn a hard line on unconditional U.S. military ai
 - **Ongoing:** Zero conditions attached to Israel military aid in any appropriations bill
 
 ### Relevant vault nodes:
-- [[AIPAC - American Israel Public Affairs Committee]] — needs major update with 2026 cycle data
+- [[AIPAC - American Israel Public Affairs Committee]], needs major update with 2026 cycle data
 - United Democracy Project (may need sub-note or separate PAC node)
 - Illinois 2026 race files if they exist
 
@@ -80,22 +80,22 @@ The policy anchor: AIPAC has drawn a hard line on unconditional U.S. military ai
 - [Sludge: AIPAC Splits in Illinois Races After $20M in Spending](https://readsludge.com/2026/03/18/aipac-splits-in-illinois-races-after-20m-in-spending/) (Tier 2)
 - [WBEZ: Pro-Israel Group's Donors Pour $13.7M into Chicago-Area Primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2)
 - [American Prospect: AIPAC Coordinates Donors in Illinois House Primaries](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2)
-- [The Intercept: AIPAC Stays Out of Illinois Senate Race — Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2)
+- [The Intercept: AIPAC Stays Out of Illinois Senate Race. Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2)
 
-**Recommended vault action:** Update AIPAC donor node with 2026 cycle totals. Create sub-note: `The $28M Bipartisan Lock — AIPAC's 2026 Congressional Funding Map.md`. Flag **Both-Sides Illusion** (funding both party leaderships) and **Dark Money Symmetry** (UDP concealing Israel lobby function).
+**Recommended vault action:** Update AIPAC donor node with 2026 cycle totals. Create sub-note: `The $28M Bipartisan Lock. AIPAC's 2026 Congressional Funding Map.md`. Flag **Both-Sides Illusion** (funding both party leaderships) and **Dark Money Symmetry** (UDP concealing Israel lobby function).
 
 ---
 
-### GOLD — Crypto Industry Inauguration Donations → SEC Drops All Crypto Enforcement
+### GOLD. Crypto Industry Inauguration Donations → SEC Drops All Crypto Enforcement
 
-**Story:** The SEC under Trump-appointed chair Paul Atkins has removed all mention of cryptocurrency from its 2026 regulatory agenda — a complete reversal from the enforcement-heavy approach under Gensler. Companies whose cases were dismissed — including Coinbase, Kraken, Ripple, Robinhood, and Crypto.com — each donated at least $1 million to Trump's inauguration. The Ripple/SEC case ended in a settlement in May 2025 after years of litigation. House Democrats on the Financial Services Committee sent a formal letter to SEC Chair Atkins in January 2026 demanding answers about whether political donations influenced enforcement decisions.
+**Story:** The SEC under Trump-appointed chair Paul Atkins has removed all mention of cryptocurrency from its 2026 regulatory agenda, a complete reversal from the enforcement-heavy approach under Gensler. Companies whose cases were dismissed, including Coinbase, Kraken, Ripple, Robinhood, and Crypto.com, each donated at least $1 million to Trump's inauguration. The Ripple/SEC case ended in a settlement in May 2025 after years of litigation. House Democrats on the Financial Services Committee sent a formal letter to SEC Chair Atkins in January 2026 demanding answers about whether political donations influenced enforcement decisions.
 
 The broader pattern: crypto and AI super PACs are on track to smash spending records in the 2026 midterms (Sludge). The structural function is regulatory capture through a revolving door + donation pipeline: donate to inauguration → cases dropped → industry writes its own regulatory framework via GENIUS Act and other crypto-friendly legislation.
 
 **Why Gold:** Documented donation amounts ($1M+ per company to inauguration), specific enforcement outcomes (cases dismissed), congressional scrutiny (House Democrats' formal letter), and the SEC's own agenda confirms crypto removed entirely. Previous runs documented the Winklevoss/Gemini angle; this run adds the broader systematic pattern across all major crypto firms and the SEC's formal regulatory retreat.
 
 ### Relevant vault nodes:
-- [[_Donald Trump Master Profile]] — crypto deregulation section
+- [[_Donald Trump Master Profile]], crypto deregulation section
 - Coinbase, Ripple donor nodes (if they exist in `Donors & Power Networks/Tech & Crypto/`)
 - Fairshake / crypto super PAC nodes
 
@@ -104,17 +104,17 @@ The broader pattern: crypto and AI super PACs are on track to smash spending rec
 - [House Democrats Financial Services Committee: Letter to SEC on Crypto Enforcement](https://democrats-financialservices.house.gov/uploadedfiles/01.14.2026_ltr_sec_rfcryptoe.pdf) (Tier 1)
 - [Sludge: Crypto, AI, and AIPAC Set Up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2)
 
-**Recommended vault action:** Expand crypto donor ecosystem documentation. Consider a cross-politician analysis: `The Crypto Capture — How $100M+ in Donations Bought an Industry Its Own Regulator.md`
+**Recommended vault action:** Expand crypto donor ecosystem documentation. Consider a cross-politician analysis: `The Crypto Capture. How $100M+ in Donations Bought an Industry Its Own Regulator.md`
 
 ---
 
-### SILVER — PBM Vertical Integration: CVS/UnitedHealth Lobby Machine vs. Break Up Big Medicine Act
+### SILVER. PBM Vertical Integration: CVS/UnitedHealth Lobby Machine vs. Break Up Big Medicine Act
 
-**Story:** Congress passed PBM transparency and "delinking" reforms in the Consolidated Appropriations Act of 2026, but deliberately excluded the core structural issue: vertical integration. The three largest PBMs — CVS Caremark, UnitedHealth's Optum Rx, and Cigna's Express Scripts — are owned by the same parent companies that own the insurance plans and pharmacies they're supposed to negotiate against. CVS spent $2.15M in Q3 2025 alone lobbying on PBM reform. At the state level, CVS launched a TV and mass-text campaign across Tennessee to kill a PBM reform bill in March 2026.
+**Story:** Congress passed PBM transparency and "delinking" reforms in the Consolidated Appropriations Act of 2026, but deliberately excluded the core structural issue: vertical integration. The three largest PBMs. CVS Caremark, UnitedHealth's Optum Rx, and Cigna's Express Scripts, are owned by the same parent companies that own the insurance plans and pharmacies they're supposed to negotiate against. CVS spent $2.15M in Q3 2025 alone lobbying on PBM reform. At the state level, CVS launched a TV and mass-text campaign across Tennessee to kill a PBM reform bill in March 2026.
 
 Warren and Hawley introduced the "Break Up Big Medicine Act" in February 2026 to force divestiture, but industry lobbying power makes passage unlikely. The structural function: Congress passed the reform that doesn't threaten the business model (transparency/delinking) while blocking the reform that would (vertical integration breakup). The donor class got the version of reform that preserves their market position.
 
-**Why Silver:** The donation-to-specific-policy link is documented at the lobbying level ($2.15M CVS lobbying in one quarter) but lacks the precision of a direct campaign contribution → specific vote correlation. The pattern — **Genuine Win + Structural Limit** — is analytically strong: real reform passed, but the version that would actually restructure the industry was blocked by lobbying.
+**Why Silver:** The donation-to-specific-policy link is documented at the lobbying level ($2.15M CVS lobbying in one quarter) but lacks the precision of a direct campaign contribution → specific vote correlation. The pattern, **Genuine Win + Structural Limit**, is analytically strong: real reform passed, but the version that would actually restructure the industry was blocked by lobbying.
 
 **Pattern types:** **Genuine Win + Structural Limit**, **Donor-Class Override**
 
@@ -124,33 +124,33 @@ Warren and Hawley introduced the "Break Up Big Medicine Act" in February 2026 to
 
 ### Lead sources (all Chrome-verified VALID):
 - [The Hill: Warren, Hawley Introducing Legislation to Break Up 'Big Medicine'](https://thehill.com/policy/healthcare/5732189-break-up-big-medicine-act/) (Tier 2)
-- [MedCity News: It Took Years for Congress to Enact PBM Transparency — What About Vertical Integration?](https://medcitynews.com/2026/03/congress-pbm-vertical-integration/) (Tier 3)
+- [MedCity News: It Took Years for Congress to Enact PBM Transparency. What About Vertical Integration?](https://medcitynews.com/2026/03/congress-pbm-vertical-integration/) (Tier 3)
 - [Tennessee Lookout: CVS Blankets Tennessee Airwaves to Fight PBM Bill](https://tennesseelookout.com/2026/03/19/cvs-blankets-tennessee-airwaves-enlists-mass-texts-to-fight-pharmacy-benefit-manager-bill/) (Tier 2)
 
-**Recommended vault action:** Create or expand CVS Health and UnitedHealth Group donor nodes. Sub-note potential: `The PBM Reform That Wasn't — How Vertical Integration Survived Congress.md`
+**Recommended vault action:** Create or expand CVS Health and UnitedHealth Group donor nodes. Sub-note potential: `The PBM Reform That Wasn't. How Vertical Integration Survived Congress.md`
 
 ---
 
-### SILVER — DOGE's Pentagon Theater: 0.07% Cuts While Defense Contractors Untouched
+### SILVER. DOGE's Pentagon Theater: 0.07% Cuts While Defense Contractors Untouched
 
-**Story:** Despite canceling 10,000+ federal contracts, DOGE's Pentagon cuts amount to approximately 0.07% of the defense budget (Responsible Statecraft). The $580M in announced cuts is theater against a $886B annual defense budget. Meanwhile, defense contractors who donated to Trump — and whose executives staff DOGE advisory roles — have seen zero contract cancellations. Sludge documented DOGE's direct ties to the military-industrial complex: advisory board members with financial interests in defense companies are overseeing the "efficiency" reviews of those same companies' contracts.
+**Story:** Despite canceling 10,000+ federal contracts, DOGE's Pentagon cuts amount to approximately 0.07% of the defense budget (Responsible Statecraft). The $580M in announced cuts is theater against a $886B annual defense budget. Meanwhile, defense contractors who donated to Trump, and whose executives staff DOGE advisory roles, have seen zero contract cancellations. Sludge documented DOGE's direct ties to the military-industrial complex: advisory board members with financial interests in defense companies are overseeing the "efficiency" reviews of those same companies' contracts.
 
 The structural function: DOGE creates the appearance of fiscal discipline while preserving the $400B+ annual flow to private defense contractors. Weapons contractors receive approximately half the Pentagon's annual budget. The donors who fund the political apparatus that created DOGE are the same entities DOGE is supposed to audit.
 
-**Why Silver:** The conflict-of-interest mechanism is documented (Sludge), the spending disparity is verified (0.07% vs. claimed savings), and the SpaceX exemption was covered in earlier runs. This adds the broader defense contractor ecosystem angle — it's not just Musk's companies that are exempt; the entire donor class of defense contractors is untouched.
+**Why Silver:** The conflict-of-interest mechanism is documented (Sludge), the spending disparity is verified (0.07% vs. claimed savings), and the SpaceX exemption was covered in earlier runs. This adds the broader defense contractor ecosystem angle, it's not just Musk's companies that are exempt; the entire donor class of defense contractors is untouched.
 
 **Pattern types:** **Donor-Class Override**, **Revolving Door** (DOGE advisory board members with defense industry ties)
 
 ### Relevant vault nodes:
-- [[_Donald Trump Master Profile]] — DOGE section
+- [[_Donald Trump Master Profile]]. DOGE section
 - Defense Contractors Bloc (if exists in `Donors & Power Networks/Defense & Intelligence/`)
 - Elon Musk / SpaceX nodes
 
 ### Lead sources (all Chrome-verified VALID):
-- [Responsible Statecraft: DOGE Wants to Cut the Pentagon — By 0.07%](https://responsiblestatecraft.org/doge-pentagon-2671396652/) (Tier 2)
+- [Responsible Statecraft: DOGE Wants to Cut the Pentagon. By 0.07%](https://responsiblestatecraft.org/doge-pentagon-2671396652/) (Tier 2)
 - [Sludge: DOGE's Ties to the Military-Industrial Complex](https://readsludge.com/2024/12/23/doges-ties-to-the-military-industrial-complex/) (Tier 2)
 
-**Recommended vault action:** Expand defense contractor documentation. Potential cross-politician analysis: `The DOGE Exemption — Why $400B in Defense Contracts Survived the Efficiency Purge.md`
+**Recommended vault action:** Expand defense contractor documentation. Potential cross-politician analysis: `The DOGE Exemption. Why $400B in Defense Contracts Survived the Efficiency Purge.md`
 
 ---
 
@@ -184,10 +184,10 @@ The structural function: DOGE creates the appearance of fiscal discipline while 
 
 ### Prioritized Build Queue
 
-1. **`The $1 Billion Handshake — Big Oil's Policy Capture of the EPA.md`** (sub-note under Trump master profile) — Diamond story, $75M–$450M → $80B public cost, congressional investigation documented
-2. **`The $28M Bipartisan Lock — AIPAC's 2026 Congressional Funding Map.md`** (sub-note or AIPAC donor node expansion) — Gold, bipartisan funding of both party leaderships
-3. **`The Crypto Capture.md`** (cross-politician analysis) — Gold, systematic SEC enforcement retreat + inauguration donations
-4. **`The PBM Reform That Wasn't.md`** (sub-note or CVS/UnitedHealth donor nodes) — Silver, Genuine Win + Structural Limit pattern
-5. **`The DOGE Exemption.md`** (cross-politician analysis) — Silver, defense contractor donor class preserved
+1. **`The $1 Billion Handshake. Big Oil's Policy Capture of the EPA.md`** (sub-note under Trump master profile). Diamond story, $75M–$450M → $80B public cost, congressional investigation documented
+2. **`The $28M Bipartisan Lock. AIPAC's 2026 Congressional Funding Map.md`** (sub-note or AIPAC donor node expansion). Gold, bipartisan funding of both party leaderships
+3. **`The Crypto Capture.md`** (cross-politician analysis). Gold, systematic SEC enforcement retreat + inauguration donations
+4. **`The PBM Reform That Wasn't.md`** (sub-note or CVS/UnitedHealth donor nodes). Silver, Genuine Win + Structural Limit pattern
+5. **`The DOGE Exemption.md`** (cross-politician analysis). Silver, defense contractor donor class preserved
 
 ---

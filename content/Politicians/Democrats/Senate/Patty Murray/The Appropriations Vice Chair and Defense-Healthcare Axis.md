@@ -15,9 +15,9 @@ donors: [[Boeing]] [[Amazon]] [[Microsoft]] [[SEIU - Service Employees Internati
 
 ### The Appropriations Power Broker
 
-Patty Murray served as Senate Appropriations Committee chair (2023-2025) and previously as chair of the HELP Committee (2021-2023). The Appropriations chair controls the Senate's spending decisions — the counterpart to [[_Tom Cole Master Profile|Tom Cole]]'s House Appropriations gavel. Murray's dual tenure on Appropriations and HELP gave her jurisdiction over both defense spending and healthcare policy — the two largest categories of federal expenditure.
+Patty Murray served as Senate Appropriations Committee chair (2023-2025) and previously as chair of the HELP Committee (2021-2023). The Appropriations chair controls the Senate's spending decisions, the counterpart to [[_Tom Cole Master Profile|Tom Cole]]'s House Appropriations gavel. Murray's dual tenure on Appropriations and HELP gave her jurisdiction over both defense spending and healthcare policy, the two largest categories of federal expenditure.
 
-Murray represents Washington State — home to Boeing's commercial aircraft operations, Amazon's headquarters, Microsoft's campus, and Joint Base Lewis-McChord (the largest military installation on the West Coast). Her donor profile reflects these economic pillars: defense, tech, and healthcare are her top contributing sectors.
+Murray represents Washington State, home to Boeing's commercial aircraft operations, Amazon's headquarters, Microsoft's campus, and Joint Base Lewis-McChord (the largest military installation on the West Coast). Her donor profile reflects these economic pillars: defense, tech, and healthcare are her top contributing sectors.
 
 ---
 
@@ -32,7 +32,7 @@ Boeing is Washington State's largest private employer and one of Murray's most c
 
 ### The Healthcare Position
 
-Murray's HELP Committee chairmanship produced the most progressive healthcare legislation of the Biden era — including the first Medicare drug price negotiation authority (Inflation Reduction Act) and expanded ACA subsidies. These are genuine policy wins. The structural limit: Murray never pursued single-payer, public option, or insurance industry restructuring that would threaten the commercial insurance model. Washington's healthcare economy includes major hospital systems, insurance companies, and pharmaceutical research — industries that benefit from the current system's complexity and would be disrupted by structural reform.
+Murray's HELP Committee chairmanship produced the most progressive healthcare legislation of the Biden era, including the first Medicare drug price negotiation authority (Inflation Reduction Act) and expanded ACA subsidies. These are genuine policy wins. The structural limit: Murray never pursued single-payer, public option, or insurance industry restructuring that would threaten the commercial insurance model. Washington's healthcare economy includes major hospital systems, insurance companies, and pharmaceutical research, industries that benefit from the current system's complexity and would be disrupted by structural reform.
 
 ---
 

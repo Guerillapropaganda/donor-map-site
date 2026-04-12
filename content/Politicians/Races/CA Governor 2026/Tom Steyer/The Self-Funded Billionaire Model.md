@@ -57,11 +57,11 @@ Steyer self-funded approximately $200 million for his 2020 presidential campaign
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2020-01-01 | Tom Steyer 2020 presidential campaign launch (self-funded) | ~$200M | OpenSecrets |
-| 2020-03-31 | Tom Steyer 2020 campaign ends (0 delegates won) | — | OpenSecrets |
+| 2020-03-31 | Tom Steyer 2020 campaign ends (0 delegates won) |, | OpenSecrets |
 | 2020-01-01 | Michael Bloomberg 2020 presidential campaign launch (self-funded) | ~$1B | OpenSecrets |
-| 2020-03-15 | Michael Bloomberg 2020 campaign ends (61 delegates won) | — | OpenSecrets |
+| 2020-03-15 | Michael Bloomberg 2020 campaign ends (61 delegates won) |, | OpenSecrets |
 
-The combined lesson of Steyer 2020 and Bloomberg 2020: two billionaires spent $1.2 billion on a single Democratic presidential primary and neither came close to winning. The self-funded model's ceiling is structural — voters resist the appearance of purchasing elections regardless of the candidate's platform.
+The combined lesson of Steyer 2020 and Bloomberg 2020: two billionaires spent $1.2 billion on a single Democratic presidential primary and neither came close to winning. The self-funded model's ceiling is structural, voters resist the appearance of purchasing elections regardless of the candidate's platform.
 
 ---
 
@@ -80,9 +80,9 @@ Self-funded campaigns represent the donor class's final form:
 
 1. **Standard donor-class politics:** Multiple wealthy donors fund a candidate who serves their collective interests. The candidate is accountable to the donor coalition.
 
-2. **Self-funded politics:** One wealthy individual funds themselves. The candidate is accountable to no one — which sounds like independence but is actually autocracy. The "no strings attached" narrative obscures that the only person who can self-fund to this level is already a member of the class whose power the system is supposed to check.
+2. **Self-funded politics:** One wealthy individual funds themselves. The candidate is accountable to no one, which sounds like independence but is actually autocracy. The "no strings attached" narrative obscures that the only person who can self-fund to this level is already a member of the class whose power the system is supposed to check.
 
-3. **The structural question:** Is a self-funded progressive billionaire better than a donor-funded corporate Democrat? Perhaps — in the same way that a benevolent king is better than a corrupt parliament. But the democratic argument is that neither should hold power by virtue of personal wealth.
+3. **The structural question:** Is a self-funded progressive billionaire better than a donor-funded corporate Democrat? Perhaps, in the same way that a benevolent king is better than a corrupt parliament. But the democratic argument is that neither should hold power by virtue of personal wealth.
 
 > [!money]
 > Steyer has spent approximately $470 million on political campaigns and PACs since 2013: $170M NextGen, $200M presidential, $66.7M governor, $40M Need to Impeach. He is one of the largest political spenders in American history. The question is whether this represents democratic participation or oligarchic control with progressive branding.

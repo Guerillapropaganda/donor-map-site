@@ -28,7 +28,7 @@ Ramaswamy's initial brief when appointed co-lead (alongside Musk) in November 20
 |--------|-----------------|--------|
 | Federal workforce | 75% reduction | ~1.5 million federal employees across all agencies |
 | Annual spending | $2 trillion in cuts | 2.5 years to elimination, "$400 billion annually" |
-| CFPB | Elimination | Consumer Financial Protection Bureau — established by Dodd-Frank (2010) as Warren's signature accomplishment |
+| CFPB | Elimination | Consumer Financial Protection Bureau, established by Dodd-Frank (2010) as Warren's signature accomplishment |
 | EPA | Radical downsizing | Environmental Protection Agency targeting rollback of climate regulations |
 | Education Dept | Elimination | Proposed closure of federal education apparatus |
 | Cost savings narrative | Eliminate "waste" | The rhetorical frame: cutting "bureaucracy," not cutting services |
@@ -56,17 +56,17 @@ Musk wanted to be inside government making real cuts. Ramaswamy wanted to publis
 
 ### The H-1B Catastrophe and the Class Contradiction
 
-In December 2024, as DOGE was faltering, Ramaswamy posted a series of X/Twitter messages arguing that American culture "has venerated mediocrity over excellence." He cited television sitcom characters — Cory Matthews from "Boy Meets World" (the protagonist, "doing okay") vs. Steve Urkel from "Family Matters" (portrayed as the brilliant outsider genius) — to argue that without H-1B visas bringing skilled immigrant labor, the U.S. would produce only "mediocre" engineers.
+In December 2024, as DOGE was faltering, Ramaswamy posted a series of X/Twitter messages arguing that American culture "has venerated mediocrity over excellence." He cited television sitcom characters. Cory Matthews from "Boy Meets World" (the protagonist, "doing okay") vs. Steve Urkel from "Family Matters" (portrayed as the brilliant outsider genius), to argue that without H-1B visas bringing skilled immigrant labor, the U.S. would produce only "mediocre" engineers.
 
 The political response was immediate:
 
-- The MAGA base — which views immigration primarily as economic competition with working-class wages — turned on him publicly
+- The MAGA base, which views immigration primarily as economic competition with working-class wages, turned on him publicly
 - Fox News personalities attacked Ramaswamy's "elitist" comments about American workers
 - Trump was "privately unhappy" and "not thrilled" about the H-1B debate, according to CNN and Washington Post reporting
 - Musk, explicitly, was "sharply critical" and signaled to Trump allies that Ramaswamy's departure was desirable
 - Internal DOGE staff reported Ramaswamy tried to walk back the comments but the damage was done
 
-The underlying contradiction: Ramaswamy's companies — both Roivant Sciences and his Strive hedge fund — depend structurally on H-1B visa holders. Roivant's biotech research and development requires PhD-level chemists and biologists. Strive's hedge fund operations require advanced technical talent in finance and data science. The MAGA base sees immigrant labor as competition with native workers for jobs. Ramaswamy, explicitly, sees immigrant labor as essential to his companies' profitability.
+The underlying contradiction: Ramaswamy's companies, both Roivant Sciences and his Strive hedge fund, depend structurally on H-1B visa holders. Roivant's biotech research and development requires PhD-level chemists and biologists. Strive's hedge fund operations require advanced technical talent in finance and data science. The MAGA base sees immigrant labor as competition with native workers for jobs. Ramaswamy, explicitly, sees immigrant labor as essential to his companies' profitability.
 
 > [!contradiction]
 > The "anti-establishment populist" argued that American workers are inherently less capable than immigrants. The MAGA base — the constituency his presidential campaign was built on — heard this as contempt. The H-1B position served Ramaswamy's direct class interest (biotech and finance need H-1B workers) while contradicting his entire political brand (populist opposition to coastal elite arrogance). Trump's private unhappiness was the signal. Musk's public criticism was the execution. The DOGE departure was the political consequence of the class contradiction becoming publicly visible.
@@ -83,7 +83,7 @@ The underlying contradiction: Ramaswamy's companies — both Roivant Sciences an
 | Jan 20, 2025 | DOGE departure | Ramaswamy leaves government; Musk consolidates control |
 | Feb 24, 2025 | Ohio announcement | Ramaswamy announces Ohio gubernatorial campaign |
 
-Ramaswamy left DOGE on January 20, 2025 (Inauguration Day). He launched his Ohio gubernatorial campaign on February 24, 2025 — 35 days later. The speed of the pivot strongly suggests the Ohio race was always the plan; DOGE was the audition for a national brand that could be cashed in at the state level.
+Ramaswamy left DOGE on January 20, 2025 (Inauguration Day). He launched his Ohio gubernatorial campaign on February 24, 2025, 35 days later. The speed of the pivot strongly suggests the Ohio race was always the plan; DOGE was the audition for a national brand that could be cashed in at the state level.
 
 The political trajectory: presidential primary (2024, brand-building) → DOGE co-lead (32 days, brand amplification/credibility check) → Ohio governor (2026, brand conversion to executive office). The 2028 signal: Ohio governorship is the resume line, not the destination. Ramaswamy at 38 years old would be 40 in 2028, positioning him as a younger alternative in the post-Trump succession field.
 
@@ -93,7 +93,7 @@ The political trajectory: presidential primary (2024, brand-building) → DOGE c
 
 **The Class Performance Mismatch:** Ramaswamy performed competence through financial success (billion-dollar net worth). But DOGE revealed the gap between financial engineering (buying and selling biotech assets) and executive management (actually running government). Musk, despite his erratic behavior, had actually built and scaled companies. Ramaswamy had never managed anything larger than his hedge fund.
 
-**The Brand-Reality Gap:** Every element of the "outsider" persona — anti-establishment, anti-elite expertise, pro-working-class — was contradicted by the actual job (cutting workers' salaries and benefits) and the actual beliefs (American workers are mediocre). The MAGA base saw the contradiction. Trump saw the liability. Musk saw the competition.
+**The Brand-Reality Gap:** Every element of the "outsider" persona, anti-establishment, anti-elite expertise, pro-working-class, was contradicted by the actual job (cutting workers' salaries and benefits) and the actual beliefs (American workers are mediocre). The MAGA base saw the contradiction. Trump saw the liability. Musk saw the competition.
 
 **The Revolving Door Function:** DOGE served as a credential transfer station. Ramaswamy got to claim "federal restructuring" experience he didn't actually execute. The brief tenure was burnished into a credential. This is the political equivalent of the financial sector pattern: extract value through position without delivering promised results.
 

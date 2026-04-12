@@ -17,7 +17,7 @@ donors: [[Wall Street Bloc]] · Private Equity Donors
 
 The carried interest provision in the Inflation Reduction Act would have closed one of the wealthiest tax benefits in American law: the ability of private equity managers, hedge fund partners, and other investment professionals to classify compensation as "carried interest" and pay capital gains tax (15-20%) instead of ordinary income tax (37%). 
 
-For a typical private equity manager earning $10 million annually, this loophole saves roughly $2-3 million per year in taxes. Across the industry, economists estimated the carried interest closure would have generated $6.5 billion to $14 billion in federal revenue over a decade. The IRA negotiations in summer 2022 represented the first serious attempt to close this loophole in years. The provision had broad public support — polling showed 60-70% of Americans supported closing it. It had support within the Democratic caucus.
+For a typical private equity manager earning $10 million annually, this loophole saves roughly $2-3 million per year in taxes. Across the industry, economists estimated the carried interest closure would have generated $6.5 billion to $14 billion in federal revenue over a decade. The IRA negotiations in summer 2022 represented the first serious attempt to close this loophole in years. The provision had broad public support, polling showed 60-70% of Americans supported closing it. It had support within the Democratic caucus.
 
 [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] killed it unilaterally.
 
@@ -25,7 +25,7 @@ For a typical private equity manager earning $10 million annually, this loophole
 
 ### The Fundraising Timeline: Quarter by Quarter
 
-Sinema's donor base shifted dramatically in 2021-2022, becoming increasingly concentrated in the securities and investment industry — the precise industries that stood to lose the most from carried interest closure.
+Sinema's donor base shifted dramatically in 2021-2022, becoming increasingly concentrated in the securities and investment industry, the precise industries that stood to lose the most from carried interest closure.
 
 | Period | Donor Source | Approximate Amount | Notes |
 |--------|--------------|-------------------|-------|
@@ -36,7 +36,7 @@ Sinema's donor base shifted dramatically in 2021-2022, becoming increasingly con
 | 2022 Q1-Q2 | Securities/Investment peaks | $1M+ in 2022 H1 | Sinema signals opposition to carried interest closure; donations accelerate |
 | 2022 Q3-Q4 | Sustained high level | $950K+ in 2022 H2 | IRA negotiations (August 2022); Post-vote maintenance donations |
 
-Over her entire Senate career, Sinema received $3.5 million+ from the securities and investment industry — making it her largest donor source. Nearly $1 million arrived in 2022 alone, in the months immediately before and after the IRA negotiations.
+Over her entire Senate career, Sinema received $3.5 million+ from the securities and investment industry, making it her largest donor source. Nearly $1 million arrived in 2022 alone, in the months immediately before and after the IRA negotiations.
 
 ---
 
@@ -51,7 +51,7 @@ The largest private equity firms contributed substantially to Sinema's campaigns
 | Apollo Global Management | $145,000+ | Executives and managing partners | Third-largest PE contributor |
 | Other PE/Hedge Fund | $2.5M+ | Numerous professionals | Aggregated contributions from smaller funds and individual investors |
 
-The donations were particularly concentrated in the 2021-2022 period — exactly when Sinema was moving from being ambiguous on carried interest to actively opposing closure.
+The donations were particularly concentrated in the 2021-2022 period, exactly when Sinema was moving from being ambiguous on carried interest to actively opposing closure.
 
 ---
 
@@ -87,7 +87,7 @@ But the math reveals how inadequate the substitute was:
 
 The provisions are not equivalent because they target different constituencies:
 
-- **Carried interest closure:** Would have increased taxes specifically on private equity and hedge fund managers — a tiny, extremely wealthy class — by roughly $2-3 million per manager per year
+- **Carried interest closure:** Would have increased taxes specifically on private equity and hedge fund managers, a tiny, extremely wealthy class, by roughly $2-3 million per manager per year
 - **Stock buyback tax:** Applies a small (1%) tax to all corporations engaging in stock buybacks, spread across every industry and company size
 
 Sinema's "compromise" preserved the loophole that benefits her richest donors (PE managers) while accepting a small tax on the broader corporate sector. The PE industry was grateful.
@@ -96,7 +96,7 @@ Sinema's "compromise" preserved the loophole that benefits her richest donors (P
 
 ### The Contradiction: Supporting Drug Pricing While Opposing Carried Interest Relief
 
-Notably, the IRA also included provisions to allow Medicare to negotiate drug prices — potentially saving the government $160 billion over a decade. Sinema initially appeared to support this provision. But she also opposed expanding the drug pricing negotiation to more than 10 drugs, protecting pharmaceutical industry revenue.
+Notably, the IRA also included provisions to allow Medicare to negotiate drug prices, potentially saving the government $160 billion over a decade. Sinema initially appeared to support this provision. But she also opposed expanding the drug pricing negotiation to more than 10 drugs, protecting pharmaceutical industry revenue.
 
 The contradiction is instructive:
 

@@ -29,7 +29,7 @@ Ohio's 2026 Senate race is a **special election** (not a regular cycle race) to 
 - **November 3, 2026:** Special general election
 - **December 1, 2026:** Potential runoff if no 50%+ winner
 
-**Competitive Assessment:** Ohio is a complex battleground. Trump won it decisively (2020: +8.2%, 2024: +8.0%), yet working-class voters show appetite for Brown's populist labor messaging. Polling shows race statistically tied (Ohio Capital Journal March 2026: "Poll shows the Ohio US Senate race is statistically tied"). This is one of the most volatile 2026 races — outcome depends entirely on turnout model and whether working-class defection to Brown from Trump voters can overcome Republican structural advantages.
+**Competitive Assessment:** Ohio is a complex battleground. Trump won it decisively (2020: +8.2%, 2024: +8.0%), yet working-class voters show appetite for Brown's populist labor messaging. Polling shows race statistically tied (Ohio Capital Journal March 2026: "Poll shows the Ohio US Senate race is statistically tied"). This is one of the most volatile 2026 races, outcome depends entirely on turnout model and whether working-class defection to Brown from Trump voters can overcome Republican structural advantages.
 
 **Democratic Path:** Sherrod Brown framing this as 2024 reversal + labor comeback. Emphasizing NAFTA opposition, manufacturing job protection, union solidarity.
 **Republican Path:** Jon Husted framing Brown as "coastal elite" proxy despite being from Ohio; emphasizing Trump alignment and establishment business backing.
@@ -38,62 +38,62 @@ Ohio's 2026 Senate race is a **special election** (not a regular cycle race) to 
 
 ### The Money Map
 
-### Sherrod Brown (Comeback Candidate) — Labor-Powered Comeback:
-- **Total raised (through Q4 2025):** $14.3M — strongest fundraising of any Democratic Senate candidate in special/unusual cycle 2026
-- **Q4 2025 alone:** $8.8M (includes $7.3M direct + joint fundraising) — extraordinary for non-election quarter
-- **Cash on hand (as of Q4 2025):** $10M+ — largest Democratic war chest for 2026 Senate race outside of direct-election states (GA, MI, NC)
-- **Fundraising structure — Labor Union Base Model:**
-  - **Direct contributions (grassroots):** $14.3M total, with average donation ~$54 (extraordinarily low average, showing small-dollar base)
-  - **New donors in 2025 alone:** 18,640 first-time contributors — indicates grassroots mobilization
-  - **Labor union direct contributions:** $800K+ (direct union PAC money from UAW, [[IBEW - International Brotherhood of Electrical Workers|IBEW]], [[Teamsters - International Brotherhood of Teamsters|Teamsters]], International Brotherhood of Operating Engineers)
-  - **Labor union super-PAC spending (coordinated):** $5M+ committed (working-class Democratic super-PACs mobilizing to defend populist candidate)
-  - **Progressive small-dollar bundling ([[ActBlue|ActBlue]]):** $2.2M+ (national progressive base mobilizing for comeback narrative)
-- **Donor network — Working-Class Coalition:**
-  - **Manufacturing unions:** UAW ($300K+), United Steelworkers ($200K+), Machinists ($150K+)
-  - **Construction trades:** Ironworkers, Carpenters, Operating Engineers (though some defecting to Husted — see below)
-  - **Public sector unions:** [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]], CNA Ohio, teachers unions (modest contributions but strong endorsements)
-  - **Political action committees aligned with labor:** Working Families Party ($100K+), [[SEIU - Service Employees International Union|SEIU]] super-PAC
-- **Donor geography — Midwest Working Class:**
-  - Concentrations in: Cleveland (UAW stronghold), Akron (rubber workers), Toledo (auto parts/manufacturing), Youngstown (steel legacy)
-  - Limited tech/finance money (unlike GA, NC, MI Democratic races) — this is distinctly labor-based, not tech billionaire-based
-- **National progressive money (emerging):** [[_Bernie Sanders Master Profile|Bernie Sanders]] network, [[_Elizabeth Warren Master Profile|Elizabeth Warren]] endorsers, progressive mega-donors beginning to mobilize (Soros family, Abrams donors) — but this is secondary
+### Sherrod Brown (Comeback Candidate). Labor-Powered Comeback:
+- **Total raised (through Q4 2025):** $14.3M, strongest fundraising of any Democratic Senate candidate in special/unusual cycle 2026
+- **Q4 2025 alone:** $8.8M (includes $7.3M direct + joint fundraising), extraordinary for non-election quarter
+- **Cash on hand (as of Q4 2025):** $10M+, largest Democratic war chest for 2026 Senate race outside of direct-election states (GA, MI, NC)
+- **Fundraising structure. Labor Union Base Model:**
+ - **Direct contributions (grassroots):** $14.3M total, with average donation ~$54 (extraordinarily low average, showing small-dollar base)
+ - **New donors in 2025 alone:** 18,640 first-time contributors, indicates grassroots mobilization
+ - **Labor union direct contributions:** $800K+ (direct union PAC money from UAW, [[IBEW - International Brotherhood of Electrical Workers|IBEW]], [[Teamsters - International Brotherhood of Teamsters|Teamsters]], International Brotherhood of Operating Engineers)
+ - **Labor union super-PAC spending (coordinated):** $5M+ committed (working-class Democratic super-PACs mobilizing to defend populist candidate)
+ - **Progressive small-dollar bundling ([[ActBlue|ActBlue]]):** $2.2M+ (national progressive base mobilizing for comeback narrative)
+- **Donor network. Working-Class Coalition:**
+ - **Manufacturing unions:** UAW ($300K+), United Steelworkers ($200K+), Machinists ($150K+)
+ - **Construction trades:** Ironworkers, Carpenters, Operating Engineers (though some defecting to Husted, see below)
+ - **Public sector unions:** [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]], CNA Ohio, teachers unions (modest contributions but strong endorsements)
+ - **Political action committees aligned with labor:** Working Families Party ($100K+), [[SEIU - Service Employees International Union|SEIU]] super-PAC
+- **Donor geography. Midwest Working Class:**
+ - Concentrations in: Cleveland (UAW stronghold), Akron (rubber workers), Toledo (auto parts/manufacturing), Youngstown (steel legacy)
+ - Limited tech/finance money (unlike GA, NC, MI Democratic races), this is distinctly labor-based, not tech billionaire-based
+- **National progressive money (emerging):** [[_Bernie Sanders Master Profile|Bernie Sanders]] network, [[_Elizabeth Warren Master Profile|Elizabeth Warren]] endorsers, progressive mega-donors beginning to mobilize (Soros family, Abrams donors), but this is secondary
 - [Source: Ohio Capital Journal: Democrat Sherrod Brown leads Ohio Republican U.S. Sen. Jon Husted in quarterly fundraising](https://ohiocapitaljournal.com/2026/02/04/democrat-sherrod-brown-leads-ohio-republican-u-s-sen-jon-husted-in-quarterly-fundraising/) (Tier 2)
 
-### Jon Husted (Appointed Republican) — Establishment Consolidation:
-- **Total raised (through Q4 2025):** $7.3M — significantly behind Brown despite party apparatus support
-- **Q4 2025 alone:** $1.5M (direct contributions + transfers only) — much weaker than Democratic opponent
-- **Cash on hand (as of Q4 2025):** $6M — trails Brown by $4M
-- **Fundraising structure — Party Apparatus Model:**
-  - **Direct contributions from individuals:** $1.1M+ (primarily via WinRed Republican fundraising platform)
-  - **Small-dollar base:** Limited (no grassroots mobilization comparable to Brown)
-  - **Party apparatus transfers/support:** $5M+ (RNC-NRSC coordinated spending still developing)
-  - **Republican mega-donor networks:** $1.2M+ (Adelson connections, Trump bundlers, Koch-adjacent donors)
-- **Donor network — Ohio Republican Establishment:**
-  - **Business/Chamber of Commerce:** $800K+ (Ohio Chamber of Commerce, Cleveland business leaders, Columbus construction/development money)
-  - **Banking/Finance:** $400K+ (Columbus-based banking, Ohio insurer networks — limited compared to national bank PACs)
-  - **Agricultural PACs:** $300K+ (Ohio Farm Bureau — Trump alliance, ethanol subsidies)
-  - **Fossil fuel:** $250K+ (Ohio coal/fracking interests, FirstEnergy utility PACs)
-  - **Healthcare/pharma (Ohio companies):** Procter & Gamble connections ($150K+), hospital associations
+### Jon Husted (Appointed Republican). Establishment Consolidation:
+- **Total raised (through Q4 2025):** $7.3M, significantly behind Brown despite party apparatus support
+- **Q4 2025 alone:** $1.5M (direct contributions + transfers only), much weaker than Democratic opponent
+- **Cash on hand (as of Q4 2025):** $6M, trails Brown by $4M
+- **Fundraising structure. Party Apparatus Model:**
+ - **Direct contributions from individuals:** $1.1M+ (primarily via WinRed Republican fundraising platform)
+ - **Small-dollar base:** Limited (no grassroots mobilization comparable to Brown)
+ - **Party apparatus transfers/support:** $5M+ (RNC-NRSC coordinated spending still developing)
+ - **Republican mega-donor networks:** $1.2M+ (Adelson connections, Trump bundlers, Koch-adjacent donors)
+- **Donor network. Ohio Republican Establishment:**
+ - **Business/Chamber of Commerce:** $800K+ (Ohio Chamber of Commerce, Cleveland business leaders, Columbus construction/development money)
+ - **Banking/Finance:** $400K+ (Columbus-based banking, Ohio insurer networks, limited compared to national bank PACs)
+ - **Agricultural PACs:** $300K+ (Ohio Farm Bureau. Trump alliance, ethanol subsidies)
+ - **Fossil fuel:** $250K+ (Ohio coal/fracking interests, FirstEnergy utility PACs)
+ - **Healthcare/pharma (Ohio companies):** Procter & Gamble connections ($150K+), hospital associations
 - **Trump alignment funding (emerging):** MAGA billionaire networks still mobilizing, estimated $3M+ to come
 - **Union defections (significant weakness for Brown):** Four unions (International Union of Operating Engineers Local 66, International Brotherhood of Boilermakers, others) have switched endorsements from Brown (2024) to Husted (2026), reflecting anxiety about manufacturing decline under Democratic policy
 - [Source: NBC4 WCMH-TV: Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/) (Tier 2)
 
-### Outside Money Landscape (Still Developing — Special Election Timing Unusual):
-- **Democratic side — Labor Super-PACs:**
-  - **Priorities USA:** $15M+ commitment (general 2026 defense, including Ohio support)
-  - **Working Families Super-PAC:** $8M+ (labor-aligned)
-  - **[[SEIU - Service Employees International Union|SEIU]] super-PAC:** $5M+ (coordinated union spending)
-  - **Total Democratic outside:** $30M+ (still aggregating as cycle develops)
-- **Republican side — Party PACs:**
-  - **[[Senate Leadership Fund|Senate Leadership Fund]]:** $12M+ commitment (defending Republican Senate seat)
-  - **Republican Senate Committee (NRSC):** $10M+ (special election priority)
-  - **State-level conservative PACs:** $5M+
-  - **Total Republican outside:** $27M+ (currently less than Democratic outside, unusual for Republican-lean state)
-- **Asymmetry note:** Special election timing (May/November 2026) may suppress outside spending compared to regular cycle races — creates possible advantage for candidate with strong direct fundraising (Brown)
+### Outside Money Landscape (Still Developing. Special Election Timing Unusual):
+- **Democratic side. Labor Super-PACs:**
+ - **Priorities USA:** $15M+ commitment (general 2026 defense, including Ohio support)
+ - **Working Families Super-PAC:** $8M+ (labor-aligned)
+ - **[[SEIU - Service Employees International Union|SEIU]] super-PAC:** $5M+ (coordinated union spending)
+ - **Total Democratic outside:** $30M+ (still aggregating as cycle develops)
+- **Republican side. Party PACs:**
+ - **[[Senate Leadership Fund|Senate Leadership Fund]]:** $12M+ commitment (defending Republican Senate seat)
+ - **Republican Senate Committee (NRSC):** $10M+ (special election priority)
+ - **State-level conservative PACs:** $5M+
+ - **Total Republican outside:** $27M+ (currently less than Democratic outside, unusual for Republican-lean state)
+- **Asymmetry note:** Special election timing (May/November 2026) may suppress outside spending compared to regular cycle races, creates possible advantage for candidate with strong direct fundraising (Brown)
 
 ### Ohio Economic Context:
 - **Manufacturing dependency:** Ohio has lost 600K+ manufacturing jobs since 2000 (NAFTA aftermath, China trade, automation). Brown's anti-NAFTA positioning and manufacturing-worker coalition is geographically relevant; Husted's Chamber of Commerce ties represent post-manufacturing establishment
-- **Union strength/weakness:** Ohio has 7.5% unionization rate (below 10% national average but strong in specific sectors — autos, steel, construction). UAW has 125K+ members in Ohio; but construction trades increasingly flipping to Republican (Husted's endorsement from Operating Engineers) — indicates class fragmentation
+- **Union strength/weakness:** Ohio has 7.5% unionization rate (below 10% national average but strong in specific sectors, autos, steel, construction). UAW has 125K+ members in Ohio; but construction trades increasingly flipping to Republican (Husted's endorsement from Operating Engineers), indicates class fragmentation
 
 ---
 
@@ -101,20 +101,20 @@ Ohio's 2026 Senate race is a **special election** (not a regular cycle race) to 
 
 This race reveals fundamental contradiction in Ohio working-class politics and which donor networks claim to represent labor:
 
-### Sherrod Brown — Labor Union Model (Working-Class Autonomy Possibility):
+### Sherrod Brown. Labor Union Model (Working-Class Autonomy Possibility):
 - $14.3M raised almost entirely from labor unions + small-dollar Democratic grassroots
 - Average donation $54 (smallest in any competitive 2026 Senate race)
-- 18,640 new donors in 2025 alone — suggests genuine grassroots mobilization outside wealthy bundler networks
+- 18,640 new donors in 2025 alone, suggests genuine grassroots mobilization outside wealthy bundler networks
 - Donor base is geographically embedded in manufacturing regions (Cleveland, Akron, Youngstown) where union presence is strongest
 - **Outcome if wins:** Senate vote controlled by labor union network (UAW, Steelworkers, IBEW, [[Teamsters - International Brotherhood of Teamsters|Teamsters]]) representing manufacturing workers. Anti-NAFTA positioning would continue; pro-trade deal opposition faction in Senate grows. **This is the clearest possible example in 2026 Senate races of working-class autonomy through donor network alignment**
 - **Contradiction:** Even Brown's win preserves donor-class control (labor donors control his vote, not independent worker judgment). But this donor class (unions) is accountable to working-class members in ways corporate PACs are not.
 
-### Jon Husted — Corporate Establishment Model (Chamber of Commerce Capture):
+### Jon Husted. Corporate Establishment Model (Chamber of Commerce Capture):
 - $7.3M raised primarily from business networks + Chamber of Commerce
 - Donor base concentrated in non-manufacturing sectors (finance, real estate, healthcare, tech, agriculture)
-- Represents Ohio's post-manufacturing elite — those who benefited from deindustrialization
+- Represents Ohio's post-manufacturing elite, those who benefited from deindustrialization
 - **Outcome if wins:** Senate vote controlled by business networks (Chamber of Commerce, banking, agricultural interests) representing capital mobility. Pro-trade deal positioning, anti-union sentiment implicit
-- **Union defection problem:** Three unions abandoning Brown for Husted signal that some trades (Operating Engineers, Boilermakers) see Husted as preferable — possibly because construction interests benefit from anti-labor policy or because unions expect concessions from Republican majority
+- **Union defection problem:** Three unions abandoning Brown for Husted signal that some trades (Operating Engineers, Boilermakers) see Husted as preferable, possibly because construction interests benefit from anti-labor policy or because unions expect concessions from Republican majority
 
 ### The Wexner Family Factor (Ohio Oligarch Network):
 - Leslie Wexner (L Brands founder, Victoria's Secret, The Limited) is Ohio's largest private wealth concentration
@@ -132,7 +132,7 @@ This race reveals fundamental contradiction in Ohio working-class politics and w
 ### The Hope/Cynicism Split:
 - Brown's win could signal working-class reclamation through labor organization (unions are democratic institutions, accountable to members)
 - Husted's win would signal capital's reclamation after brief labor moment (business networks are not accountable to workers)
-- But both outcomes preserve donor-class Senate control — the question is which donor class gets leverage
+- But both outcomes preserve donor-class Senate control, the question is which donor class gets leverage
 
 ---
 
@@ -154,7 +154,7 @@ This race reveals fundamental contradiction in Ohio working-class politics and w
 - Labor Super-PACs (Priorities USA, Working Families, SEIU backing Democratic side)
 - [[Teamsters - International Brotherhood of Teamsters|Teamsters]] (Brown backing, mixed on Husted vs Brown)
 - Republican Mega-Donor Networks (Trump bundlers, Adelson network positioning)
-- Manufacturing Industry PACs (divided — some backing Brown preservation, some backing Husted post-manufacturing)
+- Manufacturing Industry PACs (divided, some backing Brown preservation, some backing Husted post-manufacturing)
 
 ---
 
@@ -163,7 +163,7 @@ This race reveals fundamental contradiction in Ohio working-class politics and w
 - [Democrat Sherrod Brown leads Ohio Republican U.S. Sen. Jon Husted in quarterly fundraising | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/02/04/democrat-sherrod-brown-leads-ohio-republican-u-s-sen-jon-husted-in-quarterly-fundraising/) (Tier 2)
 - [Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record | NBC4 WCMH-TV](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/) (Tier 2)
 - [Sen. Sherrod Brown - Campaign Finance Summary | OpenSecrets](https://www.fec.gov/data/candidate/H2OH13033/) (Tier 1)
-- [Union workers welcome Sherrod Brown's 2026 Ohio comeback — but can he win? | Salon.com](https://www.salon.com/2025/08/27/union-workers-welcome-sherrod-browns-2026-ohio-comeback-but-can-he-win/) (Tier 2)
+- [Union workers welcome Sherrod Brown's 2026 Ohio comeback, but can he win? | Salon.com](https://www.salon.com/2025/08/27/union-workers-welcome-sherrod-browns-2026-ohio-comeback-but-can-he-win/) (Tier 2)
 - [Scoop: Jon Husted snatches third union endorsement from Sherrod Brown | Axios](https://www.axios.com/2025/10/15/senate-brown-husted-ohio-unions) (Tier 2)
 - [Poll shows the Ohio US Senate race is statistically tied | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/03/18/poll-shows-the-ohio-us-senate-race-is-statistically-tied-and-that-health-insurance-is-a-big-concern/) (Tier 2)
 - [IBEW Endorses Sherrod Brown for 2026 Senate | International Brotherhood of Electrical Workers](https://ibew.org/press-release/ibew-endorses-sherrod-brown-for-2026-senate/) (Tier 2)

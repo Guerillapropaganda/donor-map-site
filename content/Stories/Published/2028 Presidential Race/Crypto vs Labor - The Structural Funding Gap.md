@@ -18,7 +18,7 @@ donors: [[Fairshake PAC]] [[Think Big AI PAC]] [[Crypto Industry Bloc]]
 
 ---
 
-### CRYPTO VS LABOR — THE STRUCTURAL FUNDING GAP
+### CRYPTO VS LABOR. THE STRUCTURAL FUNDING GAP
 
 ---
 
@@ -61,7 +61,7 @@ Organized labor's strategic disadvantage: No equivalent mega-PAC exists. [[SEIU 
 2. Dues-based funding (predictable but capped at membership size)
 3. Political diversity within membership (Teamsters' 60% rank-and-file for Trump split despite union endorsement)
 
-A labor counter-PAC would require: (1) billions of dollars from non-union billionaire sources (impossible — tech billionaires align with crypto industry), or (2) massive dues increase (politically infeasible given declining membership). Labor has no structural path to matching Fairshake's $271M+.
+A labor counter-PAC would require: (1) billions of dollars from non-union billionaire sources (impossible, tech billionaires align with crypto industry), or (2) massive dues increase (politically infeasible given declining membership). Labor has no structural path to matching Fairshake's $271M+.
 
 > [!contradiction]
 > Labor unions tout their political spending as democratic participation (membership votes on endorsements, PAC money reflects member values). Crypto PACs (Fairshake, [[Think Big AI|Think Big AI]]) operate as pure oligarch vehicles (no membership, no democracy, no accountability). Yet oligarch crypto spending exceeds democratic labor spending by 35%. This reversal violates the stated principle that democracy should outspend oligarchy.
@@ -92,7 +92,7 @@ In a Vance or Newsom 2028 presidency:
 - Worker surveillance through AI expands (crypto + tech billionaires have unified interest in minimizing privacy regulation)
 - Gig economy expands (crypto-funded anti-labor deregulation + AI automation)
 
-The structural question: Can labor movement rebuild membership/funding power faster than crypto industry grows? Current trajectory suggests no. Crypto industry $271M spending in a single midterm cycle exceeds labor's entire annual political capacity. If this trend continues, every 2028 policy area tilts toward oligarch preferences and away from worker protection — regardless of which Democrat wins the primary.
+The structural question: Can labor movement rebuild membership/funding power faster than crypto industry grows? Current trajectory suggests no. Crypto industry $271M spending in a single midterm cycle exceeds labor's entire annual political capacity. If this trend continues, every 2028 policy area tilts toward oligarch preferences and away from worker protection, regardless of which Democrat wins the primary.
 
 ### Sources
 

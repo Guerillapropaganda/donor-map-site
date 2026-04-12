@@ -13,7 +13,7 @@ donors: [[Peter Thiel]] · [[Marc Andreessen & Horowitz]] · [[Eric Schmidt]]
 
 ### Narya Capital: The VC-to-Government Pipeline in Action
 
-In 2023, [[_JD Vance Master Profile|JD Vance]] co-founded **Narya Capital**, a venture capital fund with $93-120M in initial capital designed to invest in "American greatness" startups—a euphemism for defense tech, surveillance systems, and extractive industries aligned with MAGA ideology.
+In 2023, [[_JD Vance Master Profile|JD Vance]] co-founded **Narya Capital**, a venture capital fund with $93-120M in initial capital designed to invest in "American greatness" startups, a euphemism for defense tech, surveillance systems, and extractive industries aligned with MAGA ideology.
 
 Narya represents the clearest case in the vault of the **VC-to-government pipeline**: billionaires invest in companies through a politician's fund, that politician enters federal office, and then directs government contracts to those same companies.
 
@@ -130,7 +130,7 @@ This is not capitalism. This is extraction.
 | Aug 2024 | Vance selected as VP | Valinor positioned for $80-150M contract increase |
 | Jan 2025 | Vance confirmed as VP | Valinor contracts accelerate; Defense budget prioritizes AI/surveillance |
 
-[!contradiction] Vance's Senate voting record showed 57 bills introduced, 0 passed. Yet his actual power during Senate term was not legislative—it was portfolio allocation. He was quietly directing Valinor toward federal contracts while appearing to be an ineffectual legislator. The ineffectiveness was the point: visible legislative record creates accountability; quiet contract allocation creates wealth transfer.
+[!contradiction] Vance's Senate voting record showed 57 bills introduced, 0 passed. Yet his actual power during Senate term was not legislative, it was portfolio allocation. He was quietly directing Valinor toward federal contracts while appearing to be an ineffectual legislator. The ineffectiveness was the point: visible legislative record creates accountability; quiet contract allocation creates wealth transfer.
 
 ### Systemic Implications: Why Enforcement Is Unlikely
 

@@ -16,7 +16,7 @@ donors: UAE - Foreign Government UK - Foreign Government Qatar - Foreign Governm
 
 ### The Story
 
-Between 2019 and 2024, foreign governments donated $110 million to the top 50 U.S. think tanks. The UAE alone gave $16.7 million, the UK $15.5 million, Qatar $9.1 million. These institutions — the Atlantic Council, Brookings Institution, Council on Foreign Relations, Center for Strategic International Studies — are the primary sources of policy papers that Congress reads, relies on, and implements as legislation. The pipeline is direct: foreign government → think tank → "research" paper → Congressional staffer → bill language → law. Pentagon contractors (the same defense companies being paid $900B+ annually) are the second-largest funders, creating a dual-capital structure: foreign governments wanting to shape U.S. foreign policy, and defense contractors wanting to shape military spending. Eighteen of the top 50 think tanks are dark money with zero donor transparency. Congress doesn't know whose interests the research represents. Neither do voters.
+Between 2019 and 2024, foreign governments donated $110 million to the top 50 U.S. think tanks. The UAE alone gave $16.7 million, the UK $15.5 million, Qatar $9.1 million. These institutions, the Atlantic Council, Brookings Institution, Council on Foreign Relations, Center for Strategic International Studies, are the primary sources of policy papers that Congress reads, relies on, and implements as legislation. The pipeline is direct: foreign government → think tank → "research" paper → Congressional staffer → bill language → law. Pentagon contractors (the same defense companies being paid $900B+ annually) are the second-largest funders, creating a dual-capital structure: foreign governments wanting to shape U.S. foreign policy, and defense contractors wanting to shape military spending. Eighteen of the top 50 think tanks are dark money with zero donor transparency. Congress doesn't know whose interests the research represents. Neither do voters.
 
 ### What We Know
 
@@ -30,7 +30,7 @@ Between 2019 and 2024, foreign governments donated $110 million to the top 50 U.
 
 ### What's Underreported
 
-Mainstream coverage treats think tank "research" as neutral expertise. The fact that the research is funded by the foreign governments or defense contractors whose interests it advances is almost never reported. A Congressional staffer reads a Brookings paper on Iran policy and cites it in a bill — Congress doesn't know the paper was partially funded by the UAE. A CSIS researcher testifies about military spending needs — the room doesn't know [[Lockheed Martin|Lockheed Martin]] funds CSIS.
+Mainstream coverage treats think tank "research" as neutral expertise. The fact that the research is funded by the foreign governments or defense contractors whose interests it advances is almost never reported. A Congressional staffer reads a Brookings paper on Iran policy and cites it in a bill. Congress doesn't know the paper was partially funded by the UAE. A CSIS researcher testifies about military spending needs, the room doesn't know [[Lockheed Martin|Lockheed Martin]] funds CSIS.
 
 Unreported also: **the personnel overlap**. Think tank researchers move between foreign governments, think tanks, and Congressional roles. A Pentagon staffer writes a paper at Hudson Institute (funded by UAE), then moves to a Congressional committee and drafts legislation on Middle East policy. The revolving door launders foreign government preferences into U.S. legislative language.
 
@@ -71,7 +71,7 @@ The third unreported angle: **the asymmetry of power**. American think tanks can
 - U.S. international relationships: Foreign governments' interests substituted for American national interest
 - Domestic interest groups: Labor, environmental, consumer advocates can't compete with foreign government funding
 
-The class dynamic: Foreign ruling classes (UAE monarchy, UK establishment, Qatari capital) and American oligarchs (defense contractors) have converged on think tanks as the primary mechanism for purchasing legislative capacity. Congress becomes a machine that implements research papers written by foreign-funded institutions. Democracy becomes a formality — the policy is decided by whoever funds the research.
+The class dynamic: Foreign ruling classes (UAE monarchy, UK establishment, Qatari capital) and American oligarchs (defense contractors) have converged on think tanks as the primary mechanism for purchasing legislative capacity. Congress becomes a machine that implements research papers written by foreign-funded institutions. Democracy becomes a formality, the policy is decided by whoever funds the research.
 
 ### Investigation Roadmap
 

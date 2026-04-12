@@ -20,15 +20,15 @@ Joy-Ann Reid (born December 8, 1968) is a political commentator and former MSNBC
 
 Reid's career path: Harvard graduate → Florida radio host → press aide for Barack Obama's 2008 Florida campaign → managing editor of TheGrio.com → MSNBC contributor (2011) → host of *Reid Report* (2014, canceled after one year) → national correspondent and weekend host of *AM Joy* (2016-2020) → *The ReidOut* primetime (2020-2025).
 
-At peak, *The ReidOut* averaged 1.3 million viewers (Feb 2024), but declined to 973,000 by Feb 2025 — a 25% drop that coincided with MSNBC's broader post-election viewership collapse. Reid was fired February 25, 2025 as part of new MSNBC president Rebecca Kutler's programming overhaul. Her final episode aired February 24, 2025.
+At peak, *The ReidOut* averaged 1.3 million viewers (Feb 2024), but declined to 973,000 by Feb 2025, a 25% drop that coincided with MSNBC's broader post-election viewership collapse. Reid was fired February 25, 2025 as part of new MSNBC president Rebecca Kutler's programming overhaul. Her final episode aired February 24, 2025.
 
-After her firing, Reid disclosed she was paid $3 million per year — and stated publicly she earned "a tenth of the salary" of some fellow MSNBC hosts (a pointed comparison to Rachel Maddow's $25-30M/yr). Her 7 PM slot was replaced by a panel show featuring Alicia Menendez, Michael Steele, and Symone Sanders-Townsend.
+After her firing, Reid disclosed she was paid $3 million per year, and stated publicly she earned "a tenth of the salary" of some fellow MSNBC hosts (a pointed comparison to Rachel Maddow's $25-30M/yr). Her 7 PM slot was replaced by a panel show featuring Alicia Menendez, Michael Steele, and Symone Sanders-Townsend.
 
 ### The Funding Model
 
-Reid's income was entirely institutional during her MSNBC tenure — $3 million per year from Comcast/NBCUniversal, with no significant independent revenue streams. Unlike many media figures in this vault who built alternative platforms (Substack, Patreon, YouTube), Reid remained entirely dependent on her MSNBC contract.
+Reid's income was entirely institutional during her MSNBC tenure, $3 million per year from Comcast/NBCUniversal, with no significant independent revenue streams. Unlike many media figures in this vault who built alternative platforms (Substack, Patreon, YouTube), Reid remained entirely dependent on her MSNBC contract.
 
-Post-firing, Reid's funding model is in transition. She has maintained a social media presence and has appeared on other outlets, but has not announced a major independent platform launch. Her situation mirrors Don Lemon's post-CNN trajectory — a high-profile institutional host left without an independent platform when the institution decided to cut.
+Post-firing, Reid's funding model is in transition. She has maintained a social media presence and has appeared on other outlets, but has not announced a major independent platform launch. Her situation mirrors Don Lemon's post-CNN trajectory, a high-profile institutional host left without an independent platform when the institution decided to cut.
 
 The $3M salary, while substantial, reveals institutional racial pay disparity: Reid delivered comparable or stronger ratings to several white colleagues who earned multiples of her salary. She identified this publicly after her departure, stating the pay gap existed throughout her tenure.
 
@@ -46,23 +46,23 @@ No FEC individual contributions found. The FEC API returns 0 results for both "R
 
 ### Who Funds Them
 
-**Comcast/NBCUniversal → Versant/MS NOW** — sole funder during MSNBC tenure. Reid had zero disclosed corporate sponsors, no independent media company, no Patreon or subscription product. The corporate parent was the entire funding model.
+**Comcast/NBCUniversal → Versant/MS NOW**, sole funder during MSNBC tenure. Reid had zero disclosed corporate sponsors, no independent media company, no Patreon or subscription product. The corporate parent was the entire funding model.
 
-**No billionaire investors, no VC funding, no dark money.** Unlike many figures in this vault (Weiss/Andreessen, Pakman/Sixteen Thirty Fund, Daily Wire/Wilks Brothers), Reid's funding was transparently institutional — which also meant transparently revocable. When the institution decided to cut costs, Reid had no alternative income to fall back on.
+**No billionaire investors, no VC funding, no dark money.** Unlike many figures in this vault (Weiss/Andreessen, Pakman/Sixteen Thirty Fund, Daily Wire/Wilks Brothers), Reid's funding was transparently institutional, which also meant transparently revocable. When the institution decided to cut costs, Reid had no alternative income to fall back on.
 
 ### What They Push
 
-Reid's editorial lane was **progressive identity politics with institutional Democratic loyalty** — she provided the most consistent Black progressive perspective on cable news while remaining aligned with the Democratic establishment on most structural questions.
+Reid's editorial lane was **progressive identity politics with institutional Democratic loyalty**, she provided the most consistent Black progressive perspective on cable news while remaining aligned with the Democratic establishment on most structural questions.
 
 Key narrative functions: anti-Trump mobilization (Reid was among the most aggressive anti-Trump voices on cable news throughout both terms), racial justice framing (centered race in political analysis more consistently than any other MSNBC host), Democratic voter engagement (directly addressed Black voter turnout and enthusiasm), and establishment Democratic defense (criticized progressive insurgents who threatened party unity while supporting the party's institutional candidates).
 
 ### The Audience Capture Model
 
-Reid's audience capture operated through **identity representation** — she was MSNBC's most prominent Black woman host, which created a specific audience relationship that the network needed for credibility with Black viewers but was unwilling to compensate at parity with white hosts.
+Reid's audience capture operated through **identity representation**, she was MSNBC's most prominent Black woman host, which created a specific audience relationship that the network needed for credibility with Black viewers but was unwilling to compensate at parity with white hosts.
 
-The capture mechanism created a trap: Reid's audience valued her specifically because she was a Black progressive voice on a major platform. Leaving MSNBC for an independent platform would sacrifice the institutional reach that made her voice matter to that audience. But staying meant accepting a salary one-tenth of white colleagues doing comparable work — a structural race-class trap that mirrors the broader dynamics Reid covered on her show.
+The capture mechanism created a trap: Reid's audience valued her specifically because she was a Black progressive voice on a major platform. Leaving MSNBC for an independent platform would sacrifice the institutional reach that made her voice matter to that audience. But staying meant accepting a salary one-tenth of white colleagues doing comparable work, a structural race-class trap that mirrors the broader dynamics Reid covered on her show.
 
-The blog controversy (2018) demonstrated institutional protection as a form of capture: when old blog posts surfaced containing homophobic content (Reid initially claimed the blog was hacked, later apologized), MSNBC stood behind her. This institutional protection deepened the dependency — Reid owed her continued career to the network's willingness to weather the controversy.
+The blog controversy (2018) demonstrated institutional protection as a form of capture: when old blog posts surfaced containing homophobic content (Reid initially claimed the blog was hacked, later apologized), MSNBC stood behind her. This institutional protection deepened the dependency. Reid owed her continued career to the network's willingness to weather the controversy.
 
 ### What Their Funders Got
 
@@ -75,23 +75,23 @@ The blog controversy (2018) demonstrated institutional protection as a form of c
 | Date | Event | Key Players | Amount | Significance |
 |------|-------|-------------|--------|--------------|
 | 2008 | Press aide for Obama's Florida campaign | Reid, Obama campaign | N/A | Direct political work → media pipeline origin |
-| 2011 | Joins MSNBC as contributor | Reid, MSNBC/Comcast | N/A | Institutional capture begins — political operative enters media |
-| 2014 | *Reid Report* launches and cancels within a year | MSNBC | N/A | First show fails; Reid retained as contributor — institutional loyalty rewarded |
+| 2011 | Joins MSNBC as contributor | Reid, MSNBC/Comcast | N/A | Institutional capture begins, political operative enters media |
+| 2014 | *Reid Report* launches and cancels within a year | MSNBC | N/A | First show fails; Reid retained as contributor, institutional loyalty rewarded |
 | 2016 | *AM Joy* launches (weekend mornings) | MSNBC | N/A | Weekend slot limits reach but builds loyal audience |
-| Apr 2018 | Blog controversy: homophobic posts surface, hacking claim collapses | Reid, MSNBC | N/A | Network stands behind Reid — institutional protection deepens dependency |
-| Jul 2020 | *The ReidOut* launches in 7 PM primetime | MSNBC | ~$3M/yr | Peak institutional investment — primetime slot during Trump era ratings boom |
+| Apr 2018 | Blog controversy: homophobic posts surface, hacking claim collapses | Reid, MSNBC | N/A | Network stands behind Reid, institutional protection deepens dependency |
+| Jul 2020 | *The ReidOut* launches in 7 PM primetime | MSNBC | ~$3M/yr | Peak institutional investment, primetime slot during Trump era ratings boom |
 | Nov 2024 | Post-election ratings collapse across MSNBC | MSNBC, all hosts | N/A | Viewership drops 25%+; institutional cost-cutting begins |
 | Feb 2025 | Fired from MSNBC; final episode Feb 24 | Rebecca Kutler, MSNBC | N/A | New network president eliminates Reid's show in programming overhaul |
-| Aug 2025 | Publicly discloses earning "a tenth" of white colleagues' salaries | Reid | $3M/yr vs. ~$30M | Racial pay disparity revelation — names the institutional exploitation |
+| Aug 2025 | Publicly discloses earning "a tenth" of white colleagues' salaries | Reid | $3M/yr vs. ~$30M | Racial pay disparity revelation, names the institutional exploitation |
 
 > [!money]
 > The timeline reveals institutional media's race-class extraction model in miniature. MSNBC hired Reid from Obama's political operation, gave her progressively larger platforms as her audience grew, paid her one-tenth of comparable white hosts, used her to validate the network's diversity credentials, then fired her when ratings dipped — after 14 years of institutional service. The $3M vs. $30M pay gap is the receipt: the network valued Black progressive representation enough to feature it in primetime, but not enough to pay market rate for it.
 
 ### Class Analysis
 
-Reid's case exposes the **racial dimension of media institutional capture** that the vault's other profiles don't fully address. Most media figures in this vault face a simple choice: institutional salary vs. independent platform. Reid faced a compounded version: as a Black woman, her institutional value was specifically tied to identity representation that had no obvious independent-platform equivalent. The vault's right-wing and centrist figures who leave institutions (Carlson, Greenwald, Megyn Kelly) can build independent platforms because their audiences follow ideological brands. Reid's audience followed both her ideological perspective AND her identity-specific representation — a combination much harder to monetize independently.
+Reid's case exposes the **racial dimension of media institutional capture** that the vault's other profiles don't fully address. Most media figures in this vault face a simple choice: institutional salary vs. independent platform. Reid faced a compounded version: as a Black woman, her institutional value was specifically tied to identity representation that had no obvious independent-platform equivalent. The vault's right-wing and centrist figures who leave institutions (Carlson, Greenwald, Megyn Kelly) can build independent platforms because their audiences follow ideological brands. Reid's audience followed both her ideological perspective AND her identity-specific representation, a combination much harder to monetize independently.
 
-The $3M salary — while objectively high — becomes a tool of class analysis when compared to the $30M paid to white colleagues. MSNBC extracted the diversity credential that Reid's presence provided, paid a fraction of market rate for it, and discarded her when the cost-benefit equation shifted. This is the same donor-class logic the vault documents in politicians: extract value from progressive representation while ensuring the economic structure remains untouched.
+The $3M salary, while objectively high, becomes a tool of class analysis when compared to the $30M paid to white colleagues. MSNBC extracted the diversity credential that Reid's presence provided, paid a fraction of market rate for it, and discarded her when the cost-benefit equation shifted. This is the same donor-class logic the vault documents in politicians: extract value from progressive representation while ensuring the economic structure remains untouched.
 
 > [!contradiction]
 > Reid spent 14 years on a platform owned by Comcast — one of the most aggressive corporate lobbying operations in America — analyzing how corporate money corrupts politics. Comcast spent $15.9M on federal lobbying in 2023 alone and has donated to politicians across the spectrum, including many Reid criticized on air. Her progressive commentary existed within and was funded by the exact corporate-political infrastructure she described as corrupt. The contradiction is structural, not personal — and it's the same contradiction that defines every institutional media figure in this vault.
@@ -99,7 +99,7 @@ The $3M salary — while objectively high — becomes a tool of class analysis w
 ### Capture Architecture
 
 **Platform funder:** Comcast/NBCUniversal → Versant/MS NOW (sole income source, $3M/yr until Feb 2025 firing)
-**Income dependency:** 100% institutional during MSNBC tenure — zero alternative revenue streams; post-firing income model unestablished
+**Income dependency:** 100% institutional during MSNBC tenure, zero alternative revenue streams; post-firing income model unestablished
 **Editorial red lines:** Could not critique Comcast corporate interests or MSNBC institutional decisions; identity-specific audience made independent platform transition structurally harder than for white counterparts; pay disparity accepted for 14 years as the cost of institutional access
 
 ### Sources

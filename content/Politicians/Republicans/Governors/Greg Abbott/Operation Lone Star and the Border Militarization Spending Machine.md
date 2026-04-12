@@ -39,7 +39,7 @@ Operation Lone Star has cost Texas $11 billion+ since its March 2021 launch. Thi
 
 For comparison: $11 billion is roughly equal to Texas's entire state budget for higher education, community colleges, or workforce development. It exceeds the state's annual allocation for mental health services. It is nearly double the state's annual allocation for the justice system's public defender system.
 
-This is the largest sustained military operation launched by a Texas governor in modern history — larger in cost than border patrol operations, larger in scope than National Guard peacetime deployments.
+This is the largest sustained military operation launched by a Texas governor in modern history, larger in cost than border patrol operations, larger in scope than National Guard peacetime deployments.
 
 ### Migrant Busing Program
 A subset of Operation Lone Star budget: transporting 100,000+ migrant asylum seekers to cities like New York, Chicago, Denver. Abbott markets this as a solution to border security. The actual function: create a spectacle of immigration enforcement (buses leaving Texas with migrant families) and distribute the political cost of immigration policy to Democratic-controlled cities while maintaining Abbott's image as a border warrior.
@@ -58,7 +58,7 @@ Operation Lone Star's $11 billion+ flows primarily to:
 - **Private security companies:** Border security contractors
 - **Real estate developers:** Land acquisition, facility site development
 
-These contractor networks overlap significantly with Abbott's donor base. Real estate/construction is consistently one of his top donor sectors. The operation converts campaign contributions into government contracts — the classic donor-payback loop.
+These contractor networks overlap significantly with Abbott's donor base. Real estate/construction is consistently one of his top donor sectors. The operation converts campaign contributions into government contracts, the classic donor-payback loop.
 
 ### Documented Contractor Profits
 Research remains incomplete on which specific contractors have been awarded which contract amounts. This is intentional opacity: military construction contracts are less scrutinized than civilian budget appropriations. A serious research effort would:
@@ -87,7 +87,7 @@ Immigration and foreign policy experts note that migration patterns are driven b
 - International events (political upheaval, natural disasters)
 - Seasonal patterns and smuggling network routes
 
-Abbott's Operation Lone Star is one variable among many. Whether the operation has caused a reduction in migration attempts — rather than the reduction reflecting other policy or economic factors — remains disputed.
+Abbott's Operation Lone Star is one variable among many. Whether the operation has caused a reduction in migration attempts, rather than the reduction reflecting other policy or economic factors, remains disputed.
 
 ### Court Findings
 Federal courts have examined Operation Lone Star in immigration cases. The findings: no documented evidence that the operation has reduced illegal migration patterns. The operation exists primarily as political theater and budget allocation mechanism, not as effective border enforcement.
@@ -108,14 +108,14 @@ For the fossil fuel donor class: this is ideal. The border spectacle consumes po
 Operation Lone Star has become Abbott's signature policy and his primary reelection message. It differentiates him from other Republican governors and demonstrates aggressive action on the issue that GOP base voters most care about. The operation is campaign infrastructure disguised as border security.
 
 ### Donor Access and Relationship Maintenance
-The $11 billion+ spending program creates a permanent donor class: contractors who profit from the operation, real estate interests who benefit from facility development, military suppliers who sell equipment. These donors have vested interest in the operation's continuation and expansion. Operation Lone Star is not just policy — it is a recurring donor network service.
+The $11 billion+ spending program creates a permanent donor class: contractors who profit from the operation, real estate interests who benefit from facility development, military suppliers who sell equipment. These donors have vested interest in the operation's continuation and expansion. Operation Lone Star is not just policy, it is a recurring donor network service.
 
 ---
 
 ### [[Timothy Mellon|Timothy Mellon]] and the Border Wall Fund
 
 ### The $53.1 Million Donation
-[[Timothy Mellon|Timothy Mellon]], railway and banking heir, has donated $53.1 million to Abbott's border wall fund — 98% of all private donations to the fund. Mellon's investment purchased:
+[[Timothy Mellon|Timothy Mellon]], railway and banking heir, has donated $53.1 million to Abbott's border wall fund, 98% of all private donations to the fund. Mellon's investment purchased:
 
 - A political brand: Abbott as "border warrior"
 - Physical infrastructure: border wall sections (a fraction of the Texas-Mexico border)
@@ -150,7 +150,7 @@ Mellon's investment is in Abbott's political brand, not in border security outco
 
 ### The Border-Fossil Fuel Donor Overlap
 
-Abbott's two signature policies — fossil fuel deregulation and border militarization — serve overlapping donor classes:
+Abbott's two signature policies, fossil fuel deregulation and border militarization, serve overlapping donor classes:
 
 - **Oil/gas interests:** Benefit from deregulation; donate to Abbott
 - **Fossil fuel executives:** Donate; create climate of anti-regulation philosophy

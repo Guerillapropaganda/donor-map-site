@@ -72,7 +72,7 @@ audit-a-plus-passed: "2026-04-11"
 
 AFPM represents U.S. refiners and petrochemical manufacturers that produce nearly all domestic gasoline, diesel, jet fuel, heating oil, and petrochemicals. Founded 1902 as the National Petroleum Association, became the National Petrochemical & Refiners Association (1998), adopted the AFPM name in 2012. Headquartered in Washington, D.C. President/CEO Chet Thompson has led the organization since 2015 ($4.5M total compensation in 2023). Funded almost entirely by membership dues (98%+ of revenue).
 
-As a 501(c)(6) trade association, AFPM exists to lobby on behalf of its member companies — it is the fossil fuel industry's collective voice in Washington.
+As a 501(c)(6) trade association, AFPM exists to lobby on behalf of its member companies, it is the fossil fuel industry's collective voice in Washington.
 
 ---
 
@@ -118,7 +118,7 @@ AFPM actively opposes the Renewable Fuel Standard, carbon taxes, EV mandates, an
 
 ### Class Analysis
 
-AFPM is the fossil fuel industry's collective action vehicle — a $61.4M trade association funded by membership dues that turns individual corporate interests into coordinated lobbying power. The $8.95M in 2024 lobbying buys direct access to legislators and regulators on behalf of every major refiner and petrochemical manufacturer in the country. The $842K in PAC contributions to Republican leadership PACs is strategic: rather than funding individual candidates, AFPM funds the party infrastructure that controls committee assignments, floor votes, and the legislative calendar. The CEO's $4.5M compensation reflects the value the member companies place on this function — it's cheaper than each company lobbying individually, and the trade association structure provides cover ("AFPM opposes the carbon tax" sounds different from "ExxonMobil opposes the carbon tax").
+AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade association funded by membership dues that turns individual corporate interests into coordinated lobbying power. The $8.95M in 2024 lobbying buys direct access to legislators and regulators on behalf of every major refiner and petrochemical manufacturer in the country. The $842K in PAC contributions to Republican leadership PACs is strategic: rather than funding individual candidates, AFPM funds the party infrastructure that controls committee assignments, floor votes, and the legislative calendar. The CEO's $4.5M compensation reflects the value the member companies place on this function, it's cheaper than each company lobbying individually, and the trade association structure provides cover ("AFPM opposes the carbon tax" sounds different from "ExxonMobil opposes the carbon tax").
 
 > [!contradiction]
 > AFPM member companies increasingly publish sustainability reports and net-zero pledges. Meanwhile, the trade association they fund collectively spends nearly $9M/year lobbying against the regulations that would make those pledges binding. InfluenceMap has documented this gap systematically — the companies say one thing publicly while their trade association does the opposite in Washington.
@@ -142,7 +142,7 @@ AFPM is the fossil fuel industry's collective action vehicle — a $61.4M trade 
 
 ---
 
-research-status:: draft — Financial profile, lobbying expenditures, and PAC contributions documented. One URL flagged as broken (AFPM exec orders statement — 404). Gaps: complete member company list, detailed lobbying issue breakdown by bill, specific policy outcomes tied to lobbying expenditures, historical lobbying spend trend. OpenSecrets and ProPublica 990 data provide strongest sourcing.
+research-status:: draft. Financial profile, lobbying expenditures, and PAC contributions documented. One URL flagged as broken (AFPM exec orders statement, 404). Gaps: complete member company list, detailed lobbying issue breakdown by bill, specific policy outcomes tied to lobbying expenditures, historical lobbying spend trend. OpenSecrets and ProPublica 990 data provide strongest sourcing.
 
 ---
 

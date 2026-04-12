@@ -62,11 +62,11 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-NORPAC (founded 1992 by Rabbi Menachem Genack, based in Englewood Cliffs, New Jersey) describes itself as "the most active grassroots political action committee supporting the critically important U.S.-Israel relationship." FEC registration dates to July 30, 1990; the organization became operationally active by 1992. Its model is fundamentally different from [[AIPAC - American Israel Public Affairs Committee|AIPAC]]'s mass-lobbying approach — centered on intimate donor dinners that create direct personal relationships between politicians and pro-Israel donors.
+NORPAC (founded 1992 by Rabbi Menachem Genack, based in Englewood Cliffs, New Jersey) describes itself as "the most active grassroots political action committee supporting the critically important U.S.-Israel relationship." FEC registration dates to July 30, 1990; the organization became operationally active by 1992. Its model is fundamentally different from [[AIPAC - American Israel Public Affairs Committee|AIPAC]]'s mass-lobbying approach, centered on intimate donor dinners that create direct personal relationships between politicians and pro-Israel donors.
 
-NORPAC operates through a decentralized, volunteer-driven system: funded and led entirely by volunteers, meaning "100% of every dollar raised goes directly to the pro-Israel candidates we support" with no overhead deduction. This passthrough model makes NORPAC unique in the pro-Israel ecosystem. Led by president Dr. Ben Chouake (New Jersey physician), who stated in a 2009 debate with J Street's Jeremy Ben-Ami that NORPAC's "job is to defend Israel in Congress" — which he defined as never criticizing Israeli policies or U.S. support for them in congressional settings.
+NORPAC operates through a decentralized, volunteer-driven system: funded and led entirely by volunteers, meaning "100% of every dollar raised goes directly to the pro-Israel candidates we support" with no overhead deduction. This passthrough model makes NORPAC unique in the pro-Israel ecosystem. Led by president Dr. Ben Chouake (New Jersey physician), who stated in a 2009 debate with J Street's Jeremy Ben-Ami that NORPAC's "job is to defend Israel in Congress", which he defined as never criticizing Israeli policies or U.S. support for them in congressional settings.
 
-Some observers have characterized NORPAC as an informal auxiliary arm of AIPAC, taking more explicit public positions than AIPAC is willing to take. During the 2013 Chuck Hagel defense secretary confirmation fight, AIPAC remained officially neutral while NORPAC president Chouake published an op-ed arguing Hagel's nomination was "problematic and should be declined." Several current and former AIPAC leaders — including president Michael Kassen and former president David Steiner — have personally donated thousands of dollars through NORPAC's bundling network. In contrast to AIPAC (which lobbies but does not donate directly to candidates), NORPAC donates money directly to political campaigns and bundles individual donations.
+Some observers have characterized NORPAC as an informal auxiliary arm of AIPAC, taking more explicit public positions than AIPAC is willing to take. During the 2013 Chuck Hagel defense secretary confirmation fight, AIPAC remained officially neutral while NORPAC president Chouake published an op-ed arguing Hagel's nomination was "problematic and should be declined." Several current and former AIPAC leaders, including president Michael Kassen and former president David Steiner, have personally donated thousands of dollars through NORPAC's bundling network. In contrast to AIPAC (which lobbies but does not donate directly to candidates), NORPAC donates money directly to political campaigns and bundles individual donations.
 
 ---
 
@@ -135,7 +135,7 @@ NORPAC's strategic innovation is the intimate donor dinner model:
 
 **Home-based fundraisers**: NORPAC members host sitting members of Congress and candidates at private residences, typically in affluent New Jersey communities. Senate Majority Leader Mitch McConnell attended a "roundtable discussion" at the Gontownik family home in Englewood; Congressman Dan Lipinski was hosted at the Pfeiffer home.
 
-**Earmark donation bundling**: Donors write checks to NORPAC and specify the recipient in the memo line. NORPAC submits bundled donations under its name, ensuring campaigns know the donations come "because of a specific issue — a strong U.S.-Israel relationship." As NORPAC's Dr. Ben Chouake explained, "It's as if they're giving it directly."
+**Earmark donation bundling**: Donors write checks to NORPAC and specify the recipient in the memo line. NORPAC submits bundled donations under its name, ensuring campaigns know the donations come "because of a specific issue, a strong U.S.-Israel relationship." As NORPAC's Dr. Ben Chouake explained, "It's as if they're giving it directly."
 
 **Bipartisan by design**: NORPAC hosts fundraisers for any candidate if a member is willing to organize it, provided the candidate supports the U.S.-Israel relationship.
 
@@ -170,13 +170,13 @@ NORPAC's signature event is its annual Mission to Washington, a lobbying day on 
 
 ---
 
-### Class Analysis — Intimate Donor Access as Political Currency
+### Class Analysis. Intimate Donor Access as Political Currency
 
-NORPAC's strength lies in the quality of its political relationships, not the quantity of its dollars. The dinner fundraiser model creates the most intimate donor-politician connection in the pro-Israel ecosystem — direct interaction, personal conversation, direct feedback on policy to sitting members and presidential candidates.
+NORPAC's strength lies in the quality of its political relationships, not the quantity of its dollars. The dinner fundraiser model creates the most intimate donor-politician connection in the pro-Israel ecosystem, direct interaction, personal conversation, direct feedback on policy to sitting members and presidential candidates.
 
-The 1,200-person Mission to Washington represents concentrated, organized donor pressure on Capitol Hill. The fact that Sens. Lankford and Boozman (both solidly Republican) attend alongside Torres (solidly Democratic) shows that NORPAC's bipartisan approach works — it's the pro-Israel issue itself, not partisan alignment, that brings politicians to the table.
+The 1,200-person Mission to Washington represents concentrated, organized donor pressure on Capitol Hill. The fact that Sens. Lankford and Boozman (both solidly Republican) attend alongside Torres (solidly Democratic) shows that NORPAC's bipartisan approach works, it's the pro-Israel issue itself, not partisan alignment, that brings politicians to the table.
 
-For the vault's framework: NORPAC operates at a different tier than AIPAC or DMFI. While AIPAC/DMFI use massive funding ($100M+) to enforce pro-Israel alignment through primary threat and direct contributions, NORPAC uses modest funding ($3.4M) + relationship-building dinners to maintain direct access to key decision-makers. This is the "velvet glove" approach to donor power — not coercion, but intimacy.
+For the vault's framework: NORPAC operates at a different tier than AIPAC or DMFI. While AIPAC/DMFI use massive funding ($100M+) to enforce pro-Israel alignment through primary threat and direct contributions, NORPAC uses modest funding ($3.4M) + relationship-building dinners to maintain direct access to key decision-makers. This is the "velvet glove" approach to donor power, not coercion, but intimacy.
 
 ---
 

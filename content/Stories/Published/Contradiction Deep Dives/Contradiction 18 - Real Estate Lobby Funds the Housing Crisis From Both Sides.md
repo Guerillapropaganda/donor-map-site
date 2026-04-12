@@ -18,16 +18,16 @@ tags: #analysis #story
 
 ---
 
-NAR spent $86.4 million on federal lobbying in 2024 — more than any other organization in the United States — a 10× increase from $17.6 million in 2010. The real estate sector total: $150.9 million in federal lobbying in 2024. Finance/insurance/real estate combined: $636 million. [Senate LDA Filings: NAR Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1), [RealEstateNews.com: NAR Spent More on Lobbying Than Any Other Group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
+NAR spent $86.4 million on federal lobbying in 2024, more than any other organization in the United States, a 10× increase from $17.6 million in 2010. The real estate sector total: $150.9 million in federal lobbying in 2024. Finance/insurance/real estate combined: $636 million. [Senate LDA Filings: NAR Lobbying Summary](https://lda.gov/filings/public/filing/search/) (Tier 1), [RealEstateNews.com: NAR Spent More on Lobbying Than Any Other Group in 2024](https://www.realestatenews.com/2025/02/14/nar-spent-more-on-lobbying-than-any-other-group-in-2024) (Tier 2)
 
-NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3% Republican in 2024; 50.7% Democrat / 49.3% Republican in 2022. RPAC raised $45.8 million in 2024. NAR gave $2 million to Senate Majority PAC (Democratic) and $1 million to Senate Leadership Fund (Republican) — buying both sides simultaneously. [OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
+NAR deliberately splits PAC money ~50/50 between parties: 43.7% Democrat / 56.3% Republican in 2024; 50.7% Democrat / 49.3% Republican in 2022. RPAC raised $45.8 million in 2024. NAR gave $2 million to Senate Majority PAC (Democratic) and $1 million to Senate Leadership Fund (Republican), buying both sides simultaneously. [OpenSecrets: NAR Totals](https://www.opensecrets.org/orgs/national-assn-of-realtors/totals?id=D000000062) (Tier 1)
 
 > [!money]
 > NAR is the #1 lobbying spender in America. It splits money 50/50 between parties. It gave $2M to the Democratic Senate super PAC and $1M to the Republican Senate super PAC in the same cycle. This is not hedging — it is purchasing bipartisan protection for the housing market status quo.
 
 ---
 
-### The Receipts — Top Recipients (2024)
+### The Receipts. Top Recipients (2024)
 
 ---
 
@@ -54,11 +54,11 @@ Democratic state senators who caucused with Republicans to block rent control fo
 
 ### California SB 50
 
-Sen. Anthony Portantino (D) killed California's most significant zoning reform bill after receiving $574,246 from real estate — over one-third of his total campaign funding. [City Journal: Who Killed Zoning Reform in California](https://www.city-journal.org/article/who-killed-zoning-reform-in-california) (Tier 2)
+Sen. Anthony Portantino (D) killed California's most significant zoning reform bill after receiving $574,246 from real estate, over one-third of his total campaign funding. [City Journal: Who Killed Zoning Reform in California](https://www.city-journal.org/article/who-killed-zoning-reform-in-california) (Tier 2)
 
 ### California Prop 33 (2024)
 
-The real estate lobby spent $121.7 million to defeat rent control — led by California Apartment Association ($85.8M), California Association of Realtors ($22M), and NAR ($5M). [Ballotpedia: California Proposition 33 (2024)](https://ballotpedia.org/California_Proposition_33,_Prohibit_State_Limitations_on_Local_Rent_Control_Initiative_(2024)) (Tier 2)
+The real estate lobby spent $121.7 million to defeat rent control, led by California Apartment Association ($85.8M), California Association of Realtors ($22M), and NAR ($5M). [Ballotpedia: California Proposition 33 (2024)](https://ballotpedia.org/California_Proposition_33,_Prohibit_State_Limitations_on_Local_Rent_Control_Initiative_(2024)) (Tier 2)
 
 > [!contradiction]
 > Democrats in New York blocked rent control for a decade while collecting developer money. A California Democrat killed the state's biggest zoning reform bill with one-third of his funding from real estate. The real estate lobby spent $121.7 million to defeat a rent control ballot measure in deep-blue California. Democratic voters want housing reform. Democratic politicians take the money that blocks it.
@@ -98,7 +98,7 @@ All provisions survived or were expanded in the 2025 OBBBA. Ways and Means Chair
 
 ---
 
-The housing crisis is not a market failure. It is a policy success — for the real estate lobby. NAR, the #1 lobbying spender in America, maintains a 50/50 bipartisan split because it needs both parties to protect the same tax provisions, block the same affordable housing reforms, and defeat the same rent control measures.
+The housing crisis is not a market failure. It is a policy success, for the real estate lobby. NAR, the #1 lobbying spender in America, maintains a 50/50 bipartisan split because it needs both parties to protect the same tax provisions, block the same affordable housing reforms, and defeat the same rent control measures.
 
 Democrats receive real estate money to block zoning reform (SB 50), kill rent control (NY IDC, Prop 33), and protect investor-class tax provisions (1031 exchanges, Opportunity Zones). Republicans receive real estate money to cut HUD funding, eliminate public housing capital, and frame housing as a pure market issue.
 

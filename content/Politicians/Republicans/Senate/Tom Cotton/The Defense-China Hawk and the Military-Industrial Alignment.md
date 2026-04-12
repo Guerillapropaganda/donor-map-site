@@ -9,7 +9,7 @@ related: "[[_Tom Cotton Master Profile]]"
 ---
 #tom-cotton #defense #china #armed-services #military #nyt-oped #immigration #class-analysis
 
-donors: [[Lockheed Martin]] · [[Boeing]] · (Defense contractors — no specific nodes)
+donors: [[Lockheed Martin]] · [[Boeing]] · (Defense contractors, no specific nodes)
 
 ---
 
@@ -22,11 +22,11 @@ donors: [[Lockheed Martin]] · [[Boeing]] · (Defense contractors — no specifi
 
 ### The "Send in the Troops" Op-Ed (June 2020)
 
-Cotton's NYT op-ed — titled "Send in the Troops" — advocated invoking the Insurrection Act to deploy military forces in U.S. cities during the George Floyd protests. Key language: called for an "overwhelming show of force to disperse, detain and ultimately deter lawbreakers."
+Cotton's NYT op-ed, titled "Send in the Troops", advocated invoking the Insurrection Act to deploy military forces in U.S. cities during the George Floyd protests. Key language: called for an "overwhelming show of force to disperse, detain and ultimately deter lawbreakers."
 
 The consequences:
 
-- NYT staff revolt — journalists staged walkout
+- NYT staff revolt, journalists staged walkout
 - Opinion editor James Bennet forced to resign
 - NYT retracted, stating the op-ed "did not meet our standards"
 - Cotton stood by the piece, calling the backlash proof of liberal media bias
@@ -49,7 +49,7 @@ Cotton co-authored the RAISE Act with David Perdue (R-GA):
 | Projected GDP impact | -0.7% by 2027, -2% by 2040 |
 | Projected job losses | 1.3M-4.6M |
 
-Cotton also opposed the First Step Act (bipartisan criminal justice reform) — calling it "the worst mistake of Trump's first term." His Cotton-Kennedy amendment (barring sex offenders from reduced sentences) was rejected 37-62. The bill passed 87-12 despite his opposition.
+Cotton also opposed the First Step Act (bipartisan criminal justice reform), calling it "the worst mistake of Trump's first term." His Cotton-Kennedy amendment (barring sex offenders from reduced sentences) was rejected 37-62. The bill passed 87-12 despite his opposition.
 
 ---
 
@@ -60,7 +60,7 @@ Cotton's military service (2005-2009) provides the political credential that shi
 - Army Infantry officer, Iraq deployment (2007-2008): led 41-man platoon, 506th Infantry Regiment
 - Afghanistan (2008-2009): operations officer, Provincial Reconstruction Team
 - Bronze Star, two Army Commendation Medals, Combat Infantryman Badge
-- Controversy: Campaign ads (2011-2014) described Cotton as "Army Ranger" — he completed Ranger School training but did not serve in the 75th Ranger Regiment
+- Controversy: Campaign ads (2011-2014) described Cotton as "Army Ranger", he completed Ranger School training but did not serve in the 75th Ranger Regiment
 
 The military credential is real but strategically deployed. The "warrior-senator" brand makes neoconservative foreign policy positions (Iran hawkishness, defense spending advocacy, military deployment against protesters) sound like they come from combat experience rather than donor-class preference. They come from both.
 

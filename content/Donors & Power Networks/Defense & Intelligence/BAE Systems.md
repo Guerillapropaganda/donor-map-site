@@ -65,9 +65,9 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-BAE Systems plc. The largest defense contractor in Europe and seventh-largest globally ($28 billion revenue, 2024), headquartered in London with major US operations through BAE Systems, Inc. — a domestically incorporated subsidiary required by US defense regulations. BAE Systems' US operations are based in Arlington, Virginia, with major facilities in Nashua, New Hampshire (Electronic Systems), York, Pennsylvania (Combat Vehicles), and Anniston, Alabama (vehicle maintenance).
+BAE Systems plc. The largest defense contractor in Europe and seventh-largest globally ($28 billion revenue, 2024), headquartered in London with major US operations through BAE Systems, Inc. a domestically incorporated subsidiary required by US defense regulations. BAE Systems' US operations are based in Arlington, Virginia, with major facilities in Nashua, New Hampshire (Electronic Systems), York, Pennsylvania (Combat Vehicles), and Anniston, Alabama (vehicle maintenance).
 
-BAE Systems Inc. PAC contributes $2-3 million per cycle in the US, with lobbying spending of $5-8 million annually. The company's US political operation is managed through its domestic subsidiary to comply with FARA requirements, but the funding ultimately flows to a UK parent company — making BAE the largest foreign defense contractor in US politics.
+BAE Systems Inc. PAC contributes $2-3 million per cycle in the US, with lobbying spending of $5-8 million annually. The company's US political operation is managed through its domestic subsidiary to comply with FARA requirements, but the funding ultimately flows to a UK parent company, making BAE the largest foreign defense contractor in US politics.
 
 - [OpenSecrets: BAE Systems organizational profile](https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236) (Tier 1)
 
@@ -81,7 +81,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 ### What They've Gotten
 
-**Bradley Replacement:** BAE Systems is the prime contractor for the Armored Multi-Purpose Vehicle (AMPV) and a competitor for the Optionally Manned Fighting Vehicle (OMFV) — the Bradley Fighting Vehicle's replacement. These programs represent $30-50 billion in long-term contract value. BAE's York, Pennsylvania facility produces all Bradley variants and would produce the replacement — creating jobs in a politically critical swing state.
+**Bradley Replacement:** BAE Systems is the prime contractor for the Armored Multi-Purpose Vehicle (AMPV) and a competitor for the Optionally Manned Fighting Vehicle (OMFV), the Bradley Fighting Vehicle's replacement. These programs represent $30-50 billion in long-term contract value. BAE's York, Pennsylvania facility produces all Bradley variants and would produce the replacement, creating jobs in a politically critical swing state.
 
 **New Hampshire Political Alignment:** BAE's Electronic Systems division in Nashua employs 7,000+ workers, making BAE the largest private employer in New Hampshire. Both New Hampshire senators ([[_Jeanne Shaheen Master Profile|Shaheen]] and Maggie Hassan) sit on committees with defense jurisdiction, and BAE's New Hampshire employment ensures bipartisan defense spending support from the state.
 
@@ -111,7 +111,7 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2022)
+### Financial Overview (990 Filing, 2022)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

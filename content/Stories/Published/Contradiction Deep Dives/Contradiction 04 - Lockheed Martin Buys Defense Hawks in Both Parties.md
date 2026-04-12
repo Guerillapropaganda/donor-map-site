@@ -27,32 +27,32 @@ The partisan theater of Congress stops at the Pentagon's door. Across defense sp
 
 On defense, they are indistinguishable.
 
-Granger, chair of the House Appropriations defense subcommittee, pushed Congress to buy 16 more F-35s than the Pentagon requested in FY2019. DeLauro, as ranking member, did not object—she had her own F-35 substitute: securing $507 million for Sikorsky helicopters (a [[Lockheed Martin|Lockheed Martin]] subsidiary) in her Connecticut district. When DeLauro held the gavel in 2021-2022, she announced $185.7 million in additional Sikorsky funding, and another $26 million in subsequent months.
+Granger, chair of the House Appropriations defense subcommittee, pushed Congress to buy 16 more F-35s than the Pentagon requested in FY2019. DeLauro, as ranking member, did not object, she had her own F-35 substitute: securing $507 million for Sikorsky helicopters (a [[Lockheed Martin|Lockheed Martin]] subsidiary) in her Connecticut district. When DeLauro held the gavel in 2021-2022, she announced $185.7 million in additional Sikorsky funding, and another $26 million in subsequent months.
 
-[!contradiction] Both claimed to represent their constituents' interests. But Granger's district contains the [[Lockheed Martin|Lockheed Martin]] F-35 assembly plant. DeLauro's district contains the Sikorsky headquarters. The "opposition" was about carving up Lockheed's budget pie—not questioning the pie itself.
+[!contradiction] Both claimed to represent their constituents' interests. But Granger's district contains the [[Lockheed Martin|Lockheed Martin]] F-35 assembly plant. DeLauro's district contains the Sikorsky headquarters. The "opposition" was about carving up Lockheed's budget pie, not questioning the pie itself.
 
-Mark Kelly (D-AZ) tells voters he opposes corporate PAC money and ran on a platform of campaign finance reform. The OpenSecrets record shows he received $112,500 from defense contractor PACs in a single cycle—Raytheon, [[Boeing|Boeing]], Comcast, Lockheed Martin, Northrop Grumman combined. He sits on the Armed Services Committee as ranking member of the Airland Subcommittee. When defense spending rises, Kelly's voting record moves in lockstep.
+Mark Kelly (D-AZ) tells voters he opposes corporate PAC money and ran on a platform of campaign finance reform. The OpenSecrets record shows he received $112,500 from defense contractor PACs in a single cycle, Raytheon, [[Boeing|Boeing]], Comcast, Lockheed Martin, Northrop Grumman combined. He sits on the Armed Services Committee as ranking member of the Airland Subcommittee. When defense spending rises, Kelly's voting record moves in lockstep.
 
 The contradiction is structural, not accidental.
 
 ---
 #analysis
 
-### The Receipts — Temporal Mapping
+### The Receipts. Temporal Mapping
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2018-01-01 | Lockheed Martin contributes to Kay Granger (2018 cycle) | $131,940 | OpenSecrets |
-| 2019-01-01 | Kay Granger pushes Congress for 16 additional F-35s above Pentagon request (FY2019) | — | House Appropriations |
-| 2015-01-01 | Kay Granger founds F-35 Caucus, assumes Appropriations subcommittee chair role | — | Congress |
+| 2019-01-01 | Kay Granger pushes Congress for 16 additional F-35s above Pentagon request (FY2019) |, | House Appropriations |
+| 2015-01-01 | Kay Granger founds F-35 Caucus, assumes Appropriations subcommittee chair role |, | Congress |
 | 2021-01-01 | Lockheed Martin contributes to Rosa DeLauro (2021-2022 cycle) | $74,480 | OpenSecrets |
 | 2021-01-01 | DeLauro announces $185.7M Sikorsky helicopter funding | $185.7M | House Appropriations |
 | 2024-01-01 | DeLauro announces additional $26M Sikorsky funding | $26M | House Appropriations |
 | 2024-01-01 | Defense PACs contribute to Mark Kelly (combined) | $112,500 | OpenSecrets |
-| 2024-12-14 | Democratic Caucus receives 45.23% of Lockheed Martin PAC money (2023-2024) | — | OpenSecrets |
-| 2024-09-26 | 81 Democrats vote for FY2025 defense authorization bill | — | House Vote |
+| 2024-12-14 | Democratic Caucus receives 45.23% of Lockheed Martin PAC money (2023-2024) |, | OpenSecrets |
+| 2024-09-26 | 81 Democrats vote for FY2025 defense authorization bill |, | House Vote |
 
-[!money] In 2023-2024, Lockheed Martin gave 42.16% of its PAC contributions to Democratic candidates and 57.14% to Republicans—a roughly 45/55 split that tracks the donor class strategy perfectly. When defense votes come, party differences evaporate.
+[!money] In 2023-2024, Lockheed Martin gave 42.16% of its PAC contributions to Democratic candidates and 57.14% to Republicans, a roughly 45/55 split that tracks the donor class strategy perfectly. When defense votes come, party differences evaporate.
 
 ---
 
@@ -60,15 +60,15 @@ The contradiction is structural, not accidental.
 
 The program is unkillable by design. Lockheed Martin's supply chain spans 45 states and Puerto Rico. F-35 parts are manufactured in Democratic and Republican districts, creating a distributed political coalition that no legislator can afford to attack.
 
-When a member of Congress votes against the F-35, they vote against jobs in their district. When a member votes for extra F-35s above Pentagon request, they can claim they're protecting employment. The geographic distribution is not a side effect—it is the central strategy.
+When a member of Congress votes against the F-35, they vote against jobs in their district. When a member votes for extra F-35s above Pentagon request, they can claim they're protecting employment. The geographic distribution is not a side effect, it is the central strategy.
 
 Key production locations include:
 
-- **Fort Worth, Texas** — Main assembly plant (Kay Granger's district). Approximately 2,800 jobs.
-- **Stratford, Connecticut** — Sikorsky helicopters, a Lockheed subsidiary (Rosa DeLauro's district). 7,000+ jobs.
-- **Secondary suppliers across 43 additional states** — Every state has Lockheed exposure.
+- **Fort Worth, Texas**. Main assembly plant (Kay Granger's district). Approximately 2,800 jobs.
+- **Stratford, Connecticut**. Sikorsky helicopters, a Lockheed subsidiary (Rosa DeLauro's district). 7,000+ jobs.
+- **Secondary suppliers across 43 additional states**. Every state has Lockheed exposure.
 
-The Pentagon requested 68 F-35s for FY2025. Appropriators approved 76—eight above request. When pressed on the overages, Granger's office cited the economic impact: $72 billion annually into the American economy. Not a strategic need. Not a military requirement. Economic impact.
+The Pentagon requested 68 F-35s for FY2025. Appropriators approved 76, eight above request. When pressed on the overages, Granger's office cited the economic impact: $72 billion annually into the American economy. Not a strategic need. Not a military requirement. Economic impact.
 
 [!quote] From Lockheed Martin's website: "The F-35 program brings approximately $72 billion into the American economy each year." This is not a secret. It is the explicit argument for why the program must expand, regardless of cost or performance.
 
@@ -76,14 +76,14 @@ The Pentagon requested 68 F-35s for FY2025. Appropriators approved 76—eight ab
 
 ### The Bipartisan Defense Budget
 
-The votes prove it. The FY2024 National Defense Authorization Act passed 87-13—a supermajority in the Senate. The House passed the FY2025 authorization 281-140, with 81 Democrats voting with 200 Republicans. Party divisions on healthcare, taxes, immigration, and social spending disappear when the Pentagon's budget arrives.
+The votes prove it. The FY2024 National Defense Authorization Act passed 87-13, a supermajority in the Senate. The House passed the FY2025 authorization 281-140, with 81 Democrats voting with 200 Republicans. Party divisions on healthcare, taxes, immigration, and social spending disappear when the Pentagon's budget arrives.
 
 FY2024 Defense Spending: $825 billion (Senate 74-24 bipartisan vote).
 FY2025 Defense Spending: $852.2 billion (Senate Appropriations Committee vote: unanimous).
 
-[!contradiction] The bipartisan defense vote margin is wider than the Democratic-only healthcare votes. Medicare expansion, drug pricing reform, paid family leave—these are partisan. Defense contractor profits are not.
+[!contradiction] The bipartisan defense vote margin is wider than the Democratic-only healthcare votes. Medicare expansion, drug pricing reform, paid family leave, these are partisan. Defense contractor profits are not.
 
-When Senate Democrats held out for healthcare and housing provisions during a 2025 government funding fight, they caved on defense. [[_Chuck Schumer Master Profile|Chuck Schumer]] stated that healthcare and housing were "so many things that are important to the American people"—and voted for the Pentagon budget anyway. Chris Murphy of Connecticut (a state with Sikorsky production) said he wouldn't move forward on appropriations "until they're serious about stopping health care premiums." He voted for Sikorsky funding.
+When Senate Democrats held out for healthcare and housing provisions during a 2025 government funding fight, they caved on defense. [[_Chuck Schumer Master Profile|Chuck Schumer]] stated that healthcare and housing were "so many things that are important to the American people", and voted for the Pentagon budget anyway. Chris Murphy of Connecticut (a state with Sikorsky production) said he wouldn't move forward on appropriations "until they're serious about stopping health care premiums." He voted for Sikorsky funding.
 
 ---
 
@@ -93,7 +93,7 @@ Mark Kelly's campaign promises and voting record are case studies in the contrad
 
 He pledged to refuse corporate PAC money. He accepted $112,500 from defense contractor PACs. He claims to oppose the influence of money in politics. He sits on the Armed Services Committee, legislatively positioned to benefit the exact industries funding him.
 
-The campaign materials say: "Mark Kelly is fighting for regular Arizonans, not special interests." The FEC record says: Raytheon, Lockheed Martin, [[Boeing|Boeing]], Northrop Grumman—a who's who of defense contractors with operations in Arizona or interests in Pentagon contracts.
+The campaign materials say: "Mark Kelly is fighting for regular Arizonans, not special interests." The FEC record says: Raytheon, Lockheed Martin, [[Boeing|Boeing]], Northrop Grumman, a who's who of defense contractors with operations in Arizona or interests in Pentagon contracts.
 
 Democratic messaging nationwide runs on "healthcare not warfare." Yet 81 Democrats voted for an $895 billion defense bill in 2024. Not a single Democrat held a press conference saying, "We could have funded Medicare expansion with this money. We chose F-35 overages instead."
 
@@ -106,7 +106,7 @@ The class analysis is clear: Democratic politicians with defense contractor dono
 The program illustrates why the bipartisan consensus persists even as the facts deteriorate.
 
 Total lifetime cost: $2 trillion+ (as of 2024 GAO report).
-Acquisition cost: $428 billion—84% higher than the initial $233 billion estimate.
+Acquisition cost: $428 billion, 84% higher than the initial $233 billion estimate.
 Current status: 10 years late. Block 4 modernization: $6 billion over budget and five years behind schedule.
 2024 delivery: 110 aircraft, all late by average 238 days.
 
@@ -121,15 +121,15 @@ The contradiction is not that politicians ignore cost. It is that they openly de
 
 ### The Class Analysis
 
-Lockheed Martin's strategy is more sophisticated than direct PAC contributions. The PAC gives money—$1.568 million in 2023-2024 split 45% Democrat / 55% Republican. That is noise compared to the geographic strategy.
+Lockheed Martin's strategy is more sophisticated than direct PAC contributions. The PAC gives money, $1.568 million in 2023-2024 split 45% Democrat / 55% Republican. That is noise compared to the geographic strategy.
 
 By distributing production across 45 states, Lockheed made itself indispensable to the re-election prospects of 90+ congressional members. A Democrat from Connecticut cannot cut Sikorsky. A Republican from Texas cannot cut the F-35 assembly line. A swing-state representative cannot vote against the program without risking local job losses during a re-election campaign.
 
-This is donor power in its purest form. Not bribery. Not explicit quid pro quo. Structural dependency. Every member of Congress in an F-35-producing district is, in effect, an employee of Lockheed Martin. They may run as Republicans or Democrats, may perform fierce opposition on every other issue—but on the budget that sustains their district's jobs, they are unified.
+This is donor power in its purest form. Not bribery. Not explicit quid pro quo. Structural dependency. Every member of Congress in an F-35-producing district is, in effect, an employee of Lockheed Martin. They may run as Republicans or Democrats, may perform fierce opposition on every other issue, but on the budget that sustains their district's jobs, they are unified.
 
 The bipartisan consensus on defense spending is not an accident. It is the inevitable outcome of concentrating manufacturing in politically strategic locations.
 
-Rosa DeLauro can fight Kay Granger on healthcare spending and mean it. They genuinely disagree. But they cannot fight on Lockheed's budget without devastating their own districts. The "both sides" performance is real on issues where donors are indifferent. On issues where Lockheed's bottom line is at stake, there are no both sides—only a unified donor class and its representatives.
+Rosa DeLauro can fight Kay Granger on healthcare spending and mean it. They genuinely disagree. But they cannot fight on Lockheed's budget without devastating their own districts. The "both sides" performance is real on issues where donors are indifferent. On issues where Lockheed's bottom line is at stake, there are no both sides, only a unified donor class and its representatives.
 
 ---
 

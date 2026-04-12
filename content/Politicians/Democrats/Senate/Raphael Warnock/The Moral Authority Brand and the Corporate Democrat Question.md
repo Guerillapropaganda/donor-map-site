@@ -19,10 +19,10 @@ donors: [[Healthcare Sector]] · [[Tech and Media Donors]]
 
 [[_Raphael Warnock Master Profile|Raphael Warnock]]'s power in Democratic politics derives fundamentally from a single fact: he is the pastor of Ebenezer Baptist Church, the Atlanta church where Martin Luther King Jr. preached. This pulpit is not incidental to his political career. It is foundational. The pulpit grants Warnock:
 
-1. **Historic credibility on racial justice** — inherited moral authority from the space King occupied
-2. **Legitimacy on economic justice** — the pulpit is associated with King's Poor People's Campaign and radical economics
-3. **Visibility with Black voters** — Ebenezer is symbolically central to Black American church tradition
-4. **National moral authority** — King's legacy is uniquely powerful in American political culture; occupying his pulpit grants transfer of that power
+1. **Historic credibility on racial justice**, inherited moral authority from the space King occupied
+2. **Legitimacy on economic justice**, the pulpit is associated with King's Poor People's Campaign and radical economics
+3. **Visibility with Black voters**. Ebenezer is symbolically central to Black American church tradition
+4. **National moral authority**. King's legacy is uniquely powerful in American political culture; occupying his pulpit grants transfer of that power
 
 This is not a metaphorical asset. This is a direct, quantifiable political advantage. Warnock's election in 2020 (first Black senator from Georgia) was powered substantially by moral authority borrowed from King's legacy and Ebenezer's pulpit.
 
@@ -85,11 +85,11 @@ This silence is not accidental. It's donor-constrained. Healthcare corporate don
 Warnock exemplifies a Democratic template: deploy moral authority language (social justice, racial justice, care for the poor) to mobilize constituencies without making structural economic demands that would threaten donor interests.
 
 ### The Template:
-1. **Claim moral authority** — Occupy pulpit/legacy/identity that grants moral standing
-2. **Deploy moral language** — Talk about justice, equity, care, community
-3. **Avoid structural demands** — Don't ask donors to sacrifice wealth, profits, or economic power
-4. **Frame limits as pragmatism** — "We have to work within political reality"
-5. **Mobilize constituencies with language** — Use moral authority to win elections powered by people seeking structural change
+1. **Claim moral authority**. Occupy pulpit/legacy/identity that grants moral standing
+2. **Deploy moral language**. Talk about justice, equity, care, community
+3. **Avoid structural demands**. Don't ask donors to sacrifice wealth, profits, or economic power
+4. **Frame limits as pragmatism**, "We have to work within political reality"
+5. **Mobilize constituencies with language**. Use moral authority to win elections powered by people seeking structural change
 
 Warnock executes this template flawlessly. The language is real. The gap between language and substance is also real. The constituency gets mobilized; the donors' interests remain protected.
 
@@ -109,7 +109,7 @@ The moral authority makes moderation sound like principle. This is the political
 
 ### Racial Justice Framing Without Economic Transformation
 
-Warnock uses race as the organizing frame for justice language. "Racial justice" is his core message. This is not wrong—racial and economic injustice are deeply linked. But framing matters:
+Warnock uses race as the organizing frame for justice language. "Racial justice" is his core message. This is not wrong, racial and economic injustice are deeply linked. But framing matters:
 
 **Warnock's Framing:** Racial justice primarily as recognition, inclusion, and anti-discrimination
 **King's Framing:** Racial justice inseparable from economic redistribution and wealth reallocation
@@ -155,7 +155,7 @@ The central question the vault framing poses: **Does moral authority create stru
 
 The Warnock case provides a clear answer: it provides progressive cover.
 
-Warnock's moral authority is real. The emotional and political power of occupying King's pulpit is real. The inspiration his presence grants to Black voters and progressive constituencies is real. Yet the policy outcomes—no single-payer championship, no push for structural healthcare transformation, healthcare corporate donor alignment—remain fully consistent with donor-class interests.
+Warnock's moral authority is real. The emotional and political power of occupying King's pulpit is real. The inspiration his presence grants to Black voters and progressive constituencies is real. Yet the policy outcomes, no single-payer championship, no push for structural healthcare transformation, healthcare corporate donor alignment, remain fully consistent with donor-class interests.
 
 This is not a failure of Warnock's character or commitment. It's a structural feature: moral authority becomes most useful politically when it can mobilize constituencies without threatening the economic interests that fund campaigns.
 

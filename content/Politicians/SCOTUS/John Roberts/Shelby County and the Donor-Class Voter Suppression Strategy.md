@@ -22,9 +22,9 @@ donors: [[Koch Network - Charles Koch]]
 
 ### The Ruling
 
-Shelby County v. Holder (June 25, 2013). 5-4 decision. Majority: Roberts (author), Scalia, Kennedy, Thomas, Alito. The Court struck down Section 4(b) of the Voting Rights Act of 1965, which established the coverage formula determining which states and local jurisdictions were subject to Section 5 preclearance — the requirement to obtain federal approval before making any changes to voting laws.
+Shelby County v. Holder (June 25, 2013). 5-4 decision. Majority: Roberts (author), Scalia, Kennedy, Thomas, Alito. The Court struck down Section 4(b) of the Voting Rights Act of 1965, which established the coverage formula determining which states and local jurisdictions were subject to Section 5 preclearance, the requirement to obtain federal approval before making any changes to voting laws.
 
-Roberts's reasoning: Congress reauthorized the VRA in 2006 using a coverage formula based on data from the 1960s and 1970s. The Court held this formula was no longer constitutionally justified because conditions had changed. The ruling did not technically strike down Section 5 preclearance itself — but without a coverage formula, preclearance cannot be enforced. Congress has not passed a new formula.
+Roberts's reasoning: Congress reauthorized the VRA in 2006 using a coverage formula based on data from the 1960s and 1970s. The Court held this formula was no longer constitutionally justified because conditions had changed. The ruling did not technically strike down Section 5 preclearance itself, but without a coverage formula, preclearance cannot be enforced. Congress has not passed a new formula.
 
 The Senate had reauthorized the VRA 98-0 in 2006. The House vote was 390-33. Roberts overrode near-unanimous congressional judgment.
 
@@ -33,10 +33,10 @@ The Senate had reauthorized the VRA 98-0 in 2006. The House vote was 390-33. Rob
 ### Immediate Consequences
 
 ### Same-day actions:
-Texas announced enforcement of SB 14, the strictest photo ID law in the country — previously blocked by a federal court under preclearance as intentionally discriminatory.
+Texas announced enforcement of SB 14, the strictest photo ID law in the country, previously blocked by a federal court under preclearance as intentionally discriminatory.
 
 ### Within months:
-North Carolina passed a sweeping omnibus election law (HB 589) that a federal appeals court later found targeted Black voters "with almost surgical precision" — eliminating same-day registration, reducing early voting days, and imposing strict photo ID requirements.
+North Carolina passed a sweeping omnibus election law (HB 589) that a federal appeals court later found targeted Black voters "with almost surgical precision", eliminating same-day registration, reducing early voting days, and imposing strict photo ID requirements.
 
 Mississippi, Alabama, and other formerly covered states began implementing voter ID laws and reducing polling locations without federal oversight.
 
@@ -65,7 +65,7 @@ The connection to campaign finance is direct: Citizens United (2010) enabled unl
 
 ### Roberts's Coverage Formula Argument
 
-Roberts declared the coverage formula unconstitutional because it relied on outdated data. The dissent (Ginsburg, joined by Breyer, Sotomayor, Kagan) responded that the formula was justified by ongoing discrimination — Congress had compiled a 15,000-page legislative record documenting continued voting rights violations in covered jurisdictions before reauthorizing in 2006.
+Roberts declared the coverage formula unconstitutional because it relied on outdated data. The dissent (Ginsburg, joined by Breyer, Sotomayor, Kagan) responded that the formula was justified by ongoing discrimination. Congress had compiled a 15,000-page legislative record documenting continued voting rights violations in covered jurisdictions before reauthorizing in 2006.
 
 > [!contradiction]
 > Roberts declared the VRA's coverage formula invalid because it was based on "40-year-old data" — then authored Loper Bright v. Raimondo (2024) citing Marbury v. Madison from 1803 as controlling authority. He overrode Congress's near-unanimous judgment (98-0 Senate, 390-33 House) on the basis that he knew better than the legislative branch whether racial discrimination in voting persisted. The minimalist who defers to democratic institutions overruled the most lopsided bipartisan vote of the century.
@@ -76,7 +76,7 @@ Roberts declared the coverage formula unconstitutional because it relied on outd
 
 - [SCOTUSblog: Shelby County v. Holder](https://www.scotusblog.com/cases/case-files/shelby-county-v-holder/) (Tier 2)
 - [Brennan Center: Shelby County v. Holder Turns 10, and Voting Rights Continue to Suffer](https://www.brennancenter.org/our-work/research-reports/shelby-county-v-holder-turns-10-and-voting-rights-continue-suffer-it) (Tier 2)
-- [NAACP LDF: Impact of Shelby County v. Holder — Voter Suppression and Discriminatory Redistricting](https://www.naacpldf.org/shelby-county-v-holder-impact/) (Tier 2)
+- [NAACP LDF: Impact of Shelby County v. Holder. Voter Suppression and Discriminatory Redistricting](https://www.naacpldf.org/shelby-county-v-holder-impact/) (Tier 2)
 - [Constitution Center: Shelby County v. Holder (2013)](https://constitutioncenter.org/the-constitution/supreme-court-case-library/shelby-county-v-holder) (Tier 2)
 - [Supreme Court: Shelby County v. Holder (Official Opinion)](https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf) (Tier 1)
 - [Leadership Conference on Civil and Human Rights: The Great Poll Closure](https://civilrights.org/resource/the-great-poll-closure/) (Tier 2)

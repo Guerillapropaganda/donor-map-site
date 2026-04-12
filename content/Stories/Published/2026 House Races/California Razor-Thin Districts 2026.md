@@ -23,7 +23,7 @@ donors:: Republican House Defense Super PACs Democratic House Majority PAC
 
 ### The Narrowest Margins: California's 2026 Battleground
 
-California holds two of the closest House races in 2024, both now vulnerable Democratic freshmen in 2026. Adam Gray in CA-13 won by 187 votes — the narrowest House race in the nation. Derek Tran in CA-45 won by 613 votes, beating Michelle Steel to become Orange County's first Vietnamese American representative. Together, these two districts represent the absolute thinnest Democratic margins in the House and the most direct electoral test of PAC money's impact per dollar spent.
+California holds two of the closest House races in 2024, both now vulnerable Democratic freshmen in 2026. Adam Gray in CA-13 won by 187 votes, the narrowest House race in the nation. Derek Tran in CA-45 won by 613 votes, beating Michelle Steel to become Orange County's first Vietnamese American representative. Together, these two districts represent the absolute thinnest Democratic margins in the House and the most direct electoral test of PAC money's impact per dollar spent.
 
 In both districts, Republicans are heavily favored to rematch or mount strong challenges. Agricultural PAC money in CA-13, combined with traditional Republican super PAC spending, will compete directly against Democratic effort to defend these seats. In CA-45, Michelle Steel has already declared her candidacy for a rematch, guaranteeing one of the most expensive House races in 2026.
 
@@ -35,7 +35,7 @@ In both districts, Republicans are heavily favored to rematch or mount strong ch
 
 **Demographics:** Agricultural heartland; high concentrations of farmworkers, agribusiness interests, and food processing workers
 
-**Performance:** 2024: Adam Gray (D) defeated incumbent Rep. John Duarte (R) by 187 votes out of 200,000+ cast — the closest House race in the nation. [California's 13th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_13th_Congressional_District_election,_2026) (Tier 3)
+**Performance:** 2024: Adam Gray (D) defeated incumbent Rep. John Duarte (R) by 187 votes out of 200,000+ cast, the closest House race in the nation. [California's 13th Congressional District election, 2026 - Ballotpedia](https://ballotpedia.org/California's_13th_Congressional_District_election,_2026) (Tier 3)
 
 **Cook Partisan Index:** R+1 (Republican-leaning, but won by Democrat in 2024)
 
@@ -66,7 +66,7 @@ Gray's 2024 win came despite the district's Republican lean. Replicating that wi
 3. Holding agricultural workers despite anti-immigration messaging
 
 ### All three are in jeopardy in 2026.
-### CA-45: Derek Tran vs. Michelle Steel — Orange County's Asian American Representation Under Siege
+### CA-45: Derek Tran vs. Michelle Steel. Orange County's Asian American Representation Under Siege
 
 ### District Profile
 

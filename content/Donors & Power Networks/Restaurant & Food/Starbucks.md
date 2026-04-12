@@ -65,7 +65,7 @@ audit-a-plus-passed: "2026-04-11"
 
 Starbucks Corporation. The world's largest coffeehouse chain ($36 billion revenue, 2024), operating 35,000+ stores globally with 400,000+ employees. Starbucks' political significance: the company has cultivated a progressive brand (healthcare benefits, diversity commitments, social responsibility messaging) while conducting one of the most aggressive anti-union campaigns in modern American corporate history.
 
-The Starbucks Workers United campaign (launched 2021) has organized 400+ stores — the most significant unionization wave in the food service industry in decades. Starbucks' response included: store closures, worker terminations (ruled illegal by the NLRB in multiple cases), mandatory anti-union meetings, benefit changes targeting unionized locations, and delays in collective bargaining. Former CEO Howard Schultz testified before the Senate HELP Committee about the company's labor practices.
+The Starbucks Workers United campaign (launched 2021) has organized 400+ stores, the most significant unionization wave in the food service industry in decades. Starbucks' response included: store closures, worker terminations (ruled illegal by the NLRB in multiple cases), mandatory anti-union meetings, benefit changes targeting unionized locations, and delays in collective bargaining. Former CEO Howard Schultz testified before the Senate HELP Committee about the company's labor practices.
 
 ---
 
@@ -77,9 +77,9 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 ### What They've Gotten
 
-**The Progressive Brand Shield:** Starbucks' most valuable political asset is its brand: the company is perceived as progressive, socially responsible, and employee-friendly. This perception — built through healthcare benefits, diversity initiatives, and social responsibility campaigns — provides political cover for anti-union practices that would generate more public backlash at a company without progressive credentials. The brand functions as insurance against the reputational cost of union-busting.
+**The Progressive Brand Shield:** Starbucks' most valuable political asset is its brand: the company is perceived as progressive, socially responsible, and employee-friendly. This perception, built through healthcare benefits, diversity initiatives, and social responsibility campaigns, provides political cover for anti-union practices that would generate more public backlash at a company without progressive credentials. The brand functions as insurance against the reputational cost of union-busting.
 
-**NLRB Enforcement Weakness:** Starbucks' anti-union campaign has demonstrated the structural weakness of the NLRB: the agency can rule that Starbucks violated labor law (it has, repeatedly), but the remedies — reinstatement of fired workers, back pay, cease-and-desist orders — are implemented months or years after the violations, long after the anti-union campaign has achieved its goal of chilling organizing.
+**NLRB Enforcement Weakness:** Starbucks' anti-union campaign has demonstrated the structural weakness of the NLRB: the agency can rule that Starbucks violated labor law (it has, repeatedly), but the remedies, reinstatement of fired workers, back pay, cease-and-desist orders, are implemented months or years after the violations, long after the anti-union campaign has achieved its goal of chilling organizing.
 
 > [!contradiction]
 > Starbucks markets itself as a progressive employer — healthcare benefits, college tuition assistance, diversity commitments — while conducting illegal anti-union activities documented in dozens of NLRB complaints. The progressive brand is not separate from the anti-union campaign; it is the anti-union campaign's alibi. The company offers individual benefits (chosen and controlled by management) to prevent collective power (chosen and controlled by workers). The message: "We already treat you well, so you don't need a union." The structural function: progressive benefits as a substitute for worker power.

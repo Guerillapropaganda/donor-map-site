@@ -81,7 +81,7 @@ This is not fraud; it is the standard functioning of donor-class governance.
 
 ### The Public Option That Never Was: Theater, Not Fight
 
-The ACA debate in the Senate centered on the "public option" — a government-run healthcare plan that would have competed with private insurance. The public narrative was that the Senate voted on the public option and it failed. Ben Nelson (D-NE) and Joe Lieberman (I-CT) voted against cloture, preventing the 60-vote threshold needed for passage.
+The ACA debate in the Senate centered on the "public option", a government-run healthcare plan that would have competed with private insurance. The public narrative was that the Senate voted on the public option and it failed. Ben Nelson (D-NE) and Joe Lieberman (I-CT) voted against cloture, preventing the 60-vote threshold needed for passage.
 
 The private reality was different: the White House had already negotiated away the public option in spring 2009, before the Senate debate. The Senate debate over the public option was theater. The decision had been made in rooms with insurance and pharma industry representatives. The Senate vote was confirmation of a decision already taken.
 
@@ -133,11 +133,11 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — The ACA expanded insurance coverage (genuine win for working people). But it did so through mandating private insurance purchase and preserving insurance company profit margins. The structural limit: insurance companies profit more from the mandate and expanded customer base than working people benefit from expanded coverage. Deductibles and out-of-pocket costs rose alongside the coverage expansion.
+**The Genuine Win + Structural Limit**. The ACA expanded insurance coverage (genuine win for working people). But it did so through mandating private insurance purchase and preserving insurance company profit margins. The structural limit: insurance companies profit more from the mandate and expanded customer base than working people benefit from expanded coverage. Deductibles and out-of-pocket costs rose alongside the coverage expansion.
 
-**The Two-Audience Problem at Maximum Scale** — Progressive voters celebrated defeating the insurance companies while insurance stocks rose 15-20%, revealing the actual winner. Obama told the base one story (fighting the insurance industry) while negotiating preservation of that industry with actual industry representatives. Both audiences received reassurance; both partially won; the insurance industry won completely.
+**The Two-Audience Problem at Maximum Scale**. Progressive voters celebrated defeating the insurance companies while insurance stocks rose 15-20%, revealing the actual winner. Obama told the base one story (fighting the insurance industry) while negotiating preservation of that industry with actual industry representatives. Both audiences received reassurance; both partially won; the insurance industry won completely.
 
-**The Villain Framing** — When criticized for preserving insurance industry profit structures, the response was: "Ben Nelson blocked the public option." External villains (moderate senators) were blamed for outcomes that were actually negotiated and planned at the White House level.
+**The Villain Framing**. When criticized for preserving insurance industry profit structures, the response was: "Ben Nelson blocked the public option." External villains (moderate senators) were blamed for outcomes that were actually negotiated and planned at the White House level.
 
 ---
 
@@ -158,7 +158,7 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 
 **URL verification needed (UNVERIFIED tags):** All new sources added in the 2026-04-05 refresh are marked (UNVERIFIED) because Chrome was unavailable for load testing during the automated refresh run. A url-fixer skill pass is required to confirm these before restoring `content-readiness: ready`. Priority targets: Sunlight Foundation (domain inactive since org wound down, archive.org copy may be needed), OpenSecrets URLs (documented 403 bot-blocking in url-check.md), PolitiFact URLs.
 
-**Sunlight Foundation primary source:** The key PhRMA deal source (sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin...) is referenced across multiple vault files. Verify archive.org has a working copy if the live URL is dead. Add to url-fixer skill queue.
+**Sunlight Foundation primary source:** The key PhRMA deal source (sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin..) is referenced across multiple vault files. Verify archive.org has a working copy if the live URL is dead. Add to url-fixer skill queue.
 
 **FEC data upgrade available:** Obama 2008 healthcare donations are currently cited via Raw Story/CRP (Tier 2). Direct FEC API query for 2008 healthcare sector totals would upgrade to Tier 1. Obama's FEC candidate ID: P80003338. Run `fecCandidateTotals('P80003338', 2008)` and filter by sector code `H`.
 

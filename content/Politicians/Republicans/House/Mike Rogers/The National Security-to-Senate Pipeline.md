@@ -44,11 +44,11 @@ During his 14 years in Congress (2001-2015), Rogers held powerful positions that
 
 Rogers' 2026 campaign shows the infrastructure:
 
-1. **[[Tim Dunn|Tim Dunn]] ($5M)** — Texas oil billionaire with Christian Nationalist politics. Why fund Rogers? Dunn expects Rogers on relevant committees to: (a) support defense spending that grows government contracts accessible to oil/energy companies; (b) oppose environmental regulations on fossil fuel extraction; (c) support expanded surveillance of climate activists. Defense spending → military bases → energy consumption → oil company profits.
+1. **[[Tim Dunn|Tim Dunn]] ($5M)**. Texas oil billionaire with Christian Nationalist politics. Why fund Rogers? Dunn expects Rogers on relevant committees to: (a) support defense spending that grows government contracts accessible to oil/energy companies; (b) oppose environmental regulations on fossil fuel extraction; (c) support expanded surveillance of climate activists. Defense spending → military bases → energy consumption → oil company profits.
 
-2. **[[Paul Singer|Paul Singer]] ($500K)** — Elliott Management financier known for activist investing and regulatory capture. Why fund Rogers? Singer expects Rogers to: (a) favor financial deregulation (intelligence committee doesn't directly oversee this, but Rogers' vote matters); (b) support defense spending that benefits Elliott's portfolio companies; (c) maintain surveillance state expansion that protects financial system against "terrorism" (defined broadly to include any challenge to financial industry interests).
+2. **[[Paul Singer|Paul Singer]] ($500K)**. Elliott Management financier known for activist investing and regulatory capture. Why fund Rogers? Singer expects Rogers to: (a) favor financial deregulation (intelligence committee doesn't directly oversee this, but Rogers' vote matters); (b) support defense spending that benefits Elliott's portfolio companies; (c) maintain surveillance state expansion that protects financial system against "terrorism" (defined broadly to include any challenge to financial industry interests).
 
-3. **Sentinel Action Fund ($15M)** — Defense-focused super PAC. Why back Rogers? Direct alignment: Sentinel's donors are defense contractors who benefit when committee members who supported their appropriations return to Senate with power over appropriations again.
+3. **Sentinel Action Fund ($15M)**. Defense-focused super PAC. Why back Rogers? Direct alignment: Sentinel's donors are defense contractors who benefit when committee members who supported their appropriations return to Senate with power over appropriations again.
 
 ---
 
@@ -78,10 +78,10 @@ The pattern: intelligence/defense background → lucrative private sector roles 
 
 If elected, Rogers will predictably:
 
-1. **Expand NSA/FBI surveillance budgets** — he defended surveillance expansion as congressman; his intelligence contacts expect him to continue this support
-2. **Grow defense contractor appropriations** — Sentinel Action Fund donors expect return on $15M investment
-3. **Support military interventionism** — intelligence/defense committee members predictably support military spending justifications
-4. **Oppose privacy/surveillance limitations** — intelligence apparatus expects Rogers to block privacy reform legislation
+1. **Expand NSA/FBI surveillance budgets**, he defended surveillance expansion as congressman; his intelligence contacts expect him to continue this support
+2. **Grow defense contractor appropriations**. Sentinel Action Fund donors expect return on $15M investment
+3. **Support military interventionism**, intelligence/defense committee members predictably support military spending justifications
+4. **Oppose privacy/surveillance limitations**, intelligence apparatus expects Rogers to block privacy reform legislation
 
 ---
 
@@ -89,9 +89,9 @@ If elected, Rogers will predictably:
 
 Michigan Senate seat provides access to:
 
-- **Senate Armed Services Committee** — $800B+ annual defense budget; direct oversight of defense contractors; appropriations authority
-- **Senate Intelligence Committee** — $70B+ annual intelligence budget; direct contractor oversight; surveillance program authority
-- **Senate Appropriations Committee** — if assigned, direct control over budget allocation across all federal agencies
+- **Senate Armed Services Committee**, $800B+ annual defense budget; direct oversight of defense contractors; appropriations authority
+- **Senate Intelligence Committee**, $70B+ annual intelligence budget; direct contractor oversight; surveillance program authority
+- **Senate Appropriations Committee**, if assigned, direct control over budget allocation across all federal agencies
 
 Megadonors funding Rogers expect him on at least Armed Services and Intelligence committees. Leadership will place him there because Rogers has demonstrated loyalty to defense/intelligence priorities and megadonor alignment.
 

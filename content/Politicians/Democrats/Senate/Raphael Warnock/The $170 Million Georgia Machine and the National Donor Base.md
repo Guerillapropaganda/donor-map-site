@@ -17,7 +17,7 @@ donors: [[Tech and Media Donors]] · [[Healthcare Sector]]
 
 ### The Extraordinary Fundraising Machine
 
-[[_Raphael Warnock Master Profile|Raphael Warnock]] raised $170+ million combined across the 2020 special election ($100+ million in two months) and the 2022 re-election ($115+ million). This made Warnock, by 2022, the highest-funded Senate candidate that cycle by a substantial margin. Mark Kelly (D-AZ) came second with $83 million—$32 million less than Warnock's 2022 alone.
+[[_Raphael Warnock Master Profile|Raphael Warnock]] raised $170+ million combined across the 2020 special election ($100+ million in two months) and the 2022 re-election ($115+ million). This made Warnock, by 2022, the highest-funded Senate candidate that cycle by a substantial margin. Mark Kelly (D-AZ) came second with $83 million, $32 million less than Warnock's 2022 alone.
 
 This fundraising was extraordinary not just for volume but for velocity: $100+ million in a special election that would normally receive far less money (special elections don't align with general election cycles, limiting mega-donor coordination). Warnock's 2020 special election fundraising reveals how thoroughly integrated Democratic mega-donor networks are: the money mobilized rapidly to protect a Senate seat.
 
@@ -51,7 +51,7 @@ This fundraising was extraordinary not just for volume but for velocity: $100+ m
 | Massachusetts | Not specified | - | Major tech/finance donor state |
 | Texas | Not specified | - | Cross-state wealthy donor networks |
 
-California alone ($13.4M) contributed 73% more than Georgia ($8.7M). This inversion—where the home state is among the smallest donor sources—demonstrates the complete geographic inversion of campaign funding.
+California alone ($13.4M) contributed 73% more than Georgia ($8.7M). This inversion, where the home state is among the smallest donor sources, demonstrates the complete geographic inversion of campaign funding.
 
 ---
 
@@ -77,7 +77,7 @@ The 2020 special election began with grassroots small-dollar donors dominant, th
 - Early: Small-dollar donors motivated by urgency
 - Late: Mega-donors and PACs join when victory becomes possible
 
-**Key 2020 finding:** The "unemployed" category—students, homemakers, retirees—was Warnock's largest donor group by occupation, accounting for $2.8 million (12.9% of total). This is unusual for Senate races and suggests genuine grassroots participation in 2020.
+**Key 2020 finding:** The "unemployed" category, students, homemakers, retirees, was Warnock's largest donor group by occupation, accounting for $2.8 million (12.9% of total). This is unusual for Senate races and suggests genuine grassroots participation in 2020.
 
 > [!contradiction]
 > By 2022, this pattern had inverted. The same cycle that showed 12.9% of funding from low-net-worth donors (the unemployed/students/homemakers) shifted to high-net-worth donor dominance. This is not evolution; this is replacement. The 2020 grassroots base did not simply grow proportionally. It was replaced by establishment mega-donor infrastructure. Warnock's campaign messaging continued to claim grassroots support, but the financial base had transformed.
@@ -89,18 +89,18 @@ The 2020 special election began with grassroots small-dollar donors dominant, th
 **2020:** Grassroots small-dollar donors dominated early cycle before mega-donor surge
 **2022:** Small-dollar donors: 48% of total - [FEC Candidate: Warnock 2022 Summary](https://www.fec.gov/data/candidate/S0GA00559/) (Tier 1)
 
-A 48% small-dollar share looks substantial. In context, it's a declining share. Warnock's campaign narrative (particularly in 2020) emphasized grassroots "everyday people" funding. By 2022, the framing persisted while the composition shifted. This is not fraud—the data is in FEC filings for anyone to read. It's a simple gap between narrative and substance.
+A 48% small-dollar share looks substantial. In context, it's a declining share. Warnock's campaign narrative (particularly in 2020) emphasized grassroots "everyday people" funding. By 2022, the framing persisted while the composition shifted. This is not fraud, the data is in FEC filings for anyone to read. It's a simple gap between narrative and substance.
 
 ---
 
 ### The Corporate PAC Strategy: No PACs, Yet Corporate Donor Money
 
-Warnock's 2020 campaign claimed an "aversion to Corporate PACs," meaning the campaign doesn't accept money from corporate political committees. Yet the campaign attracted substantial money from corporate sector donors—executives, wealthy individuals in tech/finance/entertainment/healthcare. PAC aversion doesn't mean donor-class aversion; it means donor-class money flows through individual contribution channels rather than institutional ones.
+Warnock's 2020 campaign claimed an "aversion to Corporate PACs," meaning the campaign doesn't accept money from corporate political committees. Yet the campaign attracted substantial money from corporate sector donors, executives, wealthy individuals in tech/finance/entertainment/healthcare. PAC aversion doesn't mean donor-class aversion; it means donor-class money flows through individual contribution channels rather than institutional ones.
 
 This distinction matters because:
 1. Individual corporate donors can be described as "everyday people" in campaign rhetoric
 2. The lack of traditional PAC money allows the "grassroots" framing to persist
-3. The actual donor composition—wealthy tech executives, entertainment figures, healthcare leaders—remains largely invisible in public campaign messaging
+3. The actual donor composition, wealthy tech executives, entertainment figures, healthcare leaders, remains largely invisible in public campaign messaging
 
 ---
 
@@ -129,7 +129,7 @@ These donors fund Warnock because:
 | Values | Progressive social issues + corporate economic interests | Varied (Black voters key base, but also moderate/conservative) |
 | Primary Interest | Swing-state Democratic Senate seat | Local economic opportunity, healthcare, jobs |
 
-This composition gap reveals the structural tension: Warnock's donor base and his constituent base have different primary interests. When those interests conflict (e.g., healthcare donors vs. Georgia voters wanting single-payer), the donor base typically prevails in policy positions.
+This composition gap reveals the structural tension: Warnock's donor base and his constituent base have different primary interests. When those interests conflict (e.g. healthcare donors vs. Georgia voters wanting single-payer), the donor base typically prevails in policy positions.
 
 ---
 
@@ -151,7 +151,7 @@ The $170 million combined 2020–2022 fundraising, with 95% coming from outside 
 ### Evidence:
 - $161M of $169M (95.2%) from outside Georgia in 2022
 - California alone ($13.4M) outweighs Georgia ($8.7M) by 73%
-- Top industries: tech, entertainment, finance—not Georgia-based sectors
+- Top industries: tech, entertainment, finance, not Georgia-based sectors
 - 2020→2022 shift from grassroots to high-net-worth donor dominance
 
 **Implication:** When examining Warnock's policy positions (healthcare, labor, taxation), the primary constraint is not constituency preference but donor preference. This isn't corruption; it's how campaign finance structures political accountability.

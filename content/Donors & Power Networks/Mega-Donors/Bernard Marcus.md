@@ -72,14 +72,14 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Bernard "Bernie" Marcus (May 12, 1929 – November 4, 2024) was the co-founder and first CEO of The Home Depot (founded 1978 with Arthur Blank), one of the largest retail operations in American history. Home Depot's IPO launched the home improvement retail revolution; by 2002 when Marcus retired as chairman, the company was a Fortune 50 entity. Net worth at death: $10.3 billion (Forbes, Oct 2024). Age at death: 95 years old — a legacy donor facing succession questions, though primary wealth already designated through the Marcus Foundation structures.
+Bernard "Bernie" Marcus (May 12, 1929 – November 4, 2024) was the co-founder and first CEO of The Home Depot (founded 1978 with Arthur Blank), one of the largest retail operations in American history. Home Depot's IPO launched the home improvement retail revolution; by 2002 when Marcus retired as chairman, the company was a Fortune 50 entity. Net worth at death: $10.3 billion (Forbes, Oct 2024). Age at death: 95 years old, a legacy donor facing succession questions, though primary wealth already designated through the Marcus Foundation structures.
 
 > [!money]
 > Marcus made explicit statements about using wealth for political influence.
 
 ### What They Want
 
-Republican political dominance and the consolidation of conservative institutional infrastructure. Conservative economic policy: low taxes, deregulation, resistance to unionization (labor non-emergence from Home Depot supply chains). Israel-first foreign policy and military aid. Philanthropic legacy control — Marcus joined the Jewish Future Pledge in 2020, committing most wealth to Jewish/Israel causes post-lifetime.
+Republican political dominance and the consolidation of conservative institutional infrastructure. Conservative economic policy: low taxes, deregulation, resistance to unionization (labor non-emergence from Home Depot supply chains). Israel-first foreign policy and military aid. Philanthropic legacy control. Marcus joined the Jewish Future Pledge in 2020, committing most wealth to Jewish/Israel causes post-lifetime.
 
 ### Who They Fund
 
@@ -108,13 +108,13 @@ Republican political dominance and the consolidation of conservative institution
 
 ### What They've Gotten
 
-Trump elected twice (2016 loss, 2020 victory, 2024 victory). Republican institutional dominance consolidated. Pro-Israel policy framework institutionalized — $3.8B+ annual US military aid to Israel, full Trump administration support for Israeli settlement expansion, Abraham Accords monetization, UAE weapons sales tied to normalization. Tax cuts (TCJA 2017: 35%→21% corporate rate, permanent). Anti-labor policy environment maintained across retail/construction sectors. Conservative think tank infrastructure funded and operational (Heritage, AEI, FDD, Federalist Society all positioned as policy pipeline).
+Trump elected twice (2016 loss, 2020 victory, 2024 victory). Republican institutional dominance consolidated. Pro-Israel policy framework institutionalized, $3.8B+ annual US military aid to Israel, full Trump administration support for Israeli settlement expansion, Abraham Accords monetization, UAE weapons sales tied to normalization. Tax cuts (TCJA 2017: 35%→21% corporate rate, permanent). Anti-labor policy environment maintained across retail/construction sectors. Conservative think tank infrastructure funded and operational (Heritage, AEI, FDD, Federalist Society all positioned as policy pipeline).
 
-Personal legacy: Marcus Foundation positioned as permanent vehicle for conservative philanthropy. No direct quid pro quo recordings — influence operates through structural positioning and consistent donor-class alignment. Marcus maintained Home Depot role through 2002 IPO → buyback cycles → no wage pressure from founder family after departure.
+Personal legacy: Marcus Foundation positioned as permanent vehicle for conservative philanthropy. No direct quid pro quo recordings, influence operates through structural positioning and consistent donor-class alignment. Marcus maintained Home Depot role through 2002 IPO → buyback cycles → no wage pressure from founder family after departure.
 
 ### Retail Wealth as Conservative Movement Infrastructure
 
-Marcus's fortune came from retail operations, not finance or technology. Home Depot's $200B+ annual revenue represents the largest DIY/contractor supply chain in North America. This positioned Marcus differently than tech oligarchs: his wealth derived from supply-chain control and contractor relationships rather than algorithmic monopoly or financial instruments. This matters for understanding his political deployment — Marcus funded organizations designed to prevent unionization and labor standardization in retail/construction industries while simultaneously funding foreign policy and social conservative infrastructure. The two streams (anti-labor domestically, pro-military/Israel internationally) function together: Home Depot's non-union supply chain provides competitive advantage domestically; Israeli military support preserves US defense contractor market position.
+Marcus's fortune came from retail operations, not finance or technology. Home Depot's $200B+ annual revenue represents the largest DIY/contractor supply chain in North America. This positioned Marcus differently than tech oligarchs: his wealth derived from supply-chain control and contractor relationships rather than algorithmic monopoly or financial instruments. This matters for understanding his political deployment. Marcus funded organizations designed to prevent unionization and labor standardization in retail/construction industries while simultaneously funding foreign policy and social conservative infrastructure. The two streams (anti-labor domestically, pro-military/Israel internationally) function together: Home Depot's non-union supply chain provides competitive advantage domestically; Israeli military support preserves US defense contractor market position.
 
 Marcus Foundation structure (established 1989, assets $5B+) ensures ongoing conservative institutional funding beyond his lifetime. Foundation board composition and distribution guidelines locked his political preferences into place perpetually. This is the donor-class succession question resolved: the money continues independent of individual donors.
 
@@ -142,7 +142,7 @@ Labor unions (particularly construction trades unions and retail workers' organi
 - [A GOP megadonor says he's not 'happy' Trump is leading the 2024 race. Here's why he's still trying to get him elected - ABC News](https://abcnews.com/US/gop-megadonor-happy-trump-leading-2024-race-elected/story?id=105193130?id=105193130) (Tier 2)
 - [He didn't do anything small: Remembering Bernard Marcus - eJewishPhilanthropy](https://ejewishphilanthropy.com/he-didnt-do-anything-small-remembering-bernard-marcus-larger-than-life-businessman-and-philanthropist/) (Tier 2)
 - [Marcus Foundation provides $60 million to RootOne - eJewishPhilanthropy](https://ejewishphilanthropy.com/marcus-foundation-provides-60-million-to-rootone-in-one-of-bernie-marcus-final-major-acts/) (Tier 2)
-- [Looking Back at Bernie Marcus' Giving — and What's Next - Inside Philanthropy](https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next) (Tier 2)
+- [Looking Back at Bernie Marcus' Giving, and What's Next - Inside Philanthropy](https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next) (Tier 2)
 - [The Marcus Foundation - Impact](https://marcusfoundation.org/impact/) (Tier 1)
 - [Home Depot Responds To Calls For Boycott Over Co-Founder's Support For Trump - NPR](https://www.npr.org/2019/07/10/740173176/home-depot-responds-to-calls-for-boycott-over-co-founders-support-for-trump) (Tier 2)
 - [Bernie Marcus, Home Depot founder who gave to Republicans and Israel - Jewish Telegraphic Agency](https://www.jta.org/2024/11/05/obituaries/bernie-marcus-home-depot-founder-who-gave-to-republicans-and-israel-dies-at-95) (Tier 2)

@@ -102,7 +102,7 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 
 ### What They've Gotten
 
-**The Sovaldi Pricing Model:** Sovaldi's 2013 launch at $84,000 per 12-week treatment course ($1,000 per pill) became the defining case study of pharmaceutical pricing power. The drug cured hepatitis C — a genuine medical breakthrough — but the price forced state Medicaid programs to ration access, creating waiting lists for a cure. Gilead earned $12.4 billion from Sovaldi in its first year alone. The pricing strategy: charge the maximum that insurance systems will bear, then defend the price through lobbying.
+**The Sovaldi Pricing Model:** Sovaldi's 2013 launch at $84,000 per 12-week treatment course ($1,000 per pill) became the defining case study of pharmaceutical pricing power. The drug cured hepatitis C, a genuine medical breakthrough, but the price forced state Medicaid programs to ration access, creating waiting lists for a cure. Gilead earned $12.4 billion from Sovaldi in its first year alone. The pricing strategy: charge the maximum that insurance systems will bear, then defend the price through lobbying.
 
 **Taxpayer-Funded PrEP:** Truvada for PrEP (pre-exposure prophylaxis for HIV prevention) was developed with $50+ million in CDC and NIH research funding. The federal government held a patent on the PrEP application of the drug. Gilead priced Truvada at $2,000/month while the government patent was in effect, generating billions from a publicly funded discovery. The Trump administration sued Gilead over the patent in 2019, but the case was settled without Gilead paying significant damages.
 

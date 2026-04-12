@@ -46,48 +46,48 @@ audit-a-plus-passed: "2026-04-11"
 
 [[Goldman Sachs|Goldman Sachs]] is the largest global investment banking firm and the single most documented case of financial regulatory capture in American history. The firm has given **$39 million** in political contributions since 1989, making it one of the top political donors among publicly traded companies in every election cycle since 2000.
 
-[Goldman Sachs PAC Contributions to Federal Candidates — OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1)
+[Goldman Sachs PAC Contributions to Federal Candidates. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1)
 
-[Goldman Sachs Profile: Summary — OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
+[Goldman Sachs Profile: Summary. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
 
-[Goldman Sachs Profile: Totals — OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
+[Goldman Sachs Profile: Totals. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
 
 Goldman's PAC spends approximately **$5 million per election cycle**, split roughly 50/50 between Republican and Democratic candidates. This bipartisan distribution masks a deeper reality: Goldman donates to whoever is in power, regardless of party, because its policy priorities transcend partisan divisions.
 
 In 2024, Goldman gave $451,000 to federal candidates directly through its PAC, plus $3.5 million in total contributions across all forms. Goldman spent $2.74 million lobbying in 2024, and $2.3 million lobbying in 2025.
 
-[Goldman Sachs PAC Donors — OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
+[Goldman Sachs PAC Donors. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
 
-[Goldman Sachs Lobbying Profile — OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
+[Goldman Sachs Lobbying Profile. OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
 ### What They Want
 
 Goldman Sachs's political strategy operates on a single principle: maximize firm profitability by minimizing regulatory constraints on financial innovation and risk-taking.
 
 ### 1. Derivatives Deregulation & Financial Innovation
-Goldman Sachs profits from opaque, complex financial instruments — particularly derivatives (swaps, futures, exotic structured products) that are difficult to regulate and generate massive fees.
+Goldman Sachs profits from opaque, complex financial instruments, particularly derivatives (swaps, futures, exotic structured products) that are difficult to regulate and generate massive fees.
 
 Goldman's priority: prevent regulation of derivatives. Specific achievements:
 
-- **Commodity Futures Modernization Act (2000)** — Exempted derivatives from regulation; passed during Clinton administration with bipartisan support. Goldman benefited enormously from unregulated derivatives trading.
-- **Gramm-Leach-Bliley Act (1999)** — Repealed Glass-Steagall (1933 prohibition on investment bank/commercial bank combination). Goldman's ancestors merged; modern Goldman benefits from integrated model.
-- **Dodd-Frank Partial Rollback (2017–2024)** — Trump administration rolled back key Dodd-Frank provisions on derivatives regulation; Goldman actively lobbied for these rollbacks.
+- **Commodity Futures Modernization Act (2000)**. Exempted derivatives from regulation; passed during Clinton administration with bipartisan support. Goldman benefited enormously from unregulated derivatives trading.
+- **Gramm-Leach-Bliley Act (1999)**. Repealed Glass-Steagall (1933 prohibition on investment bank/commercial bank combination). Goldman's ancestors merged; modern Goldman benefits from integrated model.
+- **Dodd-Frank Partial Rollback (2017–2024)**. Trump administration rolled back key Dodd-Frank provisions on derivatives regulation; Goldman actively lobbied for these rollbacks.
 
 Goldman's model is fundamentally dependent on the ability to create and trade financial instruments without transparent pricing or regulatory oversight. Whenever regulation threatens this model, Goldman mobilizes its donor infrastructure.
 
 ### 2. Too-Big-to-Fail Guarantee
-Goldman Sachs is a systemically important financial institution (SIFI) — meaning a collapse would threaten the entire financial system. This status provides Goldman an implicit government guarantee: if Goldman faces bankruptcy, the government will bail it out.
+Goldman Sachs is a systemically important financial institution (SIFI), meaning a collapse would threaten the entire financial system. This status provides Goldman an implicit government guarantee: if Goldman faces bankruptcy, the government will bail it out.
 
 This creates a moral hazard: Goldman can take massive risks knowing losses will be socialized (paid by taxpayers) and profits will be privatized (kept by shareholders and executives).
 
 Goldman's political priority: maintain regulatory structure that treats large banks as too-big-to-fail. Specific achievements:
 
-- **2008 TARP Bailout** — Goldman received $10 billion in emergency government capital, plus indirect bailouts through AIG (Goldman's major counterparty, which also received taxpayer funds)
-- **Continued SIFI Status** — Goldman has successfully resisted attempts to reduce its size or status, maintaining implicit government guarantee
-- **Capital Requirement Rollback** — Goldman has lobbied successfully to reduce banking capital requirements, increasing leverage and risk
+- **2008 TARP Bailout**. Goldman received $10 billion in emergency government capital, plus indirect bailouts through AIG (Goldman's major counterparty, which also received taxpayer funds)
+- **Continued SIFI Status**. Goldman has successfully resisted attempts to reduce its size or status, maintaining implicit government guarantee
+- **Capital Requirement Rollback**. Goldman has lobbied successfully to reduce banking capital requirements, increasing leverage and risk
 
 ### 3. Carried Interest Preservation
-Goldman executives and partners receive "carried interest" — a share of profits on assets they manage. This income is taxed as capital gains (15–20%) rather than ordinary income (37%), creating massive tax benefits for Goldman's top earners.
+Goldman executives and partners receive "carried interest", a share of profits on assets they manage. This income is taxed as capital gains (15–20%) rather than ordinary income (37%), creating massive tax benefits for Goldman's top earners.
 
 Goldman's political priority: prevent closing of carried interest tax loophole. This requires donations to both parties to ensure bipartisan support for the loophole.
 
@@ -134,17 +134,17 @@ This is not principled political giving. It is institutional capture: ensure tha
 ### What They've Gotten
 
 ### Legislative/Regulatory Achievements:
-1. **Commodity Futures Modernization Act (2000)** — Derivatives deregulation. Goldman profit: estimated $10+ billion over subsequent 10 years through unregulated derivatives trading.
+1. **Commodity Futures Modernization Act (2000)**. Derivatives deregulation. Goldman profit: estimated $10+ billion over subsequent 10 years through unregulated derivatives trading.
 
-2. **Gramm-Leach-Bliley Act (1999)** — Repeal of Glass-Steagall. Goldman profit: ability to combine investment banking and commercial banking, creating integrated firm with access to Federal Reserve emergency lending for traditional bank operations while maintaining profit-generating investment banking activities.
+2. **Gramm-Leach-Bliley Act (1999)**. Repeal of Glass-Steagall. Goldman profit: ability to combine investment banking and commercial banking, creating integrated firm with access to Federal Reserve emergency lending for traditional bank operations while maintaining profit-generating investment banking activities.
 
-3. **2008 TARP Bailout** — $10 billion direct government capital injection into Goldman during financial crisis. Goldman repaid this in 2009, but also benefited from indirect bailouts (AIG bailout protected Goldman's financial positions).
+3. **2008 TARP Bailout**, $10 billion direct government capital injection into Goldman during financial crisis. Goldman repaid this in 2009, but also benefited from indirect bailouts (AIG bailout protected Goldman's financial positions).
 
-4. **Dodd-Frank Rollback (2017–2024)** — Elimination of key Dodd-Frank provisions on derivatives regulation, proprietary trading, and capital requirements. Goldman profit: ability to engage in derivatives trading with fewer restrictions and capital requirements.
+4. **Dodd-Frank Rollback (2017–2024)**. Elimination of key Dodd-Frank provisions on derivatives regulation, proprietary trading, and capital requirements. Goldman profit: ability to engage in derivatives trading with fewer restrictions and capital requirements.
 
-5. **Carried Interest Tax Loophole Preservation** — Despite repeated attempts to close the loophole, Goldman (along with private equity and hedge funds) has maintained favorable tax treatment on executive compensation. Goldman profit: estimated $5+ million per partner annually in tax benefits.
+5. **Carried Interest Tax Loophole Preservation**. Despite repeated attempts to close the loophole, Goldman (along with private equity and hedge funds) has maintained favorable tax treatment on executive compensation. Goldman profit: estimated $5+ million per partner annually in tax benefits.
 
-6. **SEC Enforcement Reduction** — Goldman has faced zero criminal prosecutions related to mortgage fraud, despite widespread evidence of misconduct in the 2000s. Compare: JPMorgan faced occasional criminal charges; Goldman faced none.
+6. **SEC Enforcement Reduction**. Goldman has faced zero criminal prosecutions related to mortgage fraud, despite widespread evidence of misconduct in the 2000s. Compare: JPMorgan faced occasional criminal charges; Goldman faced none.
 
 ### 2024–2025 Activity:
 Goldman Sachs continues bipartisan giving despite Trump's return to office. 2025 priorities include:
@@ -159,27 +159,27 @@ The clearest evidence of Goldman regulatory capture is the revolving door betwee
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 1995-01-20 | Robert Rubin moves from Goldman co-chairman to Treasury Secretary | — | U.S. Government |
-| 1995-01-01 | Derivatives deregulation policy adopted under Rubin's Treasury leadership | — | Commodity Futures Modernization Act (1999) |
-| 1999-01-01 | Glass-Steagall repealed under Rubin Treasury leadership | — | Gramm-Leach-Bliley Act |
-| 2006-07-10 | Hank Paulson moves from Goldman CEO to Bush Treasury Secretary | — | U.S. Government |
+| 1995-01-20 | Robert Rubin moves from Goldman co-chairman to Treasury Secretary |, | U.S. Government |
+| 1995-01-01 | Derivatives deregulation policy adopted under Rubin's Treasury leadership |, | Commodity Futures Modernization Act (1999) |
+| 1999-01-01 | Glass-Steagall repealed under Rubin Treasury leadership |, | Gramm-Leach-Bliley Act |
+| 2006-07-10 | Hank Paulson moves from Goldman CEO to Bush Treasury Secretary |, | U.S. Government |
 | 2008-09-15 | Goldman receives $10B TARP bailout under Paulson Treasury leadership | $10B | Federal Reserve |
-| 2017-01-20 | Gary Cohn moves from Goldman President to Trump NEC Director | — | White House |
-| 2017-12-22 | Tax Cuts and Jobs Act passed under Cohn leadership | — | Congress |
-| 2017-02-13 | Steven Mnuchin (Goldman partner) confirmed as Trump Treasury Secretary | — | Senate |
-| 2017-01-01 | Financial deregulation initiated under Mnuchin Treasury leadership | — | Trump Administration |
+| 2017-01-20 | Gary Cohn moves from Goldman President to Trump NEC Director |, | White House |
+| 2017-12-22 | Tax Cuts and Jobs Act passed under Cohn leadership |, | Congress |
+| 2017-02-13 | Steven Mnuchin (Goldman partner) confirmed as Trump Treasury Secretary |, | Senate |
+| 2017-01-01 | Financial deregulation initiated under Mnuchin Treasury leadership |, | Trump Administration |
 
 This is not a bug in the financial regulatory system. It is the core feature: the agency responsible for regulating Goldman is staffed by Goldman alumni whose career advancement and wealth are directly tied to Goldman's profitability.
 
 ### Regulatory Capture: The Model
 
-Goldman Sachs is the textbook case of regulatory capture — where the regulated industry controls the regulator. The mechanisms:
+Goldman Sachs is the textbook case of regulatory capture, where the regulated industry controls the regulator. The mechanisms:
 
-1. **Revolving Door** — Goldman alumni in Treasury, Federal Reserve, SEC ensure Goldman-friendly policy
-2. **Campaign Donations** — Bipartisan contributions ensure access regardless of electoral outcomes
-3. **Lobbying** — $2M+ annually spent directly on regulatory agencies
-4. **Think Tank Funding** — Fund economists and researchers who produce "independent research" supporting Goldman's preferred policies
-5. **Legal Threats** — Goldman's legal team defends firm against regulatory action; settlements are negotiated to minimize accountability
+1. **Revolving Door**. Goldman alumni in Treasury, Federal Reserve, SEC ensure Goldman-friendly policy
+2. **Campaign Donations**. Bipartisan contributions ensure access regardless of electoral outcomes
+3. **Lobbying**, $2M+ annually spent directly on regulatory agencies
+4. **Think Tank Funding**. Fund economists and researchers who produce "independent research" supporting Goldman's preferred policies
+5. **Legal Threats**. Goldman's legal team defends firm against regulatory action; settlements are negotiated to minimize accountability
 
 The result: Goldman Sachs operates with fewer regulatory constraints than its global competitors, takes larger risks, and profits more than competitors because it has captured the agency responsible for regulating it.
 
@@ -196,17 +196,17 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 
 ### Sources
 
-- [Goldman Sachs PAC Contributions to Federal Candidates — OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1)
-- [Goldman Sachs Profile: Summary — OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
-- [Goldman Sachs Profile: Totals — OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
-- [Goldman Sachs PAC Donors — OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
-- [Goldman Sachs Lobbying Profile — OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
-- [Goldman Sachs PAC Finance Summary 2025–2026 — BeautifyData](https://beautifydata.com/us-campaign-donations/2025-2026/pac-summary/the-goldman-sachs-group-inc-political-action-committee) (Tier 3)
-- [U.S. banks' IPOs and political money contributions — ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2)
-- [Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties — Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties) (Tier 2)
-- [THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE — FEC.gov](https://www.fec.gov/data/committee/C00350744/?tab=summary) (Tier 1)
+- [Goldman Sachs PAC Contributions to Federal Candidates. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/C00350744/candidate-recipients/2024) (Tier 1)
+- [Goldman Sachs Profile: Summary. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=D000000085) (Tier 1)
+- [Goldman Sachs Profile: Totals. OpenSecrets](https://www.opensecrets.org/orgs/goldman-sachs/totals?id=D000000085) (Tier 1)
+- [Goldman Sachs PAC Donors. OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/goldman-sachs/c00350744/donors/2024) (Tier 1)
+- [Goldman Sachs Lobbying Profile. OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
+- [Goldman Sachs PAC Finance Summary 2025–2026. BeautifyData](https://beautifydata.com/us-campaign-donations/2025-2026/pac-summary/the-goldman-sachs-group-inc-political-action-committee) (Tier 3)
+- [U.S. banks' IPOs and political money contributions. ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2)
+- [Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties. Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties) (Tier 2)
+- [THE GOLDMAN SACHS GROUP, INC. POLITICAL ACTION COMMITTEE. FEC.gov](https://www.fec.gov/data/committee/C00350744/?tab=summary) (Tier 1)
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

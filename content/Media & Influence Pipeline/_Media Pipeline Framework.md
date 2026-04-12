@@ -14,7 +14,7 @@ related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Re
 
 ### Purpose
 
-This section tracks **media personalities who receive money and use their platforms to push policy outcomes** — the propaganda arm of the donor-to-policy pipeline. The Donor Map tracks how money flows from donors to politicians to policy. The Media & Influence Pipeline tracks the parallel flow: how money flows from donors (and platforms, sponsors, foreign governments) to media personalities to public opinion to political cover.
+This section tracks **media personalities who receive money and use their platforms to push policy outcomes**, the propaganda arm of the donor-to-policy pipeline. The Donor Map tracks how money flows from donors to politicians to policy. The Media & Influence Pipeline tracks the parallel flow: how money flows from donors (and platforms, sponsors, foreign governments) to media personalities to public opinion to political cover.
 
 Same analytical framework. Same source standards. Same class analysis lens. Different delivery mechanism.
 
@@ -62,7 +62,7 @@ Media & Influence Pipeline/
     └── [TBD].md
 ```
 
-**Naming convention:** Plain name, no prefix. `Tucker Carlson.md`, not `_Tucker Carlson Master Profile.md`. These are not master profiles — they are media influence profiles. The naming distinction keeps them visually and structurally separate from the politician database.
+**Naming convention:** Plain name, no prefix. `Tucker Carlson.md`, not `_Tucker Carlson Master Profile.md`. These are not master profiles, they are media influence profiles. The naming distinction keeps them visually and structurally separate from the politician database.
 
 ---
 
@@ -82,7 +82,7 @@ platform: youtube | podcast | substack | twitter | rumble | multi-platform
 ```
 
 Additional fields beyond the standard vault schema:
-- `category`: Political lane (right, left, centrist). Centrist is an analytical category, not an endorsement — the analysis will interrogate what "centrist" actually means in funding terms.
+- `category`: Political lane (right, left, centrist). Centrist is an analytical category, not an endorsement, the analysis will interrogate what "centrist" actually means in funding terms.
 - `platform`: Primary distribution platform. Most will be `multi-platform`.
 
 ---
@@ -91,21 +91,21 @@ Additional fields beyond the standard vault schema:
 
 Every media profile follows this structure:
 
-1. **Tags** — `#media-pipeline` required on all, plus `#right` / `#left` / `#centrist`, topic tags
-2. **`related:`** — Wikilinks to donor nodes in `Donors & Power Networks/` that fund this personality. NEVER link to politician master profiles directly.
-3. **`### Who They Are`** — Platform, audience size, content type, reach metrics
-4. **`### The Funding Model`** — Where the money comes from. Sponsorships, platform ad revenue, subscription revenue, dark money, corporate partners, foreign money. Dollar amounts where findable.
-5. **`### Who Funds Them`** — Specific donors, sponsors, corporate backers, platform deals. This is the donor class map equivalent. Wikilink to donor nodes where they exist.
-6. **`### What They Push`** — Policy positions and narratives that serve funder interests. Map specific content to specific funder interests the way the main vault maps votes to donations.
-7. **`### The Audience Capture Model`** — How the funding model shapes content. Platform incentives, sponsor constraints, audience feedback loops. This replaces the politician's "Two-Audience Problem" pattern.
-8. **`### What Their Funders Got`** — Measurable outcomes: narrative shifts, political cover provided, policy positions normalized, candidates boosted/destroyed. The ROI section.
-9. **`### Class Analysis`** — Who benefits from this person's platform existing? What structural function do they serve for the donor class? How does their audience capture serve capital?
-10. **`### Capture Architecture`** — 3-5 line structural summary mapping platform funder, income dependency, and editorial red lines.
-11. **`### Sources`** — Same format as main vault: `[Source: Description](URL) (Tier X)`. FEC individual contributions cite the FEC website receipts search URL.
+1. **Tags**, `#media-pipeline` required on all, plus `#right` / `#left` / `#centrist`, topic tags
+2. **`related:`**. Wikilinks to donor nodes in `Donors & Power Networks/` that fund this personality. NEVER link to politician master profiles directly.
+3. **`### Who They Are`**. Platform, audience size, content type, reach metrics
+4. **`### The Funding Model`**. Where the money comes from. Sponsorships, platform ad revenue, subscription revenue, dark money, corporate partners, foreign money. Dollar amounts where findable.
+5. **`### Who Funds Them`**. Specific donors, sponsors, corporate backers, platform deals. This is the donor class map equivalent. Wikilink to donor nodes where they exist.
+6. **`### What They Push`**. Policy positions and narratives that serve funder interests. Map specific content to specific funder interests the way the main vault maps votes to donations.
+7. **`### The Audience Capture Model`**. How the funding model shapes content. Platform incentives, sponsor constraints, audience feedback loops. This replaces the politician's "Two-Audience Problem" pattern.
+8. **`### What Their Funders Got`**. Measurable outcomes: narrative shifts, political cover provided, policy positions normalized, candidates boosted/destroyed. The ROI section.
+9. **`### Class Analysis`**. Who benefits from this person's platform existing? What structural function do they serve for the donor class? How does their audience capture serve capital?
+10. **`### Capture Architecture`**, 3-5 line structural summary mapping platform funder, income dependency, and editorial red lines.
+11. **`### Sources`**. Same format as main vault: `[Source: Description](URL) (Tier X)`. FEC individual contributions cite the FEC website receipts search URL.
 
-**FEC data requirement:** Every U.S.-eligible media profile must include a standardized `### FEC Record` section. Use `fecDonorLookup()` from `api-toolkit.js` for research; cite the FEC website receipts URL for reader verification. All FEC data is also aggregated in the **FEC Filings — Consolidated Media Pipeline Table** in [[_Media Pipeline Index]] — update the table when adding or modifying any profile's FEC data.
+**FEC data requirement:** Every U.S.-eligible media profile must include a standardized `### FEC Record` section. Use `fecDonorLookup()` from `api-toolkit.js` for research; cite the FEC website receipts URL for reader verification. All FEC data is also aggregated in the **FEC Filings. Consolidated Media Pipeline Table** in [[_Media Pipeline Index]], update the table when adding or modifying any profile's FEC data.
 
-### `### FEC Record` section spec — placement: after `### The Funding Model`, before `### Who Funds Them`:
+### `### FEC Record` section spec, placement: after `### The Funding Model`, before `### Who Funds Them`:
 
 ### For profiles with contributions (table format):
 ```
@@ -135,7 +135,7 @@ No FEC individual contributions found. The FEC API returns [N] results for "[nam
 - [FEC: [Name] individual contributions ([N] results)](https://www.fec.gov/data/receipts/?contributor_name=[NAME]) (Tier 1)
 ```
 
-**Rule: Always show your work on disambiguation.** When the API returns results for a common name but none belong to the subject, say so — name the count, explain why they don't match (wrong state, wrong employer, wrong occupation), and confirm $0 for the actual person. Silence is not the same as absence. Readers clicking the API link will see those results and need to understand why we're reporting $0.
+**Rule: Always show your work on disambiguation.** When the API returns results for a common name but none belong to the subject, say so, name the count, explain why they don't match (wrong state, wrong employer, wrong occupation), and confirm $0 for the actual person. Silence is not the same as absence. Readers clicking the API link will see those results and need to understand why we're reporting $0.
 
 ### For non-U.S. citizens:
 ```
@@ -178,7 +178,7 @@ No FEC individual contributions found. [disambiguation note]
 - [FEC API link] (Tier 1)
 ```
 
-The consolidated FEC table in [[_Media Pipeline Index]] lists multi-host profiles once per host (e.g., Breaking Points appears twice — once for Ball, once for Enjeti).
+The consolidated FEC table in [[_Media Pipeline Index]] lists multi-host profiles once per host (e.g. Breaking Points appears twice, once for Ball, once for Enjeti).
 
 ---
 
@@ -232,7 +232,7 @@ The media pipeline connects to the main vault ONLY through donor nodes:
 [Media Profile] --wikilink--> [Donor Node] <--wikilink-- [Politician Profile]
 ```
 
-Example: `Tucker Carlson.md` links to `[[Koch Network - Charles Koch]]`. The Koch Network node already links to dozens of politician profiles. The graph view shows Tucker connected to the same donor cluster as the politicians — without any direct media-to-politician links.
+Example: `Tucker Carlson.md` links to `[[Koch Network - Charles Koch]]`. The Koch Network node already links to dozens of politician profiles. The graph view shows Tucker connected to the same donor cluster as the politicians, without any direct media-to-politician links.
 
 This means:
 - Deleting the media section severs zero main vault connections
@@ -253,7 +253,7 @@ Each centrist profile will test this thesis against the actual funding data. If 
 
 ### Build Priority
 
-### Phase 1 — Initial 15 profiles (draft quality):
+### Phase 1. Initial 15 profiles (draft quality):
 
 | # | Name | Category | Why First |
 |---|------|----------|-----------|
@@ -266,12 +266,12 @@ Each centrist profile will test this thesis against the actual funding data. If 
 | 7 | Cenk Uygur | Left | TYT funding history (Buddy Roemer, Jeffrey Katzenberg), 2024 presidential run |
 | 8 | Hasan Piker | Left | Twitch/Amazon revenue model, socialist content on corporate platform |
 | 9 | Pod Save America | Left | Crooked Media, ex-Obama staff revolving door, corporate sponsors |
-| 10 | [TBD — 5th left] | Left | Candidates: Sam Seder, Briahna Joy Gray, David Pakman |
+| 10 | [TBD, 5th left] | Left | Candidates: Sam Seder, Briahna Joy Gray, David Pakman |
 | 11 | Joe Rogan | Centrist | Spotify $250M deal, UFC/Dana White connection, political influence without political identity |
 | 12 | Megyn Kelly | Centrist | Fox → NBC → independent, funding model transitions |
 | 13 | Bill Maher | Centrist | HBO corporate backing, donor-class comedy, "real talk" branding |
 | 14 | Lex Fridman | Centrist | Tech billionaire interview pipeline, MIT branding, sponsor model |
-| 15 | [TBD — 5th centrist] | Centrist | Candidates: Chris Cuomo, Glenn Greenwald, Russell Brand |
+| 15 | [TBD, 5th centrist] | Centrist | Candidates: Chris Cuomo, Glenn Greenwald, Russell Brand |
 
 **Phase 2:** Cross-media comparison pieces (same format as Trump-Newsom crossover but for media pairs)
 **Phase 3:** Integration stories mapping donor → media → politician → policy pipelines end-to-end

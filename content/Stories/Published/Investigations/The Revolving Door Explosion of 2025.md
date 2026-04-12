@@ -63,7 +63,7 @@ K Street explicitly markets "congressional connections" as the hiring value prop
 
 - **Lobbying firm job postings (2025):** 340+ positions specifically mentioning "congressional experience" or "Hill contacts"
 - **Salary differential:** Congressional veteran lobbyists earn 40-60% more than generic lobbyists ($250K-400K vs. $150K-250K)
-- **The sales pitch:** Firms hire ex-Congress members to "access" current Congress members — not for expertise, but for personal relationships
+- **The sales pitch:** Firms hire ex-Congress members to "access" current Congress members, not for expertise, but for personal relationships
 
 This is transactional. The value is not knowledge or experience. The value is the ability to call a current member and have that call answered because you used to sit next to them.
 
@@ -101,7 +101,7 @@ The act has zero chance of passing because:
 1. Current members benefit from the revolving door (they plan to use it after leaving)
 2. Leadership of both parties benefits (they hire their departing members as lobbyists)
 3. Corporate donors benefit (they pay for access to former members)
-4. Only constraint is public opinion — and public pays no attention
+4. Only constraint is public opinion, and public pays no attention
 
 ### The 59% Increase in Lobbyist-to-Politics Pipeline
 
@@ -117,7 +117,7 @@ This is not accidental. This is deliberate normalization of lobbyist staffing. I
 
 - [OpenSecrets: Revolving Door Tracker 2025](https://www.opensecrets.org/revolving-door/) (Tier 1)
 - [Politico: Record Exodus of Congress Members to K Street](https://politico.com/congress-k-street-2025) (Tier 2)
-- [POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
+- [POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
 - [Center for Responsive Politics: Revolving Door Analysis](https://responsivepolitics.org/revolving-door) (Tier 2)
 - [ProPublica: Congress Members and Their Lobbying Deals](https://propublica.org/revolving-door) (Tier 2)
 - [Congress.gov: Close the Revolving Door Act (H.R. 2847)](https://congress.gov/bill/hr2847) (Tier 1)

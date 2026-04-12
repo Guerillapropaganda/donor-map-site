@@ -15,7 +15,7 @@ donors: [[MAGA Small Dollar Base]]
 
 ### The Setup: McCarthy's 15-Round Speaker Election
 
-When the 118th Congress convened in January 2023, [[_Kevin McCarthy Master Profile|Kevin McCarthy]] faced 20 Republican holdouts — primarily Freedom Caucus members — who refused to support him for Speaker. After 15 rounds of voting (the most since 1859), McCarthy won by making a series of concessions, including a crucial one: restoring the rule allowing any single member to file a motion to vacate the chair.
+When the 118th Congress convened in January 2023, [[_Kevin McCarthy Master Profile|Kevin McCarthy]] faced 20 Republican holdouts, primarily Freedom Caucus members, who refused to support him for Speaker. After 15 rounds of voting (the most since 1859), McCarthy won by making a series of concessions, including a crucial one: restoring the rule allowing any single member to file a motion to vacate the chair.
 
 This concession gave Gaetz the procedural weapon he would use nine months later.
 
@@ -54,10 +54,10 @@ After McCarthy's removal:
 The academic and journalistic framing of the McCarthy ouster tends to focus on Gaetz's personal grievances and the Freedom Caucus's tactical power. The vault's class analysis asks a different question: who benefits from a dysfunctional House?
 
 ### Beneficiaries of House dysfunction:
-- Industries facing pending regulation (financial services, fossil fuels, pharmaceutical) — regulation requires functional legislative process
+- Industries facing pending regulation (financial services, fossil fuels, pharmaceutical), regulation requires functional legislative process
 - Wealthy individuals and corporations that prefer the status quo over redistributive legislation
 - Foreign governments (Russia, others) whose interests are served by American governmental paralysis
-- MAGA media ecosystem — dysfunction generates content and donations
+- MAGA media ecosystem, dysfunction generates content and donations
 
 ### Non-beneficiaries:
 - Ordinary Americans who need functioning government (healthcare access, housing assistance, disaster relief, infrastructure)

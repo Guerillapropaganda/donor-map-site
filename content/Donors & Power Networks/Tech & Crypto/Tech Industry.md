@@ -95,7 +95,7 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-The Tech Industry. The collective political operation of America's technology sector — the companies (Google, Apple, Amazon, Meta, Microsoft, Nvidia, Oracle), trade associations (TechNet, Internet Association, Information Technology Industry Council), and venture capital firms that spend $100-200M annually on federal lobbying alone. The tech industry has become one of the most politically active sectors in America, surpassing traditional lobbying powerhouses in total political spending.
+The Tech Industry. The collective political operation of America's technology sector, the companies (Google, Apple, Amazon, Meta, Microsoft, Nvidia, Oracle), trade associations (TechNet, Internet Association, Information Technology Industry Council), and venture capital firms that spend $100-200M annually on federal lobbying alone. The tech industry has become one of the most politically active sectors in America, surpassing traditional lobbying powerhouses in total political spending.
 
 The industry's political priorities span both parties' agendas: Section 230 preservation (protecting platform immunity), antitrust defense (opposing breakup proposals), AI regulation shaping (supporting frameworks that favor incumbents), immigration reform (H-1B visa expansion), patent and IP protection, and international trade frameworks that protect American tech dominance. The tech industry's political spending has evolved from reactive (responding to regulatory threats) to proactive (shaping regulatory frameworks before they materialize).
 
@@ -104,7 +104,7 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 
 ---
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

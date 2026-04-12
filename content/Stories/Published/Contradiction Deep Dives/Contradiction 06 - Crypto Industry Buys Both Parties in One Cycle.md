@@ -19,12 +19,12 @@ tags: #analysis #story
 
 The crypto industry achieved legislative dominance in 2024 by neutralizing the one mechanism that had previously blocked it: party discipline. What emerged was theatrical opposition masking unified policy direction.
 
-Democratic crypto skeptics performed resistance while accepting Fairshake money. Senator [[_Elizabeth Warren Master Profile|Elizabeth Warren]] called crypto a "financial time bomb" and opposed FIT21. Yet 71 Democrats voted for FIT21 anyway — defying President Biden's veto threat and Warren's own position. The bill passed 279–136, with Warren's objections becoming rhetorical cover for Democratic capitulation.
+Democratic crypto skeptics performed resistance while accepting Fairshake money. Senator [[_Elizabeth Warren Master Profile|Elizabeth Warren]] called crypto a "financial time bomb" and opposed FIT21. Yet 71 Democrats voted for FIT21 anyway, defying President Biden's veto threat and Warren's own position. The bill passed 279–136, with Warren's objections becoming rhetorical cover for Democratic capitulation.
 
 The messaging split was precise: "We're protecting consumers" (Democrats) vs. "We're unleashing innovation" (Republicans). The policy outcome: identical. Both parties voted for FIT21 in May 2024, legalizing much of what they had condemned 18 months prior.
 
 [!contradiction]
-**The Contradiction:** Gary Gensler, the SEC chair Biden appointed, faced intense crypto industry opposition while warning of market dangers. [[Sherrod Brown]], as Banking Committee chair, blocked crypto bills. Both were targets of $40+ million in anti-incumbent spending. Yet both were framed as outliers — "anti-innovation" obstructionists — while the actual Democratic base moved toward capitulation. No public Democratic official articulated why the party had reversed position. The answer was financial: Fairshake had made opposition too costly.
+**The Contradiction:** Gary Gensler, the SEC chair Biden appointed, faced intense crypto industry opposition while warning of market dangers. [[Sherrod Brown]], as Banking Committee chair, blocked crypto bills. Both were targets of $40+ million in anti-incumbent spending. Yet both were framed as outliers, "anti-innovation" obstructionists, while the actual Democratic base moved toward capitulation. No public Democratic official articulated why the party had reversed position. The answer was financial: Fairshake had made opposition too costly.
 
 ---
 #analysis
@@ -37,17 +37,17 @@ The messaging split was precise: "We're protecting consumers" (Democrats) vs. "W
 | 2024 Q1-Q2 | Coinbase | $25M+ | [[Fairshake PAC]] | Largest single donor to pro-crypto super PAC |
 | 2024 Q2 | Ripple | $25M | [[Fairshake PAC]] | Second-largest donor |
 | 2024 Q2 | a16z Crypto | $24M | Fairshake/Protect Progress | Third-largest donor concentration |
-| May 22, 2024 | FIT21 Vote | — | House | 279–136 passage: 71 Democrats defect, including Pelosi |
+| May 22, 2024 | FIT21 Vote |, | House | 279–136 passage: 71 Democrats defect, including Pelosi |
 | June 2024 | Fairshake | $133M total | 2024 races | Outside spending across House/Senate |
 | June-Oct 2024 | Defend American Jobs | $40.1M | Sherrod Brown defeat (OH Senate) | Anti-incumbent super PAC targeting |
 | February 2024 | Fairshake | $10M+ | [[_Katie Porter Master Profile|Katie Porter]] primary (CA Senate) | Crypto billionaires spend to eliminate crypto skeptic |
-| November 2024 | Election | — | House | 274 pro-crypto candidates elected (Stand With Crypto tracker) |
-| November 2024 | Election | — | Senate | 20 pro-crypto candidates elected |
-| January 20, 2025 | Gary Gensler departure | — | SEC chair | Removed one day after 2024 election results |
-| April 9, 2025 | Paul Atkins confirmed | — | SEC chair replacement | Pro-crypto commissioner installed (51–49 Senate vote) |
+| November 2024 | Election |, | House | 274 pro-crypto candidates elected (Stand With Crypto tracker) |
+| November 2024 | Election |, | Senate | 20 pro-crypto candidates elected |
+| January 20, 2025 | Gary Gensler departure |, | SEC chair | Removed one day after 2024 election results |
+| April 9, 2025 | Paul Atkins confirmed |, | SEC chair replacement | Pro-crypto commissioner installed (51–49 Senate vote) |
 | March 6, 2025 | Strategic Bitcoin Reserve | Executive order | Federal policy | Trump administration allocates government crypto holdings |
 | June 17, 2025 | GENIUS Act Senate vote | 68–30 | Stablecoin legislation | Bipartisan passage |
-| July 18, 2025 | GENIUS Act signed | — | First major crypto law | Trump administration: first federal crypto legislation |
+| July 18, 2025 | GENIUS Act signed |, | First major crypto law | Trump administration: first federal crypto legislation |
 
 ---
 
@@ -55,12 +55,12 @@ The messaging split was precise: "We're protecting consumers" (Democrats) vs. "W
 
 The crypto industry compressed a multi-decade regulatory capture into 18 months. Pharmaceutical companies took 40+ years to embed themselves in Congress. Crypto did it in a single election cycle.
 
-**The Speed:** 2023 showed zero major crypto legislation. By July 2025, the GENIUS Act was signed into law. FIT21 passed the House on party-line opposition and was poised for Senate passage. The SEC — the primary regulatory obstacle — went from crypto skeptic to crypto champion in four months (Gensler departure, Atkins confirmation).
+**The Speed:** 2023 showed zero major crypto legislation. By July 2025, the GENIUS Act was signed into law. FIT21 passed the House on party-line opposition and was poised for Senate passage. The SEC, the primary regulatory obstacle, went from crypto skeptic to crypto champion in four months (Gensler departure, Atkins confirmation).
 
 **The Scale:** $238–290 million in political spending by crypto corporations and industry actors. This represented 47–48% of ALL corporate election spending in 2024, according to Public Citizen. No single industry had achieved this concentration of political money since Citizens United (2010). Fossil fuels, the previous champion, were now second.
 
 [!money]
-**The Dominance:** Four companies — Coinbase, Ripple, a16z, and Jump Crypto — funded 94% of the $155 million committed to Fairshake. The concentration was total: crypto oligopolies wrote their own regulation through super PACs. The "crypto trio" (Fairshake, Protect Progress, Defend American Jobs) reported combined spending of $139+ million, with a 91% win rate across 58 targeted races.
+**The Dominance:** Four companies. Coinbase, Ripple, a16z, and Jump Crypto, funded 94% of the $155 million committed to Fairshake. The concentration was total: crypto oligopolies wrote their own regulation through super PACs. The "crypto trio" (Fairshake, Protect Progress, Defend American Jobs) reported combined spending of $139+ million, with a 91% win rate across 58 targeted races.
 
 ### What They Bought:
 - A Republican SEC chair who'd been Token Alliance co-chair since 2017
@@ -78,9 +78,9 @@ Sherrod Brown was the test case. As Banking Committee chair, he'd blocked crypto
 
 **The Race:** Bernie Moreno, a blockchain entrepreneur, received crypto PAC support. Defend American Jobs (affiliated with Fairshake) poured $40.1 million into ads against Brown. This was in a single state Senate race. Brown outspent Moreno in direct fundraising but was overwhelmed by crypto super PAC spending.
 
-**The Messaging:** Crypto money didn't run ads *about* crypto. Instead, the $40 million funded generic attack ads — "Brown is out of touch," "Moreno is the future" — with no mention of the industry bankrolling the campaign. This created plausible deniability: Brown lost due to normal political factors, not crypto money. Yet the timing was undeniable. The moment Brown blocked crypto regulation, $40 million appeared.
+**The Messaging:** Crypto money didn't run ads *about* crypto. Instead, the $40 million funded generic attack ads, "Brown is out of touch," "Moreno is the future", with no mention of the industry bankrolling the campaign. This created plausible deniability: Brown lost due to normal political factors, not crypto money. Yet the timing was undeniable. The moment Brown blocked crypto regulation, $40 million appeared.
 
-**The Message to Other Senators:** Three other banking committee members with concerns about crypto — [[_Elizabeth Warren Master Profile|Elizabeth Warren]], Sherrod Brown's Democratic ally — watched Brown lose. She received $10+ million in anti-crypto spending in her 2024 Senate race (which she won, but the threat was registered). No other Democrat made a major anti-crypto statement in 2024 or 2025. The lesson was transmitted: crypto will spend to remove you.
+**The Message to Other Senators:** Three other banking committee members with concerns about crypto, [[_Elizabeth Warren Master Profile|Elizabeth Warren]], Sherrod Brown's Democratic ally, watched Brown lose. She received $10+ million in anti-crypto spending in her 2024 Senate race (which she won, but the threat was registered). No other Democrat made a major anti-crypto statement in 2024 or 2025. The lesson was transmitted: crypto will spend to remove you.
 
 **The Return to Crypto:** The 119th Congress (2025-2026) includes Bernie Moreno as a U.S. Senator. The Banking Committee chair is likely to be pro-crypto. The path to FIT21 Senate passage cleared immediately.
 
@@ -140,18 +140,18 @@ The outcome: a regulatory agency (SEC) hostile to the companies it's meant to re
 
 **The Working Class Function:** Crypto creates zero union jobs. Blockchain infrastructure is entirely non-unionized. The $238M in crypto political spending directly competes with labor's political spending (~$75–100M across unions in 2024). The message is simple: we have 2–3x more money, we will spend it, and we will win.
 
-The both-sides framing — "crypto has Democrats and Republicans" — obscures the actual structure: crypto has *wealth* and wealth buys *both* parties' compliance when parties fracture. The Republican Party moved first and unified. The Democratic Party moved later and fractured. Crypto got what it needed from both.
+The both-sides framing, "crypto has Democrats and Republicans", obscures the actual structure: crypto has *wealth* and wealth buys *both* parties' compliance when parties fracture. The Republican Party moved first and unified. The Democratic Party moved later and fractured. Crypto got what it needed from both.
 
 ---
 
 ### Sources
 
-### Primary Election Spending Data (Tier 1 — Government)
+### Primary Election Spending Data (Tier 1. Government)
 - [OpenSecrets: Fairshake PAC Expenditures 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/expenditures/2024) (Tier 1)
 - [OpenSecrets: Fairshake PAC Summary 2024](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1)
 - [FEC Independent Expenditures: Outside Spending Detail 2024](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
 
-### Aggregate Crypto Spending & Win Rate (Tier 2 — Major Journalism)
+### Aggregate Crypto Spending & Win Rate (Tier 2. Major Journalism)
 - [CoinDesk: "More than 50 Members of the Next U.S. Congress Backed by Crypto Spending"](https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress) (Tier 2)
 - [Public Citizen: "Big Crypto, Big Spending: Crypto Corporations Spend Unprecedented $119 Million Influencing Elections"](https://www.citizen.org/article/big-crypto-big-spending-2024/) (Tier 2)
 - [CoinDesk: "The Crypto Trio: How the Cryptocurrency Industry Has Made Its Mark on 2024 Elections"](https://www.opensecrets.org/news/2024/11/the-crypto-trio-how-the-cryptocurrency-industry-has-made-its-mark-on-2024-elections/) (Tier 2)

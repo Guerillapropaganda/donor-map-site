@@ -15,7 +15,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee]] · DCCC Donor Netwo
 
 ### The Succession as Institutional Continuity
 
-When [[_Nancy Pelosi Master Profile|Nancy Pelosi]] stepped down from House Democratic leadership in November 2022, Jeffries was elected her successor unanimously — not through a contested process but through a managed transition. This is not incidental. Leadership transitions in the House are donor-class events: the incoming leader must demonstrate control of the funding apparatus before assuming formal power.
+When [[_Nancy Pelosi Master Profile|Nancy Pelosi]] stepped down from House Democratic leadership in November 2022, Jeffries was elected her successor unanimously, not through a contested process but through a managed transition. This is not incidental. Leadership transitions in the House are donor-class events: the incoming leader must demonstrate control of the funding apparatus before assuming formal power.
 
 Jeffries had been building toward this position for years. His chairmanship of the House Democratic Caucus (2019–2023) gave him experience managing the caucus's messaging and fundraising operations. His Team Blue PAC co-founding with [[_Josh Gottheimer Master Profile|Josh Gottheimer]] (the most prominent corporate Democrat in the House) signaled donor-class alignment explicitly.
 
@@ -33,7 +33,7 @@ Jeffries is the top recipient of Israel-lobby money in the House, with over $1.3
 - NorPAC: $99,150
 - Additional affiliated organizations and bundled contributions
 
-When directly asked about AIPAC donations on a radio program, Jeffries stated that AIPAC's PAC can contribute only $5,000–$10,000 per cycle — technically accurate for the registered PAC, but misleading about the full scope of coordinated independent spending and affiliated donor networks that produce the $1.3M career total.
+When directly asked about AIPAC donations on a radio program, Jeffries stated that AIPAC's PAC can contribute only $5,000–$10,000 per cycle, technically accurate for the registered PAC, but misleading about the full scope of coordinated independent spending and affiliated donor networks that produce the $1.3M career total.
 
 > [!contradiction]
 > Jeffries' congressional district includes a significant Arab-American and Muslim population in addition to Jewish communities. His Gaza position — maintaining support for Israel through the 2023–2024 military campaign despite mass civilian casualties — created significant tension with Arab-American and progressive constituents. The AIPAC donor relationship directly constrains his policy options. His public framing ("two-state solution," "civilian protection") is indistinguishable from the language of the Biden administration — which is the language of the donor class consensus on Israel/Palestine.
@@ -42,12 +42,12 @@ When directly asked about AIPAC donations on a radio program, Jeffries stated th
 
 ### The DCCC Discipline Mechanism
 
-As Minority Leader, Jeffries controls DCCC fundraising strategy — the same function Pelosi used for three decades to enforce party discipline. The mechanism works as follows:
+As Minority Leader, Jeffries controls DCCC fundraising strategy, the same function Pelosi used for three decades to enforce party discipline. The mechanism works as follows:
 
 1. Major donors contribute to the DCCC because it provides leverage over multiple House races simultaneously
 2. The DCCC leadership (controlled by the Minority Leader's team) decides which primaries to intervene in, which incumbents to protect, and which challengers to fund
 3. Members who support leadership priorities get DCCC support; members who challenge leadership priorities risk being on their own or actively opposed
-4. Progressive challengers — who typically run on small-dollar platforms that threaten the donor relationships — are systematically disadvantaged
+4. Progressive challengers, who typically run on small-dollar platforms that threaten the donor relationships, are systematically disadvantaged
 
 This is the mechanism that blocked the Squad's expansion, that blacklisted primary challengers who defeated corporate incumbents, and that funneled resources to corporate-friendly candidates in competitive districts.
 

@@ -78,7 +78,7 @@ The corporate PAC pledge serves several class interests:
 
 ### The Contradiction Deepened: "Grassroots" Messaging
 
-Stratton's campaign repeatedly invoked the rhetoric of "grassroots" energy and "Strattmentum"—populist framing that suggests her victory came from ordinary people organizing. [Yet her financial dominance came almost entirely from Pritzker family wealth ($6.1 million of $6.3 million outside PAC fundraising—82%).](https://capitolnewsillinois.com/news/pro-stratton-super-pac-touts-pritzker-endorsement/) This is not grassroots. Grassroots means distributed, small-dollar support from many people. Stratton's financial reality was concentrated support from one family.
+Stratton's campaign repeatedly invoked the rhetoric of "grassroots" energy and "Strattmentum", populist framing that suggests her victory came from ordinary people organizing. [Yet her financial dominance came almost entirely from Pritzker family wealth ($6.1 million of $6.3 million outside PAC fundraising, 82%).](https://capitolnewsillinois.com/news/pro-stratton-super-pac-touts-pritzker-endorsement/) This is not grassroots. Grassroots means distributed, small-dollar support from many people. Stratton's financial reality was concentrated support from one family.
 
 The gap between "grassroots" rhetoric and billionaire funding is not incidental. It is central to how modern money-in-politics works: politicians funded by wealth concentration adopt the language of grassroots movements. They claim to represent ordinary people while depending on billionaires for electoral viability. The corporate PAC pledge helps manage this contradiction by offering a token anti-corruption commitment that preserves billionaire access.
 

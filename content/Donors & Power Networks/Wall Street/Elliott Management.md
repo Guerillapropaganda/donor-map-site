@@ -28,9 +28,9 @@ audit-a-plus-passed: "2026-04-11"
 
 Elliott Investment Management (formerly Elliott Management Corporation). Founded in 1977 by Paul Ellis Singer. One of the world's largest and most aggressive activist hedge funds, managing approximately $70 billion in assets as of mid-2025. Singer's personal net worth exceeds $6 billion.
 
-Elliott's business model is corporate coercion: take large stakes in companies, demand restructuring, replace leadership, extract value. The firm has forced management changes at dozens of major corporations and has famously pursued sovereign debt claims against entire nations — most notably Argentina, where Elliott seized an Argentine naval vessel over a $1.6 billion bond dispute. Singer's willingness to deploy legal, political, and financial power simultaneously makes Elliott unique among hedge funds: it doesn't just invest in the political environment, it shapes the political environment to protect its investments.
+Elliott's business model is corporate coercion: take large stakes in companies, demand restructuring, replace leadership, extract value. The firm has forced management changes at dozens of major corporations and has famously pursued sovereign debt claims against entire nations, most notably Argentina, where Elliott seized an Argentine naval vessel over a $1.6 billion bond dispute. Singer's willingness to deploy legal, political, and financial power simultaneously makes Elliott unique among hedge funds: it doesn't just invest in the political environment, it shapes the political environment to protect its investments.
 
-Singer is one of the Republican Party's most consistent mega-donors over the past two decades. His total lifetime political giving exceeds $89 million since 2015 alone. But his most consequential influence may now be through the judiciary — specifically, through his undisclosed personal relationship with Supreme Court Justice Samuel Alito.
+Singer is one of the Republican Party's most consistent mega-donors over the past two decades. His total lifetime political giving exceeds $89 million since 2015 alone. But his most consequential influence may now be through the judiciary, specifically, through his undisclosed personal relationship with Supreme Court Justice Samuel Alito.
 
 - [OpenSecrets: Paul Singer donor profile](https://www.opensecrets.org/donor-lookup/results?name=paul+singer&order=desc&sort=D) (Tier 1)
 - [Wikipedia: Paul Singer (businessman)](https://en.wikipedia.org/wiki/Paul_Singer_(businessman)) (Tier 3)
@@ -43,11 +43,11 @@ Elliott's political interests are inseparable from its business model:
 
 **Financial deregulation:** Preservation of the carried-interest loophole (which taxes hedge fund profits as capital gains rather than income), reduced regulation of activist investing, and favorable SEC treatment of short-selling and leveraged buyout practices.
 
-**Aggressive foreign policy:** Singer personally funds neoconservative national security hawks and interventionist foreign policy advocacy. The Foundation for Defense of Democracies (FDD), Singer's flagship think tank, has been the primary intellectual engine behind maximum-pressure Iran policy and anti-China hawkishness. Both senators Singer most heavily funds — Rubio and Cotton — became key Trump administration advisors on exactly those regions.
+**Aggressive foreign policy:** Singer personally funds neoconservative national security hawks and interventionist foreign policy advocacy. The Foundation for Defense of Democracies (FDD), Singer's flagship think tank, has been the primary intellectual engine behind maximum-pressure Iran policy and anti-China hawkishness. Both senators Singer most heavily funds. Rubio and Cotton, became key Trump administration advisors on exactly those regions.
 
 **Pro-Israel policy:** Singer's secondary obsession is funding staunchly pro-Israel organizations and politicians. The Paul E. Singer Foundation donated over $3.3 million to Israel-related groups including Birthright Israel Foundation in 2021 alone, plus $1.25 million to the American Israel Education Fund (AIPAC's educational arm) in 2019, and over $3.6 million to FDD between 2008-2011.
 
-**Fossil fuel protection:** Elliott holds a $3 billion stake in Suncor Energy (Canada's largest oil sands producer) — making it one of the firm's single largest positions. Elliott's interest in blocking climate liability lawsuits against oil companies is now a $3 billion financial interest, and that interest is before the Supreme Court (see below).
+**Fossil fuel protection:** Elliott holds a $3 billion stake in Suncor Energy (Canada's largest oil sands producer), making it one of the firm's single largest positions. Elliott's interest in blocking climate liability lawsuits against oil companies is now a $3 billion financial interest, and that interest is before the Supreme Court (see below).
 
 ---
 
@@ -79,11 +79,11 @@ Singer met with Trump in July 2024 about donating to his campaign, despite havin
 
 ### What They've Gotten
 
-**Financial regulatory protection:** Carried-interest loophole preserved across both parties. Activist investing practices face minimal regulatory scrutiny under Republican administrations. Elliott's specific business model — taking hostile positions, forcing restructurings, extracting value — has never been meaningfully regulated despite bipartisan rhetoric about hedge fund excess.
+**Financial regulatory protection:** Carried-interest loophole preserved across both parties. Activist investing practices face minimal regulatory scrutiny under Republican administrations. Elliott's specific business model, taking hostile positions, forcing restructurings, extracting value, has never been meaningfully regulated despite bipartisan rhetoric about hedge fund excess.
 
-**Foreign policy alignment:** Two of America's most aggressive Iran and China hawks (Rubio and Cotton) are simultaneously major Singer beneficiaries. Rubio is now Secretary of State — the senator Singer funded for a decade now runs American foreign policy. Cotton chairs the Senate Intelligence Committee. Singer's FDD think tank provided the intellectual framework for maximum-pressure Iran sanctions. The policy positions Singer funded became the foreign policy of the United States.
+**Foreign policy alignment:** Two of America's most aggressive Iran and China hawks (Rubio and Cotton) are simultaneously major Singer beneficiaries. Rubio is now Secretary of State, the senator Singer funded for a decade now runs American foreign policy. Cotton chairs the Senate Intelligence Committee. Singer's FDD think tank provided the intellectual framework for maximum-pressure Iran sanctions. The policy positions Singer funded became the foreign policy of the United States.
 
-### Judicial access — The Alito Connection:
+### Judicial access. The Alito Connection:
 
 > [!contradiction] The Supreme Court Justice and the Billionaire Donor
 > In 2008, Paul Singer arranged a luxury fishing trip to an exclusive Alaska lodge for Supreme Court Justice Samuel Alito. Singer flew Alito on a private jet — a flight worth over $100,000 each way if chartered commercially. Alito did not disclose the trip on his financial disclosure form, as required by federal law.
@@ -97,13 +97,13 @@ Singer met with Trump in July 2024 about donating to his campaign, despite havin
 
 ---
 
-### The Suncor Climate Case — $3 Billion Before the Court (March 2026)
+### The Suncor Climate Case, $3 Billion Before the Court (March 2026)
 
 This is the most consequential Singer-Alito intersection to date.
 
-**Elliott's Suncor position:** In 2022, Elliott took a $1.6 billion activist stake in Suncor Energy, forced out existing leadership, and installed new CEO Rich Kruger. By October 2024, Elliott had nearly doubled its position to approximately $3 billion — one of the firm's largest single holdings. Elliott called the new management "rockstars."
+**Elliott's Suncor position:** In 2022, Elliott took a $1.6 billion activist stake in Suncor Energy, forced out existing leadership, and installed new CEO Rich Kruger. By October 2024, Elliott had nearly doubled its position to approximately $3 billion, one of the firm's largest single holdings. Elliott called the new management "rockstars."
 
-**The climate liability case:** Boulder, Colorado sued Suncor and ExxonMobil for climate damages under state law. The oil companies petitioned the Supreme Court to take the case and move it to federal court — where industry-friendly precedent would likely kill the lawsuit. This case is the bellwether for dozens of similar climate liability suits nationwide. A ruling for Suncor could effectively immunize the entire fossil fuel industry from state-level climate litigation.
+**The climate liability case:** Boulder, Colorado sued Suncor and ExxonMobil for climate damages under state law. The oil companies petitioned the Supreme Court to take the case and move it to federal court, where industry-friendly precedent would likely kill the lawsuit. This case is the bellwether for dozens of similar climate liability suits nationwide. A ruling for Suncor could effectively immunize the entire fossil fuel industry from state-level climate litigation.
 
 ### The recusal reversal:
 
@@ -127,15 +127,15 @@ If the Supreme Court rules in Suncor's favor, the value of Elliott's $3 billion 
 | Date | Event/Contribution | Amount | Policy Action | Time Gap |
 |---|---|---|---|---|
 | 2008 | Singer arranges Alaska fishing trip for Justice Alito | ~$100K+ (private jet, lodge) | Undisclosed; no recusal from subsequent Elliott cases | Ongoing (16+ years) |
-| 2014 | Elliott v. Argentina at Supreme Court | — | Alito votes 7-1 in Singer's favor on sovereign debt | 6 years post-trip |
-| 2016 | Singer funds Rubio presidential campaign | Multi-million | Rubio becomes leading Iran/China hawk | — |
-| 2022 | Elliott takes $1.6B activist stake in Suncor | $1.6B (investment) | Forces management restructuring | — |
-| 2024-07 | Singer meets Trump about 2024 donations | — | Former Trump critic reconciles | — |
+| 2014 | Elliott v. Argentina at Supreme Court |, | Alito votes 7-1 in Singer's favor on sovereign debt | 6 years post-trip |
+| 2016 | Singer funds Rubio presidential campaign | Multi-million | Rubio becomes leading Iran/China hawk |, |
+| 2022 | Elliott takes $1.6B activist stake in Suncor | $1.6B (investment) | Forces management restructuring |, |
+| 2024-07 | Singer meets Trump about 2024 donations |, | Former Trump critic reconciles |, |
 | 2024 | Singer donates $25M to SLF, $12M to CLF, $5M to MAGA Inc | $42M+ | Republican Senate/House/Trump infrastructure funded | Concurrent with election |
-| 2024-10 | Elliott doubles Suncor stake to ~$3B | $3B position | — | — |
-| 2025-01 | Alito recuses from Honolulu climate case | — | Parallel case to Suncor/Boulder; recusal standard set | — |
-| 2025-01 | Rubio confirmed as Secretary of State | — | Singer's top political investment now runs U.S. foreign policy | 9 years of funding |
-| 2026-02 | Alito participates in granting Suncor petition | — | Reverses own recusal; $3B Singer position gets favorable hearing | 13 months after recusing from identical question |
+| 2024-10 | Elliott doubles Suncor stake to ~$3B | $3B position |, |, |
+| 2025-01 | Alito recuses from Honolulu climate case |, | Parallel case to Suncor/Boulder; recusal standard set |, |
+| 2025-01 | Rubio confirmed as Secretary of State |, | Singer's top political investment now runs U.S. foreign policy | 9 years of funding |
+| 2026-02 | Alito participates in granting Suncor petition |, | Reverses own recusal; $3B Singer position gets favorable hearing | 13 months after recusing from identical question |
 
 > [!money] The $3 Billion Judicial Pipeline
 > Paul Singer spent $42M+ on 2024 Republican politics and $89M+ since 2015. His hedge fund holds a $3 billion stake in Suncor Energy — a company now before the Supreme Court in a climate case that could determine the entire fossil fuel industry's liability exposure. The justice deciding the case received an undisclosed luxury trip from Singer, never recused from any of Singer's 10+ prior cases, and reversed his own recusal from the identical legal question when Singer's $3 billion position was at stake. ROI on the Alaska fishing trip: potentially 30,000-to-1 if measured against the protected value of the Suncor position alone.
@@ -146,9 +146,9 @@ If the Supreme Court rules in Suncor's favor, the value of Elliott's $3 billion 
 
 Paul Singer represents the merger of three forms of power that are supposed to be structurally separate: financial capital (Elliott's $70B in managed assets), political capital ($89M+ in Republican donations buying foreign policy alignment through Rubio and Cotton), and judicial access (the undisclosed Alito relationship that ensures favorable Supreme Court treatment of Singer's investments).
 
-The Suncor case crystallizes the model. Singer took a $1.6 billion activist position in an oil company, forced new management, doubled the stake to $3 billion, and now has the case that determines whether that investment is protected or exposed before a Supreme Court where his undisclosed fishing companion reversed his own recusal standard to participate. This is not a donation-to-policy pipeline — it's an investment-to-judicial-outcome pipeline that bypasses the political process entirely.
+The Suncor case crystallizes the model. Singer took a $1.6 billion activist position in an oil company, forced new management, doubled the stake to $3 billion, and now has the case that determines whether that investment is protected or exposed before a Supreme Court where his undisclosed fishing companion reversed his own recusal standard to participate. This is not a donation-to-policy pipeline, it's an investment-to-judicial-outcome pipeline that bypasses the political process entirely.
 
-The foreign policy dimension is equally direct. Singer funded Rubio for a decade; Rubio is now Secretary of State. Singer funded Cotton; Cotton chairs Senate Intelligence. Singer's FDD think tank wrote the intellectual framework for maximum-pressure Iran policy. The donors didn't just influence foreign policy — they installed the people who run it.
+The foreign policy dimension is equally direct. Singer funded Rubio for a decade; Rubio is now Secretary of State. Singer funded Cotton; Cotton chairs Senate Intelligence. Singer's FDD think tank wrote the intellectual framework for maximum-pressure Iran policy. The donors didn't just influence foreign policy, they installed the people who run it.
 
 Pattern flags: **Donor-Class Override** (judicial recusal reversed to protect donor's $3B position), **Revolving Door** (FDD think tank to Trump foreign policy apparatus), **Both-Sides Illusion** (Singer reconciled with Trump after years of opposition once Republican power was consolidated).
 

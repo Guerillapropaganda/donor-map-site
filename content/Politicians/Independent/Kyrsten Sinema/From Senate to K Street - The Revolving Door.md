@@ -31,7 +31,7 @@ The speed reveals the relationship: Sinema did not need to persuade industries t
 
 ---
 
-### The Party Switch: December 9, 2022 — A Strategic Withdrawal
+### The Party Switch: December 9, 2022. A Strategic Withdrawal
 
 Sinema's switch from Democrat to Independent on December 9, 2022, was strategically significant but often misinterpreted. The common reading: she switched because she was alienated from the Democratic Party and wanted to position herself as an independent moderate.
 
@@ -43,13 +43,13 @@ The actual dynamic was different. Sinema switched to avoid a primary challenge a
 - **The calculation:** As a Democrat, she faced a likely primary challenge in 2024 from a progressive candidate funded by small-dollar donors. She was already deeply unpopular with Arizona Democratic voters (censured January 2022). A primary loss would be devastating. But as an Independent, she could avoid the primary entirely and position for a general election as a "moderate independent."
 - **The reality:** By late 2023, Sinema realized she could not win a general election in Arizona either (Democratic voters hated her; Republican voters viewed her as a Democrat). So she announced she would not seek reelection.
 
-The party switch was not a principle — it was a tactical move to delay accountability while she prepared her exit strategy. By not seeking reelection, she avoided the problem of having to actually win an election based on her voting record.
+The party switch was not a principle, it was a tactical move to delay accountability while she prepared her exit strategy. By not seeking reelection, she avoided the problem of having to actually win an election based on her voting record.
 
 ---
 
 ### Hogan Lovells: The Major Lobbying Hire
 
-In March 2025, Hogan Lovells — a massive international law and lobbying firm with $2.9 billion in annual revenue — announced that [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] had joined as Senior Advisor in their Global Regulatory & IP practice group.
+In March 2025, Hogan Lovells, a massive international law and lobbying firm with $2.9 billion in annual revenue, announced that [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] had joined as Senior Advisor in their Global Regulatory & IP practice group.
 
 ### Key details of the hire:
 | Aspect | Details |
@@ -93,7 +93,7 @@ For Sinema, the board position provided:
 
 ### The AI Infrastructure Coalition: The Lobbying Front
 
-In addition to her Hogan Lovells position and Coinbase board seat, Sinema founded the AI Infrastructure Coalition — a lobbying effort disguised as a policy advocacy organization.
+In addition to her Hogan Lovells position and Coinbase board seat, Sinema founded the AI Infrastructure Coalition, a lobbying effort disguised as a policy advocacy organization.
 
 ### What the AI Infrastructure Coalition is:
 The coalition claims to advocate for AI infrastructure development but is actually a lobbying vehicle for major technology, energy, and manufacturing firms. Its founding members include:
@@ -105,11 +105,11 @@ The coalition claims to advocate for AI infrastructure development but is actual
 - Pinnacle West
 
 ### What the coalition lobbies for:
-1. **AI data center expansion** — funding and streamlined permitting for massive data centers (Arizona Chandler project specifically)
-2. **Energy infrastructure** — ensuring reliable power supply for data centers (benefits energy companies like [[ExxonMobil|ExxonMobil]], NextEra)
-3. **Tax incentives** — federal and state tax breaks for AI infrastructure
-4. **Deregulation** — streamlined environmental review and permitting for data centers
-5. **Immigration** — expanded tech worker visa programs
+1. **AI data center expansion**, funding and streamlined permitting for massive data centers (Arizona Chandler project specifically)
+2. **Energy infrastructure**, ensuring reliable power supply for data centers (benefits energy companies like [[ExxonMobil|ExxonMobil]], NextEra)
+3. **Tax incentives**, federal and state tax breaks for AI infrastructure
+4. **Deregulation**, streamlined environmental review and permitting for data centers
+5. **Immigration**, expanded tech worker visa programs
 
 ### Sinema's role:
 Sinema chairs the coalition and serves as the public face. Her role is to:
@@ -133,7 +133,7 @@ Warren's points:
 1. **Speed of transition:** Moving to lobbying within months of leaving the Senate shows the relationship was pre-arranged
 2. **Regulatory capture:** Sinema is now using her Democratic credentials to lobby Democratic regulators on behalf of industries she positioned to protect in the Senate
 3. **Multiple conflicts:** Serving as both direct lobbyist and coalition chair while maintaining academic and advisory positions creates interlocking conflicts
-4. **Pattern of service:** Warren connected Sinema's Senate voting record (protecting carried interest, opposing voting rights, limiting drug pricing) to her post-Senate corporate board appointments — same industries, same interests
+4. **Pattern of service:** Warren connected Sinema's Senate voting record (protecting carried interest, opposing voting rights, limiting drug pricing) to her post-Senate corporate board appointments, same industries, same interests
 
 Warren's framing was direct: Sinema's Senate career was not about principle or independence. It was a transition phase in her corporate career. She was serving corporate interests while in the Senate so that corporate interests would hire her when she left.
 
@@ -141,7 +141,7 @@ Warren's framing was direct: Sinema's Senate career was not about principle or i
 
 ### [[_Elizabeth Warren Master Profile|Elizabeth Warren]]'s "Curtsied on the Senate Floor" Quote
 
-Warren referenced a particular Sinema moment to illustrate her broader critique. In 2021, during a vote on the minimum wage increase, Sinema performed an elaborate gesture on the Senate floor — a curtsy, turning around and gesturing to Republican senators, visibly choreographed — to signal her opposition to the wage increase.
+Warren referenced a particular Sinema moment to illustrate her broader critique. In 2021, during a vote on the minimum wage increase, Sinema performed an elaborate gesture on the Senate floor, a curtsy, turning around and gesturing to Republican senators, visibly choreographed, to signal her opposition to the wage increase.
 
 Warren pointed to this moment as emblematic: Sinema was not just voting against progressive causes; she was *performing* her opposition, making it clear that her opposition was not reluctant but enthusiastic. The curtsy was Sinema's way of signaling to corporate interests: "I am not just voting your way because I have to. I am enthusiastically opposing labor and voting rights. I am on your team."
 

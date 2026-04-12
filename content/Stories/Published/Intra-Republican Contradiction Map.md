@@ -17,9 +17,9 @@ donors: [[Jeffrey Yass]] · [[Koch Network - Charles Koch|Koch Network]] · [[Cl
 
 ### The Pattern
 
-The Republican Party performs a visible civil war between "MAGA" and "Establishment" — a conflict so publicly visible that it dominates conservative media and internal party strategy. But the donor infrastructure tells a different story. The most powerful Republican donors fund both sides. They funded the anti-Trump primary ([[_Nikki Haley Master Profile|Nikki Haley]], [[_Ron DeSantis Master Profile|Ron DeSantis]]) while also funding Trump's 2024 and 2025 operations. They fund far-right primary challengers against establishment Republicans while simultaneously funding establishment Republican leadership. The performance of opposition is strategically separated from the material political infrastructure that both factions depend on.
+The Republican Party performs a visible civil war between "MAGA" and "Establishment", a conflict so publicly visible that it dominates conservative media and internal party strategy. But the donor infrastructure tells a different story. The most powerful Republican donors fund both sides. They funded the anti-Trump primary ([[_Nikki Haley Master Profile|Nikki Haley]], [[_Ron DeSantis Master Profile|Ron DeSantis]]) while also funding Trump's 2024 and 2025 operations. They fund far-right primary challengers against establishment Republicans while simultaneously funding establishment Republican leadership. The performance of opposition is strategically separated from the material political infrastructure that both factions depend on.
 
-This is the Republican version of the Democratic donor-first control thesis. But the mechanism is inverted: instead of a donor class that needs to manage internal party conflict (like Democrats with [[AIPAC - American Israel Public Affairs Committee|AIPAC]] vs Gaza, or pharma vs drug pricing), the Republican donor class deliberately cultivates and funds the civil war — because it gives them optionality. They fund both sides. The winners of Republican internal fights don't threaten them; they've already bought the winner regardless of which faction prevails. The contradiction runs deeper: the donors who most aggressively opposed Trump's 2016 rise and 2020 incumbency are now writing Trump's policy agenda ([[Koch Network - Charles Koch|Koch Network]], [[Club for Growth|Club for Growth]], Heritage Foundation), and the tech-finance donors who funded Trump's 2016 insurgency are now funding both Trump and his establishment opponents simultaneously.
+This is the Republican version of the Democratic donor-first control thesis. But the mechanism is inverted: instead of a donor class that needs to manage internal party conflict (like Democrats with [[AIPAC - American Israel Public Affairs Committee|AIPAC]] vs Gaza, or pharma vs drug pricing), the Republican donor class deliberately cultivates and funds the civil war, because it gives them optionality. They fund both sides. The winners of Republican internal fights don't threaten them; they've already bought the winner regardless of which faction prevails. The contradiction runs deeper: the donors who most aggressively opposed Trump's 2016 rise and 2020 incumbency are now writing Trump's policy agenda ([[Koch Network - Charles Koch|Koch Network]], [[Club for Growth|Club for Growth]], Heritage Foundation), and the tech-finance donors who funded Trump's 2016 insurgency are now funding both Trump and his establishment opponents simultaneously.
 
 > [!contradiction] **The fundamental intra-Republican contradiction: MAGA and Establishment Republicans perform opposition to each other at the rhetorical level and strategy level. They share donors. The donors' interests survive whichever faction wins party control. The conflict is real on messaging and base mobilization. The consensus is absolute on class interests — tax cuts, deregulation, billionaire protection.**
 
@@ -30,7 +30,7 @@ This is the Republican version of the Democratic donor-first control thesis. But
 
 ---
 
-### **DONOR 01: [[Jeffrey Yass|Jeffrey Yass]] / Susquehanna International Group — Both Sides' Tech Money**
+### **DONOR 01: [[Jeffrey Yass|Jeffrey Yass]] / Susquehanna International Group. Both Sides' Tech Money**
 
 ### Who He Funds:
 - Trump 2024-2025: Indirect through [[MAGA Inc|MAGA Inc]] (reported $16M H2 2025)
@@ -39,7 +39,7 @@ This is the Republican version of the Democratic donor-first control thesis. But
 - School choice infrastructure: $46.4M+ 2024 cycle (largest donor in election by this metric)
 
 ### The Contradiction:
-Yass owns a $15 billion stake in ByteDance (TikTok's parent company). In 2023-2024, he donated $10M to [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]]'s presidential campaign. Simultaneously, Ramaswamy's positions on TikTok reversed: from calling it "digital fentanyl" (consistent with establishment Republican China-hawk positioning) to opposing a TikTok ban (consistent with Yass's ByteDance interests). After Ramaswamy's primary loss, Yass maintained funding of Club for Growth — which opposed Trump in 2016 and 2020 — while also directing $16M to [[MAGA Inc|MAGA Inc]] by late 2025. He funds the institutional structure that historically opposed Trump (Club for Growth) while simultaneously funding Trump's super PAC.
+Yass owns a $15 billion stake in ByteDance (TikTok's parent company). In 2023-2024, he donated $10M to [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]]'s presidential campaign. Simultaneously, Ramaswamy's positions on TikTok reversed: from calling it "digital fentanyl" (consistent with establishment Republican China-hawk positioning) to opposing a TikTok ban (consistent with Yass's ByteDance interests). After Ramaswamy's primary loss, Yass maintained funding of Club for Growth, which opposed Trump in 2016 and 2020, while also directing $16M to [[MAGA Inc|MAGA Inc]] by late 2025. He funds the institutional structure that historically opposed Trump (Club for Growth) while simultaneously funding Trump's super PAC.
 
 ### Policy Leverage:
 Yass's ByteDance stake gives him direct policy leverage across both Republican factions on tech regulation, specifically TikTok/ByteDance policy. He doesn't need political principle; he needs both factions fighting while his interests are protected regardless of who wins. Republicans split on TikTok regulation (some favoring bans for China-hawk reasons, others opposing for deregulation reasons). Yass owns enough of TikTok to benefit from either outcome as long as his personal stake isn't seized or devalued.
@@ -48,7 +48,7 @@ Yass's ByteDance stake gives him direct policy leverage across both Republican f
 
 ---
 
-### **DONOR 02: [[Kenneth Griffin|Kenneth Griffin]] / Citadel — The Pivot Vote**
+### **DONOR 02: [[Kenneth Griffin|Kenneth Griffin]] / Citadel. The Pivot Vote**
 
 ### Who He Funds:
 - [[_Ron DeSantis Master Profile|Ron DeSantis]] primary 2024: Major backer (2022-early 2024)
@@ -66,7 +66,7 @@ $100M doesn't represent conviction; it represents infrastructure betting. Griffi
 
 ---
 
-### **DONOR 03: Koch Network / [[Americans for Prosperity|Americans for Prosperity]] — The Attempted Stop + Policy Victory**
+### **DONOR 03: Koch Network / [[Americans for Prosperity|Americans for Prosperity]]. The Attempted Stop + Policy Victory**
 
 ### Who They Fund:
 - [[_Nikki Haley Master Profile|Nikki Haley]] 2024 primary: $50.6M (attempting to stop Trump)
@@ -75,7 +75,7 @@ $100M doesn't represent conviction; it represents infrastructure betting. Griffi
 - Congressional Republicans: ~$100M (focus on holding House, retaking Senate)
 
 ### The Contradiction:
-The Koch Network spent $50.6M in 2024 to stop Trump via [[_Nikki Haley Master Profile|Nikki Haley]] primary support — the clearest anti-Trump primary donor infrastructure. David Koch's network explicitly positioned Haley as the "conservative alternative." When Haley lost in the primary, the network officially stepped back from the presidential race. But simultaneously, the Koch-linked organizations — particularly through [[Leonard Leo|Leonard Leo]]'s networks and the Heritage Foundation — were building Project 2025, the Trump administration's policy blueprint. By late 2024, Koch-funded groups had invested $55M+ into Project 2025 infrastructure (Heritage Foundation, policy centers, personnel development networks). This is the most sophisticated version of the dual-funding thesis: Koch Network funded Trump's defeat in the primary while simultaneously writing the policy agenda Trump would implement if elected.
+The Koch Network spent $50.6M in 2024 to stop Trump via [[_Nikki Haley Master Profile|Nikki Haley]] primary support, the clearest anti-Trump primary donor infrastructure. David Koch's network explicitly positioned Haley as the "conservative alternative." When Haley lost in the primary, the network officially stepped back from the presidential race. But simultaneously, the Koch-linked organizations, particularly through [[Leonard Leo|Leonard Leo]]'s networks and the Heritage Foundation, were building Project 2025, the Trump administration's policy blueprint. By late 2024, Koch-funded groups had invested $55M+ into Project 2025 infrastructure (Heritage Foundation, policy centers, personnel development networks). This is the most sophisticated version of the dual-funding thesis: Koch Network funded Trump's defeat in the primary while simultaneously writing the policy agenda Trump would implement if elected.
 
 ### The Win:
 Project 2025 represents a Koch victory that doesn't require Trump to lose a general election. The network got what it wanted: influence over Trump's policy agenda. A Trump presidency executing Koch-written policy is functionally equivalent to a DeSantis or Haley presidency for Koch's interests (tax cuts, deregulation, corporate protection). The primary spending against Trump was a negotiating tactic, not a true opposition.
@@ -87,7 +87,7 @@ Project 2025 represents a Koch victory that doesn't require Trump to lose a gene
 
 ---
 
-### **DONOR 04: Club for Growth — From Trump Enemy to Establishment Gatekeeping**
+### **DONOR 04: Club for Growth. From Trump Enemy to Establishment Gatekeeping**
 
 ### Who They Fund:
 - Anti-Trump spending 2015-2023: $50.6M+ opposing Trump primary candidacy (2015-2016 cycle)
@@ -96,7 +96,7 @@ Project 2025 represents a Koch victory that doesn't require Trump to lose a gene
 - School choice and tax cut orthodoxy: Permanent infrastructure
 
 ### The Evolution:
-Club for Growth began as an explicitly anti-Trump organization in 2015-2016, running $1.5M+ in negative advertising in Iowa, Florida, and other primary states. They attacked Trump as insufficiently conservative on trade, taxes, and bailouts — the hardline libertarian-capitalist critique. After 2016, Club for Growth continued small-scale anti-Trump spending. In 2023, they launched a $6.5M primary campaign against Trump in Iowa and South Carolina, but the ads were ineffective (internal polling showed they boosted Trump support). By 2024, Club for Growth pivoted: they stopped opposing Trump and returned to their core function — promoting ultra-conservative economic orthodoxy through primary challenges to moderates.
+Club for Growth began as an explicitly anti-Trump organization in 2015-2016, running $1.5M+ in negative advertising in Iowa, Florida, and other primary states. They attacked Trump as insufficiently conservative on trade, taxes, and bailouts, the hardline libertarian-capitalist critique. After 2016, Club for Growth continued small-scale anti-Trump spending. In 2023, they launched a $6.5M primary campaign against Trump in Iowa and South Carolina, but the ads were ineffective (internal polling showed they boosted Trump support). By 2024, Club for Growth pivoted: they stopped opposing Trump and returned to their core function, promoting ultra-conservative economic orthodoxy through primary challenges to moderates.
 
 ### Current Role:
 Club for Growth is now a mechanism for funding far-right primary challenges to establishment Republicans (not Trump). They fund primary challengers who are more aligned with libertarian-capitalist economics than the establishment GOP allows. This makes them part of the MAGA infrastructure, functionally, even though they originally opposed MAGA. They've become Trump's far-right quality-control wing.
@@ -106,7 +106,7 @@ Club for Growth's primary funding source is [[Jeffrey Yass|Jeffrey Yass]] (ident
 
 ---
 
-### **DONOR 05: [[Stephen Schwarzman|Stephen Schwarzman]] / Blackstone — The Deregulation Convert**
+### **DONOR 05: [[Stephen Schwarzman|Stephen Schwarzman]] / Blackstone. The Deregulation Convert**
 
 ### Who He Funds:
 - George W. Bush era: Moderate Republican donor
@@ -114,7 +114,7 @@ Club for Growth's primary funding source is [[Jeffrey Yass|Jeffrey Yass]] (ident
 - Trump 2025: $5M to MAGA Inc (January 2026)
 
 ### The Shift:
-Schwarzman was historically positioned as an establishment Republican mega-donor — supporting Bush, Romney, and mainstream GOP infrastructure. His shift to Trump in 2025 is not ideological; it's transactional. The Trump Tax Cuts and Jobs Act (TCJA) 2017 proved Trump delivers for private equity and real estate: corporate tax cuts (20% from 35%), pass-through deductions, repatriation holidays. Schwarzman's Blackstone benefited enormously. The TCJA transferred wealth to asset owners (Schwarzman's constituency) faster than any policy in a generation.
+Schwarzman was historically positioned as an establishment Republican mega-donor, supporting Bush, Romney, and mainstream GOP infrastructure. His shift to Trump in 2025 is not ideological; it's transactional. The Trump Tax Cuts and Jobs Act (TCJA) 2017 proved Trump delivers for private equity and real estate: corporate tax cuts (20% from 35%), pass-through deductions, repatriation holidays. Schwarzman's Blackstone benefited enormously. The TCJA transferred wealth to asset owners (Schwarzman's constituency) faster than any policy in a generation.
 
 ### Recent Positioning:
 In late 2024/early 2025, with Trump's re-election certain, Schwarzman repositioned as Trump supporter. His $5M MAGA Inc donation (January 2026) isn't a conversion; it's a transaction. Schwarzman is purchasing access to confirm that Trump 2.0 will continue TCJA-style corporate tax cutting and deregulation. Blackstone's billions are materially better off under Trump policy than under any other likely Republican outcome.
@@ -123,7 +123,7 @@ In late 2024/early 2025, with Trump's re-election certain, Schwarzman reposition
 
 ---
 
-### **DONOR 06: [[Miriam Adelson|Miriam Adelson]] — Israel Policy Across Factions**
+### **DONOR 06: [[Miriam Adelson|Miriam Adelson]]. Israel Policy Across Factions**
 
 ### Who She Funds:
 - Trump 2020: $75M+ (largest individual donor)
@@ -140,7 +140,7 @@ Adelson also funds Democratic pro-Israel candidates (separately tracked through 
 
 ---
 
-### **DONOR 07: Richard Uihlein — The Destabilizing Right Flank**
+### **DONOR 07: Richard Uihlein. The Destabilizing Right Flank**
 
 ### Who He Funds:
 - Trump 2024-2025: $76M+ (Restoration PAC)
@@ -155,7 +155,7 @@ The Uihleins operate the Republican version of the Squad model: primary challeng
 
 ---
 
-### **DONOR 08: Greg Brockman / OpenAI — AI Deregulation Sector Cohesion**
+### **DONOR 08: Greg Brockman / OpenAI. AI Deregulation Sector Cohesion**
 
 ### Who He Funds:
 - Trump 2025: $25M to MAGA Inc (September 2025)
@@ -164,7 +164,7 @@ The Uihleins operate the Republican version of the Squad model: primary challeng
 Brockman's $25M donation (largest single H2 2025 MAGA Inc haul) represents the AI sector's bet on Trump's pro-deregulation stance. OpenAI and the AI industry stand to benefit from federal rather than state regulation, light-touch policy, and government partnerships. Brockman framed his donation as supporting "policies that advance American innovation and constructive dialogue between government and the technology sector." This is deregulation language.
 
 ### Contradiction Resolution:
-The AI sector has no faction preference — MAGA vs Establishment — because both want deregulation. Brockman funds Trump specifically because Trump promised federal preemption over state AI regulation (including California's stricter rules). Neither MAGA nor Establishment Republicans would regulate AI harder than Trump; both are more deregulatory than Democratic alternatives. Brockman's donation unites both factions around tech deregulation. There's no contradiction because there's no real policy disagreement.
+The AI sector has no faction preference. MAGA vs Establishment, because both want deregulation. Brockman funds Trump specifically because Trump promised federal preemption over state AI regulation (including California's stricter rules). Neither MAGA nor Establishment Republicans would regulate AI harder than Trump; both are more deregulatory than Democratic alternatives. Brockman's donation unites both factions around tech deregulation. There's no contradiction because there's no real policy disagreement.
 
 ---
 
@@ -174,11 +174,11 @@ The AI sector has no faction preference — MAGA vs Establishment — because bo
 
 ### **PATTERN 1: Optionality Over Conviction**
 
-The Republican donor class doesn't fund a single faction because faction affiliation is strategically uncertain until the primary is resolved. Kenneth Griffin funds DeSantis, pivots to Trump, funds Senate Republicans — betting on winners, not ideologies. Yass funds Ramaswamy's primary campaign while also funding Club for Growth's establishment infrastructure. Koch Network funds Haley's defeat while writing Trump's policy agenda. This isn't hypocrisy; it's capital allocation discipline. Donors can't afford to be fully committed to any faction that might lose the primary. They maintain multiple channels of influence until the primary outcome becomes inevitable, then consolidate around the winner while claiming they supported the victor all along.
+The Republican donor class doesn't fund a single faction because faction affiliation is strategically uncertain until the primary is resolved. Kenneth Griffin funds DeSantis, pivots to Trump, funds Senate Republicans, betting on winners, not ideologies. Yass funds Ramaswamy's primary campaign while also funding Club for Growth's establishment infrastructure. Koch Network funds Haley's defeat while writing Trump's policy agenda. This isn't hypocrisy; it's capital allocation discipline. Donors can't afford to be fully committed to any faction that might lose the primary. They maintain multiple channels of influence until the primary outcome becomes inevitable, then consolidate around the winner while claiming they supported the victor all along.
 
 ### **PATTERN 2: Policy Continuity Across Factions**
 
-Despite the public civil war between MAGA and Establishment Republicans, both factions promise — and the donor class requires — the same economic policies: corporate tax cuts, deregulation, union opposition, environmental protection repeal, defense spending, and Israel support. The conflict is real on trade policy (Trump protectionism vs establishment free trade), immigration rhetoric (Trump border focus vs establishment labor-focus), and elite cultural signaling. The consensus is absolute on class interests. Donors fund both factions because both deliver on the issues that matter: tax policy, regulatory policy, labor policy, foreign policy. The civil war is messaging; the consensus is material.
+Despite the public civil war between MAGA and Establishment Republicans, both factions promise, and the donor class requires, the same economic policies: corporate tax cuts, deregulation, union opposition, environmental protection repeal, defense spending, and Israel support. The conflict is real on trade policy (Trump protectionism vs establishment free trade), immigration rhetoric (Trump border focus vs establishment labor-focus), and elite cultural signaling. The consensus is absolute on class interests. Donors fund both factions because both deliver on the issues that matter: tax policy, regulatory policy, labor policy, foreign policy. The civil war is messaging; the consensus is material.
 
 ### **PATTERN 3: Faction-Specific Donor Roles**
 
@@ -192,7 +192,7 @@ This is a sophisticated version of both-sides funding: different donors activate
 
 ### **PATTERN 4: Temporary Factional Opposition, Permanent Policy Alignment**
 
-The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously in 2015-2020, spent $50M+ against him in 2024, and simultaneously wrote his policy agenda for 2025-2029. This isn't contradiction; it's negotiation captured as opposition. Koch Network got tax cuts, deregulation, environmental rollback, and union opposition — the same policy agenda they would have gotten from Haley or DeSantis. The primary opposition was a negotiating tactic to extract maximum policy concessions. Trump won the primary and the general. The Koch Network won policy. Both sides declared victory.
+The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously in 2015-2020, spent $50M+ against him in 2024, and simultaneously wrote his policy agenda for 2025-2029. This isn't contradiction; it's negotiation captured as opposition. Koch Network got tax cuts, deregulation, environmental rollback, and union opposition, the same policy agenda they would have gotten from Haley or DeSantis. The primary opposition was a negotiating tactic to extract maximum policy concessions. Trump won the primary and the general. The Koch Network won policy. Both sides declared victory.
 
 ---
 
@@ -200,7 +200,7 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 
 ---
 
-#### **PIVOT 1: Kenneth Griffin — DeSantis → Trump (January-August 2024)**
+#### **PIVOT 1: Kenneth Griffin. DeSantis → Trump (January-August 2024)**
 
 ### Timeline:
 - November 2022: Griffin announces DeSantis endorsement for 2024
@@ -213,7 +213,7 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 
 ---
 
-#### **PIVOT 2: Jeffrey Yass — Ramaswamy Primary → MAGA Inc + Club for Growth**
+#### **PIVOT 2: Jeffrey Yass. Ramaswamy Primary → MAGA Inc + Club for Growth**
 
 ### Timeline:
 - 2023: Yass funds Ramaswamy American Exceptionalism PAC ($10M)
@@ -225,7 +225,7 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 
 ---
 
-#### **PIVOT 3: Koch Network — Haley Primary → Trump Policy (2024-2025)**
+#### **PIVOT 3: Koch Network. Haley Primary → Trump Policy (2024-2025)**
 
 ### Timeline:
 - 2023-early 2024: Koch Network funds Nikki Haley primary campaign ($50.6M)
@@ -237,11 +237,11 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 
 ---
 
-#### **PIVOT 4: [[Stephen Schwarzman|Stephen Schwarzman]] — Establishment Republican → MAGA (2024-2025)**
+#### **PIVOT 4: [[Stephen Schwarzman|Stephen Schwarzman]]. Establishment Republican → MAGA (2024-2025)**
 
 ### Timeline:
 - 2000-2020: Schwarzman funds establishment Republicans (Bush, Romney era)
-- 2024: TCJA results become clear — Blackstone benefits enormously from corporate tax cuts, pass-through deductions
+- 2024: TCJA results become clear. Blackstone benefits enormously from corporate tax cuts, pass-through deductions
 - January 2026: Schwarzman donates $5M to MAGA Inc
 - Pattern: Confirms Trump delivers on tax policy Schwarzman cares about
 
@@ -257,7 +257,7 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 ### [[Jeff Yass|Jeff Yass]] & ByteDance:
 - [Fortune: The biggest donor in the 2024 election holds a $15 billion stake in TikTok's parent company](https://fortune.com/2024/03/13/tiktok-billionaire-jeff-yass-biggest-donor-2024-election/) (Tier 2)
 - [Fast Company: Meet Jeff Yass, the billionaire ByteDance investor donating to Republicans who flipped against the TikTok ban](https://www.fastcompany.com/91058467/who-is-jeff-yass-billionaire-donating-to-republicans-who-flipped-on-bytedance-tiktok-ban) (Tier 2)
-- [Slate: Jeff Yass: Who is the powerful TikTok billionaire suddenly all over the news—and in Trump's corner?](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2)
+- [Slate: Jeff Yass: Who is the powerful TikTok billionaire suddenly all over the news, and in Trump's corner?](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2)
 
 ### Kenneth Griffin & Citadel:
 - [ArtNews: Billionaire Collector Kenneth Griffin Donated $100 M. for 2024 Election, Fifth-Most for Individual Donors](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2)

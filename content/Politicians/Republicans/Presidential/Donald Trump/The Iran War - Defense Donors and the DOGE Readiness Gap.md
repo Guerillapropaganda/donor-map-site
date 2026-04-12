@@ -15,11 +15,11 @@ donors: Defense Industry Donors · [[Fossil Fuel Bloc]]
 
 ### The Iran War as Donor-Class Wealth Transfer
 
-On February 28, 2026, the Trump administration and Israel launched coordinated military operations against Iran. As of March 22, 2026 — now in its 4th week — the war has killed over 1,330 Iranians, injured more than 18,000, and created a near-total halt of Strait of Hormuz traffic carrying approximately 20% of global oil supply. The same administration that spent the first year of its term cutting federal workforce, gutting military logistics infrastructure, and dismantling the Defense Department's civilian management — ordered a $200 billion supplemental budget request to fund the war. The contradiction is stark and structural: DOGE cuts military readiness, then the military must request emergency funding. Defense contractors profit from both the cuts (reduced competition) and the emergency spending (no-bid contracts). Fossil fuel donors profit from the Strait closure driving oil prices from ~$70 to $126+ per barrel. The working-class soldiers and civilians bear the cost.
+On February 28, 2026, the Trump administration and Israel launched coordinated military operations against Iran. As of March 22, 2026, now in its 4th week, the war has killed over 1,330 Iranians, injured more than 18,000, and created a near-total halt of Strait of Hormuz traffic carrying approximately 20% of global oil supply. The same administration that spent the first year of its term cutting federal workforce, gutting military logistics infrastructure, and dismantling the Defense Department's civilian management, ordered a $200 billion supplemental budget request to fund the war. The contradiction is stark and structural: DOGE cuts military readiness, then the military must request emergency funding. Defense contractors profit from both the cuts (reduced competition) and the emergency spending (no-bid contracts). Fossil fuel donors profit from the Strait closure driving oil prices from ~$70 to $126+ per barrel. The working-class soldiers and civilians bear the cost.
 
 ---
 
-### Follow the Money — The Defense Contractor Pipeline
+### Follow the Money. The Defense Contractor Pipeline
 
 > [!money] Defense Industry Windfall from Iran War
 > **War start:** February 28, 2026
@@ -37,11 +37,11 @@ On February 28, 2026, the Trump administration and Israel launched coordinated m
 > - Defense PACs: primary Republican funding source across both Trump campaigns
 > - 2024 election cycle: Defense industry was among the top-5 contributor sectors to GOP candidates
 
-The $200 billion supplemental request represents pure profit extraction. The contractors manufacture the missiles and ammunition. The Pentagon orders them. No competitive bidding on emergency procurement. The same contractors that funded the Republican Party — including Trump's campaign directly — receive the contracts without competition. The political investment (campaign donations) returns as government procurement orders. The cycle is efficient and legal.
+The $200 billion supplemental request represents pure profit extraction. The contractors manufacture the missiles and ammunition. The Pentagon orders them. No competitive bidding on emergency procurement. The same contractors that funded the Republican Party, including Trump's campaign directly, receive the contracts without competition. The political investment (campaign donations) returns as government procurement orders. The cycle is efficient and legal.
 
 ---
 
-### The DOGE Readiness Catastrophe — Cutting Capacity Before a War
+### The DOGE Readiness Catastrophe. Cutting Capacity Before a War
 
 > [!contradiction] Musk Cut Military Capacity; Hegseth Now Requests Emergency Funding to Replace It
 >
@@ -68,7 +68,7 @@ The sequence is critical: DOGE deliberately weakened military logistics infrastr
 
 ### Fossil Fuel Donor Class Profits from Strait Disruption
 
-The Strait of Hormuz closure creates enormous profit for oil companies and their political investor base — the Republican Party and Trump campaign.
+The Strait of Hormuz closure creates enormous profit for oil companies and their political investor base, the Republican Party and Trump campaign.
 
 ### Strait of Hormuz disruption (as of March 2026):
 - Near-total halt of tanker traffic through the strait
@@ -88,9 +88,9 @@ The pattern is: oil companies fund the Republican party. The Republican administ
 
 ---
 
-### Hegseth Defense Budget Supplemental — Where the $200 Billion Goes
+### Hegseth Defense Budget Supplemental. Where the $200 Billion Goes
 
-**Hegseth's stated justification (March 19, 2026):** "It takes money to kill bad guys" — a direct reframing of government spending as warrior necessity.
+**Hegseth's stated justification (March 19, 2026):** "It takes money to kill bad guys", a direct reframing of government spending as warrior necessity.
 
 ### Budget allocation (from Pentagon statements):
 - Munition replenishment: primary allocation
@@ -98,14 +98,14 @@ The pattern is: oil companies fund the Republican party. The Republican administ
 - Unspecified regional operations: $200B total with no line-item breakdown published
 
 ### Contractor beneficiaries (by historical pattern):
-- Raytheon Technologies (RTX): missile, drone, and ammunition production — primary beneficiary of munition supplemental requests
+- Raytheon Technologies (RTX): missile, drone, and ammunition production, primary beneficiary of munition supplemental requests
 - [[Lockheed Martin|Lockheed Martin]]: air-to-surface weapons, cruise missiles, platform integration
 - Northrop Grumman: integrated defense systems, electronic warfare, targeting systems
 - General Dynamics: ammunition, artillery, propulsion systems
 
 **No-bid procurement risk:** Emergency supplemental requests historically bypass competitive bidding. The Pentagon can invoke "urgent operational need" to award contracts directly. The companies that funded the administration receive the contracts. Accountability mechanisms (competitive bidding, GAO protests, congressional oversight) are minimized.
 
-Hegseth's framing — "to kill bad guys" — is precisely the rhetorical displacement that redirects scrutiny away from procurement mechanisms and toward moral justification for spending. The question "Is $200 billion necessary?" is subsumed under "Should we fund military operations?" The spending approval becomes an issue of patriotism, not oversight.
+Hegseth's framing, "to kill bad guys", is precisely the rhetorical displacement that redirects scrutiny away from procurement mechanisms and toward moral justification for spending. The question "Is $200 billion necessary?" is subsumed under "Should we fund military operations?" The spending approval becomes an issue of patriotism, not oversight.
 
 ---
 
@@ -123,13 +123,13 @@ The two audiences receive different messages about the same war. For voters: pat
 
 Defense contractors achieved a genuine policy win: a $200 billion supplemental request with minimal scrutiny, no-bid procurement availability, and production demand signals for the next 18 months of operations. This is not symbolic. It is direct government revenue.
 
-However, the win has a structural limit: it doesn't restructure the underlying cost economics of military readiness. DOGE cuts remain in place. The civilian workforce is still gone. The maintenance backlog still exists. The $200 billion covers munition replenishment and emergency procurement, but it doesn't address the workforce capacity loss that created the emergency in the first place. Defense contractors will profit from the supplemental spending, but the underlying Pentagon infrastructure — the civilian logistics and maintenance workforce — remains damaged. Future wars will hit the same readiness constraints.
+However, the win has a structural limit: it doesn't restructure the underlying cost economics of military readiness. DOGE cuts remain in place. The civilian workforce is still gone. The maintenance backlog still exists. The $200 billion covers munition replenishment and emergency procurement, but it doesn't address the workforce capacity loss that created the emergency in the first place. Defense contractors will profit from the supplemental spending, but the underlying Pentagon infrastructure, the civilian logistics and maintenance workforce, remains damaged. Future wars will hit the same readiness constraints.
 
 The structural limit reveals itself over time: defense contractors can extract emergency spending, but the government's actual capacity to conduct sustained operations degrades. The profit is short-term (supplemental contracts). The readiness problem is long-term (workforce depletion).
 
 ---
 
-### The Villain Framing — Iran as Terrorist State
+### The Villain Framing. Iran as Terrorist State
 
 The administration frames Iran as the villain: terrorist regime, threat to global security, nuclear weapons program. This framing displaces scrutiny from the supply chain disruption logic. The question becomes "Should we strike a terrorist threat?" rather than "Who profits from the Strait of Hormuz closure?" and "Why did we cut military logistics before launching a war?"
 
@@ -152,24 +152,24 @@ Not applicable. The Iran war is not a pilot. It is a full-scale military operati
 | 2024 | Fossil fuel industry political spending | $219M+ | Election of Trump-Vance administration; oil & gas funded Trump campaign directly | 0 days |
 | 2024 | Oil & gas contributions to Trump campaign/PACs | $23M+ | Trump administration takes office Jan 20, 2025 | 0 days |
 | 2024 | Defense contractors funding GOP, Trump campaign | $6M+ (Sedition Caucus alone); larger across full sector | Hegseth appointed Defense Secretary; Pentagon gains authority to request supplementals | 0 days |
-| Feb 28, 2026 | War launched against Iran by US-Israel coalition | — | Strait of Hormuz effectively closes; oil prices rise 50%+ | Immediate |
-| Mar 8, 2026 | Brent crude surpasses $100/barrel | — | Oil company profit margins increase; refineries gain from elevated spreads | Immediate |
-| Mar 11, 2026 | Iran IRGC announces Strait blockade; no oil to pass | — | Oil prices peak at $126/barrel; oil futures rally | Immediate |
+| Feb 28, 2026 | War launched against Iran by US-Israel coalition |, | Strait of Hormuz effectively closes; oil prices rise 50%+ | Immediate |
+| Mar 8, 2026 | Brent crude surpasses $100/barrel |, | Oil company profit margins increase; refineries gain from elevated spreads | Immediate |
+| Mar 11, 2026 | Iran IRGC announces Strait blockade; no oil to pass |, | Oil prices peak at $126/barrel; oil futures rally | Immediate |
 | Mar 19, 2026 | Hegseth announces $200B supplemental budget request for Iran war | $200B (supplemental) | Procurement contracts allocated to RTX, Lockheed, Northrop, General Dynamics | Immediate |
-| Mar 20, 2026 | Defense contractor stocks surge; RTX +4.4%, Northrop +5.8%, Lockheed +3-6.9% | — | War enters 3rd week; contractor stock valuations reflect contract opportunity | Immediate |
-| Mar 22, 2026 | War enters 4th week; 1,330+ Iranians killed; 18,000+ injured | — | Munition demand remains high; supplemental spending remains in Congressional review | Ongoing |
+| Mar 20, 2026 | Defense contractor stocks surge; RTX +4.4%, Northrop +5.8%, Lockheed +3-6.9% |, | War enters 3rd week; contractor stock valuations reflect contract opportunity | Immediate |
+| Mar 22, 2026 | War enters 4th week; 1,330+ Iranians killed; 18,000+ injured |, | Munition demand remains high; supplemental spending remains in Congressional review | Ongoing |
 
 ---
 
 ### Analytical Patterns
 
 ### The Genuine Win + Structural Limit:
-Defense contractors achieved a genuine policy victory: $200 billion in supplemental spending with minimal competitive pressure, direct demand signals for munition production, and 18+ months of operational demand. Fossil fuel companies achieved a genuine policy victory: geopolitical disruption that raised oil prices from ~$70 to $126+ per barrel, with no direct government spending required — the military operation created the supply disruption that benefited the donors.
+Defense contractors achieved a genuine policy victory: $200 billion in supplemental spending with minimal competitive pressure, direct demand signals for munition production, and 18+ months of operational demand. Fossil fuel companies achieved a genuine policy victory: geopolitical disruption that raised oil prices from ~$70 to $126+ per barrel, with no direct government spending required, the military operation created the supply disruption that benefited the donors.
 
 However, both wins have structural limits. For defense contractors: the $200 billion covers emergency procurement, but the underlying DOGE-induced readiness damage (workforce cuts, maintenance backlogs) remains. Future wars will hit the same constraints. For fossil fuel donors: the oil price elevation is sustainable only as long as the Strait closure persists. If operations wind down (as Trump has hinted), the oil price premium disappears. The long-term benefit depends on continued conflict.
 
 ### The Villain Framing:
-Iran is framed as the villain — terrorist regime, nuclear threat, aggressor state. This framing displaces scrutiny from the supply chain disruption logic, the donor-class profit mechanisms, and the contradiction between DOGE's budget-cutting philosophy and the massive supplemental request. The question shifts from "Who benefits?" to "Should we strike a terrorist threat?" The framing is effective because the threat assessment is not false — Iran does operate as a regional power with nuclear ambitions — but the framing obscures the structural incentives underneath the policy decision.
+Iran is framed as the villain, terrorist regime, nuclear threat, aggressor state. This framing displaces scrutiny from the supply chain disruption logic, the donor-class profit mechanisms, and the contradiction between DOGE's budget-cutting philosophy and the massive supplemental request. The question shifts from "Who benefits?" to "Should we strike a terrorist threat?" The framing is effective because the threat assessment is not false. Iran does operate as a regional power with nuclear ambitions, but the framing obscures the structural incentives underneath the policy decision.
 
 ### The Two-Audience Problem:
 Voters hear: "We must defend ourselves against Iran." Donors hear: "War creates procurement contracts and supply disruptions that increase energy prices." Congress votes to fund patriotic military necessity without explicit awareness they are voting to transfer $200 billion to specific defense contractors with no competitive process. The working-class soldiers and their families pay the cost. The donor class captures the financial benefit. The two audiences operate under different understandings of what the spending accomplishes.
@@ -183,7 +183,7 @@ Not applicable. This is a full-scale war, not a pilot program. However, the supp
 
 - [Al Jazeera: Iran war enters its fourth week with no clear end in sight](https://www.aljazeera.com/news/2026/3/21/iran-war-what-is-happening-on-day-22-of-us-israel-attacks) (Tier 2)
 - [NPR: Iran war enters its fourth week with no clear end in sight](https://www.npr.org/2026/03/21/nx-s1-5755539/iran-war-fourth-week) (Tier 2)
-- [CNN: Day 22 of US-Israel attacks on Iran — Live coverage](https://www.cnn.com/2026/03/21/middleeast/us-israel-iran-middle-east-war-day-22-what-we-know-intl-hnk) (Tier 2)
+- [CNN: Day 22 of US-Israel attacks on Iran. Live coverage](https://www.cnn.com/2026/03/21/middleeast/us-israel-iran-middle-east-war-day-22-what-we-know-intl-hnk) (Tier 2)
 - [Breaking Defense: Hegseth confirms potential $200 billion request for Iran operations](https://breakingdefense.com/2026/03/hegseth-confirms-potential-200-billion-request-for-iran-operations-but-figure-could-move/) (Tier 2)
 - [The Intercept: Pentagon Claims It Needs Additional $200 Billion to Pay for War on Iran](https://theintercept.com/2026/03/19/pentagon-budget-iran-war-hegseth/) (Tier 2)
 - [CNBC: Hegseth says potential $200 billion Iran war spending request could shift](https://www.cnbc.com/2026/03/19/hegseth-iran-war-budget.html) (Tier 2)

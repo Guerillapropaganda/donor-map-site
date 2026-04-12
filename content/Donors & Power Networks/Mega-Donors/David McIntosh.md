@@ -58,7 +58,7 @@ Club for Growth's primary spending directly produced the most hardline Republica
 
 ### Class Analysis
 
-David McIntosh is a structural representative of the mega-donor class using ideological cover to advance wealth concentration. His "economic freedom" framing obscures that Club for Growth exists to eliminate the regulatory state that limits corporate profit extraction and to break labor unions that reduce corporate returns. The primary spending model allows McIntosh to function as a kingmaker without holding elected office—pure donor power in institutional form. His alignment with both populist-style Republicans (like Trump supporters) and establishment conservatives proves the axis isn't populism vs. establishment, but rather all factions serving the same anti-labor, anti-regulation agenda.
+David McIntosh is a structural representative of the mega-donor class using ideological cover to advance wealth concentration. His "economic freedom" framing obscures that Club for Growth exists to eliminate the regulatory state that limits corporate profit extraction and to break labor unions that reduce corporate returns. The primary spending model allows McIntosh to function as a kingmaker without holding elected office, pure donor power in institutional form. His alignment with both populist-style Republicans (like Trump supporters) and establishment conservatives proves the axis isn't populism vs. establishment, but rather all factions serving the same anti-labor, anti-regulation agenda.
 
 ### Sources
 

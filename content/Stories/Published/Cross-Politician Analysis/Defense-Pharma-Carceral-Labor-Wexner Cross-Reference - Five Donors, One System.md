@@ -36,10 +36,10 @@ known-gaps:
 The [[Raytheon (RTX)]] and [[PhRMA]] ecosystems represent two of the most well-funded lobbying operations in Washington. Both employ hundreds of government veterans. Both give bipartisan contributions. And both reward the exact same politicians with money, regardless of which party controls Congress.
 
 ### RTX spending profile:
-RTX Corp contributed **$3.87 million** in the 2023–2024 cycle, employing **76 lobbyists**, 72% of whom held previous government positions (revolving door of regulatory capture). The party split is roughly 54% Republican, 46% Democrat — classic defense industry bipartisanship. The RTX PAC maxed out $10,000 contributions to **46 House members** in one cycle, including Speaker [[_Mike Johnson Master Profile|Johnson]] (R-LA), House Minority Leader Hakeem Jeffries (D-NY), and House Minority Whip Katherine Clark (D-MA).
+RTX Corp contributed **$3.87 million** in the 2023–2024 cycle, employing **76 lobbyists**, 72% of whom held previous government positions (revolving door of regulatory capture). The party split is roughly 54% Republican, 46% Democrat, classic defense industry bipartisanship. The RTX PAC maxed out $10,000 contributions to **46 House members** in one cycle, including Speaker [[_Mike Johnson Master Profile|Johnson]] (R-LA), House Minority Leader Hakeem Jeffries (D-NY), and House Minority Whip Katherine Clark (D-MA).
 
 ### PhRMA spending profile:
-PhRMA is the single largest lobbying client in the health/pharma sector, spending **$31.7 million** on federal lobbying in 2024 alone. Direct PAC contributions: $1.09 million to 176 House members and senators. Beyond direct contributions, PhRMA funneled **$17.5 million** in dark money to the [[American Action Network]] from 2020–2023, and another **$4 million** in 2024 — which then deployed $55+ million boosting GOP candidates.
+PhRMA is the single largest lobbying client in the health/pharma sector, spending **$31.7 million** on federal lobbying in 2024 alone. Direct PAC contributions: $1.09 million to 176 House members and senators. Beyond direct contributions, PhRMA funneled **$17.5 million** in dark money to the [[American Action Network]] from 2020–2023, and another **$4 million** in 2024, which then deployed $55+ million boosting GOP candidates.
 
 ### Shared recipients table:
 
@@ -50,21 +50,21 @@ PhRMA is the single largest lobbying client in the health/pharma sector, spendin
 | **Jason Smith (R-MO)** | $10,000 | $4,000 | Ways & Means Chair |
 | **Richard Hudson (R-NC)** | $6,000 | $3,500 | NRCC Chair; Armed Services |
 | **John Moolenaar (R-MI)** | $6,000 | $3,000 | China Select Committee |
-| **Marsha Blackburn (R-TN)** | — | $17,500 | Senate Judiciary/Commerce |
-| **Bill Cassidy (R-LA)** | — | $5,000 | HELP Committee Chair |
+| **Marsha Blackburn (R-TN)** |, | $17,500 | Senate Judiciary/Commerce |
+| **Bill Cassidy (R-LA)** |, | $5,000 | HELP Committee Chair |
 
-**Speaker Johnson's dual funding:** Johnson received $10,000 from RTX PAC and $10,000 from PhRMA directly in the 2024 cycle. As Speaker, Johnson controls the House floor calendar — including defense authorization bills and drug pricing legislation. His combined defense and pharma receipts illustrate the "leadership tax" that both industries pay to maintain access to the most powerful Democrat or Republican in the chamber.
+**Speaker Johnson's dual funding:** Johnson received $10,000 from RTX PAC and $10,000 from PhRMA directly in the 2024 cycle. As Speaker, Johnson controls the House floor calendar, including defense authorization bills and drug pricing legislation. His combined defense and pharma receipts illustrate the "leadership tax" that both industries pay to maintain access to the most powerful Democrat or Republican in the chamber.
 
-**Tom Cole's Appropriations position:** Cole chairs House Appropriations and serves on both Defense and Labor-HHS subcommittees — the precise intersection where defense spending meets health appropriations. He received $4,000 from each entity.
+**Tom Cole's Appropriations position:** Cole chairs House Appropriations and serves on both Defense and Labor-HHS subcommittees, the precise intersection where defense spending meets health appropriations. He received $4,000 from each entity.
 
 ### The Appropriations-Defense-Health Nexus:
 
 Members of the Senate Appropriations Committee and its health/defense subcommittees are systematically cultivated by both industries. Historical pharma contributions to key senators (per OpenSecrets 1990–2024):
 
-- **Mitch McConnell (R-KY):** $1,029,281 — Armed Services, Defense Appropriations
-- **John Cornyn (R-TX):** $503,381 — Senate Majority Whip, Armed Services subcommittee
-- **John Barrasso (R-WY):** $473,816 — Senate Republican Conference Chair
-- **Bill Cassidy (R-LA):** $473,295 — HELP Committee Chair
+- **Mitch McConnell (R-KY):** $1,029,281. Armed Services, Defense Appropriations
+- **John Cornyn (R-TX):** $503,381. Senate Majority Whip, Armed Services subcommittee
+- **John Barrasso (R-WY):** $473,816. Senate Republican Conference Chair
+- **Bill Cassidy (R-LA):** $473,295. HELP Committee Chair
 
 ### Congress members holding defense stocks while receiving defense PAC money:
 
@@ -78,7 +78,7 @@ All 13 senators disclosing military stock holdings voted for the FY2024 NDAA ($8
 
 ### The $4 million dark money bridge:
 
-PhRMA's $4 million 2024 donation to [[American Action Network]] — which then spent $55+ million on GOP candidates — functions as a force multiplier. When the same politicians receive RTX PAC donations directly and PhRMA dark money indirectly, the convergence is structural. Per The Lever, this $4 million PhRMA investment in dark money helped produce an **$8 billion reduction in projected government savings** from the Inflation Reduction Act's drug pricing negotiation provisions — effectively a $8 billion windfall for drugmakers via One Big Beautiful Bill Act provisions.
+PhRMA's $4 million 2024 donation to [[American Action Network]], which then spent $55+ million on GOP candidates, functions as a force multiplier. When the same politicians receive RTX PAC donations directly and PhRMA dark money indirectly, the convergence is structural. Per The Lever, this $4 million PhRMA investment in dark money helped produce an **$8 billion reduction in projected government savings** from the Inflation Reduction Act's drug pricing negotiation provisions, effectively a $8 billion windfall for drugmakers via One Big Beautiful Bill Act provisions.
 
 > [!contradiction]
 > **Bipartisan Access = Corporate Control:** RTX donates 54/46 R/D. PhRMA donates direct contributions to Democrats and dark money exclusively to Republicans. Yet both industries achieve policy wins under every administration. The "both-sides illusion" operates at the industry level: when defense and pharma buy access across both parties, neither party can meaningfully regulate them. The system rewards the entity that buys access regardless of election outcome.
@@ -117,7 +117,7 @@ Combined with CoreCivic, the two private prison giants donated **$2.78 million**
 Trump administration response (2017):
 - **February 2017:** AG Jeff Sessions rescinded the Obama-era DOJ policy against for-profit prison contracts
 - **April 2017:** DOJ began accepting bids again
-- **April 2017:** GEO won **$110 million, 10-year contract** for a 1,000-bed ICE detention facility in Texas — the first under Trump
+- **April 2017:** GEO won **$110 million, 10-year contract** for a 1,000-bed ICE detention facility in Texas, the first under Trump
 
 Stock market reaction to Trump 2024 win:
 - GEO Group: **+41%** (November 5, 2024)
@@ -127,9 +127,9 @@ GEO told shareholders it was "built for this unique moment."
 
 ### Phase 3: ICE contract awards and the monopoly
 
-By 2020, GEO had become ICE's largest vendor with **$471 million** in cumulative contracts. In 2025 alone, since Trump's inauguration, GEO and subsidiaries received **more than $1 billion** in federal contracts. The [[One Big Beautiful Bill Act]] (2025) allocated **$45 billion for ICE detention capacity expansion** — nearly tripling ICE's budget.
+By 2020, GEO had become ICE's largest vendor with **$471 million** in cumulative contracts. In 2025 alone, since Trump's inauguration, GEO and subsidiaries received **more than $1 billion** in federal contracts. The [[One Big Beautiful Bill Act]] (2025) allocated **$45 billion for ICE detention capacity expansion**, nearly tripling ICE's budget.
 
-GEO's subsidiary **BI Incorporated** holds the sole federal contract for the "Alternatives to Detention" (ATD) program — an ankle monitor monopoly. In June 2025, ICE issued a memo directing all ATD participants onto ankle monitors, expanding from 24,000 to potentially **183,000 monitored immigrants**. This creates an additional profit vertical: GEO earns revenue both from detaining immigrants (detention contracts) and monitoring those not detained (ankle monitor monopoly).
+GEO's subsidiary **BI Incorporated** holds the sole federal contract for the "Alternatives to Detention" (ATD) program, an ankle monitor monopoly. In June 2025, ICE issued a memo directing all ATD participants onto ankle monitors, expanding from 24,000 to potentially **183,000 monitored immigrants**. This creates an additional profit vertical: GEO earns revenue both from detaining immigrants (detention contracts) and monitoring those not detained (ankle monitor monopoly).
 
 ### Phase 4: The revolving door
 
@@ -193,7 +193,7 @@ Despite his public break, Wexner continued significant Republican donations:
 **Through PORT PAC** (Rob Portman's leadership PAC), Wexner contributions indirectly funded national Republican figures including Ted Cruz, Josh Hawley, Rick Scott, and Lindsey Graham.
 
 ### Notable non-donations:
-Wexner's $4+ million in federal donations went to mainstream Republicans, but **never to JD Vance, Donald Trump, or Vivek Ramaswamy** — signaling his allegiance to Ohio establishment Republicans over MAGA.
+Wexner's $4+ million in federal donations went to mainstream Republicans, but **never to JD Vance, Donald Trump, or Vivek Ramaswamy**, signaling his allegiance to Ohio establishment Republicans over MAGA.
 
 ### The Ohio politician network:
 
@@ -206,7 +206,7 @@ Wexner's donations reveal a deliberate Ohio-centric hub enabling influence regar
 - **Ohio House Republican Caucus:** Ongoing since 1999
 
 ### Democrats funded:
-- **Columbus Mayor Andrew Ginther:** $150,000+ — Wexner's largest recipient of any politician
+- **Columbus Mayor Andrew Ginther:** $150,000+. Wexner's largest recipient of any politician
 - **Rep. Joyce Beatty (D-OH-3):** Multiple donations totaling thousands
 - **Franklin County Commissioner John O'Grady:** $12,000 combined
 - **Columbus City Council President Shannon Hardin:** $20,000+
@@ -214,9 +214,9 @@ Wexner's donations reveal a deliberate Ohio-centric hub enabling influence regar
 
 ### The Columbus Partnership: Civic power vehicle
 
-The Columbus Partnership, founded and long chaired by Wexner, brings together 50+ largest Columbus-area CEOs. It directly interfaces with Ohio state legislators each budget cycle, providing "vetted regional projects" (museums, universities, infrastructure) for capital appropriations inclusion. This is structured influence — not transactional bribery, but embedded advisory access that persists regardless of election outcomes.
+The Columbus Partnership, founded and long chaired by Wexner, brings together 50+ largest Columbus-area CEOs. It directly interfaces with Ohio state legislators each budget cycle, providing "vetted regional projects" (museums, universities, infrastructure) for capital appropriations inclusion. This is structured influence, not transactional bribery, but embedded advisory access that persists regardless of election outcomes.
 
-**Georgetown Company / New Albany PAC:** Wexner and his wife finance the Georgetown Company (New Albany PAC), a Columbus entity contributing $2,500 to Rep. Tim Ryan's 2022 Senate campaign — an indirect way of giving to Democrats.
+**Georgetown Company / New Albany PAC:** Wexner and his wife finance the Georgetown Company (New Albany PAC), a Columbus entity contributing $2,500 to Rep. Tim Ryan's 2022 Senate campaign, an indirect way of giving to Democrats.
 
 ### National pathways:
 
@@ -290,7 +290,7 @@ RTX's $13.5M annual lobbying maps directly onto contract revenues. The company w
 
 ### PhRMA: $31 million for $8 billion return
 
-PhRMA's 2024 lobbying ($31.7M, up from $27M in 2023) is explicitly tied to Inflation Reduction Act drug pricing provisions. PhRMA's combination of direct lobbying ($35M total including dark money) produced an **$8 billion CBO-scored reduction in projected government savings** from IRA drug pricing negotiations — effectively a $8 billion windfall per $35M invested.
+PhRMA's 2024 lobbying ($31.7M, up from $27M in 2023) is explicitly tied to Inflation Reduction Act drug pricing provisions. PhRMA's combination of direct lobbying ($35M total including dark money) produced an **$8 billion CBO-scored reduction in projected government savings** from IRA drug pricing negotiations, effectively a $8 billion windfall per $35M invested.
 
 ### Return on investment: 228x
 
@@ -298,7 +298,7 @@ PhRMA's lobbying also rose to $34M+ through November 2025, part of an industry-w
 
 ### GEO Group: $4 million for $45 billion
 
-GEO Group's $4 million in 2024 political contributions (plus CoreCivic's comparable giving) helped elect officials who passed the One Big Beautiful Bill allocating **$45 billion for ICE detention** — a $45B appropriation from an industry that collectively invested roughly $4–5M to produce it.
+GEO Group's $4 million in 2024 political contributions (plus CoreCivic's comparable giving) helped elect officials who passed the One Big Beautiful Bill allocating **$45 billion for ICE detention**, a $45B appropriation from an industry that collectively invested roughly $4–5M to produce it.
 
 - $4M invested → $45B in ICE appropriations
 - Plus $1B+ in existing contracts already awarded
@@ -431,8 +431,8 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 #### Tier 3 (Secondary Analysis & Specialized Reporting)
 
-- ~~[FollowTheMoney: Bail bond industry lobbying](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
-- ~~[FollowTheMoney: Private prisons reporting](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
+- ~~[FollowTheMoney: Bail bond industry lobbying](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
+- ~~[FollowTheMoney: Private prisons reporting](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
 - [JTA: Wexner Epstein files 2026](https://www.jta.org/2026/02/11/united-states/unredacted-epstein-files-and-planned-deposition-thrust-jewish-philanthropist-leslie-wexner-back-into-spotlight) (Tier 3)
 - [Equal Justice Initiative: Prison phone companies lobbying](https://eji.org/news/private-companies-lobbied-to-criminalize-cell-phones-in-prisons/) (Tier 3)
 - [Physicians for Human Rights: Private prisons ALEC SB 1070](https://phr.org/our-work/resources/private-prison-companies-lobby-against-immigration-reform-for-their-own-profit/) (Tier 3)

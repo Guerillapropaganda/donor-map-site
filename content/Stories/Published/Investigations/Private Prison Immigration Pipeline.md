@@ -24,7 +24,7 @@ donors: [[GEO Group]] [[CoreCivic]]
 
 ### The Pipeline
 
-The private prison industry has engineered a permanent revenue stream through immigration detention. Two companies — [[GEO Group|GEO Group]] and [[CoreCivic|CoreCivic]] — dominate the market with 60% of all detention beds in the U.S. Their business model is simple: donate to politicians, influence immigration enforcement, secure ICE contracts, lock up undocumented immigrants, collect per-diem payments.
+The private prison industry has engineered a permanent revenue stream through immigration detention. Two companies, [[GEO Group|GEO Group]] and [[CoreCivic|CoreCivic]], dominate the market with 60% of all detention beds in the U.S. Their business model is simple: donate to politicians, influence immigration enforcement, secure ICE contracts, lock up undocumented immigrants, collect per-diem payments.
 
 This is the military-industrial complex for immigration. Instead of foreign wars generating defense contractor revenue, immigration "enforcement" generates prison contractor revenue. The mechanics are identical: political donations → policy change → guaranteed revenue stream.
 
@@ -55,7 +55,7 @@ This is the military-industrial complex for immigration. Instead of foreign wars
 
 ### CoreCivic Reactivation:
 - Reopened South Texas Family Residential Center (2024)
-- Capacity: 2,400 beds (families — highest revenue per-diem: $54/day)
+- Capacity: 2,400 beds (families, highest revenue per-diem: $54/day)
 - Annual revenue impact: $47M+ per facility
 - Negotiated expansion clauses: committed to 95% occupancy guarantees
 
@@ -83,7 +83,7 @@ This is not incidental. Detention spending has grown 340% since 2003 as private 
 - This is a mandate to GEO and CoreCivic: maintain occupancy at these levels or Congress has failed
 - Result: ICE must find immigrants to detain at these volumes to fulfill Congressional mandate
 
-This creates a perverse incentive: ICE is not optimizing for fair enforcement or safety. ICE is optimizing to fill detention beds because Congress mandated it — and private prison contractors lobby Congress to maintain the mandates.
+This creates a perverse incentive: ICE is not optimizing for fair enforcement or safety. ICE is optimizing to fill detention beds because Congress mandated it, and private prison contractors lobby Congress to maintain the mandates.
 
 ### The Donor Class Question
 

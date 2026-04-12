@@ -24,13 +24,13 @@ donors:: Republican National Committee NRSC Trump Personal Network [[Susan B. An
 - Primary endorsement authority
 - Joint fundraising committee structures
 
-Rather than remaining neutral as RNC chair, Whatley used that institutional authority to secure early party backing for his own Senate campaign—a move that is technically permissible under party rules but structurally conflicts with the neutral party administrator role. This document maps how party authority was converted into Senate campaign advantage.
+Rather than remaining neutral as RNC chair, Whatley used that institutional authority to secure early party backing for his own Senate campaign, a move that is technically permissible under party rules but structurally conflicts with the neutral party administrator role. This document maps how party authority was converted into Senate campaign advantage.
 
 ---
 
 ### Rule 11 Authorization: Early Party Backing
 
-In October 2024, while serving as RNC chair, Whatley secured approval under "Rule 11 of the RNC bylaws" for early party spending on his behalf, before the March 2026 primary. This is a rare authorization—it grants party resources and campaign support to a non-incumbent candidate before primary competition is resolved.
+In October 2024, while serving as RNC chair, Whatley secured approval under "Rule 11 of the RNC bylaws" for early party spending on his behalf, before the March 2026 primary. This is a rare authorization, it grants party resources and campaign support to a non-incumbent candidate before primary competition is resolved.
 
 The approval process:
 
@@ -38,7 +38,7 @@ The approval process:
 2. NC GOP chair Jason Simmons, the state party's national committeeman, and national committeewoman voted to approve Rule 11 authorization
 3. The authorization allowed RNC party resources to be directed to Whatley's campaign before the primary
 
-This is technically legal under RNC bylaws. However, it reveals the structural function: the party chair used his position to authorize party resources for his own candidacy. A neutral RNC chair would not authorize such early backing for his own race—it would be a conflict of interest. Whatley authorized it because he held the authority and had the incentive.
+This is technically legal under RNC bylaws. However, it reveals the structural function: the party chair used his position to authorize party resources for his own candidacy. A neutral RNC chair would not authorize such early backing for his own race, it would be a conflict of interest. Whatley authorized it because he held the authority and had the incentive.
 
 The effect: Whatley received party apparatus support and donor access that other Republican candidates in the primary did not receive, while he held the position that authorized that differential treatment.
 
@@ -120,7 +120,7 @@ The core structural issue is that Whatley used institutional party authority (RN
 
 4. **State Party Coordination:** RNC chair has authority over state party relationships. Whatley coordinated state party support for his candidacy while holding that authority, and based partly on his prior state chair tenure.
 
-This is not illegal—RNC bylaws permit such actions. It is structurally corrupt in the sense that it uses institutional authority for personal advantage in ways that create unfair competitive dynamics within the party primary process.
+This is not illegal, RNC bylaws permit such actions. It is structurally corrupt in the sense that it uses institutional authority for personal advantage in ways that create unfair competitive dynamics within the party primary process.
 
 ---
 

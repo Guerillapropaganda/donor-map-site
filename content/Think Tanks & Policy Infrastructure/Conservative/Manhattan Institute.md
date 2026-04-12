@@ -42,13 +42,13 @@ related: "[[Koch Network - Charles Koch]] · [[Bradley Foundation]] · [[Paul Si
 
 ### Who They Are
 
-The Manhattan Institute for Policy Research (MI) is a 501(c)(3) conservative think tank headquartered at 52 Vanderbilt Avenue, New York, NY, focused on urban affairs, policing, education, housing, criminal justice, and fiscal policy. It was founded in 1978 by Antony Fisher — the British businessman behind the UK's Institute for Economic Affairs (Margaret Thatcher's policy incubator) and the Atlas Network — and William J. Casey, a Wall Street lawyer who became Reagan's CIA Director in 1981. Originally called the International Center for Economic Policy Studies, it was renamed the Manhattan Institute in 1981.
+The Manhattan Institute for Policy Research (MI) is a 501(c)(3) conservative think tank headquartered at 52 Vanderbilt Avenue, New York, NY, focused on urban affairs, policing, education, housing, criminal justice, and fiscal policy. It was founded in 1978 by Antony Fisher, the British businessman behind the UK's Institute for Economic Affairs (Margaret Thatcher's policy incubator) and the Atlas Network, and William J. Casey, a Wall Street lawyer who became Reagan's CIA Director in 1981. Originally called the International Center for Economic Policy Studies, it was renamed the Manhattan Institute in 1981.
 
-MI publishes *City Journal*, a quarterly magazine founded in 1990 that serves as the intellectual distribution channel for its research. City Journal is the pipeline between MI's fellows and the conservative political class — Giuliani's 1993 campaign was directly shaped by it, and DeSantis's culture war legislation drew heavily from its pages.
+MI publishes *City Journal*, a quarterly magazine founded in 1990 that serves as the intellectual distribution channel for its research. City Journal is the pipeline between MI's fellows and the conservative political class. Giuliani's 1993 campaign was directly shaped by it, and DeSantis's culture war legislation drew heavily from its pages.
 
-The institute's annual budget (FY ending Sept. 2023) was $26.9M in revenue and $21.6M in expenses, with total assets of $40.6M. 96%+ of revenue comes from donor contributions — the institute has no meaningful independent income. Reihan Salam has been president since 2019, earning $686,688 in compensation that year.
+The institute's annual budget (FY ending Sept. 2023) was $26.9M in revenue and $21.6M in expenses, with total assets of $40.6M. 96%+ of revenue comes from donor contributions, the institute has no meaningful independent income. Reihan Salam has been president since 2019, earning $686,688 in compensation that year.
 
-**Board of Trustees (notable names, IRS 990 verified):** Paul Singer (Chairman, Elliott Management hedge fund), William Barr (Trustee — former Trump AG, twice), Betsy DeVos (Trustee — former Trump Education Secretary), Ravenel Curry (Trustee — Eagle Capital Management hedge fund), Robert Rosenkranz (Trustee — founder, Delphi Financial Group), Harvey Golub (Trustee — former AIG CEO), Maurice Greenberg (Trustee — AIG founder, Starr Companies), Roger Kimball (Trustee — editor, New Criterion). Former trustees include Daniel Loeb (Third Point hedge fund), Clifford Asness (AQR Capital Management), William Kristol, and David Malpass (→ Trump Treasury, then World Bank President).
+**Board of Trustees (notable names, IRS 990 verified):** Paul Singer (Chairman, Elliott Management hedge fund), William Barr (Trustee, former Trump AG, twice), Betsy DeVos (Trustee, former Trump Education Secretary), Ravenel Curry (Trustee. Eagle Capital Management hedge fund), Robert Rosenkranz (Trustee, founder, Delphi Financial Group), Harvey Golub (Trustee, former AIG CEO), Maurice Greenberg (Trustee. AIG founder, Starr Companies), Roger Kimball (Trustee, editor, New Criterion). Former trustees include Daniel Loeb (Third Point hedge fund), Clifford Asness (AQR Capital Management), William Kristol, and David Malpass (→ Trump Treasury, then World Bank President).
 
 The board is not incidental decoration. It is a map of the donor class that funds MI and benefits from its research output.
 
@@ -56,12 +56,12 @@ The board is not incidental decoration. It is a map of the donor class that fund
 
 ### Who Funds Them
 
-MI does not disclose its donor list. Schedule B of its Form 990 (donor names) is withheld from public view — standard for 501(c)(3)s but a meaningful transparency gap for a think tank claiming independence. Charity Navigator rates MI 0/100 on accountability and transparency.
+MI does not disclose its donor list. Schedule B of its Form 990 (donor names) is withheld from public view, standard for 501(c)(3)s but a meaningful transparency gap for a think tank claiming independence. Charity Navigator rates MI 0/100 on accountability and transparency.
 
 Documented funding from investigative reporting and foundation grant disclosures:
 
 ### Wall Street / Finance:
-Paul Singer's Paul E. Singer Foundation gave $525,000 to MI in 2016. Singer serves as Chairman of the Board — an unusually direct capture of institutional leadership by a major donor. Singer is the founder of Elliott Management, one of the most aggressive activist hedge funds in the world, with a known interest in deregulation, anti-union policy, and judicial appointments aligned with property rights.
+Paul Singer's Paul E. Singer Foundation gave $525,000 to MI in 2016. Singer serves as Chairman of the Board, an unusually direct capture of institutional leadership by a major donor. Singer is the founder of Elliott Management, one of the most aggressive activist hedge funds in the world, with a known interest in deregulation, anti-union policy, and judicial appointments aligned with property rights.
 
 Roger Hertog, former president and partner at Sanford C. Bernstein & Co. (investment management), served as MI Chairman before Singer and is a major historical donor. Hertog has been described as the architect of the modern Manhattan Institute's intellectual identity.
 
@@ -75,7 +75,7 @@ Roger Hertog, former president and partner at Sanford C. Bernstein & Co. (invest
 ### Bradley Foundation:
 - Lynde and Harry Bradley Foundation: $5,781,560 since 1986
 - $625,000 in 2019 alone
-The Bradley Foundation is a Milwaukee-based conservative foundation — one of the top funders of the conservative policy ecosystem alongside Koch and Scaife.
+The Bradley Foundation is a Milwaukee-based conservative foundation, one of the top funders of the conservative policy ecosystem alongside Koch and Scaife.
 
 **Additional board-connected donors:** Ravenel Curry (Eagle Capital), Robert Rosenkranz (Delphi Financial), Harvey Golub and Maurice Greenberg (AIG / insurance industry), Thomas McInerney (hedge fund, former trustee). The overlapping pattern of finance capital on the board and in the donor base is not coincidental.
 
@@ -94,13 +94,13 @@ George Kelling (MI Senior Fellow) and James Q. Wilson co-authored "Broken Window
 ### Education / Anti-CRT / DEI:
 Christopher Rufo joined MI as Senior Fellow and became the primary architect of the national anti-CRT and anti-DEI campaign. Key outputs include:
 - "Critical Race Theory Is the New Segregation" (MI article, 2021)
-- *Diversity, Equity and Inclusion: Model Legislation for State Legislatures* (MI issue brief, 2023) — provided legislators with verbatim bill language to abolish DEI offices
+- *Diversity, Equity and Inclusion: Model Legislation for State Legislatures* (MI issue brief, 2023), provided legislators with verbatim bill language to abolish DEI offices
 - Consulting role in drafting Florida's "Stop WOKE Act" (2022)
-- The "Manhattan Statement" (2025) — a higher education reform framework endorsed by Trump Education Secretary Linda McMahon
+- The "Manhattan Statement" (2025), a higher education reform framework endorsed by Trump Education Secretary Linda McMahon
 Rufo earned $282,293 in FY2023, $252,700 in FY2024.
 
 ### Housing:
-MI has produced a sustained body of research opposing rent control, supporting zoning deregulation, and promoting YIMBY (Yes In My Backyard) housing policy. Key outputs shaped New York Mayor Adams's "City of Yes for Housing Opportunity" zoning reform (2024). This research benefits real estate interests — not coincidentally, MI's donor base includes finance capital deeply invested in New York City real estate markets.
+MI has produced a sustained body of research opposing rent control, supporting zoning deregulation, and promoting YIMBY (Yes In My Backyard) housing policy. Key outputs shaped New York Mayor Adams's "City of Yes for Housing Opportunity" zoning reform (2024). This research benefits real estate interests, not coincidentally, MI's donor base includes finance capital deeply invested in New York City real estate markets.
 
 ### Fiscal / Tax Policy:
 Senior Fellow Brian Riedl (fiscal policy) produces budget and tax research consistently opposing progressive taxation and wealth taxes. Jessica Riedl's work on deficits frames social spending as the fiscal problem while rarely interrogating defense spending or tax cuts for the wealthy.
@@ -112,23 +112,23 @@ Robert Bryce (former Senior Fellow, $209,033 in FY2018) specialized in opposing 
 
 ### The Policy Pipeline
 
-### Pipeline 1 — Broken Windows to Mass Policing:
+### Pipeline 1. Broken Windows to Mass Policing:
 1982: Kelling/Wilson "Broken Windows" theory published (Atlantic Monthly; Kelling is MI Senior Fellow)
-1990: City Journal founded — provides ongoing platform for order-maintenance policing research
+1990: City Journal founded, provides ongoing platform for order-maintenance policing research
 1992: City Journal coverage catches Giuliani's attention as he prepares 1993 mayoral run; campaign consults City Journal editor Fred Siegel
 1994: Giuliani elected, implements Broken Windows policing and CompStat through Commissioner Bratton
 1994–2001: Crime falls sharply in NYC; MI and City Journal claim intellectual credit and export doctrine nationally
-2013: Floyd v. City of New York court ruling finds NYPD's stop-and-frisk practice unconstitutional — a direct descendant of Broken Windows applied at scale
+2013: Floyd v. City of New York court ruling finds NYPD's stop-and-frisk practice unconstitutional, a direct descendant of Broken Windows applied at scale
 2020: Heather Mac Donald's MI platform makes her the leading intellectual voice against police reform after George Floyd's murder
 
-### Pipeline 2 — MI Research to State DEI Bans:
+### Pipeline 2. MI Research to State DEI Bans:
 2020: Rufo produces CRT Briefing Book for Trump executive order on diversity training (Sept. 2020)
 2021: Rufo joins MI; continues CRT campaign with institutional backing
-2022: Florida "Stop WOKE Act" — Rufo consulted on drafting; prohibits CRT instruction in schools and DEI training in workplaces
+2022: Florida "Stop WOKE Act". Rufo consulted on drafting; prohibits CRT instruction in schools and DEI training in workplaces
 2023: MI publishes model DEI legislation for state legislators; provides verbatim bill language
 2024–2025: 20+ states pass anti-DEI legislation drawing from MI templates; federal executive orders on DEI use MI-aligned framing
-Jan. 21, 2025: Trump signs Executive Order "Ending Radical and Wasteful Government DEI Programs and Preferencing" on his first full day in office — abolishing the federal DEI bureaucracy. Rufo celebrates in City Journal, calling it "one to celebrate." The EO implements at the federal level what MI's model legislation had already achieved in 20+ states. The think-tank-to-White-House pipeline is now complete.
-May 2025: Rufo appears on PBS NewsHour defending Trump's campaign to "end wokeism" at colleges and universities — the MI-to-federal-education pipeline extends beyond the executive order into direct institutional control
+Jan. 21, 2025: Trump signs Executive Order "Ending Radical and Wasteful Government DEI Programs and Preferencing" on his first full day in office, abolishing the federal DEI bureaucracy. Rufo celebrates in City Journal, calling it "one to celebrate." The EO implements at the federal level what MI's model legislation had already achieved in 20+ states. The think-tank-to-White-House pipeline is now complete.
+May 2025: Rufo appears on PBS NewsHour defending Trump's campaign to "end wokeism" at colleges and universities, the MI-to-federal-education pipeline extends beyond the executive order into direct institutional control
 2025: "Manhattan Statement" on higher education reform endorsed by Education Secretary Linda McMahon
 
 ### Donation-to-Policy Timeline
@@ -142,7 +142,7 @@ May 2025: Rufo appears on PBS NewsHour defending Trump's campaign to "end wokeis
 | 2020–2022 | DeSantis / Florida legislature | Rufo's MI research | "Stop WOKE Act" drafted using MI model language; bars CRT and DEI in schools, workplaces | 2 yrs |
 | 2022–2025 | 20+ state legislatures | MI model legislation | Anti-DEI bills passed verbatim in 20+ states using MI templates | 1–3 yrs |
 | 2017 | Trump Transportation Dept | Staff transfer | Diana Furchtgott-Roth (MI Senior Fellow) → Deputy Secretary of Transportation | <1 yr |
-| Jan. 2025 | Federal government (EO) | Rufo's MI-backed campaign | Trump signs DEI EO on first full day — abolishes federal DEI programs, implements MI's model at national scale | 5 yrs (2020 briefing book → 2025 EO) |
+| Jan. 2025 | Federal government (EO) | Rufo's MI-backed campaign | Trump signs DEI EO on first full day, abolishes federal DEI programs, implements MI's model at national scale | 5 yrs (2020 briefing book → 2025 EO) |
 | 2025 | Dept. of Education | MI "Manhattan Statement" | Education Secretary Linda McMahon endorses MI's higher education reform framework | <1 yr |
 
 > [!money]
@@ -155,16 +155,16 @@ May 2025: Rufo appears on PBS NewsHour defending Trump's campaign to "end wokeis
 MI functions as a Republican policy staffing pipeline as much as a research institution. From ProPublica's Trump Town database (verified):
 
 ### Into Trump Administration (First Term):
-- **Diana Furchtgott-Roth** — MI Senior Fellow and Director of E21 → Deputy Assistant Secretary of Transportation (2017–2019). Managed MI's Washington office and Shadow Open Market Committee before moving to DOT.
-- **Paul I. Howard** — MI Director and Senior Fellow, Health Policy → Senior positions at HHS. Oversaw MI's health policy research before translating it directly into executive branch work.
-- **David Malpass** — MI Trustee → Under Secretary of the Treasury for International Affairs (Trump, 2017), then World Bank President (2019–2023). Malpass is a former Bear Stearns economist; his move from MI board to Treasury exemplifies the finance-to-government-to-international-institution pipeline.
+- **Diana Furchtgott-Roth**. MI Senior Fellow and Director of E21 → Deputy Assistant Secretary of Transportation (2017–2019). Managed MI's Washington office and Shadow Open Market Committee before moving to DOT.
+- **Paul I. Howard**. MI Director and Senior Fellow, Health Policy → Senior positions at HHS. Oversaw MI's health policy research before translating it directly into executive branch work.
+- **David Malpass**. MI Trustee → Under Secretary of the Treasury for International Affairs (Trump, 2017), then World Bank President (2019–2023). Malpass is a former Bear Stearns economist; his move from MI board to Treasury exemplifies the finance-to-government-to-international-institution pipeline.
 
 ### Into Bush Administration:
-- **David Frum** — MI fellow → Bush White House speechwriter. Frum coined "Axis of Evil" — the rhetorical framework that helped justify the Iraq War. MI provided the incubation space; the Bush administration deployed the product.
+- **David Frum**. MI fellow → Bush White House speechwriter. Frum coined "Axis of Evil", the rhetorical framework that helped justify the Iraq War. MI provided the incubation space; the Bush administration deployed the product.
 
 ### Board Members in Cabinet:
-- **William Barr** — MI Trustee → Trump Attorney General (2019–2020, confirmed after initial nomination). Barr's Justice Department oversaw the federal response to 2020 protests — directly aligned with MI's Heather Mac Donald anti-reform framing.
-- **Betsy DeVos** — MI Trustee → Trump Secretary of Education (2017–2021). DeVos promoted school choice and charter school expansion — core MI policy positions.
+- **William Barr**. MI Trustee → Trump Attorney General (2019–2020, confirmed after initial nomination). Barr's Justice Department oversaw the federal response to 2020 protests, directly aligned with MI's Heather Mac Donald anti-reform framing.
+- **Betsy DeVos**. MI Trustee → Trump Secretary of Education (2017–2021). DeVos promoted school choice and charter school expansion, core MI policy positions.
 
 > [!contradiction]
 > The Manhattan Institute presents itself as an independent research institution that rigorously tests policy ideas. In practice, its board members become cabinet secretaries, its fellows write legislation that gets passed verbatim in dozens of states, and its chairman funds the president who implements its agenda. The "independent" label is operational — it allows politicians to cite "research" rather than donor interests. When William Barr sits on the board of the think tank whose policing research he later uses to justify federal responses to protest, "independence" is not the right word.
@@ -177,7 +177,7 @@ The return on investment for MI's core donor base is measurable across their key
 
 ### Hedge fund / finance capital:
 - Sustained intellectual opposition to wealth taxes, financial transaction taxes, and progressive income taxation
-- Broken Windows policing doctrine criminalized the disorder (homelessness, street vendors, minor violations) that reduced luxury real estate values — direct financial benefit to Manhattan property holders
+- Broken Windows policing doctrine criminalized the disorder (homelessness, street vendors, minor violations) that reduced luxury real estate values, direct financial benefit to Manhattan property holders
 - Opposition to rent control protects unregulated rental income streams for real estate-adjacent investors
 - Anti-DEI campaign reduces compliance costs and legal exposure for financial firms with diversity programs under scrutiny
 
@@ -199,11 +199,11 @@ The Manhattan Institute converts donor money into intellectual legitimacy. The s
 
 The Manhattan Institute is the premier intellectual factory for New York finance capital's preferred vision of urban policy: criminalize poverty (Broken Windows), privatize education (school choice), oppose rent stabilization (housing deregulation), and shift cultural discourse from economic inequality to racial grievance (anti-CRT). Every major MI policy pillar serves the same underlying donor interest: protecting accumulated wealth from redistribution, regulation, and organized labor challenge.
 
-The institute's founding origin is revealing. Antony Fisher built the Atlas Network — a global franchise operation for pro-market think tanks. The Manhattan Institute is an Atlas affiliate, embedded in a transnational infrastructure of coordinated donor-to-policy pipelines. William Casey, its co-founder, went on to run the CIA — an institution whose domestic capabilities MI's policing research would later intellectually justify (surveillance, order-maintenance, suppression of dissent framed as public safety).
+The institute's founding origin is revealing. Antony Fisher built the Atlas Network, a global franchise operation for pro-market think tanks. The Manhattan Institute is an Atlas affiliate, embedded in a transnational infrastructure of coordinated donor-to-policy pipelines. William Casey, its co-founder, went on to run the CIA, an institution whose domestic capabilities MI's policing research would later intellectually justify (surveillance, order-maintenance, suppression of dissent framed as public safety).
 
 The board is structurally identical to the donor class it serves: hedge fund managers (Singer, Curry, Loeb, Asness), insurance/financial conglomerates (Greenberg/AIG, Golub/AIG, Rosenkranz/Delphi), and political figures who have moved between the board and executive power (Barr, DeVos, Malpass). The research MI produces is not independent analysis of policy tradeoffs. It is the policy preference of hedge fund capital, laundered through academic format and distributed through *City Journal*, op-ed pages, and model legislation templates.
 
-Trump's January 2025 DEI executive order represents the full maturation of the MI pipeline. In 2020, Rufo produced briefing books for Trump's first-term diversity training executive order. By 2025, the same intellectual framework — developed, tested, and refined through MI's institutional infrastructure — became federal policy on Day One. The five-year arc from MI fellow's briefing book to presidential executive order is the cleanest documented case of idea laundering in the current vault: donor money funded the research, the research became model legislation in 20+ states, and the state-level success validated the federal executive order. Rufo celebrated the result in MI's own publication, City Journal, completing the loop.
+Trump's January 2025 DEI executive order represents the full maturation of the MI pipeline. In 2020, Rufo produced briefing books for Trump's first-term diversity training executive order. By 2025, the same intellectual framework, developed, tested, and refined through MI's institutional infrastructure, became federal policy on Day One. The five-year arc from MI fellow's briefing book to presidential executive order is the cleanest documented case of idea laundering in the current vault: donor money funded the research, the research became model legislation in 20+ states, and the state-level success validated the federal executive order. Rufo celebrated the result in MI's own publication, City Journal, completing the loop.
 
 The "urban affairs" framing is particularly effective: MI presents itself as solving New York City's problems while the actual operational logic is protecting property values and managing the poor in ways that preserve them for low-wage labor. Broken Windows policing cleared public space for gentrification. Anti-rent-control research accelerates displacement of low-income tenants. School choice drains resources from public schools serving working-class communities. The class function is consistent across every policy vertical.
 
@@ -215,17 +215,17 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 - [ProPublica Trump Town: Manhattan Institute alumni in Trump administration](https://projects.propublica.org/trump-town/organizations/manhattan-institute) (Tier 2)
 - [The Intercept: As Paul Singer Donated Millions to Republican Governors Association, Public Funds Flowed Into His Hedge Funds](https://theintercept.com/2020/10/15/paul-singer-hedge-fund-republican-governors-association-rga/) (Tier 2)
 - [Inside Philanthropy: Why Wall Streeters Love The Manhattan Institute](https://www.insidephilanthropy.com/home/economic-policy-research-2015-6-1-why-wall-streeters-love-the-manhattan-institute-html) (Tier 2)
-- [DeSmog: Manhattan Institute for Policy Research — climate and energy research profile](https://www.desmog.com/manhattan-institute-policy-research/) (Tier 2)
-- [SourceWatch: Manhattan Institute for Policy Research — funding documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research) (Tier 3)
+- [DeSmog: Manhattan Institute for Policy Research, climate and energy research profile](https://www.desmog.com/manhattan-institute-policy-research/) (Tier 2)
+- [SourceWatch: Manhattan Institute for Policy Research, funding documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research) (Tier 3)
 - [InfluenceWatch: Manhattan Institute for Policy Research](https://www.influencewatch.org/non-profit/manhattan-institute-for-policy-research/) (Tier 3)
 - [Wikipedia: Manhattan Institute for Policy Research](https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research) (Tier 3)
 - [Charity Navigator: Rating for Manhattan Institute for Policy Research (0/100 accountability)](https://www.charitynavigator.org/ein/132912529) (Tier 3)
 - [City Journal: Broken Windows Turns 25](https://www.city-journal.org/article/broken-windows-turns-25) (Tier 3)
 - [Manhattan Institute: Abolish DEI Bureaucracies and Restore Colorblind Equality in Public Universities (Rufo, 2023)](https://manhattan.institute/article/abolish-dei-bureaucracies-and-restore-colorblind-equality-in-public-universities) (Tier 3)
 - [Manhattan Institute: Critical Race Theory Is the New Segregation (Rufo, 2021)](https://manhattan.institute/article/critical-race-theory-is-the-new-segregation-across-schools-nationwide) (Tier 3)
-- [Wikipedia: Christopher Rufo — background and policy campaigns](https://en.wikipedia.org/wiki/Christopher_Rufo) (Tier 3)
+- [Wikipedia: Christopher Rufo, background and policy campaigns](https://en.wikipedia.org/wiki/Christopher_Rufo) (Tier 3)
 - [The Intercept: Funded by Dark Money, Chris Rufo's Nonprofit Stokes the Far Right's Culture War (2023)](https://theintercept.com/2023/06/08/christopher-rufo-nonprofit-dark-money/) (Tier 2)
-- [Supreme Transparency: Manhattan Institute — amicus briefs, dark money connections, Leonard Leo's 85 Fund $450K (2022)](https://supremetransparency.org/powerbrokers/manhattan-institute/) (Tier 2)
+- [Supreme Transparency: Manhattan Institute, amicus briefs, dark money connections, Leonard Leo's 85 Fund $450K (2022)](https://supremetransparency.org/powerbrokers/manhattan-institute/) (Tier 2)
 - [City Journal: Trump Executive Order on DEI Is One to Celebrate (Rufo, Jan. 21, 2025)](https://www.city-journal.org/article/donald-trump-dei-executive-order) (Tier 3)
 
 ---

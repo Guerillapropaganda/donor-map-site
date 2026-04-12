@@ -15,28 +15,28 @@ related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network
 
 ---
 
-### 2026-03-25 Finance Research — Automated Run
+### 2026-03-25 Finance Research. Automated Run
 
 **Task:** gp-finance-research
 **Type:** Scheduled automated run
 **Data sources checked:** FEC API, OpenSecrets, CNBC, CNN, NBC News, Axios, Readsludge, EXPOSEDbyCMD, Yahoo Finance
-**URLs verified via Chrome:** 13 VALID, 2 BLOCKED (Bloomberg — site restriction)
+**URLs verified via Chrome:** 13 VALID, 2 BLOCKED (Bloomberg, site restriction)
 
 ---
 
 ### Summary of Findings
 
-This run produced 10 actionable findings across three tiers. The dominant pattern is an unprecedented concentration of donor-class money into the 2026 midterm cycle, led by the tech/crypto/AI sector — which is now operating its own parallel super PAC infrastructure rivaling the traditional party apparatus. Schwarzman's MAGA Inc. donation confirms Blackstone's continued access-buying strategy under Trump 2.0. The Koch network's ACA subsidy campaign is the clearest Donor-Class Override pattern documented this cycle.
+This run produced 10 actionable findings across three tiers. The dominant pattern is an unprecedented concentration of donor-class money into the 2026 midterm cycle, led by the tech/crypto/AI sector, which is now operating its own parallel super PAC infrastructure rivaling the traditional party apparatus. Schwarzman's MAGA Inc. donation confirms Blackstone's continued access-buying strategy under Trump 2.0. The Koch network's ACA subsidy campaign is the clearest Donor-Class Override pattern documented this cycle.
 
 ---
 
-### DIAMOND TIER — Structural / > $10M scale
+### DIAMOND TIER. Structural / > $10M scale
 
-### Finding 1: MAGA Inc. Super PAC — $304M War Chest, Schwarzman Confirms Access Strategy
+### Finding 1: MAGA Inc. Super PAC, $304M War Chest, Schwarzman Confirms Access Strategy
 
 **Status:** Diamond
 
-MAGA Inc., the super PAC backing Trump, ended 2025 with $304 million in cash on hand — an unprecedented stockpile for a non-campaign-year. The H2 2025 fundraising haul of $102 million was dominated by finance, AI, and crypto sector donors.
+MAGA Inc. the super PAC backing Trump, ended 2025 with $304 million in cash on hand, an unprecedented stockpile for a non-campaign-year. The H2 2025 fundraising haul of $102 million was dominated by finance, AI, and crypto sector donors.
 
 ### Key donors confirmed in H2 2025 FEC filings:
 
@@ -63,16 +63,16 @@ MAGA Inc., the super PAC backing Trump, ended 2025 with $304 million in cash on 
 
 ---
 
-### Finding 2: Fairshake Crypto PAC — $193M War Chest, Both-Sides Strategy Targeting Progressives
+### Finding 2: Fairshake Crypto PAC, $193M War Chest, Both-Sides Strategy Targeting Progressives
 
 **Status:** Diamond
 
-Fairshake, the crypto industry's super PAC, ended 2025 with $193 million — more than double what the crypto industry spent in the entire 2024 cycle. The PAC operates through a tri-structure designed to fund both parties simultaneously.
+Fairshake, the crypto industry's super PAC, ended 2025 with $193 million, more than double what the crypto industry spent in the entire 2024 cycle. The PAC operates through a tri-structure designed to fund both parties simultaneously.
 
 ### PAC structure:
-- **Fairshake** — parent committee, holds funds
-- **Protect Progress** — Democratic-facing arm
-- **Defend American Jobs** — Republican-facing arm
+- **Fairshake**, parent committee, holds funds
+- **Protect Progress**. Democratic-facing arm
+- **Defend American Jobs**. Republican-facing arm
 
 ### Major funders:
 
@@ -83,7 +83,7 @@ Fairshake, the crypto industry's super PAC, ended 2025 with $193 million — mor
 | Ripple Labs | ~$50M | XRP issuer |
 | Winklevoss twins | $21M (new PAC, Aug 2025) | Gemini crypto exchange founders |
 
-**2026 targets identified:** NY House Democrats Laura Gillen, Dan Goldman, and Ritchie Torres — all voted for the CLARITY Act (pro-crypto) and now face progressive primary challengers. Fairshake is positioning to defend them, spending against their primary opponents.
+**2026 targets identified:** NY House Democrats Laura Gillen, Dan Goldman, and Ritchie Torres, all voted for the CLARITY Act (pro-crypto) and now face progressive primary challengers. Fairshake is positioning to defend them, spending against their primary opponents.
 
 > [!money]
 > **Both-Sides Illusion in action:** Fairshake funds both Protect Progress (D) and Defend American Jobs (R) simultaneously. Any Democrat who votes pro-crypto gets defended by Fairshake money; any Democrat who votes against gets targeted. The industry has effectively converted its super PAC into a cross-party enforcement mechanism — not an electoral strategy, but a legislative compliance system.
@@ -98,17 +98,17 @@ Fairshake, the crypto industry's super PAC, ended 2025 with $193 million — mor
 
 ---
 
-### Finding 3: Leading the Future AI Super PAC — $125M in 2025, Palantir Co-Founder Key Player
+### Finding 3: Leading the Future AI Super PAC, $125M in 2025, Palantir Co-Founder Key Player
 
 **Status:** Diamond
 
-A new super PAC, **Leading the Future**, was launched in August 2025 by AI industry donors. It raised $125 million in its first year. Goal: back candidates who support federal AI regulation over state-by-state rules — a deregulation play framed as pro-consumer "uniformity."
+A new super PAC, **Leading the Future**, was launched in August 2025 by AI industry donors. It raised $125 million in its first year. Goal: back candidates who support federal AI regulation over state-by-state rules, a deregulation play framed as pro-consumer "uniformity."
 
 ### Key founders/donors:
-- Andreessen Horowitz (Marc Andreessen — Trump adviser)
-- Greg Brockman (OpenAI) — also giving $25M directly to MAGA Inc.
-- **Joe Lonsdale** — Palantir co-founder, vocal Trump supporter
-- Ron Conway — SV Angel founder
+- Andreessen Horowitz (Marc Andreessen. Trump adviser)
+- Greg Brockman (OpenAI), also giving $25M directly to MAGA Inc.
+- **Joe Lonsdale**. Palantir co-founder, vocal Trump supporter
+- Ron Conway. SV Angel founder
 
 > [!money]
 > **Palantir co-founder Lonsdale is a founding donor of a $125M super PAC.** Palantir received $1.5B+ in government contracts in FY2025 (defense, ICE, DOGE-adjacent). This PAC is connected to the vault's existing Palantir lobbying research. A "federal AI regulatory framework" that Lonsdale's PAC is backing would almost certainly be written to advantage large AI incumbents over open-source alternatives.
@@ -124,11 +124,11 @@ A new super PAC, **Leading the Future**, was launched in August 2025 by AI indus
 
 ---
 
-### Finding 4: Record Lobbying Year — $5.08 Billion in 2025, 11% Jump
+### Finding 4: Record Lobbying Year, $5.08 Billion in 2025, 11% Jump
 
 **Status:** Diamond
 
-Federal lobbying spending hit $5.08 billion in 2025 — the first year to break $5 billion and the largest single-year increase since quarterly disclosures began in 2008. The number of lobbying organizations grew 12% to 15,768.
+Federal lobbying spending hit $5.08 billion in 2025, the first year to break $5 billion and the largest single-year increase since quarterly disclosures began in 2008. The number of lobbying organizations grew 12% to 15,768.
 
 ### Industry breakdown:
 
@@ -158,9 +158,9 @@ Federal lobbying spending hit $5.08 billion in 2025 — the first year to break 
 
 ---
 
-### GOLD TIER — Significant Single-Donor / PAC Movements
+### GOLD TIER. Significant Single-Donor / PAC Movements
 
-### Finding 5: Peter Thiel — Political Hiatus Over, Club for Growth + Johnson JFC
+### Finding 5: Peter Thiel. Political Hiatus Over, Club for Growth + Johnson JFC
 
 **Status:** Gold
 
@@ -168,10 +168,10 @@ Peter Thiel resumed political giving in early 2025 after sitting out the 2024 cy
 
 ### 2025 contributions documented:
 - $1.5M to Club for Growth Action (Feb 2025)
-- $852,200 to Mike Johnson's "Grow the Majority" joint fundraising committee (Feb 2025) — redistributed to RNC, NRCC, 29 GOP House members, and 12 state parties
-- $3M to California Business Roundtable (Dec 2025) — lobbying against proposed 5% CA wealth tax on billionaires
+- $852,200 to Mike Johnson's "Grow the Majority" joint fundraising committee (Feb 2025), redistributed to RNC, NRCC, 29 GOP House members, and 12 state parties
+- $3M to California Business Roundtable (Dec 2025), lobbying against proposed 5% CA wealth tax on billionaires
 
-**March 2026 update:** Bloomberg (BLOCKED — unverified) reported Thiel and Uihlein recently pumped additional millions into Club for Growth Action. EXPOSEDbyCMD confirmed Club for Growth raised $15.8M in 2025; $10M from Jeffrey Yass.
+**March 2026 update:** Bloomberg (BLOCKED, unverified) reported Thiel and Uihlein recently pumped additional millions into Club for Growth Action. EXPOSEDbyCMD confirmed Club for Growth raised $15.8M in 2025; $10M from Jeffrey Yass.
 
 ### Club for Growth Action 2025 funding:
 
@@ -195,16 +195,16 @@ Peter Thiel resumed political giving in early 2025 after sitting out the 2024 cy
 
 ---
 
-### Finding 6: AIPAC — $28M to Congress This Cycle, $100M+ Super PAC Apparatus Primed for 2026
+### Finding 6: AIPAC, $28M to Congress This Cycle, $100M+ Super PAC Apparatus Primed for 2026
 
 **Status:** Gold
 
 AIPAC's federal PAC delivered $28 million to congressional members and candidates in the 2025–2026 cycle through January 2026, with $12.7M in PAC contributions in H1 2025 alone.
 
-**Top recipient:** Speaker Mike Johnson — $625,000 in PAC contributions (H1 2025)
+**Top recipient:** Speaker Mike Johnson, $625,000 in PAC contributions (H1 2025)
 
 ### 2024 cycle final tally (via Readsludge):
-- United Democracy Project (UDP) — AIPAC's super PAC — spent $100M across 389 races
+- United Democracy Project (UDP). AIPAC's super PAC, spent $100M across 389 races
 - 26 Senate races, 363 House races targeted
 - Effective: defeated Jamaal Bowman (NY-16) and Cori Bush (MO-1)
 
@@ -222,15 +222,15 @@ AIPAC's federal PAC delivered $28 million to congressional members and candidate
 
 ---
 
-### Finding 7: Koch Network — ACA Subsidy Kill Campaign, AFP Action $28.9M in 2025
+### Finding 7: Koch Network. ACA Subsidy Kill Campaign, AFP Action $28.9M in 2025
 
 **Status:** Gold
 
-Americans for Prosperity Action (AFP Action) raised $28.9M in 2025, with $6.5M from Charles Koch's Stand Together Chamber of Commerce. AFP deployed sustained lobbying to steer Republican lawmakers away from extending ACA subsidies, instead pushing Health Savings Accounts — the Koch-preferred deregulation alternative.
+Americans for Prosperity Action (AFP Action) raised $28.9M in 2025, with $6.5M from Charles Koch's Stand Together Chamber of Commerce. AFP deployed sustained lobbying to steer Republican lawmakers away from extending ACA subsidies, instead pushing Health Savings Accounts, the Koch-preferred deregulation alternative.
 
 **ACA subsidy context:** Enhanced ACA subsidies (from the Inflation Reduction Act) were expiring at end of 2025. The Koch network's campaign successfully blocked extension in the Republican reconciliation bill negotiations. Estimated 4 million people faced subsidy cliff.
 
-**AFP 2024 cycle total:** $130M+ in independent expenditures — one of the largest outside political spenders in 2024.
+**AFP 2024 cycle total:** $130M+ in independent expenditures, one of the largest outside political spenders in 2024.
 
 > [!money]
 > **Donor-Class Override, documented:** The Koch network spent $28.9M in 2025 lobbying to kill healthcare subsidies that directly benefit working-class Americans in Republican districts. HSAs (the Koch alternative) primarily benefit higher-income workers who have disposable income to contribute. The beneficiary of killing ACA subsidies is the insurance industry and employers who prefer limited worker benefits — both core Koch network constituencies.
@@ -242,38 +242,38 @@ Americans for Prosperity Action (AFP Action) raised $28.9M in 2025, with $6.5M f
 
 ---
 
-### Finding 8: Senate Leadership Fund + Congressional Leadership Fund — $175M Combined in 2025
+### Finding 8: Senate Leadership Fund + Congressional Leadership Fund, $175M Combined in 2025
 
 **Status:** Gold
 
-The two main Republican congressional super PACs raised a combined $175M in 2025 — more than a year before the 2026 midterms.
+The two main Republican congressional super PACs raised a combined $175M in 2025, more than a year before the 2026 midterms.
 
 | PAC | 2025 Raised | Committee ID |
 |-----|-------------|--------------|
 | Senate Leadership Fund (SLF) | $103M | C00571703 (FEC verified) |
 | Congressional Leadership Fund (CLF) | $72M | C00353888 |
 
-**Ken Griffin 2024-cycle context:** Griffin gave $30M to SLF and $15M to CLF in the 2024 cycle alone ($100M total in 2024). Griffin's $4M donation to CLF reported December 2024 (Punchbowl News). No 2025–2026 Griffin contributions confirmed in available data — likely in next FEC filing cycle.
+**Ken Griffin 2024-cycle context:** Griffin gave $30M to SLF and $15M to CLF in the 2024 cycle alone ($100M total in 2024). Griffin's $4M donation to CLF reported December 2024 (Punchbowl News). No 2025–2026 Griffin contributions confirmed in available data, likely in next FEC filing cycle.
 
 **Vault profiles to update:** [[Senate Leadership Fund]], [[Congressional Leadership Fund]], [[Ken Griffin - Citadel]]
 
 ### Sources:
 - [FEC: SLF PAC committee overview](https://www.fec.gov/data/committee/C00571703/?tab=summary) (Tier 1)
-- [Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising) (Tier 2) (UNVERIFIED — not Chrome-checked this session)
+- [Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising) (Tier 2) (UNVERIFIED, not Chrome-checked this session)
 
 ---
 
-### SILVER TIER — Contextual / Secondary Findings
+### SILVER TIER. Contextual / Secondary Findings
 
-### Finding 9: Revolving Door — 866 Congress-to-K-Street Moves in 2025, Historic Record
+### Finding 9: Revolving Door, 866 Congress-to-K-Street Moves in 2025, Historic Record
 
 **Status:** Silver
 
-LegiStorm tracked 866 individuals moving from Congress to lobbying in 2025 — a record, eclipsing the previous high of 777 in 2007. 440 Republicans (50.8%), 384 Democrats (44.3%).
+LegiStorm tracked 866 individuals moving from Congress to lobbying in 2025, a record, eclipsing the previous high of 777 in 2007. 440 Republicans (50.8%), 384 Democrats (44.3%).
 
 **DOGE-to-industry pipeline flagged:** ProPublica identified 100+ DOGE members; at least 23 made cuts at agencies that regulated their previous employers. DOGE staffers classified as "special government employees" don't face standard conflict-of-interest disclosure requirements.
 
-**Legislative response (likely DOA):** H.R. 3554 (Close the Revolving Door Act of 2025) — Neguse + AOC sponsors — proposes lifetime lobbying ban for former members, 6-year cooling-off for staff. Senate companion ZOMBIE Act (Bennet). Both unlikely to advance in Republican-controlled Congress.
+**Legislative response (likely DOA):** H.R. 3554 (Close the Revolving Door Act of 2025). Neguse + AOC sponsors, proposes lifetime lobbying ban for former members, 6-year cooling-off for staff. Senate companion ZOMBIE Act (Bennet). Both unlikely to advance in Republican-controlled Congress.
 
 > [!contradiction]
 > **The record revolving door year is not a bug — it's a feature of DOGE.** Musk brought private-sector tech workers into government without standard ethics guardrails, they cut agencies regulating their former employers, and are now positioned to move back to industry with inside knowledge. The DOGE-to-industry pipeline is the most accelerated revolving door instance in modern American political history.
@@ -281,12 +281,12 @@ LegiStorm tracked 866 individuals moving from Congress to lobbying in 2025 — a
 **Vault profiles to update:** [[Elon Musk - Tesla SpaceX]], [[DOGE - Department of Government Efficiency]] (if exists)
 
 ### Sources:
-- [LegiStorm: Revolving Door in Congress 2025](https://info.legistorm.com/blog/revolving-door-in-congress) (Tier 3) (UNVERIFIED — not Chrome-checked this session)
-- [Revolving Door Project: DOGE analysis](https://therevolvingdoorproject.org/doge-musk-vought-government-cuts-civil-service/) (Tier 3) (UNVERIFIED — not Chrome-checked this session)
+- [LegiStorm: Revolving Door in Congress 2025](https://info.legistorm.com/blog/revolving-door-in-congress) (Tier 3) (UNVERIFIED, not Chrome-checked this session)
+- [Revolving Door Project: DOGE analysis](https://therevolvingdoorproject.org/doge-musk-vought-government-cuts-civil-service/) (Tier 3) (UNVERIFIED, not Chrome-checked this session)
 
 ---
 
-### Finding 10: Crypto.com / Foris DAX — $20–30M to MAGA Inc., Regulatory Quid Pro Quo Pattern
+### Finding 10: Crypto.com / Foris DAX, $20–30M to MAGA Inc. Regulatory Quid Pro Quo Pattern
 
 **Status:** Silver
 
@@ -310,7 +310,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 
 ### Vault Update Flags
 
-### Profiles flagged for update (do not modify directly — flag for profile-builder / donor-node-builder tasks):
+### Profiles flagged for update (do not modify directly, flag for profile-builder / donor-node-builder tasks):
 
 | Profile | Finding | Priority |
 |---------|---------|---------|
@@ -332,7 +332,7 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 
 ---
 
-### URL Verification Log — This Session
+### URL Verification Log. This Session
 
 ### VALID (Chrome-confirmed):
 - `https://www.opensecrets.org/news/2026/01/lobbying-firms-took-in-a-record-5-billion-in-2025/`
@@ -352,10 +352,10 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 - `https://www.fec.gov/data/committee/C00571703/?tab=summary`
 
 ### BLOCKED / UNVERIFIED (Bloomberg domain-restricted):
-- `https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest` — UNVERIFIED (Bloomberg site restriction)
-- `https://www.bloomberg.com/news/articles/2026-03-19/billionaires-thiel-and-uihlein-pump-millions-into-republican-pac` — UNVERIFIED (Bloomberg site restriction)
+- `https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest`. UNVERIFIED (Bloomberg site restriction)
+- `https://www.bloomberg.com/news/articles/2026-03-19/billionaires-thiel-and-uihlein-pump-millions-into-republican-pac`. UNVERIFIED (Bloomberg site restriction)
 
-### UNVERIFIED (not Chrome-checked this session — verify before using in ready files):
+### UNVERIFIED (not Chrome-checked this session, verify before using in ready files):
 - `https://www.axios.com/2026/02/03/2025-campaign-fundraising`
 - `https://info.legistorm.com/blog/revolving-door-in-congress`
 - `https://therevolvingdoorproject.org/doge-musk-vought-government-cuts-civil-service/`

@@ -19,7 +19,7 @@ donors: [[MAGA Small Dollar Base]]
 
 1. **Generate controversy** (file motion to vacate, confront colleague, make inflammatory statement, vote against party leadership)
 2. **Generate media coverage** (Fox News, social media, mainstream coverage as outrage)
-3. **Send fundraising email** within hours of coverage ("the fake news media is attacking me — help me fight back")
+3. **Send fundraising email** within hours of coverage ("the fake news media is attacking me, help me fight back")
 4. **Collect small-dollar donations** from the MAGA base who identify the media attack as evidence she's effective
 
 This cycle repeats with each controversy. The controversies are not incidental to her political career; they are the revenue-generating events around which her operation is structured.
@@ -30,7 +30,7 @@ This cycle repeats with each controversy. The controversies are not incidental t
 
 ### 2022 election cycle:
 - Total raised: $12.5 million
-- Small-dollar donors (under $200): 72.7% — the highest share of any federal lawmaker
+- Small-dollar donors (under $200): 72.7%, the highest share of any federal lawmaker
 - This in a cycle where her district was not competitive (she won with ~66% of the vote)
 
 ### Early 2024:
@@ -70,7 +70,7 @@ Greene is frequently described as the right-wing equivalent of AOC's small-dolla
 
 ### The Email List as Core Asset
 
-Greene's most valuable political asset is not her committee assignments or her relationships with colleagues. It is her email list — hundreds of thousands of small-dollar donors who have signaled willingness to give when asked.
+Greene's most valuable political asset is not her committee assignments or her relationships with colleagues. It is her email list, hundreds of thousands of small-dollar donors who have signaled willingness to give when asked.
 
 The list management system:
 - Controversy triggers the email blast ("I need your help right now")
@@ -92,7 +92,7 @@ Under the outrage model:
 - Compromise weakens the "righteous fight" narrative and hurts fundraising
 - Attacking party leadership generates better returns than working with it
 
-This is why Greene filed a motion to vacate against Speaker Johnson in 2024 even without the votes to succeed — the filing itself was a fundraising event, regardless of the outcome.
+This is why Greene filed a motion to vacate against Speaker Johnson in 2024 even without the votes to succeed, the filing itself was a fundraising event, regardless of the outcome.
 
 The political class that benefits from government dysfunction has found its perfect fundraising model: a politician who is rewarded financially for preventing the government from functioning.
 
@@ -107,4 +107,4 @@ The political class that benefits from government dysfunction has found its perf
 - [AJC: More controversial the better for Greene's fundraising](https://www.ajc.com/politics/the-more-controversial-the-better-for-greene-fundraising-and-her-opponent/5CKFDDY6P5DQDKLFTKLID4ACN4/) (Tier 2)
 - [Capitol Beat: MTG Georgia's top congressional fundraiser](https://capitol-beat.org/2024/04/marjorie-taylor-greene-georgias-top-congressional-fundraiser/) (Tier 2)
 - [Newsweek: MTG raising more money than ever](https://www.newsweek.com/marjorie-taylor-greene-georgia-election-campaign-funding-1968927) (Tier 2)
-- [ProPublica: MTG in super PAC ad — possible FEC violation](https://www.propublica.org/article/marjorie-taylor-greene-appeared-in-a-super-pac-ad-asking-for-money-that-might-break-the-rules) (Tier 2)
+- [ProPublica: MTG in super PAC ad, possible FEC violation](https://www.propublica.org/article/marjorie-taylor-greene-appeared-in-a-super-pac-ad-asking-for-money-that-might-break-the-rules) (Tier 2)

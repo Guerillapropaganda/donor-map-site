@@ -52,13 +52,13 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-Blackstone Group is the world's largest alternative asset manager, with over $1.1 trillion in assets under management as of 2025. Founded in 1985 by Stephen Schwarzman and Pete Peterson with $400,000 in seed capital, Blackstone went public in 2007 — just before the financial crisis it helped create — and has since grown into the single most powerful private capital firm on Earth. The firm dominates private equity, real estate, credit, insurance solutions, and hedge fund strategies.
+Blackstone Group is the world's largest alternative asset manager, with over $1.1 trillion in assets under management as of 2025. Founded in 1985 by Stephen Schwarzman and Pete Peterson with $400,000 in seed capital, Blackstone went public in 2007, just before the financial crisis it helped create, and has since grown into the single most powerful private capital firm on Earth. The firm dominates private equity, real estate, credit, insurance solutions, and hedge fund strategies.
 
-CEO Stephen Schwarzman (net worth approximately $42 billion, annual income approximately $700 million — most from carried interest taxed at capital gains rates) is one of the most politically active executives in American finance and a top Republican mega-donor. Schwarzman has contributed over $35 million to GOP candidates and super PACs since 2016, hosted fundraisers at his $37 million Park Avenue apartment, and served on Trump's Strategic and Policy Forum before it dissolved after Charlottesville.
+CEO Stephen Schwarzman (net worth approximately $42 billion, annual income approximately $700 million, most from carried interest taxed at capital gains rates) is one of the most politically active executives in American finance and a top Republican mega-donor. Schwarzman has contributed over $35 million to GOP candidates and super PACs since 2016, hosted fundraisers at his $37 million Park Avenue apartment, and served on Trump's Strategic and Policy Forum before it dissolved after Charlottesville.
 
-Blackstone's political significance extends far beyond its campaign contributions. The firm is the single largest private landlord in America through its real estate portfolio — 350,000+ rental units including Invitation Homes (84,000 single-family homes). It's also the largest owner of healthcare staffing companies, and a major player in infrastructure, logistics, and data centers. Every regulatory decision affecting private equity, real estate, healthcare, and financial markets directly impacts Blackstone's bottom line. The firm's political spending is not philanthropy — it's overhead on a trillion-dollar portfolio.
+Blackstone's political significance extends far beyond its campaign contributions. The firm is the single largest private landlord in America through its real estate portfolio, 350,000+ rental units including Invitation Homes (84,000 single-family homes). It's also the largest owner of healthcare staffing companies, and a major player in infrastructure, logistics, and data centers. Every regulatory decision affecting private equity, real estate, healthcare, and financial markets directly impacts Blackstone's bottom line. The firm's political spending is not philanthropy, it's overhead on a trillion-dollar portfolio.
 
-Schwarzman's relationship with Trump has defined Blackstone's political strategy. He chaired Trump's Strategic and Policy Forum in 2017, broke with Trump over January 6, then reconciled by 2024 — sitting at the head table with Trump and the emir of Qatar at a 2024 state dinner. The pattern reveals the donor-class calculation: political principles are negotiable when carried interest and regulatory treatment are at stake.
+Schwarzman's relationship with Trump has defined Blackstone's political strategy. He chaired Trump's Strategic and Policy Forum in 2017, broke with Trump over January 6, then reconciled by 2024, sitting at the head table with Trump and the emir of Qatar at a 2024 state dinner. The pattern reveals the donor-class calculation: political principles are negotiable when carried interest and regulatory treatment are at stake.
 
 - [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
 - [FEC: Blackstone PAC filings](https://www.fec.gov/data/committee/C00428052/) (Tier 1)
@@ -70,13 +70,13 @@ Schwarzman's relationship with Trump has defined Blackstone's political strategy
 
 Blackstone's policy agenda is the private equity industry's wish list:
 
-**Carried interest preservation:** The single most important legislative priority. The carried interest loophole allows private equity fund managers to pay the 20% capital gains rate on their performance fees rather than the 37% ordinary income rate — saving Schwarzman alone an estimated $100+ million annually. Both Trump (2016, 2024) and Biden (2020) campaigned on closing this loophole. Neither did. The loophole costs taxpayers an estimated $18 billion over 10 years.
+**Carried interest preservation:** The single most important legislative priority. The carried interest loophole allows private equity fund managers to pay the 20% capital gains rate on their performance fees rather than the 37% ordinary income rate, saving Schwarzman alone an estimated $100+ million annually. Both Trump (2016, 2024) and Biden (2020) campaigned on closing this loophole. Neither did. The loophole costs taxpayers an estimated $18 billion over 10 years.
 
 **Favorable real estate tax treatment:** Blackstone benefits from 1031 exchanges (tax-deferred property swaps), accelerated depreciation schedules, Opportunity Zone tax credits, and the pass-through deduction created by the 2017 TCJA (Section 199A). These provisions collectively allow Blackstone's real estate operations to generate billions in revenue while minimizing taxable income.
 
-**Weakened tenant protections:** As America's largest private landlord, Blackstone opposes federal and state rent control legislation, eviction moratorium extensions, and tenant right-to-counsel laws. The firm's rental revenue depends on the ability to raise rents without regulatory constraint — Invitation Homes properties in markets like San Diego saw rent increases of 38% during the post-pandemic housing crisis.
+**Weakened tenant protections:** As America's largest private landlord, Blackstone opposes federal and state rent control legislation, eviction moratorium extensions, and tenant right-to-counsel laws. The firm's rental revenue depends on the ability to raise rents without regulatory constraint. Invitation Homes properties in markets like San Diego saw rent increases of 38% during the post-pandemic housing crisis.
 
-**Reduced private equity regulation:** Blackstone lobbies against SEC transparency requirements for private fund fees, opposes fiduciary duty expansions, and seeks to weaken CFIUS review of foreign capital inflows — critical because Blackstone raises tens of billions from sovereign wealth funds including Saudi Arabia's PIF.
+**Reduced private equity regulation:** Blackstone lobbies against SEC transparency requirements for private fund fees, opposes fiduciary duty expansions, and seeks to weaken CFIUS review of foreign capital inflows, critical because Blackstone raises tens of billions from sovereign wealth funds including Saudi Arabia's PIF.
 
 **Continued access to pension fund capital:** State pension funds are among Blackstone's largest investors, creating a structural conflict where public employee retirement funds are invested in a firm that lobbies against public employee interests.
 
@@ -86,7 +86,7 @@ Blackstone's policy agenda is the private equity industry's wish list:
 
 Blackstone's political spending flows through three channels: the Blackstone Group PAC, Stephen Schwarzman's personal contributions, and employee bundling.
 
-**2024 cycle — Total political spending: $48,609,890** (ranked #22 of 40,455 organizations nationally)
+**2024 cycle. Total political spending: $48,609,890** (ranked #22 of 40,455 organizations nationally)
 
 | Recipient | Amount | Type |
 |-----------|--------|------|
@@ -114,18 +114,18 @@ Blackstone's political spending flows through three channels: the Blackstone Gro
 | 2025 | MAGA Inc. super PAC | $5M | FEC |
 | Ongoing | Senate Finance Committee members (both parties) | Recurring | OpenSecrets |
 
-Schwarzman's personal contributions skew heavily Republican — approximately 90% GOP in recent cycles. His $33.5 million in 2020 cycle spending made him one of the top 10 individual political donors in America.
+Schwarzman's personal contributions skew heavily Republican, approximately 90% GOP in recent cycles. His $33.5 million in 2020 cycle spending made him one of the top 10 individual political donors in America.
 
 ### Blackstone PAC (Bipartisan)
 
 Blackstone PAC maintains a roughly 55/45 Republican-Democrat split, ensuring access to committee chairs regardless of which party holds power. The dual strategy is deliberate: Schwarzman's personal giving buys Republican leadership access, while the PAC maintains Democratic relationships essential for blocking hostile legislation.
 
 ### Key relationships:
-- [[_Donald Trump Master Profile|Donald Trump]] — Schwarzman served on Strategic and Policy Forum, hosted fundraisers, contributed $20M+ to Trump-aligned super PACs across both campaigns
-- [[_Chuck Schumer Master Profile|Chuck Schumer]] — Blackstone PAC contributor to New York's Senate leader; Schumer has never supported closing the carried interest loophole despite representing Wall Street's home state
-- [[_Susan Collins Master Profile|Susan Collins]] — $200K+ from Schwarzman; Collins cast pivotal vote for TCJA preserving carried interest
-- Senate Finance Committee — carried interest jurisdiction; both parties' members receive Blackstone PAC contributions
-- House Ways and Means Committee — tax policy jurisdiction
+- [[_Donald Trump Master Profile|Donald Trump]]. Schwarzman served on Strategic and Policy Forum, hosted fundraisers, contributed $20M+ to Trump-aligned super PACs across both campaigns
+- [[_Chuck Schumer Master Profile|Chuck Schumer]]. Blackstone PAC contributor to New York's Senate leader; Schumer has never supported closing the carried interest loophole despite representing Wall Street's home state
+- [[_Susan Collins Master Profile|Susan Collins]], $200K+ from Schwarzman; Collins cast pivotal vote for TCJA preserving carried interest
+- Senate Finance Committee, carried interest jurisdiction; both parties' members receive Blackstone PAC contributions
+- House Ways and Means Committee, tax policy jurisdiction
 
 ### Lobbying:
 
@@ -133,12 +133,12 @@ Blackstone PAC maintains a roughly 55/45 Republican-Democrat split, ensuring acc
 |------|---------------|-----------|-----------------|
 | 2024 | $3,846,000 | 42 | 83% former government |
 | 2023 | $4,396,000 | 44 | 84% former government |
-| 2022 | $14,000,000 | Peak year — carried interest most threatened | — |
+| 2022 | $14,000,000 | Peak year, carried interest most threatened |, |
 
 > [!money]
 > 83-84% of Blackstone's lobbyists are former government employees — the highest revolving door percentage of any major financial institution. These are former Treasury officials, congressional tax staffers, and SEC regulators who now lobby their former colleagues on behalf of the firm they regulate. The revolving door isn't a side effect of Blackstone's business — it's a core competitive advantage.
 
-- [OpenSecrets: Blackstone Group summary — 2024 cycle](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
+- [OpenSecrets: Blackstone Group summary, 2024 cycle](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1)
 - [Senate LDA Filings: Blackstone Group lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [FEC Receipts: Stephen Schwarzman donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Stephen%20Schwarzman) (Tier 1)
 - [OpenSecrets: Blackstone Group top recipients](https://www.opensecrets.org/orgs/blackstone-group/recipients?id=D000021873) (Tier 1)
@@ -148,25 +148,25 @@ Blackstone PAC maintains a roughly 55/45 Republican-Democrat split, ensuring acc
 
 ### What They've Gotten
 
-The return on Blackstone's political investment is best measured in a single number: carried interest. Despite being the most-promised tax reform in modern American politics — pledged by Obama, Trump (twice), and Biden — the carried interest loophole has survived every attempt at closure. Blackstone's spending exists to maintain this outcome.
+The return on Blackstone's political investment is best measured in a single number: carried interest. Despite being the most-promised tax reform in modern American politics, pledged by Obama, Trump (twice), and Biden, the carried interest loophole has survived every attempt at closure. Blackstone's spending exists to maintain this outcome.
 
-### The Carried Interest Loophole — A $18 Billion Gift
+### The Carried Interest Loophole. A $18 Billion Gift
 
 ### Donation-to-policy timeline:
 
 | Date | Investment/Event | Amount | Policy Outcome | Time Gap |
 |------|-----------------|--------|----------------|----------|
 | 2016 | Schwarzman donates to Trump campaign + inaugural | $5M+ | Schwarzman named chair of Strategic and Policy Forum | 2 months |
-| 2017 | Blackstone lobbies on Tax Cuts and Jobs Act | $4.2M lobbying | TCJA passes — carried interest loophole preserved. New pass-through deduction (Section 199A) benefits Blackstone structure | 12 months |
+| 2017 | Blackstone lobbies on Tax Cuts and Jobs Act | $4.2M lobbying | TCJA passes, carried interest loophole preserved. New pass-through deduction (Section 199A) benefits Blackstone structure | 12 months |
 | 2017 | Schwarzman donations to Susan Collins | $200K+ | Collins casts pivotal vote for TCJA | Direct |
 | 2018 | Post-TCJA: Schwarzman ramps donations to Collins | Continued | Collins continues supporting private equity-friendly tax policy | Ongoing |
 | 2020 | Schwarzman donates $3M to Trump reelection | $3M | Carried interest loophole untouched through first Trump term | Ongoing |
-| 2021 | Schwarzman breaks with Trump over Jan 6 | $0 | — | — |
-| 2021-2022 | Build Back Better / IRA negotiations — carried interest closure in early drafts | Threatened core tax advantage | Industry spends $26M+ lobbying | — |
+| 2021 | Schwarzman breaks with Trump over Jan 6 | $0 |, |, |
+| 2021-2022 | Build Back Better / IRA negotiations, carried interest closure in early drafts | Threatened core tax advantage | Industry spends $26M+ lobbying |, |
 | 2022 | Private equity donors give $500K+ to Sinema | $500K+ | Sinema demands carried interest closure stripped from IRA as condition of her vote | Direct |
 | 2022 | Blackstone lobbying expenditure peaks | $14M annual spend | Loophole preserved in final IRA | Direct |
-| 2024 | Schwarzman reconciles with Trump; sits at state dinner | Relationship | Full political reconciliation ahead of 2024 election | — |
-| 2025 | Schwarzman gives $5M to MAGA Inc. | $5M | Carried interest loophole survives again — 2025 tax bill passes without closing it | 6 months |
+| 2024 | Schwarzman reconciles with Trump; sits at state dinner | Relationship | Full political reconciliation ahead of 2024 election |, |
+| 2025 | Schwarzman gives $5M to MAGA Inc. | $5M | Carried interest loophole survives again, 2025 tax bill passes without closing it | 6 months |
 | 2025 | Blackstone spends $48.6M on 2024 cycle | $48.6M | Private equity regulation remains minimal; SEC enforcement reduced | Ongoing |
 
 > [!money]
@@ -178,14 +178,14 @@ The return on Blackstone's political investment is best measured in a single num
 > [!money]
 > Blackstone spent $14 million lobbying in 2022 — the year the carried interest loophole was most threatened. The industry spent $26 million total. When Kyrsten Sinema — who received $500,000+ from private equity donors — demanded the provision be stripped from the Inflation Reduction Act as her price for voting yes, the loophole survived. For every dollar the PE industry spent lobbying, it preserved approximately $692 in tax benefits.
 
-### Opportunity Zones — Tax Shelter Disguised as Community Development
+### Opportunity Zones. Tax Shelter Disguised as Community Development
 
 | Date | Event | Amount/Impact | Source |
 |------|-------|---------------|--------|
 | 2017 | TCJA creates Opportunity Zone program | Billions in tax deferrals | IRS |
 | 2018-2024 | Blackstone and PE firms capture OZ investments | Luxury developments in gentrifying areas | ProPublica |
 
-The TCJA's Opportunity Zone provision was marketed as community investment in low-income areas. Blackstone and other PE firms directed capital toward luxury developments in neighborhoods that technically qualified but served wealthy buyers — gentrification subsidized by the tax code.
+The TCJA's Opportunity Zone provision was marketed as community investment in low-income areas. Blackstone and other PE firms directed capital toward luxury developments in neighborhoods that technically qualified but served wealthy buyers, gentrification subsidized by the tax code.
 
 ### Housing: America's Largest Private Landlord
 
@@ -200,9 +200,9 @@ The TCJA's Opportunity Zone provision was marketed as community investment in lo
 > [!contradiction]
 > Blackstone bought tens of thousands of single-family homes at fire-sale prices during the foreclosure crisis that Wall Street created, converted them to rentals, raised rents 30-40% during the pandemic housing crisis, and then lobbied against every policy proposal — rent control, tenant protections, corporate homebuying limits — that would constrain its ability to extract value from the housing shortage it helped create. The UN Special Rapporteur on housing called Blackstone's practices "devastating" for tenant communities. The FTC extracted a $48 million settlement. Blackstone's real estate portfolio generates billions annually. The $48 million was a licensing fee.
 
-### Tax Engineering — The Negative Tax Rate
+### Tax Engineering. The Negative Tax Rate
 
-Blackstone's corporate structure — organized as a partnership until 2019, then converting to a corporation to access index fund capital — has been engineered to minimize tax liability at every level.
+Blackstone's corporate structure, organized as a partnership until 2019, then converting to a corporation to access index fund capital, has been engineered to minimize tax liability at every level.
 
 | Year | Effective Tax Rate | Context | Source |
 |------|-------------------|---------|--------|
@@ -221,7 +221,7 @@ Blackstone raises tens of billions from foreign sovereign wealth funds, creating
 | Abu Dhabi (Mubadala) | Multi-billion | Major infrastructure investor | Bloomberg |
 | Singapore (GIC) | Multi-billion | Long-term real estate partner | Bloomberg |
 
-The sovereign wealth fund relationships give Blackstone a financial interest in US foreign policy toward the Gulf states — and give Gulf states indirect influence over American real estate, infrastructure, and corporate assets through Blackstone's investment decisions.
+The sovereign wealth fund relationships give Blackstone a financial interest in US foreign policy toward the Gulf states, and give Gulf states indirect influence over American real estate, infrastructure, and corporate assets through Blackstone's investment decisions.
 
 ---
 
@@ -238,17 +238,17 @@ Blackstone operates one of the most extensive revolving doors in American financ
 - Multiple former Treasury, Fed, and SEC officials join Blackstone's advisory and government affairs divisions
 - Blackstone alumni populate financial regulatory agencies, creating institutional familiarity with the firm's positions on PE regulation, carried interest, and real estate tax policy
 
-The revolving door isn't just about individual hires — it's about normalizing Blackstone's worldview within the regulatory apparatus. When former Blackstone employees write the rules governing private equity, the rules tend to protect private equity. Blackstone doesn't just lobby the government — it hires the government.
+The revolving door isn't just about individual hires, it's about normalizing Blackstone's worldview within the regulatory apparatus. When former Blackstone employees write the rules governing private equity, the rules tend to protect private equity. Blackstone doesn't just lobby the government, it hires the government.
 
 ---
 
 ### Class Analysis
 
-Blackstone is the vault's purest case study of how financial capital converts political spending into regulatory capture. The firm manages $1 trillion in assets across every sector that touches government policy — real estate, healthcare, infrastructure, energy, defense — and its political operation exists to ensure that the regulatory framework governing those assets remains favorable.
+Blackstone is the vault's purest case study of how financial capital converts political spending into regulatory capture. The firm manages $1 trillion in assets across every sector that touches government policy, real estate, healthcare, infrastructure, energy, defense, and its political operation exists to ensure that the regulatory framework governing those assets remains favorable.
 
-**Carried interest as class warfare.** The carried interest loophole benefits fewer than 5,000 Americans at a cost to the public of $18 billion per decade. It has survived four presidential campaigns where candidates of both parties promised to close it. The loophole's survival is not a policy failure — it is the system working as designed. When Blackstone can spend $14 million to preserve a provision worth $100+ million annually to one man, the ROI makes continued lobbying inevitable.
+**Carried interest as class warfare.** The carried interest loophole benefits fewer than 5,000 Americans at a cost to the public of $18 billion per decade. It has survived four presidential campaigns where candidates of both parties promised to close it. The loophole's survival is not a policy failure, it is the system working as designed. When Blackstone can spend $14 million to preserve a provision worth $100+ million annually to one man, the ROI makes continued lobbying inevitable.
 
-**Housing extraction as structural capture.** Blackstone didn't just invest in housing — it captured a basic human need and financialized it. By buying foreclosed homes during a crisis Wall Street created, converting them to rentals, raising rents during a pandemic, and lobbying against tenant protections, Blackstone demonstrates how private equity transforms public crises into private profit. The UN criticism, the FTC settlement, and the tenant organizing are friction costs — not threats to the model.
+**Housing extraction as structural capture.** Blackstone didn't just invest in housing, it captured a basic human need and financialized it. By buying foreclosed homes during a crisis Wall Street created, converting them to rentals, raising rents during a pandemic, and lobbying against tenant protections, Blackstone demonstrates how private equity transforms public crises into private profit. The UN criticism, the FTC settlement, and the tenant organizing are friction costs, not threats to the model.
 
 **The Both-Sides Illusion.** Schwarzman's personal giving is 90% Republican. Blackstone PAC is 55/45 bipartisan. The dual strategy ensures that carried interest is protected regardless of which party controls Congress. When Democrats control the Senate, Blackstone PAC contributions to Finance Committee Democrats ensure the loophole stays off the agenda. When Republicans control it, Schwarzman's personal relationships ensure it.
 
@@ -273,11 +273,11 @@ Blackstone is the vault's purest case study of how financial capital converts po
 - [CBO: Carried interest revenue estimates](https://www.cbo.gov/publication/options-reducing-deficit) (Tier 1)
 - [FTC: Invitation Homes settlement](https://www.ftc.gov/news-events/news/press-releases/2023/invitation-homes-settlement) (Tier 1)
 - [IRS: Opportunity Zone regulations](https://www.irs.gov/credits-deductions/businesses/opportunity-zones) (Tier 1)
-- [UN OHCHR: Special Rapporteur on Housing — Blackstone criticism](https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone) (Tier 1)
+- [UN OHCHR: Special Rapporteur on Housing. Blackstone criticism](https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone) (Tier 1)
 
 ### Investigative Journalism (Chrome-verified where noted):
 - [ProPublica: Despite Trump campaign promise, billionaires' tax loophole survives again](https://www.propublica.org/article/despite-trump-campaign-promise-billionaires-tax-loophole-survives-again) (Tier 2) (Chrome-verified)
-- [The New Republic: How the Trump oligarchy works — Stephen Schwarzman](https://newrepublic.com/article/201833/trump-oligarchy-stephen-schwarzman-economy) (Tier 2) (Chrome-verified)
+- [The New Republic: How the Trump oligarchy works. Stephen Schwarzman](https://newrepublic.com/article/201833/trump-oligarchy-stephen-schwarzman-economy) (Tier 2) (Chrome-verified)
 - [IBTimes: Tax bill adds new deduction for Blackstone CEO Schwarzman](https://www.ibtimes.com/political-capital/tax-bill-adds-new-deduction-blackstone-ceo-gop-donor-schwarzman-2622738) (Tier 2) (Chrome-verified)
 - [ProPublica: Billionaires Keep Benefiting From a Tax Break to Help the Poor. Now, Congress Wants to Investigate.](https://www.propublica.org/article/billionaires-keep-benefiting-from-a-tax-break-to-help-the-poor-now-congress-wants-to-investigate) (Tier 2)
 - [Capital & Main: Invitation Homes rent increases in San Diego](https://capitalandmain.com/affordable-housing-tenants-protest-rent-increases-0920) (Tier 2)

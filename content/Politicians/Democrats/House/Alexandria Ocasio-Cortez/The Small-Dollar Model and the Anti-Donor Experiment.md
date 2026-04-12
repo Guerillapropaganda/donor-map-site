@@ -43,7 +43,7 @@ The implications:
 
 1. **Policy freedom:** She can support Medicare for All (directly threatening insurance and pharmaceutical industry profits), wealth tax (directly threatening the asset holders who fund most campaigns), Green New Deal (directly threatening fossil fuel interests), and student debt cancellation (threatening the financial services industry) without triggering funding consequences.
 
-2. **Primary insulation:** When [[AIPAC - American Israel Public Affairs Committee|AIPAC]] spent against progressive members in 2022, it successfully defeated some. AOC — with her small-dollar machine generating millions — was not a viable target for a funding-based primary challenge. The donor class has to fund entire alternative candidates, not just withdraw support.
+2. **Primary insulation:** When [[AIPAC - American Israel Public Affairs Committee|AIPAC]] spent against progressive members in 2022, it successfully defeated some. AOC, with her small-dollar machine generating millions, was not a viable target for a funding-based primary challenge. The donor class has to fund entire alternative candidates, not just withdraw support.
 
 3. **Demonstration effect:** This is the threat that matters beyond AOC herself. If her model is replicable, it proves that the donor class's control of American politics is contingent, not structural. Every cycle she maintains it, it becomes a template others can follow.
 
@@ -58,7 +58,7 @@ AOC's small-dollar operation runs primarily through [[ActBlue|ActBlue]], the Dem
 
 The model borrows directly from [[_Bernie Sanders Master Profile|Bernie Sanders]]' 2016 and 2020 presidential campaigns: low average donation ($20) makes mass volume possible; recurring small donors generate predictable revenue; non-transactional relationship means donors give from identification, not policy access; national donor base makes her less dependent on any geographic community.
 
-**The ProPublica investigation angle:** ProPublica reported on how some progressive fundraisers (Hawley, Greene) juice their fundraising numbers through expensive email vendor relationships that take as much as 80 cents on the dollar. AOC's operation has not been subject to the same criticism — her high average individual contribution count and low average amount suggest genuine grassroots volume rather than expensive list acquisition.
+**The ProPublica investigation angle:** ProPublica reported on how some progressive fundraisers (Hawley, Greene) juice their fundraising numbers through expensive email vendor relationships that take as much as 80 cents on the dollar. AOC's operation has not been subject to the same criticism, her high average individual contribution count and low average amount suggest genuine grassroots volume rather than expensive list acquisition.
 
 ### The Professional-Class Donor Problem
 

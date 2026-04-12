@@ -41,14 +41,14 @@ The delay between claiming the award and receiving it spans nearly two decades. 
 | "From West Baltimore" | Born in Washington, DC |
 | Raised in Baltimore | Raised primarily in the Bronx, New York |
 | Baltimore roots | Moved to Baltimore for Johns Hopkins University |
-| Book cover | "Two kids named [[_Wes Moore Master Profile|Wes Moore]] were born blocks apart within a year of each other" — factually incorrect |
+| Book cover | "Two kids named [[_Wes Moore Master Profile|Wes Moore]] were born blocks apart within a year of each other", factually incorrect |
 | Moore's response | "I'm a Baltimorean by choice" |
 
 ---
 
 ### Additional Narrative Questions
 
-- **KKK family story:** Claimed grandfather James Thomas fled South Carolina due to KKK threats. Archival records (Protestant Episcopal Church, local newspapers) show an orderly, public professional transfer — not a secret nighttime escape.
+- **KKK family story:** Claimed grandfather James Thomas fled South Carolina due to KKK threats. Archival records (Protestant Episcopal Church, local newspapers) show an orderly, public professional transfer, not a secret nighttime escape.
 - **Oxford thesis:** Washington Free Beacon reported Moore did not submit his thesis to Oxford's Bodleian Library. Oxford had no record. Thesis title differed from degree confirmation and White House fellowship application.
 
 ---

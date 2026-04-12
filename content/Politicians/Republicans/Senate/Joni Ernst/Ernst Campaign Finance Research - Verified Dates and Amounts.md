@@ -15,14 +15,14 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 ---
 
-### Ernst Campaign Finance — Verified Timeline and Amounts
+### Ernst Campaign Finance. Verified Timeline and Amounts
 ---
 
-### [[Koch Network - Charles Koch|Koch Network]] Spending Timeline — 2014 Senate Race
+### [[Koch Network - Charles Koch|Koch Network]] Spending Timeline, 2014 Senate Race
 
 **Race Timeline:** June 3, 2014 (GOP primary) → November 4, 2014 (general election)
 
-### Ernst's Public Acknowledgment — June 16, 2014
+### Ernst's Public Acknowledgment. June 16, 2014
 - **Date:** June 16, 2014
 - **Event:** Koch brothers retreat, St. Regis Monarch Beach Resort, Dana Point, California
 - **Direct Quote:** Ernst stated she was "a little-known state senator from a very rural part of Iowa" but "the exposure to this group and to this network and the opportunity to meet so many of you, that really started my trajectory." She also said: "We are going to paint some very clear differences in this general election," and "this is the thing that we are going to take back -- that it started right here with all of your folks, this wonderful network."
@@ -44,7 +44,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Date:** 2014 election cycle
 - **Sources:** [The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/) (Tier 2)
 
-### Koch Network Super PAC Spending — 2014 Race
+### Koch Network Super PAC Spending, 2014 Race
 
 ### Freedom Partners Action Fund
 - **Amount:** $3.2 million+ (spent "for" Ernst in Iowa)
@@ -85,7 +85,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Note:** Koch-aligned business advocacy group
 - **Sources:** Web search data aggregation
 
-### Total Koch Network Spending — 2014 Race
+### Total Koch Network Spending, 2014 Race
 
 **Documented Total Direct Outside Spending in Ernst's Favor:** $12 million+ from Koch-aligned groups
 - **Context:** This exceeded Ernst's direct campaign committee fundraising
@@ -93,7 +93,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Dark Money Share:** Ernst received $17,552,085 in "dark money" funding = 74% of non-party outside spending supporting her
 - **Sources:** Multiple web searches compiling FEC and campaign finance reporting data
 
-### Ernst's Direct Campaign Committee Fundraising — 2014
+### Ernst's Direct Campaign Committee Fundraising, 2014
 
 **Total Raised:** ~$12 million (direct campaign committee funds, Ernst for Iowa)
 - **Note:** This was substantially less than the Koch Network outside spending supporting her
@@ -103,7 +103,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 ---
 
-### Ethanol and Renewable Fuel Standard (RFS) — Legislative Record
+### Ethanol and Renewable Fuel Standard (RFS). Legislative Record
 
 **Biofuels Caucus Co-Chair:** Ernst holds this position (dates not specified in available sources)
 
@@ -119,7 +119,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Context:** Ernst had previously objected to other EPA nominees over RFS concerns
 - **Sources:** Web search data
 
-### June 2018 RFS Criticism — Pruitt Accusation
+### June 2018 RFS Criticism. Pruitt Accusation
 - **Date:** June 2018
 - **Quote:** Ernst told CBS News that Pruitt "did lie" on ethanol pledge. She said: "He put his name to this letter and then did exactly the opposite."
 - **Specific Claim:** Pruitt "moved entirely away" from a commitment to not attach renewable identification numbers to ethanol exports
@@ -135,7 +135,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 ### Farm Bill Votes
 
-### 2018 Farm Bill — Conference Committee and Support
+### 2018 Farm Bill. Conference Committee and Support
 - **Conference Committee Appointment:** Ernst was appointed to 2018 Farm Bill Conference Committee as Chairman of the Senate Agriculture, Nutrition and Forestry Subcommittee on Rural Development and Energy
 - **Committee Role:** One of nine senators on Conference Committee
 - **Final Vote Date:** December 11, 2018
@@ -154,7 +154,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 ### CAFO (Concentrated Animal Feeding Operation) Regulation Opposition
 
-### EATS Act (Ending Agricultural Trade Suppression Act) — Recent Push
+### EATS Act (Ending Agricultural Trade Suppression Act). Recent Push
 - **Date:** 2025 (recent introduction)
 - **Ernst's Role:** Co-sponsor/supporter of Food Security and Farm Protection Act (updated EATS/King Amendment)
 - **Bill Purpose:** Prohibit states and local governments from interfering with agricultural production from other states; would prevent California Prop 12 enforcement
@@ -173,7 +173,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 ### Agribusiness PAC Donations
 
-### Agriculture PACs — Top Contributors (2020 Cycle)
+### Agriculture PACs. Top Contributors (2020 Cycle)
 
 **Total Agriculture PAC Donations:** $130,000 (2020 cycle)
 - **Ranking:** Agriculture was one of the two top PAC donor industries to Ernst
@@ -190,20 +190,20 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 
 ### 2020 Senate Reelection Campaign Finance
 
-### Ernst Fundraising — 2020 Cycle
+### Ernst Fundraising, 2020 Cycle
 - **Q1 2020:** Raised $1.7 million; $2.8 million cash on hand
 - **Q2 2020 (by end of quarter):** $3.4 million cash on hand
 - **Q3 2020:** Raised $7.2 million
 - **Total 2020 Cycle:** $20.8 million raised
 - **Total Spent:** $19.6 million
 
-### Opponent (Theresa Greenfield) Fundraising — 2020 Cycle
+### Opponent (Theresa Greenfield) Fundraising, 2020 Cycle
 - **Total Raised:** $47.5 million
 - **Q3 2020:** $28.7 million (Ernst raised only $7.2M that quarter)
 - **Total Spent:** $43.2 million
 - **Fundraising Advantage:** Greenfield outraised Ernst roughly 2.3:1 overall
 
-### Election Result — November 3, 2020
+### Election Result. November 3, 2020
 - **Ernst Vote Share:** 51.8% (won second term)
 - **Greenfield Vote Share:** Approximately 45%
 - **Margin:** 6.6 percentage points
@@ -219,7 +219,7 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 - **Subcommittee Role:** Chair, Emerging Threats and Capabilities Subcommittee
 - **Significance:** Gives Ernst substantial influence over defense spending and military contracting
 
-### Defense Industry Donations — Pattern Not Individual Amounts
+### Defense Industry Donations. Pattern Not Individual Amounts
 General Pattern for Large Defense Contractors (2021-2022):
 - [[Boeing|Boeing]], [[Lockheed Martin|Lockheed Martin]], Raytheon paused political donations after January 6, 2021
 - Resumed donations in 2021; donations to GOP members (including those voting against 2020 certification) exceeded $500,000 combined in 2021 cycle onward
@@ -236,8 +236,8 @@ General Pattern for Large Defense Contractors (2021-2022):
 
 The following data points requested were NOT located in accessible search results and would require direct FEC or OpenSecrets database access:
 
-1. **Specific itemized PAC donations from named companies:** Tyson Foods, Cargill, John Deere, Bayer/Monsanto — amounts and dates
-2. **Individual defense contractor PAC donations to Ernst:** Raytheon, Lockheed Martin, Boeing — specific amounts and dates
+1. **Specific itemized PAC donations from named companies:** Tyson Foods, Cargill, John Deere, Bayer/Monsanto, amounts and dates
+2. **Individual defense contractor PAC donations to Ernst:** Raytheon, Lockheed Martin, Boeing, specific amounts and dates
 3. **Specific dated votes on CAFO regulation bills:** Congress.gov roll calls require direct legislative database query
 4. **RFS/ethanol voting record with specific bill numbers and dates:** ProPublica Congress API or Congress.gov required
 

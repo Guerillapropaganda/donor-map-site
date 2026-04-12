@@ -24,7 +24,7 @@ donors: Payday Lending PACs [[Financial Services Donors]]
 
 ### The Pipeline
 
-Payday lending is a $80 billion/year industry built on predatory debt traps. The median payday loan is $375 at 391% annual interest rate. 75% of borrowers cannot repay in two weeks. 45% of borrowers take out 10+ loans per year, creating a debt cycle. The industry's survival depends on regulatory capture — preventing the Consumer Financial Protection Bureau (CFPB) from enforcing interest rate caps or disclosure rules.
+Payday lending is a $80 billion/year industry built on predatory debt traps. The median payday loan is $375 at 391% annual interest rate. 75% of borrowers cannot repay in two weeks. 45% of borrowers take out 10+ loans per year, creating a debt cycle. The industry's survival depends on regulatory capture, preventing the Consumer Financial Protection Bureau (CFPB) from enforcing interest rate caps or disclosure rules.
 
 This is regulatory capture at its clearest: donations → deregulation → billions in predatory revenue.
 
@@ -38,9 +38,9 @@ This is regulatory capture at its clearest: donations → deregulation → billi
 - **By party:** 22 Republicans ($1.48M), 14 Democrats ($0.90M)
 
 ### Key recipients (individual members):
-- Rep. [[_Frank Lucas Master Profile|Frank Lucas]] (R-OK): $287,000 (lifetime) — chairs Financial Services Committee (2024-2026)
-- Rep. [[_Patrick McHenry Master Profile|Patrick McHenry]] (R-NC): $223,000 (lifetime) — former Committee chair
-- Rep. Andy Barr (R-KY): $178,000 (lifetime) — Banking Subcommittee chair
+- Rep. [[_Frank Lucas Master Profile|Frank Lucas]] (R-OK): $287,000 (lifetime), chairs Financial Services Committee (2024-2026)
+- Rep. [[_Patrick McHenry Master Profile|Patrick McHenry]] (R-NC): $223,000 (lifetime), former Committee chair
+- Rep. Andy Barr (R-KY): $178,000 (lifetime). Banking Subcommittee chair
 - Rep. Al Green (D-TX): $156,000 (lifetime)
 - Rep. Bill Posey (R-FL): $134,000 (lifetime)
 
@@ -63,7 +63,7 @@ In March 2025, the Trump administration ordered the CFPB to cease prioritizing p
 
 **The announcement:** CFPB issued a statement saying it would "focus resources on other priorities" and that payday lending "represents a discrete market segment requiring specialized expertise that may be better left to states."
 
-This is transparent regulatory rollback. The CFPB created the enforcement capacity because states had failed to regulate payday lending for 20 years. Now the federal government is claiming states will handle it — knowing full well they won't.
+This is transparent regulatory rollback. The CFPB created the enforcement capacity because states had failed to regulate payday lending for 20 years. Now the federal government is claiming states will handle it, knowing full well they won't.
 
 [Tier 1 - CFPB Statement](https://www.consumerfinance.gov/complaint/?q=Payday%20Lending%20Regulatory%20Capture) [Tier 2 - ProPublica Coverage](https://propublica.org/cfpb-payday-lending) *(source unavailable)*
 
@@ -79,7 +79,7 @@ This is transparent regulatory rollback. The CFPB created the enforcement capaci
 | 2024 | Trump re-elected; enforcement rolling back begins | Spike | $680K | Leading (pre-rollback) |
 | Mar 2025 | CFPB enforcement gutted | Drop | $0 | Lag (victory achieved) |
 
-**Pattern:** Payday lending donations spike when CFPB enforcement threatens, then drop when enforcement ends. This is not coincidence — it's direct political spending on regulatory outcomes.
+**Pattern:** Payday lending donations spike when CFPB enforcement threatens, then drop when enforcement ends. This is not coincidence, it's direct political spending on regulatory outcomes.
 
 ### The Contradiction: Committee Members Opposing Interest Rate Caps
 

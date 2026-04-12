@@ -15,7 +15,7 @@ donors: [[Kelcy Warren - Energy Transfer Partners]] · [[Kelcy Warren - Energy T
 
 ### The Crisis
 
-February 2021. Winter Storm Uri struck Texas. The state's deregulated electrical grid — ERCOT (Electric Reliability Council of Texas) — collapsed under the stress. The grid operator had warned about cold-weather vulnerability for over a decade. Abbott's appointed regulators ignored the warnings. Winterization of natural gas infrastructure was not mandated. The result: 4.5 million homes lost power. Hospitals ran on generators. Patients on dialysis machines and oxygen concentrators died in dark homes.
+February 2021. Winter Storm Uri struck Texas. The state's deregulated electrical grid. ERCOT (Electric Reliability Council of Texas), collapsed under the stress. The grid operator had warned about cold-weather vulnerability for over a decade. Abbott's appointed regulators ignored the warnings. Winterization of natural gas infrastructure was not mandated. The result: 4.5 million homes lost power. Hospitals ran on generators. Patients on dialysis machines and oxygen concentrators died in dark homes.
 
 Death toll: 246+ officially confirmed; estimates exceed 700 when accounting for indirect deaths (delayed medical treatment, carbon monoxide poisoning, hypothermia in unheated homes). The vast majority of deaths occurred in low-income households without backup generators or resources to relocate.
 
@@ -23,7 +23,7 @@ Death toll: 246+ officially confirmed; estimates exceed 700 when accounting for 
 
 ### The Deregulation History
 
-Beginning in 1996, Texas deregulated its electricity market — one of the few states to do so at this scale. The deregulation model was designed to foster competition in wholesale electricity pricing. The implementation meant:
+Beginning in 1996, Texas deregulated its electricity market, one of the few states to do so at this scale. The deregulation model was designed to foster competition in wholesale electricity pricing. The implementation meant:
 
 - ERCOT operators had no authority to mandate winterization of natural gas infrastructure
 - Power plants had no requirement to maintain contingency capacity for extreme weather
@@ -32,19 +32,19 @@ Beginning in 1996, Texas deregulated its electricity market — one of the few s
 
 Abbott's time as Attorney General (2002–2015) and early governorship (2015 onward) coincided with continued fossil fuel industry lobbying against grid resilience measures. The industry's position: mandated winterization and redundancy would increase costs and reduce profit margins. Abbott's position aligned perfectly with industry preferences.
 
-This is not conspiracy — it is documented through campaign contributions and policy outcomes. The donor list and the deregulation timeline are congruent.
+This is not conspiracy, it is documented through campaign contributions and policy outcomes. The donor list and the deregulation timeline are congruent.
 
 ---
 
 ### The Cascade of Failure
 
 ### Natural Gas Infrastructure Froze
-Winter Storm Uri dropped temperatures across Texas. Natural gas processing facilities — critical to electricity generation — require water for cooling. Without winterization, the pipes froze. Valves failed. Supply chains broke. Of the natural gas that should have been available for power generation, much was unavailable.
+Winter Storm Uri dropped temperatures across Texas. Natural gas processing facilities, critical to electricity generation, require water for cooling. Without winterization, the pipes froze. Valves failed. Supply chains broke. Of the natural gas that should have been available for power generation, much was unavailable.
 
 Research shows five times more natural gas infrastructure failed during the 2021 crisis than wind turbines. Abbott's subsequent blame-renewables narrative contradicted engineering data.
 
 ### ERCOT Operators Ignored Warnings
-The grid operator had been warned since 2011 about cold-weather vulnerability. A 2018 audit flagged winterization gaps. Abbott's PUC nominees — Fred Wooten and Shelly Botkin — oversaw the regulatory apparatus that failed to mandate protective measures. The choice to not require winterization was a policy decision, not an accident of nature.
+The grid operator had been warned since 2011 about cold-weather vulnerability. A 2018 audit flagged winterization gaps. Abbott's PUC nominees. Fred Wooten and Shelly Botkin, oversaw the regulatory apparatus that failed to mandate protective measures. The choice to not require winterization was a policy decision, not an accident of nature.
 
 ### The Deaths Followed a Class Pattern
 Households with generators and financial means to relocate survived. Households without either did not. The data is stark: mortality concentrated in low-income zip codes, among elderly residents, among people with existing health conditions dependent on medical devices. The grid failure became a class sorting mechanism: those with money survived; those without did not.
@@ -62,7 +62,7 @@ Three months after the grid failure that killed 246+ Texans and generated billio
 > The timing is the argument. Warren's company profited from the crisis. Warren donated to the governor whose policies created the deregulated conditions that allowed the crisis. The donation was not causation — it was recognition of services rendered. Abbott's deregulation benefited Energy Transfer Partners. The donation was payoff.
 
 ### Other Oil/Gas Interests
-The broader oil and gas sector benefited from continued deregulation post-crisis. Abbott signed bills that protected energy sector interests, prevented mandatory winterization costs, and resisted renewable energy expansion. The policy direction post-crisis — which would have been the moment for grid reform — instead reaffirmed the deregulation model.
+The broader oil and gas sector benefited from continued deregulation post-crisis. Abbott signed bills that protected energy sector interests, prevented mandatory winterization costs, and resisted renewable energy expansion. The policy direction post-crisis, which would have been the moment for grid reform, instead reaffirmed the deregulation model.
 
 ### Fossil Fuel Campaign Contributions (2021 Q2-Q3)
 Abbott's campaign received approximately $7.8 million from oil and gas interests since 2021. The timing shows increased contributions post-crisis, suggesting donor satisfaction with post-failure governance decisions.

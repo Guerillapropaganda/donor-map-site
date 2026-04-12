@@ -13,7 +13,7 @@ donors: [[Pharmaceutical Industry]], [[Pfizer]], [[Moderna]], [[UnitedHealth Gro
 
 ---
 
-### The Pharmaceutical Deal and the IRA — Ten Drugs Out of Twelve Thousand
+### The Pharmaceutical Deal and the IRA. Ten Drugs Out of Twelve Thousand
 
 > [!money]
 > 2020 cycle: Pharmaceutical industry gave Biden $5.9 million — 99% of his lifetime pharma donations arrived in a single election year. August 2022: Biden signs Inflation Reduction Act with $35 insulin cap (genuine win: 3.3M Medicare beneficiaries). Structural limit: only 10 drugs eligible for negotiation out of 12,000+ available; 390+ drugs remain untouched. Pharma industry profits reduced ~30–40% on negotiated drugs, preserved entirely on others. The industry accepted the deal because the losses were calculated and contained.
@@ -30,9 +30,9 @@ Biden's relationship with the pharmaceutical industry shifted dramatically in 20
 | 2020 campaign cycle (1 year) | $5,900,000 | 99% of lifetime donations |
 | 2020 percentage of total pharma donations | 98.8% | Concentration unprecedented |
 
-This is not a gradual increase. This is pharmaceutical industry executives making a collective decision: Biden is the vehicle. They did not give Trump any money — Trump was hostile to drug price negotiation. They did not give Sanders money — Sanders promised Medicare for All, which would have eliminated private insurance and negotiated all drug prices internationally. They gave Biden the money.
+This is not a gradual increase. This is pharmaceutical industry executives making a collective decision: Biden is the vehicle. They did not give Trump any money. Trump was hostile to drug price negotiation. They did not give Sanders money. Sanders promised Medicare for All, which would have eliminated private insurance and negotiated all drug prices internationally. They gave Biden the money.
 
-Steve Richetti, Biden's longtime economic advisor (and pharmaceutical industry lobbyist before rejoining Biden's team), ensured pharma industry access. Richetti had been a leading healthcare lobbyist for Pfizer, Merck, and other major pharma firms. During Biden's 2020 campaign, Richetti shifted from lobbying to advising — but the door stayed open. Pharma executives knew that if Biden won, their interests would be heard at the economic policy table.
+Steve Richetti, Biden's longtime economic advisor (and pharmaceutical industry lobbyist before rejoining Biden's team), ensured pharma industry access. Richetti had been a leading healthcare lobbyist for Pfizer, Merck, and other major pharma firms. During Biden's 2020 campaign, Richetti shifted from lobbying to advising, but the door stayed open. Pharma executives knew that if Biden won, their interests would be heard at the economic policy table.
 
 > [!contradiction]
 > Biden's 2020 campaign promised drug price negotiation: "We will empower Medicare to negotiate drug prices." The industry heard: "We will negotiate some drug prices." The $5.9M donation was pharma's signal to Biden: "We accept negotiation if it is limited in scope and protects our core margin."
@@ -104,7 +104,7 @@ Senator [[_Bernie Sanders Master Profile|Bernie Sanders]] proposed a more aggres
 - Negotiation authority exists but is "negotiation" not price-setting
 - Pharma has incentive to participate (loss of revenue if they don't negotiate is less than negotiated price)
 - Estimated savings to patients: $30–50B over 10 years
-- Estimated savings to pharma: NOT achieved — profits protected on 390+ drugs
+- Estimated savings to pharma: NOT achieved, profits protected on 390+ drugs
 
 The political difference: Pharma would have given zero dollars to Sanders. They gave Biden $5.9M. The price of that donation is: limited drug negotiation.
 
@@ -118,7 +118,7 @@ Sinema's objection: "Medicare price negotiations are a government overreach."
 
 Biden's response: Accepted the constraint. The IRA's drug negotiation authority as written is significantly weaker than Biden's 2020 campaign promise suggested. The 10-drug limit reflects Sinema's demand.
 
-This is the structural choice point: Biden could have pushed back against Sinema, mobilized Democrats, pressured her through party channels. Instead, Biden accepted the pharmaceutical industry's preferred outcome — limited negotiation, packaged as a victory.
+This is the structural choice point: Biden could have pushed back against Sinema, mobilized Democrats, pressured her through party channels. Instead, Biden accepted the pharmaceutical industry's preferred outcome, limited negotiation, packaged as a victory.
 
 > [!quote]
 > Biden campaign 2020: "We will empower Medicare to negotiate drug prices." IRA 2022: "We have empowered Medicare to negotiate prices for 10 drugs, expandable to 60 by 2030." The framing shift is strategic — both can be called "empowering Medicare," but the substance differs by 99%.
@@ -127,11 +127,11 @@ This is the structural choice point: Biden could have pushed back against Sinema
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — The $35 insulin cap is real. It affects 3.3M people. But the cap applies only to insulin. All other drugs remain unaddressed. Drug price negotiation exists but applies to 0.8% of available drugs. The wins are genuine but calibrated to satisfy the political base while preserving pharmaceutical industry revenue on core products.
+**The Genuine Win + Structural Limit**. The $35 insulin cap is real. It affects 3.3M people. But the cap applies only to insulin. All other drugs remain unaddressed. Drug price negotiation exists but applies to 0.8% of available drugs. The wins are genuine but calibrated to satisfy the political base while preserving pharmaceutical industry revenue on core products.
 
-**The Two-Audience Problem** — Biden's 2020 campaign promised aggressive drug price negotiation. His 2022 IRA delivered limited negotiation. Progressives celebrate the insulin cap; pharma executives celebrate the 390+ drugs that remain untouched. Biden's framing (""we're empowering Medicare"") is true but obscures the scope constraint.
+**The Two-Audience Problem**. Biden's 2020 campaign promised aggressive drug price negotiation. His 2022 IRA delivered limited negotiation. Progressives celebrate the insulin cap; pharma executives celebrate the 390+ drugs that remain untouched. Biden's framing (""we're empowering Medicare"") is true but obscures the scope constraint.
 
-**The Pilot Program** — The 10-drug negotiation (expanding to 20, then 60 over time) is structured as a pilot program. This allows Biden to claim victory while maintaining the pharmaceutical industry's fundamental interests. If the pilot succeeds, it can expand. If pharma shows the sky isn't falling, Congress might expand negotiation authority. But the structure delays structural change by a decade.
+**The Pilot Program**. The 10-drug negotiation (expanding to 20, then 60 over time) is structured as a pilot program. This allows Biden to claim victory while maintaining the pharmaceutical industry's fundamental interests. If the pilot succeeds, it can expand. If pharma shows the sky isn't falling, Congress might expand negotiation authority. But the structure delays structural change by a decade.
 
 ---
 

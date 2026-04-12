@@ -52,7 +52,7 @@ JDCA has successfully maintained Democratic Party consensus on pro-Israel positi
 
 The Jewish Democratic Council of America exemplifies how identity-based advocacy organizations can function as ethnic lobbies pursuing interests that diverge from democratic deliberation. JDCA's claim to represent "Jewish Democrats" obscures the reality that the organization represents wealthy pro-Israel Jewish donors who use their financial power to constrain Democratic Party choices on Israel policy. The organization's bundling function allows it to enforce donor preferences on Democratic candidates regardless of those candidates' districts or constituencies. JDCA's opposition to Palestinian rights advocates like Jamaal Bowman reveals that the organization prioritizes Israeli government interests over Democratic Party internal diversity or Palestinian rights.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

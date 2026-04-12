@@ -61,7 +61,7 @@ API operates as a 501(c)(6) business league, a legal status that permits unlimit
 
 **Leadership:** President and CEO Mike Sommers (since July 2018) earned total compensation of $6,153,378 in 2024 ($5,131,620 salary + $1,021,758 other). Executive team includes Amanda Eversole (EVP & Chief Advocacy Officer, $1,680,961); Shannon Dibari (SVP & COO, $1,080,172); Anchal Liddar (SVP Global Industry Services, $929,808); John Wagner (VP Deputy General Counsel, $920,345).
 
-Headquartered in Washington, D.C., API employs 300+ staff across government affairs, communications, advocacy, and research operations.
+Headquartered in Washington, D.C. API employs 300+ staff across government affairs, communications, advocacy, and research operations.
 
 > [!money] Follow the Money
 > API is a $252M/year political operation funded by membership dues from the world's largest fossil fuel companies. The organization pools industry money to block climate regulation, fund Republican campaigns, and spread climate denial.
@@ -70,14 +70,14 @@ Headquartered in Washington, D.C., API employs 300+ staff across government affa
 
 API's policy agenda is explicitly defensive: preserve fossil fuel market share, block regulatory costs, and prevent systemic energy transition. Key priorities:
 
-- **Block carbon pricing legislation** — oppose any carbon tax or emissions trading system
-- **Eliminate methane regulations** — fight EPA methane rules at every stage (2014–2025)
-- **Prevent EV mandates** — oppose CAFE standards increases and zero-emission vehicle rules
-- **Protect fossil fuel subsidies** — preserve $35B+ in annual tax breaks for oil and gas
-- **Weaken climate disclosure** — reduce SEC and EPA requirements for climate risk transparency
-- **Defend offshore drilling** — oppose bans, expand lease auctions
-- **Obstruct renewable energy transition** — block green energy mandates, emphasize natural gas as "bridge fuel" (delay tactic)
-- **Control international climate negotiations** — oppose Paris Agreement enforcement, block UN climate progress
+- **Block carbon pricing legislation**, oppose any carbon tax or emissions trading system
+- **Eliminate methane regulations**, fight EPA methane rules at every stage (2014–2025)
+- **Prevent EV mandates**, oppose CAFE standards increases and zero-emission vehicle rules
+- **Protect fossil fuel subsidies**, preserve $35B+ in annual tax breaks for oil and gas
+- **Weaken climate disclosure**, reduce SEC and EPA requirements for climate risk transparency
+- **Defend offshore drilling**, oppose bans, expand lease auctions
+- **Obstruct renewable energy transition**, block green energy mandates, emphasize natural gas as "bridge fuel" (delay tactic)
+- **Control international climate negotiations**, oppose Paris Agreement enforcement, block UN climate progress
 
 ### Federal Lobbying Machine
 
@@ -110,7 +110,7 @@ API's cumulative federal lobbying spending from 1998–2024 totals approximately
 - Peak spending ($9.1–9.3M per year) occurred during Clean Power Plan battles (2013–2015) and Waxman-Markey cap-and-trade fight (2009–2010)
 - 2009 Waxman-Markey year identified as second-highest annual spending by entire fossil fuel industry per Union of Concerned Scientists
 - Average federal lobbying spend 2013–2015: $9.2M/year
-- **Critical undercounting:** Federal lobbying figures significantly understate API's total political influence spending. A 2016 [[InfluenceMap - American Petroleum Institute|InfluenceMap]] analysis estimated API alone spends approximately **$65 million per year** on "obstructive climate policy lobbying" when including advertising, PR, and trade association coordination — creating a **10:1 public-to-hidden spending ratio**
+- **Critical undercounting:** Federal lobbying figures significantly understate API's total political influence spending. A 2016 [[InfluenceMap - American Petroleum Institute|InfluenceMap]] analysis estimated API alone spends approximately **$65 million per year** on "obstructive climate policy lobbying" when including advertising, PR, and trade association coordination, creating a **10:1 public-to-hidden spending ratio**
 
 Sources: [OpenSecrets federal lobbying disclosure (D000031493)](https://lda.gov/filings/public/filing/search/) (Tier 1) (UNVERIFIED) | [InfluenceMap investor report (2016)](https://senate.ucsd.edu/media/206150/lobby_spend_report__april.pdf) (Tier 2)
 
@@ -148,9 +148,9 @@ Sources: [OpenSecrets API Totals (D000031493)](https://www.opensecrets.org/orgs/
 #### Dark Money Operations
 
 ### Better Jobs Together Campaign (2021–2022 Dark Money Operation):
-API's 2021 Form 990 tax filing revealed API paid **$3,500,000** to "Better Jobs Together Campaign," an opaque Virginia corporation formed April 2021. Better Jobs Together then ran more than $2,500,000 in TV ads supporting conservative Democratic members of Congress—**Representatives Henry Cuellar (TX) and Kurt Schrader (OR)**—who were actively blocking Biden's climate and infrastructure agenda. This was a classic dark money operation: API funneled money through an anonymous shell corporation to secretly fund Democratic politicians opposing their party's climate platform.
+API's 2021 Form 990 tax filing revealed API paid **$3,500,000** to "Better Jobs Together Campaign," an opaque Virginia corporation formed April 2021. Better Jobs Together then ran more than $2,500,000 in TV ads supporting conservative Democratic members of Congress, **Representatives Henry Cuellar (TX) and Kurt Schrader (OR)**, who were actively blocking Biden's climate and infrastructure agenda. This was a classic dark money operation: API funneled money through an anonymous shell corporation to secretly fund Democratic politicians opposing their party's climate platform.
 
-Source: [Sludge: Revealed — Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
+Source: [Sludge: Revealed. Oil Industry Lobbying Group Funded Dark Money Ad Campaign](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
 
 ### Additional Dark Money Recipients Funded by API:
 API has funneled donations to dozens of 501(c)(4) and ideological organizations through its Schedule I charitable contributions:
@@ -173,7 +173,7 @@ API has funneled donations to dozens of 501(c)(4) and ideological organizations 
 
 #### Revenue Structure ($252.3 Million in 2024)
 
-API's revenue derives almost entirely from membership dues ($217.9 million, 86.4% of total). Dues are calculated based on members' U.S. oil and gas production volumes—larger producers pay proportionally more.
+API's revenue derives almost entirely from membership dues ($217.9 million, 86.4% of total). Dues are calculated based on members' U.S. oil and gas production volumes, larger producers pay proportionally more.
 
 #### Top Member Company Dues
 
@@ -204,7 +204,7 @@ Sources: [ExxonMobil Advocacy Report: Trade Associations disclosure](https://cor
 
 #### The 10:1 Spending Ratio
 
-Between 2008 and 2019, API spent **over $750 million** on public relations, advertising, and communications contractors—versus approximately **$75 million in federal lobbying** over the same period (approximately **10:1 ratio**). This dwarfs renewable energy advocacy:
+Between 2008 and 2019, API spent **over $750 million** on public relations, advertising, and communications contractors, versus approximately **$75 million in federal lobbying** over the same period (approximately **10:1 ratio**). This dwarfs renewable energy advocacy:
 
 - API (2008–2017): **$663.2 million** in PR, advertising, and communications
 - Four major renewable energy trade associations combined (American Wind Energy Association, Growth Energy, National Biodiesel Board, Solar Energy Industries Association, 2008–2017): **$98.4 million**
@@ -249,7 +249,7 @@ Sources: [Climate Investigations Center: Trade Association PR Spending](https://
 ### Energy Citizens (2009–ongoing, $63M+ in peak years):
 - Launched August 2009 via leaked memo from API President Jack Gerard instructing member companies to recruit employees, retirees, vendors, contractors to attend rallies opposing Waxman-Markey cap-and-trade climate legislation
 - API promised to "bus in company members and provide logistical support"; retained events management firm to organize logistics
-- First Energy Citizens rally (Houston, August 18, 2009): ~2,500 attendees—all oil industry employees required to show company ID; average citizens barred
+- First Energy Citizens rally (Houston, August 18, 2009): ~2,500 attendees, all oil industry employees required to show company ID; average citizens barred
 - Partners included U.S. Chamber of Commerce, National Association of Manufacturers, [[FreedomWorks]], American Conservative Union, National Taxpayers Union, Americans for Tax Reform
 - As of 2024, Energy Citizens campaign still active, running ads about oil and gas workers
 
@@ -299,7 +299,7 @@ API filed three separate lawsuits challenging EPA and NHTSA vehicle rules:
 2. EPA heavy-duty vehicle standards
 3. NHTSA CAFE standard for model years 2027–2032 (filed June 26, 2024, Fifth Circuit)
 
-In February 2023 EPA comments, API argued emissions standards would "negatively impact U.S. energy security" by increasing dependence on critical minerals for electric vehicles—identical argument API made in 1975 against Clean Air Act.
+In February 2023 EPA comments, API argued emissions standards would "negatively impact U.S. energy security" by increasing dependence on critical minerals for electric vehicles, identical argument API made in 1975 against Clean Air Act.
 
 API also:
 - Wrote directly to President Biden opposing zero-emission vehicle mandate (2023)
@@ -323,7 +323,7 @@ Source: [OpenSecrets News: API Recycled Same Arguments](https://www.opensecrets.
 - Contributed $250,000 to [[Americans for Prosperity|AFP]]
 - **Total industry lobbying campaign exceeded $700 million in 2009–2010**
 
-**2021 Carbon Pricing "Support" (PR Maneuver):** In March 2021, API announced nominal support for "economy-wide carbon pricing." Analysis from environmental groups and [[InfluenceMap]] concluded this was primarily PR—API simultaneously opposed electric vehicle mandates, methane fees, and renewable energy regulations. France's Total departed API in January 2021 citing climate policy differences; Senator Sheldon Whitehouse stated API's principles "suggest it will only support a price on carbon that is held artificially low." API never endorsed specific carbon pricing legislation.
+**2021 Carbon Pricing "Support" (PR Maneuver):** In March 2021, API announced nominal support for "economy-wide carbon pricing." Analysis from environmental groups and [[InfluenceMap]] concluded this was primarily PR, API simultaneously opposed electric vehicle mandates, methane fees, and renewable energy regulations. France's Total departed API in January 2021 citing climate policy differences; Senator Sheldon Whitehouse stated API's principles "suggest it will only support a price on carbon that is held artificially low." API never endorsed specific carbon pricing legislation.
 
 Source: [Grist: Oil's Biggest Lobbying Group Killed Carbon Pricing](https://grist.org/energy/oils-biggest-lobbying-group-killed-carbon-pricing-now-it-supports-them/) (Tier 2)
 
@@ -337,7 +337,7 @@ Despite opposing full bill, API successfully lobbied to embed fossil fuel conces
 - "Technology-neutral tax credits" language created substantial tax benefits for carbon capture and other fossil fuel technologies
 - Member company [[ConocoPhillips]] and allies lobbied successfully for Willow Project approval (massive Alaska oil extraction)
 
-After passage, API continued working to roll back IRA provisions—targeting Waste Emissions Charge, Methane Emissions Reduction Program, Greenhouse Gas Reduction Fund. By early 2025, API succeeded in repealing Waste Emissions Charge.
+After passage, API continued working to roll back IRA provisions, targeting Waste Emissions Charge, Methane Emissions Reduction Program, Greenhouse Gas Reduction Fund. By early 2025, API succeeded in repealing Waste Emissions Charge.
 
 Source: [API press release: IRA Opposition](https://www.api.org/news-policy-and-issues/news/2022/08/11/us-energy-industry-outlines-opposition-to-inflation-reduction-act) (Tier 2)
 
@@ -392,7 +392,7 @@ Source: [DeSmog API profile: IRS tax filing analysis](https://www.desmog.com/ame
 
 #### April 1998 Global Climate Science Communications Plan
 
-In April 1998—just months after Kyoto Protocol was signed—API's Joe Walker circulated a draft memo that became one of most consequential documents in climate denial history. The memo was created by API's "Global Climate Science Communications Team" (GCSCT) with representatives from:
+In April 1998, just months after Kyoto Protocol was signed, API's Joe Walker circulated a draft memo that became one of most consequential documents in climate denial history. The memo was created by API's "Global Climate Science Communications Team" (GCSCT) with representatives from:
 
 - American Petroleum Institute (convener)
 - [[ExxonMobil]] (Randy Randol)
@@ -421,7 +421,7 @@ In April 1998—just months after Kyoto Protocol was signed—API's Joe Walker c
 | National Direct Outreach Program | $300,000 |
 
 Key tactics included:
-- Recruiting "a team of five independent scientists" for media outreach to "inject credible science... thereby raising questions about and undercutting the 'prevailing scientific wisdom'"
+- Recruiting "a team of five independent scientists" for media outreach to "inject credible science.. thereby raising questions about and undercutting the 'prevailing scientific wisdom'"
 - Establishing "sound scientific alternative" to IPCC
 - Developing op-eds, radio appearances, press releases
 - Targeting teachers and students to influence science education
@@ -451,7 +451,7 @@ API created secret industry-wide task force to monitor climate science developme
 
 This warning was not reflected in API's public communications. Task force active 1979–1983.
 
-#### 1980: "Two Energy Futures" — First Public Disinformation
+#### 1980: "Two Energy Futures". First Public Disinformation
 
 In August 1980, API published *"Two Energy Futures: A National Choice for the 80s,"* which:
 - Acknowledged CO₂ as "pollutant" but cast doubt on its role in global warming by misrepresenting prominent scientists
@@ -469,23 +469,23 @@ GCC spent **more than $1 million per year between 1994 and 1997** downplaying cl
 
 #### 1992: Misrepresenting Paid Economic Studies
 
-As 1992 Earth Summit approached, API executive VP William O'Keefe published letter to New York Times citing Charles River Associates to insist emissions cuts would be "uneconomic"—without disclosing API had paid for the study. This omission and "misleading portrayal" became "standard practice for petroleum industry."
+As 1992 Earth Summit approached, API executive VP William O'Keefe published letter to New York Times citing Charles River Associates to insist emissions cuts would be "uneconomic", without disclosing API had paid for the study. This omission and "misleading portrayal" became "standard practice for petroleum industry."
 
 #### Climate Denial Timeline Summary
 
 | Year | Action | Internal Knowledge | Public Position |
 |------|--------|-------------------|-----------------|
-| 1959 | Attended Edward Teller CO₂ warming warning | CO₂ causes climate change | — |
-| 1968 | Commissioned Stanford report on CO₂ damage | Severe environmental damage possible | — |
-| 1979 | Secret task force created; Laurmann briefing on catastrophic warming | 5°C = "globally catastrophic" | — |
+| 1959 | Attended Edward Teller CO₂ warming warning | CO₂ causes climate change |, |
+| 1968 | Commissioned Stanford report on CO₂ damage | Severe environmental damage possible |, |
+| 1979 | Secret task force created; Laurmann briefing on catastrophic warming | 5°C = "globally catastrophic" |, |
 | 1980 | Published "Two Energy Futures" | Internal: warming catastrophic | Public: coal expansion safe |
 | 1989 | Co-founded Global Climate Coalition | Science of warming known | Climate treaties are threat |
-| 1992 | Misrepresented funded economic study | — | Emissions cuts economically unfeasible |
-| 1993 | $1.8M campaign killing Clinton fossil fuel tax | — | — |
-| 1997 | Co-organized $13M GCIP anti-Kyoto campaign | — | Kyoto would raise gas 50 cents |
-| 1998 | Drafted "Victory Will Be Achieved" memo | — | Victory = manufacture doubt about science |
-| 2009–2010 | Energy Citizens astroturf vs. Waxman-Markey | — | Grassroots opposition to cap-and-trade |
-| 2021 | Nominal support for carbon pricing (PR move) | — | Support carbon pricing (no legislation) |
+| 1992 | Misrepresented funded economic study |, | Emissions cuts economically unfeasible |
+| 1993 | $1.8M campaign killing Clinton fossil fuel tax |, |, |
+| 1997 | Co-organized $13M GCIP anti-Kyoto campaign |, | Kyoto would raise gas 50 cents |
+| 1998 | Drafted "Victory Will Be Achieved" memo |, | Victory = manufacture doubt about science |
+| 2009–2010 | Energy Citizens astroturf vs. Waxman-Markey |, | Grassroots opposition to cap-and-trade |
+| 2021 | Nominal support for carbon pricing (PR move) |, | Support carbon pricing (no legislation) |
 
 Sources: [Union of Concerned Scientists: Fossil Fuel Deception](https://blog.ucs.org/laura-peterson/fossil-fuel-deception-first-100-days/) (Tier 2) | [DeSmog: API Climate Denial Campaign](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2) | [Taylor & Francis Academic Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636) (Tier 3)
 
@@ -494,7 +494,7 @@ Sources: [Union of Concerned Scientists: Fossil Fuel Deception](https://blog.ucs
 #### API Leadership with Prior Government Service
 
 ### Mike Sommers (President & CEO, July 2018–present):
-- Special Assistant to President George W. Bush (National Economic Council—agriculture and trade policy)
+- Special Assistant to President George W. Bush (National Economic Council, agriculture and trade policy)
 - Policy Director, Legislative Director, Press Secretary for Speaker John Boehner
 - Chief of Staff for Speaker Boehner
 - President and CEO of American Investment Council (private equity lobby) before joining API
@@ -536,7 +536,7 @@ From OpenSecrets' 2021 API lobbyist roster: **51 total lobbyists; 40 (78.43%) ha
 ### Brownstein, Hyatt et al ($230,000):
 - Mark L. Pryor (Former U.S. Senator, D-AR)
 - Nadeam Elshami (Former Chief of Staff to House Minority/Majority Leader Nancy Pelosi)
-- Brian McKeon (Former government—national security/State Dept)
+- Brian McKeon (Former government, national security/State Dept)
 
 ### CGCN Group ($420,000):
 - Jay N. Cranford (Revolving door profile)
@@ -548,7 +548,7 @@ From OpenSecrets' 2021 API lobbyist roster: **51 total lobbyists; 40 (78.43%) ha
 
 #### Philip Cooney Case: EPA to ExxonMobil
 
-While not API official, exemplifies revolving door. Cooney was Chief of Staff, White House Council on Environmental Quality under President George W. Bush. Forced to resign 2005 after revealed tampering with government climate assessments—editing reports to downplay scientific evidence of global warming. After White House, hired as lobbyist for [[ExxonMobil]] (API's largest member company).
+While not API official, exemplifies revolving door. Cooney was Chief of Staff, White House Council on Environmental Quality under President George W. Bush. Forced to resign 2005 after revealed tampering with government climate assessments, editing reports to downplay scientific evidence of global warming. After White House, hired as lobbyist for [[ExxonMobil]] (API's largest member company).
 
 Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2) | [Senate LDA Filings: API Lobbyist Roster (2021)](https://lda.gov/filings/public/filing/search/) (Tier 1)
 
@@ -556,7 +556,7 @@ Sources: [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.
 
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|------------------|--------|----------------|----------|
-| 1979 | Internal task force (API) | Unknown | 5°C warming documented as "globally catastrophic" | — |
+| 1979 | Internal task force (API) | Unknown | 5°C warming documented as "globally catastrophic" |, |
 | 1980 | Public disinformation campaign | Unknown | "Two Energy Futures" published downplaying CO₂ risk | 1 year after internal briefing |
 | 1993 | Burson-Marsteller campaign | $1,800,000 | Clinton BTU tax on fossil fuels defeated | 3 months |
 | 1997 | Global Climate Information Project | $13,000,000 | Kyoto Protocol weakened; U.S. withdrawal possible | 1 year (implemented 2001 under Bush) |
@@ -624,7 +624,7 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 - [DeSmog: API Climate Denial Campaign 1980](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2)
 - [DeSmog: Energy Citizens Astroturf Campaign Exposed](https://www.desmog.com/2009/08/13/oil-lobbys-energy-citizens-astroturf-campaign-exposed-launch/) (Tier 2)
 - [DeSmog: Fossil Fuel Trade Associations $1.4 Billion PR Campaigns](https://www.desmog.com/2019/03/18/american-petroleum-institute-api-energy-corporate-trade-associations-1-4-billion-pr-campaigns/) (Tier 2)
-- [Sludge: Revealed — Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
+- [Sludge: Revealed. Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/) (Tier 2)
 - [Sludge: API Climate Denial News Analysis](https://readsludge.com/) (Tier 2)
 - [Climate Power: American Petroleum Institute Hypocrisy Analysis](https://climatepower.us/news/american-petroleum-institutes-blatant-hypocrisy-on-climate-action/) (Tier 2)
 - [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2)
@@ -662,7 +662,7 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

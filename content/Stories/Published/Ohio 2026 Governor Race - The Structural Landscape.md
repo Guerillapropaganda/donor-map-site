@@ -18,11 +18,11 @@ related: "[[Amy Acton]] · [[_Vivek Ramaswamy Master Profile]] · [[Ohio 2026 - 
 
 ### **Ohio 2026: The Structural Landscape**
 
-Open-seat gubernatorial race with first competitive real campaign since Kasich 2014. DeWine term-limited. Ohio Trump +8 (2020), Trump +6 (2024) — lean-Republican state but not locked. Senate special election 2022 (Vance) exposed fracture lines. DOGE backlash (280,000 federal jobs cut, federal workforce bleeding support) creates 2026 vulnerability for Republican-aligned candidates. Ramaswamy's 32-day DOGE tenure is now campaign liability, not asset.
+Open-seat gubernatorial race with first competitive real campaign since Kasich 2014. DeWine term-limited. Ohio Trump +8 (2020), Trump +6 (2024), lean-Republican state but not locked. Senate special election 2022 (Vance) exposed fracture lines. DOGE backlash (280,000 federal jobs cut, federal workforce bleeding support) creates 2026 vulnerability for Republican-aligned candidates. Ramaswamy's 32-day DOGE tenure is now campaign liability, not asset.
 
 ---
 
-### **The Candidates — Side by Side**
+### **The Candidates. Side by Side**
 
 | Category | Amy Acton (D) | [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] (R) |
 |----------|--------------|-------------------|
@@ -30,7 +30,7 @@ Open-seat gubernatorial race with first competitive real campaign since Kasich 2
 | **Net worth** | Not disclosed (modest) | $2.4 billion |
 | **Total raised** | $5.3M | $19.8M + $18.6M super PAC |
 | **Avg donation (campaign)** | $28 | $76 |
-| **Avg donation (super PAC)** | — | $7.5M (Yass, Stevens only) |
+| **Avg donation (super PAC)** |, | $7.5M (Yass, Stevens only) |
 | **Key endorsements** | Ohio AFL-CIO (600K workers), UAW, OEA, AFGE, OCSEA, [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]], CWA, UMWA, EMILY's List | Trump, [[_JD Vance Master Profile|JD Vance]], Ohio GOP, [[Jeff Yass|Jeff Yass]] ($10M), Ross Stevens ($5M) |
 | **Running mate** | TBD | Rob McColley (State Senate President) |
 | **Prior office** | None (appointed Health Director) | None (32 days DOGE co-lead) |
@@ -45,13 +45,13 @@ Open-seat gubernatorial race with first competitive real campaign since Kasich 2
 | Aug 2025 | Emerson | Ramaswamy 49, Acton 39 (+10 R) | Name recognition gap; Ramaswamy national brand |
 | Dec 2025 | Emerson | Ramaswamy 45, Acton 43 (+2 R) | Race tightens as Acton builds awareness |
 | Dec 2025 | T. Roosevelt Action | Ramaswamy 45, Acton 43 (+2 R) | Confirms tightening |
-| Feb 2026 | EMC Research | Acton 53, Ramaswamy 43 (+10 D) | Dramatic flip — Acton leads by 10 points |
+| Feb 2026 | EMC Research | Acton 53, Ramaswamy 43 (+10 D) | Dramatic flip. Acton leads by 10 points |
 
 > [!contradiction] **The polling story:** Ramaswamy's advantage came from brand advantage alone (billionaire-fueled national media presence). As Acton built awareness over six months, the fundamentals flipped. EMC internals reveal the Republican bleeding: Ramaswamy draws 65% of Republicans (should be 85%+), Acton holds 82% of Democrats, and Acton leads independents 51-46. The DOGE tenure, H-1B comments, and "I'm running to keep the billionaire club intact" brand positioning are costing him within his own party.
 
 ---
 
-### **The Money Map — Structural Asymmetry**
+### **The Money Map. Structural Asymmetry**
 
 **Ramaswamy total ecosystem:** ~$38.4M (campaign $19.8M + super PAC $18.6M)
 **Acton total:** $5.3M (no super PAC)
@@ -67,7 +67,7 @@ Open-seat gubernatorial race with first competitive real campaign since Kasich 2
 
 **Ramaswamy:** Trump (the signal that matters in Republican primary), [[_JD Vance Master Profile|JD Vance]] (Ohio's own senator, MAGA validator), Ohio GOP apparatus, Rob McColley (State Senate President, party insider running mate)
 
-**Acton:** Ohio AFL-CIO (600,000 members — the operational backbone), United Auto Workers (auto manufacturing stronghold in state), Ohio Education Association, American Federation of Government Employees (DOGE backlash signal), Ohio Civil Service Employees Association, AFSCME, Communications Workers of America, United Mine Workers of America, EMILY's List (national women's candidate infrastructure)
+**Acton:** Ohio AFL-CIO (600,000 members, the operational backbone), United Auto Workers (auto manufacturing stronghold in state), Ohio Education Association, American Federation of Government Employees (DOGE backlash signal), Ohio Civil Service Employees Association, AFSCME, Communications Workers of America, United Mine Workers of America, EMILY's List (national women's candidate infrastructure)
 
 > [!contradiction] **The real asymmetry:** Ramaswamy has billionaire money + party endorsements (top-down). Acton has labor organizational infrastructure + grassroots funding (bottom-up). This tests whether a candidate funded by people can beat a candidate funded by billionaires. The labor endorsements signal something Ramaswamy can't buy with money: belief that Acton will actually serve the endorsing organizations. That's the only thing money can't manufacture.
 
@@ -76,7 +76,7 @@ Open-seat gubernatorial race with first competitive real campaign since Kasich 2
 ### **What This Race Means Structurally**
 
 ### Tests whether grassroots funding can compete with billionaire super PACs in a swing state
-Acton is proving (so far) that the money ratio is not deterministic. The Feb 2026 flip shows candidate quality, organizational capacity, and message coherence can overcome a 7-to-1 spending disadvantage. But the race isn't over — the real test is whether this holds through the general election, when Republican turnout typically increases.
+Acton is proving (so far) that the money ratio is not deterministic. The Feb 2026 flip shows candidate quality, organizational capacity, and message coherence can overcome a 7-to-1 spending disadvantage. But the race isn't over, the real test is whether this holds through the general election, when Republican turnout typically increases.
 
 ### Tests whether DOGE backlash translates to electoral consequences
 280,000+ federal jobs cut. Spending went UP 5.8% (failed on the stated mission). Ramaswamy lasted 32 days. The question: do federal employees and their families (+ people who valued federal services) vote? If they do, Ramaswamy carries that liability. If they don't, the anti-DOGE message evaporates.
@@ -107,7 +107,7 @@ Acton was forced out by the same Republican power structure now running Ramaswam
 
 ### **The Key Questions Going Forward**
 
-**Will national Democratic super PACs enter for Acton?** If so, from whom? Healthcare industry? Tech? That would change the entire donor analysis — Acton would no longer be a pure grassroots candidate, but a hybrid funded partly by national capital. This tests whether the small-dollar model survives the general.
+**Will national Democratic super PACs enter for Acton?** If so, from whom? Healthcare industry? Tech? That would change the entire donor analysis. Acton would no longer be a pure grassroots candidate, but a hybrid funded partly by national capital. This tests whether the small-dollar model survives the general.
 
 **Can Ramaswamy consolidate Republicans above 65%?** If the current 65% Republican support holds, he loses. He needs 80%+ to win statewide. The H-1B comments, DOGE failure, and billionaire optics are specific liabilities with his own base.
 
@@ -121,21 +121,21 @@ Acton was forced out by the same Republican power structure now running Ramaswam
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — If Acton wins, she becomes Ohio's first female governor with a genuine grassroots mandate (96% small-dollar). The structural limit: a Republican legislature controls the budget, regulatory power, and legislative agenda. Healthcare expansion, caregiver tax credits, and hospital protection require legislative cooperation that her funding base cannot compel. The grassroots model wins elections; it doesn't govern statehouses.
+**The Genuine Win + Structural Limit**. If Acton wins, she becomes Ohio's first female governor with a genuine grassroots mandate (96% small-dollar). The structural limit: a Republican legislature controls the budget, regulatory power, and legislative agenda. Healthcare expansion, caregiver tax credits, and hospital protection require legislative cooperation that her funding base cannot compel. The grassroots model wins elections; it doesn't govern statehouses.
 
-**The Two-Audience Problem** — Ramaswamy speaks to three audiences simultaneously: MAGA base (anti-woke, anti-regulation), billionaire donors (FDA deregulation, tax cuts benefiting personal holdings), and Ohio voters (jobs, cost of living). The H-1B comments revealed the gap — telling tech donors that American culture "venerated mediocrity" alienated the base audience. Acton's two-audience problem is latent: grassroots donors expect progressive healthcare policy; institutional Democratic support (party money, EMILY's List, union leadership) may moderate her ambitions under governance pressure.
+**The Two-Audience Problem**. Ramaswamy speaks to three audiences simultaneously: MAGA base (anti-woke, anti-regulation), billionaire donors (FDA deregulation, tax cuts benefiting personal holdings), and Ohio voters (jobs, cost of living). The H-1B comments revealed the gap, telling tech donors that American culture "venerated mediocrity" alienated the base audience. Acton's two-audience problem is latent: grassroots donors expect progressive healthcare policy; institutional Democratic support (party money, EMILY's List, union leadership) may moderate her ambitions under governance pressure.
 
-**The Villain Framing** — Ramaswamy frames federal regulation and "woke capitalism" as the villain, deflecting from the class analysis: his deregulation platform directly benefits his $565-670M Roivant stake. Acton frames "Statehouse corruption" as the villain (Householder), which is factually grounded but also deflects from the structural question: can a grassroots-funded governor change the power dynamics that produced Householder in the first place?
+**The Villain Framing**. Ramaswamy frames federal regulation and "woke capitalism" as the villain, deflecting from the class analysis: his deregulation platform directly benefits his $565-670M Roivant stake. Acton frames "Statehouse corruption" as the villain (Householder), which is factually grounded but also deflects from the structural question: can a grassroots-funded governor change the power dynamics that produced Householder in the first place?
 
-**The Pilot Program** — The Ohio race itself functions as a pilot program for national politics. If Acton's grassroots model wins against 7:1 billionaire spending, it demonstrates an alternative to donor-class capture. If Ramaswamy wins despite DOGE failure, pharma conflicts, and out-of-state billionaire funding, it demonstrates that capital still overwhelms organization. Either outcome restructures the 2028 presidential calculus.
+**The Pilot Program**. The Ohio race itself functions as a pilot program for national politics. If Acton's grassroots model wins against 7:1 billionaire spending, it demonstrates an alternative to donor-class capture. If Ramaswamy wins despite DOGE failure, pharma conflicts, and out-of-state billionaire funding, it demonstrates that capital still overwhelms organization. Either outcome restructures the 2028 presidential calculus.
 
 ---
 
 ### **Sources**
 
-- [OpenSecrets: Ohio 2026 Governor's Race — Contributions and Outside Spending](https://www.opensecrets.org/races/OH-G2026) (Tier 1)
-- ~~[FollowTheMoney: Ohio 2026 Governor's Race Finance](https://www.followthemoney.org/race/OH/GU/2026)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [EMC Research: Ohio 2026 Governor's Race Poll — February 2026](https://www.emcresearch.org/polls) (Tier 2)
+- [OpenSecrets: Ohio 2026 Governor's Race. Contributions and Outside Spending](https://www.opensecrets.org/races/OH-G2026) (Tier 1)
+- ~~[FollowTheMoney: Ohio 2026 Governor's Race Finance](https://www.followthemoney.org/race/OH/GU/2026)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- [EMC Research: Ohio 2026 Governor's Race Poll. February 2026](https://www.emcresearch.org/polls) (Tier 2)
 - [Ballotpedia: Ohio 2026 Gubernatorial Election](https://ballotpedia.org/Ohio_gubernatorial_election,_2026) (Tier 3)
 - [SEC EDGAR: Roivant Sciences Filings](https://www.sec.gov/cgi-bin/browse-edgar) (Tier 1)
 

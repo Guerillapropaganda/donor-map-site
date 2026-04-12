@@ -13,9 +13,9 @@ donors: [[Peter Thiel]] · [[Elon Musk]]
 
 ---
 
-### The PayPal Mafia — A Network Map
+### The PayPal Mafia. A Network Map
 
-PayPal was founded in 1998, went public in 2002, and was acquired by eBay for $1.5 billion. The network of founders, early employees, and investors who cashed out became one of the most politically consequential capital formations in American history. The ideological foundation was laid before PayPal: [[Peter Thiel|Peter Thiel]] and [[_David Sacks Master Profile|David Sacks]] co-wrote "The Diversity Myth: Multiculturalism and the Politics of Intolerance" (1995) at Stanford — a culture-war polemic attacking political correctness on campus. The PayPal exit funded the politics the book predicted.
+PayPal was founded in 1998, went public in 2002, and was acquired by eBay for $1.5 billion. The network of founders, early employees, and investors who cashed out became one of the most politically consequential capital formations in American history. The ideological foundation was laid before PayPal: [[Peter Thiel|Peter Thiel]] and [[_David Sacks Master Profile|David Sacks]] co-wrote "The Diversity Myth: Multiculturalism and the Politics of Intolerance" (1995) at Stanford, a culture-war polemic attacking political correctness on campus. The PayPal exit funded the politics the book predicted.
 
 ### The Core Triangle (2025 Government Posts):
 | Person | PayPal Role | Government Role (2025) | Entry Vector |
@@ -28,11 +28,11 @@ PayPal was founded in 1998, went public in 2002, and was acquired by eBay for $1
 - **[[_JD Vance Master Profile|JD Vance]]**: Thiel invested $15M in Vance's Senate campaign. Vance worked at Thiel Capital before running. As VP, Vance is Thiel's institutional voice in the administration.
 - **Keith Rabois**: PayPal executive, Thiel ally, Florida relocation, major MAGA donor
 - **Ken Howery**: PayPal co-founder, Trump's Ambassador to Sweden (first term), active Thiel network
-- **[[Reid Hoffman|Reid Hoffman]]**: The Democratic outlier — LinkedIn founder, major Biden/Harris donor. The PayPal Mafia split between Sacks/Thiel/Musk and Hoffman mirrors the broader tech class divide.
+- **[[Reid Hoffman|Reid Hoffman]]**: The Democratic outlier. LinkedIn founder, major Biden/Harris donor. The PayPal Mafia split between Sacks/Thiel/Musk and Hoffman mirrors the broader tech class divide.
 
 ---
 
-### The Investment Web — Interlocking Portfolios
+### The Investment Web. Interlocking Portfolios
 
 The PayPal Mafia's political alignment is reinforced by their investment relationships:
 
@@ -48,9 +48,9 @@ The PayPal Mafia's political alignment is reinforced by their investment relatio
 
 ---
 
-### The Ideological Through-Line — From "The Diversity Myth" to MAGA
+### The Ideological Through-Line. From "The Diversity Myth" to MAGA
 
-The 1995 Sacks-Thiel co-authored book argued that multiculturalism was a form of political intolerance imposed on universities. The core argument — that elite institutions enforce ideological conformity under the banner of diversity — became the template for the anti-DEI, anti-"woke" culture war deployed by the Trump coalition thirty years later.
+The 1995 Sacks-Thiel co-authored book argued that multiculturalism was a form of political intolerance imposed on universities. The core argument, that elite institutions enforce ideological conformity under the banner of diversity, became the template for the anti-DEI, anti-"woke" culture war deployed by the Trump coalition thirty years later.
 
 The arc: Stanford culture war polemics (1995) → PayPal exits (2002) → venture capital empire (2010s) → political donations to reshape the Republican Party (2020s) → government positions to implement the deregulatory agenda (2025). The ideology and the capital moved together.
 
@@ -67,8 +67,8 @@ The PayPal Mafia represents the vault's clearest case study of how a private cap
 
 ### Sources
 
-- [The Diversity Myth (1995) — Thiel and Sacks at Stanford](https://www.goodreads.com/book/show/647476.The_Diversity_Myth) (Tier 3)
-- [Politico: Peter Thiel's long game — PayPal to political power](https://www.politico.com/news/magazine/2021/10/15/peter-thiel-trump-maga-silicon-valley-515367) (Tier 2)
+- [The Diversity Myth (1995). Thiel and Sacks at Stanford](https://www.goodreads.com/book/show/647476.The_Diversity_Myth) (Tier 3)
+- [Politico: Peter Thiel's long game. PayPal to political power](https://www.politico.com/news/magazine/2021/10/15/peter-thiel-trump-maga-silicon-valley-515367) (Tier 2)
 - [The Atlantic: The PayPal Mafia in the Trump administration](https://www.theatlantic.com/international/archive/2025/01/venezuelans-tps-trump/681537/) (Tier 2)
 - [FEC Receipts: Peter Thiel political donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 1)
 - [OpenSecrets: JD Vance 2022 Senate race donors](https://www.opensecrets.org/races/summary?cycle=2022&id=OHS2) (Tier 1)

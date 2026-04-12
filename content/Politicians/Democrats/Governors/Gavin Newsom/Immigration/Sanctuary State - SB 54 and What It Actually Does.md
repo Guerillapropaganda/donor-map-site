@@ -39,7 +39,7 @@ The California Values Act (SB 54) was signed by Governor Jerry Brown in October 
 
 ### The Enforcement Gap: The Two-California Immigration Reality
 
-The gap between sanctuary policy and enforcement reality is primarily geographical and jurisdictional. The Central Valley — where California's agricultural economy is concentrated and where the largest undocumented farmworker population lives — has counties with law enforcement that has found ways to cooperate with ICE within the technical limits of SB 54 or has simply not prioritized compliance.
+The gap between sanctuary policy and enforcement reality is primarily geographical and jurisdictional. The Central Valley, where California's agricultural economy is concentrated and where the largest undocumented farmworker population lives, has counties with law enforcement that has found ways to cooperate with ICE within the technical limits of SB 54 or has simply not prioritized compliance.
 
 ### Non-compliant/problematic enforcement (documented):
 - **Kern County:** ICE cooperation reported through booking database sharing and informal notification arrangements (2019-2025)
@@ -63,37 +63,37 @@ Newsom's administration can pressure non-compliant counties through state fundin
 
 **Defended it legally:** The Trump first-term DOJ sued California over SB 54 in 2018, arguing it interfered with federal immigration enforcement. Newsom's administration (continuing Jerry Brown's defense) took the case through federal court and prevailed. The Ninth Circuit upheld SB 54 in April 2019 in a landmark decision. Newsom has not been sued again in Trump 2.0 (2025-2026), but has committed to defending the law again if challenged.
 
-**Championed it rhetorically:** Newsom has consistently invoked SB 54 as evidence that California is a "national model" on immigration. In the Trump 2.0 era (2025–2026), he has elevated this rhetoric significantly as part of his national positioning as "Trump resistance" leader. Public statements frame SB 54 as comprehensive sanctuary protection — which it is not.
+**Championed it rhetorically:** Newsom has consistently invoked SB 54 as evidence that California is a "national model" on immigration. In the Trump 2.0 era (2025–2026), he has elevated this rhetoric significantly as part of his national positioning as "Trump resistance" leader. Public statements frame SB 54 as comprehensive sanctuary protection, which it is not.
 
 **Has not expanded it:** SB 54 has remained essentially unchanged since 2017. Newsom has not:
-- Pushed for expansion of the protected offense list (i.e., narrowing the 800 exceptions by removing lower-level offenses)
+- Pushed for expansion of the protected offense list (i.e. narrowing the 800 exceptions by removing lower-level offenses)
 - Increased enforcement against the 12-15 non-compliant counties
 - Funded additional anti-ICE legal resources or capacity
 - Implemented SB 54 enforcement authority at state level
 - Introduced additional state-level immigration protections beyond SB 54
 
-**Has expanded guest worker programs:** Meanwhile, Newsom has promoted H-2A visa expansion and guest worker program increases — effectively institutionalizing exploitable undocumented labor at scale. [See: [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]]]
+**Has expanded guest worker programs:** Meanwhile, Newsom has promoted H-2A visa expansion and guest worker program increases, effectively institutionalizing exploitable undocumented labor at scale. [See: [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]]]
 
 ### Analytical Patterns
 
-**The Villain Framing** — Newsom's public framing of immigration is "Trump wants mass deportation; California will resist through sanctuary." The villain is external (Trump, federal government). What this framing obscures is the structural reality: Newsom's own policy framework permits agricultural county non-compliance with SB 54, allowing ICE access to the farmworker communities that his agricultural donors depend on. By framing Trump as the villain and sanctuary as the solution, Newsom avoids class analysis of California's agricultural labor structure.
+**The Villain Framing**. Newsom's public framing of immigration is "Trump wants mass deportation; California will resist through sanctuary." The villain is external (Trump, federal government). What this framing obscures is the structural reality: Newsom's own policy framework permits agricultural county non-compliance with SB 54, allowing ICE access to the farmworker communities that his agricultural donors depend on. By framing Trump as the villain and sanctuary as the solution, Newsom avoids class analysis of California's agricultural labor structure.
 
-**The Two-Audience Problem** — To immigrant rights audiences and California progressives, Newsom is "champion of sanctuary"; to agricultural employers and rural law enforcement, SB 54 is presented as flexible (unenforced, non-compliant counties accommodate business needs) and as maintaining federal cooperation mechanisms. The same law plays as "protection" to immigrants and "managed cooperation" to employers.
+**The Two-Audience Problem**. To immigrant rights audiences and California progressives, Newsom is "champion of sanctuary"; to agricultural employers and rural law enforcement, SB 54 is presented as flexible (unenforced, non-compliant counties accommodate business needs) and as maintaining federal cooperation mechanisms. The same law plays as "protection" to immigrants and "managed cooperation" to employers.
 
-**The Genuine Win + Structural Limit** — SB 54 genuinely restricts state/local ICE cooperation in most of California and has prevented some deportations. The structural limit is that the law cannot restrict federal agents, cannot prevent workplace raids, and is unevenly enforced in agricultural regions where protection is most needed. The "sanctuary state" framing claims comprehensive protection; the actual law provides protection only in urban areas with strong local government oversight.
+**The Genuine Win + Structural Limit**. SB 54 genuinely restricts state/local ICE cooperation in most of California and has prevented some deportations. The structural limit is that the law cannot restrict federal agents, cannot prevent workplace raids, and is unevenly enforced in agricultural regions where protection is most needed. The "sanctuary state" framing claims comprehensive protection; the actual law provides protection only in urban areas with strong local government oversight.
 
 ### Donation-to-Policy Timeline
 
 | Date | Event | Key Players | Amount | Significance |
 |------|-------|-------------|--------|--------------|
 | 2017-10 | Jerry Brown signs SB 54 (California Values Act) | Gov. Jerry Brown, CA legislature, Kevin de León | Policy baseline | Establishes sanctuary framework Newsom will inherit and brand as his own |
-| 2018-01 | SB 54 takes effect; state/local law enforcement compliance begins | CA law enforcement agencies, county sheriffs | Regulatory action | Uneven compliance begins immediately — rural agricultural counties lag |
+| 2018-01 | SB 54 takes effect; state/local law enforcement compliance begins | CA law enforcement agencies, county sheriffs | Regulatory action | Uneven compliance begins immediately, rural agricultural counties lag |
 | 2018 | Trump DOJ sues California challenging SB 54 preemption | Trump DOJ, Jeff Sessions, CA Attorney General | Legal challenge | Federal pressure creates political opportunity for sanctuary branding |
 | 2019-04 | Ninth Circuit upholds SB 54 in landmark ruling | Ninth Circuit, CA Attorney General | Favorable ruling | Legal victory Newsom claims credit for despite inheriting Brown's defense |
-| 2019-11 | Newsom inaugurated; inherits SB 54 and its implementation | Newsom, agricultural donor base | Political transition | No expansion or enforcement strengthening follows — policy frozen |
+| 2019-11 | Newsom inaugurated; inherits SB 54 and its implementation | Newsom, agricultural donor base | Political transition | No expansion or enforcement strengthening follows, policy frozen |
 | 2020–2025 | Kern, Fresno, Tulare counties continue ICE cooperation despite SB 54 | County sheriffs, ICE, agricultural employers | Enforcement gap | Non-compliance concentrated in farmworker regions where agricultural donors operate |
 | 2024–2025 | Newsom promotes H-2A visa expansion alongside SB 54 rhetoric | Newsom, agricultural industry, H-2A employers | Policy contradiction | Institutionalizes exploitable labor while claiming sanctuary protection |
-| 2025–2026 | Newsom escalates SB 54 rhetoric for "Trump resistance" national positioning | Newsom (2028 positioning), Trump administration | Political positioning | Enforcement gaps unchanged — rhetoric serves electoral ambition, not immigrant protection |
+| 2025–2026 | Newsom escalates SB 54 rhetoric for "Trump resistance" national positioning | Newsom (2028 positioning), Trump administration | Political positioning | Enforcement gaps unchanged, rhetoric serves electoral ambition, not immigrant protection |
 
 ### Sources
 
@@ -103,16 +103,16 @@ Newsom's administration can pressure non-compliant counties through state fundin
 - [CalMatters: Why a CA sheriff is planning to break the state's sanctuary law](https://calmatters.org/justice/2025/02/sanctuary-state-amador-sheriff/) (Tier 2)
 - [American Civil Liberties Union: State vs. Local SB 54 Compliance Map](https://www.aclu.org/news/immigrants-rights/california-sanctuary-county-compliance-2024/) *(source unavailable)* (Tier 2)
 - [Center for American Progress: SB 54 Implementation Analysis (2020-2024)](https://www.americanprogress.org/article/sb54-compliance-california/) *(source unavailable)* (Tier 2)
-- [CalMatters: California lawsuits against Donald Trump — won and lost](https://calmatters.org/category/politics/2025/01/california-lawsuits-against-donald-trump/) (Tier 2)
+- [CalMatters: California lawsuits against Donald Trump, won and lost](https://calmatters.org/category/politics/2025/01/california-lawsuits-against-donald-trump/) (Tier 2)
 - [Immigrant Defenders Law Center: SB 54 Enforcement Patterns (2025 update)](https://www.immigrantdefenders.org/sb54-gaps) (Tier 2)
 
 ---
 
 ### Key Quote
 
-"California will not be a part of your mass deportation." — Newsom, January 2025, responding to Trump's executive orders on immigration enforcement.
+"California will not be a part of your mass deportation.". Newsom, January 2025, responding to Trump's executive orders on immigration enforcement.
 
-"We need to expand SB 54... We need to expand farmworker protections... We need to make sanctuary real." — Newsom campaign statement, 2026 (noting no legislative action on SB 54 expansion despite six years in office).
+"We need to expand SB 54.. We need to expand farmworker protections.. We need to make sanctuary real.". Newsom campaign statement, 2026 (noting no legislative action on SB 54 expansion despite six years in office).
 
 ---
 

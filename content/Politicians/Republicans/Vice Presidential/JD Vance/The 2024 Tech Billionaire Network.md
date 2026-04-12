@@ -13,7 +13,7 @@ donors: [[Peter Thiel]] · [[Elon Musk]] · [[Marc Andreessen & Horowitz]] · [[
 
 ### The 2024 Tech Billionaire Network: Who Funded Vance's VP Position and Why
 
-[[_JD Vance Master Profile|JD Vance]]'s selection as VP in August 2024 was not Trump's independent decision. It was the outcome of a coordinated billionaire donor campaign—a network of Silicon Valley ultra-wealthy who collectively spent $300M+ in the 2024 election cycle and leveraged that spending to demand a VP selection favorable to tech industry interests.
+[[_JD Vance Master Profile|JD Vance]]'s selection as VP in August 2024 was not Trump's independent decision. It was the outcome of a coordinated billionaire donor campaign, a network of Silicon Valley ultra-wealthy who collectively spent $300M+ in the 2024 election cycle and leveraged that spending to demand a VP selection favorable to tech industry interests.
 
 Understanding the 2024 network requires understanding that billionaires don't just donate money to politicians they like. They negotiate. They demand specific positions, cabinet placements, policy concessions. Vance was the tech industry's selected VP, installed to ensure their interests would be represented at the highest levels of government.
 
@@ -37,7 +37,7 @@ Understanding the 2024 network requires understanding that billionaires don't ju
 **Demand:** Vance as VP to ensure continuity of Palantir contracts, surveillance expansion, and anti-democracy ideology
 **Result:** **DELIVERED.** Vance becomes VP with access to defense budget allocation, federal contract oversight
 
-**Why Thiel prioritized Vance over alternatives (like [[_Marco Rubio Master Profile|Marco Rubio]], who eventually became Secretary of State):** Thiel needed someone he could control absolutely, someone without independent political base, someone whose entire career depended on Thiel's patronage. Rubio has his own donors, his own power base, his own ideology. Vance has none of these—he has Thiel.
+**Why Thiel prioritized Vance over alternatives (like [[_Marco Rubio Master Profile|Marco Rubio]], who eventually became Secretary of State):** Thiel needed someone he could control absolutely, someone without independent political base, someone whose entire career depended on Thiel's patronage. Rubio has his own donors, his own power base, his own ideology. Vance has none of these, he has Thiel.
 
 ### [[Elon Musk|Elon Musk]]: Regulatory Capture and Crypto Legitimacy
 **Contribution:** $292M America PAC spending (most by any non-billionaire in 2024 cycle)
@@ -49,7 +49,7 @@ Understanding the 2024 network requires understanding that billionaires don't ju
 
 **Result:** **PARTIALLY DELIVERED.** Musk gained Trump's ear, influenced cabinet selections (Elon ally Gary Gensler removed from SEC). Vance's support for crypto deregulation and tech monopoly protection serves Musk's interests directly.
 
-**Quid pro quo for Vance:** Musk's America PAC spending provided the voter outreach infrastructure that legitimized Vance as a viable VP candidate to MAGA base. Without Musk's messaging and America PAC operations, Vance—a venture capitalist with no MAGA credential—would never have been acceptable.
+**Quid pro quo for Vance:** Musk's America PAC spending provided the voter outreach infrastructure that legitimized Vance as a viable VP candidate to MAGA base. Without Musk's messaging and America PAC operations, Vance, a venture capitalist with no MAGA credential, would never have been acceptable.
 
 ### Marc Andreessen: Defense Contracts and Monopoly Protection
 **Contribution:** $8-12M A16Z + personal donations
@@ -136,8 +136,8 @@ Vance's VP selection reflects a broader 40-year shift in tech billionaire politi
 
 ### Why the shift?
 - **1990s-2010s reason for neutrality:** Tech industry was anti-regulation by nature, but both parties offered this
-- **2015-2020 pivot reason:** Progressive politics began including antitrust, labor rights, and tax increases on billionaires—threatening tech billionaire interests
-- **2024 alignment reason:** Trump administration promised total regulatory rollback, defense contract acceleration, labor suppression, and crypto deregulation—maximizing billionaire wealth extraction
+- **2015-2020 pivot reason:** Progressive politics began including antitrust, labor rights, and tax increases on billionaires, threatening tech billionaire interests
+- **2024 alignment reason:** Trump administration promised total regulatory rollback, defense contract acceleration, labor suppression, and crypto deregulation, maximizing billionaire wealth extraction
 
 [!money] The shift reflects not a genuine ideological conversion, but a rational calculation: the Republican Party became more favorable to billionaire interests than the Democratic Party. Thiel, Musk, Andreessen, and others are following profit.
 
@@ -178,7 +178,7 @@ The 2024 campaign was not just about winning 2024. It was about positioning for 
 
 **Current polling for Vance 2028:** 46% favorability (Emerson, 2026), positioning him as Trump's natural successor.
 
-The tech billionaire network is not investing in Trump anymore. Trump is aging, unpredictable, potentially facing legal jeopardy. They've installed Vance as the succession candidate—their backup plan if Trump becomes unavailable. Vance's entire political operation is designed to be continuity: MAGA style, billionaire substance, surveillance expansion, labor suppression.
+The tech billionaire network is not investing in Trump anymore. Trump is aging, unpredictable, potentially facing legal jeopardy. They've installed Vance as the succession candidate, their backup plan if Trump becomes unavailable. Vance's entire political operation is designed to be continuity: MAGA style, billionaire substance, surveillance expansion, labor suppression.
 
 ### Sources
 

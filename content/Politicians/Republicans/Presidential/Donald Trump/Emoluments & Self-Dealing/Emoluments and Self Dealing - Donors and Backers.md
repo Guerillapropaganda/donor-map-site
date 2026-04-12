@@ -11,57 +11,57 @@ related: "[[The Grift Machine - How Trump Monetized the Presidency]] · [[_Donal
 
 ---
 
-### Foreign Governments at Trump Properties — The First Term Pattern
+### Foreign Governments at Trump Properties. The First Term Pattern
 
-Trump's Washington hotel became a foreign policy venue where governments paid for access. Six nations alone—Saudi Arabia, Qatar, UAE, Malaysia, China, and Kuwait—spent more than $750,000 at the Trump International Hotel DC in the first two years of his presidency.
+Trump's Washington hotel became a foreign policy venue where governments paid for access. Six nations alone, Saudi Arabia, Qatar, UAE, Malaysia, China, and Kuwait, spent more than $750,000 at the Trump International Hotel DC in the first two years of his presidency.
 
 During the 2017-2018 Qatar blockade crisis, all three involved nations lobbied Trump publicly while simultaneously spending heavily at his hotel. Saudi Arabia's Ministry of Defense spent $85,961 in seven days in March 2018, renting multiple $10,500-per-night suites (the hotel's most expensive rooms). The spending pattern followed a clear logic: countries seeking Trump's attention paid the Trump Organization.
 
-Five foreign governments paid Trump's New York businesses nearly $2 million monthly in ongoing fees for units in Trump World Tower at 845 United Nations Plaza. These were not market-rate transactions—they were access purchases.
+Five foreign governments paid Trump's New York businesses nearly $2 million monthly in ongoing fees for units in Trump World Tower at 845 United Nations Plaza. These were not market-rate transactions, they were access purchases.
 
 > [!money]
 > CREW documented $13.6 million in direct payments from foreign governments to Trump properties during his first term. The figure is a floor, not a ceiling, covering only documented bookings and transfers that left paper trails.
 
-### Domestic Government Spending — The Inside Squeeze
+### Domestic Government Spending. The Inside Squeeze
 
 The Secret Service, military delegations, and cabinet members held meetings and stayed at Trump properties. This was government extraction from inside the administration itself. The Secret Service alone spent nearly $2 million at Trump properties, creating a direct transfer from federal budget to Trump's pocket while providing security for him.
 
-Cabinet meetings were held at Mar-a-Lago. Military officials traveling on official business stayed at Trump properties. Each event was a bill—direct revenue from the budget Trump controlled.
+Cabinet meetings were held at Mar-a-Lago. Military officials traveling on official business stayed at Trump properties. Each event was a bill, direct revenue from the budget Trump controlled.
 
 ### Mar-a-Lago Membership Doubling and the Presidency Premium
 
-Trump raised Mar-a-Lago membership initiation fees from $100,000 to $200,000 effective January 1, 2017—the moment he entered office. The $200,000 fee had been the standard until 2012, when it was cut to $100,000 after the Bernie Madoff scandal decimated Palm Beach wealthy membership.
+Trump raised Mar-a-Lago membership initiation fees from $100,000 to $200,000 effective January 1, 2017, the moment he entered office. The $200,000 fee had been the standard until 2012, when it was cut to $100,000 after the Bernie Madoff scandal decimated Palm Beach wealthy membership.
 
 The restoration of the doubled fee explicitly capitalized on presidential access. Members paid for proximity to power, for the ability to dine alongside the president, for the "winter White House" label. By 2024, the initiation fee had climbed to $1 million, with the Trump Organization claiming "we are not desperate" while justifying unlimited extraction from those seeking presidential access.
 
 The membership model is pure venue extraction: charge for the space where power happens.
 
-### Trump International Hotel DC — The GSA Conflict and $375 Million Sale
+### Trump International Hotel DC. The GSA Conflict and $375 Million Sale
 
-The Trump International Hotel occupied the Old Post Office, a federally-owned building that the GSA (General Services Administration) leased to the Trump Organization in 2013. The lease itself contained a clause prohibiting elected officials from benefiting—Trump violated this by being the sole beneficiary of a trust controlling the property.
+The Trump International Hotel occupied the Old Post Office, a federally-owned building that the GSA (General Services Administration) leased to the Trump Organization in 2013. The lease itself contained a clause prohibiting elected officials from benefiting, Trump violated this by being the sole beneficiary of a trust controlling the property.
 
-Trump's lawyers submitted false financial statements to win the original lease bid, which the House Oversight Committee later documented as "incomplete, misleading, and in violation of the express terms of the solicitation." The Office of Government Ethics found the emoluments violation during his first term but lacked the constitutional standing to enforce it. Federal courts dismissed three emoluments cases on standing and mootness grounds—they never adjudicated the merits.
+Trump's lawyers submitted false financial statements to win the original lease bid, which the House Oversight Committee later documented as "incomplete, misleading, and in violation of the express terms of the solicitation." The Office of Government Ethics found the emoluments violation during his first term but lacked the constitutional standing to enforce it. Federal courts dismissed three emoluments cases on standing and mootness grounds, they never adjudicated the merits.
 
-In May 2022, the Trump Organization sold the lease to CGI Merchant Group and Hilton for $370 million. Trump's profit exceeded $100 million. The GSA approved the "qualified transferee" after "extensive internal and third-party review"—approving the sale of a property built on a falsified lease to a government agency Trump had controlled.
+In May 2022, the Trump Organization sold the lease to CGI Merchant Group and Hilton for $370 million. Trump's profit exceeded $100 million. The GSA approved the "qualified transferee" after "extensive internal and third-party review", approving the sale of a property built on a falsified lease to a government agency Trump had controlled.
 
 > [!contradiction]
 > The lease itself forbade elected officials from profiting. Trump was both the prohibited official AND the beneficiary. The law was never enforced.
 
 ### T-Mobile/Sprint Merger and the Hotel Pressure Campaign
 
-T-Mobile spent $195,000 at the Trump International Hotel DC during the period when the DOJ was reviewing its $26 billion Sprint merger. The company reserved 52 nights in Trump hotel rooms after announcing the merger—a dramatic increase from pre-announcement bookings.
+T-Mobile spent $195,000 at the Trump International Hotel DC during the period when the DOJ was reviewing its $26 billion Sprint merger. The company reserved 52 nights in Trump hotel rooms after announcing the merger, a dramatic increase from pre-announcement bookings.
 
 When questioned by Senator Elizabeth Warren and Representative Pramila Jayapal about whether the spending was an attempt to "curry favor" with Trump, T-Mobile acknowledged the pattern. Nine of the company's top executives checked in the day after the merger announcement. The DOJ approved the merger in 2019, with conditional divestitures to Dish Network.
 
 The hotel spending served as a visible extraction point: companies seeking federal approval paid Trump's business while awaiting agency decisions.
 
-### Branded Merchandise Extraction — The Grift Pyramid
+### Branded Merchandise Extraction. The Grift Pyramid
 
-Trump has reaped $600 million annually (per his financial disclosure) from branded merchandise: Bibles, sneakers, cologne, diamond-encrusted watches priced at $100,000, and NFTs. The product line shifted annually—gold sneakers in 2024, Bibles in 2025, victory cologne year-round.
+Trump has reaped $600 million annually (per his financial disclosure) from branded merchandise: Bibles, sneakers, cologne, diamond-encrusted watches priced at $100,000, and NFTs. The product line shifted annually, gold sneakers in 2024, Bibles in 2025, victory cologne year-round.
 
 NFTs generated between $100,000 and $1 million annually, depicting Trump as astronaut, cowboy, and superhero. The revenue was direct extraction from supporters who bought digital assets with no utility except symbolic ownership.
 
-The merchandise strategy targets the donor-base directly: supporters extract money from their own bank accounts to purchase Trump-branded goods. This creates a reversed donor relationship—instead of supporting a candidate, they are customers purchasing goods with no political value except the Trump brand.
+The merchandise strategy targets the donor-base directly: supporters extract money from their own bank accounts to purchase Trump-branded goods. This creates a reversed donor relationship, instead of supporting a candidate, they are customers purchasing goods with no political value except the Trump brand.
 
 ### The $TRUMP Meme Coin and Immediate Enrichment
 
@@ -77,18 +77,18 @@ World Liberty Financial (WLFI), announced in September 2024 and launched with th
 
 In a March 2025 revelation, a firm associated with the Abu Dhabi government purchased $2 billion worth of WLFI's USD1 stablecoin and secretly acquired a 49 percent stake in World Liberty for $500 million. The Emoluments Clause bars "any present, emolument, office, or title" from foreign governments to U.S. officials. Legal experts characterized the UAE deal as a direct violation.
 
-By December 2025, the Trump family had profited $1 billion on proceeds while holding $3 billion in unsold tokens—representing unbooked gains. The company announced plans for expansion into tokenized commodities and debit cards, leveraging presidential regulatory power to create new asset classes the Trump family could control.
+By December 2025, the Trump family had profited $1 billion on proceeds while holding $3 billion in unsold tokens, representing unbooked gains. The company announced plans for expansion into tokenized commodities and debit cards, leveraging presidential regulatory power to create new asset classes the Trump family could control.
 
 > [!money]
 > Foreign government capital (UAE $2 billion) invested into Trump family cryptocurrency while Trump held presidential power to regulate the industry. This is emoluments in real time.
 
 ### Truth Social / DJT Stock and the Valuation Disconnect
 
-Trump Media and Technology Group went public in March 2024 at nearly $11 billion valuation. Despite minimal revenue (2025: $3.68 million, losses of $712 million), the company maintained approximately $5 billion valuation by early 2026—nearly equaling Macy's and Wendy's combined.
+Trump Media and Technology Group went public in March 2024 at nearly $11 billion valuation. Despite minimal revenue (2025: $3.68 million, losses of $712 million), the company maintained approximately $5 billion valuation by early 2026, nearly equaling Macy's and Wendy's combined.
 
 Trump's insiders faced lock-up restrictions preventing stock sales until September 2024. Once those restrictions lapsed, Trump held a commanding stake in a company valued billions despite no profitable revenue model. The valuation existed entirely because Trump supporters purchased shares, inflating his net worth.
 
-By 2025, Trump Media transitioned toward a "Bitcoin treasury" model, holding $2.5 billion in assets. This shift converted the media company into a personal investment vehicle—shareholders funded a Trump family crypto portfolio.
+By 2025, Trump Media transitioned toward a "Bitcoin treasury" model, holding $2.5 billion in assets. This shift converted the media company into a personal investment vehicle, shareholders funded a Trump family crypto portfolio.
 
 The valuation premium exists solely because Trump is president. No other metric justifies the price. This is emoluments through stock inflation.
 
@@ -96,7 +96,7 @@ The valuation premium exists solely because Trump is president. No other metric 
 
 Trump's self-dealing operates through simultaneous extraction in opposite directions: from supporters (merchandise sales, meme coins, stock inflation) and from foreign governments and corporations (hotel stays, access fees, regulatory favors in exchange for crypto investment).
 
-Working-class supporters buy Bibles and sneakers and meme coins. Foreign governments and corporations pay hotel fees and invest in WLFI. Both flows move upward into Trump family accounts. The mechanism is indistinguishable from direct bribery—payment is made, service is rendered (regulatory, diplomatic, or simply proximity to power).
+Working-class supporters buy Bibles and sneakers and meme coins. Foreign governments and corporations pay hotel fees and invest in WLFI. Both flows move upward into Trump family accounts. The mechanism is indistinguishable from direct bribery, payment is made, service is rendered (regulatory, diplomatic, or simply proximity to power).
 
 The Emoluments Clause remains unenforced because no federal court has adjudicated its merits. The constitutional barrier to foreign government payments still stands, but no enforcement mechanism has triggered accountability.
 

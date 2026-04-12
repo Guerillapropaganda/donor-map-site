@@ -13,7 +13,7 @@ donors: [[Lockheed Martin]], [[Raytheon]], [[Northrop Grumman]], [[Boeing]]
 
 ---
 
-### The Defense Budget Pipeline — Record Peacetime Spending and Contractor Profits
+### The Defense Budget Pipeline. Record Peacetime Spending and Contractor Profits
 
 > [!money]
 > FY2024: Biden signs $886.4 billion defense budget — highest peacetime spending in U.S. history. Ukraine aid pipeline: $113+ billion to date (2021–2024). Defense sector campaign contributions to Biden allies: $83 million in 2022 cycle. Voting correlation: House Democrats who voted YES on defense budgets received 7x more defense contractor money than Democrats who voted NO. Raytheon, [[Lockheed Martin|Lockheed Martin]], Northrop Grumman all reported record profits 2021–2024. Simultaneously, Biden rejected "fiscally irresponsible" spending on working-class social programs (childcare, Medicare expansion, paid leave).
@@ -44,7 +44,7 @@ Biden's total defense budgets FY2021–FY2025:
 - FY2025 (requested): $850+ billion (estimated)
 - **Total: $4.08+ trillion in 5 years**
 
-This represents a 20% increase in defense spending from Trump's final year to Biden's peak — achieved during peacetime and during Biden's first term as president.
+This represents a 20% increase in defense spending from Trump's final year to Biden's peak, achieved during peacetime and during Biden's first term as president.
 
 > [!contradiction]
 > Biden's 2020 campaign promised to "end the endless wars" and redirect military spending to infrastructure and social programs. His defense budgets increased military spending by $150+ billion from Trump's final year, while describing social spending increases as "fiscally irresponsible" and "unaffordable."
@@ -113,7 +113,7 @@ Voting correlation (House of Representatives, FY2023 defense budget vote):
 | 2023-01-01 | House votes on FY2023 defense budget; Republicans voting YES receive defense contractor funds (exact date pending) | $147,000 per YES voter | ProPublica Congress/OpenSecrets |
 | 2023-01-01 | House votes on FY2023 defense budget; Republicans voting NO receive defense contractor funds (baseline) (exact date pending) | $11,800 per NO voter | ProPublica Congress/OpenSecrets |
 
-The correlation is crude but clear: voting for the defense budget correlates with 7–11x more money from defense contractors. This is not quid pro quo in the legal sense — the money goes to campaigns, not personal accounts. But the signal is unambiguous: vote for the budget, receive financial support.
+The correlation is crude but clear: voting for the defense budget correlates with 7–11x more money from defense contractors. This is not quid pro quo in the legal sense, the money goes to campaigns, not personal accounts. But the signal is unambiguous: vote for the budget, receive financial support.
 
 Biden allies in Congress (particularly Armed Services Committee members) received significantly more defense contractor money than anti-war Democrats.
 
@@ -161,11 +161,11 @@ The comparison is instructive: $370B for climate spending (legitimate) vs. $999B
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Biden's support for Ukraine against Russian invasion is genuine. Ukraine is a victim of unprovoked aggression. But the structural limit is visible: Biden's administration has not challenged defense contractor profit margins or proposed "excess profit" taxation on war-driven windfall earnings. The Ukraine support is genuine; the protection of contractor profitability is also intentional.
+**The Genuine Win + Structural Limit**. Biden's support for Ukraine against Russian invasion is genuine. Ukraine is a victim of unprovoked aggression. But the structural limit is visible: Biden's administration has not challenged defense contractor profit margins or proposed "excess profit" taxation on war-driven windfall earnings. The Ukraine support is genuine; the protection of contractor profitability is also intentional.
 
-**The Deficit Spending Double Standard** — Biden's administration accepts trillion-dollar deficits for military spending while rejecting billion-dollar deficits for social spending. This is a political choice. Deficits are not inherently good or bad — they reflect priorities. The priority choice: weapons manufacturing contracts > working-class social programs.
+**The Deficit Spending Double Standard**. Biden's administration accepts trillion-dollar deficits for military spending while rejecting billion-dollar deficits for social spending. This is a political choice. Deficits are not inherently good or bad, they reflect priorities. The priority choice: weapons manufacturing contracts > working-class social programs.
 
-**The Two-Audience Problem** — Biden's rhetoric emphasizes support for Ukraine and opposition to endless wars. His budgets reflect support for Ukraine and sustained military-industrial complex revenue. Both messages are true; the tension between them is unaddressed. Progressives see the Ukraine support and approve; defense contractors see the budget increases and approve.
+**The Two-Audience Problem**. Biden's rhetoric emphasizes support for Ukraine and opposition to endless wars. His budgets reflect support for Ukraine and sustained military-industrial complex revenue. Both messages are true; the tension between them is unaddressed. Progressives see the Ukraine support and approve; defense contractors see the budget increases and approve.
 
 ---
 
@@ -179,5 +179,5 @@ The comparison is instructive: $370B for climate spending (legitimate) vs. $999B
 - [Raytheon Technologies annual reports, 2020–2023](https://investors.rtx.com/financials/sec-filings) (Tier 1)
 - [Northrop Grumman annual reports, 2020–2023](https://www.northropgrumman.com/who-we-are/annual-reports) (Tier 1)
 - [USA Today: Ukraine aid reaches $113 billion](https://www.usatoday.com/story/news/politics/2024/01/15/biden-administration-ukraine-aid-package/66988220/) (Tier 2)
-- [Congressional Research Service: FY2024 Defense Budget Request — Context and Selected Issues](https://www.congress.gov/crs-product/R47582) (Tier 1)
+- [Congressional Research Service: FY2024 Defense Budget Request. Context and Selected Issues](https://www.congress.gov/crs-product/R47582) (Tier 1)
 

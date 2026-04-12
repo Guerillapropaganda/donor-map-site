@@ -45,13 +45,13 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-American Action Network (AAN). A 501(c)(4) conservative "social welfare" organization that functions as the dark money spine of House Republican leadership. Incorporated July 23, 2009; publicly launched February 2010. Founded by Republican strategist Fred Malek (Thayer Capital, RNC deputy chairman) and former Senator Norm Coleman (CEO), with Rob Collins (former chief of staff to House Minority Whip Eric Cantor) as president. Founding board included former Mississippi Governor Haley Barbour, former Florida Governor Jeb Bush, and former RNC Chairman Ed Gillespie — essentially the Republican Party's senior leadership bench assembled to create a permanent dark money infrastructure after Citizens United.
+American Action Network (AAN). A 501(c)(4) conservative "social welfare" organization that functions as the dark money spine of House Republican leadership. Incorporated July 23, 2009; publicly launched February 2010. Founded by Republican strategist Fred Malek (Thayer Capital, RNC deputy chairman) and former Senator Norm Coleman (CEO), with Rob Collins (former chief of staff to House Minority Whip Eric Cantor) as president. Founding board included former Mississippi Governor Haley Barbour, former Florida Governor Jeb Bush, and former RNC Chairman Ed Gillespie, essentially the Republican Party's senior leadership bench assembled to create a permanent dark money infrastructure after Citizens United.
 
-AAN was designed as the conservative answer to the Center for American Progress: a policy-and-media operation with no donor disclosure requirements. Since 2018, Republican strategist Dan Conston has served simultaneously as president of both AAN and its affiliated super PAC, the [[Congressional Leadership Fund]] — the structural fusion that makes the dark money pipeline explicit.
+AAN was designed as the conservative answer to the Center for American Progress: a policy-and-media operation with no donor disclosure requirements. Since 2018, Republican strategist Dan Conston has served simultaneously as president of both AAN and its affiliated super PAC, the [[Congressional Leadership Fund]], the structural fusion that makes the dark money pipeline explicit.
 
 AAN does not disclose its donors. Its political spending is classified as 501(c)(4) "issue advocacy" rather than FEC-reportable electoral spending, allowing unlimited contributions from corporations, trade associations, and wealthy individuals to flow into Republican political advertising without public attribution.
 
-**Scale:** AAN raised $170 million between 2009 and 2017. In the 2022 cycle alone it raised $82.2 million — the largest single-cycle total in its history. Total 2024 spending: $69 million, of which $43 million was transferred directly to CLF.
+**Scale:** AAN raised $170 million between 2009 and 2017. In the 2022 cycle alone it raised $82.2 million, the largest single-cycle total in its history. Total 2024 spending: $69 million, of which $43 million was transferred directly to CLF.
 
 ---
 
@@ -59,7 +59,7 @@ AAN does not disclose its donors. Its political spending is classified as 501(c)
 
 AAN's operational agenda tracks directly to the financial interests of its known and suspected donors:
 
-**Pharmaceutical industry:** Oppose Medicare drug price negotiation. Oppose drug pricing controls. Protect the ACA's pharmaceutical excise fees from elimination via repeal — while simultaneously running anti-ACA advertising that softens public opposition to repeal. Protect the patent and exclusivity system that sustains pharmaceutical profit margins.
+**Pharmaceutical industry:** Oppose Medicare drug price negotiation. Oppose drug pricing controls. Protect the ACA's pharmaceutical excise fees from elimination via repeal, while simultaneously running anti-ACA advertising that softens public opposition to repeal. Protect the patent and exclusivity system that sustains pharmaceutical profit margins.
 
 **Health insurance industry:** Block ACA consumer protections (coverage mandates, pre-existing condition requirements, essential health benefit requirements) that constrain insurer pricing power. Frame repeal as "patient choice" to obscure the industry benefit.
 
@@ -67,18 +67,18 @@ AAN's operational agenda tracks directly to the financial interests of its known
 
 **Dark money architecture:** Preserve the legal fiction that 501(c)(4) spending is "social welfare" rather than electoral. Block any disclosure requirements that would expose the corporate funding behind Republican legislative campaigns. Keep the CLF-AAN dual structure legally intact.
 
-**House majority:** Protect vulnerable House Republicans who cast votes for donor-class legislation — tax cuts, healthcare repeal, drug pricing protection — by flooding their districts with favorable advertising that reframes those votes for constituents.
+**House majority:** Protect vulnerable House Republicans who cast votes for donor-class legislation, tax cuts, healthcare repeal, drug pricing protection, by flooding their districts with favorable advertising that reframes those votes for constituents.
 
 ---
 
-### Who They Fund — The CLF Pipeline
+### Who They Fund. The CLF Pipeline
 
 AAN's primary expenditure function is as the dark money feeder to the [[Congressional Leadership Fund]], the super PAC aligned with House Republican leadership. The structure:
 
 - **AAN (501(c)(4)):** Receives unlimited, anonymous donations from corporations and wealthy donors. Does not disclose donors to public. Files 990s with IRS annually. Spends on "issue advocacy" ads directly (not disclosed to FEC) and transfers funds to CLF.
 - **CLF (Super PAC):** Discloses donors publicly to FEC. Makes explicit independent expenditures for and against named candidates. AAN is consistently CLF's single largest donor.
 
-Dan Conston has led both organizations simultaneously since 2018. This dual leadership makes the coordination between the anonymous funding stream and the explicit electoral spending explicit and structural — not incidental.
+Dan Conston has led both organizations simultaneously since 2018. This dual leadership makes the coordination between the anonymous funding stream and the explicit electoral spending explicit and structural, not incidental.
 
 ### Cycle-by-cycle CLF transfers:
 
@@ -88,23 +88,23 @@ Dan Conston has led both organizations simultaneously since 2018. This dual lead
 | 2022 | $51.5M | $227.3M | ~23% |
 | 2024 | $43M | $243M | ~18% |
 
-AAN also spent tens of millions per cycle on direct "issue advocacy" advertising — TV, digital, direct mail, robocalls — not reported to the FEC. These direct expenditures provided legislative cover for Republican House members during floor votes on tax reform and ACA repeal.
+AAN also spent tens of millions per cycle on direct "issue advocacy" advertising. TV, digital, direct mail, robocalls, not reported to the FEC. These direct expenditures provided legislative cover for Republican House members during floor votes on tax reform and ACA repeal.
 
 ---
 
-### What They've Gotten — Donation-to-Policy Returns
+### What They've Gotten. Donation-to-Policy Returns
 
 AAN's issue advocacy spending has provided cover for, and directly preceded, the following policy outcomes:
 
-**Tax Cuts and Jobs Act (December 2017):** AAN spent $27+ million in the 2017-2018 cycle on media advocacy, with $14 million to Mentzer Media Services and $10 million to Strategic Media Services for TV and digital campaigns framing the TCJA as a "middle-class tax cut." The TCJA: cut the corporate rate from 35% to 21% permanently; made individual rate cuts temporary (expiring 2025); directed 83% of total benefits to the top 1% by 2027. AAN's PhRMA funding ($6.1M in 2017 alone) coincided with TCJA provisions that eliminated the ACA's pharmaceutical industry fee — a direct financial return for the pharmaceutical lobby.
+**Tax Cuts and Jobs Act (December 2017):** AAN spent $27+ million in the 2017-2018 cycle on media advocacy, with $14 million to Mentzer Media Services and $10 million to Strategic Media Services for TV and digital campaigns framing the TCJA as a "middle-class tax cut." The TCJA: cut the corporate rate from 35% to 21% permanently; made individual rate cuts temporary (expiring 2025); directed 83% of total benefits to the top 1% by 2027. AAN's PhRMA funding ($6.1M in 2017 alone) coincided with TCJA provisions that eliminated the ACA's pharmaceutical industry fee, a direct financial return for the pharmaceutical lobby.
 
-**ACA Repeal Attempts (2017):** AAN spent $10 million on a robocall and television campaign across 75 congressional districts supporting ACA repeal. The American Health Care Act (AHCA) would have eliminated the pharmaceutical industry excise fee ($28 billion over a decade) — a direct financial return for PhRMA's investment in AAN. The AHCA failed on the Senate floor; the individual mandate was repealed via TCJA.
+**ACA Repeal Attempts (2017):** AAN spent $10 million on a robocall and television campaign across 75 congressional districts supporting ACA repeal. The American Health Care Act (AHCA) would have eliminated the pharmaceutical industry excise fee ($28 billion over a decade), a direct financial return for PhRMA's investment in AAN. The AHCA failed on the Senate floor; the individual mandate was repealed via TCJA.
 
-**House Republican Majority — 2022 and 2024:** AAN's $82.2 million in 2022 and $69 million in 2024, channeled primarily through CLF ($51.5M and $43M respectively), supported the Republican House majorities that passed the first TCJA extension votes and blocked Medicare drug price negotiation expansion.
+**House Republican Majority, 2022 and 2024:** AAN's $82.2 million in 2022 and $69 million in 2024, channeled primarily through CLF ($51.5M and $43M respectively), supported the Republican House majorities that passed the first TCJA extension votes and blocked Medicare drug price negotiation expansion.
 
 ---
 
-### Money Flow — Source to Impact
+### Money Flow. Source to Impact
 
 ### Donation-to-Policy Timeline
 
@@ -133,17 +133,17 @@ AAN operates in formal tandem with the [[Congressional Leadership Fund]], sharin
 
 **AAN (501(c)(4)):** Does not disclose donors; runs "issue advocacy" ads; files with IRS. Spent $69 million in 2024, of which $43 million flowed to CLF.
 
-The dual structure gives donors a menu of visibility options: those willing to be publicly identified contribute to CLF directly; those who want corporate anonymity (pharmaceutical companies worried about consumer backlash, insurers lobbying against their own customers' interests) contribute to AAN. AAN's transfers to CLF then appear on FEC disclosures as a single-line contribution from "American Action Network" — visible, but stripped of the underlying corporate source.
+The dual structure gives donors a menu of visibility options: those willing to be publicly identified contribute to CLF directly; those who want corporate anonymity (pharmaceutical companies worried about consumer backlash, insurers lobbying against their own customers' interests) contribute to AAN. AAN's transfers to CLF then appear on FEC disclosures as a single-line contribution from "American Action Network", visible, but stripped of the underlying corporate source.
 
-Dan Conston's leadership of both organizations has been held simultaneously since the 2018 midterms — a structural choice that eliminates any pretense of independence between the organizations.
+Dan Conston's leadership of both organizations has been held simultaneously since the 2018 midterms, a structural choice that eliminates any pretense of independence between the organizations.
 
 ---
 
-### The Legal Challenge — CREW v. FEC
+### The Legal Challenge. CREW v. FEC
 
-Citizens for Responsibility and Ethics in Washington (CREW) filed a complaint with the FEC arguing that AAN's spending was primarily electoral — not "social welfare" as required for 501(c)(4) status — and should have been subject to FEC disclosure. When the FEC deadlocked (the commission's chronic 3-3 partisan split prevents enforcement in politically sensitive cases), CREW sued the FEC in federal court.
+Citizens for Responsibility and Ethics in Washington (CREW) filed a complaint with the FEC arguing that AAN's spending was primarily electoral, not "social welfare" as required for 501(c)(4) status, and should have been subject to FEC disclosure. When the FEC deadlocked (the commission's chronic 3-3 partisan split prevents enforcement in politically sensitive cases), CREW sued the FEC in federal court.
 
-The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spends tens of millions on ads that name candidates, run during election seasons, and target competitive districts — but classifies spending as "issue advocacy" to avoid disclosure. The FEC's structural dysfunction ensures this fiction is never challenged through enforcement.
+The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spends tens of millions on ads that name candidates, run during election seasons, and target competitive districts, but classifies spending as "issue advocacy" to avoid disclosure. The FEC's structural dysfunction ensures this fiction is never challenged through enforcement.
 
 > [!contradiction]
 > AAN's 501(c)(4) status requires that its "primary purpose" be social welfare, not political activity. In practice, AAN has spent over $350 million across 15 years — virtually all of it on political advertising timed to election cycles and legislative battles. PhRMA gave AAN $6.1 million in 2017 publicly claiming to support the ACA while AAN ran anti-ACA ads in 75 congressional districts. Aetna gave AAN $3.3 million while publicly insisting it supported healthcare reform. The "social welfare" classification is the legal fiction that makes this possible — and the FEC's dysfunction ensures the fiction is never tested.
@@ -163,16 +163,16 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 
 ### Enemies / Opposition
 
-- **CREW (Citizens for Responsibility and Ethics in Washington)** — filed FEC complaint, subsequently filed federal lawsuit when FEC deadlocked; see [[CREW - Citizens for Responsibility and Ethics in Washington]]
-- **Campaign Legal Center** — tracks and challenges the CLF-AAN dark money pipeline; has documented AAN as the mechanism for concealing super PAC donors
-- **OpenSecrets / Issue One** — investigative documentation of AAN's known donors (PhRMA, Aetna, RJC) and cycle-by-cycle spending
-- **Democratic Congressional Campaign Committee (DCCC)** — the direct electoral counter-organization; runs comparable dark money operations through its own 501(c)(4) counterpart
+- **CREW (Citizens for Responsibility and Ethics in Washington)**, filed FEC complaint, subsequently filed federal lawsuit when FEC deadlocked; see [[CREW - Citizens for Responsibility and Ethics in Washington]]
+- **Campaign Legal Center**, tracks and challenges the CLF-AAN dark money pipeline; has documented AAN as the mechanism for concealing super PAC donors
+- **OpenSecrets / Issue One**, investigative documentation of AAN's known donors (PhRMA, Aetna, RJC) and cycle-by-cycle spending
+- **Democratic Congressional Campaign Committee (DCCC)**, the direct electoral counter-organization; runs comparable dark money operations through its own 501(c)(4) counterpart
 
 ---
 
 ### Connected Policy Areas
 
-- Tax policy: [[Tax Cuts and Jobs Act]] — AAN's $27M media campaign provided political cover for the 2017 corporate tax cut
+- Tax policy: [[Tax Cuts and Jobs Act]]. AAN's $27M media campaign provided political cover for the 2017 corporate tax cut
 - Healthcare: ACA repeal campaigns 2017; prescription drug pricing opposition
 - House elections: 2022 and 2024 cycle Republican majority maintenance via CLF transfers
 - Dark money architecture: the 501(c)(4)-to-super PAC transfer structure that all four congressional leadership outside groups use
@@ -181,24 +181,24 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 
 ### Sources
 
-- [FEC Independent Expenditures: American Action Network — outside spending profile](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
-- [OpenSecrets: American Action Network — organizational totals](https://www.opensecrets.org/orgs/american-action-network/totals?id=D000060058) (NEEDS REVIEW) (Tier 1)
+- [FEC Independent Expenditures: American Action Network, outside spending profile](https://www.fec.gov/data/independent-expenditures/) (Tier 1)
+- [OpenSecrets: American Action Network, organizational totals](https://www.opensecrets.org/orgs/american-action-network/totals?id=D000060058) (NEEDS REVIEW) (Tier 1)
 - [OpenSecrets News: Party-aligned groups funnel millions in dark money to super PACs ahead of 2024](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1)
 - [OpenSecrets News: Dark money topped $1 billion in 2020](https://www.opensecrets.org/news/2021/03/one-billion-dark-money-2020-electioncycle/) (Tier 1)
-- [ProPublica Nonprofit Explorer: American Action Network Inc — IRS 990 filings](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1)
-- [CNBC: Conservative dark money group AAN reveals spending blitz to push Trump tax cut — $27M+ 2017-2018](https://www.cnbc.com/2019/05/23/conservative-dark-money-group-american-action-network-reveals-spending-blitz-to-push-trump-tax-cut.html) (Tier 2)
-- [Issue One: Top 15 dark money groups — AAN donors PhRMA $12M, RJC $4M, Aetna $3.3M](https://issueone.org/donors-key-findings-and-profiles-of-the-top-15-dark-money-groups/) (Tier 2)
-- [Sludge: Congressional leaders are embracing dark money like never before — AAN-CLF dual structure, Dan Conston](https://readsludge.com/2023/03/01/congressional-leaders-are-embracing-dark-money-like-never-before/) (Tier 2)
-- [HealthLeaders Media: Drug trade group quietly spends dark money to sway policy — PhRMA $6.1M to AAN in 2017](https://www.healthleadersmedia.com/strategy/drug-trade-group-quietly-spends-dark-money-sway-policy-and-voters) (Tier 2)
+- [ProPublica Nonprofit Explorer: American Action Network Inc. IRS 990 filings](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1)
+- [CNBC: Conservative dark money group AAN reveals spending blitz to push Trump tax cut, $27M+ 2017-2018](https://www.cnbc.com/2019/05/23/conservative-dark-money-group-american-action-network-reveals-spending-blitz-to-push-trump-tax-cut.html) (Tier 2)
+- [Issue One: Top 15 dark money groups. AAN donors PhRMA $12M, RJC $4M, Aetna $3.3M](https://issueone.org/donors-key-findings-and-profiles-of-the-top-15-dark-money-groups/) (Tier 2)
+- [Sludge: Congressional leaders are embracing dark money like never before. AAN-CLF dual structure, Dan Conston](https://readsludge.com/2023/03/01/congressional-leaders-are-embracing-dark-money-like-never-before/) (Tier 2)
+- [HealthLeaders Media: Drug trade group quietly spends dark money to sway policy. PhRMA $6.1M to AAN in 2017](https://www.healthleadersmedia.com/strategy/drug-trade-group-quietly-spends-dark-money-sway-policy-and-voters) (Tier 2)
 - [CREW: Lawsuit against FEC over AAN political spending classification](https://www.citizensforethics.org/legal-action/lawsuits/crew-sues-fec-over-american-action-network-complaint/) (Tier 2)
-- [Campaign Legal Center: Super PACs are continuing to hide secret money — CLF-AAN pipeline](https://campaignlegal.org/update/super-pacs-are-continuing-hide-secret-money-wealthy-special-interests-heres-how) (Tier 2)
-- [SourceWatch: American Action Network — founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network) (Tier 3)
+- [Campaign Legal Center: Super PACs are continuing to hide secret money. CLF-AAN pipeline](https://campaignlegal.org/update/super-pacs-are-continuing-hide-secret-money-wealthy-special-interests-heres-how) (Tier 2)
+- [SourceWatch: American Action Network, founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network) (Tier 3)
 - [Ballotpedia: American Action Network](https://ballotpedia.org/American_Action_Network) (Tier 3)
 - [Wikipedia: American Action Network](https://en.wikipedia.org/wiki/American_Action_Network) (Tier 3)
 
 ### Federal Subawards & Spending Breakdown
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

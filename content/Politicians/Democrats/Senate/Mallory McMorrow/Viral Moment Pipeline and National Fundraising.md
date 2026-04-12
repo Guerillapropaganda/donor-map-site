@@ -23,7 +23,7 @@ donors: Tech Sector Donors · Online Progressive Community · MSNBC/CNN Amplific
 
 ### The Mechanism: April 19, 2022
 
-**The moment:** Michigan Republican state legislator Lana Theis sent a fundraising email calling Democratic state legislators (including McMorrow) "groomers" — a right-wing culture war attack. McMorrow responded on the Senate floor with an unscripted, emotional, direct rebuke. The speech:
+**The moment:** Michigan Republican state legislator Lana Theis sent a fundraising email calling Democratic state legislators (including McMorrow) "groomers", a right-wing culture war attack. McMorrow responded on the Senate floor with an unscripted, emotional, direct rebuke. The speech:
 
 - Lasted ~3 minutes
 - Was delivered without advance preparation
@@ -64,7 +64,7 @@ The immediate fundraising impact of the viral moment:
 - These are geographically dispersed donors responding to social media/news coverage
 - They are largely unknown to McMorrow personally
 - They are motivated by the moment itself, not by long-term relationship to the candidate
-- The $250K haul is politically significant: it can fund media buys, digital ads, mail, polling — critical infrastructure for statewide campaigns
+- The $250K haul is politically significant: it can fund media buys, digital ads, mail, polling, critical infrastructure for statewide campaigns
 
 > [!money]
 > The $250K one-day haul proves that viral moments are directly monetizable by national progressive donor networks. The mechanism is: (1) compelling video moment, (2) media/celebrity amplification, (3) emotional response from nationally distributed progressives, (4) immediate conversion to donations. This process happened in 24 hours, suggesting that there is an aggregated pool of progressive donors ready to donate to candidates who perform well in culture war moments.
@@ -82,13 +82,13 @@ The 2022 viral speech created momentum that translated into sustained fundraisin
 | 2024 | Sustained national profile | DNC keynote address, CNN/MSNBC regular appearances, book deals potential |
 | 2026 Senate campaign (to date) | $5+ million | National donor base built on 2022 foundation |
 
-**Key insight:** The viral moment itself generated $250K. But the sustained national profile — maintained through media appearances, DNC keynote, national donor cultivation — generated the ability to raise $5M+ for Senate race. The moment was the initial catalyst; the infrastructure building was the sustaining mechanism.
+**Key insight:** The viral moment itself generated $250K. But the sustained national profile, maintained through media appearances, DNC keynote, national donor cultivation, generated the ability to raise $5M+ for Senate race. The moment was the initial catalyst; the infrastructure building was the sustaining mechanism.
 
 ---
 
 ### The Viral Moment Fundraising Model vs. Traditional Models
 
-### Traditional model (e.g., El-Sayed):
+### Traditional model (e.g. El-Sayed):
 1. Candidate announces
 2. Candidate builds ground organization
 3. Candidate does hundreds of local events

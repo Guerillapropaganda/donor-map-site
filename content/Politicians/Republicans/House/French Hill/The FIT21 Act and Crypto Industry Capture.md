@@ -15,7 +15,7 @@ donors: [[Coinbase]] [[Fairshake PAC]] [[Marc Andreessen & Horowitz]] [[Goldman 
 
 ### The Legislative Architecture of Crypto Deregulation
 
-FIT21 — the Financial Innovation and Technology for the 21st Century Act — is French Hill's signature legislative achievement and the crypto industry's most important policy win. The bill creates a regulatory framework that classifies most cryptocurrencies as commodities regulated by the CFTC rather than securities regulated by the SEC. This distinction is worth hundreds of billions to the crypto industry: CFTC regulation is lighter, cheaper, and more permissive than SEC oversight.
+FIT21, the Financial Innovation and Technology for the 21st Century Act, is French Hill's signature legislative achievement and the crypto industry's most important policy win. The bill creates a regulatory framework that classifies most cryptocurrencies as commodities regulated by the CFTC rather than securities regulated by the SEC. This distinction is worth hundreds of billions to the crypto industry: CFTC regulation is lighter, cheaper, and more permissive than SEC oversight.
 
 Hill co-authored FIT21, shepherded it through the Financial Services Committee, and secured its passage in the House 279-136 in May 2024 with bipartisan support. The bill's passage followed a 2023-2024 cycle in which Hill received $48,000+ from [[Coinbase]] (the bill's primary corporate beneficiary), $32,500 from [[Marc Andreessen & Horowitz|Andreessen Horowitz]] executives, and $100,000+ from the crypto sector collectively.
 
@@ -42,7 +42,7 @@ The sequence is clean: money arrives, legislation is authored, legislation passe
 
 ### The CFPB Kill
 
-Hill's CFPB overdraft fee reversal is the second act of the donor-service function. The CFPB rule would have capped bank overdraft fees at $5 — saving consumers an estimated $5 billion annually. Hill led the House resolution overturning the rule, calling the cap "government price controls that hurt consumers." The banks that collected $15.5 billion in overdraft fees in 2019 are Hill's donors. The consumers whose fees would have been capped are not.
+Hill's CFPB overdraft fee reversal is the second act of the donor-service function. The CFPB rule would have capped bank overdraft fees at $5, saving consumers an estimated $5 billion annually. Hill led the House resolution overturning the rule, calling the cap "government price controls that hurt consumers." The banks that collected $15.5 billion in overdraft fees in 2019 are Hill's donors. The consumers whose fees would have been capped are not.
 
 ---
 

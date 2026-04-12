@@ -45,7 +45,7 @@ The clearest picture comes from Newsom's 2021 recall defense, when the real esta
 > — California Building Industry Association: $35,100+ (additional ongoing)
 > [Source: OpenSecrets / The Real Deal — Tier 1]
 
-The pattern is consistent. Individual homebuilder donations track below the federal contribution cap but are coordinated with trade association giving. The California Association of Realtors, which represents 200,000+ agents, gives at scale ($1.5M+ to recall). The California Building Industry Association, representing major constructors, gives at scale. Small individual builder donations ($32.4K each, near the legal maximum) ensure participation. Trade associations (CREPAC — California Real Estate PAC) provide infrastructure for coordinated giving.
+The pattern is consistent. Individual homebuilder donations track below the federal contribution cap but are coordinated with trade association giving. The California Association of Realtors, which represents 200,000+ agents, gives at scale ($1.5M+ to recall). The California Building Industry Association, representing major constructors, gives at scale. Small individual builder donations ($32.4K each, near the legal maximum) ensure participation. Trade associations (CREPAC. California Real Estate PAC) provide infrastructure for coordinated giving.
 
 ---
 
@@ -55,13 +55,13 @@ Newsom's housing narrative since 2019 has been consistent. The problem is supply
 
 Bills signed:
 
-— **SB 9 (2021)** — allows splitting single-family parcels and adding duplexes without local approval. Facilitates speculative development on residential lots. Lennar model: buy single-family home, split lot, develop quickly, flip at premium.
+, **SB 9 (2021)**, allows splitting single-family parcels and adding duplexes without local approval. Facilitates speculative development on residential lots. Lennar model: buy single-family home, split lot, develop quickly, flip at premium.
 
-— **SB 10 (2021)** — allows local governments to zone for up to 10 units in transit areas without environmental review. Speeds approval timelines. Benefits larger developers who can move capital quickly through process.
+, **SB 10 (2021)**, allows local governments to zone for up to 10 units in transit areas without environmental review. Speeds approval timelines. Benefits larger developers who can move capital quickly through process.
 
-— **AB 70 (2022)** — streamlines approvals for workforce housing. Reduces public participation in planning process.
+, **AB 70 (2022)**, streamlines approvals for workforce housing. Reduces public participation in planning process.
 
-— **SB 423 (2023)** — removes local authority over parking minimums in residential projects. Reduces developer construction costs by up to 20 percent.
+, **SB 423 (2023)**, removes local authority over parking minimums in residential projects. Reduces developer construction costs by up to 20 percent.
 
 > [!contradiction]
 > **The supply-side promise: more units = lower prices. The material outcome: builder profit volume without affordability mandates.** California has added housing units under the supply-side framework. But the vast majority are market-rate or luxury units built on shorter timelines with lower costs because parking, affordable unit set-asides, and community process are reduced or eliminated. The units that would house workers (affordable housing) require tax credits, subsidies, or forced set-asides — all politically difficult. The units that profit developers (market-rate, no affordability requirements) flow from the streamlined approval process. Newsom delivers what his donors can build profitably. The progressive frame obscures that the material outcome serves supply without affordability.
@@ -71,17 +71,17 @@ Bills signed:
 ### Who Benefits and Who Loses
 
 ### Who Benefits:
-— Large developers (Lennar, Related, Taylor Morrison, KB Home, Meritage, Shea, Pulte): faster approvals, lower construction costs, no affordability mandate requirements. Return on capital increases.
-— Real estate agents and brokers (CAR members): more development activity = more transactions, higher prices = higher commissions.
-— Property owners in appreciating markets: zoning that allows denser development increases land values. Speculation increases.
-— Landlords in existing buildings (apartment associations): increased property values, ability to raise rents because new development is expensive and luxury-focused.
+, Large developers (Lennar, Related, Taylor Morrison, KB Home, Meritage, Shea, Pulte): faster approvals, lower construction costs, no affordability mandate requirements. Return on capital increases.
+, Real estate agents and brokers (CAR members): more development activity = more transactions, higher prices = higher commissions.
+, Property owners in appreciating markets: zoning that allows denser development increases land values. Speculation increases.
+, Landlords in existing buildings (apartment associations): increased property values, ability to raise rents because new development is expensive and luxury-focused.
 
 ### Who Loses:
-— Low-income renters: new housing is expensive to build and expensive to live in. No new affordability if no affordability mandate in building code.
-— Unhoused people: 2024 point-in-time count showed 186,405 people experiencing homelessness in California. Supply-side policies do not address those with no market capacity to rent any unit.
-— Homeless workers: housing units that are economically accessible require subsidies not built into streamlined approval framework.
-— Communities with local land-use authority (cities, neighborhoods): streamlined approval reduces public participation in land-use decisions. Zoning changes happen faster with less community input.
-— Tenants in low-cost buildings: when zoning allows density increase on older, lower-cost residential stock, property owners can evict (or make uninhabitable) and redevelop. Coastal gentrification pattern accelerates.
+, Low-income renters: new housing is expensive to build and expensive to live in. No new affordability if no affordability mandate in building code.
+, Unhoused people: 2024 point-in-time count showed 186,405 people experiencing homelessness in California. Supply-side policies do not address those with no market capacity to rent any unit.
+, Homeless workers: housing units that are economically accessible require subsidies not built into streamlined approval framework.
+, Communities with local land-use authority (cities, neighborhoods): streamlined approval reduces public participation in land-use decisions. Zoning changes happen faster with less community input.
+, Tenants in low-cost buildings: when zoning allows density increase on older, lower-cost residential stock, property owners can evict (or make uninhabitable) and redevelop. Coastal gentrification pattern accelerates.
 
 > [!money]
 > **Homelessness spending and housing production are disconnected in Newsom's budget.** California state homelessness spending (2023-24): $3.1 billion across housing, programs, encampment cleanup. Homelessness declined 1.3% (2023-2024 point-in-time count). Meanwhile, housing production targets Newsom set for 2018 (3.5 million units by 2025) were missed by over 1 million units. The dollars go to both. Neither produces affordability because affordability requires direct subsidy (political cost: "government housing") or affordability mandate (political cost: reduced developer profit). Supply-side policy avoids both.
@@ -90,12 +90,12 @@ Bills signed:
 
 ### Remaining Research Needed
 
-1. **California Apartment Association contributions to Newsom** — $25K confirmed in recall (San Francisco Apartment Association), but full statewide CAA contributions through FPPC filings not yet pulled.
-2. **CREPAC (California Real Estate PAC) cycle-by-cycle contributions to Newsom** — 2018, 2022, 2024 cycles.
-3. **Developer PAC funding** — specific PACs formed by or representing Lennar, Related, KB Home, Shea, Meritage, Pulte in California.
-4. **National Association of Realtors contributions** — whether NAR's national PAC has given to Newsom (if applicable) or California state Realtors Association political spending.
-5. **Behested payment disclosures** — any housing industry nonprofit contributions to Newsom through behested payment mechanism.
-6. **City council candidates funded by developer PACs** — correlation between Newsom-aligned cities and developer-friendly zoning in 2020-2024.
+1. **California Apartment Association contributions to Newsom**, $25K confirmed in recall (San Francisco Apartment Association), but full statewide CAA contributions through FPPC filings not yet pulled.
+2. **CREPAC (California Real Estate PAC) cycle-by-cycle contributions to Newsom**, 2018, 2022, 2024 cycles.
+3. **Developer PAC funding**, specific PACs formed by or representing Lennar, Related, KB Home, Shea, Meritage, Pulte in California.
+4. **National Association of Realtors contributions**, whether NAR's national PAC has given to Newsom (if applicable) or California state Realtors Association political spending.
+5. **Behested payment disclosures**, any housing industry nonprofit contributions to Newsom through behested payment mechanism.
+6. **City council candidates funded by developer PACs**, correlation between Newsom-aligned cities and developer-friendly zoning in 2020-2024.
 
 ---
 
@@ -118,11 +118,11 @@ Bills signed:
 
 ### 1. Genuine Win + Structural Limit
 
-Housing production is real. Under SB 9 and SB 10, California has added housing. The units exist. Some workers live in them. That is a material good. The structural limit: the units that profit developers (market-rate, no affordability mandate) are the ones that flow from streamlined approval. The units that would house poor and unhoused people (affordable housing) require subsidies, tax credits, and forced affordability set-asides — the very things developers lobby against. Newsom delivers the win his donors can profit from. The structural limit is that supply-side policy alone does not produce affordability.
+Housing production is real. Under SB 9 and SB 10, California has added housing. The units exist. Some workers live in them. That is a material good. The structural limit: the units that profit developers (market-rate, no affordability mandate) are the ones that flow from streamlined approval. The units that would house poor and unhoused people (affordable housing) require subsidies, tax credits, and forced affordability set-asides, the very things developers lobby against. Newsom delivers the win his donors can profit from. The structural limit is that supply-side policy alone does not produce affordability.
 
 ### 2. Villain Framing
 
-Local land-use restrictions and NIMBY opposition become the named villains in housing debate. The actual structural obstacles — the need for developer profit margins and the political power of real estate donors — are never named. Newsom frames the barrier as cultural (NIMBYism) and technical (zoning complexity) rather than political (donor interest in deregulation). This allows him to appear pro-housing while advancing the specific housing policy that benefits his donors: deregulation without affordability mandate.
+Local land-use restrictions and NIMBY opposition become the named villains in housing debate. The actual structural obstacles, the need for developer profit margins and the political power of real estate donors, are never named. Newsom frames the barrier as cultural (NIMBYism) and technical (zoning complexity) rather than political (donor interest in deregulation). This allows him to appear pro-housing while advancing the specific housing policy that benefits his donors: deregulation without affordability mandate.
 
 ### 3. Two-Audience Problem
 
@@ -130,18 +130,18 @@ Progressive base and housing advocates hear: "California is addressing the housi
 
 ### 4. Pilot Program
 
-"Workforce housing" streamline (AB 70) is the exemplar: visible, measurable, addressing a specific problem (producing workforce housing for workers earning 80-120% of area median). But the streamline removes affordability mandate requirements, reducing the housing's actual affordability. The program exists. The structural limit — that developers will build "workforce housing" only if it returns market-rate profit — is built into the bill. Newsom signs visible programs compatible with donor class profit maximization.
+"Workforce housing" streamline (AB 70) is the exemplar: visible, measurable, addressing a specific problem (producing workforce housing for workers earning 80-120% of area median). But the streamline removes affordability mandate requirements, reducing the housing's actual affordability. The program exists. The structural limit, that developers will build "workforce housing" only if it returns market-rate profit, is built into the bill. Newsom signs visible programs compatible with donor class profit maximization.
 
 ---
 
 ### Key Research Priorities
 
-1. ~~Real estate recall defense donations~~ — **Done.** $3.3M documented (CAR, CBIA, individuals).
-2. ~~2022 homebuilder donations~~ — **Done.** Five major builders at $32.4K each, CBIA at $35.1K+.
-3. California Apartment Association full cycle-by-cycle contributions — **Not yet started.** FPPC pull needed.
-4. CREPAC contributions 2018, 2022, 2024 cycles — **Not yet started.**
-5. Developer PAC funding (Lennar, Related, KB Home specific) — **Not yet started.**
-6. Behested payments involving housing industry — **Not yet started.**
+1. ~~Real estate recall defense donations~~, **Done.** $3.3M documented (CAR, CBIA, individuals).
+2. ~~2022 homebuilder donations~~, **Done.** Five major builders at $32.4K each, CBIA at $35.1K+.
+3. California Apartment Association full cycle-by-cycle contributions, **Not yet started.** FPPC pull needed.
+4. CREPAC contributions 2018, 2022, 2024 cycles, **Not yet started.**
+5. Developer PAC funding (Lennar, Related, KB Home specific), **Not yet started.**
+6. Behested payments involving housing industry, **Not yet started.**
 
 ### Primary sources to pull:
 - [California FPPC](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1)

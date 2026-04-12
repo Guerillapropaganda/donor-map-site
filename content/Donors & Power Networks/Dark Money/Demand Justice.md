@@ -42,17 +42,17 @@ audit-a-plus-passed: "2026-04-11"
 
 ### Who They Are
 
-[[Demand Justice|Demand Justice]] is the Democratic Party's structural mirror image of [[Leonard Leo|Leonard Leo]]'s Federalist Society—an advocacy organization devoted entirely to judicial appointment warfare, funded through [[Sixteen Thirty Fund|Sixteen Thirty Fund]]'s dark money apparatus, and operated by Brian Fallon (former [[_Chuck Schumer Master Profile|Chuck Schumer]] press secretary, Hillary 2016 communications director). Founded as a project of [[Sixteen Thirty Fund|Sixteen Thirty Fund]] in 2018 (spun off into separate 501(c)(4) status in 2021), Demand Justice has deployed $50M+ in judicial confirmation battles, opposition campaigns against conservative nominees, and messaging infrastructure to delegitimize conservative SCOTUS composition. [Demand Justice - InfluenceWatch](https://www.influencewatch.org/organization/demand-justice/) (Tier 3) The organization's core function: transform judicial appointments from institutional process into partisan warfare, mirroring exactly what Republicans accomplished through the Federalist Society infrastructure built over decades.
+[[Demand Justice|Demand Justice]] is the Democratic Party's structural mirror image of [[Leonard Leo|Leonard Leo]]'s Federalist Society, an advocacy organization devoted entirely to judicial appointment warfare, funded through [[Sixteen Thirty Fund|Sixteen Thirty Fund]]'s dark money apparatus, and operated by Brian Fallon (former [[_Chuck Schumer Master Profile|Chuck Schumer]] press secretary, Hillary 2016 communications director). Founded as a project of [[Sixteen Thirty Fund|Sixteen Thirty Fund]] in 2018 (spun off into separate 501(c)(4) status in 2021), Demand Justice has deployed $50M+ in judicial confirmation battles, opposition campaigns against conservative nominees, and messaging infrastructure to delegitimize conservative SCOTUS composition. [Demand Justice - InfluenceWatch](https://www.influencewatch.org/organization/demand-justice/) (Tier 3) The organization's core function: transform judicial appointments from institutional process into partisan warfare, mirroring exactly what Republicans accomplished through the Federalist Society infrastructure built over decades.
 
 ### What They Want
 
 Demand Justice's stated mission is "fighting for a Supreme Court that protects civil rights." What that means operationally:
 
-1. **Opposition campaigns** — mobilize against conservative judicial nominees, particularly SCOTUS picks
-2. **Confirmation battle infrastructure** — phone banking, digital ads, grassroots pressure on Democratic senators to oppose/support nominees
-3. **Court delegitimization** — messaging campaigns that frame conservative courts as partisan and illegitimate (while claiming Democrats would restore legitimacy)
-4. **Judicial expansion advocacy** — ballot measures and legislative campaigns for court expansion, court-packing constitutional amendments
-5. **Alternative judge development** — identifying progressive judicial candidates, building Democratic judge pipeline (mirroring Federalist Society judge vetting)
+1. **Opposition campaigns**, mobilize against conservative judicial nominees, particularly SCOTUS picks
+2. **Confirmation battle infrastructure**, phone banking, digital ads, grassroots pressure on Democratic senators to oppose/support nominees
+3. **Court delegitimization**, messaging campaigns that frame conservative courts as partisan and illegitimate (while claiming Democrats would restore legitimacy)
+4. **Judicial expansion advocacy**, ballot measures and legislative campaigns for court expansion, court-packing constitutional amendments
+5. **Alternative judge development**, identifying progressive judicial candidates, building Democratic judge pipeline (mirroring Federalist Society judge vetting)
 
 The strategy is explicit: if you can't win legislative majorities, control who sits on courts that invalidate legislation. The mechanism: systematic dark money funding of organized judicial warfare.
 
@@ -77,19 +77,19 @@ The strategy is explicit: if you can't win legislative majorities, control who s
 
 ### Funding and Deployment Timeline
 
-**2018: Foundation Year** — $15M+ deployed
+**2018: Foundation Year**, $15M+ deployed
 
 Brian Fallon established Demand Justice as Sixteen Thirty Fund subsidiary (no separate filing). Primary focus: Kavanaugh confirmation opposition. Created infrastructure for Senate Democratic caucus coordination, grassroots organizing in purple-state Senate offices, opposition ads. The campaign failed (Kavanaugh confirmed 50-48 with one Democratic vote from Senator Manchin), but it established Democratic judicial confirmation capacity at scale.
 
-**2019-2020: Expansion Phase** — $25M+ deployed
+**2019-2020: Expansion Phase**, $25M+ deployed
 
-Coney Barrett nomination opposition ($8M+ spent). Expanded to federal appellate court confirmation battles. Built permanent donor base and monthly fundraising infrastructure. Began developing progressive judge candidate identification (mirroring Federalist Society vetting). 2020 election coordination: ballot measure campaigns framing SCOTUS composition as electoral issue. Operating as Sixteen Thirty subsidiary, all funding flows routed through Arabella's fiscal sponsorship structure—zero donor disclosure to public.
+Coney Barrett nomination opposition ($8M+ spent). Expanded to federal appellate court confirmation battles. Built permanent donor base and monthly fundraising infrastructure. Began developing progressive judge candidate identification (mirroring Federalist Society vetting). 2020 election coordination: ballot measure campaigns framing SCOTUS composition as electoral issue. Operating as Sixteen Thirty subsidiary, all funding flows routed through Arabella's fiscal sponsorship structure, zero donor disclosure to public.
 
-**2021: Spin-Off and Separation** — $12M+ deployed
+**2021: Spin-Off and Separation**, $12M+ deployed
 
 Demand Justice incorporates as separate 501(c)(4) nonprofit (May 2021), gaining its own tax filing and technical separate donor disclosure obligations. However: Sixteen Thirty Fund remains core funder, and [[Arabella Advisors|Arabella Advisors]] maintains operational relationship. Same people, same strategy, different legal wrapper. The spin-off allowed public perception that Demand Justice was "independent" while maintaining functional integration with Arabella network.
 
-**2022-2024: SCOTUS Legitimacy Warfare** — $18M+ deployed
+**2022-2024: SCOTUS Legitimacy Warfare**, $18M+ deployed
 
 Primary focus shifted from confirmation opposition (Democrats controlling Senate, Biden appointing) to delegitimization campaigns. Messaging infrastructure: SCOTUS court illegitimate, Republican judges violated norms, Roe decision was "political coup." Judicial expansion advocacy (court-packing ballot initiatives, constitutional amendment campaigns). Federal appellate confirmation battles. Build-out of progressive judge candidate database (Demand Justice now maintains list of ~500+ potential Democratic judicial nominees across state and federal levels, mirroring Federalist Society's judge vetting).
 
@@ -105,7 +105,7 @@ Primary focus shifted from confirmation opposition (Democrats controlling Senate
 
 **[[_Barack Obama Master Profile|Barack Obama]] 2010:** "I think it is a problem. I think it is a problem that will be fixed only by a constitutional amendment."
 
-**Then (operational reality):** Democratic Party discovered dark money was powerful (Sixteen Thirty Fund proved it in 2020—$410M deployed). Democratic response: not overturn Citizens United, not ban dark money, but deploy dark money infrastructure systematically. Demand Justice became the judicial warfare vehicle for this infrastructure.
+**Then (operational reality):** Democratic Party discovered dark money was powerful (Sixteen Thirty Fund proved it in 2020, $410M deployed). Democratic response: not overturn Citizens United, not ban dark money, but deploy dark money infrastructure systematically. Demand Justice became the judicial warfare vehicle for this infrastructure.
 
 > [!money]
 > **The contradiction is total and explicit: Democrats now run the exact dark money apparatus they positioned as existential threat. Demand Justice is Citizens United operationalized as Democratic strategy. Brian Fallon went from condemning Citizens United in Schumer's communications to running Citizens United-enabled judicial warfare.**

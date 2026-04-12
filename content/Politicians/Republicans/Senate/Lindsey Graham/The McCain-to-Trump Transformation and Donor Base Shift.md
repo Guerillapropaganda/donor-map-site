@@ -40,7 +40,7 @@ On October 2, 2018, during Senate Judiciary Committee hearings on [[_Brett Kavan
 
 Within weeks, Graham's fundraising exploded. The performance signaled to national conservative donors and Trump's network that Graham had fully committed to Trump's agenda. Before the hearing, Graham's quarterly fundraising hovered around $1-2 million. After the hearing, donations surged, beginning the transformation that would culminate in record-breaking 2020 hauls.
 
-**The donor pivot:** Graham's Kavanaugh performance replaced his McCain-era moderate donor base with Trump-aligned networks. By Q3 2019, he had raised $3.3 million in a single quarter — the most ever by a South Carolina candidate. This came directly from:
+**The donor pivot:** Graham's Kavanaugh performance replaced his McCain-era moderate donor base with Trump-aligned networks. By Q3 2019, he had raised $3.3 million in a single quarter, the most ever by a South Carolina candidate. This came directly from:
 - Trump small-dollar networks (MAGA donors)
 - Trump-aligned Super PACs
 - Federalist Society conservatives seeking Supreme Court confirmation
@@ -52,7 +52,7 @@ Within weeks, Graham's fundraising exploded. The performance signaled to nationa
 
 **Richard Wilkerson (Michelin North America, retired chairman):** Wilkerson had donated thousands to Graham since 2011, representing the McCain-era corporate moderate donor class. In 2020, Wilkerson publicly withdrew his support, stating: "What is the character of a man who will not defend his best friend? If he won't defend John McCain, why would I expect him to defend any of us in South Carolina?" Wilkerson then endorsed Democratic challenger Jaime Harrison. His withdrawal represented broader donor defection: corporate Republicans who valued bipartisan credibility and principle could not follow Graham into Trump's orbit.
 
-**The lost donor class:** Wilkerson exemplified the "McCain Republicans" — corporate moderates, business-first donors, and establishment conservatives who had built Graham's previous fundraising base. This class valued Graham's perceived independence and his loyalty to John McCain, which they saw as evidence of character and principle. When Graham abandoned McCain (and public defense of him from Trump attacks), these donors had to reassess. Some, like Wilkerson, switched sides. Others simply stopped giving.
+**The lost donor class:** Wilkerson exemplified the "McCain Republicans", corporate moderates, business-first donors, and establishment conservatives who had built Graham's previous fundraising base. This class valued Graham's perceived independence and his loyalty to John McCain, which they saw as evidence of character and principle. When Graham abandoned McCain (and public defense of him from Trump attacks), these donors had to reassess. Some, like Wilkerson, switched sides. Others simply stopped giving.
 
 ---
 
@@ -64,7 +64,7 @@ Within weeks, Graham's fundraising exploded. The performance signaled to nationa
 - Small-dollar MAGA networks previously untapped by Graham
 - Super PACs coordinating with the Trump apparatus
 
-**2020 cycle totals:** Graham raised $109.1 million and spent $96.4 million during the 2020 cycle — unprecedented for a South Carolina Senate race. Of this haul, 86% came from out-of-state donors. The single largest fundraising day was October 14, 2020 — the day the Senate Judiciary Committee (which Graham chairs) approved Amy Coney Barrett's Supreme Court nomination. On that day alone, Graham raised $5.1 million.
+**2020 cycle totals:** Graham raised $109.1 million and spent $96.4 million during the 2020 cycle, unprecedented for a South Carolina Senate race. Of this haul, 86% came from out-of-state donors. The single largest fundraising day was October 14, 2020, the day the Senate Judiciary Committee (which Graham chairs) approved Amy Coney Barrett's Supreme Court nomination. On that day alone, Graham raised $5.1 million.
 
 > [!money]
 > The timing is not coincidental. Graham chairs the committee that vets Supreme Court nominees. His July-October 2020 fundraising was directly tied to Barrett's nomination process and confirmation hearings. The more aggressively he pushed Barrett's confirmation, the more money flowed in. This is direct evidence of donor-return relationship: Graham's performance as Supreme Court gatekeeper generates immediate and measurable fundraising rewards.
@@ -73,7 +73,7 @@ Within weeks, Graham's fundraising exploded. The performance signaled to nationa
 
 ### Donor Disclosure Problems: The Missing $6 Million
 
-Among all Senate candidates running in 2020, Graham received the largest percentage of money from donors who did not disclose employment information. His campaign collected $6 million from large individual donors without providing occupation data — about 19 percent of his fundraising haul from large individual donors. This opacity makes it difficult to trace the full donor-to-policy pathways but suggests significant dark money or obscured donor networks supporting Graham's Trump alignment.
+Among all Senate candidates running in 2020, Graham received the largest percentage of money from donors who did not disclose employment information. His campaign collected $6 million from large individual donors without providing occupation data, about 19 percent of his fundraising haul from large individual donors. This opacity makes it difficult to trace the full donor-to-policy pathways but suggests significant dark money or obscured donor networks supporting Graham's Trump alignment.
 
 ---
 

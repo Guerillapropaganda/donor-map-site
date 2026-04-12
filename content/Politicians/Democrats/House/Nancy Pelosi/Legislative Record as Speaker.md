@@ -15,11 +15,11 @@ donors: [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Kaiser 
 
 ### Legislative Record as Speaker
 
-Pelosi served as Speaker during two of the most legislatively productive periods in modern congressional history (2007–2011, 2019–2023). Her legislative achievements are simultaneously genuine policy wins and donor-class-compatible outcomes — infrastructure that benefits both workers and the corporations that fund Democratic campaigns.
+Pelosi served as Speaker during two of the most legislatively productive periods in modern congressional history (2007–2011, 2019–2023). Her legislative achievements are simultaneously genuine policy wins and donor-class-compatible outcomes, infrastructure that benefits both workers and the corporations that fund Democratic campaigns.
 
 ---
 
-### ACA — The Affordable Care Act (2009–2010)
+### ACA. The Affordable Care Act (2009–2010)
 
 Pelosi was the architect of House passage. After Scott Brown's January 2010 upset Senate victory eliminated Democrats' filibuster-proof majority, most advisors recommended scaling back. Pelosi convinced Obama to proceed with the full bill.
 
@@ -28,9 +28,9 @@ Pelosi was the architect of House passage. After Scott Brown's January 2010 upse
 - Navigated the reconciliation process after the Senate pathway changed
 - Personally whipped votes from moderate Democrats who faced electoral risk
 
-**The donor-class analysis:** The ACA is Pelosi's most significant legislative achievement — and the one most aligned with the healthcare donor class. The ACA expanded coverage to ~20 million Americans while preserving the private insurance industry. Blue Shield, Kaiser, UnitedHealth, and [[Anthem - Elevance Health|Anthem]] all gained millions of new customers through the exchanges and Medicaid expansion. The healthcare donor class didn't oppose the ACA — they shaped it.
+**The donor-class analysis:** The ACA is Pelosi's most significant legislative achievement, and the one most aligned with the healthcare donor class. The ACA expanded coverage to ~20 million Americans while preserving the private insurance industry. Blue Shield, Kaiser, UnitedHealth, and [[Anthem - Elevance Health|Anthem]] all gained millions of new customers through the exchanges and Medicaid expansion. The healthcare donor class didn't oppose the ACA, they shaped it.
 
-See [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Kaiser Permanente]] — these companies' profits increased under the ACA. Single-payer would have eliminated them. The ACA preserved them. Pelosi delivered the version of healthcare reform that the donor class could live with.
+See [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Kaiser Permanente]], these companies' profits increased under the ACA. Single-payer would have eliminated them. The ACA preserved them. Pelosi delivered the version of healthcare reform that the donor class could live with.
 
 ---
 
@@ -38,17 +38,17 @@ See [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Kaiser Perm
 
 **First impeachment (December 18, 2019):** Abuse of power (Ukraine) and obstruction of Congress. Pelosi initially resisted impeachment pressure from progressives ("He's just not worth it"), then proceeded after the Ukraine call transcript. Passed 230-197 (abuse of power) and 229-198 (obstruction). Senate acquitted 52-48.
 
-**Second impeachment (January 13, 2021):** Incitement of insurrection (January 6). Passed 232-197 with 10 Republican votes — the most bipartisan impeachment in history. Senate acquitted 57-43 (10 short of conviction).
+**Second impeachment (January 13, 2021):** Incitement of insurrection (January 6). Passed 232-197 with 10 Republican votes, the most bipartisan impeachment in history. Senate acquitted 57-43 (10 short of conviction).
 
-**The class analysis:** Both impeachments performed accountability without achieving it. The House voted, the Senate acquitted, Trump remained viable. The impeachment function was symbolic — it satisfied the Democratic base's demand for action without producing structural consequences.
+**The class analysis:** Both impeachments performed accountability without achieving it. The House voted, the Senate acquitted, Trump remained viable. The impeachment function was symbolic, it satisfied the Democratic base's demand for action without producing structural consequences.
 
 ---
 
 ### CHIPS Act (2022)
 
-Pelosi was a key negotiator on the CHIPS and Science Act — $52 billion in semiconductor manufacturing subsidies plus $200 billion for scientific R&D.
+Pelosi was a key negotiator on the CHIPS and Science Act, $52 billion in semiconductor manufacturing subsidies plus $200 billion for scientific R&D.
 
-**The stock trading shadow:** Paul Pelosi sold 25,000 shares of Nvidia on July 26, 2022, at a ~$341,000 loss — two weeks before the House voted on CHIPS on July 28. The sale generated the most scrutiny of any Pelosi trade. Whether the sale was to avoid the appearance of conflict (selling before the vote) or to lock in a position based on legislative knowledge, the optics crystallized the stock trading controversy.
+**The stock trading shadow:** Paul Pelosi sold 25,000 shares of Nvidia on July 26, 2022, at a ~$341,000 loss, two weeks before the House voted on CHIPS on July 28. The sale generated the most scrutiny of any Pelosi trade. Whether the sale was to avoid the appearance of conflict (selling before the vote) or to lock in a position based on legislative knowledge, the optics crystallized the stock trading controversy.
 
 **[[IBEW - International Brotherhood of Electrical Workers|IBEW]] impact:** CHIPS Act construction of semiconductor fabrication plants created prevailing-wage construction jobs. The Intel Ohio facility, TSMC Arizona facility, and Samsung Texas facility all required union labor for construction.
 
@@ -56,9 +56,9 @@ Pelosi was a key negotiator on the CHIPS and Science Act — $52 billion in semi
 
 ### Build Back Better → Inflation Reduction Act
 
-**Original framework:** Build Back Better — $3.5 trillion in social and climate spending. Pelosi passed it through the House (November 19, 2021, 220-213).
+**Original framework:** Build Back Better, $3.5 trillion in social and climate spending. Pelosi passed it through the House (November 19, 2021, 220-213).
 
-**What happened:** Manchin killed it. Sinema helped. The $3.5 trillion framework collapsed to the $369 billion Inflation Reduction Act — a 90% reduction negotiated in the Senate without Pelosi's involvement.
+**What happened:** Manchin killed it. Sinema helped. The $3.5 trillion framework collapsed to the $369 billion Inflation Reduction Act, a 90% reduction negotiated in the Senate without Pelosi's involvement.
 
 ### What was lost (House passed, Senate killed):
 - Universal pre-K ($400 billion)

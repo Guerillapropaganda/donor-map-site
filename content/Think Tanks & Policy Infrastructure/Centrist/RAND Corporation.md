@@ -44,13 +44,13 @@ sec-form-types:
 
 ### Who They Are
 
-The RAND Corporation ("Research ANd Development") is a federally funded nonprofit policy research organization headquartered at 1776 Main Street, Santa Monica, California. Founded in 1948 as a spinoff from Douglas Aircraft Company's Project RAND — originally created in 1946 by U.S. Army Air Forces General Henry "Hap" Arnold to retain wartime scientific talent — RAND incorporated as an independent 501(c)(3) with seed capital from the Ford Foundation. It is the oldest and largest of the government-adjacent think tanks, operating at a scale that dwarfs most competitors.
+The RAND Corporation ("Research ANd Development") is a federally funded nonprofit policy research organization headquartered at 1776 Main Street, Santa Monica, California. Founded in 1948 as a spinoff from Douglas Aircraft Company's Project RAND, originally created in 1946 by U.S. Army Air Forces General Henry "Hap" Arnold to retain wartime scientific talent. RAND incorporated as an independent 501(c)(3) with seed capital from the Ford Foundation. It is the oldest and largest of the government-adjacent think tanks, operating at a scale that dwarfs most competitors.
 
-RAND employs approximately 1,700 researchers across offices in Santa Monica, Washington D.C., Pittsburgh, and Boston, plus international offices in Cambridge (UK), Brussels, and Canberra. It also operates the Pardee RAND Graduate School, the oldest and largest public policy Ph.D. program in the United States.
+RAND employs approximately 1,700 researchers across offices in Santa Monica, Washington D.C. Pittsburgh, and Boston, plus international offices in Cambridge (UK), Brussels, and Canberra. It also operates the Pardee RAND Graduate School, the oldest and largest public policy Ph.D. program in the United States.
 
-**October 2025 layoffs:** RAND cut 11% of its global workforce — 192 employees, including 73 at its Santa Monica headquarters — effective November 2, 2025. The stated reason was "lack of work" and alignment of "resources with changes in the broader research environment." The Santa Monica layoffs covered 43 job titles: policy analysts, policy researchers, behavioral/social scientists, economists, engineers, and accountants. RAND's spokesperson characterized it as "returning to staffing levels of a few years ago." The layoffs occurred as the Trump administration's DOGE initiative canceled federal research contracts across government agencies. RAND's 77% federal funding dependency meant that contract losses translated directly into workforce reductions — the government-contractor model exposed its structural vulnerability when the government changed its spending priorities.
+**October 2025 layoffs:** RAND cut 11% of its global workforce, 192 employees, including 73 at its Santa Monica headquarters, effective November 2, 2025. The stated reason was "lack of work" and alignment of "resources with changes in the broader research environment." The Santa Monica layoffs covered 43 job titles: policy analysts, policy researchers, behavioral/social scientists, economists, engineers, and accountants. RAND's spokesperson characterized it as "returning to staffing levels of a few years ago." The layoffs occurred as the Trump administration's DOGE initiative canceled federal research contracts across government agencies. RAND's 77% federal funding dependency meant that contract losses translated directly into workforce reductions, the government-contractor model exposed its structural vulnerability when the government changed its spending priorities.
 
-**Budget:** $462 million total revenue (FY2024), $449 million in expenses, $506 million in net assets, $744 million in total assets. Revenue has grown from $272 million (FY2011) to $462 million (FY2024) — a 70% increase in 13 years.
+**Budget:** $462 million total revenue (FY2024), $449 million in expenses, $506 million in net assets, $744 million in total assets. Revenue has grown from $272 million (FY2011) to $462 million (FY2024), a 70% increase in 13 years.
 
 **Tax status:** 501(c)(3). Tax-exempt since April 1950. EIN: 95-1958142.
 
@@ -83,18 +83,18 @@ RAND's funding structure is unique among think tanks: it is overwhelmingly a gov
 | **Total** | **$469.7M** | **100%** |
 
 ### Key funding facts:
-- **77% of revenue comes from U.S. federal government contracts** — principally the Department of War (now called the Department of Defense) and its sub-agencies
-- Contributions (grants + donations) account for 93% of total revenue on IRS Form 990 filings — but this is because government contracts are classified as "contributions" on Form 990, making the organization appear philanthropy-funded when it is overwhelmingly a government contractor
-- Private sector funding is less than 1% of revenue — RAND is functionally a government-funded operation with a nonprofit wrapper
+- **77% of revenue comes from U.S. federal government contracts**, principally the Department of War (now called the Department of Defense) and its sub-agencies
+- Contributions (grants + donations) account for 93% of total revenue on IRS Form 990 filings, but this is because government contracts are classified as "contributions" on Form 990, making the organization appear philanthropy-funded when it is overwhelmingly a government contractor
+- Private sector funding is less than 1% of revenue. RAND is functionally a government-funded operation with a nonprofit wrapper
 
 ### Notable donors and grantmakers (FY2025):
 - Gates Foundation, Carnegie Corporation, Arnold Ventures, Walton Family Foundation, Smith Richardson Foundation, Hewlett Foundation, Robert Wood Johnson Foundation, Pew Charitable Trusts
-- Charles Koch Foundation — also funds Heritage, Cato, AEI, Manhattan Institute
+- Charles Koch Foundation, also funds Heritage, Cato, AEI, Manhattan Institute
 - Donald Rumsfeld (listed as individual donor: "Joyce and Donald Rumsfeld")
-- Donald B. Rice (former RAND president, former Secretary of the Air Force — listed as individual donor: "Susan F. and Donald B. Rice")
+- Donald B. Rice (former RAND president, former Secretary of the Air Force, listed as individual donor: "Susan F. and Donald B. Rice")
 - Tang Family Foundation ($5M for RAND China Research Center in 2024)
 
-**The Open Philanthropy pipeline:** Open Philanthropy — funded by Facebook co-founder Dustin Moskovitz — has given RAND over $15 million for AI-related research. This became controversial when Politico reported in December 2023 that RAND researchers were a driving force behind Biden's AI executive order reporting requirements. RAND employees expressed internal concerns about objectivity. CEO Matheny's simultaneous role on Anthropic's oversight board deepens the conflict-of-interest questions.
+**The Open Philanthropy pipeline:** Open Philanthropy, funded by Facebook co-founder Dustin Moskovitz, has given RAND over $15 million for AI-related research. This became controversial when Politico reported in December 2023 that RAND researchers were a driving force behind Biden's AI executive order reporting requirements. RAND employees expressed internal concerns about objectivity. CEO Matheny's simultaneous role on Anthropic's oversight board deepens the conflict-of-interest questions.
 
 > [!money]
 > RAND's funding model is the cleanest example of the government-contractor-as-think-tank structure. Unlike Heritage or Brookings, which are funded primarily by private donors and foundations, RAND gets 77% of its revenue directly from the agencies whose policies it shapes. The Department of War pays RAND to research defense policy, RAND recommends more defense spending, Congress funds more defense spending, and the new spending generates new RAND contracts. The feedback loop is structural, not conspiratorial — it's how the FFRDC model works by design.
@@ -103,19 +103,19 @@ RAND's funding structure is unique among think tanks: it is overwhelmingly a gov
 
 ### What They Produce
 
-RAND operates four Federally Funded Research and Development Centers (FFRDCs) — independent entities that conduct research exclusively for the U.S. government:
+RAND operates four Federally Funded Research and Development Centers (FFRDCs), independent entities that conduct research exclusively for the U.S. government:
 
-1. **RAND Project AIR FORCE (PAF)** — Founded 1946. The Air Force's sole FFRDC for studies and analysis. The original RAND mission.
-2. **RAND Arroyo Center** — Founded 1982. The U.S. Army's sole FFRDC for studies and analysis.
-3. **RAND National Defense Research Institute (NDRI)** — Conducts research for the Office of the Secretary of War, Joint Staff, Unified Combatant Commands, defense agencies, Marine Corps, and Navy.
-4. **Homeland Security Operational Analysis Center (HSOAC)** — Sponsored by the Department of Homeland Security.
+1. **RAND Project AIR FORCE (PAF)**. Founded 1946. The Air Force's sole FFRDC for studies and analysis. The original RAND mission.
+2. **RAND Arroyo Center**. Founded 1982. The U.S. Army's sole FFRDC for studies and analysis.
+3. **RAND National Defense Research Institute (NDRI)**. Conducts research for the Office of the Secretary of War, Joint Staff, Unified Combatant Commands, defense agencies, Marine Corps, and Navy.
+4. **Homeland Security Operational Analysis Center (HSOAC)**. Sponsored by the Department of Homeland Security.
 
 ### Key historical outputs:
-- **Nuclear deterrence theory** — RAND developed the doctrine of Mutually Assured Destruction (MAD) and game theory applications to nuclear strategy during the Cold War, directly shaping U.S. defense posture for decades
-- **Pentagon Papers** — The classified study of U.S. decision-making in Vietnam was produced in part by RAND analysts. Daniel Ellsberg, a RAND analyst, leaked the 7,000-page study in 1971, revealing systematic government deception about the war
-- **Vietnam counterinsurgency research** — RAND conducted extensive research on insurgency in Vietnam, Laos, and Thailand throughout the war era
-- **Health insurance experiment** — RAND's multi-year experiment (1971–1982) on health insurance cost-sharing remains one of the most cited studies in health economics
-- **AI policy framework** — RAND researchers helped draft key elements of Biden's October 2023 AI Executive Order, including reporting requirements for AI companies
+- **Nuclear deterrence theory**. RAND developed the doctrine of Mutually Assured Destruction (MAD) and game theory applications to nuclear strategy during the Cold War, directly shaping U.S. defense posture for decades
+- **Pentagon Papers**. The classified study of U.S. decision-making in Vietnam was produced in part by RAND analysts. Daniel Ellsberg, a RAND analyst, leaked the 7,000-page study in 1971, revealing systematic government deception about the war
+- **Vietnam counterinsurgency research**. RAND conducted extensive research on insurgency in Vietnam, Laos, and Thailand throughout the war era
+- **Health insurance experiment**. RAND's multi-year experiment (1971–1982) on health insurance cost-sharing remains one of the most cited studies in health economics
+- **AI policy framework**. RAND researchers helped draft key elements of Biden's October 2023 AI Executive Order, including reporting requirements for AI companies
 
 **Current research areas:** National security, health care, education, criminal justice, infrastructure, international affairs, emerging technology (AI, cyber, biotech), immigration, labor markets.
 
@@ -127,11 +127,11 @@ RAND's policy influence operates through a unique mechanism: the FFRDC model giv
 
 ### How RAND research becomes policy:
 
-1. **Government agency commissions research** — DoD, DHS, HHS, etc. fund specific studies through FFRDC contracts
-2. **RAND produces "independent" analysis** — Research is technically independent but scoped to client needs
-3. **Agency cites RAND findings** — The "independent research" framing gives political cover for pre-existing policy preferences
-4. **Congressional testimony** — RAND researchers testify before Congress as "nonpartisan experts," lending credibility to agency budget requests
-5. **Policy adoption** — Recommendations flow into legislation, executive orders, and regulatory frameworks
+1. **Government agency commissions research**. DoD, DHS, HHS, etc. fund specific studies through FFRDC contracts
+2. **RAND produces "independent" analysis**. Research is technically independent but scoped to client needs
+3. **Agency cites RAND findings**. The "independent research" framing gives political cover for pre-existing policy preferences
+4. **Congressional testimony**. RAND researchers testify before Congress as "nonpartisan experts," lending credibility to agency budget requests
+5. **Policy adoption**. Recommendations flow into legislation, executive orders, and regulatory frameworks
 
 ### Donation-to-Policy Timeline
 
@@ -141,10 +141,10 @@ RAND's policy influence operates through a unique mechanism: the FFRDC model giv
 | 1982–present | U.S. Army (Arroyo Center FFRDC) | $47.1M/yr (FY2025) | Force structure analysis, counterinsurgency doctrine, Army modernization justification | Ongoing since 1982 |
 | 2017–2019 | Pentagon (multiple FFRDCs) | ~$500M total | Defense spending advocacy, force projection analysis cited in budget justifications | Continuous |
 | 2022–2023 | Open Philanthropy | $15M+ | AI Executive Order reporting requirements drafted by RAND researchers | ~12 months |
-| 2024 | Tang Family Foundation | $5M | RAND China Research Center launch — framing U.S.-China competition | Immediate |
+| 2024 | Tang Family Foundation | $5M | RAND China Research Center launch, framing U.S.-China competition | Immediate |
 | FY2025 | DHS (HSOAC FFRDC) | $58.3M | Immigration enforcement analysis, border security research | Ongoing |
 | FY2025 | HHS and related | $72.6M | Healthcare policy analysis, ACA implementation research | Ongoing |
-| Oct 2025 | Federal government (DOGE contract cuts) | −$X (contract losses) | 192 layoffs (11% of workforce); "lack of work" as government research contracts reduced under Trump/DOGE | Immediate — structural dependency exposed |
+| Oct 2025 | Federal government (DOGE contract cuts) | −$X (contract losses) | 192 layoffs (11% of workforce); "lack of work" as government research contracts reduced under Trump/DOGE | Immediate, structural dependency exposed |
 
 > [!money]
 > Between 2014 and 2019, RAND received $1.029 billion of the $1.078 billion that defense contractors and U.S. government agencies donated to the top 50 think tanks — 95% of all such funding went to a single institution. This is not a think tank that occasionally does defense work. This is a defense contractor that occasionally does non-defense work. The nonprofit framing obscures the fundamental reality: RAND is the Pentagon's in-house research arm operating at arm's length for legal and political convenience.
@@ -190,7 +190,7 @@ RAND's revolving door operates differently from most think tanks. Rather than a 
 - Nuclear deterrence doctrine that sustained Cold War-era military budgets for 45 years
 - Counterinsurgency theory that extended U.S. involvement in Vietnam
 - Post-9/11 analysis supporting expanded military and intelligence operations
-- $500 million in FFRDC contracts (2017–2019) producing research that recommends... more defense spending
+- $500 million in FFRDC contracts (2017–2019) producing research that recommends.. more defense spending
 
 ### Open Philanthropy / tech billionaires got:
 - Direct influence on Biden's AI Executive Order through RAND-drafted reporting requirements
@@ -202,26 +202,26 @@ RAND's revolving door operates differently from most think tanks. Rather than a 
 - "Evidence-based" framing for enforcement-heavy immigration policies
 
 ### Defense contractor ecosystem got:
-- Research that consistently recommends military modernization, force projection, and new weapons systems — generating procurement contracts for the same defense industry that also funds think tanks
+- Research that consistently recommends military modernization, force projection, and new weapons systems, generating procurement contracts for the same defense industry that also funds think tanks
 - The feedback loop documented by Inkstick Media: Pentagon funds RAND → RAND recommends more Pentagon spending → Congress approves → new contracts flow to defense contractors and back to RAND
 
 ---
 
 ### Class Analysis
 
-RAND is the purest institutional expression of C. Wright Mills' "power elite" thesis applied to the think tank world. It does not serve a political party or a specific donor class in the way Heritage (corporate conservatives) or CAP (corporate Democrats) do. Instead, it serves the **permanent national security state** — the bipartisan consensus that the United States must maintain global military dominance and that this dominance requires ever-increasing defense budgets.
+RAND is the purest institutional expression of C. Wright Mills' "power elite" thesis applied to the think tank world. It does not serve a political party or a specific donor class in the way Heritage (corporate conservatives) or CAP (corporate Democrats) do. Instead, it serves the **permanent national security state**, the bipartisan consensus that the United States must maintain global military dominance and that this dominance requires ever-increasing defense budgets.
 
 The class function is threefold:
 
 **1. Legitimizing military spending as "research."** By framing defense budget advocacy as peer-reviewed policy analysis, RAND transforms what would otherwise be naked lobbying into "independent, nonpartisan research." The 501(c)(3) wrapper and the FFRDC designation create a veneer of objectivity over what is functionally a captive research operation.
 
-**2. Career infrastructure for the national security elite.** RAND provides a credentialed waystation for officials moving between government, intelligence, and defense industry positions. The revolving door isn't a bug — it's RAND's primary value proposition: access to people who recently held power and will hold power again.
+**2. Career infrastructure for the national security elite.** RAND provides a credentialed waystation for officials moving between government, intelligence, and defense industry positions. The revolving door isn't a bug, it's RAND's primary value proposition: access to people who recently held power and will hold power again.
 
 **3. Manufacturing consensus across party lines.** Unlike partisan think tanks, RAND produces research cited by both Democrats and Republicans. This bipartisan credibility makes RAND uniquely dangerous from a class analysis perspective: it defines the boundaries of "acceptable" policy debate on defense, intelligence, and national security, ensuring that fundamental questions about military spending levels, force projection, or the military-industrial complex itself are never on the table.
 
-The Daniel Ellsberg case is the exception that proves the rule. When a RAND analyst broke ranks and exposed the Vietnam deception, the organization did not celebrate him — it cooperated with the government's prosecution. RAND's institutional DNA is loyalty to the agencies that fund it, not to the public that ostensibly benefits from "independent research."
+The Daniel Ellsberg case is the exception that proves the rule. When a RAND analyst broke ranks and exposed the Vietnam deception, the organization did not celebrate him, it cooperated with the government's prosecution. RAND's institutional DNA is loyalty to the agencies that fund it, not to the public that ostensibly benefits from "independent research."
 
-**The October 2025 layoffs completed the structural argument:** When the Trump administration's DOGE initiative reduced federal research spending and canceled contracts, RAND immediately cut 11% of its workforce citing "lack of work." This is the 77% federal dependency model failing in real time. An organization that derives three-quarters of its revenue from the government it claims to independently analyze is not a think tank — it is a government contractor whose research conclusions are structurally constrained by its dependency on continued government funding. The layoffs did not change RAND's "nonpartisan" framing or its "independent research" claims. They simply made the dependency visible.
+**The October 2025 layoffs completed the structural argument:** When the Trump administration's DOGE initiative reduced federal research spending and canceled contracts, RAND immediately cut 11% of its workforce citing "lack of work." This is the 77% federal dependency model failing in real time. An organization that derives three-quarters of its revenue from the government it claims to independently analyze is not a think tank, it is a government contractor whose research conclusions are structurally constrained by its dependency on continued government funding. The layoffs did not change RAND's "nonpartisan" framing or its "independent research" claims. They simply made the dependency visible.
 
 > [!money]
 > RAND received 95% of the $1.078 billion donated by defense contractors and government agencies to the top 50 U.S. think tanks between 2014–2019. Its $462M annual budget is larger than most Cabinet agencies' research budgets. The organization that claims to provide "independent analysis" to the Pentagon is, by every financial measure, a subsidiary of the Pentagon. The "nonpartisan" label is accurate only in the narrow sense that both parties agree the military-industrial complex should keep growing. RAND provides the intellectual architecture for that bipartisan consensus.
@@ -232,7 +232,7 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 
 - [ProPublica Nonprofit Explorer: Rand Corporation (EIN 95-1958142)](https://projects.propublica.org/nonprofits/organizations/951958142) (Tier 1)
 - [RAND: A Brief History of the RAND Corporation](https://www.rand.org/about/history.html) (Tier 3)
-- [RAND: How We Are Funded — List of Funders FY2025](https://www.rand.org/about/how-we-are-funded.html) (Tier 3)
+- [RAND: How We Are Funded. List of Funders FY2025](https://www.rand.org/about/how-we-are-funded.html) (Tier 3)
 - [RAND: About RAND](https://www.rand.org/about.html) (Tier 3)
 - [RAND: Federally Funded Research and Development Centers](https://www.rand.org/about/ffrdc.html) (Tier 3)
 - [RAND: Leadership and Board of Trustees](https://www.rand.org/about/leadership.html) (Tier 3)
@@ -241,7 +241,7 @@ The Daniel Ellsberg case is the exception that proves the rule. When a RAND anal
 - [RAND: Jason Matheny Named President and CEO](https://www.rand.org/news/press/2022/06/07.html) (Tier 3)
 - [OpenSecrets: Rand Corp Profile](https://www.opensecrets.org/orgs/rand-corp/summary?id=D000036957) (Tier 1)
 - [Inkstick Media: How Pentagon Spending Perpetuates Pentagon Spending](https://inkstickmedia.com/how-pentagon-spending-perpetuates-pentagon-spending/) (Tier 2)
-- [Project on Government Oversight: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
+- [Project on Government Oversight: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2)
 - [InfluenceWatch: RAND Corporation](https://www.influencewatch.org/non-profit/rand-corporation/) (Tier 3)
 - [Wikipedia: RAND Corporation](https://en.wikipedia.org/wiki/RAND_Corporation) (Tier 3)
 - [RAND: Matthew Pottinger and Stefanie Tompkins Elected to Board](https://www.rand.org/news/press/2025/03/matthew-pottinger-and-stefanie-tompkins-elected-to.html) (Tier 3)

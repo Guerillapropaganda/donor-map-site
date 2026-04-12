@@ -70,13 +70,13 @@ Seid-funded entities (through Leo's network) have litigated to place Federalist 
 
 ### Class Analysis
 
-Seid's donation represents the purest form of donor-class control: a single billionaire, acting through legal tax-avoidance structures, deploying $1.6 billion to capture the judiciary on a timeline of decades. His low public profile masks the totality of his influence. Unlike Donald Trump (who commands media attention), Seid operates invisibly — his name was unknown to most Americans until ProPublica's 2022 investigation.
+Seid's donation represents the purest form of donor-class control: a single billionaire, acting through legal tax-avoidance structures, deploying $1.6 billion to capture the judiciary on a timeline of decades. His low public profile masks the totality of his influence. Unlike Donald Trump (who commands media attention), Seid operates invisibly, his name was unknown to most Americans until ProPublica's 2022 investigation.
 
 The Seid-Leo relationship exemplifies **structural purchase of constitutional jurisprudence**: A billionaire funds judges; those judges rewrite constitutional law in billionaire-friendly directions. The process is entirely legal, tax-subsidized, and designed to be invisible.
 
 Seid's donation also reveals the **asymmetry of dark money:**
 - Right-wing mega-donors (Seid, Charles Koch, Sheldon Adelson historically) concentrate capital in judicial capture and regulatory opposition.
-- Left-wing mega-donors (Reed Hastings, Laurene Powell Jobs) spread capital across media, education, and advocacy — less concentrated, more diffuse impact.
+- Left-wing mega-donors (Reed Hastings, Laurene Powell Jobs) spread capital across media, education, and advocacy, less concentrated, more diffuse impact.
 
 This asymmetry means conservative jurisprudence is more directly purchased by individual billionaires, while progressive politics must assemble coalitions of many smaller donors.
 
@@ -104,7 +104,7 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

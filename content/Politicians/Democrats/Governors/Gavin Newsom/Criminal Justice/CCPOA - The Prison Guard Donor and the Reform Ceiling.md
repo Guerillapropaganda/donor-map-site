@@ -14,11 +14,11 @@ donors: [[CCPOA - California Correctional Peace Officers Association]]
 ---
 
 ### The Core Argument
-CCPOA — the California Correctional Peace Officers Association — is the prison guard union. It is also one of the most powerful political forces in California and one of Newsom's significant institutional donors. It has historically been the most effective single organization opposing criminal justice reform in California: parole expansion, early release, sentence reduction, rehabilitation over incarceration, and anything that would reduce the prison population.
+CCPOA, the California Correctional Peace Officers Association, is the prison guard union. It is also one of the most powerful political forces in California and one of Newsom's significant institutional donors. It has historically been the most effective single organization opposing criminal justice reform in California: parole expansion, early release, sentence reduction, rehabilitation over incarceration, and anything that would reduce the prison population.
 
-Fewer prisoners means fewer guards. Fewer guards means a smaller union. CCPOA's institutional interest is a large, growing, expensive carceral system — regardless of what that system does to the human beings inside it.
+Fewer prisoners means fewer guards. Fewer guards means a smaller union. CCPOA's institutional interest is a large, growing, expensive carceral system, regardless of what that system does to the human beings inside it.
 
-This is the class analysis complication on criminal justice: CCPOA is a labor union, and its members are working-class. But its institutional interests are structurally aligned with capital's use of the carceral state to manage surplus labor, criminalize poverty, and remove people from political participation. A prison guard union that fights against parole reform is a working-class organization functioning as an instrument of class control. Naming this is not anti-union — it's precise.
+This is the class analysis complication on criminal justice: CCPOA is a labor union, and its members are working-class. But its institutional interests are structurally aligned with capital's use of the carceral state to manage surplus labor, criminalize poverty, and remove people from political participation. A prison guard union that fights against parole reform is a working-class organization functioning as an instrument of class control. Naming this is not anti-union, it's precise.
 
 ---
 
@@ -33,23 +33,23 @@ This is the class analysis complication on criminal justice: CCPOA is a labor un
 ### What CCPOA Has Gotten
 **The prison budget: ~$13.9 billion** (CDCR 2025-26, LAO figure). Per-prisoner cost: **$132,860** (2024-25 record), declining slightly to $127,800 (2025-26). Up 161% since 2010-11. The budget has remained enormous despite declining incarceration numbers.
 
-**Two contracts worth $1.6 billion combined.** The 2023 contract ($1B+/3yr) delivered 3% raises, $10K retention bonuses, and premium pay increases. The 2025 contract ($600M/4yr) delivered two more 3% raises with only $3.9M in net first-year savings. CCPOA was the first union to reach a deal after Newsom announced the budget deficit — they got to the front of the line.
+**Two contracts worth $1.6 billion combined.** The 2023 contract ($1B+/3yr) delivered 3% raises, $10K retention bonuses, and premium pay increases. The 2025 contract ($600M/4yr) delivered two more 3% raises with only $3.9M in net first-year savings. CCPOA was the first union to reach a deal after Newsom announced the budget deficit, they got to the front of the line.
 
-**Overtime that grew from $491M to ~$600M.** Despite prison closures and population decline, overtime increased — because mandatory staffing ratios force remaining guards into more overtime as headcount drops. The closures reduce facilities but the overtime bill grows. Nearly 10% of the $6 billion total CDCR employee compensation budget goes to overtime. [Source: LAO 2025-26 — Tier 1]
+**Overtime that grew from $491M to ~$600M.** Despite prison closures and population decline, overtime increased, because mandatory staffing ratios force remaining guards into more overtime as headcount drops. The closures reduce facilities but the overtime bill grows. Nearly 10% of the $6 billion total CDCR employee compensation budget goes to overtime. [Source: LAO 2025-26. Tier 1]
 
 **CDCR leadership** that has maintained the existing union contract framework.
 
-**Prop 36 (2024):** CCPOA contributed $300,000 in support of Prop 36 — the tough-on-crime ballot measure that re-felonized certain repeat theft and drug offenses. Newsom publicly opposed it. It passed with 68% of the vote.
+**Prop 36 (2024):** CCPOA contributed $300,000 in support of Prop 36, the tough-on-crime ballot measure that re-felonized certain repeat theft and drug offenses. Newsom publicly opposed it. It passed with 68% of the vote.
 
 > [!contradiction]
 > CCPOA gave Newsom $2.9 million. CCPOA also funded the ballot measure Newsom opposed. The union doesn't need the governor to agree with it on everything — it just needs him not to touch the contracts, the overtime, or the staffing structure. That's what the money buys. The policy fights happen at the ballot box. The institutional protection happens at the negotiating table.
 
 ### What hasn't happened under Newsom:
-— No serious push for sentencing reform that would materially reduce the prison population
-— No CCPOA contract restructuring to reduce overtime
-— The San Quentin COVID disaster happened on his watch without individual accountability [See: [[San Quentin - COVID Disaster and Rehabilitation Theater]]]
+, No serious push for sentencing reform that would materially reduce the prison population
+, No CCPOA contract restructuring to reduce overtime
+, The San Quentin COVID disaster happened on his watch without individual accountability [See: [[San Quentin - COVID Disaster and Rehabilitation Theater]]]
 
-**What has happened — the one genuine threat:** Five prison closures (Tracy, Susanville, California City, Chuckwalla, CRC-Norco), saving an estimated $928M+ annually. CCPOA membership down 6%. But the $1.6 billion in contracts can be read as the price of managing that threat — close the prisons, but make the remaining guards richer.
+**What has happened, the one genuine threat:** Five prison closures (Tracy, Susanville, California City, Chuckwalla, CRC-Norco), saving an estimated $928M+ annually. CCPOA membership down 6%. But the $1.6 billion in contracts can be read as the price of managing that threat, close the prisons, but make the remaining guards richer.
 
 ---
 
@@ -64,14 +64,14 @@ This is the class analysis complication on criminal justice: CCPOA is a labor un
 ### The Structural Class Analysis
 Who is in California's prisons? Overwhelmingly poor people, predominantly Black and Latino, from communities with concentrated poverty, inadequate schools, and limited economic opportunity. They are in prison because the class system produced their conditions and then criminalized their responses to those conditions.
 
-Who profits from keeping them there? Prison guard unions (working-class labor, institutionally aligned with the system), private contractors (food service, healthcare, telecommunications — capital), and the broader surveillance apparatus. Who decides how long they stay? Judges, prosecutors, and governors who answer to the donor class.
+Who profits from keeping them there? Prison guard unions (working-class labor, institutionally aligned with the system), private contractors (food service, healthcare, telecommunications, capital), and the broader surveillance apparatus. Who decides how long they stay? Judges, prosecutors, and governors who answer to the donor class.
 
 The carceral state is a class war instrument. Newsom manages it more humanely in his rhetoric than his predecessors. He has not changed its fundamental structure.
 
 ---
 
 ### Key Quotes
-"We are going to transform San Quentin into a place of redemption." — Newsom, announcing San Quentin rehabilitation plan, 2023.
+"We are going to transform San Quentin into a place of redemption.". Newsom, announcing San Quentin rehabilitation plan, 2023.
 
 [California still has the largest state prison population in the US. No prisons closed beyond court-mandated population reduction.]
 
@@ -83,7 +83,7 @@ The carceral state is a class war instrument. Newsom manages it more humanely in
 |------|-------------------|--------|----------------------|----------|
 | 2018 | CCPOA contribution (first cycle) | $1.5M | Newsom elected with CCPOA backing; no prison closures begin | Starting baseline |
 | 2021 | CCPOA contribution (recall defense) | $1.75M (single largest state union contribution) | Newsom survives recall; no structural CCPOA contract changes | Protective buy |
-| 2022–2023 | Five prison closures announced (delayed from earlier plans) | — | CCPOA 2023 contract signed: $1B+/3yr with 3% raises, retention bonuses | Protective buy after threat |
+| 2022–2023 | Five prison closures announced (delayed from earlier plans) |, | CCPOA 2023 contract signed: $1B+/3yr with 3% raises, retention bonuses | Protective buy after threat |
 | 2023 | 2023 CCPOA contract | $1B+/3yr | 3% annual raises, $10K retention bonuses, premium pay increases locked in | Compensation increase |
 | 2024 | CCPOA contribution to Prop 1 | $1M | Newsom opposes Prop 36; it passes 68%; CCPOA backs tough-on-crime; donors get choice | Interest divergence |
 | 2025 | 2025 CCPOA contract | $600M/4yr | Additional 3% raises, minimal net savings despite budget deficit pressure | Continued priority |
@@ -99,7 +99,7 @@ The carceral state is a class war instrument. Newsom manages it more humanely in
 > **Structural limit:** The $1.6B in contracts (2023 + 2025 combined) can be read as the price paid to manage the closure threat. Close the prisons, but make the remaining 30,000 guards richer. The system still spends $13.9B on CDCR. The per-prisoner cost hit a record high ($132,860). Overtime, despite lower population, remains at ~$600M annually. The carceral state's budget remained protected while CCPOA absorbed membership loss. The donation-to-policy sequence shows the union got paid precisely because it was threatened.
 
 ### 2. The Villain Framing
-The problem with mass incarceration is not that individual guards are bad people. Many are working-class people doing a job. The structural issue is that the system itself functions as a class management apparatus, and CCPOA's institutional interest is keeping the system large enough to maintain employment levels. When Newsom discusses criminal justice, he frames it around rehabilitation, officer accountability measures, and technology — avoiding the structural economic function of the prison system itself. The villain is never the system; it's individual bad actors, inadequate training, or the courts (when convenient).
+The problem with mass incarceration is not that individual guards are bad people. Many are working-class people doing a job. The structural issue is that the system itself functions as a class management apparatus, and CCPOA's institutional interest is keeping the system large enough to maintain employment levels. When Newsom discusses criminal justice, he frames it around rehabilitation, officer accountability measures, and technology, avoiding the structural economic function of the prison system itself. The villain is never the system; it's individual bad actors, inadequate training, or the courts (when convenient).
 
 ### 3. The Two-Audience Problem
 > [!contradiction]

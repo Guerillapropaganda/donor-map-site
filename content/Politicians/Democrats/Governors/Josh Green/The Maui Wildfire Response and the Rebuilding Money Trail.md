@@ -76,19 +76,19 @@ Research gap: Which specific contractors received which amounts? What are the ow
 Governor Green negotiated a $4.037 billion global settlement with corporate defendants (August 2024). The settlement includes:
 
 - **Seven Defendant Corporations:**
-  - State of Hawaii
-  - Maui County
-  - Hawaiian Electric Company (major defendant)
-  - Kamehameha Schools
-  - West Maui Land Co.
-  - Hawaiian Telcom
-  - Spectrum/Charter Communications
+ - State of Hawaii
+ - Maui County
+ - Hawaiian Electric Company (major defendant)
+ - Kamehameha Schools
+ - West Maui Land Co.
+ - Hawaiian Telcom
+ - Spectrum/Charter Communications
 
 - **Settlement Distribution:**
-  - State commitment: $807 million over four years to Maui Wildfires Settlement Trust Fund
-  - Federal FEMA: $1.6 billion+
-  - One 'Ohana Fund: $175 million
-  - Total survivors' fund: ~$4 billion distributed to ~2,200 claimants
+ - State commitment: $807 million over four years to Maui Wildfires Settlement Trust Fund
+ - Federal FEMA: $1.6 billion+
+ - One 'Ohana Fund: $175 million
+ - Total survivors' fund: ~$4 billion distributed to ~2,200 claimants
 
 ### Survivors' Settlement Distribution
 The $4 billion settlement represents average payout of ~$1.8 million per claimant (~2,200 parties received settlements). However, distribution is not equal:
@@ -105,7 +105,7 @@ The distribution question: wealth concentration. Wealthier Maui residents with l
 ### Who Profited
 
 ### Hawaiian Electric Company
-Hawaiian Electric — the power company whose infrastructure failures contributed to the wildfire ignition — is a defendant in the settlement. However, the company has positioned itself within the recovery process:
+Hawaiian Electric, the power company whose infrastructure failures contributed to the wildfire ignition, is a defendant in the settlement. However, the company has positioned itself within the recovery process:
 
 - Insurance coverage for liability
 - Continued role in island energy infrastructure
@@ -171,7 +171,7 @@ Green announced commitment to "prevent land grabs" and prioritize owner-occupant
 
 ### The Distribution by Wealth
 
-### Before the Wildfire — Housing Inequality
+### Before the Wildfire. Housing Inequality
 Maui's housing crisis reflected class inequality:
 
 - Wealthy mainland mainlanders and investors owned large properties and vacation rental portfolios

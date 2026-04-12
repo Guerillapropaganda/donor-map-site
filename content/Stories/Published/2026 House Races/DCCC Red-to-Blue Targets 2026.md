@@ -75,7 +75,7 @@ This suggests the race will be determined by super PAC spending. [[House Majorit
 
 **Virginia's 1st District (Rep. Rob Wittman):** Wittman is a longtime incumbent but represents a seat trending Democratic. Shannon Taylor, Henrico Commonwealth's Attorney, is running as the Democratic challenger. [DCCC Names 12 Challengers to Initial 'Red to Blue' List - Roll Call](https://rollcall.com/2026/02/23/democrats-dccc-challengers-midterm-elections/) (Tier 2)
 
-**Virginia's 2nd District (Rep. David Valadao):** Wait — this appears to be an error in DCCC materials. VA-2 is represented by Democrat Donald McEachin (D). This may indicate a last-minute recoding or data error. Will require verification.
+**Virginia's 2nd District (Rep. David Valadao):** Wait, this appears to be an error in DCCC materials. VA-2 is represented by Democrat Donald McEachin (D). This may indicate a last-minute recoding or data error. Will require verification.
 
 **Colorado's 5th District (Rep. Jeff Crank):** Crank holds a safe Republican seat, but the district is within targeting range if national conditions shift. Democrats will probe his vulnerability.
 
@@ -113,10 +113,10 @@ Democrats need to flip 4 seats. The clearest flip opportunities are:
 The success of Red to Blue targeting depends critically on challenger quality and fundraising ability. A strong, well-funded challenger can turn a R+4 seat into a toss-up. A weak candidate in a well-funded DCCC program will still lose.
 
 ### Highest-quality challengers identified for 2026:
-- Former Rep. Elaine Luria (VA-2) — highest profile, best fundraising prospects
-- Jonathan Nez (AZ-2) — high profile as former Navajo Nation President, but faces -9 margin
-- Christina Bohannan (IA-1) — former state legislator, strong regional profile
-- Shannon Taylor (VA-1) — strong prosecutor background, but running in a changing district
+- Former Rep. Elaine Luria (VA-2), highest profile, best fundraising prospects
+- Jonathan Nez (AZ-2), high profile as former Navajo Nation President, but faces -9 margin
+- Christina Bohannan (IA-1), former state legislator, strong regional profile
+- Shannon Taylor (VA-1), strong prosecutor background, but running in a changing district
 
 ---
 

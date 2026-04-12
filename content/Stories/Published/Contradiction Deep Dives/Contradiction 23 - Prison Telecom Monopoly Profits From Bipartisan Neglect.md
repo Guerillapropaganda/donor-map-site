@@ -18,7 +18,7 @@ related: "[[Payday Lending Survives Through Bipartisan Protection]] · [[Water P
 
 The U.S. prison telecommunications industry generates approximately $1.2 billion annually, controlled almost entirely by two private equity-backed companies: Securus Technologies (now Aventiv, owned by Platinum Equity) and ViaPath Technologies (formerly Global Tel*Link, owned by American Securities). Together they control 80–90% of a market where incarcerated people and their families have zero choice among providers. (Tier 1)
 
-Each facility awards exactly one exclusive contract to a single telecom provider. The captive market removes every standard mechanism for price discipline. This is not competition—it is a government-sanctioned monopoly where the only bidding occurs among providers offering the highest kickbacks to corrections departments.
+Each facility awards exactly one exclusive contract to a single telecom provider. The captive market removes every standard mechanism for price discipline. This is not competition, it is a government-sanctioned monopoly where the only bidding occurs among providers offering the highest kickbacks to corrections departments.
 
 > [!money]
 > Annual industry revenue: ~$1.2 billion (Securus $683M in 2018, GTL $654M in 2019). Total prison telecom all-time lobbying: minimal at federal level ($40K by ViaPath in 2024), but $1.536 million by GTL at state level alone 2011–2018. (Tier 2)
@@ -58,11 +58,11 @@ Martha Wright, a D.C. grandmother, sued in 2000 over rates she paid to speak wit
 
 **The Pai manipulation:** Eight days after Trump appointed Pai as FCC Chairman in 2017, he sent a letter to the D.C. Circuit announcing the FCC would no longer defend its own rate caps. The court had been considering an appeal. (Tier 2)
 
-**May 2021:** Senators **[[Tammy Duckworth]]** (D-IL) and **Rob Portman** (R-OH) introduce the Martha Wright-Reed Just and Reasonable Communications Act. A strategic compromise: rather than setting specific caps, it directs the FCC to ensure "just and reasonable" charges—language designed to win Republican support.
+**May 2021:** Senators **[[Tammy Duckworth]]** (D-IL) and **Rob Portman** (R-OH) introduce the Martha Wright-Reed Just and Reasonable Communications Act. A strategic compromise: rather than setting specific caps, it directs the FCC to ensure "just and reasonable" charges, language designed to win Republican support.
 
 **December 22, 2022:** House passes S. 1541 in final days of Congress, with Speaker Pelosi and Majority Leader Schumer prioritizing passage. **[[Joe Biden]]** signs January 5, 2023.
 
-**July 18, 2024:** FCC votes unanimously to implement the law with caps: $0.06/minute for prisons, $0.06–$0.12/minute for jails, first-ever video call caps, and—crucially—a complete ban on site commission kickbacks. Projected savings: $386 million annually. (Tier 1)
+**July 18, 2024:** FCC votes unanimously to implement the law with caps: $0.06/minute for prisons, $0.06–$0.12/minute for jails, first-ever video call caps, and, crucially, a complete ban on site commission kickbacks. Projected savings: $386 million annually. (Tier 1)
 
 **June 2025:** FCC Chairman **Brendan Carr** (R, Trump appointee) announces two-year delay in implementation. No data published to support claims of "unintended consequences." (Tier 2)
 
@@ -74,7 +74,7 @@ Martha Wright, a D.C. grandmother, sued in 2000 over rates she paid to speak wit
 
 Democrats champion "criminal justice reform" and claim to support incarcerated people and their families. Yet the bipartisan failure runs deep:
 
-**Federal level:** Obama administration took no action on prison phone reform for four years despite controlling Congress. The FCC didn't issue an NPRM on the Wright Petition until December 2012—Obama's final year. The 2013 caps covered only interstate calls (20% of volume).
+**Federal level:** Obama administration took no action on prison phone reform for four years despite controlling Congress. The FCC didn't issue an NPRM on the Wright Petition until December 2012, Obama's final year. The 2013 caps covered only interstate calls (20% of volume).
 
 **2020 COVID crisis:** House Democrats passed the HEROES Act including Martha Wright provisions. Senate Democratic leadership never advanced it. Incarcerated people were cut off from family during the pandemic while phone rates remained gouging.
 
@@ -84,7 +84,7 @@ Democrats champion "criminal justice reform" and claim to support incarcerated p
 
 **The legislative stall:** Martha Wright-Reed sat in committee for 18 months after introduction (May 2021 to March 2022) during unified Democratic control. It passed only in final days of December 2022 as a lame-duck measure after Democrats lost the House.
 
-**ViaPath donations:** In 2024, ViaPath employees donated $825 total: $420 to Kamala Harris, $50 to Democratic Party of Pennsylvania. Small amounts—but directionally toward Democrats who publicly "support" criminal justice reform. (Tier 1)
+**ViaPath donations:** In 2024, ViaPath employees donated $825 total: $420 to Kamala Harris, $50 to Democratic Party of Pennsylvania. Small amounts, but directionally toward Democrats who publicly "support" criminal justice reform. (Tier 1)
 
 > [!money]
 > States with Democratic governors maintained expensive rates for years: California under Gavin Newsom; New York under Democratic mayors. New York City's JPay contracts bypassed state procurement rules—a practice flagged by then-Public Advocate Letitia James (D) in 2016. (Tier 2)
@@ -99,11 +99,11 @@ Republicans claim to believe in free markets and deregulation. Yet they:
 2. Used federal regulatory power (FCC) and state legal challenges (14 Republican AGs) to prevent any price regulation
 3. Argued that a government-created, location-locked monopoly is somehow a "free market"
 
-**Ajit Pai:** The most egregious case. As attorney, he represented Securus. As FCC Commissioner 2012–2017, he voted against every single prison phone reform effort. As FCC Chairman 2017–2021, he directed FCC lawyers to stop defending rate caps in court—eight days after appointment. When Platinum Equity purchased Securus for $1.6 billion in 2017, Pai presided over the FCC license transfer approval while having previously represented the company. (Tier 2)
+**Ajit Pai:** The most egregious case. As attorney, he represented Securus. As FCC Commissioner 2012–2017, he voted against every single prison phone reform effort. As FCC Chairman 2017–2021, he directed FCC lawyers to stop defending rate caps in court, eight days after appointment. When Platinum Equity purchased Securus for $1.6 billion in 2017, Pai presided over the FCC license transfer approval while having previously represented the company. (Tier 2)
 
 **Brendan Carr and Olivia Trusty:** Both Trump-appointed commissioners voted in October 2025 to raise rate caps by up to 83%, claiming "unintended consequences" from the 2024 order they themselves had unanimously supported three months prior. No data was ever published to substantiate the claims. (Tier 2)
 
-**Fourteen Republican State AGs:** Led by Indiana, sued the FCC in October 2024 to overturn rate caps, arguing they deprived correctional facilities of needed funding. The irony: these same officials claim to oppose government overreach and protect free markets—yet they sued to defend a government-created monopoly from price regulation. In any normal market, customers exit if prices are too high. In prison telecom, the government holds the only exit door, and these AGs sued to keep it locked. (Tier 1)
+**Fourteen Republican State AGs:** Led by Indiana, sued the FCC in October 2024 to overturn rate caps, arguing they deprived correctional facilities of needed funding. The irony: these same officials claim to oppose government overreach and protect free markets, yet they sued to defend a government-created monopoly from price regulation. In any normal market, customers exit if prices are too high. In prison telecom, the government holds the only exit door, and these AGs sued to keep it locked. (Tier 1)
 
 **Pay Tel Communications:** A smaller prison telecom firm donated $63,770 in 2023–2024: $53,880 to Republicans, $3,290 to Democrats. Top recipients: Rick Scott (R-FL) and other Senate Republicans. (Tier 1)
 
@@ -127,7 +127,7 @@ When FCC rate caps began limiting phone call revenue, companies pivoted to unreg
 
 **Platinum Equity owner Tom Gores** owns the Detroit Pistons. New York City public pension funds signed a side letter in 2019 opting out of future investments in Platinum prison services. Pennsylvania State Employees' Retirement System denied Platinum a $150M investment in 2019 citing "extensive negative press surrounding Securus." (Tier 2)
 
-**ViaPath/GTL:** American Securities acquired GTL 2011 for $1B. Failed to sell ViaPath in 2023 when Tristar terminated an acquisition letter of intent—regulatory risk deters buyers.
+**ViaPath/GTL:** American Securities acquired GTL 2011 for $1B. Failed to sell ViaPath in 2023 when Tristar terminated an acquisition letter of intent, regulatory risk deters buyers.
 
 > [!contradiction]
 > Two private equity firms have captured an entire captive market serving the poorest and most politically powerless population in America. The system transfers wealth from incarcerated people's families directly to PE billionaires and government commission recipients. The bipartisan failure to dismantle this is the defining contradiction.

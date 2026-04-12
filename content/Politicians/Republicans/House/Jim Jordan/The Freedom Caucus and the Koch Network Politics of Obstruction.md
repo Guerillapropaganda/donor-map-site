@@ -22,7 +22,7 @@ donors: [[Koch Network - Charles Koch]], [[Club for Growth]]
 
 ### The Freedom Caucus as Veto Player
 
-The Freedom Caucus was founded in January 2015 with approximately 30 members — the hard-right bloc of House Republicans. The explicit model: use a disciplined minority to block legislation that doesn't meet ideological purity tests, and leverage the threat of leadership challenges to extract concessions.
+The Freedom Caucus was founded in January 2015 with approximately 30 members, the hard-right bloc of House Republicans. The explicit model: use a disciplined minority to block legislation that doesn't meet ideological purity tests, and leverage the threat of leadership challenges to extract concessions.
 
 **Boehner resignation (2015):** The Freedom Caucus made John Boehner's speakership untenable through repeated procedural challenges and public attacks. Boehner resigned in September 2015 rather than face a motion to vacate.
 
@@ -40,13 +40,13 @@ The Freedom Caucus was founded in January 2015 with approximately 30 members —
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
 | 2009-01-01 | Koch Industries begins contributions to Jim Jordan (career total to date) | $60,000+ | OpenSecrets |
-| 2015-01-01 | Jim Jordan receives 98% Club for Growth lifetime score (alignment vote) | — | Club for Growth |
-| 2015-01-01 | Jim Jordan receives 100% Heritage Action lifetime score (alignment vote) | — | Heritage Action |
+| 2015-01-01 | Jim Jordan receives 98% Club for Growth lifetime score (alignment vote) |, | Club for Growth |
+| 2015-01-01 | Jim Jordan receives 100% Heritage Action lifetime score (alignment vote) |, | Heritage Action |
 | 2009-01-01 | NRCC provides zero contributions to Jim Jordan (15-year period) | $0 | OpenSecrets |
 | 2023-10-01 | NRCC begins major contributions as Jordan pursues Speaker bid | $1.7M | OpenSecrets |
-| Ongoing | Individual donors provide small-dollar support to Jim Jordan | — | OpenSecrets |
+| Ongoing | Individual donors provide small-dollar support to Jim Jordan |, | OpenSecrets |
 
-The $1.7 million NRCC shift is the biography's clearest donor signal. For 15 years, Jordan received nothing from the party's campaign arm — because his function was obstruction, not party-building. When he pursued the Judiciary Committee chairmanship, the money appeared. The party apparatus funds Jordan only when his destructive capacity serves institutional Republican purposes (investigating Democrats, shielding Trump).
+The $1.7 million NRCC shift is the biography's clearest donor signal. For 15 years, Jordan received nothing from the party's campaign arm, because his function was obstruction, not party-building. When he pursued the Judiciary Committee chairmanship, the money appeared. The party apparatus funds Jordan only when his destructive capacity serves institutional Republican purposes (investigating Democrats, shielding Trump).
 
 Jordan's small-dollar fundraising provides the populist cover: he can claim grassroots support while serving the Koch/Club for Growth deregulation agenda. The small donors fund the aesthetic (jacketless hearings, Fox News clips). The institutional donors fund the function (blocking regulation, protecting corporate interests).
 
@@ -54,9 +54,9 @@ Jordan's small-dollar fundraising provides the populist cover: he can claim gras
 
 ### The Failed Speaker Bid as Structural Revelation
 
-Jordan's three-ballot Speaker failure revealed the caucus's structural limitation: the Freedom Caucus can destroy leadership (Boehner, McCarthy) but cannot install its own. The 25 Republicans who voted against Jordan represented the party's institutional wing — members who need legislative accomplishment for reelection, not performative obstruction. The moderate opposition grew with each ballot because Jordan's pitch was exclusively destructive: no legislative agenda, no governance plan, only the promise to use the Speaker's power for investigations and obstruction.
+Jordan's three-ballot Speaker failure revealed the caucus's structural limitation: the Freedom Caucus can destroy leadership (Boehner, McCarthy) but cannot install its own. The 25 Republicans who voted against Jordan represented the party's institutional wing, members who need legislative accomplishment for reelection, not performative obstruction. The moderate opposition grew with each ballot because Jordan's pitch was exclusively destructive: no legislative agenda, no governance plan, only the promise to use the Speaker's power for investigations and obstruction.
 
-[[_Mike Johnson Master Profile|Mike Johnson]] — who shared Jordan's ideological positions but lacked his confrontational profile — ultimately won the speakership. The lesson: the donor class prefers its obstruction delivered through institutional respectability, not jacketless aggression.
+[[_Mike Johnson Master Profile|Mike Johnson]], who shared Jordan's ideological positions but lacked his confrontational profile, ultimately won the speakership. The lesson: the donor class prefers its obstruction delivered through institutional respectability, not jacketless aggression.
 
 ---
 

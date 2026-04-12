@@ -37,11 +37,11 @@ Sources: FEC.gov candidate profile (P00009910), OpenSecrets, Ballotpedia 2024 da
 
 Williamson's funding model demonstrates the small-dollar progressive fundraising ecosystem:
 
-1. **Individual contributions** — Primary funding source; small-dollar donors ($1-$200) dominating
-2. **Online fundraising platforms** — ActBlue (Democratic Party's official fundraising platform) as distribution mechanism
-3. **Book royalties** — Ongoing income from backlist sales; intellectual property created before candidacy
-4. **Speaking engagements** — University lectures, spiritual conferences, progressive events ($5K-$25K per appearance)
-5. **Media appearances** — Guest spots on political commentary shows provide platform without direct payment
+1. **Individual contributions**. Primary funding source; small-dollar donors ($1-$200) dominating
+2. **Online fundraising platforms**. ActBlue (Democratic Party's official fundraising platform) as distribution mechanism
+3. **Book royalties**. Ongoing income from backlist sales; intellectual property created before candidacy
+4. **Speaking engagements**. University lectures, spiritual conferences, progressive events ($5K-$25K per appearance)
+5. **Media appearances**. Guest spots on political commentary shows provide platform without direct payment
 
 The small-dollar model theoretically democratizes funding: no mega-donors, no super PAC dependency, no billionaire underwriters. But as Williamson discovered, small-dollar success doesn't guarantee campaign viability if Democratic Party establishment opposes candidacy.
 
@@ -72,7 +72,7 @@ The small-dollar model theoretically democratizes funding: no mega-donors, no su
 - Living wage and worker power
 - Opposition to billionaire wealth accumulation
 
-**Rhetorical framework:** Williamson frames political transformation as spiritual awakening. Poverty, racism, militarism described as spiritual diseases requiring collective healing, not merely policy fixes. This spiritual framing—absent from traditional Democratic rhetoric—attracted voters seeking meaning and transformation beyond technocratic policy.
+**Rhetorical framework:** Williamson frames political transformation as spiritual awakening. Poverty, racism, militarism described as spiritual diseases requiring collective healing, not merely policy fixes. This spiritual framing, absent from traditional Democratic rhetoric, attracted voters seeking meaning and transformation beyond technocratic policy.
 
 **What was suppressed:** DNC debate thresholds and donor requirements specifically designed to exclude Williamson, despite her meeting stated criteria. 2020: she qualified for early debates through polling and donor counts; 2024: DNC eliminated debates entirely, preventing any candidate from building platform against Biden.
 
@@ -133,11 +133,11 @@ Williamson's constituency consists of:
 
 #### Who Benefits from Williamson's Positioning and Campaigns
 
-1. **Progressive donors (affluent, educated)** — Sense of political efficacy through small-dollar fundraising; validation that their values are representable in Democratic primary
-2. **Democratic Party apparatus** — Absorbs progressive enthusiasm and donor enthusiasm without making institutional commitments; gatekeeping maintains control
-3. **Spiritual-industrial complex** — Williamson's campaigns mainstream spiritual frameworks in political discourse; validates spiritual self-help approach to social transformation
-4. **Media outlets** — "Love will overcome hate" generates clips, controversy, media coverage
-5. **Democratic baseline voters** — Party preserves centrist consensus by suppressing viable alternative through gatekeeping (not through primary defeat)
+1. **Progressive donors (affluent, educated)**. Sense of political efficacy through small-dollar fundraising; validation that their values are representable in Democratic primary
+2. **Democratic Party apparatus**. Absorbs progressive enthusiasm and donor enthusiasm without making institutional commitments; gatekeeping maintains control
+3. **Spiritual-industrial complex**. Williamson's campaigns mainstream spiritual frameworks in political discourse; validates spiritual self-help approach to social transformation
+4. **Media outlets**, "Love will overcome hate" generates clips, controversy, media coverage
+5. **Democratic baseline voters**. Party preserves centrist consensus by suppressing viable alternative through gatekeeping (not through primary defeat)
 
 #### Who Loses
 - Williamson herself: Two primary cycles without measurable wins; donor fatigue; reputation as perennial outsider
@@ -171,12 +171,12 @@ Her campaigns expose Democratic Party gatekeeping: not through censorship (Willi
 
 ### Sources
 
-- [Marianne Williamson — Wikipedia](https://en.wikipedia.org/wiki/Marianne_Williamson) (Tier 2) (Chrome verified 2026-03-27)
-- [Marianne Williamson 2024 presidential campaign — Ballotpedia](https://ballotpedia.org/Marianne_Williamson_presidential_campaign,_2024) (Tier 1) (Chrome verified 2026-03-27)
-- [Marianne Williamson — FEC.gov candidate profile](https://www.fec.gov/data/candidate/P00009910/) (Tier 1) (Chrome verified 2026-03-27)
-- [Marianne Williamson brought in $1.5 million in the second quarter — CNN Politics](https://edition.cnn.com/politics/live-news/2020-election-campaign-fundraising) (Tier 2) (Chrome verified 2026-03-27)
-- [2024 hopeful Marianne Williamson blasts Biden, DNC for not holding debates — Fox News](https://www.foxnews.com/media/2024-hopeful-marianne-williamson-blasts-biden-dnc-not-holding-debates-candidate-suppression) (Tier 2) (Chrome verified 2026-03-27)
-- [Marianne Williamson knocks DNC over lack of debates as Biden campaign launch nears — Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/bidens-primary-foes-try-not-ignored) (Tier 2) (Chrome verified 2026-03-27)
+- [Marianne Williamson. Wikipedia](https://en.wikipedia.org/wiki/Marianne_Williamson) (Tier 2) (Chrome verified 2026-03-27)
+- [Marianne Williamson 2024 presidential campaign. Ballotpedia](https://ballotpedia.org/Marianne_Williamson_presidential_campaign,_2024) (Tier 1) (Chrome verified 2026-03-27)
+- [Marianne Williamson. FEC.gov candidate profile](https://www.fec.gov/data/candidate/P00009910/) (Tier 1) (Chrome verified 2026-03-27)
+- [Marianne Williamson brought in $1.5 million in the second quarter. CNN Politics](https://edition.cnn.com/politics/live-news/2020-election-campaign-fundraising) (Tier 2) (Chrome verified 2026-03-27)
+- [2024 hopeful Marianne Williamson blasts Biden, DNC for not holding debates. Fox News](https://www.foxnews.com/media/2024-hopeful-marianne-williamson-blasts-biden-dnc-not-holding-debates-candidate-suppression) (Tier 2) (Chrome verified 2026-03-27)
+- [Marianne Williamson knocks DNC over lack of debates as Biden campaign launch nears. Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/bidens-primary-foes-try-not-ignored) (Tier 2) (Chrome verified 2026-03-27)
 - [Marianne Williamson: A Return to Love](https://marianne.com/a-return-to-love/) (Tier 2) (Chrome verified 2026-03-27)
 - [OpenSecrets: Marianne Williamson 2024 candidate data](https://www.opensecrets.org/2024-presidential-race?id=N00035565) (Tier 2) (Chrome verified 2026-03-27)
 

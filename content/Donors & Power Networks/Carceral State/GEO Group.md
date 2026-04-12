@@ -44,31 +44,31 @@ GEO Group, Inc. (NYSE: GEO; formerly Wackenhut Corrections Corporation, founded 
 
 ### 2025 financial profile:
 - Total revenue: $2.63 billion (up 8.7% from $2.42 billion in 2024)
-- Net income: $254.4 million ($1.82/share) — a 700%+ increase over 2024
+- Net income: $254.4 million ($1.82/share), a 700%+ increase over 2024
 - Adjusted EBITDA: $464.4 million
 - Q4 2025 revenue: $707.7 million (up 16.4% from Q4 2024)
-- New/expanded contract wins: $520 million in annualized revenue — the company's most successful year for new business in its history
+- New/expanded contract wins: $520 million in annualized revenue, the company's most successful year for new business in its history
 - 2026 guidance: $2.9–3.1 billion in revenue
 
-GEO operates 95 facilities worldwide with approximately 75,000 total beds (including idle and under-development facilities) and employs approximately 20,000 employees. As of 2025, GEO operates 19 facilities specifically for ICE detention with approximately 26,000 operational beds — up from approximately 20,000 at the start of 2025.
+GEO operates 95 facilities worldwide with approximately 75,000 total beds (including idle and under-development facilities) and employs approximately 20,000 employees. As of 2025, GEO operates 19 facilities specifically for ICE detention with approximately 26,000 operational beds, up from approximately 20,000 at the start of 2025.
 
 ### Key subsidiaries:
-- **BI Incorporated** — Boulder, Colorado-based electronic monitoring company acquired in 2011 for $145 million; the exclusive provider of ICE's Intensive Supervision Appearance Program (ISAP) ankle monitor program; employs nearly 1,000 people across approximately 100 offices nationwide
-- **GEO Transport, Inc. (GTI)** — the largest provider of ground and air transportation for ICE
-- **GEO Acquisition II Inc.** — subsidiary used for political contributions, including $1 million to a pro-Trump super PAC in 2024
+- **BI Incorporated**. Boulder, Colorado-based electronic monitoring company acquired in 2011 for $145 million; the exclusive provider of ICE's Intensive Supervision Appearance Program (ISAP) ankle monitor program; employs nearly 1,000 people across approximately 100 offices nationwide
+- **GEO Transport, Inc. (GTI)**, the largest provider of ground and air transportation for ICE
+- **GEO Acquisition II Inc.**, subsidiary used for political contributions, including $1 million to a pro-Trump super PAC in 2024
 
 ### Revenue history:
 - 2019: $2.5 billion
 - 2024: $2.42 billion
 - 2025: $2.63 billion
 
-ICE contracts accounted for 42.7% of GEO Group's annual revenue in 2023 and 43.9% of total revenue in 2022 ($1.05 billion). In 2025, ICE remains GEO's single largest client segment. The company's profit model depends entirely on occupancy rates — the more people detained, the more they earn. This creates a structural incentive to advocate for more detention, longer holds, and expanded enforcement.
+ICE contracts accounted for 42.7% of GEO Group's annual revenue in 2023 and 43.9% of total revenue in 2022 ($1.05 billion). In 2025, ICE remains GEO's single largest client segment. The company's profit model depends entirely on occupancy rates, the more people detained, the more they earn. This creates a structural incentive to advocate for more detention, longer holds, and expanded enforcement.
 
 ---
 
 ### What They Want
 
-Continued private operation of immigration detention centers and state prisons. Maximum per-diem rates from federal and state contracts. Expanded ICE detention capacity — the company expanded from approximately 20,000 beds to approximately 26,000 beds in 2025 alone through new contracts for multiple facilities. Defeat or rollback of private prison ban legislation (e.g., AB 32 in California). Favorable federal immigration enforcement policy and increased apprehensions (more detainees = more revenue). Congressional authorization and appropriation of the $45 billion ICE detention expansion program (FY 2025–2029) and authorization of the One Big Beautiful Bill Act (OBBBA) that funds unprecedented detention growth.
+Continued private operation of immigration detention centers and state prisons. Maximum per-diem rates from federal and state contracts. Expanded ICE detention capacity, the company expanded from approximately 20,000 beds to approximately 26,000 beds in 2025 alone through new contracts for multiple facilities. Defeat or rollback of private prison ban legislation (e.g. AB 32 in California). Favorable federal immigration enforcement policy and increased apprehensions (more detainees = more revenue). Congressional authorization and appropriation of the $45 billion ICE detention expansion program (FY 2025–2029) and authorization of the One Big Beautiful Bill Act (OBBBA) that funds unprecedented detention growth.
 
 ---
 
@@ -90,7 +90,7 @@ Continued private operation of immigration detention centers and state prisons. 
 | 2006 | $217,861 | $63,950 | 33.2% | $128,911 | 66.8% |
 | 2004 | $142,541 | $28,000 | 19.6% | $114,541 | 80.4% |
 
-**Critical partisan shift:** Before 2012, GEO split donations relatively evenly between parties. After Obama's DOJ announced plans to phase out private prison contracts in 2016, GEO shifted dramatically toward Republicans — by 2020, 94% of contributions went to Republicans. The 2024 cycle shows the partisan tilt is now near-total at 93.9% to Republicans. The 2024 cycle figure of $3.7 million includes large soft-money contributions, including $2.75 million in organizational spending.
+**Critical partisan shift:** Before 2012, GEO split donations relatively evenly between parties. After Obama's DOJ announced plans to phase out private prison contracts in 2016, GEO shifted dramatically toward Republicans, by 2020, 94% of contributions went to Republicans. The 2024 cycle shows the partisan tilt is now near-total at 93.9% to Republicans. The 2024 cycle figure of $3.7 million includes large soft-money contributions, including $2.75 million in organizational spending.
 
 > [!money]
 > **The Partisan Tilt as Political Strategy:** GEO's donation pattern reveals a clear profit-follows-enforcement calculation. When Democratic administrations pursued incarceration reduction, GEO shifted funding away. When Republican administrations expanded detention, GEO went all-in. The company is not investing in ideology — it is investing in occupancy rates.
@@ -126,11 +126,11 @@ Continued private operation of immigration detention centers and state prisons. 
 | George Zoley (personal) | Trump Save America JFC | $11,600 | Max individual contribution |
 | Brian Evans (CEO, personal) | Trump Save America JFC | $11,600 | Max individual contribution |
 
-**Total from GEO Group (PAC + subsidiaries + executives): approximately $2 million** to Trump's 2024 campaign and related entities. Combined with [[CoreCivic]] ($816,600), the two largest private prison companies gave $2,779,000 to Trump's 2024 election efforts — a coordinated bet that paid off within weeks when the Trump administration began awarding detention contracts worth over $1 billion.
+**Total from GEO Group (PAC + subsidiaries + executives): approximately $2 million** to Trump's 2024 campaign and related entities. Combined with [[CoreCivic]] ($816,600), the two largest private prison companies gave $2,779,000 to Trump's 2024 election efforts, a coordinated bet that paid off within weeks when the Trump administration began awarding detention contracts worth over $1 billion.
 
-**Historical Trump alignment:** In 2016, GEO similarly donated $250,000 to Trump's first inauguration committee, and subsidiaries donated $275,000 to the pro-Trump Rebuilding America Now PAC — notably, this occurred the day after the Obama DOJ announced it would phase out private prison contracts. The timing reveals the company's responsiveness to policy signals: enforcement rollback = funding pivot.
+**Historical Trump alignment:** In 2016, GEO similarly donated $250,000 to Trump's first inauguration committee, and subsidiaries donated $275,000 to the pro-Trump Rebuilding America Now PAC, notably, this occurred the day after the Obama DOJ announced it would phase out private prison contracts. The timing reveals the company's responsiveness to policy signals: enforcement rollback = funding pivot.
 
-**Sedition Caucus funding:** Since the January 6 insurrection, GEO Group's PAC donated more than $266,000 to over 32 members of the "Sedition Caucus" — the 147 members of Congress who voted against certifying the 2020 election.
+**Sedition Caucus funding:** Since the January 6 insurrection, GEO Group's PAC donated more than $266,000 to over 32 members of the "Sedition Caucus", the 147 members of Congress who voted against certifying the 2020 election.
 
 #### Federal lobbying expenditures:
 
@@ -139,16 +139,16 @@ Continued private operation of immigration detention centers and state prisons. 
 | 2025 | $2,428,006 | $2,943,330 | **$5,371,336** |
 | 2024 | $1,065,000 | $2,905,672 | **$3,970,672** |
 | 2023 | $841,000 | $2,729,302 | **$3,570,302** |
-| 2020 | $1,490,000 | — | — |
-| 2019 | $1,520,000 | — | — |
+| 2020 | $1,490,000 |, |, |
+| 2019 | $1,520,000 |, |, |
 
-State and local lobbying dwarfs federal spending — in 2025, GEO's largest state contribution was $1,922,600 in Florida alone ($1,007,600 to candidates and $915,000 to committees). The company also gave $154,000 in Arizona, $64,800 in Georgia, $62,500 in Oklahoma, and $39,000 in Indiana. This concentration in a handful of states reflects GEO's bed capacity footprint — the company lobbies where it operates.
+State and local lobbying dwarfs federal spending, in 2025, GEO's largest state contribution was $1,922,600 in Florida alone ($1,007,600 to candidates and $915,000 to committees). The company also gave $154,000 in Arizona, $64,800 in Georgia, $62,500 in Oklahoma, and $39,000 in Indiana. This concentration in a handful of states reflects GEO's bed capacity footprint, the company lobbies where it operates.
 
 #### Federal lobbying focus areas (from GEO's own disclosures):
 DHS appropriations, ICE funding, Commerce-Justice-Science appropriations, location monitoring technology, alternatives to detention (policy capture), and "public-private partnerships in correctional services."
 
 #### Revolving door lobbyists:
-Of GEO's 13 federal lobbyists in 2024, 10 were "revolvers" — former government officials. Notable examples: former Rep. Martha Roby (R-Ala., House Appropriations), Lionel Aguirre (former staffer to Rep. [[Henry Cuellar]], D-Tex., House Appropriations Homeland Security Subcommittee), and Sarah Beatty Rogers (former Chief of Staff to Rep. Meehan, House Homeland Security Committee). After Trump took office in January 2025, GEO hired three new lobbying firms, including one led by Ches McDowell — identified as Donald Trump Jr.'s "avowed hunting buddy." The revolving door operates in both directions: GEO's lobbying operation shapes DHS appropriations while the agency's officials loop through the company's C-suite.
+Of GEO's 13 federal lobbyists in 2024, 10 were "revolvers", former government officials. Notable examples: former Rep. Martha Roby (R-Ala. House Appropriations), Lionel Aguirre (former staffer to Rep. [[Henry Cuellar]], D-Tex. House Appropriations Homeland Security Subcommittee), and Sarah Beatty Rogers (former Chief of Staff to Rep. Meehan, House Homeland Security Committee). After Trump took office in January 2025, GEO hired three new lobbying firms, including one led by Ches McDowell, identified as Donald Trump Jr.'s "avowed hunting buddy." The revolving door operates in both directions: GEO's lobbying operation shapes DHS appropriations while the agency's officials loop through the company's C-suite.
 
 #### Cumulative spending summary:
 GEO Group and its employees have donated approximately $4.4 million to federal candidates and PACs since 2004. Combined with [[CoreCivic]], the two largest private prison companies have spent $25 million on lobbying over the past three decades.
@@ -165,15 +165,15 @@ GEO Group and its employees have donated approximately $4.4 million to federal c
 | Marsha Blackburn (R-TN) | Tennessee | $138,500 | Commerce, Judiciary |
 | John Culberson (R-TX) | Texas | $89,900 | Appropriations: Homeland Security |
 | Hal Rogers (R-KY) | Kentucky | $89,900 | **Appropriations Chair (former)** |
-| Charlie Crist (D-FL) | Florida | $86,700 | — |
+| Charlie Crist (D-FL) | Florida | $86,700 |, |
 | John Carter (R-TX) | Texas | $81,601 | Appropriations: Homeland Security |
 | Kevin McCarthy (R-CA) | California | $75,722 | Former Speaker |
 | Sanford Bishop (D-GA) | Georgia | $64,500 | Appropriations |
 | Mark Green (R-TN) | Tennessee | $55,975 | **Homeland Security Committee Chair** |
 | Steve Scalise (R-LA) | Louisiana | $55,901 | House Majority Leader |
 
-### Critical intersections — The Money-Appropriations Pipeline:
-- **Rep. Henry Cuellar (D-TX)**, the single largest all-time recipient of private prison industry donations ($210,140), sat on the House Appropriations Homeland Security Subcommittee — the precise body that funds ICE detention. GEO Group and [[CoreCivic]] each operate facilities within his district. This represents a direct line from donor to appropriations power.
+### Critical intersections. The Money-Appropriations Pipeline:
+- **Rep. Henry Cuellar (D-TX)**, the single largest all-time recipient of private prison industry donations ($210,140), sat on the House Appropriations Homeland Security Subcommittee, the precise body that funds ICE detention. GEO Group and [[CoreCivic]] each operate facilities within his district. This represents a direct line from donor to appropriations power.
 - **Rep. Mark Green (R-TN)**, Chair of the House Homeland Security Committee, received $55,975 total and $21,800 in the 2023–2024 cycle from the private prison industry.
 - **Rep. Jim Jordan (R-OH)**, Chair of the House Judiciary Committee, received $7,500 in 2024 and $13,768 total from GEO Group.
 - **Rep. Hal Rogers (R-KY)**, former chair of the full House Appropriations Committee, received $89,900 total from the for-profit prison industry.
@@ -181,14 +181,14 @@ GEO Group and its employees have donated approximately $4.4 million to federal c
 #### George Zoley personal contributions:
 - 2024 cycle: $235,463 in personal contributions
 - 2016–2025 lifetime: $2.2 million to various PACs and candidates
-- **August 2024 stock purchase:** Spent over $3 million of personal funds to purchase 250,000 GEO Group shares at $12.28/share — a bet that paid off dramatically when the stock value more than doubled after Trump's election victory in November 2024
+- **August 2024 stock purchase:** Spent over $3 million of personal funds to purchase 250,000 GEO Group shares at $12.28/share, a bet that paid off dramatically when the stock value more than doubled after Trump's election victory in November 2024
 - Notable recipients: $50,000 to House Republican joint fundraising (2023); $78,600 (Zoley + wife) to Rick Scott Victory Fund; maxed-out contributions concentrated in Florida, Arizona, and to Speaker Mike Johnson
 
-This personal investment strategy reveals Zoley's confidence in Trump administration policies. He bet on his own company's stock just before an election he clearly expected would benefit private detention. The 100%+ return on that stock purchase in a matter of weeks proves the bet correct — Trump's election directly lifted GEO's share price and subsequent contract awards.
+This personal investment strategy reveals Zoley's confidence in Trump administration policies. He bet on his own company's stock just before an election he clearly expected would benefit private detention. The 100%+ return on that stock purchase in a matter of weeks proves the bet correct. Trump's election directly lifted GEO's share price and subsequent contract awards.
 
 ---
 
-### What They've Gotten — The Federal Payoff
+### What They've Gotten. The Federal Payoff
 
 The donation-to-policy timeline is the clearest case in the vault of money purchasing specific, measurable policy outcomes. GEO Group's political spending directly correlates with enforcement expansion, contract awards, and regulatory rollbacks.
 
@@ -205,16 +205,16 @@ The donation-to-policy timeline is the clearest case in the vault of money purch
 
 #### Biden paradox (2021–2024):
 
-Biden's January 2021 executive order directed DOJ not to renew private prison contracts affecting approximately 14,000 federal inmates. However, the order explicitly excluded ICE detention — controlled by DHS, not DOJ. This is a critical distinction often misunderstood in media coverage.
+Biden's January 2021 executive order directed DOJ not to renew private prison contracts affecting approximately 14,000 federal inmates. However, the order explicitly excluded ICE detention, controlled by DHS, not DOJ. This is a critical distinction often misunderstood in media coverage.
 
 GEO Group and [[CoreCivic]] derived only approximately 23% of their 2019 revenue combined from DOJ contracts (BOP + USMS). ICE contracts were already the larger revenue source. Biden's "ban" left the most profitable segment entirely untouched.
 
 ### What actually happened under Biden:
 - GEO immediately developed workarounds to offset minimal DOJ losses
-- Converted closed DOJ facilities into ICE facilities (e.g., Moshannon Valley, PA)
+- Converted closed DOJ facilities into ICE facilities (e.g. Moshannon Valley, PA)
 - Expanded ICE contracts to offset DOJ losses
 - Continued to bid on USMS contracts through county intermediaries
-- Result: In 2022, GEO made $1.05 billion from ICE contracts alone — more than ever before
+- Result: In 2022, GEO made $1.05 billion from ICE contracts alone, more than ever before
 - GEO's total revenue under Biden remained approximately $2.4 billion annually, barely lower than Trump-era levels
 
 > [!contradiction]
@@ -241,22 +241,22 @@ GEO Group and [[CoreCivic]] derived only approximately 23% of their 2019 revenue
 
 ---
 
-### ICE Detention Contracts — The Core Business
+### ICE Detention Contracts. The Core Business
 
 #### How ICE pays GEO: Per diem structure
 
-ICE pays GEO a per diem rate (cost per detained immigrant per day) based on guaranteed minimum occupancy levels. As an illustrative example from a 2022 contract: the LaSalle Processing Center contract stipulated a guaranteed minimum of 1,170 detained immigrants at $76.64 per bed per day — approximately $2.7 million per month — regardless of actual occupancy. This "guaranteed minimum" structure means GEO profits regardless of detention levels. If actual detention exceeds the minimum, GEO receives additional per-diem payments.
+ICE pays GEO a per diem rate (cost per detained immigrant per day) based on guaranteed minimum occupancy levels. As an illustrative example from a 2022 contract: the LaSalle Processing Center contract stipulated a guaranteed minimum of 1,170 detained immigrants at $76.64 per bed per day, approximately $2.7 million per month, regardless of actual occupancy. This "guaranteed minimum" structure means GEO profits regardless of detention levels. If actual detention exceeds the minimum, GEO receives additional per-diem payments.
 
 #### Key ICE detention facilities (2025):
 
 | Facility | Location | Beds | Contract Type | Key Terms |
 |----------|----------|------|--------------|-----------|
-| South Texas ICE Processing Center | Dilley, TX | — | 10-year contract (awarded 2020) | — |
+| South Texas ICE Processing Center | Dilley, TX |, | 10-year contract (awarded 2020) |, |
 | LaSalle Processing Center | Louisiana | 1,170+ guaranteed | Per diem: $76.64/bed/day | ~$2.7M/month |
 | Delaney Hall | Newark, NJ | 1,000 | 15-year fixed-price (2025) | $60M+/year |
 | North Lake Processing Center | Baldwin, MI | 1,800 | 2025 | $70M/year |
 | D. Ray James Facility | Folkston, GA | 1,868 | 2025 expansion | Expansion funded |
-| North Florida Detention Facility | Baker County, FL | 1,310 | Joint venture (2025) | — |
+| North Florida Detention Facility | Baker County, FL | 1,310 | Joint venture (2025) |, |
 | Adelanto ICE Processing Center | California | 1,940 | Reactivated 2025 | Federal override of CA law |
 | Karnes County Residential Center | Karnes City, TX | 1,328 | Modified 2025 | $79M year 1 |
 | Northwest ICE Processing Center | Tacoma, WA | 1,575 | Ongoing | Subject of wage theft litigation |
@@ -266,9 +266,9 @@ HigherGov records $13.9 billion in total federal contracts awarded to GEO Group 
 
 ---
 
-### BI Incorporated — E-Carceration Expansion
+### BI Incorporated. E-Carceration Expansion
 
-GEO's 2011 acquisition of BI Incorporated for $145 million extended GEO's control over immigrants beyond physical detention walls into electronic surveillance and tracking. BI operates what critics call "e-carceration" — monitoring immigrants outside detention walls while generating recurring revenue at scale.
+GEO's 2011 acquisition of BI Incorporated for $145 million extended GEO's control over immigrants beyond physical detention walls into electronic surveillance and tracking. BI operates what critics call "e-carceration", monitoring immigrants outside detention walls while generating recurring revenue at scale.
 
 #### BI's growth timeline:
 
@@ -281,10 +281,10 @@ GEO's 2011 acquisition of BI Incorporated for $145 million extended GEO's contro
 | Dec 2025 | BI awarded "skip tracing" contract from ICE | **$121 million over 2 years** |
 
 #### ISAP V contract scope:
-The ISAP V contract is an Indefinite Delivery/Indefinite Quantity (IDIQ) vehicle worth up to $1 billion. It includes GPS monitoring and biometric monitoring services across the entire U.S. at scale — the contract pricing model covers 361,000 participants in year one and 465,000 in year two. This represents a massive expansion of electronic surveillance infrastructure, paid for by DHS.
+The ISAP V contract is an Indefinite Delivery/Indefinite Quantity (IDIQ) vehicle worth up to $1 billion. It includes GPS monitoring and biometric monitoring services across the entire U.S. at scale, the contract pricing model covers 361,000 participants in year one and 465,000 in year two. This represents a massive expansion of electronic surveillance infrastructure, paid for by DHS.
 
 #### Skip-tracing contract (new frontier):
-BI's December 2025 skip-tracing contract award ($121 million over 2 years) represents a significant expansion of ICE surveillance capabilities. Skip tracing — physical surveillance of people's homes to verify addresses and locate individuals on the non-detained docket — provides enhanced location research, commercial data verification, and physical surveillance services for individuals targeted by ICE for deportation.
+BI's December 2025 skip-tracing contract award ($121 million over 2 years) represents a significant expansion of ICE surveillance capabilities. Skip tracing, physical surveillance of people's homes to verify addresses and locate individuals on the non-detained docket, provides enhanced location research, commercial data verification, and physical surveillance services for individuals targeted by ICE for deportation.
 
 This creates what critics call an "e-carceration" pipeline: some immigrants are physically detained by GEO's ICE facilities; others are monitored electronically by BI's ankle monitors; still others are tracked through skip-tracing surveillance for future detention. All three revenue streams flow to GEO Group. All three expand as immigration enforcement expands.
 
@@ -294,19 +294,19 @@ This creates what critics call an "e-carceration" pipeline: some immigrants are 
 
 #### Florida: Home state advantage
 
-Florida — GEO's headquarters state — has been the primary beneficiary of GEO's state-level spending. In 2011, GEO's lobbying effort led to a Florida budget provision requiring privatization of all South Florida prisons — the most valuable state-level contract achievement in the company's history.
+Florida. GEO's headquarters state, has been the primary beneficiary of GEO's state-level spending. In 2011, GEO's lobbying effort led to a Florida budget provision requiring privatization of all South Florida prisons, the most valuable state-level contract achievement in the company's history.
 
 In 2025, GEO received three new managed-only contract awards from the Florida Department of Corrections. GEO spent $1,922,600 in Florida in 2025 alone ($1,007,600 to candidates and $915,000 to committees). U.S. Sen. [[_Marco Rubio Master Profile|Marco Rubio]], while Florida House Speaker, awarded GEO Group a $110 million prison contract and has received over $40,000 in GEO campaign donations throughout his career. Rubio now chairs the Senate Foreign Relations Committee and has not recused himself from federal ICE policy discussions.
 
 #### Washington State: Forced labor lawsuit
 
-Washington State sued GEO in 2017 for paying detainees at its 1,575-bed Northwest ICE Processing Center in Tacoma just $1 per day for work that would otherwise require 85 full-time employees. In 2021, a federal jury ruled unanimously for the state; GEO was ordered to pay $17.3 million in back wages plus $6 million for unjust enrichment. GEO refused to pay and appealed repeatedly. The 9th Circuit affirmed the ruling. As of 2025, GEO is ordered to pay $23 million to Washington State and detainees — less than 1% of the company's 2025 revenues ($2.63 billion). The penalty is so small relative to company revenue that it creates no incentive to change labor practices.
+Washington State sued GEO in 2017 for paying detainees at its 1,575-bed Northwest ICE Processing Center in Tacoma just $1 per day for work that would otherwise require 85 full-time employees. In 2021, a federal jury ruled unanimously for the state; GEO was ordered to pay $17.3 million in back wages plus $6 million for unjust enrichment. GEO refused to pay and appealed repeatedly. The 9th Circuit affirmed the ruling. As of 2025, GEO is ordered to pay $23 million to Washington State and detainees, less than 1% of the company's 2025 revenues ($2.63 billion). The penalty is so small relative to company revenue that it creates no incentive to change labor practices.
 
 #### California: AB 32 and federal override
 
 In 2019, Governor [[_Gavin Newsom Master Profile|Newsom]] signed AB 32, which banned private prisons and immigration detention in California effective 2028. The law was a meaningful policy victory for criminal justice reform advocates. GEO Group immediately challenged it in federal court alongside [[CoreCivic]].
 
-The Ninth Circuit ruled partially in GEO's favor: the state could not force ICE to stop using private contractors for federal detention, as federal law preempts state law on immigration enforcement. Result: 5,200 private detention beds in California remain operational regardless of the state ban. In 2025, GEO reactivated the 1,940-bed Adelanto ICE Processing Center — a facility previously underutilized due to COVID-related court cases.
+The Ninth Circuit ruled partially in GEO's favor: the state could not force ICE to stop using private contractors for federal detention, as federal law preempts state law on immigration enforcement. Result: 5,200 private detention beds in California remain operational regardless of the state ban. In 2025, GEO reactivated the 1,940-bed Adelanto ICE Processing Center, a facility previously underutilized due to COVID-related court cases.
 
 > [!contradiction]
 > **State Power vs. Federal Override:** Newsom signed AB 32. The law survived legal challenge. But federal preemption doctrine ensures that where the federal government wants private detention, the states cannot stop it. This structural contradiction reveals the limits of state-level criminal justice reform against federal power. GEO operates in California not because the state allows it, but because the federal government requires it.
@@ -334,14 +334,14 @@ Despite state-level bans, university and municipal divestment campaigns have pre
 | David Venturella | 22-year ICE executive | Senior role | 2012 |
 | Tracey Valerio | Top ICE contracting official | Paid expert witness (GEO litigation) | 2018 |
 
-The pipeline operates in both directions: GEO Group hires ICE leadership after they leave government, and GEO's lobbying operation — staffed by 10 of 13 federal lobbyists who are former government officials — shapes the DHS appropriations that fund GEO's contracts. The company that profits from detention expansion is staffed by the people who used to run detention operations.
+The pipeline operates in both directions: GEO Group hires ICE leadership after they leave government, and GEO's lobbying operation, staffed by 10 of 13 federal lobbyists who are former government officials, shapes the DHS appropriations that fund GEO's contracts. The company that profits from detention expansion is staffed by the people who used to run detention operations.
 
-#### Pam Bondi — Attorney General Conflict of Interest
+#### Pam Bondi. Attorney General Conflict of Interest
 
 **[[Pam Bondi]]**, now U.S. Attorney General under Trump, has a documented financial and professional relationship with GEO Group:
 
 - **2019:** As Florida Attorney General, Bondi left office and immediately (14 days later) joined Ballard Partners, a registered foreign and domestic lobbying firm
-- **2019–2021:** At Ballard Partners, Bondi was paid $60,000 to lobby the White House and DHS on "promoting the use of public-private partnerships in correctional services" — a direct euphemism for private prison expansion
+- **2019–2021:** At Ballard Partners, Bondi was paid $60,000 to lobby the White House and DHS on "promoting the use of public-private partnerships in correctional services", a direct euphemism for private prison expansion
 - **GEO Group revenue to Ballard Partners:** $390,000 total from the firm's largest client during Bondi's tenure
 - **2021–2025:** Bondi left Ballard Partners and pursued Republican politics
 - **2025:** Trump appointed Bondi U.S. Attorney General
@@ -355,36 +355,36 @@ Bondi now oversees the Department of Justice, which is a major customer of GEO G
 | Date | Recipient/Target | Amount | Policy Return | Time Gap |
 |------|------------------|--------|---------------|----------|
 | 2016 | Rebuilding America Now PAC (pro-Trump) | $275,000 | Day after Obama DOJ announces private prison phaseout | 0 days (anticipatory) |
-| Feb 2017 | AG Jeff Sessions | — | Revokes Obama's DOJ phaseout policy | ~2 months |
-| Apr 2017 | ICE/USMS | — | GEO awarded first Trump-era prison contract | ~3 months |
-| May 2017 | DOJ/BOP | — | 10-year, $664M Bureau of Prisons contract | ~3 months |
+| Feb 2017 | AG Jeff Sessions |, | Revokes Obama's DOJ phaseout policy | ~2 months |
+| Apr 2017 | ICE/USMS |, | GEO awarded first Trump-era prison contract | ~3 months |
+| May 2017 | DOJ/BOP |, | 10-year, $664M Bureau of Prisons contract | ~3 months |
 | 2017–2019 | Various DHS/ICE contracts | Hundreds of millions | 40% increase in GEO's federal contracts | 2+ years |
 | 2024 | Trump 2024 campaign + super PACs | $2,000,000 | Trump elected; vows ICE expansion | ~3 weeks |
-| Jan 20, 2025 | Trump Executive Order | — | Revokes Biden's private prison ban; approves new BOP contracts | ~0 days |
+| Jan 20, 2025 | Trump Executive Order |, | Revokes Biden's private prison ban; approves new BOP contracts | ~0 days |
 | Jan–Mar 2025 | OBBBA authorization + DHS/ICE | $45 billion authorization | $520M in new/expanded annual GEO contracts awarded | ~6 weeks |
-| Q2 2025 | ICE | — | BI Incorporated awarded ISAP V ($1B IDIQ contract) | ~5 months |
-| Q4 2025 | ICE | — | BI awarded skip-tracing contract ($121M/2 years) | ~9 months |
-| FY 2025 | — | — | Net income: $254.4M (700%+ increase) | 12 months |
+| Q2 2025 | ICE |, | BI Incorporated awarded ISAP V ($1B IDIQ contract) | ~5 months |
+| Q4 2025 | ICE |, | BI awarded skip-tracing contract ($121M/2 years) | ~9 months |
+| FY 2025 |, |, | Net income: $254.4M (700%+ increase) | 12 months |
 
-**Pattern analysis:** The timeline reveals a 260:1 return on political investment ($2 million 2024 spending → $520 million 2025 contract awards within weeks). The temporal sequence is not speculative — it is documented, awarded, operational contract value. Every major policy outcome (Sessions' phaseout reversal, Trump's ICE expansion, OBBBA authorization, BI contract expansion) follows closely on GEO's political spending and lobbying. The company does not lobby for outcomes it cannot measure.
+**Pattern analysis:** The timeline reveals a 260:1 return on political investment ($2 million 2024 spending → $520 million 2025 contract awards within weeks). The temporal sequence is not speculative, it is documented, awarded, operational contract value. Every major policy outcome (Sessions' phaseout reversal, Trump's ICE expansion, OBBBA authorization, BI contract expansion) follows closely on GEO's political spending and lobbying. The company does not lobby for outcomes it cannot measure.
 
 ---
 
-### Class Analysis — Profit from Captive Bodies
+### Class Analysis. Profit from Captive Bodies
 
 GEO Group represents the vault's clearest case of a corporation whose entire revenue depends on government policy decisions to detain human beings. The business model is elementary: more enforcement → more detention → more revenue.
 
 #### The structural incentive problem:
 
-GEO Group's own SEC filings identify potential "declines in crossings and apprehensions along the Southwest border" as a **risk to shareholders**. This means GEO Group is structurally incentivized to lobby for policies that maximize detention — a direct conflict with any policy goal of humane treatment, due process, or immigration reform. The company profits if ICE arrests more people. The company's shareholders benefit if detention populations grow. These financial incentives are locked into the company's business model.
+GEO Group's own SEC filings identify potential "declines in crossings and apprehensions along the Southwest border" as a **risk to shareholders**. This means GEO Group is structurally incentivized to lobby for policies that maximize detention, a direct conflict with any policy goal of humane treatment, due process, or immigration reform. The company profits if ICE arrests more people. The company's shareholders benefit if detention populations grow. These financial incentives are locked into the company's business model.
 
 #### Pattern: Donor-Class Override
 
-The $45 billion ICE detention authorization and facility expansion directly serve GEO and [[CoreCivic]]'s bottom line. The 75–95% increase in detention population (from 40,000 to 72,000+) over 12 months is the policy outcome the political spending purchased. Public polling consistently shows Americans oppose mass detention expansion. The policy happened because the donors — and the revolving door officials who run the companies — wanted it. Constituency preference was overridden by donor class interest.
+The $45 billion ICE detention authorization and facility expansion directly serve GEO and [[CoreCivic]]'s bottom line. The 75–95% increase in detention population (from 40,000 to 72,000+) over 12 months is the policy outcome the political spending purchased. Public polling consistently shows Americans oppose mass detention expansion. The policy happened because the donors, and the revolving door officials who run the companies, wanted it. Constituency preference was overridden by donor class interest.
 
 #### Pattern: Revolving Door
 
-The ICE-to-GEO pipeline is the most systematically documented revolving door in the vault. Five senior ICE officials — including the Acting Director — moved to GEO Group. Ten of 13 GEO lobbyists are former government officials. The agency that oversees detention sends its leadership to the company that profits from it. This isn't corruption in the traditional sense — it's structural capture. The regulatory apparatus and the regulated entity share personnel. When Matthew Albence left his role as Acting ICE Director, his next job was at GEO Group. When Daniel Ragsdale left as ICE Deputy Director, his next job was at GEO Group. The revolving door operates automatically because both ICE and GEO reward the same expertise: how to maximize detention.
+The ICE-to-GEO pipeline is the most systematically documented revolving door in the vault. Five senior ICE officials, including the Acting Director, moved to GEO Group. Ten of 13 GEO lobbyists are former government officials. The agency that oversees detention sends its leadership to the company that profits from it. This isn't corruption in the traditional sense, it's structural capture. The regulatory apparatus and the regulated entity share personnel. When Matthew Albence left his role as Acting ICE Director, his next job was at GEO Group. When Daniel Ragsdale left as ICE Deputy Director, his next job was at GEO Group. The revolving door operates automatically because both ICE and GEO reward the same expertise: how to maximize detention.
 
 #### Pattern: Structural Limit
 
@@ -392,7 +392,7 @@ AB 32 demonstrates the limit of state-level reform against federal power. Califo
 
 #### Pattern: Both-Sides Illusion
 
-92% of GEO spending goes to Republicans, but the approximately $17,500 to Democrats is the access premium. The company profits from enforcement expansion (Republican agenda) and from reform delay (Democratic politicians who accept funding despite rhetoric). Biden's 2021 EO exempted ICE contracts — the most profitable segment. The "ban" on private prisons left the most lucrative contracts untouched. Both parties keep the money flowing.
+92% of GEO spending goes to Republicans, but the approximately $17,500 to Democrats is the access premium. The company profits from enforcement expansion (Republican agenda) and from reform delay (Democratic politicians who accept funding despite rhetoric). Biden's 2021 EO exempted ICE contracts, the most profitable segment. The "ban" on private prisons left the most lucrative contracts untouched. Both parties keep the money flowing.
 
 #### Racial and class dimensions:
 
@@ -406,7 +406,7 @@ The Sentencing Project documents that Black men are incarcerated at approximatel
 
 #### Wealth extraction mechanism:
 
-GEO Group operated as a Real Estate Investment Trust (REIT) from 2013 to 2020, which required distributing 90% of income to shareholders. This structure meant the company served primarily as a vehicle for wealth extraction from the federal government — government appropriations converted directly to shareholder dividends. Shareholders are overwhelmingly wealthy and institutional. CEO George Zoley's $3 million stock purchase in August 2024 doubled in value within months.
+GEO Group operated as a Real Estate Investment Trust (REIT) from 2013 to 2020, which required distributing 90% of income to shareholders. This structure meant the company served primarily as a vehicle for wealth extraction from the federal government, government appropriations converted directly to shareholder dividends. Shareholders are overwhelmingly wealthy and institutional. CEO George Zoley's $3 million stock purchase in August 2024 doubled in value within months.
 
 #### The human cost (2025):
 
@@ -414,24 +414,24 @@ GEO Group operated as a Real Estate Investment Trust (REIT) from 2013 to 2020, w
 - **71% of all deaths** in for-profit facilities occur in GEO and [[CoreCivic]] locations
 - **Federal lawsuits** alleging inhumane conditions, medical neglect, and abuse
 - **ACLU complaints** of sexual harassment, coerced labor, and forced work
-- **Supreme Court ruling** (GEO Group, Inc. v. Newsom) that GEO cannot hide behind government immunity — the company can be sued for conditions in its facilities
+- **Supreme Court ruling** (GEO Group, Inc. v. Newsom) that GEO cannot hide behind government immunity, the company can be sued for conditions in its facilities
 - **Wage theft documented:** GEO paid Tacoma detainees $1 per day (2012–2021) despite court orders to pay state minimum wage
 
-None of this slows the expansion. The $45 billion authorization locks in detention infrastructure regardless of documented deaths. The deaths are not a bug in the system — they are a cost of a business model that treats human detention as a revenue stream. As long as occupancy rates drive profit, GEO Group has no incentive to reduce detention populations or improve conditions.
+None of this slows the expansion. The $45 billion authorization locks in detention infrastructure regardless of documented deaths. The deaths are not a bug in the system, they are a cost of a business model that treats human detention as a revenue stream. As long as occupancy rates drive profit, GEO Group has no incentive to reduce detention populations or improve conditions.
 
 ---
 
-### CoreCivic Comparison — The Duopoly
+### CoreCivic Comparison. The Duopoly
 
 | Metric | GEO Group | [[CoreCivic]] | Combined |
 |--------|-----------|-----------|----------|
 | 2025 revenue | $2.63B | $2.2B | $4.83B |
-| Revenue growth | +8.7% | +13% | — |
-| ICE revenue growth (Q4) | — | $120.3M → $244.7M (+103%) | — |
+| Revenue growth | +8.7% | +13% |, |
+| ICE revenue growth (Q4) |, | $120.3M → $244.7M (+103%) |, |
 | 2024 inaugural donation | $500K | $500K | $1M |
 | Market share | ~40% | ~30% | 70%+ |
 
-Both companies gave $500,000 each to Trump's 2025 inaugural — double their 2017 amounts. Both benefit from the same policy architecture. The duopoly ensures that any political investment by either company lifts the entire private detention sector.
+Both companies gave $500,000 each to Trump's 2025 inaugural, double their 2017 amounts. Both benefit from the same policy architecture. The duopoly ensures that any political investment by either company lifts the entire private detention sector.
 
 #### Combined political spending (2021–2025):
 - GEO Group PAC to current Congress members: $280,000+
@@ -444,11 +444,11 @@ GEO's George Zoley and [[CoreCivic]]'s Damon Hininger each personally gave over 
 
 #### Trade association coordination:
 
-Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade association they fund (GEO paid $100,000 in both 2024 and 2025) that advocates for private prison use. While the companies technically compete, research from Cicero Institute describes the result as a "cartel-esque" structure: all three companies (GEO, CoreCivic, MTC) rely on the same unaccountable contract structures, offer the same sorts of programming, and rely on the same business model of ensuring beds are filled for the lowest possible cost. Five states (Arizona, Kentucky, Mississippi, Ohio, Tennessee) have incumbent protection clauses in procurement law that effectively bar new market entrants — protections GEO and [[CoreCivic]] devote significant lobbying resources to maintain.
+Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade association they fund (GEO paid $100,000 in both 2024 and 2025) that advocates for private prison use. While the companies technically compete, research from Cicero Institute describes the result as a "cartel-esque" structure: all three companies (GEO, CoreCivic, MTC) rely on the same unaccountable contract structures, offer the same sorts of programming, and rely on the same business model of ensuring beds are filled for the lowest possible cost. Five states (Arizona, Kentucky, Mississippi, Ohio, Tennessee) have incumbent protection clauses in procurement law that effectively bar new market entrants, protections GEO and [[CoreCivic]] devote significant lobbying resources to maintain.
 
 ---
 
-### Administration Comparison — The Policy-Profit Cycle
+### Administration Comparison. The Policy-Profit Cycle
 
 | Administration | Key Actions | Impact on GEO |
 |---------------|-------------|---------------|
@@ -461,7 +461,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 ### Connected Policy Areas and Related Nodes
 
-- [[Private Detention - AB 32|AB 32 — Private Detention Ban]]
+- [[Private Detention - AB 32|AB 32. Private Detention Ban]]
 - [[Immigration - Donors and Backers|Immigration Donor Network]]
 - [[CoreCivic|CoreCivic (duopoly partner)]]
 - [[Save America PAC]]

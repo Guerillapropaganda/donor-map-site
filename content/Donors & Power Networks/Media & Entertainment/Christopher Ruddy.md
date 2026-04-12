@@ -88,7 +88,7 @@ Christopher Ruddy exemplifies how media proprietorship can be weaponized as a di
 ### Sources
 
 - [Washington Post: Chris Ruddy and Newsmax went all-in on Trump](https://www.washingtonpost.com/lifestyle/ruddy-newsmax-trump/2021/05/05/32b09714-9d32-11eb-9d05-ae06f4529ece_story.html) (Tier 2)
-- [Wikipedia: Christopher Ruddy — Newsmax founding, Trump relationship](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3)
+- [Wikipedia: Christopher Ruddy. Newsmax founding, Trump relationship](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3)
 
 ---
 

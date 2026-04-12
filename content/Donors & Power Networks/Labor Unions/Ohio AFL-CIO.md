@@ -57,7 +57,7 @@ The Ohio AFL-CIO advances labor interests including: collective bargaining prote
 
 ### Who They Fund
 
-The Ohio AFL-CIO distributed an estimated $15-20M in direct support, voter contact, and campaign spending across 2020-2024 cycles. Funding flows to: Democratic gubernatorial and state legislative candidates, U.S. Senate Democrats in Ohio, Democratic ballot measures, and labor-aligned PACs. The federation also operates substantial voter contact operations—phone banks, mail, digital advertising—funded through member dues and leveraging union member volunteers.
+The Ohio AFL-CIO distributed an estimated $15-20M in direct support, voter contact, and campaign spending across 2020-2024 cycles. Funding flows to: Democratic gubernatorial and state legislative candidates, U.S. Senate Democrats in Ohio, Democratic ballot measures, and labor-aligned PACs. The federation also operates substantial voter contact operations, phone banks, mail, digital advertising, funded through member dues and leveraging union member volunteers.
 
 | Recipient Type | Estimated Support | Method |
 |-----------------|------------------|--------|
@@ -75,7 +75,7 @@ The Ohio AFL-CIO has secured policy victories including: prevailing wage protect
 
 ### Class Analysis
 
-The Ohio AFL-CIO represents labor's constraint within Democratic Party politics: substantial organizational capacity and funding, yet systematically outgunned on policy by business interests and finance donors. The federation controls 700,000 member votes and can mobilize significant volunteer networks—genuine working-class power. Yet Democratic politicians repeatedly choose corporate donors over union interests on critical votes (trade, privatization, anti-union legislation). The AFL-CIO's $15-20M spending is dwarfed by Wall Street and tech donor investments in the Democratic Party, revealing labor's secondary position in Democratic coalitions. The federation's ability to deliver voter contact and volunteers remains valuable, but insufficient to overcome donor-class dominance of policy.
+The Ohio AFL-CIO represents labor's constraint within Democratic Party politics: substantial organizational capacity and funding, yet systematically outgunned on policy by business interests and finance donors. The federation controls 700,000 member votes and can mobilize significant volunteer networks, genuine working-class power. Yet Democratic politicians repeatedly choose corporate donors over union interests on critical votes (trade, privatization, anti-union legislation). The AFL-CIO's $15-20M spending is dwarfed by Wall Street and tech donor investments in the Democratic Party, revealing labor's secondary position in Democratic coalitions. The federation's ability to deliver voter contact and volunteers remains valuable, but insufficient to overcome donor-class dominance of policy.
 
 ### Sources
 

@@ -31,7 +31,7 @@ donors: [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]]
 | Valero Energy | Significant |
 | Wilks brothers (fracking) | $15,000,000 (2012 Senate race) |
 
-**The Wilks brothers** — Dan and Farris Wilks — are fracking billionaires from Cisco, Texas. They gave $15 million to a super PAC supporting Cruz's 2012 Senate campaign — one of the largest single-donor contributions in Senate race history at the time. The Wilks fortune comes from Frac Tech Holdings, which provides hydraulic fracturing services. Their $15 million investment bought a senator who would fight every environmental regulation threatening the fracking industry.
+**The Wilks brothers**. Dan and Farris Wilks, are fracking billionaires from Cisco, Texas. They gave $15 million to a super PAC supporting Cruz's 2012 Senate campaign, one of the largest single-donor contributions in Senate race history at the time. The Wilks fortune comes from Frac Tech Holdings, which provides hydraulic fracturing services. Their $15 million investment bought a senator who would fight every environmental regulation threatening the fracking industry.
 
 ---
 
@@ -43,7 +43,7 @@ donors: [[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]]
 
 **Deregulation:** Supports eliminating the EPA's authority to regulate greenhouse gas emissions. Fought Obama-era Clean Power Plan. Supported Trump's withdrawal from Paris Agreement.
 
-**Texas grid failure (February 2021):** During the Texas winter storm that killed 246+ people and left millions without power, Cruz flew to Cancún. The grid failure was partly caused by the deregulated energy market Cruz champions — the same deregulation his oil and gas donors demand. Cruz's response to the crisis: blame renewable energy (wind turbines), despite natural gas infrastructure failures causing the majority of lost generation capacity.
+**Texas grid failure (February 2021):** During the Texas winter storm that killed 246+ people and left millions without power, Cruz flew to Cancún. The grid failure was partly caused by the deregulated energy market Cruz champions, the same deregulation his oil and gas donors demand. Cruz's response to the crisis: blame renewable energy (wind turbines), despite natural gas infrastructure failures causing the majority of lost generation capacity.
 
 > [!contradiction]
 > Cruz fled to Cancún while his constituents froze to death in homes without power — a grid failure caused by the deregulatory framework his donors fund him to maintain. The Cancún trip wasn't the scandal. The scandal is the policy framework: Texas's isolated, deregulated grid exists because energy companies profit from avoiding federal reliability standards. Cruz's donors built the system that failed. Cruz protects the system. His constituents die in it.

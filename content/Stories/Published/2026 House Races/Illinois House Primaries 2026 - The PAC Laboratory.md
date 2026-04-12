@@ -23,22 +23,22 @@ donors:: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy
 
 ### The Testing Ground: Why Illinois Became the 2026 Donor Proving Ground
 
-The March 2026 Illinois Democratic House primaries were the most expensive House primaries in American history, with super PACs spending approximately $31 million to influence four open-seat races. For the first time, competing donor blocs — pro-Israel ([[AIPAC - American Israel Public Affairs Committee|AIPAC]]), pro-crypto (Fairshake, Digital Freedom Fund), and pro-AI (Think Big) — directly competed to reshape a state's congressional delegation through massive primary spending.
+The March 2026 Illinois Democratic House primaries were the most expensive House primaries in American history, with super PACs spending approximately $31 million to influence four open-seat races. For the first time, competing donor blocs, pro-Israel ([[AIPAC - American Israel Public Affairs Committee|AIPAC]]), pro-crypto (Fairshake, Digital Freedom Fund), and pro-AI (Think Big), directly competed to reshape a state's congressional delegation through massive primary spending.
 
 Illinois became the testing ground for a new model of donor control over politics: the primary as donor playground. With four open seats from retirements, diverse multicandidate primaries, and low primary turnout, Illinois primaries required minimal spending to determine outcomes. A $5 million independent expenditure in a House primary reaches saturation quickly. In 2026, the Illinois primaries proved the model works.
 
-**The result:** Candidates backed by major super PACs won 2 of 3 competitive races. Those who won did so with unprecedented independent expenditure support. Those who lost — like [[_Daniel Biss Master Profile|Daniel Biss]], despite his progressive credentials — lost to AIPAC-backed opponents in a way that revealed donor power over Democratic primary voters.
+**The result:** Candidates backed by major super PACs won 2 of 3 competitive races. Those who won did so with unprecedented independent expenditure support. Those who lost, like [[_Daniel Biss Master Profile|Daniel Biss]], despite his progressive credentials, lost to AIPAC-backed opponents in a way that revealed donor power over Democratic primary voters.
 
 ### Total Spending Overview
 
 > [!money]
 > Illinois House primaries March 2026: $31M+ in super PAC spending across four open-seat races. AIPAC-affiliated groups: $14.1M+ across three races ([[_Donna Miller Master Profile|Donna Miller]], [[_Melissa Bean Master Profile|Melissa Bean]], [[_Daniel Biss Master Profile|Daniel Biss]]). [[Think Big AI|Think Big AI]] PAC: $2.5M+. Fairshake: ~$1M+. Other PACs: $10M+. Total represents unprecedented concentration of donor money in a single round of primaries.
 
-This spending occurred in a state Democrats control, with no competitive general election threat. The spending was purely about which donors would control which House seats — intra-party donor warfare conducted in primary.
+This spending occurred in a state Democrats control, with no competitive general election threat. The spending was purely about which donors would control which House seats, intra-party donor warfare conducted in primary.
 
 ### The Three Illinois Races: Donor Dominance and Limits
 
-### IL-2: [[_Donna Miller Master Profile|Donna Miller]] — AIPAC's Straight Win
+### IL-2: [[_Donna Miller Master Profile|Donna Miller]]. AIPAC's Straight Win
 
 **The Race:** Open seat (no incumbent). Cook County Commissioner [[_Donna Miller Master Profile|Donna Miller]] ran in a crowded Democratic primary.
 
@@ -46,9 +46,9 @@ This spending occurred in a state Democrats control, with no competitive general
 
 **Result:** Miller won the primary. [[Daniel Biss]], Donna Miller, [[_Melissa Bean Master Profile|Melissa Bean]] win House primaries as Democrats fight over Israel and four Illinois open seats - NBC News](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2)
 
-**Class Analysis:** Miller's victory demonstrates AIPAC's ability to determine primary outcomes through massive independent spending. $4.4 million in a House primary is effectively deterministic — it's impossible for grassroots opposition to match. Miller's candidacy did not require opposition to Israel policy; she was simply AIPAC's chosen candidate, and AIPAC's spending made her inevitable.
+**Class Analysis:** Miller's victory demonstrates AIPAC's ability to determine primary outcomes through massive independent spending. $4.4 million in a House primary is effectively deterministic, it's impossible for grassroots opposition to match. Miller's candidacy did not require opposition to Israel policy; she was simply AIPAC's chosen candidate, and AIPAC's spending made her inevitable.
 
-### IL-8: [[_Melissa Bean Master Profile|Melissa Bean]] — AIPAC + AI + Crypto Triple Alignment
+### IL-8: [[_Melissa Bean Master Profile|Melissa Bean]]. AIPAC + AI + Crypto Triple Alignment
 
 **The Race:** Open seat (Congressman Raja Krishnamoorthi retired). Former U.S. Representative Melissa Bean ran in a crowded primary.
 
@@ -64,9 +64,9 @@ This spending occurred in a state Democrats control, with no competitive general
 > [!money]
 > Bean received $5+ million in independent expenditure support across multiple super PACs. She was the only Illinois House candidate to receive backing from three distinct donor blocs (AIPAC, AI industry, crypto industry). The message to future candidates is clear: if you align with multiple donor interests, spending becomes stackable.
 
-**Class Analysis:** Bean's candidacy reveals a new pattern in donor coordination. AIPAC backed Bean because of her foreign policy profile. Think Big backed Bean because of her pro-innovation, pro-AI positioning. Fairshake observed her as potentially pro-crypto-friendly. A single candidate aligned with all three — and received combined $5M+ in independent support.
+**Class Analysis:** Bean's candidacy reveals a new pattern in donor coordination. AIPAC backed Bean because of her foreign policy profile. Think Big backed Bean because of her pro-innovation, pro-AI positioning. Fairshake observed her as potentially pro-crypto-friendly. A single candidate aligned with all three, and received combined $5M+ in independent support.
 
-### IL-9: Daniel Biss — AIPAC's Only Loss
+### IL-9: Daniel Biss. AIPAC's Only Loss
 
 **The Race:** Open seat (Congressman Jan Schakowsky retired). Evanston Mayor Daniel Biss, a progressive Jewish candidate who has criticized Israeli government policy, ran against AIPAC-backed state Sen. Laura Fine.
 
@@ -83,7 +83,7 @@ This spending occurred in a state Democrats control, with no competitive general
 3. The opposing donor interest is perceived as heavily-handed
 4. The electorate is diverse enough to resist single-issue framing
 
-...then even massive independent spending can be overcome. Biss won because he represented an alternative donor vision (pro-Israel, pro-labor, pro-environment) that resonated with Democratic primary voters in the 9th District despite AIPAC's spending.
+..then even massive independent spending can be overcome. Biss won because he represented an alternative donor vision (pro-Israel, pro-labor, pro-environment) that resonated with Democratic primary voters in the 9th District despite AIPAC's spending.
 
 ### Why Illinois Became the Laboratory
 
@@ -91,22 +91,22 @@ Illinois was the perfect test case for donor dominance because:
 
 **Open seats:** Four open-seat races from retirements meant no incumbent advantage; purely donor-determined outcomes were possible. [Daniel Biss, Donna Miller, Melissa Bean win House primaries - NBC News](https://www.nbcnews.com/politics/2026-election/illinois-primary-house-election-winners-races-ballots-midterms-rcna263607) (Tier 2)
 
-**Diverse districts:** IL-2 (south side Black), IL-8 (suburban Jewish), IL-9 (north shore progressive) — ideologically diverse, low primary turnout, high susceptibility to TV spending
+**Diverse districts:** IL-2 (south side Black), IL-8 (suburban Jewish), IL-9 (north shore progressive), ideologically diverse, low primary turnout, high susceptibility to TV spending
 
 **Multi-donor competition:** AIPAC, [[Think Big AI|Think Big AI]], Fairshake, Fellowship PAC all active simultaneously. Illinois became a proxy battlefield where different donor blocs tested their model against each other.
 
-**Democratic dominance:** No competitive general election threat. All spending occurred purely for primary control — a clean laboratory for measuring donor power without partisan noise.
+**Democratic dominance:** No competitive general election threat. All spending occurred purely for primary control, a clean laboratory for measuring donor power without partisan noise.
 
 ### The Shell PAC Innovation: Disclosure Evasion as Strategy
 
 The Illinois primaries introduced a major innovation in donor spending: shell PACs with anodyne names that obscure AIPAC's involvement.
 
 ### Three AIPAC-linked shell PACs:
-1. **Elect Chicago Women** — Created late January 2026 at a co-working space, designed to appear as a feminist organization. Spent $5.8M in IL-9 (attacking Biss) + $3.9M in IL-8 (supporting Bean) = $9.7M total. [AIPAC super PAC funded big-spending Illinois groups - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
+1. **Elect Chicago Women**. Created late January 2026 at a co-working space, designed to appear as a feminist organization. Spent $5.8M in IL-9 (attacking Biss) + $3.9M in IL-8 (supporting Bean) = $9.7M total. [AIPAC super PAC funded big-spending Illinois groups - NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
 
-2. **Affordable Chicago Now** — Created at a mailbox rental facility, designed to appear as housing advocacy. Spent $4.4M supporting Donna Miller in IL-2.
+2. **Affordable Chicago Now**. Created at a mailbox rental facility, designed to appear as housing advocacy. Spent $4.4M supporting Donna Miller in IL-2.
 
-3. **Chicago Progressive Partnership** — Third shell PAC, spending $1.2M+ across races.
+3. **Chicago Progressive Partnership**. Third shell PAC, spending $1.2M+ across races.
 
 > [!contradiction]
 > The naming strategy is intentional deception. "Elect Chicago Women" obscures that the actual donor is AIPAC, a pro-Israel lobby. A voter seeing an ad from "Elect Chicago Women" cannot deduce it is AIPAC. A journalist cannot trace the connection until after the election when FEC disclosures are published. This timing is deliberate: by the time voters learn the truth, they have already voted.

@@ -18,7 +18,7 @@ related: "[[Richard Mellon Scaife - Conservative Movement Infrastructure]] · [[
 
 Newsmax Inc. (NYSE: NMAX) is a Boca Raton, Florida-based conservative cable news and digital media company founded in 1998 by Christopher Ruddy, a longtime friend of Donald Trump and former conspiracy-theory journalist. The network went public on March 31, 2025 via a Regulation A+ IPO, briefly achieving a meme-stock market capitalization above $20 billion before settling to approximately $672 million. It operates cable/satellite television, a digital news platform, email list rental services (6+ million addresses), and a nutraceutical product line targeting its 45+ demographic. Newsmax is distributed across 58+ million paid cable homes domestically and over 100 million U.S. homes total including streaming platforms.
 
-What distinguishes Newsmax from other conservative media is the explicit structural entanglement between its CEO's personal political relationships, its foreign and domestic funding sources, and its editorial decisions — all visible through SEC filings, internal court documents, and investigative journalism that reveal executives privately knew the false claims they were broadcasting had no factual basis.
+What distinguishes Newsmax from other conservative media is the explicit structural entanglement between its CEO's personal political relationships, its foreign and domestic funding sources, and its editorial decisions, all visible through SEC filings, internal court documents, and investigative journalism that reveal executives privately knew the false claims they were broadcasting had no factual basis.
 
 ---
 
@@ -31,9 +31,9 @@ What distinguishes Newsmax from other conservative media is the explicit structu
 - Private preferred stock placement (February 2025): $225 million in Series B 7% Convertible Preferred Stock at a 25% discount to IPO price (oversubscribed by $75 million)
 - Total capital raised (2024-2025): Approximately $300 million
 
-**Dual-class voting control:** Christopher Ruddy holds Class A shares with 10 votes per share. The public holds Class B shares with 1 vote per share. Despite owning only ~31% of total shares, Ruddy controls 81.5% of voting power — a controlled company structure that gives him unilateral editorial authority despite being a publicly traded entity.
+**Dual-class voting control:** Christopher Ruddy holds Class A shares with 10 votes per share. The public holds Class B shares with 1 vote per share. Despite owning only ~31% of total shares, Ruddy controls 81.5% of voting power, a controlled company structure that gives him unilateral editorial authority despite being a publicly traded entity.
 
-**Stock price trajectory:** Listed at $10 on March 31, 2025. By April 1, 2025, peaked at $234 per share (+2,230% in one trading day), briefly valuing the company above $28 billion — larger than Fox Corporation on an annual revenue basis despite Newsmax earning $171 million vs. Fox's $14 billion. As of March 31, 2026, trades at ~$5.23/share with a market cap of ~$672 million, down 77% from peak.
+**Stock price trajectory:** Listed at $10 on March 31, 2025. By April 1, 2025, peaked at $234 per share (+2,230% in one trading day), briefly valuing the company above $28 billion, larger than Fox Corporation on an annual revenue basis despite Newsmax earning $171 million vs. Fox's $14 billion. As of March 31, 2026, trades at ~$5.23/share with a market cap of ~$672 million, down 77% from peak.
 
 > [!money]
 > The meme-stock surge reveals market dysfunction: Newsmax's peak valuation of $28 billion represented a price-to-revenue multiple of 163x, compared to Fox Corporation's 5.5x multiple. The collapse from $234 to $5.23 per share — a 98% decline — left the company at the center of a classic speculative bubble. More structurally, Newsmax used its own editorial platform (NewsmaxInvest.com) to promote the IPO to its audience, mixing financial journalism with direct investment solicitation — a practice that obscures the line between editorial content and corporate promotion.
@@ -52,11 +52,11 @@ What distinguishes Newsmax from other conservative media is the explicit structu
 | **Broadcasting segment** | **$153.3M** | **$130.7M** | **+17.3%** |
 | **Digital segment** | **$35.9M** | **$40.3M** | **-10.9%** |
 
-**Growth trajectory:** $41.8 million in 2019 to $189.3 million in 2025 — a 4.5x increase in six years. Television advertising revenue grew 614% from 2021 to 2025.
+**Growth trajectory:** $41.8 million in 2019 to $189.3 million in 2025, a 4.5x increase in six years. Television advertising revenue grew 614% from 2021 to 2025.
 
-**Business model dependency:** Company explicitly disclosed "election-cycle dependent" revenue as a material risk factor — meaning audience size, advertising rates, and affiliate fees all spike during election years and decline during off-cycle periods. This structural dependency on political engagement creates direct incentives to maximize Trump-focused coverage regardless of journalistic standards.
+**Business model dependency:** Company explicitly disclosed "election-cycle dependent" revenue as a material risk factor, meaning audience size, advertising rates, and affiliate fees all spike during election years and decline during off-cycle periods. This structural dependency on political engagement creates direct incentives to maximize Trump-focused coverage regardless of journalistic standards.
 
-**Net operating loss:** $99.5 million loss in FY 2025 (up from $72.2 million in 2024), driven by $107 million in cumulative defamation settlement costs and public-company transition expenses. Despite generating $189M in revenue, the company is burning capital — a fact obscured by IPO proceeds and preferred stock placements.
+**Net operating loss:** $99.5 million loss in FY 2025 (up from $72.2 million in 2024), driven by $107 million in cumulative defamation settlement costs and public-company transition expenses. Despite generating $189M in revenue, the company is burning capital, a fact obscured by IPO proceeds and preferred stock placements.
 
 ---
 
@@ -77,7 +77,7 @@ Christopher Ruddy's personal FEC contributions should be queried against the FEC
 
 ### Who Funds Them
 
-#### Christopher Ruddy — Founder and Controlling Shareholder
+#### Christopher Ruddy. Founder and Controlling Shareholder
 
 - **Current stake:** ~31% of total shares (39.2 million Class A shares) held through "Ruddy Revocable Trust Dated October 12, 2007"; controls 81.5% of total voting power
 - **Founding capital:** 1998 founding with $300,000 in investments, including a $25,000 seed contribution from Richard Mellon Scaife
@@ -86,16 +86,16 @@ Christopher Ruddy's personal FEC contributions should be queried against the FEC
 - **Background:** St. John's University (B.A. history); London School of Economics (M.A. public policy); career at The American Spectator, New York Post, and Pittsburgh Tribune-Review (owned by Scaife), where he wrote Clinton-era conspiracy stories
 - **Peak paper wealth:** $9.1 billion at meme-stock peak (~$234/share in April 2025); ~$3.3 billion at IPO closing (~$83.51/share); ~$205 million at current prices (~$5.23/share)
 
-#### Richard Mellon Scaife Connection — Conservative Infrastructure Financing
+#### Richard Mellon Scaife Connection. Conservative Infrastructure Financing
 
 Scaife was the principal financier of American conservative infrastructure for 40 years. His role in Newsmax's founding connects the network directly to a deliberate project to build ideological media architecture:
 
 - Scaife founded the Heritage Foundation, American Enterprise Institute, and funded the Hoover Institution
 - He owned and controlled the Pittsburgh Tribune-Review, where he employed Ruddy specifically to pursue Clinton conspiracy stories
-- His $25,000 seed investment in Newsmax was not passive — it was placing Ruddy inside a new media venture to continue ideological work outside of traditional journalism constraints
+- His $25,000 seed investment in Newsmax was not passive, it was placing Ruddy inside a new media venture to continue ideological work outside of traditional journalism constraints
 - Newsmax thus emerged not from market demand for conservative news, but from an intentional conservative infrastructure project
 
-#### Thomas Peterffy — Interactive Brokers Billionaire (~18% stake, ~$138M at current prices)
+#### Thomas Peterffy. Interactive Brokers Billionaire (~18% stake, ~$138M at current prices)
 
 - Founder and chairman of Interactive Brokers Group (IBKR), one of the world's largest electronic brokerages
 - Net worth ~$57.3 billion as of November 2025
@@ -103,7 +103,7 @@ Scaife was the principal financier of American conservative infrastructure for 4
 - When asked about the meme-stock surge, reportedly said he was "stunned" and called the valuation "not justified by fundamentals"
 - Political background: Backed Trump in 2020; was briefly against Trump ahead of 2024 elections; subsequently realigned
 
-#### Sheikh Sultan bin Jassim Al Thani — Qatari Royal (~15% stake, ~$118M at current prices)
+#### Sheikh Sultan bin Jassim Al Thani. Qatari Royal (~15% stake, ~$118M at current prices)
 
 This is the most politically significant foreign investment in Newsmax's history and the subject of a March 26, 2024 ICIJ/Washington Post investigation.
 
@@ -114,15 +114,15 @@ This is the most politically significant foreign investment in Newsmax's history
 - **Prior QIA approach:** Newsmax itself confirmed it approached Qatar Investment Authority (QIA) around 2017, which declined. The 2019–2020 Sheikh Sultan investment was described as separate
 - **Investment broker:** Christopher Nixon Cox, a lawyer raising money for Newsmax, wrote WhatsApp messages describing the investment as a way to "improve the emirate's standing in Washington" and texted: "Newsmax deal is incredible for Qs. Literally is a game changer"
 - **Qatar's motive:** A source familiar with Qatar's strategy stated the emirate "wanted to cultivate a sympathetic conservative outlet in the United States and considered Fox News too close to Saudi Arabia." The state wanted to "push every lever they had to establish better relations in Washington"
-- **Cayman Islands timing:** Preparations for the transfer began November 10, 2020 — one week after Trump lost the 2020 election. Heritage says this timing was coincidental
+- **Cayman Islands timing:** Preparations for the transfer began November 10, 2020, one week after Trump lost the 2020 election. Heritage says this timing was coincidental
 
 > [!contradiction]
 > The Newsmax leadership has repeatedly denied that the Qatar investment influenced editorial decisions, yet the ICIJ investigation documented explicit top-down directives to "soften coverage" of Qatar. This is the contradiction between official denial and employee testimony — when multiple Newsmax staffers independently confirm they received instructions to avoid Qatar criticism, the claim of editorial independence becomes factually unsustainable.
 
-#### Vadim Shulman — Ukrainian Oligarch (~4% stake, ~$62M at current prices)
+#### Vadim Shulman. Ukrainian Oligarch (~4% stake, ~$62M at current prices)
 
 - Ukrainian-Israeli businessman (Israeli citizen, Monaco resident); invests through Ekwatoria Enterprises, Inc.
-- Former business associate of **Ihor Kolomoisky**, the Ukrainian oligarch sanctioned by the U.S., charged with embezzling billions from PrivatBank, and arrested in Ukraine on charges related to a 2003 contract killing
+- Former business associate of **Ihor Kolomoisky**, the Ukrainian oligarch sanctioned by the U.S. charged with embezzling billions from PrivatBank, and arrested in Ukraine on charges related to a 2003 contract killing
 - Shulman sued Kolomoisky in 2017 alleging they stole over $500 million from him
 - In 2019, placed on Ukraine's Ministry of Internal Affairs wanted persons list on accusations of money laundering, which he strongly denied
 - Per a December 2024 court filing in a California lawsuit (Pathway Genomics), "Defendants had represented that Vadim Shulman was not allowed to enter the U.S."
@@ -144,7 +144,7 @@ This is the most politically significant foreign investment in Newsmax's history
 
 #### Cable Carriage as Political Infrastructure
 
-Newsmax's editorial positioning is directly tied to its financial interests in cable carriage fees — a commercial battle that Ruddy has weaponized as a political issue:
+Newsmax's editorial positioning is directly tied to its financial interests in cable carriage fees, a commercial battle that Ruddy has weaponized as a political issue:
 
 **January 25, 2023:** DirecTV dropped Newsmax from its lineup after negotiations over carriage fees collapsed. Newsmax was seeking "about $1 per cable subscriber per year" (~$58 million annually if the ask applied system-wide); DirecTV said this would have led to "significantly higher costs" for subscribers.
 
@@ -169,10 +169,10 @@ Newsmax's content architecture is fundamentally organized around Trump support:
 
 Court documents from the Dominion defamation case revealed the internal reality:
 
-- Newsmax host Bob Sellers, days after November 2020 election: "How long are we going to go along with the fraud?" — internally questioning the network's false election claims
-- CEO Chris Ruddy privately texted concern about Trump meeting with Sidney Powell, calling it "scary" — yet the network continued platforming Powell
+- Newsmax host Bob Sellers, days after November 2020 election: "How long are we going to go along with the fraud?", internally questioning the network's false election claims
+- CEO Chris Ruddy privately texted concern about Trump meeting with Sidney Powell, calling it "scary", yet the network continued platforming Powell
 - Internal Newsmax documents showed the network "took pride in not declaring Biden the election winner and saw an opportunity to attract viewers who believed Trump had won"
-- Employees "consistently cautioned against the misinformation propagated by pro-Trump figures like attorney Sidney Powell" — yet those figures continued airing
+- Employees "consistently cautioned against the misinformation propagated by pro-Trump figures like attorney Sidney Powell", yet those figures continued airing
 - On-air host Bob Sellers walked off the set in February 2021 when MyPillow CEO Mike Lindell attempted to repeat Dominion conspiracy theories live on air
 
 **The business decision was explicit:** As the New York Times reported, Ruddy "recognized an opportunity: Newsmax became a haven for an alternate reality," and Ruddy represents "the quintessential example of another classic television archetype: the profit-driven cynic, for whom the essence of programming serves merely as a means to achieve wealth and influence."
@@ -183,7 +183,7 @@ Court documents from the Dominion defamation case revealed the internal reality:
 
 #### Email List Monetization
 
-Newsmax maintains 6+ million individual email subscriptions across 70 separate lists — not as editorial assets but as revenue-generating and political assets that are actively rented to political campaigns, advocacy groups, and commercial advertisers.
+Newsmax maintains 6+ million individual email subscriptions across 70 separate lists, not as editorial assets but as revenue-generating and political assets that are actively rented to political campaigns, advocacy groups, and commercial advertisers.
 
 - The Trump 2016 campaign used Newsmax email lists for fundraising, raising approximately $800,000
 - These lists represent direct access to 6+ million Trump supporters whose contact information is sold to political actors
@@ -191,7 +191,7 @@ Newsmax maintains 6+ million individual email subscriptions across 70 separate l
 
 #### Supplement Sales as Revenue Dependency
 
-Newsmax sells health supplements (nutraceuticals) through its digital properties targeted at its 45+ demographic. This product line grew 20.7% in 2025. The business model mirrors InfoWars — using fear-based content as a sales funnel to supplement purchasing.
+Newsmax sells health supplements (nutraceuticals) through its digital properties targeted at its 45+ demographic. This product line grew 20.7% in 2025. The business model mirrors InfoWars, using fear-based content as a sales funnel to supplement purchasing.
 
 #### 2020 Election Coverage as Ratings Optimization
 
@@ -217,11 +217,11 @@ Confirmation of Scaife's legacy as a principal architect of conservative media i
 
 #### Thomas Peterffy Got
 
-Exposure to an equity investment in Trump-aligned media that briefly appreciated to $28 billion in valuation (though he publicly noted the meme-stock surge was irrational). More structurally, Peterffy — as one of the world's richest people with ideological commitments — gained influence over editorial positioning through equity stake in a media platform with Trump access.
+Exposure to an equity investment in Trump-aligned media that briefly appreciated to $28 billion in valuation (though he publicly noted the meme-stock surge was irrational). More structurally, Peterffy, as one of the world's richest people with ideological commitments, gained influence over editorial positioning through equity stake in a media platform with Trump access.
 
 #### Sheikh Sultan bin Jassim Al Thani (Qatar) Got
 
-Direct editorial influence over a conservative media outlet during a period when Qatar was facing Saudi-led diplomatic isolation. The documented outcome was explicit editorial suppression of Qatar criticism — exactly what Qatar wanted. By investing $50 million, Qatar purchased favorable coverage and suppression of unfavorable coverage.
+Direct editorial influence over a conservative media outlet during a period when Qatar was facing Saudi-led diplomatic isolation. The documented outcome was explicit editorial suppression of Qatar criticism, exactly what Qatar wanted. By investing $50 million, Qatar purchased favorable coverage and suppression of unfavorable coverage.
 
 #### Vadim Shulman Got
 
@@ -229,7 +229,7 @@ Ownership stake in a Trump-aligned media platform at a moment when Trump was ret
 
 #### Alex Acosta (via Board Appointment) Got
 
-When Acosta — the federal prosecutor who brokered Jeffrey Epstein's 2008 plea deal — joined the Newsmax board in March 2025, he gained a platform to defend his Epstein legacy during the period of peak public interest in the Epstein files. Newsmax immediately aired a segment in which host Greg Kelly defended Acosta, claiming the "Epstein story was rebooted because they wanted to embarrass" him. This is editorial support in exchange for board position.
+When Acosta, the federal prosecutor who brokered Jeffrey Epstein's 2008 plea deal, joined the Newsmax board in March 2025, he gained a platform to defend his Epstein legacy during the period of peak public interest in the Epstein files. Newsmax immediately aired a segment in which host Greg Kelly defended Acosta, claiming the "Epstein story was rebooted because they wanted to embarrass" him. This is editorial support in exchange for board position.
 
 ---
 
@@ -239,9 +239,9 @@ Newsmax represents the clearest documented case of how conservative media has be
 
 The core structural insight: Newsmax exists because its founding financiers (Scaife → Ruddy's equity stake → public shareholders) wanted a media platform to push conservative ideology without the constraints that bind traditional journalism. The network succeeds financially not through audience trust or editorial excellence, but through three mechanisms:
 
-1. **Political leverage** — Ruddy's friendship with Trump allows Newsmax to activate political allies (Trump, GOP Congress) to solve commercial problems (DirecTV carriage negotiations, FCC regulatory threats)
-2. **Foreign money for editorial influence** — Qatar's $50 million investment purchased explicit editorial suppression of Qatar criticism
-3. **Audience monetization** — The network rents its 6+ million subscriber list to political campaigns and sells supplements to its audience using fear-based content
+1. **Political leverage**. Ruddy's friendship with Trump allows Newsmax to activate political allies (Trump, GOP Congress) to solve commercial problems (DirecTV carriage negotiations, FCC regulatory threats)
+2. **Foreign money for editorial influence**. Qatar's $50 million investment purchased explicit editorial suppression of Qatar criticism
+3. **Audience monetization**. The network rents its 6+ million subscriber list to political campaigns and sells supplements to its audience using fear-based content
 
 The defamation settlements ($107 million) prove the model: Newsmax executives knew the 2020 election claims were false. They broadcast them anyway because false content generates higher ratings and audience engagement. They sustained this strategy until legal costs became too large to ignore. At no point did editorial integrity or journalistic truth overcome the financial incentive.
 
@@ -255,9 +255,9 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 
 **Platform funders:** Richard Mellon Scaife (founding infrastructure), Thomas Peterffy (speculative equity), Sheikh Sultan bin Jassim Al Thani via Qatar (state-level foreign investment for editorial influence), Vadim Shulman (oligarch capital), plus public shareholders and cable carriage fees.
 
-**Income dependency:** Primary revenue from cable carriage fees (affiliate revenue growing 14.9% in 2025), television advertising, email list rental to political campaigns, and supplement sales. Cable carriage fees are the "whole ball game" — if Newsmax loses MFN-clause carriage agreements with major providers, the license-fee business model collapses. This creates structural dependency on maintaining favorable relationships with cable operators and, critically, on using political leverage (Trump, GOP Congress) to force favorable carriage terms.
+**Income dependency:** Primary revenue from cable carriage fees (affiliate revenue growing 14.9% in 2025), television advertising, email list rental to political campaigns, and supplement sales. Cable carriage fees are the "whole ball game", if Newsmax loses MFN-clause carriage agreements with major providers, the license-fee business model collapses. This creates structural dependency on maintaining favorable relationships with cable operators and, critically, on using political leverage (Trump, GOP Congress) to force favorable carriage terms.
 
-**Editorial red lines:** Documented suppression of Qatar criticism following $50 million investment; deletion of FCC-critical content on CEO Ruddy's personal order; sustained false 2020 election coverage despite private acknowledgment of falsity; soft coverage of Epstein/Acosta after Acosta joined board; avoidance of any substantive Trump criticism (Ruddy stated Trump "tends to believe that if you're his friend, you shouldn't publish anything negative about him... it was not essential for us to secure an interview with Donald Trump").
+**Editorial red lines:** Documented suppression of Qatar criticism following $50 million investment; deletion of FCC-critical content on CEO Ruddy's personal order; sustained false 2020 election coverage despite private acknowledgment of falsity; soft coverage of Epstein/Acosta after Acosta joined board; avoidance of any substantive Trump criticism (Ruddy stated Trump "tends to believe that if you're his friend, you shouldn't publish anything negative about him.. it was not essential for us to secure an interview with Donald Trump").
 
 ---
 
@@ -300,7 +300,7 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 - [Newsmax SEC Form 1-A Offering Statement (Regulation A+ IPO)](https://www.sec.gov/Archives/edgar/data/2026478/000121390025011388/ea022889101-1a_newsmax.htm) (Tier 1)
 - [Newsmax Investor Relations: IPO Closing Announcement](https://ir.newsmax.com/news/news-details/2025/Newsmax-Announces-Closing-of-75-Million-Initial-Public-Offering/default.aspx) (Tier 1)
 
-### Investigative Journalism — Foreign Investment & Editorial Suppression (Tier 2):
+### Investigative Journalism. Foreign Investment & Editorial Suppression (Tier 2):
 - [ICIJ: "Qatari royal invested about $50 million in pro-Trump network Newsmax"](https://www.icij.org/inside-icij/2024/03/qatari-royal-invested-about-50-million-in-pro-trump-network-newsmax/) (Tier 2)
 - [Washington Post / Stars and Stripes: Qatar Investment Investigation](https://www.stripes.com/theaters/middle_east/2024-03-26/qatari-royal-invested-newsmax-13433363.html) (Tier 2)
 - [Mediaite: "Newsmax Leaders Urged Staff to 'Soften' Coverage of Qatar"](https://www.mediaite.com/media/news/newsmax-leaders-urged-staff-to-soften-coverage-of-qatar-after-gulf-royal-invested-50-million-in-network-report/) (Tier 2)

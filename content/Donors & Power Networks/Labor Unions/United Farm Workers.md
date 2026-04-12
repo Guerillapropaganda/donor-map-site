@@ -71,16 +71,16 @@ The UFW's political operation is modest compared to industrial unions ($1-3 mill
 
 ### The Structural Vulnerability of Farmworkers
 
-Farmworkers are the most politically vulnerable workforce in America: 50-70% are undocumented, average annual income is $20,000-30,000, and agricultural work is exempt from many federal labor protections. The Fair Labor Standards Act's agricultural exemption — written in 1938 to preserve Southern plantation labor arrangements — continues to exclude farmworkers from overtime pay requirements and child labor protections that cover all other workers.
+Farmworkers are the most politically vulnerable workforce in America: 50-70% are undocumented, average annual income is $20,000-30,000, and agricultural work is exempt from many federal labor protections. The Fair Labor Standards Act's agricultural exemption, written in 1938 to preserve Southern plantation labor arrangements, continues to exclude farmworkers from overtime pay requirements and child labor protections that cover all other workers.
 
-The immigration dimension: agribusiness depends on immigrant farmworker labor (American citizens are unwilling to perform agricultural work at current wages), but undocumented status makes workers unable to exercise legal rights (fear of deportation prevents filing wage theft claims, reporting safety violations, or organizing unions). The agribusiness model depends on worker vulnerability — and immigration enforcement maintains that vulnerability.
+The immigration dimension: agribusiness depends on immigrant farmworker labor (American citizens are unwilling to perform agricultural work at current wages), but undocumented status makes workers unable to exercise legal rights (fear of deportation prevents filing wage theft claims, reporting safety violations, or organizing unions). The agribusiness model depends on worker vulnerability, and immigration enforcement maintains that vulnerability.
 
 > [!money]
 > The UFW's declining membership illustrates the structural impossibility of organizing the most exploited workforce in America: undocumented workers cannot safely join unions, agricultural exemptions reduce legal protections, and agribusiness lobbying blocks legislative reforms. The same agricultural industry that depends on immigrant labor lobbies against immigration reform that would give farmworkers legal status and the ability to organize. The structural design: maintain worker vulnerability through immigration enforcement, maintain labor supply through unenforced border policy, and maintain political protection through agricultural lobbying. The farmworker is the system's essential participant and its most disposable component.
 
 ---
 
-### Financial Overview (990 Filing — 2020)
+### Financial Overview (990 Filing, 2020)
 <!-- auto:propublica-990 start -->
 
 | Metric | Amount |

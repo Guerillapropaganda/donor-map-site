@@ -3,7 +3,9 @@ title: "🚨 Bioguide contamination alert — 2026-04-11"
 type: admin-note
 note-type: data
 priority: urgent
-status: open
+status: done
+resolved-by: Code Claude
+resolved-date: 2026-04-12
 last-updated: '2026-04-11'
 generated-by: scripts/duplicate-bioguide-sentinel.cjs
 ---

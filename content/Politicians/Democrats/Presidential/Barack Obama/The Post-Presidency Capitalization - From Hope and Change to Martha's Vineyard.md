@@ -68,7 +68,7 @@ The $65 million book deal with Penguin Random House in February 2017 was the lar
 - George W. Bush: $10 million (2010)
 - Barack & Michelle Obama: $65 million (2017)
 
-The deal includes both Barack and Michelle's memoirs. The stated market rate was unprecedented. But the actual market for presidential memoirs is limited — most sell 200K-300K copies, generating roughly $10-15 million in revenue for the publisher. A $65 million advance cannot be justified by sales projections alone.
+The deal includes both Barack and Michelle's memoirs. The stated market rate was unprecedented. But the actual market for presidential memoirs is limited, most sell 200K-300K copies, generating roughly $10-15 million in revenue for the publisher. A $65 million advance cannot be justified by sales projections alone.
 
 What justified the $65 million advance was not market demand; it was capital's decision to reward Obama for eight years of protecting capital's interests. The "market rate" for a book deal is whatever capital decides it is when rewarding political service.
 
@@ -94,7 +94,7 @@ After leaving office, Obama commanded $400,000+ per speech. These fees were not 
 - Hedge funds
 - Corporate conferences
 
-The speeches were not primarily investigative — Obama did not deliver critiques of these industries. The speeches were celebratory of "entrepreneurship," "innovation," and "market-driven solutions." The content matched the audience and the payment.
+The speeches were not primarily investigative. Obama did not deliver critiques of these industries. The speeches were celebratory of "entrepreneurship," "innovation," and "market-driven solutions." The content matched the audience and the payment.
 
 A 60-minute speech earning $400,000 is not compensated for public speaking ability; it is compensated for access. The audience is paying for the possibility of 1-on-1 conversation with a former president who shaped regulatory policy that affected their interests for eight years.
 
@@ -108,7 +108,7 @@ After leaving office, Obama created Organizing for Action (OFA), a 501(c)(4) non
 
 The function is clear: channel grassroots energy into Democratic Party infrastructure without threatening donor class interests. When Sanders mobilized millions of small-dollar donors in 2016 and 2020, the OFA-Democracy Alliance apparatus worked to contain that movement.
 
-By 2020, OFA was mobilizing for Biden — a candidate who received $74M+ from Wall Street donors and bundlers. The infrastructure that Obama built converted grassroots enthusiasm into support for the donor-aligned candidate.
+By 2020, OFA was mobilizing for Biden, a candidate who received $74M+ from Wall Street donors and bundlers. The infrastructure that Obama built converted grassroots enthusiasm into support for the donor-aligned candidate.
 
 This is the structural function that makes Obama genuinely important: he built the post-partisan infrastructure that manages working-class political energy and directs it toward outcomes capital prefers.
 
@@ -142,11 +142,11 @@ The gap between rhetoric and reality was the entire presidency. The post-preside
 
 ### Analytical Patterns
 
-**The Genuine Win + Structural Limit** — Obama's presidency did accomplish real policy: 20M people gained healthcare coverage (genuine win). But the healthcare structure preserved insurance company profits. His post-presidency success is genuine — the $65M book deal, the Netflix deal, the Martha's Vineyard estate are real. But they also reveal the structural function of his presidency: protect capital, be rewarded with wealth and access to billionaire class status.
+**The Genuine Win + Structural Limit**. Obama's presidency did accomplish real policy: 20M people gained healthcare coverage (genuine win). But the healthcare structure preserved insurance company profits. His post-presidency success is genuine, the $65M book deal, the Netflix deal, the Martha's Vineyard estate are real. But they also reveal the structural function of his presidency: protect capital, be rewarded with wealth and access to billionaire class status.
 
-**The Two-Audience Problem Reaching Its Ultimate Expression** — Obama told progressive voters he represented challenge to power. He told capital he would protect their interests. Both were true. The post-presidency wealth reveals which audience got what they wanted more completely. Capital got everything. Progressives got partial wins within structures that ensured capital's preservation.
+**The Two-Audience Problem Reaching Its Ultimate Expression**. Obama told progressive voters he represented challenge to power. He told capital he would protect their interests. Both were true. The post-presidency wealth reveals which audience got what they wanted more completely. Capital got everything. Progressives got partial wins within structures that ensured capital's preservation.
 
-**The Oligarchic Reward Structure** — The post-presidency capitalization is not corruption; it is the normal functioning of capital-aligned governance. Politicians who protect capital are rewarded with wealth accumulation. Politicians who threaten capital are not. The reward happens through legal mechanisms (book deals, speaking fees, board positions, media property ownership). No laws are broken. The class structure is simply revealed clearly.
+**The Oligarchic Reward Structure**. The post-presidency capitalization is not corruption; it is the normal functioning of capital-aligned governance. Politicians who protect capital are rewarded with wealth accumulation. Politicians who threaten capital are not. The reward happens through legal mechanisms (book deals, speaking fees, board positions, media property ownership). No laws are broken. The class structure is simply revealed clearly.
 
 ---
 

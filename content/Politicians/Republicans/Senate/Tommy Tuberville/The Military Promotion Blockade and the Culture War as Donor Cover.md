@@ -15,11 +15,11 @@ donors: [[Defense Industry Bloc]]
 
 ### The Blockade: What Happened
 
-From February 2023 to December 2023, Senator [[_Tommy Tuberville Master Profile|Tommy Tuberville]] placed a blanket hold on all U.S. military officer promotions requiring Senate confirmation — a blockade that lasted 10 months and affected more than 450 senior officers. The hold was the longest, broadest military promotions blockade in modern Senate history.
+From February 2023 to December 2023, Senator [[_Tommy Tuberville Master Profile|Tommy Tuberville]] placed a blanket hold on all U.S. military officer promotions requiring Senate confirmation, a blockade that lasted 10 months and affected more than 450 senior officers. The hold was the longest, broadest military promotions blockade in modern Senate history.
 
 The stated rationale: opposition to a Department of Defense policy, implemented by Defense Secretary Lloyd Austin following the Supreme Court's *Dobbs* decision, that reimbursed travel costs for service members stationed in states with abortion restrictions who needed to seek abortion care. Tuberville framed this as a pro-life stand against the Pentagon "funding abortion."
 
-The practical reality: the Pentagon policy involved travel reimbursements, not abortion funding. Service members have always had access to reproductive healthcare; the policy addressed the logistical burden created when states began banning abortion and service members — who cannot choose where they are stationed — lost access to local care. Austin said the policy was necessary to ensure military families maintained equal access to healthcare regardless of their duty station.
+The practical reality: the Pentagon policy involved travel reimbursements, not abortion funding. Service members have always had access to reproductive healthcare; the policy addressed the logistical burden created when states began banning abortion and service members, who cannot choose where they are stationed, lost access to local care. Austin said the policy was necessary to ensure military families maintained equal access to healthcare regardless of their duty station.
 
 ---
 
@@ -52,7 +52,7 @@ For 10 months, the United States operated major combatant commands without Senat
 
 The gap between Tuberville's stated motive (abortion opposition) and his financial interests (defense contractor donations) becomes visible when you look at who donated to him during the blockade.
 
-Six of the world's largest defense contractors — BAE Systems, Kratos Defense & Security Solutions, [[Lockheed Martin|Lockheed Martin]], L3Harris Technologies, Leidos, and Parsons Corporation — made political donations to Tuberville between February 17, 2023 (when he announced the hold) and June 30, 2023 (mid-year filing deadline). These are not fringe companies; they are among the primary beneficiaries of the Pentagon budget that Tuberville's Armed Services Committee seat directly oversees.
+Six of the world's largest defense contractors. BAE Systems, Kratos Defense & Security Solutions, [[Lockheed Martin|Lockheed Martin]], L3Harris Technologies, Leidos, and Parsons Corporation, made political donations to Tuberville between February 17, 2023 (when he announced the hold) and June 30, 2023 (mid-year filing deadline). These are not fringe companies; they are among the primary beneficiaries of the Pentagon budget that Tuberville's Armed Services Committee seat directly oversees.
 
 The pattern: Tuberville holds military promotions → Pentagon capacity is degraded → defense contractors benefit from any environment that creates pressure for more private-sector military support → contractors donate to Tuberville → Tuberville maintains his Armed Services Committee seat.
 
@@ -63,11 +63,11 @@ The pattern: Tuberville holds military promotions → Pentagon capacity is degra
 
 ### How It Ended (and What It Didn't Accomplish)
 
-In December 2023, after 10 months, Tuberville ended the blockade — without securing any policy concession. The Pentagon's abortion travel reimbursement policy remained in place. Tuberville capitulated after sustained criticism from Republican colleagues (including Senate Armed Services Committee members Dan Sullivan and [[_Joni Ernst Master Profile|Joni Ernst]]) and after the Senate began the slow process of confirming promotions individually, consuming floor time that the Senate Republican leadership wanted back.
+In December 2023, after 10 months, Tuberville ended the blockade, without securing any policy concession. The Pentagon's abortion travel reimbursement policy remained in place. Tuberville capitulated after sustained criticism from Republican colleagues (including Senate Armed Services Committee members Dan Sullivan and [[_Joni Ernst Master Profile|Joni Ernst]]) and after the Senate began the slow process of confirming promotions individually, consuming floor time that the Senate Republican leadership wanted back.
 
 The resolution: Tuberville relented on most promotions in early December 2023, then released the final four-star holds on December 19, 2023. No policy changes were made. He framed the end as a strategic repositioning, blaming Democrats for not holding a vote on his policy demand.
 
-The GAO later reviewed the blockade's effects and found that it caused significant harm to military families — forced relocations, career disruptions, family separations — but concluded it did not "impair military readiness" in the formal operational sense. Tuberville cited this finding as vindication. His critics noted that 10 months of leaderless combatant commands affecting Pacific deterrence, cyber defense, and North American air defense was not a consequence-free event.
+The GAO later reviewed the blockade's effects and found that it caused significant harm to military families, forced relocations, career disruptions, family separations, but concluded it did not "impair military readiness" in the formal operational sense. Tuberville cited this finding as vindication. His critics noted that 10 months of leaderless combatant commands affecting Pacific deterrence, cyber defense, and North American air defense was not a consequence-free event.
 
 ---
 
@@ -81,7 +81,7 @@ The military promotions blockade is a case study in how social-conservative fram
 4. **Collect donations** from the industries that benefit from the degradation, framed as legitimate political support
 5. **Exit without concessions** when the political cost exceeds the benefit, claim the issue was never winnable given Democratic obstruction
 
-The abortion issue was genuine in the sense that Tuberville believes what he says. But the tool he chose — Armed Services confirmation blockade — was available to him because defense contractors funded his seat on that committee. The donors who funded his election (agriculture, defense, MAGA small-dollar) collected different returns: agriculture got committee presence, defense got Armed Services access, and the blockade itself, whatever its stated purpose, served to demonstrate that Tuberville would use his committee seat aggressively. That demonstration has value to every donor who funds committee members.
+The abortion issue was genuine in the sense that Tuberville believes what he says. But the tool he chose. Armed Services confirmation blockade, was available to him because defense contractors funded his seat on that committee. The donors who funded his election (agriculture, defense, MAGA small-dollar) collected different returns: agriculture got committee presence, defense got Armed Services access, and the blockade itself, whatever its stated purpose, served to demonstrate that Tuberville would use his committee seat aggressively. That demonstration has value to every donor who funds committee members.
 
 ---
 

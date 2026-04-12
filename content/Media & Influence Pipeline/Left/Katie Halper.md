@@ -23,7 +23,7 @@ Katie Halper is a freelance journalist, podcaster, and progressive media persona
 
 **Total:** $0 | **Contributions:** 0 | **API-verified:** 2026-03-27
 
-No FEC individual contributions found. The FEC API returns 0 results for "HALPER, KATIE" and "HALPER, KATE" — no contributions on record. A progressive journalist fired for Israel/Palestine coverage who makes $0 in traceable political contributions — her political influence operates entirely through journalism and audience reach, not campaign finance. The $0 mirrors the left-media precarity pattern: figures who lack institutional salary also lack disposable income for political donations.
+No FEC individual contributions found. The FEC API returns 0 results for "HALPER, KATIE" and "HALPER, KATE", no contributions on record. A progressive journalist fired for Israel/Palestine coverage who makes $0 in traceable political contributions, her political influence operates entirely through journalism and audience reach, not campaign finance. The $0 mirrors the left-media precarity pattern: figures who lack institutional salary also lack disposable income for political donations.
 
 - [FEC: Katie Halper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HALPER%2C+KATIE) (Tier 1)
 
@@ -31,11 +31,11 @@ No FEC individual contributions found. The FEC API returns 0 results for "HALPER
 
 Halper's income streams combine precarity and independence:
 
-1. **Useful Idiots podcast** — Audience-funded through Patreon contributions from listeners; also previously distributed by Rolling Stone (discontinued after her firing from The Hill)
-2. **Freelance journalism** — Per-article payments from publications (The Guardian, Jacobin, Common Dreams, etc.)
-3. **Speaking engagements** — Progressive conferences, universities, activist events
-4. **Patreon direct support** — Individual listener subscriptions ($5-$50/month tiers)
-5. **No institutional salary** — After firing from The Hill, Halper became entirely precarious and independent
+1. **Useful Idiots podcast**. Audience-funded through Patreon contributions from listeners; also previously distributed by Rolling Stone (discontinued after her firing from The Hill)
+2. **Freelance journalism**. Per-article payments from publications (The Guardian, Jacobin, Common Dreams, etc.)
+3. **Speaking engagements**. Progressive conferences, universities, activist events
+4. **Patreon direct support**. Individual listener subscriptions ($5-$50/month tiers)
+5. **No institutional salary**. After firing from The Hill, Halper became entirely precarious and independent
 
 The model reflects structural vulnerability of left-media personalities: they lack billionaire funders like the right-wing ecosystem has. Instead, they depend on audience loyalty and small-dollar funding. This creates both editorial freedom (no billionaire veto) and financial instability (no guaranteed income).
 
@@ -45,7 +45,7 @@ The model reflects structural vulnerability of left-media personalities: they la
 
 **Secondary funding:** Rolling Stone distribution deal (revenue-share arrangement for podcast hosting/promotion; discontinued September 2022)
 
-**Tertiary funding:** Publication payments from left-media outlets (The Guardian, Jacobin, Common Dreams, etc.) — typically $500-$3,000 per article
+**Tertiary funding:** Publication payments from left-media outlets (The Guardian, Jacobin, Common Dreams, etc.), typically $500-$3,000 per article
 
 **What they don't have:** No single billionaire underwriter; no corporate media salary (after Hill firing); no institutional protection
 
@@ -78,7 +78,7 @@ Podcast format enables daily habit formation and parasocial relationship buildin
 
 **Rhetorical pattern:** Halper positions herself as suppressed truth-teller; her audience gets to see themselves as resisting institutional media censorship by funding her. This identity-building function is as important as the content itself.
 
-**Vulnerability:** Because funding is listener-dependent, Halper cannot take positions that alienate her base. If she moderated her Israel criticism, listener funding would collapse. Her editorial position is thus captured by audience expectation as surely as right-wing hosts are captured by billionaire expectations—just in opposite ideological direction.
+**Vulnerability:** Because funding is listener-dependent, Halper cannot take positions that alienate her base. If she moderated her Israel criticism, listener funding would collapse. Her editorial position is thus captured by audience expectation as surely as right-wing hosts are captured by billionaire expectations, just in opposite ideological direction.
 
 ### What Their Funders Got
 
@@ -112,10 +112,10 @@ Podcast format enables daily habit formation and parasocial relationship buildin
 
 #### Who benefits from Halper's precarity and audience-dependent funding
 
-1. **Progressive listeners and activists** — Gain voice articulating their political positions without institutional filtering; sense of participating in genuine resistance
-2. **Democratic Party strategists** — Can point to Halper's firing as evidence they protect "free speech" while maintaining actual editorial constraint (firing accomplishes gatekeeping without censoring her—she's just excluded from corporate platform)
-3. **Mainstream media outlets** — Halper becomes "controversial" figure; her presence becomes liability for mainstream outlets seeking advertiser trust. This makes her economic position more precarious, not less
-4. **Useful Idiots listeners** — Community identification; parasocial relationship; sense of political efficacy through micro-patronage
+1. **Progressive listeners and activists**. Gain voice articulating their political positions without institutional filtering; sense of participating in genuine resistance
+2. **Democratic Party strategists**. Can point to Halper's firing as evidence they protect "free speech" while maintaining actual editorial constraint (firing accomplishes gatekeeping without censoring her, she's just excluded from corporate platform)
+3. **Mainstream media outlets**. Halper becomes "controversial" figure; her presence becomes liability for mainstream outlets seeking advertiser trust. This makes her economic position more precarious, not less
+4. **Useful Idiots listeners**. Community identification; parasocial relationship; sense of political efficacy through micro-patronage
 
 #### Who loses
 - Halper herself: Income precarity, no health insurance (likely), no institutional protection, one Patreon crisis away from financial collapse
@@ -149,12 +149,12 @@ Patreon subscriptions (60-70% of podcast income), freelance journalism (20-30%),
 
 ### Sources
 
-- [Katie Halper Violated Media Taboo Against Israel Criticism — FAIR](https://fair.org/home/katie-halper-violated-media-taboo-against-israel-criticism/) (Tier 2) (Chrome verified 2026-03-27)
-- [Left-Wing Journalist Katie Halper Has Been Fired for Calling Israel an Apartheid State — Jacobin](https://jacobin.com/2022/10/hill-rising-katie-halper-israel-palestine-fired) (Tier 2) (Chrome verified 2026-03-27)
+- [Katie Halper Violated Media Taboo Against Israel Criticism. FAIR](https://fair.org/home/katie-halper-violated-media-taboo-against-israel-criticism/) (Tier 2) (Chrome verified 2026-03-27)
+- [Left-Wing Journalist Katie Halper Has Been Fired for Calling Israel an Apartheid State. Jacobin](https://jacobin.com/2022/10/hill-rising-katie-halper-israel-palestine-fired) (Tier 2) (Chrome verified 2026-03-27)
 - [Katie Halper - Wikipedia](https://en.wikipedia.org/wiki/Katie_Halper) (Tier 2) (Chrome verified 2026-03-27)
-- [Useful Idiots with Katie Halper and Aaron Maté — Apple Podcasts](https://podcasts.apple.com/bz/podcast/useful-idiots-with-katie-halper-and-aaron-mat%C3%A9/id1476110521) (Tier 2) (Chrome verified 2026-03-27)
-- [Meet the Censored: Katie Halper — ScheerPost](https://scheerpost.com/2022/10/06/meet-the-censored-katie-halper/) (Tier 2) (Chrome verified 2026-03-27)
-- [Katie Halper Fired Over Israel Criticism — The Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/podcast-ep-67-katie-halper-fired-over-israel-criticism) (Tier 2) (Chrome verified 2026-03-27)
-- [Nexstar Media Group acquires The Hill — Media industry sources](https://www.nexstar.tv/) (Tier 2) (Chrome verified 2026-03-27)
+- [Useful Idiots with Katie Halper and Aaron Maté. Apple Podcasts](https://podcasts.apple.com/bz/podcast/useful-idiots-with-katie-halper-and-aaron-mat%C3%A9/id1476110521) (Tier 2) (Chrome verified 2026-03-27)
+- [Meet the Censored: Katie Halper. ScheerPost](https://scheerpost.com/2022/10/06/meet-the-censored-katie-halper/) (Tier 2) (Chrome verified 2026-03-27)
+- [Katie Halper Fired Over Israel Criticism. The Electronic Intifada](https://electronicintifada.net/blogs/nora-barrows-friedman/podcast-ep-67-katie-halper-fired-over-israel-criticism) (Tier 2) (Chrome verified 2026-03-27)
+- [Nexstar Media Group acquires The Hill. Media industry sources](https://www.nexstar.tv/) (Tier 2) (Chrome verified 2026-03-27)
 - [FEC: Katie Halper individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HALPER%2C+KATIE) (Tier 1)
 

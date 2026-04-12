@@ -66,14 +66,14 @@ The BCA has secured virtually total control of Alabama's legislative economic ag
 
 ### Class Analysis
 
-The Business Council of Alabama reveals how state-level business lobbying can achieve near-total political control. Alabama's legislature is effectively controlled by BCA recommendations, with bipartisan deference to business interests. The organization's $15-20M annual spending controls legislation affecting millions of workers and billions in economic activity. Alabama's sustained poverty and wage stagnation despite centuries of industrialization suggests that business council control actually prevents economic development—protecting incumbent wealth concentration matters more than generating broadly shared prosperity. The BCA's success demonstrates that state-level political power remains substantially easier for business interests to capture than federal power, making state legislatures primary sites of donor-class control.
+The Business Council of Alabama reveals how state-level business lobbying can achieve near-total political control. Alabama's legislature is effectively controlled by BCA recommendations, with bipartisan deference to business interests. The organization's $15-20M annual spending controls legislation affecting millions of workers and billions in economic activity. Alabama's sustained poverty and wage stagnation despite centuries of industrialization suggests that business council control actually prevents economic development, protecting incumbent wealth concentration matters more than generating broadly shared prosperity. The BCA's success demonstrates that state-level political power remains substantially easier for business interests to capture than federal power, making state legislatures primary sites of donor-class control.
 
 ### Sources
 
 - [Alabama Reflector: How Alabama Power kept bills up and foes out (includes business council regulatory dynamics)](https://alabamareflector.com/2025/11/04/how-alabama-power-kept-bills-up-and-foes-out-to-become-one-of-the-nations-most-powerful-utitilies/) (Tier 2)
 - [OpenSecrets: Alabama business lobbying spending](https://www.opensecrets.org/organizations/alabama) (Tier 1)
 
-### Financial Overview (990 Filing — 2023)
+### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
 |--------|--------|

@@ -34,7 +34,7 @@ Maps the dark money donor network that funded the most consequential judicial tr
 | 2021-01-01 | Rule of Law Trust receives distributions from Marble Freedom Trust (exact date pending) | $153,750,000 | IRS 990 filings |
 | 2021-01-01 | Donors Trust receives distributions from Marble Freedom Trust (exact date pending) | $41,100,000 | IRS 990 filings |
 | 2020-01-01 | CRC Advisors (Leo's for-profit consulting firm) receives funding from 85 Fund (exact dates pending) | $33,000,000 per year | Consulting disclosure |
-| [[Judicial Crisis Network]] (Concord Fund) | Confirmation advertising and pressure | 2017-2024 | — | — |
+| [[Judicial Crisis Network]] (Concord Fund) | Confirmation advertising and pressure | 2017-2024 |, |, |
 
 **The consulting arrangement.** Leo's nonprofit network pays his for profit consulting firm $33 million per year. The dark money funds the judicial pipeline and enriches the man who runs it. The architect of the conservative legal movement is also its largest personal financial beneficiary.
 
@@ -84,12 +84,12 @@ The **[[Koch Network - Charles Koch|Koch network]]** overlaps with the Leo netwo
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2022-06-24 | Dobbs v. Jackson decided (6-3 vote) overturns Roe v. Wade; benefits religious right donor base | — | SCOTUS decision |
-| 2023-06-29 | Students for Fair Admissions decided (6-3 vote) ends race conscious college admissions | — | SCOTUS decision |
+| 2022-06-24 | Dobbs v. Jackson decided (6-3 vote) overturns Roe v. Wade; benefits religious right donor base |, | SCOTUS decision |
+| 2023-06-29 | Students for Fair Admissions decided (6-3 vote) ends race conscious college admissions |, | SCOTUS decision |
 | 2023-06-30 | Biden v. Nebraska decided (6-3 vote); student loan forgiveness blocked; financial industry preserves $430B in outstanding student debt | $430,000,000,000 | SCOTUS decision |
-| 2024-06-28 | Loper Lights Enterprises v. Raimondo (Chevron) decided (6-2 vote); overturns Chevron deference; all regulated industries benefit | — | SCOTUS decision |
-| 2022-06-30 | West Virginia v. EPA decided (6-3 vote); EPA authority limited; fossil fuel industry benefits directly (Koch network priority) | — | SCOTUS decision |
-| 2023-05-25 | Sackett v. EPA decided (5-4 broad ruling); wetlands protection weakened; 91% of wetlands unprotected; real estate and development interests benefit | — | SCOTUS decision |
+| 2024-06-28 | Loper Lights Enterprises v. Raimondo (Chevron) decided (6-2 vote); overturns Chevron deference; all regulated industries benefit |, | SCOTUS decision |
+| 2022-06-30 | West Virginia v. EPA decided (6-3 vote); EPA authority limited; fossil fuel industry benefits directly (Koch network priority) |, | SCOTUS decision |
+| 2023-05-25 | Sackett v. EPA decided (5-4 broad ruling); wetlands protection weakened; 91% of wetlands unprotected; real estate and development interests benefit |, | SCOTUS decision |
 
 > [!money]
 > Chevron deference alone was worth the entire $600 million investment. The regulatory state that constrained corporate behavior for four decades now requires explicit congressional authorization for every rule. Congress that cannot pass a budget will not pass the thousands of specific authorizations needed to maintain existing regulatory frameworks. The result is deregulation by default. Not through legislation. Through judicial fiat. Funded by $1.6 billion from a single donor and $600 million in anonymous dark money.
@@ -104,9 +104,9 @@ The judicial transformation has no counter donor. There is no liberal equivalent
 
 ### Sources
 
-- [ProPublica: Dark money — Barre Seid donated $1.6 billion to Leonard Leo's Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
-- [Washington Post: Leonard Leo and the Federalist Society — Making courts more conservative](https://www.washingtonpost.com/graphics/2019/investigations/leonard-leo-federalists-society-courts/) (Tier 2)
+- [ProPublica: Dark money. Barre Seid donated $1.6 billion to Leonard Leo's Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2)
+- [Washington Post: Leonard Leo and the Federalist Society. Making courts more conservative](https://www.washingtonpost.com/graphics/2019/investigations/leonard-leo-federalists-society-courts/) (Tier 2)
 - [CREW: Leonard Leo-tied nonprofits have paid his businesses $90 million in six years](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2)
-- [Senator Whitehouse: Scheme 18 — Leonard Leo's $1.6 billion payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
-- [ProPublica: We Don't Talk About Leonard — The man behind the right's Supreme Court supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
+- [Senator Whitehouse: Scheme 18. Leonard Leo's $1.6 billion payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 1)
+- [ProPublica: We Don't Talk About Leonard. The man behind the right's Supreme Court supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2)
 

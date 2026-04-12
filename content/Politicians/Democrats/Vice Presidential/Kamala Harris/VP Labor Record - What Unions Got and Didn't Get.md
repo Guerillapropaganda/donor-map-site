@@ -13,29 +13,29 @@ donors: [[SEIU - Service Employees International Union]] · [[CNA - California N
 
 ---
 
-### VP Labor Record — What Unions Got and Didn't Get (2021–2025)
+### VP Labor Record. What Unions Got and Didn't Get (2021–2025)
 
-Harris's vice presidency delivered the most pro-labor federal policy portfolio in decades — in the areas where the Senate allowed it. Infrastructure, clean energy, and appointments passed because they required simple majorities or no legislation at all. Structural reform — the PRO Act, Janus reversal, single-payer — died because it required supermajorities the donor class's Senate allies would never provide.
+Harris's vice presidency delivered the most pro-labor federal policy portfolio in decades, in the areas where the Senate allowed it. Infrastructure, clean energy, and appointments passed because they required simple majorities or no legislation at all. Structural reform, the PRO Act, Janus reversal, single-payer, died because it required supermajorities the donor class's Senate allies would never provide.
 
 The class analysis: labor got real wins in exchange for unconditional institutional support. But the wins were all donor-compatible. The reforms that would have threatened the donor class never arrived.
 
 ---
 
-### What Harris Personally Delivered — Tie-Breaking Votes
+### What Harris Personally Delivered. Tie-Breaking Votes
 
-Harris cast **33 tie-breaking Senate votes** — a record for any Vice President in American history. The labor-critical ones:
+Harris cast **33 tie-breaking Senate votes**, a record for any Vice President in American history. The labor-critical ones:
 
 ### Jennifer Abruzzo confirmation (July 21, 2021):
 Senate voted 50-50. Harris broke the tie. Abruzzo, a pro-union labor attorney, became NLRB General Counsel and spent four years redefining labor law:
 
 - **April 2022:** Captive-audience meetings declared unlawful (employers can no longer force workers to attend anti-union presentations)
 - **May 2023:** Non-compete clauses "generally unlawful" (workers can leave for competitors, taking skills and knowledge)
-- **October 2023:** Joint-employer rule — massively expanded NLRB authority over franchises, temp agencies, subcontractors (vacated by Texas courts March 8, 2024 before taking effect)
+- **October 2023:** Joint-employer rule, massively expanded NLRB authority over franchises, temp agencies, subcontractors (vacated by Texas courts March 8, 2024 before taking effect)
 - College athletes declared employees under NLRA
 - Expanded protections for immigrant workers organizing regardless of immigration status
 - Consequential damages claims against employers for labor violations (GC Memo 24-04)
 
-The Abruzzo confirmation was the single largest labor power shift Harris personally enabled. But the joint-employer rule — the most structurally significant Abruzzo action — was killed by federal courts before it could take effect. Executive-branch labor gains are vulnerable to judicial reversal in ways that legislation is not.
+The Abruzzo confirmation was the single largest labor power shift Harris personally enabled. But the joint-employer rule, the most structurally significant Abruzzo action, was killed by federal courts before it could take effect. Executive-branch labor gains are vulnerable to judicial reversal in ways that legislation is not.
 
 ### Inflation Reduction Act (August 7, 2022):
 50-50 vote. Harris broke the tie. $369 billion in clean energy investment (see below). This was Harris's largest single legislative impact.
@@ -49,7 +49,7 @@ The Abruzzo confirmation was the single largest labor power shift Harris persona
 ### Labor provisions:
 - **Prevailing wage mandate:** Davis-Bacon Act applies to all federally funded construction projects over $2,000
 - **Buy America provisions:** Mandatory domestic materials on all federally funded infrastructure
-- **Executive Order 14055:** Signed simultaneously — prioritized "free and fair chance to join a union" on federal projects
+- **Executive Order 14055:** Signed simultaneously, prioritized "free and fair chance to join a union" on federal projects
 - **Union jobs projected:** 15,000–20,000 prevailing wage positions across transportation, broadband, water infrastructure
 
 ### [[IBEW - International Brotherhood of Electrical Workers|IBEW]]-specific wins:
@@ -58,7 +58,7 @@ The Abruzzo confirmation was the single largest labor power shift Harris persona
 - Smart grid modernization (transmission and distribution upgrades)
 - 40,000+ projects funded as of year two
 
-**Class analysis:** IIJA was bipartisan infrastructure — not a victory against the donor class, but a win for construction unions because both parties agreed on rebuilding. The donor class profits from infrastructure too (construction firms, materials suppliers, tech companies deploying broadband). This is donor-compatible labor policy: prevailing wages raise costs, but the spending volume makes everyone richer.
+**Class analysis:** IIJA was bipartisan infrastructure, not a victory against the donor class, but a win for construction unions because both parties agreed on rebuilding. The donor class profits from infrastructure too (construction firms, materials suppliers, tech companies deploying broadband). This is donor-compatible labor policy: prevailing wages raise costs, but the spending volume makes everyone richer.
 
 ---
 
@@ -91,7 +91,7 @@ The Abruzzo confirmation was the single largest labor power shift Harris persona
 
 ### Davis-Bacon Modernization (August 23, 2023)
 
-First comprehensive update to prevailing wage rules since 1982 — a 40-year gap. DOL Secretary Marty Walsh was the architect. Harris was not directly involved, but this was Biden-Harris administration policy.
+First comprehensive update to prevailing wage rules since 1982, a 40-year gap. DOL Secretary Marty Walsh was the architect. Harris was not directly involved, but this was Biden-Harris administration policy.
 
 ### What changed:
 - **"30% rule" restored:** Prevailing wage = wage paid to at least 30% of similarly classified workers in the locality (replaces the 50% threshold that had depressed prevailing wages)
@@ -106,7 +106,7 @@ First comprehensive update to prevailing wage rules since 1982 — a 40-year gap
 - Retaliation protections for workers who report violations
 - Cross-agency enforcement means contractors can't underpay on one project while bidding on others
 
-**The threat:** By 2025 under Trump, the Davis-Bacon modernization faced repeal efforts. The [[Koch Network - Charles Koch]] has fought prevailing wage laws for decades through AFP's 37 state chapters. Executive-branch modernization is reversible by the next administration — legislation would not be.
+**The threat:** By 2025 under Trump, the Davis-Bacon modernization faced repeal efforts. The [[Koch Network - Charles Koch]] has fought prevailing wage laws for decades through AFP's 37 state chapters. Executive-branch modernization is reversible by the next administration, legislation would not be.
 
 ---
 
@@ -121,9 +121,9 @@ First comprehensive update to prevailing wage rules since 1982 — a 40-year gap
 >
 > **The Koch connection:** The Koch network spent $548M in the 2024 cycle alone. Koch-funded organizations (National Right to Work Legal Defense Foundation, AFP state chapters) have systematically fought every labor rights expansion for 50 years. The same network funded the plaintiff in *Janus v. [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]]*. The PRO Act's death in the Senate is not a failure of Democratic willpower — it's the structural result of donor-class money on both sides of the aisle ensuring labor reform never passes.
 
-**Janus reversal:** After *Janus v. [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]]* (2018) — funded by Koch-backed organizations — gutted public-sector union dues, no serious reversal attempt was made. Would have required Supreme Court action or constitutional amendment. Politically impossible under any conceivable scenario.
+**Janus reversal:** After *Janus v. [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]]* (2018), funded by Koch-backed organizations, gutted public-sector union dues, no serious reversal attempt was made. Would have required Supreme Court action or constitutional amendment. Politically impossible under any conceivable scenario.
 
-**Medicare for All / Single-payer:** Harris campaigned on Medicare for All in 2020 (before dropping out). Abandoned it completely as VP. Biden explicitly opposed it. By 2024, Harris aligned entirely with ACA strengthening — the insurance industry's preferred framework. See [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]] for the healthcare donor class that benefits from ACA preservation over single-payer.
+**Medicare for All / Single-payer:** Harris campaigned on Medicare for All in 2020 (before dropping out). Abandoned it completely as VP. Biden explicitly opposed it. By 2024, Harris aligned entirely with ACA strengthening, the insurance industry's preferred framework. See [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Anthem - Elevance Health]] for the healthcare donor class that benefits from ACA preservation over single-payer.
 
 **Amazon accountability:** 60+ Amazon facilities unionized or attempted under Biden-Harris. NLRB accused Amazon of illegal union-busting at Bessemer, Alabama (2021). **Amazon continued receiving $10 billion+ in federal contracts.** Biden's 2020 pledge that federal contracts would only go to companies with union neutrality agreements: never implemented. Amazon Labor Union organizer Christian Smalls: "Nobody's going to be held accountable."
 
@@ -144,7 +144,7 @@ First comprehensive update to prevailing wage rules since 1982 — a 40-year gap
 - Single-payer (never introduced)
 - Federal contract union neutrality (never implemented)
 
-**The class analysis:** Labor got everything that didn't require defeating the donor class's Senate apparatus. Infrastructure and clean energy are donor-compatible — the same corporations that fund campaigns also profit from federal spending. Appointments are executive-branch moves that bypass Senate supermajority requirements. But structural reform — the kind that shifts power from capital to labor — requires legislation that the donor-funded Senate will never pass.
+**The class analysis:** Labor got everything that didn't require defeating the donor class's Senate apparatus. Infrastructure and clean energy are donor-compatible, the same corporations that fund campaigns also profit from federal spending. Appointments are executive-branch moves that bypass Senate supermajority requirements. But structural reform, the kind that shifts power from capital to labor, requires legislation that the donor-funded Senate will never pass.
 
 Harris as VP had veto power (tie-breaking votes), not initiation power. Labor got what Biden chose to deliver within constraints the donor class imposed through the Senate filibuster, moderate Democrats, and judicial appointments.
 

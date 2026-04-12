@@ -17,7 +17,7 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Isra
 
 ### The 2022 Small-Dollar Model: Authenticity or Strategy?
 
-Fetterman's 2022 Senate campaign raised $48.5 million—a record-breaking amount for a 2022 Senate race. Critically, 53% of that ($25.5 million) came from donations of $200 or less, with an average contribution of just $27. The campaign attracted 140,251 individual donors, many paying repeatedly through small recurring donations. This small-dollar structure became the campaign's central authenticity claim: a working-class candidate powered by working-class people, not by corporate PACs or mega-donors.
+Fetterman's 2022 Senate campaign raised $48.5 million, a record-breaking amount for a 2022 Senate race. Critically, 53% of that ($25.5 million) came from donations of $200 or less, with an average contribution of just $27. The campaign attracted 140,251 individual donors, many paying repeatedly through small recurring donations. This small-dollar structure became the campaign's central authenticity claim: a working-class candidate powered by working-class people, not by corporate PACs or mega-donors.
 
 > [!money]
 > The 2022 Fetterman campaign's small-dollar fundraising reached $25.5 million—more from grassroots donors than any other Democratic Senate candidate that cycle. This wasn't incidental to the campaign narrative; it was central. Fetterman explicitly positioned himself against the donor class. When he won against Mehmet Oz (the Manhattan-based, prime-time TV celebrity), the victory was framed as small-dollar democracy defeating establishment money. The irony is that this framing obscured what was happening: a small-dollar model was being deployed as a voter-acquisition strategy, not as a genuine rejection of donor influence. Once the voter acquisition was complete, the infrastructure could shift.
@@ -63,7 +63,7 @@ Fetterman's 2022 campaign was built on visible rejection of political norms. Bla
 After winning in November 2022 and taking office in January 2023, Fetterman's donor relationships began restructuring. The small-dollar model persisted in his official Senate fundraising (50.19% of current funds from contributions under $200), but qualitatively new donor relationships opened simultaneously.
 
 ### [[AIPAC - American Israel Public Affairs Committee|AIPAC]] Alignment and Donor Recruitment (2023-2026):
-By early 2024, Fetterman had received approximately $250,000 from pro-Israel donors since his 2023 election to the Senate—[AIPAC Tracker on X](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3).
+By early 2024, Fetterman had received approximately $250,000 from pro-Israel donors since his 2023 election to the Senate, [AIPAC Tracker on X](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3).
 
 The April 2024 Intercept investigation documented that Fetterman began deliberately recruiting Republican donors specifically because of his pro-Israel hardline stance. The article "Since October, Sen. [[_John Fetterman Master Profile|John Fetterman]] Has Been Building a Roster of Republican Donors" documented a systematic pivot: small-dollar working-class campaign → establishment pro-Israel donor cultivation → Republican donor recruitment.
 
@@ -94,7 +94,7 @@ The timing evidence supports Interpretation 2: the shift to AIPAC alignment bega
 
 ### The Hinge Point: October 2023
 
-Fetterman's October 2023 pro-Israel hardline declaration marks the inflection point. Before October 7, his positions on Israel were not prominent or particularly hawkish. After October 7, they became defining—to the point where he declared unconditional support and attracted Republican donors specifically because of the hardline.
+Fetterman's October 2023 pro-Israel hardline declaration marks the inflection point. Before October 7, his positions on Israel were not prominent or particularly hawkish. After October 7, they became defining, to the point where he declared unconditional support and attracted Republican donors specifically because of the hardline.
 
 ### Timeline:
 - Pre-October 7, 2023: Standard Democratic positioning on Israel

@@ -13,32 +13,32 @@ donors: [[CREW - Citizens for Responsibility and Ethics in Washington]] [[World 
 
 ---
 
-### First Term Extraction — The Documented Baseline
+### First Term Extraction. The Documented Baseline
 
 During his first term (2017-2021), Trump benefited from at least $2.4 million in documented foreign government spending at Trump Organization properties. CREW and ProPublica investigations tracked payments from Saudi Arabia, UAE, Qatar, Malaysia, China, and Kuwait concentrated in Trump's Washington, DC hotel and New York properties.
 
 The pattern served a dual political function: countries received access (or at minimum, the appearance of access) through their spending, and Trump received direct revenue from foreign capital while controlling their regulatory environments.
 
-This extraction operated under the Emoluments Clause constraint—weak because courts refused to adjudicate it on merits, but present as a constitutional prohibition. Trump's first-term self-dealing operated within legal ambiguity: Did foreign government spending at a hotel constitute "emoluments"? Federal courts never answered.
+This extraction operated under the Emoluments Clause constraint, weak because courts refused to adjudicate it on merits, but present as a constitutional prohibition. Trump's first-term self-dealing operated within legal ambiguity: Did foreign government spending at a hotel constitute "emoluments"? Federal courts never answered.
 
 > [!contradiction]
 > The Emoluments Clause explicitly prohibits foreign government payments to U.S. officials. Trump received documented payments. Courts dismissed cases on standing grounds rather than ruling on the constitutional question.
 
-### Second Term Escalation — Regulatory Power as Investment Vehicle
+### Second Term Escalation. Regulatory Power as Investment Vehicle
 
-The second term removed the ambiguity. Trump's crypto ventures exist with zero plausible business rationale—they extract value purely through his presidential power to regulate the industry.
+The second term removed the ambiguity. Trump's crypto ventures exist with zero plausible business rationale, they extract value purely through his presidential power to regulate the industry.
 
 **World Liberty Financial:** Announced September 2024, launched October 2024. Trump family receives 75 percent of token sale proceeds and cuts of stablecoin profits. By December 2025, the Trumps had realized $1 billion in profits while holding $3 billion in unrealized token holdings.
 
 The venture's funding source is the critical detail. A firm connected to the Abu Dhabi government purchased $2 billion worth of World Liberty Financial's USD1 stablecoin in March 2025 and simultaneously acquired a 49 percent stake for $500 million. This transaction violated the Emoluments Clause on its face: a foreign government invested capital into a venture controlled by Trump while Trump held power to regulate cryptocurrency as president.
 
-The UAE's stake purchase occurred after World Liberty had announced plans to expand into tokenized commodities and debit cards—assets whose regulatory treatment would be shaped by Trump's own agencies.
+The UAE's stake purchase occurred after World Liberty had announced plans to expand into tokenized commodities and debit cards, assets whose regulatory treatment would be shaped by Trump's own agencies.
 
-**$TRUMP Meme Coin:** Launched January 2025, days before inauguration. Family and associated entities earned $350+ million in trading fees within months. The coin served as immediate pre-presidency liquidity—create asset, drive price through social media promotion, extract fees, allow market correction.
+**$TRUMP Meme Coin:** Launched January 2025, days before inauguration. Family and associated entities earned $350+ million in trading fees within months. The coin served as immediate pre-presidency liquidity, create asset, drive price through social media promotion, extract fees, allow market correction.
 
 **$MELANIA Coin:** Launched by Melania Trump using similar structure. Token supply and price dynamics identical to Trump's model.
 
-These ventures operate without revenue models. They extract value through Trump's control of regulatory apparatus—the ability to prevent securities enforcement, shape tax treatment, and establish crypto-friendly policy at the SEC and Treasury.
+These ventures operate without revenue models. They extract value through Trump's control of regulatory apparatus, the ability to prevent securities enforcement, shape tax treatment, and establish crypto-friendly policy at the SEC and Treasury.
 
 > [!money]
 > Trump's second-term ventures generate wealth through regulatory power, not business activity. The UAE paying $2.5 billion into WLFI while Trump controls crypto regulation is emoluments with a 9-figure price tag.
@@ -51,7 +51,7 @@ Trump's stake in the company is worth billions despite the company having virtua
 
 The lock-up restrictions on Trump's shares lapsed in September 2024, giving him the ability to sell his stake. He has not done so because selling would require disclosing the transactions and would cause the stock price to collapse immediately. His stake's value depends entirely on maintaining the fiction that the company will become profitable.
 
-By early 2025, Trump Media transitioned toward a "Bitcoin treasury" model—converting the publicly-traded company into a personal cryptocurrency portfolio. Trump supporters' capital funded purchases of Bitcoin, which Trump family held.
+By early 2025, Trump Media transitioned toward a "Bitcoin treasury" model, converting the publicly-traded company into a personal cryptocurrency portfolio. Trump supporters' capital funded purchases of Bitcoin, which Trump family held.
 
 The valuation premium is pure extraction: public shareholders buy stock treating it as political support, capital flows in, Trump family holds cryptocurrency with zero accountability for returns.
 
@@ -63,7 +63,7 @@ World Liberty Financial incorporates Sacks into its structure while he simultane
 
 When Sacks proposed eliminating the SEC's enforcement capabilities against crypto, he was simultaneously working with Trump family on ventures whose valuations depend on lack of SEC enforcement. The policy changes and personal enrichment are inseparable.
 
-### The Saudi Arabia Connection — The Traditional Model
+### The Saudi Arabia Connection. The Traditional Model
 
 The first-term pattern continues: Saudi Arabia's LIV Golf operates on Trump courses. Saudi bookings at Trump hotels remained elevated. [[_Jared Kushner Master Profile|Jared Kushner]] received $2 billion from Saudi Arabia's Public Investment Fund for Affinity Partners, his post-White House venture capital fund.
 
@@ -73,13 +73,13 @@ The Saudi model is extraction through family network expansion: Kushner's wealth
 
 ### Merchandise Extraction and the Direct Supporter Tax
 
-Trump's branded merchandise generates $600 million annually according to his financial disclosure. Bibles, sneakers, cologne, NFTs, watches—each item has markup structures that create direct revenue from supporters who treat purchases as political contributions.
+Trump's branded merchandise generates $600 million annually according to his financial disclosure. Bibles, sneakers, cologne, NFTs, watches, each item has markup structures that create direct revenue from supporters who treat purchases as political contributions.
 
 The merchandise operates as a hidden tax on the donor base. Instead of asking for campaign contributions, Trump sells overpriced merchandise to supporters who view purchase as participation. A $99 Bible sold for $99 that costs $2 to produce generates $97 in pure extraction.
 
-Supporters don't receive voting power, influence, or policy changes in exchange—they receive branded goods. The exchange is fundamentally extractive: supporters give money, receive consumer goods, Trump gains capital.
+Supporters don't receive voting power, influence, or policy changes in exchange, they receive branded goods. The exchange is fundamentally extractive: supporters give money, receive consumer goods, Trump gains capital.
 
-### The Class Analysis — Who Extracts and Who Pays
+### The Class Analysis. Who Extracts and Who Pays
 
 Trump's grift machine operates through simultaneous extraction in opposite directions.
 
@@ -89,7 +89,7 @@ Trump's grift machine operates through simultaneous extraction in opposite direc
 
 **From the federal government (state apparatus):** Secret Service spending, military bookings, cabinet meetings at Mar-a-Lago, government contracts directed to Trump properties.
 
-The three-way extraction—from supporters below, from capital horizontally, from state above—represents unprecedented consolidation of extractive power. Trump uses the presidency to drain wealth in all three directions simultaneously.
+The three-way extraction, from supporters below, from capital horizontally, from state above, represents unprecedented consolidation of extractive power. Trump uses the presidency to drain wealth in all three directions simultaneously.
 
 This is not merely conflict of interest. It is the complete subsumption of political office to personal enrichment. The presidency becomes the business model.
 
@@ -100,9 +100,9 @@ This is not merely conflict of interest. It is the complete subsumption of polit
 
 Trump appointed crypto allies to key positions specifically to eliminate oversight of his own ventures. David Sacks as crypto czar, appointees committed to SEC destruction, Treasury aligned toward stablecoin integration into federal policy.
 
-Once regulation is eliminated, the venture valuations become infinite—there are no constraints on token issuance, no requirements for reserves, no enforcement against pump-and-dump mechanics. Trump family can issue unlimited tokens, extract fees, and let collapse occur to later investors.
+Once regulation is eliminated, the venture valuations become infinite, there are no constraints on token issuance, no requirements for reserves, no enforcement against pump-and-dump mechanics. Trump family can issue unlimited tokens, extract fees, and let collapse occur to later investors.
 
-The regulatory capture is not a side effect—it is the business model. World Liberty Financial's planned expansion into tokenized commodities and debit cards requires complete elimination of finance regulation. The policy is written to profit Trump's ventures.
+The regulatory capture is not a side effect, it is the business model. World Liberty Financial's planned expansion into tokenized commodities and debit cards requires complete elimination of finance regulation. The policy is written to profit Trump's ventures.
 
 ### The International Emoluments Violation
 
@@ -113,7 +113,7 @@ The transaction is direct evidence that Trump's presidency generates wealth thro
 > [!contradiction]
 > The Emoluments Clause prohibition is absolute: no foreign government payment without congressional consent. Trump received documented payments from UAE, Saudi Arabia, Qatar, China, Malaysia, and Kuwait. No prosecution has occurred. The clause remains a paper barrier.
 
-### The Second-Direction Mechanism — Government Spending Redirection
+### The Second-Direction Mechanism. Government Spending Redirection
 
 Trump directs federal spending toward his own properties. Mar-a-Lago holds cabinet meetings, generating revenue. Secret Service conducts protection at Trump properties, generating revenue. Military personnel stay at Trump hotels during official travel.
 

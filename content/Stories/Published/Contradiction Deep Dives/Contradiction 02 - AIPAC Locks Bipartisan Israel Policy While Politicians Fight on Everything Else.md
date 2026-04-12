@@ -20,19 +20,19 @@ donors: AIPAC | United Democracy Project | Pro-Israel PACs
 
 [[_Chuck Schumer Master Profile|Chuck Schumer]] and [[_Ted Cruz Master Profile|Ted Cruz]] represent the template: massive public partisan opposition on every other issue, identical positions on Israel funding.
 
-[!quote] **"Recognizing Jerusalem as Israel's capital and relocating the US embassy sends a powerful message that America will stand by our friends and allies."** — [[_Ted Cruz Master Profile|Ted Cruz]], on the Jerusalem embassy move (2018)
+[!quote] **"Recognizing Jerusalem as Israel's capital and relocating the US embassy sends a powerful message that America will stand by our friends and allies."**, [[_Ted Cruz Master Profile|Ted Cruz]], on the Jerusalem embassy move (2018)
 
-On abortion, immigration, guns, judges: Schumer (D-NY) and Cruz (R-TX) are functionally enemies. Schumer has led Senate Democratic opposition to Republican judicial nominees including [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]]. Cruz votes consistently to restrict abortion, gut environmental protections, expand gun rights — policies Schumer explicitly opposes.
+On abortion, immigration, guns, judges: Schumer (D-NY) and Cruz (R-TX) are functionally enemies. Schumer has led Senate Democratic opposition to Republican judicial nominees including [[_Brett Kavanaugh Master Profile|Brett Kavanaugh]]. Cruz votes consistently to restrict abortion, gut environmental protections, expand gun rights, policies Schumer explicitly opposes.
 
 But on Israel: Schumer voted against [[_Bernie Sanders Master Profile|Bernie Sanders]]' 2025 resolution to block $675 million in arms sales to Israel. Cruz and every other Republican voted with him. The vote split was not partisan. It was: Schumer + Cruz + overwhelming Republican caucus + majority of Democrats = 70, vs. 27 senators (mostly progressive Democrats).
 
-[!quote] **"I am Shomer Yisroel — a guardian of the People of Israel."** — [[_Chuck Schumer Master Profile|Chuck Schumer]], Senate floor speech March 2024
+[!quote] **"I am Shomer Yisroel, a guardian of the People of Israel."**, [[_Chuck Schumer Master Profile|Chuck Schumer]], Senate floor speech March 2024
 
-[[_Lindsey Graham Master Profile|Lindsey Graham]] (R-SC) and Cory Booker (D-NJ) operate on identical logic. Publicly: Graham supports police funding cuts Booker opposes. Graham backs Trump judges Booker attacks. On Trump administration cabinet nominees (Hegseth, Bove), Graham and Booker have staged dramatic public fights — walkouts, marathon speeches.
+[[_Lindsey Graham Master Profile|Lindsey Graham]] (R-SC) and Cory Booker (D-NJ) operate on identical logic. Publicly: Graham supports police funding cuts Booker opposes. Graham backs Trump judges Booker attacks. On Trump administration cabinet nominees (Hegseth, Bove), Graham and Booker have staged dramatic public fights, walkouts, marathon speeches.
 
 But on Israel: Booker received $871,313 from pro-Israel donors across his career. Graham received $1,000,580. Both are locked into the same donor class that requires Israel consensus.
 
-[!quote] **"I am the embodiment of a pro-Israel progressive."** — Ritchie Torres, 2019
+[!quote] **"I am the embodiment of a pro-Israel progressive."**. Ritchie Torres, 2019
 
 This is the model: Torres sells domestic progressivism to young voters (housing advocacy, criminal justice reform, anti-corporate rhetoric) while [[AIPAC - American Israel Public Affairs Committee|AIPAC]] funds his campaigns as a price of admission. AIPAC PAC donated over $201,000 to Torres in November 2023 alone. Torres received $1,528,002 from pro-Israel groups total. He performs left politics. He votes Israel consensus. Both sides get what they need: voters see partisan opposition; donors see non-negotiable policy.
 
@@ -103,7 +103,7 @@ Senate vote on S.1 (January 2019): 74–19, with 25 Democrats joining the Republ
 ### Weapons Transfer Votes (2024–2025)
 Sanders introduced motions in 2025 to block $675 million in Israeli arms sales. Vote: 70–27 against blocking.
 
-Schumer voted no (block failed). Cruz voted no. Every Republican voted no. The Democrats voting no included Booker, Klobuchar, Mark Kelly, Ossoff, Warnock — all receiving AIPAC funding.
+Schumer voted no (block failed). Cruz voted no. Every Republican voted no. The Democrats voting no included Booker, Klobuchar, Mark Kelly, Ossoff, Warnock, all receiving AIPAC funding.
 
 [!contradiction] **The Senate Democratic leader and the Senate Republican caucus unified to ensure weapons transfers continued. The split was not by party. It was by donor alignment.**
 
@@ -115,7 +115,7 @@ Ritchie Torres represents the capture model in crystalline form.
 
 Torres is 35 years old, a millennial, a queer Puerto Rican from the Bronx. He advocates for housing, criminal justice reform, anti-corporate positions. He tells progressive audiences he is "the embodiment of a pro-Israel progressive."
 
-[!quote] **"For true progressives, Israel is an exemplar."** — Ritchie Torres, The Times of Israel
+[!quote] **"For true progressives, Israel is an exemplar."**. Ritchie Torres, The Times of Israel
 
 AIPAC and pro-Israel donors fund Torres at levels that make him one of the largest Democratic recipients of pro-Israel PAC money. $683,006 directly from AIPAC PAC. $1,528,002 from pro-Israel groups total.
 

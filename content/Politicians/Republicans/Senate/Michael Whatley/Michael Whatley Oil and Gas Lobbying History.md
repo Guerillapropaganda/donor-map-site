@@ -31,15 +31,15 @@ Whatley became a partner at HBW Resources in 2007, the same year he left Senator
 - Louisiana Mid-Continent Oil and Gas Association (industry trade group)
 - Noble Energy (oil and gas exploration company)
 
-Whatley worked at HBW until 2022—a 15-year tenure as the firm evolved its service offerings. While specific dollar amounts and client assignments are not fully itemized in public sources, the basic structure is clear: HBW paid Whatley to represent oil and gas industry clients before federal regulators, Congress, and relevant agencies. His income and professional legitimacy derived from translating oil industry interests into regulatory and legislative outcomes.
+Whatley worked at HBW until 2022, a 15-year tenure as the firm evolved its service offerings. While specific dollar amounts and client assignments are not fully itemized in public sources, the basic structure is clear: HBW paid Whatley to represent oil and gas industry clients before federal regulators, Congress, and relevant agencies. His income and professional legitimacy derived from translating oil industry interests into regulatory and legislative outcomes.
 
-HBW's federal affairs division lists Whatley as a senior figure, handling federal energy policy work. This is direct fossil fuel lobbying, not energy policy consulting or academic research—it is the concrete work of advancing industry positions in regulatory and legislative processes.
+HBW's federal affairs division lists Whatley as a senior figure, handling federal energy policy work. This is direct fossil fuel lobbying, not energy policy consulting or academic research, it is the concrete work of advancing industry positions in regulatory and legislative processes.
 
 ---
 
 ### Consumer Energy Alliance: The Front Group (2009-2019)
 
-In 2009, HBW launched Consumer Energy Alliance (CEA), positioning it as a grassroots advocacy organization representing "energy consumers." Whatley became the executive vice president. This organizational structure is critical: CEA presented itself as a citizens' movement advocating for "affordable energy," while actually functioning as a vector for oil industry political positions. The organization shared almost all of its staff with HBW, making the "front group" distinction clear—same people, same location, different nonprofit vehicle.
+In 2009, HBW launched Consumer Energy Alliance (CEA), positioning it as a grassroots advocacy organization representing "energy consumers." Whatley became the executive vice president. This organizational structure is critical: CEA presented itself as a citizens' movement advocating for "affordable energy," while actually functioning as a vector for oil industry political positions. The organization shared almost all of its staff with HBW, making the "front group" distinction clear, same people, same location, different nonprofit vehicle.
 
 CEA's funding came directly from major oil companies:
 
@@ -52,7 +52,7 @@ CEA's funding came directly from major oil companies:
 
 CEA's policy advocacy aligned directly with oil industry interests: opposition to climate regulations, support for fossil fuel infrastructure development, framing climate policy as economically harmful, and positioning oil industry concerns as consumer interests.
 
-Whatley's role as executive vice president meant he shaped CEA's public advocacy—the speeches, statements, policy positions, media presence—that presented oil industry interests as grassroots consumer concerns. He was the political operative translating corporate funding into what appeared to be independent advocacy.
+Whatley's role as executive vice president meant he shaped CEA's public advocacy, the speeches, statements, policy positions, media presence, that presented oil industry interests as grassroots consumer concerns. He was the political operative translating corporate funding into what appeared to be independent advocacy.
 
 ---
 
@@ -64,7 +64,7 @@ Whatley, speaking as a representative of Consumer Energy Alliance (oil industry 
 
 > "Drilling and exploration of energy resources... serves our nation's best interests by improving energy security, diversifying supply, increasing economic development, and generating important local, state and federal revenue."
 
-This was direct advocacy for a major oil industry policy objective at a moment when public opinion was sharply against expanded offshore drilling. The framing—"national interests," "economic development," "energy security"—transformed what was actually a request for expanded oil company drilling rights into a purportedly neutral policy position. Whatley deployed the full rhetorical toolkit: national interest language, economic benefit claims, energy independence framing.
+This was direct advocacy for a major oil industry policy objective at a moment when public opinion was sharply against expanded offshore drilling. The framing, "national interests," "economic development," "energy security", transformed what was actually a request for expanded oil company drilling rights into a purportedly neutral policy position. Whatley deployed the full rhetorical toolkit: national interest language, economic benefit claims, energy independence framing.
 
 The same argument had been made by oil industry lobbyists for decades. Whatley was expressing industry positions under the CEA veneer and his HBW lobbying authority.
 
@@ -110,9 +110,9 @@ As RNC chair (2024-2025), Whatley was in a position to:
 - Control which issues received RNC emphasis and messaging
 - Direct party resources toward favorable candidates and away from unfavorable ones
 
-The RNC chair role gave him institutional authority over the entire party apparatus—the same apparatus he could now leverage for his Senate campaign. His oil industry relationships, his lobbying experience, his network of energy sector contacts—all could be mobilized through party structures to support his candidacy.
+The RNC chair role gave him institutional authority over the entire party apparatus, the same apparatus he could now leverage for his Senate campaign. His oil industry relationships, his lobbying experience, his network of energy sector contacts, all could be mobilized through party structures to support his candidacy.
 
-His Senate campaign is therefore the continuation of a 15-year oil industry advocacy career, now operating through party infrastructure rather than traditional lobbying structures. The donor network, the policy commitments, the rhetorical moves—all remain consistent with his prior role. He is still translating fossil fuel interests into political outcomes; he is simply using Senate authority instead of lobbying firm letterhead.
+His Senate campaign is therefore the continuation of a 15-year oil industry advocacy career, now operating through party infrastructure rather than traditional lobbying structures. The donor network, the policy commitments, the rhetorical moves, all remain consistent with his prior role. He is still translating fossil fuel interests into political outcomes; he is simply using Senate authority instead of lobbying firm letterhead.
 
 ---
 

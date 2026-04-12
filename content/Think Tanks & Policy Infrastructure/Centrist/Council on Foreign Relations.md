@@ -59,9 +59,9 @@ regulatory-agencies:
 
 ### Who They Are
 
-The Council on Foreign Relations (CFR) is the most influential foreign policy think tank in the United States — the institutional home of the American national security establishment since 1921. Founded on July 29, 1921 by business and civic leaders after the U.S. Senate blocked Woodrow Wilson's effort to join the League of Nations, CFR was built from the start to manufacture elite consensus for U.S. global engagement and internationalism.
+The Council on Foreign Relations (CFR) is the most influential foreign policy think tank in the United States, the institutional home of the American national security establishment since 1921. Founded on July 29, 1921 by business and civic leaders after the U.S. Senate blocked Woodrow Wilson's effort to join the League of Nations, CFR was built from the start to manufacture elite consensus for U.S. global engagement and internationalism.
 
-Headquartered at 58 East 68th Street in New York City with a Washington, D.C. office, CFR operates as an invitation-only membership organization, think tank, and publisher. As of January 2025, it has 5,291 individual members — all U.S. citizens or permanent residents, nominated by existing members and granted either five-year term or lifetime membership. This exclusivity is a feature, not a bug: CFR is not a public square, it is a private club for the foreign policy class.
+Headquartered at 58 East 68th Street in New York City with a Washington, D.C. office, CFR operates as an invitation-only membership organization, think tank, and publisher. As of January 2025, it has 5,291 individual members, all U.S. citizens or permanent residents, nominated by existing members and granted either five-year term or lifetime membership. This exclusivity is a feature, not a bug: CFR is not a public square, it is a private club for the foreign policy class.
 
 ### Scale (FY2024, IRS Form 990):
 - Annual revenue: $79.1 million
@@ -71,7 +71,7 @@ Headquartered at 58 East 68th Street in New York City with a Washington, D.C. of
 - Executive compensation: $7.55 million
 - Other salaries and wages: $39 million
 
-CFR publishes *Foreign Affairs*, the flagship journal of American foreign policy, founded in 1922 and still among the most-cited publications by government officials and policymakers. It runs the David Rockefeller Studies Program — its in-house think tank — which produces policy reports, convenes study groups, and deploys fellows into government through a revolving door that is older than the Cold War.
+CFR publishes *Foreign Affairs*, the flagship journal of American foreign policy, founded in 1922 and still among the most-cited publications by government officials and policymakers. It runs the David Rockefeller Studies Program, its in-house think tank, which produces policy reports, convenes study groups, and deploys fellows into government through a revolving door that is older than the Cold War.
 
 Tax status: 501(c)(3), tax-exempt since January 1927. EIN: 13-1628168.
 
@@ -79,9 +79,9 @@ Tax status: 501(c)(3), tax-exempt since January 1927. EIN: 13-1628168.
 
 ### Who Funds Them
 
-CFR's funding model mixes member dues, corporate memberships, foundation grants, and a $692 million endowment. The endowment draw (29% of revenue per CFR's own breakdown) means the institution is substantially self-sustaining — but the corporate membership structure and foundation grants directly tie it to the donor class it supposedly analyzes "independently."
+CFR's funding model mixes member dues, corporate memberships, foundation grants, and a $692 million endowment. The endowment draw (29% of revenue per CFR's own breakdown) means the institution is substantially self-sustaining, but the corporate membership structure and foundation grants directly tie it to the donor class it supposedly analyzes "independently."
 
-### Pentagon Contractors (Think Tank Funding Tracker — minimum documented amounts):
+### Pentagon Contractors (Think Tank Funding Tracker, minimum documented amounts):
 
 | Contractor | Minimum Contribution |
 |---|---|
@@ -99,15 +99,15 @@ CFR's funding model mixes member dues, corporate memberships, foundation grants,
 | RTX (Raytheon) | $40,000 |
 | **Total (minimum)** | **$2,445,000** |
 
-CFR ranks sixth among all American think tanks in Pentagon contractor funding — behind Atlantic Council ($10.3M), CNAS ($6.7M), CSIS ($4.1M), Brookings ($3.5M), and Hudson Institute ($2.2M).
+CFR ranks sixth among all American think tanks in Pentagon contractor funding, behind Atlantic Council ($10.3M), CNAS ($6.7M), CSIS ($4.1M), Brookings ($3.5M), and Hudson Institute ($2.2M).
 
-**Corporate Members (as of January 2025):** Amazon, Bank of America, BlackRock, Chevron, Citi, ExxonMobil, Goldman Sachs, Google, JPMorgan Chase, Mastercard, Meta, Morgan Stanley, Nasdaq, Visa, Airbus — the financial and defense industrial base in one membership list.
+**Corporate Members (as of January 2025):** Amazon, Bank of America, BlackRock, Chevron, Citi, ExxonMobil, Goldman Sachs, Google, JPMorgan Chase, Mastercard, Meta, Morgan Stanley, Nasdaq, Visa, Airbus, the financial and defense industrial base in one membership list.
 
 **Foundation donors (2020 donor listing):** Bloomberg Philanthropies, Exxon Mobil Corporation, Ford Foundation, Bill and Melinda Gates Foundation, Paul E. Singer Foundation, Rockefeller Brothers Fund, Carnegie Corporation of New York, and others.
 
 **Goldman Sachs Philanthropy Fund:** $131,000 (2017), $70,000 (2018).
 
-**Blavatnik Controversy (2019):** CFR accepted a $12 million gift from Len Blavatnik — a Ukrainian-born oligarch whose longtime business partner Viktor Vekselberg was sanctioned by the U.S. Treasury and whose associate Oleg Deripaska has been sanctioned since 2018. Fifty-six prominent anti-corruption activists, former Treasury, State, and NSC officials signed a letter condemning the donation as helping "Blavatnik export Russian kleptocratic practices to the West." CFR president Richard Haass declined to return the money. The donation funded the Blavatnik Internship Program, which now runs 100+ paid internships per year.
+**Blavatnik Controversy (2019):** CFR accepted a $12 million gift from Len Blavatnik, a Ukrainian-born oligarch whose longtime business partner Viktor Vekselberg was sanctioned by the U.S. Treasury and whose associate Oleg Deripaska has been sanctioned since 2018. Fifty-six prominent anti-corruption activists, former Treasury, State, and NSC officials signed a letter condemning the donation as helping "Blavatnik export Russian kleptocratic practices to the West." CFR president Richard Haass declined to return the money. The donation funded the Blavatnik Internship Program, which now runs 100+ paid internships per year.
 
 ### CFR's revenue sources (self-reported breakdown):
 - Endowment draw: 29%
@@ -126,7 +126,7 @@ CFR ranks sixth among all American think tanks in Pentagon contractor funding �
 
 ### What They Produce
 
-**Foreign Affairs magazine:** Published since 1922, Foreign Affairs is the single most influential journal in American foreign policy. It published George Kennan's 1947 "X Article" ("The Sources of Soviet Conduct") under the pseudonym "Mr. X" — the founding document of Cold War containment doctrine. It has published every secretary of state, every national security advisor, every major foreign policy theorist for 100 years. Policymakers read it. It sets the Overton window for what counts as serious foreign policy thinking.
+**Foreign Affairs magazine:** Published since 1922, Foreign Affairs is the single most influential journal in American foreign policy. It published George Kennan's 1947 "X Article" ("The Sources of Soviet Conduct") under the pseudonym "Mr. X", the founding document of Cold War containment doctrine. It has published every secretary of state, every national security advisor, every major foreign policy theorist for 100 years. Policymakers read it. It sets the Overton window for what counts as serious foreign policy thinking.
 
 **The David Rockefeller Studies Program:** CFR's in-house research operation. Produces task force reports, working papers, and fellow publications on defense, trade, finance, energy, and diplomacy. Key outputs include:
 
@@ -143,17 +143,17 @@ CFR ranks sixth among all American think tanks in Pentagon contractor funding �
 
 ### The Policy Pipeline
 
-CFR's power is not legislative (they don't draft bills) — it is conceptual. They manufacture the frameworks that politicians cite. The Kennan example is the template:
+CFR's power is not legislative (they don't draft bills), it is conceptual. They manufacture the frameworks that politicians cite. The Kennan example is the template:
 
 1947: Kennan publishes "X Article" in *Foreign Affairs* → containment doctrine enters mainstream discourse → Truman Doctrine, Marshall Plan, NATO, and 40 years of Cold War strategy all flow from that one article.
 
 The modern pipeline is less dramatic but structurally identical:
 
-**Finance deregulation:** CFR's Hamilton Project (housed at Brookings, co-founded by CFR chairman Robert Rubin while at Goldman Sachs) produced research supporting financial liberalization in the 1990s. Rubin's network — CFR members throughout — implemented Gramm-Leach-Bliley and CFMA. The 2008 financial crisis followed.
+**Finance deregulation:** CFR's Hamilton Project (housed at Brookings, co-founded by CFR chairman Robert Rubin while at Goldman Sachs) produced research supporting financial liberalization in the 1990s. Rubin's network. CFR members throughout, implemented Gramm-Leach-Bliley and CFMA. The 2008 financial crisis followed.
 
-**Trade policy:** CFR intellectuals produced the intellectual case for the Trans-Pacific Partnership (TPP). Michael Froman — CFR Distinguished Fellow → Obama USTR — negotiated TPP in secret, "taking care of his friends on Wall Street and in corporate board rooms" per environmental critics. After leaving government, Froman returned to CFR as President (2023).
+**Trade policy:** CFR intellectuals produced the intellectual case for the Trans-Pacific Partnership (TPP). Michael Froman. CFR Distinguished Fellow → Obama USTR, negotiated TPP in secret, "taking care of his friends on Wall Street and in corporate board rooms" per environmental critics. After leaving government, Froman returned to CFR as President (2023).
 
-**Defense spending:** Pentagon contractors fund CFR's corporate membership while CFR fellows testify to Congress on defense needs, threat assessments, and force structure. The policy output routinely supports robust defense budgets and military engagement — the precise outcome that benefits the contractors writing the checks.
+**Defense spending:** Pentagon contractors fund CFR's corporate membership while CFR fellows testify to Congress on defense needs, threat assessments, and force structure. The policy output routinely supports robust defense budgets and military engagement, the precise outcome that benefits the contractors writing the checks.
 
 **China policy:** CFR has shaped every administration's China policy through its task force reports, fellows deployed as NSC staffers and State Department officials, and the pages of Foreign Affairs. The framework shifts from engagement to competition while the defense contractors funding CFR benefit from either direction.
 
@@ -176,14 +176,14 @@ The modern pipeline is less dramatic but structurally identical:
 
 ### The Revolving Door
 
-CFR is not just a revolving door — it is the revolving door's permanent address. The historical record:
+CFR is not just a revolving door, it is the revolving door's permanent address. The historical record:
 
-**21 Secretaries of Defense or War, 19 Secretaries of the Treasury, 17 Secretaries of State, and 15 CIA Directors** have been CFR members. This is not correlation — CFR membership is a credentialing mechanism for the foreign policy class.
+**21 Secretaries of Defense or War, 19 Secretaries of the Treasury, 17 Secretaries of State, and 15 CIA Directors** have been CFR members. This is not correlation. CFR membership is a credentialing mechanism for the foreign policy class.
 
 ### Key revolving door examples:
 
 ### David Rubenstein (Chairman):
-Carter White House deputy domestic policy advisor → Carlyle Group co-founder and managing director ($465 billion AUM) → CFR Chairman (2019–present). Also: co-chair of Brookings Institution board, regent at Smithsonian, trustee at World Economic Forum. Rubenstein's presence at CFR and Brookings simultaneously embodies the Both-Sides Illusion pattern — "centrist" institutions with the same private equity chairman.
+Carter White House deputy domestic policy advisor → Carlyle Group co-founder and managing director ($465 billion AUM) → CFR Chairman (2019–present). Also: co-chair of Brookings Institution board, regent at Smithsonian, trustee at World Economic Forum. Rubenstein's presence at CFR and Brookings simultaneously embodies the Both-Sides Illusion pattern, "centrist" institutions with the same private equity chairman.
 
 ### Michael Froman (President, 2023–present):
 Citigroup executive → CFR Distinguished Fellow → Obama NSC Deputy for International Economic Affairs (2009–2013) → U.S. Trade Representative (2013–2017) → Mastercard Vice Chairman and President for Strategic Growth → CFR President (2023). The full arc: financial sector → independent research → government negotiating trade deals → financial sector → back to independent research. Environmental groups specifically criticized Froman's TPP negotiations for "taking care of his friends on Wall Street and in corporate board rooms."
@@ -192,12 +192,12 @@ Citigroup executive → CFR Distinguished Fellow → Obama NSC Deputy for Intern
 CFR President 2003–2023. Paid $1.44 million in FY2024 as President Emeritus. Prior: State Department Director of Policy Planning under Colin Powell (2001–2003), overseeing the policy shop as the Iraq War was launched. CFR-generated frameworks shaped the post-9/11 security architecture while Haass held both roles in the same establishment.
 
 ### Gina Raimondo (Distinguished Fellow, 2025):
-Biden Secretary of Commerce (2021–2025) → CFR Distinguished Fellow and co-chair of CFR Task Force on economic security (January 2025). The revolving door's express lane: leaves Commerce, lands at CFR within weeks, takes the "economic security" framing portfolio — covering economic policy, U.S. competitiveness, and artificial intelligence — that directly serves tech and finance sector members.
+Biden Secretary of Commerce (2021–2025) → CFR Distinguished Fellow and co-chair of CFR Task Force on economic security (January 2025). The revolving door's express lane: leaves Commerce, lands at CFR within weeks, takes the "economic security" framing portfolio, covering economic policy, U.S. competitiveness, and artificial intelligence, that directly serves tech and finance sector members.
 
-### Sue Mi Terry (Senior Fellow — arrested 2024):
+### Sue Mi Terry (Senior Fellow, arrested 2024):
 CIA analyst → NSC Korea policy director → CFR Senior Fellow → arrested July 2024 for acting as an unregistered foreign agent for the South Korean government (FARA violation). DOJ charged Terry with advocating for South Korean government positions and providing Korean officials access to U.S. officials. In exchange: luxury handbags, meals, and a $37,000 unrestricted grant. Terry resigned her CFR fellowship after indictment. This case illustrates the structural risk of CFR's model: fellows who have government access are also attractive targets for foreign government influence operations.
 
-### Historical leadership — the money and the chair:
+### Historical leadership, the money and the chair:
 - David Rockefeller (Co-Chair 1970–1985): Chairman, Chase Manhattan Bank
 - Peter Peterson (Chair 1985–2007): Co-founder, Blackstone Group
 - Robert Rubin (Co-Chair 2007–2017): Former CEO, Goldman Sachs; former Treasury Secretary; architect of 1990s financial deregulation
@@ -211,29 +211,29 @@ Every CFR chairman for 50+ years has come from Wall Street's highest echelon. Th
 
 ### What Their Funders Got
 
-**Goldman Sachs and Wall Street:** The financial deregulation architecture of the 1990s — NAFTA, Gramm-Leach-Bliley, the Commodity Futures Modernization Act — was built by CFR members cycling through Treasury and the NSC. Robert Rubin (Goldman Sachs CEO → Treasury Secretary → Citigroup board → CFR Co-Chair) is the archetype. The 2008 financial crisis is the consequence.
+**Goldman Sachs and Wall Street:** The financial deregulation architecture of the 1990s. NAFTA, Gramm-Leach-Bliley, the Commodity Futures Modernization Act, was built by CFR members cycling through Treasury and the NSC. Robert Rubin (Goldman Sachs CEO → Treasury Secretary → Citigroup board → CFR Co-Chair) is the archetype. The 2008 financial crisis is the consequence.
 
 **Defense contractors:** $2.4M+ in Pentagon contractor funding buys corporate membership access, fellow briefings, and a publication platform whose research consistently supports robust defense engagement, military options, and threat-framework analysis that justifies defense spending. Lockheed Martin and Northrop Grumman don't fund CFR because they care about independent foreign policy analysis.
 
-**Mastercard/trade finance:** Michael Froman negotiated TPP as USTR (protecting financial sector trade interests), left for Mastercard's VP role, and returned as CFR President. The trade policy framework he built at USTR — and that CFR intellectual output supported — directly benefited the financial services sector that employs him.
+**Mastercard/trade finance:** Michael Froman negotiated TPP as USTR (protecting financial sector trade interests), left for Mastercard's VP role, and returned as CFR President. The trade policy framework he built at USTR, and that CFR intellectual output supported, directly benefited the financial services sector that employs him.
 
-**Paul Singer (Foundation donor):** Singer's foundation appears in CFR's 2020 donor listing. Singer is the founder of Elliott Management, a hedge fund that specializes in sovereign debt distress and has coerced governments (Argentina, Congo, Peru) into paying face value on defaulted bonds. Singer's foreign policy interests — hard line on Iran, interventionist posture toward adversaries — are precisely the worldview CFR's defense and security programming promotes.
+**Paul Singer (Foundation donor):** Singer's foundation appears in CFR's 2020 donor listing. Singer is the founder of Elliott Management, a hedge fund that specializes in sovereign debt distress and has coerced governments (Argentina, Congo, Peru) into paying face value on defaulted bonds. Singer's foreign policy interests, hard line on Iran, interventionist posture toward adversaries, are precisely the worldview CFR's defense and security programming promotes.
 
-**Blavatnik/oligarch network:** The $12M donation endowed a program that runs 100+ paid internships annually — a talent pipeline into the CFR network. Whatever Blavatnik's specific policy goals, buying 100+ entry-level relationships per year in the U.S. foreign policy apparatus is a significant asset.
+**Blavatnik/oligarch network:** The $12M donation endowed a program that runs 100+ paid internships annually, a talent pipeline into the CFR network. Whatever Blavatnik's specific policy goals, buying 100+ entry-level relationships per year in the U.S. foreign policy apparatus is a significant asset.
 
 ---
 
 ### Class Analysis
 
-CFR is the permanent government of American foreign policy — the institution that provides continuity, credentialing, and ideological consensus across administrations. Republicans and Democrats rotate through the White House; CFR members rotate through State, Defense, NSC, and Treasury regardless of who wins.
+CFR is the permanent government of American foreign policy, the institution that provides continuity, credentialing, and ideological consensus across administrations. Republicans and Democrats rotate through the White House; CFR members rotate through State, Defense, NSC, and Treasury regardless of who wins.
 
-The structural function is elite reproduction. CFR membership signals to the hiring class (White House Counsel's Office, State Department transition teams) that someone has been vetted by the foreign policy establishment. CFR fellowships are the parking lot between government stints — where officials wait for the next administration while remaining within the network. CFR's corporate membership is the monetization mechanism — companies pay to access those officials and shape the research that will inform the next administration's policy choices.
+The structural function is elite reproduction. CFR membership signals to the hiring class (White House Counsel's Office, State Department transition teams) that someone has been vetted by the foreign policy establishment. CFR fellowships are the parking lot between government stints, where officials wait for the next administration while remaining within the network. CFR's corporate membership is the monetization mechanism, companies pay to access those officials and shape the research that will inform the next administration's policy choices.
 
-The "centrist" or "nonpartisan" label obscures what the class composition reveals: every CFR chairman for half a century has been a Wall Street titan. The corporate membership is the Fortune 500 finance and defense industrial base. The endowment is $692 million. This is not a neutral institution studying foreign policy — it is the foreign policy class studying itself and producing the intellectual products that justify its own continued dominance.
+The "centrist" or "nonpartisan" label obscures what the class composition reveals: every CFR chairman for half a century has been a Wall Street titan. The corporate membership is the Fortune 500 finance and defense industrial base. The endowment is $692 million. This is not a neutral institution studying foreign policy, it is the foreign policy class studying itself and producing the intellectual products that justify its own continued dominance.
 
 ### Key patterns present:
 - **Bipartisan Credibility Shield:** Maintains token bipartisan membership and "no institutional positions" claim while consistently producing frameworks that support military engagement, financial globalization, and the interests of defense contractors and Wall Street banks
-- **Revolving Door (Policy):** The most institutionalized revolving door in American government — 21 SecDefs, 17 SecStates, 15 CIA Directors
+- **Revolving Door (Policy):** The most institutionalized revolving door in American government, 21 SecDefs, 17 SecStates, 15 CIA Directors
 - **Academic Capture:** University-adjacent branding, *Foreign Affairs* academic prestige, and the "independent research" framing legitimize what is structurally a corporate-funded policy production operation
 - **Idea Laundering:** Donors fund corporate membership → fellows produce research → research is cited in Congressional testimony by those same fellows as government officials → policy follows → donors benefit
 
@@ -244,18 +244,18 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 
 ### Sources
 
-- [ProPublica Nonprofit Explorer: Council on Foreign Relations — IRS 990 data, FY2024 revenue $79.1M, assets $755.5M, EIN 13-1628168](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1)
-- [Think Tank Funding Tracker: CFR — $2,445,000 minimum from Pentagon contractors, 3/5 transparency score](https://thinktankfundingtracker.org/think-tank/council-on-foreign-relations/) (Tier 2)
-- [OpenSecrets: Council on Foreign Relations — organization profile, political contributions](https://www.opensecrets.org/orgs/council-on-foreign-relations/summary?id=D000032904) (Tier 1)
-- [CFR: Funding — revenue breakdown, donor policies, corporate membership structure](https://www.cfr.org/funding) (Tier 3)
-- [CFR: Board of Directors — current leadership including Rubenstein, Effron, Froman, Fink, Gorman, Napolitano, Zakaria](https://www.cfr.org/board-directors) (Tier 3)
-- [InfluenceWatch: Council on Foreign Relations — background, funding, controversies, corporate members list](https://www.influencewatch.org/non-profit/council-on-foreign-relations-cfr/) (Tier 3)
-- [Wikipedia: Council on Foreign Relations — history, founding, membership, policy influence overview](https://en.wikipedia.org/wiki/Council_on_Foreign_Relations) (Tier 3)
-- [Wikipedia: Michael Froman — career trajectory, USTR service, Mastercard, CFR presidency](https://en.wikipedia.org/wiki/Michael_Froman) (Tier 3)
-- [Bellingcat: Money Talks — Len Blavatnik and the Council on Foreign Relations (Oct 2019)](https://www.bellingcat.com/news/2019/10/10/money-talks-len-blavatnik-and-the-council-on-foreign-relations/) (Tier 2)
-- [Mother Jones: A Soviet-Born Billionaire Is Buying Influence at US Institutions — Blavatnik $12M CFR controversy](https://www.motherjones.com/politics/2019/10/council-on-foreign-relations-leonard-blavatnik-russia/) (Tier 2)
+- [ProPublica Nonprofit Explorer: Council on Foreign Relations. IRS 990 data, FY2024 revenue $79.1M, assets $755.5M, EIN 13-1628168](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1)
+- [Think Tank Funding Tracker: CFR, $2,445,000 minimum from Pentagon contractors, 3/5 transparency score](https://thinktankfundingtracker.org/think-tank/council-on-foreign-relations/) (Tier 2)
+- [OpenSecrets: Council on Foreign Relations, organization profile, political contributions](https://www.opensecrets.org/orgs/council-on-foreign-relations/summary?id=D000032904) (Tier 1)
+- [CFR: Funding, revenue breakdown, donor policies, corporate membership structure](https://www.cfr.org/funding) (Tier 3)
+- [CFR: Board of Directors, current leadership including Rubenstein, Effron, Froman, Fink, Gorman, Napolitano, Zakaria](https://www.cfr.org/board-directors) (Tier 3)
+- [InfluenceWatch: Council on Foreign Relations, background, funding, controversies, corporate members list](https://www.influencewatch.org/non-profit/council-on-foreign-relations-cfr/) (Tier 3)
+- [Wikipedia: Council on Foreign Relations, history, founding, membership, policy influence overview](https://en.wikipedia.org/wiki/Council_on_Foreign_Relations) (Tier 3)
+- [Wikipedia: Michael Froman, career trajectory, USTR service, Mastercard, CFR presidency](https://en.wikipedia.org/wiki/Michael_Froman) (Tier 3)
+- [Bellingcat: Money Talks. Len Blavatnik and the Council on Foreign Relations (Oct 2019)](https://www.bellingcat.com/news/2019/10/10/money-talks-len-blavatnik-and-the-council-on-foreign-relations/) (Tier 2)
+- [Mother Jones: A Soviet-Born Billionaire Is Buying Influence at US Institutions. Blavatnik $12M CFR controversy](https://www.motherjones.com/politics/2019/10/council-on-foreign-relations-leonard-blavatnik-russia/) (Tier 2)
 - [DOJ: Former Government Official (Sue Mi Terry) Arrested for Acting as Unregistered Agent of South Korean Government (July 2024)](https://www.justice.gov/archives/opa/pr/former-cia-and-white-house-official-sue-mi-terry-arrested-acting-unregistered-agent-south) (Tier 1)
-- [SourceWatch: Council on Foreign Relations — funding documentation, leadership history, Wall Street connections](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Council_on_Foreign_Relations) (Tier 3)
+- [SourceWatch: Council on Foreign Relations, funding documentation, leadership history, Wall Street connections](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Council_on_Foreign_Relations) (Tier 3)
 - [CFR: Former Secretary of Commerce Gina Raimondo Joins CFR as Distinguished Fellow (January 2025)](https://www.cfr.org/articles/former-secretary-commerce-gina-raimondo-joins-cfr-distinguished-fellow) (Tier 3)
 - [CFR: Council on Foreign Relations Announces Michael Froman Will Serve as New President (March 2023)](https://www.cfr.org/articles/council-foreign-relations-announces-michael-froman-will-serve-new-president) (Tier 3)
 - [UPI: Hegseth Cuts Military Ties with Ivy League Schools, Multiple Think Tanks (March 2026)](https://www.upi.com/Top_News/US/2026/03/01/dod-ends-relationships-ivy-league/5671772385928/) (Tier 2)

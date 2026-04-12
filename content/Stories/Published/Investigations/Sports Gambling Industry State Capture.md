@@ -22,7 +22,7 @@ donors: [[SV&B PAC]] [[Sports Betting Alliance]] [[American Gaming Association]]
 
 ### The Pipeline
 
-Sports gambling is a $60 billion/year industry that barely existed legally before 2018. In that single year, the Supreme Court decision in Murphy v. NCAA struck down the federal ban on state sports betting, opening all 50 states to legalization. In the 7 years since, nearly every state has legalized sports betting — not through democratic deliberation or voter approval, but through legislator capture funded by gambling industry dark money.
+Sports gambling is a $60 billion/year industry that barely existed legally before 2018. In that single year, the Supreme Court decision in Murphy v. NCAA struck down the federal ban on state sports betting, opening all 50 states to legalization. In the 7 years since, nearly every state has legalized sports betting, not through democratic deliberation or voter approval, but through legislator capture funded by gambling industry dark money.
 
 This is the modern blueprint for rapid regulatory capture: Supreme Court opening + mega-donations to state legislators + model legislation from industry groups + zero consumer protection = legalization and windfall profits.
 
@@ -31,7 +31,7 @@ This is the modern blueprint for rapid regulatory capture: Supreme Court opening
 Alabama provides the clearest case study of sports betting industry capture at the state level:
 
 ### The Dark Money Vehicle:
-- **[[SV&B PAC]]** (Sports Venues & Betting PAC) — Created January 2025, funded by Sports Betting Alliance
+- **[[SV&B PAC]]** (Sports Venues & Betting PAC). Created January 2025, funded by Sports Betting Alliance
 - **Initial funding:** $1.25 million from Sports Betting Alliance (industry consortium)
 - **Distribution target:** 100+ Alabama state legislators
 
@@ -39,7 +39,7 @@ Alabama provides the clearest case study of sports betting industry capture at t
 - Jan 15, 2025: SV&B PAC receives $1.25M
 - Jan 20-Feb 28, 2025: SV&B distributes $718.5K to 98 Alabama House members, 22 Alabama Senate members
 - Feb 15, 2025: Sports betting legalization bill introduced (HB 217)
-- Feb 28, 2025: House passes HB 217 (98-7 vote — nearly unanimous)
+- Feb 28, 2025: House passes HB 217 (98-7 vote, nearly unanimous)
 - Mar 15, 2025: Senate passes bill (32-2)
 - Apr 1, 2025: Governor signs; Alabama sports betting becomes legal
 
@@ -73,28 +73,28 @@ After the 2018 Murphy v. NCAA decision:
 
 | Date | Event | Amount | Source |
 |------|-------|--------|--------|
-| 2018-01-01 | 5 states legalize sports betting after Murphy v. NCAA decision | — | Supreme Court |
+| 2018-01-01 | 5 states legalize sports betting after Murphy v. NCAA decision |, | Supreme Court |
 | 2018-01-01 | Dark money spending on sports betting legalization | $8M | ProPublica |
 | 2018-12-31 | Estimated industry revenue (2018) | $1.2B | American Gaming Association |
-| 2019-12-31 | 8 additional states legalize sports betting | — | ProPublica |
+| 2019-12-31 | 8 additional states legalize sports betting |, | ProPublica |
 | 2019-12-31 | Dark money spending on sports betting legalization (2019) | $15M | ProPublica |
 | 2019-12-31 | Estimated industry revenue (2019) | $2.8B | American Gaming Association |
-| 2020-12-31 | 12 additional states legalize sports betting | — | ProPublica |
+| 2020-12-31 | 12 additional states legalize sports betting |, | ProPublica |
 | 2020-12-31 | Dark money spending on sports betting legalization (2020) | $28M | ProPublica |
 | 2020-12-31 | Estimated industry revenue (2020) | $5.2B | American Gaming Association |
-| 2021-12-31 | 8 additional states legalize sports betting | — | ProPublica |
+| 2021-12-31 | 8 additional states legalize sports betting |, | ProPublica |
 | 2021-12-31 | Dark money spending on sports betting legalization (2021) | $35M | ProPublica |
 | 2021-12-31 | Estimated industry revenue (2021) | $8.5B | American Gaming Association |
-| 2022-12-31 | 6 additional states legalize sports betting | — | ProPublica |
+| 2022-12-31 | 6 additional states legalize sports betting |, | ProPublica |
 | 2022-12-31 | Dark money spending on sports betting legalization (2022) | $42M | ProPublica |
 | 2022-12-31 | Estimated industry revenue (2022) | $12.3B | American Gaming Association |
-| 2023-12-31 | 4 additional states legalize sports betting | — | ProPublica |
+| 2023-12-31 | 4 additional states legalize sports betting |, | ProPublica |
 | 2023-12-31 | Dark money spending on sports betting legalization (2023) | $38M | ProPublica |
 | 2023-12-31 | Estimated industry revenue (2023) | $18.7B | American Gaming Association |
-| 2024-12-31 | 3 additional states legalize sports betting | — | ProPublica |
+| 2024-12-31 | 3 additional states legalize sports betting |, | ProPublica |
 | 2024-12-31 | Dark money spending on sports betting legalization (2024) | $32M | ProPublica |
 | 2024-12-31 | Estimated industry revenue (2024) | $24.5B | American Gaming Association |
-| 2025-12-31 | 2 additional states legalize sports betting | — | ProPublica |
+| 2025-12-31 | 2 additional states legalize sports betting |, | ProPublica |
 | 2025-12-31 | Dark money spending on sports betting legalization (2025) | $45M | ProPublica |
 | 2025-12-31 | Estimated industry revenue (2025) | $31.2B | American Gaming Association |
 
@@ -112,7 +112,7 @@ The American Gaming Association (AGA) operates the industry's lobbying infrastru
 - **PAC affiliates:** 16 different PACs funding state legislators across all states
 - **In-house consultants:** 9 former state legislators, 12 former state agency staff
 
-This is systematic state-level capture. The AGA doesn't just donate — it provides model legislation, polling data, talking points, and direct lobbying to state legislators.
+This is systematic state-level capture. The AGA doesn't just donate, it provides model legislation, polling data, talking points, and direct lobbying to state legislators.
 
 [Tier 2 - American Gaming Association lobbying disclosures](https://www.americangaming.org/?q=Sports%20Gambling%20Industry%20State%20Capture)
 

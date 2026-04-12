@@ -41,7 +41,7 @@ After her committee assignments were stripped by the full House, Greene gave a f
 - Did not apologize for the Jewish space laser post, later claiming it was about a specific California utility company
 - Did not apologize for liked posts calling for executing politicians
 
-The recantation was strategic rather than substantive: she distanced herself from the specific QAnon framework (which was losing cultural relevance as Q went silent) while maintaining the worldview underneath it — corrupt elites controlling the deep state, persecuting ordinary Americans, hiding the truth.
+The recantation was strategic rather than substantive: she distanced herself from the specific QAnon framework (which was losing cultural relevance as Q went silent) while maintaining the worldview underneath it, corrupt elites controlling the deep state, persecuting ordinary Americans, hiding the truth.
 
 ---
 
@@ -63,7 +63,7 @@ None of these ideological commitments threaten concentrated wealth. All of them 
 
 ### The Pivot to DOGE
 
-The Department of Government Efficiency — the Musk-led executive initiative to cut federal spending and fire civil servants — is the DOGE acronym that Greene aligned with early in Trump's second term. The alignment represents the mainstreaming pipeline's completion:
+The Department of Government Efficiency, the Musk-led executive initiative to cut federal spending and fire civil servants, is the DOGE acronym that Greene aligned with early in Trump's second term. The alignment represents the mainstreaming pipeline's completion:
 
 **QAnon version:** The "deep state" is a secret cabal of child traffickers and globalists who control the government.
 
@@ -86,9 +86,9 @@ Greene's trajectory illustrates how the MAGA movement converts fringe beliefs in
 
 **Phase 1 (2018–2020):** Build audience with QAnon content on social media. Establish identity as outsider fighting the system. Win primary in safe Republican district.
 
-**Phase 2 (2021–2022):** Get elected. Face media scrutiny. Partially recant the most indefensible specifics (school shootings fake, space lasers) while maintaining the worldview. Use the controversy for fundraising. Get stripped of committees — use it for fundraising.
+**Phase 2 (2021–2022):** Get elected. Face media scrutiny. Partially recant the most indefensible specifics (school shootings fake, space lasers) while maintaining the worldview. Use the controversy for fundraising. Get stripped of committees, use it for fundraising.
 
-**Phase 3 (2023–2024):** Republicans take majority. Get committee assignments back. Become Trump's closest House ally. File motion against Johnson — it fails, but generates donations. The specific conspiracies have been replaced with MAGA governance positions.
+**Phase 3 (2023–2024):** Republicans take majority. Get committee assignments back. Become Trump's closest House ally. File motion against Johnson, it fails, but generates donations. The specific conspiracies have been replaced with MAGA governance positions.
 
 **Phase 4 (2025–present):** DOGE alignment. The "deep state" concept has been operationalized as policy. The conspiracy theory has been converted into an executive initiative. The fringe belief is now official government action.
 
@@ -99,9 +99,9 @@ This is the mainstreaming pipeline. It moves from: conspiracy theory (can't be s
 ### Sources
 
 - [CNBC: MTG expresses regret about QAnon](https://www.cnbc.com/2021/02/04/marjorie-taylor-greene-regret-qanon-conspiracy-claims.html) (Tier 2)
-- [BuzzFeed News: CrossFit and MTG — QAnon and disavowal](https://www.buzzfeednews.com/article/ryancbrooks/marjorie-taylor-greene-qanon-crossfit) (Tier 2)
+- [BuzzFeed News: CrossFit and MTG. QAnon and disavowal](https://www.buzzfeednews.com/article/ryancbrooks/marjorie-taylor-greene-qanon-crossfit) (Tier 2)
 - [Newsweek: MTG's loathsome lies blasted by CrossFit](https://www.newsweek.com/marjorie-taylor-greenes-loathsome-dangerous-lies-disavowed-her-favorite-gym-1573042) (Tier 2)
-- [Wikipedia: Marjorie Taylor Greene — conspiracy theories and controversies](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene) (Tier 3)
+- [Wikipedia: Marjorie Taylor Greene, conspiracy theories and controversies](https://en.wikipedia.org/wiki/Marjorie_Taylor_Greene) (Tier 3)
 - [The Week: MTG's biggest controversies](https://theweek.com/politics/marjorie-taylor-greene-controversy) (Tier 2)
 - [New Republic: The Ascension of Marjorie Taylor Greene](https://newrepublic.com/article/161222/ascension-marjorie-taylor-greene) (Tier 2)
 - [The Hill: MTG and Washington's broken incentives](https://thehill.com/opinion/congress-blog/4651899-we-need-to-talk-about-marjorie-taylor-greene-and-washingtons-broken-incentives/) (Tier 2)
