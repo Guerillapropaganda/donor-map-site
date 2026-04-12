@@ -203,15 +203,45 @@ async function parseHousePdf(pdfBuffer) {
       if (chunk.includes('IDOwnerAsset') || chunk.includes('Clerk of the House')) continue;
 
       const crypto = isCryptoTrade(ticker, assetDesc || chunk);
+      const parsedAmount = parseAmountRange(amt.text);
+
+      // ─── Options detection ───
+      const optionsMatch = chunk.match(/\b(call|put)\s*option/i) ||
+                           chunk.match(/\boption\b.*\b(call|put)\b/i) ||
+                           chunk.match(/\b(calls|puts)\b/i);
+      const isOptions = !!optionsMatch;
+      const optionType = optionsMatch ? (optionsMatch[1].toLowerCase().startsWith('c') ? 'call' : 'put') : null;
+
+      // ─── Asset type classification ───
+      let assetType = 'Stock';
+      if (crypto) assetType = 'Crypto';
+      else if (isOptions) assetType = 'Options';
+      else if (/\b(municipal|treasury|bond|note|debt|fixed.income)\b/i.test(chunk)) assetType = 'Bond';
+      else if (/\b(mutual fund|index fund|ETF|exchange.traded)\b/i.test(chunk)) assetType = 'Fund';
+      else if (/\b(real estate|REIT|property|mortgage)\b/i.test(chunk) && !ticker) assetType = 'Real Estate';
+      else if (/\b(commodity|gold|silver|oil|futures)\b/i.test(chunk) && !ticker) assetType = 'Commodity';
+
+      // ─── Large trade flag ───
+      const isWhaleTrade = parsedAmount.max >= 500000;
+
+      // ─── Build description if still empty ───
+      if (!assetDesc) {
+        const descLines = chunk.split(/\n/).map(l => l.trim()).filter(l => l.length > 3 && !l.match(/^\d{2}\/\d{2}/) && !l.match(/^\$/));
+        assetDesc = descLines.slice(-2).join(' ').replace(/^.*?([\w])/, '$1').slice(0, 150);
+      }
+
       transactions.push({
         transactionDate: txDate,
         owner,
         ticker,
         assetDescription: assetDesc || (ticker ? ticker : 'Unknown Asset'),
-        assetType: crypto ? 'Crypto' : 'Stock',
+        assetType,
         isCrypto: crypto,
+        isOptions,
+        optionType,
+        isWhaleTrade,
         transactionType: txType,
-        amount: parseAmountRange(amt.text),
+        amount: parsedAmount,
         comment: '',
       });
     }
@@ -304,6 +334,7 @@ async function processYear(year) {
   // Download and parse PDFs
   log(`  Parsing ${filings.length} PDFs...`);
   let parsed = 0, failed = 0, withTx = 0, txCount = 0;
+  let cryptoCount = 0, optionsCount = 0, whaleCount = 0, lateCount = 0;
 
   for (const filing of filings) {
     await rateLimiter.wait();
@@ -316,6 +347,25 @@ async function processYear(year) {
         withTx++;
         txCount += transactions.length;
       }
+
+      // ─── Filing delay calculation ───
+      // STOCK Act requires disclosure within 45 days of transaction
+      const filingDateParsed = new Date(filing.filing.date);
+      for (const tx of transactions) {
+        if (tx.transactionDate) {
+          const parts = tx.transactionDate.match(/(\d{1,2})\/(\d{1,2})\/(\d{4})/);
+          if (parts) {
+            const txDateParsed = new Date(parseInt(parts[3]), parseInt(parts[1]) - 1, parseInt(parts[2]));
+            const diffDays = Math.round((filingDateParsed - txDateParsed) / 86400000);
+            tx.filingDelayDays = diffDays;
+            tx.isLateDisclosure = diffDays > 45;
+            if (tx.isLateDisclosure) lateCount++;
+          }
+        }
+        if (tx.isCrypto) cryptoCount++;
+        if (tx.isOptions) optionsCount++;
+        if (tx.isWhaleTrade) whaleCount++;
+      }
     } catch (err) {
       failed++;
       filing.parseError = err.message;
@@ -327,8 +377,11 @@ async function processYear(year) {
     }
   }
 
-  const stats = { total: filings.length, parsed, failed, withTx, txCount };
+  const stats = { total: filings.length, parsed, failed, withTx, txCount, cryptoCount, optionsCount, whaleCount, lateCount };
   log(`  Done: ${parsed} parsed, ${failed} failed, ${txCount} transactions from ${withTx} filings`);
+  if (cryptoCount || optionsCount || whaleCount || lateCount) {
+    log(`  Flags: ${cryptoCount} crypto, ${optionsCount} options, ${whaleCount} whale ($500K+), ${lateCount} late disclosure`);
+  }
 
   return { year, filings, stats };
 }
