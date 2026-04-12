@@ -2,6 +2,7 @@
 title: "Jason Smith"
 type: politician
 content-readiness: draft
+central-thesis: "Smith is the rural poor kid who writes tax policy for the rich. His Ways & Means gavel gives him authorship over every major tax provision in America — and the industries that benefit from those provisions fund his campaign at rates that exploded ..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

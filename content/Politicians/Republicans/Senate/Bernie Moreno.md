@@ -4,6 +4,7 @@ type: politician
 chamber: "Senate"
 party: "Republican"
 content-readiness: draft
+central-thesis: "Moreno's 2024 victory represents the most concentrated single-industry political investment in recent Senate history. The crypto industry spent $40M+ (Defend American Jobs $22.8M alone) to elect Moreno, a crypto entrepreneur who had already divest..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

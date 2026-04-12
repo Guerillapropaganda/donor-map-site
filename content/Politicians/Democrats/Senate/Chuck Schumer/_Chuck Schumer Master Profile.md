@@ -2,6 +2,7 @@
 title: "Chuck Schumer Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Chuck Schumer is the Democratic Party's answer to Mitch McConnell — not in ideology, but in function. Where McConnell built the Republican donor class's infrastructure through judicial capture and Citizens United, Schumer built the Democratic dono..."
 last-updated: 2026-04-10
 source-tier: 1
 career-total: "$100M"

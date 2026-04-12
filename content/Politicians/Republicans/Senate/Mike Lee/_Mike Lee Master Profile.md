@@ -2,6 +2,7 @@
 title: "Mike Lee"
 type: politician
 content-readiness: draft
+central-thesis: "Lee's donor base is the Federalist Society network, Club for Growth ($554K career, top contributor), Koch-aligned libertarians, and Wall Street firms seeking judicial capture and statutory rollback of corporate accountability. His constitutional l..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

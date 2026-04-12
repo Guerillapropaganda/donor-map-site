@@ -4,6 +4,7 @@ type: politician
 chamber: "House"
 party: "Republican"
 content-readiness: draft
+central-thesis: "Nancy Mace is the donor-class weather vane. Her positions do not reflect a stable ideology or principle — they shift when the donor incentive structure changes. Her post-January 6 criticism of Trump was genuine, but only lasted as long as moderate..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Dick Durbin"
 type: politician
 content-readiness: draft
+central-thesis: "Durbin's 44-year career demonstrates how managed opposition functions as institutional power. His donor base — lawyers ($7.1M career), securities/investment ($2.4M), health professionals (content-readiness: draft.6M), pro-Israel (content-readiness: draft.1M), insurance ($831K) — maps precis..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

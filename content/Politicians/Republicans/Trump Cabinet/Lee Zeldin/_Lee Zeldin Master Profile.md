@@ -2,6 +2,7 @@
 title: "Lee Zeldin Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Lee Zeldin's EPA appointment is the donor-to-deregulation pipeline in its most transparent form. Congressional career: oil and gas industry donated $410K+, Koch Industries $60K+. Post-government: Leonard Leo's CRC Advisors paid him $3K+ for fossil..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

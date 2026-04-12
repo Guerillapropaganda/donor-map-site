@@ -2,6 +2,7 @@
 title: "Deb Fischer"
 type: politician
 content-readiness: draft
+central-thesis: "Deb Fischer chairs the subcommittee that oversees the content-readiness: draft41 billion Sentinel ICBM replacement program — built by Northrop Grumman — while STRATCOM headquarters sits in her state. She secured over $4 billion in Sentinel funding in the FY2026 NDAA al..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

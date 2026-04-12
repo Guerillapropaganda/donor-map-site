@@ -2,6 +2,7 @@
 title: "Tony Thurmond Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Tony Thurmond is the education establishment candidate — his superintendent tenure represents the interests of California Teachers Association (CTA) and public education institutional networks, in direct conflict with the charter school billionair..."
 last-updated: 2026-03-23
 source-tier: 1
 parent: null

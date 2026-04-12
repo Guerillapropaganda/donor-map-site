@@ -2,6 +2,7 @@
 title: "Josh Shapiro Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Josh Shapiro's political rise is a case study in corporate-Democratic coalition building. His $68M gubernatorial race — the most expensive in Pennsylvania history — was funded by Bloomberg ($2.5M), Soros ($500K), 240+ corporate CEOs, coal executiv..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null

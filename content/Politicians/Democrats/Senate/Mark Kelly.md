@@ -4,6 +4,7 @@ type: politician
 chamber: "Senate"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Mark Kelly is the defense contractor donor class's favorite Democrat. His military/NASA biography provides unassailable patriotic cover for voting to expand Pentagon budgets that directly benefit his donors. He sits on the Senate Armed Services Co..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

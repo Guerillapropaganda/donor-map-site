@@ -2,6 +2,7 @@
 title: "David Sacks Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Sacks is the PayPal Mafia's man in government — a tech VC (Craft Ventures) who went from funding companies to funding deregulation of the industries he's invested in. His AI/Crypto Czar role puts a venture capitalist in charge of regulating the te..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

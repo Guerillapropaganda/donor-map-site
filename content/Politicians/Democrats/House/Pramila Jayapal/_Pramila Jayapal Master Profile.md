@@ -2,6 +2,7 @@
 title: "Pramila Jayapal"
 type: politician
 content-readiness: draft
+central-thesis: "Jayapal represents the progressive wing's structural challenge: the CPC has enough numerical power to block any bill that Democratic leadership wants to pass, but has never successfully sustained that leverage when party leadership applies direct ..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

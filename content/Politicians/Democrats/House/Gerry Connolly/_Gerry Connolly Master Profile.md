@@ -2,6 +2,7 @@
 title: "Gerry Connolly"
 type: politician
 content-readiness: draft
+central-thesis: "Gerry Connolly was the government contractor economy's congressman — funded by the industries that depend on federal spending, representing the district where those companies are headquartered, and using his Oversight Committee position to champio..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

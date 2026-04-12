@@ -2,6 +2,7 @@
 title: "Jamie Raskin"
 type: politician
 content-readiness: draft
+central-thesis: "Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand — the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democrati..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

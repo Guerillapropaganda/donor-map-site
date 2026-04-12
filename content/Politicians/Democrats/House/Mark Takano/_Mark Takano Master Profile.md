@@ -2,6 +2,7 @@
 title: "Mark Takano"
 type: politician
 content-readiness: draft
+central-thesis: "Mark Takano is the PACT Act's Democratic architect — the chairman who shepherded the largest VA healthcare expansion in decades through committee and into law. His donor profile is modest: labor unions, teachers' unions, LGBTQ advocacy groups, and..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

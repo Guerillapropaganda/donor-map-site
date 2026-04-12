@@ -2,6 +2,7 @@
 title: "Ilhan Omar Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Omar represents the structural limit of progressive foreign policy dissent within the Democratic Party: she can hold her seat in a safe progressive district but cannot advance her positions through the legislative process because the pro-Israel do..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Melissa Bean Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Melissa Bean represents a new prototype in the 2026 election cycle: the 'comeback candidate' funded by a coalition of emerging donor interests (AI tech, cryptocurrency, pro-Israel infrastructure). Her 2026 primary victory was almost entirely depen..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

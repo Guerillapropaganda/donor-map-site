@@ -4,6 +4,7 @@ type: politician
 chamber: "Senate"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Adam Schiff exemplifies the Democratic Party's security establishment player: an intelligence operative who performs progressive values while serving the national security state. His 2019–2023 role as House Intelligence Committee chair gave him ac..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

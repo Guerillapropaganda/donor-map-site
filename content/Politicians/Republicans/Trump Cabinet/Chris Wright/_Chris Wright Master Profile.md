@@ -2,6 +2,7 @@
 title: "Chris Wright Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Chris Wright is regulatory capture without the middleman. Previous Energy Secretaries were politicians who served fossil fuel interests from a distance — Rick Perry, Ernest Moniz, Jennifer Granholm all maintained the fiction of separation between ..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

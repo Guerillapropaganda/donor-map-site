@@ -2,6 +2,7 @@
 title: "Elise Stefanik"
 type: politician
 content-readiness: draft
+central-thesis: "Elise Stefanik is the Republican Party's ideological transformation made flesh — and the donor-class reward system that drives it made visible. Her career arc from Harvard-educated moderate to 'ultra-MAGA' Conference Chair demonstrates that ideolo..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

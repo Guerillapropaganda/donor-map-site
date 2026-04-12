@@ -2,6 +2,7 @@
 title: "Roger Wicker"
 type: politician
 content-readiness: draft
+central-thesis: "Wicker is the defense-state senator who chairs the defense committee. The structural alignment is total: Mississippi's largest employer (Huntington Ingalls), Mississippi's military bases (Stennis, Keesler, Columbus, Camp Shelby), and the defense c..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

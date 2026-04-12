@@ -4,6 +4,7 @@ type: politician
 chamber: "House"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern U.S. history. She voted alone against indefinite military authorization. Yet in 2024, when Lee ran for the Senate from California, she was systematically outspent and elim..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

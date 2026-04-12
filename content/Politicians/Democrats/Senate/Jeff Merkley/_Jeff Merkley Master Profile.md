@@ -2,6 +2,7 @@
 title: "Jeff Merkley Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Merkley is the vault's control case — the senator who most consistently operates against the donor-class model that defines his colleagues. He stopped taking corporate PAC money. He was the only senator to endorse Sanders. He authored the Volcker ..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

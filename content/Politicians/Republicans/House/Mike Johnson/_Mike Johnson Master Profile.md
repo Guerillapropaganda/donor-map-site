@@ -2,6 +2,7 @@
 title: "Mike Johnson Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Mike Johnson's speakership demonstrates how the donor class captures institutions through the least-expected candidates. A constitutional lawyer with 9 years at Alliance Defending Freedom (anti-LGBTQ litigation), a 0/100 Human Rights Campaign scor..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

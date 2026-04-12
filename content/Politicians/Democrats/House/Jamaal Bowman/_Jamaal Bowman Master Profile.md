@@ -2,6 +2,7 @@
 title: Jamaal Bowman Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "Bowman is the vault's canonical case study for Donor-Class Override through primary election spending: a one-term incumbent with genuine constituent alignment on every major policy position was removed from office not because his district rejected..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

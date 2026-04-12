@@ -2,6 +2,7 @@
 title: "Bill Cassidy Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Bill Cassidy is the vault's case study in how petrochemical and fossil fuel industry dominance in Louisiana's economy functions as a structural replacement for standard donor-class influence. Cassidy represents a state where the donor class and th..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null

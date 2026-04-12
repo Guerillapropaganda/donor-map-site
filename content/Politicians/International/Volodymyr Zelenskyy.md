@@ -2,6 +2,7 @@
 title: "Volodymyr Zelenskyy"
 type: politician
 content-readiness: draft
+central-thesis: "The content-readiness: draft75 billion+ in U.S. aid to Ukraine isn't primarily humanitarian. The majority stays in the U.S. economy funding defense contractors. Zelenskyy is the political asset that makes that spending possible. His public profile, his moral authority ..."
 last-updated: 2026-03-24
 source-tier: 1
 parent: null

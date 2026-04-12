@@ -2,6 +2,7 @@
 title: "Gary Peters Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Peters is the Democratic Party's quiet operator — a former Wall Street investment advisor who became the party's Senate fundraising chief while chairing the committee that oversees the homeland security and cybersecurity industries. His 22-year ca..."
 last-updated: 2026-04-06
 source-tier: 1
 parent: null

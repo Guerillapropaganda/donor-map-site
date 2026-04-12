@@ -3,6 +3,7 @@ title: "Anthony Rendon"
 type: state-politician
 current-office: "Former Speaker of the California State Assembly (2016–2023)"
 content-readiness: ready
+central-thesis: "Rendon killed SB 562, the single-payer healthcare bill, within 24 hours of its Senate passage on June 23, 2017, shelving it in Rules Committee 'until further notice.' The healthcare industry's political class needed that bill dead. The financial a..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

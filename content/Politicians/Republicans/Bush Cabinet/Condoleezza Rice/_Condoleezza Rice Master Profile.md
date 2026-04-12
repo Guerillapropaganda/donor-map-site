@@ -2,6 +2,7 @@
 title: "Condoleezza Rice"
 type: politician
 content-readiness: draft
+central-thesis: "Condoleezza Rice exemplifies the academic-military-industrial revolving door. Her Stanford provost credentials and intellectual framing ('mushroom cloud' rhetoric, democracy promotion doctrine) provided moral cover for the Iraq War — the most cons..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

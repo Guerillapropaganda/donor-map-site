@@ -4,6 +4,7 @@ type: politician
 chamber: "Senate"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Nevada's economy is gaming. Cortez Masto's donor base is gaming. Top donors include Las Vegas Sands Corporation (controlled by Miriam Adelson), Caesars Entertainment, MGM Resorts, and their executives. Between 2017–2024, gaming industry donors con..."
 last-updated: '2026-04-09'
 source-tier: 1
 parent: null

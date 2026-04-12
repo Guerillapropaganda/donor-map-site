@@ -4,6 +4,7 @@ type: politician
 chamber: "House"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Ritchie Torres represents the optimal donor-capture model for a Democrat with marginalized identity: recruit early, fund generously, shift positions gradually, claim the critic ('I didn't leave the progressive movement; it left me') rather than ac..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

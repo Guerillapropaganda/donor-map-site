@@ -2,6 +2,7 @@
 title: "John Hoeven"
 type: politician
 content-readiness: draft
+central-thesis: "Hoeven's donor-class function is to serve as the intersection point where North Dakota's extraction economy meets federal appropriations power. A banker-turned-governor-turned-senator who personally invests in Bakken oil wells while writing federa..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

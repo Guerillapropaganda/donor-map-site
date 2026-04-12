@@ -2,6 +2,7 @@
 title: Barack Obama Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised 'hope and change' and ran against the financial sector's power. His private reassurance to bankers ..."
 last-updated: '2026-04-11'
 source-tier: 1
 parent: null

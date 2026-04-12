@@ -2,6 +2,7 @@
 title: "Tom Steyer Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Tom Steyer is the billionaire who wants to tax billionaires — the donor class's self-appointed class traitor. His campaign is built on the most visible contradiction in this vault: a man who made billions from fossil fuel hedge fund investments no..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

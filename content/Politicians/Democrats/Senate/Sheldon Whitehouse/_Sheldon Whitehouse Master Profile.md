@@ -2,6 +2,7 @@
 title: "Sheldon Whitehouse"
 type: politician
 content-readiness: draft
+central-thesis: "Whitehouse is the Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His 'Scheme' floor speech series (80+ documented speeches, 2016–present) is the most detailed public accounting of right-wing judicial..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

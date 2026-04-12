@@ -2,6 +2,7 @@
 title: "Tammy Duckworth"
 type: politician
 content-readiness: draft
+central-thesis: "Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

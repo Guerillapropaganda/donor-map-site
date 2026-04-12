@@ -2,6 +2,7 @@
 title: "Jared Kushner Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Kushner is not a politician who later monetized his connections. He is a business vehicle that briefly held a government position. The January 20 → January 21 timeline — leaves White House one day, incorporates private equity fund the next — is th..."
 last-updated: 2026-03-23
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Alex Padilla"
 type: politician
 content-readiness: draft
+central-thesis: "Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections — implemented automatic voter registration, expanded vote-by-m..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

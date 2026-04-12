@@ -2,6 +2,7 @@
 title: Donald Trump Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist fraud who scams in every direction simultaneously — extr..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

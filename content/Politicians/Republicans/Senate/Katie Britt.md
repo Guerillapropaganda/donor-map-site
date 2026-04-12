@@ -4,6 +4,7 @@ type: politician
 chamber: "Senate"
 party: "Republican"
 content-readiness: draft
+central-thesis: "Katie Britt is the Republican donor class's manufactured rising star. She did not build a political movement, cultivate grassroots support, or develop an independent power base. She was built from component parts by the Alabama business lobby. She..."
 last-updated: 2026-04-06
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Nancy Pelosi Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — content-readiness: draft.6 billion since 2002. Her fundraising power is the structural basis of her politic..."
 last-updated: 2026-04-11
 source-tier: 1
 career-total: "$1.6B"

@@ -2,6 +2,7 @@
 title: "Maxine Waters"
 type: politician
 content-readiness: draft
+central-thesis: "Waters is the populist gatekeeper of Wall Street regulation. Her Financial Services Committee position makes her the person every bank, insurer, crypto exchange, and real estate lobby needs to engage with — whether she's in the majority or minorit..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

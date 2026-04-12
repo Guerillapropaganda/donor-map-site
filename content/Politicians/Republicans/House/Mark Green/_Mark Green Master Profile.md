@@ -2,6 +2,7 @@
 title: Mark Green
 type: politician
 content-readiness: draft
+central-thesis: "Mark Green is the national security performace artist — the special operator who turned military credentials into political power, then used Homeland Security chairmanship primarily for partisan spectacle rather than structural oversight. His most..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

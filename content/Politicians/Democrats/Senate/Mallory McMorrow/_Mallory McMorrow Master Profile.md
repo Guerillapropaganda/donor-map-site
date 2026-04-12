@@ -2,6 +2,7 @@
 title: "Mallory McMorrow Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Mallory McMorrow represents the establishment progressive model: a viral moment + exceptional fundraising charisma that translates to national donor networks, allowing a relatively junior state legislator to compete in a Senate primary against mor..."
 last-updated: 2026-04-09
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Frank Pallone"
 type: politician
 content-readiness: draft
+central-thesis: "Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutic..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

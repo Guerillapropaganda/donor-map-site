@@ -2,6 +2,7 @@
 title: "Graham Platner Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Graham Platner is the clearest establishment vs. progressive test case in 2026 Senate races. Both Bernie Sanders AND Elizabeth Warren have endorsed him — a rare unified progressive endorsement — against Maine's Democratic establishment and DSCC (D..."
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null

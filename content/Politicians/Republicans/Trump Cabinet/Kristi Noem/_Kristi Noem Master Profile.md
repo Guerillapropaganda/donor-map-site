@@ -2,6 +2,7 @@
 title: "Kristi Noem"
 type: politician
 content-readiness: draft
+central-thesis: "Noem's career traces the arc of a donor-class politician who confused personal brand-building with governance. Her COVID-era refusal to lock down was funded by libertarian donors and amplified by conservative media into a national brand. That bran..."
 last-updated: "2026-04-05"
 source-tier: 1
 parent: null

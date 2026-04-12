@@ -4,6 +4,7 @@ type: politician
 chamber: "Former"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Gavin Newsom appointed Laphonza Butler to replace Dianne Feinstein's vacant seat. The appointment was celebrated as progressive: a SEIU leader in the Senate, a historic LGBTQ figure, labor politics finally centered. Yet Butler served 14 months and..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

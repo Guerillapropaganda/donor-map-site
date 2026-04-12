@@ -2,6 +2,7 @@
 title: Michael Whatley Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "Michael Whatley's political career exemplifies the revolving door between fossil fuel lobbying and Republican Party leadership. His professional life centers on three interlocking interests: oil and gas industry advocacy (HBW Resources, Consumer E..."
 last-updated: '2026-04-09'
 source-tier: 2
 parent: null

@@ -2,6 +2,7 @@
 title: Linda McMahon Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "Linda McMahon is the purest donor-to-cabinet pipeline in the Trump administration. $50M+ in political contributions purchased: SBA Administrator (first term), transition co-chair, and Education Secretary (second term). AFPI — the think tank she fo..."
 last-updated: '2026-04-09'
 source-tier: 1
 parent: null

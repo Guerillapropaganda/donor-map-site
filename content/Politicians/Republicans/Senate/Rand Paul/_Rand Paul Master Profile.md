@@ -2,6 +2,7 @@
 title: "Rand Paul Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Rand Paul sells libertarianism as principle but delivers it as policy that benefits the donor class — specifically: deregulation for finance and tech, tax cuts for the wealthy, and obstruction of social spending that the working class depends on. ..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

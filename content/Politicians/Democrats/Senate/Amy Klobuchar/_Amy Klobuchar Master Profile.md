@@ -2,6 +2,7 @@
 title: "Amy Klobuchar"
 type: politician
 content-readiness: draft
+central-thesis: "Amy Klobuchar is the Senate's antitrust brand — and the brand is the product. Her antitrust subcommittee chairmanship gives her jurisdiction over the largest corporations in America. Her legislative proposals would meaningfully constrain Big Tech'..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

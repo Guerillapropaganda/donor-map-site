@@ -2,6 +2,7 @@
 title: "Jim Himes"
 type: politician
 content-readiness: draft
+central-thesis: "Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his par..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Benjamin Netanyahu Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Netanyahu's political life reveals what donor-first class analysis predicts: politicians are not puppets but agents serving a donor class that controls the material conditions of their political survival. American mega-donor money is not periphera..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

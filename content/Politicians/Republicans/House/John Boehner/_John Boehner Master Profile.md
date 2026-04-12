@@ -2,6 +2,7 @@
 title: "John Boehner"
 type: politician
 content-readiness: draft
+central-thesis: "John Boehner exemplifies the professional legislative operative deployed by the donor class to manage Congress. His public brand is 'regular guy conservative' — orange tan, golf outings, emotional authenticity (crying at press conferences). This b..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

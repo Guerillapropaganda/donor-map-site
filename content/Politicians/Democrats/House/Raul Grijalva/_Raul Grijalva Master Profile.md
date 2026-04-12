@@ -2,6 +2,7 @@
 title: Raul Grijalva
 type: politician
 content-readiness: draft
+central-thesis: "Raul Grijalva was the extractive industry's adversary on the Natural Resources Committee — funded by environmental organizations, labor unions, and small donors rather than the mining, oil, and timber companies his committee regulates. He spent tw..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

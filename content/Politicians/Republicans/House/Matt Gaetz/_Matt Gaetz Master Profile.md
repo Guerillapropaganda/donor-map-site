@@ -2,6 +2,7 @@
 title: "Matt Gaetz Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Gaetz is the donor class's chaos agent — his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

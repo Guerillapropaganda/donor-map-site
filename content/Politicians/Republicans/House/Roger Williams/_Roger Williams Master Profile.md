@@ -2,6 +2,7 @@
 title: "Roger Williams"
 type: politician
 content-readiness: draft
+central-thesis: "Roger Williams is the donor class serving itself directly — no middleman required. He doesn't take money from auto dealers and then do their bidding. He IS the auto dealer. He chairs the Small Business Committee while running a $50 million+ dealer..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

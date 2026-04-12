@@ -2,6 +2,7 @@
 title: "Pete Aguilar"
 type: politician
 content-readiness: draft
+central-thesis: "Pete Aguilar represents the Democratic Party's leadership pipeline: moderate enough for donors, diverse enough for the base, loyal enough for leadership. His rise from a Southern California inland district to the third-ranking House Democrat illus..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

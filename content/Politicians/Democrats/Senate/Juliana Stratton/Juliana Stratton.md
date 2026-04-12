@@ -2,6 +2,7 @@
 title: "Juliana Stratton"
 type: sub-note
 content-readiness: ready
+central-thesis: "Stratton's Senate victory reveals the mechanics of gubernatorial power in state politics: billionaire governors can effectively 'anoint' Senate successors through Super PAC money. Her campaign embodies the donor-first model of American politics, s..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]

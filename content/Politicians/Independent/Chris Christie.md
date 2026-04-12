@@ -3,6 +3,7 @@ title: "Chris Christie"
 type: politician
 party: "Independent"
 content-readiness: draft
+central-thesis: "Christie's political career is a demonstration of how prosecuting a billionaire creates permanent class consequences. In 2005, as U.S. Attorney for New Jersey, Christie secured guilty pleas from Charles Kushner for tax evasion, campaign finance vi..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

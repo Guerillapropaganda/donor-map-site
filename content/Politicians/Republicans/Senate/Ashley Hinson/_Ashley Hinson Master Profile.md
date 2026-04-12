@@ -2,6 +2,7 @@
 title: Ashley Hinson Master Profile
 type: politician
 content-readiness: draft
+central-thesis: "Ashley Hinson represents the post-Trump Republican establishment's preferred profile: media-savvy, young, female-presenting leadership that translates television credibility into electoral appeal while advancing conventional Republican donor prior..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

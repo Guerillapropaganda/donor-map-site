@@ -4,6 +4,7 @@ type: state-politician
 current-office: "Former Governor of North Carolina (2017–2025)"
 candidate-for: "US Senate 2026 (NC, Democratic primary)"
 content-readiness: draft
+central-thesis: "Roy Cooper's political career reflects the core tension of donor-first Democratic politics: he delivers genuine working-class policy wins—Medicaid expansion covering 650,000 people, clean energy legislation, teacher pay raises—while simultaneously..."
 last-updated: '2026-04-11'
 source-tier: 1
 parent: null

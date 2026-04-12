@@ -4,6 +4,7 @@ type: politician
 chamber: "Senate"
 party: "Democrat"
 content-readiness: draft
+central-thesis: "Bob Casey was the Senate's largest recipient of pharmaceutical industry donations (content-readiness: draft.8 million since 2007, $520,776 in 2024 cycle alone) while publicly positioning himself as opposing corporate healthcare profiteering. This contradiction was surv..."
 last-updated: 2026-04-08
 source-tier: 1
 parent: null

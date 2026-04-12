@@ -2,6 +2,7 @@
 title: "Bennie Thompson"
 type: politician
 content-readiness: draft
+central-thesis: "Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc — from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP — is a map of how the Democratic Party abso..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

@@ -2,6 +2,7 @@
 title: "Jerry Moran"
 type: politician
 content-readiness: draft
+central-thesis: "Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries — headquartered in his state — is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to ..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null

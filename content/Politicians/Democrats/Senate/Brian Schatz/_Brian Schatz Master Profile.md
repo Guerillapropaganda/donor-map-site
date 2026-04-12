@@ -2,6 +2,7 @@
 title: "Brian Schatz Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Schatz is the Democratic Party's next power broker — Schumer's chosen successor — building his leadership bid by signaling reliability to the donor class while maintaining a progressive public brand. His committee portfolio gives him jurisdiction ..."
 last-updated: 2026-04-10
 source-tier: 1
 parent: null

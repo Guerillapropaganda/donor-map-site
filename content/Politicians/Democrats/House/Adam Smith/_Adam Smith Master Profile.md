@@ -2,6 +2,7 @@
 title: "Adam Smith"
 type: politician
 content-readiness: draft
+central-thesis: "Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ..."
 last-updated: 2026-04-12
 source-tier: 1
 parent: null

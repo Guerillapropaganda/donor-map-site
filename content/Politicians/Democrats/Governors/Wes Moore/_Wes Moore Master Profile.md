@@ -2,6 +2,7 @@
 title: "Wes Moore Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "Wes Moore is the Democratic donor class's ideal product: a candidate manufactured at the intersection of Wall Street (Citigroup, Deutsche Bank), hedge fund philanthropy (Robin Hood Foundation), military service (82nd Airborne), and nonprofit leade..."
 last-updated: 2026-03-26
 source-tier: 1
 parent: null

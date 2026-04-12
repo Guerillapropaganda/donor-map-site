@@ -2,6 +2,7 @@
 title: "John Roberts Master Profile"
 type: politician
 content-readiness: draft
+central-thesis: "John Roberts is the donor class's long-game strategist on the Supreme Court. While Thomas and Alito deliver reliable conservative votes and accumulate ethics scandals, Roberts manages the Court's institutional legitimacy — strategically joining li..."
 last-updated: 2026-04-07
 source-tier: 1
 parent: null

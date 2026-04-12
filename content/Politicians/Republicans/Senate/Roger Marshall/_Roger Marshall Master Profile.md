@@ -2,6 +2,7 @@
 title: "Roger Marshall"
 type: politician
 content-readiness: draft
+central-thesis: "Marshall's donor-class function is to serve as the agribusiness and healthcare industry's physician-legislator — using his medical credentials to lend authority to industry-friendly positions on health policy while using his committee seats to pro..."
 last-updated: 2026-04-11
 source-tier: 1
 parent: null
