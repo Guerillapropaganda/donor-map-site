@@ -11,6 +11,7 @@ known-gaps:
   - "No lobbying data"
   - "No mapped relationships"
 source-types: []
+related: "[[National Rental Home Council]]"
 ---
 
 # American Homes 4 Rent

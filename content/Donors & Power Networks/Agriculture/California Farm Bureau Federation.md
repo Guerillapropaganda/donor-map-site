@@ -59,7 +59,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(5)"
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
 sec-filings: 291
 sec-form-types:
   - "10-Q"
@@ -428,7 +428,7 @@ Immigration — H-2A program, undocumented workforce
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 7 |
+| Politicians Funded | 19 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | 5 politicians |
 
@@ -448,12 +448,24 @@ Immigration — H-2A program, undocumented workforce
 **Funded politicians:**
 
 - [[John Boehner]] (Finance) — lobbying: $10.7M
+- [[Gina McCarthy]] — lobbying: $10.7M
 - [[Kevin McCarthy]] — lobbying: $10.7M
 - [[Bennie Thompson]] (Homeland Security) — lobbying: $10.7M
+- [[Mike Thompson]] — lobbying: $10.7M
 - [[Glenn Thompson]] (Agriculture) — lobbying: $10.7M
+- [[Jim Costa]] — lobbying: $10.7M
+- [[Shalanda Young]] — lobbying: $10.7M
+- [[Todd Young]] — lobbying: $10.7M
+- [[Andy Kim]] — lobbying: $10.7M
+- [[Young Kim]] — lobbying: $10.7M
 - [[Debbie Stabenow]] (Agriculture) — lobbying: $10.7M
+- [[Jimmy Panetta]] — lobbying: $10.7M
+- [[Leon Panetta]] — lobbying: $10.7M
+- [[Nathaniel Moran]] — lobbying: $10.7M
 - [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $10.7M
+- [[Sonny Perdue]] — lobbying: $10.7M
 - [[Lindsey Graham]] — lobbying: $10.7M
+- [[Jared F. Golden]] — lobbying: $10.7M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->

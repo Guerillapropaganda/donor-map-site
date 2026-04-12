@@ -2,10 +2,10 @@
 title: "Charter Schools and the Billionaire Reform Movement"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Pro-Israel Donor Network Deep Dive]] · [[Post-October 7 Positions and Flip History]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Tony Thurmond Master Profile]] · [[The Education Establishment and the Charter School War]] · [[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Education - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Pro-Israel Donor Network Deep Dive]] · [[Post-October 7 Positions and Flip History]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[The Biden Exit and Harris Installation]] · [[The $1.6 Billion Fundraising Machine]]"
 ---
 #newsom #education #charter-schools #billionaire-donors #CTA #CCSA #AB1505 #privatization #class-analysis #donor-tension #broad #walton #gates
 

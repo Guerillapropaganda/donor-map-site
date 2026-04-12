@@ -2,10 +2,10 @@
 title: "Crypto vs. Institutional Democrats in Illinois"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[Juliana Stratton]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Illinois Future PAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]]"
+related: "[[Juliana Stratton]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Illinois Future PAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[OpenAI]]"
 ---
 #crypto-politics #fairshake #blockchain-pacs #institutional-democrats #2026-elections
 

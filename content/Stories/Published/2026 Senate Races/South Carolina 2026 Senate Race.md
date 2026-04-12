@@ -2,10 +2,10 @@
 title: "South Carolina 2026 Senate Race"
 type: story
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
-related: "[[Defense Contractor 450000 Percent ROI]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Defense Spending Bipartisan Consensus]] · [[_Lindsey Graham Master Profile|Lindsey Graham]]"
+related: "[[Defense Contractor 450000 Percent ROI]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[The Defense Spending Bipartisan Consensus]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Raytheon Technologies]]"
 ---
 #2026-election #senate #south-carolina #race-frame
 

@@ -2,7 +2,7 @@
 title: "National Progressive Donor Networks"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Tom Steyer"
 issues:
   - "Dark Money & Campaign Finance"
-related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]]"
+related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

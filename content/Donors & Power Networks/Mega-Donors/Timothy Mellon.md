@@ -2,7 +2,7 @@
 title: "Timothy Mellon"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -15,7 +15,7 @@ issues:
   - "Immigration"
 lobbying-spend: 1860000
 lobbying-filings: 51
-related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Immigration Enforcement - The Detention Economy]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Miriam Adelson]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[2028 Presidential Landscape]] · [[Senate Leadership Fund]] · [[MAGA Inc]] · [[Congressional Leadership Fund]]"
+related: "[[Mitch McConnell Master Profile]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Immigration Enforcement - The Detention Economy]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Miriam Adelson]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[2028 Presidential Landscape]] · [[Senate Leadership Fund]] · [[MAGA Inc]] · [[Congressional Leadership Fund]] · [[Adelson Family]]"
 court-cases: 16
 last-enriched: "2026-04-10"
 needs-reenrichment: true

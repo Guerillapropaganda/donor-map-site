@@ -2,7 +2,7 @@
 title: "WSPA - Western States Petroleum Association"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -20,7 +20,7 @@ needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 56147294
 total-assets: 16493191
-related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[Marathon Petroleum]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]]"
+related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[Marathon Petroleum]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]]"
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.

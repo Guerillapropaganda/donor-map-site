@@ -2,12 +2,12 @@
 title: "Jordan Peterson"
 type: media-profile
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Steven Crowder]] · [[Lex Fridman]] · [[_Media Pipeline Framework]] · [[Dave Rubin]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Jimmy Dore]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]]"
+related: "[[Ben Shapiro]] · [[Matt Walsh]] · [[Steven Crowder]] · [[Lex Fridman]] · [[_Media Pipeline Framework]] · [[Dave Rubin]] · [[Rumble]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Jimmy Dore]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]]"
 donors: "[[Wilks Brothers]]"
 ---
 

@@ -2,7 +2,7 @@
 title: "Invariant"
 type: lobbying-firm
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 annual-revenue: "$47.2M (2025) / $42.3M (2024)"
@@ -34,7 +34,7 @@ regulatory-agencies:
   - "Federal Housing Finance Agency"
   - "Justice Department"
   - "Labor Department"
-related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]]"
+related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Donald Trump Master Profile]]"
 sec-filings: 737
 sec-form-types:
   - "10-K"

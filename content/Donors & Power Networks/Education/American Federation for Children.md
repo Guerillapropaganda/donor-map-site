@@ -2,7 +2,7 @@
 title: "American Federation for Children"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Education"
@@ -26,7 +26,7 @@ court-jurisdictions:
   - "District Court, M.D. Tennessee"
   - "District Court, N.D. California"
   - "District Court, W.D. Washington"
-related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]] · [[Insurance Industry]] · [[The 85 Fund]]"
+related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]] · [[Insurance Industry]] · [[The 85 Fund]] · [[Defense Contractors Bloc]]"
 sec-filings: 9
 sec-form-types:
   - "DEF 14A"

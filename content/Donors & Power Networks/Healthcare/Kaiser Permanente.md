@@ -2,7 +2,7 @@
 title: "Kaiser Permanente"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
 sector: "Healthcare"
@@ -27,7 +27,7 @@ reenrich-reason: "run lda pipeline"
 nonprofit-status: "501(c)(5)"
 total-revenue: 23524060
 total-assets: 28875574
-related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Medicare for All - The Policy That Broke the Party]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[Bernie Sanders Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[_Gavin Newsom Master Profile]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Johnson & Johnson]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]]"
+related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Medicare for All - The Policy That Broke the Party]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[Bernie Sanders Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[_Gavin Newsom Master Profile]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[CNA - California Nurses Association]] · [[SEIU - Service Employees International Union]] · [[Johnson & Johnson]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]]"
 sec-filings: 10000
 sec-form-types:
   - "EX-10.13"

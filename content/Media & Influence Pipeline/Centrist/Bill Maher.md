@@ -2,12 +2,12 @@
 title: "Bill Maher"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]] · [[Dave Rubin]] · [[Tucker Carlson]]"
+related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]] · [[Dave Rubin]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]]"
 ---
 
 #media-pipeline #centrist #hbo #comedy #corporate-media #anti-woke #centrist-laundering #independence-theater

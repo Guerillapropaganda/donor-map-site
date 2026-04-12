@@ -2,7 +2,7 @@
 title: "Trump Victory"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -23,7 +23,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
   - "PX14A6G"
-related: "[[WinRed]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]] · [[Preserve America]]"
+related: "[[WinRed]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]] · [[Preserve America]] · [[National Republican Senatorial Committee]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

@@ -11,6 +11,7 @@ known-gaps:
   - "No lobbying data"
   - "No mapped relationships"
 source-types: []
+related: "[[Manhattan Institute for Policy Research]]"
 ---
 
 # Scaife Foundations
