@@ -95,13 +95,13 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     { id: "voting-records", label: "Voting records exist", pipeline: "govtrack", group: "tier-a", blockingFor: "verified",
       check: (_, raw) => raw.includes("<!-- auto:govtrack") || raw.includes("<!-- auto:voting-record") },
     { id: "committee-assignments", label: "Committee assignments", pipeline: "committee", group: "tier-a", blockingFor: "verified",
-      check: (p, raw) => !!p.committees || raw.includes("<!-- auto:committee-assignments") },
+      check: (p, raw) => !!p.committees || raw.includes("<!-- auto:committee-assignments") || raw.includes("<!-- auto:committee start") || raw.includes("<!-- auto:committee-") },
     { id: "bills", label: "Bills sponsored/cosponsored", pipeline: "congress", group: "tier-a", blockingFor: "verified", naAllowed: true,
-      check: (p) => (p.billsSponsored || 0) > 0 || (p.billsCosponsored || 0) > 0 },
+      check: (p, raw) => (p.billsSponsored || 0) > 0 || (p.billsCosponsored || 0) > 0 || raw.includes("<!-- auto:congress") },
     { id: "fec-data", label: "FEC fundraising data", pipeline: "fec", group: "tier-a", blockingFor: "verified",
       check: (p, raw) => !!p.totalRaised || raw.includes("<!-- auto:fec-fundraising") || raw.includes("<!-- auto:fec-politician") },
     { id: "source-diversity-3", label: "3+ Tier 1 source types (A+ floor)", group: "tier-a", blockingFor: "verified",
-      check: (p, raw) => (p.sourceTypes || []).length >= 3 || countTier1InBody(raw) >= 3 },
+      check: (p) => (p.sourceTypes || []).length >= 3 },
     { id: "committee-cross-ref", label: "Committee-relevant regulatory cross-ref",  group: "tier-a", blockingFor: "verified", naAllowed: true,
       check: (p, raw) => {
         const required = getRequiredPipelinesForCommittees(p.committees)
@@ -116,7 +116,7 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     { id: "donation-policy-timeline", label: "Donation-to-Policy Timeline present", group: "tier-b", blockingFor: "verified",
       check: (_, raw) => hasDonationPolicyTimeline(raw) },
     { id: "contradiction-with-numbers", label: "1+ contradiction callout with dollar figures", group: "tier-b", blockingFor: "verified",
-      check: (_, raw) => hasCallout(raw, "contradiction") || hasCallout(raw, "money") },
+      check: (_, raw) => (hasCallout(raw, "contradiction") || hasCallout(raw, "money")) && /\$[\d,.]+[KMBkmb]?/.test(raw) },
     { id: "revolving-door", label: "Revolving door / family network documented", group: "tier-b", blockingFor: "verified", naAllowed: true,
       check: (_, raw) => hasRevolvingDoor(raw) },
     { id: "dark-money-trace", label: "Dark money chain traced", group: "tier-b", blockingFor: "verified", naAllowed: true,
@@ -157,8 +157,14 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
       check: (p) => !!(p.related || p.donors) },
     { id: "enriched", label: "Enriched within 90 days", pipeline: "all", group: "core", blockingFor: "verified",
       check: (p) => isEnrichedWithin(p, 90) },
-    { id: "contradiction-review", label: "Contradiction investigation complete (Research Claude)", group: "core", blockingFor: "verified",
-      check: (_, raw) => raw.includes("[!contradiction-cleared]") || !raw.includes("[!contradiction]") },
+    { id: "contradiction-review", label: "Contradiction investigation complete (Research Claude)", group: "core", blockingFor: "verified", naAllowed: true,
+      check: (_, raw) => {
+        const hasContradiction = raw.includes("[!contradiction]")
+        const hasCleared = raw.includes("[!contradiction-cleared]")
+        if (!hasContradiction) return true  // no contradiction callout = N/A (passes)
+        return hasCleared  // has contradiction = needs cleared marker
+      }
+    },
     { id: "sign-off", label: "Editorial sign-off", group: "core", blockingFor: "verified",
       check: (p) => p.lastVerifiedBy === "editorial" },
   ]
