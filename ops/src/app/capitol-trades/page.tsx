@@ -92,8 +92,9 @@ export default function CapitolTradesPage() {
   const [topTraders, setTopTraders] = useState<TopTrader[]>([])
   const [cryptoStats, setCryptoStats] = useState<CryptoStats | null>(null)
   const [cryptoConflicts, setCryptoConflicts] = useState<any>(null)
+  const [committeeConflicts, setCommitteeConflicts] = useState<any>(null)
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "crypto">("table")
+  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "crypto" | "conflicts">("table")
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
   const [activeTiers, setActiveTiers] = useState<Set<CryptoTier>>(new Set(['direct', 'etf', 'company']))
   const trailRef = useRef<SVGSVGElement>(null)
@@ -123,10 +124,14 @@ export default function CapitolTradesPage() {
         setLoading(false)
       })
       .catch(() => setLoading(false))
-    // Load crypto conflict data
+    // Load conflict data
     fetch("/api/crypto-conflicts")
       .then(r => r.json())
       .then(data => setCryptoConflicts(data))
+      .catch(() => {})
+    fetch("/api/committee-conflicts")
+      .then(r => r.json())
+      .then(data => setCommitteeConflicts(data))
       .catch(() => {})
   }, [])
 
@@ -275,12 +280,12 @@ export default function CapitolTradesPage() {
 
       {/* Tabs */}
       <div className="flex border-b border-[var(--color-border)] mb-4">
-        {(["table", "flow", "trail", "tickers", "traders", "crypto"] as const).map(t => (
+        {(["table", "flow", "trail", "tickers", "traders", "conflicts", "crypto"] as const).map(t => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 font-mono text-[10px] font-bold uppercase tracking-wider border-b-2 -mb-px ${
               tab === t ? "text-[var(--color-text)] border-[var(--color-steel)]" : "text-[var(--color-text-dim)] border-transparent hover:text-[var(--color-text)]"
-            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""}`}>
-            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : "CRYPTO"}
+            } ${t === "crypto" ? "ml-2 !text-[#f59e0b] " + (tab === t ? "!border-[#f59e0b]" : "") : ""} ${t === "conflicts" ? "!text-[#ef4444] " + (tab === t ? "!border-[#ef4444]" : "") : ""}`}>
+            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : t === "traders" ? "TOP TRADERS" : t === "conflicts" ? "CONFLICTS" : "CRYPTO"}
           </button>
         ))}
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)] font-mono self-center">
@@ -508,6 +513,176 @@ export default function CapitolTradesPage() {
               <div className="font-mono text-xs font-bold text-[var(--color-text)] w-12 text-right">{tr.total}</div>
             </div>
           ))}
+        </div>
+      )}
+
+      {/* ── Committee Conflicts ── */}
+      {tab === "conflicts" && (
+        <div>
+          <div className="flex items-center gap-3 mb-4">
+            <span className="text-2xl">⚠</span>
+            <div>
+              <div className="font-mono text-sm font-bold text-[#ef4444]">Committee-Trade Conflicts</div>
+              <div className="font-mono text-[10px] text-[var(--color-text-dim)]">
+                Politicians trading stocks in sectors their committees oversee
+              </div>
+            </div>
+          </div>
+
+          {!committeeConflicts && (
+            <div className="text-center py-16 text-[var(--color-text-dim)] font-mono text-sm">Loading conflict data...</div>
+          )}
+
+          {committeeConflicts && committeeConflicts.error && (
+            <div className="text-center py-16 border border-[var(--color-border)] bg-[var(--color-bg-card)]">
+              <div className="font-mono text-sm text-[var(--color-text-dim)]">{committeeConflicts.error}</div>
+            </div>
+          )}
+
+          {committeeConflicts && committeeConflicts.stats && (
+            <>
+              {/* Stats */}
+              <div className="grid grid-cols-4 gap-3 mb-6">
+                <div className="bg-[var(--color-bg-card)] border border-[#ef444433] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Conflicting Trades</div>
+                  <div className="text-xl font-bold text-[#ef4444] font-mono">{committeeConflicts.stats.totalConflicts.toLocaleString()}</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#ef444433] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Total Volume</div>
+                  <div className="text-xl font-bold text-[var(--color-text)] font-mono">{fmtK(committeeConflicts.stats.totalVolume)}</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#ef444433] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Politicians</div>
+                  <div className="text-xl font-bold text-[var(--color-text)] font-mono">{committeeConflicts.stats.uniquePoliticians}</div>
+                </div>
+                <div className="bg-[var(--color-bg-card)] border border-[#ef444433] p-3">
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono uppercase tracking-wider">Sector Coverage</div>
+                  <div className="text-xl font-bold text-[var(--color-text)] font-mono">{committeeConflicts.stats.sectorCoverage}</div>
+                  <div className="text-[9px] text-[var(--color-text-dim)] font-mono">{committeeConflicts.stats.tradesWithSector} of {committeeConflicts.stats.tradesTotal} trades mapped</div>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-2 gap-6 mb-6">
+                {/* Sector Breakdown */}
+                <div>
+                  <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#ef4444] mb-3">
+                    Conflicts by Sector
+                  </div>
+                  <div className="space-y-2">
+                    {(committeeConflicts.sectorBreakdown || []).map((s: any, i: number) => {
+                      const maxVol = committeeConflicts.sectorBreakdown[0]?.totalVol || 1
+                      return (
+                        <div key={i} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3">
+                          <div className="flex items-center justify-between mb-1">
+                            <span className="font-mono text-sm font-bold text-[var(--color-text)] capitalize">{s.sector}</span>
+                            <span className="font-mono text-[10px] text-[var(--color-text-dim)]">{s.trades} trades · {s.politicians} members</span>
+                          </div>
+                          <div className="flex gap-1 h-3 mb-1">
+                            {s.buyVol > 0 && (
+                              <div className="bg-[#22c55e] h-full" style={{ width: `${s.buyVol / maxVol * 100}%` }} />
+                            )}
+                            {s.sellVol > 0 && (
+                              <div className="bg-[#ef4444] h-full" style={{ width: `${s.sellVol / maxVol * 100}%` }} />
+                            )}
+                          </div>
+                          <div className="flex justify-between font-mono text-[9px]">
+                            <span className="text-[#22c55e]">{fmtK(s.buyVol)} bought</span>
+                            <span className="text-[#ef4444]">{fmtK(s.sellVol)} sold</span>
+                          </div>
+                        </div>
+                      )
+                    })}
+                  </div>
+                </div>
+
+                {/* Top Offenders */}
+                <div>
+                  <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#ef4444] mb-3">
+                    Top Offenders
+                  </div>
+                  <div className="space-y-2">
+                    {(committeeConflicts.topOffenders || []).slice(0, 20).map((o: any, i: number) => {
+                      const maxVol = committeeConflicts.topOffenders[0]?.volume || 1
+                      return (
+                        <div key={i} className="bg-[var(--color-bg-card)] border border-[var(--color-border)] p-3 hover:bg-[var(--color-bg-hover)] cursor-pointer"
+                          onClick={() => { setSearch(o.name); setTab("table"); setPage(0) }}>
+                          <div className="flex items-center justify-between mb-1">
+                            <span className="text-sm font-medium text-[var(--color-text)]">{o.name}</span>
+                            <span className="font-mono text-[10px] text-[var(--color-text-dim)]">{o.total} trades · {fmtK(o.volume)}</span>
+                          </div>
+                          <div className="flex flex-wrap gap-1 mt-1">
+                            {o.committees.map((c: string, ci: number) => (
+                              <span key={ci} className="px-1.5 py-0.5 bg-[#ef444422] text-[#ef4444] font-mono text-[8px] font-bold">
+                                {c}
+                              </span>
+                            ))}
+                          </div>
+                          <div className="flex flex-wrap gap-1 mt-1">
+                            {o.tickers.slice(0, 10).map((tk: string, ti: number) => (
+                              <span key={ti} className="px-1 py-0.5 bg-[var(--color-bg)] text-[var(--color-text-dim)] font-mono text-[8px]">
+                                {tk}
+                              </span>
+                            ))}
+                            {o.tickers.length > 10 && (
+                              <span className="font-mono text-[8px] text-[var(--color-text-dim)]">+{o.tickers.length - 10} more</span>
+                            )}
+                          </div>
+                        </div>
+                      )
+                    })}
+                  </div>
+                </div>
+              </div>
+
+              {/* Conflict table */}
+              <div>
+                <div className="font-mono text-[10px] font-bold uppercase tracking-wider text-[#ef4444] mb-3">
+                  All Conflicts ({(committeeConflicts.conflicts || []).length})
+                </div>
+                <table className="w-full text-xs">
+                  <thead>
+                    <tr className="border-b border-[var(--color-border)]">
+                      <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Politician</th>
+                      <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Ticker</th>
+                      <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Sector</th>
+                      <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Committee</th>
+                      <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Role</th>
+                      <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Type</th>
+                      <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Amount</th>
+                      <th className="py-2 px-2 text-left font-mono text-[9px] font-bold uppercase tracking-wider text-[var(--color-text-dim)]">Date</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {(committeeConflicts.conflicts || []).slice(0, 100).map((c: any, i: number) => (
+                      <tr key={i} className="border-b border-[var(--color-border)] hover:bg-[var(--color-bg-hover)]"
+                        style={{ borderLeftWidth: 3, borderLeftColor: c.role?.includes('chair') || c.role?.includes('ranking') ? '#ef4444' : 'transparent' }}>
+                        <td className="py-2 px-2 text-[var(--color-text)] font-medium">{c.politician}</td>
+                        <td className="py-2 px-2 font-mono font-bold text-[var(--color-text)]">{c.trade?.ticker}</td>
+                        <td className="py-2 px-2">
+                          <span className="px-1.5 py-0.5 bg-[#ef444422] text-[#ef4444] font-mono text-[8px] font-bold capitalize">{c.sector}</span>
+                        </td>
+                        <td className="py-2 px-2 text-[var(--color-text-dim)] font-mono text-[10px]">{c.committee}</td>
+                        <td className="py-2 px-2">
+                          <span className={`font-mono text-[9px] font-bold ${c.role?.includes('chair') || c.role?.includes('ranking') ? 'text-[#ef4444]' : 'text-[var(--color-text-dim)]'}`}>
+                            {c.role}
+                          </span>
+                        </td>
+                        <td className="py-2 px-2">
+                          <span className={`px-2 py-0.5 font-mono text-[9px] font-bold ${
+                            c.trade?.type === "Purchase" ? "bg-[rgba(34,197,94,0.15)] text-[#22c55e]" : "bg-[rgba(239,68,68,0.15)] text-[#ef4444]"
+                          }`}>
+                            {c.trade?.type === "Purchase" ? "BUY" : "SELL"}
+                          </span>
+                        </td>
+                        <td className="py-2 px-2 font-mono font-bold text-[var(--color-text)]">{fmtK(c.amount || 0)}</td>
+                        <td className="py-2 px-2 text-[var(--color-text-dim)] font-mono whitespace-nowrap">{fmtDate(c.trade?.transactionDate || '')}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </>
+          )}
         </div>
       )}
 
