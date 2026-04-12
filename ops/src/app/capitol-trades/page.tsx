@@ -484,15 +484,47 @@ export default function CapitolTradesPage() {
 
 function MoneyTrailGraph({ trades, svgRef }: { trades: Trade[]; svgRef: React.RefObject<SVGSVGElement | null> }) {
   const containerRef = useRef<HTMLDivElement>(null)
-  const [minTrades, setMinTrades] = useState(5)
   const [hovered, setHovered] = useState<string | null>(null)
+  const [tickerSearch, setTickerSearch] = useState("")
+  const [selectedTickers, setSelectedTickers] = useState<string[]>([])
 
-  // Build graph data: aggregate politician→ticker flows
+  // All available tickers sorted by volume
+  const allTickers = useMemo(() => {
+    const vol: Record<string, number> = {}
+    for (const t of trades) {
+      if (!t.ticker) continue
+      vol[t.ticker] = (vol[t.ticker] || 0) + (t.amount.max || t.amount.min || 0)
+    }
+    return Object.entries(vol).sort((a, b) => b[1] - a[1]).map(([tk]) => tk)
+  }, [trades])
+
+  // Filtered ticker suggestions
+  const suggestions = useMemo(() => {
+    if (!tickerSearch) return allTickers.slice(0, 20)
+    const s = tickerSearch.toUpperCase()
+    return allTickers.filter(tk => tk.includes(s)).slice(0, 20)
+  }, [tickerSearch, allTickers])
+
+  // Default to top 10 if nothing selected
+  const activeTickers = useMemo(() => {
+    return selectedTickers.length > 0 ? selectedTickers : allTickers.slice(0, 10)
+  }, [selectedTickers, allTickers])
+
+  const toggleTicker = useCallback((tk: string) => {
+    setSelectedTickers(prev => {
+      if (prev.includes(tk)) return prev.filter(t => t !== tk)
+      if (prev.length >= 20) return prev
+      return [...prev, tk]
+    })
+  }, [])
+
+  // Build graph data from active tickers only
   const graphData = useMemo(() => {
+    const activeSet = new Set(activeTickers)
     const flows: Record<string, { pol: string; ticker: string; buyAmt: number; sellAmt: number; buys: number; sells: number }> = {}
 
     for (const t of trades) {
-      if (!t.ticker) continue
+      if (!t.ticker || !activeSet.has(t.ticker)) continue
       const key = `${t.politician}|${t.ticker}`
       if (!flows[key]) flows[key] = { pol: t.politician, ticker: t.ticker, buyAmt: 0, sellAmt: 0, buys: 0, sells: 0 }
       const f = flows[key]
@@ -500,14 +532,9 @@ function MoneyTrailGraph({ trades, svgRef }: { trades: Trade[]; svgRef: React.Re
       else if (t.type === "Sale") { f.sellAmt += t.amount.max || t.amount.min || 0; f.sells++ }
     }
 
-    // Filter to significant flows
-    const allFlows = Object.values(flows).filter(f => (f.buys + f.sells) >= minTrades)
-
-    // Get unique politicians and tickers from filtered flows
+    const allFlows = Object.values(flows).filter(f => (f.buys + f.sells) >= 1)
     const polSet = new Set(allFlows.map(f => f.pol))
-    const tickerSet = new Set(allFlows.map(f => f.ticker))
 
-    // Sort politicians by total volume, tickers by total volume
     const polVolume: Record<string, number> = {}
     const tickerVolume: Record<string, number> = {}
     for (const f of allFlows) {
@@ -516,10 +543,10 @@ function MoneyTrailGraph({ trades, svgRef }: { trades: Trade[]; svgRef: React.Re
     }
 
     const pols = [...polSet].sort((a, b) => (polVolume[b] || 0) - (polVolume[a] || 0))
-    const tickers = [...tickerSet].sort((a, b) => (tickerVolume[b] || 0) - (tickerVolume[a] || 0))
+    const tickers = activeTickers.filter(tk => tickerVolume[tk])
 
     return { flows: allFlows, pols, tickers, polVolume, tickerVolume }
-  }, [trades, minTrades])
+  }, [trades, activeTickers])
 
   // SVG dimensions
   const W = 900
@@ -553,44 +580,79 @@ function MoneyTrailGraph({ trades, svgRef }: { trades: Trade[]; svgRef: React.Re
     return m
   }, [graphData.flows])
 
-  if (graphData.flows.length === 0) {
-    return (
-      <div className="text-center py-16 text-[var(--color-text-dim)] font-mono text-sm">
-        No flows with {minTrades}+ trades. Try lowering the minimum.
-        <div className="mt-4">
-          <label className="text-[9px] uppercase tracking-wider mr-2">Min trades per flow:</label>
-          <input type="range" min={1} max={20} value={minTrades} onChange={e => setMinTrades(parseInt(e.target.value))}
-            className="w-48 accent-[var(--color-steel)]" />
-          <span className="ml-2 font-bold">{minTrades}</span>
-        </div>
-      </div>
-    )
-  }
-
   return (
     <div ref={containerRef}>
-      {/* Controls */}
-      <div className="flex items-center gap-4 mb-4">
-        <label className="font-mono text-[9px] uppercase tracking-wider text-[var(--color-text-dim)]">
-          Min trades per flow:
-        </label>
-        <input type="range" min={1} max={20} value={minTrades} onChange={e => setMinTrades(parseInt(e.target.value))}
-          className="w-32 accent-[var(--color-steel)]" />
-        <span className="font-mono text-xs font-bold text-[var(--color-text)]">{minTrades}</span>
+      {/* Ticker picker */}
+      <div className="mb-4">
+        <div className="flex items-center gap-2 mb-2">
+          <input
+            type="text"
+            value={tickerSearch}
+            onChange={e => setTickerSearch(e.target.value)}
+            placeholder="Search tickers to add..."
+            className="flex-1 px-3 py-2 bg-[var(--color-bg-card)] border border-[var(--color-border)] text-[var(--color-text)] font-mono text-xs focus:border-[var(--color-steel)] focus:outline-none"
+          />
+          <span className="font-mono text-[9px] text-[var(--color-text-dim)] whitespace-nowrap">
+            {selectedTickers.length > 0 ? `${selectedTickers.length}/20 selected` : "Top 10 by volume"}
+          </span>
+          {selectedTickers.length > 0 && (
+            <button onClick={() => setSelectedTickers([])}
+              className="px-2 py-1 border border-[var(--color-border)] font-mono text-[9px] text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:bg-[var(--color-bg-hover)]">
+              Reset
+            </button>
+          )}
+        </div>
+
+        {/* Ticker suggestion chips */}
+        <div className="flex flex-wrap gap-1 mb-2">
+          {suggestions.map(tk => {
+            const isActive = activeTickers.includes(tk)
+            return (
+              <button key={tk} onClick={() => toggleTicker(tk)}
+                className={`px-2 py-1 font-mono text-[10px] font-bold border transition-colors ${
+                  isActive
+                    ? "bg-[var(--color-steel)] border-[var(--color-steel)] text-white"
+                    : "bg-[var(--color-bg)] border-[var(--color-border)] text-[var(--color-text-dim)] hover:border-[var(--color-steel)] hover:text-[var(--color-text)]"
+                }`}>
+                {tk}
+              </button>
+            )
+          })}
+        </div>
+
+        {/* Selected tickers */}
+        {selectedTickers.length > 0 && (
+          <div className="flex flex-wrap gap-1">
+            {selectedTickers.map(tk => (
+              <span key={tk} className="inline-flex items-center gap-1 px-2 py-0.5 bg-[var(--color-steel)] text-white font-mono text-[9px] font-bold">
+                {tk}
+                <button onClick={() => toggleTicker(tk)} className="ml-1 opacity-60 hover:opacity-100">x</button>
+              </span>
+            ))}
+          </div>
+        )}
+      </div>
+
+      {/* Info + Legend */}
+      <div className="flex items-center gap-4 mb-3">
+        <div className="flex gap-4 font-mono text-[10px] font-bold">
+          <span className="text-[#22c55e]">— BUY FLOW</span>
+          <span className="text-[#ef4444]">— SELL FLOW</span>
+          <span className="text-[var(--color-text-dim)]">Thickness = volume</span>
+        </div>
         <div className="ml-auto font-mono text-[10px] text-[var(--color-text-dim)]">
           {graphData.pols.length} politicians → {graphData.tickers.length} stocks · {graphData.flows.length} flows
         </div>
       </div>
 
-      {/* Legend */}
-      <div className="flex gap-4 mb-3 font-mono text-[10px] font-bold">
-        <span className="text-[#22c55e]">— BUY FLOW</span>
-        <span className="text-[#ef4444]">— SELL FLOW</span>
-        <span className="text-[var(--color-text-dim)] ml-2">Line thickness = trade volume</span>
-      </div>
+      {graphData.flows.length === 0 && (
+        <div className="text-center py-16 text-[var(--color-text-dim)] font-mono text-sm">
+          No trades found for selected tickers
+        </div>
+      )}
 
       {/* SVG Graph */}
-      <div className="overflow-x-auto border border-[var(--color-border)] bg-[var(--color-bg)]">
+      {graphData.flows.length > 0 && <div className="overflow-x-auto border border-[var(--color-border)] bg-[var(--color-bg)]">
         <svg ref={svgRef} width={W} height={H + 20} className="block">
           {/* Flow lines */}
           {graphData.flows.map((f, i) => {
@@ -674,7 +736,7 @@ function MoneyTrailGraph({ trades, svgRef }: { trades: Trade[]; svgRef: React.Re
             )
           })}
         </svg>
-      </div>
+      </div>}
     </div>
   )
 }
