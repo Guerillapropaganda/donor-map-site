@@ -461,8 +461,8 @@ RTX represents the defense sector's structural capture of the American state. Th
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -488,27 +488,27 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 **Funded politicians:**
 
-- [[Donald Trump]] - lobbying: $2.2M
-- [[Lloyd Austin]] - lobbying: $2.2M
-- [[Mark Esper]] - lobbying: $2.2M
-- [[Mike Rogers]] (Armed Services) - lobbying: $2.2M
-- [[Rob Wittman]] - lobbying: $2.2M
-- [[Adam Smith]] (House Committee on Armed Services) - lobbying: $2.2M
-- [[Salud Carbajal]] - lobbying: $2.2M
-- [[Seth Moulton]] - lobbying: $2.2M
-- [[Rosa DeLauro]] (House Committee on Appropriations) - lobbying: $2.2M
-- [[Hal Rogers]] - lobbying: $2.2M
-- [[Mike Simpson]] - lobbying: $2.2M
-- [[Mike Johnson]] - lobbying: $2.2M
-- [[Steve Scalise]] - lobbying: $2.2M
-- [[Hakeem Jeffries]] - lobbying: $2.2M
-- [[Katherine Clark]] - lobbying: $2.2M
-- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) - lobbying: $2.2M
-- [[Martin Heinrich]] (Intelligence) - lobbying: $2.2M
-- [[Roger Wicker]] (Armed Services) - lobbying: $2.2M
-- [[John Barrasso]] - lobbying: $2.2M
-- [[Mark Meadows]] - lobbying: $2.2M
-- [[Greg Gianforte]] - lobbying: $2.2M
+- [[Donald Trump]] — lobbying: $2.2M
+- [[Lloyd Austin]] — lobbying: $2.2M
+- [[Mark Esper]] — lobbying: $2.2M
+- [[Mike Rogers]] (Armed Services) — lobbying: $2.2M
+- [[Rob Wittman]] — lobbying: $2.2M
+- [[Adam Smith]] (House Committee on Armed Services) — lobbying: $2.2M
+- [[Salud Carbajal]] — lobbying: $2.2M
+- [[Seth Moulton]] — lobbying: $2.2M
+- [[Rosa DeLauro]] (House Committee on Appropriations) — lobbying: $2.2M
+- [[Hal Rogers]] — lobbying: $2.2M
+- [[Mike Simpson]] — lobbying: $2.2M
+- [[Mike Johnson]] — lobbying: $2.2M
+- [[Steve Scalise]] — lobbying: $2.2M
+- [[Hakeem Jeffries]] — lobbying: $2.2M
+- [[Katherine Clark]] — lobbying: $2.2M
+- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) — lobbying: $2.2M
+- [[Martin Heinrich]] (Intelligence) — lobbying: $2.2M
+- [[Roger Wicker]] (Armed Services) — lobbying: $2.2M
+- [[John Barrasso]] — lobbying: $2.2M
+- [[Mark Meadows]] — lobbying: $2.2M
+- [[Greg Gianforte]] — lobbying: $2.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

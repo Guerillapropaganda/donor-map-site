@@ -2,14 +2,14 @@
 title: "Defense Industry"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
 entity-type: "Individual Donor"
 issues:
   - "Defense & Military"
-ein: "363929812"
+ein: 42982768
 annual-revenue: "$82K"
 net-assets: "$202K"
 tax-year: "2023"

@@ -2,14 +2,14 @@
 title: "New Venture Fund"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: "205806345"
+ein: 205806345
 annual-revenue: "$669.1M"
 net-assets: "$768.5M"
 tax-year: "2023"

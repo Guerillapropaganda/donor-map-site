@@ -21,8 +21,46 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
+stock-trades: 23
+stock-trade-tickers:
+  - "PODD"
+  - "CGNT"
+  - "CUTR"
+  - "MSTY.PA"
+  - "TCMD"
+  - "DXCM"
+  - "ABT"
+  - "IIN"
+  - "ENTL"
 ---
 
 # Tina Smith
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 23 |
+| Purchases | 5 |
+| Sales | 18 |
+| Est. Value Range | $2,192,023 – $4,880,000 |
+
+**Top tickers traded:** PODD, CGNT, CUTR, MSTY.PA, TCMD, DXCM, ABT, IIN
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 10/30/2018 | MSTY.PA | Purchase | $50,001 - $100,000 | Spouse |
+| 10/29/2018 | MSTY.PA | Purchase | $50,001 - $100,000 | Spouse |
+| 10/16/2019 | -- | Purchase | $15,001 - $50,000 | Spouse |
+| 08/30/2018 | PODD | Sale | $15,001 - $50,000 | Spouse |
+| 08/30/2018 | CUTR | Sale | $100,001 - $250,000 | Spouse |
+| 08/30/2018 | CUTR | Sale | $1,001 - $15,000 | Spouse |
+| 08/30/2018 | PODD | Sale | $250,001 - $500,000 | Joint |
+| 07/26/2018 | IIN | Sale | $100,001 - $250,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

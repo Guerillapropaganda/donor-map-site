@@ -90,3 +90,10 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 - [PolitiFact: Viral image about Democratic senators and 'big pharma' is misleading](https://www.politifact.com/factchecks/2017/jan/18/other-98/viral-image-about-democratic-senators-and-big-pharma/) (Tier 2)
 - [FEC Receipts: Pharmaceuticals/Health Products PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
 
+
+### Voting Record
+<!-- auto:voting-record start -->
+**Sources**
+
+- [Congress.gov: Bob Casey](https://www.congress.gov/member/c001091) (Tier 1)
+<!-- auto:voting-record end -->

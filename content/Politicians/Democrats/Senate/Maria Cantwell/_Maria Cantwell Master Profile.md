@@ -14,7 +14,15 @@ committees:
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Technology"
+  - "Armed Forces and National Security"
+  - "Education"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Native Americans"
+  - "Science, Technology, Communications"
+  - "Sports and Recreation"
+  - "Taxation"
+  - "Transportation and Public Works"
 top-donors:
   - "Boeing"
 total-received: "$896,096"
@@ -35,6 +43,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-12"
+bioguide-id: "C000127"
 ---
 #maria-cantwell #democrat #washington #senate #ranking-member #commerce #tech #amazon #boeing #telecommunications #airlines #realnetworks #phase-6-gavel-power
 
@@ -258,3 +268,32 @@ Cantwell made her wealth as VP of Marketing at RealNetworks in the late 1990s. S
 
 - [GovTrack: Maria Cantwell](https://www.govtrack.us/congress/members/300018) (Tier 1)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Washington |
+| Chamber | House of Representatives |
+| Bills Sponsored | 971 |
+| Bills Cosponsored | 4234 |
+
+**Policy areas:** Armed Forces and National Security, Education, Government Operations and Politics, Health, Native Americans, Science, Technology, Communications, Sports and Recreation, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4014 | A bill to direct the Secretary of the Interior to convey to the Nisqually Indian… | Read twice and referred to the Committee on Environment and Public Works. |
+| — |  | Amendment SA 5126 agreed to in Senate by Unanimous Consent. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C000127) (Tier 1)
+<!-- auto:congress-legislation end -->

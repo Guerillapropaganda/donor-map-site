@@ -12,7 +12,16 @@ state-abbr: "IL"
 committees:
   - "Armed Services"
 issues:
-  - "Defense & Military"
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Environmental Protection"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Native Americans"
+  - "Science, Technology, Communications"
 top-donors:
   - "Boeing"
   - "Lockheed Martin"
@@ -47,6 +56,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-12"
+bioguide-id: "D000622"
 ---
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion
 
@@ -272,3 +283,32 @@ This is the Genuine Win track. The veteran care outcomes are real and meaningful
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412533) (Tier 1)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Illinois |
+| Chamber | House of Representatives |
+| Bills Sponsored | 552 |
+| Bills Cosponsored | 3228 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Environmental Protection, Government Operations and Politics, Health, International Affairs, Labor and Employment, Native Americans, Science, Technology, Communications, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4217 | Copay Fairness for Veterans Act of 2026 | Read twice and referred to the Committee on Veterans' Affairs. |
+| 4218 | VA Appraisal Modernization Act | Read twice and referred to the Committee on Veterans' Affairs. |
+| 4247 | A bill to establish rights for people being considered for and in protective arr… | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
+| 4194 | Inspector General Accessibility Reporting Act | Read twice and referred to the Committee on Foreign Relations. |
+| 657 | A resolution commending Taiwan on the 30th anniversary of its first direct presi… | Referred to the Committee on Foreign Relations. (text: CR S1545-1546) |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/D000622) (Tier 1)
+<!-- auto:congress-legislation end -->

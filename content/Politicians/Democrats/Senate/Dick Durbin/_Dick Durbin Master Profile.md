@@ -2,7 +2,7 @@
 title: "Dick Durbin"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-12
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -27,6 +27,19 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-12"
+bioguide-id: "D000563"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
 ---
 #dick-durbin #senate #illinois #judiciary #whip #class-analysis #donor-gatekeeper #democrat #managed-opposition #retirement
 
@@ -233,3 +246,32 @@ Durbin's retirement confirms the managed opposition model's sustainability: 44 y
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Illinois |
+| Chamber | House of Representatives |
+| Bills Sponsored | 2134 |
+| Bills Cosponsored | 10411 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Commerce, Crime and Law Enforcement, Education, Environmental Protection, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, International Affairs, Labor and Employment, Social Welfare, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 4244 | Protect Your Points Act of 2026 | Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S1672) |
+| 4213 | Data Center Water and Energy Transparency Act of 2026 | Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S1616-1617) |
+| 147 | A joint resolution providing for congressional disapproval under chapter 8 of ti… | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S1617) |
+| 4181 | A bill to require the Administrator of the Environmental Protection Agency to pr… | Read twice and referred to the Committee on Environment and Public Works. (text: CR S1583) |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/D000563) (Tier 1)
+<!-- auto:congress-legislation end -->

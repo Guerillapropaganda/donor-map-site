@@ -8,7 +8,14 @@ parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 politicians-funded:
-  - "Joe Biden"
+  - "Katherine M. Clark"
+  - "Jon Ossoff"
+  - "Adam Smith"
+  - "Tina Smith"
+  - "Adrian Smith"
+  - "Christopher H. Smith"
+  - "Jason Smith"
+  - "James C. Justice"
 issues:
   - "Infrastructure"
   - "Dark Money & Campaign Finance"
@@ -18,7 +25,7 @@ sec-form-types:
   - "40-APP/A"
   - "EX-99"
 federal-register-mentions: 9
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
@@ -48,6 +55,7 @@ total-assets: 9477177
 wikidata-id: "Q4676589"
 wikipedia-url: "https://en.wikipedia.org/wiki/ActBlue"
 wikipedia-extract: "ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure."
+total-political-spend: "$1,765,636"
 ---
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis
 
@@ -281,3 +289,28 @@ ActBlue is an American Democratic Party political action committee (PAC) and fun
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/ActBlue) (Tier 3)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4676589) (Tier 2)
 <!-- auto:wikipedia end -->
+
+### Campaign Finance (FEC)
+<!-- auto:fec-donor start -->
+| Metric | Value |
+|--------|-------|
+| Total Political Spend | $1,765,636 |
+| Contributions | 100 |
+
+**Top recipients:**
+
+| Recipient | Amount | Party |
+|-----------|--------|-------|
+| SPEAK UP PAC | $544,786 | — |
+| CLARK FRONTLINE VICTORY FUND | $348,000 | — |
+| DSI | $196,655 | — |
+| OH NC VICTORY FUND 2026 | $137,510 | — |
+| THE LIFTOFF FUND | $97,656 | — |
+| ACTBLUE | $94,574 | — |
+| FAIR SHOT FRONTLINE FUND | $90,000 | — |
+| COOPER OSSOFF VICTORY FUND | $78,285 | — |
+| CITIZENS FOR BRAD SMITH | $70,900 | DEM |
+| DEM RISING 2026 | $33,345 | — |
+
+- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ActBlue) (Tier 1)
+<!-- auto:fec-donor end -->

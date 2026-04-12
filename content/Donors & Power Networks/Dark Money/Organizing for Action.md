@@ -2,14 +2,14 @@
 title: "Organizing for Action"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-12
 source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
-ein: "461827418"
+ein: 461827418
 annual-revenue: "$4.7M"
 net-assets: "$2.3M"
 tax-year: "2018"

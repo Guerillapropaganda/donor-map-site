@@ -313,8 +313,8 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|

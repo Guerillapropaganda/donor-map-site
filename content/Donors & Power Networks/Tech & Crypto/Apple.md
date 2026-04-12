@@ -231,8 +231,8 @@ Apple occupies a unique position: a corporation that extracts value through cons
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -250,8 +250,8 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 **Funded politicians:**
 
-- [[Barack Obama]] - lobbying: $29.2M
-- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) - lobbying: $29.2M
+- [[Barack Obama]] — lobbying: $29.2M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $29.2M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

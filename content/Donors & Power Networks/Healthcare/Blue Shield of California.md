@@ -232,8 +232,8 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -255,16 +255,16 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 
 **Funded politicians:**
 
-- [[Nancy Pelosi]] - lobbying: $3.8M
-- [[Bobby Scott]] (Education & Labor) - lobbying: $3.8M
-- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) - lobbying: $3.8M
-- [[Tim Scott]] - lobbying: $3.8M
-- [[Gary Peters]] (Homeland Security) - lobbying: $3.8M
-- [[Bennie Thompson]] (Homeland Security) - lobbying: $3.8M
-- [[Glenn Thompson]] (Agriculture) - lobbying: $3.8M
-- [[Pete Aguilar]] (Appropriations) - lobbying: $3.8M
-- [[Gavin Newsom]] - lobbying: $3.8M
-- [[Kamala Harris]] - lobbying: $3.8M
+- [[Nancy Pelosi]] — lobbying: $3.8M
+- [[Bobby Scott]] (Education & Labor) — lobbying: $3.8M
+- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) — lobbying: $3.8M
+- [[Tim Scott]] — lobbying: $3.8M
+- [[Gary Peters]] (Homeland Security) — lobbying: $3.8M
+- [[Bennie Thompson]] (Homeland Security) — lobbying: $3.8M
+- [[Glenn Thompson]] (Agriculture) — lobbying: $3.8M
+- [[Pete Aguilar]] (Appropriations) — lobbying: $3.8M
+- [[Gavin Newsom]] — lobbying: $3.8M
+- [[Kamala Harris]] — lobbying: $3.8M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

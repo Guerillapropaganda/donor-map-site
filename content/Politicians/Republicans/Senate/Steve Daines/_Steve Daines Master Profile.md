@@ -21,8 +21,27 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
+stock-trades: 1
 ---
 
 # Steve Daines
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 1 |
+| Purchases | 0 |
+| Sales | 1 |
+| Est. Value Range | $15,001 – $50,000 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 06/02/2017 | -- | Sale | $15,001 - $50,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->
