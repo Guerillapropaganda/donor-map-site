@@ -156,10 +156,10 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
     { id: "chamber-field", label: "chamber: field in frontmatter", group: "structural", blockingFor: "ready",
       check: (p) => !!p.chamber },
     { id: "bioguide-field", label: "bioguide-id: for House/Senate members", group: "structural", blockingFor: "ready", naAllowed: true,
-      check: (p) => {
+      check: (p, raw) => {
         const ch = (p.chamber || "").toLowerCase()
         if (ch !== "house" && ch !== "senate") return true // N/A for non-Congress
-        return !!(p as Record<string, unknown>)["bioguideId"] || !!(p as Record<string, unknown>)["bioguide-id"]
+        return raw.includes("bioguide-id:")
       }
     },
     { id: "heading-levels", label: "Major sections use ## headings (not ###)", group: "structural", blockingFor: "ready",
