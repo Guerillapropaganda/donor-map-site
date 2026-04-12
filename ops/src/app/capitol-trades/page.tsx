@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect, useMemo, useCallback } from "react"
+import { useState, useEffect, useMemo, useCallback, useRef } from "react"
 
 interface Trade {
   politician: string
@@ -64,7 +64,8 @@ export default function CapitolTradesPage() {
   const [topTickers, setTopTickers] = useState<TopTicker[]>([])
   const [topTraders, setTopTraders] = useState<TopTrader[]>([])
   const [loading, setLoading] = useState(true)
-  const [tab, setTab] = useState<"table" | "flow" | "tickers" | "traders">("table")
+  const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders">("table")
+  const trailRef = useRef<SVGSVGElement>(null)
 
   // Filters
   const [search, setSearch] = useState("")
@@ -237,12 +238,12 @@ export default function CapitolTradesPage() {
 
       {/* Tabs */}
       <div className="flex border-b border-[var(--color-border)] mb-4">
-        {(["table", "flow", "tickers", "traders"] as const).map(t => (
+        {(["table", "flow", "trail", "tickers", "traders"] as const).map(t => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-4 py-2 font-mono text-[10px] font-bold uppercase tracking-wider border-b-2 -mb-px ${
               tab === t ? "text-[var(--color-text)] border-[var(--color-steel)]" : "text-[var(--color-text-dim)] border-transparent hover:text-[var(--color-text)]"
             }`}>
-            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "tickers" ? "TOP TICKERS" : "TOP TRADERS"}
+            {t === "table" ? "TRADES" : t === "flow" ? "STOCK FLOW" : t === "trail" ? "MONEY TRAIL" : t === "tickers" ? "TOP TICKERS" : "TOP TRADERS"}
           </button>
         ))}
         <div className="ml-auto text-[10px] text-[var(--color-text-dim)] font-mono self-center">
@@ -414,6 +415,9 @@ export default function CapitolTradesPage() {
         </div>
       )}
 
+      {/* ── Money Trail ── */}
+      {tab === "trail" && <MoneyTrailGraph trades={trades} svgRef={trailRef} />}
+
       {/* ── Top Tickers ── */}
       {tab === "tickers" && (
         <div className="grid grid-cols-1 gap-2">
@@ -469,6 +473,208 @@ export default function CapitolTradesPage() {
           ))}
         </div>
       )}
+    </div>
+  )
+}
+
+// ═══════════════════════════════════════════════════════════════
+// Money Trail Graph — D3 Sankey-style flow visualization
+// Politicians (left) → Stocks (right), green=buy, red=sell
+// ═══════════════════════════════════════════════════════════════
+
+function MoneyTrailGraph({ trades, svgRef }: { trades: Trade[]; svgRef: React.RefObject<SVGSVGElement | null> }) {
+  const containerRef = useRef<HTMLDivElement>(null)
+  const [minTrades, setMinTrades] = useState(5)
+  const [hovered, setHovered] = useState<string | null>(null)
+
+  // Build graph data: aggregate politician→ticker flows
+  const graphData = useMemo(() => {
+    const flows: Record<string, { pol: string; ticker: string; buyAmt: number; sellAmt: number; buys: number; sells: number }> = {}
+
+    for (const t of trades) {
+      if (!t.ticker) continue
+      const key = `${t.politician}|${t.ticker}`
+      if (!flows[key]) flows[key] = { pol: t.politician, ticker: t.ticker, buyAmt: 0, sellAmt: 0, buys: 0, sells: 0 }
+      const f = flows[key]
+      if (t.type === "Purchase") { f.buyAmt += t.amount.max || t.amount.min || 0; f.buys++ }
+      else if (t.type === "Sale") { f.sellAmt += t.amount.max || t.amount.min || 0; f.sells++ }
+    }
+
+    // Filter to significant flows
+    const allFlows = Object.values(flows).filter(f => (f.buys + f.sells) >= minTrades)
+
+    // Get unique politicians and tickers from filtered flows
+    const polSet = new Set(allFlows.map(f => f.pol))
+    const tickerSet = new Set(allFlows.map(f => f.ticker))
+
+    // Sort politicians by total volume, tickers by total volume
+    const polVolume: Record<string, number> = {}
+    const tickerVolume: Record<string, number> = {}
+    for (const f of allFlows) {
+      polVolume[f.pol] = (polVolume[f.pol] || 0) + f.buyAmt + f.sellAmt
+      tickerVolume[f.ticker] = (tickerVolume[f.ticker] || 0) + f.buyAmt + f.sellAmt
+    }
+
+    const pols = [...polSet].sort((a, b) => (polVolume[b] || 0) - (polVolume[a] || 0))
+    const tickers = [...tickerSet].sort((a, b) => (tickerVolume[b] || 0) - (tickerVolume[a] || 0))
+
+    return { flows: allFlows, pols, tickers, polVolume, tickerVolume }
+  }, [trades, minTrades])
+
+  // SVG dimensions
+  const W = 900
+  const polH = Math.max(400, graphData.pols.length * 28 + 40)
+  const tickerH = Math.max(400, graphData.tickers.length * 22 + 40)
+  const H = Math.max(polH, tickerH)
+  const LEFT_X = 180
+  const RIGHT_X = W - 100
+  const NODE_W = 8
+
+  // Y positions for politician nodes
+  const polY = useMemo(() => {
+    const positions: Record<string, number> = {}
+    const spacing = H / (graphData.pols.length + 1)
+    graphData.pols.forEach((p, i) => { positions[p] = spacing * (i + 1) })
+    return positions
+  }, [graphData.pols, H])
+
+  // Y positions for ticker nodes
+  const tickerY = useMemo(() => {
+    const positions: Record<string, number> = {}
+    const spacing = H / (graphData.tickers.length + 1)
+    graphData.tickers.forEach((t, i) => { positions[t] = spacing * (i + 1) })
+    return positions
+  }, [graphData.tickers, H])
+
+  // Max volume for scaling line thickness
+  const maxVol = useMemo(() => {
+    let m = 1
+    for (const f of graphData.flows) m = Math.max(m, f.buyAmt + f.sellAmt)
+    return m
+  }, [graphData.flows])
+
+  if (graphData.flows.length === 0) {
+    return (
+      <div className="text-center py-16 text-[var(--color-text-dim)] font-mono text-sm">
+        No flows with {minTrades}+ trades. Try lowering the minimum.
+        <div className="mt-4">
+          <label className="text-[9px] uppercase tracking-wider mr-2">Min trades per flow:</label>
+          <input type="range" min={1} max={20} value={minTrades} onChange={e => setMinTrades(parseInt(e.target.value))}
+            className="w-48 accent-[var(--color-steel)]" />
+          <span className="ml-2 font-bold">{minTrades}</span>
+        </div>
+      </div>
+    )
+  }
+
+  return (
+    <div ref={containerRef}>
+      {/* Controls */}
+      <div className="flex items-center gap-4 mb-4">
+        <label className="font-mono text-[9px] uppercase tracking-wider text-[var(--color-text-dim)]">
+          Min trades per flow:
+        </label>
+        <input type="range" min={1} max={20} value={minTrades} onChange={e => setMinTrades(parseInt(e.target.value))}
+          className="w-32 accent-[var(--color-steel)]" />
+        <span className="font-mono text-xs font-bold text-[var(--color-text)]">{minTrades}</span>
+        <div className="ml-auto font-mono text-[10px] text-[var(--color-text-dim)]">
+          {graphData.pols.length} politicians → {graphData.tickers.length} stocks · {graphData.flows.length} flows
+        </div>
+      </div>
+
+      {/* Legend */}
+      <div className="flex gap-4 mb-3 font-mono text-[10px] font-bold">
+        <span className="text-[#22c55e]">— BUY FLOW</span>
+        <span className="text-[#ef4444]">— SELL FLOW</span>
+        <span className="text-[var(--color-text-dim)] ml-2">Line thickness = trade volume</span>
+      </div>
+
+      {/* SVG Graph */}
+      <div className="overflow-x-auto border border-[var(--color-border)] bg-[var(--color-bg)]">
+        <svg ref={svgRef} width={W} height={H + 20} className="block">
+          {/* Flow lines */}
+          {graphData.flows.map((f, i) => {
+            const y1 = polY[f.pol] || 0
+            const y2 = tickerY[f.ticker] || 0
+            const vol = f.buyAmt + f.sellAmt
+            const thickness = Math.max(1, (vol / maxVol) * 12)
+            const isHighlighted = hovered === f.pol || hovered === f.ticker
+            const isDimmed = hovered !== null && !isHighlighted
+
+            // Split into buy and sell lines
+            return (
+              <g key={i}>
+                {f.buyAmt > 0 && (
+                  <path
+                    d={`M${LEFT_X + NODE_W},${y1} C${(LEFT_X + RIGHT_X) / 2},${y1} ${(LEFT_X + RIGHT_X) / 2},${y2 - 2} ${RIGHT_X},${y2 - 2}`}
+                    fill="none"
+                    stroke="#22c55e"
+                    strokeWidth={Math.max(0.5, (f.buyAmt / maxVol) * 12)}
+                    opacity={isDimmed ? 0.05 : isHighlighted ? 0.9 : 0.25}
+                    className="transition-opacity duration-150"
+                  />
+                )}
+                {f.sellAmt > 0 && (
+                  <path
+                    d={`M${LEFT_X + NODE_W},${y1} C${(LEFT_X + RIGHT_X) / 2},${y1} ${(LEFT_X + RIGHT_X) / 2},${y2 + 2} ${RIGHT_X},${y2 + 2}`}
+                    fill="none"
+                    stroke="#ef4444"
+                    strokeWidth={Math.max(0.5, (f.sellAmt / maxVol) * 12)}
+                    opacity={isDimmed ? 0.05 : isHighlighted ? 0.9 : 0.25}
+                    className="transition-opacity duration-150"
+                  />
+                )}
+              </g>
+            )
+          })}
+
+          {/* Politician nodes (left) */}
+          {graphData.pols.map((pol, i) => {
+            const y = polY[pol] || 0
+            const isHi = hovered === pol
+            return (
+              <g key={`pol-${i}`}
+                onMouseEnter={() => setHovered(pol)}
+                onMouseLeave={() => setHovered(null)}
+                className="cursor-pointer">
+                <rect x={LEFT_X} y={y - 8} width={NODE_W} height={16} fill={isHi ? "#5b8dce" : "#555"} />
+                <text x={LEFT_X - 6} y={y + 4} textAnchor="end"
+                  className="font-mono" fontSize={10} fill={isHi ? "#e4e4e7" : "#7a7a86"}>
+                  {pol.length > 22 ? pol.slice(0, 20) + "..." : pol}
+                </text>
+                {isHi && (
+                  <text x={LEFT_X + NODE_W + 6} y={y + 4} fontSize={9} fill="#5b8dce" className="font-mono">
+                    {fmtK(graphData.polVolume[pol] || 0)}
+                  </text>
+                )}
+              </g>
+            )
+          })}
+
+          {/* Ticker nodes (right) */}
+          {graphData.tickers.map((ticker, i) => {
+            const y = tickerY[ticker] || 0
+            const isHi = hovered === ticker
+            return (
+              <g key={`tk-${i}`}
+                onMouseEnter={() => setHovered(ticker)}
+                onMouseLeave={() => setHovered(null)}
+                className="cursor-pointer">
+                <rect x={RIGHT_X} y={y - 8} width={NODE_W} height={16} fill={isHi ? "#5b8dce" : "#555"} />
+                <text x={RIGHT_X + NODE_W + 6} y={y + 4} textAnchor="start"
+                  className="font-mono font-bold" fontSize={11} fill={isHi ? "#e4e4e7" : "#9a9aa6"}>
+                  {ticker}
+                </text>
+                {isHi && (
+                  <text x={RIGHT_X - 6} y={y + 4} textAnchor="end" fontSize={9} fill="#5b8dce" className="font-mono">
+                    {fmtK(graphData.tickerVolume[ticker] || 0)}
+                  </text>
+                )}
+              </g>
+            )
+          })}
+        </svg>
+      </div>
     </div>
   )
 }

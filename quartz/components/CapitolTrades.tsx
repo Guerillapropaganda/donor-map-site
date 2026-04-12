@@ -111,6 +111,7 @@ const CapitolTrades: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       <div class="ct-tabs">
         <button class="ct-tab ct-tab-active" data-tab="table">RECENT TRADES</button>
         <button class="ct-tab" data-tab="flow">STOCK FLOW</button>
+        <button class="ct-tab" data-tab="trail">MONEY TRAIL</button>
       </div>
 
       {/* Table view */}
@@ -139,6 +140,21 @@ const CapitolTrades: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         </div>
         <div id="ct-flow-chart" class="ct-flow-chart"></div>
         <div id="ct-flow-details" class="ct-flow-details"></div>
+      </div>
+
+      {/* Money Trail view */}
+      <div id="ct-trail-view" class="ct-view" style="display:none">
+        <div class="ct-trail-controls">
+          <label class="ct-trail-label">Min trades per flow:</label>
+          <input type="range" id="ct-trail-min" min="1" max="20" value="3" class="ct-trail-slider" />
+          <span id="ct-trail-min-val" class="ct-trail-val">3</span>
+        </div>
+        <div class="ct-trail-legend">
+          <span class="ct-flow-leg-buy">BUY FLOW</span>
+          <span class="ct-flow-leg-sell">SELL FLOW</span>
+          <span class="ct-trail-hint">Line thickness = trade volume</span>
+        </div>
+        <div id="ct-trail-graph" class="ct-trail-graph"></div>
       </div>
 
       {trades.length === 0 && (
@@ -417,8 +433,104 @@ CapitolTrades.afterDOMLoaded = `
       var target = this.dataset.tab;
       document.getElementById('ct-table-view').style.display = target === 'table' ? '' : 'none';
       document.getElementById('ct-flow-view').style.display = target === 'flow' ? '' : 'none';
+      document.getElementById('ct-trail-view').style.display = target === 'trail' ? '' : 'none';
+      if (target === 'trail') renderMoneyTrail(parseInt(document.getElementById('ct-trail-min').value || '3'));
     });
   });
+
+  // Money trail slider
+  var trailSlider = document.getElementById('ct-trail-min');
+  if (trailSlider) {
+    trailSlider.addEventListener('input', function() {
+      document.getElementById('ct-trail-min-val').textContent = this.value;
+      renderMoneyTrail(parseInt(this.value));
+    });
+  }
+
+  // ── Money Trail SVG renderer ──
+  function renderMoneyTrail(minTrades) {
+    var graph = document.getElementById('ct-trail-graph');
+    if (!graph) return;
+
+    // Aggregate flows: politician → ticker
+    var flows = {};
+    for (var i = 0; i < trades.length; i++) {
+      var t = trades[i];
+      if (!t.ticker) continue;
+      var key = t.politician + '|' + t.ticker;
+      if (!flows[key]) flows[key] = { pol: t.politician, ticker: t.ticker, buyAmt: 0, sellAmt: 0, buys: 0, sells: 0 };
+      var f = flows[key];
+      if (t.type === 'Purchase') { f.buyAmt += t.amount.max || t.amount.min || 0; f.buys++; }
+      else if (t.type === 'Sale') { f.sellAmt += t.amount.max || t.amount.min || 0; f.sells++; }
+    }
+
+    // Filter
+    var allFlows = Object.values(flows).filter(function(f) { return (f.buys + f.sells) >= minTrades; });
+    if (allFlows.length === 0) {
+      graph.innerHTML = '<div class="ct-flow-empty">No flows with ' + minTrades + '+ trades. Try lowering the minimum.</div>';
+      return;
+    }
+
+    // Get unique pols/tickers sorted by volume
+    var polVol = {}, tickerVol = {};
+    for (var j = 0; j < allFlows.length; j++) {
+      var fl = allFlows[j];
+      polVol[fl.pol] = (polVol[fl.pol] || 0) + fl.buyAmt + fl.sellAmt;
+      tickerVol[fl.ticker] = (tickerVol[fl.ticker] || 0) + fl.buyAmt + fl.sellAmt;
+    }
+    var pols = Object.keys(polVol).sort(function(a,b) { return polVol[b] - polVol[a]; });
+    var tickers = Object.keys(tickerVol).sort(function(a,b) { return tickerVol[b] - tickerVol[a]; });
+
+    var W = 860, LEFT_X = 170, RIGHT_X = W - 90, NODE_W = 6;
+    var H = Math.max(pols.length * 26 + 40, tickers.length * 22 + 40, 300);
+
+    var polY = {}, tickerY = {};
+    var pSpacing = H / (pols.length + 1);
+    for (var pi = 0; pi < pols.length; pi++) polY[pols[pi]] = pSpacing * (pi + 1);
+    var tSpacing = H / (tickers.length + 1);
+    for (var ti = 0; ti < tickers.length; ti++) tickerY[tickers[ti]] = tSpacing * (ti + 1);
+
+    var maxVol = 1;
+    for (var mi = 0; mi < allFlows.length; mi++) maxVol = Math.max(maxVol, allFlows[mi].buyAmt + allFlows[mi].sellAmt);
+
+    var svg = '<svg width="' + W + '" height="' + (H + 10) + '" xmlns="http://www.w3.org/2000/svg">';
+
+    // Flow lines
+    for (var fi = 0; fi < allFlows.length; fi++) {
+      var fl2 = allFlows[fi];
+      var y1 = polY[fl2.pol], y2 = tickerY[fl2.ticker];
+      var cx = (LEFT_X + RIGHT_X) / 2;
+      if (fl2.buyAmt > 0) {
+        var bw = Math.max(0.5, (fl2.buyAmt / maxVol) * 10);
+        svg += '<path d="M' + (LEFT_X+NODE_W) + ',' + y1 + ' C' + cx + ',' + y1 + ' ' + cx + ',' + (y2-2) + ' ' + RIGHT_X + ',' + (y2-2) + '" fill="none" stroke="#16a34a" stroke-width="' + bw + '" opacity="0.3"/>';
+      }
+      if (fl2.sellAmt > 0) {
+        var sw = Math.max(0.5, (fl2.sellAmt / maxVol) * 10);
+        svg += '<path d="M' + (LEFT_X+NODE_W) + ',' + y1 + ' C' + cx + ',' + y1 + ' ' + cx + ',' + (y2+2) + ' ' + RIGHT_X + ',' + (y2+2) + '" fill="none" stroke="#e63946" stroke-width="' + sw + '" opacity="0.3"/>';
+      }
+    }
+
+    // Politician nodes
+    for (var pn = 0; pn < pols.length; pn++) {
+      var py = polY[pols[pn]];
+      var pName = pols[pn].length > 22 ? pols[pn].slice(0,20) + '...' : pols[pn];
+      svg += '<rect x="' + LEFT_X + '" y="' + (py-7) + '" width="' + NODE_W + '" height="14" fill="#888"/>';
+      svg += '<text x="' + (LEFT_X-6) + '" y="' + (py+3) + '" text-anchor="end" font-size="10" fill="#666" font-family="Space Mono,monospace">' + pName + '</text>';
+    }
+
+    // Ticker nodes
+    for (var tn = 0; tn < tickers.length; tn++) {
+      var ty = tickerY[tickers[tn]];
+      svg += '<rect x="' + RIGHT_X + '" y="' + (ty-7) + '" width="' + NODE_W + '" height="14" fill="#888"/>';
+      svg += '<text x="' + (RIGHT_X+NODE_W+6) + '" y="' + (ty+4) + '" font-size="11" fill="#0a0a0a" font-weight="700" font-family="Space Mono,monospace">' + tickers[tn] + '</text>';
+    }
+
+    svg += '</svg>';
+
+    // Info line
+    svg += '<div class="ct-trail-info">' + pols.length + ' politicians → ' + tickers.length + ' stocks · ' + allFlows.length + ' flows</div>';
+    graph.innerHTML = svg;
+  }
 
   // Stock flow ticker input
   var flowInput = document.getElementById('ct-flow-ticker');
@@ -731,6 +843,48 @@ CapitolTrades.css = `
 .ct-flow-sum-sell .ct-flow-sum-val { color: #e63946; }
 .ct-green { color: #16a34a; }
 .ct-red { color: #e63946; }
+
+/* ── Money Trail ── */
+.ct-trail-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.ct-trail-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #888;
+}
+.ct-trail-slider { width: 120px; }
+.ct-trail-val {
+  font-family: 'Space Mono', monospace;
+  font-size: 13px;
+  font-weight: 700;
+}
+.ct-trail-hint {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: #aaa;
+  margin-left: 8px;
+}
+.ct-trail-graph {
+  border: 2px solid #0a0a0a;
+  background: #fff;
+  overflow-x: auto;
+  padding: 8px 0;
+}
+.ct-trail-graph svg { display: block; }
+.ct-trail-info {
+  font-family: 'Space Mono', monospace;
+  font-size: 10px;
+  color: #888;
+  text-align: right;
+  padding: 8px 12px 0;
+}
 
 /* Empty state */
 .ct-empty {
