@@ -2749,7 +2749,10 @@
       "Small Dollar Donors - ActBlue"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "AIPAC - American Israel Public Affairs Committee",
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Alliance Defending Freedom": {
@@ -3959,7 +3962,11 @@
       "Winning for Women PAC"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "DCCC",
+      "HOUSE MAJORITY PAC",
+      "UA UNION PLUMBERS & PIPEFITTERS VOTE! PAC (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)"
+    ],
     "stories": []
   },
   "Aspen Institute": {
@@ -6900,7 +6907,12 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "CLUB FOR GROWTH ACTION",
+      "FREEDOM PARTNERS ACTION FUND, INC.",
+      "NRSC",
+      "SENATE LEADERSHIP FUND"
+    ],
     "stories": []
   },
   "Cathy McMorris Rodgers": {
@@ -7861,7 +7873,10 @@
       "Senate Majority PAC"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump",
+      "Mitch McConnell"
+    ],
     "stories": []
   },
   "Cigna Group": {
@@ -11018,7 +11033,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Fox Corp - Rupert Murdoch"
+    ],
     "stories": []
   },
   "Donald Trump": {
@@ -11372,8 +11389,20 @@
     ],
     "politicians-funded": [],
     "opposes": [
+      "Adam Schiff",
+      "Alexandria Ocasio-Cortez",
       "Barack Obama",
-      "Gavin Newsom"
+      "Chuck Schumer",
+      "Elizabeth Warren",
+      "Gavin Newsom",
+      "Hillary Clinton",
+      "Ilhan Omar",
+      "Jamie Raskin",
+      "Joe Biden",
+      "Kamala Harris",
+      "Maxine Waters",
+      "Nancy Pelosi",
+      "Rashida Tlaib"
     ],
     "stories": []
   },
@@ -12163,7 +12192,12 @@
       "UFCW - United Food and Commercial Workers"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Crypto Industry Bloc",
+      "Donald Trump",
+      "Fairshake PAC",
+      "Kenneth Griffin"
+    ],
     "stories": []
   },
   "Elliott Management": {
@@ -14691,7 +14725,11 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE",
+      "NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE",
+      "NRA POLITICAL VICTORY FUND"
+    ],
     "stories": []
   },
   "George W. Bush has NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE in both donors and opposes": {
@@ -16177,7 +16215,11 @@
       "Media Matters"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE",
+      "KENTUCKIANS FOR STRONG LEADERSHIP",
+      "STOP UNION POLITICAL ABUSE (SUPA)"
+    ],
     "stories": []
   },
   "Hillbilly Elegy and the Class Fraud": {
@@ -17873,7 +17915,9 @@
     "donors": [],
     "politicians-funded": [],
     "opposes": [
-      "DMFI - Democratic Majority for Israel"
+      "DMFI - Democratic Majority for Israel",
+      "FAIRSHAKE",
+      "UNITED DEMOCRACY PROJECT ('UDP')"
     ],
     "stories": []
   },
@@ -17978,7 +18022,9 @@
       "UNITE HERE"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Jan Koum": {
@@ -18847,7 +18893,9 @@
       "UnitedHealth Group - Optum"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Joe Manchin": {
@@ -19198,7 +19246,12 @@
       "Devon Energy"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "AMERICAN CROSSROADS",
+      "MAKE AMERICA GREAT AGAIN INC.",
+      "NRSC",
+      "SENATE LEADERSHIP FUND"
+    ],
     "stories": []
   },
   "John Hickenlooper": {
@@ -19754,7 +19807,13 @@
       "Leonard Leo"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "MAJORITY FORWARD",
+      "PATRIOTS PREVAIL PAC",
+      "PRIORITIES USA ACTION",
+      "SMP",
+      "WOMEN VOTE!"
+    ],
     "stories": []
   },
   "Josh Shapiro": {
@@ -20116,7 +20175,9 @@
       "UnitedHealth Group - Optum"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Kansas 2026 Senate Race": {
@@ -20950,7 +21011,12 @@
       "Wall Street Bloc"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "AMERICAN FUTURE FUND",
+      "CONGRESSIONAL LEADERSHIP FUND",
+      "DEFENDARIZONA",
+      "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE"
+    ],
     "stories": []
   },
   "L3 Technologies": {
@@ -21575,7 +21641,12 @@
       "MAGA Inc"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E",
+      "DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE",
+      "LEAGUE OF CONSERVATION VOTERS ACTION FUND",
+      "MAJORITY PAC"
+    ],
     "stories": []
   },
   "Lindsey Graham": {
@@ -22503,7 +22574,12 @@
       "MAGA Small Dollar Base"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "A GREAT AMERICA PAC",
+      "GEORGIANS FOR STRONG FAMILIES, INC.",
+      "THE LINCOLN PROJECT",
+      "VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE"
+    ],
     "stories": []
   },
   "Marjorie Taylor Greene rails against &#8216;insane&#8217; Trump after Easter Ira": {
@@ -22543,7 +22619,10 @@
       "Fraternal Order of Police"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE",
+      "HOUSE MAJORITY PAC"
+    ],
     "stories": []
   },
   "Mark Kelly": {
@@ -22564,7 +22643,13 @@
       "Ken Griffin"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "CLUB FOR GROWTH ACTION",
+      "DEFENDARIZONA",
+      "NRSC",
+      "SENATE LEADERSHIP FUND",
+      "THE SENTINEL ACTION FUND"
+    ],
     "stories": []
   },
   "Mark Kelly ‘Illegal orders’ to make civilians suffer in Iran would be ‘black mar": {
@@ -23312,7 +23397,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Fox Corp - Rupert Murdoch"
+    ],
     "stories": []
   },
   "Mehlman Consulting": {
@@ -23700,7 +23787,10 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "AMERICAN JOBS AND GROWTH PAC",
+      "HOUSE MAJORITY PAC"
+    ],
     "stories": []
   },
   "Michael Whatley": {
@@ -24753,7 +24843,9 @@
       "UnitedHealth Group - Optum"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "Donald Trump"
+    ],
     "stories": []
   },
   "Narya Capital": {
@@ -28178,7 +28270,12 @@
       "Healthcare Sector"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "AMERICAN CROSSROADS",
+      "NRSC",
+      "PEACHTREE PAC",
+      "SENATE LEADERSHIP FUND"
+    ],
     "stories": []
   },
   "Rashida Tlaib": {
@@ -28243,7 +28340,9 @@
       "National Nurses United"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "AMERICANS FOR TAX REFORM"
+    ],
     "stories": []
   },
   "Raytheon (RTX Corporation)": {
@@ -29040,7 +29139,10 @@
       "Walt Disney Company"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "MAKE AMERICA GREAT AGAIN INC.",
+      "SFA FUND, INC"
+    ],
     "stories": []
   },
   "Ron Johnson": {
@@ -30814,7 +30916,9 @@
     ],
     "donors": [],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "SENATE MAJORITY PAC"
+    ],
     "stories": []
   },
   "Sherrod Brown": {
@@ -37525,7 +37629,13 @@
       "Tech IP and Patent Lobbying"
     ],
     "politicians-funded": [],
-    "opposes": [],
+    "opposes": [
+      "DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE",
+      "DSCC",
+      "NEA ADVOCACY FUND",
+      "SENATE MAJORITY PAC",
+      "SMP"
+    ],
     "stories": []
   },
   "Thom Tillis Master Profile: healthcare reform vs. health industry contradiction": {

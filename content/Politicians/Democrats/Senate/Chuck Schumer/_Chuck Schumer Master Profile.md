@@ -35,6 +35,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+opposes: "[[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]]"
 related: "[[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[_Benjamin Netanyahu Master Profile]] · [[_Nancy Pelosi Master Profile]]"
 last-enriched: "2026-04-10"
 committees:
