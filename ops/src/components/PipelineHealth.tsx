@@ -83,7 +83,7 @@ export function PipelineHealth() {
           <svg viewBox="0 0 36 36" className="w-16 h-16 -rotate-90">
             <path
               d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
-              fill="none" stroke="#4a4a58" strokeWidth="3"
+              fill="none" stroke="#ef4444" strokeWidth="3"
             />
             <path
               d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831"
