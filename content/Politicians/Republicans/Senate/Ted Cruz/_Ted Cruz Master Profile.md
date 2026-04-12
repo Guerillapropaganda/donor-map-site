@@ -103,6 +103,20 @@ Cruz's relationship with Trump reveals the donor-class hierarchy:
 
 ---
 
+## Class Analysis
+
+Ted Cruz is the vault's proof that donor-class investment overrides personal toxicity. Least-liked senator among his own colleagues. Fled to Cancun while 246 Texans died in a grid failure caused by the deregulatory framework his donors fund him to maintain. Won reelection anyway because $192M in donor money made his unpopularity irrelevant.
+
+The class structure has three pillars. First, Texas energy: $4.8M career from oil and gas, with the Wilks brothers (fracking billionaires) contributing $15M in his 2012 race alone. Cruz's climate denial and deregulatory voting record are not beliefs. They are contractual obligations to the fossil fuel donors who purchased his Senate seat. The Texas grid failure is the real-world cost: a deregulated, isolated grid designed to maximize private profit collapsed in February 2021 because the regulatory structure Cruz's donors built prioritized extraction over resilience.
+
+Second, Goldman Sachs: Cruz's wife Heidi is a Managing Director (estimated $1-5M annual compensation). His 2012 campaign was secretly financed by $1.43M in undisclosed Goldman/Citibank loans. Every Cruz vote on banking regulation, SEC oversight, and financial policy directly affects his household income. The FEC fined him $35K for the disclosure failure, a rounding error. The conflict of interest is not a bug in the system. It is the system.
+
+Third, the Mercer investment: Robert Mercer has committed $31M+ to Cruz's career, the single largest donor-to-politician investment in the vault. Mercer (Renaissance Technologies) bought a senator for the price of a mid-tier Manhattan apartment. The return: deregulatory votes on hedge fund oversight, carried interest preservation, and a reliable vote against any SEC enforcement expansion that would affect quantitative trading firms.
+
+The leaked 2026 recordings are the class analysis in audio form. Cruz privately criticizes Trump's tariffs to donor audiences while publicly performing MAGA loyalty. The donors get honesty. The voters get theater. The split is not hypocrisy. It is the operating system: private truth for the class that pays, public performance for the class that votes.
+
+---
+
 ## Analytical Patterns
 
 **The Two-Audience Problem** — Cruz performs "America First" populist messaging to Trump voters while his household income depends on Goldman Sachs profitability (wife is Managing Director) and his campaign is funded by Robert Mercer ($31M+), fracking billionaires ($15M), and emerging crypto networks. His leaked 2026 recordings reveal private criticism of Trump's tariffs to donor audiences while he performs public MAGA loyalty. Voters receive populist theater; the donor class receives consistent service on deregulation and capital preferencing.
