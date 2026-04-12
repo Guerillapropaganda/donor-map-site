@@ -543,14 +543,15 @@ export function evaluateReadinessEligibility(profile: Profile, raw: string): {
   const pct = total > 0 ? Math.round((checked / total) * 100) : 0
 
   // Per-group breakdown (plan Step 4)
-  const groupKeys: ChecklistGroup[] = ["core", "tier-a", "tier-b", "tier-c", "tier-d", "s-tier"]
+  const groupKeys: ChecklistGroup[] = ["core", "structural", "tier-a", "tier-b", "tier-c", "tier-d", "s-tier"]
   const tierBreakdown: Record<ChecklistGroup, { passed: number; total: number; pct: number }> = {
-    "core":   { passed: 0, total: 0, pct: 0 },
-    "tier-a": { passed: 0, total: 0, pct: 0 },
-    "tier-b": { passed: 0, total: 0, pct: 0 },
-    "tier-c": { passed: 0, total: 0, pct: 0 },
-    "tier-d": { passed: 0, total: 0, pct: 0 },
-    "s-tier": { passed: 0, total: 0, pct: 0 },
+    "core":       { passed: 0, total: 0, pct: 0 },
+    "structural": { passed: 0, total: 0, pct: 0 },
+    "tier-a":     { passed: 0, total: 0, pct: 0 },
+    "tier-b":     { passed: 0, total: 0, pct: 0 },
+    "tier-c":     { passed: 0, total: 0, pct: 0 },
+    "tier-d":     { passed: 0, total: 0, pct: 0 },
+    "s-tier":     { passed: 0, total: 0, pct: 0 },
   }
   for (const item of items) {
     if (isNa(item.id)) continue
