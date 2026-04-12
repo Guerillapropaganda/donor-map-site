@@ -106,6 +106,7 @@ interface Trade {
   district: string
   ticker: string | null
   asset: string
+  assetType: string // Stock, Crypto, Options, Bond, Fund, Real Estate, Commodity
   type: string
   amount: { min: number; max: number; text: string }
   owner: string
@@ -116,17 +117,22 @@ interface Trade {
   isCrypto: boolean
   cryptoTier?: CryptoTier
   cryptoCategory?: string
+  isOptions: boolean
+  optionType?: string | null // call or put
+  isWhaleTrade: boolean
+  filingDelayDays?: number
+  isLateDisclosure: boolean
 }
 
-function tagCrypto(trade: Trade): Trade {
+function enrichTrade(trade: Trade): Trade {
   const crypto = trade.isCrypto || isCryptoTrade(trade.ticker, trade.asset)
-  if (!crypto) return { ...trade, isCrypto: false }
-  const info = getCryptoInfo(trade.ticker, trade.asset)
+  const info = crypto ? getCryptoInfo(trade.ticker, trade.asset) : null
   return {
     ...trade,
-    isCrypto: true,
-    cryptoTier: info?.tier || 'direct',
-    cryptoCategory: info?.category || trade.ticker || 'Unknown',
+    isCrypto: crypto,
+    cryptoTier: info?.tier,
+    cryptoCategory: info?.category,
+    assetType: trade.assetType || (crypto ? 'Crypto' : 'Stock'),
   }
 }
 
@@ -137,13 +143,14 @@ function loadCurrentTrades(): Trade[] {
     const trades: Trade[] = []
     for (const filing of raw.filings || []) {
       for (const tx of filing.transactions || []) {
-        trades.push(tagCrypto({
+        trades.push(enrichTrade({
           politician: filing.filer?.name?.replace(/^Hon\.\s*/, "") || "Unknown",
           chamber: filing.chamber || "House",
           state: filing.filer?.state || "",
           district: filing.filer?.district || "",
           ticker: tx.ticker || null,
           asset: tx.assetDescription?.slice(0, 120) || "",
+          assetType: tx.assetType || "Stock",
           type: tx.transactionType || "Unknown",
           amount: tx.amount || { min: 0, max: 0, text: "Unknown" },
           owner: tx.owner || "Self",
@@ -152,6 +159,11 @@ function loadCurrentTrades(): Trade[] {
           year: new Date(tx.transactionDate || filing.filing?.date || "").getFullYear() || 2026,
           sourceUrl: filing.filing?.sourceUrl || "",
           isCrypto: tx.isCrypto || false,
+          isOptions: tx.isOptions || false,
+          optionType: tx.optionType || null,
+          isWhaleTrade: tx.isWhaleTrade || (tx.amount?.max >= 500000) || false,
+          filingDelayDays: tx.filingDelayDays,
+          isLateDisclosure: tx.isLateDisclosure || false,
         }))
       }
     }
@@ -170,13 +182,14 @@ function loadHistoricalTrades(): Trade[] {
       const yd = yearData as any
       for (const filing of yd.filings || []) {
         for (const tx of filing.transactions || []) {
-          trades.push(tagCrypto({
+          trades.push(enrichTrade({
             politician: filing.filer?.name?.replace(/^Hon\.\s*/, "") || "Unknown",
             chamber: filing.chamber || "House",
             state: filing.filer?.state || "",
             district: filing.filer?.district || "",
             ticker: tx.ticker || null,
             asset: tx.assetDescription?.slice(0, 120) || "",
+            assetType: tx.assetType || "Stock",
             type: tx.transactionType || "Unknown",
             amount: tx.amount || { min: 0, max: 0, text: "Unknown" },
             owner: tx.owner || "Self",
@@ -185,6 +198,11 @@ function loadHistoricalTrades(): Trade[] {
             year: parseInt(yearStr) || 2020,
             sourceUrl: filing.filing?.sourceUrl || "",
             isCrypto: tx.isCrypto || false,
+            isOptions: tx.isOptions || false,
+            optionType: tx.optionType || null,
+            isWhaleTrade: tx.isWhaleTrade || (tx.amount?.max >= 500000) || false,
+            filingDelayDays: tx.filingDelayDays,
+            isLateDisclosure: tx.isLateDisclosure || false,
           }))
         }
       }
@@ -240,9 +258,34 @@ export async function GET(request: Request) {
   }
   let cryptoBuys = 0, cryptoSells = 0, cryptoBuyAmt = 0, cryptoSellAmt = 0
 
+  // New enhanced stats
+  let optionsCount = 0, whaleCount = 0, lateCount = 0
+  const assetTypes: Record<string, number> = {}
+  const lateDisclosures: { politician: string; ticker: string | null; type: string; amount: number; delay: number; date: string }[] = []
+  const whaleTrades: { politician: string; ticker: string | null; type: string; amount: number; date: string }[] = []
+
   for (const t of trades) {
     if (t.type === "Purchase") totalBuys++
     else if (t.type === "Sale") totalSells++
+
+    // Track asset types
+    const at = t.assetType || 'Stock'
+    assetTypes[at] = (assetTypes[at] || 0) + 1
+
+    // Options
+    if (t.isOptions) optionsCount++
+
+    // Whale trades
+    if (t.isWhaleTrade) {
+      whaleCount++
+      whaleTrades.push({ politician: t.politician, ticker: t.ticker, type: t.type, amount: t.amount.max || t.amount.min || 0, date: t.transactionDate })
+    }
+
+    // Late disclosures
+    if (t.isLateDisclosure && t.filingDelayDays) {
+      lateCount++
+      lateDisclosures.push({ politician: t.politician, ticker: t.ticker, type: t.type, amount: t.amount.max || t.amount.min || 0, delay: t.filingDelayDays, date: t.transactionDate })
+    }
 
     if (t.ticker) {
       if (!tickers[t.ticker]) tickers[t.ticker] = { buys: 0, sells: 0, buyAmt: 0, sellAmt: 0 }
@@ -340,6 +383,14 @@ export async function GET(request: Request) {
       topTickers: topCryptoTickers,
       topTraders: topCryptoTraders,
       tiers: tierStats,
+    },
+    enhanced: {
+      optionsCount,
+      whaleCount,
+      lateDisclosureCount: lateCount,
+      assetTypes,
+      whaleTrades: whaleTrades.sort((a, b) => b.amount - a.amount).slice(0, 50),
+      lateDisclosures: lateDisclosures.sort((a, b) => b.delay - a.delay).slice(0, 50),
     },
     sources: {
       current: currentExists,
