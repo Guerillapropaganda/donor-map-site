@@ -3,6 +3,11 @@
 import { useState, useEffect, useRef, useCallback } from "react"
 import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
+import {
+  forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
+  select, zoom as d3Zoom, drag as d3Drag,
+  type Simulation, type SimulationNodeDatum, type SimulationLinkDatum,
+} from "d3"
 
 interface Connection {
   source: string; sourcePath: string; sourceType: string
@@ -250,13 +255,19 @@ export default function RelationshipsPage() {
     return () => window.removeEventListener("click", handler)
   }, [])
 
-  // Graph zoom + pan
+  // Graph zoom + pan (legacy — kept for state compatibility)
   const [graphZoom, setGraphZoom] = useState(1)
   const [graphPan, setGraphPan] = useState({ x: 0, y: 0 })
   const [isDragging, setIsDragging] = useState(false)
   const dragStart = useRef({ x: 0, y: 0, panX: 0, panY: 0 })
   const graphRef = useRef<HTMLDivElement>(null)
   const graphContainerRef = useRef<HTMLDivElement>(null)
+
+  // D3 force graph
+  const d3SvgRef = useRef<SVGSVGElement>(null)
+  const d3SimRef = useRef<Simulation<any, any> | null>(null)
+  const [graphFilterTypes, setGraphFilterTypes] = useState<Set<string>>(new Set(["related", "donors", "opposes", "stories"]))
+  const [hoveredNode, setHoveredNode] = useState<string | null>(null)
 
   // Attach non-passive wheel listener so we can preventDefault
   useEffect(() => {
@@ -304,6 +315,237 @@ export default function RelationshipsPage() {
     setIsDragging(false)
     setDraggingNode(null)
   }, [])
+
+  // D3 force simulation — runs when selected profile or filter changes
+  useEffect(() => {
+    if (!selected || tab !== "graph" || !d3SvgRef.current) return
+
+    // Clean up previous simulation
+    if (d3SimRef.current) d3SimRef.current.stop()
+    const svgEl = d3SvgRef.current
+    const svg = select(svgEl)
+    svg.selectAll("*").remove()
+
+    const width = svgEl.clientWidth || 800
+    const height = svgEl.clientHeight || 600
+
+    const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/i, "").trim().toLowerCase()
+    const opposesNorm = new Set(selected.opposes.map(norm))
+    const fundsNorm = new Set([...selected.donors, ...selected.related].map(norm))
+
+    // Build nodes from filtered types
+    interface ForceNode extends SimulationNodeDatum {
+      id: string; name: string; relType: "related" | "donors" | "opposes" | "stories"
+      bothSides: boolean; hasNote: boolean
+    }
+    const nodes: ForceNode[] = []
+    const types = ["donors", "related", "opposes", "stories"] as const
+    for (const t of types) {
+      if (!graphFilterTypes.has(t)) continue
+      for (const name of selected[t]) {
+        if (nodes.find(n => norm(n.name) === norm(name))) continue
+        const bs = opposesNorm.has(norm(name)) && fundsNorm.has(norm(name))
+        const noteKey = `${selected.title}::${name}`
+        nodes.push({ id: name, name, relType: t, bothSides: bs, hasNote: !!relationNotes[noteKey]?.note })
+      }
+    }
+
+    // Center node
+    const centerNode: ForceNode = { id: "__center__", name: selected.title, relType: "related", bothSides: false, hasNote: false }
+    nodes.unshift(centerNode)
+
+    // Links: every node connects to center
+    interface ForceLink extends SimulationLinkDatum<ForceNode> { relType: string }
+    const links: ForceLink[] = nodes.slice(1).map(n => ({ source: centerNode, target: n, relType: n.relType }))
+
+    // Simulation
+    const sim = forceSimulation<ForceNode>(nodes)
+      .force("charge", forceManyBody().strength(-120))
+      .force("center", forceCenter(width / 2, height / 2).strength(0.05))
+      .force("link", forceLink<ForceNode, ForceLink>(links).distance(80).strength(0.3))
+      .force("collide", forceCollide<ForceNode>(d => d.id === "__center__" ? 30 : 12).iterations(2))
+      .force("x", forceX(width / 2).strength(0.03))
+      .force("y", forceY(height / 2).strength(0.03))
+      .alphaDecay(0.02)
+
+    // Pin center node
+    centerNode.fx = width / 2
+    centerNode.fy = height / 2
+
+    d3SimRef.current = sim
+
+    // SVG groups
+    const g = svg.append("g").attr("class", "graph-root")
+
+    // Zoom
+    const zoomBehavior = d3Zoom<SVGSVGElement, unknown>()
+      .scaleExtent([0.2, 5])
+      .on("zoom", (event) => g.attr("transform", event.transform))
+    svg.call(zoomBehavior)
+
+    // Links
+    const linkGroup = g.append("g").attr("class", "links")
+    const linkEls = linkGroup.selectAll("line")
+      .data(links)
+      .join("line")
+      .attr("stroke", (d: any) => d.target.bothSides ? "#ef4444" : REL_COLORS[d.relType])
+      .attr("stroke-width", (d: any) => d.target.bothSides ? 2.5 : d.relType === "opposes" ? 1 : d.relType === "stories" ? 1 : 1.2)
+      .attr("stroke-dasharray", (d: any) => d.target.bothSides ? "6 3" : d.relType === "opposes" ? "4 2" : d.relType === "stories" ? "2 2" : "none")
+      .attr("stroke-opacity", (d: any) => d.target.bothSides ? 0.8 : 0.2)
+
+    // Node groups
+    const nodeGroup = g.append("g").attr("class", "nodes")
+    const nodeEls = nodeGroup.selectAll<SVGGElement, ForceNode>("g")
+      .data(nodes)
+      .join("g")
+      .attr("cursor", "pointer")
+
+    // Node circles
+    nodeEls.append("circle")
+      .attr("r", d => d.id === "__center__" ? 24 : 7)
+      .attr("fill", d => {
+        if (d.id === "__center__") return `${TYPE_COLORS[selected.type]}40`
+        if (d.bothSides) return "rgba(239, 68, 68, 0.3)"
+        return `${REL_COLORS[d.relType]}30`
+      })
+      .attr("stroke", d => {
+        if (d.id === "__center__") return TYPE_COLORS[selected.type]
+        if (d.bothSides) return "#ef4444"
+        return REL_COLORS[d.relType]
+      })
+      .attr("stroke-width", d => d.id === "__center__" ? 2.5 : d.bothSides ? 2 : 1.5)
+
+    // Both-sides glow ring
+    nodeEls.filter(d => d.bothSides)
+      .append("circle")
+      .attr("r", 11)
+      .attr("fill", "none")
+      .attr("stroke", "#ef4444")
+      .attr("stroke-width", 1)
+      .attr("stroke-opacity", 0.3)
+
+    // Note indicator dot
+    nodeEls.filter(d => d.hasNote && d.id !== "__center__")
+      .append("circle")
+      .attr("cx", 5).attr("cy", -5)
+      .attr("r", 3)
+      .attr("fill", "#f59e0b")
+
+    // Center label — always visible
+    nodeEls.filter(d => d.id === "__center__")
+      .append("text")
+      .attr("text-anchor", "middle")
+      .attr("dy", "0.35em")
+      .attr("fill", "var(--color-text)")
+      .attr("font-size", "9px")
+      .attr("font-weight", "bold")
+      .attr("pointer-events", "none")
+      .text(d => d.name.length > 18 ? d.name.slice(0, 16) + "..." : d.name)
+
+    // Always-visible labels — faint by default, bright on hover
+    const labelEls = nodeEls.filter(d => d.id !== "__center__")
+      .append("g")
+      .attr("class", "node-label")
+      .attr("pointer-events", "none")
+      .attr("opacity", 0.35)
+
+    // Label text — always shown
+    labelEls.append("text")
+      .attr("text-anchor", "middle")
+      .attr("y", 16)
+      .attr("fill", d => d.bothSides ? "#ef4444" : REL_COLORS[d.relType])
+      .attr("font-size", "7px")
+      .attr("font-family", "ui-monospace, monospace")
+      .text(d => d.name.length > 20 ? d.name.slice(0, 18) + ".." : d.name)
+
+    // Hover tooltip — hidden by default (shows full name on hover)
+    const tooltipEls = nodeEls.filter(d => d.id !== "__center__")
+      .append("g")
+      .attr("class", "hover-tooltip")
+      .attr("display", "none")
+      .attr("pointer-events", "none")
+
+    tooltipEls.append("rect")
+      .attr("rx", 3)
+      .attr("fill", "var(--color-bg-card, #1e1e2e)")
+      .attr("stroke", d => d.bothSides ? "#ef4444" : REL_COLORS[d.relType])
+      .attr("stroke-width", 0.5)
+      .attr("opacity", 0.95)
+
+    tooltipEls.append("text")
+      .attr("text-anchor", "middle")
+      .attr("dy", "-14")
+      .attr("fill", "var(--color-text)")
+      .attr("font-size", "10px")
+      .attr("font-weight", "bold")
+      .attr("font-family", "ui-monospace, monospace")
+      .text(d => d.name)
+      .each(function () {
+        const bbox = (this as SVGTextElement).getBBox()
+        const rect = select(this.parentNode!).select("rect")
+        rect.attr("x", bbox.x - 4).attr("y", bbox.y - 2).attr("width", bbox.width + 8).attr("height", bbox.height + 4)
+      })
+
+    // Hover interaction
+    nodeEls.filter(d => d.id !== "__center__")
+      .on("mouseenter", function (event, d) {
+        select(this).select(".node-label").attr("opacity", 1)
+        select(this).select(".hover-tooltip").attr("display", null)
+        select(this).select("circle").attr("r", 10)
+        linkEls.attr("stroke-opacity", (l: any) => l.target.id === d.id ? 0.8 : 0.08)
+        setHoveredNode(d.name)
+      })
+      .on("mouseleave", function () {
+        select(this).select(".node-label").attr("opacity", 0.35)
+        select(this).select(".hover-tooltip").attr("display", "none")
+        select(this).select("circle").attr("r", 7)
+        linkEls.attr("stroke-opacity", (d: any) => d.target.bothSides ? 0.8 : 0.2)
+        setHoveredNode(null)
+      })
+
+    // Click to navigate
+    nodeEls.filter(d => d.id !== "__center__")
+      .on("click", (event, d) => {
+        const target = norm(d.name)
+        const tp = topConnected.find(t => norm(t.title) === target) || profiles.find(p => norm(p.title) === target)
+        if (tp) selectProfile(tp)
+      })
+
+    // Right-click for context menu
+    nodeEls.filter(d => d.id !== "__center__")
+      .on("contextmenu", (event, d) => {
+        event.preventDefault()
+        setContextMenu({ x: event.clientX, y: event.clientY, name: d.name, type: d.relType })
+      })
+
+    // Drag behavior
+    const dragBehavior = d3Drag<SVGGElement, ForceNode>()
+      .on("start", (event, d) => {
+        if (!event.active) sim.alphaTarget(0.3).restart()
+        d.fx = d.x; d.fy = d.y
+      })
+      .on("drag", (event, d) => {
+        d.fx = event.x; d.fy = event.y
+      })
+      .on("end", (event, d) => {
+        if (!event.active) sim.alphaTarget(0)
+        if (d.id !== "__center__") { d.fx = null; d.fy = null }
+      })
+
+    nodeEls.call(dragBehavior as any)
+
+    // Tick
+    sim.on("tick", () => {
+      linkEls
+        .attr("x1", (d: any) => d.source.x)
+        .attr("y1", (d: any) => d.source.y)
+        .attr("x2", (d: any) => d.target.x)
+        .attr("y2", (d: any) => d.target.y)
+      nodeEls.attr("transform", d => `translate(${d.x},${d.y})`)
+    })
+
+    return () => { sim.stop() }
+  }, [selected, tab, graphFilterTypes, relationNotes])
 
   useEffect(() => {
     Promise.all([
@@ -1199,162 +1441,49 @@ export default function RelationshipsPage() {
               {addConnectionFormJSX}
             </div>
           ) : (
-            /* ===== GRAPH VIEW — zoomable ===== */
+            /* ===== GRAPH VIEW — D3 force-directed ===== */
             <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4" style={{ minHeight: "60vh" }}>
-              <div className="flex items-center justify-between mb-3">
+              <div className="flex items-center justify-between mb-3 flex-wrap gap-2">
                 <div className="text-[10px] text-[var(--color-text-dim)]">
                   {selected.title} — {selected.connectionCount} connections
+                  {hoveredNode && <span className="ml-2 text-[var(--color-text)]">| {hoveredNode}</span>}
                 </div>
-                {/* Zoom controls */}
+                {/* Type filter toggles */}
                 <div className="flex items-center gap-1">
-                  <button onClick={() => setGraphZoom((z) => Math.max(0.3, z - 0.15))}
-                    className="w-6 h-6 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-sm flex items-center justify-center">-</button>
-                  <span className="text-[9px] text-[var(--color-text-dim)] w-10 text-center">{Math.round(graphZoom * 100)}%</span>
-                  <button onClick={() => setGraphZoom((z) => Math.min(3, z + 0.15))}
-                    className="w-6 h-6 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] text-sm flex items-center justify-center">+</button>
-                  <button onClick={() => { setGraphZoom(1); setGraphPan({ x: 0, y: 0 }); setNodePositions({}) }}
-                    className="text-[8px] px-2 py-1 rounded bg-[var(--color-bg)] border border-[var(--color-border)] text-[var(--color-text-dim)] hover:text-[var(--color-text)] ml-1">Reset</button>
-                </div>
-              </div>
-
-              {/* Draggable + zoomable graph container */}
-              <div ref={graphContainerRef}
-                className="overflow-visible border border-[var(--color-border)] rounded-lg select-none"
-                style={{ maxHeight: "55vh", cursor: isDragging ? "grabbing" : "grab" }}
-                onMouseDown={handleMouseDown}
-                onMouseMove={handleMouseMove}
-                onMouseUp={handleMouseUp}
-                onMouseLeave={handleMouseUp}>
-                <div ref={graphRef} className="relative mx-auto"
-                  style={{ height: `${Math.max(500, Math.min(selected.connectionCount * 20, 700))}px`, width: `${Math.max(500, Math.min(selected.connectionCount * 20, 700))}px`, overflow: "hidden", transform: `scale(${graphZoom}) translate(${graphPan.x / graphZoom}px, ${graphPan.y / graphZoom}px)`, transformOrigin: "center center" }}>
-                  {/* Center node */}
-                  <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-28 h-28 rounded-full flex items-center justify-center text-center z-10"
-                    style={{ backgroundColor: `${TYPE_COLORS[selected.type]}20`, border: `2px solid ${TYPE_COLORS[selected.type]}` }}>
-                    <span className="text-[9px] font-bold text-[var(--color-text)] px-2 leading-tight">{selected.title}</span>
-                  </div>
-
-                  {/* Both-sides detection: entities that appear in donors/related AND opposes */}
-                  {(() => null)()}
-                  {/* Orbiting nodes — draggable */}
-                  {(() => {
-                    // Normalize a name for fuzzy matching across the wikilink aliases
-                    const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/i, "").trim().toLowerCase()
-                    const opposesNorm = new Set(selected.opposes.map(norm))
-                    const fundsNorm = new Set([...selected.donors, ...selected.related].map(norm))
-                    // A "both-sides" entity is in opposes AND also in donors/related.
-                    // Mark such nodes so we can render them in red dashed.
-                    const allNodes = [
-                      ...selected.related.map((n, i) => ({ name: n, type: "related" as const, i })),
-                      ...selected.donors.map((n, i) => ({ name: n, type: "donors" as const, i: i + selected.related.length })),
-                      ...selected.opposes.map((n, i) => ({ name: n, type: "opposes" as const, i: i + selected.related.length + selected.donors.length })),
-                      ...selected.stories.map((n, i) => ({ name: n, type: "stories" as const, i: i + selected.related.length + selected.donors.length + selected.opposes.length })),
-                    ].map(n => ({
-                      ...n,
-                      bothSides: opposesNorm.has(norm(n.name)) && fundsNorm.has(norm(n.name)),
-                    }))
-                    return allNodes
-                  })().map((node, idx, arr) => {
-                    const angle = (idx / arr.length) * 2 * Math.PI - Math.PI / 2
-                    const radius = Math.min(38, 25 + arr.length * 0.3)
-                    const defaultX = 50 + radius * Math.cos(angle)
-                    const defaultY = 50 + radius * Math.sin(angle)
-                    const pos = nodePositions[node.name]
-                    const x = pos ? pos.x : defaultX
-                    const y = pos ? pos.y : defaultY
-
-                    const noteKey = `${selected.title}::${node.name}`
-                    const hasNote = !!relationNotes[noteKey]?.note
-
+                  {(["donors", "related", "opposes", "stories"] as const).map(t => {
+                    const active = graphFilterTypes.has(t)
+                    const count = selected[t].length
+                    if (count === 0) return null
                     return (
-                      <div key={node.name + idx}>
-                        <svg className="absolute inset-0 w-full h-full pointer-events-none" style={{ zIndex: 1 }}>
-                          {/* Both-sides entities get a thick red dashed stroke — warning indicator */}
-                          <line x1="50%" y1="50%" x2={`${x}%`} y2={`${y}%`}
-                            stroke={node.bothSides ? "#ef4444" : REL_COLORS[node.type]}
-                            strokeWidth={node.bothSides ? 2.5 : node.type === "opposes" ? 1 : node.type === "stories" ? 1 : 1.5}
-                            strokeDasharray={node.bothSides ? "6 3" : node.type === "opposes" ? "4 2" : node.type === "stories" ? "2 2" : "none"}
-                            opacity={node.bothSides ? 0.9 : 0.4} />
-                        </svg>
-                        <div
-                          className={`absolute w-16 h-16 -translate-x-1/2 -translate-y-1/2 z-10 group/node ${draggingNode === node.name ? "cursor-grabbing" : "cursor-grab"}`}
-                          style={{ left: `${x}%`, top: `${y}%` }}
-                          onMouseDown={(e) => {
-                            // Skip if clicking edit/remove/note buttons
-                            if ((e.target as HTMLElement).tagName === "BUTTON" || (e.target as HTMLElement).closest(".node-action-btn")) return
-                            e.stopPropagation()
-                            e.preventDefault()
-                            setDraggingNode(node.name)
-                            nodeDragStart.current = { x: e.clientX, y: e.clientY, nodeX: x, nodeY: y }
-                          }}
-                          onMouseUp={(e) => {
-                            // If we didn't drag (mouse barely moved), treat as click → navigate
-                            if (draggingNode === node.name) {
-                              const dx = Math.abs(e.clientX - nodeDragStart.current.x)
-                              const dy = Math.abs(e.clientY - nodeDragStart.current.y)
-                              if (dx < 5 && dy < 5) {
-                                const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase()
-                                const target = norm(node.name)
-                                const tp = topConnected.find((t) => norm(t.title) === target) || profiles.find((p) => norm(p.title) === target)
-                                if (tp) selectProfile(tp)
-                              }
-                            }
-                          }}>
-                          <div
-                            className="w-full h-full rounded-full flex items-center justify-center text-center select-none"
-                            style={{
-                              backgroundColor: node.bothSides ? "rgba(239, 68, 68, 0.15)" : `${REL_COLORS[node.type]}15`,
-                              border: node.bothSides ? "2px solid #ef4444" : `1.5px solid ${REL_COLORS[node.type]}50`,
-                              boxShadow: node.bothSides ? "0 0 0 2px rgba(239, 68, 68, 0.25)" : undefined,
-                            }}
-                            title={node.bothSides
-                              ? `⚠ BOTH-SIDES: ${node.name} appears in both donors/related AND opposes. Investigate this contradiction.`
-                              : hasNote ? `${node.name}\n--- Note ---\n${relationNotes[noteKey].note}` : node.name}>
-                            <span className="text-[7px] text-[var(--color-text)] px-1 leading-tight line-clamp-3 pointer-events-none">{node.name}</span>
-                          </div>
-                          {/* Note indicator — always visible when note exists */}
-                          {hasNote && (
-                            <div className="absolute -bottom-1 left-1/2 -translate-x-1/2 w-3 h-3 rounded-full bg-[#f59e0b] flex items-center justify-center pointer-events-none" style={{ zIndex: 15 }}>
-                              <span className="text-[6px] text-black font-bold">!</span>
-                            </div>
-                          )}
-                          {/* Edit button */}
-                          <button
-                            onClick={(e) => { e.stopPropagation(); setContextMenu({ x: e.clientX, y: e.clientY, name: node.name, type: node.type }) }}
-                            className="node-action-btn absolute -top-1 -left-1 w-5 h-5 rounded-full text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
-                            style={{ backgroundColor: REL_COLORS[node.type] }}
-                            title="Change type">
-                            <svg width={8} height={8} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={3}>
-                              <path strokeLinecap="round" strokeLinejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
-                            </svg>
-                          </button>
-                          {/* Note button */}
-                          <button
-                            onClick={(e) => { e.stopPropagation(); openNotePopover(node.name, e.clientX, e.clientY) }}
-                            className={`node-action-btn absolute -bottom-1 -left-1 w-5 h-5 rounded-full text-white text-[8px] flex items-center justify-center transition-opacity hover:scale-110 ${hasNote ? "opacity-100 bg-[#f59e0b]" : "opacity-0 group-hover/node:opacity-100 bg-[#f59e0b]/70"}`}
-                            title={hasNote ? "Edit note" : "Add note"}>
-                            <svg width={8} height={8} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={3}>
-                              <path strokeLinecap="round" strokeLinejoin="round" d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z" />
-                            </svg>
-                          </button>
-                          {/* Remove button */}
-                          <button onClick={(e) => { e.stopPropagation(); removeConnection(node.name, node.type) }} disabled={saving}
-                            className="node-action-btn absolute -top-1 -right-1 w-5 h-5 rounded-full bg-[var(--color-red)] text-white text-[8px] flex items-center justify-center opacity-0 group-hover/node:opacity-100 transition-opacity hover:scale-110"
-                            title="Remove">×</button>
-                        </div>
-                      </div>
+                      <button key={t}
+                        onClick={() => setGraphFilterTypes(prev => {
+                          const next = new Set(prev)
+                          if (next.has(t)) next.delete(t); else next.add(t)
+                          return next
+                        })}
+                        className={`px-2 py-1 rounded text-[9px] font-mono border transition-all ${active ? "border-transparent text-white" : "border-[var(--color-border)] text-[var(--color-text-dim)] opacity-40"}`}
+                        style={active ? { backgroundColor: REL_COLORS[t] } : {}}
+                        title={`${active ? "Hide" : "Show"} ${REL_LABELS[t]} (${count})`}>
+                        {REL_LABELS[t]} ({count})
+                      </button>
                     )
                   })}
                 </div>
               </div>
 
+              {/* D3 force graph SVG */}
+              <div className="border border-[var(--color-border)] rounded-lg overflow-hidden" style={{ height: "55vh" }}>
+                <svg ref={d3SvgRef} width="100%" height="100%" style={{ display: "block" }} />
+              </div>
+
               {/* Legend */}
               <div className="flex items-center justify-center gap-4 mt-2 flex-wrap">
-                <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-6 h-0 border-t border-[#5b8dce]" /> Related</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-6 h-0 border-t border-[#22c55e]" /> Donors</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-6 h-0 border-t border-dashed border-[#ef4444]" /> Opposes</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-6 h-0 border-t border-dotted border-[#ec4899]" /> Stories</span>
-                <span className="flex items-center gap-1 text-[8px] text-[#ef4444] font-bold" title="Entity appears in BOTH donors/related AND opposes — warrants investigation"><span className="w-6 h-0 border-t-2 border-dashed border-[#ef4444]" /> ⚠ Both-sides</span>
-                <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Scroll to zoom · Click+drag to pan</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#5b8dce]"><span className="w-3 h-3 rounded-full border border-[#5b8dce]" style={{ backgroundColor: "#5b8dce30" }} /> Related</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#22c55e]"><span className="w-3 h-3 rounded-full border border-[#22c55e]" style={{ backgroundColor: "#22c55e30" }} /> Donors</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ef4444]"><span className="w-3 h-3 rounded-full border border-dashed border-[#ef4444]" style={{ backgroundColor: "#ef444430" }} /> Opposes</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ec4899]"><span className="w-3 h-3 rounded-full border border-dotted border-[#ec4899]" style={{ backgroundColor: "#ec489930" }} /> Stories</span>
+                <span className="flex items-center gap-1 text-[8px] text-[#ef4444] font-bold" title="Entity appears in BOTH donors/related AND opposes"><span className="w-3 h-3 rounded-full border-2 border-[#ef4444]" style={{ backgroundColor: "#ef444420", boxShadow: "0 0 0 2px rgba(239,68,68,0.25)" }} /> Both-sides</span>
+                <span className="text-[7px] text-[var(--color-text-dim)] ml-2">Scroll to zoom | Drag nodes | Hover for names | Right-click to edit</span>
               </div>
 
               {/* Relationship notes summary — collapsible */}

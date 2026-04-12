@@ -261,6 +261,16 @@ export async function GET() {
         profile[legacyType].push(target)
         profile.connectionCount++
       }
+
+      // For story-links, also add to the TARGET profile's stories bucket
+      // so that "Donald Trump" shows stories that reference him
+      if (legacyType === "stories") {
+        const targetProfile = profileMap.get(target)
+        if (targetProfile && !targetProfile.stories.includes(source)) {
+          targetProfile.stories.push(source)
+          targetProfile.connectionCount++
+        }
+      }
     }
 
     // Stats
