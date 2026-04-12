@@ -194,6 +194,18 @@ Notably, Biden did not use the defense industry's record profits as a fulcrum to
 ### 2021–2024: $886B defense budgets + $113B Ukraine aid = direct transfer to military contractors → record profits. Simultaneously, working-class spending proposals (child tax credits, ACA expansion, childcare) killed as "fiscally irresponsible." Deficit spending accepted for war; deficit spending rejected for social policy.
 ---
 
+## Class Analysis
+
+Joe Biden is the donor class's preferred containment mechanism: a politician who genuinely cares about working people and delivers enough real wins (ACA expansion, insulin cap, union tiebreaker votes) to maintain legitimacy, while preserving every structural advantage the financial sector requires. The "Middle-Class Joe" brand is not false. It is incomplete. The complete picture is a senator called "Senator from MBNA" who took $200K+ from the credit card industry, voted for their bankruptcy bill four times, and then became president with $656.8M in small-dollar donations AND 30+ Wall Street bundlers.
+
+The class mechanism is Genuine Win + Structural Limit, and it repeats across five decades with perfect consistency. The ACA expanded coverage to 20 million people (genuine). It preserved the insurance industry profit structure (structural limit). The IRA capped insulin at $35 for Medicare (genuine). It limited drug negotiation to 10 of 400+ possible drugs (structural limit protecting $5.9M in pharmaceutical donations). Student loan forgiveness was announced (genuine). The Supreme Court blocked it (structural limit). Biden claimed credit anyway. The defense budget hit $886B, a peacetime record, with Raytheon, Lockheed Martin, and Northrop Grumman posting record profits. The pattern is not corruption. It is the operating logic of institutional Democratic politics: enough for the base to claim victory, never enough to threaten the donor class's structural position.
+
+The 2020 funding shift is the class analysis in dollar form. Wall Street abandoned Trump for Biden. Goldman Sachs, JPMorgan, Citigroup lined up behind Biden because his team (including Steve Richetti, a pharmaceutical industry lobbyist) sent the signal: "We're not Bernie Sanders." Biden's function, from the donor class perspective, is containment. Keep the left from winning while delivering enough to keep the base loyal. The $656.8M in small-dollar donations proves the base engagement is real. The 30+ Wall Street bundlers prove the donor class trusts that the structural limits will hold.
+
+Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). Vice President defending insurance industry preservation (2009-2017). President delivering capped wins within capital's acceptable parameters (2021-2025). At no point in five decades did Biden threaten the financial sector's structural dominance. The consistency is the evidence. He is not a sellout. He is a structural Democrat who operates within the boundaries the donor class sets, and who has internalized those boundaries as pragmatism.
+
+---
+
 ## Analytical Patterns
 
 **The Genuine Win + Structural Limit** — Biden's IRA drug negotiation, insulin price cap, and union tiebreaker authority represent genuine working-class policy victories. These are real material gains. However, the structural limit is immediately visible: IRA drug negotiation applies to 10 drugs out of 12,000+ available. The cap is $35 for insulin, but the broader category of prescription drugs remains unaddressed. Union power is enhanced through NLRB tiebreakers but structural labor law (PRO Act) never reaches legislative priority. The wins are calibrated to satisfy the base without threatening pharmaceutical or corporate donor interests.
