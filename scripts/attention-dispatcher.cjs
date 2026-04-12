@@ -97,6 +97,17 @@ const PRODUCERS = [
     script: 'scripts/build-relationships-per-profile.cjs',
     timeout_ms: 60_000,
   },
+  // Congressional financial disclosures (STOCK Act PTR filings).
+  // Daily at 6am — scrapes Senate EFDS + House Clerk for the latest
+  // 90 days of periodic transaction reports. Writes parsed JSON to
+  // data/financial-disclosures.json (overwrite, no accumulation).
+  // 5-minute timeout — needs to download + parse PDFs from the House.
+  {
+    name: 'financial-disclosures',
+    schedule: '0 6 * * *',
+    script: 'scripts/financial-disclosures-pipeline.cjs',
+    timeout_ms: 300_000,
+  },
 ];
 
 // Serialize execution — never run two producers at once

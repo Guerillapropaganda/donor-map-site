@@ -23,6 +23,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.ArticleNav(),
     Component.MobileNav(),
     Component.AdminBar(),
+    Component.CapitolTrades(),
   ],
   footer: Component.Footer({
     links: {

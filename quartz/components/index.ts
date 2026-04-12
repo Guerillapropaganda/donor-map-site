@@ -46,6 +46,7 @@ import AlphabetJump from "./AlphabetJump"
 import ProfileTabs from "./ProfileTabs"
 import NetworkGraph from "./NetworkGraph"
 import AdminBar from "./AdminBar"
+import CapitolTrades from "./CapitolTrades"
 
 export {
   ArticleTitle,
@@ -96,4 +97,5 @@ export {
   ProfileTabs,
   NetworkGraph,
   AdminBar,
+  CapitolTrades,
 }
