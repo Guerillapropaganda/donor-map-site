@@ -28,7 +28,7 @@ top-donors:
 known-gaps:
   - "Committee assignments data missing"
   - "Bills sponsored count needs re-enrichment"
-last-enriched: "2026-04-09"
+last-enriched: "2026-04-12"
 related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 needs-reenrichment: true
 reenrich-reason: "run committee pipeline; re-run congress pipeline for bills count"
@@ -191,6 +191,34 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
+<!-- auto:stock-trades pending-merge 2026-04-12 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 29 |
+| Purchases | 0 |
+| Sales | 0 |
+| Est. Value Range | $0 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/18/2018 | N/A | other | Unknown | N/A |
+| 11/15/2018 | N/A | other | Unknown | N/A |
+| 10/19/2017 | N/A | other | Unknown | N/A |
+| 10/15/2018 | N/A | other | Unknown | N/A |
+| 09/13/2018 | N/A | other | Unknown | N/A |
+| 08/19/2019 | N/A | other | Unknown | N/A |
+| 08/15/2018 | N/A | other | Unknown | N/A |
+| 07/17/2019 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |
@@ -263,8 +291,64 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 - [GovTrack: Dianne Feinstein](https://www.govtrack.us/congress/members/300043) (Tier 1)
 <!-- auto:voting-record end -->
 
+<!-- auto:voting-record pending-merge 2026-04-12 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2023-09-28 | S.J.Res. 24 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United State | **Not Voting** | Veto Sustained |
+| 2023-09-28 | S.J.Res. 9 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States | **Not Voting** | Veto Sustained |
+| 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith, in the Marine Corps, to be General | **Not Voting** | Nomination Confirmed |
+| 2023-09-21 | Motion to Invoke Cloture: Gen. Eric M. Smith for appointment as Commandant of the Marine Corps and appointment in the U. | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-21 | On the Nomination PN537: Gen. Randy A. George, in the Army, to be General | **Not Voting** | Nomination Confirmed |
+| 2023-09-20 | Motion to Invoke Cloture: Gen. Randy A. George for appointment as Chief of Staff of the Army and appointment in the U.S. | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-20 | On the Nomination PN677: Gen. Charles Q. Brown, Jr., in the Air Force, to be General | **Not Voting** | Nomination Confirmed |
+| 2023-09-20 | Motion to Invoke Cloture: Gen. Charles Q. Brown Jr. for reappointment as Chairman of the Joint Chiefs of Staff and appoi | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-20 | Motion to Invoke Cloture: Motion to Suspend the rules under Rule V Re: Amdt No 1092 | **Yea** | Cloture Motion Rejected |
+| 2023-09-19 | On the Nomination PN173: Rita F. Lin, of California, to be United States District Judge for the Northern District of Cal | **Not Voting** | Nomination Confirmed |
+| 2023-09-19 | Motion to Invoke Cloture: Rita F. Lin to be U.S. District Judge for the Northern District of California: Rita F. Lin, of | **Not Voting** | Cloture Motion Agreed to |
+| 2023-09-19 | On the Nomination PN591: Vernon D. Oliver, of Connecticut, to be United States District Judge for the District of Connec | **Not Voting** | Nomination Confirmed |
+| 2023-09-18 | Motion to Invoke Cloture: Vernon D. Oliver to be U.S. District Judge for the District of Connecticut: Vernon D. Oliver,  | **Yea** | Cloture Motion Agreed to |
+| 2023-09-12 | Motion to Invoke Cloture: Motion to Proceed to H.R. 4366 | **Yea** | Cloture Motion Agreed to |
+
+**Sources**
+
+- [Congress.gov: Dianne Feinstein](https://www.congress.gov/member/c001091) (Tier 1)
+- [GovTrack: Dianne Feinstein](https://www.govtrack.us/congress/members/300043) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- Committee data pending pipeline re-enrichment. bioguide-id F000062 added 2026-04-12. -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | CA |
+| Chamber | Senate |
+| Bills Sponsored | 2211 |
+| Bills Cosponsored | 6727 |
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| — |  | — |
+| — |  | Motion to table amendment SA 4720 agreed to in Senate by Voice Vote. |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+| — |  | — |
+
+- [Source: Congress.gov](https://www.congress.gov/member/F000062) (Tier 1)
+<!-- auto:congress-legislation end -->

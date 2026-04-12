@@ -15,8 +15,8 @@ needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
 donors: "[[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Rebekah Mercer]]"
 govtrack-id: 400237
-bills-sponsored: 0
-bills-cosponsored: 0
+bills-sponsored: 604
+bills-cosponsored: 10572
 related: "[[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Adam Schiff|Adam Schiff]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
@@ -25,6 +25,7 @@ total-raised: "$375,046"
 total-spent: "$427,255"
 cash-on-hand: "144.39"
 fec-cycle: 2024
+bioguide-id: "C001091"
 ---
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
 tags: #democrat
@@ -141,6 +142,11 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 <!-- auto:fec-politician end -->
 
 ### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
+<!-- auto:committee-assignments end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -168,6 +174,41 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400237) (Tier 1)
 <!-- auto:govtrack end -->
+
+<!-- auto:govtrack pending-merge 2026-04-12 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 604 |
+| Bills Cosponsored | 10,572 |
+| Total Votes Cast | 17,162 |
+
+**Recent bills sponsored:**
+
+- H.R. 10457: PEPFAR Extension Act of 2024 — *This bill was introduced on December 17, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 1605: Supporting the goals of World AIDS Day. — *This resolution was introduced on December 3, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 9977: Victims of Agent Orange Relief Act of 2024 — *This bill was introduced on October 11, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 9872: Sickle Cell Disease Treatment Centers Act of 2024 — *This bill was introduced on September 27, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 1513: Affirming the term “woke” and its historical connection to Black history, Black liberation movements, and social justice — *This resolution was introduced on September 25, 2024, in a previous session of Congress, but it did not receive a vote.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400237) (Tier 1)
+
+<!-- auto:govtrack pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

@@ -201,13 +201,14 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 1 |
+| Politicians Funded | 2 |
 | Active Lobbyist | Yes |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
-- [[Donald Trump]] — lobbying: $4.9M
+- [[Linda T. Sanchez]] — lobbying: $4.9M
+- [[J. Luis Correa]] — lobbying: $4.9M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
