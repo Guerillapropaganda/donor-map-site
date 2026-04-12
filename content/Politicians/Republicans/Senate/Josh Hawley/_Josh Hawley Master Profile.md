@@ -102,6 +102,18 @@ Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Atto
 
 ---
 
+## Class Analysis
+
+Josh Hawley is the donor class's answer to a specific problem: how do you keep populist energy inside a system that serves capital? You manufacture a populist. Josh Hawley's 2018 Senate campaign was funded by $20.7M from Mitch McConnell's Senate Leadership Fund (Wall Street money laundered through leadership PACs) and $3.9M from the Koch network's deregulation machine. His opponent Claire McCaskill raised 3.5x more in direct contributions. Dark money closed the gap. The anti-corporate populist was elected entirely by corporate dark money infrastructure. That is not irony. That is the business model.
+
+The January 6 fist pump was the most profitable gesture in modern Senate history. Josh Hawley raised his fist at protesters, corporate PACs froze donations (Hallmark demanded its $7K back), and within one month 12,000 new individual donors sent $969,000. The "pariah" moment replaced corporate PAC money with MAGA small-dollar money at 8x the normal rate. Josh Hawley then pledged to refuse corporate PAC money, rebranding a freeze that was imposed on him as a principle he chose. The performance generated the funding. The funding validated the performance. His book "The Tyranny of Big Tech" earned $467K in royalties in 2021 alone. Every viral Senate hearing clip, every confrontation with a tech CEO, every introduced bill that goes nowhere produces a fundraising spike. The bills are not designed to pass. The SMART Act generated massive media coverage and zero legislation. The policy is the marketing. The marketing is the revenue stream.
+
+What the Koch network and Leonard Leo actually purchased with their $24.6M investment is a reliable judicial vote. Josh Hawley has voted for every Leonard Leo-vetted judicial nominee across his entire tenure. The populist brand is free. It costs nothing, generates its own revenue through book deals and small-dollar donations, and provides cultural cover for the economic agenda. The judicial pipeline investment was not free. It cost $24.6M and it delivered a senator who confirms every Federalist Society judge placed in front of him. The populism is the storefront. Judicial capture is the warehouse.
+
+The household economics complete the picture. Josh Hawley's wife Erin Hawley is senior counsel at Alliance Defending Freedom, an organization with $104M in annual revenue. His top 2024 donor is Smead Capital, a $2 billion hedge fund. 77% of his individual donors come from outside Missouri. His corporate PAC pledge contains the loophole that makes it meaningless: he rejects corporate PACs but accepts PACs funded by corporate donors. His reform bill targets "business corporation" spending while exempting wealthy individual PAC spending, preserving the exact system that funds him. Every populist credential is funded by the class it claims to oppose. The populism is the brand. The donor class is the customer.
+
+---
+
 ## Analytical Patterns
 
 **The Pilot Program** — Hawley's SMART Act (Social Media Addiction Reduction Technology) is presented as a genuine anti-corporate technology regulation initiative. However, it functions as a "pilot program" that creates the appearance of Big Tech challenge without achieving legislative outcomes. The bill generates media coverage and small-donor fundraising spikes, but the actual policy mechanism is ineffectual—a demonstration project that allows Hawley to perform anti-corporate positioning while Koch/Leo networks maintain their judicial and deregulation investments in his Senate seat.
