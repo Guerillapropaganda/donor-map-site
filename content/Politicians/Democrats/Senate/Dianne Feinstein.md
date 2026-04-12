@@ -34,6 +34,8 @@ related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public A
 needs-reenrichment: true
 reenrich-reason: "run committee pipeline; re-run congress pipeline for bills count"
 internal-notes: "[CODE @ 2026-04-12] Pipeline: congress FAILED for Dianne Feinstein. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24318211380"
+checklist-na:
+  - "bills: From the Congress.gov API via the enrichment pipeline. "
 ---
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis
 
