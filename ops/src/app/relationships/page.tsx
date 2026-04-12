@@ -5,7 +5,7 @@ import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
 import {
   forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
-  select, zoom as d3Zoom, drag as d3Drag,
+  select, zoom as d3Zoom, zoomIdentity, drag as d3Drag,
   type Simulation, type SimulationNodeDatum, type SimulationLinkDatum,
 } from "d3"
 
@@ -383,11 +383,12 @@ export default function RelationshipsPage() {
     // SVG groups
     const g = svg.append("g").attr("class", "graph-root")
 
-    // Zoom
+    // Zoom — reset transform on rebuild to prevent stale zoom from hiding nodes
     const zoomBehavior = d3Zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.2, 5])
       .on("zoom", (event) => g.attr("transform", event.transform))
     svg.call(zoomBehavior)
+    svg.call(zoomBehavior.transform as any, zoomIdentity)
 
     // Links
     const linkGroup = g.append("g").attr("class", "links")
