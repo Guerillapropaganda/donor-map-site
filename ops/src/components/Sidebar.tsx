@@ -65,7 +65,7 @@ export function Sidebar() {
   // Close mobile sidebar on navigation
   useEffect(() => { setMobileOpen(false) }, [pathname])
 
-  // Poll status for badges
+  // Poll status for badges + refetch on window focus
   useEffect(() => {
     const fetchStatus = async () => {
       try {
@@ -75,7 +75,9 @@ export function Sidebar() {
     }
     fetchStatus()
     const interval = setInterval(fetchStatus, 60000)
-    return () => clearInterval(interval)
+    const onFocus = () => fetchStatus()
+    window.addEventListener("focus", onFocus)
+    return () => { clearInterval(interval); window.removeEventListener("focus", onFocus) }
   }, [])
 
   return (
@@ -159,7 +161,7 @@ export function Sidebar() {
                   : "text-[var(--color-text-dim)] hover:text-[var(--color-text)] hover:bg-[var(--color-bg-hover)]"
               }`}
             >
-              <svg width={16} height={16} className="flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5} style={{ minWidth: 16, minHeight: 16 }}>
+              <svg width={16} height={16} className="flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5} style={{ minWidth: 16, minHeight: 16 }} aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" d={ICONS[item.icon]} />
               </svg>
               <span className="flex-1">{item.label}</span>

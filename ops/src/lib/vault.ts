@@ -438,6 +438,8 @@ export function readinessColor(status: string): string {
 export function typeColor(type: string): string {
   switch (type) {
     case "politician": return "#5b8dce"
+    case "state-politician": return "#7ba8d9"
+    case "local-politician": return "#9bbde4"
     case "donor":
     case "corporation": return "#22c55e"
     case "think-tank": return "#a855f7"
@@ -446,6 +448,11 @@ export function typeColor(type: string): string {
     case "pac": return "#06b6d4"
     case "story": return "#ec4899"
     case "event": return "#8b5cf6"
+    case "sub-note": return "#94a3b8"
+    case "daily-update": return "#64748b"
+    case "reference":
+    case "index":
+    case "methodology": return "#475569"
     default: return "#6b7280"
   }
 }

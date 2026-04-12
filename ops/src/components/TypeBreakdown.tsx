@@ -5,6 +5,8 @@ import { typeColor } from "@/lib/vault"
 
 const TYPE_LABELS: Record<string, string> = {
   politician: "Politicians",
+  "state-politician": "State Politicians",
+  "local-politician": "Local Politicians",
   donor: "Donors",
   corporation: "Corporations",
   "think-tank": "Think Tanks",
