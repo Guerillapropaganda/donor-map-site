@@ -442,27 +442,42 @@ export default function RelationshipsPage() {
       .attr("pointer-events", "none")
       .text(d => d.name.length > 18 ? d.name.slice(0, 16) + "..." : d.name)
 
-    // Hover labels — hidden by default
+    // Always-visible labels — faint by default, bright on hover
     const labelEls = nodeEls.filter(d => d.id !== "__center__")
       .append("g")
-      .attr("class", "hover-label")
+      .attr("class", "node-label")
+      .attr("pointer-events", "none")
+      .attr("opacity", 0.35)
+
+    // Label text — always shown
+    labelEls.append("text")
+      .attr("text-anchor", "middle")
+      .attr("y", 16)
+      .attr("fill", d => d.bothSides ? "#ef4444" : REL_COLORS[d.relType])
+      .attr("font-size", "7px")
+      .attr("font-family", "ui-monospace, monospace")
+      .text(d => d.name.length > 20 ? d.name.slice(0, 18) + ".." : d.name)
+
+    // Hover tooltip — hidden by default (shows full name on hover)
+    const tooltipEls = nodeEls.filter(d => d.id !== "__center__")
+      .append("g")
+      .attr("class", "hover-tooltip")
       .attr("display", "none")
       .attr("pointer-events", "none")
 
-    // Label background rect
-    labelEls.append("rect")
+    tooltipEls.append("rect")
       .attr("rx", 3)
       .attr("fill", "var(--color-bg-card, #1e1e2e)")
       .attr("stroke", d => d.bothSides ? "#ef4444" : REL_COLORS[d.relType])
       .attr("stroke-width", 0.5)
       .attr("opacity", 0.95)
 
-    // Label text
-    labelEls.append("text")
+    tooltipEls.append("text")
       .attr("text-anchor", "middle")
-      .attr("dy", "0.35em")
+      .attr("dy", "-14")
       .attr("fill", "var(--color-text)")
-      .attr("font-size", "9px")
+      .attr("font-size", "10px")
+      .attr("font-weight", "bold")
       .attr("font-family", "ui-monospace, monospace")
       .text(d => d.name)
       .each(function () {
@@ -474,14 +489,15 @@ export default function RelationshipsPage() {
     // Hover interaction
     nodeEls.filter(d => d.id !== "__center__")
       .on("mouseenter", function (event, d) {
-        select(this).select(".hover-label").attr("display", null)
+        select(this).select(".node-label").attr("opacity", 1)
+        select(this).select(".hover-tooltip").attr("display", null)
         select(this).select("circle").attr("r", 10)
-        // Highlight connected link
         linkEls.attr("stroke-opacity", (l: any) => l.target.id === d.id ? 0.8 : 0.08)
         setHoveredNode(d.name)
       })
       .on("mouseleave", function () {
-        select(this).select(".hover-label").attr("display", "none")
+        select(this).select(".node-label").attr("opacity", 0.35)
+        select(this).select(".hover-tooltip").attr("display", "none")
         select(this).select("circle").attr("r", 7)
         linkEls.attr("stroke-opacity", (d: any) => d.target.bothSides ? 0.8 : 0.2)
         setHoveredNode(null)
