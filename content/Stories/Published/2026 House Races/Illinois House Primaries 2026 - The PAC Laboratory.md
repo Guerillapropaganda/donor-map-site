@@ -14,8 +14,6 @@ related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Re
 
 tags: #analysis #story
 
-donors:: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy Project - UDP]] [[Think Big AI PAC]] [[Fairshake PAC]]
-
 ---
 
 ### ILLINOIS HOUSE PRIMARIES 2026: THE PAC LABORATORY

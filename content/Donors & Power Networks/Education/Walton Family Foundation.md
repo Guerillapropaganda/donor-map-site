@@ -112,8 +112,6 @@ Education — charter schools, teacher accountability, school choice, billionair
 - [Network for Public Education: Walton charter funding tracking](https://networkforpubliceducation.org/?s=Walton%20Family%20Foundation) (Tier 2)
 - [The Guardian: Walton family education philanthropy](https://www.theguardian.com/us-news/2014/mar/25/walton-family-foundation-charter-schools) (Tier 2)
 
-research-status:: ready — $200-250B family net worth, $1B+ charter funding nationally, KIPP/Alliance/Green Dot/CCSA recipients, Walmart labor-charter parallel, Republican money in Democratic education. 4 sources, Tier 1-2. All ### headers. Promoted Session 38l.
-
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
 | Field | Value |

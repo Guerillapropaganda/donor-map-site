@@ -14,8 +14,6 @@ related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 20
 
 tags: #analysis #story
 
-donors:: [[AIPAC - American Israel Public Affairs Committee]] [[United Democracy Project - UDP]]
-
 ---
 
 ### [[AIPAC - American Israel Public Affairs Committee|AIPAC]] ILLINOIS SHELL PAC OPERATION

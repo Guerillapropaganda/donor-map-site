@@ -188,7 +188,6 @@ This is the key analytical section for Koum. His pattern exemplifies how tech fo
 
 ---
 
-research-status:: ready
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

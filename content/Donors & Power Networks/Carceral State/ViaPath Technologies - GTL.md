@@ -70,8 +70,6 @@ The duopoly itself is the class analysis. Two private equity-owned companies con
 - [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3)
 - [Prison Policy Initiative: Telecom provider analysis](https://www.prisonpolicy.org/phones/state_of_phone_justice.html) (Tier 2)
 
-research-status:: ready — 37% prison telecom market, GTL rebrand 2022, American Securities $1B purchase, duopoly with Securus (80-90% combined), $50K federal lobbying, $3M consumer protection fine, commission model analysis. 5 sources, Tier 1-3. All ### headers. Promoted Session 38l.
-
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
 | Metric | Value |

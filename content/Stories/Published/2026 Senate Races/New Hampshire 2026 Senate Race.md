@@ -18,8 +18,6 @@ related: "[[General Dynamics]]"
 
 tags: #analysis #story
 
-donors:: [[Pharmaceutical Industry Bloc]] General Dynamics Portsmouth [[National Republican Senatorial Committee]] [[Democratic Senatorial Campaign Committee]] Women's Political Action Networks
-
 ---
 
 ### NEW HAMPSHIRE 2026 SENATE RACE

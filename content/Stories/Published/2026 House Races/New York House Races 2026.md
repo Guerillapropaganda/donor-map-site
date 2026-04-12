@@ -11,8 +11,6 @@ related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs 
 
 tags: #analysis #story
 
-donors:: [[Fairshake PAC]]
-
 ---
 
 ### NEW YORK HOUSE RACES 2026

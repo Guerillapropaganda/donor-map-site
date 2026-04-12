@@ -82,4 +82,3 @@ Trump's flip-flopping on the war is the key tell. He publicly mused about "windi
 - CUFI PAC contributions and lobbying expenditures
 - Complete evangelical donor network mapping (Hagee, Robertson legacy, etc.)
 
-research-status:: Adelson donations from FEC and OpenSecrets. AIPAC spending from OpenSecrets. Defense contractor contributions from OpenSecrets. Kushner Saudi deal from NYT investigation. Saudi arms deal from State Department. Evangelical base from CUFI public reporting. Remaining. Individual FEC drill down per entity and Kushner financial disclosure needed.

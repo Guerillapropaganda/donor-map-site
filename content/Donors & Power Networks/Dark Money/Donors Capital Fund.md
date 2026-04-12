@@ -146,8 +146,6 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 
 ---
 
-research-status:: draft — Core financial profile and grant distribution documented. Gaps: complete donor list (shielded by DAF structure), full recipient list beyond top-line, detailed temporal mapping of grants to policy outcomes, IRS 990 deep-dive for historical grant patterns. ProPublica 990 data and CMD investigative reporting are the strongest available sources.
-
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
 | Metric | Value |

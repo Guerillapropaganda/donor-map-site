@@ -16,8 +16,6 @@ related: "[[_Mitch McConnell Master Profile|McConnell]]"
 
 tags: #analysis #story
 
-donors:: Churchill Downs · Alliance Resource Partners · Tamara Gustavson · Elon Musk · Keep America Great PAC · Fight for Kentucky PAC
-
 ---
 
 ### KENTUCKY 2026 SENATE RACE

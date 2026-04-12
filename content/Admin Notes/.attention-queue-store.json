@@ -354,253 +354,13 @@
   "voice-drift-detector": [
     {
       "bucket": "blocking",
-      "what": "Colorado 2026 Senate Race: voice rule violations",
-      "why": "Ready profile contains 10 em dashes in body, avg sentence length 17 words (target ~29), hedging language usage 1.0/100 words (target < 0.0). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2026 Senate Races/Colorado 2026 Senate Race.md",
+      "what": "Judicial Crisis Network: voice rule violations",
+      "why": "Ready profile contains 5 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Dark Money/Judicial Crisis Network.md",
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "10 em dashes in body"
-        ],
-        "drift": 2
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "American Petroleum Institute: voice rule violations",
-      "why": "Ready profile contains 25 em dashes in body, avg sentence length 42 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Energy & Utilities/American Petroleum Institute.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "25 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "AFGE - American Federation of Government Employees: voice rule violations",
-      "why": "Ready profile contains 2 em dashes in body, avg sentence length 61 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Labor Unions/AFGE - American Federation of Government Employees.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "2 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "AFSCME - American Federation of State County and Municipal Employees: voice rule violations",
-      "why": "Ready profile contains 10 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Labor Unions/AFSCME - American Federation of State County and Municipal Employees.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "10 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "IBEW - International Brotherhood of Electrical Workers: voice rule violations",
-      "why": "Ready profile contains 14 em dashes in body, avg sentence length 16 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Labor Unions/IBEW - International Brotherhood of Electrical Workers.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "14 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "SEIU - Service Employees International Union: voice rule violations",
-      "why": "Ready profile contains 20 em dashes in body, avg sentence length 13 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Labor Unions/SEIU - Service Employees International Union.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "20 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "UNITE HERE: voice rule violations",
-      "why": "Ready profile contains 14 em dashes in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Labor Unions/UNITE HERE.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "14 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Fraternal Order of Police: voice rule violations",
-      "why": "Ready profile contains 4 em dashes in body, passive voice 1.4/100 words (target < 0.2). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Law Enforcement/Fraternal Order of Police.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "4 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Harlan Crow: voice rule violations",
-      "why": "Ready profile contains 10 em dashes in body, avg sentence length 18 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Harlan Crow.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "10 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Kenneth Griffin: voice rule violations",
-      "why": "Ready profile contains 25 em dashes in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Kenneth Griffin.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "25 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Patrick Soon-Shiong: voice rule violations",
-      "why": "Ready profile contains 26 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Patrick Soon-Shiong.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "26 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Paul Singer: voice rule violations",
-      "why": "Ready profile contains 11 em dashes in body, avg sentence length 18 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Paul Singer.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "11 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Rebekah Mercer: voice rule violations",
-      "why": "Ready profile contains 4 em dashes in body, avg sentence length 13 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Rebekah Mercer.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "4 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Robert Mercer: voice rule violations",
-      "why": "Ready profile contains 17 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Mega-Donors/Robert Mercer.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "17 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Oracle: voice rule violations",
-      "why": "Ready profile contains 3 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Donors & Power Networks/Tech & Crypto/Oracle.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "3 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "DCCC Red-to-Blue Targets 2026: voice rule violations",
-      "why": "Ready profile contains 5 em dashes in body, avg sentence length 13 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2026 House Races/DCCC Red-to-Blue Targets 2026.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-12",
       "metadata": {
         "hardFails": [
           "5 em dashes in body"
@@ -610,210 +370,384 @@
     },
     {
       "bucket": "blocking",
-      "what": "Illinois House Primaries 2026 - The PAC Laboratory: voice rule violations",
-      "why": "Ready profile contains 12 em dashes in body, avg sentence length 16 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2026 House Races/Illinois House Primaries 2026 - The PAC Laboratory.md",
+      "what": "SEIU - Service Employees International Union: voice rule violations",
+      "why": "Ready profile contains 2 em dashes in body, avg sentence length 13 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Labor Unions/SEIU - Service Employees International Union.md",
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-12",
       "metadata": {
         "hardFails": [
-          "12 em dashes in body"
+          "2 em dashes in body"
         ],
         "drift": 1
       }
     },
     {
       "bucket": "blocking",
-      "what": "Minnesota 2026 Senate Race: voice rule violations",
-      "why": "Ready profile contains 9 em dashes in body, avg sentence length 13 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2026 Senate Races/Minnesota 2026 Senate Race.md",
+      "what": "Elon Musk: voice rule violations",
+      "why": "Ready profile contains 5 em dashes in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Elon Musk.md",
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-12",
       "metadata": {
         "hardFails": [
-          "9 em dashes in body"
+          "5 em dashes in body"
         ],
         "drift": 1
       }
     },
     {
       "bucket": "blocking",
-      "what": "Ohio 2026 Special Senate Election: voice rule violations",
-      "why": "Ready profile contains 29 em dashes in body, avg sentence length 53 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2026 Senate Races/Ohio 2026 Special Senate Election.md",
+      "what": "Paul Singer: voice rule violations",
+      "why": "Ready profile contains 4 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Paul Singer.md",
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-12",
       "metadata": {
         "hardFails": [
-          "29 em dashes in body"
+          "4 em dashes in body"
         ],
         "drift": 1
       }
     },
     {
       "bucket": "blocking",
-      "what": "Texas 2026 Senate Race: voice rule violations",
-      "why": "Ready profile contains 3 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2026 Senate Races/Texas 2026 Senate Race.md",
+      "what": "ADM - Archer Daniels Midland: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Agriculture/ADM - Archer Daniels Midland.md",
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "3 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Virginia 2026 Senate Race: voice rule violations",
-      "why": "Ready profile contains 14 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2026 Senate Races/Virginia 2026 Senate Race.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "14 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "2028 Presidential Landscape: voice rule violations",
-      "why": "Ready profile contains 9 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2028 Presidential Race/2028 Presidential Landscape.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "9 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Adelson 250M Republican Kingmaker Pledge: voice rule violations",
-      "why": "Ready profile contains 7 em dashes in body, hedging language usage 0.6/100 words (target < 0.0). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/2028 Presidential Race/Adelson 250M Republican Kingmaker Pledge.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "7 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Goldman Sachs Funds Both Sides of Financial Regulation: voice rule violations",
-      "why": "Ready profile contains 20 em dashes in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 01 - Goldman Sachs Funds Both Sides of Financial Regulation.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "20 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else: voice rule violations",
-      "why": "Ready profile contains 8 em dashes in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 02 - AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "8 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Lockheed Martin Buys Defense Hawks in Both Parties: voice rule violations",
-      "why": "Ready profile contains 17 em dashes in body, avg sentence length 14 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 04 - Lockheed Martin Buys Defense Hawks in Both Parties.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
-      "metadata": {
-        "hardFails": [
-          "17 em dashes in body"
-        ],
-        "drift": 1
-      }
-    },
-    {
-      "bucket": "blocking",
-      "what": "Kenneth Griffin Hedges the Republican Primary: voice rule violations",
-      "why": "Ready profile contains 1 em dash in body, avg sentence length 15 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 05 - Kenneth Griffin Hedges the Republican Primary.md",
-      "cost_min": 3,
-      "leverage": 5,
-      "source": "voice-drift-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-12",
       "metadata": {
         "hardFails": [
           "1 em dash in body"
         ],
-        "drift": 1
+        "drift": 0
       }
     },
     {
       "bucket": "blocking",
-      "what": "Crypto Industry Buys Both Parties in One Cycle: voice rule violations",
-      "why": "Ready profile contains 13 em dashes in body, avg sentence length 16 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 06 - Crypto Industry Buys Both Parties in One Cycle.md",
+      "what": "American Farm Bureau Federation: voice rule violations",
+      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md",
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-12",
       "metadata": {
         "hardFails": [
-          "13 em dashes in body"
+          "2 em dashes in body"
         ],
-        "drift": 1
+        "drift": 0
       }
     },
     {
       "bucket": "blocking",
-      "what": "Schwarzman and Singer Fund Every Republican Faction: voice rule violations",
-      "why": "Ready profile contains 11 em dashes in body, avg sentence length 17 words (target ~29). These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
-      "where": "content/Stories/Published/Contradiction Deep Dives/Contradiction 07 - Schwarzman and Singer Fund Every Republican Faction.md",
+      "what": "GEO Group - Private Prison Industrial Complex: voice rule violations",
+      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Carceral State/GEO Group.md",
       "cost_min": 3,
       "leverage": 5,
       "source": "voice-drift-detector",
-      "created": "2026-04-11",
+      "created": "2026-04-12",
       "metadata": {
         "hardFails": [
-          "11 em dashes in body"
+          "2 em dashes in body"
         ],
-        "drift": 1
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "BAE Systems: voice rule violations",
+      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/BAE Systems.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "2 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Raytheon (RTX Corporation): voice rule violations",
+      "why": "Ready profile contains 21 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "21 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "ConocoPhillips: voice rule violations",
+      "why": "Ready profile contains 4 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/ConocoPhillips.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "4 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Devon Energy: voice rule violations",
+      "why": "Ready profile contains 5 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Energy & Utilities/Devon Energy.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "5 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Blue Shield of California: voice rule violations",
+      "why": "Ready profile contains 10 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Healthcare/Blue Shield of California.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "10 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "California Nurses Association: voice rule violations",
+      "why": "Ready profile contains 7 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Labor Unions/California Nurses Association.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "7 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "National Nurses United: voice rule violations",
+      "why": "Ready profile contains 6 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Labor Unions/National Nurses United.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "6 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Telecom Industry: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Media & Entertainment/Telecom Industry.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Everytown for Gun Safety: voice rule violations",
+      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Mega-Donors/Everytown for Gun Safety.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "2 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "MasTec - Mas Canosa Family: voice rule violations",
+      "why": "Ready profile contains 3 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Real Estate/MasTec - Mas Canosa Family.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "3 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "National Restaurant Association: voice rule violations",
+      "why": "Ready profile contains 7 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Restaurant & Food/National Restaurant Association.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "7 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Amazon: voice rule violations",
+      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Amazon.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "2 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Apple: voice rule violations",
+      "why": "Ready profile contains 2 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Apple.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "2 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Microsoft: voice rule violations",
+      "why": "Ready profile contains 1 em dash in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Tech & Crypto/Microsoft.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "1 em dash in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Blackstone Group: voice rule violations",
+      "why": "Ready profile contains 8 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Wall Street/Blackstone Group.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "8 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "Citigroup: voice rule violations",
+      "why": "Ready profile contains 4 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Wall Street/Citigroup.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "4 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "blocking",
+      "what": "JPMorgan Chase: voice rule violations",
+      "why": "Ready profile contains 5 em dashes in body. These hard rules block ship — em dashes and AI vocabulary must be removed before this profile renders on the public site.",
+      "where": "content/Donors & Power Networks/Wall Street/JPMorgan.md",
+      "cost_min": 3,
+      "leverage": 5,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [
+          "5 em dashes in body"
+        ],
+        "drift": 0
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Colorado 2026 Senate Race: voice drift from baseline",
+      "why": "Profile body drifted from your baseline voice on 2 dimensions: avg sentence length 17 words (target ~29), hedging language usage 1.0/100 words (target < 0.0). Review the rewrite history and realign if appropriate.",
+      "where": "content/Stories/Published/2026 Senate Races/Colorado 2026 Senate Race.md",
+      "cost_min": 8,
+      "leverage": 3,
+      "source": "voice-drift-detector",
+      "created": "2026-04-12",
+      "metadata": {
+        "hardFails": [],
+        "drift": 2
       }
     }
   ],

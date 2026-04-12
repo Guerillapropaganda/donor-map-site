@@ -11,8 +11,6 @@ related: "[[_Ashley Hinson Master Profile|Ashley Hinson]]"
 
 tags: #republican
 
-donors:: Agriculture Industry PACs Ethanol Producers Association Farm Bureau PACs
-
 ---
 
 ### E15 Ethanol and Agricultural Subsidy Advocacy

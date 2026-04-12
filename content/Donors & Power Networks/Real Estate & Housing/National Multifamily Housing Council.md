@@ -125,8 +125,6 @@ NMHC represents the apartment industry's ownership class — the developers, REI
 
 ---
 
-research-status:: draft — Financial profile, PAC contributions, lobbying data, and RealPage litigation position documented. Gaps: detailed PAC recipient list by candidate, specific policy outcomes tied to lobbying, historical contribution trends, RealPage amicus brief content, member company list with financial profiles. OpenSecrets PAC data and NMHC newsroom available for deeper analysis.
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

@@ -211,4 +211,3 @@ The dark money layer (Leo, JCN, Donors Trust, Marble Freedom Trust) makes much o
 
 ---
 
-research-status:: Major donor sectors mapped with documented spending and policy returns. Individual FEC filings need deeper per donor documentation. Dark money totals estimated from ProPublica, CREW, and OpenSecrets reporting. Defense contractor spending from OpenSecrets. Pharma spending from OpenSecrets and lobbying disclosures. Some amounts are cycle level estimates pending itemized verification.

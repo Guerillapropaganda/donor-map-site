@@ -74,9 +74,6 @@ The California locals vary politically by region. Bay Area locals operate in a s
 - [California Secretary of State: FPPC filings and PAC data](https://www.sos.ca.gov/campaign-lobbying/cal-access-portal) (Tier 1)
 - [California Department of Industrial Relations: Prevailing wage](https://www.dir.ca.gov/dls/prevailing-wage.html) (Tier 1)
 
-research-status:: ready — Promoted Session 39. — Local 1245/PG&E relationship documented, SB 410 win documented, SB 984 loss documented. Full Cal-Access pull needed for aggregate California IBEW PAC spending across all locals. Individual local membership numbers not yet compiled.
-
-
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
 | Metric | Value |

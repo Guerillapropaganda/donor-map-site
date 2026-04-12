@@ -155,8 +155,6 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 
 ---
 
-research-status:: draft — Financial profile, PAC contributions, and lobbying data documented. Gaps: detailed lobbying issue breakdown, specific policy outcomes tied to contributions, historical contribution trends, pipeline safety/environmental record, connections to specific permitting legislation. FEC API and Senate LDA available for deeper analysis.
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

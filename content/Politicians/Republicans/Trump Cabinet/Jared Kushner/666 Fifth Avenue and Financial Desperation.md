@@ -60,5 +60,3 @@ The $1.8 billion bet → financial desperation → government position → bailo
 - [Just Security: Complete timeline on Kushner, Qatar, 666 Fifth Avenue](https://www.justsecurity.org/?q=666%20Fifth%20Avenue%20and%20Financial%20Desperation) (Tier 2)
 - [Congressional Democrats: Investigation into Qatar blockade and bailout connection](https://democrats.house.gov/?q=666%20Fifth%20Avenue%20and%20Financial%20Desperation) (Tier 1)
 
-research-status:: ready — Full citation pass complete. $1.8B purchase (2007 peak), collapse below $1.4B mortgage, Brookfield $1.2B bailout (QIA second-largest investor), Qatar blockade timeline, structural conflict of interest. 4 sources Tier 1-2 with URLs. All ### headers. Promoted Session 39.
-

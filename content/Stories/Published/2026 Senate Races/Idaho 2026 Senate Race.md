@@ -16,8 +16,6 @@ related: "[[2026 Senate Races]] · [[Jim Risch]] · [[Republican Primary Dynamic
 
 tags: #analysis #story
 
-donors:: Energy, Agribusiness, Securities/Investment
-
 ---
 
 ## The Race

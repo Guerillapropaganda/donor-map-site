@@ -3679,8 +3679,6 @@ Key link categories added:
 
 ---
 
-research-status:: active
-
 ---
 
 ### Session 7 — March 21, 2026
@@ -4889,8 +4887,6 @@ Juliana Stratton, Michael Whatley, and Roy Cooper all have existing master profi
 5. **Sub-note quality expansion continuation** — Trump, Bianco, and other master profiles' sub-notes next for similar treatment
 
 ---
-
-research-status:: active
 
 ---
 

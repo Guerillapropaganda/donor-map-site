@@ -120,7 +120,5 @@ The companies whose government contracts were maintained or expanded while their
 - [CNBC. Palantir lands $10 billion Army software and data contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
 - [Government Accountability Office. Indian Affairs Information on 2025 Workforce Reductions](https://www.gao.gov/assets/gao-26-108673.pdf) (Tier 1)
 
-research-status:: Musk contract totals from Fox Business and OpenSecrets. Palantir from USASpending.gov. Koch network from investigative reporting. Federal spending increase from CBO. Remaining. Specific contractor growth figures for Deloitte, Booz Allen Hamilton, Accenture, McKinsey during DOGE period. USAID function outsourcing documentation. Per-unit cost comparison federal employees vs contractors.
-
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

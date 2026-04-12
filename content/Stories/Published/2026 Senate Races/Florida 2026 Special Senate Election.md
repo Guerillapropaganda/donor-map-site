@@ -16,8 +16,6 @@ related: "[[_Ron DeSantis Master Profile|Ron DeSantis]]"
 
 tags: #analysis #story
 
-donors:: Sugar Industry of Florida DeSantis Donor Network [[National Republican Senatorial Committee]] Republican Main Street Partnership Real Estate Council of Florida Homeowners Insurance PACs
-
 ---
 
 ### FLORIDA 2026 SPECIAL SENATE ELECTION

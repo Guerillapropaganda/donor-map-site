@@ -152,8 +152,6 @@ For IBEW members: The Teamsters' rank-and-file politics mirror the building trad
 - [NPR: 2024 Teamsters non-endorsement](https://www.npr.org/2024/11/06/nx-s1-5182290/2024-election-results-where-things-stand) (Tier 2)
 - [Ballotpedia: Proposition 22 spending data](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1)
 
-research-status:: ready
-
 ---
 
 ### March 2026 Update — Major Contract Expirations

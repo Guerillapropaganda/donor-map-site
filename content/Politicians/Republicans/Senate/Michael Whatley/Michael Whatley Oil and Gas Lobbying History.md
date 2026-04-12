@@ -10,8 +10,6 @@ related: "[[Michael Whatley RNC Authority to Senate Campaign Conversion]] · [[_
 #politician #republican #energy-policy #oil-gas #lobbying #revolving-door #north-carolina
 tags: #republican
 
-donors:: BP [[Chevron]] Exxon Mobil Shell Statoil [[Consumer Energy Alliance]] [[HBW Resources]]
-
 ---
 
 ### [[_Michael Whatley Master Profile|Michael Whatley]]'s 15-Year Oil and Gas Lobbying Career

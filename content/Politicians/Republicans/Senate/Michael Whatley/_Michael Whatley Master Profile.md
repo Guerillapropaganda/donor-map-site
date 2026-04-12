@@ -26,7 +26,6 @@ related: "[[North Carolina 2026 Senate Race]] · [[Michael Whatley Oil and Gas L
 #politician #republican #senate #north-carolina #2026-candidate #oil-lobbyist #trump-aligned
 tags: #republican
 
-donors:: [[Consumer Energy Alliance]] [[HBW Resources]] Republican National Committee NRSC [[Susan B. Anthony Pro-Life America PAC]] Trump Endorsement Network · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[SLF PAC]]
 ---
 
 ## Who They Are

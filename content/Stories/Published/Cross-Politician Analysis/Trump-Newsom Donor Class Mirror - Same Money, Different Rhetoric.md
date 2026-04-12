@@ -112,4 +112,3 @@ Trump sub-notes. [[The ACA Repeal That Never Came and the Pharma Donors Who Paid
 
 Newsom sub-notes. [[Prescription Drug Pricing - PBM Veto Cycle]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Post-October 7 Positions and Flip History]] · [[3.5 Million Units - Broken Promise]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[Private Detention - AB 32]]
 
-research-status:: Cross analysis complete using existing vault sub-notes. Both-sides patterns documented across 6 sectors. Individual dollar amounts and policy timelines sourced from constituent notes. New donor bloc nodes (PBM Industry, Gig Economy, Agricultural Labor) identified as needed for full graph connectivity.

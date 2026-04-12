@@ -10,8 +10,6 @@ related: "[[_Michael Whatley Master Profile|Michael Whatley]] · [[Michael Whatl
 #politician #republican #rnc #conflict-of-interest #senate #donor-machine #2026-candidate
 tags: #republican
 
-donors:: Republican National Committee NRSC Trump Personal Network [[Susan B. Anthony Pro-Life America PAC]]
-
 ---
 
 ### Whatley's RNC Authority Deployment for Personal Senate Candidacy

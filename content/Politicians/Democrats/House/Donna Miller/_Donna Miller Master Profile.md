@@ -156,8 +156,6 @@ office:: House
 state:: IL
 party:: Democrat
 
-research-status:: active
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

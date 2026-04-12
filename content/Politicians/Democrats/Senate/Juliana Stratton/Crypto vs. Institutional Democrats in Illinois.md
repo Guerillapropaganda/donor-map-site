@@ -11,8 +11,6 @@ related: "[[Juliana Stratton]] · [[_Raja Krishnamoorthi Master Profile|Raja Kri
 
 tags: #democrat
 
-donors:: [[Fairshake PAC]] [[Coinbase]] [[Think Big AI PAC]] [[OpenAI]] [[Marc Andreessen & Horowitz|Marc Andreessen]] [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[Cryptocurrency Industry]]
-
 ### The Battle: Crypto Money vs. Machine Politics
 
 The March 17, 2026 Illinois Democratic primary was a stress test of crypto industry political power versus traditional Democratic machine politics. **Result**: Machine politics won decisively.

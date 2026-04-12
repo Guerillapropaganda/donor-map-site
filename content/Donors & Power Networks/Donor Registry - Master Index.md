@@ -181,4 +181,3 @@ Central index of every donor, PAC, dark money group, and industry bloc tracked i
 
 ---
 
-research-status:: active

@@ -149,5 +149,3 @@ office:: House
 state:: NY
 party:: Republican
 
-research-status:: active
-

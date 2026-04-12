@@ -76,5 +76,3 @@ The split illustrates the donor class's internal tensions: both Simons and Merce
 - [Wikipedia: Renaissance Technologies](https://en.wikipedia.org/wiki/Renaissance_Technologies) (Tier 3)
 - [NPR: Robert Mercer steps down from Renaissance](https://www.npr.org/2017/05/26/530181660/robert-mercer-is-a-force-to-be-reckoned-with-in-finance-and-conservative-politic) (Tier 2)
 
-research-status:: ready — $66B+ Medallion profits, $6.8B tax avoided, $7B IRS settlement, basket options mechanism, Simons split. 4 sources, Tier 1-3. All ### headers. Promoted Session 38m.
-

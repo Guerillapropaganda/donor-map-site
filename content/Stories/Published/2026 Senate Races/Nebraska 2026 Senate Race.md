@@ -13,8 +13,6 @@ related: "[[_Dan Osborn Master Profile]] · [[Senate Majority PAC]] · [[Republi
 
 tags: #analysis #story
 
-donors:: [[Republican Party Apparatus]] Senate Majority PAC - Democratic Dark Money
-
 ---
 
 ### NEBRASKA 2026 SENATE RACE
@@ -53,4 +51,3 @@ Dark money networks:
 
 ---
 
-research-status:: active

@@ -11,8 +11,6 @@ related: "[[DCCC Red-to-Blue Targets 2026]] · [[2026 House Money Map]] · [[Con
 
 tags: #analysis #story
 
-donors:: [[Congressional Leadership Fund|CLF]] [[MAGA Inc]] [[Americans for Prosperity|AFP]] Senate Leadership Fund - SLF
-
 ---
 
 ### GOP HOUSE DEFENSE 2026

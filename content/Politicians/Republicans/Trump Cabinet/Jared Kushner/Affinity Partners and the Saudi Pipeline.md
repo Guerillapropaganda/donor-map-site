@@ -76,5 +76,3 @@ Senator Ron Wyden's investigation found evidence that Kushner "acted as an unreg
 
 - [Senate Finance Committee: Wyden investigation, fee projections, "foreign agent" finding](https://www.finance.senate.gov/chairmans-news) (Tier 1)
 
-research-status:: ready — Full citation pass complete. Affinity Partners incorporated Jan 21 2021 (one day after leaving WH), PIF $2B anchor (advisory board overruled), $157M fees ($87M from Saudi), $4.8B AUM, EA $55B LBO consortium, Wyden "unregistered foreign agent" finding, broken pledge on foreign fundraising. 6 sources Tier 1-3 with URLs. All ### headers. Promoted Session 39.
-
