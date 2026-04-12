@@ -85,6 +85,30 @@ function httpRequest(url, opts = {}) {
   });
 }
 
+// ─── Crypto detection ─────────────────────────────────────────
+
+// Crypto ETFs and crypto-company stocks — these have normal tickers
+// but represent crypto exposure
+const CRYPTO_TICKERS = new Set([
+  // Direct crypto ETFs
+  'GBTC', 'ETHE', 'BITO', 'BITX', 'ARKB', 'IBIT', 'FBTC', 'HODL',
+  'BTCO', 'EZBC', 'DEFI', 'BITW', 'BRRR', 'BTCW', 'ETHV', 'CETH',
+  // Crypto companies
+  'COIN', 'MARA', 'RIOT', 'MSTR', 'HUT', 'BITF', 'CLSK', 'CIFR',
+  'IREN', 'CORZ', 'BTBT', 'ARBK', 'SATO', 'WULF', 'DGHI',
+  // Crypto-adjacent / blockchain
+  'SQ', 'PYPL', 'SI', 'HOOD',
+]);
+
+// Keywords that indicate a crypto asset in PDF text (no ticker)
+const CRYPTO_ASSET_KEYWORDS = /\b(bitcoin|ethereum|crypto|cryptocurrency|digital\s*asset|digital\s*currency|virtual\s*currency|blockchain|solana|cardano|dogecoin|ripple|xrp|bnb|polkadot|avalanche|chainlink|litecoin|stellar|algorand)\b/i;
+
+function isCryptoTrade(ticker, assetDescription) {
+  if (ticker && CRYPTO_TICKERS.has(ticker.toUpperCase())) return true;
+  if (assetDescription && CRYPTO_ASSET_KEYWORDS.test(assetDescription)) return true;
+  return false;
+}
+
 // ─── Amount parser ─────────────────────────────────────────────
 
 function parseAmountRange(text) {
@@ -125,13 +149,32 @@ async function parseHousePdf(pdfBuffer) {
       const chunk = text.slice(chunkStart, amt.end);
 
       const tickerMatch = chunk.match(/\(([A-Z][A-Z0-9.]{0,5})\)\s*\[/);
-      const ticker = tickerMatch ? tickerMatch[1] : null;
+      let ticker = tickerMatch ? tickerMatch[1] : null;
 
       let assetDesc = '';
       if (tickerMatch) {
         const beforeTicker = chunk.slice(0, chunk.lastIndexOf('(' + ticker + ')'));
         const descLines = beforeTicker.split(/\n/).map(l => l.trim()).filter(l => l.length > 3);
         assetDesc = descLines.slice(-2).join(' ').replace(/^.*?([\w])/, '$1').slice(0, 150);
+      }
+
+      // If no ticker found, check for crypto keywords in the chunk
+      if (!ticker && CRYPTO_ASSET_KEYWORDS.test(chunk)) {
+        const cryptoMatch = chunk.match(CRYPTO_ASSET_KEYWORDS);
+        const keyword = cryptoMatch ? cryptoMatch[1].toLowerCase() : 'crypto';
+        // Map common crypto names to pseudo-tickers
+        const cryptoMap = {
+          'bitcoin': 'BTC', 'ethereum': 'ETH', 'solana': 'SOL',
+          'cardano': 'ADA', 'dogecoin': 'DOGE', 'ripple': 'XRP',
+          'xrp': 'XRP', 'litecoin': 'LTC', 'stellar': 'XLM',
+          'polkadot': 'DOT', 'avalanche': 'AVAX', 'chainlink': 'LINK',
+          'bnb': 'BNB', 'algorand': 'ALGO',
+        };
+        ticker = cryptoMap[keyword] || 'CRYPTO';
+        if (!assetDesc) {
+          const descLines = chunk.split(/\n/).map(l => l.trim()).filter(l => l.length > 3 && !l.match(/^\d{2}\/\d{2}/));
+          assetDesc = descLines.slice(-2).join(' ').replace(/^.*?([\w])/, '$1').slice(0, 150);
+        }
       }
 
       const dates = [];
@@ -159,12 +202,14 @@ async function parseHousePdf(pdfBuffer) {
 
       if (chunk.includes('IDOwnerAsset') || chunk.includes('Clerk of the House')) continue;
 
+      const crypto = isCryptoTrade(ticker, assetDesc || chunk);
       transactions.push({
         transactionDate: txDate,
         owner,
         ticker,
         assetDescription: assetDesc || (ticker ? ticker : 'Unknown Asset'),
-        assetType: 'Stock',
+        assetType: crypto ? 'Crypto' : 'Stock',
+        isCrypto: crypto,
         transactionType: txType,
         amount: parseAmountRange(amt.text),
         comment: '',
