@@ -1400,7 +1400,7 @@ export default function RelationshipsPage() {
                         const shared = sharedMap.get(name) || []
                         const targetProfile = profileMap.get(name)
                         return (
-                          <div key={name} className="flex items-center gap-2 p-2 bg-[var(--color-bg)] rounded hover:bg-[var(--color-bg-hover)] transition-colors group">
+                          <div key={`${rt}::${name}`} className="flex items-center gap-2 p-2 bg-[var(--color-bg)] rounded hover:bg-[var(--color-bg-hover)] transition-colors group">
                             <span className="w-2 h-2 rounded-full" style={{ backgroundColor: REL_COLORS[rt] }} />
                             <button onClick={() => { const norm = (s: string) => s.replace(/^_/, "").replace(/\s*Master Profile.*/, "").trim().toLowerCase(); const target = norm(name); const tp = topConnected.find((t) => norm(t.title) === target) || profiles.find((p) => norm(p.title) === target); if (tp) selectProfile(tp) }}
                               className="text-[11px] text-[var(--color-text)] hover:text-[var(--color-steel)] text-left flex-1">{name}</button>
