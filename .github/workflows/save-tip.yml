@@ -1,0 +1,106 @@
+name: Save Tip to Vault
+on:
+  repository_dispatch:
+    types: [new-tip]
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: 'Profile name'
+        required: true
+      profile_url:
+        description: 'Profile URL path'
+        required: false
+        default: ''
+      email:
+        description: 'Submitter email'
+        required: true
+      category:
+        description: 'Tip category'
+        required: false
+        default: 'other'
+      message:
+        description: 'Tip message'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  save-tip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: v4
+
+      - name: Write tip file and commit
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            // Support both repository_dispatch and workflow_dispatch
+            const isDispatch = context.eventName === 'repository_dispatch';
+            const payload = isDispatch
+              ? (context.payload.client_payload || {})
+              : (context.payload.inputs || {});
+
+            const profile = payload.profile || 'Unknown Profile';
+            const category = payload.category || 'other';
+            const message = payload.message || 'No message provided';
+            const email = payload.email || 'anonymous';
+            const profileUrl = payload.profile_url || '';
+            const now = new Date();
+            const timestamp = now.toISOString();
+            const dateStr = now.toISOString().slice(0, 10);
+
+            const categoryLabels = {
+              financial: 'Financial connection',
+              voting: 'Voting pattern',
+              source: 'Source / document',
+              correction: 'Correction',
+              other: 'Other'
+            };
+
+            // Generate unique filename
+            const slug = profile.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+            const id = now.getTime().toString(36);
+            const filename = `tip-${dateStr}-${slug}-${id}.md`;
+
+            const tipsDir = path.join('content', 'Admin Notes', 'Tips');
+            if (!fs.existsSync(tipsDir)) {
+              fs.mkdirSync(tipsDir, { recursive: true });
+            }
+
+            const lines = [
+              '---',
+              'title: "Tip: ' + profile + '"',
+              'type: tip',
+              'tip-category: "' + (categoryLabels[category] || category) + '"',
+              'profile: "' + profile + '"',
+              'profile-url: "' + profileUrl + '"',
+              'submitter-email: "' + email + '"',
+              'status: new',
+              'date: ' + timestamp,
+              '---',
+              '',
+              message,
+              ''
+            ].join('\n');
+
+            const filePath = path.join(tipsDir, filename);
+            fs.writeFileSync(filePath, lines, 'utf-8');
+            core.info('Tip file written: ' + filePath);
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "content/Admin Notes/Tips/"
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Add tip from site visitor
+
+          Co-Authored-By: GitHub Actions <github-actions[bot]@users.noreply.github.com>"
+          git push origin v4

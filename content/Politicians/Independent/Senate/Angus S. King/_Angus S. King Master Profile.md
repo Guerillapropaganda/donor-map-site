@@ -21,8 +21,34 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
+stock-trades: 8
 ---
 
 # Angus S. King
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 8 |
+| Purchases | 0 |
+| Sales | 0 |
+| Est. Value Range | $0 |
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 12/17/2013 | N/A | other | Unknown | N/A |
+| 11/18/2013 | N/A | other | Unknown | N/A |
+| 09/24/2013 | N/A | other | Unknown | N/A |
+| 08/26/2013 | N/A | other | Unknown | N/A |
+| 07/22/2013 | N/A | other | Unknown | N/A |
+| 06/25/2013 | N/A | other | Unknown | N/A |
+| 05/20/2013 | N/A | other | Unknown | N/A |
+| 03/07/2013 | N/A | other | Unknown | N/A |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

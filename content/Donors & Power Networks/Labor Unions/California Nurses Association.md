@@ -173,8 +173,8 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -190,13 +190,13 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 **Funded politicians:**
 
-- [[Gavin Newsom]] - lobbying: $10.4M
-- [[Jeff Merkley]] (Budget, Environment & Public Works) - lobbying: $10.4M
-- [[Sherrod Brown]] - lobbying: $10.4M
-- [[Barbara Lee]] - lobbying: $10.4M
-- [[Mike Lee]] (Antitrust (Judiciary)) - lobbying: $10.4M
-- [[Maxine Waters]] - lobbying: $10.4M
-- [[Eric Swalwell]] - lobbying: $10.4M
+- [[Gavin Newsom]] — lobbying: $10.4M
+- [[Jeff Merkley]] (Budget, Environment & Public Works) — lobbying: $10.4M
+- [[Sherrod Brown]] — lobbying: $10.4M
+- [[Barbara Lee]] — lobbying: $10.4M
+- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $10.4M
+- [[Maxine Waters]] — lobbying: $10.4M
+- [[Eric Swalwell]] — lobbying: $10.4M
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

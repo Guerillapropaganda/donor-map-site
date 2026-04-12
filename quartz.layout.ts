@@ -20,6 +20,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.WeeklySpotlight(),
     Component.IssueExplorer(),
     Component.MobileProfile(),
+    Component.TipForm(),
     Component.ArticleNav(),
     Component.MobileNav(),
     Component.AdminBar(),

@@ -22,8 +22,41 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-12"
+ofac-programs:
+  - "CUBA"
+  - "SDNT"
+  - "SDNTK"
+  - "VENEZUELA-EO13850"
+  - "SDGT] [ILLICIT-DRUGS-EO14059"
 ---
 
 # Monica de la Cruz
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 19 |
+| Sanctions Programs | CUBA, SDNT, SDNTK, VENEZUELA-EO13850, SDGT] [ILLICIT-DRUGS-EO14059 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- LA EMPRESA CUBANA DE FLETES (-0-) [CUBA]
+  - Remarks: -0-
+- LA COMPANIA GENERAL DE NIQUEL (-0-) [CUBA]
+  - Remarks: -0-
+- DISTRIBUIDORA DE ELEMENTOS PARA LA CONSTRUCCION S.A. (-0-) [SDNT]
+  - Remarks: NIT # 800117780-2 (Colombia).
+- FUNDACION PARA LA PAZ DE CORDOBA (-0-) [SDNTK]
+  - Remarks: NIT # 830054536-9 (Colombia).
+- INMOBILIARIA LA PROVINCIA S.A. DE C.V. (-0-) [SDNTK]
+  - Remarks: R.F.C. IPR-931014 (Mexico).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

@@ -47,6 +47,7 @@ import ProfileTabs from "./ProfileTabs"
 import NetworkGraph from "./NetworkGraph"
 import AdminBar from "./AdminBar"
 import CapitolTrades from "./CapitolTrades"
+import TipForm from "./TipForm"
 
 export {
   ArticleTitle,
@@ -98,4 +99,5 @@ export {
   NetworkGraph,
   AdminBar,
   CapitolTrades,
+  TipForm,
 }

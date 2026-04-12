@@ -21,8 +21,43 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
+stock-trades: 7
+stock-trade-tickers:
+  - "YUMC"
+  - "YUM"
+  - "VZ"
+  - "PEP"
+  - "JNJ"
+  - "GE"
+  - "T"
 ---
 
 # Chris van Hollen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+### Congressional Stock Trades (STOCK Act)
+<!-- auto:stock-trades start -->
+| Metric | Value |
+|--------|-------|
+| Total Trades | 7 |
+| Purchases | 0 |
+| Sales | 7 |
+| Est. Value Range | $35,007 – $175,000 |
+
+**Top tickers traded:** YUMC, YUM, VZ, PEP, JNJ, GE, T
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 02/17/2017 | YUMC | Sale | $1,001 - $15,000 | Self |
+| 02/17/2017 | YUM | Sale | $1,001 - $15,000 | Self |
+| 02/17/2017 | VZ | Sale | $1,001 - $15,000 | Self |
+| 02/17/2017 | PEP | Sale | $15,001 - $50,000 | Self |
+| 02/17/2017 | JNJ | Sale | $1,001 - $15,000 | Self |
+| 02/17/2017 | GE | Sale | $15,001 - $50,000 | Self |
+| 02/17/2017 | T | Sale | $1,001 - $15,000 | Self |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+<!-- auto:stock-trades end -->

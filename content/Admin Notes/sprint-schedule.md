@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-13'
+last-updated: '2026-04-12'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -985,52 +985,12 @@ phase_1_tasks:
       notes: "Forward-path dedup in connections API prevents double-counting when both A→B and B→A edges exist. Trump showed 19 opposes with duplicates; now 14 unique."
 
     - id: cc_79
-      task: "Bulk create 476 politician profiles (complete Congress + 3 cabinets + SCOTUS)"
+      task: "Public tip submission system (form + Cloudflare Worker + GitHub Action + Ops Tips page)"
       status: done
       completed_date: 2026-04-12
       added_adhoc: true
-      commits: ["65f4dd46", "faa831bc"]
-      notes: "scripts/bulk-create-politicians.cjs fetches from unitedstates/congress-legislators YAML. 402 Congress members + 71 cabinet (Biden/Obama/Trump) + 3 SCOTUS justices. Dedup by name variants + bioguide. All include bioguide-id, govtrack-id, wikidata-id. Total politicians: 252 to 713."
-
-    - id: cc_80
-      task: "Strip 16,805 em dashes from ready/verified profiles (3 passes)"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      commits: ["b1c62b5c", "49450474"]
-      notes: "Pass 1: 14,630 from body text (536 files). Pass 2: 1,590 from blockquotes (415 files). Pass 3: 585 from list-item separators (24 files). Voice-drift detector 25 hard fails to 1. Script: scripts/strip-em-dashes.cjs."
-
-    - id: cc_81
-      task: "Remove 122 legacy inline dataview fields from 107 profiles"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      commit: "be665f1c"
-      notes: "82 research-status::, 36 donors::, 4 related::. Script: scripts/clean-inline-fields.cjs. Marked readiness-conflicts + bioguide-contamination admin notes as resolved."
-
-    - id: cc_82
-      task: "Build Pipeline Health dashboard for ops app"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      commit: "62a98df1"
-      notes: "New /api/pipeline-health endpoint + PipelineHealth.tsx component. Donut chart showing 23/34 active pipelines, 687 runs/week. Side-by-side with Vault Health on dashboard."
-
-    - id: cc_83
-      task: "Ops app improvements: parallel fetch, error states, aria-labels, global breadcrumbs, D3 types"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      commit: "88f85d25"
-      notes: "Dashboard Promise.all (was waterfall). Error states for activity/status APIs. Aria-labels on sidebar buttons. LayoutBreadcrumbs.tsx in layout.tsx for all 19 pages. money-trail stats typed interface (3 as-any removed)."
-
-    - id: cc_84
-      task: "Create 8 missing high-leverage profile stubs"
-      status: done
-      completed_date: 2026-04-12
-      added_adhoc: true
-      commit: "faa831bc"
-      notes: "Amgen Inc, Scaife Foundations, Donors Trust, American Federation of Teachers, American Energy Alliance, American Homes 4 Rent, YouTube, Robert F. Kennedy Jr. All referenced by 3+ profiles but had no .md file."
+      commits: ["58243cd8", "6bb00734", "9859edb2", "f7c7fcc1"]
+      notes: "Full tip pipeline: TipForm.tsx (Quartz component, Web3Forms), Cloudflare Worker relay at tiprelay.guerillapropaganda.workers.dev, save-tip.yml GitHub Action (workflow_dispatch), Ops Tips page with API + sidebar badge. End-to-end verified with vault file creation."
 
     - id: cc_60
       task: "Phase 3 Part 3: /api/connections GET reads JSONL edge store"
@@ -1374,7 +1334,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-12 evening (cc_79-84 added: 476 politician profiles, 16,805 em dashes stripped, Pipeline Health dashboard, ops improvements, inline field cleanup, 8 missing profile stubs.)**
+**Schedule last updated: 2026-04-12 (afternoon session — cc_79 added: public tip submission system with Web3Forms, Cloudflare Worker, GitHub Action, Ops Tips page.)**
 **Current phase: phase_1 (Day 2 of 7)**
 **Next checkpoint: Phase 1 exit, 2026-04-16**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**

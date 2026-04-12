@@ -221,8 +221,8 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -232,11 +232,11 @@ The $1.6 billion Seid donation transformed the operation from campaign-cycle dep
 
 **Funded politicians:**
 
-- [[Neil Gorsuch]] - lobbying: $248K
-- [[Amy Coney Barrett]] - lobbying: $248K
-- [[Brett Kavanaugh]] - lobbying: $248K
-- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) - lobbying: $248K
-- [[Clarence Thomas]] - lobbying: $248K
+- [[Neil Gorsuch]] — lobbying: $248K
+- [[Amy Coney Barrett]] — lobbying: $248K
+- [[Brett Kavanaugh]] — lobbying: $248K
+- [[Sheldon Whitehouse]] (Environment & Public Works (Ranking Member, 119th Congress), Judiciary, Finance) — lobbying: $248K
+- [[Clarence Thomas]] — lobbying: $248K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

@@ -360,8 +360,8 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 <!-- auto:influence-cross-ref end -->
 
 <!-- auto:influence-cross-ref pending-merge 2026-04-12 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
@@ -376,10 +376,10 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 **Funded politicians:**
 
-- [[Donald Trump]] - lobbying: $4.5M - contracts: $623K
-- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) - lobbying: $4.5M - contracts: $623K
-- [[Susan Collins]] - lobbying: $4.5M - contracts: $623K
-- [[Mike Lee]] (Antitrust (Judiciary)) - lobbying: $4.5M - contracts: $623K
+- [[Donald Trump]] — lobbying: $4.5M — contracts: $623K
+- [[Chuck Schumer]] (Senate Committee on Rules and Administration, Senate Select Committee on Intelligence) — lobbying: $4.5M — contracts: $623K
+- [[Susan Collins]] — lobbying: $4.5M — contracts: $623K
+- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M — contracts: $623K
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 

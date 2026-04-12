@@ -172,6 +172,8 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 | Individual Contributions | $412,258 |
 | PAC Contributions | $326,250 |
 | Cash on Hand | 697967.61 |
+| IE Support (Super PAC) | $31,191 |
+| IE Opposition (Super PAC) | $50,926 |
 
 **Fundraising by cycle:**
 
@@ -182,6 +184,16 @@ Washington State's 9th District is defense contractor country: Boeing (Renton), 
 | 2022 | $1,386,776 | $601,760 | $727,000 |
 | 2020 | $1,327,196 | $523,669 | $776,312 |
 | 2018 | $1,415,994 | $562,795 | $809,946 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NARAL | $0 | $48,944 |
+| SUSAN B ANTHONY LIST INC | $0 | $39,906 |
+| TOGETHER FOR PROGRESS PAC | $7,797 | $0 |
+| PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 | $0 |
+| THE 60 PLUS ASSOCIATION | $0 | $6,122 |
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
 
