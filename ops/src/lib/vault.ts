@@ -425,7 +425,7 @@ export function extractUrls(content: string): { url: string; label: string; tier
 // Readiness color mapping
 export function readinessColor(status: string): string {
   switch (status) {
-    case "raw": return "#6b7280"      // grey — D-F
+    case "raw": return "#ef4444"      // red — D-F (matches vault health donut)
     case "draft": return "#f59e0b"    // amber — C
     case "ready": return "#10b981"    // green — B
     case "verified": return "#fbbf24" // gold — A+ (investigative standard)
