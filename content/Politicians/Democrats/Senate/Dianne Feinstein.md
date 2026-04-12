@@ -124,13 +124,13 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 ### Sources
 
-- [CBS News: Dianne Feinstein Net Worth at Death](https://www.cbsnews.com/news/dianne-feinstein-net-worth-richard-blum-children/) (Tier 2)
-- [FoundSF: Richard C. Blum and Dianne Feinstein — The Power Couple of California](https://www.foundsf.org/Main_Page?title=Richard_C._Blum_and_Dianne_Feinstein:_The_Power_Couple_of_California) (Tier 3)
-- [Mercury News: Feinstein Under Fire Over Defense Ties](https://www.mercurynews.com/2007/04/14/feinstein-under-fire-over-defense-ties/) (Tier 2)
-- [Wikipedia: Richard C. Blum](https://en.wikipedia.org/wiki/Richard_C._Blum) (Tier 3)
-- [RootsAction.org: Senator Profits from Wars and Post Office](https://act.rootsaction.org/p/dia/action/public/?action_KEY=7309) (Tier 4)
-- [The Real Deal: Feinstein's Pacific Heights Mansion Sales](https://therealdeal.com/san-francisco/2025/07/03/dianne-feinsteins-pacific-heights-mansion-sells/) (Tier 3)
-- [EPIC v. CIA: CIA Spying on Congress](https://epic.org/documents/epic-v-cia-cia-spying-on-congress/) (Tier 1)
+- [CBS News: Dianne Feinstein Net Worth at Death](https://www.cbsnews.com/news/dianne-feinstein-net-worth-richard-blum-children/) (Tier 2) (VERIFIED)
+- [FoundSF: Richard C. Blum and Dianne Feinstein — The Power Couple of California](https://www.foundsf.org/Main_Page?title=Richard_C._Blum_and_Dianne_Feinstein:_The_Power_Couple_of_California) (Tier 3) (NEEDS REVIEW: https://www.foundsf.org/Richard_C._Blum_and_Dianne_Feinstein:_The_Power_Couple_of_California is the correct URL)
+- [Mercury News: Feinstein Under Fire Over Defense Ties](https://www.mercurynews.com/2007/04/14/feinstein-under-fire-over-defense-ties/) (Tier 2) (SLOW: paywall)
+- [Wikipedia: Richard C. Blum](https://en.wikipedia.org/wiki/Richard_C._Blum) (Tier 3) (VERIFIED: Richard Blum? is this contextually right for Diane Fiensteins page?)
+- ~~[RootsAction.org: Senator Profits from Wars and Post Office](https://act.rootsaction.org/p/dia/action/public/?action_KEY=7309)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4)
+- [The Real Deal: Feinstein's Pacific Heights Mansion Sales](https://therealdeal.com/san-francisco/2025/07/03/dianne-feinsteins-pacific-heights-mansion-sells/) (Tier 3) (VERIFIED)
+- [EPIC v. CIA: CIA Spying on Congress](https://epic.org/documents/epic-v-cia-cia-spying-on-congress/) (Tier 1) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
 
@@ -156,7 +156,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 | 08/15/2018 | N/A | other | Unknown | N/A |
 | 07/17/2019 | N/A | other | Unknown | N/A |
 
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -190,7 +190,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 | ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE | $0 | $47,994 |
 | ONE NATION UNITED | $26,400 | $0 |
 
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CA00199/) (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S0CA00199/) (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
 ### Legislative Activity (GovTrack)
@@ -214,7 +214,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 | 2023-09-21 | On the Nomination PN537: Gen. Randy A. George, in the Army, to be General | Not Voting | Nomination Confirmed |
 | 2023-09-20 | Motion to Invoke Cloture: Gen. Randy A. George for appointment as Chief of Staff… | Not Voting | Cloture Motion Agreed to |
 
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300043) (Tier 1)
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300043) (Tier 1) (VERIFIED: slow but works)
 <!-- auto:govtrack end -->
 
 ### Voting Record
