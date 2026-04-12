@@ -147,6 +147,18 @@ This note does not allege specific criminal conduct. It locates Trump within a s
 
 ---
 
+## Class Analysis
+
+Donald Trump is not a servant of the donor class. He is an extraction machine that happens to align with donor-class interests when the price is right. The distinction matters: a captured politician serves one master. Trump runs a multi-directional grift, extracting from the billionaire class (access-selling, deregulation), from the working class (branded merchandise, crypto scams, culture war distraction), and from the state itself (federal contracts, tax policy, direct personal enrichment through presidential power).
+
+The 2024 funding structure reveals the class architecture. $1.45 billion raised. 44% from just 10 megadonors. Six individuals gave over $100 million each: Timothy Mellon ($125-197M, banking heir), Elon Musk ($292M total, holds $38B+ in federal contracts), Miriam Adelson ($100-148M, Israel maximalism), the Uihleins ($100M+, far-right infrastructure), Kenneth Griffin ($100M+, financial deregulation), Jeffrey Yass ($100M+, TikTok stake protection). Small-dollar donations collapsed from 50% in 2020 to under 30% in 2024. The populist movement is funded by oligarchs. The hat says "Make America Great Again." The check says "Make My Portfolio Tax-Free."
+
+The policy returns are explicit and documented. Fossil fuel industry ($75M+) got a declared energy emergency, drilling expansion, EPA weakened, methane limits delayed, and 31 environmental rules targeted for rollback. Crypto industry ($13.5M to inaugural alone) got a strategic Bitcoin reserve, CBDC banned, Biden-era oversight repealed, and a president personally profiting from the asset class he deregulates ($TRUMP meme coin, World Liberty Financial generating $460M+ for the family in H1 2025). Defense/surveillance (Peter Thiel/Palantir) got contracts doubling from $541M to $970.5M in one year. Private prisons (CoreCivic, GEO Group, $500K each) got immigration enforcement expansion filling their beds.
+
+The structural innovation Trump represents is the merger of state power and personal enrichment at a scale unprecedented in American history. The wealthiest cabinet in history. DOGE run by a billionaire targeting agencies that regulate his own companies. A media company ($DJT) valued at billions despite negligible revenue. Branded Bibles, NFTs, crypto coins, and a gold sneaker line extracting money from supporters. The presidency is not a public office in this model. It is a holding company. The working-class voters who wear the hat are the customer base. The billionaires who write the checks are the shareholders. And the president is the CEO who takes a cut of everything.
+
+---
+
 ## Connections to Existing Vault
 
 **Bianco:** Trump endorsement, America First Legal sanctuary lawsuit ([[_Stephen Miller Master Profile|Stephen Miller]]), immigration enforcement cooperation, gubernatorial campaign positioning. Bianco is the local-level implementation of the Trump model — constitutional sheriff ideology meets MAGA politics. [See: [[287(g) and the Sanctuary State Contradiction]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]]
