@@ -50,7 +50,9 @@ export default function MoneyTrailPage() {
   const svgRef = useRef<SVGSVGElement>(null)
   const simRef = useRef<Simulation<MoneyNode, MoneyEdge> | null>(null)
   const [loading, setLoading] = useState(true)
-  const [stats, setStats] = useState<Record<string, unknown>>({})
+  const [stats, setStats] = useState<{
+    totalEdges?: number; totalDonors?: number; totalPoliticians?: number; bothSidesCount?: number
+  }>({})
   const [hovered, setHovered] = useState<string | null>(null)
   const [maxNodes, setMaxNodes] = useState(200)
   const [filter, setFilter] = useState<"all" | "Democrat" | "Republican" | "donors" | "both-sides">("all")
@@ -265,6 +267,8 @@ export default function MoneyTrailPage() {
         if (!event.active) sim.alphaTarget(0)
         d.fx = null; d.fy = null
       })
+    // D3 drag behavior types don't align with selection types — safe cast
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     nodeEls.call(dragBehavior as any)
 
     // Tick
@@ -305,7 +309,7 @@ export default function MoneyTrailPage() {
       <div className="flex items-center gap-3 p-4 border-b border-[var(--color-border)] flex-wrap">
         <h1 className="text-sm font-bold tracking-wider text-[#f59e0b]">MONEY TRAIL</h1>
         <span className="text-[9px] text-[var(--color-text-dim)]">
-          {(stats as any).totalEdges || 0} monetary edges | {(stats as any).totalDonors || 0} donors | {(stats as any).totalPoliticians || 0} politicians | {(stats as any).bothSidesCount || 0} both-sides
+          {stats.totalEdges || 0} monetary edges | {stats.totalDonors || 0} donors | {stats.totalPoliticians || 0} politicians | {stats.bothSidesCount || 0} both-sides
         </span>
         {hovered && (
           <span className="text-[10px] text-[var(--color-text)] ml-2 font-mono">| {hovered}</span>
@@ -360,7 +364,7 @@ export default function MoneyTrailPage() {
       <div className="flex-1 relative bg-[#0c0c0f]">
         {loading ? (
           <div className="absolute inset-0 flex items-center justify-center text-[var(--color-text-dim)] text-sm animate-pulse">
-            Loading {(stats as any).totalEdges || "..."} monetary edges...
+            Loading {stats.totalEdges || "..."} monetary edges...
           </div>
         ) : (
           <svg ref={svgRef} width="100%" height="100%" style={{ display: "block" }} />

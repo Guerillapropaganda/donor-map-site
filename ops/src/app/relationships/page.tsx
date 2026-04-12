@@ -403,6 +403,8 @@ export default function RelationshipsPage() {
       .scaleExtent([0.2, 5])
       .on("zoom", (event) => g.attr("transform", event.transform))
     svg.call(zoomBehavior)
+    // Reset zoom to identity — D3 transform overload requires cast
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     svg.call(zoomBehavior.transform as any, zoomIdentity)
 
     // Links
@@ -570,6 +572,8 @@ export default function RelationshipsPage() {
         if (d.id !== "__center__") { d.fx = null; d.fy = null }
       })
 
+    // D3 drag behavior types don't align with selection types — safe cast
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     nodeEls.call(dragBehavior as any)
 
     // Tick
