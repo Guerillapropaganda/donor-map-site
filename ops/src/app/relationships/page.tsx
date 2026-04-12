@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect, useRef, useCallback } from "react"
+import { useState, useEffect, useRef, useCallback, useMemo } from "react"
 import type { Profile } from "@/lib/vault"
 import { typeColor } from "@/lib/vault"
 import {
@@ -267,6 +267,7 @@ export default function RelationshipsPage() {
   const d3SvgRef = useRef<SVGSVGElement>(null)
   const d3SimRef = useRef<Simulation<any, any> | null>(null)
   const [graphFilterTypes, setGraphFilterTypes] = useState<Set<string>>(new Set(["related", "donors", "opposes", "stories"]))
+  const [graphEntityFilters, setGraphEntityFilters] = useState<Set<string>>(new Set(["politician", "donor", "corporation", "think-tank", "lobbying-firm", "media-profile", "story", "pac", "unknown"]))
   const [hoveredNode, setHoveredNode] = useState<string | null>(null)
 
   // Attach non-passive wheel listener so we can preventDefault
@@ -338,22 +339,36 @@ export default function RelationshipsPage() {
     for (const p of profiles) entityTypeMap.set(norm(p.title), p.type || "unknown")
     for (const p of topConnected) entityTypeMap.set(norm(p.title), p.type || "unknown")
 
-    // Build nodes from filtered types
+    // Build nodes from filtered types — two-pass to handle dedup correctly
+    // Pass 1: collect ALL types each name belongs to
     interface ForceNode extends SimulationNodeDatum {
       id: string; name: string; relType: "related" | "donors" | "opposes" | "stories"
       entityType: string; bothSides: boolean; hasNote: boolean
     }
-    const nodes: ForceNode[] = []
     const types = ["donors", "related", "opposes", "stories"] as const
+    const nameTypes = new Map<string, { types: Set<string>; originalName: string }>()
     for (const t of types) {
-      if (!graphFilterTypes.has(t)) continue
       for (const name of selected[t]) {
-        if (nodes.find(n => norm(n.name) === norm(name))) continue
-        const bs = opposesNorm.has(norm(name)) && fundsNorm.has(norm(name))
-        const noteKey = `${selected.title}::${name}`
-        const et = entityTypeMap.get(norm(name)) || "unknown"
-        nodes.push({ id: name, name, relType: t, entityType: et, bothSides: bs, hasNote: !!relationNotes[noteKey]?.note })
+        const n = norm(name)
+        if (!nameTypes.has(n)) nameTypes.set(n, { types: new Set(), originalName: name })
+        nameTypes.get(n)!.types.add(t)
       }
+    }
+
+    // Pass 2: only include nodes that have at least one ACTIVE type
+    // Priority for coloring: opposes > donors > stories > related
+    const typePriority = ["opposes", "donors", "stories", "related"] as const
+    const nodes: ForceNode[] = []
+    for (const [normalizedName, info] of nameTypes) {
+      const activeTypes = [...info.types].filter(t => graphFilterTypes.has(t))
+      if (activeTypes.length === 0) continue
+      const primaryType = (typePriority.find(t => activeTypes.includes(t)) || activeTypes[0]) as typeof types[number]
+      const bs = opposesNorm.has(normalizedName) && fundsNorm.has(normalizedName)
+      const noteKey = `${selected.title}::${info.originalName}`
+      const et = entityTypeMap.get(normalizedName) || "unknown"
+      // Apply entity type filter
+      if (!graphEntityFilters.has(et)) continue
+      nodes.push({ id: info.originalName, name: info.originalName, relType: primaryType, entityType: et, bothSides: bs, hasNote: !!relationNotes[noteKey]?.note })
     }
 
     // Center node
@@ -550,7 +565,7 @@ export default function RelationshipsPage() {
     })
 
     return () => { sim.stop() }
-  }, [selected, tab, graphFilterTypes, relationNotes])
+  }, [selected, tab, graphFilterTypes, graphEntityFilters, relationNotes])
 
   useEffect(() => {
     Promise.all([
@@ -577,6 +592,25 @@ export default function RelationshipsPage() {
     const bConns = new Set(connections.filter((c) => c.source === b).map((c) => c.target))
     return [...aConns].filter((x) => bConns.has(x))
   }
+
+  // Pre-computed lookups to avoid O(n²) in List View rendering
+  const profileMap = useMemo(() => new Map(profiles.map(p => [p.title, p])), [profiles])
+  const sharedMap = useMemo(() => {
+    if (!selected) return new Map<string, string[]>()
+    const adj = new Map<string, Set<string>>()
+    for (const c of connections) {
+      if (!adj.has(c.source)) adj.set(c.source, new Set())
+      adj.get(c.source)!.add(c.target)
+    }
+    const selectedConns = adj.get(selected.title) || new Set<string>()
+    const map = new Map<string, string[]>()
+    for (const name of [...selected.related, ...selected.donors, ...selected.opposes, ...selected.stories]) {
+      const theirConns = adj.get(name) || new Set<string>()
+      const shared = [...selectedConns].filter(x => theirConns.has(x))
+      if (shared.length > 0) map.set(name, shared)
+    }
+    return map
+  }, [selected, connections])
 
   // Search — only show dropdown when typing, not when selected
   const searchResults = search.length >= 2 && showDropdown
@@ -1345,8 +1379,8 @@ export default function RelationshipsPage() {
                     <h4 className="text-[9px] uppercase tracking-wider mb-2" style={{ color: REL_COLORS[rt] }}>{REL_LABELS[rt]} ({items.length})</h4>
                     <div className="space-y-1">
                       {items.map((name) => {
-                        const shared = getSharedConnections(selected.title, name)
-                        const targetProfile = profiles.find((p) => p.title === name)
+                        const shared = sharedMap.get(name) || []
+                        const targetProfile = profileMap.get(name)
                         return (
                           <div key={name} className="flex items-center gap-2 p-2 bg-[var(--color-bg)] rounded hover:bg-[var(--color-bg-hover)] transition-colors group">
                             <span className="w-2 h-2 rounded-full" style={{ backgroundColor: REL_COLORS[rt] }} />
@@ -1470,6 +1504,32 @@ export default function RelationshipsPage() {
                         style={active ? { backgroundColor: REL_COLORS[t] } : {}}
                         title={`${active ? "Hide" : "Show"} ${REL_LABELS[t]} (${count})`}>
                         {REL_LABELS[t]} ({count})
+                      </button>
+                    )
+                  })}
+                  <span className="w-px h-4 bg-[var(--color-border)] mx-1" />
+                  {/* Entity type filter toggles */}
+                  {([
+                    { key: "politician", label: "Politicians", color: "#5b8dce" },
+                    { key: "donor", label: "Donors", color: "#22c55e" },
+                    { key: "think-tank", label: "Think Tanks", color: "#a855f7" },
+                    { key: "lobbying-firm", label: "K Street", color: "#f59e0b" },
+                    { key: "media-profile", label: "Media", color: "#ef4444" },
+                    { key: "story", label: "Stories", color: "#ec4899" },
+                  ] as const).map(({ key, label, color }) => {
+                    const active = graphEntityFilters.has(key)
+                    return (
+                      <button key={key}
+                        onClick={() => setGraphEntityFilters(prev => {
+                          const next = new Set(prev)
+                          if (next.has(key)) { next.delete(key); if (key === "donor") next.delete("corporation") }
+                          else { next.add(key); if (key === "donor") next.add("corporation") }
+                          return next
+                        })}
+                        className={`px-1.5 py-0.5 rounded text-[7px] font-mono border transition-all ${active ? "border-transparent text-white" : "border-[var(--color-border)] text-[var(--color-text-dim)] opacity-40"}`}
+                        style={active ? { backgroundColor: color } : {}}
+                        title={`${active ? "Hide" : "Show"} ${label}`}>
+                        {label}
                       </button>
                     )
                   })}
