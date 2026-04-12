@@ -47,11 +47,7 @@ known-gaps:
   - "CFPB dismantlement timeline under Trump II needs complete cataloging (partially documented)"
   - "Wealth tax proposal votes and co-sponsor retreat pattern needs full enumeration"
 related: "[[_Chuck Schumer Master Profile]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[DOGE - The Billionaires Government]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Kenneth Griffin]] · [[The CFPB and the Limits of Reform Within the System]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[ActBlue]]"
-opposes:
-  - "Fairshake PAC (crypto industry)"
-  - "Kenneth Griffin / Citadel"
-  - "Corporate PACs (refuses all corporate PAC money)"
-  - "Wall Street consolidation"
+opposes: "[[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]]"
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: ready-candidate

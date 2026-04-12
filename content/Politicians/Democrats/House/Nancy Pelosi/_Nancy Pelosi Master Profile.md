@@ -68,6 +68,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
+opposes: "[[_Donald Trump Master Profile]]"
 related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]]"
 wikidata-id: "Q170581"
 wikipedia-url: "https://en.wikipedia.org/wiki/Nancy_Pelosi"

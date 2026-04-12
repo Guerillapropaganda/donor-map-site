@@ -41,6 +41,7 @@ corroboration-count: 3
 known-gaps:
   - 5 sources tagged (URL NEEDED) — Times of Israel, Daily Free Press, Current Affairs, Democratic Left, Fox News. Prevents verified promotion.
   - Committee assignments data needs verification (auto-block pipeline)
+opposes: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 related: "[[_Hakeem Jeffries Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]]"
 opensanctions-status: "pep-sanctioned"
 opensanctions-matches: 2

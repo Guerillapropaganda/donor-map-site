@@ -21,6 +21,7 @@ top-donors:
   - "Pfizer"
   - "Moderna"
 fec-candidate-id: "P60012143"
+opposes: "[[_Donald Trump Master Profile]]"
 related: "[[Cory Booker]] · [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]]"
 last-enriched: "2026-04-08"
 needs-reenrichment: true

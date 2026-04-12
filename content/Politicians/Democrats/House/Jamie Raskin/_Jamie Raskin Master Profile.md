@@ -22,6 +22,7 @@ bills-cosponsored: 265
 website: "https://raskin.house.gov"
 phone: "202-225-5341"
 donors: "[[UNITE HERE]] · [[Demand Justice]]"
+opposes: "[[_Donald Trump Master Profile]]"
 related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
