@@ -1,9 +1,9 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-11
+last-updated: 2026-04-12
 ---
-<!-- last session: Phase 3 Part 3b (POST/DELETE upsert JSONL) + Part 4a (per-profile artifact) + story editorial round 2 (6 more vouched) + orphan cleanup (4,484 mirror edges) -->
+<!-- last session: Phase 3 Part 4b (Quartz components read canonical JSON) + orphan detector JSONL retarget + normalizer/artifact in dispatcher -->
 
 
 # Session State
@@ -13,6 +13,53 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-12 early morning — Phase 3 completion session
+
+### Theme
+Closed out Phase 3 entirely. The last architectural piece (Part 4b) ships the Quartz component migration: ProfileWidget.tsx and DiscoveryPanel.tsx now import data/relationships-per-profile.json directly and prefer its clean title arrays over parsing frontmatter wikilinks with regex. The live site at thedonormap.org will now show ~21,418 related connections (was ~11,745), ~1,940 story links (was ~17), and ~50 unconnected profiles (was ~600). Also retargeted the orphan detector to JSONL mode (3,869 orphans remaining — all aggregator targets correctly skipped by the normalizer) and wired the bidirectional-normalizer + per-profile artifact builder into the attention-dispatcher as weekly Sunday producers.
+
+### Done — Phase 3 Part 4b: Quartz components read canonical relationship JSON (commit `8b707e38` → merge `39de2c7a`)
+- `quartz/components/ProfileWidget.tsx`: imports `data/relationships-per-profile.json`, new `getRels(title)` helper does O(1) JSON lookup. Lines 42-63 (wikilink regex parsing into `ourLinkTargets` + `ourOpposesTargets` Sets) replaced with JSON array reads. Falls back to frontmatter regex when a profile isn't in the JSON yet. `politiciansFunded` (line 68), allFiles donor scan (line 80 `politicians-funded`), and allFiles mutual-reference scan (lines 108-120 `related/opposes/donors`) all prefer JSON with frontmatter fallback. `linkTargets` Set for shared-donor bridge now built from JSON arrays (lowercased to match downstream comparison). `fm["top-donors"]` and all profile metadata (party, chamber, sector, type, issues) remain from frontmatter — no canonical equivalent for curated sector data.
+- `quartz/components/DiscoveryPanel.tsx`: same `getRels` import + helper. Line 56 (allFiles donor scan `politicians-funded`) prefers JSON. `fFm["top-donors"]` stays from frontmatter (curated sector data).
+- `quartz/components/RelatedProfiles.tsx`: NOT modified (uses `fileData.links` body wikilink graph, not frontmatter).
+- Quartz build: 1,746 → 7,142 files emitted, exit 0, no errors from JSON import. esbuild resolves JSON imports natively.
+
+### Done — Orphan detector retargeted to JSONL (commit `a889b7ae` → merge `3d7fb810`)
+- `scripts/relationship-bidirectional.cjs`: defaults to JSONL mode (reads from `loadEdges()`, filters to active related, checks reverse edge existence). Reports 3,869 orphan pairs (all aggregator targets the normalizer correctly skipped). Pass `--frontmatter` for legacy mode (still reports 4,643). The 774-pair difference = non-aggregator orphans the normalizer already fixed.
+
+### Done — Normalizer + artifact builder wired into attention-dispatcher (same commit)
+- `scripts/attention-dispatcher.cjs`: 2 new producers (total now 8):
+  - `bidirectional-normalizer`: Sundays at 3:23am, runs `normalize-related-bidirectionality.cjs`, 60s timeout
+  - `per-profile-artifact`: Sundays at 3:25am, runs `build-relationships-per-profile.cjs`, 60s timeout
+
+### Known issues / still outstanding
+- **3 stories still need FEC Tier 1 source migration** (Intra-Republican, Schumer-McConnell, Michigan 2026). Editor-only work. Each profile's `known-gaps` field lists the exact FEC committee/candidate IDs needed.
+- **Contradiction 06 Crypto flagged by voice-drift-detector** (13 em dashes). Research Claude lane.
+- **Attention dispatcher shell:startup install.** 5-minute David task still pending.
+- **UptimeRobot / Healthchecks.io / Sentry accounts** not set up.
+- **Quartz components still have the frontmatter fallback path** (`if (!rels)`) — can be removed once the per-profile artifact regeneration is confirmed automated and all profiles are covered.
+- **`/api/relationships` POST/DELETE still writes to frontmatter** alongside JSONL. The frontmatter write can be removed once no Quartz component reads it (they now read JSON, but the fallback path still checks frontmatter for uncovered profiles).
+
+### Next session priorities
+1. **Content work.** Phase 3 architecture is done. Shift to editorial depth: Research Claude depth passes on verified candidates, draft→ready promotions, story cleanup.
+2. **David: FEC Tier 1 migration** on the 3 flagged stories (exact FEC IDs in each story's known-gaps). Editor-only.
+3. **Research Claude: voice cleanup** on Contradiction 06 Crypto (13 em dashes, tighten sentence length).
+4. **David: attention dispatcher shell:startup install** (5-min task: shortcut to scripts/attention-dispatcher.bat in Windows startup folder).
+5. **External services setup** (UptimeRobot + Healthchecks.io + Sentry — David's accounts).
+6. **Cleanup passes:** remove frontmatter fallback from Quartz components once regeneration is confirmed; remove frontmatter write from /api/relationships POST/DELETE; extract shared getRels + RelEntry type to quartz/util/relationships.ts.
+
+### Session end state
+- **Phase 3 is architecturally complete** (Parts 1 through 4b all shipped)
+- **Edge store: 24,333 edges, all valid.** 4 sources, 4 active types.
+- **Live site now reads canonical store** via data/relationships-per-profile.json import.
+- **8 dispatcher producers** running on cron: 5 original Attention Queue + discovery-scanner (4h) + normalizer (weekly) + artifact builder (weekly).
+- **Orphan metric: 3,869 remaining** (all aggregator targets — non-aggregator orphans are at zero).
+- **Latest deploys:** `39de2c7a` (Part 4b) + `3d7fb810` (orphan detector + dispatcher wiring)
+
+---
+
+## Previous Session
 Claude: Code (research hat where needed)
 Date: 2026-04-11 late night — four-item closing run
 
