@@ -153,8 +153,6 @@ office:: Senate
 state:: Ohio
 party:: Republican
 
-research-status:: active
-
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |

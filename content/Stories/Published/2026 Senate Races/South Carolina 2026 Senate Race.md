@@ -11,8 +11,6 @@ related: "[[Defense Contractor 450000 Percent ROI]] · [[Think Tank Capture - Fo
 
 tags: #analysis #story
 
-donors:: [[Lockheed Martin]] [[Raytheon Technologies]] [[Boeing Defense]] [[Bechtel Corporation]] [[Koch Network - Charles Koch|Koch Network]] Thomas B. Donohue - US Chamber of Commerce Progressive Billionaire Networks
-
 ---
 
 ### SOUTH CAROLINA 2026 SENATE RACE

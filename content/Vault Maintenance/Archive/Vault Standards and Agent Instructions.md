@@ -157,8 +157,6 @@ related: Display Name Donor - Full Name
 
 ---
 
-research-status:: active
-
 ```
 
 ### Critical elements:
@@ -212,7 +210,6 @@ donors: Donor - Full Name Another Donor
 
 ---
 
-research-status:: [reference|active|archived]
 ```
 
 ### Critical elements:
@@ -279,8 +276,6 @@ related: Name Rival Donor
 
 ---
 
-research-status:: [reference|active|archived]
-
 ```
 
 ### Critical elements:
@@ -325,8 +320,6 @@ This note exists as a breadcrumb. [Name] appears in the vault as [connection: e.
 3. [What biographical/revolving door research is needed?]
 
 ---
-
-research-status:: reference
 
 ```
 
@@ -685,4 +678,3 @@ Use this when building or updating notes:
 
 ---
 
-research-status:: reference

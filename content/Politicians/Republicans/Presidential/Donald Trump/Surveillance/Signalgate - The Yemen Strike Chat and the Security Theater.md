@@ -103,8 +103,6 @@ The $970.5 million spent on Palantir's surveillance platforms. The $10 billion P
 - [Axios. National security adviser Mike Waltz expected to depart (May 1, 2025)](https://www.axios.com/2025/05/01/waltz-resigns-trump-admin-signal-scandal) (Tier 2)
 - [Axios. Who was in the Trump administration's explosive Signal group chat](https://www.axios.com/2025/03/26/trump-signal-group-chat-members) (Tier 2)
 
-research-status:: Chat membership and contents from The Atlantic, Axios, and ABC News. IG findings from Pentagon IG report and PBS. Waltz departure from Axios. Hegseth second chat from NYT via PBS. Congressional oversight from House Oversight Committee. Remaining. Full IG report declassified findings, complete list of 19 members (3 unconfirmed), classified material assessment detail.
-
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
 | Metric | Value |

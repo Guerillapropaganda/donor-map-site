@@ -157,8 +157,6 @@ state:: New York
 district:: 25
 party:: Democrat
 
-research-status:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

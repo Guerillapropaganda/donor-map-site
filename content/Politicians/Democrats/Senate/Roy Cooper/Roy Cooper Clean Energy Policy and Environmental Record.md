@@ -10,8 +10,6 @@ related: "[[_Roy Cooper Master Profile|Roy Cooper]] · [[Roy Cooper Health Insur
 #politician #democrat #environment #energy-policy #clean-energy #north-carolina
 tags: #democrat
 
-donors:: Duke Energy NC Utilities Regulatory Commission Environmental Groups Renewable Energy Industry
-
 ---
 
 ### [[_Roy Cooper Master Profile|Roy Cooper]]'s Environmental Record: Real Wins with Structural Limitations

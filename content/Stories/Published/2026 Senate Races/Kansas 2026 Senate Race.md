@@ -16,10 +16,6 @@ known-gaps:
 
 tags: #analysis #story
 
-related:: Roger Marshall · Koch Industries · AFP Action · Kansas Politics
-
-donors:: Nueterra Capital · NRSC · McKee Foods · Koch Industries
-
 ---
 
 ### The Race

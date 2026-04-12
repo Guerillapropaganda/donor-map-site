@@ -181,8 +181,6 @@ office:: House
 state:: IL
 party:: Democrat
 
-research-status:: active
-
 ## Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._

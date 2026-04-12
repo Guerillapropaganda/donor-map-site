@@ -71,5 +71,3 @@ The Kushner operation doesn't choose one extraction method — it runs all of th
 - [DOJ: Charles Kushner conviction (2005), case records](https://www.justice.gov/archive/tax/txdv05618.htm) (Tier 1)
 - [U.S. Senate: Ambassador confirmation vote (51-45, May 2025)](https://www.senate.gov/senators/senators-contact.htm) (Tier 1)
 
-research-status:: ready — Full citation pass complete. ProPublica "tier one predator," Maryland $3.25M fine, Dirty Money documentary, Charles Kushner conviction/pardon/ambassador pipeline, multi-level extraction class analysis. 7 sources Tier 1-2 with URLs. All ### headers. Promoted Session 39.
-

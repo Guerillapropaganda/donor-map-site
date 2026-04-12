@@ -166,8 +166,6 @@ office:: Senate
 state:: Delaware
 party:: Democrat
 
-research-status:: ready
-
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
 | Metric | Value |

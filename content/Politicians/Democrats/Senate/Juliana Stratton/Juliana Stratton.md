@@ -10,7 +10,6 @@ related: "[[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois S
 #politician #democrat #senate #illinois #2026-candidate #black-woman-senator
 tags: #democrat
 
-donors:: [[Illinois Future PAC]] [[_JB Pritzker Master Profile|JB Pritzker]] Jennifer Pritzker [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[United Democracy Project - UDP|United Democracy Project]] [[Fairshake PAC]] Quentin Fulks
 ### Who They Are
 
 [[_Juliana Stratton Master Profile|Juliana Stratton]] is the Lieutenant Governor of Illinois (since 2019) and winner of the March 17, 2026 Democratic Senate primary to replace retiring Senator Dick Durbin. She is an African American woman attorney with a background in criminal justice, appointed as Lt. Governor by then-Gov. [[_JB Pritzker Master Profile|JB Pritzker]]. Her primary victory came on a wave of billionaire-funded Super PAC spending, particularly from Governor Pritzker's Illinois Future PAC ($14.9M), while facing $10M+ in crypto-backed opposition from [[Fairshake PAC|Fairshake PAC]] supporting her opponent Raja Krishnamoorthi.

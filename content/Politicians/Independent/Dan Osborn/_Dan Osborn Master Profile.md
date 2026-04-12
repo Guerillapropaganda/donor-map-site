@@ -168,8 +168,6 @@ office:: Senate
 state:: Nebraska
 party:: Independent
 
-research-status:: active
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

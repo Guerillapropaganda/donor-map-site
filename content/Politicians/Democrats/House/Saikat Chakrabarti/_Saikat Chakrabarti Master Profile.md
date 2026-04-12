@@ -45,8 +45,6 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 ---
 #saikat-chakrabarti #house #california #ca-11 #san-francisco #progressive #justice-democrats #stripe #tech-wealth #green-new-deal #class-analysis #follow-the-money
 
-donors:: [[Small Dollar Donors - ActBlue]]
-
 ---
 
 ### Sub-Notes

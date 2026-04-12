@@ -217,5 +217,3 @@ Unlike crypto's GENIUS Act (which passed into law in July 2025), AI regulatory l
 
 ---
 
-research-status:: ready — $125M raised, $70M cash on hand, Illinois deployment $2.5M+, major donors (Brockman $25M, a16z $25M), three-industry alliance pattern, regulatory capture strategy, copyright conflict, Meta $65M state PACs, Anthropic $50M Public First, CLARITY Act committee-level donations. 10+ sources, Tier 1-2. All ### headers. Updated Session auto-finance (March 24, 2026).
-

@@ -13,8 +13,6 @@ related: "[[_Ashley Hinson Master Profile]] · [[_Zach Wahls Master Profile]] ·
 
 tags: #analysis #story
 
-donors:: [[Senate Leadership Fund]] Ethanol Lobby Agribusiness Networks [[Democratic Senatorial Campaign Committee]]
-
 ---
 
 ### IOWA 2026 SENATE RACE
@@ -58,4 +56,3 @@ Sector-specific donor networks:
 
 ---
 
-research-status:: active

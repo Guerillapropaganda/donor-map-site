@@ -34,7 +34,6 @@ internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-biog
 #politician #democrat #senate #north-carolina #2026-candidate
 tags: #democrat
 
-donors:: [[Blue Cross Blue Shield Association]] [[Anthem PAC]] [[Centene Corporation PAC]] CVS Health PAC [[UnitedHealth Group - Optum|UnitedHealth Group PAC]]
 ---
 
 ## Who They Are

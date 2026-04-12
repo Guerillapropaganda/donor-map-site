@@ -13,8 +13,6 @@ related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master P
 ---
 #story #cuba-policy #campaign-finance #trademark-law #title-iii #bacardi #helms-burton #corporate-influence
 
-donors:: [[Bacardi - Bacardi USA]] · [[Fanjul Family - Florida Crystals]] · [[U.S.-Cuba Democracy PAC]] · [[Mauricio Claver-Carone]] · [[Otto Reich]] · [[Dan Burton]] · [[Jesse Helms]]
-
 ### The Shootdown That Changed Everything
 
 On February 24, 1996, two Cessna 337 aircraft belonging to Brothers to the Rescue—a Miami-based humanitarian group—were shot down by Cuban MiG-23 and MiG-29 fighters in international airspace. Four American pilots were killed. The International Civil Aviation Organization confirmed the planes were in international waters when destroyed, yet Cuba justified the action as defense against what it claimed were unwarranted intrusions.

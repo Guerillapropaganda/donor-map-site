@@ -193,9 +193,6 @@ The contradiction is rendered invisible by framing media decisions as editorial 
 
 ---
 
-research-status:: ready — Full citation pass complete. Fox News/Murdoch ($787.5M Dominion settlement), Sinclair must-run segments (193 stations), Trump Media ($712M net loss, $3.68M revenue), Newsmax/OAN, Elon Musk X algorithm capture ($118M America PAC), Soon-Shiong LA Times non-endorsement, Bezos Washington Post editorial retreat, class analysis. 16 sources Tier 1-3 with URLs. All ### headers. Promoted Session 38n.
-
-
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**

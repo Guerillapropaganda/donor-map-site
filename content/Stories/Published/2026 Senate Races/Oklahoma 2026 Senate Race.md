@@ -13,8 +13,6 @@ related: "[[2026 Senate Map]] · [[Congressional Oil & Gas Funding]] · [[Kevin 
 #2026-election #senate #oklahoma #race-frame
 tags: #analysis #story
 
-donors:: Continental Resources · Devon Energy
-
 ### The Race
 
 Oklahoma's 2026 Senate seat opened unexpectedly when Markwayne Mullin resigned in March 2026 to assume the DHS Secretary position. Governor Kevin Stitt appointed oil and gas executive Alan Armstrong, though Armstrong faces a constitutional ineligibility question regarding his ability to seek election given oath-related constraints. James Lankford's Senate seat remains secure, expiring in 2029.

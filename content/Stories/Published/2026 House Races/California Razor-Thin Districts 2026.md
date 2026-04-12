@@ -14,8 +14,6 @@ related: "[[2026 House Money Map]] · [[DCCC Red-to-Blue Targets 2026]] · [[GOP
 
 tags: #analysis #story
 
-donors:: Republican House Defense Super PACs Democratic House Majority PAC
-
 ---
 
 ### CALIFORNIA RAZOR-THIN DISTRICTS 2026

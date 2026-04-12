@@ -182,8 +182,6 @@ office:: Democratic Candidate for Governor (Ohio, 2026)
 state:: OH
 party:: Democrat
 
-research-status:: active
-
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |

@@ -146,8 +146,6 @@ office:: Senate
 state:: Oregon
 party:: Democrat
 
-research-status:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

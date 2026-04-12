@@ -156,8 +156,6 @@ office:: Senate
 state:: Hawaii
 party:: Democrat
 
-research-status:: ready
-
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
 | Metric | Value |

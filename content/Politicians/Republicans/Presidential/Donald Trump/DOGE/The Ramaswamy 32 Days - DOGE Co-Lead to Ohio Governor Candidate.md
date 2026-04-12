@@ -78,4 +78,3 @@ Fox News mocked his tenure as lasting "three Scaramuccis." The comparison was ap
 - [Time. Here's what DOGE is doing across the federal government](https://time.com/7222251/doge-musk-federal-workers-government/) (Tier 2)
 - [PBS NewsHour. DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2)
 
-research-status:: Ramaswamy departure timeline from CNN, Washington Post. H-1B controversy from X posts and Bannon commentary. Ohio campaign from AP. Net worth from Forbes. Strive background from SEC filings. Remaining. Specific DOGE meetings attended, Roivant Sciences federal regulatory exposure, Strive Asset Management portfolio detail.

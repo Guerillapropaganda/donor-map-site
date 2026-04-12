@@ -130,5 +130,3 @@ Sub-notes for full sourcing:
 - Dark money architecture: [[Dark Money Networks - The Shadow System]]
 - AIPAC cross-spectrum: [[AIPAC - American Israel Public Affairs Committee]]
 
-research-status:: draft, 4 sectors documented: defense/NDAA, stock trading reform, dark money architecture, Israel/AIPAC. 10 sources (all Chrome-verified 2026-03-27). FEC committee ID corrected (C00573519 → C00504530). Temporal mapping table with 10 entries. 3 callout blocks. Added to Cross-Politician Contradiction Map index.
-

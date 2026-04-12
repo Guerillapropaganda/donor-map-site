@@ -26,7 +26,6 @@ related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner M
 #politician #democrat #governor #maine #2026-senate-candidate
 tags: #democrat
 
-donors:: [[Democratic Senatorial Campaign Committee]] DSCC Partners and Leadership PACs
 ---
 
 ## Who They Are
@@ -136,8 +135,6 @@ Mills employs prosecutor-turned-executive pragmatism: she frames issues through 
 office:: Governor (2019-2025); Senate Candidate (2026)
 state:: ME
 party:: Democrat
-
-research-status:: active
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

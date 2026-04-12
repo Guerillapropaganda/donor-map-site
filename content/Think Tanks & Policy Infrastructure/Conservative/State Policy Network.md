@@ -123,8 +123,6 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 
 ---
 
-research-status:: draft — Core financial profile, network structure, and funding sources documented. Gaps: complete affiliate list with individual financials, specific policy outcomes by state, detailed ALEC model bill adoption tracking, lobbying expenditure data for 501(c)(4) affiliates. ProPublica 990 data provides strongest financial sourcing.
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

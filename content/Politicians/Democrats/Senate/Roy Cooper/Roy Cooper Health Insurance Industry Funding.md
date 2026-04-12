@@ -10,8 +10,6 @@ related: "[[Roy Cooper Clean Energy Policy and Environmental Record]] · [[_Roy 
 #politician #democrat #healthcare #insurance #donor-analysis #north-carolina
 tags: #democrat
 
-donors:: [[Blue Cross Blue Shield Association]] [[Anthem PAC]] [[Centene Corporation PAC]] CVS Health PAC [[UnitedHealth Group - Optum|UnitedHealth Group PAC]] Cigna Corporation PAC
-
 ---
 
 ### [[_Roy Cooper Master Profile|Roy Cooper]]'s Health Insurance Industry Dependency

@@ -164,8 +164,6 @@ office:: Senate
 state:: New Mexico
 party:: Democrat
 
-research-status:: ready
-
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |

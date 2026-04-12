@@ -171,8 +171,6 @@ Bianco is a direct foil to Newsom on several policy areas already documented:
 - ~~[FPPC: Campaign finance records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Chad Bianco](https://ballotpedia.org/Chad_Bianco) (Tier 3) (VERIFIED)
 
-research-status:: ready — Full citation pass complete. Source format standardized (12 sources, Tier 1-4). RSA 95% single-patron model, Oath Keepers/CSPOA affiliation, 18 jail deaths 2022, Prop 50 investigation, donation-to-policy timeline (12 entries). All ### headers, class analysis present. Remaining research: FPPC dollar figures for RSA across all cycles, 2022 donor class positions (Chandi, Matzner, Haagen). Promoted Session 38j.
-
 ---
 
 ### March 2026 Update — Election Probe and AG Conflict

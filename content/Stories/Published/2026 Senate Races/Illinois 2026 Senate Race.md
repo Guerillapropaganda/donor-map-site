@@ -11,8 +11,6 @@ related: "[[Georgia 2026 Senate Race]] · [[_Juliana Stratton Master Profile|Jul
 
 tags: #analysis #story
 
-donors:: Jay Pritzker [[Fairshake PAC - Crypto Super PAC|Fairshake]] [[Illinois Future PAC]]
-
 ---
 
 ### ILLINOIS 2026 SENATE RACE
@@ -52,4 +50,3 @@ Donor networks:
 
 ---
 
-research-status:: active

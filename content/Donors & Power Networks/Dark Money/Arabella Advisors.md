@@ -180,8 +180,6 @@ The point: some funder identities have leaked through investigative journalism, 
 
 ---
 
-research-status:: ready — Full citation pass complete. $1.7B+ network, seven interconnected 501(c)(4)s mapped, $220M+ management fees, Eric Kessler profile, Leo mirror-image comparison, pop-up model documented, Chorus program collapse, Sunflower Services rebrand, Texas 2026 dark money trail, known donor flows ($125M+ Soros, $100M+ Wyss). 8 sources, Tier 1-3. All ### headers, callout blocks fixed. Promoted Session 38j.
-
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |

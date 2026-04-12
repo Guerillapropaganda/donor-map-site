@@ -14,8 +14,6 @@ related: "[[AIPAC United Democracy Project 2026 Primary Intervention]] · [[Fair
 
 tags: #analysis #story
 
-donors:: House Majority PAC · Congressional Leadership Fund · DCCC · NRCC
-
 ---
 
 ### TOP 10 MOST EXPENSIVE HOUSE RACES 2026

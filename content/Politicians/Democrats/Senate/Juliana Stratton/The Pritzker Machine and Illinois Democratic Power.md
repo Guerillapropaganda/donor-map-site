@@ -11,8 +11,6 @@ related: "[[Juliana Stratton]] · [[_JB Pritzker Master Profile|JB Pritzker]] ·
 
 tags: #democrat
 
-donors:: [[_JB Pritzker Master Profile|JB Pritzker]] Jennifer Pritzker [[Illinois Future PAC]] Quentin Fulks
-
 ### What Is the Pritzker Machine?
 
 [[_JB Pritzker Master Profile|JB Pritzker]], billionaire Governor of Illinois (second term, elected 2022), has consolidated executive power and leveraged personal wealth to shape Democratic primary outcomes in the state. The "Pritzker Machine" describes his use of:

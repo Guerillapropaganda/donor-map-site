@@ -64,5 +64,3 @@ The dual role is the perfected model: maintain government influence (shaping pol
 
 - [Senate Finance Committee: Ongoing conflict investigation](https://www.finance.senate.gov/chairmans-news) (Tier 1)
 
-research-status:: ready — Full citation pass complete. Abraham Accords (UAE/Bahrain), $23B F-35/drone sales, monetization pipeline ($157M fees), MBS WhatsApp relationship, Khashoggi timeline, dual role (informal adviser + Affinity Partners). 6 sources Tier 1-2 with URLs. All ### headers. Promoted Session 39.
-

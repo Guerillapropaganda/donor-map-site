@@ -11,8 +11,6 @@ related: "[[_Janet Mills Master Profile|Janet Mills]]"
 
 tags: #democrat
 
-donors:: Pharmaceutical Industry PACs [[Democratic Senatorial Campaign Committee]]
-
 ---
 
 ### Opioid Litigation and Pharmaceutical Industry Accountability

@@ -142,8 +142,6 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 
 ---
 
-research-status:: draft. Financial profile, lobbying expenditures, and PAC contributions documented. One URL flagged as broken (AFPM exec orders statement, 404). Gaps: complete member company list, detailed lobbying issue breakdown by bill, specific policy outcomes tied to lobbying expenditures, historical lobbying spend trend. OpenSecrets and ProPublica 990 data provide strongest sourcing.
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

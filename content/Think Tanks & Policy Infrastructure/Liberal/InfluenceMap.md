@@ -111,8 +111,6 @@ InfluenceMap occupies a specific structural position in the political economy of
 
 ---
 
-research-status:: draft — Organizational profile, platform descriptions, and funder list documented. Gaps: detailed financial breakdown (UK entity financials not fully extracted), complete funder list with amounts, specific report findings on individual companies tracked in this vault, historical revenue trend. UK Companies House filings available for deeper financial analysis.
-
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
 | Metric | Value |

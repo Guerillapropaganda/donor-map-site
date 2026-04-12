@@ -170,8 +170,6 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 - [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3) (VERIFIED)
 - [Federal court filings documented in multiple sources](https://www.themarshallproject.org/2025/12/06/prison-food-abuse-aramark-lawsuit) (Tier 1) (VERIFIED)
 
-research-status:: ready — $17.4B revenue, 450+ facilities, 380M meals/yr, $1.6B corrections revenue, Union Supply acquisition, commissary trap analysis, SF County $19.7M contract, 300 CA employees banned, 130+ federal lawsuits. 5 sources, Tier 1-3. All ### headers. Promoted Session 38l.
-
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |

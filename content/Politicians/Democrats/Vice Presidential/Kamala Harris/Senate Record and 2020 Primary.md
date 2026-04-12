@@ -148,5 +148,3 @@ See [[AIPAC - American Israel Public Affairs Committee]] for the national discip
 
 ### VP Selection:
 
-research-status:: ready — Full citation pass complete. 2016 Senate race ($15.5M raised, Mnuchin $2K donation), Kavanaugh/Barr hearings, FOSTA-SESTA analysis, Medicare for All evolution (co-sponsor → abandon), 2020 primary ($39.2M raised, Gabbard debate moment), VP selection, AIPAC positioning. 23 sources Tier 1-3 with URLs. All ### headers. Promoted Session 38n.
-

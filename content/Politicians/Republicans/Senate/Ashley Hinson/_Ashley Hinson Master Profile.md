@@ -41,7 +41,6 @@ last-enriched: "2026-04-10"
 #politician #republican #senate #iowa #2026-candidate
 tags: #republican
 
-donors:: [[Senate Leadership Fund]] [[Winning for Women PAC]] Agriculture Industry PACs · [[AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)]] · [[OPPORTUNITY MATTERS FUND, INC.]]
 ---
 
 ## Who They Are
@@ -155,8 +154,6 @@ Hinson campaigns as a fresh face bringing "communication skills" and "outsider p
 office:: U.S. Representative (IA-02, 2021-present); Senate Candidate (2026)
 state:: IA
 party:: Republican
-
-research-status:: active
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->

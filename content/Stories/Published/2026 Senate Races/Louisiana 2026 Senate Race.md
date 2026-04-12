@@ -16,10 +16,6 @@ known-gaps:
 
 tags: #analysis #story
 
-related:: Bill Cassidy · John Fleming · Julia Letlow · Nick Albares
-
-donors:: [[Oil & Gas Industry]] · [[AIPAC]] · [[Susan B. Anthony Pro-Life America PAC]]
-
 ---
 
 ### LOUISIANA 2026 SENATE RACE

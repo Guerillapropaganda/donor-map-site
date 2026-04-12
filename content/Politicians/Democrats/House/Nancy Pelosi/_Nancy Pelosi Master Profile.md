@@ -229,8 +229,6 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 - NPR — Pelosi-Squad clash, BBB→IRA transition (Tier 2)
 - Quiver Quantitative — Pelosi net worth tracking ($274.2M) (Tier 3)
 
-research-status:: ready — Full citation pass complete. $1.6B fundraising machine, DCCC blacklist/dues system, stock trading record (Visa IPO, NVDA CHIPS), Biden exit orchestration, AIPAC $618K+, donation-to-policy timeline (10 entries). All ### headers, source format standardized, Tier 1-2 sources verified, class analysis present. Promoted Session 38j.
-
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |

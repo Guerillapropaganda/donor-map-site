@@ -95,8 +95,6 @@ Reclaim America PAC is a standard leadership PAC that functions as Rubio's polit
 
 ---
 
-research-status:: draft — Complete 2023–2024 cycle data documented from FEC and OpenSecrets. Gaps: historical cycle data (pre-2023), Rubio's relationship to specific donors, policy outcomes tied to candidate support, comparison to other leadership PACs. FEC API available for historical filing data.
-
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)

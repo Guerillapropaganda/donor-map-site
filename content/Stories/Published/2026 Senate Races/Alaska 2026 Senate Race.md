@@ -16,10 +16,6 @@ known-gaps:
 
 tags: #analysis #story
 
-related:: Dan Sullivan Mary Peltola Alaska Oil and Gas Industry Commercial Fishing Industry - Alaska
-
-donors:: [[ConocoPhillips]] [[ExxonMobil]] [[Chevron]] Alaska Oil and Gas Industry Bloc National Fisheries Coalition
-
 ---
 
 ### ALASKA 2026 SENATE RACE

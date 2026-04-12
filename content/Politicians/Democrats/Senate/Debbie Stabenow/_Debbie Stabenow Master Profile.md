@@ -145,8 +145,6 @@ office:: Senate
 state:: Michigan
 party:: Democrat
 
-research-status:: ready
-
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
 | Metric | Value |

@@ -13,8 +13,6 @@ related: "[[_Susan Collins Master Profile]] Â· [[_Janet Mills Master Profile]] Â
 
 tags: #analysis #story
 
-donors:: [[Senate Leadership Fund]] Majority Forward - Democratic Dark Money One Nation - Republican Dark Money
-
 ---
 
 ### MAINE 2026 SENATE RACE
@@ -55,4 +53,3 @@ Dark money networks:
 
 ---
 
-research-status:: active
